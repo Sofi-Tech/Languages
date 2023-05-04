@@ -1,0 +1,14 @@
+{
+  "name": "diário",
+  "description": "Reivindique seus prêmios diários e mantenha a sequência para ganhar recompensas incríveis.",
+  "category": "Cartas",
+  "EMBED_AUTHOR": "Diário de {{author}}",
+  "DAILY_ERROR": "Você pode reivindicar seu prêmio diário após **{{timeout}}** \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dias restantes para reivindicar um Baú Comum",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dias restantes para reivindicar um Baú Raro",
+  "NOTE": "\n⚠️ A equipe do Discord ou do Sofi nunca pedirá sua senha, OTPs ou alteração de e-mail, nem se comunicará usando bots de terceiros como Mee6 / Dyno. Qualquer coisa oferecida gratuitamente ou solicitada para entrar em um servidor é suspeita. Denuncie em {{link}}",
+  "EMBED_FOOTER": "Sequência [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Obrigado por reivindicar seu prêmio diário** \n",
+  "GUILD_BONUS": "**Bônus de Servidor Top 20 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}",
+  "SILVER_BONUS": "<:silvercoin:915619222229512213> + {{silverAmount}}"
+}

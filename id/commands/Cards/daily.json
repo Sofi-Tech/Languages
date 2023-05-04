@@ -1,0 +1,14 @@
+{
+  "name": "harian",
+  "description": "Klaim hadiah harian Anda dan pertahankan keberuntungan Anda untuk mendapatkan hadiah luar biasa.",
+  "category": "Kartu",
+  "EMBED_AUTHOR": "Harian milik {{author}}",
+  "DAILY_ERROR": "Anda bisa klaim hadiah harian Anda setelah **{{timeout}}** \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} hadiah harian tersisa untuk mendapatkan Peti Biasa",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} hadiah harian tersisa untuk mendapatkan Peti Langka",
+  "NOTE": "\n⚠️ Pihak Discord atau Sofi tidak akan pernah meminta kata sandi, otps atau mengubah email atau berkomunikasi menggunakan bot pihak ketiga seperti Mee6/Dyno. Apa pun yang ditawarkan kepada Anda secara gratis atau diminta untuk bergabung dengan server adalah mencurigakan. Laporkan hal tersebut di {{link}}",
+  "EMBED_FOOTER": "Keberuntungan [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Terima kasih telah mengklaim hadiah harian Anda** \n",
+  "GUILD_BONUS": "**Bonus Server 20 Teratas x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}",
+  "SILVER_BONUS": "<:silvercoin:915619222229512213> + {{silverAmount}}"
+}
