@@ -1,13 +1,12 @@
 {
-    "name": "每日任务",
-    "description": "领取每日任务并保持连续领取以获取丰厚奖励。",
-    "category": "卡牌",
-    "EMBED_AUTHOR": "{{author}}的每日任务",
-    "DAILY_ERROR": "你需要等待{{timeout}}后才能领取每日任务\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> 还有{{count}}个每日任务可领取普通宝箱",
-    "RARE_CHEST": "<:rarechest:927204672270372874> 还有{{count}}个每日任务可领取稀有宝箱",
-    "NOTE": "\n⚠️ Discord 或 Sofi 员工不会要求你提供密码、OTP或更改电子邮件，也不会使用第三方机器人（如 Mee6/Dyno）进行沟通。任何免费提供给你的内容或要求你加入服务器的行为都是可疑的。请在 {{link}} 报告。",
-    "EMBED_FOOTER": "连续领取天数 [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "感谢你领取每日任务 \n",
-    "GUILD_BONUS": "前20名服务器奖励 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DESCRIPTION": "领取每日任务并保持连续领取以获取丰厚奖励。",
+  "CATEGORY": "卡牌",
+  "EMBED_AUTHOR": "{{author}}的每日任务",
+  "DAILY_ERROR": "你需要等待{{timeout}}后才能领取每日任务\n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> 还有{{count}}个每日任务可领取普通宝箱",
+  "RARE_CHEST": "<:rarechest:927204672270372874> 还有{{count}}个每日任务可领取稀有宝箱",
+  "NOTE": "\n⚠️ Discord 或 Sofi 员工不会要求你提供密码、OTP或更改电子邮件，也不会使用第三方机器人（如 Mee6/Dyno）进行沟通。任何免费提供给你的内容或要求你加入服务器的行为都是可疑的。请在 {{link}} 报告。",
+  "EMBED_FOOTER": "连续领取天数 [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "感谢你领取每日任务 \n",
+  "GUILD_BONUS": "前20名服务器奖励 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

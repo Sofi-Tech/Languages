@@ -1,13 +1,12 @@
 {
-    "name": "quotidien",
-    "description": "Réclamez votre quotidien et maintenez la série pour obtenir des récompenses incroyables.",
-    "category": "Cartes",
-    "EMBED_AUTHOR": "Quotidiens de {{author}}",
-    "DAILY_ERROR": "Vous pouvez réclamer votre quotidien après **{{timeout}}** \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} quotidiens restants pour réclamer un coffre commun",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} quotidiens restants pour réclamer un coffre rare",
-    "NOTE": "\n⚠️ Le personnel de Discord ou Sofi ne vous demandera jamais votre mot de passe, vos OTP ou la modification de votre adresse e-mail ou ne communiquera pas via des bots tiers comme Mee6/Dyno. Tout ce qui vous est offert gratuitement ou ce qui vous est demandé pour rejoindre un serveur est suspect. Signalez-le à {{link}}",
-    "EMBED_FOOTER": "Série [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "**Merci d'avoir réclamé votre quotidien** \n",
-    "GUILD_BONUS": "**Bonus serveur top 20 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DESCRIPTION": "Réclamez votre quotidien et maintenez la série pour obtenir des récompenses incroyables.",
+  "CATEGORY": "Cartes",
+  "EMBED_AUTHOR": "Quotidiens de {{author}}",
+  "DAILY_ERROR": "Vous pouvez réclamer votre quotidien après **{{timeout}}** \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} quotidiens restants pour réclamer un coffre commun",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} quotidiens restants pour réclamer un coffre rare",
+  "NOTE": "\n⚠️ Le personnel de Discord ou Sofi ne vous demandera jamais votre mot de passe, vos OTP ou la modification de votre adresse e-mail ou ne communiquera pas via des bots tiers comme Mee6/Dyno. Tout ce qui vous est offert gratuitement ou ce qui vous est demandé pour rejoindre un serveur est suspect. Signalez-le à {{link}}",
+  "EMBED_FOOTER": "Série [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Merci d'avoir réclamé votre quotidien** \n",
+  "GUILD_BONUS": "**Bonus serveur top 20 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
