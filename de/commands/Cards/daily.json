@@ -1,14 +1,13 @@
 {
-  "name": "daily",
-  "description": "Fordere deine täglichen Belohnungen ein und behalte deine Serie bei, um erstaunliche Preise zu erhalten.",
-  "category": "Karten",
-  "EMBED_AUTHOR": "{{author}}'s Tägliche Belohnungen",
-  "DAILY_ERROR": "Du kannst deine tägliche Belohnung erst nach **{{timeout}}** abrufen. \n",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} tägliche Belohnungen übrig, um eine gewöhnliche Kiste zu erhalten.",
-  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} tägliche Belohnungen übrig, um eine seltene Kiste zu erhalten.",
-  "NOTE": "\n⚠️ Discord- oder Sofi-Mitarbeiter werden dich niemals nach deinem Passwort, OTPs oder einer Änderung deiner E-Mail-Adresse fragen oder über Drittanbieter-Bots wie Mee6/Dyno kommunizieren. Alles, was dir kostenlos angeboten wird oder dich zum Beitritt aufgefordert wird, ist verdächtig. Melde es unter {{link}}.",
-  "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "**Vielen Dank, dass du deine täglichen Belohnungen abgeholt hast.** \n",
-  "GUILD_BONUS": "**Top 20 Server Bonus x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}",
-  "SILVER_BONUS": "<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "name": "daily",
+    "description": "Fordere deine täglichen Belohnungen ein und behalte deine Serie bei, um erstaunliche Preise zu erhalten.",
+    "category": "Karten",
+    "EMBED_AUTHOR": "{{author}}'s Tägliche Belohnungen",
+    "DAILY_ERROR": "Du kannst deine tägliche Belohnung erst nach **{{timeout}}** abrufen. \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} tägliche Belohnungen übrig, um eine gewöhnliche Kiste zu erhalten.",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} tägliche Belohnungen übrig, um eine seltene Kiste zu erhalten.",
+    "NOTE": "\n⚠️ Discord- oder Sofi-Mitarbeiter werden dich niemals nach deinem Passwort, OTPs oder einer Änderung deiner E-Mail-Adresse fragen oder über Drittanbieter-Bots wie Mee6/Dyno kommunizieren. Alles, was dir kostenlos angeboten wird oder dich zum Beitritt aufgefordert wird, ist verdächtig. Melde es unter {{link}}.",
+    "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "**Vielen Dank, dass du deine täglichen Belohnungen abgeholt hast.** \n",
+    "GUILD_BONUS": "**Top 20 Server Bonus x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
