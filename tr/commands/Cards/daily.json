@@ -1,0 +1,13 @@
+{
+    "name": "günlük",
+    "description": "Günlük ödülleri alın ve ödülünüzü almak için seri devam ettirin.",
+    "category": "Kartlar",
+    "EMBED_AUTHOR": "{{author}}'ın Günlükleri",
+    "DAILY_ERROR": "**{{timeout}}** sonra günlük ödülünüzü alabilirsiniz. \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} günlük kaldı, orta seviye bir sandık alabilirsiniz",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} günlük kaldı, nadir seviye bir sandık alabilirsiniz",
+    "NOTE": "\n⚠️ Discord veya Sofi personeli şifre, OTP veya e-posta değiştirme gibi bilgileri asla istemez veya Mee6/Dyno gibi üçüncü taraf botları kullanarak iletişim kurmaz. Ücretsiz bir şey sunulduysa veya bir sunucuya katılmak istendiğinde şüphelidir. {{link}} adresinden bildirin.",
+    "EMBED_FOOTER": "Seri [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "**Günlük ödüllerinizi aldığınız için teşekkür ederiz.** \n",
+    "GUILD_BONUS": "**En iyi 20 Sunucu Bonusu x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+}
