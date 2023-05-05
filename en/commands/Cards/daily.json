@@ -1,14 +1,13 @@
 {
-  "name": "daily",
-  "description": "Claim your dailies and maintain the streak to get amazing rewards.",
-  "category": "Cards",
-  "EMBED_AUTHOR": "{{author}}'s Dailies",
-  "DAILY_ERROR": "You can claim your daily after **{{timeout}}** \n",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dailies left to claim a Common Chest",
-  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dailies left to claim a Rare Chest",
-  "NOTE": "\n⚠️ Discord or Sofi Staff will never ask for password, otps or changing email or communicate using third party bots like Mee6/Dyno. Anything offered to you for free or being asked to join a server is suspicious. Report it at {{link}}",
-  "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "**Thank you for claiming your dailies** \n",
-  "GUILD_BONUS": "**Top 20 Server Bonus x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}",
-  "SILVER_BONUS": "<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "name": "daily",
+    "description": "Claim your dailies and maintain the streak to get amazing rewards.",
+    "category": "Cards",
+    "EMBED_AUTHOR": "{{author}}'s Dailies",
+    "DAILY_ERROR": "You can claim your daily after **{{timeout}}** \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dailies left to claim a Common Chest",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dailies left to claim a Rare Chest",
+    "NOTE": "\n⚠️ Discord or Sofi Staff will never ask for password, otps or changing email or communicate using third party bots like Mee6/Dyno. Anything offered to you for free or being asked to join a server is suspicious. Report it at {{link}}",
+    "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "**Thank you for claiming your dailies** \n",
+    "GUILD_BONUS": "**Top 20 Server Bonus x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
