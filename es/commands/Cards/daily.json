@@ -1,14 +1,13 @@
 {
-  "name": "diario",
-  "description": "Reclama tu diario y mantén la racha para obtener increíbles recompensas.",
-  "category": "Tarjetas",
-  "EMBED_AUTHOR": "Diario de {{author}}",
-  "DAILY_ERROR": "Puedes reclamar tu diario después de **{{timeout}}** \n",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} diarios restantes para reclamar un cofre común",
-  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} diarios restantes para reclamar un cofre raro",
-  "NOTE": "\n⚠️ El personal de Discord o Sofi nunca te pedirá tu contraseña, códigos OTP o cambiar tu correo electrónico ni se comunicará utilizando bots de terceros como Mee6 / Dyno. Cualquier cosa que te ofrezcan gratis o que te pidan que te unas a un servidor es sospechoso. Infórmalo en {{link}}",
-  "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "**Gracias por reclamar tu diario** \n",
-  "GUILD_BONUS": "**Bono de servidor Top 20 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}",
-  "SILVER_BONUS": "<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "name": "diario",
+    "description": "Reclama tu diario y mantén la racha para obtener increíbles recompensas.",
+    "category": "Tarjetas",
+    "EMBED_AUTHOR": "Diario de {{author}}",
+    "DAILY_ERROR": "Puedes reclamar tu diario después de **{{timeout}}** \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} diarios restantes para reclamar un cofre común",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} diarios restantes para reclamar un cofre raro",
+    "NOTE": "\n⚠️ El personal de Discord o Sofi nunca te pedirá tu contraseña, códigos OTP o cambiar tu correo electrónico ni se comunicará utilizando bots de terceros como Mee6 / Dyno. Cualquier cosa que te ofrezcan gratis o que te pidan que te unas a un servidor es sospechoso. Infórmalo en {{link}}",
+    "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "**Gracias por reclamar tu diario** \n",
+    "GUILD_BONUS": "**Bono de servidor Top 20 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
