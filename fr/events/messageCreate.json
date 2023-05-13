@@ -19,9 +19,9 @@
     "REGISTER_USER": "**{{author}} | Veuillez saisir `{{prefix}}register` et continuer sur le site pour faire vérifier votre compte**",
     "USER_COMMAND_QUEUE": "<@{{id}}> doit compléter la commande {{existsFor}} avant de pouvoir continuer.",
     "AUTHOR_COMMAND_QUEUE": "Finissez d'exécuter la commande {{existsFor}} avant de pouvoir continuer.",
-    "SAFE_MODE": "> **Le bot est en mode sécurisé.** {{eta}}. \n**Il/Elle sera de retour bientôt** ❤",
+    "SAFE_MODE": "> **Le bot est en safe-mode.** {{eta}}. \n**Il/Elle sera de retour bientôt** ❤",
     "CATEGORY_DISABLED": "> **La catégorie a été désactivée.**\n Raison : `{{category}}`",
     "COMMAND_DISABLED": "> **La commande a été désactivée.**\n Raison : `{{command}}`",
-    "NO_PERMISSIONS": "Je n'ai pas les permissions pour exécuter la commande",
+    "NO_PERMISSIONS": "Je n'ai pas la permission pour exécuter la commande",
     "SERIES_DROP": "**Drop d'une série**"
 }
