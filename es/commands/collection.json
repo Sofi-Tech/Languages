@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Puedes ver tu colección de cartas si usas el comando 'sc'. Las colecciones se pueden ordenar por nombre, gen, deseos, cosméticos aplicados, estadísticas de la carta, disponibilidad 3D y también se pueden filtrar por lista de deseos o número del gen o nombre de etiqueta. \n- Type sc t:ut para encontrar cartas sin etiquetar de tu colección",
+    "DESCRIPTION": "- Puedes ver tu colección de cartas si usas el comando 'sc'. Las colecciones se pueden ordenar por nombre, gen, deseos, cosméticos aplicados, estadísticas de la carta, disponibilidad 3D y también se pueden filtrar por lista de deseos o número del gen o nombre de etiqueta. \n- Escribe sc t:ut para encontrar cartas sin etiquetar de tu colección",
     "SLASH_CMD_DESC": "Ver tu colección de cartas",
     "SLASH_DESC": "Introduce el usuario del que deseas ver la colección",
     "SLASH_DESC2": "Ingresa el filtro que deseas aplicar a la colección",

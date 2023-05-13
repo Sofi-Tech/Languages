@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "Verbrenne die Karten, um Kristalle und Silber zu erhalten, die verwendet werden können, um Würfel herzustellen und verschiedene andere Gegenstände im Bot zu kaufen. Wenn du sb eingibst, verbrennst du die zuletzt beanspruchte Karte.",
-  "GUILDSTONE_BURN": "**Du bist dabei einen Gildenstein zu verbrennen**",
-  "GUILDSTONE_NOT_FOUND": "**Du hast keinen Gildenstein zum Verbrennen**",
-  "SUCCESS": "ERFOLGREICH",
-  "CANCELLED": "ABBRECHEN",
-  "BURN_FRAG_WARN": "**Du bist dabei einen Frag zu verbrennen\nFrag-Code: `{{fragCode}}`**",
-  "FRAG_NOT_FOUND": "**Kein Frag gefunden**",
-  "CARD_NOT_FOUND": "**Diese Karte konnte nicht gefunden werden**",
-  "CARD_LOCKED": "**Die Karte ist gesperrt**",
-  "CARD_NOT_OWNED": "**Du besitzt diese Karte nicht**"
+    "DESCRIPTION": "Verbrenne die Karten, um Kristalle und Silber zu erhalten, die verwendet werden können, um Würfel herzustellen und verschiedene andere Gegenstände im Bot zu kaufen. Wenn du sb eingibst, verbrennst du die zuletzt beanspruchte Karte.",
+    "GUILDSTONE_BURN": "**Du bist dabei einen Gildenstein zu verbrennen**",
+    "GUILDSTONE_NOT_FOUND": "**Du hast keinen Gildenstein zum verbrennen**",
+    "SUCCESS": "ERFOLGREICH",
+    "CANCELLED": "ABBRECHEN",
+    "BURN_FRAG_WARN": "**Du bist dabei einen Frag zu verbrennen\nFrag-Code: `{{fragCode}}`**",
+    "FRAG_NOT_FOUND": "**Keinen Frag gefunden**",
+    "CARD_NOT_FOUND": "**Diese Karte konnte nicht gefunden werden**",
+    "CARD_LOCKED": "**Die Karte ist gesperrt**",
+    "CARD_NOT_OWNED": "**Du besitzt diese Karte nicht**"
 }
