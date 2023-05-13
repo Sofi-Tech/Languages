@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Comprar artículos de la tienda",
-  "SLASH_DESC": "Ingrese el nombre del artículo que desea comprar",
-  "SLASH_DESC2": "Ingrese la cantidad",
-  "SLASH_DESC3": "Ingrese el código del fondo que desea comprar. [FUNCIONA SOLO SI EL ARTÍCULO ESTÁ SELECCIONADO COMO FONDO]",
-  "NO_ITEM": "Por favor ingrese un artículo para comprar",
-  "TRADEPASS_INFO": "La compra del Pase de Intercambio a través de los silvers se ha descontinuado. Puedes comprar un Pase de Intercambio por 4 horas con 1 bump o ahorrar 20 bumps para comprarlo por 30 días.",
-  "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <bgID> [cantidad]`",
-  "INVALID_BG_AMOUNT": "La cantidad de fondo debe ser positiva",
-  "INVALID_BG_ID": "Proporcione un ID de fondo válido",
-  "NO_ITEM_PROVIDED": "No se proporcionó ningún artículo",
-  "INVALID_AMOUNT": "Se proporcionó una cantidad no válida",
-  "INVALID_ITEM_PROVIDED": "{{USER}} se proporcionó un artículo no válido"
+    "DESCRIPTION": "Comprar artículos de la tienda",
+    "SLASH_DESC": "Introduce el nombre del artículo que desea comprar",
+    "SLASH_DESC2": "Ingrese la cantidad",
+    "SLASH_DESC3": "Ingrese el código del fondo que desea comprar. [FUNCIONA SOLO SI EL ARTÍCULO ESTÁ SELECCIONADO COMO FONDO]",
+    "NO_ITEM": "Por favor ingrese un artículo para comprar",
+    "TRADEPASS_INFO": "La compra del Pase de Intercambio a través de los silvers se ha descontinuado. Puedes comprar un Pase de Intercambio por 4 horas con 1 bump o ahorrar 20 bumps para comprarlo por 30 días.",
+    "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <bgID> [cantidad]`",
+    "INVALID_BG_AMOUNT": "La cantidad de fondo debe ser positiva",
+    "INVALID_BG_ID": "Proporcione un ID de fondo válido",
+    "NO_ITEM_PROVIDED": "No se proporcionó ningún artículo",
+    "INVALID_AMOUNT": "Se proporcionó una cantidad no válida",
+    "INVALID_ITEM_PROVIDED": "{{USER}} - El artículo proporcionado no es válido"
 }
