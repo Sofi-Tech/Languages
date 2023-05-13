@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Atualize sua lista de desejos",
-  "CATEGORY": "Lista de desejos",
-  "ALREADY_MAXED": "> {{author}} **você já alcançou o limite máximo de itens em sua lista de desejos**",
-  "EMBED_DESCRIPTION": "**Você deseja comprar slots adicionais {{count}} por {{amount}} {{currency}}?**",
-  "EMBED_PAY_FIELD_NAME": "Você paga:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Você recebe:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} mais slots na sua lista de desejos```",
-  "EMBED_MAXED_DESCRIPTION": "**Você deseja o máximo de slots na sua lista de desejos por {{amount}} {{currency}}?**",
-  "EMBED_MAXED_FIELD_VALUE": "```Máximo de 50 slots na lista de desejos```",
-  "SUCCESS": "**SUCESSO**",
-  "CANCELLED": "**CANCELADO**",
-  "PAY_ERROR": "`**Você não possui {{amount}} {{currency}}**`"
+    "DESCRIPTION": "Atualize sua lista de desejos",
+    "CATEGORY": "Lista de desejos",
+    "ALREADY_MAXED": "> {{author}} **você já alcançou o limite máximo de itens em sua lista de desejos**",
+    "EMBED_DESCRIPTION": "**Você deseja comprar slots adicionais {{count}} por {{amount}} {{currency}}?**",
+    "EMBED_PAY_FIELD_NAME": "Você paga:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Você recebe:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} mais slots na sua lista de desejos```",
+    "EMBED_MAXED_DESCRIPTION": "**Você deseja o máximo de slots na sua lista de desejos por {{amount}} {{currency}}?**",
+    "EMBED_MAXED_FIELD_VALUE": "```Máximo de 50 slots na lista de desejos```",
+    "SUCCESS": "**SUCESSO**",
+    "CANCELLED": "CANCELADO",
+    "PAY_ERROR": "`**Você não possui {{amount}} {{currency}}**`"
 }
