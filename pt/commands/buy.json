@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Compre itens da loja",
-  "SLASH_DESC": "Digite o nome do item que você deseja comprar",
-  "SLASH_DESC2": "Digite a quantidade",
-  "SLASH_DESC3": "Digite o código do plano de fundo que você deseja comprar. [FUNCIONA APENAS SE O ITEM FOR SELECIONADO COMO PLANO DE FUNDO]",
-  "NO_ITEM": "Por favor, digite um item para comprar",
-  "TRADEPASS_INFO": "A compra do Trade Pass através de prata foi descontinuada. Você pode comprar um Trade Pass de 4 horas com 1 impulso ou economizar 20 impulsos para comprar por 30 dias.",
-  "CORRECT_USAGE": "{{USER}} Uso correto: `{{prefix}}buy bg <bgID> [quantidade]`",
-  "INVALID_BG_AMOUNT": "A quantidade do plano de fundo deve ser positiva",
-  "INVALID_BG_ID": "Por favor, forneça um ID de plano de fundo válido",
-  "NO_ITEM_PROVIDED": "Nenhum item fornecido",
-  "INVALID_AMOUNT": "Quantidade inválida fornecida",
-  "INVALID_ITEM_PROVIDED": "{{USER}} item inválido fornecido"
+    "DESCRIPTION": "Compre itens da loja",
+    "SLASH_DESC": "Digite o nome do item que você deseja comprar",
+    "SLASH_DESC2": "Digite a quantidade",
+    "SLASH_DESC3": "Digite o código do plano de fundo que você deseja comprar. [FUNCIONA APENAS SE O ITEM FOR SELECIONADO COMO PLANO DE FUNDO]",
+    "NO_ITEM": "Por favor, digite um item para comprar",
+    "TRADEPASS_INFO": "A compra do Trade Pass através de prata foi descontinuada. Você pode comprar um Trade Pass de 4 horas com 1 impulso ou economizar 20 impulsos para comprar por 30 dias.",
+    "CORRECT_USAGE": "{{USER}} Uso correto: `{{prefix}}buy bg <bgID> [quantidade]`",
+    "INVALID_BG_AMOUNT": "A quantidade do plano de fundo deve ser positiva",
+    "INVALID_BG_ID": "Por favor, forneça um ID de plano de fundo válido",
+    "NO_ITEM_PROVIDED": "Nenhum item fornecido",
+    "INVALID_AMOUNT": "Quantidade inválida fornecida",
+    "INVALID_ITEM_PROVIDED": "{{USER}} - Item inválido fornecido"
 }
