@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Affiche l'inventaire d'utilisateur",
-    "SLASH_DESC": "Mentionner l'utilisateur dont vous voulez voir l'inventaire.",
+    "DESCRIPTION": "Afficher l'inventaire d'utilisateur",
+    "SLASH_DESC": "Mentionner l'utilisateur dont vous voulez voir l'inventaire",
     "SLASH_DESC2": "Nommer l'objet que vous voulez rechercher.",
     "NOT_REGISTER": "**{{author}} | L'utilisateur n'est pas inscrit**",
     "NO_USER_FOUND": "{{author}} | Aucun utilisateur trouvé",
@@ -14,5 +14,5 @@
     "USER_INV_EMPTY": "L'inventaire de cet utilisateur est vide",
     "NO_BG_FOUND": "Aucun arrière-plan trouvé",
     "NO_ITEM_FOUND": "**Impossible de trouver cet objet dans l'inventaire**",
-    "HIDE_INV": "Pour masquer votre inventaire - spvt inv"
+    "HIDE_INV": "Rendre votre inventaire privé - spvt inv"
 }
