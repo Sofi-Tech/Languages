@@ -11,7 +11,7 @@
     "WRONG_USAGE": "{{author}} 正しい使い方： `sgive <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "コード `{{code}}` のカードが見つかりません",
     "CARD_LOCKED": "カードはロックされ、あげることができません。カードからタッグを離し、進んでください。",
-    "CARD_NOT_OWNED": "**カードを所有していないため**",
+    "CARD_NOT_OWNED": "**このカードはあなたの所有物ではありません**",
     "SUCCESS": "成功",
     "CANCELLED": "キャンセル",
     "GIVEN": "送信者 => 受信者"
