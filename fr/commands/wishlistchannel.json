@@ -1,6 +1,6 @@
 {
-  "DESCRIPTION": "Définir le canal de liste de souhaits",
-  "CATEGORY": "Liste de souhaits",
-  "CHANNEL_SET": "> **Votre canal de liste de souhaits a été défini sur {{channel}}**",
-  "CHANNEL_REMOVE": "> **Votre canal de liste de souhaits a été supprimé**"
+    "DESCRIPTION": "Définir le salon où être notifié lors de l'apparition de vos souhaits",
+    "CATEGORY": "Liste de souhaits",
+    "CHANNEL_SET": "> **Votre salon de souhait été défini sur {{channel}}**",
+    "CHANNEL_REMOVE": "> **Votre salon de liste de souhaits a été retiré**"
 }

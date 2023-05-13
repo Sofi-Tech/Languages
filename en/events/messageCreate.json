@@ -4,7 +4,7 @@
     "RATE_LIMIT_ERROR": "Rate-limited due to high activity. Please wait",
     "VERIFY_BUTTON_LABEL": "Verify",
     "SUPPORT_BUTTON_LABEL": "Support",
-    "CREATE_TICKET": "**Visit https://discord.gg/sofi and create a ticket to get verified** \n",
+    "CREATE_TICKET": "**Visit https://discord.gg/sofi and create a ticket to get verified**\n",
     "REASONS_FOR_QUARANTINE": "__Potential reasons for getting quarantined__",
     "REGISTER_MULTIPLE_ACCOUNTS": "- Tried to register multiple accounts on Sofi",
     "SUSPICIOUS_TRANSACTIONS": "- Made suspicious transactions/trade on Sofi",
@@ -22,6 +22,6 @@
     "SAFE_MODE": "> **The bot is in safe-mode.** {{eta}}. \n**She will be right back** ❤",
     "CATEGORY_DISABLED": "> **The category has been disabled.** \nReason: `{{category}}`",
     "COMMAND_DISABLED": "> **The command has been disabled.** \nReason: `{{command}}`",
-    "NO_PERMISSIONS": "I don't have the permissions to execute the command",
+    "NO_PERMISSIONS": "I don't have permission to execute the command",
     "SERIES_DROP": "**Series drop**"
 }
