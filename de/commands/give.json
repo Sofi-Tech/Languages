@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Geben Sie Karten an jemanden weiter",
-    "SLASH_DESC": "Geben Sie den Benutzer ein, an den Sie die Karte weitergeben möchten.",
-    "SLASH_DESC2": "Geben Sie den Code der Karte ein, die Sie weitergeben möchten.",
+    "DESCRIPTION": "Gebe eine Karte an einen anderen User",
+    "SLASH_DESC": "Geben Sie den User an, an den Sie die Karte weitergeben möchten.",
+    "SLASH_DESC2": "Geben Sie den Code der Karte an, die Sie weitergeben möchten.",
     "NO_MEMBER": "{{author}} Kein Mitglied angegeben",
-    "NO_SELF_GIVE": "{{author}} Kann Karte nicht selbst geben",
+    "NO_SELF_GIVE": "{{author}} Du kannst dir selbst nicht die Karte geben",
     "NOT_REGISTERED": "{{member}} ist nicht registriert",
     "MEM_BLACKLISTED": "{{member}} steht auf der schwarzen Liste",
     "MEM_QUARANTINED": "**Der Benutzer befindet sich in Quarantäne**",
