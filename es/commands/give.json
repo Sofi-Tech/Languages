@@ -11,7 +11,7 @@
     "WRONG_USAGE": "{{author}} Uso correcto: `sgive <usuario/IDusuario> <códigotarjeta>`",
     "NO_CARD_FOUND": "No se puede encontrar la carta con el código: `{{code}}`",
     "CARD_LOCKED": "La carta está bloqueada y no se puede dar. Desetiquétala para continuar",
-    "CARD_NOT_OWNED": "**Ya no posees esa carta**",
+    "CARD_NOT_OWNED": "**No posees esa carta**",
     "SUCCESS": "ÉXITO",
     "CANCELLED": "CANCELADO",
     "GIVEN": "Remitente => Receptor"
