@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Acheter des articles dans la boutique",
+    "DESCRIPTION": "Acheter des objets dans le la boutique",
     "SLASH_DESC": "Entrez le nom de l'article que vous souhaitez acheter",
     "SLASH_DESC2": "Entrez la quantité",
     "SLASH_DESC3": "Entrez le code de l'arrière-plan que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST SÉLECTIONNÉ COMME ARRIÈRE-PLAN]",
@@ -10,5 +10,5 @@
     "INVALID_BG_ID": "Veuillez fournir un ID d'arrière-plan valide",
     "NO_ITEM_PROVIDED": "Aucun article fourni",
     "INVALID_AMOUNT": "Montant invalide fourni",
-    "INVALID_ITEM_PROVIDED": "{{USER}} Article invalide fourni"
+    "INVALID_ITEM_PROVIDED": "{{USER}} - Article invalide fourni"
 }
