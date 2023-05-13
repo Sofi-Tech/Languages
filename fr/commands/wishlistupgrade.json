@@ -7,8 +7,8 @@
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Vous obtenez :",
     "EMBED_GET_FIELD_VALUE": "```{{count}} emplacements supplémentaires pour votre liste de souhaits```",
-    "EMBED_MAXED_DESCRIPTION": "**Voulez-vous maximiser votre liste de souhaits pour {{amount}} {{currency}}?**",
-    "EMBED_MAXED_FIELD_VALUE": "```Maximiser jusqu'à 50 emplacements de liste de souhaits```",
+    "EMBED_MAXED_DESCRIPTION": "**Voulez-vous maximiser la capacité de votre liste de souhaits pour {{amount}} {{currency}}?**",
+    "EMBED_MAXED_FIELD_VALUE": "```Débloquez jusqu'à 50 emplacements dans votre liste de souhaits```",
     "SUCCESS": "**SUCCÈS**",
     "CANCELLED": "**ANNULÉ**",
     "PAY_ERROR": "`**Vous n'avez pas {{amount}} {{currency}}**`"

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Puedes soltar 3 cartas usando este comando cada 8 minutos.\n- Usa el comando \"sdn\" para soltar sin imágenes. Útil para cuando tienes pocos datos o no quieres lag.",
+    "DESCRIPTION": "- Puedes hacer un drop de 3 cartas usando este comando cada 8 minutos.\n- Usa el comando \"sdn\" para hacer el drop sin imágenes. Útil para cuando tienes pocos datos o no quieres lag.",
     "JOIN_SUPPORT_SERVER": "**[Únete al servidor de soporte para obtener ayuda](https://discord.gg/sofi)**",
-    "EXTRA_GRAB_ALERT": "{{author}} *Tu soltada extra está siendo utilizada. Quedan `{{remaining}}`.*",
+    "EXTRA_GRAB_ALERT": "{{author}} *Tu drop extra está siendo utilizado. Quedan `{{remaining}}`.*",
     "ON_CD": "**{{author}} por qué no intentas de nuevo en {{dropCd}}**",
     "VOTE": "Votar",
-    "BUY_DROP": "\nTambién puedes votar para comprar soltadas - `sbuy drop`"
+    "BUY_DROP": "\nTambién puedes votar para comprar drops - `sbuy drop`"
 }

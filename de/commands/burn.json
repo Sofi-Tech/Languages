@@ -1,12 +1,12 @@
 {
     "DESCRIPTION": "Verbrenne die Karten, um Kristalle und Silber zu erhalten, mit denen du Cubes herstellen oder verschiedene Gegenstände im Spiel kaufen kannst. Verwende `sb` um deine zuletzt erhaltene Karte zu verbrennen.",
     "GUILDSTONE_BURN": "**Du bist dabei einen Guild stone zu verbrennen.**",
-    "GUILDSTONE_NOT_FOUND": "**Du hast keinen Guild stone zum verbrennen**",
+    "GUILDSTONE_NOT_FOUND": "**Du hast keinen Guild stone zum verbrennen.**",
     "SUCCESS": "ERFOLGREICH",
     "CANCELLED": "ABBRECHEN",
-    "BURN_FRAG_WARN": "**Du bist dabei einen Frag zu verbrennen\nFrag-Code: `{{fragCode}}`**",
-    "FRAG_NOT_FOUND": "**Keinen Frag gefunden**",
-    "CARD_NOT_FOUND": "**Diese Karte konnte nicht gefunden werden**",
-    "CARD_LOCKED": "**Die Karte ist gesperrt**",
-    "CARD_NOT_OWNED": "**Du besitzt diese Karte nicht**"
+    "BURN_FRAG_WARN": "**Du bist dabei ein Fragment zu verbrennen\nFragment-Code: `{{fragCode}}`**",
+    "FRAG_NOT_FOUND": "**Kein Fragment gefunden.**",
+    "CARD_NOT_FOUND": "**Diese Karte konnte nicht gefunden werden.**",
+    "CARD_LOCKED": "**Die Karte ist gesperrt.**",
+    "CARD_NOT_OWNED": "**Du bist nicht im Besitz dieser Karte.**"
 }

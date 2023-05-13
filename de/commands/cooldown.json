@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Sie können die Abklingzeiten überprüfen für\n- Drop, Grab, Vote, Raid und Dailies\n-Klicken Sie auf die Glocken-Symbole, um sich an den Drop, Vote und Daily zu erinnern.",
-  "JOIN_SUPPORT_SERVER": "**[Treten Sie dem Supportserver bei, um Hilfe zu erhalten](https://discord.gg/sofi)**",
-  "DROP": "Drop",
-  "GRAB": "Greifen",
-  "VOTE": "Abstimmen",
-  "BUMP": "Bumpen",
-  "DAILY": "Täglich",
-  "UNREAD_MAIL": "\n **📫 `${{checkUnreadMailsCount}}` ungelesene E-Mail(s) | Verwenden Sie `{{customPrefix}}mail`**"
+    "DESCRIPTION": "Du kannst die Abklingzeiten für folgende Aktivitäten überprüfen\n- Drop, Grab, Vote, Raid und Dailies\n- Drücke auf das Glocken-Symbol, damit du an deine Drop, Vote und Daily erinnert wirst.",
+    "JOIN_SUPPORT_SERVER": "**[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)**",
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "VOTE": "Vote",
+    "BUMP": "Bump",
+    "DAILY": "Daily",
+    "UNREAD_MAIL": "\n**📫 `${{checkUnreadMailsCount}}` ungelesene E-Mail(s) | Benutze den Befehl`{{customPrefix}}mail`**"
 }
