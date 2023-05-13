@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Réclamez vos quotidiennes et maintenez la série pour obtenir des récompenses incroyables.",
+  "CATEGORY": "Cartes",
+  "EMBED_AUTHOR": "Les Quotidiennes de {{author}}",
+  "DAILY_ERROR": "Vous pouvez réclamer votre quotidienne après **{{timeout}}** \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} quotidiennes restantes pour réclamer un Coffre commun",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} quotidiennes restantes pour réclamer un Coffre rare",
+  "NOTE": "\n⚠️ Les employés de Discord ou de Sofi ne vous demanderont jamais vos mots de passe, otps ou ne changeront votre courriel ni ne communiqueront par l'intermédiaire de bots tierces parties comme Mee6 / Dyno. Tout ce qui vous est offert gratuitement ou on vous demande de rejoindre un serveur est suspect. Signalez-le à {{link}}",
+  "EMBED_FOOTER": "Série [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Merci d'avoir réclamé vos quotidiennes** \n",
+  "GUILD_BONUS": "**Bonus du Top 20 des Serveurs x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+}

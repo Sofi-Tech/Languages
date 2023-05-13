@@ -1,0 +1,14 @@
+{
+  "DESCRIPTION": "Bumili ng mga item mula sa tindahan",
+  "SLASH_DESC": "Ipasok ang pangalan ng item na gusto mong bilhin",
+  "SLASH_DESC2": "Ipasok ang halaga",
+  "SLASH_DESC3": "Ipasok ang code ng background na gusto mong bilhin. [GUMAGANA LAMANG KUNG ANG ITEM AY PINILIHANG BACKGROUND]",
+  "NO_ITEM": "Mangyaring magpasok ng item na gusto bilhin",
+  "TRADEPASS_INFO": "Ang Trade Pass na pwedeng mabili sa pamamagitan ng silvers ay hindi na magagamit. Pwede ka bumili ng Trade Pass sa loob ng 4 oras sa halip na i-bump o mag-ipon ng 20 bumps para makabili ng 30 days.",
+  "CORRECT_USAGE": "{{USER}} Tamang paggamit: `{{prefix}}buy bg <bgID> [halaga]`",
+  "INVALID_BG_AMOUNT": "Ang halaga ng background ay dapat positibo",
+  "INVALID_BG_ID": "Mangyaring magbigay ng wastong background ID",
+  "NO_ITEM_PROVIDED": "Walang ipinakuhang item",
+  "INVALID_AMOUNT": "Mali ang halaga na ipinakokonsumo",
+  "INVALID_ITEM_PROVIDED": "{{USER}} maling item ang iprrovide"
+}

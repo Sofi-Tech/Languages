@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Membakar kartu untuk mendapatkan kristal dan perak yang dapat digunakan untuk membuat kubus dan membeli berbagai item lain di bot. Mengetik sb membakar kartu terakhir yang diklaim.",
+  "GUILDSTONE_BURN": "**Anda akan membakar batu guild**",
+  "GUILDSTONE_NOT_FOUND": "**Anda tidak memiliki batu guild untuk dibakar**",
+  "SUCCESS": "BERHASIL",
+  "CANCELLED": "DIBATALKAN",
+  "BURN_FRAG_WARN": "**Anda akan membakar serpihan\nKode Serpihan: `{{fragCode}}`**",
+  "FRAG_NOT_FOUND": "**Tidak ada serpihan ditemukan**",
+  "CARD_NOT_FOUND": "**Tidak dapat menemukan kartu tersebut**",
+  "CARD_LOCKED": "**Kartu terkunci**",
+  "CARD_NOT_OWNED": "**Anda tidak memiliki kartu tersebut**"
+}

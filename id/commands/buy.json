@@ -1,0 +1,14 @@
+{
+  "DESCRIPTION": "Membeli barang dari toko",
+  "SLASH_DESC": "Masukkan nama item yang ingin kamu beli",
+  "SLASH_DESC2": "Masukkan jumlah item",
+  "SLASH_DESC3": "Masukkan kodenya dari latar belakang yang ingin kamu beli. [HANYA BERFUNGSI JIKA ITEM DIPILIH SEBAGAI LATAR BELAKANG]",
+  "NO_ITEM": "Silahkan masukkan item yang akan dibeli",
+  "TRADEPASS_INFO": "Pembelian Trade Pass melalui silver telah dihentikan. Kamu dapat membeli Trade Pass 4 jam dengan 1 bump atau mengumpulkan 20 bump untuk membeli selama 30 hari.",
+  "CORRECT_USAGE": "{{USER}} Penggunaan yang benar: `{{prefix}}buy bg <bgID> [jumlah]`",
+  "INVALID_BG_AMOUNT": "Jumlah latar belakang harus positif",
+  "INVALID_BG_ID": "Silahkan berikan ID latar belakang yang valid",
+  "NO_ITEM_PROVIDED": "Tidak ada item yang diberikan",
+  "INVALID_AMOUNT": "Jumlah yang diberikan tidak valid",
+  "INVALID_ITEM_PROVIDED": "{{USER}} item yang diberikan tidak valid"
+}

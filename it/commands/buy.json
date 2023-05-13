@@ -1,0 +1,14 @@
+{
+  "DESCRIPTION": "Acquista articoli dallo shop",
+  "SLASH_DESC": "Inserisci il nome dell'oggetto che desideri acquistare",
+  "SLASH_DESC2": "Inserisci la quantità",
+  "SLASH_DESC3": "Inserisci il codice dello sfondo che desideri acquistare. [FUNZIONA SOLO SE L'OGGETTO È SELEZIONATO COME SFONDO]",
+  "NO_ITEM": "Inserisci un oggetto da acquistare",
+  "TRADEPASS_INFO": "L'acquisto del Trade Pass tramite argento è stato interrotto. Puoi acquistare un Trade Pass di 4 ore con 1 bump o risparmiare 20 bump per acquistare per 30 giorni.",
+  "CORRECT_USAGE": "{{USER}} Utilizzo corretto: `{{prefix}}buy bg <bgID> [amount]`",
+  "INVALID_BG_AMOUNT": "La quantità dello sfondo deve essere positiva",
+  "INVALID_BG_ID": "Inserisci un ID sfondo valido",
+  "NO_ITEM_PROVIDED": "Nessun oggetto fornito",
+  "INVALID_AMOUNT": "Quantità non valida fornita",
+  "INVALID_ITEM_PROVIDED": "{{USER}} oggetto non valido fornito"
+}
