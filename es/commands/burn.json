@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Quema las cartas para obtener cristales y plata que se pueden usar para hacer cubos y comprar varios artículos en el bot. Escribir `sb` quema la última carta reclamada",
-    "GUILDSTONE_BURN": "**Estás a punto de quemar una piedra de gremio**",
-    "GUILDSTONE_NOT_FOUND": "**No tienes piedra de gremio para quemar**",
+    "GUILDSTONE_BURN": "**Estás a punto de quemar una piedra de clan**",
+    "GUILDSTONE_NOT_FOUND": "**No tienes piedra de clan para quemar**",
     "SUCCESS": "ÉXITO",
     "CANCELLED": "CANCELADO",
     "BURN_FRAG_WARN": "**Estás a punto de quemar un fragmento\nCódigo de fragmento: `{{fragCode}}`**",
