@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "毎日賞品を手に入れてストリークを維持して、素晴らしい報酬を手に入れましょう。",
-  "CATEGORY": "カード",
-  "EMBED_AUTHOR": "{{author}}の毎日",
-  "DAILY_ERROR": "**{{timeout}}** 後に毎日を請求できます\n",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} デイリーが残っています：コモンチェスト",
-  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} デイリーが残っています：レアチェスト",
-  "NOTE": "\n⚠️ DiscordまたはSofiスタッフは、パスワード、otps、メールアドレスの変更を求めたり、Mee6 / Dynoなどのサードパーティのボットを使用して通信しないでください。あなたに無料で提供されるものやサーバーに参加するように求められるものがある場合は、疑わしいものとして報告してください。{{link}}で報告してください。",
-  "EMBED_FOOTER": "ストリーク [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "**毎日を請求してくれてありがとう** \n",
-  "GUILD_BONUS": "**上位20サーバーボーナスx1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "DESCRIPTION": "あなたのデイリーを主張し、素晴らしい報酬を得るために連勝を維持する。",
+    "CATEGORY": "カード",
+    "EMBED_AUTHOR": "{{author}}の毎日",
+    "DAILY_ERROR": "**{{timeout}}** 後に毎日を請求できます\n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} デイリーが残っています：コモンチェスト",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} デイリーが残っています：レアチェスト",
+    "NOTE": "\n⚠️ DiscordまたはSofiスタッフは、パスワード、otps、メールアドレスの変更を求めたり、Mee6 / Dynoなどのサードパーティのボットを使用して通信しないでください。あなたに無料で提供されるものやサーバーに参加するように求められるものがある場合は、疑わしいものとして報告してください。{{link}}で報告してください。",
+    "EMBED_FOOTER": "ストリーク [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "**毎日を請求してくれてありがとう** \n",
+    "GUILD_BONUS": "**上位20サーバーボーナスx1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
