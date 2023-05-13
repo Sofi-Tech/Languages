@@ -4,7 +4,7 @@
     "GUILDSTONE_NOT_FOUND": "**Vous n'avez pas de pierre de guilde à brûler**",
     "SUCCESS": "SUCCÈS",
     "CANCELLED": "ANNULÉ",
-    "BURN_FRAG_WARN": "**Vous êtes sur le point de brûler un fragment\nCode Fragment : `{{fragCode}}`**",
+    "BURN_FRAG_WARN": "**Vous êtes sur le point de brûler un fragment\nCode du fragment : `{{fragCode}}`**",
     "FRAG_NOT_FOUND": "**Aucun fragment trouvé**",
     "CARD_NOT_FOUND": "**Impossible de trouver cette carte**",
     "CARD_LOCKED": "**La carte est verrouillée**",

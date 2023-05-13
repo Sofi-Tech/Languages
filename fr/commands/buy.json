@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Acheter des articles dans la boutique",
-  "SLASH_DESC": "Entrez le nom de l'article que vous souhaitez acheter",
-  "SLASH_DESC2": "Entrez la quantité",
-  "SLASH_DESC3": "Entrez le code de l'arrière-plan que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST SÉLECTIONNÉ COMME ARRIÈRE-PLAN]",
-  "NO_ITEM": "Veuillez saisir un article à acheter",
-  "TRADEPASS_INFO": "Le passe-échange achetable via les Silvers est abandonné. Vous pouvez acheter un passe-échange de 4 heures avec 1 bump ou économiser 20 bumps pour acheter un passe-échange de 30 jours.",
-  "CORRECT_USAGE": "{{USER}} Utilisation correcte : `{{prefix}}buy bg <bgID> [quantité]`",
-  "INVALID_BG_AMOUNT": "La quantité de l'arrière-plan doit être positive",
-  "INVALID_BG_ID": "Veuillez fournir un ID d'arrière-plan valide",
-  "NO_ITEM_PROVIDED": "Aucun article fourni",
-  "INVALID_AMOUNT": "Montant invalide fourni",
-  "INVALID_ITEM_PROVIDED": "{{USER}} Article invalide fourni"
+    "DESCRIPTION": "Acheter des articles dans la boutique",
+    "SLASH_DESC": "Entrez le nom de l'article que vous souhaitez acheter",
+    "SLASH_DESC2": "Entrez la quantité",
+    "SLASH_DESC3": "Entrez le code de l'arrière-plan que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST SÉLECTIONNÉ COMME ARRIÈRE-PLAN]",
+    "NO_ITEM": "Veuillez entrer un article à acheter",
+    "TRADEPASS_INFO": "Le passe-échange achetable via les Silvers est abandonné. Vous pouvez acheter un passe-échange de 4 heures avec 1 bump ou économiser 20 bumps pour acheter un passe-échange de 30 jours.",
+    "CORRECT_USAGE": "{{USER}} Utilisation correcte : `{{prefix}}buy bg <bgID> [quantité]`",
+    "INVALID_BG_AMOUNT": "La quantité de l'arrière-plan doit être positive",
+    "INVALID_BG_ID": "Veuillez fournir un ID d'arrière-plan valide",
+    "NO_ITEM_PROVIDED": "Aucun article fourni",
+    "INVALID_AMOUNT": "Montant invalide fourni",
+    "INVALID_ITEM_PROVIDED": "{{USER}} Article invalide fourni"
 }
