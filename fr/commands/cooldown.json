@@ -2,9 +2,9 @@
     "DESCRIPTION": "Vous pouvez vérifier les temps de recharge pour vos :\n- Drop, Grab, Vote, Raid et Récompenses quotidiennes\n- Cliquez sur les icônes de cloche pour ajouter des rappels pour vos Drop, Vote et Récompenses Quotidiennes.",
     "JOIN_SUPPORT_SERVER": "**[Rejoignez le serveur de support pour de l'aide](https://discord.gg/sofi)**",
     "DROP": "Drop",
-    "GRAB": "Prendre",
+    "GRAB": "Grab",
     "VOTE": "Vote",
     "BUMP": "Bump",
-    "DAILY": "Quotidiens",
+    "DAILY": "Récompense Quotidienne",
     "UNREAD_MAIL": "\n **📫 `${{checkUnreadMailsCount}}` mail(s) non lu(s) | Utilisez `{{customPrefix}}mail`**"
 }

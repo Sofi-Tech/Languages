@@ -18,11 +18,11 @@
     "SORT_ATK": "Trier par attaque",
     "SORT_DEF": "Trier par défense",
     "SORT_SPEED": "Trier par vitesse",
-    "SORT_HP": "Trier par HP",
+    "SORT_HP": "Trier par PV",
     "SORT_DUPE": "Trier par doublons",
-    "SHOWING PAGE": "Affichage page : {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "Toutes les {{taglength}} cartes ont été désétiquetées avec succès",
-    "ALL_TAG_SUCCESS": "{{author}} Toutes les {{taglength}} cartes ont été étiquetées avec succès",
+    "SHOWING PAGE": "Pages Affichées : {{page}}/{{pages}}",
+    "ALL_UNTAG_SUCCESS": "Toutes les {{taglength}} cartes ont été tag avec succès",
+    "ALL_TAG_SUCCESS": "{{author}} Toutes les {{taglength}} cartes ont été tag avec succès",
     "PLEASE_WAIT": "Veuillez patienter <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Appréciez l'effort d'étiquetage mais aucun tag trouvé"
+    "NO_TAG_FOUND": "L'effort est apprécié, mais aucun tag trouvé"
 }

@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Upgrade your wishlist",
-  "CATEGORY": "Wishlist",
-  "ALREADY_MAXED": "> {{author}} **your wishlist slots are already maxed out**",
-  "EMBED_DESCRIPTION": "**Do you want to buy extra {{count}} slots for {{amount}} {{currency}}?**",
-  "EMBED_PAY_FIELD_NAME": "You pay:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "You get:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} extra wishlist slots```",
-  "EMBED_MAXED_DESCRIPTION": "**Do you want to max out your wishlist slots for {{amount}} {{currency}}?**",
-  "EMBED_MAXED_FIELD_VALUE": "```Max out to 50 wishlist slots```",
-  "SUCCESS": "**SUCCESS**",
-  "CANCELLED": "**CANCELLED**",
-  "PAY_ERROR": "`**You don't have {{amount}} {{currency}}**`"
+    "DESCRIPTION": "Upgrade your wishlist",
+    "CATEGORY": "Wishlist",
+    "ALREADY_MAXED": "> {{author}} **your wishlist slots are already maxed out**",
+    "EMBED_DESCRIPTION": "**Do you want to buy extra {{count}} slots for {{amount}} {{currency}}?**",
+    "EMBED_PAY_FIELD_NAME": "You pay:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "You get:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} extra wishlist slots```",
+    "EMBED_MAXED_DESCRIPTION": "**Do you want to max out your wishlist slots for {{amount}} {{currency}}?**",
+    "EMBED_MAXED_FIELD_VALUE": "```Max out to 50 wishlist slots```",
+    "SUCCESS": "**SUCCESS**",
+    "CANCELLED": "CANCELLED",
+    "PAY_ERROR": "`**You don't have {{amount}} {{currency}}**`"
 }
