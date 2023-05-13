@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Remove o personagem da sua lista de desejos",
+    "DESCRIPTION": "Remove um personagem da sua lista de desejos",
     "CATEGORY": "Lista de desejos",
     "NO_INDEX": "Nenhum nome ou número fornecido | Para limpar a lista inteira, use `redefinir tudo`",
     "FULL_RESET": "> {{author}} **removeu {{total}} personagens da sua lista de desejos**",
