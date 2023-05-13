@@ -10,7 +10,7 @@
     "NO_CODE": "{{author}}, te olvidaste de proporcionar el código de la carta",
     "WRONG_USAGE": "{{author}} Uso correcto: `sgive <usuario/IDusuario> <códigotarjeta>`",
     "NO_CARD_FOUND": "No se puede encontrar la carta con el código: `{{code}}`",
-    "CARD_LOCKED": "La carta está bloqueada y no se puede dar. Desetiqueta la carta para continuar",
+    "CARD_LOCKED": "La carta está bloqueada y no se puede dar. Desetiquétala para continuar",
     "CARD_NOT_OWNED": "**Ya no posees esa carta**",
     "SUCCESS": "ÉXITO",
     "CANCELLED": "CANCELADO",
