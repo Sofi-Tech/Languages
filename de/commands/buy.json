@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Gegenstände im Laden kaufen",
-  "SLASH_DESC": "Geben Sie den Namen des Items ein, das Sie kaufen möchten",
-  "SLASH_DESC2": "Geben Sie die Menge ein",
-  "SLASH_DESC3": "Geben Sie den Code des Hintergrunds ein, den Sie kaufen möchten. [FUNKTIONIERT NUR, WENN DAS ITEM ALS HINTERGRUND AUSGEWÄHLT WURDE]",
-  "NO_ITEM": "Bitte geben Sie ein Item ein, das Sie kaufen möchten",
-  "TRADEPASS_INFO": "Der Trade Pass, der über Silbers erhältlich ist, wurde eingestellt. Sie können einen 4-Stunden-Trade Pass mit 1 Bump kaufen oder 20 Bumps sparen und ihn für 30 Tage kaufen.",
-  "CORRECT_USAGE": "{{USER}} Korrekte Verwendung: `{{prefix}}kaufen bg <bgID> [Menge]`",
-  "INVALID_BG_AMOUNT": "Die Menge des Hintergrunds muss positiv sein",
-  "INVALID_BG_ID": "Bitte geben Sie eine gültige Background-ID an",
-  "NO_ITEM_PROVIDED": "Kein Item angegeben",
-  "INVALID_AMOUNT": "Ungültige Menge angegeben",
-  "INVALID_ITEM_PROVIDED": "{{USER}} ungültiges Item angegeben"
+    "DESCRIPTION": "Gegenstände im Laden kaufen",
+    "SLASH_DESC": "Geben Sie den Namen des Items ein, das Sie kaufen möchten",
+    "SLASH_DESC2": "Geben Sie die Menge ein",
+    "SLASH_DESC3": "Geben Sie den Code des Hintergrunds ein, den Sie kaufen möchten. [FUNKTIONIERT NUR, WENN DAS ITEM ALS HINTERGRUND AUSGEWÄHLT WURDE]",
+    "NO_ITEM": "Bitte geben Sie ein Item ein, das Sie kaufen möchten",
+    "TRADEPASS_INFO": "Der Trade Pass kann nicht mit Silber erworben werden. Sie können einen 4-Stunden-Trade Pass mit 1 Bump kaufen oder 20 Bumps sparen und ihn für 30 Tage kaufen.",
+    "CORRECT_USAGE": "{{USER}} Korrekte Verwendung: `{{prefix}}kaufen bg <bgID> [Menge]`",
+    "INVALID_BG_AMOUNT": "Die Menge des Hintergrunds muss positiv sein",
+    "INVALID_BG_ID": "Bitte geben Sie eine gültige Background-ID an",
+    "NO_ITEM_PROVIDED": "Kein Item angegeben",
+    "INVALID_AMOUNT": "Ungültige Menge angegeben",
+    "INVALID_ITEM_PROVIDED": "{{USER}} ungültiges Item angegeben"
 }

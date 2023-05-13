@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Elimina a un personaje de tu lista de deseos",
     "CATEGORY": "Lista de deseos",
-    "NO_INDEX": "No se proporcionó ningún nombre ni número | Para borrar toda la lista, usa `restablecimiento completo`",
+    "NO_INDEX": "No se proporcionó ningún nombre ni número | Para borrar toda la lista, usa `full reset`",
     "FULL_RESET": "> {{author}} **eliminó {{total}} personajes de tu lista de deseos**",
     "REMOVE_CHARACTER": "> {{author}} **eliminó {{name}} de tu lista de deseos**",
     "NO_RESULTS": "> {{author}} **no se encontraron resultados para {{name}}**"
