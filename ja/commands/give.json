@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "誰にでもカードを与える",
+    "DESCRIPTION": "選んだユーザーにカードを与える",
     "SLASH_DESC": "カードを与えたいユーザーを入力してください。",
-    "SLASH_DESC2": "与えたいカードのコードを入力してください。",
+    "SLASH_DESC2": "あなたが与えたいカードのコードを入力します。",
     "NO_MEMBER": "{{author}} メンバーが指定されていません",
     "NO_SELF_GIVE": "{{author}} 自分自身にカードを与えることはできません",
     "NOT_REGISTERED": "{{member}} は登録されていません",
