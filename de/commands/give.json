@@ -9,7 +9,7 @@
     "MEM_QUARANTINED": "**Der Benutzer befindet sich in Quarantäne**",
     "NO_CODE": "{{author}} Sie haben vergessen, den Karten-Code anzugeben",
     "WRONG_USAGE": "{{author}} Richtig verwendung: `sgive <Benutzer/Benutzer-ID> <Kartencode>`",
-    "NO_CARD_FOUND": "Kann Karte mit Code nicht finden: `{{code}}`",
+    "NO_CARD_FOUND": "Karte mit dem Code: `{{code}}` konnte nicht gefunden werden",
     "CARD_LOCKED": "Die Karte ist gesperrt und kann nicht weitergegeben werden. Heben Sie die Markierung der Karte auf, um fortzufahren",
     "CARD_NOT_OWNED": "**Du besitzt die Karte nicht mehr**",
     "SUCCESS": "ERFOLGREICH",
