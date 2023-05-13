@@ -1,0 +1,18 @@
+{
+  "DESCRIPTION": "Ibigay ang card sa sinuman",
+  "SLASH_DESC": "Ilagay ang user na nais mong bigyan ng card.",
+  "SLASH_DESC2": "Ilagay ang code ng card na nais mong ipamigay.",
+  "NO_MEMBER": "{{author}} Walang naibigay na miyembro",
+  "NO_SELF_GIVE": "{{author}} hindi maaaring magbigay ng card sa sarili",
+  "NOT_REGISTERED": "Walang narehistro si {{member}}",
+  "MEM_BLACKLISTED": "Ang {{member}} ay nasa blacklisted",
+  "MEM_QUARANTINED": "**Ang user ay nasa quarantined**",
+  "NO_CODE": "{{author}} nakalimutan mong magbigay ng card code",
+  "WRONG_USAGE": "{{author}} Tamang paggamit: `sgive <user/userID> <cardcode>`",
+  "NO_CARD_FOUND": "Walang maaring masumang card na may code na: `{{code}}`",
+  "CARD_LOCKED": "Nakapin ang card at hindi maaaring maibigay..Untag ang card para mag-proceed.",
+  "CARD_NOT_OWNED": "**Hindi mo na pag-aari ang card**",
+  "SUCCESS": "TAGUMPAY",
+  "CANCELLED": "BINATAL",
+  "GIVEN": "Nagpadala => Nakatanggap"
+}

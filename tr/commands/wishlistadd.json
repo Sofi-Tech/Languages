@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Wishlist'e karakterler ekleyin",
+  "CATEGORY": "Wishlist",
+  "ADD_CHARACTERS_ERROR": "> **Daha fazla karakter ekleyemezsiniz**",
+  "SEARCH_CHARACTER_ERROR": "Karakter eklemek için bir karakter adı girin\nTam arama yapmak için `swa -f <ad>` kullanın",
+  "NO_CHARACTER_FOUND": "Karakter bulunamadı\nTam arama yapmak için `swa -f <ad>` kullanın",
+  "CHARACTER_ALREADY_EXISTS": "**{{name}}** zaten wishlist'inizde",
+  "CHARACTER_ADDED": "> {{author}} | **{{name}}** wishlist'inize eklendi",
+  "EMBED_TITLE": "<:lined:868888105611046942> __Wishlist'e ekle__"
+}

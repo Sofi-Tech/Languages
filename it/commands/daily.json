@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Richiedi i tuoi premi giornalieri e mantieni la striscia per ottenere fantastici premi.",
+  "CATEGORY": "Carte",
+  "EMBED_AUTHOR": "Premi giornalieri di {{author}}",
+  "DAILY_ERROR": "Puoi richiedere il tuo premio giornaliero dopo **{{timeout}}** \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} premi giornalieri rimasti per ottenere un Baule comune",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} premi giornalieri rimasti per ottenere un Baule raro",
+  "NOTE": "\n⚠️ Lo staff di Discord o Sofi non chiederà mai la password, gli otp o la modifica della email o comunicherà tramite bot di terze parti come Mee6/Dyno. Qualsiasi offerta gratuita o richiesta di unirsi a un server è sospetta. Segnalalo a {{link}}",
+  "EMBED_FOOTER": "Striscia [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Grazie per aver richiesto il tuo premio giornaliero** \n",
+  "GUILD_BONUS": "**Bonus server Top 20 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+}

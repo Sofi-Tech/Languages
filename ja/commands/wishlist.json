@@ -1,0 +1,19 @@
+{
+  "DESCRIPTION": "ウィッシュリストを表示します",
+  "CATEGORY": "ウィッシュリスト",
+  "USER_NOT_FOUND": "ユーザーが見つかりません。",
+  "WISHLIST_PRIVATE": "> **そのユーザーのウィッシュリストは非公開です**",
+  "WISHLIST_EMPTY": "> **{{username}}さんのウィッシュリストは、私の心と同じく空です** 💔",
+  "WISHLIST_EMBED_TITLE": "{{username}}さんのウィッシュリスト [{{length}}/{{slots}}]",
+  "WISHLIST_EMBED_FOOTER": "ウィッシュリストスロットの増加には{{prefix}}wu/{{prefix}}wu maxを使用してください| ページ：{{page}}/{{totalPages}}",
+  "COPY_CODES_BUTTON_LABEL": "コードをコピー",
+  "COPY_CODES_MENU_LABEL": "すべてのコードをコピー",
+  "COPY_CODES_MENU_DESCRIPTION": "すべてのコードをテキストメッセージとして送信します",
+  "BACK_MENU_LABEL": "戻る",
+  "BACK_MENU_DESCRIPTION": "ウィッシュリストページに戻ります",
+  "CARD_MENU_DESCRIPTION": "{{name}}さんのコードをコピーする",
+  "COPY_CODES_MENU_PLACEHOLDER": "コードをコピー",
+  "CODES_COPIED": "コピーしました",
+  "ALL_CARD_CODES": "以下がコードです",
+  "WISHLIST_CODE_EMBED_TITLE": "SOFI：ウィッシュリストのコード"
+}

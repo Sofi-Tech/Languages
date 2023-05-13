@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Kunin ang iyong mga pang-araw-araw na premyo at panatilihin ang iyong streak upang makakuha ng kamangha-manghang mga gantimpala.",
+  "CATEGORY": "Kard",
+  "EMBED_AUTHOR": "Mga Pang-araw-araw ni {{author}}",
+  "DAILY_ERROR": "Maaari mong kunin ang iyong pang-araw-araw pagkatapos ng **{{timeout}}**\n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} natitira pang pang-araw-araw upang makuha ang isang Karaniwang Trunk",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} natitira pang pang-araw-araw upang makuha ang isang Biyaya Trunk",
+  "NOTE": "\n⚠️ Hindi kailanman hihingi ng password, mga otp, o pagbabago ng email o makikipag-ugnay gamit ang third-party bots tulad ng Mee6 / Dyno ang mga tauhan ng Discord o Sofi. Kung mayroong nag-aalok ng libre o humihiling na sumali sa isang server, ito ay kaduda-duda. I-ulat ito sa {{link}}",
+  "EMBED_FOOTER": "Streak [{{streak}}] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Salamat sa pagkuha ng iyong pang-araw-araw**\n",
+  "GUILD_BONUS": "**Top 20 Server Bonus x1.5**\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+}

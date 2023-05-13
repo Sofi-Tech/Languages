@@ -1,0 +1,18 @@
+{
+  "DESCRIPTION": "Herhangi birine kart verin",
+  "SLASH_DESC": "Kartı vermek istediğiniz kullanıcıyı girin.",
+  "SLASH_DESC2": "Vermek istediğiniz kartın kodunu girin.",
+  "NO_MEMBER": "{{author}} Üye belirtilmedi",
+  "NO_SELF_GIVE": "{{author}} Kendine kart veremez",
+  "NOT_REGISTERED": "{{member}} kayıtlı değil",
+  "MEM_BLACKLISTED": "{{member}} Kara listeye alındı",
+  "MEM_QUARANTINED": "**Kullanıcı karantinaya alındı**",
+  "NO_CODE": "{{author}} Kart kodunu unuttunuz",
+  "WRONG_USAGE": "{{author}} Doğru kullanım: `sgive <user/userID> <cardcode>`",
+  "NO_CARD_FOUND": "`{{code}}` kodlu kart bulunamadı",
+  "CARD_LOCKED": "Kart kilitli ve verilemez.. İşleme devam etmek için kartı etiketlemeyi kaldırın",
+  "CARD_NOT_OWNED": "**Artık kartın sahibi değilsiniz**",
+  "SUCCESS": "BAŞARI",
+  "CANCELLED": "İPTAL EDİLDİ",
+  "GIVEN": "Gönderen => Alıcı"
+}

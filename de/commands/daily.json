@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Fordere deine täglichen Belohnungen ein und halte die Strähne aufrecht, um erstaunliche Belohnungen zu erhalten.",
+  "CATEGORY": "Karten",
+  "EMBED_AUTHOR": "{{author}}'s Tägliches",
+  "DAILY_ERROR": "Du kannst dein tägliches Angebot erst nach **{{timeout}}** abholen.\n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} tägliche Angebote Übrig, um eine gewöhnliche Truhe abzuholen.",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} Tägliche Angebote übrig, um eine seltene Truhe abzuholen.",
+  "NOTE": "\n⚠️ Discord- oder Sofi-Mitarbeiter werden niemals nach Passwort, otps oder Änderung der E-Mail fragen oder mithilfe von Bots von Drittanbietern wie Mee6/Dyno kommunizieren. Alles, was Ihnen kostenlos angeboten wird oder Sie gebeten werden, einem Server beizutreten, ist verdächtig. Melden Sie es unter {{link}}",
+  "EMBED_FOOTER": "Strähne [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**Danke, dass du deine täglichen Angebote eingefordert hast** \n",
+  "GUILD_BONUS": "**Top 20-Server-Bonus x1,5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+}

@@ -1,0 +1,18 @@
+{
+  "DESCRIPTION": "Muestra el inventario del usuario",
+  "SLASH_DESC": "Ingresa el usuario del cual quieres ver el inventario.",
+  "SLASH_DESC2": "Ingresa el objeto que deseas buscar.",
+  "NOT_REGISTER": "**{{author}} | El usuario no está registrado**",
+  "NO_USER_FOUND": "{{author}} | No se encontró el usuario",
+  "INV_PRIVATE": "El inventario de ese usuario es privado",
+  "ITEMS": "Objetos",
+  "FRAMES": "Marcos",
+  "CRYSTALS": "Cristales",
+  "BACKGROUNDS": "Fondos",
+  "EVENT": "Evento",
+  "SELF_INV_EMPTY": "Tu inventario está vacío",
+  "USER_INV_EMPTY": "El inventario de ese usuario está vacío",
+  "NO_BG_FOUND": "No se encontró fondo",
+  "NO_ITEM_FOUND": "**No se puede encontrar ese objeto en el inventario**",
+  "HIDE_INV": "Para ocultar tu inventario, usar spvt inv"
+}

@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Füge Charaktere zu deiner Wunschliste hinzu",
+  "CATEGORY": "Wunschliste",
+  "ADD_CHARACTERS_ERROR": "> **Du kannst deiner Wunschliste keine weiteren Charaktere hinzufügen**",
+  "SEARCH_CHARACTER_ERROR": "Gib einen Charakternamen ein, um hinzuzufügen\nVerwenden Sie `swa -f <name>` für eine genaue Suche",
+  "NO_CHARACTER_FOUND": "Es wurde kein Charakter gefunden\nVerwenden Sie `swa -f <name>` für eine genaue Suche",
+  "CHARACTER_ALREADY_EXISTS": "**{{name}}** ist bereits in deiner Wunschliste vorhanden",
+  "CHARACTER_ADDED": "> {{author}} | **{{name}}** wurde deiner Wunschliste hinzugefügt",
+  "EMBED_TITLE": "<:lined:868888105611046942> __Zur Wunschliste hinzufügen__"
+}

@@ -1,0 +1,15 @@
+{
+  "DESCRIPTION": "Aggiorna la tua lista dei desideri",
+  "CATEGORY": "Lista dei desideri",
+  "ALREADY_MAXED": "> {{author}} **hai già raggiunto il massimo numero di slot per la tua lista dei desideri**",
+  "EMBED_DESCRIPTION": "**Vuoi comprare {{count}} slot extra per {{amount}} {{currency}}?**",
+  "EMBED_PAY_FIELD_NAME": "Pagherai:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "Avrai:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} slot extra nella tua lista dei desideri```",
+  "EMBED_MAXED_DESCRIPTION": "**Vuoi raggiungere il limite massimo di spazi per la tua lista dei desideri per {{amount}} {{currency}}?**",
+  "EMBED_MAXED_FIELD_VALUE": "```Massimo 50 slot nella tua lista dei desideri```",
+  "SUCCESS": "**SUCCESSO**",
+  "CANCELLED": "**ANNULLATO**",
+  "PAY_ERROR": "`**Non hai {{amount}} {{currency}}**`"
+}

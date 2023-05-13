@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Soğuma zamanlarınızı kontrol edebilirsiniz\n- Bırakın, Alın, Oy verin, Soygun yapın ve Günlükler\n - Damlalık, oy ve günlük hatırlatıcıları eklemek için zil simgelerine tıklayın.",
+  "JOIN_SUPPORT_SERVER": "**[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)**",
+  "DROP": "Bırak",
+  "GRAB": "Al",
+  "VOTE": "Oy Ver",
+  "BUMP": "Bump",
+  "DAILY": "Günlük",
+  "UNREAD_MAIL": "\n **📫 `${{checkUnreadMailsCount}}` okunmamış posta | `{{customPrefix}}mail` kullanın**"
+}

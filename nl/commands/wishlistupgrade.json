@@ -1,0 +1,15 @@
+{
+  "DESCRIPTION": "Upgrade uw verlanglijstje",
+  "CATEGORY": "Verlanglijstje",
+  "ALREADY_MAXED": "> {{author}} **uw verlanglijstjesslots zijn al gemaximaliseerd**",
+  "EMBED_DESCRIPTION": "**Wilt u extra {{count}} slots kopen voor {{amount}} {{currency}}?**",
+  "EMBED_PAY_FIELD_NAME": "U betaalt:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "U krijgt:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} extra verlanglijstjesslots```",
+  "EMBED_MAXED_DESCRIPTION": "**Wilt u uw verlanglijstje maximaliseren voor {{amount}} {{currency}}?**",
+  "EMBED_MAXED_FIELD_VALUE": "```Maximaliseer tot 50 verlanglijstjesslots```",
+  "SUCCESS": "**Succesvol**",
+  "CANCELLED": "**Geannuleerd**",
+  "PAY_ERROR": "`**U heeft niet {{amount}} {{currency}}**`"
+}

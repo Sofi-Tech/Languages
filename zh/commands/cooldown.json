@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "您可以检查以下内容的冷却时间\n- 水晶掉落、领取、投票、突袭和日常\n- 点击铃铛图标添加水晶掉落、投票和日常提醒。",
+  "JOIN_SUPPORT_SERVER": "**[加入支援服务器获取帮助](https://discord.gg/sofi)**",
+  "DROP": "水晶掉落",
+  "GRAB": "领取",
+  "VOTE": "投票",
+  "BUMP": "顶帖",
+  "DAILY": "日常",
+  "UNREAD_MAIL": "\n **📫 `${{checkUnreadMailsCount}}` 邮件未读 | 使用 `{{customPrefix}}mail` 命令查看邮件**"
+}

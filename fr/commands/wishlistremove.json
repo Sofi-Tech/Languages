@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Supprime un caractère de votre liste de souhaits",
+  "CATEGORY": "Liste de souhaits",
+  "NO_INDEX": "Aucun nom ni numéro fournis | Pour effacer tout, utilisez `reset complet`",
+  "FULL_RESET": "> {{author}} **a retiré {{total}} personnages de votre liste de souhaits**",
+  "REMOVE_CHARACTER": "> {{author}} **a retiré {{name}} de votre liste de souhaits**",
+  "NO_RESULTS": "> {{author}} **aucun résultat trouvé pour {{name}}**"
+}

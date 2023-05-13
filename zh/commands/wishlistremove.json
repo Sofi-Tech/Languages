@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "从您的愿望清单中删除字符",
+  "CATEGORY": "心愿单",
+  "NO_INDEX": "未提供名称或号码 | 要清除整个wl，请使用`full reset`",
+  "FULL_RESET": "> {{author}} **从您的愿望清单中删除了{{total}}个角色**",
+  "REMOVE_CHARACTER": "> {{author}} **从您的心愿单中删除了{{name}}**",
+  "NO_RESULTS": "> {{author}} **未找到{{name}}的结果**"
+}

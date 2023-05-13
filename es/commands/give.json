@@ -1,0 +1,18 @@
+{
+  "DESCRIPTION": "Dar tarjeta a cualquiera",
+  "SLASH_DESC": "Ingresa al usuario al que quieras darle la tarjeta.",
+  "SLASH_DESC2": "Ingresa el código de la tarjeta que quieres dar.",
+  "NO_MEMBER": "{{author}} No se ha proporcionado ningún miembro",
+  "NO_SELF_GIVE": "{{author}} no puede regalarse una tarjeta a sí mismo",
+  "NOT_REGISTERED": "{{member}} no está registrado",
+  "MEM_BLACKLISTED": "{{member}} está en la lista negra",
+  "MEM_QUARANTINED": "**El usuario está en cuarentena**",
+  "NO_CODE": "{{author}} olvidaste proporcionar el código de la tarjeta",
+  "WRONG_USAGE": "{{author}} Uso correcto: `sgive <usuario/IDusuario> <códigotarjeta>`",
+  "NO_CARD_FOUND": "No se puede encontrar la tarjeta con el código: `{{code}}`",
+  "CARD_LOCKED": "La tarjeta está bloqueada y no puede ser regalada. Desmarca la tarjeta para proceder",
+  "CARD_NOT_OWNED": "**Ya no tienes la tarjeta en tu posesión**",
+  "SUCCESS": "ÉXITO",
+  "CANCELLED": "CANCELADO",
+  "GIVEN": "Remitente => Receptor"
+}

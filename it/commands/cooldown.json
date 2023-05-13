@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Puoi controllare i tempi di recupero per\n- Drop, Grab, Vote, Raid e Daily\n-Clicca sulle icone per aggiungere promemoria per drop, vote e daily.",
+  "JOIN_SUPPORT_SERVER": "**[Unisciti al server di supporto per aiuto](https://discord.gg/sofi)**",
+  "DROP": "Drop",
+  "GRAB": "Grab",
+  "VOTE": "Voto",
+  "BUMP": "Bump",
+  "DAILY": "Daily",
+  "UNREAD_MAIL": "\n **📫 `${{checkUnreadMailsCount}}` mail(s) non lette | Usa `{{customPrefix}}mail`**"
+}

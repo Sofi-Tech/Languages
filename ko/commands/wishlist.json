@@ -1,0 +1,19 @@
+{
+  "DESCRIPTION": "위시리스트를 보여줍니다.",
+  "CATEGORY": "위시리스트",
+  "USER_NOT_FOUND": "사용자를 찾을 수 없습니다.",
+  "WISHLIST_PRIVATE": "> **해당 사용자의 위시리스트는 비공개입니다**",
+  "WISHLIST_EMPTY": "> **{{username}}의 위시리스트는 내 심장과 같이 비어 있습니다** 💔",
+  "WISHLIST_EMBED_TITLE": "{{username}}의 위시리스트 [{{length}}/{{slots}}]",
+  "WISHLIST_EMBED_FOOTER": "{{prefix}}wu/{{prefix}}wu max를 사용하여 위시리스트 슬롯을 늘릴 수 있습니다 | 페이지: {{page}}/{{totalPages}}",
+  "COPY_CODES_BUTTON_LABEL": "코드 복사",
+  "COPY_CODES_MENU_LABEL": "모든 코드 복사",
+  "COPY_CODES_MENU_DESCRIPTION": "코드를 모두 텍스트 메시지로 보냅니다.",
+  "BACK_MENU_LABEL": "뒤로 가기",
+  "BACK_MENU_DESCRIPTION": "위시리스트 페이지로 이동합니다.",
+  "CARD_MENU_DESCRIPTION": "{{name}}의 코드 복사",
+  "COPY_CODES_MENU_PLACEHOLDER": "코드 복사",
+  "CODES_COPIED": "복사 완료",
+  "ALL_CARD_CODES": "모든 코드가 여기 있습니다.",
+  "WISHLIST_CODE_EMBED_TITLE": "SOFI: 위시리스트 코드"
+}

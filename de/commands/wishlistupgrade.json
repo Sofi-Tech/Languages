@@ -1,0 +1,15 @@
+{
+  "DESCRIPTION": "Aktualisieren Sie Ihre Wunschliste",
+  "CATEGORY": "Wunschliste",
+  "ALREADY_MAXED": "> {{author}} **Ihre Wunschliste ist bereits voll**",
+  "EMBED_DESCRIPTION": "**Möchtest du extra {{count}} Slots für {{amount}} {{currency}} kaufen?**",
+  "EMBED_PAY_FIELD_NAME": "Sie zahlen:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "Sie erhalten:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} zusätzliche Wunschlisten-Slots```",
+  "EMBED_MAXED_DESCRIPTION": "**Möchtest du deine Wunschlisten-Slots für {{amount}} {{currency}} maximieren?**",
+  "EMBED_MAXED_FIELD_VALUE": "```Maximiere auf 50 Wunschlisten-Slots```",
+  "SUCCESS": "**ERFOLG**",
+  "CANCELLED": "**ABGEBROCHEN**",
+  "PAY_ERROR": "`**Du hast keine {{amount}} {{currency}}**`"
+}

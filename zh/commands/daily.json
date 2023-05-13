@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "领取每日奖励并保持连续领取以获得惊人的奖励。",
+  "CATEGORY": "卡片",
+  "EMBED_AUTHOR": "{{author}}的每日奖励",
+  "DAILY_ERROR": "你可以在**{{timeout}}**后领取你的每日奖励。\n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> 剩余{{count}}个每日奖励可领取普通宝箱",
+  "RARE_CHEST": "<:rarechest:927204672270372874> 剩余{{count}}个每日奖励可领取稀有宝箱",
+  "NOTE": "\n⚠️ Discord 或 Sofi 工作人员永远不会要求您提供密码、OTP 或更改电子邮件，也不会使用第三方机器人如 Mee6/Dyno 进行通讯。任何免费提供给您或要求您加入服务器的东西都是可疑的。请在{{link}}进行举报。",
+  "EMBED_FOOTER": "连续领取 [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "**感谢您领取每日奖励**\n",
+  "GUILD_BONUS": "**前20名服务器奖励 x1.5**\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+}

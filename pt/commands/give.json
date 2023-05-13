@@ -1,0 +1,18 @@
+{
+  "DESCRIPTION": "Dê um cartão a alguém",
+  "SLASH_DESC": "Digite o usuário para quem você deseja dar o cartão.",
+  "SLASH_DESC2": "Digite o código do cartão que você deseja dar.",
+  "NO_MEMBER": "{{author}} Nenhum membro fornecido",
+  "NO_SELF_GIVE": "{{author}} não pode dar cartão para si mesmo",
+  "NOT_REGISTERED": "{{member}} não está registrado",
+  "MEM_BLACKLISTED": "{{member}} está na lista negra",
+  "MEM_QUARANTINED": "**O usuário está em quarentena**",
+  "NO_CODE": "{{author}} você esqueceu de fornecer o código do cartão",
+  "WRONG_USAGE": "{{author}} Uso correto: `sgive <usuário/userID> <código do cartão>`",
+  "NO_CARD_FOUND": "Não é possível encontrar o cartão com o código: `{{code}}`",
+  "CARD_LOCKED": "O cartão está bloqueado e não pode ser dado. Desmarque o cartão para prosseguir",
+  "CARD_NOT_OWNED": "**Você não é mais o proprietário do cartão**",
+  "SUCCESS": "SUCESSO",
+  "CANCELLED": "CANCELADO",
+  "GIVEN": "Remetente => Destinatário"
+}

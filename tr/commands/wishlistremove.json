@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Wishlist'ten karakter kaldırır",
+  "CATEGORY": "Wishlist",
+  "NO_INDEX": "İsim veya numara belirtilmedi | Tüm listeyi temizlemek için `tam sıfırla` kullanın",
+  "FULL_RESET": "> {{author}} Wishlist'ten {{total}} karakteri kaldırdı",
+  "REMOVE_CHARACTER": "> {{author}} Wishlist'ten {{name}} karakterini kaldırdı",
+  "NO_RESULTS": "> {{author}} {{name}} için sonuç bulunamadı"
+}

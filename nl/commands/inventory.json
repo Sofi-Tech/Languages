@@ -1,0 +1,18 @@
+{
+  "DESCRIPTION": "Toont de inventaris van de gebruiker",
+  "SLASH_DESC": "Voer de gebruiker in wiens inventaris u wilt zien.",
+  "SLASH_DESC2": "Voer het item in waar u naar wilt zoeken.",
+  "NOT_REGISTER": "**{{author}} | Gebruiker is niet geregistreerd**",
+  "NO_USER_FOUND": "{{author}} | Gebruiker niet gevonden",
+  "INV_PRIVATE": "De inventaris van die gebruiker is privé",
+  "ITEMS": "Items",
+  "FRAMES": "Frames",
+  "CRYSTALS": "Kristallen",
+  "BACKGROUNDS": "Achtergronden",
+  "EVENT": "Evenement",
+  "SELF_INV_EMPTY": "Uw inventaris is leeg",
+  "USER_INV_EMPTY": "De inventaris van die gebruiker is leeg",
+  "NO_BG_FOUND": "Geen achtergrond gevonden",
+  "NO_ITEM_FOUND": "**Kan dat item niet vinden in de inventaris**",
+  "HIDE_INV": "Om je inventaris te verbergen - spvt inv"
+}

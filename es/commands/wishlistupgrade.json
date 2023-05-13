@@ -1,0 +1,15 @@
+{
+  "DESCRIPTION": "Actualiza tu lista de deseos",
+  "CATEGORY": "Lista de deseos",
+  "ALREADY_MAXED": "> {{author}} **ya tienes el máximo de espacios en tu lista de deseos**",
+  "EMBED_DESCRIPTION": "**¿Quieres comprar {{count}} espacios adicionales por {{amount}} {{currency}}?**",
+  "EMBED_PAY_FIELD_NAME": "Precio:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "Obtienes:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} espacios adicionales en tu lista de deseos```",
+  "EMBED_MAXED_DESCRIPTION": "**¿Quieres llenar tu lista de deseos por {{amount}} {{currency}}?**",
+  "EMBED_MAXED_FIELD_VALUE": "```Llena tu lista de deseos a 50 espacios```",
+  "SUCCESS": "**ÉXITO**",
+  "CANCELLED": "**CANCELADO**",
+  "PAY_ERROR": "`**No tienes suficiente saldo, necesitas {{amount}} {{currency}}**`"
+}

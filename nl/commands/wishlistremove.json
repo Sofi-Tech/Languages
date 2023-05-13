@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Verwijdert personage van uw verlanglijstje",
+  "CATEGORY": "Verlanglijstje",
+  "NO_INDEX": "Geen naam of nummer opgegeven | Om de hele wenslijst te wissen, gebruik `full reset`",
+  "FULL_RESET": "> {{author}} **heeft {{total}} personages uit uw verlanglijstje verwijderd**",
+  "REMOVE_CHARACTER": "> {{author}} **heeft {{name}} van uw verlanglijstje verwijderd**",
+  "NO_RESULTS": "> {{author}} **geen resultaten gevonden voor {{name}}**"
+}
