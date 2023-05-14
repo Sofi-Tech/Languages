@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Remove o personagem da sua lista de desejos",
-  "CATEGORY": "Lista de Desejos",
-  "NO_INDEX": "Nenhum nome ou número fornecido | Para limpar a lista inteira, use `full reset`",
-  "FULL_RESET": "> {{author}} removeu {{total}} personagens da sua lista de desejos",
-  "REMOVE_CHARACTER": "> {{author}} removeu {{name}} da sua lista de desejos",
-  "NO_RESULTS": "> {{author}} nenhum resultado encontrado para {{name}}"
+    "DESCRIPTION": "Remove o personagem da sua lista de desejos",
+    "CATEGORY": "Lista de Desejos",
+    "NO_INDEX": "Nenhum nome ou número foi fornecido! | Para limpar a sua lista de desejos inteira, use o comando `full reset`",
+    "FULL_RESET": "> {{author}} removeu {{total}} personagens da sua lista de desejos",
+    "REMOVE_CHARACTER": "> {{author}} removeu {{name}} da sua lista de desejos",
+    "NO_RESULTS": "> {{author}} nenhum resultado encontrado para {{name}}"
 }
