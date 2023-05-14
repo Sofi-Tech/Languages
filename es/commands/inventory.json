@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Muestra el inventario del usuario",
+    "DESCRIPTION": "Muestra el inventario de un usuario",
     "SLASH_DESC": "Ingresa el usuario del que quieres ver el inventario",
     "SLASH_DESC2": "Ingresa el objeto que deseas buscar",
     "NOT_REGISTER": "{{author}} | El usuario no está registrado",
@@ -12,7 +12,7 @@
     "EVENT": "Evento",
     "SELF_INV_EMPTY": "Tu inventario está vacío",
     "USER_INV_EMPTY": "El inventario de ese usuario está vacío",
-    "NO_BG_FOUND": "No se encontró ningún background",
+    "NO_BG_FOUND": "No se encontró ningún `Background`",
     "NO_ITEM_FOUND": "No se puede encontrar ese objeto en el inventario",
-    "HIDE_INV": "Para ocultar tu inventario, usar spvt inv"
+    "HIDE_INV": "Para ocultar tu inventario, usa el comando `spvt inv`"
 }

@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Dai la carta a un utente",
+    "DESCRIPTION": "Dai una carta all'utente indicato",
     "SLASH_DESC": "Inserisci l'utente a cui vuoi dare la carta",
-    "SLASH_DESC2": "Inserisci il codice della carta che vuoi dare.",
+    "SLASH_DESC2": "Inserisci il codice della carta che vuoi dare",
     "NO_MEMBER": "{{author}} Nessun utente fornito",
     "NO_SELF_GIVE": "{{author}}, non puoi darti la carta",
     "NOT_REGISTERED": "{{member}} non è registrato",

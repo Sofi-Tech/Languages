@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Puoi far cadere 3 carte usando questo comando ogni 8 minuti.\n- Usa il comando \"sdn\" per rilasciare senza alcuna immagine. Utile per i momenti in cui sei a corto di dati o non vuoi ritardare.",
-    "JOIN_SUPPORT_SERVER": "[Unisciti al server di supporto per ricevere aiuto](https://discord.gg/sofi)",
-    "EXTRA_GRAB_ALERT": "{{author}} *Il tuo extra drop sta venendo utilizzato. `{{remaining}}` rimane.*",
+    "DESCRIPTION": "- Puoi far cadere 3 carte usando questo comando ogni 8 minuti.\n- Usa il comando `sdn` per rilasciare senza alcuna immagine. Utile per i momenti in cui sei a corto di dati o non vuoi ritardare.",
+    "JOIN_SUPPORT_SERVER": "[Unisciti al server di supporto per ricevere aiuto!](https://discord.gg/sofi)",
+    "EXTRA_GRAB_ALERT": "{{author}} Il tuo **Extra Drop** sta venendo utilizzato. `{{remaining}}` rimane.",
     "ON_CD": "{{author}} perché non riprovi fra {{dropCd}}",
     "VOTE": "Voto",
-    "BUY_DROP": "\nPuoi anche votare per comprare i drop - `sbuy drop`"
+    "BUY_DROP": "\nPuoi anche `Vote` per acquistare `Drops` - `sbuy drop`"
 }
