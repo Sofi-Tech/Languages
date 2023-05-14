@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Fordere deine tägliche Belohnung ein und halte deine Serie aufrecht, um fantastische Belohnungen zu bekommen.",
+    "DESCRIPTION": "Fordere deine dailies ein und halte deine Serie aufrecht, um fantastische Belohnungen zu bekommen.",
     "CATEGORY": "Karten",
     "EMBED_AUTHOR": "{{author}}'s Tägliches",
-    "DAILY_ERROR": "Du kannst dein tägliches Angebot erst nach **{{timeout}}** abholen.\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} tägliche Belohnungen übrig, um eine gewöhnliche Truhe zu erhalten.",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} tägliche Belohnung übrig, um eine seltene Truhe zu erhalten.",
+    "DAILY_ERROR": "Du kannst dein Daily erst nach **{{timeout}}** abholen. \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dailies übrig, um eine gewöhnliche Truhe zu erhalten.",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dailies übrig, um eine seltene Truhe zu erhalten.",
     "NOTE": "\n⚠️ Discord- oder Sofi-Mitarbeiter werden niemals nach Passwörtern, OTPS oder nach einer E-Mailänderung fragen oder mithilfe von Bots von Drittanbietern wie Mee6/Dyno kommunizieren. Sollte Ihnen etwas kostenlos angeboten werden oder werden Sie gebeten einem Server beizutreten ist dies mit Vorsicht zu betrachten. Melden Sie es unter {{link}}",
     "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "**Danke, dass du deine täglichen Angebote eingefordert hast** \n",
+    "DAILY_SUCCESS": "**Danke, dass du deine dailies eingefordert hast** \n",
     "GUILD_BONUS": "**Top 20-Server-Bonus x1,5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
