@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- You can look up a certain character using the `scl` command. In the character lookup menu, you can check the card's statistics, their 3D/animated images, as well as the gen leaderboard, fan leaderboard and the card ID.\n- The card ID is required when submitting images for new versions.",
+    "DESCRIPTION": "- You can look up a specific character using the `scl` command. In the character lookup menu, you can check the card's statistics, their 3D/animated images, as well as the gen leaderboard, fan leaderboard and the `Card ID`.\n- The `Card ID` is required when submitting images for new versions.",
     "CHAR_NOT_FOUND": "Cannot find character",
     "CHAR_NF_SENSITIVE": "No character found. [The lookup function is case sensitive!]",
     "EMBED_TITLE": "__Character's Lookup__",
@@ -28,7 +28,7 @@
     "FAN_PTS_ADDED": "`+{{points}}` fan points have been added for: `{{amount}} {{itemName}}`",
     "3D_MAKER": "3D Maker",
     "CARD_MAKER": "Card Maker",
-    "ANIMATED": "Animated Version",
+    "ANIMATED": "Animated Variant",
     "GEN_CLAIMED": "Gens Claimed:  {{count}}/100",
     "TOP_OWNER": "Top Owners",
     "TOP_3D_OWNER": "Top 3D Owners",
