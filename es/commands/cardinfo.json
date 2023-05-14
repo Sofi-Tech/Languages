@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Muestra información sobre la carta",
-    "SLASH_DESC": "Ingresa el código de la carta que quieres mostrar",
+    "DESCRIPTION": "Muestra información sobre una carta",
+    "SLASH_DESC": "Ingresa el código de una carta que quieras mostrar",
     "NO_CARD_FOUND": "No se puede encontrar tu última carta. Intenta proporcionar un código de carta",
     "INVALID_CARD_CODE": "Código de carta provisto no válido",
     "CARD_MORPHED": "Esa carta está morphed",

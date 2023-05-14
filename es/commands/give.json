@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Da una carta al usuario mencionado",
-    "SLASH_DESC": "Ingresa al usuario al que le quieres dar la carta",
+    "SLASH_DESC": "Ingresa al usuario al que le quieres dar esa carta",
     "SLASH_DESC2": "Ingresa el código de la carta que quieres dar",
     "NO_MEMBER": "{{author}} No se ha proporcionado ningún usuario",
     "NO_SELF_GIVE": "{{author}}, no puedes darte una carta a ti mismo",
