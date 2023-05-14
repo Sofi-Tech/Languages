@@ -18,6 +18,6 @@
     "EMBED_FOOTER": "Note : All moves in a deck have to be unique in order to use them for duels or raids!",
     "UNLOCK_SAVE": "Unlock the slot {{deckNo}} to save the deck",
     "UNLOCK_GENERATE": "Unlock the slot ${deckNo} to generate a random deck",
-    "NOT_ENOUGH_CARD": "Not enough cards with different moves. Please collect more cards",
-    "UNLOCK_SELECT": "Unlock the slot {{deckNo}} to select deck"
+    "NOT_ENOUGH_CARD": "You do not have enough cards with different moves. Please collect more cards",
+    "UNLOCK_SELECT": "Unlock slot number {{deckNo}} in order to select this deck"
 }

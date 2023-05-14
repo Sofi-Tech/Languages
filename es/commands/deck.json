@@ -18,6 +18,6 @@
     "EMBED_FOOTER": "Nota: Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos e incursiones!",
     "UNLOCK_SAVE": "Desbloquea la ranura {{deckNo}} para guardar el mazo",
     "UNLOCK_GENERATE": "Desbloquea la ranura ${deckNo} para generar un mazo",
-    "NOT_ENOUGH_CARD": "No hay suficientes cartas con movimientos diferentes. Por favor, recolecta más cartas",
-    "UNLOCK_SELECT": "Desbloquea la ranura {{deckNo}} para seleccionar el mazo"
+    "NOT_ENOUGH_CARD": "No tienes suficientes cartas con movimientos diferentes. Por favor, consigue más cartas",
+    "UNLOCK_SELECT": "Desbloquea la ranura {{deckNo}} para poder seleccionar este mazo"
 }
