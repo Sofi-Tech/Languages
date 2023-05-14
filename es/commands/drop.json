@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Puedes hacer un drop de 3 cartas usando este comando cada 8 minutos.\n- Usa el comando \"sdn\" para hacer el drop sin imágenes. Útil para cuando tienes pocos datos o no quieres lag.",
+    "DESCRIPTION": "- Usando este comando puedes hacer un drop de 3 cartas cada 8 minutos.\n- Usa el comando \"sdn\" para hacer el drop sin imágenes. Útil para cuando tienes pocos datos o no quieres lag.",
     "JOIN_SUPPORT_SERVER": "**[Únete al servidor de soporte para obtener ayuda](https://discord.gg/sofi)**",
     "EXTRA_GRAB_ALERT": "{{author}} *Tu drop extra está siendo utilizado. Quedan `{{remaining}}`.*",
     "ON_CD": "**{{author}} por qué no intentas de nuevo en {{dropCd}}**",

@@ -6,7 +6,7 @@
     "NO_ITEM": "Veuillez entrer un article à acheter",
     "TRADEPASS_INFO": "L'achat d'un passe d'échange grâce à de l'argent est abandonné. Vous pouvez acheter un passe d'échange de 4 heures avec 1 bump ou économiser 20 bumps pour acheter un passe d'échange de 30 jours.",
     "CORRECT_USAGE": "{{USER}} Utilisation correcte : `{{prefix}}buy bg <bgID> [quantité]`",
-    "INVALID_BG_AMOUNT": "La quantité d'arrière-plans doit être positive",
+    "INVALID_BG_AMOUNT": "Ne pas saisir de valeurs négatives",
     "INVALID_BG_ID": "Veuillez fournir un ID d'arrière-plan valide",
     "NO_ITEM_PROVIDED": "Aucun article fourni",
     "INVALID_AMOUNT": "Montant invalide",

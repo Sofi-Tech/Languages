@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Zeigt deine Wunschliste an",
+    "DESCRIPTION": "Zeigt deine Wunschliste an.",
     "CATEGORY": "Wunschliste",
-    "USER_NOT_FOUND": "Benutzer nicht gefunden.",
-    "WISHLIST_PRIVATE": "> **Die Wunschliste dieses Benutzers ist privat**",
-    "WISHLIST_EMPTY": "> **{{username}}'s Wunschliste ist so leer wie mein Herz** 💔",
+    "USER_NOT_FOUND": "Benutzer wurde nicht gefunden.",
+    "WISHLIST_PRIVATE": "> **Die Wunschliste dieses Benutzers ist privat.**",
+    "WISHLIST_EMPTY": "> **{{username}}'s Wunschliste ist so leer wie mein Herz.** 💔",
     "WISHLIST_EMBED_TITLE": "{{username}}'s Wunschliste [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Benutzen Sie {{prefix}}wu/{{prefix}}wu max, um die Anzahl der Wunschliste-Slots zu erhöhen | Seiten: {{page}}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Benutze {{prefix}}wu/{{prefix}}wu max, um die Anzahl der Slots deiner Wunschliste zu erhöhen. | Seiten: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Codes kopieren",
     "COPY_CODES_MENU_LABEL": "Alle Codes kopieren",
     "COPY_CODES_MENU_DESCRIPTION": "Sendet alle Codes als Textnachricht",
@@ -14,6 +14,6 @@
     "CARD_MENU_DESCRIPTION": "{{name}}'s Codes kopieren",
     "COPY_CODES_MENU_PLACEHOLDER": "Codes kopieren",
     "CODES_COPIED": "Kopiert",
-    "ALL_CARD_CODES": "Hier sind die Codes",
+    "ALL_CARD_CODES": "Hier sind die Karten-Codes.",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: Wunschlisten Codes"
 }
