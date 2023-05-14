@@ -16,8 +16,8 @@
     "MOVES_UNIQUE": "All moves in the deck must be unique | Select a different card or move for the same card",
     "SAVE_DECK": "Click on save to set this deck",
     "EMBED_FOOTER": "Note : All moves in a deck have to be unique in order to use them for duels or raids!",
-    "UNLOCK_SAVE": "Unlock the slot {{deckNo}} to save the deck",
+    "UNLOCK_SAVE": "Unlock slot number {{deckNo}} in order to save a deck there",
     "UNLOCK_GENERATE": "Unlock the slot ${deckNo} to generate a random deck",
     "NOT_ENOUGH_CARD": "You do not have enough cards with different moves. Please collect more cards",
-    "UNLOCK_SELECT": "Unlock slot number {{deckNo}} in order to select this deck"
+    "UNLOCK_SELECT": "Unlock slot number {{deckNo}} in order to select a deck there"
 }
