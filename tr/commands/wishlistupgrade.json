@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Dilek listeni yükseltin",
-    "CATEGORY": "Dilek Listesi",
-    "ALREADY_MAXED": "> {{author}} dilek listesi slotları zaten dolu",
-    "EMBED_DESCRIPTION": "{{amount}} {{currency}} karşılığında {{count}} adet ekstra dilek listesi slotu almak istiyor musunuz?",
-    "EMBED_PAY_FIELD_NAME": "Ödeyeceğiniz tutar:",
-    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "Sahip olacağınız slot sayısı:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} adet yeni dilek listesi slotu```",
-    "EMBED_MAXED_DESCRIPTION": "Dilek listenizin slotlarını tamamlamak istiyor musunuz? {{amount}} {{currency}} karşılığında tümüne sahip olabilirsiniz.",
-    "EMBED_MAXED_FIELD_VALUE": "```Dilek listenizi, toplamda 50 slot olarak tamamlayın.```",
-    "SUCCESS": "BAŞARILI",
-    "CANCELLED": "İPTAL EDİLDİ",
-    "PAY_ERROR": "`{{amount}} {{currency}} sahip değilsiniz`"
+  "DESCRIPTION": "Dilek listeni yükseltin",
+  "CATEGORY": "Dilek Listesi",
+  "ALREADY_MAXED": "> {{author}} dilek listesi slotları zaten dolu",
+  "EMBED_DESCRIPTION": "{{amount}} {{currency}} karşılığında {{count}} adet ekstra dilek listesi slotu almak istiyor musunuz?",
+  "EMBED_PAY_FIELD_NAME": "Ödeyeceğiniz tutar:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "Sahip olacağınız slot sayısı:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} adet yeni dilek listesi slotu```",
+  "EMBED_MAXED_DESCRIPTION": "Dilek listenizin slotlarını tamamlamak istiyor musunuz? {{amount}} {{currency}} karşılığında tümüne sahip olabilirsiniz.",
+  "EMBED_MAXED_FIELD_VALUE": "```Dilek listenizi, toplamda 50 slot olarak tamamlayın.```",
+  "SUCCESS": "BAŞARILI",
+  "CANCELLED": "İPTAL EDİLDİ",
+  "PAY_ERROR": "`{{amount}} {{currency}} sahip değilsiniz`"
 }

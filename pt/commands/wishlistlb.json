@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Mostra o ranking de lista de desejos",
-    "CATEGORY": "Lista de Desejos",
-    "EMBED_TITLE": "RANKING DE LISTA DE DESEJOS - {{type}}",
-    "EMBED_FOOTER": "Mostrando página {{page}}/{{totalPages}}",
-    "CHARACTER_BUTTON_LABEL": "Personagens",
-    "SERIES_BUTTON_LABEL": "Séries"
+  "DESCRIPTION": "Mostra o ranking de lista de desejos",
+  "CATEGORY": "Lista de Desejos",
+  "EMBED_TITLE": "RANKING DE LISTA DE DESEJOS - {{type}}",
+  "EMBED_FOOTER": "Mostrando página {{page}}/{{totalPages}}",
+  "CHARACTER_BUTTON_LABEL": "Personagens",
+  "SERIES_BUTTON_LABEL": "Séries"
 }

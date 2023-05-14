@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "ショップからアイテムを購入する",
-    "SLASH_DESC": "購入するアイテム名を入力してください",
-    "SLASH_DESC2": "購入する個数を入力してください",
-    "SLASH_DESC3": "購入する背景のコードを入力してください。 [アイテムが背景として選択された場合のみ有効]",
-    "NO_ITEM": "購入するアイテム名を入力してください",
-    "TRADEPASS_INFO": "シルバーを通じたトレードパスの購入は中止されました。1つのバンプで4時間のトレードパスを購入するか、20つのバンプを貯めて30日間購入してください。",
-    "CORRECT_USAGE": "{{USER}} 正しい使用方法: `{{prefix}}buy bg <bgID> [amount]`",
-    "INVALID_BG_AMOUNT": "背景の個数は正の値でなければなりません",
-    "INVALID_BG_ID": "正しい背景IDを入力してください",
-    "NO_ITEM_PROVIDED": "アイテムが指定されていません",
-    "INVALID_AMOUNT": "不正な数量が指定されました",
-    "INVALID_ITEM_PROVIDED": "{{USER}} 不正なアイテムが指定されました"
+  "DESCRIPTION": "ショップからアイテムを購入する",
+  "SLASH_DESC": "購入するアイテム名を入力してください",
+  "SLASH_DESC2": "購入する個数を入力してください",
+  "SLASH_DESC3": "購入する背景のコードを入力してください。 [アイテムが背景として選択された場合のみ有効]",
+  "NO_ITEM": "購入するアイテム名を入力してください",
+  "TRADEPASS_INFO": "シルバーを通じたトレードパスの購入は中止されました。1つのバンプで4時間のトレードパスを購入するか、20つのバンプを貯めて30日間購入してください。",
+  "CORRECT_USAGE": "{{USER}} 正しい使用方法: `{{prefix}}buy bg <bgID> [amount]`",
+  "INVALID_BG_AMOUNT": "背景の個数は正の値でなければなりません",
+  "INVALID_BG_ID": "正しい背景IDを入力してください",
+  "NO_ITEM_PROVIDED": "アイテムが指定されていません",
+  "INVALID_AMOUNT": "不正な数量が指定されました",
+  "INVALID_ITEM_PROVIDED": "{{USER}} 不正なアイテムが指定されました"
 }

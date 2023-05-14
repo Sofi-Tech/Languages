@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "あなたがあなたのクールダウンを確認できる\n- Drop、Grab、Vote、Raid、およびDailies\n- ドロップ、投票、およびデイリーのリマインダーを追加するにはベルアイコンをクリックしてください。",
-    "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください](https://discord.gg/sofi)",
-    "DROP": "ドロップ",
-    "GRAB": "ゲット",
-    "VOTE": "投票する",
-    "BUMP": "バンプ",
-    "DAILY": "デイリー",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください"
+  "DESCRIPTION": "あなたがあなたのクールダウンを確認できる\n- Drop、Grab、Vote、Raid、およびDailies\n- ドロップ、投票、およびデイリーのリマインダーを追加するにはベルアイコンをクリックしてください。",
+  "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください](https://discord.gg/sofi)",
+  "DROP": "ドロップ",
+  "GRAB": "ゲット",
+  "VOTE": "投票する",
+  "BUMP": "バンプ",
+  "DAILY": "デイリー",
+  "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください"
 }

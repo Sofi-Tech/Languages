@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Reivindique seu diário e mantenha a sequência para obter recompensas incríveis",
-    "CATEGORY": "Cartas",
-    "EMBED_AUTHOR": "Diários de {{author}}",
-    "DAILY_ERROR": "Você pode reivindicar seu diário depois de {{timeout}} \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} diários restantes para reivindicar um Baú Comum",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} diáriose restantes para reivindicar um Baú Raro",
-    "NOTE": "\n⚠️ A equipe do Discord ou da Sofi nunca pedirá senha, códigos OTPs ou alteração de e-mail ou se comunicará usando bots de terceiros como Mee6/Dyno. Qualquer oferta gratuita ou pedido para se juntar a um servidor é suspeito. Denuncie em {{link}}",
-    "EMBED_FOOTER": "Sequência [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Obrigado por reivindicar seus diários \n",
-    "GUILD_BONUS": "Bônus do servidor Top 20 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DESCRIPTION": "Reivindique seu diário e mantenha a sequência para obter recompensas incríveis",
+  "CATEGORY": "Cartas",
+  "EMBED_AUTHOR": "Diários de {{author}}",
+  "DAILY_ERROR": "Você pode reivindicar seu diário depois de {{timeout}} \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} diários restantes para reivindicar um Baú Comum",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} diáriose restantes para reivindicar um Baú Raro",
+  "NOTE": "\n⚠️ A equipe do Discord ou da Sofi nunca pedirá senha, códigos OTPs ou alteração de e-mail ou se comunicará usando bots de terceiros como Mee6/Dyno. Qualquer oferta gratuita ou pedido para se juntar a um servidor é suspeito. Denuncie em {{link}}",
+  "EMBED_FOOTER": "Sequência [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "Obrigado por reivindicar seus diários \n",
+  "GUILD_BONUS": "Bônus do servidor Top 20 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

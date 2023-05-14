@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Klaim hadiah harianmu dan pertahankan streak untuk mendapatkan hadiah yang menarik",
-    "CATEGORY": "Kartu",
-    "EMBED_AUTHOR": "Harian milik {{author}}",
-    "DAILY_ERROR": "Anda bisa mengklaim hadiah harianmu setelah {{timeout}} \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} harian tersisa untuk diambil Peti Biasa",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} harian tersisa untuk diambil Peti Langka",
-    "NOTE": "\n⚠️ Staff Discord atau Sofi tidak akan pernah meminta password, otps atau mengubah email atau berkomunikasi dengan menggunakan bot pihak ketiga seperti Mee6/Dyno. Apapun yang ditawarkan kepadamu secara gratis atau diminta untuk bergabung ke dalam server adalah mencurigakan. Laporkan hal tersebut di {{link}}",
-    "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Terima kasih telah mengklaim hadiah harianmu \n",
-    "GUILD_BONUS": "Bonus Top 20 Server x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DESCRIPTION": "Klaim hadiah harianmu dan pertahankan streak untuk mendapatkan hadiah yang menarik",
+  "CATEGORY": "Kartu",
+  "EMBED_AUTHOR": "Harian milik {{author}}",
+  "DAILY_ERROR": "Anda bisa mengklaim hadiah harianmu setelah {{timeout}} \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} harian tersisa untuk diambil Peti Biasa",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} harian tersisa untuk diambil Peti Langka",
+  "NOTE": "\n⚠️ Staff Discord atau Sofi tidak akan pernah meminta password, otps atau mengubah email atau berkomunikasi dengan menggunakan bot pihak ketiga seperti Mee6/Dyno. Apapun yang ditawarkan kepadamu secara gratis atau diminta untuk bergabung ke dalam server adalah mencurigakan. Laporkan hal tersebut di {{link}}",
+  "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "Terima kasih telah mengklaim hadiah harianmu \n",
+  "GUILD_BONUS": "Bonus Top 20 Server x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

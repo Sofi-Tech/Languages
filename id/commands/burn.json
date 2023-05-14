@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Melebur kartu untuk mendapatkan kristal dan perak yang dapat digunakan untuk membuat kubus dan membeli berbagai item lain di bot. Mengetik sb akan melebur kartu terakhir yang diklaim.",
-    "GUILDSTONE_BURN": "Anda akan melebur `batu guild`",
-    "GUILDSTONE_NOT_FOUND": "Anda tidak memiliki `batu guild` untuk dilebur",
-    "SUCCESS": "BERHASIL",
-    "CANCELLED": "DIBATALKAN",
-    "BURN_FRAG_WARN": "Anda akan membakar fragmen\nKode Fragmen: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "Tidak ada fragmen ditemukan",
-    "CARD_NOT_FOUND": "Tidak dapat menemukan kartu tersebut",
-    "CARD_LOCKED": "Kartu terkunci",
-    "CARD_NOT_OWNED": "Anda tidak memiliki kartu tersebut"
+  "DESCRIPTION": "Melebur kartu untuk mendapatkan kristal dan perak yang dapat digunakan untuk membuat kubus dan membeli berbagai item lain di bot. Mengetik sb akan melebur kartu terakhir yang diklaim.",
+  "GUILDSTONE_BURN": "Anda akan melebur `batu guild`",
+  "GUILDSTONE_NOT_FOUND": "Anda tidak memiliki `batu guild` untuk dilebur",
+  "SUCCESS": "BERHASIL",
+  "CANCELLED": "DIBATALKAN",
+  "BURN_FRAG_WARN": "Anda akan membakar fragmen\nKode Fragmen: `{{fragCode}}`",
+  "FRAG_NOT_FOUND": "Tidak ada fragmen ditemukan",
+  "CARD_NOT_FOUND": "Tidak dapat menemukan kartu tersebut",
+  "CARD_LOCKED": "Kartu terkunci",
+  "CARD_NOT_OWNED": "Anda tidak memiliki kartu tersebut"
 }

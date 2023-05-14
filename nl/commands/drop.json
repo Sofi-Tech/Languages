@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Met dit commando kun je elke 8 minuten 3 kaarten laten vallen.\n- Gebruik het commando \"sdn\" om te laten vallen zonder afbeeldingen. Handig voor tijden waarin je weinig data hebt of geen vertraging wilt.",
-    "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp](https://discord.gg/sofi)",
-    "EXTRA_GRAB_ALERT": "{{author}} *Je extra drop wordt gebruikt. `{{remaining}}` blijft over.*",
-    "ON_CD": "{{author}} waarom probeer je het niet opnieuw in {{dropCd}}",
-    "VOTE": "Vote",
-    "BUY_DROP": "\nJe kunt ook stemmen om drops te kopen - `sbuy drop`"
+  "DESCRIPTION": "- Met dit commando kun je elke 8 minuten 3 kaarten laten vallen.\n- Gebruik het commando \"sdn\" om te laten vallen zonder afbeeldingen. Handig voor tijden waarin je weinig data hebt of geen vertraging wilt.",
+  "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp](https://discord.gg/sofi)",
+  "EXTRA_GRAB_ALERT": "{{author}} *Je extra drop wordt gebruikt. `{{remaining}}` blijft over.*",
+  "ON_CD": "{{author}} waarom probeer je het niet opnieuw in {{dropCd}}",
+  "VOTE": "Vote",
+  "BUY_DROP": "\nJe kunt ook stemmen om drops te kopen - `sbuy drop`"
 }
