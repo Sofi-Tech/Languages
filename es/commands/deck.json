@@ -17,7 +17,7 @@
     "SAVE_DECK": "Haz clic en guardar para establecer este mazo",
     "EMBED_FOOTER": "Nota: Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos o raids!",
     "UNLOCK_SAVE": "Desbloquea la ranura {{deckNo}} para guardar un mazo ahí",
-    "UNLOCK_GENERATE": "Desbloquea la ranura ${deckNo} para generar un mazo aleatorio",
+    "UNLOCK_GENERATE": "Desbloquea la ranura {{deckNo}} para generar un mazo aleatorio",
     "NOT_ENOUGH_CARD": "No tienes suficientes cartas con movimientos diferentes. Por favor, consigue más cartas",
     "UNLOCK_SELECT": "Desbloquea la ranura {{deckNo}} para poder seleccionar un mazo en ella"
 }
