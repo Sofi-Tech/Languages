@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- You can drop 3 cards using this command every 8 mins.\n- Use the command \"sdn\" to drop without any images. Helpful for times when you are low on data or do not want to lag.",
+    "DESCRIPTION": "- This command will drop 3 cards and can be used every 8 minutes.\n- Use the command `sdn` to drop cards without images. This is helpful to preserve mobile data or to avoid lag.",
     "JOIN_SUPPORT_SERVER": "[Join the support server for help!](https://discord.gg/sofi)",
-    "EXTRA_GRAB_ALERT": "{{author}} *Your extra drop is being used. `{{remaining}}` remains.*",
+    "EXTRA_GRAB_ALERT": "{{author}} Your **Extra Drop** is being used. You have`{{remaining}}` remaining.",
     "ON_CD": "{{author}} why not try again in {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nYou can also vote to buy drops - `sbuy drop`"
+    "BUY_DROP": "\nYou can also `Vote` to buy `Drops` - `sbuy drop`"
 }

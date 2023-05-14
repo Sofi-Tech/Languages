@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Reclama tus dailies y mantén la racha para obtener increíbles recompensas",
+    "DESCRIPTION": "Reclama tu `Daily` y mantén la racha para obtener increíbles recompensas",
     "CATEGORY": "Cartas",
     "EMBED_AUTHOR": "Dailies de {{author}}",
-    "DAILY_ERROR": "Puedes reclamar tu daily dentro de {{timeout}} \n",
+    "DAILY_ERROR": "Puedes reclamar tu `Daily` dentro de {{timeout}} \n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dailies restantes para reclamar un Cofre Común",
     "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dailies restantes para reclamar un Cofre Raro",
-    "NOTE": "\n⚠️ El personal de Discord o Sofi nunca pedirá contraseñas, otps o cambios de correo electrónico ni se comunicará usando bots de terceros como Mee6/Dyno. Cualquier cosa que se te ofrezca gratis o que se te pida que te unas a un servidor es sospechoso. Infórmalo en {{link}}.",
+    "NOTE": "\n⚠️ El personal de Discord o Sofi nunca pedirá tu contraseña, OTPs o te pedirá que cambies tu correo electrónico, tampoco comunicará usando bots de terceros como Mee6/Dyno. Cualquier cosa que se te ofrezca gratis o que se te pida que te unas a un servidor es sospechoso. Infórmalo en {{link}}.",
     "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Gracias por reclamar tus dailies \n",
+    "DAILY_SUCCESS": "Gracias por reclamar tu `Daily`!\n",
     "GUILD_BONUS": "Bonificación del servidor Top 20 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

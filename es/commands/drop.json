@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "- Usando este comando puedes hacer un drop de 3 cartas cada 8 minutos.\n- Usa el comando \"sdn\" para hacer el drop sin imágenes. Útil para cuando tienes pocos datos o no quieres lag.",
-  "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda](https://discord.gg/sofi)",
-  "EXTRA_GRAB_ALERT": "{{author}} *Tu drop extra está siendo utilizado. Quedan `{{remaining}}`.*",
-  "ON_CD": "{{author}} por qué no intentas de nuevo en {{dropCd}}",
-  "VOTE": "Vote",
-  "BUY_DROP": "\nTambién puedes votar para comprar drops - `sbuy drop`"
+    "DESCRIPTION": "- Este comando genera 3 cartas y se puede usar cada 8 minutos.\n- Usa el comando `sdn` para hacer drop sin las imágenes. Esto es útil para ahorrar datos móviles o para evitar lag.",
+    "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)",
+    "EXTRA_GRAB_ALERT": "{{author}} *Tu drop extra está siendo utilizado. Quedan `{{remaining}}`.*",
+    "ON_CD": "{{author}} por qué no intentas de nuevo en {{dropCd}}",
+    "VOTE": "Vote",
+    "BUY_DROP": "\nTambién puedes votar para comprar drops - `sbuy drop`"
 }
