@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Entfernt einen Charakter von Ihrer Wunschliste.",
-  "CATEGORY": "Wunschliste",
-  "NO_INDEX": "Kein Name oder Nummer angegeben | Um die gesamte Wunschliste zu löschen, verwende `full reset`",
-  "FULL_RESET": "> {{author}} hat {{total}} Charaktere von Ihrer Wunschliste entfernt.",
-  "REMOVE_CHARACTER": "> {{author}} hat {{name}} von Ihrer Wunschliste entfernt.",
-  "NO_RESULTS": "> {{author}} keine Ergebnisse für {{name}} gefunden."
+    "DESCRIPTION": "Entfernt einen Charakter von deiner Wunschliste",
+    "CATEGORY": "Wunschliste",
+    "NO_INDEX": "Kein Name oder Nummer angegeben | Um die gesamte Wunschliste zu löschen, verwende `full reset`",
+    "FULL_RESET": "> {{author}} hat {{total}} Charaktere von Ihrer Wunschliste entfernt.",
+    "REMOVE_CHARACTER": "> {{author}} hat {{name}} von Ihrer Wunschliste entfernt.",
+    "NO_RESULTS": "> {{author}} keine Ergebnisse für {{name}} gefunden."
 }

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Brucia le carte per ottenere `Cristalli` e `Argento` che possono essere usati per creare `Cubi` e acquistare vari altri oggetti nel robot. Digitando `sb` si brucia l'ultima carta richiesta.",
-    "GUILDSTONE_BURN": "Stai per bruciare una pietra di gilda",
-    "GUILDSTONE_NOT_FOUND": "Non hai pietre di gilda da bruciare",
+    "GUILDSTONE_BURN": "Stai per usare una `Pietra della Gilda`",
+    "GUILDSTONE_NOT_FOUND": "Non hai una `Pietra della Gilda` da scambiare",
     "SUCCESS": "SUCCESSO",
     "CANCELLED": "ANNULLATO",
     "BURN_FRAG_WARN": "Stai per bruciare un `Frammento`.\nCodice `frammento`: `{{fragCode}}`",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Burn cards to obtain `Crystals` and `Silver` which can be used to craft `Cubes` and purchase various items in the bot. Typing `sb` burns the last claimed card.",
-    "GUILDSTONE_BURN": "You are about to burn a `Guild Stone`",
-    "GUILDSTONE_NOT_FOUND": "You do not have a `Guild Stone` to burn",
+    "GUILDSTONE_BURN": "You are about to use a `Guild Stone`",
+    "GUILDSTONE_NOT_FOUND": "You do not have a `Guild Stone` to exchange",
     "SUCCESS": "SUCCESS",
     "CANCELLED": "CANCELLED",
     "BURN_FRAG_WARN": "You are about to burn a `Fragment`\n`Fragment` Code: `{{fragCode}}`",
