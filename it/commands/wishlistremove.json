@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Rimuove il personaggio dalla tua lista dei desideri",
-  "CATEGORY": "Lista dei desideri",
-  "NO_INDEX": "Nessun nome o numero fornito | Per cancellare l'intera lista usa 'reset completo'",
-  "FULL_RESET": "> {{author}} ha rimosso {{total}} personaggi dalla tua lista dei desideri",
-  "REMOVE_CHARACTER": "> {{author}} ha rimosso {{name}} dalla tua lista dei desideri",
-  "NO_RESULTS": "> {{author}} nessun risultato trovato per {{name}}"
+    "DESCRIPTION": "Rimuove un personaggio dalla tua lista dei desideri",
+    "CATEGORY": "Lista dei desideri",
+    "NO_INDEX": "Nessun nome o numero fornito | Per cancellare l'intera lista usa 'reset completo'",
+    "FULL_RESET": "> {{author}} ha rimosso {{total}} personaggi dalla tua lista dei desideri",
+    "REMOVE_CHARACTER": "> {{author}} ha rimosso {{name}} dalla tua lista dei desideri",
+    "NO_RESULTS": "> {{author}} nessun risultato trovato per {{name}}"
 }

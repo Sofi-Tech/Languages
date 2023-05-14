@@ -5,7 +5,7 @@
     "WISHLIST_PRIVATE": "> La lista dei desideri di quell'utente è privata",
     "WISHLIST_EMPTY": "> La lista dei desideri di {{username}} è vuota come il mio cuore 💔",
     "WISHLIST_EMBED_TITLE": "Lista dei desideri di {{username}} [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Usa {{prefix}}wu/{{prefix}}wu max per aumentare gli slot della lista dei desideri | Pagine: {{page}}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Usa {{prefix}}wu/{{prefix}}wu max per aumentare gli slot della tua lista dei desideri | Pagine: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Copia codici",
     "COPY_CODES_MENU_LABEL": "Copia tutti i codici",
     "COPY_CODES_MENU_DESCRIPTION": "Invia tutti i codici come messaggio di testo",
