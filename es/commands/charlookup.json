@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Puedes buscar un personaje específico usando el comando `scl`. En el menú de búsqueda de personajes, puede verificar las estadísticas de las cartas, sus imágenes en 3D y animadas, lista de clasificación de gen, lista de clasificación de fans y el ID de la carta. El ID de la carta se necesita al enviar imágenes para las versiones.",
+    "DESCRIPTION": "- Puedes buscar un personaje específico usando el comando `scl`. En el menú de búsqueda de personajes, puede verificar las estadísticas de las cartas, sus imágenes en 3D y animadas, lista de clasificación de gen, lista de clasificación de fans y el ID de la carta.\n- El ID de la carta se necesita al enviar imágenes para las versiones.",
     "CHAR_NOT_FOUND": "No se puede encontrar el personaje",
     "CHAR_NF_SENSITIVE": "No se encontró el personaje. [La función de búsqueda es sensible a mayúsculas!]",
     "EMBED_TITLE": "__Búsqueda de personaje__",
@@ -8,9 +8,9 @@
     "NORMAL_DESC": "Muestra la versión original de la carta",
     "ADD_FAN_PTS": "Aumenta tus Fan Points para la carta",
     "3D_LABEL": "Versión en 3D",
-    "3D_DESC": "Muestra la versión 3D de la carta",
+    "3D_DESC": "Muestra la variante 3D de una carta",
     "GIF_LABEL": "Versión GIF",
-    "GIF_DESC": "Muestra la versión GIF de la carta",
+    "GIF_DESC": "Muestra la variante animada de la carta",
     "SERIES": "Serie",
     "NAME": "Nombre",
     "CATEGORY": "Categoría",

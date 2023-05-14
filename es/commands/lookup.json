@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Buscar versiones/3d/animadas de personajes",
+    "DESCRIPTION": "Muestra las variantes Versión/3D/Animada de un personaje",
     "CHAR_NOT_FOUND": "No se puede encontrar el personaje",
     "CHAR_NF_SENSITIVE": "No se encontró el personaje. [La función de búsqueda es sensible a mayúsculas!]",
     "EMBED_TITLE": "__Búsqueda de personaje__",
     "SUBMITTED": "Enviado por: <@{{userID}}>",
-    "EMBED_FOOTER": "Encuentra la versión v1 usando `scl` | Envía versiones usando `ssc`",
+    "EMBED_FOOTER": "Encuentra la versión v1 usando el comando `scl` | Envía versiones usando `ssc`",
     "VERSION_DISP": "Muestra la versión {{version}} de la carta",
     "MORE": "Más información",
-    "3D_DESC": "Muestra la versión 3D de la carta",
+    "3D_DESC": "Muestra la variante 3D de una carta",
     "GIF_LABEL": "Versión GIF",
-    "GIF_DESC": "Muestra la versión GIF de la carta",
+    "GIF_DESC": "Muestra la variante animada de la carta",
     "SERIES": "Serie",
     "NAME": "Nombre",
     "CATEGORY": "Categoría",
@@ -19,6 +19,6 @@
     "EVENTS": "Eventos",
     "EVENT": "Evento",
     "UPCOMING_EVENT": "Próximo evento",
-    "TOP_OWNER": "Top Owners",
+    "TOP_OWNER": "Propietarios principales",
     "NO_OWNER_FOUND": "No se encontraron propietarios.."
 }

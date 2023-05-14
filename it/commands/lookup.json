@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Cerca le versioni/3d/animated dei personaggi",
+    "DESCRIPTION": "Visualizza le varianti Versione/3D/Animate di un personaggio",
     "CHAR_NOT_FOUND": "Impossibile trovare il personaggio",
     "CHAR_NF_SENSITIVE": "Nessun personaggio trovato. La ricerca è sensibile alle maiuscole e minuscole",
     "EMBED_TITLE": "__Ricerca Personaggio__",
@@ -7,9 +7,9 @@
     "EMBED_FOOTER": "Trova v1 usando `scl` | Invia le versioni usando `ssc`",
     "VERSION_DISP": "Mostra la versione {{version}} della carta",
     "MORE": "Maggiori informazioni",
-    "3D_DESC": "Mostra la versione 3D della carta",
+    "3D_DESC": "Visualizza la variante 3D di una carta",
     "GIF_LABEL": "Versione GIF",
-    "GIF_DESC": "Mostra la versione GIF della carta",
+    "GIF_DESC": "Visualizza la variante Animata della carta",
     "SERIES": "Serie",
     "NAME": "Nome",
     "CATEGORY": "Categoria",

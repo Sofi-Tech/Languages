@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Shows information about the card",
+    "DESCRIPTION": "Displays information about the card",
     "SLASH_DESC": "Enter the code of the card you want to display",
     "NO_CARD_FOUND": "Cannot find your last card. Try providing a card code",
     "INVALID_CARD_CODE": "Invalid card code provided",
-    "CARD_MORPHED": "The card is morphed",
+    "CARD_MORPHED": "That card is morphed",
     "CARD_GLOWED": "That card has the following `Glow` applied: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Font color: {{fontName}} [`#{{ viewCode}}`]\n",
     "CARD_FRAMED": "That card has the following `Frame`applied __{{frameName}}__\n",

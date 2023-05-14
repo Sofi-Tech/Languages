@@ -16,7 +16,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "`Necesito: {{permissions}} para ejecutar el comando`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Necesitas: {{permissions}} para acceder al comando`",
     "COMMAND_COOLDOWN": "> [`${command.name}`] Espera {{cooldown}} antes de usar el comando.",
-    "REGISTER_USER": "{{author}} | Por favor escribe `{{prefix}}register` y procede al sitio para verificar.",
+    "REGISTER_USER": "{{author}} | Por favor escribe `{{prefix}}register` y procede al sitio para verificar",
     "USER_COMMAND_QUEUE": "<@{{id}}> necesita completar el comando {{existsFor}} antes de continuar.",
     "AUTHOR_COMMAND_QUEUE": "Completa el comando {{existsFor}} antes de continuar.",
     "SAFE_MODE": "> El bot está en modo seguro.{{eta}}. \nVolverá enseguida ❤",
