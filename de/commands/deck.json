@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Erstelle ein Deck, um einen Boss zu bekämpfen!",
+    "DESCRIPTION": "Erstelle ein Deck mit deinen Karten, um einen Boss zu bekämpfen!",
     "IN_RAID": "Dieser Befehl kann während eines Raids nicht benutzt werden",
     "SELECT_OPT": "Wählen Sie eine Option aus",
     "DECK": "Deck",
@@ -7,7 +7,7 @@
     "UNLOCK_SLOT": "Slot Nummer {{deckNo}} für 50.000 Silber freischalten?",
     "SLOT_UNLOCKED": "Slot {{deckNo}} 🔓",
     "MISSING_SILVERS": "Du hast nicht genug Silber, um diesen Slot freizuschalten",
-    "UNLOCK_WARN": "Schalte Slot Nummer {{deckNo}} frei, um ein Deck zu generieren",
+    "UNLOCK_WARN": "Schalte Slot Nummer {{deckNo}} frei, um ein zufälliges Deck zu generieren",
     "ENTER_CODES": "Geben Sie die Karten-Codes ein",
     "MODAL_TITLE": "Deck festlegen",
     "MISSING_CODES": "> Mindestens 3 Karten-Codes sind erforderlich",
@@ -17,7 +17,7 @@
     "SAVE_DECK": "Klicken Sie auf Speichern, um dieses Deck festzulegen",
     "EMBED_FOOTER": "Hinweis: Alle Fähigkeiten im Deck müssen einzigartig sein, um an Duellen oder Schlachtzügen teilnehmen zu können!",
     "UNLOCK_SAVE": "Schalte Slot Nummer {{deckNo}} frei, um das Deck dort zu speichern",
-    "UNLOCK_GENERATE": "Schalten Sie den Slot {{deckNo}} frei, um das Deck zu generieren",
-    "NOT_ENOUGH_CARD": "Nicht genügend Karten mit unterschiedlichen Bewegungen. Bitte sammeln Sie mehr Karten",
-    "UNLOCK_SELECT": "Schalten Sie den Slot {{deckNo}} frei, um das Deck auszuwählen"
+    "UNLOCK_GENERATE": "Schalte Slot Nummer {{deckNo}} frei, um ein zufälliges Deck zu generieren",
+    "NOT_ENOUGH_CARD": "Du hast nicht genügend Karten mit verschiedenen Fähigkeiten. Bitte sammel mehr Karten",
+    "UNLOCK_SELECT": "Schalte Slot Nummer {{deckNo}} frei, um von dort ein Deck auswählen zu können"
 }
