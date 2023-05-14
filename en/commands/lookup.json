@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Displays Version/3D/Animated variants of a character",
+    "DESCRIPTION": "Displays Version/3D/GIF variants of a character",
     "CHAR_NOT_FOUND": "Cannot find character",
     "CHAR_NF_SENSITIVE": "No character found. [The lookup function is case sensitive!]",
     "EMBED_TITLE": "__Character's Lookup__",
@@ -9,7 +9,7 @@
     "MORE": "More Info",
     "3D_DESC": "Displays the 3D variant of a card",
     "GIF_LABEL": "GIF Variant",
-    "GIF_DESC": "Displays the Animated variant of a card",
+    "GIF_DESC": "Displays the GIF variant of a card",
     "SERIES": "Series",
     "NAME": "Name",
     "CATEGORY": "Category",

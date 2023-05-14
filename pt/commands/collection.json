@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "- Você pode visualizar a sua coleção de cartas com `sc`\n- Essa pode ser ordenada por Nome, Cosméticos, Estatísticas e mais\n- Essa também pode ser filtrada por lista de desejos, gen ou nome da tag\n- Use`sc t:ut`para encontrar cartas sem tag da sua coleção",
-    "SLASH_CMD_DESC": "Ver sua coleção de cartas",
+    "SLASH_CMD_DESC": "Veja a sua coleção de cartas",
     "SLASH_DESC": "Digite o usuário de quem você quer ver a coleção",
     "SLASH_DESC2": "Digite o filtro que você deseja aplicar na coleção",
     "PLAYER_NOT_EXIST": "{{author}} | Esse jogador não existe",
