@@ -1,0 +1,16 @@
+{
+  "CREATE_ALBUM_DESCRIPTION": "Create a base of album",
+  "CREATE_ALBUM_CATEGORY": "Album",
+  "CREATE_ALBUM_SLASH_DESC": "Enter the name of the album.",
+  "PROVIDE_ALBUM_NAME": "{{author}} Provide an album name.",
+  "ALBUM_NAME_ERROR": "The album name must be alphanumeric, must not contain special characters, space, or caps",
+  "ALBUM_NAME_LONG": "Album name too long. Try less than 20 characters",
+  "MAX_ALBUMS": "{{author}} A player can only have 10 albums at max",
+  "ALBUM_NAME_EXISTS": "{{author}} The album with name `{{name}}` already exists",
+  "ALBUM_CREATE_CONFIRMATION": "You are about to create album with name {{albumName}}\nCreating albums is free but pages cost silvers\nUse `salbumconfig/sacf` to configure albums",
+  "BUTTON_ACCEPT": "Yes create",
+  "BUTTON_DENY": "Not now",
+  "NO_AMOUNT": "You don't have enough amount",
+  "ALBUM_SUCCESS": "Album was successfully created",
+  "CANCEL": "Cancelled"
+}

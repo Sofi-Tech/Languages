@@ -1,0 +1,17 @@
+{
+  "ALBUM_DESCRIPTION": "View your Sofi albums",
+  "ALBUM_CATEGORY": "Album",
+  "ALBUM_SLASH_DESC": "Enter the user you want to see the albums of.",
+  "ALBUM_SLASH_DESC2": "Enter the name of the album you are looking for.",
+  "USER_NOT_FOUND": "{{author}} | User not found!",
+  "PLAYER_NOT_EXIST": "{{author}} | That player does not exists.",
+  "ALBUM_NOT_FOUND": "No albums found for {{username}}",
+  "NO_ALBUMS": "{{member}} does not have an album currently\nUse the command `sca` to create an album\nUse `sacf <album> <page>` to configure",
+  "ALBUM_NAME_NOT_FOUND": "{{author}} cannot find album with the name `{{albumName}}`",
+  "NO_PAGES": "{{author}} The album has no pages",
+  "MAX_PAGES_ERROR": "{{author}} Page number must be between 0 to {{maxPages}}",
+  "PROCESSING": "Processing <a:_:876610443148406794>",
+  "MISSING_CARDS": "The album page is missing the mentioned cards:\n{{cardsList}}",
+  "CARDS_LAYOUT_ERROR": "Try setting the cards and layout again to view\nAlbum: `{{albumName}}` Page: `{{pageNumber}}`",
+  "PROFILE_OWNED": "Profile owned by {{memberId}}"
+}
