@@ -1,7 +1,7 @@
 {
     "LOTTERY_WON": "Congrats! You have won the Sofi Halloween 2D Lottery! 🎃",
     "MENTION_ERROR": "Use the server prefix `{{prefix}}` or `/`",
-    "RATE_LIMIT_ERROR": "Rate-limited due to high activity. Please wait",
+    "RATE_LIMIT_ERROR": "Due to high activity, the rate limit has been reached! Please wait.",
     "VERIFY_BUTTON_LABEL": "Verify",
     "SUPPORT_BUTTON_LABEL": "Support",
     "CREATE_TICKET": "Visit https://discord.gg/sofi and create a ticket to get verified\n",

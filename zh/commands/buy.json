@@ -6,7 +6,7 @@
     "NO_ITEM": "请输入要购买的物品",
     "TRADEPASS_INFO": "通过silvers购买交易通行证已停止。 您可以用1个bump购买4小时的交易通行证，或保存20个bump以购买30天的交易通行证。",
     "CORRECT_USAGE": "{{USER}} 正确用法：`{{prefix}}buy bg <bgID> [amount]`",
-    "INVALID_BG_AMOUNT": "背景数量必须是正数",
+    "INVALID_BG_AMOUNT": "不要输入负值",
     "INVALID_BG_ID": "请提供有效的背景ID",
     "NO_ITEM_PROVIDED": "未提供物品",
     "INVALID_AMOUNT": "提供了无效的数量",
