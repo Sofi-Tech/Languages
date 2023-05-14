@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "Kartları yakarak kristaller ve gümüş elde edebilirsiniz, bu kristallerle küpler yapabilir ve botta çeşitli diğer öğeler satın alabilirsiniz. Son alınan kartı yakmak için sb yazın.",
-  "GUILDSTONE_BURN": "**Bir lonca taşı yakmak üzeresiniz**",
-  "GUILDSTONE_NOT_FOUND": "**Yakacak lonca taşı bulunamadı**",
-  "SUCCESS": "BAŞARILI",
-  "CANCELLED": "İPTAL EDİLDİ",
-  "BURN_FRAG_WARN": "**Bir frag yakmak üzeresiniz\nFrag Kodu: `{{fragCode}}`**",
-  "FRAG_NOT_FOUND": "**Frag bulunamadı**",
-  "CARD_NOT_FOUND": "**O kart bulunamadı**",
-  "CARD_LOCKED": "**Kart kilitli**",
-  "CARD_NOT_OWNED": "**O kart size ait değil**"
+    "DESCRIPTION": "Kartları yakarak botta çeşitli diğer ögeleri satın almanızda kullanılabilecek kristal ve gümüşleri elde edebilirsiniz. Alınan son kartı yakmak için sb yazınız.",
+    "GUILDSTONE_BURN": "**Bir lonca taşı yakmak üzeresiniz**",
+    "GUILDSTONE_NOT_FOUND": "**Yakacak lonca taşı bulunamadı**",
+    "SUCCESS": "BAŞARILI",
+    "CANCELLED": "İPTAL EDİLDİ",
+    "BURN_FRAG_WARN": "**Bir frag yakmak üzeresiniz\nFrag Kodu: `{{fragCode}}`**",
+    "FRAG_NOT_FOUND": "**Frag bulunamadı**",
+    "CARD_NOT_FOUND": "**O kart bulunamadı**",
+    "CARD_LOCKED": "**Kart kilitli**",
+    "CARD_NOT_OWNED": "**O kart size ait değil**"
 }
