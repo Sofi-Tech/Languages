@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Klaim hadiah harianmu dan pertahankan streak untuk mendapatkan hadiah yang menarik",
     "CATEGORY": "Kartu",
-    "EMBED_AUTHOR": "{{author}} Harian",
+    "EMBED_AUTHOR": "Harian {{author}}",
     "DAILY_ERROR": "Anda bisa mengklaim hadiah harianmu setelah {{timeout}} \n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} harian tersisa untuk diambil Peti Biasa",
     "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} harian tersisa untuk diambil Peti Langka",
