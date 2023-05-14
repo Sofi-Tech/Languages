@@ -5,7 +5,7 @@
     "WISHLIST_PRIVATE": "> **Die Wunschliste dieses Benutzers ist privat.**",
     "WISHLIST_EMPTY": "> **{{username}}'s Wunschliste ist so leer wie mein Herz.** 💔",
     "WISHLIST_EMBED_TITLE": "{{username}}'s Wunschliste [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Benutze {{prefix}}wu/{{prefix}}wu max, um die maximale Größe deiner Wunschliste zu erweitern. | Seiten: {{page}}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Benutze {{prefix}}wu/{{prefix}}wu max, um den Platz in deiner Wunschliste zu erweitern| Seiten: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Codes kopieren",
     "COPY_CODES_MENU_LABEL": "Alle Codes kopieren",
     "COPY_CODES_MENU_DESCRIPTION": "Sendet alle Codes als Textnachricht",
@@ -14,6 +14,6 @@
     "CARD_MENU_DESCRIPTION": "{{name}}'s Codes kopieren",
     "COPY_CODES_MENU_PLACEHOLDER": "Codes kopieren",
     "CODES_COPIED": "Kopiert",
-    "ALL_CARD_CODES": "Hier sind die Karten-Codes:",
+    "ALL_CARD_CODES": "Hier sind die Karten-Codes",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: Wunschlisten Codes"
 }

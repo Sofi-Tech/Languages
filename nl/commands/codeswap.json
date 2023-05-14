@@ -1,7 +1,7 @@
 {
-  "DESCRIPTION": "Dit wisselt de codes van de twee genoemde kaarten uit",
-  "SLASH_DESC": "Voer code een in",
-  "SLASH_DESC2": "Voer code twee in",
-  "NO_CODES_PROVIDED": "Voer twee kaartcodes in",
-  "INVALID_CODES_PROVIDED": "Voer twee geldige kaartcodes in."
+    "DESCRIPTION": "Dit wisselt de codes van de twee genoemde kaarten uit",
+    "SLASH_DESC": "Voer de eerste code in ",
+    "SLASH_DESC2": "Voer de tweede code in",
+    "NO_CODES_PROVIDED": "Voer twee kaartcodes in",
+    "INVALID_CODES_PROVIDED": "Voer twee geldige kaartcodes in."
 }

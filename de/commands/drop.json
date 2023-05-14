@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten generieren.\n- Benutze andernfalls den Befehl \"sdn\", um diese ohne Bilder zu generieren. Hilfreich, wenn du Bandbreite sparen oder Verzögerungen vermeiden möchtest.",
+    "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten dropen.\n- Benutze den Befehl \"sdn\", um Karten ohne dass laden von Bildern zu dropen. Nützlich, wenn du Datenvolumen sparen oder lags vermeiden willst.",
     "JOIN_SUPPORT_SERVER": "**[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)**",
-    "EXTRA_GRAB_ALERT": "{{author}} *Dein Extra-Drop wurde verwendet. `{{remaining}}` bleiben übrig.*",
+    "EXTRA_GRAB_ALERT": "{{author}} *Dein Extra-Drop wurde verwendet. `{{remaining}}` sind übrig.*",
     "ON_CD": "**{{author}} Versuche es in {{dropCd}} erneut.**",
     "VOTE": "Vote",
     "BUY_DROP": "\nDu kannst auch voten, um Drops zu kaufen - `sbuy drop`"
