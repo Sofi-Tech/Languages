@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "从商店购买物品",
-  "SLASH_DESC": "输入您想购买的物品名称",
-  "SLASH_DESC2": "输入数量",
-  "SLASH_DESC3": "输入您想购买的背景代码。[仅当选中为背景时有效]",
-  "NO_ITEM": "请输入要购买的物品",
-  "TRADEPASS_INFO": "通过silvers购买交易通行证已停止。 您可以用1个bump购买4小时的交易通行证，或保存20个bump以购买30天的交易通行证。",
-  "CORRECT_USAGE": "{{USER}} 正确用法：`{{prefix}}buy bg <bgID> [amount]`",
-  "INVALID_BG_AMOUNT": "背景数量必须是正数",
-  "INVALID_BG_ID": "请提供有效的背景ID",
-  "NO_ITEM_PROVIDED": "未提供物品",
-  "INVALID_AMOUNT": "提供了无效的数量",
-  "INVALID_ITEM_PROVIDED": "{{USER}} 提供的物品无效"
+    "DESCRIPTION": "从商店购买物品",
+    "SLASH_DESC": "输入您想购买的物品名称",
+    "SLASH_DESC2": "输入数量",
+    "SLASH_DESC3": "输入您要购买的后台码。 [仅在项目被选为背景时有效]",
+    "NO_ITEM": "请输入要购买的物品",
+    "TRADEPASS_INFO": "通过silvers购买交易通行证已停止。 您可以用1个bump购买4小时的交易通行证，或保存20个bump以购买30天的交易通行证。",
+    "CORRECT_USAGE": "{{USER}} 正确用法：`{{prefix}}buy bg <bgID> [amount]`",
+    "INVALID_BG_AMOUNT": "背景数量必须是正数",
+    "INVALID_BG_ID": "请提供有效的背景ID",
+    "NO_ITEM_PROVIDED": "未提供物品",
+    "INVALID_AMOUNT": "提供了无效的数量",
+    "INVALID_ITEM_PROVIDED": "{{USER}} 提供的物品无效"
 }
