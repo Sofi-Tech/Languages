@@ -7,7 +7,7 @@
     "UNLOCK_SLOT": "Unlock slot number {{deckNo}} for 50,000 Silver?",
     "SLOT_UNLOCKED": "Slot {{deckNo}} 🔓",
     "MISSING_SILVERS": "You do not have enough Silver to unlock the slot",
-    "UNLOCK_WARN": "Unlock slot number {{deckNo}} in order to generate a deck",
+    "UNLOCK_WARN": "Unlock slot number {{deckNo}} in order to generate a random deck",
     "ENTER_CODES": "Enter the card codes",
     "MODAL_TITLE": "Set Deck",
     "MISSING_CODES": "> At least 3 card codes are required",
