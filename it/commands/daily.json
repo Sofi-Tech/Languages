@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Richiedi i tuoi quotidiani e mantieni la serie per ottenere fantastici premi",
+    "DESCRIPTION": "Richiedi il tuo `Daily` e mantieni la serie di vittorie per ottenere fantastici premi!",
     "CATEGORY": "Carte",
     "EMBED_AUTHOR": "Premi giornalieri di {{author}}",
-    "DAILY_ERROR": "Puoi richiedere il tuo premio giornaliero dopo {{timeout}} \n",
+    "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}} \n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} premi giornalieri rimasti per ottenere un Baule comune",
     "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} premi giornalieri rimasti per ottenere un Baule raro",
-    "NOTE": "\n⚠️ Discord o Sofi Staff non chiederanno mai password, otps o cambio email né comunicheranno utilizzando bot di terze parti come Mee6/Dyno. Qualsiasi cosa ti venga offerta gratuitamente o ti venga chiesto di entrare in un server è sospetta. Segnalalo a {{link}}.",
+    "NOTE": "\n⚠️ Discord o Sofi Staff non chiederanno mai password, OTPs o cambio email né comunicheranno utilizzando bot di terze parti come Mee6/Dyno. Qualsiasi cosa ti venga offerta gratuitamente o ti venga chiesto di entrare in un server è sospetta. Segnalalo a {{link}}.",
     "EMBED_FOOTER": "Striscia [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Grazie per aver richiesto il tuo premio giornaliero \n",
+    "DAILY_SUCCESS": "Grazie per aver richiesto il tuo premio `Daily`!\n",
     "GUILD_BONUS": "Bonus server Top 20 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
