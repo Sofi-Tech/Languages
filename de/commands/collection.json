@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "- Mit dem Befehl 'sc' kannst du dir deine Kartensammlung anzeigen lassen. Diese kann sowohl nach Namen, Gen, Wunschliste, Karten mit kosmetischen Veränderungen, Kartenstatistiken und 3D-Verfügbarkeit sortiert, als auch nach Wunschlisten-Menge,  Gen-Nummer oder nach Markierung gefiltert werden.\n-Mit dem Befehl sc t:ut findest du unmarkierte Karten in deiner Sammlung.",
-    "SLASH_CMD_DESC": "Siehe deine Kartensammlung an.",
+    "SLASH_CMD_DESC": "Zeige deine Kartensammlung an.",
     "SLASH_DESC": "Gebe den Benutzer an, dessen Sammlung du sehen möchtest.",
     "SLASH_DESC2": "Gib die Filter an, die du auf die Sammlung anwenden möchtest.",
     "PLAYER_NOT_EXIST": "{{author}} | Dieser Spieler existiert nicht.",
