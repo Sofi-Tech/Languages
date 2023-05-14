@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Zeigt die Wunschliste Rangliste an",
-  "CATEGORY": "Wunschliste",
-  "EMBED_TITLE": "WUNSCHLISTE RANGLISTE - {{type}}",
-  "EMBED_FOOTER": "Zeige Seite {{page}}/{{totalPages}}",
-  "CHARACTER_BUTTON_LABEL": "Charaktere",
-  "SERIES_BUTTON_LABEL": "Serien"
+    "DESCRIPTION": "Zeigt die Wunschlist-Rangliste an.",
+    "CATEGORY": "Wunschliste",
+    "EMBED_TITLE": "WUNSCHLISTE RANGLISTE - {{type}}",
+    "EMBED_FOOTER": "Zeige Seite {{page}}/{{totalPages}}",
+    "CHARACTER_BUTTON_LABEL": "Charaktere",
+    "SERIES_BUTTON_LABEL": "Serien"
 }
