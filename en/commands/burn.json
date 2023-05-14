@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Burn the cards to obtain crystals and silver which can be used to make cubes and purchase various other items in the bot. Typing `sb` burns the last claimed card.",
-    "GUILDSTONE_BURN": "**You are about to burn a guild stone**",
-    "GUILDSTONE_NOT_FOUND": "**You do not have guild stone to burn**",
+    "GUILDSTONE_BURN": "**You are about to burn a Guild Stone**",
+    "GUILDSTONE_NOT_FOUND": "**You do not have a Guild Stone to burn**",
     "SUCCESS": "SUCCESS",
     "CANCELLED": "CANCELLED",
     "BURN_FRAG_WARN": "**You are about to burn a frag\nFrag Code: `{{fragCode}}`**",

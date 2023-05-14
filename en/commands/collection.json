@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- You can view your collection of cards if you use the command 'sc'. The collection can be sorted by Name, Gen, Wishlist, Cosmetics Applied, Card stats,  3D Availability and can also be filtered by wishlist or gen number or tag name.\n-Type sc t:ut to find untagged cards from your collection",
+    "DESCRIPTION": "- You can view your collection of cards with 'sc'\n- It can be sorted by Name, Gen, Wishlist, Cosmetics , Stats and more\n- It can also be filtered by wishlist, gen or tag name\n- Type sc t:ut to find untagged cards from your collection",
     "SLASH_CMD_DESC": "View your collection of cards",
     "SLASH_DESC": "Enter the user whose collection you want to view",
     "SLASH_DESC2": "Enter the filter you want to apply to the collection",
