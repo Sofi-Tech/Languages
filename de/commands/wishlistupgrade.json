@@ -1,15 +1,15 @@
 {
     "DESCRIPTION": "Werten Sie Ihre Wunschliste auf",
     "CATEGORY": "Wunschliste",
-    "ALREADY_MAXED": "> {{author}} **Ihre Wunschliste ist bereits voll**",
-    "EMBED_DESCRIPTION": "**Möchtest du extra {{count}} Slots für {{amount}} {{currency}} kaufen?**",
+    "ALREADY_MAXED": "> {{author}} **Ihre Wunschlistenplätze sind bereits voll**",
+    "EMBED_DESCRIPTION": "**Möchtest du noch {{count}} Slots mehr für {{amount}} {{currency}} kaufen?**",
     "EMBED_PAY_FIELD_NAME": "Sie zahlen:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Sie erhalten:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} zusätzliche Wunschlisten-Slots```",
-    "EMBED_MAXED_DESCRIPTION": "**Möchtest du deine Wunschlisten-Slots für {{amount}} {{currency}} maximieren?**",
-    "EMBED_MAXED_FIELD_VALUE": "```Maximiere auf 50 Wunschlisten-Slots```",
-    "SUCCESS": "**ERFOLG**",
-    "CANCELLED": "ABBRECHEN",
-    "PAY_ERROR": "`**Du hast keine {{amount}} {{currency}}**`"
+    "EMBED_GET_FIELD_VALUE": "```{{count}} zusätzliche Wunschlistenplätze```",
+    "EMBED_MAXED_DESCRIPTION": "**Möchtest du deine Wunschlistenplätze für {{amount}} {{currency}} erweitern lassen?**",
+    "EMBED_MAXED_FIELD_VALUE": "```Erweitere bis auf 50 Wunschlistenplätze```",
+    "SUCCESS": "**ERFOLGREICH**",
+    "CANCELLED": "ABGEBROCHEN",
+    "PAY_ERROR": "`**Du besitzt keine {{amount}} {{currency}}**`"
 }

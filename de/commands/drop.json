@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Du kannst alle 8 Minuten mit diesem Befehl 3 Karten fallen lassen.\n- Verwende den Befehl \"sdn\", um ohne Bilder fallen zu lassen. Hilfreich, wenn du wenig Daten hast oder Verzögerungen vermeiden möchtest.",
+    "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten generieren.\n- Benutze andernfalls den Befehl \"sdn\", um diese ohne Bilder zu generieren. Hilfreich, wenn du Bandbreite sparen oder Verzögerungen vermeiden möchtest.",
     "JOIN_SUPPORT_SERVER": "**[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)**",
-    "EXTRA_GRAB_ALERT": "{{author}} *Dein Extra-Drop wird verwendet. `{{remaining}}` noch vorhanden.*",
-    "ON_CD": "**{{author}} versuch es noch mal in {{dropCd}} erneut**",
+    "EXTRA_GRAB_ALERT": "{{author}} *Dein Extra-Drop wurde verwendet. `{{remaining}}` bleiben übrig.*",
+    "ON_CD": "**{{author}} Versuche es in {{dropCd}} erneut.**",
     "VOTE": "Vote",
     "BUY_DROP": "\nDu kannst auch voten, um Drops zu kaufen - `sbuy drop`"
 }

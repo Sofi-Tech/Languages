@@ -21,8 +21,8 @@
     "SORT_HP": "Ordenar por HP",
     "SORT_DUPE": "Ordenar por Duplicadas",
     "SHOWING PAGE": "Exibindo página: {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "Todas as {{taglength}} cartas foram desmarcadas com sucesso",
-    "ALL_TAG_SUCCESS": "{{author}} Todas as {{taglength}} cartas foram marcadas com sucesso",
+    "ALL_UNTAG_SUCCESS": "Todas as {{taglength}} cartas tiveram suas tags removidas com sucesso",
+    "ALL_TAG_SUCCESS": "{{author}} Todas as {{taglength}} cartas tiveram suas tags adicionadas com sucesso",
     "PLEASE_WAIT": "Por favor, aguarde <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Apreciamos o esforço de marcação, mas nenhuma marcação foi encontrada"
+    "NO_TAG_FOUND": "Apreciamos o esforço de usar tags, mas nenhuma tag foi encontrada"
 }

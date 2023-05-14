@@ -21,8 +21,8 @@
     "SORT_HP": "Nach HP sortieren",
     "SORT_DUPE": "Nach Duplikaten sortieren",
     "SHOWING PAGE": "Seite: {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "Alle {{taglength}} Karten wurden erfolgreich unmarkiert",
-    "ALL_TAG_SUCCESS": "{{author}} Alle {{taglength}} Karten wurden erfolgreich getaggt",
-    "PLEASE_WAIT": "Bitte warten <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Wir schätzen den Kennzeichnungsaufwand, aber es wurden keine Tags gefunden"
+    "ALL_UNTAG_SUCCESS": "Allen {{taglength}} Karten wurde erfolgreich der Tag entfernt.",
+    "ALL_TAG_SUCCESS": "{{author}} Allen {{taglength}} Karten wurden erfolgreich ein Tag hinzugefügt.",
+    "PLEASE_WAIT": "Bitte warte ein wenig. <a:ping:876612181725167687>",
+    "NO_TAG_FOUND": "Wir schätzen den Versuch wert, aber es wurden keine Tags gefunden."
 }
