@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Gebe eine Karte an einen anderen User",
-    "SLASH_DESC": "Gib den Benutzer an, der die Karte erhalten soll.",
+    "SLASH_DESC": "Gib den Benutzer an, der die Karte erhalten soll",
     "SLASH_DESC2": "Geben Sie den Code der Karte an, die Sie weitergeben möchten.",
     "NO_MEMBER": "{{author}} Kein Mitglied angegeben",
     "NO_SELF_GIVE": "{{author}} Du kannst dir selbst nicht die Karte geben",
@@ -10,7 +10,7 @@
     "NO_CODE": "{{author}} Sie haben vergessen, den Karten-Code anzugeben",
     "WRONG_USAGE": "{{author}} Richtig verwendung: `sgive <Benutzer/Benutzer-ID> <Kartencode>`",
     "NO_CARD_FOUND": "Karte mit dem Code: `{{code}}` konnte nicht gefunden werden",
-    "CARD_LOCKED": "Die Karte ist gesperrt und kann nicht weitergegeben werden. Hebe die Markierung der Karte auf, um fortzufahren.",
+    "CARD_LOCKED": "Die Karte ist gesperrt und kann nicht weitergegeben werden. Entferne den `tag` der Karte, um fortzufahren",
     "CARD_NOT_OWNED": "**Du besitzt die Karte nicht mehr**",
     "SUCCESS": "ERFOLGREICH",
     "CANCELLED": "ABGEBROCHEN",
