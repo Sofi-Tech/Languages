@@ -6,7 +6,7 @@
     "NO_ITEM": "Please enter an item to buy",
     "TRADEPASS_INFO": "Trade Pass purchasable through silvers is discontinued. You can buy 4hr Trade Pass with 1 bump or save 20 bumps to buy for 30 days.",
     "CORRECT_USAGE": "{{USER}} Correct usage: `{{prefix}}buy bg <bgID> [amount]`",
-    "INVALID_BG_AMOUNT": "The background amount must be positive",
+    "INVALID_BG_AMOUNT": "Do not enter negative values",
     "INVALID_BG_ID": "Please provide a valid background ID",
     "NO_ITEM_PROVIDED": "No Item provided",
     "INVALID_AMOUNT": "Invalid amount provided",
