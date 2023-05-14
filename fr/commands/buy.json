@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Achetez des objets dans la boutique",
-    "SLASH_DESC": "Entrez le nom de l'article que vous souhaitez acheter",
-    "SLASH_DESC2": "Entrez la quantité",
-    "SLASH_DESC3": "Entrez le code du `Background` que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST DÉFINI COMME ARRIÈRE-PLAN]",
-    "NO_ITEM": "Veuillez spécifier un article à acheter",
-    "TRADEPASS_INFO": "Vous pouvez utiliser un `Bump` pour acheter un `Trade Pass` de 4 heures ou économiser 20 `Bumps` pour acheter un `Trade Pass` de 30 jours",
-    "CORRECT_USAGE": "{{USER}} Utilisation correcte: `{{prefix}}buy bg <bgID> [quantité]`",
-    "INVALID_BG_AMOUNT": "Ne pas saisir de valeurs négatives",
-    "INVALID_BG_ID": "Veuillez fournir un ID de `Background` valide",
-    "NO_ITEM_PROVIDED": "Aucun article fourni",
-    "INVALID_AMOUNT": "Montant invalide",
-    "INVALID_ITEM_PROVIDED": "{{USER}} - Article invalide fourni"
+  "DESCRIPTION": "Achetez des objets dans la boutique",
+  "SLASH_DESC": "Entrez le nom de l'article que vous souhaitez acheter",
+  "SLASH_DESC2": "Entrez la quantité",
+  "SLASH_DESC3": "Entrez le code du `Background` que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST DÉFINI COMME ARRIÈRE-PLAN]",
+  "NO_ITEM": "Veuillez spécifier un article à acheter",
+  "TRADEPASS_INFO": "Vous pouvez utiliser un `Bump` pour acheter un `Trade Pass` de 4 heures ou économiser 20 `Bumps` pour acheter un `Trade Pass` de 30 jours",
+  "CORRECT_USAGE": "{{USER}} Utilisation correcte: `{{prefix}}buy bg <bgID> [quantité]`",
+  "INVALID_BG_AMOUNT": "Ne pas saisir de valeurs négatives",
+  "INVALID_BG_ID": "Veuillez fournir un ID de `Background` valide",
+  "NO_ITEM_PROVIDED": "Aucun article fourni",
+  "INVALID_AMOUNT": "Montant invalide",
+  "INVALID_ITEM_PROVIDED": "{{USER}} - Article invalide fourni"
 }

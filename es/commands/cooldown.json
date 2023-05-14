@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Puedes revisar los enfriamientos para\n- `Drop`, `Grab`, `Vote`, `Raid` y `Daily`\n- Haz clic en los íconos de campana para agregar recordatorios para `Drop`, `Vote` y `Daily`",
-    "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "VOTE": "Vote",
-    "BUMP": "Bump",
-    "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mensaje(s) no leídos | Usa `{{customPrefix}}mail`"
+  "DESCRIPTION": "Puedes revisar los enfriamientos para\n- `Drop`, `Grab`, `Vote`, `Raid` y `Daily`\n- Haz clic en los íconos de campana para agregar recordatorios para `Drop`, `Vote` y `Daily`",
+  "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)",
+  "DROP": "Drop",
+  "GRAB": "Grab",
+  "VOTE": "Vote",
+  "BUMP": "Bump",
+  "DAILY": "Daily",
+  "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mensaje(s) no leídos | Usa `{{customPrefix}}mail`"
 }

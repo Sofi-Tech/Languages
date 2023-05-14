@@ -1,0 +1,17 @@
+{
+  "ALBUM_DESCRIPTION": "查看你的 Sofi 相册",
+  "ALBUM_CATEGORY": "相册",
+  "ALBUM_SLASH_DESC": "输入您想查看相册的用户。",
+  "ALBUM_SLASH_DESC2": "输入您要查找的相册的名称。",
+  "USER_NOT_FOUND": "{{author}} | 用户未找到！",
+  "PLAYER_NOT_EXIST": "{{author}} | 该玩家不存在。",
+  "ALBUM_NOT_FOUND": "找不到 {{username}} 的相册",
+  "NO_ALBUMS": "{{member}} 目前没有相册\n使用 `sca` 命令创建相册\n使用 `sacf <album> <page>` 命令进行配置",
+  "ALBUM_NAME_NOT_FOUND": "{{author}} 找不到名称为 `{{albumName}}` 的相册",
+  "NO_PAGES": "{{author}} 相册没有页面",
+  "MAX_PAGES_ERROR": "{{author}} 页面号必须介于 0 到 {{maxPages}} 之间",
+  "PROCESSING": "处理中 <a:_:876610443148406794>",
+  "MISSING_CARDS": "相册页面缺少以下卡片：\n{{cardsList}}",
+  "CARDS_LAYOUT_ERROR": "请尝试重新设置卡片和布局以查看\n相册： `{{albumName}}` 页面： `{{pageNumber}}`",
+  "PROFILE_OWNED": "档案所有者 {{memberId}}"
+}

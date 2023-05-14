@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Set your wishlist in a channel",
-    "CATEGORY": "Wishlist",
-    "CHANNEL_SET": "> Your wishlist has been set in {{channel}}",
-    "CHANNEL_REMOVE": "> Your wishlist has been removed from {{channel}}"
+  "DESCRIPTION": "Set your wishlist in a channel",
+  "CATEGORY": "Wishlist",
+  "CHANNEL_SET": "> Your wishlist has been set in {{channel}}",
+  "CHANNEL_REMOVE": "> Your wishlist has been removed from {{channel}}"
 }

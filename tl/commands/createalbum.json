@@ -1,0 +1,16 @@
+{
+  "CREATE_ALBUM_DESCRIPTION": "Lumikha ng base ng album",
+  "CREATE_ALBUM_CATEGORY": "Album",
+  "CREATE_ALBUM_SLASH_DESC": "Magpasok ng pangalan ng album.",
+  "PROVIDE_ALBUM_NAME": "{{author}} Magbigay ng pangalan ng album.",
+  "ALBUM_NAME_ERROR": "Ang pangalan ng album ay dapat na alphanumeric, hindi dapat naglalaman ng mga special character, puwang, o malalaking titik",
+  "ALBUM_NAME_LONG": "Masyadong mahaba ang pangalan ng album. Subukang hindi lalampas sa 20 na character",
+  "MAX_ALBUMS": "{{author}} Ang isang player ay maaring magkaroon ng 10 na album sa maximum",
+  "ALBUM_NAME_EXISTS": "{{author}} Ang album na may pangalang `{{name}}` ay mayroon na",
+  "ALBUM_CREATE_CONFIRMATION": "Ikaw ay magbibigay-buhay sa isang album na may pangalang {{albumName}}\nAng paglikha ng mga album ay libre ngunit ang pahina ay nagkakahalaga ng silvers\nGamitin ang `salbumconfig/sacf` upang maisaayos ang mga album",
+  "BUTTON_ACCEPT": "Oo lumikha",
+  "BUTTON_DENY": "Hindi ngayon",
+  "NO_AMOUNT": "Hindi ka mayroong sapat na halaga",
+  "ALBUM_SUCCESS": "Matagumpay na nailikha ang album",
+  "CANCEL": "Nakansela"
+}

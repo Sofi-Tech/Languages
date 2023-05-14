@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Nutze den Befehl `sdaily` um deine Daily Belohnung zu erhalten, halte deine Serie aufrecht um noch bessere Belohnungen zu erhalten!",
-    "CATEGORY": "Karten",
-    "EMBED_AUTHOR": "{{author}}'s Dailies",
-    "DAILY_ERROR": "Du kannst dein Daily erst nach {{timeout}} abholen. \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dailies übrig, um eine gewöhnliche Truhe zu erhalten.",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dailies übrig, um eine seltene Truhe zu erhalten.",
-    "NOTE": "\n⚠️ Discord- oder Sofi-Mitarbeiter werden weder nach Passwörtern, OTPS oder nach einer E-Mailänderung fragen noch mithilfe von Bots von Drittanbietern wie Mee6/Dyno kommunizieren. Alles was dir kostenlos angeboten wird oder wenn du eine Server Einladung erhältst ist Verdächtig. Melde so etwas bitte unter {{link}}",
-    "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Danke, dass du deine dailies eingefordert hast \n",
-    "GUILD_BONUS": "Top 20-Server-Bonus x1,5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DESCRIPTION": "Nutze den Befehl `sdaily` um deine Daily Belohnung zu erhalten, halte deine Serie aufrecht um noch bessere Belohnungen zu erhalten!",
+  "CATEGORY": "Karten",
+  "EMBED_AUTHOR": "{{author}}'s Dailies",
+  "DAILY_ERROR": "Du kannst dein Daily erst nach {{timeout}} abholen. \n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dailies übrig, um eine gewöhnliche Truhe zu erhalten.",
+  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dailies übrig, um eine seltene Truhe zu erhalten.",
+  "NOTE": "\n⚠️ Discord- oder Sofi-Mitarbeiter werden weder nach Passwörtern, OTPS oder nach einer E-Mailänderung fragen noch mithilfe von Bots von Drittanbietern wie Mee6/Dyno kommunizieren. Alles was dir kostenlos angeboten wird oder wenn du eine Server Einladung erhältst ist Verdächtig. Melde so etwas bitte unter {{link}}",
+  "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "Danke, dass du deine dailies eingefordert hast \n",
+  "GUILD_BONUS": "Top 20-Server-Bonus x1,5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

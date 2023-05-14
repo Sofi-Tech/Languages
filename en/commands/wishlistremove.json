@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Removes a character from your wishlist",
-    "CATEGORY": "Wishlist",
-    "NO_INDEX": "No name or number was provided! To clear your entire wishlist, use the command `full reset`",
-    "FULL_RESET": "> {{author}} removed {{total}} characters from your wishlist",
-    "REMOVE_CHARACTER": "> {{author}} removed \"{{name}}\" from their wishlist",
-    "NO_RESULTS": "> {{author}} no results found for {{name}}"
+  "DESCRIPTION": "Removes a character from your wishlist",
+  "CATEGORY": "Wishlist",
+  "NO_INDEX": "No name or number was provided! To clear your entire wishlist, use the command `full reset`",
+  "FULL_RESET": "> {{author}} removed {{total}} characters from your wishlist",
+  "REMOVE_CHARACTER": "> {{author}} removed \"{{name}}\" from their wishlist",
+  "NO_RESULTS": "> {{author}} no results found for {{name}}"
 }

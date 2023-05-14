@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Aprimore a sua lista de desejos",
-    "CATEGORY": "Lista de Desejos",
-    "ALREADY_MAXED": "> {{author}} o espaço máximo da sua lista de desejos foi atingido!",
-    "EMBED_DESCRIPTION": "Você deseja comprar {{count}} espaços adicionais por {{amount}} {{currency}}?",
-    "EMBED_PAY_FIELD_NAME": "Você paga:",
-    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "Você recebe:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} espaços extra na sua lista de desejos```",
-    "EMBED_MAXED_DESCRIPTION": "Você deseja maximizar o espaço na sua lista de desejos por {{amount}} {{currency}}?",
-    "EMBED_MAXED_FIELD_VALUE": "```Máximizar para 50 espaços na lista de desejos```",
-    "SUCCESS": "SUCESSO",
-    "CANCELLED": "CANCELADO",
-    "PAY_ERROR": "`Você não possui {{amount}} {{currency}}`"
+  "DESCRIPTION": "Aprimore a sua lista de desejos",
+  "CATEGORY": "Lista de Desejos",
+  "ALREADY_MAXED": "> {{author}} o espaço máximo da sua lista de desejos foi atingido!",
+  "EMBED_DESCRIPTION": "Você deseja comprar {{count}} espaços adicionais por {{amount}} {{currency}}?",
+  "EMBED_PAY_FIELD_NAME": "Você paga:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "Você recebe:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} espaços extra na sua lista de desejos```",
+  "EMBED_MAXED_DESCRIPTION": "Você deseja maximizar o espaço na sua lista de desejos por {{amount}} {{currency}}?",
+  "EMBED_MAXED_FIELD_VALUE": "```Máximizar para 50 espaços na lista de desejos```",
+  "SUCCESS": "SUCESSO",
+  "CANCELLED": "CANCELADO",
+  "PAY_ERROR": "`Você não possui {{amount}} {{currency}}`"
 }

@@ -1,0 +1,16 @@
+{
+  "CREATE_ALBUM_DESCRIPTION": "Create a base of album",
+  "CREATE_ALBUM_CATEGORY": "ألبوم",
+  "CREATE_ALBUM_SLASH_DESC": "أدخل اسم الألبوم.",
+  "PROVIDE_ALBUM_NAME": "{{author}} قدم اسم الألبوم.",
+  "ALBUM_NAME_ERROR": "يجب أن يكون اسم الألبوم أبجدي رقمي، وغيرها من الشخصيات الخاصة، ولا يحتوي على مسافات أو أحرف كبيرة",
+  "ALBUM_NAME_LONG": "اسم الألبوم طويل جدًا. جرب أسماء لا تتجاوز 20 حرفًا",
+  "MAX_ALBUMS": "{{author}} يمكن للاعب أن يمتلك 10 ألبومات كحد أقصى",
+  "ALBUM_NAME_EXISTS": "{{author}} الألبوم بالاسم `{{name}}` موجود بالفعل",
+  "ALBUM_CREATE_CONFIRMATION": "أنت على وشك إنشاء ألبوم بالاسم {{albumName}}\nإن إنشاء الألبومات مجاني ولكن الصفحات تحتاج إلى فضة\nاستخدم `salbumconfig/sacf` لتهيئة الألبومات",
+  "BUTTON_ACCEPT": "نعم، قم بالإنشاء",
+  "BUTTON_DENY": "لا الآن",
+  "NO_AMOUNT": "ليس لديك ما يكفي من المبلغ",
+  "ALBUM_SUCCESS": "تم إنشاء الألبوم بنجاح",
+  "CANCEL": "ألغي"
+}

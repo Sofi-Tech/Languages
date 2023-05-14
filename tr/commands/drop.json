@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Bu komutu her 8 dakikada bir kullanılabilir ve üç kart düşürür.\n- Fotoğraf olmadan düşürmek için \"sdn\" komutunu kullanın. Mobil veriniz az olduğunda veya gecikmeyi önlemek için yardımcıdır.",
-    "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)",
-    "EXTRA_GRAB_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. `{{remaining}}` kaldı.*",
-    "ON_CD": "{{author}}, {{dropCd}} sonra tekrar deneyin",
-    "VOTE": "Oy Ver",
-    "BUY_DROP": "\nAyrıca `Drops ` satın almak için`Vote ` Verebilirsiniz. - `sbuy drop`"
+  "DESCRIPTION": "- Bu komutu her 8 dakikada bir kullanılabilir ve üç kart düşürür.\n- Fotoğraf olmadan düşürmek için \"sdn\" komutunu kullanın. Mobil veriniz az olduğunda veya gecikmeyi önlemek için yardımcıdır.",
+  "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)",
+  "EXTRA_GRAB_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. `{{remaining}}` kaldı.*",
+  "ON_CD": "{{author}}, {{dropCd}} sonra tekrar deneyin",
+  "VOTE": "Oy Ver",
+  "BUY_DROP": "\nAyrıca `Drops ` satın almak için`Vote ` Verebilirsiniz. - `sbuy drop`"
 }

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Affiche le classement par nombre de souhaits",
-    "CATEGORY": "Liste de souhaits",
-    "EMBED_TITLE": "CLASSEMENT PAR NOMBRE DE SOUHAITS - {{type}}",
-    "EMBED_FOOTER": "Page affichée {{page}}/{{totalPages}}",
-    "CHARACTER_BUTTON_LABEL": "Personnages",
-    "SERIES_BUTTON_LABEL": "Série"
+  "DESCRIPTION": "Affiche le classement par nombre de souhaits",
+  "CATEGORY": "Liste de souhaits",
+  "EMBED_TITLE": "CLASSEMENT PAR NOMBRE DE SOUHAITS - {{type}}",
+  "EMBED_FOOTER": "Page affichée {{page}}/{{totalPages}}",
+  "CHARACTER_BUTTON_LABEL": "Personnages",
+  "SERIES_BUTTON_LABEL": "Série"
 }

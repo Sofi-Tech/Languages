@@ -1,0 +1,17 @@
+{
+  "ALBUM_DESCRIPTION": "Zeigen Sie Ihre Sofi-Alben an",
+  "ALBUM_CATEGORY": "Album",
+  "ALBUM_SLASH_DESC": "Geben Sie den Benutzer ein, dessen Alben Sie sehen möchten.",
+  "ALBUM_SLASH_DESC2": "Geben Sie den Namen des Albums ein, das Sie suchen.",
+  "USER_NOT_FOUND": "{{author}} | Benutzer nicht gefunden!",
+  "PLAYER_NOT_EXIST": "{{author}} | Dieser Spieler existiert nicht.",
+  "ALBUM_NOT_FOUND": "Keine Alben gefunden für {{username}}",
+  "NO_ALBUMS": "{{member}} hat derzeit kein Album\nVerwenden Sie den Befehl `sca`, um ein Album zu erstellen\nVerwenden Sie `sacf <album> <Seite>`, um es zu konfigurieren",
+  "ALBUM_NAME_NOT_FOUND": "{{author}} kann das Album mit dem Namen `{{albumName}}` nicht finden",
+  "NO_PAGES": "{{author}} Das Album hat keine Seiten",
+  "MAX_PAGES_ERROR": "{{author}} Die Seitenzahl muss zwischen 0 und {{maxPages}} liegen",
+  "PROCESSING": "Verarbeitung <a:_:876610443148406794>",
+  "MISSING_CARDS": "Die Albumseite enthält die genannten Karten nicht:\n{{cardsList}}",
+  "CARDS_LAYOUT_ERROR": "Versuchen Sie, die Karten und das Layout erneut einzustellen, um sie anzuzeigen\nAlbum: `{{albumName}}` Seite: `{{pageNumber}}`",
+  "PROFILE_OWNED": "Profil im Besitz von {{memberId}}"
+}

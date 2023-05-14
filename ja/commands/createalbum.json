@@ -1,0 +1,16 @@
+{
+  "CREATE_ALBUM_DESCRIPTION": "アルバムのベースを作成する",
+  "CREATE_ALBUM_CATEGORY": "アルバム",
+  "CREATE_ALBUM_SLASH_DESC": "アルバムの名前を入力してください。",
+  "PROVIDE_ALBUM_NAME": "{{author}} アルバム名を提供してください。",
+  "ALBUM_NAME_ERROR": "アルバム名には特殊文字、空白、大文字を含めることはできず、英数字で入力してください。",
+  "ALBUM_NAME_LONG": "アルバム名が長すぎます。20文字以下にしてください。",
+  "MAX_ALBUMS": "{{author}} プレイヤーは最大で10個のアルバムしか持てません。",
+  "ALBUM_NAME_EXISTS": "{{author}}「{{name}}」という名前のアルバムは既に存在します。",
+  "ALBUM_CREATE_CONFIRMATION": "{{albumName}}という名前のアルバムを作成しますか？\nアルバムの作成は無料ですが、ページを作成する場合はシルバーが必要です\nアルバムを構成するには`salbumconfig / sacf`を使用します。",
+  "BUTTON_ACCEPT": "はい、作成する",
+  "BUTTON_DENY": "いいえ",
+  "NO_AMOUNT": "十分な残高がありません。",
+  "ALBUM_SUCCESS": "アルバムが正常に作成されました。",
+  "CANCEL": "キャンセル"
+}

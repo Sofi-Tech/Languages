@@ -1,0 +1,16 @@
+{
+  "CREATE_ALBUM_DESCRIPTION": "Albüm oluşturun",
+  "CREATE_ALBUM_CATEGORY": "Albüm",
+  "CREATE_ALBUM_SLASH_DESC": "Albüm adını girin.",
+  "PROVIDE_ALBUM_NAME": "{{author}} Lütfen bir albüm adı girin.",
+  "ALBUM_NAME_ERROR": "Albüm adı özel karakter, boşluk veya büyük harf içermemeli, alfanümerik olmalıdır.",
+  "ALBUM_NAME_LONG": "Albüm adı çok uzun. 20 karakterden az deneyin.",
+  "MAX_ALBUMS": "{{author}} Bir oyuncu en fazla 10 albüm sahip olabilir.",
+  "ALBUM_NAME_EXISTS": "{{author}} '{{name}}' adlı albüm zaten mevcut.",
+  "ALBUM_CREATE_CONFIRMATION": "{{albumName}} adlı albüm oluşturmak üzeresiniz\nAlbüm oluşturmak ücretsizdir ancak sayfalar gümüş paraya mal olur\nAlbümleri yapılandırmak için `salbumconfig/sacf` kullanın",
+  "BUTTON_ACCEPT": "Evet oluşturun",
+  "BUTTON_DENY": "Şimdi değil",
+  "NO_AMOUNT": "Yeterli miktarda paranız yok",
+  "ALBUM_SUCCESS": "Albüm başarıyla oluşturuldu",
+  "CANCEL": "İptal"
+}
