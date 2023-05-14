@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt Benutzer-Inventar an",
-    "SLASH_DESC": "Geben Sie den Benutzer an, dessen Inventar Sie sehen möchten.",
-    "SLASH_DESC2": "Geben Sie den Gegenstand an, den Sie suchen möchten.",
+    "SLASH_DESC": "Gib den Benutzer an, dessen Inventar du sehen möchtest.",
+    "SLASH_DESC2": "Gib den Gegenstand an, den du suchen möchtest.",
     "NOT_REGISTER": "**{{author}} | Benutzer ist nicht registriert**",
     "NO_USER_FOUND": "{{author}} | Kein Benutzer gefunden",
     "INV_PRIVATE": "Das Inventar dieses Benutzers ist privat",
@@ -9,10 +9,10 @@
     "FRAMES": "Rahmen",
     "CRYSTALS": "Kristalle",
     "BACKGROUNDS": "Hintergründe",
-    "EVENT": "Veranstaltung",
+    "EVENT": "Event",
     "SELF_INV_EMPTY": "Dein Inventar ist leer",
     "USER_INV_EMPTY": "Das Inventar dieses Benutzers ist leer",
     "NO_BG_FOUND": "Kein Hintergrund gefunden",
-    "NO_ITEM_FOUND": "**Kann diesen Gegenstand nicht im Inventar finden**",
-    "HIDE_INV": "Um Ihr Inventar zu verstecken - spvt inv"
+    "NO_ITEM_FOUND": "**Der Gegenstand ist nicht im Inventar**",
+    "HIDE_INV": "Um dein Inventar zu verstecken - spvt inv"
 }

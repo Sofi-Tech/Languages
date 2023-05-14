@@ -6,5 +6,5 @@
     "VOTE": "投票する",
     "BUMP": "バンプ",
     "DAILY": "デイリー",
-    "UNREAD_MAIL": "\n **📫 `${{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください**"
+    "UNREAD_MAIL": "\n**📫 `${{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください**"
 }
