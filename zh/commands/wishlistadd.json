@@ -1,10 +1,10 @@
 {
   "DESCRIPTION": "将角色添加到您的愿望清单中",
   "CATEGORY": "心愿单",
-  "ADD_CHARACTERS_ERROR": "> **您无法向心愿清单中添加更多角色**",
+  "ADD_CHARACTERS_ERROR": "> 您无法向心愿清单中添加更多角色",
   "SEARCH_CHARACTER_ERROR": "提供一个要添加的角色名称\n使用 `swa -f <name>` 进行精确搜索",
   "NO_CHARACTER_FOUND": "未找到任何角色\n使用 `swa -f <name>` 进行精确搜索",
-  "CHARACTER_ALREADY_EXISTS": "**{{name}}** 已在您的心愿单中",
-  "CHARACTER_ADDED": "> {{author}} | 添加 **{{name}}** 至您的心愿单中",
+  "CHARACTER_ALREADY_EXISTS": "{{name}} 已在您的心愿单中",
+  "CHARACTER_ADDED": "> {{author}} | 添加 {{name}} 至您的心愿单中",
   "EMBED_TITLE": "<:lined:868888105611046942> __添加至心愿单__"
 }

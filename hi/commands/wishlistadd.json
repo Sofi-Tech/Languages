@@ -1,10 +1,10 @@
 {
   "DESCRIPTION": "अपनी इच्छा सूची में चरित्र जोड़ें",
   "CATEGORY": "इच्छा सूची",
-  "ADD_CHARACTERS_ERROR": "> **आप अधिक चरित्र इच्छा सूची में नहीं जोड़ सकते**",
+  "ADD_CHARACTERS_ERROR": "> आप अधिक चरित्र इच्छा सूची में नहीं जोड़ सकते",
   "SEARCH_CHARACTER_ERROR": "जोड़ने के लिए एक चरित्र का नाम दें\nसटीक खोज के लिए `swa -f <name>` का उपयोग करें",
   "NO_CHARACTER_FOUND": "कोई चरित्र नहीं मिला\nसटीक खोज के लिए `swa -f <name>` का उपयोग करें",
-  "CHARACTER_ALREADY_EXISTS": "**{{name}}** आपकी इच्छा सूची में पहले से ही मौजूद है",
-  "CHARACTER_ADDED": "> {{author}} | **{{name}}** आपकी इच्छा सूची में जोड़ा गया है",
+  "CHARACTER_ALREADY_EXISTS": "{{name}} आपकी इच्छा सूची में पहले से ही मौजूद है",
+  "CHARACTER_ADDED": "> {{author}} | {{name}} आपकी इच्छा सूची में जोड़ा गया है",
   "EMBED_TITLE": "<:lined:868888105611046942> __इच्छा सूची में जोड़ें__"
 }

@@ -1,12 +1,12 @@
 {
     "DESCRIPTION": "Kartları yakarak botta küp ve çeşitli diğer ögeleri satın almanızda kullanılabilecek kristal ile gümüşleri elde edebilirsiniz. Alınan son kartı yakmak için sb yazınız.",
-    "GUILDSTONE_BURN": "**Bir lonca taşı yakmak üzeresiniz**",
-    "GUILDSTONE_NOT_FOUND": "**Yakacak bir lonca taşına sahip değilsiniz**",
+    "GUILDSTONE_BURN": "Bir lonca taşı yakmak üzeresiniz",
+    "GUILDSTONE_NOT_FOUND": "Yakacak bir lonca taşına sahip değilsiniz",
     "SUCCESS": "BAŞARILI",
     "CANCELLED": "İPTAL EDİLDİ",
-    "BURN_FRAG_WARN": "**Bir frag yakmak üzeresiniz\nFrag Kodu: `{{fragCode}}`**",
-    "FRAG_NOT_FOUND": "**Frag bulunamadı**",
-    "CARD_NOT_FOUND": "**Aradığınız kart bulunamadı**",
-    "CARD_LOCKED": "**Kart kilitli**",
-    "CARD_NOT_OWNED": "**O kart size ait değil**"
+    "BURN_FRAG_WARN": "Bir frag yakmak üzeresiniz\nFrag Kodu: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "Frag bulunamadı",
+    "CARD_NOT_FOUND": "Aradığınız kart bulunamadı",
+    "CARD_LOCKED": "Kart kilitli",
+    "CARD_NOT_OWNED": "O kart size ait değil"
 }

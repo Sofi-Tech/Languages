@@ -2,7 +2,7 @@
   "DESCRIPTION": "ユーザーのインベントリを表示する",
   "SLASH_DESC": "表示するユーザーを入力してください。",
   "SLASH_DESC2": "検索したいアイテムを入力してください。",
-  "NOT_REGISTER": "**{{author}} | ユーザーは登録されていません**",
+  "NOT_REGISTER": "{{author}} | ユーザーは登録されていません",
   "NO_USER_FOUND": "{{author}} | ユーザーが見つかりませんでした",
   "INV_PRIVATE": "そのユーザーのインベントリはプライベートです",
   "ITEMS": "アイテム",
@@ -13,6 +13,6 @@
   "SELF_INV_EMPTY": "あなたのインベントリは空です",
   "USER_INV_EMPTY": "そのユーザーのインベントリは空です",
   "NO_BG_FOUND": "背景が見つかりませんでした",
-  "NO_ITEM_FOUND": "**インベントリにそのアイテムはありません**",
+  "NO_ITEM_FOUND": "インベントリにそのアイテムはありません",
   "HIDE_INV": "インベントリを非表示にするには - spvt inv"
 }

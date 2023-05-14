@@ -2,7 +2,7 @@
   "DESCRIPTION": "Tanggalin ang character mula sa iyong wishlist",
   "CATEGORY": "Wishlist",
   "NO_INDEX": "Walang pangalan o numero na ibinigay | Upang tanggalin ang buong wishlist gamitin ang 'full reset'",
-  "FULL_RESET": "> {{author}} **tanggalin ang {{total}} characters mula sa iyong wishlist**",
-  "REMOVE_CHARACTER": "> {{author}} **tinanggal si {{name}} mula sa iyong wishlist**",
-  "NO_RESULTS": "> {{author}} **walang natagpuang resulta para kay {{name}}**"
+  "FULL_RESET": "> {{author}} tanggalin ang {{total}} characters mula sa iyong wishlist",
+  "REMOVE_CHARACTER": "> {{author}} tinanggal si {{name}} mula sa iyong wishlist",
+  "NO_RESULTS": "> {{author}} walang natagpuang resulta para kay {{name}}"
 }

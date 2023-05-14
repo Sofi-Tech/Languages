@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Você pode verificar os tempos de espera para\n- Drop, Grab, Vote, Raid e diários\n- Clique nos ícones do sino para adicionar lembretes para drop, vote e diário",
-    "JOIN_SUPPORT_SERVER": "**[Junte-se ao servidor de suporte para obter ajuda](https://discord.gg/sofi)**",
+    "JOIN_SUPPORT_SERVER": "[Junte-se ao servidor de suporte para obter ajuda](https://discord.gg/sofi)",
     "DROP": "Drop",
     "GRAB": "Grab",
     "VOTE": "Vote",
     "BUMP": "Bump",
     "DAILY": "Diário",
-    "UNREAD_MAIL": "\n**📫 `${{checkUnreadMailsCount}}` mensagem(s) não lida(s) | Use `{{customPrefix}}mail`**"
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mensagem(s) não lida(s) | Use `{{customPrefix}}mail`"
 }

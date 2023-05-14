@@ -1,12 +1,12 @@
 {
   "DESCRIPTION": "Bruciando le carte puoi ottenere cristalli e argento, che possono essere utilizzati per creare cubi e acquistare vari oggetti nel bot. Digitando sb verrà bruciata l'ultima carta reclamata.",
-  "GUILDSTONE_BURN": "**Stai per bruciare una pietra di gilda**",
-  "GUILDSTONE_NOT_FOUND": "**Non hai pietre di gilda da bruciare**",
+  "GUILDSTONE_BURN": "Stai per bruciare una pietra di gilda",
+  "GUILDSTONE_NOT_FOUND": "Non hai pietre di gilda da bruciare",
   "SUCCESS": "SUCCESSO",
   "CANCELLED": "ANNULLATO",
-  "BURN_FRAG_WARN": "**Stai per bruciare un frammento\nCodice Frag: `{{fragCode}}`**",
-  "FRAG_NOT_FOUND": "**Nessun frammento trovato**",
-  "CARD_NOT_FOUND": "**Impossibile trovare quella carta**",
-  "CARD_LOCKED": "**La carta è bloccata**",
-  "CARD_NOT_OWNED": "**Non possiedi quella carta**"
+  "BURN_FRAG_WARN": "Stai per bruciare un frammento\nCodice Frag: `{{fragCode}}`",
+  "FRAG_NOT_FOUND": "Nessun frammento trovato",
+  "CARD_NOT_FOUND": "Impossibile trovare quella carta",
+  "CARD_LOCKED": "La carta è bloccata",
+  "CARD_NOT_OWNED": "Non possiedi quella carta"
 }

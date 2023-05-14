@@ -2,11 +2,11 @@
   "DESCRIPTION": "매일 보상을 청구하고 일일 연속 보상을 유지하면 놀라운 보상을 받으세요.",
   "CATEGORY": "카드",
   "EMBED_AUTHOR": "{{author}}의 매일 보상",
-  "DAILY_ERROR": "**{{timeout}}** 후에 일일 보상을 청구할 수 있습니다. \n",
+  "DAILY_ERROR": "{{timeout}} 후에 일일 보상을 청구할 수 있습니다. \n",
   "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}}개의 매일 보상을 청구할 수 있습니다.",
   "RARE_CHEST": "<:rarechest:927204672270372874> {{count}}개의 매일 보상을 청구할 수 있습니다.",
   "NOTE": "\n⚠️ 디스코드 또는 소피 직원은 비밀번호, OTP 또는 이메일 변경을 요청하지 않으며 Mee6/Dyno와 같은 타사 봇을 사용하여 통신하지 않습니다. 무언가가 무료로 제공되거나 서버에 가입하라는 것은 수상할 수 있습니다.  {{link}}에서 신고해주세요.",
   "EMBED_FOOTER": "연속 보상 [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "**매일 보상을 청구해 주셔서 감사합니다** \n",
-  "GUILD_BONUS": "**상위 20개 서버의 보너스 x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DAILY_SUCCESS": "매일 보상을 청구해 주셔서 감사합니다 \n",
+  "GUILD_BONUS": "상위 20개 서버의 보너스 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

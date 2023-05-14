@@ -1,12 +1,12 @@
 {
     "DESCRIPTION": "Queime as cartas para obter cristais e prata que podem ser usados para fazer cubos e comprar vários outros itens no bot. Digitar `sb` queima a última carta reivindicada",
-    "GUILDSTONE_BURN": "**Você está prestes a queimar uma pedra de guilda**",
-    "GUILDSTONE_NOT_FOUND": "**Você não tem pedra de guilda para queimar**",
+    "GUILDSTONE_BURN": "Você está prestes a queimar uma pedra de guilda",
+    "GUILDSTONE_NOT_FOUND": "Você não tem pedra de guilda para queimar",
     "SUCCESS": "SUCESSO",
     "CANCELLED": "CANCELADO",
-    "BURN_FRAG_WARN": "**Você está prestes a queimar um fragmento\nCódigo do Fragmento: `{{fragCode}}`**",
-    "FRAG_NOT_FOUND": "**Nenhum fragmento encontrado**",
-    "CARD_NOT_FOUND": "**Não foi possível encontrar essa carta**",
-    "CARD_LOCKED": "**A carta está bloqueada**",
-    "CARD_NOT_OWNED": "**Você não possui essa carta**"
+    "BURN_FRAG_WARN": "Você está prestes a queimar um fragmento\nCódigo do Fragmento: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "Nenhum fragmento encontrado",
+    "CARD_NOT_FOUND": "Não foi possível encontrar essa carta",
+    "CARD_LOCKED": "A carta está bloqueada",
+    "CARD_NOT_OWNED": "Você não possui essa carta"
 }

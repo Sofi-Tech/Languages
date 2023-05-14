@@ -2,11 +2,11 @@
   "DESCRIPTION": "Harika ödüller kazanmak için günlük ödüllerini al ve seri yapmayı sürdür.",
   "CATEGORY": "Kartlar",
   "EMBED_AUTHOR": "{{author}}'ın Günlükleri",
-  "DAILY_ERROR": "Günlüğünü **{{timeout}}** sonra alabilirsin. \n",
+  "DAILY_ERROR": "Günlüğünü {{timeout}} sonra alabilirsin. \n",
   "COMMON_CHEST": "<:commonchest:927502629997805608> Bir Common Chest kazanmak için {{count}} günlük kaldı",
   "RARE_CHEST": "<:rarechest:927204672270372874> Bir Rare Chest kazanmak için {{count}} günlük kaldı",
   "NOTE": "\n⚠️ Discord veya Sofi Personeli hiçbir zaman şifre, otp veya e-posta değiştirme istemeyecek ve Mee6/Dyno gibi üçüncü taraf botları kullanarak iletişim kurmayacak. Sana ücretsiz bir şey sunulursa veya bir sunucuya katılmak istenirse şüphelidir. {{link}} adresinde bildir.",
   "EMBED_FOOTER": "Seri [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "**Günlük ödülünü almak için teşekkürler** \n",
-  "GUILD_BONUS": "**En İyi 20 Sunucu Bonusu x1.5** \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DAILY_SUCCESS": "Günlük ödülünü almak için teşekkürler \n",
+  "GUILD_BONUS": "En İyi 20 Sunucu Bonusu x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

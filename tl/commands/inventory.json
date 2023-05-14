@@ -2,7 +2,7 @@
   "DESCRIPTION": "Display's user inventory",
   "SLASH_DESC": "Ipakita ang inventory ng user",
   "SLASH_DESC2": "Ilagay ang nalalaman mong item",
-  "NOT_REGISTER": "**{{author}} | Hindi nakarehistro ang user**",
+  "NOT_REGISTER": "{{author}} | Hindi nakarehistro ang user",
   "NO_USER_FOUND": "{{author}} | Walang nakitang user",
   "INV_PRIVATE": "Private ang inventory ng user",
   "ITEMS": "Mga Item",
@@ -13,6 +13,6 @@
   "SELF_INV_EMPTY": "Ang iyong inventory ay walang laman",
   "USER_INV_EMPTY": "Walang laman ang inventory ng user",
   "NO_BG_FOUND": "Walang background na nakita",
-  "NO_ITEM_FOUND": "**Hindi mahanap ang item sa inventory**",
+  "NO_ITEM_FOUND": "Hindi mahanap ang item sa inventory",
   "HIDE_INV": "Para itago ang iyong inventory - spvt inv"
 }

@@ -1,10 +1,10 @@
 {
   "DESCRIPTION": "Maaaring mong suriin ang mga cooldown para sa iyong\n- Drop, Grab, Vote, Raid at Dailies\n-Pindutin ang mga icon ng kampana upang magdagdag ng mga paalaala para sa drop, vote at araw-araw.",
-  "JOIN_SUPPORT_SERVER": "**[Sumali sa server ng support para sa tulong](https://discord.gg/sofi)**",
+  "JOIN_SUPPORT_SERVER": "[Sumali sa server ng support para sa tulong](https://discord.gg/sofi)",
   "DROP": "Drop",
   "GRAB": "Humawak",
   "VOTE": "Boto",
   "BUMP": "Bump",
   "DAILY": "Araw-araw",
-  "UNREAD_MAIL": "\n**📫 `${{checkUnreadMailsCount}}` hindi pa nababasang sulat | Gamitin ang `{{customPrefix}}mail`**"
+  "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` hindi pa nababasang sulat | Gamitin ang `{{customPrefix}}mail`"
 }

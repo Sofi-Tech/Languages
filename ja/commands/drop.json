@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "- このコマンドを使用すると8分ごとに3枚のカードをドロップできます。\n- 「sdn」というコマンドを使用すると画像なしでドロップできます。データ不足の場合やラグを引き起こしたくない場合に便利です。",
-    "JOIN_SUPPORT_SERVER": "**[ヘルプのためにサポートサーバーに参加してください](https://discord.gg/sofi)**",
+    "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください](https://discord.gg/sofi)",
     "EXTRA_GRAB_ALERT": "{{author}} *あなたのエキストラドロップが使用されています。{{remaining}}が残っています。*",
-    "ON_CD": "**{{author}}は{{dropCd}}後に再試行してみることをお勧めします**",
+    "ON_CD": "{{author}}は{{dropCd}}後に再試行してみることをお勧めします",
     "VOTE": "投票する",
     "BUY_DROP": "\nまた、ドロップを購入するために投票することもできます - `sbuy drop`"
 }

@@ -2,7 +2,7 @@
   "DESCRIPTION": "위시리스트에서 캐릭터를 제거합니다",
   "CATEGORY": "위시리스트",
   "NO_INDEX": "이름 또는 번호가 제공되지 않았습니다 | 전체 wl을 초기화하려면 `전체 재설정`을 사용하세요",
-  "FULL_RESET": "> {{author}} **위시리스트에서 {{total}} 개의 캐릭터가 제거됨**",
-  "REMOVE_CHARACTER": "> {{author}} **위시리스트에서 {{name}}이(가) 제거됨**",
-  "NO_RESULTS": "> {{author}} **{{name}}에 대한 결과를 찾을 수 없음**"
+  "FULL_RESET": "> {{author}} 위시리스트에서 {{total}} 개의 캐릭터가 제거됨",
+  "REMOVE_CHARACTER": "> {{author}} 위시리스트에서 {{name}}이(가) 제거됨",
+  "NO_RESULTS": "> {{author}} {{name}}에 대한 결과를 찾을 수 없음"
 }

@@ -2,7 +2,7 @@
   "DESCRIPTION": "Kullanıcı envanterini görüntüler",
   "SLASH_DESC": "Görmek istediğiniz kullanıcıyı girin.",
   "SLASH_DESC2": "Aramak istediğiniz öğeyi girin.",
-  "NOT_REGISTER": "**{{author}} | Kullanıcı kayıtlı değil**",
+  "NOT_REGISTER": "{{author}} | Kullanıcı kayıtlı değil",
   "NO_USER_FOUND": "{{author}} | Kullanıcı bulunamadı",
   "INV_PRIVATE": "Kullanıcının envanteri özel",
   "ITEMS": "Öğeler",
@@ -13,6 +13,6 @@
   "SELF_INV_EMPTY": "Envanteriniz boş",
   "USER_INV_EMPTY": "Bu kullanıcının envanteri boş",
   "NO_BG_FOUND": "Arka plan bulunamadı",
-  "NO_ITEM_FOUND": "**Envanterde bu öğe bulunamadı**",
+  "NO_ITEM_FOUND": "Envanterde bu öğe bulunamadı",
   "HIDE_INV": "Envanterinizi gizlemek için - spvt inv"
 }
