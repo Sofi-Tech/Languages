@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Recherche des versions / 3d / animées de personnages",
-    "CHAR_NOT_FOUND": "Impossible de trouver le personnage",
+    "DESCRIPTION": "Affiche les différentes versions/3D/Animées d'un personnages",
+    "CHAR_NOT_FOUND": "Impossible de trouver ce personnage",
     "CHAR_NF_SENSITIVE": "Aucun personnage trouvé [Cette fonction nécessite le nom exacte!]",
     "EMBED_TITLE": "__Recherche de personnage__",
-    "SUBMITTED": "Soumis par : <@{{userID}}> ",
-    "EMBED_FOOTER": "Trouvez v1 en utilisant scl | Soumettez des versions en utilisant ssc",
+    "SUBMITTED": "Soumis par: <@{{userID}}>",
+    "EMBED_FOOTER": "Se renseigner sur la v1 en utilisant scl | Soumettez des versions en utilisant `ssc`",
     "VERSION_DISP": "Affiche la version {{version}} de la carte",
     "MORE": "Plus d'informations",
     "3D_DESC": "Affiche la version 3D de la carte",
@@ -16,9 +16,9 @@
     "WISHLISTED": "Nombre de fois souhaiter",
     "VERSIONS": "Versions",
     "MULTI": "Multi",
-    "EVENTS": "Événements",
-    "EVENT": "Événement",
-    "UPCOMING_EVENT": "Événement à venir",
-    "TOP_OWNER": "Top des propriétaires",
-    "NO_OWNER_FOUND": "Aucun propriétaire trouvé.."
+    "EVENTS": "Events",
+    "EVENT": "Event",
+    "UPCOMING_EVENT": "Event à venir",
+    "TOP_OWNER": "Meilleurs propriétaires",
+    "NO_OWNER_FOUND": "Aucun propriétaire trouvé."
 }
