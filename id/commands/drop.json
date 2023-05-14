@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "- Kamu bisa menjatuhkan 3 kartu menggunakan perintah ini setiap 8 menit.\n- Gunakan perintah \"sdn\" untuk menjatuhkan tanpa gambar. Berguna untuk saat Anda sedikit data atau tidak ingin lag.",
-  "JOIN_SUPPORT_SERVER": "[Bergabunglah dengan server dukungan untuk bantuan](https://discord.gg/sofi)",
-  "EXTRA_GRAB_ALERT": "{{author}} *Penggunaan tambahan Anda sedang digunakan. `{{remaining}}` tersisa.*",
-  "ON_CD": "{{author}} coba lagi dalam {{dropCd}}",
-  "VOTE": "Vote",
-  "BUY_DROP": "\nKamu juga dapat memilih membeli drop dengan cara vote - `sbuy drop`"
+    "DESCRIPTION": "-Perintah ini akan menurunkan 3 kartu dan dapat digunakan stiap 8 menit.\n- Gunakan perintah `sdn` untuk menurunkan kartu tanpa gambar. Hal ini berguna untuk menghemat data seluler atau menhindari lag",
+    "JOIN_SUPPORT_SERVER": "[Bergabunglah dengan server dukungan untuk bantuan!](https://discord.gg/sofi)",
+    "EXTRA_GRAB_ALERT": "{{author}} *Penggunaan tambahan Anda sedang digunakan. `{{remaining}}` tersisa.*",
+    "ON_CD": "{{author}} coba lagi dalam {{dropCd}}",
+    "VOTE": "Vote",
+    "BUY_DROP": "\nAnda juga dapat `Vote` untuk membeli `Drop` - `sbuy drop`"
 }

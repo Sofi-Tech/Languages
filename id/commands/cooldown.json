@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Anda dapat memeriksa cooldown untuk\n- Drop, Grab, Vote, Serangan dan Harian\n-Klik pada ikon lonceng untuk menambahkan pengingat untuk drop, vote, dan harian.",
-  "JOIN_SUPPORT_SERVER": "[Bergabunglah dengan server dukungan untuk mendapatkan bantuan](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Vote",
-  "BUMP": "Bump",
-  "DAILY": "Harian",
-  "UNREAD_MAIL": "\n 📫 `${{checkUnreadMailsCount}}` email belum dibaca | Gunakan `{{customPrefix}}mail`"
+    "DESCRIPTION": "Anda dapat memeriksa cooldown untuk\n- Drop, Grab, Vote, Serangan dan Harian\n-Klik pada ikon lonceng untuk menambahkan pengingat untuk drop, vote, dan harian.",
+    "JOIN_SUPPORT_SERVER": "[Bergabunglah dengan server dukungan untuk bantuan!](https://discord.gg/sofi)",
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "VOTE": "Vote",
+    "BUMP": "Bump",
+    "DAILY": "Harian",
+    "UNREAD_MAIL": "\n 📫 `${{checkUnreadMailsCount}}` email belum dibaca | Gunakan `{{customPrefix}}mail`"
 }
