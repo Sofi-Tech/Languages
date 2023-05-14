@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Buat dek kartu untuk melawan bos",
+    "DESCRIPTION": "Buat dek kartu untuk melawan bos!",
     "IN_RAID": "Perintah ini tidak dapat digunakan saat raid",
     "SELECT_OPT": "Pilih pilihan",
     "DECK": "Dek",
@@ -13,11 +13,11 @@
     "MISSING_CODES": "> Diperlukan setidaknya 3 kode",
     "INVALID_CODE": "> Kode kartu yang diberikan tidak valid",
     "CODE_REPEAT": "> Kode kartu tidak boleh berulang",
-    "MOVES_UNIQUE": "Semua gerakan dalam set harus unik | Pilih kartu yang berbeda atau gerakan yang berbeda untuk kartu yang sama",
+    "MOVES_UNIQUE": "Semua gerakan dalam dek harus unik! Pilih kartu yang berbeda atau gerakan yang berbeda untuk kartu yang sama",
     "SAVE_DECK": "Klik save untuk menyimpan dek ini",
-    "EMBED_FOOTER": "Catatan: Semua gerakan harus unik dalam dek untuk duel / raid",
-    "UNLOCK_SAVE": "Buka slot {{deckNo}} untuk menyimpan dek",
-    "UNLOCK_GENERATE": "Buka slot ${deckNo} untuk menghasilkan dek",
-    "NOT_ENOUGH_CARD": "Tidak cukup kartu dengan gerakan yang berbeda. Harap kumpulkan lebih banyak kartu",
+    "EMBED_FOOTER": "Catatan: Semua gerakan harus unik dalam dek untuk duel / raid!",
+    "UNLOCK_SAVE": "Buka nomor slot {{deckNo}} untuk menyimpan dek di sana",
+    "UNLOCK_GENERATE": "Buka slot ${deckNo} untuk menghasilkan dek acak",
+    "NOT_ENOUGH_CARD": "Anda tidak memiliki cukup kartu dengan gerakan yang berbeda. Harap kumpulkan lebih banyak kartu",
     "UNLOCK_SELECT": "Buka slot {{deckNo}} untuk memilih dek"
 }

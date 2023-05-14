@@ -3,7 +3,7 @@
     "IN_RAID": "Este comando no se puede usar mientras estás en una incursión",
     "SELECT_OPT": "Selecciona una opción",
     "DECK": "Mazo",
-    "UNIQUE_WARN": "Nota: Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos e incursiones!",
+    "UNIQUE_WARN": "Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos e incursiones!",
     "UNLOCK_SLOT": "¿Desbloquear ranura {{deckNo}} por 50,000 Silver?",
     "SLOT_UNLOCKED": "Ranura {{deckNo}} 🔓",
     "MISSING_SILVERS": "No tienes suficientes Silver para desbloquear la ranura",
@@ -19,5 +19,5 @@
     "UNLOCK_SAVE": "Desbloquea la ranura núermo {{deckNo}} para guardar un mazo ahí",
     "UNLOCK_GENERATE": "Desbloquea la ranura ${deckNo} para generar un mazo",
     "NOT_ENOUGH_CARD": "No tienes suficientes cartas con movimientos diferentes. Por favor, consigue más cartas",
-    "UNLOCK_SELECT": "Desbloquea la ranura número {{deckNo}} para poder seleccionar un mazo ahí"
+    "UNLOCK_SELECT": "Desbloquea la ranura número {{deckNo}} para poder seleccionar un mazo de ahí"
 }
