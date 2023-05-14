@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Mit dem Befehl `sc` kannst du deine Kartensammlung anzeigen lassen. \n- Diese kann nach Namen, Gen, Wunschlisten-Anzahl, Kosmetik, Kartenstatistik und weiteren Kriterien sortiert werden.\n- Du kannst sie auch nach Wunschlisten-Anzahl, Gen-Nummer oder tag-Name filtern.\n-Mit dem Befehl `sc t:ut` findest du unmarkierte Karten in deiner Sammlung.",
+    "DESCRIPTION": "- Mit dem Befehl `sc` kannst du deine Kartensammlung anzeigen lassen\n- Sie kann nach Namen, Gen, Wunschlisten-Anzahl, Kosmetik, Kartenstatistik und weiteren Kriterien sortiert werden\n- Du kannst sie auch nach Wunschlisten-Anzahl, Gen-Nummer oder tag-Name filtern\n- Mit dem Befehl `sc t:ut` findest du Karten ohne `tag` in deiner Sammlung",
     "SLASH_CMD_DESC": "Sieh dir deine Kartensammlung an.",
     "SLASH_DESC": "Gib den Benutzer an, dessen Sammlung du sehen möchtest.",
     "SLASH_DESC2": "Gib die Filter an, die auf die Sammlung angewendet werden sollen.",
@@ -8,7 +8,7 @@
     "NO_RESULTS": "{{author}} | Es wurden keine Ergebnisse gefunden!",
     "NO_CARDS_FOUND": "{{author}} | Es wurden keine Karten gefunden, die deiner Suche entsprechen.",
     "NOTHING_FOUND": "Es wurde nichts gefunden.",
-    "CHOOSE_SORTING": "Sortierungs Methode auswählen:",
+    "CHOOSE_SORTING": "Wähle die Sortierung",
     "SORT_CHAR": "Nach Charakteren sortieren",
     "SORT_SERIES": "Nach Serie sortieren",
     "SORT_GEN": "Nach Gen sortieren",
