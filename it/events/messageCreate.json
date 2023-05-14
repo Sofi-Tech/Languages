@@ -22,6 +22,6 @@
     "SAFE_MODE": "> Il bot è in modalità sicura. {{eta}}. \nTorno subito ❤",
     "CATEGORY_DISABLED": "> La categoria è stata disabilitata. \nMotivo: `{{category}}`",
     "COMMAND_DISABLED": "> Il comando è stato disabilitato. \nMotivo: `{{command}}`",
-    "NO_PERMISSIONS": "Non ho i permessi per eseguire il comando",
+    "NO_PERMISSIONS": "Non ho il permesso per eseguire il comando",
     "SERIES_DROP": "Serie scaduta"
 }

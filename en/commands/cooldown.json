@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "You can check cooldowns for your\n- Drop, Grab, Vote, Raid and Dailies\n- Click on the bell icon to add reminders for drop, vote and daily",
-  "JOIN_SUPPORT_SERVER": "[Join the support server for help](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Vote",
-  "BUMP": "Bump",
-  "DAILY": "Daily",
-  "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` unread mail(s) | Use `{{customPrefix}}mail`"
+    "DESCRIPTION": "You can check cooldowns for your\n- `Drop`, `Grab`, `Vote`, `Raid` and `Daily`\n- Click on the bell icon to add reminders for `Drop`, `Vote` and `Daily`",
+    "JOIN_SUPPORT_SERVER": "[Join the support server for help](https://discord.gg/sofi)",
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "VOTE": "Vote",
+    "BUMP": "Bump",
+    "DAILY": "Daily",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` unread mail(s) | Use `{{customPrefix}}mail`"
 }

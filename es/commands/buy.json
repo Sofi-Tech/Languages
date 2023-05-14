@@ -4,10 +4,10 @@
     "SLASH_DESC2": "Ingresa la cantidad",
     "SLASH_DESC3": "Ingresa el código del background que desea comprar. [FUNCIONA SOLO SI EL ARTÍCULO ESTÁ SELECCIONADO COMO FONDO]",
     "NO_ITEM": "Por favor especifica un artículo para comprar",
-    "TRADEPASS_INFO": "La compra del pase de Intercambio a través de los silvers se ha descontinuado. Puedes comprar un pase de Intercambio durante 4 horas con 1 bump o ahorrar 20 bumps para comprarlo durante 30 días.",
+    "TRADEPASS_INFO": "Puedes usar 1 `Bump` para comprar un `Trade Pass` de 4 horas o guardar 20 `Bumps` para comprar un `Trade Pass` de 30 días",
     "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <bgID> [cantidad]`",
     "INVALID_BG_AMOUNT": "No ingreses una cantidad negativa",
-    "INVALID_BG_ID": "Proporcione un ID de background válido",
+    "INVALID_BG_ID": "Proporcione un ID de `Background` válido",
     "NO_ITEM_PROVIDED": "No se proporcionó ningún artículo",
     "INVALID_AMOUNT": "Se proporcionó una cantidad no válida",
     "INVALID_ITEM_PROVIDED": "{{USER}} - El artículo proporcionado no es válido"
