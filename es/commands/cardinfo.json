@@ -3,7 +3,7 @@
     "SLASH_DESC": "Ingresa el código de la carta que quieres mostrar",
     "NO_CARD_FOUND": "No se puede encontrar tu última carta. Intenta proporcionar un código de carta",
     "INVALID_CARD_CODE": "Código de carta provisto no válido",
-    "CARD_MORPHED": "La carta está transformada",
+    "CARD_MORPHED": "Esa carta está morphed",
     "CARD_GLOWED": "Esa carta tiene aplicado el siguiente `Glow`: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Color de fuente: {{fontName}} [`#{{viewCode}}`]\n",
     "CARD_FRAMED": "Esa carta tiene el siguiente `Frame` aplicado __{{frameName}}__\n",
