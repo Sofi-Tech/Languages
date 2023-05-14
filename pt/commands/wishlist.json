@@ -5,7 +5,7 @@
     "WISHLIST_PRIVATE": "> A lista de desejos desse usuário é privada",
     "WISHLIST_EMPTY": "> A lista de desejos de {{username}} está vazia assim como o meu coração 💔",
     "WISHLIST_EMBED_TITLE": "Lista de desejos de {{username}} [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Use {{prefix}}wu/{{prefix}}wu max para aumentar os espaços da sua lista de desejos | Páginas: {{page}}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Use {{prefix}}wu/{{prefix}}wu max para aumentar os espaços da sua lista de desejos | Páginas: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Copiar códigos",
     "COPY_CODES_MENU_LABEL": "Copiar todos os códigos",
     "COPY_CODES_MENU_DESCRIPTION": "Envia todos os códigos por mensagem de texto",

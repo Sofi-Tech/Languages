@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "¡Crea un mazo con tus cartas para luchar contra un jefe!",
+    "DESCRIPTION": "¡Crea un mazo (deck) con tus cartas para pelear contra un jefe!",
     "IN_RAID": "Este comando no se puede usar mientras estás en una incursión",
     "SELECT_OPT": "Selecciona una opción",
-    "DECK": "Mazo",
+    "DECK": "Deck",
     "UNIQUE_WARN": "¡Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos e incursiones!",
     "UNLOCK_SLOT": "¿Desbloquear ranura {{deckNo}} por 50,000 Silver?",
     "SLOT_UNLOCKED": "Ranura {{deckNo}} 🔓",
