@@ -1,0 +1,23 @@
+{
+  "DESCRIPTION": "Créez un jeu de cartes pour combattre le boss",
+  "IN_RAID": "La commande ne peut pas être exécutée pendant une mission",
+  "SELECT_OPT": "Sélectionnez une option",
+  "DECK": "Jeu",
+  "UNIQUE_WARN": "Remarque : Toutes les cartes doivent avoir des mouvements uniques dans le jeu pour jouer en duel/mener une mission",
+  "UNLOCK_SLOT": "Débloquer l'emplacement {{deckNo}} pour 50 000 silvers ?",
+  "SLOT_UNLOCKED": "Emplacement {{deckNo}} 🔓",
+  "MISSING_SILVERS": "Vous n'avez pas assez de silvers pour débloquer l'emplacement",
+  "UNLOCK_WARN": "Débloquez l'emplacement {{deckNo}} pour générer un jeu",
+  "ENTER_CODES": "Entrez les codes de cartes",
+  "MODAL_TITLE": "Définir le jeu",
+  "MISSING_CODES": "> Au moins 3 codes sont nécessaires",
+  "INVALID_CODE": "> Code de carte invalide fourni",
+  "CODE_REPEAT": "> Les codes de cartes ne doivent pas se répéter",
+  "MOVES_UNIQUE": "Tous les mouvements de toutes les cartes du jeu doivent être uniques | Sélectionnez une carte différente ou des mouvements différents pour la même carte",
+  "SAVE_DECK": "Cliquez sur Enregistrer pour définir ce jeu",
+  "EMBED_FOOTER": "Remarque : Toutes les cartes doivent avoir des mouvements uniques dans le jeu pour jouer en duel/mener une mission",
+  "UNLOCK_SAVE": "Débloquer l'emplacement {{deckNo}} pour enregistrer le jeu",
+  "UNLOCK_GENERATE": "Débloquer l'emplacement {{deckNo}} pour générer un jeu",
+  "NOT_ENOUGH_CARD": "Pas suffisamment de cartes avec des mouvements différents. Veuillez collecter plus de cartes",
+  "UNLOCK_SELECT": "Débloquer l'emplacement {{deckNo}} pour sélectionner le jeu"
+}

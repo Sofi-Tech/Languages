@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Brûlez des cartes pour obtenir des `Crystals` et des`Silver`, qui peuvent être utilisés pour fabriquer des `Cubes` et acheter divers autres articles dans le bot. En tapant `sb`, vous brûlez la dernière carte obtenue.",
-    "GUILDSTONE_BURN": "Vous êtes sur le point de brûler une pierre de guilde",
-    "GUILDSTONE_NOT_FOUND": "Vous n'avez pas de pierre de guilde à brûler",
-    "SUCCESS": "SUCCÈS",
-    "CANCELLED": "ANNULÉ",
-    "BURN_FRAG_WARN": "Vous êtes sur le point de brûler un fragment\nCode du fragment : `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "Aucun fragment trouvé",
-    "CARD_NOT_FOUND": "Impossible de trouver cette carte",
-    "CARD_LOCKED": "La carte est verrouillée",
-    "CARD_NOT_OWNED": "Vous ne possédez pas cette carte"
+  "DESCRIPTION": "Brûlez des cartes pour obtenir des `Crystals` et des`Silver`, qui peuvent être utilisés pour fabriquer des `Cubes` et acheter divers autres articles dans le bot. En tapant `sb`, vous brûlez la dernière carte obtenue.",
+  "GUILDSTONE_BURN": "Vous êtes sur le point de brûler une pierre de guilde",
+  "GUILDSTONE_NOT_FOUND": "Vous n'avez pas de pierre de guilde à brûler",
+  "SUCCESS": "SUCCÈS",
+  "CANCELLED": "ANNULÉ",
+  "BURN_FRAG_WARN": "Vous êtes sur le point de brûler un fragment\nCode du fragment : `{{fragCode}}`",
+  "FRAG_NOT_FOUND": "Aucun fragment trouvé",
+  "CARD_NOT_FOUND": "Impossible de trouver cette carte",
+  "CARD_LOCKED": "La carte est verrouillée",
+  "CARD_NOT_OWNED": "Vous ne possédez pas cette carte"
 }

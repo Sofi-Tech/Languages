@@ -1,0 +1,23 @@
+{
+  "DESCRIPTION": "制作一副牌来打比boss",
+  "IN_RAID": "在raid中无法运行该命令",
+  "SELECT_OPT": "选择一个选项",
+  "DECK": "牌堆",
+  "UNIQUE_WARN": "注意：在决斗/掠夺时牌堆中所有行动必须唯一",
+  "UNLOCK_SLOT": "解锁{{deckNo}}号位需要花费50,000银币，你确定要解锁吗？",
+  "SLOT_UNLOCKED": "{{deckNo}}号位已解锁 🔓",
+  "MISSING_SILVERS": "你没有足够的银币来解锁此位",
+  "UNLOCK_WARN": "解锁{{deckNo}}号位以生成牌堆",
+  "ENTER_CODES": "输入牌的代码",
+  "MODAL_TITLE": "设置牌堆",
+  "MISSING_CODES": "> 至少需要3个代码",
+  "INVALID_CODE": "> 提供的卡牌代码无效",
+  "CODE_REPEAT": "> 卡牌代码不能重复",
+  "MOVES_UNIQUE": "必须在牌堆中选择唯一的行动 | 为同一张卡牌选择不同的牌堆或行动",
+  "SAVE_DECK": "单击保存以设置此牌堆",
+  "EMBED_FOOTER": "注意：在决斗/掠夺时牌堆中所有行动必须唯一",
+  "UNLOCK_SAVE": "解锁{{deckNo}}号位以保存牌堆",
+  "UNLOCK_GENERATE": "解锁${deckNo}号位以生成牌堆",
+  "NOT_ENOUGH_CARD": "没有足够的带有不同行动的卡牌，请收集更多卡牌",
+  "UNLOCK_SELECT": "解锁{{deckNo}}号位以选择牌堆"
+}

@@ -1,0 +1,23 @@
+{
+  "DESCRIPTION": "Make a deck of cards to fight the boss",
+  "IN_RAID": "The command cannot be ran while in raid",
+  "SELECT_OPT": "Select an option",
+  "DECK": "Deck",
+  "UNIQUE_WARN": "Note : All the moves have to be unique in deck to duel/raid ",
+  "UNLOCK_SLOT": "Unlock slot {{deckNo}} for 50,000 silvers?",
+  "SLOT_UNLOCKED": "Slot {{deckNo}} 🔓",
+  "MISSING_SILVERS": "You do not have enough silvers to unlock the slot",
+  "UNLOCK_WARN": "Unlock the slot {{deckNo}} to generate deck",
+  "ENTER_CODES": "Enter the card codes",
+  "MODAL_TITLE": "Set Deck",
+  "MISSING_CODES": "> At least 3 codes are required",
+  "INVALID_CODE": "> Invalid card code provided",
+  "CODE_REPEAT": "> Card codes must not repeat",
+  "MOVES_UNIQUE": "All the moves in the set must be unique | Select a different card or different moves for the same card",
+  "SAVE_DECK": "Click on save to set this deck",
+  "EMBED_FOOTER": "Note : All the moves have to be unique in deck to duel/raid ",
+  "UNLOCK_SAVE": "Unlock the slot {{deckNo}} to save deck",
+  "UNLOCK_GENERATE": "Unlock the slot ${deckNo} to generate deck",
+  "NOT_ENOUGH_CARD": "Not enough cards with different moves. Please collect more cards",
+  "UNLOCK_SELECT": "Unlock the slot {{deckNo}} to select deck"
+}

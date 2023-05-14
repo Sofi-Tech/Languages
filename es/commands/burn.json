@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Quema las cartas para obtener `Crystals` y `Silver` que se pueden usar para hacer `Cubes` y comprar varios artículos en el bot. Escribiendo`sb` se quema la última carta conseguida.",
-    "GUILDSTONE_BURN": "Estás a punto de quemar una `Guild Stone`",
-    "GUILDSTONE_NOT_FOUND": "No tienes ninguna `Guild Stone` para quemar",
-    "SUCCESS": "ÉXITO",
-    "CANCELLED": "CANCELADO",
-    "BURN_FRAG_WARN": "Estás a punto de quemar un fragmento\nCódigo de fragmento: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "No se ha podido encontrar ningún fragmento",
-    "CARD_NOT_FOUND": "No se ha podido encontrar esa carta",
-    "CARD_LOCKED": "La carta está bloqueada",
-    "CARD_NOT_OWNED": "No posees esa carta"
+  "DESCRIPTION": "Quema las cartas para obtener `Crystals` y `Silver` que se pueden usar para hacer `Cubes` y comprar varios artículos en el bot. Escribiendo`sb` se quema la última carta conseguida.",
+  "GUILDSTONE_BURN": "Estás a punto de quemar una `Guild Stone`",
+  "GUILDSTONE_NOT_FOUND": "No tienes ninguna `Guild Stone` para quemar",
+  "SUCCESS": "ÉXITO",
+  "CANCELLED": "CANCELADO",
+  "BURN_FRAG_WARN": "Estás a punto de quemar un fragmento\nCódigo de fragmento: `{{fragCode}}`",
+  "FRAG_NOT_FOUND": "No se ha podido encontrar ningún fragmento",
+  "CARD_NOT_FOUND": "No se ha podido encontrar esa carta",
+  "CARD_LOCKED": "La carta está bloqueada",
+  "CARD_NOT_OWNED": "No posees esa carta"
 }

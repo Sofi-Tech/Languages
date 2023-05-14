@@ -1,0 +1,23 @@
+{
+  "DESCRIPTION": "Kartlarla patrona karşı savaşmak için bir deste yapın",
+  "IN_RAID": "Raid sırasında komut kullanılamaz",
+  "SELECT_OPT": "Seçenek seçin",
+  "DECK": "Deste",
+  "UNIQUE_WARN": "Not: Düello/raid için tüm hareketlerin dekte benzersiz olması gerekir",
+  "UNLOCK_SLOT": "{{deckNo}} numaralı yeri 50.000 gümüş karşılığında açmak istiyor musunuz?",
+  "SLOT_UNLOCKED": "{{deckNo}} numaralı yer 🔓",
+  "MISSING_SILVERS": "Yeterli miktarda gümüşünüz yok",
+  "UNLOCK_WARN": "Deste oluşturmak için {{deckNo}} numaralı yeri açın",
+  "ENTER_CODES": "Kart kodlarını girin",
+  "MODAL_TITLE": "Deste Ayarla",
+  "MISSING_CODES": "> En az 3 kart kodu gereklidir",
+  "INVALID_CODE": "> Geçersiz kart kodu girildi",
+  "CODE_REPEAT": "> Kart kodları tekrarlanamaz",
+  "MOVES_UNIQUE": "Setteki tüm hamleler benzersiz olmalıdır | Farklı bir kart veya aynı kart için farklı hamleler seçin",
+  "SAVE_DECK": "Bu deste için kaydetmek için kaydet'e tıklayın",
+  "EMBED_FOOTER": "Not: Düello/raid için tüm hamlelerin benzersiz olması gerekir",
+  "UNLOCK_SAVE": "{{deckNo}} numaralı yeri kaydetmek için açın",
+  "UNLOCK_GENERATE": "{{deckNo}} numaralı yeri oluşturmak için açın",
+  "NOT_ENOUGH_CARD": "Farklı hamlelerle yeterli sayıda kart yok. Lütfen daha fazla kart toplayın",
+  "UNLOCK_SELECT": "{{deckNo}} numaralı yeri seçmek için açın"
+}
