@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Klaim `Daily` Anda dan pertahankan rekor tersebut untuk mendapatkan hadiah yang luar biasa!",
     "CATEGORY": "Kartu",
-    "EMBED_AUTHOR": "Harian {{author}}",
+    "EMBED_AUTHOR": "{{author}} Harian",
     "DAILY_ERROR": "Anda dapat mengklaim `Daily` Anda setelah {{timeout}} \n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} harian tersisa untuk mengklaim Peti Biasa",
     "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} harian yang tersisa untuk mengklaim Peti Langka",
