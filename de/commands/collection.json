@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "- Mit dem Befehl 'sc' kannst du dir deine Kartensammlung anzeigen lassen. Diese kann sowohl nach Namen, Gen, Wunschliste, Karten mit kosmetischen Veränderungen, Kartenstatistiken und 3D-Verfügbarkeit sortiert, als auch nach Wunschlisten-Menge,  Gen-Nummer oder nach Markierung gefiltert werden.\n-Mit dem Befehl sc t:ut findest du unmarkierte Karten in deiner Sammlung.",
-    "SLASH_CMD_DESC": "Zeige deine Kartensammlung an.",
-    "SLASH_DESC": "Gebe den Benutzer an, dessen Sammlung du sehen möchtest.",
-    "SLASH_DESC2": "Gib die Filter an, die du auf die Sammlung anwenden möchtest.",
+    "DESCRIPTION": "- Mit dem Befehl `sc` kannst du deine Kartensammlung anzeigen lassen. \n- Diese kann nach Namen, Generation, Wunschlist-Menge, Kosmetik, Kartenstatistik und anderen Parametern sortiert werden.\n- Unter anderem kannst du diese auch nach Generations-Nummer, Tag-Name oder spezifischen Wunschlist-Parametern filtern.\n-Mit dem Befehl `sc t:ut` findest du unmarkierte Karten in deiner Sammlung.",
+    "SLASH_CMD_DESC": "Schaue deine Kartensammlung an.",
+    "SLASH_DESC": "Gib den Benutzer an, dessen Sammlung du sehen möchtest.",
+    "SLASH_DESC2": "Gib die Filter an, die auf die Sammlung angewendet werden sollen.",
     "PLAYER_NOT_EXIST": "{{author}} | Dieser Spieler existiert nicht.",
-    "PLAYER_PRIVATE": "{{author}} | Die Sammlung dieses Benutzers ist privat!",
-    "NO_RESULTS": "{{author}} | Keine Ergebnisse gefunden!",
+    "PLAYER_PRIVATE": "{{author}} | Die Sammlung dieses Spielers ist privat!",
+    "NO_RESULTS": "{{author}} | Es wurden keine Ergebnisse gefunden!",
     "NO_CARDS_FOUND": "{{author}} | Es wurden keine Karten gefunden, die deiner Suche entsprechen.",
     "NOTHING_FOUND": "Es wurde nichts gefunden.",
     "CHOOSE_SORTING": "Sortierungs Methode auswählen:",
@@ -23,6 +23,6 @@
     "SHOWING PAGE": "Seite: {{page}}/{{pages}}",
     "ALL_UNTAG_SUCCESS": "Allen {{taglength}} Karten wurde erfolgreich der Tag entfernt.",
     "ALL_TAG_SUCCESS": "{{author}} Allen {{taglength}} Karten wurden erfolgreich ein Tag hinzugefügt.",
-    "PLEASE_WAIT": "Bitte warte ein wenig. <a:ping:876612181725167687>",
+    "PLEASE_WAIT": "Einen Moment Geduld <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "Wir schätzen den Versuch wert, aber es wurden keine Tags gefunden."
 }
