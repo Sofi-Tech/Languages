@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Aggiungi personaggi alla tua lista dei desideri",
-  "CATEGORY": "Desideri",
-  "ADD_CHARACTERS_ERROR": "> Non puoi aggiungere altri personaggi alla lista dei desideri",
-  "SEARCH_CHARACTER_ERROR": "Fornisci il nome di un personaggio da aggiungere\nUsa `swa -f <nome>` per una ricerca esatta",
-  "NO_CHARACTER_FOUND": "Nessun personaggio è stato trovato\nUsa `swa -f <nome>` per una ricerca esatta",
-  "CHARACTER_ALREADY_EXISTS": "{{name}} è già nella tua lista dei desideri!",
-  "CHARACTER_ADDED": "> {{author}} | Aggiunto {{name}} alla tua lista dei desideri",
-  "EMBED_TITLE": "<:lined:868888105611046942> __Aggiungi alla lista dei desideri__"
+    "DESCRIPTION": "Aggiungi personaggi alla tua lista dei desideri",
+    "CATEGORY": "Lista dei desideri",
+    "ADD_CHARACTERS_ERROR": "> Non puoi aggiungere altri personaggi alla lista dei desideri",
+    "SEARCH_CHARACTER_ERROR": "Fornisci il nome di un personaggio da aggiungere\nUsa `swa -f <nome>` per una ricerca esatta",
+    "NO_CHARACTER_FOUND": "Nessun personaggio è stato trovato\nUsa `swa -f <nome>` per una ricerca esatta",
+    "CHARACTER_ALREADY_EXISTS": "{{name}} è già nella tua lista dei desideri!",
+    "CHARACTER_ADDED": "> {{author}} | Aggiunto {{name}} alla tua lista dei desideri",
+    "EMBED_TITLE": "<:lined:868888105611046942> __Aggiungi alla lista dei desideri__"
 }
