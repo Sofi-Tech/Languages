@@ -10,9 +10,9 @@
     "NO_CODE": "{{author}}, te olvidaste de proporcionar el código de la carta",
     "WRONG_USAGE": "{{author}} Uso correcto: `sgive <usuario/IDusuario> <códigodecarta>`",
     "NO_CARD_FOUND": "No se puede encontrar ninguna carta con el código: `{{code}}`",
-    "CARD_LOCKED": "Esa carta está bloqueada y no se puede dar. Desetiquétala para continuar",
+    "CARD_LOCKED": "Esa carta está bloqueada y no se puede dar! Si aún así quieres darla, usa el comando `suntag <códigoDeCarta>` para eliminar el `Tag` de esa carta.",
     "CARD_NOT_OWNED": "No posees esa carta",
     "SUCCESS": "ÉXITO",
     "CANCELLED": "CANCELADO",
-    "GIVEN": "Remitente => Receptor"
+    "GIVEN": "Remitente → Receptor"
 }

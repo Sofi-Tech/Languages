@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Puedes buscar un personaje específico usando el comando `scl`. En el menú de búsqueda de personajes, puedes verificar las estadísticas de las cartas, sus imágenes en 3D/animadas, la tabla de clasificación del gen, la tabla de clasificación de fans y el `ID de la carta`.\n- El `ID de la carta` se necesita para enviar imágenes para nuevas versiones.",
     "CHAR_NOT_FOUND": "No se puede encontrar el personaje",
-    "CHAR_NF_SENSITIVE": "No se encontró el personaje. [La función de búsqueda es sensible a mayúsculas!]",
+    "CHAR_NF_SENSITIVE": "No se encontró el personaje. [La función de `lookup` es sensible a mayúsculas!]",
     "EMBED_TITLE": "__Búsqueda de personajes__",
     "NORMAL_LABEL": "Variante Normal",
     "FAN_PTS_LABEL": "Agregar puntos de fans",
