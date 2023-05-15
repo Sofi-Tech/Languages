@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Günlük ödülünüzü almak için `sdaily` komutunu kullanın. Günlük serinizi koruyun ve daha da iyi ödüller kazanın!",
     "CATEGORY": "Kartlar",
-    "EMBED_AUTHOR": "{{author}}'ın Günlükleri",
+    "EMBED_AUTHOR": "{{author}}'ın günlük ödülleri",
     "DAILY_ERROR": "`Daily` ödülünüzü {{timeout}} sonra talep edebilirsiniz \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> Bir Common Chest kazanmak için {{count}} günlük kaldı",
-    "RARE_CHEST": "<:rarechest:927204672270372874> Bir Rare Chest kazanmak için {{count}} günlük kaldı",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> Bir `Common Chest` kazanmak için {{count}} `Daily` kaldı",
+    "RARE_CHEST": "<:rarechest:927204672270372874> Bir `Rare Chest` kazanmak için {{count}} `Daily`kaldı",
     "NOTE": "\n⚠️ Discord veya Sofi personeli asla şifrenizi, TSŞ veya e-mail inizi değiştirmenizi istemez veya size Mee6 ve Dyno gibi üçüncü parti botlar ile iletişim kurmaz. Size ücretsiz olarak sunulan her şey veya bir sunucuya katılmanızın istenmesi şüphelidir. {{link}} Üzerinden şikayet ediniz.",
     "EMBED_FOOTER": "Seri [ {{streak}} ] • {{streakBar}}",
     "DAILY_SUCCESS": "`Daily` ödülünü aldığınız için teşekkür ederiz\n",

@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Dilek listeni yükseltin",
     "CATEGORY": "İstek listesi",
-    "ALREADY_MAXED": "> {{author}} dilek listesi slotları zaten dolu",
-    "EMBED_DESCRIPTION": "{{amount}} {{currency}} karşılığında {{count}} adet ekstra dilek listesi slotu almak istiyor musunuz?",
+    "ALREADY_MAXED": "> {{author}} istek listenizdeki yuvalar zaten dolmuş durumda!",
+    "EMBED_DESCRIPTION": "{{amount}} {{currency}} karşılığında {{count}} fazladan yuva satın almak istiyor musunuz?",
     "EMBED_PAY_FIELD_NAME": "Ödeyeceğiniz tutar:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Sahip olacağınız slot sayısı:",

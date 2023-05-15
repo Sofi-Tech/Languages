@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- 'cl' komutunu kullanarak belirli bir karakter arayabilirsiniz. Charlookup menüsünde kartın istatistiklerini, 3D ve animasyonlu resimlerini, gen başlıklarını, hayran liderlik tablosunu ve kart kimliğini kontrol edebilirsiniz.\n-Yeni sürümler için resimler gönderilirken `Card ID` gereklidir.",
     "CHAR_NOT_FOUND": "Karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "Karakter bulunamadı. [Arama işlevi büyük/küçük harfe duyarlıdır!]",
+    "CHAR_NF_SENSITIVE": "Karakter bulunamadı. [`lookup` komutu büyük/küçük harfe duyarlıdır!]",
     "EMBED_TITLE": "__Karakter Arama__",
     "NORMAL_LABEL": "Normal Varyant",
     "FAN_PTS_LABEL": "Hayran Puanı Ekle",

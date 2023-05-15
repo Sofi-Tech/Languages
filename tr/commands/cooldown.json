@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Aşağıda belirtilen eylemler için kalan sürelerinizi kontrol edebilirsiniz.\n- Kart düşürme, Alma, Oy verme, baskın yapma ve günlük ödülleri alma\n - Kart düşürme, oy verme ve günlük ödül hatırlatıcıları eklemek için zil simgelerine tıklayın",
-  "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)",
-  "DROP": "Kart düşür",
-  "GRAB": "Al",
-  "VOTE": "Oy Ver",
-  "BUMP": "Bump",
-  "DAILY": "Günlük",
-  "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta | `{{customPrefix}}mail` kullanın"
+    "DESCRIPTION": "Aşağıda belirtilen eylemler için bekleme süresini kontrol edebilirsiniz.\n- Drop`, `Grab`, `Vote`, `Raid` ve `Daily`\n- `Drop`, `Vote` ve `Daily`hatırlacısını açmak için zile tıklayın",
+    "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)",
+    "DROP": "Kart düşür",
+    "GRAB": "Al",
+    "VOTE": "Oy Ver",
+    "BUMP": "Bump",
+    "DAILY": "Günlük",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta | `{{customPrefix}}mail` kullanın"
 }

@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Karakterlerin versiyon/3d/animasyonlu aranması",
+    "DESCRIPTION": "Bir karakterin Versiyon/3D/GIF varyantlarını görüntüler",
     "CHAR_NOT_FOUND": "Karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "Karakter bulunamadı. [Arama işlevi büyük/küçük harfe duyarlıdır!]",
+    "CHAR_NF_SENSITIVE": "Karakter bulunamadı. [`lookup` komutu büyük/küçük harfe duyarlıdır!]",
     "EMBED_TITLE": "__Karakter Arama__",
     "SUBMITTED": "<@{{userID}}> tarafından gönderildi",
     "EMBED_FOOTER": "scl kullanarak v1 bulun | ssc kullanarak versiyon gönderin",
