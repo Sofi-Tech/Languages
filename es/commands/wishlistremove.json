@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Elimina a un personaje de tu lista de deseos",
-  "CATEGORY": "Lista de deseos",
-  "NO_INDEX": "No se ha proporcionó ningún nombre ni número! Para borrar tu lista de deseos por completo, usa el comando `full reset`",
-  "FULL_RESET": "> {{author}} eliminó {{total}} personajes de tu lista de deseos",
-  "REMOVE_CHARACTER": "> {{author}} eliminó \"{{name}}\" de su lista de deseos",
-  "NO_RESULTS": "> {{author}} no se encontraron resultados para {{name}}"
+    "DESCRIPTION": "Elimina a un personaje de tu lista de deseos",
+    "CATEGORY": "Lista de deseos",
+    "NO_INDEX": "No se ha proporcionó ningún nombre ni número! Para borrar tu lista de deseos por completo, usa el comando `swr full reset`",
+    "FULL_RESET": "> {{author}} eliminó {{total}} personajes de tu lista de deseos",
+    "REMOVE_CHARACTER": "> {{author}} eliminó \"{{name}}\" de su lista de deseos",
+    "NO_RESULTS": "> {{author}} no se encontraron resultados para {{name}}"
 }
