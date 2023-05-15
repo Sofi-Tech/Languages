@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "Claim je dagelijkse beloningen en behoud de reeks om fantastische prijzen te krijgen.",
-  "CATEGORY": "Kaarten",
-  "EMBED_AUTHOR": "{{author}}'s Dagelijkse Beloningen",
-  "DAILY_ERROR": "Je kunt je dagelijkse beloningen pas na {{timeout}} claimen. \n",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dagelijkse beloningen over om een Gewone Kist te claimen",
-  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dagelijkse beloningen over om een Zeldzame Kist te claimen",
-  "NOTE": "\n⚠️ Discord- of Sofi-medewerkers zullen nooit vragen om wachtwoorden, otp's of e-mailwijzigingen, of communiceren met behulp van bots van derden zoals Mee6/Dyno. Alles wat gratis aan jou wordt aangeboden of gevraagd wordt om lid te worden van een server, is verdacht. Rapporteer het op {{link}}",
-  "EMBED_FOOTER": "Reeks [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "Bedankt voor het claimen van je dagelijkse beloningen \n",
-  "GUILD_BONUS": "Top 20 Serverbonus x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "DESCRIPTION": "gebruik het commando 'sdaily' om je dagelijkse beloningen te claimen. behoud een reeks en krijg zelfs betere beloningen",
+    "CATEGORY": "Kaarten",
+    "EMBED_AUTHOR": "{{author}}'s Dagelijkse Beloningen",
+    "DAILY_ERROR": "Je kunt je dagelijkse beloningen pas na {{timeout}} claimen. \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dagelijkse beloningen over om een Gewone Kist te claimen",
+    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dagelijkse beloningen over om een Zeldzame Kist te claimen",
+    "NOTE": "\n⚠️ Discord- of Sofi-medewerkers zullen nooit vragen om wachtwoorden, OTPs, e-mailwijzigingen, of communiceren met behulp van bots van derden zoals Mee6/Dyno. Alles wat gratis aan jou wordt aangeboden of gevraagd wordt om lid te worden van een server, is verdacht. Rapporteer het op {{link}}",
+    "EMBED_FOOTER": "Reeks [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Bedankt voor het claimen van je dagelijkse beloningen\n",
+    "GUILD_BONUS": "Top 20 Serverbonus x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

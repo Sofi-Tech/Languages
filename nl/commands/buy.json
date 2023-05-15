@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Koop items uit de winkel",
-  "SLASH_DESC": "Voer de naam van het item in dat je wilt kopen",
-  "SLASH_DESC2": "Voer het bedrag in",
-  "SLASH_DESC3": "Voer de code in van de achtergrond die je wilt kopen. [WERKT ALLEEN ALS ITEM IS GESELECTEERD ALS ACHTERGROND]",
-  "NO_ITEM": "Voer een item in om te kopen",
-  "TRADEPASS_INFO": "Trade Pas die koopbaar is door silvers is stopgezet. Je kunt een 4-uur durende Trade Pas kopen met 1 bump of 20 bumps opslaan om gedurende 30 dagen te kopen.",
-  "CORRECT_USAGE": "{{USER}} Juist gebruik: `{{prefix}}buy bg <bgID> [bedrag]`",
-  "INVALID_BG_AMOUNT": "De hoeveelheid achtergrond moet positief zijn",
-  "INVALID_BG_ID": "Voer een geldige achtergrond-ID in",
-  "NO_ITEM_PROVIDED": "Geen item opgegeven",
-  "INVALID_AMOUNT": "Er is een ongeldig bedrag opgegeven",
-  "INVALID_ITEM_PROVIDED": "{{USER}} Ongeldig item opgegeven"
+    "DESCRIPTION": "Koop items uit de winkel",
+    "SLASH_DESC": "Voer de naam van het item in dat je wilt kopen",
+    "SLASH_DESC2": "Voer het bedrag in",
+    "SLASH_DESC3": "Voer de code in van de achtergrond die je wilt kopen. [WERKT ALLEEN ALS ITEM IS GESELECTEERD ALS ACHTERGROND]",
+    "NO_ITEM": "Voer een item in om te kopen",
+    "TRADEPASS_INFO": "Je kunt 1 bump gebruiken om een 4-uur trade pass te kopen of sparen voor 20 bumps om een 30-day trade pass te kopen",
+    "CORRECT_USAGE": "{{USER}} Juist gebruik: `{{prefix}}buy bg <bgID> [bedrag]`",
+    "INVALID_BG_AMOUNT": "Voer geen negatieve getallen in",
+    "INVALID_BG_ID": "Voer een geldige achtergrond-ID in",
+    "NO_ITEM_PROVIDED": "Geen item opgegeven",
+    "INVALID_AMOUNT": "Er is een ongeldig bedrag opgegeven",
+    "INVALID_ITEM_PROVIDED": "{{USER}} Ongeldig item opgegeven"
 }

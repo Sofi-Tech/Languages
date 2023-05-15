@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Mağazdan öğeleri satın alın",
-  "SLASH_DESC": "Satın almak istediğiniz öğenin adını girin",
-  "SLASH_DESC2": "Miktarı girin",
-  "SLASH_DESC3": "Satın almak istediğiniz arka planın kodunu girin. [YALNIZCA ÖĞE ARKA PLAN OLARAK SEÇİLDİYSE ÇALIŞIR]",
-  "NO_ITEM": "Lütfen satın alınacak bir öğe girin",
-  "TRADEPASS_INFO": "Gümüşler aracılığıyla satın alınabilen Ticaret Bileti durduruldu. 1 bump ile 4 saatlik Ticaret Bileti satın alabilir veya 20 bump biriktirerek 30 günlük satın alabilirsiniz.",
-  "CORRECT_USAGE": "{{USER}} Doğru kullanım: `{{prefix}}buy bg <bgID> [miktar]`",
-  "INVALID_BG_AMOUNT": "Negatif miktar belirtmeyin",
-  "INVALID_BG_ID": "Lütfen geçerli bir arka plan ID'si belirtin",
-  "NO_ITEM_PROVIDED": "Hiçbir öğe belirtilmedi",
-  "INVALID_AMOUNT": "Geçersiz miktar sağlandı",
-  "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz öğe belirtildi"
+    "DESCRIPTION": "Dükkandan ürün satın almaya yarar",
+    "SLASH_DESC": "Satın almak istediğiniz öğenin adını girin",
+    "SLASH_DESC2": "Miktarı girin",
+    "SLASH_DESC3": "Enter the code of the `Background` you want to buy. [ONLY WORKS IF THE ITEM IS SELECTED AS BACKGROUND]",
+    "NO_ITEM": "Lütfen satın almak için bir ürün belirtin",
+    "TRADEPASS_INFO": "1 `Bump` ile 4 saatlik `Trade Pass` satın alabilir veya 20 `Bumps` biriktirerek 30 günlük`Trade Pass` satın alabilirsiniz.",
+    "CORRECT_USAGE": "{{USER}} Doğru kullanım: `{{prefix}}buy bg <bgID> [miktar]`",
+    "INVALID_BG_AMOUNT": "Negatif miktar belirtmeyin",
+    "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirtin",
+    "NO_ITEM_PROVIDED": "Hiçbir öğe belirtilmedi",
+    "INVALID_AMOUNT": "Geçersiz miktar sağlandı",
+    "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz öğe belirtildi"
 }

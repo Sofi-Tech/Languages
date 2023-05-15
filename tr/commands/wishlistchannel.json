@@ -1,6 +1,6 @@
 {
-  "DESCRIPTION": "İstek listenden düşen karakterleri bu kanalda takip et",
-  "CATEGORY": "İstek listesi",
-  "CHANNEL_SET": "> İstek listeniz {{channel}} kanalına ayarlandı",
-  "CHANNEL_REMOVE": "> İstek listesi kanalınız kaldırılmıştır"
+    "DESCRIPTION": "İstek listenizi bir kanala ayarlayın",
+    "CATEGORY": "İstek listesi",
+    "CHANNEL_SET": "> İstek listeniz {{channel}} kanalına ayarlandı",
+    "CHANNEL_REMOVE": "> İstek listeniz {{channel}} kanalından kaldırıldı"
 }
