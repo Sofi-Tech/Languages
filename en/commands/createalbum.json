@@ -10,7 +10,7 @@
     "ALBUM_CREATE_CONFIRMATION": "You are about to create an album with the name {{albumName}}\nCreating albums is free, but you have to purchase pages with `Silver`\nUse `salbumconfig/sacf` to configure albums",
     "BUTTON_ACCEPT": "Confirm",
     "BUTTON_DENY": "Deny",
-    "NO_AMOUNT": "You don't have enough amount",
+    "NO_AMOUNT": "You do not have enough wist to create an album",
     "ALBUM_SUCCESS": "The album was successfully created",
     "CANCEL": "Album creation was cancelled"
 }
