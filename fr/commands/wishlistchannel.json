@@ -1,6 +1,6 @@
 {
-  "DESCRIPTION": "Définir le salon dans lequel être mentionné lors de l'apparition de vos souhaits",
-  "CATEGORY": "Liste de souhaits",
-  "CHANNEL_SET": "> Votre liste de souhait a été défini dans {{channel}}",
-  "CHANNEL_REMOVE": "> Votre liste de souhait a été retirer de {{channel}}"
+    "DESCRIPTION": "Définir le salon dans lequel être mentionné lors de l'apparition de vos souhaits",
+    "CATEGORY": "Liste de souhaits",
+    "CHANNEL_SET": "> Votre liste de souhait a été défini dans {{channel}}",
+    "CHANNEL_REMOVE": "> Votre liste de souhait a été retirer de {{channel}}"
 }
