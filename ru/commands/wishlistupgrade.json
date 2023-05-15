@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Обновите свой список желаний",
-  "CATEGORY": "Список желаний",
-  "ALREADY_MAXED": "> {{author}} ваш список желаний уже полностью заполнен",
-  "EMBED_DESCRIPTION": "Хотите купить дополнительные {{count}} слотов за {{amount}} {{currency}}?",
-  "EMBED_PAY_FIELD_NAME": "Вы платите:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Вы получаете:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} дополнительных слотов списка желаний```",
-  "EMBED_MAXED_DESCRIPTION": "Хотите заполнить свой список желаний до максимума за {{amount}} {{currency}}?",
-  "EMBED_MAXED_FIELD_VALUE": "```Заполнить до 50 слотов списка желаний```",
-  "SUCCESS": "УСПЕШНО",
-  "CANCELLED": "ОТМЕНЕНО",
-  "PAY_ERROR": "`У вас недостаточно {{amount}} {{currency}}`"
+    "DESCRIPTION": "Обновите свой список желаний",
+    "CATEGORY": "Список желаний",
+    "ALREADY_MAXED": "> {{author}} ваш список желаний уже полностью заполнен",
+    "EMBED_DESCRIPTION": "Хотите купить дополнительные {{count}} слотов за {{amount}} {{currency}}?",
+    "EMBED_PAY_FIELD_NAME": "Вы платите:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Вы получаете:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} дополнительных слотов списка желаний```",
+    "EMBED_MAXED_DESCRIPTION": "Хотите заполнить свой список желаний до максимума за {{amount}} {{currency}}?",
+    "EMBED_MAXED_FIELD_VALUE": "```Заполнить до 50 слотов списка желаний```",
+    "SUCCESS": "УСПЕХ",
+    "CANCELLED": "ОТМЕНЕНО",
+    "PAY_ERROR": "`У вас недостаточно {{amount}} {{currency}}`"
 }
