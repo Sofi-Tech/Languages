@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "Richiedi il tuo `sdaily` e mantieni la serie di vittorie per ottenere fantastici premi!",
-  "CATEGORY": "Carte",
-  "EMBED_AUTHOR": "Premi giornalieri di {{author}}",
-  "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}} \n",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} premi giornalieri rimasti per ottenere un Baule comune",
-  "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} premi giornalieri rimasti per ottenere un Baule raro",
-  "NOTE": "\n⚠️ Discord o Sofi Staff non chiederanno mai password, OTPs o cambio email né comunicheranno utilizzando bot di terze parti come Mee6/Dyno. Qualsiasi cosa ti venga offerta gratuitamente o ti venga chiesto di entrare in un server è sospetta. Segnalalo a {{link}}.",
-  "EMBED_FOOTER": "Striscia [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "Grazie per aver richiesto il tuo premio `Daily`!\n",
-  "GUILD_BONUS": "Bonus server Top 20 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "DESCRIPTION": "Richiedi il tuo `sdaily` e mantieni la serie di vittorie per ottenere fantastici premi!",
+    "CATEGORY": "Carte",
+    "EMBED_AUTHOR": "Premi giornalieri di {{author}}",
+    "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}} \n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__`Daily`rimasto per reclamare a `Common Chest`",
+    "RARE_CHEST": "<:rarechest:927204672270372874>__{{count}}x__ `Daily`rimasto per reclamare a`Rare Chest`",
+    "NOTE": "⚠️ Discord, così come lo staff di Sofi **__mai__** farà quanto segue:\n- Richiedi la tua `password` o \"password monouso OTP\".\n- Consigliare di cambiare la tua E-Mail\n- Utilizzare metodi di terze parti, come \"`Mee6` o `Dyno` per comunicare con te.\n\nQualsiasi attività sospetta relativa a quanto sopra menzionato deve essere immediatamente segnalata a {{link}}! ⚠️",
+    "EMBED_FOOTER": "Striscia [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Grazie per aver richiesto il tuo premio `Daily`!",
+    "GUILD_BONUS": "Dato che stai usando questo comando su uno dei 20 migliori server Sofi, la tua ricompensa `Daily` è aumentata di x1,5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

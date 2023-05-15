@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Puoi cercare un personaggio nello specifico usando il comando `scl`. Nel menu di ricerca del personaggio, puoi controllare le statistiche della carta, le loro immagini 3D/animate, così come la classifica gen, la classifica dei fan e il `Card ID`.\n- Il `Card ID` è richiesto quando si inviano immagini per nuove versioni.",
     "CHAR_NOT_FOUND": "Impossibile trovare il personaggio",
-    "CHAR_NF_SENSITIVE": "Nessun personaggio trovato. [La ricerca è sensibile alle maiuscole e minuscole!]",
+    "CHAR_NF_SENSITIVE": "Nessun carattere trovato. [La funzione `lookup` fa distinzione tra maiuscole e minuscole!]",
     "EMBED_TITLE": "__Ricerca Personaggio__",
     "NORMAL_LABEL": "Versione Normale",
     "FAN_PTS_LABEL": "Aggiungi Punti Fan",

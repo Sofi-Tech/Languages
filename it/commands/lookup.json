@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Visualizza le varianti Versione/3D/gif di un personaggio",
     "CHAR_NOT_FOUND": "Impossibile trovare il personaggio",
-    "CHAR_NF_SENSITIVE": "Nessun personaggio trovato. [La ricerca è sensibile alle maiuscole e minuscole!]",
+    "CHAR_NF_SENSITIVE": "Nessun carattere trovato. [La funzione `lookup` fa distinzione tra maiuscole e minuscole!]",
     "EMBED_TITLE": "__Ricerca Personaggio__",
     "SUBMITTED": "Inviato da: <@{{userID}}>",
     "EMBED_FOOTER": "Trova v1 usando `scl` | Invia le versioni usando `ssc`",
