@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten dropen.\n- Benutze den Befehl \"sdn\", um Karten zu dropen ohne Bilder anzuzeigen. Nützlich, wenn du Datenvolumen sparen oder lags vermeiden willst.",
-  "JOIN_SUPPORT_SERVER": "[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)",
-  "EXTRA_GRAB_ALERT": "{{author}} Dein **Extra-Drop** wurde verwendet. Du hast noch `{{remaining}}`.*",
-  "ON_CD": "{{author}} Versuche es in {{dropCd}} erneut.",
-  "VOTE": "Vote",
-  "BUY_DROP": "\nDu kannst auch voten, um Drops zu kaufen - `sbuy drop`"
+    "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten droppen.\n- Benutze den Befehl `sdn`, um Karten zu dropen ohne Bilder anzuzeigen. Nützlich, wenn du Datenvolumen sparen oder Verzögerungen vermeiden willst.",
+    "JOIN_SUPPORT_SERVER": "[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)",
+    "EXTRA_GRAB_ALERT": "{{author}} Dein **Extra-Drop** wurde verwendet. Du hast noch `{{remaining}}`übrig.*",
+    "ON_CD": "{{author}} Versuche es in {{dropCd}} erneut",
+    "VOTE": "Vote",
+    "BUY_DROP": "\nDu kannst auch `Voten`, um `Drops` zu kaufen - `sbuy drop`"
 }
