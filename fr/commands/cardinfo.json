@@ -6,7 +6,7 @@
     "CARD_MORPHED": "La carte est Morph",
     "CARD_GLOWED": "La carte possède l'effet de `Glow` suivant: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Couleur de police: {{fontName}} [`#{{viewCode}}`]\n",
-    "CARD_FRAMED": "La carte possède la `Frame`suivante: __{{frameName}}__\n",
+    "CARD_FRAMED": "La carte possède la `Frame`suivante __{{frameName}}__\n",
     "CARD_CFRAMED": "La carte possède la `Frame`suivante: __{{frameName}}__ `{{frameCode}}`\n",
     "SHOW_GEN": "Montrer Gen",
     "SERIES": "Série",

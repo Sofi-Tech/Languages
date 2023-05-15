@@ -3,6 +3,6 @@
     "CATEGORY": "Liste de souhaits",
     "NO_INDEX": "Aucun nom ni nombre fournis ! Pour supprimer toute votre liste de shouhait, utilisez la command `swr full reset`",
     "FULL_RESET": "> {{author}} {{total}} personnages retiré de votre liste de souhaits",
-    "REMOVE_CHARACTER": "> {{author}} {{name}} a été retiré de votre liste de souhaits",
+    "REMOVE_CHARACTER": "> {{author}} a retirer \"{{name}}\" de sa liste de souhaits",
     "NO_RESULTS": "> {{author}} aucun résultat trouvé pour {{name}}"
 }
