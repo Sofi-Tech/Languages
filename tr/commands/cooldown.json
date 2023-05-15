@@ -6,5 +6,5 @@
     "VOTE": "Oy Ver",
     "BUMP": "Bump",
     "DAILY": "Günlük",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta | `{{customPrefix}}mail` kullanın"
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta(lar) | `{{customPrefix}}mail`komutu ile kontrol edebilirsiniz"
 }

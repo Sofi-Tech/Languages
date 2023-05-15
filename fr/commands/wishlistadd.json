@@ -2,7 +2,7 @@
     "DESCRIPTION": "Ajoutez des personnages à votre liste de souhaits",
     "CATEGORY": "Liste de souhaits",
     "ADD_CHARACTERS_ERROR": "> Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
-    "SEARCH_CHARACTER_ERROR": "Fournissez un nom de personnage à ajouter\nUtilisez `swa -f <nom>` pour une recherche précise",
+    "SEARCH_CHARACTER_ERROR": "Fournissez un nom de personnage pour l'ajouter a votre liste de souhaits\nUtilisez `swa -f <nom>` pour une recherche précise",
     "NO_CHARACTER_FOUND": "Aucun personnage n'a été trouvé\nUtilisez `swa -f <nom>` pour une recherche précise",
     "CHARACTER_ALREADY_EXISTS": "{{name}} est déjà dans votre liste de souhaits!",
     "CHARACTER_ADDED": "> {{author}} | {{name}} à été ajouter à votre liste de souhaits",

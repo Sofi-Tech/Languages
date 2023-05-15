@@ -10,7 +10,7 @@
     "NO_CODE": "{{author}} kart kodunu belirtmeyi unuttunuz",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `sgive <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "Bu koda sahip herhangi bir kart bulunamadı: {{code}}",
-    "CARD_LOCKED": "Bu kart kilitli ve başkasına verilemez! Devam etmek için kartın kilidini kaldırın",
+    "CARD_LOCKED": "Bu kart kilitli ve başkasına verilemez! Devam etmek için `suntag <cardcode>`ile kartın `Tag`ını kaldırın",
     "CARD_NOT_OWNED": "Artık bu karta sahip değilsiniz",
     "SUCCESS": "BAŞARILI",
     "CANCELLED": "İptal edildi",

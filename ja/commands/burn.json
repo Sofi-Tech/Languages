@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "クリスタルやシルバーを取得してキューブを作成したり、ボットで他のアイテムを購入することができるように、カードを焼却してください。sbを入力すると、最後に請求されたカードが燃やされます。",
+    "DESCRIPTION": "カードを燃やして、 `Cubes` を作成し、ボットでさまざまなアイテムを購入するために使用できる `Crystals`および `Silver`を取得します。タイピング `sb` 最後のクレームカードを燃やします。",
     "GUILDSTONE_BURN": "`Guild Stone`交換を確定する",
     "GUILDSTONE_NOT_FOUND": "お持ちの `Guild Stone` 数をご確認ください",
     "SUCCESS": "完了しました",
     "CANCELLED": "キャンセルしました",
-    "BURN_FRAG_WARN": "フラグを焼却しようとしています\nフラグコード：`{{fragCode}}`",
+    "BURN_FRAG_WARN": "`Fragment`を燃やそうとしています\n`Fragment`コード：`{{fragCode}}`",
     "FRAG_NOT_FOUND": "`Fragment`は見つかりません",
     "CARD_NOT_FOUND": "そのカードが見つかりません",
     "CARD_LOCKED": "このカードがロックされています",

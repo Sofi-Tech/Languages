@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Add characters to your wishlist",
-  "CATEGORY": "Wishlist",
-  "ADD_CHARACTERS_ERROR": "> You can't add more characters to wishlist",
-  "SEARCH_CHARACTER_ERROR": "Provide a character name to add\nUse `swa -f <name>` for exact search",
-  "NO_CHARACTER_FOUND": "No character was found\nUse `swa -f <name>` for exact search",
-  "CHARACTER_ALREADY_EXISTS": "{{name}} is already on your wishlist!",
-  "CHARACTER_ADDED": "> {{author}} | Added {{name}} to your wishlist",
-  "EMBED_TITLE": "<:lined:868888105611046942> __Add to wishlist__"
+    "DESCRIPTION": "Add characters to your wishlist",
+    "CATEGORY": "Wishlist",
+    "ADD_CHARACTERS_ERROR": "> You can't add more characters to wishlist",
+    "SEARCH_CHARACTER_ERROR": "Provide a character name to add them to your wishlist\nUse the command `swa -f <name>` for an exact search",
+    "NO_CHARACTER_FOUND": "No character was found\nUse the command `swa -f <name>` for an exact search",
+    "CHARACTER_ALREADY_EXISTS": "{{name}} is already on your wishlist!",
+    "CHARACTER_ADDED": "> {{author}} | Added {{name}} to your wishlist",
+    "EMBED_TITLE": "<:lined:868888105611046942> __Add to wishlist__"
 }
