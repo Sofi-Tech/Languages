@@ -1,6 +1,6 @@
 # Weblate Translation for [Sofi]
 
-This repository contains translation files for [Sofi] which are managed using Weblate, an open-source web-based translation platform.
+This repository contains translation files for [Sofi], which are managed using Weblate, an open-source web-based translation platform.
 
 ## Getting Started
 
@@ -21,6 +21,17 @@ When translating, please keep the following guidelines in mind:
 
 ## Feedback and Issues
 
-If you encounter any issues or have feedback about the translation process, please report it to the developers in the translation forum.
+If you encounter any issues or have feedback about the translation process, please report them to the developers in the translation forum.
 
 Thank you for contributing to [Sofi] translations!
+
+## Team
+
+### Translation Lead: Voxelli
+GitHub: [Voxelli](https://github.com/legendhimself)
+
+### Translation Extractors: Sarcaster, Hound, Voxelli
+GitHub: [Sarcaster](https://github.com/sarcasterXO), [Hound](https://github.com/Warrior-hound), [Voxelli](https://github.com/legendhimself)
+
+### Source Translators & Reviewers: Crowdslay & Shoxie
+### All the Sofi [players](https://translate.sofi.gg/stats/) who are helping in translating the bot into 16 langauges.
