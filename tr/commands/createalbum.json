@@ -7,7 +7,7 @@
     "ALBUM_NAME_LONG": "Bu albüm adı çok uzun. 20 karakterden az bir ad deneyin",
     "MAX_ALBUMS": "{{author}} En fazla 10 albüme sahip olabilirsiniz",
     "ALBUM_NAME_EXISTS": "{{author}} '{{name}}' adlı albüm zaten mevcut",
-    "ALBUM_CREATE_CONFIRMATION": "{{albumName}} adlı albüm oluşturmak üzeresiniz\nAlbüm oluşturmak ücretsizdir ancak sayfalar `Silver`a mağal olur\nAlbümleri yapılandırmak için `salbumconfig/sacf` kullanın",
+    "ALBUM_CREATE_CONFIRMATION": "{{albumName}} adlı albüm oluşturmak üzeresiniz\nAlbüm oluşturmak ücretsizdir ancak sayfalar `Silver`a mağal olur\nAlbümleri yapılandırmak için `sacf` komutunu kullanın",
     "BUTTON_ACCEPT": "Onayla",
     "BUTTON_DENY": "Reddet",
     "NO_AMOUNT": "Yeterli miktarda paranız yok",
