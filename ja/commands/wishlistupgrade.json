@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "ウィッシュリストをアップグレードする",
-  "CATEGORY": "ウィッシュリスト",
-  "ALREADY_MAXED": "> {{author}} ウィッシュリストのスロットはすでに最大です",
-  "EMBED_DESCRIPTION": "追加の{{count}}スロットを{{amount}} {{currency}}で購入しますか？",
-  "EMBED_PAY_FIELD_NAME": "支払う金額：",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "獲得できるスロット：",
-  "EMBED_GET_FIELD_VALUE": "```{{count}}個の追加ウィッシュリストスロット```",
-  "EMBED_MAXED_DESCRIPTION": "{{amount}} {{currency}}でウィッシュリストスロットを最大にしますか？",
-  "EMBED_MAXED_FIELD_VALUE": "```50個のウィッシュリストスロットに最大化```",
-  "SUCCESS": "成功",
-  "CANCELLED": "キャンセルしました",
-  "PAY_ERROR": "`{{amount}} {{currency}}を所持していません`"
+    "DESCRIPTION": "ウィッシュリストをアップグレードする",
+    "CATEGORY": "ウィッシュリスト",
+    "ALREADY_MAXED": "> {{author}} ウィッシュリストのスロットはすでに最大です",
+    "EMBED_DESCRIPTION": "追加の{{count}}スロットを{{amount}} {{currency}}で購入しますか？",
+    "EMBED_PAY_FIELD_NAME": "支払う金額：",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "獲得できるスロット：",
+    "EMBED_GET_FIELD_VALUE": "```{{count}}個の追加ウィッシュリストスロット```",
+    "EMBED_MAXED_DESCRIPTION": "{{amount}} {{currency}}でウィッシュリストスロットを最大にしますか？",
+    "EMBED_MAXED_FIELD_VALUE": "```50個のウィッシュリストスロットに最大化```",
+    "SUCCESS": "完了しました",
+    "CANCELLED": "キャンセルしました",
+    "PAY_ERROR": "`{{amount}} {{currency}}を所持していません`"
 }
