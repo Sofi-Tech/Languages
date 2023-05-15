@@ -11,7 +11,7 @@
     "VERIFY_TO_PLAY": "Verifícate en <https://sofi.gg/verify> para jugar",
     "USER_QUARANTINED": "El usuario está {{isQuarantined}}",
     "USER_BLACKLISTED": "El usuario está en la lista negra",
-    "GLOBAL_COOLDOWN": "> [`Global`] Espera {{cooldown}} antes de usar el comando",
+    "GLOBAL_COOLDOWN": "> [`Global`] Espera {{cooldown}} antes de usar este comando de nuevo",
     "COMMAND_BLACKLISTED": "> El comando `{{commandName}}` está deshabilitado en este canal",
     "REQUIRE_CLIENT_PERMISSIONS": "`Necesito: {{permissions}} para ejecutar este comando`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Necesitas: {{permissions}} para usar ese comando`",

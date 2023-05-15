@@ -15,7 +15,7 @@
     "COMMAND_BLACKLISTED": "> The command `{{commandName}}` is disabled in this channel",
     "REQUIRE_CLIENT_PERMISSIONS": "`I require: {{permissions}} to execute this command`",
     "REQUIRE_MEMBER_PERMISSIONS": "`You require: {{permissions}} to use this command`",
-    "COMMAND_COOLDOWN": "> [`{{command.name}}`] Wait for {{cooldown}} before using the command.",
+    "COMMAND_COOLDOWN": "> [`{{command}}`] Wait for {{cooldown}} before using the command.",
     "REGISTER_USER": "{{author}} | Use the command`{{prefix}}register` and proceed to the site to verify",
     "USER_COMMAND_QUEUE": "<@{{id}}> You need to complete the {{existsFor}} command before you can proceed",
     "AUTHOR_COMMAND_QUEUE": "Complete the {{existsFor}} command before proceeding",
