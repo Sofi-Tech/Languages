@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Menghapus Karakter dari wishlist Anda",
-  "CATEGORY": "Wishlist",
-  "NO_INDEX": "Tidak ada nama atau nomor yang diberikan | Untuk menghapus seluruh wishlist, gunakan `full reset`",
-  "FULL_RESET": "> {{author}} menghapus {{total}} karakter dari wishlist Anda",
-  "REMOVE_CHARACTER": "> {{author}} menghapus {{name}} dari wishlist Anda",
-  "NO_RESULTS": "> {{author}} tidak ditemukan hasil untuk {{name}}"
+    "DESCRIPTION": "Menghapus karakter dari wishlist Anda",
+    "CATEGORY": "Wishlist",
+    "NO_INDEX": "Tidak ada nama atau nomor yang diberikan! Untuk menghapus seluruh wishlist, gunakan perintah`full reset`",
+    "FULL_RESET": "> {{author}} menghapus {{total}} karakter dari wishlist Anda",
+    "REMOVE_CHARACTER": "> {{author}} menghapus \"{{name}}\" dari wishlist Anda",
+    "NO_RESULTS": "> {{author}} tidak ditemukan hasil untuk {{name}}"
 }

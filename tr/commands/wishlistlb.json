@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Takım listesini görüntüler",
-  "CATEGORY": "İstek listesi",
-  "EMBED_TITLE": "TAKIM LİSTESİ - {{type}}",
-  "EMBED_FOOTER": "{{totalPages}} sayfadan {{page}}. sayfayı gösteriyor",
-  "CHARACTER_BUTTON_LABEL": "Karakterler",
-  "SERIES_BUTTON_LABEL": "Diziler"
+    "DESCRIPTION": "İstek listesi skor tablosunu gösterir",
+    "CATEGORY": "İstek listesi",
+    "EMBED_TITLE": "TAKIM LİSTESİ - {{type}}",
+    "EMBED_FOOTER": "{{totalPages}} sayfadan {{page}}. sayfayı gösteriyor",
+    "CHARACTER_BUTTON_LABEL": "Karakterler",
+    "SERIES_BUTTON_LABEL": "Diziler"
 }

@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Tingkatkan daftar keinginan Anda",
-  "CATEGORY": "Wishlist",
-  "ALREADY_MAXED": "> {{author}} slot daftar keinginanmu sudah maksimal",
-  "EMBED_DESCRIPTION": "Apakah kamu ingin membeli {{count}} slot tambahan dengan harga {{amount}} {{currency}}?",
-  "EMBED_PAY_FIELD_NAME": "Kamu membayar:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Kamu mendapatkan:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} slot daftar keinginan extra```",
-  "EMBED_MAXED_DESCRIPTION": "Apakah kamu ingin memaksimalkan slot daftar keinginanmu dengan harga {{amount}} {{currency}}?",
-  "EMBED_MAXED_FIELD_VALUE": "```Maksimalkan menjadi 50 slot daftar keinginan```",
-  "SUCCESS": "BERHASIL",
-  "CANCELLED": "DIBATALKAN",
-  "PAY_ERROR": "`Kamu tidak memiliki {{amount}} {{currency}}`"
+    "DESCRIPTION": "Perbarui wishlist Anda",
+    "CATEGORY": "Wishlist",
+    "ALREADY_MAXED": "> {{author}} slot wishlist Anda sudah maksimal!",
+    "EMBED_DESCRIPTION": "Apakah Anda ingin membeli {{count}} slot tambahan dengan harga {{amount}} {{currency}}?",
+    "EMBED_PAY_FIELD_NAME": "Anda membayar:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Anda mendapatkan:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} slot ekstra wishlist ```",
+    "EMBED_MAXED_DESCRIPTION": "Apakah Anda ingin memaksimalkan slot wishlist dengan harga {{amount}} {{currency}}?",
+    "EMBED_MAXED_FIELD_VALUE": "```Maksimalkan menjadi 50 slot wishlist```",
+    "SUCCESS": "BERHASIL",
+    "CANCELLED": "DIBATALKAN",
+    "PAY_ERROR": "`Anda tidak memiliki {{amount}} {{currency}}`"
 }
