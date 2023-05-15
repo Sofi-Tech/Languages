@@ -1,7 +1,7 @@
 {
-  "DESCRIPTION": "Dies wird die Codes von zwei ausgewählten Karten tauschen",
-  "SLASH_DESC": "Gib den ersten Code ein",
-  "SLASH_DESC2": "Gib den zweiten Code ein.",
-  "NO_CODES_PROVIDED": "Bitte gib zwei Karten-Codes ein.",
-  "INVALID_CODES_PROVIDED": "Bitte gib zwei gültige Karten-Codes ein."
+    "DESCRIPTION": "Diese Aktion wird die Codes von zwei ausgewählten Karten tauschen",
+    "SLASH_DESC": "Gib den ersten Code an.",
+    "SLASH_DESC2": "Gebe den zweiten Code an.",
+    "NO_CODES_PROVIDED": "Bitte gebe zwei Karten-Codes an.",
+    "INVALID_CODES_PROVIDED": "Bitte gib zwei gültige Karten-Codes an."
 }
