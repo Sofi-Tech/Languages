@@ -7,10 +7,10 @@
     "ALBUM_NAME_LONG": "Ese nombre de álbum es demasiado largo. Inténtalo con un nombre de menos de 20 caracteres",
     "MAX_ALBUMS": "{{author}} Solo puedes tener un máximo de 10 álbumes",
     "ALBUM_NAME_EXISTS": "{{author}} Ya existe un álbum con el nombre`{{name}}`",
-    "ALBUM_CREATE_CONFIRMATION": "Estás a punto de crear un álbum con el nombre {{albumName}}\nLa creación de álbumes es gratuita, pero tienes que comprar páginas con `Silvers`\nUsa `salbumconfig / sacf` para configurar álbumes",
+    "ALBUM_CREATE_CONFIRMATION": "Estás a punto de crear un álbum con el nombre {{albumName}}\nLa creación de álbumes es gratuita, pero tienes que comprar páginas con `Silvers`\nUsa `salbumconfig` o `sacf` para configurar álbumes",
     "BUTTON_ACCEPT": "Confirmar",
     "BUTTON_DENY": "Cancelar",
     "NO_AMOUNT": "No tienes suficientes `Wists` para crear un album",
     "ALBUM_SUCCESS": "El álbum se creó con éxito",
-    "CANCEL": "La creación del álbum fue cancelada"
+    "CANCEL": "El proceso fue cancelado"
 }

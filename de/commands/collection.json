@@ -21,8 +21,8 @@
     "SORT_HP": "Nach HP sortieren",
     "SORT_DUPE": "Nach Duplikaten sortieren",
     "SHOWING PAGE": "Seite: {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "Allen {{taglength}} Karten wurde erfolgreich der Tag entfernt.",
-    "ALL_TAG_SUCCESS": "{{author}} Allen {{taglength}} Karten wurden erfolgreich ein Tag hinzugefügt.",
-    "PLEASE_WAIT": "Einen Moment Geduld <a:ping:876612181725167687>",
+    "ALL_UNTAG_SUCCESS": "Bei allen {{taglength}} Karten wurde erfolgreich der Tag entfernt.",
+    "ALL_TAG_SUCCESS": "{{author}} Allen {{taglength}} Karten wurden erfolgreich ein `tag` hinzugefügt",
+    "PLEASE_WAIT": "Einen Moment <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "Ich schätzen den Versuch wert, aber es wurden keine tags gefunden"
 }

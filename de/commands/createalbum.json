@@ -5,12 +5,12 @@
     "PROVIDE_ALBUM_NAME": "{{author}} Gib einen Albumnamen ein",
     "ALBUM_NAME_ERROR": "Der Albumname muss alphanumerisch sein und darf folgendes nicht beeinhalten:\n- Sonderzeichen\n- Leerzeichen\n- Großbuchstaben",
     "ALBUM_NAME_LONG": "Dieser Albumname ist zu lang. Versuche es mit weniger als 20 Zeichen",
-    "MAX_ALBUMS": "{{author}} Du kannst maximal 10 Alben haben.",
-    "ALBUM_NAME_EXISTS": "{{author}} Das Album mit dem Namen `{{name}}` existiert bereits",
-    "ALBUM_CREATE_CONFIRMATION": "Sie möchten ein Album mit dem Namen {{albumName}} erstellen.\nDas Erstellen von Alben ist kostenlos, aber Seiten kosten Silber.\nVerwenden Sie `salbumconfig/sacf`, um Alben zu konfigurieren",
-    "BUTTON_ACCEPT": "Bestätige",
-    "BUTTON_DENY": "Nicht jetzt",
-    "NO_AMOUNT": "Sie haben nicht genug Betrag",
-    "ALBUM_SUCCESS": "Album wurde erfolgreich erstellt",
-    "CANCEL": "Abgebrochen"
+    "MAX_ALBUMS": "{{author}} Du kannst maximal 10 Alben haben",
+    "ALBUM_NAME_EXISTS": "{{author}} Ein Album mit dem Namen `{{name}}` existiert bereits",
+    "ALBUM_CREATE_CONFIRMATION": "Du bist kurz davor ein Album mit dem Namen {{albumName}} zu erstellen.\nDas Erstellen von Alben ist kostenlos, Seiten kosten jedoch `Silver`.\nVerwende `salbumconfig` oder `sacf`, um deine Alben zu konfigurieren",
+    "BUTTON_ACCEPT": "Bestätigen",
+    "BUTTON_DENY": "Ablehnen",
+    "NO_AMOUNT": "Du hast night genügend `Wists` um ein Album zu erstellen",
+    "ALBUM_SUCCESS": "Das Album wurde erfolgreich erstellt",
+    "CANCEL": "Der Prozess wurde abgebrochen"
 }
