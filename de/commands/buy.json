@@ -2,13 +2,13 @@
     "DESCRIPTION": "Kaufe Gegenstände aus dem Shop",
     "SLASH_DESC": "Gebe den Namen des Items ein, das du kaufen möchtest.",
     "SLASH_DESC2": "Gib eine Menge an.",
-    "SLASH_DESC3": "Gib den Code des `Backgrounds`an, den du kaufen möchtest. [FUNKTIONIERT NUR, WENN DAS ITEM ALS `BACKGROUND` AUSGEWÄHLT WURDE!]",
-    "NO_ITEM": "Bitte gib einen Gegenstand an, den du kaufen möchtest.",
+    "SLASH_DESC3": "Gib den Code des `Backgrounds`an, den du kaufen möchtest. [FUNKTIONIERT AUSSCHLIESLICH, WENN DAS ITEM ALS `BACKGROUND` AUSGEWÄHLT WURDE!]",
+    "NO_ITEM": "Bitte gebe einen Gegenstand an, den du kaufen möchtest.",
     "TRADEPASS_INFO": "Du kannst 1 `Bump` benutzen um einen 4-Stunden Trade Pass zu kaufen oder 20 Bumps ansparen um einen 30-Tage Trade Pass zu kaufen.",
     "CORRECT_USAGE": "{{USER}} Korrekte Verwendung: `{{prefix}}buy bg <bgID> [Menge]`",
     "INVALID_BG_AMOUNT": "Gib keine negativen Mengen an!",
-    "INVALID_BG_ID": "Bitte gib eine gültige Background-ID an.",
-    "NO_ITEM_PROVIDED": "Es wurde kein Gegenstand angegeben.",
+    "INVALID_BG_ID": "Bitte gib eine gültige `Background`-ID an.",
+    "NO_ITEM_PROVIDED": "kein Gegenstand angegeben.",
     "INVALID_AMOUNT": "Es wurde eine ungültige Menge angegeben.",
     "INVALID_ITEM_PROVIDED": "{{USER}} - Du hast einen ungültigen Gegenstand angegeben."
 }
