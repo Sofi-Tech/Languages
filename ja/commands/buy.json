@@ -4,7 +4,7 @@
     "SLASH_DESC2": "購入する金額を入力してください",
     "SLASH_DESC3": "購入する `Background`のコードを入力してください。 [アイテムが背景として選択されている場合にのみ機能します]",
     "NO_ITEM": "購入するアイテムを指定してください",
-    "TRADEPASS_INFO": "シルバーを通じたトレードパスの購入は中止されました。1つのバンプで4時間のトレードパスを購入するか、20つのバンプを貯めて30日間購入してください。",
+    "TRADEPASS_INFO": "1 `Bump` を使用して4時間の `Trade Pass` を購入するか、20 `Bump`を節約して30日間の `Trade Pass`を購入できます",
     "CORRECT_USAGE": "{{USER}} 正しい使用方法: `{{prefix}}buy bg <bgID> [amount]`",
     "INVALID_BG_AMOUNT": "背景の個数は正の値でなければなりません",
     "INVALID_BG_ID": "正しい背景IDを入力してください",

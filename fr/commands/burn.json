@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "Brûlez des cartes pour obtenir des `Crystals` et des`Silver`, qui peuvent être utilisés pour fabriquer des `Cubes` et acheter divers autres articles dans le bot. En tapant `sb`brûle la dernière carte obtenue.",
-  "GUILDSTONE_BURN": "Vous êtes sur le point d'utiliser une `Guild Stone`",
-  "GUILDSTONE_NOT_FOUND": "Vous n'avez pas de `Guild Stone` à échanger",
-  "SUCCESS": "SUCCÈS",
-  "CANCELLED": "ANNULÉ",
-  "BURN_FRAG_WARN": "Vous êtes sur le point de brûler un `Fragment` \nCode du `Fragment` : `{{fragCode}}`",
-  "FRAG_NOT_FOUND": "Aucun `Fragment` trouvé",
-  "CARD_NOT_FOUND": "Impossible de trouver cette carte",
-  "CARD_LOCKED": "La carte est verrouillée",
-  "CARD_NOT_OWNED": "Vous ne possédez pas cette carte"
+    "DESCRIPTION": "Brûlez des cartes pour obtenir des `Crystals` et des`Silver`, qui peuvent être utilisés pour fabriquer des `Cubes` et acheter divers autres articles dans le bot. En tapant `sb` cela brûle la dernière carte obtenue.",
+    "GUILDSTONE_BURN": "Vous êtes sur le point d'utiliser une `Guild Stone`",
+    "GUILDSTONE_NOT_FOUND": "Vous n'avez pas de `Guild Stone` à échanger",
+    "SUCCESS": "SUCCÈS",
+    "CANCELLED": "ANNULÉ",
+    "BURN_FRAG_WARN": "Vous êtes sur le point de brûler un `Fragment` \nCode du `Fragment` : `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "Aucun `Fragment` trouvé",
+    "CARD_NOT_FOUND": "Impossible de trouver cette carte",
+    "CARD_LOCKED": "La carte est verrouillée",
+    "CARD_NOT_OWNED": "Vous ne possédez pas cette carte"
 }

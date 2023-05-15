@@ -15,7 +15,7 @@
     "COMMAND_BLACKLISTED": "> El comando `{{commandName}}` está deshabilitado en este canal",
     "REQUIRE_CLIENT_PERMISSIONS": "`Necesito: {{permissions}} para ejecutar este comando`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Necesitas: {{permissions}} para usar ese comando`",
-    "COMMAND_COOLDOWN": "> [`{{command.name}}`] Espera {{cooldown}} antes de usar el comando.",
+    "COMMAND_COOLDOWN": "> [`{{command}}`] Espera {{cooldown}} antes de usar el comando.",
     "REGISTER_USER": "{{author}} | Usa el comando `{{prefix}}register` y accede al sitio para verificarte",
     "USER_COMMAND_QUEUE": "<@{{id}}> Necesitas completar el comando {{existsFor}} antes de continuar",
     "AUTHOR_COMMAND_QUEUE": "Completa el comando {{existsFor}} antes de continuar",
