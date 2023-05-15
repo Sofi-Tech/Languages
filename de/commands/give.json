@@ -10,9 +10,9 @@
     "NO_CODE": "{{author}} Du hast vergessen, den Karten-Code anzugeben",
     "WRONG_USAGE": "{{author}} Richtige Verwendung: `sgive <Benutzer/Benutzer-ID> <Karten-Code>`",
     "NO_CARD_FOUND": "Es konnte keine Karte mit dem Code `{{code}}` gefunden werden",
-    "CARD_LOCKED": "Die Karte ist gesperrt und kann nicht weitergegeben werden. Entferne den `Tag` der Karte, um fortzufahren",
-    "CARD_NOT_OWNED": "Du besitzt die Karte nicht mehr",
+    "CARD_LOCKED": "Die Karte ist gesperrt und kann nicht weitergegeben werden. Falls du diese dennoch vergeben möchtest, benutze den Befehl `suntag <cardcode>` um den `Tag`dieser Karte zu entfernen.",
+    "CARD_NOT_OWNED": "Du bist nicht mehr im Besitz dieser Karte",
     "SUCCESS": "ERFOLGREICH",
     "CANCELLED": "ABGEBROCHEN",
-    "GIVEN": "Sender => Empfänger"
+    "GIVEN": "Sender → Empfänger"
 }

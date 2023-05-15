@@ -10,9 +10,9 @@
     "NO_CODE": "{{author}}, you forgot to provide the card code",
     "WRONG_USAGE": "{{author}} Correct usage: `sgive <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "Cannot find any card with the code: `{{code}}`",
-    "CARD_LOCKED": "That card is locked and cannot be given away! Untag the card to proceed",
+    "CARD_LOCKED": "That card is locked and cannot be given away! If you still want to give that card away, use the command `suntag <cardcode>` to remove that card's `Tag`.",
     "CARD_NOT_OWNED": "You do not own that card anymore",
     "SUCCESS": "SUCCESS",
     "CANCELLED": "CANCELLED",
-    "GIVEN": "Sender => Receiver"
+    "GIVEN": "Sender → Receiver"
 }
