@@ -3,7 +3,7 @@
     "IN_RAID": "Este comando no se puede usar mientras estás en un raid",
     "SELECT_OPT": "Selecciona una opción",
     "DECK": "Deck",
-    "UNIQUE_WARN": "Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos o raids!",
+    "UNIQUE_WARN": "Todas las habilidades en un mazo tienen que ser únicas para poder usarlas en duelos o raids!",
     "UNLOCK_SLOT": "¿Desbloquear la ranura número {{deckNo}} por 50,000 Silvers?",
     "SLOT_UNLOCKED": "Ranura {{deckNo}} 🔓",
     "MISSING_SILVERS": "No tienes suficientes `Silvers` para desbloquear la ranura",
@@ -13,11 +13,11 @@
     "MISSING_CODES": "> Se necesitan al menos 3 códigos de cartas",
     "INVALID_CODE": "> Código de carta inválido",
     "CODE_REPEAT": "> Los códigos de carta no pueden repetirse",
-    "MOVES_UNIQUE": "Todos los movimientos en el mazo deben ser únicos! Selecciona un movimiento único para cada carta o cambia alguna de las cartas",
+    "MOVES_UNIQUE": "Todas los habilidades en el mazo deben ser únicas! Selecciona una habilidad única para cada carta o cambia alguna de las cartas",
     "SAVE_DECK": "Haz clic en guardar para establecer este mazo",
-    "EMBED_FOOTER": "Nota: Todos los movimientos en un mazo tienen que ser únicos para poder usarlos en duelos o raids!",
+    "EMBED_FOOTER": "Nota: Todas las habilidades en un mazo tienen que ser únicas para poder usarlas en duelos o raids!",
     "UNLOCK_SAVE": "Desbloquea la ranura número {{deckNo}} para guardar un mazo ahí",
     "UNLOCK_GENERATE": "Desbloquea la ranura número {{deckNo}} para generar un mazo aleatorio",
-    "NOT_ENOUGH_CARD": "No tienes suficientes cartas con movimientos diferentes. Por favor, consigue más cartas",
+    "NOT_ENOUGH_CARD": "No tienes suficientes cartas con habilidades diferentes. Por favor, consigue más cartas",
     "UNLOCK_SELECT": "Desbloquea la ranura número {{deckNo}} para poder seleccionar un mazo en ella"
 }
