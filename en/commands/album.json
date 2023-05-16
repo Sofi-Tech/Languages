@@ -7,11 +7,11 @@
     "PLAYER_NOT_EXIST": "{{author}} | That player does not exists",
     "ALBUM_NOT_FOUND": "No albums found for {{username}}",
     "NO_ALBUMS": "{{member}} does not have any albums currently\nUse the command `sca` to create an album\nUse the command `sacf <album> <page>` to configure an album",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} I cannot find any album with the name `{{albumName}}`",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} Could not find any album with the name `{{albumName}}`",
     "NO_PAGES": "{{author}} That album has no pages",
-    "MAX_PAGES_ERROR": "{{author}} The page number must be between 0 and {{maxPages}}",
+    "MAX_PAGES_ERROR": "{{author}} The page number must be between 1 and {{maxPages}}",
     "PROCESSING": "Processing <a:_:876610443148406794>",
-    "MISSING_CARDS": "The album page is missing these mentioned cards:\n{{cardsList}}",
+    "MISSING_CARDS": "This album page is missing the following cards:\n{{cardsList}}",
     "CARDS_LAYOUT_ERROR": "Try setting the cards and layout again to view\nAlbum: `{{albumName}}` Page: `{{pageNumber}}`",
     "PROFILE_OWNED": "Profile owned by {{memberId}}"
 }

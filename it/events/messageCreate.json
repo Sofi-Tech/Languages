@@ -15,13 +15,13 @@
     "COMMAND_BLACKLISTED": "> Il comando `{{commandName}}` è disabilitato in questo canale",
     "REQUIRE_CLIENT_PERMISSIONS": "`Richiedo: {{permissions}} per eseguire questo comando`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Hai bisogno di: {{permissions}} per accedere al comando`",
-    "COMMAND_COOLDOWN": "> [`${command.name}`] Attendi {{cooldown}} prima di utilizzare il comando.",
+    "COMMAND_COOLDOWN": "> [`{{command}}`] Attendi {{cooldown}} prima di utilizzare il comando.",
     "REGISTER_USER": "{{author}} | Per favore digita `{{prefix}}register` e procedi al sito per la verifica",
-    "USER_COMMAND_QUEUE": "<@{{id}}> deve completare il comando {{existsFor}} prima di procedere.",
-    "AUTHOR_COMMAND_QUEUE": "Completa il comando {{existsFor}} prima di procedere.",
+    "USER_COMMAND_QUEUE": "<@{{id}}> deve completare il comando {{existsFor}} prima di procedere",
+    "AUTHOR_COMMAND_QUEUE": "Completa il comando {{existsFor}} prima di procedere",
     "SAFE_MODE": "> Il bot è in modalità sicura. {{eta}}. \nTorno subito ❤",
     "CATEGORY_DISABLED": "> La categoria è stata disabilitata. \nMotivo: `{{category}}`",
     "COMMAND_DISABLED": "> Il comando è stato disabilitato. \nMotivo: `{{command}}`",
-    "NO_PERMISSIONS": "Non ho il permesso per eseguire il comando",
-    "SERIES_DROP": "Serie scaduta"
+    "NO_PERMISSIONS": "Non ho i permessi sufficienti per eseguire questo comando",
+    "SERIES_DROP": "La votazione si è conclusa!"
 }

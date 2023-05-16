@@ -6,12 +6,12 @@
     "USER_NOT_FOUND": "{{author}} | Utilisateur non trouvé!",
     "PLAYER_NOT_EXIST": "{{author}} | Ce joueur n'existe pas",
     "ALBUM_NOT_FOUND": "Aucun album trouvé pour {{username}}",
-    "NO_ALBUMS": "{{member}} n'a aucun album actuellement\nUtilisez la commande `sca` pour créer un album\nUtilisez `sacf <album> <page>` pour la configuration",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} Je ne trouve pas d'album avec le nom `{{albumName}}`",
+    "NO_ALBUMS": "{{member}} n'a aucun album actuellement\nUtilisez la commande `sca` pour créer un album\nUtilisez la commande `sacf <album> <page>` pour configurer un album",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} Je n'ai pas pu trouver d'album avec le nom `{{albumName}}`",
     "NO_PAGES": "{{author}} Cet album n'a pas de pages",
-    "MAX_PAGES_ERROR": "{{author}} Le nombre de page doit être entre 0 et {{maxPages}}",
+    "MAX_PAGES_ERROR": "{{author}} Le nombre de page doit être entre 1 et {{maxPages}}",
     "PROCESSING": "Traitement en cours <a:_:876610443148406794>",
-    "MISSING_CARDS": "La page de l'album ne contient pas les cartes mentionnées :\n{{cardsList}}",
+    "MISSING_CARDS": "Cette page de l'album ne contient pas les cartes suivantes:\n{{cardsList}}",
     "CARDS_LAYOUT_ERROR": "Essayez de définir à nouveau les cartes et la mise en page pour afficher\nAlbum : « {{albumName}} » Page : « {{pageNumber}} »",
     "PROFILE_OWNED": "Profil détenu par {{memberId}}"
 }
