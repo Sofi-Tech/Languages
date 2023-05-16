@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Kartlarla BOSS'a karşı savaşmak için bir deste yapın!",
+    "DESCRIPTION": "Kartlarınla bir deste oluştur ve onları baskınlara katılmak veya diğer oyuncularla savaşmak için kullan!",
     "IN_RAID": "Baskın sırasında bu komut kullanılamaz",
     "SELECT_OPT": "Seçenek seçin",
     "DECK": "Deste",
@@ -13,8 +13,8 @@
     "MISSING_CODES": "> En az 3 kart kodu gereklidir",
     "INVALID_CODE": "> Geçersiz kart kodu girildi",
     "CODE_REPEAT": "> Kart kodları tekrarlanamaz",
-    "MOVES_UNIQUE": "Destedeki tüm yetenekler benzersiz olmalıdır! Farklı bir kart veya aynı kart için farklı yetenekler seçin",
-    "SAVE_DECK": "Bu deste için kaydetmek için kaydete tıklayın",
+    "MOVES_UNIQUE": "Bir destedeki tüm yetenekler **benzersiz** olmalıdır! Devam etmek için farklı kartlar seçin veya yeteneklerini değiştirin",
+    "SAVE_DECK": "Bu desteyi ayarlamak için kaydet'e tıklayın",
     "EMBED_FOOTER": "Not : Duello ve baskın için kullanılan destede tüm yetenekler özel olmalıdır!",
     "UNLOCK_SAVE": "{{deckNo}} numaralı yuvaya deste kaydetmek için yuvayı açınız",
     "UNLOCK_GENERATE": "Rastgele bir deste oluşturmak için {{deckNo}} numaralı yuvayı açınız",
