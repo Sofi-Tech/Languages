@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Exibe versão/3D/variantes animadas de um personagem",
+    "DESCRIPTION": "Exibe versão/3D/variantes GIF de um personagem",
     "CHAR_NOT_FOUND": "Não foi possível encontrar o personagem",
-    "CHAR_NF_SENSITIVE": "Nenhum personagem encontrado, a pesquisa diferencia maiúsculas de minúsculas",
+    "CHAR_NF_SENSITIVE": "Nenhum personagem encontrado. [A função de pesquisa é sensivel a maiúsculas e minúsculas!]",
     "EMBED_TITLE": "__Pesquisa de Personagens__",
     "SUBMITTED": "Enviado por: <@{{userID}}>",
     "EMBED_FOOTER": "Encontre a versão v1 usando scl | Envie versões usando ssc",
