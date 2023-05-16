@@ -1,0 +1,11 @@
+{
+  "TAG_DESCRIPTION": "Tag the card",
+  "TAG_CATEGORY": "Tags",
+  "WRONG_USAGE": "Please provide a tag name.",
+  "NO_TAGS_CREATED": "Appreciate the tagging effort but no tags found. First create a tag by using `stc` command.",
+  "TAG_NOT_FOUND": "You do not have any tag with name `{{tag}}`",
+  "NO_CARDS_CLAIMED": "You haven't claimed any cards yet",
+  "INVALID_CARD_CODE": "{{author}} Invalid Card Code or No card Found",
+  "SUCCESSFUL_TAG": "{{author}} | Successfully tagged {{card}} as `{{tag}}`",
+  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Those cards were tagged successfully"
+}

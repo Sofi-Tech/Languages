@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Tag the unlocked glow",
+  "GT_CATEGORY": "Tags",
+  "GLOWTAGS_NOT_FOUND": "Appreciate the tagging effort but no glow tags found",
+  "GLOWS_NOT_UNLOCKED": "{{author}}you haven't unlocked any glows yet",
+  "MISSING_GLOWTAG": "{{author}} I guess u need to provide a glow tag",
+  "INVALID_GLOW_CODE": "{{author}} Invalid glow code or no glow found",
+  "SUCCESSFULL_GLOWTAG": "{{author}} Successfully tagged **{{glow}}** as {{tag}}",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Those Glows were tagged successfully"
+}
