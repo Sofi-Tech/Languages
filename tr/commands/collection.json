@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- `sc` ile kart koleksiyonunuzu görüntüleyebilirsiniz.\n- Ad, Kozmetik, İstatistikler ve daha fazlasına göre sıralanabilir\n- Koleksiyonunuzdaki etiketlenmemiş kartları bulmak için \"sc t:ut\" kullanın",
+    "DESCRIPTION": "- `sc` ile kart koleksiyonunuzu görüntüleyebilirsiniz.\n- Ad, Kozmetik, İstatistikler ve daha fazlasına göre sıralanabilir\n- İstek Listesi, Gen veya Etiket Adına göre de filtrelenebilir\n- Koleksiyonunuzdaki etiketlenmemiş kartları bulmak için \"sc t:ut\" kullanın",
     "SLASH_CMD_DESC": "Kart koleksiyonunuzu görüntüle",
     "SLASH_DESC": "Koleksiyonunu görüntülemek istediğiniz kullanıcıyı girin",
     "SLASH_DESC2": "Koleksiyona uygulamak istediğiniz filtreleri girin",
@@ -11,7 +11,7 @@
     "CHOOSE_SORTING": "Sıralama Seçin",
     "SORT_CHAR": "Karakterlere göre sıralama",
     "SORT_SERIES": "Seriye göre sıralama",
-    "SORT_GEN": "Generation'a göre sıralama",
+    "SORT_GEN": "Kuşağa Göre Sırala",
     "SORT_WL": "Wishlist'e göre sıralama",
     "CHECK_COSMETICS": "Kozmetikleri Kontrol Et",
     "3D_AVAIL": "3D Mevcudiyet kontrolu",

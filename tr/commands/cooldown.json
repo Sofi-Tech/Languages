@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Aşağıda belirtilen eylemler için bekleme süresini kontrol edebilirsiniz.\n- Drop`, `Grab`, `Vote`, `Raid` ve `Daily`\n- `Drop`, `Vote` ve `Daily`hatırlacısını açmak için zile tıklayın",
+    "DESCRIPTION": "Aşağıda belirtilen eylemler için bekleme süresini kontrol edebilirsiniz.\n- Drop`, `Grab`, `Vote`, `Raid` ve `Daily`\n- `Drop`, `Vote` ve `Daily`hatırlacısını açmak için zile tıklayın!",
     "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)",
     "DROP": "Kart düşür",
     "GRAB": "Al",
-    "VOTE": "Oy Ver",
-    "BUMP": "Bump",
+    "VOTE": "`Vote`ver",
+    "BUMP": "`Bump`",
     "DAILY": "Günlük",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta(lar) | `{{customPrefix}}mail`komutu ile kontrol edebilirsiniz"
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta(lar) | `{{customPrefix}}mail`komutu ile kontrol edebilirsiniz!"
 }

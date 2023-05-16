@@ -6,7 +6,7 @@
     "USER_NOT_FOUND": "{{author}} | Kullanıcı bulunamadı!",
     "PLAYER_NOT_EXIST": "{{author}} | Bu oyuncu mevcut değil",
     "ALBUM_NOT_FOUND": "{{username}} adlı kullanıcıda albüm bulunamadı",
-    "NO_ALBUMS": "{{member}} şu anda herhangi bir albüme sahip değil\nBir albüm oluşturmak için \"sca\" komutunu kullanın\nYapılandırmak için \"sacf <albüm> <sayfa>\" kullanın",
+    "NO_ALBUMS": "{{member}} şu anda herhangi bir albüme sahip değil\nBir albüm oluşturmak için \"sca\" komutunu kullanın\nYapılandırmak için \"sacf <albüm> <sayfa>\"komutunu kullanın",
     "ALBUM_NAME_NOT_FOUND": "{{author}}, `{{albumName}}` adına sahip herhangi bir albüm bulunamıyor",
     "NO_PAGES": "{{author}} Bu albümün sayfası yok",
     "MAX_PAGES_ERROR": "{{author}} Sayfa numarası 0 ile {{maxPages}} arasında olmalıdır",
