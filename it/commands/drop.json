@@ -2,7 +2,7 @@
     "DESCRIPTION": "- Puoi far cadere 3 carte usando questo comando ogni 8 minuti.\n- Usa il comando `sdn` per rilasciare senza alcuna immagine. Utile per i momenti in cui sei a corto di dati o non vuoi ritardare.",
     "JOIN_SUPPORT_SERVER": "[Unisciti al server di supporto per ricevere aiuto!](https://discord.gg/sofi)",
     "EXTRA_DROP_ALERT": "{{author}} Il tuo **Extra Drop** sta venendo utilizzato. `{{remaining}}` rimane.",
-    "ON_CD": "{{author}} perché non riprovi fra {{dropCd}}",
+    "ON_CD": "{{author}} Il tuo `Drop` sarà pronto tra {{dropCd}}",
     "VOTE": "Voto",
-    "BUY_DROP": "\nPuoi anche `Vote` per acquistare `Drops` - `sbuy drop`"
+    "BUY_DROP": "\nPuoi anche `Vote` per ricevere ` Wists`  e acquistare ` Drops`  con loro!\nUsa il comando `sbuy drop <amount>` per farlo"
 }

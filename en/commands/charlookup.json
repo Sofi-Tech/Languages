@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- You can look up a specific character using the `scl` command. In the character lookup menu, you can check the card's statistics, their 3D/animated images, as well as the gen leaderboard, fan leaderboard and the `Card ID`.\n- The `Card ID` is required when submitting images for new versions.",
+    "DESCRIPTION": "- You can look up a specific character using the `scl` command. In the character lookup menu, you can check a card's statistics, their 3D/GIF variants, as well as the gen leaderboard, fan leaderboard and the `Card ID`.\n- The `Card ID` is required when submitting images for new `Versions`.",
     "CHAR_NOT_FOUND": "Cannot find character",
     "CHAR_NF_SENSITIVE": "No character found. [The `lookup` function is case sensitive!]",
     "EMBED_TITLE": "__Character's Lookup__",
