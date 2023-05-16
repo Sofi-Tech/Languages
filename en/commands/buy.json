@@ -5,10 +5,10 @@
     "SLASH_DESC3": "Enter the code of the `Background` you want to buy. [ONLY WORKS IF THE ITEM IS SELECTED AS BACKGROUND]",
     "NO_ITEM": "Please specify an item to buy",
     "TRADEPASS_INFO": "You can exchange **__1x__** `Bump` for a 4-Hour `Trade Pass` or save up **__20x__** `Bumps` to buy a 30-Day `Trade Pass`",
-    "CORRECT_USAGE": "{{USER}} Correct usage: `{{prefix}}buy bg <bgID> [amount]`",
+    "CORRECT_USAGE": "{{USER}} Correct usage: `{{prefix}}buy bg <BackgroundID> <amount>`",
     "INVALID_BG_AMOUNT": "Do not enter negative values",
-    "INVALID_BG_ID": "Please provide a valid `Background` ID",
+    "INVALID_BG_ID": "Please provide a valid `Background`-ID",
     "NO_ITEM_PROVIDED": "No item provided",
     "INVALID_AMOUNT": "Invalid amount provided",
-    "INVALID_ITEM_PROVIDED": "{{USER}} - Invalid item provided"
+    "INVALID_ITEM_PROVIDED": "{{USER}} Invalid item provided"
 }
