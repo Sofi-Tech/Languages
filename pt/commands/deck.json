@@ -17,7 +17,7 @@
     "SAVE_DECK": "Clique em salvar para definir este baralho",
     "EMBED_FOOTER": "Observação: Todos os movimentos num baralho devem ser únicos para poderem ser usados em duelos ou invasões!",
     "UNLOCK_SAVE": "Desbloqueie o slot {{deckNo}} para salvar o baralho lá",
-    "UNLOCK_GENERATE": "Desbloqueie o espaço ${deckNo} para gerar um baralho",
-    "NOT_ENOUGH_CARD": "Não há cartões suficientes com movimentos diferentes. Por favor, colete mais cartões",
-    "UNLOCK_SELECT": "Desbloqueie o slot {{deckNo}} para selecionar o baralho"
+    "UNLOCK_GENERATE": "Desbloqueie o slot {{deckNo}} para gerar um baralho aleatório",
+    "NOT_ENOUGH_CARD": "Você nao possui cartas suficientes com movimentos diferentes. Por favor, colete mais cartas",
+    "UNLOCK_SELECT": "Desbloqueie o espaço número {{deckNo}} para poder selecionar o baralho a partir de lá"
 }
