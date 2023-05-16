@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Gib eine Menge an",
     "SLASH_DESC3": "Gib den Code des `Backgrounds`an, den du kaufen möchtest. [FUNKTIONIERT NUR, WENN DAS ITEM ALS `BACKGROUND` AUSGEWÄHLT WURDE!]",
     "NO_ITEM": "Bitte gib einen Gegenstand an, den du kaufen möchtest.",
-    "TRADEPASS_INFO": "Du kannst 1 `Bump` benutzen um einen 4-Stunden Trade Pass zu kaufen oder 20 Bumps ansparen um einen 30-Tage Trade Pass zu kaufen.",
+    "TRADEPASS_INFO": "Du kannst **__1x__** `Bump` gegen einen 4-Stunden `Trade Pass` eintauschen oder **__20x__** `Bump` ansparen um einen 30-Tage Trade Pass zu kaufen.",
     "CORRECT_USAGE": "{{USER}} Korrekte Verwendung: `{{prefix}}buy bg <bgID> [Menge]`",
     "INVALID_BG_AMOUNT": "Gib keine negativen Mengen an!",
     "INVALID_BG_ID": "Bitte gib eine gültige `Background`-ID an.",
