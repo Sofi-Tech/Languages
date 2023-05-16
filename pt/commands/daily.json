@@ -5,8 +5,8 @@
     "DAILY_ERROR": "Você pode reivindicar seu `Daily` depois de **{{timeout}}** \n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` restantes para reivindicar um `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` restantes para reivindicar um `Rare Chest`",
-    "NOTE": "⚠️Tanto a equipe do Discord, quanto a equipe da Sofi **__nunca__** farão o seguinte:\n- Pedir sua senha ou senha descartável\n- Aconselhá-lo a trocar o seu e-mail\n- Usar métodos de terceiros, como o \"`Mee6`\" ou \"`Dyno`\" para se comunicar com você.\nQualquer suspeita a respeito das atividades mencionadas acima deverão ser reportadas imediatamente para {{link}}! ⚠️",
+    "NOTE": "⚠️Tanto a equipe do Discord, quanto a equipe da Sofi **__nunca__** farão o seguinte:\n- Pedir sua senha ou senha descartável\n- Aconselhá-lo a trocar o seu e-mail\n- Usar métodos de terceiros, como o \"`Mee6`\" ou \"`Dyno`\" para se comunicar com você.\n\nQualquer suspeita a respeito das atividades mencionadas acima deverão ser reportadas imediatamente para {{link}}! ⚠️",
     "EMBED_FOOTER": "Sequência [ {{streak}} ] • {{streakBar}}",
     "DAILY_SUCCESS": "Obrigado por reivindicar seu `Daily`!",
-    "GUILD_BONUS": "Bônus do servidor Top 20 x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "GUILD_BONUS": "Já que você está usando esse comando em um servidor Top-20 de Sofi, sua recompensa `Daily` será aumentada em x1,5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
