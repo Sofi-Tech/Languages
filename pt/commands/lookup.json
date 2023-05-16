@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Exibe versão/3D/variantes GIF de um personagem",
     "CHAR_NOT_FOUND": "Não foi possível encontrar o personagem",
-    "CHAR_NF_SENSITIVE": "Nenhum personagem encontrado. [A função `lookup` é sensivel à maiúsculas e minúsculas!]",
+    "CHAR_NF_SENSITIVE": "Nenhum personagem encontrado. [A função `lookup` é sensivel a maiúsculas e minúsculas!]",
     "EMBED_TITLE": "__Pesquisa de Personagens__",
     "SUBMITTED": "Enviado por: <@{{userID}}>",
     "EMBED_FOOTER": "Encontre a versão v1 usando o comando `scl` | Envie versões usando `ssc`",
