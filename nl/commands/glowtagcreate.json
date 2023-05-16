@@ -1,0 +1,8 @@
+{
+  "GTC_DESCRIPTION": "Maak Glow-tag aan",
+  "GTC_CATEGORY": "Tags",
+  "CORRECT_USAGE": "Gebruik: `sgtc <tagnaam> <emoji>`",
+  "INVALID_EMOJI": "Dat is geen geldige emoji",
+  "GLOWTAG_ALREADY_EXISTS": "{{auteur}} ** glow-tag met die naam bestaat al",
+  "CREATED_GLOWTAG": "{{auteur}} **Glow-tag aangemaakt met naam:** `{{tag}}` | {{emoji}}"
+}

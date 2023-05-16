@@ -1,0 +1,11 @@
+{
+  "TAG_DESCRIPTION": "Kartı etiketle",
+  "TAG_CATEGORY": "Etiketler",
+  "WRONG_USAGE": "Lütfen bir etiket adı girin.",
+  "NO_TAGS_CREATED": "Etiketlemeye başlamadan önce bir etiket oluşturun. `stc` komutunu kullanarak etiket oluşturabilirsiniz.",
+  "TAG_NOT_FOUND": "`{{tag}}` adında bir etiketiniz yok.",
+  "NO_CARDS_CLAIMED": "Henüz hiçbir kart talep etmediniz",
+  "INVALID_CARD_CODE": "{{author}} Geçersiz Kart Kodu veya Kart Bulunamadı",
+  "SUCCESSFUL_TAG": "{{author}} | {{card}} kartını `{{tag}}` olarak etiketlemeyi başardınız.",
+  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Kartlar başarıyla etiketlendi."
+}

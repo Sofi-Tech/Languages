@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Tag die freigeschaltete Leuchtkraft",
+  "GT_CATEGORY": "Tags",
+  "GLOWTAGS_NOT_FOUND": "Wir schätzen den Tagging-Aufwand, aber keine Glühmarkierungen gefunden",
+  "GLOWS_NOT_UNLOCKED": "{{author}} Sie haben noch keine Leuchtkörper freigeschaltet",
+  "MISSING_GLOWTAG": "{{author}} Ich denke, Sie müssen eine Leuchtkraftmarke bereitstellen",
+  "INVALID_GLOW_CODE": "{{author}} Ungültiger Leuchtkraftcode oder keine Leuchtkraft gefunden",
+  "SUCCESSFULL_GLOWTAG": "{{author}} Erfolgreich markiert **{{glow}}** als {{tag}}",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Diese Leuchtkörper wurden erfolgreich gekennzeichnet"
+}

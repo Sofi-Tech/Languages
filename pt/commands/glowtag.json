@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Marca a brilhance desbloqueada",
+  "GT_CATEGORY": "Marcadores",
+  "GLOWTAGS_NOT_FOUND": "Agradeço o esforço de marcação, mas nenhum brilho foi encontrado",
+  "GLOWS_NOT_UNLOCKED": "{{author}} ainda não desbloqueou nenhum brilho",
+  "MISSING_GLOWTAG": "{{author}}, acho que você precisa fornecer uma marca de brilho.",
+  "INVALID_GLOW_CODE": "{{author}}, código de brilho inválido ou nenhum brilho encontrado",
+  "SUCCESSFULL_GLOWTAG": "{{author}}, brilho **{{glow}}** marcado com sucesso como {{tag}}",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, aqueles Brilhos foram marcados com sucesso"
+}

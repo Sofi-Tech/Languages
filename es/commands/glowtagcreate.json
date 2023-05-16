@@ -1,0 +1,8 @@
+{
+  "GTC_DESCRIPTION": "Crear etiqueta Glow",
+  "GTC_CATEGORY": "Etiquetas",
+  "CORRECT_USAGE": "Uso: `sgtc <nombre_etiqueta> <emoji>`",
+  "INVALID_EMOJI": "Ese no es un emoji válido",
+  "GLOWTAG_ALREADY_EXISTS": "{{author}} **ya existe una etiqueta Glow con ese nombre",
+  "CREATED_GLOWTAG": "{{author}} **Creó la etiqueta Glow con nombre:** `{{tag}}` | {{emoji}}"
+}

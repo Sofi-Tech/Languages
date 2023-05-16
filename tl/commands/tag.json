@@ -1,0 +1,11 @@
+{
+  "TAG_DESCRIPTION": "Tag ang card",
+  "TAG_CATEGORY": "Mga Tag",
+  "WRONG_USAGE": "Mangyaring magbigay ng pangalan ng tag.",
+  "NO_TAGS_CREATED": "Pinapahalagahan ang pagtatag ngunit walang nakikitang mga tag. Una munang lumikha ng tag sa pamamagitan ng paggamit ng `stc` command.",
+  "TAG_NOT_FOUND": "Walang tag na may pangalang `{{tag}}`",
+  "NO_CARDS_CLAIMED": "Hindi ka pa nangangalakal ng anumang mga card",
+  "INVALID_CARD_CODE": "{{author}} Invalid Card Code o walang card na nakita.",
+  "SUCCESSFUL_TAG": "{{author}} | Matagumpay na na-tag ang {{card}} bilang `{{tag}}`",
+  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Ang mga card na iyon ay matagumpay na na-tag"
+}

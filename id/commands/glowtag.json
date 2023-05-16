@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Tandai kilau yang tidak terkunci",
+  "GT_CATEGORY": "Tag",
+  "GLOWTAGS_NOT_FOUND": "Hargai usaha menandai tetapi tidak ada tag kilau yang ditemukan",
+  "GLOWS_NOT_UNLOCKED": "{{author}} Anda belum membuka kilau apapun",
+  "MISSING_GLOWTAG": "{{author}} Saya rasa Anda perlu memberikan tag kilau",
+  "INVALID_GLOW_CODE": "{{author}} Kode kilau tidak valid atau kilau tidak ditemukan",
+  "SUCCESSFULL_GLOWTAG": "{{author}} Berhasil menandai **{{glow}}** sebagai {{tag}}",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Tag kilau berhasil dilakukan"
+}

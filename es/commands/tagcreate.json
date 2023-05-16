@@ -1,0 +1,10 @@
+{
+  "TC_DESCRIPTION": "Crear una etiqueta",
+  "TC_CATEGORY": "Etiquetas",
+  "WRONG_USAGE": "Uso: `stc <nombre_de_etiqueta> <emoji>`",
+  "INVALID_EMOJI": "{{emoji}} no es un emoji válido",
+  "INVALID_TAGNAME_FORMAT": "El nombre de la etiqueta debe ser alfanumérico, no debe contener caracteres especiales o espacios o una palabra reservada.",
+  "LONG_TAGNAME": "Nombre de etiqueta demasiado largo. Intenta con menos de 20 caracteres",
+  "TAGNAME_EXISTS": "{{author}} **La etiqueta con nombre `{{tag}}` ya existe",
+  "TAG_CREATED": "Etiqueta creada con nombre: `{{tag}}` | {{emoji}}"
+}

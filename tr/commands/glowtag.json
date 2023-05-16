@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Yakalanan parlama kodunu işaretleyin",
+  "GT_CATEGORY": "Etiketler",
+  "GLOWTAGS_NOT_FOUND": "Etiketleme çabalarınız için teşekkür ederiz ancak parlama kodu bulunamadı",
+  "GLOWS_NOT_UNLOCKED": "{{author}}, henüz hiçbir parlama kodu kilidini açmadınız",
+  "MISSING_GLOWTAG": "{{author}}, parlama kodu sağlamanız gerekiyor",
+  "INVALID_GLOW_CODE": "{{author}}, geçersiz parlama kodu veya hiçbir parlama bulunamadı",
+  "SUCCESSFULL_GLOWTAG": "{{author}}, **{{glow}}** parlama kodunu {{tag}} olarak başarıyla işaretlediniz",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, Bu parlama kodları başarıyla etiketlendi"
+}

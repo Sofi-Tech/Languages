@@ -1,0 +1,10 @@
+{
+  "TC_DESCRIPTION": "Membuat tag",
+  "TC_CATEGORY": "Tags",
+  "WRONG_USAGE": "Cara Penggunaan: `stc <nama tag> <emoji>`",
+  "INVALID_EMOJI": "{{emoji}} bukan emoji yang valid",
+  "INVALID_TAGNAME_FORMAT": "Nama tag harus alfanumerik, tidak boleh mengandung karakter khusus atau spasi atau kata yang terlarang.",
+  "LONG_TAGNAME": "Nama tag terlalu panjang. Coba gunakan kurang dari 20 karakter",
+  "TAGNAME_EXISTS": "{{author}} **Tag dengan nama `{{tag}}` sudah ada",
+  "TAG_CREATED": "Tag dengan nama: `{{tag}}` | {{emoji}} berhasil dibuat"
+}

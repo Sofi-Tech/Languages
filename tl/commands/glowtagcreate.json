@@ -1,0 +1,8 @@
+{
+  "GTC_DESCRIPTION": "Gumawa ng Glow tag",
+  "GTC_CATEGORY": "Mga Tag",
+  "CORRECT_USAGE": "Paggamit: `sgtc <tagname> <emoji>`",
+  "INVALID_EMOJI": "Iyan ay hindi wastong emoji",
+  "GLOWTAG_ALREADY_EXISTS": "{{author}} **glow tag na mayroong ganoong pangalan ay mayroon na",
+  "CREATED_GLOWTAG": "{{author}} **Nilikha ang Glow Tag na may pangalan:** `{{tag}}` | {{emoji}}"
+}

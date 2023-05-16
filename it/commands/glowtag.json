@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Tagga la luce sbloccata",
+  "GT_CATEGORY": "Tag",
+  "GLOWTAGS_NOT_FOUND": "Apprezziamo l'impegno per il tagging ma non abbiamo trovato alcun tag di luce",
+  "GLOWS_NOT_UNLOCKED": "{{author}} non hai ancora sbloccato alcuna luce",
+  "MISSING_GLOWTAG": "{{author}} Immagino che tu debba fornire un tag di luce",
+  "INVALID_GLOW_CODE": "{{author}} Codice di luce non valido o nessuna luce trovata",
+  "SUCCESSFULL_GLOWTAG": "{{author}} Taggato con successo **{{glow}}** come {{tag}}",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Quelle Luci sono state taggate con successo"
+}

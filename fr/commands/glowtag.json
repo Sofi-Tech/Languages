@@ -1,0 +1,10 @@
+{
+  "GT_DESCRIPTION": "Indiquer la lueur déverrouillée",
+  "GT_CATEGORY": "Tags",
+  "GLOWTAGS_NOT_FOUND": "Appréciez l'effort de taggage mais aucun glow tag trouvé",
+  "GLOWS_NOT_UNLOCKED": "{{author}} vous n'avez pas encore déverrouillé de lueurs",
+  "MISSING_GLOWTAG": "{{author}} Je suppose que vous devez fournir un glow tag",
+  "INVALID_GLOW_CODE": "{{author}} Code de lueur invalide ou aucune lueur trouvée",
+  "SUCCESSFULL_GLOWTAG": "{{author}} Tagué avec succès **{{glow}}** en tant que {{tag}}",
+  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Ces lueurs ont été taguées avec succès"
+}

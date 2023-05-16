@@ -1,0 +1,8 @@
+{
+  "GUT_DESCRIPTION": "Снять метку свечения",
+  "GUT_CATEGORY": "Метки",
+  "NO_GLOWS_FOUND": "Вы еще не разблокировали ни одного свечения",
+  "WRONG_GLOWCODE_FORMAT": "Код свечения начинается с #",
+  "INVALID_GLOWCODE": "Некорректный код свечения или свечение не найдено",
+  "GLOW_UNTAG_SUCCESSFULL": "Метка ${{glow}} успешно снята"
+}

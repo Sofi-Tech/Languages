@@ -1,0 +1,10 @@
+{
+  "TC_DESCRIPTION": "Bir etiket oluşturun",
+  "TC_CATEGORY": "Etiketler",
+  "WRONG_USAGE": "Kullanım: `stc <etiketadı> <emoji>`",
+  "INVALID_EMOJI": "{{emoji}} geçerli bir emoji değil",
+  "INVALID_TAGNAME_FORMAT": "Etiket adı alfasayısal olmalıdır, özel karakter veya boşluk içermemeli veya ayrılmış bir kelime olmamalıdır.",
+  "LONG_TAGNAME": "Etiket adı çok uzun. 20 karakterden az deneyin",
+  "TAGNAME_EXISTS": "{{author}} `{{tag}}` adlı etiket zaten mevcut",
+  "TAG_CREATED": "Adıyla Etiket Oluşturuldu: `{{tag}}` | {{emoji}}"
+}
