@@ -10,9 +10,9 @@
     "NO_CODE": "{{author}}, você esqueceu de fornecer o código da carta",
     "WRONG_USAGE": "{{author}} Uso correto: `sgive <usuário/ID do usuário> <código da carta>`",
     "NO_CARD_FOUND": "Não é possível encontrar nenhuma carta com o código: `{{code}}`",
-    "CARD_LOCKED": "Essa carta está bloqueada e não pode ser oferecida. Tire a tag da carta para prosseguir",
+    "CARD_LOCKED": "Essa carta está bloqueada e não pode ser oferecida. Se você ainda quiser oferecer essa carta, use o comando `suntag <cardcode>` para remover a `Tag` dessa carta.",
     "CARD_NOT_OWNED": "Você não é mais o proprietário dessa carta",
     "SUCCESS": "SUCESSO",
     "CANCELLED": "CANCELADO",
-    "GIVEN": "Remetente => Destinatário"
+    "GIVEN": "Remetente → Destinatário"
 }
