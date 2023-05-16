@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Idagdag ang mga character sa iyong wishlist",
+    "DESCRIPTION": "Magdagdag ng mga karacter sa iyong listahan ng ninanais",
     "CATEGORY": "Listahan ng Ninanais",
     "ADD_CHARACTERS_ERROR": "> Hindi ka na makakapagdagdag pa ng mga character sa iyong wishlist",
-    "SEARCH_CHARACTER_ERROR": "Magbigay ng pangalan ng character upang mailagay\nGumamit ng `swa -f <name>` para sa eksaktong paghahanap",
-    "NO_CHARACTER_FOUND": "Walang nahanap na character\nGumamit ng `swa -f <name>` para sa eksaktong paghahanap",
-    "CHARACTER_ALREADY_EXISTS": "{{name}} ay nasa iyong wishlist na",
+    "SEARCH_CHARACTER_ERROR": "Magbigay ng pangalan ng karacter upang mailagay sa iyong listahan ng ninanais \nGumamit ng `swa -f <name>` para sa eksaktong paghahanap",
+    "NO_CHARACTER_FOUND": "Walang nahanap na karacter\nGumamit ng `swa -f <name>` para sa eksaktong paghahanap",
+    "CHARACTER_ALREADY_EXISTS": "{{name}} ay nasa iyong listahan ng ninanais na!",
     "CHARACTER_ADDED": "> {{author}} | Idinagdag ang {{name}} sa iyong wishlist",
     "EMBED_TITLE": "<:lined:868888105611046942> __Idagdag sa wishlist__"
 }

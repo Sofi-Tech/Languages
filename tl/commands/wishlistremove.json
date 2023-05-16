@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Tinanggal ang character mula sa iyong listahan ng ninanais",
     "CATEGORY": "Listahan ng Ninanais",
-    "NO_INDEX": "Walang pangalan o numero na ibinigay | Upang tanggalin ang buong wishlist gamitin ang 'full reset'",
+    "NO_INDEX": "Walang pangalan o numero na nakalaan! | Upang tanggalin ang buong listahan ng ninanais gamitin ang ' swr full reset'",
     "FULL_RESET": "> {{author}} Tinanggal ang {{total}} characters mula sa iyong listahan ng ninanais",
-    "REMOVE_CHARACTER": "> {{author}} tinanggal si {{name}} mula sa iyong wishlist",
+    "REMOVE_CHARACTER": "> {{author}} tinanggal si {{name}} mula sa iyong listahan ng ninanais",
     "NO_RESULTS": "> {{author}} walang natagpuang resulta para sa {{name}}"
 }
