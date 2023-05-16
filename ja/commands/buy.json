@@ -5,10 +5,10 @@
     "SLASH_DESC3": "購入する `Background`のコードを入力してください。 [アイテムが背景として選択されている場合にのみ機能します]",
     "NO_ITEM": "購入するアイテムを指定してください",
     "TRADEPASS_INFO": "1 `Bump` を使用して4時間の `Trade Pass` を購入するか、20 `Bump`を節約して30日間の `Trade Pass`を購入できます",
-    "CORRECT_USAGE": "{{USER}} 正しい使用方法: `{{prefix}}buy bg <bgID> [amount]`",
-    "INVALID_BG_AMOUNT": "背景の個数は正の値でなければなりません",
-    "INVALID_BG_ID": "正しい背景IDを入力してください",
-    "NO_ITEM_PROVIDED": "アイテムが指定されていません",
-    "INVALID_AMOUNT": "不正な数量が指定されました",
-    "INVALID_ITEM_PROVIDED": "{{USER}} 不正なアイテムが指定されました"
+    "CORRECT_USAGE": "{{USER}} 正しい使用法： `{{prefix}}buy bg <bgID> [amount]`",
+    "INVALID_BG_AMOUNT": "負の値を入力しないでください",
+    "INVALID_BG_ID": "有効な`Background`IDを提供してください",
+    "NO_ITEM_PROVIDED": "アイテムは提供されていません",
+    "INVALID_AMOUNT": "無効な金額が提供されました",
+    "INVALID_ITEM_PROVIDED": "{{USER}} 無効なアイテムが提供されます"
 }

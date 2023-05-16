@@ -7,10 +7,10 @@
     "ALBUM_NAME_LONG": "Nome do álbum muito longo. Tente um nome com menos de 20 caracteres",
     "MAX_ALBUMS": "{{author}} Um jogador pode ter no máximo 10 álbuns",
     "ALBUM_NAME_EXISTS": "{{author}} O álbum com o nome `{{name}}`já existe",
-    "ALBUM_CREATE_CONFIRMATION": "Você está prestes a criar um álbum com o nome {{albumName}}\nCriar álbuns é gratuito, mas as páginas custam `Silver`\nUse `salbumconfig/sacf` para configurar álbuns",
+    "ALBUM_CREATE_CONFIRMATION": "Você está prestes a criar um álbum com o nome {{albumName}}\nCriar álbuns é gratuito, mas as páginas custam `Silver`\nUse `salbumconfig` ou `sacf` para configurar álbuns",
     "BUTTON_ACCEPT": "Confirmar",
     "BUTTON_DENY": "Recusar",
-    "NO_AMOUNT": "Você não tem valor suficiente",
+    "NO_AMOUNT": "Você não tem `Wists` o suficiente para criar um álbum",
     "ALBUM_SUCCESS": "Álbum foi criado com sucesso",
-    "CANCEL": "A criação do álbum foi cancelada"
+    "CANCEL": "O processo foi cancelado"
 }
