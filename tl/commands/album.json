@@ -8,7 +8,7 @@
     "ALBUM_NOT_FOUND": "Walang album na nahanap para kay {{username}}",
     "NO_ALBUMS": "Wala pang album si {{member}}\nGumamit ng `sca` upang lumikha ng album\nGumamit ng `sacf <album> <page>` upang i-configure",
     "ALBUM_NAME_NOT_FOUND": "{{author}} hindi makahanap ng album na may pangalang `{{albumName}}`",
-    "NO_PAGES": "{{author}} wala pahina ang album na ito.",
+    "NO_PAGES": "{{author}} Ang album na ito ay walang pahina",
     "MAX_PAGES_ERROR": "{{author}} Ang page number ay dapat nasa pagitan ng 1 hanggang {{maxPages}}",
     "PROCESSING": "Inaayos <a:_:876610443148406794>",
     "MISSING_CARDS": "Ang mga cards na nakasulat ay nawawala sa album page:\n{{cardsList}}",
