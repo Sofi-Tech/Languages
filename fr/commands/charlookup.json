@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Vous pouvez rechercher un personnage spécifique en utilisant la commande `'scl'`. Dans le menu de recherche du personnage, vous pouvez consulter les statistiques de la carte, leurs version 3D et animée, le classement par gen, le classement des fans et l'ID de la carte.\n- L'ID de carte est nécessaire lors de la soumission d'images pour de nouvelles versions.",
+    "DESCRIPTION": "- Vous pouvez rechercher un personnage spécifique en utilisant la commande `'scl'`. Dans le menu de recherche du personnage, vous pouvez consulter les statistiques d'une carte, leurs version 3D et GIF, le classement par gen, le classement des fans et le `Card ID`.\n- Le `Card ID` est nécessaire lors de la soumission d'images pour de nouvelles `Versions`.",
     "CHAR_NOT_FOUND": "Impossible de trouver ce personnage",
     "CHAR_NF_SENSITIVE": "Aucun personnage trouvé [La fonction `lookup` est sensible aux majuscules!]",
     "EMBED_TITLE": "__Recherche de personnage__",
@@ -28,12 +28,12 @@
     "FAN_PTS_ADDED": "`+{{points}}` points de fan ont été ajoutés pour : `{{amount}} {{itemName}}`",
     "3D_MAKER": "Créateur 3D",
     "CARD_MAKER": "Créateur de cartes",
-    "ANIMATED": "Version animée",
+    "ANIMATED": "Version GIF",
     "GEN_CLAIMED": "Gens obtenues: {{count}}/100",
     "TOP_OWNER": "Top propriétaires",
     "TOP_3D_OWNER": "Top propriétaires 3D",
     "TOP_GIF_OWNER": "Top propriétaires de GIF",
     "NO_OWNER_FOUND": "Aucun propriétaire trouvé.",
-    "NO_3D_OWNER_FOUND": "Aucun propriétaire 3D trouvé..",
-    "NO_GIF_OWNER_FOUND": "Aucun propriétaire de GIF trouvé.."
+    "NO_3D_OWNER_FOUND": "Aucun propriétaire `3D` trouvé..",
+    "NO_GIF_OWNER_FOUND": "Aucun propriétaire de `GIF` trouvé.."
 }
