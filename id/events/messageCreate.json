@@ -12,7 +12,7 @@
     "USER_QUARANTINED": "User {{isQuarantined}}",
     "USER_BLACKLISTED": "User terdaftar dalam daftar hitam",
     "GLOBAL_COOLDOWN": "> [`Global`] Tunggu {{cooldown}} sebelum menggunakan perintah.",
-    "COMMAND_BLACKLISTED": "> Perintah `{{commandName}}` terdaftar dalam daftar hitam di saluran ini.",
+    "COMMAND_BLACKLISTED": "> Perintah `{{commandName}}` telah dinonaktifkan di channel ini",
     "REQUIRE_CLIENT_PERMISSIONS": "`Saya memerlukan: {{permissions}} untuk mengeksekusi perintah`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Kamu memerlukan: {{permissions}} untuk mengakses perintah`",
     "COMMAND_COOLDOWN": "> [`${command.name}`] Tunggu {{cooldown}} sebelum menggunakan perintah.",

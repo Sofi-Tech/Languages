@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Kartlarınla bir deste oluştur ve onları baskınlara katılmak veya diğer oyuncularla savaşmak için kullan!",
-    "IN_RAID": "Baskın sırasında bu komut kullanılamaz",
+    "IN_RAID": "Bu komut baskın sırasında kullanılamaz",
     "SELECT_OPT": "Seçenek seçin",
     "DECK": "Deste",
-    "UNIQUE_WARN": "Bir destedeki tüm yetenekler düellolar veya baskınlarda kullanmak için benzersiz olmalıdır!",
+    "UNIQUE_WARN": "Bir destedeki tüm yetenekler düellolar ve baskınlarda kullanmak için benzersiz olmalıdır!",
     "UNLOCK_SLOT": "{{deckNo}} numaralı yuvayı 50.000 Silver karşılığında açmak istiyor musunuz?",
     "SLOT_UNLOCKED": "{{deckNo}} numaralı yuva 🔓",
     "MISSING_SILVERS": "Yuvayı açmak için yeterli `Silver` elinizde bulunmamaktadır",
