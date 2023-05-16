@@ -12,6 +12,6 @@
     "MAX_PAGES_ERROR": "{{author}} Die Seitenzahl muss zwischen 1 und {{maxPages}} liegen",
     "PROCESSING": "Verarbeitung <a:_:876610443148406794>",
     "MISSING_CARDS": "Dieser Albumseite fehlen die folgenden Karten:\n{{cardsList}}",
-    "CARDS_LAYOUT_ERROR": "Versuchen Sie, die Karten und das Layout erneut einzustellen, um sie anzuzeigen\nAlbum: `{{albumName}}` Seite: `{{pageNumber}}`",
+    "CARDS_LAYOUT_ERROR": "Versuche die Karten und das Layout erneut zu setzen, um diese Seite anzuschauen\nAlbum: `{{albumName}}` Seite: `{{pageNumber}}`",
     "PROFILE_OWNED": "Profil im Besitz von {{memberId}}"
 }
