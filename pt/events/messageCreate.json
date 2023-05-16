@@ -19,9 +19,9 @@
     "REGISTER_USER": "{{author}} | Use o comando `{{prefix}}register` e vá ao site para se verificar",
     "USER_COMMAND_QUEUE": "<@{{id}}> Você precisa concluir o comando {{existsFor}} antes de prosseguir",
     "AUTHOR_COMMAND_QUEUE": "Conclua o comando {{existsFor}} antes de prosseguir",
-    "SAFE_MODE": "> O bot está em modo de segurança. {{eta}}. \nEla voltará em breve ❤",
-    "CATEGORY_DISABLED": "> A categoria foi desativada. \nRazão: `{{category}}`",
-    "COMMAND_DISABLED": "> O comando foi desativado. \nRazão: `{{command}}`",
-    "NO_PERMISSIONS": "Eu não tenho permissões para executar o comando",
+    "SAFE_MODE": "> O bot está em modo de segurança. {{eta}}.\nEla voltará em breve ❤",
+    "CATEGORY_DISABLED": "> Esta categoria foi desativada. \nRazão: `{{category}}`",
+    "COMMAND_DISABLED": "> Este comando foi desativado. \nRazão: `{{command}}`",
+    "NO_PERMISSIONS": "Eu não tenho permissões suficientes para executar este comando",
     "SERIES_DROP": "A votação foi concluída!"
 }
