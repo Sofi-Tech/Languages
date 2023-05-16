@@ -2,9 +2,9 @@
     "DESCRIPTION": "Bir kullanıcının envanterini görüntüler",
     "SLASH_DESC": "Envanterini görüntülemek istediğiniz kullanıcıyı girin",
     "SLASH_DESC2": "Aramak istediğiniz öğeyi girin",
-    "NOT_REGISTER": "{{author}} | Kullanıcı kayıtlı değil",
-    "NO_USER_FOUND": "{{author}} | Kullanıcı bulunamadı",
-    "INV_PRIVATE": "Bu kullanıcının envanteri gizlidir",
+    "NOT_REGISTER": "{{author}} Bu kullanıcı kayıtlı değil!",
+    "NO_USER_FOUND": "{{author}} Kullanıcı bulunamadı",
+    "INV_PRIVATE": "{{author}} Bu kullanıcının envanteri gizlidir",
     "ITEMS": "Öğeler",
     "FRAMES": "Çerçeveler",
     "CRYSTALS": "Kristaller",
@@ -13,6 +13,6 @@
     "SELF_INV_EMPTY": "Envanteriniz boş",
     "USER_INV_EMPTY": "Bu kullanıcının envanteri boş",
     "NO_BG_FOUND": "`Background`bulunamadı",
-    "NO_ITEM_FOUND": "Bu öğe envanterde bulunamıyor",
+    "NO_ITEM_FOUND": "Bu envanterde o öğe bulunamadı",
     "HIDE_INV": "Envanterinizi gizlemek için \"spvt inv\" komutunu kullanın"
 }

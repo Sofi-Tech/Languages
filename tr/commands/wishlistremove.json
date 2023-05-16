@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "İstek listenizden karakter kaldırır",
+    "DESCRIPTION": "İstek listenden bir karakteri kaldırır",
     "CATEGORY": "İstek listesi",
-    "NO_INDEX": "İsim veya numara belirtilmedi! Tüm istek listenizi temizlemek için `swr full reset` komutunu kullanın",
-    "FULL_RESET": "> {{author}} İstek listesinden {{total}} karakterleri kaldırdı",
-    "REMOVE_CHARACTER": "> {{author}} \"{{name}}\" istek listenizden kaldırıldı",
-    "NO_RESULTS": "{{author}} {{name}} için sonuç bulunamadı"
+    "NO_INDEX": "İsim veya numara belirtilmedi! Tüm istek listeni temizlemek için `swr full reset` komutunu kullan",
+    "FULL_RESET": "> {{author}} İstek listenden **__{{total}}__** karakter çıkardın",
+    "REMOVE_CHARACTER": "> {{author}} **{{name}}** istek listenden çıkarıldı",
+    "NO_RESULTS": "{{author}} **{{name}}** için sonuç bulunamadı"
 }

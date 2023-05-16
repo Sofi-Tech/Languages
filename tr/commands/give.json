@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Bahsedilen kullanıcıya bir kart verin",
+    "DESCRIPTION": "Birisine bir kart verin",
     "SLASH_DESC": "Bu kartı vermek istediğiniz kullanıcıyı belirtin",
     "SLASH_DESC2": "Vermek istediğiniz kartın kodunu giriniz",
     "NO_MEMBER": "{{author}} belirtilen kullanıcı yok",
-    "NO_SELF_GIVE": "{{author}} kendinize kart veremezsiniz",
+    "NO_SELF_GIVE": "{{author}} Kendinize kart veremezsiniz",
     "NOT_REGISTERED": "{{member}} kayıtlı değil",
     "MEM_BLACKLISTED": "{{member}} kara listeye alındı",
     "MEM_QUARANTINED": "Kullanıcı karantinaya alındı",

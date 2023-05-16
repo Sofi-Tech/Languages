@@ -6,12 +6,12 @@
     "USER_NOT_FOUND": "{{author}} | Kullanıcı bulunamadı!",
     "PLAYER_NOT_EXIST": "{{author}} | Bu oyuncu mevcut değil",
     "ALBUM_NOT_FOUND": "{{username}} adlı kullanıcıda albüm bulunamadı",
-    "NO_ALBUMS": "{{member}} şu anda herhangi bir albüme sahip değil\nBir albüm oluşturmak için \"sca\" komutunu kullanın\nYapılandırmak için \"sacf <albüm> <sayfa>\"komutunu kullanın",
-    "ALBUM_NAME_NOT_FOUND": "{{author}}, `{{albumName}}` adına sahip herhangi bir albüm bulunamıyor",
+    "NO_ALBUMS": "{{member}} şu anda herhangi bir albüme sahip değil\nBir albüm oluşturmak için \"sca\" komutunu kullanın\nBir albümü yapılandırmak için \"sacf <albüm> <sayfa>\"komutunu kullanın",
+    "ALBUM_NAME_NOT_FOUND": "{{author}}, `{{albumName}}` adlı herhangi bir albüm bulunamıyor",
     "NO_PAGES": "{{author}} Bu albümün sayfası yok",
-    "MAX_PAGES_ERROR": "{{author}} Sayfa numarası 0 ile {{maxPages}} arasında olmalıdır",
+    "MAX_PAGES_ERROR": "{{author}} Sayfa numarası 1 ile {{maxPages}} arasında olmalıdır",
     "PROCESSING": "<a:_:876610443148406794> İşleniyor",
-    "MISSING_CARDS": "Albüm sayfasında şu belirtilen kartlar eksik:\n{{cardsList}}",
-    "CARDS_LAYOUT_ERROR": "Kartları ve düzeni tekrar ayarlamayı deneyin\nAlbüm: `{{albumName}}` Sayfa: `{{pageNumber}}`",
+    "MISSING_CARDS": "Albüm sayfasında şu kartlar eksik:\n{{cardsList}}",
+    "CARDS_LAYOUT_ERROR": "Bu sayfayı görüntülemek için kartları ve düzeni yeniden ayarlamayı deneyin\nAlbüm: `{{albumName}}` Sayfa: `{{pageNumber}}`",
     "PROFILE_OWNED": "Profilin sahibi {{memberId}}"
 }

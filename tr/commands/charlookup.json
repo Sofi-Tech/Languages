@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- 'cl' komutunu kullanarak belirli bir karakter arayabilirsiniz. Charlookup menüsünde kartın istatistiklerini, 3D ve animasyonlu resimlerini, gen başlıklarını, hayran liderlik tablosunu ve kart kimliğini kontrol edebilirsiniz.\n-Yeni sürümler için resimler gönderilirken `Card ID` gereklidir.",
+    "DESCRIPTION": "- 'cl' komutunu kullanarak belirli bir karakter arayabilirsiniz. Charlookup menüsünde kartın istatistiklerini, 3D ve GIF varyasyonu resimlerini, gen başlıklarını, hayran liderlik tablosunu ve kart kimliğini kontrol edebilirsiniz.\n-Yeni sürümler için resimler gönderilirken `Card ID` gereklidir.",
     "CHAR_NOT_FOUND": "Karakter bulunamadı",
     "CHAR_NF_SENSITIVE": "Karakter bulunamadı. [`lookup` komutu büyük/küçük harfe duyarlıdır!]",
     "EMBED_TITLE": "__Karakter Arama__",
@@ -11,7 +11,7 @@
     "3D_DESC": "Kartın 3D varyantını görüntüler",
     "GIF_LABEL": "GIF Varyantı",
     "GIF_DESC": "Kartın GIF Varyantını görüntüler",
-    "SERIES": "Seri",
+    "SERIES": "Seriler",
     "NAME": "İsim",
     "CATEGORY": "Kategori",
     "WISHLISTED": "İstek listesine alındı",
@@ -28,12 +28,12 @@
     "FAN_PTS_ADDED": "`+{{points}}` hayranlık puanı eklendi: `{{amount}} {{itemName}}`",
     "3D_MAKER": "3D Yapımcısı",
     "CARD_MAKER": "Kart Yapımcısı",
-    "ANIMATED": "Hareketli Varyant",
-    "GEN_CLAIMED": "Gens Talep Edildi: {{count}}/100",
+    "ANIMATED": "GIF Varyant",
+    "GEN_CLAIMED": "Gens elde edildi : {{count}}/100",
     "TOP_OWNER": "En İyi Sahipler",
     "TOP_3D_OWNER": "En İyi 3D Sahipleri",
     "TOP_GIF_OWNER": "En İyi GIF Sahipleri",
     "NO_OWNER_FOUND": "Sahip bulunamadı...",
-    "NO_3D_OWNER_FOUND": "3D sahibi bulunamadı...",
-    "NO_GIF_OWNER_FOUND": "GIF sahibi bulunamadı..."
+    "NO_3D_OWNER_FOUND": "`3D` sahibi bulunamadı...",
+    "NO_GIF_OWNER_FOUND": "`GIF` sahibi bulunamadı..."
 }

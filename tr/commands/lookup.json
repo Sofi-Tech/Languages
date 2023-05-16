@@ -4,13 +4,13 @@
     "CHAR_NF_SENSITIVE": "Karakter bulunamadı. [`lookup` komutu büyük/küçük harfe duyarlıdır!]",
     "EMBED_TITLE": "__Karakter Arama__",
     "SUBMITTED": "<@{{userID}}> tarafından gönderildi",
-    "EMBED_FOOTER": "`scl` komutunu kullanarak versiyon 1'i bulun | \"ssc\" komutunu kullanarak sürümleri gönderebilirsiniz",
+    "EMBED_FOOTER": "`scl` komutunu kullanarak `Version` 1'i bulun. Ayriyetten `ssc` komutunu kullanarak yeni `Versions` de gönderebilirsiniz.",
     "VERSION_DISP": "Kartın {{version}} versiyonunu gösterir",
     "MORE": "Daha Fazla Bilgi",
     "3D_DESC": "Kartın 3D varyantını görüntüler",
     "GIF_LABEL": "GIF Varyantı",
     "GIF_DESC": "Kartın GIF Varyantını görüntüler",
-    "SERIES": "Seri",
+    "SERIES": "Seriler",
     "NAME": "İsim",
     "CATEGORY": "Kategori",
     "WISHLISTED": "İstek listesine alındı",
@@ -20,5 +20,5 @@
     "EVENT": "Etkinlik",
     "UPCOMING_EVENT": "Yaklaşan Etkinlik",
     "TOP_OWNER": "En İyi Sahipler",
-    "NO_OWNER_FOUND": "Sahip bulunamadı.."
+    "NO_OWNER_FOUND": "Sahip bulunamadı..."
 }
