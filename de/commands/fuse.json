@@ -12,7 +12,7 @@
     "FRAG_DESC": "von {{series}} erhältlich",
     "FRAG_INFO": "Sobald die `GIF` Variante eines Charakters 100 Kopien erreicht hat, werden die dazugehöringen `Fragments` aus der `Pull` Funktion entfernt. Verwende oder tausche deine `Fragments`, bevor diese ihren Wert verlieren!",
     "FUSE_CONFIRM": "> Bist du sicher, dass du {{charName}} in eine `GIF` Variante umwandeln möchtest?\n",
-    "FUSE_CONFIRM2": "> Dieser Vorgang wird **8** `Fragments` verbrauchen und kann nicht rückgängig gemacht werden!\n",
+    "FUSE_CONFIRM2": "> Dieser Vorgang wird **__8__** `Fragments` verbrauchen und kann nicht rückgängig gemacht werden!\n",
     "FUSE_CONFIRM3": "> Du wirst eine GIF Variante zwischen `Gen` **1** und **100** erhalten.\n> `Gens` für GIF Varianten sind **einmalig**!",
     "CANCEL": "Der Vorgang wurde abgebrochen",
     "ALL_FUSED": "Es sind bereits 100 GIF Varianten dieses Charakters im Umlauf!",
