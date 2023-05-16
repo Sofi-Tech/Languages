@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Kaufe Gegenstände aus dem Shop",
-    "SLASH_DESC": "Gebe den Namen des Items ein, das du kaufen möchtest.",
+    "DESCRIPTION": "Kaufe Gegenstände aus dem \"Shop\"\nBenutze den Befehl \"sshop\" um dir Sofi's Sortiment anzuschauen",
+    "SLASH_DESC": "Gib den Namen des Items an, den du kaufen möchtest",
     "SLASH_DESC2": "Gib eine Menge an.",
     "SLASH_DESC3": "Gib den Code des `Backgrounds`an, den du kaufen möchtest. [FUNKTIONIERT AUSSCHLIESLICH, WENN DAS ITEM ALS `BACKGROUND` AUSGEWÄHLT WURDE!]",
     "NO_ITEM": "Bitte gebe einen Gegenstand an, den du kaufen möchtest.",

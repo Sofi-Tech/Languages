@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Zeigt das Inventar eines anderen Benutzers an",
-    "SLASH_DESC": "Gib den Benutzer an, dessen Inventar du sehen möchtest",
+    "SLASH_DESC": "Gib den Benutzer an, dessen Inventar du ansehen möchtest",
     "SLASH_DESC2": "Gib den Gegenstand an, nach dem du suchen möchtest",
-    "NOT_REGISTER": "{{author}} | Benutzer ist nicht registriert",
-    "NO_USER_FOUND": "{{author}} | Kein Benutzer gefunden",
-    "INV_PRIVATE": "Das Inventar dieses Benutzers ist privat",
+    "NOT_REGISTER": "{{author}} Dieser Benutzer ist nicht registriert!",
+    "NO_USER_FOUND": "{{author}} Kein Benutzer gefunden",
+    "INV_PRIVATE": "{{author}} Das Inventar dieses Benutzers ist privat",
     "ITEMS": "Items",
     "FRAMES": "Frames",
     "CRYSTALS": "Crystals",
@@ -13,6 +13,6 @@
     "SELF_INV_EMPTY": "Dein Inventar ist leer",
     "USER_INV_EMPTY": "Das Inventar dieses Benutzers ist leer",
     "NO_BG_FOUND": "Kein `Background` gefunden",
-    "NO_ITEM_FOUND": "Der Gegenstand konnte nicht im Inventar gefunden werden",
+    "NO_ITEM_FOUND": "Der Gegenstand konnte nicht in diesem Inventar gefunden werden",
     "HIDE_INV": "Um dein Inventar zu verdecken, benutze den Befehl `spvt inv`"
 }
