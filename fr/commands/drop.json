@@ -4,5 +4,5 @@
     "EXTRA_DROP_ALERT": "{{author}} *Votre **Extra Drop** a été utiliser. Il vous reste`{{remaining}}`Extra Drop.",
     "ON_CD": "{{author}} Votre `Drop` sera prêt dans {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nVous pouvez également effectuer un `Vote` pour recevoir des `Wists`et pour acheter des `Drops` avec ces derniers\nUtilisez la commande `sbuy drop <amount>` pour le faire"
+    "BUY_DROP": "\nVous pouvez également effectuer un `Vote` pour recevoir des `Wists`et pour acheter des `Drops` avec ces derniers\nUtilisez la commande `sbuy drop <quantité>` pour le faire"
 }

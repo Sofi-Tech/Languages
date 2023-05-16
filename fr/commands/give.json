@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Donnez la carte à l'utilisateur mentionné",
+    "DESCRIPTION": "Donnez la carte à quelqu'un",
     "SLASH_DESC": "Mentionnez l'utilisateur à qui vous voulez donner une carte",
     "SLASH_DESC2": "Entrez le code de la carte que vous voulez donner",
     "NO_MEMBER": "{{author}} Aucun utilisateur fourni",
-    "NO_SELF_GIVE": "{{author}}, vous ne pouvez pas vous donner une carte à vous-même",
+    "NO_SELF_GIVE": "{{author}} Vous ne pouvez pas vous donner une carte à vous-même",
     "NOT_REGISTERED": "{{member}} n'est pas inscrit",
     "MEM_BLACKLISTED": "{{member}} est sur liste noire",
     "MEM_QUARANTINED": "L'utilisateur est en quarantaine",
