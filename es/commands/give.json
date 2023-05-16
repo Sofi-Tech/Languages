@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Da una carta al usuario mencionado",
+    "DESCRIPTION": "Da una carta alguien",
     "SLASH_DESC": "Ingresa al usuario al que le quieres dar una carta",
     "SLASH_DESC2": "Ingresa el código de la carta que quieres dar",
     "NO_MEMBER": "{{author}} No se ha proporcionado ningún usuario",
-    "NO_SELF_GIVE": "{{author}}, no puedes darte una carta a ti mismo",
+    "NO_SELF_GIVE": "{{author}} No puedes darte una carta a ti mismo",
     "NOT_REGISTERED": "{{member}} no está registrado",
     "MEM_BLACKLISTED": "{{member}} está en la lista negra",
     "MEM_QUARANTINED": "El usuario está en cuarentena",
