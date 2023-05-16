@@ -7,7 +7,7 @@
     "ALBUM_NAME_LONG": "That album name is too long. Try a name with less than 20 characters",
     "MAX_ALBUMS": "{{author}} You can only have a maximum of 10 albums",
     "ALBUM_NAME_EXISTS": "{{author}} An album with the name `{{name}}` already exists",
-    "ALBUM_CREATE_CONFIRMATION": "You are about to create an album with the name {{albumName}}\nCreating albums is free, but you have to purchase pages with `Silver`\nUse `salbumconfig` or `sacf` to configure albums",
+    "ALBUM_CREATE_CONFIRMATION": "You are about to create an album with the name `{{albumName}}`\nCreating albums is free, but you have to purchase pages with `Silver`\nUse `salbumconfig` or `sacf` to configure albums",
     "BUTTON_ACCEPT": "Confirm",
     "BUTTON_DENY": "Deny",
     "NO_AMOUNT": "You don't have enough `Wists` to create an album",
