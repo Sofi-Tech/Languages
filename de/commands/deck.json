@@ -3,7 +3,7 @@
     "IN_RAID": "Dieser Befehl kann nicht benutzt werden, während du in einem Schlachtzug bist",
     "SELECT_OPT": "Wähle eine Option aus",
     "DECK": "Deck",
-    "UNIQUE_WARN": "Alle Fähigkeiten in einem Deck müssen einzigartig sein, um an Schlachtzügen oder Duellen teilnehmen zu können!",
+    "UNIQUE_WARN": "Erstelle mit deinen Karten ein Deck, um mit ihnen an Schlachtzügen teilzunehmen oder dich mit anderen Spielern zu duellieren!",
     "UNLOCK_SLOT": "Slot Nummer {{deckNo}} für 50.000 Silber freischalten?",
     "SLOT_UNLOCKED": "Slot {{deckNo}} 🔓",
     "MISSING_SILVERS": "Du hast nicht genug `Silver`, um diesen Slot freizuschalten",
@@ -15,9 +15,9 @@
     "CODE_REPEAT": "> Karten-Codes dürfen sich nicht wiederholen",
     "MOVES_UNIQUE": "Alle Fähigkeiten in einem Deck müssen **einzigartig** sein! Wähle andere Karte aus oder ändere ihre Fähigkeiten um fortzufahren",
     "SAVE_DECK": "Klicke auf Speichern, um dieses Deck festzulegen",
-    "EMBED_FOOTER": "Hinweis: Alle Fähigkeiten in einem Deck müssen einzigartig sein, um an Schlachtzügen oder Duellen teilnehmen zu können!",
-    "UNLOCK_SAVE": "Schalte Slot Nummer {{deckNo}} frei, um das Deck dort zu speichern",
-    "UNLOCK_GENERATE": "Schalte Slot Nummer {{deckNo}} frei, um ein zufälliges Deck zu generieren",
+    "EMBED_FOOTER": "Hinweis: Erstelle mit deinen Karten ein Deck, um mit ihnen an Schlachtzügen teilzunehmen oder dich mit anderen Spielern zu duellieren!",
+    "UNLOCK_SAVE": "Schalte Slot Nummer {{deckNo}} frei, um dort ein Deck zu speichern",
+    "UNLOCK_GENERATE": "Schalte Slot Nummer {{deckNo}} frei, um dort ein zufälliges Deck zu generieren",
     "NOT_ENOUGH_CARD": "Du hast nicht genügend Karten mit verschiedenen Fähigkeiten. Bitte sammel vorerst mehr Karten",
-    "UNLOCK_SELECT": "Schalte Slot Nummer {{deckNo}} frei, um ein Deck von dort auswählen zu können"
+    "UNLOCK_SELECT": "Schalte Slot Nummer {{deckNo}} frei, um von dort ein Deck auswählen zu können"
 }

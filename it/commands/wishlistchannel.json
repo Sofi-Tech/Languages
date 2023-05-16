@@ -1,6 +1,6 @@
 {
-  "DESCRIPTION": "Impostare il canale della lista dei desideri",
-  "CATEGORY": "Lista dei desideri",
-  "CHANNEL_SET": "> Il tuo canale della lista dei desideri è stato impostato su {{channel}}",
-  "CHANNEL_REMOVE": "> Il tuo canale della lista dei desideri è stato rimosso {{channel}}"
+    "DESCRIPTION": "Impostare il canale della lista dei desideri",
+    "CATEGORY": "Lista dei desideri",
+    "CHANNEL_SET": "> Il tuo canale della lista dei desideri è stato impostato su {{channel}}",
+    "CHANNEL_REMOVE": "> Il tuo canale della lista dei desideri è stato rimosso {{channel}}"
 }

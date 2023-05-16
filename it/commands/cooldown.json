@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Puoi controllare i cooldown per il tuo\n- `Drop`,` Grab`, `Vote`, `Raid` e `Daily`\n- Fai clic sull'icona a forma di campana per aggiungere promemoria per `Drop`, `Vote` e `Daily`",
-  "JOIN_SUPPORT_SERVER": "[Unisciti al server di supporto per ricevere aiuto!](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Voto",
-  "BUMP": "Bump",
-  "DAILY": "Daily",
-  "UNREAD_MAIL": "\n 📫 `${{checkUnreadMailsCount}}` mail(s) non lette | Usa `{{customPrefix}}mail`"
+    "DESCRIPTION": "Puoi controllare i cooldown per il tuo\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Fai clic sull'icona a forma di campana per aggiungere promemoria per `Drop`, `Vote` e `Daily`",
+    "JOIN_SUPPORT_SERVER": "[Unisciti al server di supporto per ricevere aiuto!](https://discord.gg/sofi)",
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "VOTE": "Voto",
+    "BUMP": "Bump",
+    "DAILY": "Daily",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mail(s) non letta | Digita `{{customPrefix}}mail`per leggerli!"
 }
