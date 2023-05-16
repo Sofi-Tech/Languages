@@ -12,6 +12,6 @@
     "MAX_PAGES_ERROR": "{{author}} The page number must be between 1 and {{maxPages}}",
     "PROCESSING": "Processing <a:_:876610443148406794>",
     "MISSING_CARDS": "This album page is missing the following cards:\n{{cardsList}}",
-    "CARDS_LAYOUT_ERROR": "Try setting the cards and layout again to view\nAlbum: `{{albumName}}` Page: `{{pageNumber}}`",
+    "CARDS_LAYOUT_ERROR": "Try to set the cards and layout again to view this page\nAlbum: `{{albumName}}` Page: `{{pageNumber}}`",
     "PROFILE_OWNED": "Profile owned by {{memberId}}"
 }
