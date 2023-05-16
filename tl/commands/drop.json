@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Maaari kang mag-drop ng 3 baraha gamit ang command na ito tuwing 8 minuto.\n- Gamitin ang command na \"sdn\" upang mag-drop ng walang mga imahe. Makakatulong ito kapag wala kang sapat na data o ayaw mong magka-lag.",
-    "JOIN_SUPPORT_SERVER": "[Sumali sa support server para sa tulong](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} *Ang iyong extra drop ay ginagamit. Naiwan: `{{remaining}}`.*",
+    "DESCRIPTION": "- Gamitin ang command na ito upang mag-drop ng 3 kard kada 8 minuto.\n- Gamitin ang command na \"sdn\" upang mag-drop ng mga kard na walang mga imahe. Makakatulong ito makapreserba ng mobile data o upang maiwasan ang lag.",
+    "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong](https://discord.gg/sofi)",
+    "EXTRA_DROP_ALERT": "{{author}} *Ang iyong extra drop ay nagamit na. Meron ka pang `{{remaining}}`.*",
     "ON_CD": "{{author}} subukan mo ulit sa loob ng {{dropCd}}",
-    "VOTE": "Bumoto",
+    "VOTE": "Boto",
     "BUY_DROP": "\nPwede ka ding bumoto para bumili ng drops - `sbuy drop`"
 }

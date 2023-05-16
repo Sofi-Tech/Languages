@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "I-upgrade ang iyong wishlist",
-  "CATEGORY": "Wishlist",
-  "ALREADY_MAXED": "> {{author}} ang iyong mga slots sa wishlist ay puno na",
-  "EMBED_DESCRIPTION": "Gusto mo bang bumili ng dagdag na {{count}} slots para sa {{amount}} {{currency}}?",
-  "EMBED_PAY_FIELD_NAME": "Babayaran mo:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Makukuha mo:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} karagdagang mga slot sa wishlist```",
-  "EMBED_MAXED_DESCRIPTION": "Gusto mo bang punuin ang iyong mga slots sa wishlist para sa {{amount}} {{currency}}?",
-  "EMBED_MAXED_FIELD_VALUE": "```Punuan hanggang sa 50 slots sa wishlist```",
-  "SUCCESS": "MATAGUMPAY",
-  "CANCELLED": "KANSELA",
-  "PAY_ERROR": "`Wala ka ngang {{amount}} {{currency}}`"
+    "DESCRIPTION": "I-upgrade ang iyong listahan ng ninanais",
+    "CATEGORY": "Listahan ng Ninanais",
+    "ALREADY_MAXED": "> {{author}} ang iyong listahan ng ninanais ay puno na!",
+    "EMBED_DESCRIPTION": "Gusto mo bang bumili ng dagdag na {{count}} slots sa halagang {{amount}} {{currency}}?",
+    "EMBED_PAY_FIELD_NAME": "Babayaran mo:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Makukuha mo:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} karagdagang mga slot sa wishlist```",
+    "EMBED_MAXED_DESCRIPTION": "Gusto mo bang punuin ang iyong mga slots sa wishlist para sa {{amount}} {{currency}}?",
+    "EMBED_MAXED_FIELD_VALUE": "```Punuan hanggang sa 50 slots sa wishlist```",
+    "SUCCESS": "MATAGUMPAY",
+    "CANCELLED": "KINANSELA",
+    "PAY_ERROR": "`Wala ka ngang {{amount}} {{currency}}`"
 }

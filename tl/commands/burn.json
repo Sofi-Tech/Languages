@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Sunugin ang mga baraha para makakuha ng mga kristal at pilak na magagamit upang gumawa ng mga kuba at bumili ng iba't ibang mga kagamitan sa bot. Ang pag-type ng sb ay sinusunog ang huling nakuhang baraha.",
-    "GUILDSTONE_BURN": "Ikaw ay tungkol nang makasunog ng guild stone",
-    "GUILDSTONE_NOT_FOUND": "Wala kang guild stone na pwedeng isunog",
+    "DESCRIPTION": "Sunugin ang mga kard para makakuha ng mga Crystal at Silver na magagamit upang gumawa ng mga Cubes na pwedeng gamiting pambili ng iba't ibang mga aytem sa bot. Ang pag-type ng sb ay nagreresulta ng pagkasunog ng huling nakuhang kard.",
+    "GUILDSTONE_BURN": "Ikaw ay nagtatakdang gumamit ng Guildstone",
+    "GUILDSTONE_NOT_FOUND": "Wala kang Guildstone na maaring gamitin",
     "SUCCESS": "TAGUMPAY",
-    "CANCELLED": "NAKANSELA",
-    "BURN_FRAG_WARN": "Ikaw ay tungkol nang magsunog ng frag\nFrag Code: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "Walang nakitang frag",
-    "CARD_NOT_FOUND": "Hindi makita ang kard na iyan",
-    "CARD_LOCKED": "Nakakandado ang kard",
+    "CANCELLED": "KINANSELA",
+    "BURN_FRAG_WARN": "Ikaw ay nagtatakdang magsunog ng Fragment\nFrag Code: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "Walang matatagpuan na Fragment",
+    "CARD_NOT_FOUND": "Hindi matatagpuan ang kard na iyan",
+    "CARD_LOCKED": "Naka-lock ang kard na iyan",
     "CARD_NOT_OWNED": "Hindi mo pagmamay-ari ang kard na iyan"
 }

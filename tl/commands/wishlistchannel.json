@@ -1,6 +1,6 @@
 {
-  "DESCRIPTION": "Itakda ang channel ng nais na bilhin",
-  "CATEGORY": "Nais na Bilhin",
-  "CHANNEL_SET": "> Ang iyong channel ng nais na bilhin ay naitakda sa {{channel}}",
-  "CHANNEL_REMOVE": "> Ang iyong channel ng nais na bilhin ay tinanggal na"
+    "DESCRIPTION": "Italaga ang iyong ninanais sa channel",
+    "CATEGORY": "Listahan ng Ninanais",
+    "CHANNEL_SET": "> Ang listahan ng iyong ninanais ay naitalaga sa {{channel}}",
+    "CHANNEL_REMOVE": "> Ang listahan ng iyong ninanais ay tinanggal sa {{channel}}"
 }
