@@ -3,9 +3,9 @@
     "IN_RAID": "Este comando não pode ser usado durante uma invasão",
     "SELECT_OPT": "Selecione uma opção",
     "DECK": "Baralho",
-    "UNIQUE_WARN": "Todos os movimentos num baralho devem ser unicos para que possam ser usados para duelar ou invadir!",
+    "UNIQUE_WARN": "Todos os movimentos num baralho devem ser únicos para que possam ser usados para duelar ou invadir!",
     "UNLOCK_SLOT": "Desbloquear slot {{deckNo}} por 50.000 de prata?",
-    "SLOT_UNLOCKED": "Slot {{deckNo}} 🔓",
+    "SLOT_UNLOCKED": "Espaço {{deckNo}} 🔓",
     "MISSING_SILVERS": "Você não tem `Silver` suficiente para desbloquear o slot",
     "UNLOCK_WARN": "Desbloqueie o slot {{deckNo}} para gerar um baralho aleatório",
     "ENTER_CODES": "Insira os códigos das cartas",
@@ -19,5 +19,5 @@
     "UNLOCK_SAVE": "Desbloqueie o slot {{deckNo}} para salvar o baralho lá",
     "UNLOCK_GENERATE": "Desbloqueie o slot {{deckNo}} para gerar um baralho aleatório",
     "NOT_ENOUGH_CARD": "Você nao possui cartas suficientes com movimentos diferentes. Por favor, colete mais cartas",
-    "UNLOCK_SELECT": "Desbloqueie o espaço número {{deckNo}} para poder selecionar o baralho a partir de lá"
+    "UNLOCK_SELECT": "Desbloqueie o slot {{deckNo}} para poder selecionar o baralho a partir de lá"
 }
