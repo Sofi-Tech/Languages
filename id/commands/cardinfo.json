@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Menampilkan informasi kartu",
-    "SLASH_DESC": "Masukkan kode kartu yang anda periksa",
-    "NO_CARD_FOUND": "Tidak dapat menemukan kartu terakhir Anda. Coba sediakan kode kartu",
+    "DESCRIPTION": "Menampilkan informasi tentang kartu",
+    "SLASH_DESC": "Masukkan kode kartu yang ingin Anda periksa",
+    "NO_CARD_FOUND": "Tidak dapat menemukan kartu terakhir Anda. Coba berikan kode kartu sebagai gantinya",
     "INVALID_CARD_CODE": "Kode kartu yang diberikan tidak valid",
     "CARD_MORPHED": "Kartu sudah di morph",
     "CARD_GLOWED": "Kartu dilengkapi 'glow' berikut __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",

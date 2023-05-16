@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Gunakan perintah `sdaily` untuk mengklaim hadiah harian Anda. Pertahankan rekor dan dapatkan hadiah yang lebih baik lagi!",
+    "DESCRIPTION": "Gunakan perintah `sdaily` untuk mengklaim hadiah harian Anda. Pertahankan pencapaian dan dapatkan hadiah yang lebih baik lagi!",
     "CATEGORY": "Kartu",
-    "EMBED_AUTHOR": "{{author}} Harian",
+    "EMBED_AUTHOR": "{{author}} Hadiah Harian",
     "DAILY_ERROR": "Anda dapat mengklaim `Daily` Anda setelah {{timeout}} \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} harian tersisa untuk mengklaim Peti Biasa",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} harian yang tersisa untuk mengklaim Peti Langka",
-    "NOTE": "\n⚠️ Discord atau Staf Sofi tidak akan pernah meminta kata sandi, OTPs, atau meminta Anda untuk mengubah email Anda, atau berkomunikasi menggunakan bot pihak ketiga seperti Mee6/Dyno. Apa pun yang ditawarkan kepada Anda secara gratis atau diminta untuk bergabung dengan server itu mencurigakan. Laporkan di {{link}}.",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` yang tersisa untuk mengklaim `Peti Biasa`",
+    "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` yang tersisa untuk mendapatkan `Peti Langka`",
+    "NOTE": "⚠️ Discord, serta Staf Sofi tidak akan **__pernah__** melakukan hal-hal berikut ini:\n- Meminta `Kata Sandi` atau `Kata Sandi Sekali Pakai` Anda\n- Menyarankan Anda untuk mengganti E-Mail Anda\n- Menggunakan metode pihak ketiga, seperti \"`Mee6` atau `Dyno` untuk berkomunikasi dengan Anda.\n\nSetiap aktivitas yang mencurigakan terkait hal yang disebutkan di atas harus segera dilaporkan di {{link}}! ⚠️",
     "EMBED_FOOTER": "Pencapaian [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Terima kasih telah mengklaim `Daily`!\n",
-    "GUILD_BONUS": "Bonus Top 20 Server x1.5 \n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "DAILY_SUCCESS": "Terima kasih telah mengklaim `Daily`!",
+    "GUILD_BONUS": "Karena Anda menggunakan perintah ini di Server Sofi Top-20, maka Hadiah `Daily` Anda akan bertambah sebesar x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "- Anda dapat mencari karakter tertentu menggunakan perintah `scl`. Di menu pencarian karakter, Anda dapat memeriksa statistik kartu, gambar 3D dan animasi mereka, papan peringkat gen, papan peringkat penggemar, dan ID kartu.\n- ID kartu diperlukan saat mengirimkan gambar untuk versi baru.",
+    "DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah `scl`. Dalam menu pencarian karakter, Anda dapat memeriksa statistik kartu, gambar 3D/animasinya, serta papan peringkat gen, papan peringkat penggemar, dan `Card ID`.\n- `Card ID` diperlukan saat mengirimkan gambar untuk versi baru.",
     "CHAR_NOT_FOUND": "Tidak dapat menemukan karakter",
-    "CHAR_NF_SENSITIVE": "Tidak ada karakter yang ditemukan [Fungsi pencarian sensitif pada huruf besar-kecil]",
+    "CHAR_NF_SENSITIVE": "Karakter tidak ditemukan. [Fungsi `lookup` peka terhadap huruf besar/kecil!]",
     "EMBED_TITLE": "__Pencarian Karakter__",
     "NORMAL_LABEL": "Versi Normal",
     "FAN_PTS_LABEL": "Tambahkan Poin Fan",

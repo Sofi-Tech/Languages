@@ -18,10 +18,10 @@
     "COMMAND_COOLDOWN": "> [`${command.name}`] Wacht {{cooldown}} voordat je het commando weer gebruikt.",
     "REGISTER_USER": "{{author}} | Voer `{{prefix}}register` in en ga verder naar de website om te verifiëren",
     "USER_COMMAND_QUEUE": "<@{{id}}> moet het {{existsFor}} commando voltooien voordat ze verder kunnen gaan.",
-    "AUTHOR_COMMAND_QUEUE": "Voltooi het {{existsFor}}-commando voordat je verder kunt gaan.",
+    "AUTHOR_COMMAND_QUEUE": "Voltooi het {{existsFor}}-commando voordat je verder gaat.",
     "SAFE_MODE": "> De bot bevindt zich in de veilige modus. {{eta}}. \nZe komt zo terug ❤",
     "CATEGORY_DISABLED": "> De categorie is uitgeschakeld. \nReden: `{{category}}`",
     "COMMAND_DISABLED": "> Het commando is uitgeschakeld. \nReden: `{{command}}`",
-    "NO_PERMISSIONS": "Ik heb geen machtigingen om het commando uit te voeren",
-    "SERIES_DROP": "Serie drop"
+    "NO_PERMISSIONS": "Ik heb geen machtigingen om dit commando uit te voeren",
+    "SERIES_DROP": "De Stemmen hebben gesproken!"
 }

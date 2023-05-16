@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Menampilkan versi/3d/GIF dari karakter",
     "CHAR_NOT_FOUND": "Tidak dapat menemukan karakter",
-    "CHAR_NF_SENSITIVE": "Tidak ada karakter yang ditemukan [Fungsi pencarian sensitif pada huruf besar-kecil]",
+    "CHAR_NF_SENSITIVE": "Karakter tidak ditemukan. [Fungsi `lookup` peka terhadap huruf besar/kecil!]",
     "EMBED_TITLE": "__Pencarian Karakter__",
     "SUBMITTED": "Dikirim oleh: <@{{userID}}>",
     "EMBED_FOOTER": "Temukan v1 menggunakan scl | Kirim versi menggunakan ssc",

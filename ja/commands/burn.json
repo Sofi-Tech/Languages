@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "カードを燃やして、 `Cubes` を作成し、ボットでさまざまなアイテムを購入するために使用できる `Crystals`および `Silver`を取得します。タイピング `sb` 最後のクレームカードを燃やします。",
-    "GUILDSTONE_BURN": "`Guild Stone`交換を確定する",
-    "GUILDSTONE_NOT_FOUND": "お持ちの `Guild Stone` 数をご確認ください",
+    "DESCRIPTION": "カードを燃やして、 `キューブ` を作成し、ボットでさまざまなアイテムを購入するために使用できる `クリスタル` および `シルバー`を取得します。タイピング `sb` 最後のクレームカードを燃やします。",
+    "GUILDSTONE_BURN": "`ギルドストーン`交換を確定する",
+    "GUILDSTONE_NOT_FOUND": "お持ちの`ギルドストーン`数をご確認ください",
     "SUCCESS": "完了しました",
     "CANCELLED": "キャンセルしました",
     "BURN_FRAG_WARN": "`Fragment`を燃やそうとしています\n`Fragment`コード：`{{fragCode}}`",
