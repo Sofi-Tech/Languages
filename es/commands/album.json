@@ -9,9 +9,9 @@
     "NO_ALBUMS": "{{member}} no tiene ningún álbum en este momento\nUsa el comando `sca` para crear un álbum\nUsar el comando `sacf <album> <page>` para configurar un álbum",
     "ALBUM_NAME_NOT_FOUND": "{{author}} No se pudo encontrar ningún álbum con el nombre `{{albumName}}`",
     "NO_PAGES": "{{author}} Ese álbum no tiene páginas",
-    "MAX_PAGES_ERROR": "{{author}} El número de página debe estar entre 0 y {{maxPages}}",
+    "MAX_PAGES_ERROR": "{{author}} El número de página debe estar entre 1 y {{maxPages}}",
     "PROCESSING": "Procesando <a:_:876610443148406794>",
-    "MISSING_CARDS": "La página del álbum no tiene las cartas mencionadas:\n{{cardsList}}",
-    "CARDS_LAYOUT_ERROR": "Intenta configurar las cartas y el diseño nuevamente para verlo\nÁlbum: `{{albumName}}` Página: `{{pageNumber}}`",
+    "MISSING_CARDS": "Esta página del álbum no tiene las siguientes cartas:\n{{cardsList}}",
+    "CARDS_LAYOUT_ERROR": "Intenta establecer las cartas y el diseño nuevamente para ver esta página\nÁlbum: `{{albumName}}` Página: `{{pageNumber}}`",
     "PROFILE_OWNED": "Perfil de {{memberId}}"
 }
