@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Richiedi il tuo `sdaily` e mantieni la serie di vittorie per ottenere fantastici premi!",
+    "DESCRIPTION": "Usa il comando \"sdaily\" per richiedere la tua ricompensa giornaliera. Mantieni una serie di vittorie per ottenere ricompense ancora migliori!",
     "CATEGORY": "Carte",
     "EMBED_AUTHOR": "Premi giornalieri di {{author}}",
-    "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}} \n",
+    "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}}\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__`Daily`rimasto per reclamare a `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874>__{{count}}x__ `Daily`rimasto per reclamare a`Rare Chest`",
-    "NOTE": "⚠️ Discord, così come lo staff di Sofi **__mai__** farà quanto segue:\n- Richiedi la tua `password` o \"password monouso OTP\".\n- Consigliare di cambiare la tua E-Mail\n- Utilizzare metodi di terze parti, come \"`Mee6` o `Dyno` per comunicare con te.\n\nQualsiasi attività sospetta relativa a quanto sopra menzionato deve essere immediatamente segnalata a {{link}}! ⚠️",
-    "EMBED_FOOTER": "Striscia [ {{streak}} ] • {{streakBar}}",
+    "NOTE": "⚠️ Discord, così come lo Staff di Sofi, non faranno MAI nessuna delle seguenti cose:\n- Richiedi la tua \"Password\" o \"Password monouso\"\n- Consigliare di cambiare la tua E-Mail\n- Utilizzare metodi di terze parti, come \"Mee6\" o \"Dyno\" per comunicare con te.\n\nQualsiasi attività sospetta deve essere immediatamente segnalata a {{link}}! ⚠️",
+    "EMBED_FOOTER": "Serie **[ {{streak}} ]** • {{streakBar}}",
     "DAILY_SUCCESS": "Grazie per aver richiesto il tuo premio `Daily`!",
     "GUILD_BONUS": "Dato che stai usando questo comando su uno dei 20 migliori server Sofi, la tua ricompensa `Daily` è aumentata di x1,5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
