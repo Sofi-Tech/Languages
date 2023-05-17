@@ -24,7 +24,7 @@
     "ENTER_AMOUNT": "Masukkan jumlah",
     "MODAL_TITLE": "Masukkan jumlah dan nama mata uang",
     "CORRECT_EXAMPLE": "Contoh format yang benar: `10 Wists`,`3 Gems`,`5000 Silver`",
-    "MISSING_ITEMS": "Anda kehilangan: **__{{amount}__** `{{itemName}}`",
+    "MISSING_ITEMS": "Anda kehilangan: `{{amount} {{itemName}}`",
     "FAN_PTS_ADDED": "`+{{points}}` **Poin Penggemar** telah ditambahkan untuk: **__{{amount}}__** `{{itemName}}`",
     "3D_MAKER": "Pembuat 3D",
     "CARD_MAKER": "Pembuat Kartu",
