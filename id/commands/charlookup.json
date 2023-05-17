@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah `scl`. Dalam menu pencarian karakter, Anda dapat memeriksa statistik kartu, gambar 3D/animasinya, serta papan peringkat gen, papan peringkat penggemar, dan `Card ID`.\n- `Card ID` diperlukan saat mengirimkan gambar untuk versi baru.",
+    "DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah `scl`. Dalam menu pencarian karakter, Anda dapat memeriksa statistik kartu, gambar 3D/gif, serta papan peringkat gen, papan peringkat penggemar, dan `Card ID`.\n- `Card ID` diperlukan saat mengirimkan gambar untuk versi baru.",
     "CHAR_NOT_FOUND": "Tidak dapat menemukan karakter",
     "CHAR_NF_SENSITIVE": "Karakter tidak ditemukan. [Fungsi `lookup` peka terhadap huruf besar/kecil!]",
     "EMBED_TITLE": "__Pencarian Karakter__",
@@ -28,12 +28,12 @@
     "FAN_PTS_ADDED": "`+{{points}}` poin penggemar telah ditambahkan untuk: `{{amount}} {{itemName}}`",
     "3D_MAKER": "Pembuat 3D",
     "CARD_MAKER": "Pembuat Kartu",
-    "ANIMATED": "Versi Animasi",
+    "ANIMATED": "Versi Gif",
     "GEN_CLAIMED": "Gen terambil : {{count}}/100",
     "TOP_OWNER": "Pemilik Teratas",
     "TOP_3D_OWNER": "Pemilik 3D Teratas",
     "TOP_GIF_OWNER": "Pemilik GIF Teratas",
     "NO_OWNER_FOUND": "Tidak menemukan pemilik.",
-    "NO_3D_OWNER_FOUND": "Tidak menemukan pemilik 3D..",
-    "NO_GIF_OWNER_FOUND": "Tidak menemukan pemilik GIF."
+    "NO_3D_OWNER_FOUND": "Tidak menemukan pemilik `3D`.",
+    "NO_GIF_OWNER_FOUND": "Tidak menemukan pemilik `GIF`."
 }

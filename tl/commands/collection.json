@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "- Maaari mong tingnan ang iyong koleksyon ng mga baraha sa pamamagitan ng command na 'sc'. Ang mga koleksyon ay maaaring i-sort sa pamamagitan ng pangalan, Gen, Wishlist, mga Cosmetics na ginamit, Baraha na mga estadistika, 3d abeylability at maaari rin silang i-filter sa pamamagitan ng wishlist, numero ng Gen o pangalan ng tag.\n-Type sc t:ut upang hanapin ang mga hindi nakatag na baraha mula sa iyong koleksyon",
+    "DESCRIPTION": "-Maaari mong makita ang mga cards sa iyong collection sa pamamagitan ng command na `sc`\n-Pwede mo itong i sort by Name, Cosmetics, Stats at marami pang iba\n-Pwede mo itong i filter sa Wishlist, Gen o Tag Name\n-Gamitin ang `sc t:ut` para makita ang mga untag cards sa iyong collection",
     "SLASH_CMD_DESC": "Tingnan ang iyong koleksyon ng mga card",
-    "SLASH_DESC": "Magpasok ng user na nais mong tingnan ang koleksyon ng",
+    "SLASH_DESC": "Ilagay ang user na gusto mong makita ang koleksyon",
     "SLASH_DESC2": "Magpasok ng filter na nais mong i-apply sa koleksyon",
     "PLAYER_NOT_EXIST": "{{author}} | Wala siyang nasasakupan na player",
     "PLAYER_PRIVATE": "{{author}} | Ang koleksyon ng gumagamit na iyon ay pribado!",
@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Ang lahat ng {{taglength}} na card ay matagumpay na hindi naitatag",
     "ALL_TAG_SUCCESS": "{{author}} Ang lahat ng {{taglength}} na card ay matagumpay na naitatag",
     "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Pinahahalagahan ang pagsasaayos ngunit walang mga tag na natagpuan"
+    "NO_TAG_FOUND": "Na-appreciate ko ang pag sisikap mo sa pag tatag, pero walang nakitang tag"
 }
