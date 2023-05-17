@@ -1,0 +1,9 @@
+{
+  "TL_DESCRIPTION": "Shows list of tags",
+  "TL_CATEGORY": "Tags",
+  "NO_USER": "User do not exists.",
+  "NO_TAGS": "{{author}} No tags found",
+  "EMBED_TITLE": "Tag List: {{username}}",
+  "SOFI_FACT": "Sofi fact: Create a tag with stc lock 🔒\nLocked cards can't be burnt, given, traded\nor massburnt",
+  "EMBED_FOOTER": "Tags count: {{count}}"
+}

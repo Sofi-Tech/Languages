@@ -1,0 +1,7 @@
+{
+  "UT_DESCRIPTION": "Untag the cards",
+  "UT_CATEGORY": "Tags",
+  "INVALID_CODE": "Invalid card code or no card found",
+  "UNTAG_SUCCESSFULL": "Successfully untagged {{cardName}}",
+  "MULTIPLE_UNTAG": "Untagged {{validCards}}{{invalidCards}}"
+}
