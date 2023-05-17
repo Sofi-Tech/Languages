@@ -27,13 +27,13 @@
     "MISSING_ITEMS": "You are missing: `{{amount}} {{itemName}}`",
     "FAN_PTS_ADDED": "`+{{points}}` **Fan Points** have been added for: `{{amount}} {{itemName}}`",
     "3D_MAKER": "3D Artist",
-    "CARD_MAKER": "Card Maker",
+    "CARD_MAKER": "Created By",
     "ANIMATED": "GIF Variant",
-    "GEN_CLAIMED": "Gens Claimed: {{count}}/100",
+    "GEN_CLAIMED": "`Gens` Claimed: {{count}}/100",
     "TOP_OWNER": "Top Owners",
     "TOP_3D_OWNER": "Top 3D Owners",
     "TOP_GIF_OWNER": "Top GIF Owners",
-    "NO_OWNER_FOUND": "No owners found.",
+    "NO_OWNER_FOUND": "No Owners found",
     "NO_3D_OWNER_FOUND": "No `3D` owners found.",
     "NO_GIF_OWNER_FOUND": "No `GIF` owners found."
 }

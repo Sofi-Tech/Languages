@@ -26,14 +26,14 @@
     "CORRECT_EXAMPLE": "Exemples de format correct : `10 Wists`,`3 Gems`,`5000 Silver`",
     "MISSING_ITEMS": "Il vous manque : `{{amount}} {{itemName}}`",
     "FAN_PTS_ADDED": "`+{{points}}` **Points De Fan** ont été ajoutés pour : `{{amount}} {{itemName}}`",
-    "3D_MAKER": "Créateur 3D",
-    "CARD_MAKER": "Créateur de cartes",
+    "3D_MAKER": "Artiste 3D",
+    "CARD_MAKER": "Crée par",
     "ANIMATED": "Version GIF",
-    "GEN_CLAIMED": "Gens obtenues: {{count}}/100",
+    "GEN_CLAIMED": "`Gens` obtenues: {{count}}/100",
     "TOP_OWNER": "Top propriétaires",
     "TOP_3D_OWNER": "Top propriétaires 3D",
     "TOP_GIF_OWNER": "Top propriétaires de GIF",
-    "NO_OWNER_FOUND": "Aucun propriétaire trouvé.",
+    "NO_OWNER_FOUND": "Aucun Propriétaire trouvé",
     "NO_3D_OWNER_FOUND": "Aucun propriétaire `3D` trouvé..",
     "NO_GIF_OWNER_FOUND": "Aucun propriétaire de `GIF` trouvé.."
 }
