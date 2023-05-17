@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Ipinapakita ang inventory ng isang user",
-    "SLASH_DESC": "Ilagay ang pangalan o ID ng user na gusto mong makita ang nilalaman ng inventory",
+    "SLASH_DESC": "Ilagay ang pangalan o ID ng user na gusto mong makita ang inventory",
     "SLASH_DESC2": "Ilagay ang pangalan ng item na gusto mong hanapin",
     "NOT_REGISTER": "{{author}} | Hindi nakarehistro ang user!",
     "NO_USER_FOUND": "{{author}} Walang nakitang user",
-    "INV_PRIVATE": "Ang inventory ng user na ito ay naka private",
+    "INV_PRIVATE": "{{author}} Ang inventory ng user na ito ay naka private",
     "ITEMS": "Mga Item",
     "FRAMES": "Mga Frames",
     "CRYSTALS": "Mga Crystals",

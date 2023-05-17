@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Maaaring hanapin ang isang tiyak na character gamit ang 'cl' command. Sa charlookup menu, maaaring tingnan ang mga estadistika ng card, ang kanilang 3D at animated images, gen headboards, fan scoreboard at ang card ID. Ang card ID ay kinakailangan kapag isinumite ang mga imahe para sa mga bersyon nito.",
+    "DESCRIPTION": "- Maaaring mahanap ang isang tiyak na character gamit ang 'scl' command. Sa character lookup menu, maaaring tingnan ang mga estadistika ng card, ang kanilang 3D at animated images, gen leader boards, fan leaderboard at ang `Card ID`.\n-Ang `Card ID`ay kinakailangan kapag mag susubmit ng mga imahe para sa bagong `Versions`.",
     "CHAR_NOT_FOUND": "Hindi makita ang character",
     "CHAR_NF_SENSITIVE": "Walang mahanap na character, ito ay may sensitivity sa kaso",
     "EMBED_TITLE": "__Paghanap ng Karakter__",
@@ -24,7 +24,7 @@
     "ENTER_AMOUNT": "Ipasok ang halaga",
     "MODAL_TITLE": "Ipasok ang halaga at pangalan ng currency",
     "CORRECT_EXAMPLE": "Tamang format na halimbawa: `10 wists`,`3 gems`,`5000 silvers`",
-    "MISSING_ITEMS": "Nawawalang mga item: `{{amount}} {{itemName}}`",
+    "MISSING_ITEMS": "Ikaw ay nawawalan ng: `{{amount}} {{itemName}}`",
     "FAN_PTS_ADDED": "`+{{points}}` fan points ang idinagdag para sa: `{{amount}} {{itemName}}`",
     "3D_MAKER": "3D Maker",
     "CARD_MAKER": "Card Maker",
@@ -33,7 +33,7 @@
     "TOP_OWNER": "Mga Top na May Ari",
     "TOP_3D_OWNER": "Mga Top na May Ari ng 3D",
     "TOP_GIF_OWNER": "Mga Top na May Ari ng GIF",
-    "NO_OWNER_FOUND": "Walang nahanap na mga may-ari..",
+    "NO_OWNER_FOUND": "Walang nahanap na mga may-ari.",
     "NO_3D_OWNER_FOUND": "Walang nahanap na mga may-ari ng 3D..",
     "NO_GIF_OWNER_FOUND": "Walang nahanap na mga may-ari ng GIF.."
 }

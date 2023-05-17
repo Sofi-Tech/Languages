@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Displays Version/3D/GIF variants of a character",
-    "CHAR_NOT_FOUND": "Cannot find character",
+    "CHAR_NOT_FOUND": "Could not find the character you are looking for",
     "CHAR_NF_SENSITIVE": "No character found. [The `lookup` function is case sensitive!]",
     "EMBED_TITLE": "__Character's Lookup__",
     "SUBMITTED": "Submitted By: <@{{userID}}>",

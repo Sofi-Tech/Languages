@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Utiliser la commande `sdaily` pour récupérez vos récompenses quotidiennes et maintenez la série pour obtenir de superbes récompenses!",
+    "DESCRIPTION": "Utiliser la commande \"sdaily\" pour récupérez vos récompenses quotidiennes et maintenez la série pour obtenir de superbes récompenses!",
     "CATEGORY": "Cartes",
     "EMBED_AUTHOR": "Récompenses Quotidiennes de {{author}}",
-    "DAILY_ERROR": "Vous pouvez récupérer votre `Daily` après {{timeout}} \n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}}x__ `Daily` restantes pour récupérer un `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874> {{count}}x__ `Daily` restantes pour récupérer un `Rare Chest`",
-    "NOTE": "⚠️ Le personnel de Discord ou de Sofi ne vous demandera **__jamais__** les choses suivantes:\n- Votre  `mot de passe `, votre  `A2F `\n- De modifier votre adresse mail\n- Ne communiqueront pas via des bots tiers tel que  `Mee6 ` ou  `Dyno `\n\nToutes activités suspectes mentionnées avant doivent être rapporter immédiatement ici {{link}}! ⚠️",
-    "EMBED_FOOTER": "Série [ {{streak}} ] • {{streakBar}}",
+    "DAILY_ERROR": "Vous pouvez récupérer votre `Daily` après {{timeout}}\n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` restantes pour récupérer un `Common Chest`",
+    "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` restantes pour récupérer un `Rare Chest`",
+    "NOTE": "⚠️ Le personnel de Discord ou de Sofi ne vous demandera JAMAIS les choses suivantes:\n- Votre \"Mot de passe\", votre `A2F `\n- De modifier votre adresse mail\n- Ne communiqueront pas via des bots tiers tel que \"Mee6\" ou \"Dyno\"\n\nToutes activités suspectes doivent être rapporter immédiatement ici {{link}}! ⚠️",
+    "EMBED_FOOTER": "Série **[ {{streak}} ]** • {{streakBar}}",
     "DAILY_SUCCESS": "Merci d'avoir récupéré votre `Daily`!",
     "GUILD_BONUS": "Étant donné que vous utilisez cette commande sur un serveur du Top 20 des serveurs possédant Sofi, votre `Daily` obtient un Bonus x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

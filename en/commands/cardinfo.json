@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Displays information about a card",
     "SLASH_DESC": "Enter the code of a card you want to examine",
-    "NO_CARD_FOUND": "Cannot find your last card. Try providing a card code instead",
+    "NO_CARD_FOUND": "Could not find your last card. Try providing a card code instead",
     "INVALID_CARD_CODE": "Invalid card code provided",
     "CARD_MORPHED": "That card is morphed",
     "CARD_GLOWED": "That card has the following `Glow` applied: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
