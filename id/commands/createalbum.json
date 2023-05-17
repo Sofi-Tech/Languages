@@ -7,7 +7,7 @@
     "ALBUM_NAME_LONG": "Nama album terlalu panjang. Coba kurangi menjadi kurang dari 20 karakter",
     "MAX_ALBUMS": "{{author}} Anda hanya dapat memiliki maksimal 10 album",
     "ALBUM_NAME_EXISTS": "{{author}} Album dengan nama `{{name}}` sudah ada",
-    "ALBUM_CREATE_CONFIRMATION": "Anda akan membuat album dengan nama {{albumName}}\nMembuat album gratis, namun anda harus membeli halaman dengan`Silver`\nGunakan `salbumconfig `atau` sacf` untuk mengkonfigurasi album",
+    "ALBUM_CREATE_CONFIRMATION": "Anda akan membuat album dengan nama `{{albumName}}`\nMembuat album gratis, namun anda harus membeli halaman dengan`Silver`\nGunakan `salbumconfig `atau` sacf` untuk mengkonfigurasi album",
     "BUTTON_ACCEPT": "Ya, buat",
     "BUTTON_DENY": "Tidak sekarang",
     "NO_AMOUNT": "Anda tidak memiliki cukup `Wists` untuk membuat album",
