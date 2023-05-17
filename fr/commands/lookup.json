@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Affiche les différentes versions/3D/GIF d'un personnages",
     "CHAR_NOT_FOUND": "Impossible de trouver le personnage que vous recherchez",
-    "CHAR_NF_SENSITIVE": "Impossible de trouver un personnage. (La fonction `lookup` est sensible aux majuscules!)",
+    "CHAR_NF_SENSITIVE": "Impossible de trouver un personnage. [La fonction `lookup` est sensible aux majuscules!]",
     "EMBED_TITLE": "__Personnages Correspondants__",
     "SUBMITTED": "Soumis par: <@{{userID}}>",
     "EMBED_FOOTER": "Se renseigner sur la `Version`1 en utilisant `scl`.Vous pouvez également soumettre de nouvelles `Versions` en utilisant la commande `ssc`",
