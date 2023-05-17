@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Vous pouvez rechercher un personnage spécifique en utilisant la commande \"scl\". Dans le menu, vous pouvez consulter les statistiques d'une carte, leurs différentes Version/3D/GIF, ainsi que le classement par gen ou celui des fans et leur \"Card ID\".\n- Le \"Card ID\" est nécessaire lors de la soumission d'images pour de nouvelles \"Versions\"",
     "CHAR_NOT_FOUND": "Impossible de trouver le personnage que vous recherchez",
-    "CHAR_NF_SENSITIVE": "Impossible de trouver un personnage. (La fonction `lookup` est sensible aux majuscules!)",
+    "CHAR_NF_SENSITIVE": "Impossible de trouver un personnage. [La fonction `lookup` est sensible aux majuscules!]",
     "EMBED_TITLE": "__Personnages Correspondants__",
     "NORMAL_LABEL": "Version normale",
     "FAN_PTS_LABEL": "Ajouter des points de fan",
