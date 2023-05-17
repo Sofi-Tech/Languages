@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Gamitin ang command na `sdaily` upang makuha ang iyong  gantimpala. Gamitin ito araw-araw para makakuha ng mas magandang gantimpala!",
+    "DESCRIPTION": "Gamitin ang command na `sdaily` upang makuha ang iyong pang araw-araw na reward. Panatilihin ang iyong streak upang magkaroon ng mas magandang rewards!",
     "CATEGORY": "Kard",
-    "EMBED_AUTHOR": "{{author}}'s Pang araw araw na gantimpala",
+    "EMBED_AUTHOR": "{{author}}'s Pang araw-araw na reward",
     "DAILY_ERROR": "Maaari mong makuha ang iyong `Daily` kapag natapos ang {{timeout}} \n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` ang natititira para makuha ang `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` ang natitira para makuha mo ang `Rare Chest`",
-    "NOTE": "\n⚠️ Hindi kailanman hihingi ng password, mga otp, o pagbabago ng email o makikipag-ugnay gamit ang third-party bots tulad ng Mee6 / Dyno ang mga tauhan ng Discord o Sofi. Kung mayroong nag-aalok ng libre o humihiling na sumali sa isang server, ito ay kaduda-duda. I-ulat ito sa {{link}}",
+    "NOTE": "⚠️ Discord, pati na rin ang mga Sofi Staff ay hindi **_kailanman_** gagawin ang mga sumusunod:\n-Itanong ang iyong `Password` o `One-Time-Password`\n-Ipayo na baguhin ang iyong E-mail\n-Gumamit ng third-party methods, katulad ng`Mee6` o `Dyno` para makipag-usap sayo.\n\nKahit anong kahinahinalang aktibidad tungkol sa mga nabanggit ay dapat iulat agad sa {{link}}! ⚠️",
     "EMBED_FOOTER": "Streak [{{streak}}] • {{streakBar}}",
     "DAILY_SUCCESS": "Salamat sa pagkuha ng iyong `Daily`!",
-    "GUILD_BONUS": "Top 20 Server Bonus x1.5\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "GUILD_BONUS": "Dahil ginamit mo ang command na ito sa isang Top-20 Sofi Server, ang iyong `Daily` Reward ay tumaas ng x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
