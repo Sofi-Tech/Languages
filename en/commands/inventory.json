@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Displays a user's inventory",
-    "SLASH_DESC": "Enter the user whose inventory you want to view",
+    "SLASH_DESC": "Select a user in order to see their inventory",
     "SLASH_DESC2": "Enter the item you want to search for",
     "NOT_REGISTER": "{{author}} That user is not registered!",
     "NO_USER_FOUND": "{{author}} No user found",

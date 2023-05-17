@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "- `sc` ile kart koleksiyonunuzu görüntüleyebilirsiniz.\n- Ad, Kozmetik, İstatistikler ve daha fazlasına göre sıralanabilir\n- İstek Listesi, Gen veya Etiket Adına göre de filtrelenebilir\n- Koleksiyonunuzdaki etiketlenmemiş kartları bulmak için \"sc t:ut\" kullanın",
-    "SLASH_CMD_DESC": "Kart koleksiyonunuzu görüntüle",
-    "SLASH_DESC": "Koleksiyonunu görüntülemek istediğiniz kullanıcıyı girin",
+    "DESCRIPTION": "Koleksiyonunuzu \"sc\" komutu ile görüntüleyebilirsiniz.\n- Koleksiyonunuz Ad, Kozmetik, İstatistikler ve daha fazlasına göre sıralanabilir\n- İstek Listesi, Gen veya Etiket Adına göre de filtrelenebilir\n- Koleksiyonunuzdaki etiketlenmemiş kartları bulmak için \"sc t:ut\" kullanın",
+    "SLASH_CMD_DESC": "Kart koleksiyonunuzu görüntüler",
+    "SLASH_DESC": "Koleksiyonunu görmek için bir kullanıcı seçin",
     "SLASH_DESC2": "Koleksiyona uygulamak istediğiniz filtreleri girin",
     "PLAYER_NOT_EXIST": "{{author}} | Bu kullanıcı mevcut değil",
-    "PLAYER_PRIVATE": "{{author}} | Bu kullanıcının koleksiyonu özel!",
-    "NO_RESULTS": "{{author}} | Sonuç bulunamadı!",
-    "NO_CARDS_FOUND": "{{author}} | Aramanızla eşleşen kart bulunamadı",
+    "PLAYER_PRIVATE": "{{author}} Bu kullanıcının koleksiyonu gizlidir!",
+    "NO_RESULTS": "{{author}} Sonuç bulunamadı!",
+    "NO_CARDS_FOUND": "{{author}} Aramanızla eşleşen kart bulunamadı",
     "NOTHING_FOUND": "Hiçbir şey bulunamadı",
     "CHOOSE_SORTING": "Sıralama Seçin",
-    "SORT_CHAR": "Karakterlere göre sıralama",
+    "SORT_CHAR": "İsme göre sıralama",
     "SORT_SERIES": "Seriye göre sıralama",
     "SORT_GEN": "Kuşağa Göre Sırala",
     "SORT_WL": "Wishlist'e göre sıralama",
@@ -21,8 +21,8 @@
     "SORT_HP": "HP'ye göre sıralama",
     "SORT_DUPE": "Çiftlere göre sırala",
     "SHOWING PAGE": "{{page}}/{{pages}} sayfası gösteriliyor",
-    "ALL_UNTAG_SUCCESS": "Tüm {{taglength}} kartlar başarıyla etiketlenmedi",
+    "ALL_UNTAG_SUCCESS": "Tüm {{taglength}} kartların etiketi başarıyla kaldırıldı",
     "ALL_TAG_SUCCESS": "{{author}} Tüm {{taglength}} kartlar başarıyla etiketlendi",
     "PLEASE_WAIT": "Lütfen Bekleyin <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Etiketleme çabası için teşekkür ederiz ancak hiçbir etiket bulunamadı"
+    "NO_TAG_FOUND": "Etiketleme çabanız için teşekkür ederiz, ancak hiçbir etiket bulunamadı"
 }

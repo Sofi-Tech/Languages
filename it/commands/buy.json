@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Acquista oggetto dal shop",
-  "SLASH_DESC": "Inserisci il nome dell'articolo che desideri acquistare",
-  "SLASH_DESC2": "Inserisci la quantità",
-  "SLASH_DESC3": "Inserisci il codice dello `Sfondo` che desideri acquistare. [FUNZIONA SOLO SE L'OGGETTO È SELEZIONATO COME SFONDO]",
-  "NO_ITEM": "Inserisci un oggetto da acquistare",
-  "TRADEPASS_INFO": "L'acquisto del `Trade Pass` tramite argento è stato interrotto. Puoi acquistare un `Trade Pass` di 4 ore con 1 `Bump` o risparmiare 20 `Bump` per acquistare per 30 giorni",
-  "CORRECT_USAGE": "{{USER}} Utilizzo corretto: `{{prefix}}buy bg <bgID> [amount]`",
-  "INVALID_BG_AMOUNT": "Non inserire valori negativi",
-  "INVALID_BG_ID": "Inserisci un ID `Sfondo` valido",
-  "NO_ITEM_PROVIDED": "Nessun oggetto fornito",
-  "INVALID_AMOUNT": "Quantità non valida fornita",
-  "INVALID_ITEM_PROVIDED": "{{USER}} oggetto non valido fornito"
+    "DESCRIPTION": "Acquista oggetti dal \"Negozio\"\nUsa il comando \"shop\" per sfogliare l'assortimento di Sofi",
+    "SLASH_DESC": "Inserisci il nome dell'articolo che desideri acquistare",
+    "SLASH_DESC2": "Inserisci la quantità",
+    "SLASH_DESC3": "Inserisci il codice dello `Sfondo` che desideri acquistare. [FUNZIONA SOLO SE L'OGGETTO È SELEZIONATO COME SFONDO]",
+    "NO_ITEM": "Inserisci un oggetto da acquistare",
+    "TRADEPASS_INFO": "Puoi scambiare **__1x__** `Bump` con un `Trade Pass` di 4 ore o risparmiare **__20x__**`Bumps` per acquistare un `Trade Pass` di 30 giorni",
+    "CORRECT_USAGE": "{{USER}} Uso corretto: `{{prefix}}buy bg <BackgroundID> <amount>`",
+    "INVALID_BG_AMOUNT": "Non inserire valori negativi",
+    "INVALID_BG_ID": "Fornisci un ID `Background` valido",
+    "NO_ITEM_PROVIDED": "Nessun oggetto fornito",
+    "INVALID_AMOUNT": "Quantità non valida fornita",
+    "INVALID_ITEM_PROVIDED": "{{USER}} oggetto fornito non valido"
 }

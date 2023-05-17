@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "`Crystals` ve `Silver`elde etmek için kartları yakabilirsiniz, bunlar ile `Cubes`elde edebilir, veya çeşitli eşyaları satın alabilirsiniz. `sb` yazmak, elde edilen son kartı yakar.",
+    "DESCRIPTION": "`Crystals` ve `Silver`elde etmek için kartları yakabilirsiniz, bunlar ile `Cubes`elde edebilir, veya çeşitli eşyaları satın alabilirsiniz. \"sb\" komutunu tek başına kullanmak, en son kartınızı yakmaya çalışacaktır",
     "GUILDSTONE_BURN": "Bir`Guild Stone` yakmak üzeresiniz",
-    "GUILDSTONE_NOT_FOUND": "Yakacak bir `Guild Stone`a sahip değilsiniz",
+    "GUILDSTONE_NOT_FOUND": "Bir `Guild Stone`a sahip değilsiniz",
     "SUCCESS": "BAŞARILI",
     "CANCELLED": "İPTAL EDİLDİ",
     "BURN_FRAG_WARN": "Bir `Fragment` yakmak üzeresiniz\n`Fragment` Kodu: `{{fragCode}}`",

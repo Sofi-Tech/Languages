@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah \"scl\". Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Fan dan \"ID Kartu\" karakter tersebut.\n- \"Card ID\" diperlukan saat mengirimkan gambar untuk \"Versi\" baru",
     "CHAR_NOT_FOUND": "Tidak dapat menemukan karakter yang Anda cari",
-    "CHAR_NF_SENSITIVE": "Tidak dapat menemukan karakter apa pun. (Fungsi `lookup` peka terhadap huruf besar/kecil)",
+    "CHAR_NF_SENSITIVE": "Tidak dapat menemukan karakter apa pun. [Fungsi `lookup` peka terhadap huruf besar/kecil!]",
     "EMBED_TITLE": "__Mencocokkan Karakter__",
     "NORMAL_LABEL": "Varian Versi",
     "FAN_PTS_LABEL": "Tambahkan Poin Fan",

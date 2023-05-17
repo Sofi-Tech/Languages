@@ -1,19 +1,19 @@
 {
     "DESCRIPTION": "Muestra tu lista de deseos",
     "CATEGORY": "Lista de deseos",
-    "USER_NOT_FOUND": "Usuario no encontrado",
+    "USER_NOT_FOUND": "No se ha podido encontrar a ese usuario",
     "WISHLIST_PRIVATE": "> La lista de deseos de ese usuario es privada",
     "WISHLIST_EMPTY": "> La lista de deseos de {{username}} está igual de vacía que mi corazón 💔",
     "WISHLIST_EMBED_TITLE": "Lista de deseos de {{username}} [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Usa `{{prefix}}wu` o `{{prefix}}wu max` para aumentar la capacidad de tu lista de deseos | Páginas: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Copiar Códigos",
     "COPY_CODES_MENU_LABEL": "Copiar Todos los Códigos",
-    "COPY_CODES_MENU_DESCRIPTION": "Envía todos los códigos como mensaje de texto",
+    "COPY_CODES_MENU_DESCRIPTION": "Envía todos los códigos como un mensaje de texto",
     "BACK_MENU_LABEL": "Ir Atrás",
     "BACK_MENU_DESCRIPTION": "Te envía de vuelta a tu lista de deseos",
     "CARD_MENU_DESCRIPTION": "Copiar códigos de {{name}}",
     "COPY_CODES_MENU_PLACEHOLDER": "Copiar Códigos",
     "CODES_COPIED": "Copiado",
-    "ALL_CARD_CODES": "Aquí están los códigos de las cartas",
+    "ALL_CARD_CODES": "Aquí están los códigos de las cartas:\n",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: Códigos de la lista de deseos"
 }

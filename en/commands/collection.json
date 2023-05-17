@@ -9,8 +9,8 @@
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search",
     "NOTHING_FOUND": "Nothing found",
     "CHOOSE_SORTING": "Choose Sorting",
-    "SORT_CHAR": "Sort Characters",
-    "SORT_SERIES": "Sort Series",
+    "SORT_CHAR": "Sort By Name",
+    "SORT_SERIES": "Sort By Series",
     "SORT_GEN": "Sort By Gen",
     "SORT_WL": "Sort By Wishlist",
     "CHECK_COSMETICS": "Check Cosmetics",
@@ -20,9 +20,9 @@
     "SORT_SPEED": "Sort By Speed",
     "SORT_HP": "Sort By HP",
     "SORT_DUPE": "Sort By Dupes",
-    "SHOWING PAGE": "Showing page: {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "All {{taglength}} cards were untagged successfully",
-    "ALL_TAG_SUCCESS": "{{author}} All {{taglength}} cards were tagged successfully",
+    "SHOWING PAGE": "Showing Page: {{page}}/{{pages}}",
+    "ALL_UNTAG_SUCCESS": "All {{taglength}} cards were successfully untagged",
+    "ALL_TAG_SUCCESS": "{{author}} All {{taglength}} cards were successfully tagged",
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Appreciate the tagging effort, but no tags found"
+    "NO_TAG_FOUND": "Appreciate the tagging effort, but no tags were found"
 }
