@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah \"scl\". Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Fan dan \"ID Kartu\" karakter tersebut.\n- \"Card ID\" diperlukan saat mengirimkan gambar untuk \"Versi\" baru",
     "CHAR_NOT_FOUND": "Tidak dapat menemukan karakter yang Anda cari",
-    "CHAR_NF_SENSITIVE": "Karakter tidak ditemukan. [Fungsi `lookup` peka terhadap huruf besar/kecil!]",
+    "CHAR_NF_SENSITIVE": "Tidak dapat menemukan karakter apa pun. (Fungsi `lookup` peka terhadap huruf besar/kecil)",
     "EMBED_TITLE": "__Mencocokkan Karakter__",
     "NORMAL_LABEL": "Varian Versi",
     "FAN_PTS_LABEL": "Tambahkan Poin Fan",
@@ -10,7 +10,7 @@
     "3D_LABEL": "versi 3D",
     "3D_DESC": "Menampilkan varian 3D dari karakter ini",
     "GIF_LABEL": "Versi GIF",
-    "GIF_DESC": "Menampilkan varian GIF dari suatu karakter",
+    "GIF_DESC": "Menampilkan varian GIF dari karakter ini",
     "SERIES": "Seri",
     "NAME": "Nama",
     "CATEGORY": "Kategori",
@@ -29,11 +29,11 @@
     "3D_MAKER": "Seniman 3D",
     "CARD_MAKER": "Dibuat oleh",
     "ANIMATED": "Versi Gif",
-    "GEN_CLAIMED": "Gen terambil : {{count}}/100",
+    "GEN_CLAIMED": "`Gen` terambil : {{count}}/100",
     "TOP_OWNER": "Pemilik Teratas",
     "TOP_3D_OWNER": "Pemilik 3D Teratas",
     "TOP_GIF_OWNER": "Pemilik GIF Teratas",
-    "NO_OWNER_FOUND": "Tidak menemukan pemilik.",
-    "NO_3D_OWNER_FOUND": "Tidak menemukan pemilik `3D`.",
+    "NO_OWNER_FOUND": "Tidak `Versi` ditemukan pemilik",
+    "NO_3D_OWNER_FOUND": "Tidak menemukan pemilik `3D`",
     "NO_GIF_OWNER_FOUND": "Tidak menemukan pemilik `GIF`."
 }

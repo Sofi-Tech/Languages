@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- You can look up a specific character by using the \"scl\" command. In this menu, you can check a character's statistics, their Version/3D/GIF variants, as well as their Gen/Fan leaderboards and their \"Card ID\".\n- The \"Card ID\" is required when submitting images for new \"Versions\"",
     "CHAR_NOT_FOUND": "Could not find the character you are looking for",
-    "CHAR_NF_SENSITIVE": "No character found. [The `lookup` function is case sensitive!]",
+    "CHAR_NF_SENSITIVE": "Could not find any characters. (The `lookup` function is case sensitive!]",
     "EMBED_TITLE": "__Matching Characters__",
     "NORMAL_LABEL": "Version Variant",
     "FAN_PTS_LABEL": "Add Fan Points",
@@ -10,7 +10,7 @@
     "3D_LABEL": "3D Variant",
     "3D_DESC": "Displays the 3D variant of this character",
     "GIF_LABEL": "GIF Variant",
-    "GIF_DESC": "Displays the GIF variant of a character",
+    "GIF_DESC": "Displays the GIF variant of this character",
     "SERIES": "Series",
     "NAME": "Name",
     "CATEGORY": "Category",

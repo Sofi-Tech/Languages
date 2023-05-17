@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Affiche les différentes versions/3D/GIF d'un personnages",
     "CHAR_NOT_FOUND": "Impossible de trouver le personnage que vous recherchez",
-    "CHAR_NF_SENSITIVE": "Aucun personnage trouvé [La fonction `lookup` est sensible aux majuscules!]",
+    "CHAR_NF_SENSITIVE": "Impossible de trouver un personnage. (La fonction `lookup` est sensible aux majuscules!)",
     "EMBED_TITLE": "__Personnages Correspondants__",
     "SUBMITTED": "Soumis par: <@{{userID}}>",
     "EMBED_FOOTER": "Se renseigner sur la `Version`1 en utilisant `scl`.Vous pouvez également soumettre de nouvelles `Versions` en utilisant la commande `ssc`",
@@ -9,7 +9,7 @@
     "MORE": "Plus d'informations",
     "3D_DESC": "Affiche la version 3D de ce personnage",
     "GIF_LABEL": "Version GIF",
-    "GIF_DESC": "Affiche la version GIF d'un personnage",
+    "GIF_DESC": "Affiche la version GIF de ce personnage",
     "SERIES": "Série",
     "NAME": "Nom",
     "CATEGORY": "Catégorie",
@@ -20,5 +20,5 @@
     "EVENT": "Event",
     "UPCOMING_EVENT": "Event à venir",
     "TOP_OWNER": "Top propriétaires",
-    "NO_OWNER_FOUND": "Aucun Propriétaire trouvé"
+    "NO_OWNER_FOUND": "Aucun Propriétaire de cette `Version` trouvé"
 }

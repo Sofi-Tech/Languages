@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Menampilkan versi/3d/GIF dari karakter",
     "CHAR_NOT_FOUND": "Tidak dapat menemukan karakter yang Anda cari",
-    "CHAR_NF_SENSITIVE": "Karakter tidak ditemukan. [Fungsi `lookup` peka terhadap huruf besar/kecil!]",
+    "CHAR_NF_SENSITIVE": "Tidak dapat menemukan karakter apa pun. (Fungsi `lookup` peka terhadap huruf besar/kecil)",
     "EMBED_TITLE": "__Mencocokkan Karakter__",
     "SUBMITTED": "Dikirim oleh: <@{{userID}}>",
     "EMBED_FOOTER": "Masukkan kode pertamaTemukan `Versi` 1 dengan menggunakan perintah `scl`. Anda juga dapat mengirimkan `Versi` baru dengan menggunakan perintah `ssc` sebagai gantinya",
@@ -9,7 +9,7 @@
     "MORE": "Info Selengkapnya",
     "3D_DESC": "Menampilkan varian 3D dari karakter ini",
     "GIF_LABEL": "Versi GIF",
-    "GIF_DESC": "Menampilkan varian GIF dari suatu karakter",
+    "GIF_DESC": "Menampilkan varian GIF dari karakter ini",
     "SERIES": "Seri",
     "NAME": "Nama",
     "CATEGORY": "Kategori",
@@ -20,5 +20,5 @@
     "EVENT": "Acara",
     "UPCOMING_EVENT": "Acara Mendatang",
     "TOP_OWNER": "Pemilik Teratas",
-    "NO_OWNER_FOUND": "Tidak menemukan pemilik."
+    "NO_OWNER_FOUND": "Tidak `Versi` ditemukan pemilik"
 }
