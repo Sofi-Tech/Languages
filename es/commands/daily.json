@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Usa el comando `sdaily` para reclamar tu recompensa diaria. Mantén una racha y obtener recompensas aún mejores!",
+    "DESCRIPTION": "Usa el comando \"sdaily\" para reclamar tu recompensa diaria. Mantén una racha y obtener recompensas aún mejores!",
     "CATEGORY": "Cartas",
     "EMBED_AUTHOR": "Recompensa del `Daily` de {{author}}",
-    "DAILY_ERROR": "Puedes reclamar tu `Daily` dentro de {{timeout}} \n",
+    "DAILY_ERROR": "Puedes reclamar tu `Daily` dentro de {{timeout}}\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` restantes para reclamar un `Cofre Común`",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` restantes para reclamar un `Cofre Raro`",
-    "NOTE": "⚠️ Ni Discord ni el Equipo de Sofi te pedirán que hagas lo siguiente **__nunca__**:\n- Pedirte tu `Contraseña` o `Contraseña de un uso`\n- Pedirte o avisarte de que cambies tu gmail\n- Usar métodos de terceros, como \"`Mee6` o `Dyno` para comunicarse contigo.\n\nCualquier actividad sospechosa con respecto a lo mencionado anteriormente tiene que ser reportada de inmediato en {{link}}! ⚠️",
-    "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
+    "NOTE": "⚠️ Ni Discord ni el Equipo de Sofi harán NUNCA lo siguiente:\n- Pedirte tu \"Contraseña\" o \"Contraseñas de un uso\"\n- Pedirte o avisarte de que cambies tu gmail\n- Usar métodos de terceros, como \"Mee6\" o \"Dyno\" para comunicarse contigo.\n\nCualquier actividad sospechosa tiene que ser reportada de inmediato en {{link}}! ⚠️",
+    "EMBED_FOOTER": "Racha **[ {{streak}} ]** • {{streakBar}}",
     "DAILY_SUCCESS": "Gracias por reclamar tu `Daily`!",
     "GUILD_BONUS": "Como has usado este comando en uno de los Top-20 servidores de Sofi, tu recompensa de `Daily` aumentará en x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
