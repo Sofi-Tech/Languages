@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Brûlez des cartes pour obtenir des `Crystals` et des`Silver`, qui peuvent être utilisés pour fabriquer des `Cubes` et acheter divers autres articles dans le bot. La commande `sb`brûlera la dernière carte obtenue.",
+    "DESCRIPTION": "Brûlez des cartes pour obtenir des \"Crystals\" et des \"Crystals\", qui peuvent être utilisés pour fabriquer des \"Cubes\" ou pour acheter divers autres articles dans le Bot. La commande `\"sb\" brûlera la dernière carte obtenue",
     "GUILDSTONE_BURN": "Vous êtes sur le point d'utiliser une `Guild Stone`",
-    "GUILDSTONE_NOT_FOUND": "Vous n'avez pas de `Guild Stone` à échanger",
+    "GUILDSTONE_NOT_FOUND": "Vous n'avez pas de `Guild Stone`",
     "SUCCESS": "SUCCÈS",
     "CANCELLED": "ANNULÉ",
     "BURN_FRAG_WARN": "Vous êtes sur le point de brûler un `Fragment`\nCode du `Fragment` : `{{fragCode}}`",

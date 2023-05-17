@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Affiche les différentes versions/3D/GIF d'un personnages",
-    "CHAR_NOT_FOUND": "Impossible de trouver ce personnage",
+    "CHAR_NOT_FOUND": "Impossible de trouver le personnage que vous recherchez",
     "CHAR_NF_SENSITIVE": "Aucun personnage trouvé [La fonction `lookup` est sensible aux majuscules!]",
-    "EMBED_TITLE": "__Recherche de personnage__",
+    "EMBED_TITLE": "__Personnages Correspondants__",
     "SUBMITTED": "Soumis par: <@{{userID}}>",
     "EMBED_FOOTER": "Se renseigner sur la `Version`1 en utilisant `scl`.Vous pouvez également soumettre de nouvelles `Versions` en utilisant la commande `ssc`",
     "VERSION_DISP": "Affiche la `Version` {{version}} de la carte",
