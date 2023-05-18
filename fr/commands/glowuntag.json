@@ -2,7 +2,7 @@
     "GUT_DESCRIPTION": "Retire les \"Glow Tags\"",
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "Vous n'avez pas encore de `Glows`",
-    "WRONG_GLOWCODE_FORMAT": "Le Glowcode commence par #",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Les `Glow` codes commencent toujours par **#**",
     "INVALID_GLOWCODE": "Code de lueur invalide ou lueur introuvable",
     "GLOW_UNTAG_SUCCESSFULL": "$ {{ glow }} dissimulé avec succès"
 }
