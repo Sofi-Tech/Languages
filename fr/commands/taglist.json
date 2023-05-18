@@ -1,9 +1,9 @@
 {
-    "TL_DESCRIPTION": "Affiche la liste des balises",
-    "TL_CATEGORY": "Balises",
-    "NO_USER": "L'utilisateur n'existe pas.",
-    "NO_TAGS": "{{author}} Aucune balise trouvée",
-    "EMBED_TITLE": "Liste des balises: {{username}}",
-    "SOFI_FACT": "Sofi fact: Créez une balise avec stc lock 🔒\nLes cartes verrouillées ne peuvent pas être brûlées, données, échangées\nou brûlées en masse",
-    "EMBED_FOOTER": "Nombre de balises: {{count}}"
+    "TL_DESCRIPTION": "Affiche la liste de vos tags",
+    "TL_CATEGORY": "Tags",
+    "NO_USER": "{{author}} Cet utilisateur n'existe pas",
+    "NO_TAGS": "{{author}} Aucun tags trouvée",
+    "EMBED_TITLE": "Liste des tags: {{username}}",
+    "SOFI_FACT": "Les cartes possédants un tag avec un émoji cadenas \"🔒\" ne peut pas être burn ou échanger\nExample: \"stc lock 🔒\"",
+    "EMBED_FOOTER": "Nombre de tag: {{count}}"
 }

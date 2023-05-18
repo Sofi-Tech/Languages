@@ -18,6 +18,6 @@
     "REPLACE_EMOJI": "Enter the emoji that you want to replace {{emoji}} with",
     "TAGEMOJI_EXISTS": "{{author}} A `Tag` with the emoji {{newEmoji}} already exists. Please choose a different emoji",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} A `Tag` with the emoji {{newEmoji}} already exists. Please choose a different emoji",
-    "REPLACE_EMOJI_CONFIRMATION": "Are you sure you want to chane the `Tag` emoji from {{oldEmoji}} to {{newEmoji}}?",
+    "REPLACE_EMOJI_CONFIRMATION": "Are you sure you want to change the `Tag` emoji from {{oldEmoji}} to {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFULL": "The emoji of this `Tag` emoji has been successfully updated from {{oldEmoji}} to {{newEmoji}}"
 }
