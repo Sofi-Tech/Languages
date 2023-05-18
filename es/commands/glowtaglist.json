@@ -1,7 +1,7 @@
 {
-    "GTL_DESCRIPTION": "Muestra la lista de etiquetas",
+    "GTL_DESCRIPTION": "Muestra una lista con tus \"Etiquetas de Glow\"",
     "GTL_CATEGORY": "Etiquetas",
-    "NO_TAGS": "No se encontraron etiquetas",
+    "NO_TAGS": "{{author}} No se ha podido encontrar ninguna etiqueta",
     "GLOWS": "Brillos",
     "EMBED_TITLE": "Lista de etiquetas brillantes"
 }
