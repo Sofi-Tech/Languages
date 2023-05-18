@@ -1,8 +1,8 @@
 {
-    "GUT_DESCRIPTION": "Untag the glow",
+    "GUT_DESCRIPTION": "Removes \"Glow Tags\"",
     "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "You haven't unlocked any glows yet",
-    "WRONG_GLOWCODE_FORMAT": "Glowcode starts with #",
-    "INVALID_GLOWCODE": "Invalid Glow Code or No Glow Found",
+    "NO_GLOWS_FOUND": "{{author}} You don't have any glows currently",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes always start with a **#**",
+    "INVALID_GLOWCODE": "{{author}} The provided `Glow` codes are in valid",
     "GLOW_UNTAG_SUCCESSFULL": "Successfully untagged ${{glow}}"
 }

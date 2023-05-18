@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Bu eylemler için bekleme süresini görüntüler:\n- Drop, Grab, Vote, Raid , Bump\n- `Drop`, `Vote` ve `Daily` için Direkt Mesaj hatırlatmaları almak için zil simgelerine tıkla!",
     "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katılın](https://discord.gg/sofi)",
-    "DROP": "Kart düşür",
-    "GRAB": "Al",
-    "VOTE": "`Vote`ver",
-    "BUMP": "`Bump`",
-    "DAILY": "Günlük",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta(lar) | `{{customPrefix}}mail`komutu ile kontrol edebilirsiniz!"
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "VOTE": "Vote",
+    "BUMP": "Bump",
+    "DAILY": "Daily",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` okunmamış posta(lar) | `{{customPrefix}}mail`komutu ile kontrol edebilirsin!"
 }
