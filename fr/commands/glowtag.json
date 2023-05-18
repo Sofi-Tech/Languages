@@ -2,9 +2,9 @@
     "GT_DESCRIPTION": "Tag vos \"Glows\"",
     "GT_CATEGORY": "Tags",
     "GLOWTAGS_NOT_FOUND": "Vous n'avez pas encore de `Glow Tags`. Vous pouvez en crée avec la commande `sgtc <nom> <emoji>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} vous n'avez pas encore déverrouillé de lueurs",
-    "MISSING_GLOWTAG": "{{author}} Je suppose que vous devez fournir un glow tag",
-    "INVALID_GLOW_CODE": "{{author}} Code de lueur invalide ou aucune lueur trouvée",
-    "SUCCESSFULL_GLOWTAG": "{{author}} Tagué avec succès **{{glow}}** en tant que {{tag}}",
-    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Ces lueurs ont été taguées avec succès"
+    "GLOWS_NOT_UNLOCKED": "{{author}} Vous n'avez pas encore de `Glows`",
+    "MISSING_GLOWTAG": "{{author}} Vous devez fournir un `Glow tag`",
+    "INVALID_GLOW_CODE": "{{author}} Un ou Plusieurs des `Glow` codes fournis est/sont invalide(s)",
+    "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** a été tag avec succès en tant que {{tag}}",
+    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Toutes les `Glows` ont été tag avec succès"
 }
