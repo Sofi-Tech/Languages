@@ -3,7 +3,7 @@
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Cet utilisateur n'existe pas",
     "NO_TAGS": "{{author}} Aucun tags trouvée",
-    "EMBED_TITLE": "Liste des tags: {{username}}",
+    "EMBED_TITLE": "Liste des tags de: {{username}}",
     "SOFI_FACT": "Les cartes possédants un tag avec un émoji cadenas \"🔒\" ne peut pas être burn ou échanger\nExample: \"stc lock 🔒\"",
     "EMBED_FOOTER": "Nombre de tag: {{count}}"
 }

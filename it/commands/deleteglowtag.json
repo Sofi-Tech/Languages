@@ -3,5 +3,5 @@
     "DGT_CATEGORY": "Tag",
     "CORRECT_USAGE": "{{author}} Uso corretto: `sdgt <tagname>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Non è riuscito a trovare quel `Glow Tag`",
-    "DELETE_GLOWTAG": "Eliminato il Tag Glow {{tag}}"
+    "DELETE_GLOWTAG": "{{author}} Eliminato `Glow Tag` {{tag}}"
 }

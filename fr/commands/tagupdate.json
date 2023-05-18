@@ -13,11 +13,11 @@
     "WRONG_TAGNAME_FORMAT": "{{author}} Le nom de votre `Tag` doit être alphanumérique et ne doit pas contenir de caractères spéciaux ni d'espaces ou de mot injurieux",
     "TAGNAME_LONG": "{{author}} Un nom de `Tag` dois contenir au maximum 20 caractères",
     "REPLACE_NAME_CONFIRMATION": "Êtes-vous sûr de vouloir changer le nom du `Tag` `{{oldTag}}` par `{{newTag}}` ?",
-    "REPLACE_NAME_SUCCESSFULL": "Le nom de votre `Tag` a été mis à jour avec succès de `{{oldTag}}` à `{{newTag}}`",
+    "REPLACE_NAME_SUCCESSFULL": "Le nom de votre `Tag` a été mis à jour avec succès passant de `{{oldTag}}` à `{{newTag}}`",
     "PROCESS_TERMINATED": "Ce processus a été annulé",
     "REPLACE_EMOJI": "Envoyez l'emoji que vous souhaitez utiliser à la place de {{emoji}}",
-    "TAGEMOJI_EXISTS": "{{author}} Un `Tag` avec l'emoji {{newEmoji}} existe déjà. Veuillez choisir un emoji different",
-    "WRONG_TAGEMOJI_FORMAT": "{{author}} Une balise avec l'emoji {{newEmoji}} existe déjà. Veuillez fournir un emoji de balise différent",
+    "TAGEMOJI_EXISTS": "{{author}} Un `Tag` avec l'emoji {{newEmoji}} existe déjà. Veuillez choisir un emoji diffèrent",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Un `Tag` avec l'emoji {{newEmoji}} existe déjà. Veuillez choisir un emoji différent",
     "REPLACE_EMOJI_CONFIRMATION": "Êtes-vous sûr de vouloir changer l'emoji {{oldEmoji}} par {{newEmoji}} pour ce `Tag`?",
-    "REPLACE_EMOJI_SUCCESSFULL": "L'emoji de la balise a été mis à jour avec succès de {{oldEmoji}} à {{newEmoji}}"
+    "REPLACE_EMOJI_SUCCESSFULL": "L'emoji de ce `Tag` a été mis à jour avec succès passant de {{oldEmoji}} à {{newEmoji}}"
 }

@@ -4,7 +4,7 @@
     "CREATE_ALBUM_SLASH_DESC": "Inserisci il nome del tuo album",
     "PROVIDE_ALBUM_NAME": "{{author}} Fornisci un nome per l'album",
     "ALBUM_NAME_ERROR": "Il nome dell'album deve essere alfanumerico e non può contenere quanto segue:\n- Personaggi speciali\n- Spazi\n- Lettere maiuscole",
-    "ALBUM_NAME_LONG": "Nome dell'album troppo lungo. Prova con meno di 20 caratteri",
+    "ALBUM_NAME_LONG": "{{author}} Il nome di un album può contenere un massimo di 20 caratteri",
     "MAX_ALBUMS": "{{author}} Puoi avere massimo di 10 album",
     "ALBUM_NAME_EXISTS": "{{author}} L'album con nome `{{name}}` esiste già",
     "ALBUM_CREATE_CONFIRMATION": "Stai per creare un album con il nome {{albumName}}\nLa creazione di album è gratuita, ma devi acquistare le pagine con `Silver`\nUsa `salbumconfig` o `sacf` per configurare gli album",

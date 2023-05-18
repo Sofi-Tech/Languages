@@ -1,9 +1,9 @@
 {
-    "TL_DESCRIPTION": "Mostra l'elenco di tag",
+    "TL_DESCRIPTION": "Visualizza un elenco con i tuoi tag",
     "TL_CATEGORY": "Tag",
-    "NO_USER": "L'utente non esiste.",
-    "NO_TAGS": "{{author}} Nessun tag trovato",
+    "NO_USER": "{{author}} Quell'utente non esiste",
+    "NO_TAGS": "{{author}} Impossibile trovare tag",
     "EMBED_TITLE": "Elenco dei tag: {{username}}",
-    "SOFI_FACT": "Fatto di Sofi: Crea un tag con stc lock 🔒\nLe carte bloccate non possono essere bruciate, date, scambiate\no bruciate in massa",
-    "EMBED_FOOTER": "Numero di tag: {{count}}"
+    "SOFI_FACT": "Le carte che sono in \"Tag\" con un lucchetto emoji \"🔒\" non possono essere bruciate o scambiate!\nEsempio: \"stc lock 🔒\"",
+    "EMBED_FOOTER": "Conteggio tag: {{count}}"
 }

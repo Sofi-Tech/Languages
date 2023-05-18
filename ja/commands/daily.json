@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "コマンド * sdaily *を使用して、毎日の報酬を請求します。連勝を維持し、さらに良い報酬を得てください！",
+    "DESCRIPTION": "コマンド `sdaily`を使用して、毎日の報酬を請求します。連勝を維持し、さらに良い報酬を得てください！",
     "CATEGORY": "カード",
     "EMBED_AUTHOR": "{{author}}の毎日の報酬",
-    "DAILY_ERROR": "{{timeout}} 後に毎日を請求できます\n",
+    "DAILY_ERROR": "{{timeout}} 後に毎日請求できます\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}}x__ `Daily` 主張するために左 `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} デイリーが残っています：レアチェスト",
     "NOTE": "\n⚠️ DiscordまたはSofiスタッフは、パスワード、otps、メールアドレスの変更を求めたり、Mee6 / Dynoなどのサードパーティのボットを使用して通信しないでください。あなたに無料で提供されるものやサーバーに参加するように求められるものがある場合は、疑わしいものとして報告してください。{{link}}で報告してください。",

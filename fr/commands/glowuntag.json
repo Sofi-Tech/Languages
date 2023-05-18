@@ -2,7 +2,7 @@
     "GUT_DESCRIPTION": "Retire les \"Glow Tags\"",
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "{{author}} Vous n'avez pas encore de glows",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Les `Glow` codes commencent toujours par **#**",
-    "INVALID_GLOWCODE": "{{author}} Les `Glow` codes fournis sont invalides",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Les codes de `Glow` commencent toujours par **#**",
+    "INVALID_GLOWCODE": "{{author}} Les codes de `Glow` fournis sont invalides",
     "GLOW_UNTAG_SUCCESSFULL": "{{author}} {{glow}} a été untagged avec succès"
 }

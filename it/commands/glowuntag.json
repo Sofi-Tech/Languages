@@ -4,5 +4,5 @@
     "NO_GLOWS_FOUND": "{{author}} Al momento non hai bagliori",
     "WRONG_GLOWCODE_FORMAT": "{{author}} I codici `Glow` iniziano sempre con **#**",
     "INVALID_GLOWCODE": "{{author}} I codici `Glow` forniti sono validi",
-    "GLOW_UNTAG_SUCCESSFULL": "Bagliore ${{glow}} rimosso correttamente"
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Detaggato con successo {{glow}}"
 }

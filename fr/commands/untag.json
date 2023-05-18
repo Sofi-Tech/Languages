@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Supprime les \"Tags\" de vos cartes",
-    "UT_CATEGORY": "Étiquettes",
-    "INVALID_CODE": "Vous n'avez aucune carte dans votre inventaire",
+    "UT_CATEGORY": "Tags",
+    "INVALID_CODE": "Vous n'avez aucune cartes dans votre inventaire",
     "UNTAG_SUCCESSFULL": "**{{cardName}}** a été untagged avec succès",
-    "MULTIPLE_UNTAG": "{{validCards}} {{invalidCards}}"
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

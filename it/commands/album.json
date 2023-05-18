@@ -4,7 +4,7 @@
     "ALBUM_SLASH_DESC": "Inserisci l'utente di cui desideri visualizzare gli album",
     "ALBUM_SLASH_DESC2": "Specifica il nome dell'album che stai cercando",
     "USER_NOT_FOUND": "{{author}} Utente non trovato!",
-    "PLAYER_NOT_EXIST": "{{author}} | Quel giocatore non esiste",
+    "PLAYER_NOT_EXIST": "{{author}} Quel giocatore non esiste",
     "ALBUM_NOT_FOUND": "Nessun album trovato per {{username}}",
     "NO_ALBUMS": "{{member}} non ha un album al momento\nUsa il comando `sca` per creare un album\nUsa `sacf <album> <page>` per configurare",
     "ALBUM_NAME_NOT_FOUND": "{{author}} Non riesco a trovare nessun album con il nome `{{albumName}}`",

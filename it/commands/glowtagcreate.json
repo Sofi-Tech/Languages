@@ -3,6 +3,6 @@
     "GTC_CATEGORY": "Tag",
     "CORRECT_USAGE": "{{author}} Uso corretto: `sgtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Quell'emoji non è valida",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} **tag con quel nome già esiste",
-    "CREATED_GLOWTAG": "{{author}} **Creato Tag Glow con nome:** `{{tag}}` | {{emoji}}"
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Esiste già un `Glow Tag` con quel nome",
+    "CREATED_GLOWTAG": "{{author}} Ha creato un `Glow Tag` con il nome: `{{tag}}` | {{emoji}}"
 }

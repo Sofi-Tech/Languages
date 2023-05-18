@@ -4,7 +4,7 @@
     "SLASH_DESC": "Seleziona un utente per vedere la sua collezione",
     "SLASH_DESC2": "Inserisci il filtri che vuoi applicare alla collezione",
     "PLAYER_NOT_EXIST": "{{author}} | Quel giocatore non esiste",
-    "PLAYER_PRIVATE": "{{author}} La collezione di quell'utente è privata!",
+    "PLAYER_PRIVATE": "{{author}} La raccolta di quell'utente è privata!",
     "NO_RESULTS": "{{author}} Nessun risultato trovato!",
     "NO_CARDS_FOUND": "{{author}} Non è riuscito a trovare nessuna scheda corrispondente alla tua ricerca",
     "NOTHING_FOUND": "Niente trovato",
@@ -20,9 +20,9 @@
     "SORT_SPEED": "Ordina per velocità",
     "SORT_HP": "Ordina per HP",
     "SORT_DUPE": "Ordina per copie",
-    "SHOWING PAGE": "Pagina {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "Tutte le {{taglength}} carte sono state correttamente deselezionate",
-    "ALL_TAG_SUCCESS": "{{author}} Tutte le {{taglength}} carte sono state contrassegnate con successo",
+    "SHOWING PAGE": "Pagina: {{page}}/{{pages}}",
+    "ALL_UNTAG_SUCCESS": "Tutte le {{taglength}} carte sono state deselezionate correttamente",
+    "ALL_TAG_SUCCESS": "{{author}} Tutte le {{taglength}} carte sono state taggate con successo",
     "PLEASE_WAIT": "Attendi prego <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Apprezza lo sforzo di tagging, ma non è stato trovato alcun tag"
+    "NO_TAG_FOUND": "Non hai ancora nessun `Tags`. Puoi crearli con il comando `stc <TagName> <Emoji>`"
 }
