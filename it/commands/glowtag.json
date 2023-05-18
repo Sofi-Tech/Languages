@@ -1,9 +1,9 @@
 {
-    "GT_DESCRIPTION": "Tagga la luce sbloccata",
+    "GT_DESCRIPTION": "Tagga i tuoi \"Glows\"",
     "GT_CATEGORY": "Tag",
-    "GLOWTAGS_NOT_FOUND": "Apprezziamo l'impegno per il tagging ma non abbiamo trovato alcun tag di luce",
-    "GLOWS_NOT_UNLOCKED": "{{author}} non hai ancora sbloccato alcuna luce",
-    "MISSING_GLOWTAG": "{{author}} Immagino che tu debba fornire un tag di luce",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Non hai ancora nessun `Glow Tag`. Puoi crearli con il comando `sgtc <Nome> <Emoji>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} Non hai ancora nessun `Glows`",
+    "MISSING_GLOWTAG": "{{author}} Devi fornire un `Glow Tag`",
     "INVALID_GLOW_CODE": "{{author}} Codice di luce non valido o nessuna luce trovata",
     "SUCCESSFULL_GLOWTAG": "{{author}} Taggato con successo **{{glow}}** come {{tag}}",
     "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Quelle Luci sono state taggate con successo"

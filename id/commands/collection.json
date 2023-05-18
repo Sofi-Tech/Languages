@@ -4,7 +4,7 @@
     "SLASH_DESC": "Pilih pengguna untuk melihat koleksi mereka",
     "SLASH_DESC2": "Masukkan filter yang ingin anda terapkan pada koleksi",
     "PLAYER_NOT_EXIST": "{{author}} Pengguna tersebut tidak ada",
-    "PLAYER_PRIVATE": "{{author}} Koleksi pengguna ini bersifat pribadi!",
+    "PLAYER_PRIVATE": "{{author}} Koleksi pengguna itu bersifat pribadi!",
     "NO_RESULTS": "{{author}} Tidak ada hasil ditemukan!",
     "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang cocok dengan pencarian Anda",
     "NOTHING_FOUND": "Tidak ditemukan",
@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Semua {{taglength}} kartu berhasil dibuka penandaannya",
     "ALL_TAG_SUCCESS": "{{author}} Semua {{taglength}} kartu berhasil ditandai",
     "PLEASE_WAIT": "Tunggu sebentar <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Menghargai upaya penandaan, tetapi tidak ada penandaan yang ditemukan"
+    "NO_TAG_FOUND": "Anda belum memiliki `Tag`. Anda dapat membuatnya dengan perintah `stc <TagName> <Emoji>`"
 }

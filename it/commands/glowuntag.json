@@ -1,8 +1,8 @@
 {
-    "GUT_DESCRIPTION": "Cancella il bagliore",
+    "GUT_DESCRIPTION": "Rimuove i \"Glow Tags\"",
     "GUT_CATEGORY": "Tag",
-    "NO_GLOWS_FOUND": "Non hai ancora sbloccato alcun bagliore",
-    "WRONG_GLOWCODE_FORMAT": "Il codice di bagliore inizia con #",
-    "INVALID_GLOWCODE": "Codice bagliore non valido o nessun bagliore trovato",
+    "NO_GLOWS_FOUND": "{{author}} Al momento non hai bagliori",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} I codici `Glow` iniziano sempre con **#**",
+    "INVALID_GLOWCODE": "{{author}} I codici `Glow` forniti sono validi",
     "GLOW_UNTAG_SUCCESSFULL": "Bagliore ${{glow}} rimosso correttamente"
 }

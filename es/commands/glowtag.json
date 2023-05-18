@@ -1,10 +1,10 @@
 {
-    "GT_DESCRIPTION": "Etiquetar el brillo desbloqueado",
+    "GT_DESCRIPTION": "Etiqueta tus \"Glows\"",
     "GT_CATEGORY": "Etiquetas",
-    "GLOWTAGS_NOT_FOUND": "Apreciamos el esfuerzo de etiquetado, pero no se encontraron `Etiquetas de Glow`",
-    "GLOWS_NOT_UNLOCKED": "{{author}}, aún no has desbloqueado ningún brillo",
-    "MISSING_GLOWTAG": "{{author}}, supongo que necesitas proporcionar una etiqueta de brillo",
-    "INVALID_GLOW_CODE": "{{author}}, código de brillo inválido o no se encontró ningún brillo",
+    "GLOWTAGS_NOT_FOUND": "{{author}} No tienes ninguna `Etiqueta de Glow` todavía. Puedes crearlas con el comando `sgtc <Nombre> <Emoticono>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} No tienes ningún `Glow` todavía",
+    "MISSING_GLOWTAG": "{{author}} Tienes que proporcionar una `Etiqueta de Glow`",
+    "INVALID_GLOW_CODE": "{{author}} Uno o más códigos de `Glow` proporcionados son inválidos",
     "SUCCESSFULL_GLOWTAG": "{{author}}, se etiquetó con éxito **{{glow}}** como {{tag}}",
-    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, esas etiquetas de brillo se etiquetaron con éxito"
+    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Todos los `Glows` han sido correctamente etiquetados"
 }

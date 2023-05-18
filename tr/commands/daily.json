@@ -1,12 +1,12 @@
 {
     "DESCRIPTION": "Günlük ödülünü almak için `sdaily` komutunu kullan. Daha da iyi ödüller kazanmak için seriyi sürdür!",
     "CATEGORY": "Kartlar",
-    "EMBED_AUTHOR": "{{author}}'ın Daily Ödülü",
+    "EMBED_AUTHOR": "{{author}}'ın Günlük Ödülü",
     "DAILY_ERROR": "`Daily` ödülünüzü {{timeout}} sonra alabilirsiniz\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> Bir `Common Chest` kazanmak için __{{count}}x__ `Daily` kaldı",
     "RARE_CHEST": "<:rarechest:927204672270372874> Bir `Rare Chest` kazanmak için __{{count}}x__ `Daily`kaldı",
-    "NOTE": "⚠️Discord veya Sofi Personeli şu şeyleri ASLA yapmaz:\n- Senden \"Şifreni\" veya \"Tek-kullanımlık şifrelerini\" istemek\n- E-Mail'ini değiştirmeni önermek\n- \"Mee6\" veya \"Dyno\" gibi üçüncül taraf botlar ile iletişim kurmak\n\nHerhangi bir şüpheli faaliyet derhal {{link}} adresi üzerinden bildirilmelidir.",
+    "NOTE": "⚠️Discord veya Sofi Personeli şu şeyleri ASLA yapmaz:\n- Senden \"Şifreni\" veya \"Tek-kullanımlık şifrelerini\" istemek\n- E-Mail'ini değiştirmeni önermek\n- \"Mee6\" veya \"Dyno\" gibi üçüncül taraf botlar ile iletişim kurmak\n\nHerhangi bir şüpheli faaliyet derhal {{link}} adresi üzerinden bildirilmelidir! ⚠️",
     "EMBED_FOOTER": "Seri **[ {{streak}} ]** • {{streakBar}}",
-    "DAILY_SUCCESS": "`Daily` ödülünü aldığınız için teşekkür ederiz!",
-    "GUILD_BONUS": "Bu komutu en iyi 20 Sofi server inde kullandığınız için `Daily` ödülünüz 1.5x artmıştır!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "DAILY_SUCCESS": "`Daily` ödülünü aldığın için teşekkür ederiz!",
+    "GUILD_BONUS": "Bu komutu en iyi 20 Sofi sunucularından birinde kullandığın için `Daily` ödülün 1.5x artmıştır!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

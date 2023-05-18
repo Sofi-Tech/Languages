@@ -4,5 +4,5 @@
     "NO_GLOWS_FOUND": "{{author}} You don't have any glows currently",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes always start with a **#**",
     "INVALID_GLOWCODE": "{{author}} The provided `Glow` codes are in valid",
-    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Successfully untagged ${{glow}}"
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Successfully untagged {{glow}}"
 }
