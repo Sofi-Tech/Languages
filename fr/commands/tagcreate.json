@@ -1,7 +1,7 @@
 {
     "TC_DESCRIPTION": "Créer une étiquette",
     "TC_CATEGORY": "Étiquettes",
-    "WRONG_USAGE": "Utilisation : `stc <nom_de_l'étiquette> <emoji>`",
+    "WRONG_USAGE": "Utilisation : `stc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{emoji}} n'est pas un emoji valide",
     "INVALID_TAGNAME_FORMAT": "Le nom de l'étiquette doit être alphanumérique, ne doit pas contenir de caractères spéciaux ni d'espaces ou de mot réservé.",
     "LONG_TAGNAME": "Nom d'étiquette trop long. Essayez moins de 20 caractères",
