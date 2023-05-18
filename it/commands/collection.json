@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Puoi visualizzare la tua collezione con il comando \"sc\"\n- La tua collezione può essere ordinata per nome, cosmetici, statistiche e altro\n- Può anche essere filtrato per nome \"Wishlist\", \"Gen\" o \"Tag\".\n- Usa il comando \"sc t:ut\" per visualizzare tutte le carte senza tag nella tua collezione",
     "SLASH_CMD_DESC": "Visualizza la tua collezione di carte",
-    "SLASH_DESC": "Seleziona un utente per vedere la sua collezione",
+    "SLASH_DESC": "Seleziona un utente per poter vedere la sua collezione",
     "SLASH_DESC2": "Inserisci il filtri che vuoi applicare alla collezione",
     "PLAYER_NOT_EXIST": "{{author}} | Quel giocatore non esiste",
     "PLAYER_PRIVATE": "{{author}} La raccolta di quell'utente è privata!",
@@ -14,7 +14,7 @@
     "SORT_GEN": "Ordina per Gen",
     "SORT_WL": "Ordina per lista desideri",
     "CHECK_COSMETICS": "Controlla i cosmetici",
-    "3D_AVAIL": "Disponibilità 3D",
+    "3D_AVAIL": "3D Disponibile",
     "SORT_ATK": "Ordina per attacco",
     "SORT_DEF": "Ordina per difesa",
     "SORT_SPEED": "Ordina per velocità",
