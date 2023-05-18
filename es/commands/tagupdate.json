@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "Actualiza una etiqueta",
+    "TU_CATEGORY": "Etiquetas",
+    "WRONG_USAGE": "Uso: `stagupdate <NombreDeEtiqueta>`",
+    "TAG_NOT_FOUND": "No se encontró ninguna etiqueta con el nombre `{{tag}}`",
+    "BUTTON_NAME_LABEL": "Nombre",
+    "BUTTON_EMOJI_LABEL": "Emoji",
+    "EMBED_TITLE": "Actualizar Etiqueta",
+    "EMBED_DESCRIPTION": "¿Qué te gustaría actualizar de la etiqueta `{{tagName}}`?",
+    "EMBED_FOOTER": "Usa los botones que se dan a continuación",
+    "REPLACE_NAME": "Escriba el nuevo nombre de etiqueta que desea reemplazar con `{{tagName}}`",
+    "TAGNAME_EXISTS": "Ya existe una etiqueta con el nombre `{{newTagName}}`. Proporcione un nombre de etiqueta diferente.",
+    "WRONG_TAGNAME_FORMAT": "El nombre de la etiqueta no debe contener caracteres o espacios especiales",
+    "TAGNAME_LONG": "El nombre de la etiqueta es demasiado largo. Intenta menos de 20 caracteres",
+    "REPLACE_NAME_CONFIRMATION": "¿Estás seguro de que quieres reemplazar el nombre de la etiqueta de `{{oldTag}}` a `{{newTag}}`?",
+    "REPLACE_NAME_SUCCESSFULL": "El nombre de la etiqueta se ha actualizado correctamente de `{{oldTag}}` a `{{newTag}}`",
+    "PROCESS_TERMINATED": "El proceso ha sido terminado",
+    "REPLACE_EMOJI": "Envía el nuevo emoji de etiqueta que deseas reemplazar con `{{emoji}}`",
+    "TAGEMOJI_EXISTS": "Ya existe una etiqueta con el emoji {{newEmoji}}. Proporcione un emoji de etiqueta diferente.",
+    "WRONG_TAGEMOJI_FORMAT": "El emoji de la etiqueta no tiene un formato correcto. Proporcione un emoji de etiqueta diferente.",
+    "REPLACE_EMOJI_CONFIRMATION": "¿Estás seguro de que quieres reemplazar el emoji de etiqueta de {{oldEmoji}} a {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFULL": "El emoji de la etiqueta se ha actualizado correctamente de {{oldEmoji}} a {{newEmoji}}"
+}

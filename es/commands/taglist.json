@@ -1,0 +1,9 @@
+{
+    "TL_DESCRIPTION": "Muestra una lista de etiquetas",
+    "TL_CATEGORY": "Etiquetas",
+    "NO_USER": "El usuario no existe.",
+    "NO_TAGS": "{{author}} No se encontraron etiquetas",
+    "EMBED_TITLE": "Lista de etiquetas: {{username}}",
+    "SOFI_FACT": "Dato de Sofi: Crea una etiqueta con stc lock 🔒\nLas tarjetas bloqueadas no se pueden quemar, dar, intercambiar o quemar en masa",
+    "EMBED_FOOTER": "Cantidad de etiquetas: {{count}}"
+}

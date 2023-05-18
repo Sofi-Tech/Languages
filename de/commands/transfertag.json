@@ -1,0 +1,7 @@
+{
+    "TT_DESCRIPTION": "Übertrage Karten von einem Tag auf einen anderen.",
+    "TT_CATEGORY": "Tags",
+    "WRONG_USAGE": "Korrekte Verwendung: `strt <fromTagName> <toTagName>`",
+    "TAG_NOT_FOUND": "Kann den Tag mit dem Namen nicht finden: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Alle Karten wurden erfolgreich von `{{fromTag}}` auf `${toTag}` übertragen."
+}

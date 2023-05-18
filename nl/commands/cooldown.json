@@ -1,10 +1,10 @@
 {
-  "DESCRIPTION": "Je kunt de cooldowns van de volgende commando's checken:\n- Drop, Grab, Vote, Raid en Dailies\n-Klik op de bel iconen om herinneringen toe te voegen voor drop, vote en daily.",
-  "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Vote",
-  "BUMP": "Bump",
-  "DAILY": "Daily",
-  "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` ongelezen bericht(en) | Gebruik `{{customPrefix}}mail`"
+    "DESCRIPTION": "Je kunt de cooldowns van de volgende commando's checken:\n- Drop, Grab, Vote, Raid en Dailies\n-Klik op de bel iconen om herinneringen toe te voegen voor drop, vote en daily.",
+    "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp](https://discord.gg/sofi)",
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "VOTE": "Vote",
+    "BUMP": "Bump",
+    "DAILY": "Daily",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` ongelezen bericht(en) | Gebruik `{{customPrefix}}mail`"
 }

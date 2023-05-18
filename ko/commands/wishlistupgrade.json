@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "위시리스트 업그레이드",
-  "CATEGORY": "위시리스트",
-  "ALREADY_MAXED": "> {{author}} 위시리스트 슬롯이 이미 최대입니다",
-  "EMBED_DESCRIPTION": "{{amount}} {{currency}}에 {{count}}개의 추가 슬롯을 구매 하시겠습니까?",
-  "EMBED_PAY_FIELD_NAME": "결제 금액:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "획득 슬롯:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}}개의 추가 위시리스트 슬롯```",
-  "EMBED_MAXED_DESCRIPTION": "{{amount}} {{currency}}에 최대 슬롯을 구매 하시겠습니까?",
-  "EMBED_MAXED_FIELD_VALUE": "```최대 50개의 위시리스트 슬롯```",
-  "SUCCESS": "성공",
-  "CANCELLED": "취소됨",
-  "PAY_ERROR": "`{{amount}} {{currency}}이(가) 부족합니다`"
+    "DESCRIPTION": "위시리스트 업그레이드",
+    "CATEGORY": "위시리스트",
+    "ALREADY_MAXED": "> {{author}} 위시리스트 슬롯이 이미 최대입니다",
+    "EMBED_DESCRIPTION": "{{amount}} {{currency}}에 {{count}}개의 추가 슬롯을 구매 하시겠습니까?",
+    "EMBED_PAY_FIELD_NAME": "결제 금액:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "획득 슬롯:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}}개의 추가 위시리스트 슬롯```",
+    "EMBED_MAXED_DESCRIPTION": "{{amount}} {{currency}}에 최대 슬롯을 구매 하시겠습니까?",
+    "EMBED_MAXED_FIELD_VALUE": "```최대 50개의 위시리스트 슬롯```",
+    "SUCCESS": "성공",
+    "CANCELLED": "취소됨",
+    "PAY_ERROR": "`{{amount}} {{currency}}이(가) 부족합니다`"
 }

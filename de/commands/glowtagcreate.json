@@ -1,8 +1,8 @@
 {
-  "GTC_DESCRIPTION": "Leuchtendes Tag erstellen",
-  "GTC_CATEGORY": "Tags",
-  "CORRECT_USAGE": "Anwendung: `sgtc <tagname> <emoji>`",
-  "INVALID_EMOJI": "Das ist kein gültiges Emoji",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} **leuchtendes Tag mit diesem Namen existiert bereits",
-  "CREATED_GLOWTAG": "{{author}} **Leuchtendes Tag mit Namen:** `{{tag}}` | {{emoji}} erstellt"
+    "GTC_DESCRIPTION": "Leuchtendes Tag erstellen",
+    "GTC_CATEGORY": "Tags",
+    "CORRECT_USAGE": "Anwendung: `sgtc <tagname> <emoji>`",
+    "INVALID_EMOJI": "Das ist kein gültiges Emoji",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} **leuchtendes Tag mit diesem Namen existiert bereits",
+    "CREATED_GLOWTAG": "{{author}} **Leuchtendes Tag mit Namen:** `{{tag}}` | {{emoji}} erstellt"
 }

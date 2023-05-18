@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "Снять метку с карт",
+    "UT_CATEGORY": "Метки",
+    "INVALID_CODE": "Недопустимый код карты или карта не найдена",
+    "UNTAG_SUCCESSFULL": "Карта {{cardName}} успешно снята с метки",
+    "MULTIPLE_UNTAG": "Сняты метки с {{validCards}}{{invalidCards}}"
+}

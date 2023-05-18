@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "Onttag de gloed",
-  "GUT_CATEGORY": "Tags",
-  "NO_GLOWS_FOUND": "Je hebt nog geen glows ontgrendeld",
-  "WRONG_GLOWCODE_FORMAT": "Glowcode begint met #",
-  "INVALID_GLOWCODE": "Ongeldige Glow-code of geen gloed gevonden",
-  "GLOW_UNTAG_SUCCESSFULL": "Succesvol ${ {glow}} ongetagged"
+    "GUT_DESCRIPTION": "Onttag de gloed",
+    "GUT_CATEGORY": "Tags",
+    "NO_GLOWS_FOUND": "Je hebt nog geen glows ontgrendeld",
+    "WRONG_GLOWCODE_FORMAT": "Glowcode begint met #",
+    "INVALID_GLOWCODE": "Ongeldige Glow-code of geen gloed gevonden",
+    "GLOW_UNTAG_SUCCESSFULL": "Succesvol ${ {glow}} ongetagged"
 }

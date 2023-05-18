@@ -1,11 +1,11 @@
 {
-  "TAG_DESCRIPTION": "Tagga la carta",
-  "TAG_CATEGORY": "Tag",
-  "WRONG_USAGE": "Si prega di fornire il nome del tag.",
-  "NO_TAGS_CREATED": "Apprezziamo l'uso dei tag ma non ne è stato trovato nessuno. Inizia creando un tag utilizzando il comando `stc`.",
-  "TAG_NOT_FOUND": "Non hai alcun tag con il nome `{{tag}}`",
-  "NO_CARDS_CLAIMED": "Non hai ancora richiesto alcuna carta",
-  "INVALID_CARD_CODE": "{{author}} Codice carta non valido o nessuna carta trovata",
-  "SUCCESSFUL_TAG": "{{author}} | {{card}} è stato taggato con successo come `{{tag}}`",
-  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Queste carte sono state taggate con successo"
+    "TAG_DESCRIPTION": "Tagga la carta",
+    "TAG_CATEGORY": "Tag",
+    "WRONG_USAGE": "Si prega di fornire il nome del tag.",
+    "NO_TAGS_CREATED": "Apprezziamo l'uso dei tag ma non ne è stato trovato nessuno. Inizia creando un tag utilizzando il comando `stc`.",
+    "TAG_NOT_FOUND": "Non hai alcun tag con il nome `{{tag}}`",
+    "NO_CARDS_CLAIMED": "Non hai ancora richiesto alcuna carta",
+    "INVALID_CARD_CODE": "{{author}} Codice carta non valido o nessuna carta trovata",
+    "SUCCESSFUL_TAG": "{{author}} | {{card}} è stato taggato con successo come `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Queste carte sono state taggate con successo"
 }

@@ -1,11 +1,11 @@
 {
-  "TAG_DESCRIPTION": "标记卡片",
-  "TAG_CATEGORY": "标签",
-  "WRONG_USAGE": "请输入标签名。",
-  "NO_TAGS_CREATED": "感谢您的标记，但未找到标签。请使用 `stc` 命令创建标签。",
-  "TAG_NOT_FOUND": "您没有任何名为 `{{tag}}` 的标签。",
-  "NO_CARDS_CLAIMED": "您还没有认领任何卡片。",
-  "INVALID_CARD_CODE": "{{author}} 无效的卡片代码或未找到卡片。",
-  "SUCCESSFUL_TAG": "{{author}} | 成功将 {{card}} 标记为 `{{tag}}`。",
-  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} 这些卡片已成功标记。"
+    "TAG_DESCRIPTION": "标记卡片",
+    "TAG_CATEGORY": "标签",
+    "WRONG_USAGE": "请输入标签名。",
+    "NO_TAGS_CREATED": "感谢您的标记，但未找到标签。请使用 `stc` 命令创建标签。",
+    "TAG_NOT_FOUND": "您没有任何名为 `{{tag}}` 的标签。",
+    "NO_CARDS_CLAIMED": "您还没有认领任何卡片。",
+    "INVALID_CARD_CODE": "{{author}} 无效的卡片代码或未找到卡片。",
+    "SUCCESSFUL_TAG": "{{author}} | 成功将 {{card}} 标记为 `{{tag}}`。",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} 这些卡片已成功标记。"
 }

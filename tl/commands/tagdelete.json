@@ -1,7 +1,7 @@
 {
-  "TD_DESCRIPTION": "Tanggalin ang tag",
-  "TD_CATEGORY": "Mga Tag",
-  "WRONG_USAGE": "Paggamit: `sdt <tagname>`",
-  "TAG_NOT_FOUND": "Ang tag na iyon ay hindi nasa iyong listahan ng mga tag",
-  "SUCCESSFUL_DELETE_TAG": "Natanggal ang Tag {{tag}}"
+    "TD_DESCRIPTION": "Tanggalin ang tag",
+    "TD_CATEGORY": "Mga Tag",
+    "WRONG_USAGE": "Paggamit: `sdt <tagname>`",
+    "TAG_NOT_FOUND": "Ang tag na iyon ay hindi nasa iyong listahan ng mga tag",
+    "SUCCESSFUL_DELETE_TAG": "Natanggal ang Tag {{tag}}"
 }

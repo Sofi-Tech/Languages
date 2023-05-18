@@ -1,0 +1,7 @@
+{
+    "TT_DESCRIPTION": "Transférer des cartes d'une étiquette à une autre",
+    "TT_CATEGORY": "Étiquettes",
+    "WRONG_USAGE": "Utilisation correcte: `strt <nomEtiquetteDe> <nomEtiquetteA>`",
+    "TAG_NOT_FOUND": "Impossible de trouver l'étiquette avec le nom: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Toutes les cartes de `{{fromTag}}` ont été transférées avec succès vers `${toTag}`"
+}

@@ -1,7 +1,7 @@
 {
-  "DGT_DESCRIPTION": "Elimina il tag Glow",
-  "DGT_CATEGORY": "Tag",
-  "CORRECT_USAGE": "Utilizzo: sdgt <nome-tag>",
-  "GLOWTAG_NOT_FOUND": "Questo tag glow non è presente nella tua lista di tag glow",
-  "DELETE_GLOWTAG": "Eliminato il Tag Glow {{tag}}"
+    "DGT_DESCRIPTION": "Elimina il tag Glow",
+    "DGT_CATEGORY": "Tag",
+    "CORRECT_USAGE": "Utilizzo: sdgt <nome-tag>",
+    "GLOWTAG_NOT_FOUND": "Questo tag glow non è presente nella tua lista di tag glow",
+    "DELETE_GLOWTAG": "Eliminato il Tag Glow {{tag}}"
 }

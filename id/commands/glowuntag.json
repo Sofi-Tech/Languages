@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "Menghapus tanda kilau",
-  "GUT_CATEGORY": "Tag",
-  "NO_GLOWS_FOUND": "Anda belum membuka kilau apapun",
-  "WRONG_GLOWCODE_FORMAT": "Kode kilau dimulai dengan #",
-  "INVALID_GLOWCODE": "Kode Kilau tidak valid atau Kilau tidak ditemukan",
-  "GLOW_UNTAG_SUCCESSFULL": "Berhasil menghapus tanda dari ${{glow}}"
+    "GUT_DESCRIPTION": "Menghapus tanda kilau",
+    "GUT_CATEGORY": "Tag",
+    "NO_GLOWS_FOUND": "Anda belum membuka kilau apapun",
+    "WRONG_GLOWCODE_FORMAT": "Kode kilau dimulai dengan #",
+    "INVALID_GLOWCODE": "Kode Kilau tidak valid atau Kilau tidak ditemukan",
+    "GLOW_UNTAG_SUCCESSFULL": "Berhasil menghapus tanda dari ${{glow}}"
 }

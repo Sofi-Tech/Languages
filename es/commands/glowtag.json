@@ -1,10 +1,10 @@
 {
-  "GT_DESCRIPTION": "Etiquetar el brillo desbloqueado",
-  "GT_CATEGORY": "Etiquetas",
-  "GLOWTAGS_NOT_FOUND": "Apreciamos el esfuerzo de etiquetado, pero no se encontraron etiquetas de brillo",
-  "GLOWS_NOT_UNLOCKED": "{{author}}, aún no has desbloqueado ningún brillo",
-  "MISSING_GLOWTAG": "{{author}}, supongo que necesitas proporcionar una etiqueta de brillo",
-  "INVALID_GLOW_CODE": "{{author}}, código de brillo inválido o no se encontró ningún brillo",
-  "SUCCESSFULL_GLOWTAG": "{{author}}, se etiquetó con éxito **{{glow}}** como {{tag}}",
-  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, esas etiquetas de brillo se etiquetaron con éxito"
+    "GT_DESCRIPTION": "Etiquetar el brillo desbloqueado",
+    "GT_CATEGORY": "Etiquetas",
+    "GLOWTAGS_NOT_FOUND": "Apreciamos el esfuerzo de etiquetado, pero no se encontraron etiquetas de brillo",
+    "GLOWS_NOT_UNLOCKED": "{{author}}, aún no has desbloqueado ningún brillo",
+    "MISSING_GLOWTAG": "{{author}}, supongo que necesitas proporcionar una etiqueta de brillo",
+    "INVALID_GLOW_CODE": "{{author}}, código de brillo inválido o no se encontró ningún brillo",
+    "SUCCESSFULL_GLOWTAG": "{{author}}, se etiquetó con éxito **{{glow}}** como {{tag}}",
+    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, esas etiquetas de brillo se etiquetaron con éxito"
 }

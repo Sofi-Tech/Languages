@@ -1,7 +1,7 @@
 {
-  "TD_DESCRIPTION": "删除标签",
-  "TD_CATEGORY": "标签",
-  "WRONG_USAGE": "用法：`sdt <标签名称>`",
-  "TAG_NOT_FOUND": "该标签不在您的标签列表中",
-  "SUCCESSFUL_DELETE_TAG": "已删除标签 {{tag}}"
+    "TD_DESCRIPTION": "删除标签",
+    "TD_CATEGORY": "标签",
+    "WRONG_USAGE": "用法：`sdt <标签名称>`",
+    "TAG_NOT_FOUND": "该标签不在您的标签列表中",
+    "SUCCESSFUL_DELETE_TAG": "已删除标签 {{tag}}"
 }

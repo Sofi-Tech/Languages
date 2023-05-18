@@ -1,0 +1,7 @@
+{
+    "TT_DESCRIPTION": "Transferir cartões de uma tag para outra",
+    "TT_CATEGORY": "Tags",
+    "WRONG_USAGE": "Uso correto: `strt <fromTagName> <toTagName>`",
+    "TAG_NOT_FOUND": "Não foi possível encontrar a tag com o nome: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Todos os cartões foram transferidos com sucesso da tag `{{fromTag}}` para a tag `${toTag}`"
+}

@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "Met à jour une balise",
+    "TU_CATEGORY": "Balises",
+    "WRONG_USAGE": "Utilisation : `stagupdate <NomDeLaBalise>`",
+    "TAG_NOT_FOUND": "Aucune balise trouvée avec le nom `{{tag}}`",
+    "BUTTON_NAME_LABEL": "Nom",
+    "BUTTON_EMOJI_LABEL": "Emoji",
+    "EMBED_TITLE": "Mise à jour de balise",
+    "EMBED_DESCRIPTION": "Que souhaitez-vous mettre à jour pour la balise `{{tagName}}` ?",
+    "EMBED_FOOTER": "Utilisez les boutons ci-dessous",
+    "REPLACE_NAME": "Indiquez le nouveau nom de balise que vous voulez utiliser à la place de `{{tagName}}`",
+    "TAGNAME_EXISTS": "Une balise avec le nom `{{newTagName}}` existe déjà. Veuillez fournir un nom de balise différent.",
+    "WRONG_TAGNAME_FORMAT": "Le nom de la balise ne doit contenir aucun caractère spécial ni espace",
+    "TAGNAME_LONG": "Nom de balise trop long. Essayez avec moins de 20 caractères",
+    "REPLACE_NAME_CONFIRMATION": "Êtes-vous sûr de vouloir remplacer le nom de la balise de `{{oldTag}}` par `{{newTag}}` ?",
+    "REPLACE_NAME_SUCCESSFULL": "Le nom de la balise a été mis à jour avec succès de `{{oldTag}}` à `{{newTag}}`",
+    "PROCESS_TERMINATED": "Le processus a été interrompu",
+    "REPLACE_EMOJI": "Envoyez le nouvel emoji de la balise que vous souhaitez utiliser à la place de {{emoji}}",
+    "TAGEMOJI_EXISTS": "Une balise avec l'emoji {{newEmoji}} existe déjà. Veuillez fournir un emoji de balise différent",
+    "WRONG_TAGEMOJI_FORMAT": "Une balise avec l'emoji {{newEmoji}} existe déjà. Veuillez fournir un emoji de balise différent",
+    "REPLACE_EMOJI_CONFIRMATION": "Êtes-vous sûr de vouloir remplacer l'emoji de la balise de {{oldEmoji}} à {{newEmoji}} ?",
+    "REPLACE_EMOJI_SUCCESSFULL": "L'emoji de la balise a été mis à jour avec succès de {{oldEmoji}} à {{newEmoji}}"
+}

@@ -1,7 +1,7 @@
 {
-  "TD_DESCRIPTION": "Delete the tag",
-  "TD_CATEGORY": "Tags",
-  "WRONG_USAGE": "Usage: `sdt <tagname>`",
-  "TAG_NOT_FOUND": "That tag is not in your taglist",
-  "SUCCESSFUL_DELETE_TAG": "Deleted Tag {{tag}}"
+    "TD_DESCRIPTION": "Delete the tag",
+    "TD_CATEGORY": "Tags",
+    "WRONG_USAGE": "Usage: `sdt <tagname>`",
+    "TAG_NOT_FOUND": "That tag is not in your taglist",
+    "SUCCESSFUL_DELETE_TAG": "Deleted Tag {{tag}}"
 }

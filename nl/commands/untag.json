@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "Verwijder de tags van de kaarten",
+    "UT_CATEGORY": "Tags",
+    "INVALID_CODE": "Ongeldige kaartcode of geen kaart gevonden",
+    "UNTAG_SUCCESSFULL": "Succesvol {{cardName}} verwijderd",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}} succesvol verwijderd"
+}

@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "Remover as marcações dos cartões",
+    "UT_CATEGORY": "Marcas",
+    "INVALID_CODE": "Código de cartão inválido ou cartão não encontrado",
+    "UNTAG_SUCCESSFULL": "Marcas removidas com sucesso do cartão {{cardName}}",
+    "MULTIPLE_UNTAG": "Marcas removidas de {{validCards}}{{invalidCards}}"
+}

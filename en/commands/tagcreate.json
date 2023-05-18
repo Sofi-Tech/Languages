@@ -1,10 +1,10 @@
 {
-  "TC_DESCRIPTION": "Create a tag",
-  "TC_CATEGORY": "Tags",
-  "WRONG_USAGE": "Usage: `stc <tagname> <emoji>`",
-  "INVALID_EMOJI": "{{emoji}} is not a valid emoji",
-  "INVALID_TAGNAME_FORMAT": "The tagname must be alphanumeric, must not contain special characters or space or a reserved word.",
-  "LONG_TAGNAME": "Tag name too long. Try less than 20 characters",
-  "TAGNAME_EXISTS": "{{author}} **Tag with name `{{tag}}` already exists",
-  "TAG_CREATED": "Created Tag with name: `{{tag}}` | {{emoji}}"
+    "TC_DESCRIPTION": "Create a tag",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "Usage: `stc <tagname> <emoji>`",
+    "INVALID_EMOJI": "{{emoji}} is not a valid emoji",
+    "INVALID_TAGNAME_FORMAT": "The tagname must be alphanumeric, must not contain special characters or space or a reserved word.",
+    "LONG_TAGNAME": "Tag name too long. Try less than 20 characters",
+    "TAGNAME_EXISTS": "{{author}} **Tag with name `{{tag}}` already exists",
+    "TAG_CREATED": "Created Tag with name: `{{tag}}` | {{emoji}}"
 }

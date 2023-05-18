@@ -1,0 +1,7 @@
+{
+    "TT_DESCRIPTION": "Trasferisci le carte da una tag all'altra",
+    "TT_CATEGORY": "Tag",
+    "WRONG_USAGE": "Uso corretto: `strt <nomeTagDaCui> <nomeTagACui>`",
+    "TAG_NOT_FOUND": "Impossibile trovare la tag con il nome: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Trasferimento completato con successo di tutte le carte da `{{fromTag}}` a `${toTag}`"
+}

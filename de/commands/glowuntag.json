@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "Deaktivieren Sie den Glanz",
-  "GUT_CATEGORY": "Tags",
-  "NO_GLOWS_FOUND": "Sie haben noch keine Glüheffekte freigeschaltet",
-  "WRONG_GLOWCODE_FORMAT": "Glowcode beginnt mit #",
-  "INVALID_GLOWCODE": "Ungültiger Glanzcode oder kein Glanz gefunden",
-  "GLOW_UNTAG_SUCCESSFULL": "Erfolgreich der Tag entfernt ${{glow}}"
+    "GUT_DESCRIPTION": "Deaktivieren Sie den Glanz",
+    "GUT_CATEGORY": "Tags",
+    "NO_GLOWS_FOUND": "Sie haben noch keine Glüheffekte freigeschaltet",
+    "WRONG_GLOWCODE_FORMAT": "Glowcode beginnt mit #",
+    "INVALID_GLOWCODE": "Ungültiger Glanzcode oder kein Glanz gefunden",
+    "GLOW_UNTAG_SUCCESSFULL": "Erfolgreich der Tag entfernt ${{glow}}"
 }

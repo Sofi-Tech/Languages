@@ -1,7 +1,7 @@
 {
-  "DGT_DESCRIPTION": "Glow-tag verwijderen",
-  "DGT_CATEGORY": "Tags",
-  "CORRECT_USAGE": "Gebruik: sdgt <naam van glow-tag>",
-  "GLOWTAG_NOT_FOUND": "Die glow-tag staat niet in je glow-taglijst",
-  "DELETE_GLOWTAG": "Glow-tag '{{tag}}' verwijderd"
+    "DGT_DESCRIPTION": "Glow-tag verwijderen",
+    "DGT_CATEGORY": "Tags",
+    "CORRECT_USAGE": "Gebruik: sdgt <naam van glow-tag>",
+    "GLOWTAG_NOT_FOUND": "Die glow-tag staat niet in je glow-taglijst",
+    "DELETE_GLOWTAG": "Glow-tag '{{tag}}' verwijderd"
 }

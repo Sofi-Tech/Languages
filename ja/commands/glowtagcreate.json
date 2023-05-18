@@ -1,8 +1,8 @@
 {
-  "GTC_DESCRIPTION": "グローテクストを作成します",
-  "GTC_CATEGORY": "タグ",
-  "CORRECT_USAGE": "使用法：`sgtc <タグ名> <絵文字>`",
-  "INVALID_EMOJI": "有効な絵文字ではありません",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}}**その名前のGlowタグはすでに存在します",
-  "CREATED_GLOWTAG": "{{author}} **名前:** `{{tag}}` | {{emoji}}のGlowタグを作成しました"
+    "GTC_DESCRIPTION": "グローテクストを作成します",
+    "GTC_CATEGORY": "タグ",
+    "CORRECT_USAGE": "使用法：`sgtc <タグ名> <絵文字>`",
+    "INVALID_EMOJI": "有効な絵文字ではありません",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}}**その名前のGlowタグはすでに存在します",
+    "CREATED_GLOWTAG": "{{author}} **名前:** `{{tag}}` | {{emoji}}のGlowタグを作成しました"
 }

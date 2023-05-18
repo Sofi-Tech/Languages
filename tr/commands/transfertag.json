@@ -1,0 +1,7 @@
+{
+    "TT_DESCRIPTION": "Bir etiketten diğerine kart aktar",
+    "TT_CATEGORY": "Etiketler",
+    "WRONG_USAGE": "Doğru kullanım: `strt <fromTagName> <toTagName>`",
+    "TAG_NOT_FOUND": "`{{tag}}` isimli etiket bulunamadı",
+    "TRANSFER_TAG_SUCCESSFULL": "`{{fromTag}}` etiketinden tüm kartlar başarıyla `${toTag}` etiketine aktarıldı"
+}

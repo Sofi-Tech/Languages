@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "ترقية قائمة أمنياتك",
-  "CATEGORY": "قائمة أمنيات",
-  "ALREADY_MAXED": "> {{author}} لقد تم استخدام حد القصوى للعناصر في قائمة أمنياتك",
-  "EMBED_DESCRIPTION": "هل تريد شراء {{count}} فتحة إضافية لقائمة أمنياتك بمقابل {{amount}} {{currency}}؟",
-  "EMBED_PAY_FIELD_NAME": "سوف تدفع:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "سوف تحصل على:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} فتحات إضافية لقائمة أمنياتك```",
-  "EMBED_MAXED_DESCRIPTION": "هل تريد الحد الأقصى لفتحات قائمة أمنياتك مقابل {{amount}} {{currency}}؟",
-  "EMBED_MAXED_FIELD_VALUE": "```الحد الأقصى 50 فتحة```",
-  "SUCCESS": "تم بنجاح",
-  "CANCELLED": "تم الإلغاء",
-  "PAY_ERROR": "`ليست لديك {{amount}} {{currency}}`"
+    "DESCRIPTION": "ترقية قائمة أمنياتك",
+    "CATEGORY": "قائمة أمنيات",
+    "ALREADY_MAXED": "> {{author}} لقد تم استخدام حد القصوى للعناصر في قائمة أمنياتك",
+    "EMBED_DESCRIPTION": "هل تريد شراء {{count}} فتحة إضافية لقائمة أمنياتك بمقابل {{amount}} {{currency}}؟",
+    "EMBED_PAY_FIELD_NAME": "سوف تدفع:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "سوف تحصل على:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} فتحات إضافية لقائمة أمنياتك```",
+    "EMBED_MAXED_DESCRIPTION": "هل تريد الحد الأقصى لفتحات قائمة أمنياتك مقابل {{amount}} {{currency}}؟",
+    "EMBED_MAXED_FIELD_VALUE": "```الحد الأقصى 50 فتحة```",
+    "SUCCESS": "تم بنجاح",
+    "CANCELLED": "تم الإلغاء",
+    "PAY_ERROR": "`ليست لديك {{amount}} {{currency}}`"
 }

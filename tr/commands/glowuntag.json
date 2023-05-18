@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "Parlama efektinin etiketini kaldırın",
-  "GUT_CATEGORY": "Etiketler",
-  "NO_GLOWS_FOUND": "Henüz hiçbir parlama kilidi açmadınız",
-  "WRONG_GLOWCODE_FORMAT": "Parlama kodu # ile başlar",
-  "INVALID_GLOWCODE": "Geçersiz Parlama Kodu veya Parlama Bulunamadı",
-  "GLOW_UNTAG_SUCCESSFULL": "${{glow}} etiketi başarıyla kaldırıldı"
+    "GUT_DESCRIPTION": "Parlama efektinin etiketini kaldırın",
+    "GUT_CATEGORY": "Etiketler",
+    "NO_GLOWS_FOUND": "Henüz hiçbir parlama kilidi açmadınız",
+    "WRONG_GLOWCODE_FORMAT": "Parlama kodu # ile başlar",
+    "INVALID_GLOWCODE": "Geçersiz Parlama Kodu veya Parlama Bulunamadı",
+    "GLOW_UNTAG_SUCCESSFULL": "${{glow}} etiketi başarıyla kaldırıldı"
 }

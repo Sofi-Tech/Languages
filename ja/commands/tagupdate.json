@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "タグを更新",
+    "TU_CATEGORY": "タグ",
+    "WRONG_USAGE": "使用法：`stagupdate <タグ名>`",
+    "TAG_NOT_FOUND": "`{{tag}}`という名前のタグが見つかりません",
+    "BUTTON_NAME_LABEL": "名前",
+    "BUTTON_EMOJI_LABEL": "絵文字",
+    "EMBED_TITLE": "タグを更新する",
+    "EMBED_DESCRIPTION": "タグ `{{tagName}}` の何を更新しますか？",
+    "EMBED_FOOTER": "以下のボタンを使用してください",
+    "REPLACE_NAME": "`{{tagName}}` を置き換えたい新しいタグ名を入力してください",
+    "TAGNAME_EXISTS": "名前が `{{newTagName}}` のタグは既に存在しています。別のタグ名を入力してください。",
+    "WRONG_TAGNAME_FORMAT": "タグ名には特殊文字や空白を含めることはできません",
+    "TAGNAME_LONG": "タグ名が長すぎます。20文字以下にしてください",
+    "REPLACE_NAME_CONFIRMATION": "`{{oldTag}}` から `{{newTag}}` にタグ名を置き換えますか？",
+    "REPLACE_NAME_SUCCESSFULL": "タグ名は `{{oldTag}}` から `{{newTag}}` に正常に更新されました",
+    "PROCESS_TERMINATED": "プロセスが中断されました",
+    "REPLACE_EMOJI": "`{{emoji}}` を置き換えたい新しいタグ絵文字を送信してください",
+    "TAGEMOJI_EXISTS": "絵文字 `{{newEmoji}}` を持つタグが既に存在しています。別のタグ絵文字を指定してください",
+    "WRONG_TAGEMOJI_FORMAT": "絵文字 `{{newEmoji}}` を持つタグが既に存在しています。別のタグ絵文字を指定してください",
+    "REPLACE_EMOJI_CONFIRMATION": "`{{oldEmoji}}` から `{{newEmoji}}` にタグ絵文字を置き換えますか？",
+    "REPLACE_EMOJI_SUCCESSFULL": "タグ絵文字は `{{oldEmoji}}` から `{{newEmoji}}` に正常に更新されました"
+}

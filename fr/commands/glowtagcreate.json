@@ -1,8 +1,8 @@
 {
-  "GTC_DESCRIPTION": "Créer une étiquette Glow",
-  "GTC_CATEGORY": "Étiquettes",
-  "CORRECT_USAGE": "Utilisation : `sgtc <nom de l'étiquette> <emoji>`",
-  "INVALID_EMOJI": "Ce n'est pas un emoji valide",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} **l'étiquette glow avec ce nom existe déjà",
-  "CREATED_GLOWTAG": "{{author}} **a créé une étiquette Glow avec le nom :** `{{tag}}` | {{emoji}}"
+    "GTC_DESCRIPTION": "Créer une étiquette Glow",
+    "GTC_CATEGORY": "Étiquettes",
+    "CORRECT_USAGE": "Utilisation : `sgtc <nom de l'étiquette> <emoji>`",
+    "INVALID_EMOJI": "Ce n'est pas un emoji valide",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} **l'étiquette glow avec ce nom existe déjà",
+    "CREATED_GLOWTAG": "{{author}} **a créé une étiquette Glow avec le nom :** `{{tag}}` | {{emoji}}"
 }

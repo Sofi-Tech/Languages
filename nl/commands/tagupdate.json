@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "Een tag bijwerken",
+    "TU_CATEGORY": "Tags",
+    "WRONG_USAGE": "Gebruik: 'stagupdate <Tagnaam>'",
+    "TAG_NOT_FOUND": "Geen tag gevonden met de naam `{{tag}}`",
+    "BUTTON_NAME_LABEL": "Naam",
+    "BUTTON_EMOJI_LABEL": "Emoji",
+    "EMBED_TITLE": "Tag bijwerken",
+    "EMBED_DESCRIPTION": "Wat wil je bijwerken bij de tag `{{tagName}}`?",
+    "EMBED_FOOTER": "Gebruik de onderstaande knoppen",
+    "REPLACE_NAME": "Schrijf de nieuwe tag-naam waarmee je `{{tagName}}` wilt vervangen",
+    "TAGNAME_EXISTS": "Er bestaat al een tag met de naam `{{newTagName}}`. Kies een andere naam voor de tag.",
+    "WRONG_TAGNAME_FORMAT": "De tag-naam mag geen speciale tekens of spaties bevatten.",
+    "TAGNAME_LONG": "Tag-naam te lang. Kies een naam die minder dan 20 tekens bevat.",
+    "REPLACE_NAME_CONFIRMATION": "Weet je zeker dat je de tag-naam wilt wijzigen van `{{oldTag}}` naar `{{newTag}}`?",
+    "REPLACE_NAME_SUCCESSFULL": "De tag-naam is succesvol bijgewerkt van `{{oldTag}}` naar `{{newTag}}`",
+    "PROCESS_TERMINATED": "Het proces is beëindigd",
+    "REPLACE_EMOJI": "Stuur de nieuwe tag-emoji waarmee je {{emoji}} wilt vervangen",
+    "TAGEMOJI_EXISTS": "Er bestaat al een tag met de emoji {{newEmoji}}. Kies een andere emoji voor de tag.",
+    "WRONG_TAGEMOJI_FORMAT": "De tag-emoji is onjuist geformatteerd. Kies een andere tag-emoji.",
+    "REPLACE_EMOJI_CONFIRMATION": "Weet je zeker dat je de tag-emoji wilt wijzigen van {{oldEmoji}} naar {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFULL": "De tag-emoji is succesvol bijgewerkt van {{oldEmoji}} naar {{newEmoji}}"
+}

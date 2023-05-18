@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "Отобразить таблицу лидеров избранного",
-  "CATEGORY": "Список желаний",
-  "EMBED_TITLE": "ТАБЛИЦА ЛИДЕРОВ ИЗБРАННОГО - {{type}}",
-  "EMBED_FOOTER": "Показана страница {{page}}/{{totalPages}}",
-  "CHARACTER_BUTTON_LABEL": "Персонажи",
-  "SERIES_BUTTON_LABEL": "Серии"
+    "DESCRIPTION": "Отобразить таблицу лидеров избранного",
+    "CATEGORY": "Список желаний",
+    "EMBED_TITLE": "ТАБЛИЦА ЛИДЕРОВ ИЗБРАННОГО - {{type}}",
+    "EMBED_FOOTER": "Показана страница {{page}}/{{totalPages}}",
+    "CHARACTER_BUTTON_LABEL": "Персонажи",
+    "SERIES_BUTTON_LABEL": "Серии"
 }

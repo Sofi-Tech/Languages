@@ -1,7 +1,7 @@
 {
-  "TT_DESCRIPTION": "Transfer cards from one tag to other",
-  "TT_CATEGORY": "Tags",
-  "WRONG_USAGE": "Correct usage: `strt <fromTagName> <toTagName>`",
-  "TAG_NOT_FOUND": "Cannot find tag with name: `{{tag}}`",
-  "TRANSFER_TAG_SUCCESSFULL": "Successfully transferred all cards from `{{fromTag}}` to `${toTag}`"
+    "TT_DESCRIPTION": "Transfer cards from one tag to other",
+    "TT_CATEGORY": "Tags",
+    "WRONG_USAGE": "Correct usage: `strt <fromTagName> <toTagName>`",
+    "TAG_NOT_FOUND": "Cannot find tag with name: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Successfully transferred all cards from `{{fromTag}}` to `${toTag}`"
 }

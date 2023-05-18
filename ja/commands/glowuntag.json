@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "輝きを外す",
-  "GUT_CATEGORY": "タグ",
-  "NO_GLOWS_FOUND": "まだ輝きをアンロックしていません",
-  "WRONG_GLOWCODE_FORMAT": "輝きコードは#で始まります",
-  "INVALID_GLOWCODE": "無効な輝きコードまたは輝きが見つかりません",
-  "GLOW_UNTAG_SUCCESSFULL": "${{glow}}を正常にタグ解除しました"
+    "GUT_DESCRIPTION": "輝きを外す",
+    "GUT_CATEGORY": "タグ",
+    "NO_GLOWS_FOUND": "まだ輝きをアンロックしていません",
+    "WRONG_GLOWCODE_FORMAT": "輝きコードは#で始まります",
+    "INVALID_GLOWCODE": "無効な輝きコードまたは輝きが見つかりません",
+    "GLOW_UNTAG_SUCCESSFULL": "${{glow}}を正常にタグ解除しました"
 }

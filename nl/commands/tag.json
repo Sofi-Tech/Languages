@@ -1,11 +1,11 @@
 {
-  "TAG_DESCRIPTION": "Kaart taggen",
-  "TAG_CATEGORY": "Tags",
-  "WRONG_USAGE": "Geef een tag-naam op.",
-  "NO_TAGS_CREATED": "Bedankt dat je probeert te taggen, maar er zijn geen tags gevonden. Maak eerst een tag met behulp van het `stc` commando.",
-  "TAG_NOT_FOUND": "Je hebt geen tag met de naam `{{tag}}`.",
-  "NO_CARDS_CLAIMED": "Je hebt nog geen kaarten geclaimd.",
-  "INVALID_CARD_CODE": "{{author}} Ongeldige kaartcode of geen kaart gevonden.",
-  "SUCCESSFUL_TAG": "{{author}} | {{card}} succesvol getagd met `{{tag}}`",
-  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Deze kaarten zijn succesvol getagd."
+    "TAG_DESCRIPTION": "Kaart taggen",
+    "TAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "Geef een tag-naam op.",
+    "NO_TAGS_CREATED": "Bedankt dat je probeert te taggen, maar er zijn geen tags gevonden. Maak eerst een tag met behulp van het `stc` commando.",
+    "TAG_NOT_FOUND": "Je hebt geen tag met de naam `{{tag}}`.",
+    "NO_CARDS_CLAIMED": "Je hebt nog geen kaarten geclaimd.",
+    "INVALID_CARD_CODE": "{{author}} Ongeldige kaartcode of geen kaart gevonden.",
+    "SUCCESSFUL_TAG": "{{author}} | {{card}} succesvol getagd met `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Deze kaarten zijn succesvol getagd."
 }

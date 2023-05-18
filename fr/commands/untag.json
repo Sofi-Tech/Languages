@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "Enlever les étiquettes des cartes",
+    "UT_CATEGORY": "Étiquettes",
+    "INVALID_CODE": "Code de carte invalide ou aucune carte trouvée",
+    "UNTAG_SUCCESSFULL": "Détaché avec succès {{cardName}}",
+    "MULTIPLE_UNTAG": "{{validCards}} {{invalidCards}} ont été détachées"
+}

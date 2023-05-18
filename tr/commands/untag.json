@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "Kartları etiketlerden kaldırın",
+    "UT_CATEGORY": "Etiketler",
+    "INVALID_CODE": "Geçersiz kart kodu veya kart bulunamadı",
+    "UNTAG_SUCCESSFULL": "{{cardName}} başarıyla etiketlerden kaldırıldı",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}} etiketlerden kaldırıldı"
+}

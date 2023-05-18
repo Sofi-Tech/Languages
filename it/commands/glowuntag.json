@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "Cancella il bagliore",
-  "GUT_CATEGORY": "Tag",
-  "NO_GLOWS_FOUND": "Non hai ancora sbloccato alcun bagliore",
-  "WRONG_GLOWCODE_FORMAT": "Il codice di bagliore inizia con #",
-  "INVALID_GLOWCODE": "Codice bagliore non valido o nessun bagliore trovato",
-  "GLOW_UNTAG_SUCCESSFULL": "Bagliore ${{glow}} rimosso correttamente"
+    "GUT_DESCRIPTION": "Cancella il bagliore",
+    "GUT_CATEGORY": "Tag",
+    "NO_GLOWS_FOUND": "Non hai ancora sbloccato alcun bagliore",
+    "WRONG_GLOWCODE_FORMAT": "Il codice di bagliore inizia con #",
+    "INVALID_GLOWCODE": "Codice bagliore non valido o nessun bagliore trovato",
+    "GLOW_UNTAG_SUCCESSFULL": "Bagliore ${{glow}} rimosso correttamente"
 }

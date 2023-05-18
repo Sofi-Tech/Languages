@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "ウィッシュリストからキャラクターを削除します",
-  "CATEGORY": "ウィッシュリスト",
-  "NO_INDEX": "名前または番号が指定されていません | ウィッシュリスト全体を削除するには、 `full reset` を使用してください",
-  "FULL_RESET": "> {{author}} がウィッシュリストから{{total}}キャラクターを削除しました",
-  "REMOVE_CHARACTER": "> {{author}} が{{name}}をウィッシュリストから削除しました",
-  "NO_RESULTS": "> {{author}} が{{name}}の検索結果が見つかりませんでした"
+    "DESCRIPTION": "ウィッシュリストからキャラクターを削除します",
+    "CATEGORY": "ウィッシュリスト",
+    "NO_INDEX": "名前または番号が指定されていません | ウィッシュリスト全体を削除するには、 `full reset` を使用してください",
+    "FULL_RESET": "> {{author}} がウィッシュリストから{{total}}キャラクターを削除しました",
+    "REMOVE_CHARACTER": "> {{author}} が{{name}}をウィッシュリストから削除しました",
+    "NO_RESULTS": "> {{author}} が{{name}}の検索結果が見つかりませんでした"
 }

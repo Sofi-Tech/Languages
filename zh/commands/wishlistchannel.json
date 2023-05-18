@@ -1,6 +1,6 @@
 {
-  "DESCRIPTION": "设定心愿单频道",
-  "CATEGORY": "心愿单",
-  "CHANNEL_SET": "> 已将你的心愿单频道设置为 {{channel}}",
-  "CHANNEL_REMOVE": "> 已移除你的心愿单频道"
+    "DESCRIPTION": "设定心愿单频道",
+    "CATEGORY": "心愿单",
+    "CHANNEL_SET": "> 已将你的心愿单频道设置为 {{channel}}",
+    "CHANNEL_REMOVE": "> 已移除你的心愿单频道"
 }

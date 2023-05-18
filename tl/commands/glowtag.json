@@ -1,10 +1,10 @@
 {
-  "GT_DESCRIPTION": "Itag ang hindi nakakandadang ningning",
-  "GT_CATEGORY": "Mga Tag",
-  "GLOWTAGS_NOT_FOUND": "Naapreciate namin ang paglalagay ng tag ngunit wala kaming nakitang ningning na tag",
-  "GLOWS_NOT_UNLOCKED": "{{author}} hindi ka pa nakakandado ng kahit isang ningning",
-  "MISSING_GLOWTAG": "{{may-akda}} Marahil kailangan mo magbigay ng tag ng ningning",
-  "INVALID_GLOW_CODE": "{{may-akda}} Naiinvalidong uri ng ningning o walang nakitang ningning",
-  "SUCCESSFULL_GLOWTAG": "{{may-akda}} Matagumpay na naitag ang **{{glow}}** bilang {{tag}}",
-  "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{may-akda}} Matagumpay na naitag ang mga ningning"
+    "GT_DESCRIPTION": "Itag ang hindi nakakandadang ningning",
+    "GT_CATEGORY": "Mga Tag",
+    "GLOWTAGS_NOT_FOUND": "Naapreciate namin ang paglalagay ng tag ngunit wala kaming nakitang ningning na tag",
+    "GLOWS_NOT_UNLOCKED": "{{author}} hindi ka pa nakakandado ng kahit isang ningning",
+    "MISSING_GLOWTAG": "{{may-akda}} Marahil kailangan mo magbigay ng tag ng ningning",
+    "INVALID_GLOW_CODE": "{{may-akda}} Naiinvalidong uri ng ningning o walang nakitang ningning",
+    "SUCCESSFULL_GLOWTAG": "{{may-akda}} Matagumpay na naitag ang **{{glow}}** bilang {{tag}}",
+    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{may-akda}} Matagumpay na naitag ang mga ningning"
 }

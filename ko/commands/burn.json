@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "크리스탈과 실버를 얻으려면 카드를 태우십시오. 이를 사용하여 큐브를 만들고 로봇에서 다른 여러 항목을 구입할 수 있습니다. sb를 입력하면 마지막으로 요구한 카드를 태우게 됩니다.",
-  "GUILDSTONE_BURN": "길드 스톤을 태우려고합니다",
-  "GUILDSTONE_NOT_FOUND": "태울 길드 스톤이 없습니다",
-  "SUCCESS": "성공",
-  "CANCELLED": "취소됨",
-  "BURN_FRAG_WARN": "꿈 조각을 태우려고합니다\n꿈 조각 코드: `{{fragCode}}`",
-  "FRAG_NOT_FOUND": "꿈 조각을 찾을 수 없습니다",
-  "CARD_NOT_FOUND": "해당 카드를 찾을 수 없습니다",
-  "CARD_LOCKED": "카드가 잠겨 있습니다",
-  "CARD_NOT_OWNED": "해당 카드를 소유하고 있지 않습니다"
+    "DESCRIPTION": "크리스탈과 실버를 얻으려면 카드를 태우십시오. 이를 사용하여 큐브를 만들고 로봇에서 다른 여러 항목을 구입할 수 있습니다. sb를 입력하면 마지막으로 요구한 카드를 태우게 됩니다.",
+    "GUILDSTONE_BURN": "길드 스톤을 태우려고합니다",
+    "GUILDSTONE_NOT_FOUND": "태울 길드 스톤이 없습니다",
+    "SUCCESS": "성공",
+    "CANCELLED": "취소됨",
+    "BURN_FRAG_WARN": "꿈 조각을 태우려고합니다\n꿈 조각 코드: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "꿈 조각을 찾을 수 없습니다",
+    "CARD_NOT_FOUND": "해당 카드를 찾을 수 없습니다",
+    "CARD_LOCKED": "카드가 잠겨 있습니다",
+    "CARD_NOT_OWNED": "해당 카드를 소유하고 있지 않습니다"
 }

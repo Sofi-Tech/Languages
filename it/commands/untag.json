@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "Rimuovi tag dalle carte",
+    "UT_CATEGORY": "Tag",
+    "INVALID_CODE": "Codice carta non valido o nessuna carta trovata",
+    "UNTAG_SUCCESSFULL": "Carta {{cardName}} senza tag rimossa con successo",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}} carte rimosse senza tag"
+}

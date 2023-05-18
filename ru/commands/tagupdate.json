@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "Обновляет тег",
+    "TU_CATEGORY": "Теги",
+    "WRONG_USAGE": "Использование: `stagupdate <название_тега>`",
+    "TAG_NOT_FOUND": "Тег с названием `{{tag}}` не найден",
+    "BUTTON_NAME_LABEL": "Имя",
+    "BUTTON_EMOJI_LABEL": "Эмодзи",
+    "EMBED_TITLE": "Обновить тег",
+    "EMBED_DESCRIPTION": "Что вы хотите обновить в теге `{{tagName}}`?",
+    "EMBED_FOOTER": "Используйте кнопки ниже",
+    "REPLACE_NAME": "Укажите новое название тега, которым вы хотите заменить `{{tagName}}`",
+    "TAGNAME_EXISTS": "Тег с названием `{{newTagName}}` уже существует. Укажите другое название тега.",
+    "WRONG_TAGNAME_FORMAT": "Название тега не должно содержать специальных символов или пробелов",
+    "TAGNAME_LONG": "Длина названия тега слишком большая. Попробуйте меньше 20 символов",
+    "REPLACE_NAME_CONFIRMATION": "Вы уверены, что хотите заменить название тега с `{{oldTag}}` на `{{newTag}}`?",
+    "REPLACE_NAME_SUCCESSFULL": "Название тега успешно обновлено с `{{oldTag}}` на `{{newTag}}`",
+    "PROCESS_TERMINATED": "Процесс был прерван",
+    "REPLACE_EMOJI": "Отправьте новый эмодзи тега, которым вы хотите заменить {{emoji}}",
+    "TAGEMOJI_EXISTS": "Тег с эмодзи {{newEmoji}} уже существует. Укажите другой эмодзи тега",
+    "WRONG_TAGEMOJI_FORMAT": "Эмодзи тега должно быть действительным",
+    "REPLACE_EMOJI_CONFIRMATION": "Вы уверены, что хотите заменить эмодзи тега с {{oldEmoji}} на {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFULL": "Эмодзи тега успешно обновлено с {{oldEmoji}} на {{newEmoji}}"
+}

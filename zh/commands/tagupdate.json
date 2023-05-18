@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "更新标签",
+    "TU_CATEGORY": "标签",
+    "WRONG_USAGE": "用法：`stagupdate <标签名称>`",
+    "TAG_NOT_FOUND": "未找到名称为`{{tag}}`的标签",
+    "BUTTON_NAME_LABEL": "名称",
+    "BUTTON_EMOJI_LABEL": "表情符号",
+    "EMBED_TITLE": "更新标签",
+    "EMBED_DESCRIPTION": "您想要更新标签`{{tagName}}`中的哪些内容？",
+    "EMBED_FOOTER": "使用下面给出的按钮",
+    "REPLACE_NAME": "输入您想要用`{{tagName}}`替换的新标签名称",
+    "TAGNAME_EXISTS": "名称为`{{newTagName}}`的标签已经存在，请提供不同的标签名称。",
+    "WRONG_TAGNAME_FORMAT": "标记名称不得包含任何特殊字符或空格。",
+    "TAGNAME_LONG": "标签名称太长，请尝试少于20个字符。",
+    "REPLACE_NAME_CONFIRMATION": "您确定要将标记名称从`{{oldTag}}`更改为`{{newTag}}`吗？",
+    "REPLACE_NAME_SUCCESSFULL": "标记名称已成功从`{{oldTag}}`更改为`{{newTag}}`。",
+    "PROCESS_TERMINATED": "已终止该进程",
+    "REPLACE_EMOJI": "发送您想要与{{emoji}}替换的新的标签表情符号",
+    "TAGEMOJI_EXISTS": "带有表情符号{{newEmoji}}的标签已经存在，请提供不同的标签表情符号",
+    "WRONG_TAGEMOJI_FORMAT": "标签表情符号不得包含任何特殊字符或空格。",
+    "REPLACE_EMOJI_CONFIRMATION": "您确实要将标签表情符号从{{oldEmoji}}更改为{{newEmoji}}吗？",
+    "REPLACE_EMOJI_SUCCESSFULL": "标签表情符号已成功从{{oldEmoji}}更改为{{newEmoji}}。"
+}

@@ -1,0 +1,7 @@
+{
+    "UT_DESCRIPTION": "取消标签",
+    "UT_CATEGORY": "标签",
+    "INVALID_CODE": "无效卡片编码或未找到卡片",
+    "UNTAG_SUCCESSFULL": "成功取消 {{cardName}} 的标签",
+    "MULTIPLE_UNTAG": "取消 {{validCards}}{{invalidCards}} 的标签"
+}

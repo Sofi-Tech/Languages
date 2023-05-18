@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "टैग अपडेट करें",
+    "TU_CATEGORY": "टैग",
+    "WRONG_USAGE": "उपयोग: `stagupdate <Tagname>`",
+    "TAG_NOT_FOUND": "कोई टैग नहीं मिला जिसका नाम है `{{tag}}`",
+    "BUTTON_NAME_LABEL": "नाम",
+    "BUTTON_EMOJI_LABEL": "इमोजी",
+    "EMBED_TITLE": "टैग अपडेट करें",
+    "EMBED_DESCRIPTION": "आप `{{tagName}}` टैग का क्या अपडेट करना चाहेंगे?",
+    "EMBED_FOOTER": "दिए गए बटन का उपयोग करें",
+    "REPLACE_NAME": "`{{tagName}}` से रिप्लेस करने के लिए एक नया टैग नाम लिखें",
+    "TAGNAME_EXISTS": "`{{newTagName}}` नाम के साथ एक टैग पहले से ही मौजूद है। एक अलग टैग नाम दें।",
+    "WRONG_TAGNAME_FORMAT": "टैग नाम में कोई विशेष वर्ण या जगह नहीं होनी चाहिए",
+    "TAGNAME_LONG": "टैग नाम बहुत लंबा है। 20 वर्णों से कम आज़माएं",
+    "REPLACE_NAME_CONFIRMATION": "क्या आप वाकई `{{oldTag}}` से `{{newTag}}` टैग नाम को रीप्लेस करना चाहते हैं?",
+    "REPLACE_NAME_SUCCESSFULL": "टैग नाम को सफलतापूर्वक `{{oldTag}}` से `{{newTag}}` अपडेट किया गया है",
+    "PROCESS_TERMINATED": "प्रक्रिया समाप्त हो गई है",
+    "REPLACE_EMOJI": "`{{emoji}}` से रिप्लेस करने के लिए नई टैग इमोजी भेजें",
+    "TAGEMOJI_EXISTS": "`{{newEmoji}}` इमोजी से एक टैग पहले से ही मौजूद है। एक अलग टैग इमोजी दें।",
+    "WRONG_TAGEMOJI_FORMAT": "`{{newEmoji}}` इमोजी से एक टैग पहले से ही मौजूद है। एक अलग टैग इमोजी दें।",
+    "REPLACE_EMOJI_CONFIRMATION": "क्या आप वाकई {{oldEmoji}} से {{newEmoji}} टैग इमोजी को रिप्लेस करना चाहते हैं?",
+    "REPLACE_EMOJI_SUCCESSFULL": "टैग इमोजी को सफलतापूर्वक {{oldEmoji}} से {{newEmoji}} अपडेट किया गया है"
+}

@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "Aggiorna un tag",
+    "TU_CATEGORY": "Tag",
+    "WRONG_USAGE": "Utilizzo: 'stagupdate <Tagname>'",
+    "TAG_NOT_FOUND": "Nessun tag trovato con il nome '{{tag}}'",
+    "BUTTON_NAME_LABEL": "Nome",
+    "BUTTON_EMOJI_LABEL": "Emoji",
+    "EMBED_TITLE": "Aggiorna il Tag",
+    "EMBED_DESCRIPTION": "Cosa vorresti aggiornare del tag '{{tagName}}'?",
+    "EMBED_FOOTER": "Usa i pulsanti qui sotto",
+    "REPLACE_NAME": "Scrivi il nuovo nome del tag che vuoi sostituire con '{{tagName}}'",
+    "TAGNAME_EXISTS": "Un tag con il nome '{{newTagName}}' esiste già. Fornisci un nome diverso.",
+    "WRONG_TAGNAME_FORMAT": "Il nome del tag non deve contenere caratteri speciali o spazi",
+    "TAGNAME_LONG": "Nome del tag troppo lungo. Provare con meno di 20 caratteri",
+    "REPLACE_NAME_CONFIRMATION": "Sei sicuro di voler sostituire il nome del tag da '{{oldTag}}' a '{{newTag}}'?",
+    "REPLACE_NAME_SUCCESSFULL": "Il nome del tag è stato aggiornato correttamente da '{{oldTag}}' a '{{newTag}}'",
+    "PROCESS_TERMINATED": "Il processo è stato interrotto",
+    "REPLACE_EMOJI": "Invia il nuovo emoji del tag che vuoi sostituire con {{emoji}}",
+    "TAGEMOJI_EXISTS": "Un tag con l'emoji '{{newEmoji}}' esiste già. Fornisci un'altra emoji per il tag",
+    "WRONG_TAGEMOJI_FORMAT": "L'emoji del tag non deve contenere caratteri speciali o spazi",
+    "REPLACE_EMOJI_CONFIRMATION": "Sei sicuro di voler sostituire l'emoji del tag da {{oldEmoji}} a {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFULL": "L'emoji del tag è stato aggiornato correttamente da {{oldEmoji}} a {{newEmoji}}"
+}

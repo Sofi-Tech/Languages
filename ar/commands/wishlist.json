@@ -1,19 +1,19 @@
 {
-  "DESCRIPTION": "يعرض قائمة أمنياتك",
-  "CATEGORY": "قائمة الأمنيات",
-  "USER_NOT_FOUND": "المستخدم غير موجود.",
-  "WISHLIST_PRIVATE": "> قائمة أمنيات هذا المستخدم خاصة",
-  "WISHLIST_EMPTY": "> قائمة أمنيات {{username}} فارغة كقلبي 💔",
-  "WISHLIST_EMBED_TITLE": "قائمة أمنيات {{username}} [{{length}}/{{slots}}]",
-  "WISHLIST_EMBED_FOOTER": "استخدم {{prefix}}wu/{{prefix}}wu max لزيادة فتحات قائمة الأمنيات | الصفحات: {{page}}/{{totalPages}}",
-  "COPY_CODES_BUTTON_LABEL": "نسخ الرموز",
-  "COPY_CODES_MENU_LABEL": "نسخ جميع الرموز",
-  "COPY_CODES_MENU_DESCRIPTION": "يقوم بإرسال جميع الرموز على شكل رسالة نصية",
-  "BACK_MENU_LABEL": "العودة",
-  "BACK_MENU_DESCRIPTION": "يرجع إلى صفحة قائمة الأمنيات",
-  "CARD_MENU_DESCRIPTION": "نسخ رموز {{name}}",
-  "COPY_CODES_MENU_PLACEHOLDER": "نسخ الرموز",
-  "CODES_COPIED": "تم النسخ",
-  "ALL_CARD_CODES": "هذه هي الرموز",
-  "WISHLIST_CODE_EMBED_TITLE": "SOFI: رموز قائمة الأمنيات"
+    "DESCRIPTION": "يعرض قائمة أمنياتك",
+    "CATEGORY": "قائمة الأمنيات",
+    "USER_NOT_FOUND": "المستخدم غير موجود.",
+    "WISHLIST_PRIVATE": "> قائمة أمنيات هذا المستخدم خاصة",
+    "WISHLIST_EMPTY": "> قائمة أمنيات {{username}} فارغة كقلبي 💔",
+    "WISHLIST_EMBED_TITLE": "قائمة أمنيات {{username}} [{{length}}/{{slots}}]",
+    "WISHLIST_EMBED_FOOTER": "استخدم {{prefix}}wu/{{prefix}}wu max لزيادة فتحات قائمة الأمنيات | الصفحات: {{page}}/{{totalPages}}",
+    "COPY_CODES_BUTTON_LABEL": "نسخ الرموز",
+    "COPY_CODES_MENU_LABEL": "نسخ جميع الرموز",
+    "COPY_CODES_MENU_DESCRIPTION": "يقوم بإرسال جميع الرموز على شكل رسالة نصية",
+    "BACK_MENU_LABEL": "العودة",
+    "BACK_MENU_DESCRIPTION": "يرجع إلى صفحة قائمة الأمنيات",
+    "CARD_MENU_DESCRIPTION": "نسخ رموز {{name}}",
+    "COPY_CODES_MENU_PLACEHOLDER": "نسخ الرموز",
+    "CODES_COPIED": "تم النسخ",
+    "ALL_CARD_CODES": "هذه هي الرموز",
+    "WISHLIST_CODE_EMBED_TITLE": "SOFI: رموز قائمة الأمنيات"
 }

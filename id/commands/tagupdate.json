@@ -1,0 +1,23 @@
+{
+    "TU_DESCRIPTION": "Memperbarui tag",
+    "TU_CATEGORY": "Tag",
+    "WRONG_USAGE": "Penggunaan: `stagupdate <namaTag>`",
+    "TAG_NOT_FOUND": "Tidak ada tag yang ditemukan dengan nama `{{tag}}`",
+    "BUTTON_NAME_LABEL": "Nama",
+    "BUTTON_EMOJI_LABEL": "Emoji",
+    "EMBED_TITLE": "Perbarui Tag",
+    "EMBED_DESCRIPTION": "Apa yang ingin kamu perbarui dari tag `{{tagName}}`?",
+    "EMBED_FOOTER": "Gunakan tombol di bawah ini",
+    "REPLACE_NAME": "Tuliskan nama tag baru yang ingin Kamu ganti dengan `{{tagName}}`",
+    "TAGNAME_EXISTS": "Tag dengan nama `{{newTagName}}` sudah ada. Berikan nama tag yang berbeda.",
+    "WRONG_TAGNAME_FORMAT": "Nama tag tidak boleh mengandung karakter khusus atau spasi",
+    "TAGNAME_LONG": "Nama tag terlalu panjang. Cobalah kurang dari 20 karakter",
+    "REPLACE_NAME_CONFIRMATION": "Apakah kamu yakin ingin mengganti nama tag dari `{{oldTag}}` menjadi `{{newTag}}`?",
+    "REPLACE_NAME_SUCCESSFULL": "Nama tag berhasil diperbarui dari `{{oldTag}}` menjadi `{{newTag}}`",
+    "PROCESS_TERMINATED": "Proses telah dihentikan",
+    "REPLACE_EMOJI": "Kirimkan emoji tag baru yang ingin Kamu ganti dengan {{emoji}}",
+    "TAGEMOJI_EXISTS": "Tag dengan emoji {{newEmoji}} sudah ada. Berikan emoji tag yang berbeda.",
+    "WRONG_TAGEMOJI_FORMAT": "Emoji tag tidak valid",
+    "REPLACE_EMOJI_CONFIRMATION": "Apakah kamu yakin ingin mengganti emoji tag dari {{oldEmoji}} menjadi {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFULL": "Emoji tag berhasil diperbarui dari {{oldEmoji}} menjadi {{newEmoji}}"
+}

@@ -1,0 +1,9 @@
+{
+    "TL_DESCRIPTION": "Affiche la liste des balises",
+    "TL_CATEGORY": "Balises",
+    "NO_USER": "L'utilisateur n'existe pas.",
+    "NO_TAGS": "{{author}} Aucune balise trouvée",
+    "EMBED_TITLE": "Liste des balises: {{username}}",
+    "SOFI_FACT": "Sofi fact: Créez une balise avec stc lock 🔒\nLes cartes verrouillées ne peuvent pas être brûlées, données, échangées\nou brûlées en masse",
+    "EMBED_FOOTER": "Nombre de balises: {{count}}"
+}

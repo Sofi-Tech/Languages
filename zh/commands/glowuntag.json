@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "取消标签",
-  "GUT_CATEGORY": "标签",
-  "NO_GLOWS_FOUND": "您还没有解锁任何发光点",
-  "WRONG_GLOWCODE_FORMAT": "发光代码以#开始",
-  "INVALID_GLOWCODE": "无效的发光代码或未发现发光",
-  "GLOW_UNTAG_SUCCESSFULL": "${{glow}}取消标记成功"
+    "GUT_DESCRIPTION": "取消标签",
+    "GUT_CATEGORY": "标签",
+    "NO_GLOWS_FOUND": "您还没有解锁任何发光点",
+    "WRONG_GLOWCODE_FORMAT": "发光代码以#开始",
+    "INVALID_GLOWCODE": "无效的发光代码或未发现发光",
+    "GLOW_UNTAG_SUCCESSFULL": "${{glow}}取消标记成功"
 }

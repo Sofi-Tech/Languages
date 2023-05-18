@@ -1,7 +1,7 @@
 {
-  "TD_DESCRIPTION": "Supprimer le tag",
-  "TD_CATEGORY": "Tags",
-  "WRONG_USAGE": "Utilisation : `sdt <nom du tag>`",
-  "TAG_NOT_FOUND": "Ce tag n'est pas dans votre liste de tags",
-  "SUCCESSFUL_DELETE_TAG": "Tag {{tag}} supprimé avec succès"
+    "TD_DESCRIPTION": "Supprimer le tag",
+    "TD_CATEGORY": "Tags",
+    "WRONG_USAGE": "Utilisation : `sdt <nom du tag>`",
+    "TAG_NOT_FOUND": "Ce tag n'est pas dans votre liste de tags",
+    "SUCCESSFUL_DELETE_TAG": "Tag {{tag}} supprimé avec succès"
 }
