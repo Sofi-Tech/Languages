@@ -1,17 +1,17 @@
 {
-    "ALBUM_DESCRIPTION": "Sofi albümlerinizi görüntüler",
+    "ALBUM_DESCRIPTION": "Sofi albümlerini görüntüler",
     "ALBUM_CATEGORY": "Albüm",
-    "ALBUM_SLASH_DESC": "Görmek istediğiniz albümün kullanıcısını girin",
-    "ALBUM_SLASH_DESC2": "Aradığınız albümün adını belirtin",
+    "ALBUM_SLASH_DESC": "Görmek istediğin albümün kullanıcısını gir",
+    "ALBUM_SLASH_DESC2": "Aradığın albümün adını belirt",
     "USER_NOT_FOUND": "{{author}} | Kullanıcı bulunamadı!",
     "PLAYER_NOT_EXIST": "{{author}} | Böyle bir oyuncu yok",
     "ALBUM_NOT_FOUND": "{{username}} adlı kullanıcıda albüm bulunamadı",
-    "NO_ALBUMS": "{{member}} şu anda herhangi bir albüme sahip değil\nBir albüm oluşturmak için `sca` komutunu kullanın\nBir albümü yapılandırmak için `sacf <albüm> <sayfa>` komutunu kullanın",
+    "NO_ALBUMS": "{{member}} şu anda herhangi bir albüme sahip değil\nBir albüm oluşturmak için `sca` komutunu kullan\nBir albümü yapılandırmak için `sacf <albüm> <sayfa>` komutunu kullan",
     "ALBUM_NAME_NOT_FOUND": "{{author}}, `{{albumName}}` adında bir albüm bulunamadı",
     "NO_PAGES": "{{author}} Bu albümde hiç sayfa yok",
     "MAX_PAGES_ERROR": "{{author}} Sayfa numarası 1 ile {{maxPages}} arasında olmalıdır",
     "PROCESSING": "İşleniyor <a:_:876610443148406794>",
     "MISSING_CARDS": "Bu albüm sayfasında şu kartlar eksiktir:\n{{cardsList}}",
-    "CARDS_LAYOUT_ERROR": "Bu sayfayı görüntülemek için kartları ve düzeni yeniden ayarlamayı deneyin\nAlbüm: `{{albumName}}` Sayfa: `{{pageNumber}}`",
+    "CARDS_LAYOUT_ERROR": "Bu sayfayı görüntülemek için kartları ve düzeni yeniden ayarlamayı dene\nAlbüm: `{{albumName}}` Sayfa: `{{pageNumber}}`",
     "PROFILE_OWNED": "Profilin sahibi {{memberId}}"
 }

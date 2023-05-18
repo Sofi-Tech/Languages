@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Bir kartla ilgili bilgileri görüntüler",
-    "SLASH_DESC": "İncelemek istediğiniz kartın kodunu giriniz",
-    "NO_CARD_FOUND": "Son kartınız bulunamadı. Bunun yerine bir kart kodu sağlamayı deneyin",
-    "INVALID_CARD_CODE": "Sağlanan geçersiz kart kodu",
+    "SLASH_DESC": "İncelemek istediğin kartın kodunu gir",
+    "NO_CARD_FOUND": "Son kartın bulunamadı. Bunun yerine bir kart kodu ile dene",
+    "INVALID_CARD_CODE": "Geçersiz kart kodu sağlandı",
     "CARD_MORPHED": "Bu kart biçimlendirilmiş",
     "CARD_GLOWED": "Bu kartta şu `Glow` uygulanmış: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Yazı tipi rengi: {{fontName}} [`#{{ viewCode}}`]\n",

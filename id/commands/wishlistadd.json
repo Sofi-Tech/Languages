@@ -2,9 +2,9 @@
     "DESCRIPTION": "Tambahkan karakter ke wishlist Anda",
     "CATEGORY": "Daftar keinginan",
     "ADD_CHARACTERS_ERROR": "> Anda tidak dapat menambahkan lebih banyak karakter ke wishlist",
-    "SEARCH_CHARACTER_ERROR": "Masukkan nama karakter untuk ditambahkan ke wishlist Anda\nGunakan `swa -f <name>` untuk pencarian yang tepat",
-    "NO_CHARACTER_FOUND": "Tidak ada karakter yang ditemukan\nGunakan perintah `swa -f <name>` untuk pencarian yang tepat",
-    "CHARACTER_ALREADY_EXISTS": "{{name}} sudah ada di wishlist Anda!",
-    "CHARACTER_ADDED": "> {{author}} | Menambahkan {{name}} ke wishlist Anda",
+    "SEARCH_CHARACTER_ERROR": "Berikan nama untuk menambahkan karakter tersebut ke wishlist Anda\nGunakan perintah `swa -f <nama>` untuk pencarian yang tepat",
+    "NO_CHARACTER_FOUND": "Tidak dapat menemukan karakter tersebut\nGunakan perintah `swa -f <nama>` untuk pencarian yang tepat",
+    "CHARACTER_ALREADY_EXISTS": "**{{name}}** sudah ada di wishlist Anda!",
+    "CHARACTER_ADDED": "{{author}} Menambahkan **{{name}}** ke wishlist Anda",
     "EMBED_TITLE": "<:lined:868888105611046942> __Tambahkan ke wishlist__"
 }
