@@ -1,7 +1,7 @@
 {
     "DGT_DESCRIPTION": "Deletes a \"Glow Tag\"",
     "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "Usage: sdgt <tagname>",
-    "GLOWTAG_NOT_FOUND": "That glow tag is not in your glow taglist",
-    "DELETE_GLOWTAG": "Deleted Glow Tag {{tag}}"
+    "CORRECT_USAGE": "Correct usage: `sdgt <tagname>`",
+    "GLOWTAG_NOT_FOUND": "Could not find that `Glow Tag`",
+    "DELETE_GLOWTAG": "Deleted `Glow Tag` {{tag}}"
 }
