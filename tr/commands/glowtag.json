@@ -1,10 +1,10 @@
 {
-    "GT_DESCRIPTION": "Yakalanan parlama kodunu işaretleyin",
-    "GT_CATEGORY": "Etiketler",
-    "GLOWTAGS_NOT_FOUND": "Etiketleme çabalarınız için teşekkür ederiz ancak parlama kodu bulunamadı",
-    "GLOWS_NOT_UNLOCKED": "{{author}}, henüz hiçbir parlama kodu kilidini açmadınız",
-    "MISSING_GLOWTAG": "{{author}}, parlama kodu sağlamanız gerekiyor",
-    "INVALID_GLOW_CODE": "{{author}}, geçersiz parlama kodu veya hiçbir parlama bulunamadı",
-    "SUCCESSFULL_GLOWTAG": "{{author}}, **{{glow}}** parlama kodunu {{tag}} olarak başarıyla işaretlediniz",
-    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, Bu parlama kodları başarıyla etiketlendi"
+    "GT_DESCRIPTION": "\"Glow\"larına \"Tag\" verir",
+    "GT_CATEGORY": "Tags",
+    "GLOWTAGS_NOT_FOUND": "Henüz herhangi bir `Glow Tag`in yok. `sgtc <isim> <emoji>` komutu ile oluşturabilirsin",
+    "GLOWS_NOT_UNLOCKED": "{{author}} henüz hiç `Glow`unuz yok",
+    "MISSING_GLOWTAG": "{{author}} `Glow Tag` sağlaman gerekiyor",
+    "INVALID_GLOW_CODE": "{{author}} sağlanan `Glow` kodlarından bir veya birden fazlası geçersiz",
+    "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** başarıyla `{{tag}}` olarak etiketlendi",
+    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Tüm `Glow`lar başarıyla etiketlendi"
 }

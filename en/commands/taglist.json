@@ -1,9 +1,9 @@
 {
-    "TL_DESCRIPTION": "Shows list of tags",
+    "TL_DESCRIPTION": "Displays a list with your tags",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "User do not exists.",
-    "NO_TAGS": "{{author}} No tags found",
+    "NO_USER": "{{author}} That user does not exist",
+    "NO_TAGS": "{{author}} Could not find any tags",
     "EMBED_TITLE": "Tag List: {{username}}",
-    "SOFI_FACT": "Sofi fact: Create a tag with stc lock 🔒\nLocked cards can't be burnt, given, traded\nor massburnt",
-    "EMBED_FOOTER": "Tags count: {{count}}"
+    "SOFI_FACT": "Cards that are in \"Tags\" with a padlock emoji \"🔒\" can not be burnt or traded!\nExample: \"stc lock 🔒\"",
+    "EMBED_FOOTER": "Tag count: {{count}}"
 }
