@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "Supprimer le \"Glow Tag\"",
-    "DGT_CATEGORY": "Balises",
-    "CORRECT_USAGE": "Utilisation : sdgt <nom_de_balise>",
-    "GLOWTAG_NOT_FOUND": "Cette balise glow n'est pas dans votre liste de balises glow",
-    "DELETE_GLOWTAG": "Balise Glow {{tag}} supprimée"
+    "DGT_DESCRIPTION": "Supprimer un \"Glow Tag\"",
+    "DGT_CATEGORY": "Tags",
+    "CORRECT_USAGE": "Utilisation correcte: `sdgt <nomdutag>`",
+    "GLOWTAG_NOT_FOUND": "Impossible de trouver ce `Glow Tag`",
+    "DELETE_GLOWTAG": "`Glow Tag` {{tag}} supprimée"
 }
