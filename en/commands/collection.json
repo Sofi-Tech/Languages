@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "All {{taglength}} cards were successfully untagged",
     "ALL_TAG_SUCCESS": "{{author}} All {{taglength}} cards were successfully tagged",
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Appreciate the tagging effort, but no `Tags` were found"
+    "NO_TAG_FOUND": "Appreciate the tagging effort, but you don't have any `Tags` yet. You can create `Tags` with the command `stc <name> <emoji>`"
 }
