@@ -21,8 +21,8 @@
     "SORT_HP": "Cana Göre Sırala",
     "SORT_DUPE": "Fazlalık Kartlara Göre Sırala",
     "SHOWING PAGE": "Sayfa {{page}}/{{pages}} gösteriliyor",
-    "ALL_UNTAG_SUCCESS": "Tüm {{taglength}} kartın etiketi başarıyla kaldırıldı",
-    "ALL_TAG_SUCCESS": "{{author}} Tüm {{taglength}} kart başarıyla etiketlendi",
+    "ALL_UNTAG_SUCCESS": "{{taglength}} kartın etiketi başarıyla kaldırıldı",
+    "ALL_TAG_SUCCESS": "{{author}} {{taglength}} kart başarıyla etiketlendi",
     "PLEASE_WAIT": "Lütfen Bekle <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "Henüz herhangi bir `Tag`ın yok. `stc <TagAdı> <Emoji>` komutunu kullanarak oluşturabilirsin"
 }

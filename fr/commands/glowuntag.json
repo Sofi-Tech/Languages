@@ -1,8 +1,8 @@
 {
     "GUT_DESCRIPTION": "Retire les \"Glow Tags\"",
     "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "Vous n'avez pas encore de `Glows`",
+    "NO_GLOWS_FOUND": "{{author}} Vous n'avez pas encore de `Glows`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Les `Glow` codes commencent toujours par **#**",
-    "INVALID_GLOWCODE": "Code de lueur invalide ou lueur introuvable",
-    "GLOW_UNTAG_SUCCESSFULL": "$ {{ glow }} dissimulé avec succès"
+    "INVALID_GLOWCODE": "{{author}} Les `Glow` codes fournis sont invalides",
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} {{glow}} a été untagged avec succès"
 }

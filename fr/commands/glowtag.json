@@ -1,7 +1,7 @@
 {
     "GT_DESCRIPTION": "Tag vos \"Glows\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "Vous n'avez pas encore de `Glow Tags`. Vous pouvez en crée avec la commande `sgtc <nom> <emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Vous n'avez pas encore de `Glow Tags`. Vous pouvez en crée avec la commande `sgtc <TagName> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Vous n'avez pas encore de `Glows`",
     "MISSING_GLOWTAG": "{{author}} Vous devez fournir un `Glow tag`",
     "INVALID_GLOW_CODE": "{{author}} Un ou Plusieurs des `Glow` codes fournis est/sont invalide(s)",

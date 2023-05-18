@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Günlük ödülünüzü almak için `sdaily` komutunu kullanın. Günlük serinizi koruyun ve daha da iyi ödüller kazanın!",
+    "DESCRIPTION": "Günlük ödülünü almak için `sdaily` komutunu kullan. Daha da iyi ödüller kazanmak için seriyi sürdür!",
     "CATEGORY": "Kartlar",
-    "EMBED_AUTHOR": "{{author}}'ın günlük ödülleri",
-    "DAILY_ERROR": "`Daily` ödülünüzü {{timeout}} sonra talep edebilirsiniz\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> Bir `Common Chest` kazanmak için {{count}} `Daily` kaldı",
-    "RARE_CHEST": "<:rarechest:927204672270372874> Bir `Rare Chest` kazanmak için {{count}} `Daily`kaldı",
-    "NOTE": "⚠️Discord ve Sofi personali **ASLA** Aşağıdakileri sizden istemez ;\n- `Şifreniz` veya `Tek-kullanımlık şifre`\n- E-mail değiştirmenizi\n- `Mee6`ve `Dyno` gibi üçüncül parti botlar ile iletişim kurmak\n\nBenzer herhangi şüpheli aktiviteyi {{link}} üzerinden en hızlı şekilde şikayet etmelisiniz ⚠️",
+    "EMBED_AUTHOR": "{{author}}'ın Daily Ödülü",
+    "DAILY_ERROR": "`Daily` ödülünüzü {{timeout}} sonra alabilirsiniz\n",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> Bir `Common Chest` kazanmak için __{{count}}x__ `Daily` kaldı",
+    "RARE_CHEST": "<:rarechest:927204672270372874> Bir `Rare Chest` kazanmak için __{{count}}x__ `Daily`kaldı",
+    "NOTE": "⚠️Discord veya Sofi Personeli şu şeyleri ASLA yapmaz:\n- Senden \"Şifreni\" veya \"Tek-kullanımlık şifrelerini\" istemek\n- E-Mail'ini değiştirmeni önermek\n- \"Mee6\" veya \"Dyno\" gibi üçüncül taraf botlar ile iletişim kurmak\n\nHerhangi bir şüpheli faaliyet derhal {{link}} adresi üzerinden bildirilmelidir.",
     "EMBED_FOOTER": "Seri **[ {{streak}} ]** • {{streakBar}}",
     "DAILY_SUCCESS": "`Daily` ödülünü aldığınız için teşekkür ederiz!",
     "GUILD_BONUS": "Bu komutu en iyi 20 Sofi server inde kullandığınız için `Daily` ödülünüz 1.5x artmıştır!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
