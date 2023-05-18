@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Tag la carte",
-    "TAG_CATEGORY": "Étiquettes",
-    "WRONG_USAGE": "Veuillez fournir un nom de balise.",
-    "NO_TAGS_CREATED": "Merci pour l'effort de balisage, mais aucune balise n'a été trouvée. Créez d'abord une balise en utilisant la commande `stc`.",
-    "TAG_NOT_FOUND": "Vous n'avez aucune balise avec le nom `{{tag}}`",
-    "NO_CARDS_CLAIMED": "Vous n'avez pas encore revendiqué de cartes",
-    "INVALID_CARD_CODE": "{{author}} Code de carte invalide ou aucune carte trouvée",
+    "TAG_DESCRIPTION": "\"Tags\" vos cartes",
+    "TAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Veuillez fournir un nom de tag",
+    "NO_TAGS_CREATED": "{{author}} Vous n'avez encore aucun `Tags`. Vous pouvez les crées avec la commande `stc <TagName> <Emoji>`",
+    "TAG_NOT_FOUND": "Vous n'avez aucun `Tag` avec le nom `{{tag}}`",
+    "NO_CARDS_CLAIMED": "{{author}} Vous n'avez aucunes cartes a `Tag`",
+    "INVALID_CARD_CODE": "{{author}} Le code de carte que vous avez fourni est invalide",
     "SUCCESSFUL_TAG": "{{author}} | La carte {{card}} a été marquée avec succès comme `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Ces cartes ont été marquées avec succès"
 }

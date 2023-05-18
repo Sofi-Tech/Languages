@@ -4,8 +4,8 @@
     "WRONG_USAGE": "{{author}} Please provide a tag name",
     "NO_TAGS_CREATED": "{{author}} You don't have any `Tags` yet. You can create them with the command `stc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} You don't have any `Tag` with the name `{{tag}}`",
-    "NO_CARDS_CLAIMED": "{{author}} You don't have any cards to tag",
-    "INVALID_CARD_CODE": "{{author}} Invalid Card Code or No card Found",
-    "SUCCESSFUL_TAG": "{{author}} | Successfully tagged {{card}} as `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Those cards were tagged successfully"
+    "NO_CARDS_CLAIMED": "{{author}} You don't have any cards to `Tag`",
+    "INVALID_CARD_CODE": "{{author}} The card code you provided is invalid",
+    "SUCCESSFUL_TAG": "{{author}} Successfully tagged **{{card}}** as `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} All cards were successfully `Tagged`"
 }

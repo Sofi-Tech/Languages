@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Etiquetar la tarjeta",
+    "TAG_DESCRIPTION": "\"Etiqueta\" tus cartas",
     "TAG_CATEGORY": "Etiquetas",
-    "WRONG_USAGE": "Proporcione un nombre de etiqueta válido.",
-    "NO_TAGS_CREATED": "Apreciamos el esfuerzo de etiquetado, pero no se encontraron etiquetas. Primero cree una etiqueta usando el comando `stc`.",
-    "TAG_NOT_FOUND": "No tiene ninguna etiqueta con el nombre `{{tag}}`",
-    "NO_CARDS_CLAIMED": "Todavía no ha reclamado ninguna tarjeta",
-    "INVALID_CARD_CODE": "{{author}} Código de tarjeta inválido o no se encontró ninguna tarjeta",
-    "SUCCESSFUL_TAG": "{{author}} | {{card}} se etiquetó correctamente como `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Esas tarjetas se etiquetaron correctamente"
+    "WRONG_USAGE": "{{author}} Por favor proporciona un nombre de etiqueta",
+    "NO_TAGS_CREATED": "{{author}} No tienes ninguna `Etiqueta` todavía. Puedes crearlas con el comando`stc <NombreDeLaEtiqueta> <Emoticono>`",
+    "TAG_NOT_FOUND": "{{author}} No tienes ninguna `Etiqueta` con el nombre `{{tag}}`",
+    "NO_CARDS_CLAIMED": "{{author}} No tienes ninguna carta para `Etiquetar`",
+    "INVALID_CARD_CODE": "{{author}} El código de tarjeta que has proporcionado no es valido",
+    "SUCCESSFUL_TAG": "{{author}} **{{card}}** etiquetada con éxito como `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas las cartas han sido `Etiquetadas` con éxito"
 }

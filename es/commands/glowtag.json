@@ -5,6 +5,6 @@
     "GLOWS_NOT_UNLOCKED": "{{author}} No tienes ningún `Glow` todavía",
     "MISSING_GLOWTAG": "{{author}} Tienes que proporcionar una `Etiqueta de Glow`",
     "INVALID_GLOW_CODE": "{{author}} Uno o más códigos de `Glow` proporcionados son inválidos",
-    "SUCCESSFULL_GLOWTAG": "{{author}}, se etiquetó con éxito **{{glow}}** como {{tag}}",
+    "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** ha sido etiquetado correctamente como `{{tag}}`",
     "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Todos los `Glows` han sido correctamente etiquetados"
 }
