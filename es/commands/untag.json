@@ -1,6 +1,6 @@
 {
-    "UT_DESCRIPTION": "Elimina las \"Etiquetas\" de tus cartas",
-    "UT_CATEGORY": "Etiquetas",
+    "UT_DESCRIPTION": "Elimina los \"Tags\" de tus cartas",
+    "UT_CATEGORY": "Tags",
     "INVALID_CODE": "No tienes ninguna carta en tu inventario",
     "UNTAG_SUCCESSFULL": "**{{cardName}}** ha sido desetiquetada con éxito",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
