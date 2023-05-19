@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "Eliminar etiquetas de las cartas",
+    "UT_DESCRIPTION": "Elimina las \"Etiquetas\" de tus cartas",
     "UT_CATEGORY": "Etiquetas",
-    "INVALID_CODE": "Código de carta no válido o no se encontró ninguna carta",
-    "UNTAG_SUCCESSFULL": "Se eliminó la etiqueta con éxito de {{cardName}}",
-    "MULTIPLE_UNTAG": "Se eliminaron etiquetas de {{validCards}}{{invalidCards}}"
+    "INVALID_CODE": "No tienes ninguna carta en tu inventario",
+    "UNTAG_SUCCESSFULL": "**{{cardName}}** ha sido desetiquetada con éxito",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }
