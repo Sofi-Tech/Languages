@@ -8,10 +8,10 @@
     "ALBUM_NOT_FOUND": "Nessun `Album` trovato per {{username}}",
     "NO_ALBUMS": "{{member}} non ha alcun `Albums` al momento\nUsa il comando `sca` per creare un `Album`",
     "ALBUM_NAME_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun `Album` con il nome `{{albumName}}`",
-    "NO_PAGES": "{{author}} Quell'album non ha pagine",
+    "NO_PAGES": "{{author}} Quella `Album` non ha pagine",
     "MAX_PAGES_ERROR": "{{author}} Il numero di pagina deve essere compreso tra 0 e {{maxPages}}",
     "PROCESSING": "Elaborazione <a:_:876610443148406794>",
-    "MISSING_CARDS": "Nella pagina dell'album mancano queste carte citate:\n{{lista delle carte}}",
+    "MISSING_CARDS": "In questa pagina `Album` mancano le seguenti carte:\n{{lista delle carte}}",
     "CARDS_LAYOUT_ERROR": "Prova a impostare nuovamente le carte e il layout per visualizzarlo\nAlbum: `{{albumName}}` Pagina: `{{pageNumber}}`",
     "PROFILE_OWNED": "Profilo di proprietà di {{memberId}}"
 }
