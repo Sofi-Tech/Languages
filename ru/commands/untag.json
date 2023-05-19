@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "Снять метку с карт",
+    "UT_DESCRIPTION": "Удаляет «теги» с ваших карт",
     "UT_CATEGORY": "Метки",
-    "INVALID_CODE": "Недопустимый код карты или карта не найдена",
-    "UNTAG_SUCCESSFULL": "Карта {{cardName}} успешно снята с метки",
-    "MULTIPLE_UNTAG": "Сняты метки с {{validCards}}{{invalidCards}}"
+    "INVALID_CODE": "У вас нет карт в инвентаре",
+    "UNTAG_SUCCESSFULL": "**{{cardName}}** была успешно удалена",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }
