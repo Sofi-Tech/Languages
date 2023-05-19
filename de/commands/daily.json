@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Benutze den Befehl `sdaily` um deine tägliche Belohnung zu erhalten, je höher deinen Streak ist, desto besser werden deine Belohnungen!",
+    "DESCRIPTION": "Benutze den Befehl \"sdaily\" um deine tägliche Belohnung zu erhalten. Je höher deinen Streak ist, desto besser werden deine Belohnungen!",
     "CATEGORY": "Karten",
     "EMBED_AUTHOR": "{{author}}'s Tägliche Belohnung",
-    "DAILY_ERROR": "Du kannst deine in `Daily` {{timeout}} erhalten\n",
+    "DAILY_ERROR": "Du kannst deinen `Daily`in {{timeout}} erhalten\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily`verbleiben, um eine `Common Chest` zu erhalten",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` verbleiben, um eine `Rare Chest` zu erhalten.",
-    "NOTE": "⚠️ Sowohl Discord-Mitarbeiter, als auch Sofi Personal, werden folgende Dinge **__niemals__** tun:\n- Dich nich deinem `Passwort` oder `One-Time-Passwort` fragen\n- Dir raten, deine E-Mail Adresse zu ändern\n- Dritt-Anbieter Methoden benutzen um mit dir in Kontakt zu, namentlich `Mee6`oder `Dyno`\n\nVerdächtige Aktivitäten die der oben genannten Liste ähneln sollten schnellstmöglich mit diesem Link gemeldet werden! {{link}} ⚠️",
+    "NOTE": "⚠️ Sowohl Discord-Mitarbeiter, als auch Sofi Personal, werden folgende Dinge **__niemals__** tun:\n- Dich nich deinem `Passwort` oder `One-Time-Passwort` fragen\n- Dir raten, deine E-Mail Adresse zu ändern\n- Dritt-Anbieter Methoden wie z.b. `Mee6`oder `Dyno` benutzen um mit dir zu kommonizieren\n\nVerdächtige Aktivitäten die der oben genannten Liste ähneln sollten schnellstmöglich mit diesem Link gemeldet werden! {{link}} ⚠️",
     "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Vielen Dank, dass du deine `Daily` eingefordert hast!",
+    "DAILY_SUCCESS": "Vielen Dank, dass du deinen `Daily` eingefordert hast!",
     "GUILD_BONUS": "Da du diesen Befehl auf einem der Top-20 Sofi Server benutzt hast, wird deine `Daily` Belohnung um x1.5 erhöht!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }
