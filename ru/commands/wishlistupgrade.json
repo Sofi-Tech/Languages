@@ -2,7 +2,7 @@
     "DESCRIPTION": "Увеличивает емкость вашего списка желаний",
     "CATEGORY": "Список желаний",
     "ALREADY_MAXED": "> {{author}} ваш список желаний уже полностью заполнен!",
-    "EMBED_DESCRIPTION": "Вы хотели бы купить дополнительные {{count}} слотов за {{amount}} {{currency}}?",
+    "EMBED_DESCRIPTION": "Хотите купить {{count}} дополнительных слотов за {{amount}} {{currency}}?",
     "EMBED_PAY_FIELD_NAME": "Вы платите:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Вы получаете:",

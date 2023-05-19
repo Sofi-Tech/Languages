@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "Удалить метку",
+    "TD_DESCRIPTION": "Удаляет тег",
     "TD_CATEGORY": "Метки",
-    "WRONG_USAGE": "Использование: `sdt <имя метки>`",
-    "TAG_NOT_FOUND": "Эта метка не находится в вашем списке меток",
-    "SUCCESSFUL_DELETE_TAG": "Успешное удаление метки {{tag}}"
+    "WRONG_USAGE": "{{author}} Правильное использование: `sdt <TagName>`",
+    "TAG_NOT_FOUND": "{{author}} У вас нет тега с таким названием",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} Удалил тег \"{{tag}}\""
 }

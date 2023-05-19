@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "Eliminar la etiqueta",
+    "TD_DESCRIPTION": "Elimina una etiqueta",
     "TD_CATEGORY": "Etiquetas",
-    "WRONG_USAGE": "Uso: `sdt <nombredelaetiqueta>`",
-    "TAG_NOT_FOUND": "Esa etiqueta no se encuentra en tu lista de etiquetas",
-    "SUCCESSFUL_DELETE_TAG": "Etiqueta eliminada {{tag}}"
+    "WRONG_USAGE": "{{author}} Uso correcto: `sdt <NombreDeLaEtiqueta>`",
+    "TAG_NOT_FOUND": "{{author}} No tienes ninguna etiqueta con ese nombre",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} Eliminaste la `Etiqueta` \"{{tag}}\""
 }

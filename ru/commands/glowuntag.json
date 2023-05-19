@@ -1,8 +1,8 @@
 {
-    "GUT_DESCRIPTION": "Снять метку свечения",
-    "GUT_CATEGORY": "Метки",
-    "NO_GLOWS_FOUND": "Вы еще не разблокировали ни одного свечения",
-    "WRONG_GLOWCODE_FORMAT": "Код свечения начинается с #",
-    "INVALID_GLOWCODE": "Некорректный код свечения или свечение не найдено",
-    "GLOW_UNTAG_SUCCESSFULL": "Метка ${{glow}} успешно снята"
+    "GUT_DESCRIPTION": "Снять \"Glow Tags\"",
+    "GUT_CATEGORY": "Tags",
+    "NO_GLOWS_FOUND": "{{author}} У вас на данный момент нет никаких свечений",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
+    "INVALID_GLOWCODE": "{{author}} Предоставленные коды `Glow` являются недействительными",
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Успешно удален тег у {{glow}}"
 }

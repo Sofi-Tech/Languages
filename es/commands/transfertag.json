@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "Transferir tarjetas de una etiqueta a otra",
+    "TT_DESCRIPTION": "Transfiere cartas de una etiqueta a otra",
     "TT_CATEGORY": "Etiquetas",
-    "WRONG_USAGE": "Uso correcto: `strt <nombreDeEtiquetaOrigen> <nombreDeEtiquetaDestino>`",
-    "TAG_NOT_FOUND": "No se puede encontrar una etiqueta con el nombre: `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFULL": "Se transfirieron todas las tarjetas de `{{fromTag}}` a `${toTag}`"
+    "WRONG_USAGE": "{{author}} Uso correcto: `strt <DesdeEtiquetaAntigua> <AEtiqutaNueva>`",
+    "TAG_NOT_FOUND": "No se ha podido encontrar una `Etiqueta` con el nombre: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Todas las cartas de la `Etiqueta` {{fromTag}} han sido transferidas con éxito a `{{toTag}}` transferidas todas las tarjetas de `{{fromTag}}` a `${toTag}`"
 }

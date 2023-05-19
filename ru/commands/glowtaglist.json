@@ -1,7 +1,7 @@
 {
-    "GTL_DESCRIPTION": "Показывает список тегов",
-    "GTL_CATEGORY": "Теги",
-    "NO_TAGS": "Теги не найдены",
+    "GTL_DESCRIPTION": "Отображает список ваших \"Glow Tags\"",
+    "GTL_CATEGORY": "Tags",
+    "NO_TAGS": "{{author}} Не удалось найти ни одного `Glow Tags`",
     "GLOWS": "Свечения",
     "EMBED_TITLE": "Список светящихся тегов"
 }

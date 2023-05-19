@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "Создать тег Glow",
-    "GTC_CATEGORY": "Теги",
-    "CORRECT_USAGE": "Использование: `sgtc <название тега> <эмодзи>`",
-    "INVALID_EMOJI": "Это не является допустимым эмодзи",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} **Тег Glow с таким названием уже существует**",
-    "CREATED_GLOWTAG": "{{author}} **Создан тег Glow с названием:** `{{tag}}` | {{emoji}}"
+    "GTC_DESCRIPTION": "Создает \"Glow Tag\"",
+    "GTC_CATEGORY": "Tags",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `sgtc <Имя_Тега> <Эмодзи>`",
+    "INVALID_EMOJI": "{{author}} Этот эмодзи недействителен",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} `Glow Tag` с таким именем уже существует",
+    "CREATED_GLOWTAG": "{{author}} Создан `Glow Tag` с названием: `{{tag}}` | {{emoji}}"
 }

@@ -4,5 +4,5 @@
     "CORRECT_USAGE": "{{author}} Uso correcto: `sgtc <NombreDeLaEtiquta> <Emoticono>`",
     "INVALID_EMOJI": "{{author}} Ese emoticono no es válido",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Ya existe una `Etiqueta de Glow` con ese nombre",
-    "CREATED_GLOWTAG": "{{author}} Creó una `Etiqueta de Glow` con el nombre:** `{{tag}}` | {{emoji}}"
+    "CREATED_GLOWTAG": "{{author}} Creó una `Etiqueta de Glow` con el nombre: `{{tag}}` | {{emoji}}"
 }

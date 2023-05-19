@@ -1,9 +1,9 @@
 {
-    "TL_DESCRIPTION": "Muestra una lista de etiquetas",
+    "TL_DESCRIPTION": "Muestra una lista con tus etiquetas",
     "TL_CATEGORY": "Etiquetas",
-    "NO_USER": "El usuario no existe.",
-    "NO_TAGS": "{{author}} No se encontraron etiquetas",
+    "NO_USER": "{{author}} Ese usuario no existe",
+    "NO_TAGS": "{{author}} No se ha podido encontrar ninguna etiquetas",
     "EMBED_TITLE": "Lista de etiquetas: {{username}}",
-    "SOFI_FACT": "Dato de Sofi: Crea una etiqueta con stc lock 🔒\nLas tarjetas bloqueadas no se pueden quemar, dar, intercambiar o quemar en masa",
+    "SOFI_FACT": "Las cartas que están en \"Etiquetas\" con un emoji de candado \"🔒\" ¡no se pueden quemar ni intercambiar!\nEjemplo: \"stc lock 🔒\"",
     "EMBED_FOOTER": "Cantidad de etiquetas: {{count}}"
 }

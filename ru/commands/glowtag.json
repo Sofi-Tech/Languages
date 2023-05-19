@@ -1,10 +1,10 @@
 {
-    "GT_DESCRIPTION": "Отметьте разблокированный свет",
-    "GT_CATEGORY": "Теги",
-    "GLOWTAGS_NOT_FOUND": "Ценю вашу работу по тегированию, но тегов не найдено",
-    "GLOWS_NOT_UNLOCKED": "{{author}}, вы еще не разблокировали ни одного свечения",
-    "MISSING_GLOWTAG": "{{author}}, предоставьте тег свечения",
-    "INVALID_GLOW_CODE": "{{author}}, недействительный код свечения или свечение не найдено",
-    "SUCCESSFULL_GLOWTAG": "{{author}}, свечение **{{glow}}** успешно отмечено как {{tag}}",
-    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, эти свечения успешно отмечены"
+    "GT_DESCRIPTION": "Отмечает ваши \"Glows\" тегами",
+    "GT_CATEGORY": "Tags",
+    "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одного `Glow Tags`. Вы можете создать их с помощью команды `sgtc <Имя> <Эмодзи>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет ни одного `Glows`",
+    "MISSING_GLOWTAG": "{{author}} Вам нужно указать `Glow Tag`",
+    "INVALID_GLOW_CODE": "{{author}} Один или несколько предоставленных `Glow` кодов недействительны",
+    "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечен тегом `{{tag}}`",
+    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены тегами"
 }

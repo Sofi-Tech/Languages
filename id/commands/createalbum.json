@@ -4,7 +4,7 @@
     "CREATE_ALBUM_SLASH_DESC": "Masukkan nama album anda",
     "PROVIDE_ALBUM_NAME": "{{author}} Berikan nama album",
     "ALBUM_NAME_ERROR": "Nama album anda harus alfanumerik dan tidak boleh mengandung:\n- Karakter khusus\n- Spasi\n- Huruf besar",
-    "ALBUM_NAME_LONG": "Nama album terlalu panjang. Coba kurangi menjadi kurang dari 20 karakter",
+    "ALBUM_NAME_LONG": "{{author}} Nama album dapat terdiri dari maksimal 20 karakter",
     "MAX_ALBUMS": "{{author}} Anda hanya dapat memiliki maksimal 10 album",
     "ALBUM_NAME_EXISTS": "{{author}} Album dengan nama `{{name}}` sudah ada",
     "ALBUM_CREATE_CONFIRMATION": "Anda akan membuat album dengan nama `{{albumName}}`\nMembuat album gratis, namun anda harus membeli halaman dengan`Silver`\nGunakan `salbumconfig `atau` sacf` untuk mengkonfigurasi album",

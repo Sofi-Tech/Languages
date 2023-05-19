@@ -5,7 +5,7 @@
     "SLASH_DESC3": "Введите код `Background`, который вы хотите купить. [РАБОТАЕТ ТОЛЬКО, ЕСЛИ ЭЛЕМЕНТ ВЫБРАН КАК ФОН]",
     "NO_ITEM": "Пожалуйста, введите предмет для покупки",
     "TRADEPASS_INFO": "Вы можете обменять **__1x__** `Bump` на 4-часовой `Trade Pass` или накопить **__20x__** `Bumps`, чтобы купить 30-дневный `Trade Pass`",
-    "CORRECT_USAGE": "{{USER}} Правильное использование: `{{prefix}}buy bg <BackgroundID> <amount>`",
+    "CORRECT_USAGE": "{{USER}} Правильное использование: `{{prefix}}buy bg <ID_Фона> <Количество>`",
     "INVALID_BG_AMOUNT": "Не вводите отрицательные значения",
     "INVALID_BG_ID": "Пожалуйста, предоставьте действительный `Background`-ID",
     "NO_ITEM_PROVIDED": "Предмет не указан",
