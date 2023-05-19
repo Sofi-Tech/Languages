@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Puedes mostrar tu colección con el comando \"sc\"\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por \"Deseos\", \"Gen\" o Nombre de \"Etiqueta\"\n- Usa el comando \"sc t:ut\" para mostrar todas las cartas sin etiquetar de tu colección",
+    "DESCRIPTION": "Puedes mostrar tu colección con el comando \"sc\"\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por \"Deseos\", \"Gen\" o Nombre de \"Tag\"\n- Usa el comando \"sc t:ut\" para mostrar todas las cartas sin tag de tu colección",
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Ingresa los filtros que deseas aplicar a la colección",
@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Todas las {{taglength}} cartas se han desetiquetado exitosamente",
     "ALL_TAG_SUCCESS": "{{author}} Todas las {{taglength}} cartas han sido etiquetadas exitosamente",
     "PLEASE_WAIT": "Por favor espera <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "No tienes ninguna `Etiqueta` todavía. Puedes crearlas con el comando `stc <NombreDelTag> <Emoticono>`"
+    "NO_TAG_FOUND": "No tienes ningún `Tag` todavía. Puedes crearlos con el comando `stc <NombreDelTag> <Emoticono>`"
 }

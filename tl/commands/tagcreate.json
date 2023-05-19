@@ -1,10 +1,10 @@
 {
-    "TC_DESCRIPTION": "Lumikha ng isang tag",
+    "TC_DESCRIPTION": "Gumawa ng \"Tag\"",
     "TC_CATEGORY": "Mga Tag",
-    "WRONG_USAGE": "Gamit: `stc <pangalang tag> <emoji>`",
-    "INVALID_EMOJI": "{{emoji}} ay hindi isang wastong emoji",
-    "INVALID_TAGNAME_FORMAT": "Ang pangalang tag ay dapat na alphanumeric, hindi dapat naglalaman ng mga espesyal na karakter o puwang o isang nakareserbang salita.",
-    "LONG_TAGNAME": "Masyadong mahaba ang pangalang tag. Subukan na hindi hihigit sa 20 na mga karakter",
-    "TAGNAME_EXISTS": "{{author}} **Ang tag na may pangalang `{{tag}}` ay mayroon na",
-    "TAG_CREATED": "Nalikha ang Tag na may pangalang: `{{tag}}` | {{emoji}}"
+    "WRONG_USAGE": "{{author}} Tamang pag-gamit: `stc <Pangalan ng Tag> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} \"{{emoji}}\" ay hindi isang wastong emoji!",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalang ng iyong `Tag` ay dapat naka alphanumeric at hindi dapat paglagyan ng espesyal karakters, spaces o kabastusan",
+    "LONG_TAGNAME": "{{author}} Ang pangalan ng `Tag`ay nag lalaman lamang ng pinakamataas na 20 karakters",
+    "TAGNAME_EXISTS": "{{author}} Meron ka nang `Tag` na may pangalang `{{tag}}`",
+    "TAG_CREATED": "{{author}} Nalikha ang `Tag`na may pangalang: `{{tag}}` | {{emoji}}"
 }

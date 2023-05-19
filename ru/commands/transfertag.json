@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "Переносит карты из одной метки в другую",
+    "TT_DESCRIPTION": "Переносит карты из одного «Тэга» в другую",
     "TT_CATEGORY": "Теги",
     "WRONG_USAGE": "{{author}} Правильное использование: `strt <fromOldTag> <toNewTag>`",
     "TAG_NOT_FOUND": "Не удалось найти `тэг` с именем: `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFULL": "Все карточки из `тэга` {{fromTag}} успешно перенесены в `{{toTag}}` все карточки из `{{fromTag}}` перенесены в `${toTag}`"
+    "TRANSFER_TAG_SUCCESSFULL": "Все карточки из `Тэга` {{fromTag}} успешно перенесены в `{{toTag}}`"
 }

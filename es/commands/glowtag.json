@@ -1,9 +1,9 @@
 {
     "GT_DESCRIPTION": "Etiqueta tus \"Glows\"",
-    "GT_CATEGORY": "Etiquetas",
-    "GLOWTAGS_NOT_FOUND": "{{author}} No tienes ninguna `Etiqueta de Glow` todavía. Puedes crearlas con el comando `sgtc <Nombre> <Emoticono>`",
+    "GT_CATEGORY": "Tags",
+    "GLOWTAGS_NOT_FOUND": "{{author}} No tienes ningún `Tag de Glows` todavía. Puedes crearlos con el comando `sgtc <Nombre> <Emoticono>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} No tienes ningún `Glow` todavía",
-    "MISSING_GLOWTAG": "{{author}} Tienes que proporcionar una `Etiqueta de Glow`",
+    "MISSING_GLOWTAG": "{{author}} Tienes que proporcionar un `Tag de Glows`",
     "INVALID_GLOW_CODE": "{{author}} Uno o más códigos de `Glow` proporcionados son inválidos",
     "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** ha sido etiquetado correctamente como `{{tag}}`",
     "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Todos los `Glows` han sido correctamente etiquetados"

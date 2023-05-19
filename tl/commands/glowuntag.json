@@ -1,8 +1,8 @@
 {
-    "GUT_DESCRIPTION": "Untag ang Glow",
+    "GUT_DESCRIPTION": "Tinatanggal ang iyong \"Glow Tags\"",
     "GUT_CATEGORY": "Mga Tag",
-    "NO_GLOWS_FOUND": "Wala kang nabuksan na anumang mga glow pa",
-    "WRONG_GLOWCODE_FORMAT": "Ang glowcode ay nagsisimula sa #",
-    "INVALID_GLOWCODE": "Hindi wastong Glow Code o walang nahanap na glow",
-    "GLOW_UNTAG_SUCCESSFULL": "Matagumpay na nailaglag ang ${{glow}}"
+    "NO_GLOWS_FOUND": "{{author}} Wala ka pang kahit anong glows",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang code ng`Glow`ay laging nag sisimula sa **#**",
+    "INVALID_GLOWCODE": "{{author}} Ang ibinigay na `Glow` codes ay hindi wasto",
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Matagumpay na naialis ang tag ng {{glow}}"
 }

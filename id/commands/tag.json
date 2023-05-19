@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Tag kartu",
+    "TAG_DESCRIPTION": "Memasang \"Tags\" pada kartumu",
     "TAG_CATEGORY": "Tag",
-    "WRONG_USAGE": "Silakan berikan nama tag.",
-    "NO_TAGS_CREATED": "Terima kasih atas usahanya menambahkan tag tetapi tag tidak ditemukan. Pertama-tama buatlah tag dengan menggunakan perintah `stc`.",
-    "TAG_NOT_FOUND": "Anda tidak memiliki tag dengan nama `{{tag}}`",
-    "NO_CARDS_CLAIMED": "Anda belum mengklaim kartu apa pun",
-    "INVALID_CARD_CODE": "{{author}} Kode Kartu Tidak Valid atau Tidak Ada Kartu yang Ditemukan",
-    "SUCCESSFUL_TAG": "{{pengguna}} | Berhasil memberi tag pada {{kartu}} sebagai `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{pengguna}} Kartu-kartu tersebut berhasil ditag"
+    "WRONG_USAGE": "{{author}} Nama tag belum disertakan",
+    "NO_TAGS_CREATED": "{{author}} Anda belum memiliki `Tags`. Anda bisa membuatnya dengan `stc <TagName> <Emoji>`",
+    "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki `Tag` dengan nama `{{tag}}`",
+    "NO_CARDS_CLAIMED": "{{author}} Anda tidak memiliki kartu apapun untuk di `Tag`",
+    "INVALID_CARD_CODE": "{{author}} Kode kartu tidak valid",
+    "SUCCESSFUL_TAG": "{{author}} | Berhasil memberi tag pada **{{card}}** sebagai `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Kartu-kartu tersebut berhasil di `Tag`"
 }

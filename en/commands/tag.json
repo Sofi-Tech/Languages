@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "\"Tags\" your cards",
+    "TAG_DESCRIPTION": "Puts your \"Tags\" on your cards",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Please provide a tag name",
     "NO_TAGS_CREATED": "{{author}} You don't have any `Tags` yet. You can create them with the command `stc <TagName> <Emoji>`",

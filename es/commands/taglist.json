@@ -1,9 +1,9 @@
 {
-    "TL_DESCRIPTION": "Muestra una lista con tus etiquetas",
-    "TL_CATEGORY": "Etiquetas",
+    "TL_DESCRIPTION": "Muestra una lista con tus \"Tags\"",
+    "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Ese usuario no existe",
     "NO_TAGS": "{{author}} No se ha podido encontrar ninguna etiquetas",
     "EMBED_TITLE": "Lista de etiquetas: {{username}}",
-    "SOFI_FACT": "Las cartas que están en \"Etiquetas\" con un emoji de candado \"🔒\" ¡no se pueden quemar ni intercambiar!\nEjemplo: \"stc lock 🔒\"",
+    "SOFI_FACT": "Las cartas que están en \"Tags\" con un emoji de candado \"🔒\" ¡no se pueden quemar ni intercambiar!\nEjemplo: \"stc lock 🔒\"",
     "EMBED_FOOTER": "Cantidad de etiquetas: {{count}}"
 }

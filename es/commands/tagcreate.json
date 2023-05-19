@@ -1,10 +1,10 @@
 {
-    "TC_DESCRIPTION": "Crea una `Etiqueta`",
-    "TC_CATEGORY": "Etiquetas",
-    "WRONG_USAGE": "{{author}} Uso correcto: `stc <NombreDeLaEtiqueta> <Emoticono>`",
+    "TC_DESCRIPTION": "Crea un `Tag`",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Uso correcto: `stc <NombreDelTag> <Emoticono>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" no es un emoticono válido!",
-    "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu `Etiqueta` debe ser alfanumérico, y no puede contener caracteres especiales, espacios o blasfemia",
-    "LONG_TAGNAME": "{{author}} Un nombre de `Etiqueta` puede contener un máximo de 20 carateres",
-    "TAGNAME_EXISTS": "{{author}} Ya tienes una `Etiqueta` con el nombre `{{tag}}`",
-    "TAG_CREATED": "{{author}} Creada una `Etiqueta` con el nombre: `{{tag}}` | {{emoji}}"
+    "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu `Tag` debe ser alfanumérico, y no puede contener caracteres especiales, espacios o blasfemia",
+    "LONG_TAGNAME": "{{author}} Un nombre de `Tag` puede contener un máximo de 20 carateres",
+    "TAGNAME_EXISTS": "{{author}} Ya tienes un `Tag` con el nombre `{{tag}}`",
+    "TAG_CREATED": "{{author}} Creado un`Tag` con el nombre: `{{tag}}` | {{emoji}}"
 }

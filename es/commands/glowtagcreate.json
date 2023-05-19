@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "Crea una \"Etiqueta de Glow\"",
-    "GTC_CATEGORY": "Etiquetas",
+    "GTC_DESCRIPTION": "Crea un \"Tag de Glows\"",
+    "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Uso correcto: `sgtc <NombreDeLaEtiquta> <Emoticono>`",
     "INVALID_EMOJI": "{{author}} Ese emoticono no es válido",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Ya existe una `Etiqueta de Glow` con ese nombre",
-    "CREATED_GLOWTAG": "{{author}} Creó una `Etiqueta de Glow` con el nombre: `{{tag}}` | {{emoji}}"
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Ya existe un `Tag de Glows` con ese nombre",
+    "CREATED_GLOWTAG": "{{author}} Creó un `Tag de Glows` con el nombre: `{{tag}}` | {{emoji}}"
 }
