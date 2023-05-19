@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "Удаляет \"тег\"",
+    "TD_DESCRIPTION": "Удаляет \"Tag\"",
     "TD_CATEGORY": "Метки",
     "WRONG_USAGE": "{{author}} Правильное использование: `sdt <TagName>`",
-    "TAG_NOT_FOUND": "{{author}} У вас нет тега с таким названием",
+    "TAG_NOT_FOUND": "{{author}} У вас нет tag'а с таким названием",
     "SUCCESSFUL_DELETE_TAG": "{{author}} Удалил тег \"{{tag}}\""
 }

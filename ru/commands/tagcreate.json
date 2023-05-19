@@ -1,10 +1,10 @@
 {
-    "TC_DESCRIPTION": "Создает «тег»",
+    "TC_DESCRIPTION": "Создает \"Tag\"",
     "TC_CATEGORY": "Теги",
     "WRONG_USAGE": "{{author}} Правильное использование: `stc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" не является допустимым эмодзи!",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Имя вашего тега должно быть буквенно-цифровым и не может содержать специальные символы, пробелы или ненормативную лексику",
-    "LONG_TAGNAME": "{{author}} Имя тега может содержать не более 20 символов",
-    "TAGNAME_EXISTS": "{{author}} У вас уже есть `тэг` с именем `{{tag}}`",
-    "TAG_CREATED": "{{author}} Создал `тэг` с именем: `{{tag}}` | {{emoji}}"
+    "INVALID_TAGNAME_FORMAT": "{{author}} Имя вашего `Tag` должно быть буквенно-цифровым и не может содержать специальные символы, пробелы или ненормативную лексику",
+    "LONG_TAGNAME": "{{author}} Имя `Tag` может содержать не более 20 символов",
+    "TAGNAME_EXISTS": "{{author}} У вас уже есть `Tag` с именем `{{tag}}`",
+    "TAG_CREATED": "{{author}} Создал `Tag` с именем: `{{tag}}` | {{emoji}}"
 }

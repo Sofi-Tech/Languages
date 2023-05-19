@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Ставит ваши «Теги» на ваши карты",
-    "TAG_CATEGORY": "Теги",
-    "WRONG_USAGE": "{{author}} Пожалуйста, укажите имя тега",
-    "NO_TAGS_CREATED": "{{author}} У вас пока нет тегов. Вы можете создать их с помощью команды `stc <TagName> <Emoji>`",
+    "TAG_DESCRIPTION": "Ставит \"Tags\" на ваши карты",
+    "TAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Пожалуйста, укажите имя tag'а",
+    "NO_TAGS_CREATED": "{{author}} У вас пока нет `Tags`. Вы можете создать их с помощью команды `stc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} У вас нет \"тэга\" с именем `{{tag}}`",
-    "NO_CARDS_CLAIMED": "{{author}} У вас нет карт что бы их отметить",
+    "NO_CARDS_CLAIMED": "{{author}} У вас нет карт, чтобы поставить `Tag`",
     "INVALID_CARD_CODE": "{{author}} Предоставленный вами код карты недействителен",
     "SUCCESSFUL_TAG": "{{author}} успешно пометил **{{card}}** как `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты были успешно помечены"
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты были успешно `Tagged`"
 }
