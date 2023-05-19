@@ -1,0 +1,16 @@
+{
+  "RG_DESCRIPTION": "Recharge the glow to make it usable again",
+  "RG_CATEGORY": "View backgrounds for 3D",
+  "UNLOCK_GLOWS": "{{author}} unlock some glows first",
+  "NO_GLOWCDE": "{{author}} you need to provide glowcode",
+  "INVALID_DC_MOVIES": "Glowcode starts with `#`",
+  "GLOW_NOT_FOUND": "couldn't find that glow in your palette. Is the code correct?",
+  "GLOW_AVAILABLE": "that glow is already available",
+  "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+  "RECHARGE_CONFIRMATION": "You are about to recharge:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCode: `{{ glowCode}}` \nCost: **${cost}** <:recharge_sofi:926846363537387530>",
+  "ARE_YOU_SURE": "Are you sure?",
+  "CANCEL_RECHARGE": "Glow recharge was cancelled",
+  "CANCELLED_RECHARGE": "Cancelled recharge",
+  "NO_MONEY": "You don't have enough recharges. Buy some recharges",
+  "SUCCESSFUL_RECHARGE": "Glow was recharged successfully"
+}
