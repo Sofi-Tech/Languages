@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- Gamitin ang command na ito upang mag-drop ng 3 kard kada 8 minuto.\n- Gamitin ang command na \"sdn\" upang mag-drop ng mga kard na walang mga imahe. Makakatulong ito makapreserba ng mobile data o upang maiwasan ang lag.",
+    "DESCRIPTION": "- Ang command na ito ay mag-drop ng 3 baraha at pwedeng gamitin tuwing 8 minuto.\n- Gamitin ang command na \"sdn\" upang mag-drop ng walang imahe na baraha. Makakatulong ito makapreserba ng mobile data o upang maiwasan ang lag.",
     "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong](https://discord.gg/sofi)",
     "EXTRA_DROP_ALERT": "{{author}} Ikaw ay kasalukuyang gumagamit ng iyong **Extra Drop**. Meron ka pang `{{remaining}}`. na natitira.",
     "ON_CD": "{{author}} Magkakaroon ka ng `Drop` sa loob ng {{dropCd}}",
