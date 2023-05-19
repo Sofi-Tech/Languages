@@ -3,5 +3,5 @@
     "TT_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `strt <fromOldTag> <toNewTag>`",
     "TAG_NOT_FOUND": "Impossible de trouver un `Tag` avec le nom: `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFULL": "Toutes les cartes du `Tag` {{fromTag}} ont été transférées avec succès vers `{{toTag}}` transférant toutes les cartes de `{{fromTag}}` vers `${toTag}`"
+    "TRANSFER_TAG_SUCCESSFULL": "Toutes les cartes du `Tag` {{fromTag}} ont été transférées avec succès vers `{{toTag}}`"
 }
