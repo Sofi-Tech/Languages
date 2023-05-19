@@ -3,5 +3,5 @@
     "TT_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `strt <eskiTag> <yeniTag>`",
     "TAG_NOT_FOUND": "`{{tag}}` ismine sahip bir `Tag` bulunamadı",
-    "TRANSFER_TAG_SUCCESSFULL": "`{{fromTag}}` etiketinden tüm kartlar başarıyla `${toTag}` etiketine aktarıldı"
+    "TRANSFER_TAG_SUCCESSFULL": "{{fromTag}} `Tag`indeki tüm kartlar başarıyla {{toTag}} `Tag`ine aktarıldı"
 }
