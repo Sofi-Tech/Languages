@@ -4,5 +4,5 @@
     "NO_GLOWS_FOUND": "{{author}} Şu anda hiç parlamanız yok",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları her zaman **#** ile başlar",
     "INVALID_GLOWCODE": "{{author}} Sağlanan `Glow` kodları geçersiz",
-    "GLOW_UNTAG_SUCCESSFULL": "${{glow}} etiketi başarıyla kaldırıldı"
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} {{glow}} etiketi başarıyla kaldırıldı"
 }
