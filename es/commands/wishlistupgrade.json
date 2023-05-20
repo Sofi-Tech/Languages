@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Aumenta la capacidad de tu lista de deseos",
     "CATEGORY": "Lista de deseos",
-    "ALREADY_MAXED": "> {{author}} Los espacios de tu lista de deseos ya están al máximo!",
+    "ALREADY_MAXED": "> {{author}} Los espacios de tu lista de deseos ya están al maximo!",
     "EMBED_DESCRIPTION": "¿Quieres comprar {{count}} espacios adicionales por {{amount}} {{currency}}?",
-    "EMBED_PAY_FIELD_NAME": "Precio:",
+    "EMBED_PAY_FIELD_NAME": "A pagar:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Obtienes:",
     "EMBED_GET_FIELD_VALUE": "```{{count}} espacios adicionales en tu lista de deseos```",
@@ -11,5 +11,5 @@
     "EMBED_MAXED_FIELD_VALUE": "```Lista de deseos totalmente desbloqueada (50 Espacios)```",
     "SUCCESS": "ÉXITO",
     "CANCELLED": "CANCELADO",
-    "PAY_ERROR": "`No tienes suficiente saldo, necesitas {{amount}} {{currency}}`"
+    "PAY_ERROR": "`No tienes suficiente, necesitas {{amount}} {{currency}}`"
 }

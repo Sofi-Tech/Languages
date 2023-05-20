@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Compra artículos de la \"shop\"\nUsa el comando \"sshop\" para buscar en el surtido de la shop",
+    "DESCRIPTION": "Compra artículos de la `shop`\nUsa el comando `sshop` para buscar en el surtido de la shop",
     "SLASH_DESC": "Ingresa el nombre de un `Item` que desees comprar",
     "SLASH_DESC2": "Ingresa la cantidad",
     "SLASH_DESC3": "Ingresa el código del background que desea comprar. [FUNCIONA SOLO SI EL ARTÍCULO ESTÁ SELECCIONADO COMO FONDO]",

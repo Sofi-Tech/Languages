@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Puedes mostrar tu colección con el comando \"sc\"\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por \"Deseos\", \"Gen\" o Nombre de \"Tag\"\n- Usa el comando \"sc t:ut\" para mostrar todas las cartas sin tag de tu colección",
+    "DESCRIPTION": "Puedes mostrar tu colección con el comando `sc`\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por `Deseos`, `Gen` o Nombre de `Tag`\n- Usa el comando `sc t:ut` para mostrar todas las cartas sin tag de tu colección",
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Ingresa los filtros que deseas aplicar a la colección",

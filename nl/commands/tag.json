@@ -1,8 +1,8 @@
 {
     "TAG_DESCRIPTION": "Zet uw \"Tags\" op uw kaarten",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Geef een `Tag` naam op.",
-    "NO_TAGS_CREATED": "{{author}} U heeft nog geen `Tags`. U kunt ze aanmaken met het commando `stc <TagName> <Emoji>`.",
+    "WRONG_USAGE": "{{author}} Geef een `Tag` naam op",
+    "NO_TAGS_CREATED": "{{author}} U heeft nog geen `Tags`. U kunt ze aanmaken met het commando `stc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "Je hebt geen tag met de naam `{{tag}}`.",
     "NO_CARDS_CLAIMED": "Je hebt nog geen kaarten geclaimd.",
     "INVALID_CARD_CODE": "{{author}} Ongeldige kaartcode of geen kaart gevonden.",
