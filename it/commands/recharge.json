@@ -1,4 +1,8 @@
 {
     "RG_DESCRIPTION": "Ricarica un \"Glow\" vuoto",
-    "RG_CATEGORY": "Visualizza il \"Background Shop\""
+    "RG_CATEGORY": "Visualizza il \"Background Shop\"",
+    "UNLOCK_GLOWS": "{{author}} Non hai ancora nessun `Glows`",
+    "NO_GLOWCDE": "{{author}} Devi fornire un codice `Glow`",
+    "INVALID_DC_MOVIES": "{{author}} I codici `Glow` iniziano sempre con **#**",
+    "GLOW_NOT_FOUND": "{{author}} Il tuo codice `Glow` fornito non è valido"
 }
