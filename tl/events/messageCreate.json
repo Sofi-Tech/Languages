@@ -19,9 +19,9 @@
     "REGISTER_USER": "{{author}} Gamitin ang command na `{{prefix}}register` at mag-proceed sa site para maverify",
     "USER_COMMAND_QUEUE": "<@{{id}}> kailangan mo munang tapusin ang {{existsFor}} command bago ka makapagpatuloy",
     "AUTHOR_COMMAND_QUEUE": "Tapusin muna ang {{existsFor}} command bago magpatuloy",
-    "SAFE_MODE": "> Ang bot ay nasa safe-mode. {{eta}}. \nTatapusin lang nya ang kanyang paalam ❤",
-    "CATEGORY_DISABLED": "> Ang kategorya ay hindi magagamit. nDahilan: `{{category}}`",
-    "COMMAND_DISABLED": "> Ang command ay hindi magagamit. nDahilan: `{{command}}`",
+    "SAFE_MODE": "> Ang bot ay nasa safe-mode {{eta}}\nSya ay mag-babalik ❤",
+    "CATEGORY_DISABLED": "> Ang kategorya na ito na naka disabled\nDahilan: `{{category}}`",
+    "COMMAND_DISABLED": "> Ang command na ito ay naka disabled\nDahilan: `{{command}}`",
     "NO_PERMISSIONS": "Hindi ako nakakapag execute ng command",
     "SERIES_DROP": "Natapos na ang botohan!"
 }

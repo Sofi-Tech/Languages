@@ -2,8 +2,8 @@
     "TL_DESCRIPTION": "Muestra una lista con tus \"Tags\"",
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Ese usuario no existe",
-    "NO_TAGS": "{{author}} No se ha podido encontrar ninguna etiquetas",
-    "EMBED_TITLE": "Lista de etiquetas: {{username}}",
+    "NO_TAGS": "{{author}} No se ha podido encontrar ningún tag",
+    "EMBED_TITLE": "Lista de tags: {{username}}",
     "SOFI_FACT": "Las cartas que están en \"Tags\" con un emoji de candado \"🔒\" ¡no se pueden quemar ni intercambiar!\nEjemplo: \"stc lock 🔒\"",
-    "EMBED_FOOTER": "Cantidad de etiquetas: {{count}}"
+    "EMBED_FOOTER": "Cantidad de tags: {{count}}"
 }

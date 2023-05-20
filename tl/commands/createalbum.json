@@ -4,13 +4,13 @@
     "CREATE_ALBUM_SLASH_DESC": "Maglagay ng pangalan ng iyong \"Album\"",
     "PROVIDE_ALBUM_NAME": "{{author}} Magbigay ng pangalan ng \"Album\"",
     "ALBUM_NAME_ERROR": "Ang pangalan ng `Album` ay dapat naka alphanumeric, at hindi dapat nag lalaman ng mga:\n- Special character\n- Puwang\n- Malalaking titik",
-    "ALBUM_NAME_LONG": "Masyadong mahaba ang pangalan ng album. Subukang gumawa ng pangalan na hindi lalagpas sa 20 characters",
-    "MAX_ALBUMS": "{{author}} Ang isang player ay maaring magkaroon lamang ng 10 na album",
-    "ALBUM_NAME_EXISTS": "{{author}} Mayroon ka ng Album na nagngangalang`{{name}}`",
-    "ALBUM_CREATE_CONFIRMATION": "Ikaw ay nagbabalak gumawa ng isang album na may pangalang {{albumName}}\nAng paglikha ng mga album ay libre ngunit ang mga pahina ay nagkakahalaga ng `Silver`\nGamitin ang `salbumconfig/sacf` upang maayos mo ang iyong mga album",
+    "ALBUM_NAME_LONG": "{{author}} Ang pangalan ng isang `Album`ay may 20 na karacter lamang",
+    "MAX_ALBUMS": "{{author}} Ang isang player ay maaring lamang magkaroon ng 10 na `Album`",
+    "ALBUM_NAME_EXISTS": "{{author}} Mayroon ka nang `Album` na nagngangalan na`{{name}}`",
+    "ALBUM_CREATE_CONFIRMATION": "Ikaw ay nagbabalak gumawa ng isang `Album`na may pangalang {{albumName}}\nAng paglikha ng mga `Album`ay libre ngunit ang mga pahina ay binebenta gamit ang`Silver`\nGamitin ang `salbumconfig/sacf` upang maayos mo ang iyong mga album",
     "BUTTON_ACCEPT": "Kumpirmahin",
     "BUTTON_DENY": "Tanggihan",
     "NO_AMOUNT": "Wala kang sapat na `Wists` para makagawa ng album",
-    "ALBUM_SUCCESS": "Matagumpay na nalikha ang album",
+    "ALBUM_SUCCESS": "Ang `Album`ay tagumpay na nagawa",
     "CANCEL": "Nakansela ang proseso"
 }
