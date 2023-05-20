@@ -1,7 +1,7 @@
 {
-    "CREATE_ALBUM_DESCRIPTION": "Crea la base para un \"Álbum\"",
-    "CREATE_ALBUM_CATEGORY": "Álbum",
-    "CREATE_ALBUM_SLASH_DESC": "Ingresa el nombre del \"Álbum\"",
+    "CREATE_ALBUM_DESCRIPTION": "Crea la base para un \"Album\"",
+    "CREATE_ALBUM_CATEGORY": "Album",
+    "CREATE_ALBUM_SLASH_DESC": "Ingresa el nombre del \"Album\"",
     "PROVIDE_ALBUM_NAME": "{{author}} Proporciona un nombre de `Álbum`",
     "ALBUM_NAME_ERROR": "El nombre de tu `Álbum` tienen que ser caracteres alfanuméricos y no pueden contener lo siguiente:\n- Caracteres especiales\n- Espacios\n- Letras mayúsculas",
     "ALBUM_NAME_LONG": "{{author}} El nombre de un `Álbum` puede contener máximo 20 carácteres",
