@@ -2,7 +2,7 @@
     "DESCRIPTION": "Toont de inventaris van de gebruiker",
     "SLASH_DESC": "Selecteer een gebruiker om hun inventaris te zien",
     "SLASH_DESC2": "Voer het item in waarnaar u wilt zoeken",
-    "NOT_REGISTER": "{{author}} | Gebruiker is niet geregistreerd",
+    "NOT_REGISTER": "{{author}} Deze gebruiker is niet geregistreerd!",
     "NO_USER_FOUND": "{{author}} | Gebruiker niet gevonden",
     "INV_PRIVATE": "De inventaris van die gebruiker is privé",
     "ITEMS": "Items",

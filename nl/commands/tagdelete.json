@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "Verwijdert een \"Tag\"",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "Gebruik: `sdt <tagname>`",
+    "WRONG_USAGE": "Correct gebruik: `sdt <TagName>`",
     "TAG_NOT_FOUND": "Die tag staat niet op je taglijst",
     "SUCCESSFUL_DELETE_TAG": "Tag {{tag}} verwijderd"
 }
