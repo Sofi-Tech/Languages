@@ -7,10 +7,10 @@
     "ALBUM_NAME_LONG": "{{author}} Название `Album` может содержать не более 20 символов",
     "MAX_ALBUMS": "{{author}} У вас может быть не более 10 `Albums`",
     "ALBUM_NAME_EXISTS": "{{author}} `Альбом` с названием `{{name}}` уже существует",
-    "ALBUM_CREATE_CONFIRMATION": "Вы собираетесь создать `Альбом` с названием `{{albumName}}`\nСоздание «Альбомов» бесплатно, но вы должны приобрести страницы с «Серебро».\nИспользуйте `salbumconfig` или `sacf` для настройки альбомов",
+    "ALBUM_CREATE_CONFIRMATION": "Вы собираетесь создать `Albums` с названием `{{albumName}}`\nСоздание `Albums` бесплатно, но вы должны приобрести страницы за `Silver`\nИспользуйте `salbumconfig` или `sacf` для настройки альбомов",
     "BUTTON_ACCEPT": "Подтвердить",
     "BUTTON_DENY": "Отменить",
     "NO_AMOUNT": "У вас недостаточно `Wists`, чтобы создать альбом",
-    "ALBUM_SUCCESS": "Альбом успешно создан",
+    "ALBUM_SUCCESS": "`Album` успешно создан",
     "CANCEL": "Процесс был отменён"
 }

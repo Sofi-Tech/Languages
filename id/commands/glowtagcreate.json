@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "Membuat tag Glow",
+    "GTC_DESCRIPTION": "Membuat \"Glow Tag\"",
     "GTC_CATEGORY": "Tag",
-    "CORRECT_USAGE": "Cara penggunaan: `sgtc <namaTag> <emoji>`",
-    "INVALID_EMOJI": "Itu bukan emoji yang valid",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} **tag glow dengan nama tersebut sudah ada",
-    "CREATED_GLOWTAG": "{{author}} **Telah membuat Tag Glow dengan nama:** `{{tag}}` | {{emoji}}"
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `sgtc <NamaTag> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Emoji itu tidak valid",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Sebuah `Glow Tag` dengan nama tersebut sudah ada",
+    "CREATED_GLOWTAG": "{{author}} Membuat `Glow Tag` dengan nama: `{{tag}}` | {{emoji}}"
 }

@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "Mentransfer kartu dari satu tag ke tag lain",
+    "TT_DESCRIPTION": "Mentransfer kartu dari satu \"Tag\" ke lainnya",
     "TT_CATEGORY": "Tag",
-    "WRONG_USAGE": "Penggunaan yang benar: `strt <fromTagName> <toTagName>`",
-    "TAG_NOT_FOUND": "Tidak dapat menemukan tag dengan nama: `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFULL": "Berhasil mentransfer semua kartu dari `{{fromTag}}` ke `${toTag}`"
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `strt <dariTagLama> <keTagBaru>`",
+    "TAG_NOT_FOUND": "Tidak dapat menemukan `Tag` dengan nama: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFULL": "Semua kartu dari `Tag` {{fromTag}} telah berhasil ditransfer ke `{{toTag}}`"
 }
