@@ -1,1 +1,8 @@
-{}
+{
+    "NO_GLOWCDE": "{{author}} Tienes que proporcionar un código de `Glow`",
+    "INVALID_DC_MOVIES": "{{author}} Los códigos de `Glow` siempre empiezan con un **#**",
+    "GLOW_NOT_FOUND": "{{author}} El código de `Glow` que has proporcionado es inválido",
+    "RG_CATEGORY": "Muestra el \"Background Shop\"",
+    "RG_DESCRIPTION": "Recarga un \"Glow\" vacío",
+    "UNLOCK_GLOWS": "{{author}} Todavía no tienes ningún `Glow`"
+}
