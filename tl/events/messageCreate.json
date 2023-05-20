@@ -22,6 +22,6 @@
     "SAFE_MODE": "> Ang bot ay nasa safe-mode {{eta}}\nSya ay mag-babalik ❤",
     "CATEGORY_DISABLED": "> Ang kategorya na ito na naka disabled\nDahilan: `{{category}}`",
     "COMMAND_DISABLED": "> Ang command na ito ay naka disabled\nDahilan: `{{command}}`",
-    "NO_PERMISSIONS": "Hindi ako nakakapag execute ng command",
+    "NO_PERMISSIONS": "Wala akong sapat na permissions upang maisagawa ang command",
     "SERIES_DROP": "Natapos na ang botohan!"
 }
