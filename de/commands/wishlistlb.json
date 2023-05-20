@@ -2,7 +2,7 @@
     "DESCRIPTION": "Zeigt die Wunschlisten-Bestenliste an",
     "CATEGORY": "Wunschliste",
     "EMBED_TITLE": "WUNSCHLIST-BESTENLISTE - {{type}}",
-    "EMBED_FOOTER": "Zeige Seite {{page}}/{{totalPages}}",
+    "EMBED_FOOTER": "Angezeigte Seite {{page}}/{{totalPages}}",
     "CHARACTER_BUTTON_LABEL": "Charaktere",
     "SERIES_BUTTON_LABEL": "Serie"
 }

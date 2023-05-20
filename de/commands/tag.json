@@ -1,8 +1,8 @@
 {
-    "TAG_DESCRIPTION": "Karte taggen",
+    "TAG_DESCRIPTION": "Setzt deine Tags auf deine Karten.",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "Bitte geben Sie einen Tag-Namen an.",
-    "NO_TAGS_CREATED": "Vielen Dank für deine Bemühungen beim Taggen, aber es wurden keine Tags gefunden. Erstelle zuerst einen Tag mit dem `stc`-Befehl.",
+    "NO_TAGS_CREATED": "Du hast noch keine Tags. Erstelle zuerst einen Tag mit dem `stc <TagName> <Emoji>`-Befehl.",
     "TAG_NOT_FOUND": "Du hast keinen Tag mit dem Namen `{{tag}}`",
     "NO_CARDS_CLAIMED": "Du hast noch keine Karten beansprucht",
     "INVALID_CARD_CODE": "{{author}} Ungültiger Karten-Code oder keine Karte gefunden",

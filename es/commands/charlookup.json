@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "- Puedes buscar un personaje específico usando el comando \"scl\". En este menú, puedes ver las estadísticas de un personaje, su variante Versión/3D/GIF, así como las tablas de clasificación de Gen/Fans y el \"ID de la carta\".\n- El \"ID de la carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
+    "DESCRIPTION": "- Puedes buscar un personaje específico usando el comando \"scl\". En este menú, puedes ver las estadísticas de un personaje, su variante Version/3D/GIF, así como las tablas de clasificación de Gen/Fans y el \"ID de la carta\".\n- El \"ID de la carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
     "CHAR_NOT_FOUND": "No se ha podido encontrar el personaje que estás buscando",
     "CHAR_NF_SENSITIVE": "No se ha podido encontrar ningún personaje. [La función de `lookup` es sensible a mayúsculas!]",
     "EMBED_TITLE": "__Personajes que coinciden__",
-    "NORMAL_LABEL": "Variante Versión",
+    "NORMAL_LABEL": "Variante Version",
     "FAN_PTS_LABEL": "Agregar puntos de fans",
-    "NORMAL_DESC": "Muestra las variantes Versión de este personaje",
+    "NORMAL_DESC": "Muestra las variantes Version de este personaje",
     "ADD_FAN_PTS": "Aumenta tus Fan Points para este personaje",
     "3D_LABEL": "Variante 3D",
     "3D_DESC": "Muestra la variante 3D de este personaje",
@@ -33,7 +33,7 @@
     "TOP_OWNER": "Top de propietarios",
     "TOP_3D_OWNER": "Top de propietarios 3D",
     "TOP_GIF_OWNER": "Top de propietarios de GIFs",
-    "NO_OWNER_FOUND": "No se encontraron propietarios de `Versión`",
+    "NO_OWNER_FOUND": "No se encontraron propietarios de `Version`",
     "NO_3D_OWNER_FOUND": "No se encontraron propietarios `3D`",
     "NO_GIF_OWNER_FOUND": "No se encontraron propietarios de `GIF`"
 }

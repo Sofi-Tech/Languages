@@ -1,7 +1,7 @@
 {
-    "TC_DESCRIPTION": "Erstelle einen Tag",
+    "TC_DESCRIPTION": "Erstellt einen Tag",
     "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "Verwendung: `stc <tagname> <emoji>`",
+    "WRONG_USAGE": "Korrekte Verwendung: `stc <tagname> <emoji>`",
     "INVALID_EMOJI": "{{emoji}} ist kein gültiges Emoji",
     "INVALID_TAGNAME_FORMAT": "Der Tagname muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder reservierten Wörter enthalten.",
     "LONG_TAGNAME": "Tag-Name zu lang. Versuche es mit weniger als 20 Zeichen",

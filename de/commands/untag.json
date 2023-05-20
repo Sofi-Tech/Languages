@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Entfernt die Tags von deinen Karten",
     "UT_CATEGORY": "Tags",
-    "INVALID_CODE": "Ungültiger Karten-Code oder keine Karte gefunden",
+    "INVALID_CODE": "Sie haben keine Karten in Ihrem Inventar.",
     "UNTAG_SUCCESSFULL": "{{cardName}} erfolgreich entfernt",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}} entfernt"
 }

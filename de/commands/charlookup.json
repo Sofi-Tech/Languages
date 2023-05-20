@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Du kannst mit dem \"scl\"-Befehl nach einem bestimmten Charakter suchen. Im Charakter-Lookup-Menü kannst du die Statistiken der Karte, ihre 3D- und animierten Variante, Gen-Rangliste, Fan-Rangliste und die \"Karten-ID\" überprüfen.\nDie \"Karten-ID\" wird benötigt, wenn man Bilder für neue \"Versionen\" einreicht.",
     "CHAR_NOT_FOUND": "Der Charakter nach dem du suchst wurde nicht gefunden",
-    "CHAR_NF_SENSITIVE": "Es wurde kein Charakter gefunden. [Bitte beachte bei der `lookup` Funktion die Groß- und Kleinschreibung!]",
+    "CHAR_NF_SENSITIVE": "Es wurden keine Charakter gefunden. [Bitte beachte bei der `lookup` Funktion die Groß- und Kleinschreibung!]",
     "EMBED_TITLE": "__Zutreffende Charaktere__",
     "NORMAL_LABEL": "Version Variante",
     "FAN_PTS_LABEL": "Fan-Punkte hinzufügen",

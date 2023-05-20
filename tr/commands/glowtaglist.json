@@ -1,7 +1,7 @@
 {
-    "GTL_DESCRIPTION": "Tag listesini gösterir",
+    "GTL_DESCRIPTION": "\"Glow Tags\"larınızı içeren bir liste görüntüler",
     "GTL_CATEGORY": "Etiketler",
-    "NO_TAGS": "Etiket bulunamadı",
+    "NO_TAGS": "{{author}} herhangi `Glow Tags` bulunamadı",
     "GLOWS": "Parlayanlar",
     "EMBED_TITLE": "Parlayan Etiket Listesi"
 }

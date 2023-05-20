@@ -6,7 +6,7 @@
     "BUTTON_NAME_LABEL": "Nama",
     "BUTTON_EMOJI_LABEL": "Emoji",
     "EMBED_TITLE": "Perbarui Tag",
-    "EMBED_DESCRIPTION": "Apa yang ingin Anda perbarui dari `Tag` ini: `{{tagName}}`?",
+    "EMBED_DESCRIPTION": "Bagian mana dari `Tag` berikut ini yang ingin Anda perbarui: `{{tagName}}`?",
     "EMBED_FOOTER": "Gunakan tombol di bawah ini untuk melanjutkan",
     "REPLACE_NAME": "Tuliskan nama yang akan mengganti `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} Anda sudah memiliki `Tag` dengan nama `{{newTagName}}`. Berikan nama yang berbeda dan coba lagi",

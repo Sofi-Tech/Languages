@@ -1,7 +1,7 @@
 {
     "GUT_DESCRIPTION": "\"Glow Tags\"ı kaldırır",
     "GUT_CATEGORY": "Etiketler",
-    "NO_GLOWS_FOUND": "{{author}} Şu anda hiç parlamanız yok",
+    "NO_GLOWS_FOUND": "{{author}} Şu anda herhangi bir `Glows`unuz yok",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları her zaman **#** ile başlar",
     "INVALID_GLOWCODE": "{{author}} Sağlanan `Glow` kodları geçersiz",
     "GLOW_UNTAG_SUCCESSFULL": "{{author}} {{glow}} etiketi başarıyla kaldırıldı"

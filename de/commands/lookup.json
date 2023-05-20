@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt die Version/3D/GIF Varianten eines Charakters an",
     "CHAR_NOT_FOUND": "Der Charakter nach dem du suchst wurde nicht gefunden",
-    "CHAR_NF_SENSITIVE": "Es wurde kein Charakter gefunden. [Bitte beachte bei der `lookup` Funktion die Groß- und Kleinschreibung!]",
+    "CHAR_NF_SENSITIVE": "Es wurden keine Charakter gefunden. [Bitte beachte bei der `lookup` Funktion die Groß- und Kleinschreibung!]",
     "EMBED_TITLE": "__Zutreffende Charaktere__",
     "SUBMITTED": "Eingereicht von: <@{{userID}}>",
     "EMBED_FOOTER": "Finde `Version 1` einer Karte mit dem Befehl `scl`| schlage neue `Versionen` vor mit dem Befehl `ssc`",

@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Muestra las variantes Versión/3D/GIF de un personaje",
+    "DESCRIPTION": "Muestra las variantes Version/3D/GIF de un personaje",
     "CHAR_NOT_FOUND": "No se ha podido encontrar el personaje que estás buscando",
     "CHAR_NF_SENSITIVE": "No se ha podido encontrar ningún personaje. [La función de `lookup` es sensible a mayúsculas!]",
     "EMBED_TITLE": "__Personajes que coinciden__",
     "SUBMITTED": "Enviado por: <@{{userID}}>",
-    "EMBED_FOOTER": "Encuentra la `Versión` 1 usando el comando `scl`. Puedes enviar una nueva `Versión` usando el comando `ssc`",
-    "VERSION_DISP": "Muestra la `Versión` {{version}} de la carta",
+    "EMBED_FOOTER": "Encuentra la `Version` 1 usando el comando `scl`. Puedes enviar una nueva `Version` usando el comando `ssc`",
+    "VERSION_DISP": "Muestra la `Version` {{version}} de la carta",
     "MORE": "Más información",
     "3D_DESC": "Muestra la variante 3D de este personaje",
     "GIF_LABEL": "Variante GIF",
@@ -18,7 +18,7 @@
     "MULTI": "Múltiple",
     "EVENTS": "Eventos",
     "EVENT": "Evento",
-    "UPCOMING_EVENT": "Próximo evento",
+    "UPCOMING_EVENT": "Próximo Event",
     "TOP_OWNER": "Top de propietarios",
-    "NO_OWNER_FOUND": "No se encontraron propietarios de `Versión`"
+    "NO_OWNER_FOUND": "No se encontraron propietarios de `Version`"
 }

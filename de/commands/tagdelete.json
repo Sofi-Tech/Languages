@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "Lösche den Tag",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "Verwendung: `sdt <tagname>`",
-    "TAG_NOT_FOUND": "Dieser Tag ist nicht in Ihrer Tagliste",
+    "WRONG_USAGE": "Korrekte Verwendung: `sdt <tagname>`",
+    "TAG_NOT_FOUND": "Du hast noch keinen Tag für diesem Namen.",
     "SUCCESSFUL_DELETE_TAG": "Tag {{tag}} wurde gelöscht"
 }

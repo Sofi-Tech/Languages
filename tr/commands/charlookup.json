@@ -3,7 +3,7 @@
     "CHAR_NOT_FOUND": "Aradığın karakter bulunamadı",
     "CHAR_NF_SENSITIVE": "Herhangi bir karakter bulunamadı. [`lookup` işlevi büyük/küçük harfe duyarlıdır!]",
     "EMBED_TITLE": "__Eşleşen Karakterler__",
-    "NORMAL_LABEL": "Normal Varyant",
+    "NORMAL_LABEL": "Versiyon Varyantı",
     "FAN_PTS_LABEL": "Fan Puanı ekle",
     "NORMAL_DESC": "Bu karakter için Version varyantlarını gösterir",
     "ADD_FAN_PTS": "Bu karakter için Fan Puanınızı arttırın",
@@ -35,5 +35,5 @@
     "TOP_GIF_OWNER": "En İyi GIF Sahipleri",
     "NO_OWNER_FOUND": "`Version` sahibi bulunamadı",
     "NO_3D_OWNER_FOUND": "`3D` sahibi bulunamadı",
-    "NO_GIF_OWNER_FOUND": "`GIF` sahibi bulunamadı..."
+    "NO_GIF_OWNER_FOUND": "`GIF` sahibi bulunamadı"
 }

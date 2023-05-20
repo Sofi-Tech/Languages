@@ -1,8 +1,8 @@
 {
     "ALBUM_DESCRIPTION": "Zeigt deine Sofi-Alben an.",
     "ALBUM_CATEGORY": "Album",
-    "ALBUM_SLASH_DESC": "Gib den Benutzer an, dessen Alben du sehen möchtest",
-    "ALBUM_SLASH_DESC2": "Gib den Namen des Albums ein, welches du suchst",
+    "ALBUM_SLASH_DESC": "Gib den Benutzer ein, dessen Alben du sehen möchtest",
+    "ALBUM_SLASH_DESC2": "Gib den Namen des gesuchten „Albums“ an.",
     "USER_NOT_FOUND": "{{author}} | Benutzer nicht gefunden!",
     "PLAYER_NOT_EXIST": "{{author}} | Dieser Spieler existiert nicht",
     "ALBUM_NOT_FOUND": "Keine Alben gefunden für {{username}}",
