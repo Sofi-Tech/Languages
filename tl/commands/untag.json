@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "Tanggalin ang mga \"Tags\" ng mga baraha",
+    "UT_DESCRIPTION": "Tatanggalin ang mga \"Tags\" sa iyong mga kard",
     "UT_CATEGORY": "Mga Tag",
-    "INVALID_CODE": "Hindi wastong code ng card o walang nakitang card",
-    "UNTAG_SUCCESSFULL": "Matagumpay na natanggal ang {{cardName}}",
-    "MULTIPLE_UNTAG": "Natanggal na ang {{validCards}}{{invalidCards}}"
+    "INVALID_CODE": "Wala kang mga kard sa iyong inventory",
+    "UNTAG_SUCCESSFULL": "Matagumpay na natanggal ang tag ng {{cardName}}",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }
