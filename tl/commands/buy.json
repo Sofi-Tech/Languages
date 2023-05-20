@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Bumili ng gamit sa \"Shop\"\nGamitin ang command na \"sshop\" para makita ang mga item na maaaring bilhin sa Sofi Shop",
-    "SLASH_DESC": "Ilagay ang item na gusto mong bilihin",
-    "SLASH_DESC2": "Ipasok ang halaga",
-    "SLASH_DESC3": "Itype ang code ng background na gusto mong bilhin. [ITO AY GUMAGANA LAMANG KUNG ANG ITEM AY PINILI LAMANG BILANG BACKGROUND]",
-    "NO_ITEM": "Tukuyin ang item na gustong bilhin",
-    "TRADEPASS_INFO": "Ang Trade Pass na pwedeng mabili sa pamamagitan ng silvers ay hindi na magagamit. Pwede mong ipalit ang **_1x_** `Bump` para sa 4-hour `Trade Pass`o mag-ipon ng **_20x_** `Bumps` para makabili ng 30-Day `Trade Pass`",
+    "DESCRIPTION": "Bumili ng mga aytem sa \"Shop\"\nGamitin ang command na \"sshop\" upang mag-browse sa mga iba't-ibang uri ng bilihin sa Sofi",
+    "SLASH_DESC": "Ilagay ang aytem na gusto mong bilhin",
+    "SLASH_DESC2": "Itala ang halaga",
+    "SLASH_DESC3": "Ilagay ang code ng background na gusto mong bilhin. [ITO AY GUMAGANA LAMANG KUNG ANG ITEM AY PINILI LAMANG BILANG BACKGROUND]",
+    "NO_ITEM": "Tukuyin ang aytem na gustong bilhin",
+    "TRADEPASS_INFO": "Pwede mong ipalit ang **_1x_** `Bump` para sa 4-hour `Trade Pass` o mag-ipon ng **_20x_** `Bumps` para makabili ng 30-Day `Trade Pass`",
     "CORRECT_USAGE": "{{USER}} Tamang paggamit: `{{prefix}}buy bg <BackgroundID> <amount>`",
     "INVALID_BG_AMOUNT": "Huwag mag lagay ng negatibong halaga",
-    "INVALID_BG_ID": "Mangyaring magbigay ng wastong `Background` -ID",
-    "NO_ITEM_PROVIDED": "Walang kagamitan na binigay",
+    "INVALID_BG_ID": "Pakibigay ng wastong `Background` -ID",
+    "NO_ITEM_PROVIDED": "Walang aytem na binigay",
     "INVALID_AMOUNT": "Mali ang halaga na binigay",
-    "INVALID_ITEM_PROVIDED": "{{USER}} maling kagamitan ang binigay"
+    "INVALID_ITEM_PROVIDED": "{{USER}} Maling aytem ang binigay"
 }

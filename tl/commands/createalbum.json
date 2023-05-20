@@ -1,9 +1,9 @@
 {
-    "CREATE_ALBUM_DESCRIPTION": "Gawin ang base ng iyong album",
+    "CREATE_ALBUM_DESCRIPTION": "Gawin ang base para sa \"Album\"",
     "CREATE_ALBUM_CATEGORY": "Album",
-    "CREATE_ALBUM_SLASH_DESC": "Maglagay ng pangalan ng album",
-    "PROVIDE_ALBUM_NAME": "{{author}} Magbigay ng pangalan ng album",
-    "ALBUM_NAME_ERROR": "Ang pangalan ng album ay dapat na alphanumeric, at hindi dapat naglalaman ng mga:\n- Special character\n- Puwang\n- Malalaking titik",
+    "CREATE_ALBUM_SLASH_DESC": "Maglagay ng pangalan ng iyong \"Album\"",
+    "PROVIDE_ALBUM_NAME": "{{author}} Magbigay ng pangalan ng \"Album\"",
+    "ALBUM_NAME_ERROR": "Ang pangalan ng `Album` ay dapat naka alphanumeric, at hindi dapat nag lalaman ng mga:\n- Special character\n- Puwang\n- Malalaking titik",
     "ALBUM_NAME_LONG": "Masyadong mahaba ang pangalan ng album. Subukang gumawa ng pangalan na hindi lalagpas sa 20 characters",
     "MAX_ALBUMS": "{{author}} Ang isang player ay maaring magkaroon lamang ng 10 na album",
     "ALBUM_NAME_EXISTS": "{{author}} Mayroon ka ng Album na nagngangalang`{{name}}`",
