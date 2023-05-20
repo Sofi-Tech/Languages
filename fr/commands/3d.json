@@ -1,17 +1,18 @@
 {
     "3D_CATEGORY": "Cosmétiques",
-    "NO_GIF_CONVERSION": "{{author}} Les cartes GIF ne peuvent pas être converties en forme 3D",
+    "NO_GIF_CONVERSION": "{{author}} Les cartes GIF ne peuvent pas être converties en variante 3D",
     "CARD_3D_ALREADY": "{{author}} Cette carte est déjà dans sa forme 3D",
     "NO_3D_VERSION": "{{author}} Ce personnage n'a pas de variante 3D actuellement",
     "EMBED_TITLE": "SOFI: 3D",
-    "EVENT_3D_NOTE": "Vous pouvez obtenir des variantes 3D \"Event\" lors d'événements actifs",
+    "EVENT_3D_NOTE": "Vous pouvez obtenir des variantes 3D \"Event\" lors des événements actifs",
     "3D_DESCRIPTION": "Convertit votre carte en sa variante 3D",
     "INVALID_CARD_CODE": "{{author}} Le code de cette carte est invalide",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Les cartes d'event ne peuvent pas être converties en variante 3D",
-    "CARD_ALREADY_3D": "{{author}} Cette carte est déjà dans son état 3D",
+    "CARD_ALREADY_3D": "{{author}} Cette carte est déjà dans sa forme 3D",
     "NO_CUBES": "Vous n'avez pas assez de `Cubes`",
-    "ALL_3D_NOTE": "Vous pouvez obtenir des variantes 3D \"Event\" lors d'événements actifs",
+    "ALL_3D_NOTE": "Vous pouvez obtenir des variantes 3D \"Event\" lors des événements actifs",
     "UPGRADED_3D": "Votre carte a été convertie avec succès dans sa variante 3D",
     "HALLOWEEN_3D_FAILED": "Un fantôme d'Halloween a infesté votre carte! Le processus de conversion a échoué!",
-    "3D_NOTE": "Vous êtes sur le point de convertir cette carte en sa variante 3D. Ce processus modifiera votre carte de façon permanente et ne pourra pas être annulé. La conversion de cette carte entraînera également un réassignation de sa \"Gen\", les \"Gens\" inférieurs étant plus susceptibles de conserver une \"Gen\" inférieure. Retirez le cadre d'une carte avant de la convertir, sinon vous perdrez toute \"Frame\" appliqué"
+    "3D_NOTE": "Vous êtes sur le point de convertir cette carte en sa variante 3D. Ce processus modifiera votre carte de façon permanente et ne pourra pas être annulé. La conversion de cette carte entraînera également un réassignation de sa \"Gen\", les \"Gens\" inférieurs étant plus susceptibles de conserver une \"Gen\" inférieure. Retirez le cadre d'une carte avant de la convertir, sinon vous perdrez toute \"Frame\" appliqué",
+    "UPGRADE_3D_CANCEL": "Le processus de conversion a été annulé"
 }
