@@ -2,7 +2,7 @@
     "TC_DESCRIPTION": "Maak een \"Tag\" aan",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Correct gebruik: `stc <TagName> <emoji>`",
-    "INVALID_EMOJI": "{{emoji}} is geen geldige emoji",
+    "INVALID_EMOJI": "{{author}} \"{{emoji}}\" is geen geldige emoji!",
     "INVALID_TAGNAME_FORMAT": "De tagname mag alleen uit letters en nummers bestaan, geen speciale tekens of spaties en mag niet een gereserveerd woord zijn.",
     "LONG_TAGNAME": "Tag naam te lang. Probeer minder dan 20 karakters",
     "TAGNAME_EXISTS": "{{author}} **Tag met naam `{{tag}}` bestaat al",

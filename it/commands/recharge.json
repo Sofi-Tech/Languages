@@ -4,5 +4,12 @@
     "UNLOCK_GLOWS": "{{author}} Non hai ancora nessun `Glows`",
     "NO_GLOWCDE": "{{author}} Devi fornire un codice `Glow`",
     "INVALID_DC_MOVIES": "{{author}} I codici `Glow` iniziano sempre con **#**",
-    "GLOW_NOT_FOUND": "{{author}} Il tuo codice `Glow` fornito non è valido"
+    "GLOW_NOT_FOUND": "{{author}} Il tuo codice `Glow` fornito non è valido",
+    "CANCEL_RECHARGE": "Il processo è stato annullato",
+    "GLOW_AVAILABLE": "{{author}} Quel `Glow` è già carico",
+    "EMBED_TITLE": "SOFI: RICARICA GLOW",
+    "RECHARGE_CONFIRMATION": "Stai per ricaricare:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCodice: `{{ glowCode}}`\nCosto: **${cost}** <:recharge_sofi:926846363537387530>",
+    "ARE_YOU_SURE": "Sei sicuro?",
+    "NO_MONEY": "Non hai abbastanza `Recharges`! Comprane un po' e riprova",
+    "SUCCESSFUL_RECHARGE": "Il tuo `Glow` è stato ricaricato con successo!"
 }

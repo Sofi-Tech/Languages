@@ -2,7 +2,7 @@
     "GUT_DESCRIPTION": "Verwijder de \"Glow Tags\"",
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "{{author}} U hebt momenteel geen `Glows`",
-    "WRONG_GLOWCODE_FORMAT": "Glowcode begint met #",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes beginnen altijd met een **#**.",
     "INVALID_GLOWCODE": "Ongeldige Glow-code of geen gloed gevonden",
     "GLOW_UNTAG_SUCCESSFULL": "Succesvol ${ {glow}} ongetagged"
 }

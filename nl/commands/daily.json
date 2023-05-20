@@ -3,7 +3,7 @@
     "CATEGORY": "Kaarten",
     "EMBED_AUTHOR": "{{author}}'s Dagelijkse Beloningen",
     "DAILY_ERROR": "U kunt uw dagelijkse beloningen pas na {{timeout}} claimen.\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> {{count}} dagelijkse beloningen over om een Gewone Kist te claimen",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` over om een `Common Chest` te claimen",
     "RARE_CHEST": "<:rarechest:927204672270372874> {{count}} dagelijkse beloningen over om een Zeldzame Kist te claimen",
     "NOTE": "\n⚠️ Discord- of Sofi-medewerkers zullen nooit vragen om wachtwoorden, OTPs, e-mailwijzigingen, of communiceren met behulp van bots van derden zoals Mee6/Dyno. Alles wat gratis aan jou wordt aangeboden of gevraagd wordt om lid te worden van een server, is verdacht. Rapporteer het op {{link}}",
     "EMBED_FOOTER": "Reeks [ {{streak}} ] • {{streakBar}}",
