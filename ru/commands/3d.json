@@ -1,1 +1,8 @@
-{}
+{
+    "3D_CATEGORY": "Косметика",
+    "INVALID_CARD_CODE": "{{author}} Этот код карты недействителен",
+    "NO_GIF_CONVERSION": "{{author}} GIF-карты нельзя преобразовать в 3D варианты",
+    "CARD_3D_ALREADY": "{{author}} Эта карта уже преобразована в 3D",
+    "3D_DESCRIPTION": "Превращает вашу карточку в 3D вариант",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Карточки событий не могут быть преобразованы в 3D вариант"
+}
