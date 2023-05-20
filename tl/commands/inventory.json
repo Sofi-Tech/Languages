@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Ipinapakita ang inventory ng isang user",
-    "SLASH_DESC": "Ilagay ang pangalan o ID ng user na gusto mong makita ang inventory",
+    "SLASH_DESC": "Pumili ng user na nais mong makita ang inventory",
     "SLASH_DESC2": "Ilagay ang pangalan ng item na gusto mong hanapin",
     "NOT_REGISTER": "{{author}} | Hindi nakarehistro ang user!",
     "NO_USER_FOUND": "{{author}} Walang nakitang user",
@@ -12,7 +12,7 @@
     "EVENT": "Kaganapan",
     "SELF_INV_EMPTY": "Ang iyong inventory ay walang laman",
     "USER_INV_EMPTY": "Walang laman ang inventory ng user",
-    "NO_BG_FOUND": "Walang `Background`na nakita",
+    "NO_BG_FOUND": "Walang nakitang `Background`",
     "NO_ITEM_FOUND": "Hindi mahanap ang item sa inventory",
     "HIDE_INV": "Para itago ang iyong inventory, gamitin ang command na `spvt inv`"
 }

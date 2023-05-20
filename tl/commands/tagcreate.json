@@ -5,6 +5,6 @@
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" ay hindi isang balidong emoticon!",
     "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalang ng iyong `Tag` ay dapat naka alphanumeric at hindi dapat paglagyan ng espesyal karakters, spaces o kabastusan",
     "LONG_TAGNAME": "{{author}} Ang pangalan ng `Tag`ay nag lalaman lamang ng pinakamataas na 20 karakters",
-    "TAGNAME_EXISTS": "{{author}} Meron ka nang `Tag` na may pangalang `{{tag}}`",
+    "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang `Tag` na may pangalang `{{tag}}`",
     "TAG_CREATED": "{{author}} Nalikha ang `Tag`na may pangalang: `{{tag}}` | {{emoji}}"
 }

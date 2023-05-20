@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Geef een kaart aan iemand",
-    "SLASH_DESC": "Geef de gebruiker aan wie je de kaart wilt geven.",
-    "SLASH_DESC2": "Voer de code van de kaart in die je wilt geven.",
+    "SLASH_DESC": "Selecteer de gebruiker aan wie je een kaart wilt geven",
+    "SLASH_DESC2": "Voer de code van de kaart in die je wilt weggeven.",
     "NO_MEMBER": "{{author}} Geen speler opgegeven",
     "NO_SELF_GIVE": "{{author}} je kan de kaart niet aan jezelf geven",
     "NOT_REGISTERED": "{{member}} is niet geregistreerd",

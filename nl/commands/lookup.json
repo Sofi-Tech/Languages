@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "laat versies/3d/geanimeerd van personages zien",
-    "CHAR_NOT_FOUND": "Kan personage niet vinden",
-    "CHAR_NF_SENSITIVE": "Geen personage gevonden, [De lookup functie is hoofdlettergevoelig]",
+    "CHAR_NOT_FOUND": "Kon het karakter dat u zoekt niet vinden",
+    "CHAR_NF_SENSITIVE": "Kon geen karakters vinden, [De `lookup` functie is hoofdlettergevoelig]",
     "EMBED_TITLE": "__Karakters opzoeken__",
     "SUBMITTED": "Ingezonden door: <@{{userID}}>",
     "EMBED_FOOTER": "Vind v1 met scl | Versies indienen met ssc",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "-Maaari mong makita ang mga cards sa iyong collection sa pamamagitan ng command na \"sc\"\n-Pwede mo itong i sort by Name, Cosmetics, Stats at marami pang iba\n-Pwede mo itong i filter sa Wishlist, Gen o Tag Name\n-Gamitin ang \"sc t:ut\" para makita ang mga untag cards sa iyong collection",
     "SLASH_CMD_DESC": "Ipakita ang iyong kard koleksyon",
-    "SLASH_DESC": "Pumili ng user para makita ang kanilang koleksyon",
+    "SLASH_DESC": "Pimuli ng user para makita ang kanilang collection",
     "SLASH_DESC2": "Ilagay ang mga filters na nais mong i-apply sa koleksyon",
     "PLAYER_NOT_EXIST": "{{author}} Wala siyang nasasakupan na player",
     "PLAYER_PRIVATE": "{{author}} Ang koleksyon ng user na iyon ay pribado!",
