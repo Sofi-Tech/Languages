@@ -5,6 +5,11 @@
     "RG_CATEGORY": "Affiche le \"Background Shop\"",
     "NO_GLOWCDE": "{{author}} Vous devez fournir un code de `Glow`",
     "GLOW_NOT_FOUND": "{{author}} Le code de `Glow` que vous avez fourni est invalide",
-    "EMBED_TITLE": "SOFI: RECHARGE DE GLOW",
-    "GLOW_AVAILABLE": "{{author}} Ce `Glow` est déjà charger"
+    "EMBED_TITLE": "SOFI: RECHARGEMENT DE GLOW",
+    "GLOW_AVAILABLE": "{{author}} Ce `Glow` est déjà charger",
+    "CANCEL_RECHARGE": "Le proccesus est annulé",
+    "ARE_YOU_SURE": "Êtes vous sur?",
+    "NO_MONEY": "Vous n'avez pas assez de `Recharges`! Acheter en et réessayer",
+    "SUCCESSFUL_RECHARGE": "Votre `Glow` a été recharger avec succès",
+    "RECHARGE_CONFIRMATION": "Vous êtes sur le point de recharger:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCode: `{{ glowCode}}`\nCost: **${cost}** <:recharge_sofi:926846363537387530>"
 }
