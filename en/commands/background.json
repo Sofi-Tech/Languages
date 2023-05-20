@@ -1,10 +1,10 @@
 {
     "BG_DESCRIPTION": "Applies a \"Background\" to your 3D cards",
     "BG_CATEGORY": "Cosmetics",
-    "WRONG_USAGE": "{{author}} `{{prefix}}bg <code> <bgID>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bg <CardCode> <BackgroundID>`",
     "INVALID_CODE": "{{author}} You provided an invalid card code",
-    "APPLY_GIF_CARDS": "{{author}} bgs cannot be applied on gif cards",
-    "APPLY_3D_CARDS": "{{author}} Backgrounds can only be applied to 3D cards",
+    "APPLY_GIF_CARDS": "{{author}} You cannot apply `Backgrounds` to non-3D cards",
+    "APPLY_3D_CARDS": "{{author}} You cannot apply `Backgrounds` to non-3D cards",
     "BG_NOT_FOUND": "Cannot find bg.",
     "EMBED_TITLE": "Apply Background:",
     "EMBED_DESCRIPTION": "You are about to apply {{background}}\nYour card will look as below",
