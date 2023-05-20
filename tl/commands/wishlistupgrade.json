@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Palakihin ang iyong listahan ng ninanais na baraha",
+    "DESCRIPTION": "Nag-dadagdag ng kapasidad ng iyong wishlist",
     "CATEGORY": "Listahan ng Ninanais",
     "ALREADY_MAXED": "> {{author}} Ang listahan ng iyong wishlist ay puno na!",
-    "EMBED_DESCRIPTION": "Gusto mo bang bumili ng dagdag na {{count}} slots sa halagang {{amount}} {{currency}}?",
+    "EMBED_DESCRIPTION": "Gusto mo bang bumili ng dagdag na {{count}} puwang sa halagang {{amount}} {{currency}}?",
     "EMBED_PAY_FIELD_NAME": "Babayaran mo:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Makukuha mo:",
