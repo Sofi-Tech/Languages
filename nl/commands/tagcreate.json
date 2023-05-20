@@ -1,5 +1,5 @@
 {
-    "TC_DESCRIPTION": "Maak een tag aan",
+    "TC_DESCRIPTION": "Maak een \"Tag\" aan",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "Gebruik: `stc <tagname> <emoji>`",
     "INVALID_EMOJI": "{{emoji}} is geen geldige emoji",
