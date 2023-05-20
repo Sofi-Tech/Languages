@@ -4,7 +4,7 @@
     "ALBUM_SLASH_DESC": "見たいアルバムのユーザーを入力してください",
     "ALBUM_SLASH_DESC2": "探しているアルバムの名前を指定してください。",
     "USER_NOT_FOUND": "{{author}} ユーザーが見つかりません！",
-    "PLAYER_NOT_EXIST": "{{author}} そのプレーヤーは存在しません。",
+    "PLAYER_NOT_EXIST": "{{author}} そのプレーヤーは存在しません",
     "ALBUM_NOT_FOUND": "{{username}} のアルバムは見つかりませんでした。",
     "NO_ALBUMS": "{{member}} は現在アルバムを持っていません。\n コマンド`sca`を使用してアルバムを作成します。\n コマンド `sacf <アルバム > <ページ >`を使用して、アルバムを構成します。",
     "ALBUM_NAME_NOT_FOUND": "{{author}} は `{{albumName}}` という名前のアルバムを見つけることができませんでした",
