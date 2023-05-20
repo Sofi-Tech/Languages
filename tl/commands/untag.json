@@ -2,6 +2,6 @@
     "UT_DESCRIPTION": "Tatanggalin ang mga \"Tags\" sa iyong mga kard",
     "UT_CATEGORY": "Mga Tag",
     "INVALID_CODE": "Wala kang mga kard sa iyong inventory",
-    "UNTAG_SUCCESSFULL": "Matagumpay na natanggal sa `Tag` ang **{{cardName}}**",
+    "UNTAG_SUCCESSFULL": "Matagumpay na natanggal sa tag ang {{cardName}}",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }
