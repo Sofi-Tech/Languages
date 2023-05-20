@@ -2,7 +2,7 @@
     "DESCRIPTION": "Voeg personages toe aan je verlanglijstje",
     "CATEGORY": "Verlanglijstje",
     "ADD_CHARACTERS_ERROR": "> U kunt geen karakters meer toevoegen aan uw verlanglijst",
-    "SEARCH_CHARACTER_ERROR": "Geef een naam van een personage op om toe te voegen\nGebruik `swa -f <naam>` voor een exacte zoekopdracht",
+    "SEARCH_CHARACTER_ERROR": "Geef een naam op om dat karakter toe te voegen aan uw verlanglijst\nGebruik het commando `swa -f <naam>` voor een exacte zoekopdracht",
     "NO_CHARACTER_FOUND": "Er werd geen personage gevonden\nGebruik `swa -f <naam>` voor een exacte zoekopdracht",
     "CHARACTER_ALREADY_EXISTS": "{{name}} staat al op je verlanglijstje",
     "CHARACTER_ADDED": "> {{author}} | {{name}} is toegevoegd aan je verlanglijstje",

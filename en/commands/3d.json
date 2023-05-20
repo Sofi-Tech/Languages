@@ -11,8 +11,8 @@
     "EVENT_3D_NOTE": "You are able to get \"Event\" 3D variants during active events",
     "CARD_ALREADY_3D": "{{author}} That card already is in its 3D state",
     "NO_CUBES": "You don't have enough `Cubes`",
-    "HALLOWEEN_3D_FAILED": "The Halloween Ghost got you! 3D making failed!!!",
-    "ALL_3D_NOTE": "You can get the Valentine 3D using Event 2D or Normal 2D",
-    "UPGRADED_3D": "Upgraded to 3d",
-    "UPGRADE_3D_CANCEL": "Upgrade to 3d cancelled"
+    "HALLOWEEN_3D_FAILED": "A Halloween Ghost has infested your card! The conversion process has failed!",
+    "ALL_3D_NOTE": "You are able to get \"Event\" 3D variants during active events",
+    "UPGRADED_3D": "Your card has successfully been converted into their 3D variant",
+    "UPGRADE_3D_CANCEL": "The conversion process has been cancelled"
 }
