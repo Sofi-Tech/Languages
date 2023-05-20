@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Queime cartas para obter `Crystals` e `Silver` que podem ser usados para fazer `Cubes` e comprar vários itens no bot. Digitar `sb` queima a última carta reivindicada.",
+    "DESCRIPTION": "Queime suas cartas para obter \"Crystals\" e \"Silver\" que podem ser usados para fazer \"Cubes\" ou comprar vários itens no Bot. Usar o comando `s` por si só vai tentar queimar sua carta mais recente",
     "GUILDSTONE_BURN": "Você está prestes a usar uma `Guild Stone`",
-    "GUILDSTONE_NOT_FOUND": "Você não tem uma `Guild Stone` para usar",
+    "GUILDSTONE_NOT_FOUND": "Você não tem uma `Guild Stone`",
     "SUCCESS": "SUCESSO",
     "CANCELLED": "CANCELADO",
     "BURN_FRAG_WARN": "Você está prestes a queimar um `Fragment`\nCódigo do `Fragment`: `{{fragCode}}`",

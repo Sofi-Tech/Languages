@@ -2,11 +2,11 @@
     "DESCRIPTION": "Gamitin ang command na `sdaily` upang makuha ang iyong pang araw-araw na gantimpala. Panatilihin ang iyong streak upang magkatanggap ng mas magandang gantimpala!",
     "CATEGORY": "Kard",
     "EMBED_AUTHOR": "{{author}}'s Pang araw-araw na reward",
-    "DAILY_ERROR": "Maaari mong makuha ang iyong `Daily` kapag natapos ang {{timeout}} \n",
+    "DAILY_ERROR": "Maaari mong makuha ang iyong `Daily` kapag natapos ang {{timeout}}\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` ang natititira para makuha ang `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` ang natitira para makuha mo ang `Rare Chest`",
     "NOTE": "⚠️ Discord, pati na rin ang mga Sofi Staff ay hindi KAILANMAN gagawin ang mga sumusunod:\n- Itanong ang iyong \"Password\" o \"One-Time-Password\"\n- Ipayo na baguhin ang iyong E-mail\n- Gumamit ng third-party methods, katulad ng \"Mee6\" o \"Dyno\" para makipag-usap sayo.\n\nKahit anong kahinahinalang aktibidad ay dapat iulat agad sa {{link}}! ⚠️",
-    "EMBED_FOOTER": "Streak [{{streak}}] • {{streakBar}}",
+    "EMBED_FOOTER": "Streak **[{{streak}}]** • {{streakBar}}",
     "DAILY_SUCCESS": "Salamat sa pagkuha ng iyong `Daily`!",
     "GUILD_BONUS": "Dahil ginamit mo ang command na ito sa isang Top-20 Sofi Server, ang iyong `Daily` Reward ay tumaas ng x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

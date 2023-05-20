@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "Tanggalin ang tag",
+    "TD_DESCRIPTION": "Tatanggal ng \"Tag\"",
     "TD_CATEGORY": "Mga Tag",
-    "WRONG_USAGE": "Paggamit: `sdt <tagname>`",
-    "TAG_NOT_FOUND": "Ang tag na iyon ay hindi nasa iyong listahan ng mga tag",
-    "SUCCESSFUL_DELETE_TAG": "Natanggal ang Tag {{tag}}"
+    "WRONG_USAGE": "{{author}} Wastong paggamit: `sdt <TagName>`",
+    "TAG_NOT_FOUND": "{{author}} Wala kang tag na may ganyang pangalan",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} Natanggal ang Tag na {{tag}}"
 }
