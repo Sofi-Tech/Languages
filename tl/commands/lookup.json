@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Tingnan ang mga bersyon/3d/GIF ng mga karakters",
     "CHAR_NOT_FOUND": "Hindi mahanap ang karakter",
-    "CHAR_NF_SENSITIVE": "Walang natagpuang karakter, ito ay case sensitive na paghahanap",
+    "CHAR_NF_SENSITIVE": "Walang natagpuang na kahit anong karakter. [The `lookup` function is case sensitive!]",
     "EMBED_TITLE": "__Pagtutugma ng mga karacter __",
     "SUBMITTED": "Inisumite ni: <@{{userID}}>",
-    "EMBED_FOOTER": "Hanapin ang v1 gamit ang scl | Magsumite ng mga bersyon gamit ang ssc",
+    "EMBED_FOOTER": "Hanapin ang `Version`1 gamit ang `scl`| Maaari ring magsumite ng bagong `Version`gamit ang ssc",
     "VERSION_DISP": "Pinakita ang `Version` {{version}} ng card",
     "MORE": "Dagdag na Impormasyon",
     "3D_DESC": "Ipinakita ang 3D na bersyon ng karakter na ito",

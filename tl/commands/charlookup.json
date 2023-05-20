@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "- Maaaring mahanap ang isang tiyak na character gamit ang \"scl\" command. Sa character lookup menu, maaaring tingnan ang mga estadistika ng baraha, ang kanilang Bersyon/3D /GIF variant, pati na rin ang ranko para sa Gen/Fan at pati ang kanilang \"Card ID\".\n-Ang \"Card ID\" ay kinakailangan kapag mag susubmit ng mga imahe para sa bagong \"Bersyon\".",
+    "DESCRIPTION": "- Maaaring mahanap ang isang tiyak na character gamit ang \"scl\" command. Sa character lookup menu, maaaring tingnan ang mga estadistika ng baraha, ang kanilang Bersyon/3D /GIF variant, pati na rin ang ranko para sa Gen/Fan at pati ang kanilang \"Card ID\".\n-Ang \"Card ID\" ay kinakailangan kapag mag susubmit ng mga imahe para sa bagong \"Bersyon\"",
     "CHAR_NOT_FOUND": "Hindi mahanap ang karakter",
-    "CHAR_NF_SENSITIVE": "Walang mahanap na character, ito ay may sensitivity sa kaso",
+    "CHAR_NF_SENSITIVE": "Walang natagpuang na kahit anong karakter. [The `lookup` function is case sensitive!]",
     "EMBED_TITLE": "__Pagtutugma ng mga karacter __",
     "NORMAL_LABEL": "Iba't ibang bersyon",
     "FAN_PTS_LABEL": "Magdagdag ng mga Fan Points",

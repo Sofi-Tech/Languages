@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "Supprime un tag",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `sdt <TagName>`",
-    "TAG_NOT_FOUND": "{{author}} Vous n'avez aucun tag avec ce nom",
+    "WRONG_USAGE": "{{author}} Utilisation correcte: `sdt <NomDuTag>`",
+    "TAG_NOT_FOUND": "{{author}} Vous n'avez aucun `Tag` avec ce nom",
     "SUCCESSFUL_DELETE_TAG": "{{author}} A supprimé le `Tag` \"{{tag}}\""
 }

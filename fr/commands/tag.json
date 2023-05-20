@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Met vos \"Tags\" sur vos cartes",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Veuillez fournir un nom de tag",
+    "WRONG_USAGE": "{{author}} Veuillez fournir un nom de `Tag`",
     "NO_TAGS_CREATED": "{{author}} Vous n'avez encore aucun `Tags`. Vous pouvez en crées avec la commande `stc <NomDuTag> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Vous n'avez aucun `Tag` avec le nom `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Vous n'avez aucunes cartes a `Tag`",
