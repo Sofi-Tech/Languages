@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "- Você pode pesquisar por um personagem específico usando o comando 'scl'. No menu de pesquisa de personagem, você pode verificar as estatísticas da carta, a sua variante 3D/GIF, assim como a tabela de líderes por gen, tabela de fãs e o `Card ID`.\n- O `Card ID` é necessário ao submeter imagens para novas versões.",
-    "CHAR_NOT_FOUND": "Personagem não encontrado",
-    "CHAR_NF_SENSITIVE": "Nenhum personagem encontrado. [A função `lookup` é sensivel a maiúsculas e minúsculas!]",
-    "EMBED_TITLE": "__Pesquisa de Personagens__",
+    "CHAR_NOT_FOUND": "Não foi possível encontrar o personagem que você está procurando",
+    "CHAR_NF_SENSITIVE": "Não foi possível encontrar nenhum personagem. [A função `lookup` é sensível a maiúsculas e minúsculas!]",
+    "EMBED_TITLE": "__Personagens Correspondentes__",
     "NORMAL_LABEL": "Variante normal",
     "FAN_PTS_LABEL": "Adicionar pontos de fã",
     "NORMAL_DESC": "Mostra a variante original da carta",

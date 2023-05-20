@@ -1,9 +1,9 @@
 {
     "TL_DESCRIPTION": "Nagpapakita ng listahan ng iyong mga \"Tags\"",
     "TL_CATEGORY": "Mga Tag",
-    "NO_USER": "Ang user ay hindi umiiral.",
-    "NO_TAGS": "{{author}} Walang mga tag ang nakita",
+    "NO_USER": "{{author}} Ang user na iyan ay hindi nakarehistro",
+    "NO_TAGS": "{{author}} Walang tag na makita",
     "EMBED_TITLE": "Listahan ng Tag: {{username}}",
-    "SOFI_FACT": "Katotohanan tungkol kay Sofi: Lumikha ng tag gamit ang stc lock 🔒\nAng mga nakalock na card ay hindi pwedeng masunog, ipamigay, itrade\no i-massburnt",
+    "SOFI_FACT": "Ang mga card na nasa \"Tags\" na merong kandadong emoji \"🔒\" ay hindi pwedeng sunugin o ipag-palit!\nHalimbawa: \"stc lock 🔒\"",
     "EMBED_FOOTER": "Bilang ng mga Tags: {{count}}"
 }

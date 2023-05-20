@@ -1,19 +1,19 @@
 {
     "DESCRIPTION": "Ipakita ang iyong listahan ng ninanais na baraha",
     "CATEGORY": "Listahan ng Ninanais",
-    "USER_NOT_FOUND": "Hindi nahanap ang user",
+    "USER_NOT_FOUND": "Hindi mahanap ang user",
     "WISHLIST_PRIVATE": "> Ang listahan ng ninanais ng user na ito ay pribado",
     "WISHLIST_EMPTY": "> Ang listahan ng ninanais ni {{username}} ay walang laman tulad ng aking puso 💔",
     "WISHLIST_EMBED_TITLE": "Ang wishlist ni {{username}} [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Gamitin ang `{{prefix}}wu` o `{{prefix}}wu max` upang madagdagan ng slots ang iyong listahan ng ninanais | Pahina: {{page}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Gamitin ang `{{prefix}}wu` o `{{prefix}}wu max` upang madagdagan ang pahina ng iyong wishlist : {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Kopyahin ang Mga Code",
     "COPY_CODES_MENU_LABEL": "Kopyahin ang Lahat ng Mga Code",
-    "COPY_CODES_MENU_DESCRIPTION": "Ipadala ang lahat ng mga code bilang text message",
+    "COPY_CODES_MENU_DESCRIPTION": "Ilagay ang lahat ng codes sa isang text message",
     "BACK_MENU_LABEL": "Bumalik",
     "BACK_MENU_DESCRIPTION": "Bumalik sa pahina ng listahan ng ninanais",
     "CARD_MENU_DESCRIPTION": "Kopyahin ang mga code ni {{name}}",
     "COPY_CODES_MENU_PLACEHOLDER": "Kopyahin ang Mga Code",
     "CODES_COPIED": "Nakopya",
-    "ALL_CARD_CODES": "Ito ang mga kard code",
+    "ALL_CARD_CODES": "Ito ang mga card codes:\n",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: Mga Code ng Wishlist"
 }

@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Exibe versão/3D/variantes GIF de um personagem",
-    "CHAR_NOT_FOUND": "Não foi possível encontrar o personagem",
-    "CHAR_NF_SENSITIVE": "Nenhum personagem encontrado. [A função `lookup` é sensivel a maiúsculas e minúsculas!]",
-    "EMBED_TITLE": "__Pesquisa de Personagens__",
+    "CHAR_NOT_FOUND": "Não foi possível encontrar o personagem que você está procurando",
+    "CHAR_NF_SENSITIVE": "Não foi possível encontrar nenhum personagem. [A função `lookup` é sensível a maiúsculas e minúsculas!]",
+    "EMBED_TITLE": "__Personagens Correspondentes__",
     "SUBMITTED": "Enviado por: <@{{userID}}>",
     "EMBED_FOOTER": "Encontre a versão v1 usando o comando `scl` | Envie versões usando `ssc`",
     "VERSION_DISP": "Exibe a versão {{version}} da carta",
