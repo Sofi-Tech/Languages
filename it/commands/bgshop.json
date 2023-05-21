@@ -4,5 +4,7 @@
     "BGS_SLASH_DESC": "Inserisci il codice dello \"Background\" che stai cercando",
     "VIEW_BACKGROUNDS": "Clicca qui per vedere tutto `Backgrounds`",
     "EMBED_TITLE": "SOFI 3D BACKGROUNDS:",
-    "APPLY_BG": "Per applicare uno `Background` utilizzare il comando `sbg <code> <bgID>`"
+    "APPLY_BG": "Per applicare uno `Background` utilizzare il comando `sbg <code> <bgID>`",
+    "SHOWING_PAGE": "Pagina visualizzata: {{page}}/{{pages}}",
+    "NO_BG_FOUND": "Questo non è un ID `background` valido"
 }
