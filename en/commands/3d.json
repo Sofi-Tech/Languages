@@ -1,7 +1,7 @@
 {
     "3D_DESCRIPTION": "Converts your card into their 3D variant",
     "3D_CATEGORY": "Cosmetics",
-    "INVALID_CARD_CODE": "{{author}} That card code is invalid",
+    "INVALID_CARD_CODE": "{{author}} The card code you provided is invalid",
     "NO_GIF_CONVERSION": "{{author}} GIF cards cannot be converted into 3D variants",
     "CARD_3D_ALREADY": "{{author}} That card already is in its 3D state",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Event cards cannot be converted into a 3D variant",
