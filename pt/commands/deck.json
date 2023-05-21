@@ -11,7 +11,7 @@
     "ENTER_CODES": "Insira os códigos das cartas",
     "MODAL_TITLE": "Definir Baralho",
     "MISSING_CODES": "> São necessários pelo menos 3 códigos de cartas",
-    "INVALID_CODE": "> Código de carta fornecido é inválido",
+    "INVALID_CODE": "{{author}}Você colocou um código de carta inválido",
     "CODE_REPEAT": "> Os códigos das cartas não devem ser repetidos",
     "MOVES_UNIQUE": "Todos as habilidades do baralho devem ser **únicas**! Selecione cartas diferentes ou mude suas habilidades para continuar",
     "SAVE_DECK": "Clique em salvar para definir este baralho",
