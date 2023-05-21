@@ -2,7 +2,7 @@
     "BG_CATEGORY": "Cosméticos",
     "BG_DESCRIPTION": "Aplica un \"Background\" a tu carta 3D",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}bg <CódigoDeCarta> <IDDeBackground>",
-    "INVALID_CODE": "{{author}} Has proporcionado un código de carta inválido",
+    "INVALID_CODE": "{{author}} > Código de carta inválido",
     "APPLY_GIF_CARDS": "{{author}} No puedes aplicar `Backgrounds` a cartas que no sean 3D",
     "APPLY_3D_CARDS": "{{author}} No puedes aplicar `Backgrounds` a cartas que no sean 3D",
     "EMBED_TITLE": "Aplicar `Background`:",
