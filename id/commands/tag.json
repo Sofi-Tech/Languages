@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} Anda belum memiliki `Tags`. Anda bisa membuatnya dengan `stc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki `Tag` dengan nama `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Anda tidak memiliki kartu apapun untuk di `Tag`",
-    "INVALID_CARD_CODE": "{{author}} Kode kartu tidak valid",
+    "INVALID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid",
     "SUCCESSFUL_TAG": "{{author}} | Berhasil memberi tag pada **{{card}}** sebagai `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Kartu-kartu tersebut berhasil di `Tag`"
 }
