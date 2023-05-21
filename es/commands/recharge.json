@@ -10,6 +10,6 @@
     "EMBED_TITLE": "SOFI: RECARGA DE GLOW",
     "ARE_YOU_SURE": "Estás seguro?",
     "CANCEL_RECHARGE": "El proceso fue cancelado",
-    "RECHARGE_CONFIRMATION": "Estás a punto de recargar:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCódigo: `{{ glowCode}}`\nCosto: **${cost}** <:recharge_sofi:926846363537387530>",
+    "RECHARGE_CONFIRMATION": "Estás a punto de recargar:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCódigo: `{{ glowCode}}`\nCosto: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "SUCCESSFUL_RECHARGE": "Tu `Glow` fue recargado con éxito!"
 }
