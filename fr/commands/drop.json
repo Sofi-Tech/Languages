@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "- Cette commande fera drop 3 cartes et elle peut être toutes les 8 minutes.\n- Utilisez la commande \"sdn\" pour drop des cartes sans images. Utile lorsque vous êtes à court de données ou que vous ne voulez pas de lag.",
     "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} *Votre **Extra Drop** a été utiliser. Il vous reste`{{remaining}}`Extra Drop.",
+    "EXTRA_DROP_ALERT": "{{author}} *Votre **Extra Drop** a été utiliser. Il vous en reste`{{remaining}}`.",
     "ON_CD": "{{author}} Votre `Drop` sera prêt dans {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nVous pouvez également effectuer un `Vote` pour recevoir des `Wists`et pour acheter des `Drops` avec ces derniers\nUtilisez la commande `sbuy drop <quantité>` pour le faire"
+    "BUY_DROP": "\nVous pouvez également effectuer un `Vote` pour recevoir des `Wists` et pour acheter des `Drops` avec ces derniers\nUtilisez la commande `sbuy drop <quantité>` pour le faire"
 }
