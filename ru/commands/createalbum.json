@@ -1,6 +1,6 @@
 {
     "CREATE_ALBUM_DESCRIPTION": "Создайте основу для \"Album\"",
-    "CREATE_ALBUM_CATEGORY": "Альбом",
+    "CREATE_ALBUM_CATEGORY": "Album",
     "CREATE_ALBUM_SLASH_DESC": "Введите название вашего \"Album\"",
     "PROVIDE_ALBUM_NAME": "{{author}} Укажите название `Album`",
     "ALBUM_NAME_ERROR": "Название вашего альбома должно быть буквенно-цифровым и не может содержать следующее:\n- Специальные символы\n- Пробелы\n- Заглавные буквы",

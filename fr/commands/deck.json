@@ -11,7 +11,7 @@
     "ENTER_CODES": "Entrez les codes de cartes",
     "MODAL_TITLE": "Définir le jeu de cartes",
     "MISSING_CODES": "> Au moins 3 codes de carte sont nécessaires",
-    "INVALID_CODE": "> Code de carte fourni invalide",
+    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide",
     "CODE_REPEAT": "> Les codes de cartes ne doivent pas se répéter",
     "MOVES_UNIQUE": "Toutes les compétences du jeu de cartes doivent être **unique**! Sélectionnez des cartes différentes ou changer leurs compétences pour continuer",
     "SAVE_DECK": "Cliquez sur Enregistrer pour définir ce jeu de cartes",
