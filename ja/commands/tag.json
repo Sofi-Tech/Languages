@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "タグの作成をお願いします。`stc` コマンドを使用してタグを作成してください。",
     "TAG_NOT_FOUND": "名前が `{{tag}}` のタグが見つかりません。",
     "NO_CARDS_CLAIMED": "まだクレームされたカードはありません。",
-    "INVALID_CARD_CODE": "{{author}} 無効なカードコードまたはカードが見つかりません。",
+    "INVALID_CARD_CODE": "{{author}} あなたが提供したカードコードは無効です",
     "SUCCESSFUL_TAG": "{{author}}  `{{tag}}` として {{card}} を正常にタグ付けしました。",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} これらのカードのタグ付けが正常に完了しました。"
 }
