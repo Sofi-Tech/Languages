@@ -2,7 +2,7 @@
     "DESCRIPTION": "ウィッシュリストのリーダーボードを表示します",
     "CATEGORY": "ウィッシュリスト",
     "EMBED_TITLE": "ウィッシュリストリーダーボード - {{type}}",
-    "EMBED_FOOTER": "ページを表示{{page}}/{{totalpages}}",
+    "EMBED_FOOTER": "ページを表示：{{page}} / {{pages}}",
     "CHARACTER_BUTTON_LABEL": "キャラクター",
     "SERIES_BUTTON_LABEL": "シリーズ"
 }

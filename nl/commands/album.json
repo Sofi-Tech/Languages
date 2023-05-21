@@ -4,7 +4,7 @@
     "ALBUM_SLASH_DESC": "Voer de gebruiker in van wie je de `Albums` wilt zien.",
     "ALBUM_SLASH_DESC2": "Specificeer de naam van het \"Album\" dat u zoekt",
     "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden!",
-    "PLAYER_NOT_EXIST": "{{author}} | Die speler bestaat niet.",
+    "PLAYER_NOT_EXIST": "{{author}} | Deze speler bestaat niet",
     "ALBUM_NOT_FOUND": "Geen albums gevonden voor {{username}}",
     "NO_ALBUMS": "{{member}} heeft momenteel geen album\nGebruik het commando `sca` om een album aan te maken\nGebruik `sacf <album> <page>` om te configureren",
     "ALBUM_NAME_NOT_FOUND": "{{author}} kan het album met de naam `{{albumName}}` niet vinden",

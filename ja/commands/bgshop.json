@@ -1,1 +1,10 @@
-{}
+{
+    "BGS_DESCRIPTION": "3Dの背景を表示します",
+    "BGS_CATEGORY": "化粧品",
+    "BGS_SLASH_DESC": "探している背景のコードを入力してください",
+    "EMBED_TITLE": "ソフィー3D背景：",
+    "APPLY_BG": "背景を適用するには、コマンド`sbg <code> <bgID>`を使用します",
+    "VIEW_BACKGROUNDS": "すべての背景を表示するには、ここをクリックしてください",
+    "SHOWING_PAGE": "ページを表示：{{page}} / {{pages}}",
+    "NO_BG_FOUND": "背景は見つかりません"
+}

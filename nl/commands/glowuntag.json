@@ -4,5 +4,5 @@
     "NO_GLOWS_FOUND": "{{author}} U hebt momenteel geen `Glows`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes beginnen altijd met een **#**",
     "INVALID_GLOWCODE": "{{author}} De opgegeven `Glow`codes zijn ongeldig",
-    "GLOW_UNTAG_SUCCESSFULL": "Succesvol ${ {glow}} ongetagged"
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Succesvol onttagd {{glow}}"
 }
