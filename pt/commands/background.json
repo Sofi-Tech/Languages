@@ -1,1 +1,7 @@
-{}
+{
+    "WRONG_USAGE": "{{author}} Modo correto de usar: `{{prefix}}bg <CódigoDaCarta> <IDdoBackground>`",
+    "BG_DESCRIPTION": "Aplica um \"Background\" para suas cartas em 3D",
+    "BG_CATEGORY": "Cosméticos",
+    "INVALID_CODE": "{{author}} Você colocou um código de carta inválido",
+    "BG_NOT_FOUND": "Não foi encontrado nenhum `Background` com essa ID"
+}
