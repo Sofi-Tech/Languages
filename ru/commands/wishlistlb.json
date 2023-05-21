@@ -2,7 +2,7 @@
     "DESCRIPTION": "Отображает список лидеров списка желаний",
     "CATEGORY": "Список желаний",
     "EMBED_TITLE": "ТАБЛИЦА ЛИДЕРОВ ИЗБРАННОГО - {{type}}",
-    "EMBED_FOOTER": "Показана страница {{page}}/{{totalPages}}",
+    "EMBED_FOOTER": "Показаны страницы: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Персонажи",
     "SERIES_BUTTON_LABEL": "Серии"
 }

@@ -4,5 +4,5 @@
     "NO_INDEX": "Er werd geen naam of nummer opgegeven! Om uw hele verlanglijst te wissen, gebruik het commando `swr full reset`",
     "FULL_RESET": "> {{author}} U heeft **__{{total}}__** karakters van uw verlanglijst verwijderd",
     "REMOVE_CHARACTER": "> {{author}} U heeft **{{name}}** van uw verlanglijst verwijderd",
-    "NO_RESULTS": "> {{author}} geen resultaten gevonden voor {{name}}"
+    "NO_RESULTS": "> {{author}} geen resultaten gevonden voor **\"{{name}}\"**"
 }

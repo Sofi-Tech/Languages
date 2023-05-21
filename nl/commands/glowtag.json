@@ -3,7 +3,7 @@
     "GT_CATEGORY": "Tags",
     "GLOWTAGS_NOT_FOUND": "{{author}} U hebt nog geen `Glow Tags`. U kunt ze aanmaken met het commando `sgtc <Naam> <Emoji>`.",
     "GLOWS_NOT_UNLOCKED": "{{author}} U heeft nog geen `Glows`",
-    "MISSING_GLOWTAG": "{{author}}, ik denk dat je een gloeitag moet opgeven",
+    "MISSING_GLOWTAG": "{{author}}, U moet een `Glow Tag` opgeven",
     "INVALID_GLOW_CODE": "{{author}}, Ongeldige gloeicode of geen gloed gevonden",
     "SUCCESSFULL_GLOWTAG": "{{author}}, **{{glow}}** succesvol gemarkeerd als {{tag}}",
     "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}, Die glows zijn succesvol gemarkeerd"

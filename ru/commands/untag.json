@@ -2,6 +2,6 @@
     "UT_DESCRIPTION": "Удаляет \"Tags\" с ваших карт",
     "UT_CATEGORY": "Метки",
     "INVALID_CODE": "У вас нет карт в инвентаре",
-    "UNTAG_SUCCESSFULL": "**{{cardName}}** была успешно удалена",
+    "UNTAG_SUCCESSFULL": "**{{cardName}}** успешно удалён тег",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

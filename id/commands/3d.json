@@ -1,1 +1,18 @@
-{}
+{
+    "INVALID_CARD_CODE": "{{author}} Kode kartu tersebut tidak valid",
+    "3D_CATEGORY": "Cosmetic",
+    "NO_GIF_CONVERSION": "{{author}} Kartu GIF tidak dapat dikonversi ke dalam varian 3D",
+    "CARD_3D_ALREADY": "{{author}} Kartu tersebut sudah dalam keadaan 3D",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Kartu event tidak dapat diubah menjadi varian 3D",
+    "NO_3D_VERSION": "{{author}} Karakter tersebut saat ini tidak memiliki varian 3D",
+    "EMBED_TITLE": "SOFI: 3D",
+    "EVENT_3D_NOTE": "Anda bisa mendapatkan varian 3D \"Event\" selama event aktif",
+    "CARD_ALREADY_3D": "{{author}} Kartu tersebut sudah dalam keadaan 3D",
+    "NO_CUBES": "Anda tidak memiliki cukup `Cubes`",
+    "UPGRADED_3D": "Kartu Anda telah berhasil dikonversi ke dalam varian 3D",
+    "UPGRADE_3D_CANCEL": "Proses konversi telah dibatalkan",
+    "HALLOWEEN_3D_FAILED": "Hantu Halloween telah memenuhi kartu Anda! Proses konversi telah gagal!",
+    "ALL_3D_NOTE": "Anda bisa mendapatkan varian 3D \"Event\" selama event aktif",
+    "3D_DESCRIPTION": "Mengonversi kartu Anda ke dalam varian 3D",
+    "3D_NOTE": "Anda akan mengubah kartu ini menjadi varian 3D. Proses ini akan mengubah kartu Anda secara permanen dan tidak dapat dikembalikan. Mengonversi kartu ini juga akan reroll \"Gen\" nya, dengan \"Gen\" yang lebih rendah lebih mungkin untuk mempertahankan \"Gen\" yang lebih rendah. Hapus Frame kartu sebelum mengonversinya, jika tidak, Anda akan kehilangan \"Frame\" yang diterapkan"
+}

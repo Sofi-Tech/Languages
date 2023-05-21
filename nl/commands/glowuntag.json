@@ -3,6 +3,6 @@
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "{{author}} U hebt momenteel geen `Glows`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes beginnen altijd met een **#**",
-    "INVALID_GLOWCODE": "Ongeldige Glow-code of geen gloed gevonden",
+    "INVALID_GLOWCODE": "{{author}} De opgegeven `Glow`codes zijn ongeldig",
     "GLOW_UNTAG_SUCCESSFULL": "Succesvol ${ {glow}} ongetagged"
 }

@@ -4,5 +4,12 @@
     "UNLOCK_GLOWS": "{{author}} Wala ka pang `Glows`",
     "NO_GLOWCDE": "{{author}} Kailangan mong magbigay ng `Glow` code",
     "INVALID_DC_MOVIES": "{{author}} ang codes ng `Glow` ay laging naguumpisa sa **#**",
-    "GLOW_NOT_FOUND": "{{author}} Ang nilagay mo na `Glow` code ay invalid"
+    "GLOW_NOT_FOUND": "{{author}} Ang nilagay mo na `Glow` code ay invalid",
+    "GLOW_AVAILABLE": "{{author}} Ang `Glow`na yan ay may charge na",
+    "RECHARGE_CONFIRMATION": "Ikaw ay mag rerecharge na:\n\n{{name}}{{superglow}}? `(Super)`: \"}**\nCode: `{{ glowCode}}`\nCost:**${cost}**<:recharge_sofi:926846363537387530>",
+    "EMBED_TITLE": "SOFI: GLOW RECHARGE",
+    "ARE_YOU_SURE": "Sigurado ka ba?",
+    "CANCEL_RECHARGE": "Ang proseso ay nakansela",
+    "NO_MONEY": "Hindi wasto ang bilang ng iyong `Recharges`! Bumili ka at ulitin mo ulit",
+    "SUCCESSFUL_RECHARGE": "Ang `Glow`mo ay matagumpay na icharge!"
 }

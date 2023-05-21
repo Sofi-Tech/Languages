@@ -3,6 +3,6 @@
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "Correct gebruik: `sgtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Dat is geen geldige emoji",
-    "GLOWTAG_ALREADY_EXISTS": "{{auteur}} ** glow-tag met die naam bestaat al",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} ** een `Glow Tag` met die naam bestaat al",
     "CREATED_GLOWTAG": "{{auteur}} **Glow-tag aangemaakt met naam:** `{{tag}}` | {{emoji}}"
 }

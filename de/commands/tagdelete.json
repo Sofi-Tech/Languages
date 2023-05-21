@@ -2,6 +2,6 @@
     "TD_DESCRIPTION": "Lösche den Tag",
     "TD_CATEGORY": "Tags",
     "WRONG_USAGE": "Korrekte Verwendung: `sdt <tagname>`",
-    "TAG_NOT_FOUND": "Du hast noch keinen Tag für diesem Namen.",
-    "SUCCESSFUL_DELETE_TAG": "Tag {{tag}} wurde gelöscht"
+    "TAG_NOT_FOUND": "{{author}} Du hast kein „Tag“ mit diesem Namen",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} hat das `Tag` „{{tag}}“ gelöscht"
 }
