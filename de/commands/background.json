@@ -1,1 +1,6 @@
-{}
+{
+    "APPLY_GIF_CARDS": "{{author}} Du kannst „Hintergründe“ nicht auf Nicht-3D-Karten anwenden",
+    "BG_DESCRIPTION": "Wendet einen „Hintergrund“ auf deine 3D-Karten an",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}bg <CardCode> <BackgroundID>`",
+    "INVALID_CODE": "{{author}} Du hast einen ungültigen Kartencode angegeben"
+}
