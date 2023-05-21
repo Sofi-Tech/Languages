@@ -4,5 +4,12 @@
     "NO_GLOWCDE": "{{author}} Bir `Glow` kodu sağlamanız gerekiyor",
     "INVALID_DC_MOVIES": "{{author}}`Glow` kodları her zaman **#** ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız `Glow` kodu geçersiz",
-    "RG_DESCRIPTION": "Boş bir \"Glow\"u şarj eder"
+    "RG_DESCRIPTION": "Boş bir \"Glow\"u şarj eder",
+    "NO_MONEY": "Yeterli `Recharges`ınız yok! Satın alıp tekrar deneyin",
+    "GLOW_AVAILABLE": "{{author}} Bu `Glow`un yükü zaten dolu",
+    "EMBED_TITLE": "SOFI: GLOW RECHARGE",
+    "CANCEL_RECHARGE": "İşlem iptal edildi",
+    "ARE_YOU_SURE": "Emin misiniz?",
+    "SUCCESSFUL_RECHARGE": "`Glow`unuz başarıyla şarj edildi!",
+    "RECHARGE_CONFIRMATION": "Şarj etmek üzeresiniz:\n\n{{name}}{{superglow}}? ' (Super)' : ''}**\nKod: `{{ glowCode}}`\nMaliyet: **${cost}** <:recharge_sofi:926846363537387530>"
 }

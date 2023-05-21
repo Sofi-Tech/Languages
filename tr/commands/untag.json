@@ -2,6 +2,6 @@
     "UT_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
     "UT_CATEGORY": "Etiketler",
     "INVALID_CODE": "Envanterinizde hiç kart yok",
-    "UNTAG_SUCCESSFULL": "**{{cardName}}** etiketi başarıyla kaldırıldı",
+    "UNTAG_SUCCESSFULL": "**{{cardName}}**'karakterinin `Tag`ı başarıyla kaldırıldı",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

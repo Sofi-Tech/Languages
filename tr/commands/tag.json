@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Karltarınıza \"Tags\" kolar",
     "TAG_CATEGORY": "Etiketler",
-    "WRONG_USAGE": "{{author}} Lütfen bir etiket adı girin",
+    "WRONG_USAGE": "{{author}} Lütfen bir `Tag` adı girin",
     "NO_TAGS_CREATED": "{{author}} Henüz hiç Tags`ınız yok. Bunları `stc <TagName> <Emoji>`komutuyla oluşturabilirsiniz",
     "TAG_NOT_FOUND": "{{author}}`{{tag}}` adında herhangi bir `Tag`ınız yok",
     "NO_CARDS_CLAIMED": "{{author}} `Tag`lamak için kartınız yok",

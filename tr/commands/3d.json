@@ -6,5 +6,13 @@
     "NO_GIF_CONVERSION": "{{author}} GIF kartları, 3D varyantlara dönüştürülemez",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Etkinlik kartları, bir 3D değişkene dönüştürülemez",
     "NO_3D_VERSION": "{{author}} Bu karakterin şu anda bir 3D varyantı yok",
-    "EMBED_TITLE": "SOFI; 3D"
+    "EMBED_TITLE": "SOFI; 3D",
+    "EVENT_3D_NOTE": "Aktif etkinlikler sırasında \"Event\" 3D varyantlarını elde edebilirsiniz",
+    "CARD_ALREADY_3D": "{{author}} Bu kart zaten 3D durumunda",
+    "NO_CUBES": "Yeterli `Cubes`ünüz yok",
+    "ALL_3D_NOTE": "Aktif etkinlikler sırasında \"Event\" 3D varyantlarını elde edebilirsiniz",
+    "HALLOWEEN_3D_FAILED": "Bir Cadılar Bayramı Hayaleti kartınızı istila etti! Dönüştürme işlemi başarısız oldu!",
+    "UPGRADED_3D": "Kartınız başarıyla 3D varyantına dönüştürüldü",
+    "UPGRADE_3D_CANCEL": "Dönüştürme işlemi iptal edildi",
+    "3D_NOTE": "Bu kartı 3D varyantına dönüştürmek üzeresiniz. Bu işlem, kartınızı kalıcı olarak değiştirecek ve geri alınamaz. Bu kartın dönüştürülmesi aynı zamanda \"Gen\"ini yeniden düzenler. Bu kartın dönüştürülmesi aynı zamanda \"Gen\"ini daha düşük \"Gens\" ile yeniden düzenler. daha düşük bir \"Gen\" tutma olasılığı daha yüksektir.. Dönüştürmeden önce bir kart çerçevesini kaldırın, aksi takdirde uygulanan herhangi bir \"Frame\"i kaybedersiniz"
 }

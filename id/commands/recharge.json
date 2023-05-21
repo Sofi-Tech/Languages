@@ -1,4 +1,15 @@
 {
     "RG_DESCRIPTION": "Mengisi ulang \"Glow\" yang kosong",
-    "RG_CATEGORY": "Menampilkan \"Toko Background\""
+    "RG_CATEGORY": "Menampilkan \"Toko Background\"",
+    "NO_GLOWCDE": "{{author}} Anda perlu memberikan `Glow`kode",
+    "INVALID_DC_MOVIES": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
+    "GLOW_AVAILABLE": "{{author}} `Glow` itu sudah terisi",
+    "EMBED_TITLE": "SOFI: PENGISI ULANG GLOW",
+    "SUCCESSFUL_RECHARGE": "`Glow` Anda berhasil diisi ulang!",
+    "CANCEL_RECHARGE": "Proses telah dibatalkan",
+    "NO_MONEY": "Anda tidak memiliki cukup `Recharge`! Beli beberapa dan coba lagi",
+    "RECHARGE_CONFIRMATION": "Anda akan mengisi ulang daya:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nKode: `{{ glowCode}}`\nBiaya: **${cost}** <:recharge_sofi:926846363537387530>",
+    "ARE_YOU_SURE": "Apakah Anda yakin?",
+    "UNLOCK_GLOWS": "{{author}} Anda belum memiliki `Glows`",
+    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang Anda berikan tidak valid"
 }

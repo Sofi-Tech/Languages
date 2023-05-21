@@ -2,7 +2,7 @@
     "DESCRIPTION": "İstek listesi liderlik tablosunu görüntüleyin",
     "CATEGORY": "İstek listesi",
     "EMBED_TITLE": "TAKIM LİSTESİ - {{type}}",
-    "EMBED_FOOTER": "{{totalPages}} Sayfalardan {{page}}. sayfası gösteriyor",
+    "EMBED_FOOTER": "Gösterilen sayfa: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Karakterler",
     "SERIES_BUTTON_LABEL": "Diziler"
 }
