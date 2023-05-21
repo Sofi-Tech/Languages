@@ -6,7 +6,7 @@
     "BUTTON_NAME_LABEL": "Ad",
     "BUTTON_EMOJI_LABEL": "Emoji",
     "EMBED_TITLE": "Etiketi Güncelle",
-    "EMBED_DESCRIPTION": "Aşağıdaki `Tag`ınızın hangi bölümünü güncellemek istersiniz: \"{{tagName}}\"?",
+    "EMBED_DESCRIPTION": "`Tag`ınızın aşağıdaki hangi bölümünü güncellemek istersiniz: \"{{tagName}}\"?",
     "EMBED_FOOTER": "Devam etmek için aşağıdaki düğmeleri kullanın",
     "REPLACE_NAME": "`{{tagName}}` yerine geçecek yeni bir ad girin",
     "TAGNAME_EXISTS": "{{author}} Zaten `{{newTagName}}` adında bir `Tag`ınız var. Lütfen farklı bir ad seçin ve tekrar deneyin",

@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Vous pouvez afficher votre collection de cartes en utilisant la commande \"sc\"\n- Votre collection peut être triées par Nom, Cosmétiques, Stats et bien plus!\n- Cela peut être également filtré par \"Nombre de souhaits\", \"Gen\" ou nom de \"Tag\"\n-Utilisez la commande \"sc t:ut\" pour afficher toute les cartes sans tag dans votre collection",
-    "SLASH_CMD_DESC": "Affichez votre collection de carte",
+    "DESCRIPTION": "Vous pouvez afficher votre collection de cartes en utilisant la commande \"sc\"\n- Votre collection peut être triées par Nom, Cosmétiques, Stats et bien plus!\n- Cela peut être également filtré par \"Nombre de souhaits\", \"Gen\" ou nom de \"Tag\"\n- Utilisez la commande \"sc t:ut\" pour afficher toute les cartes sans tag dans votre collection",
+    "SLASH_CMD_DESC": "Affichez votre collection de cartes",
     "SLASH_DESC": "Mentionnez un utilisateur dont vous voulez voir la collection",
     "SLASH_DESC2": "Entrez les filtres que vous voulez appliquer à la collection",
     "PLAYER_NOT_EXIST": "{{author}} Cet utilisateur n'existe pas",
@@ -13,16 +13,16 @@
     "SORT_SERIES": "Trier Par Nom De Série",
     "SORT_GEN": "Trier par Gen",
     "SORT_WL": "Trier par Nombre de Souhaits",
-    "CHECK_COSMETICS": "Consulter les Cosmétiques",
-    "3D_AVAIL": "Disponibilité 3D",
-    "SORT_ATK": "Trier par Attaque",
-    "SORT_DEF": "Trier par Défense",
-    "SORT_SPEED": "Trier par Vitesse",
-    "SORT_HP": "Trier par PV",
-    "SORT_DUPE": "Trier par Doublons",
+    "CHECK_COSMETICS": "Consulter Les Cosmétiques",
+    "3D_AVAIL": "3D Disponible",
+    "SORT_ATK": "Trier Par Attaque",
+    "SORT_DEF": "Trier Par Défense",
+    "SORT_SPEED": "Trier Par Vitesse",
+    "SORT_HP": "Trier Par PV",
+    "SORT_DUPE": "Trier Par Doublons",
     "SHOWING PAGE": "Page affichée: {{page}}/{{pages}}",
     "ALL_UNTAG_SUCCESS": "Les cartes {{taglength}} ont été untag avec succès",
     "ALL_TAG_SUCCESS": "{{author}} Toutes les cartes {{taglength}} ont été tag avec succès",
     "PLEASE_WAIT": "Veuillez Patienter <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Vous n'avez aucun `Tags` pour le moment. Vous pouvez crée un `Tags` avec la commande `stc <TagName> <Emoji>`"
+    "NO_TAG_FOUND": "Vous n'avez aucun `Tags` pour le moment. Vous pouvez en crée un `Tags` avec la commande `stc <TagName> <Emoji>`"
 }
