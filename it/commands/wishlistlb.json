@@ -2,7 +2,7 @@
     "DESCRIPTION": "Visualizza la classifica della lista dei desideri",
     "CATEGORY": "Lista dei desideri",
     "EMBED_TITLE": "CLASSIFICA DESIDERI - {{type}}",
-    "EMBED_FOOTER": "Mostrando Pagina {{page}}/{{totalPages}}",
+    "EMBED_FOOTER": "Pagina visualizzata: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Personaggi",
     "SERIES_BUTTON_LABEL": "Serie"
 }
