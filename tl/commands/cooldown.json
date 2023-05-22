@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Ipapakita ang cooldown para sa mga sumusunod na gawain:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- I-klik ang icon na kampana upang makatanggap ng mga paalala sa pamamagitan ng Direktang Mensahe para sa \"Drop\", \"Vote\", at \"Daily\"!",
-    "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong](https://discord.gg/sofi)",
+    "DESCRIPTION": "Ipapakita ang cooldown para sa mga sumusunod na gawain:\n- Drop, Grab, Vote, Raid, Daily, Bump\n-Pindutin ang icon na kampana upang makatanggap ng mga paalala sa pamamagitan ng Direktang Mensahe para sa \"Drop\", \"Vote\", at \"Daily\"!",
+    "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong!](https://discord.gg/sofi)",
     "DROP": "Maglapag",
-    "GRAB": "Humawak",
+    "GRAB": "Kumuha",
     "VOTE": "Boto",
     "BUMP": "Bump",
-    "DAILY": "Araw-araw",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` ang hindi pa nababasang mga sulat | Gamitin ang `{{customPrefix}}mail` para basahin!"
+    "DAILY": "Pang araw-araw",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` hindi pa nababasang mga sulat | I-type ang `{{customPrefix}}mail` para basahin!"
 }
