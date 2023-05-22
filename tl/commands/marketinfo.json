@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Naghahanda ng iyong tala sa merkado o nagpapakita ng mga detalye tungkol sa partikular na transaksyon",
+    "INVALID_DEAL_ID": "Invalid na Deal ID: Mangyaring suriin muli",
+    "TRADER": "Mangangalakal",
+    "DEAL_ID": "Halaga",
+    "PRODUCT": "Produkto",
+    "VALUE": "Halaga",
+    "RATE": "Rate",
+    "LISTED": "Nakalista",
+    "NO_LISTINGS_FOUND": "{{user}} hindi ka pa gumawa ng anumang listahan sa merkado",
+    "INFO": "Gamitin ang `sml` at `smul` upang ihinto ang listahan\nAng isang transaksyon lamang ang maaaring ilista sa isang pagkakataon.",
+    "FOOTER": "Nagpapakita ng 1-{{pages}} ng {{total}} | Upang bumili maggamit ng smp <id> [halaga]"
+}

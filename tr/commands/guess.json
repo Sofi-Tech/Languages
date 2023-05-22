@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Kelime tahmin oyunu",
+    "CORRECT_USAGE": "{{user}} **doğru kullanım: sguess <miktar> <para birimi>**\n|`silvers` `wists` `gems` `cubes`",
+    "NO_TP": "${message.author} aktif bir ticaret kartı yok. Ticaret kartı almak için siteyi ziyaret edin",
+    "NOT_ENOUGH_CURR": "{{user}} **| Oyunu başlatmak için yeterli sayıda `{{currency}}` nız yok**",
+    "INFO_1": "{{user}} tahmin oyununu başlattı",
+    "INFO_2": "Katılımcıların oynamak için {{bet}} {{currency}}'ya sahip olmaları gerekiyor",
+    "INFO_3": "Ödül: {{jackpot}} {{currencyEmoji}}",
+    "INFO_4": "Oyuncular: [{{playerCount}}]",
+    "FOOTER": "Katılmak için oyuncular 🍻'i seçin | Oyun başlatıcısı oyunu başlatmak için 🟢 seçin",
+    "REQ_MORE_PLAYERS": "{{user}}, daha fazla oyuncu katılımı istedi**",
+    "GUESS_THE_WORD": "Belirtilen kelimeyi tahmin et: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} doğru şekilde {{word}} tahmin etti ve {{jackpot}} {{currency}} kazandı",
+    "WRONG_USAGE": "{{author}} doğru kullanım: `sgive <user/userID> <cardcode>`"
+}

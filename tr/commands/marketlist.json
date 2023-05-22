@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Marketteki ürünlerin listesi",
+    "CORRECT_USAGE": "{{user}} Doğru kullanım: sml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} Geçersiz taş oranı",
+    "GEM_RATE_LIES": "{{user}} Taş oranı 3.0-20.0 arasında olmalı",
+    "ALREADY_EXISTS": "Listelemeye çalıştığınız anlaşma zaten var {{dealID}}\nTekrar listelemek için anlaşmayı işlem dışı bırakın",
+    "PRODUCTS": "Ürünler",
+    "RATE": "Oran",
+    "VALUE": "Değer",
+    "CONFIRM_FOOTER": "Bu anlaşmayı markete listelemek istediğinize emin misiniz?",
+    "CONFIRM_ASK": "Emin misiniz?",
+    "CANCELLED": "İptal Edildi",
+    "NOT_ENOUGH_CANCEL": "Yetersiz wist nedeniyle işlem iptal edildi",
+    "CONFIRM_TEXT": "Anlaşma markete eklendi",
+    "SUCCESS": "Anlaşma başarıyla listelendi",
+    "SUCCESS_FOOTER": "Anlaşma Kimliği: {{dealId}}"
+}

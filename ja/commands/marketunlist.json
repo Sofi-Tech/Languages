@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "市場から交渉を非公開にする",
+    "CORRECT_USAGE": "{{user}} | 取引 ID を提供するか、すべての取引を一度に非公開にするには all を使用してください",
+    "INVALID_DEAL_ID": "提供された取引 ID は無効です: 再度確認し、自分が上場しているかどうかを確認してください",
+    "SUCCESS_UL": "{{user}} {{dealId}} は市場から正常に非表示になりました",
+    "NO_LISTINGS_FOUND": "{{user}} まだ市場にリスティングしていません",
+    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} 取引が市場から正常に非表示になりました"
+}

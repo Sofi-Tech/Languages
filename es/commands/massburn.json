@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Quema masivamente tus cartas",
+    "IN_ACTIVE_MB": "{{user}} ya estás en el comando de Quema masiva activa. Cancela el último comando o quema las cartas del último comando para comenzar una nueva Quema masiva",
+    "PROVIDE_FILTERS": "Proporcione un filtro para filtrar la colección: t=nombre del tag, g><=gen, wl><=lista de deseos",
+    "WRONG_TAG": "Se proporcionó una etiqueta incorrecta. Por favor, comprueba de nuevo.",
+    "NO_CARDS_FOUND": "{{user}} aún no has reclamado ninguna carta.",
+    "CARDS_BURNED": "Cartas quemadas [${totalCards}]",
+    "CONFIRM_ASK": "¿Estás seguro de quemar estas cartas?",
+    "MISSING_CARDS": "Falta una de las cartas de la colección de Quema masiva. Intenta el comando de nuevo.",
+    "SUCCESS": "Las cartas se quemaron con éxito",
+    "BURN_REWARDS": "Recompensas de Quema",
+    "CANCELLED": "Cancelado"
+}

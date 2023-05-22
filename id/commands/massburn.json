@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Membakar kartumu secara massal",
+    "IN_ACTIVE_MB": "{{user}} kamu sudah aktif dalam command massburn.\n Batalkan command terakhir atau bakar kartu yang terakhir digunakan untuk memulai mass burn baru",
+    "PROVIDE_FILTERS": "Berikan filter untuk mengumpulkan: t=nama_tag, g><=gen, wl><=wishlist",
+    "WRONG_TAG": "tag yang diberikan salah. Harap periksa kembali",
+    "NO_CARDS_FOUND": "{{user}} kamu belum mengklaim kartu apapun",
+    "CARDS_BURNED": "Kartu yang dibakar [${totalCards}]",
+    "CONFIRM_ASK": "Apakah anda yakin untuk membakar kartu-kartu ini?",
+    "MISSING_CARDS": "Salah satu kartu dari koleksi massburn hilang. Coba command kembali",
+    "SUCCESS": "Kartu berhasil dibakar",
+    "BURN_REWARDS": "Reward Burn",
+    "CANCELLED": "Dibatalkan"
+}

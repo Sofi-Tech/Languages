@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Öffnet Truhen und Beuteboxen.",
+    "SLASH_DESC_1": "Gib den Gegenstand ein, den du öffnen möchtest.",
+    "SLASH_DESC_2": "Gib die Menge ein.",
+    "CORRECT_USAGE": "Richtige Verwendung : {{prefix}}open <Name der Truhe/Name der Beutebox> [Nummer/Alle]",
+    "CORRECT_USAGE_2": "{{prefix}}open Charme/SC",
+    "EMPTY_INV": "Dein Inventar ist leer",
+    "CHARM_MISSING": "Im Inventar fehlt ein Charme",
+    "SOFI_CARDS_MISSING": "Nicht genügend Karten in Sofis Sammlung",
+    "CONGRATS": "Glückwunsch! Du hast",
+    "SERIES": "Serie",
+    "NAME": "Name",
+    "CHEST_INFO": "Truhen können auch nach Ende des Events geöffnet werden",
+    "PROVIDE_NUM": "Bitte gib eine Zahl zwischen 1 und 10 an",
+    "CHEST_MISSING": "Du hast keine {{replacedArg}} {{chestName}} in deinem Inventar.",
+    "COMMON_INFO_1": "Du hast {{totalChests}} {{chestName}} geöffnet",
+    "ITEMS_FOUND": "Gefundene Gegenstände:",
+    "COMMON_RARE_FOOTER": "Du bekommst eine {{chestName}} Truhe für jeden täglichen Streak von {{count}}",
+    "EXOTIC_DIVINE_FOOTER": "Du bekommst {{count}} Mal im Monat eine {{chestName}} Truhe für {{count}} Abstimmungen"
+}

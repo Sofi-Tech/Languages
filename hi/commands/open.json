@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "चेस्ट और लूटबॉक्स खोलें।",
+    "SLASH_DESC_1": "उस आइटम को enter करें जिसे आप खोलना चाहते हैं।",
+    "SLASH_DESC_2": "संख्या दर्ज करें।",
+    "CORRECT_USAGE": "सही उपयोग: {{prefix}}खोलें <चेस्ट नाम / लूटबॉक्स नाम> [संख्या / सब]",
+    "CORRECT_USAGE_2": "{{prefix}}खोलें चार्म / sc",
+    "EMPTY_INV": "आपकी इनवेंट्री खाली है",
+    "CHARM_MISSING": "आपकी इनवेंट्री में चार्म नहीं है",
+    "SOFI_CARDS_MISSING": "सोफी के कलेक्शन में पर्याप्त कार्ड नहीं हैं",
+    "CONGRATS": "बधाई हो! आपको मिला",
+    "SERIES": "सीरीज",
+    "NAME": "नाम",
+    "CHEST_INFO": "चेस्ट इवेंट समाप्त होने के बाद भी खोले जा सकते हैं",
+    "PROVIDE_NUM": "कृपया 1 से 10 के बीच एक संख्या दर्ज करें",
+    "CHEST_MISSING": "आपकी इनवेंट्री में {{replacedArg}} {{chestName}} चेस्ट नहीं हैं।",
+    "COMMON_INFO_1": "आपने {{totalChests}} {{chestName}} चेस्ट खोले हैं।",
+    "ITEMS_FOUND": "मिले हुए आइटम:",
+    "COMMON_RARE_FOOTER": "{{count}} दैनिक स्ट्रीक्स के लिए आप {{chestName}} चेस्ट प्राप्त करेंगे।",
+    "EXOTIC_DIVINE_FOOTER": "{{count}} महीने के लिए आप {{chestName}} चेस्ट प्राप्त करेंगे।"
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Laro ng Pagsusumikap sa Salita",
+    "CORRECT_USAGE": "{{user}} **tamang paggamit: sumukat <halaga> <pera>**\n| `silvers` `wists` `gems` `cubes`",
+    "NO_TP": "${message.author} walang aktibong TP. Isalba ang mga puntos sa site upang makatanggap ng TP",
+    "NOT_ENOUGH_CURR": "{{user}} **| Hindi ka may sapat na `{{currency}}` upang mag-umpisang maglaro**",
+    "INFO_1": "{{user}} nag-umpisa ang laro ng pagsusumikap sa salita",
+    "INFO_2": "Ang kalahok ay dapat mayroong {{bet}} na {{currency}} upang makalaro",
+    "INFO_3": "Premyo: {{jackpot}} {{currencyEmoji}}",
+    "INFO_4": "Mga Manlalaro: [{{playerCount}}]",
+    "FOOTER": "Mag-react ang mga manlalaro ng 🍻 upang sumali | Ang nagiiniciate ng laro ay mag-react ng 🟢 upang mag-umpisa ang laro",
+    "REQ_MORE_PLAYERS": "{{user}} magtanong ng higit pang mga manlalaro upang sumali**",
+    "GUESS_THE_WORD": "Sukatin ang ibinigay na salita: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} tama ang hula sa {{word}} at nanalo ng {{jackpot}} {{currency}}",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `ibigay <user/userID> <cardcode>"
+}

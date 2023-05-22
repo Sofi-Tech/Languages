@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Abre baús e caixas de loot.",
+    "SLASH_DESC_1": "Digite o item que deseja abrir.",
+    "SLASH_DESC_2": "Digite a quantidade.",
+    "CORRECT_USAGE": "Uso correto : {{prefix}}open <Nome do Baú/Nome da Caixa> [Número/Tudo]",
+    "CORRECT_USAGE_2": "{{prefix}}open encanto/sc",
+    "EMPTY_INV": "Seu inventário está vazio",
+    "CHARM_MISSING": "Falta encanto no seu inventário",
+    "SOFI_CARDS_MISSING": "Não há cartas suficientes na coleção de sofis",
+    "CONGRATS": "Parabéns! você recebeu",
+    "SERIES": "Série",
+    "NAME": "Nome",
+    "CHEST_INFO": "Os baús podem ser abertos mesmo depois que o evento terminar",
+    "PROVIDE_NUM": "Por favor, forneça um número entre 1 - 10",
+    "CHEST_MISSING": "Você não tem {{replacedArg}} {{chestName}} Baús em seu inventário.",
+    "COMMON_INFO_1": "Você abriu {{totalChests}} {{chestName}} Baús",
+    "ITEMS_FOUND": "Itens Encontrados:",
+    "COMMON_RARE_FOOTER": "Você recebe um Baú {{chestName}} para cada série diária {{count}}",
+    "EXOTIC_DIVINE_FOOTER": "Você recebe um Baú {{chestName}} para {{count}} votos a cada mês"
+}

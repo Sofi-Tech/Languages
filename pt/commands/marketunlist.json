@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Remova um negócio da lista do mercado",
+    "CORRECT_USAGE": "{{user}} | Por favor, forneça o ID do negócio ou use all para remover todos os negócios de uma só vez",
+    "INVALID_DEAL_ID": "ID do negócio inválido fornecido: por favor, verifique novamente e verifique se está listado por você",
+    "SUCCESS_UL": "{{user}} {{dealId}} foi removido com sucesso da lista do mercado",
+    "NO_LISTINGS_FOUND": "{{user}} você ainda não fez nenhuma lista no mercado",
+    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} negócios foram removidos com sucesso da lista do mercado"
+}

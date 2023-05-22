@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "يفتح الصناديق وصناديق النقود.",
+    "SLASH_DESC_1": "أدخل العنصر الذي تريد فتحه.",
+    "SLASH_DESC_2": "أدخل الكمية.",
+    "CORRECT_USAGE": "الاستخدام الصحيح: {{prefix}}open <اسم الصندوق / اسم صندوق النقود> [العدد / الكل]",
+    "CORRECT_USAGE_2": "{{prefix}}open سحر / sc",
+    "EMPTY_INV": "مخزنك فارغ",
+    "CHARM_MISSING": "السحر مفقود في مخزونك",
+    "SOFI_CARDS_MISSING": "لا يوجد عدد كافٍ من البطاقات في مجموعة Sofi's Collection",
+    "CONGRATS": "تهانينا! لديك",
+    "SERIES": "سلسلة",
+    "NAME": "اسم",
+    "CHEST_INFO": "يمكن فتح الصناديق حتى بعد انتهاء الحدث",
+    "PROVIDE_NUM": "الرجاء تقديم رقم بين 1 - 10",
+    "CHEST_MISSING": "ليس لديك {{chestName}} صناديق {{replacedArg}} في مخزونك.",
+    "COMMON_INFO_1": "لقد فتحت {{totalChests}} صناديق {{chestName}}",
+    "ITEMS_FOUND": "تم العثور على العناصر:",
+    "COMMON_RARE_FOOTER": "ستحصل على صندوق {{chestName}} لكل سلسلة يومية {{count}}",
+    "EXOTIC_DIVINE_FOOTER": "ستحصل على صندوق {{chestName}} لـ{{count}} تصويتات كل شهر"
+}

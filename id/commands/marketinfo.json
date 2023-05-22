@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Menampilkan daftar Anda di pasar atau menampilkan rincian tentang penawaran tertentu",
+    "INVALID_DEAL_ID": "ID Penawaran tidak valid yang diberikan: Harap periksa lagi",
+    "TRADER": "Pedagang",
+    "DEAL_ID": "Nilai",
+    "PRODUCT": "Produk",
+    "VALUE": "Nilai",
+    "RATE": "Tarif",
+    "LISTED": "Terdaftar",
+    "NO_LISTINGS_FOUND": "{{user}} Anda belum membuat daftar di pasar",
+    "INFO": "Gunakan `sml` dan `smul` untuk mencabut daftar\nSatu penawaran dapat terdaftar pada satu waktu",
+    "FOOTER": "Menunjukkan 1-{{pages}} dari {{total}} | Untuk membeli gunakan smp <id> [jumlah]"
+}

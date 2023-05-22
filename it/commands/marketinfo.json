@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Mostra la tua offerta nel mercato o mostra i dettagli di un affare specifico",
+    "INVALID_DEAL_ID": "ID offerta non valido: controlla di nuovo",
+    "TRADER": "Commerciante",
+    "DEAL_ID": "Tasso",
+    "PRODUCT": "Prodotto",
+    "VALUE": "Valore",
+    "RATE": "Tasso",
+    "LISTED": "Elencato",
+    "NO_LISTINGS_FOUND": "{{user}} non hai pubblicato nessuna offerta nel mercato",
+    "INFO": "Usa `sml` e `smul` per rimuovere\nUn singolo affare alla volta può essere quotato",
+    "FOOTER": "Visualizzazione di 1-{{pages}} di {{total}} | Per acquistare usa smp <id> [quantità]"
+}

@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Abre cofres y cajas de botín.",
+    "SLASH_DESC_1": "Ingresa el objeto que deseas abrir.",
+    "SLASH_DESC_2": "Ingresa la cantidad.",
+    "CORRECT_USAGE": "Uso correcto: {{prefix}}open <Nombre del cofre/Nombre del botín> [Número/Todo]",
+    "CORRECT_USAGE_2": "{{prefix}}open encanto/sc",
+    "EMPTY_INV": "Tu inventario está vacío",
+    "CHARM_MISSING": "Falta el encanto en tu inventario",
+    "SOFI_CARDS_MISSING": "No hay suficientes cartas en la colección de Sofi",
+    "CONGRATS": "¡Felicitaciones! obtuviste",
+    "SERIES": "Serie",
+    "NAME": "Nombre",
+    "CHEST_INFO": "Los cofres pueden abrirse incluso después de que termine el evento",
+    "PROVIDE_NUM": "Por favor ingresa un número entre 1 y 10",
+    "CHEST_MISSING": "No tienes {{replacedArg}} {{chestName}} cofres en tu inventario.",
+    "COMMON_INFO_1": "Has abierto {{totalChests}} {{chestName}} cofres",
+    "ITEMS_FOUND": "Objetos encontrados:",
+    "COMMON_RARE_FOOTER": "Obtienes un cofre {{chestName}} por cada racha diaria de {{count}}",
+    "EXOTIC_DIVINE_FOOTER": "Obtienes {{count}} cofre(s) {{chestName}} por {{count}} votos cada mes."
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "あなたのリストを表示するか、特定のディールの詳細を表示します",
+    "INVALID_DEAL_ID": "提供されたディールIDが無効です。もう一度確認してください",
+    "TRADER": "トレーダー",
+    "DEAL_ID": "レート",
+    "PRODUCT": "商品",
+    "VALUE": "値",
+    "RATE": "料金",
+    "LISTED": "リストされた",
+    "NO_LISTINGS_FOUND": "{{user}} あなたは市場でリストを作成していません",
+    "INFO": "`sml` と `smul` を使用してリストを解除します\n単一のディールのみリスト化できます",
+    "FOOTER": "{{total}} の1-{{pages}} を表示中| 購入するには、smp <id> [amount]を使用します"
+}

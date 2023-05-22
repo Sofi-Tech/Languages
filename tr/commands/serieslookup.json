@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Belirli bir diziyi arayın",
+    "NO__LAST_CHAR_FOUND": "Son karakter bulunamıyor. Dizi adını sağlayarak deneyin",
+    "NO_CHAR_FOUND": "Karakter bulunamadı",
+    "NO_SERIES_FOUND": "{{name}} için sonuç bulunamadı",
+    "SERIES": "DİZİ",
+    "ERROR": "Bir hata oluştu. Lütfen tekrar deneyin",
+    "CARD_COLLECTED": "{{collected}}/{{totalCards}} kart toplandı",
+    "TOTAL_WL": "Toplam dilek listesi: {{wlCount}}",
+    "CHARACTERS": "Karakterler"
+}

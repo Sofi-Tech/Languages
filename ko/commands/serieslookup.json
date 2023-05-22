@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "특정 시리즈 검색",
+    "NO__LAST_CHAR_FOUND": "마지막 글자를 찾을 수 없습니다. 시리즈 이름을 입력해보세요",
+    "NO_CHAR_FOUND": "글자를 찾을 수 없습니다",
+    "NO_SERIES_FOUND": "{{name}}에 대한 검색 결과가 없습니다.",
+    "SERIES": "시리즈",
+    "ERROR": "에러가 발생했습니다. 다시 시도해주세요",
+    "CARD_COLLECTED": "보유한 카드: {{collected}}/{{totalCards}}",
+    "TOTAL_WL": "위시리스트 합계: {{wlCount}}",
+    "CHARACTERS": "등장인물"
+}

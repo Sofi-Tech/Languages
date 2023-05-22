@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Jogo de Adivinhação de Palavras",
+    "CORRECT_USAGE": "{{user}} **uso correto: sguess <quantia> <moeda>**\n|`silvers` `wists` `gems` `cubes`",
+    "NO_TP": "${message.author} não tem um Trade Pass ativo. Resgate os pontos de melhoria no site para receber um passe",
+    "NOT_ENOUGH_CURR": "{{user}} **| Você não tem moedas suficientes `{{currency}}` para iniciar o jogo**",
+    "INFO_1": "{{user}} iniciou o jogo de adivinhação",
+    "INFO_2": "O participante deve ter {{bet}} {{currency}} para jogar",
+    "INFO_3": "Prêmio: {{jackpot}} {{currencyEmoji}}",
+    "INFO_4": "Jogadores: [{{playerCount}}]",
+    "FOOTER": "Jogadores reajam com 🍻 para participar | O jogador inicial reage com 🟢 para começar o jogo",
+    "REQ_MORE_PLAYERS": "{{user}} peça para mais jogadores se juntarem**",
+    "GUESS_THE_WORD": "Adivinhe a palavra dada: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} adivinhou corretamente a palavra {{word}} e ganhou {{jackpot}} {{currency}}",
+    "WRONG_USAGE": "{{author}} Uso correto: `sgive <usuário/userID> <código do cartão>`"
+}

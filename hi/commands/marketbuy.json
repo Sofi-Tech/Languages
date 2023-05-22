@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "मार्केट से डील खरीदें",
+    "CORRECT_USAGE": "{{user}} | सही उपयोग: smp <डील आईडी> [Wist राशि]",
+    "INVALID_DEAL_ID": "अमान्य डील ID प्रदान किया गया: कृपया फिर से जाँच करें",
+    "CANNOT_PURCHASE": "{{user}} | उस डील को खरीदने में असमर्थ",
+    "CANNOT_SELF": "{{user}} | आप अपनी डील नहीं खरीद सकते",
+    "WIST_NOT_EXCEED": "Wist राशि {{amount}} से अधिक नहीं होनी चाहिए",
+    "PRODUCT": "उत्पाद",
+    "VALUE": "मूल्य",
+    "RATE": "दर",
+    "CONFIRM_ASK": "क्या आप वाकई इस डील को खरीदना चाहते हैं?",
+    "ALREADY_IN_PURCHASE": "आप पहले से ही बाजार में खरीदारी में शामिल हैं",
+    "CANCELLED": "रद्द कर दिया गया",
+    "PURCHASE_FAILED": "{{dealId}} डील खरीदने में विफल",
+    "PURCHASE_CANCELLED": "खरीद रद्द! डील अब बाजार में उपलब्ध नहीं है",
+    "MISSING_GEMS": "आप {{gemPrice}} जेम्स गायब हैं",
+    "SOMETHING_WRONG": "कुछ गलत हो गया। दोबारा कोशिश करें",
+    "PURCHASE_SUCCESSFUL": "खरीद सफल थी",
+    "SUCCESS": "{{wistAmount}} विस्ट {{gemPrice}} जेम्स के लिए खरीदे गए | डील आईडी: {{dealId}}"
+}

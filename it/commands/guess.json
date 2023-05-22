@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Indovina la parola gioco",
+    "CORRECT_USAGE": "{{user}} **uso corretto: sguess <quantità> <valuta>**\n|`silvers` `wists` `gems` `cubes`",
+    "NO_TP": "${message.author} non ha alcun passaggio commerciale attivo. Riscattare i punti di spinta sul sito per ricevere un passaggio commerciale",
+    "NOT_ENOUGH_CURR": "{{user}} **| Non hai abbastanza `{{currency}}` per avviare il gioco**",
+    "INFO_1": "{{user}} ha avviato il gioco di indovinare",
+    "INFO_2": "Il partecipante deve avere {{bet}} {{currency}} per giocare",
+    "INFO_3": "Premio: {{jackpot}} {{currencyEmoji}}",
+    "INFO_4": "Giocatori: [{{playerCount}}]",
+    "FOOTER": "I giocatori reagiscono con 🍻 per partecipare | Il creatore del gioco reagisce con 🟢 per avviare il gioco",
+    "REQ_MORE_PLAYERS": "{{user}} chiedi ad altri giocatori di partecipare**",
+    "GUESS_THE_WORD": "Indovina la parola data: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} ha indovinato correttamente {{word}} e ha vinto {{jackpot}} {{currency}}",
+    "WRONG_USAGE": "{{author}} Uso corretto: `sgive <user/userID> <cardcode>`"
+}

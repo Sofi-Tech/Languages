@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Comprar una oferta del mercado",
+    "CORRECT_USAGE": "{{user}} | Uso correcto: smp <ID de oferta> [cantidad de wists]",
+    "INVALID_DEAL_ID": "ID de oferta no válido proporcionado: Por favor, revisa de nuevo",
+    "CANNOT_PURCHASE": "{{user}} | No puedes comprar esa oferta",
+    "CANNOT_SELF": "{{user}} | No puedes comprar tu propia oferta",
+    "WIST_NOT_EXCEED": "La cantidad de wists no debe superar los {{amount}}",
+    "PRODUCT": "Producto",
+    "VALUE": "Valor",
+    "RATE": "Tasa",
+    "CONFIRM_ASK": "¿Está seguro de que desea comprar esta oferta?",
+    "ALREADY_IN_PURCHASE": "Ya estás en la compra del mercado",
+    "CANCELLED": "Cancelado",
+    "PURCHASE_FAILED": "La compra de la oferta {{dealId}} falló",
+    "PURCHASE_CANCELLED": "Compra cancelada! La oferta ya no está disponible en el mercado",
+    "MISSING_GEMS": "Te faltan {{gemPrice}} gemas",
+    "SOMETHING_WRONG": "Algo salió mal. Inténtalo de nuevo",
+    "PURCHASE_SUCCESSFUL": "Compra exitosa",
+    "SUCCESS": "Se compraron {{wistAmount}} wists por {{gemPrice}} gemas | ID de oferta: {{dealId}}"
+}

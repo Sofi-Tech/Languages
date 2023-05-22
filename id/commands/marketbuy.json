@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Membeli penawaran dari pasar",
+    "CORRECT_USAGE": "{{user}} | Penggunaan yang Benar: smp <id penawaran> [jumlah bintang]",
+    "INVALID_DEAL_ID": "ID Penawaran Tidak Valid: Mohon Periksa Kembali",
+    "CANNOT_PURCHASE": "{{user}} | Tidak dapat membeli penawaran tersebut",
+    "CANNOT_SELF": "{{user}} | Anda tidak dapat membeli penawaran Anda sendiri",
+    "WIST_NOT_EXCEED": "Jumlah bintang tidak boleh melebihi {{amount}}",
+    "PRODUCT": "Produk",
+    "VALUE": "Nilai",
+    "RATE": "Harga",
+    "CONFIRM_ASK": "Apakah Anda yakin ingin membeli penawaran ini?",
+    "ALREADY_IN_PURCHASE": "Anda sudah dalam proses pembelian pasar",
+    "CANCELLED": "Dibatalkan",
+    "PURCHASE_FAILED": "Pembelian deal {{dealId}} gagal",
+    "PURCHASE_CANCELLED": "Pembelian dibatalkan! Penawaran tidak lagi tersedia di pasar",
+    "MISSING_GEMS": "Anda kekurangan {{gemPrice}} batu permata",
+    "SOMETHING_WRONG": "Terjadi kesalahan. Coba lagi",
+    "PURCHASE_SUCCESSFUL": "Pembelian berhasil",
+    "SUCCESS": "{{wistAmount}} bintang telah dibeli seharga {{gemPrice}} batu permata | ID Penawaran: {{dealId}}"
+}

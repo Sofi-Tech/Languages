@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Lijst item op de markt",
+    "CORRECT_USAGE": "{{user}} Correct gebruik: sml <wist> <tarief>",
+    "INVALID_GEM_RATE": "{{user}} Ongeldig juweeltarief",
+    "GEM_RATE_LIES": "{{user}} Juweeltarief moet tussen 3,0-20,0 liggen",
+    "ALREADY_EXISTS": "Je hebt al een bestaande deal {{dealID}}\nVerwijder de deal voordat je deze opnieuw plaatst",
+    "PRODUCTS": "Producten",
+    "RATE": "Tarief",
+    "VALUE": "Waarde",
+    "CONFIRM_FOOTER": "Weet je zeker dat je deze deal op de markt wil zetten?",
+    "CONFIRM_ASK": "Weet je het zeker?",
+    "CANCELLED": "Geannuleerd",
+    "NOT_ENOUGH_CANCEL": "Geannuleerd vanwege ontbrekende wisten",
+    "CONFIRM_TEXT": "Deal toegevoegd aan de markt",
+    "SUCCESS": "De deal is succesvol genoteerd",
+    "SUCCESS_FOOTER": "Deal ID: {{dealId}}"
+}

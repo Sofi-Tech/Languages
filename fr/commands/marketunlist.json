@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Retirer une offre du marché",
+    "CORRECT_USAGE": "{{user}} | Veuillez fournir l'identifiant de l'offre ou utiliser \"all\" pour retirer toutes les offres à la fois",
+    "INVALID_DEAL_ID": "Identifiant d'offre invalide fourni : Veuillez vérifier à nouveau et vérifier s'il est répertorié par vous",
+    "SUCCESS_UL": "{{user}} {{dealId}} a été retiré avec succès du marché",
+    "NO_LISTINGS_FOUND": "{{user}} vous n'avez fait aucune annonce sur le marché pour le moment",
+    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} offres ont été retirées avec succès du marché"
+}

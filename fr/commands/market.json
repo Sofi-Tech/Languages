@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Affiche les offres listées sur le marché",
+    "NO_LISTING_FOUND": "Aucune offre trouvée",
+    "STOCK": "Stock",
+    "RATE": "Taux",
+    "MARKET_WARN": "N'utilisez pas le marché pour stocker ou cacher des wists.\nIls seront supprimés sans compensation.\nTaux moyen : {{averageRate}} Total des transactions : {{totalTrades}}",
+    "FOOTER": "Affichage de 1-{{pages}} sur {{total}} | Pour acheter, utilisez smp <id> [montant]"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Farklı eşyaları çeker. Örneğin takas, muska ve animasyonlu kart parçaları",
+    "PULL_AMT": "{{user}} çekim miktarını 1 veya 10 olarak belirtmelisiniz",
+    "INFO_1": "Parça alma şansı %12'dir",
+    "INFO_2": "Muska ve takas alma şansı düşüktür",
+    "INFO_3": "Her animasyonlu karakterin 8 parçaya ihtiyacı vardır",
+    "INFO_4": "Her karakterin 100 tekrar etmeyen geni vardır",
+    "INFO_5": "Daha sonra kalan parçalar muska almak için yanabilir",
+    "PULLS": "SOFI: ÇEKİMLER",
+    "PULL_COUNT": "Çekim Sayısı: {{count}}",
+    "MISSING_CURR": "{{user}}, {{amount}} {{currName}}'e sahip değil",
+    "AMOUNT": "Miktar: {{amount}}",
+    "PULL_COUNT_WIST": "Çekim Sayısı: {{pullcount}} | Smarket'ten wist satın alabilirsiniz"
+}

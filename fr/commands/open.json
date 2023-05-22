@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Ouvre des coffres et des boîtes de butin.",
+    "SLASH_DESC_1": "Entrez l'objet que vous voulez ouvrir.",
+    "SLASH_DESC_2": "Entrez la quantité.",
+    "CORRECT_USAGE": "Utilisation correcte : {{prefix}}open <Nom du Coffre/Nom de la Boîte de Butin> [Numéro/Tout]",
+    "CORRECT_USAGE_2": "{{prefix}}open amulette/sc",
+    "EMPTY_INV": "Votre inventaire est vide",
+    "CHARM_MISSING": "Amulette manquante dans votre inventaire",
+    "SOFI_CARDS_MISSING": "Pas assez de cartes dans la collection de sofi",
+    "CONGRATS": "Félicitations! vous avez obtenu",
+    "SERIES": "Série",
+    "NAME": "Nom",
+    "CHEST_INFO": "Les coffres peuvent être ouverts même après la fin de l'événement",
+    "PROVIDE_NUM": "Veuillez fournir un nombre entre 1 - 10",
+    "CHEST_MISSING": "Vous n'avez pas {{replacedArg}} coffres {{chestName}} dans votre inventaire.",
+    "COMMON_INFO_1": "Vous avez ouvert {{totalChests}} coffres {{chestName}}",
+    "ITEMS_FOUND": "Objets Trouvés:",
+    "COMMON_RARE_FOOTER": "Vous obtenez un coffre {{chestName}} pour chaque série quotidienne de {{count}}",
+    "EXOTIC_DIVINE_FOOTER": "Vous obtenez {{chestName}} Coffre pour {{count}} votes chaque mois"
+}

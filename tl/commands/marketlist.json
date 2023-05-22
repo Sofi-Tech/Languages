@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "List item sa merkado",
+    "CORRECT_USAGE": "{{user}} Tamang paggamit: sml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} Hindi wastong gem rate",
+    "GEM_RATE_LIES": "{{user}} Ang Gem Rate ay dapat nasa pagitan ng 3.0-20.0",
+    "ALREADY_EXISTS": "Mayroon kang kasalukuyang deal {{dealID}}\nTanggalin ang deal bago maglista muli",
+    "PRODUCTS": "Mga Produkto",
+    "RATE": "Rate",
+    "VALUE": "Halaga",
+    "CONFIRM_FOOTER": "Sigurado ka bang gusto mong ilista ang deal na ito sa merkado?",
+    "CONFIRM_ASK": "Sigurado ka ba?",
+    "CANCELLED": "Kanselado",
+    "NOT_ENOUGH_CANCEL": "Kanselado dahil kulang sa mga wists",
+    "CONFIRM_TEXT": "Idinagdag ang deal sa merkado",
+    "SUCCESS": "Matagumpay na na-ilista ang deal",
+    "SUCCESS_FOOTER": "Deal ID: {{dealId}}"
+}

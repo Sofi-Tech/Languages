@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "チェストやロックボックスを開く。",
+    "SLASH_DESC_1": "開きたいアイテム名を入力してください。",
+    "SLASH_DESC_2": "入力したい量を入力してください。",
+    "CORRECT_USAGE": "{{prefix}}open <チェスト名/ロックボックス名> [個数/全て]",
+    "CORRECT_USAGE_2": "{{prefix}}open charm/sc",
+    "EMPTY_INV": "インベントリが空です。",
+    "CHARM_MISSING": "インベントリにチャームがありません。",
+    "SOFI_CARDS_MISSING": "Sofiのコレクションに十分なカードがありません。",
+    "CONGRATS": "おめでとうございます！入手しました。",
+    "SERIES": "シリーズ",
+    "NAME": "名前",
+    "CHEST_INFO": "このイベントが終了してからでもチェストを開けることができます。",
+    "PROVIDE_NUM": "1〜10の数字を指定してください。",
+    "CHEST_MISSING": "インベントリに{{replacedArg}} {{chestName}}のチェストがありません。",
+    "COMMON_INFO_1": "{{totalChests}}個の{{chestName}}チェストを開けました。",
+    "ITEMS_FOUND": "入手されたアイテム：",
+    "COMMON_RARE_FOOTER": "{{count}}日連続ログインすることで、{{chestName}}チェストを入手することができます。",
+    "EXOTIC_DIVINE_FOOTER": "{{count}}回の投票で{{chestName}}チェストを入手することができます。"
+}

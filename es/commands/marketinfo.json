@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Muestra su listado en el mercado o muestra detalles acerca de un acuerdo específico",
+    "INVALID_DEAL_ID": "ID de acuerdo inválido proporcionado: por favor verifique nuevamente",
+    "TRADER": "Comerciante",
+    "DEAL_ID": "Tarifa",
+    "PRODUCT": "Producto",
+    "VALUE": "Valor",
+    "RATE": "Tarifa",
+    "LISTED": "Listado",
+    "NO_LISTINGS_FOUND": "{{user}} no has hecho ningún listado en el mercado",
+    "INFO": "Use `sml` y `smul` para deslistar\nUn solo acuerdo puede estar listado al mismo tiempo",
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar usa smp <id> [cantidad]"
+}

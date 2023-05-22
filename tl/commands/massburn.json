@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Sunugin ang iyong mga kard",
+    "IN_ACTIVE_MB": "{{user}} ikaw ay nasa aktibong massburn command na.\n I-cancel ang huling command o sunugin ang huling mga kard upang magsimula ng bagong mass burn",
+    "PROVIDE_FILTERS": "Magbigay ng isang filter upang pumili ng collection: t=tagname, g><=gen, wl><=wishlist",
+    "WRONG_TAG": "Maling tag ang ibinigay. Mangyaring suriin muli",
+    "NO_CARDS_FOUND": "{{user}} hindi ka pa nakakakuha ng kahit anong kard",
+    "CARDS_BURNED": "Na-sunog na mga cards [${totalCards}]",
+    "CONFIRM_ASK": "Sigurado ka bang sunugin ang mga kard na ito?",
+    "MISSING_CARDS": "Nawawala ang isa sa mga kard mula sa massburn collection. Subukan muli ang command",
+    "SUCCESS": "Matagumpay na nasunog ang mga kard",
+    "BURN_REWARDS": "Sunugin ang mga rewards",
+    "CANCELLED": "Nakansela"
+}

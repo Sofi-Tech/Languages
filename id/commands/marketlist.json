@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Elemen daftar dalam pasar",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: sml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} Tingkatkan permata yang tidak valid",
+    "GEM_RATE_LIES": "{{user}} Tingkatkan permata harus berada di antara 3,0-20,0",
+    "ALREADY_EXISTS": "Anda memiliki penawaran yang ada {{dealID}}\nHapus penawaran sebelum mendaftar lagi",
+    "PRODUCTS": "Produk",
+    "RATE": "Tingkat",
+    "VALUE": "Nilai",
+    "CONFIRM_FOOTER": "Apakah Anda yakin ingin menambahkan penawaran ini ke pasar?",
+    "CONFIRM_ASK": "Apakah kamu yakin?",
+    "CANCELLED": "Dibatalkan",
+    "NOT_ENOUGH_CANCEL": "Dibatalkan karena kurangnya wists",
+    "CONFIRM_TEXT": "Menambahkan penawaran ke pasar",
+    "SUCCESS": "Penawaran berhasil terdaftar",
+    "SUCCESS_FOOTER": "ID Penawaran: {{dealId}}"
+}

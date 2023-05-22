@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Kutuları ve ödül kutularını açar.",
+    "SLASH_DESC_1": "Açmak istediğiniz öğeyi girin.",
+    "SLASH_DESC_2": "Miktarı girin.",
+    "CORRECT_USAGE": "Doğru Kullanım : {{prefix}}open <Kutu Adı/Ödül Kutusu Adı> [Sayı/Tümü]",
+    "CORRECT_USAGE_2": "{{prefix}}open charm/sc",
+    "EMPTY_INV": "Envanteriniz boş",
+    "CHARM_MISSING": "Envanterinizde bir büyü eksik",
+    "SOFI_CARDS_MISSING": "Sofi'nin koleksiyonunda yeterli kart yok",
+    "CONGRATS": "Tebrikler!",
+    "SERIES": "Seri",
+    "NAME": "Ad",
+    "CHEST_INFO": "Etkinlik bittiğinde bile kutular açılabilir",
+    "PROVIDE_NUM": "Lütfen 1 - 10 arası bir sayı girin",
+    "CHEST_MISSING": "Envanterinizde {{replacedArg}} {{chestName}} Kutuları yok.",
+    "COMMON_INFO_1": "{{totalChests}} {{chestName}} Kutusu açıldı",
+    "ITEMS_FOUND": "Bulunan Öğeler:",
+    "COMMON_RARE_FOOTER": "Günlük {{count}} sıralama için bir {{chestName}} Kutusu kazanırsınız",
+    "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} oy için bir {{chestName}} Kutusu kazanırsınız"
+}

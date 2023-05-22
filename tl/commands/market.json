@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Nagpapakita ng mga nakalista na mga deal sa merkado",
+    "NO_LISTING_FOUND": "Walang nakitang listahan",
+    "STOCK": "Stock",
+    "RATE": "Rate",
+    "MARKET_WARN": "Huwag gumamit ng merkado para sa pag-iimbak o pagtatago ng mga wists. Hindi sila mababawi ng walang pampapalitan.  Average Rate : {{averageRate}} Kabuuang mga Pakikipagkalakalan : {{totalTrades}}",
+    "FOOTER": "Nagpapakita ng 1-{{pages}} ng {{total}} | Upang bumili gumamit ng smp <id> [halaga]"
+}

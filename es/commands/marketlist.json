@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Artículo de lista en el mercado",
+    "CORRECT_USAGE": "{{user}} Uso correcto: sml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} Tasa de gemas no válida",
+    "GEM_RATE_LIES": "{{user}} La tasa de gemas debe oscilar entre 3,0-20,0",
+    "ALREADY_EXISTS": "Ya tienes un acuerdo existente {{dealID}}\nRetira el acuerdo antes de volver a listar",
+    "PRODUCTS": "Productos",
+    "RATE": "Tarifa",
+    "VALUE": "Valor",
+    "CONFIRM_FOOTER": "¿Estás seguro de que deseas listar este acuerdo en el mercado?",
+    "CONFIRM_ASK": "¿Estás seguro?",
+    "CANCELLED": "Cancelado",
+    "NOT_ENOUGH_CANCEL": "Cancelado debido a la falta de wists",
+    "CONFIRM_TEXT": "Acuerdo agregado al mercado",
+    "SUCCESS": "El acuerdo se enumeró con éxito",
+    "SUCCESS_FOOTER": "ID de acuerdo: {{dealId}}"
+}

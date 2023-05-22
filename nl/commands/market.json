@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Toont genoemde aanbiedingen op de markt",
+    "NO_LISTING_FOUND": "Geen aanbiedingen gevonden",
+    "STOCK": "Voorraad",
+    "RATE": "Tarief",
+    "MARKET_WARN": "Gebruik de markt niet voor opslag of het verbergen van items.\nZe worden zonder vergoeding verwijderd.\nGemiddeld tarief : {{averageRate}} Totaal aantal handelingen : {{totalTrades}}",
+    "FOOTER": "Toont 1-{{pages}} van {{total}} | Gebruik smp <id> [hoeveelheid] om te kopen"
+}

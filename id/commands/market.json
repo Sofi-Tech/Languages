@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Menampilkan penawaran yang terdaftar di pasar",
+    "NO_LISTING_FOUND": "Tidak ada penawaran yang ditemukan",
+    "STOCK": "Stok",
+    "RATE": "Tingkat",
+    "MARKET_WARN": "Jangan gunakan pasar untuk menyimpan atau menyembunyikan wists. Mereka akan dihapus tanpa kompensasi. Tingkat Rata-rata: {{averageRate}} Total Perdagangan: {{totalTrades}}",
+    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Untuk membeli gunakan smp <id> [jumlah]"
+}

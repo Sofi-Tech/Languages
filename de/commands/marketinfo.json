@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Zeigt Ihre Auflistung auf dem Markt an oder zeigt Details zu einem bestimmten Deal an",
+    "INVALID_DEAL_ID": "Ungültige Deal-ID angegeben: Bitte überprüfen Sie erneut",
+    "TRADER": "Händler",
+    "DEAL_ID": "Rate",
+    "PRODUCT": "Produkt",
+    "VALUE": "Wert",
+    "RATE": "Rate",
+    "LISTED": "Aufgelistet",
+    "NO_LISTINGS_FOUND": "{{user}} Sie haben keine Auflistungen auf dem Markt gemacht",
+    "INFO": "Verwenden Sie `sml` und `smul`, um die Auflistung zu entfernen\nEs kann jeweils nur ein Deal aufgelistet sein",
+    "FOOTER": "Zeigt 1-{{pages}} von insgesamt {{total}} | Zum Kaufen verwenden Sie smp <id> [Menge]"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Menarik beragam item seperti tukar, kharisma, dan pecahan kartu animasi",
+    "PULL_AMT": "{{user}} berikan jumlah tarikan 1 atau 10",
+    "INFO_1": "Peluang mendapatkan pecahan adalah 12%",
+    "INFO_2": "Peluang mendapatkan kharisma dan tukar sangat rendah",
+    "INFO_3": "Setiap karakter animasi membutuhkan 8 pecahan",
+    "INFO_4": "Setiap karakter memiliki 100 gens non-repetitif",
+    "INFO_5": "Setelah itu pecahan yang tersisa dapat dibakar untuk mendapatkan kharisma",
+    "PULLS": "SOFI: TARIKAN",
+    "PULL_COUNT": "Jumlah tarikan: {{count}}",
+    "MISSING_CURR": "{{user}} tidak memiliki {{amount}} {{currName}}",
+    "AMOUNT": "Jumlah: {{amount}}",
+    "PULL_COUNT_WIST": "Jumlah Tarikan: {{pullcount}} | Kamu bisa membeli wist dari smarket"
+}

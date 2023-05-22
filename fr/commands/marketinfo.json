@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Affiche votre annonce sur le marché ou affiche les détails d'une annonce spécifique",
+    "INVALID_DEAL_ID": "ID de l'annonce invalide fourni: veuillez vérifier à nouveau",
+    "TRADER": "Trader",
+    "DEAL_ID": "ID d'annonce",
+    "PRODUCT": "Produit",
+    "VALUE": "Valeur",
+    "RATE": "Taux",
+    "LISTED": "Listé",
+    "NO_LISTINGS_FOUND": "{{user}} vous n'avez pas encore fait d'annonces sur le marché",
+    "INFO": "Utilisez `sml` et`smul` pour supprimer une annonce\nUne seule annonce peut être publiée à la fois",
+    "FOOTER": "Affichage de 1-{{pages}} de {{total}} | Pour acheter, utilisez smp <id> [montant]"
+}

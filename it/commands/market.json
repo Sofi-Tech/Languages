@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Visualizza le offerte elencate nel mercato",
+    "NO_LISTING_FOUND": "Nessuna offerta trovata",
+    "STOCK": "Stock",
+    "RATE": "Tariffa",
+    "MARKET_WARN": "Non utilizzare il mercato per conservare o nascondere i desideri. Sono rimossi senza alcuna compensazione.\nTariffa media: {{averageRate}} Commerci totali: {{totalTrades}}",
+    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Per acquistare usa smp <id> [quantità]"
+}

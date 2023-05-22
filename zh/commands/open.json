@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "打开宝箱和战利品箱。",
+    "SLASH_DESC_1": "输入您要打开的物品。",
+    "SLASH_DESC_2": "输入你要打开的数量。",
+    "CORRECT_USAGE": "正确用法：{{prefix}}open <宝箱名称/战利品箱名称> [数量/全部]",
+    "CORRECT_USAGE_2": "{{prefix}}open charm/sc",
+    "EMPTY_INV": "您的库存为空",
+    "CHARM_MISSING": "您的库存中缺少魅力",
+    "SOFI_CARDS_MISSING": "Sofi 的卡片不够",
+    "CONGRATS": "恭喜！您获得了",
+    "SERIES": "系列",
+    "NAME": "名称",
+    "CHEST_INFO": "即使活动结束，也可以打开宝箱",
+    "PROVIDE_NUM": "请提供 1 到 10 之间的数字",
+    "CHEST_MISSING": "您的库存中没有{{replacedArg}}个{{chestName}}宝箱。",
+    "COMMON_INFO_1": "您已经打开了{{totalChests}}个{{chestName}}宝箱",
+    "ITEMS_FOUND": "发现物品：",
+    "COMMON_RARE_FOOTER": "每连续{{count}}天打卡可获得一个{{chestName}}宝箱",
+    "EXOTIC_DIVINE_FOOTER": "每月投{{count}}票可获得一个{{chestName}}宝箱"
+}

@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Membuka peti dan kotak hadiah.",
+    "SLASH_DESC_1": "Masukkan item yang ingin kamu buka.",
+    "SLASH_DESC_2": "Masukkan jumlahnya.",
+    "CORRECT_USAGE": "Penggunaan yang Benar: {{prefix}}open <Nama Peti/Nama Kotak Hadiah> [Nomor/Semua]",
+    "CORRECT_USAGE_2": "{{prefix}}open charm/sc",
+    "EMPTY_INV": "Inventorimu kosong.",
+    "CHARM_MISSING": "Charm tidak ada di inventori kamu.",
+    "SOFI_CARDS_MISSING": "Tidak cukup kartu dalam koleksi Sofi.",
+    "CONGRATS": "Selamat! kamu mendapatkan",
+    "SERIES": "Seri",
+    "NAME": "Nama",
+    "CHEST_INFO": "Peti dapat dibuka bahkan setelah acara berakhir.",
+    "PROVIDE_NUM": "Harap berikan nomor antara 1 - 10.",
+    "CHEST_MISSING": "Kamu tidak memiliki {{replacedArg}} {{chestName}} Peti di inventori kamu.",
+    "COMMON_INFO_1": "Kamu telah membuka {{totalChests}} {{chestName}} Peti.",
+    "ITEMS_FOUND": "Item yang Ditemukan:",
+    "COMMON_RARE_FOOTER": "Kamu mendapatkan {{chestName}} Peti untuk setiap urutan harian {{count}}.",
+    "EXOTIC_DIVINE_FOOTER": "Kamu mendapatkan {{chestName}} Peti untuk {{count}} suara setiap bulan."
+}

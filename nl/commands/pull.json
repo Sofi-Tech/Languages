@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Trekt verschillende items zoals ruilen, amuletten en geanimeerde kaartfragmenten",
+    "PULL_AMT": "{{user}} geef het aantal trekt aan, 1 of 10",
+    "INFO_1": "Kans om een fragment te krijgen is 12%",
+    "INFO_2": "Kansen op het krijgen van amuletten en ruilen zijn laag",
+    "INFO_3": "Elk geanimeerd karakter vereist 8 fragmenten",
+    "INFO_4": "Elk personage heeft 100 niet-herhaalbare genen",
+    "INFO_5": "Daarna kunnen overgebleven fragmenten worden verbrand om een amulet te krijgen",
+    "PULLS": "SOFI: TREKKINGEN",
+    "PULL_COUNT": "Trek aantal: {{count}}",
+    "MISSING_CURR": "{{user}} heeft geen {{amount}} {{currName}}",
+    "AMOUNT": "Bedrag: {{amount}}",
+    "PULL_COUNT_WIST": "Trek aantal: {{pullcount}} | U kunt wist kopen van smarket"
+}

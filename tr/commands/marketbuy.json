@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Pazardan bir fırsat satın alın",
+    "CORRECT_USAGE": "{{user}} | Doğru Kullanım : smp <fırsat kimliği> [wist miktarı]",
+    "INVALID_DEAL_ID": "Geçersiz Fırsat Kimliği: Lütfen yeniden kontrol edin",
+    "CANNOT_PURCHASE": "{{user}} | Satın alınamaz fırsat",
+    "CANNOT_SELF": "{{user}} | Kendi fırsatınızı satın alamazsınız",
+    "WIST_NOT_EXCEED": "Wist miktarı {{amount}}'i geçmemelidir",
+    "PRODUCT": "Ürün",
+    "VALUE": "Değer",
+    "RATE": "Oran",
+    "CONFIRM_ASK": "Bu fırsatı satın almak istediğinizden emin misiniz?",
+    "ALREADY_IN_PURCHASE": "Zaten pazar satın alımındasınız",
+    "CANCELLED": "İptal edildi",
+    "PURCHASE_FAILED": "Fırsat {{dealId}} satın alırken hata oluştu",
+    "PURCHASE_CANCELLED": "Satın alma iptal edildi! Fırsat artık piyasada mevcut değil",
+    "MISSING_GEMS": "{{gemPrice}} taş eksiksiniz",
+    "SOMETHING_WRONG": "Bir şeyler yanlış gitti. Yeniden deneyin",
+    "PURCHASE_SUCCESSFUL": "Satın alma başarılı oldu",
+    "SUCCESS": "{{wistAmount}} wist, {{gemPrice}} taş için satın alındı | Fırsat Kimliği: {{dealId}}"
+}

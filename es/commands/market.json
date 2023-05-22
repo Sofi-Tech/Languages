@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Muestra las ofertas listadas en el mercado",
+    "NO_LISTING_FOUND": "No se encontraron listados",
+    "STOCK": "Existencias",
+    "RATE": "Tasa",
+    "MARKET_WARN": "No use el mercado para almacenar o ocultar objetos.\nSerán eliminados sin compensación.\nTasa media: {{averageRate}} Total de transacciones: {{totalTrades}}",
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use smp <id> [cantidad]"
+}

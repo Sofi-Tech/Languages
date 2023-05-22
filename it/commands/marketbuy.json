@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Acquista un'offerta dal mercato",
+    "CORRECT_USAGE": "{{user}} | Utilizzo corretto: smp <ID offerta> [quantità wist]",
+    "INVALID_DEAL_ID": "ID offerta non valido fornito: controllare nuovamente",
+    "CANNOT_PURCHASE": "{{user}} | Impossibile acquistare quell'offerta",
+    "CANNOT_SELF": "{{user}} | Non puoi acquistare la tua offerta",
+    "WIST_NOT_EXCEED": "La quantità di wist non deve superare {{amount}}",
+    "PRODUCT": "Prodotto",
+    "VALUE": "Valore",
+    "RATE": "Tariffa",
+    "CONFIRM_ASK": "Sei sicuro di voler acquistare questa offerta?",
+    "ALREADY_IN_PURCHASE": "Sei già in acquisto di mercato",
+    "CANCELLED": "Annullato",
+    "PURCHASE_FAILED": "Acquisto offerta {{dealId}} non riuscito",
+    "PURCHASE_CANCELLED": "Acquisto annullato! L'offerta non è più disponibile sul mercato",
+    "MISSING_GEMS": "Ti mancano {{gemPrice}} gemme",
+    "SOMETHING_WRONG": "Qualcosa è andato storto. Riprova",
+    "PURCHASE_SUCCESSFUL": "L'acquisto è stato effettuato con successo",
+    "SUCCESS": "{{wistAmount}} wist sono stati acquistati per {{gemPrice}} gemme | ID offerta: {{dealId}}"
+}

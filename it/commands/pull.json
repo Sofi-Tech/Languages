@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Pesca oggetti diversi come scambi, amuleti e frammenti di carte animate.",
+    "PULL_AMT": "{{user}} indica la quantità di pesca, 1 o 10.",
+    "INFO_1": "La probabilità di ottenere un frammento è del 12%.",
+    "INFO_2": "La probabilità di ottenere amuleti e scambi è bassa.",
+    "INFO_3": "Ogni personaggio animato richiede 8 frammenti.",
+    "INFO_4": "Ogni personaggio ha 100 generi non ripetitivi.",
+    "INFO_5": "I frammenti rimanenti possono essere bruciati per ottenere un amuleto.",
+    "PULLS": "SOFI: PESCA",
+    "PULL_COUNT": "Pesca n° {{count}}",
+    "MISSING_CURR": "{{user}} non ha {{amount}} {{currName}}",
+    "AMOUNT": "Quantità: {{amount}}",
+    "PULL_COUNT_WIST": "Pesca n° {{pullcount}} | È possibile acquistare Wist da smarket."
+}

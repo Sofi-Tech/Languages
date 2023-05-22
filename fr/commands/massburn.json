@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Brûlez en masse vos cartes",
+    "IN_ACTIVE_MB": "{{user}} vous êtes déjà en commande de massburn active.\n Annulez la dernière commande ou brûlez les cartes de la dernière commande pour commencer une nouvelle commande de massburn.",
+    "PROVIDE_FILTERS": "Fournir un filtre pour filtrer la collection : t=nomdutag, g><=gen, wl><=wishlist",
+    "WRONG_TAG": "Mauvais tag fourni. Veuillez vérifier à nouveau.",
+    "NO_CARDS_FOUND": "{{user}} vous n'avez pas encore réclamé de cartes.",
+    "CARDS_BURNED": "Cartes brûlées [${totalCards}]",
+    "CONFIRM_ASK": "Êtes-vous sûr de vouloir brûler ces cartes ?",
+    "MISSING_CARDS": "Une des cartes de la collection massburn manque. Réessayez la commande.",
+    "SUCCESS": "Les cartes ont été brûlées avec succès",
+    "BURN_REWARDS": "Burn Rewards",
+    "CANCELLED": "Annulé"
+}

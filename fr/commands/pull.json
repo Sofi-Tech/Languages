@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Tire différents éléments comme le swap, les charmes et les fragments de cartes animées",
+    "PULL_AMT": "{{user}} fournir le montant de tirage soit 1 ou 10",
+    "INFO_1": "La chance d'obtenir un fragment est de 12%",
+    "INFO_2": "Les chances d'obtenir des charmes et des swaps sont faibles",
+    "INFO_3": "Chaque personnage animé a besoin de 8 fragments",
+    "INFO_4": "Chaque personnage a 100 générations non répétitives",
+    "INFO_5": "Ensuite, les fragments restants peuvent être brûlés pour obtenir un charme",
+    "PULLS": "SOFI : TIRES",
+    "PULL_COUNT": "Nombre de tirages : {{count}}",
+    "MISSING_CURR": "{{user}} n'a pas {{amount}} {{currName}}",
+    "AMOUNT": "Montant : {{amount}}",
+    "PULL_COUNT_WIST": "Nombre de tirages : {{pullcount}} | Vous pouvez acheter des Wist sur Smarket"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "搜索特定系列",
+    "NO__LAST_CHAR_FOUND": "无法找到最后一个字符。请尝试提供系列名称",
+    "NO_CHAR_FOUND": "未找到任何字符",
+    "NO_SERIES_FOUND": "{{name}}没有找到任何结果",
+    "SERIES": "系列",
+    "ERROR": "出现错误。请重试。",
+    "CARD_COLLECTED": "已收集的卡牌: {{collected}}/{{totalCards}}",
+    "TOTAL_WL": "总收藏清单: {{wlCount}}",
+    "CHARACTERS": "角色"
+}

@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Naglalaman ng mga kahon at bag ng mga gamit.",
+    "SLASH_DESC_1": "Ipasok ang mga nais mong buksan.",
+    "SLASH_DESC_2": "Ipasok ang bilang.",
+    "CORRECT_USAGE": "Tamang Paggamit: {{prefix}}buksan <Pangalan ng Kahon/Pangalan ng Bag ng Gamit> [Bilang/Lahat]",
+    "CORRECT_USAGE_2": "{{prefix}}buksan kagat/sc",
+    "EMPTY_INV": "Walang laman ang iyong imbentaryo",
+    "CHARM_MISSING": "Wala kang charm sa iyong imbentaryo",
+    "SOFI_CARDS_MISSING": "Hindi sapat ang kard ng koleksyon ni Sofi",
+    "CONGRATS": "Felisitasyon! nakakuha ka ng",
+    "SERIES": "Serye",
+    "NAME": "Pangalan",
+    "CHEST_INFO": "Maaari pang buksan ang mga kahon kahit matapos ang event",
+    "PROVIDE_NUM": "Mangyaring magbigay ng bilang mula 1 - 10",
+    "CHEST_MISSING": "Wala kang {{replacedArg}} {{chestName}} Pong kahon sa iyong imbentaryo.",
+    "COMMON_INFO_1": "Nabuksan mo ang {{totalChests}} {{chestName}} Kahon",
+    "ITEMS_FOUND": "Mga Gnatagpuan:",
+    "COMMON_RARE_FOOTER": "Nakakuha ka ng {{chestName}} Kahon para sa bawat {{count}} beses na kasunod",
+    "EXOTIC_DIVINE_FOOTER": "Nakakuha ka ng {{chestName}} Kahon sa bawat {{count}} boto kada buwan"
+}

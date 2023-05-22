@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Apri casse e scrigni contenenti oggetti.",
+    "SLASH_DESC_1": "Inserisci il nome dell'oggetto che vuoi aprire.",
+    "SLASH_DESC_2": "Inserisci la quantità.",
+    "CORRECT_USAGE": "Utilizzo corretto: {{prefix}}apri <Nome Cassa/Nome Scrigno> [Numero/Tutti]",
+    "CORRECT_USAGE_2": "{{prefix}}apri amuleto/sc",
+    "EMPTY_INV": "Il tuo inventario è vuoto.",
+    "CHARM_MISSING": "Manca un amuleto nel tuo inventario.",
+    "SOFI_CARDS_MISSING": "Non hai abbastanza carte nella collezione di Sofi.",
+    "CONGRATS": "Congratulazioni! Hai ottenuto",
+    "SERIES": "Serie",
+    "NAME": "Nome",
+    "CHEST_INFO": "Le casse possono essere aperte anche dopo la fine dell'evento.",
+    "PROVIDE_NUM": "Inserisci un numero tra 1 e 10.",
+    "CHEST_MISSING": "Non hai {{replacedArg}} casse {{chestName}} nel tuo inventario.",
+    "COMMON_INFO_1": "Hai aperto un totale di {{totalChests}} casse {{chestName}}.",
+    "ITEMS_FOUND": "Oggetti Trovati:",
+    "COMMON_RARE_FOOTER": "Ottieni una cassa {{chestName}} ogni {{count}} giorni consecutivi.",
+    "EXOTIC_DIVINE_FOOTER": "Ottieni una cassa {{chestName}} per {{count}} voti ogni mese."
+}

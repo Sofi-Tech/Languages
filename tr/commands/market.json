@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Piyasadaki listelenen fırsatları gösterir",
+    "NO_LISTING_FOUND": "Kayıt bulunamadı",
+    "STOCK": "Stok",
+    "RATE": "Oran",
+    "MARKET_WARN": "Marketi depolama veya saklama yapmak için kullanmayın.\nTazminatsız olarak kaldırılacaklar.\nOrtalama Oran : {{averageRate}} Toplam İşlem : {{totalTrades}}",
+    "FOOTER": "Toplam {{total}} kayıttan 1-{{pages}} gösteriliyor | Satın almak için smp <id> [miktar] kullanın"
+}

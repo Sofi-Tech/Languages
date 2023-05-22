@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Ricerca di una serie specifica",
+    "NO__LAST_CHAR_FOUND": "Impossibile trovare l'ultimo carattere. Prova a inserire il nome della serie",
+    "NO_CHAR_FOUND": "Nessun carattere trovato",
+    "NO_SERIES_FOUND": "Nessun risultato per {{name}} trovato",
+    "SERIES": "SERIE",
+    "ERROR": "Si è verificato un errore. Si prega di riprovare",
+    "CARD_COLLECTED": "Carte Collezionate: {{collected}}/{{totalCards}}",
+    "TOTAL_WL": "Totale Lista dei desideri: {{wlCount}}",
+    "CHARACTERS": "Personaggi"
+}

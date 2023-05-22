@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "从市场上取消挂单",
+    "CORRECT_USAGE": "{{user}} | 请提供交易 ID，或使用 all 一次性取消所有交易",
+    "INVALID_DEAL_ID": "提供的交易 ID 无效: 请再次确认并检查是否为您所列出",
+    "SUCCESS_UL": "{{user}} {{dealId}} 已成功从市场上取消挂单",
+    "NO_LISTINGS_FOUND": "{{user}} 您还没有在市场上进行任何挂单",
+    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} 笔交易已成功从市场上取消挂单"
+}

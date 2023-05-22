@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "获取不同的物品，如交换、符咒和动画卡牌碎片",
+    "PULL_AMT": "{{user}}提供要拉取的数量，可以是1或10",
+    "INFO_1": "获得碎片的机会为12%",
+    "INFO_2": "获得符咒和交换的机会较低",
+    "INFO_3": "每个动画角色需要8个碎片",
+    "INFO_4": "每个角色有100个不重复的珍珠",
+    "INFO_5": "之后剩余的碎片可以被烧掉以获得一枚符咒",
+    "PULLS": "SOFI：PULLS",
+    "PULL_COUNT": "拉取次数：{{count}}",
+    "MISSING_CURR": "{{user}}没有{{amount}}个{{currName}}",
+    "AMOUNT": "金额：{{amount}}",
+    "PULL_COUNT_WIST": "拉取次数：{{pullcount}}| 您可以从市场购买威斯特"
+}

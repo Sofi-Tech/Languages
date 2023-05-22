@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Lösche all deine Karten",
+    "IN_ACTIVE_MB": "{{user}}, du befindest dich bereits im aktiven Massenverbrennungsbefehl.\n Storniere den letzten Befehl oder verbrenne die Karten des letzten Befehls, um einen neuen Massenverbrennungsbefehl zu starten",
+    "PROVIDE_FILTERS": "Gib einen Filter für die Sammlung an: t=Tagname, g><=Generation, wl><=Wunschliste",
+    "WRONG_TAG": "Falscher Tag angegeben. Bitte überprüfe es noch einmal",
+    "NO_CARDS_FOUND": "{{user}}, du hast keine Karten beansprucht",
+    "CARDS_BURNED": "Karten wurden verbrannt [${totalCards}]",
+    "CONFIRM_ASK": "Bist du sicher, dass du diese Karten verbrennen möchtest?",
+    "MISSING_CARDS": "Eine Karte aus der Massenverbrennungssammlung fehlt. Versuche den Befehl erneut",
+    "SUCCESS": "Karten wurden erfolgreich verbrannt",
+    "BURN_REWARDS": "Verbrennungs-Belohnungen",
+    "CANCELLED": "Abgebrochen"
+}

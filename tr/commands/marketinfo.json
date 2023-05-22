@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Piyasada listelenize ya da belirli bir işlemle ilgili bilgileri görüntüler",
+    "INVALID_DEAL_ID": "Geçersiz işlem ID'si sağlandı: Lütfen kontrol edin",
+    "TRADER": "Tüccar",
+    "DEAL_ID": "Fiyat",
+    "PRODUCT": "Ürün",
+    "VALUE": "Değer",
+    "RATE": "Oran",
+    "LISTED": "Listelenen",
+    "NO_LISTINGS_FOUND": "{{user}}, piyasada herhangi bir liste yapmadınız",
+    "INFO": "İptal etmek için `sml` ve `smul` kullanın\ntek bir işlem aynı anda listelenebilir",
+    "FOOTER": "{{total}} toplamından 1-{{pages}} gösteriliyor | Satın almak için smp <id> [miktar] kullanın"
+}

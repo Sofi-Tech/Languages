@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Kaufen Sie ein Angebot vom Markt",
+    "CORRECT_USAGE": "{{user}} | Korrekte Verwendung: smp <Deal-ID> [Wist-Betrag]",
+    "INVALID_DEAL_ID": "Ungültige Deal-ID bereitgestellt: Bitte überprüfen Sie erneut",
+    "CANNOT_PURCHASE": "{{user}} | Kann das Angebot nicht kaufen",
+    "CANNOT_SELF": "{{user}} | Sie können Ihr eigenes Angebot nicht kaufen",
+    "WIST_NOT_EXCEED": "Der Wist-Betrag sollte nicht mehr als {{amount}} betragen",
+    "PRODUCT": "Produkt",
+    "VALUE": "Wert",
+    "RATE": "Rate",
+    "CONFIRM_ASK": "Sind Sie sicher, dass Sie dieses Angebot kaufen möchten?",
+    "ALREADY_IN_PURCHASE": "Sie sind bereits im Marktkauf",
+    "CANCELLED": "Abgebrochen",
+    "PURCHASE_FAILED": "Der Kauf des Angebots {{dealId}} ist fehlgeschlagen",
+    "PURCHASE_CANCELLED": "Kauf abgebrochen! Angebot ist nicht mehr im Markt verfügbar",
+    "MISSING_GEMS": "Ihnen fehlen {{gemPrice}} Edelsteine",
+    "SOMETHING_WRONG": "Es ist ein Fehler aufgetreten. Versuche es erneut",
+    "PURCHASE_SUCCESSFUL": "Der Kauf war erfolgreich",
+    "SUCCESS": "{{wistAmount}} Wists wurden für {{gemPrice}} Edelsteine gekauft | Deal-ID: {{dealId}}"
+}

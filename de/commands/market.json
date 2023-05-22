@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Zeigt aufgelistete Angebote auf dem Markt an",
+    "NO_LISTING_FOUND": "Keine Angebote gefunden",
+    "STOCK": "Bestand",
+    "RATE": "Preis",
+    "MARKET_WARN": "Verwenden Sie den Markt nicht zum Speichern oder Verstecken von Wists.\nSie werden ohne Entschädigung entfernt.\nDurchschnittspreis: {{averageRate}} Gesamttrades: {{totalTrades}}",
+    "FOOTER": "Zeigt 1-{{pages}} von {{total}} an | Um zu kaufen, verwenden Sie smp <ID> [Menge]"
+}

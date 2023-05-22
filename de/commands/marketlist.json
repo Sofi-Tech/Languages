@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Listenelement auf dem Markt",
+    "CORRECT_USAGE": "{{user}} Korrekte Verwendung: sml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} Ungültige Edelsteinrate",
+    "GEM_RATE_LIES": "{{user}} Die Edelsteinrate muss zwischen 3,0 und 20,0 liegen",
+    "ALREADY_EXISTS": "Sie haben bereits einen Deal {{dealID}}\nEntfernen Sie den Deal, bevor Sie ihn erneut listen",
+    "PRODUCTS": "Produkte",
+    "RATE": "Rate",
+    "VALUE": "Wert",
+    "CONFIRM_FOOTER": "Sind Sie sicher, dass Sie diesen Deal auf dem Markt listen möchten?",
+    "CONFIRM_ASK": "Sind Sie sicher?",
+    "CANCELLED": "Abgebrochen",
+    "NOT_ENOUGH_CANCEL": "Abgebrochen aufgrund fehlender Wists",
+    "CONFIRM_TEXT": "Deal auf dem Markt hinzugefügt",
+    "SUCCESS": "Der Deal wurde erfolgreich gelistet",
+    "SUCCESS_FOOTER": "Deal-ID: {{dealId}}"
+}

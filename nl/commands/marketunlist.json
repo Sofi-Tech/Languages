@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Een deal van de markt afhalen",
+    "CORRECT_USAGE": "{{user}} | Geef alstublieft de deal-ID op of gebruik 'all' om alle deals tegelijkertijd van de markt af te halen",
+    "INVALID_DEAL_ID": "Ongeldige Deal-ID opgegeven: Controleer opnieuw en controleer of u deze heeft opgenomen",
+    "SUCCESS_UL": "{{user}} {{dealId}} is succesvol van de markt afgehaald",
+    "NO_LISTINGS_FOUND": "{{user}} u heeft nog geen lijst geplaatst op de markt",
+    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} deals zijn succesvol van de markt afgehaald"
+}

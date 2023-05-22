@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "العنصر المدرج في السوق",
+    "CORRECT_USAGE": "{{user}} الاستخدام الصحيح: sml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} معدل الجوهرة غير صالح",
+    "GEM_RATE_LIES": "{{user}} يجب أن يكون سعر الجوهرة بين 3.0-20.0",
+    "ALREADY_EXISTS": "لديك صفقة موجودة {{dealID}}\nالغي الصفقة قبل إعادة الإدراج",
+    "PRODUCTS": "المنتجات",
+    "RATE": "المعدل",
+    "VALUE": "القيمة",
+    "CONFIRM_FOOTER": "هل أنت متأكد أنك تريد إدراج هذه الصفقة في السوق؟",
+    "CONFIRM_ASK": "هل أنت متأكد؟",
+    "CANCELLED": "ألغيت",
+    "NOT_ENOUGH_CANCEL": "ألغي بسبب عدم وجود wists كافية",
+    "CONFIRM_TEXT": "أضيف الصفقة إلى السوق",
+    "SUCCESS": "تم إدراج الصفقة بنجاح",
+    "SUCCESS_FOOTER": "رقم الصفقة: {{dealId}}"
+}

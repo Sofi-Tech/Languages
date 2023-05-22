@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Opent kisten en lootboxes.",
+    "SLASH_DESC_1": "Voer het item in dat je wilt openen.",
+    "SLASH_DESC_2": "Voer het aantal in.",
+    "CORRECT_USAGE": "Correct gebruik: {{prefix}}open <Kist Naam / Lootbox Naam> [Nummer / Alles]",
+    "CORRECT_USAGE_2": "{{prefix}}open charm / sc",
+    "EMPTY_INV": "Je inventaris is leeg",
+    "CHARM_MISSING": "Missende amulet in je inventaris",
+    "SOFI_CARDS_MISSING": "Niet genoeg kaarten in SoFi's collectie",
+    "CONGRATS": "Gefeliciteerd! je hebt",
+    "SERIES": "Serie",
+    "NAME": "Naam",
+    "CHEST_INFO": "Kisten kunnen worden geopend, zelfs nadat het evenement is afgelopen",
+    "PROVIDE_NUM": "Geef alstublieft een nummer tussen de 1 - 10",
+    "CHEST_MISSING": "Je hebt geen {{replacedArg}} {{chestName}} kisten in je inventaris.",
+    "COMMON_INFO_1": "Je hebt {{totalChests}} {{chestName}} kisten geopend",
+    "ITEMS_FOUND": "Gevonden items:",
+    "COMMON_RARE_FOOTER": "Je krijgt een {{chestName}} kist voor elke {{count}} dagelijkse streaks",
+    "EXOTIC_DIVINE_FOOTER": "Je krijgt {{chestName}} kist voor {{count}} stemmen elke maand"
+}

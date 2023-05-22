@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Membatalkan penawaran dari pasar",
+    "CORRECT_USAGE": "{{user}} | Harap berikan ID penawaran atau gunakan semua untuk membatalkan semua penawaran sekaligus",
+    "INVALID_DEAL_ID": "ID Penawaran tidak valid: Silakan periksa lagi dan pastikan sudah terdaftar oleh Anda",
+    "SUCCESS_UL": "{{user}} {{dealId}} berhasil dibatalkan dari pasar",
+    "NO_LISTINGS_FOUND": "{{user}} Anda belum membuat penawaran apapun di pasar",
+    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} penawaran berhasil dibatalkan dari pasar"
+}

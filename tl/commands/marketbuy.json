@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Bumili ng isang deal mula sa pamilihan",
+    "CORRECT_USAGE": "{{user}} | Tamang Paggamit: smp <id ng deal> [halagang wist]",
+    "INVALID_DEAL_ID": "Maling ID ng Deal ang ibinigay: Pakikontrol muli",
+    "CANNOT_PURCHASE": "{{user}} | Hindi maaaring bilhin ang deal na iyon",
+    "CANNOT_SELF": "{{user}} | Hindi mo mabili ang iyong sariling deal",
+    "WIST_NOT_EXCEED": "Ang halagang wist ay hindi dapat lumagpas sa {{amount}}",
+    "PRODUCT": "Produkto",
+    "VALUE": "Halaga",
+    "RATE": "Rate",
+    "CONFIRM_ASK": "Sigurado ka bang gusto mong bilhin itong deal na ito?",
+    "ALREADY_IN_PURCHASE": "Ikaw ay nasa market purchase na",
+    "CANCELLED": "Kanselado",
+    "PURCHASE_FAILED": "Ang pagbili ng deal {{dealId}} ay nabigo",
+    "PURCHASE_CANCELLED": "Pagbili ay kanselado! Ang deal ay hindi na magagamit sa pamilihan",
+    "MISSING_GEMS": "Ikaw ay kulang ng {{gemPrice}} gems",
+    "SOMETHING_WRONG": "May mali, subukan muli",
+    "PURCHASE_SUCCESSFUL": "Matagumpay na nabili ang deal",
+    "SUCCESS": "{{wistAmount}} wists ay nabili para sa {{gemPrice}} gems | Deal ID: {{dealId}}"
+}

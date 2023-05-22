@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Permainan tebak kata",
+    "CORRECT_USAGE": "{{user}} **penggunaan yang benar: sguess <jumlah> <mata uang>**\n|`silvers` `wists` `gems` `cubes`",
+    "NO_TP": "${message.author} tidak memiliki tradepass aktif. Tebus poin bump di situs untuk menerima tradepass",
+    "NOT_ENOUGH_CURR": "{{user}} **| Kamu tidak memiliki cukup `{{mata uang}}` untuk memulai permainan**",
+    "INFO_1": "{{user}} memulai permainan tebak kata",
+    "INFO_2": "Peserta harus memiliki {{bet}} {{mata uang}} untuk bermain",
+    "INFO_3": "Hadiah: {{jackpot}} {{currencyEmoji}}",
+    "INFO_4": "Pemain: [{{playerCount}}]",
+    "FOOTER": "Pemain React dengan 🍻 untuk bergabung | Peluncur game react dengan 🟢 untuk memulai permainan",
+    "REQ_MORE_PLAYERS": "{{user}} meminta lebih banyak pemain untuk bergabung**",
+    "GUESS_THE_WORD": "Tebak kata yang diberikan: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} menebak dengan benar {{word}} dan memenangkan {{jackpot}} {{mata uang}}",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `sgive <pengguna/userID> <kodekartu>"
+}

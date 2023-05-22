@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Rate mal das Wort-Spiel",
+    "CORRECT_USAGE": "{{user}} **korrekte Nutzung: sguess <Betrag> <Währung>**\n| `Silbers` `Wists` `Edelsteine` `Cubes`",
+    "NO_TP": "${message.author} hat keinen aktiven Tradepass. Löse die Bump-Punkte auf der Website ein, um einen Tradepass zu erhalten",
+    "NOT_ENOUGH_CURR": "{{user}} **| Du hast nicht genug {{currency}}, um das Spiel zu starten**",
+    "INFO_1": "{{user}} hat das Rätselspiel gestartet",
+    "INFO_2": "Teilnehmer müssen {{bet}} {{currency}} haben, um zu spielen",
+    "INFO_3": "Preis: {{jackpot}} {{currencyEmoji}}",
+    "INFO_4": "Spieler: [{{playerCount}}]",
+    "FOOTER": "Spieler reagieren mit 🍻, um beizutreten | Spielstarter reagieren mit 🟢, um das Spiel zu starten",
+    "REQ_MORE_PLAYERS": "{{user}} bittet um weitere Spieler**",
+    "GUESS_THE_WORD": "Rate das gegebene Wort: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} hat {{word}} richtig geraten und {{jackpot}} {{currency}} gewonnen",
+    "WRONG_USAGE": "{{author}} Richtige Verwendung: `sgive <user/userID> <Kartencode>`"
+}

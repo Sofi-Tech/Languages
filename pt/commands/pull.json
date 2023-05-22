@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Puxa diferentes itens como swaps, amuletos e fragmentos de cartas animadas",
+    "PULL_AMT": "{{user}} fornece a quantidade de pull, 1 ou 10",
+    "INFO_1": "Chance de obter um fragmento é de 12%",
+    "INFO_2": "As chances de conseguir amuletos e swaps são baixas",
+    "INFO_3": "Cada personagem animado precisa de 8 fragmentos",
+    "INFO_4": "Cada personagem tem 100 gens não repetitivos",
+    "INFO_5": "A seguir, os fragmentos restantes podem ser queimados para obter um amuleto",
+    "PULLS": "SOFI: PUXADAS",
+    "PULL_COUNT": "Contagem de puxadas: {{count}}",
+    "MISSING_CURR": "{{user}} não tem {{amount}} {{currName}}",
+    "AMOUNT": "Quantidade: {{amount}}",
+    "PULL_COUNT_WIST": "Contagem de puxadas: {{pullcount}} | Você pode comprar wist na smarket"
+}

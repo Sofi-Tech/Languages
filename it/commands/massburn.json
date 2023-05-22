@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Brucia in massa le tue carte",
+    "IN_ACTIVE_MB": "{{user}} sei già nella modalità di bruciatura in massa attiva.\n Cancella l'ultimo comando o brucia le carte dell'ultimo comando per avviare una nuova bruciatura in massa",
+    "PROVIDE_FILTERS": "Fornisci un filtro per filtrare la collezione: t=nometaffa, g><=gen, wl><=wishlist",
+    "WRONG_TAG": "È stato fornito un tag errato. Per favore, controlla di nuovo",
+    "NO_CARDS_FOUND": "{{user}} non hai ancora riscattato nessuna carta",
+    "CARDS_BURNED": "Carte bruciate [${totalCards}]",
+    "CONFIRM_ASK": "Sei sicuro di voler bruciare queste carte?",
+    "MISSING_CARDS": "Una delle carte della collezione di bruciatura in massa manca. Prova il comando di nuovo",
+    "SUCCESS": "Le carte sono state bruciate con successo",
+    "BURN_REWARDS": "Premi di Bruciatura",
+    "CANCELLED": "Annullato"
+}
