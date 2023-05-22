@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "Excluir Tag Brilhante",
+    "DGT_DESCRIPTION": "Exclui a \"Glow Tag\"",
     "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "Uso: sdgt <nomedatag>",
-    "GLOWTAG_NOT_FOUND": "Essa tag brilhante não está na sua lista de tags brilhantes",
-    "DELETE_GLOWTAG": "Tag Brilhante {{tag}} Excluída"
+    "CORRECT_USAGE": "{{author}} Uso correto: `sdgt <Nome da Tag>`",
+    "GLOWTAG_NOT_FOUND": "{{author}} Não foi possível encontrar essa `Glow Tag`",
+    "DELETE_GLOWTAG": "{{author}} `Glow Tag` {{tag}} Excluída"
 }

@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "Remover as marcações dos cartões",
+    "UT_DESCRIPTION": "Remove as \"Tags\" de suas cartas",
     "UT_CATEGORY": "Marcas",
-    "INVALID_CODE": "Código de cartão inválido ou cartão não encontrado",
-    "UNTAG_SUCCESSFULL": "Marcas removidas com sucesso do cartão {{cardName}}",
-    "MULTIPLE_UNTAG": "Marcas removidas de {{validCards}}{{invalidCards}}"
+    "INVALID_CODE": "Você não tem nenhuma carta em seu inventário",
+    "UNTAG_SUCCESSFULL": "**{{cardName}}** Teve sua `Tag` removida com sucesso",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

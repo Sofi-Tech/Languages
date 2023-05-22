@@ -2,7 +2,7 @@
     "DESCRIPTION": "Remove o personagem da sua lista de desejos",
     "CATEGORY": "Lista de Desejos",
     "NO_INDEX": "Nenhum nome ou número foi fornecido! | Para limpar a sua lista de desejos inteira, use o comando `swr full reset`",
-    "FULL_RESET": "> {{author}} removeu {{total}} personagens da sua lista de desejos",
-    "REMOVE_CHARACTER": "> {{author}} removeu \"{{name}}\" da sua lista de desejos",
-    "NO_RESULTS": "> {{author}} nenhum resultado encontrado para {{name}}"
+    "FULL_RESET": "> {{author}} Você removeu **__{{total}}__** personagens da sua lista de desejos",
+    "REMOVE_CHARACTER": "> {{author}} Você removeu **{{name}}** da sua lista de desejos",
+    "NO_RESULTS": "> {{author}} nenhum resultado encontrado para **\"{{name}}\"**"
 }

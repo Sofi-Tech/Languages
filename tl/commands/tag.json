@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} Wala ka pang mga `Tags`. Maari kang gumawa gamit ang command na `stc <Pangalan ng Tag> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Walang kang kahit anong`Tag` na ngangalang `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Wala kang mga kards para i `Tag`",
-    "INVALID_CARD_CODE": "{{author}} Ang kard code na iyong ibinigay ay hindi valid",
+    "INVALID_CARD_CODE": "{{author}} Ang card code na iyong nilagay ay hindi valid",
     "SUCCESSFUL_TAG": "{{author}} Matagumpay na na-tag ang **{{card}}** bilang `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Ang lahat ng mga kards ay matagumpay na naka `Tagged`"
 }

@@ -1,8 +1,8 @@
 {
-    "GUT_DESCRIPTION": "Remova a etiqueta de brilho",
-    "GUT_CATEGORY": "Etiquetas",
-    "NO_GLOWS_FOUND": "Você ainda não desbloqueou nenhum brilho",
-    "WRONG_GLOWCODE_FORMAT": "O código de brilho começa com #",
-    "INVALID_GLOWCODE": "Código de Brilho Inválido ou Nenhum Brilho Encontrado",
-    "GLOW_UNTAG_SUCCESSFULL": "Etiqueta de ${{glow}} removida com sucesso"
+    "GUT_DESCRIPTION": "Remove as suas \"Glow Tags\"",
+    "GUT_CATEGORY": "Tags",
+    "NO_GLOWS_FOUND": "{{author}} Você não tem `Glows` atualmente",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Códigos de `Glow` sempre começam com um **#**",
+    "INVALID_GLOWCODE": "{{author}} O código de `Glow` providenciado é inválido",
+    "GLOW_UNTAG_SUCCESSFULL": "{{author}} Removeu a tag de {{glow}} com sucesso"
 }

@@ -1,9 +1,9 @@
 {
-    "TL_DESCRIPTION": "Mostra uma lista de tags",
+    "TL_DESCRIPTION": "Exibe uma lista com suas \"Tags\"",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "O usuário não existe.",
-    "NO_TAGS": "{{author}} Nenhuma tag encontrada",
+    "NO_USER": "{{author}} Esse usuário não existe",
+    "NO_TAGS": "{{author}} Não foi possível encontrar nenhuma tag",
     "EMBED_TITLE": "Lista de Tags: {{username}}",
-    "SOFI_FACT": "Fato sobre Sofi: Crie uma tag com stc lock 🔒\nCartões bloqueados não podem ser queimados, doados, negociados\nou queimados em massa.",
-    "EMBED_FOOTER": "Total de tags: {{count}}"
+    "SOFI_FACT": "Cartas que estão em \"Tags\" com um emoji de cadeado \"🔒\" não poder ser queimadas ou trocadas!\nExemplo: \"stc lock 🔒\"",
+    "EMBED_FOOTER": "Número de Tags: {{count}}"
 }

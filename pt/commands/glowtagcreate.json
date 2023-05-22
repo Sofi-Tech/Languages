@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "Criar uma tag brilhante",
+    "GTC_DESCRIPTION": "Cria uma \"Glow Tag\"",
     "GTC_CATEGORY": "Tags",
-    "CORRECT_USAGE": "Uso: `sgtc <nome da tag> <emoji>`",
-    "INVALID_EMOJI": "Esse não é um emoji válido",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} **já existe uma tag brilhante com esse nome",
-    "CREATED_GLOWTAG": "{{author}} **criou uma tag brilhante com o nome:** `{{tag}}` | {{emoji}}"
+    "CORRECT_USAGE": "{{author}} Uso Correto: `sgtc <Nome da Tag> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Esse emoji é inválido",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Uma `Glow Tag` com esse nome já existe",
+    "CREATED_GLOWTAG": "{{author}} Criou uma `Glow Tag` com o nome `{{tag}}` | {{emoji}}"
 }

@@ -2,9 +2,9 @@
     "DESCRIPTION": "Adicione personagens à sua lista de desejos",
     "CATEGORY": "Lista de Desejos",
     "ADD_CHARACTERS_ERROR": "> Você não pode adicionar mais personagens à lista de desejos",
-    "SEARCH_CHARACTER_ERROR": "Forneça um nome de personagem para adicioná-lo à sua lista de desejos\nUse o comando `swa -f <nome>` para uma busca exata",
-    "NO_CHARACTER_FOUND": "Nenhum personagem foi encontrado\nUse o comando `swa -f <nome>` para uma busca exata",
-    "CHARACTER_ALREADY_EXISTS": "{{name}} já está na sua lista de desejos!",
-    "CHARACTER_ADDED": "> {{author}} | {{name}} foi adicionado à sua lista de desejos",
+    "SEARCH_CHARACTER_ERROR": "Forneça um nome para adicionar esse personagem à sua lista de desejos\nUse o comando `swa -f <nome>` para uma busca exata",
+    "NO_CHARACTER_FOUND": "Não foi possível encontrar esse personagem\nUse o comando `swa -f <nome>` para uma busca exata",
+    "CHARACTER_ALREADY_EXISTS": "**{{name}}** já está na sua lista de desejos!",
+    "CHARACTER_ADDED": "{{author}} Adicionou **{{name}}** à sua lista de desejos",
     "EMBED_TITLE": "<:lined:868888105611046942> __Adicionar à lista de desejos__"
 }
