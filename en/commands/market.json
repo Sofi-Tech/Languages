@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Displays listed deals in the market",
+    "NO_LISTING_FOUND": "No listings found",
+    "STOCK": "Stock",
+    "RATE": "Rate",
+    "MARKET_WARN": "Do not use market for storing or hiding wists.\nThey will be removed without compensation.\nAverage Rate : {{averageRate}} Total Trades : {{totalTrades}}",
+    "FOOTER": "Showing 1-{{pages}} of {{total}} | To buy use smp <id> [amount]"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Displays your listing in the market or display details about specific deal",
+    "INVALID_DEAL_ID": "Invalid Deal ID provided: Please check again",
+    "TRADER": "Trader",
+    "DEAL_ID": "Rate",
+    "PRODUCT": "Product",
+    "VALUE": "Value",
+    "RATE": "Rate",
+    "LISTED": "Listed",
+    "NO_LISTINGS_FOUND": "{{user}} you haven't made any listings in the market",
+    "INFO": "Use `sml` and `smul` to unlist\nA single deal can be listed at a time",
+    "FOOTER": "Showing 1-{{pages}} of {{total}} | To buy use smp <id> [amount]"
+}

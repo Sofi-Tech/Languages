@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Purchase a deal from the market",
+    "CORRECT_USAGE": "{{user}} | Correct Usage : smp <deal id> [wist amount]",
+    "INVALID_DEAL_ID": "Invalid Deal ID provided: Please check again",
+    "CANNOT_PURCHASE": "{{user}} | Cannot purchase that deal",
+    "CANNOT_SELF": "{{user}} | You cannot buy your own deal",
+    "WIST_NOT_EXCEED": "Wist amount should not exceed {{amount}}",
+    "PRODUCT": "Product",
+    "VALUE": "Value",
+    "RATE": "Rate",
+    "CONFIRM_ASK": "Are you sure you want to buy this deal?",
+    "ALREADY_IN_PURCHASE": "You are already in market purchase",
+    "CANCELLED": "Cancelled",
+    "PURCHASE_FAILED": "The deal {{dealId}} purchase failed",
+    "PURCHASE_CANCELLED": "Purchase cancelled! Deal is no more available in market",
+    "MISSING_GEMS": "You are missing {{gemPrice}} gems",
+    "SOMETHING_WRONG": "Something went wrong. Try again",
+    "PURCHASE_SUCCESSFUL": "Purchase was successful",
+    "SUCCESS": "{{wistAmount}} wists were purchased for {{gemPrice}} gems | Deal ID: {{dealId}}"
+}

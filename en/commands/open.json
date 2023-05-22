@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Opens chests and lootboxes.",
+    "SLASH_DESC_1": "Enter the item you want to open.",
+    "SLASH_DESC_2": "Enter the amount.",
+    "CORRECT_USAGE": "Correct Usage : {{prefix}}open <Chest Name/Lootbox Name> [Number/All]",
+    "CORRECT_USAGE_2": "{{prefix}}open charm/sc",
+    "EMPTY_INV": "Your Inventory is empty",
+    "CHARM_MISSING": "Missing charm in your inventory",
+    "SOFI_CARDS_MISSING": "Not enough cards in sofi's collection",
+    "CONGRATS": "Congratulations! you got",
+    "SERIES": "Series",
+    "NAME": "Name",
+    "CHEST_INFO": "Chests can be opened even after the event is over",
+    "PROVIDE_NUM": "Please provide a number between 1 - 10",
+    "CHEST_MISSING": "You don't have {{replacedArg}} {{chestName}} Chests in your inventory.",
+    "COMMON_INFO_1": "You have opened {{totalChests}} {{chestName}} Chests",
+    "ITEMS_FOUND": "Items Found:",
+    "COMMON_RARE_FOOTER": "You get a {{chestName}} Chest for every {{count}} daily streaks",
+    "EXOTIC_DIVINE_FOOTER": "You get {{chestName}} Chest for {{count}} votes every month"
+
+}

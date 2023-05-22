@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Pulls different items like swap, charms and animated card fragments",
+    "PULL_AMT": "{{user}} provide pull amount either 1 or 10",
+    "INFO_1": "Chance of getting a fragment is 12%",
+    "INFO_2": "Chances of getting charms and swaps are low",
+    "INFO_3": "Every animated character needs 8 fragments",
+    "INFO_4": "Every character has 100 non repetitive gens",
+    "INFO_5": "Thereafter remaining frags can be burned to get a charm",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Pull count: {{count}}",
+    "MISSING_CURR": "{{user}} don't have {{amount}} {{currName}}",
+    "AMOUNT": "Amount: {{amount}}",
+    "PULL_COUNT_WIST": "Pull Count: {{pullcount}} | You can buy wist from smarket"
+}

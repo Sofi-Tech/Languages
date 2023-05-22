@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Mass burn your cards",
+    "IN_ACTIVE_MB": "{{user}} you are already in active massburn command.\n Cancel the last command or burn the last command cards to begin new mass burn",
+    "PROVIDE_FILTERS": "Provide a filter to filter collection: t=tagname, g><=gen, wl><=wishlist",
+    "WRONG_TAG": "wrong tag provided. Please check again",
+    "NO_CARDS_FOUND": "{{user}} you haven't claimed any cards yet",
+    "CARDS_BURNED": "Cards Burned [${totalCards}]",
+    "CONFIRM_ASK": "Are you sure to burn these cards?",
+    "MISSING_CARDS": "One of card from the massburn collection is missing. Try the command again",
+    "SUCCESS": "Cards were burnt successfully",
+    "BURN_REWARDS": "Burn Rewards",
+    "CANCELLED": "Cancelled"
+}
