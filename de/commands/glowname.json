@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "Ändere den Glow-Namen",
+    "GN_CATEGORY": "Kosmetika",
+    "UNLOCK_GLOWS": "{{author}} entsperren Sie zuerst einige Glows",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `sglowname [glowcode] [newname]`",
+    "WRONG_GLOWCODE_FORMAT": "Glow-Code beginnt mit `#`",
+    "GLOW_NOT_FOUND": "{{author}} konnte diesen Glow in Ihrer Palette nicht finden. Ist der Code korrekt?",
+    "PROVIDE_GLOW_NAME": "{{author}} geben Sie den Glow-Namen an",
+    "GLOW_NAME_LONG": "{{author}} Der Glow-Name ist zu lang. Versuchen Sie es mit weniger als 25 Buchstaben",
+    "GLOW_NAME_EXISTS": "Der Glow-Name ist bereits vergeben ... Innovieren Sie 😎",
+    "EMBED_TITLE": "SOFI: GLOW-NAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Sind Sie sicher, dass Sie `{{oldName}}` in `{{newName}}` ändern möchten?",
+    "EMBED_FOOTER": "Glow: {{availability}}",
+    "MISSING_ITEMS": "Fehlende Artikel",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Glow-Name wurde erfolgreich aktualisiert"
+}

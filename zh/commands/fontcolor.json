@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "更改带有闪光的卡片的字体颜色",
+    "FC_CATEGORY": "化妆品",
+    "WRONG_USAGE": "{{author}}但你需要提供卡代码 `fc [cardcode] [glowcode]`",
+    "NOT_CARD_OWNER": "哦，不！很遗憾，你无法更改你没有所有权的卡片的字体颜色！",
+    "CANNOT_FIND_CARD": "找不到您的最后一张卡片或尝试提供卡代码",
+    "GLOW_ERROR": "错误！应用发光",
+    "3D_ERROR": "您无法更改3D卡片的字体颜色",
+    "UNLOCK_GLOWS": "{{author}}首先解锁一些发光",
+    "PROVIDE_GLOWCODE": "你需要提供发光代码",
+    "WRONG_GLOWCODE": "Glowcode 以 `#` 开始",
+    "CANNOT_FIND_GLOW": "{{author}}在你的调色板中找不到那种发光。代码正确吗？",
+    "EMBED_TITLE": "SOFI: 字体颜色{{reset}}",
+    "COLOR_NAME": "名称：{{name}}",
+    "COLOR_CODE": "代码：`{{code}}`",
+    "GLOW_UNAVAILABLE": "该发光不可用",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "字体颜色已成功更改"
+}

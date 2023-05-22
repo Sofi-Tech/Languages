@@ -1,0 +1,17 @@
+{
+    "UB_DESCRIPTION": "Quitar el fondo aplicado a la tarjeta",
+    "UB_CATEGORY": "Cosméticos",
+    "WRONG_USAGE": "Proporcione un código de tarjeta válido",
+    "NO_CHARACTER_FOUND": "No se encontró ningún personaje",
+    "INVALID_CODE": "Se proporcionó un código no válido",
+    "NO_GIF_CARD": "El comando de cosméticos de {{author}} no se aplica a las tarjetas de GIF",
+    "NO_BACKGROUND": "{{author}} La tarjeta no tiene fondo aplicado",
+    "EMBED_TITLE": "Deshacer el fondo",
+    "REMOVE_BG_CONFIRMATION": "Está a punto de quitar el fondo de su tarjeta\n",
+    "CARD_LOOKS": "Su tarjeta se verá como a continuación\n",
+    "PROCESS_COST": "El proceso costará 1 wist y el fondo se devolverá en su inventario",
+    "COSMETICS": "COSMÉTICOS",
+    "NOT_ENOUGH_WIST": "No tienes suficientes wists para quitar el fondo",
+    "NO_BG_APPLIED": "{{author}} La tarjeta no tiene fondo aplicado",
+    "UNDO_BACKGROUND_SUCCESS": "El fondo se quitó con éxito y se agregó a su inventario"
+}

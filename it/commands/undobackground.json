@@ -1,0 +1,17 @@
+{
+    "UB_DESCRIPTION": "Rimuovi lo sfondo applicato alla carta",
+    "UB_CATEGORY": "Cosmetici",
+    "WRONG_USAGE": "Fornisci un codice di carta valido",
+    "NO_CHARACTER_FOUND": "Nessun personaggio trovato",
+    "INVALID_CODE": "Codice fornito non valido",
+    "NO_GIF_CARD": "Il comando {{author}} cosmetics non si applica alle gif card",
+    "NO_BACKGROUND": "{{author}} La carta non ha uno sfondo applicato",
+    "EMBED_TITLE": "Annulla Sfondo",
+    "REMOVE_BG_CONFIRMATION": "Stai per rimuovere lo sfondo dalla tua carta\n",
+    "CARD_LOOKS": "La tua carta sembrerà come segue\n",
+    "PROCESS_COST": "Il processo costerà 1 wist e lo sfondo verrà restituito nel tuo inventario",
+    "COSMETICS": "COSMETICI",
+    "NOT_ENOUGH_WIST": "Non hai abbastanza wist per rimuovere lo sfondo",
+    "NO_BG_APPLIED": "{{author}} La carta non ha uno sfondo applicato",
+    "UNDO_BACKGROUND_SUCCESS": "Lo sfondo è stato rimosso con successo e aggiunto al tuo inventario"
+}

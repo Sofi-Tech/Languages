@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "光名を変更してください",
+    "GN_CATEGORY": "コスメティック",
+    "UNLOCK_GLOWS": "{{author}} は先に一部のグローをアンロックしてください",
+    "WRONG_USAGE": "{{author}} 正しい使い方： `sglowname [glowcode] [newname]`",
+    "WRONG_GLOWCODE_FORMAT": "グローコードは `#` で始めてください",
+    "GLOW_NOT_FOUND": "{{author}} はあなたのパレットでそのグローを見つけられませんでした。コードは正しいですか？",
+    "PROVIDE_GLOW_NAME": "{{author}} グロー名を入力してください",
+    "GLOW_NAME_LONG": "{{author}} グロー名が長すぎます。25文字以下にしてください",
+    "GLOW_NAME_EXISTS": "グロー名はすでに使用されています...イノベーション😎",
+    "EMBED_TITLE": "ソフィ：グロー名",
+    "GLOWNAME_CHANGE_CONFIRMATION": "本当に `{{oldName}}` を `{{newName}}` に変更しますか？",
+    "EMBED_FOOTER": "グロー：{{availability}}",
+    "MISSING_ITEMS": "不足アイテム",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "グロー名が正常に更新されました"
+}

@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "从商店购买框架",
+    "BF_CATEGORY": "化妆品",
+    "NO_FRAME_NAME": "您忘记提供框架名称",
+    "NO_FRAMECODE_FOUND": "{{author}} **没有找到代码为`{{name}}`的框架",
+    "FRAME_UNAVAILABLE": "该框架不可用。请使用`sfs`检查可用框架",
+    "NO_FRAME_FOUND": "{{author}} | 没有找到框架",
+    "FRAME_NOT_PURCHASABLE": "{{ author }} 无法购买该框架",
+    "EMBED_TITLE": "交易：",
+    "YOU_GET": "你得到：",
+    "YOU_PAY": "你付款：",
+    "TRANSACTION": "交易",
+    "NO_ENOUGH_AMOUNT": "你没有足够的金额购买该框架",
+    "FRAME_PURCHASED_BY": "您的框架 `{{frame}}` 已被 `{{userId}}` {{buyCount}} 购买"
+}

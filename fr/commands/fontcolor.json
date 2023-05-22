@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Changer la couleur de la police de la carte avec les lueurs",
+    "FC_CATEGORY": "Cosmétiques",
+    "WRONG_USAGE": "{{author}} Mais vous devez fournir le code de la carte `fc [code de la carte] [code de la lueur]`",
+    "NOT_CARD_OWNER": "Oh non ! c'est triste mais vous ne pouvez pas changer la couleur de police des cartes que vous NE POSSÉDEZ PAS !!!",
+    "CANNOT_FIND_CARD": "Impossible de trouver votre dernière carte ou essayez de fournir un code de carte",
+    "GLOW_ERROR": "Erreur ! application d'une lueur",
+    "3D_ERROR": "Vous ne pouvez pas changer la couleur de police pour les cartes 3D",
+    "UNLOCK_GLOWS": "{{author}} débloquez d'abord des lueurs",
+    "PROVIDE_GLOWCODE": "vous devez fournir un code de lueur",
+    "WRONG_GLOWCODE": "Le code de lueur commence par `#`",
+    "CANNOT_FIND_GLOW": "{{author}} ne pouvait pas trouver cette lueur dans votre palette. Le code est-il correct ?",
+    "EMBED_TITLE": "SOFI : COULEUR DE POLICE {{reset}}",
+    "COLOR_NAME": "Nom : {{name}}",
+    "COLOR_CODE": "Code : `{{code}}`",
+    "GLOW_UNAVAILABLE": "La lueur n'est pas disponible",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "La couleur de police a été changée avec succès"
+}

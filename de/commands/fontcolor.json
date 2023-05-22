@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Ändern Sie die Schriftfarbe der Karte mit Glanz",
+    "FC_CATEGORY": "Kosmetik",
+    "WRONG_USAGE": "{{author}} Sie müssen jedoch den Kartencode `fc [cardcode] [glowcode]` bereitstellen",
+    "NOT_CARD_OWNER": "Oh nein! Es ist traurig, aber Sie können die Schriftfarbe von Karten, die Sie NICHT BESITZEN, nicht ändern!!!",
+    "CANNOT_FIND_CARD": "Ihre letzte Karte kann nicht gefunden werden. Versuchen Sie es mit einem Kartencode",
+    "GLOW_ERROR": "Fehler! Anwenden von Glanz",
+    "3D_ERROR": "Sie können die Schriftfarbe für 3D-Karten nicht ändern",
+    "UNLOCK_GLOWS": "{{author}} zuerst einige Glanzlichter freischalten",
+    "PROVIDE_GLOWCODE": "Sie müssen einen Glanzcode angeben",
+    "WRONG_GLOWCODE": "Glowcode beginnt mit `#`",
+    "CANNOT_FIND_GLOW": "{{author}} konnte diesen Glanz in Ihrer Palette nicht finden. Ist der Code korrekt?",
+    "EMBED_TITLE": "SOFI: SCHREIBFARBE{{reset}}",
+    "COLOR_NAME": "Name: {{name}}",
+    "COLOR_CODE": "Code: `{{code}}`",
+    "GLOW_UNAVAILABLE": "Der Glanz ist nicht verfügbar",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Die Schriftfarbe wurde erfolgreich geändert"
+}

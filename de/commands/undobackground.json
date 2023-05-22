@@ -1,0 +1,17 @@
+{
+    "UB_DESCRIPTION": "Entfernen Sie den Hintergrund, der auf der Karte angewendet wird",
+    "UB_CATEGORY": "Kosmetik",
+    "WRONG_USAGE": "Geben Sie einen gültigen Kartencode an",
+    "NO_CHARACTER_FOUND": "Kein Charakter gefunden",
+    "INVALID_CODE": "Ungültiger Code bereitgestellt",
+    "NO_GIF_CARD": "{{author}} Kosmetik-Befehl gilt nicht für GIF-Karten",
+    "NO_BACKGROUND": "{{author}} Die Karte hat keinen angewendeten BG",
+    "EMBED_TITLE": "Hintergrund rückgängig machen",
+    "REMOVE_BG_CONFIRMATION": "Sie sind dabei, den Hintergrund von Ihrer Karte zu entfernen\n",
+    "CARD_LOOKS": "Ihre Karte wird wie unten aussehen\n",
+    "PROCESS_COST": "Der Vorgang kostet 1 Wist und der BG wird in Ihrem Inventar zurückgegeben",
+    "COSMETICS": "KOSMETIK",
+    "NOT_ENOUGH_WIST": "Sie haben nicht genügend Wists, um den BG zu entfernen",
+    "NO_BG_APPLIED": "{{author}} Die Karte hat keinen angewendeten BG",
+    "UNDO_BACKGROUND_SUCCESS": "Der Hintergrund wurde erfolgreich entfernt und Ihrem Inventar hinzugefügt"
+}

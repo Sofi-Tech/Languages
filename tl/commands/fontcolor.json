@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Baguhin ang kulay ng font ng card na may glows",
+    "FC_CATEGORY": "Kagandahan",
+    "WRONG_USAGE": "{{author}} Ngunit kailangan mong magbigay ng card code na `fc [cardcode] [glowcode]`",
+    "NOT_CARD_OWNER": "Ay hindi! Nakakalungkot pero hindi mo mababago ang kulay ng font ng mga cards na HINDI MO MAY-ARI!!!",
+    "CANNOT_FIND_CARD": "Hindi makita ang iyong huling card o subukang magbigay ng card code",
+    "GLOW_ERROR": "Error! pag-aapply ng glow",
+    "3D_ERROR": "Hindi mo mababago ang kulay ng font para sa 3D cards",
+    "UNLOCK_GLOWS": "{{author}} I-unlock muna ang ilang glow",
+    "PROVIDE_GLOWCODE": "kailangan mong magbigay ng glowcode",
+    "WRONG_GLOWCODE": "Ang Glowcode ay nagsisimula sa `#`",
+    "CANNOT_FIND_GLOW": "{{author}} hindi makita ang glow na iyon sa iyong palette. Tama ba ang code?",
+    "EMBED_TITLE": "SOFI: KULAY NG FONT{{reset}}",
+    "COLOR_NAME": "Pangalan: {{name}}",
+    "COLOR_CODE": "Code: `{{code}}`",
+    "GLOW_UNAVAILABLE": "Ang glow ay hindi magagamit",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Matagumpay na nabago ang kulay ng font"
+}

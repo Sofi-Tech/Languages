@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "Alterar o nome do brilho",
+    "GN_CATEGORY": "Cosméticos",
+    "UNLOCK_GLOWS": "{{author}} desbloqueie alguns brilhos primeiro",
+    "WRONG_USAGE": "{{author}} Uso correto: `sglowname [código do brilho] [novo nome]`",
+    "WRONG_GLOWCODE_FORMAT": "O código do brilho começa com `#`",
+    "GLOW_NOT_FOUND": "{{author}} não conseguiu encontrar aquele brilho em sua paleta. O código está correto?",
+    "PROVIDE_GLOW_NAME": "{{author}} por favor forneça o nome do brilho",
+    "GLOW_NAME_LONG": "{{author}} o nome do brilho é muito longo. Tente menos de 25 letras",
+    "GLOW_NAME_EXISTS": "O nome do brilho já está em uso...Inove 😎",
+    "EMBED_TITLE": "SOFI: NOME DO BRILHO",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Você tem certeza que deseja alterar `{{oldName}}` para `{{newName}}`?",
+    "EMBED_FOOTER": "Brilho: {{availability}}",
+    "MISSING_ITEMS": "Faltando itens",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "O nome do brilho foi atualizado com sucesso"
+}

@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "Changer le nom de l'éclat",
+    "GN_CATEGORY": "Cosmétiques",
+    "UNLOCK_GLOWS": "{{author}} débloque d'abord certains éclats",
+    "WRONG_USAGE": "{{author}} Usage correct : `sglowname [codeeclat] [nouveaunom]`",
+    "WRONG_GLOWCODE_FORMAT": "Le code de l'éclat commence par `#`",
+    "GLOW_NOT_FOUND": "{{author}} ne pouvait pas trouver cet éclat sur votre palette. Le code est-il correct ?",
+    "PROVIDE_GLOW_NAME": "{{author}} fournir le nom de l'éclat",
+    "GLOW_NAME_LONG": "{{author}} le nom de l'éclat est trop long. Essayez moins de 25 lettres",
+    "GLOW_NAME_EXISTS": "Le nom de l'éclat est déjà pris...Innovez 😎",
+    "EMBED_TITLE": "SOFI : NOM D'ÉCLAT",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Êtes-vous sûr(e) de vouloir changer `{{oldName}}` en `{{newName}}` ?",
+    "EMBED_FOOTER": "Éclat : {{availability}}",
+    "MISSING_ITEMS": "Pièces manquantes",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Le nom de l'éclat a été mis à jour avec succès"
+}

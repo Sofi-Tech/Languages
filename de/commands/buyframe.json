@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Kaufe den Rahmen im Geschäft",
+    "BF_CATEGORY": "Kosmetik",
+    "NO_FRAME_NAME": "Du hast vergessen, den Namen des Rahmens anzugeben",
+    "NO_FRAMECODE_FOUND": "{{author}} **Kein Rahmen gefunden mit dem Code `{{name}}`**",
+    "FRAME_UNAVAILABLE": "Dieser Rahmen ist nicht verfügbar. Bitte benutze `sfs`, um den verfügbaren Rahmen zu überprüfen.",
+    "NO_FRAME_FOUND": "{{author}} | Keine Rahmen gefunden",
+    "FRAME_NOT_PURCHASABLE": "{{author}} kann diesen Rahmen nicht kaufen",
+    "EMBED_TITLE": "TRANSACTION:",
+    "YOU_GET": "Du bekommst:",
+    "YOU_PAY": "Du zahlst:",
+    "TRANSACTION": "TRANSACTION",
+    "NO_ENOUGH_AMOUNT": "Du hast nicht genug Guthaben, um den Rahmen zu kaufen",
+    "FRAME_PURCHASED_BY": "Dein Rahmen `{{frame}}` wurde von `{{userId}}` {{buyCount}} Mal gekauft"
+}

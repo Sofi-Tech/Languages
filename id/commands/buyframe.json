@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Membeli bingkai dari toko",
+    "BF_CATEGORY": "Kosmetik",
+    "NO_FRAME_NAME": "Anda lupa menyediakan nama bingkai",
+    "NO_FRAMECODE_FOUND": "{{author}} **Tidak ada bingkai yang ditemukan dengan kode `{{name}}`**",
+    "FRAME_UNAVAILABLE": "Bingkai tersebut tidak tersedia. Silakan gunakan `sfs` untuk memeriksa bingkai yang tersedia",
+    "NO_FRAME_FOUND": "{{author}} | Tidak ada bingkai yang ditemukan",
+    "FRAME_NOT_PURCHASABLE": "{{author}} tidak dapat membeli bingkai tersebut",
+    "EMBED_TITLE": "TRANSAKSI:",
+    "YOU_GET": "Anda Mendapat:",
+    "YOU_PAY": "Anda Membayar:",
+    "TRANSACTION": "TRANSAKSI",
+    "NO_ENOUGH_AMOUNT": "Anda tidak memiliki cukup jumlah untuk membeli bingkai",
+    "FRAME_PURCHASED_BY": "Bingkai Anda `{{frame}}` telah dibeli oleh `{{userId}}` {{buyCount}}"
+}

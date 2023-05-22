@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Bilhin ang frame mula sa tindahan",
+    "BF_CATEGORY": "Kagandahan",
+    "NO_FRAME_NAME": "Nakalimutan mo magbigay ng pangalan ng frame",
+    "NO_FRAMECODE_FOUND": "{{author}} **Walang frame na natagpuan gamit ang code na `{{name}}`",
+    "FRAME_UNAVAILABLE": "Hindi magagamit ang frame na iyon. Mangyaring gamitin ang `sfs` upang suriin ang mga magagamit na frame",
+    "NO_FRAME_FOUND": "{{author}} | Walang frame ang natagpuan",
+    "FRAME_NOT_PURCHASABLE": "Hindi makakabili si {{author}} ng frame na iyon",
+    "EMBED_TITLE": "TRANSAKSIYON:",
+    "YOU_GET": "Makukuha Mo:",
+    "YOU_PAY": "Babayaran Mo:",
+    "TRANSACTION": "TRANSAKSIYON",
+    "NO_ENOUGH_AMOUNT": "Kulang ang iyong halaga upang makabili ng frame",
+    "FRAME_PURCHASED_BY": "Ang iyong frame na `{{frame}}` ay binili ni `{{userId}}` {{buyCount}}"
+}

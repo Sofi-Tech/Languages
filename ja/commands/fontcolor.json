@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "カードの光沢でフォントカラーを変更する",
+    "FC_CATEGORY": "化粧品",
+    "WRONG_USAGE": "{{author}} カードコード `fc [cardcode] [glowcode]` を提供する必要があります。",
+    "NOT_CARD_OWNER": "ああ！悲しいことですが、あなたが所有していないカードのフォントカラーを変更することはできません!!!",
+    "CANNOT_FIND_CARD": "最後のカードが見つからないか、カードコードを提供してみてください。",
+    "GLOW_ERROR": "エラー！光沢を適用中",
+    "3D_ERROR": "3Dカードのフォントカラーを変更することはできません",
+    "UNLOCK_GLOWS": "{{author}} まずいくつかの光沢をアンロックしてください",
+    "PROVIDE_GLOWCODE": "glowcodeを提供する必要があります",
+    "WRONG_GLOWCODE": "Glowcodeは `#` で始まります",
+    "CANNOT_FIND_GLOW": "{{author}} カラーコードが正しいですか？パレットにその光沢が見つかりませんでした。",
+    "EMBED_TITLE": "SOFI：フォントカラー{{reset}}",
+    "COLOR_NAME": "名前：{{name}}",
+    "COLOR_CODE": "コード：`{{code}}`",
+    "GLOW_UNAVAILABLE": "光沢は利用できません",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "フォントカラーが正常に変更されました。"
+}

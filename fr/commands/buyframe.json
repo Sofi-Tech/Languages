@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Achetez le cadre dans la boutique",
+    "BF_CATEGORY": "Produits cosmétiques",
+    "NO_FRAME_NAME": "Vous avez oublié de fournir le nom du cadre",
+    "NO_FRAMECODE_FOUND": "{{author}} **Aucun cadre trouvé avec le code `{{name}}`**",
+    "FRAME_UNAVAILABLE": "Ce cadre n'est pas disponible. Veuillez utiliser `sfs` pour vérifier les cadres disponibles",
+    "NO_FRAME_FOUND": "{{author}} | Aucun cadre trouvé",
+    "FRAME_NOT_PURCHASABLE": "{{author}} ne peut pas acheter ce cadre",
+    "EMBED_TITLE": "Transaction :",
+    "YOU_GET": "Vous obtenez :",
+    "YOU_PAY": "Vous payez :",
+    "TRANSACTION": "Transaction",
+    "NO_ENOUGH_AMOUNT": "Vous n'avez pas suffisamment d'argent pour acheter le cadre",
+    "FRAME_PURCHASED_BY": "Votre cadre `{{frame}}` a été acheté par `{{userId}}` {{buyCount}}"
+}

@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Compre a moldura na loja",
+    "BF_CATEGORY": "Cosméticos",
+    "NO_FRAME_NAME": "Você esqueceu de fornecer o nome da moldura",
+    "NO_FRAMECODE_FOUND": "{{author}} **Nenhuma moldura encontrada com o código `{{name}}`",
+    "FRAME_UNAVAILABLE": "Essa moldura não está disponível. Use `sfs` para verificar a moldura disponível",
+    "NO_FRAME_FOUND": "{{author}} | Nenhuma moldura encontrada",
+    "FRAME_NOT_PURCHASABLE": "{{author}} não pode comprar essa moldura",
+    "EMBED_TITLE": "TRANSAÇÃO:",
+    "YOU_GET": "Você recebe:",
+    "YOU_PAY": "Você paga:",
+    "TRANSACTION": "TRANSAÇÃO",
+    "NO_ENOUGH_AMOUNT": "Você não tem dinheiro suficiente para comprar a moldura",
+    "FRAME_PURCHASED_BY": "Sua moldura `{{frame}}` foi comprada por `{{userId}}` {{buyCount}}"
+}

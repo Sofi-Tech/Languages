@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Verander de lettertype kleur van de kaart met glow",
+    "FC_CATEGORY": "Cosmetica",
+    "WRONG_USAGE": "{{author}} Maar je moet de kaartcode geven `fc [kaartcode] [glowcode]`",
+    "NOT_CARD_OWNER": "Oh nee! Het is jammer maar je kunt de lettertypekleur van kaarten die je NIET bezit NIET veranderen!!!",
+    "CANNOT_FIND_CARD": "Kan uw laatste kaart niet vinden of probeer een kaartcode te geven",
+    "GLOW_ERROR": "Fout! glow toepassen",
+    "3D_ERROR": "Je kunt de lettertypekleur niet veranderen voor 3D-kaarten",
+    "UNLOCK_GLOWS": "{{author}} ontgrendel eerst enkele glow's",
+    "PROVIDE_GLOWCODE": "Je moet een glowcode opgeven",
+    "WRONG_GLOWCODE": "Glowcode begint met `#`",
+    "CANNOT_FIND_GLOW": "{{author}} kon die glow niet vinden in je palet. Is de code correct?",
+    "EMBED_TITLE": "SOFI: LETTERTYPEKLEUR{{reset}}",
+    "COLOR_NAME": "Naam: {{naam}}",
+    "COLOR_CODE": "Code: `{{code}}`",
+    "GLOW_UNAVAILABLE": "De glow is niet beschikbaar",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Lettertypekleur is succesvol veranderd"
+}

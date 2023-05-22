@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Купите рамку в магазине",
+    "BF_CATEGORY": "Косметика",
+    "NO_FRAME_NAME": "Вы забыли указать название рамки",
+    "NO_FRAMECODE_FOUND": "{{author}} **Рамка с кодом `{{name}}` не найдена**",
+    "FRAME_UNAVAILABLE": "Эта рамка недоступна. Используйте `sfs`, чтобы проверить доступную рамку",
+    "NO_FRAME_FOUND": "{{author}} | Рамки не найдены",
+    "FRAME_NOT_PURCHASABLE": "{{author}} не может купить эту рамку",
+    "EMBED_TITLE": "СДЕЛКА:",
+    "YOU_GET": "Вы получите:",
+    "YOU_PAY": "Вы заплатите:",
+    "TRANSACTION": "СДЕЛКА",
+    "NO_ENOUGH_AMOUNT": "У вас недостаточно средств для покупки рамки",
+    "FRAME_PURCHASED_BY": "Ваша рамка `{{frame}}` была куплена пользователем `{{userId}}` {{buyCount}}"
+}

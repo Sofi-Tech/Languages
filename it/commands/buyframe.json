@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Compra la cornice dal negozio",
+    "BF_CATEGORY": "Cosmetici",
+    "NO_FRAME_NAME": "Hai dimenticato di fornire il nome della cornice",
+    "NO_FRAMECODE_FOUND": "{{author}} **Nessuna cornice trovata con il codice `{{name}}`",
+    "FRAME_UNAVAILABLE": "Quella cornice non è disponibile. Utilizza `sfs` per verificare le cornici disponibili",
+    "NO_FRAME_FOUND": "{{author}} | Nessuna cornice trovata",
+    "FRAME_NOT_PURCHASABLE": "{{author}} non può acquistare quella cornice",
+    "EMBED_TITLE": "TRANSAZIONE:",
+    "YOU_GET": "Ottieni:",
+    "YOU_PAY": "Paghi:",
+    "TRANSACTION": "TRANSAZIONE",
+    "NO_ENOUGH_AMOUNT": "Non hai abbastanza denaro per comprare la cornice",
+    "FRAME_PURCHASED_BY": "La tua cornice `{{frame}}` è stata acquistata da `{{userId}}` {{buyCount}}"
+}

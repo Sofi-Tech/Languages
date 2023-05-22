@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Comprar el marco en la tienda",
+    "BF_CATEGORY": "Cosméticos",
+    "NO_FRAME_NAME": "Olvidaste proporcionar el nombre del marco",
+    "NO_FRAMECODE_FOUND": "{{author}} **No se encontró marco con el código `{{name}}`",
+    "FRAME_UNAVAILABLE": "Ese marco no está disponible. Por favor use `sfs` para verificar el marco disponible",
+    "NO_FRAME_FOUND": "{{author}} | No se encontraron marcos",
+    "FRAME_NOT_PURCHASABLE": "{{author}} no puede comprar ese marco",
+    "EMBED_TITLE": "TRANSACCIÓN:",
+    "YOU_GET": "Obtienes:",
+    "YOU_PAY": "Pagas:",
+    "TRANSACTION": "TRANSACCIÓN",
+    "NO_ENOUGH_AMOUNT": "No tienes suficiente cantidad para comprar el marco",
+    "FRAME_PURCHASED_BY": "Tu marco `{{frame}}` ha sido comprado por `{{userId}}` {{buyCount}}"
+}

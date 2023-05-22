@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Kartınızın yazı tipi rengini ışıltılarla değiştirin",
+    "FC_CATEGORY": "Kozmetik",
+    "WRONG_USAGE": "{{author}} Ancak `fc [kartkodu] [ışıltıkodu]` kart kodu sağlamanız gerekiyor.",
+    "NOT_CARD_OWNER": "Hayır! Üzgünüm ama SADECE SAHİP OLDUĞUNUZ kartların yazı tipi rengini değiştirebilirsiniz!",
+    "CANNOT_FIND_CARD": "Son kartınızı bulamıyoruz ya da bir kart kodu sağlamayı deneyin.",
+    "GLOW_ERROR": "Hata! Işıltı uygulanamıyor",
+    "3D_ERROR": "3D kartlar için yazı tipi rengini değiştiremezsiniz",
+    "UNLOCK_GLOWS": "{{author}} önce bazı ışıltıları kilitleyin",
+    "PROVIDE_GLOWCODE": "Işıltı kodunu sağlamanız gerekiyor",
+    "WRONG_GLOWCODE": "Işıltı kodu `#` ile başlar",
+    "CANNOT_FIND_GLOW": "{{author}} paletinizdeki ışıltıyı bulamadı. Kod doğru mu?",
+    "EMBED_TITLE": "SOFI: YAZI RENGİ{{reset}}",
+    "COLOR_NAME": "İsim: {{name}}",
+    "COLOR_CODE": "Kod: `{{code}}`",
+    "GLOW_UNAVAILABLE": "Işıltı mevcut değil",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Yazı rengi başarılı bir şekilde değiştirildi"
+}

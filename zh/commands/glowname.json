@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "更改光晕名称",
+    "GN_CATEGORY": "化妆品",
+    "UNLOCK_GLOWS": "{{author}} 首先解锁一些闪光",
+    "WRONG_USAGE": "{{author}} 正确使用方法：`sglowname [闪光代码] [新名称]`",
+    "WRONG_GLOWCODE_FORMAT": "闪光代码以 `#` 开始",
+    "GLOW_NOT_FOUND": "{{author}} 在您的调色板中找不到该闪光。代码正确吗？",
+    "PROVIDE_GLOW_NAME": "{{author}} 提供闪光名称",
+    "GLOW_NAME_LONG": "{{author}} 闪光名称太长了。尝试少于25个字母",
+    "GLOW_NAME_EXISTS": "闪光名称已经被使用了...创新一下 😎",
+    "EMBED_TITLE": "SOFI：GLOW NAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "您确定要将 `{{oldName}}` 更改为 `{{newName}}` 吗？",
+    "EMBED_FOOTER": "闪光：{{availability}}",
+    "MISSING_ITEMS": "缺少物品",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "闪光名称已成功更新"
+}

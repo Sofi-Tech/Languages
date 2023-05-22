@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "Cambiar el nombre del resplandor",
+    "GN_CATEGORY": "Cosméticos",
+    "UNLOCK_GLOWS": "{{author}} primero desbloquea algunos resplandores",
+    "WRONG_USAGE": "{{author}} Uso correcto: `sglowname [códigoresplandor] [nuevonombre]`",
+    "WRONG_GLOWCODE_FORMAT": "El código del resplandor comienza con `#`",
+    "GLOW_NOT_FOUND": "{{author}} no pudo encontrar ese resplandor en tu paleta. ¿El código es correcto?",
+    "PROVIDE_GLOW_NAME": "{{author}} proporciona el nombre del resplandor",
+    "GLOW_NAME_LONG": "{{author}} el nombre del resplandor es demasiado largo. Intente con menos de 25 letras",
+    "GLOW_NAME_EXISTS": "El nombre del resplandor ya está en uso...Innovar 😎",
+    "EMBED_TITLE": "SOFI: NOMBRE DEL RESPLANDOR",
+    "GLOWNAME_CHANGE_CONFIRMATION": "¿Estás seguro de que quieres cambiar `{{oldName}}` a `{{newName}}`?",
+    "EMBED_FOOTER": "Resplandor: {{availability}}",
+    "MISSING_ITEMS": "Faltan artículos",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "El nombre del resplandor se actualizó correctamente"
+}

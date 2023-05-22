@@ -1,0 +1,17 @@
+{
+    "UB_DESCRIPTION": "カードに適用された背景を削除します",
+    "UB_CATEGORY": "コスメティック",
+    "WRONG_USAGE": "有効なカードコードを入力してください",
+    "NO_CHARACTER_FOUND": "キャラクターが見つかりませんでした",
+    "INVALID_CODE": "無効なコードが提供されました",
+    "NO_GIF_CARD": "{{author}} コスメティックコマンドはgifカードには適用されません",
+    "NO_BACKGROUND": "{{author}} カードに適用された背景はありません",
+    "EMBED_TITLE": "背景を元に戻す",
+    "REMOVE_BG_CONFIRMATION": "あなたはあなたのカードから背景を削除するつもりです\n",
+    "CARD_LOOKS": "あなたのカードは以下のように見えます\n",
+    "PROCESS_COST": "プロセスには1 wistが必要で、背景はあなたのインベントリに返されます",
+    "COSMETICS": "コスメティック",
+    "NOT_ENOUGH_WIST": "背景を削除するのに十分なwistがありません",
+    "NO_BG_APPLIED": "{{author}} カードに適用された背景はありません",
+    "UNDO_BACKGROUND_SUCCESS": "背景が正常に削除され、インベントリに追加されました"
+}

@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Cambia il colore del font della carta con luci",
+    "FC_CATEGORY": "Cosmetici",
+    "WRONG_USAGE": "{{author}} Ma devi fornire il codice della carta `fc [codicecarta] [codiceluce]`",
+    "NOT_CARD_OWNER": "Oh no! è triste ma non puoi cambiare il colore del font delle carte che NON POSSIEDI!!!",
+    "CANNOT_FIND_CARD": "Impossibile trovare la tua ultima carta o prova a fornire un codice carta",
+    "GLOW_ERROR": "Errore! l'applicazione della luce",
+    "3D_ERROR": "Non puoi cambiare il colore del font per le carte 3D",
+    "UNLOCK_GLOWS": "{{author}} sblocca prima alcune luci",
+    "PROVIDE_GLOWCODE": "devi fornire il codice luce",
+    "WRONG_GLOWCODE": "Il codice luce inizia con `#`",
+    "CANNOT_FIND_GLOW": "{{author}} non è riuscito a trovare quella luce nella tua palette. Il codice è corretto?",
+    "EMBED_TITLE": "SOFI: COLORE DEL FONT{{reset}}",
+    "COLOR_NAME": "Nome: {{name}}",
+    "COLOR_CODE": "Codice: `{{code}}`",
+    "GLOW_UNAVAILABLE": "La luce non è disponibile",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Il colore del font è stato cambiato con successo"
+}

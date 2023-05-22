@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Cambiar el color de fuente de la tarjeta con brillos",
+    "FC_CATEGORY": "Cosmética",
+    "WRONG_USAGE": "{{author}} Pero debe proporcionar el código de tarjeta `fc [códigotarjeta] [códigobrillo]`",
+    "NOT_CARD_OWNER": "¡Oh no! Es triste, ¡pero no puedes cambiar el color de fuente de las tarjetas que NO POSEES!",
+    "CANNOT_FIND_CARD": "No se puede encontrar su última tarjeta, o intente proporcionar un código de tarjeta",
+    "GLOW_ERROR": "Error! aplicando brillo",
+    "3D_ERROR": "No se puede cambiar el color de fuente de las tarjetas 3D",
+    "UNLOCK_GLOWS": "{{author}} desbloquea algunos brillos primero",
+    "PROVIDE_GLOWCODE": "necesita proporcionar el código de brillo",
+    "WRONG_GLOWCODE": "El código de brillo comienza con `#`",
+    "CANNOT_FIND_GLOW": "{{author}} no pudo encontrar ese brillo en su paleta. ¿Es correcto el código?",
+    "EMBED_TITLE": "SOFI: COLOR DE FUENTE{{reset}}",
+    "COLOR_NAME": "Nombre: {{name}}",
+    "COLOR_CODE": "Código: `{{code}}`",
+    "GLOW_UNAVAILABLE": "El brillo no está disponible",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Se cambió el color de fuente satisfactoriamente"
+}

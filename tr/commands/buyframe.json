@@ -1,0 +1,15 @@
+{
+    "BF_DESCRIPTION": "Dükkanımdan çerçeveyi satın alın",
+    "BF_CATEGORY": "Kozmetik",
+    "NO_FRAME_NAME": "Çerçeve adını sağlamayı unuttunuz",
+    "NO_FRAMECODE_FOUND": "{{author}} **{{name}}` kodlu çerçeve bulunamadı",
+    "FRAME_UNAVAILABLE": "O çerçeve mevcut değil. Lütfen mevcut çerçeveyi kontrol etmek için `sfs` kullanın`",
+    "NO_FRAME_FOUND": "{{author}} | Çerçeve bulunamadı",
+    "FRAME_NOT_PURCHASABLE": "{{author}} o çerçeveyi satın alamaz",
+    "EMBED_TITLE": "İŞLEM:",
+    "YOU_GET": "Aldığınız:",
+    "YOU_PAY": "Ödediğiniz:",
+    "TRANSACTION": "İŞLEM",
+    "NO_ENOUGH_AMOUNT": "Çerçeveyi satın almak için yeterli miktarınız yok",
+    "FRAME_PURCHASED_BY": "`{{userId}}` {{buyCount}} satın alındı `{{frame}}` adlı çerçeveniz"
+}

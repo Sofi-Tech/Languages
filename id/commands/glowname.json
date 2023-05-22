@@ -1,0 +1,16 @@
+{
+    "GN_DESCRIPTION": "Ubah nama glow",
+    "GN_CATEGORY": "Kosmetik",
+    "UNLOCK_GLOWS": "{{author}} harus terlebih dahulu membuka beberapa glow",
+    "WRONG_USAGE": "{{author}} Penggunaan yang Benar: `sglowname [kodeglow] [namabaru]`",
+    "WRONG_GLOWCODE_FORMAT": "Kode glow dimulai dengan `#`",
+    "GLOW_NOT_FOUND": "{{author}} tidak dapat menemukan glow tersebut di paletmu. Apakah kodenya benar?",
+    "PROVIDE_GLOW_NAME": "{{author}} berikan nama glow",
+    "GLOW_NAME_LONG": "{{author}} nama glow terlalu panjang. Coba kurangi menjadi kurang dari 25 huruf",
+    "GLOW_NAME_EXISTS": "Nama glow sudah digunakan...Coba yang lain 😎",
+    "EMBED_TITLE": "SOFI: NAMA GLOW",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Apakah kamu yakin ingin mengubah `{{oldName}}` menjadi `{{newName}}`?",
+    "EMBED_FOOTER": "Glow: {{availability}}",
+    "MISSING_ITEMS": "Item hilang",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Nama glow berhasil diperbarui"
+}

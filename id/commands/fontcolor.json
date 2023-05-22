@@ -1,0 +1,18 @@
+{
+    "FC_DESCRIPTION": "Merubah warna teks pada kartu dengan efek kilau",
+    "FC_CATEGORY": "Kosmetik",
+    "WRONG_USAGE": "{{author}} Tetapi Anda harus memberikan kode kartu `fc [kodekartu] [kodekilau]`",
+    "NOT_CARD_OWNER": "Oh tidak! Sangat disayangkan, tetapi kamu tidak bisa mengubah warna teks untuk kartu yang TIDAK DIMILIKIMU!!!",
+    "CANNOT_FIND_CARD": "Tidak dapat menemukan kartu terakhirmu atau coba berikan kode kartu",
+    "GLOW_ERROR": "Error! meng-aplikasikan kilau",
+    "3D_ERROR": "Anda tidak dapat mengubah warna teks untuk kartu 3D",
+    "UNLOCK_GLOWS": "{{author}} buka beberapa kilau terlebih dahulu",
+    "PROVIDE_GLOWCODE": "Anda perlu memberikan kode kilau",
+    "WRONG_GLOWCODE": "Kode kilau dimulai dengan `#`",
+    "CANNOT_FIND_GLOW": "{{author}} tidak dapat menemukan kilau itu dalam paletmu. Apakah kodenya benar?",
+    "EMBED_TITLE": "SOFI: WARNA TEKS{{reset}}",
+    "COLOR_NAME": "Nama: {{name}}",
+    "COLOR_CODE": "Kode: `{{code}}`",
+    "GLOW_UNAVAILABLE": "Kilau tidak tersedia",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Warna teks berhasil diubah"
+}
