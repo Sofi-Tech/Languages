@@ -1,0 +1,17 @@
+{
+  "UB_DESCRIPTION": "Remove background applied to the card",
+  "UB_CATEGORY": "Cosmetics",
+  "WRONG_USAGE": "Provide valid cardcode",
+  "NO_CHARACTER_FOUND": "No character found",
+  "INVALID_CODE": "Invalid code provided",
+  "NO_GIF_CARD": "{{author}} cosmetics command do not apply to gif cards",
+  "NO_BACKGROUND": "{{author}} The card has no applied bg",
+  "EMBED_TITLE": "Undo Background",
+  "REMOVE_BG_CONFIRMATION": "You are about to remove background from your card\n",
+  "CARD_LOOKS": "Your card will look as below\n",
+  "PROCESS_COST": "The process will cost 1 wist and the bg will be returned in your inventory",
+  "COSMETICS": "COSMETICS",
+  "NOT_ENOUGH_WIST": "You don't have enough wists to remove the bg",
+  "NO_BG_APPLIED": "{{author}} The card has no applied bg",
+  "UNDO_BACKGROUND_SUCCESS": "The background was successfully removed and added to your inventory"
+}

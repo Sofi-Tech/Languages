@@ -1,0 +1,15 @@
+{
+  "BF_DESCRIPTION": "Buy the frame from the shop",
+  "BF_CATEGORY": "Cosmetics",
+  "NO_FRAME_NAME": "You forgot to provide frame name",
+  "NO_FRAMECODE_FOUND": "{{author}} **No frame found with the code `{{name}}`",
+  "FRAME_UNAVAILABLE": "That frame is unavailable. Please use `sfs` to check the available frame",
+  "NO_FRAME_FOUND": "{{author}} | No frames found",
+  "FRAME_NOT_PURCHASABLE": "{{author}} cannot purchase that frame",
+  "EMBED_TITLE": "TRANSACTION:",
+  "YOU_GET": "You Get:",
+  "YOU_PAY": "You Pay:",
+  "TRANSACTION": "TRANSACTION",
+  "NO_ENOUGH_AMOUNT": "You don't have enough amount to buy the frame",
+  "FRAME_PURCHASED_BY": "Your frame `{{frame}}` has been purchased by `{{userId}}` {{buyCount}}"
+}
