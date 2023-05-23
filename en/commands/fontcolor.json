@@ -1,7 +1,7 @@
 {
-    "FC_DESCRIPTION": "Change font color of the card with glows",
+    "FC_DESCRIPTION": "Changes the font color of a card by applying a \"Glow\" to it",
     "FC_CATEGORY": "Cosmetics",
-    "WRONG_USAGE": "{{author}} But you need to provide the card code `fc [cardcode] [glowcode]`",
+    "WRONG_USAGE": "{{author}} Correct usage: `sfc <CardCode> <GlowCode>`",
     "NOT_CARD_OWNER": "Oh no! it's sad but you can't change font color of cards you DONT OWN!!!",
     "CANNOT_FIND_CARD": "Can't find your last card or try providing a card code",
     "GLOW_ERROR": "Error! applying glow",

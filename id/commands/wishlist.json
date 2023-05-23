@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Menampilkan wishlist Anda",
+    "DESCRIPTION": "Menampilkan daftar keinginan Anda",
     "CATEGORY": "Daftar keinginan",
     "USER_NOT_FOUND": "Tidak dapat menemukan pengguna tersebut",
-    "WISHLIST_PRIVATE": "> Wishlist pengguna tersebut bersifat pribadi",
-    "WISHLIST_EMPTY": "> Wishlist {{username}} kosong seperti hatiku 💔",
+    "WISHLIST_PRIVATE": "> Daftar keinginan pengguna tersebut bersifat pribadi",
+    "WISHLIST_EMPTY": "> Daftar keinginan {{username}} kosong seperti hatiku 💔",
     "WISHLIST_EMBED_TITLE": "{{username}} Daftar keinginan [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Gunakan `{{prefix}}wu` atau `{{prefix}}wu max` untuk meningkatkan kapasitas daftar keinginan Anda. | Halaman: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Salin Kode",

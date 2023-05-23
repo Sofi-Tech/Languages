@@ -1,15 +1,15 @@
 {
-    "BF_DESCRIPTION": "Buy the frame from the shop",
+    "BF_DESCRIPTION": "Buys a \"Frame\" from the \"Frame Shop\"",
     "BF_CATEGORY": "Cosmetics",
-    "NO_FRAME_NAME": "You forgot to provide frame name",
-    "NO_FRAMECODE_FOUND": "{{author}} **No frame found with the code `{{name}}`",
-    "FRAME_UNAVAILABLE": "That frame is unavailable. Please use `sfs` to check the available frame",
-    "NO_FRAME_FOUND": "{{author}} | No frames found",
-    "FRAME_NOT_PURCHASABLE": "{{author}} cannot purchase that frame",
-    "EMBED_TITLE": "TRANSACTION:",
+    "NO_FRAME_NAME": "{{author}} Please provide the name of the `Frame` you want to buy",
+    "NO_FRAMECODE_FOUND": "{{author}} Could not find any `Frame` with the code `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} That frame is not currently avaialble. Please use the command `sfs` instead, to check the current `Frame` rotation",
+    "NO_FRAME_FOUND": "{{author}} No `Frame` with that code exists",
+    "FRAME_NOT_PURCHASABLE": "{{author}} That `Frame` is limited and can no longer be purchased",
+    "EMBED_TITLE": "TRANSACTION",
     "YOU_GET": "You Get:",
     "YOU_PAY": "You Pay:",
     "TRANSACTION": "TRANSACTION",
-    "NO_ENOUGH_AMOUNT": "You don't have enough amount to buy the frame",
-    "FRAME_PURCHASED_BY": "Your frame `{{frame}}` has been purchased by `{{userId}}` {{buyCount}}"
+    "NO_ENOUGH_AMOUNT": "You don't have enough `{{currency}}` to buy this frame",
+    "FRAME_PURCHASED_BY": "Your `Frame` **{{frame}}** has been purchased by `{{userId}}`| {{buyCount}}"
 }

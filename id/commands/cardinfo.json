@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "Tidak dapat menemukan kartu terakhir Anda. Coba berikan kode kartu sebagai gantinya",
     "INVALID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid",
     "CARD_MORPHED": "Kartu sudah di morph",
-    "CARD_GLOWED": "Kartu dilengkapi 'Glow' berikut __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
+    "CARD_GLOWED": "Kartu tersebut memiliki `Glow` yang diterapkan sebagai berikut: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Warna font: {{fontName}} [`#{{ viewCode}}`]\n",
     "CARD_FRAMED": "Kartu tersebut memiliki `Frame` yang diterapkan sebagai berikut __{{frameName}}__\n",
     "CARD_CFRAMED": "Kartu tersebut memiliki `Frame` yang diterapkan sebagai berikut __{{frameName}}__ `{{frameCode}}`\n",
