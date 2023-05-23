@@ -1,0 +1,21 @@
+{
+  "AI_DESCRIPTION": "Muestra información de subasta",
+  "AI_CATEGORY": "Tarjetas",
+  "INVALID_ID": "{{author}} se proporcionó un ID de subasta no válido. Por favor revise.",
+  "EMBED_TITLE": "SOFI: SUBASTA",
+  "AI_GEN": "> Gen: `{{gen}}`",
+  "AI_NAME": "> Nombre: {{name}}",
+  "AI_SERIES": "> Serie: {{series}}",
+  "AI_TOP_BID": "> La mejor oferta: {{bids}}",
+  "AI_STATUS": "> Estado: {{status}}",
+  "EMBED_FOOTER": "Use sbid <auctionID> para hacer una oferta en la subasta.",
+  "EMPTY_AUCTION": "La subasta está vacía",
+  "ID": "ID:",
+  "ACTIVE": "Activa",
+  "ENDED": "Terminada",
+  "NO_BIDS": "Sin ofertas",
+  "ONGOING": "En curso (termina en: {{time}})",
+  "OVER": "Terminada",
+  "EMBED_AUCTIONS_TITLE": "SOFI: SUBASTAS",
+  "EMBED_AUCTIONS_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Para detalles, use sai <auctionID>"
+}

@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "あなたのカードにきれいな背景光を与えます",
+  "GLOW_CATEGORY": "化粧品",
+  "WRONG_USAGE": "{{author}} 残念ですが、カードコード `[glow [cardcode] [glowcode]]` を提供する必要があります",
+  "WRONG_CARD": "リラックス！他のカードのグローを変える意味は何ですか？",
+  "CARD_NOT_FOUND": "最後のカードが見つからないか、カードコードを指定してください",
+  "NO_GIF_CARDS": "{{作者}} glows は gif カードに適用できません",
+  "UNLOCK_GLOWS": "{{author}} まず一部のグローをアンロックしてください",
+  "PROVIDE_GLOW_CODE": "{{author}} glowcode を提供する必要があります",
+  "INVALID_GLOW_CODE": "Glowcode は `#` で始まります",
+  "GLOW_NOT_FOUND": "{{author}} のパレットでそのグローが見つかりませんでした。コードは正しいですか？",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
+  "GLOW_NAME": "名前： {{name}}",
+  "GLOW_CODE": "コード： #{{code}}",
+  "EMBED_FOOTER": "Glow：{{availability}}",
+  "GLOW_UNAVAILABLE": "グローは利用できません",
+  "GLOW_APPLY_SUCCESSFULL": "グローが正常に適用されました"
+}

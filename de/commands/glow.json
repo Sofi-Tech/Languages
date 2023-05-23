@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "Geben Sie Ihrer Karte einen schönen Hintergrundglanz",
+  "GLOW_CATEGORY": "Kosmetik",
+  "WRONG_USAGE": "{{author}} Traurig, aber Sie müssen den Karten-Code `[glow [Kartencode] [glowcode]]` angeben",
+  "WRONG_CARD": "Entspannen Sie sich! Was ist mit dem Ändern von Glanzlichtern anderer Karten?",
+  "CARD_NOT_FOUND": "Kann Ihre letzte Karte nicht finden oder versuchen Sie, einen Karten-Code anzugeben",
+  "NO_GIF_CARDS": "{{author}} Glanzlichter können nicht auf GIF-Karten angewendet werden",
+  "UNLOCK_GLOWS": "{{author}} entsperren Sie zuerst einige Glanzlichter",
+  "PROVIDE_GLOW_CODE": "{{author}} Sie müssen glowcode angeben",
+  "INVALID_GLOW_CODE": "Glowcode beginnt mit `#`",
+  "GLOW_NOT_FOUND": "{{author}} konnte diesen Glanz nicht in Ihrer Palette finden. Ist der Code korrekt?",
+  "EMBED_GLOW_TITLE": "SOFI: GLANZ",
+  "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
+  "GLOW_NAME": "Name: {{name}}",
+  "GLOW_CODE": "Code: #{{code}}",
+  "EMBED_FOOTER": "Glow: {{availability}}",
+  "GLOW_UNAVAILABLE": "Der Glanz ist nicht verfügbar",
+  "GLOW_APPLY_SUCCESSFULL": "Glow wurde erfolgreich angewendet"
+}

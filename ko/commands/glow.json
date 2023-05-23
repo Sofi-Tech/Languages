@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "당신의 카드에 멋진 빛을 더하세요",
+  "GLOW_CATEGORY": "화장품",
+  "WRONG_USAGE": "{{author}} 계정으 털어 드리자면 카드 코드를 `[glow [cardcode] [glowcode]]`로 입력하셔야 합니다.",
+  "WRONG_CARD": "잠시만요! 왜 다른 카드의 색깔을 변경하고 싶어 하시나요?",
+  "CARD_NOT_FOUND": "최근 카드를 찾지 못했거나, 카드 코드를 입력하십시오.",
+  "NO_GIF_CARDS": "{{author}}은/는 gif 카드에 빛을 줄 수 없습니다.",
+  "UNLOCK_GLOWS": "{{author}}은/는 먼저 일부 발광을 잠금 해제해야합니다.",
+  "PROVIDE_GLOW_CODE": "{{author}}은/는 발광 코드를 제공해야합니다.",
+  "INVALID_GLOW_CODE": "Glowcode는 `#`로 시작합니다.",
+  "GLOW_NOT_FOUND": "{{author}}은/는 팔레트에서 해당 빛을 찾지 못했습니다. 코드가 정확한가요?",
+  "EMBED_GLOW_TITLE": "SOFI: 빛",
+  "EMBED_SG_TITLE": "SOFI: 슈퍼 빛",
+  "GLOW_NAME": "이름: {{name}}",
+  "GLOW_CODE": "코드: #{{code}}",
+  "EMBED_FOOTER": "빛: {{availability}}",
+  "GLOW_UNAVAILABLE": "빛을 사용할 수 없습니다.",
+  "GLOW_APPLY_SUCCESSFULL": "빛이 성공적으로 적용되었습니다."
+}

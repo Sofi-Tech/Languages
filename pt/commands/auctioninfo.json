@@ -1,0 +1,21 @@
+{
+  "AI_DESCRIPTION": "Mostra informações do leilão",
+  "AI_CATEGORY": "Cartas",
+  "INVALID_ID": "{{author}} id de leilão inválido fornecido. Por favor, verifique novamente",
+  "EMBED_TITLE": "SOFI: LEILÃO",
+  "AI_GEN": "> Geração: `{{gen}}`",
+  "AI_NAME": "> Nome: {{name}}",
+  "AI_SERIES": "> Série: {{series}}",
+  "AI_TOP_BID": "> Maior lance: {{bids}}",
+  "AI_STATUS": "> Status: {{status}}",
+  "EMBED_FOOTER": "Use sbid <auctionID> para fazer um lance no leilão",
+  "EMPTY_AUCTION": "Leilão está vazio",
+  "ID": "ID:",
+  "ACTIVE": "Ativo",
+  "ENDED": "Finalizado",
+  "NO_BIDS": "Sem lances",
+  "ONGOING": "Em andamento (termina em: {{time}})",
+  "OVER": "Terminado",
+  "EMBED_AUCTIONS_TITLE": "SOFI: LEILÕES",
+  "EMBED_AUCTIONS_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Para detalhes use sai <auctionID>"
+}

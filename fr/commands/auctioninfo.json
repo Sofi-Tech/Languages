@@ -1,0 +1,21 @@
+{
+  "AI_DESCRIPTION": "Affiche les informations de l'enchère",
+  "AI_CATEGORY": "Cartes",
+  "INVALID_ID": "{{author}} l'ID de l'enchère n'est pas valide. Veuillez vérifier à nouveau",
+  "EMBED_TITLE": "SOFI: ENCHÈRE",
+  "AI_GEN": "> Génération :`{{gen}}`",
+  "AI_NAME": "> Nom : {{name}}",
+  "AI_SERIES": "> Série : {{series}}",
+  "AI_TOP_BID": "> Meilleure Enchère : {{bids}}",
+  "AI_STATUS": "> Statut : {{status}}",
+  "EMBED_FOOTER": "Utilisez sbid <auctionID> pour enchérir dans une enchère",
+  "EMPTY_AUCTION": "L'enchère est vide",
+  "ID": "ID :",
+  "ACTIVE": "Actif",
+  "ENDED": "Terminé",
+  "NO_BIDS": "Aucune enchère",
+  "ONGOING": "En cours (se termine dans: {{time}})",
+  "OVER": "Terminée",
+  "EMBED_AUCTIONS_TITLE": "SOFI: ENCHÈRES",
+  "EMBED_AUCTIONS_FOOTER": "Page affichée : {{page}}/{{totalPages}} | Pour plus de détails, utilisez sai <auctionID>"
+}

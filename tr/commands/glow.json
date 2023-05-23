@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "Kartınıza güzel bir arka plan ışıltısı verin",
+  "GLOW_CATEGORY": "Kozmetik",
+  "WRONG_USAGE": "{{author}} Üzgünüz ama kart kodunu `[glo [kartkodu] [ışıltıkodu]]` şeklinde vermeniz gerekiyor",
+  "WRONG_CARD": "Rahat olun! Başka kartların ışıltısını değiştirme niyetiniz ne?",
+  "CARD_NOT_FOUND": "Son kartınızı bulamıyoruz veya bir kart kodu vermeniz gerekiyor",
+  "NO_GIF_CARDS": "{{author}} hareketli kartların ışıltıları uygulanamaz",
+  "UNLOCK_GLOWS": "{{author}} önce bazı ışıltıları açmanız gerekiyor",
+  "PROVIDE_GLOW_CODE": "{{author}} ışıltı kodu vermeniz gerekiyor",
+  "INVALID_GLOW_CODE": "Işıltı kodu `#` ile başlar",
+  "GLOW_NOT_FOUND": "{{author}} paletinizde o ışıltıyı bulamadık. Kod doğru mu?",
+  "EMBED_GLOW_TITLE": "SOFI: IŞILTILAR",
+  "EMBED_SG_TITLE": "SOFI: SÜPER IŞILTILAR",
+  "GLOW_NAME": "Adı: {{name}}",
+  "GLOW_CODE": "Kodu: #{{code}}",
+  "EMBED_FOOTER": "Işıltı: {{availability}}",
+  "GLOW_UNAVAILABLE": "Işıltı mevcut değil",
+  "GLOW_APPLY_SUCCESSFULL": "Işıltı başarıyla uygulandı"
+}

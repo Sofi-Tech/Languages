@@ -1,0 +1,21 @@
+{
+  "AI_DESCRIPTION": "Отображает информацию об аукционе",
+  "AI_CATEGORY": "Карты",
+  "INVALID_ID": "{{author}} недействительный идентификатор аукциона. Пожалуйста, проверьте еще раз",
+  "EMBED_TITLE": "SOFI: Аукцион",
+  "AI_GEN": "> Поколение: `{{gen}}`",
+  "AI_NAME": "> Имя: {{name}}",
+  "AI_SERIES": "> Серия: {{series}}",
+  "AI_TOP_BID": "> Лучшая ставка: {{bids}}",
+  "AI_STATUS": "> Статус: {{status}}",
+  "EMBED_FOOTER": "Используйте sbid <auctionID>, чтобы сделать ставку на аукционе",
+  "EMPTY_AUCTION": "Аукцион пуст",
+  "ID": "ID:",
+  "ACTIVE": "Активно",
+  "ENDED": "Закончено",
+  "NO_BIDS": "Нет ставок",
+  "ONGOING": "В процессе (заканчивается через: {{time}})",
+  "OVER": "Закончено",
+  "EMBED_AUCTIONS_TITLE": "SOFI: Аукционы",
+  "EMBED_AUCTIONS_FOOTER": "Показана страница: {{page}}/{{totalPages}} | Для получения подробной информации используйте команду sai <auctionID>"
+}

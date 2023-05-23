@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "Dê ao seu cartão um agradável brilho de fundo",
+  "GLOW_CATEGORY": "Cosméticos",
+  "WRONG_USAGE": "{{author}} Triste, mas você precisa fornecer o código do cartão `[glow [códigodocartão] [códigodobrilho]]`",
+  "WRONG_CARD": "Relaxe! O que há em mudar os brilhos de outros cartões?",
+  "CARD_NOT_FOUND": "Não foi possível encontrar seu último cartão, ou tente fornecer um código de cartão",
+  "NO_GIF_CARDS": "{{author}} brilhos não podem ser aplicados em cartões GIF",
+  "UNLOCK_GLOWS": "{{author}}, desbloqueie alguns brilhos primeiro",
+  "PROVIDE_GLOW_CODE": "{{author}} você precisa fornecer o código de brilho",
+  "INVALID_GLOW_CODE": "O código de brilho começa com `#`",
+  "GLOW_NOT_FOUND": "{{author}} não conseguiu encontrar aquele brilho em sua paleta. O código está correto?",
+  "EMBED_GLOW_TITLE": "SOFI: BRILHO",
+  "EMBED_SG_TITLE": "SOFI: SUPER BRILHO",
+  "GLOW_NAME": "Nome: {{name}}",
+  "GLOW_CODE": "Código: #{{code}}",
+  "EMBED_FOOTER": "Brilho: {{availability}}",
+  "GLOW_UNAVAILABLE": "O brilho não está disponível",
+  "GLOW_APPLY_SUCCESSFULL": "O brilho foi aplicado com sucesso"
+}

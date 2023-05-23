@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "تمنح بطاقتك تألقًا خلفيًا جميلاً",
+  "GLOW_CATEGORY": "مستحضرات التجميل",
+  "WRONG_USAGE": "{{author}} حزين لكن عليك توفير رمز البطاقة `[glow [cardcode] [glowcode]]`",
+  "WRONG_CARD": "استرخ! ما الأمر بتغيير إضاءة بطاقات أخرى؟",
+  "CARD_NOT_FOUND": "لا يمكن العثور على بطاقتك الأخيرة أو جرب توفير رمز بطاقة",
+  "NO_GIF_CARDS": "{{author}} لا يمكن تطبيق إضاءات اللمعة على بطاقات Gif",
+  "UNLOCK_GLOWS": "{{author}} فتح بعض الإضاءات أولاً",
+  "PROVIDE_GLOW_CODE": "{{author}} عليك توفير رمز الإضاءة",
+  "INVALID_GLOW_CODE": "يبدأ رمز الإضاءة بـ `#`",
+  "GLOW_NOT_FOUND": "{{author}} لم يتم العثور على تلك اللمعة في لوحتك اللونية. هل هو الرمز الصحيح؟",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
+  "GLOW_NAME": "الاسم: {{name}}",
+  "GLOW_CODE": "الرمز: #{{code}}",
+  "EMBED_FOOTER": "Glow: {{availability}}",
+  "GLOW_UNAVAILABLE": "اللمعة غير متاحة",
+  "GLOW_APPLY_SUCCESSFULL": "تم تطبيق اللمعة بنجاح"
+}

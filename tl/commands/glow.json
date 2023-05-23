@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "Ibigay ang magandang glow sa iyong card",
+  "GLOW_CATEGORY": "Kagandahan",
+  "WRONG_USAGE": "{{author}} Malungkot pero kailangan mong magbigay ng card code `[glow [cardcode] [glowcode]]`",
+  "WRONG_CARD": "Relax! Anu ba yan, ano ba yan, pagpapalit ng glows ng ibang cards?",
+  "CARD_NOT_FOUND": "Hindi makita ang iyong huling card o subukan magbigay ng card code",
+  "NO_GIF_CARDS": "Hindi maaaring gamitin ang mga glows ni {{author}} sa gif cards",
+  "UNLOCK_GLOWS": "Mag-unlock ng ilang glows muna, {{author}}",
+  "PROVIDE_GLOW_CODE": "{{author}} kailangan mong magbigay ng glowcode",
+  "INVALID_GLOW_CODE": "Ang Glowcode ay nagsisimula sa `#`",
+  "GLOW_NOT_FOUND": "{{author}} hindi mahanap ang glow sa iyong palette. Tama ba ang code?",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
+  "GLOW_NAME": "Pangalan: {{name}}",
+  "GLOW_CODE": "Code: #{{code}}",
+  "EMBED_FOOTER": "Glow: {{availability}}",
+  "GLOW_UNAVAILABLE": "Ang glow ay hindi magagamit",
+  "GLOW_APPLY_SUCCESSFULL": "Matagumpay na na-apply ang glow"
+}

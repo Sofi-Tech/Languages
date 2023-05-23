@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "提供你的卡片一个漂亮的背景光芒",
+  "GLOW_CATEGORY": "化妆品",
+  "WRONG_USAGE": "{{author}}   伤心，但是你需要提供卡片代码 `[glow [cardcode] [glowcode]]`",
+  "WRONG_CARD": "放松！换其他卡片的光芒是怎么了？",
+  "CARD_NOT_FOUND": "无法找到你的上一张卡片或者尝试提供一个卡片代码",
+  "NO_GIF_CARDS": "{{author}} 不可以将辉光应用于 GIF 卡片",
+  "UNLOCK_GLOWS": "{{author}} 先解锁一些辉光吧",
+  "PROVIDE_GLOW_CODE": "{{author}} 你需要提供辉光代码",
+  "INVALID_GLOW_CODE": "辉光代码以 `#` 开头",
+  "GLOW_NOT_FOUND": "{{author}} 在你的调色板中找不到该辉光。代码正确吗？",
+  "EMBED_GLOW_TITLE": "SOFI: 辉光",
+  "EMBED_SG_TITLE": "SOFI: 超级辉光",
+  "GLOW_NAME": "名称：{{name}}",
+  "GLOW_CODE": "代码：#{{code}}",
+  "EMBED_FOOTER": "辉光：{{availability}}",
+  "GLOW_UNAVAILABLE": "该辉光不可用",
+  "GLOW_APPLY_SUCCESSFULL": "辉光已成功应用"
+}

@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "Donne à votre carte une belle lueur de fond",
+  "GLOW_CATEGORY": "Cosmétiques",
+  "WRONG_USAGE": "{{author}} Triste mais vous devez fournir le code de carte `[glow [cardcode] [glowcode]]`",
+  "WRONG_CARD": "Détendez-vous! Pourquoi voulez-vous changer la lueur d'autres cartes?",
+  "CARD_NOT_FOUND": "Impossible de trouver votre dernière carte ou essayez de fournir un code de carte",
+  "NO_GIF_CARDS": "{{author}} les lueurs ne peuvent pas être appliquées aux cartes gif",
+  "UNLOCK_GLOWS": "{{author}} déverrouillez d'abord quelques lueurs",
+  "PROVIDE_GLOW_CODE": "{{author}} vous devez fournir le code de lueur",
+  "INVALID_GLOW_CODE": "Le code de lueur commence par `#`",
+  "GLOW_NOT_FOUND": "{{author}} n'a pas pu trouver cette lueur dans votre palette. Le code est-il correct?",
+  "EMBED_GLOW_TITLE": "SOFI: Lueur",
+  "EMBED_SG_TITLE": "SOFI: Super Lueur",
+  "GLOW_NAME": "Nom: {{name}}",
+  "GLOW_CODE": "Code: #{{code}}",
+  "EMBED_FOOTER": "Lueur: {{availability}}",
+  "GLOW_UNAVAILABLE": "Le glow n'est pas disponible",
+  "GLOW_APPLY_SUCCESSFULL": "La lueur a été appliquée avec succès"
+}

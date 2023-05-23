@@ -1,0 +1,21 @@
+{
+  "AI_DESCRIPTION": "Zeigt Auktionsinformationen an",
+  "AI_CATEGORY": "Karten",
+  "INVALID_ID": "{{author}} ungültige Auktions-ID bereitgestellt. Bitte überprüfen Sie erneut",
+  "EMBED_TITLE": "SOFI: AUKTION",
+  "AI_GEN": "> Gen: `{{gen}}`",
+  "AI_NAME": "> Name: {{name}}",
+  "AI_SERIES": "> Serie: {{series}}",
+  "AI_TOP_BID": "> Höchstgebot: {{bids}}",
+  "AI_STATUS": "> Status: {{status}}",
+  "EMBED_FOOTER": "Verwenden Sie sbid <auctionID>, um in der Auktion zu bieten",
+  "EMPTY_AUCTION": "Auktion ist leer",
+  "ID": "ID:",
+  "ACTIVE": "Aktiv",
+  "ENDED": "Beendet",
+  "NO_BIDS": "Keine Gebote",
+  "ONGOING": "Andauern (endet in: {{time}})",
+  "OVER": "Vorbei",
+  "EMBED_AUCTIONS_TITLE": "SOFI: AUKTIONEN",
+  "EMBED_AUCTIONS_FOOTER": "Seite anzeigen: {{page}}/{{totalPages}} | Für Details sai <auctionID> verwenden"
+}
