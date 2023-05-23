@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Kelime tahmin oyunu",
+    "DESCRIPTION": "Bir kelime tahmin oyunu başlatır",
     "CORRECT_USAGE": "{{user}} **doğru kullanım: sguess <miktar> <para birimi>**\n|`silvers` `wists` `gems` `cubes`",
     "NO_TP": "${message.author} aktif bir ticaret kartı yok. Ticaret kartı almak için siteyi ziyaret edin",
     "NOT_ENOUGH_CURR": "{{user}} **| Oyunu başlatmak için yeterli sayıda `{{currency}}` nız yok**",

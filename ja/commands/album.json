@@ -1,17 +1,17 @@
 {
     "ALBUM_DESCRIPTION": "SOFIでアルバムを表示する",
     "ALBUM_CATEGORY": "Album",
-    "ALBUM_SLASH_DESC": "表示したいアルバムのユーザーを入力してください",
+    "ALBUM_SLASH_DESC": "表示したいアルバムを作成したユーザーを入力してください",
     "ALBUM_SLASH_DESC2": "探し出したいアルバム名を入力してください",
     "USER_NOT_FOUND": "{{author}} そのユーザーが見つかりません",
-    "PLAYER_NOT_EXIST": "{{author}} そのプレーヤーが見つかりません",
-    "ALBUM_NOT_FOUND": "{{username}} さんが作成されたアルバムがないようです",
-    "NO_ALBUMS": "{{member}} は現在`Albums`を持っていません\nコマンド`sca`を使用して`Album`を作成します",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} は `{{albumName}}` という名前の`Album`を見つけることができませんでした",
+    "PLAYER_NOT_EXIST": "{{author}} そのプレーヤーが存在しません",
+    "ALBUM_NOT_FOUND": "{{username}}さんが作成されたアルバムがないようです",
+    "NO_ALBUMS": "{{member}}さんが作成されたアルバムがありません\n`sca`コマンドでアルバムが新規作成できます",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} `{{albumName}}`というアルバム名が見つかりません",
     "NO_PAGES": "{{author}} その`Album`にはページがありません",
-    "MAX_PAGES_ERROR": "{{author}} ページ番号は1から{{maxPages}}の間でなければなりません",
+    "MAX_PAGES_ERROR": "{{author}} ページ番号は、1ページ目から{{maxPages}}ページ目の間をご確認のうえ、入力し直してください",
     "PROCESSING": "処理中 <a:_:876610443148406794>",
-    "MISSING_CARDS": "この`Album`ページには、次のカードがありません。:\n {{cardsList}}",
-    "CARDS_LAYOUT_ERROR": "このページを表示するには、カードとレイアウトをもう一度設定してみてください\nAlbum: `{{albumName}}` ページ：`{{pageNumber}}`",
-    "PROFILE_OWNED": "{{memberId}} が所有するプロフィール"
+    "MISSING_CARDS": "この`アルバム`のページには次の含められたカードが見つけられませんでした:\n {{cardsList}}",
+    "CARDS_LAYOUT_ERROR": "このページを表示するには、カードとレイアウトを再構成してください\n`{{albumName}}`で`{{pageNumber}}`ページ目",
+    "PROFILE_OWNED": "{{memberId}}さんが所有するプロフィール"
 }
