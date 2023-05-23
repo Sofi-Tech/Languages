@@ -1,9 +1,9 @@
 {
-    "TAG_DESCRIPTION": "Setzt deine \"Tags\" auf deine Karten",
+    "TAG_DESCRIPTION": "\"Tagt\" deine Karten",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Bitte gib einen „Tag“-Namen an",
-    "NO_TAGS_CREATED": "{{author}} Du hast keine `Tags`. Erstelle einen Tag mit dem `stc <TagName> <Emoji>`-Befehl.",
-    "TAG_NOT_FOUND": "{{author}} Du hast kein `Tag` mit dem Namen `{{tag}}`",
+    "NO_TAGS_CREATED": "{{author}} Du hast keine `Tags`. Erstelle einen Tag mit dem `stc <TagName> <Emoji>`-Befehl",
+    "TAG_NOT_FOUND": "{{author}} Du hast keinen `Tag` mit dem Namen `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Du hast noch keine Karten in deinem Inventar",
     "INVALID_CARD_CODE": "{{author}} Der von Ihnen angegebene Kartencode ist ungültig",
     "SUCCESSFUL_TAG": "{{author}} **{{card}}** erfolgreich als „{{tag}}“ getaggt",
