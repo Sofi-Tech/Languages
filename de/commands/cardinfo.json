@@ -2,7 +2,7 @@
     "DESCRIPTION": "Zeigt Informationen zu einer Karte an",
     "SLASH_DESC": "Gib den Code der Karte an, die du anschauen möchtest",
     "NO_CARD_FOUND": "Deine letzte Karte konnte nicht gefunden werden. Versuche stattdessen einen Karten-Code anzugeben",
-    "INVALID_CARD_CODE": "Ungültiger Karten-Code angegeben",
+    "INVALID_CARD_CODE": "{{author}} Der von Ihnen angegebene Kartencode ist ungültig",
     "CARD_MORPHED": "Diese Karte ist morphed",
     "CARD_GLOWED": "Diese Karte ist mit folgendem `Glow` ausgestattet: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Schriftfarbe: {{fontName}} [`#{{ viewCode}}`]\n",

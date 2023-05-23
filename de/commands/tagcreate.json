@@ -4,7 +4,7 @@
     "WRONG_USAGE": "Korrekte Verwendung: `stc <tagname> <emoji>`",
     "INVALID_EMOJI": "{{author}} „{{emoji}}“ ist kein gültiges Emoji!",
     "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines „Tags“ muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
-    "LONG_TAGNAME": "Tag-Name zu lang. Versuche es mit weniger als 20 Zeichen",
-    "TAGNAME_EXISTS": "{{author}} **Tag mit dem Namen `{{tag}}` existiert bereits",
-    "TAG_CREATED": "Tag erstellt mit Namen: `{{tag}}` | {{emoji}}"
+    "LONG_TAGNAME": "{{author}} Ein „Tag“-Name kann maximal 20 Zeichen enthalten",
+    "TAGNAME_EXISTS": "{{author}} Du hast bereits ein „Tag“ mit dem Namen „{{tag}}“.",
+    "TAG_CREATED": "{{author}} Erstellte ein „Tag“ mit dem Namen: „{{tag}}“ | {{emoji}}"
 }

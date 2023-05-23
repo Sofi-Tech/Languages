@@ -2,6 +2,15 @@
     "NO_GLOWCDE": "{{author}} Du musst einen „Glow“-Code bereitstellen",
     "INVALID_DC_MOVIES": "{{author}} „Glow“-Codes beginnen immer mit einem **#**",
     "RG_CATEGORY": "Zeigt den \"Hintergrundshop\" an",
-    "RG_DESCRIPTION": "Lädt ein leeres \"Glow\" auf",
-    "UNLOCK_GLOWS": "Du hast noch keine Glows"
+    "RG_DESCRIPTION": "Füllt ein leeres \"Glow\" auf",
+    "UNLOCK_GLOWS": "Du hast noch keine Glows",
+    "CANCEL_RECHARGE": "Der Vorgang wurde abgebrochen",
+    "EMBED_TITLE": "SOFI: GLOW AUFLADEN",
+    "ARE_YOU_SURE": "Bist du dir sicher?",
+    "NO_MONEY": "Du hast nicht genügend „Aufladungen“! Kaufe etwas und versuche es erneut",
+    "SUCCESSFUL_RECHARGE": "Dein „Glow“ wurde erfolgreich aufgeladen!",
+    "GLOW_NOT_FOUND": "{{author}} Dein bereitgestellter „Glow“-Code ist ungültig",
+    "GLOW_AVAILABLE": "{{author}} Das „Glow“ ist bereits aufgeladen",
+    "RECHARGE_CONFIRMATION": "Du bist dabei, aufzufüllen: **{{Name}}** Code: „{{glowCode}}“. Kosten: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "SUPER_RECHARGE_CONFIRMATION": "Sie sind dabei, aufzufüllen:\n**{{name}} (Super)**\nCode: „{{glowCode}}“\nKosten: **{{cost}} **:recharge_sofi:"
 }

@@ -3,5 +3,8 @@
     "BGS_DESCRIPTION": "Hintergründe für 3D anzeigen",
     "BGS_CATEGORY": "Cosmetics",
     "EMBED_TITLE": "SOFI 3D-HINTERGRÜNDE:",
-    "APPLY_BG": "Um einen „Hintergrund“ anzuwenden, verwendest du den Befehl „sbg <code> <bgID>“."
+    "APPLY_BG": "Um einen „Hintergrund“ anzuwenden, verwendest du den Befehl „sbg <code> <bgID>“.",
+    "VIEW_BACKGROUNDS": "Klicke hier, um alle „Hintergründe“ anzusehen",
+    "SHOWING_PAGE": "Angezeigt Seite: {{page}}/{{pages}}",
+    "NO_BG_FOUND": "Dies ist keine gültige „Hintergrund“-ID"
 }

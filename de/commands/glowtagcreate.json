@@ -4,5 +4,5 @@
     "CORRECT_USAGE": "Korrekte Anwendung: `sgtc <tagname> <emoji>`",
     "INVALID_EMOJI": "Dieses Emoji is ungültig",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Ein „Glow-Tag“ mit diesem Namen existiert bereits",
-    "CREATED_GLOWTAG": "{{author}} **Leuchtendes Tag mit Namen:** `{{tag}}` | {{emoji}} erstellt"
+    "CREATED_GLOWTAG": "{{author}} Erstellte ein „Glow Tag“ mit dem Namen: „{{tag}}“ | {{emoji}}"
 }

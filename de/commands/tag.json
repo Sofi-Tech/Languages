@@ -4,8 +4,8 @@
     "WRONG_USAGE": "{{author}} Bitte gib einen „Tag“-Namen an",
     "NO_TAGS_CREATED": "Du hast noch keine Tags. Erstelle zuerst einen Tag mit dem `stc <TagName> <Emoji>`-Befehl.",
     "TAG_NOT_FOUND": "{{author}} Du hast kein „Tag“ mit dem Namen „{{tag}}“.",
-    "NO_CARDS_CLAIMED": "Du hast noch keine Karten beansprucht",
-    "INVALID_CARD_CODE": "{{author}} Ungültiger Karten-Code oder keine Karte gefunden",
-    "SUCCESSFUL_TAG": "{{author}} | {{card}} erfolgreich als `{{tag}}` getaggt",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} | Diese Karten wurden erfolgreich getaggt"
+    "NO_CARDS_CLAIMED": "{{author}} Du hast keine Karten zum taggen",
+    "INVALID_CARD_CODE": "{{author}} Der von Ihnen angegebene Kartencode ist ungültig",
+    "SUCCESSFUL_TAG": "{{author}} **{{card}}** erfolgreich als „{{tag}}“ getaggt",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Alle Karten wurden erfolgreich getaggt"
 }

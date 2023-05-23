@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "ウィッシュリストチャンネルを設定する",
+    "DESCRIPTION": "ウィッシュリストをチャンネルに設定します",
     "CATEGORY": "ウィッシュリスト",
-    "CHANNEL_SET": "> あなたのウィッシュリストチャンネルは{{channel}}に設定されました",
-    "CHANNEL_REMOVE": "> あなたのウィッシュリストチャンネルは削除されました"
+    "CHANNEL_SET": "> ウィッシュリストは{{channel}}で設定されています",
+    "CHANNEL_REMOVE": "ウィッシュリストは{{channel}}から削除されました"
 }
