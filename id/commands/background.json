@@ -1,11 +1,11 @@
 {
-    "BG_CATEGORY": "Cosmetic",
+    "BG_CATEGORY": "Kosmetik",
     "BG_DESCRIPTION": "Menerapkan \"Background\" ke kartu 3D Anda",
     "APPLY_GIF_CARDS": "{{author}} Anda tidak dapat menerapkan `Background` ke kartu non-3D",
     "APPLY_3D_CARDS": "{{author}} Anda tidak dapat menerapkan `Background` ke kartu non-3D",
     "BG_NOT_FOUND": "Tidak dapat menemukan `Background` dengan ID tersebut",
     "EMBED_TITLE": "Menerapkan Background:",
-    "EMBED_DESCRIPTION": "Anda akan menerapkan `Latar Belakang` **{{background}}**",
+    "EMBED_DESCRIPTION": "Anda akan menerapkan `Background` **{{background}}**",
     "USER_NO_BG": "Anda tidak memiliki `Background` itu",
     "INVALID_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <BackgroundID>`"
