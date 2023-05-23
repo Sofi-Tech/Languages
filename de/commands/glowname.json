@@ -1,7 +1,7 @@
 {
     "GN_DESCRIPTION": "Ändere den Glow-Namen",
     "GN_CATEGORY": "Kosmetika",
-    "UNLOCK_GLOWS": "{{author}} entsperren Sie zuerst einige Glows",
+    "UNLOCK_GLOWS": "{{author}} du hast keine `Glows`",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `sglowname [glowcode] [newname]`",
     "WRONG_GLOWCODE_FORMAT": "Glow-Code beginnt mit `#`",
     "GLOW_NOT_FOUND": "{{author}} konnte diesen Glow in Ihrer Palette nicht finden. Ist der Code korrekt?",
