@@ -10,6 +10,6 @@
     "YOU_GET": "Makukuha Mo:",
     "YOU_PAY": "Babayaran Mo:",
     "TRANSACTION": "TRANSAKSIYON",
-    "NO_ENOUGH_AMOUNT": "Kulang ang iyong halaga upang makabili ng frame",
-    "FRAME_PURCHASED_BY": "Ang iyong frame na `{{frame}}` ay binili ni `{{userId}}` {{buyCount}}"
+    "NO_ENOUGH_AMOUNT": "Kulang ang iyong currency para sa transaction na ito",
+    "FRAME_PURCHASED_BY": "Ang iyong `Frame` na `{{frame}}` ay binili ni `{{userId}}`| {{buyCount}}"
 }

@@ -10,6 +10,6 @@
     "YOU_GET": "Anda Mendapat:",
     "YOU_PAY": "Anda Membayar:",
     "TRANSACTION": "TRANSAKSI",
-    "NO_ENOUGH_AMOUNT": "Anda tidak memiliki cukup `{{currency}}` untuk membeli frame ini",
+    "NO_ENOUGH_AMOUNT": "Jumlah mata uang Anda tidak mencukupi untuk transaksi ini",
     "FRAME_PURCHASED_BY": "`Frame` Anda **{{frame}}** telah dibeli oleh `{{userId}}}`| {{buyCount}}"
 }

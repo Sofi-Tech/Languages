@@ -1,7 +1,7 @@
 {
     "GN_DESCRIPTION": "Baguhin ang pangalan ng glow",
     "GN_CATEGORY": "Cosmetics",
-    "UNLOCK_GLOWS": "{{author}} i-unlock muna ang ilang mga glow",
+    "UNLOCK_GLOWS": "{{author}} Wala kang `Glows`",
     "WRONG_USAGE": "{{author}} Tama ang paggamit: `sglowname [glowcode] [newname]`",
     "WRONG_GLOWCODE_FORMAT": "Ang Glowcode ay nagsisimula sa `#`",
     "GLOW_NOT_FOUND": "{{author}} hindi makahanap ng glow na iyon sa iyong palette. Tama ba ang code?",

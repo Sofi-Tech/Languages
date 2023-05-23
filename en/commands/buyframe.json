@@ -10,6 +10,6 @@
     "YOU_GET": "You Get:",
     "YOU_PAY": "You Pay:",
     "TRANSACTION": "TRANSACTION",
-    "NO_ENOUGH_AMOUNT": "You don't have enough `{{currency}}` to buy this frame",
+    "NO_ENOUGH_AMOUNT": "You have an insufficient amount of currency for this transaction",
     "FRAME_PURCHASED_BY": "Your `Frame` **{{frame}}** has been purchased by `{{userId}}`| {{buyCount}}"
 }

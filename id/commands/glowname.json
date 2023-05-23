@@ -1,7 +1,7 @@
 {
     "GN_DESCRIPTION": "Ubah nama glow",
     "GN_CATEGORY": "Kosmetik",
-    "UNLOCK_GLOWS": "{{author}} harus terlebih dahulu membuka beberapa glow",
+    "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
     "WRONG_USAGE": "{{author}} Penggunaan yang Benar: `sglowname [kodeglow] [namabaru]`",
     "WRONG_GLOWCODE_FORMAT": "Kode glow dimulai dengan `#`",
     "GLOW_NOT_FOUND": "{{author}} tidak dapat menemukan glow tersebut di paletmu. Apakah kodenya benar?",
