@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Entfernen Sie ein Angebot aus dem Markt",
+    "DESCRIPTION": "Entfernt dein Angebot aus dem Markt",
     "CORRECT_USAGE": "{{user}} | Bitte geben Sie die Angebots-ID an oder verwenden Sie all, um alle Angebote auf einmal zu entfernen",
-    "INVALID_DEAL_ID": "Ungültige Angebots-ID bereitgestellt: Bitte überprüfen Sie erneut und prüfen Sie, ob Sie es aufgelistet haben",
-    "SUCCESS_UL": "{{user}} {{dealId}} wurde erfolgreich aus dem Markt entfernt",
-    "NO_LISTINGS_FOUND": "{{user}} Sie haben noch keine Angebote auf dem Markt gemacht",
+    "INVALID_DEAL_ID": "{{author}} Die Angebots-ID ist nicht gültig. Bitte sei sicher das der Deal von dir ist",
+    "SUCCESS_UL": "{{user}}, der Deal `{{dealId}}` wurde erfolgreich aus dem Markt entfernt",
+    "NO_LISTINGS_FOUND": "{{user}}, du hast gerade keine Angebote auf dem Markt",
     "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} Angebote wurden erfolgreich aus dem Markt entfernt"
 }

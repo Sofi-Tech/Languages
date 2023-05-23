@@ -3,13 +3,13 @@
     "BF_CATEGORY": "Kozmetik",
     "NO_FRAME_NAME": "{{author}} Lütfen satın almak istediğiniz `Frame`in adını belirtin",
     "NO_FRAMECODE_FOUND": "{{author}}} `{{name}}` koduna sahip herhangi bir `Frame` bulunamadı",
-    "FRAME_UNAVAILABLE": "O çerçeve mevcut değil. Lütfen mevcut çerçeveyi kontrol etmek için `sfs` kullanın`",
-    "NO_FRAME_FOUND": "{{author}} | Çerçeve bulunamadı",
-    "FRAME_NOT_PURCHASABLE": "{{author}} o çerçeveyi satın alamaz",
-    "EMBED_TITLE": "İŞLEM:",
+    "FRAME_UNAVAILABLE": "{{author}} Bu çerçeve şu anda geçerli değil. Geçerli `Frame` rotasyonunu kontrol etmek için lütfen bunun yerine 'sfs' komutunu kullanın",
+    "NO_FRAME_FOUND": "{{author}} Bu koda sahip bir `Frame` yok",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Bu `Frame` sınırlıdır ve artık satın alınamaz",
+    "EMBED_TITLE": "İŞLEM",
     "YOU_GET": "Aldığınız:",
     "YOU_PAY": "Ödediğiniz:",
     "TRANSACTION": "İŞLEM",
-    "NO_ENOUGH_AMOUNT": "Çerçeveyi satın almak için yeterli miktarınız yok",
-    "FRAME_PURCHASED_BY": "`{{userId}}` {{buyCount}} satın alındı `{{frame}}` adlı çerçeveniz"
+    "NO_ENOUGH_AMOUNT": "Bu işlem için yeterli miktarda para biriminiz yok",
+    "FRAME_PURCHASED_BY": "`Frame` **{{frame}}**, `{{userId}}` tarafından satın alındı| {{buyCount}}"
 }

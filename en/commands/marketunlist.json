@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Unlists a deal from the market",
-    "CORRECT_USAGE": "{{user}} Please provide the deal ID you want to unlist or use the command `marketunlist all` to unlist all deals at once",
-    "INVALID_DEAL_ID": "Invalid Deal ID provided: Please check again and check if its listed by you",
-    "SUCCESS_UL": "{{user}} {{dealId}} was successfully unlisted from the market",
-    "NO_LISTINGS_FOUND": "{{user}} you haven't made any listings in market yet",
-    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} deals were successfully unlisted from the market"
+    "DESCRIPTION": "Removes your deals from the market",
+    "CORRECT_USAGE": "{{user}} Please provide the deal ID you want to unlist or use the command `smul all` to unlist all deals at once",
+    "INVALID_DEAL_ID": "{{author}} The deal ID you provided is invalid. Please make sure that this deal is listed by you",
+    "SUCCESS_UL": "{{user}} The deal `{{dealId}}` was successfully unlisted from the market",
+    "NO_LISTINGS_FOUND": "{{user}} You don't have any listings in the market currently",
+    "SUCCESS_UL_ALL": "{{user}} A total of `{{totalDeals}}` deals were successfully unlisted from the market"
 }

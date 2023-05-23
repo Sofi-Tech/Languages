@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Kartlarınızı toplu olarak yakın",
-    "IN_ACTIVE_MB": "{{user}} zaten aktif bir toplu yakma komutunda.\n Son komutu iptal edin veya yeni bir toplu yakmak için son komut kartlarını yakın",
-    "PROVIDE_FILTERS": "Koleksiyonu filtrelemek için bir filtre sağlayın: t=etiketadı, g><=gen, wl><=wishlist",
-    "WRONG_TAG": " Yanlış etiket sağlandı. Lütfen tekrar kontrol edin",
+    "DESCRIPTION": "Aynı anda çok sayıda kartı yakar",
+    "IN_ACTIVE_MB": "{{user}} Aktif bir toplu yakma işlemi devam ederken yeni bir toplu yakma başlatamazsınız. Lütfen önceki işlemi devam ettirin veya önce mevcut toplu yakma işlemini iptal edin",
+    "PROVIDE_FILTERS": "Yakma işlemine uygulamak istediğiniz filtreleri belirtin! `t=<TagName>, g><=gen, wl><=wishlist`",
+    "WRONG_TAG": "{{author}} Sağladığınız \"Etiket\" adı geçersiz",
     "NO_CARDS_FOUND": "{{user}} henüz herhangi bir kart talep etmedi",
     "CARDS_BURNED": "Kartlar Yakıldı [${totalCards}]",
     "CONFIRM_ASK": "Bu kartları yakmak istediğinizden emin misiniz?",
