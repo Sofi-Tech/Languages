@@ -3,11 +3,11 @@
     "IN_ACTIVE_MB": "{{user}} Aktif bir toplu yakma işlemi devam ederken yeni bir toplu yakma başlatamazsınız. Lütfen önceki işlemi devam ettirin veya önce mevcut toplu yakma işlemini iptal edin",
     "PROVIDE_FILTERS": "Yakma işlemine uygulamak istediğiniz filtreleri belirtin! `t=<TagName>, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} Sağladığınız \"Etiket\" adı geçersiz",
-    "NO_CARDS_FOUND": "{{user}} henüz herhangi bir kart talep etmedi",
-    "CARDS_BURNED": "Kartlar Yakıldı [${totalCards}]",
-    "CONFIRM_ASK": "Bu kartları yakmak istediğinizden emin misiniz?",
-    "MISSING_CARDS": "Toplu yakma koleksiyonundan bir kart eksik. Komutu tekrar deneyin",
+    "NO_CARDS_FOUND": "{{author}} Envanterinizde henüz hiç kart yok",
+    "CARDS_BURNED": "Kartlar Yakıldı {{totalCards}}",
+    "CONFIRM_ASK": "Yukarıdaki kartları yakmak istediğinizden emin misiniz? Bu süreç geri döndürülemez",
+    "MISSING_CARDS": "{{author}} Seçtiğiniz `Tags`lı kartlardan en az biri artık koleksiyonunuzda değil",
     "SUCCESS": "Kartlar başarıyla yakıldı",
     "BURN_REWARDS": "Yakma Ödülleri",
-    "CANCELLED": "İptal Edildi"
+    "CANCELLED": "Toplu yakım süreci iptal edildi"
 }

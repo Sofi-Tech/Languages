@@ -3,7 +3,7 @@
     "IN_ACTIVE_MB": "{{user}} You can't start a new massburn, while you have an active one ongoing. Please proceed or cancel the existing massburn first",
     "PROVIDE_FILTERS": "Provide the filters you want to apply to the burn process! `t=<TagName>, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} The `Tag` name you provided is invalid",
-    "NO_CARDS_FOUND": "{{author}} You do not have any cards in your inventory yet",
+    "NO_CARDS_FOUND": "{{author}} You do not have any cards in your collection yet",
     "CARDS_BURNED": "Cards Burned **{{totalCards}}**",
     "CONFIRM_ASK": "Are you sure you want to burn the above cards? This process is irreversible",
     "MISSING_CARDS": "{{author}} At least one of the cards from your selected `Tags` is no longer in your collection",

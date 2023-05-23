@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Quitar un trato del mercado",
-    "CORRECT_USAGE": "{{user}} | Por favor, proporcione el ID del trato o use todo para quitar todos los tratos de una vez",
+    "DESCRIPTION": "Quitar tú trato del mercado",
+    "CORRECT_USAGE": "{{user}} | Por favor, proporcione el ID del trato o use el comando`smul all` para quitar todos los tratos de una vez",
     "INVALID_DEAL_ID": "Se proporcionó un ID de trato no válido: por favor, compruebe de nuevo y compruebe si está en su lista",
     "SUCCESS_UL": "{{user}} {{dealId}} fue quitado exitosamente del mercado",
-    "NO_LISTINGS_FOUND": "{{user}} aún no ha hecho ninguna lista en el mercado",
-    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} tratos fueron quitados exitosamente del mercado"
+    "NO_LISTINGS_FOUND": "{{user}} No tienes ninguna lista en el mercado actualmente",
+    "SUCCESS_UL_ALL": "{{user}} Un total de {{totalDeals}} tratos fueron quitados exitosamente del mercado"
 }

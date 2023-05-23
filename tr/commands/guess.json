@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Bir kelime tahmin oyunu başlatır",
-    "CORRECT_USAGE": "{{user}} **doğru kullanım: sguess <miktar> <para birimi>**\n|`silvers` `wists` `gems` `cubes`",
-    "NO_TP": "${message.author} aktif bir ticaret kartı yok. Ticaret kartı almak için siteyi ziyaret edin",
-    "NOT_ENOUGH_CURR": "{{user}} **| Oyunu başlatmak için yeterli sayıda `{{currency}}` nız yok**",
-    "INFO_1": "{{user}} tahmin oyununu başlattı",
+    "CORRECT_USAGE": "{{user}} Doğru kullanım: `sguess <Amount> <Currency>`\nKabul edilen para birimleri: `silvers` `wists` `gems` `cubes`",
+    "NO_TP": "{{message.author}} Etkin bir `Trade Pass`ınız yok. Web sitesini ziyaret etmek için `sbump` komutunu kullanın ve `Bump` puanlarınız ile `Trade Pass` alın",
+    "NOT_ENOUGH_CURR": "{{user}} Oyuna başlamak için yeterli `{{currency}}` paranız yok!",
+    "INFO_1": "{{user}} Bir tahmin oyunu başlattı",
     "INFO_2": "Katılımcıların oynamak için {{bet}} {{currency}}'ya sahip olmaları gerekiyor",
     "INFO_3": "Ödül: {{jackpot}} {{currencyEmoji}}",
     "INFO_4": "Oyuncular: [{{playerCount}}]",

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Rimuovere un affare dal mercato",
-    "CORRECT_USAGE": "{{user}} | Fornisci l'ID dell'affare o usa  all' per rimuovere tutti gli affari in una sola volta",
-    "INVALID_DEAL_ID": "ID affare non valido fornito: controlla di nuovo e verifica se è stato pubblicato da te",
-    "SUCCESS_UL": "{{user}} {{dealId}} è stato rimosso con successo dal mercato",
+    "DESCRIPTION": "Rimuove i tuoi affari dal mercato",
+    "CORRECT_USAGE": "{{user}} | Fornisci l'ID dell'affare o usa il comando `smull all` per rimuovere tutti gli affari in una sola volta",
+    "INVALID_DEAL_ID": "{{author}} l'ID per l'affare che hai dato non è valido. Perfavore assicurati che questo affare è elencato da te",
+    "SUCCESS_UL": "{{user}} l'affare {{dealId}} è stato rimosso con successo dal mercato",
     "NO_LISTINGS_FOUND": "{{user}} non hai ancora pubblicato alcun annuncio nel mercato",
     "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} affari sono stati rimossi con successo dal mercato"
 }

@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Raad Het Woord spel",
-    "CORRECT_USAGE": "{{user}} **correct gebruik: sguess <bedrag> <valuta>**\n|`silvers` `wists` `gems` `cubes`",
+    "DESCRIPTION": "Start een woord raadspel",
+    "CORRECT_USAGE": "{{user}} Correct gebruik: `sguess <bedrag> <valuta>`\n|Geaccepteerde valuta:`Silver` `Wists` `Gems` `Cubes`",
     "NO_TP": "${message.author} heeft geen actieve Tradepass. Wissel de bump punten in op de site om een Tradepass te ontvangen",
     "NOT_ENOUGH_CURR": "{{user}} **| Je hebt niet genoeg `{{currency}}` om het spel te starten**",
     "INFO_1": "{{user}} is begonnen met het raadspel",

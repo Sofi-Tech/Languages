@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Indovina la parola gioco",
-    "CORRECT_USAGE": "{{user}} **uso corretto: sguess <quantità> <valuta>**\n|`silvers` `wists` `gems` `cubes`",
-    "NO_TP": "${message.author} non ha alcun passaggio commerciale attivo. Riscattare i punti di spinta sul sito per ricevere un passaggio commerciale",
-    "NOT_ENOUGH_CURR": "{{user}} **| Non hai abbastanza `{{currency}}` per avviare il gioco**",
+    "DESCRIPTION": "Inizia il gioco di indovina la parola",
+    "CORRECT_USAGE": "{{user}} Correct usage: `sguess <quantità> <valuta>`\nValute accettare: `monete` `Wists` `gemme` `cubi`",
+    "NO_TP": "{{message.author}} non hai un `trade pass`attivo . Usa il comando `sbump` per visitare il sito dove puoi scambiare i tuoi `bump` points per ottenerne uno",
+    "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per avviare il gioco!",
     "INFO_1": "{{user}} ha avviato il gioco di indovinare",
     "INFO_2": "Il partecipante deve avere {{bet}} {{currency}} per giocare",
     "INFO_3": "Premio: {{jackpot}} {{currencyEmoji}}",

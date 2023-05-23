@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Sunugin ang iyong mga kard",
-    "IN_ACTIVE_MB": "{{user}} ikaw ay nasa aktibong massburn command na.\n I-cancel ang huling command o sunugin ang huling mga kard upang magsimula ng bagong mass burn",
-    "PROVIDE_FILTERS": "Magbigay ng isang filter upang pumili ng collection: t=tagname, g><=gen, wl><=wishlist",
-    "WRONG_TAG": "Maling tag ang ibinigay. Mangyaring suriin muli",
-    "NO_CARDS_FOUND": "{{user}} hindi ka pa nakakakuha ng kahit anong kard",
-    "CARDS_BURNED": "Na-sunog na mga cards [${totalCards}]",
-    "CONFIRM_ASK": "Sigurado ka bang sunugin ang mga kard na ito?",
-    "MISSING_CARDS": "Nawawala ang isa sa mga kard mula sa massburn collection. Subukan muli ang command",
+    "DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
+    "IN_ACTIVE_MB": "{{user}} ikaw ay hindi makakapagsimula ng panibago na malawakang pagsusunog habang ikaw ay nasa aktibo na malawakang pagsusunog pa. Ituloy o kanselahin muna ang nauna na malakang pagsusunog",
+    "PROVIDE_FILTERS": "Ibigay ang filter na gusto ilagay sa proseso ng pagsusunog! `t=tagname, g><=gen, wl><=wishlist`",
+    "WRONG_TAG": "{{author}} Ang pangalang`Tag`na binigay ay hindi wasto",
+    "NO_CARDS_FOUND": "{{author}} Wala ka pa ngang anumang mga kard sa iyong lagayan ng kagamitan",
+    "CARDS_BURNED": "Kabuuan ng kard na nasunog **{{totalCards}}**",
+    "CONFIRM_ASK": "Sigurado ka bang sunugin ang mga kard na ito? Ang proseso na ito ay hindi maibabalik",
+    "MISSING_CARDS": "{{author}} Kahit isang kards sa mga napiling `Tags`ay wala na sa iyong koleksyon",
     "SUCCESS": "Matagumpay na nasunog ang mga kard",
     "BURN_REWARDS": "Sunugin ang mga rewards",
-    "CANCELLED": "Nakansela"
+    "CANCELLED": "Ang proseso ng malakang pagsusunog ay nakansela"
 }

@@ -1,8 +1,8 @@
 {
-    "BF_DESCRIPTION": "Compra la cornice dal negozio",
+    "BF_DESCRIPTION": "Compra un \"Frame\" da \"Frame Shop\"",
     "BF_CATEGORY": "Cosmetici",
-    "NO_FRAME_NAME": "Hai dimenticato di fornire il nome della cornice",
-    "NO_FRAMECODE_FOUND": "{{author}} **Nessuna cornice trovata con il codice `{{name}}`",
+    "NO_FRAME_NAME": "{{author}} perfavore fornisci il nome del `Frame` che vuoi comprare",
+    "NO_FRAMECODE_FOUND": "{{author}} non è stato possibile trovare il `frame` con il codice `{{name}}`",
     "FRAME_UNAVAILABLE": "Quella cornice non è disponibile. Utilizza `sfs` per verificare le cornici disponibili",
     "NO_FRAME_FOUND": "{{author}} | Nessuna cornice trovata",
     "FRAME_NOT_PURCHASABLE": "{{author}} non può acquistare quella cornice",
