@@ -1,8 +1,8 @@
 {
-    "BF_DESCRIPTION": "Achete la `frame` dans le `frame shop`",
+    "BF_DESCRIPTION": "Achète la `frame` dans le `frame shop`",
     "BF_CATEGORY": "Produits cosmétiques",
     "NO_FRAME_NAME": "Vous avez oublié de fournir le nom de la `frame`",
-    "NO_FRAMECODE_FOUND": "{{author}} **Aucune `Frame` trouvé avec le code `{{name}}`**",
+    "NO_FRAMECODE_FOUND": "{{author}} **Aucune `Frame` trouvée avec le code `{{name}}`**",
     "FRAME_UNAVAILABLE": "Ce cadre n'est pas disponible. Veuillez utiliser `sfs` pour vérifier les `Frames`disponibles",
     "NO_FRAME_FOUND": "{{author}} | Aucune `Frame`ne correspond à ce code",
     "FRAME_NOT_PURCHASABLE": "{{author}} Cette `frame`est une édition limitée et ne peut plus être achetée",
@@ -11,5 +11,5 @@
     "YOU_PAY": "Vous payez :",
     "TRANSACTION": "Transaction",
     "NO_ENOUGH_AMOUNT": "Vous avez un montant insuffisant de monnaie pour cette transaction",
-    "FRAME_PURCHASED_BY": "Votre `frame``{{frame}}` a été acheté par `{{userId}}` {{buyCount}}"
+    "FRAME_PURCHASED_BY": "Votre `frame``{{frame}}` a été achetée par `{{userId}}` {{buyCount}}"
 }
