@@ -1,0 +1,21 @@
+{
+  "AI_DESCRIPTION": "Displays Auction Info",
+  "AI_CATEGORY": "Cards",
+  "INVALID_ID": "{{author}} invalid auction id provided. Please check again",
+  "EMBED_TITLE": "SOFI: AUCTION",
+  "AI_GEN": "> Gen: `{{gen}}`",
+  "AI_NAME": "> Name: {{name}}",
+  "AI_SERIES": "> Series: {{series}}",
+  "AI_TOP_BID": "> Top Bid: {{bids}}",
+  "AI_STATUS": "> Status: {{status}}",
+  "EMBED_FOOTER": "Use sbid <auctionID> to make the bid in auction",
+  "EMPTY_AUCTION": "Auction is empty",
+  "ID": "ID:",
+  "ACTIVE": "Active",
+  "ENDED": "Ended",
+  "NO_BIDS": "No bids",
+  "ONGOING": "On going (Ends in: {{time}})",
+  "OVER": "Over",
+  "EMBED_AUCTIONS_TITLE": "SOFI: AUCTIONS",
+  "EMBED_AUCTIONS_FOOTER": "Showing page: {{page}}/{{totalPages}} | For details use sai <auctionID>"
+}

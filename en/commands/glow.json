@@ -1,0 +1,19 @@
+{
+  "GLOW_DESCRIPTION": "Give your card nice background glow",
+  "GLOW_CATEGORY": "Cosmetics",
+  "WRONG_USAGE": "{{author}} Sad but you need to provide the card code `[glow [cardcode] [glowcode]]`",
+  "WRONG_CARD": "Relax! What's with changing glows of other cards?",
+  "CARD_NOT_FOUND": "Can't find your last card or try providing a card code",
+  "NO_GIF_CARDS": "{{author}} glows cannot be applied on gif cards",
+  "UNLOCK_GLOWS": "{{author}} unlock some glows first",
+  "PROVIDE_GLOW_CODE": "{{author}} you need to provide glowcode",
+  "INVALID_GLOW_CODE": "Glowcode starts with `#`",
+  "GLOW_NOT_FOUND": "{{author}} couldn't find that glow in your palette. Is the code correct?",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
+  "GLOW_NAME": "Name: {{name}}",
+  "GLOW_CODE": "Code: #{{code}}",
+  "EMBED_FOOTER": "Glow: {{availability}}",
+  "GLOW_UNAVAILABLE": "The glow is unavailable",
+  "GLOW_APPLY_SUCCESSFULL": "Glow was successfully applied"
+}
