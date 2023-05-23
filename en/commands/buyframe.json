@@ -3,7 +3,7 @@
     "BF_CATEGORY": "Cosmetics",
     "NO_FRAME_NAME": "{{author}} Please provide the name of the `Frame` you want to buy",
     "NO_FRAMECODE_FOUND": "{{author}} Could not find any `Frame` with the code `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} That frame is not currently avaialble. Please use the command `sfs` instead, to check the current `Frame` rotation",
+    "FRAME_UNAVAILABLE": "{{author}} That frame is not available currently. Please use the command `sfs` instead, to check the current `Frame` rotation",
     "NO_FRAME_FOUND": "{{author}} No `Frame` with that code exists",
     "FRAME_NOT_PURCHASABLE": "{{author}} That `Frame` is limited and can no longer be purchased",
     "EMBED_TITLE": "TRANSACTION",

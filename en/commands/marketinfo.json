@@ -9,5 +9,5 @@
     "LISTED": "Listed",
     "NO_LISTINGS_FOUND": "{{user}} you haven't made any listings in the market",
     "INFO": "Use `sml` and `smul` to unlist\nA single deal can be listed at a time",
-    "FOOTER": "Showing 1-{{pages}} of {{total}} | To buy use smp <id> [amount]"
+    "FOOTER": "Showing 1-{{pages}} of {{total}} | Use the command `smp <ID>` to buy `Wists`!"
 }

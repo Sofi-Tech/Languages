@@ -1,15 +1,15 @@
 {
-    "BF_DESCRIPTION": "Купите рамку в магазине",
+    "BF_DESCRIPTION": "Покупает «Рамку» в «Магазине рамок»",
     "BF_CATEGORY": "Косметика",
-    "NO_FRAME_NAME": "Вы забыли указать название рамки",
-    "NO_FRAMECODE_FOUND": "{{author}} **Рамка с кодом `{{name}}` не найдена**",
-    "FRAME_UNAVAILABLE": "Эта рамка недоступна. Используйте `sfs`, чтобы проверить доступную рамку",
-    "NO_FRAME_FOUND": "{{author}} | Рамки не найдены",
-    "FRAME_NOT_PURCHASABLE": "{{author}} не может купить эту рамку",
-    "EMBED_TITLE": "СДЕЛКА:",
-    "YOU_GET": "Вы получите:",
+    "NO_FRAME_NAME": "{{author}} Укажите название рамы, которую вы хотите купить",
+    "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти `Рамку` с кодом `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} Эта рамка сейчас недоступен. Вместо этого используйте команду `sfs`, чтобы проверить текущее вращение `Рамку`",
+    "NO_FRAME_FOUND": "{{author}} Рамка с таким кодом не существует",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Эта `Рамка` ограничена и больше не может быть куплена",
+    "EMBED_TITLE": "СДЕЛКА",
+    "YOU_GET": "Вы получаете:",
     "YOU_PAY": "Вы заплатите:",
     "TRANSACTION": "СДЕЛКА",
-    "NO_ENOUGH_AMOUNT": "У вас недостаточно средств для покупки рамки",
-    "FRAME_PURCHASED_BY": "Ваша рамка `{{frame}}` была куплена пользователем `{{userId}}` {{buyCount}}"
+    "NO_ENOUGH_AMOUNT": "У вас недостаточно валюты для этой транзакции",
+    "FRAME_PURCHASED_BY": "Ваша `Рамка` **{{frame}}** была куплена `{{userId}}`| {{buyCount}}"
 }

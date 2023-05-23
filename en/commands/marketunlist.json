@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Unlist a deal from the market",
-    "CORRECT_USAGE": "{{user}} | Please provide the deal ID or use all to unlist all deals at once",
+    "DESCRIPTION": "Unlists a deal from the market",
+    "CORRECT_USAGE": "{{user}} Please provide the deal ID you want to unlist or use the command `marketunlist all` to unlist all deals at once",
     "INVALID_DEAL_ID": "Invalid Deal ID provided: Please check again and check if its listed by you",
     "SUCCESS_UL": "{{user}} {{dealId}} was successfully unlisted from the market",
     "NO_LISTINGS_FOUND": "{{user}} you haven't made any listings in market yet",

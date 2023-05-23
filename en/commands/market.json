@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Displays listed deals in the market",
-    "NO_LISTING_FOUND": "No listings found",
+    "DESCRIPTION": "Displays the Sofi market",
+    "NO_LISTING_FOUND": "Could not find any listings",
     "STOCK": "Stock",
     "RATE": "Rate",
-    "MARKET_WARN": "Do not use market for storing or hiding wists.\nThey will be removed without compensation.\nAverage Rate : {{averageRate}} Total Trades : {{totalTrades}}",
-    "FOOTER": "Showing 1-{{pages}} of {{total}} | To buy use smp <id> [amount]"
+    "MARKET_WARN": "Do not use the market for storing or hiding `Wists`!\nIf you are caught doing so, the `Wists` will be removed without compensation.\n`Average Rate : {{averageRate}}` `Total Trades : {{totalTrades}}`",
+    "FOOTER": "Showing 1-{{pages}} of {{total}} | Use the command `smp <ID>` to buy `Wists`!"
 }
