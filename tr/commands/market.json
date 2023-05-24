@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Piyasadaki listelenen fırsatları gösterir",
-    "NO_LISTING_FOUND": "Kayıt bulunamadı",
+    "DESCRIPTION": "Sofi pazarını görüntüler",
+    "NO_LISTING_FOUND": "Herhangi bir liste bulunamadı",
     "STOCK": "Stok",
     "RATE": "Oran",
-    "MARKET_WARN": "Marketi depolama veya saklama yapmak için kullanmayın.\nTazminatsız olarak kaldırılacaklar.\nOrtalama Oran : {{averageRate}} Toplam İşlem : {{totalTrades}}",
-    "FOOTER": "Toplam {{total}} kayıttan 1-{{pages}} gösteriliyor | Satın almak için {{prefix}}mp <id> [miktar] kullanın"
+    "MARKET_WARN": "Pazarı 'Wist' depolamak veya saklamak için kullanmayın!\nBunu yaparken yakalanırsanız, 'Wists'leriniz tazminat ödemeden kaldırılacaktır.\nOrtalama Oran : {{averageRate}} Toplam İşlem : {{totalTrades}}",
+    "FOOTER": "Toplam {{total}} sayfadan 1-{{pages}} sayfası gösteriliyor| `Wists` satın almak için \"{{prefix}}mp <ID>\" komutunu kullanın!"
 }

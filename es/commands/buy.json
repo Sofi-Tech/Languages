@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Compra artículos de la `shop`\nUsa el comando `sshop` para buscar en el surtido de la shop",
+    "DESCRIPTION": "Abre el \"Shop\" para navegar a través del mercado de Sofi",
     "SLASH_DESC": "Ingresa el nombre de un `Item` que desees comprar",
     "SLASH_DESC2": "Ingresa la cantidad",
     "SLASH_DESC3": "Ingresa el código del background que desea comprar. [FUNCIONA SOLO SI EL ARTÍCULO ESTÁ SELECCIONADO COMO FONDO]",
@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <BackgroundID> <cantidad>`",
     "INVALID_BG_AMOUNT": "No ingreses una cantidad negativa",
     "INVALID_BG_ID": "Proporcione un ID de `Background` válido",
-    "NO_ITEM_PROVIDED": "No se proporcionó ningún artículo",
+    "NO_ITEM_PROVIDED": "No se proporcionó ningún `Item`",
     "INVALID_AMOUNT": "Se proporcionó una cantidad no válida",
-    "INVALID_ITEM_PROVIDED": "{{USER}} El artículo proporcionado es inválido"
+    "INVALID_ITEM_PROVIDED": "{{USER}} El`Item` proporcionado es inválido"
 }

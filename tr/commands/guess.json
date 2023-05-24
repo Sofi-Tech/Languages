@@ -4,12 +4,12 @@
     "NO_TP": "{{message.author}} Etkin bir `Trade Pass`ınız yok. Web sitesini ziyaret etmek için `sbump` komutunu kullanın ve `Bump` puanlarınız ile `Trade Pass` alın",
     "NOT_ENOUGH_CURR": "{{user}} Oyuna başlamak için yeterli `{{currency}}` paranız yok!",
     "INFO_1": "{{user}} Bir tahmin oyunu başlattı",
-    "INFO_2": "Katılımcıların oynamak için {{bet}} {{currency}}'ya sahip olmaları gerekiyor",
-    "INFO_3": "Ödül: {{jackpot}} {{currencyEmoji}}",
+    "INFO_2": "Oyuncuların oynamak için {{bet}} {{currency}}'ya sahip olmaları gerekiyor",
+    "INFO_3": "Ödül: `{{jackpot}} ` {{currencyEmoji}}",
     "INFO_4": "Oyuncular: [{{playerCount}}]",
-    "FOOTER": "Katılmak için oyuncular 🍻'i seçin | Oyun başlatıcısı oyunu başlatmak için 🟢 seçin",
-    "REQ_MORE_PLAYERS": "{{user}}, daha fazla oyuncu katılımı istedi**",
+    "FOOTER": "Katılmak için 🍻 ile tepki ver | Oyun kurucusu 🟢 tuşuna basarak oyunu başlatabilir",
+    "REQ_MORE_PLAYERS": "{{user}} Oyuna başlamadan önce en az 2 oyuncuya ihtiyacınız var",
     "GUESS_THE_WORD": "Belirtilen kelimeyi tahmin et: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} doğru şekilde {{word}} tahmin etti ve {{jackpot}} {{currency}} kazandı",
+    "CORRECT_GUESS": "{{winner}}, {{word}} kelimesini doğru tahmin etti ve `{{jackpot}} {{currency}}' kazandı!",
     "WRONG_USAGE": "{{author}} doğru kullanım: `{{prefix}}give <user/userID> <cardcode>`"
 }
