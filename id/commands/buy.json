@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Membeli item dari \"Shop\"\nGunakan perintah \"sshop\" untuk melihat bermacam barang sofi",
+    "DESCRIPTION": "Membuka \"Shop\" untuk menelusuri koleksi Sofi",
     "SLASH_DESC": "Masukkan nama `Item` yang ingin Anda beli",
     "SLASH_DESC2": "Masukkan jumlah item",
     "SLASH_DESC3": "Masukkan kodenya dari `Background` yang ingin kamu beli. [HANYA BERFUNGSI JIKA ITEM DIPILIH SEBAGAI BACKGROUND]",
@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{USER}} Penggunaan yang benar: `{{prefix}}buy bg <BackgroundID> <jumlah>`",
     "INVALID_BG_AMOUNT": "Jangan masukkan nilai negatif",
     "INVALID_BG_ID": "Silahkan berikan ID `Background` yang valid",
-    "NO_ITEM_PROVIDED": "Tidak ada item yang diberikan",
+    "NO_ITEM_PROVIDED": "Tidak ada `item` yang diberikan",
     "INVALID_AMOUNT": "Jumlah yang diberikan tidak valid",
-    "INVALID_ITEM_PROVIDED": "{{USER}} item yang diberikan tidak valid"
+    "INVALID_ITEM_PROVIDED": "{{USER}} `item` yang diberikan tidak valid"
 }
