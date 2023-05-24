@@ -1,5 +1,5 @@
 {
-    "AI_DESCRIPTION": "Menampilkan Info Lelang",
+    "AI_DESCRIPTION": "Menampilkan Info \"Auction\"",
     "AI_CATEGORY": "Kartu",
     "INVALID_ID": "{{author}} Anda memberikan ID `Auction` yang tidak valid",
     "EMBED_TITLE": "SOFI: LELANG",
@@ -8,7 +8,7 @@
     "AI_SERIES": "> Seri: {{series}}",
     "AI_TOP_BID": "> Tawaran Tertinggi: {{bids}}",
     "AI_STATUS": "> Status: {{status}}",
-    "EMBED_FOOTER": "Gunakan sbid <auctionID> untuk melakukan penawaran pada lelang",
+    "EMBED_FOOTER": "Gunakan perintah `sbid <auctionID>` untuk mengajukan penawaran pada auction",
     "EMPTY_AUCTION": "Lelang kosong",
     "ID": "ID:",
     "ACTIVE": "Aktif",
