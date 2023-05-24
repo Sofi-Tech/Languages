@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "दो चमकों को एक सुपर चमक बनाने के लिए फ्यूज करें",
+  "SG_CATEGORY": "कॉस्मेटिक्स",
+  "NO_GLOWS": "{{author}} आपके संग्रह में चमक नहीं मिल सकती।",
+  "GLOW_CODES_MISSING": "{{author}} ग्लो कोड हमेशा उपलब्ध नहीं होते हैं | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}} चमक नहीं मिल सकता.. कृपया कोड फिर से जांचें",
+  "UNAVAILABLE_GLOW": "{{author}} दोनों चमकों में से एक उपलब्ध नहीं है। कृपया फिर से जांचें।",
+  "NO_USE_SG": "{{author}} चमकों को सुपर चमक बनाने के लिए इस्तेमाल नहीं कर सकते",
+  "SAME_GLOWS": "{{author}} एक से अधिक बार वही चमक बनाने का प्रयास नहीं कर सकते",
+  "UNAVAILABLE": "अनुपलब्ध",
+  "AVAILABLE": "उपलब्ध है",
+  "CANNOT_FIND_GLOWS": "{{author}} कोड के साथ चमक नहीं मिल सकता {{codes}}",
+  "EMBED_TITLE": "SOFI: सुपर चमक",
+  "FORM_SG_CONFIRM": "आप एक सुपर चमक बनाने जा रहे हैं:**\n\n{{glowCodes}}\n\n**सुपर चमक बनाना ...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ सुपर ${superGlowName}",
+  "CANNOT_FORM_SG": "सुपर चमक नहीं बना सकते",
+  "MISSING_RESINS": "आपकी कमी रेजिन है",
+  "SUPER_GLOW_SUCCESSFULL": "सुपर चमक निर्माण सफल रहा था**\n\n{{glowCodes}}\n\n**सुपर चमक बनाना ...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ सुपर ${superGlowName}"
+}

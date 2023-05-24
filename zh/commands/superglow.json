@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "将两个荧光融合成为超级荧光",
+  "SG_CATEGORY": "化妆品",
+  "NO_GLOWS": "{{author}}在您的收藏中找不到荧光。",
+  "GLOW_CODES_MISSING": "{{author}}荧光代码丢失 | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}}无法找到荧光。请重新检查代码。",
+  "UNAVAILABLE_GLOW": "{{author}}其中一个荧光不可用。请再次检查。",
+  "NO_USE_SG": "{{author}}不能使用超级荧光来形成超级荧光",
+  "SAME_GLOWS": "{{author}}无法使用相同的荧光来形成超级荧光",
+  "UNAVAILABLE": "无法使用",
+  "AVAILABLE": "可用",
+  "CANNOT_FIND_GLOWS": "{{author}}无法找到代码为{{codes}}的荧光",
+  "EMBED_TITLE": "SOFI: 超级荧光",
+  "FORM_SG_CONFIRM": "您将制作超级荧光:**\n\n{{glowCodes}}\n\n**超级荧光的形成...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+  "CANNOT_FORM_SG": "无法形成超级荧光",
+  "MISSING_RESINS": "您缺少松香",
+  "SUPER_GLOW_SUCCESSFULL": "超级荧光形成成功**\n\n{{glowCodes}}\n\n**超级荧光的形成...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+}

@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "2つのグローを合体させてスーパーグローを作成します",
+  "SG_CATEGORY": "化粧品",
+  "NO_GLOWS": "{{author}} さんのコレクションにグローが見つかりませんでした。",
+  "GLOW_CODES_MISSING": "{{author}} さん、グローコードが見つかりませんでした | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}} さん、グローが見つかりませんでした。コードをもう一度確認してください。",
+  "UNAVAILABLE_GLOW": "{{author}} さん、グローのうち1つが利用できません。もう一度確認してください。",
+  "NO_USE_SG": "{{author}} さん、スーパーグローを使用してスーパーグローを作成することはできません。",
+  "SAME_GLOWS": "{{author}} さん、同じグローを使用してスーパーグローを作成することはできません。",
+  "UNAVAILABLE": "利用できません",
+  "AVAILABLE": "利用可能",
+  "CANNOT_FIND_GLOWS": "{{author}} さん、コード {{codes}} に対応するグローが見つかりませんでした。",
+  "EMBED_TITLE": "SOFI: スーパーグロー",
+  "FORM_SG_CONFIRM": "以下のグローを使用してひとつのスーパーグローを作成します:**\n\n{{glowCodes}}\n\n**スーパーグローの作成中...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ スーパー${superGlowName}**",
+  "CANNOT_FORM_SG": "スーパーグローを作成できません",
+  "MISSING_RESINS": "レジンが足りません",
+  "SUPER_GLOW_SUCCESSFULL": "スーパーグローの作成に成功しました:**\n\n{{glowCodes}}\n\n**スーパーグローの作成中...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ スーパー${superGlowName}**"
+}

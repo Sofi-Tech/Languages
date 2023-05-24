@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "Funde dos brillos para hacer un súper brillo",
+  "SG_CATEGORY": "Cosméticos",
+  "NO_GLOWS": "{{author}} no puede encontrar brillos en tu colección..",
+  "GLOW_CODES_MISSING": "{{author}} faltan códigos de brillo | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}} no puede encontrar el brillo.. Por favor, revisa el código nuevamente",
+  "UNAVAILABLE_GLOW": "{{author}} uno de los brillos no está disponible. Por favor, comprueba de nuevo..",
+  "NO_USE_SG": "{{author}} no puede usar súper brillos para formar un súper brillo",
+  "SAME_GLOWS": "{{author}} no puede usar los mismos brillos para formar un súper brillo",
+  "UNAVAILABLE": "No disponible",
+  "AVAILABLE": "Disponible",
+  "CANNOT_FIND_GLOWS": "{{author}} no puede encontrar brillo con códigos {{codes}}",
+  "EMBED_TITLE": "SOFI: SUPER BRILLO",
+  "FORM_SG_CONFIRM": "Estás a punto de hacer un súper brillo:**\n\n{{glowCodes}}\n\n**Formando súper brillo...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+  "CANNOT_FORM_SG": "No se puede formar un súper brillo",
+  "MISSING_RESINS": "Te faltan resinas",
+  "SUPER_GLOW_SUCCESSFULL": "La formación del súper brillo fue exitosa**\n\n{{glowCodes}}\n\n**Formando súper brillo...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+}

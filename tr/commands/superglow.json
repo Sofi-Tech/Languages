@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "Süper ışıltı yapmak için iki ışıltıyı birleştirin",
+  "SG_CATEGORY": "Kozmetik",
+  "NO_GLOWS": "{{author}} koleksiyonunuzda ışıltı bulamadı..",
+  "GLOW_CODES_MISSING": "{{author}} ışıltı kodları eksik | `ssuperglow [ışıltı kodu1] [ışıltı kodu2]`",
+  "GLOW_NOT_FOUND": "{{author}} ışıltıyı bulamadı.. Lütfen kodu tekrar kontrol edin",
+  "UNAVAILABLE_GLOW": "{{author}} ışıltılardan biri uygun değil. Lütfen tekrar kontrol edin..",
+  "NO_USE_SG": "{{author}} süper ışıltıları birleştirmede kullanamaz",
+  "SAME_GLOWS": "{{author}} aynı ışıltıları süper ışıltı yapmak için kullanamaz",
+  "UNAVAILABLE": "Hazır değil",
+  "AVAILABLE": "Uygun durumda",
+  "CANNOT_FIND_GLOWS": "{{author}} {{codes}} kodlu ışıltıyı bulamıyor",
+  "EMBED_TITLE": "SOFI: SÜPER IŞILTI",
+  "FORM_SG_CONFIRM": "Bir süper ışıltı yapmak üzeresiniz:**\n\n{{ışıltıKodları}}\n\n**Süper ışıltı oluşturuluyor...**\n\n**{{ışıltıAdı1}} + {{ışıltıAdı2}} + 2 <:resin:938131736741691442> ➜ Süper ${süperIşılgtıAdı}",
+  "CANNOT_FORM_SG": "Süper ışıltı oluşturulamıyor",
+  "MISSING_RESINS": "Reçine eksik",
+  "SUPER_GLOW_SUCCESSFULL": "Süper ışıltı oluşturma başarılı oldu**\n\n{{ışıltıKodları}}\n\n**Süper ışıltı oluşturuluyor...**\n\n**{{ışıltıAdı1}} + {{ışıltıAdı2}} + 2 <:resin:938131736741691442> ➜ Süper ${süperIşılgtıAdı}"
+}

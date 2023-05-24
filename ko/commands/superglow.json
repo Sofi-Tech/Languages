@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "두 개의 반짝임을 합쳐 슈퍼 글로우를 만듭니다",
+  "SG_CATEGORY": "화장품",
+  "NO_GLOWS": "{{author}}님의 컬렉션에서 발견된 글로우가 없습니다.",
+  "GLOW_CODES_MISSING": "{{author}}님, 글로우 코드가 누락되어 있습니다. | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}}님이 글로우를 찾을 수 없습니다. 코드를 다시 확인해주세요.",
+  "UNAVAILABLE_GLOW": "{{author}}님이 선택한 글로우 중 하나가 사용할 수 없습니다. 다시 확인해주세요.",
+  "NO_USE_SG": "{{author}}님은 슈퍼 글로우로 슈퍼 글로우를 만들 수 없습니다",
+  "SAME_GLOWS": "{{author}}님이 똑같은 글로우를 사용하여 슈퍼 글로우를 만들 수 없습니다",
+  "UNAVAILABLE": "사용 불가",
+  "AVAILABLE": "사용 가능",
+  "CANNOT_FIND_GLOWS": "{{author}}님이 코드 {{codes}}로 글로우를 찾을 수 없습니다",
+  "EMBED_TITLE": "SOFI: SUPER GLOW",
+  "FORM_SG_CONFIRM": "슈퍼 글로우를 만들려고 합니다:**\n\n{{glowCodes}}\n\n**슈퍼 글로우를 만드는 중입니다...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ 슈퍼 ${superGlowName}",
+  "CANNOT_FORM_SG": "슈퍼 글로우를 만들 수 없습니다",
+  "MISSING_RESINS": "수지가 부족합니다",
+  "SUPER_GLOW_SUCCESSFULL": "슈퍼 글로우 생성이 성공적으로 완료되었습니다**\n\n{{glowCodes}}\n\n**슈퍼 글로우를 만드는 중입니다...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ 슈퍼 ${superGlowName}"
+}

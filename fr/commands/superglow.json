@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "Fusionnez deux lueurs pour créer une super lueur",
+  "SG_CATEGORY": "Cosmétiques",
+  "NO_GLOWS": "{{author}} ne trouve pas de lueurs dans votre collection..",
+  "GLOW_CODES_MISSING": "Il manque les codes de lueur de {{author}} | `ssuperglow [code_lueur1] [code_lueur2]`",
+  "GLOW_NOT_FOUND": "{{author}} ne peut pas trouver la lueur.. Veuillez vérifier à nouveau le code",
+  "UNAVAILABLE_GLOW": "{{author}} une des lueurs n'est pas disponible. Veuillez vérifier à nouveau..",
+  "NO_USE_SG": "{{author}} ne peut pas utiliser les supers lueurs pour former une super lueur",
+  "SAME_GLOWS": "{{author}} ne peut pas utiliser les mêmes lueurs pour former une super lueur",
+  "UNAVAILABLE": "Indisponible",
+  "AVAILABLE": "Disponible",
+  "CANNOT_FIND_GLOWS": "{{author}} ne peut pas trouver de lueur avec les codes {{codes}}",
+  "EMBED_TITLE": "SOFI : SUPER LUEUR",
+  "FORM_SG_CONFIRM": "Vous êtes sur le point de créer une super lueur : **\n\n{{glowCodes}}\n\n** Formation de la super lueur... **\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+  "CANNOT_FORM_SG": "Impossible de former une super lueur",
+  "MISSING_RESINS": "Il vous manque de la résine",
+  "SUPER_GLOW_SUCCESSFULL": "La formation de la super lueur a réussi **\n\n{{glowCodes}}\n\n** Formation de la super lueur... **\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+}

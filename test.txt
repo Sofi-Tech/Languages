@@ -1,0 +1,34 @@
+{
+  "message": "Request failed with status code 429",
+  "name": "Error",
+  "stack": "Error: Request failed with status code 429\n    at createError (C:\\Users\\sabdu\\Documents\\GitHub\\Languages\\node_modules\\axios\\lib\\core\\createError.js:16:15)\n    at settle (C:\\Users\\sabdu\\Documents\\GitHub\\Languages\\node_modules\\axios\\lib\\core\\settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\sabdu\\Documents\\GitHub\\Languages\\node_modules\\axios\\lib\\adapters\\http.js:322:11)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Content-Type": "application/json",
+      "User-Agent": "OpenAI/NodeJS/3.2.1",
+      "Authorization": "Bearer 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",
+      "Content-Length": 1475
+    },
+    "method": "post",
+    "data": "{\"model\":\"gpt-3.5-turbo\",\"messages\":[{\"role\":\"system\",\"content\":\"Convert this JSON to i18n formatted json from en to ko only the values. Just respond with the json and nothing else.\"},{\"role\":\"user\",\"content\":\"{\\\"SG_DESCRIPTION\\\":\\\"Fuse two glows to make a super glow\\\",\\\"SG_CATEGORY\\\":\\\"Cosmetics\\\",\\\"NO_GLOWS\\\":\\\"{{author}} cannot find glows in your collection..\\\",\\\"GLOW_CODES_MISSING\\\":\\\"{{author}} glowcodes are missing | `ssuperglow [glowcode1] [glowcode2]`\\\",\\\"GLOW_NOT_FOUND\\\":\\\"{{author}} cannot find the glow..Please check the code again\\\",\\\"UNAVAILABLE_GLOW\\\":\\\"{{author}} one of the glow is unavailable. Please check again..\\\",\\\"NO_USE_SG\\\":\\\"{{author}} cannot use super glows to form a superglow\\\",\\\"SAME_GLOWS\\\":\\\"{{author}} cannot use same glows to form a superglow\\\",\\\"UNAVAILABLE\\\":\\\"Unavailable\\\",\\\"AVAILABLE\\\":\\\"Available\\\",\\\"CANNOT_FIND_GLOWS\\\":\\\"{{author}} cannot find glow with codes {{codes}}\\\",\\\"EMBED_TITLE\\\":\\\"SOFI: SUPER GLOW\\\",\\\"FORM_SG_CONFIRM\\\":\\\"You are about to make a super glow:**\\\\n\\\\n{{glowCodes}}\\\\n\\\\n**Forming super glow...**\\\\n\\\\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}\\\",\\\"CANNOT_FORM_SG\\\":\\\"Cannot form a superglow\\\",\\\"MISSING_RESINS\\\":\\\"You are missing resins\\\",\\\"SUPER_GLOW_SUCCESSFULL\\\":\\\"Super glow formation was successful**\\\\n\\\\n{{glowCodes}}\\\\n\\\\n**Forming super glow...**\\\\n\\\\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}\\\"}\"}]}",
+    "url": "https://api.openai.com/v1/chat/completions"
+  },
+  "status": 429
+}

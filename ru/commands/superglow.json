@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "Объедините два сияния, чтобы создать суперсияние",
+  "SG_CATEGORY": "Косметика",
+  "NO_GLOWS": "{{author}} не может найти сияния в вашей коллекции..",
+  "GLOW_CODES_MISSING": "Коды сияния {{author}} отсутствуют | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}} не может найти сияние..Пожалуйста, проверьте код еще раз",
+  "UNAVAILABLE_GLOW": "{{author}} одно из сияний недоступно. Пожалуйста, проверьте еще раз..",
+  "NO_USE_SG": "{{author}} не может использовать суперсияния для создания суперсияния",
+  "SAME_GLOWS": "{{author}} не может использовать одинаковые сияния для создания суперсияния",
+  "UNAVAILABLE": "Недоступно",
+  "AVAILABLE": "Доступно",
+  "CANNOT_FIND_GLOWS": "{{author}} не может найти сияния с кодами {{codes}}",
+  "EMBED_TITLE": "SOFI: СУПЕРСИЯНИЕ",
+  "FORM_SG_CONFIRM": "Вы собираетесь сделать суперсияние:**\n\n{{glowCodes}}\n\n**Создание суперсияния...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Супер ${superGlowName}",
+  "CANNOT_FORM_SG": "Не удалось сформировать суперсияние",
+  "MISSING_RESINS": "Вы не хватает количества смолы",
+  "SUPER_GLOW_SUCCESSFULL": "Суперсияние успешно сформировано**\n\n{{glowCodes}}\n\n**Создание суперсияния...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Супер ${superGlowName}"
+}

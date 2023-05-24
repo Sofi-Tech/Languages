@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "Gabungkan dua kilauan untuk membuat kilauan super",
+  "SG_CATEGORY": "Kosmetik",
+  "NO_GLOWS": "{{author}} tidak dapat menemukan kilauan dalam koleksimu..",
+  "GLOW_CODES_MISSING": "kode kilauan {{author}} tidak lengkap | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}} tidak dapat menemukan kilauan.. Silakan periksa kode lagi",
+  "UNAVAILABLE_GLOW": "{{author}} salah satu kilauan tidak tersedia. Silakan periksa lagi..",
+  "NO_USE_SG": "{{author}} tidak dapat menggunakan kilauan super untuk membentuk super kilauan",
+  "SAME_GLOWS": "{{author}} tidak dapat menggunakan kilauan yang sama untuk membentuk super kilauan",
+  "UNAVAILABLE": "Tidak tersedia",
+  "AVAILABLE": "Tersedia",
+  "CANNOT_FIND_GLOWS": "{{author}} tidak dapat menemukan kilauan dengan kode {{codes}}",
+  "EMBED_TITLE": "SOFI: KILAUAN SUPER",
+  "FORM_SG_CONFIRM": "Anda akan membuat kilauan super:**\n\n{{glowCodes}}\n\n**Membentuk kilauan super...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+  "CANNOT_FORM_SG": "Tidak dapat membentuk kilauan super",
+  "MISSING_RESINS": "Anda kekurangan resin",
+  "SUPER_GLOW_SUCCESSFULL": "Pembentukan kilauan super berhasil**\n\n{{glowCodes}}\n\n**Membentuk kilauan super...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+}

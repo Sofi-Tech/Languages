@@ -1,0 +1,18 @@
+{
+  "SG_DESCRIPTION": "Mescola due glo... per creare una Super Glow",
+  "SG_CATEGORY": "Cosmetici",
+  "NO_GLOWS": "{{author}} non può trovare nessuna Glow nella tua collezione..",
+  "GLOW_CODES_MISSING": "{{author}} i codici delle glow sono mancanti | `ssuperglow [glowcode1] [glowcode2]`",
+  "GLOW_NOT_FOUND": "{{author}} non riesce a trovare la glow..Controlla nuovamente il codice",
+  "UNAVAILABLE_GLOW": "{{author}} una delle glow non è disponibile. Controlla nuovamente..",
+  "NO_USE_SG": "{{author}} non può usare Super Glow per creare una Super Glow",
+  "SAME_GLOWS": "{{author}} non può usare due glow uguali per creare una Super Glow",
+  "UNAVAILABLE": "Non disponibile",
+  "AVAILABLE": "Disponibile",
+  "CANNOT_FIND_GLOWS": "{{author}} non puoi trovare le Glow con i codici {{codes}}",
+  "EMBED_TITLE": "SOFI: SUPER GLOW",
+  "FORM_SG_CONFIRM": "Stai per creare una Super Glow:**\n\n{{glowCodes}}\n\n**Creazione Super Glow in corso...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+  "CANNOT_FORM_SG": "Non puoi creare una Super Glow",
+  "MISSING_RESINS": "Ti mancano le resine",
+  "SUPER_GLOW_SUCCESSFULL": "La creazione della Super Glow è stata un successo**\n\n{{glowCodes}}\n\n**Creazione Super Glow in corso...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+}
