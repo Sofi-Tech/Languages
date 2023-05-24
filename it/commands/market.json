@@ -4,5 +4,5 @@
     "STOCK": "Stock",
     "RATE": "Tariffa",
     "MARKET_WARN": "Non usare il mercato per nascondere o magazzinare `Wists`!\nSe venite scoperti a fare ciò, i `Wists` verrano toflti senza compensazione.\n`tasso medio : {{averageRate}}` `scambi in totale : {{totalTrades}}`",
-    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Per acquistare usa smp <id> [quantità]"
+    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `smp <ID>`per comprare `Wists`!"
 }

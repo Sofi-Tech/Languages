@@ -4,12 +4,12 @@
     "NO_TP": "{{message.author}} non hai un `trade pass`attivo . Usa il comando `sbump` per visitare il sito dove puoi scambiare i tuoi `bump` points per ottenerne uno",
     "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per avviare il gioco!",
     "INFO_1": "{{user}} ha avviato u game of guess",
-    "INFO_2": "Il partecipante deve avere {{bet}} {{currency}} per giocare",
-    "INFO_3": "Premio: {{jackpot}} {{currencyEmoji}}",
+    "INFO_2": "I giocatori devono avere {{bet}} {{currency}} per giocare",
+    "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
     "INFO_4": "Giocatori: [{{playerCount}}]",
-    "FOOTER": "I giocatori reagiscono con 🍻 per partecipare | Il creatore del gioco reagisce con 🟢 per avviare il gioco",
-    "REQ_MORE_PLAYERS": "{{user}} chiedi ad altri giocatori di partecipare**",
+    "FOOTER": "reagisci con 🍻 per partecipare | Il creatore del gioco puoi avviare il gioco con 🟢",
+    "REQ_MORE_PLAYERS": "{{user}} dovete essere almeno 2 giocatori prima di iniziare il gioco",
     "GUESS_THE_WORD": "Indovina la parola data: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} ha indovinato correttamente {{word}} e ha vinto {{jackpot}} {{currency}}",
+    "CORRECT_GUESS": "{{winner}} ha indovinato correttamente la parola {{word}} e ha vinto {{jackpot}} {{currency}}!",
     "WRONG_USAGE": "{{author}} Uso corretto: `sgive <user/userID> <cardcode>`"
 }

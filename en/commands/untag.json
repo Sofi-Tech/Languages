@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Removes the \"Tags\" from your cards",
     "UT_CATEGORY": "Tags",
-    "INVALID_CODE": "You do not have any cards in your inventory",
+    "INVALID_CODE": "You do not have any cards in your collection",
     "UNTAG_SUCCESSFULL": "**{{cardName}}** had their `Tag` removed successfully",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

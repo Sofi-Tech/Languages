@@ -4,5 +4,5 @@
     "INVALID_DEAL_ID": "{{author}} l'ID per l'affare che hai dato non è valido. Perfavore assicurati che questo affare è elencato da te",
     "SUCCESS_UL": "{{user}} l'affare {{dealId}} è stato rimosso con successo dal mercato",
     "NO_LISTINGS_FOUND": "{{user}} noal momento non hai alcun annuncio nel mercato",
-    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} affari sono stati rimossi con successo dal mercato"
+    "SUCCESS_UL_ALL": "{{user}}un totale di `{{totalDeals}}` affari sono stati rimossi dal mercato con successo"
 }
