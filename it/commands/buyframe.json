@@ -3,7 +3,7 @@
     "BF_CATEGORY": "Cosmetici",
     "NO_FRAME_NAME": "{{author}} perfavore fornisci il nome del `Frame` che vuoi comprare",
     "NO_FRAMECODE_FOUND": "{{author}} non è stato possibile trovare il `frame` con il codice `{{name}}`",
-    "FRAME_UNAVAILABLE": "Quella cornice non è disponibile. Utilizza `sfs` per verificare le cornici disponibili",
+    "FRAME_UNAVAILABLE": "{{author}} questo frame al momento non è disponibile. Perfavore una usa il comando`sfs,` Per controllare i `Frame` disponibili al momento",
     "NO_FRAME_FOUND": "{{author}} | Nessuna cornice trovata",
     "FRAME_NOT_PURCHASABLE": "{{author}} non può acquistare quella cornice",
     "EMBED_TITLE": "TRANSAZIONE:",
