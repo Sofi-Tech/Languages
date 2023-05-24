@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Buy items from the \"Shop\"\nUse the command \"sshop\" to browse through Sofi's assortment",
+    "DESCRIPTION": "Opens the \"Shop\" to browse through Sofi's assortment",
     "SLASH_DESC": "Enter the name of the `Item` you want to buy",
     "SLASH_DESC2": "Enter the amount",
     "SLASH_DESC3": "Enter the code of the `Background` you want to buy. [ONLY WORKS IF THE ITEM IS SELECTED AS BACKGROUND]",
@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{USER}} Correct usage: `{{prefix}}buy bg <BackgroundID> <amount>`",
     "INVALID_BG_AMOUNT": "Do not enter negative values",
     "INVALID_BG_ID": "Please provide a valid `Background`-ID",
-    "NO_ITEM_PROVIDED": "No item provided",
+    "NO_ITEM_PROVIDED": "No `Item` provided",
     "INVALID_AMOUNT": "Invalid amount provided",
-    "INVALID_ITEM_PROVIDED": "{{USER}} Invalid item provided"
+    "INVALID_ITEM_PROVIDED": "{{USER}} Invalid `Item` provided"
 }
