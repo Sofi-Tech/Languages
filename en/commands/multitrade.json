@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Sends a trade request to another player. You can trade multiple cards and items simultaneously with this feature",
+    "DESCRIPTION": "Sends a trade request to another player. You can trade multiple cards and \"Items\" simultaneously with this feature",
     "MENTION_USER": "{{author}} Mention a user you want to trade with or use their ID",
     "BOT_TRADE": "{{author}} You cannot trade with a `Bot`",
     "SELF_TRADE": "{{author}} You cannot trade with yourself",

@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
     "WRONG_USAGE": "{{author}} Penggunaan yang Benar: `sglowname [kodeglow] [namabaru]`",
     "WRONG_GLOWCODE_FORMAT": "Kode glow dimulai dengan `#`",
-    "GLOW_NOT_FOUND": "{{author}} tidak dapat menemukan glow tersebut di paletmu. Apakah kodenya benar?",
+    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang Anda berikan tidak valid atau tidak ada dalam inventaris Anda",
     "PROVIDE_GLOW_NAME": "{{author}} berikan nama glow",
     "GLOW_NAME_LONG": "{{author}} nama glow terlalu panjang. Coba kurangi menjadi kurang dari 25 huruf",
     "GLOW_NAME_EXISTS": "Nama glow sudah digunakan...Coba yang lain 😎",

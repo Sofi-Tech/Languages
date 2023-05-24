@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Opens chests and lootboxes",
-    "SLASH_DESC_1": "Enter the item you want to open.",
+    "SLASH_DESC_1": "Enter the \"Item\" you want to open",
     "SLASH_DESC_2": "Enter the amount.",
     "CORRECT_USAGE": "Correct Usage : {{prefix}}open <Chest Name/Lootbox Name> [Number/All]",
     "CORRECT_USAGE_2": "{{prefix}}open charm/sc",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Displays a user's inventory",
     "SLASH_DESC": "Select a user in order to see their inventory",
-    "SLASH_DESC2": "Enter the item you want to search for",
+    "SLASH_DESC2": "Enter the `Item` you want to search for",
     "NOT_REGISTER": "{{author}} That user is not registered!",
     "NO_USER_FOUND": "{{author}} No user found",
     "INV_PRIVATE": "{{author}} That user's inventory is private",
@@ -13,6 +13,6 @@
     "SELF_INV_EMPTY": "Your inventory is empty",
     "USER_INV_EMPTY": "The inventory of that user is empty",
     "NO_BG_FOUND": "No `Background` found",
-    "NO_ITEM_FOUND": "Could not find that item in this inventory",
+    "NO_ITEM_FOUND": "Could not find that `Item` in this inventory",
     "HIDE_INV": "To hide your inventory, use the command `spvt inv`"
 }

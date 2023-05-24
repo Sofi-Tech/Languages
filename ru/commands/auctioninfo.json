@@ -11,11 +11,11 @@
     "EMBED_FOOTER": "Используйте команду `sbid <auctionID>`, чтобы сделать ставку на аукционе",
     "EMPTY_AUCTION": "В данный момент нет активных аукционов",
     "ID": "ID:",
-    "ACTIVE": "Активно",
-    "ENDED": "Закончено",
-    "NO_BIDS": "Нет ставок",
+    "ACTIVE": "Активен",
+    "ENDED": "Окончен",
+    "NO_BIDS": "Пока нет ставок",
     "ONGOING": "В процессе (заканчивается через: {{time}})",
-    "OVER": "Закончено",
+    "OVER": "Окончен",
     "EMBED_AUCTIONS_TITLE": "SOFI: Аукционы",
-    "EMBED_AUCTIONS_FOOTER": "Показана страница: {{page}}/{{totalPages}} | Для получения подробной информации используйте команду sai <auctionID>"
+    "EMBED_AUCTIONS_FOOTER": "Страница: {{page}}/{{totalPages}} | Используйте команду sai <auctionID> для получения дополнительной информации"
 }

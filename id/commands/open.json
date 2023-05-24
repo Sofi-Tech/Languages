@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Membuka peti dan kotak hadiah.",
-    "SLASH_DESC_1": "Masukkan item yang ingin kamu buka.",
+    "SLASH_DESC_1": "Masukkan \"item\" yang ingin Anda buka",
     "SLASH_DESC_2": "Masukkan jumlahnya.",
     "CORRECT_USAGE": "Penggunaan yang Benar: {{prefix}}open <Nama Peti/Nama Kotak Hadiah> [Nomor/Semua]",
     "CORRECT_USAGE_2": "{{prefix}}open charm/sc",
