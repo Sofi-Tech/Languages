@@ -13,8 +13,8 @@
     "CHEST_INFO": "Etkinlik bittiğinde bile kutular açılabilir",
     "PROVIDE_NUM": "Lütfen **1 & 10** arası bir sayı girin",
     "CHEST_MISSING": "Envanterinizde {{replacedArg}} {{chestName}} Kutuları yok.",
-    "COMMON_INFO_1": "{{totalChests}} {{chestName}} Kutusu açıldı",
-    "ITEMS_FOUND": "Bulunan Öğeler:",
-    "COMMON_RARE_FOOTER": "Günlük {{count}} sıralama için bir {{chestName}} Kutusu kazanırsınız",
-    "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} oy için bir {{chestName}} Kutusu kazanırsınız"
+    "COMMON_INFO_1": "**{{totalChests}}** `{{chestName}}` Kutusu açıldı",
+    "ITEMS_FOUND": "Elde edilen ürünler:\n",
+    "COMMON_RARE_FOOTER": "Her {{count}} `Daily` serisi için bir {{chestName}} Sandığı elde edebilirsiniz",
+    "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} oy karşılığında bir {{chestName}} Sandığı alabilirsiniz"
 }
