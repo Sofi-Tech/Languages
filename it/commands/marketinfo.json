@@ -8,6 +8,6 @@
     "RATE": "Tasso",
     "LISTED": "Elencato",
     "NO_LISTINGS_FOUND": "{{user}} non hai pubblicato nessuna offerta nel mercato",
-    "INFO": "Usa `sml` e `smul` per rimuovere\nUn singolo affare alla volta può essere quotato",
-    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `smp <ID>`per comprare `Wists`!"
+    "INFO": "Usa `{{prefix}}ml` e `smul` per rimuovere\nUn singolo affare alla volta può essere quotato",
+    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!"
 }

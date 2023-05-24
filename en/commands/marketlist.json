@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "List item in the market",
-    "CORRECT_USAGE": "{{user}} Correct usage: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Correct usage: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Invalid gem rate",
     "GEM_RATE_LIES": "{{user}} Gem Rate must lie between 3.0-20.0",
     "ALREADY_EXISTS": "You have an existing deal {{dealID}}\nUnlist the deal before listing again",

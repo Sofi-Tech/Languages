@@ -4,5 +4,5 @@
     "STOCK": "在庫",
     "RATE": "レート",
     "MARKET_WARN": "マーケットをウィストの保存や隠すために使用しないでください。\nそれらは補償なしに削除されます。\n平均レート：{{averageRate}} 合計取引回数：{{totalTrades}}",
-    "FOOTER": "{{total}}中1〜{{pages}}を表示| 購入するには、smp <id> [amount] を使用してください"
+    "FOOTER": "{{total}}中1〜{{pages}}を表示| 購入するには、{{prefix}}mp <id> [amount] を使用してください"
 }

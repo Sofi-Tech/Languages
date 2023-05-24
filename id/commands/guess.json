@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} Anda membutuhkan setidaknya 2 pemain sebelum dapat memulai permainan",
     "GUESS_THE_WORD": "Tebak kata yang diberikan: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} menebak kata {{word}} dengan benar dan memenangkan `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `sgive <pengguna/userID> <kodekartu>"
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}give <pengguna/userID> <kodekartu>"
 }

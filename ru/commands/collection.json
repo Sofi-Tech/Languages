@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Все карточки с {{taglength}} успешно удалены",
     "ALL_TAG_SUCCESS": "{{author}} Все карты {{taglength}} были успешно помечены",
     "PLEASE_WAIT": "Пожалуйста, подождите <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "У вас пока нет ни одного из `Tags`. Вы можете создать их с помощью команды `stc <TagName> <Emoji>`"
+    "NO_TAG_FOUND": "У вас пока нет ни одного из `Tags`. Вы можете создать их с помощью команды `{{prefix}}tc <TagName> <Emoji>`"
 }

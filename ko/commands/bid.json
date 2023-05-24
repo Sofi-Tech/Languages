@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "경매에서 비드",
   "BID_CATEGORY": "카드",
-  "WRONG_USAGE": "{{author}} 올바른 사용법: `sbid <경매ID> <금액>`",
+  "WRONG_USAGE": "{{author}} 올바른 사용법: `{{prefix}}bid <경매ID> <금액>`",
   "INVALID_ID": "{{author}} 제공한 경매 ID가 유효하지 않습니다. 다시 확인해주세요.",
   "INVALID_AMOUNT": "{{author}} 금액은 숫자여야 합니다.",
   "NO_AMOUNT": "{{author}} {{amount}} {{currency}}이 없습니다.",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "경매 ID `{{경매ID}}`에서 입찰을 초과하였습니다.",
   "SUCCESSFUL_BID": "비드가 성공적으로 완료되었습니다.",
   "EMBED_BID_TITLE": "SOFI: 경매 [{{경매ID}}]",
-  "EMBED_BID_DESCRIPTION": "> SOFI 경매에 오신 것을 환영합니다:\n> 카드에 입찰하려면 `sbid <경매ID> <금액>`을 입력하세요.\n> 참고: 비드는 익명입니다.",
+  "EMBED_BID_DESCRIPTION": "> SOFI 경매에 오신 것을 환영합니다:\n> 카드에 입찰하려면 `{{prefix}}bid <경매ID> <금액>`을 입력하세요.\n> 참고: 비드는 익명입니다.",
   "CARD_DETAILS": "카드 세부 정보",
   "BID_GEN": "> 등급: `{{gen}}`",
   "BID_NAME": "> 이름: {{name}}",

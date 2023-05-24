@@ -1,7 +1,7 @@
 {
     "TC_DESCRIPTION": "Créer un \"Tag\"",
     "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `stc <TagName> <Emoji>`",
+    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" n'est pas un emoji valide!",
     "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre `Tag` doit être alphanumérique et ne doit pas contenir de caractères spéciaux ni d'espaces ou de mot injurieux",
     "LONG_TAGNAME": "{{author}} Un nom de `Tag` dois contenir au maximum 20 caractères",

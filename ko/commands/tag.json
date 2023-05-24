@@ -2,7 +2,7 @@
     "TAG_DESCRIPTION": "카드에 태그 달기",
     "TAG_CATEGORY": "태그",
     "WRONG_USAGE": "태그 이름을 입력해주세요.",
-    "NO_TAGS_CREATED": "`stc` 명령어를 사용하여 태그를 먼저 생성해주세요.",
+    "NO_TAGS_CREATED": "`{{prefix}}tc` 명령어를 사용하여 태그를 먼저 생성해주세요.",
     "TAG_NOT_FOUND": "`{{tag}}` 태그를 사용한 적이 없습니다.",
     "NO_CARDS_CLAIMED": "당신은 아직 어떤 카드도 클레임하지 않았습니다.",
     "INVALID_CARD_CODE": "{{author}} 유효하지 않은 카드 코드이거나 카드를 찾을 수 없습니다.",

@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Começa um jogo de Adivinhação de Palavras",
-    "CORRECT_USAGE": "{{user}} uso correto: `sguess <quantia> <moeda>`\nMoedas aceitas: `silvers` `wists` `gems` `cubes`",
+    "CORRECT_USAGE": "{{user}} uso correto: `{{prefix}}guess <quantia> <moeda>`\nMoedas aceitas: `silvers` `wists` `gems` `cubes`",
     "NO_TP": "{{message.author}} Você não tem um `Trade Pass` ativo. Use o comando `sbump`para visitar o website e trocar seus pontos `Bump`por um",
     "NOT_ENOUGH_CURR": "{{user}} Você não tem moedas suficientes `{{currency}}` para iniciar o jogo!",
     "INFO_1": "{{user}} iniciou um jogo de adivinhação",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} Você precisa de pelo menos 2 jogadores antes de poder iniciar o jogo",
     "GUESS_THE_WORD": "Adivinhe a palavra dada: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} adivinhou corretamente a palavra {{word}} e ganhou `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Uso correto: `sgive <usuário/userID> <código do cartão>`"
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}give <usuário/userID> <código do cartão>`"
 }

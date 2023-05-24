@@ -1,7 +1,7 @@
 {
     "TT_DESCRIPTION": "Brengt kaarten over van de ene \"Tag\" naar de andere",
     "TT_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Correct gebruik: `strt <vanOudeTag> <naarNieuweTag>`",
+    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}trt <vanOudeTag> <naarNieuweTag>`",
     "TAG_NOT_FOUND": "Kan geen `Tag` met naam '{{tag}}' vinden",
     "TRANSFER_TAG_SUCCESSFULL": "Alle kaarten van de `Tag` '{{fromTag}}'zijn succesvol overgezet van naar '{{toTag}}'"
 }

@@ -8,6 +8,6 @@
     "RATE": "Oran",
     "LISTED": "Listelenen",
     "NO_LISTINGS_FOUND": "{{user}}, piyasada herhangi bir liste yapmadınız",
-    "INFO": "İptal etmek için `sml` ve `smul` kullanın\ntek bir işlem aynı anda listelenebilir",
-    "FOOTER": "{{total}} toplamından 1-{{pages}} gösteriliyor | Satın almak için smp <id> [miktar] kullanın"
+    "INFO": "İptal etmek için `{{prefix}}ml` ve `smul` kullanın\ntek bir işlem aynı anda listelenebilir",
+    "FOOTER": "{{total}} toplamından 1-{{pages}} gösteriliyor | Satın almak için {{prefix}}mp <id> [miktar] kullanın"
 }

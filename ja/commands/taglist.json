@@ -4,6 +4,6 @@
     "NO_USER": "ユーザーが存在しません。",
     "NO_TAGS": "{{author}}さんのタグは見つかりませんでした。",
     "EMBED_TITLE": "タグリスト: {{username}}",
-    "SOFI_FACT": "Sofi fact: stc lock 🔒でタグを作成してください\nロックされたカードは燃やしたり与えたり交換したりできません\n一括燃焼もできません",
+    "SOFI_FACT": "Sofi fact: {{prefix}}tc lock 🔒でタグを作成してください\nロックされたカードは燃やしたり与えたり交換したりできません\n一括燃焼もできません",
     "EMBED_FOOTER": "タグの数: {{count}}"
 }

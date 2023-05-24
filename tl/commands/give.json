@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "Ang {{member}} ay blacklisted",
     "MEM_QUARANTINED": "Ang user ay naka quarantine",
     "NO_CODE": "{{author}} nakalimutan mong magbigay ng card code",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `sgive <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}give <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "Walang makitang card na may code na: `{{code}}`",
     "CARD_LOCKED": "Nakalock ang card at hindi maaaring maibigay! I untag ang card kapag gusto mo itong ipamigay, gamitin ang command na `suntag <cardcode> ` para maalis ang `Tag`",
     "CARD_NOT_OWNED": "Hindi mo na pag-aari ang card",

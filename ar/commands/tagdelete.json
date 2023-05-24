@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "حذف الوسم",
     "TD_CATEGORY": "الوسوم",
-    "WRONG_USAGE": "الاستخدام الصحيح: `sdt <اسم الوسم>`",
+    "WRONG_USAGE": "الاستخدام الصحيح: `{{prefix}}dt <اسم الوسم>`",
     "TAG_NOT_FOUND": "هذا الوسم غير موجود في قائمة الوسوم الخاصة بك",
     "SUCCESSFUL_DELETE_TAG": "تم حذف الوسم {{tag}}"
 }

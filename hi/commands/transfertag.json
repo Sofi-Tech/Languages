@@ -1,7 +1,7 @@
 {
     "TT_DESCRIPTION": "एक टैग से दूसरे टैग में कार्ड ट्रांसफर करें",
     "TT_CATEGORY": "टैग",
-    "WRONG_USAGE": "सही उपयोग: `strt <fromTagName> <toTagName>`",
+    "WRONG_USAGE": "सही उपयोग: `{{prefix}}trt <fromTagName> <toTagName>`",
     "TAG_NOT_FOUND": "`{{tag}}` नाम के साथ टैग नहीं मिल सका",
     "TRANSFER_TAG_SUCCESSFULL": "`{{fromTag}}` से सभी कार्ड सफलतापूर्वक `${toTag}` में ट्रांसफर किए गए"
 }

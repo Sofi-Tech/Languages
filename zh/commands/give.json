@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}}被列入黑名单",
     "MEM_QUARANTINED": "该用户被隔离",
     "NO_CODE": "{{作者}}你忘了提供卡片代码",
-    "WRONG_USAGE": "{{author}}正确用法：`sgive <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}}正确用法：`{{prefix}}give <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "找不到卡片代码：`{{code}}`",
     "CARD_LOCKED": "该卡片已锁定，无法送出。请取消标记该卡片以继续执行",
     "CARD_NOT_OWNED": "你不再拥有该卡片",

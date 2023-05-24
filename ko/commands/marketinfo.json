@@ -8,6 +8,6 @@
     "RATE": "율",
     "LISTED": "등록됨",
     "NO_LISTINGS_FOUND": "{{user}}님, 시장에서 목록을 작성하지 않으셨군요",
-    "INFO": "`sml`과 `smul`을 사용하여 등록 취소\n한 거래만 등록 가능합니다",
-    "FOOTER": "1-{{pages}} / {{total}}을(를) 보여줍니다. 구매는 smp <id> [수량]을(를) 사용하세요"
+    "INFO": "`{{prefix}}ml`과 `smul`을 사용하여 등록 취소\n한 거래만 등록 가능합니다",
+    "FOOTER": "1-{{pages}} / {{total}}을(를) 보여줍니다. 구매는 {{prefix}}mp <id> [수량]을(를) 사용하세요"
 }

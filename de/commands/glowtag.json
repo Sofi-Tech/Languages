@@ -1,7 +1,7 @@
 {
     "GT_DESCRIPTION": "\"Markiert\" deine \"Glows\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "Du hast noch keine Glows Tags. Du kannst sis mit dem Befehl \"sgtc <Name> <Emoji>\" erstellen.",
+    "GLOWTAGS_NOT_FOUND": "Du hast noch keine Glows Tags. Du kannst sis mit dem Befehl \"{{prefix}}gtc <Name> <Emoji>\" erstellen.",
     "GLOWS_NOT_UNLOCKED": "{{author}} Du hast noch keine Glows",
     "MISSING_GLOWTAG": "{{author}} Du musst ein „Glow-Tag“ bereitstellen",
     "INVALID_GLOW_CODE": "{{author}} Einer oder mehrere der angegebenen „Glow“-Codes sind ungültig",

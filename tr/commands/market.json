@@ -4,5 +4,5 @@
     "STOCK": "Stok",
     "RATE": "Oran",
     "MARKET_WARN": "Marketi depolama veya saklama yapmak için kullanmayın.\nTazminatsız olarak kaldırılacaklar.\nOrtalama Oran : {{averageRate}} Toplam İşlem : {{totalTrades}}",
-    "FOOTER": "Toplam {{total}} kayıttan 1-{{pages}} gösteriliyor | Satın almak için smp <id> [miktar] kullanın"
+    "FOOTER": "Toplam {{total}} kayıttan 1-{{pages}} gösteriliyor | Satın almak için {{prefix}}mp <id> [miktar] kullanın"
 }

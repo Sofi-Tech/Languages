@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Item de lista no mercado",
-    "CORRECT_USAGE": "{{user}} Uso correto: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Uso correto: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Taxa de Gema inválida",
     "GEM_RATE_LIES": "{{user}} A taxa de gema deve estar entre 3,0-20,0",
     "ALREADY_EXISTS": "Você já tem um negócio existente {{dealID}}\nRemova o negócio antes de listá-lo novamente",

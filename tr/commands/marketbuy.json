@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Pazardan bir fırsat satın alın",
-    "CORRECT_USAGE": "{{user}} | Doğru Kullanım : smp <fırsat kimliği> [wist miktarı]",
+    "CORRECT_USAGE": "{{user}} | Doğru Kullanım : {{prefix}}mp <fırsat kimliği> [wist miktarı]",
     "INVALID_DEAL_ID": "Geçersiz Fırsat Kimliği: Lütfen yeniden kontrol edin",
     "CANNOT_PURCHASE": "{{user}} | Satın alınamaz fırsat",
     "CANNOT_SELF": "{{user}} | Kendi fırsatınızı satın alamazsınız",

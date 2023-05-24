@@ -4,5 +4,5 @@
     "STOCK": "Existencias",
     "RATE": "Tasa",
     "MARKET_WARN": "No use el mercado para almacenar o ocultar objetos.\nSerán eliminados sin compensación.\nTasa media: {{averageRate}} Total de transacciones: {{totalTrades}}",
-    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar wist usa `smp <id>` [cantidad]"
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar wist usa `{{prefix}}mp <id>` [cantidad]"
 }

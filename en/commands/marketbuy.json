@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Purchase a deal from the market",
-    "CORRECT_USAGE": "{{user}} | Correct Usage : smp <deal id> [wist amount]",
+    "CORRECT_USAGE": "{{user}} | Correct Usage : {{prefix}}mp <deal id> [wist amount]",
     "INVALID_DEAL_ID": "Invalid Deal ID provided: Please check again",
     "CANNOT_PURCHASE": "{{user}} | Cannot purchase that deal",
     "CANNOT_SELF": "{{user}} | You cannot buy your own deal",

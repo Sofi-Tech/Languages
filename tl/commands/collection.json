@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Ang lahat ng {{taglength}} na card ay matagumpay na natanggal ang tag",
     "ALL_TAG_SUCCESS": "{{author}} Ang lahat ng {{taglength}} na card ay matagumpay na naitag",
     "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Wala ka pang mga tag `Tag`. Maari kang gumawa gamit ang command na `stc <Pangalan ng Tag> <Emoji>`"
+    "NO_TAG_FOUND": "Wala ka pang mga tag `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <Pangalan ng Tag> <Emoji>`"
 }

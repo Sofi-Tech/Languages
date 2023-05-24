@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "시장 목록 항목",
-    "CORRECT_USAGE": "{{user}} 올바른 사용법: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} 올바른 사용법: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} 유효하지 않은 젬 비율",
     "GEM_RATE_LIES": "{{user}} 젬 비율은 3.0-20.0 사이여야합니다",
     "ALREADY_EXISTS": "{{dealID}} 거래가 이미 존재합니다\n거래를 다시 목록에 올리기 전에 제거하십시오",

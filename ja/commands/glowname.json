@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "光名を変更してください",
     "GN_CATEGORY": "コスメティック",
     "UNLOCK_GLOWS": "{{author}} は先に一部のグローをアンロックしてください",
-    "WRONG_USAGE": "{{author}} 正しい使い方： `sglowname [glowcode] [newname]`",
+    "WRONG_USAGE": "{{author}} 正しい使い方： `{{prefix}}glowname [glowcode] [newname]`",
     "WRONG_GLOWCODE_FORMAT": "グローコードは `#` で始めてください",
     "GLOW_NOT_FOUND": "{{author}} はあなたのパレットでそのグローを見つけられませんでした。コードは正しいですか？",
     "PROVIDE_GLOW_NAME": "{{author}} グロー名を入力してください",

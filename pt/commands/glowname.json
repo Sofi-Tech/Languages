@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Alterar o nome do brilho",
     "GN_CATEGORY": "Cosméticos",
     "UNLOCK_GLOWS": "{{author}} Você não tem nenhum `Brilho`",
-    "WRONG_USAGE": "{{author}} Uso correto: `sglowname [código do brilho] [novo nome]`",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}glowname [código do brilho] [novo nome]`",
     "WRONG_GLOWCODE_FORMAT": "O código do brilho começa com `#`",
     "GLOW_NOT_FOUND": "{{author}} não conseguiu encontrar aquele brilho em sua paleta. O código está correto?",
     "PROVIDE_GLOW_NAME": "{{author}} por favor forneça o nome do brilho",

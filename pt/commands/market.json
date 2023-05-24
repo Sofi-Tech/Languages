@@ -4,5 +4,5 @@
     "STOCK": "Estoque",
     "RATE": "Taxa",
     "MARKET_WARN": "Não use o mercado para armazenar ou esconder `Wists`!\nSe você for pego fazendo isso, os `Wists`serão removidos sem compensação.\n`Taxa Média : {{averageRate}}` `Total de Negociações : {{totalTrades}}`",
-    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use `smp <ID>`para comprar `Wists`!"
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use `{{prefix}}mp <ID>`para comprar `Wists`!"
 }

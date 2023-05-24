@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "Gebot in Auktionen",
   "BID_CATEGORY": "Karten",
-  "WRONG_USAGE": "{{author}} korrekte Verwendung: `sbid <Auktions-ID> <Menge>`",
+  "WRONG_USAGE": "{{author}} korrekte Verwendung: `{{prefix}}bid <Auktions-ID> <Menge>`",
   "INVALID_ID": "{{author}} ungültige Auktions-ID angegeben. Bitte überprüfen Sie erneut.",
   "INVALID_AMOUNT": "{{author}} Menge muss eine Zahl sein",
   "NO_AMOUNT": "{{author}} Sie haben keine {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "Sie wurden bei der Auktions-ID `{{auctionId}}` überboten",
   "SUCCESSFUL_BID": "Das Gebot wurde erfolgreich abgegeben",
   "EMBED_BID_TITLE": "SOFI: AUKTION [{{auctionId}}]",
-  "EMBED_BID_DESCRIPTION": "> Willkommen bei der SOFI-Auktion:\n> Verwenden Sie `sbid <Auktions-ID> <Menge>`, um ein Gebot auf die Karte abzugeben\n> Hinweis: Die Gebote sind anonym",
+  "EMBED_BID_DESCRIPTION": "> Willkommen bei der SOFI-Auktion:\n> Verwenden Sie `{{prefix}}bid <Auktions-ID> <Menge>`, um ein Gebot auf die Karte abzugeben\n> Hinweis: Die Gebote sind anonym",
   "CARD_DETAILS": "Kartendetails",
   "BID_GEN": "> Gen: `{{gen}}`",
   "BID_NAME": "> Name: {{name}}",

@@ -8,7 +8,7 @@
   "AI_SERIES": "> 시리즈: {{series}}",
   "AI_TOP_BID": "> 최고 입찰: {{bids}}",
   "AI_STATUS": "> 상태: {{status}}",
-  "EMBED_FOOTER": "경매에 입찰하려면 sbid <경매ID>를 사용하세요.",
+  "EMBED_FOOTER": "경매에 입찰하려면 {{prefix}}bid <경매ID>를 사용하세요.",
   "EMPTY_AUCTION": "경매가 비어 있습니다",
   "ID": "ID:",
   "ACTIVE": "진행중",

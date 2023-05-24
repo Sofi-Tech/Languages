@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Compre um negócio no mercado",
-    "CORRECT_USAGE": "{{user}} | Uso correto: smp <ID do negócio> [quantidade de wists]",
+    "CORRECT_USAGE": "{{user}} | Uso correto: {{prefix}}mp <ID do negócio> [quantidade de wists]",
     "INVALID_DEAL_ID": "ID do negócio inválido fornecido: verifique novamente",
     "CANNOT_PURCHASE": "{{user}} | Não é possível comprar esse negócio",
     "CANNOT_SELF": "{{user}} | Você não pode comprar o seu próprio negócio",

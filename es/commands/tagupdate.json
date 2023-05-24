@@ -1,7 +1,7 @@
 {
     "TU_DESCRIPTION": "Cambia el nombre o el emoticono de tus \"Tags\"",
     "TU_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correcto: `stagupdate <NombreDelTag>`",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}tagupdate <NombreDelTag>`",
     "TAG_NOT_FOUND": "{{author}} No se ha podido encontró ningún `Tag` con el nombre `{{tag}}`",
     "BUTTON_NAME_LABEL": "Nombre",
     "BUTTON_EMOJI_LABEL": "Emoji",

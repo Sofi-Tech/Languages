@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Esse usuário não existe",
     "NO_TAGS": "{{author}} Não foi possível encontrar nenhuma tag",
     "EMBED_TITLE": "Lista de Tags: {{username}}",
-    "SOFI_FACT": "Cartas que estão em \"Tags\" com um emoji de cadeado \"🔒\" não poder ser queimadas ou trocadas!\nExemplo: \"stc lock 🔒\"",
+    "SOFI_FACT": "Cartas que estão em \"Tags\" com um emoji de cadeado \"🔒\" não poder ser queimadas ou trocadas!\nExemplo: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Número de Tags: {{count}}"
 }

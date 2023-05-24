@@ -8,6 +8,6 @@
     "RATE": "Tarief",
     "LISTED": "Vermeld",
     "NO_LISTINGS_FOUND": "{{user}} heeft geen vermeldingen in de markt",
-    "INFO": "Gebruik 'sml' en 'smul' om te unlisten\nEr kan slechts één deal tegelijk vermeld worden",
-    "FOOTER": "Toont 1-{{pages}} van {{total}} | Om te kopen gebruik smp <id> [hoeveelheid]"
+    "INFO": "Gebruik '{{prefix}}ml' en 'smul' om te unlisten\nEr kan slechts één deal tegelijk vermeld worden",
+    "FOOTER": "Toont 1-{{pages}} van {{total}} | Om te kopen gebruik {{prefix}}mp <id> [hoeveelheid]"
 }

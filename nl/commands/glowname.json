@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Wijzig de glow-naam",
     "GN_CATEGORY": "Cosmetica",
     "UNLOCK_GLOWS": "{{author}} ontgrendel eerst enkele gloeiingen",
-    "WRONG_USAGE": "{{author}} Goed gebruik: `sglowname [glowcode] [nieuwenaam]`",
+    "WRONG_USAGE": "{{author}} Goed gebruik: `{{prefix}}glowname [glowcode] [nieuwenaam]`",
     "WRONG_GLOWCODE_FORMAT": "Glowcode begint met `#`",
     "GLOW_NOT_FOUND": "{{author}} heeft die gloed niet kunnen vinden in uw palet. Is de code correct?",
     "PROVIDE_GLOW_NAME": "{{author}} geef de naam van de gloed",

@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Bei allen {{taglength}} Karten wurde der Tag erfolgreich entfernt.",
     "ALL_TAG_SUCCESS": "{{author}} Allen {{taglength}} Karten wurde erfolgreich ein `tag` hinzugefügt",
     "PLEASE_WAIT": "Einen Moment <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Du hast noch keine „Tags“. Du kannst sie mit dem Befehl „stc <TagName> <Emoji>“ erstellen"
+    "NO_TAG_FOUND": "Du hast noch keine „Tags“. Du kannst sie mit dem Befehl „{{prefix}}tc <TagName> <Emoji>“ erstellen"
 }

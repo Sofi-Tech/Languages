@@ -1,7 +1,7 @@
 {
     "GT_DESCRIPTION": "\"Tags\" uw \"Glows\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} U hebt nog geen `Glow Tags`. U kunt ze aanmaken met het commando `sgtc <Naam> <Emoji>`.",
+    "GLOWTAGS_NOT_FOUND": "{{author}} U hebt nog geen `Glow Tags`. U kunt ze aanmaken met het commando `{{prefix}}gtc <Naam> <Emoji>`.",
     "GLOWS_NOT_UNLOCKED": "{{author}} U heeft nog geen `Glows`",
     "MISSING_GLOWTAG": "{{author}}, U moet een `Glow Tag` opgeven",
     "INVALID_GLOW_CODE": "{{author}} één of meer van de opgegeven `Glow` codes is ongeldig",

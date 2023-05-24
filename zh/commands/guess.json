@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "猜词游戏",
-    "CORRECT_USAGE": "{{user}} **正确用法：sguess <数量> <货币>**\n|`silvers` `wists` `gems` `cubes`",
+    "CORRECT_USAGE": "{{user}} **正确用法：{{prefix}}guess <数量> <货币>**\n|`silvers` `wists` `gems` `cubes`",
     "NO_TP": "${message.author} 没有可用的交易通行证。在站点上兑换点数以获得交易通行证",
     "NOT_ENOUGH_CURR": "{{user}} **| 您没有足够的 `{{currency}}` 来开始游戏**",
     "INFO_1": "{{user}} 开始了猜词游戏",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} 请求更多玩家加入**",
     "GUESS_THE_WORD": "猜测给定单词：{{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} 正确猜测了 {{word}} 并赢得了 {{jackpot}} {{currency}}",
-    "WRONG_USAGE": "{{author}} 正确用法：`sgive <用户/用户ID> <卡片代码>`"
+    "WRONG_USAGE": "{{author}} 正确用法：`{{prefix}}give <用户/用户ID> <卡片代码>`"
 }

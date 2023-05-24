@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Jeu de devinette de mot",
-    "CORRECT_USAGE": "{{user}} **usage correct: sguess <montant> <devise>**\n|`silvers` `wists` `gems` `cubes`",
+    "CORRECT_USAGE": "{{user}} **usage correct: {{prefix}}guess <montant> <devise>**\n|`silvers` `wists` `gems` `cubes`",
     "NO_TP": "${message.author} n'a pas de passe commercial actif. Échangez les points de promotion sur le site pour recevoir un passe commercial",
     "NOT_ENOUGH_CURR": "{{user}} **| Vous n'avez pas assez de `{{devise}}` pour commencer le jeu**",
     "INFO_1": "{{user}} a commencé le jeu de devinette",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} demande plus de joueurs pour rejoindre",
     "GUESS_THE_WORD": "Devinez le mot donné : {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} a deviné correctement {{word}} et a gagné {{jackpot}} {{devise}}",
-    "WRONG_USAGE": "{{author}} Usage correct : `sgive <user/userID> <cardcode>`"
+    "WRONG_USAGE": "{{author}} Usage correct : `{{prefix}}give <user/userID> <cardcode>`"
 }

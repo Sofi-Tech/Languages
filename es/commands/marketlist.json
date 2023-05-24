@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Artículo de lista en el mercado",
-    "CORRECT_USAGE": "{{user}} Uso correcto: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Uso correcto: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Tasa de gemas no válida",
     "GEM_RATE_LIES": "{{user}} La tasa de gemas debe oscilar entre 3,0-20,0",
     "ALREADY_EXISTS": "Ya tienes un acuerdo existente {{dealID}}\nRetira el acuerdo antes de volver a listar",

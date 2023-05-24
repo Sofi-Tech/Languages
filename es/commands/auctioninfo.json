@@ -8,7 +8,7 @@
     "AI_SERIES": "> Serie: {{series}}",
     "AI_TOP_BID": "> La mejor oferta: {{bids}}",
     "AI_STATUS": "> Estado: {{status}}",
-    "EMBED_FOOTER": "Use el comando sbid <auctionID> para hacer una oferta en el auction",
+    "EMBED_FOOTER": "Use el comando {{prefix}}bid <auctionID> para hacer una oferta en el auction",
     "EMPTY_AUCTION": "No hay auctions por el momento",
     "ID": "ID:",
     "ACTIVE": "Activa",

@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "Bieden op veilingen",
   "BID_CATEGORY": "Kaarten",
-  "WRONG_USAGE": "{{author}} juiste gebruik: `sbid <auctionID> <bedrag>`",
+  "WRONG_USAGE": "{{author}} juiste gebruik: `{{prefix}}bid <auctionID> <bedrag>`",
   "INVALID_ID": "{{author}} ongeldig veiling-ID opgegeven. Controleer opnieuw.",
   "INVALID_AMOUNT": "{{author}} bedrag moet een nummer zijn",
   "NO_AMOUNT": "{{author}} u heeft geen {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "U bent overboden in veiling-ID `{{auctionId}}`",
   "SUCCESSFUL_BID": "Het bod is succesvol geplaatst",
   "EMBED_BID_TITLE": "SOFI: VEILING [{{auctionId}}]",
-  "EMBED_BID_DESCRIPTION": "> Welkom bij SOFI veiling:\n> Gebruik `sbid <auctionID> <bedrag>` om een bod te plaatsen op de kaart\n> Opmerking: de biedingen zijn anoniem",
+  "EMBED_BID_DESCRIPTION": "> Welkom bij SOFI veiling:\n> Gebruik `{{prefix}}bid <auctionID> <bedrag>` om een bod te plaatsen op de kaart\n> Opmerking: de biedingen zijn anoniem",
   "CARD_DETAILS": "Kaartdetails",
   "BID_GEN": "> Gen: `{{gen}}`",
   "BID_NAME": "> Naam: {{name}}",

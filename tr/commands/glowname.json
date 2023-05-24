@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Parıltı adını değiştirin",
     "GN_CATEGORY": "Kozmetik",
     "UNLOCK_GLOWS": "{{author}} önce bazı parıltıları açmalı!",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `sglowname [parıltı kodu] [yeni ad]`",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}glowname [parıltı kodu] [yeni ad]`",
     "WRONG_GLOWCODE_FORMAT": "Parıltı kodu `#` ile başlar",
     "GLOW_NOT_FOUND": "{{author}} paletinizde o parıltıyı bulamadı. Kod doğru mu?",
     "PROVIDE_GLOW_NAME": "{{author}} parıltı adını girin",

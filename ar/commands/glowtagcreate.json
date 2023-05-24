@@ -1,7 +1,7 @@
 {
     "GTC_DESCRIPTION": "أنشئ علامة Glow",
     "GTC_CATEGORY": "العلامات",
-    "CORRECT_USAGE": "الاستخدام الصحيح: `sgtc <اسم العلامة> <الرمز التعبيري>`",
+    "CORRECT_USAGE": "الاستخدام الصحيح: `{{prefix}}gtc <اسم العلامة> <الرمز التعبيري>`",
     "INVALID_EMOJI": "هذا ليس رمز تعبيري صحيح",
     "GLOWTAG_ALREADY_EXISTS": "{{author}}  **علامة Glow بهذا الاسم موجودة بالفعل",
     "CREATED_GLOWTAG": "{{author}} **تم إنشاء علامة Glow بالاسم:** `{{tag}}` | {{emoji}}"

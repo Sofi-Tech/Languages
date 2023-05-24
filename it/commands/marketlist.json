@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Voce oggetto sul mercato",
-    "CORRECT_USAGE": "{{user}} Utilizzo corretto: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Utilizzo corretto: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Tasso di gemme non valido",
     "GEM_RATE_LIES": "{{user}} Il tasso di gemme deve essere compreso tra 3,0 e 20,0",
     "ALREADY_EXISTS": "Hai già un affare esistente {{dealID}}\nRimuovi dall'elenco l'affare prima di inserirne uno nuovo",

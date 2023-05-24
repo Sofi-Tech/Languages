@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "Enchère dans les enchères",
   "BID_CATEGORY": "Cartes",
-  "WRONG_USAGE": "{{author}} utilisation correcte : `sbid <auctionID> <montant>`",
+  "WRONG_USAGE": "{{author}} utilisation correcte : `{{prefix}}bid <auctionID> <montant>`",
   "INVALID_ID": "{{author}} ID d'enchère invalide fourni. Veuillez vérifier à nouveau",
   "INVALID_AMOUNT": "{{author}} le montant doit être un nombre",
   "NO_AMOUNT": "{{author}} vous n'avez pas {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "Vous êtes surenchéri dans l'enchère ID `{{auctionId}}`",
   "SUCCESSFUL_BID": "L'enchère a été placée avec succès",
   "EMBED_BID_TITLE": "SOFI : ENCHÈRE [{{auctionId}}]",
-  "EMBED_BID_DESCRIPTION": "> Bienvenue dans l'enchère SOFI :\n> Utilisez `sbid <auctionID> <montant>` pour placer une enchère sur la carte\n> Note : Les enchères seront anonymes",
+  "EMBED_BID_DESCRIPTION": "> Bienvenue dans l'enchère SOFI :\n> Utilisez `{{prefix}}bid <auctionID> <montant>` pour placer une enchère sur la carte\n> Note : Les enchères seront anonymes",
   "CARD_DETAILS": "Détails de la carte",
   "BID_GEN": "> Gén : `{{gen}}`",
   "BID_NAME": "> Nom : {{name}}",

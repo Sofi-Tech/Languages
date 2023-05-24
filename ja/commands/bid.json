@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "入札をする",
   "BID_CATEGORY": "カード",
-  "WRONG_USAGE": "{{author}} 正しい使用方法: `sbid <auctionID> <amount>`",
+  "WRONG_USAGE": "{{author}} 正しい使用方法: `{{prefix}}bid <auctionID> <amount>`",
   "INVALID_ID": "{{author}} 無効なオークションIDが入力されました。もう一度確認してください",
   "INVALID_AMOUNT": "{{author}} 金額は数字でなければなりません",
   "NO_AMOUNT": "{{author}} {{amount}} {{currency}}持っていません",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "{{auctionId}}のオークションで出品されました",
   "SUCCESSFUL_BID": "入札が成功裏に行われました",
   "EMBED_BID_TITLE": "SOFI：オークション[{{auctionId}}]",
-  "EMBED_BID_DESCRIPTION": "> SOFIオークションへようこそ:\n> カードに入札するには `sbid <auctionID> <amount>`を使ってください。\n> 注意：入札は匿名です",
+  "EMBED_BID_DESCRIPTION": "> SOFIオークションへようこそ:\n> カードに入札するには `{{prefix}}bid <auctionID> <amount>`を使ってください。\n> 注意：入札は匿名です",
   "CARD_DETAILS": "カードの詳細",
   "BID_GEN": "> Gen: `{{gen}}`",
   "BID_NAME": "> 名前: {{name}}",

@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "市场列表项",
-    "CORRECT_USAGE": "{{user}} 正确用法：sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} 正确用法：{{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} 无效的宝石率",
     "GEM_RATE_LIES": "{{user}} 宝石率必须介于3.0-20.0之间",
     "ALREADY_EXISTS": "您有一个现有的交易{{dealID}}\n在再次列出交易之前请取消列出",

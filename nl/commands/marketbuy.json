@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Koop een deal van de markt",
-    "CORRECT_USAGE": "{{user}} | Juiste gebruik: smp <deal-id> [wist-hoeveelheid]",
+    "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
     "INVALID_DEAL_ID": "Ongeldige deal-ID opgegeven: Controleer het opnieuw",
     "CANNOT_PURCHASE": "{{user}} | Kan die deal niet kopen",
     "CANNOT_SELF": "{{user}} | Je kunt je eigen deal niet kopen",

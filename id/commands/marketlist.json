@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Elemen daftar dalam pasar",
-    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Tingkatkan permata yang tidak valid",
     "GEM_RATE_LIES": "{{user}} Tingkatkan permata harus berada di antara 3,0-20,0",
     "ALREADY_EXISTS": "Anda memiliki penawaran yang ada {{dealID}}\nHapus penawaran sebelum mendaftar lagi",

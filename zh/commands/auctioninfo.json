@@ -8,7 +8,7 @@
   "AI_SERIES": "> 系列: {{series}}",
   "AI_TOP_BID": "> 最高出价: {{bids}}",
   "AI_STATUS": "> 状态: {{status}}",
-  "EMBED_FOOTER": "使用 sbid <拍卖 ID> 参与竞拍",
+  "EMBED_FOOTER": "使用 {{prefix}}bid <拍卖 ID> 参与竞拍",
   "EMPTY_AUCTION": "拍卖为空",
   "ID": "ID:",
   "ACTIVE": "活跃",

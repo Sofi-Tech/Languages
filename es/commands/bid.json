@@ -1,7 +1,7 @@
 {
     "BID_DESCRIPTION": "Oferta en las subastas",
     "BID_CATEGORY": "Tarjetas",
-    "WRONG_USAGE": "{{author}} uso correcto: `sbid <auctionID> <cantidad>`",
+    "WRONG_USAGE": "{{author}} uso correcto: `{{prefix}}bid <auctionID> <cantidad>`",
     "INVALID_ID": "{{author}} has proporcionado un ID de `Auction` inválido",
     "INVALID_AMOUNT": "{{author}} la cantidad debe ser un número",
     "NO_AMOUNT": "{{author}} no tienes {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
     "OUTBIDDED": "Te han sobrepujado en la subasta ID `{{auctionId}}`",
     "SUCCESSFUL_BID": "La oferta se realizó con éxito",
     "EMBED_BID_TITLE": "SOFI: SUBASTA [{{auctionId}}]",
-    "EMBED_BID_DESCRIPTION": "> Bienvenido a la Subasta SOFI:\n> Usa `sbid <auctionID> <cantidad>` para realizar la oferta en la tarjeta\n> Nota: Las ofertas son anónimas",
+    "EMBED_BID_DESCRIPTION": "> Bienvenido a la Subasta SOFI:\n> Usa `{{prefix}}bid <auctionID> <cantidad>` para realizar la oferta en la tarjeta\n> Nota: Las ofertas son anónimas",
     "CARD_DETAILS": "Detalles de la tarjeta",
     "BID_GEN": "> Gen: `{{gen}}`",
     "BID_NAME": "> Nombre: {{name}}",

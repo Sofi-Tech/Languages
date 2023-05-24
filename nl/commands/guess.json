@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Start een woord raadspel",
-    "CORRECT_USAGE": "{{user}} Correct gebruik: `sguess <bedrag> <valuta>`\n|Geaccepteerde valuta:`Silver` `Wists` `Gems` `Cubes`",
+    "CORRECT_USAGE": "{{user}} Correct gebruik: `{{prefix}}guess <bedrag> <valuta>`\n|Geaccepteerde valuta:`Silver` `Wists` `Gems` `Cubes`",
     "NO_TP": "${message.author} heeft geen actieve Tradepass. Wissel de bump punten in op de site om een Tradepass te ontvangen",
     "NOT_ENOUGH_CURR": "{{user}} **| Je hebt niet genoeg `{{currency}}` om het spel te starten**",
     "INFO_1": "{{user}} is begonnen met het raadspel",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} vraag meer spelers om mee te doen**",
     "GUESS_THE_WORD": "Raad het gegeven woord: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} heeft {{word}} correct geraden en heeft {{jackpot}} {{currency}} gewonnen",
-    "WRONG_USAGE": "{{auteur}} Correct gebruik: `sgive <gebruiker/gebruikers-ID> <kaartcode>`"
+    "WRONG_USAGE": "{{auteur}} Correct gebruik: `{{prefix}}give <gebruiker/gebruikers-ID> <kaartcode>`"
 }

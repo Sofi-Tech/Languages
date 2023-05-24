@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Kaufen Sie ein Angebot vom Markt",
-    "CORRECT_USAGE": "{{user}} | Korrekte Verwendung: smp <Deal-ID> [Wist-Betrag]",
+    "CORRECT_USAGE": "{{user}} | Korrekte Verwendung: {{prefix}}mp <Deal-ID> [Wist-Betrag]",
     "INVALID_DEAL_ID": "Ungültige Deal-ID bereitgestellt: Bitte überprüfen Sie erneut",
     "CANNOT_PURCHASE": "{{user}} | Kann das Angebot nicht kaufen",
     "CANNOT_SELF": "{{user}} | Sie können Ihr eigenes Angebot nicht kaufen",

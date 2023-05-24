@@ -8,6 +8,6 @@
     "RATE": "Tarif",
     "LISTED": "Terdaftar",
     "NO_LISTINGS_FOUND": "{{user}} Anda belum membuat daftar di pasar",
-    "INFO": "Gunakan `sml` dan `smul` untuk mencabut daftar\nSatu penawaran dapat terdaftar pada satu waktu",
-    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `smp <ID>` untuk membeli `Wists`!"
+    "INFO": "Gunakan `{{prefix}}ml` dan `smul` untuk mencabut daftar\nSatu penawaran dapat terdaftar pada satu waktu",
+    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!"
 }

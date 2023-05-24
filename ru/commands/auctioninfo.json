@@ -8,7 +8,7 @@
     "AI_SERIES": "> Серия: {{series}}",
     "AI_TOP_BID": "> Лучшая ставка: {{bids}}",
     "AI_STATUS": "> Статус: {{status}}",
-    "EMBED_FOOTER": "Используйте команду `sbid <auctionID>`, чтобы сделать ставку на аукционе",
+    "EMBED_FOOTER": "Используйте команду `{{prefix}}bid <auctionID>`, чтобы сделать ставку на аукционе",
     "EMPTY_AUCTION": "В данный момент нет активных аукционов",
     "ID": "ID:",
     "ACTIVE": "Активен",

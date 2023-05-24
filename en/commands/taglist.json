@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} That user does not exist",
     "NO_TAGS": "{{author}} Could not find any tags",
     "EMBED_TITLE": "Tag List: {{username}}",
-    "SOFI_FACT": "Cards that are in \"Tags\" with a padlock emoji \"🔒\" can not be burnt or traded!\nExample: \"stc lock 🔒\"",
+    "SOFI_FACT": "Cards that are in \"Tags\" with a padlock emoji \"🔒\" can not be burnt or traded!\nExample: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Tag count: {{count}}"
 }

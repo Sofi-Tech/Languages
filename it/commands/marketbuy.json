@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Acquista un'offerta dal mercato",
-    "CORRECT_USAGE": "{{user}} | Utilizzo corretto: smp <ID offerta> [quantità wist]",
+    "CORRECT_USAGE": "{{user}} | Utilizzo corretto: {{prefix}}mp <ID offerta> [quantità wist]",
     "INVALID_DEAL_ID": "ID offerta non valido fornito: controllare nuovamente",
     "CANNOT_PURCHASE": "{{user}} | Impossibile acquistare quell'offerta",
     "CANNOT_SELF": "{{user}} | Non puoi acquistare la tua offerta",

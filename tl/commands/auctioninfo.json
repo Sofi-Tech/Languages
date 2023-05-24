@@ -8,7 +8,7 @@
     "AI_SERIES": "> Series: {{series}}",
     "AI_TOP_BID": "> Pinakamataas na Bid: {{bids}}",
     "AI_STATUS": "> Katayuan: {{status}}",
-    "EMBED_FOOTER": "Gamitin ang command na `sbid <auctionID>` upang magbigay ng bid sa auction",
+    "EMBED_FOOTER": "Gamitin ang command na `{{prefix}}bid <auctionID>` upang magbigay ng bid sa auction",
     "EMPTY_AUCTION": "Walang auctions ngayon",
     "ID": "ID:",
     "ACTIVE": "Aktibo",

@@ -4,5 +4,5 @@
     "STOCK": "库存",
     "RATE": "价格",
     "MARKET_WARN": "不要使用市场存储或隐藏列表。\n它们将被移除而不予任何补偿。\n平均价格：{{averageRate}}，交易总数：{{totalTrades}}",
-    "FOOTER": "{1}-{2} 共 {3} 条结果 | 购买使用 smp <id> [数量]"
+    "FOOTER": "{1}-{2} 共 {3} 条结果 | 购买使用 {{prefix}}mp <id> [数量]"
 }

@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "تغيير اسم اللمعة",
     "GN_CATEGORY": "مستحضرات التجميل",
     "UNLOCK_GLOWS": "{{author}} قم بفتح بعض اللمعات أولاً",
-    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `sglowname [كود اللومينانس] [الاسم الجديد]`",
+    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}glowname [كود اللومينانس] [الاسم الجديد]`",
     "WRONG_GLOWCODE_FORMAT": "يبدأ كود اللمعة ب `#`",
     "GLOW_NOT_FOUND": "{{author}} لا يمكن العثور على تلك اللمعة في لوحة الألوان الخاصة بك. هل الكود الصحيح؟",
     "PROVIDE_GLOW_NAME": "{{author}} يرجى تزويد اسم اللمعة",

@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "从市场购买交易",
-    "CORRECT_USAGE": "{{user}} | 正确的使用方法：smp <deal id> [wist数量]",
+    "CORRECT_USAGE": "{{user}} | 正确的使用方法：{{prefix}}mp <deal id> [wist数量]",
     "INVALID_DEAL_ID": "提供的Deal ID无效，请重新检查",
     "CANNOT_PURCHASE": "{{user}} | 无法购买该交易",
     "CANNOT_SELF": "{{user}} | 不能购买自己发布的交易",

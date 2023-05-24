@@ -4,5 +4,5 @@
     "STOCK": "재고",
     "RATE": "율",
     "MARKET_WARN": "장부 또는 숨겨진 위스트에 시장을 사용하지 마십시오.\n보상 없이 제거됩니다.\n평균율 : {{averageRate}} 총 거래 : {{totalTrades}}",
-    "FOOTER": "{{total}} 개 중 1-{{pages}} 개 표시 | 구매하려면 smp <id> [금액]을 사용하세요"
+    "FOOTER": "{{total}} 개 중 1-{{pages}} 개 표시 | 구매하려면 {{prefix}}mp <id> [금액]을 사용하세요"
 }

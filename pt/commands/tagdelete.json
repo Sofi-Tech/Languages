@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "Exclui a \"Tag\"",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correto: `sdt <Nome da Tag>`",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}dt <Nome da Tag>`",
     "TAG_NOT_FOUND": "{{author}} Você não tem um `Tag` com esse nome",
     "SUCCESSFUL_DELETE_TAG": "{{author}} `Tag` {{tag}} excluída com sucesso"
 }

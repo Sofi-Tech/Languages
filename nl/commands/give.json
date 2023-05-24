@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} is op de zwarte lijst",
     "MEM_QUARANTINED": "De gebruiker staat onder quarantaine",
     "NO_CODE": "{{author}} je bent vergeten de kaartcode op te geven",
-    "WRONG_USAGE": "{{author}} Juist gebruik: 'sgive <gebruiker/gebruikerID> <kaartcode>'",
+    "WRONG_USAGE": "{{author}} Juist gebruik: '{{prefix}}give <gebruiker/gebruikerID> <kaartcode>'",
     "NO_CARD_FOUND": "Kan geen kaart vinden met de code: `{{code}}`",
     "CARD_LOCKED": "De kaart is vergrendeld en kan niet worden gegeven. Ontag de kaart om door te gaan",
     "CARD_NOT_OWNED": "Je bezit de kaart niet meer",

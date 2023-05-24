@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "लोटों में बोली लगाओ",
   "BID_CATEGORY": "कार्ड्स",
-  "WRONG_USAGE": "{{author}} सही उपयोग: `sbid <auctionID> <amount>`",
+  "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}bid <auctionID> <amount>`",
   "INVALID_ID": "{{author}} अमान्य लोट आईडी दी गई है। कृपया फिर से जांचें",
   "INVALID_AMOUNT": "{{author}} राशि एक संख्या होनी चाहिए",
   "NO_AMOUNT": "{{author}} आपके पास {{amount}} {{currency}} नहीं हैं",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "आप ऑक्शन आईडी `{{auctionId}}` में बाहर कर दिए गए हैं",
   "SUCCESSFUL_BID": "बोली सफलतापूर्वक रखी गई थी",
   "EMBED_BID_TITLE": "SOFI: ऑक्शन [{{auctionId}}]",
-  "EMBED_BID_DESCRIPTION": "> आपका स्वागत है SOFI ऑक्शन में:\n> कार्ड पर बोली लगाने के लिए `sbid <auctionID> <amount>` का प्रयोग करें\n> नोट: बोलियां गुमनाम होंगी",
+  "EMBED_BID_DESCRIPTION": "> आपका स्वागत है SOFI ऑक्शन में:\n> कार्ड पर बोली लगाने के लिए `{{prefix}}bid <auctionID> <amount>` का प्रयोग करें\n> नोट: बोलियां गुमनाम होंगी",
   "CARD_DETAILS": "कार्ड विवरण",
   "BID_GEN": "> जेन: `{{gen}}`",
   "BID_NAME": "> नाम: {{name}}",

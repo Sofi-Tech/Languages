@@ -2,7 +2,7 @@
     "TAG_DESCRIPTION": "Ilagay ang iyong mga \"Tags\" sa kards",
     "TAG_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Mag bigay ng `Tag` name",
-    "NO_TAGS_CREATED": "{{author}} Wala ka pang mga `Tags`. Maari kang gumawa gamit ang command na `stc <Pangalan ng Tag> <Emoji>`",
+    "NO_TAGS_CREATED": "{{author}} Wala ka pang mga `Tags`. Maari kang gumawa gamit ang command na `{{prefix}}tc <Pangalan ng Tag> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Walang kang kahit anong`Tag` na ngangalang `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Wala kang cards sa iyong collection",
     "INVALID_CARD_CODE": "{{author}} Ang card code na iyong nilagay ay hindi valid",

@@ -4,5 +4,5 @@
     "STOCK": "Stok",
     "RATE": "Tingkat",
     "MARKET_WARN": "Jangan gunakan pasar untuk menyimpan atau menyembunyikan `Wists`!\nJika Anda ketahuan melakukan hal tersebut, `Wists` akan dihapus tanpa kompensasi.\n`Kurs Rata-rata : {{averageRate}}` `Total Perdagangan : {{totalTrades}}`",
-    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `smp <ID>` untuk membeli `Wists`!"
+    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!"
 }

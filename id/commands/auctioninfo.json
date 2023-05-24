@@ -8,7 +8,7 @@
     "AI_SERIES": "> Seri: {{series}}",
     "AI_TOP_BID": "> Tawaran Tertinggi: {{bids}}",
     "AI_STATUS": "> Status: {{status}}",
-    "EMBED_FOOTER": "Gunakan perintah `sbid <auctionID>` untuk mengajukan penawaran pada auction",
+    "EMBED_FOOTER": "Gunakan perintah `{{prefix}}bid <auctionID>` untuk mengajukan penawaran pada auction",
     "EMPTY_AUCTION": "Tidak ada auction saat ini",
     "ID": "ID:",
     "ACTIVE": "Aktif",

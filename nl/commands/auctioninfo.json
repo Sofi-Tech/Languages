@@ -8,7 +8,7 @@
   "AI_SERIES": "> Serie: {{series}}",
   "AI_TOP_BID": "> Hoogste bod: {{bids}}",
   "AI_STATUS": "> Status: {{status}}",
-  "EMBED_FOOTER": "Gebruik sbid <auctionID> om te bieden in de veiling",
+  "EMBED_FOOTER": "Gebruik {{prefix}}bid <auctionID> om te bieden in de veiling",
   "EMPTY_AUCTION": "Veiling is leeg",
   "ID": "ID:",
   "ACTIVE": "Actief",

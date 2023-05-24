@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Todas las {{taglength}} cartas se han destageado exitosamente",
     "ALL_TAG_SUCCESS": "{{author}} Todas las {{taglength}} cartas han sido tageadas exitosamente",
     "PLEASE_WAIT": "Por favor espera <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "No tienes ningún `Tag` todavía. Puedes crearlos con el comando `stc <NombreDelTag> <Emoticono>`"
+    "NO_TAG_FOUND": "No tienes ningún `Tag` todavía. Puedes crearlos con el comando `{{prefix}}tc <NombreDelTag> <Emoticono>`"
 }

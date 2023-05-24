@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "市場からディールを購入する",
-    "CORRECT_USAGE": "{{user}} | 正しい使用方法：smp <ディールID> [wist量]",
+    "CORRECT_USAGE": "{{user}} | 正しい使用方法：{{prefix}}mp <ディールID> [wist量]",
     "INVALID_DEAL_ID": "提供されたディールIDが無効です：再度確認してください",
     "CANNOT_PURCHASE": "{{user}} | そのディールは購入できません",
     "CANNOT_SELF": "{{user}} | 自分自身のディールは購入できません",

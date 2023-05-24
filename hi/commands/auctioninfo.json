@@ -8,7 +8,7 @@
   "AI_SERIES": "> सीरीज: {{series}}",
   "AI_TOP_BID": "> शीर्ष बोली: {{bids}}",
   "AI_STATUS": "> स्थिति: {{status}}",
-  "EMBED_FOOTER": "नीलामी में बोली लगाने के लिए sbid <auctionID> का प्रयोग करें",
+  "EMBED_FOOTER": "नीलामी में बोली लगाने के लिए {{prefix}}bid <auctionID> का प्रयोग करें",
   "EMPTY_AUCTION": "नीलामी खाली है",
   "ID": "आईडी:",
   "ACTIVE": "सक्रिय",

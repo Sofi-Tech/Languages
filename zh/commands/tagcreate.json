@@ -1,7 +1,7 @@
 {
     "TC_DESCRIPTION": "创建标签",
     "TC_CATEGORY": "标签",
-    "WRONG_USAGE": "用法：`stc <标签名称> <表情符号>`",
+    "WRONG_USAGE": "用法：`{{prefix}}tc <标签名称> <表情符号>`",
     "INVALID_EMOJI": "{{emoji}} 不是有效的表情符号",
     "INVALID_TAGNAME_FORMAT": "标签名称必须是字母数字的，不能包含特殊字符、空格或保留词。",
     "LONG_TAGNAME": "标签名称太长。请尝试少于 20 个字符",

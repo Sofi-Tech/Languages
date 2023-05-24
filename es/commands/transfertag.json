@@ -1,7 +1,7 @@
 {
     "TT_DESCRIPTION": "Transfiere cartas de un \"Tag\" a otro",
     "TT_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correcto: `strt <DesdeTagAntiguo> <ATagNuevo>`",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}trt <DesdeTagAntiguo> <ATagNuevo>`",
     "TAG_NOT_FOUND": "No se ha podido encontrar un `Tag` con el nombre: `{{tag}}`",
     "TRANSFER_TAG_SUCCESSFULL": "Todas las cartas del `Tag` {{fromTag}} han sido transferidas con éxito a `{{toTag}}`"
 }

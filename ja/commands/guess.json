@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "言葉を当てるゲーム",
-    "CORRECT_USAGE": "{{user}} **正しい使用法: sguess<量><通貨>**\n|`silvers``wists``gems``cubes`",
+    "CORRECT_USAGE": "{{user}} **正しい使用法: {{prefix}}guess<量><通貨>**\n|`silvers``wists``gems``cubes`",
     "NO_TP": "${message.author}はアクティブなトレードパスを持っていません。サイトでバンプポイントを引き換えてトレードパスを受け取ってください",
     "NOT_ENOUGH_CURR": "{{user}} **|`{{currency}}`が不足しているため、ゲームを開始できません**",
     "INFO_1": "{{user}}が言葉の当てゲームを開始しました",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}}他のプレイヤーに参加を頼んでください **",
     "GUESS_THE_WORD": "与えられた単語を推測する：{{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} が正しく {{word}} を推測し、 {{jackpot}} {{currency}} を獲得しました",
-    "WRONG_USAGE": "{{author}} 正しい使用法：`sgive <user/userID> <cardcode>"
+    "WRONG_USAGE": "{{author}} 正しい使用法：`{{prefix}}give <user/userID> <cardcode>"
 }

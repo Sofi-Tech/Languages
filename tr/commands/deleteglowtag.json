@@ -1,7 +1,7 @@
 {
     "DGT_DESCRIPTION": "Bir \"Glow Tag\"ini siler",
     "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Doğru kullanım: `sdgt <TagName>`",
+    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}dgt <TagName>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Bu `Glow Tag` bulunamadı",
     "DELETE_GLOWTAG": "{{author}} `Glow Tag`ı {{tag}}'ı sildi"
 }

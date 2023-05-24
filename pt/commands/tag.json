@@ -2,7 +2,7 @@
     "TAG_DESCRIPTION": "Coloca suas cartas e suas \"Tags\"",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Por favor, forneça um nome para a `Tag`",
-    "NO_TAGS_CREATED": "{{author}} Você ainda não tem nenhuma `Tags`. Você pode criá-las com o comando `stc <TagName> <Emoji>`",
+    "NO_TAGS_CREATED": "{{author}} Você ainda não tem nenhuma `Tags`. Você pode criá-las com o comando `{{prefix}}tc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Você não possui nenhuma `Tag` com o nome `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Você ainda não tem nenhuma carta em sua coleção",
     "INVALID_CARD_CODE": "{{author}} O código de carta fornecido é inválido",

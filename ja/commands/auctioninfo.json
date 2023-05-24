@@ -8,7 +8,7 @@
   "AI_SERIES": "> シリーズ： {{series}}",
   "AI_TOP_BID": "> 最高入札： {{bids}}",
   "AI_STATUS": "> 状態： {{status}}",
-  "EMBED_FOOTER": "オークションでの入札には sbid <auctionID> を使用してください",
+  "EMBED_FOOTER": "オークションでの入札には {{prefix}}bid <auctionID> を使用してください",
   "EMPTY_AUCTION": "オークションは空です",
   "ID": "ID：",
   "ACTIVE": "アクティブ",

@@ -1,7 +1,7 @@
 {
   "BID_DESCRIPTION": "Açık artırmalarda teklif ver",
   "BID_CATEGORY": "Kartlar",
-  "WRONG_USAGE": "{{author}} doğru Kullanım: `sbid <auctionID> <amount>`",
+  "WRONG_USAGE": "{{author}} doğru Kullanım: `{{prefix}}bid <auctionID> <amount>`",
   "INVALID_ID": "{{author}} geçersiz açık artırma kimliği sağlandı. Lütfen tekrar kontrol edin",
   "INVALID_AMOUNT": "{{author}} miktar bir sayı olmalı",
   "NO_AMOUNT": "{{author}} {{amount}} {{currency}}'a sahip değilsiniz",
@@ -14,7 +14,7 @@
   "OUTBIDDED": "Açık artırma kimliği `{{auctionId}}` olan açık artırmada teklif edildiniz",
   "SUCCESSFUL_BID": "Teklif başarıyla verildi",
   "EMBED_BID_TITLE": "SOFI: AÇIK ARTIRMA [{{auctionId}}]",
-  "EMBED_BID_DESCRIPTION": "> SOFI Açık Artırmasına hoş geldiniz:\n> Kartta teklif vermek için `sbid <auctionID> <amount>` kullanın\n> Not: Teklifler anonimdir",
+  "EMBED_BID_DESCRIPTION": "> SOFI Açık Artırmasına hoş geldiniz:\n> Kartta teklif vermek için `{{prefix}}bid <auctionID> <amount>` kullanın\n> Not: Teklifler anonimdir",
   "CARD_DETAILS": "Kart ayrıntıları",
   "BID_GEN": "> Generation: `{{gen}}`",
   "BID_NAME": "> İsim: {{name}}",

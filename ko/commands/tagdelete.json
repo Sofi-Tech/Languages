@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "태그 삭제",
     "TD_CATEGORY": "태그",
-    "WRONG_USAGE": "사용법: `sdt <태그명>`",
+    "WRONG_USAGE": "사용법: `{{prefix}}dt <태그명>`",
     "TAG_NOT_FOUND": "해당 태그는 태그 목록에 없습니다",
     "SUCCESSFUL_DELETE_TAG": "{{tag}} 태그가 삭제되었습니다"
 }

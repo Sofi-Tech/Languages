@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} в чёрном списке",
     "MEM_QUARANTINED": "Этот пользователь помещен в карантин",
     "NO_CODE": "{{author}} Вы забыли указать код карты",
-    "WRONG_USAGE": "{{author}} Правильное использование: `sgive <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}give <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "Не удалось найти карту с кодом: `{{code}}`",
     "CARD_LOCKED": "Эта карта заблокирована и не может быть передана! Если вы все равно хотите передать эту карту, используйте команду `suntag <cardcode>`, чтобы удалить `Tag`этой карты",
     "CARD_NOT_OWNED": "Вы больше не являетесь владельцем этой карты",

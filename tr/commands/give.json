@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} kara listeye alınmış",
     "MEM_QUARANTINED": "Bu kullanıcı karantinaya alınmış",
     "NO_CODE": "{{author}} Kart kodu belirtmeyi unuttun",
-    "WRONG_USAGE": "{{author}} Doğru kullanımı: `sgive <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "Bu koda sahip bir kart bulunamadı: `{{code}}`",
     "CARD_LOCKED": "Bu kart kilitli ve başkasına verilemez! Devam etmek için `suntag <kartkodu>`ile kartın `Tag`ını kaldır",
     "CARD_NOT_OWNED": "Bu kart artık sana ait değil",

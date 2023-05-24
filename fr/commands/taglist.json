@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Cet utilisateur n'existe pas",
     "NO_TAGS": "{{author}} Aucun tags trouvé",
     "EMBED_TITLE": "Liste des tags de: {{username}}",
-    "SOFI_FACT": "Les cartes possédants un tag avec un émoji cadenas \"🔒\" ne peuvent pas être burn ou échangées\nExample: \"stc lock 🔒\"",
+    "SOFI_FACT": "Les cartes possédants un tag avec un émoji cadenas \"🔒\" ne peuvent pas être burn ou échangées\nExample: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Nombre de tag: {{count}}"
 }

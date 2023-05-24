@@ -1,7 +1,7 @@
 {
     "DGT_DESCRIPTION": "Menghapus \"Glow Tag\"",
     "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `sdgt <NamaTag>`",
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}dgt <NamaTag>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Tidak dapat menemukan `Glow Tag` itu",
     "DELETE_GLOWTAG": "{{author}} Menghapus `Glow Tag` {{tag}}"
 }

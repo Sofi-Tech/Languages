@@ -8,6 +8,6 @@
     "RATE": "料金",
     "LISTED": "リストされた",
     "NO_LISTINGS_FOUND": "{{user}} あなたは市場でリストを作成していません",
-    "INFO": "`sml` と `smul` を使用してリストを解除します\n単一のディールのみリスト化できます",
-    "FOOTER": "{{total}} の1-{{pages}} を表示中| 購入するには、smp <id> [amount]を使用します"
+    "INFO": "`{{prefix}}ml` と `smul` を使用してリストを解除します\n単一のディールのみリスト化できます",
+    "FOOTER": "{{total}} の1-{{pages}} を表示中| 購入するには、{{prefix}}mp <id> [amount]を使用します"
 }

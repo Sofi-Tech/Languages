@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Bumili ng isang deal mula sa pamilihan",
-    "CORRECT_USAGE": "{{user}} | Tamang Paggamit: smp <id ng deal> [halagang wist]",
+    "CORRECT_USAGE": "{{user}} | Tamang Paggamit: {{prefix}}mp <id ng deal> [halagang wist]",
     "INVALID_DEAL_ID": "Maling ID ng Deal ang ibinigay: Pakikontrol muli",
     "CANNOT_PURCHASE": "{{user}} | Hindi maaaring bilhin ang deal na iyon",
     "CANNOT_SELF": "{{user}} | Hindi mo mabili ang iyong sariling deal",

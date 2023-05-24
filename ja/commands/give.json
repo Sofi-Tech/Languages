@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} はブラックリストに登録されています",
     "MEM_QUARANTINED": "ユーザーは隔離されています",
     "NO_CODE": "{{author}} ,カードコードを入力し忘れました",
-    "WRONG_USAGE": "{{author}} 正しい使い方： `sgive <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}} 正しい使い方： `{{prefix}}give <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "コード `{{code}}` のカードが見つかりません",
     "CARD_LOCKED": "カードはロックされ、あげることができません。カードからタッグを離し、進んでください。",
     "CARD_NOT_OWNED": "このカードはあなたの所有物ではありません",

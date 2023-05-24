@@ -1,7 +1,7 @@
 {
     "BID_DESCRIPTION": "Lelang dalam lelangan",
     "BID_CATEGORY": "Kartu",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `sbid <auctionID> <jumlah>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bid <auctionID> <jumlah>`",
     "INVALID_ID": "{{author}} Anda memberikan ID `Auction` yang tidak valid",
     "INVALID_AMOUNT": "{{author}} jumlah harus berupa angka",
     "NO_AMOUNT": "{{author}} kamu tidak memiliki {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
     "OUTBIDDED": "Anda telah terlewatkan dalam lelang ID `{{auctionId}}`",
     "SUCCESSFUL_BID": "Penawaran berhasil ditempatkan",
     "EMBED_BID_TITLE": "SOFI: LELANG [{{auctionId}}]",
-    "EMBED_BID_DESCRIPTION": "> Selamat datang di Lelang SOFI: \n> Gunakan `sbid <auctionID> <jumlah>` untuk menempatkan penawaran pada kartu\n> Catatan: Penawaran akan anonim",
+    "EMBED_BID_DESCRIPTION": "> Selamat datang di Lelang SOFI: \n> Gunakan `{{prefix}}bid <auctionID> <jumlah>` untuk menempatkan penawaran pada kartu\n> Catatan: Penawaran akan anonim",
     "CARD_DETAILS": "Detail kartu",
     "BID_GEN": "> Gen: `{{gen}}`",
     "BID_NAME": "> Nama: {{name}}",

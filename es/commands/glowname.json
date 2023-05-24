@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Cambiar el nombre del resplandor",
     "GN_CATEGORY": "Cosméticos",
     "UNLOCK_GLOWS": "{{author}} primero desbloquea algunos `Glows`",
-    "WRONG_USAGE": "{{author}} Uso correcto: `sglowname [códigoresplandor] [nuevonombre]`",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}glowname [códigoresplandor] [nuevonombre]`",
     "WRONG_GLOWCODE_FORMAT": "El código del resplandor comienza con `#`",
     "GLOW_NOT_FOUND": "{{author}} no pudo encontrar ese resplandor en tu paleta. ¿El código es correcto?",
     "PROVIDE_GLOW_NAME": "{{author}} proporciona el nombre del resplandor",

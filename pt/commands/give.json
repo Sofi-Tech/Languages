@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} está na lista negra",
     "MEM_QUARANTINED": "Esse usuário está em quarentena",
     "NO_CODE": "{{author}}, você esqueceu de fornecer um código de carta",
-    "WRONG_USAGE": "{{author}} Uso correto: `sgive <usuário/ID do usuário> <código da carta>`",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}give <usuário/ID do usuário> <código da carta>`",
     "NO_CARD_FOUND": "Não foi possível encontrar nenhuma carta com o código: `{{code}}`",
     "CARD_LOCKED": "Essa carta está bloqueada e não pode ser oferecida! Se você ainda quiser oferecer essa carta, use o comando `suntag <código da carta>` para remover a `Tag` dessa carta",
     "CARD_NOT_OWNED": "Você não é mais o proprietário dessa carta",

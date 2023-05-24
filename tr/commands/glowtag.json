@@ -1,7 +1,7 @@
 {
     "GT_DESCRIPTION": "\"Glow\"larına \"Tag\" verir",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz herhangi bir `Glow Tags`ınız yok. `sgtc <Name> <Emoji>` komutu ile oluşturabilirsiniz",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz herhangi bir `Glow Tags`ınız yok. `{{prefix}}gtc <Name> <Emoji>` komutu ile oluşturabilirsiniz",
     "GLOWS_NOT_UNLOCKED": "{{author}} henüz hiç `Glow`unuz yok",
     "MISSING_GLOWTAG": "{{author}} `Glow Tag` sağlaman gerekiyor",
     "INVALID_GLOW_CODE": "{{author}} sağlanan `Glow` kodlarından bir veya birden fazlası geçersiz",

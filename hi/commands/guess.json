@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "शब्द खेल जानें",
-    "CORRECT_USAGE": "{{user}} **सही उपयोग: sguess <amount> <currency>**\n|`silvers` `wists` `gems` `cubes`",
+    "CORRECT_USAGE": "{{user}} **सही उपयोग: {{prefix}}guess <amount> <currency>**\n|`silvers` `wists` `gems` `cubes`",
     "NO_TP": "${message.author} के पास कोई सक्रिय ट्रेडपास नहीं है। रुंदी मारने के अंक साइट पर रखें ट्रेडपास प्राप्त करने के लिए",
     "NOT_ENOUGH_CURR": "{{user}} **| खेल शुरू करने के लिए आपके पास पर्याप्त संग्रहण नहीं है** `{{currency}}`",
     "INFO_1": "{{user}} ने शब्द खेल शुरू किया",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} अधिक खिलाड़ियों से अनुरोध करते हुए**",
     "GUESS_THE_WORD": "दिए गए शब्द को निकालो: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} सही {{word}} और {{jackpot}} {{currency}} जीता",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `sgive <user/userID> <cardcode>`"
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}give <user/userID> <cardcode>`"
 }

@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Membeli penawaran dari pasar",
-    "CORRECT_USAGE": "{{user}} | Penggunaan yang Benar: smp <id penawaran> [jumlah bintang]",
+    "CORRECT_USAGE": "{{user}} | Penggunaan yang Benar: {{prefix}}mp <id penawaran> [jumlah bintang]",
     "INVALID_DEAL_ID": "ID Penawaran Tidak Valid: Mohon Periksa Kembali",
     "CANNOT_PURCHASE": "{{user}} | Tidak dapat membeli penawaran tersebut",
     "CANNOT_SELF": "{{user}} | Anda tidak dapat membeli penawaran Anda sendiri",

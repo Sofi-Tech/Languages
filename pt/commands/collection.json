@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Todas as {{taglength}} cartas tiveram suas tags removidas com sucesso",
     "ALL_TAG_SUCCESS": "{{author}} Todas as {{taglength}} cartas tiveram suas tags adicionadas com sucesso",
     "PLEASE_WAIT": "Por favor, aguarde <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Você ainda não tem `Tags`. Você pode criá-las com o comando `stc <Nome da Tag> <Emoji>`"
+    "NO_TAG_FOUND": "Você ainda não tem `Tags`. Você pode criá-las com o comando `{{prefix}}tc <Nome da Tag> <Emoji>`"
 }

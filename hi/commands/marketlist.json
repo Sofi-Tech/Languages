@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "मार्केट में आइटम की सूची",
-    "CORRECT_USAGE": "{{user}} सही उपयोग: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} सही उपयोग: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} अमान्य जेम रेट",
     "GEM_RATE_LIES": "{{user}} जेम रेट 3.0-20.0 के बीच होना चाहिए",
     "ALREADY_EXISTS": "आपके पास एक मौजूदा सौदा है {{dealID}}\nलिस्टिंग फिर से करने से पहले सौदे को अनलिस्ट करें",

@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Bir kelime tahmin oyunu başlatır",
-    "CORRECT_USAGE": "{{user}} Doğru kullanım: `sguess <Amount> <Currency>`\nKabul edilen para birimleri: `silvers` `wists` `gems` `cubes`",
+    "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}guess <Amount> <Currency>`\nKabul edilen para birimleri: `silvers` `wists` `gems` `cubes`",
     "NO_TP": "{{message.author}} Etkin bir `Trade Pass`ınız yok. Web sitesini ziyaret etmek için `sbump` komutunu kullanın ve `Bump` puanlarınız ile `Trade Pass` alın",
     "NOT_ENOUGH_CURR": "{{user}} Oyuna başlamak için yeterli `{{currency}}` paranız yok!",
     "INFO_1": "{{user}} Bir tahmin oyunu başlattı",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}}, daha fazla oyuncu katılımı istedi**",
     "GUESS_THE_WORD": "Belirtilen kelimeyi tahmin et: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} doğru şekilde {{word}} tahmin etti ve {{jackpot}} {{currency}} kazandı",
-    "WRONG_USAGE": "{{author}} doğru kullanım: `sgive <user/userID> <cardcode>`"
+    "WRONG_USAGE": "{{author}} doğru kullanım: `{{prefix}}give <user/userID> <cardcode>`"
 }

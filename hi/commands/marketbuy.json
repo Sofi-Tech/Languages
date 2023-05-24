@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "मार्केट से डील खरीदें",
-    "CORRECT_USAGE": "{{user}} | सही उपयोग: smp <डील आईडी> [Wist राशि]",
+    "CORRECT_USAGE": "{{user}} | सही उपयोग: {{prefix}}mp <डील आईडी> [Wist राशि]",
     "INVALID_DEAL_ID": "अमान्य डील ID प्रदान किया गया: कृपया फिर से जाँच करें",
     "CANNOT_PURCHASE": "{{user}} | उस डील को खरीदने में असमर्थ",
     "CANNOT_SELF": "{{user}} | आप अपनी डील नहीं खरीद सकते",

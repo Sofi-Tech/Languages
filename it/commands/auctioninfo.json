@@ -8,7 +8,7 @@
   "AI_SERIES": "> Serie: {{series}}",
   "AI_TOP_BID": "> Offerta migliore: {{bids}}",
   "AI_STATUS": "> Stato: {{status}}",
-  "EMBED_FOOTER": "Usa sbid <auctionID> per fare l'offerta all'asta",
+  "EMBED_FOOTER": "Usa {{prefix}}bid <auctionID> per fare l'offerta all'asta",
   "EMPTY_AUCTION": "L'asta è vuota",
   "ID": "ID:",
   "ACTIVE": "Attivo",

@@ -8,7 +8,7 @@
   "AI_SERIES": "> Seri: {{series}}",
   "AI_TOP_BID": "> En Yüksek Teklif: {{bids}}",
   "AI_STATUS": "> Durum: {{status}}",
-  "EMBED_FOOTER": "Müzayede için sbid <müzayedeID> kullanın",
+  "EMBED_FOOTER": "Müzayede için {{prefix}}bid <müzayedeID> kullanın",
   "EMPTY_AUCTION": "Müzayede boş",
   "ID": "ID:",
   "ACTIVE": "Aktif",

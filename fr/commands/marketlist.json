@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Élément de liste sur le marché",
-    "CORRECT_USAGE": "{{user}} Utilisation correcte : sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Utilisation correcte : {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Taux de gemmes invalide",
     "GEM_RATE_LIES": "{{user}} Le taux de gemmes doit être compris entre 3,0 et 20,0",
     "ALREADY_EXISTS": "Vous avez un deal existant {{dealID}}\nRetrait du deal avant inscription à nouveau.",

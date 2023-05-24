@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "Deletes a \"Tag\"",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Correct usage: `sdt <TagName>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}dt <TagName>`",
     "TAG_NOT_FOUND": "{{author}} You don't have any `Tag` with that name",
     "SUCCESSFUL_DELETE_TAG": "{{author}} Deleted the `Tag` \"{{tag}}\""
 }

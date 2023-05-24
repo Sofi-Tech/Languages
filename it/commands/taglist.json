@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Quell'utente non esiste",
     "NO_TAGS": "{{author}} Impossibile trovare tag",
     "EMBED_TITLE": "Elenco dei tag: {{username}}",
-    "SOFI_FACT": "Le carte che sono in \"Tag\" con un lucchetto emoji \"🔒\" non possono essere bruciate o scambiate!\nEsempio: \"stc lock 🔒\"",
+    "SOFI_FACT": "Le carte che sono in \"Tag\" con un lucchetto emoji \"🔒\" non possono essere bruciate o scambiate!\nEsempio: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Conteggio tag: {{count}}"
 }

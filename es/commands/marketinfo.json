@@ -8,6 +8,6 @@
     "RATE": "Tarifa",
     "LISTED": "Listado",
     "NO_LISTINGS_FOUND": "{{user}} no has hecho ningún listado en el mercado",
-    "INFO": "Use `sml` y `smul` para deslistar\nUn solo acuerdo puede estar listado al mismo tiempo",
-    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar wist usa `smp <id>` [cantidad]"
+    "INFO": "Use `{{prefix}}ml` y `smul` para deslistar\nUn solo acuerdo puede estar listado al mismo tiempo",
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar wist usa `{{prefix}}mp <id>` [cantidad]"
 }

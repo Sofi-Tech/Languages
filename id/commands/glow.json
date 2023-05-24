@@ -1,7 +1,7 @@
 {
     "GLOW_DESCRIPTION": "Mengaplikasikan efek \"Glow\" ke kartu Anda",
     "GLOW_CATEGORY": "Kosmetik",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `sglow <KodeKartu> <KodeGlow>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}glow <KodeKartu> <KodeGlow>`",
     "WRONG_CARD": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "CARD_NOT_FOUND": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi Anda",
     "NO_GIF_CARDS": "{{author}} Anda tidak dapat mengaplikasikan `Glow` ke kartu `GIF`",

@@ -1,7 +1,7 @@
 {
     "TT_DESCRIPTION": "Ilipat ang mga kard mula sa isang tag papunta sa iba",
     "TT_CATEGORY": "Mga Tag",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `strt <pangalanNgLumangTag> <pangalanNgPanibagongTag>`",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}trt <pangalanNgLumangTag> <pangalanNgPanibagongTag>`",
     "TAG_NOT_FOUND": "Hindi mahanap ang tag na may pangalang: `{{tag}}`",
     "TRANSFER_TAG_SUCCESSFULL": "Matagumpay na nailagay ang lahat ng kard mula sa `{{fromTag}}` papuntang `{{toTag}}`"
 }

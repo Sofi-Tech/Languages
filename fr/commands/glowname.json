@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Changer le nom de l'éclat",
     "GN_CATEGORY": "Cosmétiques",
     "UNLOCK_GLOWS": "{{author}} débloque d'abord certains éclats",
-    "WRONG_USAGE": "{{author}} Usage correct : `sglowname [codeeclat] [nouveaunom]`",
+    "WRONG_USAGE": "{{author}} Usage correct : `{{prefix}}glowname [codeeclat] [nouveaunom]`",
     "WRONG_GLOWCODE_FORMAT": "Le code de l'éclat commence par `#`",
     "GLOW_NOT_FOUND": "{{author}} ne pouvait pas trouver cet éclat sur votre palette. Le code est-il correct ?",
     "PROVIDE_GLOW_NAME": "{{author}} fournir le nom de l'éclat",

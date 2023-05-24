@@ -1,7 +1,7 @@
 {
     "BID_DESCRIPTION": "Bid in the auctions",
     "BID_CATEGORY": "Cards",
-    "WRONG_USAGE": "{{author}} correct Usage: `sbid <auctionID> <amount>`",
+    "WRONG_USAGE": "{{author}} correct Usage: `{{prefix}}bid <auctionID> <amount>`",
     "INVALID_ID": "{{author}} You provided an invalid `Auction` ID",
     "INVALID_AMOUNT": "{{author}} amount must be a number",
     "NO_AMOUNT": "{{author}} you do not have {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
     "OUTBIDDED": "You are outbidded in auction ID `{{auctionId}}`",
     "SUCCESSFUL_BID": "The bid was placed successfully",
     "EMBED_BID_TITLE": "SOFI: AUCTION [{{auctionId}}]",
-    "EMBED_BID_DESCRIPTION": "> Welcome to SOFI Auction:\n> Use `sbid <auctionID> <amount>` to place the bid on the card\n> Note: The bids will be anonymous",
+    "EMBED_BID_DESCRIPTION": "> Welcome to SOFI Auction:\n> Use `{{prefix}}bid <auctionID> <amount>` to place the bid on the card\n> Note: The bids will be anonymous",
     "CARD_DETAILS": "Card details",
     "BID_GEN": "> Gen: `{{gen}}`",
     "BID_NAME": "> Name: {{name}}",

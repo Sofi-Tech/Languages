@@ -8,6 +8,6 @@
     "RATE": "Taux",
     "LISTED": "Listé",
     "NO_LISTINGS_FOUND": "{{user}} vous n'avez pas encore fait d'annonces sur le marché",
-    "INFO": "Utilisez `sml` et`smul` pour supprimer une annonce\nUne seule annonce peut être publiée à la fois",
-    "FOOTER": "Affichage de 1-{{pages}} de {{total}} | Pour acheter, utilisez smp <id> [montant]"
+    "INFO": "Utilisez `{{prefix}}ml` et`smul` pour supprimer une annonce\nUne seule annonce peut être publiée à la fois",
+    "FOOTER": "Affichage de 1-{{pages}} de {{total}} | Pour acheter, utilisez {{prefix}}mp <id> [montant]"
 }

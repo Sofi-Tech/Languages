@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} काल सूची में है",
     "MEM_QUARANTINED": "उपयोगकर्ता क्वारंटाइन है",
     "NO_CODE": "{{author}} आपने कार्ड कोड देना भूल गए",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `sgive <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}give <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "कोई कार्ड कोड नहीं मिला: `{{code}}`",
     "CARD_LOCKED": "कार्ड लॉक हो गया है और दिया नहीं जा सकता है। कार्ड को अनटैग करें जारी रखने के लिए।",
     "CARD_NOT_OWNED": "आप अब कार्ड का मालिक नहीं हो",

@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Deze gebruiker bestaat niet",
     "NO_TAGS": "{{author}} Geen tags gevonden",
     "EMBED_TITLE": "Tag Lijst: {{username}}",
-    "SOFI_FACT": "Sofi feit: Maak een tag met stc lock 🔒\nVergrendelde kaarten kunnen niet worden verbrand, gegeven, verhandeld\nof massaal verbrand",
+    "SOFI_FACT": "Sofi feit: Maak een tag met {{prefix}}tc lock 🔒\nVergrendelde kaarten kunnen niet worden verbrand, gegeven, verhandeld\nof massaal verbrand",
     "EMBED_FOOTER": "Aantal tags: {{count}}"
 }

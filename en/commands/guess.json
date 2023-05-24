@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Starts a word guessing game",
-    "CORRECT_USAGE": "{{user}} Correct usage: `sguess <Amount> <Currency>`\nAccepted currencies: `Silver` `Wists` `Gems` `Cubes`",
+    "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}guess <Amount> <Currency>`\nAccepted currencies: `Silver` `Wists` `Gems` `Cubes`",
     "NO_TP": "{{message.author}} You have no active `Trade Pass`. Use the command `sbump` to visit the website and exchange your `Bump` points for one",
     "NOT_ENOUGH_CURR": "{{user}} You don't have enough `{{currency}}` to start the game!",
     "INFO_1": "{{user}} has started a game of Guess",
@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} You need at least 2 players before you can start the game",
     "GUESS_THE_WORD": "Guess the given word: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} guessed the word {{word}} correctly and won `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Correct usage: `sgive <user/userID> <cardcode>"
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}give <user/userID> <cardcode>"
 }

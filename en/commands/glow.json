@@ -1,7 +1,7 @@
 {
     "GLOW_DESCRIPTION": "Applies a \"Glow\" effect to your card",
     "GLOW_CATEGORY": "Cosmetics",
-    "WRONG_USAGE": "{{author}} Correct usage: `sglow <CardCode> <GlowCode>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glow <CardCode> <GlowCode>`",
     "WRONG_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
     "CARD_NOT_FOUND": "{{author}} You do not have any cards in your collection yet",
     "NO_GIF_CARDS": "{{author}} You cannot apply a `Glow` to a `GIF` card",

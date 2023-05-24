@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Marketteki ürünlerin listesi",
-    "CORRECT_USAGE": "{{user}} Doğru kullanım: sml <wist> <rate>",
+    "CORRECT_USAGE": "{{user}} Doğru kullanım: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Geçersiz taş oranı",
     "GEM_RATE_LIES": "{{user}} Taş oranı 3.0-20.0 arasında olmalı",
     "ALREADY_EXISTS": "Listelemeye çalıştığınız anlaşma zaten var {{dealID}}\nTekrar listelemek için anlaşmayı işlem dışı bırakın",
