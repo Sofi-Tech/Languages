@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} önce bazı parıltıları açmalı!",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}glowname [parıltı kodu] [yeni ad]`",
     "WRONG_GLOWCODE_FORMAT": "Parıltı kodu `#` ile başlar",
-    "GLOW_NOT_FOUND": "{{author}} paletinizde o parıltıyı bulamadı. Kod doğru mu?",
+    "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya envanterinizde yok",
     "PROVIDE_GLOW_NAME": "{{author}} parıltı adını girin",
     "GLOW_NAME_LONG": "{{author}} parıltı adı çok uzun. 25 harften az deneyin",
     "GLOW_NAME_EXISTS": "Parıltı adı zaten alınmış...Yenilik yapın 😎",

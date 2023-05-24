@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} primero desbloquea algunos `Glows`",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}glowname [códigoresplandor] [nuevonombre]`",
     "WRONG_GLOWCODE_FORMAT": "El código del resplandor comienza con `#`",
-    "GLOW_NOT_FOUND": "{{author}} no pudo encontrar ese resplandor en tu paleta. ¿El código es correcto?",
+    "GLOW_NOT_FOUND": "{{author}} el codigó de `Glow`ingresado es invalido o no se encuentra en su inventario",
     "PROVIDE_GLOW_NAME": "{{author}} proporciona el nombre del resplandor",
     "GLOW_NAME_LONG": "{{author}} el nombre del resplandor es demasiado largo. Intente con menos de 25 letras",
     "GLOW_NAME_EXISTS": "El nombre del resplandor ya está en uso...Innovar 😎",
