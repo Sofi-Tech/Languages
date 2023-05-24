@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "Sends a trade request to another player. You can trade multiple cards and items simultaneously with this feature",
-    "IN_ACTIVE_TRADE": "{{author}} you are already in a active trade! Cancel the previous one to start a new one",
     "MENTION_USER": "{{author}} Mention a user you want to trade with or use their ID",
-    "IN_TRADE": "{{user}} is currently trading already!",
     "BOT_TRADE": "{{author}} You cannot trade with a `Bot`",
     "SELF_TRADE": "{{author}} You cannot trade with yourself",
     "NOT_REGISTERED": "{{user}} is not registered yet!",

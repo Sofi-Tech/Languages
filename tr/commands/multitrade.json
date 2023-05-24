@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "Bu size diğer oyuncularla oyun içi ögeleri değiştirme olanağı sağlar",
-    "IN_ACTIVE_TRADE": "{{author}} zaten bir aktif takas işlemindesiniz! Yeni bir başlatmak için önce öncekini iptal edin",
     "MENTION_USER": "Lütfen birisini etiketleyin veya geçerli bir kimlik sağlayın",
-    "IN_TRADE": "{{user}} zaten bir aktif takas işlemindesinde! Yeni bir başlatmak için önce öncekini iptal edin",
     "BOT_TRADE": "Merhaba? Botla takas yapmaya çalışıyor musunuz???",
     "SELF_TRADE": "Kendinizle takas yapamazsınız",
     "NOT_REGISTERED": "{{user}} kayıtlı değil, takas işlemi iptal ediliyor",

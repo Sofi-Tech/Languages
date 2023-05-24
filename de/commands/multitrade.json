@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "Damit können Sie Ingame-Items mit anderen Spielern austauschen",
-    "IN_ACTIVE_TRADE": "{{author}} Sie befinden sich bereits in einem aktiven Handel! Stornieren Sie den vorherigen, um einen neuen zu starten",
     "MENTION_USER": "Bitte erwähnen Sie jemanden oder geben Sie eine gültige ID an",
-    "IN_TRADE": "{{user}} ist bereits in einem aktiven Handel! Stornieren Sie den vorherigen, um einen neuen zu starten",
     "BOT_TRADE": "Hallo? Versuchen Sie, mit dem Bot zu handeln???",
     "SELF_TRADE": "Sie können nicht mit sich selbst handeln",
     "NOT_REGISTERED": "{{user}} ist nicht registriert, den Handel abbrechen",

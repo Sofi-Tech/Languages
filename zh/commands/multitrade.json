@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "这使您可以与其他玩家交换游戏中的物品",
-    "IN_ACTIVE_TRADE": "{{author}}，您已处于完整交易状态！请取消先前的交易以开始新交易。",
     "MENTION_USER": "请提及某人或提供有效 id",
-    "IN_TRADE": "{{user}} 已经处于完整交易状态！请取消先前的交易以开始新交易。",
     "BOT_TRADE": "你好？尝试与机器人交易？？？",
     "SELF_TRADE": "你不能与自己交易",
     "NOT_REGISTERED": "{{user}} 未注册，取消交易",

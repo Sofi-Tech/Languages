@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "Memungkinkan Anda untuk bertukar item dalam game dengan pemain lain",
-    "IN_ACTIVE_TRADE": "{{author}} Anda sudah melakukan trading yang aktif! Batalkan trading sebelumnya untuk memulai yang baru",
     "MENTION_USER": "Harap mention seseorang atau berikan id yang valid",
-    "IN_TRADE": "{{user}} sudah melakukan trading yang aktif! Batalkan trading sebelumnya untuk memulai yang baru",
     "BOT_TRADE": "Halo? Mencoba melakukan trading dengan bot???",
     "SELF_TRADE": "Anda tidak dapat melakukan trading dengan diri sendiri",
     "NOT_REGISTERED": "{{user}} tidak terdaftar, membatalkan trading",

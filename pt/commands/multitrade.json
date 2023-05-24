@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "Permite trocar itens dentro do jogo com outros jogadores",
-    "IN_ACTIVE_TRADE": "{{author}} você já está em uma troca ativa! Cancele a anterior para iniciar uma nova",
     "MENTION_USER": "Por favor mencione alguém ou forneça um ID válido",
-    "IN_TRADE": "{{user}} já está em uma troca ativa! Cancele a anterior para iniciar uma nova",
     "BOT_TRADE": "Olá? Tentando negociar com um bot???",
     "SELF_TRADE": "Você não pode negociar consigo mesmo",
     "NOT_REGISTERED": "{{user}} não está registrado, cancelando a troca",

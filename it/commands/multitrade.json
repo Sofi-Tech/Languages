@@ -1,8 +1,6 @@
 {
     "DESCRIPTION": "Questo ti consente di scambiare oggetti in gioco con altri giocatori",
-    "IN_ACTIVE_TRADE": "{{author}} sei già in un commercio attivo! Annulla quello precedente per avviarne uno nuovo",
     "MENTION_USER": "Menziona qualcuno o fornisci un ID valido",
-    "IN_TRADE": "{{user}} è già in un commercio attivo! Annulla quello precedente per avviarne uno nuovo",
     "BOT_TRADE": "Ciao? Stai cercando di commerciare con il bot???",
     "SELF_TRADE": "Non puoi scambiare con te stesso",
     "NOT_REGISTERED": "{{user}} non è registrato. Annullando il commercio",
