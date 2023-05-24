@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "-您可以使用'cl'命令查找某个角色。在字符查找菜单中，您可以检查卡片的统计数据，它们的3D和动画图像，gen页首，fan排行榜和卡片ID。提交版本的图像时需要卡片ID。",
     "CHAR_NOT_FOUND": "没有找到你要找的角色",
-    "CHAR_NF_SENSITIVE": "没有找到任何角色，请注意大小写",
+    "CHAR_NF_SENSITIVE": "没有找到任何角色，请注意输入 lookup 的大小写",
     "EMBED_TITLE": "__角色查找__",
     "NORMAL_LABEL": "普通版本",
     "FAN_PTS_LABEL": "添加粉丝积分",

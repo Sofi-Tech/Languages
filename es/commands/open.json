@@ -14,5 +14,7 @@
     "ITEMS_FOUND": "Objetos obtenidos:\n",
     "COMMON_RARE_FOOTER": "Puedes obtener un Cofre {{chestName}} por cada racha diaria de {{count}}",
     "EXOTIC_DIVINE_FOOTER": "Puedes obtener un Cofre {{chestName}} por {{count}} votos cada mes",
-    "ITEM_MISSING": "No tienes {{itemName}} en tu inventario"
+    "ITEM_MISSING": "No tienes {{itemName}} en tu inventario",
+    "NAME": "Nombre",
+    "DESCRIPTION": "Abre cofres y lootbox"
 }

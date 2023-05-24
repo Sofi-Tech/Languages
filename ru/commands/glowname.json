@@ -1,7 +1,7 @@
 {
     "GN_DESCRIPTION": "Измените имя свечения",
     "GN_CATEGORY": "Косметика",
-    "UNLOCK_GLOWS": "{{author}} У вас нет `Свечения`",
+    "UNLOCK_GLOWS": "{{author}} У вас нет никаких `Glows`",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}glowname [glowcode] [newname]`",
     "WRONG_GLOWCODE_FORMAT": "Код свечения начинается с `#`",
     "GLOW_NOT_FOUND": "{{author}} не удалось найти это свечение в вашей палитре. Код верен?",

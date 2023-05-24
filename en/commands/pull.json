@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Pulls different items like swap, charms and animated card fragments",
-    "PULL_AMT": "{{user}} provide pull amount either 1 or 10",
-    "INFO_1": "Chance of getting a fragment is 12%",
-    "INFO_2": "Chances of getting charms and swaps are low",
-    "INFO_3": "Every animated character needs 8 fragments",
-    "INFO_4": "Every character has 100 non repetitive gens",
-    "INFO_5": "Thereafter remaining frags can be burned to get a charm",
+    "DESCRIPTION": "\"Pulls\" from a pool of various \"Items\" including \"Charms\" and \"Fragments\" for animated cards",
+    "PULL_AMT": "{{author}} Enter the amount of `Pulls` you want to perform. This can either be **1** or **10**",
+    "INFO_1": "The chance of getting a `Fagment` is **12%**",
+    "INFO_2": "The chances of obtaining `Charms` and `Swaps` are {{chance1}}% & {{chance2}}% respectively",
+    "INFO_3": "You need 8 `Fragments` to create a `GIF` variant of a character",
+    "INFO_4": "`GIF` variants of a character have 100 unique `Gens`",
+    "INFO_5": "Remaining `Fragments` can be burned to obtain a `Charm`",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Pull count: {{count}}",
-    "MISSING_CURR": "{{user}} don't have {{amount}} {{currName}}",
+    "MISSING_CURR": "{{user}} You don't have **{{amount}}** `{{currName}}`",
     "AMOUNT": "Amount: {{amount}}",
-    "PULL_COUNT_WIST": "Pull Count: {{pullcount}} | You can buy wist from smarket"
+    "PULL_COUNT_WIST": "Pull Count: {{pullcount}}"
 }
