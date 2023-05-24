@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "ウィッシュリストを表示します",
     "CATEGORY": "ウィッシュリスト",
-    "USER_NOT_FOUND": "ユーザーが見つかりません。",
+    "USER_NOT_FOUND": "そのユーザーが見つかりません",
     "WISHLIST_PRIVATE": "> そのユーザーのウィッシュリストは非公開です",
     "WISHLIST_EMPTY": "> {{username}}さんのウィッシュリストは、私の心と同じく空です 💔",
     "WISHLIST_EMBED_TITLE": "{{username}}さんのウィッシュリスト [{{length}}/{{slots}}]",

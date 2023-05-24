@@ -3,6 +3,6 @@
     "CORRECT_USAGE": "{{user}} | Fornisci l'ID dell'affare o usa il comando `smull all` per rimuovere tutti gli affari in una sola volta",
     "INVALID_DEAL_ID": "{{author}} l'ID per l'affare che hai dato non è valido. Perfavore assicurati che questo affare è elencato da te",
     "SUCCESS_UL": "{{user}} l'affare {{dealId}} è stato rimosso con successo dal mercato",
-    "NO_LISTINGS_FOUND": "{{user}} non hai ancora pubblicato alcun annuncio nel mercato",
+    "NO_LISTINGS_FOUND": "{{user}} noal momento non hai alcun annuncio nel mercato",
     "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} affari sono stati rimossi con successo dal mercato"
 }
