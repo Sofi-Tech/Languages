@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "\"Shop\"tan ürün satın al\nSofi'nin ürün yelpazesine göz atmak için \"sshop\" komutunu kullan",
+    "DESCRIPTION": "\"Shop\"u açıp size Sofi nin ürün yelpazesini gösterir",
     "SLASH_DESC": "Satın almak istediğiniz `Item` adını girin",
     "SLASH_DESC2": "Miktarı gir",
     "SLASH_DESC3": "Satın almak istediğin `Background`'un kodunu gir. [YALNIZCA ITEM BACKGROUND OLARAK SEÇİLİ İSE ÇALIŞIR]",
@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{USER}} Doğru kullanım: `{{prefix}}buy bg <BackgroundID> <miktar>`",
     "INVALID_BG_AMOUNT": "Negatif miktar girme",
     "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirt",
-    "NO_ITEM_PROVIDED": "Hiçbir öğe belirtilmedi",
+    "NO_ITEM_PROVIDED": "Hiçbir `Item` belirtilmedi",
     "INVALID_AMOUNT": "Geçersiz miktar sağlandı",
-    "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz öğe belirtildi"
+    "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz `Item` belirtildi"
 }
