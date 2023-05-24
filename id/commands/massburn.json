@@ -3,7 +3,7 @@
     "IN_ACTIVE_MB": "{{user}} Anda tidak dapat memulai pembakaran massal baru, saat Anda memiliki pembakaran aktif yang sedang berlangsung. Harap lanjutkan atau batalkan pembakaran massal yang ada terlebih dahulu",
     "PROVIDE_FILTERS": "Sediakan filter yang ingin Anda terapkan pada proses pembakaran! `t=<NamaTag>, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} Nama `Tag` yang Anda berikan tidak valid",
-    "NO_CARDS_FOUND": "{{author}} Anda belum memiliki kartu apa pun dalam inventaris Anda",
+    "NO_CARDS_FOUND": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi Anda",
     "CARDS_BURNED": "Kartu yang dibakar **{{totalCards}}**",
     "CONFIRM_ASK": "Apakah Anda yakin ingin membakar kartu-kartu di atas? Proses ini tidak dapat diubah",
     "MISSING_CARDS": "{{author}} Setidaknya salah satu kartu dari `Tag` yang Anda pilih tidak lagi ada dalam koleksi Anda",

@@ -1,1 +1,16 @@
-{}
+{
+    "RG_DESCRIPTION": "Recarrega um \"Brilho\" vazio",
+    "RG_CATEGORY": "Mostra a \"Loja de Background\"",
+    "UNLOCK_GLOWS": "{{author}} Você ainda não tem `Brilhos`",
+    "NO_GLOWCDE": "{{author}}Você precisa fornecer um código de`Brilho`",
+    "INVALID_DC_MOVIES": "{{author}} Os códigos `Brilhos` sempre começam com um **#**",
+    "GLOW_NOT_FOUND": "{{author}} O código do `Brilho` fornecido é inválido",
+    "GLOW_AVAILABLE": "{{author}} Esse `Brilho` já está carregado",
+    "EMBED_TITLE": "SOFI: RECARGA DE BRILHO",
+    "CANCEL_RECHARGE": "Processo cancelado",
+    "RECHARGE_CONFIRMATION": "Você está prestes a reabastecer:\n\n**{{name}}**\nCódigo: `{{glowCode}}`\nCusto: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "ARE_YOU_SURE": "Você tem certeza?",
+    "SUCCESSFUL_RECHARGE": "Seu `Brilho` foi recarregado com sucesso!",
+    "NO_MONEY": "Você não tem `Recargas`o suficiente! Compre algumas e tente novamente",
+    "SUPER_RECHARGE_CONFIRMATION": "Você está preste a recarregar:\n\n**{{name}} (Super)**\nCódigo: `{{glowCode}}`\nCusto: **{{cost}} **:recharge_sofi:"
+}

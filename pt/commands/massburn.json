@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Queime todas as suas cartas",
-    "IN_ACTIVE_MB": "{{user}} você já está com o comando massburn ativo.\n Cancelar o último comando ou queime as cartas do último comando para começar um novo mass burn",
-    "PROVIDE_FILTERS": "Forneça um filtro para filtrar a coleção: t=nome_da_tag, g>=<=ger, wl>=<=wishlist",
-    "WRONG_TAG": "tag fornecida incorreta. Por favor, verifique novamente",
-    "NO_CARDS_FOUND": "{{user}} você ainda não reivindicou nenhuma carta",
-    "CARDS_BURNED": "Cartas Queimadas [${totalCards}]",
-    "CONFIRM_ASK": "Você tem certeza de que deseja queimar essas cartas?",
-    "MISSING_CARDS": "Uma das cartas da coleção massburn está faltando. Tente o comando novamente",
+    "DESCRIPTION": "Queima muitas cartas de uma vez",
+    "IN_ACTIVE_MB": "{{user}} Você não pode começar um novo massburn enquanto já tem um ativo. Por favor, prossiga ou cancele o massburn ativo primeiro",
+    "PROVIDE_FILTERS": "Forneça os filtros que deseja aplicar para o processo de queimar! `t=<TagName>, g><=gen, wl><=wishlist`",
+    "WRONG_TAG": "{{author}} A `Tag` fornecida é inválida",
+    "NO_CARDS_FOUND": "{{author}} Você não tem nenhuma carta em sua coleção",
+    "CARDS_BURNED": "Cartas Queimadas **{{totalCards}}**",
+    "CONFIRM_ASK": "Você tem certeza de que deseja queimar as cartas acima? Esse processo é irreversível",
+    "MISSING_CARDS": "{{author}} Pelo menos uma das cartas da sua `Tags`selecionada não está mais na sua coleção",
     "SUCCESS": "Cartas foram queimadas com sucesso",
     "BURN_REWARDS": "Recompensas de Queima",
-    "CANCELLED": "Cancelado"
+    "CANCELLED": "O massburn foi cancelado"
 }

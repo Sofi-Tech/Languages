@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Mostra as ofertas listadas no mercado",
-    "NO_LISTING_FOUND": "Nenhuma oferta encontrada",
+    "DESCRIPTION": "Mostra o mercado Sofi",
+    "NO_LISTING_FOUND": "Não foi possível encontrar nenhuma listagem",
     "STOCK": "Estoque",
     "RATE": "Taxa",
-    "MARKET_WARN": "Não use o mercado para armazenar ou esconder desejos.\nEles serão removidos sem compensação.\nTaxa Média : {{averageRate}} Total de Negociações : {{totalTrades}}",
-    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use smp <id> [quantidade]"
+    "MARKET_WARN": "Não use o mercado para armazenar ou esconder `Wists`!\nSe você for pego fazendo isso, os `Wists`serão removidos sem compensação.\n`Taxa Média : {{averageRate}}` `Total de Negociações : {{totalTrades}}`",
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use `smp <ID>`para comprar `Wists`!"
 }
