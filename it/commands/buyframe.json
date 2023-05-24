@@ -4,12 +4,12 @@
     "NO_FRAME_NAME": "{{author}} perfavore fornisci il nome del `Frame` che vuoi comprare",
     "NO_FRAMECODE_FOUND": "{{author}} non è stato possibile trovare il `frame` con il codice `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} questo frame al momento non è disponibile. Perfavore una usa il comando`sfs,` Per controllare i `Frame` disponibili al momento",
-    "NO_FRAME_FOUND": "{{author}} | Nessuna cornice trovata",
-    "FRAME_NOT_PURCHASABLE": "{{author}} non può acquistare quella cornice",
-    "EMBED_TITLE": "TRANSAZIONE:",
+    "NO_FRAME_FOUND": "{{author}} | Non esiste nessun `frame`con quel codice",
+    "FRAME_NOT_PURCHASABLE": "{{author}} questo `frame` è limitato e non può più essere acquistato",
+    "EMBED_TITLE": "TRANSAZIONE",
     "YOU_GET": "Ottieni:",
     "YOU_PAY": "Paghi:",
     "TRANSACTION": "TRANSAZIONE",
-    "NO_ENOUGH_AMOUNT": "Non hai abbastanza denaro per comprare la cornice",
-    "FRAME_PURCHASED_BY": "La tua cornice `{{frame}}` è stata acquistata da `{{userId}}` {{buyCount}}"
+    "NO_ENOUGH_AMOUNT": "Non hai abbastanza valuta per fare questa transazione",
+    "FRAME_PURCHASED_BY": "Il tuo `frame`**{{frame}}** è stato acquistato da `{{userId}}`| {{buyCount}}"
 }
