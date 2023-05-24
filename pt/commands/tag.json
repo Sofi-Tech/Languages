@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Marca a carta",
-    "TAG_CATEGORY": "Categorias",
-    "WRONG_USAGE": "Por favor, forneça um nome para a categoria.",
-    "NO_TAGS_CREATED": "Apreciamos o esforço de marcação, mas não foram encontradas categorias. Crie uma categoria usando o comando `stc`.",
-    "TAG_NOT_FOUND": "Você não possui nenhuma categoria com o nome `{{tag}}`",
-    "NO_CARDS_CLAIMED": "Você ainda não solicitou nenhuma carta.",
+    "TAG_DESCRIPTION": "Coloca suas cartas e suas \"Tags\"",
+    "TAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Por favor, forneça um nome para a `Tag`",
+    "NO_TAGS_CREATED": "{{author}} Você ainda não tem nenhuma `Tags`. Você pode criá-las com o comando `stc <TagName> <Emoji>`",
+    "TAG_NOT_FOUND": "{{author}} Você não possui nenhuma `Tag` com o nome `{{tag}}`",
+    "NO_CARDS_CLAIMED": "{{author}} Você ainda não tem nenhuma carta em sua coleção",
     "INVALID_CARD_CODE": "{{author}} O código de carta fornecido é inválido",
-    "SUCCESSFUL_TAG": "{{author}} | Carta {{card}} marcada com sucesso como `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} As cartas foram marcadas com sucesso."
+    "SUCCESSFUL_TAG": "{{author}} Carta **{{card}}** marcada com sucesso como `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas as cartas foram `Marcadas` com sucesso."
 }

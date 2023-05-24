@@ -1,12 +1,12 @@
 {
-    "BG_DESCRIPTION": "使用在3D卡片上购买的背景",
+    "BG_DESCRIPTION": "在3D卡片上使用“背景”",
     "BG_CATEGORY": "化妆品",
     "WRONG_USAGE": "{{author}} `{{prefix}}bg <code> <bgID>`",
-    "INVALID_CODE": "{{author}} 提供的卡片代码无效",
-    "APPLY_GIF_CARDS": "{{author}} 不支持在gif卡片上应用背景",
+    "INVALID_CODE": "{{author}} 您提供的卡片代码无效",
+    "APPLY_GIF_CARDS": "{{author}} 您不能在非3D卡上使用“背景”",
     "APPLY_3D_CARDS": "{{author}} 背景只能应用到3D卡片上",
-    "BG_NOT_FOUND": "找不到背景。",
+    "BG_NOT_FOUND": "无法找到任何具有该ID的`背景'",
     "EMBED_TITLE": "应用背景：",
-    "EMBED_DESCRIPTION": "您将应用 {{background}}\n您的卡片将如下所示",
-    "USER_NO_BG": "您没有该背景"
+    "EMBED_DESCRIPTION": "您将应用 {{background}}\n您的卡片将如图所示",
+    "USER_NO_BG": "您没有该“背景”"
 }

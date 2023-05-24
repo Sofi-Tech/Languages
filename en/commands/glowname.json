@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} You do not have any `Glows`",
     "WRONG_USAGE": "{{author}} Correct usage: `sglowname [glowcode] [newname]`",
     "WRONG_GLOWCODE_FORMAT": "Glowcode starts with `#`",
-    "GLOW_NOT_FOUND": "{{author}} couldn't find that glow in your palette. Is the code correct?",
+    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
     "PROVIDE_GLOW_NAME": "{{author}} provide the glow name",
     "GLOW_NAME_LONG": "{{author}} glow name is too long. Try less than 25 letters",
     "GLOW_NAME_EXISTS": "The glow name is already taken...Innovate 😎",
