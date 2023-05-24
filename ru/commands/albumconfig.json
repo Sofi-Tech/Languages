@@ -1,5 +1,5 @@
 {
-  "AC_DESCRIPTION": "Настройте свой альбом",
-  "AC_CATEGORY": "Альбом",
-  "CONFIGURE_ALBUM": "Создавайте и редактируйте свои альбомы на сайте: <https://sofi.gg/albums>"
+    "AC_DESCRIPTION": "Настраивает ваш \"Album\"",
+    "AC_CATEGORY": "Album",
+    "CONFIGURE_ALBUM": "Создавайте и редактируйте свои `Albums` на сайте: <https://sofi.gg/albums{{albumName}}>"
 }
