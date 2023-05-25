@@ -2,7 +2,7 @@
     "SG_DESCRIPTION": "Gabungkan dua kilauan untuk membuat kilauan super",
     "SG_CATEGORY": "Kosmetik",
     "NO_GLOWS": "{{author}} Anda belum memiliki 'Glow' apapun",
-    "GLOW_CODES_MISSING": "kode kilauan {{author}} tidak lengkap | `ssuperglow [glowcode1] [glowcode2]`",
+    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar : `{{prefix}}sg <GlowCode1> <GlowCode2>`",
     "GLOW_NOT_FOUND": "{{author}} tidak dapat menemukan kilauan.. Silakan periksa kode lagi",
     "UNAVAILABLE_GLOW": "{{author}} salah satu kilauan tidak tersedia. Silakan periksa lagi..",
     "NO_USE_SG": "{{author}} tidak dapat menggunakan kilauan super untuk membentuk super kilauan",
