@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Compre itens da \"Shop\"\nUse o comando \"sshop\" para navegar a seleção da Sofi",
+    "DESCRIPTION": "Compra \"Items\" da \"Loja\" do Sofi",
     "SLASH_DESC": "Digite o nome do `Item` que você deseja comprar",
     "SLASH_DESC2": "Digite a quantidade",
     "SLASH_DESC3": "Digite o código do `Background` que você deseja comprar. [FUNCIONA APENAS SE O ITEM FOR SELECIONADO COMO BACKGROUND]",
@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{USER}} Uso correto: `{{prefix}}buy bg <ID do Background> <quantidade>`",
     "INVALID_BG_AMOUNT": "Não digite valores negativos",
     "INVALID_BG_ID": "Por favor, forneça um ID de `Background` válido",
-    "NO_ITEM_PROVIDED": "Nenhum item fornecido",
+    "NO_ITEM_PROVIDED": "Nenhum `Item` fornecido",
     "INVALID_AMOUNT": "Quantidade inválida fornecida",
-    "INVALID_ITEM_PROVIDED": "{{USER}} Item fornecido é inválido"
+    "INVALID_ITEM_PROVIDED": "{{USER}} `Item` fornecido é inválido"
 }
