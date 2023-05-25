@@ -14,5 +14,6 @@
     "FORM_SG_CONFIRM": "Stai per creare una Super Glow:**\n\n{{glowCodes}}\n\n**Creazione Super Glow in corso...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
     "CANNOT_FORM_SG": "Non puoi creare una Super Glow",
     "MISSING_RESINS": "Ti mancano le resine",
-    "SUPER_GLOW_SUCCESSFULL": "La creazione della Super Glow è stata un successo**\n\n{{glowCodes}}\n\n**Creazione Super Glow in corso...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+    "SUPER_GLOW_SUCCESSFULL": "La creazione della Super Glow è stata un successo**\n\n{{glowCodes}}\n\n**Creazione Super Glow in corso...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+    "FORM_SG_FOOTER": "Tutti i bagliori utilizzati in questo processo verranno distrutti! Questo processo è irreversibile, disponibile e non disponibile"
 }
