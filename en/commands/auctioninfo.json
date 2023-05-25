@@ -8,8 +8,8 @@
     "AI_SERIES": "> Series: {{series}}",
     "AI_TOP_BID": "> Top Bid: {{bids}}",
     "AI_STATUS": "> Status: {{status}}",
-    "EMBED_FOOTER": "Use the command `{{prefix}}bid <AuctionID>` to place a bid on an auction",
-    "EMPTY_AUCTION": "There are no auctions currently",
+    "EMBED_FOOTER": "Use the command `{{prefix}}bid <AuctionID>` to place a bid on an `Auction`",
+    "EMPTY_AUCTION": "There are no `Auctions` taking place currently",
     "ID": "ID:",
     "ACTIVE": "Active",
     "ENDED": "Ended",
@@ -17,5 +17,5 @@
     "ONGOING": "Ongoing (Ends in: {{time}})",
     "OVER": "Ended",
     "EMBED_AUCTIONS_TITLE": "SOFI: AUCTIONS",
-    "EMBED_AUCTIONS_FOOTER": "Showing page: {{page}}/{{totalPages}} | Use the command `sai <auctionID>` for more details"
+    "EMBED_AUCTIONS_FOOTER": "Showing page: {{page}}/{{totalPages}} | Use the command `sai <AuctionID>` for more details"
 }

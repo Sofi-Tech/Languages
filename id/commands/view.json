@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Lihat kartu kamu",
-    "SLASH_DESC1": "Masukkan kode kartu.",
-    "INVALID_CODE": "Kode yang kamu berikan tidak valid. Silakan berikan kode yang valid.",
-    "SERIES": "Seri",
-    "NAME": "Nama",
-    "OWNED_BY": "Dimiliki oleh",
+    "DESCRIPTION": "Tampilkan sebuah kartu",
+    "SLASH_DESC1": "Masukkan kode kartu",
+    "INVALID_CODE": "{{author}} Kode kartu tidak valid",
+    "SERIES": "Seri:",
+    "NAME": "Nama:",
+    "OWNED_BY": "Dimiliki oleh:",
     "SERVER": "Server",
     "CLAIMED": "Telah Diklaim",
-    "MOVES": "Gerakan",
+    "MOVES": "Kemampuan:",
     "OWNER_HISTORY": "Riwayat Pemilik",
     "CARD_VIEW": "LIHAT KARTU"
 }

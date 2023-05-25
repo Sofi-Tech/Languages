@@ -1,16 +1,16 @@
 {
-    "GN_DESCRIPTION": "Ubah nama glow",
+    "GN_DESCRIPTION": "Mengubah nama \"Glow\"",
     "GN_CATEGORY": "Kosmetik",
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
-    "WRONG_USAGE": "{{author}} Penggunaan yang Benar: `{{prefix}}glowname [kodeglow] [namabaru]`",
-    "WRONG_GLOWCODE_FORMAT": "Kode glow dimulai dengan `#`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang Benar: `{{prefix}}glowname [GlowCode] [NamaBaru]`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
     "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang Anda berikan tidak valid atau tidak ada dalam inventaris Anda",
-    "PROVIDE_GLOW_NAME": "{{author}} berikan nama glow",
-    "GLOW_NAME_LONG": "{{author}} nama glow terlalu panjang. Coba kurangi menjadi kurang dari 25 huruf",
-    "GLOW_NAME_EXISTS": "Nama glow sudah digunakan...Coba yang lain 😎",
+    "PROVIDE_GLOW_NAME": "{{author}} Anda perlu memberikan nama untuk `Glow` ini",
+    "GLOW_NAME_LONG": "{{author}} Nama `Glow` dapat terdiri dari maksimal 25 karakter",
+    "GLOW_NAME_EXISTS": "{{author}} Nama `Glow` sudah digunakan di tempat lain",
     "EMBED_TITLE": "SOFI: NAMA GLOW",
     "GLOWNAME_CHANGE_CONFIRMATION": "Apakah kamu yakin ingin mengubah `{{oldName}}` menjadi `{{newName}}`?",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "MISSING_ITEMS": "Item hilang",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Nama glow berhasil diperbarui"
+    "MISSING_ITEMS": "Anda tidak memiliki mata uang yang cukup untuk proses ini",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Nama `Glow` berhasil diubah"
 }
