@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} You don't have any `Glows` yet",
     "NO_GLOWCDE": "{{author}} You need to provide a `Glow` code",
     "INVALID_DC_MOVIES": "{{author}} `Glow` codes always start with a **#**",
-    "GLOW_NOT_FOUND": "{{author}} Your provided `Glow` code is invalid",
+    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is invalid",
     "GLOW_AVAILABLE": "{{author}} That `Glow` is already charged",
     "EMBED_TITLE": "SOFI: GLOW RECHARGE",
     "RECHARGE_CONFIRMATION": "You are about to refill:\n\n**{{name}}**\nCode: `{{glowCode}}`\nCost: **{{cost}}** <:recharge_sofi:926846363537387530>",

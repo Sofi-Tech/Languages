@@ -1,9 +1,9 @@
 {
     "BF_DESCRIPTION": "Achète la `frame` dans le `frame shop`",
     "BF_CATEGORY": "Produits cosmétiques",
-    "NO_FRAME_NAME": "Vous avez oublié de fournir le nom de la `frame`",
+    "NO_FRAME_NAME": "{{author}} Veuillez indiquer le nom de la `Frame` que vous souhaitez acheter",
     "NO_FRAMECODE_FOUND": "{{author}} **Aucune `Frame` trouvée avec le code `{{name}}`**",
-    "FRAME_UNAVAILABLE": "Ce cadre n'est pas disponible. Veuillez utiliser `sfs` pour vérifier les `Frames`disponibles",
+    "FRAME_UNAVAILABLE": "{{author}} Cette frame n'est pas disponible actuellement. Veuillez utiliser la commande `sfs` à la place, pour vérifier la rotation actuelle de `Frame`",
     "NO_FRAME_FOUND": "{{author}} | Aucune `Frame`ne correspond à ce code",
     "FRAME_NOT_PURCHASABLE": "{{author}} Cette `frame`est une édition limitée et ne peut plus être achetée",
     "EMBED_TITLE": "TRANSACTION",

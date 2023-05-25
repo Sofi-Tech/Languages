@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} You do not have any `Glows`",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glowname <GlowCode] [NewName]`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes always start with a **#**",
-    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
+    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} You need to provide a name for this `Glow`",
     "GLOW_NAME_LONG": "{{author}} `Glow` names can have a maximum of 25 characters",
     "GLOW_NAME_EXISTS": "{{author}} The `Glow` name is already used elsewhere",

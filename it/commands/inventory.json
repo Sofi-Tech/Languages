@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Visualizza l'inventario di un utente",
     "SLASH_DESC": "Seleziona un utente per vedere il suo inventario",
-    "SLASH_DESC2": "Inserisci l'elemento che desideri cercare",
+    "SLASH_DESC2": "Inserisci `Item` che vuoi cercare",
     "NOT_REGISTER": "{{author}} Quell'utente non è registrato!",
     "NO_USER_FOUND": "{{author}} | Nessun utente trovato",
     "INV_PRIVATE": "{{author}} L'inventario di quell'utente è privato",

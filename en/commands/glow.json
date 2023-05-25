@@ -8,7 +8,7 @@
     "UNLOCK_GLOWS": "{{author}} You don't have any `Glows` yet",
     "PROVIDE_GLOW_CODE": "{{author}} You need to also provide a glowcode",
     "INVALID_GLOW_CODE": "{{author}} `Glow` codes always start with a **#**",
-    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
+    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
     "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
     "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
     "GLOW_NAME": "Name: {{name}}",

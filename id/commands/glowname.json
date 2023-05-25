@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
     "WRONG_USAGE": "{{author}} Penggunaan yang Benar: `{{prefix}}glowname [GlowCode] [NamaBaru]`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
-    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang Anda berikan tidak valid atau tidak ada dalam inventaris Anda",
+    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang Anda berikan tidak valid atau tidak ada di 'Inventory'",
     "PROVIDE_GLOW_NAME": "{{author}} Anda perlu memberikan nama untuk `Glow` ini",
     "GLOW_NAME_LONG": "{{author}} Nama `Glow` dapat terdiri dari maksimal 25 karakter",
     "GLOW_NAME_EXISTS": "{{author}} Nama `Glow` sudah digunakan di tempat lain",

@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Memasang \"Tags\" pada kartumu",
     "TAG_CATEGORY": "Tag",
-    "WRONG_USAGE": "{{author}} Nama `Tag` belum disertakan",
+    "WRONG_USAGE": "{{author}} Penggunaaan yang benar: `{{prefix}}t <CardCode> <TagName>`",
     "NO_TAGS_CREATED": "{{author}} Anda belum memiliki `Tags`. Anda bisa membuatnya dengan `{{prefix}}tc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki `Tag` dengan nama `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi Anda",

@@ -7,7 +7,7 @@
     "NO_AMOUNT": "{{author}} you do not have {{amount}} {{currency}}",
     "EMBED_TITLE": "SOFI: BID",
     "CONFIRM_BID": "{{author}} are you sure you want to place bid of {{amount}} {{currency}} on auction `{{auctionId}}`",
-    "BID_NOTE": "When placing a new bid the previous bid amount will be added to inventory and new bid amount will be deducted",
+    "BID_NOTE": "When placing a new bid the previous bid amount will be added to `Inventory` and new bid amount will be deducted",
     "EMBED_FOOTER": "Note: The bids are anonymous",
     "MINIMUM_BID": "Cancelling: The minimum bid must be `{{amount}}`{{currency}} and you must have that amount",
     "ALREADY_MAX_BIDDER": "You are already the max bidder",
