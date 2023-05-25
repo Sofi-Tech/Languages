@@ -8,7 +8,7 @@
     "AI_SERIES": "> Série: {{series}}",
     "AI_TOP_BID": "> Maior lance: {{bids}}",
     "AI_STATUS": "> Status: {{status}}",
-    "EMBED_FOOTER": "Use {{prefix}}bid <auctionID> para fazer um lance no leilão",
+    "EMBED_FOOTER": "Use o comando `{{prefix}}bid <ID da Auction>` para colocar uma oferta em uma `Auction`",
     "EMPTY_AUCTION": "Não há Leilões no momento",
     "ID": "ID:",
     "ACTIVE": "Ativo",

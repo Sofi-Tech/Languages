@@ -1,11 +1,11 @@
 {
     "TAG_DESCRIPTION": "Met vos \"Tags\" sur vos cartes",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Veuillez fournir un nom de `Tag`",
+    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}t <CodeDeCarte> <NomDuTag>`",
     "NO_TAGS_CREATED": "{{author}} Vous n'avez encore aucun `Tags`. Vous pouvez en créer avec la commande `{{prefix}}tc <NomDuTag> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Vous n'avez aucun `Tag` avec le nom `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
-    "INVALID_CARD_CODE": "{{author}} Le code de cette carte est invalide",
+    "INVALID_CARD_CODE": "{{author}} Le code que vous avez fourni est invalide",
     "SUCCESSFUL_TAG": "{{author}} | La carte {{card}} a été tag avec succès comme `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Toutes les cartes ont été `Tagged` avec succès"
 }

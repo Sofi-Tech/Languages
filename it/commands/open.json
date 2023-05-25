@@ -3,7 +3,7 @@
     "SLASH_DESC_1": "Inserisci il nome dell'oggetto che vuoi aprire",
     "SLASH_DESC_2": "Inserisci la quantità",
     "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}open <NomeOggetto> <Quantità>`\n`Oggetti` che possono essere aperti: `Casse`, `Amuleti`",
-    "EMPTY_INV": "{{author}} Il tuo inventario è vuoto",
+    "EMPTY_INV": "{{author}} Il tuo `Inventory` è vuoto",
     "CHARM_MISSING": "{{author}} Non hai nessun `Amuleto`",
     "SOFI_CARDS_MISSING": "{{author}} Attualmente non ci sono abbastanza carte nella collezione di Sofi",
     "CONGRATS": "Congratulazioni! Hai ricevuto:",

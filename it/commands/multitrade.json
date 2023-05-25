@@ -18,12 +18,12 @@
     "MODAL_TITLE": "Scambio multiplo",
     "NOTED_ADDED": "Nota aggiunta: {{response}}",
     "TRADE_CANCELLED": "Lo scambio è stato annullato",
-    "MT_ENDS": "SCAMBIO MULTIPLO: termina {{timer}}",
-    "MT_INFO_1": "🤝 Per fare lo scambio: bg=& glow=# frags=- frame=$ tag=%",
-    "MT_INFO_2": "🔮 Usa i cristalli di scambio: fi-c, ea-c, vo-c, wo-c etc",
-    "MT_INFO_3": "🗒️ Aggiungi NOTE per gli scambi per fornire il contesto necessario",
-    "MT_INFO_4": "📛 Segnala chiunque chieda criptovalute in cambio, poiché è sanzionabile.",
+    "MT_ENDS": "Il multiscambio termina {{timer}}",
+    "MT_INFO_1": "🤝 Prefissi: `Background [&]` `Glow [#]` `Fragments[-]` `Frames [$]` `Tag [%]`",
+    "MT_INFO_2": "🔮 Abbreviazioni di `Crystal` 🔥 `[fi-c]` 🌲 `[wo-c]` ecc.",
+    "MT_INFO_3": "🗒️ Aggiungi note alla tua operazione per aggiungere contesto ai nostri registri",
+    "MT_INFO_4": "📛 Segnala i giocatori che chiedono il pagamento in criptovalute, in quanto è un reato bannabile!",
     "MT_COMPLETE": "Scambio Multiplo: (Completato)",
-    "MISSING_ITEMS": "Ti mancano",
-    "CARD_LOCKED": "{{code}} carta è selezionata/bloccata"
+    "MISSING_ITEMS": "{{user}} I seguenti elementi non sono presenti nel tuo `Inventory` e non è stato possibile aggiungerli:\n`{{items}}`",
+    "CARD_LOCKED": "{{user}} Le seguenti carte sono bloccate o attualmente utilizzate in un mazzo e non possono essere aggiunte:\n`{{codes}}`"
 }

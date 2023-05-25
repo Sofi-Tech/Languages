@@ -17,5 +17,5 @@
     "ONGOING": "In corso (Termina in: {{time}})",
     "OVER": "Finito",
     "EMBED_AUCTIONS_TITLE": "SOFI: ASTE",
-    "EMBED_AUCTIONS_FOOTER": "Pagina: {{page}}/{{totalPages}} | Per i dettagli usa sai <auctionID>"
+    "EMBED_AUCTIONS_FOOTER": "Pagina visualizzata: {{page}}/{{totalPages}} | Usa il comando `sai <AuctionID>` per maggiori dettagli"
 }
