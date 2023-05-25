@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "\"Pull\" dari kumpulan berbagai \"Item\" termasuk \"Charm\" dan \"Fragmen\" untuk kartu animasi",
     "PULL_AMT": "{{author}} Masukkan jumlah `Pulls` yang ingin anda lakukan. Ini bisa berupa **1** atau **10**",
-    "INFO_1": "Peluang mendapatkan `Fragmen` adalah 12%",
-    "INFO_2": "Peluang mendapatkan `Charm` dan `Swap` masing-masing adalah {{chance1}}% & {{chance2}}%",
-    "INFO_3": "Anda membutuhkan 8 `Fragmen` untuk membuat varian `GIF` dari suatu karakter",
+    "INFO_1": "Anda membutuhkan 8 `Fragmen` untuk membuat varian `GIF` dari sebuah karakter",
+    "INFO_2": "Varian `GIF` dari sebuah karakter memiliki 100 `Gens` yang unik",
+    "INFO_3": "`Fragments` dapat dibakar untuk mendapatkan `Charm`",
     "INFO_4": "Varian `GIF` dari sebuah karakter memiliki 100 `Gens` yang unik",
     "INFO_5": "`Fragmen` yang tersisa dapat dibakar untuk mendapatkan `Charm`",
     "PULLS": "SOFI: TARIKAN",

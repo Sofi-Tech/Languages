@@ -1,18 +1,18 @@
 {
-    "DESCRIPTION": "Ipinapakita ang inventory ng isang user",
-    "SLASH_DESC": "Pumili ng user na nais mong makita ang talaan ng mga kagamitan",
+    "DESCRIPTION": "Ipinakita ang \"Inventory\" ni user",
+    "SLASH_DESC": "Pumili ng user na nais mong makita ang kanilang \"inventory\"",
     "SLASH_DESC2": "Ilagay ang pangalan ng `Item` na nais mong hanapin",
     "NOT_REGISTER": "{{author}} | Hindi nakarehistro ang user!",
-    "NO_USER_FOUND": "{{author}} Walang nakitang user",
-    "INV_PRIVATE": "{{author}} Ang inventory ng user na ito ay naka private",
+    "NO_USER_FOUND": "{{author}} Hindi nakita ang user na iyon",
+    "INV_PRIVATE": "{{author}} Ang `inventory` ng user na ito ay pribado",
     "ITEMS": "Mga Item",
     "FRAMES": "Mga Frames",
     "CRYSTALS": "Mga Crystals",
     "BACKGROUNDS": "Mga Background",
     "EVENT": "Kaganapan",
-    "SELF_INV_EMPTY": "Ang iyong inventory ay walang laman",
-    "USER_INV_EMPTY": "Walang laman ang inventory ng user",
-    "NO_BG_FOUND": "Walang nahanap na `Background`",
-    "NO_ITEM_FOUND": "Hindi natagpuan ang `Item` na iyon sa inventory na ito",
-    "HIDE_INV": "Para itago ang iyong inventory, gamitin ang command na `spvt inv`"
+    "SELF_INV_EMPTY": "{{author}} Ang iyong `inventory` ay walang laman",
+    "USER_INV_EMPTY": "{{author}} Ang talaan ng kagamitan ng taong iyon ay walang laman",
+    "NO_BG_FOUND": "Walang `Backgrounds`na nahanap",
+    "NO_ITEM_FOUND": "{{author}} Hindi natagpuan ang `Item` na iyon sa `inventory`",
+    "HIDE_INV": "Gamitin ang `spvt inv`para gawing pribado ang iyong `Inventory`"
 }

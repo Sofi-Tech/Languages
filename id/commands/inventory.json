@@ -1,18 +1,18 @@
 {
-    "DESCRIPTION": "Melihat inventaris pengguna",
-    "SLASH_DESC": "Pilih pengguna untuk melihat inventaris mereka",
+    "DESCRIPTION": "Menampilkan pengguna \"Inventory\"",
+    "SLASH_DESC": "Pilih pengguna untuk melihat \"Inventory\" mereka",
     "SLASH_DESC2": "Masukkan `item` yang ingin Anda cari",
     "NOT_REGISTER": "{{author}} | Pengguna tersebut tidak terdaftar!",
     "NO_USER_FOUND": "{{author}} Tidak dapat menemukan pengguna",
-    "INV_PRIVATE": "{{author}} Inventaris pengguna tersebut bersifat pribadi",
+    "INV_PRIVATE": "{{author}} `Inventory` pengguna tersebut bersifat pribadi",
     "ITEMS": "Item",
     "FRAMES": "Frame",
     "CRYSTALS": "Crystals",
     "BACKGROUNDS": "Background",
     "EVENT": "Event",
-    "SELF_INV_EMPTY": "Inventory Anda kosong",
-    "USER_INV_EMPTY": "Inventory pengguna tersebut kosong",
-    "NO_BG_FOUND": "Tidak ada `Background` ditemukan",
-    "NO_ITEM_FOUND": "Tidak dapat menemukan `item` tersebut di dalam inventaris ini",
-    "HIDE_INV": "Untuk menyembunyikan inventory Anda, gunakan perintah `spvt inv`"
+    "SELF_INV_EMPTY": "{{author}} `Inventory` Anda kosong",
+    "USER_INV_EMPTY": "{{author}} `Inventory` pengguna tersebut kosong",
+    "NO_BG_FOUND": "Tidak ada `Backgrounds` ditemukan",
+    "NO_ITEM_FOUND": "{{author}} Tidak dapat menemukan `Item` tersebut dalam `Inventory`",
+    "HIDE_INV": "Gunakan perintah `spvt inv` untuk memprivasi `Inventory` Anda"
 }

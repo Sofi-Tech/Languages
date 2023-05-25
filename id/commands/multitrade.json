@@ -24,6 +24,6 @@
     "MT_INFO_3": "🗒️ Tambahkan catatan ke perdagangan Anda untuk menambahkan konteks pada log kami",
     "MT_INFO_4": "📛 Laporkan pemain yang meminta pembayaran kripto, karena ini adalah pelanggaran yang dapat dilarang!",
     "MT_COMPLETE": "Multi Trade: (Selesai)",
-    "MISSING_ITEMS": "{{user}} Item berikut ini tidak ada dalam inventaris Anda dan tidak dapat ditambahkan:\n`{{items}}`",
+    "MISSING_ITEMS": "{{user}} Item berikut ini tidak ada dalam `Inventory` anda dan tidak dapat ditambahkan:\n`{{items}}`",
     "CARD_LOCKED": "{{user}} Kartu-kartu berikut ini terkunci atau sedang digunakan di dalam deck dan tidak dapat ditambahkan:\n`{{codes}}"
 }

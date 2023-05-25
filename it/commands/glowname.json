@@ -7,10 +7,10 @@
     "GLOW_NOT_FOUND": "{{author}} Il codice `Glow` che hai fornito non è valido o non è nel tuo `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} Devi fornire un nome per questo `Glow`",
     "GLOW_NAME_LONG": "{{author}} I nomi `Glow` possono avere un massimo di 25 caratteri",
-    "GLOW_NAME_EXISTS": "Il nome del glow è già stato preso...Innovare 😎",
+    "GLOW_NAME_EXISTS": "{{author}} il nome di `Glow` è già in uso da qualcun'altro",
     "EMBED_TITLE": "SOFI: NOME DEL GLOW",
     "GLOWNAME_CHANGE_CONFIRMATION": "Sei sicuro di voler cambiare `{{oldName}}` in `{{newName}}`?",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "MISSING_ITEMS": "Oggetti mancanti",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Il nome del glow è stato aggiornato con successo"
+    "MISSING_ITEMS": "Non hai abbastanza valuta per procedere",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Il nome del `glow` è stato aggiornato con successo"
 }

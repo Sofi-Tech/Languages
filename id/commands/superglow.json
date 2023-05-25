@@ -1,5 +1,5 @@
 {
-    "SG_DESCRIPTION": "Gabungkan dua \"Glow\" untuk mendapatkan sebuah \"Super Glow\"",
+    "SG_DESCRIPTION": "Padukan dua \"Glows\" untuk mendapatkan \"Super Glow\"",
     "SG_CATEGORY": "Kosmetik",
     "NO_GLOWS": "{{author}} Anda belum memiliki 'Glow' apapun",
     "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar : `{{prefix}}sg <GlowCode1> <GlowCode2>`",
@@ -9,10 +9,11 @@
     "SAME_GLOWS": "{{author}} Anda tidak dapat menggunakan 'Glow' yang sama dua kali pada proses ini",
     "UNAVAILABLE": "Tidak tersedia",
     "AVAILABLE": "Tersedia",
-    "CANNOT_FIND_GLOWS": "{{author}} tidak dapat menemukan kilauan dengan kode {{codes}}",
+    "CANNOT_FIND_GLOWS": "{{author}} Tidak dapat menemukan `Glows` dengan kode-kode ini:\n{{codes}}",
     "EMBED_TITLE": "SOFI: KILAUAN SUPER",
-    "FORM_SG_CONFIRM": "Anda akan menggunakan 'Item' dibawah ini:\n\n{{glowCodes}}\n\n+2x <:resin:938131736741691442>\n\nuntuk mendapatkan 'Super Glow' **`2{{superGlowName}}**",
+    "FORM_SG_CONFIRM": "Anda akan menggunakan `Item` berikut ini:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nuntuk mendapatkan `Super Glow` **`{{superGlowName}}**",
     "CANNOT_FORM_SG": "Tidak dapat membentuk kilauan super",
-    "MISSING_RESINS": "Anda memiliki jumlah 'Resin' yang tidak cukup untuk membuat 'Super Glow'",
-    "SUPER_GLOW_SUCCESSFULL": "'Glow' Anda telah berhasil digabungkan!\n"
+    "MISSING_RESINS": "Anda tidak memiliki cukup `Resin` untuk menciptakan `Super Glow`",
+    "SUPER_GLOW_SUCCESSFULL": "'Glow' Anda telah berhasil digabungkan!\n",
+    "FORM_SG_FOOTER": "Semua Glow yang digunakan dalam proses ini akan dihancurkan! Proses ini tidak dapat diubah, Tersedia dan Tidak Tersedia"
 }

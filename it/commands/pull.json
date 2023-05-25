@@ -8,7 +8,7 @@
     "INFO_5": "I frammenti rimanenti possono essere bruciati per ottenere un amuleto.",
     "PULLS": "SOFI: PESCA",
     "PULL_COUNT": "Pesca n° {{count}}",
-    "MISSING_CURR": "{{user}} non ha {{amount}} {{currName}}",
+    "MISSING_CURR": "{{user}} non hai **{{amount}}** `{{currName}}`",
     "AMOUNT": "Quantità: {{amount}}",
-    "PULL_COUNT_WIST": "Pesca n° {{pullcount}} | È possibile acquistare Wist da smarket."
+    "PULL_COUNT_WIST": "Pesca n°: {{pullcount}}"
 }

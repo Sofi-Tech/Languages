@@ -11,7 +11,7 @@
     "NAME": "Nome:",
     "CHEST_INFO": "Le casse dell'evento possono ancora essere aperte dopo la fine dell'evento",
     "PROVIDE_NUM": "Fornisci un numero tra **1 e 10**",
-    "CHEST_MISSING": "Non hai **{{replacedArg}}** casse `{{chestName}}` nel tuo inventario.",
+    "CHEST_MISSING": "Non hai **{{replacedArg}}** casse `{{chestName}}` nel tuo `inventario`",
     "COMMON_INFO_1": "Hai aperto **{{totalChests}}** casse `{{chestName}}`",
     "ITEMS_FOUND": "Oggetti ottenuti:\n",
     "COMMON_RARE_FOOTER": "Puoi ottenere una cassa {{chestName}} per ogni striscia giornaliera di {{count}} `Daily`",

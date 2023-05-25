@@ -11,7 +11,7 @@
     "AVAILABLE": "Available",
     "CANNOT_FIND_GLOWS": "{{author}} Could not find `Glows` with these codes:\n{{codes}}",
     "EMBED_TITLE": "SOFI: SUPER GLOW",
-    "FORM_SG_CONFIRM": "You are about to use the following `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nin order to obtain the `Super Glow` **`{{superGlowName}}**",
+    "FORM_SG_CONFIRM": "You are about to use the following `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nin order to obtain the `Super Glow` **`{{superGlowName}}`**",
     "CANNOT_FORM_SG": "",
     "MISSING_RESINS": "You don't have enough `Resin` to create a `Super Glow`",
     "SUPER_GLOW_SUCCESSFULL": "Your `Glows` have been successfully merged!\n",
