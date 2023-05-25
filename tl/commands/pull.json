@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "\"Pull\" mula sa isang pool ng iba't ibang \"Items\" kasama ang \"Charms\" at \"Fragments\" para sa mga animated card",
     "PULL_AMT": "{{author}} Magpasok ng bilang ng Pulls na nais mong gawin. Ito ay maaaring maging **1** o **10** lamang",
-    "INFO_1": "Ang tsansa na makakuha ng `Fragment` ay **12%**",
-    "INFO_2": "Ang tsansa na makakuha ng `Charms` ay {{chance1}}%, habang ang tsansa naman na makakuha ng `Swaps` ay {{chance2}}%.",
-    "INFO_3": "Kailangan mo ng 8 na `Fragments` upang makagawa ng `GIF` variant ng isang karakter",
+    "INFO_1": "Kailangan mo ng 8 na Fragments upang makagawa ng GIF variant ng isang karakter",
+    "INFO_2": "Ang mga `GIF` variant ng isang karakter ay mayroong 100 natatanging `Gens`",
+    "INFO_3": "Ang mga `Fragments` ay maaaring sunugin upang makakuha ng `Charm`",
     "INFO_4": "Ang mga `GIF` variant ng isang karakter ay mayroong 100 natatanging `Gens`",
     "INFO_5": "Ang natitirang mga `Fragments` ay maaaring sunugin upang makakuha ng isang `Charm`",
     "PULLS": "SOFI: PULLS",

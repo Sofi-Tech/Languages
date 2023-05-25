@@ -1,18 +1,18 @@
 {
-    "SG_DESCRIPTION": "Gabungkan dua kilauan untuk membuat kilauan super",
+    "SG_DESCRIPTION": "Gabungkan dua \"Glow\" untuk mendapatkan sebuah \"Super Glow\"",
     "SG_CATEGORY": "Kosmetik",
     "NO_GLOWS": "{{author}} Anda belum memiliki 'Glow' apapun",
     "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar : `{{prefix}}sg <GlowCode1> <GlowCode2>`",
-    "GLOW_NOT_FOUND": "{{author}} tidak dapat menemukan kilauan.. Silakan periksa kode lagi",
-    "UNAVAILABLE_GLOW": "{{author}} salah satu kilauan tidak tersedia. Silakan periksa lagi..",
-    "NO_USE_SG": "{{author}} tidak dapat menggunakan kilauan super untuk membentuk super kilauan",
-    "SAME_GLOWS": "{{author}} tidak dapat menggunakan kilauan yang sama untuk membentuk super kilauan",
+    "GLOW_NOT_FOUND": "{{author}} Setidaknya ada satu kode 'Glow' yang Anda berikan tidak valid",
+    "UNAVAILABLE_GLOW": "{{author}} Setidaknya ada satu kode 'Glow' yang Anda berikan kosong",
+    "NO_USE_SG": "{{author}} Anda tidak dapat menggunakan 'Super Glow' untuk membuat 'Super Glow' yang lain!",
+    "SAME_GLOWS": "{{author}} Anda tidak dapat menggunakan 'Glow' yang sama dua kali pada proses ini",
     "UNAVAILABLE": "Tidak tersedia",
     "AVAILABLE": "Tersedia",
     "CANNOT_FIND_GLOWS": "{{author}} tidak dapat menemukan kilauan dengan kode {{codes}}",
     "EMBED_TITLE": "SOFI: KILAUAN SUPER",
-    "FORM_SG_CONFIRM": "Anda akan membuat kilauan super:**\n\n{{glowCodes}}\n\n**Membentuk kilauan super...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
+    "FORM_SG_CONFIRM": "Anda akan menggunakan 'Item' dibawah ini:\n\n{{glowCodes}}\n\n+2x <:resin:938131736741691442>\n\nuntuk mendapatkan 'Super Glow' **`2{{superGlowName}}**",
     "CANNOT_FORM_SG": "Tidak dapat membentuk kilauan super",
-    "MISSING_RESINS": "Anda kekurangan resin",
-    "SUPER_GLOW_SUCCESSFULL": "Pembentukan kilauan super berhasil**\n\n{{glowCodes}}\n\n**Membentuk kilauan super...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+    "MISSING_RESINS": "Anda memiliki jumlah 'Resin' yang tidak cukup untuk membuat 'Super Glow'",
+    "SUPER_GLOW_SUCCESSFULL": "'Glow' Anda telah berhasil digabungkan!\n"
 }

@@ -8,8 +8,8 @@
     "AI_SERIES": "> Series: {{series}}",
     "AI_TOP_BID": "> Pinakamataas na Bid: {{bids}}",
     "AI_STATUS": "> Katayuan: {{status}}",
-    "EMBED_FOOTER": "Gamitin ang command na `{{prefix}}bid <auctionID>` upang magbigay ng bid sa auction",
-    "EMPTY_AUCTION": "Walang auctions ngayon",
+    "EMBED_FOOTER": "Gamitin ang command na `{{prefix}}bid <AuctionID>` upang maglagay ng bid sa isang `Auction`",
+    "EMPTY_AUCTION": "Walang kasalukuyang nagaganap na `Auctions`",
     "ID": "ID:",
     "ACTIVE": "Aktibo",
     "ENDED": "Tapos na",
@@ -17,5 +17,5 @@
     "ONGOING": "Patuloy (Magtatapos sa: {{time}})",
     "OVER": "Tapos na",
     "EMBED_AUCTIONS_TITLE": "SOFI: MGA AUCTION",
-    "EMBED_AUCTIONS_FOOTER": "Nagpapakita ng pahina: {{page}}/{{totalPages}} | Para sa karagdagang detalye, gamitin ang command na `sai <auctionID>`"
+    "EMBED_AUCTIONS_FOOTER": "Ipapakita ang pahina: {{page}}/{{totalPages}} | Gamitin ang command na `sai <AuctionID>` para sa karagdagang detalye"
 }
