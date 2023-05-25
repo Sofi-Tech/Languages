@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Tingnan ang iyong card",
-    "SLASH_DESC1": "Ipasok ang code ng card.",
-    "INVALID_CODE": "Ang code na iyong binigay ay hindi wasto. Mangyaring magbigay ng wastong code.",
-    "SERIES": "Serye",
-    "NAME": "Pangalan",
-    "OWNED_BY": "Pag-aari ni",
+    "DESCRIPTION": "Pinapakita ang kard",
+    "SLASH_DESC1": "Ilagay ang code ng card",
+    "INVALID_CODE": "{{author}} Ang code ng card na iyan ay invalid",
+    "SERIES": "Serye:",
+    "NAME": "Pangalan:",
+    "OWNED_BY": "Pag-aari ni:",
     "SERVER": "Server",
     "CLAIMED": "Nakapag-angkin",
-    "MOVES": "Mga Galaw",
+    "MOVES": "Mga Ability:",
     "OWNER_HISTORY": "Kasaysayan ng Pag-aari",
     "CARD_VIEW": "PAGTINGIN SA CARD"
 }

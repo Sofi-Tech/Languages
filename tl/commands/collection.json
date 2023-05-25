@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "-Maaari mong makita ang mga cards sa iyong collection sa pamamagitan ng command na \"sc\"\n-Pwede mo itong ayusin ayon sa Name, Cosmetics, Stats at marami pang iba\n-Pwede mo itong salain ayon sa Wishlist, Gen o Tag Name\n-Gamitin ang \"sc t:ut\" para makita ang mga barahang walang tag sa iyong collection",
-    "SLASH_CMD_DESC": "Ipakita ang iyong kard koleksyon",
+    "DESCRIPTION": "Maaari mong makita ang mga cards sa iyong collection sa pamamagitan ng command na \"sc\"\n- Pwede mo itong ayusin ayon sa Name, Cosmetics, Stats at marami pang iba\n- Pwede mo itong i-filter ayon sa Wishlist, Gen o Tag Name\n- Gamitin ang command na \"sc t:ut\" para makita ang mga kard na walang tag sa iyong collection",
+    "SLASH_CMD_DESC": "Ipinapakita ang koleksyon ng iyong kard",
     "SLASH_DESC": "Pimuli ng user para makita ang kanilang koleksyon",
     "SLASH_DESC2": "Ilagay ang mga filters na nais mong i-apply sa koleksyon",
-    "PLAYER_NOT_EXIST": "{{author}} Wala siyang nasasakupan na player",
+    "PLAYER_NOT_EXIST": "{{author}} Ang player na ito ay hindi nakarehistro",
     "PLAYER_PRIVATE": "{{author}} Ang koleksyon ng user na iyon ay pribado!",
     "NO_RESULTS": "{{author}} Walang nakitang resulta!",
-    "NO_CARDS_FOUND": "{{author}} Walang nakitang mga karda na tumutugma sa iyong hinahanap",
+    "NO_CARDS_FOUND": "{{author}} Walang nakitang mga kards na tumutugma sa iyong hinahanap",
     "NOTHING_FOUND": "Walang nahanap",
     "CHOOSE_SORTING": "Pumili ng pag-uuri",
     "SORT_CHAR": "I-sort sa pangalan",
@@ -24,5 +24,5 @@
     "ALL_UNTAG_SUCCESS": "Ang lahat ng {{taglength}} na card ay matagumpay na natanggal ang tag",
     "ALL_TAG_SUCCESS": "{{author}} Ang lahat ng {{taglength}} na card ay matagumpay na naitag",
     "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Wala ka pang mga tag `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <Pangalan ng Tag> <Emoji>`"
+    "NO_TAG_FOUND": "Wala ka pang mga `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <TagName> <Emoji>`"
 }

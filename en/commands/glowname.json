@@ -1,16 +1,16 @@
 {
-    "GN_DESCRIPTION": "Change the glow name",
+    "GN_DESCRIPTION": "Changes the name of a \"Glow\"",
     "GN_CATEGORY": "Cosmetics",
     "UNLOCK_GLOWS": "{{author}} You do not have any `Glows`",
-    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glowname [glowcode] [newname]`",
-    "WRONG_GLOWCODE_FORMAT": "Glowcode starts with `#`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glowname <GlowCode] [NewName]`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes always start with a **#**",
     "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
-    "PROVIDE_GLOW_NAME": "{{author}} provide the glow name",
-    "GLOW_NAME_LONG": "{{author}} glow name is too long. Try less than 25 letters",
-    "GLOW_NAME_EXISTS": "The glow name is already taken...Innovate 😎",
+    "PROVIDE_GLOW_NAME": "{{author}} You need to provide a name for this `Glow`",
+    "GLOW_NAME_LONG": "{{author}} `Glow` names can have a maximum of 25 characters",
+    "GLOW_NAME_EXISTS": "{{author}} The `Glow` name is already used elsewhere",
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "Are you sure you want to change `{{oldName}}` to `{{newName}}`?",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "MISSING_ITEMS": "Missing items",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Glow name was successfully updated"
+    "MISSING_ITEMS": "You don't have enough currency for this process",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "The `Glow` name was successfully changed"
 }

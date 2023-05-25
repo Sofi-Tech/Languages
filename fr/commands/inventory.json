@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Affiche l'inventaire d'un l'utilisateur",
     "SLASH_DESC": "Sélectionnez un utilisateur afin de voir son inventaire",
-    "SLASH_DESC2": "Nommez l'objet que vous voulez rechercher",
+    "SLASH_DESC2": "Nommez `Item` que vous voulez rechercher",
     "NOT_REGISTER": "{{author}} Cet utilisateur n'est pas inscrit!",
     "NO_USER_FOUND": "{{author}} Aucun utilisateur trouvé",
     "INV_PRIVATE": "{{author}} L'inventaire de cet utilisateur est privé",
@@ -13,6 +13,6 @@
     "SELF_INV_EMPTY": "Votre inventaire est vide",
     "USER_INV_EMPTY": "L'inventaire de cet utilisateur est vide",
     "NO_BG_FOUND": "Aucun `Background` trouvé",
-    "NO_ITEM_FOUND": "Impossible de trouver cet objet dans l'inventaire",
+    "NO_ITEM_FOUND": "Impossible de trouver cet `Item` dans l'inventaire",
     "HIDE_INV": "Pour rendre votre inventaire privé, utiliser la commande `spvt inv`"
 }

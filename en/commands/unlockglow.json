@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "Unlock the glows",
+    "UG_DESCRIPTION": "Generates a random \"Glow\"",
     "UG_CATEGORY": "Cosmetics",
-    "EMBED_TITLE": "SOFI: UNLOCK GLOW",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} Are you sure you want to unlock a glow for 100 {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "Cancelled the unlock",
-    "NOT_ENOUGH_GEMS": "You don't have enough gems",
-    "EMBED_GLOW_TITLE": "SOFI: GLOW",
-    "UNLOCK_GLOW_SUCCESS": "Congrats {{author}}! you have unlocked `{{glowName}}`(`#{{glowCode}}`)"
+    "EMBED_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} Are you sure you want to buy a random `Glow` for 100 {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "The transaction has been cancelled",
+    "NOT_ENOUGH_GEMS": "You don't have enough `Gems`",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} You have obtained **{{glowName}}** `#{{glowCode}}`"
 }

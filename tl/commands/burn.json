@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Sunugin ang iyong mga card para makakuha ng \"Kristal\" at \"Pilak\" na maaaring gamitin upang gumawa ng \"Cubes\" o bumili ng iba't ibang \"Items\" sa Bot. Ang paggamit ng command na \"sb\" nang hiwalay ay susubukan na sunugin ang pinakabagong card mo",
+    "DESCRIPTION": "Sunugin ang iyong mga card para makakuha ng mga \"Crystal\" at \"Silver\" na maaaring gamitin upang gumawa ng \"Cubes\" o bumili ng iba't ibang \"Items\" sa Bot. Ang paggamit ng command na \"sb\" nang hiwalay ay susubukan na sunugin ang pinakabagong card na iyong kinuha",
     "GUILDSTONE_BURN": "Ikaw ay gagamit ng `Guildstone`",
     "GUILDSTONE_NOT_FOUND": "Wala kang `Guild Stone`",
     "SUCCESS": "TAGUMPAY",
     "CANCELLED": "KINANSELA",
-    "BURN_FRAG_WARN": "Ikaw ay nagtatakdang magsunog ng Fragment\nFrag Code: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "Walang matatagpuan na Fragment",
+    "BURN_FRAG_WARN": "Ikaw ay nagtatakdang magsunog ng `Fragment`\n`Fragment` Code: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "Walang matatagpuan na `Fragment`",
     "CARD_NOT_FOUND": "Hindi matagpuan and kard na yan",
     "CARD_LOCKED": "Naka-lock ang kard na iyan",
     "CARD_NOT_OWNED": "Hindi mo pagmamay-ari ang kard na iyan"

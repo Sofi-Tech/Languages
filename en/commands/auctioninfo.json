@@ -8,7 +8,7 @@
     "AI_SERIES": "> Series: {{series}}",
     "AI_TOP_BID": "> Top Bid: {{bids}}",
     "AI_STATUS": "> Status: {{status}}",
-    "EMBED_FOOTER": "Use the command `{{prefix}}bid <auctionID>` to place a bid on an auction",
+    "EMBED_FOOTER": "Use the command `{{prefix}}bid <AuctionID>` to place a bid on an auction",
     "EMPTY_AUCTION": "There are no auctions currently",
     "ID": "ID:",
     "ACTIVE": "Active",

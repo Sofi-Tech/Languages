@@ -1,7 +1,7 @@
 {
-    "BID_DESCRIPTION": "Bid in the auctions",
+    "BID_DESCRIPTION": "Places your bid in an \"Auction\"",
     "BID_CATEGORY": "Cards",
-    "WRONG_USAGE": "{{author}} correct Usage: `{{prefix}}bid <auctionID> <amount>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bid <AuctionID> <amount>`",
     "INVALID_ID": "{{author}} You provided an invalid `Auction` ID",
     "INVALID_AMOUNT": "{{author}} amount must be a number",
     "NO_AMOUNT": "{{author}} you do not have {{amount}} {{currency}}",

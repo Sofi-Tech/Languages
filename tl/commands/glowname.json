@@ -1,16 +1,16 @@
 {
-    "GN_DESCRIPTION": "Baguhin ang pangalan ng glow",
-    "GN_CATEGORY": "Cosmetics",
+    "GN_DESCRIPTION": "Baguhin ang pangalan ng \"Glow\"",
+    "GN_CATEGORY": "Mga Cosmetic",
     "UNLOCK_GLOWS": "{{author}} Wala kang `Glows`",
-    "WRONG_USAGE": "{{author}} Tama ang paggamit: `{{prefix}}glowname [glowcode] [newname]`",
-    "WRONG_GLOWCODE_FORMAT": "Ang Glowcode ay nagsisimula sa `#`",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}glowname <GlowCode] [NewName]`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa **#**",
     "GLOW_NOT_FOUND": "{{author}} Ang `Glow` code na ibinigay mo ay hindi wasto o hindi nasa iyong inventory",
-    "PROVIDE_GLOW_NAME": "{{author}} magbigay ng pangalan ng glow",
-    "GLOW_NAME_LONG": "{{author}} ang pangalan ng glow ay masyadong mahaba. Subukan ang hindi hihigit sa 25 na letra",
-    "GLOW_NAME_EXISTS": "Ang pangalan ng glow ay mayroon na...Magpaka-imbento 😎",
+    "PROVIDE_GLOW_NAME": "{{author}} Kailangan mong maglagay ng pangalan para sa `Glow` na ito",
+    "GLOW_NAME_LONG": "{{author}} Ang pangalan ng `Glow` ay hanggang 25 letra lamang",
+    "GLOW_NAME_EXISTS": "{{author}} Ang pangalan ng `Glow` na iyan ay nagamit na",
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "Sigurado ka ba na gusto mong baguhin ang `{{oldName}}` sa `{{newName}}`?",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "MISSING_ITEMS": "Mga kulang na bagay",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Matagumpay na na-update ang pangalan ng glow"
+    "MISSING_ITEMS": "Wala kang sapat na currency para sa proseso na ito",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Matagumpay na na-update ang pangalan ng `Glow`"
 }

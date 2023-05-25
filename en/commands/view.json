@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "View your card",
-    "SLASH_DESC1": "Enter the card code.",
-    "INVALID_CODE": "The code you provided is invalid. Please provide a valid code.",
-    "SERIES": "Series",
-    "NAME": "Name",
-    "OWNED_BY": "Owned By",
+    "DESCRIPTION": "Displays a card",
+    "SLASH_DESC1": "Enter a card code",
+    "INVALID_CODE": "{{author}} That card code is invalid",
+    "SERIES": "Series:",
+    "NAME": "Name:",
+    "OWNED_BY": "Owned By:",
     "SERVER": "Server",
     "CLAIMED": "Claimed",
-    "MOVES": "Moves",
+    "MOVES": "Abilities:",
     "OWNER_HISTORY": "Owner History",
     "CARD_VIEW": "CARD VIEW"
 }
