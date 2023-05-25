@@ -1,7 +1,7 @@
 {
-    "BID_DESCRIPTION": "Lelang dalam lelangan",
+    "BID_DESCRIPTION": "Menempatkan tawaran Anda dalam \"Auction\"",
     "BID_CATEGORY": "Kartu",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bid <auctionID> <jumlah>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tawaran <AuctionID> <jumlah>`",
     "INVALID_ID": "{{author}} Anda memberikan ID `Auction` yang tidak valid",
     "INVALID_AMOUNT": "{{author}} jumlah harus berupa angka",
     "NO_AMOUNT": "{{author}} kamu tidak memiliki {{amount}} {{currency}}",
