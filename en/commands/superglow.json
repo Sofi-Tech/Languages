@@ -9,7 +9,7 @@
     "SAME_GLOWS": "{{author}} You cannot use the same `Glow` twice for this process",
     "UNAVAILABLE": "Unavailable",
     "AVAILABLE": "Available",
-    "CANNOT_FIND_GLOWS": "{{author}} cannot find glow with codes {{codes}}",
+    "CANNOT_FIND_GLOWS": "{{author}} You cannot use `Super Glows` to form another `Super Glow`!",
     "EMBED_TITLE": "SOFI: SUPER GLOW",
     "FORM_SG_CONFIRM": "You are about to use the following `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nin order to obtain the `Super Glow` **`{{superGlowName}}**",
     "CANNOT_FORM_SG": "Cannot form a superglow",
