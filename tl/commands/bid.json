@@ -1,7 +1,7 @@
 {
-    "BID_DESCRIPTION": "Magbigay ng bid sa mga auctions",
+    "BID_DESCRIPTION": "Maglagay ng iyong bid sa \"Auction\"",
     "BID_CATEGORY": "Cards",
-    "WRONG_USAGE": "{{author}} tamang paggamit: `{{prefix}}bid <auctionID> <amount>`",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bid <AuctionID> <amount>`",
     "INVALID_ID": "{{author}} Ang `Auction` ID na iyong ibinigay ay invalid",
     "INVALID_AMOUNT": "{{author}} kailangan ng numero sa halaga",
     "NO_AMOUNT": "{{author}} wala kang {{amount}} {{currency}}",
