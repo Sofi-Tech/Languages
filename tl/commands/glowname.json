@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} Wala kang `Glows`",
     "WRONG_USAGE": "{{author}} Tama ang paggamit: `{{prefix}}glowname [glowcode] [newname]`",
     "WRONG_GLOWCODE_FORMAT": "Ang Glowcode ay nagsisimula sa `#`",
-    "GLOW_NOT_FOUND": "{{author}} hindi makahanap ng glow na iyon sa iyong palette. Tama ba ang code?",
+    "GLOW_NOT_FOUND": "{{author}} Ang `Glow` code na ibinigay mo ay hindi wasto o hindi nasa iyong inventory",
     "PROVIDE_GLOW_NAME": "{{author}} magbigay ng pangalan ng glow",
     "GLOW_NAME_LONG": "{{author}} ang pangalan ng glow ay masyadong mahaba. Subukan ang hindi hihigit sa 25 na letra",
     "GLOW_NAME_EXISTS": "Ang pangalan ng glow ay mayroon na...Magpaka-imbento 😎",

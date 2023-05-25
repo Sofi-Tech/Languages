@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} Kailangan ng kahit 2 manglalaro bago maumpisahan ang laro",
     "GUESS_THE_WORD": "Sukatin ang ibinigay na salita: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} tama ang hula sa {{word}} at nanalo ng `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `ibigay <user/userID> <cardcode>"
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}give <user/userID> <cardcode>`"
 }

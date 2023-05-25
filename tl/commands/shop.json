@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Nagpapakita ng impormasyon tungkol sa mga mabibili sa laro. Bumili ng mga gem mula kay Sofi upang magamit sa bot. Pwede mo gamitin ang Paypal para sa global na mga mabibili at Stripe kung galing ka sa India.",
+    "DESCRIPTION": "Bumili ng \"Items\" mula sa \"Shop\" ni Sofi",
     "GUILD": "Guild",
     "GEMS": "Bumili ng mga Gems!",
-    "SOFI_SHOP": "Sofi Shop",
-    "VIEW_CAT": "Gamitin ang mga button upang tingnan ang ibang mga kategorya",
-    "DROP": "Bumili ng karagdagang drops upang makakuha ng card nang walang cooldown",
-    "GRAB": "Bumili ng karagdagang grabs upang makakuha ng card nang walang cooldown",
-    "CUBE": "Bumili ng cube upang makagawa ng mga 3D na bersyon",
-    "TP": "Ginagamit upang ma-access ang multitrade at games",
-    "GUILD_STONE": "Bumili ng guild stone upang lumikha ng sariling guild",
-    "BG": "Bumili ng mga magagandang background upang magamit sa mga 3D cards",
-    "RECHARGE": "Ginagamit upang gawing muli ang unavailable glow",
-    "GEN_S": "Bumili ng scratcher upang malaman ang iyong event card gen",
-    "STAT_RESET": "Ang item na ito ay pwedeng magreset ng mga nag-upgraded na stats"
+    "SOFI_SHOP": "Tindahan ni Sofi",
+    "VIEW_CAT": "Gamitin ang mga sumusunod na button para mag-browse sa iba't ibang kategorya",
+    "DROP": "Ang mga `Drops` ay maaaring gamitin upang mag-drop ng higit pang mga card habang ikaw ay nasa cooldown pa",
+    "GRAB": "Ang mga `Grabs` ay maaaring gamitin upang kunin ang higit pang mga card habang ikaw ay nasa cooldown pa",
+    "CUBE": "Kailangan ng mga `Cubes` upang gawing `3D` variant ang iyong mga card",
+    "TP": "Ang isang `Trade Pass` ay kinakailangan upang mag-access sa mga mini game at mag-perform ng multi trades",
+    "GUILD_STONE": "Kailangan ng mga `Guild Stones` upang makagawa ng isang `Guild`",
+    "BG": "Ang mga `Backgrounds` ay maaaring ilapat sa mga `3D` variant ng isang karakter",
+    "RECHARGE": "refill-an ng iyong `Glow`",
+    "GEN_S": "Ang mga `Scratchers` ay nagpapakita ng `Gen` ng isang `Event` card",
+    "STAT_RESET": "Ang `Item` na ito ay maaaring gamitin upang bawiin ang mga pag-upgrade ng mga estadistika ng isang card"
 }

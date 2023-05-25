@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Muestra información sobre los objetos comprables dentro del juego. Compra gemas de Sofi para usar en el bot. Puedes utilizar Paypal para compras globales y Stripe si eres de India.",
+    "DESCRIPTION": "Compra \"Items\" en el \"Shop\" de Sofi",
     "GUILD": "Gremio",
     "GEMS": "¡Compra gemas!",
-    "SOFI_SHOP": "Tienda Sofi",
-    "VIEW_CAT": "Usa los botones para ver otras categorías",
-    "DROP": "Compra gotas extra para soltar una carta sin tiempo de reutilización",
-    "GRAB": "Compra agarres extra para tomar una carta sin tiempo de reutilización",
-    "CUBE": "Compra cubos para crear versiones 3D",
-    "TP": "Usado para acceder a multitrade y juegos",
-    "GUILD_STONE": "Compra piedra de gremio para crear tu propio gremio",
-    "BG": "Compra fondos interesantes para aplicar en tus cartas 3D",
-    "RECHARGE": "Hace que el brillo no disponible vuelva a estar disponible",
-    "GEN_S": "Compra rasca y gana para revelar tu generador de cartas de evento",
-    "STAT_RESET": "Este objeto puede resetear las estadísticas mejoradas"
+    "SOFI_SHOP": "Tienda de Sofi",
+    "VIEW_CAT": "Usa los botones a continuación para buscar por otras categorías",
+    "DROP": "Los `Drops`pueden ser usados para generar mas cartas mientras todavía estás en enfriamiento",
+    "GRAB": "Los `Grabs`pueden ser usados para agarrar mas cartas mientras todavía estás en enfriamiento",
+    "CUBE": "Los `Cubes`son necesarios para transformar tus cartas en variantes `3D`",
+    "TP": "El `Trade Pass` es necesario para acceder a mini juegos y hacer intercambios",
+    "GUILD_STONE": "Los `Guild Stones` son necesarios para crear un `Guild`",
+    "BG": "Los `Backgrounds` pueden ser aplicados a personajes con variantes `3D`",
+    "RECHARGE": "Recarga tu `Glow`",
+    "GEN_S": "Los `Scratchers` revelan el `Gen` de una carta de `Event`",
+    "STAT_RESET": "Este `Item` puede ser usado para reiniciar las estadísticas modificadas de una carta"
 }

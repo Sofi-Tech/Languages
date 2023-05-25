@@ -3,7 +3,7 @@
     "CATEGORY": "Listahan ng Ninanais",
     "ADD_CHARACTERS_ERROR": "> Hindi ka na makakapagdagdag pa ng mga karacter sa iyong listahan ng ninanais",
     "SEARCH_CHARACTER_ERROR": "Magbigay ng pangalan ng karacter upang mailagay sa iyong listahan ng ninanais \nGamitin ang `swa -f <name>` para sa eksaktong paghahanap",
-    "NO_CHARACTER_FOUND": "Walang nahanap na karacter\nGamitin ang `swa -f <name>` para sa eksaktong paghahanap",
+    "NO_CHARACTER_FOUND": "Hindi natagpuan ang karakter na iyon\n Gamitin ang command na `swa -f <name>` para sa eksaktong paghahanap",
     "CHARACTER_ALREADY_EXISTS": "{{name}} ay nasa listahan na ng iyong ninanais!",
     "CHARACTER_ADDED": "> {{author}} | Idinagdag ang {{name}} sa iyong listahan ng ninanais",
     "EMBED_TITLE": "<:lined:868888105611046942> __Idagdag sa wishlist__"

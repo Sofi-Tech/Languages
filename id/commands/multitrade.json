@@ -19,12 +19,11 @@
     "NOTED_ADDED": "Catatan ditambahkan: {{response}}",
     "TRADE_CANCELLED": "Trade dibatalkan",
     "MT_ENDS": "Multitrade berakhir {{timer}}",
-    "MT_INFO_1": "🤝 Imbuhan: `Background [&]` `Glow [#]` `Fragments [-]` `Frame [$]` `Tag [%}`",
-    "MT_INFO_2": "🔮 Singkatan `Crystal`: 🔥 `[fi-c]` 🌲 `[wo-c]` 💡 `[li-c]` dll.",
+    "MT_INFO_1": "🤝 Awalan: `Background [&]` `Glow [#]` `Fragments [-]` `Frame [$]` `Tag [%}`",
+    "MT_INFO_2": "🔮 Singkatan `Crystal`: 🔥 `[fi-c]` 🌲 `[wo-c]` dll.",
     "MT_INFO_3": "🗒️ Tambahkan catatan ke perdagangan Anda untuk menambahkan konteks pada log kami",
     "MT_INFO_4": "📛 Laporkan pemain yang meminta pembayaran kripto, karena ini adalah pelanggaran yang dapat dilarang!",
     "MT_COMPLETE": "Multi Trade: (Selesai)",
-    "ERROR": "Error",
-    "MISSING_ITEMS": "Anda melewatkan `Item` berikut ini:",
-    "CARD_LOCKED": "{{code}} kartu terpilih/terkunci"
+    "MISSING_ITEMS": "{{user}} Item berikut ini tidak ada dalam inventaris Anda dan tidak dapat ditambahkan:\n`{{items}}`",
+    "CARD_LOCKED": "{{user}} Kartu-kartu berikut ini terkunci atau sedang digunakan di dalam deck dan tidak dapat ditambahkan:\n`{{codes}}"
 }

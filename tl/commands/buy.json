@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Bumili ng mga aytem sa \"Shop\"\nGamitin ang command na \"sshop\" upang mag-browse sa mga iba't-ibang uri ng bilihin sa Sofi",
+    "DESCRIPTION": "Bumili ng \"Items\" mula sa \"Shop\" ni Sofi",
     "SLASH_DESC": "Ilagay ang pangalan ng `Item` na gusto mong bilhin",
     "SLASH_DESC2": "Itala ang halaga",
     "SLASH_DESC3": "Ilagay ang code ng background na gusto mong bilhin. [ITO AY GUMAGANA LAMANG KUNG ANG ITEM AY PINILI LAMANG BILANG BACKGROUND]",
@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{USER}} Tamang paggamit: `{{prefix}}buy bg <BackgroundID> <amount>`",
     "INVALID_BG_AMOUNT": "Huwag mag lagay ng negatibong halaga",
     "INVALID_BG_ID": "Pakibigay ng wastong `Background` -ID",
-    "NO_ITEM_PROVIDED": "Walang aytem na binigay",
+    "NO_ITEM_PROVIDED": "Walang `Item` na ibinigay",
     "INVALID_AMOUNT": "Mali ang halaga na binigay",
-    "INVALID_ITEM_PROVIDED": "{{USER}} Maling aytem ang binigay"
+    "INVALID_ITEM_PROVIDED": "{{USER}} Maling `aytem` ang binigay"
 }
