@@ -8,14 +8,14 @@
     "UNLOCK_GLOWS": "{{author}} У вас еще нет `Свечений`",
     "PROVIDE_GLOW_CODE": "{{author}} Вы также должны указать код свечения",
     "INVALID_GLOW_CODE": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
-    "GLOW_NOT_FOUND": "{{author}} Код `Свечения`, который вы указали, либо неверен, либо отсутствует в вашем инвентаре",
-    "EMBED_GLOW_TITLE": "SOFI: СВЕЧЕНИЕ",
+    "GLOW_NOT_FOUND": "{{author}} `Glow` код, который вы указали, либо неверен, либо отсутствует в вашем `Inventory`",
+    "EMBED_GLOW_TITLE": "SOFI: ГЕНЕРАЦИЯ GLOW",
     "EMBED_SG_TITLE": "SOFI: СУПЕР СВЕЧЕНИЕ",
     "GLOW_NAME": "Название: {{name}}",
     "GLOW_CODE": "Код: #{{code}}",
     "EMBED_FOOTER": "Свечение: {{availability}}",
     "GLOW_UNAVAILABLE": "У этого `Glow` нет зарядов",
-    "GLOW_APPLY_SUCCESSFULL": "Свечение успешно применено",
+    "GLOW_APPLY_SUCCESSFULL": "`Glow` успешно установлен",
     "UNAVAILABLE": "Недоступно",
     "AVAILABLE": "Доступно"
 }
