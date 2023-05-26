@@ -1,16 +1,16 @@
 {
-    "GN_DESCRIPTION": "Alterar o nome do brilho",
+    "GN_DESCRIPTION": "Alterar o nome do \"Glow\"",
     "GN_CATEGORY": "Cosméticos",
     "UNLOCK_GLOWS": "{{author}} Você não tem nenhum `Brilho`",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}glowname [código do brilho] [novo nome]`",
-    "WRONG_GLOWCODE_FORMAT": "O código do brilho começa com `#`",
-    "GLOW_NOT_FOUND": "{{author}} O código `Glow` que você digitou está incorreto ou não está em seu inventário",
-    "PROVIDE_GLOW_NAME": "{{author}} por favor forneça o nome do brilho",
-    "GLOW_NAME_LONG": "{{author}} o nome do brilho é muito longo. Tente menos de 25 letras",
-    "GLOW_NAME_EXISTS": "O nome do brilho já está em uso...Inove 😎",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}glowname [CódigoDoBrilho] [NovoNome]`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} O código do`Glow` sempre começa com `#`",
+    "GLOW_NOT_FOUND": "{{author}} O código do `Brilho` que você digitou é inválido ou não está em seu `Inventório`",
+    "PROVIDE_GLOW_NAME": "{{author}} Você precisa fornecer um nome para este `Glow`",
+    "GLOW_NAME_LONG": "{{author}} Nomes de `Glow`podem ter no máximo 25 caracteres",
+    "GLOW_NAME_EXISTS": "{{author}} O nome do `Glow` já está em uso em outro lugar",
     "EMBED_TITLE": "SOFI: NOME DO BRILHO",
     "GLOWNAME_CHANGE_CONFIRMATION": "Você tem certeza que deseja alterar `{{oldName}}` para `{{newName}}`?",
     "EMBED_FOOTER": "Brilho: {{availability}}",
-    "MISSING_ITEMS": "Faltando itens",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "O nome do brilho foi atualizado com sucesso"
+    "MISSING_ITEMS": "Você não possui economia suficiente para este processo",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "O nome do `Glow` foi atualizado com sucesso"
 }

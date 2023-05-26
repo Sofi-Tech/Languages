@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Visualize seu cartão",
-    "SLASH_DESC1": "Insira o código do cartão.",
-    "INVALID_CODE": "O código fornecido é inválido. Por favor forneça um código válido.",
-    "SERIES": "Série",
-    "NAME": "Nome",
-    "OWNED_BY": "Propriedade de",
+    "DESCRIPTION": "Mostra a carta",
+    "SLASH_DESC1": "Insira o código da carta",
+    "INVALID_CODE": "{{author}} O código da carta fornecido é inválido",
+    "SERIES": "Séries:",
+    "NAME": "Nome:",
+    "OWNED_BY": "Propriedade de:",
     "SERVER": "Servidor",
     "CLAIMED": "Reivindicado",
-    "MOVES": "Jogadas",
+    "MOVES": "Habilidades:",
     "OWNER_HISTORY": "Histórico de Proprietários",
-    "CARD_VIEW": "VISUALIZAÇÃO DE CARTÃO"
+    "CARD_VIEW": "VISUALIZAÇÃO DE CARTA"
 }
