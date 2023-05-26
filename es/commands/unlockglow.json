@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "Desbloquear los brillos",
+    "UG_DESCRIPTION": "Desbloquear un \"Glow\" aleatorio",
     "UG_CATEGORY": "Cosméticos",
-    "EMBED_TITLE": "SOFI: DESBLOQUEAR BRILLO",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} ¿Estás seguro de que deseas desbloquear un brillo por 100 {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "Se ha cancelado el desbloqueo",
+    "EMBED_TITLE": "SOFI: GENERAR GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} ¿Estás seguro de que deseas desbloquear un `Glow` por 100 {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "La transacción ha sido cancelada",
     "NOT_ENOUGH_GEMS": "No tienes suficientes gemas",
-    "EMBED_GLOW_TITLE": "SOFI: BRILLO",
+    "EMBED_GLOW_TITLE": "SOFI: GENERAR GLOW",
     "UNLOCK_GLOW_SUCCESS": "¡Felicidades {{author}}! Has desbloqueado `{{glowName}}`(`#{{glowCode}}`)"
 }
