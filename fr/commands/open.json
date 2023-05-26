@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Ouvre des coffres et des boîtes de butin",
-    "SLASH_DESC_1": "Entrez l'objet que vous voulez ouvrir",
-    "SLASH_DESC_2": "Entrez le nombre.",
-    "CORRECT_USAGE": "{{author}} Utilisation correcte : `{{prefix}}open <NomObjet> <Quantité>`\n`Objets` qui peuvent être ouverts : `Coffres`, `Charms`",
-    "EMPTY_INV": "{{author}} Votre inventaire est vide",
+    "DESCRIPTION": "Ouvre des coffres et des lootboxes",
+    "SLASH_DESC_1": "Entrez L'-\"Item\" que vous voulez ouvrir",
+    "SLASH_DESC_2": "Entrez le montant.",
+    "CORRECT_USAGE": "{{author}} Usage correct: `{{prefix}}open <NomDItem> <Montant>`",
+    "EMPTY_INV": "{{author}} Votre `Inventory` est vide",
     "CHARM_MISSING": "{{author}} Vous n'avez pas de `Charms`",
     "SOFI_CARDS_MISSING": "{{author}} Il n'y a actuellement pas assez de cartes dans la collection de Sofi",
     "CONGRATS": "Félicitations ! Vous avez reçu :",
@@ -16,5 +16,6 @@
     "ITEMS_FOUND": "Objets obtenus:\n",
     "COMMON_RARE_FOOTER": "Vous pouvez obtenir un coffre {{chestName}} pour chaque série de {{count}} `Quotidienne`",
     "EXOTIC_DIVINE_FOOTER": "Vous pouvez obtenir un coffre {{chestName}} pour {{count}} votes chaque mois",
-    "ITEM_MISSING": "Vous n'avez pas {{itemName}} dans votre inventaire"
+    "ITEM_MISSING": "Vous n'avez pas {{itemName}} dans votre inventaire",
+    "CORRECT_USAGE_2": "`Items` pouvant être ouvert: `Chests`, `Charms`"
 }

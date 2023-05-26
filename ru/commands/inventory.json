@@ -12,7 +12,7 @@
     "EVENT": "Событие",
     "SELF_INV_EMPTY": "{{author}} Ваш `Inventory` пуст",
     "USER_INV_EMPTY": "{{author}} `Inventory` этого пользователя пуст",
-    "NO_BG_FOUND": "`Background` не найден",
-    "NO_ITEM_FOUND": "Не удалось найти этот предмет в данном инвентаре",
-    "HIDE_INV": "Чтобы скрыть свой инвентарь, используйте команду `spvt inv`"
+    "NO_BG_FOUND": "У вас нет ни одного `Backgrounds`",
+    "NO_ITEM_FOUND": "{{author}} Не удалось найти этот `Item` в `Inventory`",
+    "HIDE_INV": "Используйте команду `{{prefix}}pvt inv`, чтобы сделать свой `Inventory` приватным"
 }
