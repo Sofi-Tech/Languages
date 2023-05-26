@@ -6,7 +6,7 @@
     "ALREADY_EXISTS": "{{author}} You already have an existing deal!\nUse the command `{{prefix}}mul {{dealID}}` to remove it, before listing a new one",
     "PRODUCTS": "You offer:",
     "RATE": "Rate: (Waiting for change, dont translate yet)",
-    "VALUE": "Rate: (Waiting for change, dont translate yet)",
+    "VALUE": "Rate: Test2",
     "CONFIRM_FOOTER": "",
     "CONFIRM_ASK": "Are you sure you want to list this deal to the market?",
     "CANCELLED": "You are trying to list more `Wists` than you have! [DONT TRANSLATE THIS, WRONG KEY, WAITING FOR UPDATE]",

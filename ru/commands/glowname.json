@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Меняет название \"Glow\"",
     "GN_CATEGORY": "Косметика",
     "UNLOCK_GLOWS": "{{author}} У вас нет никаких `Glows`",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}glowname <GlowCode] [NewName]`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}gn <GlowКод> <НовоеИмя>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
     "GLOW_NOT_FOUND": "{{author}} `Glow` код, который вы указали, либо неверен, либо отсутствует в вашем `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} Вам необходимо указать имя для этого `Glow`",
