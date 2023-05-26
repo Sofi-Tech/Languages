@@ -6,7 +6,7 @@
     "CANNOT_FIND_CARD": "{{author}} У вас пока нет ни одной карты в коллекции",
     "3D_ERROR": "{{author}} Вы не можете изменить цвет шрифта 3D-карт",
     "UNLOCK_GLOWS": "{{author}} У вас нет никаких `Glows`",
-    "PROVIDE_GLOWCODE": "{{author}} Правильное использование: `{{prefix}}fc <CardCode> <GlowCode>`",
+    "PROVIDE_GLOWCODE": "{{author}} Правильное использование: `{{prefix}}fc <КодКарты> <GlowКод>`",
     "WRONG_GLOWCODE": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
     "CANNOT_FIND_GLOW": "{{author}} Этот код `Glow` либо недействительный, либо у вас его нет",
     "EMBED_TITLE": "SOFI: ЦВЕТ ШРИФТА{{reset}}",
