@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Brûlez en masse vos cartes",
+    "DESCRIPTION": "Brûlez une multitude de cartes en même temps",
     "IN_ACTIVE_MB": "{{user}} vous êtes déjà en commande de massburn active.\n Annulez la dernière commande ou brûlez les cartes de la dernière commande pour commencer une nouvelle commande de massburn.",
     "PROVIDE_FILTERS": "Fournir un filtre pour filtrer la collection : t=nomdutag, g><=gen, wl><=wishlist",
     "WRONG_TAG": "Mauvais tag fourni. Veuillez vérifier à nouveau.",
