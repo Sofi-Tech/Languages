@@ -2,7 +2,7 @@
     "BF_DESCRIPTION": "Покупает \"Frame\" в \"Frame Shop\"",
     "BF_CATEGORY": "Cosmetics",
     "NO_FRAME_NAME": "{{author}} Пожалуйста, укажите название `Frame`, который вы хотите купить",
-    "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти `Frame` с кодом `{{name}}`",
+    "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти ни одного `Frame` с кодом `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} Эта рамка сейчас недоступен. Вместо этого используйте команду `sfs`, чтобы проверить текущее ротацию `Frame`",
     "NO_FRAME_FOUND": "{{author}} `Frame` с таким кодом не существует",
     "FRAME_NOT_PURCHASABLE": "{{author}} Эта `Frame` ограничена и больше не может быть куплена",

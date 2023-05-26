@@ -1,15 +1,15 @@
 {
-    "BF_DESCRIPTION": "Comprar un frame en la tienda de frames",
-    "BF_CATEGORY": "Cosmetics",
-    "NO_FRAME_NAME": "{{author} Olvidaste proporcionar el nombre del marco",
-    "NO_FRAMECODE_FOUND": "{{author}} **No se encontró marco con el código `{{name}}`",
-    "FRAME_UNAVAILABLE": "Ese marco no está disponible. Por favor use `sfs` para verificar el marco disponible",
-    "NO_FRAME_FOUND": "{{author}} No se encontraron marcos con ese código",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Este frame es limitado y ya no puede ser comprado",
+    "BF_DESCRIPTION": "Comprar un \"Frame\" en la \"Frame Shop\"",
+    "BF_CATEGORY": "Cosmeticos",
+    "NO_FRAME_NAME": "{{author}} Olvidaste proporcionar el nombre de `Frame`que desea comprar",
+    "NO_FRAMECODE_FOUND": "{{author}} No se encontró ningun `Frame` con el código `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} Este frame no está disponible actualmente. Por favor use el comando `sfs` para verificar si el `Frame` esta en rotación",
+    "NO_FRAME_FOUND": "{{author}} No existe ningún `Frame` con ese código",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Este `Frame` es limitado y ya no puede ser comprado",
     "EMBED_TITLE": "TRANSACCIÓN",
     "YOU_GET": "Obtienes:",
     "YOU_PAY": "Pagas:",
     "TRANSACTION": "TRANSACCIÓN",
-    "NO_ENOUGH_AMOUNT": "No tienes suficiente cantidad para comprar este marco",
-    "FRAME_PURCHASED_BY": "Tu marco `{{frame}}` ha sido comprado por `{{userId}}` {{buyCount}}"
+    "NO_ENOUGH_AMOUNT": "No tienes suficiente cantidad para realizar esta transacción",
+    "FRAME_PURCHASED_BY": "Tu `Frame`**{{frame}}** ha sido comprado por `{{userId}}`| {{buyCount}}"
 }

@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Menampilkan daftar Anda di pasar atau menampilkan rincian tentang penawaran tertentu",
+    "DESCRIPTION": "Menampilkan daftar pasar Anda saat ini atau memeriksa kesepakatan jika Anda memberikan ID",
     "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda berikan tidak valid",
-    "TRADER": "Pedagang",
+    "TRADER": "Penjual",
     "DEAL_ID": "Nilai",
-    "PRODUCT": "Produk",
+    "PRODUCT": "Anda mendapatkan:",
     "VALUE": "Nilai",
-    "RATE": "Tarif",
+    "RATE": "Harga",
     "LISTED": "Terdaftar",
-    "NO_LISTINGS_FOUND": "{{user}} Anda belum membuat daftar di pasar",
-    "INFO": "Gunakan `{{prefix}}ml` dan `smul` untuk mencabut daftar\nSatu penawaran dapat terdaftar pada satu waktu",
+    "NO_LISTINGS_FOUND": "{{user}} Anda tidak memiliki daftar di pasar",
+    "INFO": "Gunakan perintah `{{prefix}}mul <ID>` untuk menghapus daftar transaksi Anda saat ini\n**Hanya satu transaksi yang dapat didaftarkan dalam satu waktu**",
     "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!"
 }

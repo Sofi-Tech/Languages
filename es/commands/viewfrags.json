@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Muestra fragmentos animados disponibles",
-    "COLLECTION_PVT": "La colección de ese usuario es privada",
-    "CANNOT_FIND_FRAGS": "{{user}} no puede encontrar fragmentos.",
-    "FRAGS_COUNT": "Cantidad de Fragmentos: {{totalCount}}",
-    "FRAG_LIST": "Lista de Fragmentos: {{userName}}"
+    "DESCRIPTION": "Muestra una lista con jugadores que poseen \"Fragments\"",
+    "COLLECTION_PVT": "{{author}} Los `Fragment`de este usuario son privados!",
+    "CANNOT_FIND_FRAGS": "{{user}} No se pudo encontrar ningun `Fragments`en el inventario",
+    "FRAGS_COUNT": "Cantidad de `Fragment`: {{totalCount}}",
+    "FRAG_LIST": "Lista de \"Fragment\": {{userName}}"
 }

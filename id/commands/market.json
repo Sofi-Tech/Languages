@@ -2,7 +2,7 @@
     "DESCRIPTION": "Menampilkan pasar Sofi",
     "NO_LISTING_FOUND": "Tidak dapat menemukan daftar apa pun",
     "STOCK": "Stok",
-    "RATE": "Tingkat",
+    "RATE": "Harga",
     "MARKET_WARN": "Jangan gunakan pasar untuk menyimpan atau menyembunyikan `Wists`!\nJika Anda ketahuan melakukan hal tersebut, `Wists` akan dihapus tanpa kompensasi.\n`Kurs Rata-rata : {{averageRate}}` `Total Perdagangan : {{totalTrades}}`",
     "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!"
 }
