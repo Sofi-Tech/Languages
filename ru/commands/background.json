@@ -6,7 +6,7 @@
     "EMBED_TITLE": "Установить Background:",
     "USER_NO_BG": "У вас нет этого `Background`",
     "APPLY_GIF_CARDS": "{{author}} Вы не можете установить `Backgrounds` к картам, которые не являются 3D",
-    "INVALID_CODE": "{{author}} Код карты, который вы предоставили недействителен",
+    "INVALID_CODE": "{{author}} Указан недействительный код карты",
     "BG_NOT_FOUND": "Не удалось найти ни одного `Background` с таким идентификатором",
     "EMBED_DESCRIPTION": "Вы собираетесь установить `Background` **{{background}}**"
 }

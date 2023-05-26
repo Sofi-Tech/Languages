@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Membeli penawaran dari pasar",
-    "CORRECT_USAGE": "{{user}} | Penggunaan yang Benar: {{prefix}}mp <id penawaran> [jumlah bintang]",
-    "INVALID_DEAL_ID": "ID Penawaran Tidak Valid: Mohon Periksa Kembali",
+    "DESCRIPTION": "Membeli \"Wist\" dari pasar untuk ditukar dengan \"Gems\"",
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}mbuy <OfferID> <JumlahWist>`",
+    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda berikan tidak valid",
     "CANNOT_PURCHASE": "{{user}} | Tidak dapat membeli penawaran tersebut",
-    "CANNOT_SELF": "{{user}} | Anda tidak dapat membeli penawaran Anda sendiri",
+    "CANNOT_SELF": "{{user}} Anda tidak dapat membeli penawaran Anda sendiri",
     "WIST_NOT_EXCEED": "Jumlah bintang tidak boleh melebihi {{amount}}",
     "PRODUCT": "Produk",
     "VALUE": "Nilai",
