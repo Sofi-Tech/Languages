@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Displays animated fragments available",
-    "COLLECTION_PVT": "{{author}} That user's collection is private!",
+    "DESCRIPTION": "Displays the list of a user's available \"Fragments\"",
+    "COLLECTION_PVT": "{{author}} That user's `Fragment` tab is private!",
     "CANNOT_FIND_FRAGS": "{{user}} cannot find any frags.",
-    "FRAGS_COUNT": "Frags count: {{totalCount}}",
-    "FRAG_LIST": "Frag List: {{userName}}"
+    "FRAGS_COUNT": "`Fragment` count: {{totalCount}}",
+    "FRAG_LIST": "\"Fragment\" List: {{userName}}"
 }

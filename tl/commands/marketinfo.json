@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Naghahanda ng iyong tala sa merkado o nagpapakita ng mga detalye tungkol sa partikular na transaksyon",
-    "INVALID_DEAL_ID": "Invalid na Deal ID: Mangyaring suriin muli",
+    "DESCRIPTION": "Pinapakita ang iyong kasulukuyang lista sa market o sinusuri ang deal kapag ikaw ay nagbigay ng ID",
+    "INVALID_DEAL_ID": "{{author}} Ang Deal ID na iyong ibinigay ay hindi wasto",
     "TRADER": "Mangangalakal",
     "DEAL_ID": "Halaga",
-    "PRODUCT": "Produkto",
+    "PRODUCT": "Makukuha mo:",
     "VALUE": "Halaga",
     "RATE": "Rate",
     "LISTED": "Nakalista",
