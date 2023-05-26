@@ -10,9 +10,9 @@
     "CRYSTALS": "Crystals",
     "BACKGROUNDS": "Backgrounds",
     "EVENT": "Evento",
-    "SELF_INV_EMPTY": "Tu `Inventory` está vacío",
+    "SELF_INV_EMPTY": "{{author}} Tu `Inventory` está vacío",
     "USER_INV_EMPTY": "{{author}} El `Inventory` de ese usuario está vacío",
     "NO_BG_FOUND": "No se encontró ningún `Background`",
-    "NO_ITEM_FOUND": "No se pudo encontrar ese `Item` en este `Inventory`",
+    "NO_ITEM_FOUND": "{{author}} No se pudo encontrar ese `Item` en el `Inventory`",
     "HIDE_INV": "Para ocultar tu `Inventory`, usa el comando `spvt inv`"
 }

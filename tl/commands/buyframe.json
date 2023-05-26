@@ -8,8 +8,8 @@
     "FRAME_NOT_PURCHASABLE": "{{author}} Ang `Frame` na iyan ay limitado at hindi na maaring mabili",
     "EMBED_TITLE": "TRANSAKSIYON",
     "YOU_GET": "Makukuha Mo:",
-    "YOU_PAY": "Babayaran Mo:",
+    "YOU_PAY": "Ibabayad Mo:",
     "TRANSACTION": "TRANSAKSIYON",
     "NO_ENOUGH_AMOUNT": "Kulang ang iyong currency para sa transaction na ito",
-    "FRAME_PURCHASED_BY": "Ang iyong `Frame` na `{{frame}}` ay binili ni `{{userId}}`| {{buyCount}}"
+    "FRAME_PURCHASED_BY": "Ang iyong `Frame` na `**{{frame}}**` ay binili ni `{{userId}}` | {{buyCount}}"
 }

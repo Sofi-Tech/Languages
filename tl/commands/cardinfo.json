@@ -2,7 +2,7 @@
     "DESCRIPTION": "Nagpapakita ng impormasyon tungkol sa isang kard",
     "SLASH_DESC": "Isulat ang code ng kard na gusto mong suriin",
     "NO_CARD_FOUND": "Hindi mahanap ang iyong huling kard. Sa halip ilagay ang kard code",
-    "INVALID_CARD_CODE": "{{author}} Ang card code na iyong nilagay ay hindi valid",
+    "INVALID_CARD_CODE": "{{author}} Ang card code na iyong nilagay ay hindi wasto",
     "CARD_MORPHED": "Ang kard na iyon ay morphed",
     "CARD_GLOWED": "Ang kard ay may `Glow`na nakalagay: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Kulay ng font: {{fontName}} [`#{{ viewCode}}`]\n",
