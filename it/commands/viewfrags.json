@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Visualizza frammenti animati disponibili",
-    "COLLECTION_PVT": "La collezione di quell'utente è privata",
-    "CANNOT_FIND_FRAGS": "{{user}} non riesce a trovare alcun frag.",
-    "FRAGS_COUNT": "Conteggio Frags: {{totalCount}}",
-    "FRAG_LIST": "Lista frag: {{userName}}"
+    "DESCRIPTION": "Visualizza l'elenco dei \"Fragments\" disponibili di un utente",
+    "COLLECTION_PVT": "{{author}} La scheda `Fragment` di quell'utente è privata!",
+    "CANNOT_FIND_FRAGS": "{{user}} Non è riuscito a trovare alcun `Fragments` in quell'inventario",
+    "FRAGS_COUNT": "Conteggio `Fragment`: {{totalCount}}",
+    "FRAG_LIST": "Elenco \"Fragments\": {{userName}}"
 }

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Menampilkan list \"Fragments\" pengguna yang tersedia",
-    "COLLECTION_PVT": "Koleksi pengguna ini bersifat pribadi",
-    "CANNOT_FIND_FRAGS": "{{user}} tidak dapat menemukan frag apa pun.",
-    "FRAGS_COUNT": "Jumlah frag: {{totalCount}}",
-    "FRAG_LIST": "Daftar Frag: {{userName}}"
+    "COLLECTION_PVT": "{{author}} Tab `Fragmen` pengguna tersebut bersifat pribadi!",
+    "CANNOT_FIND_FRAGS": "{{user}} Tidak dapat menemukan `Fragments` apapun di penyimpanan",
+    "FRAGS_COUNT": "Jumlah `Fragment`: {{totalCount}}",
+    "FRAG_LIST": "Daftar \"Fragment\": {{userName}}"
 }

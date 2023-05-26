@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Visualizza il mercato di sofi",
     "NO_LISTING_FOUND": "Non è stato possibile trovare alcun elenco",
-    "STOCK": "Stock",
+    "STOCK": "Azione",
     "RATE": "Tariffa",
     "MARKET_WARN": "Non usare il mercato per nascondere o magazzinare `Wists`!\nSe venite scoperti a fare ciò, i `Wists` verrano toflti senza compensazione.\n`tasso medio : {{averageRate}}` `scambi in totale : {{totalTrades}}`",
     "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!"

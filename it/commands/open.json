@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Apre le casse e le casse di bottino",
     "SLASH_DESC_1": "Inserisci il nome dell'oggetto che vuoi aprire",
-    "SLASH_DESC_2": "Inserisci la quantità",
-    "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}open <NomeOggetto> <Quantità>`\n`Oggetti` che possono essere aperti: `Casse`, `Amuleti`",
+    "SLASH_DESC_2": "Inserisci l'importo.",
+    "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}open <NomeOggetto> <Quantità>`",
     "EMPTY_INV": "{{author}} Il tuo `Inventory` è vuoto",
     "CHARM_MISSING": "{{author}} Non hai nessun `Amuleto`",
     "SOFI_CARDS_MISSING": "{{author}} Attualmente non ci sono abbastanza carte nella collezione di Sofi",
@@ -15,6 +15,7 @@
     "COMMON_INFO_1": "Hai aperto **{{totalChests}}** casse `{{chestName}}`",
     "ITEMS_FOUND": "Oggetti ottenuti:\n",
     "COMMON_RARE_FOOTER": "Puoi ottenere una cassa {{chestName}} per ogni striscia giornaliera di {{count}} `Daily`",
-    "EXOTIC_DIVINE_FOOTER": "Puoi ottenere una cassa {{chestName}} per {{count}} voti ogni mese",
-    "ITEM_MISSING": "Non hai {{itemName}} nel tuo inventario"
+    "EXOTIC_DIVINE_FOOTER": "Puoi ottenere un forziere {{chestName}} per {{count}} `Votes` ogni mese",
+    "ITEM_MISSING": "Non hai {{itemName}} nel tuo inventario",
+    "CORRECT_USAGE_2": "`Oggetti` che possono essere aperti: `Chests`, `Charms`"
 }

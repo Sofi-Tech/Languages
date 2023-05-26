@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Brucia più carte in una sola volta",
-    "IN_ACTIVE_MB": "{{user}} non puoi attivare un nuovo comando di bruciatura di massa mentre ne hai già uno attivo. Perfavore prima finisci o cancella il comando  già attivo",
+    "IN_ACTIVE_MB": "{{user}} Non puoi avviare una nuova ustione di massa mentre ne hai una attiva in corso. Si prega di procedere o annullare prima l'ustione di massa esistente",
     "PROVIDE_FILTERS": "Fornisci un filtro che vuoi applicare per il processo di bruciatura delle carte : `t=NomeDelTag, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} il nome del `Tag` fornito è invalido",
-    "NO_CARDS_FOUND": "{{user}} non hai ancora nessuna carta nella tua collezione",
-    "CARDS_BURNED": "Carte bruciate **{totalCards}]**",
+    "NO_CARDS_FOUND": "{{author}} Non hai ancora carte nella tua collezione",
+    "CARDS_BURNED": "Carte bruciate **{{totalCards}}**",
     "CONFIRM_ASK": "Sei sicuro di voler bruciare le carte elencate? Questa azione è irreversibile",
     "MISSING_CARDS": "{{author}} almeno una carta del `Tags` selezionato, non è più presente nella tua collezione",
     "SUCCESS": "Le carte sono state bruciate con successo",
