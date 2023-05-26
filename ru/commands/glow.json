@@ -1,7 +1,7 @@
 {
     "GLOW_DESCRIPTION": "Применяет эффект \"Свечение\" к вашей карточке",
     "GLOW_CATEGORY": "Cosmetics",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}glow <CardCode> <GlowCode>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}glow <КодКарты> <GlowКод>`",
     "WRONG_CARD": "{{author}} Код карты, который вы указали, либо неверен, либо не находится в вашей коллекции",
     "CARD_NOT_FOUND": "{{author}} У вас пока нет ни одной карты в коллекции",
     "NO_GIF_CARDS": "{{author}} Вы не можете применить `Свечение` к `GIF` карте",

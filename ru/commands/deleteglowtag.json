@@ -1,7 +1,7 @@
 {
     "DGT_DESCRIPTION": "Удаляет \"Glow Tag\"",
     "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}dgt <TagName>`",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}dgt <ИмяTag>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Не удалось найти `Glow Tag`",
     "DELETE_GLOWTAG": "{{author}} Удален `Glow Tag` {{tag}}"
 }

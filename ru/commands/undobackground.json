@@ -1,7 +1,7 @@
 {
     "UB_DESCRIPTION": "Убирает установленный \"Background\" с карточки",
     "UB_CATEGORY": "Косметика",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <CardCode>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
     "NO_CHARACTER_FOUND": "Персонаж не найден",
     "INVALID_CODE": "{{author}} Указан недействительный код карты",
     "NO_GIF_CARD": "{{author}} команда 'cosmetics' не применяется к gif-картам",

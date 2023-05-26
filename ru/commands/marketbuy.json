@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Приобрести сделку на рынке",
-    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}mbuy <OfferID> <WistAmount>`",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}mbuy <ПредложениеID> <КоличествоWist>`",
     "INVALID_DEAL_ID": "Недействительный идентификатор сделки: Проверьте еще раз",
     "CANNOT_PURCHASE": "{{user}} | Невозможно приобрести эту сделку",
     "CANNOT_SELF": "{{user}} | Вы не можете купить свою собственную сделку",

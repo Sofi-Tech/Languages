@@ -1,7 +1,7 @@
 {
     "TD_DESCRIPTION": "Удаляет \"Tag\"",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}dt <TagName>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}dt <ИмяTag>`",
     "TAG_NOT_FOUND": "{{author}} У вас нет `Tag` с таким именем",
     "SUCCESSFUL_DELETE_TAG": "{{author}} Удалил `Tag` \"{{tag}}\""
 }

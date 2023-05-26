@@ -1,6 +1,6 @@
 {
     "BG_DESCRIPTION": "Устанавливает \"Background\" на ваши 3D карточки",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <CardCode> <BackgroundID>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <КодКарты> <BackgroundID>`",
     "BG_CATEGORY": "Cosmetics",
     "APPLY_3D_CARDS": "{{author}} Вы не можете установить `Backgrounds` к картам, которые не являются 3D",
     "EMBED_TITLE": "Установить Background:",

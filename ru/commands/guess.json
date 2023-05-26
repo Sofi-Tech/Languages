@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Начинает игру на угадывание слов",
-    "CORRECT_USAGE": "{{user}} Правильное использование: `{{prefix}}guess <Amount> <Currency>`\nПринимаемые валюты: `Silver` `Wists` `Gems` `Cubes`",
+    "CORRECT_USAGE": "{{user}} Правильное использование: `{{prefix}}guess <Количество> <Валюта>`\nПринимаемые валюты: `Silver` `Wists` `Gems` `Cubes`",
     "NO_TP": "{{message.author}} У вас нет активного `Разрешение на обмен`. Используйте команду `sbump`, чтобы посетить веб-сайт и обменять баллы `Bump` на один",
     "NOT_ENOUGH_CURR": "{{user}} У вас недостаточно `{{currency}}`, чтобы начать игру!",
     "INFO_1": "{{user}} начал игру \"Угадай\"",
