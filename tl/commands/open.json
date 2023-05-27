@@ -2,7 +2,7 @@
     "DESCRIPTION": "Nagbubukas ng mga kahon at lootbox",
     "SLASH_DESC_1": "Ipasok ang \"Item\" na nais mong buksan",
     "SLASH_DESC_2": "Ilagay ang halaga.",
-    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bukas <ItemName> <Halaga>`\n`Mga Item` na maaaring buksan: `Chests`, `Charms`",
+    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}open <ItemName> <Amount>`",
     "EMPTY_INV": "{{author}} Ang iyong `Inventory` ay walang laman",
     "CHARM_MISSING": "{{author}} Wala kang anumang `Charms`",
     "SOFI_CARDS_MISSING": "{{author}} Sa kasalukuyan, hindi sapat ang mga card sa koleksyon ni Sofi",
@@ -15,6 +15,7 @@
     "COMMON_INFO_1": "Nabuksan mo na ang **{{totalChests}}** `{{chestName}}` Chests",
     "ITEMS_FOUND": "Mga natagpuang item:\n",
     "COMMON_RARE_FOOTER": "Maaari kang magkaroon ng {{chestName}} Chest para sa bawat {{count}} na sunod-sunod na `Daily`",
-    "EXOTIC_DIVINE_FOOTER": "Maaari kang magkaroon ng {{chestName}} Chest para sa {{count}} na boto bawat buwan",
-    "ITEM_MISSING": "Wala kang {{itemName}} sa iyong inventory"
+    "EXOTIC_DIVINE_FOOTER": "Maaari kang magkaroon ng {{chestName}} Chest para sa {{count}} na `Votes` kada buwan",
+    "ITEM_MISSING": "Wala kang {{itemName}} sa iyong inventory",
+    "CORRECT_USAGE_2": "Mga `Item` na maaaring buksan: `Chests`, `Charms`"
 }

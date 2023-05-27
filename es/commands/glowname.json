@@ -2,7 +2,7 @@
     "GN_DESCRIPTION": "Cambia el nombre del \"Glow\"",
     "GN_CATEGORY": "Cosméticos",
     "UNLOCK_GLOWS": "{{author}} primero desbloquea algunos `Glows`",
-    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}glowname [códigoglow] [nuevonombre]`",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}} glowname <códigoglow> <nuevonombre>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} El código del glow siempre comienza con `#`",
     "GLOW_NOT_FOUND": "{{author}} el código de `Glow`ingresado es invalido o no se encuentra en su `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} Necesitas proporcionar el nombre del `Glow`",

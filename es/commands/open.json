@@ -1,7 +1,7 @@
 {
     "SLASH_DESC_1": "Ingresa el nombre del objeto que deseas abrir",
     "SLASH_DESC_2": "Ingrese la cantidad.",
-    "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}open <NombreObjeto> <Cantidad>`\n`Objetos` que se pueden abrir: `Cofres`, `Amuletos`",
+    "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}open <NombreObjeto> <Cantidad>`",
     "EMPTY_INV": "{{author}} Tu inventario está vacío",
     "CHARM_MISSING": "{{author}} No tienes ningún `Amuleto`",
     "SOFI_CARDS_MISSING": "{{author}} Actualmente no hay suficientes cartas en la colección de Sofi",
@@ -13,8 +13,9 @@
     "COMMON_INFO_1": "Has abierto **{{totalChests}}** `{{chestName}}` Cofres",
     "ITEMS_FOUND": "Objetos obtenidos:\n",
     "COMMON_RARE_FOOTER": "Puedes obtener un Cofre {{chestName}} por cada racha diaria de {{count}}",
-    "EXOTIC_DIVINE_FOOTER": "Puedes obtener un Cofre {{chestName}} por {{count}} votos cada mes",
+    "EXOTIC_DIVINE_FOOTER": "Puedes obtener un cofre {{chestName}} por {{count}} `Votes` cada mes",
     "ITEM_MISSING": "No tienes {{itemName}} en tu inventario",
     "NAME": "Nombre:",
-    "DESCRIPTION": "Abre cofres y lootbox"
+    "DESCRIPTION": "Abre cofres y lootbox",
+    "CORRECT_USAGE_2": "`Items` que pueden ser abiertos: `Chest`, `Charms`"
 }

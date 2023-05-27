@@ -1,16 +1,16 @@
 {
-    "GN_DESCRIPTION": "Parıltı adını değiştirin",
+    "GN_DESCRIPTION": "\"Glow\"un adını değiştirin",
     "GN_CATEGORY": "Kozmetik",
-    "UNLOCK_GLOWS": "{{author}} önce bazı parıltıları açmalı!",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}glowname [parıltı kodu] [yeni ad]`",
-    "WRONG_GLOWCODE_FORMAT": "Parıltı kodu `#` ile başlar",
-    "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya envanterinizde yok",
-    "PROVIDE_GLOW_NAME": "{{author}} parıltı adını girin",
-    "GLOW_NAME_LONG": "{{author}} parıltı adı çok uzun. 25 harften az deneyin",
-    "GLOW_NAME_EXISTS": "Parıltı adı zaten alınmış...Yenilik yapın 😎",
+    "UNLOCK_GLOWS": "{{author}} Hiç `Glows`unuz yok",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowCode> <NewName>`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları herzaman **#** ile başlar",
+    "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya öğe `Inventory`nizde bulunmuyor",
+    "PROVIDE_GLOW_NAME": "{{author}} Bu `Glow` için bir ad belirlemeniz gerekiyor",
+    "GLOW_NAME_LONG": "{{author}} `Glow` adları en fazla 25 karakter içerebilir",
+    "GLOW_NAME_EXISTS": "{{author}} `Glow` adı zaten başka bir yerde kullanılıyor",
     "EMBED_TITLE": "SOFI: PARILTININ ADI",
     "GLOWNAME_CHANGE_CONFIRMATION": "`{{oldName}}` adını `{{newName}}` olarak değiştirmek istediğinizden emin misiniz?",
     "EMBED_FOOTER": "Parıltı: {{availability}}",
-    "MISSING_ITEMS": "Eksik öğeler",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Parıltı adı başarıyla güncellendi"
+    "MISSING_ITEMS": "Bu işlem için yeterli para biriminiz yok",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "`Glow` adı başarıyla değiştirildi"
 }

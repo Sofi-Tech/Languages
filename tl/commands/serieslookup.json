@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "Maghanap ng partikular na serye",
-    "NO__LAST_CHAR_FOUND": "Hindi mahanap ang huling karakter. Subukan na magbigay ng pangalan ng serye",
-    "NO_CHAR_FOUND": "Walang mga karakter na mahanap",
-    "NO_SERIES_FOUND": "Walang nahanap na resulta para sa {{name}}",
-    "SERIES": "SERYE",
-    "ERROR": "May naganap na error. Pakisubukan muli",
-    "CARD_COLLECTED": "Cards na Natipon: {{collected}}/{{totalCards}}",
-    "TOTAL_WL": "Kabuuan sa Wishlist: {{wlCount}}",
+    "NO__LAST_CHAR_FOUND": "{{author}} Wala ka pang kard sa iyong collection",
+    "NO_CHAR_FOUND": "{{author}} Ang serye na ito ay wala pang mga characters",
+    "NO_SERIES_FOUND": "{{author}} Walang nahanap na resulta para sa series na `{{name}}`",
+    "SERIES": "__SERYE__",
+    "ERROR": "{{author}} May naganap na error. Maaaring subukan muli",
+    "CARD_COLLECTED": "Cards na na-collect: **{{collected}}/{{totalCards}}**",
+    "TOTAL_WL": "Kabuuan ng Wishlist: **__{{wlCount}}__**",
     "CHARACTERS": "Mga Characters"
 }

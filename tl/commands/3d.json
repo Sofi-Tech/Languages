@@ -1,11 +1,11 @@
 {
-    "3D_DESCRIPTION": "Ginawang 3D bersyon ang iyong card",
-    "3D_CATEGORY": "Mga pampaganda",
+    "3D_DESCRIPTION": "Gagawing 3D na bersyon ang iyong card",
+    "3D_CATEGORY": "Mga Cosmetic",
     "INVALID_CARD_CODE": "{{author}} Ang card code na iyong nilagay ay hindi wasto",
     "NO_GIF_CONVERSION": "{{author}} Ang mga `GIF` cards ay hindi maikokonbert sa mga 3D variant",
     "NO_CUBES": "Wala kang sapat na `Cubes`",
     "ALL_3D_NOTE": "Ikaw ay maaring makakuha ng iba't-ibang \"Event\" 3D kapag may aktibong kaganapan",
-    "3D_NOTE": "Ikaw ay nasa punto ng pagcoconvert ng kard na ito sa kanyang 3D. Ang prosesong ito permanente at hindi na maibabalik sa dati. Ang pagbabago ng kard ay pwedeng maiba ang kanyang `Gen`. Ang mga lower `Gens`ay madalas na lower `Gen`pa rin. Tanggalin ang kards frame bago ang pagcoconvert kung hindi mawawala ang nilagay na \"Frame\"",
+    "3D_NOTE": "Ikaw ay nasa punto ng pagcoconvert ng kard na ito sa kanyang 3D. Ang prosesong ito ay permanente at hindi na maibabalik sa dati. Ang pagbabago ng kard ay pwedeng maiba ang `Gen`. Ang mga lower `Gens` ay madalas na lower `Gen` pa rin. Tanggalin ang frame ng kard bago ang pagcoconvert, dahil kung hindi ay mawawala ang nilagay na \"Frame\"",
     "CARD_3D_ALREADY": "{{author}} Ang card na iyon ay naka 3D na",
     "EMBED_TITLE": "SOFI: 3D",
     "EVENT_3D_NOTE": "Ikaw ay maaring makakuha ng iba't-ibang \"Event\" 3D kapag may aktibong kaganapan",
@@ -14,5 +14,5 @@
     "UPGRADED_3D": "Ang iyong card ay tagumpay na nabago sa kanyang 3D",
     "UPGRADE_3D_CANCEL": "Ang proseso ng pagbabago ay kinansela",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Ang event card ay hindi pwede maging 3D",
-    "NO_3D_VERSION": "{{author}} Ang karacter na iyon ay wala pang 3D"
+    "NO_3D_VERSION": "{{author}} Ang karacter na iyon ay wala pang 3D na bersyon"
 }

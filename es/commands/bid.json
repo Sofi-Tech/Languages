@@ -1,5 +1,5 @@
 {
-    "BID_DESCRIPTION": "Oferta en las subastas",
+    "BID_DESCRIPTION": "Oferta en \"Auction\"",
     "BID_CATEGORY": "Tarjetas",
     "WRONG_USAGE": "{{author}} uso correcto: `{{prefix}}bid <auctionID> <cantidad>`",
     "INVALID_ID": "{{author}} has proporcionado un ID de `Auction` inválido",

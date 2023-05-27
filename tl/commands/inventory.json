@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Ipinakita ang \"Inventory\" ni user",
     "SLASH_DESC": "Pumili ng user na nais mong makita ang kanilang \"inventory\"",
-    "SLASH_DESC2": "Ilagay ang pangalan ng `Item` na nais mong hanapin",
+    "SLASH_DESC2": "Ilagay ang pangalan ng \"Item\" na nais mong hanapin",
     "NOT_REGISTER": "{{author}} | Hindi nakarehistro ang user!",
     "NO_USER_FOUND": "{{author}} Hindi nakita ang user na iyon",
     "INV_PRIVATE": "{{author}} Ang `inventory` ng user na ito ay pribado",
@@ -12,7 +12,7 @@
     "EVENT": "Kaganapan",
     "SELF_INV_EMPTY": "{{author}} Ang iyong `inventory` ay walang laman",
     "USER_INV_EMPTY": "{{author}} Ang talaan ng kagamitan ng taong iyon ay walang laman",
-    "NO_BG_FOUND": "Walang nahanap na `Backgrounds`",
+    "NO_BG_FOUND": "Ikaw ay walang `Backgrounds`",
     "NO_ITEM_FOUND": "{{author}} Hindi natagpuan ang `Item` na iyon sa `inventory`",
-    "HIDE_INV": "Gamitin ang `spvt inv`para gawing pribado ang iyong `Inventory`"
+    "HIDE_INV": "Gamitin ang command na `{{prefix}}pvt inv` para gawing pribado ang iyong `Inventory`"
 }

@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Oyunda satın alınabilir ürünler hakkında bilgi verir. Sofi'den bot'ta kullanmak için mücevher alabilirsiniz. Global satın almalar için Paypal'i kullanabilirsiniz ve Hindistanlıysanız Stripe'ı kullanabilirsiniz.",
+    "DESCRIPTION": "Sofi'nin \"Shop\"unan \"Items\" satın alır",
     "GUILD": "Lonca",
     "GEMS": "Mücevher Satın Al!",
-    "SOFI_SHOP": "Sofi Mağazası",
+    "SOFI_SHOP": "Sofi'nin Mağazası",
     "VIEW_CAT": "Diğer kategorileri görüntülemek için düğmeleri kullanın",
-    "DROP": "Kart düşürmeden ekstra düşürücü satın alın",
-    "GRAB": "Kartı yakalamadan ekstra yakalayıcı satın alın",
-    "CUBE": "3D sürümleri oluşturmak için küp satın alın",
-    "TP": "Multi-trade ve oyunlara erişmek için kullanılır",
-    "GUILD_STONE": "Kendi loncanızı oluşturmak için lonca taşı satın alın",
-    "BG": "3D kartlarınıza uygulayabileceğiniz harika arka planlar satın alın",
-    "RECHARGE": "Kullanılamayan parlaklığı tekrar kullanılabilir hale getirir",
-    "GEN_S": "Event kart neslinizi ortaya çıkarmak için kazıyıcı satın alın",
-    "STAT_RESET": "Bu öğe yükseltilmiş istatistikleri sıfırlayabilir."
+    "DROP": "Hala bekleme süresindeyken daha fazla kart düşürmek için `Drops`lar kullanılabilir",
+    "GRAB": "Hala bekleme süresindeyken daha fazla kart kapmak için `Grabs` kullanılabilir",
+    "CUBE": "Kartlarınızı `3D` varyantlarına dönüştürmek için `Cubes` gerekir",
+    "TP": "Mini oyunlara erişmek ve çoklu ticaret gerçekleştirmek için bir `Trade Pass` gerekmektedir",
+    "GUILD_STONE": "Bir `Guild` oluşturmak için `Guild Stones` gereklidir",
+    "BG": "`Background`lar bir karakterin `3D` varyantlarına uygulanabilir",
+    "RECHARGE": "\"Glow\"unuzu yeniden doldurur",
+    "GEN_S": "\"Scratchers\", bir `Event` kartının `Gen`ini deşifre eder",
+    "STAT_RESET": "Bu `Item` bir kartın stat yükseltmelerini geri almak için kullanılabilir"
 }

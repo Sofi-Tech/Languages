@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Zeigt Ihre Auflistung auf dem Markt an oder zeigt Details zu einem bestimmten Deal an",
-    "INVALID_DEAL_ID": "Ungültige Deal-ID angegeben: Bitte überprüfen Sie erneut",
+    "INVALID_DEAL_ID": "{{author}} | Die Angebots-ID die du angegeben hast ist ungültig.",
     "TRADER": "Händler",
     "DEAL_ID": "Rate",
     "PRODUCT": "Produkt",

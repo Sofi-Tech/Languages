@@ -14,7 +14,7 @@
     "OUTBIDDED": "Вас перебили в аукционе ID `{{auctionId}}`",
     "SUCCESSFUL_BID": "Ставка была успешно размещена",
     "EMBED_BID_TITLE": "SOFI: АУКЦИОН [{{auctionId}}]",
-    "EMBED_BID_DESCRIPTION": "> Добро пожаловать на аукцион SOFI:\n> Используйте `{{prefix}}bid <auctionID> <amount>` для размещения ставки на карту\n> Примечание: ставки будут анонимными",
+    "EMBED_BID_DESCRIPTION": "> Добро пожаловать на аукцион SOFI:\n> Используйте `{{prefix}}bid <АукционID> <Количество>` для размещения ставки на карту\n> Примечание: ставки будут анонимными",
     "CARD_DETAILS": "Детали карты",
     "BID_GEN": "> Gen: `{{gen}}`",
     "BID_NAME": "> Название: {{name}}",

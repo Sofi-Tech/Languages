@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "Parıltıları aç",
+    "UG_DESCRIPTION": "Rastgele bir \"Glow\" oluşturur",
     "UG_CATEGORY": "Kozmetik",
-    "EMBED_TITLE": "SOFI: PARILTIYI AÇ",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} 100 {{currency}} karşılığında bir parıltı açmak istediğinizden emin misiniz?",
-    "CANCELLED_UNLOCK_GLOW": "Açma işlemi iptal edildi",
-    "NOT_ENOUGH_GEMS": "Yeterli sayıda taşınız yok",
-    "EMBED_GLOW_TITLE": "SOFI: PARILTI",
-    "UNLOCK_GLOW_SUCCESS": "Tebrikler {{author}}! `{{glowName}}`(`#{{glowCode}}`) parıltısını açtınız"
+    "EMBED_TITLE": "SOFI: GLOW ÜRET",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} 100 {{currency}} karşılığında bir `Glow` almak istediğinizden emin misiniz?",
+    "CANCELLED_UNLOCK_GLOW": "İşlemi iptal edildi",
+    "NOT_ENOUGH_GEMS": "Yeterli sayıda `Gem`iniz yok",
+    "EMBED_GLOW_TITLE": "SOFI: GLOW ÜRET",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} **{{glowName}}** `#{{glowCode}}` elde ettiniz"
 }

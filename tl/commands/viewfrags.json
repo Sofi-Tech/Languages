@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Nagpapakita ng mga magagamit na animated na fragment",
-    "COLLECTION_PVT": "Ang koleksyon ng user na ito ay pribado",
-    "CANNOT_FIND_FRAGS": "Hindi makahanap ng ano mang mga frags si {{user}}.",
-    "FRAGS_COUNT": "Bilang ng mga Frags: {{totalCount}}",
-    "FRAG_LIST": "Listahan ng mga Frag: {{userName}}"
+    "DESCRIPTION": "Ipinapakita ang listahan ng pwedeng magamit na \"Fragments\" ng isang user",
+    "COLLECTION_PVT": "{{author}} Ang `Fragment` tab ng user na iyan ay pribado!",
+    "CANNOT_FIND_FRAGS": "{{user}} Hindi makahanap ng kahit anong `Fragments` sa inventory",
+    "FRAGS_COUNT": "Bilang ng mga `Fragment`: {{totalCount}}",
+    "FRAG_LIST": "Listahan ng mga \"Fragment\": {{userName}}"
 }

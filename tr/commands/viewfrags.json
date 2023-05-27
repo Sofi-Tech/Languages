@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Animasyonlu fragmanların mevcut olduğunu gösterir",
-    "COLLECTION_PVT": "Kullanıcının koleksiyonu özeldir",
-    "CANNOT_FIND_FRAGS": "{{user}} hiçbir frag bulamıyor.",
-    "FRAGS_COUNT": "Frag sayısı: {{totalCount}}",
-    "FRAG_LIST": "Frag Listesi: {{userName}}"
+    "DESCRIPTION": "Kullanıcının kullanılabilir \"Fragments\" listesini görüntüler",
+    "COLLECTION_PVT": "{{author}} Bu kullanıcının 'Fragment' sekmesi özeldir!",
+    "CANNOT_FIND_FRAGS": "{{user}} Bu envanterde herhangi bir `Fragments` bulunamadı",
+    "FRAGS_COUNT": "`Fragment` sayısı: {{totalCount}}",
+    "FRAG_LIST": "`Fragment` Listesi: {{userName}}"
 }

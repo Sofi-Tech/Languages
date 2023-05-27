@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Belirli bir diziyi arayın",
-    "NO__LAST_CHAR_FOUND": "Son karakter bulunamıyor. Dizi adını sağlayarak deneyin",
-    "NO_CHAR_FOUND": "Karakter bulunamadı",
-    "NO_SERIES_FOUND": "{{name}} için sonuç bulunamadı",
-    "SERIES": "DİZİ",
-    "ERROR": "Bir hata oluştu. Lütfen tekrar deneyin",
-    "CARD_COLLECTED": "{{collected}}/{{totalCards}} kart toplandı",
-    "TOTAL_WL": "Toplam dilek listesi: {{wlCount}}",
+    "DESCRIPTION": "Belirli bir seriyi arar",
+    "NO__LAST_CHAR_FOUND": "{{author}} Koleksiyonunuzda henüz kart yok",
+    "NO_CHAR_FOUND": "{{author}} Bu seride henüz karakter yok",
+    "NO_SERIES_FOUND": "{{author}} `{{name}}` adına sahip herhangi bir seri bulunamadı",
+    "SERIES": "__SERİ__",
+    "ERROR": "{{author}} Bir hata oluştu. Lütfen tekrar deneyin",
+    "CARD_COLLECTED": "**{{collected}}/{{totalCards}}** kart toplandı",
+    "TOTAL_WL": "Toplam dilek listesi: **__{{wlCount}}__**",
     "CHARACTERS": "Karakterler"
 }
