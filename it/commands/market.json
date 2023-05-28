@@ -3,6 +3,6 @@
     "NO_LISTING_FOUND": "Non è stato possibile trovare alcun elenco",
     "STOCK": "Azione",
     "RATE": "Tariffa",
-    "MARKET_WARN": "Non usare il mercato per nascondere o magazzinare `Wists`!\nSe venite scoperti a fare ciò, i `Wists` verrano toflti senza compensazione.\n`tasso medio : {{averageRate}}` `scambi in totale : {{totalTrades}}`",
+    "MARKET_WARN": "Non utilizzare il mercato per conservare o nascondere `Wists`!\nSe vieni sorpreso a farlo, i `Wists` verranno rimossi senza compenso.\nTasso medio: **`{{averageRate}}`** Operazioni totali: **`{{totalTrades}}`**",
     "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!"
 }

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Tinanggal ang karakter mula sa iyong listahan ng ninanais na baraha",
+    "DESCRIPTION": "Tinanggal ang karakter mula sa iyong wishlist",
     "CATEGORY": "Listahan ng Ninanais",
-    "NO_INDEX": "Walang pangalan o numero na nakalaan! | Upang tanggalin ang buong listahan ng ninanais gamitin ang ' swr full reset'",
-    "FULL_RESET": "> {{author}} Tinanggal ang {{total}} characters mula sa iyong listahan ng ninanais",
-    "REMOVE_CHARACTER": "> {{author}} tinanggal si {{name}} mula sa iyong listahan ng ninanais",
-    "NO_RESULTS": "> {{author}} walang natagpuang resulta para sa {{name}}"
+    "NO_INDEX": "Walang pangalan o numero na nakalaan! Upang linisin ang buong wishlist, gamitin ang command na `swr full reset`",
+    "FULL_RESET": "> {{author}} Tinanggal mo ang **__{{total}}__** characters mula sa iyong wishlist",
+    "REMOVE_CHARACTER": "> {{author}} Tinanggal mo si **__{{name}}__** mula sa iyong wishlist",
+    "NO_RESULTS": "> {{author}} walang natagpuang resulta para kay **\"{{name}}\"**"
 }

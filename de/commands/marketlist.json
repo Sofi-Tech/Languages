@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Listenelement auf dem Markt",
+    "DESCRIPTION": "Bringt deine „Wists“ auf den Markt, die mit „Gems“ von anderen Spielern gekauft werden können.",
     "CORRECT_USAGE": "{{user}} Korrekte Verwendung: {{prefix}}ml <wist> <rate>",
     "INVALID_GEM_RATE": "{{user}} Ungültige Edelsteinrate",
     "GEM_RATE_LIES": "{{user}} Die Edelsteinrate muss zwischen 3,0 und 20,0 liegen",

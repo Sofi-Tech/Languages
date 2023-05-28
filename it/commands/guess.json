@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} dovete essere almeno 2 giocatori prima di iniziare il gioco",
     "GUESS_THE_WORD": "Indovina la parola data: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}} ha indovinato correttamente la parola {{word}} e ha vinto {{jackpot}} {{currency}}!",
-    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}give <user/userID> <cardcode>`"
+    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}give <User/UserID> <CardCode>"
 }

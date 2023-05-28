@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Italaga ang iyong ninanais na baraha sa channel",
+    "DESCRIPTION": "Itinatalaga ang iyong wishlist sa isang channel",
     "CATEGORY": "Listahan ng Ninanais",
-    "CHANNEL_SET": "> Ang listahan ng iyong ninanais ay naitalaga sa {{channel}}",
-    "CHANNEL_REMOVE": "> Ang listahan ng iyong ninanais ay tinanggal sa {{channel}}"
+    "CHANNEL_SET": "> Ang wishlist ay naitalaga sa {{channel}}",
+    "CHANNEL_REMOVE": "> Ang iyong wishlist ay tinanggal sa {{channel}}"
 }

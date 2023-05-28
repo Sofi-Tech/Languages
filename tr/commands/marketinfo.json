@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Piyasada listelenize ya da belirli bir işlemle ilgili bilgileri görüntüler",
+    "DESCRIPTION": "Şu anki listelemelerinizi gösterir ya da ID sağlarsanız bir işlemi inceler",
     "INVALID_DEAL_ID": "{{author}} Sağladığınız Anlaşma ID si geçersiz",
-    "TRADER": "Tüccar",
+    "TRADER": "Satıcı",
     "DEAL_ID": "Fiyat",
     "PRODUCT": "Alırsın:",
     "VALUE": "Değer",

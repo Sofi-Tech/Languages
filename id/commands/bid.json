@@ -7,7 +7,7 @@
     "NO_AMOUNT": "{{author}} kamu tidak memiliki {{amount}} {{currency}}",
     "EMBED_TITLE": "SOFI: MENCARI",
     "CONFIRM_BID": "{{author}} Apakah kamu yakin ingin menempatkan penawaran sebesar {{amount}} {{currency}} pada lelang `{{auctionId}}`",
-    "BID_NOTE": "Ketika menempatkan penawaran baru jumlah penawaran sebelumnya akan ditambahkan ke persediaan dan jumlah penawaran baru akan dikurangi",
+    "BID_NOTE": "Ketika menempatkan penawaran baru jumlah penawaran sebelumnya akan ditambahkan ke `Inventory` dan jumlah penawaran baru akan dikurangi",
     "EMBED_FOOTER": "Catatan: Penawaran anonim",
     "MINIMUM_BID": "Membatalkan: Penawaran minimum harus `{{amount}}`{{currency}} dan kamu harus memiliki jumlah tersebut",
     "ALREADY_MAX_BIDDER": "Kamu sudah menjadi penawar tertinggi",

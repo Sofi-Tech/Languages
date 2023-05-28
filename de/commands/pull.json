@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Zieht verschiedene Gegenstände wie Swap, Charms und animierte Kartenfragmente",
+    "DESCRIPTION": "„Pulls“ aus einem Pool verschiedener „Items“, darunter „Charms“ und „Fragments“, für animierte Karten",
     "PULL_AMT": "{{user}} gibt die Ziehmenge an, entweder 1 oder 10",
     "INFO_1": "Die Chance, ein Fragment zu erhalten, beträgt 12%.",
     "INFO_2": "Die Chancen, Charms und Swaps zu erhalten, sind gering.",
