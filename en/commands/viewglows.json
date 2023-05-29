@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "View glows detailed or list",
+  "VG_CATEGORY": "Cosmetics",
+  "VG_SLASH_DESC1": "Enter the user you want to see the glows of.",
+  "VG_SLASH_DESC2": "Enter the tagname you are searching for.",
+  "VG_SLASH_DESC3": "Enter the glowcode you are searching for.",
+  "NO_GLOWS": "{{author}} No glows to view!",
+  "SUPER": "Super",
+  "EMBED_TITLE": "GLOW PALETTE:",
+  "EMBED_FOOTER": "{{prefix}}vg [glowcode] to view glow | Glows unlocked: {{count}}",
+  "SHOWING_PAGE": "Showing page: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} No glow with tagname {{tagName}} found",
+  "CANNOT_FIND_GLOW": "{{author}} I cannot find glow with code `{{glowCode}}`",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "NAME": "`Name:   ` ➜ {{name}}",
+  "CODE": "`Code:   ` ➜ `#{{code}}`",
+  "STATUS": "`Status: ` ➜ `{{status}}`",
+  "TYPE": "`Type:   ` ➜ {{type}}",
+  "OWNER": "`Owner:  ` ➜ <@{{ownerId}}>",
+  "PURITY": "```Purity :  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} Search for tags by using t=tagname or glowcode (starts with #)"
+}

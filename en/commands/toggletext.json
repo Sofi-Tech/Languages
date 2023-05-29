@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Remove text from the card",
+  "TT_CATEGORY": "Cosmetics",
+  "PROVIDE_CARD_CODE": "{{author}}, provide card code",
+  "INAVLID_CARD_CODE": "Invalid card code provided",
+  "INVALID_CODE": "Can't find your last card or try providing a card code",
+  "CANNOT_FIND_CARD": "Error! finding card",
+  "CANNOT_TOGGLE": "{{author}} cannot toggle text for gif or 3d cards",
+  "EMBED_TITLE": "SOFI: TOGGLE TEXT",
+  "TT_CONFIRMATION": "Are you sure you want to {{toggleInfo}}\nThe process will cost 1000 <:_:915619222229512213>",
+  "NO_OWNER": "The card no longer belongs to you",
+  "NOT_ENOUGH_SILVERS": "You don't have enough amount of silvers",
+  "TT_SUCCESSFULL": "Removed Text Successfully"
+}

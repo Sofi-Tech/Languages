@@ -1,0 +1,15 @@
+{
+  "UNG_DESCRIPTION": "Remove glow from the card",
+  "UNG_CATEGORY": "Cosmetics",
+  "INVALID_USAGE": "Provide valid cardcode",
+  "INVALID_CODE": "Invalid code provided",
+  "NO_CHARACTER": "No character found",
+  "NO_GIF": "{{author}} cosmetics command do not apply to gif cards",
+  "NOT_GLOWED": "{{author}} The card has no glow",
+  "EMBED_TITLE": "Remove Glow",
+  "UNG_CONFIRMATION": "You are about to remove glow from your card\nYour card will look as below\nThe process will cost 100 silvers",
+  "EMBED_FOOTER": "The glow will be removed and will not return in your inventory",
+  "NO_OWNER": "The card no longer belongs to you",
+  "NOT_ENOUGH_SILVERS": "You don't have enough silvers for removing the glow",
+  "UNG_SUCCESSFULL": "The glow was successfully removed"
+}
