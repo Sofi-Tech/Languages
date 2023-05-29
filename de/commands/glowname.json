@@ -3,7 +3,7 @@
     "GN_CATEGORY": "Kosmetika",
     "UNLOCK_GLOWS": "{{author}} du hast keine `Glows`",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}glowname [glowcode] [newname]`",
-    "WRONG_GLOWCODE_FORMAT": "Glow-Code beginnt mit `#`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} „Glow“-Codes beginnen immer mit einem **#**",
     "GLOW_NOT_FOUND": "{{author}} konnte diesen Glow in Ihrer Palette nicht finden. Ist der Code korrekt?",
     "PROVIDE_GLOW_NAME": "{{author}} geben Sie den Glow-Namen an",
     "GLOW_NAME_LONG": "{{author}} Der Glow-Name ist zu lang. Versuchen Sie es mit weniger als 25 Buchstaben",

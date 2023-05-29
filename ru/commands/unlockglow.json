@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "Разблокируйте свечение",
+    "UG_DESCRIPTION": "Генерирует случайный \"Glow\"",
     "UG_CATEGORY": "Косметика",
-    "EMBED_TITLE": "SOFI: РАЗБЛОКИРОВАТЬ СВЕЧЕНИЕ",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} Вы уверены, что хотите разблокировать свечение за 100 {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "Разблокировка отменена",
-    "NOT_ENOUGH_GEMS": "У вас недостаточно самоцветов",
+    "EMBED_TITLE": "SOFI: ГЕНЕРИРУЕТ GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} Вы уверены, что хотите купить случайное `Glow` за 100 {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "Транзакция была отменена",
+    "NOT_ENOUGH_GEMS": "У вас недостаточно `Gems`",
     "EMBED_GLOW_TITLE": "SOFI: ГЕНЕРАЦИЯ GLOW",
-    "UNLOCK_GLOW_SUCCESS": "Поздравляем {{author}}! Вы разблокировали `{{glowName}}`(`#{{glowCode}}`)"
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Вы получили **{{glowName}}** `#{{glowCode}}`"
 }

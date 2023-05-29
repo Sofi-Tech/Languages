@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Este comando genera 3 cartas y se puede usar cada 8 minutos.\n- Usa el comando \"sdn\" para generar cartas sin las imágenes. Esto es útil para ahorrar datos móviles o para evitar lag.",
+    "DESCRIPTION": "- Este comando hace un drop de 3 cartas y se puede usar cada 8 minutos.\n- Usa el comando \"sdn\" para hacer drop de cartas sin las imágenes. Esto es útil para ahorrar datos móviles o para evitar el lag.",
     "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} Tu **Extra Drop** está siendo utilizado. Te quedan `{{remaining}}` restantes.",
-    "ON_CD": "{{author}} Tu `Drop` estará listo en {{dropCd}}",
+    "EXTRA_DROP_ALERT": "{{author}} Tu **Extra Drop** está siendo utilizado. Te quedan `{{remaining}}`.",
+    "ON_CD": "{{author}} Podrás hacer `Drop` en {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nTambién puedes hacer `Vote` para conseguir `Wists` y comprar `Drops` con ellos!\nUsa el comando `sbuy drop <cantidad>` para hacerlo"
+    "BUY_DROP": "\nTambién puedes hacer `Vote` para conseguir más `Wists` y comprar `Drops` con estos!\nUsa el comando `sbuy drop <cantidad>` para comprarlos"
 }

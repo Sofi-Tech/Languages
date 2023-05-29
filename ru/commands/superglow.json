@@ -13,6 +13,6 @@
     "EMBED_TITLE": "SOFI: СУПЕРСИЯНИЕ",
     "FORM_SG_CONFIRM": "Вы собираетесь сделать суперсияние:**\n\n{{glowCodes}}\n\n**Создание суперсияния...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Супер ${superGlowName}",
     "CANNOT_FORM_SG": "Не удалось сформировать суперсияние",
-    "MISSING_RESINS": "Вы не хватает количества смолы",
+    "MISSING_RESINS": "У вас недостаточно `Resin`, чтобы создать `Super Glow`",
     "SUPER_GLOW_SUCCESSFULL": "Суперсияние успешно сформировано**\n\n{{glowCodes}}\n\n**Создание суперсияния...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Супер ${superGlowName}"
 }

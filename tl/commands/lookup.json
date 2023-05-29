@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Ipinapakita ang mga Bersyon/3D/GIF ng mga karakters",
-    "CHAR_NOT_FOUND": "Hindi mahanap ang karakter na iyong hinahanap",
-    "CHAR_NF_SENSITIVE": "Walang natagpuang na kahit anong karakter. [The `lookup` function is case sensitive!]",
+    "CHAR_NOT_FOUND": "Hindi makita ang karakter na iyong hinahanap",
+    "CHAR_NF_SENSITIVE": "Walang natagpuang na kahit anong karakter. [Ang`lookup` function ay naka case sensitive!]",
     "EMBED_TITLE": "__Pagtutugma ng mga karakter__",
     "SUBMITTED": "Inisumite ni: <@{{userID}}>",
     "EMBED_FOOTER": "Hanapin ang `Version`1 gamit ang `scl`| Maaari ring magsumite ng bagong `Version`gamit ang ssc",
@@ -19,6 +19,6 @@
     "EVENTS": "Mga Tagaganap",
     "EVENT": "Tagaganap",
     "UPCOMING_EVENT": "Darating na Pagtatanghal",
-    "TOP_OWNER": "Mga Top na May Ari",
+    "TOP_OWNER": "Mga Top na May-ari",
     "NO_OWNER_FOUND": "Walang nahanap na mga may-ari ng `Version`"
 }

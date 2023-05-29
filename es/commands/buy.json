@@ -1,14 +1,14 @@
 {
     "DESCRIPTION": "Compra \"Items\" en el \"Shop\" de Sofi",
-    "SLASH_DESC": "Ingresa el nombre de un `Item` que desees comprar",
+    "SLASH_DESC": "Ingresa el nombre del`Item` que desees comprar",
     "SLASH_DESC2": "Ingresa la cantidad",
-    "SLASH_DESC3": "Ingresa el código del background que desea comprar. [FUNCIONA SOLO SI EL ARTÍCULO ESTÁ SELECCIONADO COMO FONDO]",
+    "SLASH_DESC3": "Ingresa el código del background que deseas comprar. [FUNCIONA SÓLO SI EL ITEM ESTÁ SELECCIONADO COMO BACKGROUND]",
     "NO_ITEM": "Por favor especifica un `Item` para comprar",
-    "TRADEPASS_INFO": "Puedes intercambiar **__1__** `Bump` a cambio de un `Trade Pass` de 4 horas o guardar **__20__** `Bumps` para comprar un `Trade Pass` de 30 días",
+    "TRADEPASS_INFO": "Puedes intercambiar **__1__** `Bump` por un `Trade Pass` de 4 horas o guardar **__20__** `Bumps` para intercambiar por un `Trade Pass` de 30 días",
     "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <BackgroundID> <cantidad>`",
     "INVALID_BG_AMOUNT": "No ingreses una cantidad negativa",
-    "INVALID_BG_ID": "Proporcione un ID de `Background` válido",
+    "INVALID_BG_ID": "Proporciona un ID de `Background` válido",
     "NO_ITEM_PROVIDED": "No se proporcionó ningún `Item`",
-    "INVALID_AMOUNT": "Se proporcionó una cantidad no válida",
+    "INVALID_AMOUNT": "Se proporcionó una cantidad inválida",
     "INVALID_ITEM_PROVIDED": "{{USER}} El`Item` proporcionado es inválido"
 }

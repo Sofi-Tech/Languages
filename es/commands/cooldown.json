@@ -6,5 +6,5 @@
     "VOTE": "Vote",
     "BUMP": "Bump",
     "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mensaje(s) no leídos | Escribe `{{customPrefix}}mail` para leerlos!"
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` correo(s) no leídos | Escribe `{{customPrefix}}mail` para leerlos!"
 }
