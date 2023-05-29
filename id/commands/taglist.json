@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Pengguna tidak ditemukan",
     "NO_TAGS": "{{author}} Tidak dapat menemukan tag apapun",
     "EMBED_TITLE": "Daftar Tag: {{username}}",
-    "SOFI_FACT": "Kartu yang berada pada \"Tags\" dengan emoji gembok \"🔒\" tidak dapat dibakar atau diperdagangkan!\nContoh: \"{{prefix}}tc lock 🔒\"",
+    "SOFI_FACT": "Sebuah \"Tag\" dengan nama \"lock\" dan emoji gembok \"🔒\" akan mencegah Anda untuk membakar atau memberikan kartu apapun dengan tag tersebut!\nContoh: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Jumlah tag: {{count}}"
 }
