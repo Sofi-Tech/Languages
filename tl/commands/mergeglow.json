@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "Biruin ang mga kislap para makatanggap ng mga resinas",
+  "MG_CATEGORY": "Kosmetiko",
+  "NO_GLOWS": "Hindi makahanap si {{author}} ng mga kislap sa iyong koleksyon..",
+  "GLOW_CODES_MISSING": "Ang mga glow code ni {{author}} ay nawawala | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
+  "GLOWS_UNAVAILABLE": "Ang ilang mga kislap ay hindi magagamit: {{unavailableGlows}}",
+  "GLOW_CODES_UNIQUE": "Bawat glow code ni {{author}} ay dapat na kakaiba",
+  "AVAILABLE": "Magagamit",
+  "UNAVAILABLE": "Hindi magagamit",
+  "GLOWS_NOT_FOUND": "Hindi makahanap si {{author}} ng kislap na may mga code na {{glows}}",
+  "EMBED_TITLE": "SOFI: BIRUIN ANG MGA KISLAP",
+  "MERGE_CONFIRMATION": "Ikaw ay magdaragdag ng sumusunod na mga kislap:\n\n{{glows}}\n\nMakakatanggap ka ng 1 <:resin:938131736741691442>",
+  "SURE": "Sigurado ka ba?",
+  "ERROR": "Kamalian: {{error}}"
+}

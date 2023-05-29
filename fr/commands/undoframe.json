@@ -1,0 +1,15 @@
+{
+  "UF_DESCRIPTION": "Supprimer le cadre de la carte",
+  "UF_CATEGORY": "Cosmétiques",
+  "INVALID_USAGE": "Essayer sunf <code de carte>",
+  "INVALID_CODE": "Code non valide fourni",
+  "NO_CHARACTER": "Aucun personnage trouvé",
+  "NO_GIF": "La commande {{author}} cosmétiques ne s'applique pas aux cartes gif",
+  "NOT_FRAMED": "{{author}} La carte n'est pas encadrée",
+  "EMBED_TITLE": "Supprimer le cadre",
+  "UF_CONFIRMATION": "Vous êtes sur le point de supprimer le cadre\nVotre carte aura l'air ci-dessous\nLe cadre sera ajouté à votre inventaire\nLe processus coûtera 2 wists",
+  "NOT_ENOUGH_WISTS": "Vous n'avez pas assez de wists pour enlever le cadre",
+  "NO_OWNER": "La carte n'appartient plus à vous",
+  "ALREADY_REMOVED": "Le cadre a déjà été retiré",
+  "UF_SUCCESSFULL": "Le cadre a été retiré avec succès"
+}

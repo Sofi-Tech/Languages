@@ -1,0 +1,15 @@
+{
+  "UNG_DESCRIPTION": "Menghapus efek cahaya pada kartu",
+  "UNG_CATEGORY": "Kosmetik",
+  "INVALID_USAGE": "Harap berikan kode kartu valid",
+  "INVALID_CODE": "Kode yang diberikan tidak valid",
+  "NO_CHARACTER": "Tidak ada karakter yang ditemukan",
+  "NO_GIF": "Perintah kosmetik {{author}} tidak berlaku untuk kartu GIF",
+  "NOT_GLOWED": "{{author}} Kartu tidak memiliki efek cahaya",
+  "EMBED_TITLE": "Menghapus Cahaya",
+  "UNG_CONFIRMATION": "Anda akan menghapus efek cahaya dari kartu anda\nKartu anda akan terlihat seperti berikut\nProses ini akan menghabiskan 100 perak",
+  "EMBED_FOOTER": "Efek cahaya akan dihapus dan tidak akan kembali ke inventaris anda",
+  "NO_OWNER": "Kartu sudah tidak lagi milik anda",
+  "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup perak untuk menghapus efek cahaya",
+  "UNG_SUCCESSFULL": "Efek cahaya berhasil dihapus"
+}

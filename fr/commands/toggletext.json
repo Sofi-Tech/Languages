@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Supprimer le texte de la carte",
+  "TT_CATEGORY": "Cosmétiques",
+  "PROVIDE_CARD_CODE": "{{author}}, fournir un code de carte",
+  "INAVLID_CARD_CODE": "Code de carte invalide fourni",
+  "INVALID_CODE": "Impossible de trouver votre dernière carte ou essayez de fournir un code de carte",
+  "CANNOT_FIND_CARD": "Erreur ! recherche de carte",
+  "CANNOT_TOGGLE": "{{author}} ne peut pas basculer le texte pour les cartes gif ou 3D",
+  "EMBED_TITLE": "SOFI : TOGGLE TEXT",
+  "TT_CONFIRMATION": "Êtes-vous sûr de vouloir {{toggleInfo}}\nLe processus coûtera 1000 <:_:915619222229512213>",
+  "NO_OWNER": "La carte ne vous appartient plus",
+  "NOT_ENOUGH_SILVERS": "Vous n'avez pas suffisamment de silvers",
+  "TT_SUCCESSFULL": "Texte supprimé avec succès"
+}

@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "Ver las descripciones detalladas o en lista de los resplandores",
+  "VG_CATEGORY": "Cosméticos",
+  "VG_SLASH_DESC1": "Ingresa el usuario del que quieres ver los resplandores.",
+  "VG_SLASH_DESC2": "Ingresa el nombre de la etiqueta que estás buscando.",
+  "VG_SLASH_DESC3": "Ingresa el código del resplandor que estás buscando.",
+  "NO_GLOWS": "{{author}} ¡No hay resplandores para ver!",
+  "SUPER": "Super",
+  "EMBED_TITLE": "PALETA DE RESPLANDORES:",
+  "EMBED_FOOTER": "{{prefix}}vg [código de resplandor] para ver el resplandor | Resplandores desbloqueados: {{count}}",
+  "SHOWING_PAGE": "Mostrando página: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} No se encontró ningun resplandor con la etiqueta {{tagName}}",
+  "CANNOT_FIND_GLOW": "{{author}} No puedo encontrar el resplandor con el código `{{glowCode}}`",
+  "EMBED_GLOW_TITLE": "SOFI: RESPLANDOR",
+  "NAME": "`Nombre: ` ➜ {{name}}",
+  "CODE": "`Código: ` ➜ `#{{code}}`",
+  "STATUS": "`Estado: ` ➜ `{{status}}`",
+  "TYPE": "`Tipo: ` ➜ {{type}}",
+  "OWNER": "`Propietario: ` ➜ <@{{ownerId}}>",
+  "PURITY": "```Pureza: ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} Busca etiquetas usando t=nombre de la etiqueta o el código del resplandor (empieza con #)"
+}

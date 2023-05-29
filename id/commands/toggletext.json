@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Hapus teks dari kartu",
+  "TT_CATEGORY": "Kecantikan",
+  "PROVIDE_CARD_CODE": "{{author}}, berikan kode kartu",
+  "INAVLID_CARD_CODE": "Kode kartu yang diberikan tidak valid",
+  "INVALID_CODE": "Tidak dapat menemukan kartu terakhir Anda atau coba berikan kode kartu",
+  "CANNOT_FIND_CARD": "Kesalahan! mencari kartu",
+  "CANNOT_TOGGLE": "{{author}} tidak dapat mengalihkan teks untuk kartu gif atau 3d",
+  "EMBED_TITLE": "SOFI: TOGGLE TEXT",
+  "TT_CONFIRMATION": "Apakah Anda yakin ingin {{toggleInfo}}\nProses ini akan memakan biaya 1000 <:_:915619222229512213>",
+  "NO_OWNER": "Kartu tidak lagi milik Anda",
+  "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup jumlah perak",
+  "TT_SUCCESSFULL": "Berhasil menghapus Teks"
+}

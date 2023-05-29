@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "रेसिन पाने के लिए चमकों को मर्ज करें",
+  "MG_CATEGORY": "सौंदर्य उत्पाद",
+  "NO_GLOWS": "{{author}} आपके संग्रह में चमक नहीं मिल सकती।",
+  "GLOW_CODES_MISSING": "{{author}} चमक कोड गायब हैं | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
+  "GLOWS_UNAVAILABLE": "{{author}} कुछ चमक अनुपलब्ध हैं: {{unavailableGlows}}",
+  "GLOW_CODES_UNIQUE": "{{author}} हर चमक कोड अद्वितीय होना चाहिए",
+  "AVAILABLE": "उपलब्ध",
+  "UNAVAILABLE": "अनुपलब्ध",
+  "GLOWS_NOT_FOUND": "{{author}} चमक कोड {{glows}} से चमक नहीं मिल सकती।",
+  "EMBED_TITLE": "SOFI: चमकों का मर्ज",
+  "MERGE_CONFIRMATION": "आप निम्नलिखित चमकों को मर्ज करने वाले हैं:\n\n{{glows}}\n\nआप 1 <:resin:938131736741691442> प्राप्त करेंगे।",
+  "SURE": "क्या आपको यकीन है?",
+  "ERROR": "त्रुटि: {{error}}"
+}

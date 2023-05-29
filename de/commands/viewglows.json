@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "Detaillierte oder Listenansicht von Glühen",
+  "VG_CATEGORY": "Kosmetik",
+  "VG_SLASH_DESC1": "Geben Sie den Benutzer ein, dessen Leuchten Sie sehen möchten.",
+  "VG_SLASH_DESC2": "Geben Sie den Tag ein, nach dem Sie suchen.",
+  "VG_SLASH_DESC3": "Geben Sie den Glowcode ein, nach dem Sie suchen.",
+  "NO_GLOWS": "{{author}} Keine Glühen zum Anzeigen!",
+  "SUPER": "Super",
+  "EMBED_TITLE": "GLOW-PALETTE:",
+  "EMBED_FOOTER": "{{prefix}}vg [glowcode] zum Anzeigen von Glow | Glows freigeschaltet: {{count}}",
+  "SHOWING_PAGE": "Zeige Seite: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} Kein Glühen mit dem Tag {{tagName}} gefunden",
+  "CANNOT_FIND_GLOW": "{{author}} Ich kann den Glow mit dem Code `{{glowCode}}` nicht finden",
+  "EMBED_GLOW_TITLE": "SOFI: Glühen",
+  "NAME": "`Name:   ` ➜ {{name}}",
+  "CODE": "`Code:   ` ➜ `#{{code}}`",
+  "STATUS": "`Status: ` ➜ `{{status}}`",
+  "TYPE": "`Typ:   ` ➜ {{type}}",
+  "OWNER": "`Besitzer:  ` ➜ <@{{ownerId}}> ",
+  "PURITY": "```Reinheit:  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} Suchen Sie nach Tags, indem Sie t=tagname oder Glow-Code (beginnt mit #) verwenden"
+}

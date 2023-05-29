@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "Afficher les détails ou la liste des lueurs",
+  "VG_CATEGORY": "Cosmétiques",
+  "VG_SLASH_DESC1": "Entrez l'utilisateur dont vous voulez voir les lueurs.",
+  "VG_SLASH_DESC2": "Entrez le nom de tag que vous recherchez.",
+  "VG_SLASH_DESC3": "Entrez le code lueur que vous recherchez.",
+  "NO_GLOWS": "{{author}} Aucune lueur à afficher !",
+  "SUPER": "Super",
+  "EMBED_TITLE": "PALETTE GLOW :",
+  "EMBED_FOOTER": "{{prefix}}vg [code lueur] pour afficher une lueur | Lueurs débloquées : {{count}}",
+  "SHOWING_PAGE": "Affichage de la page : {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} Aucune lueur avec le tag {{tagName}} n'a été trouvée",
+  "CANNOT_FIND_GLOW": "{{author}} Je ne peux pas trouver la lueur avec le code `{{glowCode}}`",
+  "EMBED_GLOW_TITLE": "SOFI : LUEUR",
+  "NAME": "`Nom :   ` ➜ {{name}}",
+  "CODE": "`Code :   ` ➜ `#{{code}}`",
+  "STATUS": "`Statut : ` ➜ `{{status}}`",
+  "TYPE": "`Type :   ` ➜ {{type}}",
+  "OWNER": "`Propriétaire :  ` ➜ <@{{ownerId}}>",
+  "PURITY": "```Pureté :  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} Recherchez des tags en utilisant t=tagname ou le code lueur (qui commence par #)"
+}

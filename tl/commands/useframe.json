@@ -1,0 +1,15 @@
+{
+  "UF_DESCRIPTION": "Gamitin ang nabiling frame sa mga cards",
+  "UF_CATEGORY": "Kagandahan",
+  "INVALID_USAGE": "suf <code> <framename/framecode>",
+  "INVALID_CODE": "Maling code ang ibinigay",
+  "CANNOT_APPLY": "Hindi mo magagamit ang mga frame sa 3D cards",
+  "NO_GIF": "{{author}} ang mga gif cards ay hindi pwedeng may frame",
+  "NO_FRAMES_FOUND": "{{author}} walang frame na nakita",
+  "EMBED_TITLE": "Maglagay ng Frame:",
+  "UF_CONFIRMATION": "Maglalagay ka ng {{frameName}}\nAng iyong card ay magiging ganito\n",
+  "EMBED_FOOTER": "Ang card ay may frame na. Gamitin ang undoframe command upang makuha ang frame na na-apply",
+  "NO_OWNER": "Ang card ay hindi na sa iyo",
+  "FRAME_NOT_FOUND": "Wala kang ganoong frame",
+  "UF_SUCCESSFULL": "MATAGUMPAY"
+}

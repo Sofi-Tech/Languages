@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Rimuovi il testo dalla carta",
+  "TT_CATEGORY": "Cosmetici",
+  "PROVIDE_CARD_CODE": "{{author}}, fornisci il codice della carta",
+  "INAVLID_CARD_CODE": "Codice della carta fornito non valido",
+  "INVALID_CODE": "Impossibile trovare la tua ultima carta o prova a fornire un codice della carta",
+  "CANNOT_FIND_CARD": "Errore! ricerca della carta",
+  "CANNOT_TOGGLE": "{{author}} non può attivare/disattivare il testo per carte gif o 3d",
+  "EMBED_TITLE": "SOFI: TOGGLE TESTO",
+  "TT_CONFIRMATION": "Sei sicuro di voler {{toggleInfo}}\nIl processo costerà 1000 <:_:915619222229512213>",
+  "NO_OWNER": "La carta non ti appartiene più",
+  "NOT_ENOUGH_SILVERS": "Non hai abbastanza argento",
+  "TT_SUCCESSFULL": "Testo rimosso con successo"
+}

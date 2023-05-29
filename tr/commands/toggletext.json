@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Karttan metin kaldırma",
+  "TT_CATEGORY": "Kozmetik",
+  "PROVIDE_CARD_CODE": "{{author}}, kart kodu sağlayın",
+  "INAVLID_CARD_CODE": "Geçersiz kart kodu sağlandı",
+  "INVALID_CODE": "Son kartınızı bulamıyorum veya kart kodu sağlamayı deneyin",
+  "CANNOT_FIND_CARD": "Hata! Kart bulunamadı",
+  "CANNOT_TOGGLE": "{{author}}, gif veya 3d kartlar için metni değiştiremez",
+  "EMBED_TITLE": "SOFI: METNİ DEĞİŞTİR",
+  "TT_CONFIRMATION": "{{toggleInfo}} yapmak istediğinizden emin misiniz?\nİşlem 1000 <:_:915619222229512213> mal olacak",
+  "NO_OWNER": "Kart artık size ait değil",
+  "NOT_ENOUGH_SILVERS": "Yeterli kadar gümüş paranız yok",
+  "TT_SUCCESSFULL": "Metin başarıyla kaldırıldı"
+}

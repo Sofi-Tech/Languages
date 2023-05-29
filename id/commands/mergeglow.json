@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "Gabungkan kilauan untuk menerima resin",
+  "MG_CATEGORY": "Kosmetik",
+  "NO_GLOWS": "{{author}} tidak dapat menemukan kilauan di koleksimu...",
+  "GLOW_CODES_MISSING": "{{author}} kode kilauan tidak ditemukan | `gabungkilauan [kodekilauan1] [kodekilauan2] [kodekilauan3] [kodekilauan4]`",
+  "GLOWS_UNAVAILABLE": "{{author}} Beberapa kilauan tidak tersedia: {{glowstidaktersedia}}",
+  "GLOW_CODES_UNIQUE": "{{author}} setiap kode kilauan harus unik",
+  "AVAILABLE": "Tersedia",
+  "UNAVAILABLE": "Tidak tersedia",
+  "GLOWS_NOT_FOUND": "{{author}} tidak dapat menemukan kilauan dengan kode {{kilauan}}",
+  "EMBED_TITLE": "SOFI: GABUNGKAN KILAUAN",
+  "MERGE_CONFIRMATION": "Anda akan menggabungkan kilauan berikut:\n\n{{kilauan}}\n\nAnda akan menerima 1 <:resin:938131736741691442>",
+  "SURE": "Apakah Anda yakin?",
+  "ERROR": "Galat: {{error}}"
+}

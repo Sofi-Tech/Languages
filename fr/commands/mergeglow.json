@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "Fusionnez les lueurs pour obtenir des résines",
+  "MG_CATEGORY": "Cosmétiques",
+  "NO_GLOWS": "{{author}} ne peut trouver aucune lueur dans votre collection.",
+  "GLOW_CODES_MISSING": "{{author}} des codes de lueur sont manquants | `fusionnerlueur [code1] [code2] [code3] [code4]`",
+  "GLOWS_UNAVAILABLE": "{{author}} Certaines lueurs sont indisponibles : {{unavailableGlows}}",
+  "GLOW_CODES_UNIQUE": "{{author}}, chaque code de lueur doit être unique",
+  "AVAILABLE": "Disponible",
+  "UNAVAILABLE": "Indisponible",
+  "GLOWS_NOT_FOUND": "{{author}} ne peut trouver aucune lueur avec les codes {{glows}}",
+  "EMBED_TITLE": "SOFI : FUSIONNER LES LUEURS",
+  "MERGE_CONFIRMATION": "Vous êtes sur le point de fusionner les lueurs suivantes : \n\n{{glows}}\n\nVous recevrez 1 <:resin:938131736741691442>",
+  "SURE": "Êtes-vous sûr(e) ?",
+  "ERROR": "Erreur : {{error}}"
+}

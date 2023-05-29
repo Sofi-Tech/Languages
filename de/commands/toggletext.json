@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Text von der Karte entfernen",
+  "TT_CATEGORY": "Kosmetik",
+  "PROVIDE_CARD_CODE": "{{author}}, Karten-Code bereitstellen",
+  "INAVLID_CARD_CODE": "Ungültiger Karten-Code bereitgestellt",
+  "INVALID_CODE": "Ihre letzte Karte kann nicht gefunden werden oder versuchen Sie, einen Karten-Code anzugeben",
+  "CANNOT_FIND_CARD": "Fehler beim Suchen der Karte",
+  "CANNOT_TOGGLE": "{{author}} kann den Text für Gif- oder 3D-Karten nicht umschalten",
+  "EMBED_TITLE": "SOFI: TEXT UMSCHALTEN",
+  "TT_CONFIRMATION": "Sind Sie sicher, dass Sie {{toggleInfo}} möchten?\nDer Vorgang kostet 1000 <:_:915619222229512213>",
+  "NO_OWNER": "Die Karte gehört Ihnen nicht mehr",
+  "NOT_ENOUGH_SILVERS": "Sie haben nicht genügend Silber",
+  "TT_SUCCESSFULL": "Text erfolgreich entfernt"
+}

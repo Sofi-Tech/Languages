@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "Reçineleri almak için parlaklıkları birleştirin",
+  "MG_CATEGORY": "Kozmetik",
+  "NO_GLOWS": "{{author}} koleksiyonunuzda parıltılar bulunamadı.",
+  "GLOW_CODES_MISSING": "{{author}} ışıltı kodları eksik | `mergeglow [ışıltı kodu 1] [ışıltı kodu 2] [ışıltı kodu 3] [ışıltı kodu 4]`",
+  "GLOWS_UNAVAILABLE": "{{author}} bazı ışıltılar kullanılamıyor: {{unavailableGlows}}",
+  "GLOW_CODES_UNIQUE": "{{author}} her ışıltı kodu benzersiz olmalıdır",
+  "AVAILABLE": "Mevcut",
+  "UNAVAILABLE": "Kullanılamaz",
+  "GLOWS_NOT_FOUND": "{{author}} kodları {{glows}} olan ışıltı bulunamadı",
+  "EMBED_TITLE": "SOFI: IŞILTI BİRLEŞTİRME",
+  "MERGE_CONFIRMATION": "Aşağıdaki ışıltıları birleştirmek üzeresiniz:\n\n{{glows}}\n\n1 <:resin:938131736741691442> alacaksınız",
+  "SURE": "Emin misiniz?",
+  "ERROR": "Hata: {{error}}"
+}

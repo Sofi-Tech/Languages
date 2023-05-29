@@ -1,0 +1,15 @@
+{
+  "UF_DESCRIPTION": "Use o quadro que você comprou em cartões",
+  "UF_CATEGORY": "Cosméticos",
+  "INVALID_USAGE": "suf <code> <nomedoquadro/códigodoquadro>",
+  "INVALID_CODE": "Código inválido fornecido",
+  "CANNOT_APPLY": "Você não pode aplicar quadros em cartões 3D",
+  "NO_GIF": "{{author}} cartões gif não podem ser enquadrados",
+  "NO_FRAMES_FOUND": "{{author}} Nenhum quadro encontrado",
+  "EMBED_TITLE": "Aplicar quadro:",
+  "UF_CONFIRMATION": "Você está prestes a aplicar {{frameName}}\nSeu cartão ficará como abaixo\n",
+  "EMBED_FOOTER": "O cartão está enquadrado. Use o comando undoframe para obter o quadro aplicado de volta no inventário",
+  "NO_OWNER": "O cartão não pertence mais a você",
+  "FRAME_NOT_FOUND": "Você não tem aquele quadro",
+  "UF_SUCCESSFULL": "SUCESSO"
+}

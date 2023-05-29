@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "Ayrıntılı veya liste şeklinde glowların görünümü",
+  "VG_CATEGORY": "Kozmetik",
+  "VG_SLASH_DESC1": "Görmek istediğiniz glowların kullanıcısını girin.",
+  "VG_SLASH_DESC2": "Aramakta olduğunuz etiket adını girin.",
+  "VG_SLASH_DESC3": "Aramakta olduğunuz glow kodunu girin.",
+  "NO_GLOWS": "{{author}} Görüntülenecek glow bulunamadı!",
+  "SUPER": "Süper",
+  "EMBED_TITLE": "GLOW PALETTESİ:",
+  "EMBED_FOOTER": "Glow görüntüleme için {{prefix}}vg [glowkodu] | Açılan glow sayısı: {{count}}",
+  "SHOWING_PAGE": "Sayfa gösteriliyor: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} {{tagName}} adında etiketle gösterilecek glow bulunamadı",
+  "CANNOT_FIND_GLOW": "{{author}} `{{glowCode}}` kodlu glow bulunamıyor",
+  "EMBED_GLOW_TITLE": "SOFİ: GLOW",
+  "NAME": "`Adı:   ` ➜ {{name}}",
+  "CODE": "`Kod:   ` ➜ `#{{code}}`",
+  "STATUS": "`Durum: ` ➜ `{{status}}`",
+  "TYPE": "`Tür:   ` ➜ {{type}}",
+  "OWNER": "`Sahibi:  ` ➜ <@{{ownerId}}>",
+  "PURITY": "```Safiyet:  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} Etiketleri t=etiketadı şeklinde arayarak aratın veya glow kodları (# ile başlar)"
+}

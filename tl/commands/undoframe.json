@@ -1,0 +1,15 @@
+{
+  "UF_DESCRIPTION": "Tanggalin ang frame mula sa card",
+  "UF_CATEGORY": "Kosmetiko",
+  "INVALID_USAGE": "Subukan ang sunf <cardcode>",
+  "INVALID_CODE": "Napakamaling code na ibinigay",
+  "NO_CHARACTER": "Walang character na nahanap",
+  "NO_GIF": "Hindi magagamit ang command na kosmetiko ng {{author}} sa gif cards",
+  "NOT_FRAMED": "Hindi napapaloob sa frame ang card ni {{author}}",
+  "EMBED_TITLE": "Tanggalin ang Frame",
+  "UF_CONFIRMATION": "Nasa proseso ka na ngayong tanggalin ang frame\nAng hitsura ng iyong card ay ganito\nAng frame ay idadagdag sa iyong inventory\nMay bayad na 2 wists para sa prosesong ito",
+  "NOT_ENOUGH_WISTS": "Wala kang sapat na wists para tanggalin ang frame",
+  "NO_OWNER": "Hindi na iyo ang card",
+  "ALREADY_REMOVED": "Nakuha na ang frame dati pa",
+  "UF_SUCCESSFULL": "Tagal nang alis ang frame"
+}

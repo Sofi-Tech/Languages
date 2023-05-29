@@ -1,0 +1,15 @@
+{
+  "UF_DESCRIPTION": "Verwijder het frame van de kaart",
+  "UF_CATEGORY": "Cosmetica",
+  "INVALID_USAGE": "Probeer sunf <cardcode>",
+  "INVALID_CODE": "Ongeldige code opgegeven",
+  "NO_CHARACTER": "Geen personage gevonden",
+  "NO_GIF": "{{author}} cosmetica commando is niet van toepassing op gifkaarten",
+  "NOT_FRAMED": "{{author}} De kaart heeft geen frame",
+  "EMBED_TITLE": "Verwijder het Frame",
+  "UF_CONFIRMATION": "Je staat op het punt om het frame te verwijderen.\nJe kaart zal er als volgt uitzien\nHet frame wordt toegevoegd aan je inventaris\nDeze actie kost 2 wists",
+  "NOT_ENOUGH_WISTS": "Je hebt niet genoeg wists om het frame te verwijderen",
+  "NO_OWNER": "De kaart behoort niet meer tot jou",
+  "ALREADY_REMOVED": "Het frame is al verwijderd",
+  "UF_SUCCESSFULL": "Het frame is succesvol verwijderd"
+}

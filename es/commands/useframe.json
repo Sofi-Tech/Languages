@@ -1,0 +1,15 @@
+{
+  "UF_DESCRIPTION": "Utilice la impresión que compró en las tarjetas",
+  "UF_CATEGORY": "Cosmética",
+  "INVALID_USAGE": "suf <código> <nombredeimpresión/código>",
+  "INVALID_CODE": "Se proporcionó un código no válido",
+  "CANNOT_APPLY": "No puedes aplicar marcos a tarjetas 3D",
+  "NO_GIF": "{{author}} las tarjetas gif no pueden ser enmarcadas",
+  "NO_FRAMES_FOUND": "{{author}} No se encontraron marcos",
+  "EMBED_TITLE": "Aplicar marco:",
+  "UF_CONFIRMATION": "Estás a punto de aplicar  {{frameName}}\nTu tarjeta se verá como sigue\n",
+  "EMBED_FOOTER": "La tarjeta está enmarcada. Utilice el comando undoframe para recuperar el marco aplicado en el inventario",
+  "NO_OWNER": "La tarjeta ya no te pertenece",
+  "FRAME_NOT_FOUND": "No tienes ese marco",
+  "UF_SUCCESSFULL": "ÉXITO"
+}

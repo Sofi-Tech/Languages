@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "상세보기 또는 목록으로 보기",
+  "VG_CATEGORY": "화장품",
+  "VG_SLASH_DESC1": "글로우를 볼 사용자를 입력하세요.",
+  "VG_SLASH_DESC2": "검색 중인 태그 이름을 입력하세요.",
+  "VG_SLASH_DESC3": "검색 중인 글로우 코드를 입력하세요.",
+  "NO_GLOWS": "{{author}} 볼 수 있는 글로우가 없습니다!",
+  "SUPER": "슈퍼",
+  "EMBED_TITLE": "글로우 팔레트:",
+  "EMBED_FOOTER": "{{prefix}}vg [글로우 코드]를 입력하여 글로우 보기 | 잠긴 글로우: {{count}}",
+  "SHOWING_PAGE": "페이지 보기: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} 태그 이름 {{tagName}}으로 된 글로우가 없습니다",
+  "CANNOT_FIND_GLOW": "{{author}} `{{glowCode}}` 글로우 코드를 찾을 수 없습니다.",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "NAME": "`이름:   ` ➜ {{name}}",
+  "CODE": "`코드:   ` ➜ `#{{code}}`",
+  "STATUS": "`상태: ` ➜ `{{status}}`",
+  "TYPE": "`타입:   ` ➜ {{type}}",
+  "OWNER": "`소유자:  ` ➜ <@{{ownerId}}>",
+  "PURITY": "```투명도:  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} t=태그 이름 또는 글로우 코드 (#으로 시작함)를 사용하여 태그를 검색하세요."
+}

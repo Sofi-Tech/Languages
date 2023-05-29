@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "从卡片中删除文本",
+  "TT_CATEGORY": "化妆品",
+  "PROVIDE_CARD_CODE": "{{author}}，请提供卡片代码",
+  "INAVLID_CARD_CODE": "提供的卡片代码无效",
+  "INVALID_CODE": "找不到您的最后一张卡片或尝试提供卡片代码",
+  "CANNOT_FIND_CARD": "错误！查找卡片时出现问题",
+  "CANNOT_TOGGLE": "{{author}} 无法切换 gif 或 3D 卡片的文本",
+  "EMBED_TITLE": "SOFI：切换文本",
+  "TT_CONFIRMATION": "您确定要 {{toggleInfo}} 吗？\n这将花费 1000 <:_:915619222229512213>",
+  "NO_OWNER": "此卡片不再属于您",
+  "NOT_ENOUGH_SILVERS": "您没有足够的银色",
+  "TT_SUCCESSFULL": "成功删除文本"
+}

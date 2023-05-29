@@ -1,0 +1,14 @@
+{
+  "TT_DESCRIPTION": "Eliminar texto de la tarjeta",
+  "TT_CATEGORY": "Cosméticos",
+  "PROVIDE_CARD_CODE": "{{author}}, proporciona el código de tarjeta",
+  "INAVLID_CARD_CODE": "Código de tarjeta inválido proporcionado",
+  "INVALID_CODE": "No se puede encontrar tu última tarjeta o intenta proporcionar un código de tarjeta",
+  "CANNOT_FIND_CARD": "Error! al encontrar la tarjeta",
+  "CANNOT_TOGGLE": "{{author}} no puede alternar el texto para las tarjetas de gif o 3d",
+  "EMBED_TITLE": "SOFI: ALTERNAR TEXTO",
+  "TT_CONFIRMATION": "¿Está seguro de que desea {{toggleInfo}}\nEl proceso costará 1000 <:_:915619222229512213>",
+  "NO_OWNER": "La tarjeta ya no te pertenece",
+  "NOT_ENOUGH_SILVERS": "No tienes suficiente cantidad de platas",
+  "TT_SUCCESSFULL": "Texto eliminado exitosamente"
+}

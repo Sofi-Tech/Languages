@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "عرض الأضواء بالتفصيل أو القائمة",
+  "VG_CATEGORY": "مستحضرات التجميل",
+  "VG_SLASH_DESC1": "أدخل المستخدم الذي تريد رؤية أضوائه.",
+  "VG_SLASH_DESC2": "أدخل اسم الوسم الذي تبحث عنه.",
+  "VG_SLASH_DESC3": "أدخل رمز اللمعان الذي تبحث عنه.",
+  "NO_GLOWS": "{{author}} ليست هناك أضواء لعرضها!",
+  "SUPER": "خارق",
+  "EMBED_TITLE": "لوحة اللمعان:",
+  "EMBED_FOOTER": "{{prefix}}vg [glowcode] لمشاهدة اللمعان | الأضواء المفتوحة: {{count}}",
+  "SHOWING_PAGE": "عرض الصفحة: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} لم يتم العثور على اللمعان بعلامة {{tagName}}",
+  "CANNOT_FIND_GLOW": "{{author}} لا يمكنني العثور على اللمعان بالرمز `{{glowCode}}`",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "NAME": "`الاسم:   ` ➜ {{name}}",
+  "CODE": "`الرمز: ` ➜ `#{{code}}`",
+  "STATUS": "`الحالة: ` ➜ `{{status}}`",
+  "TYPE": "`النوع:   ` ➜ {{type}}",
+  "OWNER": "`المالك:  ` ➜ <@{{ownerId}}>",
+  "PURITY": "```النقاء :  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} البحث عن العلامات باستخدام t=tagName أو رمز اللمعان (يبدأ بـ #)"
+}

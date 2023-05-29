@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "ビューグローの詳細またはリストを表示",
+  "VG_CATEGORY": "化粧品",
+  "VG_SLASH_DESC1": "グローを見たいユーザー名を入力してください。",
+  "VG_SLASH_DESC2": "検索しているタグ名を入力してください。",
+  "VG_SLASH_DESC3": "検索しているグローコードを入力してください。",
+  "NO_GLOWS": "{{author}} グローがありません！",
+  "SUPER": "スーパー",
+  "EMBED_TITLE": "GLOW PALETTE:",
+  "EMBED_FOOTER": "{{prefix}}vg [glowcode] でグローを表示 | アンロックされたグロー：{{count}}",
+  "SHOWING_PAGE": "ページを表示中: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} タグ名 {{tagName}} でグローが見つかりませんでした",
+  "CANNOT_FIND_GLOW": "{{author}} コード `{{glowCode}}` のグローを見つけられません",
+  "EMBED_GLOW_TITLE": "SOFI: GLOW",
+  "NAME": "`名前：` ➜ {{name}}",
+  "CODE": "`コード：` ➜ `#{{code}}`",
+  "STATUS": "`状態：` ➜ `{{status}}`",
+  "TYPE": "`タイプ：` ➜ {{type}}",
+  "OWNER": "`オーナー：` ➜ <@{{ownerId}}> ",
+  "PURITY": "```純度：➜{{purity}}```",
+  "SEARCH_INFO": "{{author}} t=tagnameまたはglowcode(＃で始まる)を使用してタグを検索してください。"
+}

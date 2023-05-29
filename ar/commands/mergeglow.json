@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "دمج اللمعانات لاستلام الريزن",
+  "MG_CATEGORY": "مستحضرات التجميل",
+  "NO_GLOWS": "{{author}} لا يمكنه العثور على أي لمعانات في مجموعتك...",
+  "GLOW_CODES_MISSING": "{{author}} أكواد اللمعانات مفقودة | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
+  "GLOWS_UNAVAILABLE": "{{author}} بعض اللمعانات غير متاحة: {{unavailableGlows}}",
+  "GLOW_CODES_UNIQUE": "{{author}} يجب أن تكون أكواد اللمعانات فريدة",
+  "AVAILABLE": "متاح",
+  "UNAVAILABLE": "غير متاح",
+  "GLOWS_NOT_FOUND": "{{author}} لا يمكن العثور على اللمعات التالية بالأكواد {{glows}}",
+  "EMBED_TITLE": "SOFI: دمج اللمعانات",
+  "MERGE_CONFIRMATION": "أنت على وشك دمج اللمعانات التالية:\n\n{{glows}}\n\nستحصل على 1 <:resin:938131736741691442>",
+  "SURE": "هل أنت متأكد؟",
+  "ERROR": "خطأ: {{error}}"
+}

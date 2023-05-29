@@ -1,0 +1,15 @@
+{
+  "UNG_DESCRIPTION": "Karttan gölgeleri çıkarın",
+  "UNG_CATEGORY": "Kozmetik",
+  "INVALID_USAGE": "Geçerli bir kart kodu giriniz",
+  "INVALID_CODE": "Geçersiz kod girildi",
+  "NO_CHARACTER": "Karakter bulunamadı",
+  "NO_GIF": "{{author}} kozmetik komutu, gif kartları için geçerli değildir",
+  "NOT_GLOWED": "{{author}} Kartta hiçbir ışıltı yok",
+  "EMBED_TITLE": "Işıltıyı Kaldır",
+  "UNG_CONFIRMATION": "Kartınızdan ışıltıları kaldırmak üzeresiniz.\nKartınız aşağıdaki gibi görünecektir\nBu işlem 100 gümüş maliyetlidir.",
+  "EMBED_FOOTER": "Işıltıyı kaldıracak ve envanterinize geri dönmeyecektir",
+  "NO_OWNER": "Kart artık size ait değil",
+  "NOT_ENOUGH_SILVERS": "Işıltıyı kaldırmak için yeterli miktarda gümüşünüz yok",
+  "UNG_SUCCESSFULL": "Işıltı başarıyla kaldırılmıştır"
+}

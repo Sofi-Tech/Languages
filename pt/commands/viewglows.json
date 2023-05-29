@@ -1,0 +1,22 @@
+{
+  "VG_DESCRIPTION": "Ver detalhes ou lista de brilhos",
+  "VG_CATEGORY": "Cosméticos",
+  "VG_SLASH_DESC1": "Digite o usuário que você quer ver os brilhos.",
+  "VG_SLASH_DESC2": "Digite o nome da tag que você está procurando.",
+  "VG_SLASH_DESC3": "Digite o código do brilho que você está procurando.",
+  "NO_GLOWS": "{{author}} Não há brilhos para ver!",
+  "SUPER": "Super",
+  "EMBED_TITLE": "PALETA DE BRILHOS:",
+  "EMBED_FOOTER": "{{prefix}}vg [código do brilho] para ver o brilho | Brilhos desbloqueados: {{count}}",
+  "SHOWING_PAGE": "Mostrando página: {{page}}/{{totalPages}}",
+  "NO_GLOWS_FOUND": "{{author}} Nenhum brilho com a tag {{tagName}} encontrado",
+  "CANNOT_FIND_GLOW": "{{author}} Não consigo encontrar o brilho com o código `{{glowCode}}`",
+  "EMBED_GLOW_TITLE": "SOFI: BRILHO",
+  "NAME": "`Nome:   ` ➜ {{name}}",
+  "CODE": "`Código:   ` ➜ `#{{code}}`",
+  "STATUS": "`Status: ` ➜ `{{status}}`",
+  "TYPE": "`Tipo:   ` ➜ {{type}}",
+  "OWNER": "`Proprietário:  ` ➜ <@{{ownerId}}>",
+  "PURITY": "```Pureza :  ➜ {{purity}}```",
+  "SEARCH_INFO": "{{author}} Procure por tags usando t=nome da tag ou código do brilho (começa com #)"
+}

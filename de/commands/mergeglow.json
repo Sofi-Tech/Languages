@@ -1,0 +1,15 @@
+{
+  "MG_DESCRIPTION": "Fusionieren Sie die Glows, um Harze zu erhalten",
+  "MG_CATEGORY": "Kosmetik",
+  "NO_GLOWS": "{{author}} kann keine Glows in Ihrer Sammlung finden...",
+  "GLOW_CODES_MISSING": "{{author}} Glow-Codes fehlen | `Mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
+  "GLOWS_UNAVAILABLE": "{{author}} Einige Glows sind nicht verfügbar: {{unavailableGlows}}",
+  "GLOW_CODES_UNIQUE": "{{author}} Jeder Glow-Code muss einzigartig sein",
+  "AVAILABLE": "Verfügbar",
+  "UNAVAILABLE": "Nicht verfügbar",
+  "GLOWS_NOT_FOUND": "{{author}} kann Glow mit den Codes {{glows}} nicht finden",
+  "EMBED_TITLE": "SOFI: FUSIONIERE GLOWS",
+  "MERGE_CONFIRMATION": "Du bist dabei, folgende Glows zu fusionieren:\n\n{{glows}}\n\nDu erhältst 1 <:resin:938131736741691442>",
+  "SURE": "Bist du sicher?",
+  "ERROR": "Fehler: {{error}}"
+}
