@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Eliminar morph de la tarjeta",
-  "UM_CATEGORY": "Cosméticos",
-  "INVALID_USAGE": "Proporcione un código de tarjeta válido",
-  "INVALID_CODE": "Se ha proporcionado un código inválido",
-  "NO_CHARACTER": "No se ha encontrado ningún personaje",
-  "NO_GIF": "El comando de cosméticos de {{author}} no se aplica a las tarjetas de gif",
-  "NOT_MORPHED": "{{author}} La tarjeta no está morphed",
-  "EMBED_TITLE": "Deshacer Morph",
-  "UM_CONFIRMATION": "Estás a punto de eliminar el morph de tu tarjeta\nTu tarjeta se verá como se muestra a continuación\nEl proceso costará 100 Platas",
-  "NO_OWNER": "La tarjeta ya no te pertenece",
-  "SOMETHING_WENT_WRONG": "Algo salió muy mal.. <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "No tienes suficientes Platas para eliminar el morph",
-  "UM_SUCCESSFULL": "El morph se eliminó satisfactoriamente"
+    "UM_DESCRIPTION": "Eliminar morph de la tarjeta",
+    "UM_CATEGORY": "Cosméticos",
+    "INVALID_USAGE": "Proporcione un código de tarjeta válido",
+    "INVALID_CODE": "Se ha proporcionado un código inválido",
+    "NO_CHARACTER": "No se ha encontrado ningún personaje",
+    "NO_GIF": "El comando de cosméticos de {{author}} no se aplica a las tarjetas de gif",
+    "NOT_MORPHED": "{{author}} La tarjeta no está morphed",
+    "EMBED_TITLE": "Deshacer Morph",
+    "UM_CONFIRMATION": "Estás a punto de eliminar el morph de tu tarjeta\nTu tarjeta se verá como se muestra a continuación\nEl proceso costará 100 Platas",
+    "NO_OWNER": "{{author}} La carta ya no te pertenece",
+    "SOMETHING_WENT_WRONG": "Algo salió muy mal.. <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "No tienes suficientes Platas para eliminar el morph",
+    "UM_SUCCESSFULL": "El morph se eliminó satisfactoriamente"
 }
