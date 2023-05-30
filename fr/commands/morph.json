@@ -17,7 +17,7 @@
   "NO_ITEM": "{{author}}, vous n'avez pas {{amount}} {{item}}",
   "NO_CARD": "La carte ne vous appartient plus",
   "MORPH_CONFRIM": "Bien joué..! C'est une belle transformation.",
-  "MORPH_APPLIED": "La transformation a été appliquée avec succès",
+
   "REROLL": "Nombre d'annulations : `  {{count}}`\n{{author}}, vous ne pouvez pas faire cela, veuillez faire une transformation.",
   "UNDO_SUCCESSFULL": "Annulation réussie pour {{amount}} {{emoji}}",
   "MORPH_CANCELLED": "La transformation a été annulée"

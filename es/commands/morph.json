@@ -17,7 +17,7 @@
   "NO_ITEM": "{{author}}, no tienes {{amount}} {{item}}",
   "NO_CARD": "La tarjeta ya no te pertenece",
   "MORPH_CONFRIM": "¡Bien hecho..! Esa es una buena transformación",
-  "MORPH_APPLIED": "La transformación se aplicó con éxito",
+
   "REROLL": "Contador de deshacer: `{{count}}`\n{{author}}, no puedes hacer eso, por favor, usa `roll`",
   "UNDO_SUCCESSFULL": "Deshacer exitoso para {{amount}} {{emoji}}",
   "MORPH_CANCELLED": "La transformación fue cancelada"

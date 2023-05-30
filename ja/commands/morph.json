@@ -17,7 +17,7 @@
   "NO_ITEM": "{{author}}は {{amount}} {{item}}を持っていません",
   "NO_CARD": "カードはもう所有していません",
   "MORPH_CONFRIM": "素晴らしいです！それは本当に素晴らしい変形です。",
-  "MORPH_APPLIED": "変形が正常に適用されました",
+
   "REROLL": "元に戻す回数:`{{count}}`\n{{author}}できません。もう一度ロールしてください。",
   "UNDO_SUCCESSFULL": "{{amount}} {{emoji}}の元に戻しに成功しました",
   "MORPH_CANCELLED": "変形をキャンセルしました"

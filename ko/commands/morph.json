@@ -17,7 +17,7 @@
   "NO_ITEM": "{{author}}님은 {{amount}} 개의 {{item}}을(를) 소유하고 있지 않습니다.",
   "NO_CARD": "해당 카드가 더 이상 소유자에게 속해 있지 않습니다.",
   "MORPH_CONFRIM": "잘 하셨습니다..! 멋진 카드가 되었군요.",
-  "MORPH_APPLIED": "변신이 성공적으로 적용되었습니다.",
+
   "REROLL": "되돌리기 횟수: `{{count}}`\n{{author}}님은 그렇게 하실 수 없습니다. 다시 시도해주세요.",
   "UNDO_SUCCESSFULL": "{{emoji}} {{amount}}개 되돌리기에 성공했습니다.",
   "MORPH_CANCELLED": "변신이 취소되었습니다."
