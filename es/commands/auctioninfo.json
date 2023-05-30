@@ -8,8 +8,8 @@
     "AI_SERIES": "> Serie: {{series}}",
     "AI_TOP_BID": "> La mejor oferta: {{bids}}",
     "AI_STATUS": "> Estado: {{status}}",
-    "EMBED_FOOTER": "Use el comando {{prefix}}bid <auctionID> para hacer una oferta en el auction",
-    "EMPTY_AUCTION": "No hay auctions por el momento",
+    "EMBED_FOOTER": "Use el comando `{{prefix}}bid <AuctionID>` para hacer una oferta en el `Auction`",
+    "EMPTY_AUCTION": "Actualmente no hay `Auctions`en curso",
     "ID": "ID:",
     "ACTIVE": "Activa",
     "ENDED": "Finzalizada",
@@ -17,5 +17,5 @@
     "ONGOING": "En curso (termina en: {{time}})",
     "OVER": "Finalizada",
     "EMBED_AUCTIONS_TITLE": "SOFI: AUCTIONS",
-    "EMBED_AUCTIONS_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Para mas detalles, use el comando sai <auctionID>"
+    "EMBED_AUCTIONS_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Para mas detalles, use el comando `sai <AuctionID>`"
 }

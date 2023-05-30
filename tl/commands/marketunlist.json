@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Inalis ang iyong mga deals mula sa merkado",
     "CORRECT_USAGE": "{{user}} | Mangyaring magbigay ng deal ID na gusto mong alisin sa listahan o gamitin ang `smul`upang tanggalin lahat ng mga deal nang sabay-sabay",
-    "INVALID_DEAL_ID": "{{author}} Ang Deal ID na iyong ibinigay ay maalin na hindi wasto o hindi mo pag mamay-ari",
+    "INVALID_DEAL_ID": "{{author}} Ang Deal ID na iyong ibinigay ay na hindi wasto o hindi sa iyo",
     "SUCCESS_UL": "{{user}} Ang deal na {{dealId}} ay matagumpay na naalis mula sa merkado",
     "NO_LISTINGS_FOUND": "{{user}} Wala ka pang mga listahan sa merkado sa kasalukuyan",
     "SUCCESS_UL_ALL": "{{user}} Sa kabuuang {{totalDeals}} deals ang matagumpay na naalis sa listahan mula sa merkado"

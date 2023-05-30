@@ -14,7 +14,7 @@
     "PURCHASE_FAILED": "Nabigo ang pag bili sa deal `{{dealId}}`",
     "PURCHASE_CANCELLED": "Ang deal na ito ay hindi na available",
     "MISSING_GEMS": "Ikaw ay may kulang na {{gemPrice}} `Gems`",
-    "SOMETHING_WRONG": "May mali, subukan muli",
+    "SOMETHING_WRONG": "May mali. Subukang muli",
     "PURCHASE_SUCCESSFUL": "Matagumpay na naisagawa ang transaksyon",
     "SUCCESS": "{{wistAmount}} `Wists` ay nabili para sa **{{gemPrice}}** `Gems`!| Deal ID: {{dealId}}"
 }
