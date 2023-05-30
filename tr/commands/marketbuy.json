@@ -10,7 +10,7 @@
     "RATE": "a",
     "CONFIRM_ASK": "Bu işlemi onaylamak istediğinizden emin misiniz?",
     "ALREADY_IN_PURCHASE": "{{author}} Yeni bir işleme başlamadan önce önceki işleminizi iptal edin veya devam ettirin!",
-    "CANCELLED": "Toplu yakım süreci iptal edildi",
+    "CANCELLED": "Sahip olduğunuzdan daha fazla \"Wist\" listelemeye çalışıyorsunuz! ",
     "PURCHASE_FAILED": "`{{dealId}}` anlaşmasından satın alım işlemi başarısız oldu",
     "PURCHASE_CANCELLED": "Bu anlaşma artık mevcut değil",
     "MISSING_GEMS": "{{gemPrice}} adet `Gems` eksik",

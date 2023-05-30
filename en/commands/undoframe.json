@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Remove frame from the card",
-  "UF_CATEGORY": "Cosmetics",
-  "INVALID_USAGE": "Try sunf <cardcode>",
-  "INVALID_CODE": "Invalid code provided",
-  "NO_CHARACTER": "No character found",
-  "NO_GIF": "{{author}} cosmetics command do not apply to gif cards",
-  "NOT_FRAMED": "{{author}} The card is not framed",
-  "EMBED_TITLE": "Remove Frame",
-  "UF_CONFIRMATION": "You are about to remove frame\nYour card will look as below\nThe frame will be added in your inventory\nThe process will cost 2 wists",
-  "NOT_ENOUGH_WISTS": "You don't have enough wists for removing the frame",
-  "NO_OWNER": "The card no longer belongs to you",
-  "ALREADY_REMOVED": "The frame was already removed",
-  "UF_SUCCESSFULL": "The frame was successfully removed"
+    "UF_DESCRIPTION": "Remove frame from the card",
+    "UF_CATEGORY": "Cosmetics",
+    "INVALID_USAGE": "Try sunf <cardcode>",
+    "INVALID_CODE": "Invalid code provided",
+    "NO_CHARACTER": "No character found",
+    "NO_GIF": "{{author}} cosmetics command do not apply to gif cards",
+    "NOT_FRAMED": "{{author}} The card is not framed",
+    "EMBED_TITLE": "Remove Frame",
+    "UF_CONFIRMATION": "You are about to remove frame\nYour card will look as below\nThe frame will be added in your inventory\nThe process will cost 2 wists",
+    "NOT_ENOUGH_WISTS": "You don't have enough wists for removing the frame",
+    "NO_OWNER": "{{author}} The card no longer belongs to you",
+    "ALREADY_REMOVED": "The frame was already removed",
+    "UF_SUCCESSFULL": "The frame was successfully removed"
 }

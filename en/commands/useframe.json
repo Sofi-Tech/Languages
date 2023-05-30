@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Use the frame you bought on cards",
-  "UF_CATEGORY": "Cosmetics",
-  "INVALID_USAGE": "suf <code> <framename/framecode>",
-  "INVALID_CODE": "Invalid code provided",
-  "CANNOT_APPLY": "You cannot apply frames to 3D cards",
-  "NO_GIF": "{{author}} gif cards cannot be framed",
-  "NO_FRAMES_FOUND": "{{author}} No frames found",
-  "EMBED_TITLE": "Apply Frame:",
-  "UF_CONFIRMATION": "You are about to apply {{frameName}}\nYour card will look as below\n",
-  "EMBED_FOOTER": "The card is framed. Use undoframe command to get the applied frame back in inventory",
-  "NO_OWNER": "The card no longer belongs to you",
-  "FRAME_NOT_FOUND": "You don't have that frame",
-  "UF_SUCCESSFULL": "SUCCESS"
+    "UF_DESCRIPTION": "Use the frame you bought on cards",
+    "UF_CATEGORY": "Cosmetics",
+    "INVALID_USAGE": "suf <code> <framename/framecode>",
+    "INVALID_CODE": "Invalid code provided",
+    "CANNOT_APPLY": "You cannot apply frames to 3D cards",
+    "NO_GIF": "{{author}} gif cards cannot be framed",
+    "NO_FRAMES_FOUND": "{{author}} No frames found",
+    "EMBED_TITLE": "Apply Frame:",
+    "UF_CONFIRMATION": "You are about to apply {{frameName}}\nYour card will look as below\n",
+    "EMBED_FOOTER": "The card is framed. Use undoframe command to get the applied frame back in inventory",
+    "NO_OWNER": "{{author}} The card no longer belongs to you",
+    "FRAME_NOT_FOUND": "You don't have that frame",
+    "UF_SUCCESSFULL": "SUCCESS"
 }
