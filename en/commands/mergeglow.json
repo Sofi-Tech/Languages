@@ -1,15 +1,15 @@
 {
-  "MG_DESCRIPTION": "Merge the glows to receive resins",
-  "MG_CATEGORY": "Cosmetics",
-  "NO_GLOWS": "{{author}} cannot find glows in your collection..",
-  "GLOW_CODES_MISSING": "{{author}} glowcodes are missing | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
-  "GLOWS_UNAVAILABLE": "{{author}} Some glows are unavailable: {{unavailableGlows}}",
-  "GLOW_CODES_UNIQUE": "{{author}} every glow code must be unique",
-  "AVAILABLE": "Available",
-  "UNAVAILABLE": "Unavailable",
-  "GLOWS_NOT_FOUND": "{{author}} cannot find glow with codes {{glows}}",
-  "EMBED_TITLE": "SOFI: MERGE GLOWS",
-  "MERGE_CONFIRMATION": "You are about to merge the following glows:\n\n{{glows}}\n\nYou will receive 1 <:resin:938131736741691442>",
-  "SURE": "Are you sure?",
-  "ERROR": "Error: {{error}}"
+    "MG_DESCRIPTION": "\"Merges\" 4 unique \"Glows\" in order to obtain \"Resin\"",
+    "MG_CATEGORY": "Cosmetics",
+    "NO_GLOWS": "{{author}} You don't have any `Glows` yet",
+    "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} The following `Glows` are empty: `{{unavailableGlows}}`",
+    "GLOW_CODES_UNIQUE": "{{author}} You need 4 unique `Glows` for this process",
+    "AVAILABLE": "Available",
+    "UNAVAILABLE": "Unavailable",
+    "GLOWS_NOT_FOUND": "{{author}} The following `Glows` are either invalid or not in yours: `{{glows}}`",
+    "EMBED_TITLE": "SOFI: GLOW MERGE",
+    "MERGE_CONFIRMATION": "You are about to merge the following `Glows`:\n\n{{glows}}\n\nYou will receive **1**x <:resin:938131736741691442>",
+    "SURE": "Are you sure?",
+    "ERROR": "Error: {{error}}"
 }

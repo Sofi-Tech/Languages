@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "Quitar el resplandor de la carta",
-  "UNG_CATEGORY": "Cosméticos",
-  "INVALID_USAGE": "Proporcione un código de tarjeta válido",
-  "INVALID_CODE": "Código proporcionado no válido",
-  "NO_CHARACTER": "No se encontró personaje",
-  "NO_GIF": "El comando de cosméticos de {{author}} no se aplica a las cartas de gif",
-  "NOT_GLOWED": "{{author}} La carta no tiene resplandor",
-  "EMBED_TITLE": "Quitar Resplandor",
-  "UNG_CONFIRMATION": "Está a punto de eliminar el resplandor de su tarjeta\nSu tarjeta se verá como se muestra a continuación\nEl proceso costará 100 plateados",
-  "EMBED_FOOTER": "El brillo se eliminará y no volverá a su inventario",
-  "NO_OWNER": "La carta ya no te pertenece",
-  "NOT_ENOUGH_SILVERS": "No tienes suficientes plateados para quitar el resplandor",
-  "UNG_SUCCESSFULL": "Se quitó el resplandor con éxito"
+    "UNG_DESCRIPTION": "Quitar el resplandor de la carta",
+    "UNG_CATEGORY": "Cosméticos",
+    "INVALID_USAGE": "Proporcione un código de tarjeta válido",
+    "INVALID_CODE": "Código proporcionado no válido",
+    "NO_CHARACTER": "No se encontró personaje",
+    "NO_GIF": "El comando de cosméticos de {{author}} no se aplica a las cartas de gif",
+    "NOT_GLOWED": "{{author}} La carta no tiene resplandor",
+    "EMBED_TITLE": "Quitar Resplandor",
+    "UNG_CONFIRMATION": "Está a punto de eliminar el resplandor de su tarjeta\nSu tarjeta se verá como se muestra a continuación\nEl proceso costará 100 plateados",
+    "EMBED_FOOTER": "El brillo se eliminará y no volverá a su inventario",
+    "NO_OWNER": "{{author}} La carta ya no te pertenece",
+    "NOT_ENOUGH_SILVERS": "No tienes suficientes plateados para quitar el resplandor",
+    "UNG_SUCCESSFULL": "Se quitó el resplandor con éxito"
 }

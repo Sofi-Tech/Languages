@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Quitar el marco de la tarjeta",
-  "UF_CATEGORY": "Cosméticos",
-  "INVALID_USAGE": "Intente con sunf <código de tarjeta>",
-  "INVALID_CODE": "Se proporcionó un código no válido",
-  "NO_CHARACTER": "No se encontró ningún personaje",
-  "NO_GIF": "El comando {{author}} cosmetics no se aplica a tarjetas GIF",
-  "NOT_FRAMED": "{{author}} La tarjeta no está enmarcada",
-  "EMBED_TITLE": "Quitar marco",
-  "UF_CONFIRMATION": "Estás a punto de quitar el marco\nTu tarjeta se verá como sigue\nEl marco se agregará a tu inventario\nEl proceso costará 2 wists",
-  "NOT_ENOUGH_WISTS": "No tienes suficientes wists para quitar el marco",
-  "NO_OWNER": "La tarjeta ya no te pertenece",
-  "ALREADY_REMOVED": "El marco ya fue quitado",
-  "UF_SUCCESSFULL": "El marco fue quitado exitosamente"
+    "UF_DESCRIPTION": "Quitar el marco de la tarjeta",
+    "UF_CATEGORY": "Cosméticos",
+    "INVALID_USAGE": "Intente con sunf <código de tarjeta>",
+    "INVALID_CODE": "Se proporcionó un código no válido",
+    "NO_CHARACTER": "No se encontró ningún personaje",
+    "NO_GIF": "El comando {{author}} cosmetics no se aplica a tarjetas GIF",
+    "NOT_FRAMED": "{{author}} La tarjeta no está enmarcada",
+    "EMBED_TITLE": "Quitar marco",
+    "UF_CONFIRMATION": "Estás a punto de quitar el marco\nTu tarjeta se verá como sigue\nEl marco se agregará a tu inventario\nEl proceso costará 2 wists",
+    "NOT_ENOUGH_WISTS": "No tienes suficientes wists para quitar el marco",
+    "NO_OWNER": "{{author}} La carta ya no te pertenece",
+    "ALREADY_REMOVED": "El marco ya fue quitado",
+    "UF_SUCCESSFULL": "El marco fue quitado exitosamente"
 }

@@ -1,15 +1,15 @@
 {
-  "MG_DESCRIPTION": "Combina los brillos para obtener resinas",
-  "MG_CATEGORY": "Cosméticos",
-  "NO_GLOWS": "{{author}} no puede encontrar brillos en tu colección...",
-  "GLOW_CODES_MISSING": "Faltan códigos de brillos de {{author}} | `mergeglow [código1] [código2] [código3] [código4]`",
-  "GLOWS_UNAVAILABLE": "{{author}} Algunos brillos no están disponibles: {{unavailableGlows}}",
-  "GLOW_CODES_UNIQUE": "{{author}} cada código de brillo debe ser único",
-  "AVAILABLE": "Disponible",
-  "UNAVAILABLE": "No disponible",
-  "GLOWS_NOT_FOUND": "{{author}} no puede encontrar brillo con códigos {{glows}}",
-  "EMBED_TITLE": "SOFI: COMBINAR BRILLOS",
-  "MERGE_CONFIRMATION": "Estás a punto de combinar los siguientes brillos:\n\n{{glows}}\n\nObtendrás 1 <:resin:938131736741691442>",
-  "SURE": "¿Estás seguro?",
-  "ERROR": "Error: {{error}}"
+    "MG_DESCRIPTION": "Combina 4 \"Glows\" en orden para obtener \"Resins\"",
+    "MG_CATEGORY": "Cosméticos",
+    "NO_GLOWS": "{{author}} No tienes ningún `Glow` aún",
+    "GLOW_CODES_MISSING": "{{author}} Uso correcto: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} Algunos `Glows` no están disponibles: {{unavailableGlows}}",
+    "GLOW_CODES_UNIQUE": "{{author}} Necesitas 4 `Glows` diferentes para este proceso",
+    "AVAILABLE": "Disponible",
+    "UNAVAILABLE": "No disponible",
+    "GLOWS_NOT_FOUND": "{{author}} Los siguientes `Glows` son ambos inválidos o no están en: `{{glows}}`",
+    "EMBED_TITLE": "SOFI: COMBINAR GLOWS",
+    "MERGE_CONFIRMATION": "Estás a punto de combinar los siguientes `Glows`:\n\n{{glows}}\n\nObtendrás 1 <:resin:938131736741691442>",
+    "SURE": "¿Estás seguro?",
+    "ERROR": "Error: {{error}}"
 }

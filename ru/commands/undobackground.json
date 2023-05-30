@@ -2,7 +2,7 @@
     "UB_DESCRIPTION": "Удаляет установленный \"Background\" с карточки",
     "UB_CATEGORY": "Косметика",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
-    "NO_CHARACTER_FOUND": "{{author}} Если вы видите это сообщение, пожалуйста, сообщите разработчику. [UNDOBACKGROUND ОШИБКА]",
+    "NO_CHARACTER_FOUND": "{{author}} Не удалось найти эту карту",
     "INVALID_CODE": "{{author}} Код карты, который вы указали, является недействительным",
     "NO_GIF_CARD": "{{author}} `GIF` карты не могут устанавливать `Background` как эффект",
     "NO_BACKGROUND": "{{author}} На этой карточке не установлен `Background`",
@@ -13,5 +13,6 @@
     "COSMETICS": "КОСМЕТИКА",
     "NOT_ENOUGH_WIST": "У вас недостаточно `Wists`, чтобы удалить `Background`",
     "NO_BG_APPLIED": "{{author}} На этой карточке не установлен `Background`",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` был успешно удален и добавлен обратно в ваш `Inventory`"
+    "UNDO_BACKGROUND_SUCCESS": "`Background` был успешно удален и добавлен обратно в ваш `Inventory`",
+    "NO_OWNER": "{{author}} Эта карта больше не принадлежит вам"
 }

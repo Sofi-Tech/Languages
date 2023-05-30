@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Отображает список доступных \"Fragments\" пользователя",
     "COLLECTION_PVT": "{{author}} Вкладка `Fragment` этого пользователя является приватной!",
-    "CANNOT_FIND_FRAGS": "{{user}} Не удалось найти ни одного `Fragments` в этом инвентаре",
+    "CANNOT_FIND_FRAGS": "{{user}} Не удалось найти никаких `Fragments` для этого пользователя",
     "FRAGS_COUNT": "Количество `Fragment`: {{totalCount}}",
     "FRAG_LIST": "Список \"Fragment\": {{userName}}"
 }
