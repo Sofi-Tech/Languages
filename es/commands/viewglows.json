@@ -17,6 +17,5 @@
   "STATUS": "`Estado: ` ➜ `{{status}}`",
   "TYPE": "`Tipo: ` ➜ {{type}}",
   "OWNER": "`Propietario: ` ➜ <@{{ownerId}}>",
-  "PURITY": "```Pureza: ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Busca etiquetas usando t=nombre de la etiqueta o el código del resplandor (empieza con #)"
+  "PURITY": "```Pureza: ➜ {{purity}}```"
 }

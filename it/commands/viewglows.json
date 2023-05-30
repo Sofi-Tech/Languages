@@ -17,6 +17,5 @@
   "STATUS": "`Stato: ` ➜ `{{status}}`",
   "TYPE": "`Tipo:   ` ➜ {{type}}",
   "OWNER": "`Proprietario:  ` ➜ <@{{ownerId}}> ",
-  "PURITY": "```Purezza:  ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Cerca i tag utilizzando t=nome tag o il codice del glow (che inizia con #)"
+  "PURITY": "```Purezza:  ➜ {{purity}}```"
 }

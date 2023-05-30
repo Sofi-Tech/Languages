@@ -17,6 +17,5 @@
   "STATUS": "`状態：` ➜ `{{status}}`",
   "TYPE": "`タイプ：` ➜ {{type}}",
   "OWNER": "`オーナー：` ➜ <@{{ownerId}}> ",
-  "PURITY": "```純度：➜{{purity}}```",
-  "SEARCH_INFO": "{{author}} t=tagnameまたはglowcode(＃で始まる)を使用してタグを検索してください。"
+  "PURITY": "```純度：➜{{purity}}```"
 }

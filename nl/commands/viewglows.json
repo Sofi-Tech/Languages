@@ -17,6 +17,5 @@
   "STATUS": "`Status:` ➜ `{{status}}`",
   "TYPE": "`Type:  ` ➜ {{type}}",
   "OWNER": "`Eigenaar:` ➜ <@{{ownerId}}> ",
-  "PURITY": "```Zuiverheid: ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Zoek naar tags door t=tagnaam of glowcode (begint met #)"
+  "PURITY": "```Zuiverheid: ➜ {{purity}}```"
 }

@@ -17,6 +17,5 @@
   "STATUS": "`الحالة: ` ➜ `{{status}}`",
   "TYPE": "`النوع:   ` ➜ {{type}}",
   "OWNER": "`المالك:  ` ➜ <@{{ownerId}}>",
-  "PURITY": "```النقاء :  ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} البحث عن العلامات باستخدام t=tagName أو رمز اللمعان (يبدأ بـ #)"
+  "PURITY": "```النقاء :  ➜ {{purity}}```"
 }

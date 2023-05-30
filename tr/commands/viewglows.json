@@ -17,6 +17,5 @@
   "STATUS": "`Durum: ` ➜ `{{status}}`",
   "TYPE": "`Tür:   ` ➜ {{type}}",
   "OWNER": "`Sahibi:  ` ➜ <@{{ownerId}}>",
-  "PURITY": "```Safiyet:  ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Etiketleri t=etiketadı şeklinde arayarak aratın veya glow kodları (# ile başlar)"
+  "PURITY": "```Safiyet:  ➜ {{purity}}```"
 }

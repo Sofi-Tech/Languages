@@ -17,6 +17,5 @@
   "STATUS": "`Status: ` ➜ `{{status}}`",
   "TYPE": "`Tipo:   ` ➜ {{type}}",
   "OWNER": "`Proprietário:  ` ➜ <@{{ownerId}}>",
-  "PURITY": "```Pureza :  ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Procure por tags usando t=nome da tag ou código do brilho (começa com #)"
+  "PURITY": "```Pureza :  ➜ {{purity}}```"
 }

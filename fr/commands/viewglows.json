@@ -17,6 +17,5 @@
   "STATUS": "`Statut : ` ➜ `{{status}}`",
   "TYPE": "`Type :   ` ➜ {{type}}",
   "OWNER": "`Propriétaire :  ` ➜ <@{{ownerId}}>",
-  "PURITY": "```Pureté :  ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Recherchez des tags en utilisant t=tagname ou le code lueur (qui commence par #)"
+  "PURITY": "```Pureté :  ➜ {{purity}}```"
 }

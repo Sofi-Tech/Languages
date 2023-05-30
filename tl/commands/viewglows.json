@@ -17,6 +17,5 @@
   "STATUS": "`Kalagayan:` ➜ `{{status}}`",
   "TYPE": "`Uri:   ` ➜ {{type}}",
   "OWNER": "`May-ari: ` ➜ <@{{ownerId}}> ",
-  "PURITY": "```Kalinisan: ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Hanapin ang mga tag gamit ang t=tagname o at ang glowcode (nagsisimula sa #)"
+  "PURITY": "```Kalinisan: ➜ {{purity}}```"
 }

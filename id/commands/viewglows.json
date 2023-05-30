@@ -17,6 +17,5 @@
   "STATUS": "`Status:` ➜`{{status}}`",
   "TYPE": "`Tipe:  ` ➜ {{type}}",
   "OWNER": "`Pemilik:` ➜ <@{{ownerId}}> ",
-  "PURITY": "```Keaslian:  ➜ {{purity}}```",
-  "SEARCH_INFO": "{{author}} Cari tag dengan menggunakan t=nama tag atau kode sinar (dimulai dengan #)"
+  "PURITY": "```Keaslian:  ➜ {{purity}}```"
 }
