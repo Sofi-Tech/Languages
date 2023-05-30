@@ -11,14 +11,14 @@
     "NAME": "Name: `{{name}}`",
     "UNDO": "Restored Count: `  {{count}}`",
     "VANISH": "\nThis `Morph` will vanish in **2** minutes",
-    "FAILED": "Morphing failed, better luck next time",
+    "FAILED": "{{author}} Something went wrong, please try again",
     "HISTORY": "\nHistory: ```{{history}}```",
-    "STOLE_MORPH": "An unknown beast stole the Morph.<:smugsofi:910705181572878376> Please re-roll",
+    "STOLE_MORPH": "Something went wrong, please roll another morph",
     "NO_ITEM": "{{author}} you don't have {{amount}} {{item}}",
     "NO_CARD": "The card no longer belongs to you",
-    "MORPH_CONFRIM": "Well Done..! Thats a nice morph right there.",
-    "MORPH_APPLIED": "Morph was successfully applied",
-    "REROLL": "Undo Count: `  {{count}}`\n{{author}} Can't do that, Please roll.",
-    "UNDO_SUCCESSFULL": "Undo Successful for {{amount}} {{emoji}}",
-    "MORPH_CANCELLED": "Morph was Cancelled"
+    "MORPH_CONFRIM": "The `Morph` has been successfully applied",
+    "MORPH_APPLIED": "WAITING ON REMOVAL",
+    "REROLL": "Undo Count: `  {{count}}  `\n{{author}} ",
+    "UNDO_SUCCESSFULL": "Successfully restored the previous `Morph` for **{{amount}}** {{emoji}}",
+    "MORPH_CANCELLED": "The `Morphing` process has been cancelled"
 }
