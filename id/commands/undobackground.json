@@ -2,7 +2,7 @@
     "UB_DESCRIPTION": "Menghapus \"Background\" yang dipakaikan dari kartu",
     "UB_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}undobg <KodeKartu>`",
-    "NO_CHARACTER_FOUND": "{{author}} Jika anda melihat pesan ini, harap beri tahu pengembang. [KESALAHAN UNDOBACKGROUND]",
+    "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan kartu tersebut",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid",
     "NO_GIF_CARD": "{{author}} Kartu `GIF` tidak dapat menggunakan `Background`",
     "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Latar Belakang` yang diterapkan padanya",
@@ -13,5 +13,6 @@
     "COSMETICS": "KOSMETIK",
     "NOT_ENOUGH_WIST": "Anda tidak memiliki cukup `Wists` untuk menghapus `Background` ini",
     "NO_BG_APPLIED": "{{author}} Kartu tersebut tidak memiliki `Background` yang diterapkan padanya",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` telah berhasil dihapus dan dikembalikan ke `Inventory` Anda"
+    "UNDO_BACKGROUND_SUCCESS": "`Background` telah berhasil dihapus dan dikembalikan ke `Inventory` Anda",
+    "NO_OWNER": "{{author}}Kartu tersebut bukan lagi milik anda"
 }

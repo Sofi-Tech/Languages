@@ -1,15 +1,15 @@
 {
-  "MG_DESCRIPTION": "Gabungkan kilauan untuk menerima resin",
-  "MG_CATEGORY": "Kosmetik",
-  "NO_GLOWS": "{{author}} tidak dapat menemukan kilauan di koleksimu...",
-  "GLOW_CODES_MISSING": "{{author}} kode kilauan tidak ditemukan | `gabungkilauan [kodekilauan1] [kodekilauan2] [kodekilauan3] [kodekilauan4]`",
-  "GLOWS_UNAVAILABLE": "{{author}} Beberapa kilauan tidak tersedia: {{glowstidaktersedia}}",
-  "GLOW_CODES_UNIQUE": "{{author}} setiap kode kilauan harus unik",
-  "AVAILABLE": "Tersedia",
-  "UNAVAILABLE": "Tidak tersedia",
-  "GLOWS_NOT_FOUND": "{{author}} tidak dapat menemukan kilauan dengan kode {{kilauan}}",
-  "EMBED_TITLE": "SOFI: GABUNGKAN KILAUAN",
-  "MERGE_CONFIRMATION": "Anda akan menggabungkan kilauan berikut:\n\n{{kilauan}}\n\nAnda akan menerima 1 <:resin:938131736741691442>",
-  "SURE": "Apakah Anda yakin?",
-  "ERROR": "Galat: {{error}}"
+    "MG_DESCRIPTION": "\"Merge\" 4 \"Glow\" yang unik untuk mendapatkan \"Resin\"",
+    "MG_CATEGORY": "Kosmetik",
+    "NO_GLOWS": "{{author}} Anda belum memiliki `Glow`",
+    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar: `{{prefix}}mg <KodeGlow1> <KodeGlow2> <KodeGlow3> <KodeGlow4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} Berikut ini`Glow` kosong: `{{unavailableGlows}}`",
+    "GLOW_CODES_UNIQUE": "{{author}} Anda memerlukan 4 `Glow` unik untuk proses ini",
+    "AVAILABLE": "Tersedia",
+    "UNAVAILABLE": "Tidak tersedia",
+    "GLOWS_NOT_FOUND": "{{author}} Berikut ini `Glow` tidak valid atau tidak ada pada Anda: `{{glows}}`",
+    "EMBED_TITLE": "SOFI: GABUNGAN GLOW",
+    "MERGE_CONFIRMATION": "Anda akan menggabungkan `Glows` berikut ini:\n\n{{glows}}\n\nAnda akan menerima **1**x <:resin:938131736741691442>",
+    "SURE": "Apakah Anda yakin?",
+    "ERROR": "Kesalahan: {{error}}"
 }

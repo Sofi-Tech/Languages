@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Gunakan bingkai yang Anda beli di kartu",
-  "UF_CATEGORY": "Kosmetik",
-  "INVALID_USAGE": "suf <code> <namabingkai/kodebingkai>",
-  "INVALID_CODE": "Kode yang diberikan tidak valid",
-  "CANNOT_APPLY": "Anda tidak dapat menggunakan bingkai untuk kartu 3D",
-  "NO_GIF": "{{author}} kartu gif tidak dapat diberi bingkai",
-  "NO_FRAMES_FOUND": "{{author}} Tidak ditemukan bingkai",
-  "EMBED_TITLE": "Terapkan Bingkai:",
-  "UF_CONFIRMATION": "Anda akan menerapkan {{frameName}}\nKartu Anda akan terlihat seperti di bawah ini\n",
-  "EMBED_FOOTER": "Kartu sudah diberi bingkai. Gunakan perintah undoframe untuk mendapatkan kembali bingkai yang diterapkan ke inventaris",
-  "NO_OWNER": "Kartu tidak lagi menjadi milik Anda",
-  "FRAME_NOT_FOUND": "Anda tidak memiliki bingkai tersebut",
-  "UF_SUCCESSFULL": "BERHASIL"
+    "UF_DESCRIPTION": "Gunakan bingkai yang Anda beli di kartu",
+    "UF_CATEGORY": "Kosmetik",
+    "INVALID_USAGE": "suf <code> <namabingkai/kodebingkai>",
+    "INVALID_CODE": "Kode yang diberikan tidak valid",
+    "CANNOT_APPLY": "Anda tidak dapat menggunakan bingkai untuk kartu 3D",
+    "NO_GIF": "{{author}} kartu gif tidak dapat diberi bingkai",
+    "NO_FRAMES_FOUND": "{{author}} Tidak ditemukan bingkai",
+    "EMBED_TITLE": "Terapkan Bingkai:",
+    "UF_CONFIRMATION": "Anda akan menerapkan {{frameName}}\nKartu Anda akan terlihat seperti di bawah ini\n",
+    "EMBED_FOOTER": "Kartu sudah diberi bingkai. Gunakan perintah undoframe untuk mendapatkan kembali bingkai yang diterapkan ke inventaris",
+    "NO_OWNER": "{{author}}Kartu tersebut bukan lagi milik anda",
+    "FRAME_NOT_FOUND": "Anda tidak memiliki bingkai tersebut",
+    "UF_SUCCESSFULL": "BERHASIL"
 }
