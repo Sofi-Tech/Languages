@@ -14,17 +14,17 @@
     "MENU_BG_LABEL": "Fondos",
     "MENU_BG_DESC": "\"Swap\" los \"Background'\" de las cartas 3D",
     "PROVIDE_CODES": "{{author}} Uso correcto:`{{prefix}}swap <Code1> <Code2>`",
-    "INVAILD_CODE1": "{{author}}, código1 no es válido",
-    "INAVLID_CODE2": "{{author}}, código2 no es válido",
-    "NO_GIF": "{{author}}, los cosméticos gif no pueden intercambiarse",
+    "INVAILD_CODE1": "{{author}} al menos uno de los códigos que proporcionó es inválido o no esta en tu colección",
+    "INAVLID_CODE2": "{{author}} al menos uno de los códigos que proporcionó es inválido o no esta en tu colección",
+    "NO_GIF": "{{author}} No puedes hacer `Swap` de cosmeticos en cartas `GIF`",
     "NO_COSMETICS": "{{author}} Tus cartas no tienen ningún cosmético que `Swap`",
     "MENU_FEATURES_PLACEHOLDER": "Elige que cosmético deseas a \"Swap\"",
     "EMBED_TITLE": "SOFI: SERVICIO DE INTERCAMBIO",
     "CHOOSE_FROM_OPTIONS": "Elija una de las opciones del menú a continuación para continuar",
     "EMBED_FOOTER": "El proceso consumirá un `Swap`",
     "SWAPS_CHOSEN": "Has elegido `Swap` los siguientes cosméticos:",
-    "MISSING_SWAP_TOKEN": "{{author}}, te falta el token de intercambio...",
+    "MISSING_SWAP_TOKEN": "{{author}} necesitas tener un `Swap`para este proceso",
     "SUS_THING": "{{authorId}}, hizo algo sospechoso con el intercambio...",
     "DOES_NOT_WORK": "Veo lo que estás intentando aquí... pero no funciona",
-    "SWAP_SUCCESSFULL": "El intercambio fue exitoso"
+    "SWAP_SUCCESSFULL": "El `Swapped` a los objetos seleccionados fue exitoso"
 }

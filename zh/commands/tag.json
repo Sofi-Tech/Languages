@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} 您还没有任何 \"标签\"。您可以用 “{{prefix}}tc <Tagname> <Emoji>”命令来创建它们。",
     "TAG_NOT_FOUND": "您没有任何名为 `{{tag}}` 的标签。",
     "NO_CARDS_CLAIMED": "您还没有认领任何卡片。",
-    "INVALID_CARD_CODE": "{{author}}你所输入的卡片代码无效",
+    "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效",
     "SUCCESSFUL_TAG": "{{author}} | 成功将 {{card}} 标记为 `{{tag}}`。",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} 这些卡片已成功标记。"
 }

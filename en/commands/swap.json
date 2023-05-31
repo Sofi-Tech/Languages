@@ -14,17 +14,17 @@
     "MENU_BG_LABEL": "Backgrounds",
     "MENU_BG_DESC": "\"Swaps\" the \"Backgrounds\" of two 3D",
     "PROVIDE_CODES": "{{author}} Correct usage: `{{prefix}}swap <Code1> <Code2>`",
-    "INVAILD_CODE1": "{{author}} code1 is invalid",
-    "INAVLID_CODE2": "{{author}} code2 is invalid",
-    "NO_GIF": "{{author}} gif cosmetics cannot be exchanged",
+    "INVAILD_CODE1": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
+    "INAVLID_CODE2": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
+    "NO_GIF": "{{author}} You can not `Swap` cosmetics with a `GIF` card",
     "NO_COSMETICS": "{{author}} Your cards do not have any cosmetics to `Swap`",
     "MENU_FEATURES_PLACEHOLDER": "Select which cosmetics you want to \"Swap\"",
     "EMBED_TITLE": "SOFI: SWAP SERVICE",
     "CHOOSE_FROM_OPTIONS": "Choose one of the options from the menu below to proceed",
     "EMBED_FOOTER": "This process will consume a `Swap`",
     "SWAPS_CHOSEN": "You have chosen to `Swap` the following cosmetics:",
-    "MISSING_SWAP_TOKEN": "{{author}} you are missing swap token..",
+    "MISSING_SWAP_TOKEN": "{{author}} You need to have a `Swap` for this process",
     "SUS_THING": "{{authorId}} did sus thing with swap....",
     "DOES_NOT_WORK": "I see what you are trying here.. but it doesn't work",
-    "SWAP_SUCCESSFULL": "Swap was successful"
+    "SWAP_SUCCESSFULL": "The chosen cosmetics were successfully `Swapped`"
 }
