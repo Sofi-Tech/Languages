@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt die verfügbaren Fragmente eines Users an.",
-    "COLLECTION_PVT": "Die Sammlung dieses Benutzers ist privat",
-    "CANNOT_FIND_FRAGS": "{{user}} kann keine Frags finden.",
-    "FRAGS_COUNT": "Frags Anzahl: {{totalCount}}",
-    "FRAG_LIST": "Frag Liste: {{userName}}"
+    "COLLECTION_PVT": "{{author}} Der Tab „Fragment“ dieses Benutzers ist privat!",
+    "CANNOT_FIND_FRAGS": "{{user}} Konnte in diesem Inventar keine „Fragments“ finden",
+    "FRAGS_COUNT": "Anzahl der Fragments: {{totalCount}}",
+    "FRAG_LIST": "„Fragment“-Liste: {{userName}}"
 }

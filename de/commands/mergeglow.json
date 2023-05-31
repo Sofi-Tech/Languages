@@ -1,15 +1,15 @@
 {
-  "MG_DESCRIPTION": "Fusionieren Sie die Glows, um Harze zu erhalten",
-  "MG_CATEGORY": "Kosmetik",
-  "NO_GLOWS": "{{author}} kann keine Glows in Ihrer Sammlung finden...",
-  "GLOW_CODES_MISSING": "{{author}} Glow-Codes fehlen | `Mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
-  "GLOWS_UNAVAILABLE": "{{author}} Einige Glows sind nicht verfügbar: {{unavailableGlows}}",
-  "GLOW_CODES_UNIQUE": "{{author}} Jeder Glow-Code muss einzigartig sein",
-  "AVAILABLE": "Verfügbar",
-  "UNAVAILABLE": "Nicht verfügbar",
-  "GLOWS_NOT_FOUND": "{{author}} kann Glow mit den Codes {{glows}} nicht finden",
-  "EMBED_TITLE": "SOFI: FUSIONIERE GLOWS",
-  "MERGE_CONFIRMATION": "Du bist dabei, folgende Glows zu fusionieren:\n\n{{glows}}\n\nDu erhältst 1 <:resin:938131736741691442>",
-  "SURE": "Bist du sicher?",
-  "ERROR": "Fehler: {{error}}"
+    "MG_DESCRIPTION": "„Merget“ 4 einzigartige „Glows“ zusammen, um „Resin“ zu erhalten.",
+    "MG_CATEGORY": "Kosmetik",
+    "NO_GLOWS": "{{author}} Du hast noch keine „Glows“.",
+    "GLOW_CODES_MISSING": "{{author}} Richtige Verwendung: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} Die folgenden „Glows“ sind leer: „{{unavailableGlows}}“",
+    "GLOW_CODES_UNIQUE": "{{author}} Jeder Glow-Code muss einzigartig sein",
+    "AVAILABLE": "Verfügbar",
+    "UNAVAILABLE": "Nicht verfügbar",
+    "GLOWS_NOT_FOUND": "{{author}} kann Glow mit den Codes {{glows}} nicht finden",
+    "EMBED_TITLE": "SOFI: FUSIONIERE GLOWS",
+    "MERGE_CONFIRMATION": "Du bist dabei, folgende Glows zu fusionieren:\n\n{{glows}}\n\nDu erhältst 1 <:resin:938131736741691442>",
+    "SURE": "Bist du sicher?",
+    "ERROR": "Fehler: {{error}}"
 }

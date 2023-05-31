@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "查看您的卡片",
-    "SLASH_DESC1": "输入卡片代码。",
-    "INVALID_CODE": "您提供的代码无效。 请提供有效的代码。",
+    "DESCRIPTION": "展示一个卡片",
+    "SLASH_DESC1": "输入一个卡片代码",
+    "INVALID_CODE": "{{author}} 那个卡片代码无效",
     "SERIES": "系列：",
     "NAME": "名字：",
-    "OWNED_BY": "所属者",
+    "OWNED_BY": "所属者：",
     "SERVER": "服务器",
     "CLAIMED": "已认领",
-    "MOVES": "移动",
-    "OWNER_HISTORY": "所有者历史记录",
+    "MOVES": "技能：",
+    "OWNER_HISTORY": "属有者历史记录",
     "CARD_VIEW": "卡片视图"
 }

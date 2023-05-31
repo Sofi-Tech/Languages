@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "„Pulls“ aus einem Pool verschiedener „Items“, darunter „Charms“ und „Fragments“, für animierte Karten",
-    "PULL_AMT": "{{user}} gibt die Ziehmenge an, entweder 1 oder 10",
-    "INFO_1": "Die Chance, ein Fragment zu erhalten, beträgt 12%.",
-    "INFO_2": "Die Chancen, Charms und Swaps zu erhalten, sind gering.",
-    "INFO_3": "Jeder animierte Charakter benötigt 8 Fragmente.",
+    "PULL_AMT": "{{author}} Gebe die Anzahl der „Pulls“ ein, die du durchführen möchtest. Dies kann entweder **1** oder **10** sein",
+    "INFO_1": "Du benötigst 8 „Fragmente“, um eine „GIF“-Variante eines Charakters zu erstellen",
+    "INFO_2": "„GIF“-Varianten eines Charakters haben 100 einzigartige „Gens“.",
+    "INFO_3": "„Fragments“ können verbrannt werden, um einen „Charm“ zu erhalten",
     "INFO_4": "Jeder Charakter hat 100 nicht wiederholende Gene.",
     "INFO_5": "Danach können verbleibende Fragmente verbrannt werden, um einen Charme zu erhalten.",
     "PULLS": "SOFI: PULLS",

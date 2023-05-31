@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Zeigt den Sofi-Markt an",
-    "NO_LISTING_FOUND": "Keine Angebote gefunden",
+    "NO_LISTING_FOUND": "Es konnten keine Einträge gefunden werden",
     "STOCK": "Bestand",
     "RATE": "Rate",
-    "MARKET_WARN": "Verwenden Sie den Markt nicht zum Speichern oder Verstecken von Wists.\nSie werden ohne Entschädigung entfernt.\nDurchschnittspreis: {{averageRate}} Gesamttrades: {{totalTrades}}",
+    "MARKET_WARN": "Benutze den market nicht zum Aufbewahren oder Verstecken von „Wists“! Wenn du dabei erwischt wirst, werden die „Wists“ entschädigungslos entfernt. Durchschnittskurs: **`{{averageRate}}`** Gesamte Trades: **`{{totalTrades}}`**",
     "FOOTER": "Zeige 1-{{pages}} von {{total}} Seite/n | Benutz den Command `{{prefix}}mp <ID>` um `Wists` zu kaufen!"
 }

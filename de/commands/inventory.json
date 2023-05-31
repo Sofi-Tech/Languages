@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Zeigt das „Inventar“ eines Benutzers an",
     "SLASH_DESC": "Wähle einen Benutzer aus, um dessen „Inventar“ anzuzeigen.",
-    "SLASH_DESC2": "Gib den Gegenstand an, nach dem du suchen möchtest",
+    "SLASH_DESC2": "Gebe den „Artikel“ ein, nach dem du suchen möchtest",
     "NOT_REGISTER": "{{author}} Dieser Benutzer ist nicht registriert!",
-    "NO_USER_FOUND": "{{author}} Kein Benutzer gefunden",
+    "NO_USER_FOUND": "{{author}} Dieser Benutzer konnte nicht gefunden werden",
     "INV_PRIVATE": "{{author}} Das „Inventar“ dieses Benutzers ist privat",
     "ITEMS": "Items",
     "FRAMES": "Frames",

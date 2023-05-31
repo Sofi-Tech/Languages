@@ -17,7 +17,7 @@
     "NO_ITEM": "{{author}} Anda tidak memiliki **{{amount}}** `{{item}}`",
     "NO_CARD": "{{author}} Kartu tidak ada dalam koleksi Anda lagi",
     "MORPH_CONFRIM": "`Morph` telah berhasil diaplikasikan",
-    "REROLL": "`Morphs` dipulihkan: ` {{count}}  `\n{{penulis}} `Morph` paling awal telah dipulihkan. Roll lagi untuk melanjutkan",
+    "REROLL": "`Morphs` dipulihkan: ` {{count}}  `\n{{author}} `Morph` paling awal telah dipulihkan. Roll lagi untuk melanjutkan",
     "MORPH_CANCELLED": "Proses `Morphing` telah dibatalkan",
     "UNDO_SUCCESSFULL": "Berhasil memulihkan `Morph` sebelumnya untuk **{{amount}}** {{emoji}}"
 }

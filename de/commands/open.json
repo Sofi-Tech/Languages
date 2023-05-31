@@ -2,7 +2,7 @@
     "DESCRIPTION": "Öffnet Kisten und Beuteboxen",
     "SLASH_DESC_1": "Geben Sie den Namen des Objekts ein, das Sie öffnen möchten",
     "SLASH_DESC_2": "Geben Sie die Menge ein.",
-    "CORRECT_USAGE": "{{author}} Richtige Verwendung: `{{prefix}}open <Objektname> <Menge>`\n`Gegenstände`, die geöffnet werden können: `Kisten`, `Amulette`",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Amount>`",
     "EMPTY_INV": "{{author}} Dein „Inventar“ ist leer",
     "CHARM_MISSING": "{{author}} Du hast keine `Amulette`",
     "SOFI_CARDS_MISSING": "{{author}} Es gibt derzeit nicht genug Karten in Sofis Sammlung",
@@ -16,5 +16,6 @@
     "ITEMS_FOUND": "Erhaltene Gegenstände:\n",
     "COMMON_RARE_FOOTER": "Du kannst eine {{chestName}}-Kiste für jeden {{count}} `Täglichen` Streak erhalten",
     "EXOTIC_DIVINE_FOOTER": "Du kannst eine {{chestName}}-Kiste für {{count}} Stimmen pro Monat erhalten",
-    "ITEM_MISSING": "Du hast {{itemName}} nicht in deinem Inventar"
+    "ITEM_MISSING": "Du hast {{itemName}} nicht in deinem Inventar",
+    "CORRECT_USAGE_2": "„Items“, die geöffnet werden können: „Chests“, „Charms“."
 }

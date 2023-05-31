@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Sucht nach einer bestimmten Serie",
-    "NO__LAST_CHAR_FOUND": "Letztes Zeichen nicht gefunden. Versuche einen Seriennamen anzugeben.",
-    "NO_CHAR_FOUND": "Keine Zeichen gefunden",
+    "NO__LAST_CHAR_FOUND": "{{author}} Du hast noch keine Karten in deiner Sammlung",
+    "NO_CHAR_FOUND": "{{author}} Diese Serie hat noch keine Charaktere",
     "NO_SERIES_FOUND": "{{author}} Es konnte keine Serie mit dem Namen „{{name}}“ gefunden werden",
     "SERIES": "_SERIE_",
-    "ERROR": "Ein Fehler ist aufgetreten. Bitte versuche es erneut.",
+    "ERROR": "{{author}} Es ist ein Fehler aufgetreten. Bitte versuche es erneut",
     "CARD_COLLECTED": "Karten gesammelt: {{collected}}/{{totalCards}}",
     "TOTAL_WL": "Gesamt Wunschliste: {{wlCount}}",
     "CHARACTERS": "Charaktere"

@@ -1,8 +1,8 @@
 {
     "BID_DESCRIPTION": "Gibt dein Angebot in einer „Auktion“ ab.",
     "BID_CATEGORY": "Karten",
-    "WRONG_USAGE": "{{author}} korrekte Verwendung: `{{prefix}}bid <Auktions-ID> <Menge>`",
-    "INVALID_ID": "{{author}} ungültige Auktions-ID angegeben. Bitte überprüfen Sie erneut.",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}bid <AuctionID> <amount>`",
+    "INVALID_ID": "{{author}} Du hast eine ungültige „Auction“-ID angegeben",
     "INVALID_AMOUNT": "{{author}} Menge muss eine Zahl sein",
     "NO_AMOUNT": "{{author}} Sie haben keine {{amount}} {{currency}}",
     "EMBED_TITLE": "SOFI: GEBOT",

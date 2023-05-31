@@ -1,15 +1,15 @@
 {
-  "MG_DESCRIPTION": "Biruin ang mga kislap para makatanggap ng mga resinas",
-  "MG_CATEGORY": "Kosmetiko",
-  "NO_GLOWS": "Hindi makahanap si {{author}} ng mga kislap sa iyong koleksyon..",
-  "GLOW_CODES_MISSING": "Ang mga glow code ni {{author}} ay nawawala | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
-  "GLOWS_UNAVAILABLE": "Ang ilang mga kislap ay hindi magagamit: {{unavailableGlows}}",
-  "GLOW_CODES_UNIQUE": "Bawat glow code ni {{author}} ay dapat na kakaiba",
-  "AVAILABLE": "Magagamit",
-  "UNAVAILABLE": "Hindi magagamit",
-  "GLOWS_NOT_FOUND": "Hindi makahanap si {{author}} ng kislap na may mga code na {{glows}}",
-  "EMBED_TITLE": "SOFI: BIRUIN ANG MGA KISLAP",
-  "MERGE_CONFIRMATION": "Ikaw ay magdaragdag ng sumusunod na mga kislap:\n\n{{glows}}\n\nMakakatanggap ka ng 1 <:resin:938131736741691442>",
-  "SURE": "Sigurado ka ba?",
-  "ERROR": "Kamalian: {{error}}"
+    "MG_DESCRIPTION": "Nag \"Merge\" ng 4 na kakaibang \"Glows\" upang makakuha ng \"Resin\"",
+    "MG_CATEGORY": "Kosmetiko",
+    "NO_GLOWS": "{{author}} Wala ka pang kahit anong `Glows`",
+    "GLOW_CODES_MISSING": "{{author}} Tamang pag-gamit: `{{prefix}}mg <GlowCode1><GlowCode2><GlowCode3><GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} Ang mga sumusunod na `Glows` ay walang laman: `{{unavailableGlows}}`",
+    "GLOW_CODES_UNIQUE": "{{author}} Kailangan mo ng 4 na kakaibang `Glows` sa prosesong ito",
+    "AVAILABLE": "Magagamit",
+    "UNAVAILABLE": "Hindi available",
+    "GLOWS_NOT_FOUND": "{{author}} Ang mga sumusunod na `Glows` ay maalin na hindi wasto o hindi mo pag mamay-ari: `{{glows}}`",
+    "EMBED_TITLE": "SOFI: PAG-ISAHIN ANG GLOW",
+    "MERGE_CONFIRMATION": "Ikaw ay malapit nang pag-isahin ang mga sumusunod na `Glows`\n\n{{glows}}\n\nMakakatanggap ka ng **1**x <:resin:938131736741691442>",
+    "SURE": "Sigurado ka ba?",
+    "ERROR": "Kamalian: {{error}}"
 }

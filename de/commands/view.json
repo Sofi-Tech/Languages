@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt eine Karte an",
     "SLASH_DESC1": "Gib einen Kartencode ein",
-    "INVALID_CODE": "Der von Ihnen angegebene Code ist ungültig. Bitte geben Sie einen gültigen Code ein.",
+    "INVALID_CODE": "{{author}} Dieser Kartencode ist ungültig",
     "SERIES": "Serie:",
     "NAME": "Name:",
     "OWNED_BY": "In Besitz von:",

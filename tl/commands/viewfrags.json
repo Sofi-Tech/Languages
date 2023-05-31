@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Ipinapakita ang listahan ng pwedeng magamit na \"Fragments\" ng isang user",
     "COLLECTION_PVT": "{{author}} Ang `Fragment` tab ng user na iyan ay pribado!",
-    "CANNOT_FIND_FRAGS": "{{user}} Hindi makahanap ng kahit anong `Fragments` sa inventory",
+    "CANNOT_FIND_FRAGS": "{{user}} Walang makitang kahit anong `Fragments` sa user na iyan",
     "FRAGS_COUNT": "Bilang ng mga `Fragment`: {{totalCount}}",
     "FRAG_LIST": "Listahan ng mga \"Fragment\": {{userName}}"
 }
