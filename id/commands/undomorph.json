@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Hapus unsur morf dari kartu",
-  "UM_CATEGORY": "Kosmetik",
-  "INVALID_USAGE": "Berikan kode kartu yang valid",
-  "INVALID_CODE": "Kode yang diberikan tidak valid",
-  "NO_CHARACTER": "Tidak ada karakter ditemukan",
-  "NO_GIF": "Perintah kosmetik {{author}} tidak berlaku untuk kartu GIF",
-  "NOT_MORPHED": "{{author}} Kartu tidak diberi morf",
-  "EMBED_TITLE": "Membatalkan Morf",
-  "UM_CONFIRMATION": "Anda akan menghapus unsur morf dari kartu Anda\nKartu Anda akan terlihat seperti di bawah ini\nProses ini akan memakan biaya 100 perak",
-  "NO_OWNER": "Kartu tidak lagi milik Anda",
-  "SOMETHING_WENT_WRONG": "Ada yang sangat salah.. <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup perak untuk menghapus morf",
-  "UM_SUCCESSFULL": "Unsur morf berhasil dihapus"
+    "UM_DESCRIPTION": "Hapus unsur morf dari kartu",
+    "UM_CATEGORY": "Kosmetik",
+    "INVALID_USAGE": "Berikan kode kartu yang valid",
+    "INVALID_CODE": "Kode yang diberikan tidak valid",
+    "NO_CHARACTER": "Tidak ada karakter ditemukan",
+    "NO_GIF": "Perintah kosmetik {{author}} tidak berlaku untuk kartu GIF",
+    "NOT_MORPHED": "{{author}} Kartu tidak diberi morf",
+    "EMBED_TITLE": "Membatalkan Morf",
+    "UM_CONFIRMATION": "Anda akan menghapus unsur morf dari kartu Anda\nKartu Anda akan terlihat seperti di bawah ini\nProses ini akan memakan biaya 100 perak",
+    "NO_OWNER": "{{author}}Kartu tersebut bukan lagi milik anda",
+    "SOMETHING_WENT_WRONG": "Ada yang sangat salah.. <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup perak untuk menghapus morf",
+    "UM_SUCCESSFULL": "Unsur morf berhasil dihapus"
 }
