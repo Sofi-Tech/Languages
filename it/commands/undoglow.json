@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "Rimuovi il bagliore dalla carta",
-  "UNG_CATEGORY": "Cosmetici",
-  "INVALID_USAGE": "Fornisci un codice carta valido",
-  "INVALID_CODE": "Codice fornito non valido",
-  "NO_CHARACTER": "Nessun personaggio trovato",
-  "NO_GIF": "Il comando cosmetici {{author}} non si applica alle carte gif",
-  "NOT_GLOWED": "{{author}} La carta non ha un bagliore",
-  "EMBED_TITLE": "Rimuovi il Bagliore",
-  "UNG_CONFIRMATION": "Stai per rimuovere il bagliore dalla tua carta\nLa tua carta avrà questo aspetto\nIl processo costerà 100 argenti",
-  "EMBED_FOOTER": "Il bagliore sarà rimosso e non tornerà nel tuo inventario",
-  "NO_OWNER": "La carta non ti appartiene più",
-  "NOT_ENOUGH_SILVERS": "Non hai abbastanza argenti per rimuovere il bagliore",
-  "UNG_SUCCESSFULL": "Il bagliore è stato rimosso con successo"
+    "UNG_DESCRIPTION": "Rimuovi il bagliore dalla carta",
+    "UNG_CATEGORY": "Cosmetici",
+    "INVALID_USAGE": "Fornisci un codice carta valido",
+    "INVALID_CODE": "Codice fornito non valido",
+    "NO_CHARACTER": "Nessun personaggio trovato",
+    "NO_GIF": "Il comando cosmetici {{author}} non si applica alle carte gif",
+    "NOT_GLOWED": "{{author}} La carta non ha un bagliore",
+    "EMBED_TITLE": "Rimuovi il Bagliore",
+    "UNG_CONFIRMATION": "Stai per rimuovere il bagliore dalla tua carta\nLa tua carta avrà questo aspetto\nIl processo costerà 100 argenti",
+    "EMBED_FOOTER": "Il bagliore sarà rimosso e non tornerà nel tuo inventario",
+    "NO_OWNER": "{{author}} La carta non ti appartiene più",
+    "NOT_ENOUGH_SILVERS": "Non hai abbastanza argenti per rimuovere il bagliore",
+    "UNG_SUCCESSFULL": "Il bagliore è stato rimosso con successo"
 }

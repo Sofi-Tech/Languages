@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Kullanıcının kullanılabilir \"Fragments\" listesini görüntüler",
     "COLLECTION_PVT": "{{author}} Bu kullanıcının 'Fragment' sekmesi özeldir!",
-    "CANNOT_FIND_FRAGS": "{{user}} Bu envanterde herhangi bir `Fragments` bulunamadı",
+    "CANNOT_FIND_FRAGS": "{{user}} Bu kullanıcıda herhangi bir `Fragment` bulunamadı",
     "FRAGS_COUNT": "`Fragment` sayısı: {{totalCount}}",
     "FRAG_LIST": "`Fragment` Listesi: {{userName}}"
 }

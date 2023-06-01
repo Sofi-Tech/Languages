@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Rimuove i \"Tag\" dalle tue carte",
     "UT_CATEGORY": "Tag",
-    "INVALID_CODE": "Non hai carte nella tua collezione",
+    "INVALID_CODE": "{{author}} Non hai ancora carte nella tua collezione",
     "UNTAG_SUCCESSFULL": "**{{cardName}}** il suo `Tag` è stato rimosso con successo",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

@@ -4,7 +4,7 @@
     "VG_SLASH_DESC1": "Wähle einen Benutzer aus, um dessen „Glows“ anzuzeigen.",
     "VG_SLASH_DESC2": "Gebe den Namen des „Tags“ ein, nach dem du filtern möchtest",
     "VG_SLASH_DESC3": "Gebe den Code eines „Glow“ an, den du überprüfen möchtest",
-    "NO_GLOWS": "{{author}} Keine Glühen zum Anzeigen!",
+    "NO_GLOWS": "{{author}} Für diesen Benutzer konnten keine „Glows“ gefunden werden",
     "SUPER": "Super",
     "EMBED_TITLE": "GLOW-PALETTE:",
     "EMBED_FOOTER": "{{prefix}}vg [glowcode] zum Anzeigen von Glow | Glows freigeschaltet: {{count}}",

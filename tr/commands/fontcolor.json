@@ -3,7 +3,7 @@
     "FC_CATEGORY": "Kozmetik",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}fc <CardCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} Sağladığınız kart kodu geçersiz veya size ait değil",
-    "CANNOT_FIND_CARD": "{{author}} Henüz envanterinizde kartınız yok",
+    "CANNOT_FIND_CARD": "{{author}} Henüz koleksiyonunuzda hiç kart yok",
     "3D_ERROR": "{{author}} 3D kartların yazı tipi rengini değiştiremezsiniz",
     "UNLOCK_GLOWS": "{{author}} Hiç `Glows`unuz yok",
     "PROVIDE_GLOWCODE": "{{author}} Doğru kullanım: `{{prefix}}fc <CardCode> <GlowCode>`",

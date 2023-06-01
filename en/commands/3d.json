@@ -7,7 +7,7 @@
     "NO_EVENT_CARD_CONVERSION": "{{author}} Event cards cannot be converted into a 3D variant",
     "NO_3D_VERSION": "{{author}} That character does not have a 3D variant currently",
     "EMBED_TITLE": "SOFI: 3D",
-    "3D_NOTE": "You are about to convert this card into its 3D variant. This process will permanently alter your card and cannot be reverted. Converting this card will also reroll its \"Gen\", with lower \"Gens\" being more likely to retain a lower \"Gen\". Remove a cards frame before converting it, otherwise you will lose any applied \"Frame\"",
+    "3D_NOTE": "You are about to convert this card into its 3D variant. This process will permanently alter your card and cannot be reverted. The newly obtained card will have a \"Gen\" that is proportional to its old one. This process will also delete any applied \"Frame\"",
     "EVENT_3D_NOTE": "You are able to get \"Event\" 3D variants during active events",
     "CARD_ALREADY_3D": "{{author}} That card already is in its 3D state",
     "NO_CUBES": "You don't have enough `Cubes`",

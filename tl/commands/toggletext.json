@@ -1,14 +1,14 @@
 {
-  "TT_DESCRIPTION": "Tanggalin ang teksto mula sa card",
-  "TT_CATEGORY": "Kagandahan",
-  "PROVIDE_CARD_CODE": "{{author}}, magbigay ng card code",
-  "INAVLID_CARD_CODE": "Hindi wastong card code na binigay",
-  "INVALID_CODE": "Hindi makita ang huling card o subukan magbigay ng card code",
-  "CANNOT_FIND_CARD": "Error! paghahanap ng card",
-  "CANNOT_TOGGLE": "Hindi kayang mag-toggle si {{author}} ng teksto para sa gif o 3d cards",
-  "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-  "TT_CONFIRMATION": "Sigurado ka bang gusto mong {{toggleInfo}}? \nAng prosesong ito ay magkakahalaga ng 1000 <:_:915619222229512213>",
-  "NO_OWNER": "Hindi na iyo ang card",
-  "NOT_ENOUGH_SILVERS": "Hindi ka may sapat na bilang ng mga pilak",
-  "TT_SUCCESSFULL": "Matagumpay na natanggal ang teksto"
+    "TT_DESCRIPTION": "Tanggalin ang teksto mula sa card",
+    "TT_CATEGORY": "Kagandahan",
+    "PROVIDE_CARD_CODE": "{{author}}, magbigay ng card code",
+    "INAVLID_CARD_CODE": "Hindi wastong card code na binigay",
+    "INVALID_CODE": "Hindi makita ang huling card o subukan magbigay ng card code",
+    "CANNOT_FIND_CARD": "Error! paghahanap ng card",
+    "CANNOT_TOGGLE": "Hindi kayang mag-toggle si {{author}} ng teksto para sa gif o 3d cards",
+    "EMBED_TITLE": "SOFI: TOGGLE TEXT",
+    "TT_CONFIRMATION": "Sigurado ka bang gusto mong {{toggleInfo}}? \nAng prosesong ito ay magkakahalaga ng 1000 <:_:915619222229512213>",
+    "NO_OWNER": "{{author}} Ang card na iyan ay hindi mo na pag mamay-ari",
+    "NOT_ENOUGH_SILVERS": "Hindi ka may sapat na bilang ng mga pilak",
+    "TT_SUCCESSFULL": "Matagumpay na natanggal ang teksto"
 }

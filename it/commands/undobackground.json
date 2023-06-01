@@ -2,7 +2,7 @@
     "UB_DESCRIPTION": "Rimuove uno \"Background\" applicato da una carta",
     "UB_CATEGORY": "Cosmetici",
     "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}undobg <CardCode>`",
-    "NO_CHARACTER_FOUND": "{{author}} Se vedi questo messaggio, avvisa uno sviluppatore. [ERRORE UNDOBACKGROUND]",
+    "NO_CHARACTER_FOUND": "{{author}} Non è riuscito a trovare quella carta",
     "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido",
     "NO_GIF_CARD": "{{author}} Le carte `GIF` non possono avere uno `Background` applicato",
     "NO_BACKGROUND": "{{author}} Quella carta non ha uno `Background` applicato",
@@ -13,5 +13,6 @@
     "COSMETICS": "COSMETICI",
     "NOT_ENOUGH_WIST": "Non hai abbastanza `Wist` per rimuovere lo `Sfondo`",
     "NO_BG_APPLIED": "{{author}} La carta non ha nessun `background ` applicato",
-    "UNDO_BACKGROUND_SUCCESS": "Il `Background` è stato rimosso con successo e aggiunto al tuo `inventario`"
+    "UNDO_BACKGROUND_SUCCESS": "Il `Background` è stato rimosso con successo e aggiunto al tuo `inventario`",
+    "NO_OWNER": "{{author}} La carta non ti appartiene più"
 }

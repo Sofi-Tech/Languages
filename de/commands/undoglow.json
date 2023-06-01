@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "Entfernen Sie den Glanz von der Karte",
-  "UNG_CATEGORY": "Kosmetik",
-  "INVALID_USAGE": "Geben Sie einen gültigen Kartencode ein",
-  "INVALID_CODE": "Ungültiger Code bereitgestellt",
-  "NO_CHARACTER": "Kein Charakter gefunden",
-  "NO_GIF": "{{author}} Cosmetics-Befehl gilt nicht für GIF-Karten",
-  "NOT_GLOWED": "{{author}} Die Karte hat keinen Glanz",
-  "EMBED_TITLE": "Entferne Glanz",
-  "UNG_CONFIRMATION": "Sie sind dabei, den Glanz von Ihrer Karte zu entfernen.\nIhre Karte wird wie unten dargestellt aussehen.\nDer Prozess kostet 100 Silber.",
-  "EMBED_FOOTER": "Der Glanz wird entfernt und kehrt nicht in Ihr Inventar zurück",
-  "NO_OWNER": "Die Karte gehört Ihnen nicht mehr",
-  "NOT_ENOUGH_SILVERS": "Sie haben nicht genug Silber, um den Ganz zu entfernen",
-  "UNG_SUCCESSFULL": "Der Glanz wurde erfolgreich entfernt"
+    "UNG_DESCRIPTION": "Entfernen Sie den Glanz von der Karte",
+    "UNG_CATEGORY": "Kosmetik",
+    "INVALID_USAGE": "Geben Sie einen gültigen Kartencode ein",
+    "INVALID_CODE": "Ungültiger Code bereitgestellt",
+    "NO_CHARACTER": "Kein Charakter gefunden",
+    "NO_GIF": "{{author}} Cosmetics-Befehl gilt nicht für GIF-Karten",
+    "NOT_GLOWED": "{{author}} Die Karte hat keinen Glanz",
+    "EMBED_TITLE": "Entferne Glanz",
+    "UNG_CONFIRMATION": "Sie sind dabei, den Glanz von Ihrer Karte zu entfernen.\nIhre Karte wird wie unten dargestellt aussehen.\nDer Prozess kostet 100 Silber.",
+    "EMBED_FOOTER": "Der Glanz wird entfernt und kehrt nicht in Ihr Inventar zurück",
+    "NO_OWNER": "{{author}} Die Karte gehört nicht mehr dir",
+    "NOT_ENOUGH_SILVERS": "Sie haben nicht genug Silber, um den Ganz zu entfernen",
+    "UNG_SUCCESSFULL": "Der Glanz wurde erfolgreich entfernt"
 }

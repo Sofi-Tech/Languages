@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Membeli \"Wist\" dari pasar untuk ditukar dengan \"Gems\"",
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}mbuy <OfferID> <JumlahWist>`",
-    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang anda berikan tidak valid",
+    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda berikan tidak valid",
     "CANNOT_PURCHASE": "{{user}} Tidak dapat membeli penawaran tersebut",
     "CANNOT_SELF": "{{user}} Anda tidak dapat membeli penawaran Anda sendiri",
     "WIST_NOT_EXCEED": "{{author}} Kesepakatan ini hanya memiliki {{amount}} `Wist` yang tersisa untuk dibeli",

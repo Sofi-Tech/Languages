@@ -8,8 +8,8 @@
     "AI_SERIES": "> Seri: {{series}}",
     "AI_TOP_BID": "> En Yüksek Teklif: {{bids}}",
     "AI_STATUS": "> Durum: {{status}}",
-    "EMBED_FOOTER": "Müzayede için {{prefix}}bid <müzayedeID> kullanın",
-    "EMPTY_AUCTION": "Şu anda açık artırma yok",
+    "EMBED_FOOTER": "Bir `Auction`a teklif vermek için `{{prefix}}bid <AuctionID>` komutunu kullanın",
+    "EMPTY_AUCTION": "Şu anda gerçekleşen bir `Auction` yok",
     "ID": "ID:",
     "ACTIVE": "Aktif",
     "ENDED": "Bitti",
@@ -17,5 +17,5 @@
     "ONGOING": "Devam ediyor (Bitime kalan süre: {{time}})",
     "OVER": "Bitti",
     "EMBED_AUCTIONS_TITLE": "SOFI: MÜZAYEDELER",
-    "EMBED_AUCTIONS_FOOTER": "Gösterilen Sayfa: {{page}}/{{totalPages}} | Detaylar için `sai <auctionID>`komutunu kullanın"
+    "EMBED_AUCTIONS_FOOTER": "Gösterilen Sayfa: {{page}}/{{totalPages}} | Detaylar için `sai <AuctionID>`komutunu kullanın"
 }

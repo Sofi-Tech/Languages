@@ -5,13 +5,14 @@
     "NO_CHARACTER_FOUND": "{{author}} Diese Karte konnte nicht gefunden werden",
     "INVALID_CODE": "{{author}} Der Kartencode, den du angibst, ist ungültig",
     "NO_GIF_CARD": "{{author}} Auf „GIF“-Karten kann kein „Hintergrund“ angewendet werden",
-    "NO_BACKGROUND": "{{author}} Die Karte hat keinen angewendeten BG",
-    "EMBED_TITLE": "Hintergrund rückgängig machen",
-    "REMOVE_BG_CONFIRMATION": "Sie sind dabei, den Hintergrund von Ihrer Karte zu entfernen\n",
-    "CARD_LOOKS": "Ihre Karte wird wie unten aussehen\n",
+    "NO_BACKGROUND": "{{author}} Auf diese Karte ist kein „Hintergrund“ angewendet",
+    "EMBED_TITLE": "HINTERGRUND ENTFERNEN",
+    "REMOVE_BG_CONFIRMATION": "Du bist dabei, den „Hintergrund“ dieser Karte zu entfernen\n",
+    "CARD_LOOKS": "Deine Karte wird wie in der Vorschau unten aussehen\n",
     "PROCESS_COST": "Der Vorgang kostet 1 Wist und der BG wird in Ihrem Inventar zurückgegeben",
     "COSMETICS": "KOSMETIK",
     "NOT_ENOUGH_WIST": "Sie haben nicht genügend Wists, um den BG zu entfernen",
     "NO_BG_APPLIED": "{{author}} Die Karte hat keinen angewendeten BG",
-    "UNDO_BACKGROUND_SUCCESS": "Der Hintergrund wurde erfolgreich entfernt und Ihrem Inventar hinzugefügt"
+    "UNDO_BACKGROUND_SUCCESS": "Der Hintergrund wurde erfolgreich entfernt und Ihrem Inventar hinzugefügt",
+    "NO_OWNER": "{{author}} Die Karte gehört nicht mehr dir"
 }

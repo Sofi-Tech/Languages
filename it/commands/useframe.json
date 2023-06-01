@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Usa la cornice che hai acquistato sulle carte",
-  "UF_CATEGORY": "Cosmetici",
-  "INVALID_USAGE": "uso non valido <code> <nomemodulo/codice modulo>",
-  "INVALID_CODE": "Codice non valido fornito",
-  "CANNOT_APPLY": "Non puoi applicare cornici alle carte 3D",
-  "NO_GIF": "{{author}} le carte gif non possono essere incorniciate",
-  "NO_FRAMES_FOUND": "{{author}} Nessun frame trovato",
-  "EMBED_TITLE": "Applica Cornice:",
-  "UF_CONFIRMATION": "Stai per applicare {{frameName}}\nLa tua carta sembrerà come di seguito\n",
-  "EMBED_FOOTER": "La carta è incorniciata. Usa il comando undoframe per riavere la cornice applicata nell'inventario",
-  "NO_OWNER": "La carta non ti appartiene più",
-  "FRAME_NOT_FOUND": "Non hai quella cornice",
-  "UF_SUCCESSFULL": "SUCCESSO"
+    "UF_DESCRIPTION": "Usa la cornice che hai acquistato sulle carte",
+    "UF_CATEGORY": "Cosmetici",
+    "INVALID_USAGE": "uso non valido <code> <nomemodulo/codice modulo>",
+    "INVALID_CODE": "Codice non valido fornito",
+    "CANNOT_APPLY": "Non puoi applicare cornici alle carte 3D",
+    "NO_GIF": "{{author}} le carte gif non possono essere incorniciate",
+    "NO_FRAMES_FOUND": "{{author}} Nessun frame trovato",
+    "EMBED_TITLE": "Applica Cornice:",
+    "UF_CONFIRMATION": "Stai per applicare {{frameName}}\nLa tua carta sembrerà come di seguito\n",
+    "EMBED_FOOTER": "La carta è incorniciata. Usa il comando undoframe per riavere la cornice applicata nell'inventario",
+    "NO_OWNER": "{{author}} La carta non ti appartiene più",
+    "FRAME_NOT_FOUND": "Non hai quella cornice",
+    "UF_SUCCESSFULL": "SUCCESSO"
 }

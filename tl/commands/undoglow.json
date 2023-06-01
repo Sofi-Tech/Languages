@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "Tanggalin ang liwanag sa card",
-  "UNG_CATEGORY": "Kagandahan",
-  "INVALID_USAGE": "Magbigay ng wastong cardcode",
-  "INVALID_CODE": "Di-wasto ang ibinigay na code",
-  "NO_CHARACTER": "Walang character na natagpuan",
-  "NO_GIF": "Hindi ginagamit ng {{author}} cosmetics command ang gif card",
-  "NOT_GLOWED": "Ang card ay hindi nailawan ni {{author}}",
-  "EMBED_TITLE": "Tanggalin ang Liwanag",
-  "UNG_CONFIRMATION": "Mayroon kang plano para tanggalin ang liwanag sa iyong card\nAng iyong card ay magpapakita na ganito\nAng proseso ay magkakahalaga ng 100 silvers",
-  "EMBED_FOOTER": "Ang liwanag ay matatanggal at hindi na babalik sa iyong inventory",
-  "NO_OWNER": "Ang card ay hindi na sa iyo",
-  "NOT_ENOUGH_SILVERS": "Hindi ka may sapat na silvers para sa pagtanggal ng liwanag",
-  "UNG_SUCCESSFULL": "Matagumpay na natanggal ang liwanag"
+    "UNG_DESCRIPTION": "Tanggalin ang liwanag sa card",
+    "UNG_CATEGORY": "Kagandahan",
+    "INVALID_USAGE": "Magbigay ng wastong cardcode",
+    "INVALID_CODE": "Di-wasto ang ibinigay na code",
+    "NO_CHARACTER": "Walang character na natagpuan",
+    "NO_GIF": "Hindi ginagamit ng {{author}} cosmetics command ang gif card",
+    "NOT_GLOWED": "Ang card ay hindi nailawan ni {{author}}",
+    "EMBED_TITLE": "Tanggalin ang Liwanag",
+    "UNG_CONFIRMATION": "Mayroon kang plano para tanggalin ang liwanag sa iyong card\nAng iyong card ay magpapakita na ganito\nAng proseso ay magkakahalaga ng 100 silvers",
+    "EMBED_FOOTER": "Ang liwanag ay matatanggal at hindi na babalik sa iyong inventory",
+    "NO_OWNER": "{{author}} Ang card na iyan ay hindi mo na pag mamay-ari",
+    "NOT_ENOUGH_SILVERS": "Hindi ka may sapat na silvers para sa pagtanggal ng liwanag",
+    "UNG_SUCCESSFULL": "Matagumpay na natanggal ang liwanag"
 }

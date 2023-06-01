@@ -2,7 +2,7 @@
     "UB_DESCRIPTION": "Tinanggal ang nilagay na `Background`sa card",
     "UB_CATEGORY": "Kagandahan",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}undobg <CardCode>`",
-    "NO_CHARACTER_FOUND": "{{author}} Kapag nakita mo ang mensahe na ito, Ipaalam sa developer. [ERROR ANG UNDOBACKGROUND]",
+    "NO_CHARACTER_FOUND": "{{author}} Hindi makita ang card na iyan",
     "INVALID_CODE": "{{author}} Hindi wasto ang card code na iyong ibinigay",
     "NO_GIF_CARD": "{{author}}Ang `GIF`kards ay hindi pwedeng lagyan ng `Background`",
     "NO_BACKGROUND": "{{author}} Ang kard ay walang nakalagay na `Background`",
@@ -13,5 +13,6 @@
     "COSMETICS": "KAGANDAHAN",
     "NOT_ENOUGH_WIST": "Hindi kang sapat na `Wists` para tanggalin ang `Background`",
     "NO_BG_APPLIED": "{{author}} Ang card ay walang ginamit na `Background`",
-    "UNDO_BACKGROUND_SUCCESS": "Matagumpay na natanggal ang `Background`at idinagdag sa iyong `Inventory`"
+    "UNDO_BACKGROUND_SUCCESS": "Matagumpay na natanggal ang `Background`at idinagdag sa iyong `Inventory`",
+    "NO_OWNER": "{{author}} Ang card na iyan ay hindi mo na pag mamay-ari"
 }

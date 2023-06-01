@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Verwenden Sie den Rahmen, den Sie auf den Karten gekauft haben",
-  "UF_CATEGORY": "Kosmetik",
-  "INVALID_USAGE": "suf <code> <framename/framecode>",
-  "INVALID_CODE": "Ungültiger Code angegeben",
-  "CANNOT_APPLY": "Sie können keine Rahmen auf 3D-Karten anwenden",
-  "NO_GIF": "{{author}} gif-Karten können nicht gerahmt werden",
-  "NO_FRAMES_FOUND": "{{author}} Keine Rahmen gefunden",
-  "EMBED_TITLE": "Rahmen anwenden:",
-  "UF_CONFIRMATION": "Sie sind dabei, {{frameName}} anzuwenden\nIhre Karte wird wie unten dargestellt aussehen\n",
-  "EMBED_FOOTER": "Die Karte ist gerahmt. Verwenden Sie den Befehl undoframe, um den angewendeten Rahmen wieder in den Bestand zu bringen",
-  "NO_OWNER": "Die Karte gehört Ihnen nicht mehr",
-  "FRAME_NOT_FOUND": "Sie haben diesen Rahmen nicht",
-  "UF_SUCCESSFULL": "ERFOLGREICH"
+    "UF_DESCRIPTION": "Verwenden Sie den Rahmen, den Sie auf den Karten gekauft haben",
+    "UF_CATEGORY": "Kosmetik",
+    "INVALID_USAGE": "suf <code> <framename/framecode>",
+    "INVALID_CODE": "Ungültiger Code angegeben",
+    "CANNOT_APPLY": "Sie können keine Rahmen auf 3D-Karten anwenden",
+    "NO_GIF": "{{author}} gif-Karten können nicht gerahmt werden",
+    "NO_FRAMES_FOUND": "{{author}} Keine Rahmen gefunden",
+    "EMBED_TITLE": "Rahmen anwenden:",
+    "UF_CONFIRMATION": "Sie sind dabei, {{frameName}} anzuwenden\nIhre Karte wird wie unten dargestellt aussehen\n",
+    "EMBED_FOOTER": "Die Karte ist gerahmt. Verwenden Sie den Befehl undoframe, um den angewendeten Rahmen wieder in den Bestand zu bringen",
+    "NO_OWNER": "{{author}} Die Karte gehört nicht mehr dir",
+    "FRAME_NOT_FOUND": "Sie haben diesen Rahmen nicht",
+    "UF_SUCCESSFULL": "ERFOLGREICH"
 }

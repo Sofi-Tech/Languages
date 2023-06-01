@@ -2,8 +2,8 @@
     "DESCRIPTION": "Açık sandıkları ve loot kutularını açar",
     "SLASH_DESC_1": "Açmak istediğiniz \"Öğe\"yi girin",
     "SLASH_DESC_2": "Miktarı girin.",
-    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}aç <ÖğeAdı> <Miktar>`\nAçılabilecek `Öğeler`: `Sandıklar`, `Şanslar`",
-    "EMPTY_INV": "{{author}} Envanterin şu anda boş",
+    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}open <ItemName> <Amount>`",
+    "EMPTY_INV": "{{author}} `Inventory`niz boş",
     "CHARM_MISSING": "{{author}} `Şans`ınız yok",
     "SOFI_CARDS_MISSING": "{{author}} Sofi'nin koleksiyonunda yeterli sayıda kart yok",
     "CONGRATS": "Tebrikler! Şunları aldınız:",
@@ -11,10 +11,11 @@
     "NAME": "İsim:",
     "CHEST_INFO": "Etkinlik sandıkları etkinlik sonrasında bile açılabilirler",
     "PROVIDE_NUM": "Lütfen **1 & 10** arasında bir sayı girin",
-    "CHEST_MISSING": "Envanterinizde **{{chestName}}** tane `{{replacedArg}}` Sandığınız yok.",
+    "CHEST_MISSING": "`Inventory`nizde **{{replacedArg}}** `{{chestName}}` Sandığınız yok",
     "COMMON_INFO_1": "Toplam **{{totalChests}}** `{{chestName}}` Sandığı açtınız",
     "ITEMS_FOUND": "Elde Edilenler:\n",
     "COMMON_RARE_FOOTER": "Her {{count}} `Günlük` serisi için bir {{chestName}} Sandığı alabilirsiniz",
-    "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} oylama için bir {{chestName}} Sandığı alabilirsiniz",
-    "ITEM_MISSING": "Envanterinizde {{itemName}} yok"
+    "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} `Votes` karşılığı {{chestName}} Sandığı alabilirsiniz",
+    "ITEM_MISSING": "Envanterinizde {{itemName}} yok",
+    "CORRECT_USAGE_2": "Açılabilen `Items`lar: `Chests`, `Charms`"
 }

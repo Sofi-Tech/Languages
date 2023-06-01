@@ -11,5 +11,5 @@
     "REQ_MORE_PLAYERS": "{{user}} Oyuna başlamadan önce en az 2 oyuncuya ihtiyacınız var",
     "GUESS_THE_WORD": "Belirtilen kelimeyi tahmin et: {{scrambledWord}}",
     "CORRECT_GUESS": "{{winner}}, {{word}} kelimesini doğru tahmin etti ve `{{jackpot}} {{currency}}' kazandı!",
-    "WRONG_USAGE": "{{author}} doğru kullanım: `{{prefix}}give <user/userID> <cardcode>`"
+    "WRONG_USAGE": "{{author}} doğru kullanım: `{{prefix}}give <User/UserID> <CardCode>"
 }

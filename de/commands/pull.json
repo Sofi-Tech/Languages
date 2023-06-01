@@ -8,7 +8,7 @@
     "INFO_5": "Danach können verbleibende Fragmente verbrannt werden, um einen Charme zu erhalten.",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Ziehmenge: {{count}}",
-    "MISSING_CURR": "{{user}} hat keine {{amount}} {{currName}}",
+    "MISSING_CURR": "{{user}} Du hast **{{amount}}** `{{currName}}` nicht",
     "AMOUNT": "Betrag: {{amount}}",
     "PULL_COUNT_WIST": "Ziehmenge: {{pullcount}} | Du kannst Wist vom Smarket kaufen"
 }

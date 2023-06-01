@@ -5,7 +5,7 @@
     "NO_SERIES_FOUND": "{{author}} Es konnte keine Serie mit dem Namen „{{name}}“ gefunden werden",
     "SERIES": "_SERIE_",
     "ERROR": "{{author}} Es ist ein Fehler aufgetreten. Bitte versuche es erneut",
-    "CARD_COLLECTED": "Karten gesammelt: {{collected}}/{{totalCards}}",
-    "TOTAL_WL": "Gesamt Wunschliste: {{wlCount}}",
+    "CARD_COLLECTED": "Gesammelte Karten: **{{collected}}/{{totalCards}}**",
+    "TOTAL_WL": "Gesamte Wunschliste: **__{{wlCount}}__**",
     "CHARACTERS": "Charaktere"
 }

@@ -3,12 +3,12 @@
     "PULL_AMT": "{{author}} Gerçekleştirmek istediğiniz `Pulls` miktarını girin. Bu, **1** veya **10** olabilir",
     "INFO_1": "Bir karakterin `GIF` varyantını oluşturmak için 8 `Fragments`a ihtiyacınız var",
     "INFO_2": "Karakterinlerin `GIF` varyantlarında 100 benzersiz `Gens` bulunur",
-    "INFO_3": "`Fragments`lar bir \"`Charm`elde etmek için yakılabilir.",
+    "INFO_3": "`Fragments`lar bir \"`Charm`elde etmek için yakılabilir",
     "INFO_4": "Her karakterin 100 tekrar etmeyen geni vardır",
     "INFO_5": "Daha sonra kalan parçalar muska almak için yanabilir",
     "PULLS": "SOFI: ÇEKİMLER",
     "PULL_COUNT": "Çekim Sayısı: {{count}}",
-    "MISSING_CURR": "{{user}}, {{amount}} {{currName}}'e sahip değil",
+    "MISSING_CURR": "{{user}}, **{{amount}}** `{{currName}}`'e sahip değilsiniz",
     "AMOUNT": "Miktar: {{amount}}",
-    "PULL_COUNT_WIST": "Çekim Sayısı: {{pullcount}} | Smarket'ten wist satın alabilirsiniz"
+    "PULL_COUNT_WIST": "Çekim Sayısı: {{pullcount}}"
 }

@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Menghapus \"Tag\" dari kartu Anda",
     "UT_CATEGORY": "Tag",
-    "INVALID_CODE": "{{author}} Anda tidak memiliki kartu apa pun dalam koleksi anda",
+    "INVALID_CODE": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi Anda",
     "UNTAG_SUCCESSFULL": "**{{cardName}}** telah berhasil dihapus `Tag` nya",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

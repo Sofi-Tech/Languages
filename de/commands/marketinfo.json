@@ -7,7 +7,7 @@
     "VALUE": "Wert",
     "RATE": "Rate",
     "LISTED": "Aufgelistet",
-    "NO_LISTINGS_FOUND": "{{user}} Sie haben keine Auflistungen auf dem Markt gemacht",
+    "NO_LISTINGS_FOUND": "{{user}} Du hast keine Einträge auf dem Markt",
     "INFO": "Verwenden Sie `{{prefix}}ml` und `smul`, um die Auflistung zu entfernen\nEs kann jeweils nur ein Deal aufgelistet sein",
     "FOOTER": "Zeige 1-{{pages}} von {{total}} Seite/n | Benutz den Command `{{prefix}}mp <ID>` um `Wists` zu kaufen!"
 }

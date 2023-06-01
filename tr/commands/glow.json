@@ -6,16 +6,16 @@
     "CARD_NOT_FOUND": "{{author}} Henüz koleksiyonunuzda kartınız yok",
     "NO_GIF_CARDS": "{{author}} `GIF` kartına bir `Glow` uygulayamazsınız",
     "UNLOCK_GLOWS": "{{author}} Henüz bir tane bile `Glow`’unuz yok",
-    "PROVIDE_GLOW_CODE": "{{author}} Bir glowcode sağlamanız gerekiyor",
+    "PROVIDE_GLOW_CODE": "{{author}} Ayrıyetten bir \"Glow\" kodu sağlamanız gerekir",
     "INVALID_GLOW_CODE": "{{author}} `Glow` kodları her zaman **#** ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya öğe `Inventory`nizde bulunmuyor",
     "EMBED_GLOW_TITLE": "SOFI: GLOW ÜRET",
     "EMBED_SG_TITLE": "SOFI: SÜPER GLOW",
     "GLOW_NAME": "İsim: {{name}}",
     "GLOW_CODE": "Kod: #{{code}}",
-    "EMBED_FOOTER": "Glow: {{availability}}",
+    "EMBED_FOOTER": "Glow; {{availability}}",
     "GLOW_UNAVAILABLE": "Bu `Glow` kullanılamıyor",
     "GLOW_APPLY_SUCCESSFULL": "`Glow` başarıyla uygulandı",
-    "UNAVAILABLE": "Kullanılamıyor",
-    "AVAILABLE": "Kullanılabilir"
+    "UNAVAILABLE": "Kullanılamaz",
+    "AVAILABLE": "Mevcut"
 }

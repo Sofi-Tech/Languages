@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Bu kullanıcı mevcut değil",
     "NO_TAGS": "{{author}} herhangi bir etiket bulunamadı",
     "EMBED_TITLE": "Etiket Listesi: {{username}}",
-    "SOFI_FACT": "Asma kilit emojisi \"🔒\" bulunan \"Tags\"larda olan kartlar yakılamaz veya takas edilemez!\nÖrnek: \"{{prefix}}tc lock 🔒\"",
+    "SOFI_FACT": "\"Lock\" adlı bir \"Tag\" ve \"🔒\" asma kilit emojisi bu etiket içindeki herhangi bir kartı yakmanızı veya vermenizi engelleyecektir!\nÖrnek: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Etiket sayısı: {{count}}"
 }

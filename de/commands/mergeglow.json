@@ -4,11 +4,11 @@
     "NO_GLOWS": "{{author}} Du hast noch keine „Glows“.",
     "GLOW_CODES_MISSING": "{{author}} Richtige Verwendung: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Die folgenden „Glows“ sind leer: „{{unavailableGlows}}“",
-    "GLOW_CODES_UNIQUE": "{{author}} Jeder Glow-Code muss einzigartig sein",
+    "GLOW_CODES_UNIQUE": "{{author}} Für diesen Vorgang benötigst du 4 einzigartige „Glows“",
     "AVAILABLE": "Verfügbar",
     "UNAVAILABLE": "Nicht verfügbar",
     "GLOWS_NOT_FOUND": "{{author}} kann Glow mit den Codes {{glows}} nicht finden",
-    "EMBED_TITLE": "SOFI: FUSIONIERE GLOWS",
+    "EMBED_TITLE": "SOFI: GLOW MERGE",
     "MERGE_CONFIRMATION": "Du bist dabei, folgende Glows zu fusionieren:\n\n{{glows}}\n\nDu erhältst 1 <:resin:938131736741691442>",
     "SURE": "Bist du sicher?",
     "ERROR": "Fehler: {{error}}"

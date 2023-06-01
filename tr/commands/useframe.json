@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Kartlarda satın aldığınız çerçeveyi kullanın",
-  "UF_CATEGORY": "Kozmetik",
-  "INVALID_USAGE": "suf <kod> <çerçeveadı/çerçevekodu>",
-  "INVALID_CODE": "Geçersiz kod sağlandı",
-  "CANNOT_APPLY": "3D kartlara çerçeve uygulayamazsınız",
-  "NO_GIF": "{{author}} gif kartları çerçevelenemez",
-  "NO_FRAMES_FOUND": "{{author}} hiçbir çerçeve bulunamadı",
-  "EMBED_TITLE": "Çerçeve Uygula:",
-  "UF_CONFIRMATION": "{{frameName}} uygulamaya hazırsınız.\nKartınız aşağıdaki gibi görünecek\n",
-  "EMBED_FOOTER": "Kart çerçevelendi. Kullanarak iptalcdf komutu uygulanmış çerçeveyi geri alın",
-  "NO_OWNER": "Kart artık size ait değil",
-  "FRAME_NOT_FOUND": "O çerçeveye sahip değilsiniz",
-  "UF_SUCCESSFULL": "BAŞARILI"
+    "UF_DESCRIPTION": "Kartlarda satın aldığınız çerçeveyi kullanın",
+    "UF_CATEGORY": "Kozmetik",
+    "INVALID_USAGE": "suf <kod> <çerçeveadı/çerçevekodu>",
+    "INVALID_CODE": "Geçersiz kod sağlandı",
+    "CANNOT_APPLY": "3D kartlara çerçeve uygulayamazsınız",
+    "NO_GIF": "{{author}} gif kartları çerçevelenemez",
+    "NO_FRAMES_FOUND": "{{author}} hiçbir çerçeve bulunamadı",
+    "EMBED_TITLE": "Çerçeve Uygula:",
+    "UF_CONFIRMATION": "{{frameName}} uygulamaya hazırsınız.\nKartınız aşağıdaki gibi görünecek\n",
+    "EMBED_FOOTER": "Kart çerçevelendi. Kullanarak iptalcdf komutu uygulanmış çerçeveyi geri alın",
+    "NO_OWNER": "{{author}} Kart artık size ait değil",
+    "FRAME_NOT_FOUND": "O çerçeveye sahip değilsiniz",
+    "UF_SUCCESSFULL": "BAŞARILI"
 }

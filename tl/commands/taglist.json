@@ -4,6 +4,6 @@
     "NO_USER": "{{author}} Ang user na iyan ay hindi nakarehistro",
     "NO_TAGS": "{{author}} Walang tag na makita",
     "EMBED_TITLE": "Listahan ng Tag: {{username}}",
-    "SOFI_FACT": "Ang mga card na nasa \"Tags\" na merong kandadong emoji \"🔒\" ay hindi pwedeng sunugin o ipag-palit!\nHalimbawa: \"{{prefix}}tc lock 🔒\"",
+    "SOFI_FACT": "Ang \"Tags\" na merong pangalan na \"lock\" at kandadong emoji \"🔒\" ay mapipigilan kang sunugin o ibigay ang card na nasa tag na iyan!\nHalimbawa: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Bilang ng mga Tags: {{count}}"
 }
