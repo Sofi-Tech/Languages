@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Tanggalin ang morph mula sa card",
-  "UM_CATEGORY": "Kagandahan",
-  "INVALID_USAGE": "Magbigay ng wastong cardcode",
-  "INVALID_CODE": "Maling code ang ibinigay",
-  "NO_CHARACTER": "Walang character na nahanap",
-  "NO_GIF": "Hindi magagamit ang command na {{author}} cosmetics sa gif cards",
-  "NOT_MORPHED": "{{author}} Hindi naka-morph ang card",
-  "EMBED_TITLE": "Balikin ang Morph",
-  "UM_CONFIRMATION": "Ito ay magtanggal ng morph sa iyong card\nAng iyong card ay magmumukhang ganito\nAng proseso ay magkakahalaga ng 100 silvers",
-  "NO_OWNER": "Hindi na iyo ang card",
-  "SOMETHING_WENT_WRONG": "May nagsabing di maganda.... <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "Walang sapat na silvers para sa pagtanggal ng morph",
-  "UM_SUCCESSFULL": "Matagumpay na natanggal ang morph"
+    "UM_DESCRIPTION": "Tanggalin ang morph mula sa card",
+    "UM_CATEGORY": "Kagandahan",
+    "INVALID_USAGE": "Magbigay ng wastong cardcode",
+    "INVALID_CODE": "Maling code ang ibinigay",
+    "NO_CHARACTER": "Walang character na nahanap",
+    "NO_GIF": "Hindi magagamit ang command na {{author}} cosmetics sa gif cards",
+    "NOT_MORPHED": "{{author}} Hindi naka-morph ang card",
+    "EMBED_TITLE": "Balikin ang Morph",
+    "UM_CONFIRMATION": "Ito ay magtanggal ng morph sa iyong card\nAng iyong card ay magmumukhang ganito\nAng proseso ay magkakahalaga ng 100 silvers",
+    "NO_OWNER": "{{author}} Ang card na iyan ay hindi mo na pag mamay-ari",
+    "SOMETHING_WENT_WRONG": "May nagsabing di maganda.... <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "Walang sapat na silvers para sa pagtanggal ng morph",
+    "UM_SUCCESSFULL": "Matagumpay na natanggal ang morph"
 }
