@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Morph von der Karte entfernen",
-  "UM_CATEGORY": "Kosmetik",
-  "INVALID_USAGE": "Gültigen Kartencode bereitstellen",
-  "INVALID_CODE": "Ungültiger Code bereitgestellt",
-  "NO_CHARACTER": "Kein Charakter gefunden",
-  "NO_GIF": "{{author}} Kosmetik-Befehl gilt nicht für GIF-Karten",
-  "NOT_MORPHED": "{{author}} Die Karte ist nicht verwandelt",
-  "EMBED_TITLE": "Rückgängig machen Morph",
-  "UM_CONFIRMATION": "Sie sind dabei, Morph von Ihrer Karte zu entfernen\nIhre Karte wird wie folgt aussehen\nDer Vorgang kostet 100 Silbermünzen",
-  "NO_OWNER": "Die Karte gehört Ihnen nicht mehr",
-  "SOMETHING_WENT_WRONG": "Etwas ist schief gelaufen.. <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "Sie haben nicht genug Silbermünzen, um die Verwandlung rückgängig zu machen",
-  "UM_SUCCESSFULL": "Die Verwandlung wurde erfolgreich entfernt"
+    "UM_DESCRIPTION": "Morph von der Karte entfernen",
+    "UM_CATEGORY": "Kosmetik",
+    "INVALID_USAGE": "Gültigen Kartencode bereitstellen",
+    "INVALID_CODE": "Ungültiger Code bereitgestellt",
+    "NO_CHARACTER": "Kein Charakter gefunden",
+    "NO_GIF": "{{author}} Kosmetik-Befehl gilt nicht für GIF-Karten",
+    "NOT_MORPHED": "{{author}} Die Karte ist nicht verwandelt",
+    "EMBED_TITLE": "Rückgängig machen Morph",
+    "UM_CONFIRMATION": "Sie sind dabei, Morph von Ihrer Karte zu entfernen\nIhre Karte wird wie folgt aussehen\nDer Vorgang kostet 100 Silbermünzen",
+    "NO_OWNER": "{{author}} Die Karte gehört nicht mehr dir",
+    "SOMETHING_WENT_WRONG": "Etwas ist schief gelaufen.. <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "Sie haben nicht genug Silbermünzen, um die Verwandlung rückgängig zu machen",
+    "UM_SUCCESSFULL": "Die Verwandlung wurde erfolgreich entfernt"
 }
