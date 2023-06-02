@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "단어 맞추기 게임",
-    "CORRECT_USAGE": "{{user}} **올바른 사용법: {{prefix}}guess <금액> <화폐>**\n|`실버` `위스트` `젬` `큐브`",
-    "NO_TP": "${message.author}님은 활성화된 거래 패스가 없습니다. 사이트에서 버그 리포트 포인트를 교환하여 거래 패스를 받으세요.",
-    "NOT_ENOUGH_CURR": "{{user}} **| 당신은 게임을 시작하기에 충분한 `{{currency}}`를 갖고 있지 않습니다**",
-    "INFO_1": "{{user}}님이 단어 맞추기 게임을 시작했습니다",
-    "INFO_2": "참가자는 {{bet}} {{currency}}를 가져야합니다",
-    "INFO_3": "상금: {{jackpot}} {{currencyEmoji}}",
-    "INFO_4": "참가자: [{{playerCount}}명]",
-    "FOOTER": "참가를 원하시는 분들은 🍻 반응을 이모지로 달아주세요 | 게임 시작은 🟢 반응으로 시작합니다",
-    "REQ_MORE_PLAYERS": "{{user}} 참가자를 더 구해주세요**",
-    "GUESS_THE_WORD": "주어진 단어: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}}님이 정답 {{word}}을(를) 맞추었으며, {{jackpot}} {{currency}}을(를) 획득했습니다",
-    "WRONG_USAGE": "{{author}} 올바른 사용법: `{{prefix}}give <사용자/사용자 ID> <카드코드>`"
+  "DESCRIPTION": "단어 맞추기 게임",
+  "CORRECT_USAGE": "{{user}} **올바른 사용법: {{prefix}}guess <금액> <화폐>**\n|`실버` `위스트` `젬` `큐브`",
+  "NO_TP": "${message.author}님은 활성화된 거래 패스가 없습니다. 사이트에서 버그 리포트 포인트를 교환하여 거래 패스를 받으세요.",
+  "NOT_ENOUGH_CURR": "{{user}} **| 당신은 게임을 시작하기에 충분한 `{{currency}}`를 갖고 있지 않습니다**",
+  "INFO_1": "{{user}}님이 단어 맞추기 게임을 시작했습니다",
+  "INFO_2": "참가자는 {{bet}} {{currency}}를 가져야합니다",
+  "INFO_3": "상금: {{jackpot}} {{currencyEmoji}}",
+
+  "FOOTER": "참가를 원하시는 분들은 🍻 반응을 이모지로 달아주세요 | 게임 시작은 🟢 반응으로 시작합니다",
+  "REQ_MORE_PLAYERS": "{{user}} 참가자를 더 구해주세요**",
+  "GUESS_THE_WORD": "주어진 단어: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}}님이 정답 {{word}}을(를) 맞추었으며, {{jackpot}} {{currency}}을(를) 획득했습니다",
+  "WRONG_USAGE": "{{author}} 올바른 사용법: `{{prefix}}give <사용자/사용자 ID> <카드코드>`"
 }

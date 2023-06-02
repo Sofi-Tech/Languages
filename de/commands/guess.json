@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Startet ein Wort-Rate-Spiel",
-    "CORRECT_USAGE": "{{user}} korrekte Nutzung: `{{prefix}}guess <Betrag> <Währung>`\n| `Silbers` `Wists` `Edelsteine` `Cubes`",
-    "NO_TP": "{{message.author}} Du hast keinen aktiven Tradepass. Benutz den `sbump` Command und besuche die Webseite um deine `Bump` points einzutauschen",
-    "NOT_ENOUGH_CURR": "{{user}} Du hast nicht genug {{currency}}, um das Spiel zu starten!",
-    "INFO_1": "{{user}} hat ein Rätselspiel gestartet",
-    "INFO_2": "Teilnehmer müssen `{{bet}} {{currency}}` haben, um teilzunehmen",
-    "INFO_3": "Preis: `{{jackpot}}` {{currencyEmoji}}",
-    "INFO_4": "Spieler: [{{playerCount}}]",
-    "FOOTER": "Reagiere mit 🍻, um beizutreten | Der Spielmanager kann mit 🟢 reagieren, um das Spiel zu starten",
-    "REQ_MORE_PLAYERS": "{{user}}, du braucht mindestens 2 Spieler bevor du das Spiel starten kannst",
-    "GUESS_THE_WORD": "Rate das gegebene Wort: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} hat {{word}} richtig geraten und {{jackpot}} {{currency}} gewonnen!",
-    "WRONG_USAGE": "{{author}} Richtige Verwendung: `{{prefix}}give <user/userID> <Kartencode>`"
+  "DESCRIPTION": "Startet ein Wort-Rate-Spiel",
+  "CORRECT_USAGE": "{{user}} korrekte Nutzung: `{{prefix}}guess <Betrag> <Währung>`\n| `Silbers` `Wists` `Edelsteine` `Cubes`",
+  "NO_TP": "{{message.author}} Du hast keinen aktiven Tradepass. Benutz den `sbump` Command und besuche die Webseite um deine `Bump` points einzutauschen",
+  "NOT_ENOUGH_CURR": "{{user}} Du hast nicht genug {{currency}}, um das Spiel zu starten!",
+  "INFO_1": "{{user}} hat ein Rätselspiel gestartet",
+  "INFO_2": "Teilnehmer müssen `{{bet}} {{currency}}` haben, um teilzunehmen",
+  "INFO_3": "Preis: `{{jackpot}}` {{currencyEmoji}}",
+
+  "FOOTER": "Reagiere mit 🍻, um beizutreten | Der Spielmanager kann mit 🟢 reagieren, um das Spiel zu starten",
+  "REQ_MORE_PLAYERS": "{{user}}, du braucht mindestens 2 Spieler bevor du das Spiel starten kannst",
+  "GUESS_THE_WORD": "Rate das gegebene Wort: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}} hat {{word}} richtig geraten und {{jackpot}} {{currency}} gewonnen!",
+  "WRONG_USAGE": "{{author}} Richtige Verwendung: `{{prefix}}give <user/userID> <Kartencode>`"
 }

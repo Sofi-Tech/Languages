@@ -12,7 +12,7 @@
   "CANNOT_FIND_GLOWS": "{{author}} لم يتمكن من العثور على ضوء برموز {{codes}}",
   "EMBED_TITLE": "SOFI: ضوء خارق",
   "FORM_SG_CONFIRM": "أنت على وشك تشكيل ضوء خارق:**\n\n{{glowCodes}}\n\n**تشكيل ضوء خارق...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ ضوء خارق ${superGlowName}",
-  "CANNOT_FORM_SG": "لا يمكن تشكيل ضوء خارق",
+
   "MISSING_RESINS": "أنت بحاجة إلى المزيد من الراتنجات",
   "SUPER_GLOW_SUCCESSFULL": "تم تشكيل الضوء الخارق بنجاح**\n\n{{glowCodes}}\n\n**تشكيل ضوء خارق...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ ضوء خارق ${superGlowName}"
 }

@@ -1,17 +1,17 @@
 {
-    "DESCRIPTION": "Pon tus \"Wists\" en el mercado, que luego se pueden comprar a otros jugadores con \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <wist> <rate>`",
-    "INVALID_GEM_RATE": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
-    "GEM_RATE_LIES": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
-    "ALREADY_EXISTS": "{{author}} Ya tienes un acuerdo existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar uno nuevo",
-    "PRODUCTS": "Tu oferta:",
-    "RATE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
-    "VALUE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
-    "CONFIRM_FOOTER": "¿Estás seguro de que deseas listar este acuerdo en el mercado?",
-    "CONFIRM_ASK": "¿Está seguro de que desea incluir esta oferta en el mercado?",
-    "CANCELLED": "El proceso de mass burn ha sido cancelado",
-    "NOT_ENOUGH_CANCEL": "Cancelado debido a la falta de wists",
-    "CONFIRM_TEXT": "Acuerdo agregado al mercado",
-    "SUCCESS": "Su oferta se ha listado correctamente",
-    "SUCCESS_FOOTER": "ID de acuerdo: {{dealId}}"
+  "DESCRIPTION": "Pon tus \"Wists\" en el mercado, que luego se pueden comprar a otros jugadores con \"Gems\"",
+  "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <wist> <rate>`",
+  "INVALID_GEM_RATE": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
+  "GEM_RATE_LIES": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
+  "ALREADY_EXISTS": "{{author}} Ya tienes un acuerdo existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar uno nuevo",
+  "PRODUCTS": "Tu oferta:",
+  "RATE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
+  "VALUE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
+
+  "CONFIRM_ASK": "¿Está seguro de que desea incluir esta oferta en el mercado?",
+  "CANCELLED": "El proceso de mass burn ha sido cancelado",
+  "NOT_ENOUGH_CANCEL": "Cancelado debido a la falta de wists",
+
+  "SUCCESS": "Su oferta se ha listado correctamente",
+  "SUCCESS_FOOTER": "ID de acuerdo: {{dealId}}"
 }

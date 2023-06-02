@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "`Puxa` diferentes itens como \"Items\" \"Charms\" e `Fragmentos` de cartas animadas",
-    "PULL_AMT": "{{author}} forneça a quantidade de `Pulls` de **1** ou **10**",
-    "INFO_1": "Chance de obter um `Fragmento` é de **12%**",
-    "INFO_2": "As chances de conseguir `Charms` e `Swaps` são {{chance1}}% & {{chance2}}%",
-    "INFO_3": "Você precisa de 8 `Fragmentos` para criar uma carta `GIF` de um personagem",
-    "INFO_4": "`GIF` de uma carta contém 100 `Gens` únicas",
-    "INFO_5": "`Fragmentos` Restantes podem ser queimados para obter um `Charm`",
-    "PULLS": "SOFI: PUXADAS",
-    "PULL_COUNT": "Contagem de puxadas: {{count}}",
-    "MISSING_CURR": "{{user}} você não tem **{{amount}}** `{{currName}}`",
-    "AMOUNT": "Quantidade: {{amount}}",
-    "PULL_COUNT_WIST": "Contagem de puxadas: {{pullcount}}"
+  "DESCRIPTION": "`Puxa` diferentes itens como \"Items\" \"Charms\" e `Fragmentos` de cartas animadas",
+  "PULL_AMT": "{{author}} forneça a quantidade de `Pulls` de **1** ou **10**",
+  "INFO_1": "Chance de obter um `Fragmento` é de **12%**",
+  "INFO_2": "As chances de conseguir `Charms` e `Swaps` são {{chance1}}% & {{chance2}}%",
+  "INFO_3": "Você precisa de 8 `Fragmentos` para criar uma carta `GIF` de um personagem",
+
+  "PULLS": "SOFI: PUXADAS",
+  "PULL_COUNT": "Contagem de puxadas: {{count}}",
+  "MISSING_CURR": "{{user}} você não tem **{{amount}}** `{{currName}}`",
+  "AMOUNT": "Quantidade: {{amount}}",
+  "PULL_COUNT_WIST": "Contagem de puxadas: {{pullcount}}"
 }

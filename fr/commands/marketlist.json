@@ -1,17 +1,17 @@
 {
-    "DESCRIPTION": "Élément de liste sur le marché",
-    "CORRECT_USAGE": "{{user}} Utilisation correcte : {{prefix}}ml <wist> <rate>",
-    "INVALID_GEM_RATE": "{{user}} Taux de gemmes invalide",
-    "GEM_RATE_LIES": "{{user}} Le taux de gemmes doit être compris entre 3,0 et 20,0",
-    "ALREADY_EXISTS": "Vous avez un deal existant {{dealID}}\nRetrait du deal avant inscription à nouveau.",
-    "PRODUCTS": "Produits",
-    "RATE": "Rate",
-    "VALUE": "Valeur",
-    "CONFIRM_FOOTER": "Êtes-vous sûr de vouloir inscrire ce deal sur le marché ?",
-    "CONFIRM_ASK": "Êtes-vous sûr?",
-    "CANCELLED": "Annulé",
-    "NOT_ENOUGH_CANCEL": "Annulé en raison de wists manquants.",
-    "CONFIRM_TEXT": "Deal ajouté au marché",
-    "SUCCESS": "Le deal a été inscrit avec succès.",
-    "SUCCESS_FOOTER": "Deal ID: {{dealId}}"
+  "DESCRIPTION": "Élément de liste sur le marché",
+  "CORRECT_USAGE": "{{user}} Utilisation correcte : {{prefix}}ml <wist> <rate>",
+  "INVALID_GEM_RATE": "{{user}} Taux de gemmes invalide",
+  "GEM_RATE_LIES": "{{user}} Le taux de gemmes doit être compris entre 3,0 et 20,0",
+  "ALREADY_EXISTS": "Vous avez un deal existant {{dealID}}\nRetrait du deal avant inscription à nouveau.",
+  "PRODUCTS": "Produits",
+  "RATE": "Rate",
+  "VALUE": "Valeur",
+
+  "CONFIRM_ASK": "Êtes-vous sûr?",
+  "CANCELLED": "Annulé",
+  "NOT_ENOUGH_CANCEL": "Annulé en raison de wists manquants.",
+
+  "SUCCESS": "Le deal a été inscrit avec succès.",
+  "SUCCESS_FOOTER": "Deal ID: {{dealId}}"
 }

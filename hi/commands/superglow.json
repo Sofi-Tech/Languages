@@ -12,7 +12,7 @@
   "CANNOT_FIND_GLOWS": "{{author}} कोड के साथ चमक नहीं मिल सकता {{codes}}",
   "EMBED_TITLE": "SOFI: सुपर चमक",
   "FORM_SG_CONFIRM": "आप एक सुपर चमक बनाने जा रहे हैं:**\n\n{{glowCodes}}\n\n**सुपर चमक बनाना ...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ सुपर ${superGlowName}",
-  "CANNOT_FORM_SG": "सुपर चमक नहीं बना सकते",
+
   "MISSING_RESINS": "आपकी कमी रेजिन है",
   "SUPER_GLOW_SUCCESSFULL": "सुपर चमक निर्माण सफल रहा था**\n\n{{glowCodes}}\n\n**सुपर चमक बनाना ...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ सुपर ${superGlowName}"
 }

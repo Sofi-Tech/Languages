@@ -1,17 +1,17 @@
 {
-    "DESCRIPTION": "Mette i tuoi \"Wist\" sul mercato, che possono poi essere acquistati da altri giocatori con \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}ml <wist> <rate>`",
-    "INVALID_GEM_RATE": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
-    "GEM_RATE_LIES": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
-    "ALREADY_EXISTS": "{{author}} Hai già un'offerta esistente!\nUsa il comando `{{prefix}}mul {{dealID}}` per rimuoverlo, prima di elencarne uno nuovo",
-    "PRODUCTS": "Tu offri:",
-    "RATE": "Tasso",
-    "VALUE": "Valore",
-    "CONFIRM_FOOTER": "Sei sicuro di voler inserire questo affare sul mercato?",
-    "CONFIRM_ASK": "Sei sicuro di voler mettere in vendita questo accordo sul mercato?",
-    "CANCELLED": "Il processo di bruciatura di massa è stata annullata",
-    "NOT_ENOUGH_CANCEL": "Annullato a causa di wist mancanti",
-    "CONFIRM_TEXT": "Affare aggiunto al mercato",
-    "SUCCESS": "La tua offerta è stata inserita correttamente",
-    "SUCCESS_FOOTER": "ID affare: {{dealId}}"
+  "DESCRIPTION": "Mette i tuoi \"Wist\" sul mercato, che possono poi essere acquistati da altri giocatori con \"Gems\"",
+  "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}ml <wist> <rate>`",
+  "INVALID_GEM_RATE": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
+  "GEM_RATE_LIES": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
+  "ALREADY_EXISTS": "{{author}} Hai già un'offerta esistente!\nUsa il comando `{{prefix}}mul {{dealID}}` per rimuoverlo, prima di elencarne uno nuovo",
+  "PRODUCTS": "Tu offri:",
+  "RATE": "Tasso",
+  "VALUE": "Valore",
+
+  "CONFIRM_ASK": "Sei sicuro di voler mettere in vendita questo accordo sul mercato?",
+  "CANCELLED": "Il processo di bruciatura di massa è stata annullata",
+  "NOT_ENOUGH_CANCEL": "Annullato a causa di wist mancanti",
+
+  "SUCCESS": "La tua offerta è stata inserita correttamente",
+  "SUCCESS_FOOTER": "ID affare: {{dealId}}"
 }

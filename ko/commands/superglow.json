@@ -12,7 +12,7 @@
   "CANNOT_FIND_GLOWS": "{{author}}님이 코드 {{codes}}로 글로우를 찾을 수 없습니다",
   "EMBED_TITLE": "SOFI: SUPER GLOW",
   "FORM_SG_CONFIRM": "슈퍼 글로우를 만들려고 합니다:**\n\n{{glowCodes}}\n\n**슈퍼 글로우를 만드는 중입니다...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ 슈퍼 ${superGlowName}",
-  "CANNOT_FORM_SG": "슈퍼 글로우를 만들 수 없습니다",
+
   "MISSING_RESINS": "수지가 부족합니다",
   "SUPER_GLOW_SUCCESSFULL": "슈퍼 글로우 생성이 성공적으로 완료되었습니다**\n\n{{glowCodes}}\n\n**슈퍼 글로우를 만드는 중입니다...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ 슈퍼 ${superGlowName}"
 }

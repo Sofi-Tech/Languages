@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Start een woord raadspel",
-    "CORRECT_USAGE": "{{user}} Correct gebruik: `{{prefix}}guess <bedrag> <valuta>`\n|Geaccepteerde valuta:`Silver` `Wists` `Gems` `Cubes`",
-    "NO_TP": "${message.author} heeft geen actieve Tradepass. Wissel de bump punten in op de site om een Tradepass te ontvangen",
-    "NOT_ENOUGH_CURR": "{{user}} **| Je hebt niet genoeg `{{currency}}` om het spel te starten**",
-    "INFO_1": "{{user}} is begonnen met het raadspel",
-    "INFO_2": "Deelnemer moet {{bet}} {{currency}} hebben om te spelen",
-    "INFO_3": "Prijs: {{jackpot}} {{currencyEmoji}}",
-    "INFO_4": "Spelers: [{{playerCount}}]",
-    "FOOTER": "Spelers reageren met 🍻 om mee te doen | Spelstarter reageert met 🟢 om het spel te starten",
-    "REQ_MORE_PLAYERS": "{{user}} vraag meer spelers om mee te doen**",
-    "GUESS_THE_WORD": "Raad het gegeven woord: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} heeft {{word}} correct geraden en heeft {{jackpot}} {{currency}} gewonnen",
-    "WRONG_USAGE": "{{auteur}} Correct gebruik: `{{prefix}}give <gebruiker/gebruikers-ID> <kaartcode>`"
+  "DESCRIPTION": "Start een woord raadspel",
+  "CORRECT_USAGE": "{{user}} Correct gebruik: `{{prefix}}guess <bedrag> <valuta>`\n|Geaccepteerde valuta:`Silver` `Wists` `Gems` `Cubes`",
+  "NO_TP": "${message.author} heeft geen actieve Tradepass. Wissel de bump punten in op de site om een Tradepass te ontvangen",
+  "NOT_ENOUGH_CURR": "{{user}} **| Je hebt niet genoeg `{{currency}}` om het spel te starten**",
+  "INFO_1": "{{user}} is begonnen met het raadspel",
+  "INFO_2": "Deelnemer moet {{bet}} {{currency}} hebben om te spelen",
+  "INFO_3": "Prijs: {{jackpot}} {{currencyEmoji}}",
+
+  "FOOTER": "Spelers reageren met 🍻 om mee te doen | Spelstarter reageert met 🟢 om het spel te starten",
+  "REQ_MORE_PLAYERS": "{{user}} vraag meer spelers om mee te doen**",
+  "GUESS_THE_WORD": "Raad het gegeven woord: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}} heeft {{word}} correct geraden en heeft {{jackpot}} {{currency}} gewonnen",
+  "WRONG_USAGE": "{{auteur}} Correct gebruik: `{{prefix}}give <gebruiker/gebruikers-ID> <kaartcode>`"
 }

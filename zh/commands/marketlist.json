@@ -1,17 +1,17 @@
 {
-    "DESCRIPTION": "市场列表项",
-    "CORRECT_USAGE": "{{user}} 正确用法：{{prefix}}ml <wist> <rate>",
-    "INVALID_GEM_RATE": "{{user}} 无效的宝石率",
-    "GEM_RATE_LIES": "{{user}} 宝石率必须介于3.0-20.0之间",
-    "ALREADY_EXISTS": "您有一个现有的交易{{dealID}}\n在再次列出交易之前请取消列出",
-    "PRODUCTS": "产品",
-    "RATE": "费率",
-    "VALUE": "价值",
-    "CONFIRM_FOOTER": "您确定要将此交易列出到市场吗？",
-    "CONFIRM_ASK": "你确定吗？",
-    "CANCELLED": "已取消",
-    "NOT_ENOUGH_CANCEL": "由于缺少$wists$而取消",
-    "CONFIRM_TEXT": "将交易加入市场",
-    "SUCCESS": "交易已成功列出",
-    "SUCCESS_FOOTER": "成交ID: {{dealId}}"
+  "DESCRIPTION": "市场列表项",
+  "CORRECT_USAGE": "{{user}} 正确用法：{{prefix}}ml <wist> <rate>",
+  "INVALID_GEM_RATE": "{{user}} 无效的宝石率",
+  "GEM_RATE_LIES": "{{user}} 宝石率必须介于3.0-20.0之间",
+  "ALREADY_EXISTS": "您有一个现有的交易{{dealID}}\n在再次列出交易之前请取消列出",
+  "PRODUCTS": "产品",
+  "RATE": "费率",
+  "VALUE": "价值",
+
+  "CONFIRM_ASK": "你确定吗？",
+  "CANCELLED": "已取消",
+  "NOT_ENOUGH_CANCEL": "由于缺少$wists$而取消",
+
+  "SUCCESS": "交易已成功列出",
+  "SUCCESS_FOOTER": "成交ID: {{dealId}}"
 }
