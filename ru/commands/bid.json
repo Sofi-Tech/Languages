@@ -1,7 +1,7 @@
 {
-    "BID_DESCRIPTION": "Ставка на аукционах",
+    "BID_DESCRIPTION": "Размещает вашу ставку на \"Auction\"",
     "BID_CATEGORY": "Карты",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bid <АукционID> <Количество>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bid <AuctionID> <Количество>`",
     "INVALID_ID": "{{author}} Вы указали недействительный `Auction` идентификатор",
     "INVALID_AMOUNT": "{{author}} количество должно быть числом",
     "NO_AMOUNT": "{{author}} у вас нет {{amount}} {{currency}}",
@@ -14,7 +14,7 @@
     "OUTBIDDED": "Вас перебили в аукционе ID `{{auctionId}}`",
     "SUCCESSFUL_BID": "Ставка была успешно размещена",
     "EMBED_BID_TITLE": "SOFI: АУКЦИОН [{{auctionId}}]",
-    "EMBED_BID_DESCRIPTION": "> Добро пожаловать на аукцион SOFI:\n> Используйте `{{prefix}}bid <АукционID> <Количество>` для размещения ставки на карту\n> Примечание: ставки будут анонимными",
+    "EMBED_BID_DESCRIPTION": "> Добро пожаловать на SOFI Auction:\n> Используйте `{{prefix}}bid <auctionID> <Количество>` для размещения ставки на карту\n> Примечание: ставки будут анонимными",
     "CARD_DETAILS": "Детали карты",
     "BID_GEN": "> Gen: `{{gen}}`",
     "BID_NAME": "> Название: {{name}}",

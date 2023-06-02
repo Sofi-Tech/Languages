@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Menghapus penawaran Anda dari pasar",
     "CORRECT_USAGE": "{{user}} Cantumkan ID transaksi yang ingin Anda hapus daftar atau gunakan perintah `smul all` untuk menghapus daftar semua transaksi sekaligus",
-    "INVALID_DEAL_ID": "{{author}} ID yang Anda berikan tidak valid atau bukan merupakan bagian dari transaksi Anda",
+    "INVALID_DEAL_ID": "{{author}} ID yang Anda berikan salah atau bukan merupakan bagian dari transaksi Anda",
     "SUCCESS_UL": "{{user}} Transaksi `{{dealId}}}` berhasil dihapus dari pasar",
     "NO_LISTINGS_FOUND": "{{user}} Anda tidak memiliki daftar di pasar saat ini",
     "SUCCESS_UL_ALL": "{{user}} Sebanyak `{{totalDeals}}` transaksi berhasil dihapus dari pasar"

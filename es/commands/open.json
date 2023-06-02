@@ -9,7 +9,7 @@
     "SERIES": "Serie:",
     "CHEST_INFO": "Los cofres de eventos aún se pueden abrir después de que concluya un evento",
     "PROVIDE_NUM": "Por favor proporciona un número entre **1 y 10**",
-    "CHEST_MISSING": "No tienes **{{replacedArg}}** `{{chestName}}` Cofres en tu inventario.",
+    "CHEST_MISSING": "No tienes **{{replacedArg}}** `{{chestName}}` Cofres en tu `Inventory`",
     "COMMON_INFO_1": "Has abierto **{{totalChests}}** `{{chestName}}` Cofres",
     "ITEMS_FOUND": "Objetos obtenidos:\n",
     "COMMON_RARE_FOOTER": "Puedes obtener un Cofre {{chestName}} por cada racha diaria de {{count}}",
