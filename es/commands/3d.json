@@ -9,7 +9,7 @@
     "CARD_ALREADY_3D": "{{author}} Esa carta ya está en su variante 3d",
     "3D_DESCRIPTION": "Convierte tu carta en su variante 3d",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Las cartas de evento no pueden convertirse en una variante 3d",
-    "3D_NOTE": "Estás a punto de convertir esta carta en su variante 3D. Este proceso modificará permanentemente tu carta y no podrá revertirse. La conversión de esta carta también cambiará su \"Gen\", siendo más probable que los \"Gens\" más bajos conserven un \"Gen\" más bajo. Elimina el frame de la carta antes de convertirla, de lo contrario perderás el \"Frame\" que tenga aplicado",
+    "3D_NOTE": "Estás a punto de convertir esta carta en su variante 3D. Este proceso modificará permanentemente tu carta y no podrá revertirse. La carta obtenida tendrá un \"Gen\" proporcional a la anterior. Este proceso también eliminará cualquier \"Frame\" aplicado",
     "NO_CUBES": "No tienes suficientes `Cubes`",
     "HALLOWEEN_3D_FAILED": "Un Fantasma de Halloween ha infestado tu carta! El proceso de conversión ha fallado!",
     "UPGRADED_3D": "Tu carta ha sido convertido exitosamente en su variante 3D",

@@ -2,7 +2,7 @@
     "BID_DESCRIPTION": "Ставка на аукционах",
     "BID_CATEGORY": "Карты",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bid <АукционID> <Количество>`",
-    "INVALID_ID": "{{author}} Вы предоставили недопустимый `Auction` идентификатор",
+    "INVALID_ID": "{{author}} Вы указали недействительный `Auction` идентификатор",
     "INVALID_AMOUNT": "{{author}} количество должно быть числом",
     "NO_AMOUNT": "{{author}} у вас нет {{amount}} {{currency}}",
     "EMBED_TITLE": "SOFI: СТАВКА",

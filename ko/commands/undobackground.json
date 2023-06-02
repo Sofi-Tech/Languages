@@ -3,7 +3,7 @@
     "UB_CATEGORY": "화장품",
     "WRONG_USAGE": "유효한 카드 코드를 입력하세요",
     "NO_CHARACTER_FOUND": "캐릭터를 찾을 수 없습니다",
-    "INVALID_CODE": "잘못된 코드가 제공되었습니다",
+    "INVALID_CODE": "{{author}} 주어진 카드코드가 적용되지 않습니다",
     "NO_GIF_CARD": "{{author}} 화장품 명령은 gif 카드에 적용되지 않습니다",
     "NO_BACKGROUND": "{{author}} 카드에는 적용된 배경이 없습니다",
     "EMBED_TITLE": "배경 원상복구",
