@@ -9,7 +9,7 @@
     "EMBED_TITLE": "GLOW-PALETTE:",
     "EMBED_FOOTER": "{{prefix}}vg [glowcode] zum Anzeigen von Glow | Glows freigeschaltet: {{count}}",
     "SHOWING_PAGE": "Zeige Seite: {{page}}/{{totalPages}}",
-    "NO_GLOWS_FOUND": "{{author}} Kein Glühen mit dem Tag {{tagName}} gefunden",
+    "NO_GLOWS_FOUND": "{{author}} Es konnte kein „Tag“ mit dem Namen „**{{tagName}}**“ gefunden werden.",
     "CANNOT_FIND_GLOW": "{{author}} Ich kann den Glow mit dem Code `{{glowCode}}` nicht finden",
     "EMBED_GLOW_TITLE": "SOFI: Glühen",
     "NAME": "`Name:   ` ➜ {{name}}",
