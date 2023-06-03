@@ -10,7 +10,7 @@
     "CRYSTALS": "Crystals",
     "BACKGROUNDS": "Backgrounds",
     "EVENT": "Event",
-    "SELF_INV_EMPTY": "Dein Inventar ist leer",
+    "SELF_INV_EMPTY": "{{author}} Dein „Inventar“ ist leer",
     "USER_INV_EMPTY": "Das Inventar dieses Benutzers ist leer",
     "NO_BG_FOUND": "Kein `Background` gefunden",
     "NO_ITEM_FOUND": "Der Gegenstand konnte nicht in diesem Inventar gefunden werden",

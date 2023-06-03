@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Menjual \"Wists\" Anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
-  "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <wist> <rate>`",
-  "INVALID_GEM_RATE": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
-  "GEM_RATE_LIES": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
-  "ALREADY_EXISTS": "{{author}} Anda sudah memiliki kesepakatan yang sudah ada!\nGunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapusnya, sebelum mendaftarkan transaksi yang baru",
-  "PRODUCTS": "Anda menawarkan:",
-  "RATE": "Harga",
-  "VALUE": "Nilai",
-  "CONFIRM_ASK": "Apakah Anda yakin ingin mendaftarkan transaksi ini ke pasar?",
-  "CANCELLED": "Proses pembakaran massal dibatalkan",
-  "NOT_ENOUGH_CANCEL": "Dibatalkan karena kurangnya wists",
-  "SUCCESS": "Penawaran Anda telah berhasil didaftarkan",
-  "SUCCESS_FOOTER": "ID Penawaran: {{dealId}}"
+    "DESCRIPTION": "Menjual \"Wists\" Anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <wist> <rate>`",
+    "INVALID_GEM_RATE": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
+    "GEM_RATE_LIES": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
+    "ALREADY_EXISTS": "{{author}} Anda sudah memiliki kesepakatan yang sudah ada!\nGunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapusnya, sebelum mendaftarkan transaksi yang baru",
+    "PRODUCTS": "Anda menawarkan:",
+    "RATE": "Harga:",
+    "VALUE": "Nilai:",
+    "CONFIRM_ASK": "Apakah Anda yakin ingin mendaftarkan transaksi ini ke pasar?",
+    "CANCELLED": "Proses pembakaran massal dibatalkan",
+    "NOT_ENOUGH_CANCEL": "Dibatalkan karena kurangnya wists",
+    "SUCCESS": "Penawaran Anda telah berhasil didaftarkan",
+    "SUCCESS_FOOTER": "Menambahkan penawaran ke pasar"
 }

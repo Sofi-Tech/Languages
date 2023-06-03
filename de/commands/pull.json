@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "„Pulls“ aus einem Pool verschiedener „Items“, darunter „Charms“ und „Fragments“, für animierte Karten",
-  "PULL_AMT": "{{user}} gibt die Ziehmenge an, entweder 1 oder 10",
-  "INFO_1": "Die Chance, ein Fragment zu erhalten, beträgt 12%.",
-  "INFO_2": "Die Chancen, Charms und Swaps zu erhalten, sind gering.",
-  "INFO_3": "Jeder animierte Charakter benötigt 8 Fragmente.",
-  "PULLS": "SOFI: PULLS",
-  "PULL_COUNT": "Ziehmenge: {{count}}",
-  "MISSING_CURR": "{{user}} hat keine {{amount}} {{currName}}",
-  "AMOUNT": "Betrag: {{amount}}",
-  "PULL_COUNT_WIST": "Ziehmenge: {{pullcount}} | Du kannst Wist vom Smarket kaufen"
+    "DESCRIPTION": "„Pulls“ aus einem Pool verschiedener „Items“, darunter „Charms“ und „Fragments“, für animierte Karten",
+    "PULL_AMT": "{{user}} gibt die Ziehmenge an, entweder 1 oder 10",
+    "INFO_1": "Die Chance, ein Fragment zu erhalten, beträgt 12%.",
+    "INFO_2": "Die Chancen, Charms und Swaps zu erhalten, sind gering.",
+    "INFO_3": "Jeder animierte Charakter benötigt 8 Fragmente.",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Ziehmenge: {{count}}",
+    "MISSING_CURR": "{{user}} hat keine {{amount}} {{currName}}",
+    "AMOUNT": "Betrag: {{amount}}",
+    "PULL_COUNT_WIST": "Pull-Anzahl: {{pullcount}}"
 }

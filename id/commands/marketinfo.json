@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Menampilkan daftar pasar Anda saat ini atau memeriksa kesepakatan jika Anda memberikan ID",
-    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda berikan salah",
-    "TRADER": "Penjual",
-    "DEAL_ID": "Nilai",
-    "PRODUCT": "Anda mendapatkan:test1",
+    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda berikan tidak valid",
+    "TRADER": "Pedagang",
+    "DEAL_ID": "ID Transaksi",
+    "PRODUCT": "Anda mendapatkan:test3",
     "VALUE": "Nilai",
     "RATE": "Harga",
     "LISTED": "Terdaftar",

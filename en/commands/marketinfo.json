@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Displays your current market listings or examines a deal if you provide an ID",
-  "INVALID_DEAL_ID": "{{author}} The Deal ID you provided is invalid",
-  "TRADER": "Trader",
-  "DEAL_ID": "Deal ID",
-  "PRODUCT": "You get:test",
-  "VALUE": "Value",
-  "RATE": "Rate",
-  "LISTED": "Listed",
-  "EMBED_TITLE": "LISTINGS: {{tag}}",
-  "NO_LISTINGS_FOUND": "{{user}} You don't have any listings on the market",
-  "INFO": "Use the command `{{prefix}}mul <ID>` to unlist your current deals\n**Only a single deal can be listed at a time**",
-  "FOOTER": "Showing 1-{{pages}} of {{total}} | Use the command `{{prefix}}mp <ID>` to buy `Wists`!"
+    "DESCRIPTION": "Displays your current market listings or examines a deal if you provide an ID",
+    "INVALID_DEAL_ID": "{{author}} The Deal ID you provided is invalid",
+    "TRADER": "Trader",
+    "DEAL_ID": "Deal ID",
+    "PRODUCT": "You get:test3",
+    "VALUE": "Value",
+    "RATE": "Rate",
+    "LISTED": "Listed",
+    "EMBED_TITLE": "LISTINGS: {{tag}}",
+    "NO_LISTINGS_FOUND": "{{user}} You don't have any listings on the market",
+    "INFO": "Use the command `{{prefix}}mul <ID>` to unlist your current deals\n**Only a single deal can be listed at a time**",
+    "FOOTER": "Showing 1-{{pages}} of {{total}} | Use the command `{{prefix}}mp <ID>` to buy `Wists`!"
 }
