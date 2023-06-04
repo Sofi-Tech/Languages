@@ -1,7 +1,7 @@
 {
     "TU_DESCRIPTION": "Изменяет имя или эмодзи ваших \"Tags\"",
     "TU_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}tagupdate <ИмяTag>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}tagupdate <TagИмя>`",
     "TAG_NOT_FOUND": "{{author}} Не удалось найти ни одного `Tag` с именем `{{tag}}`",
     "BUTTON_NAME_LABEL": "Название",
     "BUTTON_EMOJI_LABEL": "Эмодзи",

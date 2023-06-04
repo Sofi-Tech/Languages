@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "Elimina un \"Tag de Glows\"",
+    "DGT_DESCRIPTION": "Elimina un \"Glow Tag\"",
     "DGT_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}dgt <NombreDeTag>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} No se ha podido encontrar ese `Tag de Glows`",
-    "DELETE_GLOWTAG": "{{author}} Eliminado el `Tag de Glows` {{tag}}"
+    "GLOWTAG_NOT_FOUND": "{{author}} No se ha podido encontrar ese `Glow Tag`",
+    "DELETE_GLOWTAG": "{{author}} El `Glow Tag` {{tag}} ha sido eliminado"
 }

@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Pinapakita ang iyong kasulukuyang listahan sa market o sinusuri ang deal kapag ikaw ay nagbigay ng ID",
-    "INVALID_DEAL_ID": "{{author}} Hindi wasto ang iyong Deal ID na ibinigay",
+    "DESCRIPTION": "Nagpapakita ng iyong kasalukuyang listahan sa pamilihan o sinusuri ang isang deal kapag ibinigay mo ang isang ID",
+    "INVALID_DEAL_ID": "{{author}} Ang ibinigay mong Deal ID ay hindi wasto",
     "TRADER": "Nagbebenta",
-    "DEAL_ID": "Halaga",
-    "PRODUCT": "Makukuha mo:test",
+    "DEAL_ID": "ID ng Kasunduan",
+    "PRODUCT": "Makukuha mo:test3",
     "VALUE": "Halaga",
-    "RATE": "Rate",
-    "LISTED": "Nakalista",
-    "NO_LISTINGS_FOUND": "{{user}} Wala ka pang listahan sa market",
-    "INFO": "Gamitin ang command na `{{prefix}}mul<ID>` upang ihinto ang iyong kasalukuyang deals\n**Isang deal lamang ang pwedeng ilista at hindi pwedeng pagsabay-sabayin**",
+    "RATE": "Porsyento",
+    "LISTED": "Mga nakalista",
+    "NO_LISTINGS_FOUND": "{{user}} Wala ka pang kahit anong nakalista sa market",
+    "INFO": "Gamitin ang command na {{prefix}}mul <ID> upang alisin sa listahan ang iyong kasalukuyang mga deal\n**Isang deal lamang ang pwedeng ilista at hindi pwedeng pagsabay-sabayin**",
     "FOOTER": "Pinapakita ang 1-{{pages}} ng {{total}} | Gamitin ang `{{prefix}}mp <ID>` para bumili ng `Wists`!"
 }

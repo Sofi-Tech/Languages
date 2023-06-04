@@ -1,18 +1,18 @@
 {
     "3D_DESCRIPTION": "Wandelt deine Karte in ihre 3D-Variante um",
     "INVALID_CARD_CODE": "{{author}} Der von Ihnen angegebene Kartencode ist ungültig",
-    "NO_GIF_CONVERSION": "{{author}} „GIF“-Karten können nicht in 3D-Varianten konvertiert werden",
+    "NO_GIF_CONVERSION": "{{author}} `GIF`-Karten können nicht in 3D-Varianten umgewandelt werden",
     "CARD_3D_ALREADY": "{{author}} Diese Karte befindet sich bereits im 3D-Zustand",
     "ALL_3D_NOTE": "Du kannst während aktiver Events „Event“-3D-Varianten erhalten",
     "UPGRADED_3D": "Deine Karte wurde erfolgreich in die 3D-Variante konvertiert",
-    "NO_CUBES": "Du hast nicht genug „Cubes“.",
+    "NO_CUBES": "Du hast nicht genug `Cubes`",
     "3D_CATEGORY": "Kosmetik",
     "EVENT_3D_NOTE": "Du kannst während aktiven Events „Event“-3D-Varianten erhalten",
     "EMBED_TITLE": "SOFI: 3D",
     "CARD_ALREADY_3D": "{{author}} Diese Karte befindet sich bereits im 3D-Zustand",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Event-Karten können nicht in eine 3D-Variante umgewandelt werden",
     "NO_3D_VERSION": "{{author}} Für diesen Charakter gibt es derzeit keine 3D-Variante",
-    "3D_NOTE": "Du bist dabei, diese Karte in ihre 3D-Variante umzuwandeln. Duch diesen Vorgang wird deine Karte dauerhaft verändert und kann nicht rückgängig gemacht werden. Durch das Umwandeln dieser Karte wird auch ihre „Gen“ neu gewürfelt, wobei niedrigere „Gens“ eher als eine niedrigere „Gen“ behalten werden. Entferne einen Kartenrahmen, bevor du ihn konvertierst, andernfalls gehen alle angewendeten „Rahmen“ verloren.",
+    "3D_NOTE": "Du bist dabei, diese Karte in ihre 3D-Variante umzuwandeln. Durch diesen Vorgang wird deine Karte dauerhaft verändert und kann nicht rückgängig gemacht werden. Die neue Karte wird das gleiche \"Gen\" haben wie die Karte davor. Dieser Prozess wird auch den Rahmen entfernen.",
     "HALLOWEEN_3D_FAILED": "Ein Halloween-Geist hat deine Karte befallen! Der Konvertierungsvorgang ist fehlgeschlagen!",
     "UPGRADE_3D_CANCEL": "Der Konvertierungsvorgang wurde abgebrochen"
 }

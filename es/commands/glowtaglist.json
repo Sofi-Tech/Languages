@@ -1,7 +1,7 @@
 {
-    "GTL_DESCRIPTION": "Muestra una lista con tus \"Tags de Glow\"",
+    "GTL_DESCRIPTION": "Muestra una lista con tus \"Glow Tag\"",
     "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} No se ha podido encontrar ningún `Tag de Glows`",
-    "GLOWS": "Brillos",
-    "EMBED_TITLE": "Lista de tags brillantes"
+    "NO_TAGS": "{{author}} No se ha podido encontrar ningún `Glow Tag`",
+    "GLOWS": "Glows",
+    "EMBED_TITLE": "Lista de Glow Tags"
 }

@@ -1,7 +1,7 @@
 {
     "TC_DESCRIPTION": "Создает \"Tag\"",
     "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}tc <ИмяTag> <Эмодзи>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}tc <TagИмя> <Эмодзи>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" не является допустимым эмодзи!",
     "INVALID_TAGNAME_FORMAT": "{{author}} Имя вашего `Tag` должно быть буквенно-цифровым и не может содержать специальные символы, пробелы или ненормативную лексику",
     "LONG_TAGNAME": "{{author}} Имя `Tag` может содержать не более 20 символов",

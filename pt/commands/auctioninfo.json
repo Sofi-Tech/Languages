@@ -9,7 +9,7 @@
     "AI_TOP_BID": "> Maior lance: {{bids}}",
     "AI_STATUS": "> Status: {{status}}",
     "EMBED_FOOTER": "Use o comando `{{prefix}}bid <ID da Auction>` para colocar uma oferta em uma `Auction`",
-    "EMPTY_AUCTION": "Não há Leilões no momento",
+    "EMPTY_AUCTION": "Não há `Leilões` acontecendo no momento",
     "ID": "ID:",
     "ACTIVE": "Ativo",
     "ENDED": "Finalizado",
@@ -17,5 +17,5 @@
     "ONGOING": "Em andamento (termina em: {{time}})",
     "OVER": "Terminado",
     "EMBED_AUCTIONS_TITLE": "SOFI: LEILÕES",
-    "EMBED_AUCTIONS_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Para detalhes use o comando `sai <auctionID>` para mais detalhes"
+    "EMBED_AUCTIONS_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Use o comando `sai <auctionID>` para mais detalhes"
 }
