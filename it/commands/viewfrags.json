@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Visualizza l'elenco dei \"Fragments\" disponibili di un utente",
-    "COLLECTION_PVT": "{{author}} La scheda `Fragment` di quell'utente è privata!",
+    "DESCRIPTION": "Elenca i \"Fragments\" disponibili di un utente",
+    "COLLECTION_PVT": "{{author}} I `Fragments` di quell'utente sono privati!",
     "CANNOT_FIND_FRAGS": "{{user}} Non è riuscito a trovare alcun `Fragments` per quell'utente",
     "FRAGS_COUNT": "Conteggio `Fragment`: {{totalCount}}",
     "FRAG_LIST": "Elenco \"Fragments\": {{userName}}"

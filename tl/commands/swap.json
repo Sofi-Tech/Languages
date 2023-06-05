@@ -3,8 +3,8 @@
     "SWAP_CATEGORY": "Pampaganda",
     "MENU_FRAME_LABEL": "Frame",
     "MENU_FRAME_DESC": "\"Pinagpapalit\" ang \"Frames\" ng dalawang cards",
-    "MENU_TEXT_LABEL": "Toggle Text",
-    "MENU_TEXT_DESC": "Baguhin ang text sa pagitan ng dalawang card",
+    "MENU_TEXT_LABEL": "Visibilidad ng Teksto",
+    "MENU_TEXT_DESC": "Nagsa-\"Swap\" ng pagkakakitaan ng teksto ng dalawang card",
     "MENU_COLOR_LABEL": "Font Color",
     "MENU_COLOR_DESC": "\"Pinagpapalit\" ang kulay ng font ng dalawang cards",
     "MENU_MORPH_LABEL": "Morph",
@@ -14,7 +14,6 @@
     "MENU_BG_LABEL": "Mga Background",
     "MENU_BG_DESC": "\"Pinagpapalit\" ang \"Backgrounds\" ng dalawang 3D",
     "PROVIDE_CODES": "{{author}} Tamang pag-gamit: `{{prefix}}swap <Code1><Code2>`",
-    "INAVLID_CODE2": "{{author}} Isa o higit pa sa card codes na iyong ibinigay ay hindi wasto o wala sa iyong koleksyon",
     "NO_GIF": "{{author}} Hindi ka pwedeng mag `Swap` ng cosmetics sa `GIF` card",
     "NO_COSMETICS": "{{author}} Ang card na iyan ay walang cosmetics para ma `Swap`",
     "MENU_FEATURES_PLACEHOLDER": "Pumili ng cosmetics na gusto mong i \"Swap\"",
@@ -25,5 +24,6 @@
     "MISSING_SWAP_TOKEN": "{{author}} Kailangan mong mag karon ng `Swap` para sa proseso na ito",
     "SUS_THING": "{{authorId}} ay gumawa ng kakaibang bagay sa swap....",
     "DOES_NOT_WORK": "Nakita ko kung ano ang ginagawa mo dito... pero hindi ito gumagana",
-    "SWAP_SUCCESSFULL": "Matagumpay na nai-`Swapped`ang napili na cosmetics"
+    "SWAP_SUCCESSFULL": "Matagumpay na nai-`Swapped`ang napili na cosmetics",
+    "INVAILD_CODE": "{{author}}Kahit isa sa mga code na ibinigay mo ay hindi wasto"
 }

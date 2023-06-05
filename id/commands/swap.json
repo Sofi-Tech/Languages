@@ -3,8 +3,8 @@
     "SWAP_CATEGORY": "Kosmetik",
     "MENU_FRAME_LABEL": "Bingkai",
     "MENU_FRAME_DESC": "\"Swap\" itu \"Frame\" dari dua kartu",
-    "MENU_TEXT_LABEL": "Togol Teks",
-    "MENU_TEXT_DESC": "Tukar teks antara dua kad",
+    "MENU_TEXT_LABEL": "Visibilitas Teks",
+    "MENU_TEXT_DESC": "\"Swap\" visibilitas teks dari dua kartu",
     "MENU_COLOR_LABEL": "Warna Font",
     "MENU_COLOR_DESC": "\"Swap\" warna font dari dua kartu",
     "MENU_MORPH_LABEL": "Morph",
@@ -14,7 +14,6 @@
     "MENU_BG_LABEL": "Latar Belakang",
     "MENU_BG_DESC": "\"Swap\" itu \"Background\" dari dua 3D",
     "PROVIDE_CODES": "{{author}} Penggunaan yang benar: `{{prefix}}swap <Kode1> <Kode2>`",
-    "INAVLID_CODE2": "{{author}} Setidaknya salah satu kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "NO_GIF": "{{author}} Anda tidak dapat `Swap` kosmetik dengan kartu `GIF`",
     "NO_COSMETICS": "{{author}} Kartu Anda tidak memiliki kosmetik apa pun untuk `Swapp`",
     "MENU_FEATURES_PLACEHOLDER": "Pilih kosmetik mana yang ingin Anda \"Swap\"",
@@ -24,6 +23,7 @@
     "SWAPS_CHOSEN": "Anda telah memilih untuk `Swap` kosmetik berikut ini:",
     "MISSING_SWAP_TOKEN": "{{author}} Anda harus memiliki `Swap` untuk proses ini",
     "SUS_THING": "{{authorId}} melakukan sesuatu dengan sus swap....",
-    "DOES_NOT_WORK": "Saya faham apa yang anda cuba di sini.. tetapi ia tidak berfungsi",
-    "SWAP_SUCCESSFULL": "Kosmetik yang dipilih berhasil `Swapped`"
+    "DOES_NOT_WORK": "{{author}} Anda tidak boleh mencoba mengeksploitasi, jika Anda menemukan bug yang dapat dieksploitasi, harap laporkan ke Staf Sofi secara langsung!",
+    "SWAP_SUCCESSFULL": "Kosmetik yang dipilih berhasil `Swapped`",
+    "INVAILD_CODE": "{{author}} Setidaknya salah satu kode yang Anda berikan tidak valid"
 }

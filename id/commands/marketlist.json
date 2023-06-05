@@ -4,12 +4,13 @@
     "INVALID_GEM_RATE": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
     "GEM_RATE_LIES": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
     "ALREADY_EXISTS": "{{author}} Anda sudah memiliki kesepakatan yang sudah ada!\nGunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapusnya, sebelum mendaftarkan transaksi yang baru",
-    "PRODUCTS": "Anda menawarkan:",
+    "PRODUCTS": "Daftar Anda:",
     "RATE": "Harga:",
-    "VALUE": "Nilai:",
+    "VALUE": "Potensi pengembalian:",
     "CONFIRM_ASK": "Apakah Anda yakin ingin mendaftarkan transaksi ini ke pasar?",
-    "CANCELLED": "Proses pembakaran massal dibatalkan",
-    "NOT_ENOUGH_CANCEL": "Dibatalkan karena kurangnya wists",
+    "CANCELLED": "DIBATALKAN",
+    "NOT_ENOUGH_CANCEL": "Anda mencoba mendaftarkan lebih banyak `Wists` daripada yang Anda miliki",
     "SUCCESS": "Penawaran Anda telah berhasil didaftarkan",
-    "SUCCESS_FOOTER": "Menambahkan penawaran ke pasar"
+    "SUCCESS_FOOTER": "Menambahkan penawaran ke pasar",
+    "EMBED_TITLE": "DAFTAR PASAR SOFI:"
 }

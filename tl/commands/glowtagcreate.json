@@ -1,8 +1,8 @@
 {
     "GTC_DESCRIPTION": "Gumawa ng \"Glow Tag\"",
     "GTC_CATEGORY": "Mga Tag",
-    "CORRECT_USAGE": "{{author}}Tamang paggamit: `{{prefix}}gtc <tagname> <emoji>`",
+    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Ang emoji na iyan ay hindi wasto",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} `Glow Tag` na mayroong ganoong pangalan ay nagawa na",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Ang `Glow Tag` na mayroong ganiyang pangalan ay nagawa na",
     "CREATED_GLOWTAG": "{{author}} Nilikha ang `Glow Tag` na may pangalang: `{{tag}}` | {{emoji}}"
 }

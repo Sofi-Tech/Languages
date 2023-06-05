@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
     "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNg Wist>`",
-    "INVALID_DEAL_ID": "{{author}} Ang ibinigay mong Deal ID ay hindi wasto",
+    "INVALID_DEAL_ID": "{{author}} Hindi wasto ang ibinigay mong Deal ID",
     "CANNOT_PURCHASE": "{{user}} Hindi maaaring bilhin ang deal na iyon",
     "CANNOT_SELF": "{{user}} Hindi mo maaaring bilihin ang iyong sariling deal",
     "WIST_NOT_EXCEED": "{{author}} Ang deal na ito ay merong {{amount}} `Wist` na natitira para bilhin",
