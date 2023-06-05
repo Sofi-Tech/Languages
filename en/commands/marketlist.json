@@ -6,7 +6,7 @@
     "ALREADY_EXISTS": "{{author}} You already have an existing deal!\nUse the command `{{prefix}}mul {{dealID}}` to remove it, before listing a new one",
     "PRODUCTS": "You list:",
     "RATE": "Rate:",
-    "VALUE": "Potential return:",
+    "VALUE": "Total Value:",
     "EMBED_TITLE": "SOFI MARKET LIST:",
     "CONFIRM_ASK": "Are you sure you want to list this deal to the market?",
     "CANCELLED": "CANCELLED",
