@@ -7,9 +7,9 @@
     "CANNOT_FIND_CARD": "That character no longer exists!",
     "CANNOT_TOGGLE": "{{author}} You cannot toggle the text of \"3D\" or \"GIF\" cards",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-    "TT_CONFIRMATION": "Are you sure you want to **{{toggleInfo}}** this card's text\nThis process will cost **1000** <:_:915619222229512213>",
-    "TOGGLE_INFO_ADD": "enable",
-    "TOGGLE_INFO_REMOVE": "disable",
+    "TT_CONFIRMATION": "Are you sure you want to **{{toggleInfo}}**\nThis process will cost **1000** <:_:915619222229512213>",
+    "TOGGLE_INFO_ADD": "add text to the card",
+    "TOGGLE_INFO_REMOVE": "remove text from the card",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
     "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
     "TT_SUCCESSFULL": "This card's text has been disabled"
