@@ -12,7 +12,7 @@
     "PROCESS_COST": "Removing a `Background` costs you **1** `Wist` and will return that `Background` to your `Inventory`",
     "COSMETICS": "COSMETICS",
     "NOT_ENOUGH_WIST": "You don't have enough `Wists` to remove this `Background`",
-    "NO_OWNER": "{{author}} The card no longer belongs to you",
+    "NO_OWNER": "{{author}} This card is no longer in your collection",
     "NO_BG_APPLIED": "{{author}} That card has no `Background` applied to it",
     "UNDO_BACKGROUND_SUCCESS": "The `Background` has successfully been removed and returned to your `Inventory`"
 }
