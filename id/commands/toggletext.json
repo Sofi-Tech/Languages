@@ -1,14 +1,16 @@
 {
-    "TT_DESCRIPTION": "Hapus teks dari kartu",
+    "TT_DESCRIPTION": "Mengaktifkan visibilitas teks kartu",
     "TT_CATEGORY": "Kecantikan",
-    "PROVIDE_CARD_CODE": "{{author}}, berikan kode kartu",
-    "INAVLID_CARD_CODE": "Kode kartu yang diberikan tidak valid",
-    "INVALID_CODE": "Tidak dapat menemukan kartu terakhir Anda atau coba berikan kode kartu",
-    "CANNOT_FIND_CARD": "Kesalahan! mencari kartu",
-    "CANNOT_TOGGLE": "{{author}} tidak dapat mengalihkan teks untuk kartu gif atau 3d",
+    "PROVIDE_CARD_CODE": "{{author}} Penggunaan yang benar: `{{prefix}}tt <KodeKartu>`",
+    "INAVLID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid",
+    "INVALID_CODE": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi Anda",
+    "CANNOT_FIND_CARD": "Karakter itu sudah tidak ada lagi!",
+    "CANNOT_TOGGLE": "{{author}} Anda tidak dapat mengganti teks kartu \"3D\" atau \"GIF\"",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-    "TT_CONFIRMATION": "Apakah Anda yakin ingin {{toggleInfo}}\nProses ini akan memakan biaya 1000 <:_:915619222229512213>",
-    "NO_OWNER": "{{author}}Kartu tersebut bukan lagi milik anda",
-    "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup jumlah perak",
-    "TT_SUCCESSFULL": "Berhasil menghapus Teks"
+    "TT_CONFIRMATION": "Apakah Anda yakin ingin **{{toggleInfo}}** teks kartu ini\nProses ini akan dikenakan biaya **1000** <:_:915619222229512213>",
+    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi Anda",
+    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
+    "TT_SUCCESSFULL": "Teks pada kartu ini telah dinonaktifkan",
+    "TOGGLE_INFO_ADD": "aktifkan",
+    "TOGGLE_INFO_REMOVE": "nonaktifkan"
 }

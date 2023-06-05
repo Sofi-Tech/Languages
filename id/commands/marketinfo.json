@@ -3,11 +3,12 @@
     "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda salah",
     "TRADER": "Pedagang",
     "DEAL_ID": "ID Transaksi",
-    "PRODUCT": "Anda mendapatkan:test3",
+    "PRODUCT": "Produk",
     "VALUE": "Nilai",
     "RATE": "Harga",
     "LISTED": "Terdaftar",
     "NO_LISTINGS_FOUND": "{{user}} Anda tidak memiliki daftar di pasar",
     "INFO": "Gunakan perintah `{{prefix}}mul <ID>` untuk menghapus daftar transaksi Anda saat ini\n**Hanya satu transaksi yang dapat didaftarkan dalam satu waktu**",
-    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!"
+    "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!",
+    "EMBED_TITLE": "DAFTAR ANDA:"
 }
