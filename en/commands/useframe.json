@@ -9,7 +9,7 @@
     "EMBED_TITLE": "Apply Frame:",
     "UF_CONFIRMATION": "You are about to apply {{frameName}}\nYour card will look as below\n",
     "EMBED_FOOTER": "The card is framed. Use undoframe command to get the applied frame back in inventory",
-    "NO_OWNER": "{{author}} The card no longer belongs to you",
+    "NO_OWNER": "{{author}} This card is no longer in your collection",
     "FRAME_NOT_FOUND": "You don't have that frame",
     "UF_SUCCESSFULL": "SUCCESS"
 }
