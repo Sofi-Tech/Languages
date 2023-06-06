@@ -3,8 +3,8 @@
     "SWAP_CATEGORY": "Cosméticos",
     "MENU_FRAME_LABEL": "Marco",
     "MENU_FRAME_DESC": "\"Swaps\" los \"Frames\" de dos cartas",
-    "MENU_TEXT_LABEL": "Alternar texto",
-    "MENU_TEXT_DESC": "Alternar texto entre tarjetas",
+    "MENU_TEXT_LABEL": "Visibilidad del texto",
+    "MENU_TEXT_DESC": "\"Swaps\" la visibilidad del texto de dos cartas",
     "MENU_COLOR_LABEL": "Color de fuente",
     "MENU_COLOR_DESC": "\"Swaps\" el color de la fuente de dos cartas",
     "MENU_MORPH_LABEL": "Morfología",
@@ -23,6 +23,7 @@
     "SWAPS_CHOSEN": "Has elegido `Swap` los siguientes cosméticos:",
     "MISSING_SWAP_TOKEN": "{{author}} necesitas tener un `Swap`para este proceso",
     "SUS_THING": "{{authorId}}, hizo algo sospechoso con el intercambio...",
-    "DOES_NOT_WORK": "Veo lo que estás intentando aquí... pero no funciona",
-    "SWAP_SUCCESSFULL": "El `Swapped` a los objetos seleccionados fue exitoso"
+    "DOES_NOT_WORK": "{{author}} No debe intentar explotar errores, si encuentra algún error explotable, infórmelo directamente al personal de Sofi.",
+    "SWAP_SUCCESSFULL": "El `Swapped` a los objetos seleccionados fue exitoso",
+    "INVAILD_CODE": "{{author}} Al menos uno de los códigos proporcionados es inválido"
 }

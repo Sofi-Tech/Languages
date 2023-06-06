@@ -5,11 +5,12 @@
     "GEM_RATE_LIES": "{{user}} Kailangan mong mag lagay ng numbero na papagitan sa **3.0** & **20.0**!",
     "ALREADY_EXISTS": "{{author}} Mayroon kang kasalukuyang deal!\nGamitin ang command `{{prefix}}mul{{dealID}}` para maalis ito, bago mag lista ng bagong deal",
     "PRODUCTS": "Lista mo:",
-    "RATE": "Rate:",
-    "VALUE": "Inaasahang kapalit:",
+    "RATE": "Porsyento:",
+    "VALUE": "Kabuuang Halaga:",
     "CONFIRM_ASK": "Sigurado ka ba na gusto mong i lista ang deal sa market?",
     "CANCELLED": "NAKANSELA",
     "NOT_ENOUGH_CANCEL": "Sinusubukan mong ilista ang higit pang mga 'Wists' kaysa sa meron ka",
     "SUCCESS": "Ang iyong deal ay matagumpay na nailista",
-    "SUCCESS_FOOTER": "Nailagay ang deal sa merkado"
+    "SUCCESS_FOOTER": "Nailagay ang deal sa merkado",
+    "EMBED_TITLE": "LISTAHAN NG MERKADO SA SOFI:"
 }

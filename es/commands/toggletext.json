@@ -1,14 +1,16 @@
 {
-    "TT_DESCRIPTION": "Eliminar texto de la tarjeta",
+    "TT_DESCRIPTION": "Alterna la visibilidad del texto de una tarjeta",
     "TT_CATEGORY": "Cosméticos",
-    "PROVIDE_CARD_CODE": "{{author}}, proporciona el código de tarjeta",
-    "INAVLID_CARD_CODE": "Código de tarjeta inválido proporcionado",
-    "INVALID_CODE": "No se puede encontrar tu última tarjeta o intenta proporcionar un código de tarjeta",
-    "CANNOT_FIND_CARD": "Error! al encontrar la tarjeta",
-    "CANNOT_TOGGLE": "{{author}} no puede alternar el texto para las tarjetas de gif o 3d",
+    "PROVIDE_CARD_CODE": "{{author}} Uso correcto: `{{prefix}}tt <CardCode>`",
+    "INAVLID_CARD_CODE": "{{author}} El código de carta proporcionado es inválido",
+    "INVALID_CODE": "{{author}} Aún no tienes ninguna carta en tu colección",
+    "CANNOT_FIND_CARD": "Ese personaje no existe!",
+    "CANNOT_TOGGLE": "{{author}} No puede alternar el texto para las cartas \"3D\" o \"GIF\"",
     "EMBED_TITLE": "SOFI: ALTERNAR TEXTO",
-    "TT_CONFIRMATION": "¿Está seguro de que desea {{toggleInfo}}\nEl proceso costará 1000 <:_:915619222229512213>",
+    "TT_CONFIRMATION": "Estás seguro que quieres **{{toggleInfo}}**\nEste proceso costará **1000** <:_:915619222229512213>",
     "NO_OWNER": "{{author}} La carta ya no te pertenece",
-    "NOT_ENOUGH_SILVERS": "No tienes suficiente cantidad de platas",
-    "TT_SUCCESSFULL": "Texto eliminado exitosamente"
+    "NOT_ENOUGH_SILVERS": "{{author}} No tienes suficientes`Silver` para este proceso",
+    "TT_SUCCESSFULL": "El texto de esta card ha sido deshabilitado",
+    "TOGGLE_INFO_ADD": "Añade texto a esa carta",
+    "TOGGLE_INFO_REMOVE": "Quita el texto de esa carta"
 }

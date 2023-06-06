@@ -1,13 +1,13 @@
 {
     "DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
     "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNg Wist>`",
-    "INVALID_DEAL_ID": "{{author}} Hindi wasto ang ibinigay mong Deal ID",
+    "INVALID_DEAL_ID": "{{author}} Ang Deal ID na ibinigay mo ay hindi wasto",
     "CANNOT_PURCHASE": "{{user}} Hindi maaaring bilhin ang deal na iyon",
-    "CANNOT_SELF": "{{user}} Hindi mo maaaring bilihin ang iyong sariling deal",
+    "CANNOT_SELF": "{{user}} Hindi ka maaaring makipag-ugnayan sa iyong sariling deal",
     "WIST_NOT_EXCEED": "{{author}} Ang deal na ito ay merong {{amount}} `Wist` na natitira para bilhin",
-    "PRODUCT": "Nakukuha mo:test",
-    "VALUE": "Halaga",
-    "RATE": "Rate",
+    "PRODUCT": "Nakuha mo:",
+    "VALUE": "Halaga:",
+    "RATE": "Porsyento:",
     "CONFIRM_ASK": "Sigurado ka bang gusto mong iconfirm ang transaksyon na ito?",
     "ALREADY_IN_PURCHASE": "{{author}} Ikansela o iproceed ang iyong dating transaksyon bago ka mag simula ng panibago!",
     "CANCELLED": "Sinusubukan mong mag lista ng mga `Wist` na hindi sapat sa meron ka! ",
@@ -16,5 +16,6 @@
     "MISSING_GEMS": "Ikaw ay may kulang na {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "May mali. Subukang muli",
     "PURCHASE_SUCCESSFUL": "Matagumpay na naisagawa ang transaksyon",
-    "SUCCESS": "{{wistAmount}} `Wists` ay nabili para sa **{{gemPrice}}** `Gems`!| Deal ID: {{dealId}}"
+    "SUCCESS": "{{wistAmount}} `Wists` ay nabili para sa **{{gemPrice}}** `Gems`!| Deal ID: {{dealId}}",
+    "EMBED_TITLE": "LISTAHAN NG MERKADO SA SOFI:"
 }

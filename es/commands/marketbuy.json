@@ -5,8 +5,8 @@
     "CANNOT_PURCHASE": "{{user}} No puedes comprar esa oferta",
     "CANNOT_SELF": "{{user}} No puedes comprar tu propia oferta",
     "WIST_NOT_EXCEED": "{{author}} A esta oferta solo le quedan {{amount}}`Wists`restantes para comprar",
-    "PRODUCT": "Tu obtienes:pruebq 1",
-    "VALUE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
+    "PRODUCT": "Tu recibes:",
+    "VALUE": "Tú pagas:",
     "RATE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
     "CONFIRM_ASK": "¿Está seguro de que deseas confirmar esta transacción?",
     "ALREADY_IN_PURCHASE": "{{author}} Cancela o finaliza tu transsacción previa para poder comenzar con una nueva!",
@@ -16,5 +16,6 @@
     "MISSING_GEMS": "Te faltan {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "Algo salió mal. Inténtalo de nuevo",
     "PURCHASE_SUCCESSFUL": "La transacción se realizó con éxito",
-    "SUCCESS": "Se compraron {{wistAmount}} `Wists` por **{{gemPrice}}** `Gems`! | ID de oferta: {{dealId}}"
+    "SUCCESS": "Se compraron {{wistAmount}} `Wists` por **{{gemPrice}}** `Gems`! | ID de oferta: {{dealId}}",
+    "EMBED_TITLE": "LIDTA DE MERCADO DE SOFI:"
 }

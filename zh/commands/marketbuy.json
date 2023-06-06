@@ -16,5 +16,6 @@
     "MISSING_GEMS": "您缺少{{gemPrice}}宝石",
     "SOMETHING_WRONG": "出了些问题。请重试",
     "PURCHASE_SUCCESSFUL": "购买成功",
-    "SUCCESS": "成功购买{{gemPrice}}宝石的{{wistAmount}} Wists | Deal ID：{{dealId}}"
+    "SUCCESS": "成功购买{{gemPrice}}宝石的{{wistAmount}} Wists | Deal ID：{{dealId}}",
+    "EMBED_TITLE": "Sofi 的市场清单："
 }

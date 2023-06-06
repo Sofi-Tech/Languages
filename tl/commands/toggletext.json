@@ -1,14 +1,16 @@
 {
-    "TT_DESCRIPTION": "Tanggalin ang teksto mula sa card",
+    "TT_DESCRIPTION": "Tinatanggal ang bisibilidad ng text sa isang card",
     "TT_CATEGORY": "Kagandahan",
-    "PROVIDE_CARD_CODE": "{{author}}, magbigay ng card code",
-    "INAVLID_CARD_CODE": "Hindi wastong card code na binigay",
-    "INVALID_CODE": "Hindi makita ang huling card o subukan magbigay ng card code",
-    "CANNOT_FIND_CARD": "Error! paghahanap ng card",
-    "CANNOT_TOGGLE": "Hindi kayang mag-toggle si {{author}} ng teksto para sa gif o 3d cards",
+    "PROVIDE_CARD_CODE": "{{author}} Tamang pag-gamit: `{{prefix}}tt <CardCode>`",
+    "INAVLID_CARD_CODE": "{{author}} Ang card code na iyong ibinigay ay hindi wasto",
+    "INVALID_CODE": "{{author}} Wala ka pa ngang anumang mga card sa iyong koleksyon",
+    "CANNOT_FIND_CARD": "Ang karakter na iyan ay hindi na nag e-exists!",
+    "CANNOT_TOGGLE": "{{author}} Hindi mo maaaring tanggalin ang texto ng isang \"3D\" o \"GIF\" na cards",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-    "TT_CONFIRMATION": "Sigurado ka bang gusto mong {{toggleInfo}}? \nAng prosesong ito ay magkakahalaga ng 1000 <:_:915619222229512213>",
-    "NO_OWNER": "{{author}} Ang card na iyan ay hindi mo na pag mamay-ari",
-    "NOT_ENOUGH_SILVERS": "Hindi ka may sapat na bilang ng mga pilak",
-    "TT_SUCCESSFULL": "Matagumpay na natanggal ang teksto"
+    "TT_CONFIRMATION": "Sigurado ka bang gusto mong **{{toggleInfo}}**\nAng prosesong ito ay magkakahalaga ng **1000**<:_:915619222229512213>",
+    "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
+    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
+    "TT_SUCCESSFULL": "Ang texto ng card na ito ay natanggal na",
+    "TOGGLE_INFO_ADD": "Nag lalagay ng texto sa card",
+    "TOGGLE_INFO_REMOVE": "Nag tatanggal ng texto sa card"
 }

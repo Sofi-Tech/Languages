@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Muestra una lista con jugadores que poseen \"Fragments\"",
+    "DESCRIPTION": "Lista de los \"Fragmentos\" disponibles de un usuario",
     "COLLECTION_PVT": "{{author}} Los `Fragment`de este usuario son privados!",
     "CANNOT_FIND_FRAGS": "{{user}} No se pudo encontrar ningun `Fragments`en el inventario",
     "FRAGS_COUNT": "Cantidad de `Fragment`: {{totalCount}}",

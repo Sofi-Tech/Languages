@@ -1,9 +1,9 @@
 {
     "UM_DESCRIPTION": "Remove morph from the card",
     "UM_CATEGORY": "Cosmetics",
-    "INVALID_USAGE": "Provide valid cardcode",
-    "INVALID_CODE": "Invalid code provided",
-    "NO_CHARACTER": "No character found",
+    "INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
+    "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
+    "NO_CHARACTER": "No character found test",
     "NO_GIF": "{{author}} cosmetics command do not apply to gif cards",
     "NOT_MORPHED": "{{author}} The card is not morphed",
     "EMBED_TITLE": "Undo Morph",
