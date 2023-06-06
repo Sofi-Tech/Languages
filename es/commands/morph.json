@@ -6,7 +6,7 @@
     "CONTINUE": "¿Quieres transformar esta carta?",
     "MORPH_CONFIRMATION": "{{author}} estás punto de hacer `Morph`a la carta`{{code}}` por **350** `Silver`",
     "CANCELLED": "{{author}} cancelaste la transacción",
-    "NOT_ENOUGH_SILVERS": "{{author}} no tienes suficientes `Silver`para realizar este proceso",
+    "NOT_ENOUGH_SILVERS": "{{author}} No tienes suficientes`Silver` para este proceso",
     "BALANCE": "Saldo : **{{amount}}** `Silver`",
     "NAME": "Nombre: `{{name}}`",
     "UNDO": "`Morphs` restablecidos: `  {{count}}  `",
