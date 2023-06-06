@@ -7,10 +7,10 @@
     "CANNOT_FIND_CARD": "Karakter itu sudah tidak ada lagi!",
     "CANNOT_TOGGLE": "{{author}} Anda tidak dapat mengganti teks kartu \"3D\" atau \"GIF\"",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-    "TT_CONFIRMATION": "Apakah Anda yakin ingin **{{toggleInfo}}** teks kartu ini\nProses ini akan dikenakan biaya **1000** <:_:915619222229512213>",
+    "TT_CONFIRMATION": "Apakah Anda yakin ingin **{{toggleInfo}}**\nProses ini akan dikenakan biaya **1000** <:_:915619222229512213>",
     "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi Anda",
     "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
     "TT_SUCCESSFULL": "Teks pada kartu ini telah dinonaktifkan",
-    "TOGGLE_INFO_ADD": "aktifkan",
-    "TOGGLE_INFO_REMOVE": "nonaktifkan"
+    "TOGGLE_INFO_ADD": "tambahkan teks pada kartu",
+    "TOGGLE_INFO_REMOVE": "hapus teks dari kartu"
 }
