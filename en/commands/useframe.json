@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Use the frame you bought on cards",
+    "UF_DESCRIPTION": "Applies a \"Frame\" to your card",
     "UF_CATEGORY": "Cosmetics",
-    "INVALID_USAGE": "suf <code> <framename/framecode>",
+    "INVALID_USAGE": "Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
-    "CANNOT_APPLY": "You cannot apply frames to 3D cards",
-    "NO_GIF": "{{author}} gif cards cannot be framed",
-    "NO_FRAMES_FOUND": "{{author}} No frames found",
-    "EMBED_TITLE": "Apply Frame:",
-    "UF_CONFIRMATION": "You are about to apply {{frameName}}\nYour card will look as below\n",
-    "EMBED_FOOTER": "The card is framed. Use undoframe command to get the applied frame back in inventory",
+    "CANNOT_APPLY": "{{author}} You cannot apply a `Frame` to a `3D` card",
+    "NO_GIF": "{{author}} You cannot apply a `Frame` to a `GIF` card",
+    "NO_FRAMES_FOUND": "{{author}} That `Frame` code is either invalid or not in your `Inventory`",
+    "EMBED_TITLE": "APPLY FRAME:",
+    "UF_CONFIRMATION": "You are about to apply the `Frame` **{{frameName}}** to this card",
+    "EMBED_FOOTER": "This card already has a `Frame` applied to it. Applying another one will destroy the previous one!",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "FRAME_NOT_FOUND": "You don't have that frame",
-    "UF_SUCCESSFULL": "SUCCESS"
+    "FRAME_NOT_FOUND": "{{author}} You are missing a {{frameName}} `Frame`",
+    "UF_SUCCESSFULL": "The `Frame` was successfully applied"
 }

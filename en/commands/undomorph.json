@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "Remove morph from the card",
+    "UM_DESCRIPTION": "Removes the \"Morph\" of a card",
     "UM_CATEGORY": "Cosmetics",
     "INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
-    "NO_CHARACTER": "No character found test",
-    "NO_GIF": "{{author}} cosmetics command do not apply to gif cards",
-    "NOT_MORPHED": "{{author}} The card is not morphed",
-    "EMBED_TITLE": "Undo Morph",
-    "UM_CONFIRMATION": "You are about to remove morph from your card\nYour card will look as below\nThe process will cost 100 silvers",
+    "NO_CHARACTER": "[[author}} That character no longer exists!",
+    "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
+    "NOT_MORPHED": "{{author}} That card has no `Morph` applied to it",
+    "EMBED_TITLE": "REMOVE MORPH",
+    "UM_CONFIRMATION": "Are you sure you want to remove this card's `Morph?\nThis process will cost **100** `Silver`",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "SOMETHING_WENT_WRONG": "Something terribly went wrong.. <:sofi_cry:1008533719092559914>",
-    "NOT_ENOUGH_SILVERS": "You don't have enough silvers for removing the morph",
-    "UM_SUCCESSFULL": "The morph was successfully removed"
+    "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, try again",
+    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
+    "UM_SUCCESSFULL": "The `Morph` was successfully removed"
 }

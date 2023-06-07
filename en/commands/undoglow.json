@@ -3,13 +3,13 @@
     "UNG_CATEGORY": "Cosmetics",
     "INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
-    "NO_CHARACTER": "No character found test",
-    "NO_GIF": "{{author}} cosmetics command do not apply to gif cards",
-    "NOT_GLOWED": "{{author}} The card has no glow",
-    "EMBED_TITLE": "Remove Glow",
-    "UNG_CONFIRMATION": "You are about to remove glow from your card\nYour card will look as below\nThe process will cost 100 silvers",
-    "EMBED_FOOTER": "The glow will be removed and will not return in your inventory",
+    "NO_CHARACTER": "[[author}} That character no longer exists!",
+    "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
+    "NOT_GLOWED": "{{author}} That card has no `Glow` applied to it",
+    "EMBED_TITLE": "REMOVE GLOW",
+    "UNG_CONFIRMATION": "Are you sure you want to remove this card's `Glow`?\nThis process will cost **100** `Silver`",
+    "EMBED_FOOTER": "The removed `Glow` will not return to your `Inventory`",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "NOT_ENOUGH_SILVERS": "You don't have enough silvers for removing the glow",
-    "UNG_SUCCESSFULL": "The glow was successfully removed"
+    "NOT_ENOUGH_SILVERS": "[{author}} You don't have enough `Silver` for this process",
+    "UNG_SUCCESSFULL": "The `Glow` was successfully removed"
 }

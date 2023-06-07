@@ -6,7 +6,7 @@
     "CONTINUE": "Do you want to morph this card?",
     "MORPH_CONFIRMATION": "{{author}} You are about to `Morph` the card `{{code}}` for **350** `Silver`",
     "CANCELLED": "{{author}} You cancelled the transaction",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
+    "NOT_ENOUGH_SILVERS": "[{author}} You don't have enough `Silver` for this process",
     "BALANCE": "Balance: **{{amount}}** `Silver`",
     "NAME": "Name: `{{name}}`",
     "UNDO": "`Morphs` restored: `  {{count}}  `",

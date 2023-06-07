@@ -5,8 +5,8 @@
     "APPLY_3D_CARDS": "{{author}} Anda tidak dapat memasangkan `Background` ke kartu non-3D",
     "BG_NOT_FOUND": "Tidak dapat menemukan `Background` dengan ID tersebut",
     "EMBED_TITLE": "Memasangkan Background:",
-    "EMBED_DESCRIPTION": "Anda akan memasangkan `Background` **{{background}}**",
+    "EMBED_DESCRIPTION": "Anda akan memasangkan `Background` **{{background}}** ke kartu ini",
     "USER_NO_BG": "Anda tidak memiliki `Background` itu",
-    "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid",
+    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi Anda",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <BackgroundID>`"
 }

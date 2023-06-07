@@ -8,9 +8,9 @@
     "PROVIDE_GLOW_NAME": "{{author}} Вам необходимо указать имя для этого `Glow`",
     "GLOW_NAME_LONG": "{{author}} Названия для `Glow` могут содержать не больше 25 символов",
     "GLOW_NAME_EXISTS": "{{author}} Указанное вами название для `Glow` уже кем-то занято",
-    "EMBED_TITLE": "SOFI: ИМЯ СВЕЧЕНИЯ",
+    "EMBED_TITLE": "SOFI: GLOW ИМЯ",
     "GLOWNAME_CHANGE_CONFIRMATION": "Вы уверены, что хотите изменить `{{oldName}}` на `{{newName}}`?",
-    "EMBED_FOOTER": "Свечение: {{availability}}",
+    "EMBED_FOOTER": "Glow: {{availability}}",
     "MISSING_ITEMS": "У вас недостаточно валюты для этого процесса",
     "GLOWNAME_CHANGE_SUCCESSFUL": "Имя \"Glow\" успешно изменено"
 }
