@@ -11,6 +11,6 @@
     "TOGGLE_INFO_ADD": "add text to the card",
     "TOGGLE_INFO_REMOVE": "remove text from the card",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "NOT_ENOUGH_SILVERS": "[{author}} You don't have enough `Silver` for this process",
+    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
     "TT_SUCCESSFULL": "This card's text has been disabled"
 }
