@@ -8,8 +8,8 @@
     "NO_FRAMES_FOUND": "{{author}} Quel codice `Frame` non è valido o non è nel tuo `Inventory`",
     "EMBED_TITLE": "APPLICA CORNICE:",
     "UF_CONFIRMATION": "Stai per applicare il `Frame` **{{frameName}}** a questa carta",
-    "EMBED_FOOTER": "La carta è incorniciata. Usa il comando undoframe per riavere la cornice applicata nell'inventario",
+    "EMBED_FOOTER": "La carta possiede già un `Frame `. Applicarne un'altra distruggerà il precedente!",
     "NO_OWNER": "{{author}} La carta non ti appartiene più",
-    "FRAME_NOT_FOUND": "Non hai quella cornice",
-    "UF_SUCCESSFULL": "SUCCESSO"
+    "FRAME_NOT_FOUND": "{{author}} Non possiedi un **{{frameName}}** `Frame`",
+    "UF_SUCCESSFULL": "Il `Frame` è stato applicato con successo"
 }

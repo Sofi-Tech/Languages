@@ -12,9 +12,9 @@
     "MENU_GLOW_LABEL": "Bagliore",
     "MENU_GLOW_DESC": "Scambio di bagliore / superluce di due carte",
     "MENU_BG_LABEL": "Sfondi",
-    "MENU_BG_DESC": "Scambia sfondi di carte 3D",
-    "PROVIDE_CODES": "{{author}} devi fornire i codici della carta: sswap <code1> <code2>",
-    "NO_GIF": "{{author}} i cosmetici gif non possono essere scambiati",
+    "MENU_BG_DESC": "\"Scambia\" gli \"sfondi\" di duecarte 3D",
+    "PROVIDE_CODES": "{{author}} Uso corretto: ` {{prefix}}: sswap <code1> <code2> `",
+    "NO_GIF": "{{author}} Non puoi`Swap` cosmetici con una carta`GIF`",
     "NO_COSMETICS": "{{author}} Le tue carte non hanno cosmetici da scambiare",
     "MENU_FEATURES_PLACEHOLDER": "Scegli le funzionalità da scambiare",
     "EMBED_TITLE": "SOFI: SERVIZIO DI SCAMBIO",
@@ -24,5 +24,6 @@
     "MISSING_SWAP_TOKEN": "{{author}} manca il token di scambio..",
     "SUS_THING": "{{authorId}} ha fatto una cosa sospetta con lo swap....",
     "DOES_NOT_WORK": "Vedo cosa stai cercando qui.. ma non funziona",
-    "SWAP_SUCCESSFULL": "Lo scambio è stato effettuato con successo"
+    "SWAP_SUCCESSFULL": "Lo scambio è stato effettuato con successo",
+    "INVAILD_CODE": "{{author}} Almeno uno dei codici provveduti non è valido"
 }

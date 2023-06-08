@@ -3,7 +3,7 @@
     "GN_CATEGORY": "Cosmetics",
     "UNLOCK_GLOWS": "{{author}} Vous n'avez pas de `Glows`",
     "WRONG_USAGE": "{{author}} Usage correct: `{{prefix}}gn <CodeDeGlow> <NouveauNom>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} les codes de `Glow` commence toujours avec un **#**",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} les codes des `Glow` commencent toujours avec un **#**",
     "GLOW_NOT_FOUND": "{{author}} Le code de `Glow` que vous avez fourni est invalide ou n'est pas dans votre `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} Vous devez donner un nom à ce `Glow`",
     "GLOW_NAME_LONG": "{{author}} Les noms de `Glow` peuvent avoir un maximum de 25 caractères",

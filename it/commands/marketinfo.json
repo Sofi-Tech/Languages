@@ -9,5 +9,6 @@
     "LISTED": "Elencato",
     "NO_LISTINGS_FOUND": "{{user}} Non hai annunci sul mercato",
     "INFO": "Usa il comando `{{prefix}}mul <ID>` per annullare l'elenco delle offerte correnti\n**È possibile elencare un solo affare alla volta**",
-    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!"
+    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!",
+    "EMBED_TITLE": "I TUOI ELENCHI:"
 }

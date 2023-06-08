@@ -13,6 +13,6 @@
     "CARD_LOCKED": "Quella carta è bloccata e non può essere regalata! Usa il comando `{{prefix}}ut <CardCode>` per rimuovere il `Tag` di quella carta",
     "CARD_NOT_OWNED": "Non possiedi più la carta",
     "SUCCESS": "SUCCESSO",
-    "CANCELLED": "ANNULLATO",
+    "CANCELLED": "Il processo di bruciatura di massa è stata annullata",
     "GIVEN": "Mittente → Destinatario"
 }

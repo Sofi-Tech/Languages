@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Affiche les fragments animés disponibles",
-    "COLLECTION_PVT": "La collection privée de cet utilisateur est privée",
-    "CANNOT_FIND_FRAGS": "{{user}} ne peut trouver aucun fragment.",
-    "FRAGS_COUNT": "Nombre de fragments : {{totalCount}}",
+    "DESCRIPTION": "Affiche les \"Fragments\" disponibles d'un utilisateur",
+    "COLLECTION_PVT": "{{author}} Les `Fragments` de cet utiliisateur sont privés!",
+    "CANNOT_FIND_FRAGS": "{{user}} Impossible de trouver des `Fragments` pour cet utilisateur",
+    "FRAGS_COUNT": "Nombre de `Fragment`: {{totalCount}}",
     "FRAG_LIST": "Liste des fragments : {{userName}}"
 }

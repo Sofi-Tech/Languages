@@ -10,6 +10,6 @@
     "UNG_CONFIRMATION": "Sei sicuro di voler rimuovere il \"Bagliore\" di questa carta?\nQuesto processo costerà **100** `Silver`",
     "EMBED_FOOTER": "Il bagliore sarà rimosso e non tornerà nel tuo inventario",
     "NO_OWNER": "{{author}} La carta non ti appartiene più",
-    "NOT_ENOUGH_SILVERS": "Non hai abbastanza argenti per rimuovere il bagliore",
-    "UNG_SUCCESSFULL": "Il bagliore è stato rimosso con successo"
+    "NOT_ENOUGH_SILVERS": "{{author}} Non possiedi abbastanza `Silver` per questo processo",
+    "UNG_SUCCESSFULL": "Il `Glow` è stato rimosso con successo"
 }
