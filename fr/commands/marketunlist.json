@@ -3,6 +3,6 @@
     "CORRECT_USAGE": "{{user}} Veuillez fournir l'id de l'offre que vous souhaiter retirer ou utiliser la commande `smul all` pour retirer toutes les offres à la fois",
     "INVALID_DEAL_ID": "{{author}} L'id d'offre que vous avez fournis est invalide, ou n'est pas a vous",
     "SUCCESS_UL": "{{user}} L'offre `{{dealId}}` a été retiré avec succès du marché",
-    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez fait aucune offre sur le marché pour le moment",
+    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez publié aucune offre sur le marché pour le moment",
     "SUCCESS_UL_ALL": "{{user}} Un total de `{{totalDeals}}`offres ont été retirées avec succès du marché"
 }

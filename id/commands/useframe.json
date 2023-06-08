@@ -10,6 +10,6 @@
     "UF_CONFIRMATION": "Anda akan menerapkan `Frame` **{{frameName}}** ke kartu ini",
     "EMBED_FOOTER": "Kartu ini sudah memiliki `Frame` yang diterapkan padanya. Menerapkan kartu lain akan menghancurkan kartu sebelumnya!",
     "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi Anda",
-    "FRAME_NOT_FOUND": "Anda tidak memiliki bingkai tersebut",
+    "FRAME_NOT_FOUND": "{{author}} Anda tidak memiliki **{{frameName}}** `Frame`",
     "UF_SUCCESSFULL": "`Frame` berhasil dipasangkan"
 }

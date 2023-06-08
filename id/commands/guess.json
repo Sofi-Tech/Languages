@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Memulai permainan tebak kata",
     "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}tebak <Jumlah> <Mata Uang>`\nMata uang yang diterima: `Silver` `Wists` `Gems` `Cubes`",
-    "NO_TP": "{{message.author}} Anda tidak memiliki `Trade Pass` yang aktif. Gunakan perintah `sbump` untuk mengunjungi situs web dan menukarkan poin `Bump` Anda dengan satu",
+    "NO_TP": "{{message.author}} Anda tidak memiliki `Trade Pass` yang aktif. Gunakan perintah `{{prefix}}bump` untuk mengunjungi situs web dan menukarkan poin `Bump` Anda dengan satu",
     "NOT_ENOUGH_CURR": "{{user}} Anda tidak memiliki cukup `{{currency}}` untuk memulai permainan!",
     "INFO_1": "{{user}} telah memulai permainan Guess",
     "INFO_2": "Pemain harus memiliki `{{bet}} {{currency}}` untuk berpartisipasi",

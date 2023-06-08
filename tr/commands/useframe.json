@@ -10,6 +10,6 @@
     "UF_CONFIRMATION": "Bu karta `Frame` **{{frameName}}** uygulamak üzeresiniz",
     "EMBED_FOOTER": "Bu karta çoktan uygulanmış bir `Frame` var. Bir tane daha uygulamak bir öncekini yok edecek!",
     "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
-    "FRAME_NOT_FOUND": "O çerçeveye sahip değilsiniz",
+    "FRAME_NOT_FOUND": "{{author}} {{frameName}} `Frame`iniz yok",
     "UF_SUCCESSFULL": "`Frame` başarıyla uygulandı"
 }

@@ -1,15 +1,14 @@
 {
-  "DESCRIPTION": "Commencer une partie de devinette de mot",
-  "CORRECT_USAGE": "{{user}} Usage correct: {{prefix}}guess <montant> <monnaie>**\nMonnaies acceptées:`silvers` `wists` `gems` `cubes`",
-  "NO_TP": "{{message.author}} Vous n'avez pas de `Trade Pass`. Utilisez la commande `sbump` pour visiter le site et échanger vos point de `Bump` afin d'en acheter un",
-  "NOT_ENOUGH_CURR": "{{user}} Vous n'avez pas assez de `{{currency}}` pour commencer une partie!",
-  "INFO_1": "{{user}} a commencé un jeu de Devinette",
-  "INFO_2": "Les participants doivent avoir `{{bet}} {{currency}}`pour pouvoir participer",
-  "INFO_3": "Prix: `{{jackpot}}` {{currencyEmoji}}",
-
-  "FOOTER": "Réagisser avec 🍻 pour rejoindre | Le créateur de la partie peut la commencer en appuyant sur 🟢",
-  "REQ_MORE_PLAYERS": "{{user}} Vous avez besoin d'au moins 2 joueurs pour pouvoir commencer la partie",
-  "GUESS_THE_WORD": "Devinez le mot suivant: {{scrambledWord}}",
-  "CORRECT_GUESS": "{{winner}} a deviné le mot {{word}} et a gagné `{{jackpot}} {{currency}}`!",
-  "WRONG_USAGE": "{{author}} Usage correct: `{{prefix}}give <Utilisateur/IDutilisateur> <CodeDeCarte>`"
+    "DESCRIPTION": "Commencer une partie de devinette de mot",
+    "CORRECT_USAGE": "{{user}} Usage correct: {{prefix}}guess <Montant> <Monnaie>**\nMonnaies acceptées:`Silvers` `Wists` `Gems` `Cubes`",
+    "NO_TP": "{{message.author}} Vous n'avez pas de `Trade Pass`. Utilisez la commande `{{prefix}}bump` pour visiter le site et utiliser vos point de `Bump` afin d'en acheter un",
+    "NOT_ENOUGH_CURR": "{{user}} Vous n'avez pas assez de `{{currency}}` pour commencer une partie!",
+    "INFO_1": "{{user}} a commencé un jeu de Devinette",
+    "INFO_2": "Les participants doivent avoir `{{bet}} {{currency}}`pour pouvoir participer",
+    "INFO_3": "Prix: `{{jackpot}}` {{currencyEmoji}}",
+    "FOOTER": "Réagisser avec 🍻 pour rejoindre | Le créateur de la partie peut la commencer en appuyant sur 🟢",
+    "REQ_MORE_PLAYERS": "{{user}} Vous avez besoin d'au moins 2 joueurs pour pouvoir commencer la partie",
+    "GUESS_THE_WORD": "Devinez le mot suivant: {{scrambledWord}}",
+    "CORRECT_GUESS": "{{winner}} a deviné le mot {{word}} et a gagné `{{jackpot}} {{currency}}`!",
+    "WRONG_USAGE": "{{author}} Usage correct: `{{prefix}}give <Utilisateur/IDutilisateur> <CodeDeCarte>`"
 }

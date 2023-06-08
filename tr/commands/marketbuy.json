@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "\"Gems\" karşılığında pazardan \"Wists\" satın alır",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız Pazar IDsi geçersiz",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız Pazar ID'si geçersiz",
     "CANNOT_PURCHASE": "{{user}} Bu anlaşmadan ürün satın alınamıyor",
     "CANNOT_SELF": "{{user}} Kendi anlaşmanızla etkileşim kuramazsınız",
     "WIST_NOT_EXCEED": "{{author}} Bu anlaşmada satın alınacak yalnızca {{amount}} `Wists` kaldı",
@@ -17,5 +17,5 @@
     "SOMETHING_WRONG": "Bir şeyler yanlış gitti. Yeniden deneyin",
     "PURCHASE_SUCCESSFUL": "İşlem başarılı oldu",
     "SUCCESS": "{{wistAmount}} `Wists` **{{gemPrice}}** `Gems` karşılığında satın alındı! | Anlaşma Kimliği: {{dealId}}",
-    "EMBED_TITLE": "SOFI MARKET LİSTESİ:"
+    "EMBED_TITLE": "SOFI MARKETİ:"
 }

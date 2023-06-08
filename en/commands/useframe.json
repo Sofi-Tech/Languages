@@ -10,6 +10,6 @@
     "UF_CONFIRMATION": "You are about to apply the `Frame` **{{frameName}}** to this card",
     "EMBED_FOOTER": "This card already has a `Frame` applied to it. Applying another one will destroy the previous one!",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "FRAME_NOT_FOUND": "{{author}} You are missing a {{frameName}} `Frame`",
+    "FRAME_NOT_FOUND": "{{author}} You dont have a **{{frameName}}** `Frame`",
     "UF_SUCCESSFULL": "The `Frame` was successfully applied"
 }
