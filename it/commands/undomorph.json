@@ -9,7 +9,7 @@
     "EMBED_TITLE": "RIMUOVERE MORPH",
     "UM_CONFIRMATION": "Sei sicuro di voler rimuovere la `Morph` di questa carta?\nQuesto processo costerà **100** `Silver`",
     "NO_OWNER": "{{author}} La carta non ti appartiene più",
-    "SOMETHING_WENT_WRONG": "Qualcosa è andato terribilmente storto... <:sofi_cry:1008533719092559914>",
-    "NOT_ENOUGH_SILVERS": "Non hai abbastanza argenti per rimuovere il morph",
-    "UM_SUCCESSFULL": "Il morph è stato rimosso con successo"
+    "SOMETHING_WENT_WRONG": "{{author}}  Qualcosa è andato storto riprova più tardi",
+    "NOT_ENOUGH_SILVERS": "{{author}} Non possiedi abbastanza `Silver` per questo processo",
+    "UM_SUCCESSFULL": "Il `Morph` è stato rimosso con successo"
 }
