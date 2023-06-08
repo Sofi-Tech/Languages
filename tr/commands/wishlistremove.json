@@ -4,5 +4,5 @@
     "NO_INDEX": "İsim veya numara belirtilmedi! Tüm istek listeni temizlemek için `swr full reset` komutunu kullan",
     "FULL_RESET": "> {{author}} İstek listenden **__{{total}}__** karakter çıkardın",
     "REMOVE_CHARACTER": "> {{author}} **{{name}}** istek listenden çıkarıldı",
-    "NO_RESULTS": "{{author}} **{{name}}** için sonuç bulunamadı"
+    "NO_RESULTS": "{{author}} İstek listenizde **\"{{name}}\"** bulunamadı"
 }

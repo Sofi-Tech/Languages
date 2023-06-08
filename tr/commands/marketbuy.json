@@ -1,13 +1,13 @@
 {
     "DESCRIPTION": "\"Gems\" karşılığında pazardan \"Wists\" satın alır",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız Pazar ID si geçersiz",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız Pazar IDsi geçersiz",
     "CANNOT_PURCHASE": "{{user}} Bu anlaşmadan ürün satın alınamıyor",
-    "CANNOT_SELF": "{{user}} Kendi anlaşmanızdan satın alım yapamazsınız",
+    "CANNOT_SELF": "{{user}} Kendi anlaşmanızla etkileşim kuramazsınız",
     "WIST_NOT_EXCEED": "{{author}} Bu anlaşmada satın alınacak yalnızca {{amount}} `Wists` kaldı",
-    "PRODUCT": "Alırsın",
-    "VALUE": "Değer",
-    "RATE": "a",
+    "PRODUCT": "Aldığın:",
+    "VALUE": "Öde:",
+    "RATE": "Oran:",
     "CONFIRM_ASK": "Bu işlemi onaylamak istediğinizden emin misiniz?",
     "ALREADY_IN_PURCHASE": "{{author}} Yeni bir işleme başlamadan önce önceki işleminizi iptal edin veya devam ettirin!",
     "CANCELLED": "Sahip olduğunuzdan daha fazla \"Wist\" listelemeye çalışıyorsunuz! ",
@@ -16,5 +16,6 @@
     "MISSING_GEMS": "{{gemPrice}} adet `Gems` eksik",
     "SOMETHING_WRONG": "Bir şeyler yanlış gitti. Yeniden deneyin",
     "PURCHASE_SUCCESSFUL": "İşlem başarılı oldu",
-    "SUCCESS": "{{wistAmount}} `Wists` **{{gemPrice}}** `Gems` karşılığında satın alındı! | Anlaşma Kimliği: {{dealId}}"
+    "SUCCESS": "{{wistAmount}} `Wists` **{{gemPrice}}** `Gems` karşılığında satın alındı! | Anlaşma Kimliği: {{dealId}}",
+    "EMBED_TITLE": "SOFI MARKET LİSTESİ:"
 }

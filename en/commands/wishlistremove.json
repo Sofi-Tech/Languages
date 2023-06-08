@@ -4,5 +4,5 @@
     "NO_INDEX": "No name or number was provided! To clear your entire wishlist, use the command `swr full reset`",
     "FULL_RESET": "> {{author}} You removed **__{{total}}__** characters from your wishlist",
     "REMOVE_CHARACTER": "> {{author}} You removed **{{name}}** from your wishlist",
-    "NO_RESULTS": "> {{author}} no results found for **\"{{name}}\"**"
+    "NO_RESULTS": "{{author}} Could not find **\"{{name}}\"** on your wishlist"
 }

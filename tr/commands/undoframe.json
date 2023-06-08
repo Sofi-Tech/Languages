@@ -2,14 +2,14 @@
     "UF_DESCRIPTION": "Karttan çerçeve kaldır",
     "UF_CATEGORY": "Kozmetik",
     "INVALID_USAGE": "<cardcode> denemeden önce suft komutunu dene",
-    "INVALID_CODE": "Geçersiz kod verildi",
-    "NO_CHARACTER": "Hiçbir karakter bulunamadı",
-    "NO_GIF": "{{author}} kozmetik komutu GIF kartları için geçerli değil",
+    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
+    "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
+    "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
     "NOT_FRAMED": "{{author}} Kart çerçeveli değil",
     "EMBED_TITLE": "Çerçeve Kaldır",
     "UF_CONFIRMATION": "Çerçeve kaldırmak üzereşiniz\nKartınız aşağıdaki gibi görünecek\nÇerçeve envanterinize eklenecek\nİşlem 2 wists mâl olacak",
     "NOT_ENOUGH_WISTS": "Çerçeveyi kaldırmak için yeterli wists'iniz yok",
-    "NO_OWNER": "{{author}} Kart artık size ait değil",
+    "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
     "ALREADY_REMOVED": "Çerçeve zaten kaldırılmış",
     "UF_SUCCESSFULL": "Çerçeve başarılı bir şekilde kaldırıldı"
 }

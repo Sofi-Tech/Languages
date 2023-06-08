@@ -3,8 +3,8 @@
     "SWAP_CATEGORY": "Kozmetikler",
     "MENU_FRAME_LABEL": "Çerçeve",
     "MENU_FRAME_DESC": "İki kartın \"Frames\"lerini \"Swap\"lar",
-    "MENU_TEXT_LABEL": "Metin Değiştir",
-    "MENU_TEXT_DESC": "Kartlar arasında metni değiştir",
+    "MENU_TEXT_LABEL": "Metin Görünürlüğü",
+    "MENU_TEXT_DESC": "İki kartın metin görünürlüğünü \"Swap\"lar",
     "MENU_COLOR_LABEL": "Yazı Rengi",
     "MENU_COLOR_DESC": "İki kartın yazı tipi rengini \"Swap\"lar",
     "MENU_MORPH_LABEL": "Şekli Değiştir",
@@ -22,7 +22,8 @@
     "EMBED_FOOTER": "Bu işlem bir `Swap` tüketecek",
     "SWAPS_CHOSEN": "Belirtilen kozmetikleri `Swap`lamayı seçtiniz:",
     "MISSING_SWAP_TOKEN": "{{author}} Bu işlem için bir `Swap`ınız olması gerekiyor",
-    "SUS_THING": "{{authorId}} takasla şüpheli bir şey yaptı....",
-    "DOES_NOT_WORK": "Burada ne yapmaya çalıştığını görüyorum. Ama işe yaramıyor",
-    "SWAP_SUCCESSFULL": "Seçilen kozmetikler başarıyla `Swap`landı"
+    "SUS_THING": "{{authorId}} çevirilmeyecekmiş",
+    "DOES_NOT_WORK": "{{author}} İstismar etmeye çalışmamalısın, Herhangi bir istismar edilebilir hatayla karşılaşırsanız, lütfen bunları doğrudan Sofi Ekibine bildirin!",
+    "SWAP_SUCCESSFULL": "Seçilen kozmetikler başarıyla `Swap`landı",
+    "INVAILD_CODE": "{{author}} Sağladığınız kodlardan en az biri geçersiz"
 }

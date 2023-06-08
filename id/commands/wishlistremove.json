@@ -4,5 +4,5 @@
     "NO_INDEX": "Tidak ada nama atau nomor yang diberikan! Untuk menghapus seluruh daftar keinginan, gunakan perintah`swr full reset`",
     "FULL_RESET": "> {{author}} Anda menghilangkan**__{{total}}__**karakter dari daftar keinginan Anda",
     "REMOVE_CHARACTER": "> {{author}} Anda menghapus **{{name}}** dari daftar keinginan Anda",
-    "NO_RESULTS": "> {{author}} tidak ditemukan hasil untuk **\"{{name}}\"**"
+    "NO_RESULTS": "{{author}} Tidak dapat menemukan **\"{{name}}\"** di daftar keinginan Anda"
 }

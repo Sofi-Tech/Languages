@@ -4,5 +4,5 @@
     "NO_INDEX": "Nessun nome o numero è stato fornito! Per cancellare l'intera lista dei desideri, usa il comando `swr full reset`",
     "FULL_RESET": "> {{author}} Hai rimosso **__{{total}}__** caratteri dalla tua lista dei desideri",
     "REMOVE_CHARACTER": "> {{author}} Hai rimosso **{{name}}** dalla tua lista dei desideri",
-    "NO_RESULTS": "> {{author}} nessun risultato trovato per **\"{{name}}\"**"
+    "NO_RESULTS": "{{author}} Impossibile trovare **\"{{name}}\"** nella tua lista dei desideri"
 }

@@ -3,7 +3,7 @@
     "UB_CATEGORY": "Косметика",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
     "NO_CHARACTER_FOUND": "{{author}} Не удалось найти эту карту",
-    "INVALID_CODE": "{{author}} Код карты, который вы указали, является недействительным",
+    "INVALID_CODE": "{{author}} Код этой карты либо недействителен, либо отсутствует в вашей коллекции",
     "NO_GIF_CARD": "{{author}} `GIF` карты не могут устанавливать `Background` как эффект",
     "NO_BACKGROUND": "{{author}} На этой карточке не установлен `Background`",
     "EMBED_TITLE": "УБРАТЬ BACKGROUND",
@@ -14,5 +14,5 @@
     "NOT_ENOUGH_WIST": "У вас недостаточно `Wists`, чтобы удалить `Background`",
     "NO_BG_APPLIED": "{{author}} На этой карточке не установлен `Background`",
     "UNDO_BACKGROUND_SUCCESS": "`Background` был успешно удален и добавлен обратно в ваш `Inventory`",
-    "NO_OWNER": "{{author}} Эта карта больше не принадлежит вам"
+    "NO_OWNER": "{{author}} Этой карты больше нет в вашей коллекции"
 }

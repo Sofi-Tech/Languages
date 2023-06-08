@@ -1,8 +1,8 @@
 {
-    "TT_DESCRIPTION": "Text von der Karte entfernen",
+    "TT_DESCRIPTION": "Schaltet die Sichtbarkeit des Texts einer Karte um",
     "TT_CATEGORY": "Kosmetik",
-    "PROVIDE_CARD_CODE": "{{author}}, Karten-Code bereitstellen",
-    "INAVLID_CARD_CODE": "Ungültiger Karten-Code bereitgestellt",
+    "PROVIDE_CARD_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}tt <CardCode>`",
+    "INAVLID_CARD_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
     "INVALID_CODE": "Ihre letzte Karte kann nicht gefunden werden oder versuchen Sie, einen Karten-Code anzugeben",
     "CANNOT_FIND_CARD": "Fehler beim Suchen der Karte",
     "CANNOT_TOGGLE": "{{author}} kann den Text für Gif- oder 3D-Karten nicht umschalten",

@@ -3,11 +3,11 @@
     "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} L'ID offerta che hai fornito non è valido",
     "CANNOT_PURCHASE": "{{user}} Non può acquistare quell'affare",
-    "CANNOT_SELF": "{{user}} Non puoi acquistare la tua offerta",
+    "CANNOT_SELF": "{{user}} Non puoi interagire con la tua offerta",
     "WIST_NOT_EXCEED": "{{author}} Questo accordo ha solo {{amount}} `Wists` rimasti da acquistare",
-    "PRODUCT": "Ottieni:test",
-    "VALUE": "Valore",
-    "RATE": "Tariffa",
+    "PRODUCT": "Ricevi:",
+    "VALUE": "Tu paghi:",
+    "RATE": "Valutare:",
     "CONFIRM_ASK": "Sei sicuro di voler confermare questa transazione?",
     "ALREADY_IN_PURCHASE": "{{author}} Annulla o procedi con la tua transazione precedente prima di iniziarne una nuova!",
     "CANCELLED": "Il processo di bruciatura di massa è stata annullata",
@@ -16,5 +16,6 @@
     "MISSING_GEMS": "Ti mancano {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "Qualcosa è andato storto. Riprova",
     "PURCHASE_SUCCESSFUL": "La transazione è andata a buon fine",
-    "SUCCESS": "{{wistAmount}} `Wist` sono stati acquistati per **{{gemPrice}}** `Gems`! | ID offerta: {{dealId}}"
+    "SUCCESS": "{{wistAmount}} `Wist` sono stati acquistati per **{{gemPrice}}** `Gems`! | ID offerta: {{dealId}}",
+    "EMBED_TITLE": "ELENCO MERCATI SOFI:"
 }

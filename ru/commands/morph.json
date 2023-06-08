@@ -6,7 +6,7 @@
     "CONTINUE": "Хотите морфировать эту карту?",
     "MORPH_CONFIRMATION": "{{author}} Вы собираетесь `Morph` карту {{code}} за **350** `Silver`",
     "CANCELLED": "{{author}} Вы отменили транзакцию",
-    "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно `Silver` для выполнения этого действия",
+    "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно серебра для этого процесса",
     "BALANCE": "Баланс: **{{amount}}** `Silver`",
     "NAME": "Название: `{{name}}`",
     "UNDO": "`Morphs` восстановлено: `  {{count}}  `",

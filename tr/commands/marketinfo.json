@@ -1,13 +1,14 @@
 {
     "DESCRIPTION": "Şu anki pazar listenizi gösterir ya da ID sağlarsanız bir pazarın incelemesini gösterir",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız Pazar ID si geçersiz",
-    "TRADER": "Satıcı",
-    "DEAL_ID": "Fiyat",
-    "PRODUCT": "Alırsın",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız Pazar IDsi geçersiz",
+    "TRADER": "tüccar",
+    "DEAL_ID": "Anlaşma IDsi",
+    "PRODUCT": "Ürün",
     "VALUE": "Değer",
-    "RATE": "a",
+    "RATE": "Oran",
     "LISTED": "Listelenen",
     "NO_LISTINGS_FOUND": "{{user}} Markette herhangi bir pazar kaydınız yok",
     "INFO": "Mevcut pazarlarınızı devre dışı bırakmak için `{{prefix}}mul <ID>` komutunu kullanın\n**Bir seferde yalnızca tek bir pazar açılabilir**",
-    "FOOTER": "Toplam {{total}} sayfadan 1-{{pages}} sayfası gösteriliyor| `Wists` satın almak için \"{{prefix}}mp <ID>\" komutunu kullanın!"
+    "FOOTER": "Toplam {{total}} sayfadan 1-{{pages}} sayfası gösteriliyor| `Wists` satın almak için \"{{prefix}}mp <ID>\" komutunu kullanın!",
+    "EMBED_TITLE": "İLANLARINIZ:"
 }

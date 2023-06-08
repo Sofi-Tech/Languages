@@ -4,7 +4,7 @@
     "PROVIDE_CARD_CODE": "{{author}} Correct usage: `{{prefix}}tt <CardCode>`",
     "INAVLID_CARD_CODE": "{{author}} That card code is either invalid or not in your collection",
     "INVALID_CODE": "{{author}} You do not have any cards in your collection yet",
-    "CANNOT_FIND_CARD": "[[author}} That character no longer exists!",
+    "CANNOT_FIND_CARD": "{{author}} That character no longer exists!",
     "CANNOT_TOGGLE": "{{author}} You cannot toggle the text of \"3D\" or \"GIF\" cards",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
     "TT_CONFIRMATION": "Are you sure you want to **{{toggleInfo}}**\nThis process will cost **1000** <:_:915619222229512213>",

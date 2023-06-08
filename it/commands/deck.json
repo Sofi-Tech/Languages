@@ -11,7 +11,7 @@
     "ENTER_CODES": "Inserisci i codici delle carte",
     "MODAL_TITLE": "Imposta il mazzo",
     "MISSING_CODES": "> Sono richiesti almeno 3 codici",
-    "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido",
+    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione",
     "CODE_REPEAT": "> I codici delle carte non devono ripetersi",
     "MOVES_UNIQUE": "Tutte le abilità in un mazzo devono essere **uniche**! Seleziona carte diverse o cambia le loro abilità per procedere",
     "SAVE_DECK": "Clicca su salva per impostare questo mazzo",

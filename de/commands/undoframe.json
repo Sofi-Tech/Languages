@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "Rahmen von der Karte entfernen",
     "UF_CATEGORY": "Kosmetik",
     "INVALID_USAGE": "Versuchen Sie sunf <cardcode>",
-    "INVALID_CODE": "Ungültiger Code bereitgestellt",
+    "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
     "NO_CHARACTER": "Kein Charakter gefunden",
     "NO_GIF": "{{author}} Kosmetikbefehl gilt nicht für gif-Karten",
     "NOT_FRAMED": "{{author}} Die Karte ist nicht gerahmt",
