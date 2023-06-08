@@ -1,9 +1,9 @@
 {
-    "UM_DESCRIPTION": "Tanggalin ang morph mula sa card",
+    "UM_DESCRIPTION": "Inaalis ang \"Morph\" ng isang card",
     "UM_CATEGORY": "Kagandahan",
     "INVALID_USAGE": "Magbigay ng wastong cardcode",
-    "INVALID_CODE": "Maling code ang ibinigay",
-    "NO_CHARACTER": "Walang character na nahanap",
+    "INVALID_CODE": "{{author}} Ang code ng card na iyon ay hindi wasto o wala sa iyong koleksyon",
+    "NO_CHARACTER": "{{author}}Ang karakter na iyan ay wala na!",
     "NO_GIF": "Hindi magagamit ang command na {{author}} cosmetics sa gif cards",
     "NOT_MORPHED": "{{author}} Hindi naka-morph ang card",
     "EMBED_TITLE": "Balikin ang Morph",
