@@ -4,5 +4,5 @@
     "NO_INDEX": "Walang pangalan o numero na nakalaan! Upang linisin ang buong wishlist, gamitin ang command na `swr full reset`",
     "FULL_RESET": "> {{author}} Tinanggal mo ang **__{{total}}__** characters mula sa iyong wishlist",
     "REMOVE_CHARACTER": "> {{author}} Tinanggal mo si **__{{name}}__** mula sa iyong wishlist",
-    "NO_RESULTS": "> {{author}} walang natagpuang resulta para kay **\"{{name}}\"**"
+    "NO_RESULTS": "{{author}} Walang makitang **\"{{name}}\"** sa iyong wishlist"
 }

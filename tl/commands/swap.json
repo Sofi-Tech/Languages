@@ -14,7 +14,7 @@
     "MENU_BG_LABEL": "Mga Background",
     "MENU_BG_DESC": "\"Pinagpapalit\" ang \"Backgrounds\" ng dalawang 3D",
     "PROVIDE_CODES": "{{author}} Tamang pag-gamit: `{{prefix}}swap <Code1><Code2>`",
-    "NO_GIF": "{{author}} Hindi ka pwedeng mag `Swap` ng cosmetics sa `GIF` card",
+    "NO_GIF": "{{author}} Hindi ka maaaring gumamit ng `Swaps` sa iasng `GIF` na card",
     "NO_COSMETICS": "{{author}} Ang card na iyan ay walang cosmetics para ma `Swap`",
     "MENU_FEATURES_PLACEHOLDER": "Pumili ng cosmetics na gusto mong i \"Swap\"",
     "EMBED_TITLE": "SOFI: Magpalit ng Serbisyo",
@@ -23,7 +23,7 @@
     "SWAPS_CHOSEN": "Pinili mong i `Swap` ang mga sumusunod na cosmetics:",
     "MISSING_SWAP_TOKEN": "{{author}} Kailangan mong mag karon ng `Swap` para sa proseso na ito",
     "SUS_THING": "{{authorId}} ay gumawa ng kakaibang bagay sa swap....",
-    "DOES_NOT_WORK": "Nakita ko kung ano ang ginagawa mo dito... pero hindi ito gumagana",
+    "DOES_NOT_WORK": "{{author}} Huwag mong subukang pagsamantalahin ito, kapag ikaw ay mangyaring nakakita ng bugs na maaaring pagsamantalahan, ito ay direktang ireport agad sa Sofi Staff!",
     "SWAP_SUCCESSFULL": "Matagumpay na nai-`Swapped`ang napili na cosmetics",
     "INVAILD_CODE": "{{author}}Kahit isa sa mga code na ibinigay mo ay hindi wasto"
 }

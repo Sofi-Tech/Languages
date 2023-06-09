@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Gamitin ang nabiling frame sa mga cards",
+    "UF_DESCRIPTION": "Nag lalagay ng \"Frame\" sa iyong card",
     "UF_CATEGORY": "Kagandahan",
-    "INVALID_USAGE": "suf <code> <framename/framecode>",
-    "INVALID_CODE": "{{author}} Ang code ng card na iyon ay hindi wasto o wala sa iyong koleksyon",
-    "CANNOT_APPLY": "Hindi mo magagamit ang mga frame sa 3D cards",
-    "NO_GIF": "{{author}} ang mga gif cards ay hindi pwedeng may frame",
-    "NO_FRAMES_FOUND": "{{author}} walang frame na nakita",
-    "EMBED_TITLE": "Maglagay ng Frame:",
-    "UF_CONFIRMATION": "Maglalagay ka ng {{frameName}}\nAng iyong card ay magiging ganito\n",
-    "EMBED_FOOTER": "Ang card ay may frame na. Gamitin ang undoframe command upang makuha ang frame na na-apply",
+    "INVALID_USAGE": "Tamang pag-gamit: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} Ang card code na iyon ay hindi wasto o wala sa iyong koleksyon",
+    "CANNOT_APPLY": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `3D` card",
+    "NO_GIF": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `GIF` card",
+    "NO_FRAMES_FOUND": "{{author}} Ang code ng `Frame` na iyan ay maaaring hindi wasto o wala sa iyong `inventory`",
+    "EMBED_TITLE": "MAG-APPLY NG FRAME:",
+    "UF_CONFIRMATION": "Ikaw ay nalalapit nang mag lagay ng `Frame` **{{frameName}}** sa card na ito",
+    "EMBED_FOOTER": "Ang card na ito ay meron nang `Frame` na naka-apply dito. Kapag nag apply ka pa ng iba ay masisira ang dati nitong frame!",
     "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
-    "FRAME_NOT_FOUND": "Wala kang ganoong frame",
-    "UF_SUCCESSFULL": "MATAGUMPAY"
+    "FRAME_NOT_FOUND": "{{author}} Wala kang **{{frameName}}** na `Frame`",
+    "UF_SUCCESSFULL": "Ang `Frame` ay matagumpay na nai-apply"
 }
