@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "Remover o brilho do cartão",
-  "UNG_CATEGORY": "Cosméticos",
-  "INVALID_USAGE": "Fornecer um código de cartão válido",
-  "INVALID_CODE": "Código fornecido inválido",
-  "NO_CHARACTER": "Nenhum personagem encontrado",
-  "NO_GIF": "O comando de cosméticos {{author}} não se aplica a cartões GIF",
-  "NOT_GLOWED": "{{author}} O cartão não possui brilho",
-  "EMBED_TITLE": "Remover Brilho",
-  "UNG_CONFIRMATION": "Você está prestes a remover o brilho do seu cartão\nSeu cartão parecerá assim\nO processo irá custar 100 silvers",
-  "EMBED_FOOTER": "O brilho será removido e não voltará ao seu inventário",
-  "NO_OWNER": "O cartão não pertence mais a você",
-  "NOT_ENOUGH_SILVERS": "Você não tem silvers suficientes para remover o brilho",
-  "UNG_SUCCESSFULL": "O brilho foi removido com sucesso"
+    "UNG_DESCRIPTION": "Remover o brilho do cartão",
+    "UNG_CATEGORY": "Cosméticos",
+    "INVALID_USAGE": "Fornecer um código de cartão válido",
+    "INVALID_CODE": "{{author}} O código dessa carta é inválido ou não está em sua coleção",
+    "NO_CHARACTER": "Nenhum personagem encontrado",
+    "NO_GIF": "O comando de cosméticos {{author}} não se aplica a cartões GIF",
+    "NOT_GLOWED": "{{author}} O cartão não possui brilho",
+    "EMBED_TITLE": "Remover Brilho",
+    "UNG_CONFIRMATION": "Você está prestes a remover o brilho do seu cartão\nSeu cartão parecerá assim\nO processo irá custar 100 silvers",
+    "EMBED_FOOTER": "O brilho será removido e não voltará ao seu inventário",
+    "NO_OWNER": "O cartão não pertence mais a você",
+    "NOT_ENOUGH_SILVERS": "Você não tem silvers suficientes para remover o brilho",
+    "UNG_SUCCESSFULL": "O brilho foi removido com sucesso"
 }

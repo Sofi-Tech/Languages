@@ -14,7 +14,7 @@
     "EMBED_GLOW_TITLE": "SOFI: Glühen",
     "NAME": "`Name:   ` ➜ {{name}}",
     "CODE": "`Code:   ` ➜ `#{{code}}`",
-    "STATUS": "`Status: ` ➜ `{{status}}`",
+    "STATUS": "`Status: ` ➜ **{{status}}**",
     "TYPE": "`Typ:   ` ➜ {{type}}",
     "OWNER": "`Besitzer:  ` ➜ <@{{ownerId}}> ",
     "PURITY": "```Reinheit:  ➜ {{purity}}```"

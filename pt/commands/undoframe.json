@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Remover a moldura do cartão",
-  "UF_CATEGORY": "Cosméticos",
-  "INVALID_USAGE": "Tente sunf <código do cartão>",
-  "INVALID_CODE": "Código inválido fornecido",
-  "NO_CHARACTER": "Nenhum personagem encontrado",
-  "NO_GIF": "O comando de cosméticos {{author}} não se aplica a cartões GIF",
-  "NOT_FRAMED": "{{author}} O cartão não está emoldurado",
-  "EMBED_TITLE": "Remover Moldura",
-  "UF_CONFIRMATION": "Você está prestes a remover a moldura\nSeu cartão ficará assim\nA moldura será adicionada ao seu inventário\nO processo custará 2 wists",
-  "NOT_ENOUGH_WISTS": "Você não tem wists suficientes para remover a moldura",
-  "NO_OWNER": "O cartão não pertence mais a você",
-  "ALREADY_REMOVED": "A moldura já foi removida",
-  "UF_SUCCESSFULL": "A moldura foi removida com sucesso"
+    "UF_DESCRIPTION": "Remover a moldura do cartão",
+    "UF_CATEGORY": "Cosméticos",
+    "INVALID_USAGE": "Tente sunf <código do cartão>",
+    "INVALID_CODE": "{{author}} O código dessa carta é inválido ou não está em sua coleção",
+    "NO_CHARACTER": "Nenhum personagem encontrado",
+    "NO_GIF": "O comando de cosméticos {{author}} não se aplica a cartões GIF",
+    "NOT_FRAMED": "{{author}} O cartão não está emoldurado",
+    "EMBED_TITLE": "Remover Moldura",
+    "UF_CONFIRMATION": "Você está prestes a remover a moldura\nSeu cartão ficará assim\nA moldura será adicionada ao seu inventário\nO processo custará 2 wists",
+    "NOT_ENOUGH_WISTS": "Você não tem wists suficientes para remover a moldura",
+    "NO_OWNER": "O cartão não pertence mais a você",
+    "ALREADY_REMOVED": "A moldura já foi removida",
+    "UF_SUCCESSFULL": "A moldura foi removida com sucesso"
 }

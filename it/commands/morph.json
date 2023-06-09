@@ -16,8 +16,8 @@
     "STOLE_MORPH": "Qualcosa è andato storto, per favore rolla un'altra morph",
     "NO_ITEM": "{{author}}, non possiedi **{{amount}}** `{{item}} `",
     "NO_CARD": "{{author}} Questa carta non fa più parte della tua collezione",
-    "MORPH_CONFRIM": "Ben fatto..! Ecco una bella modifica.",
+    "MORPH_CONFRIM": "Il `Morph` È stato applicato con successo",
     "REROLL": "Conteggio annullamento: `{{count}}`\n{{author}}, non puoi farlo. Per favore modifica la carta.",
     "UNDO_SUCCESSFULL": "Annullamento riuscito per {{amount}} {{emoji}}",
-    "MORPH_CANCELLED": "La modifica è stata annullata"
+    "MORPH_CANCELLED": "Il`Morphing` processo è stato cancellato"
 }

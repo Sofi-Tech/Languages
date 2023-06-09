@@ -4,7 +4,7 @@
     "MENU_FRAME_LABEL": "Rahmen",
     "MENU_FRAME_DESC": "„Tauscht“ die „Frames“ zweier Karten",
     "MENU_TEXT_LABEL": "Text umschalten",
-    "MENU_TEXT_DESC": "Text zwischen Karten umschalten",
+    "MENU_TEXT_DESC": "\"Tauscht\" die Textsichtbarkeit zweier Karten",
     "MENU_COLOR_LABEL": "Schriftfarbe",
     "MENU_COLOR_DESC": "„Tauscht“ die Schriftfarbe zweier Karten",
     "MENU_MORPH_LABEL": "Morph",
@@ -12,7 +12,7 @@
     "MENU_GLOW_LABEL": "Glow",
     "MENU_GLOW_DESC": "Glow / Superglow von zwei Karten austauschen",
     "MENU_BG_LABEL": "Hintergründe",
-    "MENU_BG_DESC": "Hintergründe von 3D-Karten tauschen",
+    "MENU_BG_DESC": "\"Tauscht\" die Hintergründe zweier 3D Karten",
     "PROVIDE_CODES": "{{author}} du musst die Karten-Codes angeben: sswap <code1> <code2>",
     "NO_GIF": "{{author}} Gif-Kosmetik kann nicht ausgetauscht werden",
     "NO_COSMETICS": "{{author}} Deine Karten haben keine Kosmetika zum Tauschen",
@@ -20,9 +20,10 @@
     "EMBED_TITLE": "SOFI: Tauschservice",
     "CHOOSE_FROM_OPTIONS": "Wählen Sie aus den verfügbaren Optionen zum Tauschen...",
     "EMBED_FOOTER": "Der Prozess wird einige Tauschartikel verbrauchen",
-    "SWAPS_CHOSEN": "Ausgewählte Tausche:",
+    "SWAPS_CHOSEN": "Du hast die folgenden Kosmetika zum `tauschen` ausgewählt:",
     "MISSING_SWAP_TOKEN": "{{author}} Ihnen fehlt der Tausch-Token...",
     "SUS_THING": "{{authorId}} hat verdächtige Dinge mit dem Tausch getan....",
-    "DOES_NOT_WORK": "Ich sehe was du hier versuchst, aber es funktioniert nicht.",
-    "SWAP_SUCCESSFULL": "Der Tausch war erfolgreich"
+    "DOES_NOT_WORK": "Wenn du auf irgendwelche ausnutzbaren Bugs triffst, bitte melde diese unverzüglich dem Sofi Staff",
+    "SWAP_SUCCESSFULL": "Der Tausch war erfolgreich",
+    "INVAILD_CODE": "Mindestens einer deiner angegeben Codes ist ungültig"
 }

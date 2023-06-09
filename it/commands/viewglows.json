@@ -9,7 +9,7 @@
     "EMBED_TITLE": "PALETTE GLOW:",
     "EMBED_FOOTER": "Usa il comando `{{prefix}}vg <GlowCode>` per ispezionare un `Glow` | Total `Glows`: {{count}}",
     "SHOWING_PAGE": "Visualizzazione pagina: {{page}}/{{totalPages}}",
-    "NO_GLOWS_FOUND": "{{author}} Non è stato trovato alcun tag con il  nome {{tagName}}",
+    "NO_GLOWS_FOUND": "{{author}} Non è stato trovato alcun `Tag` con il nome {{tagName}}",
     "CANNOT_FIND_GLOW": "{{author}} Impossibile trovare il `Glow` con il codice `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: GLOW",
     "NAME": "`Nome:   ` ➜ {{name}}",
