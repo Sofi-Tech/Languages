@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Remova a transformação do cartão",
-  "UM_CATEGORY": "Cosméticos",
-  "INVALID_USAGE": "Forneça um código de cartão válido",
-  "INVALID_CODE": "Código fornecido inválido",
-  "NO_CHARACTER": "Nenhum personagem encontrado",
-  "NO_GIF": "O comando de cosméticos {{author}} não se aplica a cartões GIF",
-  "NOT_MORPHED": "{{author}} O cartão não está transformado",
-  "EMBED_TITLE": "Desfazer transformação",
-  "UM_CONFIRMATION": "Você está prestes a remover a transformação do seu cartão\nSeu cartão ficará assim\nO processo custará 100 silvers",
-  "NO_OWNER": "O cartão não pertence mais a você",
-  "SOMETHING_WENT_WRONG": "Algo deu terrivelmente errado... <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "Você não tem silvers suficientes para remover a transformação",
-  "UM_SUCCESSFULL": "A transformação foi removida com sucesso"
+    "UM_DESCRIPTION": "Remova a transformação do cartão",
+    "UM_CATEGORY": "Cosméticos",
+    "INVALID_USAGE": "Forneça um código de cartão válido",
+    "INVALID_CODE": "{{author}} O código dessa carta é inválido ou não está em sua coleção",
+    "NO_CHARACTER": "Nenhum personagem encontrado",
+    "NO_GIF": "O comando de cosméticos {{author}} não se aplica a cartões GIF",
+    "NOT_MORPHED": "{{author}} O cartão não está transformado",
+    "EMBED_TITLE": "Desfazer transformação",
+    "UM_CONFIRMATION": "Você está prestes a remover a transformação do seu cartão\nSeu cartão ficará assim\nO processo custará 100 silvers",
+    "NO_OWNER": "O cartão não pertence mais a você",
+    "SOMETHING_WENT_WRONG": "Algo deu terrivelmente errado... <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "Você não tem silvers suficientes para remover a transformação",
+    "UM_SUCCESSFULL": "A transformação foi removida com sucesso"
 }
