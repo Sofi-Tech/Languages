@@ -13,8 +13,8 @@
     "ID": "ID:",
     "ACTIVE": "Attivo",
     "ENDED": "Terminato",
-    "NO_BIDS": "Nessuna offerta",
-    "ONGOING": "In corso (Termina in: {{time}})",
+    "NO_BIDS": "Ancora nessuna offerta",
+    "ONGOING": "In corso (Termina tra: {{time}})",
     "OVER": "Finito",
     "EMBED_AUCTIONS_TITLE": "SOFI: ASTE",
     "EMBED_AUCTIONS_FOOTER": "Pagina visualizzata: {{page}}/{{totalPages}} | Usa il comando `sai <AuctionID>` per maggiori dettagli"

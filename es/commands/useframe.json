@@ -10,6 +10,6 @@
     "UF_CONFIRMATION": "Estás apunto de aplicar `Frame` **{{frameName}}** a esta carta",
     "EMBED_FOOTER": "Esta tarjeta ya tiene un `Frame` aplicado. ¡Aplicar otro destruirá el anterior!",
     "NO_OWNER": "{{author}} La carta ya no te pertenece",
-    "FRAME_NOT_FOUND": "No tienes ese marco",
+    "FRAME_NOT_FOUND": "{{author}} No tienes ese **{{frameName}}** `Frame`",
     "UF_SUCCESSFULL": "El `Frame` fue aplicado con éxito"
 }
