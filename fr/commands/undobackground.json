@@ -1,7 +1,7 @@
 {
     "UB_DESCRIPTION": "Retirer le \"Background\" appliqué à une carte",
     "UB_CATEGORY": "Cosmetics",
-    "WRONG_USAGE": "{{author}} Usage correct: `{{prefix}}undobg <CodeDeCarte>`",
+    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}undobg <CodeDeCarte>`",
     "NO_CHARACTER_FOUND": "{{author}} Impossible de trouver cette carte",
     "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est sois invalide ou n'est pas dans votre collection",
     "NO_GIF_CARD": "{{author}} Une carte `GIF` ne peut pas avoir de `Background` appliquer",
