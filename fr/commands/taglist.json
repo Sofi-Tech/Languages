@@ -2,8 +2,8 @@
     "TL_DESCRIPTION": "Affiche la liste de vos \"Tags\"",
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Cet utilisateur n'existe pas",
-    "NO_TAGS": "{{author}} Aucun tags trouvé",
+    "NO_TAGS": "{{author}} Aucun tag trouvé",
     "EMBED_TITLE": "Liste des tags de: {{username}}",
-    "SOFI_FACT": "Les cartes possédants un tag avec un émoji cadenas \"🔒\" ne peuvent pas être burn ou échangées\nExample: \"{{prefix}}tc lock 🔒\"",
+    "SOFI_FACT": "Un \"Tag\" nommé \"lock\" et possédant comme emoji celui d'un cadenas \"🔒\" vous empêchera de les brûler ou de les donner lorsqu'elles ont ce tag!\nExemple: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Nombre de tag: {{count}}"
 }

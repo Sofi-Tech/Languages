@@ -2,7 +2,7 @@
     "UNG_DESCRIPTION": "Supprimer la lueur de la carte",
     "UNG_CATEGORY": "Cosmétiques",
     "INVALID_USAGE": "Fournir un code de carte valide",
-    "INVALID_CODE": "Code invalide fourni",
+    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "NO_CHARACTER": "Aucun personnage trouvé",
     "NO_GIF": "La commande de cosmétiques {{author}} ne s'applique pas aux cartes GIF",
     "NOT_GLOWED": "{{author}} La carte n'a pas de lueur",

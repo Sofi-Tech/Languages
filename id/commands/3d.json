@@ -1,7 +1,7 @@
 {
-    "INVALID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid",
+    "INVALID_CARD_CODE": "{{author}} Kode kartu yang anda berikan tidak valid",
     "3D_CATEGORY": "Kosmetik",
-    "NO_GIF_CONVERSION": "{{author}} Kartu `GIF` tidak dapat dikonversi ke dalam varian 3D",
+    "NO_GIF_CONVERSION": "{{author}} Kartu `GIF` tidak dapat dirubah ke dalam varian 3D",
     "CARD_3D_ALREADY": "{{author}} Kartu tersebut sudah dalam keadaan 3D",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Kartu event tidak dapat diubah menjadi varian 3D",
     "NO_3D_VERSION": "{{author}} Karakter tersebut saat ini tidak memiliki varian 3D",
@@ -9,10 +9,10 @@
     "EVENT_3D_NOTE": "Anda bisa mendapatkan varian 3D \"Event\" selama event aktif",
     "CARD_ALREADY_3D": "{{author}} Kartu tersebut sudah dalam keadaan 3D",
     "NO_CUBES": "Anda tidak memiliki cukup `Cubes`",
-    "UPGRADED_3D": "Kartu Anda telah berhasil dikonversi ke dalam varian 3D",
-    "UPGRADE_3D_CANCEL": "Proses konversi telah dibatalkan",
-    "HALLOWEEN_3D_FAILED": "Hantu Halloween telah memenuhi kartu Anda! Proses konversi telah gagal!",
+    "UPGRADED_3D": "Kartu anda telah berhasil dirubah ke dalam varian 3D",
+    "UPGRADE_3D_CANCEL": "Proses perubahan telah dibatalkan",
+    "HALLOWEEN_3D_FAILED": "Hantu Halloween telah memasuki kartu Anda! Proses perubahan telah gagal!",
     "ALL_3D_NOTE": "Anda bisa mendapatkan varian 3D \"Event\" selama event aktif",
-    "3D_DESCRIPTION": "Mengonversi kartu Anda ke dalam varian 3D",
-    "3D_NOTE": "Anda akan mengubah kartu ini menjadi varian 3D. Proses ini akan mengubah kartu Anda secara permanen dan tidak dapat dikembalikan. Kartu yang baru diperoleh akan memiliki \"Gen\" yang proporsional dengan kartu lama. Proses ini juga akan menghapus \"Frame\" yang dipasangkan"
+    "3D_DESCRIPTION": "Mengonversi kartu anda ke dalam varian 3D",
+    "3D_NOTE": "Anda akan mengubah kartu ini menjadi varian 3D. Proses ini akan mengubah kartu anda secara permanen dan tidak dapat dikembalikan. Kartu yang baru diperoleh akan memiliki \"Gen\" yang proporsional dengan kartu lama. Proses ini juga akan menghapus \"Frame\" yang terpasang"
 }
