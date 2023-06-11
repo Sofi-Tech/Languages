@@ -2,7 +2,7 @@
     "UM_DESCRIPTION": "Retirer la morphologie de la carte",
     "UM_CATEGORY": "Cosmétiques",
     "INVALID_USAGE": "Fournir un code de carte valide",
-    "INVALID_CODE": "Code fourni non valide",
+    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "NO_CHARACTER": "Aucun personnage trouvé",
     "NO_GIF": "La commande cosmétique {{author}} ne s'applique pas aux cartes gif",
     "NOT_MORPHED": "{{author}} La carte n'est pas morphée",
