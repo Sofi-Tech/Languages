@@ -7,6 +7,6 @@
     "EMBED_TITLE": "Memasangkan Background:",
     "EMBED_DESCRIPTION": "Anda akan memasangkan `Background` **{{background}}** ke kartu ini",
     "USER_NO_BG": "Anda tidak memiliki `Background` itu",
-    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi Anda",
+    "INVALID_CODE": "{{author}} Kode kartu tersebut antara tidak valid atau tidak ada dalam koleksi Anda",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <BackgroundID>`"
 }
