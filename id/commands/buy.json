@@ -1,14 +1,14 @@
 {
     "DESCRIPTION": "Membeli \"Item\" dari \"Shop\" Sofi",
-    "SLASH_DESC": "Masukkan nama `Item` yang ingin Anda beli",
+    "SLASH_DESC": "Masukkan nama `Item` yang ingin anda beli",
     "SLASH_DESC2": "Masukkan jumlah item",
-    "SLASH_DESC3": "Masukkan kodenya dari `Background` yang ingin kamu beli. [HANYA BERFUNGSI JIKA ITEM DIPILIH SEBAGAI BACKGROUND]",
+    "SLASH_DESC3": "Masukkan kode dari `Background` yang ingin kamu beli. [HANYA BERFUNGSI JIKA ITEM DIPILIH SEBAGAI BACKGROUND]",
     "NO_ITEM": "Mohon masukkan `Item` yang akan dibeli",
     "TRADEPASS_INFO": "Anda dapat menukarkan **__1x__** `Bump` dengan `Trade Pass` 4 Jam atau menabung **__20x__** `Bump` untuk membeli `Trade Pass` 30 Hari",
     "CORRECT_USAGE": "{{USER}} Penggunaan yang benar: `{{prefix}}buy bg <BackgroundID> <jumlah>`",
     "INVALID_BG_AMOUNT": "Jangan masukkan nilai negatif",
     "INVALID_BG_ID": "Silahkan berikan ID `Background` yang valid",
-    "NO_ITEM_PROVIDED": "Tidak ada `item` yang diberikan",
+    "NO_ITEM_PROVIDED": "Tidak ada `item` yang dicantumkan",
     "INVALID_AMOUNT": "Jumlah yang diberikan tidak valid",
     "INVALID_ITEM_PROVIDED": "{{USER}} `item` yang diberikan tidak valid"
 }
