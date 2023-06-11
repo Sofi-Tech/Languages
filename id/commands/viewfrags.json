@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Mencantumkan \"Fragmen\" yang tersedia dari pengguna",
-    "COLLECTION_PVT": "{{author}} pengguna tersebut `Fragmen` bersifat pribadi!",
+    "DESCRIPTION": "Daftar \"Fragments\" yang tersedia dari pengguna",
+    "COLLECTION_PVT": "{{author}} `Fragments` pengguna tersebut bersifat pribadi!",
     "CANNOT_FIND_FRAGS": "{{user}} Tidak dapat menemukan `Fragments` apapun pada pengguna tersebut",
     "FRAGS_COUNT": "Jumlah `Fragment`: {{totalCount}}",
     "FRAG_LIST": "Daftar \"Fragment\": {{userName}}"

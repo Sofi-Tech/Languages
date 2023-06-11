@@ -17,7 +17,7 @@
     "REQUIRE_MEMBER_PERMISSIONS": "`Anda memerlukan: {{permissions}} untuk mengakses perintah ini`",
     "COMMAND_COOLDOWN": "> [`{{command}}`] Tunggu {{cooldown}} sebelum menggunakan perintah.",
     "REGISTER_USER": "{{author}} Gunakan perintah `{{prefix}}register` dan lanjutkan ke situs untuk diverifikasi",
-    "USER_COMMAND_QUEUE": "<@{{id}}> Anda perlu menyelesaikan perintah {{existsFor}} sebelum dapat melanjutkan",
+    "USER_COMMAND_QUEUE": "<@{{id}}> Anda perlu menyelesaikan perintah {{existsFor}} sebelum melanjutkan",
     "AUTHOR_COMMAND_QUEUE": "Selesaikan perintah {{existsFor}} sebelum melanjutkan",
     "SAFE_MODE": "> Bot dalam mode aman {{eta}}\nDia akan kembali segera ❤",
     "CATEGORY_DISABLED": "> Kategori ini telah dinonaktifkan\nAlasan: `{{category}}`",

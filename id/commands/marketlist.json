@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Menjual \"Wists\" Anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
+    "DESCRIPTION": "Menjual \"Wists\" anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
     "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <wist> <rate>`",
     "INVALID_GEM_RATE": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
     "GEM_RATE_LIES": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
-    "ALREADY_EXISTS": "{{author}} Anda sudah memiliki kesepakatan yang sudah ada!\nGunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapusnya, sebelum mendaftarkan transaksi yang baru",
+    "ALREADY_EXISTS": "{{author}} Anda sudah memiliki kesepakatan!\nGunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapusnya, sebelum mendaftarkan transaksi yang baru",
     "PRODUCTS": "Daftar Anda:",
     "RATE": "Nilai:",
     "VALUE": "Nilai Total:",
-    "CONFIRM_ASK": "Apakah Anda yakin ingin mendaftarkan transaksi ini ke pasar?",
+    "CONFIRM_ASK": "Apakah anda yakin ingin mendaftarkan penawaran ini ke pasar?",
     "CANCELLED": "DIBATALKAN",
-    "NOT_ENOUGH_CANCEL": "Anda mencoba mendaftarkan lebih banyak `Wists` daripada yang Anda miliki",
-    "SUCCESS": "Penawaran Anda telah berhasil didaftarkan",
+    "NOT_ENOUGH_CANCEL": "Anda mencoba mendaftarkan lebih banyak `Wists` daripada yang anda miliki",
+    "SUCCESS": "Penawaran anda telah berhasil didaftarkan",
     "SUCCESS_FOOTER": "Menambahkan penawaran ke pasar",
     "EMBED_TITLE": "PASAR SOFI:"
 }

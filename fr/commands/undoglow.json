@@ -2,14 +2,14 @@
     "UNG_DESCRIPTION": "Supprimer la lueur de la carte",
     "UNG_CATEGORY": "Cosmétiques",
     "INVALID_USAGE": "Fournir un code de carte valide",
-    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est sois invalide ou n'est pas dans votre collection",
     "NO_CHARACTER": "Aucun personnage trouvé",
     "NO_GIF": "La commande de cosmétiques {{author}} ne s'applique pas aux cartes GIF",
     "NOT_GLOWED": "{{author}} La carte n'a pas de lueur",
     "EMBED_TITLE": "Supprimer la lueur",
     "UNG_CONFIRMATION": "Vous êtes sur le point de supprimer la lueur de votre carte\nVotre carte aura l'apparence suivante\nLe processus coûtera 100 silver",
     "EMBED_FOOTER": "La lueur sera supprimée et ne reviendra pas dans votre inventaire",
-    "NO_OWNER": "La carte ne vous appartient plus",
+    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
     "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
     "UNG_SUCCESSFULL": "La lueur a été supprimée avec succès"
 }

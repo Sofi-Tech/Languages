@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Mengirim permintaan tukar dengan pemain lain. Kamu bisa menukar beberapa kartu dan \"Item\" secara bersamaan dengan fitur ini",
-    "MENTION_USER": "{{author}} Mention pemain yang ingin kamu ajak bertukar atau gunakan ID mereka",
+    "DESCRIPTION": "Mengirim permintaan bertukar dengan pemain lain. Anda bisa menukar beberapa kartu dan \"Item\" secara bersamaan dengan fitur ini",
+    "MENTION_USER": "{{author}} Mention pengguna yang ingin anda ajak bertukar atau gunakan ID mereka",
     "IN_TRADE": "{{user}} Anda telah mengirim permintaan pertukaran kepada seseorang! Batalkan yang sebelumnya terlebih dahulu, sebelum memulai yang baru",
-    "BOT_TRADE": "{{author}} Kamu tidak bisa melakukan pertukaran dengan `Bot`",
-    "SELF_TRADE": "{{author}} Kamu tidak bisa melakukan pertukaran dengan diri sendiri",
+    "BOT_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan `Bot`",
+    "SELF_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan diri sendiri",
     "NOT_REGISTERED": "{{user}} belum terdaftar!",
     "AUTHOR_IS_BLED": "{{author}} Anda masuk daftar hitam",
     "MEMBER_IS_BLED": "{{user}} masuk daftar hitam",

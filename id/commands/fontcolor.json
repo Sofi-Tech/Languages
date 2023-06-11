@@ -1,17 +1,17 @@
 {
-    "FC_DESCRIPTION": "Mengubah warna font dari kartu dengan menerapkan \"Glow\" padanya",
+    "FC_DESCRIPTION": "Mengubah warna font dari kartu tersebut dengan menggunakan \"Glow\"",
     "FC_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
-    "NOT_CARD_OWNER": "{{author}} Kode kartu yang Anda berikan tidak valid atau bukan milik Anda",
-    "CANNOT_FIND_CARD": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi Anda",
+    "NOT_CARD_OWNER": "{{author}} Kode kartu yang anda berikan tidak valid atau bukan milik anda",
+    "CANNOT_FIND_CARD": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi anda",
     "3D_ERROR": "{{author}} Anda tidak dapat mengubah warna font dari kartu 3D",
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
     "PROVIDE_GLOWCODE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Kode `Glow` selalu dimulai dengan tanda **#**",
-    "CANNOT_FIND_GLOW": "{{author}} Kode `Glow` tidak valid atau Anda tidak memilikinya",
+    "CANNOT_FIND_GLOW": "{{author}} Kode `Glow` tidak valid atau anda tidak mempunyainya",
     "EMBED_TITLE": "SOFI: WARNA FONT{{reset}}",
     "COLOR_NAME": "Nama: {{name}}",
     "COLOR_CODE": "Kode: `{{code}}`",
-    "GLOW_UNAVAILABLE": "Bahwa `Glow` tidak memiliki isi ulang",
+    "GLOW_UNAVAILABLE": "`Glow` tersebut tidak memiliki isi",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "Warna font kartu berhasil diubah"
 }

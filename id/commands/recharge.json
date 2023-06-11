@@ -1,16 +1,16 @@
 {
     "RG_DESCRIPTION": "Mengisi ulang \"Glow\" yang kosong",
-    "RG_CATEGORY": "Menampilkan \"Toko Background\"",
-    "NO_GLOWCDE": "{{author}} Anda perlu memberikan `Glow`kode",
+    "RG_CATEGORY": "Menampilkan \"Background Shop\"",
+    "NO_GLOWCDE": "{{author}} Anda perlu memberikan kode`Glow",
     "INVALID_DC_MOVIES": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
-    "GLOW_AVAILABLE": "{{author}} `Glow` itu sudah terisi",
-    "EMBED_TITLE": "SOFI: PENGISI ULANG GLOW",
+    "GLOW_AVAILABLE": "{{author}} `Glow` tersebut sudah terisi",
+    "EMBED_TITLE": "SOFI: GLOW RECHARGE",
     "SUCCESSFUL_RECHARGE": "`Glow` Anda berhasil diisi ulang!",
     "CANCEL_RECHARGE": "Proses telah dibatalkan",
     "NO_MONEY": "Anda tidak memiliki cukup `Recharge`! Beli beberapa dan coba lagi",
     "RECHARGE_CONFIRMATION": "Anda akan mengisi ulang:\n\n**{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "ARE_YOU_SURE": "Apakah Anda yakin?",
+    "ARE_YOU_SURE": "Apakah anda yakin?",
     "UNLOCK_GLOWS": "{{author}} Anda belum memiliki `Glows`",
-    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang Anda berikan tidak valid",
+    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid",
     "SUPER_RECHARGE_CONFIRMATION": "Anda akan mengisi ulang:\n\n**{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}**:recharge_sofi:"
 }

@@ -1,18 +1,18 @@
 {
-    "UB_DESCRIPTION": "Menghapus \"Background\" yang dipakaikan dari kartu",
+    "UB_DESCRIPTION": "Menghapus \"Background\" yang telah digunakan dari kartu",
     "UB_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}undobg <KodeKartu>`",
-    "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan kartu itu",
-    "INVALID_CODE": "{{author}} Kode kartu tersebut antara tidak valid atau tidak ada dalam koleksi Anda",
+    "NO_CHARACTER_FOUND": "{{author}} Kartu tidak dapat ditemukan",
+    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
     "NO_GIF_CARD": "{{author}} Kartu `GIF` tidak dapat menggunakan `Background`",
-    "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Latar Belakang` yang diterapkan padanya",
+    "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
     "EMBED_TITLE": "HAPUS BACKGROUND",
     "REMOVE_BG_CONFIRMATION": "Anda akan menghapus `Background` kartu ini\n",
-    "CARD_LOOKS": "Kartu Anda akan terlihat seperti pratinjau di bawah ini\n",
-    "PROCESS_COST": "Menghapus `Background` akan dikenakan biaya **1** `Wist` dan akan mengembalikan `Background` tersebut ke `Inventory` Anda",
+    "CARD_LOOKS": "Kartu anda akan terlihat seperti pratinjau di bawah ini\n",
+    "PROCESS_COST": "Menghapus `Background` akan dikenakan biaya **1** `Wist` dan akan mengembalikan `Background` tersebut ke `Inventory` anda",
     "COSMETICS": "KOSMETIK",
     "NOT_ENOUGH_WIST": "Anda tidak memiliki cukup `Wists` untuk menghapus `Background` ini",
-    "NO_BG_APPLIED": "{{author}} Kartu tersebut tidak memiliki `Background` yang diterapkan padanya",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` telah berhasil dihapus dan dikembalikan ke `Inventory` Anda",
-    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi Anda"
+    "NO_BG_APPLIED": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
+    "UNDO_BACKGROUND_SUCCESS": "`Background` telah berhasil dihapus dan dikembalikan pada `Inventory` anda",
+    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda"
 }

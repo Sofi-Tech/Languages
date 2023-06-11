@@ -1,15 +1,15 @@
 {
     "UF_DESCRIPTION": "Menghapus bingkai dari kartu",
-    "UF_CATEGORY": "Kecantikan",
+    "UF_CATEGORY": "Kosmetik",
     "INVALID_USAGE": "Coba sunf <cardcode>",
-    "INVALID_CODE": "{{author}} Kode kartu tersebut antara tidak valid atau tidak ada dalam koleksi Anda",
-    "NO_CHARACTER": "{{author}} Tidak ada karakter yang ditemukan!",
+    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
+    "NO_CHARACTER": "{{author}} Karakter tersebut sudah tidak ada lagi!",
     "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
     "NOT_FRAMED": "{{author}} Kartu tidak diberi bingkai",
     "EMBED_TITLE": "Hapus Bingkai",
     "UF_CONFIRMATION": "Anda akan menghapus bingkai\nKartu anda akan terlihat seperti berikut\nBingkai akan ditambahkan ke inventaris anda\nProses ini akan biaya 2 wists",
     "NOT_ENOUGH_WISTS": "Anda tidak memiliki cukup wists untuk menghapus bingkai",
-    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi Anda",
+    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda",
     "ALREADY_REMOVED": "Bingkai sudah dihapus",
     "UF_SUCCESSFULL": "Bingkai berhasil dihapus"
 }

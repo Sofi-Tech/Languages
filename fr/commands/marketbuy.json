@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Acheter des \"Wists\" depuis le marcher en échange de \"Gems\"",
-    "CORRECT_USAGE": "{{author}} Usage correct: `{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
+    "CORRECT_USAGE": "{{author}} Utilisation correcte:`{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
     "INVALID_DEAL_ID": "{{author}} L'ID de l'Offre fournis est invalide",
     "CANNOT_PURCHASE": "{{user}} | Impossible d'acheter cette offre",
     "CANNOT_SELF": "{{user}} | Vous ne pouvez pas interagir avec votre propre offre",

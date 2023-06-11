@@ -8,7 +8,7 @@
     "CANNOT_TOGGLE": "{{author}} ne peut pas basculer le texte pour les cartes gif ou 3D",
     "EMBED_TITLE": "SOFI : TOGGLE TEXT",
     "TT_CONFIRMATION": "Êtes-vous sûr de vouloir {{toggleInfo}}\nLe processus coûtera 1000 <:_:915619222229512213>",
-    "NO_OWNER": "La carte ne vous appartient plus",
+    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
     "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
     "TT_SUCCESSFULL": "Texte supprimé avec succès"
 }

@@ -1,7 +1,7 @@
 {
     "TC_DESCRIPTION": "Membuat sebuah \"tag\"",
     "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Cara Penggunaan: `{{prefix}}tc <TagName> <Emoji>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" bukan emoji yang valid!",
     "INVALID_TAGNAME_FORMAT": "{{author}} Nama `Tag` harus alfanumerik, tidak boleh mengandung karakter khusus atau spasi atau kata yang terlarang",
     "LONG_TAGNAME": "{{author}} Nama `Tag` bisa mengandung maksimum 20 karakter",

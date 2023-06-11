@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Untuk mencari seri secara spesifik",
-    "NO__LAST_CHAR_FOUND": "{{author}} Belum ada kartu apapun pada koleksi Anda",
+    "DESCRIPTION": "Mencari seri spesifik",
+    "NO__LAST_CHAR_FOUND": "{{author}} Belum ada kartu apapun pada koleksi anda",
     "NO_CHAR_FOUND": "{{author}} Seri ini belum memiliki karakter apapun",
     "NO_SERIES_FOUND": "{{author}}Tidak dapat menemukan seri dengan nama` {{name}}`",
     "SERIES": "_SERI_",
     "ERROR": "{{author}} Terjadi kesalahan. Silakan coba lagi",
     "CARD_COLLECTED": "Kartu Terkumpul:** {{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Total Daftar keinginan: **__{{wlCount}}__**",
+    "TOTAL_WL": "Total Wishlist: **__{{wlCount}}__**",
     "CHARACTERS": "Karakter"
 }

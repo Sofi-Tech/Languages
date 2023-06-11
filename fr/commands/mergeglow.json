@@ -3,7 +3,7 @@
     "MG_CATEGORY": "Cosmetics",
     "NO_GLOWS": "{{author}} Vous n'avez encore aucun `Glows`",
     "GLOW_CODES_MISSING": "{{author}} Usage correct: `{{prefix}}mg <CodeDeGlow1> <CodeDeGlow2> <CodeDeGlow3> <CodeDeGlow4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Les `Glows` suivants sont déchargés: {{unavailableGlows}}",
+    "GLOWS_UNAVAILABLE": "{{author}} Les `Glows` suivants sont vides: {{unavailableGlows}}",
     "GLOW_CODES_UNIQUE": "{{author}} Vous avez besoin de 4 `Glows` uniques pour ce processus",
     "AVAILABLE": "Charger",
     "UNAVAILABLE": "Décharger",

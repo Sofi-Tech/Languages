@@ -3,13 +3,13 @@
     "MG_CATEGORY": "Kosmetik",
     "NO_GLOWS": "{{author}} Anda belum memiliki `Glow`",
     "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar: `{{prefix}}mg <KodeGlow1> <KodeGlow2> <KodeGlow3> <KodeGlow4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Berikut ini`Glow` kosong: `{{unavailableGlows}}`",
+    "GLOWS_UNAVAILABLE": "{{author}} `Glow`Berikut ini kosong: `{{unavailableGlows}}`",
     "GLOW_CODES_UNIQUE": "{{author}} Anda memerlukan 4 `Glow` unik untuk proses ini",
     "AVAILABLE": "Tersedia",
     "UNAVAILABLE": "Tidak tersedia",
-    "GLOWS_NOT_FOUND": "{{author}} Berikut ini `Glow` tidak valid atau tidak ada pada Anda: `{{glows}}`",
-    "EMBED_TITLE": "SOFI: GABUNGAN GLOW",
-    "MERGE_CONFIRMATION": "Anda akan `Merge` berikut ini `Glows`:\n\n{{glows}}\n\nAnda akan menerima **1**x <:resin:938131736741691442>",
-    "SURE": "Apakah Anda yakin?",
+    "GLOWS_NOT_FOUND": "{{author}}`Glow` Berikut ini tidak valid atau tidak ada pada Anda: `{{glows}}`",
+    "EMBED_TITLE": "SOFI: GABUNGKAN GLOW",
+    "MERGE_CONFIRMATION": "Anda akan `Merge` `Glows`berikut ini :\n\n{{glows}}\n\nAnda akan menerima **1**x <:resin:938131736741691442>",
+    "SURE": "Apakah anda yakin?",
     "ERROR": "Kesalahan: {{error}}"
 }

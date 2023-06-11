@@ -1,16 +1,16 @@
 {
     "CREATE_ALBUM_DESCRIPTION": "Buat dasar untuk \"Album\"",
     "CREATE_ALBUM_CATEGORY": "Album",
-    "CREATE_ALBUM_SLASH_DESC": "Masukkan nama \"Album\" Anda",
+    "CREATE_ALBUM_SLASH_DESC": "Masukkan nama \"Album\" anda",
     "PROVIDE_ALBUM_NAME": "{{author}} Berikan nama `Album`",
     "ALBUM_NAME_ERROR": "Nama `Album` anda harus alfanumerik dan tidak boleh mengandung:\n- Karakter khusus\n- Spasi\n- Huruf besar",
     "ALBUM_NAME_LONG": "{{author}} Nama `Album` dapat berisi maksimal 20 karakter",
     "MAX_ALBUMS": "{{author}} Anda hanya dapat memiliki maksimal 10 `Album`",
     "ALBUM_NAME_EXISTS": "{{author}} `Album` dengan nama `{{name}}` sudah ada",
-    "ALBUM_CREATE_CONFIRMATION": "Anda akan membuat `Album` dengan nama `{{albumName}}`\nMembuat `Album` gratis, tetapi Anda harus membeli halaman dengan `Silver`\nGunakan `salbumconfig` atau `sacf` untuk mengonfigurasi album",
-    "BUTTON_ACCEPT": "Ya, buat",
-    "BUTTON_DENY": "Tidak sekarang",
+    "ALBUM_CREATE_CONFIRMATION": "Anda akan membuat `Album` dengan nama `{{albumName}}`\nMembuat `Album` gratis, tetapi anda harus membeli halaman dengan `Silver`\nGunakan `salbumconfig` atau `sacf` untuk mengonfigurasi album",
+    "BUTTON_ACCEPT": "Konfirmasi",
+    "BUTTON_DENY": "Tolak",
     "NO_AMOUNT": "Anda tidak memiliki cukup `Wists` untuk membuat album",
     "ALBUM_SUCCESS": "`Album` telah berhasil dibuat",
-    "CANCEL": "Proses tersebut dibatalkan"
+    "CANCEL": "Proses dibatalkan"
 }

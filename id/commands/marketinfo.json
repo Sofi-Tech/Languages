@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Menampilkan daftar pasar Anda saat ini atau memeriksa kesepakatan jika Anda memberikan ID",
-    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang Anda salah",
+    "DESCRIPTION": "Menampilkan daftar pasar anda saat ini atau memeriksa penawaran jika anda memberikan ID",
+    "INVALID_DEAL_ID": "{{author}} ID Transaksi yang anda berikan tidak valid",
     "TRADER": "Pedagang",
     "DEAL_ID": "ID Transaksi",
     "PRODUCT": "Produk",
@@ -8,7 +8,7 @@
     "RATE": "Harga",
     "LISTED": "Terdaftar",
     "NO_LISTINGS_FOUND": "{{user}} Anda tidak memiliki daftar di pasar",
-    "INFO": "Gunakan perintah `{{prefix}}mul <ID>` untuk menghapus daftar transaksi Anda saat ini\n**Hanya satu transaksi yang dapat didaftarkan dalam satu waktu**",
+    "INFO": "Gunakan perintah `{{prefix}}mul <ID>` untuk menghapus daftar transaksi anda saat ini\n**Hanya satu transaksi yang dapat didaftarkan dalam satu waktu**",
     "FOOTER": "Menampilkan 1-{{pages}} dari {{total}} | Gunakan perintah `{{prefix}}mp <ID>` untuk membeli `Wists`!",
     "EMBED_TITLE": "DAFTAR ANDA:"
 }
