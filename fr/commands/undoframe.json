@@ -1,8 +1,8 @@
 {
     "UF_DESCRIPTION": "Supprimer le cadre de la carte",
-    "UF_CATEGORY": "Cosmétiques",
+    "UF_CATEGORY": "Cosmetics",
     "INVALID_USAGE": "Essayer sunf <code de carte>",
-    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est sois invalide ou n'est pas dans votre collection",
+    "INVALID_CODE": "{{author}} Ce code de carte est sois invalide ou alors n'est pas dans votre collection",
     "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
     "NOT_FRAMED": "{{author}} La carte n'est pas encadrée",

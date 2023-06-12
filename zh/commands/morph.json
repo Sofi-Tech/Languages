@@ -6,7 +6,7 @@
     "CONTINUE": "您想要继续转换这张卡吗?",
     "MORPH_CONFIRMATION": "{{author}}, 您将要转换 `{{code}}`，花费 `350 银`",
     "CANCELLED": "{{author}} 您取消了交易",
-    "NOT_ENOUGH_SILVERS": "{{author}} 您没有足够的银来进行转换",
+    "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
     "BALANCE": "余额：{{amount}} 银",
     "NAME": "姓名：`{{name}}`",
     "UNDO": "`Morphs` 恢复: `  {{count}}  `",

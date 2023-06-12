@@ -6,10 +6,11 @@
     "ALREADY_EXISTS": "Sie haben bereits einen Deal {{dealID}}\nEntfernen Sie den Deal, bevor Sie ihn erneut listen",
     "PRODUCTS": "Du listest auf:",
     "RATE": "Rate:",
-    "VALUE": "Wert",
+    "VALUE": "Gesamtwert:",
     "CONFIRM_ASK": "Sind Sie sicher?",
-    "CANCELLED": "Die Massenverbrennung wurde abgebrochen",
-    "NOT_ENOUGH_CANCEL": "Abgebrochen aufgrund fehlender Wists",
-    "SUCCESS": "Der Deal wurde erfolgreich gelistet",
-    "SUCCESS_FOOTER": "Deal-ID: {{dealId}}"
+    "CANCELLED": "ABGEBROCHEN",
+    "NOT_ENOUGH_CANCEL": "Du versuchst mehr `Wists` zu listen, als du besitzt",
+    "SUCCESS": "Dein Angebot wurde erfolgreich gelistet",
+    "SUCCESS_FOOTER": "Angebot wurde dem Markt hinzugefügt",
+    "EMBED_TITLE": "SOFI MARKT:"
 }

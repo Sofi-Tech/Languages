@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Verwenden Sie den Rahmen, den Sie auf den Karten gekauft haben",
+    "UF_DESCRIPTION": "Fügt deiner Karte einen \"Frame\" hinzu",
     "UF_CATEGORY": "Kosmetik",
     "INVALID_USAGE": "Korrekte Verwendung: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
-    "CANNOT_APPLY": "Sie können keine Rahmen auf 3D-Karten anwenden",
+    "CANNOT_APPLY": "{{author}} Du kannst keinen `Frame`für eine `3D`Karte verwenden",
     "NO_GIF": "{{author}} Du kannst keinen „Frame“ auf eine „GIF“-Karte anwenden",
-    "NO_FRAMES_FOUND": "{{author}} Keine Rahmen gefunden",
+    "NO_FRAMES_FOUND": "{{author}} Dieser `Frame`Code ist entweder ungültig oder nicht in deinem `Inventory`",
     "EMBED_TITLE": "FRAME ANWENDEN:",
-    "UF_CONFIRMATION": "Sie sind dabei, {{frameName}} anzuwenden\nIhre Karte wird wie unten dargestellt aussehen\n",
-    "EMBED_FOOTER": "Die Karte ist gerahmt. Verwenden Sie den Befehl undoframe, um den angewendeten Rahmen wieder in den Bestand zu bringen",
+    "UF_CONFIRMATION": "Du bist dabei, {{frameName}} deiner Karte hinzuzufügen",
+    "EMBED_FOOTER": "Die Karte hat bereits einen `Frame`. Einen anderen hinzuzufügen wird den vorherigen zerstören!",
     "NO_OWNER": "Diese Karte befindet sich nicht länger in deinem Besitz",
-    "FRAME_NOT_FOUND": "Sie haben diesen Rahmen nicht",
-    "UF_SUCCESSFULL": "ERFOLGREICH"
+    "FRAME_NOT_FOUND": "{{author}} Du hast keinen **{{frameName}}** `Frame`",
+    "UF_SUCCESSFULL": "Der `Frame` wurde erfolgreich hinzugefügt"
 }

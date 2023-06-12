@@ -1,10 +1,10 @@
 {
-    "BGS_DESCRIPTION": "Tingnan ang mga background para sa 3D",
+    "BGS_DESCRIPTION": "Tingnan ang mga backgrounds para sa 3D",
     "BGS_CATEGORY": "Kosmetiko",
-    "BGS_SLASH_DESC": "Ilagay ang code ng \"Background\" na hinahanap mo",
+    "BGS_SLASH_DESC": "Ilagay ang code ng \"Background\" na iyong hinahanap",
     "EMBED_TITLE": "SOFI 3D BACKGROUNDS:",
     "SHOWING_PAGE": "Nagpapakita ng pahinang: {{page}}/{{pages}}",
     "APPLY_BG": "Upang mag-apply ng `Background` gamitin ang command na `sbg <code> <bgID>`",
-    "VIEW_BACKGROUNDS": "Pindutin dito upang makita lahat ng `Backgrounds`",
-    "NO_BG_FOUND": "Hindi ito isang valid na`Background` ID"
+    "VIEW_BACKGROUNDS": "Pindutin ito upang makita lahat ng `Backgrounds`",
+    "NO_BG_FOUND": "Hindi ito isang wasto na`Background` ID"
 }

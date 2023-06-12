@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Supprime le \"Glow\" d'une carte",
+    "UNG_DESCRIPTION": "Retire le \"Glow\" d'une carte",
     "UNG_CATEGORY": "Cosmetics",
     "INVALID_USAGE": "Fournir un code de carte valide",
-    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est sois invalide ou n'est pas dans votre collection",
+    "INVALID_CODE": "{{author}} Ce code de carte est sois invalide ou alors n'est pas dans votre collection",
     "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
-    "NOT_GLOWED": "{{author}} La carte n'a pas de `Glow`appliquée sur elle",
+    "NOT_GLOWED": "{{author}} La carte n'a pas de `Glow`appliqué sur elle",
     "EMBED_TITLE": "RETIRE LE GLOW",
-    "UNG_CONFIRMATION": "Vous êtes sur le point de supprimer la lueur de votre carte\nVotre carte aura l'apparence suivante\nLe processus coûtera 100 silver",
-    "EMBED_FOOTER": "La lueur sera supprimée et ne reviendra pas dans votre inventaire",
+    "UNG_CONFIRMATION": "Êtes-vous sûr de vouloir retirer le `Glow`de cette carte?\nCe processus vous coûtera **100** `Silver`",
+    "EMBED_FOOTER": "Le `Glow` supprimé ne retournera pas dans votre `Inventory`",
     "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
     "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
-    "UNG_SUCCESSFULL": "La lueur a été supprimée avec succès"
+    "UNG_SUCCESSFULL": "Le `Glow` a été retiré avec succès"
 }

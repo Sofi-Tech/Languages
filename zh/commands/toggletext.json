@@ -8,7 +8,7 @@
     "CANNOT_TOGGLE": "{{author}} 无法切换 gif 或 3D 卡片的文本",
     "EMBED_TITLE": "SOFI：切换文本",
     "TT_CONFIRMATION": "您确定要 {{toggleInfo}} 吗？\n这将花费 1000 <:_:915619222229512213>",
-    "NO_OWNER": "该卡片不再属于您",
-    "NOT_ENOUGH_SILVERS": "{{author}} 您没有足够的银来进行转换",
+    "NO_OWNER": "{{author}}该卡片不再属于您",
+    "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
     "TT_SUCCESSFULL": "成功删除文本"
 }

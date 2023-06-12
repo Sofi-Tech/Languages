@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "カードから光沢を削除する",
-  "UNG_CATEGORY": "化粧品",
-  "INVALID_USAGE": "有効なカードコードを入力してください",
-  "INVALID_CODE": "無効なコードが提供されました",
-  "NO_CHARACTER": "キャラクターが見つかりません",
-  "NO_GIF": "{{author}} cosmetics コマンドは gif カードには適用されません",
-  "NOT_GLOWED": "{{author}} カードには光沢がありません",
-  "EMBED_TITLE": "光沢を削除する",
-  "UNG_CONFIRMATION": "カードから光沢を削除しようとしています \n以下のようにカードが見えます \nこのプロセスには100シルバーが必要です",
-  "EMBED_FOOTER": "光沢は削除され、インベントリに戻りません",
-  "NO_OWNER": "カードはあなたのものではありません",
-  "NOT_ENOUGH_SILVERS": "光沢を削除するための十分なシルバーがありません",
-  "UNG_SUCCESSFULL": "光沢が正常に削除されました"
+    "UNG_DESCRIPTION": "カードから光沢を削除する",
+    "UNG_CATEGORY": "化粧品",
+    "INVALID_USAGE": "有効なカードコードを入力してください",
+    "INVALID_CODE": "{{author}} 無効なカードコードを入力しました",
+    "NO_CHARACTER": "キャラクターが見つかりません",
+    "NO_GIF": "{{author}} cosmetics コマンドは gif カードには適用されません",
+    "NOT_GLOWED": "{{author}} カードには光沢がありません",
+    "EMBED_TITLE": "光沢を削除する",
+    "UNG_CONFIRMATION": "カードから光沢を削除しようとしています \n以下のようにカードが見えます \nこのプロセスには100シルバーが必要です",
+    "EMBED_FOOTER": "光沢は削除され、インベントリに戻りません",
+    "NO_OWNER": "カードはあなたのものではありません",
+    "NOT_ENOUGH_SILVERS": "光沢を削除するための十分なシルバーがありません",
+    "UNG_SUCCESSFULL": "光沢が正常に削除されました"
 }

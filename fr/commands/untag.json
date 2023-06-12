@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Retire les \"Tags\" de vos cartes",
     "UT_CATEGORY": "Tags",
-    "INVALID_CODE": "Vous n'avez aucune cartes dans votre collection",
+    "INVALID_CODE": "{{author}} Impossible de trouver votre dernière carte ou essayez de fournir un code de carte",
     "UNTAG_SUCCESSFULL": "**{{cardName}}** A vu son `Tag` supprimé avec succès",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

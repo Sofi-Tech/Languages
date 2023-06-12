@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "在市场中显示您的列表或显示有关特定交易的详细信息",
-    "INVALID_DEAL_ID": "提供了无效的交易ID：请重新检查",
+    "INVALID_DEAL_ID": "{{author}}提供的Deal ID无效，请重新检查",
     "TRADER": "商人",
     "DEAL_ID": "费率",
     "PRODUCT": "产品",

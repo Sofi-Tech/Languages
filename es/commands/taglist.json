@@ -3,7 +3,7 @@
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Ese usuario no existe",
     "NO_TAGS": "{{author}} No se ha podido encontrar ningún tag",
-    "EMBED_TITLE": "Lista de tags: {{username}}",
-    "SOFI_FACT": "¡Un \"Tag\" con el nombre \"lock\" y el emoji de candado \"🔒\" evitará que quemes o regales cualquier tarjeta dentro de este Tag!\nEjemplo: \"{{prefix}}tc lock 🔒\"",
-    "EMBED_FOOTER": "Cantidad de tags: {{count}}"
+    "EMBED_TITLE": "Lista de Tags: {{username}}",
+    "SOFI_FACT": "¡Un \"Tag\" con el nombre de \"lock\" y el emote de candado \"🔒\" evitará que quemes o regales cualquier tarjeta marcada con este Tag!\nEjemplo: \"{{prefix}}tc lock 🔒\"",
+    "EMBED_FOOTER": "Cantidad de Tags: {{count}}"
 }

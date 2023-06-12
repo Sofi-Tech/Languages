@@ -3,7 +3,7 @@
     "TT_CATEGORY": "Cosméticos",
     "PROVIDE_CARD_CODE": "{{author}} Uso correcto: `{{prefix}}tt <CardCode>`",
     "INAVLID_CARD_CODE": "{{author}} El código de carta proporcionado es inválido",
-    "INVALID_CODE": "{{author}} Aún no tienes ninguna carta en tu colección",
+    "INVALID_CODE": "{{author}} Todavía no tienes ninguna carta en tu colección",
     "CANNOT_FIND_CARD": "{{author}} Ese personaje no existe!",
     "CANNOT_TOGGLE": "{{author}} No puede alternar el texto para las cartas \"3D\" o \"GIF\"",
     "EMBED_TITLE": "SOFI: ALTERNAR TEXTO",

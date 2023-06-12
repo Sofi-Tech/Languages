@@ -3,7 +3,7 @@
     "UB_CATEGORY": "化妆品",
     "WRONG_USAGE": "提供有效的卡片代码",
     "NO_CHARACTER_FOUND": "未找到角色",
-    "INVALID_CODE": "提供的代码无效",
+    "INVALID_CODE": "{{author}}提供的卡片码无效",
     "NO_GIF_CARD": "{{author}} 化妆品命令不适用于 GIF 卡",
     "NO_BACKGROUND": "{{author}} 该卡片未应用背景",
     "EMBED_TITLE": "撤消背景",
@@ -14,5 +14,5 @@
     "NOT_ENOUGH_WIST": "您没有足够的理智来删除背景",
     "NO_BG_APPLIED": "{{author}} 该卡片未应用背景",
     "UNDO_BACKGROUND_SUCCESS": "背景已成功删除并添加到您的库存中",
-    "NO_OWNER": "该卡片不再属于您"
+    "NO_OWNER": "{{author}}该卡片不再属于您"
 }

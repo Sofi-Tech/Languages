@@ -2,7 +2,7 @@
     "DESCRIPTION": "展示市场上的特价商品",
     "NO_LISTING_FOUND": "未找到商品",
     "STOCK": "库存",
-    "RATE": "价格",
+    "RATE": "比率:",
     "MARKET_WARN": "不要使用市场存储或隐藏列表。\n它们将被移除而不予任何补偿。\n平均价格：{{averageRate}}，交易总数：{{totalTrades}}",
     "FOOTER": "{1}-{2} 共 {3} 条结果 | 购买使用 {{prefix}}mp <id> [数量]"
 }

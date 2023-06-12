@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Utilisez le cadre que vous avez acheté sur des cartes",
-    "UF_CATEGORY": "Cosmétiques",
-    "INVALID_USAGE": "suf <code> <nomducadre/codeducadre>",
-    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est sois invalide ou n'est pas dans votre collection",
-    "CANNOT_APPLY": "Vous ne pouvez pas appliquer de cadre aux cartes 3D",
-    "NO_GIF": "Les cartes gif de {{author}} ne peuvent pas être encadrées",
-    "NO_FRAMES_FOUND": "{{author}} Aucun cadre trouvé",
-    "EMBED_TITLE": "Appliquer un cadre:",
-    "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer {{frameName}}\nVotre carte sera comme ci-dessous\n",
-    "EMBED_FOOTER": "La carte est encadrée. Utilisez la commande undoframe pour récupérer le cadre appliqué",
+    "UF_DESCRIPTION": "Applique une \"Frame\" a votre carte",
+    "UF_CATEGORY": "Cosmetics",
+    "INVALID_USAGE": "Utilisation correct: `{{prefix}}uf <CodeDeCarte> <NomDeFrame/CodeDeFrame>`",
+    "INVALID_CODE": "{{author}} Ce code de carte est sois invalide ou alors n'est pas dans votre collection",
+    "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de `Frame` aux cartes `3D`",
+    "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de `Frame` a une carte `GIF`",
+    "NO_FRAMES_FOUND": "{{author}} Ce code de `Frame` est sois invalide ou alors n'est pas dans votre `Inventory`",
+    "EMBED_TITLE": "APPLIQUER UNE FRAME:",
+    "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer la `Frame` **{{frameName}}** a cette carte",
+    "EMBED_FOOTER": "La carte posséde déjà une `Frame`. En appliquée une nouvelle détruira la précédente!",
     "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
-    "FRAME_NOT_FOUND": "Vous n'avez pas ce cadre",
-    "UF_SUCCESSFULL": "SUCCÈS"
+    "FRAME_NOT_FOUND": "{{author}} Vous ne possédé pas la `Frame` **{{frameName}}**",
+    "UF_SUCCESSFULL": "La `Frame` a été appliquée avec succès"
 }
