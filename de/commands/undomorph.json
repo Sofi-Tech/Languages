@@ -3,13 +3,13 @@
     "UM_CATEGORY": "Kosmetik",
     "INVALID_USAGE": "Gültigen Kartencode bereitstellen",
     "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
-    "NO_CHARACTER": "Kein Charakter gefunden",
-    "NO_GIF": "{{author}} Kosmetik-Befehl gilt nicht für GIF-Karten",
+    "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
+    "NO_GIF": "{{author}} Du kannst keine Kosmetischen Veränderungen von einer `GIF`Karte entfernen",
     "NOT_MORPHED": "{{author}} Die Karte ist nicht verwandelt",
     "EMBED_TITLE": "ENTFERNE MORPH",
     "UM_CONFIRMATION": "Bist du sicher, dass du den „Morph“ dieser Karte entfernen möchtest? Dieser Vorgang kostet **100** „Silver“.",
     "NO_OWNER": "Diese Karte befindet sich nicht länger in deinem Besitz",
     "SOMETHING_WENT_WRONG": "Etwas ist schief gelaufen.. <:sofi_cry:1008533719092559914>",
-    "NOT_ENOUGH_SILVERS": "Sie haben nicht genug Silbermünzen, um die Verwandlung rückgängig zu machen",
+    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` hierfür",
     "UM_SUCCESSFULL": "Die Verwandlung wurde erfolgreich entfernt"
 }
