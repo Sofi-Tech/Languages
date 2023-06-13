@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Startet ein Wort-Rate-Spiel",
     "CORRECT_USAGE": "{{user}} korrekte Nutzung: `{{prefix}}guess <Betrag> <Währung>`\n| `Silbers` `Wists` `Edelsteine` `Cubes`",
-    "NO_TP": "{{message.author}} Du hast keinen aktiven Tradepass. Benutz den `sbump` Command und besuche die Webseite um deine `Bump` points einzutauschen",
+    "NO_TP": "{{message.author}} Du hast keinen aktiven Tradepass. Benutze den `{{prefix}}bump` Command und besuche die Webseite um deine `Bump` points einzutauschen",
     "NOT_ENOUGH_CURR": "{{user}} Du hast nicht genug {{currency}}, um das Spiel zu starten!",
     "INFO_1": "{{user}} hat ein Rätselspiel gestartet",
     "INFO_2": "Teilnehmer müssen `{{bet}} {{currency}}` haben, um teilzunehmen",

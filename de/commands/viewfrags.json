@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Zeigt die verfügbaren Fragmente eines Users an.",
+    "DESCRIPTION": "Listet die verfügbaren „Fragments“ eines Benutzers auf",
     "COLLECTION_PVT": "{{author}} Die „Fragments“ dieses Benutzers sind privat!",
     "CANNOT_FIND_FRAGS": "{{user}} Konnte in diesem Inventar keine „Fragments“ finden",
     "FRAGS_COUNT": "Anzahl der Fragments: {{totalCount}}",

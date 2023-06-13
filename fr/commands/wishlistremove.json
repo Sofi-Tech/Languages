@@ -4,5 +4,5 @@
     "NO_INDEX": "Aucun nom ni nombre fournis! Pour supprimer toute votre liste de shouhait, utilisez la command `swr full reset`",
     "FULL_RESET": "> {{author}} Vous avez retiré **__{{total}}__**personnages de votre liste de souhaits",
     "REMOVE_CHARACTER": "> {{author}} Vous avez retiré **{{name}}** de votre liste de souhaits",
-    "NO_RESULTS": "> {{author}} aucun résultat trouvé pour **\"{{name}}\"**"
+    "NO_RESULTS": "{{author}} Impossible de trouver **\"{{name}}\"** dans votre wishlist"
 }

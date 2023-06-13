@@ -4,5 +4,5 @@
     "INVALID_DEAL_ID": "{{author}} Die von dir angegebene ID ist entweder ungültig oder nicht dein Deal",
     "SUCCESS_UL": "{{user}}, der Deal `{{dealId}}` wurde erfolgreich aus dem Markt entfernt",
     "NO_LISTINGS_FOUND": "{{user}}, du hast gerade keine Angebote auf dem Markt",
-    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} Angebote wurden erfolgreich aus dem Markt entfernt"
+    "SUCCESS_UL_ALL": "{{user}} Insgesamt wurden {{totalDeals}} Angebote erfolgreich aus dem Markt entfernt"
 }

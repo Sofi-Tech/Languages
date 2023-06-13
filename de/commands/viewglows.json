@@ -7,7 +7,7 @@
     "NO_GLOWS": "{{author}} Für diesen Benutzer konnten keine „Glows“ gefunden werden",
     "SUPER": "Super",
     "EMBED_TITLE": "GLOW-PALETTE:",
-    "EMBED_FOOTER": "{{prefix}}vg [glowcode] zum Anzeigen von Glow | Glows freigeschaltet: {{count}}",
+    "EMBED_FOOTER": "Verwende den Command `{{prefix}}vg <GlowCode>` um einen `Glow` anzusehen | freigeschaltete `Glows`: {{count}}",
     "SHOWING_PAGE": "Zeige Seite: {{page}}/{{totalPages}}",
     "NO_GLOWS_FOUND": "{{author}} Es konnte kein „Tag“ mit dem Namen „**{{tagName}}**“ gefunden werden.",
     "CANNOT_FIND_GLOW": "{{author}} Ich kann den Glow mit dem Code `{{glowCode}}` nicht finden",
@@ -16,6 +16,6 @@
     "CODE": "`Code:   ` ➜ `#{{code}}`",
     "STATUS": "`Status: ` ➜ **{{status}}**",
     "TYPE": "`Typ:   ` ➜ {{type}}",
-    "OWNER": "`Besitzer:  ` ➜ <@{{ownerId}}> ",
+    "OWNER": "`Besitzer:   ` ➜ <@{{ownerId}}>",
     "PURITY": "```Reinheit:  ➜ {{purity}}```"
 }

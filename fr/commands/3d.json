@@ -2,7 +2,7 @@
     "3D_CATEGORY": "Cosmétiques",
     "NO_GIF_CONVERSION": "{{author}} Les cartes `GIF` ne peuvent pas être converties en variantes 3D",
     "CARD_3D_ALREADY": "{{author}} Cette carte est déjà dans sa forme 3D",
-    "NO_3D_VERSION": "{{author}} Ce personnage n'a pas de variante 3D actuellement",
+    "NO_3D_VERSION": "{{author}} Ce personnage n'a actuellement pas de variante 3D",
     "EMBED_TITLE": "SOFI: 3D",
     "EVENT_3D_NOTE": "Vous pouvez obtenir des variantes 3D \"Event\" lors des événements actifs",
     "3D_DESCRIPTION": "Convertit votre carte en sa variante 3D",
@@ -11,8 +11,8 @@
     "CARD_ALREADY_3D": "{{author}} Cette carte est déjà dans sa forme 3D",
     "NO_CUBES": "Vous n'avez pas assez de `Cubes`",
     "ALL_3D_NOTE": "Vous pouvez obtenir des variantes 3D \"Event\" lors des événements actifs",
-    "UPGRADED_3D": "Votre carte a été convertie avec succès dans sa variante 3D",
+    "UPGRADED_3D": "Votre carte a été convertie dans sa variante 3D avec succès",
     "HALLOWEEN_3D_FAILED": "Un fantôme d'Halloween a infesté votre carte! Le processus de conversion a échoué!",
-    "3D_NOTE": "Vous êtes sur le point de convertir cette carte en sa variante 3D. Ce processus modifiera votre carte de façon permanente et ne pourra pas être annulé. La carte nouvellement obtenue aura une \"Gen\" proportionnel à son ancienne. Ce processus supprimera également toute \"Frame\" appliqué. Ce processus supprimera également toute \"Frame\" appliquée",
+    "3D_NOTE": "Vous êtes sur le point de convertir cette carte en sa variante 3D. Ce processus modifiera votre carte de façon permanente et n'est pas réversible. La carte nouvellement obtenue aura une \"Gen\" proportionnelle à sa précédente. Ce processus supprimera également toute \"Frame\" appliquée.",
     "UPGRADE_3D_CANCEL": "Le processus de conversion a été annulé"
 }
