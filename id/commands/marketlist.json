@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Menjual \"Wists\" anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <wist> <rate>`",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <Jumlah> <Rats>`",
     "INVALID_GEM_RATE": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
     "GEM_RATE_LIES": "{{user}} Anda harus memasukkan angka antara **3.0** & **20.0**!",
     "ALREADY_EXISTS": "{{author}} Anda sudah memiliki kesepakatan!\nGunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapusnya, sebelum mendaftarkan transaksi yang baru",

@@ -3,7 +3,7 @@
     "UB_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
     "NO_CHARACTER_FOUND": "{{author}} Se você está vendo esta mensagem, por favor notifique um desenvolvedor. [UNDOBACKGROUND ERROR]",
-    "INVALID_CODE": "{{author}} O código dessa carta é inválido ou não está em sua coleção",
+    "INVALID_CODE": "{{author}} O código da carta é inválido ou não está em sua coleção",
     "NO_GIF_CARD": "{{author}} Cartas `GIF` não podem ter um `Plano de Fundo` aplicado",
     "NO_BACKGROUND": "{{author}} A carta não possui \"Plano de Fundo\" aplicada nela",
     "EMBED_TITLE": "REMOVER PLANO DE FUNDO",
@@ -13,5 +13,6 @@
     "COSMETICS": "COSMÉTICOS",
     "NOT_ENOUGH_WIST": "Você não tem `Wists` suficientes para remover o `Plano de Fundo`",
     "NO_BG_APPLIED": "{{author}} A carta não tem `Plano de Fundo` aplicado nela",
-    "UNDO_BACKGROUND_SUCCESS": "O `Plano de Fundo` foi removido com sucesso e retornado ao seu `Inventário`"
+    "UNDO_BACKGROUND_SUCCESS": "O `Plano de Fundo` foi removido com sucesso e retornado ao seu `Inventário`",
+    "NO_OWNER": "{{author}} Esta carta não está mais em sua coleção"
 }

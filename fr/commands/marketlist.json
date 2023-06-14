@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Met vos \"Wists\" sur le marché, qui peuvent ensuite être achetés par d'autres joueurs avec des \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}ml <wist> <taux>`",
+    "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}ml <Quantité> <Taux>`",
     "INVALID_GEM_RATE": "{{user}} Vous devez entrer un nombre entre **3.0** & **20.0**!",
     "GEM_RATE_LIES": "{{user}} Vous devez entrer un nombre entre **3.0** & **20.0**!",
     "ALREADY_EXISTS": "{{author}} Vous avez déjà une offre existante!\nUtilisez la commande `{{prefix}}mul {{dealID}}` pour la retirer, avant de pouvoir en republier une",

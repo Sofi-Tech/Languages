@@ -17,7 +17,7 @@
     "REQUIRE_MEMBER_PERMISSIONS": "`Вам нужны: {{permissions}} для использования этой команды`",
     "COMMAND_COOLDOWN": "> [`{{command}}`]Подождите {{cooldown}} прежде чем использовать команду.",
     "REGISTER_USER": "{{author}} Используйте команду `{{prefix}}register` и перейдите на сайт для проверки",
-    "USER_COMMAND_QUEUE": "<@{{id}}> Вам необходимо выполнить команду {{existsFor}}, прежде чем продолжить",
+    "USER_COMMAND_QUEUE": "<@{{id}}> Вам нужно завершить команду {{existsFor}} перед тем, как продолжить",
     "AUTHOR_COMMAND_QUEUE": "Завершите команду {{existsFor}}, прежде чем продолжить",
     "SAFE_MODE": "> Бот находится в безопасном режиме {{eta}}\nОна скоро вернется ❤",
     "CATEGORY_DISABLED": "> Эта категория отключена\nПричина: `{{category}}`",

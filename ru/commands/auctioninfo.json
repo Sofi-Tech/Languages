@@ -1,7 +1,7 @@
 {
     "AI_DESCRIPTION": "Отображает информацию об \"Auction\"",
     "AI_CATEGORY": "Карты",
-    "INVALID_ID": "{{author}} Вы указали недействительный `Auction` идентификатор",
+    "INVALID_ID": "{{author}} Указанный вами `Auction` идентификатор недействителен",
     "EMBED_TITLE": "SOFI: AUCTION",
     "AI_GEN": "> Gen: `{{gen}}`",
     "AI_NAME": "> Имя: {{name}}",

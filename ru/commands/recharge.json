@@ -5,12 +5,12 @@
     "RG_DESCRIPTION": "Перезаряжает пустой \"Glow\"",
     "RG_CATEGORY": "Отображает \"Background Shop\"",
     "UNLOCK_GLOWS": "{{author}} У вас пока нет ни одного `Glows`",
-    "NO_GLOWCDE": "{{author}} Вам необходимо предоставить `Glow` код",
+    "NO_GLOWCDE": "{{author}} Вам нужно указать `Glow` код",
     "GLOW_NOT_FOUND": "{{author}} Указанный вами`Glow` код недействителен",
     "GLOW_AVAILABLE": "{{author}} Этот `Glow` уже заряжен",
-    "CANCEL_RECHARGE": "Процесс был отменен",
-    "EMBED_TITLE": "SOFI: СВЯЧИНИЕ ПЕРЕЗАРЕЖАЕТСЯ",
+    "CANCEL_RECHARGE": "Процесс был отменён",
+    "EMBED_TITLE": "SOFI: GLOW ПЕРЕЗАРЕЖАЕТСЯ",
     "ARE_YOU_SURE": "Вы уверены?",
-    "NO_MONEY": "У вас недостаточно `Recharges`! Купите их и попробуйте еще раз",
+    "NO_MONEY": "У вас недостаточно `Recharges`! Купите их и попробуйте ещё раз",
     "SUPER_RECHARGE_CONFIRMATION": "Вы собираетесь пополнить:\n\n**{{name}} (Super)**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}} **:recharge_sofi:"
 }

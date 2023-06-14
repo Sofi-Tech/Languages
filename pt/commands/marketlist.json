@@ -1,17 +1,16 @@
 {
-  "DESCRIPTION": "Item de lista no mercado",
-  "CORRECT_USAGE": "{{user}} Uso correto: {{prefix}}ml <wist> <rate>",
-  "INVALID_GEM_RATE": "{{user}} Taxa de Gema inválida",
-  "GEM_RATE_LIES": "{{user}} A taxa de gema deve estar entre 3,0-20,0",
-  "ALREADY_EXISTS": "Você já tem um negócio existente {{dealID}}\nRemova o negócio antes de listá-lo novamente",
-  "PRODUCTS": "Produtos",
-  "RATE": "Taxa",
-  "VALUE": "Valor",
-
-  "CONFIRM_ASK": "Tem certeza?",
-  "CANCELLED": "O massburn foi cancelado",
-  "NOT_ENOUGH_CANCEL": "Cancelado devido à falta de wists",
-
-  "SUCCESS": "O negócio foi listado com sucesso",
-  "SUCCESS_FOOTER": "ID do negócio: {{dealId}}"
+    "DESCRIPTION": "Coloca seus \"Wists\" no mercado, que podem ser comprador por outros jogadores com \"Gems\"",
+    "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}ml <Quantidade> <Taxa>`",
+    "INVALID_GEM_RATE": "{{user}} Você precisa colocar um número entre **3.0** & **20.0**!",
+    "GEM_RATE_LIES": "{{user}} Você precisa colocar um número entre **3.0** & **20.0**!",
+    "ALREADY_EXISTS": "{{author}} Você já possui uma oferta existente!\nUse o comando`{{prefix}}mul {{dealID}}` para removê-la, antes de listar uma nova",
+    "PRODUCTS": "Sua lista:",
+    "RATE": "Taxa:",
+    "VALUE": "Valor Total:",
+    "CONFIRM_ASK": "Você tem certeza que você quer listar esta oferta no mercado?",
+    "CANCELLED": "CANCELADO",
+    "NOT_ENOUGH_CANCEL": "Você está tentando listar mais `Wists` do que possui",
+    "SUCCESS": "Sua oferta foi lista com sucesso",
+    "SUCCESS_FOOTER": "Oferta adicionada no mercado",
+    "EMBED_TITLE": "MERCADO SOFI:"
 }

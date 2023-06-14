@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Pesquisar séries específicas",
-    "NO__LAST_CHAR_FOUND": "Não foi possível encontrar o último caractere. Tente fornecer o nome da série",
-    "NO_CHAR_FOUND": "Nenhum personagem encontrado",
-    "NO_SERIES_FOUND": "Nenhum resultado para {{name}} encontrado",
-    "SERIES": "SÉRIES",
-    "ERROR": "Ocorreu um erro. Por favor, tente novamente",
-    "CARD_COLLECTED": "Cartas Coletadas: {{collected}}/{{totalCards}}",
-    "TOTAL_WL": "Total na Lista de Desejos: {{wlCount}}",
+    "DESCRIPTION": "Pesquisa por séries específicas",
+    "NO__LAST_CHAR_FOUND": "{{author}} Você ainda não possui cartas em sua coleção",
+    "NO_CHAR_FOUND": "{{author}} Esta série não possui personagens ainda",
+    "NO_SERIES_FOUND": "{{author}} Não foi possível encontrar nenhuma série com o nome `{{name}}`",
+    "SERIES": "__SÉRIES__",
+    "ERROR": "{{author}} Ocorreu um erro. Por favor, tente novamente",
+    "CARD_COLLECTED": "Cartas Coletadas: **{{collected}}/{{totalCards}}**",
+    "TOTAL_WL": "Total na Lista de Desejos: **__{{wlCount}}__**",
     "CHARACTERS": "Personagens"
 }
