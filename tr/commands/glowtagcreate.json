@@ -2,7 +2,7 @@
     "GTC_DESCRIPTION": "Bir \"Glow Tag\"i oluşturur",
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gtc <EtiketAdı> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
+    "INVALID_EMOJI": "{{author}} Bu emoji geçersizdir",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Bu isme sahip bir \"Glow Tag\" zaten var",
     "CREATED_GLOWTAG": "{{author}} `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu"
 }

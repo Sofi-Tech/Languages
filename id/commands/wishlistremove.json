@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Menghapus karakter dari wishlist anda",
-    "CATEGORY": "Daftar keinginan",
+    "CATEGORY": "Wishlist",
     "NO_INDEX": "Tidak ada nama atau nomor yang diberikan! Untuk menghapus seluruh wishlist, gunakan perintah`swr full reset`",
     "FULL_RESET": "> {{author}} Anda menghilangkan **__{{total}}__**karakter dari wishlist anda",
     "REMOVE_CHARACTER": "> {{author}} Anda menghapus **{{name}}** dari wishlist anda",
