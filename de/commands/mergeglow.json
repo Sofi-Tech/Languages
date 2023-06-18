@@ -7,9 +7,9 @@
     "GLOW_CODES_UNIQUE": "{{author}} Für diesen Vorgang benötigst du 4 einzigartige „Glows“",
     "AVAILABLE": "Verfügbar",
     "UNAVAILABLE": "Nicht verfügbar",
-    "GLOWS_NOT_FOUND": "{{author}} kann Glow mit den Codes {{glows}} nicht finden",
+    "GLOWS_NOT_FOUND": "{{author}} Die folgenden „Glows“ sind entweder ungültig oder nicht in deinem Verzeichnis: „{{glows}}“.",
     "EMBED_TITLE": "SOFI: GLOW MERGE",
-    "MERGE_CONFIRMATION": "Du bist dabei, folgende Glows zu fusionieren:\n\n{{glows}}\n\nDu erhältst 1 <:resin:938131736741691442>",
+    "MERGE_CONFIRMATION": "Du bist dabei, die folgenden „Glows“ „zusammenführen“:\n\n\n\n{{glows}}\n\n\n\nDu erhältst **1**x\n\n<:resin:938131736741691442>",
     "SURE": "Bist du sicher?",
     "ERROR": "Fehler: {{error}}"
 }
