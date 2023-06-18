@@ -6,5 +6,5 @@
     "CANCELLED_UNLOCK_GLOW": "Die Transaktion wurde abgebrochen",
     "NOT_ENOUGH_GEMS": "Du hast nicht genug `Gems`",
     "EMBED_GLOW_TITLE": "SOFI: GLOW GENERIEREN",
-    "UNLOCK_GLOW_SUCCESS": "Herzlichen Glückwunsch {{author}}! Sie haben `{{glowName}}`(`#{{glowCode}}`) freigeschaltet."
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Du hast **{{glowName}}** `#{{glowCode}}` erhalten"
 }

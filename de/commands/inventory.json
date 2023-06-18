@@ -13,6 +13,6 @@
     "SELF_INV_EMPTY": "{{author}} Dein „Inventar“ ist leer",
     "USER_INV_EMPTY": "Das Inventar dieses Benutzers ist leer",
     "NO_BG_FOUND": "Du hast keine „Backgrounds“.",
-    "NO_ITEM_FOUND": "Der Gegenstand konnte nicht in diesem Inventar gefunden werden",
+    "NO_ITEM_FOUND": "{{author}} Konnte diesen „Item“ nicht finden im „Inventar“",
     "HIDE_INV": "Um dein Inventar zu verdecken, benutze den Befehl `spvt inv`"
 }
