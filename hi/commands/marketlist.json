@@ -1,17 +1,14 @@
 {
-  "DESCRIPTION": "मार्केट में आइटम की सूची",
-  "CORRECT_USAGE": "{{user}} सही उपयोग: {{prefix}}ml <wist> <rate>",
-  "INVALID_GEM_RATE": "{{user}} अमान्य जेम रेट",
-  "GEM_RATE_LIES": "{{user}} जेम रेट 3.0-20.0 के बीच होना चाहिए",
-  "ALREADY_EXISTS": "आपके पास एक मौजूदा सौदा है {{dealID}}\nलिस्टिंग फिर से करने से पहले सौदे को अनलिस्ट करें",
-  "PRODUCTS": "उत्पाद",
-  "RATE": "मूल्यांकन",
-  "VALUE": "मूल्य",
-
-  "CONFIRM_ASK": "क्या आप सही हैं?",
-  "CANCELLED": "रद्द",
-  "NOT_ENOUGH_CANCEL": "wists की कमी के कारण रद्द कर दिया गया",
-
-  "SUCCESS": "सौदा सफलतापूर्वक लिस्ट किया गया",
-  "SUCCESS_FOOTER": "डील आईडी: {{dealId}}"
+    "DESCRIPTION": "मार्केट में आइटम की सूची",
+    "CORRECT_USAGE": "{{user}} सही उपयोग: {{prefix}}ml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} अमान्य जेम रेट",
+    "GEM_RATE_LIES": "{{user}} जेम रेट 3.0-20.0 के बीच होना चाहिए",
+    "ALREADY_EXISTS": "आपके पास एक मौजूदा सौदा है {{dealID}}\nलिस्टिंग फिर से करने से पहले सौदे को अनलिस्ट करें",
+    "PRODUCTS": "उत्पाद",
+    "RATE": "मूल्यांकन",
+    "VALUE": "मूल्य",
+    "CONFIRM_ASK": "क्या आप सही हैं?",
+    "CANCELLED": "रद्द",
+    "NOT_ENOUGH_CANCEL": "wists की कमी के कारण रद्द कर दिया गया",
+    "SUCCESS": "सौदा सफलतापूर्वक लिस्ट किया गया"
 }
