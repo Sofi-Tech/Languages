@@ -21,9 +21,9 @@
     "MT_ENDS": "Multi Trade endet in: {{timer}}",
     "MT_INFO_1": "🤝 Präfixe: `Background [&]` `Glow [#]` `Fragments[-]` `Frames [$]` `Tag [%]`",
     "MT_INFO_2": "🔮 `Crystal`-Kürzel 🔥 `[fi-c]` 🌲 `[wo-c]` etc.",
-    "MT_INFO_3": "🗒️ Fügen Sie Hinweise für Handel hinzu, um ihnen den benötigten Kontext zu geben.",
+    "MT_INFO_3": "🗒️ Füge diesem Handel Notizen hinzu, um unseren Protokollen einen Kontext hinzuzufügen",
     "MT_INFO_4": "📛 Melde Spieler, die nach einer Krypto-Zahlung fragen, da es sich um ein verbietbares Vergehen handelt!",
     "MT_COMPLETE": "Multi-Trade: (abgeschlossen)",
-    "MISSING_ITEMS": "Ihnen fehlen",
+    "MISSING_ITEMS": "{{user}} Dir fehlen die folgenden `Items` fehlen dir in deinem `Inventory` und konnten nicht hinzugefügt werden: \n`{{items}}`",
     "CARD_LOCKED": "{{user}} Die folgenden Karten sind entweder gesperrt oder werden derzeit in einem Deck verwendet und konnten nicht hinzugefügt werden: `{{codes}}`"
 }

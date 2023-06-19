@@ -1,5 +1,5 @@
 {
-    "BID_DESCRIPTION": "Gibt dein Angebot in einer „Auktion“ ab.",
+    "BID_DESCRIPTION": "Gibt dein Gebot bei einer „Auktion“ ab.",
     "BID_CATEGORY": "Karten",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}bid <AuctionID> <amount>`",
     "INVALID_ID": "{{author}} Du hast eine ungültige „Auction“-ID angegeben",

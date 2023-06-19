@@ -6,7 +6,7 @@
     "WRONG_GLOWCODE_FORMAT": "{{author}} „Glow“-Codes beginnen immer mit einem **#**",
     "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene „Glow“-Code ist entweder ungültig oder nicht in deinem „Inventar“",
     "PROVIDE_GLOW_NAME": "{{author}} Du musst einen Namen für diesen „Glow“ angeben",
-    "GLOW_NAME_LONG": "{{author}} Der Glow-Name ist zu lang. Versuchen Sie es mit weniger als 25 Buchstaben",
+    "GLOW_NAME_LONG": "{{author}} Der Glow-Name ist zu lang. Es sind höchstens 25 Buchstaben erlaubt.",
     "GLOW_NAME_EXISTS": "{{author}} Der „Glow“ Name wird bereits an anderer Stelle verwendet",
     "EMBED_TITLE": "SOFI: GLOW-NAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "Sind Sie sicher, dass Sie `{{oldName}}` in `{{newName}}` ändern möchten?",
