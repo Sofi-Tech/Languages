@@ -9,7 +9,7 @@
     "EMBED_TITLE": "FRAME ANWENDEN:",
     "UF_CONFIRMATION": "Du bist dabei, {{frameName}} deiner Karte hinzuzufügen",
     "EMBED_FOOTER": "Die Karte hat bereits einen `Frame`. Einen anderen hinzuzufügen wird den vorherigen zerstören!",
-    "NO_OWNER": "Diese Karte befindet sich nicht länger in deinem Besitz",
+    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
     "FRAME_NOT_FOUND": "{{author}} Du hast keinen **{{frameName}}** `Frame`",
     "UF_SUCCESSFULL": "Der `Frame` wurde erfolgreich hinzugefügt"
 }

@@ -10,12 +10,12 @@
     "RATE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
     "CONFIRM_ASK": "¿Está seguro de que deseas confirmar esta transacción?",
     "ALREADY_IN_PURCHASE": "{{author}} Cancela o finaliza tu transsacción previa para poder comenzar con una nueva!",
-    "CANCELLED": "El proceso de mass burn ha sido cancelado",
+    "CANCELLED": "El proceso de mass burn ha sido cancelado ",
     "PURCHASE_FAILED": "Falló la compra de la oferta `{{dealId}}`",
     "PURCHASE_CANCELLED": "Esta oferta ya no esta disponible",
     "MISSING_GEMS": "Te faltan {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "Algo salió mal. Inténtalo de nuevo",
     "PURCHASE_SUCCESSFUL": "La transacción se realizó con éxito",
     "SUCCESS": "Se compraron {{wistAmount}} `Wists` por **{{gemPrice}}** `Gems`! | ID de oferta: {{dealId}}",
-    "EMBED_TITLE": "LIDTA DE MERCADO DE SOFI:"
+    "EMBED_TITLE": "LISTA DE MERCADO DE SOFI:"
 }

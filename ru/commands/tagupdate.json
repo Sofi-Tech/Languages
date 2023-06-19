@@ -5,7 +5,7 @@
     "TAG_NOT_FOUND": "{{author}} Не удалось найти ни одного `Tag` с именем `{{tag}}`",
     "BUTTON_NAME_LABEL": "Название",
     "BUTTON_EMOJI_LABEL": "Эмодзи",
-    "EMBED_TITLE": "Обновить тег",
+    "EMBED_TITLE": "Обновить Tag",
     "EMBED_DESCRIPTION": "Какую часть следующего `Tag` вы хотите обновить: `{{tagName}}`?",
     "EMBED_FOOTER": "Используйте кнопки ниже, чтобы продолжить",
     "REPLACE_NAME": "Введите новое имя, которое заменит `{{tagName}}`",

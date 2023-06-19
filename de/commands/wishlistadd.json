@@ -2,9 +2,9 @@
     "DESCRIPTION": "Füge Charaktere deiner Wunschliste hinzu",
     "CATEGORY": "Wunschliste",
     "ADD_CHARACTERS_ERROR": "> Du kannst deiner Wunschliste keine weiteren Charaktere hinzufügen",
-    "SEARCH_CHARACTER_ERROR": "Gib einen Namen an, um diesen Charakter deiner Wunschliste hinzuzufügen\nBenutze den Befehl `swa -f <name>` für eine exakte Suche",
-    "NO_CHARACTER_FOUND": "Dieser Charakter konnte nicht gefunden werden\nBenutze den Befehl `swa -f <name>` für eine exakte Suche",
-    "CHARACTER_ALREADY_EXISTS": "**{{name}}** ist bereits auf deiner Wunschliste",
+    "SEARCH_CHARACTER_ERROR": "Gib einen Namen an, um diesen Charakter deiner Wunschliste hinzuzufügen\nBenutze den Befehl `swa -f <name>` für eine genauere Suche",
+    "NO_CHARACTER_FOUND": "Dieser Charakter konnte nicht gefunden werden\nBenutze den Befehl `swa -f <name>` für eine genaue Suche",
+    "CHARACTER_ALREADY_EXISTS": "**{{name}}** ist bereits auf deiner Wunschliste!",
     "CHARACTER_ADDED": "{{author}} | **{{name}} ** wurde deiner Wunschliste hinzugefügt",
     "EMBED_TITLE": "<:lined:868888105611046942> __Zur Wunschliste hinzufügen__"
 }

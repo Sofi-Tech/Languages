@@ -1,10 +1,10 @@
 {
-    "BGS_DESCRIPTION": "Ve backgrounds para 3D",
+    "BGS_DESCRIPTION": "Ve \"Background\" para 3D",
     "BGS_SLASH_DESC": "Introduce el código del \"Background\" que estás buscando",
-    "BGS_CATEGORY": "Cosmetics",
+    "BGS_CATEGORY": "Cosméticos",
     "EMBED_TITLE": "BACNGROUNDS 3D DE SOFI:",
     "APPLY_BG": "Para aplicar un `Background` usa el comando `sbg <CódigoDeCarta> <IDDelBackground>`",
     "VIEW_BACKGROUNDS": "Haz clic aquí para ver todos los `Backgrounds`",
     "SHOWING_PAGE": "Mostrando página: {{page}}/{{pages}}",
-    "NO_BG_FOUND": "Esto no es un ID de `Background` válido"
+    "NO_BG_FOUND": "Este no es un ID de `Background` válido"
 }

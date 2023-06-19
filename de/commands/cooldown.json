@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Überprüft den Cooldown für folgende Aktivitäten:\n- Drop, Grab, Vote, Raid, Daily, Bump.\n- Drücke auf die Glocken-Symbole, um erinnerte Direktnachrichten zu erhalten für Drop, Vote und Daily!",
+    "DESCRIPTION": "Überprüft die Abklingzeit für folgende Aktivitäten:\n- Drop, Grab, Vote, Raid, Daily, Bump.\n- Drücke auf das Glocken-Symbol, um Direktnachrichten zu erhalten sobald dein Drop, Vote und Daily bereit ist!",
     "JOIN_SUPPORT_SERVER": "[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)",
     "DROP": "Drop",
     "GRAB": "Grab",
     "VOTE": "Vote",
     "BUMP": "Bump",
     "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` ungelesene Post! | Benutz den Befehl`{{customPrefix}}mail`um diese zu lesen"
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` ungelesene Nachicht! | Benutz den Befehl`{{customPrefix}}mail`um diese zu lesen"
 }
