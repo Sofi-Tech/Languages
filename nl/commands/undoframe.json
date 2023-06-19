@@ -1,7 +1,7 @@
 {
-  "UF_DESCRIPTION": "Verwijder het frame van de kaart",
-  "UF_CATEGORY": "Cosmetica",
-  "INVALID_USAGE": "Probeer sunf <cardcode>",
+  "UNF_DESCRIPTION": "Verwijder het frame van de kaart",
+  "UNF_CATEGORY": "Cosmetica",
+  "UNF_INVALID_USAGE": "Probeer sunf <cardcode>",
   "INVALID_CODE": "Ongeldige code opgegeven",
   "NO_CHARACTER": "Geen personage gevonden",
   "NO_GIF": "{{author}} cosmetica commando is niet van toepassing op gifkaarten",

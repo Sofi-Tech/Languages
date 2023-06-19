@@ -1,7 +1,7 @@
 {
-  "UF_DESCRIPTION": "إزالة الإطار من البطاقة",
-  "UF_CATEGORY": "مستحضرات التجميل",
-  "INVALID_USAGE": "جرب sunf < كود البطاقة >",
+  "UNF_DESCRIPTION": "إزالة الإطار من البطاقة",
+  "UNF_CATEGORY": "مستحضرات التجميل",
+  "UNF_INVALID_USAGE": "جرب sunf < كود البطاقة >",
   "INVALID_CODE": "الكود المُدخل غير صحيح",
   "NO_CHARACTER": "لم يتم العثور على شخصية",
   "NO_GIF": "{{author}} أمر المستحضرات التجميلية غير قابل للتطبيق على بطاقات ال GIF",

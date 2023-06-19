@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "使用您在卡片上购买的框架",
-    "UF_CATEGORY": "化妆品",
-    "INVALID_USAGE": "suf <code> <framename/framecode>",
-    "INVALID_CODE": "{{author}}提供的卡片码无效",
-    "CANNOT_APPLY": "您无法为 3D 卡片使用框架",
-    "NO_GIF": "{{author}} gif 卡片无法加框架",
-    "NO_FRAMES_FOUND": "{{author}} 找不到框架",
-    "EMBED_TITLE": "应用框架：",
-    "UF_CONFIRMATION": "您将应用 {{frameName}}\n您的卡片将如下所示\n",
-    "EMBED_FOOTER": "该卡片已加框。使用“undoframe”命令将已应用的框架返回到清单中",
-    "NO_OWNER": "{{author}}该卡片不再属于您",
-    "FRAME_NOT_FOUND": "您没有那个框架",
-    "UF_SUCCESSFULL": "成功"
+  "UF_DESCRIPTION": "使用您在卡片上购买的框架",
+  "UF_CATEGORY": "化妆品",
+  "UF_INVALID_USAGE": "suf <code> <framename/framecode>",
+  "INVALID_CODE": "{{author}}提供的卡片码无效",
+  "CANNOT_APPLY": "您无法为 3D 卡片使用框架",
+  "NO_GIF": "{{author}} gif 卡片无法加框架",
+  "NO_FRAMES_FOUND": "{{author}} 找不到框架",
+  "EMBED_TITLE": "应用框架：",
+  "UF_CONFIRMATION": "您将应用 {{frameName}}\n您的卡片将如下所示\n",
+  "EMBED_FOOTER": "该卡片已加框。使用“undoframe”命令将已应用的框架返回到清单中",
+  "NO_OWNER": "{{author}}该卡片不再属于您",
+  "FRAME_NOT_FOUND": "您没有那个框架",
+  "UF_SUCCESSFULL": "成功"
 }

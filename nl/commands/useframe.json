@@ -1,7 +1,7 @@
 {
   "UF_DESCRIPTION": "Gebruik het frame dat je hebt gekocht op kaarten",
   "UF_CATEGORY": "Cosmetica",
-  "INVALID_USAGE": "suf <code> <framename/framecode>",
+  "UF_INVALID_USAGE": "suf <code> <framename/framecode>",
   "INVALID_CODE": "Ongeldige code opgegeven",
   "CANNOT_APPLY": "Je kunt geen frames toepassen op 3D-kaarten",
   "NO_GIF": "{{author}} GIF-kaarten kunnen niet worden ingelijst",

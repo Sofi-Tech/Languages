@@ -1,7 +1,7 @@
 {
-  "UF_DESCRIPTION": "कार्ड से फ्रेम हटाएं",
-  "UF_CATEGORY": "कॉस्मेटिक्स",
-  "INVALID_USAGE": "<cardcode> को अमान्य करने का प्रयास करें।",
+  "UNF_DESCRIPTION": "कार्ड से फ्रेम हटाएं",
+  "UNF_CATEGORY": "कॉस्मेटिक्स",
+  "UNF_INVALID_USAGE": "<cardcode> को अमान्य करने का प्रयास करें।",
   "INVALID_CODE": "अमान्य कोड दिया गया",
   "NO_CHARACTER": "कोई चरित्र नहीं मिला",
   "NO_GIF": "{{author}} कॉस्मेटिक कमांड जीफ कार्ड्स के लिए लागू नहीं होते हैं।",

@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Bir karttan \"Glow\"u kaldırır",
-    "UNG_CATEGORY": "Kozmetik",
-    "INVALID_USAGE": "Geçerli bir kart kodu giriniz",
-    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
-    "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
-    "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
-    "NOT_GLOWED": "{{author}} Bu karta hiçbir `Glow` uygulanmamış",
-    "EMBED_TITLE": "GLOW'U KALDIR",
-    "UNG_CONFIRMATION": "Bu kartın `Glow` özelliğini kaldırmak istediğinizden emin misiniz?\nBu işlem **100** `Silver`e mal olacak",
-    "EMBED_FOOTER": "Kaldırılan `Glow`, `Inventory` geri gelmeyecek",
-    "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
-    "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
-    "UNG_SUCCESSFULL": "`Glow` başarıyla kaldırıldı"
+  "UNG_DESCRIPTION": "Bir karttan \"Glow\"u kaldırır",
+  "UNG_CATEGORY": "Kozmetik",
+  "UNG_INVALID_USAGE": "Geçerli bir kart kodu giriniz",
+  "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
+  "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
+  "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
+  "NOT_GLOWED": "{{author}} Bu karta hiçbir `Glow` uygulanmamış",
+  "EMBED_TITLE": "GLOW'U KALDIR",
+  "UNG_CONFIRMATION": "Bu kartın `Glow` özelliğini kaldırmak istediğinizden emin misiniz?\nBu işlem **100** `Silver`e mal olacak",
+  "EMBED_FOOTER": "Kaldırılan `Glow`, `Inventory` geri gelmeyecek",
+  "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
+  "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
+  "UNG_SUCCESSFULL": "`Glow` başarıyla kaldırıldı"
 }

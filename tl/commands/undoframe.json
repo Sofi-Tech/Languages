@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Tanggalin ang frame mula sa card",
-    "UF_CATEGORY": "Kosmetiko",
-    "INVALID_USAGE": "Subukan ang sunf <cardcode>",
-    "INVALID_CODE": "{{author}} Ang code ng card na iyan ay hindi wasto o wala sa iyong koleksyon",
-    "NO_CHARACTER": "{{author}}Ang karakter na iyan ay wala na!",
-    "NO_GIF": "{{author}} Hindi mo maaaring tanggalin ang cosmetics ng isang `GIF` na card",
-    "NOT_FRAMED": "Hindi napapaloob sa frame ang card ni {{author}}",
-    "EMBED_TITLE": "Tanggalin ang Frame",
-    "UF_CONFIRMATION": "Nasa proseso ka na ngayong tanggalin ang frame\nAng hitsura ng iyong card ay ganito\nAng frame ay idadagdag sa iyong inventory\nMay bayad na 2 wists para sa prosesong ito",
-    "NOT_ENOUGH_WISTS": "Wala kang sapat na wists para tanggalin ang frame",
-    "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
-    "ALREADY_REMOVED": "Nakuha na ang frame dati pa",
-    "UF_SUCCESSFULL": "Tagal nang alis ang frame"
+  "UNF_DESCRIPTION": "Tanggalin ang frame mula sa card",
+  "UNF_CATEGORY": "Kosmetiko",
+  "UNF_INVALID_USAGE": "Subukan ang sunf <cardcode>",
+  "INVALID_CODE": "{{author}} Ang code ng card na iyan ay hindi wasto o wala sa iyong koleksyon",
+  "NO_CHARACTER": "{{author}}Ang karakter na iyan ay wala na!",
+  "NO_GIF": "{{author}} Hindi mo maaaring tanggalin ang cosmetics ng isang `GIF` na card",
+  "NOT_FRAMED": "Hindi napapaloob sa frame ang card ni {{author}}",
+  "EMBED_TITLE": "Tanggalin ang Frame",
+  "UF_CONFIRMATION": "Nasa proseso ka na ngayong tanggalin ang frame\nAng hitsura ng iyong card ay ganito\nAng frame ay idadagdag sa iyong inventory\nMay bayad na 2 wists para sa prosesong ito",
+  "NOT_ENOUGH_WISTS": "Wala kang sapat na wists para tanggalin ang frame",
+  "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
+  "ALREADY_REMOVED": "Nakuha na ang frame dati pa",
+  "UF_SUCCESSFULL": "Tagal nang alis ang frame"
 }

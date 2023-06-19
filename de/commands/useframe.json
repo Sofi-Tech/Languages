@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Fügt deiner Karte einen \"Frame\" hinzu",
-    "UF_CATEGORY": "Kosmetik",
-    "INVALID_USAGE": "Korrekte Verwendung: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
-    "CANNOT_APPLY": "{{author}} Du kannst keinen `Frame`für eine `3D`Karte verwenden",
-    "NO_GIF": "{{author}} Du kannst keinen „Frame“ auf eine „GIF“-Karte anwenden",
-    "NO_FRAMES_FOUND": "{{author}} Dieser `Frame`Code ist entweder ungültig oder nicht in deinem `Inventory`",
-    "EMBED_TITLE": "FRAME ANWENDEN:",
-    "UF_CONFIRMATION": "Du bist dabei, {{frameName}} deiner Karte hinzuzufügen",
-    "EMBED_FOOTER": "Die Karte hat bereits einen `Frame`. Einen anderen hinzuzufügen wird den vorherigen zerstören!",
-    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
-    "FRAME_NOT_FOUND": "{{author}} Du hast keinen **{{frameName}}** `Frame`",
-    "UF_SUCCESSFULL": "Der `Frame` wurde erfolgreich hinzugefügt"
+  "UF_DESCRIPTION": "Fügt deiner Karte einen \"Frame\" hinzu",
+  "UF_CATEGORY": "Kosmetik",
+  "UF_INVALID_USAGE": "Korrekte Verwendung: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+  "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
+  "CANNOT_APPLY": "{{author}} Du kannst keinen `Frame`für eine `3D`Karte verwenden",
+  "NO_GIF": "{{author}} Du kannst keinen „Frame“ auf eine „GIF“-Karte anwenden",
+  "NO_FRAMES_FOUND": "{{author}} Dieser `Frame`Code ist entweder ungültig oder nicht in deinem `Inventory`",
+  "EMBED_TITLE": "FRAME ANWENDEN:",
+  "UF_CONFIRMATION": "Du bist dabei, {{frameName}} deiner Karte hinzuzufügen",
+  "EMBED_FOOTER": "Die Karte hat bereits einen `Frame`. Einen anderen hinzuzufügen wird den vorherigen zerstören!",
+  "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
+  "FRAME_NOT_FOUND": "{{author}} Du hast keinen **{{frameName}}** `Frame`",
+  "UF_SUCCESSFULL": "Der `Frame` wurde erfolgreich hinzugefügt"
 }

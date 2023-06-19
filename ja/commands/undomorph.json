@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "カードから形態素を削除する",
-    "UM_CATEGORY": "コスメティック",
-    "INVALID_USAGE": "有効なカードコードを提供してください",
-    "INVALID_CODE": "{{author}} 無効なカードコードを入力しました",
-    "NO_CHARACTER": "キャラクターが見つかりません",
-    "NO_GIF": "{{author}}コスメティックコマンドはgifカードには適用されません",
-    "NOT_MORPHED": "{{author}} カードは変形していません",
-    "EMBED_TITLE": "変形を元に戻す",
-    "UM_CONFIRMATION": "あなたはカードから形態素を削除しようとしています\nあなたのカードは以下のように見えます\nこのプロセスには100シルバーがかかります。",
-    "NO_OWNER": "カードはもうあなたのものではありません",
-    "SOMETHING_WENT_WRONG": "何か大変なことが起こりました.. <:sofi_cry:1008533719092559914>",
-    "NOT_ENOUGH_SILVERS": "形態素を削除するために十分なシルバーがありません",
-    "UM_SUCCESSFULL": "変形が正常に削除されました"
+  "UM_DESCRIPTION": "カードから形態素を削除する",
+  "UM_CATEGORY": "コスメティック",
+  "UM_INVALID_USAGE": "有効なカードコードを提供してください",
+  "INVALID_CODE": "{{author}} 無効なカードコードを入力しました",
+  "NO_CHARACTER": "キャラクターが見つかりません",
+  "NO_GIF": "{{author}}コスメティックコマンドはgifカードには適用されません",
+  "NOT_MORPHED": "{{author}} カードは変形していません",
+  "EMBED_TITLE": "変形を元に戻す",
+  "UM_CONFIRMATION": "あなたはカードから形態素を削除しようとしています\nあなたのカードは以下のように見えます\nこのプロセスには100シルバーがかかります。",
+  "NO_OWNER": "カードはもうあなたのものではありません",
+  "SOMETHING_WENT_WRONG": "何か大変なことが起こりました.. <:sofi_cry:1008533719092559914>",
+  "NOT_ENOUGH_SILVERS": "形態素を削除するために十分なシルバーがありません",
+  "UM_SUCCESSFULL": "変形が正常に削除されました"
 }

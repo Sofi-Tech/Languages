@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Kartınıza bir \"Frame\" uygular",
-    "UF_CATEGORY": "Kozmetik",
-    "INVALID_USAGE": "Doğru kullanım: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
-    "CANNOT_APPLY": "{{author}} Bir `3D` karta `Frame` uygulayamazsınız",
-    "NO_GIF": "{{author}} Bir `GIF` kartına `Frame` uygulayamazsınız",
-    "NO_FRAMES_FOUND": "{{author}} Bu `Frame` kodu geçersiz veya `Inventory`nizde yok",
-    "EMBED_TITLE": "ÇERÇEVEYİ UYGULA:",
-    "UF_CONFIRMATION": "Bu karta `Frame` **{{frameName}}** uygulamak üzeresiniz",
-    "EMBED_FOOTER": "Bu karta çoktan uygulanmış bir `Frame` var. Bir tane daha uygulamak bir öncekini yok edecek!",
-    "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
-    "FRAME_NOT_FOUND": "{{author}} {{frameName}} `Frame`iniz yok",
-    "UF_SUCCESSFULL": "`Frame` başarıyla uygulandı"
+  "UF_DESCRIPTION": "Kartınıza bir \"Frame\" uygular",
+  "UF_CATEGORY": "Kozmetik",
+  "UF_INVALID_USAGE": "Doğru kullanım: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+  "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
+  "CANNOT_APPLY": "{{author}} Bir `3D` karta `Frame` uygulayamazsınız",
+  "NO_GIF": "{{author}} Bir `GIF` kartına `Frame` uygulayamazsınız",
+  "NO_FRAMES_FOUND": "{{author}} Bu `Frame` kodu geçersiz veya `Inventory`nizde yok",
+  "EMBED_TITLE": "ÇERÇEVEYİ UYGULA:",
+  "UF_CONFIRMATION": "Bu karta `Frame` **{{frameName}}** uygulamak üzeresiniz",
+  "EMBED_FOOTER": "Bu karta çoktan uygulanmış bir `Frame` var. Bir tane daha uygulamak bir öncekini yok edecek!",
+  "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
+  "FRAME_NOT_FOUND": "{{author}} {{frameName}} `Frame`iniz yok",
+  "UF_SUCCESSFULL": "`Frame` başarıyla uygulandı"
 }

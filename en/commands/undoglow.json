@@ -1,7 +1,7 @@
 {
     "UNG_DESCRIPTION": "Removes the \"Glow\" from a card",
     "UNG_CATEGORY": "Cosmetics",
-    "INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
+    "UNG_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
     "NO_CHARACTER": "{{author}} That character no longer exists!",
     "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",

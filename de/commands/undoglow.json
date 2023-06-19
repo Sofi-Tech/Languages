@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Entfernt den „Glow“ von einer Karte",
-    "UNG_CATEGORY": "Kosmetik",
-    "INVALID_USAGE": "Geben Sie einen gültigen Kartencode ein",
-    "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
-    "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
-    "NO_GIF": "{{author}} Du kannst keine Kosmetiks von einer \"GIF\" Karte entfernen",
-    "NOT_GLOWED": "{{author}} Die Karte hat keinen `Glow`",
-    "EMBED_TITLE": "ENTFERNE GLOW",
-    "UNG_CONFIRMATION": "Bist du sicher dass du den `Glow` dieser Karte entfernen möchtest?\nDer Vorgang wird **100** `Silver` kosten.",
-    "EMBED_FOOTER": "Der entfernte `Glow` wird nicht in dein `Inventory` zurückgelegt",
-    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
-    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` hierfür",
-    "UNG_SUCCESSFULL": "Der `Glow`wurde erfolgreich entfernt"
+  "UNG_DESCRIPTION": "Entfernt den „Glow“ von einer Karte",
+  "UNG_CATEGORY": "Kosmetik",
+  "UNG_INVALID_USAGE": "Geben Sie einen gültigen Kartencode ein",
+  "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
+  "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
+  "NO_GIF": "{{author}} Du kannst keine Kosmetiks von einer \"GIF\" Karte entfernen",
+  "NOT_GLOWED": "{{author}} Die Karte hat keinen `Glow`",
+  "EMBED_TITLE": "ENTFERNE GLOW",
+  "UNG_CONFIRMATION": "Bist du sicher dass du den `Glow` dieser Karte entfernen möchtest?\nDer Vorgang wird **100** `Silver` kosten.",
+  "EMBED_FOOTER": "Der entfernte `Glow` wird nicht in dein `Inventory` zurückgelegt",
+  "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
+  "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` hierfür",
+  "UNG_SUCCESSFULL": "Der `Glow`wurde erfolgreich entfernt"
 }

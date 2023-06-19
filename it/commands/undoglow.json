@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Rimuove il \"Glow\" da una carta",
-    "UNG_CATEGORY": "Cosmetici",
-    "INVALID_USAGE": "Fornisci un codice carta valido",
-    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione",
-    "NO_CHARACTER": "{{author}} Quel personaggio non esiste più!",
-    "NO_GIF": "{{author}} Non puoi rimuovere cosmetici da una carta `GIF`",
-    "NOT_GLOWED": "{{author}} Quella carta non ha `Glow` applicato",
-    "EMBED_TITLE": "RIMUOVERE IL LUCE",
-    "UNG_CONFIRMATION": "Sei sicuro di voler rimuovere il \"Bagliore\" di questa carta?\nQuesto processo costerà **100** `Silver`",
-    "EMBED_FOOTER": "Il `Glow`rimosso non ritornerà nel tuo`Inventory`",
-    "NO_OWNER": "{{author}} La carta non ti appartiene più",
-    "NOT_ENOUGH_SILVERS": "{{author}} Non possiedi abbastanza `Silver` per questo processo",
-    "UNG_SUCCESSFULL": "Il `Glow` è stato rimosso con successo"
+  "UNG_DESCRIPTION": "Rimuove il \"Glow\" da una carta",
+  "UNG_CATEGORY": "Cosmetici",
+  "UNG_INVALID_USAGE": "Fornisci un codice carta valido",
+  "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione",
+  "NO_CHARACTER": "{{author}} Quel personaggio non esiste più!",
+  "NO_GIF": "{{author}} Non puoi rimuovere cosmetici da una carta `GIF`",
+  "NOT_GLOWED": "{{author}} Quella carta non ha `Glow` applicato",
+  "EMBED_TITLE": "RIMUOVERE IL LUCE",
+  "UNG_CONFIRMATION": "Sei sicuro di voler rimuovere il \"Bagliore\" di questa carta?\nQuesto processo costerà **100** `Silver`",
+  "EMBED_FOOTER": "Il `Glow`rimosso non ritornerà nel tuo`Inventory`",
+  "NO_OWNER": "{{author}} La carta non ti appartiene più",
+  "NOT_ENOUGH_SILVERS": "{{author}} Non possiedi abbastanza `Silver` per questo processo",
+  "UNG_SUCCESSFULL": "Il `Glow` è stato rimosso con successo"
 }

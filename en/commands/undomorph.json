@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "Removes the \"Morph\" of a card",
-    "UM_CATEGORY": "Cosmetics",
-    "INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
-    "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
-    "NO_CHARACTER": "{{author}} That character no longer exists!",
-    "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
-    "NOT_MORPHED": "{{author}} That card has no `Morph` applied to it",
-    "EMBED_TITLE": "REMOVE MORPH",
-    "UM_CONFIRMATION": "Are you sure you want to remove this card's `Morph?\nThis process will cost **100** `Silver`",
-    "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, try again",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
-    "UM_SUCCESSFULL": "The `Morph` was successfully removed"
+  "UM_DESCRIPTION": "Removes the \"Morph\" of a card",
+  "UM_CATEGORY": "Cosmetics",
+  "UM_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
+  "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
+  "NO_CHARACTER": "{{author}} That character no longer exists!",
+  "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
+  "NOT_MORPHED": "{{author}} That card has no `Morph` applied to it",
+  "EMBED_TITLE": "REMOVE MORPH",
+  "UM_CONFIRMATION": "Are you sure you want to remove this card's `Morph?\nThis process will cost **100** `Silver`",
+  "NO_OWNER": "{{author}} This card is no longer in your collection",
+  "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, try again",
+  "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
+  "UM_SUCCESSFULL": "The `Morph` was successfully removed"
 }

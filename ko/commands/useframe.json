@@ -1,7 +1,7 @@
 {
   "UF_DESCRIPTION": "카드에서 구매 한 프레임을 사용하십시오",
   "UF_CATEGORY": "화장품",
-  "INVALID_USAGE": "<code> <framename/framecode>을(를) 입력하십시오.",
+  "UF_INVALID_USAGE": "<code> <framename/framecode>을(를) 입력하십시오.",
   "INVALID_CODE": "제공된 코드가 잘못되었습니다.",
   "CANNOT_APPLY": "3D 카드에 프레임을 적용할 수 없습니다",
   "NO_GIF": "{{author}} gif 카드는 프레임이 적용될 수 없습니다.",

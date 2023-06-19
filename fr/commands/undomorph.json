@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "Retirer la `Morph` d'une carte",
-    "UM_CATEGORY": "Cosmétiques",
-    "INVALID_USAGE": "Fournir un code de carte valide",
-    "INVALID_CODE": "{{author}} Ce code de carte est sois invalide ou alors n'est pas dans votre collection",
-    "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
-    "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
-    "NOT_MORPHED": "{{author}} Cette carte n'a pas de `Morph` appliqué",
-    "EMBED_TITLE": "RETIRER Morph",
-    "UM_CONFIRMATION": "Vous êtes sur le point de retirer la morphologie de votre carte\nVotre carte aura l'air comme ci-dessous\nLe processus coûtera 100 silvers",
-    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
-    "SOMETHING_WENT_WRONG": "Quelque chose s'est mal passé... <:sofi_cry:1008533719092559914>",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
-    "UM_SUCCESSFULL": "La morphologie a été retirée avec succès"
+  "UM_DESCRIPTION": "Retirer la `Morph` d'une carte",
+  "UM_CATEGORY": "Cosmétiques",
+  "UM_INVALID_USAGE": "Fournir un code de carte valide",
+  "INVALID_CODE": "{{author}} Ce code de carte est sois invalide ou alors n'est pas dans votre collection",
+  "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
+  "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
+  "NOT_MORPHED": "{{author}} Cette carte n'a pas de `Morph` appliqué",
+  "EMBED_TITLE": "RETIRER Morph",
+  "UM_CONFIRMATION": "Vous êtes sur le point de retirer la morphologie de votre carte\nVotre carte aura l'air comme ci-dessous\nLe processus coûtera 100 silvers",
+  "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
+  "SOMETHING_WENT_WRONG": "Quelque chose s'est mal passé... <:sofi_cry:1008533719092559914>",
+  "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
+  "UM_SUCCESSFULL": "La morphologie a été retirée avec succès"
 }

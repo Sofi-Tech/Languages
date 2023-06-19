@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Menghapus \"Glow\" dari kartu",
-    "UNG_CATEGORY": "Kosmetik",
-    "INVALID_USAGE": "Harap berikan kode kartu valid",
-    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
-    "NO_CHARACTER": "{{author}} Karakter tersebut sudah tidak ada lagi!",
-    "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
-    "NOT_GLOWED": "{{author}} Kartu tersebut tidak memiliki `Glow` yang digunakan",
-    "EMBED_TITLE": "MENGHAPUS GLOW",
-    "UNG_CONFIRMATION": "Apakah anda yakin ingin menghapus `Glow` kartu ini?\nProses ini akan dikenakan biaya **100** `Silver`",
-    "EMBED_FOOTER": "`Glow` yang dihapus tidak akan kembali ke `Inventory` anda",
-    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda",
-    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
-    "UNG_SUCCESSFULL": "`Glow` berhasil dihapus"
+  "UNG_DESCRIPTION": "Menghapus \"Glow\" dari kartu",
+  "UNG_CATEGORY": "Kosmetik",
+  "UNG_INVALID_USAGE": "Harap berikan kode kartu valid",
+  "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
+  "NO_CHARACTER": "{{author}} Karakter tersebut sudah tidak ada lagi!",
+  "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
+  "NOT_GLOWED": "{{author}} Kartu tersebut tidak memiliki `Glow` yang digunakan",
+  "EMBED_TITLE": "MENGHAPUS GLOW",
+  "UNG_CONFIRMATION": "Apakah anda yakin ingin menghapus `Glow` kartu ini?\nProses ini akan dikenakan biaya **100** `Silver`",
+  "EMBED_FOOTER": "`Glow` yang dihapus tidak akan kembali ke `Inventory` anda",
+  "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda",
+  "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
+  "UNG_SUCCESSFULL": "`Glow` berhasil dihapus"
 }
