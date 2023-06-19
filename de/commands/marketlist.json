@@ -1,15 +1,15 @@
 {
     "DESCRIPTION": "Bringt deine \"Wists\" auf den Markt, die mit \"Gems\" von anderen Spielern gekauft werden können",
     "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}ml <Amount> <Rate>`",
-    "INVALID_GEM_RATE": "{{user}} Ungültige Edelsteinrate",
-    "GEM_RATE_LIES": "{{user}} Du musst eine Zahl zwischen **3,0** und **20,0** eingeben!",
-    "ALREADY_EXISTS": "Sie haben bereits einen Deal {{dealID}}\nEntfernen Sie den Deal, bevor Sie ihn erneut listen",
-    "PRODUCTS": "Du listest auf:",
+    "INVALID_GEM_RATE": "{{user}} Du musst eine Zahl zwischen **3.0** & **20.0** eingeben!",
+    "GEM_RATE_LIES": "{{user}} Du musst eine Zahl zwischen **3,0** & **20,0** eingeben!",
+    "ALREADY_EXISTS": "{{author}} Du hast bereits einen vorhandenen Deal\nVerwende `{{prefix}}mul {{dealID}}` um ihn zu entfernen, bevor du einen weiteren listest",
+    "PRODUCTS": "Du listest:",
     "RATE": "Rate:",
     "VALUE": "Gesamtwert:",
-    "CONFIRM_ASK": "Sind Sie sicher?",
+    "CONFIRM_ASK": "Bist du dir sicher dass du diesen Deal auf dem Markt listen möchtest?",
     "CANCELLED": "ABGEBROCHEN",
-    "NOT_ENOUGH_CANCEL": "Du versuchst mehr `Wists` zu listen, als du besitzt",
-    "SUCCESS": "Dein Angebot wurde erfolgreich gelistet",
+    "NOT_ENOUGH_CANCEL": "Du versuchst mehr `Wists` zu listen, als du hast",
+    "SUCCESS": "Der Deal wurde erfolgreich hinzugefügt",
     "EMBED_TITLE": "SOFI MARKT:"
 }
