@@ -1,15 +1,15 @@
 {
-    "BF_DESCRIPTION": "从商店购买框架",
+    "BF_DESCRIPTION": "从\"Frame Shop\"里购买\"Frame\"",
     "BF_CATEGORY": "化妆品",
-    "NO_FRAME_NAME": "您忘记提供框架名称",
-    "NO_FRAMECODE_FOUND": "{{author}} **没有找到代码为`{{name}}`的框架",
-    "FRAME_UNAVAILABLE": "该框架不可用。请使用`sfs`检查可用框架",
-    "NO_FRAME_FOUND": "{{author}} | 没有找到框架",
-    "FRAME_NOT_PURCHASABLE": "{{ author }} 无法购买该框架",
-    "EMBED_TITLE": "交易：",
-    "YOU_GET": "你得到：",
+    "NO_FRAME_NAME": "{{author}} 请提供您想购买的`Frame`的名称",
+    "NO_FRAMECODE_FOUND": "{{author}}没有找到代码为`Frame`的框架`{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}}该框架当前不可用。 请改用命令 `sfs` 来检查当前的 `Frame` 旋转",
+    "NO_FRAME_FOUND": "{{author}} 不存在具有该代码的`Frame`",
+    "FRAME_NOT_PURCHASABLE": "{{author}} 此`Frame`是限定的，已不可被购买",
+    "EMBED_TITLE": "交易",
+    "YOU_GET": "您得到：",
     "YOU_PAY": "你付款：",
     "TRANSACTION": "交易",
-    "NO_ENOUGH_AMOUNT": "你没有足够的金额购买该框架",
-    "FRAME_PURCHASED_BY": "您的框架 `{{frame}}` 已被 `{{userId}}` {{buyCount}} 购买"
+    "NO_ENOUGH_AMOUNT": "您的货币数量不足以进行此交易",
+    "FRAME_PURCHASED_BY": "您的`Frame`**{{frame}}** 已被 `{{userId}}`| {{buyCount}} 购买"
 }
