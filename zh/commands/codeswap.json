@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "这将交换上面两张卡的代码",
-    "SLASH_DESC": "输入第一个代码。 ",
-    "SLASH_DESC2": "输入第二个代码。",
+    "DESCRIPTION": "这个动作将在两张指定的卡片之间互换代码",
+    "SLASH_DESC": "输入第一个代码",
+    "SLASH_DESC2": "输入第二个代码",
     "NO_CODES_PROVIDED": "请输入两个卡片代码",
-    "INVALID_CODES_PROVIDED": "请输入两个有效的卡片代码。"
+    "INVALID_CODES_PROVIDED": "{{author}}请输入两个有效的卡片代码"
 }

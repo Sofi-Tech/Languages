@@ -4,7 +4,7 @@
     "SLASH_DESC2": "输入该数量",
     "SLASH_DESC3": "输入您要购买的背景的号码。 [仅在项目被选为背景时有效]",
     "NO_ITEM": "请指定要购买的`Item`",
-    "TRADEPASS_INFO": "您可以用**__1x__** 个`Bump`购买4小时的`Trade Pass`，或存上**__20x__**个`Bumps`以购买30天的`Trade Pass`",
+    "TRADEPASS_INFO": "通过silvers购买交易通行证已停止。 您可以用1个bump购买四个小时的交易通行证，或者用二十个bump来买一个三十天的交易通行证",
     "CORRECT_USAGE": "{{USER}} 正确用法：`{{prefix}}买 bg <BackgroundID> <amount>`",
     "INVALID_BG_AMOUNT": "不要输入负值",
     "INVALID_BG_ID": "请提供有效的`Background`-ID",

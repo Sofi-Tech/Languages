@@ -1,15 +1,15 @@
 {
-  "UNF_DESCRIPTION": "移除卡片边框",
-  "UNF_CATEGORY": "化妆品",
-  "UNF_INVALID_USAGE": "尝试 sunf <卡片代码>",
-  "INVALID_CODE": "{{author}}提供的卡片码无效",
-  "NO_CHARACTER": "{{author}}未找到角色!",
-  "NO_GIF": "{{author}} 化妆品命令不能应用于 GIF 卡片",
-  "NOT_FRAMED": "{{author}} 卡片未有边框",
-  "EMBED_TITLE": "移除边框",
-  "UF_CONFIRMATION": "您即将移除边框\n您的卡片将如下所示\n边框将被添加到您的库存中\n该过程将花费2个wists",
-  "NOT_ENOUGH_WISTS": "您没有足够的wists来移除边框",
-  "NO_OWNER": "{{author}}该卡片不再属于您",
-  "ALREADY_REMOVED": "边框已经被移除",
-  "UF_SUCCESSFULL": "边框已成功移除"
+    "UNF_DESCRIPTION": "移除卡片边框",
+    "UNF_CATEGORY": "化妆品",
+    "UNF_INVALID_USAGE": "尝试 sunf <卡片代码>",
+    "INVALID_CODE": "{{author}} 该卡片代码无效或不在您的收藏中",
+    "NO_CHARACTER": "{{author}}未找到角色!",
+    "NO_GIF": "{{author}} 化妆品命令不能应用于 GIF 卡片",
+    "NOT_FRAMED": "{{author}} 卡片未有边框",
+    "EMBED_TITLE": "移除边框",
+    "UF_CONFIRMATION": "您即将移除边框\n您的卡片将如下所示\n边框将被添加到您的库存中\n该过程将花费2个wists",
+    "NOT_ENOUGH_WISTS": "您没有足够的wists来移除边框",
+    "NO_OWNER": "{{author}}该卡片不再属于您",
+    "ALREADY_REMOVED": "边框已经被移除",
+    "UF_SUCCESSFULL": "边框已成功移除"
 }
