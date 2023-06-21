@@ -1,18 +1,18 @@
 {
-    "DESCRIPTION": "Affiche l'-\"Inventory\" d'un l'utilisateur",
+    "DESCRIPTION": "Affiche l'-\"Inventory\" d'un utilisateur",
     "SLASH_DESC": "Sélectionnez un utilisateur afin de voir son \"Inventory\"",
-    "SLASH_DESC2": "Nommez \"Item\" que vous voulez rechercher",
+    "SLASH_DESC2": "Nommez l'-\"Item\" que vous voulez rechercher",
     "NOT_REGISTER": "{{author}} Cet utilisateur n'est pas inscrit!",
     "NO_USER_FOUND": "{{author}} Impossible de trouver cet utilisateur",
-    "INV_PRIVATE": "{{author}} L'`Inventory` de cet utilisateur est privé",
+    "INV_PRIVATE": "{{author}} L'-`Inventory` de cet utilisateur est privé",
     "ITEMS": "Items",
     "FRAMES": "Frames",
     "CRYSTALS": "Crystals",
     "BACKGROUNDS": "Backgrounds",
     "EVENT": "Event",
     "SELF_INV_EMPTY": "{{author}} Votre `Inventory` est vide",
-    "USER_INV_EMPTY": "{{author}} L'`Inventory` de cet utilisateur est vide",
+    "USER_INV_EMPTY": "{{author}} L'-`Inventory` de cet utilisateur est vide",
     "NO_BG_FOUND": "Vous n'avez aucun `Backgrounds`",
-    "NO_ITEM_FOUND": "{{author}} Impossible de trouver `Item` dans l'`Inventory`",
+    "NO_ITEM_FOUND": "{{author}} Impossible de trouver l'-`Item` dans l'-`Inventory`",
     "HIDE_INV": "Utiliser la commande `{{prefix}}pvt inv` pour rendre votre `Inventory` privé"
 }

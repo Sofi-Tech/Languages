@@ -11,7 +11,7 @@
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}give <Utilisateur/IDUtilisateur> <CodeDeCarte>`",
     "NO_CARD_FOUND": "Impossible de trouver une carte avec le code : `{{code}}`",
     "CARD_LOCKED": "Cette carte est verrouillée et ne peut pas être donnée! Utiliser la commande `{{prefix}}ut <CodeDeCarte>` pour retirer le `Tag` de cette carte",
-    "CARD_NOT_OWNED": "Vous ne possédez pas cette carte",
+    "CARD_NOT_OWNED": "Vous ne possédez plus cette carte",
     "SUCCESS": "SUCCÈS",
     "CANCELLED": "ANNULÉ",
     "GIVEN": "Expéditeur → Destinataire"

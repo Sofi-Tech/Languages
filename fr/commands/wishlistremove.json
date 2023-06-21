@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Retire un personnage de votre liste de souhaits",
-    "CATEGORY": "Liste de souhaits",
-    "NO_INDEX": "Aucun nom ni nombre fournis! Pour supprimer toute votre liste de shouhait, utilisez la command `swr full reset`",
-    "FULL_RESET": "> {{author}} Vous avez retiré **__{{total}}__**personnages de votre liste de souhaits",
+    "CATEGORY": "Wishlist",
+    "NO_INDEX": "Aucun nom ni nombre fournis! Pour supprimer toute votre liste de souhait, utilisez la commande `swr full reset`",
+    "FULL_RESET": "> {{author}} Vous avez retiré **__{{total}}__** personnages de votre liste de souhaits",
     "REMOVE_CHARACTER": "> {{author}} Vous avez retiré **{{name}}** de votre liste de souhaits",
-    "NO_RESULTS": "{{author}} Impossible de trouver **\"{{name}}\"** dans votre wishlist"
+    "NO_RESULTS": "{{author}} Impossible de trouver **\"{{name}}\"** dans votre liste de souhaits"
 }

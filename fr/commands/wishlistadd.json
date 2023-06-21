@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Ajoutez des personnages à votre liste de souhaits",
-    "CATEGORY": "Liste de souhaits",
+    "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "> Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
     "SEARCH_CHARACTER_ERROR": "Fournissez un nom pour ajouter ce personnage a votre liste de souhaits\nUtilisez `swa -f <nom>` pour une recherche précise",
     "NO_CHARACTER_FOUND": "Impossible de trouver ce personnage\nUtilisez `swa -f <nom>` pour une recherche précise",

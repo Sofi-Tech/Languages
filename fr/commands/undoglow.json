@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "Retire le \"Glow\" d'une carte",
-  "UNG_CATEGORY": "Cosmetics",
-  "UNG_INVALID_USAGE": "Fournir un code de carte valide",
-  "INVALID_CODE": "{{author}} Ce code de carte est sois invalide ou alors n'est pas dans votre collection",
-  "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
-  "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
-  "NOT_GLOWED": "{{author}} La carte n'a pas de `Glow`appliqué sur elle",
-  "EMBED_TITLE": "RETIRE LE GLOW",
-  "UNG_CONFIRMATION": "Êtes-vous sûr de vouloir retirer le `Glow`de cette carte?\nCe processus vous coûtera **100** `Silver`",
-  "EMBED_FOOTER": "Le `Glow` supprimé ne retournera pas dans votre `Inventory`",
-  "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
-  "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
-  "UNG_SUCCESSFULL": "Le `Glow` a été retiré avec succès"
+    "UNG_DESCRIPTION": "Retire le \"Glow\" d'une carte",
+    "UNG_CATEGORY": "Cosmetics",
+    "UNG_INVALID_USAGE": "Fournir un code de carte valide",
+    "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
+    "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
+    "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
+    "NOT_GLOWED": "{{author}} La carte n'a pas de `Glow`appliqué sur elle",
+    "EMBED_TITLE": "RETIRE LE GLOW",
+    "UNG_CONFIRMATION": "Êtes-vous sûr de vouloir retirer le `Glow`de cette carte?\nCe processus vous coûtera **100** `Silver`",
+    "EMBED_FOOTER": "Le `Glow` supprimé ne retournera pas dans votre `Inventory`",
+    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
+    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
+    "UNG_SUCCESSFULL": "Le `Glow` a été retiré avec succès"
 }
