@@ -1,1 +1,10 @@
-{}
+{
+  "BGS_DESCRIPTION": "عرض الخلفيات لـ 3D",
+  "BGS_CATEGORY": "مستحضرات التجميل",
+  "BGS_SLASH_DESC": "أدخل رمز \"الخلفية\" التي تبحث عنها",
+  "EMBED_TITLE": "خلفيات SOFI 3D:",
+  "APPLY_BG": "لتطبيق `خلفية` استخدم الأمر `sbg <code> <bgID>`",
+  "VIEW_BACKGROUNDS": "انقر هنا لعرض جميع `الخلفيات`",
+  "SHOWING_PAGE": "عرض الصفحة: {{page}}/{{pages}}",
+  "NO_BG_FOUND": "هذا ليس معرف `خلفية` صالح"
+}
