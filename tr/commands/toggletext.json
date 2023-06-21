@@ -3,7 +3,7 @@
     "TT_CATEGORY": "Kozmetik",
     "PROVIDE_CARD_CODE": "{{author}} Doğru kullanım: `{{prefix}}tt <CardCode>`",
     "INAVLID_CARD_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
-    "INVALID_CODE": "{{author}} Koleksiyonunuzda henüz kart hiç yok",
+    "INVALID_CODE": "{{author}} Koleksiyonunuzda henüz kart yok",
     "CANNOT_FIND_CARD": "{{author}} Bu karakter artık yok!",
     "CANNOT_TOGGLE": "{{author}} \"3D\" veya \"GIF\" kartlarının metnini değiştiremezsiniz",
     "EMBED_TITLE": "SOFI: METNİ DEĞİŞTİR",
@@ -12,5 +12,6 @@
     "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
     "TT_ENABLE_SUCCESSFULL": "Bu kartın metni devre dışı bırakıldı",
     "TOGGLE_INFO_ADD": "karta metin ekler",
-    "TOGGLE_INFO_REMOVE": "karttan metni kaldır"
+    "TOGGLE_INFO_REMOVE": "karttan metni kaldır",
+    "TT_DISABLE_SUCCESSFULL": "Bu kartın metni devre dışı bırakıldı"
 }
