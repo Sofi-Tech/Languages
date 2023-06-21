@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche les différentes versions/3D/GIF d'un personnages",
+    "DESCRIPTION": "Affiche les différentes versions/3D/GIF d'un personnage",
     "CHAR_NOT_FOUND": "Impossible de trouver le personnage que vous recherchez",
     "CHAR_NF_SENSITIVE": "Impossible de trouver un personnage. [La fonction `lookup` est sensible aux majuscules!]",
     "EMBED_TITLE": "__Personnages Correspondants__",
@@ -20,5 +20,5 @@
     "EVENT": "Event",
     "UPCOMING_EVENT": "Event à venir",
     "TOP_OWNER": "Top Propriétaires",
-    "NO_OWNER_FOUND": "Aucun Propriétaire de cette `Version` trouvé"
+    "NO_OWNER_FOUND": "Aucun propriétaire de cette `Version` trouvé"
 }
