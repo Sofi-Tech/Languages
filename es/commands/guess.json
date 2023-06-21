@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Juego de adivinar la palabra",
     "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}guess <cantidad> <moneda>`\nMonedas aceptadas:`Silvers` `Wists` `Gems` `Cubes`",
-    "NO_TP": "{{message.author}} No tiene un `Trade Pass` activo. Canjea los puntos de `sbump` en el sitio para recibir un pase de intercambio",
+    "NO_TP": "{{message.author}} No tienes un `Trade Pass` activo. Usa el comando `{{prefix}}bump` para visitar la página web e intercambiar tus puntos de `Bump` por uno",
     "NOT_ENOUGH_CURR": "{{user}} No tienes suficientes `{{currency}}` para comenzar el juego!",
     "INFO_1": "{{user}} ha iniciado el juego de adivinanza",
     "INFO_2": "Los jugadores deben tener `{{bet}} {{currency}}` para participar",

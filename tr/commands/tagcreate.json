@@ -2,7 +2,7 @@
     "TC_DESCRIPTION": "Bir \"Tag\" oluşturur",
     "TC_CATEGORY": "Etiketler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}tc <TagName> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} \"{{emoji}}\" geçerli bir emoji değildir!",
+    "INVALID_EMOJI": "{{author}} \"{{emoji}}\" Geçerli bir emoji değildir!",
     "INVALID_TAGNAME_FORMAT": "{{author}} `Tag` inizin adı alfanümerik olmalıdır ve özel karakterler, boşluklar veya küfür içeremez",
     "LONG_TAGNAME": "{{author}} Bir `Tag` adı en fazla 20 karakter içerebilir",
     "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir `Tag`ınız var",

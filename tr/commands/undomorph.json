@@ -1,8 +1,8 @@
 {
     "UM_DESCRIPTION": "Bir kartın \"Morph\" özelliğini kaldırır",
     "UM_CATEGORY": "Kozmetik",
-    "UM_INVALID_USAGE": "Geçerli kart kodu sağlayın",
-    "INVALID_CODE": "{{author}} Bu kart kodu geçersiz ya da koleksiyonunuzda yok",
+    "UM_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}um <CardCode>`",
+    "INVALID_CODE": "{{author}} Bu kart kodu geçersiz ya da koleksiyonunuzda değil",
     "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
     "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
     "NOT_MORPHED": "{{author}} Bu karta hiçbir`Morph` uygulanmamış",

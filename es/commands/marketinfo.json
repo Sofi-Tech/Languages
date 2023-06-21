@@ -5,10 +5,10 @@
     "DEAL_ID": "ID del trato",
     "PRODUCT": "Producto",
     "VALUE": "Valor",
-    "RATE": "Tasa: (Esperando para intercambiar, no lo traslades aún)",
+    "RATE": "Tasa",
     "LISTED": "Listado",
     "NO_LISTINGS_FOUND": "{{user}} No has hecho ningún listado en el mercado",
     "INFO": "Use `{{prefix}}ml` y `smul` para deslistar\nUn solo acuerdo puede estar listado al mismo tiempo",
-    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar wist usa `{{prefix}}mp <id>` [cantidad]",
+    "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Usa el comando `{{prefix}}mp <ID>` para comprar `Wists`!",
     "EMBED_TITLE": "TUS ANUNCIOS:"
 }
