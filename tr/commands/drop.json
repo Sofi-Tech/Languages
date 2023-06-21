@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Bu komut 3 kart düşürür ve her 8 dakikada bir kullanılabilir.\n- Fotoğraf olmadan düşürmek için \"sdn\" komutunu kullan. Mobil verin az olduğunda veya gecikmeyi önlemek adına yardımcıdır.",
+    "DESCRIPTION": "- Bu komut her 8 dakikada bir kullanılabilir ve 3 kart düşürür.\n- Fotoğraf olmadan düşürmek için \"sdn\" komutunu kullan. Mobil veri az olduğunda veya gecikmeyi önlemek adına yardımcıdır.",
     "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katıl](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} **Extra Drop** un kullanılıyor. `{{remaining}}` kaldı.",
-    "ON_CD": "{{author}} `Drop`un {{dropCd}} içinde hazır olacak",
-    "VOTE": "Vote",
-    "BUY_DROP": "\nAyrıca `Wist` elde etmek için `Vote` verebilir ve onlarla `Drops` satın alabilirsin!\nBunu yapmak için `sbuy drop <miktar>` komutunu kullan"
+    "EXTRA_DROP_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. `{{remaining}}` kaldı.",
+    "ON_CD": "{{author}} `Drop`unuz {{dropCd}} içinde hazır olacak",
+    "VOTE": "Oy",
+    "BUY_DROP": "\nAyrıca `Wist` elde etmek için `Vote` verebilir ve onlarla `Drops` satın alabilirsin!\nBunu yapmak için `sbuy drop <amount>` komutunu kullanınız"
 }

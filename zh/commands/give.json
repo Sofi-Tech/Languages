@@ -10,7 +10,7 @@
     "NO_CODE": "{{author}}您忘了提供卡片代码",
     "WRONG_USAGE": "{{author}}正确用法：`{{prefix}}give <User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "找不到该卡片代码：`{{code}}`",
-    "CARD_LOCKED": "该卡片已被锁定，无法送出！请使用命令`{{prefix}}ut <CardCode>`来移除该卡的`Tag'。",
+    "CARD_LOCKED": "该卡片已被锁定，无法送出！请使用命令`{{prefix}}ut <CardCode>`来移除该卡的`Tag'",
     "CARD_NOT_OWNED": "您不再拥有该卡片",
     "SUCCESS": "成功",
     "CANCELLED": "你在冒很大的wist! 取消",

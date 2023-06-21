@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Sofi'nin \"Shop\"unan \"Items\" satın alır",
-    "SLASH_DESC": "Satın almak istediğiniz `Item` adını girin",
-    "SLASH_DESC2": "Miktarı gir",
-    "SLASH_DESC3": "Satın almak istediğin `Background`'un kodunu gir. [YALNIZCA ITEM BACKGROUND OLARAK SEÇİLİ İSE ÇALIŞIR]",
+    "DESCRIPTION": "Sofi'nin \"Shop\"undan \"Item\" satın alır",
+    "SLASH_DESC": "Satın almak istediğiniz `Item`ın adını girin",
+    "SLASH_DESC2": "Miktar girin",
+    "SLASH_DESC3": "Satın almak istediğiniz `Background`ın kodunu girin. [YALNIZCA ITEM BACKGROUND OLARAK SEÇİLİ İSE ÇALIŞIR]",
     "NO_ITEM": "Lütfen satın almak için bir `Item` belirt",
     "TRADEPASS_INFO": "**__1x__** `Bump` 4 saatlik `Trade Pass` ile takas edilebilir veya **__20x__** `Bump` biriktirerek 30 günlük`Trade Pass` ile takas edebilirsin",
     "CORRECT_USAGE": "{{USER}} Doğru kullanım: `{{prefix}}buy bg <BackgroundID> <miktar>`",
-    "INVALID_BG_AMOUNT": "Negatif miktar girme",
-    "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirt",
-    "NO_ITEM_PROVIDED": "Hiçbir `Item` belirtilmedi",
+    "INVALID_BG_AMOUNT": "Negatif miktar girmeyiniz",
+    "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirtin",
+    "NO_ITEM_PROVIDED": "Herhangi bir `Item` sağlanmadı",
     "INVALID_AMOUNT": "Geçersiz miktar sağlandı",
     "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz `Item` belirtildi"
 }

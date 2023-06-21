@@ -1,8 +1,8 @@
 {
     "AI_DESCRIPTION": "\"Auction\" Bilgisini Gösterir",
     "AI_CATEGORY": "Kartlar",
-    "INVALID_ID": "{{author}} Geçersiz bir `Auction` ID si sağladınız",
-    "EMBED_TITLE": "SOFI: MÜZAYEDE",
+    "INVALID_ID": "{{author}} Geçersiz bir `Auction` ID si belirttiniz",
+    "EMBED_TITLE": "SOFI: AÇIK ARTTIRMA",
     "AI_GEN": "> Nesil: `{{gen}}`",
     "AI_NAME": "> Ad: {{name}}",
     "AI_SERIES": "> Seri: {{series}}",
@@ -16,6 +16,6 @@
     "NO_BIDS": "Henüz bir teklif yok",
     "ONGOING": "Devam ediyor (Bitime kalan süre: {{time}})",
     "OVER": "Bitti",
-    "EMBED_AUCTIONS_TITLE": "SOFI: MÜZAYEDELER",
+    "EMBED_AUCTIONS_TITLE": "SOFI: AÇIK ARTTIRMALAR",
     "EMBED_AUCTIONS_FOOTER": "Gösterilen Sayfa: {{page}}/{{totalPages}} | Detaylar için `sai <AuctionID>`komutunu kullanın"
 }

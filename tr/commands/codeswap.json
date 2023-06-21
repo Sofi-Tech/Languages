@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Bu işlem belirtilen iki kartın kodlarını değiştirir",
-    "SLASH_DESC": "İlk kartın kodunu gir",
-    "SLASH_DESC2": "İkinci kartın kodunu gir",
-    "NO_CODES_PROVIDED": "Lütfen iki kart kodu gir",
+    "SLASH_DESC": "İlk kartın kodunu girin",
+    "SLASH_DESC2": "İkinci kartın kodunu girin",
+    "NO_CODES_PROVIDED": "Lütfen iki kart kodu giriniz",
     "INVALID_CODES_PROVIDED": "{{author}} Lütfen geçerli iki kart kodu girin"
 }

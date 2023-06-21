@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "\"Gems\" karşılığında pazardan \"Wists\" satın alır",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız anlaşma ID si geçersiz",
+    "INVALID_DEAL_ID": "{{author}} Belirttiğiniz anlaşma ID si geçersiz",
     "CANNOT_PURCHASE": "{{user}} Bu anlaşmadan ürün satın alınamıyor",
     "CANNOT_SELF": "{{user}} Kendi anlaşmanızla etkileşim kuramazsınız",
     "WIST_NOT_EXCEED": "{{author}} Bu anlaşmada satın alınacak yalnızca {{amount}} `Wists` kaldı",

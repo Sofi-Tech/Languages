@@ -1,10 +1,10 @@
 {
-    "TC_DESCRIPTION": "Erstellt einen Tag",
+    "TC_DESCRIPTION": "Erstellt einen \"Tag\"",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "Korrekte Verwendung: `{{prefix}}tc <tagname> <emoji>`",
-    "INVALID_EMOJI": "{{author}} „{{emoji}}“ ist kein gültiges Emoji!",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines „Tags“ muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
-    "LONG_TAGNAME": "{{author}} Ein „Tag“-Name kann maximal 20 Zeichen enthalten",
-    "TAGNAME_EXISTS": "{{author}} Du hast bereits ein „Tag“ mit dem Namen „{{tag}}“.",
-    "TAG_CREATED": "{{author}} Erstellte ein „Tag“ mit dem Namen: „{{tag}}“ | {{emoji}}"
+    "INVALID_EMOJI": "{{author}} \"{{emoji}}\" ist kein gültiges Emoji!",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines `Tags` muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
+    "LONG_TAGNAME": "{{author}} Ein `Tag` Name kann maximal 20 Zeichen enthalten",
+    "TAGNAME_EXISTS": "{{author}} Du hast bereits ein `Tag` mit dem Namen `{{tag}}`",
+    "TAG_CREATED": "{{author}} Erstellte ein `Tag` mit dem Namen: `{{tag}}` | {{emoji}}"
 }

@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} Henüz hiç Tags`ınız yok. Bunları `{{prefix}}tc <TagName> <Emoji>`komutuyla oluşturabilirsiniz",
     "TAG_NOT_FOUND": "{{author}}`{{tag}}` adında herhangi bir `Tag`ınız yok",
     "NO_CARDS_CLAIMED": "{{author}} Koleksiyonunuzda henüz kart yok",
-    "INVALID_CARD_CODE": "{{author}} Bu kart kodu geçersiz",
+    "INVALID_CARD_CODE": "{{author}} Bu kart kodu geçersizdir",
     "SUCCESSFUL_TAG": "{{author}} **{{card}}** öğesi `{{tag}}`olarak başarıyla etiketledi",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Tüm kartlar başarıyla `Tag` landı"
 }

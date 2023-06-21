@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Bir karakterin Versiyon/3D/GIF varyantlarını görüntüler",
-    "CHAR_NOT_FOUND": "Aradığın karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "Herhangi bir karakter bulunamadı. [`lookup` işlevi büyük/küçük harfe duyarlıdır!]",
-    "EMBED_TITLE": "__Eşleşen Karakterler__",
+    "CHAR_NOT_FOUND": "Aradığınız karakter bulunamadı",
+    "CHAR_NF_SENSITIVE": "Herhangi bir karakter bulunamadı. [`lookup` komutu büyük/küçük harfe duyarlıdır!]",
+    "EMBED_TITLE": "__Eşleşen Karakterlerler__",
     "SUBMITTED": "<@{{userID}}> tarafından gönderildi",
     "EMBED_FOOTER": "`scl` komutunu kullanarak `Version` 1'i bulun. Ayriyetten `ssc` komutunu kullanarak yeni `Versions` de gönderebilirsiniz",
     "VERSION_DISP": "Kartın {{version}} `Version`unu gösterir",
@@ -20,5 +20,5 @@
     "EVENT": "Etkinlik",
     "UPCOMING_EVENT": "Yaklaşan Etkinlik",
     "TOP_OWNER": "En İyi Sahipler",
-    "NO_OWNER_FOUND": "`Version` sahibi bulunamadı"
+    "NO_OWNER_FOUND": "`Version` a sahip oyuncu bulanamadı"
 }
