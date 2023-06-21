@@ -1,0 +1,6 @@
+{
+  "PREFIX_DESCRIPTION": "Set prefix for the server",
+  "PREFIX_CATEGORY": "Settings",
+  "PROVIDE_PREFIX": "> Provide a prefix",
+  "PREFIX_SET_SUCCESSFULL": "> The prefix for this is server is `{{prefix}}`"
+}
