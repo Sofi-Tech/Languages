@@ -2,7 +2,7 @@
     "BG_DESCRIPTION": "在3D卡片上使用\"Background\"",
     "BG_CATEGORY": "化妆品",
     "WRONG_USAGE": "{{author}}正确用法：`{{prefix}}bg <CardCode> <BackgroundID>`",
-    "INVALID_CODE": "{{author}} 该卡片代码无效或不在您的收藏中",
+    "INVALID_CODE": "{{author}} 卡片代码无效或不在您的收藏中",
     "APPLY_GIF_CARDS": "{{author}} 您不能在非3D卡上使用`Backgrounds`",
     "APPLY_3D_CARDS": "{{author}} `Backgrounds`只能应用到3D卡片上",
     "BG_NOT_FOUND": "无法找到任何具有该ID的`Background`",
