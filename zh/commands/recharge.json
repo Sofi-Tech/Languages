@@ -10,7 +10,6 @@
     "RECHARGE_CONFIRMATION": "您正在充电:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCode: `{{ glowCode}}` \nCost: **$金额** <:recharge_sofi:926846363537387530>",
     "ARE_YOU_SURE": "你确定吗?",
     "CANCEL_RECHARGE": "Glow 充电被取消",
-    "CANCELLED_RECHARGE": "取消充电",
     "NO_MONEY": "你没有足够的充电量。买一些充电量",
     "SUCCESSFUL_RECHARGE": "Glow 充电成功"
 }
