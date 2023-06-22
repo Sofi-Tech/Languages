@@ -1,0 +1,8 @@
+{
+  "SS_DESCRIPTION": "Sets spawn channel on the server",
+  "SS_CATEGORY": "Settings",
+  "SS_SLASH_DESC": "The channel to set.",
+  "SS_MENTION_CHANNEL": "> Mention a channel or provide channel id",
+  "SS_DISABLE": "> Cards will no longer spawn.",
+  "SS_ENABLE": "> Spawn channel set to {{channel}}"
+}
