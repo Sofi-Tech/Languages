@@ -1,12 +1,12 @@
 {
-    "BG_DESCRIPTION": "3D kartlarınıza \"Background\" uygular",
-    "BG_CATEGORY": "Kozmetikler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <CardCode> <BackgroundID>`",
-    "INVALID_CODE": "{{author}} Bu kart kodu geçersiz ya da koleksiyonunuzda değil",
-    "APPLY_GIF_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
-    "EMBED_TITLE": "Background Uygula:",
-    "EMBED_DESCRIPTION": "Bu karta **{{background}}** adlı `Background`ı uygulamak üzeresiniz",
-    "USER_NO_BG": "Bu `Background`a sahip değilsin",
-    "APPLY_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
-    "BG_NOT_FOUND": "Bu ID ye sahip herhangi bir `Background` bulunamadı"
+  "BG_DESCRIPTION": "3D kartlarınıza \"Background\" uygular",
+  "BG_CATEGORY": "Kozmetikler",
+  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <CardCode> <BackgroundID>`",
+  "INVALID_CODE": "{{author}} Bu kart kodu geçersiz ya da koleksiyonunuzda değil",
+  "NON_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
+  "EMBED_TITLE": "Background Uygula:",
+  "EMBED_DESCRIPTION": "Bu karta **{{background}}** adlı `Background`ı uygulamak üzeresiniz",
+  "USER_NO_BG": "Bu `Background`a sahip değilsin",
+
+  "BG_NOT_FOUND": "Bu ID ye sahip herhangi bir `Background` bulunamadı"
 }

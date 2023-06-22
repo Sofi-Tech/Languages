@@ -1,18 +1,18 @@
 {
-    "3D_DESCRIPTION": "Kartınızı 3D varyantına dönüştürür",
-    "INVALID_CARD_CODE": "{{author}} Bu kart kodu geçersizdir",
-    "3D_CATEGORY": "Kozmetik",
-    "CARD_3D_ALREADY": "{{author}} Bu kart zaten 3D durumunda",
-    "NO_GIF_CONVERSION": "{{author}} `GIF` kartları, 3D varyantlara dönüştürülemez",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Etkinlik kartları, bir 3D değişkene dönüştürülemez",
-    "NO_3D_VERSION": "{{author}} Bu karakterin şu anda bir 3D varyantı yok",
-    "EMBED_TITLE": "SOFI; 3D",
-    "EVENT_3D_NOTE": "Aktif etkinlikler sırasında \"Event\" 3D varyantlarını elde edebilirsiniz",
-    "CARD_ALREADY_3D": "{{author}} Bu kart zaten 3D durumunda",
-    "NO_CUBES": "Yeterli `Cubes`ünüz yok",
-    "ALL_3D_NOTE": "Aktif etkinlikler sırasında \"Event\" 3D varyantlarını elde edebilirsiniz",
-    "HALLOWEEN_3D_FAILED": "Bir Cadılar Bayramı Hayaleti kartınızı istila etti! Dönüştürme işlemi başarısız oldu!",
-    "UPGRADED_3D": "Kartınız başarıyla 3D varyantına dönüştürüldü",
-    "UPGRADE_3D_CANCEL": "Dönüştürme işlemi iptal edildi",
-    "3D_NOTE": "Bu kartı 3D varyantına dönüştürmek üzeresiniz. Bu işlem kartınızı kalıcı olarak değiştirecek ve geri alınamayacak. Yeni elde edilen kartın ''Gen''i önceki kartınızla orantılı olacak. Bu işlem karta uygulanmış herhangi bir ''Frame''i de silecek"
+  "3D_DESCRIPTION": "Kartınızı 3D varyantına dönüştürür",
+  "INVALID_CARD_CODE": "{{author}} Bu kart kodu geçersizdir",
+  "3D_CATEGORY": "Kozmetik",
+  "CARD_3D_ALREADY": "{{author}} Bu kart zaten 3D durumunda",
+  "NO_GIF_CONVERSION": "{{author}} `GIF` kartları, 3D varyantlara dönüştürülemez",
+  "NO_EVENT_CARD_CONVERSION": "{{author}} Etkinlik kartları, bir 3D değişkene dönüştürülemez",
+  "NO_3D_VERSION": "{{author}} Bu karakterin şu anda bir 3D varyantı yok",
+  "EMBED_TITLE": "SOFI; 3D",
+  "EVENT_3D_NOTE": "Aktif etkinlikler sırasında \"Event\" 3D varyantlarını elde edebilirsiniz",
+
+  "NO_CUBES": "Yeterli `Cubes`ünüz yok",
+
+  "HALLOWEEN_3D_FAILED": "Bir Cadılar Bayramı Hayaleti kartınızı istila etti! Dönüştürme işlemi başarısız oldu!",
+  "UPGRADED_3D": "Kartınız başarıyla 3D varyantına dönüştürüldü",
+  "UPGRADE_3D_CANCEL": "Dönüştürme işlemi iptal edildi",
+  "3D_NOTE": "Bu kartı 3D varyantına dönüştürmek üzeresiniz. Bu işlem kartınızı kalıcı olarak değiştirecek ve geri alınamayacak. Yeni elde edilen kartın ''Gen''i önceki kartınızla orantılı olacak. Bu işlem karta uygulanmış herhangi bir ''Frame''i de silecek"
 }

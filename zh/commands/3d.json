@@ -1,18 +1,18 @@
 {
-    "3D_DESCRIPTION": "把您的卡片转换成 3D 版本",
-    "3D_CATEGORY": "化妆品",
-    "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效",
-    "NO_GIF_CONVERSION": "{{author}} GIF 类型的卡片无法转换为 3D 版本",
-    "CARD_3D_ALREADY": "{{author}} 这个卡片以被转换成他的 3D 版本",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Event卡片无法转换为3D版本",
-    "NO_3D_VERSION": "{{author}} 那个角色目前没有3D版本",
-    "EMBED_TITLE": "SOFI: 3D",
-    "3D_NOTE": "您即将此卡片转换成 3D 版本。此过程是永久性的，无法撤消。新得到的卡片的 Gen 与老的成比例。转换过程会删掉任何应用的 Frame",
-    "EVENT_3D_NOTE": "您可以在进行的 event 中获得 Event 3D 卡片版本",
-    "CARD_ALREADY_3D": "{{author}} 那个卡片已被转换成 3D 版本",
-    "NO_CUBES": "您没有足够的 Cubes",
-    "HALLOWEEN_3D_FAILED": "一个万圣节幽灵出没你的卡片了！3D 转换失败了!",
-    "ALL_3D_NOTE": "您可以在进行的 event 中获取 Event 3D 卡片版本",
-    "UPGRADED_3D": "您的卡片已被成功转换成 3D 版本",
-    "UPGRADE_3D_CANCEL": "转换过程已被取消"
+  "3D_DESCRIPTION": "把您的卡片转换成 3D 版本",
+  "3D_CATEGORY": "化妆品",
+  "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效",
+  "NO_GIF_CONVERSION": "{{author}} GIF 类型的卡片无法转换为 3D 版本",
+  "CARD_3D_ALREADY": "{{author}} 这个卡片以被转换成他的 3D 版本",
+  "NO_EVENT_CARD_CONVERSION": "{{author}} Event卡片无法转换为3D版本",
+  "NO_3D_VERSION": "{{author}} 那个角色目前没有3D版本",
+  "EMBED_TITLE": "SOFI: 3D",
+  "3D_NOTE": "您即将此卡片转换成 3D 版本。此过程是永久性的，无法撤消。新得到的卡片的 Gen 与老的成比例。转换过程会删掉任何应用的 Frame",
+  "EVENT_3D_NOTE": "您可以在进行的 event 中获得 Event 3D 卡片版本",
+
+  "NO_CUBES": "您没有足够的 Cubes",
+  "HALLOWEEN_3D_FAILED": "一个万圣节幽灵出没你的卡片了！3D 转换失败了!",
+
+  "UPGRADED_3D": "您的卡片已被成功转换成 3D 版本",
+  "UPGRADE_3D_CANCEL": "转换过程已被取消"
 }

@@ -1,12 +1,11 @@
 {
-    "BG_DESCRIPTION": "Naglalagay ng \"Background\" sa iyong mga 3D kard",
-    "BG_CATEGORY": "Mga Kosmetiko",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bg <CardCode><BackgroundID>`",
-    "APPLY_GIF_CARDS": "{{author}} Hindi ka pwedeng maglagay ng `Backgrounds` sa mga hindi 3D na kard",
-    "BG_NOT_FOUND": "Walang mahanap na kahit anong `Background` sa ibinigay na ID",
-    "EMBED_TITLE": "Maglagay ng Background:",
-    "USER_NO_BG": "Wala kang`Background`na iyan",
-    "EMBED_DESCRIPTION": "Ikaw ay maglalagay na ng `Background` **{{background}}** sa card na ito",
-    "INVALID_CODE": "{{author}} Ang card code na iyan ay hindi balido o wala sa iyong koleksyon",
-    "APPLY_3D_CARDS": "{{author}} Hindi ka pwedeng maglagay ng `Backgrounds` sa mga hindi 3D na kard"
+  "BG_DESCRIPTION": "Naglalagay ng \"Background\" sa iyong mga 3D kard",
+  "BG_CATEGORY": "Mga Kosmetiko",
+  "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bg <CardCode><BackgroundID>`",
+  "NON_3D_CARDS": "{{author}} Hindi ka pwedeng maglagay ng `Backgrounds` sa mga hindi 3D na kard",
+  "BG_NOT_FOUND": "Walang mahanap na kahit anong `Background` sa ibinigay na ID",
+  "EMBED_TITLE": "Maglagay ng Background:",
+  "USER_NO_BG": "Wala kang`Background`na iyan",
+  "EMBED_DESCRIPTION": "Ikaw ay maglalagay na ng `Background` **{{background}}** sa card na ito",
+  "INVALID_CODE": "{{author}} Ang card code na iyan ay hindi balido o wala sa iyong koleksyon"
 }
