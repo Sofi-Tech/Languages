@@ -1,6 +1,6 @@
 {
-  "BOOST_DESCRIPTION": "Shows you the booster leaderboard for Sofi Cafe",
-  "BOOST_CATEGORY": "Settings",
-  "EMBED_TITLE": "Sofi Cafe Boosters - {{lbInfo}}",
-  "EMBED_FOOTER": "Boosters and Donators can request 3Ds and Cards, have special roles, userinfo colors, action commands, access to special channels and more"
+    "BOOST_DESCRIPTION": "Displays the leaderboard of nitro boosts for the \"Sofi Cafe\" Server",
+    "BOOST_CATEGORY": "Settings",
+    "EMBED_TITLE": "Sofi Cafe Boosters [{{lbInfo}}] Total Boosters",
+    "EMBED_FOOTER": "Discord Boosters, as well as Donators are eligible to request 3D variants and characters.\nThey are also granted a unique Server Role, `Userinfo` Colors & Action Commands"
 }

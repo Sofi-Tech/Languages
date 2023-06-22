@@ -1,9 +1,9 @@
 {
-  "ES_DESCRIPTION": "Write a sexy description Crowd - - - @Sarcaster!",
-  "ES_CATEGORY": "Settings",
-  "EMBED_TITLE": "Event: {{eventName}} Event",
-  "MENU_PLACEHOLDER": "Select Event",
-  "MENU_HAL_LABEL": "Halloween 2022",
-  "MENU_VAL_LABEL": "Valentine 2023",
-  "MENU_MNC_LABEL": "Monochrome 2023"
+    "ES_DESCRIPTION": "Displays a leaderboard for \"Event\" card submissions",
+    "ES_CATEGORY": "Settings",
+    "EMBED_TITLE": "Event: {{eventName}}",
+    "MENU_PLACEHOLDER": "Select Event",
+    "MENU_HAL_LABEL": "Halloween 2022",
+    "MENU_VAL_LABEL": "Valentine 2023",
+    "MENU_MNC_LABEL": "Monochrome 2023"
 }

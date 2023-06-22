@@ -1,6 +1,6 @@
 {
-  "PREFIX_DESCRIPTION": "Set prefix for the server",
-  "PREFIX_CATEGORY": "Settings",
-  "PROVIDE_PREFIX": "> Provide a prefix",
-  "PREFIX_SET_SUCCESSFULL": "> The prefix for this is server is `{{prefix}}`"
+    "PREFIX_DESCRIPTION": "Set Sofi's prefix for this server",
+    "PREFIX_CATEGORY": "Settings",
+    "PROVIDE_PREFIX": "{{author}} Correct usage: `{{prefix}}prefix <NewPrefix>`",
+    "PREFIX_SET_SUCCESSFULL": "{{author}} The prefix for this server has been set to `{{prefix}}`"
 }

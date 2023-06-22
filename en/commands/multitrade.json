@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} You have already sent a trade request to someone! Cancel the previous one first, before starting a new one",
     "BOT_TRADE": "{{author}} You cannot trade with a `Bot`",
     "SELF_TRADE": "{{author}} You cannot trade with yourself",
-    "NOT_REGISTERED": "{{user}} is not registered yet!",
+    "NOT_REGISTERED": "{{author}} That user is not registered!",
     "AUTHOR_IS_BLED": "{{author}} You are blacklisted",
     "MEMBER_IS_BLED": "{{user}} is blacklisted",
     "AUTHOR_IS_QUED": "{{author}} You are quarantined",
