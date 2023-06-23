@@ -1,0 +1,8 @@
+{
+  "SS_DESCRIPTION": "Définit le canal de spawn sur le serveur",
+  "SS_CATEGORY": "Paramètres",
+  "SS_SLASH_DESC": "Le canal à définir.",
+  "SS_MENTION_CHANNEL": "> Mentionnez un canal ou fournissez l'identifiant du canal",
+  "SS_DISABLE": "> Les cartes ne spawneront plus.",
+  "SS_ENABLE": "> Canal de spawn défini sur {{channel}}"
+}

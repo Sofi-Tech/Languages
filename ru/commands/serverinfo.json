@@ -1,0 +1,15 @@
+{
+  "SI_DESCRIPTION": "Отображает информацию о сервере",
+  "SI_CATEGORY": "Настройки",
+  "SERVER_NOT_FOUND": "> Сервер не найден!",
+  "INFORMATION_NOT_FOUND": "> Информация не найдена!",
+  "EMBED_AUTHOR": "Инфо: {{guildName}} | Префикс: {{prefix}} ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "Канал спавна",
+  "SI_TOTAL_DROPS": "Всего дропов",
+  "SI_TOTAL_BURNT": "Всего сожжено",
+  "SI_TOTAL_GRABS": "Всего подобрано",
+  "SI_TOTAL_GIVEN": "Всего подарено",
+  "SI_TOTAL_TRADES": "Всего обменено",
+  "SI_TOP_SERVERS": "Лучшие серверы (Сброс через {{countdown}})",
+  "SI_NAME_UNAVAILABLE": "Имя недоступно"
+}

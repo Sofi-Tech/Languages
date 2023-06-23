@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "Sunucudaki Sofi ön eki ayarla",
+  "PREFIX_CATEGORY": "Ayarlar",
+  "PROVIDE_PREFIX": "{{author}} Doğru kullanım: `{{prefix}}ön-ek <YeniÖnEk>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} Sunucu için ön ek `{{prefix}}` olarak ayarlandı"
+}

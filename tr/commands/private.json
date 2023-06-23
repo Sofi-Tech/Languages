@@ -1,1 +1,7 @@
-{}
+{
+  "PVT_DESCRIPTION": "Sizin \"Koleksiyon\", \"Dilek Listesi\" veya \"Envanteriniz\" özel hale getirir",
+  "PVT_CATEGORY": "Ayarlar",
+  "WRONG_ARGUMENTS": "{{author}} Doğru kullanım: `{{prefix}}pvt <KOLEKSIYON / DİLEK-LİSTESİ / ENVANTER>`",
+  "PRIVATE_ENABLED": "{{author}} **{{content}}** artık özel",
+  "PRIVATE_DISABLED": "{{author}} **{{content}}** artık özel değil"
+}

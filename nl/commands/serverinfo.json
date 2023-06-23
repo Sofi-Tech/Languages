@@ -1,0 +1,15 @@
+{
+  "SI_DESCRIPTION": "Toont informatie over de server",
+  "SI_CATEGORY": "Instellingen",
+  "SERVER_NOT_FOUND": "> Server niet gevonden!",
+  "INFORMATION_NOT_FOUND": "> Informatie niet gevonden!",
+  "EMBED_AUTHOR": "Info: {{guildName}} | Prefix: {{prefix}} ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "Spawn Kanaal",
+  "SI_TOTAL_DROPS": "Totaal aantal drops",
+  "SI_TOTAL_BURNT": "Totaal aantal verbrand",
+  "SI_TOTAL_GRABS": "Totaal aantal opgepakt",
+  "SI_TOTAL_GIVEN": "Totaal aantal gegeven",
+  "SI_TOTAL_TRADES": "Totaal aantal transacties",
+  "SI_TOP_SERVERS": "Top servers (Reset in {{countdown}})",
+  "SI_NAME_UNAVAILABLE": "Naam niet beschikbaar"
+}

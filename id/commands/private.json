@@ -1,1 +1,7 @@
-{}
+{
+  "PVT_DESCRIPTION": "Memprivatisasi \"Koleksi\", \"Wishlist\" atau \"Inventaris\"mu",
+  "PVT_CATEGORY": "Pengaturan",
+  "WRONG_ARGUMENTS": "{{author}} Penggunaan yang benar: `{{prefix}}pvt <Koleksi/WL/INV>`",
+  "PRIVATE_ENABLED": "{{author}} **{{content}}** mu sekarang bersifat pribadi",
+  "PRIVATE_DISABLED": "{{author}} **{{content}}** mu tidak lagi bersifat pribadi"
+}

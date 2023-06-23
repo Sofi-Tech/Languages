@@ -1,1 +1,9 @@
-{}
+{
+  "ACH_DESCRIPTION": "Menampilkan daftar pencapaian yang tersedia",
+  "ACH_CATEGORY": "Pengaturan",
+  "CLAIMED": "Diklaim",
+  "ACH_EMBED_TITLE": "SOFI: PRESTASI ({{totalClaimed}}/{{achWithPercent}})",
+  "FAN_EMBED_TITLE": "SOFI: Karakter Fan",
+  "ACH_LOADING": "Memuat <a:ping:876612181725167687>",
+  "NO_STATS_FOUND": "Anda belum memiliki poin fan untuk karakter apapun"
+}

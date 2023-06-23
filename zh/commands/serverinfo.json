@@ -1,0 +1,15 @@
+{
+  "SI_DESCRIPTION": "显示服务器信息",
+  "SI_CATEGORY": "设置",
+  "SERVER_NOT_FOUND": "> 找不到服务器！",
+  "INFORMATION_NOT_FOUND": "> 找不到信息！",
+  "EMBED_AUTHOR": "信息：{{guildName}} | 前缀：{{prefix}} ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "刷怪通道",
+  "SI_TOTAL_DROPS": "总掉落数",
+  "SI_TOTAL_BURNT": "总烧毁数",
+  "SI_TOTAL_GRABS": "总拾取数",
+  "SI_TOTAL_GIVEN": "总赠送数",
+  "SI_TOTAL_TRADES": "总交易数",
+  "SI_TOP_SERVERS": "热门服务器 (将在 {{countdown}} 后重置)",
+  "SI_NAME_UNAVAILABLE": "名称不可用"
+}

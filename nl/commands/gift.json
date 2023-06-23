@@ -1,0 +1,13 @@
+{
+  "GIFT_DESCRIPTION": "Geef onigiris cadeau tijdens monochrome 2023",
+  "GIFT_CATEGORY": "Kaarten",
+  "GIFT_SLASH_DESC": "Geef de gebruiker op aan wie je onigiris wilt schenken.",
+  "GIFT_SLASH_DESC2": "Geef het aantal onigiris op dat je wilt geven.",
+  "GIFT_WRONG_USAGE": "Geef een gebruiker en aantal op",
+  "NO_USER": "{{author}} Geen gebruiker opgegeven",
+  "INVALID_USER": "Ongeldige gebruiker opgegeven",
+  "INVALID_AMOUNT": "Ongeldig aantal opgegeven",
+  "NOT_ENOUGH_ITEM": "Je hebt niet genoeg onigiris {{amount}} | Verzamel wat uit de drops",
+  "PLAYER_NOT_EXISTS": "{{author}} | Die speler bestaat niet",
+  "GIFT_SUCCESSFULL": "{{author}} heeft royaal {{amount}} 🍙 gegeven aan {{user}}\n{{user}} heeft nu {{recieveCount}} 🍙 ontvangen"
+}

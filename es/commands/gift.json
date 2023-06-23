@@ -1,0 +1,13 @@
+{
+  "GIFT_DESCRIPTION": "Regala onigiris durante monochrome 2023",
+  "GIFT_CATEGORY": "Tarjetas",
+  "GIFT_SLASH_DESC": "Ingresa el usuario al que deseas regalar onigiris.",
+  "GIFT_SLASH_DESC2": "Ingresa la cantidad de onigiris que deseas regalar.",
+  "GIFT_WRONG_USAGE": "Por favor, proporciona un usuario y una cantidad.",
+  "NO_USER": "{{author}} No se proporcionó ningún usuario.",
+  "INVALID_USER": "Se proporcionó un usuario no válido.",
+  "INVALID_AMOUNT": "Cantidad no válida proporcionada",
+  "NOT_ENOUGH_ITEM": "No tienes {{amount}} onigiris | Recolecta algunos de las recompensas.",
+  "PLAYER_NOT_EXISTS": "{{author}} | Ese jugador no existe.",
+  "GIFT_SUCCESSFULL": "{{author}} generosamente regaló {{amount}} 🍙 a {{user}}\n{{user}} ha recibido {{recieveCount}} 🍙 hasta ahora"
+}

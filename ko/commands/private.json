@@ -1,1 +1,7 @@
-{}
+{
+  "PVT_DESCRIPTION": "자신의 \"컬렉션\", \"찜 목록\", 또는 \"인벤토리\"를 비공개로 설정합니다.",
+  "PVT_CATEGORY": "설정",
+  "WRONG_ARGUMENTS": "{{author}} 사용법: `{{prefix}}pvt <C/WL/INV>`",
+  "PRIVATE_ENABLED": "{{author}} 당신의 **{{content}}**은 이제 비공개로 설정되었습니다.",
+  "PRIVATE_DISABLED": "{{author}} 당신의 **{{content}}**은 이제 공개 상태입니다."
+}

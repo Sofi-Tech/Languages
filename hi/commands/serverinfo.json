@@ -1,0 +1,15 @@
+{
+  "SI_DESCRIPTION": "सर्वर की जानकारी दिखाता है",
+  "SI_CATEGORY": "सेटिंग्स",
+  "SERVER_NOT_FOUND": "> सर्वर नहीं मिला!",
+  "INFORMATION_NOT_FOUND": "> जानकारी नहीं मिली!",
+  "EMBED_AUTHOR": "जानकारी: {{guildName}} | प्रिफ़िक्स: {{prefix}} ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "प्रसंस्करण चैनल",
+  "SI_TOTAL_DROPS": "कुल गिरावट",
+  "SI_TOTAL_BURNT": "कुल जलाया गया",
+  "SI_TOTAL_GRABS": "कुल ग्रैब",
+  "SI_TOTAL_GIVEN": "कुल दिया गया",
+  "SI_TOTAL_TRADES": "कुल व्यापार",
+  "SI_TOP_SERVERS": "शीर्ष सर्वर ({{countdown}} में रीसेट होगा)",
+  "SI_NAME_UNAVAILABLE": "नाम उपलब्ध नहीं है"
+}

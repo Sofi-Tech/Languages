@@ -1,1 +1,7 @@
-{}
+{
+  "PVT_DESCRIPTION": "تحوي منشوراتك \"المجموعة\", \"القائمة المفضلة\" او \"المخزون\"",
+  "PVT_CATEGORY": "الإعدادات",
+  "WRONG_ARGUMENTS": "{{author}} الاستخدام الصحيح: `{{prefix}}pvt <C/WL/INV>`",
+  "PRIVATE_ENABLED": "{{author}} {{content}} هو الآن خاص",
+  "PRIVATE_DISABLED": "{{author}} {{content}} لم يعد خاص"
+}

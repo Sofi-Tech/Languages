@@ -1,0 +1,16 @@
+{
+  "VOTE_DESCRIPTION": "从\"投票\"中显示每月奖励",
+  "VOTE_CATEGORY": "设置",
+  "VOTE": "在 Top.GG 上投票",
+  "BUMP": "推广",
+  "EMBED_TITLE": "{{username}}的投票",
+  "USE_WIST": "成功`投票`将获得`Wists` <:wist:870339503427027005>！",
+  "TOTAL_VOTES": "> 总`投票`次数：{{totalVotes}}",
+  "MONTHLY_VOTES": "> 本月`投票`次数：{{monthlyVotes}}",
+  "CLAIM_EXOTIC_CHEST": "**<:exoticchest:927502629687418920> 还需{{monthlyVotes}} `投票`即可获得一个`Exotic Chest`**",
+  "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> 包括高达**1,000**个`Cubes`或**{{frameName}}**帧",
+  "CLAIM_DIVINE_CHEST": "**<:divinechest:927502631155429399> 还需{{monthlyVotes}} `投票`即可获得一个`Divine Chest`**",
+  "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> 包括高达**2,500**个`Cubes`或**{{frameName}}**帧",
+  "VOTE_RESET": "> {{countdown}}后重置",
+  "EMBED_FOOTER": "周末获得两倍的Wists"
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "BUMP_DESCRIPTION": "\"Bump\" на официальном сайте Sofi.gg, чтобы получить награды, такие как \"Трейд-пасс\"",
+  "BUMP_CATEGORY": "Настройки",
+  "EMBED_AUTHOR": "{{username}}, Bumps",
+  "GET_DIFFERENT_REWARDS": "Нажмите на \"Bump\" на официальном сайте Sofi.gg, чтобы получить другие награды",
+  "TOTAL_BUMP": "> Всего `Bumps`: {{bump}}",
+  "BUMP_POINTS": "> Текущие очки: {{bumpPoints}}",
+  "EMBED_FOOTER": "Вы можете использовать функцию `Bump` каждые 4 часа!",
+  "BUMP": "Bump"
+}

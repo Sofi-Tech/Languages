@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "Itakda ang ungalan ng Sofi para sa server na ito",
+  "PREFIX_CATEGORY": "Mga Setting",
+  "PROVIDE_PREFIX": "{{author}} Tamang paggamit: `{{prefix}}prefix <BagongUngalan>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} Ang ungalan para sa server na ito ay itinakda na sa `{{prefix}}`"
+}

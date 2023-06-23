@@ -1,0 +1,15 @@
+{
+  "SI_DESCRIPTION": "Mostra le informazioni del server",
+  "SI_CATEGORY": "Impostazioni",
+  "SERVER_NOT_FOUND": "> Server non trovato!",
+  "INFORMATION_NOT_FOUND": "> Informazioni non trovate!",
+  "EMBED_AUTHOR": "Info: {{guildName}} | Prefisso: {{prefix}} ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "Canale di spawn",
+  "SI_TOTAL_DROPS": "Gocce Totali",
+  "SI_TOTAL_BURNT": "Bruciato Totale",
+  "SI_TOTAL_GRABS": "Prese Totali",
+  "SI_TOTAL_GIVEN": "Donati Totali",
+  "SI_TOTAL_TRADES": "Scambi Totali",
+  "SI_TOP_SERVERS": "Migliori server (si resetteranno in {{countdown}})",
+  "SI_NAME_UNAVAILABLE": "Nome non disponibile"
+}

@@ -1,1 +1,9 @@
-{}
+{
+  "ES_DESCRIPTION": "Toont een ranglijst voor \"Evenement\" kaartinzendingen",
+  "ES_CATEGORY": "Instellingen",
+  "EMBED_TITLE": "Evenement: {{eventName}}",
+  "MENU_PLACEHOLDER": "Selecteer evenement",
+  "MENU_HAL_LABEL": "Halloween 2022",
+  "MENU_VAL_LABEL": "Valentijn 2023",
+  "MENU_MNC_LABEL": "Monochroom 2023"
+}

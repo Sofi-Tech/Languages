@@ -1,1 +1,9 @@
-{}
+{
+  "ES_DESCRIPTION": "Zeigt eine Bestenliste für die Einreichung von \"Event\" -Karten an",
+  "ES_CATEGORY": "Einstellungen",
+  "EMBED_TITLE": "Event: {{eventName}}",
+  "MENU_PLACEHOLDER": "Event auswählen",
+  "MENU_HAL_LABEL": "Halloween 2022",
+  "MENU_VAL_LABEL": "Valentinstag 2023",
+  "MENU_MNC_LABEL": "Monochrom 2023"
+}

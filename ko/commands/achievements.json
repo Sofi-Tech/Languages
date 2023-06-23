@@ -1,1 +1,9 @@
-{}
+{
+  "ACH_DESCRIPTION": "사용 가능한 업적 목록을 표시합니다",
+  "ACH_CATEGORY": "설정",
+  "CLAIMED": "획득함",
+  "ACH_EMBED_TITLE": "SOFI: 업적 ({{totalClaimed}}/{{achWithPercent}})",
+  "FAN_EMBED_TITLE": "SOFI: 팬 캐릭터",
+  "ACH_LOADING": "로딩 중 <a:ping:876612181725167687>",
+  "NO_STATS_FOUND": "아직 캐릭터에 대한 팬 포인트가 없습니다"
+}

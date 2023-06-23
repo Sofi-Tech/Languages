@@ -1,1 +1,16 @@
-{}
+{
+  "VOTE_DESCRIPTION": "Nagpapakita ng mga buwanang premyo mula sa \"Pagboto\"",
+  "VOTE_CATEGORY": "Mga Setting",
+  "VOTE": "Bumoto sa Top.GG",
+  "BUMP": "Bump",
+  "EMBED_TITLE": "Mga Boto ni {{username}}",
+  "USE_WIST": "Makakakuha ka ng `Wists` <:wist:870339503427027005> mula sa matagumpay na `Pagboto`!",
+  "TOTAL_VOTES": "> Kabuuan ng `Mga Boto`: {{totalVotes}}",
+  "MONTHLY_VOTES": "> Mga `Boto` na Buwanan: {{monthlyVotes}}",
+  "CLAIM_EXOTIC_CHEST": "**<:exoticchest:927502629687418920> {{monthlyVotes}} `mga boto` ang natitira upang makakuha ng `Exotic na Kaha`**",
+  "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Naglalaman ng hanggang sa **1,000** na `Mga Kubo` o isang **{{frameName}}** na `Frame`",
+  "CLAIM_DIVINE_CHEST": "**<:divinechest:927502631155429399> {{monthlyVotes}} `mga boto` ang natitira upang makakuha ng `Divine na Kaha`**",
+  "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Naglalaman ng hanggang sa **2,500** na `Mga Kubo` o isang **{{frameName}}** na `Frame`",
+  "VOTE_RESET": "> Nagre-reset sa {{countdown}}",
+  "EMBED_FOOTER": "Makakakuha ka ng dalawang beses na dami ng wists tuwing weekend"
+}

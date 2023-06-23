@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "このサーバーの Sofi の接頭辞を設定します",
+  "PREFIX_CATEGORY": "設定",
+  "PROVIDE_PREFIX": "{{author}} 使い方: `{{prefix}}prefix <NewPrefix>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} このサーバーの接頭辞は `{{prefix}}` に設定されました"
+}

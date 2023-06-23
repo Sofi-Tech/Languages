@@ -1,0 +1,8 @@
+{
+  "SS_DESCRIPTION": "サーバー上のスポーンチャンネルを設定します",
+  "SS_CATEGORY": "設定",
+  "SS_SLASH_DESC": "設定するチャンネル。",
+  "SS_MENTION_CHANNEL": "> チャンネルをメンションするか、チャンネルIDを提供してください。",
+  "SS_DISABLE": "> カードがもうスポーンしなくなります。",
+  "SS_ENABLE": "> スポーンチャンネルが{{channel}}に設定されました。"
+}

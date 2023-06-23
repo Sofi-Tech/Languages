@@ -1,0 +1,8 @@
+{
+  "SS_DESCRIPTION": "서버에서 스폰 채널을 설정합니다.",
+  "SS_CATEGORY": "설정",
+  "SS_SLASH_DESC": "설정할 채널입니다.",
+  "SS_MENTION_CHANNEL": "> 채널을 멘션하거나 채널 아이디를 제공하세요.",
+  "SS_DISABLE": "> 카드가 더 이상 스폰되지 않습니다.",
+  "SS_ENABLE": "> 스폰 채널이 {{channel}}(으)로 설정되었습니다."
+}

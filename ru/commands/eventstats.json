@@ -1,1 +1,9 @@
-{}
+{
+  "ES_DESCRIPTION": "Отображает таблицу лидеров для подачи карточки \"{{eventName}}\"",
+  "ES_CATEGORY": "Настройки",
+  "EMBED_TITLE": "Событие: {{eventName}}",
+  "MENU_PLACEHOLDER": "Выберите событие",
+  "MENU_HAL_LABEL": "Хэллоуин 2022",
+  "MENU_VAL_LABEL": "День Валентина 2023",
+  "MENU_MNC_LABEL": "Монохром 2023"
+}

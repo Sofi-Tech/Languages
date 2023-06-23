@@ -1,1 +1,7 @@
-{}
+{
+  "PVT_DESCRIPTION": "Pribadong nagtatago ng inyong \"Collection\", \"Wishlist\", o \"Inventory\"",
+  "PVT_CATEGORY": "Mga Setting",
+  "WRONG_ARGUMENTS": "{{author}} Mali ang paggamit: `{{prefix}}pvt <C/WL/INV>`",
+  "PRIVATE_ENABLED": "{{author}} Ang **{{content}}** ay pribado na ngayon",
+  "PRIVATE_DISABLED": "{{author}} Ang **{{content}}** ay hindi na pribado"
+}

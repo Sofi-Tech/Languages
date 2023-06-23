@@ -1,1 +1,7 @@
-{}
+{
+  "PVT_DESCRIPTION": "Maakt je \"Verzameling\", \"Verlanglijstje\" of \"Inventaris\" privé",
+  "PVT_CATEGORY": "Instellingen",
+  "WRONG_ARGUMENTS": "{{author}} Juist gebruik: `{{prefix}}pvt <C/WL/INV>`",
+  "PRIVATE_ENABLED": "{{author}} Je **{{content}}** is nu privé",
+  "PRIVATE_DISABLED": "{{author}} Je **{{content}}** is nu niet langer privé"
+}

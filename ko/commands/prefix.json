@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "서버의 Sofi 접두사 설정",
+  "PREFIX_CATEGORY": "설정",
+  "PROVIDE_PREFIX": "{{author}} 올바른 사용법: `{{prefix}}prefix <새 접두사>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} 이 서버의 접두사가 `{{prefix}}`로 설정되었습니다."
+}

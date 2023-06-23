@@ -1,0 +1,15 @@
+{
+  "SI_DESCRIPTION": "Sunucunun bilgisini görüntüler.",
+  "SI_CATEGORY": "Ayarlar",
+  "SERVER_NOT_FOUND": "> Sunucu bulunamadı!",
+  "INFORMATION_NOT_FOUND": "> Bilgi bulunamadı!",
+  "EMBED_AUTHOR": "Bilgi: {{guildName}} | Önek: {{prefix}} ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "Doğum Kanalı",
+  "SI_TOTAL_DROPS": "Toplam Düşenler",
+  "SI_TOTAL_BURNT": "Toplam Yakılanlar",
+  "SI_TOTAL_GRABS": "Toplam Toplananlar",
+  "SI_TOTAL_GIVEN": "Toplam Verilenler",
+  "SI_TOTAL_TRADES": "Toplam Takaslar",
+  "SI_TOP_SERVERS": "En İyi Sunucular ({{countdown}} içinde sıfırlanacak)",
+  "SI_NAME_UNAVAILABLE": "İsim Kullanılamaz"
+}

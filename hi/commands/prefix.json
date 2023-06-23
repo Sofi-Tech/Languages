@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "इस सर्वर के लिए Sofi का प्रिफिक्स सेट करें",
+  "PREFIX_CATEGORY": "सेटिंग्स",
+  "PROVIDE_PREFIX": "{{author}} सही उपयोग: `{{prefix}}prefix <नया प्रिफिक्स>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} इस सर्वर के लिए प्रिफिक्स `{{prefix}}` सफलतापूर्वक सेट किया गया है"
+}

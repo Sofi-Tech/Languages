@@ -1,1 +1,16 @@
-{}
+{
+  "VOTE_DESCRIPTION": "Toont de maandelijkse beloningen van \"Stemmen\"",
+  "VOTE_CATEGORY": "Instellingen",
+  "VOTE": "Stem op Top.GG",
+  "BUMP": "Bump",
+  "EMBED_TITLE": "{{username}}'s Stemmen",
+  "USE_WIST": "Je ontvangt `Wists` <:wist:870339503427027005> bij succesvol `Stemmen`!",
+  "TOTAL_VOTES": "> Totaal aantal `Stemmen`: {{totalVotes}}",
+  "MONTHLY_VOTES": "> Maandelijkse `Stemmen`: {{monthlyVotes}}",
+  "CLAIM_EXOTIC_CHEST": "**<:exoticchest:927502629687418920> nog {{monthlyVotes}} `Stemmen` te gaan om een `Exotische Kist` te krijgen**",
+  "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Bevat maximaal **1.000** `Cubes` of een ** {{frameName}}** `Frame`",
+  "CLAIM_DIVINE_CHEST": "**<:divinechest:927502631155429399> nog {{monthlyVotes}} `Stemmen` te gaan om een `Goddelijke Kist` te krijgen**",
+  "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Bevat maximaal **2.500** `Cubes` of een ** {{frameName}}** `Frame`",
+  "VOTE_RESET": "> Reset in {{countdown}}",
+  "EMBED_FOOTER": "Je krijgt in het weekend twee keer zoveel wists"
+}

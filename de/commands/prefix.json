@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "Setze das Präfix von Sofi für diesen Server",
+  "PREFIX_CATEGORY": "Einstellungen",
+  "PROVIDE_PREFIX": "{{author}} Richtiges Anwendungsbeispiel: `{{prefix}}prefix <NeuesPräfix>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} Das Präfix für diesen Server wurde auf `{{prefix}}` gesetzt"
+}

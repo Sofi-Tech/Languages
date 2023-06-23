@@ -1,1 +1,9 @@
-{}
+{
+  "ACH_DESCRIPTION": "利用可能な実績のリストを表示します",
+  "ACH_CATEGORY": "設定",
+  "CLAIMED": "獲得済み",
+  "ACH_EMBED_TITLE": "SOFI：実績（{{totalClaimed}}/{{achWithPercent}}）",
+  "FAN_EMBED_TITLE": "SOFI：ファンキャラクター",
+  "ACH_LOADING": "<a:ping:876612181725167687> ローディング",
+  "NO_STATS_FOUND": "まだどのキャラクターのファンポイントもありません"
+}

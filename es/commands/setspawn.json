@@ -1,0 +1,8 @@
+{
+  "SS_DESCRIPTION": "Establece el canal de aparición en el servidor",
+  "SS_CATEGORY": "Configuración",
+  "SS_SLASH_DESC": "El canal a establecer.",
+  "SS_MENTION_CHANNEL": "> Menciona un canal o proporciona el id del canal",
+  "SS_DISABLE": "> Las cartas ya no aparecerán.",
+  "SS_ENABLE": "> Canal de aparición establecido en {{channel}}"
+}

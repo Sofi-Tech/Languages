@@ -1,1 +1,6 @@
-{}
+{
+  "PREFIX_DESCRIPTION": "Defina o prefixo de Sofi para este servidor",
+  "PREFIX_CATEGORY": "Configurações",
+  "PROVIDE_PREFIX": "{{author}} Uso correto: `{{prefix}}prefixo <NovoPrefixo>`",
+  "PREFIX_SET_SUCCESSFULL": "{{author}} O prefixo para este servidor foi definido como `{{prefix}}`"
+}

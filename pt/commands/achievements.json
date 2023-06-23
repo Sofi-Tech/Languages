@@ -1,1 +1,9 @@
-{}
+{
+  "ACH_DESCRIPTION": "Mostra uma lista de conquistas disponíveis",
+  "ACH_CATEGORY": "Configurações",
+  "CLAIMED": "Reivindicado",
+  "ACH_EMBED_TITLE": "SOFI: CONQUISTAS ({{totalClaimed}}/{{achWithPercent}})",
+  "FAN_EMBED_TITLE": "SOFI: Personagens de Fã",
+  "ACH_LOADING": "Carregando <a:ping:876612181725167687>",
+  "NO_STATS_FOUND": "Você ainda não possui pontos de fã para nenhum personagem"
+}
