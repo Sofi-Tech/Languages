@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "टैग हटाएं",
     "UT_CATEGORY": "टैग",
-    "INVALID_CODE": "अवैध कार्ड कोड या कोई कार्ड नहीं मिला",
+    "INVALID_CODE": "{{author}} आपके संग्रह में कोई कार्ड प्राप्त नही हुआ",
     "UNTAG_SUCCESSFULL": "{{cardName}} को सफलतापूर्वक अनटैग किया गया है",
     "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}} को अनटैग किया गया है"
 }

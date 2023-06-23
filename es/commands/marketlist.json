@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Pon tus \"Wists\" en el mercado, que luego se pueden comprar a otros jugadores con \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <wist> <rate>`",
+    "DESCRIPTION": "Pone tus \"Wists\" en el mercado, los cuales luego pueden ser comprador por otros jugadores con \"Gems\"",
+    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <Cantidad> <Tasa>`",
     "INVALID_GEM_RATE": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
     "GEM_RATE_LIES": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
-    "ALREADY_EXISTS": "{{author}} Ya tienes un acuerdo existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar uno nuevo",
+    "ALREADY_EXISTS": "{{author}} Ya tienes una oferta existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar una nueva",
     "PRODUCTS": "Tu lista:",
     "RATE": "Tasa:",
     "VALUE": "Valor total:",
-    "CONFIRM_ASK": "¿Está seguro de que desea incluir esta oferta en el mercado?",
+    "CONFIRM_ASK": "¿Está seguro de que desea listar esta oferta en el mercado?",
     "CANCELLED": "CANCELADO",
     "NOT_ENOUGH_CANCEL": "Estás intentando listar más `Wist` de los que tienes",
-    "SUCCESS": "Su oferta se ha listado correctamente",
-    "EMBED_TITLE": "LISTA DE MERCADO DE SOFI:"
+    "SUCCESS": "Su oferta ha sido listada correctamente",
+    "EMBED_TITLE": "MERCADO DE SOFI:"
 }

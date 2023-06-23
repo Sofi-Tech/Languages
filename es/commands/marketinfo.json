@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Muestra su listado en el mercado o muestra detalles acerca de un acuerdo específico",
-    "INVALID_DEAL_ID": "{{author}} El ID de oferta proporcionado es inválido",
+    "DESCRIPTION": "Muestra tus listados de mercado actuales o examina una oferta si proporcionas un ID",
+    "INVALID_DEAL_ID": "{{author}} El ID de Oferta proporcionado es inválido",
     "TRADER": "Comerciante",
-    "DEAL_ID": "ID del trato",
+    "DEAL_ID": "ID de la oferta",
     "PRODUCT": "Producto",
     "VALUE": "Valor",
     "RATE": "Tasa",
     "LISTED": "Listado",
     "NO_LISTINGS_FOUND": "{{user}} No has hecho ningún listado en el mercado",
-    "INFO": "Use `{{prefix}}ml` y `smul` para deslistar\nUn solo acuerdo puede estar listado al mismo tiempo",
+    "INFO": "Usa el comando `{{prefix}}mul <ID>` para deslistar tu oferta actual\n**Solo una oferta puede estar listada a la vez**",
     "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Usa el comando `{{prefix}}mp <ID>` para comprar `Wists`!",
-    "EMBED_TITLE": "TUS ANUNCIOS:"
+    "EMBED_TITLE": "TUS LISTADOS:"
 }
