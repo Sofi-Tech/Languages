@@ -1,8 +1,0 @@
-{
-  "SS_DESCRIPTION": "设置服务器的出生点频道",
-  "SS_CATEGORY": "设置",
-  "SS_SLASH_DESC": "要设置的频道。",
-  "SS_MENTION_CHANNEL": "> 提及频道或提供频道ID",
-  "SS_DISABLE": "> 将不再产生卡片。",
-  "SS_ENABLE": "> 生产频道设置为{{channel}}"
-}
