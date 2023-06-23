@@ -1,9 +1,9 @@
 {
-  "ACH_DESCRIPTION": "Affiche une liste des réalisations disponibles",
-  "ACH_CATEGORY": "Paramètres",
-  "CLAIMED": "Revendiqué",
-  "ACH_EMBED_TITLE": "SOFI: RÉALISATIONS ({{totalClaimed}}/{{achWithPercent}})",
-  "FAN_EMBED_TITLE": "SOFI: Personnages de Fans",
-  "ACH_LOADING": "Chargement <a:ping:876612181725167687>",
-  "NO_STATS_FOUND": "Vous n'avez pas encore de points fan pour un personnage"
+    "ACH_DESCRIPTION": "Affiche une liste des réalisations disponibles",
+    "ACH_CATEGORY": "Paramètres",
+    "CLAIMED": "Revendiqué",
+    "ACH_EMBED_TITLE": "SOFI: RÉALISATIONS ({{totalClaimed}}/{{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: Personnages de Fans",
+    "ACH_LOADING": "Chargement <a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "Vous n'avez pas encore de points fan pour un personnage"
 }

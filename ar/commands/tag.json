@@ -1,11 +1,11 @@
 {
     "TAG_DESCRIPTION": "تعيين علامة للبطاقة",
     "TAG_CATEGORY": "العلامات",
-    "WRONG_USAGE": "يرجى تزويد اسم العلامة.",
-    "NO_TAGS_CREATED": "نقدر محاولة التسمية ولكن لم يتم العثور على علامات. أنشئ أولا علامة باستخدام الأمر `{{prefix}}tc`.",
-    "TAG_NOT_FOUND": "لا يوجد لديك علامة بالاسم `{{tag}}`",
-    "NO_CARDS_CLAIMED": "لم تدع مطالبة أي بطاقة حتى الآن.",
-    "INVALID_CARD_CODE": "{{author}} كود البطاقة غير صالح أو لا يوجد بطاقة.",
+    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}t <رمز البطاقة> <اسم العلامه>`",
+    "NO_TAGS_CREATED": "{{author}} ليس لديك أي `Tags` بعد. تستطيع انشاء واحد عن طريق `{{prefix}}tc <TagName> <Emoji>`",
+    "TAG_NOT_FOUND": "{{author}} لا يوجد لديك أي علامة بالاسم `{{tag}}`",
+    "NO_CARDS_CLAIMED": "{{author}} ليس لديك أي بطاقة بعد",
+    "INVALID_CARD_CODE": "{{author}} رمز البطاقة الذي قدمته غير صالح",
     "SUCCESSFUL_TAG": "{{author}} | تم وضع العلامة {{tag}} بنجاح على {{card}}",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} تم وضع علامات على تلك البطاقات بنجاح"
 }

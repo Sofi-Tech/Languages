@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Extrae de \"Pulls\" varios \"Items\" incluidos \"Charms\" y \"Fragments\" para cartas animadas",
     "PULL_AMT": "{{author}} Ingrese la cantidad de `Pulls`que quieras hacer. Puede ser **1** o **10**",
-    "INFO_1": "La probabilidad de obtener un `Fragment` es **12%** Necesitas 8 `Fragment` para crear un `GIF` de algún personaje",
+    "INFO_1": "Necesitas 8 `Fragment` para crear un `GIF` de algún personaje",
     "INFO_2": "Las variantes `GIF` de un personaje tienen 100 `Gens` únicos",
     "INFO_3": "Los `Fragments` pueden ser quemados para obtener `Charm`",
     "PULLS": "SOFI: PULLS",
@@ -9,5 +9,6 @@
     "MISSING_CURR": "{{user}} no tienes **{{amount}}** `{{currName}}`",
     "AMOUNT": "Cantidad: {{amount}}",
     "PULL_COUNT_WIST": "Cantidad de Pulls: {{pullcount}}",
-    "PULL_CHANCES": "Probabilidades"
+    "PULL_CHANCES": "Probabilidades",
+    "RATES": "Tarifas"
 }

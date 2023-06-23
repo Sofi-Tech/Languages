@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "إزالة العلامات عن البطاقات",
     "UT_CATEGORY": "العلامات",
-    "INVALID_CODE": "رمز البطاقة غير صالح أو لا يوجد بطاقة مطابقة",
+    "INVALID_CODE": "{{author}} ليس لديك أي بطاقة بعد",
     "UNTAG_SUCCESSFULL": "تم إزالة العلامة بنجاح عن {{cardName}}",
     "MULTIPLE_UNTAG": "تمت إزالة العلامة عن {{validCards}}{{invalidCards}}"
 }
