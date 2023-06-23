@@ -1,17 +1,16 @@
 {
-  "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado es inválido",
-  "3D_CATEGORY": "Cosméticos",
-  "NO_GIF_CONVERSION": "{{author}} Las cartas `GIF` no pueden ser convertidas en variantes 3D",
-  "CARD_3D_ALREADY": "{{author}} Esa carta ya está en su variante 3D",
-  "NO_3D_VERSION": "{{author}} Este personaje no tiene variante 3D por el momento",
-  "EMBED_TITLE": "SOFI: 3D",
-  "EVENT_3D_NOTE": "Puedes conseguir variantes 3D de \"Evento\" durante los eventos activos",
-
-  "3D_DESCRIPTION": "Convierte tu carta en su variante 3D",
-  "NO_EVENT_CARD_CONVERSION": "{{author}} Las cartas de evento no pueden convertirse en una variante 3D",
-  "3D_NOTE": "Estás a punto de convertir esta carta en su variante 3D. Este proceso modificará permanentemente tu carta y no podrá revertirse. La carta obtenida tendrá un \"Gen\" proporcional al anterior. Este proceso también eliminará cualquier \"Frame\" aplicado a la carta original",
-  "NO_CUBES": "No tienes suficientes `Cubes`",
-  "HALLOWEEN_3D_FAILED": "Un fantasma de Halloween ha infestado tu carta! El proceso de conversión ha fallado!",
-  "UPGRADED_3D": "Tu carta ha sido convertido exitosamente en su variante 3D",
-  "UPGRADE_3D_CANCEL": "El proceso de conversión ha sido cancelado"
+    "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado es inválido",
+    "3D_CATEGORY": "Cosméticos",
+    "NO_GIF_CONVERSION": "{{author}} Las cartas `GIF` no pueden ser convertidas en variantes 3D",
+    "CARD_3D_ALREADY": "{{author}} Esa carta ya está en su variante 3D",
+    "NO_3D_VERSION": "{{author}} Este personaje no tiene variante 3D por el momento",
+    "EMBED_TITLE": "SOFI: 3D",
+    "EVENT_3D_NOTE": "Puedes conseguir variantes 3D de \"Evento\" durante los eventos activos",
+    "3D_DESCRIPTION": "Convierte tu carta en su variante 3D",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Las cartas de evento no pueden convertirse en una variante 3D",
+    "3D_NOTE": "Estás a punto de convertir esta carta en su variante 3D. Este proceso modificará permanentemente tu carta y no podrá revertirse. La carta obtenida tendrá un \"Gen\" proporcional al anterior. Este proceso también eliminará cualquier \"Frame\" aplicado a la carta original",
+    "NO_CUBES": "No tienes suficientes `Cubes`",
+    "HALLOWEEN_3D_FAILED": "Un fantasma de Halloween ha infestado tu carta! El proceso de conversión ha fallado!",
+    "UPGRADED_3D": "Tu carta ha sido convertido exitosamente en su variante 3D",
+    "UPGRADE_3D_CANCEL": "El proceso de conversión ha sido cancelado"
 }
