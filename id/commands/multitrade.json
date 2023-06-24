@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} Anda telah mengirim permintaan pertukaran kepada seseorang! Batalkan yang sebelumnya terlebih dahulu, sebelum memulai yang baru",
     "BOT_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan `Bot`",
     "SELF_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan diri sendiri",
-    "NOT_REGISTERED": "{{user}} belum terdaftar!",
+    "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
     "AUTHOR_IS_BLED": "{{author}} Anda masuk daftar hitam",
     "MEMBER_IS_BLED": "{{user}} masuk daftar hitam",
     "AUTHOR_IS_QUED": "{{author}} Anda dikarantina",
