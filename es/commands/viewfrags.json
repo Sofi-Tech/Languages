@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Lista de los \"Fragmentos\" disponibles de un usuario",
     "COLLECTION_PVT": "{{author}} Los `Fragment`de este usuario son privados!",
-    "CANNOT_FIND_FRAGS": "{{user}} No se pudo encontrar ningun `Fragments`en el inventario",
+    "CANNOT_FIND_FRAGS": "{{user}} No se pudo encontrar ningun `Fragments`en el inventory",
     "FRAGS_COUNT": "Cantidad de `Fragment`: {{totalCount}}",
     "FRAG_LIST": "Lista de \"Fragment\": {{userName}}"
 }

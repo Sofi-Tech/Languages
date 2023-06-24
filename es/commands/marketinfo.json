@@ -8,7 +8,7 @@
     "RATE": "Tasa",
     "LISTED": "Listado",
     "NO_LISTINGS_FOUND": "{{user}} No has hecho ningún listado en el mercado",
-    "INFO": "Usa el comando `{{prefix}}mul <ID>` para deslistar tu oferta actual\n**Solo una oferta puede estar listada a la vez**",
+    "INFO": "Usa el comando `{{prefix}}mul <ID>` para quitar tus ofertas actuales del listado\n**Solo una oferta puede estar listada a la vez**",
     "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Usa el comando `{{prefix}}mp <ID>` para comprar `Wists`!",
     "EMBED_TITLE": "TUS LISTADOS:"
 }

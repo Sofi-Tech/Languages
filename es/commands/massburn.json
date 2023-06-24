@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Quema masivamente tus cartas a la misma vez",
-    "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo massburn mientras esté otro activo, por favor proceda o cancele el massburn previo",
-    "PROVIDE_FILTERS": "Proporcione un filtro para filtrar la colección: t=nombre del tag, g><=gen, wl><=lista de deseos",
-    "WRONG_TAG": "{{author}} Se proporcionó un `Tag` incorrecto. Por favor, comprueba de nuevo",
-    "NO_CARDS_FOUND": "{{author}} No tienes cartas en tu colección aún",
-    "CARDS_BURNED": "Cartas quemadas {{totalCards}}",
-    "CONFIRM_ASK": "¿Estás seguro de quemar estas cartas? El proceso es irreversible",
-    "MISSING_CARDS": "{{author}} Falta una de las cartas de la colección de massburn. Intenta el comando de nuevo",
+    "DESCRIPTION": "Quema multitud de cartas a la vez",
+    "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo massburn, mientras tengas uno activo en proceso. Por favor cancela el massburn existente primero",
+    "PROVIDE_FILTERS": "Proporcione los filtros que quieres aplicar al proceso de burn! `t=<NombreDelTag>, g><=gen, wl><=wishlist`",
+    "WRONG_TAG": "{{author}} El nombre del `Tag` que has proporcionado es inválido",
+    "NO_CARDS_FOUND": "{{author}} Aún no tienes ninguna carta en tu colección",
+    "CARDS_BURNED": "Cartas quemadas **{{totalCards}}**",
+    "CONFIRM_ASK": "¿Estás seguro de que deseas quemar las cartas de arriba? Este proceso es irreversible",
+    "MISSING_CARDS": "{{author}} Al menos una de las cartas de tus `Tags` seleccionados ya no está en tu colección",
     "SUCCESS": "Las cartas se quemaron con éxito",
-    "BURN_REWARDS": "Recompensas de Quema",
+    "BURN_REWARDS": "Recompensas de Burn",
     "CANCELLED": "Estás intentando listar más `Wists` de los que tienes! "
 }

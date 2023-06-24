@@ -7,7 +7,7 @@
     "NO_AMOUNT": "{{author}} no tienes {{amount}} {{currency}}",
     "EMBED_TITLE": "SOFI: OFERTA",
     "CONFIRM_BID": "{{author}} ¿Estás seguro de que deseas realizar una oferta de {{amount}} {{currency}} en la subasta `{{auctionId}}`?",
-    "BID_NOTE": "Al realizar una nueva oferta, la cantidad de la oferta anterior se agregará al inventario y la nueva cantidad de la oferta se deducirá",
+    "BID_NOTE": "Al realizar una nueva oferta, la cantidad de la oferta anterior se agregará al inventory y la nueva cantidad de la oferta se deducirá",
     "EMBED_FOOTER": "Nota: Las ofertas son anónimas",
     "MINIMUM_BID": "Cancelación: La oferta mínima debe ser `{{amount}}`{{currency}} y debes tener esa cantidad",
     "ALREADY_MAX_BIDDER": "Ya eres el ofertante máximo",

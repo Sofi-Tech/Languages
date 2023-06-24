@@ -1,18 +1,18 @@
 {
-    "DESCRIPTION": "Muestra el \"Inventario\" de un usuario",
-    "SLASH_DESC": "Selecciona un usuario para ver su \"Inventario\"",
+    "DESCRIPTION": "Muestra el \"Inventory\" de un usuario",
+    "SLASH_DESC": "Selecciona un usuario para ver su \"Inventory\"",
     "SLASH_DESC2": "Ingresa el \"Item\" que deseas buscar",
     "NOT_REGISTER": "{{author}} | Ese usuario no está registrado!",
     "NO_USER_FOUND": "{{author}} No se encontró al usuario",
-    "INV_PRIVATE": "{{author}} El `Inventario` de ese usuario es privado",
+    "INV_PRIVATE": "{{author}} El `Inventory` de ese usuario es privado",
     "ITEMS": "Items",
     "FRAMES": "Marcos",
     "CRYSTALS": "Crystals",
     "BACKGROUNDS": "Fondos",
     "EVENT": "Event",
-    "SELF_INV_EMPTY": "{{author}} Tu `Inventario` está vacío",
-    "USER_INV_EMPTY": "{{author}} El `Inventario` de ese usuario está vacío",
+    "SELF_INV_EMPTY": "{{author}} Tu `Inventory` está vacío",
+    "USER_INV_EMPTY": "{{author}} El `Inventory` de ese usuario está vacío",
     "NO_BG_FOUND": "No tienes ningún `Background`",
-    "NO_ITEM_FOUND": "{{author}} No se pudo encontrar ese `Item` en el `Inventario`",
-    "HIDE_INV": "Usa el comando `{{prefix}}spvt inv` para marcar tu `Inventario` como privado"
+    "NO_ITEM_FOUND": "{{author}} No se pudo encontrar ese `Item` en el `Inventory`",
+    "HIDE_INV": "Usa el comando `{{prefix}}spvt inv` para marcar tu `Inventory` como privado"
 }

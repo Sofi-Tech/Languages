@@ -1,1 +1,13 @@
-{}
+{
+    "EV_CATEGORY": "कार्ड्स",
+    "EVENT_TASK": "ड्रॉप {{amount}} इवेंट कार्ड्स",
+    "BURN_TASK": "{{amount}} कार्ड्स जलाए",
+    "VOTE_TASK": "{{amount}} बार वोट करे इवेंट के दौरान",
+    "MORPH_TASK": "{{amount}} बार इवेंट कार्ड को मॉर्फ करे",
+    "GIFT_TASK": "{{amount}} {{item}} भेंट में दे",
+    "EVENT_STARTING": "इवेंट शुरू हो रहा है {{date}}",
+    "EV_DESCRIPTION": "इवेंट कमांड जो सभी जानकारी देती है इवेंट के बारे में",
+    "DROP_TASK": "ड्रॉप {{amount}} बार",
+    "3D_TASK": "{{amount}} कार्ड्स बदले {{event}} 3डी में",
+    "GLOW_TASK": "{{amount}} कार्ड्स ग्लो करे"
+}

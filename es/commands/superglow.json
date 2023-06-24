@@ -1,7 +1,7 @@
 {
     "SG_DESCRIPTION": "Funde dos \"Glows\" para hacer un \"Super Glow\"",
     "SG_CATEGORY": "Cosméticos",
-    "NO_GLOWS": "{{author}} No se pueden encontrar glows en tu inventario, no tienes ningún `Glow` aún",
+    "NO_GLOWS": "{{author}} No se pueden encontrar glows en tu inventory, no tienes ningún `Glow` aún",
     "GLOW_CODES_MISSING": "{{author}} Uso correcto: `{{prefix}}sg <GlowCode1> <GlowCode2>`",
     "GLOW_NOT_FOUND": "{{author}} no se pudo encontrar el `Glow`. Al menos uno de los glow que usaste es invalido. Por favor, revisa el código nuevamente",
     "UNAVAILABLE_GLOW": "{{author}} uno de los `Glows` no está disponible",
