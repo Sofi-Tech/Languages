@@ -3,7 +3,7 @@
     "VOTE_CATEGORY": "Pengaturan",
     "VOTE": "Vote di Top.GG",
     "BUMP": "Bump",
-    "EMBED_TITLE": "{{username}} Voting",
+    "EMBED_TITLE": "{{username}} Vote",
     "USE_WIST": "Kamu akan mendapatkan `Wists` <:wist:870339503427027005> dari `Voting` yang sukses!",
     "TOTAL_VOTES": "> `Total Votes`: {{totalVotes}}",
     "MONTHLY_VOTES": "> `Monthly Votes`: {{monthlyVotes}}",
@@ -12,5 +12,5 @@
     "CLAIM_DIVINE_CHEST": "**<:divinechest:927502631155429399> {{monthlyVotes}} `Votes` tersisa untuk mendapatkan `Divine Chest`**",
     "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Berisi maksimal **2,500** `Cubes` atau sebuah `Frame {{frameName}}`**",
     "VOTE_RESET": "> Akan direset dalam {{countdown}}",
-    "EMBED_FOOTER": "Kamu akan mendapatkan dua kali lipat Wists pada akhir pekan"
+    "EMBED_FOOTER": "Kamu akan mendapatkan dua kali lipat Wist pada akhir pekan"
 }

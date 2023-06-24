@@ -13,6 +13,6 @@
     "CARD_LOCKED": "该卡片已被锁定，无法送出！请使用命令`{{prefix}}ut <CardCode>`来移除该卡的`Tag'",
     "CARD_NOT_OWNED": "您不再拥有该卡片",
     "SUCCESS": "成功",
-    "CANCELLED": "你在冒很大的wist! 取消",
+    "CANCELLED": "已取消",
     "GIVEN": "发件人→收件人"
 }
