@@ -11,5 +11,5 @@
     "EMBED_MAXED_FIELD_VALUE": "```Déverrouillez la totalité de votre liste de souhaits (50 emplacements)```",
     "SUCCESS": "SUCCÈS",
     "CANCELLED": "ANNULÉ",
-    "PAY_ERROR": "`Vous n'avez pas {{amount}} {{currency}}`"
+    "PAY_ERROR": "`Vous ne possédez pas {{amount}} {{currency}}`"
 }

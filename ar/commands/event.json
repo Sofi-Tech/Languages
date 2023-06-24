@@ -3,7 +3,7 @@
     "EV_JOINED": " انضم",
     "EVSHOP_MENU_PLACEHOLDER": "متجر الحدث",
     "GS_MENU_LABEL": "خادشة إصدار البطاقة",
-    "ITEM_MENU_LABEL": "مقنيات",
+    "ITEM_MENU_LABEL": "{{item}}",
     "BG_MODAL_LABEL": "عدد الخلفيات",
     "FRAMES_BUTTON_LABEL": "إيطارات",
     "EV_DESCRIPTION": "امر الحدث يعرض كل شي عن معلومات الحدث",
@@ -16,5 +16,9 @@
     "GLOW_TASK": "استخدم Glow على {{amount}} بطاقة",
     "GIFT_TASK": "اهداء {{amount}} {{item}}",
     "EVENT_STARTING": "الحدث سيبدأ {{date}}",
-    "GIFT_BUTTON_LABEL": "هدية"
+    "GIFT_BUTTON_LABEL": "هدية",
+    "EMBED_TITLE": "{{event}} [ينتهي {{date}}]",
+    "GS_MENU_DESC": "عنصر مفيد لاظهار gen بطاقات {{event}} الخاصة بك",
+    "ITEM_MENU_DESC": "عنصر مفيد لمورف مميز خلال الحدث",
+    "CHEST_MENU_LABEL": "{{item}} صندوق"
 }
