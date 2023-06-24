@@ -4,7 +4,7 @@
     "PROVIDE_FILTERS": "Fournissez un filtre que vous souhaitez appliquer au processus de burn! `t=<NomDeTag>, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} Le nom du `Tag` que vous avez fournis est invalide",
     "NO_CARDS_FOUND": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
-    "CARDS_BURNED": "Cartes Brûlées **{{totalCards}}**",
+    "CARDS_BURNED": "Cartes Burned **{{totalCards}}**",
     "CONFIRM_ASK": "Êtes-vous sûr de vouloir burn les cartes ci-dessus? Ce processus est irréversible",
     "MISSING_CARDS": "{{author}} Au moins une carte du `Tags` que vous avez sélectionné n'est plus dans votre collection",
     "SUCCESS": "Les cartes ont été burn avec succès",
