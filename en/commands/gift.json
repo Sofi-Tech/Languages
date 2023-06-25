@@ -1,13 +1,13 @@
 {
-  "GIFT_DESCRIPTION": "Gift onigiris during monochrome 2023",
-  "GIFT_CATEGORY": "Cards",
-  "GIFT_SLASH_DESC": "Enter the user you want to gift onigiris to.",
-  "GIFT_SLASH_DESC2": "Enter the amount of onigiris you want to give.",
-  "GIFT_WRONG_USAGE": "Please provide a user and amount",
-  "NO_USER": "{{author}} No user provided",
-  "INVALID_USER": "Invalid user provided",
-  "INVALID_AMOUNT": "Invalid amount provided",
-  "NOT_ENOUGH_ITEM": "You do not have {{amount}} onigiris | Collect some from the drops",
-  "PLAYER_NOT_EXISTS": "{{author}} | That player does not exist",
-  "GIFT_SUCCESSFULL": "{{author}} generously gifted {{amount}} 🍙 to {{user}}\n{{user}} has received {{recieveCount}} 🍙 till now"
+    "GIFT_DESCRIPTION": "\"Gifts\" your \"Event Items\" to another user",
+    "GIFT_CATEGORY": "Cards",
+    "GIFT_SLASH_DESC": "Enter the user you want to gift onigiris to.",
+    "GIFT_SLASH_DESC2": "Enter the amount of onigiris you want to give.",
+    "GIFT_WRONG_USAGE": "Please provide a user and amount",
+    "NO_USER": "{{author}} No user provided",
+    "INVALID_USER": "Invalid user provided",
+    "INVALID_AMOUNT": "Invalid amount provided",
+    "NOT_ENOUGH_ITEM": "You do not have {{amount}} onigiris | Collect some from the drops",
+    "PLAYER_NOT_EXISTS": "{{author}} | That player does not exist",
+    "GIFT_SUCCESSFULL": "{{author}} generously gifted {{amount}} 🍙 to {{user}}\n{{user}} has received {{recieveCount}} 🍙 till now"
 }
