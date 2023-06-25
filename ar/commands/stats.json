@@ -1,1 +1,13 @@
-{}
+{
+    "BACK_MENU_LABEL": "ارجع للخلف",
+    "INVALID_CODE": ">رمز غير صالح",
+    "STATS_SPEED": "سرعة",
+    "STATS_SPECIAL": "مميز",
+    "STATS_MOVES": "__تحركات__",
+    "EMBED_AUTHOR": "حالة",
+    "NO_AVAILABLE_MOVES": "لا يوجد تحركات متاحة",
+    "MISSING_REROLLS": "نت تفتقد إلى لفائف",
+    "STATS_CATEGORY": "بطاقات",
+    "NO_CARDS": "لم يتم العثور على بطاقات في مجموعتك",
+    "UNLOCKED_MOVES": "لقد فتحت {{attackName}} [{{newMove}}%]"
+}

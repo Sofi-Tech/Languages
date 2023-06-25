@@ -22,7 +22,7 @@
     "SORT_DUPE": "Trier Par Doublons",
     "SHOWING PAGE": "Page affichée: {{page}}/{{pages}}",
     "ALL_UNTAG_SUCCESS": "Les cartes {{taglength}} ont été untag avec succès",
-    "ALL_TAG_SUCCESS": "{{author}} Toutes les cartes {{taglength}} ont été tag avec succès",
+    "ALL_TAG_SUCCESS": "{{author}} Toutes les {{taglength}} cartes ont été tag avec succès",
     "PLEASE_WAIT": "Veuillez Patienter <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Vous n'avez aucun `Tags` pour le moment. Vous pouvez en crée un `Tags` avec la commande `{{prefix}}tc <TagName> <Emoji>`"
+    "NO_TAG_FOUND": "Vous n'avez aucun `Tags` pour le moment. Vous pouvez en crée avec la commande `{{prefix}}tc <TagName> <Emoji>`"
 }

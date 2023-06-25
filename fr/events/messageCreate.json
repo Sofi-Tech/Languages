@@ -1,7 +1,7 @@
 {
     "LOTTERY_WON": "Félicitations! Vous avez gagné la carte 2D d'Halloween de Sofi à la loterie! 🎃",
     "MENTION_ERROR": "Utilisez le préfixe du serveur `{{prefix}}` ou `/` afin d'exécuter la commande",
-    "RATE_LIMIT_ERROR": "En raison d'un fort trafic, l'activité limite a été atteinte! Veuillez patienter.",
+    "RATE_LIMIT_ERROR": "En raison d'un fort trafic, la limite d'activité a été atteinte! Veuillez patienter.",
     "VERIFY_BUTTON_LABEL": "Se faire vérifier",
     "SUPPORT_BUTTON_LABEL": "Support",
     "CREATE_TICKET": "Rendez-vous sur https://discord.gg/sofi et créez un ticket pour vous faire vérifier\n",
@@ -17,7 +17,7 @@
     "REQUIRE_MEMBER_PERMISSIONS": "`Vous avez besoin de {{permissions}} pour utiliser cette commande`",
     "COMMAND_COOLDOWN": "> [`{{command}}`] Attendez {{cooldown}} avant d'utiliser la commande.",
     "REGISTER_USER": "{{author}} Veuillez utilisé la commande`{{prefix}}register` et continuer sur le site pour faire vérifier votre compte",
-    "USER_COMMAND_QUEUE": "<@{{id}}> Vous devez compléter {{existsFor}} avant que vous ne puissiez poursuivre",
+    "USER_COMMAND_QUEUE": "<@{{id}}> Vous devez compléter la commande {{existsFor}} avant de pouvoir continuer",
     "AUTHOR_COMMAND_QUEUE": "Finissez d'exécuter la commande {{existsFor}} avant de pouvoir poursuivre",
     "SAFE_MODE": "> Le Bot est en safe-mode {{eta}}\nElle sera de retour bientôt ❤",
     "CATEGORY_DISABLED": "> Cette catégorie a été désactivée\nRaison : `{{category}}`",

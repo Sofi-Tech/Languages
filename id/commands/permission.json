@@ -1,1 +1,26 @@
-{}
+{
+    "PERMS_CATEGORY": "Pengaturan",
+    "EMBED_TITLE": "Beralih Perintah",
+    "WHITELISTING_USAGE": "Penggunaan: `{{customPrefix}}permission whitelist <perintah>`",
+    "BLACKLISTING_INFO": "Daftar hitam: Hanya perintah-perintah tersebut yang akan diblokir di channel",
+    "BLACKLISTING_USAGE": "Penggunaan: `{{customPrefix}}permission blacklist <perintah>`",
+    "WHITELISTED_COMMNADS": "Perintah yang Masuk Daftar Putih",
+    "BLACKLISTED_COMMNADS": "Perintah yang Masuk Daftar Hitam",
+    "BLACKLISTED_NOTE": "Catatan: Untuk membuat daftar putih perintah setelah daftar hitam, Anda harus menonaktifkan semua perintah yang masuk daftar putih dengan menggunakan `{{customPrefix}}permission blacklist none`.",
+    "CHANNEL_FOOTER": "Di #{{channel}}",
+    "MENTION_COMMANDS_WHITELIST": "Sebutkan beberapa perintah untuk masuk ke dalam daftar putih.",
+    "WHITELISTED_COMMANDS_REMOVED": "> Semua perintah yang masuk daftar putih telah berhasil dihapus.",
+    "PROCESSING_REQUEST": "> Memproses permintaan Anda, mohon tunggu...",
+    "NO_COMMAND_FOUND": "> Tidak ditemukan perintah dengan nama `{{cmd}}}`.",
+    "WHITELIST_COMMANDS_SUCCESSFULL": "Perintah {{pushedCmds}} telah masuk daftar putih di channel ini.",
+    "MENTION_COMMANDS_BLACKLIST": "> Sebutkan beberapa perintah untuk membuat daftar hitam.",
+    "BLACKLISTED_COMMANDS_REMOVED": "> Semua perintah yang masuk daftar hitam telah berhasil dihapus.",
+    "PERMS_DESCRIPTION": "Memungkinkan Anda membuat daftar putih atau daftar hitam perintah tertentu di channel.",
+    "WHITELISTING_INFO": "Daftar putih: Perintah-perintah tersebut akan diizinkan di channel.",
+    "EMBED_FOOTER": "Anda memerlukan izin Kelola Server untuk mengonfigurasinya.",
+    "WHILISTED_NOTE": "Catatan: Untuk membuat daftar hitam perintah setelah daftar putih, Anda harus menonaktifkan semua perintah yang masuk daftar putih dengan menggunakan `{{customPrefix}}permission whitelist none`.",
+    "BLACKLISTED_COMMANDS_EXIST": "> Saat ini Anda telah memasukkan perintah ke dalam daftar hitam di channel ini, pertama-tama hapus semuanya dengan `{{customPrefix}}permission blacklist none` lalu coba lagi.",
+    "WHITELISTED_COMMANDS_EXIST": "> Saat ini Anda telah memasukkan perintah ke dalam daftar putih di saluran ini. Pertama-tama hapus semuanya dengan `{{customPrefix}}permission whitelist none` lalu coba lagi.",
+    "COMMANDS_CANNOT_BLACKLIST": "> Perintah `{{command}}` tidak dapat dimasukkan ke dalam daftar hitam!",
+    "BLACKLIST_COMMANDS_SUCCESSFULL": "Perintah {{pushedCmds}} telah masuk dalam daftar hitam di channel ini."
+}

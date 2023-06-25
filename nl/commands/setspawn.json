@@ -1,1 +1,8 @@
-{}
+{
+    "SS_CATEGORY": "Instellingen",
+    "SS_SLASH_DESC": "Het kanaal om in te stellen.",
+    "SS_DISABLE": "> Kaarten zullen niet langer meer verschijnen.",
+    "SS_ENABLE": "> Spawn kanaal ingesteld op {{channel}}",
+    "SS_DESCRIPTION": "Stelt het spawn-kanaal in op de server",
+    "SS_MENTION_CHANNEL": "> Vermeld een kanaal of geef kanaal id"
+}
