@@ -1,0 +1,6 @@
+{
+  "EXTRA_GRAB": "<@{{userId}}> Your extra grab is being used. `{{remaining}}` remains",
+  "GRAB_COOLDOWN": "<@{{userId}}> You must wait {{cooldown}}to claim another card",
+  "EMBED_TITLE": "SOFI: MINIGAME",
+  "CLAIMED_CARD": "<@{{user}}> claimed the card"
+}
