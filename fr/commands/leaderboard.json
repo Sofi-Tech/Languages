@@ -1,1 +1,23 @@
-{}
+{
+    "LB_CATEGORY": "Settings",
+    "MENU_PLACEHOLDER": "Sélectionner une Catégorie",
+    "MENU_SILVER_LABEL": "Silver",
+    "MENU_GEMS_LABEL": "Gem",
+    "MENU_BUMP_LABEL": "Bump",
+    "MENU_DAILY_LABEL": "Daily",
+    "MENU_WISTS_LABEL": "Wist",
+    "MENU_GLOWS_LABEL": "Glow",
+    "MENU_VOTES_LABEL": "Votes",
+    "MENU_3D_LABEL": "3D",
+    "LB_PRIVATE": "`Private`",
+    "NO_NAME_YET": "`No {{name}} yet.`",
+    "EMBED_SILVER_TITLE": "SOFI: CLASSEMENT PAR `SILVER`",
+    "EMBED_GEMS_TITLE": "SOFI: CLASSEMENT PAR `GEMS`",
+    "EMBED_BUMP_TITLE": "SOFI: CLASSEMENT PAR `BUMP`",
+    "EMBED_DAILY_TITLE": "SOFI: CLASSEMENT PAR `DAILY`",
+    "EMBED_WISTS_TITLE": "SOFI: CLASSEMENT PAR `WIST`",
+    "EMBED_GLOWS_TITLE": "SOFI: CLASSEMENT PAR `GLOW`",
+    "EMBED_VOTES_TITLE": "SOFI: CLASSEMENT PAR `VOTE`",
+    "EMBED_3E_TITLE": "SOFI: CLASSEMENT PAR `3D`",
+    "LB_DESCRIPTION": "Affiche les Classements de Sofi"
+}

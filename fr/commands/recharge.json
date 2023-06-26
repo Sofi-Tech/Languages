@@ -1,5 +1,5 @@
 {
-    "INVALID_DC_MOVIES": "{{author}} Les codes de `Glow` commencent toujours par **#**",
+    "INVALID_DC_MOVIES": "{{author}} Les codes de `Glow` commencent toujours par un **#**",
     "UNLOCK_GLOWS": "{{author}} Vous n'avez pas encore de `Glows`",
     "RG_DESCRIPTION": "Recharge un \"Glow\" vide",
     "RG_CATEGORY": "Affiche le \"Background Shop\"",
@@ -11,6 +11,6 @@
     "ARE_YOU_SURE": "Êtes vous sur?",
     "NO_MONEY": "Vous n'avez pas assez de `Recharges`! Acheter en et réessayer",
     "SUCCESSFUL_RECHARGE": "Votre `Glow` a été recharger avec succès",
-    "RECHARGE_CONFIRMATION": "Vous êtes sur le point de recharger:\n\n**{{name}}**\nCode: `{{glowCode}}`\nCost: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "SUPER_RECHARGE_CONFIRMATION": "Vous êtes sur le point de recharger:\n\n**{{name}} (Super)**\nCode: `{{glowCode}}`\nCost: **{{cost}} **:recharge_sofi:"
+    "RECHARGE_CONFIRMATION": "Vous êtes sur le point de recharger:\n\n**{{name}}**\nCode: `{{glowCode}}`\nPrix: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "SUPER_RECHARGE_CONFIRMATION": "Vous êtes sur le point de recharger:\n\n**{{name}} (Super)**\nCode: `{{glowCode}}`\nPrix: **{{cost}} **:recharge_sofi:"
 }

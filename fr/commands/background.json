@@ -1,12 +1,11 @@
 {
-  "BG_CATEGORY": "Cosmetics",
-  "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
-  "NON_3D_CARDS": "{{author}} Vous ne pouvez pas appliquer de `Background` à une carte qui n'est pas 3D",
-
-  "BG_DESCRIPTION": "Applique un \"Background\" à votre carte 3D",
-  "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}bg <CodeDeCarte> <BackgroundID>`",
-  "EMBED_DESCRIPTION": "Vous êtes sur le point d'appliquer le `Background` **{{background}}** sur cette carte",
-  "BG_NOT_FOUND": "Impossible de trouver un `Background` avec cet ID",
-  "EMBED_TITLE": "Appliquer le Background:",
-  "USER_NO_BG": "Vous ne possédez pas ce `Background`"
+    "BG_CATEGORY": "Cosmetics",
+    "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
+    "NON_3D_CARDS": "{{author}} Vous ne pouvez pas appliquer de `Background` à une carte qui n'est pas 3D",
+    "BG_DESCRIPTION": "Applique un \"Background\" à votre carte 3D",
+    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}bg <CodeDeCarte> <IDBackground>`",
+    "EMBED_DESCRIPTION": "Vous êtes sur le point d'appliquer le `Background` **{{background}}** sur cette carte",
+    "BG_NOT_FOUND": "Impossible de trouver un `Background` avec cet ID",
+    "EMBED_TITLE": "Appliquer le Background:",
+    "USER_NO_BG": "Vous ne possédez pas ce `Background`"
 }

@@ -1,15 +1,16 @@
 {
-    "MENU_PLACEHOLDER": "Pilih surat!",
+    "MENU_PLACEHOLDER": "Buka \"Mail\"",
     "EMBED_AUTHOR": "{{username}} Kotak masuk",
-    "MARKED_ALL_READ": "> {{author}}, Menandai semua mail sebagai telah dibaca.",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Hadiah telah diklaim!",
+    "MARKED_ALL_READ": "{{author}} Semua `Mail` ditandai telah dibaca",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Diklaim",
     "CLAIMED_REWARD_ALREADY": "Anda sudah mengklaim hadiahnya!",
-    "REWARD_CLAIM_INVENTORY": "Anda mengklaim hadiahnya!! Periksa inventory Anda.",
-    "CLAIM_REWARD_BUTTON_LABEL": "Klaim hadiahnya",
+    "REWARD_CLAIM_INVENTORY": "`Item` terlampir telah ditambahkan ke `Inventaris` Anda",
+    "CLAIM_REWARD_BUTTON_LABEL": "Klaim hadiah anda",
     "MAIL_OPEN_FOOTER": "Gunakan tombol untuk kembali atau mengklaim hadiah.",
     "MAIL_REWARDS": "Hadiah",
-    "MAIL_FRAME": "Frame",
-    "EMBED_FOOTER": "Halaman: {{page}}/{{pagesNum}} | Pilih di bawah ini untuk melihat pesan lengkap",
+    "MAIL_FRAME": "`Frame`",
+    "EMBED_FOOTER": "Halaman: {{page}}/{{pagesNum}}",
     "MAIL_CATEGORY": "Pengaturan",
-    "NO_MAILS_FOUND": "> Tidak ada mail yang ditemukan di kotak masuk Anda."
+    "NO_MAILS_FOUND": "{{author}} Anda tidak memiliki `Mails` di kotak masuk anda",
+    "MAIL_DESCRIPTION": "Menampilkan \"Mails\" anda"
 }

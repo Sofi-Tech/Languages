@@ -1,17 +1,17 @@
 {
-    "FC_DESCRIPTION": "Change la couleur de police d'une carte en lui appliquant un \"Glow\"",
+    "FC_DESCRIPTION": "Change la couleur de la police d'une carte en lui appliquant un \"Glow\"",
     "FC_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}fc <CodeDeCarte> <CodeDeGlow>`",
     "NOT_CARD_OWNER": "{{author}} Le code de la carte que vous avez fourni est invalide ou ne vous appartient pas",
     "CANNOT_FIND_CARD": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
-    "3D_ERROR": "{{author}} Vous ne pouvez pas modifier la couleur de police des cartes 3D",
+    "3D_ERROR": "{{author}} Vous ne pouvez pas modifier la couleur de la police des cartes 3D",
     "UNLOCK_GLOWS": "{{author}} Vous n'avez pas de `Glows`",
     "PROVIDE_GLOWCODE": "{{author}} Utilisation correcte: `{{prefix}}fc <CodeDeCarte> <CodeDeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Les codes de `Glow` commencent toujours par un **#**",
     "CANNOT_FIND_GLOW": "{{author}} Ce code de `Glow` est invalide ou vous ne le possédez pas",
-    "EMBED_TITLE": "SOFI: COULEUR DE POLICE{{reset}}",
+    "EMBED_TITLE": "SOFI: COULEUR DE LA POLICE{{reset}}",
     "COLOR_NAME": "Nom: {{name}}",
     "COLOR_CODE": "Code: `{{code}}`",
     "GLOW_UNAVAILABLE": "Ce `Glow` n'a pas de charges",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "La couleur de police de la carte a été modifiée avec succès"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "La couleur de la police a été modifiée avec succès pour cette carte"
 }
