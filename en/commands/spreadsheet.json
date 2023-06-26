@@ -1,9 +1,9 @@
 {
-  "SHEET_DESCRIPTION": "Get Csv file for your collection",
-  "SHEET_CATEGORY": "Settings",
-  "NO_GUILD_INFO": "> No guild info found",
-  "NO_VAULT_LOGS": "> No vault logs",
-  "DM_FILE": "> Please check your dms for file. \nNote: Import the file in the spreadsheet using separator type as \"comma\".",
-  "CANNOT_DM": "> Cannot dm the spreadsheet. Make sure your dms are open",
-  "NO_COLLECTION": "> No collection found"
+    "SHEET_DESCRIPTION": "Creates a \".csv\" file of your collection",
+    "SHEET_CATEGORY": "Settings",
+    "NO_GUILD_INFO": "{{author}} You are not in a guild currently",
+    "NO_VAULT_LOGS": "{{author}} There currently are no vault logs",
+    "DM_FILE": "{{author}} The spreadsheet has been sent to you via direct messages.\n\n`Note: While importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"`",
+    "CANNOT_DM": "{{author}} Could not send you the spreadsheet file. Make sure that your direct messages are open!",
+    "NO_COLLECTION": "{{author}} You do not have any cards in your collection"
 }

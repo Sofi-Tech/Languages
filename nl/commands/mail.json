@@ -1,1 +1,16 @@
-{}
+{
+    "MAIL_CATEGORY": "Instellingen",
+    "NO_MAILS_FOUND": "{{author}} Je hebt geen `Mails` in je inbox",
+    "MENU_PLACEHOLDER": "Open een \"Mail\"",
+    "EMBED_AUTHOR": "{{username}}'s Postvak",
+    "EMBED_FOOTER": "Pagina:{{page}}/{{pagesNum}}",
+    "MARKED_ALL_READ": "{{author}} Alle `Mails` zijn gemarkeerd als gelezen",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Geclaimd",
+    "CLAIMED_REWARD_ALREADY": "Je hebt de beloning al geclaimd!",
+    "REWARD_CLAIM_INVENTORY": "De bijgevoegde `Items` zijn toegevoegd aan uw `Inventory`",
+    "CLAIM_REWARD_BUTTON_LABEL": "Claim uw beloning",
+    "MAIL_OPEN_FOOTER": "Gebruik de knoppen om terug te gaan of beloningen te claimen.",
+    "MAIL_REWARDS": "Beloningen",
+    "MAIL_FRAME": "`Frame`",
+    "MAIL_DESCRIPTION": "Toont uw \"Mails\""
+}
