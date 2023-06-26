@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "यह दो उल्लिखित कार्डों के कोड बदलेगा",
+    "DESCRIPTION": "यह दो उल्लिखित पत्तो के कोड बदलेगा",
     "SLASH_DESC": "पहला कोड दर्ज करें",
     "SLASH_DESC2": "दूसरा कोड दर्ज करें",
-    "NO_CODES_PROVIDED": "कृपया दो कार्ड कोड दर्ज करें",
+    "NO_CODES_PROVIDED": "कृपया दो card codes दर्ज करें",
     "INVALID_CODES_PROVIDED": "{{author}} कृपया दो वैध कार्ड कोड दर्ज करें"
 }
