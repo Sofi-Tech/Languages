@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Zeigt Ihre aktuellen Markteinträge an oder prüft ein Angebot, wenn Sie eine ID angeben",
-    "INVALID_DEAL_ID": "{{author}} | Die Angebots-ID die du angegeben hast ist ungültig.",
+    "DESCRIPTION": "Zeigt deine aktuellen Markt-Angebote an oder prüft einen Handel, wenn du eine ID angibst",
+    "INVALID_DEAL_ID": "{{author}} | Die angegebene Angebots-ID ist ungültig",
     "TRADER": "Verkäufer",
     "DEAL_ID": "Deal-ID",
     "PRODUCT": "Produkt",
-    "VALUE": "Nutzen",
+    "VALUE": "Wert",
     "RATE": "Rate",
-    "LISTED": "Aufgelistet",
-    "NO_LISTINGS_FOUND": "{{user}} Du hast keine Einträge auf dem Markt",
-    "INFO": "Verwenden Sie `{{prefix}}ml` und `smul`, um die Auflistung zu entfernen\nEs kann jeweils nur ein Deal aufgelistet sein",
+    "LISTED": "Gelistet",
+    "NO_LISTINGS_FOUND": "{{user}} Du hast keine Angebote auf dem Markt",
+    "INFO": "Verwende `{{prefix}}mul <ID>` um deine Angebote zu entfernen\n**Es kann jeweils nur ein Angebot gleichzeitig existieren**",
     "FOOTER": "Zeige 1-{{pages}} von {{total}} Seite/n | Benutz den Command `{{prefix}}mp <ID>` um `Wists` zu kaufen!",
-    "EMBED_TITLE": "DEINE LISTUNGEN"
+    "EMBED_TITLE": "DEINE ANGEBOTE"
 }
