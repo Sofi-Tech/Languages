@@ -1,13 +1,13 @@
 {
     "DESCRIPTION": "Zeigt eine Karte an",
     "SLASH_DESC1": "Gib einen Kartencode ein",
-    "INVALID_CODE": "{{author}} Dieser Kartencode ist ungültig",
+    "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
     "SERIES": "Serie:",
     "NAME": "Name:",
     "OWNED_BY": "In Besitz von:",
     "SERVER": "Server",
     "CLAIMED": "Beansprucht",
     "MOVES": "Fähigkeiten:",
-    "OWNER_HISTORY": "Besitzer Geschichte",
+    "OWNER_HISTORY": "Besitzer-Geschichte",
     "CARD_VIEW": "KARTENANSICHT"
 }

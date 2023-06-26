@@ -1,15 +1,15 @@
 {
-    "BF_DESCRIPTION": "Kauft einen \"Rahmen\" vom \"Frame Shop\"",
+    "BF_DESCRIPTION": "Kauft einen \"Frame\" vom \"Frame Shop\"",
     "BF_CATEGORY": "Kosmetik",
-    "NO_FRAME_NAME": "{{author}}, bitte gib den Namen des Rahmens an, welches du kaufen willst",
-    "NO_FRAMECODE_FOUND": "{{author}}, konnte keinen Rahmen finden mit dem Code `{{name}}`**",
-    "FRAME_UNAVAILABLE": "{{author}} Dieser Rahmen ist aktuell nicht verfügbar. Bitte benutze den stattdessen den`sfs`Command, um die verfügbaren Rahmen zu sehen",
-    "NO_FRAME_FOUND": "{{author}}, es existiert kein Rahmen mit dem Code",
-    "FRAME_NOT_PURCHASABLE": "{{author}}, dieser Rahmen ist limitiert und kann nicht mehr gekauft werden",
+    "NO_FRAME_NAME": "{{author}}, bitte gib den Namen des `Frame` an, den du kaufen willst",
+    "NO_FRAMECODE_FOUND": "{{author}}, konnte keinen `Frame` mit dem Code `{{name}}` finden",
+    "FRAME_UNAVAILABLE": "{{author}} Dieser Frame ist im Moment nicht verfügbar. Bitte benutze den stattdessen den Befehl `sfs`, um die aktuelle `Frame`-Rotation zu sehen",
+    "NO_FRAME_FOUND": "{{author}} Es existiert kein `Frame` mit dem Code",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Dieser `Frame` ist limitiert und kann nicht mehr gekauft werden",
     "EMBED_TITLE": "TRANSAKTION",
     "YOU_GET": "Du erhältst:",
     "YOU_PAY": "Du zahlst:",
     "TRANSACTION": "TRANSACTION",
     "NO_ENOUGH_AMOUNT": "Du hast nicht genug Guthaben für diese Transaktion",
-    "FRAME_PURCHASED_BY": "Dein Rahmen `{{frame}}` wurde von `{{userId}}`| {{buyCount}} mal gekauft"
+    "FRAME_PURCHASED_BY": "Dein `Frame` **`{{frame}}`** wurde von `{{userId}}`gekauft | {{buyCount}}"
 }
