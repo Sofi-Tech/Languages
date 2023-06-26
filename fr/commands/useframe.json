@@ -8,7 +8,7 @@
     "NO_FRAMES_FOUND": "{{author}} Ce code de `Frame` est soit invalide ou alors n'est pas dans votre `Inventory`",
     "EMBED_TITLE": "APPLIQUER UNE FRAME:",
     "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer la `Frame` **{{frameName}}** à cette carte",
-    "EMBED_FOOTER": "La carte posséde déjà une `Frame`. En appliquer une nouvelle détruira la précédente!",
+    "EMBED_FOOTER": "La carte possède déjà une `Frame`. En appliquer une nouvelle détruira la précédente!",
     "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
     "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la `Frame` **{{frameName}}**",
     "UF_SUCCESSFULL": "La `Frame` a été appliquée avec succès"

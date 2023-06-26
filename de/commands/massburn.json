@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Löscht eine Vielzahl an Karten auf einmal",
-    "IN_ACTIVE_MB": "{{user}}, du kannst keine neue Massenverbrennung starten während du einen aktiv hast. Fahre fort oder stoppe die existierende Massenverbrennung",
+    "IN_ACTIVE_MB": "{{user}}, du kannst keinen neuen massburn starten, während bereits einer ausgeführt wird. Fahre fort oder brich den aktiven massburn ab",
     "PROVIDE_FILTERS": "Gebe die Filter an die du bei der Verbrennung anwenden möchtest! `t=<TagName>, g><=Generation, wl><=Wunschliste`",
     "WRONG_TAG": "{{author}} der `tag` Name den du angegeben hast ist nicht gültig",
     "NO_CARDS_FOUND": "{{author}} Du hast noch keine Karten in deiner Sammlung",
