@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Entrez le code de la carte que vous voulez donner",
     "NO_MEMBER": "{{author}} Aucun utilisateur fourni",
     "NO_SELF_GIVE": "{{author}} Vous ne pouvez pas vous donner une carte à vous-même",
-    "NOT_REGISTERED": "{{member}} n'est pas inscrit",
+    "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit!",
     "MEM_BLACKLISTED": "{{member}} est sur liste noire",
     "MEM_QUARANTINED": "Cet utilisateur est en quarantaine",
     "NO_CODE": "{{author}} Vous avez oublié de fournir un code de carte",

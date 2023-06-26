@@ -1,16 +1,17 @@
 {
-    "TT_DESCRIPTION": "Bascule la visibilité du texte d'une carte",
+    "TT_DESCRIPTION": "Basculer la visibilité du texte d'une carte",
     "TT_CATEGORY": "Cosmetics",
-    "PROVIDE_CARD_CODE": "{{author}} Utilisation Correct: `{{prefix}}tt <CodeDeCarte>`",
-    "INAVLID_CARD_CODE": "{{author}} Ce code de carte est sois invalide ou n'est pas dans votre collection",
+    "PROVIDE_CARD_CODE": "{{author}} Utilisation Correcte: `{{prefix}}tt <CodeDeCarte>`",
+    "INAVLID_CARD_CODE": "{{author}} Ce code de carte est soit invalide ou n'est pas dans votre collection",
     "INVALID_CODE": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
     "CANNOT_FIND_CARD": "{{author}} Ce personnage n'existe plus!",
-    "CANNOT_TOGGLE": "{{author}} Vous ne pouvez peut pas basculer le texte pour les cartes \"3D\" ou \"GIF\"",
+    "CANNOT_TOGGLE": "{{author}} Vous ne pouvez pas basculer le texte pour les cartes \"3D\" ou \"GIF\"",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
     "TT_CONFIRMATION": "Êtes-vous sûr de vouloir **{{toggleInfo}}**\nLe processus coûtera **1000** <:_:915619222229512213>",
     "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
     "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
-    "TT_ENABLE_SUCCESSFULL": "Le texte de cette carte a été retirer",
+    "TT_ENABLE_SUCCESSFULL": "Le texte de cette carte a été retiré",
     "TOGGLE_INFO_ADD": "ajouter le texte a la carte",
-    "TOGGLE_INFO_REMOVE": "retirer le texte de la carte"
+    "TOGGLE_INFO_REMOVE": "retirer le texte de la carte",
+    "TT_DISABLE_SUCCESSFULL": "Le texte de cette carte a été retiré"
 }
