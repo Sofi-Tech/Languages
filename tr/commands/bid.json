@@ -6,7 +6,7 @@
     "INVALID_AMOUNT": "{{author}} miktar bir sayı olmalı",
     "NO_AMOUNT": "{{author}} {{amount}} {{currency}}'a sahip değilsiniz",
     "EMBED_TITLE": "SOFI: TEKLİF",
-    "CONFIRM_BID": "{{author}} `{{auctionId}}` açık arttırmadaki teklifi {{amount}} {{currency}} yapmak istediğinize emin misiniz?",
+    "CONFIRM_BID": "{{author}} `{{auctionId}}` açık arttırmadaki teklifi {{amount}} {{currency}} yapmak istediğinize emin misiniz",
     "BID_NOTE": "Yeni bir teklif verilirken önceki teklif tutarı `Inventory`nize eklenecek ve yeni teklif tutarı düşülecektir",
     "EMBED_FOOTER": "Not: Teklifler anonimdir",
     "MINIMUM_BID": "İptal etmek: Minimum teklif `{{amount}}` olmalıdır{{currency}} ve o miktarda olmalısınız",

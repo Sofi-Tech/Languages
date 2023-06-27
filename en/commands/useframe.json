@@ -1,7 +1,7 @@
 {
     "UF_DESCRIPTION": "Applies a \"Frame\" to your card",
     "UF_CATEGORY": "Cosmetics",
-    "UF_INVALID_USAGE": "Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
     "CANNOT_APPLY": "{{author}} You cannot apply a `Frame` to a `3D` card",
     "NO_GIF": "{{author}} You cannot apply a `Frame` to a `GIF` card",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Pazardan sizin işlem listelemelerinizi kaldırır",
     "CORRECT_USAGE": "{{user}} | Lütfen listelenmesinin kaldırılmasını istediğiniz işlemin ID'sini sağlayın ya da bütün işlemleri tek seferde listelemekten kaldırmak için `smul all` komudunu kullanın",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız ID ya geçersiz yada size ait bir anlaşma değil",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız ID ya geçersiz ya da size ait bir anlaşma değil",
     "SUCCESS_UL": "{{user}} İşlem `{{dealId}}` başarıyla pazardan kaldırıldı",
     "NO_LISTINGS_FOUND": "{{user}} Henüz pazarda herhangi bir listeleme yapmadınız",
     "SUCCESS_UL_ALL": "{{user}} Toplam olarak {{totalDeals}} işlem pazardan başarıyla kaldırıldı"

@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "अपनी इच्छा सूची को अपग्रेड करें",
+    "DESCRIPTION": "अपनी पसंदीदा-सूची को बढ़ाए",
     "CATEGORY": "पसंदीदा सूची",
-    "ALREADY_MAXED": "> {{author}} आपकी इच्छा सूची स्लॉट्स पहले से ही बढ़ गई हैं",
+    "ALREADY_MAXED": "> {{author}} आपकी पसंदीदा-सूची स्लॉट्स पहले से ही बढ़ गई हैं!",
     "EMBED_DESCRIPTION": "क्या आप अतिरिक्त {{count}} स्लॉट {{amount}} {{currency}} खरीदना चाहते हैं?",
     "EMBED_PAY_FIELD_NAME": "आप भुगतान करते हैं:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "आप प्राप्त करते हैं:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} अतिरिक्त इच्छा सूची स्लॉट```",
-    "EMBED_MAXED_DESCRIPTION": "क्या आप अपनी इच्छा सूची स्लॉट्स को {{amount}} {{currency}} तक बढ़ाना चाहते हैं?",
-    "EMBED_MAXED_FIELD_VALUE": "```50 इच्छा सूची स्लॉट तक मैक्स आउट```",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} अतिरिक्त पसंदीदा-सूची स्लॉट```",
+    "EMBED_MAXED_DESCRIPTION": "क्या आप अपनी पसंदीदा-सूची स्लॉट्स को {{amount}} {{currency}} तक बढ़ाना चाहते हैं?",
+    "EMBED_MAXED_FIELD_VALUE": "```एक अधिकतम 50 पसंदीदा-सूची स्लॉट ``",
     "SUCCESS": "सफल",
-    "CANCELLED": "रद्द किया गया",
+    "CANCELLED": "रद्द",
     "PAY_ERROR": "`आपके पास {{amount}} {{currency}} नहीं हैं`"
 }

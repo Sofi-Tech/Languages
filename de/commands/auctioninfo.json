@@ -1,7 +1,7 @@
 {
     "AI_DESCRIPTION": "Zeigt Informationen zur \"Auction\" an",
     "AI_CATEGORY": "Karten",
-    "INVALID_ID": "{{author}} Du hast eine ungültige „Auction“-ID angegeben",
+    "INVALID_ID": "{{author}} Du hast eine ungültige `Auction`-ID angegeben",
     "EMBED_TITLE": "SOFI: AUKTION",
     "AI_GEN": "> Gen: `{{gen}}`",
     "AI_NAME": "> Name: {{name}}",
@@ -17,5 +17,5 @@
     "ONGOING": "Laufend (endet in: {{time}})",
     "OVER": "Beendet",
     "EMBED_AUCTIONS_TITLE": "SOFI: AUKTIONEN",
-    "EMBED_AUCTIONS_FOOTER": "Seite anzeigen: {{page}}/{{totalPages}} | Verwende `sai <AuctionID>` für mehr Details"
+    "EMBED_AUCTIONS_FOOTER": "Zeige Seite: {{page}}/{{totalPages}} | Verwende `sai <AuctionID>` für mehr Details"
 }

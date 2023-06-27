@@ -1,17 +1,17 @@
 {
     "FC_DESCRIPTION": "Ändert die Schriftfarbe einer Karte, indem ein \"Glow\" darauf angewendet wird",
-    "FC_CATEGORY": "Kosmetik",
-    "WRONG_USAGE": "{{author}} Richtig verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
-    "NOT_CARD_OWNER": "{{author}} Der Karten-Code, den du eingegeben hast, ist entweder ungültig oder gehört dir nicht",
+    "FC_CATEGORY": "Kosmetika",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
+    "NOT_CARD_OWNER": "{{author}} Der Karten Code, den du eingegeben hast, ist entweder ungültig oder die Karte gehört dir nicht",
     "CANNOT_FIND_CARD": "{{author}} Du hast noch keine Karten in deiner Sammlung",
     "3D_ERROR": "{{author}} Du kannst die Schriftfarbe von 3D-Karten nicht ändern",
     "UNLOCK_GLOWS": "{{author}} Du hast keine `Glows`",
     "PROVIDE_GLOWCODE": "{{author}} Richtig verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} `Glow`-Codes beginnen immer mit einem **#**",
     "CANNOT_FIND_GLOW": "{{author}} Dieser `Glow`-Code ist entweder ungültig oder du besitzt ihn nicht",
-    "EMBED_TITLE": "SOFI: SCHREIBFARBE{{reset}}",
+    "EMBED_TITLE": "SOFI: SCHRIFTFARBE{{reset}}",
     "COLOR_NAME": "Name: {{name}}",
     "COLOR_CODE": "Code: `{{code}}`",
-    "GLOW_UNAVAILABLE": "Dieser `Glow` hat keine Aufladungen",
+    "GLOW_UNAVAILABLE": "Dieser `Glow` ist nicht aufgeladen",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "Die Schriftfarbe der Karte wurde erfolgreich geändert"
 }
