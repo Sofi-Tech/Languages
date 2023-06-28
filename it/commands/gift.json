@@ -1,1 +1,7 @@
-{}
+{
+    "GIFT_DESCRIPTION": "\"Gifts\" i tuoi \"Event Items\" a un altro utente",
+    "GIFT_CATEGORY": "Carte",
+    "GIFT_SLASH_DESC": "Inserisci l'utente a cui vuoi regalare {{eventItem}}.",
+    "NO_USER": "{{author}} Nessun utente fornito",
+    "INVALID_USER": "Utente non valido fornito"
+}

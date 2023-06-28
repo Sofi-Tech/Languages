@@ -1,1 +1,7 @@
-{}
+{
+    "PERMS_CATEGORY": "Impostazioni",
+    "EMBED_TITLE": "Attiva/disattiva i comandi",
+    "BLACKLISTING_USAGE": "Utilizzo: `{{customPrefix}}permission blacklist <commands>`",
+    "PERMS_DESCRIPTION": "Black/Whitelists comandi specifici in un canale",
+    "BLACKLISTING_INFO": "I comandi Blacklisted saranno inutilizzabili nel canale"
+}

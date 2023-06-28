@@ -1,6 +1,6 @@
 {
     "BACK_MENU_LABEL": "ارجع للخلف",
-    "INVALID_CODE": ">رمز غير صالح",
+    "INVALID_CODE": "{{author}} رمز هذه البطاقة إما غير صالح أم انه غير موجود في مجموعتك",
     "STATS_SPEED": "سرعة",
     "STATS_SPECIAL": "مميز",
     "STATS_MOVES": "__تحركات__",

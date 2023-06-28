@@ -1,3 +1,4 @@
 {
-    "NO_GUILD_INFO": "> Información de guild no encontrada"
+    "NO_GUILD_INFO": "{{author}} No estás en una guild actualmente",
+    "NO_VAULT_LOGS": "{{author}} Actualmente no hay registros de vault"
 }

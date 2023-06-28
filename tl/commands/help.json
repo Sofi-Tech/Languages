@@ -1,5 +1,11 @@
 {
     "HELP_CATEGORY": "Mga setting",
     "COLLECTION_FILTERS": "SOFI: Mga Filter sa Koleksiyon",
-    "HELP_SLASH_DESC": "Mangyaring tukuyin ang command na nais mong malaman ang karagdagang impormasyon tungkol dito"
+    "HELP_SLASH_DESC": "Mangyaring tukuyin ang command na nais mong malaman ang karagdagang impormasyon tungkol dito",
+    "HELP_DESCRIPTION": "Nagpapakita ng isang listahan ng lahat ng mga command na available",
+    "FILTER_NAME": "Pangalan",
+    "FILTER_DATE": "Petsa",
+    "FILTER_WISHLIST": "Wishlist",
+    "FILTER_PAGE": "Pahina",
+    "FILTER_TAG": "Tag"
 }

@@ -1,3 +1,4 @@
 {
-    "PROVIDE_REMINDER_NAME": "Proporcione el nombre del recordatorio: {{availableReminders}}"
+    "PROVIDE_REMINDER_NAME": "Proporcione el nombre del recordatorio: {{availableReminders}}",
+    "REMINDER_ENABLED": "Serás notificado cuando el {{reminder}} cd termine"
 }

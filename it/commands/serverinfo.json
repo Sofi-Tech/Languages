@@ -1,1 +1,7 @@
-{}
+{
+    "SI_DESCRIPTION": "Dispone le statistiche del server",
+    "SI_CATEGORY": "Impostazioni",
+    "EMBED_AUTHOR": "Server: {{guildName}} | Prefisso: `{{prefix}}` ({{blacklistPoints}})",
+    "SI_TOTAL_BURNT": "Totale Bruciato",
+    "SI_TOTAL_GRABS": "Totale afferrato"
+}

@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "टैग हटाएं",
-    "TD_CATEGORY": "टैग",
+    "TD_DESCRIPTION": "Tag मिटाये",
+    "TD_CATEGORY": "TAGS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}dt <tagname>`",
-    "TAG_NOT_FOUND": "{{author}} वह टैग आपकी टैग सूची में नहीं है",
-    "SUCCESSFUL_DELETE_TAG": "{{author}} {{tag}} टैग हटा दिया गया है"
+    "TAG_NOT_FOUND": "{{author}} इस नाम से कोई Tag प्राप्त नहीं हुआ",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} {{tag}} Tag मिटाया गया"
 }

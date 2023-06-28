@@ -1,5 +1,13 @@
 {
-    "GIFT_DESCRIPTION": "Magregalo ng mga onigiri sa panahon ng Monochrome 2023",
-    "GIFT_SLASH_DESC2": "Ipasok ang halaga ng mga onigiri na nais mong ibigay.",
-    "GIFT_SLASH_DESC": "Ipasok ang user na nais mong regaluhan ng mga onigiri."
+    "GIFT_DESCRIPTION": "\"Gifts\" ang iyong \"Event Items\" sa ibang user",
+    "GIFT_SLASH_DESC2": "Isulat ang halaga ng mga {{eventItem}} na nais mong ibigay.",
+    "GIFT_SLASH_DESC": "Isulat ang user na nais mong regaluhan ng mga {{eventItem}}.",
+    "GIFT_CATEGORY": "Baraha",
+    "GIFT_WRONG_USAGE": "Pakiusap mag bigay ng user at halaga",
+    "NO_USER": "{{author}} Walang user na ibinigay",
+    "INVALID_USER": "Hindi valid ang user na ibinigay",
+    "INVALID_AMOUNT": "Hindi valid ang halaga na ibinigay",
+    "NOT_ENOUGH_ITEM": "Wala kang {{amount}} {{eventItem}} | Mangulekta gamit ng drops",
+    "PLAYER_NOT_EXISTS": "{{author}} | Ang player na 'yan ay hindi nakarehistro",
+    "GIFT_SUCCESSFULL": "{{author}} buong pusong naregakuhan {{amount}} {{eventItem}} kay {{user}}\n{{user}} ay nakatanggap ng {{recieveCount}} {{eventItem}} hanggang ngayon"
 }

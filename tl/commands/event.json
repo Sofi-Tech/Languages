@@ -1,5 +1,12 @@
 {
     "EV_CATEGORY": "Mga Card",
     "DROP_TASK": "Ibaba {{amount}} na beses",
-    "EVENT_TASK": "I-drop ang {{amount}} na Event Cards"
+    "EVENT_TASK": "I-drop ang {{amount}} na Event Cards",
+    "BURN_TASK": "Sunugin ang {{amount}} na mga Cards",
+    "3D_TASK": "I-convert ang {{amount}} na mga Cards sa {{event}} 3D",
+    "VOTE_TASK": "Bumoto ng {{amount}} na beses sa panahon ng event",
+    "GLOW_TASK": "Maglagay ng glow sa anumang {{amount}} na card",
+    "GIFT_TASK": "Regalo {{amount}}  {{item}}",
+    "EVENT_STARTING": "Ang Event ay magsisimula ng {{date}}",
+    "HOME_BUTTON_LABEL": "Bahay"
 }

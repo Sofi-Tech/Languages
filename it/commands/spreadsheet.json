@@ -1,1 +1,7 @@
-{}
+{
+    "SHEET_DESCRIPTION": "Crea un file \".csv\" della tua raccolta",
+    "SHEET_CATEGORY": "Impostazioni",
+    "CANNOT_DM": "{{author}} Non è riuscito a inviarti il file del foglio di lavoro. Assicurati che i tuoi messaggi diretti siano aperti!",
+    "NO_COLLECTION": "{{author}} Non hai carte nella tua collezione",
+    "NO_GUILD_INFO": "{{author}} Al momento non fai parte di una guild"
+}

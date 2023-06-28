@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "हटाएँ ग्लो टैग",
-    "DGT_CATEGORY": "टैग",
-    "CORRECT_USAGE": "उपयोग: {{prefix}}dgt <tagname>",
-    "GLOWTAG_NOT_FOUND": "वह ग्लो टैग आपकी ग्लो टैग सूची में नहीं है",
-    "DELETE_GLOWTAG": "{{tag}} ग्लो टैग हटा दिया गया"
+    "DGT_DESCRIPTION": "Glow Tag हटाए",
+    "DGT_CATEGORY": "TAGS",
+    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}dgt <tagname>`",
+    "GLOWTAG_NOT_FOUND": "{{author}} यह Glow Tag सूची में नहीं है",
+    "DELETE_GLOWTAG": "{{author}} । {{tag}} Glow Tag हटा दिया गया"
 }

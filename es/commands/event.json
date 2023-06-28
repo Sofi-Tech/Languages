@@ -1,4 +1,5 @@
 {
     "EV_CATEGORY": "Cartas",
-    "EV_DESCRIPTION": "El comando de evento que muestra todo sobre la información del evento"
+    "EV_DESCRIPTION": "El comando de evento que muestra todo sobre la información del evento",
+    "EVENT_TASK": "Drop {{amount}} cartas de eventos"
 }

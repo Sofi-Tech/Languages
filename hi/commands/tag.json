@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "कार्ड को टैग करें",
-    "TAG_CATEGORY": "टैग",
-    "WRONG_USAGE": "कृपया टैग का नाम दें।",
-    "NO_TAGS_CREATED": "टैगिंग के प्रयास का आभार, लेकिन कोई टैग नहीं मिला। `Stc` कमांड का उपयोग करके पहले एक टैग बनाएं।",
-    "TAG_NOT_FOUND": "आपके पास नाम `{{tag}}` वाला कोई टैग नहीं है",
-    "NO_CARDS_CLAIMED": "आपने अभी तक कोई कार्ड दावा नहीं किया है",
+    "TAG_DESCRIPTION": "कार्ड को Tag करें",
+    "TAG_CATEGORY": "TAGS",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}t <CardCode> <TagName>`",
+    "NO_TAGS_CREATED": "{{author}} आपने अभी तक कोई Tag नहीं बनाया है। आप `{{prefix}}tc <TagName> <Emoji>`प्रयोग करके Tag बना सकते है",
+    "TAG_NOT_FOUND": "{{author}} आपके पास नाम से `{{tag}}` कोई Tag नहीं है",
+    "NO_CARDS_CLAIMED": "{{author}} आपने संग्रह के अभी तक कोई पता नहीं है",
     "INVALID_CARD_CODE": "{{author}} अवैध कार्ड कोड प्रदान किया गया",
-    "SUCCESSFUL_TAG": "{{author}} | `{{tag}}` के रूप में {{card}} को सफलतापूर्वक टैग किया गया",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} उन कार्डों को सफलतापूर्वक टैग किया गया"
+    "SUCCESSFUL_TAG": "{{author}} | {{card}} को सफलतापूर्वक {{tag}} में जोड़ा गया",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} उन पत्तो को सफलतापूर्वक Tag किया गया"
 }

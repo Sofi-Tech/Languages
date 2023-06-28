@@ -1,5 +1,8 @@
 {
-    "SS_DESCRIPTION": "Itinakda ang spawn channel sa server",
-    "SS_SLASH_DESC": "Ang channel na itatakda.",
-    "SS_MENTION_CHANNEL": "> I-mention ang isang channel o magbigay ng channel ID"
+    "SS_DESCRIPTION": "Itiakda ang spawn channel sa server",
+    "SS_SLASH_DESC": "Mamili ng channel",
+    "SS_MENTION_CHANNEL": "{{author}}Tamang paggamit: `{{prefix}}ss<#ChannelMention/ChannelID>`",
+    "SS_CATEGORY": "Settings",
+    "SS_DISABLE": "{{author}}Ang mga cards ay hindi na muli mag sspawn sa server na 'to",
+    "SS_ENABLE": "{{author}}Ang spawn channel ay naitakda sa {{channel}}"
 }
