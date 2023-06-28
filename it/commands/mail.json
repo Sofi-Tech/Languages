@@ -3,5 +3,10 @@
     "MAIL_CATEGORY": "Impostazioni",
     "NO_MAILS_FOUND": "{{author}} Non hai `Mails` nella tua casella di posta",
     "EMBED_FOOTER": "Pagina: {{page}}/{{pagesNum}}",
-    "MARKED_ALL_READ": "{{author}} Tutti i `Mails` sono stati contrassegnati come letti"
+    "MARKED_ALL_READ": "{{author}} Tutti i `Mails` sono stati contrassegnati come letti",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Reclamata",
+    "CLAIMED_REWARD_ALREADY": "Hai già richiesto la ricompensa!",
+    "REWARD_CLAIM_INVENTORY": "Gli `Items` allegati sono stati aggiunti al tuo `Inventory`",
+    "CLAIM_REWARD_BUTTON_LABEL": "Richiedi la tua ricompensa",
+    "MAIL_OPEN_FOOTER": "Usa i pulsanti per tornare indietro o per richiedere i premi."
 }

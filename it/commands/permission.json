@@ -3,5 +3,7 @@
     "EMBED_TITLE": "Attiva/disattiva i comandi",
     "BLACKLISTING_USAGE": "Utilizzo: `{{customPrefix}}permission blacklist <commands>`",
     "PERMS_DESCRIPTION": "Black/Whitelists comandi specifici in un canale",
-    "BLACKLISTING_INFO": "I comandi Blacklisted saranno inutilizzabili nel canale"
+    "BLACKLISTING_INFO": "I comandi Blacklisted saranno inutilizzabili nel canale",
+    "EMBED_FOOTER": "Per utilizzare questo comando sono necessarie le autorizzazioni \"Manage Server\"",
+    "WHILISTED_NOTE": "**Note:** per inserire un comando nella blacklist, devi prima cancellare la whitelist utilizzando il comando `{{customPrefix}}permission whitelist none`"
 }

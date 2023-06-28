@@ -2,5 +2,9 @@
     "UI_STARS": "Stelle",
     "UI_ATTACKS": "Attacchi",
     "UI_CATEGORY": "Impostazioni",
-    "UI_REFFERED": "Riferito"
+    "UI_REFFERED": "Riferito",
+    "UI_GIVEN": "Dato",
+    "CANNOT_FIND_USER": "> {{author}} | Impossibile trovare nessun utente con quell'ID",
+    "USER_IS_BOT": "> {{author}} | Quell'utente è un bot{{username}}",
+    "USER_NOT_REGISTERED": "{{author}} | L'utente con quell'ID non si è ancora registrato su Sofi."
 }

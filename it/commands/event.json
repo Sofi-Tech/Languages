@@ -3,5 +3,9 @@
     "EV_CATEGORY": "Carte",
     "DROP_TASK": "Drop {{amount}} volte",
     "3D_TASK": "Converti {{amount}} Carte in {{event}} 3D",
-    "VOTE_TASK": "Vote {{amount}} volte durante l'evento"
+    "VOTE_TASK": "Vote {{amount}} volte durante l'evento",
+    "MORPH_TASK": "Morph event carte {{amount}} volte",
+    "GLOW_TASK": "Glow qualsiasi {{amount}} carta",
+    "GIFT_TASK": "Gift {{amount}} {{item}}",
+    "EVENT_STARTING": "Evento che inizia il giorno {{date}}"
 }

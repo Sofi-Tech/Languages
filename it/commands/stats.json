@@ -3,5 +3,7 @@
     "STATS_MODAL_LABEL": "Inserisci la quantità di punti che desideri aggiungere",
     "BACK_MENU_LABEL": "Torna indietro",
     "STATS_DESCRIPTION": "Visualizza le statistiche di una carta",
-    "NO_CARDS": "{{author}} Non hai ancora carte nella tua collezione"
+    "NO_CARDS": "{{author}} Non hai ancora carte nella tua collezione",
+    "STATS_MENU_PLACEHOLDER": "Seleziona un'opzione",
+    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione"
 }

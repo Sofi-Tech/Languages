@@ -3,5 +3,8 @@
     "GIFT_CATEGORY": "Carte",
     "GIFT_SLASH_DESC": "Inserisci l'utente a cui vuoi regalare {{eventItem}}.",
     "NO_USER": "{{author}} Nessun utente fornito",
-    "INVALID_USER": "Utente non valido fornito"
+    "INVALID_USER": "Utente non valido fornito",
+    "INVALID_AMOUNT": "Importo fornito non valido",
+    "NOT_ENOUGH_ITEM": "Non hai {{amount}} {{eventItem}} | Raccogline un po' dalle gocce",
+    "PLAYER_NOT_EXISTS": "{{autore}} | Quel giocatore non esiste"
 }

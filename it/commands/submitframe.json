@@ -1,5 +1,8 @@
 {
     "SF_CATEGORY": "Impostazioni",
     "SF_VALID_DIMENSION": "> {{author}} la dimensione del frame deve essere `402x603`",
-    "SF_EMBED_TITLE": "FRAME: {{name}}"
+    "SF_EMBED_TITLE": "FRAME: {{name}}",
+    "SF_NEED_SILVERS": "⦿ Hai bisogno di 3000 <:silvercoin:915619222229512213> per inviare un frame per l'approvazione",
+    "SUBMIT_FRAME_CONFIRMATION": "Vuoi inviare la cornice per 3000 silvers?",
+    "SUBMIT_FRAME_DENY": "Hai bisogno di 3000 silvers per inviare un frame"
 }
