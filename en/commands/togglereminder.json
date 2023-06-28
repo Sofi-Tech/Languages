@@ -1,7 +1,7 @@
 {
-  "RM_DESCRIPTION": "Write a sexy description Crowd - - - @Sarcaster!",
-  "RM_CATEGORY": "Settings",
-  "PROVIDE_REMINDER_NAME": "Provide reminder name: {{availableReminders}}",
-  "REMINDER_ENABLED": "You will be notified when {{reminder}} cd ends",
-  "REMINDER_DISABLED": "You will no longer notified when {{reminder}} cd ends"
+    "RM_DESCRIPTION": "Toggles your reminders",
+    "RM_CATEGORY": "Settings",
+    "PROVIDE_REMINDER_NAME": "{{author}} Correct usage: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_ENABLED": "{{author}} You will now be notified when your **`{{reminder}}`** is ready",
+    "REMINDER_DISABLED": "{{author}} You will no longer be notified when your **`{{reminder}}`** is ready"
 }

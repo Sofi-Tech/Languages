@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten droppen.\n- Benutze den Befehl \"sdn\", um Karten zu ohne Bilder zu droppen. Nützlich, wenn du Datenvolumen sparen oder Verzögerungen vermeiden willst.",
+    "DESCRIPTION": "- Mit diesem Befehl kannst du alle 8 Minuten jeweils 3 Karten generieren.\n- Benutze den Befehl \"sdn\", um Karten zu ohne Bilder zu generieren. Das ist nützlich, wenn du Datenvolumen sparen oder Verzögerungen vermeiden willst.",
     "JOIN_SUPPORT_SERVER": "[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)",
     "EXTRA_DROP_ALERT": "{{author}} Dein **Extra-Drop** wird verwendet. Du hast noch `{{remaining}}`übrig.",
     "ON_CD": "{{author}} Dein `Drop` ist in {{dropCd}} wieder verfügbar",
     "VOTE": "Vote",
-    "BUY_DROP": "\nDu kannst auch `Voten`, um `Wists` zu erhalten, mit denen du `Drops` kaufen kannst!\nBenutze dafür den Befehl `sbuy drop <amount>`"
+    "BUY_DROP": "\nDu kannst ausserdem `Voten`, um `Wists` zu erhalten, mit denen du `Drops` kaufen kannst!\nBenutze dafür den Befehl `sbuy drop <amount>`"
 }
