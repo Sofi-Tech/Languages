@@ -2,5 +2,8 @@
     "SUBMIT_FRAME_DENY": "Du brauchst 3000 `Silver` um einen Rahmen einreichen zu können",
     "SUBMIT_FRAME_CONFIRMATION": "Möchtest du den Rahmen für 3000 `Silver` einreichen?",
     "MAXIMUM_NAME_LENGTH": "{{author}} Der Name des Frame darf nicht mehr als 15 Buchstaben lang sein",
-    "SF_VALID_DIMENSION": ">{{author}} Der Rahmen muss`402x603`px gross sein"
+    "SF_VALID_DIMENSION": ">{{author}} Der Rahmen muss`402x603`px gross sein",
+    "SF_DESCRIPTION": "Sendet einen \"Frame\"",
+    "SF_CORRECT_USAGE": "Korrekte Verwendung: `{{prefix}}sf <ImageURL> <FrameName>`",
+    "SF_CATEGORY": "Einstellungen"
 }

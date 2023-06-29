@@ -1,13 +1,13 @@
 {
-  "GIFT_DESCRIPTION": "\"Gifts\" your \"Event Items\" to another user",
-  "GIFT_CATEGORY": "Cards",
-  "GIFT_SLASH_DESC": "Enter the user you want to gift {{eventItem}} to.",
-  "GIFT_SLASH_DESC2": "Enter the amount of {{eventItem}} you want to give.",
-  "GIFT_WRONG_USAGE": "Please provide a user and amount",
-  "NO_USER": "{{author}} No user provided",
-  "INVALID_USER": "Invalid user provided",
-  "INVALID_AMOUNT": "Invalid amount provided",
-  "NOT_ENOUGH_ITEM": "You do not have {{amount}} {{eventItem}} | Collect some from the drops",
-  "PLAYER_NOT_EXISTS": "{{author}} | That player does not exist",
-  "GIFT_SUCCESSFULL": "{{author}} generously gifted {{amount}} {{eventItem}} to {{user}}\n{{user}} has received {{recieveCount}} {{eventItem}} till now"
+    "GIFT_DESCRIPTION": "Gift \"Event Items\" to another user",
+    "GIFT_CATEGORY": "Cards",
+    "GIFT_SLASH_DESC": "Choose a user you want to gift {{eventItem}} to",
+    "GIFT_SLASH_DESC2": "Enter the amount of {{eventItem}} you want to gift them",
+    "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <User> <Amount>`",
+    "NO_USER": "",
+    "INVALID_USER": "{{author}} You cannot gift `{{eventItem}}` to yourself",
+    "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of {{eventItem}}`",
+    "NOT_ENOUGH_ITEM": "You do not have **{{amount}}** `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}} That player does not exist",
+    "GIFT_SUCCESSFULL": "{{author}} has gifted **{{amount}}** `{{eventItem}}` to {{user}}\n{{user}} has received a total of **{{recieveCount}}** `{{eventItem}}`"
 }

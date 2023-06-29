@@ -1,1 +1,5 @@
-{}
+{
+    "RM_DESCRIPTION": "Schaltet deine Erinnerungen um",
+    "PROVIDE_REMINDER_NAME": "{{author}} Korrekte Verwendung: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "RM_CATEGORY": "Einstellungen"
+}

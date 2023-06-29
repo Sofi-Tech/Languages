@@ -1,9 +1,9 @@
 {
-  "EMBED_TITLE": "Captcha Drop",
-  "EMBED_FOOTER": "Get the card by typing the captcha code",
-  "EXTRA_GRAB": "<@{{userId}}> Your extra grab is being used. `{{remaining}}` remains",
-  "WAIT_TO_CLAIM": "<@{{userId}}> You must wait {{cooldown}} to claim another card",
-  "TOOK_THE_CARD": "took the card {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}",
-  "BATTLED_AND_WON": "battled {{users}} & won {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}*",
-  "CANNOT_BE_GRABBED": "The card can no longer be grabbed"
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "`Grab` the above card by writing the captcha",
+    "EXTRA_GRAB": "<@{{userId}}> Your **Extra Grab** is being used. You have`{{remaining}}` remaining",
+    "WAIT_TO_CLAIM": "<@{{userId}}> You must wait {{cooldown}} to `Grab` another card",
+    "TOOK_THE_CARD": "took the card {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}",
+    "BATTLED_AND_WON": "battled {{users}} & won {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}*",
+    "CANNOT_BE_GRABBED": "The card can no longer be grabbed"
 }

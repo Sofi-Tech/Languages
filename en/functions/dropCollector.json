@@ -1,11 +1,11 @@
 {
-  "EXTRA_GRAB": "<@{{userId}}> Your extra grab is being used. `{{remaining}}` remains",
-  "GRAB_COOLDOWN": "<@{{userId}}> You must wait {{cooldown}} to claim another card",
-  "EVENT_GRAB": "picked up {{amount}} {{eventItem}}. A bite-sized boost for your gaming journey. 🍙",
-  "TOOK_CARD": "took the card {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}{{eventCardInfo}}",
-  "SNATCHED_EVENT_ITEM": "snatched {{amount}} {{eventItem}} from <@{{userId}}>",
-  "GRAB_EVENT_ITEM": "{{amount}} {{eventItem}} are in your bento box now. Other {{users}} will keep on searching",
-  "GRAB_CARD": "battled {{user}} & won {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}{{eventCardInfo}}",
-  "CANNOT_BE_GRABBED": "Cards can no longer be grabbed.",
-  "CARDS_DROPPED_BY": "<@{{userId}}> dropped the cards.\n"
+    "EXTRA_GRAB": "<@{{userId}}> Your **Extra Grab** is being used. You have`{{remaining}}` remaining",
+    "GRAB_COOLDOWN": "<@{{userId}}> You must wait {{cooldown}} to claim another card",
+    "EVENT_GRAB": "picked up {{amount}} {{eventItem}}. A bite-sized boost for your gaming journey. 🍙",
+    "TOOK_CARD": "took the card {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}{{eventCardInfo}}",
+    "SNATCHED_EVENT_ITEM": "snatched {{amount}} {{eventItem}} from <@{{userId}}>",
+    "GRAB_EVENT_ITEM": "{{amount}} {{eventItem}} are in your bento box now. Other {{users}} will keep on searching",
+    "GRAB_CARD": "battled {{user}} & won {{character}} | `{{code}}` | {{elementEmoji}} {{elementName}}{{eventCardInfo}}",
+    "CANNOT_BE_GRABBED": "Cards can no longer be grabbed.",
+    "CARDS_DROPPED_BY": "<@{{userId}}> dropped the cards.\n"
 }

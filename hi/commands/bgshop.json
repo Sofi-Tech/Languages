@@ -1,10 +1,10 @@
 {
-  "BGS_DESCRIPTION": "3 डी के लिए बैकग्राउंड देखें",
-  "BGS_CATEGORY": "कॉस्मेटिक्स",
-  "BGS_SLASH_DESC": "एंटर करें कोड ऑफ़ \"बैकग्राउंड\" जिसे आप ढूंढ रहे हैं",
-  "EMBED_TITLE": "SOFI 3D बैकग्राउंड:",
-  "APPLY_BG": "`Background` लागू करने के लिए कमांड `sbg <code> <bgID>` का उपयोग करें",
-  "VIEW_BACKGROUNDS": "`Background` देखने के लिए यहाँ क्लिक करें",
-  "SHOWING_PAGE": "पृष्ठ दिखाना: {{page}}/{{pages}}",
-  "NO_BG_FOUND": "यह एक वैध `Background` ID नहीं है"
+    "BGS_DESCRIPTION": "Background shop दर्शाता है",
+    "BGS_CATEGORY": "COSMETICS",
+    "BGS_SLASH_DESC": "जिस background की आप खोज कर रहे है उसका कॉड डाले",
+    "EMBED_TITLE": "SOFI 3D BACKGROUNDS:",
+    "APPLY_BG": "Background लागू करने के लिए `sbg <code> <bgID>` उपयोग करें",
+    "VIEW_BACKGROUNDS": "Background देखने के लिए यहाँ क्लिक करें",
+    "SHOWING_PAGE": "पृष्ठ दिखाया जारा है: {{page}}/{{pages}}",
+    "NO_BG_FOUND": "यह एक वैध Background ID नहीं है कृपया जांचे"
 }
