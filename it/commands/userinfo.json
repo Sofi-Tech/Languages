@@ -6,5 +6,9 @@
     "UI_GIVEN": "Dato",
     "CANNOT_FIND_USER": "> {{author}} | Impossibile trovare nessun utente con quell'ID",
     "USER_IS_BOT": "> {{author}} | Quell'utente è un bot{{username}}",
-    "USER_NOT_REGISTERED": "{{author}} | L'utente con quell'ID non si è ancora registrato su Sofi."
+    "USER_NOT_REGISTERED": "{{author}} | L'utente con quell'ID non si è ancora registrato su Sofi.",
+    "UI_DESCRIPTION": "Visualizza le statistiche di un utente",
+    "UI_SLASH_DESC": "Scegli un utente che desideri ispezionare",
+    "UI_3D": "3D",
+    "PROFILE_BUTTON_LABEL": "Profilo web"
 }

@@ -1,10 +1,10 @@
 {
     "ALBUM_DESCRIPTION": "Visualizza i tuoi Sofi albums",
     "ALBUM_CATEGORY": "Album",
-    "ALBUM_SLASH_DESC": "Inserisci l'utente di cui vuoi vedere gli album.",
+    "ALBUM_SLASH_DESC": "Scegli un utente di cui vuoi vedere gli album",
     "ALBUM_SLASH_DESC2": "Inserisci il nome dell'album che stai cercando.",
     "USER_NOT_FOUND": "{{author}} Utente non trovato!",
-    "PLAYER_NOT_EXIST": "{{author}} Quel giocatore non esiste.",
+    "PLAYER_NOT_EXIST": "{{author}} Quel giocatore non esiste",
     "ALBUM_NOT_FOUND": "Nessun album trovato per {{username}}",
     "ALBUM_NAME_NOT_FOUND": "{{author}} Impossibile trovare l'album con il nome `{{albumName}}`",
     "PROCESSING": "in lavorazione <a:_:876610443148406794>",

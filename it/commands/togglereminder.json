@@ -1,4 +1,6 @@
 {
     "RM_CATEGORY": "Impostazioni",
-    "PROVIDE_REMINDER_NAME": "Fornisci il nome del promemoria: {{availableReminders}}"
+    "PROVIDE_REMINDER_NAME": "{{author}} Uso corretto: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_ENABLED": "{{author}} Ora riceverai una notifica quando il tuo **`{{reminder}}`** sarà pronto",
+    "REMINDER_DISABLED": "{{author}} Non sarai più avvisato quando il tuo **`{{reminder}}`** sarà pronto"
 }

@@ -1,7 +1,11 @@
 {
     "CARD_DIMENSION": "<:_:979009081325019156> Ang sukat ng larawan ay dapat na **297** x **465** (Width x Height)",
-    "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> Ang submitted na artwork ay **dapat** opisyal art.",
+    "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> Ang submitted na imahe ay **dapat** opisyal art",
     "USEFUL_LINKS": "🔗 Mga Kapaki-pakinabang na mga Link",
     "CARD_TEMPLATE": "Template para sa card: [I-download ang PSD](https://cdn.discordapp.com/attachments/870354581115256852/996801896616562698/sofi_card.psd)",
-    "NO_PINGING_STAFF": "⚠️ Huwag i-ping ang kahit sinong staff para lamang mapabilis ang rebyu ng iyong submission!"
+    "NO_PINGING_STAFF": "⚠️ Huwag i-ping ang kahit sinong staff para lamang mapabilis ang rebyu ng iyong submission!",
+    "IMAGES_REJECTED": "<:_:979009081325019156> Ang mga artwork na ginagamit para sa `GIF`, `3D` o `Event` cards ay hindi tatanggapin",
+    "NOT_PING_STAFF": "<:_:979009081325019156> Ang imahe ay dapat naka `PNG` o `JPG` na file",
+    "LINK_TO_SOURCE": "<:_:979009081325019156> Ibigay ang link ng pinagkuhaan ng imahe",
+    "SC_CORRECT_USAGE": "<:_:979009081325019156> Tamang pag-gamit: `{{prefix}}sc <IDNgCard><2D><ImageURL><SourceURL>`"
 }

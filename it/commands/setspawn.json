@@ -2,5 +2,7 @@
     "SS_DESCRIPTION": "Setta un canale di spawn nel server",
     "SS_CATEGORY": "Impostazioni",
     "SS_SLASH_DESC": "Seleziona un canale",
-    "SS_ENABLE": "{{author}} Il canale di spawn è stato impostato su {{channel}}"
+    "SS_ENABLE": "{{author}} Il canale di spawn è stato impostato su {{channel}}",
+    "SS_MENTION_CHANNEL": "{{author}} Correct usage:`{{prefix}}ss <#ChannelMention/ChannelID>`",
+    "SS_DISABLE": "{{author}} Le carte non appariranno più su questo server"
 }

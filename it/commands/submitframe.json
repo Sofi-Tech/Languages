@@ -4,5 +4,9 @@
     "SF_EMBED_TITLE": "FRAME: {{name}}",
     "SF_NEED_SILVERS": "⦿ Hai bisogno di 3000 <:silvercoin:915619222229512213> per inviare un frame per l'approvazione",
     "SUBMIT_FRAME_CONFIRMATION": "Vuoi inviare la cornice per 3000 silvers?",
-    "SUBMIT_FRAME_DENY": "Hai bisogno di 3000 silvers per inviare un frame"
+    "SUBMIT_FRAME_DENY": "Hai bisogno di 3000 silvers per inviare un frame",
+    "SF_DESCRIPTION": "Invia un \"Frame\"",
+    "SF_CORRECT_USAGE": "Uso corretto: `{{prefix}}sf <ImageURL> <FrameName>`",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Un nome `Frame` può contenere un massimo di 20 caratteri",
+    "SF_IMAGE_LINK": "<:_:979009081325019156> Le dimensioni della `Frame` inviata devono essere **402** x **603** (larghezza x altezza)"
 }

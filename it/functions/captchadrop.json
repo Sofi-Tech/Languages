@@ -1,1 +1,6 @@
-{}
+{
+    "EXTRA_GRAB": "<@{{userId}}> Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "`Grab`la carta sopra scrivendo il captcha",
+    "WAIT_TO_CLAIM": "<@{{userId}}> Devi attendere {{cooldown}} per `Grab` un'altra carta"
+}

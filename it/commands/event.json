@@ -7,5 +7,9 @@
     "MORPH_TASK": "Morph event carte {{amount}} volte",
     "GLOW_TASK": "Glow qualsiasi {{amount}} carta",
     "GIFT_TASK": "Gift {{amount}} {{item}}",
-    "EVENT_STARTING": "Evento che inizia il giorno {{date}}"
+    "EVENT_STARTING": "Evento che inizia il giorno {{date}}",
+    "EVENT_TASK": "Drop {{amount}} Event Carte",
+    "BURN_TASK": "Bruciare {{amount}} Carte",
+    "LB_BUTTON_LABEL": "Leaderboard",
+    "LOTTERY_BUTTON_LABEL": "Lotteria"
 }

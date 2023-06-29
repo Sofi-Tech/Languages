@@ -6,5 +6,9 @@
     "BLACKLISTING_INFO": "I comandi Blacklisted saranno inutilizzabili nel canale",
     "EMBED_FOOTER": "Per utilizzare questo comando sono necessarie le autorizzazioni \"Manage Server\"",
     "WHILISTED_NOTE": "**Note:** per inserire un comando nella blacklist, devi prima cancellare la whitelist utilizzando il comando `{{customPrefix}}permission whitelist none`",
-    "MENTION_COMMANDS_BLACKLIST": "> Si prega di menzionare alcuni comandi da inserire nella blacklist."
+    "MENTION_COMMANDS_BLACKLIST": "> Si prega di menzionare alcuni comandi da inserire nella blacklist.",
+    "WHITELISTING_INFO": "I comandi inseriti nella whitelist saranno utilizzabili nel canale",
+    "WHITELISTING_USAGE": "Utilizzo: `{{customPrefix}}permission whitelist <Commands>`",
+    "CHANNEL_FOOTER": "nel #{{channel}}",
+    "MENTION_COMMANDS_WHITELIST": "Si prega di menzionare alcuni comandi da inserire nella whitelist."
 }

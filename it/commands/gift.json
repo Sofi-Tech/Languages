@@ -1,10 +1,12 @@
 {
-    "GIFT_DESCRIPTION": "\"Gifts\" i tuoi \"Event Items\" a un altro utente",
+    "GIFT_DESCRIPTION": "Gift \"Event Items\" a un altro utente",
     "GIFT_CATEGORY": "Carte",
-    "GIFT_SLASH_DESC": "Inserisci l'utente a cui vuoi regalare {{eventItem}}.",
+    "GIFT_SLASH_DESC": "Scegli un utente a cui vuoi regalare {{eventItem}}",
     "NO_USER": "{{author}} Nessun utente fornito",
     "INVALID_USER": "Utente non valido fornito",
     "INVALID_AMOUNT": "Importo fornito non valido",
     "NOT_ENOUGH_ITEM": "Non hai {{amount}} {{eventItem}} | Raccogline un po' dalle gocce",
-    "PLAYER_NOT_EXISTS": "{{autore}} | Quel giocatore non esiste"
+    "PLAYER_NOT_EXISTS": "{{autore}} | Quel giocatore non esiste",
+    "GIFT_SLASH_DESC2": "Inserisci la quantità di {{eventItem}} che vuoi regalare loro",
+    "GIFT_WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}gift <User> <Amount>`"
 }
