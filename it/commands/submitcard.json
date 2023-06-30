@@ -1,11 +1,12 @@
 {
     "SC_CATEGORY": "Impostazioni",
-    "NOT_PING_STAFF": "<:_:979009081325019156> Non fare ping allo staff in merito all'invio dell'immagine e attendi pazientemente",
-    "LINK_TO_SOURCE": "<:_:979009081325019156> Fornisci il link alla fonte dell'immagine affinché possiamo controllare",
+    "NOT_PING_STAFF": "<:_:979009081325019156> L'immagine deve essere un file `PNG` o `JPG`",
+    "LINK_TO_SOURCE": "<:_:979009081325019156> Fornisci il link alla fonte dell'immagine",
     "IMAGES_REJECTED": "<:_:979009081325019156> La grafica utilizzata per le carte `GIF`, `3D` o `Event` verrà rifiutata",
     "SC_CORRECT_USAGE": "<:_:979009081325019156> Utilizzo corretto: `{{prefix}}sc <CardID> <2D/EventCode> <ImageURL> <SourceURL>`",
     "NO_PINGING_STAFF": "⚠️ Non inviare messaggi allo staff nel tentativo di velocizzare la revisione della tua richiesta!",
     "SC_DESCRIPTION": "Invia un'immagine per una variante \"Version\" del carattere",
     "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> L'immagine inviata **must** essere un artwork ufficiale",
-    "CARD_DIMENSION": "<:_:979009081325019156> Le dimensioni dell'immagine inviata devono essere **297** x **465** (larghezza x altezza)"
+    "CARD_DIMENSION": "<:_:979009081325019156> Le dimensioni dell'immagine inviata devono essere **297** x **465** (larghezza x altezza)",
+    "USE_DISCORD_LINK": "<:_:979009081325019156> Assicurati che l'immagine inviata sia ospitata su un server discord `cdn.discordapp.com` o `media.discordapp.net`"
 }

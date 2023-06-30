@@ -1,3 +1,4 @@
 {
-    "EXTRA_GRAB": "<@{{userId}}> Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti"
+    "EXTRA_GRAB": "{{userId}} Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti",
+    "GRAB_COOLDOWN": "{{user}} Devi attendere {{cooldown}} per reclamo un'altra carta"
 }

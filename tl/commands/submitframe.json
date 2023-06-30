@@ -1,8 +1,9 @@
 {
     "SF_CORRECT_USAGE": "> {{author}} tamang paggamit: ssf <url> <name>",
     "MAXIMUM_NAME_LENGTH": "> Ang pangalan ng frame na {{author}} ay hindi maaaring maglaman ng higit sa 15 letra",
-    "SUBMIT_FRAME_SUCCESSFULL": "Ang pagpapasa ay matagumpay na naisagawa",
-    "SF_NEED_SILVERS": "⦿ Kailangan mo ng 3000 <:silvercoin:915619222229512213> upang magsumite ng isang frame para sa pag-apruba",
-    "SUBMIT_FRAME_DENY": "Kailangan mo ng 3000 na silvers upang magsumite ng frame",
-    "SF_VIOLATING_MATERIAL": "⦿ Ang pag-upload ng anumang labag na materyal maliban sa mga frame ay maaaring maging sanhi ng pagkakabawal"
+    "SUBMIT_FRAME_SUCCESSFULL": "Matagumpay na isinumite mo ang `Frame`",
+    "SF_NEED_SILVERS": "<:_:979009081325019156> Ang pagpapasa ng `Frame` ay magkakahalaga ng **3000** `Silver`",
+    "SUBMIT_FRAME_DENY": "Hindi sapat ang iyong `Silver` para sa prosesong ito",
+    "SF_VIOLATING_MATERIAL": "<:_:979009081325019156> Panatilihin ang tema ng iyong `Frame` na angkop para sa lahat ng edad",
+    "SF_FIT_CARD": "<:_:979009081325019156> Siguraduhing ang isinumiteng `Frame` ay kasya sa border ng kard at may tamang espasyo at kahulugan para sa nakadisplay na teksto"
 }

@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "यह विभिन्न आइटम्स जैसे स्वैप, चार्म्स और एनिमेटेड कार्ड के टुकड़े लेता है",
-    "PULL_AMT": "{{author}} 1 से लेकर 10 तक कोई भी राशि डाले",
-    "INFO_1": "टुकड़े पाने का मौका 12% है",
-    "INFO_2": "चार्म और स्वैप पाने के चांस निम्न हैं",
-    "INFO_3": "प्रत्येक एनिमेटेड चरित्र को 8 टुकड़ों की आवश्यकता है",
-    "PULLS": "SOFI: पुल",
-    "PULL_COUNT": "पुल संख्या: {{count}}",
-    "MISSING_CURR": "{{user}} के पास {{amount}} {{currName}} नहीं हैं",
+    "DESCRIPTION": "यह विभिन्न Items जैसे Swap, Charms और Fragments को Pull करता है",
+    "PULL_AMT": "{{author}} Pulls की संख्या डाले , यह **1 या 10** खुद भी हो सकती है",
+    "INFO_1": "एक पात्र का GIF प्रकार में बदलने के लिए आपको 8 Fragments की आवश्यकता है",
+    "INFO_2": "एक GIF प्रकार के 100 अलग-अलग Gens होते है",
+    "INFO_3": "Fragments को जलाके आप Charms प्राप्त कर सकते है",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Pull संख्या: {{count}}",
+    "MISSING_CURR": "{{user}} के पास **{{amount}}** `{{currName}}` नहीं हैं",
     "AMOUNT": "राशि: {{amount}}",
-    "PULL_COUNT_WIST": "पुल संख्या: {{pullcount}} | आप smarket से विस्त खरीद सकते हैं",
+    "PULL_COUNT_WIST": "Pull संख्या: {{pullcount}}",
     "PULL_CHANCES": "संभावनाएं",
     "RATES": "दाम"
 }

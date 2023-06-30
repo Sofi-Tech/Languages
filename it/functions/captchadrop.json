@@ -1,6 +1,8 @@
 {
-    "EXTRA_GRAB": "<@{{userId}}> Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti",
+    "EXTRA_GRAB": "{{userId}} Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti",
     "EMBED_TITLE": "Captcha Card",
-    "EMBED_FOOTER": "`Grab`la carta sopra scrivendo il captcha",
-    "WAIT_TO_CLAIM": "<@{{userId}}> Devi attendere {{cooldown}} per `Grab` un'altra carta"
+    "EMBED_FOOTER": "Reclamo la carta sopra scrivendo il captcha",
+    "WAIT_TO_CLAIM": "{{user}} Devi attendere {{cooldown}} per reclamo un'altra carta",
+    "TOOK_THE_CARD": "{{user}} ha preso la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "Questa carta non può più essere ottenuta"
 }

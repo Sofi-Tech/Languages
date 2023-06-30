@@ -1,1 +1,5 @@
-{}
+{
+    "GRAB_CARD_PLURAL": "{{winner}} ay naglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa pagkuha ng **{{character}}** na kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
+    "EXTRA_GRAB": "{{user}} Ginamit na ang iyong **Extra Grab**. May natitirang **{{remaining}}**",
+    "CARDS_DROPPED_BY": "{{user}} may mga `Dropped` na mga card\n"
+}

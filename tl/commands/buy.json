@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Huwag mag lagay ng negatibong halaga",
     "INVALID_BG_ID": "Magbigay ng wastong `Background` -ID",
     "NO_ITEM_PROVIDED": "Walang `Item` na ibinigay",
-    "INVALID_AMOUNT": "Hindi valid ang halaga na ibinigay",
+    "INVALID_AMOUNT": "{{author}} Hindi ka puwedeng magregalo ng negatibong halaga ng {{eventItem}}",
     "INVALID_ITEM_PROVIDED": "{{USER}} Hindi wastong `Item` ang ibinigay"
 }

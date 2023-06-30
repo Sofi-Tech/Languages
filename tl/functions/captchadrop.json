@@ -1,1 +1,4 @@
-{}
+{
+    "EXTRA_GRAB": "{{user}} Ginamit na ang iyong **Extra Grab**. May natitirang **{{remaining}}**",
+    "BATTLED_WON_PLURAL": "Lumaban si {{winner}} laban sa **{{userCount}}** iba pang mga manlalaro at nag-angkin ng **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
+}

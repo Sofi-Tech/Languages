@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Negatif miktar girmeyiniz",
     "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirtin",
     "NO_ITEM_PROVIDED": "Herhangi bir `Item` sağlanmadı",
-    "INVALID_AMOUNT": "Geçersiz miktar sağlandı",
+    "INVALID_AMOUNT": "{{author}} Negatif bir değerde {{eventItem}}` hediye edemezsiniz",
     "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz `Item` belirtildi"
 }

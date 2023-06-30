@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "विशिष्ट श्रृंखला के लिए खोजें",
-    "NO__LAST_CHAR_FOUND": "अंतिम वर्ण नहीं मिल सका। कृपया श्रृंखला नाम प्रदान करें",
-    "NO_CHAR_FOUND": "कोई वर्ण नहीं मिला",
-    "NO_SERIES_FOUND": "{{name}} के लिए कोई परिणाम नहीं मिले",
-    "SERIES": "श्रृंखला",
-    "ERROR": "एक त्रुटि हुई है। कृपया पुनः प्रयास करें",
-    "CARD_COLLECTED": "कार्ड एकत्र किए गए: {{collected}}/{{totalCards}}",
-    "TOTAL_WL": "कुल इच्छा-सूची: {{wlCount}}",
-    "CHARACTERS": "चरित्र"
+    "NO__LAST_CHAR_FOUND": "{{author}} आपके संग्रह के कोई पत्ता नहीं है अभी तक",
+    "NO_CHAR_FOUND": "{{author}} इस श्रंखला में कोई पात्र नहीं है",
+    "NO_SERIES_FOUND": "{{author}} । `{{name}}` के लिए कोई परिणाम नहीं मिले",
+    "SERIES": "__श्रृंखला__",
+    "ERROR": "{{author}} एक त्रुटि हुई है। कृपया पुनः प्रयास करें",
+    "CARD_COLLECTED": "पत्ते एकत्र किए गए: **{{collected}}/{{totalCards}}**",
+    "TOTAL_WL": "कुल पसंदीदा-सूची: **__{{wlCount}}__**",
+    "CHARACTERS": "पात्र"
 }

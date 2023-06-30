@@ -3,8 +3,10 @@
     "UI_SLASH_DESC": "Ipasok ang pangalan ng user na hinahanap mo.",
     "UI_STARS": "Mga Tala",
     "UI_ATTACKS": "Mga Atake",
-    "USER_NOT_REGISTERED": "{{author}} | Ang user na mayroong ganyang Id ay hindi pa rehistrado sa Sofi.",
-    "USER_BLACKLISTED": "<:banhammer:1109864225259671614> {{author}} | Ang user ay nasa blacklist",
-    "CANNOT_FIND_USER": "> {{author}} | Hindi mahanap ang anumang user na may ganoong Id",
-    "USER_IS_BOT": "> {{author}} | Ang user na iyon ay isang bot: {{username}}"
+    "USER_NOT_REGISTERED": "{{author}} Ang user na iyon ay hindi rehistrado!",
+    "USER_BLACKLISTED": "{{author}} <:banhammer:1109864225259671614> Ang user na iyon ay nasa blacklist",
+    "CANNOT_FIND_USER": "{{author}} Hindi mahanap ang anumang user na mayroong ganoong ID",
+    "USER_IS_BOT": "{{author}} Ang user na iyon ay isang Discord BOT",
+    "UI_TRADE_PASS": "<:_:979009081325019156> Trade Pass:   `{{date}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Bilang ng mga Kard: `{{cardCount}}`"
 }

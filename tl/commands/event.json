@@ -8,5 +8,10 @@
     "GLOW_TASK": "Maglagay ng glow sa anumang {{amount}} na card",
     "GIFT_TASK": "Regalo {{amount}}  {{item}}",
     "EVENT_STARTING": "Ang Event ay magsisimula ng {{date}}",
-    "HOME_BUTTON_LABEL": "Bahay"
+    "HOME_BUTTON_LABEL": "Bahay",
+    "DROP_BUTTON_LABEL": "Drop",
+    "GIFT_BUTTON_LABEL": "Regalo",
+    "RECIEVE_BUTTON_LABEL": "Natanggap",
+    "EV_DESCRIPTION": "Ang command na \"event\" ay nagpapakita ng lahat ng impormasyon tungkol sa kaganapan",
+    "LOTTERY_BUTTON_LABEL": "Loto"
 }
