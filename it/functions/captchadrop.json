@@ -4,5 +4,6 @@
     "EMBED_FOOTER": "Reclamo la carta sopra scrivendo il captcha",
     "WAIT_TO_CLAIM": "{{user}} Devi attendere {{cooldown}} per reclamo un'altra carta",
     "TOOK_THE_CARD": "{{user}} ha preso la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "CANNOT_BE_GRABBED": "Questa carta non può più essere ottenuta"
+    "CANNOT_BE_GRABBED": "Questa carta non può più essere ottenuta",
+    "BATTLED_WON_PLURAL": "{{winner}} ha combattuto contro **{{userCount}}** altri giocatori e ha rivendicato la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

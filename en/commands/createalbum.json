@@ -6,7 +6,7 @@
     "ALBUM_NAME_ERROR": "Your `Album` name must be alphanumeric and cannot contain the following:\n- Special Characters\n- Spaces\n- Uppercase letters",
     "ALBUM_NAME_LONG": "{{author}} An `Album` name can contain a maximum of 20 characters",
     "MAX_ALBUMS": "{{author}} You can only have a maximum of 10 `Albums`",
-    "ALBUM_NAME_EXISTS": "{{author}} An `Album` with the name `{{name}}` already exists",
+    "ALBUM_NAME_EXISTS": "{{author}} An `Album` with the name **{{name}}** already exists",
     "ALBUM_CREATE_CONFIRMATION": "You are about to create an `Album` with the name `{{albumName}}`\nCreating `Albums` is free, but you have to purchase pages with `Silver`\nUse `salbumconfig` or `sacf` to configure albums",
     "BUTTON_ACCEPT": "Confirm",
     "BUTTON_DENY": "Deny",

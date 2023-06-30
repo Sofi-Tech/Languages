@@ -13,5 +13,9 @@
     "REROLL_MENU_LABEL": "Magreroll ng Potency",
     "SELECT_MOVES_MENU_LABEL": "Piliin ang mga Kakayahan",
     "RESET_MENU_LABEL": "I-reset ang mga stats",
-    "REROLL_MENU_PLACEHOLDER": "Pumili ng Abilidad"
+    "REROLL_MENU_PLACEHOLDER": "Pumili ng Abilidad",
+    "STATS_HEALTH": "Kalusugan",
+    "DUPLICATE_MODAL_PLACEHOLDER": "Mangyaring ipasok ang isa o higit pang mga code ng card",
+    "BASECODE_ERROR": "{{author}} Hindi mo maaring i-fuse ang card sa kanyang sarili",
+    "DUPLICATE_MODAL_LABEL": "Pakiusap ipasok ang mga code ng duplicate card (Magkakahalagang 100 Elixir bawat isa ang gastos ng pagfu-fuse)"
 }

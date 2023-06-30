@@ -8,5 +8,7 @@
     "CANNOT_FIND_USER": "{{author}} Hindi mahanap ang anumang user na mayroong ganoong ID",
     "USER_IS_BOT": "{{author}} Ang user na iyon ay isang Discord BOT",
     "UI_TRADE_PASS": "<:_:979009081325019156> Trade Pass:   `{{date}}`",
-    "UI_CARDS_COUNT": "<:_:979009081325019156> Bilang ng mga Kard: `{{cardCount}}`"
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Bilang ng mga Kard: `{{cardCount}}`",
+    "UI_GUILD_JOINED": "Sumali sa Guild: `{{guild}}`",
+    "EMBED_AUTHOR": "{{username}} [{{status}}]"
 }

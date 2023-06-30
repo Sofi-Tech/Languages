@@ -1,15 +1,15 @@
 {
-    "BF_DESCRIPTION": "दुकान से फ्रेम खरीदें",
-    "BF_CATEGORY": "कॉस्मेटिक्स",
-    "NO_FRAME_NAME": "आपने फ्रेम का नाम नहीं दिया है",
-    "NO_FRAMECODE_FOUND": "{{author}} कोड `{{name}}` के साथ कोई फ्रेम नहीं मिला",
-    "FRAME_UNAVAILABLE": "वह फ्रेम अनुपलब्ध है। कृपया उपलब्ध फ्रेम देखने के लिए `sfs` का उपयोग करें",
-    "NO_FRAME_FOUND": "{{author}} | कोई फ्रेम नहीं मिला",
-    "FRAME_NOT_PURCHASABLE": "{{author}} उस फ्रेम को खरीद नहीं सकते",
-    "EMBED_TITLE": "लेन-देन:",
-    "YOU_GET": "आपको मिलता है:",
+    "BF_DESCRIPTION": "Frame Shop से Frame खरीदें",
+    "BF_CATEGORY": "COSMETICS",
+    "NO_FRAME_NAME": "{{author}} Frame का नाम दर्ज करे",
+    "NO_FRAMECODE_FOUND": "{{author}} Code `{{name}}` के साथ कोई Frame नहीं मिला",
+    "FRAME_UNAVAILABLE": "{{author}} वह Frame अनुपलब्ध है। कृपया उपलब्ध Frames देखने के लिए `sfs` का उपयोग करें",
+    "NO_FRAME_FOUND": "{{author}} | कोई Frame नहीं मिली",
+    "FRAME_NOT_PURCHASABLE": "{{author}} आप उस Frame को खरीद नहीं सकते",
+    "EMBED_TITLE": "लेन-देन",
+    "YOU_GET": "आपको मिलती है:",
     "YOU_PAY": "आपको भुगतान करना होगा:",
     "TRANSACTION": "लेनदेन",
-    "NO_ENOUGH_AMOUNT": "फ्रेम खरीदने के लिए आपके पास पर्याप्त राशि नहीं है",
-    "FRAME_PURCHASED_BY": "आपका फ्रेम `{{frame}}` `{{userId}}` {{buyCount}} द्वारा खरीदा गया है"
+    "NO_ENOUGH_AMOUNT": "Frame खरीदने के लिए आपके पास पर्याप्त राशि नहीं है",
+    "FRAME_PURCHASED_BY": "आपकी Frame `{{frame}}` `{{userId}}` द्वारा खरीदा गया है। {{buyCount}}"
 }

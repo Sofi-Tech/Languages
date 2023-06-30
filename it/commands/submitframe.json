@@ -4,10 +4,11 @@
     "SF_EMBED_TITLE": "FRAME: **{{name}}**",
     "SF_NEED_SILVERS": "⦿ Hai bisogno di 3000 <:silvercoin:915619222229512213> per inviare un frame per l'approvazione",
     "SUBMIT_FRAME_CONFIRMATION": "Vuoi inviare questo `Frame` per **3000** `Silver`?",
-    "SUBMIT_FRAME_DENY": "Hai bisogno di 3000 silvers per inviare un frame",
+    "SUBMIT_FRAME_DENY": "Non hai abbastanza `Silver` per questo processo",
     "SF_DESCRIPTION": "Invia un \"Frame\"",
     "SF_CORRECT_USAGE": "Uso corretto: `{{prefix}}sf <ImageURL> <FrameName>`",
     "MAXIMUM_NAME_LENGTH": "{{author}} Un nome `Frame` può contenere un massimo di 20 caratteri",
     "SF_IMAGE_LINK": "<:_:979009081325019156> Le dimensioni della `Frame` inviata devono essere **402** x **603** (larghezza x altezza)",
-    "SF_DISCORD_LINK": "{{author}} Assicurati che l'immagine inviata sia ospitata su un server discord `cdn.discordapp.com` o `media.discordapp.net`"
+    "SF_DISCORD_LINK": "{{author}} Assicurati che l'immagine inviata sia ospitata su un server discord `cdn.discordapp.com` o `media.discordapp.net`",
+    "SUBMIT_FRAME_SUCCESSFULL": "Hai inviato correttamente il `Frame`"
 }

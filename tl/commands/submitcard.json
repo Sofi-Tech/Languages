@@ -10,5 +10,8 @@
     "SC_CORRECT_USAGE": "<:_:979009081325019156> Tamang pag-gamit: `{{prefix}}sc <IDNgCard><2D><ImageURL><SourceURL>`",
     "SC_DESCRIPTION": "Nagsusumite ng isang larawan para sa isang bersyon ng karakter na \"Variant\"",
     "CARD_INFO_CHANNEL": "Gabay sa Pagsusumite ng Card: [Bisitahin Dito](https://discord.gg/EUp7rNVC4U)",
-    "EDIT_IMAGE_SITE": "I-crop ang mga larawan: [Photopea](https://www.photopea.com/)"
+    "EDIT_IMAGE_SITE": "I-crop ang mga larawan: [Photopea](https://www.photopea.com/)",
+    "EMBED_TITLE": "PAGPAPASA: **{{character}}**",
+    "SUBMIT_CONFIRMATION": "Ikaw ay malapit nang magsumite ng {{isEventSubmission}}",
+    "EVENT_CARD_CONFIRMATION": "{{type}} na `Event` card\n"
 }
