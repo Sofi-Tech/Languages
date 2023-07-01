@@ -1,13 +1,13 @@
 {
-    "GIFT_DESCRIPTION": "Iregalo ang mga \"Event Items\" sa ibang user",
-    "GIFT_SLASH_DESC2": "Ilagay ang halaga ng mga {{eventItem}} na nais mong ibigay",
-    "GIFT_SLASH_DESC": "Pumili ng user na nais mong regaluhan ng mga {{eventItem}}",
-    "GIFT_CATEGORY": "Baraha",
-    "GIFT_WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}gift <User> <Amount>`",
-    "NO_USER": "{{author}} Walang user na ibinigay",
-    "INVALID_USER": "{{author}} Hindi ka maaring mag regalo ng `{{eventItem}}` sa iyong sarili",
-    "INVALID_AMOUNT": "{{author}} Hindi ka puwedeng magregalo ng negatibong halaga ng {{eventItem}}",
-    "NOT_ENOUGH_ITEM": "Wala kang **{{amount}}** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} Ang player na 'yan ay hindi nakarehistro",
-    "GIFT_SUCCESSFULL": "{{author}} ay nagregalo ng **{{amount}}** `{{eventItem}}` kay {{user}}\n{{user}} ay nakatanggap ng kabuuang **{{recieveCount}}** `{{eventItem}}`"
+  "GIFT_DESCRIPTION": "Iregalo ang mga \"Event Items\" sa ibang user",
+  "GIFT_SLASH_DESC2": "Ilagay ang halaga ng mga {{eventItem}} na nais mong ibigay",
+  "GIFT_SLASH_DESC": "Pumili ng user na nais mong regaluhan ng mga {{eventItem}}",
+  "GIFT_CATEGORY": "Baraha",
+  "GIFT_WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}gift <User> <Amount>`",
+
+  "INVALID_USER": "{{author}} Hindi ka maaring mag regalo ng `{{eventItem}}` sa iyong sarili",
+  "INVALID_AMOUNT": "{{author}} Hindi ka puwedeng magregalo ng negatibong halaga ng {{eventItem}}",
+  "NOT_ENOUGH_ITEM": "Wala kang **{{amount}}** `{{eventItem}}`",
+  "PLAYER_NOT_EXISTS": "{{author}} Ang player na 'yan ay hindi nakarehistro",
+  "GIFT_SUCCESSFULL": "{{author}} ay nagregalo ng **{{amount}}** `{{eventItem}}` kay {{user}}\n{{user}} ay nakatanggap ng kabuuang **{{recieveCount}}** `{{eventItem}}`"
 }

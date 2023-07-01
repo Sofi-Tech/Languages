@@ -1,13 +1,13 @@
 {
-    "GIFT_CATEGORY": "Card",
-    "GIFT_SLASH_DESC2": "Masukkan jumlah onigiri yang ingin anda beri.",
-    "GIFT_WRONG_USAGE": "Berikan pengguna dan jumlah",
-    "NO_USER": "{{author}} tidak ada pengguna yang disediakan",
-    "INVALID_AMOUNT": "{{author}} Anda tidak dapat menghadiahkan jumlah negatif {{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} | Pemain tersebut tidak ada",
-    "GIFT_DESCRIPTION": "Beri onigiri selama monochrome 2023",
-    "GIFT_SLASH_DESC": "Masukkan pengguna yang ingin anda beri onigiri.",
-    "INVALID_USER": "Pengguna tidak valid disediakan",
-    "NOT_ENOUGH_ITEM": "Anda tidak memliki {{amount}} onigiri | Kumpulkan beberapa melalui drop",
-    "GIFT_SUCCESSFULL": "{{author}} dengan murah hati memberikan {{amount}} 🍙 kepada {{user}}\n{{user}} telah menerima {{recieveCount}} 🍙 sampai sekarang"
+  "GIFT_CATEGORY": "Card",
+  "GIFT_SLASH_DESC2": "Masukkan jumlah onigiri yang ingin anda beri.",
+  "GIFT_WRONG_USAGE": "Berikan pengguna dan jumlah",
+
+  "INVALID_AMOUNT": "{{author}} Anda tidak dapat menghadiahkan jumlah negatif {{eventItem}}`",
+  "PLAYER_NOT_EXISTS": "{{author}} | Pemain tersebut tidak ada",
+  "GIFT_DESCRIPTION": "Beri onigiri selama monochrome 2023",
+  "GIFT_SLASH_DESC": "Masukkan pengguna yang ingin anda beri onigiri.",
+  "INVALID_USER": "Pengguna tidak valid disediakan",
+  "NOT_ENOUGH_ITEM": "Anda tidak memliki {{amount}} onigiri | Kumpulkan beberapa melalui drop",
+  "GIFT_SUCCESSFULL": "{{author}} dengan murah hati memberikan {{amount}} 🍙 kepada {{user}}\n{{user}} telah menerima {{recieveCount}} 🍙 sampai sekarang"
 }
