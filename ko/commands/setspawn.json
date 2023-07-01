@@ -1,1 +1,8 @@
-{}
+{
+    "SS_MENTION_CHANNEL": "{{author}} 올바른 사용법: `{{prefix}}ss <#채널언급/채널ID>`",
+    "SS_CATEGORY": "설정",
+    "SS_DESCRIPTION": "서버에서 스폰 채널을 설정합니다",
+    "SS_SLASH_DESC": "채널을 선택하세요",
+    "SS_DISABLE": "{{author}}이 서버에서는 더 이상 카드가 스폰되지 않습니다",
+    "SS_ENABLE": "{{author}} 스폰 채널이 {{channel}}으로 설정되었습니다."
+}

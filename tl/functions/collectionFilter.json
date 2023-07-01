@@ -1,3 +1,4 @@
 {
-    "PROVIDE_FILTER": "{{author}} Mangyaring magbigay ng isang filter kasama ang paraan ng pag-uuri"
+    "PROVIDE_FILTER": "{{author}} Mangyaring magbigay ng isang filter kasama ang paraan ng pag-uuri",
+    "PROVIDE_CATEGORY": "{{author}} Mag bigay ng isa sa mga sumusunod na kategorya ```apache\n{{categories}}```"
 }
