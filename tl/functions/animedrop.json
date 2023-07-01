@@ -1,3 +1,6 @@
 {
-    "DROP_CARDS": "Kapag ang oras ay nauubos, magiging **2** random na kard ng pinakamaraming boto sa serye ang gagawin!\n"
+    "DROP_CARDS": "Kapag ang oras ay nauubos, magiging **2** random na kard ng pinakamaraming boto sa serye ang gagawin!\n",
+    "NO_VOTES": "Dahil walang bumoto sa series, ang pagbubuo ng card ay makakansela!",
+    "NOT_ENOUGH_CHARACTERS": "Ang napiling series ay walang sapat na karakters upang makabuo ng cards",
+    "DROP_WILL_HAPPEN": "\nBumubuo ng cards <t:{{timestamp}}:R>"
 }

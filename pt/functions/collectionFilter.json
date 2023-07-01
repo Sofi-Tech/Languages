@@ -1,1 +1,4 @@
-{}
+{
+    "PROVIDE_FILTER": "{{author}} Por favor, forneça um filtro ao lado do método de classificação",
+    "PROVIDE_CATEGORY": "{{author}} Forneça uma das seguintes categorias```apache\n{{categories}}```"
+}

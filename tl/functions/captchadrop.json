@@ -1,4 +1,10 @@
 {
     "EXTRA_GRAB": "{{user}} Ginamit na ang iyong **Extra Grab**. May natitirang **{{remaining}}**",
-    "BATTLED_WON_PLURAL": "Lumaban si {{winner}} laban sa **{{userCount}}** iba pang mga manlalaro at nag-angkin ng **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
+    "BATTLED_WON_PLURAL": "Lumaban si {{winner}} laban sa **{{userCount}}** iba pang mga manlalaro at nag-angkin ng **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "WAIT_TO_CLAIM": "{{user}} Maaring maghintay ng {{cooldown}} upang makakuha ng isa pang card",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "I-claim ang card na nasa itaas sa pamamagitan ng pagsulat ng captcha",
+    "BATTLED_AND_WON": "{{winner}} ay tinalo si {{user}} at nakuha ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}} ay kinuha ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "Ang card na ito ay hindi na maaaring makuha"
 }

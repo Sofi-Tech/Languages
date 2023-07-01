@@ -1,8 +1,9 @@
 {
-    "DESCRIPTION": "-Perintah ini akan drop 3 kartu dan dapat digunakan setiap 8 menit.\n- Gunakan perintah \"sdn\" untuk drop kartu tanpa gambar. Hal ini berguna untuk menghemat data seluler atau menhindari lag.",
+    "DESCRIPTION": "Menghasilkan \"Drop\" kartu\nGunakan perintah \"{{prefix}}dn\" untuk menghasilkan \"Drop\" tanpa gambar",
     "JOIN_SUPPORT_SERVER": "[Bergabung dengan server support untuk bantuan!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} **Drop Tambahan** anda sedang digunakan. Anda memiliki`{{remaining}}` tersisa.",
+    "EXTRA_DROP_ALERT": "{{author}} **Drop Tambahan** anda sedang digunakan. Anda memiliki**{{remaining}}** tersisa",
     "ON_CD": "{{author}}`Drop` anda akan siap dalam {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nAnda juga dapat `Vote` untuk mendapatkan `Wist` dan beli `Drops` dengan itu!\nGunakan perintah `sbuy drop <Jumlah>` untuk melakukannya"
+    "BUY_DROP": "\nAnda juga dapat `Vote` untuk menerima `Wists` dan membeli `Drops` dengan itu!\nGunakan perintah `{{prefix}}buy drop <Jumlah>` untuk membeli `Drops`",
+    "DROPPING_CARD": "{{author}} `Dropping` kartu\n"
 }

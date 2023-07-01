@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Jangan masukkan nilai negatif",
     "INVALID_BG_ID": "Silahkan berikan ID `Background` yang valid",
     "NO_ITEM_PROVIDED": "Tidak ada `item` yang dicantumkan",
-    "INVALID_AMOUNT": "Jumlah yang diberikan tidak valid",
+    "INVALID_AMOUNT": "{{author}} Anda tidak dapat menghadiahkan jumlah negatif {{eventItem}}`",
     "INVALID_ITEM_PROVIDED": "{{USER}} `item` yang diberikan tidak valid"
 }

@@ -6,7 +6,7 @@
     "ALBUM_NAME_ERROR": "Nama `Album` anda harus alfanumerik dan tidak boleh mengandung:\n- Karakter khusus\n- Spasi\n- Huruf besar",
     "ALBUM_NAME_LONG": "{{author}} Nama `Album` dapat berisi maksimal 20 karakter",
     "MAX_ALBUMS": "{{author}} Anda hanya dapat memiliki maksimal 10 `Album`",
-    "ALBUM_NAME_EXISTS": "{{author}} `Album` dengan nama `{{name}}` sudah ada",
+    "ALBUM_NAME_EXISTS": "{{author}} `Album` dengan nama **{{name}}** sudah ada",
     "ALBUM_CREATE_CONFIRMATION": "Anda akan membuat `Album` dengan nama `{{albumName}}`\nMembuat `Album` gratis, tetapi anda harus membeli halaman dengan `Silver`\nGunakan `salbumconfig` atau `sacf` untuk mengonfigurasi album",
     "BUTTON_ACCEPT": "Konfirmasi",
     "BUTTON_DENY": "Tolak",
