@@ -1,8 +1,8 @@
 {
     "SF_CATEGORY": "Impostazioni",
-    "SF_VALID_DIMENSION": "> {{author}} la dimensione del frame deve essere `402x603`",
+    "SF_VALID_DIMENSION": "{{author}} Le dimensioni del `Frame` inviato devono essere **402** x **603** (Larghezza x Altezza)",
     "SF_EMBED_TITLE": "FRAME: **{{name}}**",
-    "SF_NEED_SILVERS": "⦿ Hai bisogno di 3000 <:silvercoin:915619222229512213> per inviare un frame per l'approvazione",
+    "SF_NEED_SILVERS": "<:_:979009081325019156> L'invio di un `Frame` ti costerà **3000** `Silver`",
     "SUBMIT_FRAME_CONFIRMATION": "Vuoi inviare questo `Frame` per **3000** `Silver`?",
     "SUBMIT_FRAME_DENY": "Non hai abbastanza `Silver` per questo processo",
     "SF_DESCRIPTION": "Invia un \"Frame\"",
@@ -10,5 +10,11 @@
     "MAXIMUM_NAME_LENGTH": "{{author}} Un nome `Frame` può contenere un massimo di 20 caratteri",
     "SF_IMAGE_LINK": "<:_:979009081325019156> Le dimensioni della `Frame` inviata devono essere **402** x **603** (larghezza x altezza)",
     "SF_DISCORD_LINK": "{{author}} Assicurati che l'immagine inviata sia ospitata su un server discord `cdn.discordapp.com` o `media.discordapp.net`",
-    "SUBMIT_FRAME_SUCCESSFULL": "Hai inviato correttamente il `Frame`"
+    "SUBMIT_FRAME_SUCCESSFULL": "Hai inviato correttamente il `Frame`",
+    "SF_FIT_CARD": "<:_:979009081325019156> Assicurati che il `Frame` inviato si adatti al bordo della carta e abbia spazio e visibilità adeguati per il testo visualizzato",
+    "SF_VIOLATING_MATERIAL": "<:_:979009081325019156> Mantieni il tema del tuo `Frame` adatto a tutte le età",
+    "SF_APPROVAL": "<:_:979009081325019156> Se tutto è conforme ai nostri standard, il tuo `Frame` sarà approvato e disponibile nella rotazione `Frame Shop`",
+    "SF_DOWNLOAD_TEMPLATE": "<:_:979009081325019156> Puoi scaricare un [Frame]\n(https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) e un'[Immagine](https://cdn.discordapp.com/attachments /870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) per avere un'idea migliore del processo",
+    "SF_MAXIMUM_FRAMES": "<:_:979009081325019156> Tutti i `Frames` approvati hanno uno stock massimo di **100**!",
+    "EMBED_TITLE": "SOFI: Linee Guida per l'invio di Frame"
 }

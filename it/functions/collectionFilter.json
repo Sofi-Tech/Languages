@@ -1,3 +1,4 @@
 {
-    "PROVIDE_FILTER": "{{author}} Fornisci un filtro insieme al metodo di ordinamento"
+    "PROVIDE_FILTER": "{{author}} Fornisci un filtro insieme al metodo di ordinamento",
+    "PROVIDE_CATEGORY": "{{author}} Fornisci una delle seguenti categorie```apache\n{{categories}}```"
 }

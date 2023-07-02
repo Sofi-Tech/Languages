@@ -1,4 +1,5 @@
 {
     "GIFT_DESCRIPTION": "Verschenke \"Event-Items\" an einen anderen Benutzer",
-    "GIFT_SLASH_DESC": "Wähle einen Benutzer aus, dem du {{eventItem}} schenken möchtest"
+    "GIFT_SLASH_DESC": "Wähle einen Benutzer aus, dem du {{eventItem}} schenken möchtest",
+    "INVALID_AMOUNT": "{{author}} Du kannst keine negative Menge an {{eventItem}}`verschenken"
 }

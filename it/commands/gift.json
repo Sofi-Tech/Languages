@@ -1,12 +1,12 @@
 {
-  "GIFT_DESCRIPTION": "Gift \"Event Items\" a un altro utente",
-  "GIFT_CATEGORY": "Carte",
-  "GIFT_SLASH_DESC": "Scegli un utente a cui vuoi regalare {{eventItem}}",
-
-  "INVALID_USER": "{{author}} Non puoi regalare `{{eventItem}}` a te stesso",
-  "INVALID_AMOUNT": "{{author}} non puoi regalare un importo megativo di {{eventItem}}`",
-  "NOT_ENOUGH_ITEM": "Non hai **{{amount}}** `{{eventItem}}`",
-  "PLAYER_NOT_EXISTS": "{{author}} Quel giocatore non esiste",
-  "GIFT_SLASH_DESC2": "Inserisci la quantità di {{eventItem}} che vuoi regalare loro",
-  "GIFT_WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}gift <User> <Amount>`"
+    "GIFT_DESCRIPTION": "Gift \"Event Items\" a un altro utente",
+    "GIFT_CATEGORY": "Carte",
+    "GIFT_SLASH_DESC": "Scegli un utente a cui vuoi regalare {{eventItem}}",
+    "INVALID_USER": "{{author}} Non puoi regalare `{{eventItem}}` a te stesso",
+    "INVALID_AMOUNT": "{{author}} non puoi regalare un importo megativo di {{eventItem}}`",
+    "NOT_ENOUGH_ITEM": "Non hai **{{amount}}** `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}} Quel giocatore non esiste",
+    "GIFT_SLASH_DESC2": "Inserisci la quantità di {{eventItem}} che vuoi regalare loro",
+    "GIFT_WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}gift <User> <Amount>`",
+    "GIFT_SUCCESSFULL": "{{author}} ha regalato **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} ha ricevuto un totale di **{{recieveCount}}** `{{eventItem}}`"
 }

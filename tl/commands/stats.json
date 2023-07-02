@@ -3,7 +3,7 @@
     "STATS_DESCRIPTION": "Ipakita ang mga stats ng card",
     "BACK_MENU_LABEL": "Bumalik",
     "NO_CARDS": "{{author}} Wala ka pa mga cards sa iyong collection",
-    "STATS_CATEGORY": "Baraha",
+    "STATS_CATEGORY": "Mga Baraha",
     "STATS_MODAL_TITLE": "Upgrade Points: {{type}}",
     "STATS_MODAL_PLACEHOLDER": "Mamili ng numero sa pagitan ng 1 & 150",
     "STATS_MENU_PLACEHOLDER": "Pumili ng isang opsyon",
@@ -17,5 +17,7 @@
     "STATS_HEALTH": "Kalusugan",
     "DUPLICATE_MODAL_PLACEHOLDER": "Mangyaring ipasok ang isa o higit pang mga code ng card",
     "BASECODE_ERROR": "{{author}} Hindi mo maaring i-fuse ang card sa kanyang sarili",
-    "DUPLICATE_MODAL_LABEL": "Pakiusap ipasok ang mga code ng duplicate card (Magkakahalagang 100 Elixir bawat isa ang gastos ng pagfu-fuse)"
+    "DUPLICATE_MODAL_LABEL": "Pakiusap ipasok ang mga code ng duplicate card (Magkakahalagang 100 Elixir bawat isa ang gastos ng pagfu-fuse)",
+    "INVALID_CODE": "{{author}} Ang card code ay hindi wasto o hindi sa iyong koleksyon",
+    "STATS_SPECIAL": "Espesyal"
 }

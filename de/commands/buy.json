@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Gib keine negativen Mengen an!",
     "INVALID_BG_ID": "Bitte gib eine gültige `Background`-ID an.",
     "NO_ITEM_PROVIDED": "Kein „Item“ angegeben",
-    "INVALID_AMOUNT": "Es wurde eine ungültige Menge angegeben",
+    "INVALID_AMOUNT": "{{author}} Du kannst keine negative Menge an {{eventItem}}`verschenken",
     "INVALID_ITEM_PROVIDED": "{{USER}} Ungültiges „Item“ angegeben"
 }

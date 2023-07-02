@@ -1,6 +1,6 @@
 {
     "UI_3D": "3D",
-    "UI_SLASH_DESC": "Ipasok ang pangalan ng user na hinahanap mo.",
+    "UI_SLASH_DESC": "Pumili ng user na nais mong i-inspect",
     "UI_STARS": "Mga Tala",
     "UI_ATTACKS": "Mga Atake",
     "USER_NOT_REGISTERED": "{{author}} Ang user na iyon ay hindi rehistrado!",
@@ -10,5 +10,9 @@
     "UI_TRADE_PASS": "<:_:979009081325019156> Trade Pass:   `{{date}}`",
     "UI_CARDS_COUNT": "<:_:979009081325019156> Bilang ng mga Kard: `{{cardCount}}`",
     "UI_GUILD_JOINED": "Sumali sa Guild: `{{guild}}`",
-    "EMBED_AUTHOR": "{{username}} [{{status}}]"
+    "EMBED_AUTHOR": "{{username}} [{{status}}]",
+    "UI_DESCRIPTION": "Pinapakita ang estatistiko ng isang user",
+    "UI_GIVEN": "Naibigay",
+    "USER_STATS": "__Stats ng User:__",
+    "UI_3D_EDITS": "Na Edit Na 3Ds"
 }

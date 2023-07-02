@@ -42,5 +42,7 @@
     "PURCHASE_SUCCESSFULL": "Matagumpay na pagbili",
     "ITEM_MODAL_LABEL": "Ilagay ang bilang",
     "MAXIMUM_PURCHASE_BG": "Maaari kang bumili ng hanggang 10 bgs sa isang pagkakataon",
-    "BUY_BG_INFO": "- Bumili ng kahit anong event backgrounds sa halaga na <:silvercoin:915619222229512213> 5000 silver'"
+    "BUY_BG_INFO": "- Bumili ng kahit anong event backgrounds sa halaga na <:silvercoin:915619222229512213> 5000 silver'",
+    "AMOUNT_BETWEEN": "Ang halaga ay dapat nasa pagitan ng 1 hanggang 100",
+    "ITEM_PURCHASE_SUCCESSFULL": "Pagbati! {{amount}} {{item}} ay nailagay sa iyong inventory"
 }

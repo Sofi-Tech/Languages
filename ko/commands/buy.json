@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "배경 수량은 양수여야 합니다.",
     "INVALID_BG_ID": "올바른 배경 ID를 입력해주세요.",
     "NO_ITEM_PROVIDED": "구매할 아이템이 지정되지 않았습니다.",
-    "INVALID_AMOUNT": "올바르지 않은 수량이 입력되었습니다.",
+    "INVALID_AMOUNT": "{{author}} 음수의 수량으로는 `{{eventItem}}`를 선물할 수 없습니다",
     "INVALID_ITEM_PROVIDED": "{{USER}} 올바르지 않은 아이템이 입력되었습니다."
 }

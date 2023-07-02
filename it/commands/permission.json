@@ -10,5 +10,12 @@
     "WHITELISTING_INFO": "I comandi inseriti nella whitelist saranno utilizzabili nel canale",
     "WHITELISTING_USAGE": "Utilizzo: `{{customPrefix}}permission whitelist <Commands>`",
     "CHANNEL_FOOTER": "nel #{{channel}}",
-    "MENTION_COMMANDS_WHITELIST": "Si prega di menzionare alcuni comandi da inserire nella whitelist."
+    "MENTION_COMMANDS_WHITELIST": "Si prega di menzionare alcuni comandi da inserire nella whitelist.",
+    "BLACKLISTED_NOTE": "**Nota:** per inserire un comando nella whitelist, devi prima cancellare la blacklist utilizzando il comando `{{customPrefix}}permission blacklist none`",
+    "BLACKLISTED_COMMANDS_EXIST": "> Al momento hai inserito nella blacklist i comandi in questo canale Prima rimuovili tutti con `{{customPrefix}}permission blacklist none` e poi riprova.",
+    "WHITELISTED_COMMNADS": "Comandi Autorizzati:",
+    "BLACKLISTED_COMMNADS": "Comandi nella lista nera:",
+    "WHITELISTED_COMMANDS_REMOVED": "> Tutti i comandi nella whitelist sono stati rimossi con successo.",
+    "PROCESSING_REQUEST": "> Elaborazione della richiesta, attendere...",
+    "NO_COMMAND_FOUND": "> Nessun comando trovato con nome `{{cmd}}`."
 }

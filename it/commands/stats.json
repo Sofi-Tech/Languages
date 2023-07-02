@@ -7,5 +7,12 @@
     "STATS_MENU_PLACEHOLDER": "Seleziona un'opzione",
     "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione",
     "STATS_MODAL_PLACEHOLDER": "Scegli un numero compreso tra 1 e 150",
-    "UPGRADE_MENU_LABEL": "Abilita gli aggiornamenti delle statistiche"
+    "UPGRADE_MENU_LABEL": "Abilita gli aggiornamenti delle statistiche",
+    "LEVEL_MENU_LABEL": "Fondi duplicati",
+    "REROLL_MENU_LABEL": "Reroll Potenza",
+    "SELECT_MOVES_MENU_LABEL": "Seleziona Abilità",
+    "RESET_MENU_LABEL": "Reimposta statistiche",
+    "REROLL_MENU_PLACEHOLDER": "Seleziona un'abilità",
+    "REROLL_SCROLLS": "Reroll Scrolls: {{scrolls}}\n",
+    "STATS_MODAL_TITLE": "Punti di Aggiornamento: {{type}}"
 }

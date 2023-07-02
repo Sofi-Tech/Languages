@@ -1,6 +1,6 @@
 {
-    "REMINDER_ENABLED": "maipapabatid sayo kapag natapos na ang cooldown ng {{reminder}}",
-    "PROVIDE_REMINDER_NAME": "Magbigay ng pangalan ng paalala: {{availableReminders}}",
-    "REMINDER_DISABLED": "Hindi ka na makakatanggap ng abiso kapag natapos ang cooldown ng {{reminder}}",
+    "REMINDER_ENABLED": "{{author}} Ngayon ay ipinaalam na sa inyo kung ang iyong **`{{reminder}}`** ay handa na",
+    "PROVIDE_REMINDER_NAME": "{{author}} Tamang pag-gamit: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_DISABLED": "{{author}} Ngayon ay hindi na sa iyo ipinaalam kung ang iyong **`{{reminder}}`** ay handa na",
     "RM_DESCRIPTION": "Magpapalit ng iyong mga paalala"
 }

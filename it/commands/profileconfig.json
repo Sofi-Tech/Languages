@@ -1,9 +1,20 @@
 {
-  "PC_CATEGORY": "Impostazioni",
-
-  "PC_EMBED_TITLE": "SOFI: Configurazione del Profilo",
-  "PC_INTRO": "<:_:979009081325019156> Intro: Imposta l'introduzione del profilo",
-
-  "PURCHASE_BUTTON_LABEL": "Acquistare",
-  "PC_DESCRIPTION": "Personalizza il tuo profilo"
+    "PC_CATEGORY": "Impostazioni",
+    "PC_EMBED_TITLE": "SOFI: Configurazione del Profilo",
+    "PC_INTRO": "<:_:979009081325019156> **About me**: Imposta un messaggio introduttivo\n<:_:979009081325019156> **Favorite Character**: Seleziona il tuo personaggio preferito da visualizzare sul tuo profilo\n<:_:979009081325019156> **Display Card**: Scegli una scheda da visualizzare sul tuo profilo\n<:_:979009081325019156> **Background**: Imposta uno sfondo per il tuo profilo\n<:_:979009081325019156> **Text Color**: Usa i tuoi `Glows` per cambiare il colore del testo del tuo profilo\n<:_:979009081325019156> **Profile Glow**: Fai risplendere il tuo profilo con uno dei tuoi `Glows`\n<:_:979009081325019156> **Display Awards**: Mostra diversi premi sul tuo profilo",
+    "PURCHASE_BUTTON_LABEL": "Acquistare",
+    "PC_DESCRIPTION": "Personalizza il tuo profilo",
+    "NO_PROFILE_SELF": "{{author}} Non hai ancora un `Profilo`. Usa il comando `{{prefix}}profileconfig` per generarne uno",
+    "NO_PROFILE_OTHER": "{{author}} non è riuscito a trovare un `Profile` per {{member}}",
+    "TC_MENU_DESC": "Usa i tuoi \"Glows\" per cambiare il colore del testo del tuo profilo",
+    "AGREE_BUTTON_LABEL": "Confermare",
+    "DISAGREE_BUTTON_LABEL": "Torna indietro",
+    "INTRO_MENU_DESC": "Imposta un messaggio introduttivo",
+    "FC_MENU_LABEL": "Personaggio Preferito",
+    "FC_MENU_DESC": "Seleziona il tuo personaggio preferito da visualizzare sul tuo profilo",
+    "SC_MENU_LABEL": "Schermo Carte",
+    "SC_MENU_DESC": "Scegli una carta da visualizzare sul tuo profilo",
+    "BG_MENU_LABEL": "Background",
+    "BG_MENU_DESC": "Imposta uno sfondo per il tuo profilo",
+    "TC_MENU_LABEL": "Colore del testo"
 }

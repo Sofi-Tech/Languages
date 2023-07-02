@@ -6,9 +6,15 @@
     "UI_GIVEN": "Dato",
     "CANNOT_FIND_USER": "{{author}} Non è riuscito a trovare nessun utente con quell'ID",
     "USER_IS_BOT": "{{author}} Quell'utente è un Discord BOT",
-    "USER_NOT_REGISTERED": "{{author}} | L'utente con quell'ID non si è ancora registrato su Sofi.",
+    "USER_NOT_REGISTERED": "{{author}} Quell'utente non è registrato!",
     "UI_DESCRIPTION": "Visualizza le statistiche di un utente",
     "UI_SLASH_DESC": "Scegli un utente che desideri ispezionare",
     "UI_3D": "3D",
-    "PROFILE_BUTTON_LABEL": "Profilo web"
+    "PROFILE_BUTTON_LABEL": "Profilo web",
+    "USER_BLACKLISTED": "{{author}} <:banhammer:1109864225259671614> Quell'utente è nella lista nera",
+    "USER_INFO": "__Informazioni utente:__\n",
+    "UI_TRADE_PASS": "<:_:979009081325019156> Passaggio commerciale: `{{date}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Conteggio Carte: `{{cardCount}}`",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> Fattore di fiducia: `{{val}}`",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Adesione alla Gilda:`{{guild}}`"
 }

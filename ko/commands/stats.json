@@ -1,1 +1,20 @@
-{}
+{
+    "STATS_MODAL_LABEL": "추가할 점수량을 입력하세요",
+    "UPGRADE_MENU_LABEL": "스탯 업그레이드를 활성화하세요",
+    "UPGRADE_POINTS": "업그레이드 포인트: {{points}}",
+    "REROLL_SCROLLS": "리롤 스크롤: {{scrolls}}\n",
+    "STATS_DESCRIPTION": "카드의 통계를 표시합니다",
+    "STATS_CATEGORY": "카드",
+    "STATS_MODAL_PLACEHOLDER": "1과 150 사이의 숫자를 선택하세요",
+    "STATS_MODAL_TITLE": "업그레이드 포인트: {{type}}",
+    "BACK_MENU_LABEL": "돌아가기",
+    "INVALID_CODE": "{{author}} 해당 카드 코드는 유효하지 않거나 컬렉션에 없는 카드입니다",
+    "STATS_MENU_PLACEHOLDER": "옵션을 선택하세요",
+    "LEVEL_MENU_LABEL": "중복된 카드를 융합하세요",
+    "UNLOCK_MOVES_MENU_LABEL": "능력을 해제하세요",
+    "REROLL_MENU_LABEL": "잠재력을 재굴림하세요",
+    "SELECT_MOVES_MENU_LABEL": "능력을 선택하세요",
+    "RESET_MENU_LABEL": "스탯을 초기화하세요",
+    "REROLL_MENU_PLACEHOLDER": "능력을 선택하세요",
+    "NO_CARDS": "{{author}} 아직 컬렉션에 카드가 없습니다"
+}
