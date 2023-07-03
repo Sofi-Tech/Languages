@@ -16,5 +16,11 @@
     "UI_TRADE_PASS": "<:_:979009081325019156> Passaggio commerciale: `{{date}}`",
     "UI_CARDS_COUNT": "<:_:979009081325019156> Conteggio Carte: `{{cardCount}}`",
     "UI_TRUST_FACTOR": "<:_:979009081325019156> Fattore di fiducia: `{{val}}`",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> Adesione alla Gilda:`{{guild}}`"
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Adesione alla Gilda:`{{guild}}`",
+    "USER_STATS": "__Statistiche Utente:__",
+    "UI_3D_EDITS": "3D Modifiche",
+    "UI_CARD_EDITS": "Modifiche alla Carta",
+    "UI_EVENT_EDITS": "Modifiche di Evento",
+    "UI_CASE_SOLVED": "Caso Risolto",
+    "SPECIAL_INFO": "__Informazioni Speciali:__"
 }

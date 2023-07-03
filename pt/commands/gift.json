@@ -1,13 +1,12 @@
 {
-  "GIFT_CATEGORY": "Cartas",
-  "GIFT_SLASH_DESC2": "Digite a quantidade de onigiris que deseja dar.",
-  "GIFT_WRONG_USAGE": "Forneça um usuário e um valor",
-
-  "INVALID_USER": "Usuário inválido fornecido",
-  "INVALID_AMOUNT": "Valor inválido fornecido",
-  "PLAYER_NOT_EXISTS": "{{author}} | Esse jogador não existe",
-  "GIFT_SUCCESSFULL": "{{author}} generosamente presenteou {{amount}} 🍙 para {{user}}\n{{user}} recebeu {{recieveCount}} 🍙 até agora",
-  "GIFT_SLASH_DESC": "Digite o usuário para o qual você deseja presentear com onigiris.",
-  "NOT_ENOUGH_ITEM": "Você não tem {{amount}} onigiris | Colete alguns dos drops",
-  "GIFT_DESCRIPTION": "Presenteie onigiris durante monocromático 2023"
+    "GIFT_CATEGORY": "Cartas",
+    "GIFT_SLASH_DESC2": "Digite a quantidade de onigiris que deseja dar.",
+    "GIFT_WRONG_USAGE": "Forneça um usuário e um valor",
+    "INVALID_USER": "Usuário inválido fornecido",
+    "INVALID_AMOUNT": "{{author}} Você não pode dar de presente um número negativo de {{eventItem}}",
+    "PLAYER_NOT_EXISTS": "{{author}} | Esse jogador não existe",
+    "GIFT_SUCCESSFULL": "{{author}} generosamente presenteou {{amount}} 🍙 para {{user}}\n{{user}} recebeu {{recieveCount}} 🍙 até agora",
+    "GIFT_SLASH_DESC": "Digite o usuário para o qual você deseja presentear com onigiris.",
+    "NOT_ENOUGH_ITEM": "Você não tem {{amount}} onigiris | Colete alguns dos drops",
+    "GIFT_DESCRIPTION": "Presenteie onigiris durante monocromático 2023"
 }

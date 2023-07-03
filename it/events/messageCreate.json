@@ -19,7 +19,7 @@
     "REGISTER_USER": "{{author}} Usa il comando `{{prefix}}register` e visita il nostro sito web per verificarti",
     "USER_COMMAND_QUEUE": "<@{{id}}> deve completare il comando {{existsFor}} prima di procedere",
     "AUTHOR_COMMAND_QUEUE": "Completa il comando {{existsFor}} prima di procedere",
-    "SAFE_MODE": "> Il bot è in modalità sicura {{eta}}\nTorno subito ❤",
+    "SAFE_MODE": "{{author}} **Sofi** è attualmente in modalità provvisoria! ETA: **{{eta}}**\nCi scusiamo per eventuali disagi causati da questo e chiediamo la vostra pazienza!",
     "CATEGORY_DISABLED": "> La categoria è stata disabilitata\nMotivo: `{{category}}`",
     "COMMAND_DISABLED": "> Il comando è stato disabilitato.\nMotivo: `{{command}}`",
     "NO_PERMISSIONS": "Non ho i permessi sufficienti per eseguire questo comando",

@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Não digite valores negativos",
     "INVALID_BG_ID": "Por favor, forneça um ID de `Background` válido",
     "NO_ITEM_PROVIDED": "Nenhum `Item` fornecido",
-    "INVALID_AMOUNT": "Valor inválido fornecido",
+    "INVALID_AMOUNT": "{{author}} Você não pode dar de presente um número negativo de {{eventItem}}",
     "INVALID_ITEM_PROVIDED": "{{USER}} `Item` fornecido é inválido"
 }

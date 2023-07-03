@@ -12,5 +12,6 @@
     "REGISTER_TO_PLAY": "{{author}} Utilizza il comando `{{prefix}}register` per intraprendere il tuo viaggio con **Sofi**!",
     "COMPLETE_COMMAND": "{{author}} Completa prima il comando `{{command}}`!",
     "APPEAL_DENIED": "Dopo aver esaminato il tuo caso, siamo giunti alla conclusione di respingere il tuo ricorso. Il tuo stato nella lista nera non verrà annullato e tutti i nuovi ricorsi da qui in avanti verranno respinti.\n\n- Gestione Sofi",
-    "VERIFY_BUTTON_LABEL": "Verificare"
+    "VERIFY_BUTTON_LABEL": "Verificare",
+    "BLACKLISTED_USER": "# :banhammer: __Sei stato inserito nella lista nera per aver violato le regole di Sofi!__\n\n**Un elenco di possibili motivi che potrebbero aver causato questo:**\n```CSS\n- Interagire con Sofi su più account (Alting)\n- Vendita o acquisto di interi account Discord\n- Scamming altri utenti\n- Approfittare o essere coinvolto in una qualsiasi delle attività di cui sopra\n```\n\n:link: [Fai ricorso contro la tua lista nera](<https://sofi.gg/appeal>)\n:link: [Server di Supporto](https://discord.gg/sofi)"
 }

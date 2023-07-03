@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} você já está em uma troca ativa com alguém! Cancele o anterior para começar um novo",
     "BOT_TRADE": "{{author}} Você não pode negociar com um `Bot`",
     "SELF_TRADE": "{{author}} Você não pode negociar com você mesmo",
-    "NOT_REGISTERED": "{{user}} ainda não está inscrito!",
+    "NOT_REGISTERED": "{{author}} Esse usuário não está registrado!",
     "AUTHOR_IS_BLED": "{{author}} Você está na lista negra",
     "MEMBER_IS_BLED": "{{user}} está na lista negra",
     "AUTHOR_IS_QUED": "{{author}} Você está em quarentena",

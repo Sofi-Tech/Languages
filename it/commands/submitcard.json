@@ -16,5 +16,11 @@
     "UPSCALE_IMAGE_SITE": "Immagine di alto livello: [Waifu2x](https://deepai.org/machine-learning-model/waifu2x)",
     "TOTAL_EVENT_2D": "Carte `2D Event`: {{totalEventCards}}",
     "TOTAL_EVENT_3D": "Carte`3D Event`: {{totalEventCards}}",
-    "CARD_EMBED_TITLE": "SOFI: Linee Guida per l'invio delle Carte"
+    "CARD_EMBED_TITLE": "SOFI: Linee Guida per l'invio delle Carte",
+    "EMBED_FOOTER": "I tuoi invii: {{userStats}/{{submitted}} | Globale: {{globalStats}/{{allSubmit}}",
+    "CARD_ID_INVALID": "{{author}} L'ID della carta che hai inviato non è valido",
+    "ENTER_EVENT_TYPE": "{{author}} Il tipo che hai inserito non è valido",
+    "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} Non hai permessi sufficienti per inviare le immagini del `Event`",
+    "PROVIDE_IMAGE_URL": "{{author}} L'URL dell'immagine che hai fornito non è valido",
+    "PROVIDE_SOURCE_URL": "{{author}} Fornisci un URL di origine"
 }

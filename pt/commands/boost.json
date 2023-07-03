@@ -1,6 +1,6 @@
 {
-  "BOOST_DESCRIPTION": "Exibe o leaderboard dos boosts de nitro para o servidor \"Sofi Cafe\"",
-  "BOOST_CATEGORY": "Configurações",
-  "EMBED_TITLE": "Boosters do Sofi Cafe [{{lbInfo}}] Total de Boosters",
-  "EMBED_FOOTER": "Boosters do Discord, bem como Doadores, são elegíveis para solicitar variantes 3D e personagens. Eles também recebem um cargo de servidor exclusivo, Cores de `Userinfo` e Comandos de Ação."
+    "BOOST_DESCRIPTION": "Exibe o placar de líderes dos boosts de nitro para o servidor \"Sofi Cafe\"",
+    "BOOST_CATEGORY": "Configurações",
+    "EMBED_TITLE": "Boosters do Sofi Cafe [{{lbInfo}}] Total de Boosters",
+    "EMBED_FOOTER": "Boosters do Discord, bem como Doadores, são elegíveis para solicitar variantes 3D e personagens.\nEles também recebem um cargo de servidor exclusivo, Cores de `Userinfo` e Comandos de Ação"
 }

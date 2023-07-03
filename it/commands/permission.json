@@ -17,5 +17,10 @@
     "BLACKLISTED_COMMNADS": "Comandi nella lista nera:",
     "WHITELISTED_COMMANDS_REMOVED": "> Tutti i comandi nella whitelist sono stati rimossi con successo.",
     "PROCESSING_REQUEST": "> Elaborazione della richiesta, attendere...",
-    "NO_COMMAND_FOUND": "> Nessun comando trovato con nome `{{cmd}}`."
+    "NO_COMMAND_FOUND": "> Nessun comando trovato con nome `{{cmd}}`.",
+    "WHITELIST_COMMANDS_SUCCESSFULL": "Il comando(i) {{pushedCmds}} è stato autorizzato in questo canale.",
+    "BLACKLISTED_COMMANDS_REMOVED": "> Tutti i comandi nella lista nera sono stati rimossi con successo.",
+    "WHITELISTED_COMMANDS_EXIST": "> Al momento hai inserito nella whitelist i comandi in questo canale. Per prima cosa rimuovili tutti con `{{customPrefix}}permission whitelist none` e poi riprova.",
+    "COMMANDS_CANNOT_BLACKLIST": "> Il comando `{{command}}` non può essere inserito nella lista nera!",
+    "BLACKLIST_COMMANDS_SUCCESSFULL": "Il comando(i) {{pushedCmds}} è stato inserito nella lista nera in questo canale."
 }

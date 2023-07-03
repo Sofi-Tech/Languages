@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Mostra o `Inventário` de um usuário",
+    "DESCRIPTION": "Mostra o \"Inventário\" de um usuário",
     "SLASH_DESC": "Digite o usuário o qual você deseja ver o inventário",
     "SLASH_DESC2": "Digite o `Item` que você deseja pesquisar",
     "NOT_REGISTER": "{{author}} | Este usuário não está registrado!",
@@ -12,7 +12,7 @@
     "EVENT": "Evento",
     "SELF_INV_EMPTY": "{{author}} Seu `Inventário` está vazio",
     "USER_INV_EMPTY": "{{author}} O`Inventário` deste usuário está vazio",
-    "NO_BG_FOUND": "Nenhum `Plano de Fundo` encontrado",
+    "NO_BG_FOUND": "Você não tem nenhum `Background`",
     "NO_ITEM_FOUND": "{{author}} Não foi possível encontrar este `Item` no `Inventário`",
-    "HIDE_INV": "Use o comando `spvt inv` para deixar seu `Inventório` privado"
+    "HIDE_INV": "Use o comando `{{prefix}}pvt inv` para deixar seu `Inventário` privado"
 }
