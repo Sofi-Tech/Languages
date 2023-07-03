@@ -1,5 +1,5 @@
 {
-    "FS_DESCRIPTION": "Affiche les \"Frames\" actuellement en rotation, ainsi que les aperçus de ceux existants",
+    "FS_DESCRIPTION": "Affiche les \"Frames\" actuellement en rotation, ainsi que les aperçus de celles existantes",
     "FS_CATEGORY": "Cosmetics",
     "FS_SLASH_DESC": "Entrez le code de la \"Frame\" que vous souhaitez prévisualiser",
     "NO_DESCRIPTION_FOUND": "Cette \"Frame\" ne possède pas encore de description",
@@ -35,7 +35,7 @@
     "LF_MENU_LABEL": "\"Frame\" Limitées",
     "LF_MENU_DESC": "\"Frames\" qui ne sont obtenable que lors d'occasions spéciales",
     "MF_MENU_LABEL": "\"Frames\" Mensuels",
-    "MF_MENU_DESC": "\"Frames\" obtenus via les \"Votes\"",
+    "MF_MENU_DESC": "\"Frames\" obtenues via les \"Votes\"",
     "CF_MENU_LABEL": "\"Frames\" Personnalisées",
     "CF_MENU_DESC": "\"Frames\" soumises par des joueurs",
     "EDIT_DESC_SUCCESSFULL": "Le processus s'est terminé avec succès"

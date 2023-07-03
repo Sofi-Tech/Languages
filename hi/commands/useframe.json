@@ -1,7 +1,7 @@
 {
     "UF_DESCRIPTION": "आपने खरीदे हुए फ्रेम का उपयोग कार्डों पर करें",
     "UF_CATEGORY": "सौंदर्य उत्पाद",
-    "UF_INVALID_USAGE": "अमान्य कोड प्रदान किया गया",
+    "UF_INVALID_USAGE": "{{author}} सही इस्तेमाल: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके पास नहीं है कृपया जांच करके दुबारा कोशिश करे",
     "CANNOT_APPLY": "आप 3D कार्डों पर फ्रेम लागू नहीं कर सकते",
     "NO_GIF": "{{author}} जिफ कार्ड पर फ्रेम नहीं लगाया जा सकता",

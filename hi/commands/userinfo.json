@@ -29,5 +29,6 @@
     "UI_EVENT_EDITS": "कुल इवेंट कार्ड्स बनाए हुए",
     "BLACKLIST_STATUS": "__संदिग्ध सूची स्टेट्स__",
     "EMBED_AUTHOR": "{{username}} [{{status}}]",
-    "UI_GAME_BLACKLISTED": "- संदिग्ध सूची में नाम जुड़ा : {{formattedDate}}"
+    "UI_GAME_BLACKLISTED": "- संदिग्ध सूची में नाम जुड़ा : {{formattedDate}}",
+    "UI_DESCRIPTION": "उपयोगकर्ता की आंकड़ा माहिती प्रदर्शित करता है"
 }

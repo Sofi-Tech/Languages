@@ -1,1 +1,4 @@
-{}
+{
+    "EXTRA_GRAB": "{{user}} आपके **Extra Grab** का इस्तेमाल हो रहा है। आपके पास **{{remaining}}** बचे है",
+    "GRAB_COOLDOWN": "{{user}} आपका `Grab` {{cooldown}} तक कूलडाउन पर है"
+}
