@@ -1,7 +1,7 @@
 {
     "TL_DESCRIPTION": "Displays a list with your \"Tags\"",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "{{author}} That user does not exist",
+    "NO_USER": "{{author}} Could not find that user",
     "NO_TAGS": "{{author}} Could not find any tags",
     "EMBED_TITLE": "Tag List: {{username}}",
     "SOFI_FACT": "A \"Tag\" with the name \"lock\" and a padlock emoji \"🔒\" will prevent you from burning or giving away any card within that tag!\nExample: \"{{prefix}}tc lock 🔒\"",

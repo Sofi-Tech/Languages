@@ -19,5 +19,19 @@
     "BASECODE_ERROR": "{{author}} Hindi mo maaring i-fuse ang card sa kanyang sarili",
     "DUPLICATE_MODAL_LABEL": "Pakiusap ipasok ang mga code ng duplicate card (Magkakahalagang 100 Elixir bawat isa ang gastos ng pagfu-fuse)",
     "INVALID_CODE": "{{author}} Ang card code ay hindi valid o wala sa iyong koleksyon",
-    "STATS_SPECIAL": "Espesyal"
+    "STATS_SPECIAL": "Espesyal",
+    "EMBED_FOOTER_OTHER": "{{unlockableMoves}} pwede pang mag unlock ng moves",
+    "EMBED_FOOTER_ONE": "{{unlockableMoves}} marami pang moves ang pwedeng buksan",
+    "STATS_MOVES": "**__Kakayahan__**",
+    "UPGRADE_POINTS": "Upgrade Points: {{points}}",
+    "REROLL_SCROLLS": "Reroll Scrolls: {{scrolls}}\n",
+    "EMBED_AUTHOR": "ESTADISTIKA",
+    "STATS_SPEED": "Bilis",
+    "STATS_DEFENSE": "Depensa",
+    "STATS_ATTACK": "Atake",
+    "DISABLE_STATS_UPGRADE": "Pagtigil ng Pag-upgrade ng Estadistika",
+    "NO_UPRGADE_POINTS": "{{author}} Hindi ka pa gumamit ng anumang mga puntos ng pag-upgrade",
+    "RESET_STATS": "{{author}} Ang esdatistika ng card na ito ay naulit na",
+    "DUPLICATE_MODAL_TITLE": "Level Up",
+    "RESET_STATS_INFO": "Kailangan mo ng 1 `Stat Reset` para maulit ang estadisktika ng card na ito"
 }

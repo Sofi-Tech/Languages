@@ -1,7 +1,7 @@
 {
     "TL_DESCRIPTION": "Visualizza un elenco con i tuoi \"Tags\"",
     "TL_CATEGORY": "Tag",
-    "NO_USER": "{{author}} Quell'utente non esiste",
+    "NO_USER": "{{author}} Non è riuscito a trovare quell'utente",
     "NO_TAGS": "{{author}} Impossibile trovare tag",
     "EMBED_TITLE": "Elenco dei tag: {{username}}",
     "SOFI_FACT": "Un \"Tag\" con il nome \"lock\" e un lucchetto emoji \"🔒\" ti impedirà di bruciare o regalare qualsiasi carta all'interno di quel tag!\nEsempio: \"{{prefix}}tc lock 🔒\"",
