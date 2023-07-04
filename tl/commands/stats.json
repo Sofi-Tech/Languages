@@ -33,5 +33,19 @@
     "NO_UPRGADE_POINTS": "{{author}} Hindi ka pa gumamit ng anumang mga puntos ng pag-upgrade",
     "RESET_STATS": "{{author}} Ang esdatistika ng card na ito ay naulit na",
     "DUPLICATE_MODAL_TITLE": "Level Up",
-    "RESET_STATS_INFO": "Kailangan mo ng 1 `Stat Reset` para maulit ang estadisktika ng card na ito"
+    "RESET_STATS_INFO": "Kailangan mo ng 1 `Stat Reset` para maulit ang estadisktika ng card na ito",
+    "SUCCESSFULL_FUSED": "{{author}} Matagumpay na napag-sama **{{dupeCodes}}** ang mga card sa halaga na **{{amount}}** <:_:979673719884636210>\nAng card mo ay nakatanggap ng **{{totalXP}}** EXP at ngayon ay nasa Level: **{{netLevel}}**",
+    "EFFECTIVE_REROLL": "{{author}} Ang lakas ng `{{attackName}}` ay na reroll: **{{effectiveNess}}%** 🠚 **{{newEffective}}%**",
+    "NO_CARD_FOUND": "{{author}} Ang mga sumusunod na card code ay hindi valid o wala sa iyong koleksyon:\n> `{{dupeCode}}`",
+    "NOT_DUPLICATE": "{{author}} Ang mga sumusunod na card codes au hindi dupes ng kaparehas na karakter:\n> `{{dupeCode}}`",
+    "FUSE_CARDS_INFO": "{{author}} Kailangan mo **{{dupeCodes}}* <:_:979673719884636210> para ma pag-sama ang cards",
+    "NO_AVAILABLE_MOVES": "{{author}} Ang card na ito ay wala ng mga abilidad na pag pipilian",
+    "MISSING_REROLLS": "{{author}} Wala kang kahit anong `Reroll Scrolls`",
+    "NOT_ENOUGH_POINTS": "{{author}} Ang card mo ay walang available na points para mag upgrade",
+    "MAXIMUM_STAT": "{{author}} Ang **{{stat}}** stat ay puno na",
+    "POINTS_NEGATIVE_ERROR": "{{author}} Hindi ka maaaring magbigay ng negatibong punto sa iyong stat",
+    "CANNOT_EXCEED_POINTS": "{{author}} Maaari kang maglaan ng hanggang sa **150** {{stat}} na punto sa card",
+    "ADD_PER_STAT": "{{author}} Maaari kang maglaan ng hanggang sa **150** {{stat}} na punto sa card",
+    "POINTS_INFO": "{{author}} Ikaw ay mayroon nalang **{{points}}** na punto na maaring ilaan",
+    "UNLOCKED_MOVES": "Ang card mo ay natutunan ang **{{attackName}}** **[{{newMove}}%]**"
 }

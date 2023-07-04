@@ -1,15 +1,15 @@
 {
-    "MG_DESCRIPTION": "Combina 4 \"Glows\" en orden para obtener \"Resins\"",
+    "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" únicos para obtener \"Resin\"",
     "MG_CATEGORY": "Cosméticos",
-    "NO_GLOWS": "{{author}} No tienes ningún `Glow` aún",
+    "NO_GLOWS": "{{author}} Aún no tienes ningún `Glow`",
     "GLOW_CODES_MISSING": "{{author}} Uso correcto: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Algunos `Glows` no están disponibles: {{unavailableGlows}}",
-    "GLOW_CODES_UNIQUE": "{{author}} Necesitas 4 `Glows` diferentes para este proceso",
+    "GLOWS_UNAVAILABLE": "{{author}} Los siguientes `Glows` están vacíos: {{unavailableGlows}}",
+    "GLOW_CODES_UNIQUE": "{{author}} Necesitas 4 `Glows` únicos para este proceso",
     "AVAILABLE": "Disponible",
     "UNAVAILABLE": "No disponible",
-    "GLOWS_NOT_FOUND": "{{author}} Los siguientes `Glows` son ambos inválidos o no están en: `{{glows}}`",
-    "EMBED_TITLE": "SOFI: COMBINAR GLOWS",
-    "MERGE_CONFIRMATION": "Estás a punto de combinar los siguientes `Glows`:\n\n{{glows}}\n\nObtendrás 1 <:resin:938131736741691442>",
+    "GLOWS_NOT_FOUND": "{{author}} Los siguientes `Glows` son inválidos o no son tuyos: `{{glows}}`",
+    "EMBED_TITLE": "SOFI: GLOW MERGE",
+    "MERGE_CONFIRMATION": "Estás a punto de hacer `Merge` a los siguientes `Glows`:\n\n{{glows}}\n\nObtendrás 1 <:resin:938131736741691442>",
     "SURE": "¿Estás seguro?",
     "ERROR": "Error: {{error}}"
 }

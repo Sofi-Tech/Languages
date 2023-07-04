@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Esta acción intercambiará los códigos entre las dos cartas especificadas",
-    "SLASH_DESC": "Ingresa el primer código",
-    "SLASH_DESC2": "Ingresa el segundo código",
-    "NO_CODES_PROVIDED": "Por favor ingresa los códigos de las dos cartas",
-    "INVALID_CODES_PROVIDED": "{{author}} Por favor ingresa dos códigos válidos para las cartas"
+    "SLASH_DESC": "Introduce el primer código",
+    "SLASH_DESC2": "Introduce el segundo código",
+    "NO_CODES_PROVIDED": "Por favor introduce dos códigos de cartas",
+    "INVALID_CODES_PROVIDED": "{{author}} Por favor introduce dos códigos de cartas válidos"
 }

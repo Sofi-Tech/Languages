@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Non inserire valori negativi",
     "INVALID_BG_ID": "Fornisci un ID `Background` valido",
     "NO_ITEM_PROVIDED": "Nessun `item` fornito",
-    "INVALID_AMOUNT": "{{author}} non puoi regalare un importo megativo di {{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} non puoi regalare un importo megativo di `{{eventItem}}`",
     "INVALID_ITEM_PROVIDED": "{{USER}} `L'oggetto` fornito non valido"
 }

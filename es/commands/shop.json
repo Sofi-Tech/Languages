@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Compra \"Items\" en el \"Shop\" de Sofi",
-    "GUILD": "Gremio",
-    "GEMS": "¡Compra gemas!",
+    "DESCRIPTION": "Compra \"Items\" del \"Shop\" de Sofi",
+    "GUILD": "Guild",
+    "GEMS": "Compra gemas!",
     "SOFI_SHOP": "Tienda de Sofi",
-    "VIEW_CAT": "Usa los botones a continuación para buscar por otras categorías",
-    "DROP": "Los `Drops`pueden ser usados para generar mas cartas mientras todavía estás en enfriamiento",
-    "GRAB": "Los `Grabs`pueden ser usados para agarrar mas cartas mientras todavía estás en enfriamiento",
-    "CUBE": "Los `Cubes`son necesarios para transformar tus cartas en variantes `3D`",
-    "TP": "El `Trade Pass` es necesario para acceder a mini juegos y hacer intercambios",
+    "VIEW_CAT": "Usa los siguientes botones para navegar por otras categorías",
+    "DROP": "Los `Drops` pueden usarse para dropear mas cartas mientras estás en enfriamiento",
+    "GRAB": "Los `Grabs` pueden usarse para agarrar mas cartas mientras estás en enfriamiento",
+    "CUBE": "Los `Cubes` son necesarios para transformar tus cartas en su variante `3D`",
+    "TP": "El `Trade Pass` es necesario para acceder a mini juegos y hacer multi trades",
     "GUILD_STONE": "Los `Guild Stones` son necesarios para crear un `Guild`",
-    "BG": "Los `Backgrounds` pueden ser aplicados a personajes con variantes `3D`",
-    "RECHARGE": "Recarga tu `Glow`",
+    "BG": "Los `Backgrounds` pueden aplicarse a las variantes `3D` de un personaje",
+    "RECHARGE": "Rcarga tu `Glow`",
     "GEN_S": "Los `Scratchers` revelan el `Gen` de una carta de `Event`",
-    "STAT_RESET": "Este `Item` puede ser usado para reiniciar las estadísticas modificadas de una carta"
+    "STAT_RESET": "Este `Item` puede ser usado para deshacer las mejoras de estadísticas de una carta"
 }

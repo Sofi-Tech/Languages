@@ -1,18 +1,18 @@
 {
-    "SG_DESCRIPTION": "Funde dos \"Glows\" para hacer un \"Super Glow\"",
+    "SG_DESCRIPTION": "Fusiona dos \"Glows\" para obtener un \"Super Glow\"",
     "SG_CATEGORY": "Cosméticos",
-    "NO_GLOWS": "{{author}} No se pueden encontrar glows en tu inventory, no tienes ningún `Glow` aún",
+    "NO_GLOWS": "{{author}} Aún no tienes ningún `Glow`",
     "GLOW_CODES_MISSING": "{{author}} Uso correcto: `{{prefix}}sg <GlowCode1> <GlowCode2>`",
-    "GLOW_NOT_FOUND": "{{author}} no se pudo encontrar el `Glow`. Al menos uno de los glow que usaste es invalido. Por favor, revisa el código nuevamente",
-    "UNAVAILABLE_GLOW": "{{author}} uno de los `Glows` no está disponible",
-    "NO_USE_SG": "¡{{author}} no puedes usar \"Super Glow\" para crear otro `Super Glow\"!",
-    "SAME_GLOWS": "{{author}} no puede usar los mismos `Glow` dos veces para formar un `Super Glow`",
+    "GLOW_NOT_FOUND": "{{author}} Al menos uno de los códigos de `Glow` que has proporcionado no es válido",
+    "UNAVAILABLE_GLOW": "{{author}} Al menos uno de los `Glows` que has proporcionado está vacío",
+    "NO_USE_SG": "{{author}} No puedes usar `Super Glows` para formar otro `Super Glow`!",
+    "SAME_GLOWS": "{{author}} No puede usar el mismo `Glow` dos veces para este proceso",
     "UNAVAILABLE": "No disponible",
     "AVAILABLE": "Disponible",
-    "CANNOT_FIND_GLOWS": "{{author}} no se puedo encontrar `Glow` con esos códigos \n{{codes}}",
+    "CANNOT_FIND_GLOWS": "{{author}} No se han podido encontrar `Glows` con estos códigos:\n{{codes}}",
     "EMBED_TITLE": "SOFI: SUPER GLOW",
     "FORM_SG_CONFIRM": "Estas apunto de usar los siguientes `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nPara poder obtener el `Super Glow` **`{{superGlowName}}`**",
     "MISSING_RESINS": "No tienes suficiente `Resin` para crear un `Super Glow`",
-    "SUPER_GLOW_SUCCESSFULL": "Tus `Glows` han sido fusionados con éxito!\n",
-    "FORM_SG_FOOTER": "¡Todos los glows usados en este proceso serán destruidos! Este proceso será irreversible, disponible o no disponible"
+    "SUPER_GLOW_SUCCESSFULL": "Tus `Glows` han sido `Merged` con éxito!\n",
+    "FORM_SG_FOOTER": "Todos los `Glows` usados en este proceso serán destruidos!"
 }

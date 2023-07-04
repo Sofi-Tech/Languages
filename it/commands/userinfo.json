@@ -22,5 +22,10 @@
     "UI_CARD_EDITS": "Modifiche alla Carta",
     "UI_EVENT_EDITS": "Modifiche di Evento",
     "UI_CASE_SOLVED": "Caso Risolto",
-    "SPECIAL_INFO": "__Informazioni Speciali:__"
+    "SPECIAL_INFO": "__Informazioni Speciali:__",
+    "BLACKLIST_STATUS": "__ Stato Lista Nera __",
+    "UI_BLACKLISTED": "In Lista Nera",
+    "UI_GAME_BLACKLISTED": "- In Lista Nera di Gioco {{formattedDate}}",
+    "UI_QUARANTINED": "In Quarantena",
+    "UI_UNVERIFIED": "Non Verificato"
 }

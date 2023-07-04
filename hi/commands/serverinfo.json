@@ -1,5 +1,6 @@
 {
     "SI_DESCRIPTION": "सर्वर के आंकड़ो को प्रदर्शित किजिए",
     "SI_CATEGORY": "सेटिंग्स",
-    "EMBED_AUTHOR": "सर्वर: {{guildName}} | प्रीफिक्स: `{{prefix}}` ({{blacklistPoints}})"
+    "EMBED_AUTHOR": "सर्वर: {{guildName}} | प्रीफिक्स: `{{prefix}}` ({{blacklistPoints}})",
+    "SI_SPAWN_CHANNEL": "स्पॉन चैनल"
 }

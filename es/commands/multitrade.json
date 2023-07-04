@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} ¡ya estás en un trade activo! Cancela el anterior para comenzar uno nuevo",
     "BOT_TRADE": "{{author}} No puedes comerciar con un `Bot`",
     "SELF_TRADE": "{{author}} No puedes comerciar contigo mismo",
-    "NOT_REGISTERED": "{{author}} no está registrado",
+    "NOT_REGISTERED": "{{author}} Ese usuario no está registrado!",
     "AUTHOR_IS_BLED": "{{author}} Estás en la lista negra",
     "MEMBER_IS_BLED": "{{user}} está en la lista negra",
     "AUTHOR_IS_QUED": "{{author}} Estás en cuarentena",
@@ -25,5 +25,5 @@
     "MT_INFO_4": "📛 Reporta a jugadores que soliciten pagar con crypto, esto es una ofensa denunciable!",
     "MT_COMPLETE": "Multi Trade: (Completado)",
     "MISSING_ITEMS": "{{user}} Los siguientes items no se encuentran en tu inventory y no pudieron ser agregados:\n`{{items}}`",
-    "CARD_LOCKED": "{{user}} Las siguientes cartas están bloqueadas o se usan actualmente en un mazo y no pudieron ser agregadas: \n`{{codes}}`"
+    "CARD_LOCKED": "{{user}} Las siguientes cartas están bloqueadas o se usan actualmente en un deck y no pudieron ser agregadas: \n`{{codes}}`"
 }

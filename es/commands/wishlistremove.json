@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Elimina a un personaje de tu lista de deseos",
-    "CATEGORY": "Wishlist",
+    "CATEGORY": "Lista de deseos",
     "NO_INDEX": "No se ha proporcionado nombre ni número de personaje! Para borrar tu lista de deseos por completo, usa el comando `swr full reset`",
     "FULL_RESET": "> {{author}} Eliminaste **__{{total}}__** personajes de tu lista de deseos",
     "REMOVE_CHARACTER": "> {{author}} Eliminaste a **{{name}}** de tu lista de deseos",
-    "NO_RESULTS": "{{author}} No se pudo encontrar* *\"{{name}}\"** en tu wishlist"
+    "NO_RESULTS": "{{author}} No se ha podido encontrar **\"{{name}}\"** en tu wishlist"
 }

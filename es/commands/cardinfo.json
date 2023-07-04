@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Muestra información sobre una carta",
-    "SLASH_DESC": "Ingresa el código de una carta que quieras ver",
+    "SLASH_DESC": "Introduce el código de una carta que quieras ver",
     "NO_CARD_FOUND": "No se ha podido encontrar tu última carta. Intenta proporcionando un código de carta",
     "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado es inválido",
     "CARD_MORPHED": "Esa carta está morfeada",

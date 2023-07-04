@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Agrega personajes a tu lista de deseos",
-    "CATEGORY": "Wishlist",
+    "CATEGORY": "Lista de deseos",
     "ADD_CHARACTERS_ERROR": "> No puedes agregar más personajes a tu lista de deseos",
-    "SEARCH_CHARACTER_ERROR": "Ingresa el nombre de personaje para agregar a tu lista de deseos\nUsa el comando `swa -f <nombre>` para una búsqueda exacta",
+    "SEARCH_CHARACTER_ERROR": "Introduce el nombre de personaje para agregar a tu lista de deseos\nUsa el comando `swa -f <nombre>` para una búsqueda exacta",
     "NO_CHARACTER_FOUND": "No se ha podido encontrar al personaje\nUsa el comando `swa -f <name>` para una búsqueda exacta",
     "CHARACTER_ALREADY_EXISTS": "**{{name}}** ya está en tu lista de deseos!",
     "CHARACTER_ADDED": "{{author}} Se agregó **{{name}}** a tu lista de deseos",

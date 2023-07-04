@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "कार्ड को Tag करें",
+    "TAG_DESCRIPTION": "पत्तो पर \"Tags\" लगाता है",
     "TAG_CATEGORY": "TAGS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}t <CardCode> <TagName>`",
     "NO_TAGS_CREATED": "{{author}} आपने अभी तक कोई Tag नहीं बनाया है। आप `{{prefix}}tc <TagName> <Emoji>`प्रयोग करके Tag बना सकते है",

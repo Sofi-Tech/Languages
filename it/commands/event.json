@@ -23,5 +23,9 @@
     "EV_JOINED": " - Partecipato",
     "EVSHOP_MENU_PLACEHOLDER": "Negozio di Eventi",
     "GS_MENU_LABEL": "Gen Scratcher",
-    "GS_MENU_DESC": "Oggetto utile per rivelare la gen della tua carta {{event}}"
+    "GS_MENU_DESC": "Oggetto utile per rivelare la gen della tua carta {{event}}",
+    "ITEM_MENU_LABEL": "{{item}}",
+    "ITEM_MENU_DESC": "Oggetto utile per tirare speciali morphs durante l'evento",
+    "CHEST_MENU_LABEL": "{{item}} Chest",
+    "CHEST_MENU_DESC": "Una chest con 3 carte {{eventName}} casuali"
 }

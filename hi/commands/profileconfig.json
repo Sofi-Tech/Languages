@@ -1,5 +1,6 @@
 {
     "AGREE_BUTTON_LABEL": "पुष्टि करें",
     "PC_DESCRIPTION": "अपने प्रोफ़ाइल को अनुकूलित कीजिए",
-    "PC_CATEGORY": "सेटिंग्स"
+    "PC_CATEGORY": "सेटिंग्स",
+    "NO_PROFILE_SELF": "{{author}} आपके पास अभी `Profile` नही है। `{{prefix}}profileconfig` कमांड का अपयोग करके अपना प्रोफाइल बनाए"
 }

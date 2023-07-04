@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Do not enter negative values",
     "INVALID_BG_ID": "Please provide a valid `Background`-ID",
     "NO_ITEM_PROVIDED": "No `Item` provided",
-    "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of {{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of `{{eventItem}}`",
     "INVALID_ITEM_PROVIDED": "{{USER}} Invalid `Item` provided"
 }

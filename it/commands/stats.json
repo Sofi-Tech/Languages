@@ -21,5 +21,11 @@
     "STATS_ATTACK": "Attacco",
     "UPGRADE_POINTS": "Punti di Aggiornamento: {{points}}",
     "STATS_DEFENSE": "Difesa",
-    "STATS_SPEED": "Velocità"
+    "STATS_SPEED": "Velocità",
+    "EMBED_FOOTER_OTHER": "{{unlockableMoves}} mosse possono essere sbloccate",
+    "EMBED_FOOTER_ONE": "{{unlockableMoves}} altra mossa può essere sbloccata",
+    "EMBED_AUTHOR": "STATISTICHE",
+    "STATS_MOVES": "**__Abilità__**",
+    "DISABLE_STATS_UPGRADE": "Disabilita gli Aggiornamenti delle Statistiche",
+    "NO_UPRGADE_POINTS": "{{author}} Non hai ancora utilizzato alcun punto di upgrade"
 }

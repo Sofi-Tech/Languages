@@ -1,6 +1,6 @@
 {
-    "SLASH_DESC_1": "Ingresa el \"Item\" que deseas abrir",
-    "SLASH_DESC_2": "Ingresa la cantidad.",
+    "SLASH_DESC_1": "Introduce el \"Item\" que quieres abrir",
+    "SLASH_DESC_2": "Introduce la cantidad.",
     "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}open <NombreDelItem> <Cantidad>`",
     "EMPTY_INV": "{{author}} Tu `Inventory` está vacío",
     "CHARM_MISSING": "{{author}} No tienes ningún `Charm`",

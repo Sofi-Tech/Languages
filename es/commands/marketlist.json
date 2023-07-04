@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Pone tus \"Wists\" en el mercado, los cuales luego pueden ser comprador por otros jugadores con \"Gems\"",
     "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <Cantidad> <Tasa>`",
-    "INVALID_GEM_RATE": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
-    "GEM_RATE_LIES": "{{user}} Debes ingresar un número entre **3.0** & **20.0**!",
+    "INVALID_GEM_RATE": "{{user}} Debes introducir un número entre **3.0** & **20.0**!",
+    "GEM_RATE_LIES": "{{user}} Debes introducir un número entre **3.0** & **20.0**!",
     "ALREADY_EXISTS": "{{author}} Ya tienes una oferta existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar una nueva",
     "PRODUCTS": "Tu lista:",
     "RATE": "Tasa:",

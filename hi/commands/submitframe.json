@@ -1,4 +1,5 @@
 {
     "SF_DESCRIPTION": "\"Frame\" जमा करता है",
-    "SF_CATEGORY": "सेटिंग्स"
+    "SF_CATEGORY": "सेटिंग्स",
+    "SF_CORRECT_USAGE": "सही इस्तेमाल: `{{prefix}}sf <ImageURL> <FrameName>`"
 }

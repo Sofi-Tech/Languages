@@ -6,7 +6,7 @@
     "CONTINUE": "¿Quieres transformar esta carta?",
     "MORPH_CONFIRMATION": "{{author}}, estás a punto de morphear `{{code}}` lo que cuesta `350 silvers`.\nPuedes usar <:noiressence:1115496193775116411> para hacer roll de un morph Monochrome `Sobel` o `Manga`.\n:warning: Los morphs no guardados se perderán si haces reroll o cancelas el morpheo.",
     "CANCELLED": "{{author}} cancelaste la transacción",
-    "NOT_ENOUGH_SILVERS": "{{author}} No tienes suficientes `Silver` para este proceso",
+    "NOT_ENOUGH_SILVERS": "{{author}} No tienes suficiente `Silver` para este proceso",
     "BALANCE": "Saldo : **{{amount}}** `Silver`",
     "NAME": "Nombre: `{{name}}`",
     "UNDO": "`Morphs` restablecidos: `  {{count}}  `",
