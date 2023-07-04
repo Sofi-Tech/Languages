@@ -1,5 +1,16 @@
 {
     "MAIL_DESCRIPTION": "Muestra tus \"Mails\"",
     "MAIL_CATEGORY": "Ajustes",
-    "MENU_PLACEHOLDER": "Abre el \"Mail\""
+    "MENU_PLACEHOLDER": "Abre el \"Mail\"",
+    "EMBED_AUTHOR": "{{username}} bandeja de entrada",
+    "EMBED_FOOTER": "Página: {{page}}/{{pagesNum}}",
+    "MARKED_ALL_READ": "{{author}} Todos los `Mails` fueron marcados como leídos",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Reclamado",
+    "CLAIMED_REWARD_ALREADY": "Ya has reclamado esta recompensa!",
+    "CLAIM_REWARD_BUTTON_LABEL": "Reclama tu recompensa",
+    "MAIL_OPEN_FOOTER": "Usa los botones para volver atrás o para reclamar recompensas",
+    "MAIL_REWARDS": "Recompensas",
+    "MAIL_FRAME": "`Frame`",
+    "NO_MAILS_FOUND": "{{author}} No tienes ningún `Mails` en tu bandeja de entrada",
+    "REWARD_CLAIM_INVENTORY": "Los `Items` adjuntos se han agregado a su `Inventory`"
 }

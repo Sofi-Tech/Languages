@@ -1,9 +1,9 @@
 {
     "TL_DESCRIPTION": "Muestra una lista con tus \"Tags\"",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "{{author}} No se puede encontrar ese usuario",
+    "NO_USER": "{{author}} No se ha podido encontrar ese usuario",
     "NO_TAGS": "{{author}} No se ha podido encontrar ningún tag",
     "EMBED_TITLE": "Lista de Tags: {{username}}",
-    "SOFI_FACT": "¡Un \"Tag\" con el nombre de \"lock\" y el emote de candado \"🔒\" evitará que quemes o regales cualquier tarjeta marcada con este Tag!\nEjemplo: \"{{prefix}}tc lock 🔒\"",
+    "SOFI_FACT": "¡Un \"Tag\" con el nombre de \"lock\" y el emote de candado \"🔒\" evitará que quemes o regales cualquier carta marcada con este Tag!\nEjemplo: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Cantidad de Tags: {{count}}"
 }

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Elimina tus ofertas del mercado",
     "CORRECT_USAGE": "{{user}} Por favor proporciona el ID de la oferta que quieres quitar del listado o usa el comando `smul all` para quitarlas todas a la vez",
-    "INVALID_DEAL_ID": "{{author}} El ID proporcionado es inválido o no es de tu oferta",
+    "INVALID_DEAL_ID": "{{author}} El ID proporcionado no es válido o no es de tu oferta",
     "SUCCESS_UL": "{{user}} La oferta `{{dealId}}` ha sido quitada de la lista con éxito del mercado",
     "NO_LISTINGS_FOUND": "{{user}} No tienes nada listado en el mercado actualmente",
     "SUCCESS_UL_ALL": "{{user}} Un total de `{{totalDeals}}` ofertas fueron quitadas con éxito del mercado"

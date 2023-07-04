@@ -9,6 +9,6 @@
     "FOOTER": "Reacciona con 🍻 para unirte | El anfitrión puede iniciar el juego presionando 🟢",
     "REQ_MORE_PLAYERS": "{{user}} Necesitas al menos 2 jugadores antes de poder iniciar el juego",
     "GUESS_THE_WORD": "Adivina la palabra dada: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} adivinó la palabra {{word}} correctamente y ganó `{{jackpot}} {{currency}}`!",
+    "CORRECT_GUESS": "{{winner}} adivinó la palabra {{word}} con éxito y ganó `{{jackpot}} {{currency}}`!",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}give <Usuario/IDUsuario> <CódigoDeCarta>"
 }

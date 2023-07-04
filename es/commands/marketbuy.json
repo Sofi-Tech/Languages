@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Compra \"Wists\" del mercado a cambio de \"Gems\"",
     "CORRECT_USAGE": "{{author}} Uso correcto:` {{prefix}}mbuy <IDDeOferta> <CantidadDeWists>`",
-    "INVALID_DEAL_ID": "{{author}} El ID de Oferta proporcionado es inválido",
+    "INVALID_DEAL_ID": "{{author}} El ID de Oferta proporcionado no es válido",
     "CANNOT_PURCHASE": "{{user}} No puedes comprar esa oferta",
     "CANNOT_SELF": "{{user}} No puedes interactuar con tu propia oferta",
     "WIST_NOT_EXCEED": "{{author}} Esta oferta solo tiene {{amount}}`Wists`restantes para comprar",

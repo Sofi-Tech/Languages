@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Establece tus \"Tags\" en tus cartas",
+    "TAG_DESCRIPTION": "Agrega tus \"Tags\" a tus cartas",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}t <CódigoDeCarta> <NombreDelTag>`",
     "NO_TAGS_CREATED": "{{author}} Aún no tienes ningún `Tag`. Puedes crearlo con el comando`{{prefix}}tc <NombreDelTag> <Emoticono>`",
     "TAG_NOT_FOUND": "{{author}} No tienes ningún `Tag` con el nombre `{{tag}}`",
-    "NO_CARDS_CLAIMED": "{{author}} Todavía no tienes ninguna carta en tu colección",
-    "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado es inválido",
-    "SUCCESSFUL_TAG": "{{author}} **{{card}}** tageada con éxito como `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas las cartas han sido `Tageadas` con éxito"
+    "NO_CARDS_CLAIMED": "{{author}} Aún no tienes ninguna carta en tu colección",
+    "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado no es válido",
+    "SUCCESSFUL_TAG": "{{author}} A **{{card}}** se le ha agregado el tag `{{tag}}` con éxito",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} A todas las cartas se les ha agregado el `Tag` con éxito"
 }

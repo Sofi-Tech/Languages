@@ -1,5 +1,11 @@
 {
     "VERIFY_TO_PLAY": "Verifica tu cuenta en <https://sofi.gg/verify> para jugar",
-    "COMMAND_COOLDOWN": "{{author}} **[{{command}}]** Espera por **{{cooldown}} antes de usar este comando otra vez",
-    "VERIFY_BUTTON_LABEL": "Verificar tu cuenta"
+    "COMMAND_COOLDOWN": "{{author}} **[{{command}}]** Espera **{{cooldown}} antes de usar este comando otra vez",
+    "VERIFY_BUTTON_LABEL": "Verificar tu cuenta",
+    "APPEAL_ACCEPTED": "# __¡Su apelación ha sido aceptada!__\n- Únase a nuestro [Servidor de soporte] oficial (https://discord.gg/XPsQKJjeD7) y cree un ticket en https://discord.com/channels/863226120245215262/9591761157238 channel para avanzar en su caso\n- Un miembro del personal lo atenderá lo antes posible, por favor absténgase de enviar mensajes directos o mencionar a los miembros del personal en cualquier canal con respecto a su boleto. Romper esta regla puede conducir a una permanente suspensión de nuestro servicio y Discord Server",
+    "VERSION_ACCEPTED": "Tu `Version` **{{charName}}** from **{{seriesName}}** fue aceptada. **3** <a:wist_spin:973031140581580820> han sido agregados a su inventario",
+    "VERSION_REJECTED": "Tu `Version` **{{charName}}** from **{{seriesName}}** fue rechazada. [Visita nuestro servidor de soporte para obtener más información](<https://discord.gg/RYawNnu6Pp>)",
+    "APPEAL_DENIED": "Después de investigar su caso, hemos llegado a la conclusión de rechazar su apelación. Su estado en la lista negra no se anulará y todas las nuevas apelaciones de ahora en adelante serán desestimadas.\n\n- Administración de Sofi",
+    "COMMAND_RUN_ERROR": "{{author}} Un error ocurrió tratando de ejecutar este comando. Por favor intente otra vez",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Tu `Inventory` contiene una valor negativo! Por favor contacta con nuestros desarrolladores en nuestro [Support Server] (https://discord.gg/Sofi) para arreglar esto"
 }

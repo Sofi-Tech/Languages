@@ -25,5 +25,5 @@
     "SUS_THING": "{{authorId}}, hizo algo sospechoso con el intercambio...",
     "DOES_NOT_WORK": "{{author}} No intentes abusar de errores, si encuentra algún error explotable, por favor repórtalo al Personal de Sofi directamente!",
     "SWAP_SUCCESSFULL": "Los cosméticos elegidos han sido `Swapped` con éxito",
-    "INVAILD_CODE": "{{author}} Al menos uno de los códigos proporcionados es inválido"
+    "INVAILD_CODE": "{{author}} Al menos uno de los códigos proporcionados no es válido"
 }

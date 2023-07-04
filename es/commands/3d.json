@@ -1,5 +1,5 @@
 {
-    "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado es inválido",
+    "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado no es válido",
     "3D_CATEGORY": "Cosméticos",
     "NO_GIF_CONVERSION": "{{author}} Las cartas `GIF` no pueden ser convertidas en variantes 3D",
     "CARD_3D_ALREADY": "{{author}} Esa carta ya está en su variante 3D",
@@ -11,6 +11,6 @@
     "3D_NOTE": "Estás a punto de convertir esta carta en su variante 3D. Este proceso modificará permanentemente tu carta y no podrá revertirse. La carta obtenida tendrá un \"Gen\" proporcional al anterior. Este proceso también eliminará cualquier \"Frame\" aplicado a la carta original",
     "NO_CUBES": "No tienes suficientes `Cubes`",
     "HALLOWEEN_3D_FAILED": "Un fantasma de Halloween ha infestado tu carta! El proceso de conversión ha fallado!",
-    "UPGRADED_3D": "Tu carta ha sido convertido con éxito en su variante 3D",
+    "UPGRADED_3D": "Tu carta ha sido convertida con éxito en su variante 3D",
     "UPGRADE_3D_CANCEL": "El proceso de conversión ha sido cancelado"
 }

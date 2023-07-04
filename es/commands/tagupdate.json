@@ -2,7 +2,7 @@
     "TU_DESCRIPTION": "Cambia el nombre o el emote de tus \"Tags\"",
     "TU_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}tagupdate <NombreDelTag>`",
-    "TAG_NOT_FOUND": "{{author}} No se ha podido encontró ningún `Tag` con el nombre `{{tag}}`",
+    "TAG_NOT_FOUND": "{{author}} No se ha podido encontrar ningún `Tag` con el nombre `{{tag}}`",
     "BUTTON_NAME_LABEL": "Nombre",
     "BUTTON_EMOJI_LABEL": "Emote",
     "EMBED_TITLE": "Actualizar Tag",
@@ -13,11 +13,11 @@
     "WRONG_TAGNAME_FORMAT": "{{author}} El nombre de tu `Tag` debe ser alfanumérico y no debe contener caracteres especiales, espacios ni insultos",
     "TAGNAME_LONG": "{{author}} El nombre de un `Tag` puede contener máximo 20 caracteres",
     "REPLACE_NAME_CONFIRMATION": "¿Estás seguro de que quieres cambiar el nombre del `Tag` de `{{oldTag}}` a `{{newTag}}`?",
-    "REPLACE_NAME_SUCCESSFULL": "El nombre de tu `Tag` se ha cambiado correctamente de `{{oldTag}}` a `{{newTag}}`",
+    "REPLACE_NAME_SUCCESSFULL": "El nombre de tu `Tag` se ha cambiado con éxito de `{{oldTag}}` a `{{newTag}}`",
     "PROCESS_TERMINATED": "El proceso ha sido cancelado",
     "REPLACE_EMOJI": "Introduce el emote por el que quieres sustituir a {{emoji}}",
     "TAGEMOJI_EXISTS": "{{author}} Ya existe un `Tag` con el emote {{newEmoji}}. Por favor, elije un emote diferente",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Ya existe un `Tag` con el emote {{newEmoji}}. Por favor, elije un emote diferente",
     "REPLACE_EMOJI_CONFIRMATION": "¿Estás seguro de que quieres cambiar el emote del `Tag` de {{oldEmoji}} a {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFULL": "El emote de este `Tag` ha sido actualizado correctamente de {{oldEmoji}} a {{newEmoji}}"
+    "REPLACE_EMOJI_SUCCESSFULL": "El emote de este `Tag` ha sido actualizado con éxito de {{oldEmoji}} a {{newEmoji}}"
 }
