@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "आपने खरीदे हुए फ्रेम का उपयोग कार्डों पर करें",
-    "UF_CATEGORY": "सौंदर्य उत्पाद",
-    "UF_INVALID_USAGE": "{{author}} सही इस्तेमाल: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके पास नहीं है कृपया जांच करके दुबारा कोशिश करे",
-    "CANNOT_APPLY": "आप 3D कार्डों पर फ्रेम लागू नहीं कर सकते",
-    "NO_GIF": "{{author}} जिफ कार्ड पर फ्रेम नहीं लगाया जा सकता",
-    "NO_FRAMES_FOUND": "{{author}} कोई फ्रेम नहीं मिला",
-    "EMBED_TITLE": "फ्रेम लागू करें:",
-    "UF_CONFIRMATION": "आप {{frameName}} लगाने जा रहे हैं।\nआपका कार्ड निम्नलिखित दिखेगा\n",
-    "EMBED_FOOTER": "कार्ड फ्रेम हो गया है। लागू किए गए फ्रेम को वापस इनवेंटरी में पाने के लिए undoframe कमांड का उपयोग करें",
+    "UF_DESCRIPTION": "पत्ते पर Frame लगाता है",
+    "UF_CATEGORY": "COSMETICS",
+    "UF_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} यह कार्ड कॉड अवैध है या आपके संग्रह में नहीं है कृपया जांच करके दुबारा कोशिश करे",
+    "CANNOT_APPLY": "{{author}}आप 3D पत्तो पर Frame नहीं लगा सकते है",
+    "NO_GIF": "{{author}} आप GIF पत्तो पर Frame नहीं लगा सकते",
+    "NO_FRAMES_FOUND": "{{author}} यह Frame कॉड अवैध है या आपकी Inventory में नहीं है",
+    "EMBED_TITLE": "APPLY FRAME:",
+    "UF_CONFIRMATION": "आप इस पत्ते पर **{{frameName}}** Frame लगाने जा रहे हैं",
+    "EMBED_FOOTER": "इस पत्ते पर पहले से ही Frame मौजूद है। दूसरी Frame लगाने से मौजूदा Frame नष्ट हो जाएगी!",
     "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
-    "FRAME_NOT_FOUND": "आपके पास वह फ्रेम नहीं है",
-    "UF_SUCCESSFULL": "सफलता"
+    "FRAME_NOT_FOUND": "{{author}} आपके पास **{{frameName}}** Frame नहीं है",
+    "UF_SUCCESSFULL": "यह Frame सफलतापूर्वक लगाई गई"
 }

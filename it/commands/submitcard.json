@@ -22,5 +22,6 @@
     "ENTER_EVENT_TYPE": "{{author}} Il tipo che hai inserito non è valido",
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} Non hai permessi sufficienti per inviare le immagini del `Event`",
     "PROVIDE_IMAGE_URL": "{{author}} L'URL dell'immagine che hai fornito non è valido",
-    "PROVIDE_SOURCE_URL": "{{author}} Fornisci un URL di origine"
+    "PROVIDE_SOURCE_URL": "{{author}} Fornisci un URL di origine",
+    "SURE_DISCORD_LINK": "{{author}} Assicurati che l'immagine inviata sia ospitata su un server discord `cdn.discordapp.com` o `media.discordapp.net`"
 }

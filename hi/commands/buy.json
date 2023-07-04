@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Background राशि एक सकारात्मक मात्रा होनी चाहिए",
     "INVALID_BG_ID": "कृपया एक वैध Background ID प्रदान करें",
     "NO_ITEM_PROVIDED": "कोई Item प्राप्त नहीं हुआ कृपया दुबारा कोशिश करे",
-    "INVALID_AMOUNT": "दी गई मात्रा अमान्य है",
+    "INVALID_AMOUNT": "{{author}} दी गई {{eventItem}} मात्रा अमान्य है",
     "INVALID_ITEM_PROVIDED": "{{USER}} अवैध Item प्रदान किया गया है"
 }

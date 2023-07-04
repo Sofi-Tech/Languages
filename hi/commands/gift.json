@@ -1,4 +1,6 @@
 {
     "GIFT_CATEGORY": "पत्ते",
-    "GIFT_DESCRIPTION": "दूसरे खिलाड़ी को \"Event Items\" भेट करे"
+    "GIFT_DESCRIPTION": "दूसरे खिलाड़ी को \"Event Items\" भेट करे",
+    "GIFT_SLASH_DESC": "उपयोगकर्ता को पसंद कीजिए जिनको आपको भेट {{eventItem}} भेजनी है",
+    "INVALID_AMOUNT": "{{author}} दी गई {{eventItem}} मात्रा अमान्य है"
 }

@@ -1,7 +1,7 @@
 {
     "SI_CATEGORY": "Pengaturan",
-    "EMBED_AUTHOR": "Info: {{guildName}} | Awalan: {{prefix}} ({{blacklistPoints}})",
+    "EMBED_AUTHOR": "Server: {{guildName}} | Awalan: `{{prefix}}` ({{blacklistPoints}})",
     "SI_SPAWN_CHANNEL": "Channel Spawn",
     "SI_TOTAL_DROPS": "Total Drop",
-    "SI_DESCRIPTION": "Menampilkan Informasi server"
+    "SI_DESCRIPTION": "Tampilkan statistik server"
 }

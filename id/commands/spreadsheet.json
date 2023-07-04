@@ -1,9 +1,9 @@
 {
     "SHEET_CATEGORY": "Pengaturan",
-    "NO_GUILD_INFO": "> Tidak ada info guild yang ditemukan",
-    "CANNOT_DM": "> Tidak bisa mengirim pesan ke spreadsheet. Pastikan dms Anda terbuka",
-    "NO_COLLECTION": "> Tidak ada koleksi yang ditemukan",
-    "SHEET_DESCRIPTION": "Dapatkan file Csv untuk koleksi Anda",
-    "NO_VAULT_LOGS": "> Tidak ada log brankas",
-    "DM_FILE": "> Silakan periksa dms Anda untuk file.\nCatatan: Impor file dalam spreadsheet menggunakan tipe pemisah \"comma\"."
+    "NO_GUILD_INFO": "{{author}} Saat ini kamu tidak berada di guild",
+    "CANNOT_DM": "{{author}} Tidak dapat mengirimi anda file spreadsheet. Pastikan bahwa dm anda terbuka!",
+    "NO_COLLECTION": "{{author}} Anda tidak memiliki kartu dalam koleksi anda",
+    "SHEET_DESCRIPTION": "Buat file \".csv\" koleksi Anda",
+    "NO_VAULT_LOGS": "{{author}} Saat ini tidak ada log brankas",
+    "DM_FILE": "{{author}} Spreadsheet telah dikirimkan kepada Anda melalui pesan langsung.\n\n`Catatan: Saat mengimpor file ke dalam program excel atau spreadsheet, pastikan untuk mengatur pemisah ke \"koma\"`"
 }

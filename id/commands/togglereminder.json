@@ -1,6 +1,6 @@
 {
     "RM_CATEGORY": "Pengaturan",
-    "PROVIDE_REMINDER_NAME": "Berikan nama pengingat: {{availableReminders}}",
-    "REMINDER_DISABLED": "Anda tidak akan lagi diberitahu ketika {{reminder}} cd berakhir",
-    "REMINDER_ENABLED": "Anda akan diberi tahu ketika {{reminder}} cd berakhir"
+    "PROVIDE_REMINDER_NAME": "{{author}} Penggunaan yang benar: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_DISABLED": "{{author}} Anda tidak akan lagi diberi tahu ketika **`{{reminder}}`** anda sudah siap",
+    "REMINDER_ENABLED": "{{author}} Anda sekarang akan diberi tahu ketika **`{{reminder}}`** anda sudah siap"
 }

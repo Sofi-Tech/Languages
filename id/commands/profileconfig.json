@@ -1,11 +1,10 @@
 {
-  "PC_EMBED_TITLE": "SOFI: Konfigurasi profil",
-  "PC_INTRO": "<:_:979009081325019156> Intro: Mengatur intro profil",
-
-  "PURCHASE_BUTTON_LABEL": "Beli",
-  "AGREE_BUTTON_LABEL": "Konfirmasi",
-  "DISAGREE_BUTTON_LABEL": "Tidak, bawa aku kembali",
-  "INTRO_MENU_LABEL": "Pengenalan",
-  "INTRO_MENU_DESC": "Mengatur intro profil anda",
-  "PC_CATEGORY": "Pengaturan"
+    "PC_EMBED_TITLE": "SOFI: Konfigurasi profil",
+    "PC_INTRO": "<:_:979009081325019156> **Tentang Saya**: Mengatur pesan pengantar\n<:_:979009081325019156> **Karakter Favorit**: Pilih karakter favorit anda untuk ditampilkan di profil anda\n<:_:979009081325019156> **Tampilkan Kartu**: Pilih kartu untuk ditampilkan di profil anda\n<:_:979009081325019156> **Background**: Mengatur background untuk profil anda\n<:_:979009081325019156> **Warna Teks**: Gunakan `Glows` untuk mengubah warna teks profil anda\n<:_:979009081325019156> **Profile Glow**: Jadikan profil anda bersinar dengan salah satu `Glows` anda\n<:_:979009081325019156> **Tampilkan Penghargaan**: Tampilkan berbagai penghargaan di profil anda",
+    "PURCHASE_BUTTON_LABEL": "Beli",
+    "AGREE_BUTTON_LABEL": "Konfirmasi",
+    "DISAGREE_BUTTON_LABEL": "Kembali",
+    "INTRO_MENU_LABEL": "Tentang saya",
+    "INTRO_MENU_DESC": "Atur pesan pengantar",
+    "PC_CATEGORY": "Pengaturan"
 }
