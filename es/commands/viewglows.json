@@ -16,6 +16,6 @@
     "CODE": "`Código:   ` ➜ `#{{code}}`",
     "STATUS": "`Estado:   ` ➜ **{{status}}**",
     "TYPE": "`Tipo:   ` ➜ {{type}}",
-    "OWNER": "`Owner:   ` ➜ <@{{ownerId}}>",
+    "OWNER": "`Propietario:   ` ➜ <@{{ownerId}}>",
     "PURITY": "```Pureza :  ➜ {{purity}}```"
 }

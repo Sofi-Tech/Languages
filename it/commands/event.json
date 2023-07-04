@@ -27,5 +27,8 @@
     "ITEM_MENU_LABEL": "{{item}}",
     "ITEM_MENU_DESC": "Oggetto utile per tirare speciali morphs durante l'evento",
     "CHEST_MENU_LABEL": "{{item}} Chest",
-    "CHEST_MENU_DESC": "Una chest con 3 carte {{eventName}} casuali"
+    "CHEST_MENU_DESC": "Una chest con 3 carte {{eventName}} casuali",
+    "BG_MODAL_LABEL": "Numero di bgs",
+    "BG_MODAL_PLACEHOLDER": "Es: 2",
+    "BG_MODAL_TITLE": "SOFI: MNC 23 BGS"
 }

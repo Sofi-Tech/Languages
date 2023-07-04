@@ -1,5 +1,7 @@
 {
     "SF_DESCRIPTION": "\"Frame\" जमा करता है",
     "SF_CATEGORY": "सेटिंग्स",
-    "SF_CORRECT_USAGE": "सही इस्तेमाल: `{{prefix}}sf <ImageURL> <FrameName>`"
+    "SF_CORRECT_USAGE": "सही इस्तेमाल: `{{prefix}}sf <ImageURL> <FrameName>`",
+    "MAXIMUM_NAME_LENGTH": "{{author}} `Frame`का नाम अधिक से अधिक सिर्फ 20 ही वर्ण का हो सकता है",
+    "EMBED_TITLE": "SOFI: फ़्रेम सबमिशन के नियम"
 }

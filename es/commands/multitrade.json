@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Envía una solicitud de intercambio a otro jugador. Puede intercambiar varias cartas y 'artículos' simultáneamente con esta característica",
     "MENTION_USER": "{{author}} Mencione a un usuario con el que desee comerciar o use su ID",
-    "IN_TRADE": "{{user}} ¡ya estás en un trade activo! Cancela el anterior para comenzar uno nuevo",
+    "IN_TRADE": "{{user}} ¡Ya estás en un trade activo! Cancela el anterior para comenzar uno nuevo",
     "BOT_TRADE": "{{author}} No puedes comerciar con un `Bot`",
     "SELF_TRADE": "{{author}} No puedes comerciar contigo mismo",
     "NOT_REGISTERED": "{{author}} Ese usuario no está registrado!",

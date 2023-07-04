@@ -1,8 +1,8 @@
 {
     "GT_DESCRIPTION": "\"Glow Tags\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} No tienes ningún `Glow Tag` todavía. Puedes crearlos con el comando `{{prefix}}gtc <Nombre> <Emote>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} No tienes ningún `Glow` todavía",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Aún no tienes ningún `Glow Tag`. Puedes crearlos con el comando `{{prefix}}gtc <Nombre> <Emote>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} Aún no tienes ningún `Glow`",
     "MISSING_GLOWTAG": "{{author}} Tienes que proporcionar un `Glow Tag`",
     "INVALID_GLOW_CODE": "{{author}} Uno o más códigos de `Glow` proporcionados son inválidos",
     "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** ha sido tageado correctamente como `{{tag}}`",

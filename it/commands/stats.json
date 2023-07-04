@@ -27,5 +27,7 @@
     "EMBED_AUTHOR": "STATISTICHE",
     "STATS_MOVES": "**__Abilità__**",
     "DISABLE_STATS_UPGRADE": "Disabilita gli Aggiornamenti delle Statistiche",
-    "NO_UPRGADE_POINTS": "{{author}} Non hai ancora utilizzato alcun punto di upgrade"
+    "NO_UPRGADE_POINTS": "{{author}} Non hai ancora utilizzato alcun punto di upgrade",
+    "RESET_STATS_INFO": "Hai bisogno di 1 `Stat Reset` per ripristinare le statistiche di questa carta",
+    "RESET_STATS": "{{author}} Le statistiche della tua carta sono state azzerate"
 }

@@ -27,5 +27,7 @@
     "UI_BLACKLISTED": "In Lista Nera",
     "UI_GAME_BLACKLISTED": "- In Lista Nera di Gioco {{formattedDate}}",
     "UI_QUARANTINED": "In Quarantena",
-    "UI_UNVERIFIED": "Non Verificato"
+    "UI_UNVERIFIED": "Non Verificato",
+    "UI_VERIFIED": "Verificato",
+    "EMBED_AUTHOR": "{{username}} [{{status}}]"
 }

@@ -1,5 +1,6 @@
 {
     "PERMS_CATEGORY": "सेटिंग्स",
     "EMBED_TITLE": "कमांड को बंद या चालू की स्तिथि में पसंद कीजिए",
-    "WHITELISTING_INFO": "इच्छा सूचित कमांड इस चैनल में अपयोग में लिए जा सकते है"
+    "WHITELISTING_INFO": "इच्छा सूचित कमांड इस चैनल में अपयोग में लिए जा सकते है",
+    "WHITELISTING_USAGE": "उपयोग: `{{customPrefix}}permission whitelist <Commands>`"
 }

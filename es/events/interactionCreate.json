@@ -1,1 +1,5 @@
-{}
+{
+    "VERIFY_TO_PLAY": "Verifica tu cuenta en <https://sofi.gg/verify> para jugar",
+    "COMMAND_COOLDOWN": "{{author}} **[{{command}}]** Espera por **{{cooldown}} antes de usar este comando otra vez",
+    "VERIFY_BUTTON_LABEL": "Verificar tu cuenta"
+}
