@@ -12,7 +12,7 @@
     "EVENT": "Kaganapan",
     "SELF_INV_EMPTY": "{{author}} Ang iyong `inventory` ay walang laman",
     "USER_INV_EMPTY": "{{author}} Ang talaan ng kagamitan ng taong iyon ay walang laman",
-    "NO_BG_FOUND": "Ikaw ay walang kahit anong `Backgrounds`",
+    "NO_BG_FOUND": "{{author}} Ikaw ay walang kahit anong `Backgrounds`",
     "NO_ITEM_FOUND": "{{author}} Hindi natagpuan ang `Item` na iyon sa `inventory`",
-    "HIDE_INV": "Gamitin ang command na `{{prefix}}pvt inv` para gawing pribado ang iyong `Inventory`"
+    "HIDE_INV": "{{author}} Gamitin ang command na `{{prefix}}pvt inv` para gawing pribado ang iyong `Inventory`"
 }

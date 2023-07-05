@@ -14,5 +14,19 @@
     "EMBED_TITLE": "PAGPAPASA: **{{character}}**",
     "SUBMIT_CONFIRMATION": "Ikaw ay malapit nang magsumite ng {{isEventSubmission}}",
     "EVENT_CARD_CONFIRMATION": "{{type}} na `Event` card\n",
-    "USE_DISCORD_LINK": "<::979009081325019156> Siguraduhin na ang isinubmit na larawan ay naka-host sa mga server ng Discord na `cdn.discordapp.com` o `media.discordapp.net`"
+    "USE_DISCORD_LINK": "<::979009081325019156> Siguraduhin na ang isinubmit na larawan ay naka-host sa mga server ng Discord na `cdn.discordapp.com` o `media.discordapp.net`",
+    "VALID_CARD_DIMENSIONS": "{{author}} Ang sukat ng ipinadalang larawan ay dapat na **297** x **465** (Lapad x Taas)",
+    "CARD_EMBED_TITLE": "SOFI: Mga Gabay sa Pagsusubmit ng Card",
+    "CARD_ID_INVALID": "{{author}} Ang Card-ID na iyong isinubmit ay hindi valid",
+    "ENTER_EVENT_TYPE": "{{author}} Ang klase na iyong inilagay ay hindi valid",
+    "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} Walang sapat na pahintulot ang iyong account upang magsumite ng mga imahe ng `Event`",
+    "PROVIDE_IMAGE_URL": "{{author}} Ang URL ng larawan na ibinigay mo ay hindi wasto",
+    "PROVIDE_SOURCE_URL": "{{author}} Mangyaring magbigay ng isang source URL",
+    "SURE_DISCORD_LINK": "{{author}} Siguruhin na ang ipinadalang larawan ay naka-host sa `cdn.discordapp.com` o `media.discordapp.net` ng server ng Discord",
+    "VALID_IMAGE_URL": "{{author}} Ang imahe ay kailangang `PNG` o `JPG` file",
+    "SC_CATEGORY": "Settings",
+    "UPSCALE_IMAGE_SITE": "Upscale Image: [Waifu2x](https://deepai.org/machine-learning-model/waifu2x)",
+    "TOTAL_EVENT_2D": "`2D Event` kards: {{totalEventCards}}",
+    "TOTAL_EVENT_3D": "`3D Event` kards: {{totalEventCards}}",
+    "EMBED_FOOTER": "Ang iyong mga Submission: {{userStats}/{{submitted}} | Global: {{globalStats}/{{allSubmit}}"
 }
