@@ -6,7 +6,7 @@
     "ALBUM_NAME_ERROR": "Album का नाम अक्षर-संख्यात्मक होना चाहिए और उनमें ये नहीं होने चाहिए,\n- विशेष वर्ण(zalgo)\n- बीच में जगह\n- बड़ी वर्तनी के अक्षर",
     "ALBUM_NAME_LONG": "{{author}} Album का नाम बहुत लंबा है। 20 अक्षर से कम ही नाम दर्ज करे",
     "MAX_ALBUMS": "{{author}} प्रत्येक खिलाड़ी केवल 10 Album तक ही रख सकता है",
-    "ALBUM_NAME_EXISTS": "{{author}} नाम के साथ Album `{{name}}` पहले से ही मौजूद है",
+    "ALBUM_NAME_EXISTS": "{{author}} नाम के साथ Album **{{name}}** पहले से ही मौजूद है",
     "ALBUM_CREATE_CONFIRMATION": "आप {{albumName}} के साथ एक Album बनाने जा रहे है । \nAlbum बनाना मुफ्त होता है लेकिन पृष्ठ एक से अधिक होने की स्थिति में Silvers की जरूरत होती है\nAlbum को सुचारू रूप से जचाने(Config) के लिए `salbumconfig/sacf` का उपयोग करें",
     "BUTTON_ACCEPT": "पुष्टि करे",
     "BUTTON_DENY": "अभी नहीं",

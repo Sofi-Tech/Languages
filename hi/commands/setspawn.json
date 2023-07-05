@@ -3,5 +3,6 @@
     "SS_CATEGORY": "सेटिंग्स",
     "SS_SLASH_DESC": "चैनल पसंद कीजिए",
     "SS_MENTION_CHANNEL": "{{author}} सही इस्तेमाल: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-    "SS_DISABLE": "{{author}} अब से इस सर्वर में पत्ते स्पाॅन नहीं होंगे"
+    "SS_DISABLE": "{{author}} अब से इस सर्वर में पत्ते स्पाॅन नहीं होंगे",
+    "SS_ENABLE": "{{author}} स्पाॅन चैनल {{channel}} पर स्थापित हो गया है"
 }

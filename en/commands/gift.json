@@ -6,7 +6,7 @@
     "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <User> <Amount>`",
     "INVALID_USER": "{{author}} You cannot gift `{{eventItem}}` to yourself",
     "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of `{{eventItem}}`",
-    "NOT_ENOUGH_ITEM": "You do not have **{{amount}}** `{{eventItem}}`",
+    "NOT_ENOUGH_ITEM": "{{author}} You do not have **{{amount}}** `{{eventItem}}`",
     "PLAYER_NOT_EXISTS": "{{author}} That player does not exist",
     "GIFT_SUCCESSFULL": "{{author}} has gifted **{{amount}}** `{{eventItem}}` to {{user}}\n{{user}} has received a total of **{{recieveCount}}** `{{eventItem}}`"
 }

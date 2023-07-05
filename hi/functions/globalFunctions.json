@@ -2,5 +2,8 @@
     "GUILD_FOUNDER": "संस्थापक",
     "GUILD_MASTER": "गिल्ड का गुरु",
     "GUILD_VETERANS": "वेटेरेंस",
-    "GUILD_ADVENTURER": "मुसाफ़िर"
+    "GUILD_ADVENTURER": "मुसाफ़िर",
+    "NOT_ENOUGH_AMOUNT": "आपके पास खरीदी करने के लिए पर्याप्त `{{item}}` नहीं है",
+    "BUY_EMBED_TITLE": "सौदा:",
+    "YOU_PAY": "आप चुकाओगे: {{additionalInfo}}"
 }
