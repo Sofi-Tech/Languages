@@ -1,5 +1,7 @@
 {
     "NO_MAILS_FOUND": "{{author}} Du hast keine `Mails` in deinem Posteingang",
     "MAIL_DESCRIPTION": "Zeigt deine \"Mails\" an",
-    "MAIL_CATEGORY": "Einstellungen"
+    "MAIL_CATEGORY": "Einstellungen",
+    "MENU_PLACEHOLDER": "Öffne eine \"Mail\"",
+    "EMBED_AUTHOR": "Posteingang von {{username}}"
 }

@@ -1,3 +1,5 @@
 {
-    "EXTRA_GRAB": "<@{{userId}}> Dein **Extra Grab** wird verwendet. Du hast noch `{{remaining}}` übrig"
+    "EXTRA_GRAB": "{{user}} Dein **Extra Grab** wird verwendet. Du hast noch **{{remaining}}** übrig",
+    "GRAB_COOLDOWN": "{{user}} Dein `Grab` ist in eine weitere Abklingzeit von {{cooldown}}",
+    "EVENT_GRAB": "{{user}} hat **{{amount}}** `{{eventItem}}`🍙 abgeholt"
 }

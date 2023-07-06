@@ -1,4 +1,4 @@
 {
-    "PROVIDE_FILTER": "{{author}} कृपया करके अलगीकरण विधि के साथ फिल्टर प्रदान किजिए",
-    "PROVIDE_CATEGORY": "{{author}} कृपया करके इनमें से कोई एक श्रेणी उपलब्ध कीजिए```apache\n{{categories}}```"
+    "PROVIDE_FILTER": "{{author}} जिस क्रम से आप पत्ते देखना चाहते है वह प्रदान करे",
+    "PROVIDE_CATEGORY": "{{author}} कृपया करके इनमें से कोई एक वर्ग प्रदान करे```apache\n{{categories}}```"
 }

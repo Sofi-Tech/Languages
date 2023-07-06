@@ -1,5 +1,6 @@
 {
     "PERMS_DESCRIPTION": "Bestimmte Befehle in einem Kanal werden auf die schwarze/weiße Liste gesetzt",
     "EMBED_TITLE": "Befehle umschalten",
-    "PERMS_CATEGORY": "Einstellungen"
+    "PERMS_CATEGORY": "Einstellungen",
+    "WHITELISTING_USAGE": "Verwendung: `{{customPrefix}}Berechtigungs-Whitelist <Befehle>`"
 }

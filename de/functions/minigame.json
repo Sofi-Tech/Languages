@@ -1,3 +1,5 @@
 {
-    "EXTRA_GRAB": "<@{{userId}}> Dein **Extra Grab** wird verwendet. Du hast noch `{{remaining}}` übrig"
+    "EXTRA_GRAB": "{{user}} Dein **Extra Grab** wird verwendet. Du hast noch **{{remaining}}** übrig",
+    "EMBED_TITLE": "SOFI: MINISPIEL",
+    "GRAB_COOLDOWN": "{{user}} Du musst {{cooldown}} warten, um eine weitere Karte zu erhalten"
 }

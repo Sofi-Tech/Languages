@@ -1,5 +1,6 @@
 {
     "SS_DESCRIPTION": "Setzt den Spawn-Kanal auf dem Server",
     "SS_SLASH_DESC": "Wähle einen Kanal aus",
-    "SS_CATEGORY": "Einstellungen"
+    "SS_CATEGORY": "Einstellungen",
+    "SS_MENTION_CHANNEL": "{{author}} Korrekte Verwendung: `{{prefix}}ss <#ChannelMention/ChannelID>`"
 }

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Sendet eine Handelsanfrage an einen anderen Spieler. Sie können mehrere Karten und \"Items\" gleichzeitig mit dieser Funktion handeln.",
     "MENTION_USER": "{{author}} Erwähnen Sie einen Benutzer, mit dem Sie handeln möchten, oder verwenden Sie dessen ID",
-    "IN_TRADE": "{{user}} Du hast bereits einen trade an jemanden gesendet! Breche zuerst die vorherige ab, bevor du eine neue startest",
+    "IN_TRADE": "{{user}} Du hast bereits einen trade an jemanden gesendet! Breche die vorherige ab, bevor du eine neue startest",
     "BOT_TRADE": "{{author}} Sie können nicht mit einem `Bot` handeln",
     "SELF_TRADE": "{{author}} Sie können nicht mit sich selbst handeln",
     "NOT_REGISTERED": "{{user}} ist noch nicht registriert!",

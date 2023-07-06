@@ -54,5 +54,7 @@
     "SHOWING_ACHS": "Ecco un elenco dei tuoi successi:",
     "PROVIDE_ACH_ID": "I badge dei risultati vengono visualizzati da sinistra a destra, inserisci i loro numeri di conseguenza",
     "SET_CARD_CONFIRM": "Stai per impostare **{{card}}** come tua carta visualizzazione",
-    "PC_CHARACTER_NOT_FOUND": "{{author}} Non è riuscito a trovare nessun carattere con quel nome"
+    "PC_CHARACTER_NOT_FOUND": "{{author}} Non è riuscito a trovare nessun carattere con quel nome",
+    "SELECT_FROM_OPTIONS": "**Seleziona uno dei seguenti caratteri**:\n\n{{charPages}}",
+    "SELECT_CHAR_MENU": "Usa il menu qui sotto per selezionare un carattere"
 }

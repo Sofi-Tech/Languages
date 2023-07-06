@@ -1,4 +1,5 @@
 {
     "EMBED_TITLE": "Captcha Karte",
-    "EXTRA_GRAB": "<@{{userId}}> Dein **Extra Grab** wird verwendet. Du hast noch `{{remaining}}` übrig"
+    "EXTRA_GRAB": "{{user}} Dein **Extra Grab** wird verwendet. Du hast noch **{{remaining}}** übrig",
+    "EMBED_FOOTER": "Erhalte die oben genannte Karte, indem du das Captcha schreibst"
 }

@@ -1,5 +1,5 @@
 {
-    "EXTRA_GRAB": "{{userId}} Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti",
+    "EXTRA_GRAB": "{{user}} Il tuo **Extra Grab** è in uso. Hai **{{remaining}}** rimanenti",
     "GRAB_CARD_PLURAL": "{{winner}} ha combattuto altri **{{userCount}}** giocatori e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
     "GRAB_COOLDOWN": "{{user}} il tuo `Grab` è in cooldown per altri {{cooldown}}",
     "EVENT_GRAB": "{{user}} ha raccolto **{{amount}}** `{{eventItem}}`🍙",

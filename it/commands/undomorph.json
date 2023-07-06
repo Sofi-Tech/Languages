@@ -1,7 +1,7 @@
 {
     "UM_DESCRIPTION": "Rimuove la \"Morph\" di una carta",
     "UM_CATEGORY": "Cosmetici",
-    "UM_INVALID_USAGE": "Fornisci un codice carta valido",
+    "UM_INVALID_USAGE": "{{author}} Uso corretto: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione",
     "NO_CHARACTER": "{{author}} Quel personaggio non esiste più!",
     "NO_GIF": "{{author}} Non puoi rimuovere cosmetici da una carta `GIF`",

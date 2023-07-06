@@ -1,7 +1,7 @@
 {
     "TL_DESCRIPTION": "Zeigt eine Liste von Tags an",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "Dieser Benutzer existiert nicht.",
+    "NO_USER": "{{author}} Konnte diesen Benutzer nicht finden",
     "NO_TAGS": "{{author}} Es konnten keine Tags gefunden werden",
     "EMBED_TITLE": "Tag Liste: {{username}}",
     "SOFI_FACT": "Karten, die in „Tags“ mit einem Vorhängeschloss-Emoji „🔒“ versehen sind, können nicht verbrannt oder gehandelt werden! Beispiel: „{{prefix}}tc lock 🔒“",
