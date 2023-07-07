@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "एक Tag से दूसरे Tag में पत्ता स्थानांतरण करें",
-    "TT_CATEGORY": "TAGS",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}trt <fromTagName> <toTagName>`",
-    "TAG_NOT_FOUND": "`{{tag}}` नाम के साथ Tag नहीं मिला",
-    "TRANSFER_TAG_SUCCESSFULL": "`{{fromTag}}` से सभी पत्ते सफलतापूर्वक `{{toTag}}` में स्थानांतित किया गए"
+  "TT_DESCRIPTION": "एक Tag से दूसरे Tag में पत्ता स्थानांतरण करें",
+  "TT_CATEGORY": "TAGS",
+  "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}trt <fromTagName> <toTagName>`",
+  "TAG_NOT_FOUND": "`{{tag}}` नाम के साथ Tag नहीं मिला",
+  "TRANSFER_TAG_SUCCESSFUL": "`{{fromTag}}` से सभी पत्ते सफलतापूर्वक `{{toTag}}` में स्थानांतित किया गए"
 }

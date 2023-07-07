@@ -23,7 +23,7 @@
   "EMBED_CANCEL_TITLE": "SOFI: Aangepaste Frame Winkel",
   "EMBED_CANCEL_DESC": "Het proces is geannuleerd",
   "EDIT_DESC_ERROR": "{{author}} De door u ingediende beschrijving is ongeldig",
-  "EDIT_IMAGE_SUCCESSFULL": "Het proces is succesvol afgerond",
+  "EDIT_IMAGE_SUCCESSFUL": "Het proces is succesvol afgerond",
   "EDIT_FRAME_IMG_CONFIRM": "Weet je zeker dat je een `Frame` bewerkingsverzoek wilt versturen?",
   "EDIT_DESC_LONG": "Beschrijvingen kunnen maximaal 400 tekens bevatten",
   "EDIT_DESC_CONFIRM": "**Je staat op het punt de beschrijving van je `Frame` te wijzigen in:**\n\n\"{{newDescription}}\"",
@@ -38,5 +38,5 @@
   "MF_MENU_DESC": "\"Frames\" verkregen via \"Voting\"",
   "CF_MENU_LABEL": "Aangepaste \"Frames\"",
   "CF_MENU_DESC": "\"Frames\" ingediend door spelers",
-  "EDIT_DESC_SUCCESSFULL": "Het proces is succesvol afgerond"
+  "EDIT_DESC_SUCCESSFUL": "Het proces is succesvol afgerond"
 }

@@ -1,10 +1,10 @@
 {
-    "GT_DESCRIPTION": "标记已解锁的发光物",
-    "GT_CATEGORY": "标记",
-    "GLOWTAGS_NOT_FOUND": "{{author}}感谢标记，但未找到任何发光标记{{prefix}}",
-    "GLOWS_NOT_UNLOCKED": "{{author}}您还没有解锁任何发光物",
-    "MISSING_GLOWTAG": "{{author}}我猜你需要提供一个发光标记",
-    "INVALID_GLOW_CODE": "{{author}} 无效的发光代码或未找到发光物",
-    "SUCCESSFULL_GLOWTAG": "{{author}}成功地将 **{{glow}}** 标记为 {{tag}}",
-    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}}那些发光标记已成功标记"
+  "GT_DESCRIPTION": "标记已解锁的发光物",
+  "GT_CATEGORY": "标记",
+  "GLOWTAGS_NOT_FOUND": "{{author}}感谢标记，但未找到任何发光标记{{prefix}}",
+  "GLOWS_NOT_UNLOCKED": "{{author}}您还没有解锁任何发光物",
+  "MISSING_GLOWTAG": "{{author}}我猜你需要提供一个发光标记",
+  "INVALID_GLOW_CODE": "{{author}} 无效的发光代码或未找到发光物",
+  "SUCCESSFUL_GLOWTAG": "{{author}}成功地将 **{{glow}}** 标记为 {{tag}}",
+  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}}那些发光标记已成功标记"
 }

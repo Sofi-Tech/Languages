@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "Menghapus \"Morph\" dari sebuah kartu",
-    "UM_CATEGORY": "Kosmetik",
-    "UM_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}um <KodeKartu>`",
-    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
-    "NO_CHARACTER": "{{author}} Karakter tersebut sudah tidak ada lagi!",
-    "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
-    "NOT_MORPHED": "{{author}} Kartu tersebut tidak memiliki `Morph` yang digunakan",
-    "EMBED_TITLE": "HAPUS MORPH",
-    "UM_CONFIRMATION": "Apakah anda yakin ingin menghapus `Morph` kartu ini?\nProses ini akan dikenakan biaya **100** `Silver`",
-    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda",
-    "SOMETHING_WENT_WRONG": "{{author}} Ada yang salah, coba lagi",
-    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
-    "UM_SUCCESSFULL": "`Morph` berhasil dihapus"
+  "UM_DESCRIPTION": "Menghapus \"Morph\" dari sebuah kartu",
+  "UM_CATEGORY": "Kosmetik",
+  "UM_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}um <KodeKartu>`",
+  "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
+  "NO_CHARACTER": "{{author}} Karakter tersebut sudah tidak ada lagi!",
+  "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
+  "NOT_MORPHED": "{{author}} Kartu tersebut tidak memiliki `Morph` yang digunakan",
+  "EMBED_TITLE": "HAPUS MORPH",
+  "UM_CONFIRMATION": "Apakah anda yakin ingin menghapus `Morph` kartu ini?\nProses ini akan dikenakan biaya **100** `Silver`",
+  "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda",
+  "SOMETHING_WENT_WRONG": "{{author}} Ada yang salah, coba lagi",
+  "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
+  "UM_SUCCESSFUL": "`Morph` berhasil dihapus"
 }

@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Tinatanggal ang \"Glow\" sa isang card",
-    "UNG_CATEGORY": "Kagandahan",
-    "UNG_INVALID_USAGE": "Magbigay ng wastong cardcode",
-    "INVALID_CODE": "{{author}} Ang card code ay hindi valid o wala sa iyong koleksyon",
-    "NO_CHARACTER": "{{author}}Ang karakter na iyan ay wala na!",
-    "NO_GIF": "{{author}} Hindi mo maaaring tanggalin ang cosmetics ng isang `GIF` na card",
-    "NOT_GLOWED": "{{author}} Ang card na iyan ay walang `Glow` na naka-apply",
-    "EMBED_TITLE": "TINATANGGAL ANG GLOW",
-    "UNG_CONFIRMATION": "Sigurado ka bang gusto mong alisin ang `Glow` sa card na ito?\nAng prosesong ito ay nag hahalaga ng **100** `Silver`",
-    "EMBED_FOOTER": "Ang na tanggal na `Glow` ay hindi babalik sa iyong `Inventory`",
-    "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
-    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
-    "UNG_SUCCESSFULL": "Ang `Glow` ay matagumpay na natanggal"
+  "UNG_DESCRIPTION": "Tinatanggal ang \"Glow\" sa isang card",
+  "UNG_CATEGORY": "Kagandahan",
+  "UNG_INVALID_USAGE": "Magbigay ng wastong cardcode",
+  "INVALID_CODE": "{{author}} Ang card code ay hindi valid o wala sa iyong koleksyon",
+  "NO_CHARACTER": "{{author}}Ang karakter na iyan ay wala na!",
+  "NO_GIF": "{{author}} Hindi mo maaaring tanggalin ang cosmetics ng isang `GIF` na card",
+  "NOT_GLOWED": "{{author}} Ang card na iyan ay walang `Glow` na naka-apply",
+  "EMBED_TITLE": "TINATANGGAL ANG GLOW",
+  "UNG_CONFIRMATION": "Sigurado ka bang gusto mong alisin ang `Glow` sa card na ito?\nAng prosesong ito ay nag hahalaga ng **100** `Silver`",
+  "EMBED_FOOTER": "Ang na tanggal na `Glow` ay hindi babalik sa iyong `Inventory`",
+  "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
+  "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
+  "UNG_SUCCESSFUL": "Ang `Glow` ay matagumpay na natanggal"
 }

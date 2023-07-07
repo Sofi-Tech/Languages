@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "从您的卡片中删除\"Tags\"",
-    "UT_CATEGORY": "标签",
-    "INVALID_CODE": "{{author}}您的收藏里未有任何卡片",
-    "UNTAG_SUCCESSFULL": "**{{cardName}}**成功取消`Tag`的标签",
-    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
+  "UT_DESCRIPTION": "从您的卡片中删除\"Tags\"",
+  "UT_CATEGORY": "标签",
+  "INVALID_CODE": "{{author}}您的收藏里未有任何卡片",
+  "UNTAG_SUCCESSFUL": "**{{cardName}}**成功取消`Tag`的标签",
+  "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

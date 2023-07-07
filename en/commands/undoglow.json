@@ -1,15 +1,15 @@
 {
-    "UNG_DESCRIPTION": "Removes the \"Glow\" from a card",
-    "UNG_CATEGORY": "Cosmetics",
-    "UNG_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
-    "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
-    "NO_CHARACTER": "{{author}} That character no longer exists!",
-    "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
-    "NOT_GLOWED": "{{author}} That card has no `Glow` applied to it",
-    "EMBED_TITLE": "REMOVE GLOW",
-    "UNG_CONFIRMATION": "Are you sure you want to remove this card's `Glow`?\nThis process will cost **100** `Silver`",
-    "EMBED_FOOTER": "The removed `Glow` will not return to your `Inventory`",
-    "NO_OWNER": "{{author}} This card is no longer in your collection",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
-    "UNG_SUCCESSFULL": "The `Glow` was successfully removed"
+  "UNG_DESCRIPTION": "Removes the \"Glow\" from a card",
+  "UNG_CATEGORY": "Cosmetics",
+  "UNG_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
+  "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
+  "NO_CHARACTER": "{{author}} That character no longer exists!",
+  "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
+  "NOT_GLOWED": "{{author}} That card has no `Glow` applied to it",
+  "EMBED_TITLE": "REMOVE GLOW",
+  "UNG_CONFIRMATION": "Are you sure you want to remove this card's `Glow`?\nThis process will cost **100** `Silver`",
+  "EMBED_FOOTER": "The removed `Glow` will not return to your `Inventory`",
+  "NO_OWNER": "{{author}} This card is no longer in your collection",
+  "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
+  "UNG_SUCCESSFUL": "The `Glow` was successfully removed"
 }

@@ -2,5 +2,5 @@
   "PREFIX_DESCRIPTION": "设置Sofi在该服务器上的前缀",
   "PREFIX_CATEGORY": "设置",
   "PROVIDE_PREFIX": "{{author}} 正确使用方法： `{{prefix}}prefix <新前缀>`",
-  "PREFIX_SET_SUCCESSFULL": "{{author}} 该服务器的前缀已设置为 `{{prefix}}`"
+  "PREFIX_SET_SUCCESSFUL": "{{author}} 该服务器的前缀已设置为 `{{prefix}}`"
 }

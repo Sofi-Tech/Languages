@@ -2,5 +2,5 @@
   "PREFIX_DESCRIPTION": "Tentukan awalan Sofi untuk server ini",
   "PREFIX_CATEGORY": "Pengaturan",
   "PROVIDE_PREFIX": "{{author}} Penggunaan yang benar: `{{prefix}}prefix <NewPrefix>`",
-  "PREFIX_SET_SUCCESSFULL": "{{author}} Awalan untuk server ini telah diubah ke `{{prefix}}`"
+  "PREFIX_SET_SUCCESSFUL": "{{author}} Awalan untuk server ini telah diubah ke `{{prefix}}`"
 }

@@ -23,7 +23,7 @@
   "EMBED_CANCEL_TITLE": "SOFI: 定制画框商店",
   "EMBED_CANCEL_DESC": "该进程已被取消",
   "EDIT_DESC_ERROR": "{{author}} 你提交的描述无效",
-  "EDIT_IMAGE_SUCCESSFULL": "进程已成功完成",
+  "EDIT_IMAGE_SUCCESSFUL": "进程已成功完成",
   "EDIT_FRAME_IMG_CONFIRM": "你确定要发送一个 `画框` 编辑请求吗?",
   "EDIT_DESC_LONG": "描述只能包含最多 400 个字符",
   "EDIT_DESC_CONFIRM": "**您即将更改您的`画框`描述:**\n\n\"{{newDescription}}\"",
@@ -38,5 +38,5 @@
   "MF_MENU_DESC": "通过\"投票\"获得的\"画框\"",
   "CF_MENU_LABEL": "自定义\"画框\"",
   "CF_MENU_DESC": "玩家提交的\"画框\"",
-  "EDIT_DESC_SUCCESSFULL": "进程已成功完成"
+  "EDIT_DESC_SUCCESSFUL": "进程已成功完成"
 }

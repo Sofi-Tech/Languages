@@ -14,5 +14,5 @@
   "FORM_SG_CONFIRM": "以下のグローを使用してひとつのスーパーグローを作成します:**\n\n{{glowCodes}}\n\n**スーパーグローの作成中...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ スーパー${superGlowName}**",
 
   "MISSING_RESINS": "レジンが足りません",
-  "SUPER_GLOW_SUCCESSFULL": "スーパーグローの作成に成功しました:**\n\n{{glowCodes}}\n\n**スーパーグローの作成中...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ スーパー${superGlowName}**"
+  "SUPER_GLOW_SUCCESSFUL": "スーパーグローの作成に成功しました:**\n\n{{glowCodes}}\n\n**スーパーグローの作成中...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ スーパー${superGlowName}**"
 }

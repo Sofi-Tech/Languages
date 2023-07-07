@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "Transfère les cartes d'un \"Tag\" à l'autre",
-    "TT_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}trt <DepuisAncienTag> <VersNouveauTag>`",
-    "TAG_NOT_FOUND": "Impossible de trouver un `Tag` avec le nom: `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFULL": "Toutes les cartes du `Tag` {{fromTag}} ont été transférées avec succès vers `{{toTag}}`"
+  "TT_DESCRIPTION": "Transfère les cartes d'un \"Tag\" à l'autre",
+  "TT_CATEGORY": "Tags",
+  "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}trt <DepuisAncienTag> <VersNouveauTag>`",
+  "TAG_NOT_FOUND": "Impossible de trouver un `Tag` avec le nom: `{{tag}}`",
+  "TRANSFER_TAG_SUCCESSFUL": "Toutes les cartes du `Tag` {{fromTag}} ont été transférées avec succès vers `{{toTag}}`"
 }

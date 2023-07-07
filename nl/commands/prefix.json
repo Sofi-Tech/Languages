@@ -2,5 +2,5 @@
   "PREFIX_DESCRIPTION": "Stel de prefix van Sofi in voor deze server",
   "PREFIX_CATEGORY": "Instellingen",
   "PROVIDE_PREFIX": "{{author}} Gebruik: `{{prefix}}prefix <NieuwePrefix>`",
-  "PREFIX_SET_SUCCESSFULL": "{{author}} De prefix voor deze server is succesvol gezet naar `{{prefix}}`"
+  "PREFIX_SET_SUCCESSFUL": "{{author}} De prefix voor deze server is succesvol gezet naar `{{prefix}}`"
 }

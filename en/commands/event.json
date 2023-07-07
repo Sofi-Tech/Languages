@@ -54,7 +54,7 @@
   "GS_MODAL_TITLE": "Sofi: Gen Scratcher",
   "INVALID_AMOUNT_PROVIDED": "Invalid amount provided",
   "MISSING_EV_ITEM": "You are missing {{amount}} {{item}}",
-  "PURCHASE_SUCCESSFULL": "Purchase successfull",
+  "PURCHASE_SUCCESSFUL": "Purchase successfull",
   "CHEST_MODAL_LABEL": "Number of {{item}} chests",
   "CHEST_MODAL_PLACEHOLDER": "Eg: 2",
   "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",
@@ -62,5 +62,5 @@
   "ITEM_MODAL_PLACEHOLDER": "Eg: 10",
   "ITEM_MODAL_TITLE": "Sofi: {{item}}",
   "AMOUNT_BETWEEN": "The amount must be between 1 to 100",
-  "ITEM_PURCHASE_SUCCESSFULL": "Congrats! {{amount}} {{item}} were added to your inventory"
+  "ITEM_PURCHASE_SUCCESSFUL": "Congrats! {{amount}} {{item}} were added to your inventory"
 }

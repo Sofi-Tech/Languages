@@ -1,8 +1,8 @@
 {
-    "GUT_DESCRIPTION": "글로우를 해제합니다",
-    "GUT_CATEGORY": "태그",
-    "NO_GLOWS_FOUND": "아직 글로우를 잠금해제하지 않았습니다",
-    "WRONG_GLOWCODE_FORMAT": "글로우 코드는 #으로 시작합니다",
-    "INVALID_GLOWCODE": "유효하지 않은 글로우 코드이거나 글로우를 찾을 수 없습니다",
-    "GLOW_UNTAG_SUCCESSFULL": "${{glow}}를 성공적으로 해제했습니다"
+  "GUT_DESCRIPTION": "글로우를 해제합니다",
+  "GUT_CATEGORY": "태그",
+  "NO_GLOWS_FOUND": "아직 글로우를 잠금해제하지 않았습니다",
+  "WRONG_GLOWCODE_FORMAT": "글로우 코드는 #으로 시작합니다",
+  "INVALID_GLOWCODE": "유효하지 않은 글로우 코드이거나 글로우를 찾을 수 없습니다",
+  "GLOW_UNTAG_SUCCESSFUL": "${{glow}}를 성공적으로 해제했습니다"
 }

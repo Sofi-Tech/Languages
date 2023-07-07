@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
-    "UT_CATEGORY": "Etiketler",
-    "INVALID_CODE": "{{author}} Koleksiyonunuzda henüz kart yok",
-    "UNTAG_SUCCESSFULL": "**{{cardName}}**'karakterinin `Tag`ı başarıyla kaldırıldı",
-    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
+  "UT_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
+  "UT_CATEGORY": "Etiketler",
+  "INVALID_CODE": "{{author}} Koleksiyonunuzda henüz kart yok",
+  "UNTAG_SUCCESSFUL": "**{{cardName}}**'karakterinin `Tag`ı başarıyla kaldırıldı",
+  "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

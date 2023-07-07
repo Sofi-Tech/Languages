@@ -18,6 +18,6 @@
   "NO_CARD": "{{author}} The card is not in your collection anymore",
   "MORPH_CONFRIM": "The `Morph` has been successfully applied",
   "REROLL": "`Morphs` restored: `  {{count}}  `\n{{author}} Earliest `Morph` has already been restored. Roll again to continue",
-  "UNDO_SUCCESSFULL": "Successfully restored the previous `Morph` for **{{amount}}** {{emoji}}",
+  "UNDO_SUCCESSFUL": "Successfully restored the previous `Morph` for **{{amount}}** {{emoji}}",
   "MORPH_CANCELLED": "The `Morphing` process has been cancelled"
 }

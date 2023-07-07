@@ -23,7 +23,7 @@
   "EMBED_CANCEL_TITLE": "SOFI：カスタムフレームショップ",
   "EMBED_CANCEL_DESC": "プロセスがキャンセルされました",
   "EDIT_DESC_ERROR": "{{author}} 提出した説明が無効です",
-  "EDIT_IMAGE_SUCCESSFULL": "プロセスが正常に完了しました",
+  "EDIT_IMAGE_SUCCESSFUL": "プロセスが正常に完了しました",
   "EDIT_FRAME_IMG_CONFIRM": "`フレーム`の編集リクエストを送信してもよろしいですか？",
   "EDIT_DESC_LONG": "説明には最大400文字しか収まりません",
   "EDIT_DESC_CONFIRM": "**あなたはあなたの `フレーム` の説明を変更しようとしています:**\n\n\"{{newDescription}}\"",
@@ -38,5 +38,5 @@
   "MF_MENU_DESC": "「投票」によって入手された「フレーム」",
   "CF_MENU_LABEL": "カスタム「フレーム」",
   "CF_MENU_DESC": "プレイヤーによって提出された「フレーム」",
-  "EDIT_DESC_SUCCESSFULL": "プロセスが正常に完了しました"
+  "EDIT_DESC_SUCCESSFUL": "プロセスが正常に完了しました"
 }

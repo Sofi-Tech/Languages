@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Applique une \"Frame\" à votre carte",
-    "UF_CATEGORY": "Cosmetics",
-    "UF_INVALID_USAGE": "Utilisation correct: `{{prefix}}uf <CodeDeCarte> <NomDeFrame/CodeDeFrame>`",
-    "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
-    "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de `Frame` aux cartes `3D`",
-    "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de `Frame` à une carte `GIF`",
-    "NO_FRAMES_FOUND": "{{author}} Ce code de `Frame` est soit invalide ou alors n'est pas dans votre `Inventory`",
-    "EMBED_TITLE": "APPLIQUER UNE FRAME:",
-    "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer la `Frame` **{{frameName}}** à cette carte",
-    "EMBED_FOOTER": "La carte possède déjà une `Frame`. En appliquer une nouvelle détruira la précédente!",
-    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
-    "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la `Frame` **{{frameName}}**",
-    "UF_SUCCESSFULL": "La `Frame` a été appliquée avec succès"
+  "UF_DESCRIPTION": "Applique une \"Frame\" à votre carte",
+  "UF_CATEGORY": "Cosmetics",
+  "UF_INVALID_USAGE": "Utilisation correct: `{{prefix}}uf <CodeDeCarte> <NomDeFrame/CodeDeFrame>`",
+  "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
+  "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de `Frame` aux cartes `3D`",
+  "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de `Frame` à une carte `GIF`",
+  "NO_FRAMES_FOUND": "{{author}} Ce code de `Frame` est soit invalide ou alors n'est pas dans votre `Inventory`",
+  "EMBED_TITLE": "APPLIQUER UNE FRAME:",
+  "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer la `Frame` **{{frameName}}** à cette carte",
+  "EMBED_FOOTER": "La carte possède déjà une `Frame`. En appliquer une nouvelle détruira la précédente!",
+  "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
+  "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la `Frame` **{{frameName}}**",
+  "UF_SUCCESSFUL": "La `Frame` a été appliquée avec succès"
 }

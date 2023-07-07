@@ -1,10 +1,10 @@
 {
-    "GT_DESCRIPTION": "Adiciona uma \"Tag\" para seus \"Glows\"",
-    "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Você ainda não tem nenhuma `Glow Tag`. Você pode criar uma com o comando `{{prefix}}gtc <Nome> <Emoji>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} Você ainda não tem `Glows`",
-    "MISSING_GLOWTAG": "{{author}} Você precisa fornecer uma `Glow Tag`",
-    "INVALID_GLOW_CODE": "{{author}} Um ou mais dos `Glows` fornecidos são inválidos",
-    "SUCCESSFULL_GLOWTAG": "{{author}} **{{glow}}** teve a tag `{{tag}}` adicionada com sucesso",
-    "SUCCESSFULL_MULTIPLE_GLOWTAG": "{{author}} Todos os `Glows` tiveram uma tag adicionada com sucesso"
+  "GT_DESCRIPTION": "Adiciona uma \"Tag\" para seus \"Glows\"",
+  "GT_CATEGORY": "Tags",
+  "GLOWTAGS_NOT_FOUND": "{{author}} Você ainda não tem nenhuma `Glow Tag`. Você pode criar uma com o comando `{{prefix}}gtc <Nome> <Emoji>`",
+  "GLOWS_NOT_UNLOCKED": "{{author}} Você ainda não tem `Glows`",
+  "MISSING_GLOWTAG": "{{author}} Você precisa fornecer uma `Glow Tag`",
+  "INVALID_GLOW_CODE": "{{author}} Um ou mais dos `Glows` fornecidos são inválidos",
+  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** teve a tag `{{tag}}` adicionada com sucesso",
+  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Todos os `Glows` tiveram uma tag adicionada com sucesso"
 }

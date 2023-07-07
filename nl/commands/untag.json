@@ -1,7 +1,7 @@
 {
-    "UT_DESCRIPTION": "Verwijder de \"Tags\" van uw kaarten",
-    "UT_CATEGORY": "Tags",
-    "INVALID_CODE": "U hebt geen kaarten in uw inventaris",
-    "UNTAG_SUCCESSFULL": "**{{cardName}}** heeft zijn `Tag` met succes verwijdert",
-    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
+  "UT_DESCRIPTION": "Verwijder de \"Tags\" van uw kaarten",
+  "UT_CATEGORY": "Tags",
+  "INVALID_CODE": "U hebt geen kaarten in uw inventaris",
+  "UNTAG_SUCCESSFUL": "**{{cardName}}** heeft zijn `Tag` met succes verwijdert",
+  "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }
