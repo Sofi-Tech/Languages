@@ -27,7 +27,7 @@
     "PBG_MENU_DESC": "Pakinangin ang iyong profile gamit ang isa sa iyong mga \"Glows\"",
     "PC_MENU_PLACEHOLDER": "Pumili ng Kategorya",
     "AD_MENU_DESC": "Idisplay ang ibat ibang awards sa iyong profile",
-    "INPUT_INTRO": "About Me:\nMag sulat na ng mensahe",
+    "INPUT_INTRO": "Introduksyon:\nMag sulat na ng mensahe",
     "TYPE_FAV_CHAR": "Isulat ang pangalan ng iyong paburitong karakter",
     "PROVIDE_FAV_CC": "Isulat ang code ng card na nais mong idisplay sa iyong profile",
     "PBG_MENU_LABEL": "Glow Ng Profile",
@@ -44,5 +44,7 @@
     "PROVIDE_PBG_ID": "{{author}} Mangyaring ilagay ang ID ng profile background",
     "FAV_CHAR_MENU_PLACEHODLER": "Pumili ng Karakter",
     "NON_TRADABLE_FOOTER": "Ang mga items na ito ay hindi maaaring ibigay at iaapply ito kapag binili",
-    "INTRO_TOO_LONG": "{{author}} ang intro ay hindi dapat lalampas sa 90 na karakters"
+    "INTRO_TOO_LONG": "{{author}} ang intro ay hindi dapat lalampas sa 90 na karakters",
+    "BG_MENU_LABEL": "Background",
+    "AD_MENU_LABEL": "Ipakita ang mga Awards"
 }

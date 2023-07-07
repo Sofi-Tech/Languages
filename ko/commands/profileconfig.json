@@ -19,5 +19,13 @@
     "INTRO_MENU_DESC": "소개 메시지를 설정하세요",
     "SC_MENU_DESC": "프로필에 표시할 카드를 선택하세요",
     "PBG_MENU_DESC": "프로필에 자신의 \"Glow\" 중 하나로 반짝이는 효과를 줍니다",
-    "PC_DESCRIPTION": "프로필을 사용자 정의하세요"
+    "PC_DESCRIPTION": "프로필을 사용자 정의하세요",
+    "AD_MENU_LABEL": "수상 표시",
+    "CAN_MENU_LABEL": "취소하기",
+    "AD_MENU_DESC": "프로필에 다양한 수상을 표시하세요",
+    "CAN_MENU_DESC": "이 임베드를 종료합니다",
+    "PC_MENU_PLACEHOLDER": "카테고리를 선택하세요",
+    "TYPE_INTRO": "{{user}} \"**About Me**\" 섹션에 대한 메시지를 입력해주세요",
+    "INPUT_INTRO": "소개:\n지금 메시지를 입력하세요",
+    "TYPE_FAV_CHAR": "즐겨찾는 캐릭터의 이름을 입력하세요"
 }

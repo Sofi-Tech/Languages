@@ -44,5 +44,17 @@
     "MAXIMUM_PURCHASE_BG": "Maaari kang bumili ng hanggang 10 bgs sa isang pagkakataon",
     "BUY_BG_INFO": "- Bumili ng kahit anong event backgrounds sa halaga na <:silvercoin:915619222229512213> 5000 silver'",
     "AMOUNT_BETWEEN": "Ang halaga ay dapat nasa pagitan ng 1 hanggang 100",
-    "ITEM_PURCHASE_SUCCESSFULL": "Pagbati! {{amount}} {{item}} ay nailagay sa iyong inventory"
+    "ITEM_PURCHASE_SUCCESSFULL": "Pagbati! {{amount}} {{item}} ay nailagay sa iyong inventory",
+    "BG_BUTTON_LABEL": "BG",
+    "FRAMES_BUTTON_LABEL": "Mga Frames",
+    "EV_JOINED": " - Sumali",
+    "GS_MENU_LABEL": "Gen Scratcher",
+    "CHEST_MENU_LABEL": "{{item}} Chest",
+    "BG_EMBED_TITLE": "__Limitadong Oras Monochrome BGs__",
+    "FRAME_EMBED_TITLE": "__Limitadon Oras Monochrome Frames__",
+    "MAXIMUM_PURCHASE_FRAMES": "Maaari kang bumili ng hanggang sa 20 na mga frame",
+    "EV_EMBED_TITLE": "SOFI: TALAAN NG MGA NANGUNGUNA SA {{type}} EVENT",
+    "GS_MODAL_TITLE": "Sofi: Gen Scratcher",
+    "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",
+    "ITEM_MODAL_TITLE": "Sofi: {{item}}"
 }
