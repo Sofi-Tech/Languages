@@ -6,5 +6,5 @@
     "EMBED_FOOTER": "I-claim ang card na nasa itaas sa pamamagitan ng pagsulat ng captcha",
     "BATTLED_AND_WON": "{{winner}} ay tinalo si {{user}} at nakuha ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "TOOK_THE_CARD": "{{user}} ay kinuha ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "CANNOT_BE_GRABBED": "Ang card na ito ay hindi na maaaring makuha"
+    "CANNOT_BE_GRABBED": "Na-claim ni {{user}} ang **{{characterName}}** kard"
 }

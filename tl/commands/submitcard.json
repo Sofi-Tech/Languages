@@ -28,5 +28,11 @@
     "UPSCALE_IMAGE_SITE": "Upscale Image: [Waifu2x](https://deepai.org/machine-learning-model/waifu2x)",
     "TOTAL_EVENT_2D": "`2D Event` kards: {{totalEventCards}}",
     "TOTAL_EVENT_3D": "`3D Event` kards: {{totalEventCards}}",
-    "EMBED_FOOTER": "Ang iyong mga Submission: {{userStats}/{{submitted}} | Global: {{globalStats}/{{allSubmit}}"
+    "EMBED_FOOTER": "Ang iyong mga Submission: {{userStats}/{{submitted}} | Global: {{globalStats}/{{allSubmit}}",
+    "SUBMISSION_SUCCESSFUL": "Matagumpay mong naisumite ang larawan",
+    "CHARACTER_NAME": "Pangalan ng karakter: **{{character}}**",
+    "CARD_CONFIRMATION": "`Bersyon` variant\n",
+    "SERIES_NAME": "Serye: **{{series}}**",
+    "SOURCE": "Pinagmulan: **{{source}}**",
+    "SUBMISSION_DENY": "Kinansela mo ang proseso ng pagsusumite"
 }

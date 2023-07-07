@@ -1,9 +1,9 @@
 {
     "UB_DESCRIPTION": "पत्ते पे लगाया गई Background हटाएं",
-    "UB_CATEGORY": "COSMETICS",
+    "UB_CATEGORY": "सौंदर्य",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}undobg <CardCode>`",
-    "NO_CHARACTER_FOUND": "{{author}} कोई पत्ता नहीं मिला",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अवैध है या आपके संग्रह में नहीं है कृपया जांच करके दुबारा कोशिश करे",
+    "NO_CHARACTER_FOUND": "{{author}} वह पत्ता नहीं मिला",
+    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है कृपया जांच करके दुबारा कोशिश करे",
     "NO_GIF_CARD": "{{author}} GIF पत्तों पर Background नहीं होती है",
     "NO_BACKGROUND": "{{author}} पत्ते पर कोई Background नहीं है",
     "EMBED_TITLE": "Background हटाए",

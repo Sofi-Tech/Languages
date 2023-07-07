@@ -1,1 +1,6 @@
-{}
+{
+    "DROP_CARDS": "Zamanlayıcı bittiğinde, en çok oylanan seriden rastgele **2** kart oluşturulacak!\n",
+    "NO_VOTES": "Hiçbir seri oylanmadığı için kart üretimi iptal edilecek!",
+    "NOT_ENOUGH_CHARACTERS": "Seçilen seride kart oluşturmak için yeterli karakter yok",
+    "DROP_WILL_HAPPEN": "\nKartlar oluşturuluyor <t:{{timestamp}}:R>"
+}

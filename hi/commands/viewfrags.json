@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "कुल Fragments दिखाता है",
-    "COLLECTION_PVT": "{{author}} उपयोगकर्ता का संग्रह निजी है!",
-    "CANNOT_FIND_FRAGS": "{{user}} के संग्रह में कोई Frags नहीं मिले",
-    "FRAGS_COUNT": "Fragment संख्या: {{totalCount}}",
-    "FRAG_LIST": "Fragment List: {{userName}}"
+    "DESCRIPTION": "उपयोगकर्ता के उपलब्ध \"Fragments\" की सूची दिखाता है",
+    "COLLECTION_PVT": "{{author}} उपयोगकर्ता का \"Fragments\" संग्रह गुप्त है!",
+    "CANNOT_FIND_FRAGS": "{{user}} वे उपयोगकर्ता के संग्रह में कोई `Fragments` नहीं मिले",
+    "FRAGS_COUNT": "`Fragment` की संख्या: {{totalCount}}",
+    "FRAG_LIST": "\"Fragment\" की सूची: {{userName}}"
 }

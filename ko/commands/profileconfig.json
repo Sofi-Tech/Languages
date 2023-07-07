@@ -27,5 +27,10 @@
     "PC_MENU_PLACEHOLDER": "카테고리를 선택하세요",
     "TYPE_INTRO": "{{user}} \"**About Me**\" 섹션에 대한 메시지를 입력해주세요",
     "INPUT_INTRO": "소개:\n지금 메시지를 입력하세요",
-    "TYPE_FAV_CHAR": "즐겨찾는 캐릭터의 이름을 입력하세요"
+    "TYPE_FAV_CHAR": "즐겨찾는 캐릭터의 이름을 입력하세요",
+    "NEED_MIN_AWARDS": "이 옵션을 사용하려면 최소 **6**개의 수상이 필요합니다",
+    "VIEW_PROFILE_BGS": "[모든 사용 가능한 배경 보기](https://sofi.gg/profile/background)",
+    "NON_TRADABLE_NOTE": "위의 배경은 `아이템`으로 간주되지 않으며, 따라서 거래할 수 없으며 기존의 배경 이미지를 덮어씁니다",
+    "SET_FRAME_DESC": "다른 사람들이 볼 수 있도록 사용자 정의 프레임 상점에 대한 설명을 설정하세요.\n다음 형식으로 제공하세요: `<배너URL> <설명>`",
+    "PROVIDE_FAV_CC": "프로필에 표시하고 싶은 카드의 코드를 입력하세요"
 }

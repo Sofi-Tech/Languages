@@ -30,5 +30,6 @@
     "VALID_EVENT_3D_DIMENSIONS": "{{author}} Le dimensioni dell'immagine `3D Event` inviata devono essere **420** x **603** (Larghezza x Altezza)",
     "EMBED_TITLE": "SOTTOMISSIONE: **{{character}}**",
     "SUBMIT_CONFIRMATION": "Stai per inviare un {{isEventSubmission}}",
-    "EVENT_CARD_CONFIRMATION": "{{type}} `Event` carta\n"
+    "EVENT_CARD_CONFIRMATION": "{{type}} `Event` carta\n",
+    "SERIES_NAME": "SERIE: **{{series}}**"
 }

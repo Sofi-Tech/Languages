@@ -8,8 +8,8 @@
     "EMBED_GET_FIELD_NAME": "आप प्राप्त करते हैं:",
     "EMBED_GET_FIELD_VALUE": "```{{count}} अतिरिक्त इच्छा-सूची स्लॉट्स```",
     "EMBED_MAXED_DESCRIPTION": "क्या आप अपनी इच्छा-सूची स्लॉट्स को {{amount}} {{currency}} के लिए अधिकतम करना चाहते है?",
-    "EMBED_MAXED_FIELD_VALUE": "```एक अधिकतम 50 पसंदीदा-सूची स्लॉट ``",
-    "SUCCESS": "सफल",
+    "EMBED_MAXED_FIELD_VALUE": "``` अधिकतम तरह से खुली हुई इच्छा-सूची (50 slots) ```",
+    "SUCCESS": "सफलता",
     "CANCELLED": "रद्द किया गया",
     "PAY_ERROR": "`आपके पास {{amount}} {{currency}} नहीं हैं`"
 }

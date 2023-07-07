@@ -3,7 +3,7 @@
     "CATEGORY": "Listahan ng Ninanais",
     "ADD_CHARACTERS_ERROR": "> Hindi ka na makakapagdagdag pa ng mga karakter sa iyong wishlist",
     "SEARCH_CHARACTER_ERROR": "Magbigay ng pangalan ng karakter upang mailagay sa iyong wishlist\nGamitin ang `swa -f <name>` para sa eksaktong paghahanap",
-    "NO_CHARACTER_FOUND": "Hindi mahagilap ang karakter na iyan\nGamitin ang command na `swa -f <name>` para sa eksaktong paghahanap",
+    "NO_CHARACTER_FOUND": "Hindi mahanap ang karakter na iyon\nGamitin ang command na `swa -f <name>` para sa eksaktong paghahanap",
     "CHARACTER_ALREADY_EXISTS": "**{{name}}** ay nakalagay na sa iyong wishlist!",
     "CHARACTER_ADDED": "{{author}} Idinagdag si {{name}} sa iyong wishlist",
     "EMBED_TITLE": "<:lined:868888105611046942> __Idagdag sa wishlist__"

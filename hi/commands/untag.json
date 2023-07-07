@@ -1,7 +1,7 @@
 {
-  "UT_DESCRIPTION": "पत्ते से Tag हटाए",
-  "UT_CATEGORY": "TAGS",
-  "INVALID_CODE": "{{author}} आपके संग्रह में अभी तक कोई पत्ता नही है",
-  "UNTAG_SUCCESSFUL": "**{{cardName}}** को सफलतापूर्वक Untag किया गया है",
-  "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
+    "UT_DESCRIPTION": "आपके पत्तो से \"Tag\" हटाता है",
+    "UT_CATEGORY": "TAGS",
+    "INVALID_CODE": "{{author}} आपके संग्रह में अभी तक कोई भी पत्ता नही है",
+    "UNTAG_SUCCESSFUL": "**{{cardName}}** का `Tag` सफलतापूर्वक हटा दिया गया है",
+    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
 }

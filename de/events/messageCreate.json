@@ -10,7 +10,7 @@
     "SUSPICIOUS_TRANSACTIONS": "- In verdächtigen Transaktionen oder Handel involviert",
     "VERIFY_TO_PLAY": "Verifiziere dich auf <https://sofi.gg/verify>, um zu spielen",
     "USER_QUARANTINED": "Dieser Benutzer ist {{isQuarantined}}",
-    "USER_BLACKLISTED": "Dieser Benutzer ist blacklisted",
+    "USER_BLACKLISTED": "Dieser Benutzer ist auf der schwarzen Liste",
     "GLOBAL_COOLDOWN": "> [`Global`] Bitte warte {{cooldown}} bevor du diesen Befehl erneut benutzt",
     "COMMAND_BLACKLISTED": "> Der Befehl `{{commandName}}` ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "`Ich benötige: {{permissions}}, um diesen Befehl auszuführen`",

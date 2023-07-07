@@ -15,5 +15,19 @@
     "UI_GIVEN": "Naibigay",
     "USER_STATS": "__Stats ng User:__",
     "UI_3D_EDITS": "Na Edit Na 3Ds",
-    "UI_TRUST_FACTOR": "<:_:979009081325019156> mapagkatiwalaan: `{{val}}`"
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> mapagkatiwalaan: `{{val}}`",
+    "UI_GAME_BLACKLISTED": "- Na Blacklist Sa Laro: {{formattedDate}}",
+    "UI_CATEGORY": "Settings",
+    "UI_REFFERED": "Inirekomenda",
+    "PROFILE_BUTTON_LABEL": "Web Profile",
+    "UI_CARD_EDITS": "Na Edit Na Cards",
+    "UI_EVENT_EDITS": "Na Edit Na Events",
+    "UI_CASE_SOLVED": "Nalutas na Kaso",
+    "SPECIAL_INFO": "__Espesyal na Info:__",
+    "BLACKLIST_STATUS": "__Kalagayang Nasa Blacklist__",
+    "UI_BLACKLISTED": "Na Blacklist",
+    "UI_QUARANTINED": "Na Quarantine",
+    "UI_UNVERIFIED": "Hindi Verified",
+    "UI_VERIFIED": "Na Verify",
+    "EMBED_FOOTER": "Na Rehistro: noong {{date}}"
 }

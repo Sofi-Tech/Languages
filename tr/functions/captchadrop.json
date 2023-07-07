@@ -1,1 +1,10 @@
-{}
+{
+    "TOOK_THE_CARD": "{{user}}, **{{character}}** kartı aldı (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_AND_WON": "{{winner}}, {{user}} ile savaştı ve **{{character}}** kartı elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_WON_PLURAL": "{{winner}}, **{{userCount}}** diğer oyuncularlar ile savaştı ve **{{character}}** kartı elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "Captcha Kartı",
+    "EMBED_FOOTER": "Captcha'yı yazarak yukarıdaki karta sahip olun",
+    "EXTRA_GRAB": "{{user}} **Extra Grab** kullanılıyor. **{{remaining}}** hakkınız kaldı",
+    "WAIT_TO_CLAIM": "{{user}} Başka bir kart talep etmek için {{cooldown}} beklemeniz gerekir",
+    "CANNOT_BE_GRABBED": "{{user}}, **{{characterName}}** kartını elde etti"
+}

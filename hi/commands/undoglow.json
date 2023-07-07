@@ -1,15 +1,15 @@
 {
-  "UNG_DESCRIPTION": "पत्ते से Glow हटाता है",
-  "UNG_CATEGORY": "COSMETICS",
-  "UNG_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}ung <CardCode>`",
-  "INVALID_CODE": "{{author}} यह कार्ड कॉड अवैध है या आपके संग्रह में नहीं है कृपया जांच करके दुबारा कोशिश करे",
-  "NO_CHARACTER": "{{author}} यह पात्र अब मौजूद नहीं है!",
-  "NO_GIF": "{{author}} आप GIF पत्ते से सौंदर्य नहीं हटा सकते है",
-  "NOT_GLOWED": "{{author}} पत्ते में कोई Glow नहीं है",
-  "EMBED_TITLE": "REMOVE GLOW",
-  "UNG_CONFIRMATION": "क्या आप वाकई में पत्ते से Glow हटाना चाहते है?\nयह प्रक्रिया में **100** Silver खर्च होंगे",
-  "EMBED_FOOTER": "हटाया गया Glow आपकी Inventory में नहीं लौटेगा",
-  "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
-  "NOT_ENOUGH_SILVERS": "{{author}} आपके पास पर्याप्त मात्रा में Silver नहीं है",
-  "UNG_SUCCESSFUL": "Glow सफलतापूर्वक हटाया गया"
+    "UNG_DESCRIPTION": "पत्ते से Glow हटाता है",
+    "UNG_CATEGORY": "COSMETICS",
+    "UNG_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}ung <CardCode>`",
+    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है कृपया जांच करके दुबारा कोशिश करे",
+    "NO_CHARACTER": "{{author}} यह पात्र अब मौजूद नहीं है!",
+    "NO_GIF": "{{author}} आप GIF पत्ते से सौंदर्य नहीं हटा सकते है",
+    "NOT_GLOWED": "{{author}} पत्ते में कोई Glow नहीं है",
+    "EMBED_TITLE": "REMOVE GLOW",
+    "UNG_CONFIRMATION": "क्या आप वाकई में पत्ते से Glow हटाना चाहते है?\nयह प्रक्रिया में **100** Silver खर्च होंगे",
+    "EMBED_FOOTER": "हटाया गया Glow आपकी Inventory में नहीं लौटेगा",
+    "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
+    "NOT_ENOUGH_SILVERS": "{{author}} आपके पास पर्याप्त मात्रा में Silver नहीं है",
+    "UNG_SUCCESSFUL": "Glow सफलतापूर्वक हटाया गया"
 }

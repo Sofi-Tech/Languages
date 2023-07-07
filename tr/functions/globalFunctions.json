@@ -1,1 +1,16 @@
-{}
+{
+    "NEED_GEMS": "Bu satın alma işlemini gerçekleştirmek için **500** `Gems` e ihtiyacınız var",
+    "SOMETHING_WENT_WRONG": "Bir şeyler yanlış gitti! Düşülen herhangi bir \"Öğe\", `Inventory`ninize geri eklendi",
+    "GUILD_FOUNDER": "Kurucu",
+    "GUILD_MASTER": "Lonca Ustası",
+    "GUILD_VETERANS": "Gaziler",
+    "GUILD_ADVENTURER": "Maceracı",
+    "BUY_EMBED_TITLE": "İŞLEM:",
+    "YOU_PAY": "Şunu ödersiniz: {{additionalInfo}}",
+    "YOU_GET": "Aldığınız: {{additionalInfo}}",
+    "NOT_ENOUGH_AMOUNT": "Bu satın alma işlemini gerçekleştirmek için yeterli `{{item}}` ınız yok",
+    "SWAP_EMBED_TITLE": "Kod Değiştirme",
+    "CODE_ONE": "<:linedown:868888105611046942> Birinci Kod",
+    "CODE_TWO": "<:linedown:868888105611046942> İkinci Kod",
+    "SWAP_EMBED_FOOTER": "Bu işlem, bu iki kartın kart kodlarını değiştirecektir"
+}

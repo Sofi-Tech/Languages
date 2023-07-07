@@ -2,7 +2,7 @@
     "PC_CATEGORY": "Mga setting",
     "PC_EMBED_TITLE": "SOFI: Konfigurasyon Ng Profile",
     "PC_INTRO": "<:_:979009081325019156> **Introduction**: Mag lagay ng introductionary na mensahe\n<:_:979009081325019156> **Favorite Character**: Piliin ang iyong paburitong karakter na ididisplay sa iyong profile \n<:_:979009081325019156> **Display Card**: Pumili ng card na ididisplay sa iyong profile\n<:_:979009081325019156> **Background**: Mag lagay ng background sa iyong profile \n<:_:979009081325019156> **Text Color**: Gamitin ang iyong `Glows` para mapalitan ang kulay ng texto sa iyong profile \n<:_:979009081325019156> **Profile Glow**: Pakinangin ang iyong profile gamit ang isa sa iyong mga `Glows`\n<:_:979009081325019156> **Display Awards**: Ipakita ang mag kaka-ibang awards sa iyong profile",
-    "SELECT_CHAR_MENU": "Upang pumili ng karakter, gamitin ang ibinigay na menu ng pagpili sa ibaba.",
+    "SELECT_CHAR_MENU": "Gamitin ang menu sa ibaba para pumili ng karakter",
     "PURCHASE_BUTTON_LABEL": "Bilhin",
     "AGREE_BUTTON_LABEL": "Konfirm",
     "DISAGREE_BUTTON_LABEL": "Ibalik",
@@ -46,5 +46,15 @@
     "NON_TRADABLE_FOOTER": "Ang mga items na ito ay hindi maaaring ibigay at iaapply ito kapag binili",
     "INTRO_TOO_LONG": "{{author}} ang intro ay hindi dapat lalampas sa 90 na karakters",
     "BG_MENU_LABEL": "Background",
-    "AD_MENU_LABEL": "Ipakita ang mga Awards"
+    "AD_MENU_LABEL": "Ipakita ang mga Awards",
+    "SET_CARD_CONFIRM": "Ikaw ay paparating na itakda ang **{{card}}** bilang iyong display card",
+    "MAX_AWARDS_DISPLAY": "{{author}} Ikaw ay pwede lamang mag display ng hanggang **6** na awards sa iyong profile",
+    "SELECT_FROM_OPTIONS": "**Pumili ng isa sa mga sumusunod na mga karakter**:\n\n{{charPages}}",
+    "PC_CHARACTER_NOT_FOUND": "{{author}} Walang makitang kahit anong karakter na may ganiyang pangalan",
+    "CANNOT_SET_PG": "Ang `Glow` na sinubukan mong gamitin ay walang laman",
+    "SET_INTRO_CONFIRM": "Ikaw ay paparating na maglagay ng iyong pambungad na komento sa:\n\n> {{intro}}",
+    "SET_GLOW_CODE": "`Glow`: **{{glow}}**",
+    "SET_BG_CONFIRM": "Ikaw ay nalalapit ng bilhin ang background **{{selectedbg}}** sa halagang **{{amount}}** {{emoji}}",
+    "CANNOT_FIND_ACH": "{{user}} Wala kang kahit anong achievements sa mga sumusunod na mga ID: {{ids}}",
+    "SET_AWARDS_CONFIRM": "Ikaw ay nalalapit ng idisplay ang mga sumusunod na awards ({{awards}}) sa iyong profile"
 }

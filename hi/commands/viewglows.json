@@ -9,13 +9,13 @@
     "EMBED_TITLE": "ग्लो पैलेट:",
     "EMBED_FOOTER": "`{{prefix}}vg <GlowCode>` का उपयोग करे Glow देखने के लिए | कुल Glows : {{count}}",
     "SHOWING_PAGE": "पृष्ठ दिखा रहा है : {{page}}/{{totalPages}}",
-    "NO_GLOWS_FOUND": "{{author}} इस Tag {{tagName}} के साथ कोई Glow नहीं मिली",
-    "CANNOT_FIND_GLOW": "{{author}} `{{glowCode}}` कॉड से जुड़ी हुई कोई Glow नहीं मिली",
+    "NO_GLOWS_FOUND": "{{author}} इस \"**{{tagName}} **\" के नाम का कोई `Tag` नही मिला",
+    "CANNOT_FIND_GLOW": "{{author}} इस`{{glowCode}}` के कोड का कोई `Glow` नही मिला",
     "EMBED_GLOW_TITLE": "SOFI: GLOW",
-    "NAME": "`नाम: ` ➜ {{name}}",
-    "CODE": "`कोड: ` ➜ `#{{code}}`",
-    "STATUS": "`स्थिति: ` ➜ `{{status}}`",
-    "TYPE": "`प्रकार: ` ➜ {{type}}",
-    "OWNER": "`मौजूदा मालिक: ` ➜ <@{{ownerId}}>",
-    "PURITY": "```पवित्रता :  ➜ {{purity}}```"
+    "NAME": "`नाम:· · ·` ➜ {{name}}",
+    "CODE": "`कोड:· · ·` ➜ `#{{code}}`",
+    "STATUS": "`स्थिति:· · ·` ➜ `{{status}}`",
+    "TYPE": "`प्रकार:· · ·` ➜ {{type}}",
+    "OWNER": "`मौजूदा मालिक:· · ·` ➜ <@{{ownerId}}>",
+    "PURITY": "```पवित्रता :· ·➜ {{purity}}```"
 }

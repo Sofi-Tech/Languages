@@ -1,8 +1,12 @@
 {
     "GIFT_DESCRIPTION": "Verschenke \"Event-Items\" an einen anderen Benutzer",
     "GIFT_SLASH_DESC": "Wähle einen Benutzer aus, dem du `{{eventItem}}` schenken möchtest",
-    "INVALID_AMOUNT": "{{author}} Du kannst keine negative Menge an {{eventItem}}`verschenken",
+    "INVALID_AMOUNT": "{{author}} Du kannst keine negative Menge an `{{eventItem}}`verschenken",
     "GIFT_CATEGORY": "Karten",
     "GIFT_WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gift <User> <Amount>`",
-    "GIFT_SLASH_DESC2": "Gebe die Menge an `{{eventItem}}` ein, die du ihnen schenken möchtest"
+    "GIFT_SLASH_DESC2": "Gebe die Menge an `{{eventItem}}` ein, die du ihnen schenken möchtest",
+    "GIFT_SUCCESSFUL": "{{author}} hat {{user}} **{{amount}}** `{{eventItem}}`geschenkt\n{{user}} hat insgesamt **{{recieveCount}}** `{{eventItem}}`erhalten",
+    "INVALID_USER": "{{author}} Du kannst dir selbst keine `{{eventItem}}` schenken",
+    "NOT_ENOUGH_ITEM": "{{author}} Du besitzt keine **{{amount}}** `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}} Dieser Spieler existiert nicht"
 }

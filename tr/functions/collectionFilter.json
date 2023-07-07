@@ -1,1 +1,4 @@
-{}
+{
+    "PROVIDE_FILTER": "{{author}} Lütfen sıralama yönteminin yanında bir filtre sağlayın",
+    "PROVIDE_CATEGORY": "{{author}} Lütfen aşağıdaki kategorilerden birini girin ```apache\n{{categories}}```"
+}
