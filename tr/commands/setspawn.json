@@ -1,1 +1,8 @@
-{}
+{
+    "SS_DESCRIPTION": "Sunucudaki spawn kanalını ayarlar",
+    "SS_CATEGORY": "Ayarlar",
+    "SS_SLASH_DESC": "Bir kanal seçin",
+    "SS_MENTION_CHANNEL": "{{author}} Doğru kullanım: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+    "SS_ENABLE": "{{author}} Spawnlanma kanalı {{channel}} olarak ayarlandı",
+    "SS_DISABLE": "{{author}} Kartlar artık bu sunucuda spawnlanmayacak"
+}

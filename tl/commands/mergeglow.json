@@ -1,7 +1,7 @@
 {
     "MG_DESCRIPTION": "Nag \"Merge\" ng 4 na kakaibang \"Glows\" upang makakuha ng \"Resin\"",
     "MG_CATEGORY": "Kosmetiko",
-    "NO_GLOWS": "{{author}} Wala ka pang kahit anong `Glows`",
+    "NO_GLOWS": "{{author}} Ikaw ay wala pang kahit anong `Glows`",
     "GLOW_CODES_MISSING": "{{author}} Tamang pag-gamit: `{{prefix}}mg <GlowCode1><GlowCode2><GlowCode3><GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Ang mga sumusunod na `Glows` ay walang laman: `{{unavailableGlows}}`",
     "GLOW_CODES_UNIQUE": "{{author}} Kailangan mo ng 4 na kakaibang `Glows` sa prosesong ito",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
     "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNg Wist>`",
-    "INVALID_DEAL_ID": "{{author}} Ang Deal ID na iyong ibinigay ay hindi wasto",
+    "INVALID_DEAL_ID": "{{author}} Ang ibinigay na Deal ID ay hindi wasto",
     "CANNOT_PURCHASE": "{{user}} Hindi maaaring bilhin ang deal na iyon",
     "CANNOT_SELF": "{{user}} Hindi ka maaaring makipag-ugnayan sa iyong sariling deal",
     "WIST_NOT_EXCEED": "{{author}} Ang deal na ito ay merong {{amount}} `Wist` na natitira para bilhin",
@@ -15,7 +15,7 @@
     "PURCHASE_CANCELLED": "Ang deal na ito ay hindi na available",
     "MISSING_GEMS": "Ikaw ay may kulang na {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "May mali. Subukang muli",
-    "PURCHASE_SUCCESSFUL": "Matagumpay na naisagawa ang transaksyon",
+    "PURCHASE_SUCCESSFUL": "Ang transaksyon ay matagumpay na naisagawa",
     "SUCCESS": "{{wistAmount}} `Wists` ay nabili para sa **{{gemPrice}}** `Gems`!| Deal ID: {{dealId}}",
     "EMBED_TITLE": "MERKADO SA SOFII:"
 }

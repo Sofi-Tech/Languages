@@ -1,5 +1,6 @@
 {
     "EXTRA_GRAB": "{{user}} Dein **Extra Grab** wird verwendet. Du hast noch **{{remaining}}** übrig",
     "EMBED_TITLE": "SOFI: MINISPIEL",
-    "GRAB_COOLDOWN": "{{user}} Du musst {{cooldown}} warten, um eine weitere Karte zu erhalten"
+    "GRAB_COOLDOWN": "{{user}} Du musst **{{cooldown}}** warten, um eine weitere Karte zu erhalten",
+    "CLAIMED_CARD": "{{user}} hat die **{{character}}** Karte gewonnen (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

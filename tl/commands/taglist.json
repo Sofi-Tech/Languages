@@ -1,7 +1,7 @@
 {
-    "TL_DESCRIPTION": "Nagpapakita ng listahan ng iyong mga \"Tags\"",
+    "TL_DESCRIPTION": "Ipinakita ng listahan ng iyong mga \"Tags\"",
     "TL_CATEGORY": "Mga Tag",
-    "NO_USER": "{{author}} Ang user na iyan ay hindi nakarehistro",
+    "NO_USER": "{{author}} Ang user na ito ay hindi mahanap",
     "NO_TAGS": "{{author}} Walang tag na makita",
     "EMBED_TITLE": "Listahan ng Tag: {{username}}",
     "SOFI_FACT": "Ang \"Tags\" na merong pangalan na \"lock\" at kandadong emoji \"🔒\" ay mapipigilan kang sunugin o ibigay ang card na nasa tag na iyan!\nHalimbawa: \"{{prefix}}tc lock 🔒\"",

@@ -1,5 +1,7 @@
 {
     "RM_DESCRIPTION": "Schaltet deine Erinnerungen um",
     "PROVIDE_REMINDER_NAME": "{{author}} Korrekte Verwendung: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "RM_CATEGORY": "Einstellungen"
+    "RM_CATEGORY": "Einstellungen",
+    "REMINDER_DISABLED": "{{author}} Du wirst nicht mehr benachrichtigt wenn dein **`{{reminder}}`** bereit ist",
+    "REMINDER_ENABLED": "{{author}} Du wirst ab sofort benachrichtigt wenn dein **`{{reminder}}`** bereit ist"
 }

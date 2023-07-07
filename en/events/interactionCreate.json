@@ -10,7 +10,7 @@
     "VERIFY_TO_PLAY": "[Verify yourself on our website to play!](<https://sofi.gg/verify>)",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Wait **{{cooldown}}** before using this command again",
     "REQUIRE_PERMISSIONS": "{{author}} You require: **{{permissions}}** permissions to execute this command",
-    "COMMAND_COOLDOWN": "{{author}} **[{{command}}]** Wait for **{{cooldown}} before using this command again",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wait for **{{cooldown}}** before using this command again",
     "REGISTER_TO_PLAY": "{{author}} Please use the command `{{prefix}}register` to embark on your **Sofi** journey!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** is currently in safe mode! ETA: **{{eta}}**\nWe apologize for any inconveniences caused by this and ask for your patience!",
     "COMPLETE_COMMAND": "{{author}} Complete the `{{command}}` command first!"

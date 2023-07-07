@@ -24,7 +24,7 @@
     "PROVIDE_SOURCE_URL": "{{author}} Mangyaring magbigay ng isang source URL",
     "SURE_DISCORD_LINK": "{{author}} Siguruhin na ang ipinadalang larawan ay naka-host sa `cdn.discordapp.com` o `media.discordapp.net` ng server ng Discord",
     "VALID_IMAGE_URL": "{{author}} Ang imahe ay kailangang `PNG` o `JPG` file",
-    "SC_CATEGORY": "Settings",
+    "SC_CATEGORY": "Mga kaayusan",
     "UPSCALE_IMAGE_SITE": "Upscale Image: [Waifu2x](https://deepai.org/machine-learning-model/waifu2x)",
     "TOTAL_EVENT_2D": "`2D Event` kards: {{totalEventCards}}",
     "TOTAL_EVENT_3D": "`3D Event` kards: {{totalEventCards}}",
@@ -34,5 +34,7 @@
     "CARD_CONFIRMATION": "`Bersyon` variant\n",
     "SERIES_NAME": "Serye: **{{series}}**",
     "SOURCE": "Pinagmulan: **{{source}}**",
-    "SUBMISSION_DENY": "Kinansela mo ang proseso ng pagsusumite"
+    "SUBMISSION_DENY": "Kinansela mo ang proseso ng pagsusumite",
+    "VALID_EVENT_2D_DIMENSIONS": "{{author}} Ang sukat ng ibinigay na `2D Event`na larawan ay dapat may sukat na **297** x **465** (lapad x taas)",
+    "VALID_EVENT_3D_DIMENSIONS": "{{author}} Ang sukat ng ibinigay na `3D Event`na larawan ay dapat may sukat na **420** x **603** (lapad x taas)"
 }

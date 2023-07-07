@@ -17,5 +17,9 @@
     "CANCELLED": "ABGEBROCHEN",
     "PROCESSING": "Ihre Anfrage wird bearbeitet...<a:loading:876610443148406794>",
     "UNAVAILABLE": "Nicht verfügbar",
-    "AVAILABLE": "Verfügbar"
+    "AVAILABLE": "Verfügbar",
+    "ATTACK": "Angriffspunkte",
+    "DEFENSE": "Verteidigungspunkte",
+    "SPEED": "Geschwindigkeit",
+    "HP": "Lebenspunkte"
 }

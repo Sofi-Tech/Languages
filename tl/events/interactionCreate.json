@@ -10,7 +10,7 @@
     "VERIFY_BUTTON_LABEL": "magpatunay",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Mag-antay ng **{{cooldown}}** bago muling gamitin ang command",
     "REQUIRE_PERMISSIONS": "{{author}} Kailagan mo ng: **{{permissions}}** na permission upang maisagawa ang command",
-    "COMMAND_COOLDOWN": "{{author}} **[{{command}}]** Mag antay ng **{{cooldown}} bago muling gamitin ang command na ito",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Mag hintay ng **{{cooldown}}** bago muling gamitin ang command na ito",
     "REGISTER_TO_PLAY": "{{author}} Gamitin ang command na `{{prefix}}register`para masimulan ang iyong pag lalakbay sa **Sofi**!",
     "BOT_IN_SAFEMODE": "{{author}} Si **Sofi** ay kasulukuyang na sa safe mode! ETA: **{{eta}}**\nHumihingi kami ng paumanhin sa anumang abalang idinulot nito at humihiling ng inyong pasensya!",
     "COMPLETE_COMMAND": "{{author}} tapusin muna ang `{{command}}` na command!"

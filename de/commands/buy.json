@@ -6,8 +6,8 @@
     "NO_ITEM": "Bitte gib einen zu kaufenden Item an",
     "TRADEPASS_INFO": "Du kannst **__1x__** `Bump` gegen einen 4-Stunden `Trade Pass` eintauschen oder **__20x__** `Bump` ansparen um einen 30-Tage Trade Pass zu kaufen",
     "CORRECT_USAGE": "{{USER}} Korrekte Verwendung: `{{prefix}}buy bg <BackgroundID> <Menge>`",
-    "INVALID_BG_AMOUNT": "Gib keine negativen Mengen an!",
-    "INVALID_BG_ID": "Bitte gib eine gültige `Background`-ID an.",
+    "INVALID_BG_AMOUNT": "Gib keine negativen Mengen an",
+    "INVALID_BG_ID": "Bitte gib eine gültige `Background`-ID an",
     "NO_ITEM_PROVIDED": "Kein „Item“ angegeben",
     "INVALID_AMOUNT": "{{author}} Du kannst keine negative Menge an `{{eventItem}}`verschenken",
     "INVALID_ITEM_PROVIDED": "{{USER}} Ungültiges „Item“ angegeben"

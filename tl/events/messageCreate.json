@@ -15,7 +15,7 @@
     "COMMAND_BLACKLISTED": "> Ang command na `{{commandName}}` ay naka disable sa channel na ito",
     "REQUIRE_CLIENT_PERMISSIONS": "`Kailangan magkaroon ng: {{permissions}} upang maisagawa ang command na ito`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Kailangan mo ng: {{permissions}} para magamit ang command na ito`",
-    "COMMAND_COOLDOWN": "{{author}} **[{{command}}]** Mag antay ng **{{cooldown}} bago muling gamitin ang command na ito",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Mag hintay ng **{{cooldown}}** bago muling gamitin ang command na ito",
     "REGISTER_USER": "{{author}} Gamitin ang command na `{{prefix}}register` at bisitahin ang aming website upang ma-verify ang iyong sarili",
     "USER_COMMAND_QUEUE": "<@{{id}}> kailangan mo munang tapusin ang {{existsFor}} command bago ka magpatuloy",
     "AUTHOR_COMMAND_QUEUE": "Tapusin muna ang {{existsFor}} command bago magpatuloy",

@@ -1,8 +1,8 @@
 {
-  "GUT_DESCRIPTION": "Entfernt deine \"Glows Tags\"",
-  "GUT_CATEGORY": "Tags",
-  "NO_GLOWS_FOUND": "{{author}} Du hast derzeit noch keine `Glows`.",
-  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem **#**",
-  "INVALID_GLOWCODE": "{{author}} Die angegebenen `Glow` Codes sind ungültig",
-  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Tag erfolgreich von {{glow}} entfernt"
+    "GUT_DESCRIPTION": "Entfernt deine \"Glows Tags\"",
+    "GUT_CATEGORY": "Tags",
+    "NO_GLOWS_FOUND": "{{author}} Du besitzt derzeit noch keine `Glows`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem **#**",
+    "INVALID_GLOWCODE": "{{author}} Die angegebenen `Glow` Codes sind ungültig",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Tag erfolgreich von {{glow}} entfernt"
 }

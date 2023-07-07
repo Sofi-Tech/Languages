@@ -1,6 +1,6 @@
 {
     "MAIL_CATEGORY": "Mga setting",
-    "MENU_PLACEHOLDER": "Buksan ang mail!",
+    "MENU_PLACEHOLDER": "Magbukas ng \"Mail\"",
     "EMBED_AUTHOR": "Inbox ni {{username}}",
     "NO_MAILS_FOUND": "{{author}} Wala kang anumang `Mails` sa iyong inbox",
     "EMBED_FOOTER": "Pahina: {{page}}/{{pagesNum}}",
@@ -10,5 +10,7 @@
     "MAIL_OPEN_FOOTER": "Gumamit ng mga button upang bumalik o kunin ang mga premyo.",
     "MAIL_REWARDS": "Mga Premyo",
     "MAIL_DESCRIPTION": "Nagpapakita ng \"Mails\" mo",
-    "CLAIMED_REWARD_ALREADY": "Ikaw ay nakakuha na ng premyo!"
+    "CLAIMED_REWARD_ALREADY": "Ikaw ay nakakuha na ng premyo!",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Nakuha na",
+    "MAIL_FRAME": "`Frame`"
 }

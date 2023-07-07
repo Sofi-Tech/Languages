@@ -1,1 +1,4 @@
-{}
+{
+    "VERIFY_TO_PLAY": "[Verifiziere dich auf unserer Webseite um zu spielen!] <https://sofi.gg/verify>",
+    "COMMAND_COOLDOWN": ">{{author}} [`{{command}}`] Bitte warte **{{cooldown}}** bevor du diesen Befehl nochmal verwendest"
+}

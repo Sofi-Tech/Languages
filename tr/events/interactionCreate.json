@@ -12,5 +12,6 @@
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** şu anda güvenli modda! tahmini varış süresi: **{{eta}}**\nBunun neden olduğu rahatsızlıktan dolayı özür dileriz ve sabrınızı rica ederiz!",
     "COMPLETE_COMMAND": "{{author}} Önce `{{command}}` komutunu tamamlayın!",
     "REQUIRE_PERMISSIONS": "{{author}} Bu komutu yürütmek için **{{permissions}}** izinine ihtiyacınız var",
-    "VERIFY_BUTTON_LABEL": "Doğrulamak"
+    "VERIFY_BUTTON_LABEL": "Doğrulamak",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin"
 }

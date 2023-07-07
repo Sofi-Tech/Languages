@@ -1,1 +1,15 @@
-{}
+{
+    "EV_DESCRIPTION": "Event bilgisi hakkında her şeyi gösteren event komutu",
+    "EV_CATEGORY": "Kartlar",
+    "DROP_TASK": "{{amount}} Kez Düşürün",
+    "VOTE_TASK": "Etkinlik sırasında {{amount}} kez oy verin",
+    "MORPH_TASK": "{{amount}} Kez etkinlik kartı \"Morph\" layın",
+    "EVENT_STARTING": "Etkinlik başlama tarihi {{date}}",
+    "HOME_BUTTON_LABEL": "Ev",
+    "LB_BUTTON_LABEL": "Liderlik Sıralaması",
+    "LOTTERY_BUTTON_LABEL": "Piyango",
+    "DROP_BUTTON_LABEL": "\"Drop\"",
+    "GIFT_BUTTON_LABEL": "Hediye",
+    "RECIEVE_BUTTON_LABEL": "Al",
+    "RAIDS_BUTTON_LABEL": "Baskın Kazanımları"
+}
