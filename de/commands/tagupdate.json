@@ -16,8 +16,8 @@
     "REPLACE_NAME_SUCCESSFUL": "Der Name deines `Tags` wurde erfolgreich von `{{oldTag}}` in `{{newTag}}` geändert",
     "PROCESS_TERMINATED": "Dieser Vorgang wurde abgebrochen",
     "REPLACE_EMOJI": "Gib das Emoji ein, durch das du {{emoji}} ersetzen möchtest",
-    "TAGEMOJI_EXISTS": "{{author}} Ein „Tag“ mit dem Emoji {{newEmoji}} existiert bereits. Bitte wähle ein anderes Emoji",
-    "WRONG_TAGEMOJI_FORMAT": "{{author}} Ein „Tag“ mit dem Emoji {{newEmoji}} existiert bereits. Bitte wähle ein anderes Emoji",
-    "REPLACE_EMOJI_CONFIRMATION": "Bist du dir sicher, dass du den „Tag“-Emoji von {{oldEmoji}} in {{newEmoji}} ändern möchtest?",
+    "TAGEMOJI_EXISTS": "{{author}} Ein \"Tag\" mit dem Emoji {{newEmoji}} existiert bereits. Bitte wähle ein anderes Emoji",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Ein \"Tag\" mit dem Emoji {{newEmoji}} existiert bereits. Bitte wähle ein anderes Emoji",
+    "REPLACE_EMOJI_CONFIRMATION": "Bist du dir sicher, dass du den \"Tag\"-Emoji von {{oldEmoji}} in {{newEmoji}} ändern möchtest?",
     "REPLACE_EMOJI_SUCCESSFUL": "Das Emoji von diesem `Tag`-Emoji wurde erfolgreich von {{oldEmoji}} auf {{newEmoji}} aktualisiert"
 }

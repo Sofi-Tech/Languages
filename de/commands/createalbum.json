@@ -7,7 +7,7 @@
     "ALBUM_NAME_LONG": "{{author}} Ein `Album`-Name kann maximal 20 Zeichen enthalten",
     "MAX_ALBUMS": "{{author}} Du kannst maximal 10 `Albums` haben",
     "ALBUM_NAME_EXISTS": "{{author}} Ein `Album` mit dem Namen **{{name}}** existiert bereits",
-    "ALBUM_CREATE_CONFIRMATION": "Du bist dabei, ein `Album` mit dem Namen „{{albumName}}“ zu erstellen\nDas Erstellen eines `Albums` ist kostenlos, Seiten müssen jedoch mit `Silver` erworben werden\nVerwende `salbumconfig` oder `sacf` um Alben zu konfigurieren",
+    "ALBUM_CREATE_CONFIRMATION": "Du bist dabei, ein `Album` mit dem Namen \"{{albumName}}\" zu erstellen\nDas Erstellen eines `Albums` ist kostenlos, Seiten müssen jedoch mit `Silver` erworben werden\nVerwende `salbumconfig` oder `sacf` um Alben zu konfigurieren",
     "BUTTON_ACCEPT": "Bestätigen",
     "BUTTON_DENY": "Ablehnen",
     "NO_AMOUNT": "Du hast nicht genügend `Wists` um ein Album zu erstellen",
