@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Sendet eine Handelsanfrage an einen anderen Spieler. Du kannst mehrere Karten und \"Items\" gleichzeitig mit dieser Funktion handeln.",
+    "DESCRIPTION": "Sendet eine Handelsanfrage an einen anderen Spieler. Du kannst mehrere Karten und \"Items\" gleichzeitig mit dieser Funktion handeln",
     "MENTION_USER": "{{author}} Erwähne einen Benutzer, mit dem du handeln möchtest, oder verwende dessen ID",
     "IN_TRADE": "{{user}} Du hast bereits einen trade an jemanden gesendet! Breche die vorherige ab, bevor du eine neue startest",
     "BOT_TRADE": "{{author}} Du kannst nicht mit einem `BOT` handeln",
@@ -11,7 +11,7 @@
     "MEMBER_IS_QUED": "{{user}} ist unter Quarantäne gestellt",
     "BUY_TP_1": "{{user}} hat keine aktiven `Trade Pass`",
     "BUY_TP_2": "Du kannst **1** `Bump` gegen einen 4-Stunden `Trade Pass` eintauschen oder **20** `Bumps` sparen, um einen 30-Tage `Trade Pass` zu kaufen",
-    "FINISH_TRADE_WARN": "{{author}} Schließe {{commandName}} ab, bevor du du fortfahren kannst.",
+    "FINISH_TRADE_WARN": "{{author}} Schließe {{commandName}} ab, bevor du fortfahren kannst.",
     "SENT_TRADE": "{{author}} hat Ihnen eine Handelsanfrage gesendet",
     "ENTER_NOTE": "Gebe eine Notiz ein",
     "EXAMPLE:": "Füge Kontext zu einem Trade hinzu, der verdächtig aussehen könnte",
@@ -25,5 +25,5 @@
     "MT_INFO_4": "📛 Melde Spieler, die nach einer Krypto-Zahlung fragen, da es sich um ein verbietbares Vergehen handelt!",
     "MT_COMPLETE": "Multi-Trade: (abgeschlossen)",
     "MISSING_ITEMS": "{{user}} Dir fehlen die folgenden `Items` fehlen dir in deinem `Inventory` und konnten nicht hinzugefügt werden: \n`{{items}}`",
-    "CARD_LOCKED": "{{user}} Die folgenden Karten sind entweder gesperrt oder werden derzeit in einem Deck verwendet und konnten nicht hinzugefügt werden: `{{codes}}`"
+    "CARD_LOCKED": "{{user}} Die folgenden Karten sind entweder gesperrt oder werden derzeit in einem Deck verwendet und konnten nicht hinzugefügt werden:\n`{{codes}}`"
 }

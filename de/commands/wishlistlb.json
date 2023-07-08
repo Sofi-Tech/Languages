@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Zeigt die Wunschlisten-Bestenliste an",
+    "DESCRIPTION": "Zeigt die Wunschlisten-Rangliste an",
     "CATEGORY": "Wunschliste",
-    "EMBED_TITLE": "WUNSCHLISTEN-BESTENLISTE - {{type}}",
+    "EMBED_TITLE": "WUNSCHLISTEN-RANGLISTE- {{type}}",
     "EMBED_FOOTER": "Zeigt Seite: {{page}}/{{pages}} an",
     "CHARACTER_BUTTON_LABEL": "Charaktere",
     "SERIES_BUTTON_LABEL": "Serie"

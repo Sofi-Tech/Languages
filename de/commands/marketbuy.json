@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Kaufe \"Wists\" vom Markt im Austausch für \"Gems\"",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} | Die angegebene Angebots-ID ist ungültig",
+    "INVALID_DEAL_ID": "{{author}} Die angegebene Angebots-ID ist ungültig",
     "CANNOT_PURCHASE": "{{user}} Kann dieses Angebot nicht kaufen",
     "CANNOT_SELF": "{{user}} Du kannst nicht mit deinem eigenen Angebot interagieren",
     "WIST_NOT_EXCEED": "{{author}} | In diesem Angebot sind nur noch {{amount}} `Wists` übrig",
@@ -15,7 +15,7 @@
     "PURCHASE_CANCELLED": "Dieses Angebot ist nicht länger verfügbar",
     "MISSING_GEMS": "Dir fehlen {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "Da hat etwas nicht geklappt. Versuche es erneut",
-    "PURCHASE_SUCCESSFUL": "Kauf erfolgreich",
+    "PURCHASE_SUCCESSFUL": "Die Transaktion war erfolgreich",
     "SUCCESS": "{{wistAmount}} `Wists` wurden für **{{gemPrice}}** `Gems` gekauft! | Deal ID: {{dealId}}",
     "EMBED_TITLE": "SOFI MARKT:"
 }
