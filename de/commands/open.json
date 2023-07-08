@@ -3,7 +3,7 @@
     "SLASH_DESC_1": "Gib das `Item` an, das du öffnen möchtest",
     "SLASH_DESC_2": "Gib die Menge an.",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Amount>`",
-    "EMPTY_INV": "{{author}} Dein `Inventar` ist leer",
+    "EMPTY_INV": "{{author}} Dein `Inventory` ist leer",
     "CHARM_MISSING": "{{author}} Du besitzt keine `Charms`",
     "SOFI_CARDS_MISSING": "{{author}} Es gibt derzeit nicht genug Karten in Sofi's Collection",
     "CONGRATS": "Herzlichen Glückwunsch! Du hast erhalten:",
@@ -14,8 +14,8 @@
     "CHEST_MISSING": "Du hast keine **{{replacedArg}}** `{{chestName}}`Kisten in deinem `Inventory`",
     "COMMON_INFO_1": "Du hast **{{totalChests}}** `{{chestName}}`-Kisten geöffnet",
     "ITEMS_FOUND": "Erhaltene Gegenstände:\n",
-    "COMMON_RARE_FOOTER": "Du kannst eine {{chestName}}-Kiste für jeden {{count}} `Daily` Streak erhalten",
+    "COMMON_RARE_FOOTER": "Du kannst eine {{chestName}}-Kiste für jede {{count}} `Daily`-Serie erhalten",
     "EXOTIC_DIVINE_FOOTER": "Du kannst monatlich eine {{chestName}} Kiste für {{count}} `Votes` erhalten",
-    "ITEM_MISSING": "Du hast {{itemName}} nicht in deinem Inventar",
-    "CORRECT_USAGE_2": "`Items`die geöffnet werden können: `Chests`, `Charms`"
+    "ITEM_MISSING": "Du hast {{itemName}} nicht in deinem inventory",
+    "CORRECT_USAGE_2": "`Items` die geöffnet werden können: `Chests`, `Charms`"
 }

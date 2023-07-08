@@ -12,7 +12,7 @@
     "EVENT": "Etkinlik",
     "SELF_INV_EMPTY": "{{author}} `Inventory`niz boş",
     "USER_INV_EMPTY": "{{author}} Bu kullanıcının `Inventory`si boş",
-    "NO_BG_FOUND": "Herhangi bir `Backgrounds`'a sahip değilsiniz",
+    "NO_BG_FOUND": "{{author}} Herhangi bir `Backgrounds` a sahip değilsiniz",
     "NO_ITEM_FOUND": "{{author}} Aradığınız `Item` bu `Inventory`nizde bulunamadı",
-    "HIDE_INV": "`Inventory`nizi gizlemek için `{{prefix}}pvt inv``komutunu kullanın"
+    "HIDE_INV": "{{author}} `Inventory` nizi gizlemek için `{{prefix}}pvt inv``komutunu kullanın"
 }

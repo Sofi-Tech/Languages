@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Entfernt den „Morph“ einer Karte",
-  "UM_CATEGORY": "Kosmetika",
-  "UM_INVALID_USAGE": "{{author}} Korrekte Anwendung: `{{prefix}}um <CardCode>`",
-  "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
-  "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
-  "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer `GIF` Karte entfernen",
-  "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen `Morph`",
-  "EMBED_TITLE": "ENTFERNE MORPH",
-  "UM_CONFIRMATION": "Bist du sicher, dass du den `Morph` dieser Karte entfernen möchtest?\nDieser Vorgang kostet **100** `Silver`",
-  "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
-  "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schiefgelaufen, versuche es erneut",
-  "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` für diesen Vorgang",
-  "UM_SUCCESSFUL": "Der `Morph` wurde erfolgreich entfernt"
+    "UM_DESCRIPTION": "Entfernt den „Morph“ einer Karte",
+    "UM_CATEGORY": "Kosmetika",
+    "UM_INVALID_USAGE": "{{author}} Korrekte Anwendung: `{{prefix}}um <CardCode>`",
+    "INVALID_CODE": "{{author}} Dieser Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
+    "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
+    "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer `GIF` Karte entfernen",
+    "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen `Morph`",
+    "EMBED_TITLE": "ENTFERNE MORPH",
+    "UM_CONFIRMATION": "Bist du sicher, dass du den `Morph` dieser Karte entfernen möchtest?\nDieser Vorgang kostet **100** `Silver`",
+    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
+    "SOMETHING_WENT_WRONG": "{{author}} Da hat etwas nicht geklappt, versuche es erneut",
+    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` für diesen Vorgang",
+    "UM_SUCCESSFUL": "Der `Morph` wurde erfolgreich entfernt"
 }

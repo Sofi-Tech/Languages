@@ -1,1 +1,21 @@
-{}
+{
+    "SF_DISCORD_LINK": "{{author}} Gönderilen görselin \"cdn.discordapp.com\" veya \"media.discordapp.net\" discord sunucularında barındırıldığından emin olunuz",
+    "SUBMIT_FRAME_SUCCESSFUL": "`Frame` i başarıyla önerdiniz",
+    "SF_FIT_CARD": "<:_:979009081325019156> Gönderilen `Frame`in kart kenarına sığdığından ve görüntülenen metin için uygun alan ve görünürlüğe sahip olduğundan emin olun",
+    "SF_VIOLATING_MATERIAL": "<:_:979009081325019156> `Frame`inizin temasını her yaş için uygun tutun",
+    "SF_EMBED_TITLE": "ÇERÇEVE: **{{name}}**",
+    "SF_NEED_SILVERS": "<:_:979009081325019156> Bir 'Frame' önergesi size **3000** `Silver`a mal olacak",
+    "SF_DESCRIPTION": "\"Frame\" Önergesi oluşturur",
+    "SF_CATEGORY": "Ayarlar",
+    "SF_CORRECT_USAGE": "Doğru kullanım: `{{prefix}}sf <ImageURL> <FrameName>`",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Bir `Frame` adı en fazla 20 karakter içerebilir",
+    "SF_VALID_DIMENSION": "{{author}} Gönderilen `Frame` in boyutları **402** x **603** (Genişlik x Yükseklik) olmalıdır",
+    "SUBMIT_FRAME_CONFIRMATION": "Bu `Frame` **3000** `Silver` için göndermek istiyor musunuz?",
+    "SUBMIT_FRAME_DENY": "Bu işlem için yeterli `Silver` ınız yok",
+    "SF_MAXIMUM_FRAMES": "<:_:979009081325019156> Onaylanan tüm `Frames`lerin maksimum stoğu **100**'dür!",
+    "SF_IMAGE_LINK": "<:_:979009081325019156> Gönderilen `Frame`in boyutları **402** x **603** (Genişlik x Yükseklik) olmalıdır",
+    "SF_DOWNLOAD_TEMPLATE": "<:_:979009081325019156> Süreci daha iyi hissetmek için [Frame] ve [Image] indirebilirsiniz. (https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg)",
+    "SF_APPROVAL": "<:_:979009081325019156> Her şey standartlarımıza uygunsa, `Frame`iniz onaylanacak ve `Frame Shop` rotasyonunda mevcut olacaktır",
+    "SF_JOIN_SUPPORT": "<:_:979009081325019156> Herhangi bir sorunuz varsa [destek sunucumuza](https://discord.gg/sofi) katılın",
+    "EMBED_TITLE": "SOFI: Çerçeve Önerge Yönergeleri"
+}

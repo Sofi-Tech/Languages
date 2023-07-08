@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Zeigt die Version/3D/GIF Varianten eines Charakters an",
-    "CHAR_NOT_FOUND": "Der Charakter nach dem du suchst wurde nicht gefunden",
+    "DESCRIPTION": "Zeigt die Version/3D/GIF -Varianten eines Charakters an",
+    "CHAR_NOT_FOUND": "Der Charakter den du suchst wurde nicht gefunden",
     "CHAR_NF_SENSITIVE": "Es wurden keine Charakter gefunden. [Bitte beachte bei der `lookup` Funktion die Groß- und Kleinschreibung!]",
     "EMBED_TITLE": "__Zutreffende Charaktere__",
     "SUBMITTED": "Eingereicht von: <@{{userID}}>",
-    "EMBED_FOOTER": "Finde `Version 1` einer Karte mit dem Befehl `scl`| schlage neue `Versionen` vor mit dem Befehl `ssc`",
-    "VERSION_DISP": "Zeigt` Version {{version}}` der Karte an",
+    "EMBED_FOOTER": "Finde `Version 1` einer Karte mit dem Befehl `scl`| Du kannst außerdem neue `Versions` mit dem Befehl `ssc` vorschlagen",
+    "VERSION_DISP": "Zeigt `Version` {{version}} der Karte an",
     "MORE": "Mehr Infos",
-    "3D_DESC": "Zeigt die 3D Variante des Charakters an",
-    "GIF_LABEL": "GIF Variante",
-    "GIF_DESC": "Zeigt die „GIF“-Variante dieses Charakters an",
+    "3D_DESC": "Zeigt die 3D-Variante des Charakters an",
+    "GIF_LABEL": "GIF-Variante",
+    "GIF_DESC": "Zeigt die \"GIF\"-Variante dieses Charakters an",
     "SERIES": "Serie:",
     "NAME": "Name:",
     "CATEGORY": "Kategorie",
@@ -20,5 +20,5 @@
     "EVENT": "Event",
     "UPCOMING_EVENT": "Kommendes Event",
     "TOP_OWNER": "Top Besitzer",
-    "NO_OWNER_FOUND": "Keine `Version` Eigentümer gefunden."
+    "NO_OWNER_FOUND": "Keine `Version` Besitzer gefunden"
 }

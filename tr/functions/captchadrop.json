@@ -5,6 +5,6 @@
     "EMBED_TITLE": "Captcha Kartı",
     "EMBED_FOOTER": "Captcha'yı yazarak yukarıdaki karta sahip olun",
     "EXTRA_GRAB": "{{user}} **Extra Grab** kullanılıyor. **{{remaining}}** hakkınız kaldı",
-    "WAIT_TO_CLAIM": "{{user}} Başka bir kart talep etmek için {{cooldown}} beklemeniz gerekir",
+    "WAIT_TO_CLAIM": "{{user}} Başka bir kart talep etmek için **{{cooldown}}** kadar beklemeniz gerekir",
     "CANNOT_BE_GRABBED": "{{user}}, **{{characterName}}** kartını elde etti"
 }

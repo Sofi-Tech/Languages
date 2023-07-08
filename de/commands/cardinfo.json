@@ -1,13 +1,13 @@
 {
     "DESCRIPTION": "Zeigt Informationen zu einer Karte an",
     "SLASH_DESC": "Gib den Code der Karte an, die du überprüfen möchtest",
-    "NO_CARD_FOUND": "Deine letzte Karte konnte nicht gefunden werden. Versuche stattdessen den Karten-Code anzugeben",
-    "INVALID_CARD_CODE": "{{author}} Der angegebene Kartencode ist ungültig",
+    "NO_CARD_FOUND": "Deine letzte Karte konnte nicht gefunden werden. Versuche stattdessen einen Karten-Code anzugeben",
+    "INVALID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist ungültig",
     "CARD_MORPHED": "Diese Karte ist morphed",
-    "CARD_GLOWED": "Diese Karte ist mit folgendem `Glow` ausgestattet: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
+    "CARD_GLOWED": "Auf diese Karte wurde folgender `Glow` angewendet: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Schriftfarbe: {{fontName}} [`#{{ viewCode}}`]\n",
-    "CARD_FRAMED": "Diese Karte ist mit folgendem \"Frame\" ausgestattet: __{{frameName}}__\n",
-    "CARD_CFRAMED": "Diese Karte ist mit folgendem `Frame` ausgestattet:__{{frameName}}__ `{{frameCode}}`\n",
+    "CARD_FRAMED": "Auf diese Karte wurde folgender `Frame` angewendet: __{{frameName}}__\n",
+    "CARD_CFRAMED": "Auf diese Karte wurde folgender `Frame` angewendet:__{{frameName}}__ `{{frameCode}}`\n",
     "SHOW_GEN": "Zeige Gen",
     "SERIES": "Serie:",
     "NAME": "Name:",
@@ -18,7 +18,7 @@
     "LEVEL": "Level",
     "HEALTH": "Leben",
     "POPULARITY": "Beliebtheit",
-    "FOUGHT_OFF": "umkämpft",
+    "FOUGHT_OFF": "Erkämpft",
     "QUICKNESS": "Schnelligkeit",
-    "MORPHED_TIMES": "Diese Karte wurde `{{rolls}}` mal gemorpht"
+    "MORPHED_TIMES": "Diese Karte wurde `{{rolls}}` mal morphed"
 }

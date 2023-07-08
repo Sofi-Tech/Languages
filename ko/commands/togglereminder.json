@@ -1,1 +1,7 @@
-{}
+{
+    "RM_CATEGORY": "설정",
+    "PROVIDE_REMINDER_NAME": "{{author}} 정확한 사용법은 `{{prefix}}tr <Vote/Daily/Bump>`입니다",
+    "REMINDER_ENABLED": "{{author}} 이제 **`{{reminder}}`**이(가) 준비되면 알림을 받게 됩니다",
+    "REMINDER_DISABLED": "{{author}} 이제 **`{{reminder}}`**이(가) 준비되었을 때 알림을 받지 않게 됩니다",
+    "RM_DESCRIPTION": "알림을 전환합니다"
+}

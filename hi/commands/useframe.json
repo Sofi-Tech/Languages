@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "आपके पत्ते पर \"Frame\" लगाता है",
     "UF_CATEGORY": "सौंदर्य",
     "UF_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है कृपया जांच करके दुबारा कोशिश करे",
+    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है",
     "CANNOT_APPLY": "{{author}}आप `3D` पत्तो पर `Frame` नहीं लगा सकते",
     "NO_GIF": "{{author}} आप `GIF` पत्तो पर `Frame` नहीं लगा सकते",
     "NO_FRAMES_FOUND": "{{author}} यह `Frame` कॉड अमान्य है या आपकी `Inventory` में नहीं है",

@@ -11,8 +11,8 @@
     "FILTER_ELEMENT": "<:pdot:979009081325019156> **Elemento** = [`e`/`el`/`element`] | **`sc e=ELEMENTO`**",
     "FILTER_ATTACK": "<:pdot:979009081325019156> **Atake** = [`atk`/`atake`] | **`sc atk>NUMERO**",
     "FILTER_DEFENSE": "<:pdot:979009081325019156> **Defense** = [`def`/`defense`] | **`sc def>NUMERO`**",
-    "FILTER_SPEED": "<:pdot:979009081325019156> **Speed** = [`spd`/`speed`] | **`sc spd>NUMBER`**",
-    "FILTER_HEALTH": "<:pdot:979009081325019156> **Health** = [`hp`/`health`] | **`sc hp>NUMBER`**",
+    "FILTER_SPEED": "<:pdot:979009081325019156> **Speed** = [`spd`/`speed`] | **`sc spd>Numero`**",
+    "FILTER_HEALTH": "<:pdot:979009081325019156> **Buhay** = [`hp`/`buhay`] | **`sc hp>NUMERO`**",
     "FILTER_SERIES": "<:pdot:979009081325019156> **Series** [`s`/`series`] | **`sc s=SERYE`**",
     "FILTER_FRAMED": "<:pdot:979009081325019156> **Framed** = [`f`/`frame`/`framed`] **`sc f=TRUE/FALSE`**",
     "BATTLE": "Labanan",
@@ -29,7 +29,7 @@
     "USE_FILTER_ORDER": "**__Opsyon sa pag sosort:__**\n\n<:pdot:979009081325019156> **Order** = [`o`/`order`] | **`sc order wl>NUMBER o=d`**\n<:pdot:979009081325019156> **Descending** = [`d`] | `sc order wl>NUMBER o=d`\n<:pdot:979009081325019156> **Ascending** = [`a`] | `sc order wl>NUMBER o=a`",
     "USE_FILTER_ORDER_2": "<:pdot:979009081325019156> ayos - `o` `order` sc wl>10 o=d",
     "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156> **`=`, `:`, `<`, `>`, `!=`, `>=`, `<=`**",
-    "USE_FILTER_OPERATORS_3": " '<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
+    "USE_FILTER_OPERATORS_3": " '<:pdot:979009081325019156> **`wl=NUMERO `** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMERO`**  ← <:crossnobg:896960454977527868>",
     "CARDS": "Kards",
     "GUILDS": "Mga Guild",
     "WISHLIST": "Listahan ng kahilingan",
@@ -49,7 +49,7 @@
     "DESCRIPTION": "Diskription:",
     "COOLDOWN": "Cooldown:",
     "NOT_PROVIDED": "Hindi ibinigay",
-    "COSMETICS": "Cosmetics",
+    "COSMETICS": "Pampaganda",
     "ALBUM": "Album",
     "SUPPORT_BUTTON_LABEL": "Supporta!"
 }

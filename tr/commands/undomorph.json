@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Bir kartın \"Morph\" özelliğini kaldırır",
-  "UM_CATEGORY": "Kozmetik",
-  "UM_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}um <CardCode>`",
-  "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda bulunmamakta",
-  "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
-  "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
-  "NOT_MORPHED": "{{author}} Bu karta hiçbir`Morph` uygulanmamış",
-  "EMBED_TITLE": "MORPH'U KALDIR",
-  "UM_CONFIRMATION": "Bu kartın `Morph'unu kaldırmak istediğinizden emin misiniz?\nBu işlem **100** `Silver`a mal olacak",
-  "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
-  "SOMETHING_WENT_WRONG": "{{author}} Bir sorun oluştu, tekrar deneyin",
-  "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
-  "UM_SUCCESSFUL": "`Morph` başarıyla kaldırıldı"
+    "UM_DESCRIPTION": "Bir kartın \"Morph\" özelliğini kaldırır",
+    "UM_CATEGORY": "Kozmetik",
+    "UM_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}um <CardCode>`",
+    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz veya koleksiyonunuzda bulunmamakta",
+    "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
+    "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
+    "NOT_MORPHED": "{{author}} Bu karta hiçbir`Morph` uygulanmamış",
+    "EMBED_TITLE": "MORPH'U KALDIR",
+    "UM_CONFIRMATION": "Bu kartın `Morph'unu kaldırmak istediğinizden emin misiniz ?\nBu işlem **100** `Silver`a mal olacak",
+    "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil",
+    "SOMETHING_WENT_WRONG": "{{author}} Bir sorun oluştu, tekrar deneyin",
+    "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
+    "UM_SUCCESSFUL": "`Morph` başarıyla kaldırıldı"
 }

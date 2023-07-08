@@ -3,5 +3,14 @@
     "GUILD_FOUNDER": "Gründer",
     "GUILD_MASTER": "Gildenmeister",
     "GUILD_ADVENTURER": "Abenteurer/in",
-    "BUY_EMBED_TITLE": "TRANSAKTION:"
+    "BUY_EMBED_TITLE": "TRANSAKTION:",
+    "YOU_PAY": "Du bezahlst: {{additionalInfo}}",
+    "SOMETHING_WENT_WRONG": "Da hat etwas nicht geklappt! Jedes verwendete `Item` wurde wieder deinem `Inventory` hinzugefügt",
+    "SWAP_EMBED_FOOTER": "Der Vorgang wird die Codes der beiden Karten austauschen",
+    "NEED_GEMS": "Du benötigst **500** `Gems` für diesen Kauf",
+    "YOU_GET": "Du erhältst: {{additionalInfo}}",
+    "NOT_ENOUGH_AMOUNT": "Du hast nicht genügend `{{item}}` für diesen Kauf",
+    "SWAP_EMBED_TITLE": "Code Swap",
+    "CODE_ONE": "<:linedown:868888105611046942> Erster Code",
+    "CODE_TWO": "<:linedown:868888105611046942> Zweiter Code"
 }

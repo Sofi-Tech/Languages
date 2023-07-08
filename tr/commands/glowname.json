@@ -1,7 +1,7 @@
 {
     "GN_DESCRIPTION": "\"Glow\"un adını değiştirin",
     "GN_CATEGORY": "Kozmetik",
-    "UNLOCK_GLOWS": "{{author}} Henüz hiç `Glows`unuz yok",
+    "UNLOCK_GLOWS": "{{author}} Henüz hiç `Glows` unuz bulunmamaktadır",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowCode> <NewName>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları herzaman **#** ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya öğe `Inventory`nizde bulunmuyor",

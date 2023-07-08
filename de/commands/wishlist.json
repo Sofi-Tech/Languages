@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "Zeigt deine Wunschliste an",
     "CATEGORY": "Wunschliste",
-    "USER_NOT_FOUND": "Dieser Benutzer konnte nicht genfunden werden",
+    "USER_NOT_FOUND": "Dieser Benutzer konnte nicht gefunden werden",
     "WISHLIST_PRIVATE": "> Die Wunschliste dieses Benutzers ist privat",
     "WISHLIST_EMPTY": "> {{username}}'s Wunschliste ist so leer wie mein Herz 💔",
     "WISHLIST_EMBED_TITLE": "{{username}}s Wunschliste [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Benutze `{{prefix}}wu` oder `{{prefix}}wu max`, um den Kapazität deiner Wunschliste zu erweitern | Seiten: {{page}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Benutze `{{prefix}}wu` oder `{{prefix}}wu max`, um die Kapazität deiner Wunschliste zu erweitern. | Seiten: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Codes kopieren",
     "COPY_CODES_MENU_LABEL": "Alle Codes kopieren",
     "COPY_CODES_MENU_DESCRIPTION": "Sendet alle Codes als eine Textnachricht",

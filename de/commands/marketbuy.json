@@ -14,8 +14,8 @@
     "PURCHASE_FAILED": "Der Kauf des Angebots `{{dealId}}` ist fehlgeschlagen",
     "PURCHASE_CANCELLED": "Dieses Angebot ist nicht länger verfügbar",
     "MISSING_GEMS": "Dir fehlen {{gemPrice}} `Gems`",
-    "SOMETHING_WRONG": "Es ist ein Fehler aufgetreten. Versuche es erneut",
-    "PURCHASE_SUCCESSFUL": "Der Kauf war erfolgreich",
+    "SOMETHING_WRONG": "Da hat etwas nicht geklappt. Versuche es erneut",
+    "PURCHASE_SUCCESSFUL": "Kauf erfolgreich",
     "SUCCESS": "{{wistAmount}} `Wists` wurden für **{{gemPrice}}** `Gems` gekauft! | Deal ID: {{dealId}}",
     "EMBED_TITLE": "SOFI MARKT:"
 }
