@@ -31,5 +31,9 @@
     "EMBED_TITLE": "SOTTOMISSIONE: **{{character}}**",
     "SUBMIT_CONFIRMATION": "Stai per inviare un {{isEventSubmission}}",
     "EVENT_CARD_CONFIRMATION": "{{type}} `Event` carta\n",
-    "SERIES_NAME": "SERIE: **{{series}}**"
+    "SERIES_NAME": "SERIE: **{{series}}**",
+    "CARD_CONFIRMATION": "Variante `Version`\n",
+    "CHARACTER_NAME": "Nome di Carattere: **{{character}}**",
+    "SOURCE": "Fonte: **{{source}}**",
+    "SUBMISSION_DENY": "Hai annullato il processo di invio"
 }

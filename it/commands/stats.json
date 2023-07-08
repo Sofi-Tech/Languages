@@ -31,5 +31,9 @@
     "RESET_STATS_INFO": "Hai bisogno di 1 `Stat Reset` per ripristinare le statistiche di questa carta",
     "RESET_STATS": "{{author}} Le statistiche della tua carta sono state azzerate",
     "DUPLICATE_MODAL_LABEL": "Inserisci il codice(i) di una carta duplicata (costo di Fusione: 100 Elixirs ciascuno)",
-    "NO_CARD_FOUND": "{{author}} I seguenti codici della carta non sono validi o non sono nella tua collezione:\n> `{{dupeCode}}`"
+    "NO_CARD_FOUND": "{{author}} I seguenti codici della carta non sono validi o non sono nella tua collezione:\n> `{{dupeCode}}`",
+    "DUPLICATE_MODAL_PLACEHOLDER": "Inserisci uno o più codici carta",
+    "DUPLICATE_MODAL_TITLE": "Level Up",
+    "BASECODE_ERROR": "{{author}} Non puoi fondere la carta con se stessa",
+    "NOT_DUPLICATE": "{{author}} I seguenti codici carta non sono duplicati dello stesso carattere:\n> `{{dupeCode}}`"
 }
