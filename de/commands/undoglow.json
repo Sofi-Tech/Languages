@@ -1,7 +1,7 @@
 {
     "UNG_DESCRIPTION": "Entfernt den „Glow“ von einer Karte",
     "UNG_CATEGORY": "Kosmetika",
-    "UNG_INVALID_USAGE": "{{author}} Korrekte Anwendung: `{{prefix}}ung <CardCode>`",
+    "UNG_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} Dieser Karten-Code ist entweder ungültig oder nicht in deiner Sammlung",
     "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
     "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer `GIF` Karte entfernen",

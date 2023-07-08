@@ -6,7 +6,7 @@
     "CANNOT_FIND_CARD": "{{author}} Du hast noch keine Karten in deiner Sammlung",
     "3D_ERROR": "{{author}} Du kannst die Schriftfarbe von 3D-Karten nicht ändern",
     "UNLOCK_GLOWS": "{{author}} Du hast keine `Glows`",
-    "PROVIDE_GLOWCODE": "{{author}} Richtig verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
+    "PROVIDE_GLOWCODE": "{{author}} Korrekte Verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} `Glow`-Codes beginnen immer mit einem **#**",
     "CANNOT_FIND_GLOW": "{{author}} Dieser `Glow`-Code ist entweder ungültig oder du besitzt ihn nicht",
     "EMBED_TITLE": "SOFI: SCHRIFTFARBE{{reset}}",
