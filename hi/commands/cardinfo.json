@@ -2,7 +2,7 @@
     "DESCRIPTION": "पत्ते की जानकारी दिखाता है",
     "SLASH_DESC": "वह कोड दर्ज करें जो आप ढूंढ रहे हैं",
     "NO_CARD_FOUND": "आपका अंतिम पत्ता नहीं मिल सका। कोशिश करें कार्ड कोड प्रदान करने की कोशिश करें",
-    "INVALID_CARD_CODE": "{{author}} अवैध कार्ड कोड प्रदान किया गया",
+    "INVALID_CARD_CODE": "{{author}} आपके द्धारा प्रदान किया हुआ कोड अमान्य है",
     "CARD_MORPHED": "कार्ड मोर्फ हो गया है",
     "CARD_GLOWED": "कार्ड __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__ से glow किया चुका है\n",
     "CARD_FONT": "फ़ॉन्ट रंग: {{fontName}} [`#{{ viewCode}}`]\n",

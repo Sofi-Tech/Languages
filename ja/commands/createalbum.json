@@ -1,10 +1,10 @@
 {
-    "CREATE_ALBUM_DESCRIPTION": "アルバム基礎を作成する",
+    "CREATE_ALBUM_DESCRIPTION": "`アルバム`を新規作成する",
     "CREATE_ALBUM_CATEGORY": "アルバム",
     "CREATE_ALBUM_SLASH_DESC": "アルバム名を入力してください",
     "PROVIDE_ALBUM_NAME": "{{author}} アルバム名を入力してください",
     "ALBUM_NAME_ERROR": "アルバム名は英数字である必要があり、以下を含めることはできません\n- 特殊文字\n- スペース\n- 大文字",
-    "ALBUM_NAME_LONG": "{{author}} 20文字以内で`アルバム`名を入力してください",
+    "ALBUM_NAME_LONG": "{{author}} 20文字以内で`アルバム名`を入力してください",
     "MAX_ALBUMS": "{{author}} あなたは最大10枚の`アルバム`を持っていることを許可されています",
     "ALBUM_NAME_EXISTS": "{{author}} 名前のあるアルバム{{name}}はすでに存在します",
     "ALBUM_CREATE_CONFIRMATION": "`{{albumName}} `という`アルバム`を作成しようとしています\nアルバム作成は無料ですが、ページを追加するには`「Silver」`で購入できます\n`SalbumConfig`または`sacf`コマンドでアルバムを設定できます",

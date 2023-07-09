@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Quema tus cartas para obtener \"Crystals\" y \"Silvers\" que pueden ser usados tanto para crear \"Cubes\" como para comprar varios \"Items\" en el Bot. Usa el comando \"sb\" sin parámetros para quemar tu carta más reciente",
+    "DESCRIPTION": "Quema tus cartas para obtener \"Crystals\" y \"Silver\" que pueden ser usados tanto para crear \"Cubes\" como para comprar varios \"Items\" en el Bot. Usa el comando \"sb\" sin parámetros para quemar tu carta más reciente",
     "GUILDSTONE_BURN": "Estás a punto de usar un `Guild Stone`",
     "GUILDSTONE_NOT_FOUND": "No tienes ningún `Guild Stone`",
     "SUCCESS": "ÉXITO",
@@ -8,5 +8,5 @@
     "FRAG_NOT_FOUND": "No se ha encontrado ningún `Fragment`",
     "CARD_NOT_FOUND": "No se ha podido encontrar esa carta",
     "CARD_LOCKED": "Esa carta está bloqueada",
-    "CARD_NOT_OWNED": "No tienes esa carta"
+    "CARD_NOT_OWNED": "No posees esa carta"
 }

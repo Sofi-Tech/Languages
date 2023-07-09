@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "अपने इच्छा सूची की क्षमता बढ़ाएं",
+    "DESCRIPTION": "आपकी इच्छा सूची की क्षमता बढ़ाता है",
     "CATEGORY": "इच्छासूची",
-    "ALREADY_MAXED": "> {{author}} आपकी इच्छा-सूची स्लॉट्स पहले से ही अधिकतर हो गई हैं!",
-    "EMBED_DESCRIPTION": "क्या आप अतिरिक्त {{count}} स्लॉट {{amount}} {{currency}} खरीदना चाहते हैं?",
+    "ALREADY_MAXED": "> {{author}} आपकी इच्छा-सूची के स्लॉट्स पहले से ही अधिकतम हो गए है!",
+    "EMBED_DESCRIPTION": "क्या आप अतिरिक्त {{count}} स्लॉट {{amount}} {{currency}} के लिए खरीदना चाहते हैं?",
     "EMBED_PAY_FIELD_NAME": "आप भुगतान करते हैं:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "आप प्राप्त करते हैं:",

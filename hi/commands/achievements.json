@@ -1,9 +1,9 @@
 {
-    "ACH_DESCRIPTION": "उपलब्ध उपलब्धियों की सूची दिखाता है",
+    "ACH_DESCRIPTION": "उपलब्ध सिद्धियों की सूची दिखाता है",
     "ACH_CATEGORY": "सेटिंग्स",
     "CLAIMED": "प्राप्त किया हुआ",
-    "ACH_EMBED_TITLE": "SOFI: उपलब्धियों ({{totalClaimed}} / {{achWithPercent}})",
-    "FAN_EMBED_TITLE": "SOFI: प्रशंसक चरित्र",
+    "ACH_EMBED_TITLE": "SOFI: सिद्धियां ({{totalClaimed}} / {{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: अनुरागी पात्र",
     "ACH_LOADING": "लोड हो रहा है <a:ping:876612181725167687>",
-    "NO_STATS_FOUND": "आपके पास कोई कैरेक्टर के लिए फैन पॉइंट नहीं हैं"
+    "NO_STATS_FOUND": "आपके पास कोई पात्र के लिए फैन पॉइंट नहीं हैं"
 }

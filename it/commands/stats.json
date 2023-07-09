@@ -35,5 +35,6 @@
     "DUPLICATE_MODAL_PLACEHOLDER": "Inserisci uno o più codici carta",
     "DUPLICATE_MODAL_TITLE": "Level Up",
     "BASECODE_ERROR": "{{author}} Non puoi fondere la carta con se stessa",
-    "NOT_DUPLICATE": "{{author}} I seguenti codici carta non sono duplicati dello stesso carattere:\n> `{{dupeCode}}`"
+    "NOT_DUPLICATE": "{{author}} I seguenti codici carta non sono duplicati dello stesso carattere:\n> `{{dupeCode}}`",
+    "FUSE_CARDS_INFO": "{{author}} Hai bisogno di **{{dupeCodes}}* <:_:979673719884636210> per fondere le carte"
 }

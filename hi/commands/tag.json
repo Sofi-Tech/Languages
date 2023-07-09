@@ -1,11 +1,11 @@
 {
     "TAG_DESCRIPTION": "पत्तो पर \"Tags\" लगाता है",
-    "TAG_CATEGORY": "TAGS",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}t <CardCode> <TagName>`",
-    "NO_TAGS_CREATED": "{{author}} आपने अभी तक कोई Tag नहीं बनाया है। आप `{{prefix}}tc <TagName> <Emoji>`प्रयोग करके Tag बना सकते है",
-    "TAG_NOT_FOUND": "{{author}} आपके पास नाम से `{{tag}}` कोई Tag नहीं है",
-    "NO_CARDS_CLAIMED": "{{author}} आपने संग्रह के अभी तक कोई पता नहीं है",
-    "INVALID_CARD_CODE": "{{author}} अवैध कार्ड कोड प्रदान किया गया",
-    "SUCCESSFUL_TAG": "{{author}} | {{card}} को सफलतापूर्वक {{tag}} में जोड़ा गया",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} उन पत्तो को सफलतापूर्वक Tag किया गया"
+    "TAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} सही इस्तेमाल: `{{prefix}}t <CardCode> <TagName>`",
+    "NO_TAGS_CREATED": "{{author}} आपने अभी तक कोई `Tag` नहीं बनाया है। आप `{{prefix}}tc <TagName> <Emoji>`कमांड का उपयोग करके `Tag` बना सकते है",
+    "TAG_NOT_FOUND": "{{author}} आपके पास `{{tag}}` नाम का कोई `Tag` नहीं है",
+    "NO_CARDS_CLAIMED": "{{author}} आपने संग्रह के अभी तक कोई भी पत्ता नहीं है",
+    "INVALID_CARD_CODE": "{{author}} आपके द्धारा प्रदान किया हुआ कोड अमान्य है",
+    "SUCCESSFUL_TAG": "{{author}} | **{{card}}** को सफलतापूर्वक {{tag}} में जोड़ दिया गया",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} सभी पत्ते सफलतापूर्वक `Tagged` हो चुके है"
 }
