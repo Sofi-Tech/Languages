@@ -24,7 +24,7 @@
   "NOT_ENOUGH_POINTS": "{{author}} 당신의 카드는 사용 가능한 업그레이드 포인트가 없습니다",
   "MAXIMUM_STAT": "{{author}} **{{stat}}** 스탯은 이미 최대치입니다",
   "POINTS_NEGATIVE_ERROR": "{{author}} 스탯에는 음수 포인트를 추가할 수 없습니다",
-  "ADD_PER_STAT": "{{author}} 한 장의 카드에 최대 **150**개의 {{stat}} 포인트를 할당할 수 있습니다",
+
   "POINTS_INFO": "{{author}} 할당할 수 있는 포인트는 **{{points}}**점만 남았습니다",
   "NOT_DUPLICATE": "{{author}} 다음 카드 코드들은 동일한 캐릭터의 중복 카드가 아닙니다:\n> `{{dupeCode}}`",
   "FUSE_CARDS_INFO": "{{author}} 카드를 융합하려면 **{{dupeCodes}}** 개의 <:_:979673719884636210>가 필요합니다",
