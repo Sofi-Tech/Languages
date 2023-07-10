@@ -1,7 +1,7 @@
 {
     "BF_DESCRIPTION": "Acquista un \"Frame\" dal \"Frame Shop\"",
     "BF_CATEGORY": "Cosmetici",
-    "NO_FRAME_NAME": "{{author}} perfavore fornisci il nome del `Frame` che vuoi comprare",
+    "NO_FRAME_NAME": "{{author}} Per Favore fornisci il nome del `Frame` che desideri acquistare",
     "NO_FRAMECODE_FOUND": "{{author}} non è stato possibile trovare il `frame` con il codice `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} questo frame al momento non è disponibile. Perfavore una usa il comando`sfs,` Per controllare i `Frame` disponibili al momento",
     "NO_FRAME_FOUND": "{{author}} | Non esiste nessun `frame`con quel codice",

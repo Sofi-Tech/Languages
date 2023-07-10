@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Mostra le informazioni della carta",
-    "SLASH_DESC": "Inserisci il codice della carta che vuoi ispezionare",
+    "SLASH_DESC": "Inserisci il codice di una carta che vuoi esaminare",
     "NO_CARD_FOUND": "Impossibile trovare la tua ultima carta. Prova invece a fornire un codice della carta",
     "INVALID_CARD_CODE": "{{author}} Il codice della carta che hai fornito non è valido",
     "CARD_MORPHED": "La carta è stata modificata",

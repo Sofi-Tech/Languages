@@ -1,7 +1,7 @@
 {
     "UB_DESCRIPTION": "Rimuove uno \"Background\" applicato da una carta",
     "UB_CATEGORY": "Cosmetici",
-    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}undobg <CardCode>`",
+    "WRONG_USAGE": "{{author}} Uso Corretto: `{{prefix}}undobg <CardCode>`",
     "NO_CHARACTER_FOUND": "{{author}} Non è riuscito a trovare quella carta",
     "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nella tua collezione",
     "NO_GIF_CARD": "{{author}} Le carte `GIF` non possono avere uno `Background` applicato",

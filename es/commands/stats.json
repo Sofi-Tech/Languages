@@ -2,5 +2,9 @@
     "STATS_MODAL_LABEL": "Introduce la cantidad de puntos de mejora que quieres añadir",
     "STATS_DESCRIPTION": "Mostrar estadísticas de la carta",
     "INVALID_CODE": "{{author}} Ese código de carta no es válido o no está en tu colección",
-    "BACK_MENU_LABEL": "Regresar"
+    "BACK_MENU_LABEL": "Regresar",
+    "STATS_CATEGORY": "Cartas",
+    "STATS_MODAL_TITLE": "Puntos de Mejora: {{type}}",
+    "NO_CARDS": "{{author}} Aun no tienes ninguna carta en tu colección",
+    "STATS_MODAL_PLACEHOLDER": "Escoge un número entre el 1 y el 120"
 }

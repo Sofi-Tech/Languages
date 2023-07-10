@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Puoi cercare un carattere specifico usando il comando \"scl\". In questo menu puoi controllare le statistiche di un personaggio, le sue varianti Version/3D/GIF, così come le classifiche Gen/Fan e il suo \"Card ID\". \n- Il \"Card ID\" è richiesto quando si inviano immagini per nuove \"Versions\"",
-    "CHAR_NOT_FOUND": "Impossibile trovare il personaggio che stai cercando",
-    "CHAR_NF_SENSITIVE": "Nessun carattere trovato. [La funzione `lookup` fa distinzione tra maiuscole e minuscole!]",
+    "CHAR_NOT_FOUND": "Impossibile trovare il carattere che stai cercando",
+    "CHAR_NF_SENSITIVE": "Impossibile trovare alcun carattere. [La funzione `lookup` fa distinzione tra maiuscole e minuscole!]",
     "EMBED_TITLE": "__Ricerca Personaggio__",
     "NORMAL_LABEL": "Variante di versione",
     "FAN_PTS_LABEL": "Aggiungi Punti Fan",

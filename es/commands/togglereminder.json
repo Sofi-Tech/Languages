@@ -1,4 +1,7 @@
 {
-    "PROVIDE_REMINDER_NAME": "Proporcione el nombre del recordatorio: {{availableReminders}}",
-    "REMINDER_ENABLED": "Serás notificado cuando el {{reminder}} cd termine"
+    "PROVIDE_REMINDER_NAME": "{{author}} Uso correcto: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_ENABLED": "{{author}} Serás notificado cuando el **`{{reminder}}`** esté listo",
+    "RM_DESCRIPTION": "Quita tus recordatorios",
+    "RM_CATEGORY": "Ajustes",
+    "REMINDER_DISABLED": "{{author}} Ya no recibirás una notificación cuando tu **`{{reminder}}`** esté listo"
 }
