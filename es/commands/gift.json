@@ -1,5 +1,12 @@
 {
-    "GIFT_SLASH_DESC": "Introduce el usuario al que quieres regalar {{eventItem}}.",
-    "GIFT_DESCRIPTION": "\"Gift\" tus \"Event Ítems\" a otro usuario",
-    "INVALID_AMOUNT": "{{author}} No puedes regalar una cantidad negativa de `{{eventItem}}`"
+    "GIFT_SLASH_DESC": "Introduce el usuario al que quieres regalar {{eventItem}}",
+    "GIFT_DESCRIPTION": "\"Gift\" tus \"Event Items\" a otro usuario",
+    "INVALID_AMOUNT": "{{author}} No puedes regalar una cantidad negativa de `{{eventItem}}`",
+    "GIFT_SUCCESSFUL": "{{author}} has regalado **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} a recibido un total de **{{recieveCount}}** `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}} Ese jugador no existe",
+    "GIFT_CATEGORY": "Cartas",
+    "GIFT_WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}gift <User> <Amount>`",
+    "INVALID_USER": "{{author}} No puedes regalarte `{{eventItem}}` a ti mismo",
+    "NOT_ENOUGH_ITEM": "{{author}} No tienes **{{amount}}** `{{eventItem}}`",
+    "GIFT_SLASH_DESC2": "Introduce la cantidad de `{{eventItem}}` que quieres regalarles"
 }
