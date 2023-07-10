@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Rimuove i tuoi affari dal mercato",
+    "DESCRIPTION": "Rimuove le tue offerte dal mercato",
     "CORRECT_USAGE": "{{user}} | Fornisci l'ID dell'affare o usa il comando `smull all` per rimuovere tutti gli affari in una sola volta",
     "INVALID_DEAL_ID": "{{author}} L'ID che hai fornito non è valido o non è relativo al tuo affare",
     "SUCCESS_UL": "{{user}} l'affare {{dealId}} è stato rimosso con successo dal mercato",

@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Apre le casse e le casse di bottino",
-    "SLASH_DESC_1": "Inserisci il nome dell'oggetto che vuoi aprire",
+    "DESCRIPTION": "Apre chests e lootboxes",
+    "SLASH_DESC_1": "Inserisci \"item\" che desideri aprire",
     "SLASH_DESC_2": "Inserisci l'importo.",
     "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}open <NomeOggetto> <Quantità>`",
     "EMPTY_INV": "{{author}} Il tuo `Inventory` è vuoto",

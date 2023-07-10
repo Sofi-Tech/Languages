@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Invia una richiesta di scambio ad un altro giocatore. Con questa funzione puoi scambiare contemporaneamente più carte e \"oggetti\"",
+    "DESCRIPTION": "Invia una richiesta di scambio ad un altro giocatore. Con questa funzione puoi scambiare contemporaneamente più carte e \"Items\"",
     "MENTION_USER": "{{author}} Menziona un utente con cui vuoi fare lo scambio o usa il loro ID",
     "IN_TRADE": "{{user}} Hai già inviato una richiesta di scambio a qualcuno! Annulla quello precedente prima di iniziarne uno nuovo",
     "BOT_TRADE": "{{author}} Non puoi fare trading con un `BOT`",

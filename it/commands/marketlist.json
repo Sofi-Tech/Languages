@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Mette i tuoi \"Wist\" sul mercato, che possono poi essere acquistati da altri giocatori con \"Gems\"",
+    "DESCRIPTION": "Mette i tuoi \"Wists\" sul mercato, che possono poi essere acquistati da altri giocatori con \"Gems\"",
     "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}ml <Amount> <Rate>`",
     "INVALID_GEM_RATE": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
     "GEM_RATE_LIES": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",

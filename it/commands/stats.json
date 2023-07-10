@@ -36,5 +36,16 @@
     "DUPLICATE_MODAL_TITLE": "Level Up",
     "BASECODE_ERROR": "{{author}} Non puoi fondere la carta con se stessa",
     "NOT_DUPLICATE": "{{author}} I seguenti codici carta non sono duplicati dello stesso carattere:\n> `{{dupeCode}}`",
-    "FUSE_CARDS_INFO": "{{author}} Hai bisogno di **{{dupeCodes}}* <:_:979673719884636210> per fondere le carte"
+    "FUSE_CARDS_INFO": "{{author}} Hai bisogno di **{{dupeCodes}}** <:_:979673719884636210> per fondere le carte",
+    "SUCCESSFUL_FUSED": "{{author}} ha unito con successo **{{dupeCodes}}** carte per **{{amount}}** <:_:979673719884636210>\nLa tua carta ha ricevuto **{{totalXP}}** EXP ed è ora di livello: **{{netLevel}}**",
+    "NO_AVAILABLE_MOVES": "{{author}} Questa carta non ha più abilità tra cui scegliere",
+    "UNLOCKED_MOVES": "La tua carta ha imparato **{{attackName}}** **[{{newMove}}%]**",
+    "MISSING_REROLLS": "{{author}} Non hai `Reroll Scrolls`",
+    "EFFECTIVE_REROLL": "{{author}} La potenza di `{{attackName}}` è stata rilanciata: **{{effectiveNess}}%** 🠚 **{{newEffective}}%**",
+    "NOT_ENOUGH_POINTS": "{{author}} La tua carta non ha punti di upgrade disponibili",
+    "MAXIMUM_STAT": "{{author}} La statistica **{{stat}}** è già al massimo",
+    "CANNOT_EXCEED_POINTS": "{{author}} Puoi assegnare un massimo di **150** {{stat}} punti a una carta",
+    "ADD_PER_STAT": "{{author}} Puoi assegnare un massimo di **150** {{stat}} punti a una carta",
+    "POINTS_NEGATIVE_ERROR": "{{author}} Non puoi aggiungere punti negativi a una statistica",
+    "POINTS_INFO": "{{author}} Hai solo **{{points}}** punti rimasti da assegnare"
 }

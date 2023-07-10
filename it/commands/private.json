@@ -1,7 +1,7 @@
 {
-  "PVT_DESCRIPTION": "Rendi privata la tua \"Collezione\", \"Lista dei desideri\" o \"Inventario\"",
-  "PVT_CATEGORY": "Impostazioni",
-  "WRONG_ARGUMENTS": "{{author}} Utilizzo corretto: `{{prefix}}pvt <C/WL/INV>`",
-  "PRIVATE_ENABLED": "{{author}} Adesso la tua **{{content}}** è privata",
-  "PRIVATE_DISABLED": "{{author}} La tua **{{content}}** non è più privata"
+    "PVT_DESCRIPTION": "Rendi privata la tua \"Collezione\", \"Lista dei desideri\" o \"Inventory\"",
+    "PVT_CATEGORY": "Impostazioni",
+    "WRONG_ARGUMENTS": "{{author}} Utilizzo corretto: `{{prefix}}pvt <C/WL/INV>`",
+    "PRIVATE_ENABLED": "{{author}} Adesso la tua **{{content}}** è privata",
+    "PRIVATE_DISABLED": "{{author}} La tua **{{content}}** non è più privata"
 }

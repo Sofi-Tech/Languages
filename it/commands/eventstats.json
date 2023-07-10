@@ -1,9 +1,9 @@
 {
-  "ES_DESCRIPTION": "Mostra una classifica per le schede \"Event\"",
-  "ES_CATEGORY": "Impostazioni",
-  "EMBED_TITLE": "Evento: {{eventName}}",
-  "MENU_PLACEHOLDER": "Seleziona evento",
-  "MENU_HAL_LABEL": "Halloween 2022",
-  "MENU_VAL_LABEL": "San Valentino 2023",
-  "MENU_MNC_LABEL": "Monocromatico 2023"
+    "ES_DESCRIPTION": "Visualizza una classifica per l'invio di carte \"Evento\"",
+    "ES_CATEGORY": "Impostazioni",
+    "EMBED_TITLE": "Evento: {{eventName}}",
+    "MENU_PLACEHOLDER": "Seleziona evento",
+    "MENU_HAL_LABEL": "Halloween 2022",
+    "MENU_VAL_LABEL": "San Valentino 2023",
+    "MENU_MNC_LABEL": "Monocromatico 2023"
 }

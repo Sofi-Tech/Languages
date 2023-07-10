@@ -1,5 +1,5 @@
 {
-    "HELP_DESCRIPTION": "Dispone una lista di tutti i comandi disponibili",
+    "HELP_DESCRIPTION": "Visualizza un elenco di tutti i comandi disponibili",
     "HELP_CATEGORY": "Impostazioni",
     "HELP_SLASH_DESC": "Assegna un nome al comando di cui vuoi saperne di più",
     "FILTER_SERIES": "<:pdot:979009081325019156> **Serie** = [`s`/`series`] | **`sc s=SERIE`**",
@@ -45,11 +45,11 @@
     "EMBED_TITLE": "SOFI: MENU D'AIUTO",
     "EMBED_FOOTER": "Richiesto da {{username}}",
     "COMMNAD_NOT_FOUND": "{{author}} | nessun comabdo è srato trovato sotto il nome di `{{command}}`. Intendevi dire?{{commandName}}",
-    "USAGE_EMBED_TITLE": "Come usare: {{command}}",
-    "ALIASES": "Aliases:",
-    "COOLDOWN": "Cooldown:",
+    "USAGE_EMBED_TITLE": "SOFI HELP: **{{command}}**",
+    "ALIASES": "Alias:",
+    "COOLDOWN": "Raffreddare:",
     "DESCRIPTION": "Descrizione:",
     "USAGE": "Modo d'uso:",
-    "NO_ALIASES": "No aliases",
+    "NO_ALIASES": "Nessun alias",
     "NOT_PROVIDED": "Non fornito"
 }

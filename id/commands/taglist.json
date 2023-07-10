@@ -1,7 +1,7 @@
 {
     "TL_DESCRIPTION": "Menampilkan daftar \"Tags\"",
     "TL_CATEGORY": "Tag",
-    "NO_USER": "{{author}} Pengguna tidak ditemukan",
+    "NO_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
     "NO_TAGS": "{{author}} Tidak dapat menemukan tag apapun",
     "EMBED_TITLE": "Daftar Tag: {{username}}",
     "SOFI_FACT": "Sebuah \"Tag\" dengan nama \"lock\" dan emoji gembok \"🔒\" akan mencegah anda untuk membakar atau memberikan kartu apapun dengan tag tersebut!\nContoh: \"{{prefix}}tc lock 🔒\"",
