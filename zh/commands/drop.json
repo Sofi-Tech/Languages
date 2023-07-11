@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "- 每隔8分钟，您可以使用此命令丢弃3张卡片。\n- 使用命令“sdn”进行丢弃而不使用任何图像。 在数据不足或不想滞后时很有帮助。",
+    "DESCRIPTION": "{{prefix}}- 每隔8分钟，您可以使用此命令丢弃3张卡片。\n- 使用命令“sdn”进行丢弃而不使用任何图像。 在数据不足或不想滞后时很有帮助",
     "JOIN_SUPPORT_SERVER": "[加入支援服务器以获取帮助](https://discord.gg/sofi)",
     "EXTRA_DROP_ALERT": "{{author}}*您的额外掉落已被使用。 剩余 `{{remaining}}`.*",
     "ON_CD": "{{author}}请在{{dropCd}}后再试一次",

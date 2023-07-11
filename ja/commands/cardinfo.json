@@ -2,7 +2,7 @@
     "DESCRIPTION": "カード情報を表示する",
     "SLASH_DESC": "調べたいカードのコードを入力してください",
     "NO_CARD_FOUND": "最後のカードを見つけることができません。代わりにカードコードを提供してみてください。",
-    "INVALID_CARD_CODE": "{{author}} あなたが提供したカードコードは無効です",
+    "INVALID_CARD_CODE": "{{author}} カードコードが見つかりませんでした",
     "CARD_MORPHED": "そのカードはモーフィングされています。",
     "CARD_GLOWED": "そのカードには次の`輝きが`適用されています：__ {{glowName}} [＃{{viewCode}}] {{isSuper}} __\n",
     "CARD_FONT": "フォントの色：{{fontName}} [`#{{ viewCode}}`]\n",

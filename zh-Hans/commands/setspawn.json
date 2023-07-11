@@ -1,1 +1,8 @@
-{}
+{
+    "SS_DESCRIPTION": "设置大量的通道和服务器",
+    "SS_CATEGORY": "设置",
+    "SS_SLASH_DESC": "选择频道",
+    "SS_MENTION_CHANNEL": "{{author}}正确用法：{{prefix}}ss<#频道提及/通道号",
+    "SS_DISABLE": "{{author}}卡牌将不再在此服务器上生成",
+    "SS_ENABLE": "{{author}}大量渠道已设置为{{channel}}"
+}
