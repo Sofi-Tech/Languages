@@ -5,7 +5,7 @@
     "SLASH_DESC3": "Introduce el código del `Background` que quieres comprar. [FUNCIONA SÓLO SI EL ITEM ESTÁ SELECCIONADO COMO BACKGROUND]",
     "NO_ITEM": "Por favor especifica un `Item` para comprar",
     "TRADEPASS_INFO": "Puedes intercambiar **__1__** `Bump` por un `Trade Pass` de 4 horas o guardar **__20__** `Bumps` para intercambiar por un `Trade Pass` de 30 días",
-    "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <BackgroundID> <Cantidad>`",
+    "CORRECT_USAGE": "{{USER}} Uso correcto: `{{prefix}}buy bg <IDDelBackdround> <Cantidad>`",
     "INVALID_BG_AMOUNT": "No introduzcas una cantidad negativa",
     "INVALID_BG_ID": "Proporciona un ID de `Background` válido",
     "NO_ITEM_PROVIDED": "No se proporcionó ningún `Item`",

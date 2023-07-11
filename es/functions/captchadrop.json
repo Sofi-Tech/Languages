@@ -1,1 +1,10 @@
-{}
+{
+    "EXTRA_GRAB": "{{user}} Su **Extra Grab** se está utilizando. Tiene **{{remaining}}** restante",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "Reclama la carta anterior escribiendo el captcha",
+    "BATTLED_WON_PLURAL": "{{winner}} peleó contra **{{userCount}}** otros jugadores y reclamó la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}} tomó la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "WAIT_TO_CLAIM": "{{user}} Debes esperar **{{cooldown}}** para reclamar otra carta",
+    "BATTLED_AND_WON": "{{winner}} peleó contra {{user}} y reclamó la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} reclamó la carta **{{characterName}}**"
+}

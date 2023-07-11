@@ -2,7 +2,7 @@
     "DESCRIPTION": "Mostra le informazioni della carta",
     "SLASH_DESC": "Inserisci il codice di una carta che vuoi esaminare",
     "NO_CARD_FOUND": "Impossibile trovare la tua ultima carta. Prova invece a fornire un codice della carta",
-    "INVALID_CARD_CODE": "{{author}} Il codice della carta che hai fornito non è valido",
+    "INVALID_CARD_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "CARD_MORPHED": "La carta è stata modificata",
     "CARD_GLOWED": "La carta è illuminata con __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Colore del testo: {{fontName}} [`#{{ viewCode}}`]\n",

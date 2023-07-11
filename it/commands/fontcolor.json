@@ -2,7 +2,7 @@
     "FC_DESCRIPTION": "Cambia il colore del carattere di una carta applicandovi un \"Glow\"",
     "FC_CATEGORY": "Cosmetici",
     "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "NOT_CARD_OWNER": "{{author}} Il codice carta che hai inserito non è valido o non ti appartiene",
+    "NOT_CARD_OWNER": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "CANNOT_FIND_CARD": "{{author}} Non hai ancora nessuna carta nella tua collezione",
     "3D_ERROR": "{{author}} Non puoi modificare il colore del font delle carte 3D",
     "UNLOCK_GLOWS": "{{author}} non hai `glows`",

@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "Aplica un `Frame` a tú carta",
     "UF_CATEGORY": "Cosméticos",
     "UF_INVALID_USAGE": "{{author}} Uso correcto: `{{prefix}}uf <CódigoDeCarta> <NombreDelFrame/CódigoDelFrame>`",
-    "INVALID_CODE": "{{author}} Ese código de carta no es válido o no está en tu colección",
+    "INVALID_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
     "CANNOT_APPLY": "{{author}} No puedes aplicar un `Frame` a una carta `3D`",
     "NO_GIF": "{{author}} No puedes aplicar un `Frame` a una carta `GIF`",
     "NO_FRAMES_FOUND": "{{author}} El código de ese `Frame` noes válido o no está en tu `Inventory`",

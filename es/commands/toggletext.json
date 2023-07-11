@@ -2,7 +2,7 @@
     "TT_DESCRIPTION": "Alterna la visibilidad del texto de una carta",
     "TT_CATEGORY": "Cosméticos",
     "PROVIDE_CARD_CODE": "{{author}} Uso correcto: `{{prefix}}tt <CódigoDeCarta>`",
-    "INAVLID_CARD_CODE": "{{author}} Ese código de carta no es válido o no está en tu colección",
+    "INAVLID_CARD_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
     "INVALID_CODE": "{{author}} Aún no tienes ninguna carta en tu colección",
     "CANNOT_FIND_CARD": "{{author}} Ese personaje ya no existe!",
     "CANNOT_TOGGLE": "{{author}} No puedes alternar el texto de las cartas \"3D\" o \"GIF\"",
