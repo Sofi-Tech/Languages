@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "从卡片中移除变形",
-  "UM_CATEGORY": "化妆品",
-  "UM_INVALID_USAGE": "提供有效的卡片代码",
-  "INVALID_CODE": "{{author}} 卡片代码无效或不在您的收藏中",
-  "NO_CHARACTER": "{{author}}未找到角色!",
-  "NO_GIF": "{{author}} 化妆品命令不能应用于 GIF 卡片",
-  "NOT_MORPHED": "{{author}} 卡片未变形",
-  "EMBED_TITLE": "撤消变形",
-  "UM_CONFIRMATION": "您即将从您的卡中移除变形\n您的卡将显示如下\n该过程将花费100银币",
-  "NO_OWNER": "{{author}}该卡片不再属于您",
-  "SOMETHING_WENT_WRONG": "出现了一些严重错误... <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
-  "UM_SUCCESSFUL": "变形已成功移除"
+    "UM_DESCRIPTION": "从卡片中移除变形",
+    "UM_CATEGORY": "化妆品",
+    "UM_INVALID_USAGE": "{{author}}提供有效的{{prefix}}卡片代码",
+    "INVALID_CODE": "{{author}} 卡片代码无效或不在您的收藏中",
+    "NO_CHARACTER": "{{author}}未找到角色!",
+    "NO_GIF": "{{author}} 化妆品命令不能应用于 GIF 卡片",
+    "NOT_MORPHED": "{{author}} 卡片未变形",
+    "EMBED_TITLE": "撤消变形",
+    "UM_CONFIRMATION": "您即将从您的卡中移除变形\n该过程将花费100银币",
+    "NO_OWNER": "{{author}}该卡片不再属于您",
+    "SOMETHING_WENT_WRONG": "{{author}}出现了一些严重错误... <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
+    "UM_SUCCESSFUL": "变形已成功移除"
 }

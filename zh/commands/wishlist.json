@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "展示你的愿望清单",
     "CATEGORY": "清单",
-    "USER_NOT_FOUND": "找不到用户。",
+    "USER_NOT_FOUND": "找不到用户",
     "WISHLIST_PRIVATE": "> 该用户的愿望清单是私有的",
     "WISHLIST_EMPTY": "> {{username}} 的愿望清单为空，就像我的内心一样 💔",
     "WISHLIST_EMBED_TITLE": "{{username}} 的愿望清单 [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "使用 {{prefix}}wu/{{prefix}}wu max 命令来增加愿望清单槽位 | 页面: {{page}}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "使用 {{prefix}} wu /{{prefix}}wu max 命令来增加愿望清单槽位 | 页面: {{page}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "复制代码",
     "COPY_CODES_MENU_LABEL": "复制所有代码",
     "COPY_CODES_MENU_DESCRIPTION": "将所有代码作为文本消息发送",
@@ -14,6 +14,6 @@
     "CARD_MENU_DESCRIPTION": "复制 {{name}} 的代码",
     "COPY_CODES_MENU_PLACEHOLDER": "复制代码",
     "CODES_COPIED": "已复制",
-    "ALL_CARD_CODES": "这里是代码",
+    "ALL_CARD_CODES": "这里是代码：\n",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI：愿望清单的代码"
 }
