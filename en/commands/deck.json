@@ -11,7 +11,7 @@
     "ENTER_CODES": "Enter the card codes",
     "MODAL_TITLE": "Set Deck",
     "MISSING_CODES": "> At least 3 card codes are required",
-    "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
+    "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
     "CODE_REPEAT": "> Card codes must not repeat",
     "MOVES_UNIQUE": "All abilities in a deck must be **unique**! Select different cards or change their abilities to proceed",
     "SAVE_DECK": "Click on save to set this deck",

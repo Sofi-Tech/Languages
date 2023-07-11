@@ -2,10 +2,10 @@
     "BG_DESCRIPTION": "Applies a \"Background\" to your 3D cards",
     "BG_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
+    "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
     "NON_3D_CARDS": "{{author}} You cannot apply `Backgrounds` to non-3D cards",
     "BG_NOT_FOUND": "Could not find any `Background` with that ID",
-    "EMBED_TITLE": "Apply Background:",
+    "EMBED_TITLE": "SOFI: Background",
     "EMBED_DESCRIPTION": "You are about to apply the `Background` **{{background}}** to this card",
-    "USER_NO_BG": "You don't have that `Background`"
+    "USER_NO_BG": "{{author}} You don't have that `Background`"
 }

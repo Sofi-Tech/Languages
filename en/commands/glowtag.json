@@ -1,10 +1,10 @@
 {
-  "GT_DESCRIPTION": "\"Tags\" your \"Glows\"",
-  "GT_CATEGORY": "Tags",
-  "GLOWTAGS_NOT_FOUND": "{{author}} You don't have any `Glow Tags` yet. You can create them with the command `{{prefix}}gtc <Name> <Emoji>`",
-  "GLOWS_NOT_UNLOCKED": "{{author}} You don't have any `Glows`yet",
-  "MISSING_GLOWTAG": "{{author}} You need to provide a `Glow Tag`",
-  "INVALID_GLOW_CODE": "{{author}} One or more of the provided `Glow` codes is invalid",
-  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** was successfully tagged as `{{tag}}`",
-  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} All `Glows` were successfully tagged"
+    "GT_DESCRIPTION": "\"Tags\" your \"Glows\"",
+    "GT_CATEGORY": "Tags",
+    "GLOWTAGS_NOT_FOUND": "{{author}} You don't have any `Glow Tags` yet. You can create them with the command `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} You don't have any `Glows`yet",
+    "MISSING_GLOWTAG": "{{author}} You need to provide a `Glow Tag`",
+    "INVALID_GLOW_CODE": "{{author}} At least one of the `Glow` codes you provided is invalid",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** was successfully tagged as `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} All `Glows` were successfully tagged"
 }

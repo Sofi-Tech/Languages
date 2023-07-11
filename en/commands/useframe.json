@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Applies a \"Frame\" to your card",
-  "UF_CATEGORY": "Cosmetics",
-  "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-  "INVALID_CODE": "{{author}} That card code is either invalid or not in your collection",
-  "CANNOT_APPLY": "{{author}} You cannot apply a `Frame` to a `3D` card",
-  "NO_GIF": "{{author}} You cannot apply a `Frame` to a `GIF` card",
-  "NO_FRAMES_FOUND": "{{author}} That `Frame` code is either invalid or not in your `Inventory`",
-  "EMBED_TITLE": "APPLY FRAME:",
-  "UF_CONFIRMATION": "You are about to apply the `Frame` **{{frameName}}** to this card",
-  "EMBED_FOOTER": "This card already has a `Frame` applied to it. Applying another one will destroy the previous one!",
-  "NO_OWNER": "{{author}} This card is no longer in your collection",
-  "FRAME_NOT_FOUND": "{{author}} You dont have a **{{frameName}}** `Frame`",
-  "UF_SUCCESSFUL": "The `Frame` was successfully applied"
+    "UF_DESCRIPTION": "Applies a \"Frame\" to your card",
+    "UF_CATEGORY": "Cosmetics",
+    "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
+    "CANNOT_APPLY": "{{author}} You cannot apply a `Frame` to a `3D` card",
+    "NO_GIF": "{{author}} You cannot apply a `Frame` to a `GIF` card",
+    "NO_FRAMES_FOUND": "{{author}} That `Frame` code is either invalid or not in your `Inventory`",
+    "EMBED_TITLE": "APPLY FRAME:",
+    "UF_CONFIRMATION": "You are about to apply the `Frame` **{{frameName}}** to this card",
+    "EMBED_FOOTER": "This card already has a `Frame` applied to it. Applying another one will destroy the previous one!",
+    "NO_OWNER": "{{author}} This card is no longer in your collection",
+    "FRAME_NOT_FOUND": "{{author}} You dont have a **{{frameName}}** `Frame`",
+    "UF_SUCCESSFUL": "The `Frame` was successfully applied"
 }

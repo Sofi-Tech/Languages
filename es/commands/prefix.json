@@ -1,6 +1,6 @@
 {
-  "PREFIX_DESCRIPTION": "Establece el prefijo de Sofi para este servidor",
-  "PREFIX_CATEGORY": "Ajustes",
-  "PROVIDE_PREFIX": "{{author}} Uso correcto: `{{prefix}}prefix <NuevoPrefijo>`",
-  "PREFIX_SET_SUCCESSFUL": "{{author}} El prefijo para este servidor se ha establecido en `{{prefix}}`"
+    "PREFIX_DESCRIPTION": "Establece el prefijo de Sofi para este servidor",
+    "PREFIX_CATEGORY": "Configuración",
+    "PROVIDE_PREFIX": "{{author}} Uso correcto: `{{prefix}}prefix <NuevoPrefijo>`",
+    "PREFIX_SET_SUCCESSFUL": "{{author}} El prefijo para este servidor se ha establecido en `{{prefix}}`"
 }

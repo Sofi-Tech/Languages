@@ -1,9 +1,9 @@
 {
-  "ES_DESCRIPTION": "Muestra una tabla de clasificación para las presentaciones de tarjetas \"Evento\"",
-  "ES_CATEGORY": "Ajustes",
-  "EMBED_TITLE": "Evento: {{eventName}}",
-  "MENU_PLACEHOLDER": "Seleccionar Evento",
-  "MENU_HAL_LABEL": "Halloween 2022",
-  "MENU_VAL_LABEL": "San Valentín 2023",
-  "MENU_MNC_LABEL": "Monocromo 2023"
+    "ES_DESCRIPTION": "Muestra una tabla de clasificación para los envíos de cartas de \"Event\"",
+    "ES_CATEGORY": "Configuración",
+    "EMBED_TITLE": "Event: {{eventName}}",
+    "MENU_PLACEHOLDER": "Seleccionar Event",
+    "MENU_HAL_LABEL": "Halloween 2022",
+    "MENU_VAL_LABEL": "Valentine 2023",
+    "MENU_MNC_LABEL": "Monochrome 2023"
 }

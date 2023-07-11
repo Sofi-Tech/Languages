@@ -1,10 +1,10 @@
 {
-    "BUMP_DESCRIPTION": "\"Sofi.gg\" वेबसाइट पर \"Bump\" करके, \"Trade Pass\" जैसे ईनाम प्राप्त करें",
+    "BUMP_DESCRIPTION": "\"Sofi.gg\" वेबसाइट पर \"Bump\" करके, \"Trade Pass\" जैसे ईनाम प्राप्त कर सकते है",
     "BUMP_CATEGORY": "सेटिंग्स",
-    "EMBED_AUTHOR": "{{username}} के Bumps",
-    "GET_DIFFERENT_REWARDS": "रिवॉर्ड प्राप्त करने के लिए आधिकारिक Sofi.gg वेबसाइट पर `Bump` करें",
-    "TOTAL_BUMP": "> कुल `Bumps`: {{bump}}",
-    "BUMP_POINTS": "> वर्तमान अंक: {{bumpPoints}}",
-    "EMBED_FOOTER": "आप 4 घंटे के अंतराल से `Bump` फंक्शन का उपयोग कर सकते हैं!",
+    "EMBED_AUTHOR": "{{username}} के कुल Bumps",
+    "GET_DIFFERENT_REWARDS": "[Sofi.gg]{https://sofi.gg) पर Bump बटन दबाए और इनाम प्राप्त करे",
+    "TOTAL_BUMP": "> कुल `Bumps`: **{{bump}}**",
+    "BUMP_POINTS": "> वर्तमान अंक: **{{bumpPoints}}**",
+    "EMBED_FOOTER": "आप हर 4 घंटे के अंतराल में `Bump` का उपयोग कर सकते हैं!",
     "BUMP": "BUMP"
 }

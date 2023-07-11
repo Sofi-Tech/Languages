@@ -1,8 +1,8 @@
 {
-    "SS_DESCRIPTION": "Establece el canal de spawn en el servidor",
-    "SS_CATEGORY": "Ajustes",
-    "SS_MENTION_CHANNEL": "{{author}} Uso correcto: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+    "SS_DESCRIPTION": "Establece el canal de drops por actividad en el servidor",
+    "SS_CATEGORY": "Configuración",
+    "SS_MENTION_CHANNEL": "{{author}} Uso correcto: `{{prefix}}ss <#MenciónDeCanal/IDDelCanal>`",
     "SS_SLASH_DESC": "Selecciona un canal",
-    "SS_DISABLE": "{{author}} Las cartas ya no harán spawn en este canal",
-    "SS_ENABLE": "{{author}} El canal de spawn fue colocado en {{channel}}"
+    "SS_DISABLE": "{{author}} Las cartas ya no se dropearán en este canal",
+    "SS_ENABLE": "{{author}} El canal de drops por actividad ha sido establecido en {{channel}}"
 }
