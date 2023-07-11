@@ -1,15 +1,15 @@
 {
-  "UM_DESCRIPTION": "Retirer le `Morph` d'une carte",
-  "UM_CATEGORY": "Cosmetics",
-  "UM_INVALID_USAGE": "{{author}} Utilisation correct: `{{prefix}}um <CodeCarte>`",
-  "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
-  "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
-  "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
-  "NOT_MORPHED": "{{author}} Cette carte n'a pas de `Morph` appliqué",
-  "EMBED_TITLE": "RETIRER MORPH",
-  "UM_CONFIRMATION": "Vous êtes sur le point de retirer la morphologie de votre carte\nVotre carte aura l'air comme ci-dessous\nLe processus coûtera **100** `Silver`",
-  "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
-  "SOMETHING_WENT_WRONG": "{{author}} Quelque chose s'est mal passé, essayer à nouveau",
-  "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
-  "UM_SUCCESSFUL": "Le `Morph` a été retirée avec succès"
+    "UM_DESCRIPTION": "Retirer le `Morph` d'une carte",
+    "UM_CATEGORY": "Cosmetics",
+    "UM_INVALID_USAGE": "{{author}} Utilisation correct: `{{prefix}}um <CodeCarte>`",
+    "INVALID_CODE": "{{author}} Ce code de carte n'est soit pas dans votre collection soit invalide",
+    "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
+    "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
+    "NOT_MORPHED": "{{author}} Cette carte n'a pas de `Morph` appliqué",
+    "EMBED_TITLE": "RETIRER MORPH",
+    "UM_CONFIRMATION": "Vous êtes sur le point de retirer la morphologie de votre carte\nVotre carte aura l'air comme ci-dessous\nLe processus coûtera **100** `Silver`",
+    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
+    "SOMETHING_WENT_WRONG": "{{author}} Quelque chose s'est mal passé, essayer à nouveau",
+    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
+    "UM_SUCCESSFUL": "Le `Morph` a été retirée avec succès"
 }

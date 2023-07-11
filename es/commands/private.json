@@ -1,7 +1,7 @@
 {
-    "PVT_DESCRIPTION": "Hace privada tu \"Colección\", \"Lista de deseos\" o \"Inventario\"",
+    "PVT_DESCRIPTION": "Hace privada tu \"Colección\", \"Lista de deseos\" o \"Inventory\"",
     "PVT_CATEGORY": "Configuración",
     "WRONG_ARGUMENTS": "{{author}} Uso correcto: `{{prefix}}pvt <C/WL/INV>`",
-    "PRIVATE_ENABLED": "{{author}} Tu **{{content}}** ahora es privado(a)",
+    "PRIVATE_ENABLED": "{{author}} Tu **{{content}}** es ahora privado(a)",
     "PRIVATE_DISABLED": "{{author}} Tu **{{content}}** ya no es privado(a)"
 }

@@ -1,6 +1,6 @@
 {
     "BG_CATEGORY": "Cosmetics",
-    "INVALID_CODE": "{{author}} Ce code de carte est soit invalide ou alors n'est pas dans votre collection",
+    "INVALID_CODE": "{{author}} Ce code de carte n'est soit pas dans votre collection soit invalide",
     "NON_3D_CARDS": "{{author}} Vous ne pouvez pas appliquer de `Background` à une carte qui n'est pas 3D",
     "BG_DESCRIPTION": "Applique un \"Background\" à votre carte 3D",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}bg <CodeDeCarte> <IDBackground>`",
