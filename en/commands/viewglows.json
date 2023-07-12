@@ -9,7 +9,7 @@
     "EMBED_TITLE": "SOFI: VIEW `GLOWS`",
     "EMBED_FOOTER": "Total \"Glows\": {{count}}",
     "SHOWING_PAGE": "Showing page: {{page}}/{{totalPages}}",
-    "NO_GLOWS_FOUND": "{{author}} Could not find any `Tag` with the name: `{{tagName}}`",
+    "NO_GLOWS_FOUND": "{{author}} You don't have a `Tag` with the name: `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} Could not find any `Glow` with the code `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VIEW `GLOWS`",
     "NAME": "`Name:     ` ➜ {{name}}",
