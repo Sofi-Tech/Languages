@@ -6,11 +6,11 @@
     "MARKED_ALL_READ": "{{author}} Tutti i `Mails` sono stati contrassegnati come letti",
     "REWARD_CLAIMED_BUTTON_LABEL": "Reclamata",
     "CLAIMED_REWARD_ALREADY": "Hai già richiesto la ricompensa!",
-    "REWARD_CLAIM_INVENTORY": "Gli `Items` allegati sono stati aggiunti al tuo `Inventory`",
+    "REWARD_CLAIM_INVENTORY": "{{author}} Gli `items` allegati sono stati aggiunti al tuo `Inventory`",
     "CLAIM_REWARD_BUTTON_LABEL": "Richiedi la tua ricompensa",
     "MAIL_OPEN_FOOTER": "Usa i pulsanti per tornare indietro o per richiedere i premi.",
     "EMBED_AUTHOR": "{{username}}'s posta in arrivo",
-    "MAIL_REWARDS": "Ricompensa",
+    "MAIL_REWARDS": "**__Premi__**:\n",
     "MAIL_FRAME": "`Frame`",
-    "MENU_PLACEHOLDER": "Apri una \"Mail\""
+    "MENU_PLACEHOLDER": "Seleziona un'opzione"
 }

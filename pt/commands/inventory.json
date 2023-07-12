@@ -1,18 +1,18 @@
 {
     "DESCRIPTION": "Mostra o \"Inventário\" de um usuário",
-    "SLASH_DESC": "Digite o usuário o qual você deseja ver o inventário",
-    "SLASH_DESC2": "Digite o `Item` que você deseja pesquisar",
+    "SLASH_DESC": "Digite o usuário o qual você deseja ver o \"Inventário\"",
+    "SLASH_DESC2": "Digite o \"Item\" que você deseja pesquisar",
     "NOT_REGISTER": "{{author}} | Este usuário não está registrado!",
     "NO_USER_FOUND": "{{author}} Não foi possível encontrar este usuário",
     "INV_PRIVATE": "{{author}} O `Inventário` deste usuário é privado",
     "ITEMS": "Itens",
-    "FRAMES": "Molduras",
-    "CRYSTALS": "Cristais",
-    "BACKGROUNDS": "Planos de Fundo",
+    "FRAMES": "Frames",
+    "CRYSTALS": "Crystals",
+    "BACKGROUNDS": "Backgrounds",
     "EVENT": "Evento",
     "SELF_INV_EMPTY": "{{author}} Seu `Inventário` está vazio",
     "USER_INV_EMPTY": "{{author}} O`Inventário` deste usuário está vazio",
-    "NO_BG_FOUND": "Você não tem nenhum `Background`",
+    "NO_BG_FOUND": "{{author}} Você não tem nenhum `Background`",
     "NO_ITEM_FOUND": "{{author}} Não foi possível encontrar este `Item` no `Inventário`",
-    "HIDE_INV": "Use o comando `{{prefix}}pvt inv` para deixar seu `Inventário` privado"
+    "HIDE_INV": "{{author}} Use o comando `{{prefix}}pvt inv` para deixar seu `Inventário` privado"
 }

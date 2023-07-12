@@ -18,7 +18,7 @@
     "DUPLICATE_MODAL_PLACEHOLDER": "Mangyaring ipasok ang isa o higit pang mga code ng card",
     "BASECODE_ERROR": "{{author}} Hindi mo maaring i-fuse ang card sa kanyang sarili",
     "DUPLICATE_MODAL_LABEL": "Ilagay ang Kodigo ng kard para ilevel up ang iyong kard! Ang prosesong ito ay nagkakahalaga ng 100 \"Elixer\"",
-    "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyon ay hindi wasto o hindi kasama sa iyong koleksyon",
+    "INVALID_CODE": "{{author}} Ang kodigo ng kard na ibinigay ay hindi wasto o hindi kasama sa iyong koleksyon",
     "STATS_SPECIAL": "Espesyal",
     "EMBED_FOOTER_OTHER": "ang {{unlockableMoves}} na abilidad ay pwedeng mabuksan",
     "EMBED_FOOTER_ONE": "{{unlockableMoves}} na abilidad ay nabuksan",
@@ -58,9 +58,10 @@
     "UNLOCK_ALL_MENU_DESC": "Buksan lahat ng abilidad",
     "LOCK_MOVE_PLACEHOLDER": "Pumili ng opsiyon",
     "SELECT_MOVES_MENU_PLACEHOLDER": "Pumili ng abilidad",
-    "REROLL_UNLOCKED": "{{author}}Ang lahat ng kakayahan ay nabuksan na",
+    "REROLL_UNLOCKED": "{{author}}Ang lakas ng lahat ng kakayahan ay nabuksan na",
     "RESET_STATS_MODAL_PLACEHOLDER": "Oo/Hindi",
     "LOCK_MENU_LABEL": "Lock Ability Potency",
     "REROLL_EFFECTIVENESS_LOCKED": "{{author}} Ang abilidad na iyon ay nakakandado at hindi pwedeng palitan!",
-    "RESET_MOVE_MODAL_LABEL": "Ang abilidad ng isang kard ay pwedeng mareset ng isang beses! Gusto mong ipagpatuloy?"
+    "RESET_MOVE_MODAL_LABEL": "Ang abilidad ng isang kard ay pwedeng mareset ng isang beses! Gusto mong ipagpatuloy?",
+    "REROLL_LOCKED": "{{author}}Ang lakas ng sumusunod na abilidad ay nakasara pa: **{{attacks}}**"
 }

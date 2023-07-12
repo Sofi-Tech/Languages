@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Compra \"Items\" da \"Loja\" do Sofi",
+    "DESCRIPTION": "Compra \"Itens\" da \"Loja\" do Sofi",
     "SLASH_DESC": "Digite o nome do `Item` que você deseja comprar",
     "SLASH_DESC2": "Digite a quantidade",
     "SLASH_DESC3": "Digite o código do `Background` que você deseja comprar. [FUNCIONA APENAS SE O ITEM FOR SELECIONADO COMO BACKGROUND]",
     "NO_ITEM": "Por favor, especifique um `Item` para comprar",
     "TRADEPASS_INFO": "Você pode trocar **__1x__** `Bump` por um `Trade Pass` de 4 horas ou economizar **__20x__** `Bumps` para comprar um `Trade Pass` de 30 dias",
-    "CORRECT_USAGE": "{{USER}} Uso correto: `{{prefix}}buy bg <ID do Background> <quantidade>`",
+    "CORRECT_USAGE": "{{USER}} Uso correto: `{{prefix}}buy bg <Background-ID> <quantidade>`",
     "INVALID_BG_AMOUNT": "Não digite valores negativos",
     "INVALID_BG_ID": "Por favor, forneça um ID de `Background` válido",
     "NO_ITEM_PROVIDED": "Nenhum `Item` fornecido",
-    "INVALID_AMOUNT": "{{author}} Você não pode dar de presente um número negativo de {{eventItem}}",
+    "INVALID_AMOUNT": "{{author}} Você não pode dar de presente um número negativo de `{{eventItem}}`",
     "INVALID_ITEM_PROVIDED": "{{USER}} `Item` fornecido é inválido"
 }

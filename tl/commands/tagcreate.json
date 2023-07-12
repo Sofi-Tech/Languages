@@ -3,8 +3,8 @@
     "TC_CATEGORY": "Mga Tags",
     "WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}tc <Pangalan ng Tag> <Emoji>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" ay hindi wastong emotikon!",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong `Tag` ay dapat naka alphanumeric at hindi dapat paglagyan ng espesyal karakters, spaces o kabastusan",
-    "LONG_TAGNAME": "{{author}} Ang pangalan ng `Tag`ay dapat nag lalaman lamang ng pinakamataas na 20 karakters",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong `Tag` ay dapat naka alphanumeric at hindi naglalaman ng espesyal karakters, spaces o kabastusan!",
+    "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong `Tag`ay dapat may 20 karakters lamang na haba",
     "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang `Tag` na may pangalan na `{{tag}}`",
-    "TAG_CREATED": "{{author}} Nalikha ang `Tag`na may pangalang: `{{tag}}` {{emoji}}"
+    "TAG_CREATED": "{{author}} Matagumpay na nakagawa `Tag`na may pangalang: `{{tag}}` | {{emoji}}"
 }

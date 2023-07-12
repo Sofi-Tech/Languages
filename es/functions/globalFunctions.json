@@ -5,5 +5,12 @@
     "GUILD_VETERANS": "Veterano",
     "GUILD_ADVENTURER": "Aventurero",
     "BUY_EMBED_TITLE": "TRANSACCIÓN:",
-    "YOU_PAY": "Pagas: {{additionalInfo}}"
+    "YOU_PAY": "Pagas: {{additionalInfo}}",
+    "NEED_GEMS": "Necesitas **500** `Gems` para hacer esta compra",
+    "NOT_ENOUGH_AMOUNT": "No tienes suficiente `{{item}}` para realizar esta compra",
+    "CODE_ONE": "<:linedown:868888105611046942> Código uno",
+    "CODE_TWO": "<:linedown:868888105611046942> Código Dos",
+    "SWAP_EMBED_TITLE": "Intercambio de código",
+    "SWAP_EMBED_FOOTER": "Este proceso intercambiará los códigos de carta de estas dos cartas",
+    "SOMETHING_WENT_WRONG": "¡Algo salió mal! Cualquier `Item` deducido se volvió a agregar a su `Inventory`"
 }

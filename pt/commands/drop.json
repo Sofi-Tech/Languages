@@ -1,8 +1,9 @@
 {
-    "DESCRIPTION": "- Esse comando irá efetuar um drop de 3 cartas e pode ser usado a cada 8 minutos.\n- Use o comando `sdn` para efetuar um drop de cartas sem imagens. Isto é útil para preservar dados móveis ou para evitar lag.",
+    "DESCRIPTION": "Gera um \"Drop\" de cartas\nUse o comando \"{{prefix}}dn\" para gerar um \"Drop\" sem imagens",
     "JOIN_SUPPORT_SERVER": "[Junte-se ao servidor de suporte para obter ajuda!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} Seu **Drop Extra** está sendo usado. Você tem `{{remaining}}`restantes.",
+    "EXTRA_DROP_ALERT": "{{author}} Seu **Extra Drop** está sendo usado. Você tem**{{remaining}}** restantes",
     "ON_CD": "{{author}} seu `Drop` estará pronto em {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nVocê também pode `Vote` para receber `Wists` e comprar `Drops` com eles!\nUse o comando `sbuy drop <quantidade>` para fazer isso"
+    "BUY_DROP": "\nVocê também pode `Vote` para receber `Wists` e comprar `Drops` com eles!\nUse o comando `{{prefix}}buy drop <Amount>` para comprar `Drops`",
+    "DROPPING_CARD": "{{author}} está `Dropping` cartas\n"
 }

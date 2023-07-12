@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "タグの作成をお願いします。`{{prefix}}tc` コマンドを使用してタグを作成してください。",
     "TAG_NOT_FOUND": "名前が `{{tag}}` のタグが見つかりません。",
     "NO_CARDS_CLAIMED": "まだクレームされたカードはありません。",
-    "INVALID_CARD_CODE": "{{author}} カードコードが見つかりませんでした",
+    "INVALID_CARD_CODE": "{{author}} 入力されたカードコードが無効や自分のコレクションで見つかりませんでした",
     "SUCCESSFUL_TAG": "{{author}}  `{{tag}}` として {{card}} を正常にタグ付けしました。",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} これらのカードのタグ付けが正常に完了しました。"
 }

@@ -2,9 +2,9 @@
     "BGS_DESCRIPTION": "Visualizza il \"Background Shop\"",
     "BGS_CATEGORY": "Cosmetici",
     "BGS_SLASH_DESC": "Inserisci il codice dello \"Background\" che stai cercando",
-    "VIEW_BACKGROUNDS": "Fare clic qui per visualizzare tutti gli `Backgrounds`",
+    "VIEW_BACKGROUNDS": "[Clicca qui per visualizzare tutti gli `Backgrounds`](<https://sofi.gg/backgrounds>)",
     "EMBED_TITLE": "SOFI: 3D BACKGROUNDS",
-    "APPLY_BG": "Per applicare uno `Background` utilizzare il comando `sbg <code> <bgID>`",
+    "APPLY_BG": "\nUsa il comando `{{prefix}}buy bg <Background-ID> <Quantità>`per acquistare `Backgrounds`",
     "SHOWING_PAGE": "Pagina visualizzata: {{page}}/{{pages}}",
-    "NO_BG_FOUND": "{{author}} Questo non è un ID `Background` valido"
+    "NO_BG_FOUND": "{{author}} Questo non è un `Background`-ID valido"
 }

@@ -1,6 +1,6 @@
 {
-  "BOOST_DESCRIPTION": "「Sofi Cafe」サーバーのNitroブーストのランキングを表示します",
-  "BOOST_CATEGORY": "設定",
-  "EMBED_TITLE": "Sofi Cafe Booster [{{lbInfo}}]合計ブースト数",
-  "EMBED_FOOTER": "Nitroブーストや寄付者の方々は、3Dバリアントやキャラクターのリクエストをすることができます。また、ユニークな「Userinfo」役職、カラー、アクションコマンドが付与されます。"
+    "BOOST_DESCRIPTION": "「Sofi Cafe」サーバーブーストランキングを表示する",
+    "BOOST_CATEGORY": "設定",
+    "EMBED_TITLE": "Sofi Cafe サーバーブースター [{{lbInfo}}]総サーバーブースター数",
+    "EMBED_FOOTER": "サーバーブースターは、または寄付者が新キャラや追加したキャラに3D化のリクエスト可能です。\nさらにユニークなサーバーロールも付与されて、「{{prefix}}userinfo」コマンドため特別な色、カスタマイズコマンドも付与されます！"
 }

@@ -5,7 +5,7 @@
     "NOT_CARD_OWNER": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "CANNOT_FIND_CARD": "{{author}} Non hai ancora nessuna carta nella tua collezione",
     "3D_ERROR": "{{author}} Non puoi modificare il colore del font delle carte 3D",
-    "UNLOCK_GLOWS": "{{author}} non hai `glows`",
+    "UNLOCK_GLOWS": "{{author}} Non hai nessun `Glows`",
     "PROVIDE_GLOWCODE": "{{author}} Utilizzo corretto: `{{prefix}}fc <CodiceCarta> <CodiceGlow>`",
     "WRONG_GLOWCODE": "{{author}} I codici `Glow` iniziano sempre con un **#**",
     "CANNOT_FIND_GLOW": "{{author}} Il codice `Glow` è o invalido o non è tuo",

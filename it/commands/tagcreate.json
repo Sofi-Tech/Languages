@@ -3,8 +3,8 @@
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} \"{{emoji}}\" non è un'emoji valida!",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Il nome del tuo `Tag` deve essere alfanumerico e non può contenere caratteri speciali, spazi o volgarità",
-    "LONG_TAGNAME": "{{author}} Un nome `Tag` può contenere un massimo di 20 caratteri",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Il nome del tuo `Tag` deve essere alfanumerico e non può contenere caratteri speciali, spazi o volgarità!",
+    "LONG_TAGNAME": "{{author}} Il nome del tuo `Tag` può essere lungo solo 20 caratteri",
     "TAGNAME_EXISTS": "{{author}} Hai già un `Tag` con il nome `{{tag}}`",
-    "TAG_CREATED": "{{author}} Ha creato un `Tag` con il nome: `{{tag}}` | {{emoji}}"
+    "TAG_CREATED": "{{author}} Creato con successo un `Tag` con il nome: `{{tag}}` | {{emoji}}"
 }

@@ -9,7 +9,7 @@
     "RECHARGE_CONFIRMATION": "Ikaw ay mag re-refill ng:\n\n**{{name}}**\nCode: `{{ glowCode}}`\nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "EMBED_TITLE": "SOFI: GLOW RECHARGE",
     "ARE_YOU_SURE": "Sigurado ka ba?",
-    "CANCEL_RECHARGE": "Ang proseso ay nakansela",
+    "CANCEL_RECHARGE": "Ang prosesong ito ay nakansela",
     "NO_MONEY": "Hindi wasto ang bilang ng iyong `Recharges`! Bumili ka at ulitin mo ulit",
     "SUCCESSFUL_RECHARGE": "Ang `Glow`mo ay matagumpay na icharge!",
     "SUPER_RECHARGE_CONFIRMATION": "Ikaw ay mag re-refill ng:\n\n**{{name}} (Super)**\nCode: `{{glowCode}}`\nPresyo: **{{cost}}**:recharge_sofi:"
