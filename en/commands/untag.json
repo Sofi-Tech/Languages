@@ -3,8 +3,8 @@
   "UT_CATEGORY": "Tags",
   "INVALID_CODE": "{{author}} You do not have any cards in your collection yet",
   "UNTAG_SUCCESSFUL": "**{{cardName}}** had their `Tag` removed successfully",
-  "MULTIPLE_UNTAG_ONE": "Untagged {{count}} card",
-  "MULTIPLE_UNTAG_OTHER": "Untagged {{count}} cards",
-  "MULTIPLE_UNTAG_FAILED_ONE": "Untagged {{count}} card {{invalidCards}}",
-  "MULTIPLE_UNTAG_FAILED_OTHER": "Untagged {{count}} cards {{invalidCards}}"
+  "MULTIPLE_UNTAG_one": "Untagged {{count}} card",
+  "MULTIPLE_UNTAG_other": "Untagged {{count}} cards",
+  "MULTIPLE_UNTAG_FAILED_one": "Untagged {{count}} card {{invalidCards}}",
+  "MULTIPLE_UNTAG_FAILED_other": "Untagged {{count}} cards {{invalidCards}}"
 }
