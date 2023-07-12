@@ -1,7 +1,7 @@
 {
     "SI_DESCRIPTION": "Displays the server's statistics",
     "SI_CATEGORY": "Settings",
-    "EMBED_AUTHOR": "Server: {{guildName}} | Prefix: `{{prefix}}` ({{blacklistPoints}})",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_SPAWN_CHANNEL": "Spawn Channel",
     "SI_TOTAL_DROPS": "Total Drops",
     "SI_TOTAL_BURNT": "Total Burnt",
