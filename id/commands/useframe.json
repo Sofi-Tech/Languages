@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "Menerapkan \"Frame\" ke kartu anda",
     "UF_CATEGORY": "Kosmetik",
     "UF_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}uf <KodeKartu> <NamaFrame/KodeFrame>`",
-    "INVALID_CODE": "{{author}} Kode kartu tersebut tidak valid atau tidak ada dalam koleksi anda",
+    "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "CANNOT_APPLY": "{{author}} Anda tidak dapat memasang `Frame` ke kartu `3D`",
     "NO_GIF": "{{author}} Anda tidak dapat memasang `Frame` ke kartu `GIF`",
     "NO_FRAMES_FOUND": "{{author}} Kode `Frame` tersebut tidak valid atau tidak ada dalam `Inventory` Anda",

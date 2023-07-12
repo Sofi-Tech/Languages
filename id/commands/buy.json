@@ -5,7 +5,7 @@
     "SLASH_DESC3": "Masukkan kode dari `Background` yang ingin kamu beli. [HANYA BERFUNGSI JIKA ITEM DIPILIH SEBAGAI BACKGROUND]",
     "NO_ITEM": "Mohon masukkan `Item` yang akan dibeli",
     "TRADEPASS_INFO": "Anda dapat menukarkan **__1x__** `Bump` dengan `Trade Pass` 4 Jam atau menabung **__20x__** `Bump` untuk membeli `Trade Pass` 30 Hari",
-    "CORRECT_USAGE": "{{USER}} Penggunaan yang benar: `{{prefix}}buy bg <BackgroundID> <jumlah>`",
+    "CORRECT_USAGE": "{{USER}} Penggunaan yang benar: `{{prefix}}buy bg <Background-ID> <jumlah>`",
     "INVALID_BG_AMOUNT": "Jangan masukkan nilai negatif",
     "INVALID_BG_ID": "Silahkan berikan ID `Background` yang valid",
     "NO_ITEM_PROVIDED": "Tidak ada `item` yang dicantumkan",

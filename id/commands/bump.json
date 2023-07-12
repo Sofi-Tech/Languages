@@ -2,9 +2,9 @@
     "BUMP_DESCRIPTION": "\"Bump\" di situs web resmi Sofi.gg untuk mendapatkan hadiah, seperti \"Trade Pass\"",
     "BUMP_CATEGORY": "Pengaturan",
     "EMBED_AUTHOR": "{{username}} Bump",
-    "GET_DIFFERENT_REWARDS": "`Bump` di situs web resmi Sofi.gg di bawah ini untuk mendapatkan hadiah",
-    "TOTAL_BUMP": "> Total `Bump`: {{bump}}",
-    "BUMP_POINTS": "> Poin saat ini: {{bumpPoints}}",
-    "EMBED_FOOTER": "Anda dapat menggunakan fungsi `Bump` setiap 4 jam!",
+    "GET_DIFFERENT_REWARDS": "Tekan tombol `Bump` di situs web resmi [Sofi.gg] (https://sofi.gg) untuk mendapatkan hadiah",
+    "TOTAL_BUMP": "> Total `Bump`:** {{bump}}**",
+    "BUMP_POINTS": "> Poin saat ini: **{{bumpPoints}}**",
+    "EMBED_FOOTER": "Anda dapat menggunakan fungsi \"Bump\" setiap 4 jam!",
     "BUMP": "Bump"
 }

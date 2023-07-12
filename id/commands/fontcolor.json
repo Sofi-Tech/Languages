@@ -2,7 +2,7 @@
     "FC_DESCRIPTION": "Mengubah warna font dari kartu tersebut dengan menggunakan \"Glow\"",
     "FC_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
-    "NOT_CARD_OWNER": "{{author}} Kode kartu yang anda berikan tidak valid atau bukan milik anda",
+    "NOT_CARD_OWNER": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "CANNOT_FIND_CARD": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi anda",
     "3D_ERROR": "{{author}} Anda tidak dapat mengubah warna font dari kartu 3D",
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
