@@ -1,9 +1,12 @@
 {
     "GIFT_CATEGORY": "पत्ते",
-    "GIFT_DESCRIPTION": "दूसरे खिलाड़ी को \"Event Items\" भेट करे",
-    "GIFT_SLASH_DESC": "उपयोगकर्ता को पसंद कीजिए जिनको आपको {{eventItem}} भेट में देनी है",
+    "GIFT_DESCRIPTION": "दूसरे खिलाड़ी को Event Items भेंट करे",
+    "GIFT_SLASH_DESC": "उपयोगकर्ता को चुने जिनको आपको {{eventItem}} भेंट में देना चाहते है",
     "INVALID_AMOUNT": "{{author}} दी गई {{eventItem}} मात्रा अमान्य है",
-    "GIFT_SLASH_DESC2": "आपको जितनी `{{eventItem}}` भेट करनी है उसकी मात्रा बताएं",
-    "GIFT_WRONG_USAGE": "{{author}} सही इस्तेमाल: `{{prefix}}gift <User> <Amount>`",
-    "INVALID_USER": "{{author}} आप खुदको भेट में `{{eventItem}}` नहीं भेज सकते"
+    "GIFT_SLASH_DESC2": "`{{eventItem}}` की राशि दर्ज करे जितना आप भेंट करना चाहते है",
+    "GIFT_WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gift <User> <Amount>`",
+    "INVALID_USER": "{{author}} आप खुदको भेंट में `{{eventItem}}` नहीं भेज सकते",
+    "NOT_ENOUGH_ITEM": "{{author}} आपके पास **{{amount}}** `{{eventItem}}`नही है",
+    "PLAYER_NOT_EXISTS": "{{author}} प्रदान किया गया उपयोगकर्ता अमान्य है",
+    "GIFT_SUCCESSFUL": "{{author}} ने सफतलापूर्वक **{{amount}}**`{{eventItem}}` {{user}} को भेंट किए\n{{user}} को कुल **{{recieveCount}}** `{{eventItem}}`मिल चुके है"
 }

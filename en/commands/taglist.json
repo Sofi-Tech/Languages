@@ -2,8 +2,8 @@
     "TL_DESCRIPTION": "Displays a list with your \"Tags\"",
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Could not find that user",
-    "NO_TAGS": "{{author}} Could not find any tags",
-    "EMBED_TITLE": "Tag List: {{username}}",
-    "SOFI_FACT": "A \"Tag\" with the name \"lock\" and a padlock emoji \"🔒\" will prevent you from burning or giving away any card within that tag!\nExample: \"{{prefix}}tc lock 🔒\"",
-    "EMBED_FOOTER": "Tag count: {{count}}"
+    "NO_TAGS": "{{author}} That user does not have any `Tags`",
+    "EMBED_TITLE": "{{username}}'s `Tag` List",
+    "SOFI_FACT": "Note: Creating a \"Tag\" with the name \"lock\" and the \"🔒\" emoji will prevent you from burning or trading cards with that \"Tag\"\nExample: \"{{prefix}}tc lock 🔒\"",
+    "EMBED_FOOTER": "Total: {{count}}"
 }

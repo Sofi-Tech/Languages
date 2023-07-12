@@ -1,16 +1,14 @@
 {
-  "MAIL_DESCRIPTION": "आए हुए Mails को दर्शाता है",
-  "MAIL_CATEGORY": "Settings",
-  "NO_MAILS_FOUND": "{{author}} आपके पास कोई नया Mail नहीं आया है",
-  "MENU_PLACEHOLDER": "Mail खोले",
-  "EMBED_AUTHOR": "{{username}} का Mail कोष खाली है",
-  "EMBED_FOOTER": "पन्ना संख्या: {{page}}/{{pagesNum}}",
-
-  "REWARD_CLAIMED_BUTTON_LABEL": "Claimed",
-  "CLAIMED_REWARD_ALREADY": "आपने पहले ही इस इनाम को प्राप्त कर लिया था",
-  "REWARD_CLAIM_INVENTORY": "Mail से जुड़े हुए Items आपकी Inventory में सफतापूर्वक जोड़े गए",
-  "CLAIM_REWARD_BUTTON_LABEL": "इनाम प्राप्त करे",
-
-  "MAIL_FRAME": "Frame",
-  "MAIL_REWARDS": "इनाम"
+    "MAIL_DESCRIPTION": "आए हुए Mails को दर्शाता है",
+    "MAIL_CATEGORY": "सैटिंग्स",
+    "NO_MAILS_FOUND": "{{author}} आपके पास कोई Mail नहीं आया है",
+    "MENU_PLACEHOLDER": "विकल्प चुने",
+    "EMBED_AUTHOR": "{{username}} का Mail कोष खाली है",
+    "EMBED_FOOTER": "पृष्ट संख्या: {{page}}/{{pagesNum}}",
+    "REWARD_CLAIMED_BUTTON_LABEL": "प्राप्त किए गए",
+    "CLAIMED_REWARD_ALREADY": "आपने पहले ही इस इनाम को प्राप्त कर लिया था!",
+    "REWARD_CLAIM_INVENTORY": "{{author}} Mail से जुड़े हुए Items आपकी Inventory में सफतापूर्वक जोड़े गए",
+    "CLAIM_REWARD_BUTTON_LABEL": "इनाम प्राप्त करे",
+    "MAIL_FRAME": "Frame",
+    "MAIL_REWARDS": "**__इनाम__**\n"
 }
