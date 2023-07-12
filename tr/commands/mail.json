@@ -1,16 +1,16 @@
 {
-    "MAIL_DESCRIPTION": "\"Mails\" larınızı görüntüler",
-    "MAIL_CATEGORY": "Ayarlar",
-    "MENU_PLACEHOLDER": "Bir \"Mail\" açar",
-    "EMBED_AUTHOR": "{{username}}'nin Gelen Kutusu",
-    "EMBED_FOOTER": "Sayfa: {{page}}/{{pagesNum}}",
-    "MARKED_ALL_READ": "{{author}} Tüm `Mails`lar okundu olarak işaretlendi",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Talep edildi",
-    "CLAIMED_REWARD_ALREADY": "Ödülü zaten aldınız!",
-    "CLAIM_REWARD_BUTTON_LABEL": "Ödülünüzü alın",
-    "MAIL_OPEN_FOOTER": "Geri dönmek veya ödül talep etmek için düğmeleri kullanın.",
-    "MAIL_REWARDS": "Ödüller",
-    "MAIL_FRAME": "`Frame `",
-    "NO_MAILS_FOUND": "{{author}} Gelen kutunuzda hiç `Mails` bulunmuyor",
-    "REWARD_CLAIM_INVENTORY": "Ekteki `Item`lar, `Inventory`nize eklendi"
+  "MAIL_DESCRIPTION": "\"Mails\" larınızı görüntüler",
+  "MAIL_CATEGORY": "Ayarlar",
+  "MENU_PLACEHOLDER": "Bir \"Mail\" açar",
+  "EMBED_AUTHOR": "{{username}}'nin Gelen Kutusu",
+  "EMBED_FOOTER": "Sayfa: {{page}}/{{pagesNum}}",
+
+  "REWARD_CLAIMED_BUTTON_LABEL": "Talep edildi",
+  "CLAIMED_REWARD_ALREADY": "Ödülü zaten aldınız!",
+  "CLAIM_REWARD_BUTTON_LABEL": "Ödülünüzü alın",
+
+  "MAIL_REWARDS": "Ödüller",
+  "MAIL_FRAME": "`Frame `",
+  "NO_MAILS_FOUND": "{{author}} Gelen kutunuzda hiç `Mails` bulunmuyor",
+  "REWARD_CLAIM_INVENTORY": "Ekteki `Item`lar, `Inventory`nize eklendi"
 }

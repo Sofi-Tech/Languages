@@ -1,16 +1,16 @@
 {
-    "MAIL_DESCRIPTION": "Apre la tua casella di posta",
-    "MAIL_CATEGORY": "Impostazioni",
-    "NO_MAILS_FOUND": "{{author}} Non hai `Mail` nella tua casella di posta",
-    "EMBED_FOOTER": "Pagina: {{page}}/{{pagesNum}}",
-    "MARKED_ALL_READ": "{{author}} Tutti i `Mails` sono stati contrassegnati come letti",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Reclamata",
-    "CLAIMED_REWARD_ALREADY": "Hai già richiesto la ricompensa!",
-    "REWARD_CLAIM_INVENTORY": "{{author}} Gli `items` allegati sono stati aggiunti al tuo `Inventory`",
-    "CLAIM_REWARD_BUTTON_LABEL": "Richiedi la tua ricompensa",
-    "MAIL_OPEN_FOOTER": "Usa i pulsanti per tornare indietro o per richiedere i premi.",
-    "EMBED_AUTHOR": "{{username}}'s posta in arrivo",
-    "MAIL_REWARDS": "**__Premi__**:\n",
-    "MAIL_FRAME": "`Frame`",
-    "MENU_PLACEHOLDER": "Seleziona un'opzione"
+  "MAIL_DESCRIPTION": "Apre la tua casella di posta",
+  "MAIL_CATEGORY": "Impostazioni",
+  "NO_MAILS_FOUND": "{{author}} Non hai `Mail` nella tua casella di posta",
+  "EMBED_FOOTER": "Pagina: {{page}}/{{pagesNum}}",
+
+  "REWARD_CLAIMED_BUTTON_LABEL": "Reclamata",
+  "CLAIMED_REWARD_ALREADY": "Hai già richiesto la ricompensa!",
+  "REWARD_CLAIM_INVENTORY": "{{author}} Gli `items` allegati sono stati aggiunti al tuo `Inventory`",
+  "CLAIM_REWARD_BUTTON_LABEL": "Richiedi la tua ricompensa",
+
+  "EMBED_AUTHOR": "{{username}}'s posta in arrivo",
+  "MAIL_REWARDS": "**__Premi__**:\n",
+  "MAIL_FRAME": "`Frame`",
+  "MENU_PLACEHOLDER": "Seleziona un'opzione"
 }

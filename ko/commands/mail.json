@@ -1,16 +1,15 @@
 {
-    "MAIL_CATEGORY": "설정",
-    "NO_MAILS_FOUND": "{{author}} 당신의 받은 편지함에는 `메일`이 없습니다",
-    "MENU_PLACEHOLDER": "\"메일\" 을 열어주세요",
-    "EMBED_AUTHOR": "{{username}}'s 인박스",
-    "EMBED_FOOTER": "페이지: {{page}}/{{pagesNum}}",
-    "REWARD_CLAIMED_BUTTON_LABEL": "청구됨",
-    "CLAIMED_REWARD_ALREADY": "이미 보상을 청구했습니다!",
-    "REWARD_CLAIM_INVENTORY": "첨부된 `아이템`이 당신의 `인벤토리`에 추가되었습니다",
-    "CLAIM_REWARD_BUTTON_LABEL": "보상을 받으세요",
-    "MAIL_REWARDS": "보상품",
-    "MAIL_FRAME": "`액자`",
-    "MARKED_ALL_READ": "{{author}} `메일`이 모두 읽음 표시되었습니다",
-    "MAIL_OPEN_FOOTER": "돌아가기 또는 보상을 받으려면 버튼을 사용하세요.",
-    "MAIL_DESCRIPTION": "메일\"을 표시합니다"
+  "MAIL_CATEGORY": "설정",
+  "NO_MAILS_FOUND": "{{author}} 당신의 받은 편지함에는 `메일`이 없습니다",
+  "MENU_PLACEHOLDER": "\"메일\" 을 열어주세요",
+  "EMBED_AUTHOR": "{{username}}'s 인박스",
+  "EMBED_FOOTER": "페이지: {{page}}/{{pagesNum}}",
+  "REWARD_CLAIMED_BUTTON_LABEL": "청구됨",
+  "CLAIMED_REWARD_ALREADY": "이미 보상을 청구했습니다!",
+  "REWARD_CLAIM_INVENTORY": "첨부된 `아이템`이 당신의 `인벤토리`에 추가되었습니다",
+  "CLAIM_REWARD_BUTTON_LABEL": "보상을 받으세요",
+  "MAIL_REWARDS": "보상품",
+  "MAIL_FRAME": "`액자`",
+
+  "MAIL_DESCRIPTION": "메일\"을 표시합니다"
 }

@@ -1,16 +1,14 @@
 {
-    "MAIL_DESCRIPTION": "Opens your inbox",
-    "MAIL_CATEGORY": "Settings",
-    "NO_MAILS_FOUND": "{{author}} You don't have any `Mail` in your inbox",
-    "MENU_PLACEHOLDER": "Select an Option",
-    "EMBED_AUTHOR": "{{username}}'s Inbox",
-    "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
-    "MARKED_ALL_READ": "",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Claimed",
-    "CLAIMED_REWARD_ALREADY": "You've already claimed the reward!",
-    "REWARD_CLAIM_INVENTORY": "{{author}} The attached `Items` have been added to your `Inventory`",
-    "CLAIM_REWARD_BUTTON_LABEL": "Claim your reward",
-    "MAIL_OPEN_FOOTER": "",
-    "MAIL_REWARDS": "**__Rewards__**:\n",
-    "MAIL_FRAME": "`Frame`"
+  "MAIL_DESCRIPTION": "Opens your inbox",
+  "MAIL_CATEGORY": "Settings",
+  "NO_MAILS_FOUND": "{{author}} You don't have any `Mail` in your inbox",
+  "MENU_PLACEHOLDER": "Select an Option",
+  "EMBED_AUTHOR": "{{username}}'s Inbox",
+  "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
+  "REWARD_CLAIMED_BUTTON_LABEL": "Claimed",
+  "CLAIMED_REWARD_ALREADY": "You've already claimed the reward!",
+  "REWARD_CLAIM_INVENTORY": "{{author}} The attached `Items` have been added to your `Inventory`",
+  "CLAIM_REWARD_BUTTON_LABEL": "Claim your reward",
+  "MAIL_REWARDS": "**__Rewards__**:\n",
+  "MAIL_FRAME": "`Frame`"
 }
