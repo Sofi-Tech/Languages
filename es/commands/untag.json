@@ -2,6 +2,5 @@
     "UT_DESCRIPTION": "Elimina los \"Tags\" de tus cartas",
     "UT_CATEGORY": "Tags",
     "INVALID_CODE": "{{author}} Aún no tienes ninguna carta en tu colección",
-    "UNTAG_SUCCESSFUL": "A **{{cardName}}** se le ha quitado el `Tag` con éxito",
-    "MULTIPLE_UNTAG": "{{validCards}}{{invalidCards}}"
+    "UNTAG_SUCCESSFUL": "A **{{cardName}}** se le ha quitado el `Tag` con éxito"
 }
