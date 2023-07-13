@@ -4,14 +4,13 @@
     "WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}fc <CardCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} Ang kodigo ng kard na ibinigay mo ay hindi wasto o hindi sayo",
     "CANNOT_FIND_CARD": "{{author}} Wala kang cards sa iyong collection",
-    "3D_ERROR": "{{author}} Hindi mo maaring baguhin ang kulay ng font ng 3D cards",
-    "UNLOCK_GLOWS": "{{author}} Wala kang anumang `Glows`",
+    "3D_ERROR": "{{author}} Hindi mo maaring baguhin ang kulay ang font ng `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Tamang paggamit: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} Ang mga `Glow` codes ay laging nagsisimula sa **#**",
-    "CANNOT_FIND_GLOW": "{{author}} Ang `Glow` code na iyon ay hindi wasto o hindi sayo",
+    "CANNOT_FIND_GLOW": "{{author}} Ang `Glow` code na iyong binigay ay hindi wasto o wala sa iyong `Inventory`",
     "EMBED_TITLE": "SOFI: KULAY NG FONT{{reset}}",
-    "COLOR_NAME": "Pangalan: {{name}}",
+    "COLOR_NAME": "Pangalan: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",
-    "GLOW_UNAVAILABLE": "Ang `Glow` na iyon ay walang charges",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "Matagumpay na nabago ang kulay ng font ng card"
+    "GLOW_UNAVAILABLE": "{{author}}Ang `Glow` na iyon ay walang singil",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Matagumpay na nabago ang kulay ng font ng kard"
 }

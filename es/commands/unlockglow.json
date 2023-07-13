@@ -2,9 +2,9 @@
     "UG_DESCRIPTION": "Genera un \"Glow\" aleatorio",
     "UG_CATEGORY": "Cosméticos",
     "EMBED_TITLE": "SOFI: GENERAR GLOW",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} ¿Estás seguro de que quieres comprar un `Glow` aleatorio por 100 {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "La transacción ha sido cancelada",
-    "NOT_ENOUGH_GEMS": "No tienes suficientes `Gems`",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} ¿Estás seguro de que quieres comprar un `Glow` aleatorio por **100** {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "El proceso ha sido cancelado",
+    "NOT_ENOUGH_GEMS": "{{author}} No tienes suficientes `Gems`",
     "EMBED_GLOW_TITLE": "SOFI: GENERAR GLOW",
     "UNLOCK_GLOW_SUCCESS": "{{author}} Has obtenido **{{glowName}}** `#{{glowCode}}`"
 }

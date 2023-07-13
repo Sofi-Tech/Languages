@@ -4,13 +4,13 @@
     "VOTE": "Votar en Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "Votes de {{username}}",
-    "USE_WIST": "Obtendrás `Wists` <:wist:870339503427027005> al hacer `Vote` con éxito!",
+    "USE_WIST": "Obtendrás `Wists` <:wist:870339503427027005> de los `Votes` exitosos!",
     "TOTAL_VOTES": "> Total de `Votes`: {{totalVotes}}",
     "MONTHLY_VOTES": "> `Votes` mensuales: {{monthlyVotes}}",
-    "CLAIM_EXOTIC_CHEST": "**<:exoticchest:927502629687418920> Quedan {{monthlyVotes}} `Votes` para obtener un `Exotic Chest`**",
+    "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> Quedan **{{monthlyVotes}}** `Votes` para obtener un `Exotic Chest`",
     "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene hasta **1,000** `Cubes` o un **{{frameName}}** `Frame`",
-    "CLAIM_DIVINE_CHEST": "**<:divinechest:927502631155429399> Quedan {{monthlyVotes}} `Votes` para obtener un `Divine Chest`**",
+    "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> Quedan **{{monthlyVotes}}** `Votes` para obtener un `Divine Chest`",
     "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene hasta **2,500** `Cubes` o un **{{frameName}}** `Frame`",
-    "VOTE_RESET": "> Se reinicia en {{countdown}}",
-    "EMBED_FOOTER": "Obtienes el doble de `Wists` los fines de semana!"
+    "VOTE_RESET": "> Se reinicia en: **{{countdown}}**",
+    "EMBED_FOOTER": "Durante el fin de semana consigues el doble de \"Wists\""
 }

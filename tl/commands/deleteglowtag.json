@@ -2,6 +2,6 @@
     "DGT_DESCRIPTION": "Tanggalin ang \"Glow Tag\"",
     "DGT_CATEGORY": "Mga Tag",
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}dgt <pangalan ng tag>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} Ang glow tag na iyon ay wala sa iyong `Glow Tag`",
-    "DELETE_GLOWTAG": "{{author}} Natanggal ang Glow Tag na {{tag}}"
+    "GLOWTAG_NOT_FOUND": "{{author}} Ikaw ay walang kahit anong `Glow Tag` na may pangalang: {{tagname}}",
+    "DELETE_GLOWTAG": "{{author}} Matagumpay na natanggal ang `Glow Tag`na may pangalang: `{{tag}}`"
 }

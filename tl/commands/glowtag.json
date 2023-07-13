@@ -2,9 +2,9 @@
     "GT_DESCRIPTION": "\"Tags\" ang iyong mga \"Glows\"",
     "GT_CATEGORY": "Mga Tag",
     "GLOWTAGS_NOT_FOUND": "{{author}} Wala ka pang `Glow Tags`. Maari kang gumawa gamit ng command na `{{prefix}}gtc <Name> <Emoji>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} Wala ka pang mga `Glows`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} ikaw ay wala ka pang kahit anong `Glows`",
     "MISSING_GLOWTAG": "{{author}} Kailangan mong magbigay ng `Glow Tag`",
-    "INVALID_GLOW_CODE": "{{author}} Kahit isa sa mga `Glow` na binigay ay hindi valid",
+    "INVALID_GLOW_CODE": "{{author}} Kahit isa sa mga `Glow`kodigo na iyong binigay ay hindi wasto o wala sa iyong `Inventory`",
     "SUCCESSFUL_GLOWTAG": "{{author}} Matagumpay na naitag ang **{{glow}}** bilang {{tag}}",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Matagumpay na naitag ang mga `Glows`"
 }

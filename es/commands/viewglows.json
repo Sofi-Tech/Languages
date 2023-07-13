@@ -7,7 +7,7 @@
     "NO_GLOWS": "{{author}} No se ha encontrado ningún `Glow` para ese usuario",
     "SUPER": "Super",
     "EMBED_TITLE": "SOFI: VER `GLOWS`",
-    "EMBED_FOOTER": "Total de \"Glows\": {{count}}",
+    "EMBED_FOOTER": "Total: {{count}}",
     "SHOWING_PAGE": "Mostrando página: {{page}}/{{totalPages}}",
     "NO_GLOWS_FOUND": "{{author}} No tienes ningún `Tag` con el nombre: `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} No puedo ha encontrado ningún `Glow` con el código `{{glowCode}}`",

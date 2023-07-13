@@ -1,9 +1,9 @@
 {
-  "ES_DESCRIPTION": "Menampilkan papan peringkat untuk pengiriman kartu \"Event\"",
-  "ES_CATEGORY": "Pengaturan",
-  "EMBED_TITLE": "Event: {{eventName}}",
-  "MENU_PLACEHOLDER": "Pilih Acara",
-  "MENU_HAL_LABEL": "Halloween 2022",
-  "MENU_VAL_LABEL": "Valentine 2023",
-  "MENU_MNC_LABEL": "Monochrome 2023"
+    "ES_DESCRIPTION": "Menampilkan papan peringkat untuk pengiriman kartu \"Event\"",
+    "ES_CATEGORY": "Pengaturan",
+    "EMBED_TITLE": "SOFI: STATEVENT | {{eventName}}",
+    "MENU_PLACEHOLDER": "Pilih Event",
+    "MENU_HAL_LABEL": "Halloween 2022",
+    "MENU_VAL_LABEL": "Valentine 2023",
+    "MENU_MNC_LABEL": "Monochrome 2023"
 }

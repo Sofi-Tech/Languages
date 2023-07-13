@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} 您已有活跃的交易！请先取消之前的交易",
     "BOT_TRADE": "{{author}} 您无法与“机器人”交易",
     "SELF_TRADE": "{{author}} 您无法和自己交易",
-    "NOT_REGISTERED": "{{user}} 尚未注册！",
+    "NOT_REGISTERED": "{{author}} 那个用户未注册！",
     "AUTHOR_IS_BLED": "{{author}} 您已被列入黑名单",
     "MEMBER_IS_BLED": "{{user}} 被列入黑名单",
     "AUTHOR_IS_QUED": "{{author}} 您已被隔离",

@@ -1,10 +1,10 @@
 {
-  "UT_DESCRIPTION": "Removes the \"Tags\" from your cards",
-  "UT_CATEGORY": "Tags",
-  "INVALID_CODE": "{{author}} You do not have any cards in your collection yet",
-  "UNTAG_SUCCESSFUL": "**{{cardName}}** had their `Tag` removed successfully",
-  "MULTIPLE_UNTAG_one": "Untagged {{count}} card",
-  "MULTIPLE_UNTAG_other": "Untagged {{count}} cards",
-  "MULTIPLE_UNTAG_FAILED_one": "Untagged {{count}} card {{invalidCards}}",
-  "MULTIPLE_UNTAG_FAILED_other": "Untagged {{count}} cards {{invalidCards}}"
+    "UT_DESCRIPTION": "Removes the \"Tags\" from your cards",
+    "UT_CATEGORY": "Tags",
+    "INVALID_CODE": "{{author}} You do not have any cards in your collection yet",
+    "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` from **{{cardName}}**",
+    "MULTIPLE_UNTAG_one": "{{author}} Untagged {{count}} card",
+    "MULTIPLE_UNTAG_other": "{{author}} Untagged {{count}} cards",
+    "MULTIPLE_UNTAG_FAILED_one": "Untagged {{count}} card {{invalidCards}}",
+    "MULTIPLE_UNTAG_FAILED_other": "Untagged {{count}} cards {{invalidCards}}"
 }

@@ -3,6 +3,6 @@
     "GUT_CATEGORY": "Mga Tag",
     "NO_GLOWS_FOUND": "{{author}} Ikaw ay walang pang kahit anong `Glows`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa **#**",
-    "INVALID_GLOWCODE": "{{author}} Ang ibinigay na `Glow` codes ay hindi valid",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naialis ang tag ng {{glow}}"
+    "INVALID_GLOWCODE": "{{author}} Ang ibinigay na `Glow` codes ay hindi wasto o wala sa iyong `Inventory`",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naalis ang `Tag`ng iyong **{{glow}}** `Glow`"
 }

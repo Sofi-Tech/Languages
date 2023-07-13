@@ -1,12 +1,14 @@
 {
     "SI_DESCRIPTION": "Muestra las estadísticas del servidor",
-    "SI_CATEGORY": "Ajustes",
-    "SI_SPAWN_CHANNEL": "Canal de spawn",
-    "EMBED_AUTHOR": "Server: {{guildName}} | Prefix: `{{prefix}}` ({{blacklistPoints}})",
-    "SI_TOTAL_DROPS": "Drops totales",
-    "SI_TOTAL_GRABS": "Total agarrado",
-    "SI_TOTAL_GIVEN": "Total dado",
-    "SI_TOTAL_TRADES": "Total intercambiado",
-    "SI_NAME_UNAVAILABLE": "Nombre Indisponible",
-    "SI_TOP_SERVERS": "**Top Servers** | Se reinicia en: `{{countdown}})`"
+    "SI_CATEGORY": "Configuración",
+    "SI_SPAWN_CHANNEL": "Canal de Generación",
+    "EMBED_AUTHOR": "SOFI: INFORMACIÓN DEL SERVIDOR | {{guildName}}",
+    "SI_TOTAL_DROPS": "Drops Totales",
+    "SI_TOTAL_GRABS": "Agarres Totales",
+    "SI_TOTAL_GIVEN": "Total Dado",
+    "SI_TOTAL_TRADES": "Total de Intercambios",
+    "SI_NAME_UNAVAILABLE": "Nombre no Disponible",
+    "SI_TOP_SERVERS": "**Mejores Servidores** | Se reinicia en: **{{countdown}})**",
+    "EMBED_FOOTER": "Prefijo del Servidor: {{prefix}}",
+    "SI_TOTAL_BURNT": "Total Quemado"
 }

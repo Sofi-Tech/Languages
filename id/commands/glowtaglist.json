@@ -1,7 +1,7 @@
 {
     "GTL_DESCRIPTION": "Menampilkan daftar dengan \"Glow Tag\" anda",
     "GTL_CATEGORY": "Tag",
-    "NO_TAGS": "{{author}} Tidak dapat menemukan `Glow Tag`",
-    "GLOWS": "Glow",
-    "EMBED_TITLE": "Daftar Tag Glow"
+    "NO_TAGS": "{{author}} Anda belum memiliki `Glow Tag`",
+    "GLOWS": "**{{number}}** `Glow`",
+    "EMBED_TITLE": "SOFI: Daftar Tag `GLOW`"
 }

@@ -1,4 +1,9 @@
 {
-    "NO_GUILD_INFO": "{{author}} No estás en una guild actualmente",
-    "NO_VAULT_LOGS": "{{author}} Actualmente no hay registros de vault"
+    "NO_GUILD_INFO": "{{author}} No estás en un guild actualmente",
+    "NO_VAULT_LOGS": "{{author}} Actualmente no hay registros de vault",
+    "SHEET_CATEGORY": "Configuración",
+    "DM_FILE": "{{author}} Se te ha enviado un archivo .csv por mensaje directo\n\n> **Nota**: Al importar el archivo en Excel o programas de hojas de cálculo, asegúrate de establecer como separador una \"coma\"!",
+    "CANNOT_DM": "{{author}} No se ha podido enviar el archivo de hoja de cálculo a tu mensaje directo. Asegúrate de que tus mensajes directos están abiertos!",
+    "NO_COLLECTION": "{{author}} No tiene ninguna carta en tu colección",
+    "SHEET_DESCRIPTION": "Crea un archivo \".csv\" de tu colección"
 }

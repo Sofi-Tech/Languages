@@ -4,7 +4,7 @@
     "NO_TP": "{{message.author}} No tienes un `Trade Pass` activo. Usa el comando `{{prefix}}bump` para visitar la página web e intercambiar tus puntos de `Bump` por uno",
     "NOT_ENOUGH_CURR": "{{user}} No tienes suficientes `{{currency}}` para comenzar el juego!",
     "INFO_1": "{{user}} ha iniciado el juego de Adivinanza",
-    "INFO_2": "Los jugadores deben tener `{{bet}} {{currency}}` para participar",
+    "INFO_2": "Los jugadores tienen que tener `{{bet}} {{currency}}` para participar",
     "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
     "FOOTER": "Reacciona con 🍻 para unirte | El anfitrión puede iniciar el juego presionando 🟢",
     "REQ_MORE_PLAYERS": "{{user}} Necesitas al menos 2 jugadores antes de poder iniciar el juego",

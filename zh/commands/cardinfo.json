@@ -2,7 +2,7 @@
     "DESCRIPTION": "显示卡片的信息",
     "SLASH_DESC": "请输入您要查找的卡片代码",
     "NO_CARD_FOUND": "没有找到您最后一张卡。请输入一个卡片代码",
-    "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效",
+    "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效或不在您的收藏中",
     "CARD_MORPHED": "那个卡片已变形",
     "CARD_GLOWED": "那个卡片已使用过以下的 ‘Glow' ： __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "字体颜色：{{fontName}} [`#{{ viewCode}}`]\n",

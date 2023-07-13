@@ -5,7 +5,6 @@
     "NOT_CARD_OWNER": "{{author}} आपने जो कार्ड कोड प्रदान किया वह अवैध है या यह आपका नहीं है",
     "CANNOT_FIND_CARD": "{{author}} आपके संग्रह में अभी तक कोई पत्ता नहीं है",
     "3D_ERROR": "{{author}} आप 3डी पत्ते के फ़ॉन्ट रंग को नहीं बदल सकते हैं",
-    "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glows नहीं हैं",
     "PROVIDE_GLOWCODE": "{{author}} सही उपयोग: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} Glow कोड हमेशा **#** से शुरू होते हैं",
     "CANNOT_FIND_GLOW": "{{author}} यह Glow कॉड अवैध है या आप इसके मालिक नहीं हैं",

@@ -14,7 +14,7 @@
     "GLOW_NAME": "Name: {{name}}",
     "GLOW_CODE": "Code: #{{code}}",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "GLOW_UNAVAILABLE": "That `Glow` has no charges",
+    "GLOW_UNAVAILABLE": "{{author}} That `Glow` has no charges",
     "GLOW_APPLY_SUCCESSFUL": "The `Glow` was successfully applied",
     "UNAVAILABLE": "Unavailable",
     "AVAILABLE": "Available"

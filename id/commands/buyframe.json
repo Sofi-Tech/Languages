@@ -1,15 +1,15 @@
 {
     "BF_DESCRIPTION": "Membeli \"Frame\" dari \"Frame Shop\"",
     "BF_CATEGORY": "Kosmetik",
-    "NO_FRAME_NAME": "{{author}} Cantumkan nama `Frame` yang ingin Anda beli",
+    "NO_FRAME_NAME": "{{author}} Cantumkan kode `Frame` yang ingin anda beli",
     "NO_FRAMECODE_FOUND": "{{author}} Tidak dapat menemukan `Frame` dengan kode `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Frame tersebut tidak tersedia saat ini. Silakan gunakan perintah `sfs` sebagai gantinya, untuk memeriksa rotasi `Frame` saat ini",
+    "FRAME_UNAVAILABLE": "{{author}} `Frame` tersebut tidak tersedia saat ini. Gunakan perintah `{{prefix}}fs` untuk memeriksa rotasi `Frame`",
     "NO_FRAME_FOUND": "{{author}} Tidak ada `Frame` dengan kode tersebut",
     "FRAME_NOT_PURCHASABLE": "{{author}} `Frame` itu terbatas dan tidak dapat dibeli lagi",
     "EMBED_TITLE": "TRANSAKSI",
     "YOU_GET": "Anda mendapat:",
     "YOU_PAY": "Anda membayar:",
-    "TRANSACTION": "TRANSAKSI",
-    "NO_ENOUGH_AMOUNT": "Jumlah mata uang Anda tidak mencukupi untuk transaksi ini",
+    "TRANSACTION": "SOFI: TRANSAKSI",
+    "NO_ENOUGH_AMOUNT": "{{author}} Jumlah mata uang anda tidak mencukupi untuk transaksi ini",
     "FRAME_PURCHASED_BY": "`Frame` Anda **{{frame}}** telah dibeli oleh `{{userId}}}`| {{buyCount}}"
 }

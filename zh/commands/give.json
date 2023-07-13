@@ -4,7 +4,7 @@
     "SLASH_DESC2": "输入您想要给的卡片的代码",
     "NO_MEMBER": "{{author}}未提供用户",
     "NO_SELF_GIVE": "{{author}}无法给自己送卡片",
-    "NOT_REGISTERED": "{{member}}没有注册",
+    "NOT_REGISTERED": "{{author}} 那个用户未注册！",
     "MEM_BLACKLISTED": "{{member}}被列入黑名单",
     "MEM_QUARANTINED": "该用户已被隔离",
     "NO_CODE": "{{author}}您忘了提供卡片代码",
