@@ -5,7 +5,7 @@
     "NO_MEMBER": "{{author}} No user provided",
     "NO_SELF_GIVE": "{{author}} You cannot give a card to yourself",
     "NOT_REGISTERED": "{{author}} That user is not registered!",
-    "MEM_BLACKLISTED": "{{member}} is blacklisted",
+    "MEM_BLACKLISTED": "<:banhammer:1109864225259671614> {{member}} is blacklisted",
     "MEM_QUARANTINED": "That user is quarantined",
     "NO_CODE": "{{author}} You forgot to provide a card code",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}give <User/UserID> <CardCode>`",
