@@ -3,7 +3,6 @@
     "FC_CATEGORY": "化妆品",
     "WRONG_USAGE": "{{author}} 正确用法：`{{prefix}}fc <CardCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} 您提供的卡代码无效或不属于您",
-    "CANNOT_FIND_CARD": "{{author}} 你还没有任何卡片",
     "3D_ERROR": "{{author}} 无法更改3D卡片的字体颜色",
     "PROVIDE_GLOWCODE": "{{author}} 正确用法：`{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} “Glow”代码始终以**#**开头",

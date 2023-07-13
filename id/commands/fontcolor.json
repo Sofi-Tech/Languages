@@ -3,7 +3,6 @@
     "FC_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "NOT_CARD_OWNER": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
-    "CANNOT_FIND_CARD": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi anda",
     "3D_ERROR": "{{author}} Anda tidak dapat mengubah warna font kartu `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Kode `Glow` selalu dimulai dengan tanda **#**",

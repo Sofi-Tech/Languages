@@ -3,7 +3,6 @@
     "FC_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}fc <CódigoDoCartão> <CódigoDoBrilho>`",
     "NOT_CARD_OWNER": "{{author}} O código da carta que você forneceu é inválido ou não é seu",
-    "CANNOT_FIND_CARD": "{{author}} Você ainda não possui nenhuma carta em sua coleção",
     "3D_ERROR": "{{author}} Você não pode alterar a cor da fonte de cartas 3D",
     "PROVIDE_GLOWCODE": "{{author}} Uso correto: `{{prefix}}fc <CódigoDoCarta> <CódigoDoBrilho>`",
     "WRONG_GLOWCODE": "{{author}} Os códigos de `Brilho` sempre começam com um **#**",

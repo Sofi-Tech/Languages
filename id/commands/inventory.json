@@ -12,7 +12,7 @@
     "EVENT": "Event",
     "SELF_INV_EMPTY": "{{author}} `Inventory` anda kosong",
     "USER_INV_EMPTY": "{{author}} `Inventory` pengguna tersebut kosong",
-    "NO_BG_FOUND": "{{author}} Anda tidak memiliki `Background`",
+    "NO_BG_FOUND": "{{author}} Anda belum memiliki `Background`",
     "NO_ITEM_FOUND": "{{author}} Tidak dapat menemukan `Item` tersebut dalam `Inventory`",
     "HIDE_INV": "{{author}} Gunakan perintah `{{prefix}}spvt inv` untuk memprivasi `Inventory` anda"
 }

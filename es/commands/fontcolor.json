@@ -3,7 +3,6 @@
     "FC_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}fc <CódigoDeCarta> <CódigoDeGlow>`",
     "NOT_CARD_OWNER": "{{author}} El código de carta que proporcionaste no es válido o no está en tu colección",
-    "CANNOT_FIND_CARD": "{{author}} Aún no tienes ninguna carta en tu colección",
     "3D_ERROR": "{{author}} No puedes cambiar el color de texto de cartas 3D",
     "PROVIDE_GLOWCODE": "{{author}} Uso correcto: `{{prefix}}fc <CódigoDeCarta> <CódigoDeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Los códigos de `Glow` siempre empiezan con un **#**",

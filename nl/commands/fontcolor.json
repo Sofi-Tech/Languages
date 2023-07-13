@@ -3,7 +3,6 @@
     "FC_CATEGORY": "Uiterlijk",
     "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}fc <KaartCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} De kaartcode die u heeft opgegeven is ongeldig of niet van u",
-    "CANNOT_FIND_CARD": "{{author}} U heeft nog geen kaarten in uw inventaris",
     "3D_ERROR": "{{author}} U kunt de tekstkleur van 3D-kaarten niet wijzigen",
     "PROVIDE_GLOWCODE": "{{author}} Correct gebruik: `{{prefix}}fc <KaartCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} `Glow`-codes beginnen altijd met een **#**",
