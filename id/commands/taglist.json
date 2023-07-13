@@ -2,8 +2,8 @@
     "TL_DESCRIPTION": "Menampilkan daftar \"Tags\"",
     "TL_CATEGORY": "Tag",
     "NO_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
-    "NO_TAGS": "{{author}} Tidak dapat menemukan tag apapun",
-    "EMBED_TITLE": "Daftar Tag: {{username}}",
-    "SOFI_FACT": "Sebuah \"Tag\" dengan nama \"lock\" dan emoji gembok \"🔒\" akan mencegah anda untuk membakar atau memberikan kartu apapun dengan tag tersebut!\nContoh: \"{{prefix}}tc lock 🔒\"",
-    "EMBED_FOOTER": "Jumlah tag: {{count}}"
+    "NO_TAGS": "{{author}} User tersebut belum memiliki `Tags`",
+    "EMBED_TITLE": "{{username}} Daftar `Tag`",
+    "SOFI_FACT": "Catatan: Membuat \"Tag\" dengan nama \"kunci\" dan emoji \"🔒\" akan mencegah anda membakar atau bertukar kartu dengan \"Tag\" itu\nContoh: \"{{prefix}}tc lock 🔒\"",
+    "EMBED_FOOTER": "Total: {{count}}"
 }

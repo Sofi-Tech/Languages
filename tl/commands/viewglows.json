@@ -9,13 +9,13 @@
     "EMBED_TITLE": "SOFI: TIGNAN ANG `GLOWS`",
     "EMBED_FOOTER": "Kabuuan: {{count}}",
     "SHOWING_PAGE": "Nakikita ang pahina: {{page}}/{{totalPages}}",
-    "NO_GLOWS_FOUND": "{{author}} Walang makitang kahit anong `Tag` na may pangalan na \"**{{tagName}}**\"",
+    "NO_GLOWS_FOUND": "{{author}} Walang makitang kahit anong `Tag` na may pangalan na `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} Walang makitang kahit anong `Glow` na may code na `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: TIGNAN ANG `GLOWS`",
     "NAME": "`Pangalan:     ` ➜ {{name}}",
     "CODE": "`Kodigo:      ` ➜ `#{{code}}`",
     "STATUS": "`Kalagayan:   ` ➜ **{{status}}**",
-    "TYPE": "`Uri:   ` ➜ {{type}}",
-    "OWNER": "`May-ari:     ` ➜ <@{{ownerId}}>",
+    "TYPE": "`Uri: .....  ` ➜ {{type}}",
+    "OWNER": "`May-ari: .  ...  ` ➜ <@{{ownerId}}>",
     "PURITY": "```Kalinisan: ➜ {{purity}}```"
 }

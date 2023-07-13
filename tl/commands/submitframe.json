@@ -1,5 +1,5 @@
 {
-    "SF_CORRECT_USAGE": "Tamang pag-gamit: `{{prefix}}sf <ImageURL> <PangalangNgFrame>`",
+    "SF_CORRECT_USAGE": "{{author}}Tamang pag-gamit: `{{prefix}}sf <ImageURL> <PangalangNgFrame>`",
     "MAXIMUM_NAME_LENGTH": "{{author}} A pangalan ng `Frame` ay dapat nag laalaman lang ng hanggang 20 na karakters",
     "SUBMIT_FRAME_SUCCESSFUL": "Matagumpay na isinumite mo ang `Frame`",
     "SF_NEED_SILVERS": "<:_:979009081325019156> Ang pagpapasa ng `Frame` ay magkakahalaga ng **3000** `Silver`",

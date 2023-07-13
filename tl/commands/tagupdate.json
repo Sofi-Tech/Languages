@@ -13,11 +13,11 @@
     "WRONG_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong `Tag` ay dapat letra at numero lang at hindi dapat nag lalaman ng espesyal karakters, spaces o kabastusan",
     "TAGNAME_LONG": "{{author}} Ang pangalan ng `Tag` ay dapat hindi na hihigit sa **20** karakters",
     "REPLACE_NAME_CONFIRMATION": "Sigurado ka bang gusto mong bagohin ang pangalan ng `Tag` mula sa `{{oldTag}}` patungo sa `{{newTag}}`?",
-    "REPLACE_NAME_SUCCESSFUL": "Ang pangalan ng iyong `Tag` ay matagumpay na nabago mula sa `{{oldTag}}` patungo sa `{{newTag}}`",
-    "PROCESS_TERMINATED": "Ang prosesong ito ay nakansela",
+    "REPLACE_NAME_SUCCESSFUL": "Matagumpay na napalitan ang pangalan ng iyong `Tag` mula sa `{{oldTag}}` patungong `{{newTag}}`",
+    "PROCESS_TERMINATED": "Kinansela ang prosesong ito",
     "REPLACE_EMOJI": "Ilagay ang emoji na nais mong ipalit {{emoji}} sa",
-    "TAGEMOJI_EXISTS": "{{author}} Mayroon ng `Tag` na may emoji na {{newEmoji}}. Pumili ng iba pang emoji",
-    "WRONG_TAGEMOJI_FORMAT": "{{author}} Meron ng `Tag`na may emojing {{newEmoji}}. Pumili ng iba pang emoji",
-    "REPLACE_EMOJI_CONFIRMATION": "Sigurado ka bang gusto mong palitan ang emoji ng `Tag` mula sa {{oldEmoji}} patungo sa {{newEmoji}}?",
+    "TAGEMOJI_EXISTS": "{{author}} Mayroon nang `Tag` na may emoji {{newEmoji}}. Mangyaring pumili ng ibang emoji [MARKED FOR POSIBLE DELETION]",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Iyon ay isang di-wastong emoji",
+    "REPLACE_EMOJI_CONFIRMATION": "Sigurado ka bang gusto mong baguhin itong `Tags` emoji mula sa {{oldEmoji}} patungong {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFUL": "Matagumpay na nabao ang emotikon ng `Tag`mula sa {{oldEmoji}}hanggang sa {{newEmoji}}"
 }

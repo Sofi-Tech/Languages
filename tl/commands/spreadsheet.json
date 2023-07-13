@@ -5,5 +5,5 @@
     "NO_COLLECTION": "{{author}} wala kang anumang mga card sa iyong koleksyon",
     "CANNOT_DM": "{{author}} Hindi maipadala sa iyo ang spreadsheet file. Tiyaking bukas ang iyong mga direktang mensahe!",
     "SHEET_CATEGORY": "Mga Kaayusan",
-    "DM_FILE": "Ang spreadsheet ay ipinadala sa iyo sa pamamagitan ng mga direktang mensahe.\n\n`Note: Habang inaangkat ang file sa Excel o mga programa ng spreadsheet, siguraduhin na itakda ang separator sa \"comma\"`"
+    "DM_FILE": "{{author}}Ang .csv file ay ipinadala sa iyo sa pamamagitan ng mga direktang mensahe.\n\n`**Note**: Habang inaangkat ang file sa Excel o mga programa ng spreadsheet, siguraduhin na itakda ang separator sa \"comma\"`!"
 }

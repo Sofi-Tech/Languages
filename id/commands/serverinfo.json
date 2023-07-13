@@ -1,6 +1,6 @@
 {
     "SI_CATEGORY": "Pengaturan",
-    "EMBED_AUTHOR": "Server: {{guildName}} | Awalan: `{{prefix}}` ({{blacklistPoints}})",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_SPAWN_CHANNEL": "Channel Spawn",
     "SI_TOTAL_DROPS": "Total Drop",
     "SI_DESCRIPTION": "Tampilkan statistik server"
