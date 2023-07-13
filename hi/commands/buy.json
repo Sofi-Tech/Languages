@@ -5,7 +5,7 @@
     "SLASH_DESC3": "वह Background code दर्ज करें जिसे आप खरीदना चाहते हैं। [ जब चयनित ITEM ही BACKGROUND हो तभी काम करेगी अथवा त्रुटि का सामना करना होगा]",
     "NO_ITEM": "कृपया खरीदने के लिए एक item दर्ज करें",
     "TRADEPASS_INFO": "Trade Pass Silvers से खरीदा जा सकता था जो अब बंद हो गया है। आप 1 bump के साथ 4 घंटे के लिए Trade Pass खरीद सकते हैं या 30 दिन के लिए खरीदने के लिए 20 Trade पास बचा सकते हैं",
-    "CORRECT_USAGE": "{{USER}} सही उपयोग: `{{prefix}}buy bg <bgID> [मात्रा]`",
+    "CORRECT_USAGE": "{{USER}} सही इस्तेमाल: `{{prefix}}buy bg <Background-ID> <amount>`",
     "INVALID_BG_AMOUNT": "Background राशि एक सकारात्मक मात्रा होनी चाहिए",
     "INVALID_BG_ID": "कृपया एक वैध Background ID प्रदान करें",
     "NO_ITEM_PROVIDED": "कोई Item प्राप्त नहीं हुआ कृपया दुबारा कोशिश करे",
