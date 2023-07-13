@@ -3,5 +3,6 @@
     "COLLECTION_PVT": "{{author}} That user's `Fragments` are private!",
     "CANNOT_FIND_FRAGS": "{{user}} Could not find any `Fragments` for that user",
     "FRAGS_COUNT": "Total: {{totalCount}}",
-    "FRAG_LIST": "{{userName}}'s `Fragments`"
+    "FRAG_LIST": "{{userName}}'s `Fragments`",
+    "CANNOT_FIND_SELF": "{{user}} You don't have any `Fragments`"
 }
