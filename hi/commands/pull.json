@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "यह विभिन्न Items जैसे Swap, Charms और Fragments को Pull करता है",
-    "PULL_AMT": "{{author}} Pulls की संख्या डाले , यह **1 या 10** खुद भी हो सकती है",
-    "INFO_1": "एक पात्र का GIF प्रकार में बदलने के लिए आपको 8 Fragments की आवश्यकता है",
-    "INFO_2": "एक GIF प्रकार के 100 अलग-अलग Gens होते है",
-    "INFO_3": "Fragments को जलाके आप Charms प्राप्त कर सकते है",
+    "DESCRIPTION": "यह विभिन्न \"Items\" जैसे \"Swap\" \"Charms\" और \"Fragments\" जो एनिमेटेड पत्तो के लिए काम आता है उसको \"Pull\" करता है",
+    "PULL_AMT": "{{author}} \"Pulls\" की संख्या दर्ज करें। यह संख्या या तो **1\"* या **10** में से कोई होनी चाहिए",
+    "INFO_1": "पात्र के `GIF` प्रकार को बनाने के लिए आपको उसके 8 `Fragments` चाहिए",
+    "INFO_2": "एक `GIF` प्रकार के पात्र के 100 अलग-अलग `Gens` होते है",
+    "INFO_3": "`Fragments` को जलाने पर आप `Charms` प्राप्त कर सकते है",
     "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Pull संख्या: {{count}}",
-    "MISSING_CURR": "{{user}} के पास **{{amount}}** `{{currName}}` नहीं हैं",
-    "AMOUNT": "राशि: {{amount}}",
-    "PULL_COUNT_WIST": "Pull संख्या: {{pullcount}}",
+    "PULL_COUNT": "Pull की संख्या: {{count}}",
+    "MISSING_CURR": "{{user}} आपके पास **{{amount}}** `{{currName}}` नहीं हैं",
+    "AMOUNT": "मात्रा: {{amount}}",
+    "PULL_COUNT_WIST": "Pull की संख्या: {{pullcount}}",
     "PULL_CHANCES": "संभावनाएं",
     "RATES": "दाम"
 }
