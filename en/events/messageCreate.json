@@ -10,7 +10,7 @@
     "SUSPICIOUS_TRANSACTIONS": "- Engaged in suspicious transactions or trades on Sofi",
     "VERIFY_TO_PLAY": "[Verify yourself on our website to play!](<https://sofi.gg/verify>)",
     "USER_QUARANTINED": "That user is {{isQuarantined}}",
-    "USER_BLACKLISTED": "That user is blacklisted",
+    "USER_BLACKLISTED": "{{author}} That user is blacklisted",
     "GLOBAL_COOLDOWN": "> [`Global`] Wait **{{cooldown}}** before using this command again",
     "COMMAND_BLACKLISTED": "> The command `{{commandName}}` is disabled in this channel",
     "REQUIRE_CLIENT_PERMISSIONS": "`I require: {{permissions}} to execute this command`",
