@@ -5,7 +5,7 @@
     "EMBED_AUTHOR": "Bandeja de entrada de {{username}}",
     "EMBED_FOOTER": "Página: {{page}}/{{pagesNum}}",
     "REWARD_CLAIMED_BUTTON_LABEL": "Reclamado",
-    "CLAIMED_REWARD_ALREADY": "Ya has reclamado esta recompensa!",
+    "CLAIMED_REWARD_ALREADY": "{{author}} Ya has reclamado la recompensa en un comando anterior",
     "CLAIM_REWARD_BUTTON_LABEL": "Reclama tu recompensa",
     "MAIL_REWARDS": "**__Recompensas__**:\n",
     "MAIL_FRAME": "`Frame`",
