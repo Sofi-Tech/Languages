@@ -3,7 +3,7 @@
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Espera **{{cooldown}}** antes de usar este comando otra vez",
     "VERIFY_BUTTON_LABEL": "Verificar tu cuenta",
     "APPEAL_ACCEPTED": "# __¡Su apelación ha sido aceptada!__\n- Únete a nuestro [Servidor de Soporte] oficial (https://discord.gg/XPsQKJjeD7) y cree un ticket en el canal https://discord.com/channels/863226120245215262/9591761157238 para avanzar en su caso\n- Un miembro del personal te atenderá lo antes posible, por favor abstente de enviar mensajes directos o mencionar a los miembros del personal en cualquier canal con respecto a su ticket. Romper esta regla puede conducir a una permanente suspensión de nuestro servicio y Servidor de Discord",
-    "VERSION_ACCEPTED": "Tu envío de `Version` para **{{charName}}** de **{{seriesName}}** ha sido aceptada. **3** <a:wist_spin:973031140581580820> se han añadido a tu inventario",
+    "VERSION_ACCEPTED": "Tu envío de `Version` para **{{charName}}** de **{{seriesName}}** ha sido aceptada. **3** <a:wist_spin:973031140581580820> han sido añadidos a tu inventory",
     "VERSION_REJECTED": "Tu envío de `Version` para **{{charName}}** de **{{seriesName}}** ha sido rechazada. [Visita nuestro Servidor de Soporte para obtener más información](<https://discord.gg/RYawNnu6Pp>)",
     "APPEAL_DENIED": "Después de investigar tu caso, hemos llegado a la conclusión de rechazar su apelación. Tu estado en la lista negra no se anulará y todas las nuevas apelaciones de ahora en adelante serán desestimadas.\n\n- Administración de Sofi",
     "COMMAND_RUN_ERROR": "{{author}} Se ha producido un error al intentar ejecutar este comando. Por favor, inténtalo de nuevo",

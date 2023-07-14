@@ -1,7 +1,7 @@
 {
     "VG_DESCRIPTION": "Displays the list of a user's \"Glows\"",
     "VG_CATEGORY": "Cosmetics",
-    "VG_SLASH_DESC1": "Select a user to see display their \"Glows\"",
+    "VG_SLASH_DESC1": "Select a user whose \"Glows\" you would like to see",
     "VG_SLASH_DESC2": "Provide the name of the \"Tag\" you want to filter for",
     "VG_SLASH_DESC3": "Provide the code of a \"Glow\" you want to inspect",
     "NO_GLOWS": "{{author}} Could not find any `Glows` for that user",

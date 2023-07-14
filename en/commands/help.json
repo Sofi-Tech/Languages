@@ -44,7 +44,7 @@
     "GUIDE_BUTTON_LABEL": "Guide!",
     "EMBED_TITLE": "SOFI: HELP MENU",
     "EMBED_FOOTER": "Requested by {{username}}",
-    "COMMNAD_NOT_FOUND": "{{author}} | No commands with the name `{{command}}` has been found. Did you mean? {{commandName}}",
+    "COMMNAD_NOT_FOUND": "{{author}} There is no command with the name: `{{command}}`! Are you looking for `{{commandName}}`?",
     "USAGE_EMBED_TITLE": "SOFI HELP: **{{command}}**",
     "ALIASES": "Aliases:",
     "COOLDOWN": "Cooldown:",
