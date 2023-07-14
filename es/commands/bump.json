@@ -1,7 +1,7 @@
 {
     "BUMP_DESCRIPTION": "Haz \"Bump\" en el sitio web oficial de Sofi.gg para obtener recompensas, como el \"Trade Pass\"",
     "BUMP_CATEGORY": "Configuración",
-    "EMBED_AUTHOR": "`Bumps` de {{username}}",
+    "EMBED_AUTHOR": "SOFI: `BUMP` ({{username}})",
     "GET_DIFFERENT_REWARDS": "Presiona el botón `Bump` en nuestro [Sitio Web](https://sofi.gg) Oficial para obtener recompensas",
     "TOTAL_BUMP": "> `Bumps` Totales: **{{bump}}**",
     "BUMP_POINTS": "> Puntos Actuales: **{{bumpPoints}}**",
