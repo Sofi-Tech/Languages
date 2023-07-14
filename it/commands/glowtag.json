@@ -7,5 +7,6 @@
     "INVALID_GLOW_CODE": "{{author}} Almeno uno dei codici `Glow` che hai fornito non è valido o non è presente nel tuo `Inventory`",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** è stato taggato con successo come `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tutti i `Glows` sono stati taggati con successo",
-    "CORRECT_USAGE": "{{author}} Uso Corretto: `{{prefix}}gt <TagName> <GlowCode>`"
+    "CORRECT_USAGE": "{{author}} Uso Corretto: `{{prefix}}gt <TagName> <GlowCode>`",
+    "GLOW_TAG_INVALID": "{{author}} Non hai nessun `Glow Tag` con il nome: `{{tagname}}`"
 }
