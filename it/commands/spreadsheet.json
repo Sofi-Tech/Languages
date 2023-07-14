@@ -5,5 +5,5 @@
     "NO_COLLECTION": "{{author}} Non hai carte nella tua collezione",
     "NO_GUILD_INFO": "{{author}} Al momento non fai parte di una guild",
     "NO_VAULT_LOGS": "{{author}} Al momento non sono presenti registri del vault",
-    "DM_FILE": "{{author}} Il foglio di calcolo ti è stato inviato tramite messaggi diretti.\n\n`Nota: durante l'importazione del file in programmi Excel o fogli di calcolo, assicurati di impostare il separatore su \"comma\"`"
+    "DM_FILE": "{{author}} Ti è stato inviato un file .csv tramite messaggio diretto\n\n> **Nota**: Quando importi il file in programmi Excel o fogli di calcolo, assicurati di impostare il separatore su \"virgola\"!"
 }

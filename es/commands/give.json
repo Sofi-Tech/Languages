@@ -14,5 +14,10 @@
     "CARD_NOT_OWNED": "Esa carta ya no te pertenece",
     "SUCCESS": "ÉXITO",
     "CANCELLED": "CANCELADO",
-    "GIVEN": "Remitente → Receptor"
+    "GIVEN": "Remitente → Receptor",
+    "CARD_SELECTED": "La carta es seleccionada es intransferible",
+    "MEM_NOT_VERIFIED": "El usuario no está verificado!",
+    "AUTHOR_BLACKLISTED": "Estás en la lista negra.",
+    "AUTHOR_NOT_VERIFIED": "No estás verificado!",
+    "EMBED_TITLE": "Regalar Carta"
 }

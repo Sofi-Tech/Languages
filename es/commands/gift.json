@@ -8,5 +8,7 @@
     "GIFT_WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}gift <Ususario> <Cantidad>`",
     "INVALID_USER": "{{author}} No puedes regalarte `{{eventItem}}` a ti mismo",
     "NOT_ENOUGH_ITEM": "{{author}} No tienes **{{amount}}** `{{eventItem}}`",
-    "GIFT_SLASH_DESC2": "Introduce la cantidad de `{{eventItem}}` que quieres regalarles"
+    "GIFT_SLASH_DESC2": "Introduce la cantidad de `{{eventItem}}` que quieres regalarles",
+    "NO_ACTIVE_EVENT": "No se ha encontrado ningún event activo",
+    "EMBED_TITLE": "SOFI: REGALO"
 }

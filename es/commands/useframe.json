@@ -8,7 +8,7 @@
     "NO_FRAMES_FOUND": "{{author}} El código de ese `Frame` noes válido o no está en tu `Inventory`",
     "EMBED_TITLE": "APLICAR FRAME:",
     "UF_CONFIRMATION": "Estás a punto de aplicar el `Frame` **{{frameName}}** a esta carta",
-    "EMBED_FOOTER": "Esta carta ya tiene un `Frame` aplicado. Aplicar otro destruirá el anterior!",
+    "EMBED_FOOTER": "Esta carta ya tiene un Frame aplicado. Aplicar otro destruirá el anterior!",
     "NO_OWNER": "{{author}} La carta ya no está en tu colección",
     "FRAME_NOT_FOUND": "{{author}} No tienes ningún **{{frameName}}** `Frame`",
     "UF_SUCCESSFUL": "El `Frame` fue aplicado con éxito"

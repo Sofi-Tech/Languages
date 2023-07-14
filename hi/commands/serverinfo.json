@@ -1,9 +1,14 @@
 {
-    "SI_DESCRIPTION": "सर्वर के आंकड़ो को प्रदर्शित किजिए",
+    "SI_DESCRIPTION": "सर्वर के आंकड़ो को प्रदर्शित करता है",
     "SI_CATEGORY": "सेटिंग्स",
-    "EMBED_AUTHOR": "सर्वर: {{guildName}} | प्रीफिक्स: `{{prefix}}` ({{blacklistPoints}})",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_SPAWN_CHANNEL": "स्पॉन चैनल",
     "SI_TOTAL_DROPS": "कुल Drops",
-    "SI_TOTAL_BURNT": "कुल जले हुए",
-    "SI_TOTAL_TRADES": "कुल व्यापार"
+    "SI_TOTAL_BURNT": "कुल पत्ते जलाए गए",
+    "SI_TOTAL_TRADES": "कुल व्यापार",
+    "SI_NAME_UNAVAILABLE": "नाम अनुपलब्ध",
+    "SI_TOP_SERVERS": "**शीर्ष सर्वर** । पुनः शुरू होगा **{{countdown}}**",
+    "EMBED_FOOTER": "सर्वर प्रिफिक्स: {{prefix}}",
+    "SI_TOTAL_GIVEN": "कुल पत्ते दिए गए",
+    "SI_TOTAL_GRABS": "कुल पत्ते प्राप्त किए गए"
 }

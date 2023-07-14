@@ -4,7 +4,7 @@
     "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Quell'emoji non è valida",
     "INVALID_TAGNAME_FORMAT": "{{author}} Il nome del tuo `Tag` deve essere alfanumerico e non può contenere caratteri speciali, spazi o volgarità!",
-    "LONG_TAGNAME": "{{author}} Il nome del tuo `Tag` può essere lungo solo 20 caratteri",
+    "LONG_TAGNAME": "{{author}} Il nome del tuo `Tag` può essere lungo solo **20** caratteri",
     "TAGNAME_EXISTS": "{{author}} Hai già un `Tag` con il nome `{{tag}}`",
     "TAG_CREATED": "{{author}} Creato con successo un `Tag` con il nome: `{{tag}}` | {{emoji}}"
 }
