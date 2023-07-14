@@ -1,9 +1,9 @@
 {
-    "ES_DESCRIPTION": "Muestra una tabla de clasificación para los envíos de cartas de \"Event\"",
-    "ES_CATEGORY": "Configuración",
-    "EMBED_TITLE": "SOFI: ESTADÍSTICAS DE EVENT | **{{eventName}}**",
-    "MENU_PLACEHOLDER": "Seleccionar un Event",
-    "MENU_HAL_LABEL": "Halloween 2022",
-    "MENU_VAL_LABEL": "Valentine 2023",
-    "MENU_MNC_LABEL": "Monochrome 2023"
+  "ES_DESCRIPTION": "Muestra una tabla de clasificación para los envíos de cartas de \"Event\"",
+  "ES_CATEGORY": "Configuración",
+  "EMBED_TITLE": "SOFI: ESTADÍSTICAS DE EVENT | **{{eventName}}**",
+  "EVENT_MENU_PLACEHOLDER": "Seleccionar un Event",
+  "MENU_HAL_LABEL": "Halloween 2022",
+  "MENU_VAL_LABEL": "Valentine 2023",
+  "MENU_MNC_LABEL": "Monochrome 2023"
 }

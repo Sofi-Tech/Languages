@@ -1,9 +1,9 @@
 {
-    "ES_DESCRIPTION": "Displays a leaderboard for \"Event\" card submissions",
-    "ES_CATEGORY": "Settings",
-    "EMBED_TITLE": "SOFI: EVENTSTATS | **{{eventName}}**",
-    "MENU_PLACEHOLDER": "Select an Event",
-    "MENU_HAL_LABEL": "Halloween 2022",
-    "MENU_VAL_LABEL": "Valentine 2023",
-    "MENU_MNC_LABEL": "Monochrome 2023"
+  "ES_DESCRIPTION": "Displays a leaderboard for \"Event\" card submissions",
+  "ES_CATEGORY": "Settings",
+  "EMBED_TITLE": "SOFI: EVENTSTATS | **{{eventName}}**",
+  "EVENT_MENU_PLACEHOLDER": "Select an Event",
+  "MENU_HAL_LABEL": "Halloween 2022",
+  "MENU_VAL_LABEL": "Valentine 2023",
+  "MENU_MNC_LABEL": "Monochrome 2023"
 }
