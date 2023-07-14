@@ -6,5 +6,6 @@
     "PERMS_EMBED_TITLE": "SOFI: AUTORIZZAZIONI",
     "PERMS_EMBED_FOOTER": "Nel #{{channelName}} ( {{channelId}} )",
     "BLACKLIST_BUTTON_LABEL": "Lista nera",
-    "BLACKLISTING_INFO": "Blacklisting: Questi comandi verranno bloccati da questo canale"
+    "BLACKLISTING_INFO": "Blacklisting: Questi comandi verranno bloccati da questo canale",
+    "BLACKLISTING_USAGE": "Utilizzo: `{{prefix}}p bl add/rem <comandi>` \n"
 }
