@@ -10,6 +10,6 @@
     "YOU_GET": "Ottieni:",
     "YOU_PAY": "Tu paghi:",
     "TRANSACTION": "SOFI: TRANSAZIONE",
-    "NO_ENOUGH_AMOUNT": "Non hai abbastanza valuta per fare questa transazione",
+    "NO_ENOUGH_AMOUNT": "{{author}} Non hai abbastanza valuta per fare questa transazione",
     "FRAME_PURCHASED_BY": "Il tuo `frame`**{{frame}}** è stato acquistato da `{{userId}}`| {{buyCount}}"
 }
