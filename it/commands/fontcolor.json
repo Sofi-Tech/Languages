@@ -10,6 +10,6 @@
     "EMBED_TITLE": "SOFI: COLORE FONT{{reset}}",
     "COLOR_NAME": "Nome: **{{name}}**",
     "COLOR_CODE": "Codice: `{{code}}`",
-    "GLOW_UNAVAILABLE": "Questo `Glow` non ha cariche disponibili",
+    "GLOW_UNAVAILABLE": "{{author}} Questo `Glow` non ha cariche disponibili",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "Il colore del font della carta è stato cambiato con successo"
 }
