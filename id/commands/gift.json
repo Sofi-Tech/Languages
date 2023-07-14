@@ -1,12 +1,11 @@
 {
-  "GIFT_CATEGORY": "Card",
-  "GIFT_SLASH_DESC2": "Masukkan jumlah `{{eventItem}}` yang ingin anda berikan kepada mereka",
-  "GIFT_WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gift <User> <Jumlah>`",
-  "INVALID_AMOUNT": "{{author}} Anda tidak dapat menghadiahkan jumlah negatif `{{eventItem}}`",
-  "PLAYER_NOT_EXISTS": "{{author}} Pemain tersebut tidak ada",
-  "GIFT_DESCRIPTION": "Beri \"Event Item\" ke pengguna lain",
-  "GIFT_SLASH_DESC": "Pilih pengguna yang ingin anda beri hadiah `{{eventItem}}`",
-  "INVALID_USER": "{{author}} Anda tidak dapat memberi hadiah `{{eventItem}}` kepada diri sendiri",
-  "NOT_ENOUGH_ITEM": "{{author}} Anda tidak punya **{{amount}}** `{{eventItem}}`",
-  "GIFT_SUCCESSFUL": "{{author}} telah memberikan **{{amount}}** `{{eventItem}}` kepada {{user}}\n{{user}} telah menerima total **{{recieveCount}}** `{{eventItem}}`"
+    "GIFT_CATEGORY": "Card",
+    "GIFT_SLASH_DESC2": "Masukkan jumlah `{{eventItem}}` yang ingin anda berikan kepada mereka",
+    "GIFT_WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gift <User> <Jumlah>`",
+    "INVALID_AMOUNT": "{{author}} Anda tidak dapat menghadiahkan jumlah negatif `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}} Pemain tersebut tidak ada",
+    "GIFT_SLASH_DESC": "Pilih pengguna yang ingin anda beri hadiah `{{eventItem}}`",
+    "INVALID_USER": "{{author}} Anda tidak dapat memberi hadiah `{{eventItem}}` kepada diri sendiri",
+    "NOT_ENOUGH_ITEM": "{{author}} Anda tidak punya **{{amount}}** `{{eventItem}}`",
+    "GIFT_SUCCESSFUL": "{{author}} telah memberikan **{{amount}}** `{{eventItem}}` kepada {{user}}\n{{user}} telah menerima total **{{recieveCount}}** `{{eventItem}}`"
 }

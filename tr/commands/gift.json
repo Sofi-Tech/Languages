@@ -1,7 +1,6 @@
 {
     "INVALID_AMOUNT": "{{author}} Negatif bir değerde {{eventItem}}` hediye edemezsiniz",
     "NOT_ENOUGH_ITEM": "{{author}} Sizde **{{amount}}** `{{eventItem}}` yok",
-    "GIFT_DESCRIPTION": "Başka bir kullanıcıya \"Event Items\" hediye edin",
     "GIFT_CATEGORY": "Kartlar",
     "GIFT_SLASH_DESC": "`{{eventItem}}` hediye etmek istediğiniz kullanıcıyı seçin",
     "GIFT_SLASH_DESC2": "Ona hediye etmek istediğiniz `{{eventItem}}` miktarını girin",
