@@ -2,15 +2,16 @@
     "INVALID_CARD_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
     "3D_CATEGORY": "Cosméticos",
     "NO_GIF_CONVERSION": "{{author}} No se puedes convertir una carta `GIF` en una variante `3D`",
-    "CARD_3D_ALREADY": "{{author}} Esa carta ya está en su variante 3D",
+    "CARD_3D_ALREADY": "{{author}} La carta ya es una variante `3D`",
     "NO_3D_VERSION": "{{author}} Actualmente este personaje no tiene variante `3D`",
     "EMBED_TITLE": "SOFI: `3D`",
     "EVENT_3D_NOTE": "Durante un \"Event\" activo, todas las cartas elegibles se convertirán en su variante \"Event 3D\" al confirmar este proceso",
     "3D_DESCRIPTION": "Convierte tu carta en su variante 3D",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Las cartas de evento no pueden convertirse en una variante 3D",
-    "3D_NOTE": "Estás a punto de convertir esta carta en su variante 3D. Este proceso modificará permanentemente tu carta y no podrá revertirse. La carta obtenida tendrá un \"Gen\" proporcional al anterior. Este proceso también eliminará cualquier \"Frame\" aplicado a la carta original",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Las cartas de `Event` no pueden convertirse en variantes `3D`",
+    "3D_NOTE": "Estás a punto de convertir esta carta en su variante \"3D\". Este proceso modificará permanentemente tu carta y no podrá revertirse. La carta obtenida tendrá un \"Gen\" proporcional al anterior. Este proceso también eliminará cualquier \"Frame\" aplicado a la carta original",
     "NO_CUBES": "{{author}} No tienes suficientes `Cubes`",
     "HALLOWEEN_3D_FAILED": "{{author}} Un fantasma ha infestado tu carta. El proceso ha fallado!",
     "UPGRADED_3D": "{{author}} Tu carta se ha convertido con éxito en su variante `3D`",
-    "UPGRADE_3D_CANCEL": "El proceso ha sido cancelado"
+    "UPGRADE_3D_CANCEL": "El proceso ha sido cancelado",
+    "EVENT_NOTE": "Estás a punto de actualizar esta carta a su versión Event 3D. Este proceso es permanente y no puede deshacerse. Por favor, quita el marco antes de actualizarla. Ten en cuenta que el gen de la carta puede revelarse y rascarse una vez finalizado el evento, en el sitio web"
 }

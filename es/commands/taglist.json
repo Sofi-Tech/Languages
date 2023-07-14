@@ -3,7 +3,7 @@
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} No se ha podido encontrar ese usuario",
     "NO_TAGS": "{{author}} Ese usuario no tiene ningún `Tag`",
-    "EMBED_TITLE": "Lista de `Tags` de {{username}}",
+    "EMBED_TITLE": "SOFI: LISTA DE `TAGS` ({{username}})",
     "SOFI_FACT": "Nota: Crear un \"Tag\" con el nombre \"lock\" y el emote \"🔒\" te impedirá quemar o intercambiar cartas con ese \"Tag\"\nEjemplo: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Total: {{count}}"
 }

@@ -1,8 +1,10 @@
 {
     "GUT_DESCRIPTION": "Quita tus \"Glow Tags\" de un \"Glow\"",
     "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "{{author}} Actualmente no tienes ningún `Glow`",
+    "NO_GLOWS_FOUND": "{{author}} Aún no tienes ningún `Glow`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Los códigos de `Glow` siempre comienzan con `#`",
     "INVALID_GLOWCODE": "{{author}} Ese `Glow` no es válido o no está en tu `Inventory`",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el `Tag` de tu **{{glow}}** `Glow`"
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el `Tag` de tu **{{glow}}** `Glow`",
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Al menos uno de los códigos de Glow que has proporcionado no es válido o no se encuentra en tu Inventory",
+    "GLOW_UNTAG_PLURAL": "{{author}} Eliminados con éxito los `Tags` de todos los códigos `Glow` proporcionados"
 }
