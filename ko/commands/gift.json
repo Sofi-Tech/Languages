@@ -1,11 +1,12 @@
 {
-    "GIFT_SLASH_DESC": "해당 이벤트 아이템인 {{eventItem}}을 선물하고자 하는 사용자를 선택하세요",
-    "NOT_ENOUGH_ITEM": "**{{amount}}** 개의 `{{eventItem}}`이 없습니다",
-    "GIFT_SUCCESSFUL": "{{author}}님이 **{{amount}}** 개의 `{{eventItem}}`을 {{user}}님에게 선물하였습니다\n{{user}}님은 총 **{{recieveCount}}** 개의 `{{eventItem}}`을 받았습니다",
-    "GIFT_CATEGORY": "카드",
-    "GIFT_SLASH_DESC2": "선물하고자 하는 {{eventItem}}의 수량을 입력해주세요",
-    "GIFT_WRONG_USAGE": "{{author}} 정확한 사용법은 `{{prefix}}gift <사용자> <수량>`입니다",
-    "INVALID_USER": "{{author}} 자신에게는 `{{eventItem}}`를 선물할 수 없습니다",
-    "INVALID_AMOUNT": "{{author}} 음수의 수량으로는 `{{eventItem}}`를 선물할 수 없습니다",
-    "PLAYER_NOT_EXISTS": "{{author}} 해당 플레이어는 존재하지 않습니다"
+  "GIFT_SLASH_DESC": "해당 이벤트 아이템인 {{eventItem}}을 선물하고자 하는 사용자를 선택하세요",
+  "NOT_ENOUGH_ITEM": "**{{amount}}** 개의 `{{eventItem}}`이 없습니다",
+  "GIFT_SUCCESSFUL": "{{author}}님이 **{{amount}}** 개의 `{{eventItem}}`을 {{user}}님에게 선물하였습니다\n{{user}}님은 총 **{{recieveCount}}** 개의 `{{eventItem}}`을 받았습니다",
+  "GIFT_CATEGORY": "카드",
+  "GIFT_SLASH_DESC2": "선물하고자 하는 {{eventItem}}의 수량을 입력해주세요",
+  "GIFT_WRONG_USAGE": "{{author}} 정확한 사용법은 `{{prefix}}gift <사용자> <수량>`입니다",
+  "INVALID_USER": "{{author}} 자신에게는 `{{eventItem}}`를 선물할 수 없습니다",
+  "GIFT_DESCRIPTION": "다른 사용자에게 \"이벤트 아이템\"을 선물합니다",
+  "INVALID_AMOUNT": "{{author}} 음수의 수량으로는 `{{eventItem}}`를 선물할 수 없습니다",
+  "PLAYER_NOT_EXISTS": "{{author}} 해당 플레이어는 존재하지 않습니다"
 }
