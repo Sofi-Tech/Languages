@@ -10,12 +10,14 @@
     "EMBED_FOOTER": "Totale: {{count}}",
     "SHOWING_PAGE": "Visualizzazione pagina: {{page}}/{{totalPages}}",
     "NO_GLOWS_FOUND": "{{author}} Non hai un `Tag` con il nome: `{{tagName}}`",
-    "CANNOT_FIND_GLOW": "{{author}} Impossibile trovare il `Glow` con il codice `{{glowCode}}`",
-    "EMBED_GLOW_TITLE": "SOFI: GLOW",
+    "CANNOT_FIND_GLOW": "{{author}} Impossibile trovare il `Glow` con il codice: `{{glowCode}}`",
+    "EMBED_GLOW_TITLE": "SOFI: VISUALIZZA `GLOWS`",
     "NAME": "`Nome:   ` ➜ {{name}}",
     "CODE": "`Codice:   ` ➜ `#{{code}}`",
     "STATUS": "`Stato:   ` ➜ **{{status}}**",
     "TYPE": "`Tipo:   ` ➜ {{type}}",
     "OWNER": "`Proprietario:  ` ➜ <@{{ownerId}}>",
-    "PURITY": "```Purezza:  ➜ {{purity}}```"
+    "PURITY": "```Purezza:  ➜ {{purity}}```",
+    "NO_GLOWS_SELF": "{{author}} Non hai ancora nessun `Glows`",
+    "INVALID_USER": "{{author}} Non è riuscito a trovare quell'utente"
 }

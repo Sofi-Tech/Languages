@@ -11,5 +11,5 @@
     "COLOR_NAME": "Nome: **{{name}}**",
     "COLOR_CODE": "Codice: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} Questo `Glow` non ha cariche disponibili",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "Il colore del font della carta è stato cambiato con successo"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Il colore del font della carta è stato cambiato con successo"
 }
