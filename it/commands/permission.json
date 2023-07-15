@@ -12,5 +12,7 @@
     "WHITELISTING_USAGE": "Utilizzo: `{{prefix}}p wl add/rem <comandi>` \n",
     "RESET_USAGE": "`sp reset` : Resetta i permessi per il canale",
     "SET_PERMS_ALL_USAGE": "`sp bl/wl all` : Lista nera/Lista bianca di tutti i comandi",
-    "PERMS_CATEGORY": "Impostazioni"
+    "PERMS_CATEGORY": "Impostazioni",
+    "MENTION_ADD_REMOVE": "{{author}} Indica se desideri aggiungere o rimuovere il comando.",
+    "MENTION_COMMANDS": "{{author}} Indica i comandi da inserire nella lista nera o nella lista bianca."
 }

@@ -2,7 +2,7 @@
     "UT_DESCRIPTION": "Removes the \"Tags\" from your cards",
     "UT_CATEGORY": "Tags",
     "INVALID_CODE": "{{author}} You do not have any cards in your collection yet",
-    "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` from **{{cardName}}**",
+    "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` from the **{{cardName}}** card",
     "MULTIPLE_UNTAG_one": "{{author}} Untagged {{count}} card",
     "MULTIPLE_UNTAG_other": "{{author}} Untagged {{count}} cards",
     "MULTIPLE_UNTAG_FAILED_one": "Untagged {{count}} card {{invalidCards}}",
