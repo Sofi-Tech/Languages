@@ -8,7 +8,7 @@
   "SUPER": "슈퍼",
   "EMBED_TITLE": "글로우 팔레트:",
   "EMBED_FOOTER": "{{prefix}}vg [글로우 코드]를 입력하여 글로우 보기 | 잠긴 글로우: {{count}}",
-  "SHOWING_PAGE": "페이지 보기: {{page}}/{{totalPages}}",
+
   "NO_GLOWS_FOUND": "{{author}} 태그 이름 {{tagName}}으로 된 글로우가 없습니다",
   "CANNOT_FIND_GLOW": "{{author}} `{{glowCode}}` 글로우 코드를 찾을 수 없습니다.",
   "EMBED_GLOW_TITLE": "SOFI: GLOW",

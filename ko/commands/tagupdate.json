@@ -7,7 +7,7 @@
   "BUTTON_EMOJI_LABEL": "이모지",
   "EMBED_TITLE": "태그 업데이트",
   "EMBED_DESCRIPTION": "`{{tagName}}` 태그의 어떤 부분을 업데이트 하시겠습니까?",
-  "EMBED_FOOTER": "아래에 있는 버튼을 사용하세요",
+
   "REPLACE_NAME": "`{{tagName}}`을(를) 대체할 새로운 태그 이름을 입력하세요",
   "TAGNAME_EXISTS": "`{{newTagName}}` 이름의 태그가 이미 존재합니다. 다른 태그 이름을 입력하세요.",
   "WRONG_TAGNAME_FORMAT": "태그 이름은 특수 문자나 공백을 포함해서는 안 됩니다.",
@@ -16,7 +16,7 @@
   "REPLACE_NAME_SUCCESSFUL": "태그 이름이 `{{oldTag}}`에서 `{{newTag}}`으로 성공적으로 업데이트되었습니다.",
   "PROCESS_TERMINATED": "프로세스가 종료되었습니다",
   "REPLACE_EMOJI": "`{{emoji}}`을(를) 대체할 새로운 태그 이모지를 입력하세요",
-  "TAGEMOJI_EXISTS": "`{{newEmoji}}` 이모지를 가진 태그가 이미 존재합니다. 다른 이모지를 입력하세요.",
+
   "WRONG_TAGEMOJI_FORMAT": "이미 존재하는 이모지 `{{newEmoji}}`를 가진 태그입니다. 다른 이모지를 입력하세요.",
   "REPLACE_EMOJI_CONFIRMATION": "`{{oldEmoji}}`에서 `{{newEmoji}}`으로 이모지를 바꾸시겠습니까?",
   "REPLACE_EMOJI_SUCCESSFUL": "`{{oldEmoji}}`에서 `{{newEmoji}}`으로 이모지가 성공적으로 업데이트되었습니다."

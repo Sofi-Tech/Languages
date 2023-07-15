@@ -7,7 +7,7 @@
   "BUTTON_EMOJI_LABEL": "絵文字",
   "EMBED_TITLE": "タグを更新する",
   "EMBED_DESCRIPTION": "タグ `{{tagName}}` の何を更新しますか？",
-  "EMBED_FOOTER": "以下のボタンを使用してください",
+
   "REPLACE_NAME": "`{{tagName}}` を置き換えたい新しいタグ名を入力してください",
   "TAGNAME_EXISTS": "名前が `{{newTagName}}` のタグは既に存在しています。別のタグ名を入力してください。",
   "WRONG_TAGNAME_FORMAT": "タグ名には特殊文字や空白を含めることはできません",
@@ -16,7 +16,7 @@
   "REPLACE_NAME_SUCCESSFUL": "タグ名は `{{oldTag}}` から `{{newTag}}` に正常に更新されました",
   "PROCESS_TERMINATED": "プロセスが中断されました",
   "REPLACE_EMOJI": "`{{emoji}}` を置き換えたい新しいタグ絵文字を送信してください",
-  "TAGEMOJI_EXISTS": "絵文字 `{{newEmoji}}` を持つタグが既に存在しています。別のタグ絵文字を指定してください",
+
   "WRONG_TAGEMOJI_FORMAT": "絵文字 `{{newEmoji}}` を持つタグが既に存在しています。別のタグ絵文字を指定してください",
   "REPLACE_EMOJI_CONFIRMATION": "`{{oldEmoji}}` から `{{newEmoji}}` にタグ絵文字を置き換えますか？",
   "REPLACE_EMOJI_SUCCESSFUL": "タグ絵文字は `{{oldEmoji}}` から `{{newEmoji}}` に正常に更新されました"

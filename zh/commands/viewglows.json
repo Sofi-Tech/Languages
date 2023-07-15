@@ -8,7 +8,7 @@
   "SUPER": "超级的",
   "EMBED_TITLE": "GLOW PALETTE：",
   "EMBED_FOOTER": "输入 {{prefix}}vg [聚光灯代码] 查看聚光灯 | 已解锁聚光灯数：{{count}}",
-  "SHOWING_PAGE": "显示页码：{{page}}/{{totalPages}}",
+
   "NO_GLOWS_FOUND": "{{author}} 没有标签名为 {{tagName}} 的聚光灯",
   "CANNOT_FIND_GLOW": "{{author}} 找不到代码为 `{{glowCode}}` 的聚光灯",
   "EMBED_GLOW_TITLE": "SOFI：聚光灯",

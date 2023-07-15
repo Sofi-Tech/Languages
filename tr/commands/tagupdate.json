@@ -7,7 +7,7 @@
   "BUTTON_EMOJI_LABEL": "Emoji",
   "EMBED_TITLE": "Etiketi Güncelle",
   "EMBED_DESCRIPTION": "`Tag`ınızın aşağıdaki hangi bölümünü güncellemek istersiniz: \"{{tagName}}\"?",
-  "EMBED_FOOTER": "Devam etmek için aşağıdaki düğmeleri kullanın",
+
   "REPLACE_NAME": "`{{tagName}}` yerine geçecek yeni bir ad girin",
   "TAGNAME_EXISTS": "{{author}} Zaten `{{newTagName}}` adında bir `Tag`ınız var. Lütfen farklı bir ad seçin ve tekrar deneyin",
   "WRONG_TAGNAME_FORMAT": "{{author}} `Tag`ınızın adı alfanümerik olmalı ve özel karakterler, boşluklar veya küfür içermemelidir",
@@ -16,7 +16,7 @@
   "REPLACE_NAME_SUCCESSFUL": "`Tag`ınızın adı \"{{oldTag}}\" iken \"{{newTag}}\" olarak başarıyla değiştirildi",
   "PROCESS_TERMINATED": "Bu işlem iptal edildi",
   "REPLACE_EMOJI": "{{emoji}} ile değiştirmek istediğiniz emojiyi girin",
-  "TAGEMOJI_EXISTS": "{{author}} {{newEmoji}} emojisini içeren bir `Tag` zaten var. Lütfen farklı bir emoji seçin",
+
   "WRONG_TAGEMOJI_FORMAT": "{{author}} {{newEmoji}} emojisini içeren bir `Tag` zaten var. Lütfen farklı bir emoji seçin",
   "REPLACE_EMOJI_CONFIRMATION": "{{oldEmoji}}olan `Tag` emojisini {{newEmoji}} olarak değiştirmek istediğinizden emin misiniz?",
   "REPLACE_EMOJI_SUCCESSFUL": "Bu `Tag`ın {{oldEmoji}} olan emojisi {{newEmoji}} olarak başarıyla güncellendi"

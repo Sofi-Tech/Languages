@@ -7,7 +7,7 @@
   "BUTTON_EMOJI_LABEL": "इमोजी",
   "EMBED_TITLE": "Tag अपडेट करें",
   "EMBED_DESCRIPTION": "आप `{{tagName}}` Tag का क्या अपडेट करना चाहेंगे?",
-  "EMBED_FOOTER": "दिए गए बटन का उपयोग करें",
+
   "REPLACE_NAME": "`{{tagName}}`को बदलने के लिए एक नया नाम लिखें",
   "TAGNAME_EXISTS": "{{author}} `{{newTagName}}` नाम के साथ एक Tag पहले से ही मौजूद है। एक अलग नाम देवे",
   "WRONG_TAGNAME_FORMAT": "{{author}} Tag का नाम वर्ण-अंकित होना आवश्यक है । Tag नाम में अलग भाती के अक्षर , बीच में जगह नहीं होनी चाहिए",
@@ -16,7 +16,7 @@
   "REPLACE_NAME_SUCCESSFUL": "Tag नाम को सफलतापूर्वक `{{oldTag}}` से `{{newTag}}` नवीनकरण किया गया",
   "PROCESS_TERMINATED": "प्रक्रिया समाप्त हो गई है",
   "REPLACE_EMOJI": "`{{emoji}}` से बदलने के लिए नया इमोजी भेजें",
-  "TAGEMOJI_EXISTS": "{{author}} `{{newEmoji}}` से एक Tag पहले से ही मौजूद है। एक अलग Tag इमोजी दें",
+
   "WRONG_TAGEMOJI_FORMAT": "{{author}} । `{{newEmoji}}` से एक Tag पहले से ही मौजूद है। एक अलग इमोजी दें",
   "REPLACE_EMOJI_CONFIRMATION": "क्या आप वाकई में {{oldEmoji}} से {{newEmoji}} Tag इमोजी को बदलना चाहते हैं?",
   "REPLACE_EMOJI_SUCCESSFUL": "Tag इमोजी को सफलतापूर्वक {{oldEmoji}} से {{newEmoji}} नवीनकरण किया गया"
