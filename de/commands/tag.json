@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} Du hast noch keine `Tags`. Erstelle einen Tag mit dem Befehl`{{prefix}}tc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} Du hast keinen `Tag` mit dem Namen `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Du hast noch keine Karten in deiner Sammlung",
-    "INVALID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist ungültig",
+    "INVALID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "SUCCESSFUL_TAG": "{{author}} **{{card}}** erfolgreich als `{{tag}}` getaggt",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Alle Karten wurden erfolgreich `getaggt`"
 }
