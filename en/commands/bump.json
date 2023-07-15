@@ -3,8 +3,8 @@
     "BUMP_CATEGORY": "Settings",
     "EMBED_AUTHOR": "SOFI: `BUMP` ({{username}})",
     "GET_DIFFERENT_REWARDS": "Press the `Bump` button on our official [Website](https://sofi.gg) to obtain rewards",
-    "TOTAL_BUMP": "> Total `Bumps`: **{{bump}}**",
-    "BUMP_POINTS": "> Current Points: **{{bumpPoints}}**",
+    "TOTAL_BUMP": "- Total `Bumps`: **{{bump}}**",
+    "BUMP_POINTS": "- Current Points: **{{bumpPoints}}**",
     "EMBED_FOOTER": "You can use the \"Bump\" function every 4 hours!",
     "BUMP": "Bump"
 }
