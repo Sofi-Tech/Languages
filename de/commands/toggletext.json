@@ -2,7 +2,7 @@
     "TT_DESCRIPTION": "Schaltet die Sichtbarkeit des Texts einer Karte ein/aus",
     "TT_CATEGORY": "Kosmetika",
     "PROVIDE_CARD_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}tt <CardCode>`",
-    "INAVLID_CARD_CODE": "{{author}} Dieser Karten-Code ist entweder ungültig oder nicht in deiner Sammlung",
+    "INAVLID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "INVALID_CODE": "{{author}} Du hast noch keine Karten in deiner Sammlung",
     "CANNOT_FIND_CARD": "{{author}} Dieser Charakter existiert nicht mehr!",
     "CANNOT_TOGGLE": "{{author}} Der Text von \"3D\" oder \"GIF\" Karten lässt sich nicht umschalten",

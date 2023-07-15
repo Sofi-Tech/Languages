@@ -21,7 +21,7 @@
     "SORT_HP": "Nach Leben sortieren",
     "SORT_DUPE": "Nach Duplikaten sortieren",
     "SHOWING PAGE": "Seite: {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "Alle {{taglength}} Karten wurde erfolgreich untagged",
+    "ALL_UNTAG_SUCCESS": "Der \"Tag\" {{taglength}} aller Karten wurde erfolgreich entfernt",
     "ALL_TAG_SUCCESS": "{{author}} Alle {{taglength}} Karten wurden erfolgreich getaggt",
     "PLEASE_WAIT": "Bitte Warten <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "Du hast noch keine `Tags`. Du kannst sie mit dem Befehl `{{prefix}}tc <TagName> <Emoji>` erstellen"

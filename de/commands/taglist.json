@@ -1,8 +1,8 @@
 {
     "TL_DESCRIPTION": "Zeigt die Liste deiner \"Tags\" an",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "{{author}} Konnte diesen Benutzer nicht finden",
-    "NO_TAGS": "{{author}} Es konnten keine Tags gefunden werden",
+    "NO_USER": "{{author}} Der Benutzer konnte nicht gefunden werden",
+    "NO_TAGS": "{{author}} Dieser Benutzer hat keine `Tags`",
     "EMBED_TITLE": "Tag Liste: {{username}}",
     "SOFI_FACT": "Karten, die mit einem \"Tag\" mit dem Namen \"lock\" und dem Vorhängeschloss-Emoji \"🔒\" versehen sind, können nicht verbrannt oder vergeben werden!\nBeispiel: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Tag-Anzahl: {{count}}"

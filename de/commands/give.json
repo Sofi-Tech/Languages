@@ -6,7 +6,7 @@
     "NO_SELF_GIVE": "{{author}} Du kannst dir selber keine Karte geben",
     "NOT_REGISTERED": "{{author}} ist nicht registriert!",
     "MEM_BLACKLISTED": "{{member}} ist auf der Schwarzen Liste",
-    "MEM_QUARANTINED": "Dieser Benutzer ist `quarantined`",
+    "MEM_QUARANTINED": "Dieser Benutzer ist unter Quarantäne",
     "NO_CODE": "{{author}} Du hast vergessen, einen Karten-Code anzugeben",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}give <User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "Es konnte keine Karte mit dem Code `{{code}}` gefunden werden",

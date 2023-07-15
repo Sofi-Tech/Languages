@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt deine Wunschliste an",
     "CATEGORY": "Wunschliste",
-    "USER_NOT_FOUND": "Dieser Benutzer konnte nicht gefunden werden",
+    "USER_NOT_FOUND": "Der Benutzer konnte nicht gefunden werden",
     "WISHLIST_PRIVATE": "> Die Wunschliste dieses Benutzers ist privat",
     "WISHLIST_EMPTY": "> {{username}}'s Wunschliste ist so leer wie mein Herz 💔",
     "WISHLIST_EMBED_TITLE": "{{username}}s Wunschliste [{{length}}/{{slots}}]",

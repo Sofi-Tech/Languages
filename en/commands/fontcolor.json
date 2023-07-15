@@ -3,7 +3,7 @@
     "FC_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}fc <CardCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",
-    "3D_ERROR": "{{author}} You cannot change a `3D` card's font color",
+    "3D_ERROR": "{{author}} You cannot apply a different font color to a `3D` variant",
     "PROVIDE_GLOWCODE": "{{author}} Correct usage: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} `Glow` codes always start with a **#**",
     "CANNOT_FIND_GLOW": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",

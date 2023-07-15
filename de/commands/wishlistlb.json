@@ -2,7 +2,7 @@
     "DESCRIPTION": "Zeigt die Wunschlisten-Rangliste an",
     "CATEGORY": "Wunschliste",
     "EMBED_TITLE": "WUNSCHLISTEN-RANGLISTE- {{type}}",
-    "EMBED_FOOTER": "Zeigt Seite: {{page}}/{{pages}} an",
+    "EMBED_FOOTER": "Seite: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Charaktere",
     "SERIES_BUTTON_LABEL": "Serie"
 }
