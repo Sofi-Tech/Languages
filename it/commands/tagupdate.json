@@ -11,11 +11,11 @@
     "TAGNAME_EXISTS": "{{author}} Hai già un `Tag` con il nome: `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} Il nome del tuo `Tag` deve essere alfanumerico e non deve contenere caratteri speciali, spazi o volgarità",
     "TAGNAME_LONG": "{{author}} Un nome `Tag` può contenere solo un massimo di **20** caratteri",
-    "REPLACE_NAME_CONFIRMATION": "Sei sicuro di voler cambiare il nome del `Tag` da `{{oldTag}}` a `{{newTag}}`?",
+    "REPLACE_NAME_CONFIRMATION": "Sei sicuro di voler cambiare il nome di questo `Tag` da `{{oldTag}}` a `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "Modificato con successo il nome del tuo `Tag` da `{{oldTag}}` a `{{newTag}}`",
-    "PROCESS_TERMINATED": "Questo processo è stato annullato",
+    "PROCESS_TERMINATED": "Il processo è stato annullato",
     "REPLACE_EMOJI": "Inserisci l'emoji con cui vuoi sostituire {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Esiste già un `Tag` con l'emoji {{newEmoji}}. Scegli un'emoji diversa",
-    "REPLACE_EMOJI_CONFIRMATION": "Sei sicuro di voler cambiare l'emoji `Tag` da {{oldEmoji}} a {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "L'emoji di questa emoji `Tag` è stata aggiornata con successo da {{oldEmoji}} a {{newEmoji}}"
+    "REPLACE_EMOJI_CONFIRMATION": "Sei sicuro di voler cambiare l'emoji di questo `Tag` da {{oldEmoji}} a {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFUL": "Aggiornata con successo l'emoji di questo `Tag` da {{oldEmoji}} a {{newEmoji}}"
 }
