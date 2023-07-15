@@ -3,5 +3,6 @@
     "COLLECTION_PVT": "{{author}} Ang mga `Fragments` ng user na iyon ay pribado!",
     "CANNOT_FIND_FRAGS": "{{user}} Walang makitang kahit anong `Fragments` sa user na iyan",
     "FRAGS_COUNT": "Kabuuan: {{totalCount}}",
-    "FRAG_LIST": "{{userName}}'s `Fragments`"
+    "FRAG_LIST": "{{userName}}'s `Fragments`",
+    "CANNOT_FIND_SELF": "{{user}}Ikaw ay walang kahit anong `Fragments`"
 }

@@ -6,6 +6,7 @@
     "BG_NOT_FOUND": "{{author}} Walang mahanap na kahit anong `Background` sa ibinigay na ID",
     "EMBED_TITLE": "SOFI: BACKGROUND",
     "USER_NO_BG": "{{author}}Ikaw ay walang`Background`na iyan",
-    "EMBED_DESCRIPTION": "Ikaw ay maglalagay na ng `Background` **{{background}}** sa card na ito",
-    "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay mo ay hindi wasto o wala sa iyong koleksyon"
+    "EMBED_DESCRIPTION": "Sigurado ka bang gusto mong lagyan ng `Background` **{{background}}** ang kard na ito?",
+    "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay mo ay hindi wasto o wala sa iyong koleksyon",
+    "BG_APPLY_SUCCESSFUL": "{{author}} Ang **{{background}}** `Background`ay matagumpay na nailagay sa iyong kard"
 }
