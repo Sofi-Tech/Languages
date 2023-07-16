@@ -5,7 +5,7 @@
     "WISHLIST_PRIVATE": "> The wishlist of that user is private",
     "WISHLIST_EMPTY": "> {{username}}'s wishlist is as empty as my heart 💔",
     "WISHLIST_EMBED_TITLE": "{{username}}'s Wishlist [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Use `{{prefix}}wu` or `{{prefix}}wu max` to increase the capacity of your wishlist. | Pages: {{page}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Use `{{prefix}}wu` or `{{prefix}}wu max` to increase the capacity of your wishlist. | Pages: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Copy Codes",
     "COPY_CODES_MENU_LABEL": "Copy All Codes",
     "COPY_CODES_MENU_DESCRIPTION": "Sends all codes as a text message",
