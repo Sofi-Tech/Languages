@@ -1,7 +1,7 @@
 {
     "SG_DESCRIPTION": "Fusioniere zwei \"Glows\", um einen \"Super Glow\" zu erhalten",
     "SG_CATEGORY": "Kosmetika",
-    "NO_GLOWS": "{{author}} Du besitzt noch keine `Glows`",
+    "NO_GLOWS": "{{author}} Du hast noch keine `Glows`",
     "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}sg <GlowCode1> <GlowCode2>`",
     "GLOW_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist ungültig",
     "UNAVAILABLE_GLOW": "{{author}} Mindestens einer der angegebenen `Glows` ist nicht verfügbar",

@@ -3,13 +3,13 @@
     "FC_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}fc <CódigoDeCarta> <CódigoDeGlow>`",
     "NOT_CARD_OWNER": "{{author}} El código de carta que proporcionaste no es válido o no está en tu colección",
-    "3D_ERROR": "{{author}} No puedes cambiar el color de texto de una carta `3D`",
+    "3D_ERROR": "{{author}} No puedes aplicar un color de letra diferente a una variante `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Uso correcto: `{{prefix}}fc <CódigoDeCarta> <CódigoDeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Los códigos de `Glow` siempre empiezan con un **#**",
     "CANNOT_FIND_GLOW": "{{author}} El código de `Glow` que has proporcionado no es válido o no está en tu `Inventory`",
     "EMBED_TITLE": "SOFI: COLOR DE FUENTE{{reset}}",
     "COLOR_NAME": "Nombre: **{{name}}**",
     "COLOR_CODE": "Código: `{{code}}`",
-    "GLOW_UNAVAILABLE": "{{author}} Ese `Glow` no tiene cargas",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} El color de letra de la carta se ha cambiado con éxito"
+    "GLOW_UNAVAILABLE": "{{author}} El `Glow` no tiene cargas restantes",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el color de letra de la carta"
 }

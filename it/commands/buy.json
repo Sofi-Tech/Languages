@@ -2,7 +2,7 @@
     "DESCRIPTION": "Acquista \"Items\" dal \"Shop\" di Sofi",
     "SLASH_DESC": "Inserisci il nome del `Item` che desideri acquistare",
     "SLASH_DESC2": "Inserisci la quantità",
-    "SLASH_DESC3": "Inserisci il codice dello `Sfondo` che desideri acquistare. [FUNZIONA SOLO SE L'OGGETTO È SELEZIONATO COME SFONDO]",
+    "SLASH_DESC3": "Inserisci il codice dello `Background` che desideri acquistare. [FUNZIONA SOLO SE L'OGGETTO È SELEZIONATO COME BACKGROUND]",
     "NO_ITEM": "Inserisci un `Item` da acquistare",
     "TRADEPASS_INFO": "Puoi scambiare **__1x__** `Bump` con un `Trade Pass` di 4 ore o risparmiare **__20x__**`Bumps` per acquistare un `Trade Pass` di 30 giorni",
     "CORRECT_USAGE": "{{USER}} Uso corretto: `{{prefix}}buy bg <Background-ID> <amount>`",

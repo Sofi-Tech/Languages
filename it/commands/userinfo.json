@@ -27,6 +27,6 @@
     "UI_QUARANTINED": "In Quarantena",
     "UI_UNVERIFIED": "Non Verificato",
     "UI_VERIFIED": "Verificato",
-    "EMBED_AUTHOR": "{{username}} [{{status}}]",
+    "EMBED_AUTHOR": "SOFI: UTENTEINFO [{{username}} - {{status}}]",
     "EMBED_FOOTER": "Registrato: {{date}} fa"
 }

@@ -14,7 +14,7 @@
     "GLOW_NAME": "Nama: {{name}}",
     "GLOW_CODE": "Kode: #{{code}}",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "GLOW_UNAVAILABLE": "{{author}} `Glow` tersebut tidak memiliki isi",
+    "GLOW_UNAVAILABLE": "{{author}} `Glow` tidak memiliki charges yang tersisa",
     "GLOW_APPLY_SUCCESSFUL": "Glow berhasil digunakan",
     "UNAVAILABLE": "Tidak tersedia",
     "AVAILABLE": "Tersedia"

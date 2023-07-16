@@ -1,7 +1,7 @@
 {
     "UT_DESCRIPTION": "Tatanggalin ang mga \"Tags\" sa iyong mga kard",
     "UT_CATEGORY": "Mga Tag",
-    "INVALID_CODE": "{{author}} Ikaw walang kahit anong kard sa iyong koleksyon",
+    "INVALID_CODE": "{{author}} Wala ka pang anumang mga card sa iyong koleksyon",
     "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na natanggal sa `Tag` mula sa **{{cardName}}** na kard",
     "MULTIPLE_UNTAG_one": "{{author}}Walang tatak{{count}}kard",
     "MULTIPLE_UNTAG_other": "{{author}}Walang tatak {{count}} kards",

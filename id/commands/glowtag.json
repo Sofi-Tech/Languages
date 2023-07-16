@@ -1,10 +1,13 @@
 {
-    "GT_DESCRIPTION": "\"Tag\" \"Glow\" Anda",
+    "GT_DESCRIPTION": "Menetapkan \"Tag\" ke \"Glow\" Anda",
     "GT_CATEGORY": "Tag",
     "GLOWTAGS_NOT_FOUND": "{{author}} Anda belum memiliki `Glow Tags`. Anda dapat membuatnya dengan perintah `{{prefix}}gtc <Nama> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Anda belum punya `Glows`",
     "MISSING_GLOWTAG": "{{author}} Anda harus memberikan `Glow Tag`",
     "INVALID_GLOW_CODE": "{{author}} Setidaknya salah satu kode `Glow` yang anda berikan tidak valid atau tidak ada di `Inventory` anda",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** berhasil ditandai sebagai `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Semua `Glows` berhasil ditandai"
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** berhasil ditandai sebagai: `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Semua `Glows` berhasil ditandai sebagai: `{{tag}}`",
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gt <NamaTag> <KodeGlow>`",
+    "GLOW_TAG_INVALID": "{{author}} Anda tidak memiliki `Glow Tag` dengan nama: `{{tagname}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Kode `Glow` yang Anda berikan tidak valid atau tidak ada dalam `Inventory` Anda"
 }

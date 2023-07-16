@@ -42,7 +42,7 @@
     "GUIDE_BUTTON_LABEL": "Gabay!",
     "EMBED_TITLE": "SOFI: HELP MENU",
     "EMBED_FOOTER": "Ni-request ni {{username}}",
-    "COMMNAD_NOT_FOUND": "{{author}} | Walang command na may panagalan na `{{command}}` ang nakita. Ibig mo bang sabihin ay? {{commandName}}",
+    "COMMNAD_NOT_FOUND": "{{author}} Walang command na may pangalang: `{{command}}`! Naghahanap ka ba ng `{{commandName}}`?",
     "ALIASES": "Palayaw:",
     "USAGE": "Pag-gamit:",
     "NO_ALIASES": "Walang Palayaw",

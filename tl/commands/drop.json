@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Lumilikha ng \"Drop\" ng mga cards\nGamitin ang commad na \"{{prefix}}dn\" para makapag-generate ng \"Drop\" na walang imahe",
     "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} Ang iyong **ExtraDrop** ay kasalukuyang ginagamit. Meron ka pang **{{remaining}}** na natitira",
+    "EXTRA_DROP_ALERT": "{{author}} Ang iyong **ExtraDrop** ay kasalukuyang ginagamit. Meron ka pang .**{{remaining}}** na natitira",
     "ON_CD": "{{author}} Magkakaroon ka ng `Drop` sa loob ng {{dropCd}}",
     "VOTE": "Boto",
     "BUY_DROP": "\nPwede ka ding mag-`Vote` upang makatanggap ng mga `Wist` at gamiting ito pambili ng mga `Drop`\nGamitin ang command na `{{prefix}}buy drop <Amount`upang makabili ng `Drops`",

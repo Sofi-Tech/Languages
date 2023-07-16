@@ -14,7 +14,7 @@
     "GLOW_NAME": "Name: {{name}}",
     "GLOW_CODE": "Code: #{{code}}",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "GLOW_UNAVAILABLE": "Dieser `Glow` ist nicht aufgeladen",
+    "GLOW_UNAVAILABLE": "{{author}} Dieser `Glow` hat keine Ladungen mehr übrig",
     "GLOW_APPLY_SUCCESSFUL": "Der `Glow` wurde erfolgreich angewendet",
     "UNAVAILABLE": "Nicht verfügbar",
     "AVAILABLE": "Verfügbar"

@@ -4,12 +4,12 @@
     "NO_FRAME_NAME": "{{author}} Por favor proporciona el código del `Frame` que quieres comprar",
     "NO_FRAMECODE_FOUND": "{{author}} No se ha podido encontrar ningún `Frame` con el código `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} Ese `Frame` no está disponible actualmente. Utilica el comando `{{prefix}}fs` para ver la rotación actual del `Frames`",
-    "NO_FRAME_FOUND": "{{author}} No existe ningún `Frame` con ese código",
+    "NO_FRAME_FOUND": "{{author}} No se ha encontrado ningún `Frame` con ese código",
     "FRAME_NOT_PURCHASABLE": "{{author}} Ese `Frame` es limitado y ya no puede ser comprado",
-    "EMBED_TITLE": "TRANSACCIÓN",
+    "EMBED_TITLE": "SOFI: TRANSACCIÓN",
     "YOU_GET": "Obtienes:",
     "YOU_PAY": "Pagas:",
-    "TRANSACTION": "SOFI: TRANSACCIÓN",
-    "NO_ENOUGH_AMOUNT": "{{author}} No tienes suficiente cantidad de fondos para realizar esta transacción",
-    "FRAME_PURCHASED_BY": "Tu `Frame`**{{frame}}** ha sido comprado por `{{userId}}`| {{buyCount}}"
+    "TRANSACTION": "TRANSACCIÓN",
+    "NO_ENOUGH_AMOUNT": "{{author}} No tiene suficiente {{currency}} para esta transacción",
+    "FRAME_PURCHASED_BY": "Tu `Frame` **{{frame}}** ha sido comprado por `{{userId}}`| {{buyCount}}"
 }

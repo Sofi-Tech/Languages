@@ -4,12 +4,12 @@
     "NO_FRAME_NAME": "{{author}} Ibigay ang kodigo ng `Frame` na iyong nais bilhin",
     "NO_FRAMECODE_FOUND": "{{author}} Walang `Frame` na nakita sa code na `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} Ang frame na iyan ay hindi pa available. Mangyaring gamitin ang `{{prefix}}fs` para makita ang kasalukuyang `Frame` rotation",
-    "NO_FRAME_FOUND": "{{author}} Walang `Frame` na may ganyang code ang natagpuan",
+    "NO_FRAME_FOUND": "{{author}} Hindi mahanap ang anumang `Frame` na may code na iyon",
     "FRAME_NOT_PURCHASABLE": "{{author}} Ang `Frame` na iyan ay limitado at hindi na maaring mabili",
-    "EMBED_TITLE": "TRANSAKSIYON",
+    "EMBED_TITLE": "SOFI: TRANSAKSYON",
     "YOU_GET": "Makukuha Mo:",
     "YOU_PAY": "Bayad Mo:",
-    "TRANSACTION": "SOFI: TRANSAKSIYON",
-    "NO_ENOUGH_AMOUNT": "{{author}}Ikaw ay walang sapat na halaga na transaksiyon na ito",
-    "FRAME_PURCHASED_BY": "Ang iyong `Frame` na **{{frame}}** ay binili ni `{{userId}}` | {{buyCount}}"
+    "TRANSACTION": "TRANSAKSIYON",
+    "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na {{currency}} para sa transaksyong ito",
+    "FRAME_PURCHASED_BY": "Ang iyong **{{frame}}** `Frame` ay binili ng `{{userId}}`| {{buyCount}}"
 }

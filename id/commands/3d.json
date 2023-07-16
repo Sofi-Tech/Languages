@@ -1,16 +1,17 @@
 {
     "INVALID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "3D_CATEGORY": "Kosmetik",
-    "NO_GIF_CONVERSION": "{{author}} Kartu `GIF` tidak dapat dirubah ke dalam varian 3D",
-    "CARD_3D_ALREADY": "{{author}} Kartu tersebut sudah dalam keadaan 3D",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Kartu event tidak dapat diubah menjadi varian 3D",
-    "NO_3D_VERSION": "{{author}} Karakter tersebut saat ini tidak memiliki varian 3D",
-    "EMBED_TITLE": "SOFI: 3D",
-    "EVENT_3D_NOTE": "Anda bisa mendapatkan varian 3D \"Event\" selama event aktif",
-    "NO_CUBES": "Anda tidak memiliki cukup `Cubes`",
-    "UPGRADED_3D": "Kartu anda telah berhasil dirubah ke dalam varian 3D",
+    "NO_GIF_CONVERSION": "{{author}} Anda tidak dapat mengonversi kartu `GIF` menjadi varian `3D`",
+    "CARD_3D_ALREADY": "{{author}} Kartu ini sudah merupakan varian `3D`",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Kartu `Event` tidak dapat dikonversi menjadi varian `3D`",
+    "NO_3D_VERSION": "{{author}} Karakter ini saat ini tidak memiliki varian `3D`",
+    "EMBED_TITLE": "SOFI: `3D`",
+    "EVENT_3D_NOTE": "Selama \"Event\" aktif, semua kartu yang memenuhi syarat akan dikonversi menjadi varian \"Event 3D\" mereka setelah mengonfirmasi proses ini",
+    "NO_CUBES": "{{author}} Anda tidak memiliki cukup `Cubes`",
+    "UPGRADED_3D": "{{author}} Kartu Anda telah berhasil dikonversi ke dalam varian `3D`",
     "UPGRADE_3D_CANCEL": "Proses telah dibatalkan",
-    "HALLOWEEN_3D_FAILED": "Hantu Halloween telah memasuki kartu Anda! Proses perubahan telah gagal!",
+    "HALLOWEEN_3D_FAILED": "{{author}} Hantu telah memenuhi kartu Anda. Proses telah gagal!",
     "3D_DESCRIPTION": "Mengonversi kartu anda ke dalam varian 3D",
-    "3D_NOTE": "Anda akan mengubah kartu ini menjadi varian 3D. Proses ini akan mengubah kartu anda secara permanen dan tidak dapat dikembalikan. Kartu yang baru diperoleh akan memiliki \"Gen\" yang proporsional dengan kartu lama. Proses ini juga akan menghapus \"Frame\" yang terpasang"
+    "3D_NOTE": "Anda akan mengubah kartu ini menjadi varian \"3D\". Proses ini akan mengubah kartu anda secara permanen dan tidak dapat dikembalikan. Kartu yang baru diperoleh akan memiliki \"Gen\" yang proporsional dengan kartu lama. Proses ini juga akan menghapus \"Frame\" yang terpasang",
+    "EVENT_NOTE": "Anda akan meng-upgrade kartu ini ke versi 3D Event. Proses ini bersifat permanen dan tidak dapat dibatalkan. Harap lepaskan bingkai sebelum meningkatkan. Perhatikan bahwa gen kartu dapat diungkap dan digores setelah acara berakhir, di situs web"
 }

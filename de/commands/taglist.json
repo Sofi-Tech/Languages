@@ -3,7 +3,7 @@
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Der Benutzer konnte nicht gefunden werden",
     "NO_TAGS": "{{author}} Dieser Benutzer hat keine `Tags`",
-    "EMBED_TITLE": "Tag Liste: {{username}}",
-    "SOFI_FACT": "Karten, die mit einem \"Tag\" mit dem Namen \"lock\" und dem Vorhängeschloss-Emoji \"🔒\" versehen sind, können nicht verbrannt oder vergeben werden!\nBeispiel: \"{{prefix}}tc lock 🔒\"",
-    "EMBED_FOOTER": "Tag-Anzahl: {{count}}"
+    "EMBED_TITLE": "SOFI: `TAG` LISTE ({{username}})",
+    "SOFI_FACT": "Beachte: Einen \"Tag\" mit dem Namen \"lock\" und dem Vorhängeschloss-Emoji \"🔒\" zu kreieren, wird verhindern das du Karten mit diesem \"Tag\" verbrennen oder mit ihnen handeln kannst!\nBeispiel: \"{{prefix}}tc lock 🔒\"",
+    "EMBED_FOOTER": "Insgesamt: {{count}}"
 }

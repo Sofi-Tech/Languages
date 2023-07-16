@@ -3,7 +3,7 @@
     "SHEET_CATEGORY": "Einstellungen",
     "SHEET_DESCRIPTION": "Erstellt eine \".csv\"-Datei deiner Sammlung",
     "NO_VAULT_LOGS": "{{author}} Derzeit sind keine Tresorprotokolle vorhanden",
-    "DM_FILE": "{{author}} Die Tabellendatei wurde dir per Direktnachricht zugesandt.\n\n`Beachte: Wenn du die Datei in Excel oder ähnliche Programme importierst, wähle \"Komma\" als Trennzeichen `",
+    "DM_FILE": "{{author}} Eine .csv Datei wurde dir per Direktnachricht zugesandt\n\n> **Beachte**: Wenn du die Datei in Excel oder ähnliche Programme importierst, wähle \"Komma\" als Trennzeichen!",
     "CANNOT_DM": "{{author}} Die Tabellendatei konnte dir nicht zugesandt werden. Gehe sicher das du Direktnachrichten in den Einstellungen erlaubst!",
     "NO_COLLECTION": "{{author}} Du hast keine Karten in deiner Sammlung"
 }

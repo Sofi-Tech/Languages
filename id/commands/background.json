@@ -2,10 +2,11 @@
     "BG_CATEGORY": "Kosmetik",
     "BG_DESCRIPTION": "Memasangkan \"Background\" ke kartu 3D Anda",
     "NON_3D_CARDS": "{{author}} Anda tidak dapat memasangkan `Background` ke kartu non-3D",
-    "BG_NOT_FOUND": "Tidak dapat menemukan `Background` dengan ID tersebut",
+    "BG_NOT_FOUND": "{{author}} Tidak dapat menemukan `Background` dengan ID tersebut",
     "EMBED_TITLE": "SOFI: BACKGROUND",
-    "EMBED_DESCRIPTION": "Anda akan memasangkan `Background` **{{background}}** ke kartu ini",
+    "EMBED_DESCRIPTION": "Apakah Anda yakin ingin menerapkan **{{background}}** `Background` ke kartu ini?",
     "USER_NO_BG": "{{author}} Anda tidak memiliki `Background` itu",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <Background-ID>`"
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <Background-ID>`",
+    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** `Background` telah berhasil dilampirkan ke kartu Anda"
 }

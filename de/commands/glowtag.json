@@ -1,10 +1,13 @@
 {
-    "GT_DESCRIPTION": "\"Tagt\" deine \"Glows\"",
+    "GT_DESCRIPTION": "Weist deinen \"Glows\" einen \"Tag\" zu",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Du hast noch keine `Glow Tags`. Du kannst sie mit dem Befehl \"{{prefix}}gtc <Name> <Emoji>\" erstellen",
-    "GLOWS_NOT_UNLOCKED": "{{author}} Du besitzt noch keine `Glows`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Du hast noch keine `Glow Tags`. Du kannst sie mit dem Befehl: \"{{prefix}}gtc <Name> <Emoji>\" erstellen",
+    "GLOWS_NOT_UNLOCKED": "{{author}} Du hast noch keine `Glows`",
     "MISSING_GLOWTAG": "{{author}} Du musst einen `Glow-Tag` angeben",
-    "INVALID_GLOW_CODE": "{{author}} Einer oder mehrere der angegebenen `Glow`-Codes sind ungültig",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** wurde erfolgreich als `{{tag}}` getagged",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Alle `Glows` wurden erfolgreich getaggt"
+    "INVALID_GLOW_CODE": "{{author}} Mindestens einer der angegebenen `Glow` Codes ist ungültig oder nicht in deinem `Inventory`",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** wurde erfolgreich der: `{{tag}}` zugewiesen",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Alle `Glows` wurden erfolgreich dem: `{{tag}}` zugewiesen",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gt <TagName> <GlowCode>`",
+    "GLOW_TAG_INVALID": "{{author}} Du hast keinen `Glow Tag` mit dem namen `{{tagname}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder nicht in deinem `Inventory`"
 }

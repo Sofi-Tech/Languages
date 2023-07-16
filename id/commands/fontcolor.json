@@ -3,13 +3,13 @@
     "FC_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "NOT_CARD_OWNER": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
-    "3D_ERROR": "{{author}} Anda tidak dapat mengubah warna font kartu `3D`",
+    "3D_ERROR": "{{author}} Anda tidak dapat menerapkan warna font yang berbeda pada varian `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Kode `Glow` selalu dimulai dengan tanda **#**",
     "CANNOT_FIND_GLOW": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di `Inventory` anda",
     "EMBED_TITLE": "SOFI: WARNA FONT{{reset}}",
     "COLOR_NAME": "Nama: **{{name}}**",
     "COLOR_CODE": "Kode: `{{code}}`",
-    "GLOW_UNAVAILABLE": "{{author}} `Glow` tersebut tidak memiliki isi",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Warna font kartu berhasil diubah"
+    "GLOW_UNAVAILABLE": "{{author}} `Glow` tidak memiliki charges yang tersisa",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah warna font kartu"
 }

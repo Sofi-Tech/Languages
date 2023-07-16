@@ -14,5 +14,10 @@
     "CARD_NOT_OWNED": "Du bist nicht mehr im Besitz dieser Karte",
     "SUCCESS": "ERFOLGREICH",
     "CANCELLED": "ABGEBROCHEN",
-    "GIVEN": "Sender → Empfänger"
+    "GIVEN": "Sender → Empfänger",
+    "MEM_NOT_VERIFIED": "Der Benutzer ist nicht verifiziert!",
+    "AUTHOR_BLACKLISTED": "Du bist auf der Schwarzen Liste..",
+    "AUTHOR_NOT_VERIFIED": "Du bist nicht verifiziert!",
+    "CARD_SELECTED": "Diese Karte ist ausgewählt und nicht übertragbar",
+    "EMBED_TITLE": "Karte geben"
 }

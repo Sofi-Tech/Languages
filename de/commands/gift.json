@@ -8,5 +8,7 @@
     "GIFT_SUCCESSFUL": "{{author}} hat {{user}} **{{amount}}** `{{eventItem}}`geschenkt\n{{user}} hat insgesamt **{{recieveCount}}** `{{eventItem}}`erhalten",
     "INVALID_USER": "{{author}} Du kannst dir selbst keine `{{eventItem}}` schenken",
     "NOT_ENOUGH_ITEM": "{{author}} Du besitzt keine **{{amount}}** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} Dieser Spieler existiert nicht"
+    "PLAYER_NOT_EXISTS": "{{author}} Dieser Spieler existiert nicht",
+    "NO_ACTIVE_EVENT": "Kein aktives Event gefunden",
+    "EMBED_TITLE": "SOFI: GESCHENK"
 }
