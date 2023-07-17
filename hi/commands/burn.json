@@ -5,8 +5,8 @@
     "SUCCESS": "सफलता",
     "CANCELLED": "रद्द किया गया",
     "BURN_FRAG_WARN": "आप `Fragment` को जलाने जा रहे हैं\n`Fragment` का कोड: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "कोई Fragment प्राप्त नहीं हुआ",
-    "CARD_NOT_FOUND": "उस पत्ते को खोजने में असमर्थ",
-    "CARD_LOCKED": "यह पता लॉक Tag में है",
-    "CARD_NOT_OWNED": "आप इस पत्ते के मालिक नहीं हैं"
+    "FRAG_NOT_FOUND": "कोई `Fragment` नही मिला",
+    "CARD_NOT_FOUND": "वह पत्ता नही मिला",
+    "CARD_LOCKED": "वह पता अवरोधित है",
+    "CARD_NOT_OWNED": "आप वह पत्ते के मालिक नहीं हैं"
 }
