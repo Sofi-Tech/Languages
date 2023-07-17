@@ -11,5 +11,6 @@
     "COLOR_NAME": "Nombre: **{{name}}**",
     "COLOR_CODE": "Código: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} El `Glow` no tiene cargas restantes",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el color de letra de la carta"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el color de letra de la carta",
+    "PROCESS_CANCELLED": "El proceso ha sido cancelado"
 }

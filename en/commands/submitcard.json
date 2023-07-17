@@ -29,7 +29,7 @@
     "VALID_EVENT_2D_DIMENSIONS": "{{author}} The submitted `2D Event` image has invalid dimensions! (**297**x**465**)",
     "VALID_EVENT_3D_DIMENSIONS": "{{author}} The submitted `3D Event` image has invalid dimensions! (**420**x**603**)",
     "EMBED_TITLE": "SOFI: CARD SUBMISSION ({{character}})",
-    "SUBMIT_CONFIRMATION": "Are you sure you want to submit this card? {{isEventSubmission}}\n",
+    "SUBMIT_CONFIRMATION": "Are you sure you want to submit this card?",
     "EVENT_CARD_CONFIRMATION": "It will be used in the **{{type}}** `Event`\n",
     "CARD_CONFIRMATION": "",
     "CHARACTER_NAME": "Character Name: **{{character}}**",
