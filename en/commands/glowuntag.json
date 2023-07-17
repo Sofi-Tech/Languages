@@ -6,5 +6,5 @@
     "INVALID_GLOWCODE": "{{author}} That `Glow` code is either invalid or not in your `Inventory`",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` of your **{{glow}}** `Glow`",
     "GLOW_UNTAG_PLURAL": "{{author}} Successfully removed the `Tags` of all provided `Glow` codes",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Successfully removed the `Tag` of **{{count}}** `Glows`. The following codes are either invalid or not in your `Inventory`: `{{invalidCodes}}`"
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Successfully removed the `Tag` of **{{count}}** `Glows`. The following codes are either invalid or not in your `Inventory`: {{invalidCodes}}"
 }
