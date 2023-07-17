@@ -17,7 +17,7 @@
     "UPSCALE_IMAGE_SITE": "Upscale Image: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**",
     "TOTAL_EVENT_2D": "Unique `2D Event` cards: **{{totalEventCards}}**",
     "TOTAL_EVENT_3D": "Unique `3D Event` cards: **{{totalEventCards}}**",
-    "EMBED_FOOTER": "Your submissions: {{userStats}/{{submitted}} | Total submissions: {{globalStats}/{{allSubmit}}",
+    "EMBED_FOOTER": "Your submissions: {{userStats}}/{{submitted}} | Total submissions: {{globalStats}}/{{allSubmit}}",
     "CARD_ID_INVALID": "{{author}} The submitted Card-ID is invalid",
     "ENTER_EVENT_TYPE": "{{author}} The submitted card type is invalid",
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} You have insufficient permissions to submit images for the `Event` type",

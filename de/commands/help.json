@@ -10,7 +10,7 @@
     "FILTER_TAG": "<:pdot:979009081325019156> **Tag** = [`t`/`tag`] | **`sc t=TAGNAME`**",
     "FILTER_ATTACK": "<:pdot:979009081325019156> **Angriff** = [`atk`/`attack`] | **`sc atk>NUMMER`**",
     "FILTER_SPEED": "<:pdot:979009081325019156> **Geschwindigkeit** = [`spd`/`speed`] | **`sc spd>NUMMER`**",
-    "FILTER_HEALTH": "<:pdot:979009081325019156> **Leben** = [`hp`/`health`] | **`sc hp>NUMMER`**",
+    "FILTER_HEALTH": "<:pdot:979009081325019156> **Lebenspunkte** = [`hp`/`health`] | **`sc hp>NUMMER`**",
     "FILTER_CODE": "<:pdot:979009081325019156> **Code** = [`c`/`code`] | **`sc c=CODE`**",
     "FILTER_3D": "<:pdot:979009081325019156> **3D** = [`3d`/`threed`] | **`sc 3d=TRUE/FALSE`**",
     "FILTER_GLOW": "<:pdot:979009081325019156> **Glow** = [`glow`/`glowed`] | **`sc glow=TRUE/FALSE`**",

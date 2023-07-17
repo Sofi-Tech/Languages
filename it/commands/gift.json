@@ -3,7 +3,7 @@
     "GIFT_CATEGORY": "Carte",
     "GIFT_SLASH_DESC": "Scegli un utente a cui vuoi regalare `{{eventItem}} `",
     "INVALID_USER": "{{author}} Non puoi regalare `{{eventItem}}` a te stesso",
-    "INVALID_AMOUNT": "{{author}} non puoi regalare un importo megativo di `{{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} Non puoi regalare un importo negativo di `{{eventItem}}`",
     "NOT_ENOUGH_ITEM": "{{author}} Non hai **{{amount}}** `{{eventItem}}`",
     "PLAYER_NOT_EXISTS": "{{author}} Quel giocatore non esiste",
     "GIFT_SLASH_DESC2": "Inserisci la quantità di `{{eventItem}} ` che vuoi regalare loro",
