@@ -18,5 +18,6 @@
     "STATUS": "`Status:   ` ➜ **{{status}}**",
     "TYPE": "`Type:     ` ➜ {{type}}",
     "OWNER": "`Owner:    ` ➜ <@{{ownerId}}>",
-    "PURITY": "```Purity :  ➜ {{purity}}\nPurity2:  ➜ {{purity2}}```"
+    "PURITY": "Purity :  ➜ {{purity}}",
+    "PURITY2": "Purity2:  ➜ {{purity2}}"
 }
