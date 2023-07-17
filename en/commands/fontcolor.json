@@ -11,5 +11,6 @@
     "COLOR_NAME": "Name: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} The `Glow` has no charges left",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Successfully changed the card's font color"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Successfully changed the card's font color",
+    "PROCESS_CANCELLED": "The process has been cancelled"
 }

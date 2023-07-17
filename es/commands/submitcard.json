@@ -21,7 +21,7 @@
     "UPSCALE_IMAGE_SITE": "Aumentar Resolución de Imagen: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**",
     "TOTAL_EVENT_2D": "Cartas `2D Event` únicas: **{{totalEventCards}}**",
     "TOTAL_EVENT_3D": "Cartas `3D Event` únicas: **{{totalEventCards}}**",
-    "EMBED_FOOTER": "Tus envíos: {{userStats}/{{submitted}} | Envíos globales: {{globalStats}/{{allSubmit}}",
+    "EMBED_FOOTER": "Tus envíos: {{userStats}}/{{submitted}} | Envíos Totales: {{globalStats}}/{{allSubmit}}",
     "CARD_ID_INVALID": "{{author}} El ID de Carta enviado no es válido",
     "ENTER_EVENT_TYPE": "{{author}} El tipo de carta enviado no es válido",
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} No tienes permisos suficientes para enviar imágenes para el tipo `Event`",
