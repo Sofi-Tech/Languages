@@ -3,7 +3,7 @@
     "SLASH_DESC": "वह पत्ते का कोड दर्ज करें जिसे आप ढूंढ रहे हैं",
     "NO_CARD_FOUND": "आपका अंतिम पत्ता नहीं मिल सका। पत्ते का कोड प्रदान करने का प्रयास किजिए",
     "INVALID_CARD_CODE": "{{author}} आपके द्वारा प्रदान किया हुआ कोड अमान्य है या आपके संग्रह में मौजूद नहीं है",
-    "CARD_MORPHED": "कार्ड मोर्फ हो गया है",
+    "CARD_MORPHED": "कार्ड पहले से ही morph हो रखा है",
     "CARD_GLOWED": "कार्ड __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__ से glow किया चुका है\n",
     "CARD_FONT": "फ़ॉन्ट रंग: {{fontName}} [`#{{ viewCode}}`]\n",
     "CARD_FRAMED": "इस पत्ते को __{{frameName}}__ Frame किया गया है\n",

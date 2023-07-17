@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Rimuove un personaggio dalla tua lista dei desideri",
+    "DESCRIPTION": "Rimuove un carattere dalla tua lista dei desideri",
     "CATEGORY": "Lista dei desideri",
     "NO_INDEX": "Nessun nome o numero è stato fornito! Per cancellare l'intera lista dei desideri, usa il comando `swr full reset`",
     "FULL_RESET": "> {{author}} Hai rimosso **__{{total}}__** caratteri dalla tua lista dei desideri",
