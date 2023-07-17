@@ -16,7 +16,8 @@
     "STATUS": "`Estado:   ` ➜ **{{status}}**",
     "TYPE": "`Tipo:     ` ➜ {{type}}",
     "OWNER": "`Propietario:    ` ➜ <@{{ownerId}}>",
-    "PURITY": "```Pureza :  ➜ {{purity}}\nPureza2:  ➜ {{purity2}}```",
+    "PURITY": "Pureza :  ➜ {{purity}}",
     "NO_GLOWS_SELF": "{{author}} Aún no tienes ningún `Glow`",
-    "INVALID_USER": "{{author}} No se ha podido encontrar ese usuario"
+    "INVALID_USER": "{{author}} No se ha podido encontrar ese usuario",
+    "PURITY2": "Pureza2:  ➜ {{purity2}}"
 }

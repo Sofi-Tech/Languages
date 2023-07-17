@@ -11,7 +11,7 @@
     "MEMBER_IS_QUED": "{{user}} is quarantined",
     "BUY_TP_1": "{{user}} does not have an active `Trade Pass`",
     "BUY_TP_2": "You can exchange **1** `Bump` for a 4-Hour `Trade Pass` or save up **20** `Bumps` to buy a 30-Day `Trade Pass`",
-    "FINISH_TRADE_WARN": "{{author}} Complete the {{commandName}} command before you can proceed.",
+    "FINISH_TRADE_WARN": "{{author}} Complete the {{commandName}} command before you can proceed",
     "SENT_TRADE": "{{author}} sent you a trade request",
     "ENTER_NOTE": "Enter a note",
     "EXAMPLE:": "Add context for a trade that might look suspicious",

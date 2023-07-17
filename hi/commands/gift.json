@@ -2,7 +2,7 @@
     "GIFT_CATEGORY": "पत्ते",
     "GIFT_DESCRIPTION": "दूसरे खिलाड़ी को Event Items भेंट करे",
     "GIFT_SLASH_DESC": "उपयोगकर्ता को चुने जिनको आपको {{eventItem}} भेंट में देना चाहते है",
-    "INVALID_AMOUNT": "{{author}} दी गई {{eventItem}} मात्रा अमान्य है",
+    "INVALID_AMOUNT": "{{author}} आप नकार मात्रा में {{eventItem}} भेट नही कर सकते",
     "GIFT_SLASH_DESC2": "`{{eventItem}}` की राशि दर्ज करे जितना आप भेंट करना चाहते है",
     "GIFT_WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gift <User> <Amount>`",
     "INVALID_USER": "{{author}} आप खुदको भेंट में `{{eventItem}}` नहीं भेज सकते",
