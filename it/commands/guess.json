@@ -3,7 +3,7 @@
     "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}guess <Auantità> <Moneta>`\nValute accettare: `Silver` `Wists` `Gems` `Cubes`",
     "NO_TP": "{{message.author}} Non hai alcun `Trade Pass` attivo. Usa il comando `{{prefix}}bump` per visitare il sito web e scambia i tuoi punti `Bump` con uno",
     "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per avviare il gioco!",
-    "INFO_1": "{{user}} ha avviato u game of guess",
+    "INFO_1": "{{user}} ha iniziato una partita a Guess",
     "INFO_2": "I giocatori devono avere {{bet}} {{currency}} per giocare",
     "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
     "FOOTER": "reagisci con 🍻 per partecipare | Il creatore del gioco puoi avviare il gioco con 🟢",
