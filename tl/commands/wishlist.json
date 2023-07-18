@@ -5,7 +5,7 @@
     "WISHLIST_PRIVATE": "> Ang wishlist ng user na ito ay pribado",
     "WISHLIST_EMPTY": "> Ang wishlist ni {{username}} ay walang laman tulad ng aking puso 💔",
     "WISHLIST_EMBED_TITLE": "Ang wishlist ni {{username}} [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Gamitin ang `{{prefix}}wu` o `{{prefix}}wu max` upang madagdagan ang pahina ng iyong wishlist. | Pahina: {{page}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Gamitin ang `{{prefix}}wu` o `{{prefix}}wu max` upang madagdagan ang kapasidad ng iyong wishlist. | Mga Pahina: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Kopyahin ang mga Code",
     "COPY_CODES_MENU_LABEL": "Kopyahin ang lahat ng mga Code",
     "COPY_CODES_MENU_DESCRIPTION": "Ilagay ang lahat ng codes sa isang text message",

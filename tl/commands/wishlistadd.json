@@ -4,7 +4,7 @@
     "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka na maaaring magdagdag ng higit pang mga karakter sa iyong wishlist",
     "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <Name>`",
     "NO_CHARACTER_FOUND": "{{author}} Hindi mahanap ang karakter na iyon. Gamitin ang command na `{{prefix}}wa -f <Name>` para sa eksaktong paghahanap",
-    "CHARACTER_ALREADY_EXISTS": "**{{name}}** ay nakalagay na sa iyong wishlist!",
-    "CHARACTER_ADDED": "{{author}} Idinagdag si {{name}} sa iyong wishlist",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} Ang karakter na **{{name}}** ay nasa iyong wishlist na!",
+    "CHARACTER_ADDED": "{{author}} Matagumpay na idinagdag ang **{{name}}** sa iyong wishlist",
     "EMBED_TITLE": "<:lined:868888105611046942> __Idagdag sa wishlist__"
 }
