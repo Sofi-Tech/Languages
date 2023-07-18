@@ -1,8 +1,8 @@
 {
-    "MENU_PLACEHOLDER": "Pilih Event",
+    "MENU_PLACEHOLDER": "Pilih opsi",
     "EMBED_AUTHOR": "{{username}} Kotak masuk",
     "REWARD_CLAIMED_BUTTON_LABEL": "Diklaim",
-    "CLAIMED_REWARD_ALREADY": "Anda sudah mengklaim hadiahnya!",
+    "CLAIMED_REWARD_ALREADY": "{{author}} Anda telah mengklaim hadiah di perintah sebelumnya",
     "REWARD_CLAIM_INVENTORY": "{{author}} `Item` terlampir telah ditambahkan ke `Inventaris` Anda",
     "CLAIM_REWARD_BUTTON_LABEL": "Klaim hadiah anda",
     "MAIL_REWARDS": "**__Hadiah__**:\n",

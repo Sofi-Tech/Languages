@@ -1,6 +1,6 @@
 {
-    "EXTRA_GRAB": "{{user}} आपके **Extra Grab** का इस्तेमाल हो रहा है। आपके पास **{{remaining}}** बचे है",
-    "GRAB_COOLDOWN": "{{user}} आपको दूसरा पत्ता लेने के लिए {{cooldown}} का इंतज़ार करना ही पड़ेगा",
-    "EMBED_TITLE": "SOFI: छोटा खेल",
+    "EXTRA_GRAB": "{{user}} आपके **Extra Grab** का इस्तेमाल हो रहा है। आपके पास **{{remaining}}** शेष है",
+    "GRAB_COOLDOWN": "{{user}} दूसरा पत्ता उठाने के लिए **__{{cooldown}}__** देर प्रतीक्षा करे",
+    "EMBED_TITLE": "SOFI: छोटे खेल",
     "CLAIMED_CARD": "{{user}} ने जीत लिया है **{{character}}** पत्ता (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

@@ -5,6 +5,6 @@
     "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
     "INVALID_GLOWCODE": "{{author}} Kode `Glow` tersebut tidak valid atau tidak ada dalam `Inventory` anda",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Berhasil menghapus `Tag` **{{glow}}** `Glow` Anda",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Berhasil menghapus `Tag` dari **{{count}}** `Glows`. Kode berikut ini tidak valid atau tidak ada di `Inventory` Anda: `{{invalidCodes}}`",
-    "GLOW_UNTAG_PLURAL": "{{author}} Berhasil menghapus `Tags` dari semua kode `Glow` yang disediakan"
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Kode `Glow` berikut tidak valid atau tidak ada dalam `Inventory` Anda:\n{{invalidCodeList}}",
+    "GLOW_UNTAG_PLURAL": "{{author}} Berhasil menghapus `Glow Tag` dari semua kode **{{count}}**"
 }

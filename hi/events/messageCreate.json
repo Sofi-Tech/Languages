@@ -11,17 +11,17 @@
     "VERIFY_TO_PLAY": "[खेलने के लिए वेबसाइट पर वेरिफाई करे](<https://sofi.gg/verify>)",
     "USER_QUARANTINED": "उपयोगकर्ता {{isQuarantined}} हैं",
     "USER_BLACKLISTED": "{{author}} यह उपयोगकर्ता संदिग्ध सूची में है",
-    "GLOBAL_COOLDOWN": "> [`Global`] {{cooldown}} का इंतेज़ार करे कमांड देने से पहले",
+    "GLOBAL_COOLDOWN": "> [`Global`] **{{cooldown}}** देर प्रतीक्षा करे कमांड दुबारा देने से पहले",
     "COMMAND_BLACKLISTED": "> इस चैनल में `{{commandName}}` कमांड निषेध है",
     "REQUIRE_CLIENT_PERMISSIONS": "`मुझे: {{permissions}} की अनुमति देने की जरूरत है कमांड को सुचारू रूप से काम के लिए`",
     "REQUIRE_MEMBER_PERMISSIONS": "`आपको: {{permissions}} की अनुमति होनी चाहिए कमांड को चलाने के लिए`",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] दुबारा उपयोग करने से पहले **{{cooldown}}** दूर रुके",
-    "REGISTER_USER": "{{author}} | कृपया साइट पर जाकर वेरिफाई करने के लिए `{{prefix}}register` टाइप करें",
+    "REGISTER_USER": "{{author}} | `{{prefix}}register` का उपयोग करे और हमारी वेबसाइट पर जाकर वेरिफाई करे",
     "USER_COMMAND_QUEUE": "<@{{id}}> आगे बढ़ने से पहले {{existsFor}} कमांड पूरा करने की आवश्यकता है",
     "AUTHOR_COMMAND_QUEUE": "आगे बढ़ने से पहले {{existsFor}} कमांड पूरा करें",
-    "SAFE_MODE": "> बॉट सुरक्षित मोड में है। {{eta}}. \nवह जल्द ही वापस आ जाएगी ❤",
+    "SAFE_MODE": "{{author}} **Sofi** अभी गंभीर स्तिथि में है! ETA: **{{eta}}**\nसभी असुविधाओं के लिए हमे खेद है और निवेदन है की धीरज रखे!",
     "CATEGORY_DISABLED": "> यह वर्ग अक्षम हो गई है। \nकारण: `{{category}}`",
     "COMMAND_DISABLED": "> कमांड अक्षम हो गया है। \nकारण: `{{command}}`",
     "NO_PERMISSIONS": "मेरे पास कमांड निष्पादित करने की अनुमति नहीं है",
-    "SERIES_DROP": "इस चुनाव ने निष्कर्ष निकाला है"
+    "SERIES_DROP": "इस चुनाव में निष्कर्ष निकला है!"
 }
