@@ -25,16 +25,16 @@
     "PROVIDE_SOURCE_URL": "{{author}} Please provide a source URL",
     "SURE_DISCORD_LINK": "{{author}} The submitted image **must** be hosted on discord's servers `cdn.discordapp.com` or `media.discordapp.net`",
     "VALID_IMAGE_URL": "{{author}} The submitted link has to be a `PNG` or `JPG` file",
-    "VALID_CARD_DIMENSIONS": "{{author}} The dimensions of the submitted image must be (**297**x**465**)",
-    "VALID_EVENT_2D_DIMENSIONS": "{{author}} The submitted `2D Event` image has invalid dimensions! (**297**x**465**)",
-    "VALID_EVENT_3D_DIMENSIONS": "{{author}} The submitted `3D Event` image has invalid dimensions! (**420**x**603**)",
+    "VALID_CARD_DIMENSIONS": "{{author}} The submitted image has invalid dimensions! `297x465`",
+    "VALID_EVENT_2D_DIMENSIONS": "{{author}} The submitted `2D Event` image has invalid dimensions! `297x465`",
+    "VALID_EVENT_3D_DIMENSIONS": "{{author}} The submitted `3D Event` image has invalid dimensions! `420x603`",
     "EMBED_TITLE": "SOFI: CARD SUBMISSION ({{character}})",
-    "SUBMIT_CONFIRMATION": "Are you sure you want to submit this card?",
+    "SUBMIT_CONFIRMATION": "- Are you sure you want to submit this card?",
     "EVENT_CARD_CONFIRMATION": " It will be used in the **{{type}}** `Event`\n",
     "CARD_CONFIRMATION": "",
     "CHARACTER_NAME": "Character Name: **{{character}}**",
     "SERIES_NAME": "Series: **{{series}}**",
     "SOURCE": "Source: **{{source}}**",
-    "SUBMISSION_DENY": "You have cancelled the submission process",
-    "SUBMISSION_SUCCESSFUL": "{{author}} You have successfully submitted the image"
+    "SUBMISSION_DENY": "The process has been cancelled",
+    "SUBMISSION_SUCCESSFUL": "{{author}} The image was successfully submitted"
 }
