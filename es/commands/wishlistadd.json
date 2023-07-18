@@ -5,6 +5,6 @@
     "SEARCH_CHARACTER_ERROR": "{{author}} Uso correcto: `{{prefix}}wa <Nombre>`",
     "NO_CHARACTER_FOUND": "{{author}} No se ha podido encontrar ese personaje. Utiliza el comando `{{prefix}}wa -f <Nombre>` para una búsqueda exacta",
     "CHARACTER_ALREADY_EXISTS": "{{author}} El personaje **{{name}}** ya está en tu lista de deseos!",
-    "CHARACTER_ADDED": "{{author}} Se agregó **{{name}}** a tu lista de deseos",
-    "EMBED_TITLE": "<:lined:868888105611046942> __Agregar a la lista de deseos__"
+    "CHARACTER_ADDED": "{{author}} Se agregó con éxito a **{{name}}** a tu lista de deseos",
+    "EMBED_TITLE": "SOFI: AÑADIR A LA LISTA DE DESEOS"
 }
