@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Erhöht die Kapazität deiner Wunschliste",
     "CATEGORY": "Wunschliste",
-    "ALREADY_MAXED": "> {{author}} Deine Wunschlistenkapazität ist bereits auf dem Maximum!",
+    "ALREADY_MAXED": "{{author}} Du kannst keine weiteren Upgrades für deine Wunschliste durchführen",
     "EMBED_DESCRIPTION": "Möchtest du {{count}} extra Plätze für {{amount}} {{currency}} kaufen?",
     "EMBED_PAY_FIELD_NAME": "Du zahlst:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
