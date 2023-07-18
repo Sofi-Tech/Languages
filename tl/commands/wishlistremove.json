@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Tinanggal ang karakter mula sa iyong wishlist",
     "CATEGORY": "Listahan ng Ninanais",
-    "NO_INDEX": "Walang pangalan o numero na nakalaan! Upang linisin ang buong wishlist, gamitin ang command na `swr full reset`",
-    "FULL_RESET": "> {{author}} Tinanggal mo ang **__{{total}}__** characters mula sa iyong wishlist",
-    "REMOVE_CHARACTER": "> {{author}} Tinanggal mo si **__{{name}}__** mula sa iyong wishlist",
-    "NO_RESULTS": "{{author}} Walang makitang **\"{{name}}\"** sa iyong wishlist"
+    "NO_INDEX": "{{author}} Tamang paggamit: `{{prefix}}wr <Name/Number>`. Gamitin ang command na `{{prefix}}wr full reset` upang burahin ang buong wishlist mo",
+    "FULL_RESET": "{{author}} Matagumpay na tinanggal ang lahat ng mga karakter mula sa iyong wishlist",
+    "REMOVE_CHARACTER": "{{author}} Matagumpay na tinanggal ang **{{name}}** mula sa iyong wishlist",
+    "NO_RESULTS": "{{author}} Wala kang karakter na may pangalan na `{{name}}` sa iyong wishlist"
 }

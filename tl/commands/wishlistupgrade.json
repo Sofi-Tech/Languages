@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Nag-dadagdag ng kapasidad ng iyong wishlist",
     "CATEGORY": "Listahan ng Ninanais",
-    "ALREADY_MAXED": "> {{author}} Ang listahan ng iyong wishlist ay puno na!",
+    "ALREADY_MAXED": "{{author}} Hindi ka na maaaring mag-upgrade ng iyong wishlist",
     "EMBED_DESCRIPTION": "Gusto mo bang bumili ng {{count}} karagdagang slots sa halagang {{amount}} {{currency}}?",
     "EMBED_PAY_FIELD_NAME": "Babayaran mo:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
