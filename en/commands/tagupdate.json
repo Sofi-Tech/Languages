@@ -10,7 +10,7 @@
     "REPLACE_NAME": "Enter a name that will replace `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} You already have a `Tag` with the name: `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} The name of your `Tag` has to be alphanumeric and must not contain special characters, spaces or profanity",
-    "TAGNAME_LONG": "{{author}} A `Tag` name can only contain a maximum of **20** characters",
+    "TAGNAME_LONG": "{{author}} The name of a `Tag` can only be **20** characters long",
     "REPLACE_NAME_CONFIRMATION": "Are you sure you want to change the name of this `Tag` from `{{oldTag}}` to `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "Successfully changed the name of your `Tag` from `{{oldTag}}` to `{{newTag}}`",
     "PROCESS_TERMINATED": "The process has been cancelled",
