@@ -1,10 +1,9 @@
 {
-  "GT_DESCRIPTION": "علِّق على الإضاءة الغير مُقفلة",
-  "GT_CATEGORY": "تصنيفات علامات الإضاءة",
-  "GLOWTAGS_NOT_FOUND": "نُدرِك مُحاولتك في عمل علامات الإضاءة ولكن لم يتم العثور على أي منها",
-  "GLOWS_NOT_UNLOCKED": "{{author}}لم تقم بفتح أي إضاءات حتى الآن",
-  "MISSING_GLOWTAG": "{{author}} أعتقد أنَّك بحاجةٍ إلى تحديد علامة الإضاءة",
-  "INVALID_GLOW_CODE": "{{author}} رمز الإضاءة غير صالح أو لم يتم العثور على أي إضاءات",
-  "SUCCESSFUL_GLOWTAG": "{{author}} تم تحديد **{{glow}}** بنجاح وعُلِّق عليها ك {{tag}}",
-  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} تمّت مُعالجة تحديد تلك الإضاءات بنجاح"
+    "GT_DESCRIPTION": "علِّق على الإضاءة الغير مُقفلة",
+    "GT_CATEGORY": "تصنيفات علامات الإضاءة",
+    "GLOWTAGS_NOT_FOUND": "نُدرِك مُحاولتك في عمل علامات الإضاءة ولكن لم يتم العثور على أي منها",
+    "GLOWS_NOT_UNLOCKED": "{{author}}لم تقم بفتح أي إضاءات حتى الآن",
+    "INVALID_GLOW_CODE": "{{author}} رمز الإضاءة غير صالح أو لم يتم العثور على أي إضاءات",
+    "SUCCESSFUL_GLOWTAG": "{{author}} تم تحديد **{{glow}}** بنجاح وعُلِّق عليها ك {{tag}}",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} تمّت مُعالجة تحديد تلك الإضاءات بنجاح"
 }

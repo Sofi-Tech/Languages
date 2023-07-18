@@ -1,10 +1,9 @@
 {
-  "GT_DESCRIPTION": "अनलॉक किए गए Glow को टैग करें",
-  "GT_CATEGORY": "टैग",
-  "GLOWTAGS_NOT_FOUND": "टैगिंग के लिए शुक्रिया, लेकिन कोई ग्लो टैग नहीं मिला",
-  "GLOWS_NOT_UNLOCKED": "{{author}} आपने अभी तक कोई ग्लो अनलॉक नहीं किया है",
-  "MISSING_GLOWTAG": "{{author}} मुझे लगता है आपको एक Glow tag प्रदान करना होगा",
-  "INVALID_GLOW_CODE": "{{author}} अमान्य Glow code या कोई Glow नहीं मिला",
-  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** को {{tag}} के रूप में सफलतापूर्वक टैग किया गया",
-  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} वे ग्लो टैग सफलतापूर्वक टैग किए गए थे"
+    "GT_DESCRIPTION": "अनलॉक किए गए Glow को टैग करें",
+    "GT_CATEGORY": "टैग",
+    "GLOWTAGS_NOT_FOUND": "टैगिंग के लिए शुक्रिया, लेकिन कोई ग्लो टैग नहीं मिला",
+    "GLOWS_NOT_UNLOCKED": "{{author}} आपने अभी तक कोई ग्लो अनलॉक नहीं किया है",
+    "INVALID_GLOW_CODE": "{{author}} अमान्य Glow code या कोई Glow नहीं मिला",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** को {{tag}} के रूप में सफलतापूर्वक टैग किया गया",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} वे ग्लो टैग सफलतापूर्वक टैग किए गए थे"
 }

@@ -1,10 +1,9 @@
 {
-  "GT_DESCRIPTION": "\"Glow\"larına \"Tag\" verir",
-  "GT_CATEGORY": "Tags",
-  "GLOWTAGS_NOT_FOUND": "{{author}} Henüz herhangi bir `Glow Tags`ınız yok. `{{prefix}}gtc <Name> <Emoji>` komutu ile oluşturabilirsiniz",
-  "GLOWS_NOT_UNLOCKED": "{{author}} henüz hiç `Glow`unuz yok",
-  "MISSING_GLOWTAG": "{{author}} `Glow Tag` sağlaman gerekiyor",
-  "INVALID_GLOW_CODE": "{{author}} sağlanan `Glow` kodlarından bir veya birden fazlası geçersiz",
-  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** başarıyla `{{tag}}` olarak etiketlendi",
-  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tüm `Glow`lar başarıyla etiketlendi"
+    "GT_DESCRIPTION": "\"Glow\"larına \"Tag\" verir",
+    "GT_CATEGORY": "Tags",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz herhangi bir `Glow Tags`ınız yok. `{{prefix}}gtc <Name> <Emoji>` komutu ile oluşturabilirsiniz",
+    "GLOWS_NOT_UNLOCKED": "{{author}} henüz hiç `Glow`unuz yok",
+    "INVALID_GLOW_CODE": "{{author}} sağlanan `Glow` kodlarından bir veya birden fazlası geçersiz",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** başarıyla `{{tag}}` olarak etiketlendi",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tüm `Glow`lar başarıyla etiketlendi"
 }

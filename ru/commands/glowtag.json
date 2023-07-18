@@ -1,10 +1,9 @@
 {
-  "GT_DESCRIPTION": "\"Tags\" ваших \"Glows\"",
-  "GT_CATEGORY": "Tags",
-  "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одного `Glow Tags`. Вы можете создать их с помощью команды `{{prefix}}gtc <Название> <Эмодзи>`",
-  "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет ни одного `Glows`",
-  "MISSING_GLOWTAG": "{{author}} Вам нужно указать `Glow Tag`",
-  "INVALID_GLOW_CODE": "{{author}} Один или несколько указанных кодов `Glow`недействительны",
-  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечен тегом `{{tag}}`",
-  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены тегами"
+    "GT_DESCRIPTION": "\"Tags\" ваших \"Glows\"",
+    "GT_CATEGORY": "Tags",
+    "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одного `Glow Tags`. Вы можете создать их с помощью команды `{{prefix}}gtc <Название> <Эмодзи>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет ни одного `Glows`",
+    "INVALID_GLOW_CODE": "{{author}} Один или несколько указанных кодов `Glow`недействительны",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечен тегом `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены тегами"
 }

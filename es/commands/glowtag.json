@@ -3,7 +3,6 @@
     "GT_CATEGORY": "Tags",
     "GLOWTAGS_NOT_FOUND": "{{author}} Aún no tienes ningún `Glow Tag`. Puedes crearlos con el comando: `{{prefix}}gtc <Nombre> <Emote>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Aún no tienes ningún `Glow`",
-    "MISSING_GLOWTAG": "{{author}} Tienes que proporcionar un `Glow Tag`",
     "INVALID_GLOW_CODE": "{{author}} Al menos uno de los códigos de `Glow` que has proporcionado no es válido o no está en tu `Inventory`",
     "SUCCESSFUL_GLOWTAG": "{{author}} A **{{glow}}** se le ha agregado con éxito el tag: `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} A todos los `Glows` se les ha agregado con éxito el tag: `{{tag}}`",
