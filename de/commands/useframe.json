@@ -11,5 +11,5 @@
     "EMBED_FOOTER": "Wenn du den Vorgang bestätigst wird der momentan angewandte \"Frame\" zerstört",
     "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
     "FRAME_NOT_FOUND": "{{author}} Du hast keinen **{{frameName}}** `Frame`",
-    "UF_SUCCESSFUL": "Der `Frame` wurde erfolgreich hinzugefügt"
+    "UF_SUCCESSFUL": "{{author}} Der **{{frame}}** `Frame` wurde deiner Karte erfolgreich angehängt"
 }
