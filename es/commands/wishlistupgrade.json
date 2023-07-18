@@ -10,6 +10,6 @@
     "EMBED_MAXED_DESCRIPTION": "¿Quieres mejorar al máximo tu lista de deseos por {{amount}} {{currency}}?",
     "EMBED_MAXED_FIELD_VALUE": "```Lista de deseos completamente desbloqueada (50 Espacios)```",
     "SUCCESS": "ÉXITO",
-    "CANCELLED": "CANCELADO",
+    "CANCELLED": "El proceso ha sido cancelado",
     "PAY_ERROR": "`No tienes {{amount}} {{currency}}`"
 }

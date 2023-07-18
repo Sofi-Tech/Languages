@@ -9,6 +9,6 @@
     "EMBED_TITLE": "SOFI: TRANSACCIÓN",
     "YOU_GET": "Obtienes:",
     "YOU_PAY": "Pagas:",
-    "NO_ENOUGH_AMOUNT": "{{author}} No tiene suficiente {{currency}} para esta transacción",
+    "NO_ENOUGH_AMOUNT": "{{author}} No tiene suficiente `{{currency}}` para esta transacción",
     "FRAME_PURCHASED_BY": "Tu `Frame` **{{frame}}** ha sido comprado por `{{userId}}`| {{buyCount}}"
 }

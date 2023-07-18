@@ -13,7 +13,7 @@
     "CARD_LOCKED": "Esa carta está asegurada y no se puede dar! Usa el comando `{{prefix}}ut <CódigoDeCarta>` para eliminar el `Tag` de esa carta",
     "CARD_NOT_OWNED": "Esa carta ya no te pertenece",
     "SUCCESS": "ÉXITO",
-    "CANCELLED": "CANCELADO",
+    "CANCELLED": "El proceso ha sido cancelado",
     "GIVEN": "Remitente → Receptor",
     "CARD_SELECTED": "La carta es seleccionada es intransferible",
     "MEM_NOT_VERIFIED": "El usuario no está verificado!",
