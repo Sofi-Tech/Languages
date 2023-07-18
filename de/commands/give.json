@@ -13,7 +13,7 @@
     "CARD_LOCKED": "Diese Karte ist gesperrt und kann nicht weitergegeben werden! Verwende den Befehl `{{prefix}}ut <CardCode>`, um den `Tag` der Karte zu entfernen",
     "CARD_NOT_OWNED": "Du bist nicht mehr im Besitz dieser Karte",
     "SUCCESS": "ERFOLGREICH",
-    "CANCELLED": "ABGEBROCHEN",
+    "CANCELLED": "Der Vorgang wurde abgebrochen",
     "GIVEN": "Sender → Empfänger",
     "MEM_NOT_VERIFIED": "Der Benutzer ist nicht verifiziert!",
     "AUTHOR_BLACKLISTED": "Du bist auf der Schwarzen Liste..",

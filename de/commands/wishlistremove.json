@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Entfernt einen Charakter von deiner Wunschliste",
     "CATEGORY": "Wunschliste",
-    "NO_INDEX": "Es wurden weder ein Name, noch eine Nummer angegeben! Um deine gesamte Wunschliste zu leeren, verwende den Befehl `swr full reset`",
-    "FULL_RESET": "> {{author}} Du hast **__{{total}}__** Charaktere von deiner Wunschliste entfernt",
-    "REMOVE_CHARACTER": "> {{author}} **{{name}}** wurde von deiner Wunschliste entfernt",
-    "NO_RESULTS": "{{author}} Konnte **\"{{name}}\"** nicht auf deiner Wunschliste finden"
+    "NO_INDEX": "{{author}} Korrekte Verwendung: `{{prefix}}wr <Name/Nummer>`. Verwende den Befehl `{{prefix}}wr full reset` um deine gesamte Wunschliste zu entleeren",
+    "FULL_RESET": "> {{author}} Alle Charaktere wurden erfolgreich von deiner Wunschliste entfernt",
+    "REMOVE_CHARACTER": "{{author}} **{{name}}** wurde erfolgreich von deiner Wunschliste entfernt",
+    "NO_RESULTS": "{{author}} Es ist kein Charakter mit dem Namen `{{name}}` auf deiner Wunschliste"
 }

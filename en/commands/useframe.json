@@ -6,10 +6,10 @@
     "CANNOT_APPLY": "{{author}} You cannot apply a `Frame` to a `3D` card",
     "NO_GIF": "{{author}} You cannot apply a `Frame` to a `GIF` card",
     "NO_FRAMES_FOUND": "{{author}} That `Frame` code is either invalid or not in your `Inventory`",
-    "EMBED_TITLE": "APPLY FRAME:",
+    "EMBED_TITLE": "SOFI: APPLY FRAME",
     "UF_CONFIRMATION": "You are about to apply the `Frame` **{{frameName}}** to this card",
-    "EMBED_FOOTER": "This card already has a Frame applied to it. Applying another one will destroy the previous one!",
+    "EMBED_FOOTER": "Confirming this process will destroy the currently applied \"Frame\"",
     "NO_OWNER": "{{author}} This card is no longer in your collection",
     "FRAME_NOT_FOUND": "{{author}} You dont have a **{{frameName}}** `Frame`",
-    "UF_SUCCESSFUL": "The `Frame` was successfully applied"
+    "UF_SUCCESSFUL": "{{author}} Successfully attached the **{{frame}}** `Frame` to your card"
 }

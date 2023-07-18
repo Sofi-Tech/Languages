@@ -1,7 +1,7 @@
 {
     "GT_DESCRIPTION": "Weist deinen \"Glows\" einen \"Tag\" zu",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Du hast noch keine `Glow Tags`. Du kannst sie mit dem Befehl: \"{{prefix}}gtc <Name> <Emoji>\" erstellen",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Du hast noch keinen `Glow Tag`. Du kannst sie mit dem Befehl: \"{{prefix}}gtc <Name> <Emoji>\" erstellen",
     "GLOWS_NOT_UNLOCKED": "{{author}} Du hast noch keine `Glows`",
     "INVALID_GLOW_CODE": "{{author}} Mindestens einer der angegebenen `Glow` Codes ist ungültig oder nicht in deinem `Inventory`",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** wurde erfolgreich der: `{{tag}}` zugewiesen",

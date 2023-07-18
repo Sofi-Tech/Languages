@@ -12,5 +12,8 @@
     "GLOWNAME_CHANGE_CONFIRMATION": "Bist du sicher, dass du`{{oldName}}` in `{{newName}}` ändern möchtest?",
     "EMBED_FOOTER": "Glow: {{availability}}",
     "MISSING_ITEMS": "Du hast nicht genug Guthaben für diesen Vorgang",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Der `Glow`-Name wurde erfolgreich geändert"
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Der `Glow`-Name wurde erfolgreich geändert",
+    "PROFANE_GLOW_NAME": "{{author}} Etwas stimmt mit dem Namen nicht. Versuche einen anderen",
+    "UNAVAILABLE": "Nicht verfügbar",
+    "AVAILABLE": "Verfügbar"
 }

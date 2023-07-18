@@ -2,18 +2,18 @@
     "DESCRIPTION": "Displays your wishlist",
     "CATEGORY": "Wishlist",
     "USER_NOT_FOUND": "Could not find that user",
-    "WISHLIST_PRIVATE": "{{author}} This user has set their wishlist to **private**",
-    "WISHLIST_EMPTY": "{{author}} This user's wishlist is empty",
+    "WISHLIST_PRIVATE": "{{author}} That user has set their wishlist to **private**",
+    "WISHLIST_EMPTY": "{{author}} That user's wishlist is empty",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
-    "WISHLIST_EMBED_FOOTER": "Pages: {{page}}/{{totalPages}}",
+    "WISHLIST_EMBED_FOOTER": "Page: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Copy Codes",
     "COPY_CODES_MENU_LABEL": "All Codes",
     "COPY_CODES_MENU_DESCRIPTION": "Copy all codes",
     "BACK_MENU_LABEL": "Go back",
-    "BACK_MENU_DESCRIPTION": "Takes you back to your wishlist",
+    "BACK_MENU_DESCRIPTION": "",
     "CARD_MENU_DESCRIPTION": "Copy {{name}}'s codes",
     "COPY_CODES_MENU_PLACEHOLDER": "Select an Option",
     "CODES_COPIED": "← Copied",
     "ALL_CARD_CODES": "Here are the card codes:\n",
-    "WISHLIST_CODE_EMBED_TITLE": "SOFI: Wishlist Codes"
+    "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES"
 }
