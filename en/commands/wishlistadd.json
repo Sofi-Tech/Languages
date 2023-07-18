@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Add characters to your wishlist",
     "CATEGORY": "Wishlist",
-    "ADD_CHARACTERS_ERROR": "> You cannot add more characters to wishlist",
-    "SEARCH_CHARACTER_ERROR": "Provide a name to add that character to your wishlist\nUse the command `swa -f <name>` for an exact search",
-    "NO_CHARACTER_FOUND": "Could not find that character\nUse the command `swa -f <name>` for an exact search",
-    "CHARACTER_ALREADY_EXISTS": "**{{name}}** is already on your wishlist!",
-    "CHARACTER_ADDED": "{{author}} Added **{{name}}** to your wishlist",
-    "EMBED_TITLE": "<:lined:868888105611046942> __Add to wishlist__"
+    "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
+    "NO_CHARACTER_FOUND": "{{author}} Could not find that character",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} The character **{{name}}** is already on your wishlist!",
+    "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
+    "EMBED_TITLE": "SOFI: WISHLISTADD"
 }
