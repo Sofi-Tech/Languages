@@ -28,5 +28,20 @@
     "UI_UNVERIFIED": "Unverifiziert",
     "UI_VERIFIED": "Verifiziert",
     "EMBED_AUTHOR": "SOFI: BENUTZERINFO ({{username}} - {{status}})",
-    "EMBED_FOOTER": "Registriert vor: {{date}}"
+    "EMBED_FOOTER": "Registriert vor: {{date}}",
+    "UI_SCRATCHED": "Enthüllt",
+    "UI_VOTE": "Vote",
+    "UI_DROP": "Drop",
+    "UI_TRADE": "Handel",
+    "UI_LOSE": "Verloren",
+    "UI_GAMES": "Spiele",
+    "UI_SOLD": "Verkauft",
+    "UI_CLAIM": "Beansprucht",
+    "UI_BURN": "Verbrannt",
+    "UI_PULL": "Pull",
+    "UI_FRAGS": "Frags",
+    "UI_DAILY": "Daily",
+    "UI_RECEIVED": "Erhalten",
+    "UI_BUMP": "Bump",
+    "UI_MORPH": "Morph"
 }

@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Metti un \"Tag\" sulle carte selezionate",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}t <CardCode> <TagName>`",
+    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}t <CardCodice> <TagNome>`",
     "NO_TAGS_CREATED": "{{author}} Non hai ancora nessun `Tags`. Usa il comando `{{prefix}}tc <TagNome> <Emoji>` per crearne uno",
     "TAG_NOT_FOUND": "{{author}} Non hai nessun `Tag` con il nome `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} Non hai ancora carte nella tua collezione",

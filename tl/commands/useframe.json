@@ -7,7 +7,7 @@
     "NO_GIF": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `GIF` card",
     "NO_FRAMES_FOUND": "{{author}} Ang code ng `Frame` na iyan ay maaaring hindi wasto o wala sa iyong `inventory`",
     "EMBED_TITLE": "SOFI: MAG-APPLY NG FRAME",
-    "UF_CONFIRMATION": "Sigurado ka bang gusto mong ilapat ang **{{frameName}}** `Frame` sa card na ito?",
+    "UF_CONFIRMATION": "{{author}} Sigurado ka bang gusto mong ilapat ang **{{frameName}}** `Frame` sa card na ito?",
     "EMBED_FOOTER": "Ang pagkumpirma sa prosesong ito ay sisira sa kasalukuyang inilapat na \"Frame\"",
     "NO_OWNER": "{{author}} Ang card na ito ay wala na sa iyong koleksyon",
     "FRAME_NOT_FOUND": "{{author}} Wala kang **{{frameName}}** na `Frame`",

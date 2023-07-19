@@ -1,10 +1,11 @@
 {
     "DESCRIPTION": "Füge deiner Wunschliste Charaktere hinzu",
     "CATEGORY": "Wunschliste",
-    "ADD_CHARACTERS_ERROR": "{{author}} Du kannst deiner Wunschliste keine weiteren Charaktere hinzufügen{{wishlistState}}",
+    "ADD_CHARACTERS_ERROR": "{{author}} Du kannst deiner Wunschliste keine weiteren Charaktere hinzufügen",
     "SEARCH_CHARACTER_ERROR": "{{author}} Korrekte Verwendung: `{{prefix}}wa <Name>`",
     "NO_CHARACTER_FOUND": "{{author}} Dieser Charakter konnte nicht gefunden werden. Verwende den Befehl `{{prefix}}wa -f <Name>` für eine genaue Suche",
     "CHARACTER_ALREADY_EXISTS": "{{author}} Der Charakter **{{name}}** ist bereits auf deiner Wunschliste!",
     "CHARACTER_ADDED": "{{author}} **{{name}} ** wurde erfolgreich deiner Wunschliste hinzugefügt",
-    "EMBED_TITLE": "SOFI: WUNSCHLISTE HINZUFÜGEN"
+    "EMBED_TITLE": "SOFI: WUNSCHLISTE HINZUFÜGEN",
+    "INCREASE_CAPACITY": "Verwende den Befehl `{{prefix}}wu` oder `{{prefix}}wu max` um die Kapazität deiner Wunschliste zu erhöhen"
 }

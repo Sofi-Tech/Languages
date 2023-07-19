@@ -5,10 +5,10 @@
     "GEM_RATE_LIES": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
     "ALREADY_EXISTS": "{{author}} Hai già un'offerta esistente!\nUsa il comando `{{prefix}}mul {{dealID}}` per rimuoverlo, prima di elencarne uno nuovo",
     "PRODUCTS": "Elenchi:",
-    "RATE": "Valutare:",
+    "RATE": "Tasso:",
     "VALUE": "Valore complessivo:",
     "CONFIRM_ASK": "Sei sicuro di voler mettere in vendita questo accordo sul mercato?",
-    "CANCELLED": "CANCELLATO",
+    "CANCELLED": "Il processo è stato annullato",
     "NOT_ENOUGH_CANCEL": "stai cercando di elencare più `Wists` di quanto possiedi",
     "SUCCESS": "La tua offerta è stata inserita correttamente",
     "EMBED_TITLE": "MERCATO SOFI:"
