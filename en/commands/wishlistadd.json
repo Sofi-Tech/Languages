@@ -2,6 +2,7 @@
     "DESCRIPTION": "Add characters to your wishlist",
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
+    "INCREASE_CAPACITY": "Use the command `{{prefix}}wu` or `{{prefix}}wu max` to increase the capacity of your wishlist",
     "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
     "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
     "CHARACTER_ALREADY_EXISTS": "{{author}} The character **{{name}}** is already on your wishlist!",
