@@ -5,6 +5,5 @@
     "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa **#**",
     "INVALID_GLOWCODE": "{{author}} Ang`Glow` code ay hindi wasto o wala sa iyong `Inventory`",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naalis ang `Tag`ng iyong **{{glow}}** `Glow`",
-    "GLOW_UNTAG_PLURAL": "{{author}} Matagumpay na tinanggal ang `Glow Tags` ng lahat na **{{count}}** codes",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} Ang mga sumusunod na `Glow` codes ay maaring hindi wasto o wala sa iyong `inventory`:\n{{invalidCodeList}}"
 }
