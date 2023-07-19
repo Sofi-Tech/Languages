@@ -1,6 +1,6 @@
 {
-    "UT_DESCRIPTION": "カードのタグを解除",
-    "UT_CATEGORY": "タグ",
-    "INVALID_CODE": "カードコードが無効または見つかりません",
-    "UNTAG_SUCCESSFUL": "{{cardName}} のタグ解除に成功しました"
+  "UT_DESCRIPTION": "カードのタグを解除",
+  "UT_CATEGORY": "タグ",
+  "UT_EMPTY_COLLECTION": "カードコードが無効または見つかりません",
+  "UNTAG_SUCCESSFUL": "{{cardName}} のタグ解除に成功しました"
 }

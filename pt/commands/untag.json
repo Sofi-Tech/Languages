@@ -1,6 +1,6 @@
 {
-    "UT_DESCRIPTION": "Remove as \"Tags\" de suas cartas",
-    "UT_CATEGORY": "Marcas",
-    "INVALID_CODE": "Você não tem nenhuma carta na sua coleção",
-    "UNTAG_SUCCESSFUL": "**{{cardName}}** Teve sua `Tag` removida com sucesso"
+  "UT_DESCRIPTION": "Remove as \"Tags\" de suas cartas",
+  "UT_CATEGORY": "Marcas",
+  "UT_EMPTY_COLLECTION": "Você não tem nenhuma carta na sua coleção",
+  "UNTAG_SUCCESSFUL": "**{{cardName}}** Teve sua `Tag` removida com sucesso"
 }

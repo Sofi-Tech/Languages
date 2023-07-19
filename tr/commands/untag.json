@@ -1,6 +1,6 @@
 {
-    "UT_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
-    "UT_CATEGORY": "Etiketler",
-    "INVALID_CODE": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
-    "UNTAG_SUCCESSFUL": "**{{cardName}}**'karakterinin `Tag`ı başarıyla kaldırıldı"
+  "UT_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
+  "UT_CATEGORY": "Etiketler",
+  "UT_EMPTY_COLLECTION": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
+  "UNTAG_SUCCESSFUL": "**{{cardName}}**'karakterinin `Tag`ı başarıyla kaldırıldı"
 }

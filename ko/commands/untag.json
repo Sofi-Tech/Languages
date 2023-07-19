@@ -1,6 +1,6 @@
 {
-    "UT_DESCRIPTION": "카드 태그 해제",
-    "UT_CATEGORY": "태그",
-    "INVALID_CODE": "유효하지 않은 카드 코드 또는 해당하는 카드 없음",
-    "UNTAG_SUCCESSFUL": "{{cardName}}의 태그 성공적으로 해제됨"
+  "UT_DESCRIPTION": "카드 태그 해제",
+  "UT_CATEGORY": "태그",
+  "UT_EMPTY_COLLECTION": "유효하지 않은 카드 코드 또는 해당하는 카드 없음",
+  "UNTAG_SUCCESSFUL": "{{cardName}}의 태그 성공적으로 해제됨"
 }
