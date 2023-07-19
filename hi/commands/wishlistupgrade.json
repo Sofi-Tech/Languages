@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "आपकी इच्छा सूची की क्षमता बढ़ाता है",
-    "CATEGORY": "इच्छासूची",
-    "ALREADY_MAXED": "> {{author}} आपकी इच्छा-सूची के स्लॉट्स पहले से ही अधिकतम हो गए है!",
-    "EMBED_DESCRIPTION": "क्या आप अतिरिक्त {{count}} स्लॉट {{amount}} {{currency}} के लिए खरीदना चाहते हैं?",
-    "EMBED_PAY_FIELD_NAME": "आप भुगतान करते हैं:",
-    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "आप प्राप्त करते हैं:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} अतिरिक्त इच्छा-सूची स्लॉट्स```",
-    "EMBED_MAXED_DESCRIPTION": "क्या आप अपनी इच्छा-सूची स्लॉट्स को {{amount}} {{currency}} के लिए अधिकतम करना चाहते है?",
-    "EMBED_MAXED_FIELD_VALUE": "``` अधिकतम तरह से खुली हुई इच्छा-सूची (50 slots) ```",
-    "SUCCESS": "सफलता",
-    "CANCELLED": "प्रक्रिया रद्द की गई",
-    "PAY_ERROR": "`आपके पास {{amount}} {{currency}} नहीं हैं`"
+  "DESCRIPTION": "आपकी इच्छा सूची की क्षमता बढ़ाता है",
+  "CATEGORY": "इच्छासूची",
+  "ALREADY_MAXED": "> {{author}} आपकी इच्छा-सूची के स्लॉट्स पहले से ही अधिकतम हो गए है!",
+  "EMBED_DESCRIPTION": "क्या आप अतिरिक्त {{count}} स्लॉट {{amount}} {{currency}} के लिए खरीदना चाहते हैं?",
+  "EMBED_PAY_FIELD_NAME": "आप भुगतान करते हैं:",
+  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+  "EMBED_GET_FIELD_NAME": "आप प्राप्त करते हैं:",
+  "EMBED_GET_FIELD_VALUE": "```{{count}} अतिरिक्त इच्छा-सूची स्लॉट्स```",
+  "EMBED_MAXED_DESCRIPTION": "क्या आप अपनी इच्छा-सूची स्लॉट्स को {{amount}} {{currency}} के लिए अधिकतम करना चाहते है?",
+  "EMBED_MAXED_FIELD_VALUE": "``` अधिकतम तरह से खुली हुई इच्छा-सूची (50 slots) ```",
+
+  "CANCELLED": "प्रक्रिया रद्द की गई",
+  "PAY_ERROR": "`आपके पास {{amount}} {{currency}} नहीं हैं`"
 }
