@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "显示心愿单排行榜",
     "CATEGORY": "心愿单",
-    "EMBED_TITLE": "心愿单排行榜 - {{type}}",
-    "EMBED_FOOTER": "显示第{{page}}/{{totalPages}}页",
+    "EMBED_TITLE": "SOFI: 心愿单排行榜 ({{type}})",
+    "EMBED_FOOTER": "显示页面：{{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "角色",
     "SERIES_BUTTON_LABEL": "系列"
 }
