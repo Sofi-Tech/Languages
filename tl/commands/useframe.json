@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "Nag lalagay ng \"Frame\" sa iyong card",
     "UF_CATEGORY": "Kagandahan",
     "UF_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay mo ay hindi wasto o wala sa iyong koleksyon",
+    "INVALID_CODE": "{{author}} Ang kodigo ng card na iyong ibinigay mo ay hindi wasto o wala sa iyong koleksyon",
     "CANNOT_APPLY": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `3D` card",
     "NO_GIF": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `GIF` card",
     "NO_FRAMES_FOUND": "{{author}} Ang code ng `Frame` na iyan ay maaaring hindi wasto o wala sa iyong `inventory`",

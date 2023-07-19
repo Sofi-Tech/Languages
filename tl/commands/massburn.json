@@ -1,13 +1,13 @@
 {
     "DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
     "IN_ACTIVE_MB": "{{user}} ikaw ay hindi makakapagsimula ng panibago na malawakang pagsusunog habang ikaw ay nasa aktibo na malawakang pagsusunog pa. Ituloy o kanselahin muna ang nauna na malakang pagsusunog",
-    "PROVIDE_FILTERS": "Ibigay ang filter na gusto ilagay sa proseso ng pagsusunog! `t=tagname, g><=gen, wl><=wishlist`",
+    "PROVIDE_FILTERS": "Mag bigay ng filter na gusto mong ilagay sa proseso ng pagsusunog! `t=tagname, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} Ang pangalang`Tag`na binigay ay hindi wasto",
     "NO_CARDS_FOUND": "{{author}} Wala ka pang cards sa iyong collection",
     "CARDS_BURNED": "Kabuuan ng kard na nasunog **{{totalCards}}**",
     "CONFIRM_ASK": "Sigurado ka bang sunugin ang mga kard na ito? Ang proseso na ito ay hindi maibabalik",
     "MISSING_CARDS": "{{author}} Kahit isang kards sa mga napiling `Tags`ay wala na sa iyong koleksyon",
     "SUCCESS": "Matagumpay na nasunog ang mga kard",
-    "BURN_REWARDS": "Sunugin ang mga rewards",
+    "BURN_REWARDS": "Mga Rewards Na Nakuha Sa Pag Susunog",
     "CANCELLED": "Sinusubukan mong mag lista ng mga `Wist` na hindi sapat sa meron ka! "
 }

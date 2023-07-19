@@ -5,6 +5,6 @@
     "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na natanggal sa `Tag` mula sa **{{cardName}}** na kard",
     "MULTIPLE_UNTAG_one": "{{author}} Walang tatak **{{count}}** kard",
     "MULTIPLE_UNTAG_other": "{{author}} Matagumpay na na-alis ang tatak**{{count}}** kards",
-    "INVALID_CODE": "{{may-akda}} Ang code ng `Kard` na iyon ay hindi wasto o wala sa iyong `Imbentaryo`",
-    "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na code ng `kard` ay alinman sa di-wasto o wala sa iyong `Imbentaryo`: {{invalidCodeList}}"
+    "INVALID_CODE": "{{author}} Ang code ng `Kard` na iyon ay hindi wasto o wala sa iyong `Imbentaryo`",
+    "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na code ng `kard` ay alinman sa di-wasto o wala sa iyong `Imbentaryo`:\n{{invalidCodeList}}"
 }
