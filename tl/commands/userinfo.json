@@ -9,7 +9,7 @@
     "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`:  `{{date}}`",
     "UI_CARDS_COUNT": "<:_:979009081325019156> Bilang ng Kard: `{{cardCount}}`",
     "UI_GUILD_JOINED": "Sumali sa Guild: `{{guild}}`",
-    "EMBED_AUTHOR": "SOFI: INFORMATION NG GUMAGAMIT [{{username}} - {{status}}]",
+    "EMBED_AUTHOR": "SOFI: IMPORMASYON NG GUMAGAMIT {{username}} - {{status}}",
     "UI_DESCRIPTION": "Pinapakita ang estatistiko ng isang user",
     "UI_GIVEN": "Naibigay",
     "USER_STATS": "__Stats ng User:__",
@@ -28,5 +28,5 @@
     "UI_UNVERIFIED": "Hindi Verified",
     "UI_VERIFIED": "Na Verify",
     "EMBED_FOOTER": "Na Rehistro: noong {{date}}",
-    "USER_INFO": "__Impormasyon ng User:__"
+    "USER_INFO": "__Impormasyon ng Gumagamit:__"
 }
