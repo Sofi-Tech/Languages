@@ -2,7 +2,7 @@
     "DESCRIPTION": "展示您的心愿单",
     "CATEGORY": "心愿单",
     "USER_NOT_FOUND": "{{author}} 没有找到那个用户",
-    "WISHLIST_PRIVATE": "{{author}} 那个用户的心愿单被**私藏**",
+    "WISHLIST_PRIVATE": "{{author}} 那个用户的心愿单被私藏",
     "WISHLIST_EMPTY": "{{author}} 那个用户的心愿单是空的",
     "WISHLIST_EMBED_TITLE": "SOFI: 心愿单 ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "页面: {{page}}/{{totalPages}}",
