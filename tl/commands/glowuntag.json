@@ -6,5 +6,6 @@
     "INVALID_GLOWCODE": "{{author}} Ang`Glow` code ay hindi wasto o wala sa iyong `Inventory`",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naalis ang `Tag`ng iyong **{{glow}}** `Glow`",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} Ang mga sumusunod na `Glow` codes ay maaring hindi wasto o wala sa iyong `inventory`:\n{{invalidCodeList}}",
-    "GLOW_UNTAG_PLURAL_one": "{{author}} Matagumpay na naalis ang `Glow Tag` ng lahat ng **{{count}}** code"
+    "GLOW_UNTAG_PLURAL_one": "{{author}} Matagumpay na naalis ang `Glow Tag` ng lahat ng **{{count}}** code",
+    "GLOW_UNTAG_PLURAL_other": "{{author}} Matagumpay na naalis ang `Glow Tag` ng lahat na **{{count}}** codes"
 }
