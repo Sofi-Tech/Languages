@@ -12,5 +12,8 @@
     "GLOWNAME_CHANGE_CONFIRMATION": "Sigurado ka ba na gusto mong baguhin ang `{{oldName}}` sa `{{newName}}`?",
     "EMBED_FOOTER": "Ningning: {{availability}}",
     "MISSING_ITEMS": "Wala kang sapat na currency para sa proseso na ito",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Matagumpay na na-update ang pangalan ng `Glow`"
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Matagumpay na na-update ang pangalan ng `Glow`",
+    "UNAVAILABLE": "Hindi magagamit",
+    "AVAILABLE": "magagamit",
+    "PROFANE_GLOW_NAME": "{{author}} may mali sa pangalan. Subukan ng isa pa"
 }

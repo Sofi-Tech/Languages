@@ -9,6 +9,6 @@
     "EMBED_TITLE": "SOFI: TRANSAKSYON",
     "YOU_GET": "Makukuha Mo:",
     "YOU_PAY": "Bayad Mo:",
-    "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na {{currency}} para sa transaksyong ito",
+    "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na `{{currency}}` para sa transaksyong ito",
     "FRAME_PURCHASED_BY": "Ang iyong **{{frame}}** `Frame` ay binili ng `{{userId}}`| {{buyCount}}"
 }

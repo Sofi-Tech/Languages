@@ -10,7 +10,7 @@
     "REPLACE_NAME": "Ilagay ang bagong pangalan na ipapalit sa `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang `Tag`na may pangalang na: `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong `Tag` ay dapat letra at numero lang at hindi dapat nag lalaman ng espesyal karakters, spaces o kabastusan",
-    "TAGNAME_LONG": "{{author}} Ang pangalan ng `Tag` ay dapat hindi na hihigit sa **20** na karakters",
+    "TAGNAME_LONG": "{{author}} Ang pangalan ng isang `Tag` ay maaari lamang maging **20** character ang haba",
     "REPLACE_NAME_CONFIRMATION": "Sigurado ka bang gusto mong baguhin ang pangalan ng `Tag` mula sa `{{oldTag}}` patungo sa `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "Matagumpay na napalitan ang pangalan ng iyong `Tag` mula sa `{{oldTag}}` patungong `{{newTag}}`",
     "PROCESS_TERMINATED": "Ang prosesong ito ay nakansela",

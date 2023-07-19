@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Magdagdag ng mga karakter sa iyong wishlist",
     "CATEGORY": "Listahan ng Ninanais",
-    "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka na maaaring magdagdag ng higit pang mga karakter sa iyong wishlist",
+    "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka maaaring magdagdag ng higit pang mga character sa iyong wishlist{{wishlistState}}",
     "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <Name>`",
     "NO_CHARACTER_FOUND": "{{author}} Hindi mahanap ang karakter na iyon. Gamitin ang command na `{{prefix}}wa -f <Name>` para sa eksaktong paghahanap",
     "CHARACTER_ALREADY_EXISTS": "{{author}} Ang karakter na **{{name}}** ay nasa iyong wishlist na!",
     "CHARACTER_ADDED": "{{author}} Matagumpay na idinagdag ang **{{name}}** sa iyong wishlist",
-    "EMBED_TITLE": "<:lined:868888105611046942> __Idagdag sa wishlist__"
+    "EMBED_TITLE": "SOFI: WISHLISTADD"
 }

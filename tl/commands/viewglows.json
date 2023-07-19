@@ -16,7 +16,8 @@
     "STATUS": "`Kalagayan:   ` ➜ **{{status}}**",
     "TYPE": "`Uri: .....  ` ➜ {{type}}",
     "OWNER": "`May-ari: .  ...  ` ➜ <@{{ownerId}}>",
-    "PURITY": "```Purity :  ➜ {{purity}}\nPurity2:  ➜ {{purity2}}```",
+    "PURITY": "kadalisayan :  ➜ {{purity}}",
     "INVALID_USER": "{{author}}Hindi mahanap ang user na ito",
-    "NO_GLOWS_SELF": "{{author}}Ikaw ay walang kahit anong `Glows`"
+    "NO_GLOWS_SELF": "{{author}}Ikaw ay walang kahit anong `Glows`",
+    "PURITY2": "kadalisayan2:  ➜ {{purity2}}"
 }
