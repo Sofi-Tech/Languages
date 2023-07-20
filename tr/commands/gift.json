@@ -8,5 +8,7 @@
     "GIFT_WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gift <User> <Amount>`",
     "GIFT_SUCCESSFUL": "{{author}}, {{user}} adlı kullanıcıya **{{amount}}** `{{eventItem}}` hediye etti\n{{user}}, toplam **{{recieveCount}}** `{{eventItem}}` aldı",
     "INVALID_USER": "{{author}} Kendinize `{{eventItem}}` hediye edemezsiniz",
-    "PLAYER_NOT_EXISTS": "{{author}} Bu oyuncu mevcut değil"
+    "PLAYER_NOT_EXISTS": "{{author}} Bu oyuncu mevcut değil",
+    "NO_ACTIVE_EVENT": "Etkin etkinlik bulunamadı",
+    "EMBED_TITLE": "SOFI: HEDİYE"
 }

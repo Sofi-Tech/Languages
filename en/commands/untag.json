@@ -1,9 +1,9 @@
 {
-  "UT_DESCRIPTION": "Removes the \"Tags\" from your cards",
-  "UT_CATEGORY": "Tags",
-  "UT_EMPTY_COLLECTION": "{{author}} You do not have any cards in your collection yet",
-  "INVALID_CODE": "{{author}} That card code is either invalid or not in your `Inventory`",
-  "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` from your **{{cardName}}** card",
-  "MULTIPLE_UNTAG": "{{author}} Successfully removed the `Tag` from **{{count}}** cards",
-  "INVALID_CODE_MULTIPLE": "{{author}} The following card codes are either invalid or not in your `Inventory`:\n{{invalidCodeList}}"
+    "UT_DESCRIPTION": "Removes the \"Tags\" from your cards",
+    "UT_CATEGORY": "Tags",
+    "UT_EMPTY_COLLECTION": "{{author}} You do not have any cards in your collection yet",
+    "INVALID_CODE": "{{author}} That card code is either invalid or not in your `Inventory`",
+    "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` from your **{{cardName}}** card",
+    "MULTIPLE_UNTAG": "{{author}} Successfully removed the `Tag` from **{{count}}** cards",
+    "INVALID_CODE_MULTIPLE": "{{author}} The following card codes are either invalid or not in your `Inventory`:\n{{invalidCodeList}}"
 }

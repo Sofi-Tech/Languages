@@ -1,7 +1,7 @@
 {
-  "TT_DESCRIPTION": "Kartlarınızı bir \"Tag\"den diğerine aktarır",
-  "TT_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}trt <eskiTag> <yeniTag>`",
-  "TAG_NOT_FOUND": "`{{tag}}` ismine sahip bir `Tag` bulunamadı",
-  "TRANSFER_TAG_SUCCESSFUL": "{{fromTag}} `Tag`indeki tüm kartlar başarıyla {{toTag}} `Tag`ine aktarıldı"
+    "TT_DESCRIPTION": "Kartlarınızı bir \"Tag\"den diğerine aktarır",
+    "TT_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}trt <eskiTag> <yeniTag>`",
+    "TAG_NOT_FOUND": "{{author}} `{{tag}}` adında herhangi bir `Tag`'ınız yok",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} `{{fromTag}}``Tag`'ından tüm kartlar `{{toTag}}`'a başarıyla aktarıldı"
 }

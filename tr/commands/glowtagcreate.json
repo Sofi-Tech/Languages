@@ -4,5 +4,5 @@
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gtc <EtiketAdı> <Emoji>`",
     "INVALID_EMOJI": "{{author}} O emoji geçersiz",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Bu isme sahip bir \"Glow Tag\" zaten var",
-    "CREATED_GLOWTAG": "{{author}} `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu"
+    "CREATED_GLOWTAG": "{{author}} Başarı ile `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu"
 }
