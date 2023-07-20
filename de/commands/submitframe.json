@@ -1,20 +1,4 @@
 {
-<<<<<<< HEAD
-    "SUBMIT_FRAME_DENY": "Du hast nicht genügend `Silver` für diesen Vorgang",
-    "SUBMIT_FRAME_CONFIRMATION": "Möchtest du diesen `Frame` für **3000** `Silver` einreichen?",
-    "MAXIMUM_NAME_LENGTH": "{{author}} Der Name des `Frame` darf nicht mehr als 20 Buchstaben lang sein",
-    "SF_VALID_DIMENSION": "{{author}} Die Abmessungen vom eingereichten `Frame` müssen **402** x **603** (Breite x Höhe) sein",
-    "SF_DESCRIPTION": "Sendet einen \"Frame\"",
-    "SF_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}sf <ImageURL> <FrameName>`",
-    "SF_CATEGORY": "Einstellungen",
-    "SF_DISCORD_LINK": "{{author}} Gehe sicher dass das eingesendete Bild auf eines Discord Servers `cdn.discordapp.com` oder `media.discordapp.net` gehostet wird",
-    "SUBMIT_FRAME_SUCCESSFUL": "Du hast den `Frame` erfolgreich eingereicht",
-    "SF_EMBED_TITLE": "FRAME: **{{name}}**",
-    "SF_IMAGE_LINK": "<:_:979009081325019156> Die Abmessungen vom eingereichten `Frame` müssen **402** x **603** (Breite x Höhe) sein",
-    "SF_APPROVAL": "<:_:979009081325019156> Wenn alles unserer Norm entspricht, wird dein `Frame` genehmigt und in unserer `Frame Shop` Rotation verfügbar gemacht",
-    "SF_JOIN_SUPPORT": "<:_:979009081325019156> Tritt unserem [support server](https://discord.gg/sofi) bei wenn du Fragen hast",
-    "EMBED_TITLE": "SOFI: Frame-Einreichung Richtlinien"
-=======
   "SUBMIT_FRAME_DENY": "Du hast nicht genügend `Silver` für diesen Vorgang",
   "SUBMIT_FRAME_CONFIRMATION": "Möchtest du diesen `Frame` für **3000** `Silver` einreichen?",
   "MAXIMUM_NAME_LENGTH": "{{author}} Der Name des `Frame` darf nicht mehr als 20 Buchstaben lang sein",
@@ -34,5 +18,4 @@
   "SF_REPLICA_INFO": "<:_:979009081325019156> Gehe sicher das der eingereichte `Frame` zur Kartengrenze passt und genügend Platz sowie Sichtbarkeit für den angezeigten Text hat",
   "SF_COST_INFO": "<:_:979009081325019156> Tritt unserem [support server](https://discord.gg/sofi) bei wenn du Fragen hast",
   "EMBED_TITLE": "SOFI: Frame-Einreichung Richtlinien"
->>>>>>> 1365e1ea (refactor(submitframe): rename keys)
 }

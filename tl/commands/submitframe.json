@@ -1,20 +1,4 @@
 {
-<<<<<<< HEAD
-    "SF_CORRECT_USAGE": "{{author}}Tamang pag-gamit: `{{prefix}}sf <ImageURL> <PangalangNgFrame>`",
-    "MAXIMUM_NAME_LENGTH": "{{author}} A pangalan ng `Frame` ay dapat nag laalaman lang ng hanggang **20** na karakters",
-    "SUBMIT_FRAME_SUCCESSFUL": "Matagumpay na isinumite mo ang `Frame`",
-    "SUBMIT_FRAME_DENY": "Hindi sapat ang iyong `Silver` para sa prosesong ito",
-    "SF_FIT_CARD": "<:_:979009081325019156> Siguraduhing ang isinumiteng imahe ay kasya sa border ng kard at may tamang espasyo at kahulugan para sa nakadisplay na teksto",
-    "SF_DESCRIPTION": "Nag sasubmit ng \"Frame\"",
-    "SUBMIT_FRAME_CONFIRMATION": "Nais mo bang i-submit ang `Frame` na ito sa halaga na **3000** `Silver`?",
-    "SF_JOIN_SUPPORT": "<:_:979009081325019156> Sumali sa aming [support server](https://discord.gg/sofi) kapag may katanungan",
-    "SF_EMBED_TITLE": "SOFI: FRAME ({{name}})",
-    "SF_MAXIMUM_FRAMES": "<:_:979009081325019156> Lahat ng inaprubahang Frames ay mayroong isang maximum na stock **100**!",
-    "SF_CATEGORY": "Mga Kaayusan",
-    "SF_DISCORD_LINK": "{{author}} Ang larawan na isinubmit ay **dapat** nakahost sa mga server ng Discord `cdn.discordapp.com` o `media.discordapp.net`",
-    "SF_VALID_DIMENSION": "{{author}} Ang sukat ng inihain na Frame ay dapat na **402** x **603** (Lapad x Taas)",
-    "EMBED_TITLE": "SOFI: SUBMISYON NG FRAME"
-=======
   "SF_CORRECT_USAGE": "{{author}}Tamang pag-gamit: `{{prefix}}sf <ImageURL> <PangalangNgFrame>`",
   "MAXIMUM_NAME_LENGTH": "{{author}} A pangalan ng `Frame` ay dapat nag laalaman lang ng hanggang **20** na karakters",
   "SUBMIT_FRAME_SUCCESSFUL": "Matagumpay na isinumite mo ang `Frame`",
@@ -34,5 +18,4 @@
   "SF_DISCORD_LINK": "{{author}} Ang larawan na isinubmit ay **dapat** nakahost sa mga server ng Discord `cdn.discordapp.com` o `media.discordapp.net`",
   "SF_VALID_DIMENSION": "{{author}} Ang sukat ng inihain na Frame ay dapat na **402** x **603** (Lapad x Taas)",
   "EMBED_TITLE": "SOFI: SUBMISYON NG FRAME"
->>>>>>> 1365e1ea (refactor(submitframe): rename keys)
 }
