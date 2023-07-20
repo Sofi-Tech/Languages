@@ -1,9 +1,9 @@
 {
-  "UT_DESCRIPTION": "Entfernt die \"Tags\" von deinen Karten",
-  "UT_CATEGORY": "Tags",
-  "UT_EMPTY_COLLECTION": "{{author}} Du hast noch keine Karten in deiner Sammlung",
-  "UNTAG_SUCCESSFUL": "{{author}} Der `Tag` wurde erfolgreich von der **{{cardName}}** Karte entfernt",
-  "MULTIPLE_UNTAG": "{{author}} Die \"Tags\" von **{{count}}** Karten wurden erfolgreich entfernt",
-  "INVALID_CODE_MULTIPLE": "{{author}} Die folgenden Karten-Codes sind entweder ungültig oder nicht in deinem `Inventory`\n{{invalidCodeList}}",
-  "INVALID_CODE": "{{author}} Dieser Karten-Code ist entweder ungültig oder nicht in deinem `Inventory`"
+    "UT_DESCRIPTION": "Entfernt die \"Tags\" von deinen Karten",
+    "UT_CATEGORY": "Tags",
+    "UT_EMPTY_COLLECTION": "{{author}} Du hast noch keine Karten in deiner Sammlung",
+    "UNTAG_SUCCESSFUL": "{{author}} Der `Tag` wurde erfolgreich von deiner **{{cardName}}** Karte entfernt",
+    "MULTIPLE_UNTAG": "{{author}} Die \"Tags\" von **{{count}}** Karten wurden erfolgreich entfernt",
+    "INVALID_CODE_MULTIPLE": "{{author}} Die folgenden Karten-Codes sind entweder ungültig oder nicht in deinem `Inventory`\n{{invalidCodeList}}",
+    "INVALID_CODE": "{{author}} Dieser Karten-Code ist entweder ungültig oder nicht in deinem `Inventory`"
 }

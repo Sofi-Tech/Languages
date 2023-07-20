@@ -2,7 +2,7 @@
     "GTC_DESCRIPTION": "Glow Tag बनाएं",
     "GTC_CATEGORY": "TAGS",
     "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gtc <tagname> <emoji>`",
-    "INVALID_EMOJI": "{{author}} वह एक मान्य इमोजी नहीं है",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} उस समान नाम से Glow Tag पहले से ही मौजूद है",
-    "CREATED_GLOWTAG": "{{author}} Glow Tag बनाया गया है: `{{tag}}` | {{emoji}}"
+    "INVALID_EMOJI": "{{author}} यह अमान्य इमोजी है",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} इस नाम से Glow Tag पहले से ही मौजूद है",
+    "CREATED_GLOWTAG": "{{author}} Glow Tag सफतालपुर्वक बनाया गया : `{{tag}}` | {{emoji}}"
 }

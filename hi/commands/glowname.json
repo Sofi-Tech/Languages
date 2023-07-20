@@ -3,7 +3,7 @@
     "GN_CATEGORY": "COSMETICS",
     "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glows नहीं हैं",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gn <glowcode><newname`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Glow कोड # से शुरू होता है",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Glow codes `#` से शुरू होते है",
     "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया Glow कॉड अवैध है या यह आपकी Inventory में नहीं है",
     "PROVIDE_GLOW_NAME": "{{author}} Glow का नाम प्रदान करे",
     "GLOW_NAME_LONG": "{{author}} Glow का नाम बहुत लंबा है। 25 वर्ण से कम कोशिश करें",
@@ -12,5 +12,8 @@
     "GLOWNAME_CHANGE_CONFIRMATION": "क्या आप वाकई में `{{oldName}}` को `{{newName}}`से बदलना चाहते हैं?",
     "EMBED_FOOTER": "Glow : {{availability}}",
     "MISSING_ITEMS": "इस प्रक्रिया के लिए आपके पास पर्याप्त राशि नहीं है",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Glow नाम सफलतापूर्वक अपडेट किया गया"
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Glow नाम सफलतापूर्वक अपडेट किया गया",
+    "PROFANE_GLOW_NAME": "{{author}} नाम दर्ज करने युक्त नहीं है। कोई और नाम देवे",
+    "UNAVAILABLE": "अनुपलब्ध",
+    "AVAILABLE": "उपलब्ध"
 }

@@ -7,7 +7,7 @@
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Du erhältst:",
     "EMBED_GET_FIELD_VALUE": "```{{count}} zusätzliche Wunschlistenplätze```",
-    "EMBED_MAXED_DESCRIPTION": "Bist du dir sicher dass du deine Wunschlistenplätze für **{{amount}}** `{{currency}}` vollständig freischalten möchtest?",
+    "EMBED_MAXED_DESCRIPTION": "Bist du dir sicher dass du deine Wunschliste für **{{amount}}** `{{currency}}` vollständig freischalten möchtest?",
     "EMBED_MAXED_FIELD_VALUE": "```Maximale Wunschlistenplätze (50 Plätze)```",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "PAY_ERROR": "{{author}} Du hast nicht genug `{{currency}}` für diese Transaktion",

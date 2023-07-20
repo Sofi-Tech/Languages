@@ -2,7 +2,7 @@
     "TC_DESCRIPTION": "\"Tag\" बनाता है",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} सही इस्तेमाल: `{{prefix}}tc <tagname> <इमोजी>`",
-    "INVALID_EMOJI": "{{author}} \"{{emoji}}\" अमान्य इमोजी है!",
+    "INVALID_EMOJI": "{{author}} यह अमान्य इमोजी है",
     "INVALID_TAGNAME_FORMAT": "{{author}} आपके `Tag` का नाम सिर्फ शब्दो में होना चाहिए और उसमे कोई भी खास वर्ण, स्पेस या अपशब्द का समावेश नही होना चाहिए",
     "LONG_TAGNAME": "{{author}} \"Tag\" के नाम में ज्यादा से ज्यादा 20 ही वर्ण समा सकते है",
     "TAGNAME_EXISTS": "{{author}} आपके पास`{{tag}}`नामका `Tag` पहले से मौजुद है",

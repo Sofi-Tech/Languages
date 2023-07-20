@@ -1,9 +1,12 @@
 {
-    "GT_DESCRIPTION": "अनलॉक किए गए Glow को टैग करें",
-    "GT_CATEGORY": "टैग",
-    "GLOWTAGS_NOT_FOUND": "टैगिंग के लिए शुक्रिया, लेकिन कोई ग्लो टैग नहीं मिला",
-    "GLOWS_NOT_UNLOCKED": "{{author}} आपने अभी तक कोई ग्लो अनलॉक नहीं किया है",
-    "INVALID_GLOW_CODE": "{{author}} अमान्य Glow code या कोई Glow नहीं मिला",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** को {{tag}} के रूप में सफलतापूर्वक टैग किया गया",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} वे ग्लो टैग सफलतापूर्वक टैग किए गए थे"
+    "GT_DESCRIPTION": "Glows को Tag देता है",
+    "GT_CATEGORY": "TAGS",
+    "GLOWTAGS_NOT_FOUND": "{{author}} आपने अभी तक कोई Glow Tag नहीं बनाया है। `{{prefix}} gtc <Name> <Emoji>` का उपयोग करके Tag बनाए",
+    "GLOWS_NOT_UNLOCKED": "{{author}} आपके पास कोई Glow नहीं है",
+    "INVALID_GLOW_CODE": "{{author}} प्रदान किए गए Glow codes में कोई एक अमान्य है या आपकी Inventory में नहीं है",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** सफलतापूर्वक Tag करी गई : `{{tag}} `",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} सभी Glows को सफतालापुर्वक टैग किया गया: `{{tag}}`",
+    "GLOW_TAG_INVALID": "{{author}} आपके पास इस नाम से कोई Glow Tag नहीं है: `{{tagname}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} प्रदान किया गया Glow Code अमान्य है या आपकी Inventory में नहीं है",
+    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gt <TagName> <GlowCode>`"
 }
