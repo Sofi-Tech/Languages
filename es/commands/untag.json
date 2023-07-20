@@ -3,6 +3,5 @@
   "UT_CATEGORY": "Tags",
   "UT_EMPTY_COLLECTION": "{{author}} Aún no tienes ninguna carta en tu colección",
   "UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el `Tag` de la carta **{{cardName}}**",
-  "MULTIPLE_UNTAG_one": "{{author}} Eliminado el tag de {{count}} cartas",
-  "MULTIPLE_UNTAG_other": "{{author}} Eliminado el tag de {{count}} cartas"
+  "MULTIPLE_UNTAG": "{{author}} Eliminado el tag de {{count}} cartas"
 }

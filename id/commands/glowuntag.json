@@ -1,10 +1,10 @@
 {
-    "GUT_DESCRIPTION": "Menghapus \"Glow Tag\" anda",
-    "GUT_CATEGORY": "Tag",
-    "NO_GLOWS_FOUND": "{{author}} Anda belum memiliki `Glows`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan `#`",
-    "INVALID_GLOWCODE": "{{author}} Kode `Glow` tersebut tidak valid atau tidak ada dalam `Inventory` anda",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Berhasil menghapus `Tag` **{{glow}}** `Glow` Anda",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Kode `Glow` berikut tidak valid atau tidak ada dalam `Inventory` Anda:\n{{invalidCodeList}}",
-    "GLOW_UNTAG_PLURAL_other": "{{author}} Berhasil menghapus `Glow Tag` dari **{{count}}** `Glows`"
+  "GUT_DESCRIPTION": "Menghapus \"Glow Tag\" anda",
+  "GUT_CATEGORY": "Tag",
+  "NO_GLOWS_FOUND": "{{author}} Anda belum memiliki `Glows`",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan `#`",
+  "INVALID_GLOWCODE": "{{author}} Kode `Glow` tersebut tidak valid atau tidak ada dalam `Inventory` anda",
+  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Berhasil menghapus `Tag` **{{glow}}** `Glow` Anda",
+  "INVALID_GLOWCODE_MULTIPLE": "{{author}} Kode `Glow` berikut tidak valid atau tidak ada dalam `Inventory` Anda:\n{{invalidCodeList}}",
+  "GLOW_UNTAG_PLURAL": "{{author}} Berhasil menghapus `Glow Tag` dari **{{count}}** `Glows`"
 }

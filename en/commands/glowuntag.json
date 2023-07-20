@@ -1,11 +1,10 @@
 {
-    "GUT_DESCRIPTION": "Removes your \"Glow Tags\"",
-    "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "{{author}} You don't have any `Glows` yet",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes always start with a `#`",
-    "INVALID_GLOWCODE": "{{author}} That `Glow` code is either invalid or not in your `Inventory`",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` of your **{{glow}}** `Glow`",
-    "GLOW_UNTAG_PLURAL_one": "",
-    "GLOW_UNTAG_PLURAL_other": "{{author}} Successfully removed the `Glow Tag` of **{{count}}** `Glows`",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} The following `Glow` codes are either invalid or not in your `Inventory`:\n{{invalidCodeList}}"
+  "GUT_DESCRIPTION": "Removes your \"Glow Tags\"",
+  "GUT_CATEGORY": "Tags",
+  "NO_GLOWS_FOUND": "{{author}} You don't have any `Glows` yet",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes always start with a `#`",
+  "INVALID_GLOWCODE": "{{author}} That `Glow` code is either invalid or not in your `Inventory`",
+  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` of your **{{glow}}** `Glow`",
+  "GLOW_UNTAG_PLURAL": "{{author}} Successfully removed the `Glow Tag` of **{{count}}** `Glows`",
+  "INVALID_GLOWCODE_MULTIPLE": "{{author}} The following `Glow` codes are either invalid or not in your `Inventory`:\n{{invalidCodeList}}"
 }
