@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "SF_CORRECT_USAGE": "{{author}}Tamang pag-gamit: `{{prefix}}sf <ImageURL> <PangalangNgFrame>`",
     "MAXIMUM_NAME_LENGTH": "{{author}} A pangalan ng `Frame` ay dapat nag laalaman lang ng hanggang **20** na karakters",
     "SUBMIT_FRAME_SUCCESSFUL": "Matagumpay na isinumite mo ang `Frame`",
@@ -13,4 +14,25 @@
     "SF_DISCORD_LINK": "{{author}} Ang larawan na isinubmit ay **dapat** nakahost sa mga server ng Discord `cdn.discordapp.com` o `media.discordapp.net`",
     "SF_VALID_DIMENSION": "{{author}} Ang sukat ng inihain na Frame ay dapat na **402** x **603** (Lapad x Taas)",
     "EMBED_TITLE": "SOFI: SUBMISYON NG FRAME"
+=======
+  "SF_CORRECT_USAGE": "{{author}}Tamang pag-gamit: `{{prefix}}sf <ImageURL> <PangalangNgFrame>`",
+  "MAXIMUM_NAME_LENGTH": "{{author}} A pangalan ng `Frame` ay dapat nag laalaman lang ng hanggang **20** na karakters",
+  "SUBMIT_FRAME_SUCCESSFUL": "Matagumpay na isinumite mo ang `Frame`",
+  "SF_DIMENSION_INFO": "<:_:979009081325019156> Ang pagpapasa ng imahe ay magkakahalaga ng **3000** `Silver`",
+  "SUBMIT_FRAME_DENY": "Hindi sapat ang iyong `Silver` para sa prosesong ito",
+  "SF_FILETYPE_INFO": "<:_:979009081325019156> Panatilihin ang tema ng iyong imahe ay na a-angkop para sa lahat ng edad",
+  "SF_REPLICA_INFO": "<:_:979009081325019156> Siguraduhing ang isinumiteng imahe ay kasya sa border ng kard at may tamang espasyo at kahulugan para sa nakadisplay na teksto",
+  "SF_STAFF_INFO": "<:_:979009081325019156> ang lahat ay ayon sa aming pamantayan, ang iyong `Frame` ay aaprubahan at magiging available sa `Frame Shop` rotation",
+  "SF_DESCRIPTION": "Nag sasubmit ng \"Frame\"",
+  "SUBMIT_FRAME_CONFIRMATION": "Nais mo bang i-submit ang `Frame` na ito sa halaga na **3000** `Silver`?",
+  "SF_VISIBILITY_INFO": "<:_:979009081325019156> Maari kang mag download ng [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) upang mas maunawaan nang mabuti ang proseso",
+  "SF_COST_INFO": "<:_:979009081325019156> Sumali sa aming [support server](https://discord.gg/sofi) kapag may katanungan",
+  "SF_EMBED_TITLE": "SOFI: FRAME ({{name}})",
+  "SF_LINK_INFO": "<:_:979009081325019156> Ang sukat ng isinubmit na `Frame` ay dapat `402x603`",
+  "SF_MAXIMUM_INFO": "<:_:979009081325019156> Lahat ng inaprubahang Frames ay mayroong isang maximum na stock **100**!",
+  "SF_CATEGORY": "Mga Kaayusan",
+  "SF_DISCORD_LINK": "{{author}} Ang larawan na isinubmit ay **dapat** nakahost sa mga server ng Discord `cdn.discordapp.com` o `media.discordapp.net`",
+  "SF_VALID_DIMENSION": "{{author}} Ang sukat ng inihain na Frame ay dapat na **402** x **603** (Lapad x Taas)",
+  "EMBED_TITLE": "SOFI: SUBMISYON NG FRAME"
+>>>>>>> 1365e1ea (refactor(submitframe): rename keys)
 }

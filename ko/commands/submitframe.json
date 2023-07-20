@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "SF_CORRECT_USAGE": "올바른 사용법: `{{prefix}}sf <이미지URL> <프레임이름>`",
     "SF_DESCRIPTION": "\"프레임\"을 제출합니다",
     "SF_CATEGORY": "설정",
@@ -13,4 +14,25 @@
     "SUBMIT_FRAME_DENY": "이 작업을 위해 충분한 `실버`가 없습니다",
     "SF_MAXIMUM_FRAMES": "<:_:979009081325019156> 모든 승인된 `프레임`은 최대 **100**개의 재고가 있습니다!",
     "SF_JOIN_SUPPORT": "<:_:979009081325019156> 질문이 있으시면 [지원 서버](https://discord.gg/sofi)에 참여해 주세요"
+=======
+  "SF_CORRECT_USAGE": "올바른 사용법: `{{prefix}}sf <이미지URL> <프레임이름>`",
+  "SF_DESCRIPTION": "\"프레임\"을 제출합니다",
+  "SF_CATEGORY": "설정",
+  "SF_DISCORD_LINK": "{{author}} 제출한 이미지가 디스코드 서버의 `cdn.discordapp.com` 또는 `media.discordapp.net`에 호스팅되어 있는지 확인하세요",
+  "SF_VALID_DIMENSION": "{{author}} 제출한 `프레임`의 크기는 **402** x **603** (가로 x 세로) 여야 합니다",
+  "EMBED_TITLE": "SOFI: 프레임 제출 가이드라인",
+  "MAXIMUM_NAME_LENGTH": "{{author}} `프레임` 이름은 최대 20자까지 입력할 수 있습니다",
+  "SUBMIT_FRAME_SUCCESSFUL": "`프레임`을 성공적으로 제출했습니다",
+  "SF_FILETYPE_INFO": "<:_:979009081325019156> `프레임`의 테마는 모든 연령층에 적합하도록 유지하세요",
+  "SF_LINK_INFO": "<:_:979009081325019156> 제출한 `프레임`의 크기는 **402** x **603** (가로 x 세로)여야 합니다",
+  "SF_STAFF_INFO": "<:_:979009081325019156> 모든 것이 우리의 기준에 맞다면, 당신의 `프레임`은 승인되어 `프레임 상점`에서 이용 가능합니다",
+  "SF_EMBED_TITLE": "프레임: **{{name}}**",
+  "SUBMIT_FRAME_CONFIRMATION": "이 `프레임`을 **3000** `실버`로 제출하시겠습니까?",
+  "SUBMIT_FRAME_DENY": "이 작업을 위해 충분한 `실버`가 없습니다",
+  "SF_DIMENSION_INFO": "<:_:979009081325019156> `프레임`을 제출하려면 **3000** `실버`가 필요합니다",
+  "SF_MAXIMUM_INFO": "<:_:979009081325019156> 모든 승인된 `프레임`은 최대 **100**개의 재고가 있습니다!",
+  "SF_VISIBILITY_INFO": "<:_:979009081325019156> 프로세스를 더 잘 이해하기 위해 [프레임](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png)과 [이미지](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg)를 다운로드하여 더 자세히 살펴보실 수 있습니다",
+  "SF_COST_INFO": "<:_:979009081325019156> 질문이 있으시면 [지원 서버](https://discord.gg/sofi)에 참여해 주세요",
+  "SF_REPLICA_INFO": "<:_:979009081325019156> 제출한 `프레임`이 카드 테두리에 맞고, 표시된 텍스트에 적절한 공간과 가시성이 있는지 확인하세요"
+>>>>>>> 1365e1ea (refactor(submitframe): rename keys)
 }

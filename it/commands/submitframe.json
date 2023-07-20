@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "SF_CATEGORY": "Impostazioni",
     "SF_VALID_DIMENSION": "{{author}} Le dimensioni del `Frame` inviato devono essere **402** x **603** (Larghezza x Altezza)",
     "SF_EMBED_TITLE": "FRAME: **{{name}}**",
@@ -12,4 +13,25 @@
     "SF_VIOLATING_MATERIAL": "<:_:979009081325019156> Mantieni il tema del tuo `Frame` adatto a tutte le età",
     "SF_DOWNLOAD_TEMPLATE": "<:_:979009081325019156> Puoi scaricare un [Frame]\n(https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) e un'[Immagine](https://cdn.discordapp.com/attachments /870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) per avere un'idea migliore del processo",
     "EMBED_TITLE": "SOFI: Linee Guida per l'invio di Frame"
+=======
+  "SF_CATEGORY": "Impostazioni",
+  "SF_VALID_DIMENSION": "{{author}} Le dimensioni del `Frame` inviato devono essere **402** x **603** (Larghezza x Altezza)",
+  "SF_EMBED_TITLE": "FRAME: **{{name}}**",
+  "SF_DIMENSION_INFO": "<:_:979009081325019156> L'invio di un `Frame` ti costerà **3000** `Silver`",
+  "SUBMIT_FRAME_CONFIRMATION": "Vuoi inviare questo `Frame` per **3000** `Silver`?",
+  "SUBMIT_FRAME_DENY": "Non hai abbastanza `Silver` per questo processo",
+  "SF_DESCRIPTION": "Invia un \"Frame\"",
+  "SF_CORRECT_USAGE": "{{author}} Uso corretto: `{{prefix}}sf <ImmagineURL> <FrameNome>`",
+  "MAXIMUM_NAME_LENGTH": "{{author}} Un nome `Frame` può contenere un massimo di 20 caratteri",
+  "SF_LINK_INFO": "<:_:979009081325019156> Le dimensioni della `Frame` inviata devono essere **402** x **603** (larghezza x altezza)",
+  "SF_DISCORD_LINK": "{{author}} Assicurati che l'immagine inviata sia ospitata sui server discord `cdn.discordapp.com` o `media.discordapp.net`",
+  "SUBMIT_FRAME_SUCCESSFUL": "Hai inviato correttamente il `Frame`",
+  "SF_REPLICA_INFO": "<:_:979009081325019156> Assicurati che il `Frame` inviato si adatti al bordo della carta e abbia spazio e visibilità adeguati per il testo visualizzato",
+  "SF_FILETYPE_INFO": "<:_:979009081325019156> Mantieni il tema del tuo `Frame` adatto a tutte le età",
+  "SF_STAFF_INFO": "<:_:979009081325019156> Se tutto è conforme ai nostri standard, il tuo `Frame` sarà approvato e disponibile nella rotazione `Frame Shop`",
+  "SF_VISIBILITY_INFO": "<:_:979009081325019156> Puoi scaricare un [Frame]\n(https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) e un'[Immagine](https://cdn.discordapp.com/attachments /870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) per avere un'idea migliore del processo",
+  "SF_MAXIMUM_INFO": "<:_:979009081325019156> Tutti i `Frames` approvati hanno uno stock massimo di **100**!",
+  "EMBED_TITLE": "SOFI: Linee Guida per l'invio di Frame",
+  "SF_COST_INFO": "<:_:979009081325019156> Unisciti al nostro [server di supporto](https://discord.gg/sofi) se hai domande"
+>>>>>>> 1365e1ea (refactor(submitframe): rename keys)
 }

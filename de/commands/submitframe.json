@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "SUBMIT_FRAME_DENY": "Du hast nicht genügend `Silver` für diesen Vorgang",
     "SUBMIT_FRAME_CONFIRMATION": "Möchtest du diesen `Frame` für **3000** `Silver` einreichen?",
     "MAXIMUM_NAME_LENGTH": "{{author}} Der Name des `Frame` darf nicht mehr als 20 Buchstaben lang sein",
@@ -13,4 +14,25 @@
     "SF_APPROVAL": "<:_:979009081325019156> Wenn alles unserer Norm entspricht, wird dein `Frame` genehmigt und in unserer `Frame Shop` Rotation verfügbar gemacht",
     "SF_JOIN_SUPPORT": "<:_:979009081325019156> Tritt unserem [support server](https://discord.gg/sofi) bei wenn du Fragen hast",
     "EMBED_TITLE": "SOFI: Frame-Einreichung Richtlinien"
+=======
+  "SUBMIT_FRAME_DENY": "Du hast nicht genügend `Silver` für diesen Vorgang",
+  "SUBMIT_FRAME_CONFIRMATION": "Möchtest du diesen `Frame` für **3000** `Silver` einreichen?",
+  "MAXIMUM_NAME_LENGTH": "{{author}} Der Name des `Frame` darf nicht mehr als 20 Buchstaben lang sein",
+  "SF_VALID_DIMENSION": "{{author}} Die Abmessungen vom eingereichten `Frame` müssen **402** x **603** (Breite x Höhe) sein",
+  "SF_DESCRIPTION": "Sendet einen \"Frame\"",
+  "SF_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}sf <ImageURL> <FrameName>`",
+  "SF_CATEGORY": "Einstellungen",
+  "SF_DISCORD_LINK": "{{author}} Gehe sicher dass das eingesendete Bild auf eines Discord Servers `cdn.discordapp.com` oder `media.discordapp.net` gehostet wird",
+  "SF_VISIBILITY_INFO": "<:_:979009081325019156> Lade dir einen [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) herunter um ein besseres Gefühl für den Vorgang zu bekommen",
+  "SUBMIT_FRAME_SUCCESSFUL": "Du hast den `Frame` erfolgreich eingereicht",
+  "SF_FILETYPE_INFO": "<:_:979009081325019156> Halte das Thema deines `Frame` geeignet für alle Altersgruppen",
+  "SF_EMBED_TITLE": "FRAME: **{{name}}**",
+  "SF_DIMENSION_INFO": "<:_:979009081325019156> Einen `Frame` einzureichen wird dich **3000** `Silver` kosten",
+  "SF_LINK_INFO": "<:_:979009081325019156> Die Abmessungen vom eingereichten `Frame` müssen **402** x **603** (Breite x Höhe) sein",
+  "SF_MAXIMUM_INFO": "<:_:979009081325019156> Alle genehmigten `Frames` haben einen maximalen Vorrat von **100**!",
+  "SF_STAFF_INFO": "<:_:979009081325019156> Wenn alles unserer Norm entspricht, wird dein `Frame` genehmigt und in unserer `Frame Shop` Rotation verfügbar gemacht",
+  "SF_REPLICA_INFO": "<:_:979009081325019156> Gehe sicher das der eingereichte `Frame` zur Kartengrenze passt und genügend Platz sowie Sichtbarkeit für den angezeigten Text hat",
+  "SF_COST_INFO": "<:_:979009081325019156> Tritt unserem [support server](https://discord.gg/sofi) bei wenn du Fragen hast",
+  "EMBED_TITLE": "SOFI: Frame-Einreichung Richtlinien"
+>>>>>>> 1365e1ea (refactor(submitframe): rename keys)
 }
