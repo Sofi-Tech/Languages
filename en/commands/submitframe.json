@@ -11,11 +11,11 @@
     "SUBMIT_FRAME_DENY": "You don't have enough `Silver` for this process",
     "SUBMIT_FRAME_SUCCESSFUL": "You have successfully submitted the `Frame`",
     "SF_NEED_SILVERS": "<:_:979009081325019156> The dimensions of the submitted image must be `402x603`",
-    "SF_VIOLATING_MATERIAL": "<:_:979009081325019156> Keep the theme of your image suitable for all ages",
-    "SF_IMAGE_LINK": "<:_:979009081325019156> The dimensions of the submitted image must be `402x603`",
-    "SF_FIT_CARD": "<:_:979009081325019156> Make sure that the submitted image fits the card border and has proper space and visibility for the displayed text",
-    "SF_DOWNLOAD_TEMPLATE": "<:_:979009081325019156> You can download a [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) to get a better feel for the process",
-    "SF_APPROVAL": "<:_:979009081325019156> If everything is up to our standards, your `Frame` will be approved and available in the `Frame Shop` rotation",
-    "SF_MAXIMUM_FRAMES": "<:_:979009081325019156> All approved `Frames` have a maximum stock of **100**!",
-    "SF_JOIN_SUPPORT": "<:_:979009081325019156> Join our [support server](https://discord.gg/sofi) if you have any questions"
+    "SF_VIOLATING_MATERIAL": "<:_:979009081325019156> The submitted image **must** be made by yourself and not be a replica of existing works",
+    "SF_IMAGE_LINK": "<:_:979009081325019156> The submitted image **must** be hosted on discord's servers `cdn.discordapp.com` or `media.discordapp.net`",
+    "SF_FIT_CARD": "<:_:979009081325019156> The submitted image **must** be made by yourself and not be a replica of existing works",
+    "SF_DOWNLOAD_TEMPLATE": "<:_:979009081325019156> The submitted image **must** either be a `PNG` or `JPG` file",
+    "SF_APPROVAL": "<:_:979009081325019156> The submitted image **must** fit a card's border and have a proper, visible area for the displayed text",
+    "SF_MAXIMUM_FRAMES": "\n⚠️ Do not ping any staff in an attempt to speed up the review of your submission!\n",
+    "SF_JOIN_SUPPORT": "__Additional Info__:"
 }
