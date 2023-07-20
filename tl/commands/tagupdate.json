@@ -17,5 +17,5 @@
     "REPLACE_EMOJI": "Ilagay ang emotikon na nais mong ipalit sa {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Iyon ay isang di-wastong emoji",
     "REPLACE_EMOJI_CONFIRMATION": "Sigurado ka bang gusto mong baguhin ang emotikon ng`Tags`mula sa {{oldEmoji}} patungong {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "Matagumpay na nabao ang emotikon ng `Tag`mula sa {{oldEmoji}}hanggang sa {{newEmoji}}"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Matagumpay na nabao ang emotikon ng `Tag`mula sa {{oldEmoji}}hanggang sa {{newEmoji}}"
 }
