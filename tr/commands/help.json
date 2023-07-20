@@ -50,5 +50,5 @@
     "FILTER_GLOW": "<:pdot:979009081325019156> **Glow** = [ 'glow'/'glowed' ] | **`sc glow=TRUE/FALSE`**",
     "FILTER_CATEGORY": "<:pdot:979009081325019156> **Kategori** = [`cat`/`category`] **`sc cat=CATEGORY`**",
     "ALL_FILTER_CATEGORIES": "**__Mevcut Kategoriler:__**\n<:pdot:979009081325019156> **`Anime, Cartoon, Movie`** \n<:pdot:979009081325019156> **`Vtuber, Kpop, Jpop, Cpop`** \n<:pdot:979009081325019156> **`Art, Comic, Manga, Webtoon, Webseries`** \n<:pdot:979009081325019156> **`Games, Memes`**",
-    "COMMNAD_NOT_FOUND": "{{author}} | `{{command}}` adında hiçbir komut bulunamadı. Aradığınız komut şu mu? {{commandName}}"
+    "COMMNAD_NOT_FOUND": "{{author}} | `{{command}}` adında bir komut yok! `{{commandName}}` komutunu mu arıyorsunuz?"
 }

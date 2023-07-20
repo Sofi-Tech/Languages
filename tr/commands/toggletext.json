@@ -2,7 +2,7 @@
     "TT_DESCRIPTION": "Bir kart metninin görünürlüğünü değiştirir",
     "TT_CATEGORY": "Kozmetik",
     "PROVIDE_CARD_CODE": "{{author}} Doğru kullanım: `{{prefix}}tt <CardCode>`",
-    "INAVLID_CARD_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
+    "INAVLID_CARD_CODE": "{{author}} Sağladığınız kart kodu ya geçersiz ya da koleksiyonunuzda yok",
     "INVALID_CODE": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
     "CANNOT_FIND_CARD": "{{author}} Bu karakter artık yok!",
     "CANNOT_TOGGLE": "{{author}} \"3D\" veya \"GIF\" kartlarının metnini değiştiremezsiniz",

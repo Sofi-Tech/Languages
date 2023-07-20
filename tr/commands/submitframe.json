@@ -7,7 +7,7 @@
     "SF_NEED_SILVERS": "<:_:979009081325019156> Bir 'Frame' önergesi size **3000** `Silver`a mal olacak",
     "SF_DESCRIPTION": "\"Frame\" Önergesi oluşturur",
     "SF_CATEGORY": "Ayarlar",
-    "SF_CORRECT_USAGE": "Doğru kullanım: `{{prefix}}sf <ImageURL> <FrameName>`",
+    "SF_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}sf <ImageURL> <FrameName>`",
     "MAXIMUM_NAME_LENGTH": "{{author}} Bir `Frame` adı en fazla 20 karakter içerebilir",
     "SF_VALID_DIMENSION": "{{author}} Gönderilen `Frame` in boyutları **402** x **603** (Genişlik x Yükseklik) olmalıdır",
     "SUBMIT_FRAME_CONFIRMATION": "Bu `Frame` **3000** `Silver` için göndermek istiyor musunuz?",

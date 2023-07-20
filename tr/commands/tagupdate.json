@@ -17,5 +17,5 @@
     "REPLACE_EMOJI": "{{emoji}} nin değiştirilmesini istediğiniz emojiyi girin",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Bu, geçersiz bir emoji",
     "REPLACE_EMOJI_CONFIRMATION": "Bu `Tag`'ın {{oldEmoji}} olan emojisini {{newEmoji}} olarak değiştirmek istediğinizden emin misiniz?",
-    "REPLACE_EMOJI_SUCCESSFUL": "Bu `Tag`'ın {{oldEmoji}} olan emojisi {{newEmoji}} olarak başarıyla güncellendi"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Bu `Tag`'ın {{oldEmoji}} olan emojisi {{newEmoji}} olarak başarıyla güncellendi"
 }
