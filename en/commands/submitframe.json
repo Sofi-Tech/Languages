@@ -10,7 +10,7 @@
   "SUBMIT_FRAME_CONFIRMATION": "Do you want to submit this `Frame` for **3000** `Silver`?",
   "SUBMIT_FRAME_DENY": "You don't have enough `Silver` for this process",
   "SUBMIT_FRAME_SUCCESSFUL": "You have successfully submitted the `Frame`",
-  "SF_GUIDELINES_TITLE": "'SOFI: Frame Submission Guidelines'",
+  "GUIDELINES_EMBED_TITLE": "'SOFI: Frame Submission Guidelines'",
   "SF_DIMENSION_INFO": "<:_:979009081325019156> The dimensions of the submitted image must be `402x603`",
   "SF_FILETYPE_INFO": "<:_:979009081325019156> The submitted image **must** be a `.PNG` file to keep its transparency",
   "SF_LINK_INFO": "<:_:979009081325019156> The submitted image **must** be hosted on discord's servers `cdn.discordapp.com` or `media.discordapp.net`",
@@ -20,5 +20,6 @@
   "SF_MAXIMUM_INFO": ":notepad_spiral: __Additional Info__:\n",
   "SF_COST_INFO": "<:_:979009081325019156> Submitting an image will cost **3,000** `Silver`",
   "SF_ROTATION_INFO": "<:_:979009081325019156> Approved `Frames` will be available in our `Frame Shop` rotation and have a maximum stock of **100**",
-  "SF_ATTACHMENT_INFO": "<:_:979009081325019156> You can download a test [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) to get a better feeling for our requirements. We also have files on our official **Guideline Channel** for an easier start."
+  "SF_ATTACHMENT_INFO": "<:_:979009081325019156> You can download a test [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) to get a better feeling for our requirements. We also have files on our official **Guideline Channel** for an easier start.",
+  "SF_EMBED_FOOTER": "Your submissions: {{userStats}}/{{submitted}} | Total submissions: {{globalStats}}/{{allSubmit}}"
 }
