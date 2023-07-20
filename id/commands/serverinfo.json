@@ -3,5 +3,12 @@
     "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_SPAWN_CHANNEL": "Channel Spawn",
     "SI_TOTAL_DROPS": "Total Drop",
-    "SI_DESCRIPTION": "Tampilkan statistik server"
+    "SI_DESCRIPTION": "Tampilkan statistik server",
+    "SI_TOTAL_BURNT": "Total terbakar",
+    "SI_TOTAL_GRABS": "Total yang Diambil",
+    "SI_TOTAL_GIVEN": "Total yang Diberikan",
+    "SI_TOTAL_TRADES": "Total Perdagangan",
+    "SI_TOP_SERVERS": "**Server Teratas** | Menyetel ulang: **{{countdown}}**",
+    "EMBED_FOOTER": "Server Prefix: \"{{prefix}}\"",
+    "SI_NAME_UNAVAILABLE": "Nama tidak tersedia"
 }

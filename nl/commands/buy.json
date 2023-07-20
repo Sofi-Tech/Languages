@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Voer geen negatieve getallen in",
     "INVALID_BG_ID": "Voer een geldige achtergrond-ID in",
     "NO_ITEM_PROVIDED": "Geen item opgegeven",
-    "INVALID_AMOUNT": "Er is een ongeldig bedrag opgegeven",
+    "INVALID_AMOUNT": "{{author}} Je kunt geen negatieve hoeveelheid `{{eventItem}}` geven",
     "INVALID_ITEM_PROVIDED": "{{USER}} Ongeldig item opgegeven"
 }

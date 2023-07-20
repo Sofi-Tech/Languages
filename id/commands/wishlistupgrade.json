@@ -1,15 +1,16 @@
 {
-  "DESCRIPTION": "Tambah kapasitas wishlist anda",
-  "CATEGORY": "Wishlist",
-  "ALREADY_MAXED": "> {{author}} Slot wishlist anda sudah penuh!",
-  "EMBED_DESCRIPTION": "Apakah anda ingin membeli {{count}} slot tambahan dengan harga {{amount}} {{currency}}?",
-  "EMBED_PAY_FIELD_NAME": "Anda membayar:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Anda mendapatkan:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} slot ekstra wishlist ```",
-  "EMBED_MAXED_DESCRIPTION": "Apakah anda ingin memaksimalkan slot wishlist seharga {{amount}} {{currency}}?",
-  "EMBED_MAXED_FIELD_VALUE": "```Wishlist telah terbuka semua (50 Slot)```",
-
-  "CANCELLED": "DIBATALKAN",
-  "PAY_ERROR": "`Anda tidak memiliki {{amount}} {{currency}}`"
+    "DESCRIPTION": "Tambah kapasitas wishlist anda",
+    "CATEGORY": "Wishlist",
+    "ALREADY_MAXED": "{{author}} Anda tidak dapat mengupgrade daftar keinginan anda lagi",
+    "EMBED_DESCRIPTION": "Apakah Anda yakin ingin membeli **{{count}}** slot tambahan untuk **{{amount}}** `{{currency}}`?",
+    "EMBED_PAY_FIELD_NAME": "Anda membayar:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Anda menerima:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} slot daftar keinginan tambahan```",
+    "EMBED_MAXED_DESCRIPTION": "Apakah Anda yakin ingin membuka kunci daftar keinginan anda sepenuhnya sebesar **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_FIELD_VALUE": "```Slot daftar keinginan maksimum (50 Slot)```",
+    "CANCELLED": "Proses telah dibatalkan",
+    "PAY_ERROR": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk transaksi ini",
+    "EMBED_TITLE": "SOFI: PENINGKATAN DAFTAR KEINGINAN",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Berhasil meningkatkan daftar keinginan anda"
 }

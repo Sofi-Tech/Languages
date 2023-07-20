@@ -1,1 +1,16 @@
-{}
+{
+    "NOT_ENOUGH_AMOUNT": "Je hebt niet genoeg `{{item}}` voor deze transactie",
+    "SWAP_EMBED_FOOTER": "Dit proces zal de kaartcodes van deze twee kaarten wisselen",
+    "NEED_GEMS": "Je hebt **500** `Gems` nodig om deze aankoop te doen",
+    "YOU_GET": "Je ontvangt: {{additionalInfo}}",
+    "GUILD_FOUNDER": "Oprichter",
+    "GUILD_MASTER": "Gilde Meester",
+    "GUILD_VETERANS": "Veteranen",
+    "GUILD_ADVENTURER": "Avonturier",
+    "BUY_EMBED_TITLE": "TRANSACTIE:",
+    "YOU_PAY": "Je betaalt: {{additionalInfo}}",
+    "SWAP_EMBED_TITLE": "Code ruilen",
+    "CODE_ONE": "<:linedown:868888105611046942> Code Eén",
+    "CODE_TWO": "<:linedown:868888105611046942> Code Twee",
+    "SOMETHING_WENT_WRONG": "Er is iets fout gegaan! Elk afgetrokken `Item` is weer toegevoegd aan je `Inventory`"
+}

@@ -2,14 +2,15 @@
     "FC_DESCRIPTION": "पत्ते के फ़ॉन्ट रंग को बदलने के लिए \"Glow\" लगाया जाता है",
     "FC_CATEGORY": "COSMETICS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "NOT_CARD_OWNER": "{{author}} आपने जो कार्ड कोड प्रदान किया वह अवैध है या यह आपका नहीं है",
+    "NOT_CARD_OWNER": "{{author}} आपने जो कार्ड कोड प्रदान किया वह अवैध है या आपके संग्रह में नहीं है",
     "3D_ERROR": "{{author}} आप 3डी पत्ते के फ़ॉन्ट रंग को नहीं बदल सकते हैं",
     "PROVIDE_GLOWCODE": "{{author}} सही उपयोग: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} Glow कोड हमेशा **#** से शुरू होते हैं",
-    "CANNOT_FIND_GLOW": "{{author}} यह Glow कॉड अवैध है या आप इसके मालिक नहीं हैं",
+    "CANNOT_FIND_GLOW": "{{author}} यह Glow कॉड अवैध है या आपकी Inventory में मौजूद नहीं है",
     "EMBED_TITLE": "SOFI : फ़ॉन्ट रंग{{reset}}",
-    "COLOR_NAME": "नाम: {{name}}",
+    "COLOR_NAME": "नाम: **{{name}}**",
     "COLOR_CODE": "कोड: `{{code}}`",
-    "GLOW_UNAVAILABLE": "उस Glow के पास कोई चार्ज नहीं है इसलिए वह लगाया नहीं जा सकता",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "पत्ते के फ़ॉन्ट रंग सफलतापूर्वक बदल दिया गया है"
+    "GLOW_UNAVAILABLE": "{{author}} उस Glow में कोई चार्ज नहीं है",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} पत्ते का फ़ॉन्ट रंग सफलतापूर्वक बदल दिया गया है",
+    "PROCESS_CANCELLED": "प्रक्रिया रद्द की गई"
 }

@@ -1,15 +1,16 @@
 {
-  "DESCRIPTION": "İstek listenizin kapasitesini artırır",
-  "CATEGORY": "İstek listesi",
-  "ALREADY_MAXED": "> {{author}} İstek listenizdeki yuvalar zaten dolmuş durumda!",
-  "EMBED_DESCRIPTION": "{{amount}} {{currency}} karşılığında {{count}} fazladan yuva satın almak istiyor musunuz?",
-  "EMBED_PAY_FIELD_NAME": "Ödeyeceğiniz tutar:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Sahip olacağınız slot sayısı:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} adet yeni dilek listesi slotu```",
-  "EMBED_MAXED_DESCRIPTION": "{{amount}} {{currency}} karşılığında dilek listesi yuvalarınızı maksimuma çıkarmak istiyor musunuz?",
-  "EMBED_MAXED_FIELD_VALUE": "```Tamamen açılmış bir İstek Listesi (50 Yuva)``````",
-
-  "CANCELLED": "İPTAL EDİLDİ",
-  "PAY_ERROR": "`{{amount}} {{currency}} sahip değilsiniz`"
+    "DESCRIPTION": "İstek listenizin kapasitesini artırır",
+    "CATEGORY": "İstek listesi",
+    "ALREADY_MAXED": "{{author}} İstek listenizi artık yükseltemezsiniz",
+    "EMBED_DESCRIPTION": "**{{amount}}** `{{currency}}` karşılığı **{{count}}** ekstra yuva satın almak istediğinizden emin misiniz?",
+    "EMBED_PAY_FIELD_NAME": "Ödeyeceğiniz tutar:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Aldığın:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} Ek dilek listesi slotları```",
+    "EMBED_MAXED_DESCRIPTION": "`{{currency}}`Karşılığı **{{amount}}** dilek listenizin kilidini tamamen açmak istediğinizden emin misiniz?",
+    "EMBED_MAXED_FIELD_VALUE": "```Maksimum dilek listesi slotu (50 Slot)```",
+    "CANCELLED": "İşlem İptal Edildi",
+    "PAY_ERROR": "{{author}} Bu işlem için yeterli \"{{currency}}\" elinizde bulunmuyor",
+    "EMBED_TITLE": "SOFI: DİLEK LİSTESİ YÜKSELTME",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Dilek listenizi başarıyla yükselttiniz"
 }

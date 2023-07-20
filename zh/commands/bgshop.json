@@ -2,9 +2,9 @@
     "BGS_DESCRIPTION": "显示\"背景商店\"",
     "BGS_CATEGORY": "化妆品",
     "BGS_SLASH_DESC": "输入您正在寻找的\"Background\"的代码",
-    "EMBED_TITLE": "SOFI: 3D背景",
-    "APPLY_BG": "如要应用`Background`，请使用`sbg <code> <bgID>`命令",
-    "VIEW_BACKGROUNDS": "点击此处查看所有`Backgrounds`",
+    "EMBED_TITLE": "SOFI: `BACKGROUND` SHOP",
+    "APPLY_BG": "\n使用 `{{prefix}}buy bg <Background-ID> <Amount>` 购买 `Backgrounds`",
+    "VIEW_BACKGROUNDS": "[点此处来查看所有`Backgrounds`](<https://sofi.gg/backgrounds>)",
     "SHOWING_PAGE": "正在显示页面： {{page}}/{{pages}}",
-    "NO_BG_FOUND": "{{author}}这不是一个有效的`Background`ID"
+    "NO_BG_FOUND": "{{author}} 这不是一个有效的`Background`-ID"
 }

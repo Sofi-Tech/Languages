@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} ليس لديك أي `Tags` بعد. تستطيع انشاء واحد عن طريق `{{prefix}}tc <TagName> <Emoji>`",
     "TAG_NOT_FOUND": "{{author}} لا يوجد لديك أي علامة بالاسم `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} ليس لديك أي بطاقة بعد",
-    "INVALID_CARD_CODE": "{{author}} رمز البطاقة الذي قدمته غير صالح",
+    "INVALID_CARD_CODE": "{{author}} رمز البطاقة الذي قدمته غير صالح أم انه غير موجود في مجموعتك",
     "SUCCESSFUL_TAG": "{{author}} | تم وضع العلامة {{tag}} بنجاح على {{card}}",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} تم وضع علامات على تلك البطاقات بنجاح"
 }

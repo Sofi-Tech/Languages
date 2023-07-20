@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "İstek listenizi bir kanala ayarlar",
     "CATEGORY": "İstek listesi",
-    "CHANNEL_SET": "> İstek listeniz {{channel}} kanalına ayarlandı",
-    "CHANNEL_REMOVE": "> İstek listeniz {{channel}} kanalından kaldırıldı"
+    "CHANNEL_SET": "{{author}} İstek listeniz {{channel}} kanalına ayarlandı",
+    "CHANNEL_REMOVE": "{{author}} Dilek listeniz {{channel}} kanalından kaldırıldı"
 }

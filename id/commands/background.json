@@ -8,5 +8,5 @@
     "USER_NO_BG": "{{author}} Anda tidak memiliki `Background` itu",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <Background-ID>`",
-    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** `Background` telah berhasil dilampirkan ke kartu Anda"
+    "BG_APPLY_SUCCESSFUL": "{{author}} Berhasil menerapkan **{{background}}** `Background` ke kartu Anda"
 }

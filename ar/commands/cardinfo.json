@@ -2,7 +2,7 @@
     "DESCRIPTION": "يظهر معلومات البطاقة",
     "SLASH_DESC": "أدخل رمز البطاقة التي تبحث عنها",
     "NO_CARD_FOUND": "لا يمكن العثور على بطاقتك الأخيرة. حاول توفير رمز البطاقة",
-    "INVALID_CARD_CODE": "{{author}} رمز البطاقة الذي قدمته غير صالح",
+    "INVALID_CARD_CODE": "{{author}} رمز البطاقة الذي قدمته غير صالح أم انه غير موجود في مجموعتك",
     "CARD_MORPHED": "البطاقة مغيرة المظهر",
     "CARD_GLOWED": "تم إضاؤة البطاقة بـ __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "لون الخط: {{fontName}} [`#{{ viewCode}}`]\n",

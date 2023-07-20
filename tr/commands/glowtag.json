@@ -1,9 +1,12 @@
 {
-    "GT_DESCRIPTION": "\"Glow\"larına \"Tag\" verir",
+    "GT_DESCRIPTION": "\"Glows\" larınıza bir \"Tag ekler",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz herhangi bir `Glow Tags`ınız yok. `{{prefix}}gtc <Name> <Emoji>` komutu ile oluşturabilirsiniz",
-    "GLOWS_NOT_UNLOCKED": "{{author}} henüz hiç `Glow`unuz yok",
-    "INVALID_GLOW_CODE": "{{author}} sağlanan `Glow` kodlarından bir veya birden fazlası geçersiz",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz herhangi bir `Glow Tag`ınız yok. Bunları şu komutla oluşturabilirsiniz: `{{prefix}}gtc <İsim> <Emoji>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} henüz hiç `Glow` unuz yok",
+    "INVALID_GLOW_CODE": "{{author}} Sağladığınız `Glow` kodlarından en az biri geçersiz veya `Inventory`nizde yok",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** başarıyla `{{tag}}` olarak etiketlendi",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tüm `Glow`lar başarıyla etiketlendi"
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tüm `Glows` başarıyla şu şekilde etiketlendi: `{{tag}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Sağladığınız `Glow` kodu geçersiz veya `Inventory` nizde bulunmamakta",
+    "GLOW_TAG_INVALID": "{{author}} Şu ada sahip herhangi bir `Glow Tag`ınız yok: `{{tagname}}`",
+    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gt <TagName> <GlowCode>`"
 }

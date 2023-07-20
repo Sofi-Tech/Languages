@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "使用您在卡片上购买的框架",
     "UF_CATEGORY": "化妆品",
     "UF_INVALID_USAGE": "{{author}}{{prefix}}suf <code> <framename/framecode>",
-    "INVALID_CODE": "{{author}} 卡片代码无效或不在您的收藏中",
+    "INVALID_CODE": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
     "CANNOT_APPLY": "{{author}}您无法为 3D 卡片使用框架",
     "NO_GIF": "{{author}} gif 卡片无法加框架",
     "NO_FRAMES_FOUND": "{{author}} 找不到框架",

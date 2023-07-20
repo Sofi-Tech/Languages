@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Setel wishlist anda di sebuah channel",
     "CATEGORY": "Wishlist",
-    "CHANNEL_SET": "> Wishlist anda telah disetel di {{channel}}",
-    "CHANNEL_REMOVE": "> Wishlist anda telah dihapus dari {{channel}}"
+    "CHANNEL_SET": "{{author}} Daftar keinginan anda telah ditetapkan di {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} Daftar keinginan anda telah dihapus dari {{channel}}"
 }

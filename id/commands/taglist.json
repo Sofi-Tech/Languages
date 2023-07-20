@@ -3,7 +3,7 @@
     "TL_CATEGORY": "Tag",
     "NO_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
     "NO_TAGS": "{{author}} User tersebut belum memiliki `Tags`",
-    "EMBED_TITLE": "{{username}} Daftar `Tag`",
+    "EMBED_TITLE": "SOFI: DAFTAR `LIST` ({{username}})",
     "SOFI_FACT": "Catatan: Membuat \"Tag\" dengan nama \"kunci\" dan emoji \"🔒\" akan mencegah anda membakar atau bertukar kartu dengan \"Tag\" itu\nContoh: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Total: {{count}}"
 }

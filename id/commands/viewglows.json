@@ -16,7 +16,8 @@
     "STATUS": "`Status:` ➜**{{status}}**",
     "TYPE": "`Tipe:     ` ➜ {{type}}",
     "OWNER": "`Pemilik:    ` ➜ <@{{ownerId}}>",
-    "PURITY": "```Kemurnian:  ➜ {{purity}}\nkemurnian:  ➜ {{purity2}}```",
+    "PURITY": "Kemurnian : ➜ {{purity}}",
     "NO_GLOWS_SELF": "{{author}} Anda belum memiliki `Glows`",
-    "INVALID_USER": "{{author}} Tidak dapat menemukan pengguna tersebut"
+    "INVALID_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
+    "PURITY2": "Kemurnian2: ➜ {{purity2}}"
 }

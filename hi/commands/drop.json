@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "3 पत्तो का Drop करता है\nबिना चित्र के Drop करने हेतु \"{{prefix}}dn\" का प्रयोग करे",
     "JOIN_SUPPORT_SERVER": "[मदद के लिए सहायता सर्वर ज्वॉइन करें!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} आपके **Extra Drop** का उपयोग हो रहा है। आपके पास `{{remaining}}`ड्रॉप बचे हैं",
+    "EXTRA_DROP_ALERT": "{{author}} आपके **Extra Drop** का उपयोग हो रहा है। आपके पास `{{remaining}}`Drop शेष हैं",
     "ON_CD": "{{author}} {{dropCd}} समय बाद कोशिश करे",
     "VOTE": "Vote",
     "BUY_DROP": "\nआप Vote करके Wist पा सकते है जिससे आप Drop खरीद सकते है\n`{{prefix}}buy drop <Amount>` का प्रयोग करे Drop खरीदने के लिए",

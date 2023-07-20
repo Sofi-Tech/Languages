@@ -3,7 +3,7 @@
     "GN_CATEGORY": "Kosmetik",
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <KodeGlow> <NamaBaru>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan `#`",
     "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di 'Inventory'",
     "PROVIDE_GLOW_NAME": "{{author}} Anda perlu memberikan nama untuk `Glow` ini",
     "GLOW_NAME_LONG": "{{author}} Nama `Glow` dapat terdiri dari maksimal 25 karakter",
@@ -12,5 +12,8 @@
     "GLOWNAME_CHANGE_CONFIRMATION": "Apakah anda yakin ingin mengubah `{{oldName}}` menjadi `{{newName}}`?",
     "EMBED_FOOTER": "Glow: {{availability}}",
     "MISSING_ITEMS": "Anda tidak memiliki mata uang yang cukup untuk proses ini",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Nama `Glow` berhasil diubah"
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Nama `Glow` berhasil diubah",
+    "UNAVAILABLE": "Tidak tersedia",
+    "PROFANE_GLOW_NAME": "{{author}} ada yang salah dengan namanya. Coba yang lain",
+    "AVAILABLE": "Tersedia"
 }

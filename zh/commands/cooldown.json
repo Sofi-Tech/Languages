@@ -4,7 +4,7 @@
     "DROP": "水晶掉落",
     "GRAB": "领取",
     "VOTE": "投票",
-    "BUMP": "顶帖",
+    "BUMP": "Bump",
     "DAILY": "日常",
     "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` 邮件未读 | 使用 `{{customPrefix}}mail` 命令查看邮件！"
 }

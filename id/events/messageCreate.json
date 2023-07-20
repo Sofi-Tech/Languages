@@ -10,7 +10,7 @@
     "SUSPICIOUS_TRANSACTIONS": "- Melakukan transaksi/tukar yang mencurigakan di Sofi",
     "VERIFY_TO_PLAY": "[Verifikasi diri anda di situs kami untuk bermain!](<https://sofi.gg/verify>)",
     "USER_QUARANTINED": "Pengguna tersebut {{isQuarantined}}",
-    "USER_BLACKLISTED": "Pengguna tersebut masuk dalam daftar hitam",
+    "USER_BLACKLISTED": "{{author}} Pengguna tersebut masuk dalam daftar hitam",
     "GLOBAL_COOLDOWN": "> [`Global`] Tunggu **{{cooldown}}** sebelum menggunakan perintah lagi",
     "COMMAND_BLACKLISTED": "> Perintah `{{commandName}}` telah dinonaktifkan di channel ini",
     "REQUIRE_CLIENT_PERMISSIONS": "` Saya memerlukan: {{permissions}} untuk menjalankan perintah ini`",

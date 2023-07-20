@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "İstek listenden bir karakteri kaldırır",
     "CATEGORY": "İstek listesi",
-    "NO_INDEX": "İsim veya numara belirtilmedi! Tüm istek listeni temizlemek için `swr full reset` komutunu kullan",
-    "FULL_RESET": "> {{author}} İstek listenden **__{{total}}__** karakter çıkardın",
-    "REMOVE_CHARACTER": "> {{author}} **{{name}}** istek listenden çıkarıldı",
-    "NO_RESULTS": "{{author}} İstek listenizde **\"{{name}}\"** bulunamadı"
+    "NO_INDEX": "{{author}} Doğru kullanım: `{{prefix}}wr <Ad/Numara>`. Dilek listenizin tamamını temizlemek için \"{{prefix}}wr full reset\" komutunu kullanın",
+    "FULL_RESET": "{{author}} Dilek listenizdeki tüm karakterleri başarıyla kaldırdı",
+    "REMOVE_CHARACTER": "{{author}} **{{name}}** Dilek listenizden başarıyla kaldırıldı",
+    "NO_RESULTS": "{{author}} Dilek listenizde `{{name}}` adında bir karakter yok"
 }

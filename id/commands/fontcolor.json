@@ -11,5 +11,6 @@
     "COLOR_NAME": "Nama: **{{name}}**",
     "COLOR_CODE": "Kode: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} `Glow` tidak memiliki charges yang tersisa",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah warna font kartu"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah warna font kartu",
+    "PROCESS_CANCELLED": "Proses telah dibatalkan"
 }

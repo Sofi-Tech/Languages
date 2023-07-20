@@ -2,7 +2,7 @@
     "UF_DESCRIPTION": "Kartınıza bir \"Frame\" uygular",
     "UF_CATEGORY": "Kozmetik",
     "UF_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz veya koleksiyonunuzda bulunmamakta",
+    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
     "CANNOT_APPLY": "{{author}} Bir `3D` karta `Frame` uygulayamazsınız",
     "NO_GIF": "{{author}} Bir `GIF` kartına `Frame` uygulayamazsınız",
     "NO_FRAMES_FOUND": "{{author}} Bu `Frame` kodu geçersiz veya `Inventory`nizde yok",

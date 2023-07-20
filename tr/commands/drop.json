@@ -1,8 +1,9 @@
 {
-    "DESCRIPTION": "- Bu komut her 8 dakikada bir kullanılabilir ve 3 kart düşürür.\n- Fotoğraf olmadan düşürmek için \"sdn\" komutunu kullan. Mobil veri az olduğunda veya gecikmeyi önlemek adına yardımcıdır.",
+    "DESCRIPTION": "Bir grup kart oluştururp \"Drop\"'lar\nGörsel olmadan bir \"Drop\" oluşturmak için \"{{prefix}}dn\" komutunu kullanın",
     "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katıl](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. `{{remaining}}` kaldı.",
+    "EXTRA_DROP_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. **{{remaining}}** kaldı",
     "ON_CD": "{{author}} `Drop`unuz {{dropCd}} içinde hazır olacak",
     "VOTE": "Oy",
-    "BUY_DROP": "\nAyrıca `Wist` elde etmek için `Vote` verebilir ve onlarla `Drops` satın alabilirsin!\nBunu yapmak için `sbuy drop <amount>` komutunu kullanınız"
+    "BUY_DROP": "\nAyrıca `Wists` almak için `Vote` verebilir ve onlarla `Drops` satın alabilirsiniz!\n`Drops` satın almak için `{{prefix}}buy drop <Miktar>` komutunu kullanın",
+    "DROPPING_CARD": "{{author}} Kart `Drop`'luyor\n"
 }

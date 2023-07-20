@@ -2,9 +2,9 @@
     "UG_DESCRIPTION": "Menghasilkan \"Glow\" acak",
     "UG_CATEGORY": "Kosmetik",
     "EMBED_TITLE": "SOFI: Membuka GLOW",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} Apakah anda yakin ingin membeli 'Glow' acak seharga 100 {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "Transaksi telah dibatalkan",
-    "NOT_ENOUGH_GEMS": "Anda tidak memiliki cukup 'Gems'",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} Apakah anda yakin ingin membeli 'Glow' acak seharga **100** {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "Proses telah dibatalkan",
+    "NOT_ENOUGH_GEMS": "{{author}} Anda tidak memiliki cukup 'Gems'",
     "EMBED_GLOW_TITLE": "SOFI: MENGHASILKAN GLOW",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} Anda telah membuka **{{glowName}}**`#{{glowCode}}`"
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Anda telah mendapatkan **{{glowName}}** `Glow` | `#{{glowCode}}`"
 }

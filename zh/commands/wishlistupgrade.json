@@ -1,15 +1,16 @@
 {
-  "DESCRIPTION": "升级你的愿望清单",
-  "CATEGORY": "心愿单",
-  "ALREADY_MAXED": "> {{author}} 你的愿望清单槽已经达到最大值",
-  "EMBED_DESCRIPTION": "你想用{{amount}} {{currency}}购买额外的{{count}}个槽吗?",
-  "EMBED_PAY_FIELD_NAME": "你支付:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "你得到:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} 个额外的愿望清单槽```",
-  "EMBED_MAXED_DESCRIPTION": "你想用{{amount}} {{currency}}最大化你的愿望清单槽吗？",
-  "EMBED_MAXED_FIELD_VALUE": "```最大化到50个愿望清单槽```",
-
-  "CANCELLED": "已取消",
-  "PAY_ERROR": "`你没有足够的{{amount}} {{currency}}`"
+    "DESCRIPTION": "增加您心愿单的容量",
+    "CATEGORY": "心愿单",
+    "ALREADY_MAXED": "{{author}} 您无法在升级您的心愿单了",
+    "EMBED_DESCRIPTION": "您确定要用 **{{amount}}** `{{currency}}` 购买 **{{count}}** 个额外槽位吗？",
+    "EMBED_PAY_FIELD_NAME": "您付:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "您得到:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} 个额外心愿单槽位```",
+    "EMBED_MAXED_DESCRIPTION": "您确定要想用 **{{amount}}** `{{currency}}`来彻底开阔您的心愿单吗？",
+    "EMBED_MAXED_FIELD_VALUE": "```最多心愿单槽位限度 （50 槽位）```",
+    "CANCELLED": "过程已取消",
+    "PAY_ERROR": "{{author}} 您没有足够的 `{{currency}}`",
+    "EMBED_TITLE": "SOFI: 心愿单升级",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} 心愿单升级成功"
 }

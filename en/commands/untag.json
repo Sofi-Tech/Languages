@@ -5,6 +5,6 @@
     "INVALID_CODE": "{{author}} That card code is either invalid or not in your `Inventory`",
     "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the `Tag` from your **{{cardName}}** card",
     "MULTIPLE_UNTAG_one": "",
-    "MULTIPLE_UNTAG_other": "{{author}} Successfully removed the `Tag` of **{{count}}** cards",
+    "MULTIPLE_UNTAG_other": "{{author}} Successfully removed the `Tag` from **{{count}}** cards",
     "INVALID_CODE_MULTIPLE": "{{author}} The following card codes are either invalid or not in your `Inventory`:\n{{invalidCodeList}}"
 }

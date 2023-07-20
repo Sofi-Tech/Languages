@@ -11,5 +11,6 @@
     "COLOR_NAME": "名称：{{name}}",
     "COLOR_CODE": "代码：`{{code}}`",
     "GLOW_UNAVAILABLE": "该“Glow”没有充电",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "成功更改了卡的字体颜色"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "成功更改了卡的字体颜色",
+    "PROCESS_CANCELLED": "过程已取消"
 }

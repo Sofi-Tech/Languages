@@ -10,7 +10,7 @@
     "SUSPICIOUS_TRANSACTIONS": "- Sofi'de şüpheli işlemlere veya alım satımlara karışmak",
     "VERIFY_TO_PLAY": "[Oynamak için web sitemizde kendinizi doğrulayın!](<https://sofi.gg/verify>)",
     "USER_QUARANTINED": "Bu kullanıcı {{isQuarantined}}",
-    "USER_BLACKLISTED": "Bu kullanıcı kara listede",
+    "USER_BLACKLISTED": "{{author}} Bu kullanıcı kara listede",
     "GLOBAL_COOLDOWN": "> [`Global`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekle",
     "COMMAND_BLACKLISTED": "> Bu kanalda `{{commandName}}` komutu devre dışı edilmiştir",
     "REQUIRE_CLIENT_PERMISSIONS": "`Bu komutu yürütmek için {{permissions}} yetkilerine ihtiyacım var`",

@@ -1,7 +1,8 @@
 {
     "DESCRIPTION": "Bir kullanıcının mevcut \"Fragments\"larını listeler",
     "COLLECTION_PVT": "{{author}} Bu kullanıcının 'Fragment' sekmesi gizlidir!",
-    "CANNOT_FIND_FRAGS": "{{user}} Bu kullanıcıda herhangi bir `Fragment` bulunamadı",
-    "FRAGS_COUNT": "`Fragment` sayısı: {{totalCount}}",
-    "FRAG_LIST": "`Fragment` Listesi: {{userName}}"
+    "CANNOT_FIND_FRAGS": "{{user}} Bu kullanıcının herhangi bir `Fragments`'i yok",
+    "FRAGS_COUNT": "Toplam: {{totalCount}}",
+    "FRAG_LIST": "{{userName}}'ın `Fragments`'ları",
+    "CANNOT_FIND_SELF": "{{user}} Henüz hiç`Fragments`'ınız yok"
 }

@@ -3,7 +3,7 @@
     "GN_CATEGORY": "Kozmetik",
     "UNLOCK_GLOWS": "{{author}} Henüz hiç `Glows` unuz bulunmamaktadır",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowCode> <NewName>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları herzaman **#** ile başlar",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları her zaman `#` ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya öğe `Inventory`nizde bulunmuyor",
     "PROVIDE_GLOW_NAME": "{{author}} Bu `Glow` için bir ad belirlemeniz gerekiyor",
     "GLOW_NAME_LONG": "{{author}} `Glow` adları en fazla 25 karakter içerebilir",

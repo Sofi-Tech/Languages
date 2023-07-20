@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "يجب أن يكون مبلغ الخلفية إيجابيًا",
     "INVALID_BG_ID": "يرجى تقديم معرف خلفية صالح",
     "NO_ITEM_PROVIDED": "لم يتم توفير عنصر",
-    "INVALID_AMOUNT": "كمية غير متاحة",
+    "INVALID_AMOUNT": "{{author}} لا تستطيع ان تهدي كمية غير متاحة `{{eventItem}}`",
     "INVALID_ITEM_PROVIDED": "{{USER}} تم تقديم عنصر غير صالح"
 }
