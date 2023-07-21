@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "आपकी इच्छा सूची से पात्र (character) हटाता है",
-    "CATEGORY": "इच्छासूची",
+    "CATEGORY": "WISHLIST",
     "NO_INDEX": "नाम या नंबर नहीं दिया गया | पूरी पसंदीदा सूची को हटाने के लिए `swr full reset` उपयोग करें",
     "FULL_RESET": "> {{author}} ने आपनी इच्छा सूची से {{total}} पात्र हटा दिए हैं",
     "REMOVE_CHARACTER": "> {{author}} ने आपनी इच्छा सूची से {{name}} हटा दिया है",

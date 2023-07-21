@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "ウィッシュリストにキャラクターを追加する",
-    "CATEGORY": "ウィッシュリスト",
+    "CATEGORY": "欲しいものリスト",
     "ADD_CHARACTERS_ERROR": "> ウィッシュリストにこれ以上キャラクターを追加できません",
     "SEARCH_CHARACTER_ERROR": "追加するキャラクター名を入力してください\n完全一致検索は `swa -f <name>` を使用してください",
     "NO_CHARACTER_FOUND": "キャラクターが見つかりませんでした\n完全一致検索は `swa -f <name>` を使用してください",

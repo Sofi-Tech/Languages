@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "ウィッシュリストからキャラクターを削除します",
-    "CATEGORY": "ウィッシュリスト",
+    "CATEGORY": "欲しいものリスト",
     "NO_INDEX": "名前や番号は提供されていません！ ウィッシュリスト全体をクリアするには、コマンド`swr full reset`を使用してください",
     "FULL_RESET": "> {{author}} がウィッシュリストから{{total}}キャラクターを削除しました",
     "REMOVE_CHARACTER": "> {{author}} が{{name}}をウィッシュリストから削除しました",

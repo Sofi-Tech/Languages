@@ -1,5 +1,5 @@
 {
-    "INVALID_AMOUNT": "{{author}} Vous ne pouvais pas offrir un montant négatif de `{{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} Vous ne pouvez pas offrir un montant négatif de `{{eventItem}}`",
     "GIFT_SLASH_DESC2": "Entrer le montant de `{{eventItem}}` que vous voulez offrir",
     "GIFT_SUCCESSFUL": "{{author}} a offert **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} à reçu un total de **{{recieveCount}}** `{{eventItem}}`",
     "GIFT_CATEGORY": "Cards",
