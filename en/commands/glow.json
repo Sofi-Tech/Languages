@@ -1,7 +1,7 @@
 {
     "GLOW_DESCRIPTION": "Applies a \"Glow\" effect to your card",
     "GLOW_CATEGORY": "Cosmetics",
-    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glow <CardCode> <GlowCode>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
     "CARD_NOT_FOUND": "{{author}} You do not have any cards in your collection yet",
     "NO_GIF_CARDS": "{{author}} You cannot apply a `Glow` to a `GIF` variant",
@@ -11,12 +11,12 @@
     "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
     "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
     "GLOW_PROCESSING": "Processing your request...<a:loading:876610443148406794>",
-    "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
-    "GLOW_NAME": "Name: {{name}}",
-    "GLOW_CODE": "Code: #{{code}}",
+    "EMBED_SG_TITLE": "SOFI: APPLY `SUPER GLOW`",
+    "GLOW_NAME": "Name: **{{name}}**",
+    "GLOW_CODE": "Code: `#{{code}}`",
     "EMBED_FOOTER": "Glow: {{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} The `Glow` has no charges left",
-    "GLOW_APPLY_SUCCESSFUL": "The `Glow` was successfully applied",
-    "UNAVAILABLE": "Unavailable",
-    "AVAILABLE": "Available"
+    "GLOW_APPLY_SUCCESSFUL": "{{author}} Successfully applied the `Glow` to your card",
+    "UNAVAILABLE": "Empty",
+    "AVAILABLE": "Charged"
 }

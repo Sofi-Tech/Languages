@@ -14,6 +14,6 @@
     "EMBED_FOOTER": "Glow: {{availability}}",
     "MISSING_ITEMS": "You don't have enough currency for this process",
     "GLOWNAME_CHANGE_SUCCESSFUL": "The `Glow` name was successfully changed",
-    "UNAVAILABLE": "Unavailable",
-    "AVAILABLE": "Available"
+    "UNAVAILABLE": "Empty",
+    "AVAILABLE": "Charged"
 }

@@ -6,5 +6,6 @@
     "NO_CHARACTER_FOUND": "キャラクターが見つかりませんでした\n完全一致検索は `swa -f <name>` を使用してください",
     "CHARACTER_ALREADY_EXISTS": "{{name}} は既にウィッシュリストに存在しています",
     "CHARACTER_ADDED": "> {{author}} | {{name}} をあなたのウィッシュリストに追加しました",
-    "EMBED_TITLE": "<:lined:868888105611046942> __ウィッシュリストに追加__"
+    "EMBED_TITLE": "<:lined:868888105611046942> __ウィッシュリストに追加__",
+    "INCREASE_CAPACITY": "欲しいものリストスロット拡張するには"
 }
