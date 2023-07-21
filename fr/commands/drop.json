@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "- Cette commande fera drop 3 cartes et elle peut être utilisées toutes les 8 minutes.\n- Utilisez la commande \"sdn\" pour drop des cartes sans images. Utile lorsque vous êtes à court de données ou que vous ne voulez pas de lag.",
-    "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide](https://discord.gg/sofi)",
+    "DESCRIPTION": "Génère un \"Drop\" de cartes\nUtilisez la commande \"{{prefix}}dn\" pour générer un \"Drop\" sans images.",
+    "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide!](https://discord.gg/sofi)",
     "EXTRA_DROP_ALERT": "{{author}} Votre **Extra Drop** a été utilisé. Il vous en reste`{{remaining}}`.",
     "ON_CD": "{{author}} Votre `Drop` sera prêt dans {{dropCd}}",
     "VOTE": "Vote",

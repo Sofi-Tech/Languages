@@ -11,5 +11,6 @@
     "COLOR_NAME": "Nom: {{name}}",
     "COLOR_CODE": "Code: `{{code}}`",
     "GLOW_UNAVAILABLE": "Ce `Glow` n'a pas de charges",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "La couleur de la police a été modifiée avec succès pour cette carte"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "La couleur de la police a été modifiée avec succès pour cette carte",
+    "PROCESS_CANCELLED": "Le processus a été annulé"
 }

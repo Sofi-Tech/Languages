@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Affiche les informations d'une carte",
-    "SLASH_DESC": "Entrez le code de la carte que vous souhaitez examiner",
+    "SLASH_DESC": "Entrez le code d'une carte que vous souhaitez examiner",
     "NO_CARD_FOUND": "Impossible de trouver votre dernière carte. Essayez de fournir un code de carte à la place",
     "INVALID_CARD_CODE": "{{author}} Le code que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "CARD_MORPHED": "La carte est Morph",
+    "CARD_MORPHED": "La carte est morphed",
     "CARD_GLOWED": "Cette carte possède l'effet de `Glow` suivant: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "Couleur du texte: {{fontName}} [`#{{ viewCode}}`]\n",
     "CARD_FRAMED": "Cette carte possède la `Frame` suivante __{{frameName}}__\n",

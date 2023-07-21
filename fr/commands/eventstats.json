@@ -1,9 +1,9 @@
 {
-  "ES_DESCRIPTION": "Affiche un classement pour les soumissions de cartes de l'événement",
-  "ES_CATEGORY": "Paramètres",
-  "EMBED_TITLE": "Événement: {{eventName}}",
-  "EVENT_MENU_PLACEHOLDER": "Sélectionner un événement",
-  "MENU_HAL_LABEL": "Halloween 2022",
-  "MENU_VAL_LABEL": "Saint-Valentin 2023",
-  "MENU_MNC_LABEL": "Monochrome 2023"
+    "ES_DESCRIPTION": "Affiche un classement pour les soumissions de cartes de l'événement",
+    "ES_CATEGORY": "Paramètres",
+    "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}}",
+    "EVENT_MENU_PLACEHOLDER": "Sélectionner un événement",
+    "MENU_HAL_LABEL": "Halloween 2022",
+    "MENU_VAL_LABEL": "Saint-Valentin 2023",
+    "MENU_MNC_LABEL": "Monochrome 2023"
 }

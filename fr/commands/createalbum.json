@@ -6,7 +6,7 @@
     "ALBUM_NAME_ERROR": "Votre nom d'-`Album` doit être alphanumérique et ne doit pas contenir:\n- De caractères spéciaux\n- D'espaces\n- De majuscules",
     "ALBUM_NAME_LONG": "{{author}} Un nom d'-`Album` peut contenir au maximum 20 caractères",
     "MAX_ALBUMS": "{{author}} Vous ne pouvez avoir que 10 `Albums` maximum",
-    "ALBUM_NAME_EXISTS": "{{author}} Un `Album` nommé `{{name}}` existe déjà",
+    "ALBUM_NAME_EXISTS": "{{author}} Un `Album` nommé **{{name}}** existe déjà",
     "ALBUM_CREATE_CONFIRMATION": "Vous êtes sur le point de créer un album avec le nom `{{albumName}}`\nLa création d'-`Albums` est gratuite mais les pages coûtent des `Silver`\nUtilisez `salbumconfig` ou `sacf` pour configurer les albums",
     "BUTTON_ACCEPT": "Confirmer",
     "BUTTON_DENY": "Refuser",

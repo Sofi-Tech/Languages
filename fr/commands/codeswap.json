@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Cela échangera les codes des deux cartes mentionnées",
     "SLASH_DESC": "Entrez le premier code",
-    "SLASH_DESC2": "Entrez le deuxième code",
+    "SLASH_DESC2": "Entrez le second code",
     "NO_CODES_PROVIDED": "Veuillez entrer les codes des deux cartes",
     "INVALID_CODES_PROVIDED": "{{author}} Veuillez entrer deux codes de carte valides"
 }
