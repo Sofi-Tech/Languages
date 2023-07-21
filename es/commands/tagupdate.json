@@ -12,10 +12,10 @@
     "WRONG_TAGNAME_FORMAT": "{{author}} El nombre de tu `Tag` tiene que ser alfanumérico y no puede contener caracteres especiales, espacios ni insultos",
     "TAGNAME_LONG": "{{author}} El nombre de un `Tag` sólo puede tener **20** caracteres de largo",
     "REPLACE_NAME_CONFIRMATION": "Estás seguro de que quieres cambiar el nombre de este `Tag` de `{{oldTag}}` a `{{newTag}}`?",
-    "REPLACE_NAME_SUCCESSFUL": "Se ha cambiado con éxito el nombre de su `Tag` de `{{oldTag}}` a `{{newTag}}`",
+    "REPLACE_NAME_SUCCESSFUL": "{{author}} Se ha cambiado con éxito el nombre de su `Tag` de `{{oldTag}}` a `{{newTag}}`",
     "PROCESS_TERMINATED": "El proceso ha sido cancelado",
     "REPLACE_EMOJI": "Introduce el emoji por el que quieres que se sustituya {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Eso es un emoji no válido",
     "REPLACE_EMOJI_CONFIRMATION": "Estás seguro de que quieres cambiar el emoji de este `Tag` de {{oldEmoji}} a {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "Actualizado con éxito el emoji de este `Tag` de {{oldEmoji}} a {{newEmoji}}"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Actualizado con éxito el emoji de este `Tag` de {{oldEmoji}} a {{newEmoji}}"
 }

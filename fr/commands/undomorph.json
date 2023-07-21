@@ -2,7 +2,7 @@
     "UM_DESCRIPTION": "Retirer le `Morph` d'une carte",
     "UM_CATEGORY": "Cosmetics",
     "UM_INVALID_USAGE": "{{author}} Utilisation correct: `{{prefix}}um <CodeCarte>`",
-    "INVALID_CODE": "{{author}} Ce code de carte n'est soit pas dans votre collection soit invalide",
+    "INVALID_CODE": "{{author}} Le code de carte que vous avez fournis est soit invalide soit n'est pas dans votre collection",
     "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
     "NOT_MORPHED": "{{author}} Cette carte n'a pas de `Morph` appliqué",

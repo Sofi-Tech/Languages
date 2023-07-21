@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Rimuove le tue offerte dal mercato",
-    "CORRECT_USAGE": "{{user}} Fornisci ID dell'affare o usa il comando `smull all` per rimuovere tutti gli affari in una sola volta",
+    "CORRECT_USAGE": "{{user}} Fornisci l'ID dell'offerta che desideri rimuovere dall'elenco o utilizza il comando `smul all` per rimuovere dall'elenco tutte le offerte subito",
     "INVALID_DEAL_ID": "{{author}} L'ID che hai fornito non è valido o non è relativo al tuo affare",
-    "SUCCESS_UL": "{{user}} l'affare {{dealId}} è stato rimosso con successo dal mercato",
-    "NO_LISTINGS_FOUND": "{{user}} noal momento non hai alcun annuncio nel mercato",
-    "SUCCESS_UL_ALL": "{{user}}un totale di `{{totalDeals}}` affari sono stati rimossi dal mercato con successo"
+    "SUCCESS_UL": "{{user}} L'offerta `{{dealId}}` è stata rimossa con successo dal mercato",
+    "NO_LISTINGS_FOUND": "{{user}} Al momento non hai annunci sul mercato",
+    "SUCCESS_UL_ALL": "{{user}} Un totale di `{{totalDeals}}` affari sono stati rimossi dal mercato con successo"
 }

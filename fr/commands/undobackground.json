@@ -3,7 +3,7 @@
     "UB_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}undobg <CodeDeCarte>`",
     "NO_CHARACTER_FOUND": "{{author}} Impossible de trouver cette carte",
-    "INVALID_CODE": "{{author}} Ce code de carte n'est soit pas dans votre collection soit invalide",
+    "INVALID_CODE": "{{author}} Le code de carte que vous avez fournis est soit invalide soit n'est pas dans votre collection",
     "NO_GIF_CARD": "{{author}} Une carte `GIF` ne peut pas avoir de `Background` appliquer",
     "NO_BACKGROUND": "{{author}} Cette carte n'a pas de `Background` appliqué",
     "EMBED_TITLE": "RETIRER LE BACKGROUND",

@@ -8,9 +8,9 @@
     "TOTAL_VOTES": "- `Votes` Totales: **{{totalVotes}}**",
     "MONTHLY_VOTES": "- `Votes` mensuales: **{{monthlyVotes}}**",
     "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> Quedan **{{monthlyVotes}}** `Votes` para obtener un `Exotic Chest`",
-    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene hasta **1,000** `Cubes` o un **{{frameName}}** `Frame`",
+    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene hasta **1,000** `Cubes` o un `Frame` **{{frameName}}**",
     "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> Quedan **{{monthlyVotes}}** `Votes` para obtener un `Divine Chest`",
-    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene hasta **2,500** `Cubes` o un **{{frameName}}** `Frame`",
+    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene hasta **2,500** `Cubes` o un `Frame` **{{frameName}}**",
     "VOTE_RESET": "- Se reinicia en: **{{countdown}}**",
     "EMBED_FOOTER": "Durante el fin de semana consigues el doble de \"Wists\""
 }

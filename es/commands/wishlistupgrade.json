@@ -1,15 +1,16 @@
 {
-  "DESCRIPTION": "Aumenta la capacidad de tu lista de deseos",
-  "CATEGORY": "Lista de deseos",
-  "ALREADY_MAXED": "{{author}} Ya no puedes actualizar tu lista de deseos",
-  "EMBED_DESCRIPTION": "¿Estás seguro de que quieres comprar **{{count}}** ranuras extra por **{{amount}}** `{{currency}}`?",
-  "EMBED_PAY_FIELD_NAME": "Pagas:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "Recibes:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} espacios adicionales en tu lista de deseos```",
-  "EMBED_MAXED_DESCRIPTION": "¿Estás seguro de que quieres desbloquear todas las ranuras de tu lista de deseos por **{{amount}}** `{{currency}}`?",
-  "EMBED_MAXED_FIELD_VALUE": "``Máximo de ranuras de la lista de deseos (50 ranuras)``",
-
-  "CANCELLED": "El proceso ha sido cancelado",
-  "PAY_ERROR": "{{author}} No tiene suficiente `{{currency}}` para esta transacción"
+    "DESCRIPTION": "Aumenta la capacidad de tu lista de deseos",
+    "CATEGORY": "Lista de deseos",
+    "ALREADY_MAXED": "{{author}} Ya no puedes actualizar tu lista de deseos",
+    "EMBED_DESCRIPTION": "¿Estás seguro de que quieres comprar **{{count}}** ranuras extra por **{{amount}}** `{{currency}}`?",
+    "EMBED_PAY_FIELD_NAME": "Pagas:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "Recibes:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} espacios adicionales en tu lista de deseos```",
+    "EMBED_MAXED_DESCRIPTION": "¿Estás seguro de que quieres desbloquear tu lista de deseos al completo por **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_FIELD_VALUE": "``Máximo de ranuras de la lista de deseos (50 ranuras)``",
+    "CANCELLED": "El proceso ha sido cancelado",
+    "PAY_ERROR": "{{author}} No tiene suficiente `{{currency}}` para esta transacción",
+    "EMBED_TITLE": "SOFI: MEJORA DE LA LISTA DE DESEOS",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Has actualizado correctamente tu lista de deseos"
 }

@@ -13,6 +13,6 @@
     "CARD_LOCKED": "Cette carte est verrouillée et ne peut pas être donnée! Utiliser la commande `{{prefix}}ut <CodeDeCarte>` pour retirer le `Tag` de cette carte",
     "CARD_NOT_OWNED": "Vous ne possédez plus cette carte",
     "SUCCESS": "SUCCÈS",
-    "CANCELLED": "ANNULÉ",
+    "CANCELLED": "Le processus a été annulé",
     "GIVEN": "Expéditeur → Destinataire"
 }
