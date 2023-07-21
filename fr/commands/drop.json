@@ -1,8 +1,9 @@
 {
     "DESCRIPTION": "Génère un \"Drop\" de cartes\nUtilisez la commande \"{{prefix}}dn\" pour générer un \"Drop\" sans images.",
     "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} Votre **Extra Drop** a été utilisé. Il vous en reste`{{remaining}}`.",
+    "EXTRA_DROP_ALERT": "{{author}} Votre **Extra Drop** a été utilisé. Il vous en reste **{{remaining}}**",
     "ON_CD": "{{author}} Votre `Drop` sera prêt dans {{dropCd}}",
     "VOTE": "Vote",
-    "BUY_DROP": "\nVous pouvez également effectuer un `Vote` pour recevoir des `Wists` et pour acheter des `Drops` avec ces derniers\nUtilisez la commande `sbuy drop <quantité>` pour le faire"
+    "BUY_DROP": "\nVous pouvez également effectuer un `Vote` pour recevoir des `Wists` et pour acheter des `Drops` avec ces derniers!\nUtilisez la commande `{{prefix}}buy drop <montant>` pour acheter des `Drops`",
+    "DROPPING_CARD": "{{author}} `Drop` des cartes\n"
 }
