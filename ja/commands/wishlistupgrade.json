@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "欲しいものリストのスロット拡張する",
+    "DESCRIPTION": "欲しいものリストスロット拡張する",
     "CATEGORY": "欲しいものリスト",
-    "ALREADY_MAXED": "{{author}} 欲しいものリストのスロットが最大拡張数になりました",
+    "ALREADY_MAXED": "{{author}} 欲しいものリストスロットが最大拡張数になりました",
     "EMBED_DESCRIPTION": "**{{count}}つ**スロットが「{{amount}} {{currency}}」で拡張を確認",
     "EMBED_PAY_FIELD_NAME": "価格：",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "スロット拡張：",
     "EMBED_GET_FIELD_VALUE": "```{{count}}つ欲しいものリストスロット```",
-    "EMBED_MAXED_DESCRIPTION": "**{{amount}} {{currency}}**で最大スロット数まで拡張したいことを確認",
-    "EMBED_MAXED_FIELD_VALUE": "```最大50つスロットまで拡張できる状態```",
-    "CANCELLED": "スロット拡張がキャンセルされました",
-    "PAY_ERROR": "`{{amount}} {{currency}}を所持していません`",
-    "EMBED_TITLE": "SOFI：欲しいものリスト拡張",
+    "EMBED_MAXED_DESCRIPTION": "**{{amount}} {{currency}}**で最大欲しいものリストスロット数まで拡張を確認",
+    "EMBED_MAXED_FIELD_VALUE": "```最大50つスロットまで拡張できる状態です```",
+    "CANCELLED": "欲しいものリストスロット拡張がキャンセルされました",
+    "PAY_ERROR": "{{author}} 欲しいものリストスロット拡張のに十分な「 {{currency}}」がありません",
+    "EMBED_TITLE": "SOFI：欲しいものリストスロット拡張",
     "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} 欲しいものリストスロット拡張成功"
 }

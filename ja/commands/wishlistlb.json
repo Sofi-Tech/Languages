@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "ウィッシュリストのリーダーボードを表示します",
+    "DESCRIPTION": "欲しいものリストランキングを表示する",
     "CATEGORY": "欲しいものリスト",
-    "EMBED_TITLE": "ウィッシュリストリーダーボード - {{type}}",
-    "EMBED_FOOTER": "ページを表示：{{page}} / {{pages}}",
+    "EMBED_TITLE": "SOFI：欲しいものリストランキング - {{type}}",
+    "EMBED_FOOTER": "ページ：{{page}} / {{pages}}",
     "CHARACTER_BUTTON_LABEL": "キャラクター",
     "SERIES_BUTTON_LABEL": "シリーズ"
 }
