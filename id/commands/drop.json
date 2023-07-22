@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Menghasilkan \"Drop\" kartu\nGunakan perintah \"{{prefix}}dn\" untuk menghasilkan \"Drop\" tanpa gambar",
     "JOIN_SUPPORT_SERVER": "[Bergabung dengan server support untuk bantuan!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} **Drop Tambahan** anda sedang digunakan. Anda memiliki **{{remaining}}** tersisa",
-    "ON_CD": "{{author}}`Drop` anda akan siap dalam {{dropCd}}",
+    "EXTRA_DROP_ALERT": "{{author}} `Drop` anda sedang digunakan. Anda memiliki **{{remaining}}** yang tersisa",
+    "ON_CD": "{{author}}`Drop` anda akan siap dalam **{{dropCd}}**",
     "VOTE": "Vote",
-    "BUY_DROP": "\nAnda juga dapat `Vote` untuk menerima `Wists` dan membeli `Drops` dengan itu!\nGunakan perintah `{{prefix}}buy drop <Jumlah>` untuk membeli `Drops`",
-    "DROPPING_CARD": "{{author}} `Dropping` kartu\n"
+    "BUY_DROP": "\n\n- Anda juga dapat `Vote` untuk menerima `Wists`! Gunakan perintah `{{prefix}}buy drop` untuk menukarnya",
+    "DROPPING_CARD": "\n"
 }

@@ -1,1 +1,17 @@
-{}
+{
+    "NOT_PING_STAFF": "<:_:979009081325019156> Gambar yang dikirimkan **harus** berupa `PNG` atau `JPG' file",
+    "SC_CORRECT_USAGE": "<:_:979009081325019156> Urutan perintah: `{{prefix}}sc <CardID> <2D> <ImageURL> <SourceURL>`",
+    "CARD_TEMPLATE": "Templat Kartu: **[Download PSD File](https://cdn.discordapp.com/attachments/872705434509803551/1129781693679669268/sofi_card.psd)**",
+    "IMAGES_REJECTED": "<:_:979009081325019156> Karya seni yang digunakan untuk kartu `GIF`, `3D`, atau `Event` akan ditolak",
+    "NO_PINGING_STAFF": "⚠️ Jangan melakukan ping kepada staf mana pun untuk mempercepat peninjauan kiriman anda!",
+    "USEFUL_LINKS": "🔗 __Tautan Berguna__:\n",
+    "SC_DESCRIPTION": "Mengirimkan gambar untuk varian \"Versi\" karakter",
+    "SC_CATEGORY": "Pengaturan",
+    "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> Gambar yang dikirimkan **harus** berasal dari sumber resmi",
+    "LINK_TO_SOURCE": "<:_:979009081325019156> Berikan tautan ke sumber gambar",
+    "CARD_DIMENSION": "<:_:979009081325019156> Dimensi gambar yang dikirimkan **harus** berukuran `297x465`",
+    "USE_DISCORD_LINK": "<:_:979009081325019156> Gambar yang dikirimkan harus menggunakan tautan resmi Discord, seperti `cdn.discordapp.com` atau `media.discordapp.net`",
+    "CARD_EMBED_TITLE": "SOFI: PENYERAHAN KARTU",
+    "CARD_INFO_CHANNEL": "Panduan Pengajuan: **[Kunjungi Di Sini](https://discord.gg/EUp7rNVC4U)**",
+    "EDIT_IMAGE_SITE": "Pangkas Gambar: **[Photopea](https://www.photopea.com/)**"
+}
