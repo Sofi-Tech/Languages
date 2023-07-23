@@ -1,9 +1,9 @@
 {
-    "SHEET_DESCRIPTION": "Crea un file \".csv\" della tua raccolta",
+    "SHEET_DESCRIPTION": "Crea un file \".csv\" della tua collezione",
     "SHEET_CATEGORY": "Impostazioni",
     "CANNOT_DM": "{{author}} Non è riuscito a inviarti il file del foglio di lavoro. Assicurati che i tuoi messaggi diretti siano aperti!",
     "NO_COLLECTION": "{{author}} Non hai carte nella tua collezione",
     "NO_GUILD_INFO": "{{author}} Al momento non fai parte di una gilda",
     "NO_VAULT_LOGS": "{{author}} Al momento non sono presenti registri del vault",
-    "DM_FILE": "{{author}} Ti è stato inviato un file .csv tramite messaggio diretto\n\n> **Nota**: Quando importi il file in programmi Excel o fogli di calcolo, assicurati di impostare il separatore su \"virgola\"!"
+    "DM_FILE": "{{author}} Ti è stato inviato un file .csv tramite messaggio diretto\n\n> **Nota**: Quando importi il file in programmi excel o fogli di calcolo, assicurati di impostare il separatore su \"virgola\"!"
 }

@@ -1,3 +1,10 @@
 {
-    "USER_BLACKLISTED": "{{author}} Pengguna tersebut masuk dalam daftar hitam"
+    "USER_BLACKLISTED": "{{author}} Pengguna tersebut masuk dalam daftar hitam",
+    "UI_DESCRIPTION": "Menampilkan statistik pengguna",
+    "CANNOT_FIND_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
+    "UI_CATEGORY": "Pengaturan",
+    "UI_SLASH_DESC": "Pilih pengguna yang ingin anda periksa",
+    "UI_GIVEN": "Diberikan",
+    "UI_3D": "3D",
+    "UI_ATTACKS": "Serangan"
 }

@@ -1,7 +1,7 @@
 {
     "TT_DESCRIPTION": "Trasferisce le carte da un \"Tag\" all'altro",
     "TT_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}trt <daVecchioTag> <aNuovoTag>`",
+    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}trt <fromOldTag> <toNewTag>`",
     "TAG_NOT_FOUND": "{{author}} Non hai nessun `Tag` con il nome: `{{tag}}`",
     "TRANSFER_TAG_SUCCESSFUL": "{{author}} Trasferito con successo tutte le carte da `Tag` `{{fromTag}}` a `{{toTag}}`"
 }

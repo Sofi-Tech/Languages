@@ -6,14 +6,14 @@
     "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa `#`",
     "GLOW_NOT_FOUND": "{{author}} Ang code ng `Glow` na ibinigay mo ay hindi wasto o wala sa iyong `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} Kailangan mong maglagay ng pangalan para sa `Glow` na ito",
-    "GLOW_NAME_LONG": "{{author}} Ang pangalan ng `Glow` ay hanggang 25 letra lamang",
+    "GLOW_NAME_LONG": "{{author}} Ang pangalan ng iyong `Glow` ay dapat hanggang **25** letra lamang",
     "GLOW_NAME_EXISTS": "{{author}} Ang pangalan ng `Glow` na iyan ay nagamit na",
     "EMBED_TITLE": "SOFI: GLOW NAME",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Sigurado ka ba na gusto mong baguhin ang `{{oldName}}` sa `{{newName}}`?",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Sigurado ka ba na gusto mong baguhin ang pangalan ng iyong `Glow` mula sa `{{oldName}}` hanggang sa`{{newName}}`?",
     "EMBED_FOOTER": "Ningning: {{availability}}",
-    "MISSING_ITEMS": "Wala kang sapat na currency para sa proseso na ito",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Matagumpay na na-update ang pangalan ng `Glow`",
+    "MISSING_ITEMS": "{{author}}Wala kang sapat na {{currency}} para sa proseso na ito",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Matagumpay na napalitan ang pangalan ng `Glow`sa {{newName}}",
     "UNAVAILABLE": "Bakante",
-    "AVAILABLE": "magagamit",
-    "PROFANE_GLOW_NAME": "{{author}} may mali sa pangalan. Subukan ng isa pa"
+    "AVAILABLE": "Magagamit",
+    "PROFANE_GLOW_NAME": "{{author}} Ang pangalan ng iyong `Glow` **ay hindi dapat** magkaroon ng panlalait"
 }

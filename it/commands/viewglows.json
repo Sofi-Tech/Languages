@@ -6,17 +6,18 @@
     "VG_SLASH_DESC3": "Fornisci il codice di un \"Glow\" che desideri ispezionare",
     "NO_GLOWS": "{{author}} Non è riuscito a trovare alcun `Glows` per quell'utente",
     "SUPER": "Super",
-    "EMBED_TITLE": "SOFI: VISTA `GLOWS`",
+    "EMBED_TITLE": "SOFI: VISUALIZZA`GLOWS`",
     "EMBED_FOOTER": "Pagina visualizzata: {{page}}/{{totalPages}} | Totale: {{count}}",
     "NO_GLOWS_FOUND": "{{author}} Non hai un `Tag` con il nome: `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} Impossibile trovare il `Glow` con il codice: `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VISUALIZZA `GLOWS`",
     "NAME": "`Nome:           ` ➜ {{name}}",
     "CODE": "`Codice:            ` ➜ `#{{code}}`",
-    "STATUS": "`Stato:   ` ➜ **{{status}}**",
+    "STATUS": "`Stato:       ` ➜ **{{status}}**",
     "TYPE": "`Tipo:           ` ➜ {{type}}",
     "OWNER": "`Proprietario:         ` ➜ <@{{ownerId}}>",
-    "PURITY": "```Purezza:    ➜ {{purity}}\nPurezza2:    ➜ {{purity2}}```",
+    "PURITY": "Purezza:    ➜ {{purity}}",
     "NO_GLOWS_SELF": "{{author}} Non hai ancora nessun `Glows`",
-    "INVALID_USER": "{{author}} Non è riuscito a trovare quell'utente"
+    "INVALID_USER": "{{author}} Non è riuscito a trovare quell'utente",
+    "PURITY2": "Purezza2:    ➜ {{purity2}}"
 }

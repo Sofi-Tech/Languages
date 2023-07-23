@@ -5,12 +5,12 @@
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: `VOTE` ({{username}})",
     "USE_WIST": "Otterrai un `Wist` <:wist:870339503427027005> per ogni `Vote` andato a buon fine!",
-    "TOTAL_VOTES": "- `Vote` Totali: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- `Vote` Mensile: **{{monthlyVotes}}**",
+    "TOTAL_VOTES": "- `Votes` Totali: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- `Votes` Mensile: **{{monthlyVotes}}**",
     "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> **{{monthlyVotes}}** `Votes` rimanenti per ottenere una `Exotic Chest`**",
     "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene fino a **1,000** `Cubes` o un **{{frameName}}** `Frame`",
     "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> **{{monthlyVotes}}** `Votes` rimanenti per ottenere una `Divine Chest`**",
     "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contiene fino a **2,500** `Cubes` o un **{{frameName}}** `Frame`",
-    "VOTE_RESET": "- Si Resetta in **{{countdown}}**",
+    "VOTE_RESET": "- Si Resetta in: **{{countdown}}**",
     "EMBED_FOOTER": "Ottieni il doppio della quantità di \"Wists\" in un fine settimana"
 }

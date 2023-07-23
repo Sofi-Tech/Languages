@@ -2,13 +2,15 @@
     "BF_DESCRIPTION": "Acquista un \"Frame\" dal \"Frame Shop\"",
     "BF_CATEGORY": "Cosmetici",
     "NO_FRAME_NAME": "{{author}} Fornisci il codice del `Frame` che desideri acquistare",
-    "NO_FRAMECODE_FOUND": "{{author}} non è stato possibile trovare il `Frame` con il codice `{{name}}`",
+    "NO_FRAMECODE_FOUND": "{{author}} Non è riuscito a trovare alcun `Frame` con il codice `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} Quel `Frame` non è attualmente disponibile. Usa il comando `{{prefix}}fs` per vedere l'attuale rotazione di `Frame`",
     "NO_FRAME_FOUND": "{{author}} Non è riuscito a trovare alcun `Frame` con quel codice",
-    "FRAME_NOT_PURCHASABLE": "{{author}} questo `frame` è limitato e non può più essere acquistato",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Quel `Frame` è limitato e non può più essere acquistato",
     "EMBED_TITLE": "SOFI: TRANSAZIONE",
     "YOU_GET": "Ottieni:",
     "YOU_PAY": "Tu paghi:",
-    "NO_ENOUGH_AMOUNT": "{{author}} Non hai abbastanza {{currency}} per questa transazione",
-    "FRAME_PURCHASED_BY": "Il tuo **{{frame}}** `Frame` è stato acquistato da `{{userId}}`| {{buyCount}}"
+    "NO_ENOUGH_AMOUNT": "{{author}} Non hai abbastanza `{{currency}}` per questa transazione",
+    "FRAME_PURCHASED_BY": "Il tuo **{{frame}}** `Frame` è stato acquistato da `{{userId}}`| {{buyCount}}",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Ha acquistato con successo **{{frameName}}** `Frame`",
+    "PROCESS_CANCELLED": "Il processo è stato annullato"
 }

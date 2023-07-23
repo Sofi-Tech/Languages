@@ -8,7 +8,7 @@
     "MEM_BLACKLISTED": "{{member}} è nella lista nera",
     "MEM_QUARANTINED": "Quell'utente è in quarantena",
     "NO_CODE": "{{author}} Hai dimenticato di fornire il codice della carta",
-    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}give <User/UserID> <CartaCodice>`",
+    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "Impossibile trovare alcuna carta con il codice: `{{code}}`",
     "CARD_LOCKED": "Quella carta è bloccata e non può essere regalata! Usa il comando `{{prefix}}ut <CartaCodice>` per rimuovere il `Tag` di quella carta",
     "CARD_NOT_OWNED": "Non possiedi più la carta",
