@@ -16,7 +16,7 @@
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} Du hast unzureichende Berechtigungen um Bilder vom `Event` Typ einzureichen",
     "PROVIDE_IMAGE_URL": "{{author}} Die Bild URL die du eingegeben hast ist ungültig",
     "PROVIDE_SOURCE_URL": "{{author}} Bitte gib eine URL Quelle an",
-    "SURE_DISCORD_LINK": "{{author}} Das eingereichte Bild muss einen offiziellen Discord-Link verwenden, z. B. „cdn.discordapp.com“ oder „media.discordapp.net“",
+    "SURE_DISCORD_LINK": "{{author}} Das eingereichte Bild muss einen offiziellen Discord-Link verwenden, wie z. B. `cdn.discordapp.com` oder `media.discordapp.net`",
     "VALID_IMAGE_URL": "{{author}} Das Bild muss im `PNG` oder `JPG` Format sein",
     "VALID_CARD_DIMENSIONS": "{{author}} Das eingereichte Bild hat ungültige Abmaße! `297x465`",
     "EMBED_TITLE": "SOFI: KARTEN EINREICHUNG ({{character}})",

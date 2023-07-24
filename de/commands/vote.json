@@ -1,7 +1,7 @@
 {
-    "VOTE_DESCRIPTION": "Zeigt die monatlichen Belohnungen von \"Voting\"",
+    "VOTE_DESCRIPTION": "Zeigt die monatlichen Belohnungen vom \"Voting\"",
     "VOTE_CATEGORY": "Einstellungen",
-    "VOTE": "Abstimmung auf Top.GG",
+    "VOTE": "Vote auf Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: `VOTE` ({{username}})",
     "USE_WIST": "Du erhältst einen `Wist` <:wist:870339503427027005> für jeden erfolgreichen `Vote`!",
@@ -11,6 +11,6 @@
     "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Enthält bis zu **1.000** `Cubes` oder einen **{{frameName}}** `Frame`",
     "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> Es verbleiben **{{monthlyVotes}}** `Votes`, um eine `Divine Chest` zu erhalten",
     "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Enthält bis zu **2.500** `Cubes` oder einen **{{frameName}}** `Frame`",
-    "VOTE_RESET": "- Setzt in: **{{countdown}}** zurück",
+    "VOTE_RESET": "- Zurücksetzung in: **{{countdown}}**",
     "EMBED_FOOTER": "Du erhältst an Wochenenden die doppelte Menge an \"Wists\""
 }

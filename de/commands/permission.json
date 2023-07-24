@@ -25,5 +25,15 @@
     "SOME_COMMANDS_WHITELISTED": "{{author}} Du hast einige Befehle auf die Whitelist gesetzt. Um diese Funktion zu nutzen, tippe `{{prefix}}p reset` ein, um die Berechtigungen zurückzusetzen, und versuche es dann erneut.",
     "NOT_BLACKLISTED_YET": "{{author}} Du hast noch keine Befehle auf die schwarze Liste gesetzt.",
     "SOME_COMMANDS_BLACKLISTED": "{{author}} Du hast einige Befehle auf die schwarze Liste gesetzt. Um diese Funktion zu nutzen, tippe `{{prefix}}p reset` ein, um die Berechtigungen zurückzusetzen, und versuche es dann erneut.",
-    "NOT_WHITELISTED_YET": "{{author}} Du hast noch keine Befehle auf die Whitelist gesetzt."
+    "NOT_WHITELISTED_YET": "{{author}} Du hast noch keine Befehle auf die weiße Liste gesetzt.",
+    "ADD_MODAL_LABEL": "Füge Befehle, die du willst, zu {{listName}} hinzu.",
+    "RESET_PERMS_SUCCESSFUL": "Die Befehlsberechtigungen für diesen Kanal wurden zurückgesetzt.",
+    "STOPPED_PROCESS": "Du hast den Vorgang gestoppt.",
+    "PROCESS_TIMED_OUT": "⏰ Vorgangzeitüberschreitung!",
+    "MODAL_TITLE": "Befehl {{listName}}",
+    "REMOVE_MODAL_LABEL": "Entferne Befehle aus {{listName}}",
+    "ADD_ALL_COMMANDS_SUCCESSFUL": "Alle Befehle wurden zu {{listName}} hinzugefügt.",
+    "ADD_COMMANDS_SUCCESSFUL": "Die folgenden Befehle wurden zu {{listName}} hinzugefügt: {{commandsList}}",
+    "ADD_COMMANDS_ERROR": "Die Befehle, die du hinzufügen möchtest, sind bereits {{listName}} ODER du hast falsche Befehle eingegeben",
+    "YES_BUTTON_LABEL": "Ja"
 }
