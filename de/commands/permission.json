@@ -21,5 +21,9 @@
     "BLACKLISTED_COMMANDS": "__Befehle auf der schwarzen Liste:__",
     "MENTION_BLACKLIST_WHITELIST": "{{author}} Bitte gebe an, ob du den Befehl auf die schwarze oder weiße Liste setzen möchtest.",
     "MENTION_ADD_REMOVE": "{{author}} Bitte gebe an, ob du den Befehl hinzufügen oder entfernen möchtest.",
-    "NO_BUTTON_LABEL": "Nein"
+    "NO_BUTTON_LABEL": "Nein",
+    "SOME_COMMANDS_WHITELISTED": "{{author}} Du hast einige Befehle auf die Whitelist gesetzt. Um diese Funktion zu nutzen, tippe `{{prefix}}p reset` ein, um die Berechtigungen zurückzusetzen, und versuche es dann erneut.",
+    "NOT_BLACKLISTED_YET": "{{author}} Du hast noch keine Befehle auf die schwarze Liste gesetzt.",
+    "SOME_COMMANDS_BLACKLISTED": "{{author}} Du hast einige Befehle auf die schwarze Liste gesetzt. Um diese Funktion zu nutzen, tippe `{{prefix}}p reset` ein, um die Berechtigungen zurückzusetzen, und versuche es dann erneut.",
+    "NOT_WHITELISTED_YET": "{{author}} Du hast noch keine Befehle auf die Whitelist gesetzt."
 }

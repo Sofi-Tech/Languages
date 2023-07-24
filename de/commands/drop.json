@@ -1,9 +1,8 @@
 {
-  "DESCRIPTION": "Generiert einen \"Drop\" an Karten\nVerwende den Befehl \"{{prefix}}dn\" um einen \"Drop\" ohne Bilder zu generieren",
-
-  "EXTRA_DROP_ALERT": "{{author}} Dein `Drop` wird verwendet. Du hast noch **{{remaining}}** übrig",
-  "ON_CD": "{{author}} Dein `Drop` ist in **{{dropCd}}** wieder verfügbar",
-  "VOTE": "Vote",
-  "BUY_DROP": "\n\nDu kannst auch `abstimmen`, um `Wists` zu erhalten! Verwende den Befehl `{{prefix}}buy drop`, um sie auszutauschen",
-  "DROPPING_CARD": "{{author}} **Droppt** Karten\n"
+    "DESCRIPTION": "Generiert einen \"Drop\" an Karten\nVerwende den Befehl \"{{prefix}}dn\" um einen \"Drop\" ohne Bilder zu generieren",
+    "EXTRA_DROP_ALERT": "{{author}} Dein extra `Drop` wird verwendet. Du hast noch **{{remaining}}** übrig",
+    "ON_CD": "{{author}} Dein `Drop` ist in **{{dropCd}}** wieder verfügbar",
+    "VOTE": "Vote",
+    "BUY_DROP": "\n\nDu kannst auch `abstimmen`, um `Wists` zu erhalten! Verwende den Befehl `{{prefix}}buy drop`, um sie auszutauschen",
+    "DROPPING_CARD": "{{author}} **droppt** Karten\n"
 }
