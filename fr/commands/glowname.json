@@ -9,10 +9,10 @@
     "GLOW_NAME_LONG": "{{author}} Le nom de votre `Glow` peut seulement avoir **25** caractères",
     "GLOW_NAME_EXISTS": "{{author}} Le nom de `Glow` est déjà utilisé ailleurs",
     "EMBED_TITLE": "SOFI: NOM DE GLOW",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Êtes-vous sûr(e) de vouloir changer le nom de votre `Glow`de `{{oldName}}` par `{{newName}}`?",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Êtes-vous sûr(e) de vouloir changer le nom de votre `Glow` de `{{oldName}}` par `{{newName}}`?",
     "EMBED_FOOTER": "Glow: {{availability}}",
     "MISSING_ITEMS": "{{author}} Vous n'avez pas assez de {{currency}} pour ce processus",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Le nom de votre `Glow`a était changé avec succès par {{newName}}",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Le nom de votre `Glow` a était changé avec succès par {{newName}}",
     "PROFANE_GLOW_NAME": "{{author}} Le nom de votre `Glow`**ne doit pas** contenir des injures",
     "UNAVAILABLE": "Vide",
     "AVAILABLE": "Charger"

@@ -1,9 +1,12 @@
 {
-    "GT_DESCRIPTION": "\"Tags\" vos \"Glows\"",
+    "GT_DESCRIPTION": "Assigne un \"Tag\" a votre \"Glows\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Vous n'avez pas encore de `Glow Tags`. Vous pouvez en créer avec la commande `{{prefix}}gtc <NomDeTag> <Emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Vous n'avez pas encore de `Glow Tag`. Vous pouvez en créer avec la commande: `{{prefix}}gtc <NomDeTag> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Vous n'avez pas encore de `Glows`",
-    "INVALID_GLOW_CODE": "{{author}} Un ou plusieurs des codes de `Glow` fournis est/sont invalide(s)",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** a été tag avec succès en tant que {{tag}}",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tous les `Glows` ont été tag avec succès"
+    "INVALID_GLOW_CODE": "{{author}} Au moins un des codes de `Glow` que vous avez fourni est invalide ou n'est pas dans votre `Inventory`",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** a été tag avec succès en tant que: `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tous les `Glows` ont été tag avec succès en tant que: `{{tag}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Le code du `Glow` que vous avez fourni est invalide ou n'est pas dans votre `Inventory`",
+    "CORRECT_USAGE": "{{author}} Usage correcte: `{{prefix}}gt <NomDuTag> <CodeDeGlow>`",
+    "GLOW_TAG_INVALID": "{{author}} Vous n'avez aucun `Glow Tag` avec le nom: `{{tagname}}`"
 }
