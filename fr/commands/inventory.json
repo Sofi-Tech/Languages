@@ -12,7 +12,7 @@
     "EVENT": "Event",
     "SELF_INV_EMPTY": "{{author}} Votre `Inventory` est vide",
     "USER_INV_EMPTY": "{{author}} L'-`Inventory` de cet utilisateur est vide",
-    "NO_BG_FOUND": "Vous n'avez aucun `Backgrounds`",
+    "NO_BG_FOUND": "{{author}} Vous n'avez aucun `Backgrounds`",
     "NO_ITEM_FOUND": "{{author}} Impossible de trouver l'-`Item` dans l'-`Inventory`",
     "HIDE_INV": "Utiliser la commande `{{prefix}}pvt inv` pour rendre votre `Inventory` privé"
 }
