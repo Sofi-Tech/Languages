@@ -1,18 +1,16 @@
 {
-    "DESCRIPTION": "Donnez la carte à quelqu'un",
-    "SLASH_DESC": "Sélectionnez l'utilisateur à qui vous voulez donner une carte",
-    "SLASH_DESC2": "Entrez le code de la carte que vous voulez donner",
-    "NO_MEMBER": "{{author}} Aucun utilisateur fourni",
-    "NO_SELF_GIVE": "{{author}} Vous ne pouvez pas vous donner une carte à vous-même",
-    "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit!",
-    "MEM_BLACKLISTED": "{{member}} est sur liste noire",
-    "MEM_QUARANTINED": "Cet utilisateur est en quarantaine",
-    "NO_CODE": "{{author}} Vous avez oublié de fournir un code de carte",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}give <Utilisateur/IDUtilisateur> <CodeDeCarte>`",
-    "NO_CARD_FOUND": "Impossible de trouver une carte avec le code : `{{code}}`",
-    "CARD_LOCKED": "Cette carte est verrouillée et ne peut pas être donnée! Utiliser la commande `{{prefix}}ut <CodeDeCarte>` pour retirer le `Tag` de cette carte",
-    "CARD_NOT_OWNED": "Vous ne possédez plus cette carte",
-    "SUCCESS": "SUCCÈS",
-    "CANCELLED": "Le processus a été annulé",
-    "GIVEN": "Expéditeur → Destinataire"
+  "DESCRIPTION": "Donnez la carte à quelqu'un",
+  "SLASH_DESC": "Sélectionnez l'utilisateur à qui vous voulez donner une carte",
+  "SLASH_DESC2": "Entrez le code de la carte que vous voulez donner",
+
+  "NO_SELF_GIVE": "{{author}} Vous ne pouvez pas vous donner une carte à vous-même",
+  "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit!",
+  "MEM_BLACKLISTED": "{{member}} est sur liste noire",
+  "MEM_QUARANTINED": "Cet utilisateur est en quarantaine",
+
+  "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}give <Utilisateur/IDUtilisateur> <CodeDeCarte>`",
+  "NO_CARD_FOUND": "Impossible de trouver une carte avec le code : `{{code}}`",
+  "CARD_LOCKED": "Cette carte est verrouillée et ne peut pas être donnée! Utiliser la commande `{{prefix}}ut <CodeDeCarte>` pour retirer le `Tag` de cette carte",
+
+  "CANCELLED": "Le processus a été annulé"
 }

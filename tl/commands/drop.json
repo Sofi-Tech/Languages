@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Lumilikha ng \"Drop\" ng mga cards\nGamitin ang commad na \"{{prefix}}dn\" para makapag-generate ng \"Drop\" na walang imahe",
-    "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong!](https://discord.gg/sofi)",
-    "EXTRA_DROP_ALERT": "{{author}} Ginagamit ang iyong `Drop`. Mayroon kang **{{natitira}}** na natitira",
-    "ON_CD": "{{author}} Ang iyong `Drop` ay magiging handa sa: **{{dropCd}}**",
-    "VOTE": "Boto",
-    "BUY_DROP": "\n\n- Maaari ka ring `Bumoto` upang makatanggap ng `Wists`! Gamitin ang command na `{{prefix}}buy drop` upang palitan ang mga ito",
-    "DROPPING_CARD": "{{author}} ay nag `Da-drop` ng kards\n"
+  "DESCRIPTION": "Lumilikha ng \"Drop\" ng mga cards\nGamitin ang commad na \"{{prefix}}dn\" para makapag-generate ng \"Drop\" na walang imahe",
+
+  "EXTRA_DROP_ALERT": "{{author}} Ginagamit ang iyong `Drop`. Mayroon kang **{{natitira}}** na natitira",
+  "ON_CD": "{{author}} Ang iyong `Drop` ay magiging handa sa: **{{dropCd}}**",
+  "VOTE": "Boto",
+  "BUY_DROP": "\n\n- Maaari ka ring `Bumoto` upang makatanggap ng `Wists`! Gamitin ang command na `{{prefix}}buy drop` upang palitan ang mga ito",
+  "DROPPING_CARD": "{{author}} ay nag `Da-drop` ng kards\n"
 }

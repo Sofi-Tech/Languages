@@ -1,23 +1,22 @@
 {
-    "DESCRIPTION": "Dai una carta a qualcuno",
-    "SLASH_DESC": "Seleziona l'utente a cui vuoi regalare una carta",
-    "SLASH_DESC2": "Inserisci il codice della card che vuoi regalare",
-    "NO_MEMBER": "{{author}} Nessun utente fornito",
-    "NO_SELF_GIVE": "{{author}} Non puoi darti la carta",
-    "NOT_REGISTERED": "{{author}} Quell'utente non è registrato!",
-    "MEM_BLACKLISTED": "{{member}} è nella lista nera",
-    "MEM_QUARANTINED": "Quell'utente è in quarantena",
-    "NO_CODE": "{{author}} Hai dimenticato di fornire il codice della carta",
-    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}g <@User/UserID> <CardCode>`",
-    "NO_CARD_FOUND": "Impossibile trovare alcuna carta con il codice: `{{code}}`",
-    "CARD_LOCKED": "Quella carta è bloccata e non può essere regalata! Usa il comando `{{prefix}}ut <CartaCodice>` per rimuovere il `Tag` di quella carta",
-    "CARD_NOT_OWNED": "Non possiedi più la carta",
-    "SUCCESS": "SUCCESSO",
-    "CANCELLED": "Il processo è stato annullato",
-    "GIVEN": "Mittente → Destinatario",
-    "AUTHOR_NOT_VERIFIED": "Non sei verificato!",
-    "CARD_SELECTED": "La carta è selezionata e non trasferibile",
-    "EMBED_TITLE": "Dare Carta",
-    "MEM_NOT_VERIFIED": "L'utente non è verificato!",
-    "AUTHOR_BLACKLISTED": "Sei nella lista nera.."
+  "DESCRIPTION": "Dai una carta a qualcuno",
+  "SLASH_DESC": "Seleziona l'utente a cui vuoi regalare una carta",
+  "SLASH_DESC2": "Inserisci il codice della card che vuoi regalare",
+
+  "NO_SELF_GIVE": "{{author}} Non puoi darti la carta",
+  "NOT_REGISTERED": "{{author}} Quell'utente non è registrato!",
+  "MEM_BLACKLISTED": "{{member}} è nella lista nera",
+  "MEM_QUARANTINED": "Quell'utente è in quarantena",
+
+  "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}g <@User/UserID> <CardCode>`",
+  "NO_CARD_FOUND": "Impossibile trovare alcuna carta con il codice: `{{code}}`",
+  "CARD_LOCKED": "Quella carta è bloccata e non può essere regalata! Usa il comando `{{prefix}}ut <CartaCodice>` per rimuovere il `Tag` di quella carta",
+
+  "CANCELLED": "Il processo è stato annullato",
+
+  "AUTHOR_NOT_VERIFIED": "Non sei verificato!",
+  "CARD_SELECTED": "La carta è selezionata e non trasferibile",
+  "EMBED_TITLE": "Dare Carta",
+  "MEM_NOT_VERIFIED": "L'utente non è verificato!",
+  "AUTHOR_BLACKLISTED": "Sei nella lista nera.."
 }

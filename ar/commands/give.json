@@ -1,18 +1,16 @@
 {
-    "DESCRIPTION": "أعطِ البطاقة لأي شخص",
-    "SLASH_DESC": "ادخل اسم المستخدم الذي تريد إعطاء البطاقة له.",
-    "SLASH_DESC2": "ادخل رمز البطاقة التي تريد إهدائها.",
-    "NO_MEMBER": "{{author}} لم يتم تقديم عضو",
-    "NO_SELF_GIVE": "{{author}} لا يمكنك إهداء البطاقة لنفسك",
-    "NOT_REGISTERED": "{{member}} غير مسجل",
-    "MEM_BLACKLISTED": "{{member}} موجود في القائمة السوداء",
-    "MEM_QUARANTINED": "المستخدم في الحجر الصحي",
-    "NO_CODE": "{{author}} لقد نسيت تقديم كود البطاقة",
-    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}give <user/userID> <cardcode>`",
-    "NO_CARD_FOUND": "لا يمكن العثور على بطاقة بهذا الرمز : `{{code}}`",
-    "CARD_LOCKED": "البطاقة مقفلة ولا يمكن إهداؤها. فك القفل للمتابعة",
-    "CARD_NOT_OWNED": "أنت لا تملك البطاقة بعد الآن",
-    "SUCCESS": "نجاح",
-    "CANCELLED": "ألغيت",
-    "GIVEN": "المرسل => المستلم"
+  "DESCRIPTION": "أعطِ البطاقة لأي شخص",
+  "SLASH_DESC": "ادخل اسم المستخدم الذي تريد إعطاء البطاقة له.",
+  "SLASH_DESC2": "ادخل رمز البطاقة التي تريد إهدائها.",
+
+  "NO_SELF_GIVE": "{{author}} لا يمكنك إهداء البطاقة لنفسك",
+  "NOT_REGISTERED": "{{member}} غير مسجل",
+  "MEM_BLACKLISTED": "{{member}} موجود في القائمة السوداء",
+  "MEM_QUARANTINED": "المستخدم في الحجر الصحي",
+
+  "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}give <user/userID> <cardcode>`",
+  "NO_CARD_FOUND": "لا يمكن العثور على بطاقة بهذا الرمز : `{{code}}`",
+  "CARD_LOCKED": "البطاقة مقفلة ولا يمكن إهداؤها. فك القفل للمتابعة",
+
+  "CANCELLED": "ألغيت"
 }

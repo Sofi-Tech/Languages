@@ -1,23 +1,22 @@
 {
-    "DESCRIPTION": "Birine bir kart ver",
-    "SLASH_DESC": "Bir kart vermek istediğin kullanıcıyı belirt",
-    "SLASH_DESC2": "Vermek istediğin kartın kodunu gir",
-    "NO_MEMBER": "{{author}} kullanıcı belirtilmedi",
-    "NO_SELF_GIVE": "{{author}} Kendine kart veremezsin",
-    "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil!",
-    "MEM_BLACKLISTED": "{{member}} kara listeye alınmış",
-    "MEM_QUARANTINED": "Bu kullanıcı karantinaya alınmış",
-    "NO_CODE": "{{author}} Kart kodu belirtmeyi unuttun",
-    "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <User/UserID> <CardCode>`",
-    "NO_CARD_FOUND": "Bu koda sahip bir kart bulunamadı: `{{code}}`",
-    "CARD_LOCKED": "Bu kart kilitli ve başkasına verilemez! Kartın \"Tag\"ını kaldırmak için \"{{prefix}}ut <CardCode>\" komutunu kullanın",
-    "CARD_NOT_OWNED": "Bu kart artık sana ait değil",
-    "SUCCESS": "BAŞARILI",
-    "CANCELLED": "İşlem İptal Edildi",
-    "GIVEN": "Gönderen → Alıcı",
-    "MEM_NOT_VERIFIED": "Kullanıcı doğrulanmadı!",
-    "AUTHOR_BLACKLISTED": "kara listeye alındın..",
-    "AUTHOR_NOT_VERIFIED": "Doğrulanmadın!",
-    "CARD_SELECTED": "Kart seçili ve devredilemez",
-    "EMBED_TITLE": "Kart ver"
+  "DESCRIPTION": "Birine bir kart ver",
+  "SLASH_DESC": "Bir kart vermek istediğin kullanıcıyı belirt",
+  "SLASH_DESC2": "Vermek istediğin kartın kodunu gir",
+
+  "NO_SELF_GIVE": "{{author}} Kendine kart veremezsin",
+  "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil!",
+  "MEM_BLACKLISTED": "{{member}} kara listeye alınmış",
+  "MEM_QUARANTINED": "Bu kullanıcı karantinaya alınmış",
+
+  "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <User/UserID> <CardCode>`",
+  "NO_CARD_FOUND": "Bu koda sahip bir kart bulunamadı: `{{code}}`",
+  "CARD_LOCKED": "Bu kart kilitli ve başkasına verilemez! Kartın \"Tag\"ını kaldırmak için \"{{prefix}}ut <CardCode>\" komutunu kullanın",
+
+  "CANCELLED": "İşlem İptal Edildi",
+
+  "MEM_NOT_VERIFIED": "Kullanıcı doğrulanmadı!",
+  "AUTHOR_BLACKLISTED": "kara listeye alındın..",
+  "AUTHOR_NOT_VERIFIED": "Doğrulanmadın!",
+  "CARD_SELECTED": "Kart seçili ve devredilemez",
+  "EMBED_TITLE": "Kart ver"
 }

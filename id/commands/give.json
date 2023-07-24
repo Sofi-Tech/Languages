@@ -1,23 +1,22 @@
 {
-    "DESCRIPTION": "Memberi kartu kepada seseorang",
-    "SLASH_DESC": "Pilih pengguna yang ingin anda beri kartu",
-    "SLASH_DESC2": "Masukkan kode kartu yang ingin anda berikan",
-    "NO_MEMBER": "{{author}} Tidak ada pengguna yang disediakan",
-    "NO_SELF_GIVE": "{{author}} Anda tidak dapat memberikan kartu ke diri sendiri",
-    "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
-    "MEM_BLACKLISTED": "{{member}} ada dalam daftar hitam",
-    "MEM_QUARANTINED": "Pengguna tersebut dikarantina",
-    "NO_CODE": "{{author}} Anda lupa menyediakan kode kartu",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}give <Pengguna/IDPengguna> <KodeKartu>`",
-    "NO_CARD_FOUND": "Tidak dapat menemukan kartu apa pun dengan kode: `{{code}}`",
-    "CARD_LOCKED": "Kartu tersebut terkunci dan tidak dapat diberikan! Gunakan perintah `{{prefix}}ut <KodeKartu>` untuk menghapus `Tag` kartu tersebut",
-    "CARD_NOT_OWNED": "Anda tidak memiliki kartu itu lagi",
-    "SUCCESS": "BERHASIL",
-    "CANCELLED": "Proses telah dibatalkan",
-    "GIVEN": "Pengirim → Penerima",
-    "MEM_NOT_VERIFIED": "Pengguna tidak diverifikasi!",
-    "AUTHOR_NOT_VERIFIED": "Anda tidak terverifikasi!",
-    "CARD_SELECTED": "Kartu ini dipilih dan tidak dapat dipindah tangankan",
-    "AUTHOR_BLACKLISTED": "Anda masuk daftar hitam ..",
-    "EMBED_TITLE": "Beri Kartu"
+  "DESCRIPTION": "Memberi kartu kepada seseorang",
+  "SLASH_DESC": "Pilih pengguna yang ingin anda beri kartu",
+  "SLASH_DESC2": "Masukkan kode kartu yang ingin anda berikan",
+
+  "NO_SELF_GIVE": "{{author}} Anda tidak dapat memberikan kartu ke diri sendiri",
+  "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
+  "MEM_BLACKLISTED": "{{member}} ada dalam daftar hitam",
+  "MEM_QUARANTINED": "Pengguna tersebut dikarantina",
+
+  "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}give <Pengguna/IDPengguna> <KodeKartu>`",
+  "NO_CARD_FOUND": "Tidak dapat menemukan kartu apa pun dengan kode: `{{code}}`",
+  "CARD_LOCKED": "Kartu tersebut terkunci dan tidak dapat diberikan! Gunakan perintah `{{prefix}}ut <KodeKartu>` untuk menghapus `Tag` kartu tersebut",
+
+  "CANCELLED": "Proses telah dibatalkan",
+
+  "MEM_NOT_VERIFIED": "Pengguna tidak diverifikasi!",
+  "AUTHOR_NOT_VERIFIED": "Anda tidak terverifikasi!",
+  "CARD_SELECTED": "Kartu ini dipilih dan tidak dapat dipindah tangankan",
+  "AUTHOR_BLACKLISTED": "Anda masuk daftar hitam ..",
+  "EMBED_TITLE": "Beri Kartu"
 }
