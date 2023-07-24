@@ -6,14 +6,14 @@
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
     "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder nicht in deinem `Inventory`",
     "PROVIDE_GLOW_NAME": "{{author}} Du musst einen Namen für diesen `Glow` angeben",
-    "GLOW_NAME_LONG": "{{author}} `Glow` -Namen dürfen höchstens 25 Zeichen enthalten",
+    "GLOW_NAME_LONG": "{{author}} Der Name deines ` Glow` darf nur **25** Zeichen lang sein",
     "GLOW_NAME_EXISTS": "{{author}} Der `Glow` -Name wird bereits verwendet",
     "EMBED_TITLE": "SOFI: GLOW-NAME",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Bist du sicher, dass du`{{oldName}}` in `{{newName}}` ändern möchtest?",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Bist du sicher, dass du den Namen deines `Glow` von `{{oldName}}` in `{{newName}}` ändern möchtest?",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "MISSING_ITEMS": "Du hast nicht genug Guthaben für diesen Vorgang",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Der `Glow`-Name wurde erfolgreich geändert",
-    "PROFANE_GLOW_NAME": "{{author}} Etwas stimmt mit dem Namen nicht. Versuche einen anderen",
-    "UNAVAILABLE": "Nicht verfügbar",
-    "AVAILABLE": "Verfügbar"
+    "MISSING_ITEMS": "{{author}} Du hast nicht genug {{currency}} für diesen Vorgang",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Der Name deines `Glow` wurde erfolgreich in {{newName}} geändert",
+    "PROFANE_GLOW_NAME": "{{author}} Der Name deines `Glow` **darf** keine Schimpfwörter enthalten",
+    "UNAVAILABLE": "Leer",
+    "AVAILABLE": "Aufgeladen"
 }

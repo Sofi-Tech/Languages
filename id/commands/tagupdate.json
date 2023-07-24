@@ -17,5 +17,5 @@
     "REPLACE_EMOJI": "Masukkan emoji yang anda ingin {{emoji}} diganti dengan",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Emoji tersebut tidak valid",
     "REPLACE_EMOJI_CONFIRMATION": "Apakah Anda yakin ingin mengubah emoji `Tag` ini dari {{oldEmoji}} ke {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "Berhasil memperbarui emoji `Tag` ini dari {{oldEmoji}} menjadi {{newEmoji}}"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Berhasil memperbarui emoji `Tag` ini dari {{oldEmoji}} menjadi {{newEmoji}}"
 }

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "इच्छा-सूची लीडरबोर्ड प्रदर्शित करता है",
+    "DESCRIPTION": "पसंदीदा-सूची का लीडरबोर्ड प्रदर्शित करता है",
     "CATEGORY": "WISHLIST",
-    "EMBED_TITLE": "इच्छा सूची लीडरबोर्ड - {{type}}",
-    "EMBED_FOOTER": "{{pages}} में से {{page}} पेज दिखाया जा रहा है",
+    "EMBED_TITLE": "SOFI: पसंदीदा-सूची लीडरबोर्ड ({{type}})",
+    "EMBED_FOOTER": "पृष्ठ: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "पात्र",
     "SERIES_BUTTON_LABEL": "श्रृंखला"
 }

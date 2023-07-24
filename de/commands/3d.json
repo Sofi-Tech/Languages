@@ -12,5 +12,6 @@
     "NO_3D_VERSION": "{{author}} Dieser Charakter hat derzeit keine `3D`-Variante",
     "3D_NOTE": "Du bist dabei, diese Karte in ihre \"3D\" Variante umzuwandeln. Durch diesen Vorgang wird deine Karte dauerhaft verändert, was nicht rückgängig gemacht werden kann. Die neue Karte wird eine verhältnisgleiche \"Gen\" haben wie die Karte zuvor. Sollte die Karte einen \"Frame\" haben, wird dieser gelöscht",
     "HALLOWEEN_3D_FAILED": "{{author}} Ein Geist hat deine Karte befallen! Der Vorgang ist fehlgeschlagen!",
-    "UPGRADE_3D_CANCEL": "Der Vorgang wurde abgebrochen"
+    "UPGRADE_3D_CANCEL": "Der Vorgang wurde abgebrochen",
+    "EVENT_NOTE": "Du bist dabei, diese Karte auf die 3D-Event-Version zu aktualisieren. Dieser Vorgang ist dauerhaft und kann nicht rückgängig gemacht werden. Bitte entferne den frame vor dem Upgrade. Beachte, dass das Gen der Karte nach Ende des Events auf der Website aufgedeckt und ausgerubbelt werden kann"
 }
