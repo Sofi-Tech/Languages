@@ -1,18 +1,18 @@
 {
-    "UB_DESCRIPTION": "Remover o \"Background\" aplicado de uma carta",
-    "UB_CATEGORY": "Cosméticos",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
-    "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar essa carta",
-    "INVALID_CODE": "{{author}} O código da carta é inválido ou não está em sua coleção",
-    "NO_GIF_CARD": "{{author}} Cartas `GIF` não podem ter um `Background` aplicado",
-    "NO_BACKGROUND": "{{author}} A carta não possui um \"Background\" aplicada nela",
-    "EMBED_TITLE": "REMOVER PLANO DE FUNDO",
-    "REMOVE_BG_CONFIRMATION": "Você está prestes a remover o `Background` desta carta\n",
-    "CARD_LOOKS": "Sua carta ficará como previsto abaixo\n",
-    "PROCESS_COST": "Remover um `Background` custará **1** `Wist` e retornará o `Background` para seu `Inventário`",
-    "COSMETICS": "COSMÉTICOS",
-    "NOT_ENOUGH_WIST": "Você não tem `Wists` suficientes para remover o `Background`",
-    "NO_BG_APPLIED": "{{author}} A carta não tem um `Background` aplicado nela",
-    "UNDO_BACKGROUND_SUCCESS": "O `Background` foi removido com sucesso e retornado ao seu `Inventário`",
-    "NO_OWNER": "{{author}} Esta carta não está mais em sua coleção"
+  "UB_DESCRIPTION": "Remover o \"Background\" aplicado de uma carta",
+  "UB_CATEGORY": "Cosméticos",
+  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
+  "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar essa carta",
+  "INVALID_CODE": "{{author}} O código da carta é inválido ou não está em sua coleção",
+  "NO_GIF_CARD": "{{author}} Cartas `GIF` não podem ter um `Background` aplicado",
+  "NO_BACKGROUND": "{{author}} A carta não possui um \"Background\" aplicada nela",
+  "EMBED_TITLE": "REMOVER PLANO DE FUNDO",
+  "REMOVE_BG_CONFIRMATION": "Você está prestes a remover o `Background` desta carta\n",
+
+  "PROCESS_COST": "Remover um `Background` custará **1** `Wist` e retornará o `Background` para seu `Inventário`",
+
+  "NOT_ENOUGH_WIST": "Você não tem `Wists` suficientes para remover o `Background`",
+  "NO_BG_APPLIED": "{{author}} A carta não tem um `Background` aplicado nela",
+  "UNDO_BACKGROUND_SUCCESS": "O `Background` foi removido com sucesso e retornado ao seu `Inventário`",
+  "NO_OWNER": "{{author}} Esta carta não está mais em sua coleção"
 }

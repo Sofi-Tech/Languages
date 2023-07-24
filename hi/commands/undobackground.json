@@ -1,18 +1,18 @@
 {
-    "UB_DESCRIPTION": "पत्ते पे लगाया गया \"Background\" हटाता है",
-    "UB_CATEGORY": "सौंदर्य",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}undobg <CardCode>`",
-    "NO_CHARACTER_FOUND": "{{author}} वह पत्ता नहीं मिला",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है",
-    "NO_GIF_CARD": "{{author}} `GIF` पत्तों `Background` नहीं लग सकते",
-    "NO_BACKGROUND": "{{author}} वह पत्ते पर कोई भी `Background` नहीं लगा है",
-    "EMBED_TITLE": "Background हटाए",
-    "REMOVE_BG_CONFIRMATION": "आप इस पत्ते का `Background` हटाने जा रहे है\n",
-    "CARD_LOOKS": "आपका कार्ड नीचे दिखाए गए पूर्व दर्शन जैसा दिखेगा\n",
-    "PROCESS_COST": "`Background` हटाने के लिए **1** `Wist` का खर्च लगता है। हटाए गए `Background`को सफलतापूर्वक आपकी `इन्वेंटरी`में पहुंचा दिया जायेगा",
-    "COSMETICS": "सौंदर्य",
-    "NOT_ENOUGH_WIST": "आपके पास `Background` हटाने के लिए पर्याप्त `Wist` नहीं हैं",
-    "NO_BG_APPLIED": "{{author}} वह पत्ते पर कोई `Background` लगा हुआ नहीं है",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` को सफलतापूर्वक हटा दिया गया है और आपकी `Inventory` में वापिस भेज दिया गया है",
-    "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है"
+  "UB_DESCRIPTION": "पत्ते पे लगाया गया \"Background\" हटाता है",
+  "UB_CATEGORY": "सौंदर्य",
+  "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}undobg <CardCode>`",
+  "NO_CHARACTER_FOUND": "{{author}} वह पत्ता नहीं मिला",
+  "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है",
+  "NO_GIF_CARD": "{{author}} `GIF` पत्तों `Background` नहीं लग सकते",
+  "NO_BACKGROUND": "{{author}} वह पत्ते पर कोई भी `Background` नहीं लगा है",
+  "EMBED_TITLE": "Background हटाए",
+  "REMOVE_BG_CONFIRMATION": "आप इस पत्ते का `Background` हटाने जा रहे है\n",
+
+  "PROCESS_COST": "`Background` हटाने के लिए **1** `Wist` का खर्च लगता है। हटाए गए `Background`को सफलतापूर्वक आपकी `इन्वेंटरी`में पहुंचा दिया जायेगा",
+
+  "NOT_ENOUGH_WIST": "आपके पास `Background` हटाने के लिए पर्याप्त `Wist` नहीं हैं",
+  "NO_BG_APPLIED": "{{author}} वह पत्ते पर कोई `Background` लगा हुआ नहीं है",
+  "UNDO_BACKGROUND_SUCCESS": "`Background` को सफलतापूर्वक हटा दिया गया है और आपकी `Inventory` में वापिस भेज दिया गया है",
+  "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है"
 }

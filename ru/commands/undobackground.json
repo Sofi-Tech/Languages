@@ -1,18 +1,18 @@
 {
-    "UB_DESCRIPTION": "Удаляет установленный \"Background\" с карточки",
-    "UB_CATEGORY": "Косметика",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
-    "NO_CHARACTER_FOUND": "{{author}} Не удалось найти эту карту",
-    "INVALID_CODE": "{{author}} Код этой карты либо недействителен, либо отсутствует в вашей коллекции",
-    "NO_GIF_CARD": "{{author}} `GIF` карты не могут устанавливать `Background` как эффект",
-    "NO_BACKGROUND": "{{author}} На этой карточке не установлен `Background`",
-    "EMBED_TITLE": "УБРАТЬ BACKGROUND",
-    "REMOVE_BG_CONFIRMATION": "Вы собираетесь удалить `Background` с вашей карты\n",
-    "CARD_LOOKS": "Ваша карта будет выглядеть как на превью ниже\n",
-    "PROCESS_COST": "Удаление `Background` обойдется вам в 1 `Wist` и вернет этот `Background` в ваш `Inventory`",
-    "COSMETICS": "КОСМЕТИКА",
-    "NOT_ENOUGH_WIST": "У вас недостаточно `Wists`, чтобы удалить `Background`",
-    "NO_BG_APPLIED": "{{author}} На этой карточке не установлен `Background`",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` был успешно удален и добавлен обратно в ваш `Inventory`",
-    "NO_OWNER": "{{author}} Этой карты больше нет в вашей коллекции"
+  "UB_DESCRIPTION": "Удаляет установленный \"Background\" с карточки",
+  "UB_CATEGORY": "Косметика",
+  "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
+  "NO_CHARACTER_FOUND": "{{author}} Не удалось найти эту карту",
+  "INVALID_CODE": "{{author}} Код этой карты либо недействителен, либо отсутствует в вашей коллекции",
+  "NO_GIF_CARD": "{{author}} `GIF` карты не могут устанавливать `Background` как эффект",
+  "NO_BACKGROUND": "{{author}} На этой карточке не установлен `Background`",
+  "EMBED_TITLE": "УБРАТЬ BACKGROUND",
+  "REMOVE_BG_CONFIRMATION": "Вы собираетесь удалить `Background` с вашей карты\n",
+
+  "PROCESS_COST": "Удаление `Background` обойдется вам в 1 `Wist` и вернет этот `Background` в ваш `Inventory`",
+
+  "NOT_ENOUGH_WIST": "У вас недостаточно `Wists`, чтобы удалить `Background`",
+  "NO_BG_APPLIED": "{{author}} На этой карточке не установлен `Background`",
+  "UNDO_BACKGROUND_SUCCESS": "`Background` был успешно удален и добавлен обратно в ваш `Inventory`",
+  "NO_OWNER": "{{author}} Этой карты больше нет в вашей коллекции"
 }

@@ -1,18 +1,18 @@
 {
-    "UB_DESCRIPTION": "Menghapus \"Background\" yang telah digunakan dari kartu",
-    "UB_CATEGORY": "Kosmetik",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}undobg <KodeKartu>`",
-    "NO_CHARACTER_FOUND": "{{author}} Karakter pada kartu ini tidak lagi tersedia di Sofi dan tidak dapat berinteraksi",
-    "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
-    "NO_GIF_CARD": "{{author}} Kartu `GIF` tidak dapat dihapus `Background`",
-    "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
-    "EMBED_TITLE": "SOFI: HAPUS BACKGROUND",
-    "REMOVE_BG_CONFIRMATION": "Apakah anda yakin ingin menghapus `Background` kartu ini?",
-    "CARD_LOOKS": "Kartu anda akan terlihat seperti pratinjau di bawah ini\n",
-    "PROCESS_COST": "Menghapus `Background` akan dikenakan biaya **1** `Wist` dan akan mengembalikan `Background` tersebut ke `Inventory` anda",
-    "COSMETICS": "KOSMETIK",
-    "NOT_ENOUGH_WIST": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk menghapus `Background` ini",
-    "NO_BG_APPLIED": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} `Latar belakang` kartu anda berhasil dihapus dan dikembalikan ke `Inventory` anda",
-    "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda"
+  "UB_DESCRIPTION": "Menghapus \"Background\" yang telah digunakan dari kartu",
+  "UB_CATEGORY": "Kosmetik",
+  "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}undobg <KodeKartu>`",
+  "NO_CHARACTER_FOUND": "{{author}} Karakter pada kartu ini tidak lagi tersedia di Sofi dan tidak dapat berinteraksi",
+  "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
+  "NO_GIF_CARD": "{{author}} Kartu `GIF` tidak dapat dihapus `Background`",
+  "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
+  "EMBED_TITLE": "SOFI: HAPUS BACKGROUND",
+  "REMOVE_BG_CONFIRMATION": "Apakah anda yakin ingin menghapus `Background` kartu ini?",
+
+  "PROCESS_COST": "Menghapus `Background` akan dikenakan biaya **1** `Wist` dan akan mengembalikan `Background` tersebut ke `Inventory` anda",
+
+  "NOT_ENOUGH_WIST": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk menghapus `Background` ini",
+  "NO_BG_APPLIED": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
+  "UNDO_BACKGROUND_SUCCESS": "{{author}} `Latar belakang` kartu anda berhasil dihapus dan dikembalikan ke `Inventory` anda",
+  "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda"
 }

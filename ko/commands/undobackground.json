@@ -1,17 +1,17 @@
 {
-    "UB_DESCRIPTION": "카드에 적용된 배경 제거",
-    "UB_CATEGORY": "화장품",
-    "WRONG_USAGE": "유효한 카드 코드를 입력하세요",
-    "NO_CHARACTER_FOUND": "캐릭터를 찾을 수 없습니다",
-    "INVALID_CODE": "{{author}} 해당 카드 코드는 유효하지 않거나 컬렉션에 없는 카드입니다",
-    "NO_GIF_CARD": "{{author}} 화장품 명령은 gif 카드에 적용되지 않습니다",
-    "NO_BACKGROUND": "{{author}} 카드에는 적용된 배경이 없습니다",
-    "EMBED_TITLE": "배경 원상복구",
-    "REMOVE_BG_CONFIRMATION": "카드에서 배경을 제거하려고 합니다\n",
-    "CARD_LOOKS": "카드는 아래와 같이 보일 것입니다\n",
-    "PROCESS_COST": "프로세스 비용은 1 wist이며 배경은 인벤토리에 반환됩니다",
-    "COSMETICS": "화장품",
-    "NOT_ENOUGH_WIST": "배경을 제거할 충분한 wist가 없습니다",
-    "NO_BG_APPLIED": "{{author}} 카드에는 적용된 배경이 없습니다",
-    "UNDO_BACKGROUND_SUCCESS": "배경이 성공적으로 제거되어 인벤토리에 추가되었습니다"
+  "UB_DESCRIPTION": "카드에 적용된 배경 제거",
+  "UB_CATEGORY": "화장품",
+  "WRONG_USAGE": "유효한 카드 코드를 입력하세요",
+  "NO_CHARACTER_FOUND": "캐릭터를 찾을 수 없습니다",
+  "INVALID_CODE": "{{author}} 해당 카드 코드는 유효하지 않거나 컬렉션에 없는 카드입니다",
+  "NO_GIF_CARD": "{{author}} 화장품 명령은 gif 카드에 적용되지 않습니다",
+  "NO_BACKGROUND": "{{author}} 카드에는 적용된 배경이 없습니다",
+  "EMBED_TITLE": "배경 원상복구",
+  "REMOVE_BG_CONFIRMATION": "카드에서 배경을 제거하려고 합니다\n",
+
+  "PROCESS_COST": "프로세스 비용은 1 wist이며 배경은 인벤토리에 반환됩니다",
+
+  "NOT_ENOUGH_WIST": "배경을 제거할 충분한 wist가 없습니다",
+  "NO_BG_APPLIED": "{{author}} 카드에는 적용된 배경이 없습니다",
+  "UNDO_BACKGROUND_SUCCESS": "배경이 성공적으로 제거되어 인벤토리에 추가되었습니다"
 }
