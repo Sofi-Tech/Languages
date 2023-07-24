@@ -3,10 +3,10 @@
   "GLOW_CATEGORY": "مستحضرات التجميل",
   "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}glow <CardCode> <GlowCode>`",
   "WRONG_CARD": "{{author}} رمز البطاقة الذي قدمته غير صالح أو غير موجود في مجموعتك",
-  "CARD_NOT_FOUND": "{{author}} ليس لديك أي بطاقات في مجموعتك حتى الآن",
+
   "NO_GIF_CARDS": "{{author}} لا يمكنك تطبيق تأثير `Glow` على بطاقة `GIF`",
   "UNLOCK_GLOWS": "{{author}} ليس لديك أي `Glows` حتى الآن",
-  "PROVIDE_GLOW_CODE": "{{author}} تحتاج أيضًا إلى توفير رمز `glowcode`",
+
   "INVALID_GLOW_CODE": "{{author}} تبدأ أكواد `Glow` دائمًا بـ **#**",
   "GLOW_NOT_FOUND": "{{author}} رمز `Glow` الذي قدمته غير صالح أو غير موجود في مخزونك",
   "EMBED_GLOW_TITLE": "SOFI: GLOW",

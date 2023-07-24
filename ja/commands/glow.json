@@ -3,10 +3,10 @@
   "GLOW_CATEGORY": "コスメティック",
   "WRONG_USAGE": "{{author}} 正しい使用例： `{{prefix}}glow <CardCode> <GlowCode>`",
   "WRONG_CARD": "{{author}} 提供されたカードコードが無効またはコレクションにありません",
-  "CARD_NOT_FOUND": "{{author}} まだコレクションにカードがありません",
+
   "NO_GIF_CARDS": "{{author}} `GIF`カードには`Glow`を適用できません",
   "UNLOCK_GLOWS": "{{author}} まだ`Glow`を持っていません",
-  "PROVIDE_GLOW_CODE": "{{author}} `glowcode`も提供する必要があります",
+
   "INVALID_GLOW_CODE": "{{author}} `Glow`のコードは常に **#** で始まります",
   "GLOW_NOT_FOUND": "{{author}} 提供された `Glow` コードが無効またはインベントリにありません",
   "EMBED_GLOW_TITLE": "SOFI: GLOW",

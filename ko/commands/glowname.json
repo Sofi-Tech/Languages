@@ -1,16 +1,16 @@
 {
-    "GN_DESCRIPTION": "글로우 이름 변경하기",
-    "GN_CATEGORY": "화장품",
-    "UNLOCK_GLOWS": "{{author}} 먼저 몇 가지 글로우를 언락해주세요.",
-    "WRONG_USAGE": "{{author}} 올바른 사용법: `글로우이름 [글로우코드] [새 이름]`",
-    "WRONG_GLOWCODE_FORMAT": "글로우코드는 `#`로 시작합니다.",
-    "GLOW_NOT_FOUND": "{{author}} 해당 글로우를 팔레트에서 찾을 수 없습니다. 코드가 정확한지 확인해주세요.",
-    "PROVIDE_GLOW_NAME": "{{author}} 글로우 이름을 제공하세요.",
-    "GLOW_NAME_LONG": "{{author}} 글로우 이름이 너무 깁니다. 25자 이하로 해보세요.",
-    "GLOW_NAME_EXISTS": "글로우 이름이 이미 사용 중입니다. 창의력을 발휘해보세요 😎",
-    "EMBED_TITLE": "SOFI: 글로우 이름",
-    "GLOWNAME_CHANGE_CONFIRMATION": "`{{oldName}}`을(를) `{{newName}}`(으)로 변경하시겠습니까?",
-    "EMBED_FOOTER": "글로우: {{availability}}",
-    "MISSING_ITEMS": "누락된 아이템",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "글로우 이름이 성공적으로 변경되었습니다."
+  "GN_DESCRIPTION": "글로우 이름 변경하기",
+  "GN_CATEGORY": "화장품",
+  "UNLOCK_GLOWS": "{{author}} 먼저 몇 가지 글로우를 언락해주세요.",
+  "WRONG_USAGE": "{{author}} 올바른 사용법: `글로우이름 [글로우코드] [새 이름]`",
+  "WRONG_GLOWCODE_FORMAT": "글로우코드는 `#`로 시작합니다.",
+  "GLOW_NOT_FOUND": "{{author}} 해당 글로우를 팔레트에서 찾을 수 없습니다. 코드가 정확한지 확인해주세요.",
+
+  "GLOW_NAME_LONG": "{{author}} 글로우 이름이 너무 깁니다. 25자 이하로 해보세요.",
+  "GLOW_NAME_EXISTS": "글로우 이름이 이미 사용 중입니다. 창의력을 발휘해보세요 😎",
+  "EMBED_TITLE": "SOFI: 글로우 이름",
+  "GLOWNAME_CHANGE_CONFIRMATION": "`{{oldName}}`을(를) `{{newName}}`(으)로 변경하시겠습니까?",
+
+  "MISSING_ITEMS": "누락된 아이템",
+  "GLOWNAME_CHANGE_SUCCESSFUL": "글로우 이름이 성공적으로 변경되었습니다."
 }

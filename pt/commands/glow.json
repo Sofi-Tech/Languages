@@ -3,10 +3,10 @@
   "GLOW_CATEGORY": "Cosméticos",
   "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}glow <CódigodaCarta> <CódigodoGlow>`",
   "WRONG_CARD": "{{author}} O código da carta que você forneceu é inválido ou não está em sua coleção",
-  "CARD_NOT_FOUND": "{{author}} Você ainda não tem nenhuma carta em sua coleção",
+
   "NO_GIF_CARDS": "{{author}} Você não pode aplicar um `Glow` em uma carta `GIF`",
   "UNLOCK_GLOWS": "{{author}} Você ainda não tem nenhum `Glow`",
-  "PROVIDE_GLOW_CODE": "{{author}} Você também precisa fornecer um código de `Glow`",
+
   "INVALID_GLOW_CODE": "{{author}} Os códigos de `Glow` sempre começam com um **#**",
   "GLOW_NOT_FOUND": "{{author}} O código do `Glow` que você digitou é inválido ou não está em seu `Inventory`",
   "EMBED_GLOW_TITLE": "SOFI: GERAR GLOW",

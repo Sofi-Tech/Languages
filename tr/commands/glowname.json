@@ -1,19 +1,19 @@
 {
-    "GN_DESCRIPTION": "\"Glow\"un adını değiştirin",
-    "GN_CATEGORY": "Kozmetik",
-    "UNLOCK_GLOWS": "{{author}} Henüz hiç `Glows` unuz bulunmamaktadır",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowCode> <NewName>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları her zaman `#` ile başlar",
-    "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya öğe `Inventory`nizde bulunmuyor",
-    "PROVIDE_GLOW_NAME": "{{author}} Bu `Glow` için bir ad belirlemeniz gerekiyor",
-    "GLOW_NAME_LONG": "{{author}} `Glow` adları en fazla 25 karakter içerebilir",
-    "GLOW_NAME_EXISTS": "{{author}} `Glow` adı zaten başka bir yerde kullanılıyor",
-    "EMBED_TITLE": "SOFI: PARILTININ ADI",
-    "GLOWNAME_CHANGE_CONFIRMATION": "`{{oldName}}` adını `{{newName}}` olarak değiştirmek istediğinizden emin misiniz?",
-    "EMBED_FOOTER": "Glow; {{availability}}",
-    "MISSING_ITEMS": "Bu işlem için yeterli para biriminiz yok",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "`Glow` adı başarıyla değiştirildi",
-    "PROFANE_GLOW_NAME": "{{author}} isimle ilgili bir sorun var. Başka bir tane deneyin",
-    "UNAVAILABLE": "Kullanım dışı",
-    "AVAILABLE": "Mevcut"
+  "GN_DESCRIPTION": "\"Glow\"un adını değiştirin",
+  "GN_CATEGORY": "Kozmetik",
+  "UNLOCK_GLOWS": "{{author}} Henüz hiç `Glows` unuz bulunmamaktadır",
+  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowCode> <NewName>`",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları her zaman `#` ile başlar",
+  "GLOW_NOT_FOUND": "{{author}} Sağladığınız \"Glow\" kodu geçersiz veya öğe `Inventory`nizde bulunmuyor",
+
+  "GLOW_NAME_LONG": "{{author}} `Glow` adları en fazla 25 karakter içerebilir",
+  "GLOW_NAME_EXISTS": "{{author}} `Glow` adı zaten başka bir yerde kullanılıyor",
+  "EMBED_TITLE": "SOFI: PARILTININ ADI",
+  "GLOWNAME_CHANGE_CONFIRMATION": "`{{oldName}}` adını `{{newName}}` olarak değiştirmek istediğinizden emin misiniz?",
+
+  "MISSING_ITEMS": "Bu işlem için yeterli para biriminiz yok",
+  "GLOWNAME_CHANGE_SUCCESSFUL": "`Glow` adı başarıyla değiştirildi",
+  "PROFANE_GLOW_NAME": "{{author}} isimle ilgili bir sorun var. Başka bir tane deneyin",
+  "UNAVAILABLE": "Kullanım dışı",
+  "AVAILABLE": "Mevcut"
 }

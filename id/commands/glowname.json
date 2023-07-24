@@ -1,19 +1,19 @@
 {
-    "GN_DESCRIPTION": "Mengubah nama \"Glow\"",
-    "GN_CATEGORY": "Kosmetik",
-    "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <KodeGlow> <NamaBaru>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan `#`",
-    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di 'Inventory'",
-    "PROVIDE_GLOW_NAME": "{{author}} Anda perlu memberikan nama untuk `Glow` ini",
-    "GLOW_NAME_LONG": "{{author}} Nama `Glow` anda hanya boleh terdiri dari **25** karakter",
-    "GLOW_NAME_EXISTS": "{{author}} Nama `Glow` sudah digunakan di tempat lain",
-    "EMBED_TITLE": "SOFI: NAMA GLOW",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Apakah Anda yakin ingin mengubah nama `Glow` anda dari `{{oldName}}` menjadi `{{newName}}`?",
-    "EMBED_FOOTER": "Glow: {{availability}}",
-    "MISSING_ITEMS": "{{author}} Anda tidak memiliki cukup {{currency}} untuk proses ini",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah nama `Glow` Anda menjadi {{newName}}",
-    "UNAVAILABLE": "Kosong",
-    "PROFANE_GLOW_NAME": "{{author}} Nama `Glow` anda tidak boleh mengandung kata-kata kotor",
-    "AVAILABLE": "Terisi"
+  "GN_DESCRIPTION": "Mengubah nama \"Glow\"",
+  "GN_CATEGORY": "Kosmetik",
+  "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
+  "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <KodeGlow> <NamaBaru>`",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan `#`",
+  "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di 'Inventory'",
+
+  "GLOW_NAME_LONG": "{{author}} Nama `Glow` anda hanya boleh terdiri dari **25** karakter",
+  "GLOW_NAME_EXISTS": "{{author}} Nama `Glow` sudah digunakan di tempat lain",
+  "EMBED_TITLE": "SOFI: NAMA GLOW",
+  "GLOWNAME_CHANGE_CONFIRMATION": "Apakah Anda yakin ingin mengubah nama `Glow` anda dari `{{oldName}}` menjadi `{{newName}}`?",
+
+  "MISSING_ITEMS": "{{author}} Anda tidak memiliki cukup {{currency}} untuk proses ini",
+  "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah nama `Glow` Anda menjadi {{newName}}",
+  "UNAVAILABLE": "Kosong",
+  "PROFANE_GLOW_NAME": "{{author}} Nama `Glow` anda tidak boleh mengandung kata-kata kotor",
+  "AVAILABLE": "Terisi"
 }
