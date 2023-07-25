@@ -6,11 +6,11 @@
     "USER_NOT_FOUND": "{{author}} Konnte diesen Benutzer nicht finden",
     "PLAYER_NOT_EXIST": "{{author}} Dieser Benutzer ist nicht registriert!",
     "ALBUM_NOT_FOUND": "{{author}} Dieser Benutzer hat keine Alben",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} kann Album mit dem Namen `{{albumName}}` nicht finden",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} Es konnte kein Album mit dem Namen`{{albumName}}` gefunden werden",
     "PROCESSING": "Verarbeitung <a:_:876610443148406794>",
-    "NO_CARDS": "Keine Karten in diesem Album gefunden",
-    "EMBED_TITLE": "Album von {{username}}",
+    "NO_CARDS": "{{author}} Es befinden sich noch keine Karten in diesem Album",
+    "EMBED_TITLE": "SOFI: ALBUM {{username}}",
     "ALBUM_BUTTON_LABEL": "Album erstellen",
-    "EMBED_ALBUM_TITLE": "{{albumName}} Album",
-    "EMBED__ALBUM_FOOTER": "Von {{userTag}}"
+    "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
+    "EMBED__ALBUM_FOOTER": "Eigentum von {{userTag}}"
 }

@@ -1,9 +1,9 @@
 {
     "EXTRA_GRAB": "{{user}} Dein **Extra Grab** wird verwendet. Du hast noch **{{remaining}}** übrig",
-    "GRAB_COOLDOWN": "{{user}} Dein `Grab` ist in eine weitere Abklingzeit von {{cooldown}}",
-    "EVENT_GRAB": "{{user}} hat **{{amount}}** `{{eventItem}}`🍙 aufgehoben",
+    "GRAB_COOLDOWN": "{{user}} Dein `Grab` hat noch weitere {{cooldown}} Abklingzeit",
+    "EVENT_GRAB": "{{user}} hat **{{amount}}** `{{eventItem}}`🍙 eingesammelt",
     "GRAB_CARD_PLURAL": "{{winner}} hat sich im Kampf gegen **{{userCount}}** andere Spieler durchgesetzt und die **{{character}}** Karte erhalten (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
-    "CANNOT_BE_GRABBED": "Diese Karten sind nicht mehr verfügbar",
+    "CANNOT_BE_GRABBED": "Diese Karten können nicht länger eingesammelt werden",
     "TOOK_CARD": "{{user}} hat die **{{character}}** Karte erhalten (`{{code}}`) | {{elementEmoji}} **{{elementName}}** (**{{eventCardInfo}}**)",
     "SNATCHED_EVENT_ITEM": "{{winner}} hat sich **{{amount}}** `{{eventItem}}` von <@{{userId}}> geschnappt",
     "GRAB_EVENT_ITEM": "{{winner}} hat **{{userCount}}** andere Spieler überwältigt und hat **{{amount}}** `{{eventItem}}` erhalten",
