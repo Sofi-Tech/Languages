@@ -10,7 +10,7 @@
     "NO_CARD_FOUND": "{{author}} Der von dir angegebene Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
     "CARD_LOCKED": "{{author}} Diese Karte ist gesperrt und kann nicht weitergegeben werden! Verwende den Befehl `{{prefix}}ut <CardCode>`, um die Karte zu entsperren",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
-    "MEM_NOT_VERIFIED": "{{author}} Der Benutzer ist nicht verifiziert!",
+    "MEM_NOT_VERIFIED": "{{author}} Dieser Benutzer ist nicht verifiziert!",
     "AUTHOR_BLACKLISTED": "{{author}} Du bist auf der Schwarzen Liste",
     "AUTHOR_NOT_VERIFIED": "{{author}} Du bist nicht verifiziert",
     "CARD_SELECTED": "{{author}} Diese Karte wird in einem Deck verwendet und kann nicht übertragen werden",
