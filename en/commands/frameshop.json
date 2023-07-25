@@ -8,7 +8,7 @@
     "EMBED_CF_TITLE": "SOFI: CUSTOM `FRAMES`",
     "EMBED_CF_FOOTER": "Page: {{page}}/{{totalPages}}",
     "EMBED_FOOTER": "Uploaded {{date}} days ago",
-    "FRAME_NOT_FOUND": "{{author}} Could not find a `Frame` with {{nameOrCode}} `{{arg}}`",
+    "FRAME_NOT_FOUND": "{{author}} Could not find any `Frame` with the code: `{{arg}}`",
     "EMBED_TITLE": "Custom Frame: {{frame}}",
     "FS_CODE": "Code: `{{code}}`",
     "FRAME_DESC": "Description: {{description}}",
