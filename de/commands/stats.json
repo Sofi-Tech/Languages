@@ -41,7 +41,7 @@
     "NO_AVAILABLE_MOVES": "{{author}} Diese Karte hat keine weiteren Fähigkeiten aus denen man wählen kann",
     "UNLOCKED_MOVES": "{{author}} Deine Karte hat die Fähigkeit **{{attackName}}** mit einer Effektivität von **{{newMove}}%** erlernt",
     "MISSING_REROLLS": "{{author}} Du hast keine `Reroll Scroll`",
-    "EFFECTIVE_REROLL": "{{author}} Die Effektivität von `{{attackName}}` wurde neu gerollt: **{{effectiveNess}}%** 🠚 **{{newEffective}}%**",
+    "EFFECTIVE_REROLL": "{{author}} Die Effektivität von `{{attackName}}` wurde neu gewürfelt: **{{effectiveNess}}%** 🠚 **{{newEffective}}%**",
     "NOT_ENOUGH_POINTS": "{{author}} Deine Karte hat keine verfügbaren Upgrade-Punkte",
     "POINTS_NEGATIVE_ERROR": "{{author}} Du kannst einem Statuswert keine negativen Punkte hinzufügen",
     "CANNOT_EXCEED_POINTS": "{{author}} Du kannst einer Karte maximal **120** {{stat}} Punkte vergeben",
