@@ -1,18 +1,15 @@
 {
-  "GN_DESCRIPTION": "Cambia il nome di un \"Glow\"",
-  "GN_CATEGORY": "Cosmetici",
-  "UNLOCK_GLOWS": "{{author}} Non hai nessun `Glows`",
-  "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}gn <GlowCode> <NewName>`",
-  "WRONG_GLOWCODE_FORMAT": "{{author}} I codici `Glow` iniziano sempre con **#**",
-  "GLOW_NOT_FOUND": "{{author}} Il codice `Glow` che hai fornito non è valido o non è nel tuo `Inventory`",
-
-  "GLOW_NAME_LONG": "{{author}} I nomi `Glow` possono avere un massimo di 25 caratteri",
-  "GLOW_NAME_EXISTS": "{{author}} il nome di `Glow` è già in uso da qualcun'altro",
-  "EMBED_TITLE": "SOFI: NOME DEL GLOW",
-  "GLOWNAME_CHANGE_CONFIRMATION": "Sei sicuro di voler cambiare `{{oldName}}` in `{{newName}}`?",
-
-  "MISSING_ITEMS": "Non hai abbastanza valuta per procedere",
-  "GLOWNAME_CHANGE_SUCCESSFUL": "Il nome del `glow` è stato aggiornato con successo",
-  "AVAILABLE": "Disponibile",
-  "UNAVAILABLE": "Non Disponibile"
+    "GN_DESCRIPTION": "Cambia il nome di un \"Glow\"",
+    "GN_CATEGORY": "Cosmetici",
+    "UNLOCK_GLOWS": "{{author}} Non hai nessun `Glows`",
+    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}gn <GlowCode> <NewName>`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} I codici `Glow` iniziano sempre con **#**",
+    "GLOW_NOT_FOUND": "{{author}} Il codice `Glow` che hai fornito non è valido o non è nel tuo `Inventory`",
+    "GLOW_NAME_LONG": "{{author}} I nomi `Glow` possono avere un massimo di 25 caratteri",
+    "GLOW_NAME_EXISTS": "{{author}} il nome di `Glow` è già in uso da qualcun'altro",
+    "EMBED_TITLE": "SOFI: NOME DEL GLOW",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Sei sicuro di voler cambiare `{{oldName}}` in `{{newName}}`?",
+    "MISSING_ITEMS": "Non hai abbastanza valuta per procedere",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "Il nome del `glow` è stato aggiornato con successo",
+    "AVAILABLE": "Disponibile"
 }

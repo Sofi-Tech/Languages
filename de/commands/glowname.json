@@ -1,19 +1,16 @@
 {
-  "GN_DESCRIPTION": "Ändert den Namen eines \"Glow\"",
-  "GN_CATEGORY": "Kosmetika",
-  "UNLOCK_GLOWS": "{{author}} Du hast keine `Glows`",
-  "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gn <GlowCode> <NewName>`",
-  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
-  "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder nicht in deinem `Inventory`",
-
-  "GLOW_NAME_LONG": "{{author}} Der Name deines ` Glow` darf nur **25** Zeichen lang sein",
-  "GLOW_NAME_EXISTS": "{{author}} Der `Glow` -Name wird bereits verwendet",
-  "EMBED_TITLE": "SOFI: GLOW-NAME",
-  "GLOWNAME_CHANGE_CONFIRMATION": "Bist du sicher, dass du den Namen deines `Glow` von `{{oldName}}` in `{{newName}}` ändern möchtest?",
-
-  "MISSING_ITEMS": "{{author}} Du hast nicht genug {{currency}} für diesen Vorgang",
-  "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Der Name deines `Glow` wurde erfolgreich in {{newName}} geändert",
-  "PROFANE_GLOW_NAME": "{{author}} Der Name deines `Glow` **darf** keine Schimpfwörter enthalten",
-  "UNAVAILABLE": "Leer",
-  "AVAILABLE": "Aufgeladen"
+    "GN_DESCRIPTION": "Ändert den Namen eines \"Glow\"",
+    "GN_CATEGORY": "Kosmetika",
+    "UNLOCK_GLOWS": "{{author}} Du hast keine `Glows`",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gn <GlowCode> <NewName>`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
+    "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder nicht in deinem `Inventory`",
+    "GLOW_NAME_LONG": "{{author}} Der Name deines ` Glow` darf nur **25** Zeichen lang sein",
+    "GLOW_NAME_EXISTS": "{{author}} Der `Glow` -Name wird bereits verwendet",
+    "EMBED_TITLE": "SOFI: GLOW-NAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Bist du sicher, dass du den Namen deines `Glow` von `{{oldName}}` in `{{newName}}` ändern möchtest?",
+    "MISSING_ITEMS": "{{author}} Du hast nicht genug {{currency}} für diesen Vorgang",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Der Name deines `Glow` wurde erfolgreich in {{newName}} geändert",
+    "PROFANE_GLOW_NAME": "{{author}} Der Name deines `Glow` **darf** keine Schimpfwörter enthalten",
+    "AVAILABLE": "Aufgeladen"
 }
