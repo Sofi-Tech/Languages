@@ -11,6 +11,5 @@
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "Are you sure you want to change the name of your `Glow` from `{{oldName}}` to `{{newName}}`?",
     "MISSING_ITEMS": "{{author}} You don't have enough `{{currency}}` for this process",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Successfully changed the name of your `Glow` to `{{newName}}`",
-    "AVAILABLE": "Charged"
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Successfully changed the name of your `Glow` to `{{newName}}`"
 }
