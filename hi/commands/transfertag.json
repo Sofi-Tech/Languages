@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "पत्ते को एक \"Tag\" se दूसरे \"Tag\" में स्थानांतरित करता है",
-    "TT_CATEGORY": "Tags",
+    "TT_DESCRIPTION": "पत्ते को एक Tag से दूसरे Tag में स्थानांतरित करता है",
+    "TT_CATEGORY": "TAGS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}trt <fromTagName> <toTagName>`",
-    "TAG_NOT_FOUND": "`{{tag}}` नाम का कोई `Tag` नहीं मिला",
-    "TRANSFER_TAG_SUCCESSFUL": "{{fromTag}} `Tag` के सभी पत्ते `{{toTag}}` में सफलतापूर्वक स्थानांतरित हो गए है"
+    "TAG_NOT_FOUND": "{{author}} इस नाम से कोई Tag मौजूद नहीं है: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} सभी पत्ते `{{fromTag}}` से `{{toTag}}` में सफलतापूर्वक स्थानांतरित किए गए"
 }

@@ -1,12 +1,12 @@
 {
-    "BG_DESCRIPTION": "अपने 3डी पत्ते पर Background लगाए",
+    "BG_DESCRIPTION": "3डी पत्ते पर Background लगाता है",
     "BG_CATEGORY": "COSMETICS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में नहीं है",
+    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है",
     "NON_3D_CARDS": "{{author}} गेर-3डी पत्ते पर आप Background नहीं लगा सकते",
-    "BG_NOT_FOUND": "{{author}} इस ID के साथ कोई Background नहीं मिली",
+    "BG_NOT_FOUND": "{{author}} इस ID के साथ कोई Background नहीं मिला",
     "EMBED_TITLE": "SOFI: BACKGROUND",
-    "EMBED_DESCRIPTION": "क्या आप वाकई में **{{background}}** Background लगाना चाहते है इस पत्ते पे?",
-    "USER_NO_BG": "{{author}} आपके पास यह Background नहीं है",
-    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** Background सफतलापूर्वक पत्ते पर लगाई गई"
+    "EMBED_DESCRIPTION": "क्या आप वाकई में **{{background}}** `Background` लगाना चाहते है इस पत्ते पे?",
+    "USER_NO_BG": "{{author}} आपके पास यह `Background` नहीं है",
+    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** `Background` सफतलापूर्वक पत्ते पर लगाई गई"
 }

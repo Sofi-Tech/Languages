@@ -1,21 +1,18 @@
 {
-  "GLOW_DESCRIPTION": "Устанавливает \"Glow\" эффект на вашу карту",
-  "GLOW_CATEGORY": "Косметика",
-  "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}glow <КодКарты> <GlowКод>`",
-  "WRONG_CARD": "{{author}} Код карты, который вы указали, либо недействителен, либо не находится в вашей коллекции",
-
-  "NO_GIF_CARDS": "{{author}} Вы не можете установить `Glow` на `GIF` карту",
-  "UNLOCK_GLOWS": "{{author}} У вас пока нет ни одного `Glows`",
-
-  "INVALID_GLOW_CODE": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
-  "GLOW_NOT_FOUND": "{{author}} `Glow` код, который вы указали, либо недействительный, либо отсутствует в вашем `Inventory`",
-  "EMBED_GLOW_TITLE": "SOFI: ГЕНЕРАЦИЯ GLOW",
-  "EMBED_SG_TITLE": "SOFI: СУПЕР GLOW",
-  "GLOW_NAME": "Название: {{name}}",
-  "GLOW_CODE": "Код: #{{code}}",
-  "EMBED_FOOTER": "Glow: {{availability}}",
-  "GLOW_UNAVAILABLE": "У этого `Glow` нет зарядов",
-  "GLOW_APPLY_SUCCESSFUL": "`Glow` был успешно установлен",
-  "UNAVAILABLE": "Недоступно",
-  "AVAILABLE": "Доступно"
+    "GLOW_DESCRIPTION": "Устанавливает \"Glow\" эффект на вашу карту",
+    "GLOW_CATEGORY": "Косметика",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}glow <КодКарты> <GlowКод>`",
+    "WRONG_CARD": "{{author}} Код карты, который вы указали, либо недействителен, либо не находится в вашей коллекции",
+    "NO_GIF_CARDS": "{{author}} Вы не можете установить `Glow` на `GIF` карту",
+    "INVALID_GLOW_CODE": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
+    "GLOW_NOT_FOUND": "{{author}} `Glow` код, который вы указали, либо недействительный, либо отсутствует в вашем `Inventory`",
+    "EMBED_GLOW_TITLE": "SOFI: ГЕНЕРАЦИЯ GLOW",
+    "EMBED_SG_TITLE": "SOFI: СУПЕР GLOW",
+    "GLOW_NAME": "Название: {{name}}",
+    "GLOW_CODE": "Код: #{{code}}",
+    "EMBED_FOOTER": "Glow: {{availability}}",
+    "GLOW_UNAVAILABLE": "У этого `Glow` нет зарядов",
+    "GLOW_APPLY_SUCCESSFUL": "`Glow` был успешно установлен",
+    "UNAVAILABLE": "Недоступно",
+    "AVAILABLE": "Доступно"
 }

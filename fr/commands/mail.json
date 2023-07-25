@@ -1,1 +1,8 @@
-{}
+{
+    "MENU_PLACEHOLDER": "Sélectionnez une Option",
+    "NO_MAILS_FOUND": "{{author}} Vous n'avez pas de `Mail` dans votre boîte aux lettres",
+    "EMBED_AUTHOR": "Boîte aux lettres de {{username}}",
+    "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
+    "MAIL_CATEGORY": "Settings",
+    "MAIL_DESCRIPTION": "Ouvre votre boîte aux lettres"
+}

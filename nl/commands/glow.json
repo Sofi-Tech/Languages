@@ -1,21 +1,18 @@
 {
-  "GLOW_DESCRIPTION": "Voegt een \"Glow\"-effect toe aan je kaart",
-  "GLOW_CATEGORY": "Cosmetica",
-  "WRONG_USAGE": "{{author}} Juist gebruik: `{{prefix}}glow <Kaartcode> <Glowcode>`",
-  "WRONG_CARD": "{{author}} De kaartcode die u heeft ingevoerd is ongeldig of zit niet in uw verzameling",
-
-  "NO_GIF_CARDS": "{{author}} U kunt geen `Glow` toepassen op een `GIF` kaart",
-  "UNLOCK_GLOWS": "{{author}} U heeft nog geen `Glows`",
-
-  "INVALID_GLOW_CODE": "{{author}} `Glow` codes beginnen altijd met een **#**",
-  "GLOW_NOT_FOUND": "{{author}} De `Glow` code die u heeft ingevoerd is ongeldig of zit niet in uw inventaris",
-  "EMBED_GLOW_TITLE": "SOFI: GLOW",
-  "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
-  "GLOW_NAME": "Naam: {{name}}",
-  "GLOW_CODE": "Code: #{{code}}",
-  "EMBED_FOOTER": "Glow: {{availability}}",
-  "GLOW_UNAVAILABLE": "Die `Glow` heeft geen ladingen",
-  "GLOW_APPLY_SUCCESSFUL": "De `Glow` is succesvol toegepast",
-  "UNAVAILABLE": "Niet beschikbaar",
-  "AVAILABLE": "Beschikbaar"
+    "GLOW_DESCRIPTION": "Voegt een \"Glow\"-effect toe aan je kaart",
+    "GLOW_CATEGORY": "Cosmetica",
+    "WRONG_USAGE": "{{author}} Juist gebruik: `{{prefix}}glow <Kaartcode> <Glowcode>`",
+    "WRONG_CARD": "{{author}} De kaartcode die u heeft ingevoerd is ongeldig of zit niet in uw verzameling",
+    "NO_GIF_CARDS": "{{author}} U kunt geen `Glow` toepassen op een `GIF` kaart",
+    "INVALID_GLOW_CODE": "{{author}} `Glow` codes beginnen altijd met een **#**",
+    "GLOW_NOT_FOUND": "{{author}} De `Glow` code die u heeft ingevoerd is ongeldig of zit niet in uw inventaris",
+    "EMBED_GLOW_TITLE": "SOFI: GLOW",
+    "EMBED_SG_TITLE": "SOFI: SUPER GLOW",
+    "GLOW_NAME": "Naam: {{name}}",
+    "GLOW_CODE": "Code: #{{code}}",
+    "EMBED_FOOTER": "Glow: {{availability}}",
+    "GLOW_UNAVAILABLE": "Die `Glow` heeft geen ladingen",
+    "GLOW_APPLY_SUCCESSFUL": "De `Glow` is succesvol toegepast",
+    "UNAVAILABLE": "Niet beschikbaar",
+    "AVAILABLE": "Beschikbaar"
 }

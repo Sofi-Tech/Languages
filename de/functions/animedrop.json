@@ -1,6 +1,6 @@
 {
     "DROP_WILL_HAPPEN": "\nKarten werden generiert <t:{{timestamp}}:R>",
     "NO_VOTES": "Da für keine Serie gestimmt wurde, wird die Kartengenerierung abgebrochen!",
-    "DROP_CARDS": "When der Timer ausläuft, werden **2** zufällige Karten aus der Serie mit den meisten Stimmen generiert!\n",
+    "DROP_CARDS": "Wenn der Timer abläuft, werden **2** zufällige Karten aus der Serie mit den meisten Stimmen generiert!\n",
     "NOT_ENOUGH_CHARACTERS": "Die gewählte Serie hat nicht genügend Charaktere um Karten zu generieren"
 }
