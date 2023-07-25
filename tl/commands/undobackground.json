@@ -1,18 +1,15 @@
 {
-  "UB_DESCRIPTION": "Tinanggal ang nilagay na `Background`sa card",
-  "UB_CATEGORY": "Kagandahan",
-  "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}undobg <CardCode>`",
-  "NO_CHARACTER_FOUND": "{{author}} Ang karakter na ito sa kard ay hindi na nagagamit sa Sofi",
-  "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay ay hindi wasto o wala sa iyong koleksyon",
-  "NO_GIF_CARD": "{{author}}Ang `GIF`kard ay hindi pwedeng tanggalin ang kanyang `Background`",
-  "NO_BACKGROUND": "{{author}} Ang kard ay walang nakalagay na `Background`",
-  "EMBED_TITLE": "SOFI: TANGGALIN ANG BACKGROUND",
-  "REMOVE_BG_CONFIRMATION": "Sigurado ka bang gusto mong tanggalin ang `Background`ng kard na ito?",
-
-  "PROCESS_COST": "Ang pagtanggal ng `Background`ay nagkakahalaga ng **1** `Wist`at maibabalik ang iyong `Background`sa `Inventory`",
-
-  "NOT_ENOUGH_WIST": "{{author}} Wala kang sapat na `{{currency}}` para tanggalin ang `Background`",
-  "NO_BG_APPLIED": "{{author}} Ang card ay walang ginamit na `Background`",
-  "UNDO_BACKGROUND_SUCCESS": "{{author}}Matagumpay na natanggal ang `Background`at idinagdag sa iyong `Inventory`",
-  "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon"
+    "UB_DESCRIPTION": "Tinanggal ang nilagay na `Background`sa card",
+    "UB_CATEGORY": "Kagandahan",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}undobg <CardCode>`",
+    "NO_CHARACTER_FOUND": "{{author}} Ang karakter na ito sa kard ay hindi na nagagamit sa Sofi",
+    "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay ay hindi wasto o wala sa iyong koleksyon",
+    "NO_GIF_CARD": "{{author}}Ang `GIF`kard ay hindi pwedeng tanggalin ang kanyang `Background`",
+    "NO_BACKGROUND": "{{author}} Ang kard ay walang nakalagay na `Background`",
+    "EMBED_TITLE": "SOFI: TANGGALIN ANG BACKGROUND",
+    "PROCESS_COST": "Ang pagtanggal ng `Background`ay nagkakahalaga ng **1** `Wist`at maibabalik ang iyong `Background`sa `Inventory`",
+    "NOT_ENOUGH_WIST": "{{author}} Wala kang sapat na `{{currency}}` para tanggalin ang `Background`",
+    "NO_BG_APPLIED": "{{author}} Ang card ay walang ginamit na `Background`",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}}Matagumpay na natanggal ang `Background`at idinagdag sa iyong `Inventory`",
+    "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon"
 }

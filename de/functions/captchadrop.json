@@ -1,7 +1,7 @@
 {
     "EMBED_TITLE": "Captcha Karte",
     "EXTRA_GRAB": "{{user}} Dein **Extra Grab** wird verwendet. Du hast noch **{{remaining}}** übrig",
-    "EMBED_FOOTER": "Erhalte die Karte hierüber, indem du das Captcha schreibst",
+    "EMBED_FOOTER": "Erhalte die Karte oben gezeigte Karte, indem du das Captcha schreibst",
     "BATTLED_WON_PLURAL": "{{winner}} hat sich im Kampf gegen **{{userCount}}** andere Spieler durchgesetzt und die **{{character}}** Karte erhalten (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "WAIT_TO_CLAIM": "{{user}} Du musst **{{cooldown}}** warten um eine weitere Karte zu erhalten",
     "TOOK_THE_CARD": "{{user}} hat die **{{character}}** Karte erhalten (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",

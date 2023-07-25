@@ -1,18 +1,15 @@
 {
-  "UB_DESCRIPTION": "Karta uygulanan \"Background\"ı kalırır",
-  "UB_CATEGORY": "Kozmetik",
-  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}undobg <CardCode>`",
-  "NO_CHARACTER_FOUND": "{{author}} Bu kart bulunamadı",
-  "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
-  "NO_GIF_CARD": "{{author}} `GIF` kartlarına `Background` uygulanamaz",
-  "NO_BACKGROUND": "{{author}} Bu karta uygulanan hiçbir `Background` yok",
-  "EMBED_TITLE": "\"BACKGROUND\"I KALDIR",
-  "REMOVE_BG_CONFIRMATION": "Bu kartın `Background` kaldırmak üzeresiniz\n",
-
-  "PROCESS_COST": "Bir `Background`ı kaldırmanın size **1** `Wist` maliyeti vardır ve kaldırılan `Background` `Inventory`nize geri döner",
-
-  "NOT_ENOUGH_WIST": "`Background`ı kaldırmak için yeterli `Wists`iniz yok",
-  "NO_BG_APPLIED": "{{author}} Bu karta hiçbir `Background` uygulanmamış",
-  "UNDO_BACKGROUND_SUCCESS": "`Background` başarıyla kaldırıldı ve `Inventory`nize transfer edildi",
-  "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil"
+    "UB_DESCRIPTION": "Karta uygulanan \"Background\"ı kalırır",
+    "UB_CATEGORY": "Kozmetik",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}undobg <CardCode>`",
+    "NO_CHARACTER_FOUND": "{{author}} Bu kart bulunamadı",
+    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
+    "NO_GIF_CARD": "{{author}} `GIF` kartlarına `Background` uygulanamaz",
+    "NO_BACKGROUND": "{{author}} Bu karta uygulanan hiçbir `Background` yok",
+    "EMBED_TITLE": "\"BACKGROUND\"I KALDIR",
+    "PROCESS_COST": "Bir `Background`ı kaldırmanın size **1** `Wist` maliyeti vardır ve kaldırılan `Background` `Inventory`nize geri döner",
+    "NOT_ENOUGH_WIST": "`Background`ı kaldırmak için yeterli `Wists`iniz yok",
+    "NO_BG_APPLIED": "{{author}} Bu karta hiçbir `Background` uygulanmamış",
+    "UNDO_BACKGROUND_SUCCESS": "`Background` başarıyla kaldırıldı ve `Inventory`nize transfer edildi",
+    "NO_OWNER": "{{author}} Bu kart artık koleksiyonunuzda değil"
 }

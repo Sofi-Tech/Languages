@@ -1,18 +1,15 @@
 {
-  "UB_DESCRIPTION": "Quita el \"Background\" aplicado a una carta",
-  "UB_CATEGORY": "Cosméticos",
-  "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}undobg <CódigoDeCarta>`",
-  "NO_CHARACTER_FOUND": "{{author}} No se ha podido encontrar esa carta",
-  "INVALID_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
-  "NO_GIF_CARD": "{{author}} Las cartas `GIF` no pueden tener un `Background` aplicado",
-  "NO_BACKGROUND": "{{author}} Esa carta no tiene un `Background` aplicado",
-  "EMBED_TITLE": "QUITAR EL BACKGROUND",
-  "REMOVE_BG_CONFIRMATION": "Estás a punto de quitar el `Background` de esta carta\n",
-
-  "PROCESS_COST": "Quitar un `Background` cuesta **1** `Wist` y devolverá ese `Background` a su `Inventory`",
-
-  "NOT_ENOUGH_WIST": "No tienes suficientes `Wist` para quitar este `Background`",
-  "NO_BG_APPLIED": "{{author}} Esa carta no tiene un `Background` aplicado",
-  "UNDO_BACKGROUND_SUCCESS": "El `Background` se ha quitado con éxito y se ha devuelto a tu `Inventory`",
-  "NO_OWNER": "{{author}} La carta ya no está en tu colección"
+    "UB_DESCRIPTION": "Quita el \"Background\" aplicado a una carta",
+    "UB_CATEGORY": "Cosméticos",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}undobg <CódigoDeCarta>`",
+    "NO_CHARACTER_FOUND": "{{author}} No se ha podido encontrar esa carta",
+    "INVALID_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
+    "NO_GIF_CARD": "{{author}} Las cartas `GIF` no pueden tener un `Background` aplicado",
+    "NO_BACKGROUND": "{{author}} Esa carta no tiene un `Background` aplicado",
+    "EMBED_TITLE": "QUITAR EL BACKGROUND",
+    "PROCESS_COST": "Quitar un `Background` cuesta **1** `Wist` y devolverá ese `Background` a su `Inventory`",
+    "NOT_ENOUGH_WIST": "No tienes suficientes `Wist` para quitar este `Background`",
+    "NO_BG_APPLIED": "{{author}} Esa carta no tiene un `Background` aplicado",
+    "UNDO_BACKGROUND_SUCCESS": "El `Background` se ha quitado con éxito y se ha devuelto a tu `Inventory`",
+    "NO_OWNER": "{{author}} La carta ya no está en tu colección"
 }
