@@ -34,5 +34,6 @@
     "LF_MENU_LABEL": "Limited",
     "MF_MENU_LABEL": "Monthly",
     "CF_MENU_LABEL": "Custom",
-    "EDIT_DESC_SUCCESSFUL": "The process was successfully completed"
+    "EDIT_DESC_SUCCESSFUL": "The process was successfully completed",
+    "FRAMESHOP_DESCRIPTION": "\nArtist: **{{artist}}**\nCode: `{{code}}`\n{{price}}\n```\n{{description}}```"
 }
