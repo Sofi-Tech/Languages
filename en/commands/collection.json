@@ -3,7 +3,7 @@
     "SLASH_CMD_DESC": "Displays your card collection",
     "SLASH_DESC": "Select a user in order to see their collection",
     "SLASH_DESC2": "Enter the filters you want to apply to the collection",
-    "PLAYER_NOT_EXIST": "{{author}} That player does not exist",
+    "PLAYER_NOT_EXIST": "{{author}} That user is not registered!",
     "PLAYER_PRIVATE": "{{author}} That user's collection is private!",
     "NO_RESULTS": "{{author}} No results found!",
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search",
