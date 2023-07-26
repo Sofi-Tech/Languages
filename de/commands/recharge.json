@@ -9,6 +9,6 @@
     "SUCCESSFUL_RECHARGE": "{{author}} Dein **{{GlowName}}** `Glow` wurde erfolgreich aufgeladen!",
     "GLOW_NOT_FOUND": "{{author}} Dein angegebener `Glow`-Code ist entweder ungültig oder nicht in deinem `Inventar`",
     "GLOW_AVAILABLE": "{{author}} Der `Glow` ist bereits aufgeladen",
-    "RECHARGE_CONFIRMATION": "Bist du sicher, dass du diesen `Glow` aufladen möchtest?\n\nName: **{{name}}**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "SUPER_RECHARGE_CONFIRMATION": "Du bist dabei, folgendes aufzuladen:\n\n**{{name}} (Super)**\nCode: `{{glowCode}}`\nKosten: **{{cost}} **:recharge_sofi:"
+    "RECHARGE_CONFIRMATION": "Bist du sicher, dass du dieses `Glow` aufladen möchtest?\n\nName: **{{name}}**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "SUPER_RECHARGE_CONFIRMATION": "Bist du sicher, dass du dieses `Glow` aufladen möchtest?\n\nName: **{{name}} (Super)**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Erhöht die Kapazität deiner Wunschliste",
     "CATEGORY": "Wunschliste",
-    "ALREADY_MAXED": "{{author}} Du kannst keine weiteren Upgrades für deine Wunschliste durchführen",
+    "ALREADY_MAXED": "{{author}} Du kannst keine weiteren Upgrades für deine Wunschliste kaufen",
     "EMBED_DESCRIPTION": "Bist du dir sicher dass du **{{count}}** extra Plätze für **{{amount}}** `{{currency}}` kaufen möchtest?",
     "EMBED_PAY_FIELD_NAME": "Du zahlst:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
@@ -11,6 +11,6 @@
     "EMBED_MAXED_FIELD_VALUE": "```Maximale Wunschlistenplätze (50 Plätze)```",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "PAY_ERROR": "{{author}} Du hast nicht genug `{{currency}}` für diese Transaktion",
-    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Das Upgrade deiner Wunschliste war erfolgreich",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Deine Wunschliste wurde erfolgreich geupgradet",
     "EMBED_TITLE": "SOFI: WUNSCHLISTEN UPGRADE"
 }

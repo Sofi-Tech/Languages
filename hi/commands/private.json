@@ -1,7 +1,7 @@
 {
-  "PVT_DESCRIPTION": "आपकी \"कलेक्शन\", \"विशलिस्ट\" या \"इन्वेंट्री\" को निजी करें",
-  "PVT_CATEGORY": "सेटिंग्स",
-  "WRONG_ARGUMENTS": "{{author}} सही उपयोग: `{{prefix}}pvt <C/WL/INV>`",
-  "PRIVATE_ENABLED": "{{author}} आपकी **{{content}}** अब निजी है",
-  "PRIVATE_DISABLED": "{{author}} आपकी **{{content}}** अब सार्वजनिक है"
+    "PVT_DESCRIPTION": "आपकी Collection, Wishlist या Inventory को निजी करता है",
+    "PVT_CATEGORY": "SETTINGS",
+    "WRONG_ARGUMENTS": "{{author}} सही उपयोग: `{{prefix}}pvt <C/WL/INV>`",
+    "PRIVATE_ENABLED": "{{author}} आपकी **{{content}}** अब निजी है",
+    "PRIVATE_DISABLED": "{{author}} आपकी **{{content}}** अब सार्वजनिक है"
 }
