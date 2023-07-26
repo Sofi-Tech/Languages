@@ -5,7 +5,7 @@
     "NOT_CARD_OWNER": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "3D_ERROR": "{{author}} Du kannst keine andere Schriftfarbe für eine `3D` Karte anwenden",
     "PROVIDE_GLOWCODE": "{{author}} Korrekte Verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
-    "WRONG_GLOWCODE": "{{author}} `Glow`-Codes beginnen immer mit einem **#**",
+    "WRONG_GLOWCODE": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
     "CANNOT_FIND_GLOW": "{{author}} Der angegebene `Glow` Code ist entweder ungültig oder nicht in deinem `Inventory`",
     "EMBED_TITLE": "SOFI: SCHRIFTFARBE{{reset}}",
     "COLOR_NAME": "Name: **{{name}}**",
