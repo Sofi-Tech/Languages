@@ -47,13 +47,13 @@
     "NON_TRADABLE_FOOTER": "These items are not tradable and will be applied when bought",
     "INTRO_TOO_LONG": "{{author}} Your introduction message can only be **90** characters long",
     "SET_INTRO_CONFIRM": "Are you sure you want to set the following text to be displayed on your profile?\n\n> {{intro}}",
-    "SET_GLOW_CODE": "\n# `Glow`: **{{glow}}**",
-    "SET_CARD_CONFIRM": "You are about to set **{{card}}** as your display card",
+    "SET_GLOW_CODE": "\n`Glow`: **{{glow}}**",
+    "SET_CARD_CONFIRM": "Are you sure you want to set **{{card}}** as your display card?",
     "SET_BG_CONFIRM": "You are about to buy the background **{{selectedbg}}** for **{{amount}}** {{emoji}}",
     "CANNOT_FIND_ACH": "{{user}} You don't have any achievements with the following IDs: {{ids}}",
     "MAX_AWARDS_DISPLAY": "{{author}} You can only display a maximum of **6** awards on your profile",
     "SET_AWARDS_CONFIRM": "You are about to display the following awards ({{awards}}) on your profile",
     "PC_CHARACTER_NOT_FOUND": "{{author}} Could not find any character with that name",
-    "SELECT_FROM_OPTIONS": "**Select one of the following characters**:\n\n{{charPages}}",
+    "SELECT_FROM_OPTIONS": "{{charPages}}",
     "SELECT_CHAR_MENU": ""
 }
