@@ -1,16 +1,14 @@
 {
-    "RG_DESCRIPTION": "एक खाली Glow को भरता है",
-    "RG_CATEGORY": "COSMETICS",
-    "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glow नहीं हैं",
-    "NO_GLOWCDE": "{{author}} आपको एक Glow कोड देना होगा",
-    "INVALID_DC_MOVIES": "{{author}} Glow कोड सदैव **#** के साथ शुरू होते हैं",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा दिया गया Glow कोड अमान्य है",
-    "GLOW_AVAILABLE": "{{author}} वह Glow पहले से ही चार्ज हो चुका है",
-    "EMBED_TITLE": "SOFI: GLOW RECHARGE",
-    "RECHARGE_CONFIRMATION": "आप यह भरने वाले हैं:\n\n**{{name}}**\nकोड: `{{glowCode}}`\nलागत: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "ARE_YOU_SURE": "क्या आपको यकीन है?",
-    "CANCEL_RECHARGE": "प्रक्रिया रद्द कर दी गई",
-    "NO_MONEY": "आपके पास पर्याप्त Recharge नहीं हैं! पहले खरीदे और फिर से प्रयास करें",
-    "SUCCESSFUL_RECHARGE": "आपका Glow सफलतापूर्वक रिचार्ज हो गया!",
-    "SUPER_RECHARGE_CONFIRMATION": "आप यह भरने वाले हैं:\n\n**{{name}} (Super)**\nकोड: `{{glowCode}}`\nलागत: **{{cost}} **:recharge_sofi:"
+  "RG_DESCRIPTION": "एक खाली Glow को भरता है",
+  "RG_CATEGORY": "COSMETICS",
+  "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glow नहीं हैं",
+  "NO_GLOWCDE": "{{author}} आपको एक Glow कोड देना होगा",
+  "INVALID_DC_MOVIES": "{{author}} Glow कोड सदैव **#** के साथ शुरू होते हैं",
+  "GLOW_NOT_FOUND": "{{author}} आपके द्वारा दिया गया Glow कोड अमान्य है",
+  "GLOW_AVAILABLE": "{{author}} वह Glow पहले से ही चार्ज हो चुका है",
+  "EMBED_TITLE": "SOFI: GLOW RECHARGE",
+  "RECHARGE_CONFIRMATION": "आप यह भरने वाले हैं:\n\n**{{name}}**\nकोड: `{{glowCode}}`\nलागत: **{{cost}}** <:recharge_sofi:926846363537387530>",
+  "NO_MONEY": "आपके पास पर्याप्त Recharge नहीं हैं! पहले खरीदे और फिर से प्रयास करें",
+  "SUCCESSFUL_RECHARGE": "आपका Glow सफलतापूर्वक रिचार्ज हो गया!",
+  "SUPER_RECHARGE_CONFIRMATION": "आप यह भरने वाले हैं:\n\n**{{name}} (Super)**\nकोड: `{{glowCode}}`\nलागत: **{{cost}} **:recharge_sofi:"
 }
