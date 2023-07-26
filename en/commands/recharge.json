@@ -8,9 +8,9 @@
     "GLOW_AVAILABLE": "{{author}} That `Glow` is already charged",
     "EMBED_TITLE": "SOFI: RECHARGE `GLOW`",
     "RECHARGE_CONFIRMATION": "Are you sure you want to charge this `Glow`?\n\nName: **{{name}}**\nCode: `{{glowCode}}`\nCost: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "ARE_YOU_SURE": "Are you sure?",
-    "CANCEL_RECHARGE": "Process was cancelled",
-    "NO_MONEY": "You don't have enough `Recharges`! Buy some and try again",
-    "SUCCESSFUL_RECHARGE": "Your `Glow` was successfully recharged!",
-    "SUPER_RECHARGE_CONFIRMATION": "You are about to refill:\n\n**{{name}} (Super)**\nCode: `{{glowCode}}`\nCost: **{{cost}} **:recharge_sofi:"
+    "ARE_YOU_SURE": "",
+    "CANCEL_RECHARGE": "",
+    "NO_MONEY": "{{author}} You don't have enough `Recharges` for this process!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Successfully charged your **{{GlowName}}** `Glow`!",
+    "SUPER_RECHARGE_CONFIRMATION": "Are you sure you want to charge this `Glow`?\n\nName: **{{name}} (Super)**\nCode: `{{glowCode}}`\nCost: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
