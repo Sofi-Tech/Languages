@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Visualizza una carta",
-    "SLASH_DESC1": "Inserisci un codice carta",
+    "SLASH_DESC1": "Inserisci un codice di carta",
     "INVALID_CODE": "{{author}} Il codice della carta non è valido",
     "SERIES": "Serie:",
     "NAME": "Nome:",
@@ -9,5 +9,5 @@
     "CLAIMED": "Reclamato",
     "MOVES": "Abilità:",
     "OWNER_HISTORY": "Storia del proprietario",
-    "CARD_VIEW": "VISTA DELLA CARTA"
+    "CARD_VIEW": "VISUALIZZAZIONE DELLA CARTA"
 }

@@ -3,12 +3,13 @@
     "GN_CATEGORY": "Cosmetici",
     "UNLOCK_GLOWS": "{{author}} Non hai nessun `Glows`",
     "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}gn <GlowCode> <NewName>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} I codici `Glow` iniziano sempre con **#**",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} I codici `Glow` iniziano sempre con `#`",
     "GLOW_NOT_FOUND": "{{author}} Il codice `Glow` che hai fornito non è valido o non è nel tuo `Inventory`",
-    "GLOW_NAME_LONG": "{{author}} I nomi `Glow` possono avere un massimo di 25 caratteri",
-    "GLOW_NAME_EXISTS": "{{author}} il nome di `Glow` è già in uso da qualcun'altro",
+    "GLOW_NAME_LONG": "{{author}} Il nome del tuo `Glow` può essere lungo solo **25** caratteri",
+    "GLOW_NAME_EXISTS": "{{author}} Quel nome è già assegnato a un diverso `Glow`",
     "EMBED_TITLE": "SOFI: NOME DEL GLOW",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Sei sicuro di voler cambiare `{{oldName}}` in `{{newName}}`?",
-    "MISSING_ITEMS": "Non hai abbastanza valuta per procedere",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Il nome del `glow` è stato aggiornato con successo"
+    "GLOWNAME_CHANGE_CONFIRMATION": "Sei sicuro di voler cambiare il nome del tuo `Glow` da `{{oldName}}` a `{{newName}}`?",
+    "MISSING_ITEMS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Ha cambiato con successo il nome del tuo `Glow` in `{{newName}}`",
+    "PROFANE_GLOW_NAME": "{{author}} Il nome del tuo `Glow` **non deve** contenere volgarità"
 }

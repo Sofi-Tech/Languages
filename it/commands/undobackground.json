@@ -1,15 +1,15 @@
 {
     "UB_DESCRIPTION": "Rimuove uno \"Background\" applicato da una carta",
     "UB_CATEGORY": "Cosmetici",
-    "WRONG_USAGE": "{{author}} Uso Corretto: `{{prefix}}undobg <CardCode>`",
-    "NO_CHARACTER_FOUND": "{{author}} Non è riuscito a trovare quella carta",
+    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}undobg <CardCode>`",
+    "NO_CHARACTER_FOUND": "{{author}} Il carattere su questa carta non è più disponibile su Sofi e non è possibile interagire con esso",
     "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
-    "NO_GIF_CARD": "{{author}} Le carte `GIF` non possono avere uno `Background` applicato",
+    "NO_GIF_CARD": "{{author}} Una carta `GIF` non può avere il suo `Background` rimosso",
     "NO_BACKGROUND": "{{author}} Quella carta non ha uno `Background` applicato",
-    "EMBED_TITLE": "RIMUOVERE LO SFONDO",
-    "PROCESS_COST": "Togliendo uno `sfondo` ti costerà **1** `Wist` e ti ridarà lo`sfondo` nell' `inventario`",
-    "NOT_ENOUGH_WIST": "Non hai abbastanza `Wist` per rimuovere lo `Sfondo`",
-    "NO_BG_APPLIED": "{{author}} La carta non ha nessun `background ` applicato",
-    "UNDO_BACKGROUND_SUCCESS": "Il `Background` è stato rimosso con successo e aggiunto al tuo `inventario`",
+    "EMBED_TITLE": "SOFI: RIMUOVERE ` BACKGROUND`",
+    "PROCESS_COST": "Questo processo costa **1** `Wist` e restituirà lo `Bachground` al tuo `Inventory`",
+    "NOT_ENOUGH_WIST": "{{author}} Non hai abbastanza `{{currency}}` per rimuovere questo `Background`",
+    "NO_BG_APPLIED": "{{author}} La carta non ha nessun `Background ` applicato",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} Lo `Background` della tua carta è stato rimosso con successo e restituito al tuo `Inventory`",
     "NO_OWNER": "{{author}} La carta non è più nella tua collezione"
 }

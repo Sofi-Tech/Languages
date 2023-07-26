@@ -26,7 +26,7 @@
     "NOT_BLACKLISTED_YET": "{{author}} Du hast noch keine Befehle auf die schwarze Liste gesetzt.",
     "SOME_COMMANDS_BLACKLISTED": "{{author}} Du hast einige Befehle auf die schwarze Liste gesetzt. Um diese Funktion zu nutzen, tippe `{{prefix}}p reset` ein, um die Berechtigungen zurückzusetzen, und versuche es dann erneut.",
     "NOT_WHITELISTED_YET": "{{author}} Du hast noch keine Befehle auf die weiße Liste gesetzt.",
-    "ADD_MODAL_LABEL": "Füge Befehle, die du willst, zu {{listName}} hinzu.",
+    "ADD_MODAL_LABEL": "Füge Befehle, die du willst, zu {{listName}} hinzu",
     "RESET_PERMS_SUCCESSFUL": "Die Befehlsberechtigungen für diesen Kanal wurden zurückgesetzt.",
     "STOPPED_PROCESS": "Du hast den Vorgang gestoppt.",
     "PROCESS_TIMED_OUT": "⏰ Vorgangzeitüberschreitung!",

@@ -9,6 +9,6 @@
     "NOT_ENOUGH_ITEM": "{{author}} You do not have **{{amount}}** `{{eventItem}}`",
     "PLAYER_NOT_EXISTS": "{{author}} That player does not exist",
     "GIFT_SUCCESSFUL": "{{author}} has gifted **{{amount}}** `{{eventItem}}` to {{user}}\n{{user}} has received a total of **{{recieveCount}}** `{{eventItem}}`",
-    "NO_ACTIVE_EVENT": "No active event found",
+    "NO_ACTIVE_EVENT": "{{author}} There is no event currently active",
     "EMBED_TITLE": "SOFI: GIFT"
 }

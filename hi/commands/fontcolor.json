@@ -1,8 +1,8 @@
 {
-    "FC_DESCRIPTION": "पत्ते के फ़ॉन्ट रंग को बदलने के लिए \"Glow\" लगाया जाता है",
+    "FC_DESCRIPTION": "पत्ते के फ़ॉन्ट रंग को बदलने के लिए Glow लगाया जाता है",
     "FC_CATEGORY": "COSMETICS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "NOT_CARD_OWNER": "{{author}} आपने जो कार्ड कोड प्रदान किया वह अवैध है या आपके संग्रह में नहीं है",
+    "NOT_CARD_OWNER": "{{author}} आपने जो कार्ड कोड प्रदान किया वह अवैध है या आपके संग्रह में मौजूद नहीं है",
     "3D_ERROR": "{{author}} आप 3डी पत्ते के फ़ॉन्ट रंग को नहीं बदल सकते हैं",
     "PROVIDE_GLOWCODE": "{{author}} सही उपयोग: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} Glow कोड हमेशा **#** से शुरू होते हैं",

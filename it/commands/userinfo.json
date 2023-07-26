@@ -27,12 +27,20 @@
     "UI_QUARANTINED": "In Quarantena",
     "UI_UNVERIFIED": "Non Verificato",
     "UI_VERIFIED": "Verificato",
-    "EMBED_AUTHOR": "SOFI: UTENTEINFO [{{username}} - {{status}}]",
+    "EMBED_AUTHOR": "SOFI: INFORMAZIONI DI UTENTE ({{username}} - {{status}})",
     "EMBED_FOOTER": "Registrato: {{date}} fa",
     "UI_GAMES": "Giochi",
     "UI_VOTE": "Votes",
     "UI_DROP": "Gocciato",
     "UI_CLAIM": "Reclamato",
     "UI_BURN": "Bruciato",
-    "UI_TRADE": "Commerci"
+    "UI_TRADE": "Commerci",
+    "UI_SCRATCHED": "Graffiato",
+    "UI_SOLD": "Venduto",
+    "UI_PULL": "Pulls",
+    "UI_FRAGS": "Fragments",
+    "UI_DAILY": "Dailies",
+    "UI_RECEIVED": "Ricevuto",
+    "UI_BUMP": "Bumps",
+    "UI_MORPH": "Morphs"
 }

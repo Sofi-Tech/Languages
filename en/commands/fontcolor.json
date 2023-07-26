@@ -5,7 +5,7 @@
     "NOT_CARD_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",
     "3D_ERROR": "{{author}} You cannot apply a different font color to a `3D` variant",
     "PROVIDE_GLOWCODE": "{{author}} Correct usage: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "WRONG_GLOWCODE": "{{author}} `Glow` codes always start with a **#**",
+    "WRONG_GLOWCODE": "{{author}} `Glow` codes always start with a `#`",
     "CANNOT_FIND_GLOW": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
     "EMBED_TITLE": "SOFI: FONT COLOR{{reset}}",
     "COLOR_NAME": "Name: **{{name}}**",
