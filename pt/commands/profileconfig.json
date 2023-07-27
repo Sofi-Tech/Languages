@@ -25,7 +25,7 @@
   "PROCESS_NOT_COMPLETED": "Processo não foi concluído",
   "CANNOT_SET_PG": "Não é possível definir o glow do perfil porque o glow não está disponível",
   "PROVIDE_PBG_ID": "{{author}} Por favor, forneça o ID do background do perfil",
-  "FAV_CHAR_MENU_PLACEHODLER": "Selecione seu personagem favorito",
+  "FAV_CHAR_MENU_PLACEHOLDER": "Selecione seu personagem favorito",
   "INTRO_TOO_LONG": "{{author}} A intro deve ter menos de 90 caracteres",
   "SET_INTRO_CONFIRM": "Sua intro será definida como abaixo**\n\n{{intro}}\n\nVocê tem certeza?",
   "SET_GLOW_CODE": "Código do Glow: {{glow}}",

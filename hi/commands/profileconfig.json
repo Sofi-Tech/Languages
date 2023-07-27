@@ -2,9 +2,9 @@
   "AGREE_BUTTON_LABEL": "पुष्टि करें",
   "PC_DESCRIPTION": "आपके प्रोफ़ाइल को अनुकूलित करता है",
   "PC_CATEGORY": "सेटिंग्स",
-  "NO_PROFILE_SELF": "{{author}} आपके पास अभी `Profile` नही है। `{{prefix}}profileconfig` कमांड का उपयोग करके अपना Profile बनाए",
+
   "PC_EMBED_TITLE": "SOFI: प्रोफाइल का कंफीग्रेशन",
-  "NO_PROFILE_OTHER": "{{author}} {{member}} की `Profile` नही मिली",
+
   "PURCHASE_BUTTON_LABEL": "खरीदना",
   "DISAGREE_BUTTON_LABEL": "पीछे जाए",
   "SC_MENU_LABEL": "पत्ता दर्शाए",
@@ -28,7 +28,7 @@
   "CANNOT_SET_TC": "Glow खाली है",
   "CANNOT_SET_PG": "Glow खाली है",
   "PROVIDE_PBG_ID": "{{author}} Profile Background ID प्रदान करे",
-  "FAV_CHAR_MENU_PLACEHODLER": "पात्र चुने",
+  "FAV_CHAR_MENU_PLACEHOLDER": "पात्र चुने",
   "NON_TRADABLE_FOOTER": "यह Items व्यापार करने के योग्य नहीं है और खरीदे जाने पर लागू कर दिया जाएगा",
   "SET_FC_CONFIRM": "आप **{{series}}** से **{{character}}** को अपना पसंदीदा पात्र चुनने जा रहे है",
   "INTRO_TOO_LONG": "{{author}} परिचय 90 अक्षरों से छोटा होना चाहिए",

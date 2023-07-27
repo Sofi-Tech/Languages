@@ -22,8 +22,7 @@
   "PROCESS_NOT_COMPLETED": "Bu işlem iptal edilmiştir",
   "SET_INTRO_CONFIRM": "Giriş yorumunuzu şu şekilde ayarlamak üzeresiniz:\n\n> {{intro}}",
   "CANNOT_FIND_ACH": "{{user}} Şu ID'lere sahip herhangi bir başarınız yok: {{ids}}",
-  "NO_PROFILE_SELF": "{{author}} Henüz bir `Profile`ınız yok. Bir tane oluşturmak için \"{{prefix}}profileconfig\" komutunu kullanınız",
-  "NO_PROFILE_OTHER": "{{author}}, {{member}} için bir 'Profile' bulunamadı",
+
   "CAN_MENU_LABEL": "İptal etmek",
   "PC_MENU_PLACEHOLDER": "Bir kategori seç",
   "INTRO_MENU_LABEL": "Tanıtım",
@@ -34,7 +33,7 @@
   "CANNOT_SET_TC": "Kullanmaya çalıştığınız `Glow` boş",
   "CANNOT_SET_PG": "Kullanmaya çalıştığınız `Glow` boş",
   "PROVIDE_PBG_ID": "{{author}} Lütfen bir profil arka plan ID si girin",
-  "FAV_CHAR_MENU_PLACEHODLER": "Bir Karakter Seçin",
+  "FAV_CHAR_MENU_PLACEHOLDER": "Bir Karakter Seçin",
   "NON_TRADABLE_FOOTER": "Bu öğeler takas edilemez ve satın alındığında uygulanacaktır",
   "INTRO_TOO_LONG": "{{author}} İntro 90 karakterden kısa olmalıdır",
   "SET_GLOW_CODE": "`Glow`: ** {{glow}} **",
@@ -43,6 +42,5 @@
   "MAX_AWARDS_DISPLAY": "{{author}} Profilinizde en fazla **6** ödül görüntüleyebilirsiniz",
   "SET_AWARDS_CONFIRM": "Belirtilen ödülleri ({{awards}}) profilinizde göstermek üzeresiniz",
   "PC_CHARACTER_NOT_FOUND": "{{author}} Bu ada sahip herhangi bir karakter bulunamadı",
-  "SELECT_FROM_OPTIONS": "**Aşağıdaki karakterlerden birini seçin**:\n\n{{charPages}}",
-  "SELECT_CHAR_MENU": "Bir karakter seçmek için aşağıdaki menüyü kullanın"
+  "SELECT_FROM_OPTIONS": "**Aşağıdaki karakterlerden birini seçin**:\n\n{{charPages}}"
 }

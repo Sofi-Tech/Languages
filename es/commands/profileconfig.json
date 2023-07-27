@@ -2,7 +2,7 @@
   "PC_CATEGORY": "Configuración",
   "PC_EMBED_TITLE": "SOFI: Configuración de Perfil",
   "AGREE_BUTTON_LABEL": "Confirmar",
-  "NO_PROFILE_OTHER": "{{author}} No se pudo encontrar un `Perfil` para {{member}}",
+
   "PC_DESCRIPTION": "Personaliza tu perfil",
   "PURCHASE_BUTTON_LABEL": "Comprar",
   "DISAGREE_BUTTON_LABEL": "Volver atrás",
@@ -11,7 +11,7 @@
   "BG_MENU_LABEL": "Background",
   "TC_MENU_LABEL": "Color de Texto",
   "SC_MENU_LABEL": "Carta Mostrada",
-  "NO_PROFILE_SELF": "{{author}} Aún no tienes un `Perfil`. Usa el comando `{{prefix}}profileconfig` para generar uno",
+
   "PC_INTRO": "<:_:979009081325019156> **Introducción**: Establece un mensaje introductorio\n<:_:979009081325019156> **Personaje Favorito**: Selecciona tu personaje favorito para mostrarlo en tu perfil\n<:_:979009081325019156> **Carta de Muestra**: Elije tu carta favorita para mostrarla en tu perfil\n<:_:979009081325019156> **Background**: Coloca un background en tu perfil\n<:_:979009081325019156> **Color de Texto**: Use tus `Glows` para cambiar el color de texto de tu perfil\n<:_:979009081325019156> **Glow de Perfil**: Haz brillar tu perfil con uno de tus `Glows`\n<:_:979009081325019156> **Muestra de Premios**: Muestra distintos premios en tu perfil",
   "PBG_MENU_LABEL": "Glow de Perfil",
   "AD_MENU_LABEL": "Muestra de Premios",
@@ -38,7 +38,7 @@
   "CANNOT_SET_TC": "El `Glow` que intentaste usar está vacío",
   "CANNOT_SET_PG": "El `Glow` que intentaste usar está vacío",
   "PROVIDE_PBG_ID": "{{author}} Por favor introduce el ID del background de perfil",
-  "FAV_CHAR_MENU_PLACEHODLER": "Selecciona un Personaje",
+  "FAV_CHAR_MENU_PLACEHOLDER": "Selecciona un Personaje",
   "INTRO_TOO_LONG": "{{author}} la introducción tiene que contener menos de 90 caracteres",
   "SET_INTRO_CONFIRM": "Estás a punto de establecer tu mensaje introductorio como:\n\n>{{intro}}",
   "SET_GLOW_CODE": "`Glow`: **{{glow}}**",

@@ -1,8 +1,6 @@
 {
   "PC_DESCRIPTION": "Customizes your profile",
   "PC_CATEGORY": "Settings",
-  "NO_PROFILE_SELF": "{{author}} You don't have a `Profile` yet. Use the command `{{prefix}}profileconfig` to generate one",
-  "NO_PROFILE_OTHER": "{{author}} Could not find a `Profile` for {{member}}",
   "PC_EMBED_TITLE": "SOFI: CONFIGURE PROFILE",
   "PC_INTRO": "<:_:979009081325019156> **Introduction**: Set an introductionary message\n<:_:979009081325019156> **Favorite Character**: Select your favorite character\n<:_:979009081325019156> **Display Card**: Choose a card to be displayed on your profile\n<:_:979009081325019156> **Background**: Set a background for your profile\n<:_:979009081325019156> **Font Color**: Change your profile's text color\n<:_:979009081325019156> **Profile Glow**: Apply a glowing effect to your profile\n<:_:979009081325019156> **Awards**: Display awards on your profile",
   "PURCHASE_BUTTON_LABEL": "Purchase",
@@ -32,7 +30,7 @@
   "CANNOT_SET_TC": "{{author}} That `Glow` is empty",
   "CANNOT_SET_PG": "{{author}} That `Glow` is empty",
   "PROVIDE_PBG_ID": "{{author}} Please enter a profile background ID",
-  "FAV_CHAR_MENU_PLACEHODLER": "Select a Character",
+  "FAV_CHAR_MENU_PLACEHOLDER": "Select a Character",
   "NON_TRADABLE_FOOTER": "These items are not tradable and will be applied when bought",
   "INTRO_TOO_LONG": "{{author}} Your introduction message can only be **90** characters long",
   "SET_INTRO_CONFIRM": "Are you sure you want to set the following text to be displayed on your profile?\n\n> {{intro}}",
@@ -44,5 +42,11 @@
   "SET_AWARDS_CONFIRM": "You are about to display the following awards ({{awards}}) on your profile",
   "PC_CHARACTER_NOT_FOUND": "{{author}} Could not find any character with that name",
   "SELECT_FROM_OPTIONS": "{{charPages}}",
-  "SELECT_CHAR_MENU": ""
+  "SUCCESSFUL_INTRO": "{{author}} Successfully set your introduction message",
+  "SUCCESSFUL_CHARACTER": "{{author}} Successfully set **{{characterName}}** as your favorite character",
+  "SUCCESSFUL_DISPLAY_CARD": "{{author}} Successfully set `{{cardCode}}` **{{characterName}}** as your display card",
+  "SUCCESSFUL_BACKGROUND": "{{author}} Successfuly set **{{backgroundName}}** as your profile's background",
+  "SUCCESSFUL_FONT_COLOR": "{{author}} Successfully applied the **{{glowName}}** `Glow` to your profile's font",
+  "SUCCESSFUL_PROFILE_GLOW": "{{author}} Successfully set **{{glowName}}** as your profile's `Glow`",
+  "SUCCESSFUL_AWARDS": "{{author}} Successfully placed the selected awards onto your profile"
 }

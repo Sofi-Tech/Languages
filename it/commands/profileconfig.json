@@ -4,8 +4,7 @@
   "PC_INTRO": "<:_:979009081325019156> **Introduction**: Imposta un messaggio introduttivo\n<:_:979009081325019156> **Favorite Character**: Seleziona il tuo personaggio preferito da visualizzare sul tuo profilo\n<:_:979009081325019156> **Display Card**: Scegli una scheda da visualizzare sul tuo profilo\n<:_:979009081325019156> **Background**: Imposta uno sfondo per il tuo profilo\n<:_:979009081325019156> **Text Color**: Usa i tuoi `Glows` per cambiare il colore del testo del tuo profilo\n<:_:979009081325019156> **Profile Glow**: Fai risplendere il tuo profilo con uno dei tuoi `Glows`\n<:_:979009081325019156> **Display Awards**: Mostra diversi premi sul tuo profilo",
   "PURCHASE_BUTTON_LABEL": "Acquistare",
   "PC_DESCRIPTION": "Personalizza il tuo profilo",
-  "NO_PROFILE_SELF": "{{author}} Non hai ancora un `Profile`. Usa il comando `{{prefix}}profileconfig` per generarne uno",
-  "NO_PROFILE_OTHER": "{{author}} Non è riuscito a trovare un `Profile` per {{member}}",
+
   "AGREE_BUTTON_LABEL": "Confermare",
   "DISAGREE_BUTTON_LABEL": "Torna indietro",
   "FC_MENU_LABEL": "Personaggio Preferito",
@@ -35,7 +34,7 @@
   "CANNOT_SET_TC": "Il `Glow` che hai provato a usare è vuoto",
   "CANNOT_SET_PG": "Il `Glow` che hai provato a usare è vuoto",
   "PROVIDE_PBG_ID": "{{author}} Inserisci un background ID del profilo",
-  "FAV_CHAR_MENU_PLACEHODLER": "Seleziona un Carattere",
+  "FAV_CHAR_MENU_PLACEHOLDER": "Seleziona un Carattere",
   "NON_TRADABLE_FOOTER": "Questi oggetti non sono commerciabili e verranno applicati al momento dell'acquisto",
   "INTRO_TOO_LONG": "{{author}} Introduzione deve contenere meno di 90 caratteri",
   "SET_INTRO_CONFIRM": "Stai per impostare il tuo commento introduttivo su:\n\n> {{intro}}",
@@ -43,6 +42,5 @@
   "PROVIDE_ACH_ID": "I badge dei risultati vengono visualizzati da sinistra a destra, inserisci i loro numeri di conseguenza",
   "SET_CARD_CONFIRM": "Stai per impostare **{{card}}** come tua carta visualizzazione",
   "PC_CHARACTER_NOT_FOUND": "{{author}} Non è riuscito a trovare nessun carattere con quel nome",
-  "SELECT_FROM_OPTIONS": "**Seleziona uno dei seguenti caratteri**:\n\n{{charPages}}",
-  "SELECT_CHAR_MENU": "Usa il menu qui sotto per selezionare un carattere"
+  "SELECT_FROM_OPTIONS": "**Seleziona uno dei seguenti caratteri**:\n\n{{charPages}}"
 }
