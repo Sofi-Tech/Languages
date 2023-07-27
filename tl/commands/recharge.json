@@ -1,14 +1,14 @@
 {
-  "RG_DESCRIPTION": "Nagre-refill ng walang laman na `Glow`",
-  "RG_CATEGORY": "Kosmetiko",
-  "UNLOCK_GLOWS": "{{author}} Wala ka pang `Glows`",
-  "NO_GLOWCDE": "{{author}} Kailangan mong magbigay ng `Glow` code",
-  "INVALID_DC_MOVIES": "{{author}} ang codes ng `Glow` ay laging naguumpisa sa **#**",
-  "GLOW_NOT_FOUND": "{{author}} Ang `Glow` code na iyong ibinigay ay hindi wasto",
-  "GLOW_AVAILABLE": "{{author}} Ang `Glow`na yan ay may charge na",
-  "RECHARGE_CONFIRMATION": "Ikaw ay mag re-refill ng:\n\n**{{name}}**\nCode: `{{ glowCode}}`\nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>",
-  "EMBED_TITLE": "SOFI: GLOW RECHARGE",
-  "NO_MONEY": "Hindi wasto ang bilang ng iyong `Recharges`! Bumili ka at ulitin mo ulit",
-  "SUCCESSFUL_RECHARGE": "Ang `Glow`mo ay matagumpay na icharge!",
-  "SUPER_RECHARGE_CONFIRMATION": "Ikaw ay mag re-refill ng:\n\n**{{name}} (Super)**\nCode: `{{glowCode}}`\nPresyo: **{{cost}}**:recharge_sofi:"
+    "RG_DESCRIPTION": "Nagre-refill ng walang laman na `Glow`",
+    "RG_CATEGORY": "Kosmetiko",
+    "UNLOCK_GLOWS": "{{author}} Wala ka pang `Glows`",
+    "NO_GLOWCDE": "{{author}} Tamang paggamit: `{{prefix}}rg <#GlowCode>`",
+    "INVALID_DC_MOVIES": "{{author}} ang kodigo ng `Glow` ay laging naguumpisa sa **#**",
+    "GLOW_NOT_FOUND": "{{author}} Ang kodigo ng`Glow` na iyong ibinigay ay hindi wasto o wala sa iyong `Inventory`",
+    "GLOW_AVAILABLE": "{{author}} Ang `Glow`na yan ay may charge na",
+    "RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong icharge ang `Glow`na ito? \n\nPangalan: **{{name}}**\nKodigo: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "EMBED_TITLE": "SOFI: RECHARGE `GLOW`",
+    "NO_MONEY": "{{author}} Wala kang sapat na`Recharges`para sa proseso na ito!",
+    "SUCCESSFUL_RECHARGE": "{{author}}Ang {{GlowName}} na `Glow`mo ay matagumpay na icharge!",
+    "SUPER_RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong icharge ang `Glow`na ito? \n\nPangalan: **{{name}} (Super) **\nKodigo: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

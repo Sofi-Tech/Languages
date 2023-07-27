@@ -2,7 +2,7 @@
     "GTC_DESCRIPTION": "Erstellt einen \"Glow Tag\"",
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gtc <tagname> <emoji>`",
-    "INVALID_EMOJI": "{{author}} Dieser Emoji ist ungültig",
+    "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Ein `Glow Tag` mit diesem Namen existiert bereits",
     "CREATED_GLOWTAG": "{{author}} Ein `Glow Tag` mit dem Namen: `{{tag}}` | {{emoji}} wurde erfolgreich erstellt"
 }
