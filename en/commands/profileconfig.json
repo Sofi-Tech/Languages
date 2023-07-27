@@ -30,6 +30,8 @@
   "CANNOT_SET_TC": "{{author}} That `Glow` is empty",
   "CANNOT_SET_PG": "{{author}} That `Glow` is empty",
   "PROVIDE_PBG_ID": "{{author}} Please enter a profile background ID",
+  "PROVIDE_TC_GLOW_CODE": "{{user}} Please provide glow code to set the font color",
+  "PROVIDE_BG_GLOW_CODE": "{{user}} Please provide glow code to set the profile glow",
   "FAV_CHAR_MENU_PLACEHOLDER": "Select a Character",
   "NON_TRADABLE_FOOTER": "These items are not tradable and will be applied when bought",
   "INTRO_TOO_LONG": "{{author}} Your introduction message can only be **90** characters long",
