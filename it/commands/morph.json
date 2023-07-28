@@ -15,9 +15,9 @@
     "HISTORY": "\nStoria: ```{{history}}```",
     "STOLE_MORPH": "Qualcosa è andato storto, per favore rolla un'altra morph",
     "NO_ITEM": "{{author}} Non hai **{{amount}}** `{{item}}`",
-    "NO_CARD": "{{author}} Questa carta non fa più parte della tua collezione",
-    "MORPH_CONFRIM": "Il `Morph` È stato applicato con successo",
-    "REROLL": "`Morphs` restaurato: `  {{count}}  `\n{{author}} Il`Morph` più recente è già stato restaurato. Rolla ancora per continuare",
+    "NO_CARD": "{{author}} La carta non è più nella tua collezione",
+    "MORPH_CONFRIM": "Il `Morph` è stato applicato con successo",
+    "REROLL": "`Morphs` restaurato: `    {{count}}    `\n{{author}} Il `Morph` più recente è già stato restaurato. Rolla ancora per continuare",
     "UNDO_SUCCESSFUL": "Restaurato con successo il precedente `Morph` per **{{amount}}** {{emoji}}",
-    "MORPH_CANCELLED": "Il`Morphing` processo è stato cancellato"
+    "MORPH_CANCELLED": "Il `Morphing` processo è stato cancellato"
 }

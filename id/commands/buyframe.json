@@ -2,7 +2,7 @@
     "BF_DESCRIPTION": "Membeli \"Frame\" dari \"Frame Shop\"",
     "BF_CATEGORY": "Kosmetik",
     "NO_FRAME_NAME": "{{author}} Cantumkan kode `Frame` yang ingin anda beli",
-    "NO_FRAMECODE_FOUND": "{{author}} Tidak dapat menemukan `Frame` dengan kode `{{name}}`",
+    "NO_FRAMECODE_FOUND": "{{author}} Tidak dapat menemukan `Frame` dengan kode: `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} `Frame` tersebut tidak tersedia saat ini. Gunakan perintah `{{prefix}}fs` untuk memeriksa rotasi `Frame`",
     "FRAME_NOT_PURCHASABLE": "{{author}} `Frame` itu terbatas dan tidak dapat dibeli lagi",
     "EMBED_TITLE": "SOFI: TRANSAKSI",

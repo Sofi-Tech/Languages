@@ -5,7 +5,7 @@
     "NOT_CARD_OWNER": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "3D_ERROR": "{{author}} Anda tidak dapat menerapkan warna font yang berbeda pada varian `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
-    "WRONG_GLOWCODE": "{{author}} Kode `Glow` selalu dimulai dengan tanda **#**",
+    "WRONG_GLOWCODE": "{{author}} Kode `Glow` selalu dimulai dengan tanda `#`",
     "CANNOT_FIND_GLOW": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di `Inventory` anda",
     "EMBED_TITLE": "SOFI: WARNA FONT{{reset}}",
     "COLOR_NAME": "Nama: **{{name}}**",

@@ -5,7 +5,7 @@
     "NOT_CARD_OWNER": "{{author}} Ang kodigo ng kard na ibinigay mo ay hindi wasto o hindi sayo",
     "3D_ERROR": "{{author}} Hindi ka maaaring mag-apply ng ibang kulay ng font sa isang `3D` na variant",
     "PROVIDE_GLOWCODE": "{{author}} Tamang paggamit: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "WRONG_GLOWCODE": "{{author}} Ang mga `Glow` codes ay laging nagsisimula sa **#**",
+    "WRONG_GLOWCODE": "{{author}} Ang mga `Glow` codes ay laging nagsisimula sa `#`",
     "CANNOT_FIND_GLOW": "{{author}} Ang `Glow` code na iyong binigay ay hindi wasto o wala sa iyong `Inventory`",
     "EMBED_TITLE": "SOFI: KULAY NG FONT{{reset}}",
     "COLOR_NAME": "Pangalan: **{{name}}**",

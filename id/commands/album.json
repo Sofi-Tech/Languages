@@ -4,13 +4,13 @@
     "ALBUM_SLASH_DESC": "Pilih pengguna yang albumnya ingin anda lihat",
     "ALBUM_SLASH_DESC2": "Masukkan nama album yang Anda cari.",
     "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",
-    "PLAYER_NOT_EXIST": "{{author}} Pemain tidak ada",
+    "PLAYER_NOT_EXIST": "{{author}} Pengguna tersebut tidak terdaftar!",
     "ALBUM_NOT_FOUND": "{{author}} Pengguna tersebut tidak memiliki album apa pun",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} tidak dapat menemukan album dengan nama `{{albumName}}`",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} Tidak dapat menemukan album dengan nama: `{{albumName}}`",
     "PROCESSING": "Memproses <a:_:876610443148406794>",
-    "NO_CARDS": "Tidak ada kartu yang ditemukan di album ini",
-    "EMBED_TITLE": "Album {{username}}",
+    "NO_CARDS": "{{author}} Belum ada kartu dalam album ini",
+    "EMBED_TITLE": "SOFI: ALBUM ({{username}})",
     "ALBUM_BUTTON_LABEL": "Buat Album",
-    "EMBED_ALBUM_TITLE": "Album {{albumName}}",
-    "EMBED__ALBUM_FOOTER": "Oleh {{userTag}}"
+    "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
+    "EMBED__ALBUM_FOOTER": "Dimiliki oleh {{userTag}}"
 }
