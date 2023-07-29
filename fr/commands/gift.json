@@ -1,10 +1,10 @@
 {
-    "INVALID_AMOUNT": "{{author}} Vous ne pouvez pas offrir un montant négatif de `{{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} Montant fournis invalide",
     "GIFT_SLASH_DESC2": "Entrer le montant de `{{eventItem}}` que vous voulez offrir",
     "GIFT_SUCCESSFUL": "{{author}} a offert **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} à reçu un total de **{{recieveCount}}** `{{eventItem}}`",
     "GIFT_CATEGORY": "Cards",
     "GIFT_SLASH_DESC": "Choisissez un utilisateur a qui vous souhaiter offrir des `{{eventItem}}`",
-    "NO_ACTIVE_EVENT": "Aucun event actif trouver",
+    "NO_ACTIVE_EVENT": "{{author}} Il n'y a actuellement aucun event actif trouver",
     "GIFT_DESCRIPTION": "Offre des \"Event Items\" a un autre utilisateur",
     "GIFT_WRONG_USAGE": "{{author}} Utilisation correct: `{{prefix}}gift <Utilisateur> <Montant>`",
     "INVALID_USER": "{{author}} Vous ne pouvez pas vous offrir des `{{eventItem}}` a vous-même",

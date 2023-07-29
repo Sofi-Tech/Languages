@@ -2,7 +2,7 @@
     "BF_DESCRIPTION": "Achète une \"Frame\" dans le \"Frame Shop\"",
     "BF_CATEGORY": "Cosmetics",
     "NO_FRAME_NAME": "{{author}} Veuillez indiquer le code de la `Frame` que vous souhaitez acheter",
-    "NO_FRAMECODE_FOUND": "{{author}} Impossible de trouver une `Frame` avec le code `{{name}}`",
+    "NO_FRAMECODE_FOUND": "{{author}} Impossible de trouver une `Frame` avec le code: `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} Cette `Frame` est actuellement indisponible. Veuillez utiliser la commande `{{prefix}}fs` pour voir la rotation actuel de `Frame`",
     "FRAME_NOT_PURCHASABLE": "{{author}} Cette `Frame` est une édition limitée et ne peut plus être achetée",
     "EMBED_TITLE": "SOFI: TRANSACTION",
