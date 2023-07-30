@@ -36,7 +36,7 @@
     "NON_TRADABLE_FOOTER": "These items are not tradable and will be applied when bought",
     "INTRO_TOO_LONG": "{{author}} Your introduction message can only be **90** characters long",
     "SET_INTRO_CONFIRM": "Are you sure you want to display the following text on your profile?\n\n> {{intro}}",
-    "SET_GLOW_CODE": "Are you sure you want to apply this `Glow` to your profile's background?\n\n`Glow`: **{{glow}}**",
+    "SET_GLOW_CODE": "Are you sure you want to apply the **{{glowName}}** `Glow` to your profile's background?",
     "SET_CARD_CONFIRM": "Are you sure you want to set **{{card}}** as your display card?",
     "SET_BG_CONFIRM": "You are about to buy the background **{{selectedbg}}** for **{{amount}}** {{emoji}}",
     "CANNOT_FIND_ACH": "{{user}} You don't have any achievements with the following IDs: {{ids}}",
@@ -46,10 +46,10 @@
     "SELECT_FROM_OPTIONS": "{{charPages}}",
     "SUCCESSFUL_INTRO": "{{author}} Successfully set your introduction message",
     "SUCCESSFUL_CHARACTER": "{{author}} Successfully set **{{characterName}}** as your favorite character",
-    "SUCCESSFUL_DISPLAY_CARD": "{{author}} Successfully set `{{cardCode}}` **{{characterName}}** as your display card",
+    "SUCCESSFUL_DISPLAY_CARD": "{{author}} Successfully set **{{characterName}}** as your display card",
     "SUCCESSFUL_BACKGROUND": "{{author}} Successfuly set **{{backgroundName}}** as your profile's background",
     "SUCCESSFUL_FONT_COLOR": "{{author}} Successfully applied the **{{glowName}}** `Glow` to your profile's font",
     "SUCCESSFUL_PROFILE_GLOW": "{{author}} Successfully set **{{glowName}}** as your profile's `Glow`",
     "SUCCESSFUL_AWARDS": "{{author}} Successfully placed the selected awards onto your profile",
-    "\"SET_FONT_GLOW\"": "Are you sure you want to apply this `Glow` to your profile's font?\n\n`Glow`: **{{glow}}**"
+    "\"SET_FONT_GLOW\"": "Are you sure you want to apply the **{{glowName}}** `Glow` to your profile's font?"
 }
