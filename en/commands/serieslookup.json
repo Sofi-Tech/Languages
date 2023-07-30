@@ -2,7 +2,7 @@
     "DESCRIPTION": "Searches for a specific series",
     "NO__LAST_CHAR_FOUND": "{{author}} You do not have any cards in your collection yet",
     "NO_CHAR_FOUND": "{{author}} This series does not have any characters yet",
-    "NO_SERIES_FOUND": "{{author}} Could not find any series with the name `{{name}}`",
+    "NO_SERIES_FOUND": "{{author}} Could not find any series with the name: `{{name}}`",
     "SERIES": "__SERIES__",
     "ERROR": "{{author}} An error occurred. Please try again",
     "CARD_COLLECTED": "Cards Collected: **{{collected}}/{{totalCards}}**",
