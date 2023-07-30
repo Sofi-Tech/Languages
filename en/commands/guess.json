@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Starts a word guessing game",
     "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}guess <Amount> <Currency>`\nAccepted currencies: `Silver` `Wists` `Gems` `Cubes`",
-    "NO_TP": "{{message.author}} You have no active `Trade Pass`. Use the command `{{prefix}}bump` to visit the website and exchange your `Bump` points for one",
+    "NO_TP": "{{author}} You have no active `Trade Pass`. Use the command `{{prefix}}bump` to visit the website and exchange your `Bump` points for one",
     "NOT_ENOUGH_CURR": "{{user}} You don't have enough `{{currency}}` to start the game!",
     "INFO_1": "{{user}} has started a game of Guess",
     "INFO_2": "Players must have `{{bet}} {{currency}}` to participate",
