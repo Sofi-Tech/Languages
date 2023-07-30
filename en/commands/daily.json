@@ -5,7 +5,7 @@
     "DAILY_ERROR": "You can claim your `Daily` after {{timeout}}\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` left to claim a `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` left to claim a `Rare Chest`",
-    "NOTE": "⚠️ Discord, as well as Sofi Staff will NEVER do any of the following:\n- Ask you for your \"Password\" or \"One-Time-Passwords\"\n- Advise you to change your E-Mail\n- Use third-party methods, such as \"Mee6\" or \"Dyno\" to communicate with you.\n\nAny suspicious activity should be immidately reported at {{link}}! ⚠️",
+    "NOTE": "⚠️ Discord, as well as Sofi Staff will NEVER do any of the following:\n- Ask you for your \"Password\" or \"One-Time-Passwords\"\n- Advise you to change your E-Mail\n- Use third-party methods, such as \"Mee6\" or \"Dyno\" to communicate with you.\n\nAny suspicious activity should be immediately reported at {{link}}! ⚠️",
     "EMBED_FOOTER": "Streak **[ {{streak}} ]** • {{streakBar}}",
     "DAILY_SUCCESS": "Thank you for claiming your `Daily`!",
     "GUILD_BONUS": "Since you are using this command on a Top-20 Sofi Server, your `Daily` Reward is increased by x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
