@@ -9,7 +9,7 @@
     "ALBUM_NAME_NOT_FOUND": "{{author}} Could not find any album with the name: `{{albumName}}`",
     "PROCESSING": "Processing <a:_:876610443148406794>",
     "NO_CARDS": "{{author}} There are no cards in this album yet",
-    "EMBED_TITLE": "SOFI: ALBUM ({{username}})",
+    "EMBED_TITLE": "SOFI: ALBUMS ({{username}})",
     "ALBUM_BUTTON_LABEL": "Create Album",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "Owned By {{userTag}}"
