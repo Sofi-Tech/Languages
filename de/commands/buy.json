@@ -5,10 +5,10 @@
     "SLASH_DESC3": "Gebe den Code des `Background` an, den du kaufen möchtest. [FUNKTIONIERT NUR, WENN DAS ITEM ALS BACKGROUND AUSGEWÄHLT WURDE]",
     "NO_ITEM": "Bitte gebe das zu kaufende `Item` an",
     "TRADEPASS_INFO": "Du kannst **__1x__** `Bump` gegen einen 4-Stunden `Trade Pass` eintauschen oder **__20x__** `Bumps` ansparen um einen 30-Tage `Trade Pass` zu kaufen",
-    "CORRECT_USAGE": "{{USER}} Korrekte Verwendung: `{{prefix}}buy bg <Background-ID> <Menge>`",
+    "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}buy bg <Background-ID> <Menge>`",
     "INVALID_BG_AMOUNT": "Gebe keine negativen Mengen an",
     "INVALID_BG_ID": "Bitte gebe eine gültige `Background`-ID an",
     "NO_ITEM_PROVIDED": "Kein `Item` angegeben",
-    "INVALID_AMOUNT": "{{author}} Du kannst keine negative Menge von `{{eventItem}}` verschenken",
-    "INVALID_ITEM_PROVIDED": "{{USER}} Ungültiges `Item` angegeben"
+    "INVALID_AMOUNT": "{{author}} Ungültiger Betrag angegeben",
+    "INVALID_ITEM_PROVIDED": "{{user}} Ungültiges `Item` angegeben"
 }
