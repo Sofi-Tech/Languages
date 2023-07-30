@@ -13,9 +13,9 @@
     "CHEST_INFO": "Event chests can still be opened after an event has concluded",
     "PROVIDE_NUM": "Please provide a number between **1 & 10**",
     "CHEST_MISSING": "{{author}} You don't have enough `{{chestName}}` in your `Inventory`",
-    "COMMON_INFO_1": "You have opened **{{totalChests}}** `{{chestName}}` Chests",
+    "COMMON_INFO_1": "You have opened **{{totalChests}}** `{{chestName}}`",
     "ITEMS_FOUND": "Items obtained:",
     "COMMON_RARE_FOOTER": "You can obtain a {{chestName}} Chest for every {{count}} `Daily` streaks",
-    "EXOTIC_DIVINE_FOOTER": "You can obtain an {{chestName}} Chest for {{count}} `Votes` every month",
+    "EXOTIC_DIVINE_FOOTER": "You can obtain {{article}} {{chestName}} Chest for {{count}} `Votes` every month",
     "ITEM_MISSING": "You don't have {{itemName}} in your inventory"
 }
