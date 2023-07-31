@@ -24,5 +24,16 @@
     "ALL_UNTAG_SUCCESS": "Ang lahat ng {{taglength}} na card ay matagumpay na natanggal ang tag",
     "ALL_TAG_SUCCESS": "{{author}} Ang lahat ng {{taglength}} na card ay matagumpay na naitag",
     "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Wala ka pang mga `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <TagName> <Emoji>`"
+    "NO_TAG_FOUND": "Wala ka pang mga `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <TagName> <Emoji>`",
+    "USER_NOT_FOUND": "{{author}} Walang nakitang user!",
+    "EMBED_TITLE": "Collection ni {{username}} - {{amount}} cards | pahina: {{page}}/{{totalPages}}",
+    "NOT_AVAILABLE": "Hindi Available",
+    "SORT_LEVEL": "Ayusin Base Sa Level",
+    "NOTICE_FOOTER": "Sa halip na i ping ang user, gamitin nalang ang sc {{userId}}",
+    "TAG_MODAL_LABEL": "Madamihang Tag",
+    "TAG_MODAL_PLACEHOLDER": "Para mag tag : pangalanNgtag / Para mag alis ng tag :  -pangalanNgtag",
+    "TAG_MODAL_TITLE": "Ilagay ang tag",
+    "SORT_EMBED_TITLE": "Collection ni {{username}} - {{amount}} cards | pahina: {{page}}/{{totalPages}} (Sort By: {{sortedBy}})",
+    "SORTING_EMBED_TITLE": "Collection ni {{username}} - {{amount}} cards | pahina: {{page}}/{{totalPages}} (Sorting <a:loading:876610443148406794>)",
+    "TAG_NO_CARDS_FOUND": "Walang nakitang cards na may ganyang tag"
 }

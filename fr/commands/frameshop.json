@@ -1,6 +1,6 @@
 {
     "FS_DESCRIPTION": "Affiche les \"Frames\" actuellement en rotation, ainsi que les aperçus de celles existantes",
-    "FS_CATEGORY": "Cosmetiques",
+    "FS_CATEGORY": "Cosmétiques",
     "FS_SLASH_DESC": "Entrez le code de la \"Frame\" que vous souhaitez prévisualiser",
     "NO_DESCRIPTION_FOUND": "Cette \"Frame\" ne possède pas encore de description",
     "FS_PRICE": "Prix: **{{price}}**",
@@ -31,5 +31,5 @@
     "MF_MENU_LABEL": "Mensuels",
     "CF_MENU_LABEL": "Personnalisées",
     "EDIT_DESC_SUCCESSFUL": "Le processus s'est terminé avec succès",
-    "FRAMESHOP_DESCRIPTION": "\nArtiste: **{{artist}}**\nCode: `{{code}}`\n{{price}}\n```\n{{description}}\n```"
+    "FRAMESHOP_DESCRIPTION": "\nArtiste: **{{artist}}**\nCode: `{{code}}`\n{{price}}\n```\n\n{{description}}\n```"
 }

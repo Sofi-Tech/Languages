@@ -11,5 +11,9 @@
     "CANCELLED": "Le processus a été annulé",
     "NOT_ENOUGH_CANCEL": "Vous essayez de publier plus de \"Wists\" que vous n'en avez",
     "SUCCESS": "Votre offre a été publier avec succès.",
-    "EMBED_TITLE": "MARCHÉ SOFI:"
+    "EMBED_TITLE": "MARCHÉ SOFI:",
+    "BLACKLISTED": "{{author}} Vous êtes sur liste noire",
+    "NOT_VERIFIED": "{{author}} Vous n'êtes pas vérifier",
+    "QUARANTINED": "{{author}} Vous êtes en quarantaine",
+    "NOT_REGISTERED": "{{author}} Vous n'êtes pas incrit"
 }
