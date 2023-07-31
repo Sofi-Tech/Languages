@@ -2,10 +2,10 @@
     "DESCRIPTION": "Claim your daily rewards",
     "CATEGORY": "Cards",
     "EMBED_AUTHOR": "SOFI: `DAILY` REWARD ({{author}})",
-    "DAILY_ERROR": "You can claim your next `Daily` in **{{timeout}}**\n",
+    "DAILY_ERROR": "\nYou can claim your next `Daily` in **{{timeout}}**",
     "COMMON_CHEST": "<:commonchest:927502629997805608> **{{count}}** more `Daily` claims left to receive a `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> **{{count}}** more `Daily` claims left to receive a `Rare Chest`\n",
-    "NOTE": "⚠️ Discord, as well as Sofi Staff will NEVER do any of the following:\n- Ask you for your \"Password\" or \"One-Time-Passwords\"\n- Advise you to change your E-Mail\n- Use third-party methods, such as \"Mee6\" or \"Dyno\" to communicate with you.\n\nAny suspicious activity should be immediately reported at {{link}}! ⚠️",
+    "NOTE": "⚠️ Discord, as well as Sofi Staff will NEVER ask you for your password or advise you to change your E-Mail to a specific address. Beware of third-party discord BOTs that are often used for similar phishing attempts!\n\nAny suspicious activity should be immediately reported at {{link}}! ⚠️",
     "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
     "DAILY_SUCCESS": "Successfully claimed your daily reward!",
     "GUILD_BONUS": "Since you are using this command on a Top-20 Sofi Server, your `Daily` Reward is increased by x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
