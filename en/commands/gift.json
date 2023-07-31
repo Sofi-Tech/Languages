@@ -5,9 +5,9 @@
     "GIFT_SLASH_DESC2": "Enter the amount of `{{eventItem}}` you want to gift them",
     "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <@User/UserID> <Amount>`",
     "INVALID_USER": "{{author}} You cannot gift `{{eventItem}}` to yourself",
-    "INVALID_AMOUNT": "{{author}} Invalid amount provided",
+    "INVALID_AMOUNT": "{{author}} The amount you provided is invalid",
     "NOT_ENOUGH_ITEM": "{{author}} You do not have **{{amount}}** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} That player does not exist",
+    "PLAYER_NOT_EXISTS": "{{author}} That user is not registered!",
     "GIFT_SUCCESSFUL": "{{author}} has gifted **{{amount}}** `{{eventItem}}` to {{user}}\n{{user}} has received a total of **{{recieveCount}}** `{{eventItem}}`",
     "NO_ACTIVE_EVENT": "{{author}} There is no event currently active",
     "EMBED_TITLE": "SOFI: GIFT"
