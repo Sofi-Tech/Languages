@@ -6,7 +6,7 @@
     "CANCELLED": "The process has been cancelled",
     "BURN_FRAG_WARN": "You are about to burn a `Fragment`\n`Fragment` Code: `{{fragCode}}`",
     "FRAG_NOT_FOUND": "No `Fragment` found",
-    "CARD_NOT_FOUND": "Could not find that card",
-    "CARD_LOCKED": "That card is locked",
+    "CARD_NOT_FOUND": "{{author}} The card code you provided is either invalid or not in your collection",
+    "CARD_LOCKED": "{{author}} That card is locked and cannot be burned",
     "CARD_NOT_OWNED": "You do not own that card"
 }
