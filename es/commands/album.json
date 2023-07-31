@@ -1,16 +1,16 @@
 {
-    "ALBUM_DESCRIPTION": "Ve tus álbumes de Sofi",
+    "ALBUM_DESCRIPTION": "Mira tus álbumes",
     "ALBUM_CATEGORY": "Album",
     "ALBUM_SLASH_DESC": "Elige un usuario cuyos álbumes quieras ver",
     "ALBUM_SLASH_DESC2": "Introduce el nombre del album que estás buscando.",
-    "USER_NOT_FOUND": "{{author}} Usuario no encontrado!",
-    "PLAYER_NOT_EXIST": "{{author}} Ese jugador no existe",
-    "ALBUM_NOT_FOUND": "No se encontraron albums para {{username}}",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} no puede encontrar el album con el nombre `{{albumName}}`",
+    "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
+    "PLAYER_NOT_EXIST": "{{author}} Ese usuario no está registrado!",
+    "ALBUM_NOT_FOUND": "{{author}} Ese usuario no tiene albums",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} No se ha podido encontrar ningún album con el nombre: `{{albumName}}`",
     "PROCESSING": "Procesando <a:_:876610443148406794>",
-    "NO_CARDS": "No se encontraron cartas en este álbum",
-    "EMBED_TITLE": "Album de {{username}}",
+    "NO_CARDS": "{{author}} Aún no hay cartas en este álbum",
+    "EMBED_TITLE": "SOFI: ALBUMS ({{username}})",
     "ALBUM_BUTTON_LABEL": "Crear Album",
-    "EMBED_ALBUM_TITLE": "{{albumName}} Album",
-    "EMBED__ALBUM_FOOTER": "Por {{userTag}}"
+    "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
+    "EMBED__ALBUM_FOOTER": "Propiedad De {{userTag}}"
 }

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Muestra tu lista de deseos",
     "CATEGORY": "Lista de deseos",
-    "USER_NOT_FOUND": "{{author}} No se ha podido encontrar ese usuario",
+    "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
     "WISHLIST_PRIVATE": "{{author}} Ese usuario ha establecido su lista de deseos como privada",
     "WISHLIST_EMPTY": "{{author}} La lista de deseos de ese usuario está vacía",
     "WISHLIST_EMBED_TITLE": "SOFI: LISTA DE DESEOS ({{username}}) [{{length}}/{{slots}}]",

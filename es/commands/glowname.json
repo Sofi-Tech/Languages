@@ -5,11 +5,11 @@
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}} glowname <CódigoDeGlow> <NuevoNombre>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Los códigos de `Glow` siempre comienzan con `#`",
     "GLOW_NOT_FOUND": "{{author}} El código del `Glow` que proporcionaste es invalido o no se encuentra en tu `Inventory`",
-    "GLOW_NAME_LONG": "{{author}} Los nombres de `Glow` pueden tener un máximo de 25 caracteres",
-    "GLOW_NAME_EXISTS": "{{author}} El nombre del `Glow` ya está en uso en otro sitio",
+    "GLOW_NAME_LONG": "{{author}} El nombre de tu `Glow` sólo puede tener **25** caracteres",
+    "GLOW_NAME_EXISTS": "{{author}} Ese nombre ya está asignado a otro `Glow`",
     "EMBED_TITLE": "SOFI: NOMBRE DEL GLOW",
-    "GLOWNAME_CHANGE_CONFIRMATION": "¿Estás seguro de que quieres cambiar `{{oldName}}` a `{{newName}}`?",
-    "MISSING_ITEMS": "No tienes suficientes fondos para este proceso",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "El nombre del `Glow` se ha cambiado con éxito",
-    "PROFANE_GLOW_NAME": "{{author}} hay algo mal con el nombre. Prueba con otro"
+    "GLOWNAME_CHANGE_CONFIRMATION": "¿Estás seguro de que quieres cambiar el nombre de tu `Glow` de `{{oldName}}` a `{{newName}}`?",
+    "MISSING_ITEMS": "{{author}} No tienes suficiente `{{currency}}` para este proceso",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el nombre de su `Glow` a `{{newName}}`",
+    "PROFANE_GLOW_NAME": "{{author}} El nombre de tu `Glow` **no pueden** contener palabras malsonantes"
 }

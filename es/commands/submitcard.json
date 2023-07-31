@@ -4,7 +4,7 @@
     "SC_DESCRIPTION": "Envía una imagen para la variante \"Version\" de un personaje",
     "SC_CATEGORY": "Configuración",
     "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> La imagen enviada **tiene** que ser de una fuente oficial",
-    "USE_DISCORD_LINK": "<:_:979009081325019156> La imagen enviada tiene que usar un enlace oficial de Discord, como `cdn.discordapp.com` o `media.discordapp.net`",
+    "USE_DISCORD_LINK": "<:_:979009081325019156> La imagen enviada **tiene** que usar un enlace oficial de Discord, como `cdn.discordapp.com` o `media.discordapp.net`",
     "VALID_EVENT_3D_DIMENSIONS": "{{author}} La imagen `3D Event` enviada no tiene dimensiones válidas! `297x465`",
     "EMBED_TITLE": "SOFI: ENVÍO DE CARTA ({{character}})",
     "SUBMIT_CONFIRMATION": "¿Estás seguro de que quieres enviar esta carta?",
