@@ -11,11 +11,11 @@
     "NAME": "Pangalan:",
     "CHEST_INFO": "Maaari pa ring buksan ang mga event chest pagkatapos ng isang kaganapan",
     "PROVIDE_NUM": "Mangyaring magbigay ng numero sa pagitan ng **1 at 10**",
-    "CHEST_MISSING": "Wala kang **{{replacedArg}}** `{{chestName}}` Chests sa iyong `Inventory`",
-    "COMMON_INFO_1": "Nabuksan mo na ang **{{totalChests}}** `{{chestName}}` Chests",
-    "ITEMS_FOUND": "Mga natagpuang item:\n",
+    "CHEST_MISSING": "{{author}} Wala kang sapat na `{{chestName}}` sa iyong `Inventory`",
+    "COMMON_INFO_1": "Binuksan mo ang **{{totalChests}}** `{{chestName}}`",
+    "ITEMS_FOUND": "Mga natagpuang item:",
     "COMMON_RARE_FOOTER": "Maaari kang magkaroon ng {{chestName}} Chest para sa bawat {{count}} na sunod-sunod na `Daily`",
-    "EXOTIC_DIVINE_FOOTER": "Maaari kang magkaroon ng {{chestName}} Chest para sa {{count}} na `Votes` kada buwan",
+    "EXOTIC_DIVINE_FOOTER": "Maaari kang makakuha ng {{article}} {{chestName}} Chest para sa {{count}} `Mga Boto` bawat buwan",
     "ITEM_MISSING": "Wala kang {{itemName}} sa iyong inventory",
     "CORRECT_USAGE_2": "Mga `Item` na maaaring buksan: `Chests`, `Charms`"
 }

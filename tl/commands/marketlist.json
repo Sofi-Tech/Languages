@@ -11,5 +11,9 @@
     "CANCELLED": "Ang proseso ay nakansela",
     "NOT_ENOUGH_CANCEL": "Sinusubukan mong ilista ang higit pang mga 'Wists' kaysa sa meron ka",
     "SUCCESS": "Ang iyong deal ay matagumpay na nailista",
-    "EMBED_TITLE": "MERKADO SA SOFII:"
+    "EMBED_TITLE": "MERKADO SA SOFII:",
+    "NOT_REGISTERED": "{{author}} ikaw ay hindi rehistrado",
+    "BLACKLISTED": "{{author}} ikaw ay blacklisted",
+    "NOT_VERIFIED": "{{author}} ikaw ay hindi berepkado",
+    "QUARANTINED": "{{author}} ikaw ay quarantined"
 }

@@ -2,10 +2,10 @@
     "DESCRIPTION": "Maghanap ng partikular na serye",
     "NO__LAST_CHAR_FOUND": "{{author}} Wala ka pang kard sa iyong collection",
     "NO_CHAR_FOUND": "{{author}} Ang serye na ito ay wala pang mga characters",
-    "NO_SERIES_FOUND": "{{author}} Walang nahanap na resulta para sa series na `{{name}}`",
-    "SERIES": "__SERYE__",
+    "NO_SERIES_FOUND": "{{author}} Hindi makahanap ng anumang serye na may pangalang: `{{name}}`",
+    "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} May naganap na error. Maaaring subukan muli",
     "CARD_COLLECTED": "Cards na na-collect: **{{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Kabuuan ng Wishlist: **__{{wlCount}}__**",
+    "TOTAL_WL": "Kabuuan ng Wishlist: **{{wlCount}}**",
     "CHARACTERS": "Mga Characters"
 }
