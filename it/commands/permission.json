@@ -34,5 +34,6 @@
     "REMOVE_MODAL_LABEL": "Rimuovi comandi da {{listName}}",
     "ADD_ALL_COMMANDS_SUCCESSFUL": "Tutti i comandi sono stati aggiunti a {{listName}}.",
     "ADD_COMMANDS_ERROR": "I comando(i) che stai tentando di aggiungere sono già {{listName}} OPPURE hai inserito comando(i) errati",
-    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "Tutti i comando(i) sono stati rimossi da {{listName}}."
+    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "Tutti i comando(i) sono stati rimossi da {{listName}}.",
+    "PERMS_DESCRIPTION": "Consente di inserire nella lista bianca o nella lista nera comandi specifici nel canale."
 }
