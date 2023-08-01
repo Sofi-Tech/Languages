@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Gebe jemandem eine Karte",
-    "SLASH_DESC": "Gebe den Benutzer an, dem du eine Karte geben möchtest",
-    "SLASH_DESC2": "Gebe den Code der Karte an, die du geben möchtest",
+    "DESCRIPTION": "Gib jemandem eine Karte",
+    "SLASH_DESC": "Gib den Benutzer an, dem du eine Karte geben möchtest",
+    "SLASH_DESC2": "Gib den Code der Karte an, die du geben möchtest",
     "NO_SELF_GIVE": "{{author}} Du kannst dir selber keine Karte geben",
     "NOT_REGISTERED": "{{author}} Der Benutzer ist nicht registriert!",
     "MEM_BLACKLISTED": "{{author}} Dieser Benutzer steht auf der Schwarzen Liste!",

@@ -10,7 +10,7 @@
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
     "NOTHING_FOUND": "Could not find any card",
     "NOT_AVAILABLE": "Not Available",
-    "CHOOSE_SORTING": "Sorting Methods",
+    "CHOOSE_SORTING": "Sorting by",
     "SORT_CHAR": "Name",
     "SORT_SERIES": "Series",
     "SORT_GEN": "Gen",
@@ -27,13 +27,13 @@
     "NOTICE_FOOTER": "",
     "TAG_MODAL_LABEL": "Mass Tag",
     "TAG_MODAL_PLACEHOLDER": "Use a \"-\" to mass remove a \"Tag\" instead",
-    "TAG_MODAL_TITLE": "Enter a `Tag`",
+    "TAG_MODAL_TITLE": "Enter a \"Tag\"",
     "TAG_NO_CARDS_FOUND": "{{author}} Could not find any cards with the `Tag`: `{{arg}}`",
     "SHOWING PAGE": "Showing page: {{page}}/{{pages}}",
-    "ALL_UNTAG_SUCCESS": "All {{taglength}} cards were successfully untagged",
-    "ALL_TAG_SUCCESS": "{{author}} All {{taglength}} cards were successfully tagged",
+    "ALL_UNTAG_SUCCESS": "{{author}} Successfully removed the `{{tagName}}` `Tag` to all **{{taglength}}** cards",
+    "ALL_TAG_SUCCESS": "{{author}} Successfully added the `{{tagName}}` `Tag` to all **{{taglength}}** cards",
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "You don't have any `Tags` yet. You can create them with the command `{{prefix}}tc <TagName> <Emoji>`",
-    "SORT_EMBED_TITLE": "{{username}}'s collection - {{amount}} cards | page: {{page}}/{{totalPages}} (Sort By: {{sortedBy}})",
-    "SORTING_EMBED_TITLE": "{{username}}'s collection - {{amount}} cards | page: {{page}}/{{totalPages}} (Sorting <a:loading:876610443148406794>)"
+    "NO_TAG_FOUND": "{{author}} You don't have any Tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
+    "SORT_EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
+    "SORTING_EMBED_TITLE": "SOFI: COLLECTION ({{username}})"
 }

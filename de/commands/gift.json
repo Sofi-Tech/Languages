@@ -4,7 +4,7 @@
     "INVALID_AMOUNT": "{{author}} Ungültiger Betrag angegeben",
     "GIFT_CATEGORY": "Karten",
     "GIFT_WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gift <User> <Amount>`",
-    "GIFT_SLASH_DESC2": "Gebe die Menge an `{{eventItem}}` ein, die du verschenken möchtest",
+    "GIFT_SLASH_DESC2": "Gib die Menge an `{{eventItem}}` ein, die du verschenken möchtest",
     "GIFT_SUCCESSFUL": "{{author}} hat {{user}} **{{amount}}** `{{eventItem}}`geschenkt\n{{user}} hat insgesamt **{{recieveCount}}** `{{eventItem}}`erhalten",
     "INVALID_USER": "{{author}} Du kannst dir selbst keine `{{eventItem}}` schenken",
     "NOT_ENOUGH_ITEM": "{{author}} Du besitzt keine **{{amount}}** `{{eventItem}}`",

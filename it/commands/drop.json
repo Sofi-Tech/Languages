@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Genera un \"Drop\" di carte\nUsa il comando \"{{prefix}}dn\" per generare un \"Drop\" senza immagini",
     "EXTRA_DROP_ALERT": "{{author}} Il tuo **Extra Drop** è stato usato. Ne hai **{{remaining}}** rimanenti",
-    "ON_CD": "{{author}} Il tuo `Drop` sarà pronto tra {{dropCd}}",
+    "ON_CD": "{{author}} Il tuo `Drop` sarà pronto tra: {{dropCd}}",
     "VOTE": "Vote",
     "BUY_DROP": "\n\nPuoi anche `Vote` per ricevere `Wists` e acquistare `Drops` con essi!\nUsa il comando `{{prefix}}buy drop `per scambiarli",
     "DROPPING_CARD": "{{author}} sta **dropping** Le carte\n"

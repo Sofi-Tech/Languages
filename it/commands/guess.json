@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Inizia il gioco di indovina la parola",
     "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}guess <Quantità> <Valuta>`\nValute accettare: `Silver`, `Wists`, `Gems`, `Cubes`",
-    "NO_TP": "{{message.author}} Non hai alcun `Trade Pass` attivo. Usa il comando `{{prefix}}bump` per visitare il sito web e scambia i tuoi punti `Bump` con uno",
+    "NO_TP": "{{author}} Ti serve un `Trade Pass` attivo per creare o partecipare in un guessing game",
     "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per iniziare il gioco!",
     "INFO_1": "{{user}} ha iniziato una partita a Guess",
     "INFO_2": "I giocatori devono avere {{bet}} {{currency}} per giocare",

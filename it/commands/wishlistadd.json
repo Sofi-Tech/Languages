@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Aggiungi caratteri alla tua lista dei desideri",
     "CATEGORY": "Lista dei desideri",
-    "ADD_CHARACTERS_ERROR": "{{author}} Non puoi aggiungere altri caratteri alla tua lista dei desideri{{wishlistState}}",
+    "ADD_CHARACTERS_ERROR": "{{author}} Non puoi aggiungere più personaggi alla tua lista dei desideri",
     "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Nome>`",
     "NO_CHARACTER_FOUND": "{{author}} Non è riuscito a trovare quel carattere. Usa il comando `{{prefix}}wa -f <Nome>` per una ricerca esatta",
     "CHARACTER_ALREADY_EXISTS": "{{author}} Il carattere **{{name}}** è già nella tua lista dei desideri!",

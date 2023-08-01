@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Öffnet Chests und Lootboxes",
-    "SLASH_DESC_1": "Gebe das `Item` an, das du öffnen möchtest",
-    "SLASH_DESC_2": "Gebe die Menge an.",
+    "SLASH_DESC_1": "Gib das `Item` an, das du öffnen möchtest",
+    "SLASH_DESC_2": "Gib die Menge an.",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Amount>`",
     "EMPTY_INV": "{{author}} Dein `Inventory` ist leer",
     "CHARM_MISSING": "{{author}} Du besitzt keine `Charms`",
@@ -10,7 +10,7 @@
     "SERIES": "Serie:",
     "NAME": "Name:",
     "CHEST_INFO": "Event-Kisten können auch nach Ende des Events geöffnet werden",
-    "PROVIDE_NUM": "Bitte gebe eine Zahl zwischen **1 & 10** an",
+    "PROVIDE_NUM": "Bitte gib eine Zahl zwischen **1 & 10** an",
     "CHEST_MISSING": "Du hast keine **{{replacedArg}}** `{{chestName}}`Kisten in deinem `Inventory`",
     "COMMON_INFO_1": "Du hast **{{totalChests}}** `{{chestName}}`-Kisten geöffnet",
     "ITEMS_FOUND": "Erhaltene Gegenstände:\n",

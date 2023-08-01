@@ -1,5 +1,5 @@
 {
-    "LOTTERY_WON": "Congrats! You have won Sofi's Halloween 2D Lottery! 🎃",
+    "LOTTERY_WON": "Congrats! You have won Sofi's {{event}} 2D Lottery! 🎃",
     "MENTION_ERROR": "Use the server prefix `{{prefix}}` or `/` in order to execute commands",
     "RATE_LIMIT_ERROR": "Due to high activity, the rate limit has been reached! Please wait.",
     "VERIFY_BUTTON_LABEL": "Verify",

@@ -2,7 +2,7 @@
     "DESCRIPTION": "Mit dem Befehl \"sc\" kannst du deine Kartensammlung anzeigen lassen\n- Diese kann nach Namen, Kosmetika, Statuswerten und weiteren Kriterien sortiert werden\n- Unter anderem kannst diese auch nach \"Wunschlistenanzahl\", \"Gen\" oder \"Tag\"-Namen filtern\n- Nutze \"sc t:ut\" um Karten ohne \"Tag\" in deiner Sammlung anzeigen zu lassen",
     "SLASH_CMD_DESC": "Zeigt deine Kartensammlung an",
     "SLASH_DESC": "Wähle den Benutzer, dessen Sammlung du sehen möchtest",
-    "SLASH_DESC2": "Gebe die Filter an, die du auf die Sammlung anwenden möchtest",
+    "SLASH_DESC2": "Gib die Filter an, die du auf die Sammlung anwenden möchtest",
     "PLAYER_NOT_EXIST": "{{author}} Dieser Benutzer ist nicht registriert!",
     "PLAYER_PRIVATE": "{{author}} Die Sammlung dieses Benutzers ist privat!",
     "NO_RESULTS": "{{author}} Es wurden keine Ergebnisse gefunden!",

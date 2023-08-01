@@ -1,8 +1,8 @@
 {
     "CREATE_ALBUM_DESCRIPTION": "Erstelle eine Grundlage für ein \"Album\"",
     "CREATE_ALBUM_CATEGORY": "Album",
-    "CREATE_ALBUM_SLASH_DESC": "Gebe den Namen deines \"Albums\" ein",
-    "PROVIDE_ALBUM_NAME": "{{author}} Gebe einen \"Album\"-Namen ein",
+    "CREATE_ALBUM_SLASH_DESC": "Gib den Namen deines \"Albums\" ein",
+    "PROVIDE_ALBUM_NAME": "{{author}} Gib einen \"Album\"-Namen ein",
     "ALBUM_NAME_ERROR": "Dein `Album`-Name muss alphanumerisch sein und darf Folgendes nicht enthalten:\n- Sonderzeichen\n- Leerzeichen\n- Großbuchstaben",
     "ALBUM_NAME_LONG": "{{author}} Ein `Album`-Name darf höchstens 20 Zeichen enthalten",
     "MAX_ALBUMS": "{{author}} Du kannst maximal 10 `Albums` haben",

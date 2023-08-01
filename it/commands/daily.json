@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Usa il comando \"sdaily\" per richiedere la tua ricompensa giornaliera. Mantieni una serie di vittorie per ottenere ricompense ancora migliori!",
+    "DESCRIPTION": "Ottieni le tue ricompense giornaliere",
     "CATEGORY": "Carte",
-    "EMBED_AUTHOR": "Premi giornalieri di {{author}}",
+    "EMBED_AUTHOR": "SOFI: `DAILY` Premi ({{author}})",
     "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}}\n",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__`Daily` rimasto per reclamare a `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874>__{{count}}x__ `Daily` rimasto per reclamare a `Rare Chest`",

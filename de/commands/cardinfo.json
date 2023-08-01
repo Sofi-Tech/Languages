@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Zeigt Informationen zu einer Karte an",
-    "SLASH_DESC": "Gebe den Code der Karte an, die du überprüfen möchtest",
+    "SLASH_DESC": "Gib den Code der Karte an, die du überprüfen möchtest",
     "NO_CARD_FOUND": "Deine letzte Karte konnte nicht gefunden werden. Versuche stattdessen einen Karten-Code anzugeben",
     "INVALID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CARD_MORPHED": "Diese Karte ist morphed",

@@ -1,7 +1,7 @@
 {
     "FS_DESCRIPTION": "Zeigt die derzeit in der Rotation verfügbaren, sowie Vorschauen aller vorhandenen \"Frames\" an",
     "FS_CATEGORY": "Kosmetika",
-    "FS_SLASH_DESC": "Gebe den Code des \"Frame\" ein, den du anschauen möchtest",
+    "FS_SLASH_DESC": "Gib den Code des \"Frame\" ein, den du anschauen möchtest",
     "NO_DESCRIPTION_FOUND": "Für dieses \"Frame\" gibt es noch keine Beschreibung",
     "FS_PRICE": "Preis: **{{price}}**",
     "EMBED_CF_TITLE": "SOFI: CUSTOM `FRAMES`",
@@ -15,7 +15,7 @@
     "EMBED_FRAME_DESC_TITLE": "SOFI: Frame-Beschreibung",
     "FRAME_DESC_EDIT": "Klicke auf den 📜 Button, um eine Beschreibung hinzuzufügen",
     "EMBED_FRAME_IMAGE_TITLE": "SOFI: Bild bearbeiten",
-    "EMBED_FRAME_IMAGE_DESC": "**Gebe einen neuen Bild-Link ein**\nStelle sicher, dass du ausschließlich einen `media.discordapp.net`-Link verwendest!\nDas neu übermittelte Bild muss außerdem den richtigen Abmessungen entsprechen!",
+    "EMBED_FRAME_IMAGE_DESC": "**Gib einen neuen Bild-Link ein**\nStelle sicher, dass du ausschließlich einen `media.discordapp.net`-Link verwendest!\nDas neu übermittelte Bild muss außerdem den richtigen Abmessungen entsprechen!",
     "EMBED_CANCEL_TITLE": "SOFI: `FRAME` SHOP",
     "EMBED_CANCEL_DESC": "Der Vorgang wurde abgebrochen",
     "EDIT_DESC_ERROR": "{{author}} Die von dir eingereichte Beschreibung ist ungültig",

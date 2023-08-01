@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Aumenta la capacità della tua lista dei desideri",
     "CATEGORY": "Lista dei desideri",
-    "ALREADY_MAXED": "> {{author}} I tuoi posti nella lista dei desideri sono già esauriti!",
+    "ALREADY_MAXED": "{{author}} Non puoi più aggiungere alla tua lista dei desideri",
     "EMBED_DESCRIPTION": "Vuoi acquistare {{count}} slot extra per {{amount}} {{currency}}?",
     "EMBED_PAY_FIELD_NAME": "Pagherai:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",

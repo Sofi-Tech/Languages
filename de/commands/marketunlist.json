@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Entfernt deine Angebote vom Markt",
-    "CORRECT_USAGE": "{{user}} | Bitte gebe die Angebots-ID an oder verwende `smul all`, um alle Angebote auf einmal zu entfernen",
+    "CORRECT_USAGE": "{{user}} | Bitte gib die Angebots-ID an oder verwende `smul all`, um alle Angebote auf einmal zu entfernen",
     "INVALID_DEAL_ID": "{{author}} Die angegebene ID ist entweder ungültig oder stammt nicht aus deinem Angebot",
     "SUCCESS_UL": "{{user}}, der Deal `{{dealId}}` wurde erfolgreich aus dem Markt entfernt",
     "NO_LISTINGS_FOUND": "{{user}}, du hast gerade keine Angebote auf dem Markt",
