@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt deine Wunschliste an",
     "CATEGORY": "Wunschliste",
-    "USER_NOT_FOUND": "{{author}} Dieser Benutzer konnte nicht gefunden werden",
+    "USER_NOT_FOUND": "{{author}} Benutzer konnte nicht gefunden werden",
     "WISHLIST_PRIVATE": "{{author}} Dieser Benutzer hat seine Wunschliste auf privat gestellt",
     "WISHLIST_EMPTY": "{{author}} Die Wunschliste dieses Benutzer ist leer",
     "WISHLIST_EMBED_TITLE": "SOFI: WUNSCHLISTE ({{username}}) [{{length}}/{{slots}}]",

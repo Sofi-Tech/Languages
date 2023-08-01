@@ -33,7 +33,7 @@
     "ALL_UNTAG_SUCCESS": "{{author}} Successfully removed the `{{tagName}}` `Tag` to all **{{taglength}}** cards",
     "ALL_TAG_SUCCESS": "{{author}} Successfully added the `{{tagName}}` `Tag` to all **{{taglength}}** cards",
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} You don't have any Tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
+    "NO_TAG_FOUND": "{{author}} You don't have any `Tags` yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
     "SORT_EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "SORTING_EMBED_TITLE": "SOFI: COLLECTION ({{username}})"
 }
