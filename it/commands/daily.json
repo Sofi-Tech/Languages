@@ -2,11 +2,11 @@
     "DESCRIPTION": "Ottieni le tue ricompense giornaliere",
     "CATEGORY": "Carte",
     "EMBED_AUTHOR": "SOFI: `DAILY` Premi ({{author}})",
-    "DAILY_ERROR": "Puoi richiedere il tuo `Daily` dopo il {{timeout}}\n",
+    "DAILY_ERROR": "Puoi reclamare il tuo `Daily` in **{{timeout}}**",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__`Daily` rimasto per reclamare a `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874>__{{count}}x__ `Daily` rimasto per reclamare a `Rare Chest`",
-    "NOTE": "⚠️ Discord, così come lo Staff di Sofi, non faranno MAI nessuna delle seguenti cose:\n- Richiedi la tua \"Password\" o \"Password monouso\"\n- Consigliare di cambiare la tua E-Mail\n- Utilizzare metodi di terze parti, come \"Mee6\" o \"Dyno\" per comunicare con te.\n\nQualsiasi attività sospetta deve essere immediatamente segnalata a {{link}}! ⚠️",
-    "EMBED_FOOTER": "Serie **[ {{streak}} ]** • {{streakBar}}",
-    "DAILY_SUCCESS": "Grazie per aver richiesto il tuo `Daily`!",
-    "GUILD_BONUS": "Dato che stai usando questo comando su uno dei 20 Migliori Server Sofi, la tua ricompensa `Daily` è aumentata di x1,5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "RARE_CHEST": "<:rarechest:927204672270372874>__{{count}}x__ `Daily` rimasto per reclamare a `Rare Chest`\n",
+    "NOTE": "⚠️ Discord, così come Sofi non chiederà MAI per la tua password o consigliarti di cambiare la tua E-mail in un indirizzo specifico. Stai attento ai BOTs terzi incomodo che sono spesso usati per simili phishing attentati!\n\nQualsiasi attività sospetta dovrebbe essere riportata a {{link}}! ⚠️",
+    "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Reclamato con successo la tua`Daily`ricompensa!",
+    "GUILD_BONUS": "**(1.5x Bonus del Server!)**"
 }

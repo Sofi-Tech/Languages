@@ -2,7 +2,7 @@
     "GIFT_CATEGORY": "Card",
     "GIFT_SLASH_DESC2": "Masukkan jumlah `{{eventItem}}` yang ingin anda berikan kepada mereka",
     "GIFT_WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gift <User> <Jumlah>`",
-    "INVALID_AMOUNT": "{{author}} Anda tidak dapat menghadiahkan jumlah negatif `{{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} Jumlah yang anda berikan tidak valid",
     "PLAYER_NOT_EXISTS": "{{author}} Pemain tersebut tidak ada",
     "GIFT_DESCRIPTION": "Beri \"Event Item\" ke pengguna lain",
     "GIFT_SLASH_DESC": "Pilih pengguna yang ingin anda beri hadiah `{{eventItem}}`",

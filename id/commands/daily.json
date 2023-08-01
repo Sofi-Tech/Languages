@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Gunakan perintah \"sdaily\" untuk mengklaim hadiah harian anda. Pertahankan pencapaian untuk dapatkan hadiah yang lebih baik!",
+    "DESCRIPTION": "Klaim hadiah harian anda",
     "CATEGORY": "Kartu",
-    "EMBED_AUTHOR": "{{author}} Hadiah Harian",
-    "DAILY_ERROR": "Anda dapat mengklaim `Daily` setelah {{timeout}}\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` yang tersisa untuk mengklaim `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` yang tersisa untuk mendapatkan `Rare Chest`",
-    "NOTE": "⚠️ Discord, serta Staff Sofi TIDAK AKAN PERNAH melakukan hal-hal berikut ini:\n- Meminta \"Kata Sandi\" atau \"Kata Sandi Sekali Pakai\" Anda\n- Menyarankan anda untuk mengubah E-Mail Anda\n- Menggunakan metode pihak ketiga, seperti \"Mee6\" atau \"Dyno\" untuk berkomunikasi dengan anda.\n\nSetiap aktivitas yang mencurigakan harus segera dilaporkan di {{link}}! ⚠️",
-    "EMBED_FOOTER": "Konsekutif **[ {{streak}} ]** • {{streakBar}}",
-    "DAILY_SUCCESS": "Terima kasih telah mengklaim `Daily`!",
-    "GUILD_BONUS": "Karena anda menggunakan perintah ini di Server Sofi Top-20, maka Hadiah `Daily` anda akan bertambah sebesar x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "EMBED_AUTHOR": "SOFI: `DAILY` HADIAH ({{author}})",
+    "DAILY_ERROR": "Anda dapat mengklaim `Daily` berikutnya dalam **{{timeout}}**",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> **{{count}}** lebih banyak klaim `Daily` yang tersisa untuk menerima `Common Chest`",
+    "RARE_CHEST": "<:rarechest:927204672270372874> **{{count}}** lebih banyak klaim `Daily` yang tersisa untuk mendapatkan `Rare Chest`\n",
+    "NOTE": "⚠️ Discord, serta Staf Sofi TIDAK AKAN PERNAH meminta kata sandi anda atau menyarankan anda untuk mengubah E-Mail Anda ke alamat tertentu. Waspadalah terhadap BOT pihak ketiga yang sering digunakan untuk upaya phishing serupa!\n\nSetiap aktivitas yang mencurigakan harus segera dilaporkan di {{link}}! ⚠️",
+    "EMBED_FOOTER": "Konsekutif [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Berhasil mengklaim hadiah `Daily` Anda!",
+    "GUILD_BONUS": "**(Bonus Server 1,5x!)**"
 }
