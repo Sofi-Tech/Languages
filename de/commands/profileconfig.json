@@ -34,7 +34,7 @@
     "FAV_CHAR_MENU_PLACEHOLDER": "Wähle einen Charakter",
     "INTRO_TOO_LONG": "{{author}} Deine Vorstellungsnachricht darf nur **90** Zeichen lang sein",
     "SET_INTRO_CONFIRM": "Bist du sicher, dass du den folgenden Text auf deinem Profil anzeigen lassen möchtest?\n\n> {{intro}}",
-    "SET_GLOW_CODE": "\n`Glow`: **{{glow}}**",
+    "SET_GLOW_CODE": "Bist du sicher, dass du den `Glow ` **{{glowName}}** auf deinen Profil-Background anwenden möchtest?\n`Glow`: **{{glow}}**",
     "PC_INTRO": "<:_:979009081325019156> **Vorstellung**: Lege eine Vorstellungsnachricht fest <:_:979009081325019156> **Lieblingscharakter**: Wähle deinen Lieblingscharakter <:_:979009081325019156> **Karte anzeigen**: Wähle eine Karte die auf deinem Profil angezeigt wird <:_:979009081325019156> **Hintergrund**: Lege einen Hintergrund für dein Profil fest <:_:979009081325019156> **Schriftfarbe**: Ändere die Textfarbe deines Profils <:_:979009081325019156> **Profile Glow**: Verleihe deinem Profil einen leuchtenden Effekt <:_:979009081325019156> **Auszeichnungen**: Zeige Auszeichnungen in deinem Profil an",
     "NON_TRADABLE_NOTE": "Die oben angezeigten Hintergründe werden nicht als `Items` angesehen. Sie sind deshalb nicht handelbar und werden deinen aktuellen Hintergrund überschreiben",
     "PROVIDE_ACH_ID": "Abzeichen auf deinem Profil werden von Links nach Rechts angezeigt",
@@ -44,11 +44,12 @@
     "INPUT_INTRO": "Gib eine Nachricht ein",
     "SUCCESSFUL_INTRO": "{{author}} Deine Vorstellungsnachricht wurde erfolgreich festgelegt",
     "SUCCESSFUL_CHARACTER": "{{author}} **{{characterName}}** wurde erfolgreich als dein Lieblingscharakter festgelegt",
-    "SUCCESSFUL_DISPLAY_CARD": "{{author}} `{{cardCode}}` **{{characterName}}** wurde erfolgreich als deine Anzeigekarte festgelegt",
+    "SUCCESSFUL_DISPLAY_CARD": "{{author}} **{{characterName}}** wurde erfolgreich als deine Anzeigekarte festgelegt",
     "PROVIDE_TC_GLOW_CODE": "{{user}} Bitte gib den glow code an, um die Schriftfarbe festzulegen",
     "PROVIDE_BG_GLOW_CODE": "{{user}} Bitte gib den glow Code an, um den glow des Profils festzulegen",
     "SUCCESSFUL_BACKGROUND": "{{author}} **{{backgroundName}}** wurde erfolgreich als Background für dein Profil festgelegt",
     "SUCCESSFUL_FONT_COLOR": "{{author}} Der **{{glowName}}** `Glow` wurde erfolgreich auf die Schriftart deines Profils angewendet",
     "SUCCESSFUL_PROFILE_GLOW": "{{author}} **{{glowName}}** wurde erfolgreich als `Glow` für dein Profil festgelegt",
-    "SUCCESSFUL_AWARDS": "{{author}} Die ausgewählten Auszeichnungen wurden erfolgreich in deinem Profil platziert"
+    "SUCCESSFUL_AWARDS": "{{author}} Die ausgewählten Auszeichnungen wurden erfolgreich in deinem Profil platziert",
+    "\"SET_FONT_GLOW\"": "Bist du sicher dass du den `Glow` **{{glowName}}** auf deinen Prfil-Text anwenden möchtest?"
 }

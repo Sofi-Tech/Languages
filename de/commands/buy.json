@@ -9,6 +9,6 @@
     "INVALID_BG_AMOUNT": "Gib keine negativen Mengen an",
     "INVALID_BG_ID": "Bitte gib eine gültige `Background`-ID an",
     "NO_ITEM_PROVIDED": "Kein `Item` angegeben",
-    "INVALID_AMOUNT": "{{author}} Ungültiger Betrag angegeben",
+    "INVALID_AMOUNT": "{{author}} Die angegebene Menge ist ungültig",
     "INVALID_ITEM_PROVIDED": "{{user}} Ungültiges `Item` angegeben"
 }
