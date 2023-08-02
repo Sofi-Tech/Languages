@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "Could not find your last card. Try providing a card code instead",
     "INVALID_CARD_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
     "CARD_MORPHED": "",
-    "CARD_GLOWED": "That card has the following `Glow` applied: __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
+    "CARD_GLOWED": "`{{isSuper}}Glow` applied: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "Font Color: **{{fontName}}** (`#{{viewCode}}`)\n",
     "CARD_FRAMED": "`Frame`applied: **{{frameName}}**\n",
     "CARD_CFRAMED": "`Frame`applied: **{{frameName}}** (`{{frameCode}}`)\n",
