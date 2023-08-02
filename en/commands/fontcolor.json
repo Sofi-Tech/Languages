@@ -8,7 +8,7 @@
     "WRONG_GLOWCODE": "{{author}} `Glow` codes always start with a `#`",
     "CANNOT_FIND_GLOW": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
     "EMBED_TITLE": "SOFI: FONT COLOR{{reset}}",
-    "COLOR_NAME": "Name: **{{name}}**",
+    "COLOR_NAME": "`Glow`: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} The `Glow` has no charges left",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Successfully changed the card's font color",
