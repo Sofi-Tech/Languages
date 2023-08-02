@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Verbrenne deine Karten, um \"Crystals\" und \"Silver\" zu erhalten, mit denen du entweder \"Cubes\" herstellen, oder verschiedene \"Items\" im Bot kaufen kannst. Wenn du nur den Befehl \"sb\" verwendest, wird versucht, deine neueste Karte zu verbrennen",
-    "GUILDSTONE_BURN": "Du bist dabei einen `Guild Stone` zu benutzen",
-    "GUILDSTONE_NOT_FOUND": "Du hast keinen `Guild Stone`",
+    "GUILDSTONE_BURN": "Bist du dir sicher, dass du deinen `Guild Stone` verbrennen willst?",
+    "GUILDSTONE_NOT_FOUND": "{{author}} Du hast keinen `Guild Stone`",
     "SUCCESS": "ERFOLGREICH",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "BURN_FRAG_WARN": "Du bist dabei ein `Fragment` zu verbrennen\n`Fragment`-Code: `{{fragCode}}`",

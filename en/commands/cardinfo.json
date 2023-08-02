@@ -12,9 +12,9 @@
     "EMBED_AUTHOR": "SOFI: CARDINFO",
     "SERIES": "Series:",
     "NAME": "Name:",
-    "OWNED": "Owner:",
-    "DROPPED": "Dropper:",
-    "CLAIM_BY": "Grabber:",
+    "OWNED": "Owned by:",
+    "DROPPED": "Dropped by:",
+    "CLAIM_BY": "Grabbed by:",
     "CLAIM_AT": "Dropped in:",
     "CLAIM ON": "Grabbed On:",
     "LEVEL": "Level",
@@ -22,5 +22,5 @@
     "POPULARITY": "Popularity",
     "FOUGHT_OFF": "Fought Off",
     "QUICKNESS": "Grabbed in",
-    "MORPHED_TIMES": "The card has been morphed `{{rolls}}` times"
+    "MORPHED_TIMES": ""
 }

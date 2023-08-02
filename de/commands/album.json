@@ -1,5 +1,5 @@
 {
-    "ALBUM_DESCRIPTION": "Zeigt deine Sofi-Alben an",
+    "ALBUM_DESCRIPTION": "Zeigt deine Alben an",
     "ALBUM_CATEGORY": "Album",
     "ALBUM_SLASH_DESC": "Wähle den Benutzer, dessen Alben du sehen möchtest",
     "ALBUM_SLASH_DESC2": "Gib den Namen des Albums ein, nach dem du suchst.",
@@ -9,7 +9,7 @@
     "ALBUM_NAME_NOT_FOUND": "{{author}} Es konnte kein Album mit dem Namen`{{albumName}}` gefunden werden",
     "PROCESSING": "Verarbeitung <a:_:876610443148406794>",
     "NO_CARDS": "{{author}} Es befinden sich noch keine Karten in diesem Album",
-    "EMBED_TITLE": "SOFI: ALBUM {{username}}",
+    "EMBED_TITLE": "SOFI: ALBEN {{username}}",
     "ALBUM_BUTTON_LABEL": "Album erstellen",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "Eigentum von {{userTag}}"
