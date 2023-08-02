@@ -1,12 +1,12 @@
 {
-    "EXTRA_GRAB": "{{user}} Your **Extra Grab** is being used. You have **{{remaining}}** remaining",
-    "GRAB_COOLDOWN": "{{user}} Your `Grab` is on cooldown for another {{cooldown}}",
-    "EVENT_GRAB": "{{user}} picked up **{{amount}}** `{{eventItem}}`🍙",
-    "TOOK_CARD": "{{user}} took the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}** (**{{eventCardInfo}}**)",
-    "SNATCHED_EVENT_ITEM": "{{winner}} snatched **{{amount}}** `{{eventItem}}` from <@{{userId}}>",
-    "GRAB_EVENT_ITEM": "{{winner}} overpowered **{{userCount}}** other players and received **{{amount}}** `{{eventItem}}`",
-    "GRAB_CARD": "{{winner}} fought off {{user}} and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
-    "CANNOT_BE_GRABBED": "These cards can no longer be obtained",
-    "CARDS_DROPPED_BY": "{{user}} has `Dropped` cards\n",
-    "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**"
+  "EXTRA_GRAB": "{{user}} Your **Extra Grab** is being used. You have **{{remaining}}** remaining",
+  "GRAB_COOLDOWN": "{{user}} Your `Grab` is on cooldown for another {{cooldown}}",
+  "EVENT_GRAB": "{{user}} picked up **{{amount}}** `{{eventItem}}`",
+  "TOOK_CARD": "{{user}} took the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+  "SNATCHED_EVENT_ITEM": "{{winner}} snatched **{{amount}}** `{{eventItem}}` from <@{{userId}}>",
+  "GRAB_EVENT_ITEM": "{{winner}} overpowered **{{userCount}}** other players and received **{{amount}}** `{{eventItem}}`",
+  "GRAB_CARD": "{{winner}} fought off {{user}} and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+  "CANNOT_BE_GRABBED": "These cards can no longer be obtained",
+  "CARDS_DROPPED_BY": "{{user}} has `Dropped` cards\n",
+  "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }
