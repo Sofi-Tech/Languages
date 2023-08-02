@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Sends a trade request to another player. You can trade multiple cards and \"Items\" simultaneously with this feature",
-    "MENTION_USER": "{{author}} Mention a user you want to trade with or use their ID",
+    "MENTION_USER": "{{author}} Correct usage: `{{prefix}}mt <@User/UserID>`",
     "IN_TRADE": "{{user}} You have already sent a trade request to someone! Cancel the previous one before starting a new one",
     "BOT_TRADE": "{{author}} You cannot trade with a `BOT`",
     "SELF_TRADE": "{{author}} You cannot trade with yourself",
