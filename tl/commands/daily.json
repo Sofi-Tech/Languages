@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Gamitin ang command na `sdaily` upang makuha ang iyong pang araw-araw na gantimpala. Panatilihin ang iyong streak upang magkatanggap ng mas magandang gantimpala!",
+    "DESCRIPTION": "Kunin ang iyong pang araw-araw na gantimpala",
     "CATEGORY": "Kard",
-    "EMBED_AUTHOR": "{{author}}'s Pang araw-araw na reward",
-    "DAILY_ERROR": "Maaari mong makuha ang iyong `Daily` kapag natapos ang {{timeout}}\n",
+    "EMBED_AUTHOR": "SOFI: `DAILY` GANTIMPALA {{author}}",
+    "DAILY_ERROR": "Maaari mong kunin and susunod na `Daily`sa **{{timeout}}**",
     "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` ang natititira para makuha ang `Common Chest`",
     "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` ang natitira para makuha mo ang `Rare Chest`",
     "NOTE": "⚠️ Discord, pati na rin ang mga Sofi Staff ay hindi KAILANMAN gagawin ang mga sumusunod:\n- Itanong ang iyong \"Password\" o \"One-Time-Password\"\n- Ipayo na baguhin ang iyong E-mail\n- Gumamit ng third-party methods, katulad ng \"Mee6\" o \"Dyno\" para makipag-usap sayo.\n\nKahit anong kahinahinalang aktibidad ay dapat iulat agad sa {{link}}! ⚠️",

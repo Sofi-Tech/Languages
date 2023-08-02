@@ -19,5 +19,6 @@
     "MORPH_CONFRIM": "Der `Morph` wurde erfolgreich angewendet",
     "REROLL": "Wiederhergestellte `Morphs`: `  {{count}}  `\n{{author}} Der frühestmögliche `Morph` wurde bereits wiederhergestellt. Würfel erneut um fortzufahren",
     "UNDO_SUCCESSFUL": "Der vorherige `Morph` wurde für **{{amount}}** {{emoji}} erfolgreich wiederhergestellt",
-    "MORPH_CANCELLED": "Der `Morph` Vorgang wurde abgebrochen"
+    "MORPH_CANCELLED": "Der `Morph` Vorgang wurde abgebrochen",
+    "MNC_CARDS_CANNOT_MORPH": "Monochrome 2023 3D Karten können nicht gemorpht werden"
 }
