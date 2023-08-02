@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "Commencer une partie de devinette de mot",
-    "CORRECT_USAGE": "{{user}} Utilisation correcte: {{prefix}}guess <Montant> <Monnaie>**\nMonnaies acceptées:`Silver`, `Wists`, `Gems`, `Cubes`",
-    "NO_TP": "{{author}} Vous avez besoin d'un `Trade Pass` actif pour créer ou participer à un jeu de devinette",
-    "NOT_ENOUGH_CURR": "{{user}} Vous n'avez pas assez de `{{currency}}` pour commencer une partie!",
-    "INFO_1": "{{user}} a commencé un jeu de Devinette",
-    "INFO_2": "Les participants doivent avoir **{{bet}}** `{{currency}}` pour pouvoir participer",
-    "INFO_3": "Cagnotte: **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "Cliquez sur 🍻 pour participer! Lancez la partie en appuyant sur le bouton 🟢",
-    "REQ_MORE_PLAYERS": "{{user}} Vous avez besoin d'au moins **2** joueurs pour pouvoir commencer la partie",
-    "GUESS_THE_WORD": "Devinez le mot suivant: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} a deviné le mot {{word}} et a gagné `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}give <Utilisateur/IDutilisateur> <CodeDeCarte>`"
+  "DESCRIPTION": "Commencer une partie de devinette de mot",
+  "CORRECT_USAGE": "{{user}} Utilisation correcte: {{prefix}}guess <Montant> <Monnaie>**\nMonnaies acceptées:`Silver`, `Wists`, `Gems`, `Cubes`",
+  "NO_TP": "{{author}} Vous avez besoin d'un `Trade Pass` actif pour créer ou participer à un jeu de devinette",
+  "NOT_ENOUGH_CURR": "{{user}} Vous n'avez pas assez de `{{currency}}` pour commencer une partie!",
+  "INFO_1": "{{user}} a commencé un jeu de Devinette",
+  "INFO_2": "Les participants doivent avoir **{{bet}}** `{{currency}}` pour pouvoir participer",
+  "INFO_3": "Cagnotte: **{{jackpot}}** {{currencyEmoji}}",
+  "FOOTER": "Cliquez sur 🍻 pour participer! Lancez la partie en appuyant sur le bouton 🟢",
+  "REQ_MORE_PLAYERS": "{{user}} Vous avez besoin d'au moins **2** joueurs pour pouvoir commencer la partie",
+  "GUESS_THE_WORD": "Devinez le mot suivant: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}} a deviné le mot {{word}} et a gagné `{{jackpot}} {{currency}}`!"
 }

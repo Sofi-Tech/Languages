@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "Inizia il gioco di indovina la parola",
-    "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}guess <Quantità> <Valuta>`\nValute accettare: `Silver`, `Wists`, `Gems`, `Cubes`",
-    "NO_TP": "{{author}} Ti serve un `Trade Pass` attivo per creare o partecipare in un guessing game",
-    "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per iniziare il gioco!",
-    "INFO_1": "{{user}} ha iniziato una partita a Guess",
-    "INFO_2": "I giocatori devono avere {{bet}} {{currency}} per giocare",
-    "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
-    "FOOTER": "Reagisci con 🍻 per partecipare | Il creatore del gioco puoi inizia il gioco con 🟢",
-    "REQ_MORE_PLAYERS": "{{user}} Dovete essere almeno 2 giocatori prima di iniziare il gioco",
-    "GUESS_THE_WORD": "Indovina la parola data: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} ha indovinato correttamente la parola {{word}} e ha vinto `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}give <User/UserID> <CardCode>"
+  "DESCRIPTION": "Inizia il gioco di indovina la parola",
+  "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}guess <Quantità> <Valuta>`\nValute accettare: `Silver`, `Wists`, `Gems`, `Cubes`",
+  "NO_TP": "{{author}} Ti serve un `Trade Pass` attivo per creare o partecipare in un guessing game",
+  "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per iniziare il gioco!",
+  "INFO_1": "{{user}} ha iniziato una partita a Guess",
+  "INFO_2": "I giocatori devono avere {{bet}} {{currency}} per giocare",
+  "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
+  "FOOTER": "Reagisci con 🍻 per partecipare | Il creatore del gioco puoi inizia il gioco con 🟢",
+  "REQ_MORE_PLAYERS": "{{user}} Dovete essere almeno 2 giocatori prima di iniziare il gioco",
+  "GUESS_THE_WORD": "Indovina la parola data: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}} ha indovinato correttamente la parola {{word}} e ha vinto `{{jackpot}} {{currency}}`!"
 }

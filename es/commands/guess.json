@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "Empieza un juego de adivinar la palabra",
-    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}guess <Cantidad> <Moneda>`\nMonedas aceptadas:`Silvers` `Wists` `Gems` `Cubes`",
-    "NO_TP": "{{message.author}} No tienes un `Trade Pass` activo. Usa el comando `{{prefix}}bump` para visitar la página web e intercambiar tus puntos de `Bump` por uno",
-    "NOT_ENOUGH_CURR": "{{user}} No tienes suficientes `{{currency}}` para comenzar el juego!",
-    "INFO_1": "{{user}} ha iniciado el juego de Adivinanza",
-    "INFO_2": "Los jugadores tienen que tener `{{bet}} {{currency}}` para participar",
-    "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
-    "FOOTER": "Reacciona con 🍻 para unirte | El anfitrión puede iniciar el juego presionando 🟢",
-    "REQ_MORE_PLAYERS": "{{user}} Necesitas al menos 2 jugadores antes de poder iniciar el juego",
-    "GUESS_THE_WORD": "Adivina la palabra dada: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} adivinó la palabra {{word}} con éxito y ganó `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}give <Usuario/IDUsuario> <CódigoDeCarta>"
+  "DESCRIPTION": "Empieza un juego de adivinar la palabra",
+  "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}guess <Cantidad> <Moneda>`\nMonedas aceptadas:`Silvers` `Wists` `Gems` `Cubes`",
+  "NO_TP": "{{message.author}} No tienes un `Trade Pass` activo. Usa el comando `{{prefix}}bump` para visitar la página web e intercambiar tus puntos de `Bump` por uno",
+  "NOT_ENOUGH_CURR": "{{user}} No tienes suficientes `{{currency}}` para comenzar el juego!",
+  "INFO_1": "{{user}} ha iniciado el juego de Adivinanza",
+  "INFO_2": "Los jugadores tienen que tener `{{bet}} {{currency}}` para participar",
+  "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",
+  "FOOTER": "Reacciona con 🍻 para unirte | El anfitrión puede iniciar el juego presionando 🟢",
+  "REQ_MORE_PLAYERS": "{{user}} Necesitas al menos 2 jugadores antes de poder iniciar el juego",
+  "GUESS_THE_WORD": "Adivina la palabra dada: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}} adivinó la palabra {{word}} con éxito y ganó `{{jackpot}} {{currency}}`!"
 }

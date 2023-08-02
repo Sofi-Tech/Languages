@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "Mulai permainan tebak kata",
-    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}tebak <Jumlah> <Mata Uang>`\nMata uang yang diterima: `Silver` `Wists` `Gems` `Cubes`",
-    "NO_TP": "{{message.author}} Anda tidak memiliki `Trade Pass` yang aktif. Gunakan perintah `{{prefix}}bump` untuk mengunjungi situs web dan menukarkan poin `Bump` anda",
-    "NOT_ENOUGH_CURR": "{{user}} Anda tidak memiliki cukup `{{currency}}` untuk memulai permainan!",
-    "INFO_1": "{{user}} telah memulai permainan Guess",
-    "INFO_2": "Pemain harus memiliki `{{bet}} {{currency}}` untuk berpartisipasi",
-    "INFO_3": "Hadiah:`{{jackpot}}` {{currencyEmoji}}",
-    "FOOTER": "Bereaksi dengan 🍻 untuk bergabung | Game host dapat memulai permainan dengan menekan 🟢",
-    "REQ_MORE_PLAYERS": "{{user}} Anda membutuhkan setidaknya 2 pemain sebelum dapat memulai permainan",
-    "GUESS_THE_WORD": "Tebak kata yang diberikan: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} menebak kata {{word}} dengan benar dan memenangkan `{{jackpot}} {{currency}}`!",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}give <Pengguna/IdPengguna> <KodeKartu>"
+  "DESCRIPTION": "Mulai permainan tebak kata",
+  "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}tebak <Jumlah> <Mata Uang>`\nMata uang yang diterima: `Silver` `Wists` `Gems` `Cubes`",
+  "NO_TP": "{{message.author}} Anda tidak memiliki `Trade Pass` yang aktif. Gunakan perintah `{{prefix}}bump` untuk mengunjungi situs web dan menukarkan poin `Bump` anda",
+  "NOT_ENOUGH_CURR": "{{user}} Anda tidak memiliki cukup `{{currency}}` untuk memulai permainan!",
+  "INFO_1": "{{user}} telah memulai permainan Guess",
+  "INFO_2": "Pemain harus memiliki `{{bet}} {{currency}}` untuk berpartisipasi",
+  "INFO_3": "Hadiah:`{{jackpot}}` {{currencyEmoji}}",
+  "FOOTER": "Bereaksi dengan 🍻 untuk bergabung | Game host dapat memulai permainan dengan menekan 🟢",
+  "REQ_MORE_PLAYERS": "{{user}} Anda membutuhkan setidaknya 2 pemain sebelum dapat memulai permainan",
+  "GUESS_THE_WORD": "Tebak kata yang diberikan: {{scrambledWord}}",
+  "CORRECT_GUESS": "{{winner}} menebak kata {{word}} dengan benar dan memenangkan `{{jackpot}} {{currency}}`!"
 }

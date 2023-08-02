@@ -10,6 +10,5 @@
   "FOOTER": "プレイヤー：🍻を押して参加してください | ゲームスターターは🟢でゲームを開始してください",
   "REQ_MORE_PLAYERS": "{{user}}他のプレイヤーに参加を頼んでください **",
   "GUESS_THE_WORD": "与えられた単語を推測する：{{scrambledWord}}",
-  "CORRECT_GUESS": "{{winner}} が正しく {{word}} を推測し、 {{jackpot}} {{currency}} を獲得しました",
-  "WRONG_USAGE": "{{author}} 正しい使用法：`{{prefix}}give <user/userID> <cardcode>"
+  "CORRECT_GUESS": "{{winner}} が正しく {{word}} を推測し、 {{jackpot}} {{currency}} を獲得しました"
 }

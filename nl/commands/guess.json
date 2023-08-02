@@ -10,6 +10,5 @@
   "FOOTER": "Spelers reageren met 🍻 om mee te doen | Spelstarter reageert met 🟢 om het spel te starten",
   "REQ_MORE_PLAYERS": "{{user}} vraag meer spelers om mee te doen**",
   "GUESS_THE_WORD": "Raad het gegeven woord: {{scrambledWord}}",
-  "CORRECT_GUESS": "{{winner}} heeft {{word}} correct geraden en heeft {{jackpot}} {{currency}} gewonnen",
-  "WRONG_USAGE": "{{auteur}} Correct gebruik: `{{prefix}}give <gebruiker/gebruikers-ID> <kaartcode>`"
+  "CORRECT_GUESS": "{{winner}} heeft {{word}} correct geraden en heeft {{jackpot}} {{currency}} gewonnen"
 }
