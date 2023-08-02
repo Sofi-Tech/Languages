@@ -2,6 +2,6 @@
     "DESCRIPTION": "This action will swap the codes between two specified cards",
     "SLASH_DESC": "Enter the first code",
     "SLASH_DESC2": "Enter the second code",
-    "NO_CODES_PROVIDED": "Please enter two card codes",
-    "INVALID_CODES_PROVIDED": "{{author}} Please enter two valid card codes"
+    "NO_CODES_PROVIDED": "{{author}} Correct usage: `{{prefix}}cs <Code1> <Code2>`",
+    "INVALID_CODES_PROVIDED": "{{author}} At least one of the card codes you provided is either invalid or not in your collection"
 }
