@@ -1,13 +1,12 @@
 {
-    "DESCRIPTION": "Bekijk uw kaart",
-    "SLASH_DESC1": "Voer de kaartcode in.",
-    "INVALID_CODE": "De code die u hebt ingevoerd is ongeldig. Voer een geldige code in.",
-    "SERIES": "Serie",
-    "NAME": "Naam",
-    "OWNED_BY": "In bezit van",
-    "SERVER": "Server",
-    "CLAIMED": "Geclaimd",
-    "MOVES": "Zetten",
-    "OWNER_HISTORY": "Eigenaar geschiedenis",
-    "CARD_VIEW": "KAART WEERGAVE"
+  "DESCRIPTION": "Bekijk uw kaart",
+  "SLASH_DESC1": "Voer de kaartcode in.",
+  "INVALID_CODE": "De code die u hebt ingevoerd is ongeldig. Voer een geldige code in.",
+  "SERIES": "Serie",
+  "NAME": "Naam",
+  "OWNED_BY": "In bezit van",
+  "SERVER": "Server",
+  "CLAIMED": "Geclaimd",
+  "MOVES": "Zetten",
+  "OWNER_HISTORY": "Eigenaar geschiedenis"
 }

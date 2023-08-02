@@ -1,13 +1,12 @@
 {
-    "DESCRIPTION": "Visualizza una carta",
-    "SLASH_DESC1": "Inserisci un codice di carta",
-    "INVALID_CODE": "{{author}} Il codice della carta non è valido",
-    "SERIES": "Serie:",
-    "NAME": "Nome:",
-    "OWNED_BY": "Posseduto da:",
-    "SERVER": "Server",
-    "CLAIMED": "Reclamato:",
-    "MOVES": "Abilità:",
-    "OWNER_HISTORY": "Storia del proprietario",
-    "CARD_VIEW": "VISUALIZZAZIONE DELLA CARTA"
+  "DESCRIPTION": "Visualizza una carta",
+  "SLASH_DESC1": "Inserisci un codice di carta",
+  "INVALID_CODE": "{{author}} Il codice della carta non è valido",
+  "SERIES": "Serie:",
+  "NAME": "Nome:",
+  "OWNED_BY": "Posseduto da:",
+  "SERVER": "Server",
+  "CLAIMED": "Reclamato:",
+  "MOVES": "Abilità:",
+  "OWNER_HISTORY": "Storia del proprietario"
 }

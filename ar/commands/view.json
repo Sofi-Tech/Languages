@@ -1,13 +1,12 @@
 {
-    "DESCRIPTION": "عرض بطاقتك",
-    "SLASH_DESC1": "أدخل رمز البطاقة",
-    "INVALID_CODE": "{{author}} رمز البطاقة غير صالح",
-    "SERIES": "السلسلة:",
-    "NAME": "الاسم:",
-    "OWNED_BY": "يمتلك من قبل:",
-    "SERVER": "الخادم",
-    "CLAIMED": "مطالبة",
-    "MOVES": "قدرات:",
-    "OWNER_HISTORY": "تاريخ المالك",
-    "CARD_VIEW": "عرض بطاقة"
+  "DESCRIPTION": "عرض بطاقتك",
+  "SLASH_DESC1": "أدخل رمز البطاقة",
+  "INVALID_CODE": "{{author}} رمز البطاقة غير صالح",
+  "SERIES": "السلسلة:",
+  "NAME": "الاسم:",
+  "OWNED_BY": "يمتلك من قبل:",
+  "SERVER": "الخادم",
+  "CLAIMED": "مطالبة",
+  "MOVES": "قدرات:",
+  "OWNER_HISTORY": "تاريخ المالك"
 }

@@ -1,13 +1,12 @@
 {
-    "DESCRIPTION": "Bir kartı görüntüler",
-    "SLASH_DESC1": "Kart kodunu girin",
-    "INVALID_CODE": "{{author}} Bu kaart kodu geçersiz",
-    "SERIES": "Seriler:",
-    "NAME": "İsim:",
-    "OWNED_BY": "Sahibi:",
-    "SERVER": "Sunucu",
-    "CLAIMED": "Talep Edildi",
-    "MOVES": "Yetenekler:",
-    "OWNER_HISTORY": "Sahip Geçmişi",
-    "CARD_VIEW": "KART GÖRÜNÜMÜ"
+  "DESCRIPTION": "Bir kartı görüntüler",
+  "SLASH_DESC1": "Kart kodunu girin",
+  "INVALID_CODE": "{{author}} Bu kaart kodu geçersiz",
+  "SERIES": "Seriler:",
+  "NAME": "İsim:",
+  "OWNED_BY": "Sahibi:",
+  "SERVER": "Sunucu",
+  "CLAIMED": "Talep Edildi",
+  "MOVES": "Yetenekler:",
+  "OWNER_HISTORY": "Sahip Geçmişi"
 }
