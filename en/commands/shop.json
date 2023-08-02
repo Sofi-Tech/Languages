@@ -17,7 +17,8 @@
   "BG": "> `Backgrounds` can be applied to `3D` cards",
   "BUY_RECHARGE": "`7)` `{{prefix}}buy recharge [amount]`: <:gemgame:862598030562033694> 65 Gems ➜ <:recharge_sofi:926846363537387530> 1 Recharge",
   "RECHARGE": "> Refills your `Glow`",
-  "DONATE_SUPPORT": "Donate to support the bot and get some perks",
+  "BUY_GEN_S": "`8)` `{{prefix}}buy gen [amount]`: {{itemEmoji}}300 {{itemName}} / <:wist:870339503427027005> 10 wists / 60 bumps ➜ 💳 1 gen scratcher",
   "GEN_S": "> `Scratchers` reveal the `Gen` of an `Event` card",
+  "DONATE_SUPPORT": "Donate to support the bot and get some perks",
   "STAT_RESET": "> Resets the allocated stat upgrades of a card"
 }
