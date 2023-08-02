@@ -4,5 +4,5 @@
     "STOCK": "Stock",
     "RATE": "Rate",
     "MARKET_WARN": "Do not use the market for storing or hiding `Wists`!\nIf you are caught doing so, the `Wists` will be removed without compensation.\n\n`Average Rate:` **{{averageRate}}** `Total Trades`: **{{totalTrades}}**",
-    "FOOTER": "Showing 1-{{pages}} of {{total}} | Use the command `{{prefix}}mp <ID>` to buy `Wists`!"
+    "FOOTER": "Results {{page}}-{{pages}} of {{total}}"
 }
