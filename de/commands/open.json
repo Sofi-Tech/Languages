@@ -12,10 +12,10 @@
     "CHEST_INFO": "Event-Kisten können auch nach Ende des Events geöffnet werden",
     "PROVIDE_NUM": "Bitte gib eine Zahl zwischen **1 & 10** an",
     "CHEST_MISSING": "Du hast keine **{{replacedArg}}** `{{chestName}}`Kisten in deinem `Inventory`",
-    "COMMON_INFO_1": "Du hast **{{totalChests}}** `{{chestName}}`-Kisten geöffnet",
-    "ITEMS_FOUND": "Erhaltene Gegenstände:\n",
+    "COMMON_INFO_1": "Du hast **{{totalChests}}** `{{chestName}}` geöffnet",
+    "ITEMS_FOUND": "Erhaltene Gegenstände:",
     "COMMON_RARE_FOOTER": "Du kannst eine {{chestName}}-Kiste für jede {{count}} `Daily`-Serie erhalten",
-    "EXOTIC_DIVINE_FOOTER": "Du kannst monatlich eine {{chestName}} Kiste für {{count}} `Votes` erhalten",
+    "EXOTIC_DIVINE_FOOTER": "Du kannst monatlich {{article}} {{chestName}} Kiste für {{count}} `Votes` erhalten",
     "ITEM_MISSING": "Du hast {{itemName}} nicht in deinem inventory",
     "CORRECT_USAGE_2": "`Items` die geöffnet werden können: `Chests`, `Charms`"
 }
