@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "\"Pulls\" da un pool di vari \"Item\" tra cui \"Charms\" e \"Fragments\" per carte animate",
-    "PULL_AMT": "{{author}} Inserisci la quantità di `Pulls` che vuoi eseguire. Può essere **1** o **10**",
-    "INFO_1": "Hai bisogno di 8 `Fragments` per creare una variante `GIF` di un carattere",
-    "INFO_2": "Le varianti `GIF` di un carattere hanno 100 `Gens` uniche",
-    "INFO_3": "`Fragments` possono essere bruciati per ottenere `Charms`",
-    "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Conteggio Pull: {{count}}",
-    "MISSING_CURR": "{{user}} Non hai **{{amount}}** `{{currName}}`",
-    "AMOUNT": "Quantità: {{amount}}",
-    "PULL_COUNT_WIST": "Contaggio di Pull: {{pullcount}}",
-    "PULL_CHANCES": "Probabilità",
-    "RATES": "Valutare"
+  "DESCRIPTION": "\"Pulls\" da un pool di vari \"Item\" tra cui \"Charms\" e \"Fragments\" per carte animate",
+  "PULL_AMT": "{{author}} Inserisci la quantità di `Pulls` che vuoi eseguire. Può essere **1** o **10**",
+  "INFO_1": "Hai bisogno di 8 `Fragments` per creare una variante `GIF` di un carattere",
+  "INFO_2": "Le varianti `GIF` di un carattere hanno 100 `Gens` uniche",
+  "INFO_3": "`Fragments` possono essere bruciati per ottenere `Charms`",
+  "PULLS": "SOFI: PULLS",
+  "PULL_COUNT": "Conteggio Pull: {{count}}",
+  "MISSING_CURR": "{{user}} Non hai **{{amount}}** `{{currName}}`",
+  "AMOUNT": "Quantità: {{amount}}",
+  "PULL_COUNT_WIST": "Contaggio di Pull: {{pullcount}}",
+
+  "RATES": "Valutare"
 }
