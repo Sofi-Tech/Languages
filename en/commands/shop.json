@@ -5,7 +5,7 @@
     "SOFI_SHOP": "SOFI: SHOP",
     "BUY_DROP": "`1)` **`{{prefix}}buy drops`** | <:wist:870339503427027005> **1**x `Wist` ➜ <:sofidrop:915966705811988570> **1**x `Drop`",
     "DROP": "> `Drops` can be used to **drop** more cards while you are still on a cooldown",
-    "BUY_GRAB": "`2)` `{{prefix}}buy grabs`: <:wist:870339503427027005> 1 Wist ➜ <:sofigrab:915967559369637988> 1 Grab",
+    "BUY_GRAB": "`2)` `{{prefix}}buy grabs`**|** <:wist:870339503427027005> **1x** `Wist` ➜ <:sofigrab:915967559369637988> **1x** `Grab`",
     "GRAB": "> `Grabs` can be used to **grab** more cards while you are still on a cooldown",
     "BUY_CUBE": "`3)` `{{prefix}}buy cubes`: 1 x Each Crystal ➜ <a:soficube:915625529313460265> 1 Cube",
     "CUBE": "> `Cubes` are used to transform your cards into their `3D` variants",
