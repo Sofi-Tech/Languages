@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Displays a card",
-  "SLASH_DESC1": "Enter a card code",
-  "INVALID_CODE": "{{author}} That card code is invalid",
-  "EMBED_TITLE": "SOFI: VIEW",
-  "NAME": "Name:",
-  "SERIES": "Series:",
-  "OWNED_BY": "Owned By:",
-  "SERVER": "Server:",
-  "CLAIMED": "Claimed",
-  "MOVES": "Abilities:",
-  "OWNER_HISTORY": "Owner History",
-  "PREVIOUS_OWNERS": "**Previous Owners:**",
-  "NO_PREVIOUS_OWNERS": "No Previous Owners"
+    "DESCRIPTION": "Displays a card",
+    "SLASH_DESC1": "Enter a card code",
+    "INVALID_CODE": "{{author}} That card code is invalid",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "NAME": "Name:",
+    "SERIES": "Series:",
+    "OWNED_BY": "Owned By:",
+    "SERVER": "Server:",
+    "CLAIMED": "Claimed",
+    "MOVES": "Abilities",
+    "OWNER_HISTORY": "Owner History",
+    "PREVIOUS_OWNERS": "**__Previous Owners__**",
+    "NO_PREVIOUS_OWNERS": "No Previous Owners"
 }

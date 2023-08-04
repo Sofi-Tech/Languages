@@ -10,6 +10,6 @@
     "MORE": "more...",
     "FOOTER": "Click 🍻 to participate! Start the game by pressing the🟢button",
     "REQ_MORE_PLAYERS": "{{user}} You need at least **2** players in order to start the game",
-    "GUESS_THE_WORD": "Guess the given word: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} Successfully guessed the word and won `{{jackpot}} {{currency}}`!"
+    "GUESS_THE_WORD": "{{participants}}\n\n**Unscramble the word: **`{{scrambledWord}}`**",
+    "CORRECT_GUESS": "{{winner}} Successfully guessed the word and won `{{jackpot}} {{currencyEmoji}}`!"
 }
