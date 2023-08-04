@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Visualizza le varianti Versione/3D/GIF di un carattere",
-    "CHAR_NOT_FOUND": "Impossibile trovare il carattere che stai cercando",
+    "CHAR_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun carattere con il nome: `{{arg}}`",
     "CHAR_NF_SENSITIVE": "Impossibile trovare alcun carattere. [La funzione `lookup` la funzione è caso sensibile!]",
     "EMBED_TITLE": "__Caratteri Corrispondenti__",
     "SUBMITTED": "Inviato da: <@{{userID}}>",

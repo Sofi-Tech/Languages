@@ -1,7 +1,7 @@
 {
     "GT_DESCRIPTION": "Assegna un \"Tag\" al tuo \"Glows\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Non hai ancora nessun `Glow Tags`. Puoi crearli con il comando: `{{prefix}}gtc <Nome> <Emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Non hai ancora nessun `Glow Tag`. Puoi crearli con il comando: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Non hai ancora nessun `Glows`",
     "INVALID_GLOW_CODE": "{{author}} Almeno uno dei codici `Glow` che hai fornito non è valido o non è presente nel tuo `Inventory`",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** è stato taggato con successo come: `{{tag}}`",

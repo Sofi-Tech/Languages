@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "- Puoi cercare un carattere specifico usando il comando \"scl\". In questo menu puoi controllare le statistiche di un carattere, le sue varianti Version/3D/GIF, così come le Gen/Fan classifiche e il suo \"Card ID\". \n- Il \"Card ID\" è richiesto quando si inviano immagini per nuove \"Versions\"",
-    "CHAR_NOT_FOUND": "Impossibile trovare il carattere che stai cercando",
+    "CHAR_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun carattere con il nome: `{{arg}}`",
     "CHAR_NF_SENSITIVE": "Impossibile trovare alcun carattere. [La funzione `lookup` la funzione è caso sensibile!]",
     "EMBED_TITLE": "__Caratteri Corrispondenti__",
     "NORMAL_LABEL": "Variante di Versione",
