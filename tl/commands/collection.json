@@ -20,8 +20,8 @@
     "SORT_SPEED": "Bilis",
     "SORT_HP": "Kalusugan",
     "SORT_DUPE": "Gaya",
-    "ALL_UNTAG_SUCCESS": "Ang lahat ng {{taglength}} na card ay matagumpay na natanggal ang tag",
-    "ALL_TAG_SUCCESS": "{{author}} Ang lahat ng {{taglength}} na card ay matagumpay na naitag",
+    "ALL_UNTAG_SUCCESS": "{{author}} Matagumpay na naalis ang `{{tagName}}` `Tag` sa lahat ng **{{taglength}}** card",
+    "ALL_TAG_SUCCESS": "{{author}} Matagumpay na naidagdag ang `{{tagName}}` `Tag` sa lahat ng **{{taglength}}** card",
     "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "Wala ka pang mga `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <TagName> <Emoji>`",
     "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
@@ -31,6 +31,7 @@
     "TAG_MODAL_LABEL": "Madamihang Tag",
     "TAG_MODAL_PLACEHOLDER": "Gumamit ng \"-\" sa halip na alisin ang isang \"Tag\".",
     "TAG_MODAL_TITLE": "Ilagay ang \"tag\"",
-    "TAG_NO_CARDS_FOUND": "Walang nakitang cards na may ganyang tag",
-    "EMBED_FOOTER": "Pahina: {{page}}/{{totalPages}} | Kabuuang mga card: {{count}} ({{sortedBy}})"
+    "TAG_NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga card na may `Tag`: `{{arg}}`",
+    "EMBED_FOOTER": "Pahina: {{page}}/{{totalPages}} | Kabuuang mga card: {{count}} ({{sortedBy}})",
+    "MASSTAG_WRONG_TAG": "{{author}} Hindi makahanap ng anumang Tag na may pangalang: {{arg}}"
 }
