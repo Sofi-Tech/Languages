@@ -9,7 +9,7 @@
     "SERVER": "Server:",
     "CLAIMED": "Claimed",
     "MOVES": "Abilities",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **[{{percentage}}]**",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **[{{percentage}}%]**",
     "OWNER_HISTORY": "Owner History",
     "PREVIOUS_OWNERS": "**__Previous Owners__**",
     "NO_PREVIOUS_OWNERS": "None"
