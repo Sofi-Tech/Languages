@@ -39,7 +39,7 @@
     "SET_BG_CONFIRM": "You are about to buy the background **{{selectedbg}}** for **{{amount}}** {{emoji}}",
     "CANNOT_FIND_ACH": "{{user}} You don't have any achievements with the following IDs: {{ids}}",
     "MAX_AWARDS_DISPLAY": "{{author}} You can only display a maximum of **6** awards on your profile",
-    "SET_AWARDS_CONFIRM": "You are about to display the following awards on your profile:\n``{{awards}})``",
+    "SET_AWARDS_CONFIRM": "Are you sure you want to display the badges ({{awards}}) on your profile?",
     "PC_CHARACTER_NOT_FOUND": "{{author}} Could not find any character with that name",
     "SELECT_FROM_OPTIONS": "{{charPages}}",
     "SUCCESSFUL_INTRO": "{{author}} Successfully set your introduction message",
