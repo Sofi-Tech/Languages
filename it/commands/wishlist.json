@@ -2,7 +2,7 @@
     "DESCRIPTION": "Mostra la tua lista dei desideri",
     "CATEGORY": "Lista dei desideri",
     "USER_NOT_FOUND": "{{author}} Non è riuscito a trovare quell'utente",
-    "WISHLIST_PRIVATE": "> La lista dei desideri di quell'utente è privata",
+    "WISHLIST_PRIVATE": "{{author}} Quell'utente ha impostato la sua lista dei desideri come privata",
     "WISHLIST_EMPTY": "> La lista dei desideri di {{username}} è vuota come il mio cuore 💔",
     "WISHLIST_EMBED_TITLE": "Lista dei desideri di {{username}} [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Usa `{{prefix}}wu` o `{{prefix}}wu max` per aumentare la capacità della tua lista dei desideri. | Pagine: {{page}/{{totalPages}}",
