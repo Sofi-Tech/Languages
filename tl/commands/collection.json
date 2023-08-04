@@ -23,7 +23,7 @@
     "ALL_UNTAG_SUCCESS": "{{author}} Matagumpay na naalis ang `{{tagName}}` `Tag` sa lahat ng **{{taglength}}** card",
     "ALL_TAG_SUCCESS": "{{author}} Matagumpay na naidagdag ang `{{tagName}}` `Tag` sa lahat ng **{{taglength}}** card",
     "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Wala ka pang mga `Tag`. Maari kang gumawa gamit ang command na `{{prefix}}tc <TagName> <Emoji>`",
+    "NO_TAG_FOUND": "{{author}} Wala ka pang `Tags`. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` para gumawa ng isa",
     "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "NOT_AVAILABLE": "Hindi Available",
