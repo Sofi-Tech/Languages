@@ -2,7 +2,7 @@
     "DESCRIPTION": "Buys \"Items\" from Sofi's \"Shop\"",
     "GUILD": "Guild",
     "GEMS": "Buy Gems!",
-    "SOFI_SHOP": "SOFI: SHOP",
+    "SOFI_SHOP": "SOFI: SHOP ({{section}})",
     "BUY_DROP": "**1) `{{prefix}}buy drops` | <:wist:870339503427027005> 1x `Wist` ➜ <:sofidrop:915966705811988570> 1x `Drop`**",
     "DROP": "> `Drops` can be used to **drop** more cards while you are still on a cooldown",
     "BUY_GRAB": "**2) `{{prefix}}buy grabs` | <:wist:870339503427027005> 1x `Wist` ➜ <:sofigrab:915967559369637988> 1x `Grab`**",
