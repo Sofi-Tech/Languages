@@ -22,5 +22,12 @@
   "DEFENSE": "Defense",
   "SPEED": "Speed",
   "HP": "Health",
-  "ERROR": "{{author}} An error occurred. Please try again."
+  "ERROR": "{{author}} An error occurred. Please try again.",
+  "NEGATIVE_AMOUNT": "{{author}} You cannot buy negative amounts of items",
+  "NOT_REGISTERED": "{{author}} That user is not registered!",
+  "AUTHOR_BLACKLISTED": "{{author}} You are blacklisted",
+  "MEMBER_BLACKLISTED": "{{author}} That user is blacklisted!",
+  "AUTHOR_QUARANTINED": "{{author}} You are quarantined",
+  "MEMBER_QUARANTINED": "{{author}} That user is quarantined",
+  "MEMBER_NOT_VERIFIED": "{{author}} That user is not verified"
 }
