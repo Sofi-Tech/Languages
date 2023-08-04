@@ -2,7 +2,7 @@
     "DESCRIPTION": "\"Pulls\" da un pool di vari \"Item\" tra cui \"Charms\" e \"Fragments\" per carte animate",
     "PULL_AMT": "{{author}} Utilizzo corretto: `{{prefix}}pull <1/10>`",
     "INFO_1": "Hai bisogno di 8 `Fragments` per creare una variante `GIF` di un carattere",
-    "INFO_2": "Le varianti `GIF` di un carattere hanno 100 `Gens` uniche",
+    "INFO_2": "Sono disponibili un massimo di **100** varianti `GIF` per carattere",
     "INFO_3": "`Fragments` possono essere bruciati per ottenere `Charms`",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Conteggio Pull: {{count}}",

@@ -5,7 +5,7 @@
     "GEM_RATE_LIES": "{{user}} Devi inserire un numero compreso tra **3.0** e **20.0**!",
     "ALREADY_EXISTS": "{{author}} Hai già un'offerta esistente!\nUsa il comando `{{prefix}}mul {{dealID}}` per rimuoverlo, prima di elencarne uno nuovo",
     "PRODUCTS": "Elenchi:",
-    "RATE": "Tasso:",
+    "RATE": "Tasso",
     "VALUE": "Valore Totale:",
     "CONFIRM_ASK": "Sei sicuro di voler mettere in vendita questo accordo sul mercato?",
     "CANCELLED": "Il processo è stato annullato",

@@ -13,5 +13,5 @@
     "NO_TP_2": "{{author}} You need an active Trade Pass to participate!",
     "REQ_MORE_PLAYERS": "{{user}} You need at least **2** players in order to start the game",
     "GUESS_THE_WORD": "{{participants}}\n\n**Unscramble the word: `{{scrambledWord}}`**",
-    "CORRECT_GUESS": "{{winner}} Successfully guessed the word and won `{{jackpot}} {{currencyEmoji}}`!"
+    "CORRECT_GUESS": "{{winner}} Successfully guessed the word and won **{{jackpot}}** {{currencyEmoji}}!"
 }
