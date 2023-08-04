@@ -24,15 +24,14 @@
   "SORT_DUPE": "Dupes",
   "SORT_LEVEL": "Level",
   "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
+  "EMBED_FOOTER": "Page: {{page}}/{{totalPages}} | Total cards: {{count}} ({{sortedBy}})",
   "TAG_MODAL_LABEL": "Mass Tag",
   "TAG_MODAL_PLACEHOLDER": "Use a \"-\" to mass remove a \"Tag\" instead",
   "TAG_MODAL_TITLE": "Enter a \"Tag\"",
   "TAG_NO_CARDS_FOUND": "{{author}} Could not find any cards with the `Tag`: `{{arg}}`",
-  "SHOWING PAGE": "Showing page: {{page}}/{{pages}}",
+  "MASSTAG_WRONG_TAG": "{{author}} Could not find any Tag with the name: {{arg}}",
   "ALL_UNTAG_SUCCESS": "{{author}} Successfully removed the `{{tagName}}` `Tag` to all **{{taglength}}** cards",
   "ALL_TAG_SUCCESS": "{{author}} Successfully added the `{{tagName}}` `Tag` to all **{{taglength}}** cards",
   "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
-  "NO_TAG_FOUND": "{{author}} You don't have any `Tags` yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
-  "SORT_EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
-  "SORTING_EMBED_TITLE": "SOFI: COLLECTION ({{username}})"
+  "NO_TAG_FOUND": "{{author}} You don't have any `Tags` yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one"
 }

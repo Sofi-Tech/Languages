@@ -20,7 +20,7 @@
   "SORT_SPEED": "Trier Par Vitesse",
   "SORT_HP": "Trier Par PV",
   "SORT_DUPE": "Trier Par Doublons",
-  "SHOWING PAGE": "Page affichée: {{page}}/{{pages}}",
+
   "ALL_UNTAG_SUCCESS": "Les cartes {{taglength}} ont été untag avec succès",
   "ALL_TAG_SUCCESS": "{{author}} Toutes les {{taglength}} cartes ont été tag avec succès",
   "PLEASE_WAIT": "Veuillez Patienter <a:ping:876612181725167687>",
@@ -29,11 +29,10 @@
 
   "TAG_MODAL_LABEL": "Tag De Masse",
   "TAG_MODAL_TITLE": "Entrez le tag",
-  "SORTING_EMBED_TITLE": "collection de {{username}} - {{amount}} cartes | page: {{page}}/{{totalPages}} (Tri <a:loading:876610443148406794>)",
+
   "USER_NOT_FOUND": "{{author}} L'utilisateur n'a pas été trouvé!",
   "SORT_LEVEL": "Trier Par Niveau",
   "EMBED_TITLE": "collection de {{username}} - {{amount}} cartes | page: {{page}}/{{totalPages}}",
   "TAG_MODAL_PLACEHOLDER": "Pour tag: nomdutag / Pour untag:  -tagname",
-  "TAG_NO_CARDS_FOUND": "Pas de cartes trouvez avec ce tag",
-  "SORT_EMBED_TITLE": "collection de {{username}} - {{amount}} cartes | page: {{page}}/{{totalPages}} (Trier par: {{sortedBy}})"
+  "TAG_NO_CARDS_FOUND": "Pas de cartes trouvez avec ce tag"
 }
