@@ -29,7 +29,7 @@
     "TAG_MODAL_PLACEHOLDER": "Use a \"-\" to mass remove a \"Tag\" instead",
     "TAG_MODAL_TITLE": "Enter a \"Tag\"",
     "TAG_NO_CARDS_FOUND": "{{author}} Could not find any cards with the `Tag`: `{{arg}}`",
-    "MASSTAG_WRONG_TAG": "{{author}} Could not find any Tag with the name: {{arg}}",
+    "MASSTAG_WRONG_TAG": "{{author}} Could not find any `Tag` with the name: `{{arg}}`",
     "ALL_UNTAG_SUCCESS": "{{author}} Successfully removed the following `Tag` from **{{taglength}}** cards: `{{tagName}}`",
     "ALL_TAG_SUCCESS": "{{author}} Successfully added the following `Tag` to **{{taglength}}** cards: `{{tagName}}`",
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
