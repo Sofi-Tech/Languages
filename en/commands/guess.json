@@ -4,7 +4,7 @@
     "NO_TP": "{{author}} You need an active `Trade Pass` to host a guessing game",
     "NOT_ENOUGH_CURR": "{{user}} You don't have enough `{{currency}}` to start the game!",
     "INFO_1": "{{user}} has started a guessing game",
-    "INFO_2": "Participation Fee: **{{bet}}** `{{currency}}`",
+    "INFO_2": "Participation Fee: **{{bet}}** `{{currencyEmoji}}`",
     "INFO_3": "Prize Pool: **{{jackpot}}** {{currencyEmoji}}",
     "INFO_4": "Participants **({{totalPlayers}})**",
     "MORE": "more...",
