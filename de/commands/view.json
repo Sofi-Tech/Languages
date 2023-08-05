@@ -7,9 +7,10 @@
     "OWNED_BY": "In Besitz von:",
     "SERVER": "Server:",
     "CLAIMED": "Beansprucht",
-    "MOVES": "Fähigkeiten:",
+    "MOVES": "Fähigkeiten",
     "OWNER_HISTORY": "Besitzer-Geschichte",
-    "NO_PREVIOUS_OWNERS": "Keine vorherigen Besitzer",
+    "NO_PREVIOUS_OWNERS": "Keine",
     "EMBED_TITLE": "SOFI: ANSICHT",
-    "PREVIOUS_OWNERS": "**Vorherige Besitzer:**"
+    "PREVIOUS_OWNERS": "**__Vorherige Besitzer__**",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Potenz **({{percentage}}%)**"
 }

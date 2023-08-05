@@ -1,12 +1,12 @@
 {
-    "LOTTERY_WON": "Herzlichen Glückwunsch! Du hast in Sofi's Halloween 2D-Lotterie gewonnen! 🎃",
+    "LOTTERY_WON": "Herzlichen Glückwunsch! Du hast in Sofi's {{event}} 2D-Lotterie gewonnen! 🎃",
     "MENTION_ERROR": "Verwende den Server-prefix `{{prefix}}` oder `/` um Befehle auszuführen",
     "RATE_LIMIT_ERROR": "Aufgrund von hoher Aktivität wurde das Ratenlimit erreicht! Bitte warte einen Moment.",
     "VERIFY_BUTTON_LABEL": "Verifizieren",
     "SUPPORT_BUTTON_LABEL": "Support",
     "VERIFY_TO_PLAY": "[Verifiziere dich auf unserer Webseite, um zu spielen!] (<https://sofi.gg/verify>)",
     "USER_QUARANTINED": "Dieser Benutzer ist {{isQuarantined}}",
-    "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Schwarzen Liste",
+    "USER_BLACKLISTED": "<:banhammer:1109864225259671614> {{author}} Dieser Benutzer steht auf der schwarzen Liste",
     "GLOBAL_COOLDOWN": "> [`Global`] Bitte warte **{{cooldown}}** bevor du diesen Befehl erneut benutzt",
     "COMMAND_BLACKLISTED": "> Der Befehl `{{commandName}}` ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "`Ich benötige: {{permissions}}, um diesen Befehl auszuführen`",
@@ -16,8 +16,11 @@
     "USER_COMMAND_QUEUE": "<@{{id}}> Du musst den `{{existsFor}}` Befehl abschließen, um fortfahren zu können",
     "AUTHOR_COMMAND_QUEUE": "Schließe den `{{existsFor}}` Befehl ab, um fortfahren zu können",
     "SAFE_MODE": "{{author}} **Sofi** befindet sich im abgesicherten Modus! Geschätzte Dauer: **{{eta}}**\nWir entschuldigen uns für die Unannehmlichkeiten und bitten dich um Geduld!",
-    "CATEGORY_DISABLED": "> Diese Kategorie wurde deaktiviert\nGrund: `{{category}}`",
-    "COMMAND_DISABLED": "> Dieser Befehl wurde deaktiviert\nGrund: `{{command}}`",
+    "CATEGORY_DISABLED": "> Diese Kategorie wurde deaktiviert\nGrund: `{{reason}}`",
+    "COMMAND_DISABLED": "> Dieser Befehl wurde deaktiviert\nGrund: `{{reason}}`",
     "NO_PERMISSIONS": "Ich habe keine ausreichende Befugnis, um diesen Befehl auszuführen",
-    "SERIES_DROP": "Die Abstimmung wurde beendet!"
+    "SERIES_DROP": "Die Abstimmung wurde beendet!",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} hat einen negativen Wert in deinem inventory. Bitte kontaktiere uns unter discord.gg/sofi",
+    "SERVER_BLACKLISTED": "Der Server steht auf der schwarzen Liste. Bitte kontaktiere uns auf discord.gg/sofi",
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Du wurdest wegen Verstoßes gegen Sofis Regeln auf die schwarze Liste gesetzt!__\n\n**Eine Liste möglicher Gründe, die dies verursacht haben könnten:**\n```CSS\n- Interaktion mit Sofi auf mehreren Konten (Alting)\n- Verkaufen oder Kaufen ganzer Discord-Konten\n- Betrügen anderer Benutzer\n- Nutze eine der oben genannten Aktivitäten oder nehme daran teil\n```\n\n:link: [Einspruch gegen deine schwarze Liste einlegen](<https://sofi.gg/appeal>)\n:link: [Support-Server](https://discord.gg/sofi)"
 }

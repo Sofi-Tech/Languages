@@ -3,7 +3,7 @@
     "SLASH_DESC": "Gib den Benutzer an, dem du eine Karte geben möchtest",
     "SLASH_DESC2": "Gib den Code der Karte an, die du geben möchtest",
     "NO_SELF_GIVE": "{{author}} Du kannst dir selber keine Karte geben",
-    "NOT_REGISTERED": "{{author}} Der Benutzer ist nicht registriert!",
+    "NOT_REGISTERED": "{{author}} Dieser Benutzer ist nicht registriert!",
     "MEM_BLACKLISTED": "{{author}} Dieser Benutzer steht auf der Schwarzen Liste!",
     "MEM_QUARANTINED": "{{author}} Dieser Benutzer ist unter Quarantäne!",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}g <User/UserID> <CardCode>`",

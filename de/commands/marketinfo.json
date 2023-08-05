@@ -9,6 +9,6 @@
     "LISTED": "Gelistet",
     "NO_LISTINGS_FOUND": "{{user}} Du hast keine Angebote auf dem Markt",
     "INFO": "Verwende `{{prefix}}mul <ID>` um deine Angebote zu entfernen\n**Es kann jeweils nur ein Angebot gleichzeitig existieren**",
-    "FOOTER": "Zeige 1-{{pages}} von {{total}} Seite/n | Benutz den Command `{{prefix}}mp <ID>` um `Wists` zu kaufen!",
+    "FOOTER": "Ergebnisse {{page}}-{{pages}} von {{total}}",
     "EMBED_TITLE": "DEINE ANGEBOTE:"
 }

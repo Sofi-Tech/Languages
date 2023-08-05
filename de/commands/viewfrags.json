@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Listet die verfügbaren \"Fragments\" eines Benutzers auf",
-    "COLLECTION_PVT": "{{author}} Die `Fragments` dieses Benutzers sind privat!",
+    "COLLECTION_PVT": "{{author}} Die `Fragments` dieses Benutzers sind privat",
     "CANNOT_FIND_FRAGS": "{{user}} Der Benutzer hat keine `Fragments`",
     "FRAGS_COUNT": "Insgesamte `Fragments`: {{totalCount}}",
     "FRAG_LIST": "{{userName}}'s `Fragments`",

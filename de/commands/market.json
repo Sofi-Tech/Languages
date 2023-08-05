@@ -4,5 +4,5 @@
     "STOCK": "Bestand",
     "RATE": "Rate:",
     "MARKET_WARN": "Der Markt darf nicht zum Aufbewahren oder Verstecken von `Wists` genutzt werden!\nWenn du dabei erwischt wirst, werden die `Wists` ohne Entschädigung entfernt.\nDurchschnittskurs: **`{{averageRate}}`** Insgesamte Handel: **`{{totalTrades}}`**",
-    "FOOTER": "Zeige 1-{{pages}} von {{total}} Seite/n | Benutz den Command `{{prefix}}mp <ID>` um `Wists` zu kaufen!"
+    "FOOTER": "Ergebnisse {{page}}-{{pages}} von {{total}}"
 }

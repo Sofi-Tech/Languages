@@ -8,5 +8,8 @@
     "FRAG_NOT_FOUND": "{{author}} Der angegebene `Fragment`-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CARD_NOT_FOUND": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CARD_LOCKED": "{{author}} Diese Karte ist gesperrt und kann nicht verbrannt werden",
-    "CARD_NOT_OWNED": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung"
+    "CARD_NOT_OWNED": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
+    "SERIES": "Serie:",
+    "NAME": "Name:",
+    "BURN_CARD_LOCKED": "{{author}} Diese Karte wird derzeit in einem Deck verwendet und kann nicht verbrannt werden"
 }
