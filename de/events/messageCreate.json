@@ -6,7 +6,7 @@
     "SUPPORT_BUTTON_LABEL": "Support",
     "VERIFY_TO_PLAY": "[Verifiziere dich auf unserer Webseite, um zu spielen!] (<https://sofi.gg/verify>)",
     "USER_QUARANTINED": "Dieser Benutzer ist {{isQuarantined}}",
-    "USER_BLACKLISTED": "<:banhammer:1109864225259671614> {{author}} Dieser Benutzer steht auf der schwarzen Liste",
+    "USER_BLACKLISTED": "<:banhammer:1109864225259671614> {{author}} Dieser Benutzer ist auf der Schwarzen Liste",
     "GLOBAL_COOLDOWN": "> [`Global`] Bitte warte **{{cooldown}}** bevor du diesen Befehl erneut benutzt",
     "COMMAND_BLACKLISTED": "> Der Befehl `{{commandName}}` ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "`Ich benötige: {{permissions}}, um diesen Befehl auszuführen`",
@@ -20,7 +20,7 @@
     "COMMAND_DISABLED": "> Dieser Befehl wurde deaktiviert\nGrund: `{{reason}}`",
     "NO_PERMISSIONS": "Ich habe keine ausreichende Befugnis, um diesen Befehl auszuführen",
     "SERIES_DROP": "Die Abstimmung wurde beendet!",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} hat einen negativen Wert in deinem inventory. Bitte kontaktiere uns unter discord.gg/sofi",
-    "SERVER_BLACKLISTED": "Der Server steht auf der schwarzen Liste. Bitte kontaktiere uns auf discord.gg/sofi",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Du wurdest wegen Verstoßes gegen Sofis Regeln auf die schwarze Liste gesetzt!__\n\n**Eine Liste möglicher Gründe, die dies verursacht haben könnten:**\n```CSS\n- Interaktion mit Sofi auf mehreren Konten (Alting)\n- Verkaufen oder Kaufen ganzer Discord-Konten\n- Betrügen anderer Benutzer\n- Nutze eine der oben genannten Aktivitäten oder nehme daran teil\n```\n\n:link: [Einspruch gegen deine schwarze Liste einlegen](<https://sofi.gg/appeal>)\n:link: [Support-Server](https://discord.gg/sofi)"
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} hat einen negativen Wert in deinem Inventory. Bitte kontaktiere uns unter discord.gg/sofi",
+    "SERVER_BLACKLISTED": "Der Server ist auf der Schwarzen Liste. Bitte kontaktiere uns auf discord.gg/sofi",
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614>__Du wurdest aufgrund von Verstößen gegen die Sofi Regeln auf die Schwarze Liste gesetzt!__\n\n**Eine Liste möglicher Gründe hierfür:**\n```CSS\n- Interaktionen mit Sofi auf mehreren Accounts (Alting)\n- Verkauf oder Kauf vollständiger Discord Accounts\n- Betrug anderer Benutzer\n- Ausnutzung oder Involvierung in irgendeine der oben genannten Aktivitäten\n```\n\n:link: [Einspruch hiergegen](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)"
 }

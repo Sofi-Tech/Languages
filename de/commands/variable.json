@@ -13,7 +13,7 @@
     "MONTHS": "Monate",
     "YEAR": "Jahr",
     "YEARS": "Jahre",
-    "SUCCESS": "ERFOLGREICH",
+    "SUCCESS": "ERFOLG",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "PROCESSING": "Deine Anfrage wird bearbeitet...<a:loading:876610443148406794>",
     "UNAVAILABLE": "Leer",
@@ -23,11 +23,11 @@
     "SPEED": "Geschwindigkeit",
     "HP": "Lebenspunkte",
     "ERROR": "{{author}} Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
-    "MEMBER_BLACKLISTED": "{{author}} Dieser Benutzer steht auf der schwarzen Liste!",
-    "AUTHOR_BLACKLISTED": "{{author}} Du stehst auf der schwarzen Liste",
+    "MEMBER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Schwarzen Liste!",
+    "AUTHOR_BLACKLISTED": "{{author}} Du bist auf der Schwarzen Liste",
     "AUTHOR_QUARANTINED": "{{author}} Du befindest dich in Quarantäne",
     "MEMBER_NOT_VERIFIED": "{{author}} Dieser Benutzer ist nicht verifiziert",
     "NOT_REGISTERED": "{{author}} Dieser Benutzer ist nicht registriert!",
     "MEMBER_QUARANTINED": "{{author}} Dieser Benutzer befindet sich in Quarantäne",
-    "NEGATIVE_AMOUNT": "{{author}} Du kannst keine negativen Mengen an Artikeln kaufen"
+    "NEGATIVE_AMOUNT": "{{author}} Du kannst keine negative Menge an Artikeln kaufen"
 }
