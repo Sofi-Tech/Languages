@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "Are you sure you want to remove this card's `Morph`?\nThis process will cost **100** `Silver`",
     "NO_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",
     "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, try again",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
+    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `{{currency}}` for this process",
     "UM_SUCCESSFUL": "The `Morph` was successfully removed"
 }
