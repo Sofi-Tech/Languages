@@ -3,7 +3,7 @@
     "UNG_CATEGORY": "Cosmetics",
     "UNG_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
-    "NO_CHARACTER": "{{author}} That character no longer exists!",
+    "NO_CHARACTER": "{{author}} The character on this card is no longer available on Sofi and cannot be interacted with",
     "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
     "NOT_GLOWED": "{{author}} That card has no `Glow` applied to it",
     "EMBED_TITLE": "REMOVE GLOW",
