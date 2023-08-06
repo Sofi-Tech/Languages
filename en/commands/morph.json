@@ -18,14 +18,14 @@
     "STOLE_MORPH": "Something went wrong, please roll another morph",
     "NO_ITEM": "{{author}} You don't have enough `{{item}}`",
     "NO_CARD": "{{author}} The card is not in your collection anymore",
-    "MORPH_CONFRIM": "The `Morph` has been successfully applied",
+    "MORPH_CONFRIM": "{{author}} Successfully applied the **{{morphName}}** morph to your card",
     "REROLL": "`Morphs` restored: `  {{count}}  `\n{{author}} Earliest `Morph` has already been restored. Roll again to continue",
     "UNDO_SUCCESSFUL": "\nRestored the previous morph for **{{amount}}** {{emoji}}\n",
     "MORPH_CANCELLED": "",
     "MISSING_NOIR": "",
     "CANNOT_APPLY_MNC": "{{author}} You cannot apply {{article}} `{{eventType}}` morph on `{{eventCardType}}` or `3D` cards",
     "MNC_EMBED_TITLE": "SOFI: MONOCHROME 2023",
-    "MNC_REROLL_COST": "Each reroll for event morph will cost 1 noir essence",
+    "MNC_REROLL_COST": "Every roll will cost 1 {{currencyName}}",
     "NO_SPECIAL_REROLLED": "No special morph rolled",
     "EVENT_MORPH_APPLIED": "Congratulations on your {{event}} morph"
 }
