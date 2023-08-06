@@ -8,10 +8,10 @@
     "CANNOT_TOGGLE": "{{author}} You cannot modify the text of `3D` or `GIF` cards",
     "EMBED_TITLE": "SOFI: TOGGLE TEXT",
     "TT_CONFIRMATION": "Are you sure you want to {{toggleInfo}} for **1000** <:_:915619222229512213> ?",
-    "TOGGLE_INFO_ADD": "restore this card's text",
-    "TOGGLE_INFO_REMOVE": "remove this card's text",
+    "TOGGLE_INFO_ADD": "**restore** this card's text",
+    "TOGGLE_INFO_REMOVE": "**remove** this card's text",
     "NO_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",
     "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
-    "TT_ENABLE_SUCCESSFUL": "This card's text has been restored",
-    "TT_DISABLE_SUCCESSFUL": "This card's text has been removed"
+    "TT_ENABLE_SUCCESSFUL": "{{author}} Successfully **restored** this card's text",
+    "TT_DISABLE_SUCCESSFUL": "{{author}} Successfully **removed** this card's text"
 }
