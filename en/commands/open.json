@@ -3,7 +3,7 @@
     "SLASH_DESC_1": "Enter the \"Item\" you want to open",
     "SLASH_DESC_2": "Enter the amount.",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}open <ItemName> <Amount>`",
-    "CORRECT_USAGE_2": "`Items` that can be opened: `Chests`, `Charms`",
+    "CORRECT_USAGE_2": "Items that can be opened: `Chests`, `Charms`",
     "EMPTY_INV": "{{author}} Your `Inventory` is empty",
     "CHARM_MISSING": "{{author}} You don't have any `Charms`",
     "SOFI_CARDS_MISSING": "{{author}} There are currently not enough cards in Sofi's collection",
