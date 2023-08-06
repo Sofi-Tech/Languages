@@ -35,5 +35,6 @@
     "TOP_GIF_OWNER": "Top-GIF-Besitzer",
     "NO_OWNER_FOUND": "Keine `Version` Besitzer gefunden",
     "NO_3D_OWNER_FOUND": "Keine `3D` Besitzer gefunden",
-    "NO_GIF_OWNER_FOUND": "Keine `GIF` Besitzer gefunden"
+    "NO_GIF_OWNER_FOUND": "Keine `GIF` Besitzer gefunden",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}cl <CharacterName>`"
 }

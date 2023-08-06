@@ -48,5 +48,6 @@
     "SUCCESSFUL_FONT_COLOR": "{{author}} Der **{{glowName}}** `Glow` wurde erfolgreich auf die Schriftart deines Profils angewendet",
     "SUCCESSFUL_PROFILE_GLOW": "{{author}} **{{glowName}}** wurde erfolgreich als `Glow` für dein Profil festgelegt",
     "SUCCESSFUL_AWARDS": "{{author}} Die ausgewählten Auszeichnungen wurden erfolgreich in deinem Profil platziert",
-    "SET_FONT_GLOW": "Bist du sicher dass du den `Glow` **{{glowName}}** auf deinen Prfil-Text anwenden möchtest?"
+    "SET_FONT_GLOW": "Bist du sicher dass du den `Glow` **{{glowName}}** auf deinen Prfil-Text anwenden möchtest?",
+    "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder nicht in deinem `Inventory`"
 }
