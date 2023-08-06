@@ -3,7 +3,7 @@
     "SLASH_DESC": "Enter the code of a card you want to examine",
     "NO_CARD_FOUND": "Could not find your last card. Try providing a card code instead",
     "INVALID_CARD_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
-    "CARD_GLOWED": "`{{isSuper}}Glow` applied: **{{glowName}} ** (`#{{viewCode}}`)\n",
+    "CARD_GLOWED": "`{{isSuper}}Glow`: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "Font Color: **{{fontName}}** (`#{{viewCode}}`)\n",
     "CARD_FRAMED": "`Frame`applied: **{{frameName}}**\n",
     "CARD_CFRAMED": "`Frame`applied: **{{frameName}}** (`{{frameCode}}`)\n",
