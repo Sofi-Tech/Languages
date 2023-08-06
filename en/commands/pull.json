@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "\"Pulls\" from a pool of various \"Items\" including \"Charms\" and \"Fragments\" for animated cards",
-  "PULL_AMT": "{{author}} Correct usage: `{{prefix}}pull <1/10>`",
-  "INFO_1": "You need 8 `Fragments` to create a `GIF` variant of a character",
-  "INFO_2": "There is a maximum of **100** `GIF` variants per character",
-  "INFO_3": "Burn `Fragments` to obtain `Charms`",
-  "RATES": "Rates",
-  "PULLS": "SOFI: PULLS",
-  "PULL_COUNT": "Pull Count: [ {{count}} ]",
-  "PULL_CHANCES": "Chances of getting an Item from a Pull: \n",
-  "MISSING_CURR": "{{user}} You don't have **{{amount}}** `{{currName}}`",
-  "AMOUNT": "You received: **{{amount}}** `{{pullOutcome}}`",
-  "PULL_COUNT_WIST": "Pull Count: {{pullcount}}"
+    "DESCRIPTION": "\"Pulls\" from a pool of various \"Items\" including \"Charms\" and \"Fragments\" for animated cards",
+    "PULL_AMT": "{{author}} Correct usage: `{{prefix}}pull <1/10>`",
+    "INFO_1": "You need 8 `Fragments` to create a `GIF` variant of a character",
+    "INFO_2": "There is a maximum of **100** `GIF` variants per character",
+    "INFO_3": "Burn `Fragments` to obtain `Charms`",
+    "RATES": "Rates",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Pull Count: [ {{count}} ]",
+    "PULL_CHANCES": "__Probabilities__",
+    "MISSING_CURR": "{{user}} You don't have **{{amount}}** `{{currName}}`",
+    "AMOUNT": "You received: **{{amount}}** `{{pullOutcome}}`",
+    "PULL_COUNT_WIST": "Pull Count: {{pullcount}}"
 }
