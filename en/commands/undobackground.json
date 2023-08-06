@@ -4,7 +4,7 @@
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}undobg <CardCode>`",
     "NO_CHARACTER_FOUND": "{{author}} The character on this card is no longer available on Sofi and cannot be interacted with",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
-    "NO_GIF_CARD": "{{author}} A `GIF` card cannot have its `Background` removed",
+    "NO_GIF_CARD": "{{author}} You cannot remove the `Background` of a `GIF` card",
     "NO_BACKGROUND": "{{author}} That card has no `Background` applied to it",
     "EMBED_TITLE": "SOFI: REMOVE `BACKGROUND`",
     "PROCESS_COST": "This process costs **1** `Wist` and will return the `Background` to your `Inventory`",
