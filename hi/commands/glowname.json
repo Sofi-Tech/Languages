@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glows नहीं हैं",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gn <glowcode><newname`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Glow codes `#` से शुरू होते है",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया Glow कॉड अवैध है या यह आपकी Inventory में नहीं है",
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा दर्ज किया गया `Glow` कोड अमान्य है या आपकी `Inventory` में मौजूद नहीं है",
     "GLOW_NAME_LONG": "{{author}} Glow का नाम बहुत लंबा है। 25 वर्ण से कम कोशिश करें",
     "GLOW_NAME_EXISTS": "{{author}} Glow का नाम पहले से ही कहीं दिया गया कृपया नया नाम सोचे",
     "EMBED_TITLE": "SOFI: Glow नाम",

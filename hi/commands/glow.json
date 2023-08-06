@@ -5,7 +5,7 @@
     "WRONG_CARD": "{{author}} दर्ज किया गया कार्ड कोड अवैध है या आपके संग्रह में मौजूद नहीं है कृपया जांच करे",
     "NO_GIF_CARDS": "{{author}} आप एक `GIF` पत्ते पर `Glow` लगा नही सकते",
     "INVALID_GLOW_CODE": "{{author}} `Glow` कोड्स हमेशा **#** के साथ शुरू होते हैं",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया Glow कॉड अवैध है या यह आपकी Inventory में नहीं है",
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा दर्ज किया गया `Glow` कोड अमान्य है या आपकी `Inventory` में मौजूद नहीं है",
     "EMBED_GLOW_TITLE": "SOFI: GLOW उत्पन्न करें",
     "EMBED_SG_TITLE": "SOFI: SUPER Glow",
     "GLOW_NAME": "नाम: {{name}}",
