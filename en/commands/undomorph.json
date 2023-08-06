@@ -8,7 +8,7 @@
     "NOT_MORPHED": "{{author}} That card has no `Morph` applied to it",
     "EMBED_TITLE": "REMOVE MORPH",
     "UM_CONFIRMATION": "Are you sure you want to remove this card's `Morph`?\nThis process will cost **100** `Silver`",
-    "NO_OWNER": "{{author}} The card is no longer in your collection",
+    "NO_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",
     "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, try again",
     "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `Silver` for this process",
     "UM_SUCCESSFUL": "The `Morph` was successfully removed"

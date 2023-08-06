@@ -27,5 +27,5 @@
     "MT_COMPLETE": "SOFI: MULTITRADE",
     "CARD_LOCKED": "{{user}} The following cards are either locked or currently used in a deck and could not be added:\n`{{codes}}`",
     "MISSING_ITEMS": "{{user}} You have an insufficient amount of the following items:\n`{{items}}`",
-    "MT_TRADE_ERROR": "⚠️Some of the provided items and cards in this trade window are no longer valid! ⚠️"
+    "MT_TRADE_ERROR": "⚠️Some of the provided items and cards in this trade window are no longer valid!"
 }

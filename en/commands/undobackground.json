@@ -9,7 +9,7 @@
     "EMBED_TITLE": "SOFI: REMOVE `BACKGROUND`",
     "PROCESS_COST": "This process costs **1** `Wist` and will return the `Background` to your `Inventory`",
     "NOT_ENOUGH_WIST": "{{author}} You don't have enough `{{currency}}` to remove this `Background`",
-    "NO_OWNER": "{{author}} The card is no longer in your collection",
+    "NO_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",
     "NO_BG_APPLIED": "{{author}} That card has no `Background` applied to it",
     "UNDO_BACKGROUND_SUCCESS": "{{author}} The `Background` of your card was successfully removed and returned to your `Inventory`"
 }
