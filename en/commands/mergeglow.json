@@ -8,8 +8,8 @@
     "AVAILABLE": "Charged",
     "UNAVAILABLE": "Empty",
     "GLOWS_NOT_FOUND": "{{author}} At least one of the `Glow` codes you provided is either invalid or not in your inventory",
-    "EMBED_TITLE": "SOFI: MERGE `GLOWS`",
-    "MERGE_CONFIRMATION": "Are you sure you want to merge the following `Glows`?\n\n{{glows}}\n\nYou will receive <:resin:938131736741691442> **1x** `Resin` in return",
+    "EMBED_TITLE": "SOFI: MERGE **`GLOWS`**",
+    "MERGE_CONFIRMATION": "Are you sure you want to merge the following `Glows`?\n\n{{glows}}\n\nYou will receive <:resin:938131736741691442> **1x** `Resin` from this process",
     "SURE": "Are you sure?",
     "ERROR": "Error: {{error}}"
 }
