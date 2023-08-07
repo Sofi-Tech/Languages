@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Removes your deals from the market",
-    "CORRECT_USAGE": "{{user}} Please provide the deal ID you want to unlist or use the command `smul all` to unlist all deals at once",
-    "INVALID_DEAL_ID": "{{author}} The ID you provided is either invalid or not of your deal",
-    "SUCCESS_UL": "{{user}} The deal `{{dealId}}` was successfully unlisted from the market",
-    "NO_LISTINGS_FOUND": "{{user}} You don't have any listings in the market currently",
-    "SUCCESS_UL_ALL": "{{user}} A total of `{{totalDeals}}` deals were successfully unlisted from the market"
+    "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}mul <Order-ID/All>`",
+    "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is either invalid or not yours",
+    "SUCCESS_UL": "{{user}} The order `{{dealId}}` was successfully removed from the market",
+    "NO_LISTINGS_FOUND": "{{user}} You don't have any orders currently",
+    "SUCCESS_UL_ALL": "{{user}} Successfully removed **{{totalDeals}}** orders from the market"
 }
