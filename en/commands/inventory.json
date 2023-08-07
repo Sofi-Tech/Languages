@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Displays a user's \"Inventory\"",
     "SLASH_DESC": "Select a user in order to see their \"Inventory\"",
-    "SLASH_DESC2": "Enter the \"Item\" you want to search for",
+    "SLASH_DESC2": "Enter the item you want to search for",
     "NOT_REGISTER": "{{author}} That user is not registered!",
     "NO_USER_FOUND": "{{author}} Could not find that user",
     "INV_PRIVATE": "{{author}} That user's `Inventory` is private",

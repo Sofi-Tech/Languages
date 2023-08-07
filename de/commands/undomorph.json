@@ -3,13 +3,13 @@
     "UM_CATEGORY": "Kosmetika",
     "UM_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}um <CardCode>`",
     "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
-    "NO_CHARACTER": "{{author}} Dieser Charakter existiert nicht länger!",
+    "NO_CHARACTER": "{{author}} Der Charakter auf dieser Karte ist auf Sofi nicht mehr verfügbar und es kann nicht mit ihm interagiert werden",
     "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer `GIF` Karte entfernen",
     "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen `Morph`",
     "EMBED_TITLE": "ENTFERNE MORPH",
     "UM_CONFIRMATION": "Bist du sicher, dass du den `Morph` dieser Karte entfernen möchtest?\nDieser Vorgang kostet **100** `Silver`",
-    "NO_OWNER": "{{author}} Die Karte befindet sich nicht mehr in deiner Sammlung",
+    "NO_OWNER": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "SOMETHING_WENT_WRONG": "{{author}} Da hat etwas nicht geklappt, versuche es erneut",
-    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` für diesen Vorgang",
+    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `{{currency}}` für diesen Vorgang",
     "UM_SUCCESSFUL": "Der `Morph` wurde erfolgreich entfernt"
 }

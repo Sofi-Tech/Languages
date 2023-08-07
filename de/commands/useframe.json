@@ -9,7 +9,7 @@
     "EMBED_TITLE": "SOFI: `FRAME` ANWENDEN",
     "UF_CONFIRMATION": "Bist du dir sicher, dass du den **{{frameName}}** `Frame` für diese Karte anwenden möchtest?",
     "EMBED_FOOTER": "Wenn du den Vorgang bestätigst wird der momentan angewandte \"Frame\" zerstört",
-    "NO_OWNER": "{{author}} Die Karte befindet sich nicht mehr in deiner Sammlung",
+    "NO_OWNER": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "FRAME_NOT_FOUND": "{{author}} Du hast den **{{frameName}}** `Frame` nicht",
     "UF_SUCCESSFUL": "{{author}} Der **{{frameName}}** `Frame` wurde erfolgreich für deiner Karte angewandt"
 }

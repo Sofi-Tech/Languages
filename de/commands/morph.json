@@ -6,7 +6,7 @@
     "CONTINUE": "Möchtest du diese Karte morphen?",
     "MORPH_CONFIRMATION": "{{author}}, Du bist dabei die Karte `{{code}}` für 350 `Silver` zu morphen.\nDu kannst <:noiressence:1115496193775116411> benutzen, um die Monochrome Morphs `Sobel` oder `Manga` zu erhalten.\n:warning:  Nicht gespeicherte Morphs gehen verloren wenn du neu würfelst oder den Morph-Vorgang abbrichst.",
     "CANCELLED": "{{author}} Du hast die Transaktion abgebrochen",
-    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `Silver` für diesen Vorgang",
+    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `{{currency}}` für diesen Vorgang",
     "BALANCE": "Restbetrag: **{{amount}}** `Silver`",
     "NAME": "Name: `{{name}}`",
     "UNDO": "`Morphs` wiederhergestellt: `{{count}}`",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Hole deine täglichen Belohnungen ab",
     "CATEGORY": "Karten",
-    "EMBED_AUTHOR": "SOFI: `DAILY` Belohnung ({{author}})",
+    "EMBED_AUTHOR": "SOFI: **`DAILY`** Belohnung ({{author}})",
     "DAILY_ERROR": "Du kannst deine nächste `Daily` in **{{timeout}}** abholen",
     "COMMON_CHEST": "<:commonchest:927502629997805608> Noch **{{count}}** `Daily` verbleiben, um eine `Common Chest` zu erhalten",
     "RARE_CHEST": "<:rarechest:927204672270372874> Noch **{{count}}** `Daily` verbleibend, um eine `Rare Chest` zu erhalten\n",

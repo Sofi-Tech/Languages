@@ -20,8 +20,8 @@
     "SORT_SPEED": "Geschwindigkeit",
     "SORT_HP": "Lebenspunkten",
     "SORT_DUPE": "Duplikaten",
-    "ALL_UNTAG_SUCCESS": "{{author}}Der `Tag` `{{tagName}}` wurde erfolgreich von allen **{{taglength}}** Karten entfernt",
-    "ALL_TAG_SUCCESS": "{{author}} Der `Tag` `{{tagName}}` wurde erfolgreich allen **{{taglength}}** hinzugefügt",
+    "ALL_UNTAG_SUCCESS": "{{author}} Der folgende `Tag` wurde erfolgreich von **{{taglength}}** Karten entfernt: `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} Der folgende `Tag` wurde erfolgreich allen **{{taglength}}** Karten hinzugefügt: `{{tagName}}`",
     "PLEASE_WAIT": "Bitte Warten <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}}Du hast noch keine `Tags`. Du kannst sie mit dem Befehl `{{prefix}}tc <TagName> <Emoji>` erstellen",
     "NOT_AVAILABLE": "Nicht Verfügbar",
@@ -31,5 +31,7 @@
     "TAG_MODAL_PLACEHOLDER": "Verwende \"-\" um diverse Karten aus einem \"Tag\" zu entfernen",
     "TAG_MODAL_TITLE": "Gib einen \"Tag\" ein",
     "USER_NOT_FOUND": "{{author}} Benutzer konnte nicht gefunden werden",
-    "TAG_NO_CARDS_FOUND": "{{author}} Es konnten keine Karten mit dem `Tag`: `{{arg}}` gefunden werden"
+    "TAG_NO_CARDS_FOUND": "{{author}} Es konnten keine Karten mit dem `Tag`: `{{arg}}` gefunden werden",
+    "EMBED_FOOTER": "Seite: {{page}}/{{totalPages}} | Karten insgesamt: {{count}} {{sortedBy}}",
+    "MASSTAG_WRONG_TAG": "{{author}} Es wurde kein `Tag` mit dem Namen: `{{arg}}` gefunden"
 }
