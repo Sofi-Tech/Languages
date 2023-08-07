@@ -5,7 +5,7 @@
     "WRONG_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
     "NO_GIF_CARDS": "{{author}} You cannot apply a `Glow` to a `GIF` card",
     "INVALID_GLOW_CODE": "{{author}} `Glow` codes always start with a `#`",
-    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
+    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
     "EMBED_GLOW_TITLE": "SOFI: APPLY `GLOW`",
     "EMBED_SG_TITLE": "SOFI: APPLY `SUPER GLOW`",
     "GLOW_NAME": "Name: **{{name}}**",

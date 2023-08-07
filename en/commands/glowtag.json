@@ -5,8 +5,8 @@
     "GLOWTAGS_NOT_FOUND": "{{author}} You don't have any `Glow Tag` yet. You can create them with the command: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} You don't have any `Glows` yet",
     "GLOW_TAG_INVALID": "{{author}} You dont have any `Glow Tag` with the name: `{{tagname}}`",
-    "INVALID_GLOW_SINGULAR": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
-    "INVALID_GLOW_CODE": "{{author}} At least one of the `Glow` codes you provided is either invalid or not in your `Inventory`",
+    "INVALID_GLOW_SINGULAR": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
+    "INVALID_GLOW_CODE": "{{author}} At least one of the `Glow` codes you provided is either invalid or not in your inventory",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** was successfully tagged as: `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} All `Glows` were successfully tagged as: `{{tag}}`"
 }

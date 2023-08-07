@@ -6,7 +6,7 @@
     "3D_ERROR": "{{author}} You cannot apply a different font color to a `3D` variant",
     "PROVIDE_GLOWCODE": "{{author}} Correct usage: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} `Glow` codes always start with a `#`",
-    "CANNOT_FIND_GLOW": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
+    "CANNOT_FIND_GLOW": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
     "EMBED_TITLE": "SOFI: FONT COLOR{{reset}}",
     "COLOR_NAME": "`Glow`: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",

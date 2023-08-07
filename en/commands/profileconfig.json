@@ -26,7 +26,7 @@
     "SET_FC_CONFIRM": "Are you sure you want to set **{{character}}** from **{{series}}** as your favorite character?",
     "CANNOT_SET_PBG": "{{author}} You have an insufficient amount of `{{currency}}` to buy this profile background",
     "PROCESS_NOT_COMPLETED": "The process has been cancelled",
-    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your `Inventory`",
+    "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
     "CANNOT_SET_TC": "{{author}} That `Glow` is empty",
     "CANNOT_SET_PG": "{{author}} That `Glow` is empty",
     "PROVIDE_PBG_ID": "{{author}} Please enter the ID of the background you want to buy",
