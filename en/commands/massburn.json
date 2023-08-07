@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Burns a multitude of cards at once",
-    "IN_ACTIVE_MB": "{{user}} You already have a massburn ongoing",
+    "IN_ACTIVE_MB": "{{user}} You cannot start a new `massburn` while your old one is still active",
     "PROVIDE_FILTERS": "Provide the filters you want to apply to the burn process! `t=<TagName>, g><=gen, wl><=wishlist`",
     "WRONG_TAG": "{{author}} The `Tag` name you provided is invalid",
-    "NO_CARDS_FOUND": "{{author}} You do not have any cards in your collection yet",
+    "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
     "CARDS_BURNED": "Cards Burned **{{totalCards}}**",
     "CONFIRM_ASK": "Are you sure you want to burn the above cards? This process is irreversible",
     "MISSING_CARDS": "{{author}} At least one of the cards from your selected `Tags` is no longer in your collection",
