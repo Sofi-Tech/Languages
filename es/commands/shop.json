@@ -1,16 +1,18 @@
 {
-  "DESCRIPTION": "Compra \"Items\" del \"Shop\" de Sofi",
-  "GUILD": "Guild",
-  "GEMS": "Compra gemas!",
-  "SOFI_SHOP": "Tienda de Sofi",
-
-  "DROP": "Los `Drops` pueden usarse para dropear mas cartas mientras estás en enfriamiento",
-  "GRAB": "Los `Grabs` pueden usarse para agarrar mas cartas mientras estás en enfriamiento",
-  "CUBE": "Los `Cubes` son necesarios para transformar tus cartas en su variante `3D`",
-  "TP": "El `Trade Pass` es necesario para acceder a mini juegos y hacer multi trades",
-  "GUILD_STONE": "Los `Guild Stones` son necesarios para crear un `Guild`",
-  "BG": "Los `Backgrounds` pueden aplicarse a las variantes `3D` de un personaje",
-  "RECHARGE": "Rcarga tu `Glow`",
-  "GEN_S": "Los `Scratchers` revelan el `Gen` de una carta de `Event`",
-  "STAT_RESET": "Este `Item` puede ser usado para deshacer las mejoras de estadísticas de una carta"
+    "DESCRIPTION": "Compra \"Items\" del \"Shop\" de Sofi",
+    "GUILD": "Guild",
+    "GEMS": "Compra gemas",
+    "SOFI_SHOP": "SOFI: TIENDA ({{section}})",
+    "DROP": "> Los `Drops` pueden usarse para **dropear** mas cartas mientras estás en enfriamiento",
+    "GRAB": "> Los `Grabs` pueden usarse para **agarrar** mas cartas mientras estás en enfriamiento",
+    "CUBE": "> Los `Cubes` se usan para transformar tus cartas en su variante `3D`",
+    "TP": "> El `Trade Pass` es necesario para intercambiar items y cartas con otros jugadores",
+    "GUILD_STONE": "> Los `Guild Stones` son necesarios para crear un `Guild`",
+    "BG": "> Los `Backgrounds` pueden aplicarse a cartas `3D`",
+    "RECHARGE": "> Los `Recharges` pueden utilizarse para llenar tus `Glows`",
+    "GEN_S": "Los `Scratchers` revelan el `Gen` de una carta de `Event`",
+    "STAT_RESET": "> Restablece las mejoras de estadísticas asignadas a una carta",
+    "UTILITY": "Utilidad",
+    "DONATE_SUPPORT": "Apóyanos convirtiéndote en mecenas!",
+    "BUY_STAT_RESET": "**1) `{{prefix}}buy sr` | <:elixir:979673719884636210> 2,000x `Elixir` ➜ 🌀 1x `Stat Reset`**"
 }

@@ -9,7 +9,7 @@
     "EMBED_TITLE": "QUITAR GLOW",
     "UNG_CONFIRMATION": "¿Estás seguro de que quieres eliminar el `Glow` de esta carta?\nEste proceso costará **100** `Silver`",
     "EMBED_FOOTER": "El `Glow` quitado no volverá a tu `Inventory`",
-    "NO_OWNER": "{{author}} La carta ya no está en tu colección",
+    "NO_OWNER": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
     "NOT_ENOUGH_SILVERS": "{{author}} No tienes suficiente `Silver` para este proceso",
     "UNG_SUCCESSFUL": "El `Glow` se quitó con éxito"
 }

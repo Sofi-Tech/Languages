@@ -20,7 +20,7 @@
     "SUBMISSION_DENY": "El proceso ha sido cancelado",
     "UPSCALE_IMAGE_SITE": "Aumentar Resolución de Imagen: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**",
     "TOTAL_EVENT_2D": "Cartas `2D Event` únicas: **{{totalEventCards}}**",
-    "TOTAL_EVENT_3D": "Cartas `3D Event` únicas: **{{totalEventCards}}**",
+    "TOTAL_EVENT_3D": "Cartas `2D` de event únicas: **{{totalEventCards}}**",
     "EMBED_FOOTER": "Tus envíos: {{userStats}}/{{submitted}} | Envíos Totales: {{globalStats}}/{{allSubmit}}",
     "CARD_ID_INVALID": "{{author}} El ID de Carta enviado no es válido",
     "ENTER_EVENT_TYPE": "{{author}} El tipo de carta enviado no es válido",
@@ -30,10 +30,10 @@
     "SURE_DISCORD_LINK": "{{author}} La imagen enviada tiene que usar un enlace oficial de Discord, como `cdn.discordapp.com` o `media.discordapp.net`",
     "VALID_IMAGE_URL": "{{author}} El enlace enviado tiene que ser un archivo `PNG` o `JPG",
     "VALID_CARD_DIMENSIONS": "{{author}} La imagen enviada no tiene dimensiones válidas! `297x465`",
-    "EVENT_CARD_CONFIRMATION": " Se utilizará en el **{{type}}** `Event`\n",
+    "EVENT_CARD_CONFIRMATION": " Se utilizará en el **{{type}}** event\n",
     "CHARACTER_NAME": "Nombre del Personaje: **{{character}}**",
     "SERIES_NAME": "Serie: **{{series}}**",
     "SOURCE": "Origen: **{{source}}**",
-    "IMAGES_REJECTED": "<:_:979009081325019156> Se rechazarán las ilustraciones que se utilicen para las cartas `GIF`, `3D` o `Event`",
+    "IMAGES_REJECTED": "<:_:979009081325019156> Se rechazarán las ilustraciones que se utilicen para las cartas `GIF`, `3D` o de event existentes",
     "VALID_EVENT_2D_DIMENSIONS": "{{author}} La imagen `2D Event` enviada no tiene dimensiones válidas! `297x465`"
 }

@@ -1,7 +1,7 @@
 {
-  "DESCRIPTION": "Esta acción intercambiará los códigos entre las dos cartas especificadas",
-  "SLASH_DESC": "Introduce el primer código",
-  "SLASH_DESC2": "Introduce el segundo código",
-  "CORRECT_USAGE": "Por favor introduce dos códigos de cartas",
-  "INVALID_CODES_PROVIDED": "{{author}} Por favor introduce dos códigos de cartas válidos"
+    "DESCRIPTION": "Esta acción intercambiará los códigos entre las dos cartas especificadas",
+    "SLASH_DESC": "Introduce el primer código",
+    "SLASH_DESC2": "Introduce el segundo código",
+    "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}cs <Código1> <Código2>`",
+    "INVALID_CODES_PROVIDED": "{{author}} Al menos uno de los códigos de carta que has proporcionado no es válido o no está en tu colección"
 }

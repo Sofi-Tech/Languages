@@ -1,12 +1,13 @@
 {
-    "DESCRIPTION": "Usa el comando \"sdaily\" para reclamar tu recompensa diaria. Mantén una racha para obtener recompensas aún mejores!",
+    "DESCRIPTION": "Reclama tus recompensas diarias",
     "CATEGORY": "Cartas",
-    "EMBED_AUTHOR": "Recompensa del `Daily` para {{author}}",
-    "DAILY_ERROR": "Puedes reclamar tu `Daily` después de {{timeout}}\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` restantes para reclamar un `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` restantes para reclamar un `Rare Chest`",
-    "NOTE": "⚠️ Ni Discord ni el equipo de Sofi harán NUNCA lo siguiente:\n- Pedirte tu \"Contraseña\" o \"Contraseñas de un solo uso\"\n- Pedirte o avisarte de que cambies tu e-mail\n- Usar métodos de terceros, como \"Mee6\" o \"Dyno\" para comunicarse contigo.\n\nCualquier actividad sospechosa tiene que ser reportada de inmediato en {{link}}! ⚠️",
-    "EMBED_FOOTER": "Racha **[ {{streak}} ]** • {{streakBar}}",
-    "DAILY_SUCCESS": "Gracias por reclamar tu `Daily`!",
-    "GUILD_BONUS": "Como has usado este comando en uno de los servidores Top-20 de Sofi, tu recompensa de `Daily` se aumentará en x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "EMBED_AUTHOR": "SOFI: RECOMPENSA DE **`DAILY`** ({{author}})",
+    "DAILY_ERROR": "Puedes reclamar tu próximo `Daily` en **{{timeout}}**",
+    "COMMON_CHEST": "<:cofrecomún:927502629997805608> Reclama tu `Daily` **{{count}}** veces más para recibir un `Common Chest`",
+    "RARE_CHEST": "<:rarechest:927204672270372874> Reclama tu `Daily` **{{count}}** veces más para recibir un `Rare Chest`\n",
+    "NOTE": "⚠️ Discord, así como el personal de Sofi NUNCA te pedirá tu contraseña ni te aconsejará que cambies tu correo electrónico a una dirección específica. ¡Ten cuidado con los BOTs de Discord de terceros que a menudo se utilizan para intentos de phishing similares!\n\nCualquier actividad sospechosa debe ser reportada inmediatamente en {{link}}! ⚠️",
+    "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Reclamadas con éxito tus recompensas de `Daily`!",
+    "GUILD_BONUS": "**(1.5x Bono de Servidor!)**",
+    "STREAK_BONUS": "+ {{bonus}} Bonificación por Racha"
 }

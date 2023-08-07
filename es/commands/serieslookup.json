@@ -2,10 +2,11 @@
     "DESCRIPTION": "Busca una serie en específico",
     "NO__LAST_CHAR_FOUND": "{{author}} Aún no tienes ninguna carta en tu colección",
     "NO_CHAR_FOUND": "{{author}} Esta serie aún no tiene ningún personaje",
-    "NO_SERIES_FOUND": "{{author}} No se ha encontrado ninguna serie con el nombre `{{name}}`",
-    "SERIES": "__SERIES__",
+    "NO_SERIES_FOUND": "{{author}} No se ha encontrado ninguna serie con el nombre: `{{name}}`",
+    "SERIES": "SOFI: BÚSQUEDA DE SERIES",
     "ERROR": "{{author}} Ha ocurrido un error. Por favor, inténtelo de nuevo",
     "CARD_COLLECTED": "Cartas Coleccionadas: **{{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Wishlists Totales: **__{{wlCount}}__**",
-    "CHARACTERS": "Personajes"
+    "TOTAL_WL": "Lista de Deseos Totales: **{{wlCount}}**",
+    "CHARACTERS": "**Personajes**",
+    "SERIES_NAME": "Nombre: **{{seriesName}}**"
 }

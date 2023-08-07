@@ -11,5 +11,5 @@
     "NOT_ENOUGH_WIST": "{{author}} No tienes suficiente `{{currency}}` para quitar este `Background`",
     "NO_BG_APPLIED": "{{author}} Esa carta no tiene un `Background` aplicado",
     "UNDO_BACKGROUND_SUCCESS": "{{author}} El `Background` de tu carta se ha eliminado correctamente y se ha devuelto a su `Inventory`",
-    "NO_OWNER": "{{author}} La carta ya no está en tu colección"
+    "NO_OWNER": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección"
 }
