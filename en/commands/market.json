@@ -2,7 +2,7 @@
     "DESCRIPTION": "Displays the Sofi market",
     "NO_LISTING_FOUND": "Could not find any listings",
     "STOCK": "Stock:",
-    "RATE": "Rate:",
+    "RATE": "Rate",
     "MARKET_WARN": "⚠️ Do not use the market for storing or hiding `Wists`! If you are caught doing so, the `Wists` will be removed without compensation.\n\n`Average Rate:` **{{averageRate}}** `Total Trades`: **{{totalTrades}}**",
     "FOOTER": "Showing results: {{page}}-{{pages}} of {{total}}"
 }
