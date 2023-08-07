@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Brucia le tue carte per ottenere \"Crystals\" e \"Silver\" che possono essere usati per fabbricare \"Cubes\" o acquistare vari \"Items\" nel Bot. L'uso del comando \"sb\" da solo tenterà di masterizzare la tua scheda più recente",
-    "GUILDSTONE_BURN": "Sei sicuro di voler bruciare la tua `Guild Stone`?",
-    "GUILDSTONE_NOT_FOUND": "{{author}} Non hai una`Guild Stone`",
-    "SUCCESS": "SUCCESSO",
-    "CANCELLED": "Il processo è stato annullato",
-    "BURN_FRAG_WARN": "Stai per bruciare un `Fragment`.\n`Fragments`Codice : `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "Nessun `Fragment` trovato",
-    "CARD_NOT_FOUND": "Impossibile trovare quella carta",
-    "CARD_LOCKED": "Quella carta è bloccata",
-    "CARD_NOT_OWNED": "Non possiedi quella carta"
+  "DESCRIPTION": "Brucia le tue carte per ottenere \"Crystals\" e \"Silver\" che possono essere usati per fabbricare \"Cubes\" o acquistare vari \"Items\" nel Bot. L'uso del comando \"sb\" da solo tenterà di masterizzare la tua scheda più recente",
+  "GUILDSTONE_BURN": "Sei sicuro di voler bruciare la tua `Guild Stone`?",
+  "GUILDSTONE_NOT_FOUND": "{{author}} Non hai una`Guild Stone`",
+
+  "CANCELLED": "Il processo è stato annullato",
+  "BURN_FRAG_WARN": "Stai per bruciare un `Fragment`.\n`Fragments`Codice : `{{fragCode}}`",
+  "FRAG_NOT_FOUND": "Nessun `Fragment` trovato",
+  "CARD_NOT_FOUND": "Impossibile trovare quella carta",
+  "CARD_LOCKED": "Quella carta è bloccata",
+  "CARD_NOT_OWNED": "Non possiedi quella carta"
 }

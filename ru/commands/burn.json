@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Сожгите свои карты, чтобы получить «Crystals» и «Silver», которые можно использовать для изготовления «Cubes» или покупки различных \"Items\". Использование команды «sb» само по себе попытается сжечь вашу самую последнюю карту",
-    "GUILDSTONE_BURN": "Вы собираетесь использовать `Guild Stone`",
-    "GUILDSTONE_NOT_FOUND": "У вас нет `Guild Stone` для использования",
-    "SUCCESS": "УСПЕХ",
-    "CANCELLED": "ОТМЕНЕНО",
-    "BURN_FRAG_WARN": "Вы собираетесь сжечь `Fragment`\n`Fragment` Код: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "`Fragment` не найден",
-    "CARD_NOT_FOUND": "Не удалось найти эту карту",
-    "CARD_LOCKED": "Эта карта заблокирована",
-    "CARD_NOT_OWNED": "У вас нет этой карточки"
+  "DESCRIPTION": "Сожгите свои карты, чтобы получить «Crystals» и «Silver», которые можно использовать для изготовления «Cubes» или покупки различных \"Items\". Использование команды «sb» само по себе попытается сжечь вашу самую последнюю карту",
+  "GUILDSTONE_BURN": "Вы собираетесь использовать `Guild Stone`",
+  "GUILDSTONE_NOT_FOUND": "У вас нет `Guild Stone` для использования",
+
+  "CANCELLED": "ОТМЕНЕНО",
+  "BURN_FRAG_WARN": "Вы собираетесь сжечь `Fragment`\n`Fragment` Код: `{{fragCode}}`",
+  "FRAG_NOT_FOUND": "`Fragment` не найден",
+  "CARD_NOT_FOUND": "Не удалось найти эту карту",
+  "CARD_LOCKED": "Эта карта заблокирована",
+  "CARD_NOT_OWNED": "У вас нет этой карточки"
 }
