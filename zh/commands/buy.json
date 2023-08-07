@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "从 Sofi 的 “Shop” 购买 “Items”",
-    "SLASH_DESC": "输入您想购买的 `Item` 名称",
-    "SLASH_DESC2": "输入该数量",
-    "SLASH_DESC3": "输入您要购买的 `Background` 的号码。 [仅在 ITEM 被选为 BACKGROUND 时才有效]",
-    "NO_ITEM": "请指定要购买的 `Item`",
-    "TRADEPASS_INFO": "您可以用 **__1x__** `Bump` 购买一个四个小时的 `Trade Pass`，或者收集 **__20x__** `Bumps`来购买一个三十天的 `Trade Pass`",
-    "CORRECT_USAGE": "{{USER}} 正确用法：`{{prefix}}buy bg <Background-ID> <amount>`",
-    "INVALID_BG_AMOUNT": "不要输入负数",
-    "INVALID_BG_ID": "请提供有效的 `Background`-ID",
-    "NO_ITEM_PROVIDED": "没有提供 `Item`",
-    "INVALID_AMOUNT": "{{author}} 您不能提供负量 `{{eventItem}}`",
-    "INVALID_ITEM_PROVIDED": "{{USER}} 提供的`Item`无效"
+  "DESCRIPTION": "从 Sofi 的 “Shop” 购买 “Items”",
+  "SLASH_DESC": "输入您想购买的 `Item` 名称",
+  "SLASH_DESC2": "输入该数量",
+  "SLASH_DESC3": "输入您要购买的 `Background` 的号码。 [仅在 ITEM 被选为 BACKGROUND 时才有效]",
+  "NO_ITEM": "请指定要购买的 `Item`",
+  "TRADEPASS_INFO": "您可以用 **__1x__** `Bump` 购买一个四个小时的 `Trade Pass`，或者收集 **__20x__** `Bumps`来购买一个三十天的 `Trade Pass`",
+  "CORRECT_USAGE": "{{USER}} 正确用法：`{{prefix}}buy bg <Background-ID> <amount>`",
+  "INVALID_BG_AMOUNT": "不要输入负数",
+  "INVALID_BG_ID": "请提供有效的 `Background`-ID",
+
+  "INVALID_ITEM_PROVIDED": "{{USER}} 提供的`Item`无效"
 }

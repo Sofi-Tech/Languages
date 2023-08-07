@@ -1,14 +1,13 @@
 {
-    "DESCRIPTION": "Sofi के \"Shop\" से \"Items\" की खरीदारी करता है",
-    "SLASH_DESC": "वह `Item` का नाम दर्ज करें जिसे आप खरीदना चाहते हैं",
-    "SLASH_DESC2": "मात्रा दर्ज करें",
-    "SLASH_DESC3": "वह `Background` का कोड दर्ज करें जिसे आप खरीदना चाहते हैं। [जब ITEM BACKGROUND के तरह सिलेक्टेड होगी तभी काम करेगा]",
-    "NO_ITEM": "जो `Item` को खरीदना है वह स्पष्ट कीजिए",
-    "TRADEPASS_INFO": "Trade Pass Silvers से खरीदा जा सकता था जो अब बंद हो गया है। आप 1 bump के साथ 4 घंटे के लिए Trade Pass खरीद सकते हैं या 30 दिन के लिए खरीदने के लिए 20 Trade पास बचा सकते हैं",
-    "CORRECT_USAGE": "{{USER}} सही इस्तेमाल: `{{prefix}}buy bg <Background-ID> <amount>`",
-    "INVALID_BG_AMOUNT": "नकार क़ीमत दर्ज ना करें",
-    "INVALID_BG_ID": "कृपया करके मान्य `Background` -ID प्रदान करें",
-    "NO_ITEM_PROVIDED": "कोई `Item` प्रदान नहीं की",
-    "INVALID_AMOUNT": "{{author}} आप नकार मात्रा में {{eventItem}} भेट नही कर सकते",
-    "INVALID_ITEM_PROVIDED": "{{USER}} अमान्य `Item` प्रदान किया गया है"
+  "DESCRIPTION": "Sofi के \"Shop\" से \"Items\" की खरीदारी करता है",
+  "SLASH_DESC": "वह `Item` का नाम दर्ज करें जिसे आप खरीदना चाहते हैं",
+  "SLASH_DESC2": "मात्रा दर्ज करें",
+  "SLASH_DESC3": "वह `Background` का कोड दर्ज करें जिसे आप खरीदना चाहते हैं। [जब ITEM BACKGROUND के तरह सिलेक्टेड होगी तभी काम करेगा]",
+  "NO_ITEM": "जो `Item` को खरीदना है वह स्पष्ट कीजिए",
+  "TRADEPASS_INFO": "Trade Pass Silvers से खरीदा जा सकता था जो अब बंद हो गया है। आप 1 bump के साथ 4 घंटे के लिए Trade Pass खरीद सकते हैं या 30 दिन के लिए खरीदने के लिए 20 Trade पास बचा सकते हैं",
+  "CORRECT_USAGE": "{{USER}} सही इस्तेमाल: `{{prefix}}buy bg <Background-ID> <amount>`",
+  "INVALID_BG_AMOUNT": "नकार क़ीमत दर्ज ना करें",
+  "INVALID_BG_ID": "कृपया करके मान्य `Background` -ID प्रदान करें",
+
+  "INVALID_ITEM_PROVIDED": "{{USER}} अमान्य `Item` प्रदान किया गया है"
 }
