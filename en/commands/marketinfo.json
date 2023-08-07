@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Displays your current market listings or examines a deal if you provide an ID",
-    "INVALID_DEAL_ID": "{{author}} The Deal ID you provided is invalid",
+    "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is invalid",
     "TRADER": "Trader",
     "DEAL_ID": "Deal ID",
     "PRODUCT": "Product",
@@ -10,5 +10,5 @@
     "EMBED_TITLE": "YOUR LISTINGS:",
     "NO_LISTINGS_FOUND": "{{user}} You don't have any listings on the market",
     "INFO": "Use the command `{{prefix}}mul <ID>` to unlist your current deals\n**Only a single deal can be listed at a time**",
-    "FOOTER": "Results {{page}}-{{pages}} of {{total}}"
+    "FOOTER": "Showing results: {{page}}-{{pages}} of {{total}}"
 }

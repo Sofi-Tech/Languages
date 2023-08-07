@@ -9,5 +9,5 @@
     "MISSING_CARDS": "{{author}} At least one of the cards from your selected `Tags` is no longer in your collection",
     "SUCCESS": "Cards were burnt successfully",
     "BURN_REWARDS": "__Rewards__",
-    "CANCELLED": "You are trying to list more `Wists` than you have! "
+    "CANCELLED": "{{author}} You dont have enough `{{currency}}` for this process"
 }
