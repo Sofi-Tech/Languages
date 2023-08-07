@@ -1,10 +1,11 @@
 {
-    "DESCRIPTION": "Displays the cooldown for these actions:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Click on the bell icons to receive Direct Message reminders for \"Drop\", \"Vote\" and \"Daily\"!",
-    "JOIN_SUPPORT_SERVER": "[Join the support server for help!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "VOTE": "Vote",
-    "BUMP": "Bump",
-    "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 You have **{{checkUnreadMailsCount}}** unread {{mailCount}}"
+  "DESCRIPTION": "Displays the cooldown for these actions:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Click on the bell icons to receive Direct Message reminders for \"Drop\", \"Vote\" and \"Daily\"!",
+  "JOIN_SUPPORT_SERVER": "[Join the support server for help!](https://discord.gg/sofi)",
+  "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **:Drop:** `{{cooldown}}`",
+  "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **:Grab:** `{{cooldown}}`",
+  "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **:Vote:** `{{cooldown}}`",
+  "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **:Raid:** `{{cooldown}}`",
+  "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **:Daily:** `{{cooldown}}`",
+  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **:Bump:** `{{cooldown}}`",
+  "UNREAD_MAIL": "\n📫 You have **{{checkUnreadMailsCount}}** unread {{mailCount}}"
 }
