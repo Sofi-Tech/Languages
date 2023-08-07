@@ -5,7 +5,7 @@
     "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
     "GLOW_NOT_FOUND": "{{author}} At least one of the `Glow` codes you provided is either invalid or not in your inventory",
     "UNAVAILABLE_GLOW": "{{author}} At least one of the `Glow` codes you provided is empty",
-    "NO_USE_SG": "{{author}} At least one of the provided `Glow` codes is a `Super Glow` already",
+    "NO_USE_SG": "{{author}} You cannot use a `Super Glow` for this process",
     "SAME_GLOWS": "{{author}} You cannot use the same `Glow` more than once",
     "UNAVAILABLE": "Empty",
     "AVAILABLE": "Charged",
