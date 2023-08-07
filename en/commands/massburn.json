@@ -5,7 +5,7 @@
     "WRONG_TAG": "{{author}} The `Tag` you provided is invalid",
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
     "CARDS_BURNED": "__Selected Cards [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "Are you sure you want to irreversibly burn these cards?",
+    "CONFIRM_ASK": "{{author}} Are you sure you want to irreversibly burn these cards?",
     "MISSING_CARDS": "{{author}} At least one of your selected cards is no longer in your collection",
     "SUCCESS": "{{author}} Successfully burned your selected cards",
     "BURN_REWARDS": "__Rewards__",
