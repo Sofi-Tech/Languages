@@ -14,6 +14,6 @@
     "EMBED_TITLE": "SOFI: MARKET LISTING",
     "CONFIRM_ASK": "Are you sure you want to list this deal to the market?",
     "CANCELLED": "The process has been cancelled",
-    "NOT_ENOUGH_CANCEL": "{{author}} You are trying to list more `Wists` than you have",
-    "SUCCESS": "{{author}} Your deal has been successfully listed"
+    "NOT_ENOUGH_CANCEL": "{{author}} You dont have enough `{{currency}}` for this process",
+    "SUCCESS": "{{author}} Successfully listed your order"
 }
