@@ -9,7 +9,7 @@
   "SAME_GLOWS": "{{author}} さん、同じグローを使用してスーパーグローを作成することはできません。",
   "UNAVAILABLE": "利用できません",
   "AVAILABLE": "利用可能",
-  "CANNOT_FIND_GLOWS": "{{author}} さん、コード {{codes}} に対応するグローが見つかりませんでした。",
+
   "EMBED_TITLE": "SOFI: スーパーグロー",
   "FORM_SG_CONFIRM": "以下のグローを使用してひとつのスーパーグローを作成します:**\n\n{{glowCodes}}\n\n**スーパーグローの作成中...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ スーパー${superGlowName}**",
 
