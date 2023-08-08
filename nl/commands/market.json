@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Toont de Sofi markt",
     "NO_LISTING_FOUND": "Kon geen lijsten vinden",
-    "STOCK": "Voorraad",
     "RATE": "Tarief",
     "MARKET_WARN": "Gebruik de markt niet voor opslag of het verbergen van items.\nZe worden zonder vergoeding verwijderd.\nGemiddeld tarief : {{averageRate}} Totaal aantal handelingen : {{totalTrades}}",
     "FOOTER": "Toont 1-{{pages}} van {{total}} | Gebruik {{prefix}}mp <id> [hoeveelheid] om te kopen"

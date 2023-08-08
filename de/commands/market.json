@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Zeigt den Sofi-Markt an",
     "NO_LISTING_FOUND": "Es konnten keine Einträge gefunden werden",
-    "STOCK": "Bestand",
     "RATE": "Rate:",
     "MARKET_WARN": "Der Markt darf nicht zum Aufbewahren oder Verstecken von `Wists` genutzt werden!\nWenn du dabei erwischt wirst, werden die `Wists` ohne Entschädigung entfernt.\nDurchschnittskurs: **`{{averageRate}}`** Insgesamte Handel: **`{{totalTrades}}`**",
     "FOOTER": "Ergebnisse {{page}}-{{pages}} von {{total}}"

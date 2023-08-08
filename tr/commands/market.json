@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Sofi pazarını görüntüler",
     "NO_LISTING_FOUND": "Herhangi bir liste bulunamadı",
-    "STOCK": "Stok",
     "RATE": "Oran:",
     "MARKET_WARN": "Pazarı 'Wist' depolamak veya saklamak için kullanmayın!\nBunu yaparken yakalanırsanız, 'Wists'leriniz sorgusuz soalsiz kaldırılacaktır.\nOrtalama Oran: **`{{averageRate}}`** Toplam İşlemler : **`{{totalTrades}}`**",
     "FOOTER": "Toplam {{total}} sayfadan 1-{{pages}} sayfası gösteriliyor| `Wists` satın almak için \"{{prefix}}mp <ID>\" komutunu kullanın!"

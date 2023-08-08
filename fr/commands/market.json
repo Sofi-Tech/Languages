@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Affiche le marché de Sofi",
     "NO_LISTING_FOUND": "Aucune offre trouvée",
-    "STOCK": "Stock",
     "RATE": "Taux:",
     "MARKET_WARN": "N'utilisez pas le marché pour stocker ou cacher des `Wists`!\nSi vous êtes surpris à faire ça, ils seront supprimés sans aucune compensation.\nTaux Moyen: **`{{averageRate}}`** Échanges Totals : **`{{totalTrades}}`**",
     "FOOTER": "Affichage de 1-{{pages}} sur {{total}} | Utilisez la commande `{{prefix}}mp <ID>` pour acheter des `Wists`!"

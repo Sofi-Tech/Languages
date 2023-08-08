@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Mostra o mercado Sofi",
     "NO_LISTING_FOUND": "Não foi possível encontrar nenhuma listagem",
-    "STOCK": "Estoque",
     "RATE": "Taxa:",
     "MARKET_WARN": "Não use o mercado para armazenar ou esconder `Wists`!\nSe você for pego fazendo isso, os `Wists`serão removidos sem compensação.\n`Taxa Média : {{averageRate}}` `Total de Negociações : {{totalTrades}}`",
     "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use `{{prefix}}mp <ID>`para comprar `Wists`!"
