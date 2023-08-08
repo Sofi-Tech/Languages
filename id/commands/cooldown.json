@@ -6,5 +6,5 @@
     "VOTE": "Vote",
     "BUMP": "Bump",
     "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` pesan belum dibaca | Ketik`{{customPrefix}}mail`untuk membacanya!"
+    "UNREAD_MAIL": "\n📫 Anda memiliki **{{checkUnreadMailsCount}}** belum dibaca {{mailCount}}"
 }

@@ -35,7 +35,7 @@
     "INVALID_AMOUNT_FRAMES": "Jumlah frame yang disediakan tidak valid",
     "MAXIMUM_PURCHASE_FRAMES": "Anda dapat membeli maksimal 20 frame",
     "BOUGHT_FRAMES": "__Anda dapat:__\n{{desc}}",
-    "EV_EMBED_TITLE": "SOFI: EVENT {{type}} LEADERBOARD",
+    "EV_EMBED_TITLE": "SOFI: {{form}}{{type}} LEADERBOARD",
     "NOT_ENOUGH_EV_ITEM": "Anda tidak memliki cukup {{eventItem}}.",
     "ALREADY_IN_LOTTERY": "Anda telah bergabung ke lotre",
     "ENTERED_LOTTERY": "Berhasil memasuki lotre",
@@ -63,5 +63,5 @@
     "MISSING_EV_ITEM": "Anda kekurangan {{amount}} {{item}}",
     "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",
     "ITEM_PURCHASE_SUCCESSFUL": "Selamat! {{amount}} {{item}} telah ditambahkan ke inventory anda",
-    "NO_ACTIVE_EVENT": "Tidak ada acara aktif yang ditemukan"
+    "NO_ACTIVE_EVENT": "{{author}}Tidak ada event aktif yang ditemukan"
 }

@@ -4,12 +4,12 @@
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki `Glows`",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <KodeGlow> <NamaBaru>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Kode `Glow` selalu dimulai dengan `#`",
-    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di 'Inventory'",
+    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di inventory",
     "GLOW_NAME_LONG": "{{author}} Nama `Glow` anda hanya boleh terdiri dari **25** karakter",
-    "GLOW_NAME_EXISTS": "{{author}} Nama `Glow` sudah digunakan di tempat lain",
+    "GLOW_NAME_EXISTS": "{{author}} Nama itu sudah ditetapkan ke `Glow` yang berbeda",
     "EMBED_TITLE": "SOFI: NAMA GLOW",
     "GLOWNAME_CHANGE_CONFIRMATION": "Apakah Anda yakin ingin mengubah nama `Glow` anda dari `{{oldName}}` menjadi `{{newName}}`?",
-    "MISSING_ITEMS": "{{author}} Anda tidak memiliki cukup {{currency}} untuk proses ini",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah nama `Glow` Anda menjadi {{newName}}",
+    "MISSING_ITEMS": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah nama `Glow` menjadi `{{newName}}`",
     "PROFANE_GLOW_NAME": "{{author}} Nama `Glow` anda tidak boleh mengandung kata-kata kotor"
 }

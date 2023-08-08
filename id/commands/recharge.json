@@ -1,14 +1,14 @@
 {
-  "RG_DESCRIPTION": "Mengisi ulang \"Glow\" yang kosong",
-  "RG_CATEGORY": "Cosmetic",
-  "NO_GLOWCDE": "{{author}} Anda perlu memberikan kode`Glow",
-  "INVALID_DC_MOVIES": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
-  "GLOW_AVAILABLE": "{{author}} `Glow` tersebut sudah terisi",
-  "EMBED_TITLE": "SOFI: GLOW RECHARGE",
-  "SUCCESSFUL_RECHARGE": "`Glow` Anda berhasil diisi ulang!",
-  "NO_MONEY": "Anda tidak memiliki cukup `Recharge`! Beli beberapa dan coba lagi",
-  "RECHARGE_CONFIRMATION": "Anda akan mengisi ulang:\n\n**{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}** <:recharge_sofi:926846363537387530>",
-  "UNLOCK_GLOWS": "{{author}} Anda belum memiliki `Glows`",
-  "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid",
-  "SUPER_RECHARGE_CONFIRMATION": "Anda akan mengisi ulang:\n\n**{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}**:recharge_sofi:"
+    "RG_DESCRIPTION": "Mengisi ulang \"Glow\" yang kosong",
+    "RG_CATEGORY": "Cosmetic",
+    "NO_GLOWCDE": "{{author}} Anda perlu memberikan kode`Glow",
+    "INVALID_DC_MOVIES": "{{author}} Kode `Glow` selalu dimulai dengan **#**",
+    "GLOW_AVAILABLE": "{{author}} `Glow` tersebut sudah terisi",
+    "EMBED_TITLE": "SOFI: GLOW RECHARGE",
+    "SUCCESSFUL_RECHARGE": "`Glow` Anda berhasil diisi ulang!",
+    "NO_MONEY": "Anda tidak memiliki cukup `Recharge`! Beli beberapa dan coba lagi",
+    "RECHARGE_CONFIRMATION": "Anda akan mengisi ulang:\n\n**{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "UNLOCK_GLOWS": "{{author}} Anda belum memiliki `Glows`",
+    "GLOW_NOT_FOUND": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di inventory",
+    "SUPER_RECHARGE_CONFIRMATION": "Anda akan mengisi ulang:\n\n**{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}**:recharge_sofi:"
 }

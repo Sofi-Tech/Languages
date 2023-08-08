@@ -9,5 +9,5 @@
     "MISSING_CARDS": "{{author}} Setidaknya salah satu kartu dari `Tag` yang anda pilih tidak lagi ada dalam koleksi anda",
     "SUCCESS": "Kartu berhasil dibakar",
     "BURN_REWARDS": "Reward Burn",
-    "CANCELLED": "Anda mencoba mendaftarkan `Wists` lebih banyak dari yang anda miliki! "
+    "CANCELLED": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini"
 }

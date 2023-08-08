@@ -1,5 +1,5 @@
 {
     "AC_DESCRIPTION": "Mengkonfigurasi album anda",
     "AC_CATEGORY": "Album",
-    "CONFIGURE_ALBUM": "Buat dan edit `Album` Anda di situs: <https://sofi.gg/albums{{albumName}}>"
+    "CONFIGURE_ALBUM": "{{author}} Buat dan edit `Album` Anda di situs: <https://sofi.gg/albums{{albumName}}>"
 }
