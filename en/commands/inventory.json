@@ -16,9 +16,9 @@
     "EMBED_AUTHOR": "SOFI: INVENTORY ({{username}})",
     "SELF_INV_EMPTY": "{{author}} Your inventory is empty",
     "USER_INV_EMPTY": "{{author}} That user's inventory is empty",
-    "NO_FRAMES_FOUND": "You don't have any `Frames`",
-    "NO_CRYSTALS_FOUND": "You dont have any `Crystals`",
-    "NO_EVENT_FOUND": "You dont have any event items",
-    "NO_BG_FOUND": "You don't have any `Backgrounds`",
+    "NO_FRAMES_FOUND": "Could not find any `Frames`",
+    "NO_CRYSTALS_FOUND": "Could not find any `Crystals`",
+    "NO_EVENT_FOUND": "Could not find any event items",
+    "NO_BG_FOUND": "Could not find any `Backgrounds`",
     "NO_ITEM_FOUND": "{{author}} Could not find that item in your inventory"
 }
