@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Menjual \"Wists\" anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <Jumlah> <Rats>`",
-    "INVALID_GEM_RATE": "{{user}} Jumlah kurs yang anda berikan tidak valid",
-    "GEM_RATE_LIES": "{{user}} Kurs yang diberikan harus antara **3.0 - 20.0**",
-    "ALREADY_EXISTS": "{{author}} Gunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapus pesanan anda yang sudah ada terlebih dahulu",
-    "PRODUCTS": "List:",
-    "RATE": "Kurs",
-    "VALUE": "Nilai:",
-    "CONFIRM_ASK": "Apakah anda yakin ingin mendaftarkan penawaran ini ke pasar?",
-    "CANCELLED": "Proses telah dibatalkan",
-    "NOT_ENOUGH_CANCEL": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
-    "SUCCESS": "{{author}} Berhasil mencantumkan pesanan anda",
-    "EMBED_TITLE": "SOFI: LIST MARKET"
+  "DESCRIPTION": "Menjual \"Wists\" anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
+  "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <Jumlah> <Rats>`",
+  "INVALID_GEM_RATE": "{{user}} Jumlah kurs yang anda berikan tidak valid",
+  "GEM_RATE_LIES": "{{user}} Kurs yang diberikan harus antara **3.0 - 20.0**",
+  "ALREADY_EXISTS": "{{author}} Gunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapus pesanan anda yang sudah ada terlebih dahulu",
+  "PRODUCTS": "List:",
+  "RATE": "Kurs",
+  "VALUE": "Nilai:",
+
+  "CANCELLED": "Proses telah dibatalkan",
+  "NOT_ENOUGH_CANCEL": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
+  "SUCCESS": "{{author}} Berhasil mencantumkan pesanan anda",
+  "EMBED_TITLE": "SOFI: LIST MARKET"
 }

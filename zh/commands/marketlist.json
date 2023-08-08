@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "放你的wist在市场里，wist可以买到其他玩家的钻石",
-    "CORRECT_USAGE": "{{user}} 正确用法：{{prefix}}ml <wist> <rate>",
-    "INVALID_GEM_RATE": "{{user}} 无效的宝石率，你要打三到二十之间的数字！",
-    "GEM_RATE_LIES": "{{user}} 宝石率必须介于3.0-20.0之间！",
-    "ALREADY_EXISTS": "您有一个现有的交易{{dealID}}\n在再次列出交易之前请取消列出",
-    "PRODUCTS": "你的清单",
-    "RATE": "比率:",
-    "VALUE": "价值",
-    "CONFIRM_ASK": "你确定你要在市场进行这场交易吗？",
-    "CANCELLED": "过程已取消",
-    "NOT_ENOUGH_CANCEL": "由于缺少$wists$而取消",
-    "SUCCESS": "交易已成功列出",
-    "EMBED_TITLE": "Sofi 的市场清单："
+  "DESCRIPTION": "放你的wist在市场里，wist可以买到其他玩家的钻石",
+  "CORRECT_USAGE": "{{user}} 正确用法：{{prefix}}ml <wist> <rate>",
+  "INVALID_GEM_RATE": "{{user}} 无效的宝石率，你要打三到二十之间的数字！",
+  "GEM_RATE_LIES": "{{user}} 宝石率必须介于3.0-20.0之间！",
+  "ALREADY_EXISTS": "您有一个现有的交易{{dealID}}\n在再次列出交易之前请取消列出",
+  "PRODUCTS": "你的清单",
+  "RATE": "比率:",
+  "VALUE": "价值",
+
+  "CANCELLED": "过程已取消",
+  "NOT_ENOUGH_CANCEL": "由于缺少$wists$而取消",
+  "SUCCESS": "交易已成功列出",
+  "EMBED_TITLE": "Sofi 的市场清单："
 }

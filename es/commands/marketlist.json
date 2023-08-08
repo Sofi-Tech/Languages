@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Pone tus \"Wists\" en el mercado, los cuales luego pueden ser comprador por otros jugadores con \"Gems\"",
-    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <Cantidad> <Tasa>`",
-    "INVALID_GEM_RATE": "{{user}} Debes introducir un número entre **3.0** & **20.0**!",
-    "GEM_RATE_LIES": "{{user}} Debes introducir un número entre **3.0** & **20.0**!",
-    "ALREADY_EXISTS": "{{author}} Ya tienes una oferta existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar una nueva",
-    "PRODUCTS": "Tu lista:",
-    "RATE": "Tasa:",
-    "VALUE": "Valor total:",
-    "CONFIRM_ASK": "¿Está seguro de que desea listar esta oferta en el mercado?",
-    "CANCELLED": "El proceso ha sido cancelado",
-    "NOT_ENOUGH_CANCEL": "Estás intentando listar más `Wist` de los que tienes",
-    "SUCCESS": "Su oferta ha sido listada con éxito",
-    "EMBED_TITLE": "MERCADO DE SOFI:"
+  "DESCRIPTION": "Pone tus \"Wists\" en el mercado, los cuales luego pueden ser comprador por otros jugadores con \"Gems\"",
+  "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}ml <Cantidad> <Tasa>`",
+  "INVALID_GEM_RATE": "{{user}} Debes introducir un número entre **3.0** & **20.0**!",
+  "GEM_RATE_LIES": "{{user}} Debes introducir un número entre **3.0** & **20.0**!",
+  "ALREADY_EXISTS": "{{author}} Ya tienes una oferta existente\nUsa el comando `{{prefix}}mul {{dealID}}` para quitarlo, antes de listar una nueva",
+  "PRODUCTS": "Tu lista:",
+  "RATE": "Tasa:",
+  "VALUE": "Valor total:",
+
+  "CANCELLED": "El proceso ha sido cancelado",
+  "NOT_ENOUGH_CANCEL": "Estás intentando listar más `Wist` de los que tienes",
+  "SUCCESS": "Su oferta ha sido listada con éxito",
+  "EMBED_TITLE": "MERCADO DE SOFI:"
 }
