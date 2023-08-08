@@ -1,15 +1,12 @@
 {
-    "MG_DESCRIPTION": "\"Merges\" 4 einzigartige \"Glows\", um \"Resin\" zu erhalten",
-    "MG_CATEGORY": "Kosmetika",
-    "NO_GLOWS": "{{author}} Du hast noch keine `Glows`",
-    "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Die folgenden `Glows` sind leer: \"{{unavailableGlows}}\"",
-    "GLOW_CODES_UNIQUE": "{{author}} Für diesen Vorgang benötigst du 4 einzigartige `Glows`",
-    "AVAILABLE": "Aufgeladen",
-    "UNAVAILABLE": "Leer",
-    "GLOWS_NOT_FOUND": "{{author}} Die folgenden `Glows` sind entweder ungültig oder nicht in deinem Besitz: `{{glows}}`",
-    "EMBED_TITLE": "SOFI: GLOW MERGE",
-    "MERGE_CONFIRMATION": "Du bist dabei, die folgenden `Glows` zu `Merge`:\n\n{{glows}}\n\nDu erhältst **1**x<:resin:938131736741691442>",
-    "SURE": "Bist du sicher?",
-    "ERROR": "Fehler: {{error}}"
+  "MG_DESCRIPTION": "\"Merges\" 4 einzigartige \"Glows\", um \"Resin\" zu erhalten",
+  "MG_CATEGORY": "Kosmetika",
+  "NO_GLOWS": "{{author}} Du hast noch keine `Glows`",
+  "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+  "GLOWS_UNAVAILABLE": "{{author}} Die folgenden `Glows` sind leer: \"{{unavailableGlows}}\"",
+  "GLOW_CODES_UNIQUE": "{{author}} Für diesen Vorgang benötigst du 4 einzigartige `Glows`",
+
+  "GLOWS_NOT_FOUND": "{{author}} Die folgenden `Glows` sind entweder ungültig oder nicht in deinem Besitz: `{{glows}}`",
+  "EMBED_TITLE": "SOFI: GLOW MERGE",
+  "MERGE_CONFIRMATION": "Du bist dabei, die folgenden `Glows` zu `Merge`:\n\n{{glows}}\n\nDu erhältst **1**x<:resin:938131736741691442>"
 }

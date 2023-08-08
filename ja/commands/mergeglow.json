@@ -5,11 +5,8 @@
   "GLOW_CODES_MISSING": "{{author}}さんのグローコードが足りません | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
   "GLOWS_UNAVAILABLE": "{{author}}さん、一部のグローが利用できません: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}}さん、すべてのグローコードは一意でなければなりません",
-  "AVAILABLE": "利用可能",
-  "UNAVAILABLE": "利用不可",
+
   "GLOWS_NOT_FOUND": "{{author}}さん、「{{glows}}」のグローコードを持つグローが見つかりません",
   "EMBED_TITLE": "SOFI: グローのマージ",
-  "MERGE_CONFIRMATION": "以下のグローをマージしようとしています:\n\n{{glows}}\n\n1 <:resin:938131736741691442> を受け取ります。",
-  "SURE": "よろしいですか？",
-  "ERROR": "エラー：{{error}}"
+  "MERGE_CONFIRMATION": "以下のグローをマージしようとしています:\n\n{{glows}}\n\n1 <:resin:938131736741691442> を受け取ります。"
 }

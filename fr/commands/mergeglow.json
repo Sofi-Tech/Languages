@@ -1,15 +1,12 @@
 {
-    "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" uniques afin d'obtenir un \"Resin\"",
-    "MG_CATEGORY": "Cosmetics",
-    "NO_GLOWS": "{{author}} Vous ne possédez pas encore de `Glows`",
-    "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}mg <CodeDeGlow1> <CodeDeGlow2> <CodeDeGlow3> <CodeDeGlow4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Les `Glows` suivants sont vides: `{{unavailableGlows}}`",
-    "GLOW_CODES_UNIQUE": "{{author}} Vous avez besoin de 4 `Glows` uniques pour ce processus",
-    "AVAILABLE": "Charger",
-    "UNAVAILABLE": "Vide",
-    "GLOWS_NOT_FOUND": "{{author}} Les `Glows` suivants sont invalide ou ne sont pas a vous `{{glows}}`",
-    "EMBED_TITLE": "SOFI: FUSION DE GLOW",
-    "MERGE_CONFIRMATION": "Vous êtes sur le point de `Merge` les `Glows` suivants :\n\n{{glows}}\n\nVous recevrez 1 <:resin:938131736741691442>",
-    "SURE": "Êtes-vous sûr?",
-    "ERROR": "Erreur: {{error}}"
+  "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" uniques afin d'obtenir un \"Resin\"",
+  "MG_CATEGORY": "Cosmetics",
+  "NO_GLOWS": "{{author}} Vous ne possédez pas encore de `Glows`",
+  "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}mg <CodeDeGlow1> <CodeDeGlow2> <CodeDeGlow3> <CodeDeGlow4>`",
+  "GLOWS_UNAVAILABLE": "{{author}} Les `Glows` suivants sont vides: `{{unavailableGlows}}`",
+  "GLOW_CODES_UNIQUE": "{{author}} Vous avez besoin de 4 `Glows` uniques pour ce processus",
+
+  "GLOWS_NOT_FOUND": "{{author}} Les `Glows` suivants sont invalide ou ne sont pas a vous `{{glows}}`",
+  "EMBED_TITLE": "SOFI: FUSION DE GLOW",
+  "MERGE_CONFIRMATION": "Vous êtes sur le point de `Merge` les `Glows` suivants :\n\n{{glows}}\n\nVous recevrez 1 <:resin:938131736741691442>"
 }
