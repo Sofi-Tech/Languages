@@ -8,9 +8,8 @@
   "PRODUCT": "Anda menerima:",
   "VALUE": "Anda membayar:",
   "RATE": "Kurs",
-  "CONFIRM_ASK": "Apakah anda yakin ingin mengonfirmasi transaksi ini?",
+
   "ALREADY_IN_PURCHASE": "{{author}} Anda sudah memiliki transaksi aktif",
-  "CANCELLED": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
 
   "PURCHASE_CANCELLED": "{{author}} Penawaran tersebut sudah tidak tersedia lagi",
   "MISSING_GEMS": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk transaksi ini",
