@@ -7,7 +7,7 @@
     "EVENT_3D_NOTE": "Pendant un \"Event\" actif, toutes les cartes éligibles seront converties dans leur variante \"3D Event\" lors de la confirmation de ce processus",
     "3D_DESCRIPTION": "Converti votre carte en sa variante 3D",
     "INVALID_CARD_CODE": "{{author}} Le code que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Les cartes`Event` ne peuvent pas être converties en variante `3D`",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Vous ne pouvez pas convertir une carte event en une variante \"3D\" classique",
     "NO_CUBES": "{{author}} Vous n'avez pas assez de `Cubes`",
     "UPGRADED_3D": "{{author}} Votre carte a été convertie dans sa variante `3D` avec succès",
     "HALLOWEEN_3D_FAILED": "{{author}} Un fantôme a infectée votre carte! Le processus a échoué!",

@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "Affiche une carte",
-  "SLASH_DESC1": "Entrez le code d'une carte",
-  "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide",
-  "SERIES": "Série:",
-  "NAME": "Nom:",
-  "OWNED_BY": "Possédée Par:",
-  "SERVER": "Serveur",
-  "CLAIMED": "Claim:",
-  "MOVES": "Compétences:",
-  "OWNER_HISTORY": "Historique des Propriétaires"
+    "DESCRIPTION": "Affiche une carte",
+    "SLASH_DESC1": "Entrez le code d'une carte",
+    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide",
+    "SERIES": "Série:",
+    "NAME": "Nom:",
+    "OWNED_BY": "Possédée Par:",
+    "SERVER": "Serveur",
+    "CLAIMED": "Claim",
+    "MOVES": "Compétences:",
+    "OWNER_HISTORY": "Historique des Propriétaires"
 }
