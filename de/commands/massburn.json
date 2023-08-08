@@ -1,13 +1,12 @@
 {
-    "DESCRIPTION": "Verbrennt mehrere Karten auf einmal",
-    "IN_ACTIVE_MB": "{{user}}, du kannst keinen neuen massburn starten, während bereits einer ausgeführt wird. Fahre fort oder brich den aktiven massburn ab",
-    "PROVIDE_FILTERS": "Gib die Filter an die du bei der Verbrennung anwenden möchtest! `t=<TagName>, g><=Gen, wl><=Wunschliste`",
-    "WRONG_TAG": "{{author}} der angegebene `Tag` Name ist ungültig",
-    "NO_CARDS_FOUND": "{{author}} Du hast noch keine Karten in deiner Sammlung",
-    "CARDS_BURNED": "Karten verbrannt: **{{totalCards}}**",
-    "CONFIRM_ASK": "Bist du sicher, dass du diese Karten verbrennen möchtest? Dieser Vorgang ist endgültig",
-    "MISSING_CARDS": "{{author}} mindestens eine Karte der angegebenen `Tags` befindet sich nicht mehr in deiner Kollektion",
-    "SUCCESS": "Karten wurden erfolgreich verbrannt",
-    "BURN_REWARDS": "__Belohnungen__",
-    "CANCELLED": "Du versuchst mehr `Wists` anzubieten, als du besitzt! "
+  "DESCRIPTION": "Verbrennt mehrere Karten auf einmal",
+  "IN_ACTIVE_MB": "{{user}}, du kannst keinen neuen massburn starten, während bereits einer ausgeführt wird. Fahre fort oder brich den aktiven massburn ab",
+  "PROVIDE_FILTERS": "Gib die Filter an die du bei der Verbrennung anwenden möchtest! `t=<TagName>, g><=Gen, wl><=Wunschliste`",
+  "WRONG_TAG": "{{author}} der angegebene `Tag` Name ist ungültig",
+  "NO_CARDS_FOUND": "{{author}} Du hast noch keine Karten in deiner Sammlung",
+  "CARDS_BURNED": "Karten verbrannt: **{{totalCards}}**",
+  "CONFIRM_ASK": "Bist du sicher, dass du diese Karten verbrennen möchtest? Dieser Vorgang ist endgültig",
+  "MISSING_CARDS": "{{author}} mindestens eine Karte der angegebenen `Tags` befindet sich nicht mehr in deiner Kollektion",
+  "SUCCESS": "Karten wurden erfolgreich verbrannt",
+  "BURN_REWARDS": "__Belohnungen__"
 }

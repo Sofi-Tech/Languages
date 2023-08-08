@@ -1,13 +1,12 @@
 {
-    "DESCRIPTION": "Burns a multitude of cards at once",
-    "IN_ACTIVE_MB": "{{user}} You cannot start a new `massburn` while your old one is still active",
-    "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n\n```fix\nNote: You can find a comprehensive list of filters with the command \"{{prefix}}help filters\"\n```",
-    "WRONG_TAG": "{{author}} The `Tag` you provided is invalid",
-    "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
-    "CARDS_BURNED": "__Selected Cards [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Are you sure you want to irreversibly burn these cards?",
-    "MISSING_CARDS": "{{author}} At least one of your selected cards is no longer in your collection",
-    "SUCCESS": "{{author}} Successfully burned your selected cards",
-    "BURN_REWARDS": "__Rewards__",
-    "CANCELLED": "{{author}} You dont have enough `{{currency}}` for this process"
+  "DESCRIPTION": "Burns a multitude of cards at once",
+  "IN_ACTIVE_MB": "{{user}} You cannot start a new `massburn` while your old one is still active",
+  "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n\n```fix\nNote: You can find a comprehensive list of filters with the command \"{{prefix}}help filters\"\n```",
+  "WRONG_TAG": "{{author}} The `Tag` you provided is invalid",
+  "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
+  "CARDS_BURNED": "__Selected Cards [ {{totalCards}} ]__",
+  "CONFIRM_ASK": "{{author}} Are you sure you want to irreversibly burn these cards?",
+  "MISSING_CARDS": "{{author}} At least one of your selected cards is no longer in your collection",
+  "SUCCESS": "{{author}} Successfully burned your selected cards",
+  "BURN_REWARDS": "__Rewards__"
 }
