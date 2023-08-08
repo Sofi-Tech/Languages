@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Pinapakita ang Sofi market",
     "NO_LISTING_FOUND": "Walang nakitang kahit anong listahan",
-    "RATE": "Porsyento:",
     "MARKET_WARN": "Huwag gamitin ang market para sa pag-iimbak o pagtatago ng mga `Wists`!\nKapag ikaw ay nahuli na ginagawa ito, ang `Wists`ay matatanggal na walang kompensasyon.\nAverage Rate: **`{{averageRate}}`** Total Trades: **`{{totalTrades}}`**",
     "FOOTER": "Pinapakita ang 1-{{pages}} ng {{total}} | Gamitin ang `{{prefix}}mp <ID>` para bumili ng `Wists`!"
 }

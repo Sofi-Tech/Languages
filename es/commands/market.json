@@ -1,7 +1,6 @@
 {
     "DESCRIPTION": "Muestra las ofertas listadas en el mercado",
     "NO_LISTING_FOUND": "No se encontraron listados",
-    "RATE": "Tasa:",
     "MARKET_WARN": "No use el mercado para almacenar o ocultar `Wists`!\nSe te descubren haciendo esto, los `Wists` serán eliminados sin compensación.\nTasa media: **`{{averageRate}}`** Intercambios totales: **`{{totalTrades}}`**",
     "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Usa el comando `{{prefix}}mp <ID>` para comprar `Wists`!"
 }
