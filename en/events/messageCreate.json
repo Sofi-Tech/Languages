@@ -15,7 +15,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "`I require: {{permissions}} to execute this command`",
     "REQUIRE_MEMBER_PERMISSIONS": "`You require: {{permissions}} to use this command`",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wait for **{{cooldown}}** before using this command again",
-    "REGISTER_USER": "{{author}} Use the command `{{prefix}}register` and visit our website to verify yoruself",
+    "REGISTER_USER": "{{author}} Use the command `{{prefix}}register` and visit our website to verify yourself",
     "USER_COMMAND_QUEUE": "<@{{id}}> You need to complete the {{existsFor}} command before you can proceed",
     "AUTHOR_COMMAND_QUEUE": "Complete the {{existsFor}} command before proceeding",
     "SAFE_MODE": "{{author}} **Sofi** is currently in safe mode! ETA: **{{eta}}**\nWe apologize for any inconveniences caused by this and ask for your patience!",
