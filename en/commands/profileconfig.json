@@ -24,7 +24,7 @@
     "PROVIDE_ACH_ID": "Badges on your profile are displayed from left to right",
     "NO_GLOW": "Enter a `Glow` code",
     "SET_FC_CONFIRM": "Are you sure you want to set **{{character}}** from **{{series}}** as your favorite character?",
-    "CANNOT_SET_PBG": "{{author}} You have an insufficient amount of `{{currency}}` to buy this profile background",
+    "CANNOT_SET_PBG": "{{author}} You dont have enough `{{currency}}` to buy this profile background",
     "PROCESS_NOT_COMPLETED": "The process has been cancelled",
     "GLOW_NOT_FOUND": "{{author}} The `Glow` code you provided is either invalid or not in your inventory",
     "CANNOT_SET_TC": "{{author}} That `Glow` is empty",
