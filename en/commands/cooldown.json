@@ -7,8 +7,8 @@
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **{{command}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-    "VOTE_LABEL": "Vote:",
-    "DAILY_LABEL": "Daily:",
+    "VOTE_LABEL": "Vote",
+    "DAILY_LABEL": "Daily",
     "UNREAD_MAIL": "\n📫 You have **{{checkUnreadMailsCount}}** unread {{mailCount}}",
     "EMBED_TITLE": "SOFI: COOLDOWNS"
 }
