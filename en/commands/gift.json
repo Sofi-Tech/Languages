@@ -1,12 +1,14 @@
 {
-    "GIFT_CATEGORY": "Cards",
-    "GIFT_SLASH_DESC": "Choose a user you want to gift `{{eventItem}}` to",
-    "GIFT_SLASH_DESC2": "Enter the amount of `{{eventItem}}` you want to gift them",
-    "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <@User/UserID> <Amount>`",
-    "INVALID_USER": "{{author}} You cannot gift `{{eventItem}}` to yourself",
-    "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of items",
-    "NOT_ENOUGH_ITEM": "{{author}} You do not have **{{amount}}** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} That user is not registered!",
-    "GIFT_SUCCESSFUL": "{{author}} has gifted **{{amount}}** `{{eventItem}}` to {{user}}\n{{user}} has received a total of **{{recieveCount}}** `{{eventItem}}`",
-    "EMBED_TITLE": "SOFI: GIFT"
+  "GIFT_DESCRIPTION": "Gift \"Event Items\" to another user",
+  "GIFT_CATEGORY": "Cards",
+  "GIFT_SLASH_DESC": "Choose a user you want to gift `{{eventItem}}` to",
+  "GIFT_SLASH_DESC2": "Enter the amount of `{{eventItem}}` you want to gift them",
+  "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <@User/UserID> <Amount>`",
+  "INVALID_USER": "{{author}} You cannot gift `{{eventItem}}` to yourself",
+  "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of items",
+  "NOT_ENOUGH_ITEM": "{{author}} You do not have **{{amount}}** `{{eventItem}}`",
+  "PLAYER_NOT_EXISTS": "{{author}} That user is not registered!",
+  "GIFT_SUCCESSFUL": "{{author}} has gifted **{{amount}}** `{{eventItem}}` to {{user}}\n{{user}} has received a total of **{{recieveCount}}** `{{eventItem}}`",
+  "EMBED_TITLE": "SOFI: GIFT",
+  "NO_ACTIVE_EVENT": "{{author}} There is no event currently active"
 }
