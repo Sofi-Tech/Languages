@@ -1,7 +1,7 @@
 {
     "EMBED_TITLE": "Captcha Card",
     "EMBED_FOOTER": "Claim the above card by writing the captcha",
-    "EXTRA_GRAB": "{{user}} Your **Extra Grab** is being used. You have **{{remaining}}** remaining",
+    "EXTRA_GRAB": "{{user}} Your extra `Grab` is being used. You have **{{remaining}}** remaining",
     "WAIT_TO_CLAIM": "{{user}} You must wait **{{cooldown}}** to claim another card",
     "TOOK_THE_CARD": "{{user}} took the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "BATTLED_AND_WON": "{{winner}} fought off {{user}} and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
