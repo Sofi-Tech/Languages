@@ -4,7 +4,7 @@
     "DROP": "Drop",
     "GRAB": "Grab",
     "VOTE": "Vote",
-    "BUMP": "BUMP",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "Daily",
     "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` अपठित मेल(s) | पढ़ने के लिए `{{customPrefix}}mail` का उपयोग करें"
 }
