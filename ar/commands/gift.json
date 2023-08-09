@@ -6,7 +6,6 @@
     "GIFT_SUCCESSFUL": "{{author}} لقد أهدى {{amount}} {{eventItem}} إلى {{user}} {{user}}لقد تلقى مجموع {{recieveCount}} {{eventItem}}",
     "EMBED_TITLE": "SOFI: هدية",
     "GIFT_SLASH_DESC": "أختار حساب تريد ان تهدية `{{eventItem}}` له",
-    "GIFT_DESCRIPTION": "هدية \"أغراض الحدث\" لحساب أخر",
     "GIFT_SLASH_DESC2": "ادخل الكمية من `{{eventItem}}` التي تريد أهدائها",
     "NOT_ENOUGH_ITEM": "{{author}} لا يوجد لديك **{{amount}}** `{{eventItem}}`",
     "GIFT_WRONG_USAGE": "{{author}} الأستخدام الصحيح `{{prefix}}gift <الحساب> <الكمية>`"

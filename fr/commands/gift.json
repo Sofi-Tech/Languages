@@ -4,7 +4,6 @@
     "GIFT_SUCCESSFUL": "{{author}} a offert **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} à reçu un total de **{{recieveCount}}** `{{eventItem}}`",
     "GIFT_CATEGORY": "Cards",
     "GIFT_SLASH_DESC": "Choisissez un utilisateur a qui vous souhaiter offrir des `{{eventItem}}`",
-    "GIFT_DESCRIPTION": "Offre des \"Event Items\" a un autre utilisateur",
     "GIFT_WRONG_USAGE": "{{author}} Utilisation correct: `{{prefix}}gift <Utilisateur> <Montant>`",
     "INVALID_USER": "{{author}} Vous ne pouvez pas vous offrir des `{{eventItem}}` a vous-même",
     "NOT_ENOUGH_ITEM": "{{author}} Vous ne possédez pas **{{amount}}** `{{eventItem}}`",

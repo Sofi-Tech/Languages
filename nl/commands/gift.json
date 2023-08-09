@@ -8,6 +8,5 @@
     "NOT_ENOUGH_ITEM": "{{author}} Je hebt geen **{{amount}}** `{{eventItem}}`",
     "EMBED_TITLE": "SOFI: GESCHENK",
     "GIFT_SLASH_DESC": "Kies een gebruiker aan wie je `{{eventItem}}` wilt geven",
-    "GIFT_DESCRIPTION": "Geef \"Event Items\" aan een andere gebruiker",
     "GIFT_WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}gift <User> <Amount>`"
 }
