@@ -1,20 +1,18 @@
 {
-  "DESCRIPTION": "Acquista \"Wists\" dal mercato in cambio di \"Gems\"",
-  "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}mbuy <IDdelOfferta> <WistQuantità>`",
-  "INVALID_DEAL_ID": "{{author}} L'ID offerta che hai fornito non è valido",
-  "CANNOT_PURCHASE": "{{user}} Non può acquistare quell'affare",
-  "CANNOT_SELF": "{{user}} Non puoi interagire con la tua offerta",
-  "WIST_NOT_EXCEED": "{{author}} Questo accordo ha solo {{amount}} `Wists` rimasti da acquistare",
-  "PRODUCT": "Ricevi:",
-  "VALUE": "Tu paghi:",
-  "RATE": "Tasso",
-
-  "ALREADY_IN_PURCHASE": "{{author}} Annulla o procedi con la tua transazione precedente prima di iniziarne una nuova!",
-
-  "PURCHASE_CANCELLED": "Quell'affare non è più disponibile",
-  "MISSING_GEMS": "Ti mancano {{gemPrice}} `Gems`",
-  "SOMETHING_WRONG": "Qualcosa è andato storto. Riprova",
-  "PURCHASE_SUCCESSFUL": "La transazione è andata a buon fine",
-  "SUCCESS": "{{wistAmount}} `Wist` sono stati acquistati per **{{gemPrice}}** `Gems`! | ID Offerta: {{dealId}}",
-  "MB_EMBED_TITLE": "MERCATO SOFI:"
+    "DESCRIPTION": "Acquista \"Wists\" dal mercato in cambio di \"Gems\"",
+    "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}mbuy <IDdelOfferta> <WistQuantità>`",
+    "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido",
+    "CANNOT_PURCHASE": "{{user}} Non può acquistare quell'affare",
+    "CANNOT_SELF": "{{user}} Non puoi interagire con la tua offerta",
+    "WIST_NOT_EXCEED": "{{author}} Questo accordo ha solo {{amount}} `Wists` rimasti da acquistare",
+    "PRODUCT": "Ricevi:",
+    "VALUE": "Tu paghi:",
+    "RATE": "Tasso",
+    "ALREADY_IN_PURCHASE": "{{author}} Annulla o procedi con la tua transazione precedente prima di iniziarne una nuova!",
+    "PURCHASE_CANCELLED": "Quell'affare non è più disponibile",
+    "MISSING_GEMS": "Ti mancano {{gemPrice}} `Gems`",
+    "SOMETHING_WRONG": "Qualcosa è andato storto. Riprova",
+    "PURCHASE_SUCCESSFUL": "La transazione è andata a buon fine",
+    "SUCCESS": "{{wistAmount}} `Wist` sono stati acquistati per **{{gemPrice}}** `Gems`! | ID Offerta: {{dealId}}",
+    "MB_EMBED_TITLE": "MERCATO SOFI:"
 }

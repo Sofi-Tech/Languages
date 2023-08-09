@@ -2,7 +2,7 @@
     "DESCRIPTION": "Inizia il gioco di indovina la parola",
     "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}guess <Quantità> <Valuta>`\nValute accettare: `Silver`, `Wists`, `Gems`, `Cubes`",
     "NO_TP": "{{author}} Hai bisogno di un `Trade Pass` attivo per ospitare un gioco di indovinelli",
-    "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per iniziare il gioco!",
+    "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza `{{currency}}` per iniziare il gioco",
     "INFO_1": "{{user}} ha iniziato una partita a Guess",
     "INFO_2": "I giocatori devono avere {{bet}} {{currency}} per giocare",
     "INFO_3": "Premio: `{{jackpot}}` {{currencyEmoji}}",

@@ -5,5 +5,5 @@
     "UNTAG_SUCCESSFUL": "{{author}} Rimosso con successo il `Tag` dalla carta **{{cardName}}**",
     "MULTIPLE_UNTAG": "{{author}} **{{count}}** carte non taggate con successo",
     "INVALID_CODE_MULTIPLE": "{{author}} I seguenti codici `Card` non sono validi o non sono nel tuo `Inventory`:\n{{invalidCodeList}}",
-    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nel tuo `Inventory`"
+    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nel tuo inventory"
 }

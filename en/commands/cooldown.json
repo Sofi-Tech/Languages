@@ -1,13 +1,13 @@
 {
-  "DESCRIPTION": "Displays the cooldown for these actions:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Click on the bell icons to receive Direct Message reminders for \"Drop\", \"Vote\" and \"Daily\"!",
-  "JOIN_SUPPORT_SERVER": "**[Join our official server for help!](https://discord.gg/sofi)**",
-  "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
-  "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
-  "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
-  "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-  "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-  "VOTE_LABEL": "Vote",
-  "UNREAD_MAIL": "\n📫 You have **{{checkUnreadMailsCount}}** unread {{mailCount}}",
-  "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
+    "DESCRIPTION": "Displays the cooldown for these actions:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Click on the bell icons to receive Direct Message reminders for \"Drop\", \"Vote\" and \"Daily\"!",
+    "JOIN_SUPPORT_SERVER": "**[Join our official server for help!](https://discord.gg/sofi)**",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "UNREAD_MAIL": "\n📫 You have **{{checkUnreadMailsCount}}** unread {{mailCount}}",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
 }
