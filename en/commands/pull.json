@@ -9,6 +9,6 @@
     "PULL_COUNT": "Pull Count: [ {{count}} ]",
     "PULL_CHANCES": "**__Probabilities__**",
     "MISSING_CURR": "{{user}} You don't have enough `{{currName}}` for this process",
-    "AMOUNT": "You received: {{currencyEmoji}} **{{amount}}x** `{{pullOutcome}}`",
+    "AMOUNT": "You received: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Pull Count: [ {{pullcount}} ]"
 }
