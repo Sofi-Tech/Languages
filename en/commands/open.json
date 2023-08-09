@@ -10,14 +10,14 @@
     "EMBED_TITLE": "SOFI: OPEN (`{{itemName}}`)",
     "SERIES": "Series:",
     "NAME": "Name:",
-    "CHEST_INFO": "Event chests can still be opened after an event has concluded",
-    "NOIR_FOUND": "Score! You found a <:noiressence:1115496193775116411> Noir Essence from the chest'",
+    "CHEST_INFO": "Event chests can be opened without an active event",
+    "NOIR_FOUND": "You found a <:noiressence:1115496193775116411> `Noir Essence` in your chest!",
     "PROVIDE_NUM": "{{author}} You can open a maximum of **10** `Chests` at once",
     "CHEST_MISSING": "{{author}} You don't have enough `{{chestName}}` in your inventory",
     "COMMON_INFO_1": "You have opened **{{totalChests}}** `{{chestName}}`",
     "ITEMS_FOUND": "**__Items obtained__**",
     "GUILD_CHEST_FOOTER": "You get a Guild Chest when each season ends",
-    "COMMON_RARE_FOOTER": "You can obtain a \"{{chestName}}\" by claiming your \"Daily\" rewards {{count}} times in a row",
+    "COMMON_RARE_FOOTER": "You can obtain a \"{{chestName}}\" by continuously claiming your daily rewards {{count}} times",
     "EXOTIC_DIVINE_FOOTER": "You can obtain {{article}} \"{{chestName}}\" by voting {{count}} times every month",
     "GUILD_PACKAGE_SUCCESS": "`Congratulations on your **Giyu Tomioka** 3D V2 <:sofi:1028358321637425292> + **{{amount}}** 💳\n\n- **__Current Card Pool __**\n<:curvedline:979665878503272478> Tomioka Giyu - {{currentClaim}}/245 claimed\n- __**Random amount of Gen Scratchers**__\n<:curvedline:979665878503272478> 1 - 3"
 }
