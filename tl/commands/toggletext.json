@@ -1,17 +1,17 @@
 {
-    "TT_DESCRIPTION": "Tinatanggal ang bisibilidad ng text sa isang card",
-    "TT_CATEGORY": "Cosmetics",
-    "PROVIDE_CARD_CODE": "{{author}} Tamang pag-gamit: `{{prefix}}tt <CardCode>`",
-    "INAVLID_CARD_CODE": "{{author}} Ang card code na iyong ibinigay ay maaaring hindi wasto o hindi sa iyong koleksyon",
-    "INVALID_CODE": "{{author}} Ikaw at wala pang kahit anong cards sa iyong koleksyon",
-    "CANNOT_FIND_CARD": "{{author}} Ang karakter na iyan ay hindi na nag e-exist!",
-    "CANNOT_TOGGLE": "{{author}} Hindi mo maaaring magpalipat-lipat ang text ng \"3D\" o \"GIF\" card",
-    "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-    "TT_CONFIRMATION": "Sigurado ka bang gusto mong **{{toggleInfo}}** \nAng prosesong ito ay nagkakahalaga ng **1000** <:_:915619222229512213>",
-    "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
-    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
-    "TT_ENABLE_SUCCESSFUL": "Ang texto ng card na ito ay natanggal na",
-    "TOGGLE_INFO_ADD": "magdagdag ng teksto sa kard",
-    "TOGGLE_INFO_REMOVE": "alisin ang teksto mula sa kard",
-    "TT_DISABLE_SUCCESSFUL": "Ang texto ng card ay natanggal na"
+  "TT_DESCRIPTION": "Tinatanggal ang bisibilidad ng text sa isang card",
+  "TT_CATEGORY": "Cosmetics",
+  "PROVIDE_CARD_CODE": "{{author}} Tamang pag-gamit: `{{prefix}}tt <CardCode>`",
+  "INAVLID_CARD_CODE": "{{author}} Ang card code na iyong ibinigay ay maaaring hindi wasto o hindi sa iyong koleksyon",
+
+  "CANNOT_FIND_CARD": "{{author}} Ang karakter na iyan ay hindi na nag e-exist!",
+  "CANNOT_TOGGLE": "{{author}} Hindi mo maaaring magpalipat-lipat ang text ng \"3D\" o \"GIF\" card",
+  "EMBED_TITLE": "SOFI: TOGGLE TEXT",
+  "TT_CONFIRMATION": "Sigurado ka bang gusto mong **{{toggleInfo}}** \nAng prosesong ito ay nagkakahalaga ng **1000** <:_:915619222229512213>",
+  "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
+  "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
+  "TT_ENABLE_SUCCESSFUL": "Ang texto ng card na ito ay natanggal na",
+  "TOGGLE_INFO_ADD": "magdagdag ng teksto sa kard",
+  "TOGGLE_INFO_REMOVE": "alisin ang teksto mula sa kard",
+  "TT_DISABLE_SUCCESSFUL": "Ang texto ng card ay natanggal na"
 }

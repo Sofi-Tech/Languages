@@ -3,7 +3,7 @@
   "TT_CATEGORY": "Cosmetics",
   "PROVIDE_CARD_CODE": "{{author}} Utilisation Correcte: `{{prefix}}tt <CodeDeCarte>`",
   "INAVLID_CARD_CODE": "{{author}} Ce code de carte est soit invalide ou n'est pas dans votre collection",
-  "INVALID_CODE": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
+
   "CANNOT_FIND_CARD": "{{author}} Ce personnage n'existe plus!",
   "CANNOT_TOGGLE": "{{author}} Vous ne pouvez pas basculer le texte pour les cartes \"3D\" ou \"GIF\"",
   "EMBED_TITLE": "SOFI: TOGGLE TEXT",

@@ -1,17 +1,17 @@
 {
-    "TT_DESCRIPTION": "पत्ते पे लगे हुए शब्द को हटाता/लगाता है",
-    "TT_CATEGORY": "सौंदर्य",
-    "PROVIDE_CARD_CODE": "{{author}} सही इस्तेमाल : `{{prefix}}tt <CardCode>`",
-    "INAVLID_CARD_CODE": "{{author}} दिया गया कार्ड कोड अमान्य है या आपके संग्रह में नहीं है",
-    "INVALID_CODE": "{{author}} आपके संग्रह में अभी तक कोई भी पत्ता नही है",
-    "CANNOT_FIND_CARD": "{{author}} वह पात्र अब मौजूद नहीं है!",
-    "CANNOT_TOGGLE": "{{author}} आप \"GIF\" या \"3D\" पत्ते से शब्द नही हटा सकते",
-    "EMBED_TITLE": "SOFI: शब्द हटाए/लगाए",
-    "TT_CONFIRMATION": "क्या आप वाकई में **{{toggleInfo}}** करना चाहते हैं\nयह प्रक्रिया में आपके **1000** <:_:915619222229512213> खर्च होंगे",
-    "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
-    "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त मात्रा में `Silver` नहीं है",
-    "TT_ENABLE_SUCCESSFUL": "पत्ते के शब्द सफलतापूर्वक लगा दिए गया है",
-    "TOGGLE_INFO_ADD": "पत्ते में शब्द जोड़े",
-    "TOGGLE_INFO_REMOVE": "पत्ते से सभी शब्द हटाएं",
-    "TT_DISABLE_SUCCESSFUL": "पत्ते के शब्द सफलतापूर्वक हटा दिए गए है"
+  "TT_DESCRIPTION": "पत्ते पे लगे हुए शब्द को हटाता/लगाता है",
+  "TT_CATEGORY": "सौंदर्य",
+  "PROVIDE_CARD_CODE": "{{author}} सही इस्तेमाल : `{{prefix}}tt <CardCode>`",
+  "INAVLID_CARD_CODE": "{{author}} दिया गया कार्ड कोड अमान्य है या आपके संग्रह में नहीं है",
+
+  "CANNOT_FIND_CARD": "{{author}} वह पात्र अब मौजूद नहीं है!",
+  "CANNOT_TOGGLE": "{{author}} आप \"GIF\" या \"3D\" पत्ते से शब्द नही हटा सकते",
+  "EMBED_TITLE": "SOFI: शब्द हटाए/लगाए",
+  "TT_CONFIRMATION": "क्या आप वाकई में **{{toggleInfo}}** करना चाहते हैं\nयह प्रक्रिया में आपके **1000** <:_:915619222229512213> खर्च होंगे",
+  "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
+  "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त मात्रा में `Silver` नहीं है",
+  "TT_ENABLE_SUCCESSFUL": "पत्ते के शब्द सफलतापूर्वक लगा दिए गया है",
+  "TOGGLE_INFO_ADD": "पत्ते में शब्द जोड़े",
+  "TOGGLE_INFO_REMOVE": "पत्ते से सभी शब्द हटाएं",
+  "TT_DISABLE_SUCCESSFUL": "पत्ते के शब्द सफलतापूर्वक हटा दिए गए है"
 }
