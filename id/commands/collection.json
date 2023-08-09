@@ -30,5 +30,9 @@
     "TAG_MODAL_PLACEHOLDER": "Gunakan \"-\" untuk menghapus \"Tag\" secara massal",
     "TAG_MODAL_TITLE": "Masukkan \"Tag\"",
     "TAG_NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu dengan `Tag`: `{{arg}}`",
-    "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut"
+    "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",
+    "EMBED_TITLE": "SOFI: KOLEKSI ({{username}})",
+    "MASSTAG_WRONG_TAG": "{{author}} Tidak dapat menemukan `Tag` dengan nama: `{{arg}}`",
+    "NO_RESULTS_OTHERS": "{{author}} Pengguna tersebut tidak memiliki kartu apa pun dalam koleksinya",
+    "EMBED_FOOTER": "Halaman: {{page}}/{{totalPages}} | Total kartu: {{count}} {{sortedBy}}"
 }

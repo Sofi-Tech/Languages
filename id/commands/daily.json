@@ -8,5 +8,6 @@
     "NOTE": "⚠️ Discord, serta Staf Sofi TIDAK AKAN PERNAH meminta kata sandi anda atau menyarankan anda untuk mengubah E-Mail Anda ke alamat tertentu. Waspadalah terhadap BOT pihak ketiga yang sering digunakan untuk upaya phishing serupa!\n\nSetiap aktivitas yang mencurigakan harus segera dilaporkan di {{link}}! ⚠️",
     "EMBED_FOOTER": "Konsekutif [ {{streak}} ] • {{streakBar}}",
     "DAILY_SUCCESS": "Berhasil mengklaim hadiah `Daily` Anda!",
-    "GUILD_BONUS": "**(Bonus Server 1,5x!)**"
+    "GUILD_BONUS": "**(Bonus Server 1,5x!)**",
+    "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
 }

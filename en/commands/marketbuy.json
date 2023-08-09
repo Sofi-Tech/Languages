@@ -3,16 +3,16 @@
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is invalid",
     "CANNOT_PURCHASE": "{{user}} Cannot purchase that deal",
-    "CANNOT_SELF": "{{user}} You cannot interact with your own order",
+    "CANNOT_SELF": "{{user}} You cannot buy from your own order",
     "WIST_NOT_EXCEED": "{{author}} The order only has **{{amount}}** `{{currency}}` left to buy",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY",
     "PRODUCT": "You receive:",
     "VALUE": "You pay:",
     "RATE": "Rate:",
-    "ALREADY_IN_PURCHASE": "{{author}} You already have an active transaction going",
+    "ALREADY_IN_PURCHASE": "{{author}} You have an active transaction window already",
     "PURCHASE_CANCELLED": "{{author}} That deal is no longer available",
     "MISSING_GEMS": "{{author}} You don't have enough `{{currency}}` for this transaction",
     "SOMETHING_WRONG": "{{author}} Something went wrong. Please try again",
-    "PURCHASE_SUCCESSFUL": "{{author}} Successfully bought **{{boughtCount}}** {{currencyEmoji}}",
-    "SUCCESS": "{{user}} You have successfully sold **{{orderPrice}}** {{currency}} for **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`"
+    "PURCHASE_SUCCESSFUL": "{{author}} Successfully bought **{{boughtCount}}** {{currency}}",
+    "SUCCESS": "{{user}} You have successfully sold **{{orderPrice}}** {{currency}} and received **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`"
 }

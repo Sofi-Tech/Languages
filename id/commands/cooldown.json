@@ -6,5 +6,6 @@
     "VOTE": "Vote",
     "BUMP": "Bump",
     "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 Anda memiliki **{{checkUnreadMailsCount}}** belum dibaca {{mailCount}}"
+    "UNREAD_MAIL": "\n📫 Anda memiliki **{{checkUnreadMailsCount}}** belum dibaca {{mailCount}}",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**"
 }
