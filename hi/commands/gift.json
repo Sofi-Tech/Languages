@@ -9,6 +9,5 @@
     "NOT_ENOUGH_ITEM": "{{author}} आपके पास **{{amount}}** `{{eventItem}}`नही है",
     "PLAYER_NOT_EXISTS": "{{author}} प्रदान किया गया उपयोगकर्ता अमान्य है",
     "GIFT_SUCCESSFUL": "{{author}} ने सफतलापूर्वक **{{amount}}**`{{eventItem}}` {{user}} को भेंट किए\n{{user}} को कुल **{{recieveCount}}** `{{eventItem}}`मिल चुके है",
-    "EMBED_TITLE": "SOFI:GIFT",
-    "NO_ACTIVE_EVENT": "कोई सक्रिय Event प्राप्त नहीं हुआ"
+    "EMBED_TITLE": "SOFI:GIFT"
 }

@@ -9,6 +9,5 @@
     "INVALID_USER": "{{author}} Anda tidak dapat memberi hadiah `{{eventItem}}` kepada diri sendiri",
     "NOT_ENOUGH_ITEM": "{{author}} Anda tidak punya **{{amount}}** `{{eventItem}}`",
     "GIFT_SUCCESSFUL": "{{author}} telah memberikan **{{amount}}** `{{eventItem}}` kepada {{user}}\n{{user}} telah menerima total **{{recieveCount}}** `{{eventItem}}`",
-    "NO_ACTIVE_EVENT": "{{author}}Tidak ada event aktif yang ditemukan",
     "EMBED_TITLE": "SOFI: GIFT"
 }

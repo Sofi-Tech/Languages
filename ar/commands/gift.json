@@ -4,7 +4,6 @@
     "PLAYER_NOT_EXISTS": "{{author}} هذا الأعب غير موجود",
     "INVALID_USER": "{{author}} لا تستطيع ان تهدي `{{eventItem}}` لنفسك",
     "GIFT_SUCCESSFUL": "{{author}} لقد أهدى {{amount}} {{eventItem}} إلى {{user}} {{user}}لقد تلقى مجموع {{recieveCount}} {{eventItem}}",
-    "NO_ACTIVE_EVENT": "لا يوجد حدث نشط",
     "EMBED_TITLE": "SOFI: هدية",
     "GIFT_SLASH_DESC": "أختار حساب تريد ان تهدية `{{eventItem}}` له",
     "GIFT_DESCRIPTION": "هدية \"أغراض الحدث\" لحساب أخر",
