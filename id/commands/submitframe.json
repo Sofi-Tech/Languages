@@ -1,1 +1,25 @@
-{}
+{
+    "SF_PNG_ONLY": "{{author}} Link yang dikirim harus dengan format file `PNG`",
+    "SUBMIT_FRAME_SUCCESSFUL": "{{author}} `Frame` telah berhasil diajukan",
+    "GUIDELINES_EMBED_TITLE": "SOFI: PENGAJUAN `FRAME`",
+    "SF_DISCORD_LINK": "{{author}} Gambar yang di ajukan harus menggunakan link Discord resmi, seperti `cdn.discordapp.com`atau `media.discordapp.net`",
+    "SF_STAFF_INFO": "\n⚠️ Jangan meng-ping staff untuk mempercepat proses pengiriman anda!\n",
+    "SF_MAXIMUM_INFO": ":notepad_spiral: __Info Tambahan__:\n",
+    "SF_COST_INFO": "<:_:979009081325019156> Mengirim gambar akan dikenakan biaya **3,000** `Silver`",
+    "SF_EMBED_FOOTER": "Pengajuan anda: {{userStats}}/{{submitted}} | Total Pengajuan: {{globalStats}}/{{allSubmit}}",
+    "SUBMIT_FRAME_DENY": "{{author}} Anda tidak memiliki cukup `Silver` untuk transaksi ini",
+    "SF_DIMENSION_INFO": "<:_:979009081325019156> Ukuran gambar yang diajukan **harus** `402x603`",
+    "SF_REPLICA_INFO": "<:_:979009081325019156> Gambar yang diajukan **harus** buatan anda sendiri dan tidak boleh meniru karya yang telah ada",
+    "SF_VISIBILITY_INFO": "<:_:979009081325019156> Gambar yang dikirim **harus** pas dengan batas pingir kartu dan memiliki area yang tepat dan jelas untuk ditampilkan",
+    "SF_ROTATION_INFO": "<:_:979009081325019156> `Frame` yang disetujui akan tersedia di rotasi `Frame Shop` dan stok maximal **100**",
+    "SF_ATTACHMENT_INFO": "<:_:979009081325019156> Anda dapat mendownload tes [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) agar dapat lebih memahami persyaratan kita",
+    "SF_VALID_DIMENSION": "{{author}} Gambar yang diajukan tidak memiliki ukuran yang valid! `297x465`",
+    "SF_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}sf <ImageURL> <NamaFrame>`",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Nama dari `Frame` hanya bisa sepanjang **20** karakter",
+    "SF_EMBED_TITLE": "SOFI: PENGAJUAN FRAME ({{name}})",
+    "SF_DESCRIPTION": "Pengajuan \"Frame\"",
+    "SF_CATEGORY": "Pengaturan",
+    "SF_FILETYPE_INFO": "<:_:979009081325019156> Gambar yang diajukan **harus** dengan file `PNG` untuk menjaga transparansinya",
+    "SF_LINK_INFO": "<:_:979009081325019156> Gambar yang diajukan harus menggunakan link Discord resmi, seperti `cdn.discordapp.com` atau `media.discordapp.net`",
+    "SUBMIT_FRAME_CONFIRMATION": "Apakah anda akan mengirim `Frame` ini seharga **3000** `Silver`?"
+}
