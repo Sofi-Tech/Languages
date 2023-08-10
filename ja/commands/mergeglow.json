@@ -1,7 +1,7 @@
 {
   "MG_DESCRIPTION": "溶剤を受け取るために、グローをマージしてください",
   "MG_CATEGORY": "化粧品",
-  "NO_GLOWS": "{{author}}さんのコレクションからグローが見つかりません..",
+
   "GLOW_CODES_MISSING": "{{author}}さんのグローコードが足りません | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
   "GLOWS_UNAVAILABLE": "{{author}}さん、一部のグローが利用できません: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}}さん、すべてのグローコードは一意でなければなりません",

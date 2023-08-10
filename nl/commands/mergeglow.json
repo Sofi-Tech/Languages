@@ -1,7 +1,7 @@
 {
   "MG_DESCRIPTION": "Samenvoeg de gloeiers om hars te ontvangen",
   "MG_CATEGORY": "Cosmetica",
-  "NO_GLOWS": "{{author}} kan geen gloeiers vinden in jouw collectie..",
+
   "GLOW_CODES_MISSING": "{{author}} gloeicode(s) ontbreken | `gloeiersamenvoegen [gloeicode1] [gloeicode2] [gloeicode3] [gloeicode4]`",
   "GLOWS_UNAVAILABLE": "{{author}} Sommige gloeiers zijn niet beschikbaar: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}} moet elke gloeicode uniek zijn",

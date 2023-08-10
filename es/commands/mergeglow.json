@@ -1,7 +1,7 @@
 {
   "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" únicos para obtener \"Resin\"",
   "MG_CATEGORY": "Cosméticos",
-  "NO_GLOWS": "{{author}} Aún no tienes ningún `Glow`",
+
   "GLOW_CODES_MISSING": "{{author}} Uso correcto: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
   "GLOWS_UNAVAILABLE": "{{author}} Los siguientes `Glows` están vacíos: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}} Necesitas 4 `Glows` únicos para este proceso",

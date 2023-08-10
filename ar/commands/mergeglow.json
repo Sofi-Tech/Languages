@@ -1,7 +1,7 @@
 {
   "MG_DESCRIPTION": "دمج اللمعانات لاستلام الريزن",
   "MG_CATEGORY": "مستحضرات التجميل",
-  "NO_GLOWS": "{{author}} لا يمكنه العثور على أي لمعانات في مجموعتك...",
+
   "GLOW_CODES_MISSING": "{{author}} أكواد اللمعانات مفقودة | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
   "GLOWS_UNAVAILABLE": "{{author}} بعض اللمعانات غير متاحة: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}} يجب أن تكون أكواد اللمعانات فريدة",

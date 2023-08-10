@@ -1,7 +1,7 @@
 {
   "MG_DESCRIPTION": "合并发光体，可获得树脂",
   "MG_CATEGORY": "化妆品",
-  "NO_GLOWS": "{{author}} 发现您的收藏中没有发光体。",
+
   "GLOW_CODES_MISSING": "{{author}} 发光体代码缺失 | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
   "GLOWS_UNAVAILABLE": "{{author}} 部分发光体不可用: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}} 每个发光体代码必须唯一",
