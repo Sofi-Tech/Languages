@@ -1,14 +1,12 @@
 {
   "SG_DESCRIPTION": "दो Glow को एक साथ मिलाकर उससे Super Glow में तब्दील कर सकते है",
   "SG_CATEGORY": "COSMETICS",
-  "NO_GLOWS": "{{author}} आपके संग्रह में कोई Glow नही है",
+
   "GLOW_CODES_MISSING": "{{author}} सही उपयोग: `{{prefix}}sg <Glowcode1> <glowcode2>`",
   "GLOW_NOT_FOUND": "{{author}} प्रदान की गई Glow कोड अवैध है कृपया जांच करके दुबारा कोशिश करे",
   "UNAVAILABLE_GLOW": "{{author}} प्रदान की गई Glows में से एक खाली है , कृपया जांच करे",
   "NO_USE_SG": "{{author}} आप एक Super Glow से दूसरी Super Glow नही बना सकते है , दोनो Glow सामान्य होनी आवश्यक है!",
   "SAME_GLOWS": "{{author}} आप एक ही Glow को दो बार उपयोग में नहीं ले सके है इस प्रक्रिया के लिए",
-  "UNAVAILABLE": "अनुपलब्ध",
-  "AVAILABLE": "उपलब्ध",
 
   "EMBED_TITLE": "SOFI: SUPER Glow",
   "FORM_SG_CONFIRM": "आप इन Items का उपयोग करने जा रहे है\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nSuper Glow प्राप्त करने के लिए --> **`{{superGlowName}}`**",
