@@ -8,7 +8,7 @@
     "SUPPORT_BUTTON_LABEL": "Support",
     "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __You have been blacklisted for violating Sofi's rules!__\n\n**A list of possible reasons that may have caused this:**\n```CSS\n- Interacting with Sofi on multiple accounts (Alting)\n- Selling or Buying entire Discord accounts\n- Scamming other users\n- Taking advantage or being involved with any of the above activities\n```\n\n:link: [Appeal your blacklist](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
     "VERIFY_TO_PLAY": "[Verify yourself on our website to play!](<https://sofi.gg/verify>)",
-    "USER_QUARANTINED": "That user is {{isQuarantined}}",
+    "USER_QUARANTINED": "{{author}} That user is {{isQuarantined}}",
     "USER_BLACKLISTED": "<:banhammer:1109864225259671614> {{author}} That user is blacklisted",
     "GLOBAL_COOLDOWN": "> [`Global`] Wait **{{cooldown}}** before using this command again",
     "COMMAND_BLACKLISTED": "> The command `{{commandName}}` is disabled in this channel",
