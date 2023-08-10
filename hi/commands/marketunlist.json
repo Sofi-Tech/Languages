@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "बाजार से डील हटाएं",
-    "CORRECT_USAGE": "{{user}} | कृपया डील ID प्रदान करे या सभी डील एक साथ हटाने के लिए `smul all` का उपयोग करें",
+    "CORRECT_USAGE": "{{user}} सही उपयोग: `{{prefix}}mul <Order-ID/All>`",
     "INVALID_DEAL_ID": "{{author}} अवैध डील ID प्रदान की गई या यह आपकी डील नहीं है",
     "SUCCESS_UL": "{{user}} {{dealId}} को बाजार से सफलतापूर्वक हटा दिया गया है",
     "NO_LISTINGS_FOUND": "{{user}} आपने अभी तक बाजार में कोई सौदा सांझा नहीं किया है",
