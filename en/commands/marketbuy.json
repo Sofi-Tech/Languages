@@ -2,7 +2,7 @@
     "DESCRIPTION": "Purchases \"Wists\" from the market in exchange for \"Gems\"",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is invalid",
-    "CANNOT_PURCHASE": "{{user}} Cannot purchase that deal",
+    "CANNOT_PURCHASE": "{{user}} You cannot interact with this order",
     "CANNOT_SELF": "{{user}} You cannot buy from your own order",
     "WIST_NOT_EXCEED": "{{author}} The order only has **{{amount}}** `{{currency}}` left to buy",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY",
