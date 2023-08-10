@@ -7,6 +7,6 @@
     "GRAB_EVENT_ITEM": "{{winner}} fought off **{{userCount}}** other users and received **{{amount}}** `{{eventItem}}`",
     "GRAB_CARD": "{{winner}} fought off {{user}} and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "These cards can no longer be obtained",
-    "CARDS_DROPPED_BY": "{{user}} is **dropping** cards\n",
+    "CARDS_DROPPED_BY": "{{user}} has **dropped** cards\n",
     "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }
