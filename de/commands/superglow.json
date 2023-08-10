@@ -1,16 +1,14 @@
 {
-  "SG_DESCRIPTION": "Fusioniere zwei \"Glows\", um einen \"Super Glow\" zu erhalten",
-  "SG_CATEGORY": "Kosmetika",
-
-  "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}sg <GlowCode1> <GlowCode2>`",
-  "GLOW_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist ungültig",
-  "UNAVAILABLE_GLOW": "{{author}} Mindestens einer der angegebenen `Glows` ist nicht verfügbar",
-  "NO_USE_SG": "{{author}} Du kannst `Super Glows` nicht verwenden um einen anderen `Super Glow` zu erstellen!",
-  "SAME_GLOWS": "{{author}} Du kannst für diesen Vorgang nicht zweimal denselben `Glow` verwenden",
-
-  "EMBED_TITLE": "SOFI: SUPER GLOW",
-  "FORM_SG_CONFIRM": "Du bist dabei die folgenden `Items`zu benutzen:**\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\n**um den `Super Glow`** `{{superGlowName}}` zu erhalten**",
-  "MISSING_RESINS": "Dir fehlen die benötigten `Resin` um einen `Super Glow` zu erstellen",
-  "SUPER_GLOW_SUCCESSFUL": "Deine `Glows` wurden erfolgreich `merged`!\n",
-  "FORM_SG_FOOTER": "Alle in diesem Vorgang benutzten `Glows` werden zerstört!"
+    "SG_DESCRIPTION": "Fusioniere zwei \"Glows\", um einen \"Super Glow\" zu erhalten",
+    "SG_CATEGORY": "Kosmetika",
+    "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist ungültig",
+    "UNAVAILABLE_GLOW": "{{author}} Mindestens einer der angegebenen `Glows` ist nicht verfügbar",
+    "NO_USE_SG": "{{author}} Du kannst `Super Glows` nicht verwenden um einen anderen `Super Glow` zu erstellen!",
+    "SAME_GLOWS": "{{author}} Du kannst für diesen Vorgang nicht zweimal denselben `Glow` verwenden",
+    "EMBED_TITLE": "SOFI: SUPER GLOW",
+    "FORM_SG_CONFIRM": "Du bist dabei die folgenden `Items`zu benutzen:**\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\n**um den `Super Glow`** `{{superGlowName}}` zu erhalten**",
+    "MISSING_RESINS": "Dir fehlen die benötigten `Resin` um einen `Super Glow` zu erstellen",
+    "SUPER_GLOW_SUCCESSFUL": "Deine `Glows` wurden erfolgreich `merged`!\n",
+    "FORM_SG_FOOTER": "Alle in diesem Vorgang benutzten `Glows` werden zerstört!"
 }

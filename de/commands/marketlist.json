@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Bietet deine \"Wists\" auf dem Markt an, die mit \"Gems\" von anderen Spielern gekauft werden können",
-  "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}ml <Amount> <Rate>`",
-  "INVALID_GEM_RATE": "{{user}} Du musst eine Zahl zwischen **3.0** & **20.0** eingeben!",
-  "GEM_RATE_LIES": "{{user}} Du musst eine Zahl zwischen **3.0** & **20.0** eingeben!",
-  "ALREADY_EXISTS": "{{author}} Du hast bereits einen vorhandenen Deal!\nVerwende `{{prefix}}mul {{dealID}}` um ihn zu entfernen, bevor du einen neuen listest",
-  "PRODUCTS": "Du listest:",
-  "RATE": "Rate:",
-  "VALUE": "Gesamtwert:",
-
-  "CANCELLED": "Der Vorgang wurde abgebrochen",
-  "NOT_ENOUGH_CANCEL": "Du versuchst mehr `Wists` zu anzubieten, als du hast",
-  "SUCCESS": "Der Deal wurde erfolgreich gelistet",
-  "EMBED_TITLE": "SOFI MARKT:"
+    "DESCRIPTION": "Bietet deine \"Wists\" auf dem Markt an, die mit \"Gems\" von anderen Spielern gekauft werden können",
+    "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}ml <Amount> <Rate>`",
+    "INVALID_GEM_RATE": "{{user}} Die angegebene Rate ist ungültig",
+    "GEM_RATE_LIES": "{{user}} Die angegebene Rate muss zwischen **3.0 - 20.0** sein",
+    "ALREADY_EXISTS": "{{author}} Du hast bereits einen vorhandenen Deal!\nVerwende `{{prefix}}mul {{dealID}}` um ihn zu entfernen, bevor du einen neuen listest",
+    "PRODUCTS": "Du listest:",
+    "RATE": "Rate:",
+    "VALUE": "Gesamtwert:",
+    "CANCELLED": "Der Vorgang wurde abgebrochen",
+    "NOT_ENOUGH_CANCEL": "Du versuchst mehr `Wists` zu anzubieten, als du hast",
+    "SUCCESS": "Der Deal wurde erfolgreich gelistet",
+    "EMBED_TITLE": "SOFI MARKT:",
+    "INVALID_WIST_AMOUNT": "{{author}} Du musst mindestens **10** `Wists` anbieten"
 }

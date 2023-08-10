@@ -1,7 +1,7 @@
 {
     "PVT_DESCRIPTION": "Setzt deine \"Sammlung\", \"Wunschliste\" oder dein \"Inventory\" auf Privat",
     "PVT_CATEGORY": "Einstellungen",
-    "WRONG_ARGUMENTS": "{{author}} Richtige verwendung: `{{prefix}}pvt <C/WL/INV>`",
+    "WRONG_ARGUMENTS": "{{author}} Korrekte Verwendung: `{{prefix}}pvt <C/WL/INV>`",
     "PRIVATE_ENABLED": "{{author}} Dein **{{content}}** ist jetzt privat",
     "PRIVATE_DISABLED": "{{author}} Dein **{{content}}** ist nicht mehr privat"
 }

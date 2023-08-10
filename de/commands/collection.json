@@ -24,7 +24,7 @@
     "ALL_TAG_SUCCESS": "{{author}} Der folgende `Tag` wurde erfolgreich allen **{{taglength}}** Karten hinzugefügt: `{{tagName}}`",
     "PLEASE_WAIT": "Bitte Warten <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}}Du hast noch keine `Tags`. Du kannst sie mit dem Befehl `{{prefix}}tc <TagName> <Emoji>` erstellen",
-    "NOT_AVAILABLE": "Nicht Verfügbar",
+    "NOT_AVAILABLE": "`Ungültige Serie`",
     "SORT_LEVEL": "Level",
     "EMBED_TITLE": "SOFI: COLLECTION {{username}}",
     "TAG_MODAL_LABEL": "Massen-Tag",

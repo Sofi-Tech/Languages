@@ -2,7 +2,7 @@
     "DESCRIPTION": "Startet ein Wort-Ratespiel",
     "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}guess <Betrag> <Währung>`\nAkzeptierte Währungen: `Silver` , `Wists` , `Gems` , `Cubes`",
     "NO_TP": "{{author}} Du benötigst einen aktiven `Trade Pass` um ein Ratespiel hosten zu können",
-    "NOT_ENOUGH_CURR": "{{user}} Du hast nicht genug `{{currency}}`, um das Spiel zu starten",
+    "NOT_ENOUGH_CURR": "{{user}} Du hast nicht genügend `{{currency}}`, um das Spiel zu starten",
     "INFO_1": "{{user}} hat ein Ratespiel gestartet!",
     "INFO_2": "Teilnahme Gebühr: **{{bet}}** {{currencyEmoji}}",
     "INFO_3": "Preispool **{{jackpot}}** {{currencyEmoji}}",

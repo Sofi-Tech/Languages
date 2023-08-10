@@ -2,7 +2,7 @@
     "GIFT_SLASH_DESC": "Wähle einen Benutzer aus, dem du `{{eventItem}}` schenken möchtest",
     "INVALID_AMOUNT": "{{author}} Die angegebene Menge ist ungültig",
     "GIFT_CATEGORY": "Karten",
-    "GIFT_WRONG_USAGE": "{{author}} Richtige Verwendung: `{{prefix}}gift <@User/UserID> <Amount>`",
+    "GIFT_WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gift <@User/UserID> <Amount>`",
     "GIFT_SLASH_DESC2": "Gib die Menge an `{{eventItem}}` ein, die du verschenken möchtest",
     "GIFT_SUCCESSFUL": "{{author}} hat {{user}} **{{amount}}** `{{eventItem}}`geschenkt\n{{user}} hat insgesamt **{{recieveCount}}** `{{eventItem}}`erhalten",
     "INVALID_USER": "{{author}} Du kannst dir selbst keine `{{eventItem}}` schenken",

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Brucia una moltitudine di carte subito",
     "IN_ACTIVE_MB": "{{user}} Non puoi avviare un nuovo `massburn` mentre quello vecchio è ancora attivo",
-    "PROVIDE_FILTERS": "Fornisci un filtro che vuoi applicare per il processo di bruciatura delle carte! `t=<TagNome, g><=gen, wl><=wishlist`",
+    "PROVIDE_FILTERS": "{{author}} Corretto uso: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Puoi trovare una comprensiva lista di filtri con il comando \"{{prefix}}Aiuto filtri\"\n```",
     "WRONG_TAG": "{{author}} Il nome `Tag` che hai fornito non è valido",
     "NO_CARDS_FOUND": "{{author}} Non hai ancora carte nella tua collezione",
     "CARDS_BURNED": "Carte Bruciate **{{totalCards}}**",
