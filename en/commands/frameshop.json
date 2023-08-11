@@ -23,7 +23,7 @@
     "EDIT_IMAGE_SUCCESSFUL": "The process was successfully completed",
     "EDIT_FRAME_IMG_CONFIRM": "Are your sure you want to send a `Frame` edit request?",
     "EDIT_DESC_LONG": "Descriptions can only fit a maximum of 400 characters",
-    "EDIT_DESC_CONFIRM": "Are you sure you want to display the following text on your profile?\nAre you sure you want to set the following description for your `Frame`?\n\n```fix\n{{newDescription}}\n```",
+    "EDIT_DESC_CONFIRM": "Are you sure you want to set the following description for your `Frame`?\n\n```fix\n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "DAILY FRAME SHOP: [Refreshes <t:{{time}}:R>]",
     "EMBED_DFS_FOOTER": "The above `Frames` are currently on rotation! Use the command `sbf <name/code>` to purchase one",
     "DFS_MENU_PLACEHOLDER": "Select a Category",
