@@ -8,7 +8,7 @@
     "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "You get:",
     "YOU_PAY": "You pay:",
-    "NO_ENOUGH_AMOUNT": "{{author}} You don't have enough `{{currency}}` for this transaction",
+    "NO_ENOUGH_AMOUNT": "{{author}} You don't have enough `{{currency}}` to make this purchase",
     "FRAME_PURCHASED_BY": "Your **{{frame}}** `Frame` has been purchased by `{{userId}}`| {{buyCount}}",
     "TRANSACTION_SUCCESSFUL": "{{author}} Successfully purchased the **{{frameName}}** `Frame`",
     "PROCESS_CANCELLED": "The process has been cancelled"
