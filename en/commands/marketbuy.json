@@ -13,6 +13,6 @@
     "PURCHASE_CANCELLED": "{{author}} That deal is no longer available",
     "MISSING_GEMS": "{{author}} You don't have enough `{{currency}}` for this transaction",
     "SOMETHING_WRONG": "{{author}} Something went wrong. Please try again",
-    "PURCHASE_SUCCESSFUL": "{{author}} Successfully bought **{{boughtCount}}** {{currency}}",
+    "PURCHASE_SUCCESSFUL": "{{author}} Successfully purchased **{{boughtCount}}** {{currency}}",
     "SUCCESS": "{{user}} You have successfully sold **{{orderPrice}}** {{currency}} and received **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`"
 }
