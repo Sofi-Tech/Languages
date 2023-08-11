@@ -5,7 +5,7 @@
     "NOT_CARD_OWNER": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "3D_ERROR": "{{author}} Non puoi applicare un colore di carattere diverso a una variante `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Utilizzo corretto: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "WRONG_GLOWCODE": "{{author}} I codici `Glow` iniziano sempre con un **#**",
+    "WRONG_GLOWCODE": "{{author}} I codici `Glow` iniziano sempre con un `#`",
     "CANNOT_FIND_GLOW": "{{author}} Il codice `Glow` che hai fornito non è valido o non è presente nel tuo `Inventory`",
     "EMBED_TITLE": "SOFI: COLORE FONT{{reset}}",
     "COLOR_NAME": "Nome: **{{name}}**",

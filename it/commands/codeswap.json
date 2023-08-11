@@ -1,7 +1,7 @@
 {
-  "DESCRIPTION": "Questo scambierà i codici delle due carte citate",
-  "SLASH_DESC": "Inserisci il primo codice",
-  "SLASH_DESC2": "Inserisci il secondo codice",
-  "CORRECT_USAGE": "Inserisci codici delle due carte",
-  "INVALID_CODES_PROVIDED": "{{author}} Inserisci due codici carta validi"
+    "DESCRIPTION": "Questo scambierà i codici delle due carte citate",
+    "SLASH_DESC": "Inserisci il primo codice",
+    "SLASH_DESC2": "Inserisci il secondo codice",
+    "CORRECT_USAGE": "Inserisci codici delle due carte",
+    "INVALID_CODES_PROVIDED": "{{author}} Almeno uno dei codici carta che hai fornito non è valido o non è nella tua collezione"
 }

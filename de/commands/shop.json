@@ -1,16 +1,18 @@
 {
-  "DESCRIPTION": "Kauft \"Items\" in Sofi's \"Shop\"",
-  "GUILD": "Gilde",
-  "GEMS": "Kaufe Gems!",
-  "SOFI_SHOP": "SOFI: SHOP",
-
-  "DROP": "> `Drops` können verwendet werden, um weitere Karten zu **droppen**, während du noch Abklingzeit hast",
-  "GRAB": "> `Grabs` können benutzt werden um weitere Karten **einzusammeln**, während du noch Abklingzeit hast",
-  "CUBE": "> `Cubes` werden benutzt, um Karten in ihre `3D`-Varianten umzuwandeln",
-  "TP": "> Der `Trade Pass` ist erforderlich, um Zugriff auf Minigames zu erhalten und Multi-Trades durchzuführen",
-  "GUILD_STONE": "> `Guild Stones` sind erforderlich, um eine `Guild` zu erstellen",
-  "BG": "> `Backgrounds` können auf `3D`-Karten angewendet werden",
-  "RECHARGE": "> Füllt deinen `Glow` wieder auf",
-  "GEN_S": "> `Scratchers` enthüllen die `Gen` einer `Event` Karte",
-  "STAT_RESET": "> Setzt die verteilten Statuspunkte einer Karte zurück"
+    "DESCRIPTION": "Kauft \"Items\" in Sofi's \"Shop\"",
+    "GUILD": "Gilde",
+    "GEMS": "Kaufe",
+    "SOFI_SHOP": "SOFI: SHOP ({{section}})",
+    "DROP": "> `Drops` können verwendet werden, um weitere Karten zu **droppen**, während du noch Abklingzeit hast",
+    "GRAB": "> `Grabs` können benutzt werden um weitere Karten **einzusammeln**, während du noch Abklingzeit hast",
+    "CUBE": "> `Cubes` werden benutzt, um Karten in ihre `3D`-Varianten umzuwandeln",
+    "TP": "> Der `Trade Pass` ist erforderlich, um mit anderen Spielern zu handeln",
+    "GUILD_STONE": "> `Guild Stones` sind erforderlich, um eine `Guild` zu erstellen",
+    "BG": "> `Backgrounds` können auf `3D`-Karten angewendet werden",
+    "RECHARGE": "> `Recharges` können verwendet werden, um deinen `Glow` wieder aufzufüllen",
+    "GEN_S": "> `Scratchers` enthüllen die `Gen` einer `Event` Karte",
+    "STAT_RESET": "> Setzt die verteilten Statuspunkte einer Karte zurück",
+    "UTILITY": "Utility",
+    "DONATE_SUPPORT": "Unterstütze uns, indem du ein Patron wirst!",
+    "BUY_STAT_RESET": "**1) `{{prefix}}buy sr` | <:elixir:979673719884636210> 2,000x `Elixir` ➜ 🌀 1x `Stat Reset`**"
 }

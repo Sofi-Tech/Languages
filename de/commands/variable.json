@@ -13,7 +13,7 @@
     "MONTHS": "Monate",
     "YEAR": "Jahr",
     "YEARS": "Jahre",
-    "SUCCESS": "ERFOLG",
+    "SUCCESS": "Der Vorgang wurde erfolgreich abgeschlossen",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "PROCESSING": "Deine Anfrage wird bearbeitet...<a:loading:876610443148406794>",
     "UNAVAILABLE": "Leer",
@@ -29,5 +29,8 @@
     "MEMBER_NOT_VERIFIED": "{{author}} Dieser Benutzer ist nicht verifiziert",
     "NOT_REGISTERED": "{{author}} Dieser Benutzer ist nicht registriert!",
     "MEMBER_QUARANTINED": "{{author}} Dieser Benutzer befindet sich in Quarantäne",
-    "NEGATIVE_AMOUNT": "{{author}} Du kannst keine negative Menge an Artikeln kaufen"
+    "NEGATIVE_AMOUNT": "{{author}} Du kannst keine negative Menge eines Items kaufen",
+    "NAME": "Name:",
+    "AUTHOR_UNVERIFIED": "{{author}} Du bist nicht verifiziert",
+    "SERIES": "Serie:"
 }

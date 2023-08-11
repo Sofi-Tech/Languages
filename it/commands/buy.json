@@ -3,9 +3,9 @@
     "SLASH_DESC": "Inserisci il nome del Item che desideri acquistare",
     "SLASH_DESC2": "Inserisci la quantità",
     "SLASH_DESC3": "Inserisci il codice dello `Background` che desideri acquistare. [FUNZIONA SOLO SE L'OGGETTO È SELEZIONATO COME BACKGROUND]",
-    "NO_ITEM": "Inserisci un `Item` da acquistare",
-    "TRADEPASS_INFO": "Puoi scambiare **__1x__** `Bump` con un `Trade Pass` di 4 ore o risparmiare **__20x__**`Bumps` per acquistare un `Trade Pass` di 30 giorni",
-    "CORRECT_USAGE": "{{USER}} Uso corretto: `{{prefix}}buy bg <Background-ID> <quantità>`",
+    "NO_ITEM": "{{author}} Utilizzo corretto: `{{prefix}}compra <ItemName> <Amount>`",
+    "TRADEPASS_INFO": "Visita il nostro sito Web di seguito per `Bump` e scambia i tuoi punti con diversi articoli, incluso il `Trade Pass`",
+    "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}buy bg <Background-ID> <Amount>`",
     "INVALID_BG_AMOUNT": "Non inserire valori negativi",
     "INVALID_BG_ID": "Fornisci un ID `Background` valido",
     "INVALID_ITEM_PROVIDED": "{{USER}} `Item` fornito non valido"

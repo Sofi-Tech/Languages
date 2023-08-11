@@ -3,8 +3,9 @@
     "JOIN_SUPPORT_SERVER": "[Unisciti al Server di Supporto per ricevere aiuto!](https://discord.gg/sofi)",
     "DROP": "Drop",
     "GRAB": "Grab",
-    "VOTE": "Vote",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "Bump",
-    "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mail(s) non letta | Digita `{{customPrefix}}mail`per leggerli!"
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mail(s) non letta | Digita `{{customPrefix}}mail`per leggerli!",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**"
 }

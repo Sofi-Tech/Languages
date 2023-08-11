@@ -1,1 +1,9 @@
-{}
+{
+    "PERMS_DESCRIPTION": "Memungkinkan anda untuk menggunakan atau mematikan perintah di channel.",
+    "PERMS_CATEGORY": "Pengaturan",
+    "BLACKLIST_BUTTON_LABEL": "Daftar Hitam",
+    "WHITELIST_BUTTON_LABEL": "Daftar Putih",
+    "PERMS_EMBED_TITLE": "SOFI: IZIN",
+    "BLACKLISTING_INFO": "Daftar Hitam: Batasi perintah yang akan digunakan di channel ini",
+    "BLACKLISTING_USAGE": "Cara Menggunakan: `{{prefix}}p bl add/rem <CommandName/All>`\n"
+}

@@ -2,5 +2,5 @@
     "DESCRIPTION": "Visualizza il mercato di Sofi",
     "NO_LISTING_FOUND": "{{author}} Non è riuscito a trovare alcun ordine sul mercato",
     "MARKET_WARN": "Non utilizzare il mercato per conservare o nascondere `Wists`!\nSe vieni sorpreso a farlo, i `Wists` verranno rimossi senza compenso.\nTasso Medio: **`{{averageRate}}`** Mestieri Totali: **`{{totalTrades}}`**",
-    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!"
+    "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}"
 }

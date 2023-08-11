@@ -2,7 +2,7 @@
     "DESCRIPTION": "Aumenta la capacità della tua lista dei desideri",
     "CATEGORY": "Lista dei desideri",
     "ALREADY_MAXED": "{{author}} Non puoi più aggiungere alla tua lista dei desideri",
-    "EMBED_DESCRIPTION": "Vuoi acquistare {{count}} slot extra per {{amount}} {{currency}}?",
+    "EMBED_DESCRIPTION": "Sei sicuro di voler acquistare **{{count}}** slot extra per **{{amount}}** `{{currency}}`?",
     "EMBED_PAY_FIELD_NAME": "Pagherai:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Avrai:",
@@ -10,5 +10,6 @@
     "EMBED_MAXED_DESCRIPTION": "Vuoi raggiungere il limite massimo di spazi per la tua lista dei desideri per {{amount}} {{currency}}?",
     "EMBED_MAXED_FIELD_VALUE": "```Una lista dei desideri completamente sbloccata (50 slot)```",
     "CANCELLED": "Il processo è stato annullato",
-    "PAY_ERROR": "`Non hai {{amount}} {{currency}}`"
+    "PAY_ERROR": "`Non hai {{amount}} {{currency}}`",
+    "EMBED_TITLE": "SOFI: AGGIORNAMENTO WISHLIST"
 }

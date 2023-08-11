@@ -1,12 +1,14 @@
 {
     "DESCRIPTION": "Membakar banyak kartu sekaligus",
-    "IN_ACTIVE_MB": "{{user}} Anda tidak dapat memulai pembakaran massal baru, saat anda memiliki pembakaran aktif yang sedang berlangsung. Harap lanjutkan atau batalkan pembakaran massal yang ada terlebih dahulu",
-    "PROVIDE_FILTERS": "Sediakan filter yang ingin anda terapkan pada proses pembakaran! `t=<NamaTag>, g><=gen, wl><=wishlist`",
-    "WRONG_TAG": "{{author}} Nama `Tag` yang anda berikan tidak valid",
-    "NO_CARDS_FOUND": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi anda",
-    "CARDS_BURNED": "Kartu yang dibakar **{{totalCards}}**",
-    "CONFIRM_ASK": "Apakah anda yakin ingin membakar kartu-kartu di atas? Proses ini tidak dapat diubah",
-    "MISSING_CARDS": "{{author}} Setidaknya salah satu kartu dari `Tag` yang anda pilih tidak lagi ada dalam koleksi anda",
-    "SUCCESS": "Kartu berhasil dibakar",
-    "BURN_REWARDS": "__Hadiah__"
+    "IN_ACTIVE_MB": "{{user}} Anda tidak dapat melakukan `massburn` jika perintah sebelumnya sedang aktif",
+    "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filters>`\n\n```fix\nCatatan: Anda dapat menggunakan perintah \"{{prefix}}help filters\" agar lebih memahami\n```",
+    "WRONG_TAG": "{{author}} Tidak dapat menemukan `Tag` dengan nama `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang sesuai dengan kriteria pencarian anda",
+    "CARDS_BURNED": "__Kartu yang dipilih [{{totalCards}}]__",
+    "CONFIRM_ASK": "{{author}} Apakah anda yakin untuk melebur kartu ini?",
+    "MISSING_CARDS": "{{author}} Setidaknya salah satu kartu yang anda pilih tidak lagi ada dalam koleksi anda",
+    "SUCCESS": "{{author}} Kartu yang anda pilih berhasil dilebur",
+    "BURN_REWARDS": "__Hadiah__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Anda tidak dapat membakar `Tag` lock"
 }

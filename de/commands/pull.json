@@ -6,9 +6,9 @@
     "INFO_3": "Verbrenne `Fragments` um `Charms` zu erhalten",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Pull-Menge: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} Dir fehlt ** {{amount}}** `{{currName}}`",
-    "AMOUNT": "Du hast **{{amount}}** `{{pullOutcome}}` erhalten",
-    "PULL_COUNT_WIST": "Pull-Menge: {{pullcount}}",
+    "MISSING_CURR": "{{user}} Du hast nicht genügend `{{currName}}` für diesen Vorgang",
+    "AMOUNT": "Du hast: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}} erhalten",
+    "PULL_COUNT_WIST": "Pull-Menge: [ {{pullcount}} ]",
     "RATES": "Rate",
-    "PULL_CHANCES": "Chancen, einen Gegenstand durch einen Pull zu erhalten: \n"
+    "PULL_CHANCES": "**__Wahrscheinlichkeiten__**"
 }

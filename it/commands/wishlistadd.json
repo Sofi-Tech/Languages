@@ -6,5 +6,6 @@
     "NO_CHARACTER_FOUND": "{{author}} Non è riuscito a trovare quel carattere. Usa il comando `{{prefix}}wa -f <Nome>` per una ricerca esatta",
     "CHARACTER_ALREADY_EXISTS": "{{author}} Il carattere **{{name}}** è già nella tua lista dei desideri!",
     "CHARACTER_ADDED": "{{author}} Ha aggiunto **{{name}}** alla tua lista dei desideri",
-    "EMBED_TITLE": "SOFI: AGGIUNGI LISTA DEI DESIDERI"
+    "EMBED_TITLE": "SOFI: AGGIUNGI LISTA DEI DESIDERI",
+    "INCREASE_CAPACITY": "Usa il comando `{{prefix}}wu` o `{{prefix}}wu max` per aumentare la capacità della tua lista dei desideri"
 }

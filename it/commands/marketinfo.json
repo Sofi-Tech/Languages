@@ -2,13 +2,13 @@
     "DESCRIPTION": "Visualizza le tue attuali quotazioni di mercato o esamina un affare se fornisci un ID",
     "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido",
     "TRADER": "Commerciante",
-    "DEAL_ID": "ID di Affare",
+    "DEAL_ID": "Id dell'ordine",
     "PRODUCT": "Prodotto",
     "VALUE": "Valore",
     "RATE": "Tasso",
     "LISTED": "Elencato",
     "NO_LISTINGS_FOUND": "{{user}} Non hai annunci sul mercato",
     "INFO": "Usa il comando `{{prefix}}mul <ID>` per annullare l'elenco delle offerte correnti\n**È possibile elencare un solo affare alla volta**",
-    "FOOTER": "Visualizzazione 1-{{pages}} di {{total}} | Usa il comando `{{prefix}}mp <ID>`per comprare `Wists`!",
+    "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
     "EMBED_TITLE": "I TUOI ELENCHI:"
 }

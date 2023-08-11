@@ -1,15 +1,16 @@
 {
     "DESCRIPTION": "Zeigt deine aktuellen Markt-Angebote an oder prüft einen Handel, wenn du eine ID angibst",
-    "INVALID_DEAL_ID": "{{author}} Die angegebene Angebots-ID ist ungültig",
+    "INVALID_DEAL_ID": "{{author}} Die angegebene Auftrags-ID ist ungültig",
     "TRADER": "Verkäufer",
-    "DEAL_ID": "Deal-ID",
+    "DEAL_ID": "Angebot-ID",
     "PRODUCT": "Produkt",
     "VALUE": "Wert",
     "RATE": "Rate",
     "LISTED": "Gelistet",
-    "NO_LISTINGS_FOUND": "{{user}} Du hast keine Angebote auf dem Markt",
-    "INFO": "Verwende `{{prefix}}mul <ID>` um deine Angebote zu entfernen\n**Es kann jeweils nur ein Angebot gleichzeitig existieren**",
+    "NO_LISTINGS_FOUND": "{{user}} Du hast derzeit keine Angebote auf dem Markt",
+    "INFO": "Verwende `{{prefix}}mul <Order-ID>` um deine Angebote vom Markt zu entfernen",
     "FOOTER": "Ergebnisanzeige {{page}}-{{pages}} von {{total}}",
-    "EMBED_TITLE": "DEINE ANGEBOTE:",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Vorrat: `{{stockAmount}}` {{stockEmoji}} | Kurs: `{{rateAmount}}` {{rateEmoji}}"
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Vorrat: `{{stockAmount}}` {{stockEmoji}} | Kurs: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
 }

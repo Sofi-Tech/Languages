@@ -1,20 +1,18 @@
 {
-  "DESCRIPTION": "Kaufe \"Wists\" vom Markt im Austausch für \"Gems\"",
-  "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-  "INVALID_DEAL_ID": "{{author}} Die angegebene Angebots-ID ist ungültig",
-  "CANNOT_PURCHASE": "{{user}} Kann dieses Angebot nicht kaufen",
-  "CANNOT_SELF": "{{user}} Du kannst nicht mit deinem eigenen Angebot interagieren",
-  "WIST_NOT_EXCEED": "{{author}} | In diesem Angebot sind nur noch {{amount}} `Wists` übrig",
-  "PRODUCT": "Du erhältst:",
-  "VALUE": "Du bezahlst:",
-  "RATE": "Rate:",
-
-  "ALREADY_IN_PURCHASE": "{{author}} | Brich die aktuelle Transaktion ab, oder fahre fort, bevor du eine neue beginnst!",
-
-  "PURCHASE_CANCELLED": "Dieses Angebot ist nicht länger verfügbar",
-  "MISSING_GEMS": "Dir fehlen {{gemPrice}} `Gems`",
-  "SOMETHING_WRONG": "Da hat etwas nicht geklappt. Versuche es erneut",
-  "PURCHASE_SUCCESSFUL": "Die Transaktion war erfolgreich",
-  "SUCCESS": "{{wistAmount}} `Wists` wurden für **{{gemPrice}}** `Gems` gekauft! | Deal ID: {{dealId}}",
-  "MB_EMBED_TITLE": "SOFI MARKT:"
+    "DESCRIPTION": "Kaufe \"Wists\" vom Markt im Austausch für \"Gems\"",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <OfferID> <WistAmount>`",
+    "INVALID_DEAL_ID": "{{author}} Die angegebene Auftrags-ID ist ungültig",
+    "CANNOT_PURCHASE": "{{user}} Du kannst mit diesem Auftrag nicht interagieren",
+    "CANNOT_SELF": "{{user}} Du kannst nichts von deinem eigenen Auftrag kaufen",
+    "WIST_NOT_EXCEED": "{{author}} | Dieser Auftrag hat nur noch **{{amount}}** `{{currency}}` zum Kaufen übrig",
+    "PRODUCT": "Du erhältst:",
+    "VALUE": "Du bezahlst:",
+    "RATE": "Rate:",
+    "ALREADY_IN_PURCHASE": "{{author}} Du hast bereits ein aktives Transaktionsfenster",
+    "PURCHASE_CANCELLED": "{{author}} Dieses Angebot ist nicht länger verfügbar",
+    "MISSING_GEMS": "{{author}} Du hast nicht genügend `{{currency}}` für diese Transaktion",
+    "SOMETHING_WRONG": "{{author}} Da hat etwas nicht geklappt. Bitte versuche es erneut",
+    "PURCHASE_SUCCESSFUL": "{{author}} Erfolgreich **{{boughtCount}}** {{currency}} gekauft",
+    "SUCCESS": "{{user}} Du hast erfolgreich **{{orderPrice}}** {{currency}} verkauft und **{{soldAmount}}** {{currencySoldEmoji}} erhalten! | Auftrags-ID: `{{dealId}}`",
+    "MB_EMBED_TITLE": "SOFI: MARKT KAUF"
 }

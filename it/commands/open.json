@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Apre chests e lootboxes",
-    "SLASH_DESC_1": "Inserisci \"item\" che desideri aprire",
+    "SLASH_DESC_1": "Inserisci item che desideri aprire",
     "SLASH_DESC_2": "Inserisci quantità",
     "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}open <ItemName> <Quantità>`",
-    "EMPTY_INV": "{{author}} Il tuo `Inventory` è vuoto",
+    "EMPTY_INV": "{{author}} Il tuo Inventory è vuoto",
     "CHARM_MISSING": "{{author}} Non hai nessun `Charms`",
     "SOFI_CARDS_MISSING": "{{author}} Attualmente non ci sono abbastanza carte nella collezione di Sofi",
     "SERIES": "Serie:",
@@ -15,5 +15,5 @@
     "ITEMS_FOUND": "Oggetti ottenuti:\n",
     "COMMON_RARE_FOOTER": "Puoi ottenere un Chest {{chestName}} per ogni {{count}} strisce `Daily`",
     "EXOTIC_DIVINE_FOOTER": "Puoi ottenere un Chest {{chestName}} per {{count}} `Votes` ogni mese",
-    "CORRECT_USAGE_2": "`Items` che possono essere aperti: `Chests`, `Charms`"
+    "CORRECT_USAGE_2": "Items che possono essere aperti: `Chests`, `Charms`"
 }

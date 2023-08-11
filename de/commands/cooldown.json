@@ -1,10 +1,13 @@
 {
     "DESCRIPTION": "Überprüft die Abklingzeit für folgende Aktivitäten:\n- Drop, Grab, Vote, Raid, Daily, Bump.\n- Drücke auf das Glocken-Symbol, um Direktnachrichten zu erhalten sobald dein \"Drop\", \"Vote\" oder \"Daily\" bereit ist!",
     "JOIN_SUPPORT_SERVER": "[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "VOTE": "Vote",
-    "BUMP": "Bump",
-    "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` ungelesene Nachicht(en)! | Benutz den Befehl `{{customPrefix}}mail` um diese zu lesen!"
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "UNREAD_MAIL": "\n📫 Du hast **{{checkUnreadMailsCount}}** ungelesene {{mailCount}}",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
 }

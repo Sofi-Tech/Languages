@@ -4,7 +4,7 @@
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** è attualmente in modalità provvisoria! ETA: **{{eta}}**\nCi scusiamo per eventuali disagi causati da questo e chiediamo la vostra pazienza!",
     "APPEAL_ACCEPTED": "# __Il tuo ricorso è stato accettato!__\n- Unisciti al nostro [Server di Supporto](https://discord.gg/XPsQKJjeD7) ufficiale e crea un ticket nel canale https://discord.com/channels/863226120245215262/959176115723837530 per portare avanti il tuo caso\n- Un membro dello staff si occuperà di te il prima possibile, ti preghiamo di evitare di inviare messaggi o menzionare direttamente membri dello staff in qualsiasi canale in merito al tuo biglietto. La violazione di questa regola può portare a una sospensione permanente dal nostro servizio e dal Server Discord",
     "COMMAND_RUN_ERROR": "{{author}} Si è verificato un errore nel tentativo di eseguire questo comando. Per favore riprova",
-    "NEGATIVE_VALUE_INVENTORY": "{{author}} Il tuo `Inventory` contiene un valore negativo! Contatta gli sviluppatori nel nostro [Server di Supporto](https://discord.gg/sofi) per risolvere il problema",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Il tuo Inventory contiene un valore negativo! Contatta gli sviluppatori nel nostro [Server di Supporto](https://discord.gg/sofi) per risolvere il problema",
     "VERIFY_TO_PLAY": "[Verificati sul nostro sito web per giocare!](<https://sofi.gg/verify>)",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Attendi **{{cooldown}}** prima di usare di nuovo questo comando",
     "REQUIRE_PERMISSIONS": "{{author}} Hai bisogno di: **{{permissions}}** permessi per eseguire questo comando",
