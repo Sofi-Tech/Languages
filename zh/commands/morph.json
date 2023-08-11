@@ -10,7 +10,7 @@
   "BALANCE": "余额：**{{amount}}** `银币`",
   "NAME": "姓名：`{{name}}`",
   "UNDO": "`Morphs` 恢复: `  {{count}}  `",
-  "VANISH": "\n此 `Morph`将在**2**分钟内消失",
+
   "FAILED": "{{author}} 出了点问题，请重试",
   "HISTORY": "\n历史记录：```{{history}}```",
   "STOLE_MORPH": "出了点问题，请试试另外一个morph",
@@ -18,6 +18,5 @@
   "NO_CARD": "{{author}} 这张卡已不在您的收藏里了",
   "MORPH_CONFRIM": "`Morph` 已被成功应用",
   "REROLL": "`Morphs`已修复: `  {{count}}  `\n{{author}} 最早的 `Morph`已经被修复。再次重骰以继续",
-  "UNDO_SUCCESSFUL": "成功地为**{{amount}}** {{emoji}} 恢复了之前的 `Morph`",
-  "MORPH_CANCELLED": "此`Morphing`过程已被取消"
+  "UNDO_SUCCESSFUL": "成功地为**{{amount}}** {{emoji}} 恢复了之前的 `Morph`"
 }

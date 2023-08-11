@@ -10,7 +10,7 @@
   "BALANCE": "Balans: {{amount}} zilveren",
   "NAME": "Naam: `{{name}}`",
   "UNDO": "Aantal ongedaan maken: ` {{count}}`",
-  "VANISH": "Deze transformatie verdwijnt over 2 minuten.",
+
   "FAILED": "Transformatie mislukt, probeer het de volgende keer beter",
   "HISTORY": "Geschiedenis: ```{{history}}```",
   "STOLE_MORPH": "Een onbekend beest heeft de transformatie gestolen. <:smugsofi:910705181572878376> Rol opnieuw",
@@ -19,6 +19,5 @@
   "MORPH_CONFRIM": "Goed gedaan..! Dat is een mooie transformatie.",
 
   "REROLL": "Aantal ongedaan maken: `{{count}}`\n{{author}} Dat kan niet. Rol alsjeblieft opnieuw.",
-  "UNDO_SUCCESSFUL": "Ongedaan maken succesvol voor {{amount}} {{emoji}}",
-  "MORPH_CANCELLED": "De transformatie is geannuleerd"
+  "UNDO_SUCCESSFUL": "Ongedaan maken succesvol voor {{amount}} {{emoji}}"
 }

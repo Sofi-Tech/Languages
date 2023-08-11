@@ -10,7 +10,7 @@
   "BALANCE": "Balanço: **{{amount}}** `Silver`",
   "NAME": "Nome: `{{name}}`",
   "UNDO": "`Morphs` restaurados: `  {{count}}  `",
-  "VANISH": "\nEste `Morph` desaparecerá em **2** minutos",
+
   "FAILED": "{{author}} Algo deu errado, por favor tente novamente",
   "HISTORY": "\nHistórico: ```{{history}}```",
   "STOLE_MORPH": "Algo deu errado, por favor rode outro morph",
@@ -18,6 +18,5 @@
   "NO_CARD": "{{author}} A carta não está mais em sua coleção",
   "MORPH_CONFRIM": "O `Morph` foi aplicado com sucesso",
   "REROLL": "`Morphs` restaurados: `  {{count}}  `\n{{author}} O`Morph` mais recente já foi restaurado. Rode novamente para continuar",
-  "UNDO_SUCCESSFUL": "O `Morph` anterior foi restaurado com sucesso por **{{amount}}** {{emoji}}",
-  "MORPH_CANCELLED": "O processo de `Morphing` foi cancelado"
+  "UNDO_SUCCESSFUL": "O `Morph` anterior foi restaurado com sucesso por **{{amount}}** {{emoji}}"
 }

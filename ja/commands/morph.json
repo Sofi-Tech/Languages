@@ -10,7 +10,7 @@
   "BALANCE": "残高: {{amount}} シルバー",
   "NAME": "名前: `{{name}}`",
   "UNDO": "元に戻す回数: `{{count}}`",
-  "VANISH": "この変形は 2 分で消えます。",
+
   "FAILED": "変形に失敗しました。次回に期待してください。",
   "HISTORY": "履歴: ```{{history}}```",
   "STOLE_MORPH": "誰かに変形が盗まれました。{{author}}、もう一度ロールしてください。 <:smugsofi:910705181572878376>",
@@ -19,6 +19,5 @@
   "MORPH_CONFRIM": "素晴らしいです！それは本当に素晴らしい変形です。",
 
   "REROLL": "元に戻す回数:`{{count}}`\n{{author}}できません。もう一度ロールしてください。",
-  "UNDO_SUCCESSFUL": "{{amount}} {{emoji}}の元に戻しに成功しました",
-  "MORPH_CANCELLED": "変形をキャンセルしました"
+  "UNDO_SUCCESSFUL": "{{amount}} {{emoji}}の元に戻しに成功しました"
 }
