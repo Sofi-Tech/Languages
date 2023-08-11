@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Inserisci il codice della card che vuoi regalare",
     "NO_SELF_GIVE": "{{author}} Non puoi darti la carta",
     "NOT_REGISTERED": "{{author}} Quell'utente non è registrato!",
-    "MEM_BLACKLISTED": "{{author}} Quell'utente è nella lista nera!",
+    "MEM_BLACKLISTED": "{{author}} Quell'utente è nella lista nera",
     "MEM_QUARANTINED": "Quell'utente è in quarantena",
     "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "Impossibile trovare alcuna carta con il codice: `{{code}}`",
@@ -13,6 +13,6 @@
     "AUTHOR_NOT_VERIFIED": "Non sei verificato!",
     "CARD_SELECTED": "La carta è selezionata e non trasferibile",
     "EMBED_TITLE": "Dare Carta",
-    "MEM_NOT_VERIFIED": "L'utente non è verificato!",
+    "MEM_NOT_VERIFIED": "{{author}} Quell'utente non è verificato!",
     "AUTHOR_BLACKLISTED": "Sei nella lista nera.."
 }

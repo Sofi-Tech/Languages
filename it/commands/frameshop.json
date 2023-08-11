@@ -31,5 +31,6 @@
     "MF_MENU_LABEL": "Mensili",
     "CF_MENU_LABEL": "Personalizzate",
     "EDIT_DESC_SUCCESSFUL": "Il processo è stato completato con successo",
-    "FRAMESHOP_DESCRIPTION": "\nArtista: **{{artist}}**\nCodice: `{{code}}`\n{{price}}\n```\n{{description}}\n```"
+    "FRAMESHOP_DESCRIPTION": "\nArtista: **{{artist}}**\nCodice: `{{code}}`\n{{price}}\n```\n{{description}}\n```",
+    "FS_UNAVAILABLE": "Non disponibile"
 }

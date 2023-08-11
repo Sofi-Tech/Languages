@@ -41,5 +41,6 @@
     "SET_CARD_CONFIRM": "Stai per impostare **{{card}}** come tua carta visualizzazione",
     "PC_CHARACTER_NOT_FOUND": "{{author}} Non è riuscito a trovare nessun carattere con quel nome",
     "SELECT_FROM_OPTIONS": "**Seleziona uno dei seguenti caratteri**:\n\n{{charPages}}",
-    "GLOW_NOT_FOUND": "{{author}} Il `Glow` codice provveduto e invalido o non presente nel tuo Inventory"
+    "GLOW_NOT_FOUND": "{{author}} Il `Glow` codice provveduto e invalido o non presente nel tuo Inventory",
+    "SET_FONT_GLOW": "Sei sicuro di voler applicare **{{glowName}}** `Glow` al font del tuo profilo?"
 }

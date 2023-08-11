@@ -8,5 +8,5 @@
     "CANNOT_BE_GRABBED": "Queste carte non possono più essere ottenute",
     "CARDS_DROPPED_BY": "{{user}} ha `Dropped` le carte\n",
     "TOOK_CARD": "{{user}} ha preso **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_CARD": "{{winner}} ha battuto {{user}} e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**"
+    "GRAB_CARD": "{{winner}} ha battuto {{user}} e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }

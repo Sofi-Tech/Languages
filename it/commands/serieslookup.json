@@ -7,5 +7,6 @@
     "ERROR": "{{author}} Si è verificato un errore. Per favore riprova",
     "CARD_COLLECTED": "Carte Raccolte: **{{collected}}/{{totalCards}}**",
     "TOTAL_WL": "Lista dei desideri Totale: **__{{wlCount}}__**",
-    "CHARACTERS": "Caratteri"
+    "CHARACTERS": "Caratteri",
+    "SERIES_NAME": "Nome: **{{seriesName}}**"
 }

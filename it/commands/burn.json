@@ -3,7 +3,7 @@
     "GUILDSTONE_BURN": "Sei sicuro di voler bruciare la tua `Guild Stone`?",
     "GUILDSTONE_NOT_FOUND": "{{author}} Non hai una`Guild Stone`",
     "CANCELLED": "Il processo è stato annullato",
-    "BURN_FRAG_WARN": "Stai per bruciare un `Fragment`.\n`Fragments`Codice : `{{fragCode}}`",
+    "BURN_FRAG_WARN": "Sei sicuro di voler bruciare questo `Fragment`?\n\nNome: **{{characterName}}**\nSerie: **{{seriesName}}**\nCodice: `{{fragCode}}`",
     "FRAG_NOT_FOUND": "Nessun `Fragment` trovato",
     "CARD_NOT_FOUND": "Impossibile trovare quella carta",
     "CARD_LOCKED": "Quella carta è bloccata",
