@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Rimuove le tue offerte dal mercato",
-    "CORRECT_USAGE": "{{user}} Fornisci l'ID dell'offerta che desideri rimuovere dall'elenco o utilizza il comando `smul all` per rimuovere dall'elenco tutte le offerte subito",
+    "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}mul <Order-ID/All>`",
     "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido o non è tuo",
     "SUCCESS_UL": "{{user}} Rimosse con successo il seguente ordine dal mercato: `{{dealId}}`",
     "NO_LISTINGS_FOUND": "{{user}} Al momento non hai ordini",

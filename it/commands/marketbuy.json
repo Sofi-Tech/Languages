@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Acquista \"Wists\" dal mercato in cambio di \"Gems\"",
-    "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}mbuy <IDdelOfferta> <WistQuantità>`",
+    "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}mbuy <IDdelOfferta> <QuantitàdelWist>`",
     "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido",
     "CANNOT_PURCHASE": "{{user}} Non puoi interagire con questo ordine",
     "CANNOT_SELF": "{{user}} Non puoi acquistare dal tuo stesso ordine",
