@@ -1,12 +1,14 @@
 {
-  "DESCRIPTION": "Quema multitud de cartas a la vez",
-  "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo massburn, mientras tengas uno activo en proceso. Por favor cancela el massburn existente primero",
-  "PROVIDE_FILTERS": "Proporcione los filtros que quieres aplicar al proceso de burn! `t=<NombreDelTag>, g><=gen, wl><=wishlist`",
-  "WRONG_TAG": "{{author}} El nombre del `Tag` que has proporcionado no es válido",
-  "NO_CARDS_FOUND": "{{author}} Aún no tienes ninguna carta en tu colección",
-  "CARDS_BURNED": "Cartas quemadas **{{totalCards}}**",
-  "CONFIRM_ASK": "¿Estás seguro de que quieres quemar las cartas de arriba? Este proceso es irreversible",
-  "MISSING_CARDS": "{{author}} Al menos una de las cartas de tus `Tags` seleccionados ya no está en tu colección",
-  "SUCCESS": "Las cartas se quemaron con éxito",
-  "BURN_REWARDS": "Recompensas de Burn"
+    "DESCRIPTION": "Quema multitud de cartas a la vez",
+    "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo `massburn` mientras el anterior sigue activo",
+    "PROVIDE_FILTERS": "{{author}} Uso correcto: `{{prefix}}mb <Filtros>`\n\n```\nNota: Puedes encontrar una lista completa de filtros con el comando \"{{prefix}}help filters\"\n```",
+    "WRONG_TAG": "{{author}} No se ha podido encontrar ningún `Tag` con el nombre: `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda",
+    "CARDS_BURNED": "__Cartas Seleccionadas [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar irreversiblemente estas cartas?",
+    "MISSING_CARDS": "{{author}} Al menos una de las cartas seleccionadas ya no está en tu colección",
+    "SUCCESS": "{{author}} Has quemado con éxito las cartas seleccionadas",
+    "BURN_REWARDS": "__Recompensas__",
+    "EMBED_TITLE": "SOFI: QUEMADO EN MASA",
+    "LOCKED_CARDS_WARNING": "{{author}} No puedes quemar tu `Tag` lock"
 }

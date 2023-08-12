@@ -1,5 +1,5 @@
 {
-    "EXTRA_GRAB": "{{user}} Tu **Extra Grab** está siendo utilizado. Tienes **{{remaining}}** restantes",
+    "EXTRA_GRAB": "{{user}} Tu `Grab` extra está siendo usado. Tienes **{{remaining}}** restantes",
     "EMBED_TITLE": "Carta de Captcha",
     "EMBED_FOOTER": "Reclama la carta anterior escribiendo el captcha",
     "BATTLED_WON_PLURAL": "{{winner}} peleó contra otros **{{userCount}}** jugadores y reclamó la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
