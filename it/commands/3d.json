@@ -2,9 +2,9 @@
     "3D_CATEGORY": "Cosmetici",
     "CARD_3D_ALREADY": "{{author}} La carta è già una variante `3D`",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Non puoi convertire una carta evento in una regolare`3D`variante",
-    "NO_3D_VERSION": "{{author}} Questo carattere attualmente non ha una variante `3D`",
+    "NO_3D_VERSION": "{{author}} Questo personaggio attualmente non ha una variante `3D`",
     "EMBED_TITLE": "SOFI: `3D`",
-    "EVENT_3D_NOTE": "Durante un \"Event\" attivo, tutte le carte idonee verranno convertite nella loro variante \"Event 3D\" dopo aver confermato questo processo",
+    "EVENT_3D_NOTE": "Durante un event attivo, tutte le carte idonee verranno convertite nella loro variante Event 3D anzichè nella loro normale versione dopo aver confermato questo processo",
     "NO_CUBES": "{{author}} Non hai abbastanza `Cubes`",
     "UPGRADED_3D": "{{author}} La tua carta è stata convertita con successo nella sua variante `3D`",
     "UPGRADE_3D_CANCEL": "Il processo è stato annullato",
@@ -12,6 +12,6 @@
     "3D_DESCRIPTION": "Converte la tua carta nella loro versione 3D",
     "INVALID_CARD_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "NO_GIF_CONVERSION": "{{author}} Non puoi convertire una carta `GIF` in una variante `3D`",
-    "3D_NOTE": "Stai per convertire questa carta nella sua variante \"3D\". Questo processo modificherà in modo permanente la tua carta e non potrà essere modificata al suo stato originale. La nuova carta avrà una sua \"Gen\", proporzionale a quella precedente, questo processo inoltre eliminerà il \"frame\" applicatovi",
-    "EVENT_NOTE": "Stai per aggiornare questa carta alla sua versione Event 3D. Questo processo è permanente e non può essere annullato. Rimuovere la cornice prima dell'aggiornamento. Nota che il gen della carta può essere rivelato e graffiato una volta terminato l'evento, sul sito web"
+    "3D_NOTE": "Stai per convertire questa carta nella sua variante 3D. Questo processo è permanente e non potrà essere modificata al suo stato originale. Qualsiasi \"frame\" applicatovi, verrà perso durante il processo. La carta convertita avrà una sua \"Gen\", proporzionale a quella precedente.",
+    "EVENT_NOTE": "Stai per convertire questa carta alla sua versione Evento 3D. Questo processo è permanente e non può essere annullato. Rimuovere la cornice prima dell'aggiornamento. Le carte evento Hanno una \"gen\" nascosta, che potrà essere rivelata sul nostra sito web una volta che l'evento è finito"
 }
