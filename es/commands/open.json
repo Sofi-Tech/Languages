@@ -1,21 +1,19 @@
 {
-  "SLASH_DESC_1": "Introduce el \"Item\" que quieres abrir",
-  "SLASH_DESC_2": "Introduce la cantidad.",
-  "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}open <NombreDelItem> <Cantidad>`",
-  "EMPTY_INV": "{{author}} Tu `Inventory` está vacío",
-  "CHARM_MISSING": "{{author}} No tienes ningún `Charm`",
-  "SOFI_CARDS_MISSING": "{{author}} Actualmente no hay suficientes cartas en la colección de Sofi",
-
-  "SERIES": "Serie:",
-  "CHEST_INFO": "Los chests de eventos aún se pueden abrir después de que concluya un evento",
-  "PROVIDE_NUM": "Por favor proporciona un número entre **1 y 10**",
-  "CHEST_MISSING": "No tienes **{{replacedArg}}** `{{chestName}}` Chests en tu `Inventory`",
-  "COMMON_INFO_1": "Has abierto **{{totalChests}}** `{{chestName}}` Chests",
-  "ITEMS_FOUND": "Items obtenidos:\n",
-  "COMMON_RARE_FOOTER": "Puedes obtener un {{chestName}} Chest por cada racha diaria de {{count}}",
-  "EXOTIC_DIVINE_FOOTER": "Puedes obtener un {{chestName}} Chest por {{count}} `Votes` cada mes",
-
-  "NAME": "Nombre:",
-  "DESCRIPTION": "Abre chests y lootboxes",
-  "CORRECT_USAGE_2": "`Items` que pueden ser abiertos: `Chest`, `Charms`"
+    "SLASH_DESC_1": "Introduce el \"Item\" que quieres abrir",
+    "SLASH_DESC_2": "Introduce la cantidad.",
+    "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}open <NombreDelItem> <Cantidad>`",
+    "EMPTY_INV": "{{author}} Tu inventario está vacío",
+    "CHARM_MISSING": "{{author}} No tienes ningún `Charm`",
+    "SOFI_CARDS_MISSING": "{{author}} Actualmente no hay suficientes cartas en la colección de Sofi",
+    "SERIES": "Serie:",
+    "CHEST_INFO": "Los chests de eventos aún se pueden abrir después de que concluya un evento",
+    "PROVIDE_NUM": "Por favor proporciona un número entre **1 y 10**",
+    "CHEST_MISSING": "No tienes **{{replacedArg}}** `{{chestName}}` Chests en tu inventario",
+    "COMMON_INFO_1": "Has abierto **{{totalChests}}** `{{chestName}}` Chests",
+    "ITEMS_FOUND": "Items obtenidos:\n",
+    "COMMON_RARE_FOOTER": "Puedes obtener un {{chestName}} Chest por cada racha diaria de {{count}}",
+    "EXOTIC_DIVINE_FOOTER": "Puedes obtener un {{chestName}} Chest por {{count}} `Votes` cada mes",
+    "NAME": "Nombre:",
+    "DESCRIPTION": "Abre chests y lootboxes",
+    "CORRECT_USAGE_2": "`Items` que pueden ser abiertos: `Chest`, `Charms`"
 }

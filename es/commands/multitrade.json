@@ -24,7 +24,7 @@
     "MT_INFO_3": "🗒️ Añade una nota a tu operación para contextualizar nuestros registros",
     "MT_INFO_4": "📛 Pedir un pago en criptomonedas es una infracción sancionable!",
     "MT_COMPLETE": "SOFI: INTERCAMBIO MÚLTIPLE",
-    "MISSING_ITEMS": "{{user}} Los siguientes items no se encuentran en tu `Inventory` y no pudieron ser agregados:\n{{items}}",
+    "MISSING_ITEMS": "{{user}} Los siguientes items no se encuentran en tu inventario y no pudieron ser agregados:\n{{items}}",
     "CARD_LOCKED": "{{user}} Las siguientes cartas están bloqueadas o se usan actualmente en un deck y no pudieron ser agregadas: \n{{codes}}",
     "MEMBER_NOT_VERIFIED": "{{author}} Ese usuario no está verificado",
     "CARD_TAG_LOCKED": "{{author}} No puedes intercambiar `Tags` que contengan cartas aseguradas",
