@@ -1,10 +1,13 @@
 {
     "DESCRIPTION": "Muestra el enfriamiento para estas acciones:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Haz clic en los íconos de campana para recibir recordatorios como Mensajes Directos para `Drop`, `Vote` y `Daily`!",
     "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "VOTE": "Vote",
-    "BUMP": "Bump",
-    "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` correo(s) no leídos | Escribe `{{customPrefix}}mail` para leerlos!"
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "UNREAD_MAIL": "\n📫 Tienes **{{checkUnreadMailsCount}}** sin leer {{mailCount}}",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "EMBED_TITLE": "SOFI: ENFRIAMIENTOS ({{username}})"
 }

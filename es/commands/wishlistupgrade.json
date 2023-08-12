@@ -10,7 +10,7 @@
     "EMBED_MAXED_DESCRIPTION": "¿Estás seguro de que quieres desbloquear tu lista de deseos al completo por **{{amount}}** `{{currency}}`?",
     "EMBED_MAXED_FIELD_VALUE": "``Máximo de ranuras de la lista de deseos (50 ranuras)``",
     "CANCELLED": "El proceso ha sido cancelado",
-    "PAY_ERROR": "{{author}} No tiene suficiente `{{currency}}` para esta transacción",
+    "PAY_ERROR": "{{author}} No tiene suficiente `{{currency}}` para este proceso",
     "EMBED_TITLE": "SOFI: MEJORA DE LA LISTA DE DESEOS",
     "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Has actualizado correctamente tu lista de deseos"
 }

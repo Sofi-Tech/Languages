@@ -1,12 +1,16 @@
 {
-    "NO_SCAMMING": "<:_:979009081325019156> No estafes a otros usuarios",
-    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Cualquier bug/exploit que encuentres debe ser reportado de inmediato! El incumplimiento de esta regla será castigado",
-    "NO_ALTING": "<:_:979009081325019156> Solo se te permite usar **1** única cuenta para jugar e interactuar con Sofi",
+    "NO_SCAMMING": "<:_:979009081325019156> Intentar estafar o engañar a otro usuario te llevará a la lista negra de Sofi",
+    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Todos y cada uno de los fallos o exploits que encuentres tienen que ser notificados inmediatamente!",
+    "NO_ALTING": "<:_:979009081325019156> No uses alts/múltiples cuentas para jugar o interactuar con Sofi. Autodenúnciate si has incumplido esta norma para evitar castigos",
     "NO_HELPING_ALTERS": "<:_:979009081325019156> No apoyes ni interactúes con alters y estafadores. Si tienes sospechas sobre un usuario, por favor repórtalo al soporte de Sofi",
     "RULES_DESCRIPTION": "Muestra las reglas de Sofi",
     "RULES_CATEGORY": "Configuración",
     "VISIT_SUPPORT": "Visita nuestro [Servidor de Soporte](https://discord.gg/XPsQKJjeD7) para más información",
     "EMBED_AUTHOR": "SOFI: NORMAS",
     "NO_BUY_SELL_ACCOUNTS": "<:_:979009081325019156> No participes en el proceso de compra o venta de cuentas enteras de Discord",
-    "NO_FARMING": "<:_:979009081325019156> No puedes usar tu posición en las redes sociales para obtener recursos o cartas en Sofi"
+    "NO_FARMING": "<:_:979009081325019156> No puedes usar tu posición en las redes sociales para obtener recursos o cartas en Sofi",
+    "DO_NOT_CHANGE_EMAIL": "```fix\n⚠️ Disocrd, así como el personal Sofi NUNCA te pedirán tu contraseña o te aconsejarán que cambies tu correo electrónico a una dirección específica. ¡Cuidado con los BOTs de Discord de terceros que a menudo se utilizan para intentos de phishing similares!```",
+    "EMBED_FOOTER": "{{count}} usuarios han aceptado estas normas",
+    "DO_NOT_SCAMMED_ITEMS": "<:_:979009081325019156> Los items adquiridos mediante actividades ilegales se eliminarán de tu inventario, independientemente de cómo se hayan obtenido",
+    "DO_NOT_SIBLINGS": "<:_:979009081325019156> Los hermanos serán castigados juntos si se descubre que alguno de ellos incumple las normas"
 }

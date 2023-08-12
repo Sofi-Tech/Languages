@@ -7,9 +7,9 @@
     "NO_GIF_CARD": "{{author}} No se puede eliminar el `Background` de una tarjeta `GIF`",
     "NO_BACKGROUND": "{{author}} Esa carta no tiene un `Background` aplicado",
     "EMBED_TITLE": "SOFI: QUITAR `BACKGROUND`",
-    "PROCESS_COST": "Este proceso cuesta **1** `Wist` y devolverá el `Background` a tu `Inventory`",
+    "PROCESS_COST": "Este proceso cuesta **1** `Wist` y devolverá el `Background` a tu inventario",
     "NOT_ENOUGH_WIST": "{{author}} No tienes suficiente `{{currency}}` para quitar este `Background`",
     "NO_BG_APPLIED": "{{author}} Esa carta no tiene un `Background` aplicado",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} El `Background` de tu carta se ha eliminado correctamente y se ha devuelto a su `Inventory`",
-    "NO_OWNER": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección"
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} Devuelto con éxito el \"Background\" de esta carta a tu inventario",
+    "NO_OWNER": "{{author}} La carta ya no está en tu colección"
 }

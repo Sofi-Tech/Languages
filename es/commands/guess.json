@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Empieza un juego de adivinar la palabra",
-    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}guess <Cantidad> <Moneda>`\nMonedas aceptadas:`Silvers`, `Wists`, `Gems`, `Cubes`",
-    "NO_TP": "{{author}} Necesitas un `Trade Pass` activo para organizar un juego de adivinanzas.",
+    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}guess <Cantidad> <Divisa>`\nDivisas aceptadas:`Silvers`, `Wists`, `Gems`, `Cubes`",
+    "NO_TP": "{{author}} Necesitas un `Trade Pass` activo para organizar un juego de adivinanzas",
     "NOT_ENOUGH_CURR": "{{user}} No tienes suficientes `{{currency}}` para comenzar el juego",
     "INFO_1": "{{user}} ha iniciado el juego de adivinanzas!",
     "INFO_2": "Cuota de Participación: **{{bet}}** {{currencyEmoji}}",

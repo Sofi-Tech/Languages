@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Introduce el código de la carta que quieres dar",
     "NO_SELF_GIVE": "{{author}} No puedes darte una carta a ti mismo",
     "NOT_REGISTERED": "{{author}} Ese usuario no está registrado!",
-    "MEM_BLACKLISTED": "{{author}} Ese usuario está en la lista negra!",
+    "MEM_BLACKLISTED": "{{author}} Ese usuario está en la lista negra",
     "MEM_QUARANTINED": "{{author}} Este usuario está en cuarentena!",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}give <@Usuario/IDUsuario> <CódigoDeCarta>`",
     "NO_CARD_FOUND": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",

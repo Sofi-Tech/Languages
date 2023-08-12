@@ -20,14 +20,19 @@
     "SORT_SPEED": "Velocidad",
     "SORT_HP": "Vida",
     "SORT_DUPE": "Duplicados",
-    "ALL_UNTAG_SUCCESS": "A las {{taglength}} cartas se les ha quitado el tag con éxito",
-    "ALL_TAG_SUCCESS": "{{author}} A las {{taglength}} cartas se les ha agregado el tag con éxito",
+    "ALL_UNTAG_SUCCESS": "{{author}} Eliminado con éxito el siguiente `Tag` de **{{taglength}}** cartas: `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} Se ha añadido con éxito el siguiente \"Tag\" a las **{{taglength}}** cartas: `{{tagName}}`",
     "PLEASE_WAIT": "Por favor espera <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Aún no tienes ningún `Tag`. Puedes crearlos con el comando `{{prefix}}tc <NombreDelTag> <Emote>`",
+    "NO_TAG_FOUND": "{{author}} Aún no tienes ningún `Tag`. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",
     "NOT_AVAILABLE": "`Serie No Válida`",
     "NO_RESULTS_OTHERS": "{{author}} Ese usuario no tiene ninguna carta en su colección",
     "SORT_LEVEL": "Nivel",
     "EMBED_TITLE": "SOFI: COLECCIÓN ({{username}})",
     "USER_NOT_FOUND": "{{author}} No se ha podido encontrar ese usuario",
-    "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}"
+    "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}",
+    "TAG_MODAL_TITLE": "Introduce un \"Tag\"",
+    "TAG_MODAL_LABEL": "Añadir Tag En Masa",
+    "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el `Tag`: `{{arg}}`",
+    "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" para eliminar masivamente un \"Tag\" en su lugar",
+    "MASSTAG_WRONG_TAG": "{{author}} No se ha podido encontrar ningún `Tag` con el nombre: `{{arg}}`"
 }

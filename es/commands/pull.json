@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Extrae de \"Pulls\" varios \"Items\" incluidos \"Charms\" y \"Fragments\" para cartas animadas",
-  "PULL_AMT": "{{author}} Ingrese la cantidad de `Pulls`que quieras hacer. Puede ser **1** o **10**",
-  "INFO_1": "Necesitas 8 `Fragments` para crear una variante `GIF` de un personaje",
-  "INFO_2": "Las variantes `GIF` de un personaje tienen 100 `Gens` únicos",
-  "INFO_3": "Los `Fragments` pueden ser quemados para obtener `Charms`",
-  "PULLS": "SOFI: PULLS",
-  "PULL_COUNT": "Recuento de Pulls: {{count}}",
-  "MISSING_CURR": "{{user}} No tienes **{{amount}}** `{{currName}}`",
-  "AMOUNT": "Cantidad: {{amount}}",
-  "PULL_COUNT_WIST": "Recuento de Pulls: {{pullcount}}",
-
-  "RATES": "Probabilidades"
+    "DESCRIPTION": "Extrae de \"Pulls\" varios \"Items\" incluidos \"Charms\" y \"Fragments\" para cartas animadas",
+    "PULL_AMT": "{{author}} Uso correcto: `{{prefix}}pull <1/10>`",
+    "INFO_1": "Necesitas 8 `Fragments` para crear una variante `GIF` de un personaje",
+    "INFO_2": "Hay un máximo de **100** variantes `GIF` por personaje",
+    "INFO_3": "Quema `Fragments` para obtener `Charms`",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Recuento de Pulls: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} No tiene suficiente `{{currName}}` para este proceso",
+    "AMOUNT": "Has recibido: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "PULL_COUNT_WIST": "Recuento de Pulls: [ {{pullcount}} ]",
+    "RATES": "Probabilidades",
+    "PULL_CHANCES": "**__Probabilidades__**"
 }

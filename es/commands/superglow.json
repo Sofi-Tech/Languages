@@ -2,7 +2,7 @@
     "SG_DESCRIPTION": "Combina dos \"Glows\" para obtener un \"Super Glow\"",
     "SG_CATEGORY": "Cosméticos",
     "GLOW_CODES_MISSING": "{{author}} Uso correcto: `{{prefix}}sg <#CódigoDeGlow1> <#CódigoDeGlow2>`",
-    "GLOW_NOT_FOUND": "{{author}} Al menos uno de los códigos de `Glow` que has proporcionado no es válido o no está en tu inventory",
+    "GLOW_NOT_FOUND": "{{author}} Al menos uno de los códigos de `Glow` que has proporcionado no es válido o no está en tu inventario",
     "UNAVAILABLE_GLOW": "{{author}} Al menos uno de los códigos de `Glow` que has proporcionado está vacío",
     "NO_USE_SG": "{{author}} No puedes usar un `Super Glow` para este proceso",
     "SAME_GLOWS": "{{author}} No puede usar el mismo `Glow` más de una vez",

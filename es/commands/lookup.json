@@ -1,18 +1,18 @@
 {
     "DESCRIPTION": "Muestra las variantes Version/3D/GIF de un personaje",
-    "CHAR_NOT_FOUND": "No se ha podido encontrar el personaje que estás buscando",
-    "CHAR_NF_SENSITIVE": "No se ha podido encontrar ningún personaje. [La función de `lookup` es sensible a mayúsculas!]",
-    "EMBED_TITLE": "__Personajes que coinciden__",
+    "CHAR_NOT_FOUND": "{{author}} No se ha podido encontrar ningún personaje con el nombre: `{{arg}}`",
+    "CHAR_NF_SENSITIVE": "{{author}} No se ha podido encontrar ningún personaje con el nombre: `{{arg}}`\n\n```fix\nNota: si usas la opción `-f`, la función distinguirá entre mayúsculas y minúsculas.\n```",
+    "EMBED_TITLE": "SOFI: BÚSQUEDA DE PERSONAJE (`{{category}}`)",
     "SUBMITTED": "Enviado Por: <@{{userID}}>",
     "EMBED_FOOTER": "Encuentra la `Version` 1 usando el comando `scl`. Puedes enviar una nueva `Version` usando el comando `ssc`",
     "VERSION_DISP": "Muestra la `Version` {{version}} de la carta",
     "MORE": "Más Información",
     "3D_DESC": "Muestra la variante 3D de este personaje",
-    "GIF_LABEL": "Variante GIF",
+    "GIF_LABEL": "GIF",
     "GIF_DESC": "Muestra la variante \"GIF\" de este personaje",
     "SERIES": "Serie:",
     "NAME": "Nombre:",
-    "CATEGORY": "Category",
+    "CATEGORY": "Categoría:",
     "WISHLISTED": "Agregado a la lista de deseos",
     "VERSIONS": "Versions",
     "MULTI": "Multi",
@@ -20,5 +20,5 @@
     "EVENT": "Event",
     "UPCOMING_EVENT": "Próximo Event",
     "TOP_OWNER": "Mejores Propietarios",
-    "NO_OWNER_FOUND": "No se encontraron propietarios de `Version`"
+    "NO_OWNER_FOUND": "Nadie posee aún una variante `2D` de este personaje"
 }

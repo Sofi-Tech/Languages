@@ -3,8 +3,8 @@
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "{{author}} Aún no tienes ningún `Glow`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Los códigos de `Glow` siempre comienzan con `#`",
-    "INVALID_GLOWCODE": "{{author}} Ese código de `Glow` no es válido o no está en tu `Inventory`",
+    "INVALID_GLOWCODE": "{{author}} Ese código de `Glow` no es válido o no está en tu inventario",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el `Tag` de tu `Glow` **{{glow}}**",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Los siguientes códigos de `Glow` no son válidos o no están en tu `Inventory`:\n{{invalidCodeList}}",
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Los siguientes códigos de `Glow` no son válidos o no están en tu inventario:\n{{invalidCodeList}}",
     "GLOW_UNTAG_PLURAL": "{{author}} Eliminado con éxito el `Glow Tag` de los **{{count}}** `Glows`"
 }
