@@ -27,6 +27,9 @@
     "NO_OWNER_FOUND": "Belum ada yang memiliki varian `2D` dari karakter ini",
     "NO_3D_OWNER_FOUND": "Belum ada yang memiliki varian `3D` dari karakter ini",
     "NO_GIF_OWNER_FOUND": "Belum ada yang memiliki varian `GIF` dari karakter ini",
-    "NOT_AVAILABLE": "Tidak tersedia",
-    "MORE_INFO_LABEL": "Pilih Opsi"
+    "NOT_AVAILABLE": "`Seri tidak valid`",
+    "MORE_INFO_LABEL": "Pilih Opsi",
+    "FAN_PTS_ADDED_one": "{{author}} Berhasil menambahkan **{{count}}** point ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "EXAMPLE_INFO": "Format yang benar: <Jumlah> <Mata Uang>",
+    "FAN_PTS_ADDED_other": "{{author}} Berhasil menambahkan **{{count}}** point ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
 }

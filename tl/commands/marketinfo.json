@@ -9,6 +9,7 @@
     "LISTED": "Mga nakalista",
     "NO_LISTINGS_FOUND": "{{user}} Wala ka pang kahit anong nakalista sa market",
     "INFO": "Gamitin ang command na {{prefix}}mul <ID> upang alisin sa listahan ang iyong kasalukuyang mga deal\n**Isang deal lamang ang pwedeng ilista at hindi pwedeng pagsabay-sabayin**",
-    "FOOTER": "Pinapakita ang 1-{{pages}} ng {{total}} | Gamitin ang `{{prefix}}mp <ID>` para bumili ng `Wists`!",
-    "EMBED_TITLE": "IYONG LISTAHAN:"
+    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
+    "EMBED_TITLE": "IYONG LISTAHAN:",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }

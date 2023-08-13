@@ -2,6 +2,7 @@
     "DESCRIPTION": "Tindakan ini akan menukar kode antara kedua kartu yang disebutkan",
     "SLASH_DESC": "Masukkan kode pertama",
     "SLASH_DESC2": "Masukkan kode kedua",
-    "CORRECT_USAGE": "Silahkan masukkan dua kode kartu",
-    "INVALID_CODES_PROVIDED": "{{author}} Setidaknya salah satu kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda"
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}cs <Kode1> <Kode2>`",
+    "INVALID_CODES_PROVIDED": "{{author}} Setidaknya salah satu kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
+    "SUCCESSFUL_CODE_SWAP": "{{author}} Berhasil menukar kode kartu yang dipilih"
 }

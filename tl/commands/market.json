@@ -1,6 +1,7 @@
 {
     "DESCRIPTION": "Pinapakita ang Sofi market",
-    "NO_LISTING_FOUND": "Walang nakitang kahit anong listahan",
-    "MARKET_WARN": "Huwag gamitin ang market para sa pag-iimbak o pagtatago ng mga `Wists`!\nKapag ikaw ay nahuli na ginagawa ito, ang `Wists`ay matatanggal na walang kompensasyon.\nAverage Rate: **`{{averageRate}}`** Total Trades: **`{{totalTrades}}`**",
-    "FOOTER": "Pinapakita ang 1-{{pages}} ng {{total}} | Gamitin ang `{{prefix}}mp <ID>` para bumili ng `Wists`!"
+    "NO_LISTING_FOUND": "{{author}} Hindi mahanap ang anumang mga order sa merkado",
+    "MARKET_WARN": "```ayusin ⚠️ Huwag gamitin ang market para itago ang iyong \"Wists\". Ang pagkabigong sumunod sa panuntunang ito ay maaaring magresulta sa pag-alis ng mga nasabing item nang walang kabayaran! ``` **Average Rate**: **`{{average Rate}}` | Kabuuang Mga Trade** : **`{{totalTrades}}`**",
+    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }

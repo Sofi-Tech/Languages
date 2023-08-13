@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Inalis ang iyong mga deals mula sa market",
-    "CORRECT_USAGE": "{{user}} Mangyaring magbigay ng deal ID na gusto mong alisin sa listahan o gamitin ang `smul`upang alisin lahat ng mga deal nang sabay-sabay",
-    "INVALID_DEAL_ID": "{{author}} Ang ID na ibinigay ay maaaring hindi wasto o hindi sa iyo",
-    "SUCCESS_UL": "{{user}} Ang deal na `{{dealId}}`ay matagumpay na naalis mula sa market",
-    "NO_LISTINGS_FOUND": "{{user}} Wala ka pang mga nakalista sa market sa kasalukuyan",
-    "SUCCESS_UL_ALL": "{{user}} Ang kabuuang `{{totalDeals}}` deals ay matagumpay na naalis sa listahan mula sa market"
+    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}mul <Order-ID/All>`",
+    "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay maaaring hindi wasto o hindi sa iyo",
+    "SUCCESS_UL": "{{user}} Matagumpay na naalis ang sumusunod na order mula sa merkado: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Wala kang anumang mga order sa kasalukuyan",
+    "SUCCESS_UL_ALL": "{{user}} Matagumpay na naalis ang lahat ng iyong mga order sa merkado"
 }

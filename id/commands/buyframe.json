@@ -8,7 +8,7 @@
     "EMBED_TITLE": "SOFI: TRANSAKSI",
     "YOU_GET": "Anda mendapat:",
     "YOU_PAY": "Anda membayar:",
-    "NO_ENOUGH_AMOUNT": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk transaksi ini",
+    "NO_ENOUGH_AMOUNT": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk melakukan pembelian ini",
     "FRAME_PURCHASED_BY": "`Frame` Anda **{{frame}}** `Frame` telah dibeli oleh `{{userId}}}`| {{buyCount}}",
     "TRANSACTION_SUCCESSFUL": "{{author}} Berhasil membeli **{{frameName}}** `Frame`",
     "PROCESS_CANCELLED": "Proses telah dibatalkan"

@@ -1,12 +1,14 @@
 {
     "DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
     "IN_ACTIVE_MB": "{{user}} Hindi ka maaring mag simula ng panibagong `mass burn` habang aktibo pa yung dati",
-    "PROVIDE_FILTERS": "Mag bigay ng filter na gusto mong ilagay sa proseso ng pagsusunog! `t=tagname, g><=gen, wl><=wishlist`",
-    "WRONG_TAG": "{{author}} Ang pangalang`Tag`na binigay ay hindi wasto",
-    "NO_CARDS_FOUND": "{{author}} Wala ka pang cards sa iyong collection",
-    "CARDS_BURNED": "Kabuuan ng kard na nasunog **{{totalCards}}**",
-    "CONFIRM_ASK": "Sigurado ka bang sunugin ang mga kard na ito? Ang proseso na ito ay hindi maibabalik",
-    "MISSING_CARDS": "{{author}} Kahit isang kards sa mga napiling `Tags`ay wala na sa iyong koleksyon",
-    "SUCCESS": "Matagumpay na nasunog ang mga kard",
-    "BURN_REWARDS": "Mga Rewards Na Nakuha Sa Pag Susunog"
+    "PROVIDE_FILTERS": "{{author}} Tamang pag-gamit: `{{prefix}}mb<Filters>`\n\n```fix\nNote: Maaari kang makakita ng ibat ibang uri ng listahan ng mga filters gamit ang command na \"{{prefix}}help filters\"\n```",
+    "WRONG_TAG": "{{author}} Walang makitang kahit anong `Tag` na may ganiyang pangalan: `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga card na tumutugma sa iyong kriterya ng paghahanap",
+    "CARDS_BURNED": "__Napiling mga Card [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Sigurado ka bang nais mong tuluyang sunugin ang mga kard na ito nang hindi maaring mabalik?",
+    "MISSING_CARDS": "{{author}} Kahit isa sa iyong mga piniling kard ay wala na sa iyong koleksyon",
+    "SUCCESS": "{{author}} Matagumpay nang nasunog ang iyong mga napiling cards",
+    "BURN_REWARDS": "__Rewards__",
+    "EMBED_TITLE": "SOFI: MADAMIHANGPAGSUSUNOG",
+    "LOCKED_CARDS_WARNING": "{{author}} Hindi mo maaaring sunugin ang iyong lock `Tag`"
 }

@@ -3,9 +3,10 @@
     "JOIN_SUPPORT_SERVER": "[Bergabung dengan server support untuk bantuan!](https://discord.gg/sofi)",
     "DROP": "Drop",
     "GRAB": "Grab",
-    "VOTE": "Vote",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "Bump",
-    "DAILY": "Daily",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "UNREAD_MAIL": "\n📫 Anda memiliki **{{checkUnreadMailsCount}}** belum dibaca {{mailCount}}",
-    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**"
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote"
 }

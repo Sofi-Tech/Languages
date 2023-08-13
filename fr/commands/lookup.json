@@ -2,7 +2,7 @@
     "DESCRIPTION": "Affiche les différentes versions/3D/GIF d'un personnage",
     "CHAR_NOT_FOUND": "{{author}} N'a pas pu trouver de personnage nommé: `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} N'a pas pu trouvé un personnage avec le nom: `{{arg}}`\n\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
-    "EMBED_TITLE": "__Personnages Correspondants__",
+    "EMBED_TITLE": "SOFI:RECHERCHE DE PERSONNAGE (`{{category}}`)",
     "SUBMITTED": "Soumis par: <@{{userID}}>",
     "EMBED_FOOTER": "Se renseigner sur la `Version`1 en utilisant `scl`.Vous pouvez également soumettre de nouvelles `Versions` en utilisant la commande `ssc`",
     "VERSION_DISP": "Affiche la `Version` {{version}} de la carte",

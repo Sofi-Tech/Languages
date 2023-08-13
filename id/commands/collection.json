@@ -24,7 +24,7 @@
     "ALL_TAG_SUCCESS": "{{author}} Berhasil menambahkan `Tag` berikut ke kartu **{{taglength}}**: `{{tagName}}`",
     "PLEASE_WAIT": "Tunggu sebentar <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} Anda belum memiliki `Tag`. Gunakan perintah `{{prefix}}tc <TagName> <Emoji>` untuk membuatnya",
-    "NOT_AVAILABLE": "Tidak tersedia",
+    "NOT_AVAILABLE": "`Seri tidak valid`",
     "SORT_LEVEL": "Level",
     "TAG_MODAL_LABEL": "Tag Massal",
     "TAG_MODAL_PLACEHOLDER": "Gunakan \"-\" untuk menghapus \"Tag\" secara massal",

@@ -6,12 +6,12 @@
     "NO_EVENT_CARD_CONVERSION": "{{author}} Anda tidak dapat mengonversi kartu event menjadi varian `3D` reguler",
     "NO_3D_VERSION": "{{author}} Karakter ini saat ini tidak memiliki varian `3D`",
     "EMBED_TITLE": "SOFI: `3D`",
-    "EVENT_3D_NOTE": "Selama \"Event\" aktif, semua kartu yang memenuhi syarat akan dikonversi menjadi varian \"Event 3D\" mereka setelah mengonfirmasi proses ini",
+    "EVENT_3D_NOTE": "Selama acara aktif, semua kartu yang memenuhi syarat akan dikonversi ke varian Event-3D, bukan 3D biasa setelah mengonfirmasi proses ini",
     "NO_CUBES": "{{author}} Anda tidak memiliki cukup `Cubes`",
     "UPGRADED_3D": "{{author}} Kartu Anda telah berhasil dikonversi ke dalam varian `3D`",
     "UPGRADE_3D_CANCEL": "Proses telah dibatalkan",
     "HALLOWEEN_3D_FAILED": "{{author}} Hantu telah memenuhi kartu Anda. Proses telah gagal!",
     "3D_DESCRIPTION": "Mengonversi kartu anda ke dalam varian 3D",
-    "3D_NOTE": "Anda akan mengubah kartu ini menjadi varian \"3D\". Proses ini akan mengubah kartu anda secara permanen dan tidak dapat dikembalikan. Kartu yang baru diperoleh akan memiliki \"Gen\" yang proporsional dengan kartu lama. Proses ini juga akan menghapus \"Frame\" yang terpasang",
-    "EVENT_NOTE": "Anda akan meng-upgrade kartu ini ke versi 3D Event. Proses ini bersifat permanen dan tidak dapat dibatalkan. Harap lepaskan bingkai sebelum meningkatkan. Perhatikan bahwa gen kartu dapat diungkap dan digores setelah acara berakhir, di situs web"
+    "3D_NOTE": "Anda akan mengonversi kartu ini ke dalam varian 3D. Proses ini bersifat permanen dan tidak dapat dibatalkan. Semua \"Frame\" yang terpasang akan hilang selama proses ini. Kartu yang dikonversi akan memiliki \"Gen\" yang proporsional dengan kartu yang lama",
+    "EVENT_NOTE": "Anda akan mengubah kartu ini menjadi varian 3D-Event. Proses ini bersifat permanen dan tidak dapat dibatalkan. Semua \"Frame\" yang terpasang akan hilang selama proses ini. Kartu acara memiliki \"Gen\" tersembunyi yang dapat Anda ungkapkan setelah acara selesai melalui situs web kami"
 }

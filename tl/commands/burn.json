@@ -1,15 +1,15 @@
 {
-  "DESCRIPTION": "Sunugin ang iyong mga card para makakuha ng mga \"Crystal\" at \"Silver\" na maaaring gamitin upang makagawa ng \"Cubes\" o bumili ng iba't ibang \"Items\" sa Bot. Ang paggamit ng command na \"sb\" nang hiwalay ay susubukan na sunugin ang pinakabagong card na iyong kinuha",
-  "GUILDSTONE_BURN": "Sigurado ka bang gusto mong sunugin ang iyong `Guild Stone`?",
-  "GUILDSTONE_NOT_FOUND": "{{author}} Wala kang `Guild Stone`",
-
-  "CANCELLED": "Ang proseso ay nakansela",
-  "BURN_FRAG_WARN": "Sigurado ka bang gusto mong sunugin ang `Fragment` na ito? Code: `{{fragCode}}`",
-  "FRAG_NOT_FOUND": "{{author}} Ang `Fragment` code na iyong ibinigay ay alinman sa di-wasto o hindi sa iyong koleksyon",
-  "CARD_NOT_FOUND": "{{author}} Ang card code na iyong ibinigay ay alinman sa di-wasto o hindi sa iyong koleksyon",
-  "CARD_LOCKED": "{{author}} Ang card na iyon ay naka-lock at hindi maaaring ma-burn",
-  "CARD_NOT_OWNED": "{{author}} Ang card na iyon ay wala na sa iyong koleksyon",
-  "SERIES": "Serye:",
-  "NAME": "Pangalan:",
-  "BURN_CARD_LOCKED": "{{author}} Ang card na iyon ay kasalukuyang ginagamit sa isang deck at hindi masusunog"
+    "DESCRIPTION": "Sunugin ang iyong mga card para makakuha ng mga \"Crystal\" at \"Silver\" na maaaring gamitin upang makagawa ng \"Cubes\" o bumili ng iba't ibang \"Items\" sa Bot. Ang paggamit ng command na \"sb\" nang hiwalay ay susubukan na sunugin ang pinakabagong card na iyong kinuha",
+    "GUILDSTONE_BURN": "Sigurado ka bang gusto mong sunugin ang iyong `Guild Stone`?",
+    "GUILDSTONE_NOT_FOUND": "{{author}} Wala kang `Guild Stone`",
+    "CANCELLED": "Ang proseso ay nakansela",
+    "BURN_FRAG_WARN": "Sigurado ka bang gusto mong sunugin ang `Fragment` na ito? Code: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "{{author}} Ang `Fragment` code na iyong ibinigay ay alinman sa di-wasto o hindi sa iyong koleksyon",
+    "CARD_NOT_FOUND": "{{author}} Ang card code na iyong ibinigay ay alinman sa di-wasto o hindi sa iyong koleksyon",
+    "CARD_LOCKED": "{{author}} Ang card na iyon ay naka-lock at hindi maaaring ma-burn",
+    "CARD_NOT_OWNED": "{{author}} Ang card na iyon ay wala na sa iyong koleksyon",
+    "SERIES": "Serye:",
+    "NAME": "Pangalan:",
+    "BURN_CARD_LOCKED": "{{author}} Ang card na iyon ay kasalukuyang ginagamit sa isang deck at hindi masusunog",
+    "BURN_REWARDS": "__Rewards__"
 }
