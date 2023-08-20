@@ -1,12 +1,11 @@
 {
-  "BG_DESCRIPTION": "Устанавливает \"Background\" на ваши 3D карточки",
-  "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <КодКарты> <BackgroundID>`",
-  "BG_CATEGORY": "Косметика",
-
-  "EMBED_TITLE": "Установить Background:",
-  "USER_NO_BG": "У вас нет этого `Background`",
-  "NON_3D_CARDS": "{{author}} Вы не можете устанавливать `Backgrounds` к картам, которые не являются 3D",
-  "INVALID_CODE": "{{author}} Код этой карты либо недействителен, либо отсутствует в вашей коллекции",
-  "BG_NOT_FOUND": "Не удалось найти ни одного `Background` с таким идентификатором",
-  "EMBED_DESCRIPTION": "Вы собираетесь установить `Background` **{{background}}** на эту карту"
+    "BG_DESCRIPTION": "Устанавливает \"Background\" на ваши 3D карточки",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <КодКарты> <BackgroundID>`",
+    "BG_CATEGORY": "Косметика",
+    "EMBED_TITLE": "Установить Background:",
+    "USER_NO_BG": "У вас нет этого `Background`",
+    "NON_3D_CARDS": "{{author}} Вы не можете устанавливать `Backgrounds` к картам, которые не являются 3D",
+    "INVALID_CODE": "{{author}} Код этой карты либо недействителен, либо отсутствует в вашей коллекции",
+    "BG_NOT_FOUND": "Не удалось найти ни одного `Background` с таким идентификатором",
+    "EMBED_DESCRIPTION": "Вы собираетесь установить `Background` **{{background}}** на эту карту"
 }

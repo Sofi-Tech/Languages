@@ -1,1 +1,14 @@
-{}
+{
+    "MAIL_CATEGORY": "Настройки",
+    "NO_MAILS_FOUND": "{{author}} У вас отсуствует`Mail` в вашем почтовом ящике",
+    "MENU_PLACEHOLDER": "Выберите опцию",
+    "EMBED_AUTHOR": "{{username}}'s входящие",
+    "EMBED_FOOTER": "Страница: {{page}}/{{pagesNum}}",
+    "CLAIMED_REWARD_ALREADY": "{{author}} Вы уже забрали награду в предыдущей команде",
+    "REWARD_CLAIM_INVENTORY": "{{author}} Прикрепленные предметы были добавлены в ваш инвентарь",
+    "MAIL_FRAME": "`Рама`",
+    "CLAIM_REWARD_BUTTON_LABEL": "Заберите вашу награду",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Получено",
+    "MAIL_DESCRIPTION": "Открывает ваши входящие",
+    "MAIL_REWARDS": "**__Награды__**:\n"
+}

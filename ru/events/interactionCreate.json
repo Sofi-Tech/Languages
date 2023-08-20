@@ -1,1 +1,8 @@
-{}
+{
+    "SERVER_BLACKLISTED": "{{author}} Сервер занесен в черный список. Пожалуйста, свяжитесь с нами по ссылке discord.gg/sofi",
+    "COMMAND_BLACKLISTED": "{{author}} `{{commandName}}` команда занесена в черный список на этом канале",
+    "COMMAND_COOLDOWN": "{{author}}[`{{command}}`]\nПодождите **{{cooldown}}** прежде чем использовать команду.",
+    "CATEGORY_DISABLED": "{{author}} Эта категория была отключена\nПричина: `{{reason}}`",
+    "COMMAND_DISABLED": "{{author}} Эта комманда была отключена\nПричина: `{{reason}}`",
+    "VERIFY_TO_PLAY": "[Подтвердите себя на нашем сайте, чтобы играть!](<https://sofi.gg/verify>)"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "EMBED_TITLE": "SOFI: Подарок",
+    "GIFT_SLASH_DESC2": "Введите количество`{{eventItem}}`вы хотите подарить",
+    "GIFT_SLASH_DESC": "Выберите пользователя, которому хотите дать подарить `{{eventItem}}`",
+    "INVALID_AMOUNT": "{{author}} Вы не можете подарить отрицательное количество предметов",
+    "GIFT_WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}} подарить <@User/UserID> <Amount>``",
+    "INVALID_USER": "{{author}} Вы не можете подарить `{{eventItem}}`себе",
+    "NOT_ENOUGH_ITEM": "{{author}} У вас нет **{{amount}} ** `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}}Этот пользователь не зарегистрирован!",
+    "NO_ACTIVE_EVENT": "{{author}} В настоящее время нет активных событий",
+    "GIFT_CATEGORY": "Карты"
+}
