@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Aumenta la capacidad de tu lista de deseos",
     "CATEGORY": "Lista de deseos",
-    "ALREADY_MAXED": "{{author}} Ya no puedes actualizar tu lista de deseos",
+    "ALREADY_MAXED": "{{author}} Ya no puedes mejorar tu lista de deseos",
     "EMBED_DESCRIPTION": "¿Estás seguro de que quieres comprar **{{count}}** ranuras extra por **{{amount}}** `{{currency}}`?",
     "EMBED_PAY_FIELD_NAME": "Pagas:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
@@ -11,6 +11,6 @@
     "EMBED_MAXED_FIELD_VALUE": "``Máximo de ranuras de la lista de deseos (50 ranuras)``",
     "CANCELLED": "El proceso ha sido cancelado",
     "PAY_ERROR": "{{author}} No tiene suficiente `{{currency}}` para este proceso",
-    "EMBED_TITLE": "SOFI: MEJORA DE LA LISTA DE DESEOS",
+    "EMBED_TITLE": "SOFI: WISHLIST UPGRADE",
     "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Has actualizado correctamente tu lista de deseos"
 }

@@ -7,7 +7,7 @@
     "PROVIDE_GLOWCODE": "{{author}} Uso correcto: `{{prefix}}fc <CódigoDeCarta> <CódigoDeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Los códigos de `Glow` siempre empiezan con un `#`",
     "CANNOT_FIND_GLOW": "{{author}} El código de `Glow` que has proporcionado no es válido o no está en tu inventario",
-    "EMBED_TITLE": "SOFI: COLOR DE FUENTE{{reset}}",
+    "EMBED_TITLE": "SOFI: FONT COLOR{{reset}}",
     "COLOR_NAME": "`Glow`: **{{name}}**",
     "COLOR_CODE": "Código: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} El `Glow` no tiene cargas restantes",

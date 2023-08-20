@@ -5,7 +5,7 @@
     "SF_VISIBILITY_INFO": "<:_:979009081325019156> La imagen enviada **tiene** que ajustarse al borde de la carta y tener un área adecuada y visible para el texto mostrado",
     "SF_STAFF_INFO": "\n⚠️ No hagas ping a ningún miembro del personal para intentar acelerar la revisión de tu envío!\n",
     "SF_DISCORD_LINK": "{{author}} La imagen enviada tiene que usar un enlace oficial de Discord, como `cdn.discordapp.com` o `media.discordapp.net`",
-    "SF_EMBED_TITLE": "SOFI: ENVÍO DE FRAME ({{name}})",
+    "SF_EMBED_TITLE": "SOFI: FRAME SUBMISSION ({{name}})",
     "SF_DESCRIPTION": "Envía un \"Frame\"",
     "SF_CATEGORY": "Configuración",
     "MAXIMUM_NAME_LENGTH": "{{author}} El nombre de tu `Frame` sólo puede tener **20** caracteres",
@@ -20,6 +20,6 @@
     "SF_EMBED_FOOTER": "Tus envíos: {{userStats}}/{{submitted}} | Envíos totales: {{globalStats}}/{{allSubmit}}",
     "SF_PNG_ONLY": "{{author}} El enlace enviado tiene que ser un archivo `PNG`",
     "SF_ROTATION_INFO": "<:_:979009081325019156> Los `Frames` aprobados estarán disponibles en nuestra rotación de `Frame Shop` y tendrán un stock máximo de **100**",
-    "GUIDELINES_EMBED_TITLE": "SOFI: ENVÍO DE `FRAME`",
+    "GUIDELINES_EMBED_TITLE": "SOFI: `FRAME` SUBMISSION",
     "SF_ATTACHMENT_INFO": "<:_:979009081325019156> Puedes descargar un [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) e [Imagen](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) de prueba para tener una mejor idea de nuestros requisitos"
 }

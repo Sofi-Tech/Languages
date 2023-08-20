@@ -2,7 +2,7 @@
     "DESCRIPTION": "- Puedes buscar un personaje específico usando el comando \"scl\". En este menú, puedes ver las estadísticas de un personaje, su variante Version/3D/GIF, así como las tablas de clasificación de Gen/Fans y el \"ID de la carta\".\n- El \"ID de la carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
     "CHAR_NOT_FOUND": "{{author}} No se ha podido encontrar ningún personaje con el nombre: `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} No se ha podido encontrar ningún personaje con el nombre: `{{arg}}`\n\n```fix\nNota: si usas la opción `-f`, la función distinguirá entre mayúsculas y minúsculas.\n```",
-    "EMBED_TITLE": "SOFI: BÚSQUEDA DE PERSONAJE (`{{category}}`)",
+    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP (`{{category}}`)",
     "NORMAL_LABEL": "Versiones",
     "FAN_PTS_LABEL": "Agregar Puntos de Fan",
     "3D_LABEL": "3D",
