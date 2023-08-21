@@ -1,12 +1,13 @@
 {
     "DESCRIPTION": "Anda dapat memeriksa cooldown untuk\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Klik ikon lonceng untuk menambahkan pengingat untuk \"Drop\", \"Vote\", dan \"Daily\"!",
     "JOIN_SUPPORT_SERVER": "[Bergabung dengan server support untuk bantuan!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
-    "BUMP": "Bump",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "UNREAD_MAIL": "\n📫 Anda memiliki **{{checkUnreadMailsCount}}** belum dibaca {{mailCount}}",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "VOTE_LABEL": "Vote"
+    "VOTE_LABEL": "Vote",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
 }

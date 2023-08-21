@@ -4,13 +4,15 @@
     "GUILD_MASTER": "Líder del Guild",
     "GUILD_VETERANS": "Veterano",
     "GUILD_ADVENTURER": "Aventurero",
-    "BUY_EMBED_TITLE": "TRANSACCIÓN:",
+    "BUY_EMBED_TITLE": "SOFI: TRANSACCIÓN",
     "YOU_PAY": "Pagas: {{additionalInfo}}",
-    "NEED_GEMS": "Necesitas **500** `Gems` para hacer esta compra",
-    "NOT_ENOUGH_AMOUNT": "No tienes suficiente `{{item}}` para esta transacción",
-    "CODE_ONE": "<:linedown:868888105611046942> Código Uno",
-    "CODE_TWO": "<:linedown:868888105611046942> Código Dos",
-    "SWAP_EMBED_TITLE": "Intercambio de Códigos",
-    "SWAP_EMBED_FOOTER": "Este proceso intercambiará los códigos de estas dos cartas",
-    "SOMETHING_WENT_WRONG": "Algo salió mal! Cualquier `Item` deducido se volvió a agregar a su inventario"
+    "NEED_GEMS": "{{author}} No tienes suficiente `{{currency}}` para intercambiar los códigos de las cartas",
+    "NOT_ENOUGH_AMOUNT": "{{author}} No tienes suficiente `{{item}}` para hacer esta compra",
+    "CODE_ONE": "<:linedown:868888105611046942> Código 1",
+    "CODE_TWO": "<:linedown:868888105611046942> Código 2",
+    "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
+    "SWAP_EMBED_FOOTER": "Este proceso intercambiará los códigos entre ambas cartas",
+    "SOMETHING_WENT_WRONG": "{{author}} Algo salió mal! Cualquier item deducido se volvió a agregar a tu inventario",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Has comprado con éxito **{{amount}}** `{{itemName}}`",
+    "GS_EMBED_FOOTER": "Esta oferta expirará en {{date}}"
 }

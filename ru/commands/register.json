@@ -1,1 +1,13 @@
-{}
+{
+    "REGISTER_DESCRIPTION": "Подтвердите ваш аккаунт",
+    "REGISTER_CATEGORY": "Настройки",
+    "ALREADY_REGISTERED": "{{author}} Вы уже зарегистрированы!",
+    "AGREE_BUTTON_LABEL": "Согласен!",
+    "DISAGREE_BUTTON_LABEL": "Отказываюсь!",
+    "VERIFY_BUTTON_LABEL": "Проверка",
+    "EMBED_FOOTER": "**{{count}}** пользователей было проверено",
+    "SUPPORT_BUTTON_LABEL": "Сервер поддержки",
+    "VISIT_SUPPORT": "Посетите наш [Support Server](https://discord.gg/XPsQKJjeD7 \"Sofi Cafe\") чтобы получить больше информации",
+    "EMBED_AUTHOR": "SOFI: РЕГИСТРАЦИЯ",
+    "AGREE_TOS": "Соглашаясь с приведенным выше набором правил, вы принимаете Sofi's [Terms of Service](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)"
+}

@@ -13,7 +13,7 @@
     "MONTHS": "meses",
     "YEAR": "año",
     "YEARS": "años",
-    "SUCCESS": "ÉXITO",
+    "SUCCESS": "Proceso completado con éxito",
     "CANCELLED": "El proceso ha sido cancelado",
     "PROCESSING": "Procesando tu solicitud...<a:loading:876610443148406794>",
     "AVAILABLE": "Cargado",
@@ -24,5 +24,13 @@
     "HP": "Salud",
     "NAME": "Nombre:",
     "SERIES": "Serie:",
-    "MEMBER_NOT_VERIFIED": "{{author}} Ese usuario no está verificado"
+    "MEMBER_NOT_VERIFIED": "{{author}} Ese usuario no está verificado",
+    "NEGATIVE_AMOUNT": "{{author}} No puedes comprar una cantidad negativa de un item",
+    "AUTHOR_UNVERIFIED": "{{author}} No estás verificado",
+    "ERROR": "{{author}} Ha ocurrido un error. Por favor inténtalo de nuevo.",
+    "NOT_REGISTERED": "{{author}} Ese usuario no está registrado!",
+    "AUTHOR_BLACKLISTED": "{{author}} Estás en la lista negra",
+    "MEMBER_BLACKLISTED": "{{author}} Ese usuario está en la lista negra!",
+    "AUTHOR_QUARANTINED": "{{author}} Estás en cuarentena",
+    "MEMBER_QUARANTINED": "{{author}} Ese usuario está en cuarentena"
 }

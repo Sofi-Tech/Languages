@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Masukkan kode kartu yang ingin anda berikan",
     "NO_SELF_GIVE": "{{author}} Anda tidak dapat memberikan kartu ke diri sendiri",
     "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
-    "MEM_BLACKLISTED": "{{author}} Pengguna itu masuk daftar hitam!",
+    "MEM_BLACKLISTED": "{{author}} Pengguna itu masuk daftar hitam",
     "MEM_QUARANTINED": "{{author}} Pengguna tersebut dikarantina!",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}g <@Pengguna/IDPengguna> <KodeKartu>`",
     "NO_CARD_FOUND": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",

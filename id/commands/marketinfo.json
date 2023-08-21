@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Menampilkan daftar pasar anda saat ini atau memeriksa penawaran jika anda memberikan ID",
-    "INVALID_DEAL_ID": "{{author}} ID Pesanan yang anda berikan tidak valid",
+    "INVALID_DEAL_ID": "{{author}} ID-Pesanan yang anda berikan tidak valid",
     "TRADER": "Pedagang",
-    "DEAL_ID": "ID-Transaksi",
+    "DEAL_ID": "ID-Pemesanan",
     "PRODUCT": "Produk",
     "VALUE": "Nilai",
     "RATE": "Kurs",
@@ -10,5 +10,7 @@
     "NO_LISTINGS_FOUND": "{{user}} Saat ini anda tidak memiliki pesanan apa pun di pasar",
     "INFO": "Gunakan perintah `{{prefix}}mul <Order-ID>` untuk menghapus pesanan anda dari pasar",
     "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}}",
-    "EMBED_TITLE": "DAFTAR ANDA:"
+    "EMBED_TITLE": "DAFTAR ANDA:",
+    "DEAL_EMBED_TITLE": "SOFI: INFO PEMESANAN",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }

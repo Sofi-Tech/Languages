@@ -5,11 +5,11 @@
     "INVALID_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
     "NO_CHARACTER": "{{author}} El personaje de esta carta ya no está disponible en Sofi y no se puede interactuar con él",
     "NO_GIF": "{{author}} No puedes quitar cosméticos de una carta `GIF`",
-    "NOT_MORPHED": "{{author}} Esa carta no tiene ningún `Morph` aplicado",
-    "EMBED_TITLE": "ELIMINAR MORPH",
-    "UM_CONFIRMATION": "¿Estás seguro de que quieres eliminar el 'Morph' de esta carta?\nEste proceso costará **100** `Silver`",
+    "NOT_MORPHED": "{{author}} Esa carta no tiene ningún morph aplicado",
+    "EMBED_TITLE": "SOFI: ELIMINAR MORPH",
+    "UM_CONFIRMATION": "¿Estás seguro de que quieres eliminar el morph de esta carta por **{{count}}** {{currencyEmoji}}?",
     "NO_OWNER": "{{author}} La carta ya no está en tu colección",
-    "SOMETHING_WENT_WRONG": "{{author}} Algo salió mal, inténtalo de nuevo",
+    "SOMETHING_WENT_WRONG": "{{author}} Algo salió mal, por favor inténtalo de nuevo",
     "NOT_ENOUGH_SILVERS": "{{author}} No tienes suficiente `{{currency}}` para este proceso",
-    "UM_SUCCESSFUL": "El `Morph` se eliminó con éxito"
+    "UM_SUCCESSFUL": "{{author}} Eliminado con éxito el morph de esta carta"
 }

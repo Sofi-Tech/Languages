@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "पसंदीदा-सूची पर सूचित होने के लिए चैनल सेट करें",
     "CATEGORY": "WISHLIST",
-    "CHANNEL_SET": "{{author}} आपकी पसंदीदा-सूची {{channel}} सेट किया गया",
-    "CHANNEL_REMOVE": "{{author}} आपकी पसंदीदा- सूची {{channel}} से हटाया गया"
+    "CHANNEL_SET": "{{author}} आपका पसंदीदा-सूची चैनल {{channel}} सेट किया गया",
+    "CHANNEL_REMOVE": "{{author}} आपका पसंदीदा-सूची चैनल {{channel}} से हटाया गया"
 }

@@ -4,5 +4,6 @@
     "COMMAND_COOLDOWN": "{{author}}[`{{command}}`]\nПодождите **{{cooldown}}** прежде чем использовать команду.",
     "CATEGORY_DISABLED": "{{author}} Эта категория была отключена\nПричина: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Эта комманда была отключена\nПричина: `{{reason}}`",
-    "VERIFY_TO_PLAY": "[Подтвердите себя на нашем сайте, чтобы играть!](<https://sofi.gg/verify>)"
+    "VERIFY_TO_PLAY": "[Подтвердите себя на нашем сайте, чтобы играть!](<https://sofi.gg/verify>)",
+    "VERIFY_BUTTON_LABEL": "Проверка"
 }

@@ -1,1 +1,13 @@
-{}
+{
+    "NOT_ENOUGH_AMOUNT": "{{author}}У вас недостаточно `{{item}}` чтобы совершить покупку",
+    "YOU_PAY": "Вы зплатите: {{additionalInfo}}",
+    "YOU_GET": "Вы получите: {{additionalInfo}}",
+    "GUILD_FOUNDER": "Основатель",
+    "GUILD_MASTER": "Мастер гильдии",
+    "GUILD_VETERANS": "Ветеран",
+    "GUILD_ADVENTURER": "Авантюрист",
+    "NEED_GEMS": "{{author}} У вас недостаточно `{{currency}}` чтобы поменять местами коды карт",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Успешно купленно **{{amount}}** `{{itemName}}`",
+    "SOMETHING_WENT_WRONG": "{{author}} Что-то пошло не так! Любой вычитаемый предмет был добавлен обратно в ваш инвентарь",
+    "GS_EMBED_FOOTER": "Срок действия этой сделки истекает через {{date}}"
+}

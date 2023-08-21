@@ -3,7 +3,7 @@
     "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} Aún no tienes ninguna carta en tu colección",
     "UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el `Tag` de tu carta **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Eliminado el tag de {{count}} cartas",
+    "MULTIPLE_UNTAG": "{{author}} Eliminado el tag de **{{count}}** cartas",
     "INVALID_CODE": "{{author}} Ese código de carta no es válido o no está en tu inventario",
     "INVALID_CODE_MULTIPLE": "{{author}} Los siguientes códigos de carta no son válidos o no están en tu inventario:\n{{invalidCodeList}}"
 }
