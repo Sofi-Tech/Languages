@@ -9,7 +9,7 @@
     "GLOW_NAME_EXISTS": "{{author}} Ese nombre ya está asignado a otro `Glow`",
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "¿Estás seguro de que quieres cambiar el nombre de tu `Glow` de `{{oldName}}` a `{{newName}}`?",
-    "MISSING_ITEMS": "{{author}} No tienes suficiente `{{currency}}` para este proceso",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el nombre de su `Glow` a `{{newName}}`",
-    "PROFANE_GLOW_NAME": "{{author}} El nombre de tu `Glow` **no pueden** contener palabras malsonantes"
+    "MISSING_ITEMS": "{{author}} No tienes suficientes `{{currency}}` para este proceso",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el nombre de tu `Glow` a `{{newName}}`",
+    "PROFANE_GLOW_NAME": "{{author}} El nombre de tu `Glow` **no puede** contener palabras malsonantes"
 }

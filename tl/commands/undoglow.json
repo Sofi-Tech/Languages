@@ -9,6 +9,6 @@
     "EMBED_TITLE": "TINATANGGAL ANG GLOW",
     "UNG_CONFIRMATION": "Sigurado ka bang gusto mong alisin ang `Glow` sa card na ito?\nAng prosesong ito ay nag hahalaga ng **100** `Silver`",
     "EMBED_FOOTER": "Ang na tanggal na `Glow` ay hindi babalik sa iyong `Inventory`",
-    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
+    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `{{currency}}` para sa prosesong ito",
     "UNG_SUCCESSFUL": "Ang `Glow` ay matagumpay na natanggal"
 }

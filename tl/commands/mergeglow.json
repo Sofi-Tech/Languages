@@ -1,12 +1,12 @@
 {
-  "MG_DESCRIPTION": "Nag \"Merge\" ng 4 na kakaibang \"Glows\" upang makakuha ng \"Resin\"",
-  "MG_CATEGORY": "Kosmetiko",
-
-  "GLOW_CODES_MISSING": "{{author}} Tamang pag-gamit: `{{prefix}}mg <GlowCode1><GlowCode2><GlowCode3><GlowCode4>`",
-  "GLOWS_UNAVAILABLE": "{{author}} Ang mga sumusunod na `Glows` ay walang laman: `{{unavailableGlows}}`",
-  "GLOW_CODES_UNIQUE": "{{author}} Kailangan mo ng 4 na kakaibang `Glows` sa prosesong ito",
-
-  "GLOWS_NOT_FOUND": "{{author}} Ang mga sumusunod na `Glows` ay maalin na hindi wasto o hindi mo pag mamay-ari: `{{glows}}`",
-  "EMBED_TITLE": "SOFI: PAG-ISAHIN ANG GLOW",
-  "MERGE_CONFIRMATION": "Ikaw ay malapit nang i `Merge` ang mga sumusunod na `Glows`:\n\n{{glows}}\n\nMakakatanggap ka nang **1*8x <:resin:938131736741691442>"
+    "MG_DESCRIPTION": "Nag \"Merge\" ng 4 na kakaibang \"Glows\" upang makakuha ng \"Resin\"",
+    "MG_CATEGORY": "Kosmetiko",
+    "GLOW_CODES_MISSING": "{{author}} Tamang pag-gamit: `{{prefix}}mg <GlowCode1><GlowCode2><GlowCode3><GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} Kahit isa sa mga `Glow` codes na iyong ibinigay ay walang laman",
+    "GLOW_CODES_UNIQUE": "{{author}}Hindi mo maaaring gamitin ang mag kaparehas na `Glow` code ng lampas sa isang beses",
+    "GLOWS_NOT_FOUND": "{{author}} Kahit isa sa mga `Glow` codes na iyong ibinigay ay maaaring hindi wasto o wala sa iyong imbentaryo",
+    "EMBED_TITLE": "SOFI: PAG-ISAHIN ANG MGA **GLOW**",
+    "MERGE_CONFIRMATION": "Sigurado ka bang nais mong i`Merge` ang mga sumusunod na `Glows`?\n\n{{glows}}\n\nMakakatanggap ka nang <:resin:938131736741691442> **1** `Resin` sa prosesong ito",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} Matagumpay na napagsama ang iyong `Glows` sa <:resin:938131736741691442>",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} Kahit isa sa mga `Glows` na iyong ibinigay ay wala na sa iyong imbentaryo"
 }

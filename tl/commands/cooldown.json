@@ -3,8 +3,11 @@
     "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong!](https://discord.gg/sofi)",
     "DROP": "Maglapag",
     "GRAB": "Kumuha",
-    "VOTE": "Boto",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "Bump",
-    "DAILY": "Pang araw-araw",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` hindi pa nababasang mga sulat | I-type ang `{{customPrefix}}mail` para basahin!"
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "UNREAD_MAIL": "\n📫 Meron kang **{{checkUnreadMailsCount}}** hindi pa nababasa {{mailCount}}",
+    "VOTE_LABEL": "Boto",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
 }

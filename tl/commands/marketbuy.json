@@ -1,20 +1,18 @@
 {
-  "DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
-  "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNg Wist>`",
-  "INVALID_DEAL_ID": "{{author}} Ang Deal ID na ibinigay ay hindi wasto",
-  "CANNOT_PURCHASE": "{{user}} Hindi maaaring bilhin ang deal na iyon",
-  "CANNOT_SELF": "{{user}} Hindi ka maaaring makipag-ugnayan sa iyong sariling deal",
-  "WIST_NOT_EXCEED": "{{author}} Ang deal na ito ay merong {{amount}} `Wist` na natitira para bilhin",
-  "PRODUCT": "Nakuha mo:",
-  "VALUE": "Halaga:",
-  "RATE": "Porsyento:",
-
-  "ALREADY_IN_PURCHASE": "{{author}} Ikansela o iproceed ang iyong dating transaksyon bago ka mag simula ng panibago!",
-
-  "PURCHASE_CANCELLED": "Ang deal na ito ay hindi na available",
-  "MISSING_GEMS": "Ikaw ay may kulang na {{gemPrice}} `Gems`",
-  "SOMETHING_WRONG": "May mali. Subukang muli",
-  "PURCHASE_SUCCESSFUL": "Ang transaksyon na ito ay matagumpay",
-  "SUCCESS": "{{wistAmount}} `Wists` ay nabili para sa **{{gemPrice}}** `Gems`!| Deal ID: {{dealId}}",
-  "MB_EMBED_TITLE": "MERKADO SA SOFII:"
+    "DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
+    "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNg Wist>`",
+    "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay hindi wasto",
+    "CANNOT_PURCHASE": "{{user}} Hindi ka maaaring makapag interak sa order na ito",
+    "CANNOT_SELF": "{{user}} Hindi ka maaaring bumili sa iyong sariling order",
+    "WIST_NOT_EXCEED": "{{author}} Ang order na ito ay merong **{{amount}}** `{{currency}}` na natitira para bilhin",
+    "PRODUCT": "Nakuha mo:",
+    "VALUE": "Halaga:",
+    "RATE": "Porsyento:",
+    "ALREADY_IN_PURCHASE": "{{author}} Ikaw ay meron nang aktibong transaction window",
+    "PURCHASE_CANCELLED": "{{author}} Ang deal na ito ay hindi na available",
+    "MISSING_GEMS": "{{author}} Wala kang sapat na `{{currency}}` para sa prosesong ito",
+    "SOMETHING_WRONG": "{{author}} May nangyaring mali. Subukang muli",
+    "PURCHASE_SUCCESSFUL": "{{author}} Matagumpay na nabili **{{boughtCount}}** {{currency}}",
+    "SUCCESS": "{{user}} Matagumpay mong naibenta ang **{{orderPrice}}** {{currency}} at nakakuha ng **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`",
+    "MB_EMBED_TITLE": "SOFI: BILIHAN"
 }

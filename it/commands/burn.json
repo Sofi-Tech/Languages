@@ -4,10 +4,16 @@
     "GUILDSTONE_NOT_FOUND": "{{author}} Non hai una`Guild Stone`",
     "CANCELLED": "Il processo è stato annullato",
     "BURN_FRAG_WARN": "Sei sicuro di voler bruciare questo `Fragment`?\n\nNome: **{{characterName}}**\nSerie: **{{seriesName}}**\nCodice: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "Nessun `Fragment` trovato",
-    "CARD_NOT_FOUND": "Impossibile trovare quella carta",
-    "CARD_LOCKED": "Quella carta è bloccata",
-    "CARD_NOT_OWNED": "Non possiedi quella carta",
+    "FRAG_NOT_FOUND": "{{author}} Il codice`Fragment` che hai formito è o invalido o non nella tua collezione",
+    "CARD_NOT_FOUND": "{{author}} Il codice della carta fornita è o invalida o non nella tua collezione",
+    "CARD_LOCKED": "{{author}} Quella carta è bloccata e non può essere bruciata",
+    "CARD_NOT_OWNED": "{{author}} Quella carta non è più nella tua collezione",
     "EMBED_TITLE": "SOFI: BRUCIA",
-    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Hai bruciato con successo la tua `Guild Stone`"
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Hai bruciato con successo la tua `Guild Stone`",
+    "SERIES": "Serie:",
+    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} hai bruciato con successo il tuo`Fragment`",
+    "BURN_CARD_LOCKED": "{{author}} Quella carta è attualmente utilizzata nel tuo deck e non puo essere bruciata",
+    "NAME": "Nome:",
+    "BURN_REWARDS": "__Premi__",
+    "SUCCESSFUL_CARD_BURN": "{{author}} hai bruciato con successo la tua carta"
 }

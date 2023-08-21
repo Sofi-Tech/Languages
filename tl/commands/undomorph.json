@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "Sigurado ka bang nais mong alisin ang `Morph` ng card na ito?\nAng prosesong ito ay magkakahalaga ng **100** `Silver`",
     "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
     "SOMETHING_WENT_WRONG": "{{author}} May maling nangyari, subukang muli",
-    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `Silver` para sa prosesong ito",
+    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `{{currency}}` para sa prosesong ito",
     "UM_SUCCESSFUL": "Ang `Morph` ay matagumpay na natanggal"
 }

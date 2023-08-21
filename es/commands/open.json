@@ -11,7 +11,7 @@
     "CHEST_MISSING": "{{author}} No tienes **{{count}}** `{{chestName}}` en tu inventario",
     "COMMON_INFO_1": "Has abierto **{{totalChests}}** `{{chestName}}`",
     "ITEMS_FOUND": "**__Items obtenidos__**",
-    "COMMON_RARE_FOOTER": "Puedes obtener un \"{{chestName}}\" por cada racha diaria de {{count}}",
+    "COMMON_RARE_FOOTER": "Puedes obtener un \"{{chestName}}\" por cada racha de {{count}} \"Daily\"",
     "EXOTIC_DIVINE_FOOTER": "Puedes obtener {{article}} \"{{chestName}}\" por hacer vote {{count}} veces cada mes",
     "NAME": "Nombre:",
     "DESCRIPTION": "Abre chests y lootboxes",

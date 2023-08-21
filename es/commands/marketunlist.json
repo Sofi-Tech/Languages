@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Elimina tus ofertas del mercado",
-    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}mul <IDDelPedido/Todo>`",
-    "INVALID_DEAL_ID": "{{author}} El ID de pedido proporcionado no es válido o no es tuyo",
-    "SUCCESS_UL": "{{user}} Se ha eliminado con éxito el siguiente pedido del mercado: `{{dealId}}`",
-    "NO_LISTINGS_FOUND": "{{user}} Actualmente no tienes ningún pedido",
-    "SUCCESS_UL_ALL": "{{user}} Has retirado con éxito todos tus pedidos del mercado"
+    "DESCRIPTION": "Elimina tus anuncios del mercado",
+    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}mul <IDDelAnuncio/Todo>`",
+    "INVALID_DEAL_ID": "{{author}} El ID de anuncio proporcionado no es válido o no es tuyo",
+    "SUCCESS_UL": "{{user}} Se ha eliminado con éxito el siguiente anuncio del mercado: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Actualmente no tienes ningún anuncio",
+    "SUCCESS_UL_ALL": "{{user}} Has retirado con éxito todos tus anuncios del mercado"
 }

@@ -3,10 +3,10 @@
     "IN_ACTIVE_MB": "{{user}} Non puoi avviare un nuovo `massburn` mentre quello vecchio è ancora attivo",
     "PROVIDE_FILTERS": "{{author}} Corretto uso: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Puoi trovare una comprensiva lista di filtri con il comando \"{{prefix}}Aiuto filtri\"\n```",
     "WRONG_TAG": "{{author}} Non è riuscito a trovare alcun `Tag` con il nome: `{{arg}}`",
-    "NO_CARDS_FOUND": "{{author}} Non è riuscito a trovare alcuna scheda corrispondente ai tuoi criteri di ricerca",
+    "NO_CARDS_FOUND": "{{author}} Non è stato possibile trovare nessuna carta corrispondente ai tuoi criteri di ricerca",
     "CARDS_BURNED": "__Carte Selezionate [ {{totalCards}} ]__",
     "CONFIRM_ASK": "Sei sicuro di voler bruciare le carte elencate? Questa azione è irreversibile",
     "MISSING_CARDS": "{{author}} Almeno una carta del `Tags` selezionato non è più presente nella tua collezione",
     "SUCCESS": "Le carte sono state bruciate con successo",
-    "BURN_REWARDS": "Premi di Bruciatura"
+    "BURN_REWARDS": "__Premi__"
 }

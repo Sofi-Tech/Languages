@@ -1,9 +1,9 @@
 {
     "3D_DESCRIPTION": "당신의 카드를 그들의 3D 형태로 변환합니다",
     "3D_CATEGORY": "화장품",
-    "INVALID_CARD_CODE": "{{author}} 제공하신 카드 코드는 유효하지 않습니다",
-    "NO_GIF_CONVERSION": "{{author}} `GIF` 카드는 3D 변형으로 전환될 수 없습니다",
-    "CARD_3D_ALREADY": "{{author}} 해당 카드는 이미 3D 상태입니다",
+    "INVALID_CARD_CODE": "{{author}} 제공한 카드 코드는 유효하지 않거나 당신의 컬렉션에 없습니다",
+    "NO_GIF_CONVERSION": "{{author}} GIF 카드를 3D 변형으로 변환할 수 없습니다",
+    "CARD_3D_ALREADY": "{{author}} 해당 카드는 이미 3D 변형입니다",
     "NO_EVENT_CARD_CONVERSION": "{{author}} 이벤트 카드는 3D 형태로 변환될 수 없습니다",
     "NO_3D_VERSION": "{{author}} 해당 캐릭터는 현재 3D 변형이 없습니다",
     "EMBED_TITLE": "SOFI: 3D",

@@ -9,7 +9,7 @@
     "FC_MENU_LABEL": "Personaje Favorito",
     "BG_MENU_LABEL": "Background",
     "TC_MENU_LABEL": "Color de Texto",
-    "SC_MENU_LABEL": "Carta Mostrada",
+    "SC_MENU_LABEL": "Carta de Muestra",
     "PC_INTRO": "<:_:979009081325019156> **Introducción**: Establece un mensaje introductorio\n<:_:979009081325019156> **Personaje Favorito**: Selecciona tu personaje favorito\n<:_:979009081325019156> **Carta de Muestra**: Elije tu carta favorita para mostrarla en tu perfil\n<:_:979009081325019156> **Background**: Coloca un background en tu perfil\n<:_:979009081325019156> **Color de Texto**: Cambia el color de texto de tu perfil\n<:_:979009081325019156> **Glow de Perfil**: Aplica un efecto de brillo a tu perfil\n<:_:979009081325019156> **Premios**: Muestra premios en tu perfil",
     "PBG_MENU_LABEL": "Glow de Perfil",
     "AD_MENU_LABEL": "Premios",
@@ -44,10 +44,10 @@
     "GLOW_NOT_FOUND": "{{author}} El código de `Glow` que has proporcionado no es válido o no está en tu inventario",
     "SET_FONT_GLOW": "¿Estás seguro de que quieres aplicar el `Glow` **{{glowName}}** al texto de tu perfil?",
     "SUCCESSFUL_INTRO": "{{author}} Establecido con éxito tu mensaje de presentación",
-    "SUCCESSFUL_DISPLAY_CARD": "{{author}} Establecido con éxito a **{{characterName}}** como tu carta para mostrar",
+    "SUCCESSFUL_DISPLAY_CARD": "{{author}} Se ha establecido con éxito a **{{characterName}}** como tu carta para mostrar",
     "SUCCESSFUL_BACKGROUND": "{{author}} Establecido con éxito **{{backgroundName}}** como background de tu perfil",
     "SUCCESSFUL_FONT_COLOR": "{{author}} Aplicado con éxito el `Glow` **{{glowName}}** al texto de tu perfil",
     "SUCCESSFUL_PROFILE_GLOW": "{{author}} Establecido con éxito **{{glowName}}** como `Glow` de tu perfil",
-    "SUCCESSFUL_CHARACTER": "{{author}} Establecido con éxito a **{{characterName}}** como tu personaje favorito",
+    "SUCCESSFUL_CHARACTER": "{{author}} Se ha establecido con éxito a **{{characterName}}** como tu personaje favorito",
     "SUCCESSFUL_AWARDS": "{{author}} Has colocado correctamente los premios seleccionados en su perfil"
 }
