@@ -5,11 +5,12 @@
     "EMBED_DESCRIPTION": "Sei sicuro di voler acquistare **{{count}}** slot extra per **{{amount}}** `{{currency}}`?",
     "EMBED_PAY_FIELD_NAME": "Pagherai:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "Avrai:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} slot extra nella tua lista dei desideri```",
-    "EMBED_MAXED_DESCRIPTION": "Vuoi raggiungere il limite massimo di spazi per la tua lista dei desideri per {{amount}} {{currency}}?",
-    "EMBED_MAXED_FIELD_VALUE": "```Una lista dei desideri completamente sbloccata (50 slot)```",
+    "EMBED_GET_FIELD_NAME": "Ricevi:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} slot aggiuntivi per desiderati ```",
+    "EMBED_MAXED_DESCRIPTION": "Sei sicuro di voler sbloccare completamente il tuo desiderato per **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_FIELD_VALUE": "```Slot massimi di desiderato (50 slot)```",
     "CANCELLED": "Il processo è stato annullato",
-    "PAY_ERROR": "`Non hai {{amount}} {{currency}}`",
-    "EMBED_TITLE": "SOFI: AGGIORNAMENTO WISHLIST"
+    "PAY_ERROR": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
+    "EMBED_TITLE": "SOFI: AGGIORNAMENTO WISHLIST",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Ha aggiornato con successo il tuo desiderato"
 }

@@ -1,6 +1,6 @@
 {
-    "BF_DESCRIPTION": "Achète une \"Frame\" dans le \"Frame Shop\"",
-    "BF_CATEGORY": "Cosmetics",
+    "BF_DESCRIPTION": "Acheter une \"Frame\" dans le \"Frame Shop\"",
+    "BF_CATEGORY": "Cosmétiques",
     "NO_FRAME_NAME": "{{author}} Veuillez indiquer le code de la `Frame` que vous souhaitez acheter",
     "NO_FRAMECODE_FOUND": "{{author}} Impossible de trouver une `Frame` avec le code: `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} Cette `Frame` est actuellement indisponible. Veuillez utiliser la commande `{{prefix}}fs` pour voir la rotation actuel de `Frame`",
@@ -8,7 +8,7 @@
     "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "Vous obtenez:",
     "YOU_PAY": "Vous payez:",
-    "NO_ENOUGH_AMOUNT": "{{author}} Vous n'avez pas suffisamment de `{{currency}}` pour cette transaction",
+    "NO_ENOUGH_AMOUNT": "{{author}} Vous n'avez pas suffisamment de `{{currency}}` pour faire cet achat",
     "FRAME_PURCHASED_BY": "Votre `Frame`**{{frame}}** a été achetée par `{{userId}}`| {{buyCount}}",
     "TRANSACTION_SUCCESSFUL": "{{author}} Achat effectué avec succès de la `Frame` **{{frameName}}**",
     "PROCESS_CANCELLED": "Le processus a été annulé"

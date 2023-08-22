@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "ほしいものリストをDiscordチャンネルに登録する",
-    "CATEGORY": "欲しいものリスト",
-    "CHANNEL_SET": "{{author}}欲しいものリストが{{channel}}に登録されました",
-    "CHANNEL_REMOVE": "欲しいものリストが{{channel}}から退会されました"
+    "DESCRIPTION": "ウィッシュリストをDiscordチャンネルに登録する",
+    "CATEGORY": "ウィッシュリスト",
+    "CHANNEL_SET": "{{author}}ウィッシュリストが{{channel}}に登録されました",
+    "CHANNEL_REMOVE": "{{author}} ウィッシュリストが{{channel}}から退会されました"
 }

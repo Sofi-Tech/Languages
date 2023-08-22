@@ -1,1 +1,13 @@
-{}
+{
+    "SF_PNG_ONLY": "{{author}}Предоставленная ссылка должна быть в `PNG`формате",
+    "SUBMIT_FRAME_DENY": "{{author}}У вас недостаточно `Silver` для этого процесса",
+    "SUBMIT_FRAME_SUCCESSFUL": "{{author}}`Frame` была успешно представлена",
+    "SF_CATEGORY": "Настройки",
+    "SF_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}sf <ImageURL> <FrameName>`",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Название вашего `Frame` может быть только до **20** символов длиной",
+    "SF_DESCRIPTION": "Предложение \"Frame\"",
+    "SF_DISCORD_LINK": "{{author}} Предоставленное изображение должно использовать официальную дискорд ссылку, такую как `cdn.discordapp.com` или `media.discordapp.net`",
+    "SF_DIMENSION_INFO": "<:_:979009081325019156> Размеры представленного изображения **must** be `402x603`",
+    "SF_VALID_DIMENSION": "{{author}}Предоставленное изображение имеет недопустимые размеры! `297x465`",
+    "SUBMIT_FRAME_CONFIRMATION": "Вы хотите предложить этот `Frame` за **3000** `Silver`?"
+}

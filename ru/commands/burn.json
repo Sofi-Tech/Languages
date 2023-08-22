@@ -1,12 +1,18 @@
 {
-  "DESCRIPTION": "Сожгите свои карты, чтобы получить «Crystals» и «Silver», которые можно использовать для изготовления «Cubes» или покупки различных \"Items\". Использование команды «sb» само по себе попытается сжечь вашу самую последнюю карту",
-  "GUILDSTONE_BURN": "Вы собираетесь использовать `Guild Stone`",
-  "GUILDSTONE_NOT_FOUND": "У вас нет `Guild Stone` для использования",
-
-  "CANCELLED": "ОТМЕНЕНО",
-  "BURN_FRAG_WARN": "Вы собираетесь сжечь `Fragment`\n`Fragment` Код: `{{fragCode}}`",
-  "FRAG_NOT_FOUND": "`Fragment` не найден",
-  "CARD_NOT_FOUND": "Не удалось найти эту карту",
-  "CARD_LOCKED": "Эта карта заблокирована",
-  "CARD_NOT_OWNED": "У вас нет этой карточки"
+    "DESCRIPTION": "Сожгите свои карты, чтобы получить «Crystals» и «Silver», которые можно использовать для изготовления «Cubes» или покупки различных \"Items\". Использование команды «sb» само по себе попытается сжечь вашу самую последнюю карту",
+    "GUILDSTONE_BURN": "Вы уверены, что хотите сжечь свой `Guild Stone`?",
+    "GUILDSTONE_NOT_FOUND": "{{author}} У вас нет `Guild Stone` для использования",
+    "CANCELLED": "Процесс был отменён",
+    "BURN_FRAG_WARN": "Вы собираетесь сжечь `Fragment`?\n\nИмя: **{{characterName}}**\nСерия: **{{seriesName}}**\nКод: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "{{author}}`Fragment` не найден",
+    "CARD_NOT_FOUND": "{{author}} Не удалось найти карту",
+    "CARD_LOCKED": "{{author}} Эта карта заблокирована и не может быть сожжена",
+    "CARD_NOT_OWNED": "{{author}}У вас нет этой карты",
+    "SERIES": "Серия:",
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Успешно сожжен ваш `Guild Stone`",
+    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Успешно сожгли `Fragment`",
+    "BURN_REWARDS": "__Награды__",
+    "NAME": "Имя:",
+    "SUCCESSFUL_CARD_BURN": "{{author}} Успешно сожгли карту",
+    "BURN_CARD_LOCKED": "{{author}} Эта карта используется в колоде и не может быть сожжена"
 }

@@ -1,1 +1,7 @@
-{}
+{
+    "RM_CATEGORY": "Настройки",
+    "PROVIDE_REMINDER_NAME": "{{author}} Правильное использование: `{{prefix}}",
+    "REMINDER_ENABLED": "{{author}} Теперь вы будете уведомлены, когда ваш **`{{reminder}}`** готов",
+    "RM_DESCRIPTION": "Включает ваши напоминания",
+    "REMINDER_DISABLED": "{{author}} Вы больше не будуте получать напоминания когда ваш **`{{reminder}}`** готов"
+}

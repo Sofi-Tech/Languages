@@ -2,7 +2,7 @@
     "GIFT_SLASH_DESC": "Introduce un usuario al que quieras regalarle `{{eventItem}}`",
     "INVALID_AMOUNT": "{{author}} No puedes regalar una cantidad negativa de items",
     "GIFT_SUCCESSFUL": "{{author}} ha regalado **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} a recibido un total de **{{recieveCount}}** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} Ese usuario no está registrado",
+    "PLAYER_NOT_EXISTS": "{{author}} Ese usuario no está registrado!",
     "GIFT_CATEGORY": "Cartas",
     "GIFT_WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}gift <@Ususario/IDDeUsuario> <Cantidad>`",
     "INVALID_USER": "{{author}} No puedes regalarte `{{eventItem}}` a ti mismo",

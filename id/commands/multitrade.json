@@ -1,14 +1,14 @@
 {
     "DESCRIPTION": "Mengirim permintaan bertukar dengan pemain lain. Anda bisa menukar beberapa kartu dan \"Item\" secara bersamaan dengan fitur ini",
-    "MENTION_USER": "{{author}} Mention pengguna yang ingin anda ajak bertukar atau gunakan ID mereka",
+    "MENTION_USER": "{{author}} Penggunaan yang benar: `{{prefix}}mt <@Pengguna/IDPengguna>`",
     "IN_TRADE": "{{user}} Anda telah mengirim permintaan pertukaran kepada seseorang! Batalkan yang sebelumnya, sebelum memulai yang baru",
     "BOT_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan `BOT`",
     "SELF_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan diri sendiri",
     "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
     "AUTHOR_IS_BLED": "{{author}} Anda masuk daftar hitam",
-    "MEMBER_IS_BLED": "{{user}} masuk daftar hitam",
+    "MEMBER_IS_BLED": "{{author}} Pengguna tersebut masuk dalam daftar hitam",
     "AUTHOR_IS_QUED": "{{author}} Anda dikarantina",
-    "MEMBER_IS_QUED": "{{user}} dikarantina",
+    "MEMBER_IS_QUED": "{{author}} Pengguna itu dikarantina",
     "BUY_TP_1": "{{user}} tidak memiliki `Trade Pass` yang aktif",
     "BUY_TP_2": "Anda dapat menukarkan **1** `Bump` untuk mendapatkan 4-Jam `Trade Pass` atau mengumpulkan **20** `Bumps` untuk membeli 30-Hari `Trade Pass`",
     "FINISH_TRADE_WARN": "{{author}} Selesaikan perintah {{commandName}} sebelum melanjutkan.",
@@ -25,5 +25,6 @@
     "MT_INFO_4": "📛 Laporkan pemain yang meminta pembayaran kripto, karena ini adalah pelanggaran yang dapat dibanned!",
     "MT_COMPLETE": "Multi Trade: (Selesai)",
     "MISSING_ITEMS": "{{user}} Item berikut ini tidak ada dalam `Inventory` anda dan tidak dapat ditambahkan:\n`{{items}}`",
-    "CARD_LOCKED": "{{user}} Kartu-kartu berikut ini antara terkunci atau sedang digunakan di dalam deck dan tidak dapat ditambahkan:\n`{{codes}}"
+    "CARD_LOCKED": "{{user}} Kartu-kartu berikut ini antara terkunci atau sedang digunakan di dalam deck dan tidak dapat ditambahkan:\n`{{codes}}",
+    "MEMBER_NOT_VERIFIED": "{{author}} Pengguna tersebut tidak diverifikasi"
 }

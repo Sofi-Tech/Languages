@@ -3,12 +3,14 @@
     "UNG_CATEGORY": "Kagandahan",
     "UNG_INVALID_USAGE": "{{author}} Tamang gamit: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay ay hindi wasto o wala sa iyong koleksyon",
-    "NO_CHARACTER": "{{author}}Ang karakter na iyan ay wala na!",
+    "NO_CHARACTER": "{{author}} Ang karakter sa card na ito ay hindi na available sa Sofi at hindi na maaring makipag-ugnayan",
     "NO_GIF": "{{author}} Hindi mo maaaring tanggalin ang cosmetics ng isang `GIF` na card",
     "NOT_GLOWED": "{{author}} Ang card na iyan ay walang `Glow` na naka-apply",
-    "EMBED_TITLE": "TINATANGGAL ANG GLOW",
-    "UNG_CONFIRMATION": "Sigurado ka bang gusto mong alisin ang `Glow` sa card na ito?\nAng prosesong ito ay nag hahalaga ng **100** `Silver`",
-    "EMBED_FOOTER": "Ang na tanggal na `Glow` ay hindi babalik sa iyong `Inventory`",
+    "EMBED_TITLE": "SOFI: ALISIN ANG **`GLOW`**",
+    "UNG_CONFIRMATION": "Sigurado ka bang nais mong alisin ang `Glow` ng card na ito para sa **100** `Silver`?",
+    "EMBED_FOOTER": "Ang \"Glow\" ay hindi na babalik sa iyong imbentaryo",
     "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `{{currency}}` para sa prosesong ito",
-    "UNG_SUCCESSFUL": "Ang `Glow` ay matagumpay na natanggal"
+    "UNG_SUCCESSFUL": "{{author}} Matagumpay na tinanggal ang **{{glowName}}** `Glow` mula sa iyong card",
+    "UNG_NO_OWNER": "{{author}} Ang card ay hindi na nasa iyong koleksyon",
+    "UNAVAILABLE": "Hindi pwede"
 }

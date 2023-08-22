@@ -1,12 +1,16 @@
 {
     "NO_HELPING_ALTERS": "<:_:979009081325019156> Huwag suportahan o makipag-ugnay sa mga nagbabagong katauhan at manloloko. Kung mayroon kang mga pag-aalinlangan tungkol sa isang user, mangyaring ireport sila sa mga staff",
-    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Kung makakatagpo ka ng bug o exploit, isumbong agad ang mga ito! Ang pag-aabuso sa mga ito ay parurusahan",
+    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Lahat ng mga bugs o mga paminsan-minsang pagkakamali na iyong natuklasan ay dapat agad na ireport!",
     "NO_FARMING": "<:_:979009081325019156> Hindi mo dapat gamitin ang iyong social media standing upang makakuha ng anumang mga resources o cards sa Sofi",
     "RULES_CATEGORY": "Mag Kaayusan",
-    "NO_SCAMMING": "<:_:979009081325019156> Huwag manloko ng ibang mga user",
-    "NO_ALTING": "<:_:979009081325019156> Ikaw ay pinapayagan lamang na gumamit ng **1** solong account upang maglaro at makipag-ugnayan kay Sofi",
+    "NO_SCAMMING": "<:_:979009081325019156> Ang pagtangkang mag-scam o lokohin ang ibang user ay magdudulot sayo ng blacklist mula sa Sofi",
+    "NO_ALTING": "<:_:979009081325019156> Huwag gumamit ng mga alts/multiple accounts para maglaro o makipag-ugnayan sa Sofi. I-self report kung ikaw ay lumabag sa patakaran na ito upang maiwasan ang parusa",
     "RULES_DESCRIPTION": "Nagpapakita ng mga patakaran ni Sofi",
     "EMBED_AUTHOR": "SOFI: PATAKARAN",
     "VISIT_SUPPORT": "Bisitahin ang aming [Support Server](https://discord.gg/XPsQKJjeD7) para sa mas maraming pang impormasyon",
-    "NO_BUY_SELL_ACCOUNTS": "<:_:979009081325019156> Huwag makilahok sa proseso ng pagbili o pagbebenta ng buong mga account sa Discord"
+    "NO_BUY_SELL_ACCOUNTS": "<:_:979009081325019156> Huwag makilahok sa proseso ng pagbili o pagbebenta ng buong mga account sa Discord",
+    "DO_NOT_SIBLINGS": "<:_:979009081325019156> Ang mga magkakapatid ay parurusahan ng sabay kung ang isa man sa kanila ay mapatunayang lumabag sa mga patakaran",
+    "DO_NOT_CHANGE_EMAIL": "```fix\n⚠️ Hindi kailanman hihingi sa iyo ang Discord o ang mga tauhan ng Sofi ng iyong password o payo na palitan ang iyong E-Mail ng isang tiyak na address. Magingat sa mga third-party discord BOT na madalas gamitin para sa mga katulad na phishing attempt!```\n```",
+    "EMBED_FOOTER": "{{count}} na mga user ang sumang-ayon sa mga patakaran na ito",
+    "DO_NOT_SCAMMED_ITEMS": "<:_:979009081325019156> Ang mga item na nakamit sa pamamagitan ng mga ilegal na gawain ay tatanggalin mula sa iyong imbentaryo, kahit paano ito nakuha"
 }

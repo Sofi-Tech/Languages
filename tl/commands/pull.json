@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "\"Pull\" mula sa isang pool ng iba't ibang \"Items\" kasama ang \"Charms\" at \"Fragments\" para sa mga animated card",
-  "PULL_AMT": "{{author}} Magpasok ng bilang ng Pulls na nais mong gawin. Ito ay maaaring maging **1** o **10** lamang",
-  "INFO_1": "Kailangan mo ng 8 na Fragments upang makagawa ng GIF variant ng isang karakter",
-  "INFO_2": "Ang mga `GIF` variant ng isang karakter ay mayroong 100 natatanging `Gens`",
-  "INFO_3": "Ang mga `Fragments` ay maaaring sunugin upang makakuha ng `Charms`",
-  "PULLS": "SOFI: PULLS",
-  "PULL_COUNT": "Bilang ng pagpull: {{count}}",
-  "MISSING_CURR": "{{user}} Wala kang **{{amount}}** `{{currName}}`",
-  "AMOUNT": "Halaga: {{amount}}",
-  "PULL_COUNT_WIST": "Bilang ng Pull: {{pullcount}}",
-
-  "RATES": "Porsiyento"
+    "DESCRIPTION": "\"Pull\" mula sa isang pool ng iba't ibang \"Items\" kasama ang \"Charms\" at \"Fragments\" para sa mga animated card",
+    "PULL_AMT": "{{author}} Tamang paggamit: `{{prefix}}pull <1/10>`",
+    "INFO_1": "Kailangan mo ng 8 na Fragments upang makagawa ng GIF variant ng isang karakter",
+    "INFO_2": "Mayroong isang maksimum na **100** na mga bersyon ng `GIF` bawat karakter",
+    "INFO_3": "Ipagtapon ang mga `Fragments` upang makakuha ng mga `Charms`",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Bilang ng pagPull: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} Kulang ang iyong `{{currName}}` para sa prosesong ito",
+    "AMOUNT": "Natanggap mo: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "PULL_COUNT_WIST": "Bilang ng Pull:[ {{pullcount}}]",
+    "RATES": "Porsiyento",
+    "PULL_CHANCES": "**__Mga Posibilidad__**"
 }
