@@ -1,15 +1,15 @@
 {
     "DESCRIPTION": "Muestra tus listados de mercado actuales o examina un anuncio si proporcionas un ID",
     "INVALID_DEAL_ID": "{{author}} El ID de Anuncio proporcionado no es válido",
-    "TRADER": "Comerciante",
-    "DEAL_ID": "ID del Anuncio",
+    "TRADER": "Vendedor",
+    "DEAL_ID": "ID Anuncio",
     "PRODUCT": "Producto",
     "VALUE": "Valor",
     "RATE": "Tasa",
     "LISTED": "Listado",
     "NO_LISTINGS_FOUND": "{{user}} Actualmente no tienes ningún anuncio en el mercado",
     "INFO": "Usa el comando `{{prefix}}mul <IDDelAnuncio>` para eliminar tu anuncio del mercado",
-    "FOOTER": "Showing resultados {{page}}-{{pages}} de {{total}}",
+    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}}",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Disponibilidad: `{{stockAmount}}` {{stockEmoji}} | Tasa: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
