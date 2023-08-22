@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "Aggiungi caratteri alla tua lista dei desideri",
-    "CATEGORY": "Lista dei desideri",
-    "ADD_CHARACTERS_ERROR": "{{author}} Non puoi aggiungere più personaggi alla tua lista dei desideri",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Nome>`",
-    "NO_CHARACTER_FOUND": "{{author}} Non è riuscito a trovare quel carattere. Usa il comando `{{prefix}}wa -f <Nome>` per una ricerca esatta",
+    "CATEGORY": "Desiderati",
+    "ADD_CHARACTERS_ERROR": "{{author}} Non puoi piu aggiungere personaggi alla tua lista dei desideri",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Uso corretto: `{{prefix}}wa <Nome>`",
+    "NO_CHARACTER_FOUND": "{{author}} Non è stato riuscito trovare quel personaggio. Usa il comando `{{prefix}}wa -f <Nome>` per una ricerca esatta",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** è già nella tua lista dei desideri",
-    "CHARACTER_ADDED": "{{author}} Ha aggiunto **{{name}}** alla tua lista dei desideri",
-    "EMBED_TITLE": "SOFI: AGGIUNGI LISTA DEI DESIDERI",
+    "CHARACTER_ADDED": "{{author}} Hai aggiunto **{{name}}** alla tua lista dei desideri",
+    "EMBED_TITLE": "SOFI: AGGIUNGI ALLA LISTA DEI DESIDERI",
     "INCREASE_CAPACITY": "Usa il comando `{{prefix}}wu` o `{{prefix}}wu max` per aumentare la capacità della tua lista dei desideri"
 }

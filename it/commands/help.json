@@ -43,12 +43,12 @@
     "GUIDE_BUTTON_LABEL": "Guida!",
     "EMBED_TITLE": "SOFI: MENU D'AIUTO",
     "EMBED_FOOTER": "Richiesto da {{username}}",
-    "COMMNAD_NOT_FOUND": "{{author}} Non esiste un comando con il nome: `{{command}}`! Stai cercando `{{commandName}}`?",
-    "USAGE_EMBED_TITLE": "SOFI HELP: **{{command}}**",
+    "COMMNAD_NOT_FOUND": "{{author}} Non esiste un comando con il nome: `{{command}}`!\nStai per caso cercando `{{commandName}}`?",
+    "USAGE_EMBED_TITLE": "SOFI: HELP ({{command}})",
     "ALIASES": "Alias:",
-    "COOLDOWN": "Raffreddare:",
+    "COOLDOWN": "Cooldown:",
     "DESCRIPTION": "Descrizione:",
     "USAGE": "Modo d'uso:",
-    "NO_ALIASES": "Nessun alias",
+    "NO_ALIASES": "Nessuno",
     "NOT_PROVIDED": "Non fornito"
 }

@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Rimuove un carattere dalla tua lista dei desideri",
-    "CATEGORY": "Lista dei desideri",
+    "CATEGORY": "Desiderati",
     "NO_INDEX": "{{author}} Corretto uso: `{{prefix}}wr <Name/Number>`. Usa il comando`{{prefix}}wr full reset`Per ripulire la tua intera lista dei desideri",
     "FULL_RESET": "{{author}} Rimossi con successo tutti i personaggi dalla tua lista dei desideri",
     "REMOVE_CHARACTER": "> {{author}} Rimosso con successo**{{name}}** dalla tua lista dei desideri",
