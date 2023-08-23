@@ -3,6 +3,6 @@
     "CATEGORY": "ウィッシュリスト",
     "NO_INDEX": "{{author}} `{{prefix}}wr <キャラクター名/順番番号>`のコマンドをご確認のうえ、入力し直してください。全てのキャラクターをウィッシュリストから削除するために`{{prefix}}wr full reset`のコマンドを使用してください",
     "FULL_RESET": "{{author}} ウィッシュリストから全部のキャラクターを削除しました",
-    "REMOVE_CHARACTER": "{{author}} 「{{name}}」というキャラクターがウィッシュリストから削除成功",
-    "NO_RESULTS": "{{author}} ウィッシュリストでは{{name}}というキャラクターが見つかりませんでした"
+    "REMOVE_CHARACTER": "{{author}} 「{{name}}」をウイシュリストから削除しました",
+    "NO_RESULTS": "{{author}} ウィッシュリストでは「{{name}}」が見つかりませんでした"
 }

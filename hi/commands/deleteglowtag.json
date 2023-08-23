@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "Glow Tag हटाता है",
+    "DGT_DESCRIPTION": "Glow Tag हटाता है।",
     "DGT_CATEGORY": "TAGS",
     "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}dgt <tagname>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} आपके पास इस नाम से Glow Tag नहीं है: `{{tagname}}`",
-    "DELETE_GLOWTAG": "{{author}} इस नाम से Glow Tag हटाया गया: `{{tag}} `"
+    "GLOWTAG_NOT_FOUND": "{{author}} आपके पास इस नाम से कोई `Glow Tag` नहीं है: `{{tagname}}`",
+    "DELETE_GLOWTAG": "{{author}} इस नाम से `Glow Tag` हटाया गया: `{{tag}} `"
 }

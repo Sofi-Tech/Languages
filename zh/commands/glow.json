@@ -12,7 +12,7 @@
     "GLOW_CODE": "代码：#{{code}}",
     "EMBED_FOOTER": "Glow：{{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} 该 `Glow` 已经没有电荷了",
-    "GLOW_APPLY_SUCCESSFUL": "成功应用了 `Glow`",
+    "GLOW_APPLY_SUCCESSFUL": "{{author}}{{glowName}}成功应用了 `Glow`",
     "UNAVAILABLE": "不可用",
     "AVAILABLE": "可用"
 }

@@ -4,8 +4,8 @@
     "ADD_CHARACTERS_ERROR": "{{author}} これ以上のキャラクターはウィッシュリストに追加できません",
     "SEARCH_CHARACTER_ERROR": "{{author}} `{{prefix}}wa <キャラクター名>`のコマンドをご確認のうえ、入力し直してください",
     "NO_CHARACTER_FOUND": "{{author}} キャラクターが見つかりませんでした。完全一致を検索には `{{prefix}}wa -f <name>` のコマンドを使用してください",
-    "CHARACTER_ALREADY_EXISTS": "{{author}}「{{name}}」というキャラクターは ウィッシュリストに存在しています",
-    "CHARACTER_ADDED": "{{author}}「{{name}} 」というキャラクターをウィッシュリストに追加しました",
+    "CHARACTER_ALREADY_EXISTS": "{{author}}「{{name}}」はウィッシュリストに存在しています",
+    "CHARACTER_ADDED": "{{author}}「{{name}} 」をウィッシュリストに追加しました",
     "EMBED_TITLE": "SOFI：ウィッシュリストに追加",
     "INCREASE_CAPACITY": "`{{prefix}}wu` or `{{prefix}}wu max`のコマンドでウィッシュリストスロットが拡張できます"
 }

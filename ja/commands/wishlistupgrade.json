@@ -2,15 +2,15 @@
     "DESCRIPTION": "ウィッシュリストスロット拡張する",
     "CATEGORY": "ウィッシュリスト",
     "ALREADY_MAXED": "{{author}} ウィッシュリストスロットが最大拡張数になりました",
-    "EMBED_DESCRIPTION": "「{{count}}つ」スロットが「{{amount}} {{currency}}」で拡張を確認",
+    "EMBED_DESCRIPTION": "**{{count}}つスロット**が「{{amount}} {{currency}}」で拡張を確認",
     "EMBED_PAY_FIELD_NAME": "価格：",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "スロット拡張：",
     "EMBED_GET_FIELD_VALUE": "```{{count}}つウィッシュリストスロット```",
     "EMBED_MAXED_DESCRIPTION": "「{{amount}} {{currency}}」で最大ウィッシュリストスロット数まで拡張を確認",
-    "EMBED_MAXED_FIELD_VALUE": "```最大50つスロットまで拡張できる状態です```",
+    "EMBED_MAXED_FIELD_VALUE": "```最大拡張数（50つまで）```",
     "CANCELLED": "ウィッシュリストスロット拡張がキャンセルされました",
-    "PAY_ERROR": "{{author}} ウィッシュリストスロット拡張のに十分な`{{currency}}`がありません",
+    "PAY_ERROR": "{{author}} ウィッシュリストスロット拡張のに十分な「{{currency}}」がありません",
     "EMBED_TITLE": "SOFI：ウィッシュリストスロット拡張",
-    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} できる状態ですスロット拡張成功"
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} スロット拡張成功"
 }

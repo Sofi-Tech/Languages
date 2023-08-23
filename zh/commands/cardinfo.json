@@ -13,7 +13,7 @@
     "OWNED": "拥有者：",
     "DROPPED": "掉落者：",
     "CLAIM_BY": "得到者：",
-    "CLAIM_ON": "得到时间：",
+    "CLAIM_ON": "得到时间:",
     "LEVEL": "Level",
     "POPULARITY": "Popularity",
     "FOUGHT_OFF": "抵制数",
@@ -22,5 +22,7 @@
     "SOME_GLOW": "无法获得",
     "SOME_CODE": "无法获得",
     "SOME_FRAME": "无法获得",
-    "EMBED_AUTHOR": "SOFI: 卡片INFO (Level - {{level}})"
+    "EMBED_AUTHOR": "SOFI: 卡片INFO (Level - {{level}})",
+    "CLAIM_AT": "\n掉在：",
+    "MORPHED": "变形"
 }

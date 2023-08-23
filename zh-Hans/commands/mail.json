@@ -1,1 +1,14 @@
-{}
+{
+    "MENU_PLACEHOLDER": "选择一个选项",
+    "MAIL_CATEGORY": "设置",
+    "NO_MAILS_FOUND": "{{author}}您的收件箱中没有任何“邮件”",
+    "EMBED_AUTHOR": "{{username}}的收件箱",
+    "EMBED_FOOTER": "页:{{page}}{{pagesNum}}",
+    "CLAIMED_REWARD_ALREADY": "{{author}}您已经在先前的命令中领取了奖励",
+    "CLAIM_REWARD_BUTTON_LABEL": "领取您的奖励",
+    "MAIL_REWARDS": "**__奖励__**\n",
+    "MAIL_FRAME": "框架",
+    "MAIL_DESCRIPTION": "打开您的收件箱",
+    "REWARD_CLAIM_INVENTORY": "{{author}}附加的物品已添加到您的库存中",
+    "REWARD_CLAIMED_BUTTON_LABEL": "拿"
+}

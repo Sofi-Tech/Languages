@@ -1,16 +1,15 @@
 {
-  "GN_DESCRIPTION": "更改光晕名称",
-  "GN_CATEGORY": "化妆品",
-  "UNLOCK_GLOWS": "{{author}} 首先解锁一些闪光",
-  "WRONG_USAGE": "{{author}} 正确使用方法：`{{prefix}}glowname [闪光代码] [新名称]`",
-  "WRONG_GLOWCODE_FORMAT": "{{author}}发光代码以#开始",
-  "GLOW_NOT_FOUND": "{{author}} 在您的调色板中找不到该闪光。代码正确吗？",
-
-  "GLOW_NAME_LONG": "{{author}} 闪光名称太长了。尝试少于25个字母",
-  "GLOW_NAME_EXISTS": "闪光名称已经被使用了...创新一下 😎",
-  "EMBED_TITLE": "SOFI：GLOW NAME",
-  "GLOWNAME_CHANGE_CONFIRMATION": "您确定要将 `{{oldName}}` 更改为 `{{newName}}` 吗？",
-
-  "MISSING_ITEMS": "缺少物品",
-  "GLOWNAME_CHANGE_SUCCESSFUL": "闪光名称已成功更新"
+    "GN_DESCRIPTION": "更改光晕名称",
+    "GN_CATEGORY": "化妆品",
+    "UNLOCK_GLOWS": "{{author}} 首先解锁一些闪光",
+    "WRONG_USAGE": "{{author}} 正确使用方法：`{{prefix}}glowname [闪光代码] [新名称]`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}}发光代码以#开始",
+    "GLOW_NOT_FOUND": "{{author}} 你提供的 `Glow` code 无效或者不在你的库存中",
+    "GLOW_NAME_LONG": "{{author}} 闪光名称太长了。尝试少于25个字母",
+    "GLOW_NAME_EXISTS": "{{author}}闪光名称已经被使用了...创新一下 😎",
+    "EMBED_TITLE": "SOFI：GLOW NAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "您确定要将 `{{oldName}}` 更改为 `{{newName}}` 吗？",
+    "MISSING_ITEMS": "{{author}}{{currency}}缺少物品",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}}闪光名称已成功更新{{newName}}",
+    "PROFANE_GLOW_NAME": "{{author}}您的“Glow”名称**不得**包含脏话"
 }

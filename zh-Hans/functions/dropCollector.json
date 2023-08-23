@@ -1,3 +1,4 @@
 {
-    "EXTRA_GRAB": "{{user}}你的额外的抓正在使用。你🈶️{{remaining}}其余的"
+    "EXTRA_GRAB": "{{user}}你的额外的抓正在使用。你🈶️{{remaining}}其余的",
+    "GRAB_COOLDOWN": "{{user}}你必须等着{{cooldown}}领取另一张卡片"
 }
