@@ -1,15 +1,15 @@
 {
     "UM_DESCRIPTION": "Inaalis ang \"Morph\" ng isang card",
-    "UM_CATEGORY": "Kagandahan",
+    "UM_CATEGORY": "Pampaganda",
     "UM_INVALID_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}um <CardCode>`",
-    "INVALID_CODE": "{{author}} Ang kodigo ng kard na iyong ibinigay ay hindi wasto o wala sa iyong koleksyon",
+    "INVALID_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay hindi wasto o wala sa iyong koleksyon",
     "NO_CHARACTER": "{{author}} Ang karakter sa card na ito ay hindi na available sa Sofi at hindi na maaring makipag-ugnayan",
     "NO_GIF": "{{author}} Hindi mo maaaring tanggalin ang cosmetics ng isang `GIF` na card",
-    "NOT_MORPHED": "{{author}} Ang card na iyan ay walang `Morph` na naka-apply dito",
-    "EMBED_TITLE": "TINATANGGAL ANG MORPH",
-    "UM_CONFIRMATION": "Sigurado ka bang nais mong alisin ang `Morph` ng card na ito?\nAng prosesong ito ay magkakahalaga ng **100** `Silver`",
+    "NOT_MORPHED": "{{author}} Walang morph na naka-lagay sa kard na iyan",
+    "EMBED_TITLE": "SOFI: TANGGALIN ANG MORPH",
+    "UM_CONFIRMATION": "Sigurado ka bang nais mong alisin ang morph ng card na ito sa halagang **{{count}}** {{currencyEmoji}}?",
     "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
-    "SOMETHING_WENT_WRONG": "{{author}} May maling nangyari, subukang muli",
+    "SOMETHING_WENT_WRONG": "{{author}} May maling nangyari, pakisubukang muli",
     "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na `{{currency}}` para sa prosesong ito",
-    "UM_SUCCESSFUL": "Ang `Morph` ay matagumpay na natanggal"
+    "UM_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang morph ng kard na ito"
 }

@@ -3,7 +3,7 @@
     "SLASH_DESC": "Pumili ng user na nais mong bigyan ng kard",
     "SLASH_DESC2": "Ilagay ang code ng card na nais mong ipamigay",
     "NO_SELF_GIVE": "{{author}} Ikaw ay hindi maaaring mag bigay ang card sa iyong sarili",
-    "NOT_REGISTERED": "{{author}} Ang user na iyan ay hindi pa nakarehistro!",
+    "NOT_REGISTERED": "{{author}} Ang user na iyan ay hindi nakarehistro!",
     "MEM_BLACKLISTED": "{{author}} Naka-blacklist ang gumagamit na iyon!",
     "MEM_QUARANTINED": "{{author}} Ang user ay naka quarantine!",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bigay <@User/UserID> <CardCode>`",

@@ -13,5 +13,8 @@
     "SELF_INV_EMPTY": "{{author}} Il tuo `Inventory` è vuoto",
     "USER_INV_EMPTY": "{{author}} `inventory` di quell'utente è vuoto",
     "NO_BG_FOUND": "{{author}} Non hai nessun `Backgrounds`",
-    "NO_ITEM_FOUND": "{{author}} Non è stato possibile trovare `Item` nel `Inventory`"
+    "NO_ITEM_FOUND": "{{author}} Non è stato possibile trovare `Item` nel `Inventory`",
+    "NO_ITEMS_INVENTORY": "Non è stato possibile trovare nessun oggetto",
+    "NO_ITEM_FOUND_OTHERS": "{{author}} non è stato possibile trovare quell'oggetto nell'inventario di questo utente",
+    "CHECK_INVENTORY": "Seleziona una categoria"
 }

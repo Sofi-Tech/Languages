@@ -1,8 +1,8 @@
 {
-  "DESCRIPTION": "- このコマンドは3枚のカードをドロップし、8分ごとに使用できます。\nコマンド「sdn」を使用して、画像なしでカードをドロップします。これは、モバイルデータを保存したり、遅れを避けたりするのに役立ちます。",
-
-  "EXTRA_DROP_ALERT": "{{author}} あなたの**エキストラドロップ**が使用されています。`{{remaining}}` が残っています。",
-  "ON_CD": "{{author}} あなたの`ドロップ`は{{dropCd}}で準備ができています",
-  "VOTE": "投票する",
-  "BUY_DROP": "\nコマンド`sbuy drop <amount>` を使用してください"
+    "DESCRIPTION": "カードをドロップする。画像なしでカードをドロップしたいなら\"{{prefix}}dn\"を使ってください",
+    "EXTRA_DROP_ALERT": "{{author}} 「Drop」アイテムが使用されています。**{{remaining}}つ「Drop」**が残っています",
+    "ON_CD": "{{author}} **{{dropCd}}**で再びドロップできます",
+    "VOTE": "投票",
+    "BUY_DROP": "\n\n- `投票`して`「Wist」`を手に入れる可能です！ 「Drop」アイテムを購入したいなら`{{prefix}}buy drop`を使ってください",
+    "DROPPING_CARD": "{{author}}さんがカードを**ドロップ**しています\n"
 }

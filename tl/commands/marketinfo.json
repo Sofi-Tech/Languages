@@ -2,14 +2,15 @@
     "DESCRIPTION": "Nagpapakita ng iyong kasalukuyang listahan sa pamilihan o sinusuri ang isang deal kapag ibinigay mo ang isang ID",
     "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay hindi wasto",
     "TRADER": "Nagbebenta",
-    "DEAL_ID": "ID ng Kasunduan",
+    "DEAL_ID": "ID ng kasunduan",
     "PRODUCT": "Produkto",
     "VALUE": "Halaga",
     "RATE": "Porsyento",
     "LISTED": "Mga nakalista",
-    "NO_LISTINGS_FOUND": "{{user}} Wala ka pang kahit anong nakalista sa market",
-    "INFO": "Gamitin ang command na {{prefix}}mul <ID> upang alisin sa listahan ang iyong kasalukuyang mga deal\n**Isang deal lamang ang pwedeng ilista at hindi pwedeng pagsabay-sabayin**",
+    "NO_LISTINGS_FOUND": "{{user}} Wala kang kahit anong order sa market",
+    "INFO": "Gamitin ang command na `{{prefix}}mul <Order-ID>` upang alisin ang iyong order sa market",
     "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
-    "EMBED_TITLE": "IYONG LISTAHAN:",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: INFO NG ORDER"
 }

@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "自分のウィッシュリストからキャラクターを削除する",
     "CATEGORY": "ウィッシュリスト",
-    "NO_INDEX": "{{author}} `{{prefix}}wr <キャラクター名/順番番号>`のコマンドをご確認のうえ、入力し直してください。全てのキャラクターをウィッシュリストから削除するために`{{prefix}}wr full reset`のコマンドを使用してください",
-    "FULL_RESET": "{{author}} ウィッシュリストから全部のキャラクターを削除しました",
-    "REMOVE_CHARACTER": "{{author}} 「{{name}}」をウイシュリストから削除しました",
-    "NO_RESULTS": "{{author}} ウィッシュリストでは「{{name}}」が見つかりませんでした"
+    "NO_INDEX": "{{author}} `{{prefix}}wr <キャラクター名/WL番号>`は正しい使い方です。ウィッシュリストが全部を削除したいなら`{{prefix}}wr full reset`を使ってください",
+    "FULL_RESET": "{{author}} ウィッシュリストが全部削除しました",
+    "REMOVE_CHARACTER": "{{author}} 「**{{name}}**」をウイシュリストから削除しました",
+    "NO_RESULTS": "{{author}} ウィッシュリストには「**{{name}}**」というキャラクターが見つかりませんでした"
 }

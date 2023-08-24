@@ -28,5 +28,6 @@
     "CARD_LOCKED": "{{user}} Las siguientes cartas están aseguradas o se usan actualmente en un deck y no pudieron ser agregadas: \n{{codes}}",
     "MEMBER_NOT_VERIFIED": "{{author}} Ese usuario no está verificado",
     "CARD_TAG_LOCKED": "{{author}} No puedes intercambiar `Tags` que contengan cartas aseguradas",
-    "MT_TRADE_ERROR": "⚠️ Algunos de los items y cartas proporcionados en esta ventana de intercambio ya no son válidos!"
+    "MT_TRADE_ERROR": "⚠️ Algunos de los items y cartas proporcionados en esta ventana de intercambio ya no son válidos!",
+    "NOTE_BUTTON_LABEL": "Nota"
 }

@@ -13,5 +13,7 @@
     "REQUIRE_PERMISSIONS": "{{author}} Du benötigst: **{{permissions}}** Berechtigungen um diese Befehl ausführen zu können",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** befindet sich im abgesicherten Modus! Geschätzte Dauer: **{{eta}}**\nWir entschuldigen uns für die Unannehmlichkeiten und bitten dich um Geduld!",
     "COMPLETE_COMMAND": "{{author}} Vervollständige zuerst den `{{command}}` Befehl!",
-    "VERIFY_BUTTON_LABEL": "Verifizieren"
+    "VERIFY_BUTTON_LABEL": "Verifizieren",
+    "SERVER_BLACKLISTED": "{{author}} Der Server ist auf der Schwarzen Liste. Bitte kontaktiere uns auf discord.gg/sofi",
+    "COMMAND_BLACKLISTED": "{{author}} Der `{{commandName}}` Befehl ist in diesem Kanal deaktiviert"
 }

@@ -1,1 +1,12 @@
-{}
+{
+    "GRAB_CARD": "{{winner}} сразил {{user}} и взял **{{character}}** карту (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_EVENT_ITEM": "{{winner}} сразил **{{userCount}}** других пользователей и получил **{{amount}}** `{{eventItem}}`",
+    "EXTRA_GRAB": "{{user}} Ваш экстра `Grab` используется. У вас осталось **{{remaining}}**",
+    "GRAB_COOLDOWN": "{{user}} Вам осталось ждать **{{cooldown}}** чтобы взять другую карту",
+    "EVENT_GRAB": "{{user}} получил {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
+    "TOOK_CARD": "{{user}} взял **{{character}}** карту (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "CANNOT_BE_GRABBED": "Эти карты недолго могут быть подобраны",
+    "SNATCHED_EVENT_ITEM": "{{winner}} выхватил **{{amount}}** `{{eventItem}}` у <@{{userId}}>",
+    "CARDS_DROPPED_BY": "{{user}} **бросил** карты\n",
+    "GRAB_CARD_PLURAL": "{{winner}} сразил**{{userCount}}** других игроков и забрал **{{character}}** карту (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+}

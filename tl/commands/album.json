@@ -1,5 +1,5 @@
 {
-    "ALBUM_DESCRIPTION": "I-view ang iyong mga albums sa Sofi",
+    "ALBUM_DESCRIPTION": "Tingnan ang iyong mga album",
     "ALBUM_CATEGORY": "Album",
     "ALBUM_SLASH_DESC": "Pumili ng user na may mga album na gusto mong makita",
     "ALBUM_SLASH_DESC2": "Ilagay ang pangalan ng album na iyong hinahanap.",
@@ -7,9 +7,9 @@
     "PLAYER_NOT_EXIST": "{{author}} Ang player na iyon ay hindi rehistrado!",
     "ALBUM_NOT_FOUND": "{{author}}Ang user na iyon ay walang kahit anong albums",
     "ALBUM_NAME_NOT_FOUND": "{{author}} hindi mahanap ang album na may pangalan na: `{{albumName}}`",
-    "PROCESSING": "Prinoproseso <a:_:876610443148406794>",
-    "NO_CARDS": "{{author}}Walang nakitang kards sa album na ito",
-    "EMBED_TITLE": "SOFI: ALBUM NI {{username}}",
+    "PROCESSING": "Pinoproseso <a:_:876610443148406794>",
+    "NO_CARDS": "{{author}} Walang nakalagay na kards sa album na ito",
+    "EMBED_TITLE": "SOFI: MGA ALBUM NI {{username}}",
     "ALBUM_BUTTON_LABEL": "Gumawa ng Album",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM NI \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "Pagmamay-ari ni {{userTag}}"
