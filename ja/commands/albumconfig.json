@@ -1,5 +1,5 @@
 {
-    "AC_DESCRIPTION": "アルバムを構成する",
+    "AC_DESCRIPTION": "アルバムを編集する",
     "AC_CATEGORY": "アルバム",
-    "CONFIGURE_ALBUM": "ウェブサイトだけで`アルバム`を作成、編集できます： <https://sofi.gg/albums{{albumName}}>"
+    "CONFIGURE_ALBUM": "{{author}} ウェブサイトに自分の`アルバム`を作成と編集をできます： <https://sofi.gg/albums{{albumName}}>"
 }

@@ -10,6 +10,6 @@
     "EMBED_TITLE": "SOFI：フォントカラー{{reset}}",
     "COLOR_NAME": "名前：{{name}}",
     "COLOR_CODE": "コード：`{{code}}`",
-    "GLOW_UNAVAILABLE": "その`Glow`にはチャージがありません",
+    "GLOW_UNAVAILABLE": "{{author}} その `Glow` の利用を不可能です",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "カードのフォントカラーが正常に変更されました"
 }

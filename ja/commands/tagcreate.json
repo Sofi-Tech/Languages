@@ -2,7 +2,7 @@
     "TC_DESCRIPTION": "タグを作成する",
     "TC_CATEGORY": "タグ",
     "WRONG_USAGE": "使用方法：`{{prefix}}tc <タグ名> <絵文字>`",
-    "INVALID_EMOJI": "{{emoji}} は有効な絵文字ではありません",
+    "INVALID_EMOJI": "{{author}} 提供された絵文字は使えません",
     "INVALID_TAGNAME_FORMAT": "タグ名は英数字でなければならず、特殊文字やスペースや予約語を含めることはできません。",
     "LONG_TAGNAME": "タグ名が長すぎます。20文字以下にしてください",
     "TAGNAME_EXISTS": "{{author}} **`{{tag}}` という名前のタグは既に存在しています",

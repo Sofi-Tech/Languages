@@ -1,16 +1,16 @@
 {
-    "ALBUM_DESCRIPTION": "SOFIでアルバムを表示する",
+    "ALBUM_DESCRIPTION": "自分のアルバムを見る",
     "ALBUM_CATEGORY": "アルバム",
     "ALBUM_SLASH_DESC": "表示したいアルバムを作成したユーザー名を入力してください",
     "ALBUM_SLASH_DESC2": "表示したいアルバム名を入力してください。",
     "USER_NOT_FOUND": "{{author}} ユーザーが見つかりませんでした",
-    "PLAYER_NOT_EXIST": "{{author}} プレーヤーが存在しません",
+    "PLAYER_NOT_EXIST": "{{author}} そのユーザーはまだ登録されていません",
     "ALBUM_NOT_FOUND": "{{author}}ユーザーが作成されたアルバムが見つかりませんでした",
     "ALBUM_NAME_NOT_FOUND": "{{author}} `{{albumName}}`というアルバムが見つかりませんでした",
     "PROCESSING": "処理中 <a:_:876610443148406794>",
-    "NO_CARDS": "アルバムにはカードが見つかりません",
-    "EMBED_TITLE": "{{username}} のアルバム",
+    "NO_CARDS": "{{author}} このアルバムにカードがまざ存在しません",
+    "EMBED_TITLE": "SOFI: {{username}} のアルバムズ",
     "ALBUM_BUTTON_LABEL": "アルバムを作成する",
-    "EMBED_ALBUM_TITLE": "「{{albumName}} 」",
-    "EMBED__ALBUM_FOOTER": "{{userTag}} 作成"
+    "EMBED_ALBUM_TITLE": "SOFI: {{albumName}} アルバム",
+    "EMBED__ALBUM_FOOTER": "{{userTag}} のアルバム"
 }

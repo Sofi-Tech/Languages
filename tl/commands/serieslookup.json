@@ -7,5 +7,6 @@
     "ERROR": "{{author}} May naganap na error. Maaaring subukan muli",
     "CARD_COLLECTED": "Cards na na-collect: **{{collected}}/{{totalCards}}**",
     "TOTAL_WL": "Kabuuan ng Wishlist: **{{wlCount}}**",
-    "CHARACTERS": "Mga Characters"
+    "CHARACTERS": "**__Mga Karakter__**",
+    "SERIES_NAME": "Pangalan: **{{seriesName}}**"
 }

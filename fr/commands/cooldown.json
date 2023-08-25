@@ -1,10 +1,13 @@
 {
     "DESCRIPTION": "Vous pouvez afficher les temps de recharge pour vos :\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Cliquez sur les icônes de cloche pour recevoir un DM de rappel pour vos \"Drop\", \"Vote\" et \"Daily\"!",
     "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "VOTE": "Vote",
-    "BUMP": "Bump",
-    "DAILY": "Daily",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mail(s) non lu(s) | Utilisez `{{customPrefix}}mail` pour les lire!"
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "UNREAD_MAIL": "\n📫 Vous avez **{{checkUnreadMailsCount}}** non lu(s) {{mailCount}}",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "EMBED_TITLE": "SOFI: TEMPS DE RECHARGE ({{username}})",
+    "VOTE_LABEL": "Vote"
 }

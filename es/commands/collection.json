@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Puedes mostrar tu colección con el comando `sc`\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por `Deseos`, `Gen` o el nombre de un `Tag`\n- Usa el comando `sc t:ut` para mostrar todas las cartas sin un tag en tu colección",
+    "DESCRIPTION": "Puedes mostrar tu colección con el comando `sc`\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por `Deseados`, `Gen` o el nombre de un `Tag`\n- Usa el comando `sc t:ut` para mostrar todas las cartas sin un tag en tu colección",
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Introduce los filtros que quieres aplicar a la colección",
@@ -12,7 +12,7 @@
     "SORT_CHAR": "Nombre",
     "SORT_SERIES": "Serie",
     "SORT_GEN": "Gen",
-    "SORT_WL": "Lista de Deseos",
+    "SORT_WL": "Lista de Deseados",
     "CHECK_COSMETICS": "Cosméticos",
     "3D_AVAIL": "Disponibilidad 3D",
     "SORT_ATK": "Ataque",

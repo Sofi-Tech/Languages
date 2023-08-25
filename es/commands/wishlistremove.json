@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Elimina a un personaje de tu lista de deseos",
-    "CATEGORY": "Lista de deseos",
-    "NO_INDEX": "{{author}} Uso correcto: `{{prefix}}wr <Nombre/Número>`. Usa el comando `{{prefix}}wr full reset` para borrar toda tu lista de deseos",
-    "FULL_RESET": "{{author}} Eliminados con éxito todos los personajes de tu lista de deseos",
-    "REMOVE_CHARACTER": "{{author}} Se ha eliminado con éxito a **{{name}}** de tu lista de deseos",
-    "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseos"
+    "DESCRIPTION": "Elimina a un personaje de tu lista de deseados",
+    "CATEGORY": "Lista de deseados",
+    "NO_INDEX": "{{author}} Uso correcto: `{{prefix}}wr <Nombre/Número>`. Usa el comando `{{prefix}}wr full reset` para borrar toda tu lista de deseados",
+    "FULL_RESET": "{{author}} Eliminados con éxito todos los personajes de tu lista de deseados",
+    "REMOVE_CHARACTER": "{{author}} Se ha eliminado con éxito a **{{name}}** de tu lista de deseados",
+    "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseados"
 }

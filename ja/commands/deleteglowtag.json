@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "グロータグを削除する",
+    "DGT_DESCRIPTION": "`Glow`タグを削除する",
     "DGT_CATEGORY": "タグ",
-    "CORRECT_USAGE": "使用法：{{prefix}}dgt <タグ名>",
-    "GLOWTAG_NOT_FOUND": "そのグロータグは、グロータグリストにありません",
-    "DELETE_GLOWTAG": "{{tag}} グロータグを削除しました"
+    "CORRECT_USAGE": "{{author}} 正しい使い方は：{{prefix}}dgt <タグ名>",
+    "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}`を付ける `Glow`は自分のインベントリーに見つかりませんでした",
+    "DELETE_GLOWTAG": "{{author}} {{tag}} タグを成功で削除しました"
 }

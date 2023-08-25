@@ -1,7 +1,7 @@
 {
-    "GTL_DESCRIPTION": "タグのリストを表示する",
+    "GTL_DESCRIPTION": "タグリストを表示する",
     "GTL_CATEGORY": "タグ",
-    "NO_TAGS": "タグが見つかりません",
-    "GLOWS": "グロー",
-    "EMBED_TITLE": "グロータグリスト"
+    "NO_TAGS": "{{author}} `Glow`タグはまだ作成していません",
+    "GLOWS": "{{number}} Glows",
+    "EMBED_TITLE": "SOFI: 「Glow (明り)」タグリスト"
 }

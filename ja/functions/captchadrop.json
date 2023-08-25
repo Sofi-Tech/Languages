@@ -1,1 +1,10 @@
-{}
+{
+    "WAIT_TO_CLAIM": "{{user}} 新たなカードを引き取れるまで後 **{{cooldown}}** をお待ちください",
+    "BATTLED_AND_WON": "{{winner}} は{{user}} と争って **{{character}}** を手に入りました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EXTRA_GRAB": "{{user}} 余分 `グラブ` を使用しています. **{{remaining}}** グラブが残ります",
+    "BATTLED_WON_PLURAL": "{{winner}} は **{{userCount}}** プレイヤーと争って **{{character}}** を手に入りました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "Captchaカード",
+    "EMBED_FOOTER": "Captchaを入力し、上記カードを手に入れます",
+    "TOOK_THE_CARD": "{{user}} が **{{character}}** カードを手に入りました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} は **{{characterName}}** を手に入りました"
+}

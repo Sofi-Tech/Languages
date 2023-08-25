@@ -1,1 +1,4 @@
-{}
+{
+    "PROVIDE_CATEGORY": "{{author}} 下記のカテゴリーから１つを提供してください```apache\n{{categories}}```",
+    "PROVIDE_FILTER": "{{author}} 順番とともにフィルターを提供してください"
+}

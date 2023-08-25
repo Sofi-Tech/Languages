@@ -1,12 +1,13 @@
 {
-    "DESCRIPTION": "Utilisez la commande \"sdaily\" pour récupérer vos récompenses quotidiennes. Maintenez votre série pour obtenir de meilleurs récompenses!",
+    "DESCRIPTION": "Récupère vos récompenses quotidiennes",
     "CATEGORY": "Cartes",
-    "EMBED_AUTHOR": "Récompenses Quotidiennes de {{author}}",
-    "DAILY_ERROR": "Vous pouvez récupérer votre `Daily` après {{timeout}}\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> __{{count}}x__ `Daily` restantes pour récupérer un `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874> __{{count}}x__ `Daily` restantes pour récupérer un `Rare Chest`",
-    "NOTE": "⚠️ Le personnel de Discord ou de Sofi ne vous demandera ou ne fera JAMAIS les choses suivantes:\n- Votre \"Mot de passe\" et/ou votre `A2F `\n- De modifier votre adresse mail\n- Communiquer via des bots tiers tel que \"Mee6\" ou \"Dyno\"\n\nToutes activités suspectes doivent être signalées immédiatement ici {{link}}! ⚠️",
-    "EMBED_FOOTER": "Série **[ {{streak}} ]** • {{streakBar}}",
-    "DAILY_SUCCESS": "Merci d'avoir récupéré votre `Daily`!",
-    "GUILD_BONUS": "Étant donné que vous utilisez cette commande sur un serveur du Top 20 des serveurs possédant Sofi, votre `Daily` obtient un Bonus de x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+    "EMBED_AUTHOR": "SOFI: RÉCOMPENSE DU **`DAILY`** DE {{author}}",
+    "DAILY_ERROR": "Vous pouvez récupérer votre prochain `Daily` dans **{{timeout}}**",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> **{{count}}x** `Daily` restants pour recevoir un `Common Chest`",
+    "RARE_CHEST": "<:rarechest:927204672270372874>**{{count}}x** `Daily` restants pour recevoir un `Rare Chest`\n",
+    "NOTE": "⚠️Discord, tout comme le Staff de Sofi ne vous demandera JAMAIS votre mot de passe ou vous conseiller de changer votre E-Mail en une adresse spécique. Méfiez vous des BOTs tiers discord qui sont souvent utilisé pour des tentatives similaires!\n\nToute activité suspecte doit immédiatement être signalée ici {{link}}! ⚠️",
+    "EMBED_FOOTER": "Série [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Vos récompenses de votre `Daily`ont été récupérées avec succès!",
+    "GUILD_BONUS": "**(1.5x Bonus de Serveur!)**",
+    "STREAK_BONUS": "+ {{bonus}} Série Bonus"
 }

@@ -1,10 +1,11 @@
 {
-    "DESCRIPTION": "あなたがあなたのクールダウンを確認できる\n- Drop、Grab、Vote、Raid、およびDailies\n- ドロップ、投票、およびデイリーのリマインダーを追加するにはベルアイコンをクリックしてください。",
+    "DESCRIPTION": "下記のアクションのクールダウンを確認できます:\n- Drop、Grab、Vote、Raid、Dailies\n- Drop、GrabとDailiesのリマインダーを追加した場合に鈴アイコンをクリックしてください。",
     "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください!](https://discord.gg/sofi)",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`ドロップ`** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`ゲット`** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **`投票する`** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **`バンプ`** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`デイリー`** | **{{cooldown}}**",
-    "UNREAD_MAIL": "\n📫 `{{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください"
+    "UNREAD_MAIL": "\n📫 `{{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`侵略`** | **{{cooldown}}**"
 }

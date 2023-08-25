@@ -3,10 +3,10 @@
     "GT_CATEGORY": "Mga Tag",
     "GLOWTAGS_NOT_FOUND": "{{author}} Wala kang anumang `Glow Tag` pa. Maaari kang lumikha nito gamit ang command: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} ikaw ay wala ka pang kahit anong `Glows`",
-    "INVALID_GLOW_CODE": "{{author}} Kahit isa sa mga `Glow`kodigo na iyong binigay ay hindi wasto o wala sa iyong `Inventory`",
+    "INVALID_GLOW_CODE": "{{author}} Kahit isa sa mga `Glow`kodigo na iyong binigay ay hindi wasto o wala sa iyong imbentaryo",
     "SUCCESSFUL_GLOWTAG": "{{author}} Ang **{{glow}}** ay matagumpay na natag bilang: `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Lahat ng `Glows`ay matagumpay na natag bilang: `{{tag}}`",
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gt <TagName> <GlowCode>`",
     "GLOW_TAG_INVALID": "{{author}} Ikaw ay walang kahit anong `Glow Tag` na may pangalang: `{{tagname}}`",
-    "INVALID_GLOW_SINGULAR": "{{author}} Ang kodigo ng`Glow`na iyong ibinigay ay hindi wasto o wala sa iyong `Inventory`"
+    "INVALID_GLOW_SINGULAR": "{{author}} Ang kodigo ng`Glow`na iyong ibinigay ay hindi wasto o wala sa iyong imbentaryo"
 }

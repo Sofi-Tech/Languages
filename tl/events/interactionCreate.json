@@ -1,8 +1,8 @@
 {
     "APPEAL_ACCEPTED": "# __Ang iyong appeal ay natanggap!__\n- Sumali sa aming official [Support Server](https://discord.gg/XPsQKJjeD7) at gumawa ng ticket sa https://discord.com/channels/863226120245215262/959176115723837530 na channel para maiadvance ang iyong kaso\n- Isang miyembro ng staff ang tutugon sa inyo sa lalong madaling panahon. Pakiusap, huwag magpadala ng direktang mensahe o banggitin ang mga miyembro ng staff sa anumang channel tungkol sa inyong tiket. Ang paglabag sa patakaran na ito ay maaaring magresulta sa permanenteng suspensyon mula sa aming serbisyo at Discord Server",
     "VERSION_ACCEPTED": "Ang iyong `Version` na isinubmit para kay **{{charName}}** galing sa **{{seriesName}}** ay natanggap. **3** <a:wist_spin:973031140581580820> ay nailagay sa iyong inventory",
-    "NEGATIVE_VALUE_INVENTORY": "{{author}} Ang iyong `Inventory` ay nag lalaman ng nagatibong halaga! Mangyaring makipag-usap sa Developers sa aming [Support Server](https://discord.gg/sofi) upang maayos ito",
-    "BLACKLISTED_USER": "# :banhammer: __Ikaw ay naisulat sa blacklist dahil sa paglabag sa mga patakaran sa Sofi!__\n\n**Listahan ng mga posibleng dahilan **\n```CSS\n- Pakikipag interak sa Sofi gamit ang madaming accounts (Alting)\n- Pag bebenta o pag bili ng isang Discord account\n- Pag i-scam sa ibang user\n- Pagsasamantala o pagiging kasangkot sa anumang mga nabanggit na aktibidad\n```\n\n:link: [Mag apela sa iyong blacklist] (<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Ang iyong imbentaryo ay nag lalaman ng nagatibong halaga! Mangyaring makipag-usap sa Developers sa aming [Support Server](https://discord.gg/sofi) upang maayos ito",
+    "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Ikaw ay naisulat sa blacklist dahil sa paglabag sa mga patakaran sa Sofi!__\n\n**Listahan ng mga posibleng dahilan **\n```CSS\n- Pakikipag interak sa Sofi gamit ang madaming accounts (Alting)\n- Pag bebenta o pag bili ng isang Discord account\n- Pag i-scam sa ibang user\n- Pagsasamantala o pagiging kasangkot sa anumang mga nabanggit na aktibidad\n```\n\n:link: [Mag apela sa iyong blacklist] (<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
     "VERIFY_TO_PLAY": "[Kumpirmahin ang iyong sarili sa aming website upang makapag laro!] (<https://sofi.gg/verify>)",
     "VERSION_REJECTED": "Ang iyong `Version`na isinubmit para kay **{{charName}}** galing sa {{seriesName}}** ay hindi tinanggap. [Bisitahin ang aming Support Server para malaman pa] (<https://discord.gg/RYawNnu6Pp>)",
     "APPEAL_DENIED": "Matapos suriin ang inyong kaso, napagpasyahan naming ireject ang inyong apela. Hindi babaligtarin ang inyong nakasulatang status at ang lahat ng mga bagong apela mula ngayon ay itatangging muli.\n\n- Sofi Management",
@@ -16,6 +16,6 @@
     "COMPLETE_COMMAND": "{{author}} tapusin muna ang `{{command}}` na command!",
     "SERVER_BLACKLISTED": "{{author}} Naka-blacklist ang server. Mangyaring makipag-ugnayan sa amin sa discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} Ang command na `{{commandName}}` ay naka-blacklist sa channel na ito",
-    "CATEGORY_DISABLED": "{{author}} Ang kategoryang ito ay hindi pinagana Dahilan: `{{reason}}`",
-    "COMMAND_DISABLED": "{{author}} Ang kategoryang ito ay hindi pinagana Dahilan: `{{reason}}`"
+    "CATEGORY_DISABLED": "{{author}} Ang kategoryang ito ay hindi pinagana\nDahilan: `{{reason}}`",
+    "COMMAND_DISABLED": "{{author}} Ang command ito ay hindi pinagana\nDahilan: `{{reason}}`"
 }
