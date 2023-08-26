@@ -4,12 +4,12 @@
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}undobg <KodeKartu>`",
     "NO_CHARACTER_FOUND": "{{author}} Karakter pada kartu ini tidak lagi tersedia di Sofi dan tidak dapat berinteraksi",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
-    "NO_GIF_CARD": "{{author}} Kartu `GIF` tidak dapat dihapus `Background`",
+    "NO_GIF_CARD": "{{author}} Anda tidak dapat menghapus `Background` dari kartu `GIF`",
     "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
-    "EMBED_TITLE": "SOFI: HAPUS BACKGROUND",
-    "PROCESS_COST": "Menghapus `Background` akan dikenakan biaya **1** `Wist` dan akan mengembalikan `Background` tersebut ke `Inventory` anda",
+    "EMBED_TITLE": "SOFI: REMOVE `BACKGROUND`",
+    "PROCESS_COST": "Proses ini membutuhkan biaya **1** `Wist` dan akan mengembalikan `Background` ke inventaris anda",
     "NOT_ENOUGH_WIST": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk menghapus `Background` ini",
     "NO_BG_APPLIED": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} `Latar belakang` kartu anda berhasil dihapus dan dikembalikan ke `Inventory` anda",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} Berhasil mengembalikan `Background` kartu ini ke inventaris Anda",
     "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda"
 }

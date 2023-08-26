@@ -1,12 +1,16 @@
 {
     "RULES_DESCRIPTION": "Menampilkan aturan-aturan Sofi",
     "RULES_CATEGORY": "Pengaturan",
-    "NO_SCAMMING": "<:_:979009081325019156> Jangan menipu pengguna lain",
+    "NO_SCAMMING": "<:_:979009081325019156> Mencoba menipu atau mengelabui pengguna lain akan membuat anda masuk dalam daftar hitam Sofi",
     "EMBED_AUTHOR": "SOFI: PERATURAN",
-    "NO_ALTING": "<:_:979009081325019156> Anda hanya diperbolehkan menggunakan **1** akun tunggal untuk bermain dan berinteraksi dengan Sofi",
+    "NO_ALTING": "<:_:979009081325019156> Jangan gunakan akun alts/ganda untuk bermain atau terlibat dengan Sofi. Laporkan sendiri jika anda melanggar peraturan ini untuk menghindari hukuman",
     "NO_HELPING_ALTERS": "<:_:979009081325019156> Jangan mendukung atau berinteraksi dengan alt dan penipu. Jika anda memiliki kecurigaan terhadap seorang pengguna, laporkan kepada staf",
     "NO_FARMING": "<:_:979009081325019156> Anda tidak boleh menggunakan status media sosial anda untuk mendapatkan sumber daya atau kartu apa pun di Sofi",
     "VISIT_SUPPORT": "Kunjungi [Support Server] (https://discord.gg/XPsQKJjeD7) kami untuk informasi lebih lanjut",
     "NO_BUY_SELL_ACCOUNTS": "<:_:979009081325019156> Jangan terlibat dalam proses pembelian atau penjualan seluruh akun discord",
-    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Setiap dan semua bug/eksploitasi yang anda temukan harus segera dilaporkan! Kegagalan untuk mematuhi aturan ini akan dihukum"
+    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Setiap dan semua bug atau eksploitasi yang anda temukan harus segera dilaporkan!",
+    "DO_NOT_CHANGE_EMAIL": "```fix\n⚠️ Discord, serta Staf Sofi TIDAK AKAN PERNAH meminta kata sandi Anda atau menyarankan Anda untuk mengubah E-mail Anda ke alamat tertentu. Waspadalah terhadap BOT discord pihak ketiga yang sering digunakan untuk upaya phishing serupa```",
+    "EMBED_FOOTER": "{{count}} pengguna telah menyetujui aturan ini",
+    "DO_NOT_SCAMMED_ITEMS": "<:_:979009081325019156> Item yang diperoleh melalui aktivitas ilegal akan dihapus dari inventaris anda, terlepas dari bagaimana cara memperolehnya",
+    "DO_NOT_SIBLINGS": "<:_:979009081325019156> Saudara kandung akan dihukum bersama jika salah satu dari mereka kedapatan melanggar peraturan"
 }

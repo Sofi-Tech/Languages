@@ -1,12 +1,14 @@
 {
-    "INVALID_AMOUNT": "{{author}} Montant fournis invalide",
+    "INVALID_AMOUNT": "{{author}} Vous ne pouvez pas offrir une quantité négative d'items",
     "GIFT_SLASH_DESC2": "Entrer le montant de `{{eventItem}}` que vous voulez offrir",
     "GIFT_SUCCESSFUL": "{{author}} a offert **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} à reçu un total de **{{recieveCount}}** `{{eventItem}}`",
-    "GIFT_CATEGORY": "Cards",
+    "GIFT_CATEGORY": "Cartes",
     "GIFT_SLASH_DESC": "Choisissez un utilisateur a qui vous souhaiter offrir des `{{eventItem}}`",
-    "GIFT_WRONG_USAGE": "{{author}} Utilisation correct: `{{prefix}}gift <Utilisateur> <Montant>`",
+    "GIFT_WRONG_USAGE": "{{author}} Utilisation correct: `{{prefix}}gift <@Utilisateur/ID> <Montant>`",
     "INVALID_USER": "{{author}} Vous ne pouvez pas vous offrir des `{{eventItem}}` a vous-même",
     "NOT_ENOUGH_ITEM": "{{author}} Vous ne possédez pas **{{amount}}** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} Ce joueur n'existe pas",
-    "EMBED_TITLE": "SOFI: CADEAU"
+    "PLAYER_NOT_EXISTS": "{{author}} Ce joueur n'est pas inscrit!",
+    "EMBED_TITLE": "SOFI: CADEAU",
+    "GIFT_DESCRIPTION": "Offrez des \"Items d'event\" à un autre utilisateur",
+    "NO_ACTIVE_EVENT": "{{author}} Il n'y a actuellement aucun event actif"
 }

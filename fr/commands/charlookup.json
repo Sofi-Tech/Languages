@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "- Vous pouvez rechercher un personnage spécifique en utilisant la commande \"scl\". Dans le menu, vous pouvez consulter les statistiques d'une carte, leurs différentes variantes de Version/3D/GIF, ainsi que le classement par Gen ou bien celui des Fans et leur \"Card ID\".\n- Le \"Card ID\" est nécessaire lors de la soumission d'images pour de nouvelles \"Versions\"",
-    "CHAR_NOT_FOUND": "{{author}} N'a pas pu trouver de personnage nommé: `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} N'a pas pu trouvé un personnage avec le nom: `{{arg}}`\n\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
+    "CHAR_NOT_FOUND": "{{author}} Aucun personnage nommé: `{{arg}}` n'a été trouvé",
+    "CHAR_NF_SENSITIVE": "{{author}} Aucun personnage nommé: `{{arg}}`n'a été trouvé\n\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
     "EMBED_TITLE": "SOFI:RECHERCHE DE PERSONNAGE (`{{category}}`)",
     "NORMAL_LABEL": "Version",
     "FAN_PTS_LABEL": "Ajouter des Points De Fan",

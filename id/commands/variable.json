@@ -13,7 +13,7 @@
     "MONTHS": "bulan",
     "YEAR": "tahun",
     "YEARS": "tahun",
-    "SUCCESS": "BERHASIL",
+    "SUCCESS": "Berhasil menyelesaikan proses",
     "CANCELLED": "Proses telah dibatalkan",
     "PROCESSING": "Memproses permintaan anda...<a:loading:876610443148406794>",
     "AVAILABLE": "Terisi",
@@ -24,5 +24,13 @@
     "HP": "Poin kehidupan",
     "SERIES": "Seri:",
     "NAME": "Nama:",
-    "MEMBER_NOT_VERIFIED": "{{author}} Pengguna tersebut tidak diverifikasi"
+    "MEMBER_NOT_VERIFIED": "{{author}} Pengguna tersebut tidak diverifikasi",
+    "NEGATIVE_AMOUNT": "{{author}} Anda tidak dapat membeli barang dalam jumlah negatif",
+    "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
+    "AUTHOR_BLACKLISTED": "{{author}} Anda masuk daftar hitam",
+    "MEMBER_BLACKLISTED": "{{author}} Pengguna tersebut masuk dalam daftar hitam!",
+    "AUTHOR_QUARANTINED": "{{author}} Anda dikarantina",
+    "MEMBER_QUARANTINED": "{{author}} Pengguna itu dikarantina",
+    "AUTHOR_UNVERIFIED": "{{author}} Anda tidak diverifikasi",
+    "ERROR": "{{author}} Terjadi kesalahan. Silakan coba lagi."
 }

@@ -9,6 +9,7 @@
     "LISTED": "Listé",
     "NO_LISTINGS_FOUND": "{{user}} Vous n'avez pas encore fait d'annonces sur le marché",
     "INFO": "Utilisez la commande `{{prefix}}mul <ID>` pour supprimer votre annonce actuelle\n**Une seule annonce peut être publiée à la fois**",
-    "FOOTER": "Affichage de 1-{{pages}} sur {{total}} | Utilisez la commande `{{prefix}}mp <ID>` pour acheter des `Wists`!",
-    "EMBED_TITLE": "VOS ANNONCES:"
+    "FOOTER": "Affichage des résultats {{pages}} -{{pages}} sur {{total}}",
+    "EMBED_TITLE": "VOS ANNONCES:",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}`\n{{rateEmoji}}"
 }

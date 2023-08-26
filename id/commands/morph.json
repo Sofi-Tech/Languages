@@ -6,7 +6,7 @@
     "CONTINUE": "Apakah anda ingin morph kartu ini?",
     "MORPH_CONFIRMATION": "{{author}}, Anda akan melakukan morph `{{code}}}` yang berharga `350 silver`.\nAnda dapat menggunakan <:noiressence:1115496193775116411> untuk melakukan morph monokrom `Sobel` atau `Manga`.\n:peringatan: morph yang belum disimpan akan hilang jika Anda memutar ulang atau membatalkan morphing.",
     "CANCELLED": "{{author}} Anda membatalkan transaksi",
-    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `Silver` untuk proses ini",
+    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
     "BALANCE": "Saldo: **{{amount}}** `Silver`",
     "NAME": "Nama: `{{name}}`",
     "UNDO": "`Morph` dipulihkan: ` {{count}}  `",
@@ -18,5 +18,7 @@
     "MORPH_CONFRIM": "`Morph` telah berhasil diterapkan",
     "REROLL": "`Morphs` dipulihkan: ` {{count}}  `\n{{author}} `Morph` paling awal telah dipulihkan. Roll lagi untuk melanjutkan",
     "UNDO_SUCCESSFUL": "Berhasil memulihkan `Morph` sebelumnya untuk **{{amount}}** {{emoji}}",
-    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}m <KodeKartu> <Morphitem>`"
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}m <KodeKartu> <Morphitem>`",
+    "ROLL_MORPH": "Morph ini akan hilang setelah 2 menit",
+    "MNC_CARDS_CANNOT_MORPH": "Kartu Monochrome 2023 3D tidak dapat di ubah bentuknya"
 }

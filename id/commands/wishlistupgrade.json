@@ -10,7 +10,7 @@
     "EMBED_MAXED_DESCRIPTION": "Apakah Anda yakin ingin membuka kunci daftar keinginan anda sepenuhnya sebesar **{{amount}}** `{{currency}}`?",
     "EMBED_MAXED_FIELD_VALUE": "```Slot daftar keinginan maksimum (50 Slot)```",
     "CANCELLED": "Proses telah dibatalkan",
-    "PAY_ERROR": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk transaksi ini",
+    "PAY_ERROR": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
     "EMBED_TITLE": "SOFI: PENINGKATAN DAFTAR KEINGINAN",
     "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Berhasil meningkatkan daftar keinginan anda"
 }
