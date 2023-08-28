@@ -1,15 +1,16 @@
 {
     "DESCRIPTION": "Affiche votre annonce actuelle sur le marché ou examine une offre si vous fournissez un ID",
-    "INVALID_DEAL_ID": "{{author}} L'ID de l'Offre fournis est invalide",
+    "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fournis est invalide",
     "TRADER": "Vendeur",
-    "DEAL_ID": "ID de l'offre",
+    "DEAL_ID": "ID de l'Annonce",
     "PRODUCT": "Produit",
     "VALUE": "Valeur",
     "RATE": "Taux",
     "LISTED": "Listé",
-    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez pas encore fait d'annonces sur le marché",
-    "INFO": "Utilisez la commande `{{prefix}}mul <ID>` pour supprimer votre annonce actuelle\n**Une seule annonce peut être publiée à la fois**",
-    "FOOTER": "Affichage des résultats {{pages}} -{{pages}} sur {{total}}",
-    "EMBED_TITLE": "VOS ANNONCES:",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}`\n{{rateEmoji}}"
+    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez pas d'annonces en cours sur le marché",
+    "INFO": "Utilisez la commande `{{prefix}}mul <ID-De-L'Ordre>` pour retirer votre annonce du marché",
+    "FOOTER": "Affichage des résultats {{pages}}-{{pages}} sur {{total}}",
+    "EMBED_TITLE": "SOFI: INFO MARCHÉ ({{userName}})",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Taux: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: INFO DE L'ANNONCE"
 }

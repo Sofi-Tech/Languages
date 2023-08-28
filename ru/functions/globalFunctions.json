@@ -1,6 +1,6 @@
 {
     "NOT_ENOUGH_AMOUNT": "{{author}}У вас недостаточно `{{item}}` чтобы совершить покупку",
-    "YOU_PAY": "Вы зплатите: {{additionalInfo}}",
+    "YOU_PAY": "Вы заплатите: {{additionalInfo}}",
     "YOU_GET": "Вы получите: {{additionalInfo}}",
     "GUILD_FOUNDER": "Основатель",
     "GUILD_MASTER": "Мастер гильдии",
@@ -9,5 +9,10 @@
     "NEED_GEMS": "{{author}} У вас недостаточно `{{currency}}` чтобы поменять местами коды карт",
     "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Успешно купленно **{{amount}}** `{{itemName}}`",
     "SOMETHING_WENT_WRONG": "{{author}} Что-то пошло не так! Любой вычитаемый предмет был добавлен обратно в ваш инвентарь",
-    "GS_EMBED_FOOTER": "Срок действия этой сделки истекает через {{date}}"
+    "GS_EMBED_FOOTER": "Срок действия этой сделки истекает через {{date}}",
+    "SWAP_EMBED_FOOTER": "Этот процесс поменяет коды между обеими картами",
+    "BUY_EMBED_TITLE": "SOFI: ТРАНКЗАЦИЯ",
+    "SWAP_EMBED_TITLE": "SOFI: ЗАМЕНА КОДА",
+    "CODE_ONE": "<:linedown:868888105611046942> Код 1",
+    "CODE_TWO": "<:linedown:868888105611046942> Код 2"
 }

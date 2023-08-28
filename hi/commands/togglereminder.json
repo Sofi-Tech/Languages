@@ -1,6 +1,6 @@
 {
     "RM_DESCRIPTION": "आपके रिमाइंडर की स्थिति चालू या बंद में स्थापित करता है",
-    "RM_CATEGORY": "SETTINGS",
+    "RM_CATEGORY": "Settings",
     "PROVIDE_REMINDER_NAME": "{{author}} सही उपयोग: `{{prefix}}tr <Vote/Daily/Bump>`",
     "REMINDER_ENABLED": "{{author}} जब आपका **`{{reminder}}`** दुबारा मौजूद होगा तब आपको सूचित कर दिया जाएगा",
     "REMINDER_DISABLED": "{{author}} अब से आपके **`{{reminder}}`** के दुबारा मौजूद होने पर आपको सूचित नही किया जाएगा"

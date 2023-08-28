@@ -1,1 +1,13 @@
-{}
+{
+    "EMBED_AUTHOR": "SOFI:登记",
+    "REGISTER_DESCRIPTION": "验证您的帐户",
+    "REGISTER_CATEGORY": "设定",
+    "AGREE_BUTTON_LABEL": "同意！",
+    "DISAGREE_BUTTON_LABEL": "不同意！",
+    "VISIT_SUPPORT": "访问我们的[支持服务器](https://discord.gg/XPsQKJjeD7 \"Sofi Cafe\") 了解更多信息",
+    "SUPPORT_BUTTON_LABEL": "支援平台",
+    "EMBED_FOOTER": "目前{{count}}用户已通过验证",
+    "VERIFY_BUTTON_LABEL": "核实",
+    "ALREADY_REGISTERED": "{{author}}你已经注册过了！",
+    "AGREE_TOS": "同意上述规则即表示您接受Sofi的服务条款(https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)"
+}

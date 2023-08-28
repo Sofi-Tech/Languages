@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "पत्तो पर Tag लगाता है",
-    "TAG_CATEGORY": "TAGS",
+    "TAG_DESCRIPTION": "चुने गए पत्तो पर \"Tag\" लगाता है",
+    "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}t <CardCode> <TagName>`",
     "NO_TAGS_CREATED": "{{author}} आपने अभी तक कोई `Tag` नहीं बनाया है। आप `{{prefix}}tc <TagName> <Emoji>` का उपयोग करके Tag बना सकते हो",
-    "TAG_NOT_FOUND": "{{author}} आपके पास `{{tag}}` नाम का कोई Tag नहीं है",
+    "TAG_NOT_FOUND": "{{author}} आपके पास `{{tag}}` नाम का कोई `Tag` नहीं है",
     "NO_CARDS_CLAIMED": "{{author}} आपके संग्रह में अभी तक कोई भी पत्ता नहीं है",
     "INVALID_CARD_CODE": "{{author}} आपके द्वारा प्रदान किया गया कोड अमान्य है या आपके संग्रह में मौजूद नहीं है",
-    "SUCCESSFUL_TAG": "{{author}} **{{card}}** को सफलतापूर्वक {{tag}} में जोड़ा गया",
+    "SUCCESSFUL_TAG": "{{author}} **{{card}}** को सफलतापूर्वक `{{tag}}` में जोड़ा गया",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} सभी पत्ते सफलतापूर्वक Tag किए गए"
 }
