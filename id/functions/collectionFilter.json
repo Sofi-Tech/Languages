@@ -1,1 +1,4 @@
-{}
+{
+    "PROVIDE_FILTER": "{{author}} Tolong berikan filter dan metode pengurutan",
+    "PROVIDE_CATEGORY": "{{author}} Tolong berikan salah satu dari kategori berikut ini```apache\n{{categories}}```"
+}

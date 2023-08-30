@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "展示角色的 3D/GIF 版本",
-    "CHAR_NOT_FOUND": "没有找到您要找的角色",
+    "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
     "CHAR_NF_SENSITIVE": "没有找到任何角色，请注意输入 lookup 的大小写",
     "EMBED_TITLE": "__角色查找__",
     "SUBMITTED": "提交者: <@{{userID}}>",
