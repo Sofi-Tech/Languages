@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Brûlez une multitude de cartes en même temps",
-    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau massburn, tant que vous en avez un d'actif. Veuillez d'abord finir celui déjà actif ou alors annulé le",
-    "PROVIDE_FILTERS": "Fournissez un filtre que vous souhaitez appliquer au processus de burn! `t=<NomDeTag>, g><=gen, wl><=wishlist`",
-    "WRONG_TAG": "{{author}} Le nom du `Tag` que vous avez fournis est invalide",
+    "DESCRIPTION": "Brûle une multitude de cartes en même temps",
+    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau `massburn`alors que votre ancien est toujours actif",
+    "PROVIDE_FILTERS": "{{author}} Usage correct: `{{prefix}}mb <Filtres>`\n\n```fix\nNote: Vous pouvez trouver une liste complète des filtres avec la commande: \"{{prefix}}help filters\"\n```",
+    "WRONG_TAG": "{{author}} Aucun `Tag` ne fût trouvé avec le nom: `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondant à vos critères de recherche",
     "CARDS_BURNED": "Cartes Burned **{{totalCards}}**",
     "CONFIRM_ASK": "Êtes-vous sûr de vouloir burn les cartes ci-dessus? Ce processus est irréversible",

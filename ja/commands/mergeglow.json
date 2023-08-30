@@ -1,12 +1,12 @@
 {
-  "MG_DESCRIPTION": "溶剤を受け取るために、グローをマージしてください",
-  "MG_CATEGORY": "化粧品",
-
-  "GLOW_CODES_MISSING": "{{author}}さんのグローコードが足りません | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
-  "GLOWS_UNAVAILABLE": "{{author}}さん、一部のグローが利用できません: {{unavailableGlows}}",
-  "GLOW_CODES_UNIQUE": "{{author}}さん、すべてのグローコードは一意でなければなりません",
-
-  "GLOWS_NOT_FOUND": "{{author}}さん、「{{glows}}」のグローコードを持つグローが見つかりません",
-  "EMBED_TITLE": "SOFI: グローのマージ",
-  "MERGE_CONFIRMATION": "以下のグローをマージしようとしています:\n\n{{glows}}\n\n1 <:resin:938131736741691442> を受け取ります。"
+    "MG_DESCRIPTION": "脂を作る為に、`Glow`を４つマージする",
+    "MG_CATEGORY": "コスメティック",
+    "GLOW_CODES_MISSING": "{{author}}正しい使い方は：`{{prefix}}mg <Glowコード1> <Glowコード2> <Glowコード3> <Glowコード4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} 提供された`Glow`に中では少なくとこ１つは利用不可能です",
+    "GLOW_CODES_UNIQUE": "{{author}} 同じ`Glow`は１回しか使えません",
+    "GLOWS_NOT_FOUND": "{{author}} 提供された `Glow` コードには少なくとも１つが無効またはインベントリーにありません",
+    "EMBED_TITLE": "SOFI: 「GLOW (明り)」をマージする",
+    "MERGE_CONFIRMATION": "下記の`Glow`をマージしようとしていますのでご確認ください：\n\n{{glows}}\n\nこの過程で１つ <:resin:938131736741691442> をもらいます",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} 提供された `Glow` コードには少なくとも１つがインベントリーにありません",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} `Glows`は１つ<:resin:938131736741691442>に成功でマージしました"
 }

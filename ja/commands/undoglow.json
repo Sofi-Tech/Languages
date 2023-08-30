@@ -1,14 +1,16 @@
 {
-    "UNG_DESCRIPTION": "カードから光沢を削除する",
-    "UNG_CATEGORY": "化粧品",
-    "UNG_INVALID_USAGE": "有効なカードコードを入力してください",
-    "INVALID_CODE": "{{author}} 無効なカードコードを入力しました",
-    "NO_CHARACTER": "キャラクターが見つかりません",
-    "NO_GIF": "{{author}} cosmetics コマンドは gif カードには適用されません",
-    "NOT_GLOWED": "{{author}} カードには光沢がありません",
-    "EMBED_TITLE": "光沢を削除する",
-    "UNG_CONFIRMATION": "カードから光沢を削除しようとしています \n以下のようにカードが見えます \nこのプロセスには100シルバーが必要です",
-    "EMBED_FOOTER": "光沢は削除され、インベントリに戻りません",
-    "NOT_ENOUGH_SILVERS": "光沢を削除するための十分なシルバーがありません",
-    "UNG_SUCCESSFUL": "光沢が正常に削除されました"
+    "UNG_DESCRIPTION": "カードの`Glow`を削除する",
+    "UNG_CATEGORY": "コスメティック",
+    "UNG_INVALID_USAGE": "{{author}}正しい使い方は: `{{prefix}}ung <カードコード>`",
+    "INVALID_CODE": "{{author}} 提供されたカードコードが無効またはコレクションにありません",
+    "NO_CHARACTER": "{{author}} このカードのキャラはSOFIに無効されたので利用不可能です",
+    "NO_GIF": "{{author}} `GIF`カードにコスメティックを削除できません",
+    "NOT_GLOWED": "{{author}} カードには`Glow`がありません",
+    "EMBED_TITLE": "SOFI: 「GLOW (明り)」を削除する",
+    "UNG_CONFIRMATION": "100`Silver`を消費して、本当にカードの`Glow`を削除したいですか？",
+    "EMBED_FOOTER": "`Glow`はインベントリーに戻りません",
+    "NOT_ENOUGH_SILVERS": "{{author}} この過程を実行する`{{currency}}`が足りません",
+    "UNG_SUCCESSFUL": "{{author}} カードに**{{glowName}}** `Glow`を成功で削除しました",
+    "UNG_NO_OWNER": "{{author}} 提供されたカードはコレクションにもう存在していません",
+    "UNAVAILABLE": "利用不可能"
 }

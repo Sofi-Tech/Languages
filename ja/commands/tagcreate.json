@@ -1,10 +1,10 @@
 {
     "TC_DESCRIPTION": "タグを作成する",
     "TC_CATEGORY": "タグ",
-    "WRONG_USAGE": "使用方法：`{{prefix}}tc <タグ名> <絵文字>`",
+    "WRONG_USAGE": "{{author}} 正しい使い方は： `{{prefix}}tc <タグ名> <絵文字>`",
     "INVALID_EMOJI": "{{author}} 提供された絵文字は使えません",
-    "INVALID_TAGNAME_FORMAT": "タグ名は英数字でなければならず、特殊文字やスペースや予約語を含めることはできません。",
-    "LONG_TAGNAME": "タグ名が長すぎます。20文字以下にしてください",
-    "TAGNAME_EXISTS": "{{author}} **`{{tag}}` という名前のタグは既に存在しています",
-    "TAG_CREATED": "`{{tag}}` という名前のタグを作成しました。| {{emoji}}"
+    "INVALID_TAGNAME_FORMAT": "{{author}} 提供されたタグ名は英数字で、特殊文字やスペースや予約語を含めることはできません",
+    "LONG_TAGNAME": "{{author}}タグ名は**20**文字以下にしてください",
+    "TAGNAME_EXISTS": "{{author}} `{{tag}}`名すでに存在します",
+    "TAG_CREATED": "{{author}}`{{tag}}` | {{emoji}} タグを成功で作成しました"
 }

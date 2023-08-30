@@ -1,14 +1,13 @@
 {
-  "TT_DESCRIPTION": "カードからテキストを削除する",
-  "TT_CATEGORY": "コスメティック",
-  "PROVIDE_CARD_CODE": "{{author}}、カードコードを提供してください",
-  "INAVLID_CARD_CODE": "無効なカードコードが提供されました",
-
-  "CANNOT_FIND_CARD": "エラー！カードが見つかりません",
-  "CANNOT_TOGGLE": "{{author}}は、GIFカードまたは3Dカードのテキストの切り替えをできません",
-  "EMBED_TITLE": "SOFI：テキストの切り替え",
-  "TT_CONFIRMATION": "{{toggleInfo}}してもよろしいですか？\nこのプロセスには1000<:_:915619222229512213>かかります",
-  "NO_OWNER": "カードはもうあなたのものではありません",
-  "NOT_ENOUGH_SILVERS": "十分なシルバーがありません",
-  "TT_ENABLE_SUCCESSFUL": "テキストが正常に削除されました"
+    "TT_DESCRIPTION": "カードからテキストを削除する",
+    "TT_CATEGORY": "コスメティック",
+    "PROVIDE_CARD_CODE": "{{author}}、カードコードを提供してください",
+    "INAVLID_CARD_CODE": "無効なカードコードが提供されました",
+    "CANNOT_FIND_CARD": "エラー！カードが見つかりません",
+    "CANNOT_TOGGLE": "{{author}}は、GIFカードまたは3Dカードのテキストの切り替えをできません",
+    "EMBED_TITLE": "SOFI：テキストの切り替え",
+    "TT_CONFIRMATION": "{{toggleInfo}}してもよろしいですか？\nこのプロセスには1000<:_:915619222229512213>かかります",
+    "NO_OWNER": "カードはもうあなたのものではありません",
+    "NOT_ENOUGH_SILVERS": "{{author}} この過程を実行する`{{currency}}`が足りません",
+    "TT_ENABLE_SUCCESSFUL": "テキストが正常に削除されました"
 }

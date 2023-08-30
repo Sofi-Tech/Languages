@@ -6,7 +6,7 @@
     "CONTINUE": "続行しますか？",
     "MORPH_CONFIRMATION": "{{author}}、'{{code}}' を 350 シルバーで変形しようとしています。",
     "CANCELLED": "ウィッシュリストスロット拡張がキャンセルされました",
-    "NOT_ENOUGH_SILVERS": "{{author}} シルバーが足りません",
+    "NOT_ENOUGH_SILVERS": "{{author}} この過程を実行する`{{currency}}`が足りません",
     "BALANCE": "残高: {{amount}} シルバー",
     "NAME": "名前: `{{name}}`",
     "UNDO": "元に戻す回数: `{{count}}`",

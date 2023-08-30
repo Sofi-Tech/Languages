@@ -1,9 +1,9 @@
 {
-    "UT_DESCRIPTION": "आपके पत्तो से Tag हटाता है",
+    "UT_DESCRIPTION": "आपके पत्तो से Tag हटाता है।",
     "UT_CATEGORY": "TAGS",
-    "UT_EMPTY_COLLECTION": "{{author}} आपके संग्रह में कोई पत्ता मौजूद नहीं है",
-    "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}** से Tag सफलतापूर्वक हटाया गया",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपकी Inventory में मौजूद नहीं है",
-    "MULTIPLE_UNTAG": "{{author}} सभी **{{count}}** पत्तो से सफलतापूर्वक Tag हटाया गया",
-    "INVALID_CODE_MULTIPLE": "{{author}} निम्नलिखित कॉड अमान्य है या आपकी Inventory में मौजूद नहीं है:\n{{invalidCodeList}}"
+    "UT_EMPTY_COLLECTION": "{{author}} आपके संग्रह में कोई पत्ता मौजूद नहीं है।",
+    "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}** से `Tag` सफलतापूर्वक हटाया गया",
+    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "MULTIPLE_UNTAG": "{{author}} सभी **{{count}}** पत्तो से सफलतापूर्वक `Tag` हटाया गया",
+    "INVALID_CODE_MULTIPLE": "{{author}} निम्नलिखित कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है:\n{{invalidCodeList}}"
 }

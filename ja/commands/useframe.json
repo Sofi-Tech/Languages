@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "購入したフレームをカードに使用する",
-  "UF_CATEGORY": "化粧品",
-  "UF_INVALID_USAGE": "suf <code> <framename/framecode>",
-  "INVALID_CODE": "{{author}} 無効なカードコードを入力しました",
-  "CANNOT_APPLY": "3Dカードにフレームを適用することはできません",
-  "NO_GIF": "{{author}} GIFカードにフレームを付けることはできません",
-  "NO_FRAMES_FOUND": "{{author}} フレームが見つかりません",
-  "EMBED_TITLE": "フレームを適用する：",
-  "UF_CONFIRMATION": "{{frameName}}を適用しようとしています。\n次のようになる予定です。\n",
-  "EMBED_FOOTER": "カードにフレームが付いています。 Undoframeコマンドを使用して、インベントリに適用されたフレームを取り戻してください。",
-  "NO_OWNER": "カードはあなたのものではなくなりました",
-  "FRAME_NOT_FOUND": "そのフレームは持っていません",
-  "UF_SUCCESSFUL": "成功"
+    "UF_DESCRIPTION": "購入したフレームをカードに使用する",
+    "UF_CATEGORY": "化粧品",
+    "UF_INVALID_USAGE": "suf <code> <framename/framecode>",
+    "INVALID_CODE": "{{author}} 提供されたカードコードが無効またはコレクションにありません",
+    "CANNOT_APPLY": "3Dカードにフレームを適用することはできません",
+    "NO_GIF": "{{author}} GIFカードにフレームを付けることはできません",
+    "NO_FRAMES_FOUND": "{{author}} フレームが見つかりません",
+    "EMBED_TITLE": "フレームを適用する：",
+    "UF_CONFIRMATION": "{{frameName}}を適用しようとしています。\n次のようになる予定です。\n",
+    "EMBED_FOOTER": "カードにフレームが付いています。 Undoframeコマンドを使用して、インベントリに適用されたフレームを取り戻してください。",
+    "NO_OWNER": "カードはあなたのものではなくなりました",
+    "FRAME_NOT_FOUND": "そのフレームは持っていません",
+    "UF_SUCCESSFUL": "成功"
 }

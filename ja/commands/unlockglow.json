@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "輝きを解除する",
+    "UG_DESCRIPTION": "ランダム`Glow`を作成する",
     "UG_CATEGORY": "コスメティック",
-    "EMBED_TITLE": "SOFI: 輝きを解除",
-    "UNLOCK_GLOW_CONFIRM": "{{author}}さん、{{currency}}100で輝きを解除しますか？",
-    "CANCELLED_UNLOCK_GLOW": "解除をキャンセルしました",
-    "NOT_ENOUGH_GEMS": "宝石が足りません",
-    "EMBED_GLOW_TITLE": "SOFI: 輝き",
-    "UNLOCK_GLOW_SUCCESS": "おめでとうございます、{{author}}さん！`{{glowName}}`(`#{{glowCode}}`)を解除しました"
+    "EMBED_TITLE": "SOFI: 「GLOW (明り)」を作成する",
+    "UNLOCK_GLOW_CONFIRM": "{{author}}本当に**100** {{currency}}を消費してランダム`Glow`を作成したいですか？",
+    "CANCELLED_UNLOCK_GLOW": "過程をキャンセルしました",
+    "NOT_ENOUGH_GEMS": "{{author}} `Gems`は足りません",
+    "EMBED_GLOW_TITLE": "SOFI: 「GLOW (明り)」を作成する",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} **{{glowName}}** `Glow` | `#{{glowCode}}` を手に入りました"
 }

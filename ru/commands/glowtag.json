@@ -1,9 +1,12 @@
 {
-    "GT_DESCRIPTION": "\"Tags\" ваших \"Glows\"",
-    "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одного `Glow Tags`. Вы можете создать их с помощью команды `{{prefix}}gtc <Название> <Эмодзи>`",
+    "GT_DESCRIPTION": "Сделайте \"Тэг\" для ваших \"Свечении\"",
+    "GT_CATEGORY": "Тэги",
+    "GLOWTAGS_NOT_FOUND": "{{author}} У вас нет ни одного `Glow Tag`. Вы можете создать их командой: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет ни одного `Glows`",
-    "INVALID_GLOW_CODE": "{{author}} Один или несколько указанных кодов `Glow`недействительны",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечен тегом `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены тегами"
+    "INVALID_GLOW_CODE": "{{author}} Как минимум один код `Glow`, что вы предоставили либо неправильный или не находится в вашем инвентаре",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечен тегом: `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены тегами: `{{tag}}`",
+    "GLOW_TAG_INVALID": "{{author}} У вас нет ни одного `Glow Tag` с названием: `{{tagname}}`",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gt <TagName> <GlowCode>`",
+    "INVALID_GLOW_SINGULAR": "{{author}} `Glow` код, что вы предоставили либо неправильный или не находится в вашем инвентаре"
 }

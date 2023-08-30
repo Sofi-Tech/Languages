@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "\"Tag\" को मिटाता है",
-    "TD_CATEGORY": "Tags",
+    "TD_DESCRIPTION": "Tag को मिटाता है।",
+    "TD_CATEGORY": "TAGS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}dt <TagName>`",
-    "TAG_NOT_FOUND": "{{author}} आपके पास इस नाम का कोई भी Tag नहीं है",
-    "SUCCESSFUL_DELETE_TAG": "{{author}} इस नाम से सफलतापूर्वक Tag मिटाया गया: ` {{tag}} `"
+    "TAG_NOT_FOUND": "{{author}} आपके पास इस नाम का कोई भी `Tag`मौजूद नहीं है।",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} इस नाम से सफलतापूर्वक `Tag`मिटाया गया: ` {{tag}} `"
 }
