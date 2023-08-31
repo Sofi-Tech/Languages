@@ -1,10 +1,10 @@
 {
-    "GUT_DESCRIPTION": "Glow से Tag हटाता है",
+    "GUT_DESCRIPTION": "Glow से Tag हटाता है।",
     "GUT_CATEGORY": "TAGS",
     "NO_GLOWS_FOUND": "{{author}} आपके पास कोई `Glow` नहीं है।",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow codes ` हमेशा `#` से शुरू होते है।",
     "INVALID_GLOWCODE": "{{author}} प्रदान किया गया `Glow Code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} **{{glow}}**`Glow` से सफलतापूर्वक `Tag` हटाया गया",
-    "GLOW_UNTAG_PLURAL": "{{author}} सभी **{{count}}** `Glows` से सफतालपुर्वक `Tag` हटाया गया",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} **{{glow}}** `Glow` से सफलतापूर्वक `Tag` हटाया गया",
+    "GLOW_UNTAG_PLURAL": "{{author}} सभी **{{count}}** `Glows` से सफलतापूर्वक `Tag` हटाया गया",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} निम्नलिखित `Glow codes` अमान्य है या आपके संग्रह में मौजूद नहीं है:\n{{invalidCodeList}}"
 }

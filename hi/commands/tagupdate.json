@@ -11,7 +11,7 @@
     "TAGNAME_EXISTS": "{{author}} इस नाम से `Tag` पहले से मौजूद है: `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} आपके `Tag` का नाम सिर्फ शब्दो-अंको में होना चाहिए और उसमे कोई भी खास वर्ण, स्पेस या अपशब्द का समावेश नही होना चाहिए",
     "TAGNAME_LONG": "{{author}} `Tag` का नाम **20** वर्णों से अधिक नहीं होना चाहिए",
-    "REPLACE_NAME_CONFIRMATION": "क्या आप वाकई में `Tag` का नाम`{{oldTag}}` से `{{newTag}}` बदलना चाहते हैं?",
+    "REPLACE_NAME_CONFIRMATION": "क्या आप वाकई में `Tag` का नाम `{{oldTag}}` से `{{newTag}}` बदलना चाहते हैं?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} `Tag` के नाम को सफलतापूर्वक `{{oldTag}}` से `{{newTag}}` बदला गया",
     "PROCESS_TERMINATED": "प्रक्रिया रद्द की गई",
     "REPLACE_EMOJI": "`{{emoji}}` को बदलने के लिए नया इमोजी दर्ज करे",
