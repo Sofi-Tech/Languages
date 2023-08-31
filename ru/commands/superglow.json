@@ -7,8 +7,8 @@
     "NO_USE_SG": "{{author}} Вы не можете использовать `Super Glow` для создания ещё одного `Super Glow`!",
     "SAME_GLOWS": "{{author}} Вы не можете использовать один и тот же `Glow` несколько раз для этого процесса",
     "EMBED_TITLE": "SOFI: Супер Свечение",
-    "FORM_SG_CONFIRM": "Вы собираетесь использовать следующие `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nчтобы получить `Super Glow` **`{{superGlowName}}`**",
-    "MISSING_RESINS": "У вас недостаточно `Resin`, чтобы создать `Super Glow`",
-    "SUPER_GLOW_SUCCESSFUL": "Ваши `Glows` были успешно `Merged`!\n",
-    "FORM_SG_FOOTER": "Все Glows, использованные в этом процессе, будут уничтожены! Этот процесс необратим, Доступен и Недоступен"
+    "FORM_SG_CONFIRM": "Вы уверены что хотите соединить следующие предметы:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nв **{{superGlowName}}** `Super Glow`?",
+    "MISSING_RESINS": "{{author}} У вас недостаточно `Resin`, чтобы создать `Super Glow`",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Успешно соединили ваши `Glows`\n",
+    "FORM_SG_FOOTER": "Оба \"Glows\" будут уничтожены в процессе!"
 }

@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "Vous êtes sur le point de retirer la morphologie de votre carte\nVotre carte aura l'air comme ci-dessous\nLe processus coûtera **100** `Silver`",
     "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
     "SOMETHING_WENT_WRONG": "{{author}} Quelque chose s'est mal passé, essayer à nouveau",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
+    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de {{currency}} pour ce processus",
     "UM_SUCCESSFUL": "Le `Morph` a été retirée avec succès"
 }

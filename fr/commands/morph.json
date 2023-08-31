@@ -1,15 +1,15 @@
 {
-    "MORPH_DESCRIPTION": "\"Morphs\" l'apparence d'une carte",
+    "MORPH_DESCRIPTION": "Change l'apparence d'une carte",
     "MORPH_CATEGORY": "Cosmétiques",
-    "CANNOT_MORPH": "{{author}} Le code de carte que vous avez fournis est soit invalide soit n'est pas dans votre collection",
-    "NO_GIF_MORPHED": "{{author}} Les `GIF` ne peuvent pas être morph",
-    "CONTINUE": "Voulez-vous morph cette carte?",
-    "MORPH_CONFIRMATION": "{{author}}, Vous étes sur le point de morph `{{code}}` ce qui coute `350 silvers`.\nVous pouvez utiliser <:noiressence:1115496193775116411> afin d'obtenir un morph Monochrome `Sobel` ou `Manga`.\n:warning:  Les morphs non sauvegarder seront perdu si vous relancez ou annuler le morphing",
+    "CANNOT_MORPH": "{{author}} Le code de carte fournis n'est soit pas dans votre collection soit invalide",
+    "NO_GIF_MORPHED": "{{author}} Vous ne pouvez pas morph une carte`GIF`",
+    "CONTINUE": "SOFI: MORPH",
+    "MORPH_CONFIRMATION": "Êtes vous sûr de vouloir morph votre carte **{{characterName}}** pour **{{amount}}** {{currencyEmoji}} par roll?",
     "CANCELLED": "Le processus a été annulé",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `Silver` pour ce processus",
-    "BALANCE": "Solde:** {{amount}}** `Silver`",
-    "NAME": "Nom: `{{name}}`",
-    "UNDO": "`Morphs` restauré : `  {{count}}  `",
+    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de {{currency}} pour ce processus",
+    "BALANCE": "Solde: ** {{amount}}** {{currencyEmoji}}",
+    "NAME": "Nom: **{{name}}**",
+    "UNDO": "Morphs rolled: **{{count}}**",
     "FAILED": "{{author}} Un problème est survenu, veuillez réessayer",
     "HISTORY": "\nHistorique : ```{{history}}```",
     "STOLE_MORPH": "Un problème est survenu, veuillez relancer un autre morph",
@@ -22,5 +22,7 @@
     "NO_SPECIAL_REROLLED": "Pas de morph spécial relancer",
     "CANNOT_APPLY_MNC": "Les Noir essence ne peut pas être appliquée sur les cartes Monochrome 2023 ou 3D",
     "MNC_EMBED_TITLE": "SOFI: MONOCHROME 2023",
-    "MNC_REROLL_COST": "Chaque relance pour la morph d'événement coûtera 1 essence noire"
+    "MNC_REROLL_COST": "Chaque relance pour la morph d'événement coûtera 1 essence noire",
+    "CORRECT_USAGE": "{{author}} Usage correct: `{{prefix}}m <CardCode> <MorphItem>`",
+    "EMBED_TITLE": "SOFI: MORPH (`{{cardCode}}`)"
 }

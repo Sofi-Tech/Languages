@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "Вы уверены, что хотите удалить `Morph` с этой карты?\nЭтот процесс будет стоить **100** `Silver`",
     "NO_OWNER": "{{author}} Этой карты больше нет в вашей коллекции",
     "SOMETHING_WENT_WRONG": "Что-то пошло ужасно не так.. <:sofi_cry:1008533719092559914>",
-    "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно `Silver` для этого процесса",
+    "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно `{{currency}}` для этого процесса",
     "UM_SUCCESSFUL": "`Morph` был успешно удален"
 }

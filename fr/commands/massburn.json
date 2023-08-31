@@ -1,12 +1,14 @@
 {
     "DESCRIPTION": "Brûle une multitude de cartes en même temps",
-    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau `massburn`alors que votre ancien est toujours actif",
+    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau `massburn`alors que le précédent est toujours actif",
     "PROVIDE_FILTERS": "{{author}} Usage correct: `{{prefix}}mb <Filtres>`\n\n```fix\nNote: Vous pouvez trouver une liste complète des filtres avec la commande: \"{{prefix}}help filters\"\n```",
-    "WRONG_TAG": "{{author}} Aucun `Tag` ne fût trouvé avec le nom: `{{arg}}`",
+    "WRONG_TAG": "{{author}} Aucun `Tag` nommé: `{{arg}}`n'a été trouvé",
     "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondant à vos critères de recherche",
-    "CARDS_BURNED": "Cartes Burned **{{totalCards}}**",
-    "CONFIRM_ASK": "Êtes-vous sûr de vouloir burn les cartes ci-dessus? Ce processus est irréversible",
-    "MISSING_CARDS": "{{author}} Au moins une carte du `Tags` que vous avez sélectionné n'est plus dans votre collection",
-    "SUCCESS": "Les cartes ont été burn avec succès",
-    "BURN_REWARDS": "__Récompenses__"
+    "CARDS_BURNED": "__Cartes sélectionnées [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Êtes-vous sûr de vouloir indéfiniment burn les cartes ci-dessus?",
+    "MISSING_CARDS": "{{author}} Au moins une des cartes sélectionnées n'est plus dans votre collection",
+    "SUCCESS": "{{author}} Les cartes sélectionnées ont été burn avec succès",
+    "BURN_REWARDS": "__Récompenses__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Vous ne pouvez pas brûler votre `Tag` lock"
 }

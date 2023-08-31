@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Retire votres offres du marché",
+    "DESCRIPTION": "Retire vos offres du marché",
     "CORRECT_USAGE": "{{user}} Usage correct: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} L'ID de l'Offre que vous avez fournis est soit invalide ou n'est pas à vous",
-    "SUCCESS_UL": "{{user}} L'ordre suivant a été retiré avec succès du marché: `{{dealId}}`",
-    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez publié aucune offre sur le marché pour le moment",
-    "SUCCESS_UL_ALL": "{{user}} Un total de `{{totalDeals}}`offres ont été retirées avec succès du marché"
+    "INVALID_DEAL_ID": "{{author}} L'ID d'offre que vous avez fournie est soit invalide ou n'est pas à vous",
+    "SUCCESS_UL": "{{user}} L'offre suivante a été retiré du marché avec succès: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez actuellement aucune offre",
+    "SUCCESS_UL_ALL": "{{user}} Toutes vos offres ont été retiré du marché avec succès"
 }
