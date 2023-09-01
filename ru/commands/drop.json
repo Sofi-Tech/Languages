@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Генерирует \"Drop\" карт\nИспользуйте команду \"{{prefix}}dn\" для генерации \"Drop\" без картинок",
-    "EXTRA_DROP_ALERT": "{{author}} Ваш экстра `Drop` используется. У вас осталось `{{remaining}}`.",
+    "EXTRA_DROP_ALERT": "{{author}} Ваш дополнительный `Drop` использован. У вас осталось `{{remaining}}`.",
     "ON_CD": "{{author}} Ваш `Drop`будет готов через: **{{dropCd}}**",
     "VOTE": "Голосовать",
-    "BUY_DROP": "\n\n- Вы также можете `Vote` чтобы получить `Wists`! Используйте команду `{{prefix}}buy drop` чтобы обменять их",
+    "BUY_DROP": "\n\n- Вы также можете `Vote` чтобы получить `Wists`! Используйте команду `{{prefix}}buy drop`, чтобы обменять их",
     "DROPPING_CARD": "{{author}} **бросает** карты\n"
 }

@@ -11,5 +11,6 @@
     "COLOR_NAME": "Название: {{name}}",
     "COLOR_CODE": "Код: `{{code}}`",
     "GLOW_UNAVAILABLE": "У этого `Glow` нет зарядов",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "Цвет шрифта карты успешно изменен"
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "Цвет шрифта карты успешно изменен",
+    "PROCESS_CANCELLED": "Процесс был отменен"
 }

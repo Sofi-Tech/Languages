@@ -1,13 +1,15 @@
 {
-    "BF_DESCRIPTION": "Покупает \"Frame\" во \"Frame Shop\"",
+    "BF_DESCRIPTION": "Покупает \"Frame\" в \"Frame Shop\"",
     "BF_CATEGORY": "Косметика",
-    "NO_FRAME_NAME": "{{author}} Пожалуйста, укажите название `Frame`, который вы хотите купить",
-    "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти ни одного `Frame` с кодом `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Этот frame сейчас недоступен. Вместо этого используйте команду `sfs`, чтобы проверить текущее ротацию `Frame`",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Этот `Frame` ограничен и больше не может быть куплен",
-    "EMBED_TITLE": "СДЕЛКА",
-    "YOU_GET": "Вы получаете:",
-    "YOU_PAY": "Вы заплатите:",
-    "NO_ENOUGH_AMOUNT": "У вас недостаточно средств для этой транзакции",
-    "FRAME_PURCHASED_BY": "Ваш `Frame` **{{frame}}** был куплен `{{userId}}`| {{buyCount}}"
+    "NO_FRAME_NAME": "{{author}} Пожалуйста, укажите название `Frame`, которую вы хотите купить",
+    "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти `Frame` с кодом `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} Эта `Frame` сейчас недоступна. Используйте команду `{{prefix}}fs`, чтобы посмотреть текущую ротацию `Frame`",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Эта `Frame` была доступна ограниченное время и больше не может быть куплена",
+    "EMBED_TITLE": "SOFI: ПОКУПКА",
+    "YOU_GET": "Вы приобретаете:",
+    "YOU_PAY": "Вы платите:",
+    "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно `{{currency}}` для покупки",
+    "FRAME_PURCHASED_BY": "Ваша **{{frame}}** `Frame` была куплена `{{userId}}`| {{buyCount}}",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Покупка **{{frameName}}** `Frame` успешно совершена",
+    "PROCESS_CANCELLED": "Процесс был отменен"
 }

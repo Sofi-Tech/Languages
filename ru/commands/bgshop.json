@@ -1,10 +1,10 @@
 {
-    "NO_BG_FOUND": "Это недействительный `Background` идентификатор",
+    "NO_BG_FOUND": "{{author}} Это недействительный идентификатор `Background`",
     "BGS_CATEGORY": "Косметика",
     "BGS_SLASH_DESC": "Введите код \"Background\", который вы ищете",
-    "EMBED_TITLE": "SOFI 3D BACKGROUNDS:",
-    "APPLY_BG": "Чтобы установить `Background`, используйте команду `sbg <код> <bgID>`",
-    "VIEW_BACKGROUNDS": "Нажмите здесь, чтобы просмотреть все `Backgrounds`",
-    "SHOWING_PAGE": "Страница: {{page}}/{{pages}}",
-    "BGS_DESCRIPTION": "Просмотреть backgrounds для 3D карт"
+    "EMBED_TITLE": "SOFI: МАГАЗИН `BACKGROUND`",
+    "APPLY_BG": "\nИспользуйте команду `{{prefix}}buy bg <Background-ID> <Amount>`, чтобы покупать `Backgrounds`",
+    "VIEW_BACKGROUNDS": "[Нажмите здесь, чтобы посмотреть все `Backgrounds`](<https://sofi.gg/backgrounds>)",
+    "SHOWING_PAGE": "Отображение страниц: {{page}}/{{pages}}",
+    "BGS_DESCRIPTION": "Отображает \"Background Shop\""
 }

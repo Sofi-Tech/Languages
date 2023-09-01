@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Применяет «Рамку» к вашей карте",
+    "UF_DESCRIPTION": "Применяет \"Frame\" к вашей карте",
     "UF_CATEGORY": "Косметика",
-    "UF_INVALID_USAGE": "Правильное использование: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Код этой карты либо недействителен либо отсутствует в вашей коллекции",
-    "CANNOT_APPLY": "{{author}} Вы не можете применить `Рамку` к `3D-карте`",
-    "NO_GIF": "{{author}} Вы не можете применить `Рамку` к карточке `GIF`",
-    "NO_FRAMES_FOUND": "{{author}} Этот код `Frame` либо недействителен, либо отсутствует в вашем `Inventory`",
-    "EMBED_TITLE": "ПРИМЕНИТЬ РАМКУ:",
-    "UF_CONFIRMATION": "Вы собираетесь применить `Frame` **{{frameName}}** к этой карточке",
-    "EMBED_FOOTER": "К этой карте уже применена рамка. Применение другого уничтожит предыдущий!",
-    "NO_OWNER": "{{author}} Этой карты больше нет в вашей коллекции",
-    "FRAME_NOT_FOUND": "{{author}} У вас нет **{{frameName}}** `Рамки`",
-    "UF_SUCCESSFUL": "«Рамка» была успешно применена"
+    "UF_INVALID_USAGE": "{{author}} Правильное использование: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} Код этой карты недействителен или отсутствует в вашей коллекции",
+    "CANNOT_APPLY": "{{author}} Вы не можете применить `Frame` к `3D` карте",
+    "NO_GIF": "{{author}} Вы не можете применить `Frame` к `GIF` карте",
+    "NO_FRAMES_FOUND": "{{author}} Этот код `Frame` недействителен или отсутствует в вашем `Inventory`",
+    "EMBED_TITLE": "SOFI: ПРИМЕНИТЬ `FRAME`",
+    "UF_CONFIRMATION": "Вы уверены, что хотите применить **{{frameName}}** `Frame` к этой карте?",
+    "EMBED_FOOTER": "Подтверждение этого процесса приведет к уничтожению примененного \"Frame\"",
+    "NO_OWNER": "{{author}} Эта карта больше не в вашей коллекции",
+    "FRAME_NOT_FOUND": "{{author}} У вас нет **{{frameName}}** `Frame`",
+    "UF_SUCCESSFUL": "{{author}} **{{frameName}}** `Frame` успешно применена к вашей карте"
 }

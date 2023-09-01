@@ -1,14 +1,16 @@
 {
-    "DESCRIPTION": "Увеличивает емкость вашего списка желаний",
-    "CATEGORY": "Wishlist",
-    "ALREADY_MAXED": "> {{author}} ваш список желаний уже полностью заполнен!",
-    "EMBED_DESCRIPTION": "Хотите купить {{count}} дополнительных слотов за {{amount}} {{currency}}?",
+    "DESCRIPTION": "Расширяет ваш список желаемого",
+    "CATEGORY": "Список желаемого",
+    "ALREADY_MAXED": "{{author}} Вы не можете больше расширить ваш список желаемого",
+    "EMBED_DESCRIPTION": "Вы уверены, что хотите купить **{{count}}** дополнительных ячеек за **{{amount}}** `{{currency}}`?",
     "EMBED_PAY_FIELD_NAME": "Вы платите:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "Вы получаете:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} дополнительных слотов списка желаний```",
-    "EMBED_MAXED_DESCRIPTION": "Хотите заполнить свой список желаний до максимума за {{amount}} {{currency}}?",
-    "EMBED_MAXED_FIELD_VALUE": "```Полностью разблокированный список желаний (50 слотов)```",
-    "CANCELLED": "Процесс был отменён",
-    "PAY_ERROR": "`У вас недостаточно {{amount}} {{currency}}`"
+    "EMBED_GET_FIELD_NAME": "Вы получите:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} дополнительных ячеек в списке желаемого```",
+    "EMBED_MAXED_DESCRIPTION": "Вы уверены, что хотите открыть все ячейки в списке желаемого за **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_FIELD_VALUE": "```Максимальное количество ячеек (50 ячеек)```",
+    "CANCELLED": "Процесс был отменен",
+    "PAY_ERROR": "{{author}} У вас недостаточно `{{currency}}` для этого действия",
+    "EMBED_TITLE": "SOFI: РАСШИРЕНИЕ СПИСКА ЖЕЛАЕМОГО",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Ваш список желаемого был успешно расширен"
 }

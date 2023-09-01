@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Устанавливает ваш список желаний на канале",
-    "CATEGORY": "Wishlist",
-    "CHANNEL_SET": "> Ваш список желаний был установлен в {{channel}}",
-    "CHANNEL_REMOVE": "> Ваш список желаний был удален из {{channel}}"
+    "CATEGORY": "Список желаемого",
+    "CHANNEL_SET": "{{author}} Ваш список желаемого установлен в {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} Ваш список желаемого был удален из {{channel}}"
 }
