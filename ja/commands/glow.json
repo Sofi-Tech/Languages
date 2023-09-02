@@ -1,18 +1,18 @@
 {
-    "GLOW_DESCRIPTION": "カードに「Glow (明り)」エフェクトを追加する",
+    "GLOW_DESCRIPTION": "カードに「Glow (輝き)」エフェクトを付ける",
     "GLOW_CATEGORY": "コスメティック",
     "WRONG_USAGE": "{{author}} 正しい使い方は： `{{prefix}}glow <カードコード> <#Glowコード>`",
     "WRONG_CARD": "{{author}} 提供されたカードコードが無効またはコレクションにありません",
-    "NO_GIF_CARDS": "{{author}} `GIF`カードには`Glow`を追加できません",
+    "NO_GIF_CARDS": "{{author}} `GIF`カードには`Glow`を付けられません",
     "INVALID_GLOW_CODE": "{{author}} `Glow`のコードの最初には必ず **#** を付けます",
     "GLOW_NOT_FOUND": "{{author}} 提供された `Glow` コードが無効またはインベントリーにありません",
-    "EMBED_GLOW_TITLE": "SOFI: 「GLOW (明り)」を追加する",
-    "EMBED_SG_TITLE": "SOFI: 「SUPER GLOW (超明り)」を追加する",
+    "EMBED_GLOW_TITLE": "SOFI: 「GLOW (輝き)」を付ける",
+    "EMBED_SG_TITLE": "SOFI：「SUPER GLOW (超輝き)」を付ける",
     "GLOW_NAME": "名前: **{{name}}**",
     "GLOW_CODE": "コード: `#{{code}}`",
     "EMBED_FOOTER": "Glow: {{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} その `Glow` の利用を不可能です",
-    "GLOW_APPLY_SUCCESSFUL": "{{author}} カードに **{{glowName}}** `Glow`の追加は成功しました",
+    "GLOW_APPLY_SUCCESSFUL": "{{author}} カードに **{{glowName}}** `Glow`を付けられました",
     "UNAVAILABLE": "利用不可能",
     "AVAILABLE": "利用可能"
 }

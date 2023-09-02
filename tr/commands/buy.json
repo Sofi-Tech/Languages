@@ -1,13 +1,12 @@
 {
-  "DESCRIPTION": "Sofi'nin \"Shop\"undan \"Item\" satın alır",
-  "SLASH_DESC": "Satın almak istediğiniz `Item`ın adını girin",
-  "SLASH_DESC2": "Miktar girin",
-  "SLASH_DESC3": "Satın almak istediğiniz `Background`ın kodunu girin. [YALNIZCA ITEM BACKGROUND OLARAK SEÇİLİ İSE ÇALIŞIR]",
-  "NO_ITEM": "Lütfen satın almak için bir `Item` belirt",
-  "TRADEPASS_INFO": "**__1x__** `Bump` 4 saatlik `Trade Pass` ile takas edilebilir veya **__20x__** `Bump` biriktirerek 30 günlük`Trade Pass` ile takas edebilirsin",
-  "CORRECT_USAGE": "{{USER}} Doğru kullanım: `{{prefix}}buy bg <Background-ID> <miktar>`",
-  "INVALID_BG_AMOUNT": "Negatif miktar girmeyiniz",
-  "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirtin",
-
-  "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz `Item` belirtildi"
+    "DESCRIPTION": "Sofi'nin \"Shop\" undan \"Item\" satın alır",
+    "SLASH_DESC": "Satın almak istediğiniz `Item`ın adını girin",
+    "SLASH_DESC2": "Miktar girin",
+    "SLASH_DESC3": "Satın almak istediğiniz `Background`ın kodunu girin. [YALNIZCA ITEM BACKGROUND OLARAK SEÇİLİ İSE ÇALIŞIR]",
+    "NO_ITEM": "Lütfen satın almak için bir `Item` belirt",
+    "TRADEPASS_INFO": "**__1x__** `Bump` 4 saatlik `Trade Pass` ile takas edilebilir veya **__20x__** `Bump` biriktirerek 30 günlük`Trade Pass` ile takas edebilirsin",
+    "CORRECT_USAGE": "{{USER}} Doğru kullanım: `{{prefix}}buy bg <Background-ID> <miktar>`",
+    "INVALID_BG_AMOUNT": "Negatif miktar girmeyiniz",
+    "INVALID_BG_ID": "Lütfen geçerli bir `Background` ID'si belirtin",
+    "INVALID_ITEM_PROVIDED": "{{USER}} geçersiz `Item` belirtildi"
 }

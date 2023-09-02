@@ -1,7 +1,7 @@
 {
-  "TT_DESCRIPTION": "Переносит карты из одного \"Tag\" в другой",
-  "TT_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}trt <СтарыйTag> <НовыйTag>`",
-  "TAG_NOT_FOUND": "Не удалось найти `Tag` с именем: `{{tag}}`",
-  "TRANSFER_TAG_SUCCESSFUL": "Все карточки из `Tag` {{fromTag}} успешно перенесены в `{{toTag}}`"
+    "TT_DESCRIPTION": "Переносит карты из одного \"Tag\" в другой",
+    "TT_CATEGORY": "Отметки",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}trt <fromOldTag> <toNewTag>`",
+    "TAG_NOT_FOUND": "{{author}} У вас не нашлось `Tag` с названием: `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Все карты из `Tag` `{{fromTag}}` успешно перенесены в `{{toTag}}`"
 }

@@ -1,14 +1,14 @@
 {
-    "SG_DESCRIPTION": "Объедините два \"Glows\", чтобы получить \"Super Glow\"",
+    "SG_DESCRIPTION": "Совместите два \"Glows\", чтобы получить \"Super Glow\"",
     "SG_CATEGORY": "Косметика",
     "GLOW_CODES_MISSING": "{{author}} Правильное использование: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-    "GLOW_NOT_FOUND": "{{author}} Как минимум один из `Glow` кодов либо неправильный или не находится в вашем инвентаре",
-    "UNAVAILABLE_GLOW": "{{author}} По крайней мере один из указанных вами `Glows` пуст",
-    "NO_USE_SG": "{{author}} Вы не можете использовать `Super Glow` для создания ещё одного `Super Glow`!",
-    "SAME_GLOWS": "{{author}} Вы не можете использовать один и тот же `Glow` несколько раз для этого процесса",
-    "EMBED_TITLE": "SOFI: Супер Свечение",
-    "FORM_SG_CONFIRM": "Вы уверены что хотите соединить следующие предметы:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nв **{{superGlowName}}** `Super Glow`?",
-    "MISSING_RESINS": "{{author}} У вас недостаточно `Resin`, чтобы создать `Super Glow`",
-    "SUPER_GLOW_SUCCESSFUL": "{{author}} Успешно соединили ваши `Glows`\n",
+    "GLOW_NOT_FOUND": "{{author}} По крайней мере один из предоставленных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
+    "UNAVAILABLE_GLOW": "{{author}} По крайней мере один из предоставленных вами `Glows` разряжен",
+    "NO_USE_SG": "{{author}} Вы не можете использовать `Super Glow` для этого процесса",
+    "SAME_GLOWS": "{{author}} Вы не можете использовать один и тот же `Glow` несколько раз",
+    "EMBED_TITLE": "SOFI: СУПЕР ПОДСВЕТКА",
+    "FORM_SG_CONFIRM": "Вы уверены, что хотите объединить данные предметы:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nв **{{superGlowName}}** `Super Glow`?",
+    "MISSING_RESINS": "{{author}} У вас недостаточно `Resin` для этого процесса",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Ваши `Glows` были успешно объединены\n",
     "FORM_SG_FOOTER": "Оба \"Glows\" будут уничтожены в процессе!"
 }

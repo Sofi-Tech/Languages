@@ -1,11 +1,11 @@
 {
-    "TAG_DESCRIPTION": "Ставит \"Tags\" на ваши карты",
-    "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}t <КодКарты> <TagИмя>`",
-    "NO_TAGS_CREATED": "{{author}} У вас пока нет ни одного `Tags`. Вы можете создать их с помощью команды `{{prefix}}tc <TagИмя> <Эмодзи>`",
-    "TAG_NOT_FOUND": "{{author}} У вас нет ни одного `Tag` с именем `{{tag}}`",
+    "TAG_DESCRIPTION": "Отмечает ваши карты с помощью \"Tag\"",
+    "TAG_CATEGORY": "Отметки",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}t <CardCode> <TagName>`",
+    "NO_TAGS_CREATED": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новый",
+    "TAG_NOT_FOUND": "{{author}} У вас нет `Tag` с названием `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} У вас пока нет ни одной карты в коллекции",
     "INVALID_CARD_CODE": "{{author}} Предоставленный вами код карты недействителен или не является частью вашей коллекции",
-    "SUCCESSFUL_TAG": "{{author}} Успешно пометил **{{card}}** как `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты были успешно `Tagged`"
+    "SUCCESSFUL_TAG": "{{author}} **{{card}}** успешно отмечена как `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты успешно `Tagged`"
 }

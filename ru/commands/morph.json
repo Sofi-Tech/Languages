@@ -1,7 +1,7 @@
 {
     "MORPH_DESCRIPTION": "Изменяет внешний вид карты",
     "MORPH_CATEGORY": "Косметика",
-    "CANNOT_MORPH": "{{author}} Предоставленный код карты недействителен или не является частью вашей коллекции",
+    "CANNOT_MORPH": "{{author}} Предоставленный вами код карты недействителен или не является частью вашей коллекции",
     "NO_GIF_MORPHED": "{{author}} Вы не можете преобразовать `GIF` карту",
     "CONTINUE": "SOFI: ПРЕОБРАЗОВАНИЕ",
     "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}} за крутку?",
@@ -18,12 +18,13 @@
     "MORPH_CONFRIM": "{{author}} Успешно применено преобразование **{{morphName}}** к вашей карте",
     "REROLL": "\nВы не можете откатить больше преобразований",
     "UNDO_SUCCESSFUL": "\nВосстановлено предыдущее преобразование за **{{amount}}** {{emoji}}",
-    "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить {{article}} `{{eventType}}` преобразование на `{{eventCardType}}` или `3D` карты",
+    "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить {{article}} `{{eventType}}` преобразование к `{{eventCardType}}` или `3D` картам",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}m <CardCode> <MorphItem>`",
     "EMBED_TITLE": "SOFI: ПРЕОБРАЗОВАНИЕ (`{{cardCode}}`)",
     "ROLL_MORPH": "Преобразование будет утеряно через 2 минуты",
     "MNC_CARDS_CANNOT_MORPH": "Монохром 2023 3D карты не могут быть преобразованы",
-    "MNC_EMBED_TITLE": "SOFI: MORPH (`{{eventMorph}}`)",
+    "MNC_EMBED_TITLE": "SOFI: ПРЕОБРАЗОВАНИЕ (`{{eventMorph}}`)",
     "MNC_REROLL_COST": "Каждая крутка будет стоить 1 \"{{currencyName}}\"",
-    "NO_SPECIAL_REROLLED": "Особых преобразовании не откручено"
+    "NO_SPECIAL_REROLLED": "Особых преобразований не прокручено",
+    "NONE": "Нет"
 }

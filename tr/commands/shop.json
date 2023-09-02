@@ -1,16 +1,18 @@
 {
-  "DESCRIPTION": "Sofi'nin \"Shop\"undan \"Item\" satın alır",
-  "GUILD": "Lonca",
-  "GEMS": "Mücevher Satın Al!",
-  "SOFI_SHOP": "Sofi'nin Mağazası",
-
-  "DROP": "Hala bekleme süresindeyken daha fazla kart düşürmek için `Drops`lar kullanılabilir",
-  "GRAB": "Hala bekleme süresindeyken daha fazla kart kapmak için `Grabs` kullanılabilir",
-  "CUBE": "Kartlarınızı `3D` varyantlarına dönüştürmek için `Cubes` gerekir",
-  "TP": "Mini oyunlara erişmek ve çoklu ticaret gerçekleştirmek için bir `Trade Pass` gerekmektedir",
-  "GUILD_STONE": "Bir `Guild` oluşturmak için `Guild Stones` gereklidir",
-  "BG": "`Background`lar bir karakterin `3D` varyantlarına uygulanabilir",
-  "RECHARGE": "\"Glow\"unuzu yeniden doldurur",
-  "GEN_S": "\"Scratchers\", bir `Event` kartının `Gen`ini deşifre eder",
-  "STAT_RESET": "Bu `Item` bir kartın stat yükseltmelerini geri almak için kullanılabilir"
+    "DESCRIPTION": "Sofi'nin \"Shop\" undan \"Item\" satın alır",
+    "GUILD": "Lonca",
+    "GEMS": "Mücevher satın al",
+    "SOFI_SHOP": "Sofi'nin Mağazası",
+    "DROP": "> Halen bekleme süresindeyken daha fazla kart düşürmek için **Drop** eşyası kullanılabilir",
+    "GRAB": "> Halen bekleme süresindeyken daha fazla kart kapmak için **Grab** eşyası kullanılabilir",
+    "CUBE": "> `Cubes` kartlarınızı '3D' varyantlarına dönüştürmek için kullanılır",
+    "TP": "> Diğer oyuncularla ticaret yapmak için Trade Pass` gereklidir",
+    "GUILD_STONE": "> Bir `Guild` oluşturmak için `Guild Stones` gereklidir",
+    "BG": "> `Backgrounds` '3D' kartlara uygulanabilir",
+    "RECHARGE": "> 'Glow' unuzu doldurmak için `Recharge` eşyasını kullanın",
+    "GEN_S": "\"Scratchers\", bir `Event` kartının `Gen`ini deşifre eder",
+    "STAT_RESET": "> Bir kartın tahsis edilen istatistik yükseltmelerini sıfırlar",
+    "UTILITY": "Yarar",
+    "DONATE_SUPPORT": "Patreon üyesi olarak bize destek olun!",
+    "BUY_STAT_RESET": "**1) {{prefix}}buy sr` | <:elixir:979673719884636210> 2,000x `Elixir` ➜ 🌀 1x `Stat Reset`**"
 }

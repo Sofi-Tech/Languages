@@ -1,15 +1,15 @@
 {
-    "UB_DESCRIPTION": "Удаляет установленный \"Background\" с карточки",
+    "UB_DESCRIPTION": "Удаляет примененный \"Background\" с карты",
     "UB_CATEGORY": "Косметика",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
-    "NO_CHARACTER_FOUND": "{{author}} Не удалось найти эту карту",
-    "INVALID_CODE": "{{author}} Код этой карты недействителен или отсутствует в вашей коллекции",
-    "NO_GIF_CARD": "{{author}} `GIF` карты не могут устанавливать `Background` как эффект",
-    "NO_BACKGROUND": "{{author}} На этой карточке не установлен `Background`",
-    "EMBED_TITLE": "УБРАТЬ BACKGROUND",
-    "PROCESS_COST": "Удаление `Background` обойдется вам в 1 `Wist` и вернет этот `Background` в ваш `Inventory`",
-    "NOT_ENOUGH_WIST": "У вас недостаточно `Wists`, чтобы удалить `Background`",
-    "NO_BG_APPLIED": "{{author}} На этой карточке не установлен `Background`",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` был успешно удален и добавлен обратно в ваш `Inventory`",
-    "NO_OWNER": "{{author}} Эта карта больше не в вашей коллекции"
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <CardCode>`",
+    "NO_CHARACTER_FOUND": "{{author}} Персонаж на этой карте больше не доступен в Sofi или с ним нельзя взаимодействовать",
+    "INVALID_CODE": "{{author}} Предоставленный вами код карты недействителен или не является частью вашей коллекции",
+    "NO_GIF_CARD": "{{author}} Вы не можете удалить `Background` с `GIF` карты",
+    "NO_BACKGROUND": "{{author}} На данной карте нет примененного `Background`",
+    "EMBED_TITLE": "SOFI: УДАЛИТЬ `BACKGROUND`",
+    "PROCESS_COST": "Этот процесс будет стоить вам **1** `Wist` и `Background` будет возвращен в ваш инвентарь",
+    "NOT_ENOUGH_WIST": "{{author}} У вас недостаточно `{{currency}}`, чтобы удалить этот `Background`",
+    "NO_BG_APPLIED": "{{author}} На данной карте нет примененного `Background`",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} `Background` с данной карты был успешно возвращен в ваш инвентарь",
+    "NO_OWNER": "{{author}} Данная карта больше не является частью вашей коллекции"
 }

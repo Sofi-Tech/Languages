@@ -1,12 +1,12 @@
 {
-  "MG_DESCRIPTION": "\"Merges\" 4 уникальных \"Glows\", чтобы получить \"Resin\"",
-  "MG_CATEGORY": "Косметика",
-
-  "GLOW_CODES_MISSING": "{{author}} Правильное использование: `{{prefix}}mg <GlowКод1> <GlowКод2> <GlowКод3> <GlowКод4>`",
-  "GLOWS_UNAVAILABLE": "{{author}} Следующие `Glows` пусты: `{{unavailableGlows}}`",
-  "GLOW_CODES_UNIQUE": "{{author}} Для этого процесса вам нужно 4 уникальных `Glows`",
-
-  "GLOWS_NOT_FOUND": "{{author}} Cледующие `Glows` либо недействительны, либо не принадлежат вам: `{{glows}}`",
-  "EMBED_TITLE": "SOFI: ОБЪЕДИНИТЬ GLOW",
-  "MERGE_CONFIRMATION": "Вы собираетесь `Merge` следующие `Glows`:\n\n{{glows}}\n\nВы получите **1**x <:resin:938131736741691442>"
+    "MG_DESCRIPTION": "\"Merges\" 4 уникальных \"Glows\", чтобы получить \"Resin\"",
+    "MG_CATEGORY": "Косметика",
+    "GLOW_CODES_MISSING": "{{author}} Правильное использование: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} По крайней мере один из предоставленных вами `Glow` разряжен",
+    "GLOW_CODES_UNIQUE": "{{author}} Вы не можете использовать один `Glow` несколько раз",
+    "GLOWS_NOT_FOUND": "{{author}} По крайней мере один из предоставленных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
+    "EMBED_TITLE": "SOFI: ОБЪЕДИНИТЬ **`GLOWS`**",
+    "MERGE_CONFIRMATION": "Вы уверены, что хотите объединить данные `Glows`?\n\n{{glows}}\n\nВы получите <:resin:938131736741691442> **1x** `Resin` после завершения этого процесса",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} Как минимум один из предоставленных вами `Glows` больше не является частью вашего инвентаря",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} Ваши `Glows` были успешно объединены в <:resin:938131736741691442>"
 }
