@@ -1,5 +1,5 @@
 {
-    "INVALID_DC_MOVIES": "{{author}} Коды `Glow` всегда начинаются с символа **#**",
+    "INVALID_DC_MOVIES": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
     "RECHARGE_CONFIRMATION": "Вы собираетесь пополнить:\n\n**{{name}}**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "SUCCESSFUL_RECHARGE": "{{author}} Ваш **{{glowName}}** `Glow` успешно перезаряжен!",
     "RG_DESCRIPTION": "Перезаряжает пустой \"Glow\"",
@@ -8,7 +8,7 @@
     "NO_GLOWCDE": "{{author}} Правильное использование: `{{prefix}}rg <#GlowCode>`",
     "GLOW_NOT_FOUND": "{{author}} Предоставленный вами код `Glow` недействителен или не является частью вашего инвентаря",
     "GLOW_AVAILABLE": "{{author}} Этот `Glow` уже заряжен",
-    "EMBED_TITLE": "SOFI: GLOW ПЕРЕЗАРЕЖАЕТСЯ",
+    "EMBED_TITLE": "SOFI: ПЕРЕЗАРЯДКА `GLOW`",
     "NO_MONEY": "У вас недостаточно `Recharges`! Купите их и попробуйте ещё раз",
     "SUPER_RECHARGE_CONFIRMATION": "Вы собираетесь пополнить:\n\n**{{name}} (Super)**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}} **:recharge_sofi:"
 }
