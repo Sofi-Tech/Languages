@@ -1,6 +1,6 @@
 {
     "INVALID_DC_MOVIES": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
-    "RECHARGE_CONFIRMATION": "Вы собираетесь пополнить:\n\n**{{name}}**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "RECHARGE_CONFIRMATION": "Вы уверены, что хотите зарядить эту `Glow`?\n\nНазвание: **{{name}}**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "SUCCESSFUL_RECHARGE": "{{author}} Ваш **{{glowName}}** `Glow` успешно перезаряжен!",
     "RG_DESCRIPTION": "Перезаряжает пустой \"Glow\"",
     "RG_CATEGORY": "Косметика",
