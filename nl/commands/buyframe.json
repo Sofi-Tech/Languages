@@ -1,13 +1,12 @@
 {
-    "BF_DESCRIPTION": "Koopt een \"Frame\" van de \"Frame Shop\"",
-    "BF_CATEGORY": "Cosmetica",
-    "NO_FRAME_NAME": "Je bent vergeten om de naam van het frame op te geven",
-    "NO_FRAMECODE_FOUND": "{{author}} **Geen frame gevonden met de code `{{name}}`",
-    "FRAME_UNAVAILABLE": "Dat frame is niet beschikbaar. Gebruik `sfs` om het beschikbare frame te controleren",
-    "FRAME_NOT_PURCHASABLE": "{{author}} kan dat frame niet kopen",
-    "EMBED_TITLE": "TRANSACTION:",
-    "YOU_GET": "Jij Krijgt:",
-    "YOU_PAY": "Jij Betaalt:",
-    "NO_ENOUGH_AMOUNT": "Je hebt niet genoeg geld om het frame te kopen",
-    "FRAME_PURCHASED_BY": "Jouw frame `{{frame}}` is gekocht door `{{userId}}` {{buyCount}}"
+  "BF_DESCRIPTION": "Koopt een \"Frame\" van de \"Frame Shop\"",
+  "BF_CATEGORY": "Cosmetica",
+  "NO_FRAME_NAME": "Je bent vergeten om de naam van het frame op te geven",
+  "NO_FRAMECODE_FOUND": "{{author}} **Geen frame gevonden met de code `{{name}}`",
+  "FRAME_UNAVAILABLE": "Dat frame is niet beschikbaar. Gebruik `sfs` om het beschikbare frame te controleren",
+  "FRAME_NOT_PURCHASABLE": "{{author}} kan dat frame niet kopen",
+  "EMBED_TITLE": "TRANSACTION:",
+  "YOU_GET": "Jij Krijgt:",
+  "YOU_PAY": "Jij Betaalt:",
+  "NO_ENOUGH_AMOUNT": "Je hebt niet genoeg geld om het frame te kopen"
 }

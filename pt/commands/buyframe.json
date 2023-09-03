@@ -1,13 +1,12 @@
 {
-    "BF_DESCRIPTION": "Compra um \"Frame\" na \"Frame Shop\"",
-    "BF_CATEGORY": "Cosméticos",
-    "NO_FRAME_NAME": "{{author}} Por favor, forneça o nome do `Frame` que deseja comprar",
-    "NO_FRAMECODE_FOUND": "{{author}} Nenhum `Frame` encontrado com o código `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Esse `Frame` não está disponível. Use o comando `sfs` para checar a atual rotação de `Frames`",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Esse `Frame` é limitado e não pode mais ser comprado",
-    "EMBED_TITLE": "TRANSAÇÃO",
-    "YOU_GET": "Você recebe:",
-    "YOU_PAY": "Você paga:",
-    "NO_ENOUGH_AMOUNT": "Você não tem a quantidade suficiente de moedas para essa transação",
-    "FRAME_PURCHASED_BY": "Seu `Frame` **{{frame}}** foi comprado por `{{userId}}`| {{buyCount}}"
+  "BF_DESCRIPTION": "Compra um \"Frame\" na \"Frame Shop\"",
+  "BF_CATEGORY": "Cosméticos",
+  "NO_FRAME_NAME": "{{author}} Por favor, forneça o nome do `Frame` que deseja comprar",
+  "NO_FRAMECODE_FOUND": "{{author}} Nenhum `Frame` encontrado com o código `{{name}}`",
+  "FRAME_UNAVAILABLE": "{{author}} Esse `Frame` não está disponível. Use o comando `sfs` para checar a atual rotação de `Frames`",
+  "FRAME_NOT_PURCHASABLE": "{{author}} Esse `Frame` é limitado e não pode mais ser comprado",
+  "EMBED_TITLE": "TRANSAÇÃO",
+  "YOU_GET": "Você recebe:",
+  "YOU_PAY": "Você paga:",
+  "NO_ENOUGH_AMOUNT": "Você não tem a quantidade suficiente de moedas para essa transação"
 }
