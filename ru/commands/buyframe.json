@@ -11,5 +11,5 @@
     "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно `{{currency}}` для покупки",
     "FRAME_PURCHASED_BY": "Ваша **{{frame}}** `Frame` была куплена `{{userId}}`| {{buyCount}}",
     "TRANSACTION_SUCCESSFUL": "{{author}} Покупка **{{frameName}}** `Frame` успешно совершена",
-    "PROCESS_CANCELLED": "Процесс был отменен"
+    "PROCESS_CANCELLED": "Процесс отменен"
 }

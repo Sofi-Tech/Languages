@@ -1,10 +1,10 @@
 {
     "EXTRA_GRAB": "{{user}} Ваш дополнительный `Grab` использован. У вас осталось еще **{{remaining}}**",
-    "BATTLED_AND_WON": "{{winner}} сразил {{user}} и забрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_AND_WON": "{{winner}} отбился от {{user}} и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "WAIT_TO_CLAIM": "{{user}} Подождите **{{cooldown}}** чтобы взять другую карту",
-    "BATTLED_WON_PLURAL": "{{winner}} сразил **{{userCount}}** других игроков и взял карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_WON_PLURAL": "{{winner}} отбился от **{{userCount}}** других пользователей и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "EMBED_TITLE": "Капча Карта",
     "EMBED_FOOTER": "Заберите карту выше, написав капчу",
     "TOOK_THE_CARD": "{{user}} взял карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "CANNOT_BE_GRABBED": "{{user}} получил карту **{{characterName}}**"
+    "CANNOT_BE_GRABBED": "{{user}} подобрал карту **{{characterName}}**"
 }

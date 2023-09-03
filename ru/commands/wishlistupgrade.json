@@ -9,7 +9,7 @@
     "EMBED_GET_FIELD_VALUE": "```{{count}} дополнительных ячеек в списке желаемого```",
     "EMBED_MAXED_DESCRIPTION": "Вы уверены, что хотите открыть все ячейки в списке желаемого за **{{amount}}** `{{currency}}`?",
     "EMBED_MAXED_FIELD_VALUE": "```Максимальное количество ячеек (50 ячеек)```",
-    "CANCELLED": "Процесс был отменен",
+    "CANCELLED": "Процесс отменен",
     "PAY_ERROR": "{{author}} У вас недостаточно `{{currency}}` для этого действия",
     "EMBED_TITLE": "SOFI: РАСШИРЕНИЕ СПИСКА ЖЕЛАЕМОГО",
     "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Ваш список желаемого был успешно расширен"
