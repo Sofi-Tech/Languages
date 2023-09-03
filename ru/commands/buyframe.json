@@ -9,7 +9,7 @@
     "YOU_GET": "Вы приобретаете:",
     "YOU_PAY": "Вы платите:",
     "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно `{{currency}}` для покупки",
-    "FRAME_PURCHASED_BY": "Ваша **{{frame}}** `Frame` была куплена `{{userId}}`| {{buyCount}}",
+    "FRAME_PURCHASED_BY": "Вашу **{{frame}}** `Frame` купил `{{userId}}`| {{buyCount}}",
     "TRANSACTION_SUCCESSFUL": "{{author}} Покупка **{{frameName}}** `Frame` успешно совершена",
     "PROCESS_CANCELLED": "Процесс отменен"
 }

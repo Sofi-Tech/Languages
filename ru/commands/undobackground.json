@@ -10,6 +10,6 @@
     "PROCESS_COST": "Этот процесс будет стоить вам **1** `Wist` и `Background` будет возвращен в ваш инвентарь",
     "NOT_ENOUGH_WIST": "{{author}} У вас недостаточно `{{currency}}`, чтобы удалить этот `Background`",
     "NO_BG_APPLIED": "{{author}} На данной карте нет примененного `Background`",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} `Background` с данной карты был успешно возвращен в ваш инвентарь",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} `Background` с данной карты успешно возвращен в ваш инвентарь",
     "NO_OWNER": "{{author}} Данная карта больше не является частью вашей коллекции"
 }

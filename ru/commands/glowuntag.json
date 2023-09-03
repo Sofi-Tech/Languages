@@ -4,7 +4,7 @@
     "NO_GLOWS_FOUND": "{{author}} У вас пока нет никаких `Glows`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
     "INVALID_GLOWCODE": "{{author}} Данный код `Glow` недействителен или не является частью вашего инвентаря",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} `Tag` был успешно удален с **{{glow}}** `Glow`",
-    "GLOW_UNTAG_PLURAL": "{{author}} `Glow Tag` с **{{count}}** `Glows` был успешно удален",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} `Tag` успешно удален с **{{glow}}** `Glow`",
+    "GLOW_UNTAG_PLURAL": "{{author}} `Glow Tag` с **{{count}}** `Glows` успешно удален",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} Данные коды `Glow` недействительны или не являются частью вашего инвентаря:\n{{invalidCodeList}}"
 }

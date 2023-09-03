@@ -1,12 +1,14 @@
 {
     "DESCRIPTION": "\"Pulls\" из пула различных \"Items\", включая \"Charms\" и \"Fragments\" для анимированных карт",
-    "PULL_AMT": "{{author}} Введите количество `Pulls`, которое вы хотите выполнить. Это может быть **1** или **10**",
+    "PULL_AMT": "{{author}} Правильно использование: `{{prefix}}pull <1/10>`",
     "INFO_1": "Вам нужно 8 `Fragments`, чтобы создать `GIF` версию персонажа",
-    "INFO_2": "`GIF` версии персонажа имеют 100 уникальных `Gens`",
-    "INFO_3": "`Fragments` можно сжечь, чтобы получить `Charm`",
+    "INFO_2": "Здесь максимум **100** `GIF` версии на персонажа",
+    "INFO_3": "Сжигайте `Fragments`, чтобы получить `Charms`",
     "PULLS": "SOFI: ТЯГИ",
-    "PULL_COUNT": "Количество тяг: {{count}}",
-    "MISSING_CURR": "{{user}} У вас нет **{{amount}}** `{{currName}}`",
-    "AMOUNT": "Количество: {{amount}}",
-    "PULL_COUNT_WIST": "Количество вытягиваний: {{pullcount}}"
+    "PULL_COUNT": "Количество Тяг: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} У вас недостаточно `{{currName}}` для этого процесса",
+    "AMOUNT": "Вы получили: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "PULL_COUNT_WIST": "Количество вытягиваний: [ {{pullcount}} ]",
+    "RATES": "Шансы",
+    "PULL_CHANCES": "**__Вероятности__**"
 }

@@ -8,5 +8,5 @@
     "CORRECT_USAGE": "{{user}} Правильное использование: `{{prefix}} купить зф <Background-ID> <Amount>`",
     "INVALID_BG_AMOUNT": "{{author}} Вы не можете купить не негативное количество предмета",
     "INVALID_BG_ID": "{{author}} Приведенный вами `Background`-ID не корректен",
-    "INVALID_ITEM_PROVIDED": "{{user}} Указан недействительный предмет"
+    "INVALID_ITEM_PROVIDED": "{{user}} Указанный вами предмет недействителен"
 }
