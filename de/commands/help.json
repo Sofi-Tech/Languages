@@ -2,7 +2,7 @@
     "HELP_DESCRIPTION": "Zeigt eine Liste aller verfügbaren Befehle an",
     "HELP_SLASH_DESC": "Nenne den Befehl, über den du mehr erfahren möchtest",
     "HELP_CATEGORY": "Einstellungen",
-    "FILTER_EMBED_TITLE": "Filter der Sofi-Sammlung",
+    "FILTER_EMBED_TITLE": "SOFI: SAMMLUNGSFILTER",
     "USE_FILTER_ORDER": "**__Sortiermöglichkeiten:__**\n\n<:pdot:979009081325019156> **Sortierung** = [`o`/`order`] | **`sc order wl>NUMMER o=d`**\n<:pdot:979009081325019156> **Absteigend** = [`d`] | `sc order wl>NUMMER o=d`\n<:pdot:979009081325019156> **Aufsteigend** = [`a`] | `sc order wl>NUMMER o=a`",
     "FILTER_WISHLIST": "<:pdot:979009081325019156> **Wunschliste**= [`w`/`wl`/`wishlist`] | **`sc wl>=WUNSCHLISTE`**",
     "FILTER_PAGE": "<:pdot:979009081325019156> **Seite** = [`p`] | **`sc p=NUMMER`**",
@@ -43,12 +43,12 @@
     "GUIDE_BUTTON_LABEL": "Anleitung!",
     "EMBED_TITLE": "SOFI: HILFE MENÜ",
     "EMBED_FOOTER": "Angefragt von {{username}}",
-    "COMMNAD_NOT_FOUND": "{{author}} | Es gibt keinen Befehl mit dem Namen: `{{command}}`! Meintest du `{{commandName}}`?",
+    "COMMNAD_NOT_FOUND": "{{author}} | Es gibt keinen Befehl mit dem Namen: `{{command}}`! Meintest du vielleicht `{{commandName}}`?",
     "USAGE_EMBED_TITLE": "SOFI: HILFE ({{command}})",
     "ALIASES": "Aliase:",
     "COOLDOWN": "Abklingzeit:",
     "DESCRIPTION": "Beschreibung:",
     "USAGE": "Verwendung:",
-    "NO_ALIASES": "Keine Aliase",
+    "NO_ALIASES": "Keine",
     "NOT_PROVIDED": "Nicht angegeben"
 }

@@ -33,5 +33,6 @@
     "USER_NOT_FOUND": "{{author}} Benutzer konnte nicht gefunden werden",
     "TAG_NO_CARDS_FOUND": "{{author}} Es konnten keine Karten mit dem `Tag`: `{{arg}}` gefunden werden",
     "EMBED_FOOTER": "Seite: {{page}}/{{totalPages}} | Karten insgesamt: {{count}} {{sortedBy}}",
-    "MASSTAG_WRONG_TAG": "{{author}} Es wurde kein `Tag` mit dem Namen: `{{arg}}` gefunden"
+    "MASSTAG_WRONG_TAG": "{{author}} Es wurde kein `Tag` mit dem Namen: `{{arg}}` gefunden",
+    "NO_RESULTS_OTHERS": "{{author}} Dieser Benutzer hat keine Karten in seiner Sammlung"
 }

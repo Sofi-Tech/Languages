@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "आपके पत्ते पर Frame लगाता है",
+    "UF_DESCRIPTION": "पत्ते पर Frame लगाता है।",
     "UF_CATEGORY": "COSMETICS",
     "UF_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "CANNOT_APPLY": "{{author}} आप `3D` पत्ते पर `Frame` नहीं लगा सकते है",
-    "NO_GIF": "{{author}} आप `GIF` पत्ते पर `Frame` नहीं लगा सकते",
-    "NO_FRAMES_FOUND": "{{author}} यह `Frame` कॉड अमान्य है या आपकी `Inventory` में नहीं है",
-    "EMBED_TITLE": "SOFI: FRAME लगाए",
+    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "CANNOT_APPLY": "{{author}} आप `3D` पत्ते पर `Frame` नहीं लगा सकते है।",
+    "NO_GIF": "{{author}} आप `GIF` पत्ते पर `Frame` नहीं लगा सकते है।",
+    "NO_FRAMES_FOUND": "{{author}} आपके द्वारा प्रदान किया गया `Frame Code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "EMBED_TITLE": "SOFI: APPLY `FRAME`",
     "UF_CONFIRMATION": "क्या आप वाकई में इस पत्ते पर **{{frameName}}** `Frame` लगाना चाहते है?",
-    "EMBED_FOOTER": "इस प्रक्रिया की पुष्टि करने से मौजूदा लगी हुई Frame नष्ट हो जाएगी",
-    "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
-    "FRAME_NOT_FOUND": "{{author}} आपके पास **{{frameName}}** `Frame` नहीं है",
-    "UF_SUCCESSFUL": "{{author}} आपके पत्ते पर सफलतापूर्वक **{{frameName}}** `Frame`लगाई गई"
+    "EMBED_FOOTER": "इस प्रक्रिया की पुष्टि करने से मौजूदा लगी हुई Frame नष्ट हो जाएगी।",
+    "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है।",
+    "FRAME_NOT_FOUND": "{{author}} आपके पास **{{frameName}}** `Frame` नहीं है।",
+    "UF_SUCCESSFUL": "{{author}} आपके पत्ते पर सफलतापूर्वक **{{frameName}}** `Frame`लगाई गई।"
 }
