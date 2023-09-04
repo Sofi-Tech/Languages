@@ -6,5 +6,7 @@
     "EMBED_TITLE": "SOFI: `TAG` LIST ({{username}})",
     "SOFI_FACT": "Nota: Crear un \"Tag\" con el nombre \"lock\" y el emote \"🔒\" te impedirá quemar o intercambiar cartas con ese \"Tag\"\nEjemplo: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Total: {{count}}",
-    "NO_TAGS_SELF": "{{author}} Aún no tienes ningún `Tag`. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno"
+    "NO_TAGS_SELF": "{{author}} Aún no tienes ningún `Tag`. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",
+    "CARD_other": "{{count}} cartas",
+    "CARD_one": "{{count}} carta"
 }
