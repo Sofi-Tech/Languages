@@ -1,13 +1,14 @@
 {
-    "REGISTER_DESCRIPTION": "Verifies your account",
-    "REGISTER_CATEGORY": "Settings",
-    "ALREADY_REGISTERED": "{{author}} You are already registered!",
-    "AGREE_BUTTON_LABEL": "Agree!",
-    "DISAGREE_BUTTON_LABEL": "Disagree!",
-    "AGREE_TOS": "By agreeing to the above ruleset you accept Sofi's [Terms of Service](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)",
-    "VISIT_SUPPORT": "Visit our [Support Server](https://discord.gg/XPsQKJjeD7 \"Sofi Cafe\") for more information",
-    "EMBED_AUTHOR": "SOFI: REGISTER",
-    "EMBED_FOOTER": "{{count}} users have been verified so far",
-    "VERIFY_BUTTON_LABEL": "Verify",
-    "SUPPORT_BUTTON_LABEL": "Support Server"
+  "REGISTER_DESCRIPTION": "Verifies your account",
+  "REGISTER_CATEGORY": "Settings",
+  "ALREADY_REGISTERED": "{{author}} You are already registered!",
+  "AGREE_BUTTON_LABEL": "Agree!",
+  "DISAGREE_BUTTON_LABEL": "Disagree!",
+  "AGREE_TOS": "By agreeing to the above ruleset you accept Sofi's [Terms of Service](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)",
+  "VISIT_SUPPORT": "Visit our [Support Server](https://discord.gg/XPsQKJjeD7 \"Sofi Cafe\") for more information",
+  "EMBED_AUTHOR": "SOFI: REGISTER",
+  "EMBED_FOOTER": "{{count}} users have been verified so far",
+  "VERIFY_BUTTON_LABEL": "Verify",
+  "SUPPORT_BUTTON_LABEL": "Support Server",
+  "DM_MESSAGE": "## __Sofi : Useful Information__ \n\n- Join the Support Server <:sofi_cheers:1008533423960367134> \nhttps://discord.gg/sofi \n\n- Checkout Sofi's Guide to learn more <:sofi_smart:1008533460505350256> \nhttps://guide.sofi.gg/ \n\n- Vote for Sofi on Top.gg to get wists <a:wist_spin:973031140581580820> \n<https://top.gg/bot/853629533855809596/vote>"
 }
