@@ -1,6 +1,6 @@
 {
     "NO_ACTIVE_EVENT": "{{author}} В настоящее время нет активных событий",
-    "PURCHASE_SUCCESSFUL": "Покупка успешно совершена",
+    "PURCHASE_SUCCESSFUL": "Покупка была успешна",
     "EV_CATEGORY": "Карты",
     "BURN_TASK": "Сжечь {{amount}} карт",
     "DROP_TASK": "Бросить {{amount}} раз",
@@ -39,7 +39,7 @@
     "INVALID_AMOUNT_PROVIDED": "Предоставлено недопустимое количество",
     "CHEST_MODAL_LABEL": "Количество {{item}} сундуков",
     "CHEST_MODAL_PLACEHOLDER": "Например: 2",
-    "ITEM_MODAL_LABEL": "Введите количество",
+    "ITEM_MODAL_LABEL": "Введите сумму",
     "ITEM_MODAL_PLACEHOLDER": "Например: 10",
     "AMOUNT_BETWEEN": "Количество должно быть между 1 и 100",
     "EV_DESCRIPTION": "Команда события отображает всю информацию о событии",

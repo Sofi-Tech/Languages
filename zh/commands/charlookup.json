@@ -15,7 +15,7 @@
     "BURNED": "烧毁的",
     "VERSIONS": "版本",
     "TOP_FANS": "顶级粉丝",
-    "NO_FANS_FOUND": "找不到粉丝",
+    "NO_FANS_FOUND": "\n找不到粉丝",
     "CARD_ID": "卡片 ID",
     "ENTER_AMOUNT": "输入金额",
     "MODAL_TITLE": "输入金额和货币名称",
@@ -28,5 +28,6 @@
     "NO_3D_OWNER_FOUND": "没有找到 3D 属有者",
     "NO_GIF_OWNER_FOUND": "没有找到 GIF 属有者",
     "NOT_AVAILABLE": "`无效系列`",
-    "MORE_INFO_LABEL": "选择一个选项"
+    "MORE_INFO_LABEL": "选择一个选项",
+    "EXAMPLE_INFO": "正确格式无效：<金额> <货币>"
 }
