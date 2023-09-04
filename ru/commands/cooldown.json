@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Отображает время восстановления для этих действий:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Нажмите на значок колокольчика, чтобы получать напоминания в личных сообщениях для \"Drop\", \"Vote\" и \"Daily\"!",
     "JOIN_SUPPORT_SERVER": "[Присоединяйтесь к серверу поддержки для получения помощи!](https://discord.gg/sofi)",
-    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Бросить `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Подобрать `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Стук `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
