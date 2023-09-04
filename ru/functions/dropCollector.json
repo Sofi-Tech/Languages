@@ -2,7 +2,7 @@
     "GRAB_CARD": "{{winner}} отбился от {{user}} и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_EVENT_ITEM": "{{winner}} отбился от **{{userCount}}** других пользователей и получил **{{amount}}** `{{eventItem}}`",
     "EXTRA_GRAB": "{{user}} Ваш дополнительный `Grab` использован. У вас осталось еще **{{remaining}}**",
-    "GRAB_COOLDOWN": "{{user}} Вам осталось подождать **{{cooldown}}**, чтобы взять другую карту",
+    "GRAB_COOLDOWN": "{{user}} Подождите **{{cooldown}}**, чтобы подобрать другую карту",
     "EVENT_GRAB": "{{user}} получил {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
     "TOOK_CARD": "{{user}} Получена карта **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "Эти карты больше не могут быть подобраны",

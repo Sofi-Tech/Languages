@@ -24,5 +24,6 @@
     "ALL_TAG_SUCCESS": "{{author}}所有{{taglength}}卡已被成功标记",
     "PLEASE_WAIT": "请稍候<a:ping:876612181725167687>",
     "NO_TAG_FOUND": "您还没有任何`Tags`。您可以用\"{{prefix}}tc <TagName> <Emoji>\"命令创建它们",
-    "USER_NOT_FOUND": "{{author}} 无法找到该用户"
+    "USER_NOT_FOUND": "{{author}} 无法找到该用户",
+    "NOT_AVAILABLE": "`无效系列`"
 }

@@ -11,7 +11,7 @@
     "GUESS_THE_WORD": "{{participants}}\n\n**Descifra la palabra: `{{scrambledWord}}`**",
     "CORRECT_GUESS": "{{winner}} acertó la palabra y ganó **{{jackpot}}** {{currencyEmoji}}",
     "NO_TP_2": "{{author}} Necesitas un `Trade Pass` activo para participar!",
-    "INSUFFICIENT_CURRENCY": "{{author}} No tienes suficiente `{{currency}}` para participar en este juego",
+    "INSUFFICIENT_CURRENCY": "{{author}} No tienes suficientes `{{currency}}` para participar en este juego",
     "MORE": "más...",
     "INFO_4": "**Participantes [{{totalPlayers}}]**"
 }

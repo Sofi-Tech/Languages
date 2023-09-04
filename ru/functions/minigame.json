@@ -1,6 +1,6 @@
 {
     "EXTRA_GRAB": "{{user}} Ваш дополнительный `Grab` использован. У вас осталось еще **{{remaining}}**",
-    "GRAB_COOLDOWN": "{{user}} Вам осталось подождать **{{cooldown}}**, чтобы взять другую карту",
+    "GRAB_COOLDOWN": "{{user}} Подождите **{{cooldown}}**, чтобы подобрать другую карту",
     "CLAIMED_CARD": "{{user}} выиграл карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "EMBED_TITLE": "SOFI: МИНИИГРА"
 }

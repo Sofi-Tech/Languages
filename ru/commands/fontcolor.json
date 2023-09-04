@@ -8,7 +8,7 @@
     "WRONG_GLOWCODE": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
     "CANNOT_FIND_GLOW": "{{author}} Предоставленный вами код `Glow` недействителен или не является частью вашего инвентаря",
     "EMBED_TITLE": "SOFI: ЦВЕТ ШРИФТА{{reset}}",
-    "COLOR_NAME": "`Glow`: **{{name}}**",
+    "COLOR_NAME": "`Свечение`: **{{name}}**",
     "COLOR_CODE": "Код: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} У этого `Glow` закончились заряды",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Цвет шрифта карты успешно изменен",

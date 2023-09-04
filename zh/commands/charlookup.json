@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "- 您可以使用 'scl' 来查找具体角色。在此页面中，您可以查到角色的统计数，他的 Version/3D/GIF 版本，还有他的 Gen/Fan 排名单，也可查到他的 “Card ID”。\n- 提交新 “Version” 的图案时会需要 “Card ID”",
     "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "没有找到任何角色，请注意输入 lookup 的大小写",
-    "EMBED_TITLE": "__角色查找__",
-    "NORMAL_LABEL": "Version 版本",
+    "CHAR_NF_SENSITIVE": "{{author}}没有找到任何角色，` {{arg}}` 请注意输入 lookup 的大小写!",
+    "EMBED_TITLE": "SOFI:__角色查找__(`{{category}}`)",
+    "NORMAL_LABEL": "版本",
     "FAN_PTS_LABEL": "添加粉丝积分",
-    "3D_LABEL": "3D 版本",
+    "3D_LABEL": "3D",
     "GIF_LABEL": "GIF 版本",
     "SERIES": "系列：",
     "NAME": "名称：",
@@ -26,5 +26,7 @@
     "GEN_CLAIMED": "已认领的 Gens：{{count}}/100",
     "NO_OWNER_FOUND": "没有找到 Version 属有者",
     "NO_3D_OWNER_FOUND": "没有找到 3D 属有者",
-    "NO_GIF_OWNER_FOUND": "没有找到 GIF 属有者"
+    "NO_GIF_OWNER_FOUND": "没有找到 GIF 属有者",
+    "NOT_AVAILABLE": "`无效系列`",
+    "MORE_INFO_LABEL": "选择一个选项"
 }

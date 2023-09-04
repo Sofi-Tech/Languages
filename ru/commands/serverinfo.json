@@ -1,3 +1,14 @@
 {
-    "SI_TOTAL_GRABS": "Всего подобрано"
+    "SI_TOTAL_GRABS": "Всего подобрано",
+    "SI_TOP_SERVERS": "**Топ Серверов** | Сброс через: **{{countdown}}**",
+    "SI_DESCRIPTION": "Показывает статистику сервера",
+    "SI_CATEGORY": "Настройки",
+    "EMBED_FOOTER": "Префикс Сервера: \"{{prefix}}\"",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+    "SI_TOTAL_BURNT": "Всего Сожжено",
+    "SI_TOTAL_GIVEN": "Всего Подарено",
+    "SI_TOTAL_TRADES": "Всего Обменов",
+    "SI_NAME_UNAVAILABLE": "Имя Недоступно",
+    "SI_SPAWN_CHANNEL": "Канал Появления",
+    "SI_TOTAL_DROPS": "Всего Бросков"
 }
