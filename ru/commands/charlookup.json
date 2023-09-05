@@ -3,7 +3,7 @@
     "CHAR_NOT_FOUND": "{{author}} Не удалось найти персонажа с именем: `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Не удалось найти персонажа с именем: `{{arg}}`\n\n```fix\nПримечание: Использование `-f` делает поиск более точным!\n```",
     "EMBED_TITLE": "SOFI: ОБЗОР ПЕРСОНАЖА (`{{category}}`)",
-    "NORMAL_LABEL": "Версий",
+    "NORMAL_LABEL": "Версии",
     "FAN_PTS_LABEL": "Добавить Очки Фаната",
     "3D_LABEL": "3D",
     "GIF_LABEL": "GIF",
@@ -13,8 +13,8 @@
     "WISHLISTED": "В списке желаемого",
     "GENERATED": "Сгенерировано",
     "BURNED": "Сожжено",
-    "VERSIONS": "Версий",
-    "TOP_FANS": "Таблица лидеров среди Фанатов",
+    "VERSIONS": "Версии",
+    "TOP_FANS": "Таблица лидеров среди фанатов",
     "NO_FANS_FOUND": "\nУ данного персонажа пока нет фанатов!",
     "CARD_ID": "Идентификатор карты:",
     "ENTER_AMOUNT": "Введите количество",
@@ -28,8 +28,8 @@
     "NO_3D_OWNER_FOUND": "Не найдено владельцев `3D` версий данного персонажа",
     "NO_GIF_OWNER_FOUND": "Не найдено владельцев `GIF` версий данного персонажа",
     "NOT_AVAILABLE": "`Invalid Series`",
-    "MORE_INFO_LABEL": "Выберите действие",
+    "MORE_INFO_LABEL": "Выберите вариант",
     "FAN_PTS_ADDED": "{{author}} **{{count}}** очко фаната успешно добавлено для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_PLURAL": "{{author}} **{{count}}** очков фаната успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "EXAMPLE_INFO": "Правильное использование: <Количество> <Валюта>"
+    "FAN_PTS_ADDED_PLURAL": "{{author}} **{{count}}** очков фаната успешно добавлено для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "EXAMPLE_INFO": "Правильное использование: <Amount> <Currency>"
 }
