@@ -1,19 +1,19 @@
 {
-    "DESCRIPTION": "Mostra la tua desiderati",
+    "DESCRIPTION": "Mostra la tua wishlist",
     "CATEGORY": "Wishlist",
     "USER_NOT_FOUND": "{{author}} Non è riuscito a trovare quell'utente",
-    "WISHLIST_PRIVATE": "{{author}} Quell'utente ha impostato la sua desiderati privata",
-    "WISHLIST_EMPTY": "{{author}} Desiderati di quell'utente è vuota",
+    "WISHLIST_PRIVATE": "{{author}} Quell'utente ha impostato la sua wishlist privata",
+    "WISHLIST_EMPTY": "{{author}} Wishlist di quell'utente è vuota",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Pagina: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Copia Codici",
     "COPY_CODES_MENU_LABEL": "Tutti i Codici",
-    "COPY_CODES_MENU_DESCRIPTION": "Copia tutti i Codici",
+    "COPY_CODES_MENU_DESCRIPTION": "Copia tutti i codici",
     "BACK_MENU_LABEL": "Torna indietro",
     "CARD_MENU_DESCRIPTION": "Copia i codici di {{name}}",
     "COPY_CODES_MENU_PLACEHOLDER": "Seleziona un'Opzione",
     "CODES_COPIED": "← Copiato",
     "ALL_CARD_CODES": "A causa del grande volume di codici, il messaggio doveva essere convertito in un file `.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
-    "WISHLIST_EMPTY_SELF": "{{author}} La tua desiderati è vuota"
+    "WISHLIST_EMPTY_SELF": "{{author}} La tua wishlist è vuota"
 }

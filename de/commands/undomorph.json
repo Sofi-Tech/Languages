@@ -5,11 +5,11 @@
     "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "NO_CHARACTER": "{{author}} Der Charakter auf dieser Karte ist auf Sofi nicht mehr verfügbar und es kann nicht mit ihm interagiert werden",
     "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer `GIF` Karte entfernen",
-    "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen `Morph`",
-    "EMBED_TITLE": "ENTFERNE MORPH",
+    "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen Morph",
+    "EMBED_TITLE": "SOFI: ENTFERNE MORPH",
     "UM_CONFIRMATION": "Bist du sicher, dass du den `Morph` dieser Karte entfernen möchtest?\nDieser Vorgang kostet **100** `Silver`",
     "NO_OWNER": "{{author}} Die Karte befindet sich nicht mehr deiner Sammlung",
-    "SOMETHING_WENT_WRONG": "{{author}} Da hat etwas nicht geklappt, versuche es erneut",
+    "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schief gelaufen, bitte versuche es erneut",
     "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `{{currency}}` für diesen Vorgang",
-    "UM_SUCCESSFUL": "Der `Morph` wurde erfolgreich entfernt"
+    "UM_SUCCESSFUL": "{{author}} Der Morph dieser Karte wurde erfolgreich entfernt"
 }

@@ -2,7 +2,7 @@
     "DESCRIPTION": "Покупает \"Wists\" на рынке в обмен на \"Gems\"",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} Указанный вами идентификатор объявления недействителен",
-    "CANNOT_PURCHASE": "{{user}} Вы не можете взаимодействовать с этим объявлением",
+    "CANNOT_PURCHASE": "{{user}} Вы не можете взаимодействовать с данным объявлением",
     "CANNOT_SELF": "{{user}} Вы не можете взаимодействовать со своим объявлением",
     "WIST_NOT_EXCEED": "{{author}} В объявлении осталось только **{{amount}}** `{{currency}}` для покупки",
     "PRODUCT": "Вы получаете:",

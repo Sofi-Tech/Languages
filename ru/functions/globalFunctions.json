@@ -1,5 +1,5 @@
 {
-    "NOT_ENOUGH_AMOUNT": "{{author}}У вас недостаточно `{{item}}` чтобы совершить покупку",
+    "NOT_ENOUGH_AMOUNT": "{{author}} У вас недостаточно `{{item}}` для совершения покупки",
     "YOU_PAY": "Вы заплатите: {{additionalInfo}}",
     "YOU_GET": "Вы получите: {{additionalInfo}}",
     "GUILD_FOUNDER": "Основатель",
@@ -11,7 +11,7 @@
     "SOMETHING_WENT_WRONG": "{{author}} Что-то пошло не так! Любой вычтенный предмет добавлен обратно в ваш инвентарь",
     "GS_EMBED_FOOTER": "Срок действия этой сделки истекает через {{date}}",
     "SWAP_EMBED_FOOTER": "Этот процесс поменяет коды между обеими картами",
-    "BUY_EMBED_TITLE": "SOFI: ТРАНКЗАЦИЯ",
+    "BUY_EMBED_TITLE": "SOFI: ПОКУПКА",
     "SWAP_EMBED_TITLE": "SOFI: ЗАМЕНА КОДА",
     "CODE_ONE": "<:linedown:868888105611046942> Код 1",
     "CODE_TWO": "<:linedown:868888105611046942> Код 2"

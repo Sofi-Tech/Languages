@@ -3,6 +3,6 @@
     "COLLECTION_PVT": "{{author}} Die `Fragments` dieses Benutzers sind privat",
     "CANNOT_FIND_FRAGS": "{{user}} Der Benutzer hat keine `Fragments`",
     "FRAGS_COUNT": "Insgesamte `Fragments`: {{totalCount}}",
-    "FRAG_LIST": "{{userName}}'s `Fragments`",
+    "FRAG_LIST": "SOFI:`Fragmente` ({{userName}})",
     "CANNOT_FIND_SELF": "{{user}} Du hast noch keine `Fragments`"
 }
