@@ -1,16 +1,16 @@
 {
-    "FC_DESCRIPTION": "Изменяет цвет шрифта карты, применяя \"Glow\" к ней",
+    "FC_DESCRIPTION": "Изменяет цвет текста на карте, применяя \"Glow\" к ней",
     "FC_CATEGORY": "Косметика",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "NOT_CARD_OWNER": "{{author}} Предоставленный вами код карты недействителен или не является частью вашей коллекции",
-    "3D_ERROR": "{{author}} Вы не можете изменить цвет шрифта у `3D` версий карт",
+    "NOT_CARD_OWNER": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
+    "3D_ERROR": "{{author}} Вы не можете изменить цвет текста на `3D` версиях карт",
     "PROVIDE_GLOWCODE": "{{author}} Правильное использование: `{{prefix}}fc <CardCode> <GlowCode>`",
     "WRONG_GLOWCODE": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
-    "CANNOT_FIND_GLOW": "{{author}} Предоставленный вами код `Glow` недействителен или не является частью вашего инвентаря",
-    "EMBED_TITLE": "SOFI: ЦВЕТ ШРИФТА{{reset}}",
-    "COLOR_NAME": "`Свечение`: **{{name}}**",
+    "CANNOT_FIND_GLOW": "{{author}} Указанный вами код `Glow` недействителен или не является частью вашего инвентаря",
+    "EMBED_TITLE": "SOFI: ЦВЕТ ТЕКСТА{{reset}}",
+    "COLOR_NAME": "`Glow`: **{{name}}**",
     "COLOR_CODE": "Код: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} У этого `Glow` закончились заряды",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Цвет шрифта карты успешно изменен",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Цвет текста на карте успешно изменен",
     "PROCESS_CANCELLED": "Процесс отменен"
 }

@@ -19,7 +19,7 @@
     "EDIT_IMAGE_SUCCESSFUL": "{{author}} Ваше предложение для `Frame` успешно отправлено",
     "EDIT_FRAME_IMG_CONFIRM": "Вы уверены, что хотите отправить это предложение по редактированию `Frame`?",
     "EDIT_DESC_LONG": "{{author}} Максимальная длина описания не должна превышать **400** символов",
-    "EDIT_DESC_CONFIRM": "Вы уверены, что хотите установить данное описание для вашей `Frame`?\n\n```fix\n{{newDescription}}\n```",
+    "EDIT_DESC_CONFIRM": "Вы уверены, что хотите установить следующее описание для вашей `Frame`?\n\n```fix\n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "SOFI: МАГАЗИН `FRAME` (Refreshes <t:{{time}}:R>)",
     "EMBED_DFS_FOOTER": "Используйте команду \"{{prefix}}bf <FrameName/Code>\" для покупки \"Frame\"",
     "DFS_MENU_PLACEHOLDER": "Выберите категорию",

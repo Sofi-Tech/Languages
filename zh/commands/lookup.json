@@ -12,7 +12,7 @@
     "GIF_DESC": "展示卡片的 GIF 版本",
     "SERIES": "系列：",
     "NAME": "名称：",
-    "CATEGORY": "类别",
+    "CATEGORY": "类别:",
     "WISHLISTED": "心愿单",
     "VERSIONS": "版本",
     "MULTI": "Multi",
@@ -20,5 +20,5 @@
     "EVENT": "Event",
     "UPCOMING_EVENT": "即将开始的Event",
     "TOP_OWNER": "属有者排名",
-    "NO_OWNER_FOUND": "没有找到 Version 属有者"
+    "NO_OWNER_FOUND": "没有找到拥有`2D` Version 属有者"
 }

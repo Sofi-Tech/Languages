@@ -1,9 +1,12 @@
 {
     "TL_DESCRIPTION": "显示标签列表",
     "TL_CATEGORY": "标签",
-    "NO_USER": "用户不存在。",
+    "NO_USER": "{{author}}用户不存在",
     "NO_TAGS": "{{author}} 没有找到标签",
     "EMBED_TITLE": "标签列表: {{username}}",
-    "SOFI_FACT": "Sofi事实：用stclock🔒创建标签\n锁定的卡片无法烧毁、转让或批量烧毁。",
-    "EMBED_FOOTER": "标签数量: {{count}}"
+    "SOFI_FACT": "Sofi事实：用stclock🔒创建标签\n锁定的卡片无法烧毁、转让或批量烧毁{{prefix}}",
+    "EMBED_FOOTER": "标签数量: {{count}}",
+    "CARD_one": "{{count}}卡片",
+    "CARD_other": "{{count}}卡片",
+    "NO_TAGS_SELF": "{{author}} 您还没有任何“标签”。使用命令 `{{prefix}}tc <TagName> <Emoji>` 创建一个"
 }

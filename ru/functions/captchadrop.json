@@ -5,6 +5,6 @@
     "BATTLED_WON_PLURAL": "{{winner}} отбился от **{{userCount}}** других пользователей и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "EMBED_TITLE": "Капча Карта",
     "EMBED_FOOTER": "Подберите карту выше, написав капчу",
-    "TOOK_THE_CARD": "{{user}} взял карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}} подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "CANNOT_BE_GRABBED": "{{user}} подобрал карту **{{characterName}}**"
 }

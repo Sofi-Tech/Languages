@@ -1,1 +1,25 @@
-{}
+{
+    "MAXIMUM_NAME_LENGTH": "{{author}} 您的“Frame”名称长度只能是 **20** 个字符长",
+    "SUBMIT_FRAME_CONFIRMATION": "您想以**3000**“银币”的价格提交此“框架”吗？",
+    "SF_LINK_INFO": "<:_:979009081325019156> 提交的图片必须使用官方 Discord 链接，例如 `cdn.discordapp.com` 或 `media.discordapp.net`",
+    "SF_ATTACHMENT_INFO": "<:_:979009081325019156>您可以下载测试[框架](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [图片](https://cdn.discordapp.com/attachments/870354581115256852/95702591213260 8010/ ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg）以更好地了解我们的要求",
+    "SF_PNG_ONLY": "{{author}} 提交的链接必须是“PNG”文件",
+    "SF_DESCRIPTION": "提交“框架”",
+    "SUBMIT_FRAME_SUCCESSFUL": "{{author}} `Frame` 已成功提交",
+    "SF_CATEGORY": "设置",
+    "SF_CORRECT_USAGE": "{{author}} 正确用法：`{{prefix}}sf <ImageURL> <FrameName>`",
+    "SF_DISCORD_LINK": "{{author}} 提交的图片必须使用官方 Discord 链接，例如 `cdn.discordapp.com` 或 `media.discordapp.net`",
+    "GUIDELINES_EMBED_TITLE": "SOFI：“框架”提交",
+    "SF_DIMENSION_INFO": "<:_:979009081325019156> 提交图像的尺寸**必须**为`402x603`",
+    "SF_FILETYPE_INFO": "<:_:979009081325019156> 提交的图像**必须**是`PNG`文件以保持其透明度",
+    "SF_VISIBILITY_INFO": "<:_:979009081325019156> 提交的图像**必须**适合卡片边框，并具有用于显示文本的适当可见区域",
+    "SF_STAFF_INFO": "\n⚠️请勿ping任何工作人员以试图加快您提交内容的审核速度！\n",
+    "SF_EMBED_FOOTER": "您提交的内容：{{userStats}}/{{submitted}} |提交总数：{{globalStats}}/{{allSubmit}}",
+    "SF_VALID_DIMENSION": "{{author}} 提交的图片尺寸无效！ `297x465`",
+    "SF_EMBED_TITLE": "SOFI：框架提交（{{name}}）",
+    "SUBMIT_FRAME_DENY": "{{author}} 您没有足够的“银”来完成此过程",
+    "SF_REPLICA_INFO": "<:_:979009081325019156> 提交的图片**必须**是您自己制作的，并且不是现有作品的复制品",
+    "SF_MAXIMUM_INFO": ":notepad_spiral: __附加信息__:\n",
+    "SF_COST_INFO": "<:_:979009081325019156> 提交图像将花费 **3,000** `银币`",
+    "SF_ROTATION_INFO": "<:_:979009081325019156> 批准的“框架”将在我们的“框架商店”轮换中提供，最大库存为 **100**"
+}

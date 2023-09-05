@@ -1,7 +1,7 @@
 {
-  "TT_DESCRIPTION": "将卡从一个标签转移到另一个标签",
-  "TT_CATEGORY": "标签",
-  "WRONG_USAGE": "正确用法：`{{prefix}}trt <fromTagName> <toTagName>`",
-  "TAG_NOT_FOUND": "找不到名称为：`{{tag}}`的标签",
-  "TRANSFER_TAG_SUCCESSFUL": "已成功将所有卡从`{{fromTag}}`转移到`${toTag}`"
+    "TT_DESCRIPTION": "将卡从一个标签转移到另一个标签",
+    "TT_CATEGORY": "标签",
+    "WRONG_USAGE": "{{author}}正确用法：`{{prefix}}trt <fromTagName> <toTagName>`",
+    "TAG_NOT_FOUND": "{{author}}找不到名称为：`{{tag}}`的标签",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}}已成功将所有卡从`{{fromTag}}`转移到`${{toTag}}`"
 }

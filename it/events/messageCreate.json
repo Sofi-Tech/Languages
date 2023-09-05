@@ -1,6 +1,6 @@
 {
     "LOTTERY_WON": "Congratulazioni! Hai vinto la lotteria 2D {{event}} di Sofi! 🎃",
-    "MENTION_ERROR": "Usa il prefisso del server `{{prefix}}` o `/` per eseguire i comandi",
+    "MENTION_ERROR": "{{author}} Usa il prefix del server `{{prefix}}` o `/` in ordine per eseguire un comando",
     "RATE_LIMIT_ERROR": "A causa dell'elevata attività, è stato raggiunto il limite di velocità! Attendere prego.",
     "VERIFY_BUTTON_LABEL": "Verificare",
     "SUPPORT_BUTTON_LABEL": "Supporto",
@@ -19,6 +19,6 @@
     "COMMAND_DISABLED": "> Il comando è stato disabilitato.\nMotivo: `{{command}}`",
     "NO_PERMISSIONS": "Non ho i permessi sufficienti per eseguire questo comando",
     "SERIES_DROP": "La votazione si è conclusa!",
-    "SERVER_BLACKLISTED": "Il server è nella lista nera. Contattaci su discord.gg/sofi",
+    "SERVER_BLACKLISTED": "{{author}} Il server è nella blacklist. Contattaci su discord.gg/sofi",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} ha un valore negativo nel tuo inventario. Contattaci su discord.gg/sofi"
 }

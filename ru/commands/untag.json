@@ -5,5 +5,5 @@
     "UNTAG_SUCCESSFUL": "{{author}} `Tag` успешно удален с карты **{{cardName}}**",
     "INVALID_CODE": "{{author}} Код карты недействителен или не является частью вашего инвентаря",
     "MULTIPLE_UNTAG": "{{author}} `Tag` успешно удален с **{{count}}** карт",
-    "INVALID_CODE_MULTIPLE": "{{author}} Данные коды карт недействительны или не являются частью вашего инвентаря:\n{{invalidCodeList}}"
+    "INVALID_CODE_MULTIPLE": "{{author}} Следующие коды карт недействительны или не являются частью вашего инвентаря:\n{{invalidCodeList}}"
 }

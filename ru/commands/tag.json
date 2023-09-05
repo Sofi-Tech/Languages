@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новый",
     "TAG_NOT_FOUND": "{{author}} У вас нет `Tag` с названием `{{tag}}`",
     "NO_CARDS_CLAIMED": "{{author}} У вас пока нет ни одной карты в коллекции",
-    "INVALID_CARD_CODE": "{{author}} Предоставленный вами код карты недействителен или не является частью вашей коллекции",
-    "SUCCESSFUL_TAG": "{{author}} **{{card}}** успешно отмечена как `{{tag}}`",
+    "INVALID_CARD_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
+    "SUCCESSFUL_TAG": "{{author}} Карта **{{card}}** успешно отмечена как `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты успешно `Tagged`"
 }

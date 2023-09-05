@@ -10,5 +10,6 @@
     "NO_LISTINGS_FOUND": "{{user}} Non hai annunci sul mercato",
     "INFO": "Usa il comando `{{prefix}}mul <ID>` per annullare l'elenco delle offerte correnti\n**È possibile elencare un solo affare alla volta**",
     "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
-    "EMBED_TITLE": "I TUOI ELENCHI:"
+    "EMBED_TITLE": "I TUOI ELENCHI:",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • azione: `{{stockAmount}}` {{stockEmoji}} | valutazione: `{{rateAmount}}` {{rateEmoji}}"
 }

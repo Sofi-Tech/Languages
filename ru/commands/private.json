@@ -2,6 +2,6 @@
     "PVT_DESCRIPTION": "Приватизируйте вашу коллекцию, список желаний или инвентарь",
     "PVT_CATEGORY": "Настройки",
     "WRONG_ARGUMENTS": "{{author}} Правильное использование: `{{prefix}}pvt <C/WL/INV>`",
-    "PRIVATE_ENABLED": "{{author}} Теперь ваш **{{content}}** приватен",
-    "PRIVATE_DISABLED": "{{author}} Ваш **{{content}}** больше не является приватным"
+    "PRIVATE_ENABLED": "{{author}} Вы ограничили доступ к просмотру **{{content}}**",
+    "PRIVATE_DISABLED": "{{author}} Вы убрали ограничение доступа к просмотру **{{content}}**"
 }

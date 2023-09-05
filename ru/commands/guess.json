@@ -12,6 +12,6 @@
     "CORRECT_GUESS": "{{winner}} Успешно отгадал слово и выиграл **{{jackpot}}** {{currencyEmoji}}",
     "INSUFFICIENT_CURRENCY": "{{author}} У вас недостаточно `{{currency}}` для того, чтобы участвовать в этой игре",
     "NO_TP_2": "{{author}} Вам необходимо иметь активный `Trade Pass` для участия!",
-    "INFO_4": "**Участников [{{totalPlayers}}]**",
+    "INFO_4": "**Участников: [{{totalPlayers}}]**",
     "MORE": "больше..."
 }

@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} У вас нет никаких `Glows`",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}gn <GlowCode> <NewName>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
-    "GLOW_NOT_FOUND": "{{author}} Предоставленный вами код `Glow` недействителен или не является частью вашего инвентаря",
+    "GLOW_NOT_FOUND": "{{author}} Указанный вами код `Glow` недействителен или не является частью вашего инвентаря",
     "GLOW_NAME_LONG": "{{author}} Названия для `Glow` могут содержать не больше **25** символов",
     "GLOW_NAME_EXISTS": "{{author}} Такое название уже используется для другого `Glow`",
     "EMBED_TITLE": "SOFI: НАЗВАНИЕ GLOW",

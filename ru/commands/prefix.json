@@ -1,6 +1,6 @@
 {
     "PREFIX_DESCRIPTION": "Установка префикса Софи для этого сервера",
     "PREFIX_CATEGORY": "Настройки",
-    "PROVIDE_PREFIX": "{{author}} Правильное использование: `{{prefix}}prefix <НовыйПрефикс>`",
+    "PROVIDE_PREFIX": "{{author}} Правильное использование: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} Префикс для этого сервера установлен как `{{prefix}}`"
 }

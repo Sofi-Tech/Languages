@@ -3,10 +3,10 @@
     "GT_CATEGORY": "Отметки",
     "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одного `Glow Tag`. Вы можете создать новый, используя команду: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет ни одного `Glows`",
-    "INVALID_GLOW_CODE": "{{author}} По крайней мере один из предоставленных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
+    "INVALID_GLOW_CODE": "{{author}} По крайней мере один из указанных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечена как: `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены как: `{{tag}}`",
     "GLOW_TAG_INVALID": "{{author}} У вас нет ни одного `Glow Tag` с названием: `{{tagname}}`",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gt <TagName> <GlowCode>`",
-    "INVALID_GLOW_SINGULAR": "{{author}} Предоставленный вами код `Glow` недействителен или не является частью вашего инвентаря"
+    "INVALID_GLOW_SINGULAR": "{{author}} Указанный вами код `Glow` недействителен или не является частью вашего инвентаря"
 }
