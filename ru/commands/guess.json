@@ -10,7 +10,7 @@
     "REQ_MORE_PLAYERS": "{{user}} Необходимо минимум **2** игрока, чтобы начать игру",
     "GUESS_THE_WORD": "{{participants}}\n\n**Угадайте зашифрованное слово: `{{scrambledWord}}`**",
     "CORRECT_GUESS": "{{winner}} Успешно отгадал слово и выиграл **{{jackpot}}** {{currencyEmoji}}",
-    "INSUFFICIENT_CURRENCY": "{{author}} У вас недостаточно `{{currency}}` для того, чтобы участвовать в этой игре",
+    "INSUFFICIENT_CURRENCY": "{{author}} У вас недостаточно `{{currency}}` для того, чтобы участвовать в данной игре",
     "NO_TP_2": "{{author}} Вам необходимо иметь активный `Trade Pass` для участия!",
     "INFO_4": "**Участников: [{{totalPlayers}}]**",
     "MORE": "больше..."

@@ -11,11 +11,11 @@
     "TAGNAME_EXISTS": "{{author}} У вас уже есть `Tag` с названием: `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} Название вашего `Tag` должно быть буквенно-цифровым и не должно содержать специальные символы, пробелы или ненормативную лексику",
     "TAGNAME_LONG": "{{author}} Название `Tag` может быть длиной не более **20** символов",
-    "REPLACE_NAME_CONFIRMATION": "Вы уверены, что хотите изменить название этого `Tag` с `{{oldTag}}` на `{{newTag}}`?",
+    "REPLACE_NAME_CONFIRMATION": "Вы уверены, что хотите изменить название данного `Tag` с `{{oldTag}}` на `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Название вашего `Tag` успешно изменено с `{{oldTag}}` на `{{newTag}}`",
     "PROCESS_TERMINATED": "Процесс отменен",
     "REPLACE_EMOJI": "Введите смайлик, которым хотите заменить {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Данный смайлик недействителен",
     "REPLACE_EMOJI_CONFIRMATION": "Вы уверены, что хотите изменить смайлик для `Tag` с {{oldEmoji}} на {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Смайлик для этого `Tag` успешно изменен с {{oldEmoji}} на {{newEmoji}}"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Смайлик для данного `Tag` успешно изменен с {{oldEmoji}} на {{newEmoji}}"
 }

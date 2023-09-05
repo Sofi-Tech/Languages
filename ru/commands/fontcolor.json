@@ -10,7 +10,7 @@
     "EMBED_TITLE": "SOFI: ЦВЕТ ТЕКСТА{{reset}}",
     "COLOR_NAME": "`Glow`: **{{name}}**",
     "COLOR_CODE": "Код: `{{code}}`",
-    "GLOW_UNAVAILABLE": "{{author}} У этого `Glow` закончились заряды",
+    "GLOW_UNAVAILABLE": "{{author}} У данного `Glow` закончились заряды",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Цвет текста на карте успешно изменен",
     "PROCESS_CANCELLED": "Процесс отменен"
 }

@@ -9,7 +9,7 @@
     "GLOW_NAME_EXISTS": "{{author}} Такое название уже используется для другого `Glow`",
     "EMBED_TITLE": "SOFI: НАЗВАНИЕ GLOW",
     "GLOWNAME_CHANGE_CONFIRMATION": "Вы уверены, что хотите изменить название вашего `Glow` с `{{oldName}}` на `{{newName}}`?",
-    "MISSING_ITEMS": "{{author}} У вас недостаточно `{{currency}}` для этого процесса",
+    "MISSING_ITEMS": "{{author}} У вас недостаточно `{{currency}}` для данного процесса",
     "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Название `Glow` успешно изменено на `{{newName}}`",
     "PROFANE_GLOW_NAME": "{{author}} Название вашего `Glow` **не должно** содержать ненормативную лексику"
 }

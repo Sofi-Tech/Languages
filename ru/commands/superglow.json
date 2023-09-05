@@ -8,7 +8,7 @@
     "SAME_GLOWS": "{{author}} Вы не можете использовать один и тот же `Glow` несколько раз",
     "EMBED_TITLE": "SOFI: СУПЕР ПОДСВЕТКА",
     "FORM_SG_CONFIRM": "Вы уверены, что хотите объединить следующие предметы:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nв **{{superGlowName}}** `Super Glow`?",
-    "MISSING_RESINS": "{{author}} У вас недостаточно `Resin` для этого процесса",
+    "MISSING_RESINS": "{{author}} У вас недостаточно `Resin` для данного процесса",
     "SUPER_GLOW_SUCCESSFUL": "{{author}} Ваши `Glows` успешно объединены\n",
     "FORM_SG_FOOTER": "Оба \"Glows\" будут уничтожены в процессе!"
 }

@@ -13,7 +13,7 @@
     "SUCCESSFUL_BACKGROUND": "{{author}} **{{backgroundName}}** успешно установлен, как фон вашего профиля",
     "SUCCESSFUL_AWARDS": "{{author}} Выбранные награды успешно размещены в вашем профиле",
     "PBG_MENU_LABEL": "Подсветка Профиля",
-    "CANNOT_SET_PBG": "{{author}} У вас недостаточно `{{currency}}` для покупки этого фона профиля",
+    "CANNOT_SET_PBG": "{{author}} У вас недостаточно `{{currency}}` для покупки данного фона профиля",
     "PC_DESCRIPTION": "Кастомизирует ваш профиль",
     "PC_CATEGORY": "Настройки",
     "FC_MENU_LABEL": "Любимый Персонаж",
@@ -35,7 +35,7 @@
     "SET_GLOW_CODE": "Вы уверены, что хотите применить **{{glowName}}** `Glow` к вашему фону профиля?",
     "PURCHASE_BUTTON_LABEL": "Купить",
     "SELECT_FROM_OPTIONS": "{{charPages}}",
-    "NEED_MIN_AWARDS": "Вам необходимо иметь как минимум **6** наград для использования этой опции",
+    "NEED_MIN_AWARDS": "Вам необходимо иметь как минимум **6** наград для использования данной опции",
     "NO_GLOW": "Введите код `Glow`",
     "INTRO_MENU_LABEL": "Приветствие",
     "SET_FC_CONFIRM": "Вы уверены, что хотите установить **{{character}}** из **{{series}}** как вашего любимого персонажа?",
@@ -48,6 +48,6 @@
     "PROVIDE_FAV_CC": "Введите код карты, которую вы хотите отобразить в вашем профиле",
     "SET_BG_CONFIRM": "Вы уверены, что хотите купить **{{selectedbg}}** фон за **{{amount}}** {{emoji}}?",
     "SET_FONT_GLOW": "Вы уверены, что хотите применить **{{glowName}}** `Glow` к тексту вашего профиля?",
-    "CANNOT_SET_TC": "{{author}} Эта `Glow` разряжена",
-    "CANNOT_SET_PG": "{{author}} Эта `Glow` разряжена"
+    "CANNOT_SET_TC": "{{author}} Данная `Glow` разряжена",
+    "CANNOT_SET_PG": "{{author}} Данная `Glow` разряжена"
 }

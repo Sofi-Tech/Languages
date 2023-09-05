@@ -3,6 +3,6 @@
     "GTC_CATEGORY": "Отметки",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Данный смайлик недействительный",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} `Glow Tag` с таким именем уже существует",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} `Glow Tag` с таким названием уже существует",
     "CREATED_GLOWTAG": "{{author}} `Glow Tag` с названием: `{{tag}}` | {{emoji}} успешно создан"
 }

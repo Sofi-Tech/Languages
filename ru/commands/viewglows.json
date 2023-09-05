@@ -18,6 +18,6 @@
     "OWNER": "`Owner:    ` ➜ <@{{ownerId}}>",
     "PURITY": "Чистота:  ➜ {{purity}}",
     "PURITY2": "Чистота2:  ➜ {{purity2}}",
-    "INVALID_USER": "{{author}} Не удалось найти такого пользователя",
+    "INVALID_USER": "{{author}} Не удалось найти данного пользователя",
     "NO_GLOWS_SELF": "{{author}} У вас пока нет никаких `Glows`"
 }

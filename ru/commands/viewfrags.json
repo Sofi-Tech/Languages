@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Отображает список доступных \"Fragments\" пользователя",
-    "COLLECTION_PVT": "{{author}} Пользователь ограничил доступ к просмотру своих `Fragments`",
+    "COLLECTION_PVT": "{{author}} Данный пользователь ограничил доступ к просмотру своих `Fragments`",
     "CANNOT_FIND_FRAGS": "{{user}} У данного пользователя нет `Fragments`",
     "FRAGS_COUNT": "Всего: {{totalCount}}",
     "FRAG_LIST": "SOFI: `Fragments` ({{userName}})",

@@ -8,7 +8,7 @@
     "RATE": "Курс:",
     "VALUE": "Стоимость:",
     "CANCELLED": "Процесс отменен",
-    "NOT_ENOUGH_CANCEL": "{{author}} У вас недостаточно `{{currency}}` для этого процесса",
+    "NOT_ENOUGH_CANCEL": "{{author}} У вас недостаточно `{{currency}}` для данного процесса",
     "SUCCESS": "{{author}} Ваше объявление успешно размещено",
     "EMBED_TITLE": "SOFI: ОБЪЯВЛЕНИЕ НА РЫНКЕ",
     "INVALID_WIST_AMOUNT": "{{author}} Минимальное количество `Wists` в объявлении - **10**",
