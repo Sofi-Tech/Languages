@@ -6,7 +6,7 @@
     "NO_ITEM": "{{author}} Правильное использование: `{{prefix}}buy <ItemName> <Amount>`",
     "TRADEPASS_INFO": "Посетите наш сайт, чтобы `Bump` и обменять ваши очки на другие предметы, включая `Trade Pass`",
     "CORRECT_USAGE": "{{user}} Правильное использование: `{{prefix}}buy bg <Background-ID> <Amount>`",
-    "INVALID_BG_AMOUNT": "{{author}} Вы не можете купить не негативное количество предмета",
+    "INVALID_BG_AMOUNT": "{{author}} Вы не можете купить отрицательное количество предметов",
     "INVALID_BG_ID": "{{author}} Указанный вами идентификатор `Background` недействителен",
     "INVALID_ITEM_PROVIDED": "{{user}} Указанный вами предмет недействителен"
 }

@@ -13,5 +13,9 @@
     "COMPLETE_COMMAND": "{{author}} Önce `{{command}}` komutunu tamamlayın!",
     "REQUIRE_PERMISSIONS": "{{author}} Bu komutu yürütmek için **{{permissions}}** izinine ihtiyacınız var",
     "VERIFY_BUTTON_LABEL": "Doğrulamak",
-    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin"
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",
+    "SERVER_BLACKLISTED": "{{author}} Sunucu kara listede.\nLütfen bizimle siscord.gg/sofi de iletişime geçin",
+    "COMMAND_BLACKLISTED": "> Bu kanalda `{{commandName}}` komutu devre dışı edilmiştir",
+    "CATEGORY_DISABLED": "> Bu kategori devre dışı bırakıldı. \nSebep: `{{category}}`",
+    "COMMAND_DISABLED": "> Bu komut devre dışı bırakıldı.\nSebep: `{{command}}`"
 }

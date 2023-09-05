@@ -4,9 +4,9 @@
     "BG_CATEGORY": "Косметика",
     "EMBED_TITLE": "SOFI: ФОНЫ",
     "USER_NO_BG": "{{author}} У вас нет данного `Background`",
-    "NON_3D_CARDS": "{{author}} Вы не можете устанавливать `Background` к картам, которые не преобразованы 3D",
+    "NON_3D_CARDS": "{{author}} Вы не можете устанавливать `Background` на карты, которые не преобразованы в 3D",
     "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
-    "BG_NOT_FOUND": "{{author}} Не удалось найти ни одного `Background` с таким идентификатором",
-    "EMBED_DESCRIPTION": "Вы уверены, что хотите применить **{{background}}** `Background` к этой карте?",
-    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** `Background` успешно применен к вашей карте"
+    "BG_NOT_FOUND": "{{author}} Не удалось найти никаких `Background` с данным идентификатором",
+    "EMBED_DESCRIPTION": "Вы уверены, что хотите установить `Background` **{{background}}** на данную карту?",
+    "BG_APPLY_SUCCESSFUL": "{{author}} `Background` **{{background}}** успешно установлен на вашу карту"
 }

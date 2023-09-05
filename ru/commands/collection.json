@@ -24,7 +24,7 @@
     "ALL_TAG_SUCCESS": "{{author}} **{{taglength}}** карт успешно отмечено следующим `Tag`: `{{tagName}}`",
     "PLEASE_WAIT": "Пожалуйста, подождите <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новый",
-    "USER_NOT_FOUND": "{{author}} Не удалось найти такого пользователя",
+    "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "NOT_AVAILABLE": "`Invalid Series`",
     "SORT_LEVEL": "Уровень",
     "NO_RESULTS_OTHERS": "{{author}} У данного пользователя нет карт в коллекции",

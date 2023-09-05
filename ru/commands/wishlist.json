@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Отображает ваш список желаемого",
     "CATEGORY": "Список желаемого",
-    "USER_NOT_FOUND": "{{author}} Не удалось найти такого пользователя",
+    "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "WISHLIST_PRIVATE": "{{author}} Данный пользователь ограничил доступ к своему списку желаемого",
     "WISHLIST_EMPTY": "{{author}} Список желаемого данного пользователя пуст",
     "WISHLIST_EMBED_TITLE": "SOFI: СПИСОК ЖЕЛАЕМОГО ({{username}}) [{{length}}/{{slots}}]",

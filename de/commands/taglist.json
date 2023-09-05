@@ -6,5 +6,7 @@
     "EMBED_TITLE": "SOFI: `TAG` LISTE ({{username}})",
     "SOFI_FACT": "Beachte: Einen \"Tag\" mit dem Namen \"lock\" und dem Vorhängeschloss-Emoji \"🔒\" zu kreieren wird verhindern, dass du Karten mit diesem \"Tag\" verbrennen oder mit ihnen handeln kannst!\nBeispiel: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Insgesamt: {{count}}",
-    "NO_TAGS_SELF": "{{author}} Du hast noch keine `Tags`. Verwende den Befehl `{{prefix}}tc <TagName> <Emoji>`, um einen zu erstellen"
+    "NO_TAGS_SELF": "{{author}} Du hast noch keine `Tags`. Verwende den Befehl `{{prefix}}tc <TagName> <Emoji>`, um einen zu erstellen",
+    "CARD_one": "{{count}} Karte",
+    "CARD_other": "{{count}} Karten"
 }

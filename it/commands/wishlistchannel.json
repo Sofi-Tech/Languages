@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "imposta il tuo canale per i tuoi desiderati",
-    "CATEGORY": "Desiderati",
-    "CHANNEL_SET": "{{author}} La canale di tuoi desiderati è stata impostata in {{channel}}",
+    "DESCRIPTION": "Imposta la tua wishlist nel un canale",
+    "CATEGORY": "Wishlist",
+    "CHANNEL_SET": "{{author}} La tua wishlist è stata impostata nel {{channel}}",
     "CHANNEL_REMOVE": "{{author}} La canale di tuoi desiderati è stata rimossa da {{channel}}"
 }
