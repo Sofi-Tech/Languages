@@ -1,12 +1,12 @@
 {
-    "MG_DESCRIPTION": "脂を作る為に、`Glow`を４つマージする",
+    "MG_DESCRIPTION": "４つの「Glow」をマージして「Resin」を作る",
     "MG_CATEGORY": "コスメティック",
-    "GLOW_CODES_MISSING": "{{author}}正しい使い方は：`{{prefix}}mg <Glowコード1> <Glowコード2> <Glowコード3> <Glowコード4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} 提供された`Glow`に中では少なくとこ１つは利用不可能です",
-    "GLOW_CODES_UNIQUE": "{{author}} 同じ`Glow`は１回しか使えません",
-    "GLOWS_NOT_FOUND": "{{author}} 提供された `Glow` コードには少なくとも１つが無効またはインベントリーにありません",
-    "EMBED_TITLE": "SOFI: 「GLOW (明り)」をマージする",
-    "MERGE_CONFIRMATION": "下記の`Glow`をマージしようとしていますのでご確認ください：\n\n{{glows}}\n\nこの過程で１つ <:resin:938131736741691442> をもらいます",
-    "GLOWS_NOT_IN_INVENTORY": "{{author}} 提供された `Glow` コードには少なくとも１つがインベントリーにありません",
-    "GLOW_MERGE_SUCCESSFUL": "{{author}} `Glows`は１つ<:resin:938131736741691442>に成功でマージしました"
+    "GLOW_CODES_MISSING": "{{author}}正しい使い方は：`{{prefix}}mg <#Glowコード1> <#Glowコード2> <#Glowコード3> <#Glowコード4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} 提供された「`Glow`」に中では少なくとこ１つは利用不可能です",
+    "GLOW_CODES_UNIQUE": "{{author}} 同じ「`Glow`」は１回しか入力できません",
+    "GLOWS_NOT_FOUND": "{{author}} 提供された「 `Glow`」 コードには少なくとも１つが無効またはインベントリーにありません",
+    "EMBED_TITLE": "SOFI：「GLOW (輝き)」をマージする",
+    "MERGE_CONFIRMATION": "下記の「`Glow`」をマージしようとしていますので確認してください：\n\n{{glows}}\n\nこの過程で**１つ** <:resin:938131736741691442> をもらいます",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} 提供された 「`Glow`」 コードには少なくとも１つがインベントリーにありません",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} ４つ「`Glow`」は１つ<:resin:938131736741691442>に成功でマージしました"
 }

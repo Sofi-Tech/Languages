@@ -5,7 +5,7 @@
     "SLASH_DESC2": "Введите фильтры, которые вы хотите применить к коллекции",
     "PLAYER_NOT_EXIST": "{{author}} Данный пользователь не зарегистрирован!",
     "PLAYER_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своей коллекции",
-    "NO_RESULTS": "{{author}} В вашей коллекции пока нет карт",
+    "NO_RESULTS": "{{author}} У вас в коллекции пока нет ни одной карты",
     "NO_CARDS_FOUND": "{{author}} Не удалось найти карты, соответствующие вашим критериям поиска",
     "NOTHING_FOUND": "Не удалось найти никаких карт",
     "CHOOSE_SORTING": "Сортировать",
@@ -23,7 +23,7 @@
     "ALL_UNTAG_SUCCESS": "{{author}} Следующий `Tag` успешно снят с **{{taglength}}** карт: `{{tagName}}`",
     "ALL_TAG_SUCCESS": "{{author}} **{{taglength}}** карт успешно отмечено следующим `Tag`: `{{tagName}}`",
     "PLEASE_WAIT": "Пожалуйста, подождите <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новые",
+    "NO_TAG_FOUND": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "NOT_AVAILABLE": "`Invalid Series`",
     "SORT_LEVEL": "Уровень",
@@ -34,5 +34,5 @@
     "TAG_MODAL_TITLE": "Введите \"Tag\"",
     "TAG_NO_CARDS_FOUND": "{{author}} Не удалось найти карт с `Tag`: `{{arg}}`",
     "EMBED_FOOTER": "Страницы: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
-    "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти `Tag` с названием: `{{arg}}`"
+    "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной `Tag` с названием: `{{arg}}`"
 }

@@ -2,7 +2,7 @@
     "DESCRIPTION": "Отображает ваш список желаемого",
     "CATEGORY": "Список желаемого",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
-    "WISHLIST_PRIVATE": "{{author}} Данный пользователь ограничил доступ к своему списку желаемого",
+    "WISHLIST_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своего списка желаемого",
     "WISHLIST_EMPTY": "{{author}} Список желаемого данного пользователя пуст",
     "WISHLIST_EMBED_TITLE": "SOFI: СПИСОК ЖЕЛАЕМОГО ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Страница: {{page}}/{{totalPages}}",
@@ -13,7 +13,7 @@
     "CARD_MENU_DESCRIPTION": "Скопировать коды {{name}}",
     "COPY_CODES_MENU_PLACEHOLDER": "Выбрать действие",
     "CODES_COPIED": "← Скопировано",
-    "ALL_CARD_CODES": "В связи с большим количеством кодов сообщение не может быть преобразовано в файл формала`.txt`:",
+    "ALL_CARD_CODES": "В связи с большим количеством кодов сообщение должно быть преобразовано в файл формала`.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: КОДЫ ИЗ СПИСКА ЖЕЛАЕМОГО",
     "WISHLIST_EMPTY_SELF": "{{author}} Ваш список желаемого пуст"
 }

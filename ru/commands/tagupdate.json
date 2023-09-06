@@ -2,7 +2,7 @@
     "TU_DESCRIPTION": "Изменяет название или смайлик у ваших \"Tags\"",
     "TU_CATEGORY": "Отметки",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}tu <TagName>`",
-    "TAG_NOT_FOUND": "{{author}} Не удалось найти никаких `Tag` с названием: `{{tag}}`",
+    "TAG_NOT_FOUND": "{{author}} Не удалось найти ни одной `Tag` с названием: `{{tag}}`",
     "BUTTON_NAME_LABEL": "Название",
     "BUTTON_EMOJI_LABEL": "Смайлик",
     "EMBED_TITLE": "SOFI: ОБНОВИТЬ `TAG`",
