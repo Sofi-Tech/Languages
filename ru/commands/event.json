@@ -21,7 +21,7 @@
     "GS_MODAL_PLACEHOLDER": "Например: 2",
     "RECIEVE_BUTTON_LABEL": "Получено",
     "RAIDS_BUTTON_LABEL": "Побед в нападениях",
-    "BG_BUTTON_LABEL": "Фоны",
+    "BG_BUTTON_LABEL": "ФОН",
     "EMBED_TITLE": "{{event}} [Заканчивается {{date}}]",
     "EVSHOP_MENU_PLACEHOLDER": "Магазин события",
     "GS_MENU_LABEL": "Скребок гена",
@@ -58,10 +58,10 @@
     "GS_MODAL_LABEL": "Количество скребков гена",
     "MISSING_EV_ITEM": "Вам не хватает {{amount}} {{item}}",
     "ITEM_PURCHASE_SUCCESSFUL": "Поздравляем! {{amount}} {{item}} добавлены в ваш инвентарь",
-    "FRAME_MODAL_TITLE": "SOFI: Монохром 23 рамки",
-    "EV_EMBED_TITLE": "SOFI: ТАБЛИЦА ЛИДЕРОВ {{form}}{{type}}",
+    "FRAME_MODAL_TITLE": "SOFI: МОНОХРОМ 23 РАМКИ",
+    "EV_EMBED_TITLE": "SOFI: ТАБЛИЦА ЛИДЕРОВ ПО {{form}}{{type}}",
     "GS_MODAL_TITLE": "Sofi: Скребок Гена",
-    "BG_MODAL_TITLE": "SOFI: Монохром 23 фоны",
+    "BG_MODAL_TITLE": "SOFI: МОНОХРОМ 23 ФОНЫ",
     "CHEST_MODAL_TITLE": "Sofi: {{item}} Сундук",
     "ITEM_MODAL_TITLE": "Sofi: {{item}}"
 }

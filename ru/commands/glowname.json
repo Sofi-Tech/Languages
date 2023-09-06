@@ -1,15 +1,15 @@
 {
-    "GN_DESCRIPTION": "Меняет название \"Glow\"",
+    "GN_DESCRIPTION": "Изменяет название \"Glow\"",
     "GN_CATEGORY": "Косметика",
     "UNLOCK_GLOWS": "{{author}} У вас нет никаких `Glows`",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}gn <GlowCode> <NewName>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
     "GLOW_NOT_FOUND": "{{author}} Указанный вами код `Glow` недействителен или не является частью вашего инвентаря",
-    "GLOW_NAME_LONG": "{{author}} Названия для `Glow` могут содержать не больше **25** символов",
-    "GLOW_NAME_EXISTS": "{{author}} Такое название уже используется для другого `Glow`",
-    "EMBED_TITLE": "SOFI: НАЗВАНИЕ GLOW",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Вы уверены, что хотите изменить название вашего `Glow` с `{{oldName}}` на `{{newName}}`?",
+    "GLOW_NAME_LONG": "{{author}} Названия `Glow` могут содержать не больше **25** символов",
+    "GLOW_NAME_EXISTS": "{{author}} Такое название уже используется для другой `Glow`",
+    "EMBED_TITLE": "SOFI: НАЗВАНИЕ ПОДСВЕТКИ",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Вы уверены, что хотите изменить название вашей `Glow` с `{{oldName}}` на `{{newName}}`?",
     "MISSING_ITEMS": "{{author}} У вас недостаточно `{{currency}}` для данного процесса",
     "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Название `Glow` успешно изменено на `{{newName}}`",
-    "PROFANE_GLOW_NAME": "{{author}} Название вашего `Glow` **не должно** содержать ненормативную лексику"
+    "PROFANE_GLOW_NAME": "{{author}} Название вашей `Glow` **не должно** содержать ненормативную лексику"
 }

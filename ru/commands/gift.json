@@ -10,5 +10,5 @@
     "NO_ACTIVE_EVENT": "{{author}} В настоящее время нет активных событий",
     "GIFT_CATEGORY": "Карты",
     "GIFT_DESCRIPTION": "Дарите \"Event Items\" другим пользователям",
-    "GIFT_SUCCESSFUL": "{{author}} подарил **{{amount}}** `{{eventItem}}` {{user}}\n{{user}} всего получил **{{recieveCount}}** `{{eventItem}}`"
+    "GIFT_SUCCESSFUL": "{{author}} подарил **{{amount}}** `{{eventItem}}` {{user}}\n{{user}} получил всего **{{recieveCount}}** `{{eventItem}}`"
 }

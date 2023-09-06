@@ -2,7 +2,7 @@
     "GT_DESCRIPTION": "Отметьте ваши \"Glows\" с помощью \"Tag\"",
     "GT_CATEGORY": "Отметки",
     "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одного `Glow Tag`. Вы можете создать новый, используя команду: `{{prefix}}gtc <Name> <Emoji>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет ни одной `Glows`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет никаких `Glows`",
     "INVALID_GLOW_CODE": "{{author}} По крайней мере один из указанных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечена как: `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все `Glows` успешно отмечены как: `{{tag}}`",

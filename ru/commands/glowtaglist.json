@@ -2,5 +2,7 @@
     "GTL_DESCRIPTION": "Отображает список ваших \"Glow Tags\"",
     "GTL_CATEGORY": "Отметки",
     "NO_TAGS": "{{author}} У вас пока нет никаких `Glow Tags`",
-    "EMBED_TITLE": "SOFI: СПИСОК `GLOW TAG`"
+    "EMBED_TITLE": "SOFI: СПИСОК `GLOW TAG`",
+    "GLOWS_one": "{{count}} Подсветка",
+    "GLOWS_other": "{{count}} Подсветок"
 }

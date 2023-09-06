@@ -11,7 +11,7 @@
     "GLOW_NAME": "Название: **{{name}}**",
     "GLOW_CODE": "Код: `#{{code}}`",
     "EMBED_FOOTER": "Подсветка: {{availability}}",
-    "GLOW_UNAVAILABLE": "{{author}} У данного `Glow` закончились заряды",
+    "GLOW_UNAVAILABLE": "{{author}} У данной `Glow` закончились заряды",
     "GLOW_APPLY_SUCCESSFUL": "{{author}} **{{glowName}}** `Glow` успешно применен к вашей карте",
     "UNAVAILABLE": "Пусто",
     "AVAILABLE": "Заряжен"
