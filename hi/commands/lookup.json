@@ -1,24 +1,21 @@
 {
-  "DESCRIPTION": "पात्र का संस्करण/3डी/एनिमेटेड की खोज करें",
-  "CHAR_NOT_FOUND": "यह पात्र नहीं मिला",
-  "CHAR_NF_SENSITIVE": "कोई पात्र नहीं मिला [ Lookup कमांड अक्षर संवेदनशील है।]",
-  "EMBED_TITLE": "__मिलते हुए पात्र __",
-  "SUBMITTED": "प्रस्तुतकर्ता: <@{{userID}}>",
-  "EMBED_FOOTER": "scl का उपयोग करके Version 1 खोजें | ssc का उपयोग करके आप नए Versions जमा कर सकते है",
-  "VERSION_DISP": "कार्ड का Versions {{version}} प्रदर्शित करें",
-  "MORE": "अधिक जानकारी",
-
-  "GIF_LABEL": "GIF संस्करण",
-
-  "SERIES": "श्रेणी:",
-  "NAME": "नाम:",
-  "CATEGORY": "श्रेणी",
-  "WISHLISTED": "पसंदीदा-सूची में है",
-  "VERSIONS": "कुल संस्करण",
-  "MULTI": "एक से अधिक",
-  "EVENTS": "इवेंट्स",
-  "EVENT": "इवेंट",
-  "UPCOMING_EVENT": "आगामी इवेंट",
-
-  "NO_OWNER_FOUND": "कोई Version मालिक नहीं मिला"
+    "DESCRIPTION": "पात्र का संस्करण/3डी/एनिमेटेड की खोज करें",
+    "CHAR_NOT_FOUND": "यह पात्र नहीं मिला",
+    "CHAR_NF_SENSITIVE": "कोई पात्र नहीं मिला [ Lookup कमांड अक्षर संवेदनशील है।]",
+    "EMBED_TITLE": "__मिलते हुए पात्र __",
+    "SUBMITTED": "प्रस्तुतकर्ता: <@{{userID}}>",
+    "EMBED_FOOTER": "scl का उपयोग करके Version 1 खोजें | ssc का उपयोग करके आप नए Versions जमा कर सकते है",
+    "VERSION_DISP": "कार्ड का Versions {{version}} प्रदर्शित करें",
+    "MORE": "अधिक जानकारी",
+    "GIF_LABEL": "GIF संस्करण",
+    "SERIES": "शृंखला:",
+    "NAME": "नाम:",
+    "CATEGORY": "श्रेणी",
+    "WISHLISTED": "पसंदीदा-सूची में है",
+    "VERSIONS": "कुल संस्करण",
+    "MULTI": "एक से अधिक",
+    "EVENTS": "इवेंट्स",
+    "EVENT": "इवेंट",
+    "UPCOMING_EVENT": "आगामी इवेंट",
+    "NO_OWNER_FOUND": "कोई Version मालिक नहीं मिला"
 }
