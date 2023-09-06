@@ -1,8 +1,8 @@
 {
     "BUMP_DESCRIPTION": "Sofi.gg वेबसाइट पर Bump करके, Trade Pass जैसे ईनाम प्राप्त करें",
     "BUMP_CATEGORY": "SETTINGS",
-    "EMBED_AUTHOR": "SOFI: `BUMP` {{username}}",
-    "GET_DIFFERENT_REWARDS": "[Sofi.gg]{https://sofi.gg) पर `Bump` बटन दबाए और इनाम प्राप्त करे।",
+    "EMBED_AUTHOR": "SOFI: `BUMP` ({{username}})",
+    "GET_DIFFERENT_REWARDS": "[Sofi.gg](https://sofi.gg) पर `Bump` बटन दबाए और इनाम प्राप्त करे।",
     "TOTAL_BUMP": "- कुल `Bumps`: **{{bump}}**",
     "BUMP_POINTS": "- उपलब्ध Bump पॉइंट्स: **{{bumpPoints}}** (🔺)",
     "EMBED_FOOTER": "आप हर 4 घंटे के अंतराल में Bump कर सकते हैं!",

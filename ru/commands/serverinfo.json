@@ -4,11 +4,11 @@
     "SI_DESCRIPTION": "Показывает статистику сервера",
     "SI_CATEGORY": "Настройки",
     "EMBED_FOOTER": "Префикс Сервера: \"{{prefix}}\"",
-    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+    "EMBED_AUTHOR": "SOFI: ИНФОРМАЦИЯ О СЕРВЕРЕ | {{guildName}}",
     "SI_TOTAL_BURNT": "Всего Сожжено",
     "SI_TOTAL_GIVEN": "Всего Подарено",
     "SI_TOTAL_TRADES": "Всего Обменов",
-    "SI_NAME_UNAVAILABLE": "Имя Недоступно",
+    "SI_NAME_UNAVAILABLE": "Название Недоступно",
     "SI_SPAWN_CHANNEL": "Канал Появления",
     "SI_TOTAL_DROPS": "Всего Бросков"
 }

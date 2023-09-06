@@ -1,22 +1,19 @@
 {
-  "DESCRIPTION": "किसी को पत्ते दें",
-  "SLASH_DESC": "उस उपयोगकर्ता का नाम दर्ज करें जिसे आपको पत्ता देना हैं",
-  "SLASH_DESC2": "वह कोड दर्ज करें जो पत्ता आप देना चाहते हैं",
-
-  "NO_SELF_GIVE": "{{author}} आप अपने आप को पत्ता नहीं दे सकते",
-  "NOT_REGISTERED": "{{author}} वह उपयोगकर्ता पंजीकृत नहीं है!",
-  "MEM_BLACKLISTED": "yah {{member}} काली सूचि में है",
-  "MEM_QUARANTINED": "वह उपयोगकर्ता क्वारेंटाइंड में है",
-
-  "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}give <user/userID> <cardcode>`",
-  "NO_CARD_FOUND": "कोई card code नहीं मिला: `{{code}}`",
-  "CARD_LOCKED": "पत्ता लॉक किया गया है और दिया नहीं जा सकता । `{{prefix}}ut <CardCode>` से पत्ते को Untag करे",
-
-  "CANCELLED": "प्रक्रिया रद्द की गई",
-
-  "AUTHOR_NOT_VERIFIED": "आप वेरिफाइड नहीं है!",
-  "MEM_NOT_VERIFIED": "यह उपयोगकर्ता वेरिफाइड नहीं है!",
-  "AUTHOR_BLACKLISTED": "आप संदिग्ध-सूची में है.।",
-  "CARD_SELECTED": "यह पत्ता दिया नहीं जा सकता",
-  "EMBED_TITLE": "पत्ता दिया जारा है"
+    "DESCRIPTION": "चुनित उपयोगकर्ता को पत्ते देता है।",
+    "SLASH_DESC": "उस उपयोगकर्ता का नाम दर्ज करें जिसे आप पत्ते देना चाहते है।",
+    "SLASH_DESC2": "कार्ड कोड दर्ज करे जो देना चाहते हैं।",
+    "NO_SELF_GIVE": "{{author}} आप अपने आप को पत्ते नहीं दे सकते है।",
+    "NOT_REGISTERED": "{{author}} वह उपयोगकर्ता पंजीकृत नहीं है!",
+    "MEM_BLACKLISTED": "{{author}} वह उपयोगकर्ता संदिग्ध-सूची में है।",
+    "MEM_QUARANTINED": "{{author}} वह उपयोगकर्ता क्वारेंटाइंड है।",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}give <user/userID> <cardcode>`",
+    "NO_CARD_FOUND": "कोई card code नहीं मिला: `{{code}}`",
+    "CARD_LOCKED": "पत्ता लॉक किया गया है और दिया नहीं जा सकता । `{{prefix}}ut <CardCode>` से पत्ते को Untag करे",
+    "CANCELLED": "प्रक्रिया रद्द की गई",
+    "AUTHOR_NOT_VERIFIED": "{{author}} आप वेरिफाइड नहीं है!",
+    "MEM_NOT_VERIFIED": "{{author}} वह उपयोगकर्ता वेरिफाइड नहीं है।",
+    "AUTHOR_BLACKLISTED": "{{author}} आप संदिग्ध-सूची में है।",
+    "CARD_SELECTED": "यह पत्ता दिया नहीं जा सकता",
+    "EMBED_TITLE": "पत्ता दिया जारा है",
+    "AUTHOR_QUARANTINED": "{{author}} आप क्वारेंटाइंड है।"
 }
