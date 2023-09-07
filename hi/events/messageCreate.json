@@ -5,7 +5,7 @@
     "VERIFY_BUTTON_LABEL": "VERIFY",
     "SUPPORT_BUTTON_LABEL": "सहायता",
     "VERIFY_TO_PLAY": "[खेलने के लिए वेबसाइट पर वेरिफाई करे](<https://sofi.gg/verify>)",
-    "USER_BLACKLISTED": "{{author}} यह उपयोगकर्ता संदिग्ध-सूची में है",
+    "USER_BLACKLISTED": "{{author}} यह उपयोगकर्ता संदिग्ध-सूची में है।",
     "GLOBAL_COOLDOWN": "> [`Global`] **{{cooldown}}** देर प्रतीक्षा करे कमांड दुबारा देने से पहले",
     "COMMAND_BLACKLISTED": "> इस चैनल में `{{commandName}}` कमांड निषेध है",
     "REQUIRE_CLIENT_PERMISSIONS": "`मुझे: {{permissions}} की अनुमति देने की जरूरत है कमांड को सुचारू रूप से काम के लिए`",

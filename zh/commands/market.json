@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "展示市场上的特价商品",
-    "NO_LISTING_FOUND": "{{author}}未找到商品",
-    "MARKET_WARN": "不要使用市场存储或隐藏列表。\n它们将被移除而不予任何补偿。\n平均价格：{{averageRate}}，交易总数：{{totalTrades}}",
-    "FOOTER": "显示 {{page}}-{{pages}} 共 {{total}} | 购买请使用 {{prefix}}mp <id> [金额]",
+    "NO_LISTING_FOUND": "{{author}}在市场上找不到任何订单",
+    "MARKET_WARN": "```fix\n⚠️不要利用市场来隐藏你的“Wists”。 不遵守此规则可能会导致所述物品被无偿移除！\n```\n**平均率**: **`{{averageRate}}` |总交易数** : **`{{totalTrades}}`**",
+    "FOOTER": "显示结果{{page}}-{{pages}}的{{total}}",
     "DEAL_INFO": "{{orderNumber}}•{{timer}}•{{dealId}}• 库存：{{stockAmount}}`{{stockEmoji}} |速度：{{rateAmount}}{{rateEmoji}}"
 }

@@ -8,9 +8,9 @@
     "ALBUM_NOT_FOUND": "{{author}}ユーザーが作成されたアルバムが見つかりませんでした",
     "ALBUM_NAME_NOT_FOUND": "{{author}} `{{albumName}}`というアルバムが見つかりませんでした",
     "PROCESSING": "処理中 <a:_:876610443148406794>",
-    "NO_CARDS": "{{author}} このアルバムにカードがまざ存在しません",
-    "EMBED_TITLE": "SOFI: {{username}} のアルバムズ",
+    "NO_CARDS": "{{author}} このアルバムにカードがまだ存在しません",
+    "EMBED_TITLE": "SOFI： {{username}} のアルバム",
     "ALBUM_BUTTON_LABEL": "アルバムを作成する",
-    "EMBED_ALBUM_TITLE": "SOFI: {{albumName}} アルバム",
-    "EMBED__ALBUM_FOOTER": "{{userTag}} のアルバム"
+    "EMBED_ALBUM_TITLE": "SOFI：「{{albumName}}」アルバム",
+    "EMBED__ALBUM_FOOTER": "{{userTag}}さんのアルバム"
 }

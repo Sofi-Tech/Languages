@@ -9,7 +9,7 @@
     "LISTED": "已列出",
     "NO_LISTINGS_FOUND": "{{user}} 您没有在市场上做任何列表",
     "INFO": "使用 `{{prefix}}ml` 和 `smul` 取消列表一次只能列出一个交易",
-    "FOOTER": "显示 {{page}}-{{pages}} 共 {{total}} | 购买请使用 {{prefix}}mp <id> [金额]",
+    "FOOTER": "显示结果{{page}}-{{pages}}的{{total}}",
     "EMBED_TITLE": "您的单：{{userName}}",
     "DEAL_INFO": "{{orderNumber}}•{{timer}}•{{dealId}}• 库存：{{stockAmount}}`{{stockEmoji}} |速度：{{rateAmount}}{{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI：订单信息"
