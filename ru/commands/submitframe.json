@@ -4,7 +4,7 @@
     "SUBMIT_FRAME_SUCCESSFUL": "{{author}} `Frame` успешно предложена",
     "SF_CATEGORY": "Настройки",
     "SF_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}sf <ImageURL> <FrameName>`",
-    "MAXIMUM_NAME_LENGTH": "{{author}} Название вашей `Frame` может быть только до **20** символов длиной",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Название вашей `Frame` может содержать не более **20** символов",
     "SF_DESCRIPTION": "Предлагает \"Frame\"",
     "SF_DISCORD_LINK": "{{author}} Предоставленное изображение должно использовать официальную Discord-ссылку, такую как `cdn.discordapp.com` или `media.discordapp.net`",
     "SF_DIMENSION_INFO": "<:_:979009081325019156> Размеры предоставленного изображения **должны** быть `402x603`",

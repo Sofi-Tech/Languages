@@ -11,7 +11,7 @@
     "REGISTER_TO_PLAY": "{{author}} Sofi के सफर को शुरू करने के लिए `{{prefix}}register` का प्रयोग करे!",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} आपकी `Inventory` में नकारात्मक संख्या है! हमारे [आधिकारिक सर्वर](https://discord.gg/sofi) में आके डेवलपर्स को सूचित करे",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** कमांड को दुबारा उपयोग करने से पहले **{{cooldown}}** देर रुके",
-    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] दुबारा उपयोग करने से पहले **{{cooldown}}** दूर रुके",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] **{{cooldown}}** देर प्रतीक्षा करे कमांड दुबारा देने से पहले",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** अभी गंभीर स्तिथि में है! ETA: **{{eta}}**\nसभी असुविधाओं के लिए हमे खेद है और निवेदन है की धीरज रखे!",
     "COMPLETE_COMMAND": "{{author}} पहले `{{command}}` कमांड को पूर्ण करे!"
 }

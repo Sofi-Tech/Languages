@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "3 पत्ते Drop करता है।\nबिना चित्र के Drop करने हेतु {{prefix}}dn का प्रयोग करे",
     "EXTRA_DROP_ALERT": "{{author}} आपके `Extra Drop` का उपयोग हो रहा है। आपके पास **{{remaining}}** और शेष है।",
-    "ON_CD": "{{author}} आप दुबारा `Drop` कर सकते है: **{{dropCd}}**",
+    "ON_CD": "{{author}} आप **{{dropCd}}** देर बाद दुबारा `Drop` कर सकते है।",
     "VOTE": "Vote",
     "BUY_DROP": "\n\nआप `Vote` करके `Wist` पा सकते है और `{{prefix}}buy drop` कमांड का प्रयोग करके Wist के बदले में Drop खरीद सकते है।",
     "DROPPING_CARD": "{{author}} पत्ते **Drop** कर रहे है\n"

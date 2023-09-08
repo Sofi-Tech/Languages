@@ -23,7 +23,7 @@
     "NOT_WHITELISTED_YET": "{{author}} Вы пока не добавляли команды в белый список",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Разрешения в данном канале успешно сброшены",
     "REMOVE_MODAL_LABEL": "Уберите команды из {{listName}} данного канала",
-    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Все команды успешно удалены из {{listName}} данного канала",
+    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Все команды успешно убраны из {{listName}} данного канала",
     "REMOVE_COMMANDS_ERROR": "{{author}} Указанные команды еще не находятся в {{listName}} данного канала или недействительны",
     "YES_BUTTON_LABEL": "Подтвердить",
     "NO_BUTTON_LABEL": "Отменить",

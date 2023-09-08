@@ -5,11 +5,11 @@
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "NO_CHARACTER": "{{author}} Karakter pada kartu ini sudah tidak tersedia di Sofi dan tidak dapat diinteraksikan",
     "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
-    "NOT_MORPHED": "{{author}} Kartu tersebut tidak memiliki `Morph` yang digunakan",
-    "EMBED_TITLE": "HAPUS MORPH",
-    "UM_CONFIRMATION": "Apakah anda yakin ingin menghapus `Morph` kartu ini?\nProses ini akan dikenakan biaya **100** `Silver`",
+    "NOT_MORPHED": "{{author}} Kartu tersebut tidak memiliki morph yang digunakan",
+    "EMBED_TITLE": "SOFI: REMOVE MORPH",
+    "UM_CONFIRMATION": "Apakah Anda yakin ingin menghapus morphkartu ini untuk **{{count}}** {{currencyEmoji}}?",
     "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi dalam koleksi anda",
     "SOMETHING_WENT_WRONG": "{{author}} Ada yang salah, coba lagi",
     "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup `{{currency}}` untuk proses ini",
-    "UM_SUCCESSFUL": "`Morph` berhasil dihapus"
+    "UM_SUCCESSFUL": "{{author}} Berhasil menghapus morph kartu ini"
 }

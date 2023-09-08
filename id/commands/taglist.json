@@ -6,5 +6,7 @@
     "EMBED_TITLE": "SOFI: DAFTAR `LIST` ({{username}})",
     "SOFI_FACT": "Catatan: Membuat \"Tag\" dengan nama \"kunci\" dan emoji \"🔒\" akan mencegah anda membakar atau bertukar kartu dengan \"Tag\" itu\nContoh: \"{{prefix}}tc lock 🔒\"",
     "EMBED_FOOTER": "Total: {{count}}",
-    "NO_TAGS_SELF": "{{author}} Anda belum memiliki `Tag`. Gunakan perintah `{{prefix}}tc <TagName> <Emoji>` untuk membuatnya"
+    "NO_TAGS_SELF": "{{author}} Anda belum memiliki `Tag`. Gunakan perintah `{{prefix}}tc <TagName> <Emoji>` untuk membuatnya",
+    "CARD_one": "{{count}} kartu",
+    "CARD_other": "{{count}} kartu"
 }
