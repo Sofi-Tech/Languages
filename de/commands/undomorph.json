@@ -7,7 +7,7 @@
     "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer `GIF` Karte entfernen",
     "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen Morph",
     "EMBED_TITLE": "SOFI: ENTFERNE MORPH",
-    "UM_CONFIRMATION": "Bist du sicher, dass du den `Morph` dieser Karte entfernen möchtest?\nDieser Vorgang kostet **100** `Silver`",
+    "UM_CONFIRMATION": "Bist du sicher, dass du den `Morph` dieser Karte für **{{count}}** {{currencyEmoji}} entfernen möchtest?",
     "NO_OWNER": "{{author}} Die Karte befindet sich nicht mehr deiner Sammlung",
     "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schief gelaufen, bitte versuche es erneut",
     "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend `{{currency}}` für diesen Vorgang",

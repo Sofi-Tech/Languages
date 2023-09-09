@@ -7,9 +7,9 @@
     "NO_GIF_CARD": "{{author}} `GIF` पत्तों से `Background` हटाया नही जा सकता।",
     "NO_BACKGROUND": "{{author}} वह पत्ते पर कोई भी `Background` नहीं लगाया गया है।",
     "EMBED_TITLE": "SOFI: REMOVE `BACKGROUND`",
-    "PROCESS_COST": "`Background` हटाने के लिए **1** `Wist` का खर्चा लगता है। हटाए गए `Background` सफलतापूर्वक आपके संग्रह में पहुंचा दिया जायेगा।",
+    "PROCESS_COST": "`Background` हटाने के लिए **1** `Wist` का खर्चा लगता है। हटाई गए `Background` सफलतापूर्वक आपके संग्रह में पहुंचा दिया दी जाएगी।",
     "NOT_ENOUGH_WIST": "{{author}} आपके पास `Background` हटाने के लिए पर्याप्त `{{currency}}` नहीं हैं।",
-    "NO_BG_APPLIED": "{{author}} वह पत्ते पर कोई `Background` लगा हुआ नहीं है",
-    "UNDO_BACKGROUND_SUCCESS": "`Background` को सफलतापूर्वक हटा दिया गया है और आपकी `Inventory` में वापिस भेज दिया गया है",
+    "NO_BG_APPLIED": "{{author}} वह पत्ते पर कोई भी `Background` नहीं लगाया गया है।",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} इस पते का `Background` सफलतापूर्वक आपके संग्रह में भेजा गया।",
     "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है।"
 }
