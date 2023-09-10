@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "अपना रोजिंदा ईनाम प्राप्त करें",
-    "CATEGORY": "पत्ते",
-    "EMBED_AUTHOR": "SOFI: 'DAILY` ईनाम ({{author}})",
-    "DAILY_ERROR": "**{{timeout}}** के बाद आप अपना `Daily` प्राप्त कर सकते है",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> `Common Chest` प्राप्त करने के लिए **{{count}}** `Daily` बाकी रहते है",
-    "RARE_CHEST": "<:rarechest:927204672270372874> `Rare Chest` प्राप्त करने के लिए **{{count}}** `Daily` बाकी रहते है\n",
-    "NOTE": "⚠️ Discord और Sofi के कर्मचारी कभी-भी निम्नलिखित कार्य को अंजाम नहीं देंगे: \n- आपसे कभी \"Password\" या One-Time-Passwords(OTP) पूछना \n- आपसे आपकी E-mail बदलने की सलाह देना\n- \"Mee6\" या \"Dyno\" जैसे थर्ड पार्टी बॉट का उपयोग करके आपसे संपर्क करना \n\nकोई भी अनोपचारिक गतिविधि {{link}} पर रिपोर्ट करना सुनिश्चित करे । ⚠️",
+    "DESCRIPTION": "अपना दैनिक ईनाम प्राप्त करें।",
+    "CATEGORY": "CARDS",
+    "EMBED_AUTHOR": "SOFI: **`DAILY`** REWARD ({{author}})",
+    "DAILY_ERROR": "**{{timeout}}** के बाद आप अपना `Daily` प्राप्त कर सकते है।",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> `Common Chest` प्राप्त करने के लिए **{{count}}x** `Daily` बाकी है।",
+    "RARE_CHEST": "<:rarechest:927204672270372874> `Rare Chest` प्राप्त करने के लिए **{{count}}x** `Daily` बाकी है।\n",
+    "NOTE": "⚠️ Discord और Sofi के कर्मचारी कभी-भी आपको आपकी E-mail बदलने की सलाह नही देंगे। सावधान रहे! थर्ड-पार्टी BOTs का उपयोग करके ठगी की जा सकती है।\n\nकोई भी अनोपचारिक गतिविधि {{link}} पर रिपोर्ट करना सुनिश्चित करे! ⚠️",
     "EMBED_FOOTER": "स्ट्रिक [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "आपने अपना `Daily` सफलतापूर्वक प्राप्त कर लिया है!",
+    "DAILY_SUCCESS": "आपका `Daily` सफलतापूर्वक प्राप्त हुआ।",
     "GUILD_BONUS": "**(1.5x Server Bonus!)**",
     "STREAK_BONUS": "+ {{bonus}} स्ट्रीक अधिलाभ"
 }

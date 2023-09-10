@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "आपकी इच्छा सूची से पात्र (character) हटाता है",
+    "DESCRIPTION": "आपकी इच्छा सूची से पात्र हटाता है।",
     "CATEGORY": "WISHLIST",
-    "NO_INDEX": "नाम या नंबर नहीं दिया गया | पूरी पसंदीदा सूची को हटाने के लिए `swr full reset` उपयोग करें",
-    "FULL_RESET": "> {{author}} ने आपनी इच्छा सूची से {{total}} पात्र हटा दिए हैं",
-    "REMOVE_CHARACTER": "> {{author}} ने आपनी इच्छा सूची से {{name}} हटा दिया है",
-    "NO_RESULTS": "> {{author}} आपकी इच्छा सूची में कोई **\"{{name}}\"** नही मिला"
+    "NO_INDEX": "{{author}} सही उपयोग: `{{prefix}}wr <Name/Number>` , पूरी पसंदीदा-सूची साफ करने के लिए `{{prefix}}wr full reset` उपयोग करे।",
+    "FULL_RESET": "{{author}} पसंदीदा-सूची से सभी पात्र सफलतापूर्वक हटाए गए।",
+    "REMOVE_CHARACTER": "{{author}} **{{name}}** आपकी पसंदीदा-सूची से हटाया गया",
+    "NO_RESULTS": "{{author}} आपकी पसंदीदा-सूची से `{{name}}`पात्र ढूंढने में असमर्थ।"
 }

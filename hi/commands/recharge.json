@@ -1,14 +1,14 @@
 {
-    "RG_DESCRIPTION": "एक खाली Glow को भरता है",
+    "RG_DESCRIPTION": "एक खाली Glow को भरता है।",
     "RG_CATEGORY": "COSMETICS",
-    "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glow नहीं हैं",
+    "UNLOCK_GLOWS": "{{author}} आपके पास कोई `Glow` नहीं हैं।",
     "NO_GLOWCDE": "{{author}} सही उपयोग: `{{prefix}}rg <#GlowCode>`",
-    "INVALID_DC_MOVIES": "{{author}} `Glow` कोड हमेशा `#` के साथ शुरू होते है",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा दर्ज किया गया `Glow code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "GLOW_AVAILABLE": "{{author}} वह Glow पहले से ही चार्ज हो चुका है",
-    "EMBED_TITLE": "SOFI: `GLOW` रिचार्ज",
-    "RECHARGE_CONFIRMATION": "क्या आप साहिमे इस `Glow` को चार्ज करना चाहते है?\n\nनाम: **{{name}}**\nकोड: `{{glowCode}}`\nखर्च: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "NO_MONEY": "{{author}} आपके पास यह प्रक्रिया के लिए पर्याप्त `Recharges` नहीं है",
-    "SUCCESSFUL_RECHARGE": "{{author}} आपके **{{glowName}}** `Glow` को सफलतापूर्वक चार्ज कर दिया गया है!",
-    "SUPER_RECHARGE_CONFIRMATION": "क्या आप साहिमे इस `Glow`को चार्ज करना चाहते है?\n\nनाम: **{{name}} (Super)**\nकोड: `{{glowCode}}`\nखर्च: **{{cost}}** <:recharge_sofi:926846363537387530>"
+    "INVALID_DC_MOVIES": "{{author}} `Glow codes` हमेशा `#` के साथ शुरू होते है।",
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया `Glow code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "GLOW_AVAILABLE": "{{author}} वह `Glow` पहले से ही चार्ज्ड है।",
+    "EMBED_TITLE": "SOFI: RECHARGE `GLOW`",
+    "RECHARGE_CONFIRMATION": "क्या आप वाकई में इस `Glow` को चार्ज करना चाहते है?\n\nनाम: **{{name}}**\nकोड: `{{glowCode}}`\nखर्चा: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "NO_MONEY": "{{author}} आपके पास पर्याप्त `Recharges` नहीं है।",
+    "SUCCESSFUL_RECHARGE": "{{author}} आपके **{{glowName}}** `Glow` को सफलतापूर्वक चार्ज किया गया।",
+    "SUPER_RECHARGE_CONFIRMATION": "क्या आप वाकई में इस `Glow` को चार्ज करना चाहते है?\n\nनाम: **{{name}} (Super)**\nकोड: `{{glowCode}}`\nखर्चा: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

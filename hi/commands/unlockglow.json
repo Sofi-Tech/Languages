@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "नया अनियमित \"Glow\" उत्पन्न करता है",
-    "UG_CATEGORY": "सौंदर्य",
-    "EMBED_TITLE": "SOFI: Glow उत्पन्न करें",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} क्या आप वाकई में 100 {{currency}} के बदले में \"Glow\" खरीदना चाहते है?",
-    "CANCELLED_UNLOCK_GLOW": "आपका सौदा रद्द हो गया है",
-    "NOT_ENOUGH_GEMS": "आपके पास पर्याप्त मात्रा में `Gems` नहीं हैं",
-    "EMBED_GLOW_TITLE": "SOFI: GLOW उत्पन्न करें",
-    "UNLOCK_GLOW_SUCCESS": "{{author}}! आपको **{{glowName}}** `#{{glowCode}}`मिला है"
+    "UG_DESCRIPTION": "Glow उत्पन्न करता है।",
+    "UG_CATEGORY": "COSMETICS",
+    "EMBED_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} क्या आप वाकई में **100** {{currency}} के बदले में `Glow` खरीदना चाहते है?",
+    "CANCELLED_UNLOCK_GLOW": "प्रक्रिया रद्द की गई",
+    "NOT_ENOUGH_GEMS": "{{author}} आपके पास पर्याप्त `Gems` नहीं हैं।",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} आपको **{{glowName}}** । `#{{glowCode}}` मिली है।"
 }

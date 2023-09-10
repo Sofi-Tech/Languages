@@ -1,15 +1,15 @@
 {
     "GN_DESCRIPTION": "Glow का नाम बदले",
     "GN_CATEGORY": "COSMETICS",
-    "UNLOCK_GLOWS": "{{author}} आपके पास कोई Glows नहीं हैं",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gn <glowcode><newname`",
+    "UNLOCK_GLOWS": "{{author}} आपके पास कोई `Glows` नहीं हैं।",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gn <GlowCode><NewName`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow codes ` हमेशा `#` से शुरू होते है।",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा दर्ज किया गया `Glow code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "GLOW_NAME_LONG": "{{author}} Glow का नाम बहुत लंबा है। 25 वर्ण से कम कोशिश करें",
-    "GLOW_NAME_EXISTS": "{{author}} Glow का नाम पहले से ही कहीं दिया गया कृपया नया नाम सोचे",
-    "EMBED_TITLE": "SOFI: Glow नाम",
-    "GLOWNAME_CHANGE_CONFIRMATION": "क्या आप वाकई में `{{oldName}}` को `{{newName}}`से बदलना चाहते हैं?",
-    "MISSING_ITEMS": "इस प्रक्रिया के लिए आपके पास पर्याप्त राशि नहीं है",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "Glow नाम सफलतापूर्वक अपडेट किया गया",
-    "PROFANE_GLOW_NAME": "{{author}} नाम दर्ज करने युक्त नहीं है। कोई और नाम देवे"
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया `Glow code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "GLOW_NAME_LONG": "{{author}} `Glow` का नाम अधिकतम **25** वर्ण का हो सकता है।",
+    "GLOW_NAME_EXISTS": "{{author}} यह नाम पहले से किसी और `Glow` को दिया गया है।",
+    "EMBED_TITLE": "SOFI: GLOW NAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "क्या आप वाकई में `Glow`का नाम ` {{oldName}}` से `{{newName}}` बदलना चाहते हैं?",
+    "MISSING_ITEMS": "{{author}} आपके पास पर्याप्त `{{currency}}` नही है।",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} `Glow` का नाम `{{newName}}` सफलतापूर्वक बदला गया।",
+    "PROFANE_GLOW_NAME": "{{author}} आपकी `Glow` के नाम में अपशब्द का प्रयोग नही होना चाहिए।"
 }
