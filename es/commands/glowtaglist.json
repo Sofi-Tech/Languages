@@ -2,5 +2,7 @@
     "GTL_DESCRIPTION": "Muestra una lista con tus \"Glow Tags\"",
     "GTL_CATEGORY": "Tags",
     "NO_TAGS": "{{author}} Aún no tienes ningún `Glow Tag`",
-    "EMBED_TITLE": "SOFI: `GLOW TAG` LIST"
+    "EMBED_TITLE": "SOFI: `GLOW TAG` LIST",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_other": "{{count}} Glows"
 }

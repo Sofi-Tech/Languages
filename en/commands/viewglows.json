@@ -13,10 +13,10 @@
     "CANNOT_FIND_GLOW": "{{author}} Could not find any `Glow` with the code: `{{glowCode}}`",
     "INVALID_USER": "{{author}} Could not find that user",
     "EMBED_GLOW_TITLE": "SOFI: VIEW `GLOWS`",
-    "NAME": "`Name:     ` ➜ {{name}}",
+    "NAME": "`Name:     ` ➜ **{{name}}**",
     "CODE": "`Code:     ` ➜ `#{{code}}`",
     "STATUS": "`Status:   ` ➜ **{{status}}**",
-    "TYPE": "`Type:     ` ➜ {{type}}",
+    "TYPE": "`Type:     ` ➜ **{{type}}**",
     "OWNER": "`Owner:    ` ➜ <@{{ownerId}}>",
     "PURITY": "Purity :  ➜ {{purity}}",
     "PURITY2": "Purity2:  ➜ {{purity2}}"
