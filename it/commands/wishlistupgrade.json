@@ -7,7 +7,7 @@
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Ricevi:",
     "EMBED_GET_FIELD_VALUE": "```{{count}} slot aggiuntivi per wishlist```",
-    "EMBED_MAXED_DESCRIPTION": "Sei sicuro di voler sbloccare completamente il tuo wishlist per **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_DESCRIPTION": "Sei sicuro di voler aumentare la tua wishlist al massimo per **{{amount}}** `{{currency}}`?",
     "EMBED_MAXED_FIELD_VALUE": "```Slot massimi di wishlist (50 Slots)```",
     "CANCELLED": "Il processo è stato annullato",
     "PAY_ERROR": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",

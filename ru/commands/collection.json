@@ -33,6 +33,6 @@
     "TAG_MODAL_PLACEHOLDER": "Вместо этого используйте \"-\", чтобы убрать \"Tag\" с нескольких с карт",
     "TAG_MODAL_TITLE": "Введите \"Tag\"",
     "TAG_NO_CARDS_FOUND": "{{author}} Не удалось найти карт с `Tag`: `{{arg}}`",
-    "EMBED_FOOTER": "Страницы: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
+    "EMBED_FOOTER": "Страница: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
     "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной `Tag` с названием: `{{arg}}`"
 }
