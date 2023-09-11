@@ -35,11 +35,19 @@
     "SET_BG_CONFIRM": "क्या आप निश्चित है की आपको **{{selectedbg}}** बैकग्राउंड को **{{amount}}** के लिए खरदीना है {{emoji}}?",
     "CANNOT_FIND_ACH": "{{user}} इस IDs से कोई पुरुस्कार प्राप्त नहीं हुआ : {{ids}}",
     "MAX_AWARDS_DISPLAY": "{{author}} आप केवल 6 पुरुस्कार ही प्रदर्शित कर सकते है",
-    "SELECT_FROM_OPTIONS": "**इनमे से एक पात्र चुने**:\n\n{{charPages}}",
+    "SELECT_FROM_OPTIONS": "{{charPages}}",
     "PC_INTRO": "<:_:979009081325019156> **परिचय**: अपना परिचय लिखे\n<:_:979009081325019156> **पसंदीदा पात्र**: अपना पसंदीदा पात्र चुने जो आपकी Profile में दर्शाया जा सके\n<:_:979009081325019156> **पत्ता दर्शाए**: Profile में दर्शाने के लिए पत्ता चुने\n<:_:979009081325019156> **Background**: Profile का Background लगाए\n<:_:979009081325019156> **फॉन्ट रंग**: अपने Profile के शब्दों का रंग बदले\n<:_:979009081325019156> **Profile Glow**: अपने Profile पर Glow प्रभाव लगाए\n<:_:979009081325019156> **पुरस्कार प्रदर्शित **: अपने पुरुष्कार Profile में दर्शाए",
     "AD_MENU_LABEL": "पुरस्कार प्रदर्शित",
     "VIEW_PROFILE_BGS": "[सभी मौजूद Backgrounds देखे](https://sofi.gg/profile/background)",
     "NON_TRADABLE_NOTE": "Profile Background सौदे योग्य नहीं है।",
     "PROVIDE_ACH_ID": "आपकी प्रोफाइल के पुरस्कार बाए तरफ से दाहिने तरफ दिखाए जा रहे है।",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया `Glow code` अमान्य है या आपके संग्रह में मौजूद नहीं है।"
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया `Glow code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "SUCCESSFUL_INTRO": "{{author}} आपका परिचय मैसेज सफलतापूर्वक तय हो गया है।",
+    "SET_FONT_GLOW": "क्या आप निश्चित है की आपको **{{glowName}}** `Glow` को अपने प्रोफाइल फोंट में लगाना है?",
+    "SUCCESSFUL_BACKGROUND": "{{author}} सफलतापूर्वक **{{बैकग्राउंडनेम}}** को आपके प्रोफाइल का बैकग्राउंड तह कर दिया गया है।",
+    "SUCCESSFUL_AWARDS": "{{author}} चुने गए पुरस्कारों को सफलतापूर्वक आपके प्रोफाईल में लगा दिया गया है",
+    "SUCCESSFUL_FONT_COLOR": "{{author}} सफलतापूर्वक **{{glowName}}** `Glow` को आपके प्रोफाइल के फोंट में लगा दिया गया है।",
+    "SUCCESSFUL_PROFILE_GLOW": "{{author}} सफलतापूर्वक **{{glowName}}** को आपके प्रोफाइल का `Glow`तह कर दिया गया है।",
+    "SUCCESSFUL_CHARACTER": "{{author}} सफलतापूर्वक **{{characterName}}** को आपका पसंदीदा पात्र तह कर दिया गया है।",
+    "SUCCESSFUL_DISPLAY_CARD": "{{author}} सफलतापूर्वक **{{characterName}}** को आपका प्रदर्शन पत्ता तह कर दिया गया है"
 }

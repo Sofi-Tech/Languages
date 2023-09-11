@@ -3,7 +3,7 @@
     "UT_CATEGORY": "Отметки",
     "UT_EMPTY_COLLECTION": "{{author}} У вас в коллекции пока нет ни одной карты",
     "UNTAG_SUCCESSFUL": "{{author}} `Tag` успешно удалена с карты **{{cardName}}**",
-    "INVALID_CODE": "{{author}} Данный код карты недействителен или не является частью вашего инвентаря",
+    "INVALID_CODE": "{{author}} Данный код карты недействителен или не является частью вашей коллекции",
     "MULTIPLE_UNTAG": "{{author}} `Tag` успешно удалена с **{{count}}** карт",
-    "INVALID_CODE_MULTIPLE": "{{author}} Следующие коды карт недействительны или не являются частью вашего инвентаря:\n{{invalidCodeList}}"
+    "INVALID_CODE_MULTIPLE": "{{author}} Следующие коды карт недействительны или не являются частью вашей коллекции:\n{{invalidCodeList}}"
 }

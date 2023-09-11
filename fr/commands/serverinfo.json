@@ -1,1 +1,14 @@
-{}
+{
+    "SI_NAME_UNAVAILABLE": "Nom indisponible",
+    "SI_TOP_SERVERS": "**Top Serveur** | Réinitialisations dans : **{{countdown}}**",
+    "SI_DESCRIPTION": "Affiche les statistiques du serveur",
+    "SI_CATEGORY": "Paramètres",
+    "EMBED_FOOTER": "Prefix du serveur: \"{{prefix}}\"",
+    "EMBED_AUTHOR": "SOFI: INFO DU SERVEUR | {{guildName}}",
+    "SI_SPAWN_CHANNEL": "Salon d'Apparition",
+    "SI_TOTAL_DROPS": "Total de Drops",
+    "SI_TOTAL_BURNT": "Total de Burn",
+    "SI_TOTAL_GRABS": "Total de Grab",
+    "SI_TOTAL_GIVEN": "Total Donné",
+    "SI_TOTAL_TRADES": "Total de Trades"
+}

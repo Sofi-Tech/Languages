@@ -2,10 +2,11 @@
     "DESCRIPTION": "Rechercher des séries spécifiques",
     "NO__LAST_CHAR_FOUND": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
     "NO_CHAR_FOUND": "{{author}} Cette série ne possède pas encore de personnages",
-    "NO_SERIES_FOUND": "{{author}} Aucune série trouvée avec le nom `{{name}}`",
-    "SERIES": "__SÉRIES__",
+    "NO_SERIES_FOUND": "{{author}} Aucune série trouvée avec le nom: `{{name}}`",
+    "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} Une erreur est survenue. Veuillez réessayer",
     "CARD_COLLECTED": "Cartes Collectées: **{{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Total Liste de souhaits : **__{{wlCount}}__**",
-    "CHARACTERS": "Personnages"
+    "TOTAL_WL": "Total Liste de souhaits : **{{wlCount}}**",
+    "CHARACTERS": "**__Personnages__**",
+    "SERIES_NAME": "Nom: **{{seriesName}}**"
 }
