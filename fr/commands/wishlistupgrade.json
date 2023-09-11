@@ -10,5 +10,5 @@
     "EMBED_MAXED_DESCRIPTION": "Voulez-vous maximiser la capacité de votre liste de souhaits pour {{amount}} {{currency}}?",
     "EMBED_MAXED_FIELD_VALUE": "```Déverrouillez la totalité de votre liste de souhaits (50 emplacements)```",
     "CANCELLED": "Le processus a été annulé",
-    "PAY_ERROR": "`Vous ne possédez pas {{amount}} {{currency}}`"
+    "PAY_ERROR": "{{author}} Vous ne possédez pas assez de `{{currency}}` pour ce processus"
 }

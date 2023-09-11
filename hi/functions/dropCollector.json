@@ -1,12 +1,12 @@
 {
-    "EXTRA_GRAB": "{{user}} आपके **Extra Grab** का इस्तेमाल हो रहा है। आपके पास **{{remaining}}** शेष है",
-    "GRAB_COOLDOWN": "{{user}} दुबारा `Grab`करने के लिए {{cooldown}} देर प्रतीक्षा करे",
-    "EVENT_GRAB": "{{user}} ने **{{amount}}** `{{eventItem}}`🍙 उठाया",
+    "EXTRA_GRAB": "{{user}} आपके `Extra Grab` का उपयोग हो रहा है। आपके पास **{{remaining}}** और शेष है।",
+    "GRAB_COOLDOWN": "{{user}} दुबारा `Grab` करने के लिए {{cooldown}} देर प्रतीक्षा करे।",
+    "EVENT_GRAB": "{{user}} ने {{currencyEmoji}} **{{amount}}** `{{eventItem}}` उठाए।",
     "CANNOT_BE_GRABBED": "इन पत्तो को अब हासिल नहीं किया जा सकता",
-    "TOOK_CARD": "{{user}} ने उठाया **{{character}}** पत्ता (`{{code}}`) | {{elementEmoji}} **{{elementName}}** (**{{eventCardInfo}}**)",
-    "GRAB_CARD_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
+    "TOOK_CARD": "{{user}} ने उठाया **{{character}}** पत्ता (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} ने <@{{userId}}> से **{{amount}}** `{{eventItem}}` छीने",
-    "CARDS_DROPPED_BY": "{{user}} ने पत्ते Drop किए\n",
-    "GRAB_EVENT_ITEM": "{{winner}} ने **{{userCount}}**अन्य खिलाड़ियों से जूझ कर पाया **{{amount}} ** `{{eventItem}}`",
-    "GRAB_CARD": "{{winner}} ने {{user}} से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**"
+    "CARDS_DROPPED_BY": "{{user}} ने पत्ते **Drop** किए\n",
+    "GRAB_EVENT_ITEM": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जूझ कर पाया **{{amount}} ** `{{eventItem}}`",
+    "GRAB_CARD": "{{winner}} ने {{user}} से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}"
 }
