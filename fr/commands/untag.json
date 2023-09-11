@@ -1,6 +1,9 @@
 {
-  "UT_DESCRIPTION": "Retire les \"Tags\" de vos cartes",
-  "UT_CATEGORY": "Tags",
-  "UT_EMPTY_COLLECTION": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
-  "UNTAG_SUCCESSFUL": "**{{cardName}}** A vu son `Tag` supprimé avec succès"
+    "UT_DESCRIPTION": "Retire les \"Tags\" de vos cartes",
+    "UT_CATEGORY": "Tags",
+    "UT_EMPTY_COLLECTION": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
+    "UNTAG_SUCCESSFUL": "{{author}} Le `Tag` a été supprimé avec succès de votre carte **{{cardName}}**",
+    "MULTIPLE_UNTAG": "{{author}} Le `Tag` a été supprimé avec succès des **{{count}}** cartes",
+    "INVALID_CODE": "{{author}} Le code de carte fourni n'est soit pas dans votre inventaire soit invalide",
+    "INVALID_CODE_MULTIPLE": "{{author}} Les codes de carte suivants sont soit invalides, soit ne font pas partie de votre collection:\n\n{{invalidCodeList}}"
 }
