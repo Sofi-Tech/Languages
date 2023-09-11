@@ -1,12 +1,16 @@
 {
     "DESCRIPTION": "Affiche une carte",
     "SLASH_DESC1": "Entrez le code d'une carte",
-    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide",
+    "INVALID_CODE": "{{author}} Le code de la carte est invalide",
     "SERIES": "Série:",
     "NAME": "Nom:",
     "OWNED_BY": "Possédée Par:",
-    "SERVER": "Serveur",
+    "SERVER": "Serveur:",
     "CLAIMED": "Claim",
-    "MOVES": "Compétences:",
-    "OWNER_HISTORY": "Historique des Propriétaires"
+    "MOVES": "Compétences",
+    "OWNER_HISTORY": "Historique des Propriétaires",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Puissance **({{percentage}}%)**",
+    "NO_PREVIOUS_OWNERS": "Aucun",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "PREVIOUS_OWNERS": "**__Propriétaires Précédents__**"
 }
