@@ -8,14 +8,14 @@
     "MENU_GLOW_LABEL": "ग्लो",
     "MENU_BG_LABEL": "बैकग्राउंड",
     "PROVIDE_CODES": "{{author}} सही उपयोग: `{{prefix}}swap <code1> <code2>`",
-    "NO_GIF": "{{author}} आप `GIF` पत्ते पर Swap उपयोग नहीं कर सकते है।",
-    "NO_COSMETICS": "{{author}} प्रदान किए गए कोड पर बदलने के लिए कोई सौंदर्य नहीं है।",
+    "NO_GIF": "{{author}} आप `GIF` पत्ते पर Swap उपयोग नहीं कर सकते",
+    "NO_COSMETICS": "{{author}} प्रदान किए गए पत्ते पर बदलने के लिए कोई सौंदर्य नहीं है।",
     "MENU_FEATURES_PLACEHOLDER": "विकल्प चुने",
     "EMBED_TITLE": "SOFI: SWAP",
-    "EMBED_FOOTER": "इस प्रक्रिया में \"Swap Token\" का उपयोग किया जाएगा",
+    "EMBED_FOOTER": "इस प्रक्रिया में \"Swap Token\" का उपयोग होगा",
     "SWAPS_CHOSEN": "क्या आप वाकई में निम्न सौंदर्य अदल-बदल करना चाहते है?\n",
     "MISSING_SWAP_TOKEN": "{{author}} इस प्रक्रिया के लिए `Swap Token` जरूरी है।",
     "DOES_NOT_WORK": "{{author}} आपको एक्सप्लॉइट करने का प्रयास नहीं करना चाहिए, यदि आपको कोई योग्य बग मिलता है, तो कृपया उन्हें सीधे Sofi के कर्मचारियों को रिपोर्ट करें!",
-    "SWAP_SUCCESSFUL": "{{author}} चुने हुए सौंदर्य का swap सफलतापूर्वक कर दिया गया है।",
+    "SWAP_SUCCESSFUL": "{{author}} चुने हुए सौंदर्य को सफलतापूर्वक swap करा गया",
     "INVAILD_CODE": "{{author}} आपके द्वारा प्रदान किए गए कोड में से एक अमान्य है या आपके संग्रह में मौजूद नहीं है।"
 }
