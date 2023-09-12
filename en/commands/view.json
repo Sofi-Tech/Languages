@@ -12,5 +12,6 @@
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
     "OWNER_HISTORY": "Owner History",
     "PREVIOUS_OWNERS": "**__Previous Owners__**",
-    "NO_PREVIOUS_OWNERS": "None"
+    "NO_PREVIOUS_OWNERS": "None",
+    "SPECIAL": "Special"
 }
