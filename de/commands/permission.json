@@ -34,5 +34,8 @@
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} Du kannst keine Whitelist Befehle von der Schwarzen Liste entfernen",
     "WHITELIST_ALREADY_ACTIVE": "{{author}} Du kannst keine Schwarze Liste- Befehle von der Whitelist entfernen",
     "NO_PERMS_SETUP": "{{author}} Diese Berechtigung wurde in diesem Channel noch nicht erteilt. Benutze `{{prefix}}p [BL/WL] [Add] <CommandNames/All>` dafür",
-    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle Befehle wurden erfolgreich von diesem Kanal {{listName}} entfernt"
+    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle Befehle wurden erfolgreich von diesem Kanal {{listName}} entfernt",
+    "REMOVE_COMMANDS_ERROR": "{{author}} Die von dir angegebenen Befehle befinden sich entweder nicht auf {{listName}} dieses Kanals oder sind ungültig",
+    "RESET_PERMS_CONFIRM": "Bist du sicher, dass du die Befehlsberechtigungen dieses Kanals auf den Standardzustand zurücksetzen möchtest?",
+    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Die folgenden Befehle wurden erfolgreich aus {{listname}} dieses Kanals entfernt: {{commandsList}}"
 }

@@ -1,10 +1,11 @@
 {
     "UG_DESCRIPTION": "Generiert einen zufälligen \"Glow\"",
     "UG_CATEGORY": "Kosmetika",
-    "EMBED_TITLE": "SOFI: GLOW GENERIEREN",
+    "EMBED_TITLE": "SOFI: `GLOW` GENERIEREN",
     "UNLOCK_GLOW_CONFIRM": "{{author}} Bist du dir sicher, dass du einen zufälligen `Glow` für **100** {{currency}} freischalten möchtest?",
     "CANCELLED_UNLOCK_GLOW": "Der Vorgang wurde abgebrochen",
     "NOT_ENOUGH_GEMS": "{{author}} Du hast nicht genügend `Gems`",
-    "EMBED_GLOW_TITLE": "SOFI: GLOW GENERIEREN",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} Du hast den **{{glowName}}** `Glow` erhalten | `#{{glowCode}}`"
+    "EMBED_GLOW_TITLE": "SOFI: `GLOW` GENERIEREN",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Du hast den **{{glowName}}** `Glow` erhalten | `#{{glowCode}}`",
+    "GLOW_INFO": "Name: `{{glowName}}` \nCode: `#{{glowCode}}` \nReinheit: `{{purity}} %`"
 }

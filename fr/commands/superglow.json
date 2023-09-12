@@ -7,8 +7,8 @@
     "NO_USE_SG": "{{author}} Vous ne pouvez pas utiliser de `Super Glows` pour ce processus",
     "SAME_GLOWS": "{{author}} Vous ne pouvez pas utiliser le même `Glow` plus d'une fois",
     "EMBED_TITLE": "SOFI: SUPER GLOW",
-    "FORM_SG_CONFIRM": "Vous êtes sur le point d'utiliser les `Items` suivant:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nafin d'obtenir le `Super Glow` **`{{superGlowName}}`**",
-    "MISSING_RESINS": "Vous n'avez pas suffisamment de `Resin` pour créer un `Super Glow`",
+    "FORM_SG_CONFIRM": "Vous êtes sur le point de fusionner les `Items` suivants:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin\n\nen le `Super Glow`**{{superGlowName}}** ?",
+    "MISSING_RESINS": "{{author}}Vous n'avez pas suffisamment de `Resin` pour ce processus",
     "SUPER_GLOW_SUCCESSFUL": "Vos `Glows` on été `Merged` avec succès!\n",
     "FORM_SG_FOOTER": "Tous les Glows utilisés dans ce processus seront détruits! Ce processus est irréversible, qu'il sois chargé ou vide"
 }

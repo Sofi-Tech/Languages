@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "Sei sicuro di voler rimuovere la `Morph` di questa carta?\nQuesto processo costerà **100** `Silver`",
     "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
     "SOMETHING_WENT_WRONG": "{{author}} Qualcosa è andato storto, riprova",
-    "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `Silver` per questo processo",
+    "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
     "UM_SUCCESSFUL": "Il `Morph` è stato rimosso con successo"
 }

@@ -11,13 +11,13 @@
     "NO_GLOWS_FOUND": "{{author}} No tienes ningún `Tag` con el nombre: `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} No se ha podido encontrado ningún `Glow` con el código: `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VIEW `GLOWS`",
-    "NAME": "`Nombre:     ` ➜ **{{name}}**",
-    "CODE": "`Código:     ` ➜ `#{{code}}`",
-    "STATUS": "`Estado:   ` ➜ **{{status}}**",
-    "TYPE": "`Tipo:     ` ➜ **{{type}}**",
-    "OWNER": "`Propietario:    ` ➜ <@{{ownerId}}>",
-    "PURITY": "Pureza :  ➜ {{purity}}",
+    "NAME": "`Nombre     ` ➜ **{{name}}**",
+    "CODE": "`Código     ` ➜ `#{{code}}`",
+    "STATUS": "`Estado   ` ➜ **{{status}}**",
+    "TYPE": "`Tipo     ` ➜ **{{type}}**",
+    "OWNER": "`Propietario    ` ➜ <@{{ownerId}}>",
+    "PURITY": "Pureza   ➜ {{purity}}",
     "NO_GLOWS_SELF": "{{author}} Aún no tienes ningún `Glow`",
     "INVALID_USER": "{{author}} No se ha podido encontrar a ese usuario",
-    "PURITY2": "Pureza2:  ➜ {{purity2}}"
+    "PURITY2": "Pureza2  ➜ {{purity2}}"
 }

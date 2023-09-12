@@ -28,5 +28,6 @@
     "CARD_LOCKED": "{{user}} Die folgenden Karten sind entweder gesperrt oder werden derzeit in einem Deck verwendet und konnten nicht hinzugefügt werden:\n{{codes}}",
     "MEMBER_NOT_VERIFIED": "{{author}} Dieser Benutzer ist nicht verifiziert",
     "CARD_TAG_LOCKED": "{{author}} Du kannst keine `Tags` handeln, die gesperrte Karten enthalten",
-    "MT_TRADE_ERROR": "⚠️Einige der in diesem Handelsfenster bereitgestellten Gegenstände und Karten sind nicht mehr gültig!"
+    "MT_TRADE_ERROR": "⚠️Einige der in diesem Handelsfenster bereitgestellten Gegenstände und Karten sind nicht mehr gültig!",
+    "NOTE_BUTTON_LABEL": "Notiz"
 }
