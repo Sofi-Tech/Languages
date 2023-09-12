@@ -6,6 +6,6 @@
     "CANCELLED_UNLOCK_GLOW": "El proceso ha sido cancelado",
     "NOT_ENOUGH_GEMS": "{{author}} No tienes suficientes `Gems`",
     "EMBED_GLOW_TITLE": "SOFI: GENERAR `GLOW`",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} Has obtenido el `Glow` **{{glowName}}** | `#{{glowCode}}`",
-    "GLOW_INFO": "Nombre: `{{glowName}}` \nCódigo: `#{{glowCode}}` \nPureza: `{{purity}} %`"
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Comprado con éxito un `Glow`",
+    "GLOW_INFO": "Nombre: **{{glowName}}**\nCódigo: **`#{{glowCode}}`**\nPureza: **{{purity}}%**"
 }

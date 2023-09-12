@@ -2,7 +2,7 @@
     "DESCRIPTION": "显示个卡片的信息",
     "SLASH_DESC": "请输入您要查看卡片的代码",
     "NO_CARD_FOUND": "没有找到您最后一张卡片。请输入一个卡片代码",
-    "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效或不在您的收藏中",
+    "INVALID_CARD_CODE": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
     "CARD_GLOWED": "应用的 `{{isSuper}}Glow`: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "字体颜色：**{{fontName}}** (`#{{viewCode}}`)\n",
     "CARD_FRAMED": "应用的`Frame` : **{{frameName}}**\n",

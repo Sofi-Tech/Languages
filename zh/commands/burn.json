@@ -5,7 +5,7 @@
     "CANCELLED": "过程已取消",
     "BURN_FRAG_WARN": "您即将燃烧`Fragment`\n`Fragment`代码：`{{fragCode}}`",
     "FRAG_NOT_FOUND": "没有找到`Fragment`",
-    "CARD_NOT_FOUND": "找不到该卡牌",
+    "CARD_NOT_FOUND": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
     "CARD_LOCKED": "卡牌已锁定",
     "CARD_NOT_OWNED": "你不拥有那张卡",
     "SERIES": "系列：",

@@ -1,7 +1,7 @@
 {
     "3D_DESCRIPTION": "把您的卡片转换成 3D 版本",
     "3D_CATEGORY": "化妆品",
-    "INVALID_CARD_CODE": "{{author}} 您所输入的卡片代码无效或不在您的收藏中",
+    "INVALID_CARD_CODE": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
     "NO_GIF_CONVERSION": "{{author}} `GIF`类型的卡片无法转换为 `3D`版本",
     "CARD_3D_ALREADY": "{{author}} 这个卡片以被转换成 `3D` 版本",
     "NO_EVENT_CARD_CONVERSION": "{{author}} 您无法把 event 卡片转换成正常 `3D` 版本",
