@@ -1,7 +1,7 @@
 {
   "ACH_DESCRIPTION": "يعرض قائمة من الإنجازات المتاحة",
   "ACH_CATEGORY": "الإعدادات",
-  "CLAIMED": "تم الحصول عليه",
+  "ACH_CLAIMED": "تم الحصول عليه",
   "ACH_EMBED_TITLE": "SOFI: الإنجازات ({{totalClaimed}}/{{achWithPercent}})",
   "FAN_EMBED_TITLE": "SOFI: شخصيات المعجبين",
   "ACH_LOADING": "جارٍ التحميل <a:ping:876612181725167687>",
