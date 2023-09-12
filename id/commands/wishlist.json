@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Menampilkan wishlist anda",
     "CATEGORY": "Wishlist",
-    "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",
+    "USER_NOT_FOUND": "{{author}} Tidak bisa menemukan user tersebut",
     "WISHLIST_PRIVATE": "{{author}} Pengguna tersebut telah mengatur daftar keinginan mereka menjadi pribadi",
     "WISHLIST_EMPTY": "{{author}} Daftar keinginan pengguna tersebut kosong",
     "WISHLIST_EMBED_TITLE": "SOFI: DAFTAR KEINGINAN ({{username}}) [{{length}}/{{slots}}]]",
