@@ -1,15 +1,15 @@
 {
     "GN_DESCRIPTION": "「Glow (輝き)」の名前を更新する",
     "GN_CATEGORY": "コスメティック",
-    "UNLOCK_GLOWS": "{{author}} 「`Glow`」は持っていません",
+    "UNLOCK_GLOWS": "{{author}} `Glow`を持っていません",
     "WRONG_USAGE": "{{author}} 正しい使い方は： `{{prefix}}gn <#Glowコード> <新しい名前>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} 「`Glow`」のコードの最初には必ず **#** を付けます",
-    "GLOW_NOT_FOUND": "{{author}} 提供された 「`Glow`」 コードが無効またはインベントリーにありません",
-    "GLOW_NAME_LONG": "{{author}}「`Glow`」の名前は**25**文字以下に書いてください",
-    "GLOW_NAME_EXISTS": "{{author}} その「`Glow`」の名前はすでに使用されています",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`のコードの最初には必ず **#** を付けます",
+    "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
+    "GLOW_NAME_LONG": "{{author}} `Glow`の名前は**25**文字以下に書いてください",
+    "GLOW_NAME_EXISTS": "{{author}} その`Glow`の名前はすでに使用されています",
     "EMBED_TITLE": "SOFI：「Glow (輝き)」の名前",
-    "GLOWNAME_CHANGE_CONFIRMATION": "「`Glow`」の名前を`{{oldName}}` から `{{newName}}` に本当に変更したいですか？",
+    "GLOWNAME_CHANGE_CONFIRMATION": "`Glow`の名前が`{{oldName}}` から `{{newName}}` に更新を確認してください",
     "MISSING_ITEMS": "{{author}} この過程を実行する`{{currency}}`が足りません",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}}「`Glow`」の名前が`{{newName}}`に成功で更新されました",
-    "PROFANE_GLOW_NAME": "{{author}} 「`Glow`」の名前に醜語は**禁止**されています"
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} `Glow`の名前が`{{newName}}`に成功で更新されました",
+    "PROFANE_GLOW_NAME": "{{author}} `Glow`の名前に醜語は**禁止**されています"
 }

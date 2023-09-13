@@ -19,5 +19,6 @@
     "NOIR_FOUND": "Du hast eine <:noiressence:1115496193775116411> `Noir Essence` in deiner Truhe gefunden!",
     "EMBED_TITLE": "SOFI: OPEN (`{{itemName}}`)",
     "GUILD_CHEST_FOOTER": "Du kannst eine \"Gildenkiste\" am Ende jeder Saison erhalten",
-    "GUILD_PACKAGE_SUCCESS": "Glückwunsch! Dein `Guild Package` enthielt die **{{charName}}** `3D-V2`-Karte und 💳 **{{amount}}x** `Gen Scratcher`\n\n- **__Aktueller Kartenpool __**\n{{poolLine}}"
+    "GUILD_PACKAGE_SUCCESS": "Glückwunsch! Dein `Guild Package` enthielt die **{{charName}}** `3D-V2`-Karte und 💳 **{{amount}}x** `Gen Scratcher`\n\n- **__Aktueller Kartenpool __**\n{{poolLine}}",
+    "CLAIMED": "beansprucht"
 }

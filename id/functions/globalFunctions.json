@@ -1,5 +1,13 @@
 {
     "GUILD_FOUNDER": "Pendiri",
     "GUILD_MASTER": "Pemimpin Guild",
-    "GUILD_VETERANS": "Veteran"
+    "GUILD_VETERANS": "Veteran",
+    "NOT_ENOUGH_AMOUNT": "{{author}} Kamu tidak memiliki cukup `{{item}}` untuk melakukan transaksi ini",
+    "GS_EMBED_FOOTER": "Penawaran ini akan berakhir pada {{date}}",
+    "YOU_GET": "Kamu menerima: {{additionalInfo}}",
+    "SWAP_EMBED_FOOTER": "Proses ini akan menukar kode antara 2 kartu tersebut",
+    "SOMETHING_WENT_WRONG": "{{author}} Terjadi error! Semua item yang dikurangkan telah dikembalikan ke dalam inventaris",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Berhasil membeli **{{amount}}** `{{itemName}}`",
+    "YOU_PAY": "Kamu membayar: {{additionalInfo}}",
+    "NEED_GEMS": "{{author}} Kamu tidak memiliki cukup `{{currency}}` untuk menukar kode kartu"
 }

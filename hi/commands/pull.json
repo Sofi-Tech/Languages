@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "यह विभिन्न \"Items\" जैसे \"Swap\" \"Charms\" और \"Fragments\" जो एनिमेटेड पत्तो के लिए काम आता है उसको \"Pull\" करता है",
-    "PULL_AMT": "{{author}} सही इस्तेमाल: `{{prefix}}pull <1/10>`",
-    "INFO_1": "पात्र के `GIF` प्रकार को बनाने के लिए आपको उसके 8 `Fragments` चाहिए",
-    "INFO_2": "`GIF` पत्तो के हर पात्र के अधिकतम **100** प्रकार होते है",
+    "DESCRIPTION": "यह विभिन्न Items जैसे Swap ,Charms और Fragments जो एनिमेटेड पत्तो के लिए काम आते है उसको Pull करता है।",
+    "PULL_AMT": "{{author}} सही उपयोग: `{{prefix}}pull <1/10>`",
+    "INFO_1": "पात्र को `GIF` प्रकार में बदलने के लिए उसके 8 `Fragments` होना अनिवार्य हैं।",
+    "INFO_2": "`GIF` पत्तो के हर पात्र के अधिकतम **100** प्रकार होते है।",
     "INFO_3": "`Fragments` को जलाकर `Charms` प्राप्त करें",
     "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Pull की संख्या: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} आपके पास **{{amount}}** `{{currName}}` नहीं हैं",
-    "AMOUNT": "मात्रा: {{amount}}",
-    "PULL_COUNT_WIST": "Pull की संख्या: {{pullcount}}",
+    "PULL_COUNT": "Pull संख्या: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} आपके पास इस प्रक्रिया के लिए पर्याप्त `{{currName}}` नहीं हैं।",
+    "AMOUNT": "आप प्राप्त करते है: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "PULL_COUNT_WIST": "Pull संख्या: {{pullcount}}",
     "RATES": "दाम",
     "PULL_CHANCES": "**__संभावनाएं__**"
 }

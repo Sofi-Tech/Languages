@@ -1,6 +1,6 @@
 {
-    "LOTTERY_WON": "Selamat! Anda telah memenangkan undian Sofi Halloween 2D! 🎃",
-    "MENTION_ERROR": "Gunakan awalan server `{{prefix}}` atau `/`untuk menjalankan perintah",
+    "LOTTERY_WON": "Selamat! Anda telah memenangkan undian Sofi {{event}} 2D! 🎃",
+    "MENTION_ERROR": "{{author}} Gunakan awalan server `{{prefix}}` atau `/`untuk menjalankan perintah",
     "RATE_LIMIT_ERROR": "Karena aktivitas yang tinggi, batas kapasitas telah tercapai! Harap tunggu.",
     "VERIFY_BUTTON_LABEL": "Verifikasi",
     "SUPPORT_BUTTON_LABEL": "Support",

@@ -1,1 +1,6 @@
-{}
+{
+    "DROP_CARDS": "定时器过后时，将生产投票最多系列的 **2** 个随机卡！\n",
+    "NO_VOTES": "由于没系列被投票，生产卡片已被取消！",
+    "DROP_WILL_HAPPEN": "\n生产卡片中 <t:{{timestamp}}:R>",
+    "NOT_ENOUGH_CHARACTERS": "被选择的系列没有足够的角色来生产卡片"
+}

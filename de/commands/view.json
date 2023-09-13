@@ -5,12 +5,13 @@
     "SERIES": "Serie:",
     "NAME": "Name:",
     "OWNED_BY": "In Besitz von:",
-    "SERVER": "Server:",
-    "CLAIMED": "Beansprucht",
+    "SERVER": "Server-ID",
+    "CLAIMED": "Beansprucht am:",
     "MOVES": "Fähigkeiten",
     "OWNER_HISTORY": "Besitzer-Geschichte",
     "NO_PREVIOUS_OWNERS": "Keine",
     "EMBED_TITLE": "SOFI: ANSICHT",
     "PREVIOUS_OWNERS": "**__Vorherige Besitzer__**",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Wirksamkeit **({{percentage}}%)**"
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Wirksamkeit **({{percentage}}%)**",
+    "SPECIAL": "Besonders"
 }

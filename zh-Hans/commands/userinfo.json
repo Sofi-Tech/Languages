@@ -1,1 +1,17 @@
-{}
+{
+    "UI_GIVEN": "给过",
+    "UI_DESCRIPTION": "展示用户统计",
+    "UI_CATEGORY": "设置",
+    "UI_SLASH_DESC": "请选您要检查的用户",
+    "UI_3D": "3D",
+    "UI_ATTACKS": "攻击术",
+    "CANNOT_FIND_USER": "{{author}} 无法找到该用户",
+    "USER_IS_BOT": "{{author}} 该用户是个 Discord `BOT`",
+    "USER_NOT_REGISTERED": "{{author}} 该用户没有登记！",
+    "USER_BLACKLISTED": "{{author}} 该用户被列入黑名单",
+    "PROFILE_BUTTON_LABEL": "网站资料",
+    "USER_INFO": "__用户信息:__",
+    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`:  `{{date}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> 卡片数量: `{{cardCount}}`",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> 信任因素: `{{val}}`"
+}

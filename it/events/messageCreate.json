@@ -1,7 +1,7 @@
 {
     "LOTTERY_WON": "Congratulazioni! Hai vinto la lotteria 2D {{event}} di Sofi! 🎃",
     "MENTION_ERROR": "{{author}} Usa il prefix del server `{{prefix}}` o `/` in ordine per eseguire un comando",
-    "RATE_LIMIT_ERROR": "A causa dell'elevata attività, è stato raggiunto il limite di velocità! Attendere prego.",
+    "RATE_LIMIT_ERROR": "{{author}} A causa dell'elevata attività, è stato raggiunto il limite di velocità! Attendere prego.",
     "VERIFY_BUTTON_LABEL": "Verificare",
     "SUPPORT_BUTTON_LABEL": "Supporto",
     "VERIFY_TO_PLAY": "[Verificati sul nostro sito web per giocare!](<https://sofi.gg/verify>)",

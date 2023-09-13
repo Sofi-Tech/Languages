@@ -3,6 +3,6 @@
     "GTC_CATEGORY": "タグ",
     "CORRECT_USAGE": "{{author}}正しい使い方は：`{{prefix}}gtc <タグ名> <絵文字>`",
     "INVALID_EMOJI": "{{author}} 提供された絵文字は使えません",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}}`Glowタグ`名はすでに存在します",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}}`タグ名`はすでに存在します",
     "CREATED_GLOWTAG": "{{author}} `{{tag}}`｜ {{emoji}}で`Glowタグ`を成功で作成しました"
 }

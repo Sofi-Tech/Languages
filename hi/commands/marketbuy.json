@@ -1,20 +1,18 @@
 {
-  "DESCRIPTION": "बाजार से Gems के बदले में Wist खरीदे",
-  "CORRECT_USAGE": "{{author}} | सही उपयोग: `{{prefix}}mp <OfferID> <WistAmount>`",
-  "INVALID_DEAL_ID": "{{author}} अमान्य डील ID प्रदान की गई कृपया जांच करके दुबारा कोशिश करे",
-  "CANNOT_PURCHASE": "{{user}} | उस डील को खरीदने में असमर्थ",
-  "CANNOT_SELF": "{{user}} | आप अपनी डील नहीं खरीद सकते",
-  "WIST_NOT_EXCEED": "{{author}} इस डील में सिर्फ {{amount}} wist ही बची है",
-  "PRODUCT": "आप प्राप्त करेंगे:",
-  "VALUE": "आप चुकाएंगे:",
-  "RATE": "दाम:",
-
-  "ALREADY_IN_PURCHASE": "{{author}} आप पहले से ही बाजार में खरीदारी में शामिल हैं",
-
-  "PURCHASE_CANCELLED": "यह डील अब बाजार में उपलब्ध नहीं है",
-  "MISSING_GEMS": "आपको कुल {{gemPrice}} Gems ओर मौजूद कराने होंगे इस डील के लिए",
-  "SOMETHING_WRONG": "कुछ गलत हो गया। दोबारा कोशिश करें",
-  "PURCHASE_SUCCESSFUL": "खरीद सफल रही",
-  "SUCCESS": "{{wistAmount}} Wist {{gemPrice}} Gems के बदले खरीदी गई | डील ID: {{dealId}}",
-  "MB_EMBED_TITLE": "SOFI MARKET:"
+    "DESCRIPTION": "बाजार से Gems के बदले में Wist खरीदे",
+    "CORRECT_USAGE": "{{author}} | सही उपयोग: `{{prefix}}mp <OfferID> <WistAmount>`",
+    "INVALID_DEAL_ID": "{{author}} अमान्य डील ID प्रदान की गई कृपया जांच करके दुबारा कोशिश करे",
+    "CANNOT_PURCHASE": "{{user}} | उस डील को खरीदने में असमर्थ",
+    "CANNOT_SELF": "{{user}} | आप अपनी डील नहीं खरीद सकते",
+    "WIST_NOT_EXCEED": "{{author}} इस डील में सिर्फ {{amount}} wist ही बची है",
+    "PRODUCT": "आप प्राप्त करेंगे:",
+    "VALUE": "आप चुकाएंगे:",
+    "RATE": "दर:",
+    "ALREADY_IN_PURCHASE": "{{author}} आप पहले से ही बाजार में खरीदारी में शामिल हैं",
+    "PURCHASE_CANCELLED": "यह डील अब बाजार में उपलब्ध नहीं है",
+    "MISSING_GEMS": "आपको कुल {{gemPrice}} Gems ओर मौजूद कराने होंगे इस डील के लिए",
+    "SOMETHING_WRONG": "कुछ गलत हो गया। दोबारा कोशिश करें",
+    "PURCHASE_SUCCESSFUL": "खरीद सफल रही",
+    "SUCCESS": "{{wistAmount}} Wist {{gemPrice}} Gems के बदले खरीदी गई | डील ID: {{dealId}}",
+    "MB_EMBED_TITLE": "SOFI MARKET:"
 }

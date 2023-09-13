@@ -5,5 +5,18 @@
     "WHITELIST_BUTTON_LABEL": "Daftar Putih",
     "PERMS_EMBED_TITLE": "SOFI: IZIN",
     "BLACKLISTING_INFO": "Daftar Hitam: Batasi perintah yang akan digunakan di channel ini",
-    "BLACKLISTING_USAGE": "Cara Menggunakan: `{{prefix}}p bl add/rem <CommandName/All>`\n"
+    "BLACKLISTING_USAGE": "Cara Menggunakan: `{{prefix}}p bl add/rem <CommandName/All>`\n",
+    "RESET_PERMS_CONFIRM": "Apakah kamu yakin ingin mereset izin perintah saluran ini kembali ke keadaan default?",
+    "WHITELIST_ALREADY_ACTIVE": "{{author}} Kamu tidak bisa menghapus perintah yang masuk di daftar hitam dari daftar putih",
+    "ADD_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menambahkan perintah berikut ke dalam channel ini {{listname}}: {{commandsList}}",
+    "ADD_COMMANDS_ERROR": "{{author}} Perintah yang kamu berikan sudah ada dalam channel ini {{listName}} atau tidak valid",
+    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menghapus semua perintah dari channel ini {{listName}}",
+    "REMOVE_COMMANDS_ERROR": "{{author}} Perintah yang kamu berikan tidak ada dalam channel ini {{listName}} atau tidak valid",
+    "ADD_MODAL_LABEL": "Tambahkan perintah ke channel ini {{listName}}",
+    "REMOVE_MODAL_LABEL": "Hapus perintah dari saluran ini {{listName}}",
+    "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menambahkan semua perintah ke channel ini {{listName}}",
+    "NOT_WHITELISTED_YET": "{{author}} Kamu belum memasukkan perintah apapun ke daftar putih",
+    "RESET_PERMS_SUCCESSFUL": "{{author}} Berhasil mereset status izin di saluran ini",
+    "STOPPED_PROCESS": "Proses ini di batalkan",
+    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menghapus perintah berikut dari channel ini {{listname}}: {{commandsList}}"
 }

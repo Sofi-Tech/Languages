@@ -1,12 +1,12 @@
 {
-    "GT_DESCRIPTION": "自分の「Glow」にタグを付ける",
+    "GT_DESCRIPTION": "自分の「Glow」に「タグ」を付ける",
     "GT_CATEGORY": "タグ",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Glowタグはまだ作成されません。新しいGlowタグは`{{prefix}}gtc <タグな> <絵文字>`で作れます",
-    "GLOWS_NOT_UNLOCKED": "{{author}} 「`Glow`」はまだ持っていません",
-    "INVALID_GLOW_CODE": "{{author}} 提供された「 `Glow`」 コードには少なくとも１つが無効またはインベントリーにありません",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** に {{tag}} を成功で付けました",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} 全部の「`Glow`」に`{{tag}}`を成功で付けました",
-    "INVALID_GLOW_SINGULAR": "{{author}} 提供された 「`Glow`」 コードが無効またはインベントリーにありません",
-    "GLOW_TAG_INVALID": "{{author}} `{{tagname}}`の`Glowタグ`名が見つかりませんでした",
+    "GLOWTAGS_NOT_FOUND": "{{author}} `Glowタグ`はまだ作成されません。新しいGlowタグは`{{prefix}}gtc <タグ名> <絵文字>`で作れます",
+    "GLOWS_NOT_UNLOCKED": "{{author}} `Glow`をまだ持っていません",
+    "INVALID_GLOW_CODE": "{{author}} 提供された`Glow`のコードには少なくとも１つが無効またはインベントリーにありません",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}**に {{tag}} を成功で付けました",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} 全部の`Glow`に`{{tag}}`を成功で付けました",
+    "INVALID_GLOW_SINGULAR": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
+    "GLOW_TAG_INVALID": "{{author}} `{{tagname}}`の`タグ名`が見つかりませんでした",
     "CORRECT_USAGE": "{{author}}正しい使い方は：`{{prefix}}gt <タグ名> <＃Glowコード>`"
 }

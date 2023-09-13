@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "क्या आप वाकई में पत्ते से Morph हटाना चाहते है?\nइस प्रक्रिया में **100** `silver` खर्च होंगे",
     "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है।",
     "SOMETHING_WENT_WRONG": "{{author}} कुछ गलत हुआ, दुबारा कोशिश करें",
-    "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त मात्रा में `Silver` नहीं है",
+    "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त `{{currency}}` नहीं है।",
     "UM_SUCCESSFUL": "`Morph` सफलतापूर्वक हटा दिया गया है"
 }

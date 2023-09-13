@@ -5,14 +5,14 @@
     "WRONG_CARD": "{{author}} 提供されたカードコードが無効またはコレクションにありません",
     "NO_GIF_CARDS": "{{author}} `GIF`カードには`Glow`を付けられません",
     "INVALID_GLOW_CODE": "{{author}} `Glow`のコードの最初には必ず **#** を付けます",
-    "GLOW_NOT_FOUND": "{{author}} 提供された 「`Glow`」 コードが無効またはインベントリーにありません",
-    "EMBED_GLOW_TITLE": "SOFI: 「GLOW (輝き)」を付ける",
+    "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
+    "EMBED_GLOW_TITLE": "SOFI：「GLOW (輝き)」を付ける",
     "EMBED_SG_TITLE": "SOFI：「SUPER GLOW (超輝き)」を付ける",
     "GLOW_NAME": "名前: **{{name}}**",
     "GLOW_CODE": "コード: `#{{code}}`",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "GLOW_UNAVAILABLE": "{{author}} その `Glow` の利用を不可能です",
-    "GLOW_APPLY_SUCCESSFUL": "{{author}} カードに **{{glowName}}** `Glow`を付けられました",
-    "UNAVAILABLE": "利用不可能",
-    "AVAILABLE": "利用可能"
+    "GLOW_UNAVAILABLE": "{{author}} その `Glow` は完全放電です",
+    "GLOW_APPLY_SUCCESSFUL": "{{author}} カードに **{{glowName}}**の`Glow`を付けられました",
+    "UNAVAILABLE": "完全放電",
+    "AVAILABLE": "満充電"
 }
