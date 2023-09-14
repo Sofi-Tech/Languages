@@ -6,11 +6,11 @@
     "CANNOT_FIND_CARD": "{{author}} Il carattere su questa carta non è più disponibile su Sofi e non è possibile interagire con esso",
     "CANNOT_TOGGLE": "{{author}} Non puoi modificare il testo delle carte `3D` o `GIF`",
     "EMBED_TITLE": "SOFI: TOGGLE TESTO",
-    "TT_CONFIRMATION": "Sei sicuro di voler **{{toggleInfo}}**\nQuesto processo costerà **1000** <:_:915619222229512213>",
+    "TT_CONFIRMATION": "Sei sicuro di volere {{toggleInfo}} per **1000** <:_:915619222229512213> ?",
     "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
     "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
     "TT_ENABLE_SUCCESSFUL": "Il testo di questa carta è stato abilitato",
-    "TOGGLE_INFO_ADD": "aggiungi testo alla carta",
-    "TOGGLE_INFO_REMOVE": "rimuovi il testo alla carta",
+    "TOGGLE_INFO_ADD": "**restaurato** il testo di questa carta",
+    "TOGGLE_INFO_REMOVE": "**rimuovi** il testo di questa carta",
     "TT_DISABLE_SUCCESSFUL": "Il testo di questa carta è stato disattivato"
 }

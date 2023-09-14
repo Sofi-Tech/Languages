@@ -5,9 +5,10 @@
     "INFO_2": "Sono disponibili un massimo di **100** varianti `GIF` per carattere",
     "INFO_3": "Brucia `Fragments` per ottenere `Charms`",
     "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Conteggio Pull: {{count}}",
-    "MISSING_CURR": "{{user}} Non hai **{{amount}}** `{{currName}}`",
-    "AMOUNT": "Quantità: {{amount}}",
-    "PULL_COUNT_WIST": "Contaggio di Pull: {{pullcount}}",
-    "RATES": "Valutare"
+    "PULL_COUNT": "Conteggio Pull: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} Non hai abbastanza `{{currName}}` per questo processo",
+    "AMOUNT": "Hai ricevuto: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "PULL_COUNT_WIST": "Contaggio di Pull: [ {{pullcount}} ]",
+    "RATES": "Valutare",
+    "PULL_CHANCES": "**__Probabilità__**"
 }

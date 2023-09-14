@@ -7,12 +7,12 @@
     "WIST_NOT_EXCEED": "{{author}} L'ordine ha solo **{{amount}}** `{{currency}}` da acquistare",
     "PRODUCT": "Ricevi:",
     "VALUE": "Tu paghi:",
-    "RATE": "Tasso",
-    "ALREADY_IN_PURCHASE": "{{author}} Annulla o procedi con la tua transazione precedente prima di iniziarne una nuova!",
-    "PURCHASE_CANCELLED": "Quell'affare non è più disponibile",
+    "RATE": "Tasso:",
+    "ALREADY_IN_PURCHASE": "{{author}} Hai già una finestra di transazione attiva",
+    "PURCHASE_CANCELLED": "{{author}} Quell'affare non è più disponibile",
     "MISSING_GEMS": "Ti mancano {{gemPrice}} `Gems`",
     "SOMETHING_WRONG": "Qualcosa è andato storto. Riprova",
     "PURCHASE_SUCCESSFUL": "La transazione è andata a buon fine",
     "SUCCESS": "{{wistAmount}} `Wist` sono stati acquistati per **{{gemPrice}}** `Gems`! | ID Offerta: {{dealId}}",
-    "MB_EMBED_TITLE": "MERCATO SOFI:"
+    "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }

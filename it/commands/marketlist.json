@@ -4,13 +4,16 @@
     "INVALID_GEM_RATE": "{{user}} La tariffa che hai fornito non è valida",
     "GEM_RATE_LIES": "{{user}} La tariffa fornita deve essere compresa tra **3.0 - 20.0**",
     "ALREADY_EXISTS": "{{author}} Usa il comando `{{prefix}}mul {{dealID}}` per rimuovere prima il tuo ordine esistente",
-    "PRODUCTS": "Elenchi:",
-    "RATE": "Tasso",
+    "PRODUCTS": "Elenco:",
+    "RATE": "Tasso:",
     "VALUE": "Valore Totale:",
     "CANCELLED": "Il processo è stato annullato",
     "NOT_ENOUGH_CANCEL": "Stai cercando di elencare più `Wists` di quanto possiedi",
     "SUCCESS": "La tua offerta è stata inserita correttamente",
     "EMBED_TITLE": "MERCATO SOFI:",
     "INVALID_WIST_AMOUNT": "{{author}} Devi elencare un minimo di **10** `Wists`",
-    "NOT_REGISTERED": "{{author}} Non sei registrato"
+    "NOT_REGISTERED": "{{author}} Non sei registrato",
+    "NOT_VERIFIED": "{{author}} Non sei verificato",
+    "QUARANTINED": "{{author}} Sei in quarantena!",
+    "BLACKLISTED": "{{author}} Sei blacklisted"
 }

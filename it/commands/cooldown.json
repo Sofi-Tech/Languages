@@ -6,6 +6,8 @@
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "Bump",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` mail(s) non letta | Digita `{{customPrefix}}mail`per leggerli!",
-    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**"
+    "UNREAD_MAIL": "\n📫 Hai **{{checkUnreadMailsCount}}** non letti {{mailCount}}",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
 }

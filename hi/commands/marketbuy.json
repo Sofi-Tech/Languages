@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "बाजार से Gems के बदले में Wist खरीदे",
     "CORRECT_USAGE": "{{author}} | सही उपयोग: `{{prefix}}mp <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} अमान्य डील ID प्रदान की गई कृपया जांच करके दुबारा कोशिश करे",
+    "INVALID_DEAL_ID": "{{author}} प्रदान करी गई Order-ID अमान्य है।",
     "CANNOT_PURCHASE": "{{user}} | उस डील को खरीदने में असमर्थ",
     "CANNOT_SELF": "{{user}} | आप अपनी डील नहीं खरीद सकते",
     "WIST_NOT_EXCEED": "{{author}} इस डील में सिर्फ {{amount}} wist ही बची है",

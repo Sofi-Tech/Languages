@@ -62,5 +62,6 @@
     "MAXIMUM_PURCHASE_FRAMES": "Puoi comprare un massimo di 20 frames",
     "ENTERED_LOTTERY": "Hai partecipato con successo alla lotteria",
     "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",
-    "ITEM_PURCHASE_SUCCESSFUL": "Congratulazioni! {{amount}} {{item}} sono stati aggiunti nel tuo inventario"
+    "ITEM_PURCHASE_SUCCESSFUL": "Congratulazioni! {{amount}} {{item}} sono stati aggiunti nel tuo inventario",
+    "NO_ACTIVE_EVENT": "{{author}} Non c'è nessun event attualmente attivo"
 }

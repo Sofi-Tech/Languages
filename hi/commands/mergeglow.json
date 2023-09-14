@@ -1,12 +1,10 @@
 {
-  "MG_DESCRIPTION": "4 अलग-अलग Glows को Merge करके Resin प्राप्त करे",
-  "MG_CATEGORY": "COSMETICS",
-
-  "GLOW_CODES_MISSING": "{{author}} सही उपयोग: `{{prefix}}mg <glowcode1> <glowcode2> <glowcode3><glowcode4>`",
-  "GLOWS_UNAVAILABLE": "{{author}} कुछ Glows खाली हैं: `{{unavailableGlows}}`",
-  "GLOW_CODES_UNIQUE": "{{author}} च्यारो Glow अलग-अलग होनी चाहिए इस प्रक्रिया के लिए",
-
-  "GLOWS_NOT_FOUND": "{{author}} `{{glows}}` Glows या तो अवैध है या आपके संग्रह में उपलब्ध नहीं है कृपया जांच करे",
-  "EMBED_TITLE": "SOFI: GLOW MERGE",
-  "MERGE_CONFIRMATION": "आप निम्नलिखित Glows को Merge करने जा रहे हैं:\n\n{{glows}}\n\nआप **1x**<:resin:938131736741691442> प्राप्त करेंगे"
+    "MG_DESCRIPTION": "4 अलग-अलग Glows को Merge करके Resin प्राप्त करे",
+    "MG_CATEGORY": "COSMETICS",
+    "GLOW_CODES_MISSING": "{{author}} सही उपयोग: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} प्रदान की गई `Glow codes` से कोई एक खाली है।",
+    "GLOW_CODES_UNIQUE": "{{author}} आप एक `Glow` को बार-बार उपयोग में नही ले सकते है।",
+    "GLOWS_NOT_FOUND": "{{author}} `{{glows}}` Glows या तो अवैध है या आपके संग्रह में उपलब्ध नहीं है कृपया जांच करे",
+    "EMBED_TITLE": "SOFI: GLOW MERGE",
+    "MERGE_CONFIRMATION": "आप निम्नलिखित Glows को Merge करने जा रहे हैं:\n\n{{glows}}\n\nआप **1x**<:resin:938131736741691442> प्राप्त करेंगे"
 }

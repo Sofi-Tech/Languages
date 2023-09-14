@@ -7,8 +7,8 @@
     "NO_USE_SG": "{{author}} Non puoi usare un `Super Glow` per questo processo",
     "SAME_GLOWS": "{{author}} Non puoi usare lo stesso `Glow` più di una volta",
     "EMBED_TITLE": "SOFI: SUPER GLOW",
-    "FORM_SG_CONFIRM": "Stai per utilizzare i seguenti `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nper ottenere il `Super Glow` **`{{superGlowName}}`**",
-    "MISSING_RESINS": "Non hai abbastanza `Resin` per creare un `Super Glow`",
-    "SUPER_GLOW_SUCCESSFUL": "I tuoi `Glows` sono stati `Merged`con successo!\n",
-    "FORM_SG_FOOTER": "Tutti i `Glows` utilizzati in questo processo verranno distrutti!"
+    "FORM_SG_CONFIRM": "Sei sicuro di voler unire i seguenti elementi:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nnel **{{superGlowName}}** `Super Glow`?",
+    "MISSING_RESINS": "{{author}} Non hai abbastanza `Resin` per questo processo",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Hai unito con successo i tuoi `Glows`\n",
+    "FORM_SG_FOOTER": "Entrambi i \"Glows\" verranno distrutti durante il processo!"
 }

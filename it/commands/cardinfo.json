@@ -6,7 +6,7 @@
     "CARD_GLOWED": "`{{isSuper}}Glow` applicato: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "Colore Carattere: **{{fontName}}** (`#{{viewCode}}`)\n",
     "CARD_FRAMED": "`Frame` applicato: **{{frameName}}**\n",
-    "CARD_CFRAMED": "Quella carta ha il seguente `Frame` applicato __{{frameName}}__ `{{frameCode}}`\n",
+    "CARD_CFRAMED": "`Frame` applicato: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Mostra Gen",
     "SERIES": "Serie:",
     "NAME": "Nome:",
@@ -18,5 +18,8 @@
     "POPULARITY": "Popolarità",
     "FOUGHT_OFF": "Combattuta",
     "QUICKNESS": "Rapidità",
-    "SUPER": "Super "
+    "SUPER": "Super ",
+    "SOME_CODE": "Non disponibile",
+    "SOME_FRAME": "Non disponibile",
+    "SOME_GLOW": "Non disponibile"
 }

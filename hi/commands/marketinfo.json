@@ -1,14 +1,16 @@
 {
-    "DESCRIPTION": "आपकी मौजूदा मार्केट सौदे को प्रदर्शित करता है या किसी विशिष्ट सौदे के बारे में विवरण प्रदान करता है",
-    "INVALID_DEAL_ID": "{{author}} अमान्य डील ID प्रदान की गई कृपया जांच करके दुबारा कोशिश करे",
+    "DESCRIPTION": "आपके मौजूदा मार्केट सौदे को प्रदर्शित करता है या किसी विशिष्ट सौदे के बारे में विवरण प्रदान करता है।",
+    "INVALID_DEAL_ID": "{{author}} प्रदान करी गई Order-ID अमान्य है।",
     "TRADER": "व्यापारी",
-    "DEAL_ID": "डील ID",
-    "PRODUCT": "माल",
+    "DEAL_ID": "Order-ID",
+    "PRODUCT": "सामान",
     "VALUE": "मूल्य",
     "RATE": "दर",
     "LISTED": "सूची में लगाई हुई",
-    "NO_LISTINGS_FOUND": "{{user}} आपका बाजार में कोई मौजूदा सौदा नहीं है",
-    "INFO": "सौदा सूची से हटाने के लिए `{{prefix}}mul <ID>`का उपयोग करें\nएक समय पे एक ही सौदा बाजार में डाला जा सकता है",
-    "FOOTER": "{{total}} में से 1-{{pages}} दिखाया जा रहा है | Wist खरीदने के लिए `{{prefix}}mp <id>` का उपयोग करें!",
-    "EMBED_TITLE": "YOUR LISTINGS:"
+    "NO_LISTINGS_FOUND": "{{user}} आपका बाजार में कोई सौदा मौजूदा नहीं है।",
+    "INFO": "सूची से सौदा हटाने के लिए `{{prefix}}mul <ID>` का उपयोग करें",
+    "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}}",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"
 }

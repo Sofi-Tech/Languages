@@ -6,7 +6,7 @@
     "NO_ITEM": "{{author}} Utilizzo corretto: `{{prefix}}compra <ItemName> <Amount>`",
     "TRADEPASS_INFO": "Visita il nostro sito Web di seguito per `Bump` e scambia i tuoi punti con diversi articoli, incluso il `Trade Pass`",
     "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}buy bg <Background-ID> <Amount>`",
-    "INVALID_BG_AMOUNT": "Non inserire valori negativi",
-    "INVALID_BG_ID": "Fornisci un ID `Background` valido",
-    "INVALID_ITEM_PROVIDED": "{{USER}} `Item` fornito non valido"
+    "INVALID_BG_AMOUNT": "{{author}} Non puoi acquistare un quantità negativa di un oggetto",
+    "INVALID_BG_ID": "{{author}} `Background` -ID fornito non è valido",
+    "INVALID_ITEM_PROVIDED": "{{user}} L'oggetto che hai fornito non è valido"
 }

@@ -6,8 +6,12 @@
     "INFO_1": "{{user}} ha iniziato un gioco di indovinelli!",
     "INFO_2": "Quota di Partecipazione: **{{bet}}** {{currencyEmoji}}",
     "INFO_3": "Monte Premi: **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "Reagisci con 🍻 per partecipare | Il creatore del gioco puoi inizia il gioco con 🟢",
+    "FOOTER": "Clicca 🍻 per partecipare! Inizia il gioco premendo il pulsante🟢",
     "REQ_MORE_PLAYERS": "{{user}} Dovete essere almeno 2 giocatori prima di iniziare il gioco",
     "GUESS_THE_WORD": "Indovina la parola data: {{scrambledWord}}",
-    "CORRECT_GUESS": "{{winner}} ha indovinato correttamente la parola {{word}} e ha vinto `{{jackpot}} {{currency}}`!"
+    "CORRECT_GUESS": "{{winner}} ha indovinato correttamente la parola {{word}} e ha vinto `{{jackpot}} {{currency}}`!",
+    "INSUFFICIENT_CURRENCY": "{{author}} Non hai abbastanza `{{currency}}` per partecipare a questo gioco",
+    "NO_TP_2": "{{author}} Per partecipare è necessario un `Trade Pass` attivo!",
+    "MORE": "più...",
+    "INFO_4": "**Partecipanti [{{totalPlayers}}]**"
 }

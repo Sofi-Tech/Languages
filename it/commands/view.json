@@ -5,9 +5,10 @@
     "SERIES": "Serie:",
     "NAME": "Nome:",
     "OWNED_BY": "Posseduto da:",
-    "SERVER": "Server",
-    "CLAIMED": "Reclamato",
-    "MOVES": "Abilità:",
+    "SERVER": "Server-ID:",
+    "CLAIMED": "Reclamato Su:",
+    "MOVES": "Abilità",
     "OWNER_HISTORY": "Storia del proprietario",
-    "EMBED_TITLE": "SOFI: VISTA"
+    "EMBED_TITLE": "SOFI: VISTA",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potenza **({{percentage}}%)**"
 }

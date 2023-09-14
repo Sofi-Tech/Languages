@@ -1,12 +1,12 @@
 {
     "EXTRA_GRAB": "{{user}} Il tuo `Grab` extra è in uso. Hai **{{remaining}}** rimanenti",
-    "GRAB_CARD_PLURAL": "{{winner}} ha combattuto altri **{{userCount}}** giocatori e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
+    "GRAB_CARD_PLURAL": "{{winner}} hai combattuto altri **{{userCount}}** giocatori e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}",
     "GRAB_COOLDOWN": "{{user}} Devi attendere **{{cooldown}}** per richiedere un'altra carta",
     "EVENT_GRAB": "{{user}} ha ricevuto {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
     "SNATCHED_EVENT_ITEM": "{{winner}} ha rubato **{{amount}}** `{{eventItem}}` da <@{{userId}}>",
     "GRAB_EVENT_ITEM": "{{winner}} ha combattuto contro **{{userCount}}** altri utenti e ha ricevuto **{{amount}}** `{{eventItem}}`",
     "CANNOT_BE_GRABBED": "Queste carte non possono più essere ottenute",
-    "CARDS_DROPPED_BY": "{{user}} ha `Dropped` le carte\n",
+    "CARDS_DROPPED_BY": "{{user}} hai **dropped** le carte\n",
     "TOOK_CARD": "{{user}} ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_CARD": "{{winner}} ha battuto {{user}} e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }

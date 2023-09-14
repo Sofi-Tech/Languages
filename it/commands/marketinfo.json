@@ -7,10 +7,10 @@
     "VALUE": "Valore",
     "RATE": "Tasso",
     "LISTED": "Elencato",
-    "NO_LISTINGS_FOUND": "{{user}} Non hai annunci sul mercato",
+    "NO_LISTINGS_FOUND": "{{user}} Non hai ordini attualmente sul mercato",
     "INFO": "Usa il comando `{{prefix}}mul <ID>` per annullare l'elenco delle offerte correnti\n**È possibile elencare un solo affare alla volta**",
     "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
-    "EMBED_TITLE": "I TUOI ELENCHI:",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Azione: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
 }
