@@ -15,5 +15,7 @@
     "VERIFY_BUTTON_LABEL": "Verificare",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614>__Sei stato blacklisted per aver violato le regole di Sofi!__\n\n**Un elenco di possibili motivi che potrebbero aver causato questo:**\n```CSS\n- Interagire con Sofi su più account (Alting)\n- Vendita o acquisto di interi account Discord\n- Truffare altri utenti\n- Approfittare o essere coinvolto in una qualsiasi delle attività di cui sopra\n```\n\n:link: [Fai ricorso contro la tua lista nera](<https://sofi.gg/appeal>)\n:link: [Server di Supporto](https://discord.gg/sofi)",
     "SERVER_BLACKLISTED": "{{author}} Il server è nella blacklist. Contattaci su discord.gg/sofi",
-    "COMMAND_BLACKLISTED": "{{author}} Il comando `{{commandName}}` è blacklisted in questo canale"
+    "COMMAND_BLACKLISTED": "{{author}} Il comando `{{commandName}}` è blacklisted in questo canale",
+    "COMMAND_DISABLED": "{{author}} Questo comando è stato disabilitato\nMotivo: `{{reason}}`",
+    "CATEGORY_DISABLED": "{{author}} Questa categoria è stata disabilitata\nMotivo: `{{reason}}`"
 }

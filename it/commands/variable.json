@@ -13,7 +13,7 @@
     "MONTHS": "mesi",
     "YEAR": "anno",
     "YEARS": "anni",
-    "SUCCESS": "SUCCESSO",
+    "SUCCESS": "Completato con successo il processo",
     "CANCELLED": "Il processo è stato annullato",
     "PROCESSING": "Elaborazione della tua richiesta...<a:loading:876610443148406794>",
     "AVAILABLE": "Caricato",
@@ -24,5 +24,6 @@
     "HP": "Salute",
     "NAME": "Nome:",
     "SERIES": "Serie:",
-    "MEMBER_NOT_VERIFIED": "{{author}} Quel utente non è verificato"
+    "MEMBER_NOT_VERIFIED": "{{author}} Quel utente non è verificato",
+    "ERROR": "{{author}} Si è verificato un errore. Per favore riprova."
 }

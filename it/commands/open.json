@@ -9,12 +9,16 @@
     "SERIES": "Serie:",
     "NAME": "Nome:",
     "CHEST_INFO": "I forzieri degli event possono essere aperti senza un event attivo",
-    "PROVIDE_NUM": "Fornisci un numero compreso tra **1 e 10**",
-    "CHEST_MISSING": "Non hai **{{replacedArg}}** Chests`{{chestName}}` nel tuo `Inventory`",
-    "COMMON_INFO_1": "Hai aperto **{{totalChests}}** Chests `{{chestName}}`",
-    "ITEMS_FOUND": "Oggetti ottenuti:\n",
-    "COMMON_RARE_FOOTER": "Puoi ottenere un Chest {{chestName}} per ogni {{count}} strisce `Daily`",
-    "EXOTIC_DIVINE_FOOTER": "Puoi ottenere un Chest {{chestName}} per {{count}} `Votes` ogni mese",
+    "PROVIDE_NUM": "{{author}} Puoi aprire un massimo di **10** `{{chestName}}` alla volta",
+    "CHEST_MISSING": "{{author}} Non hai **{{count}}** `{{chestName}}` nel tuo inventory",
+    "COMMON_INFO_1": "Hai aperto **{{totalChests}}** `{{chestName}}`",
+    "ITEMS_FOUND": "**__Oggetti ottenuti__**",
+    "COMMON_RARE_FOOTER": "Puoi ottenere un \"{{chestName}}\" ogni {{count}} serie giornaliere",
+    "EXOTIC_DIVINE_FOOTER": "Puoi ottenere {{article}} \"{{chestName}}\" da voto {{count}} volte al mese",
     "CORRECT_USAGE_2": "Items che possono essere aperti: `Chests`, `Charms`",
-    "EMBED_TITLE": "SOFI: OPEN (`{{itemName}}`)"
+    "EMBED_TITLE": "SOFI: OPEN (`{{itemName}}`)",
+    "NOIR_FOUND": "Hai trovato una <:noiressence:1115496193775116411> `Noir Essence` nel tuo petto!",
+    "GUILD_PACKAGE_SUCCESS": "Congratulazioni! Il tuo `Guild Package` conteneva la **{{charName}}** carta `3D-V2` e 💳 **{{amount}}x** `Gen Scratcher`\n\n- **__Pool di Carte Attuale __**\n{{poolLine}}",
+    "CLAIMED": "reclamato",
+    "GUILD_CHEST_FOOTER": "Puoi ottenere un \"Guild Chest\" alla fine di ogni stagione"
 }

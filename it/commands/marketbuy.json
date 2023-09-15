@@ -10,9 +10,9 @@
     "RATE": "Tasso:",
     "ALREADY_IN_PURCHASE": "{{author}} Hai già una finestra di transazione attiva",
     "PURCHASE_CANCELLED": "{{author}} Quell'affare non è più disponibile",
-    "MISSING_GEMS": "Ti mancano {{gemPrice}} `Gems`",
-    "SOMETHING_WRONG": "Qualcosa è andato storto. Riprova",
-    "PURCHASE_SUCCESSFUL": "La transazione è andata a buon fine",
-    "SUCCESS": "{{wistAmount}} `Wist` sono stati acquistati per **{{gemPrice}}** `Gems`! | ID Offerta: {{dealId}}",
+    "MISSING_GEMS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
+    "SOMETHING_WRONG": "{{author}} Qualcosa è andato storto. Per favore riprova",
+    "PURCHASE_SUCCESSFUL": "{{author}} Acquistato con successo **{{boughtCount}}** {{currency}}",
+    "SUCCESS": "{{user}} Hai venduto con successo **{{orderPrice}}** {{currency}} e hai ricevuto **{{soldAmount}}** {{currencySoldEmoji}}! | ID-Ordine: `{{dealId}}`",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }

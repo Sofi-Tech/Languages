@@ -10,10 +10,10 @@
     "SHOW_GEN": "Mostra Gen",
     "SERIES": "Serie:",
     "NAME": "Nome:",
-    "OWNED": "Posseduta da",
-    "DROPPED": "Caduto Da",
-    "CLAIM_BY": "Richiesto Da",
-    "CLAIM_ON": "Rivendicato Il",
+    "OWNED": "Posseduta da:",
+    "DROPPED": "Droppato da:",
+    "CLAIM_BY": "Preso da:",
+    "CLAIM_ON": "Afferrato su:",
     "LEVEL": "Livello",
     "POPULARITY": "Popolarità",
     "FOUGHT_OFF": "Combattuta",
@@ -21,5 +21,7 @@
     "SUPER": "Super ",
     "SOME_CODE": "Non disponibile",
     "SOME_FRAME": "Non disponibile",
-    "SOME_GLOW": "Non disponibile"
+    "SOME_GLOW": "Non disponibile",
+    "EMBED_AUTHOR": "SOFI: CARDINFO (Level - {{level}})",
+    "CLAIM_AT": "\ndroppato in:"
 }

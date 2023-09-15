@@ -9,8 +9,8 @@
     "TT_CONFIRMATION": "Sei sicuro di volere {{toggleInfo}} per **1000** <:_:915619222229512213> ?",
     "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
     "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
-    "TT_ENABLE_SUCCESSFUL": "Il testo di questa carta è stato abilitato",
+    "TT_ENABLE_SUCCESSFUL": "{{author}} **restaurato** con successo il testo di questa carta",
     "TOGGLE_INFO_ADD": "**restaurato** il testo di questa carta",
     "TOGGLE_INFO_REMOVE": "**rimuovi** il testo di questa carta",
-    "TT_DISABLE_SUCCESSFUL": "Il testo di questa carta è stato disattivato"
+    "TT_DISABLE_SUCCESSFUL": "{{author}} **rimossato** con successo il testo di questa carta"
 }

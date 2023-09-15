@@ -10,5 +10,8 @@
     "MOVES": "Abilità",
     "OWNER_HISTORY": "Storia del proprietario",
     "EMBED_TITLE": "SOFI: VISTA",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potenza **({{percentage}}%)**"
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potenza **({{percentage}}%)**",
+    "PREVIOUS_OWNERS": "**__Proprietari Precedenti__**",
+    "NO_PREVIOUS_OWNERS": "Nessuno",
+    "SPECIAL": "Speciale"
 }

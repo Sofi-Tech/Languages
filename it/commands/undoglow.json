@@ -10,6 +10,7 @@
     "UNG_CONFIRMATION": "Sei sicuro di voler togliere il `Glow`da questa carta Per **100** `Silver`?",
     "EMBED_FOOTER": "Il `Glow` non ritornerà nel tuo `Inventory`",
     "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
-    "UNG_SUCCESSFUL": "Il `Glow` è stato rimosso con successo",
-    "UNG_NO_OWNER": "{{author}} La carta non è più nella tua collezione"
+    "UNG_SUCCESSFUL": "{{author}} Hai rimossato con successo il **{{glowName}}** `Glow` dalla tua carta",
+    "UNG_NO_OWNER": "{{author}} La carta non è più nella tua collezione",
+    "UNAVAILABLE": "Non disponibile"
 }

@@ -1,14 +1,16 @@
 {
-    "UNG_DESCRIPTION": "पत्ते से \"Glow\" हटाता है",
-    "UNG_CATEGORY": "सौंदर्य",
+    "UNG_DESCRIPTION": "पत्ते से Glow हटाता है।",
+    "UNG_CATEGORY": "COSMETICS",
     "UNG_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "NO_CHARACTER": "{{author}} यह पात्र अब मौजूद नहीं है!",
-    "NO_GIF": "{{author}} आप `GIF` पत्ते से सौंदर्य नहीं हटा सकते",
-    "NOT_GLOWED": "{{author}} पत्ते में कोई भी `Glow` लगा नहीं है",
-    "EMBED_TITLE": "GLOW हटाए",
-    "UNG_CONFIRMATION": "क्या आप वाकई में पत्ते से `Glow` हटाना चाहते है?\nयह प्रक्रिया में **100** `Silver` खर्च होंगे",
-    "EMBED_FOOTER": "हटाया गया `Glow` आपकी `Inventory` में नहीं लौटेगा",
+    "NO_CHARACTER": "{{author}} यह पात्र अब Sofi पर मौजूद नहीं है तथा अब इस पर काम नही किया जा सकता है।",
+    "NO_GIF": "{{author}} आप `GIF` पत्ते से सौंदर्य नहीं हटा सकते है।",
+    "NOT_GLOWED": "{{author}} पत्ते पर कोई भी `Glow` लागू नही है।",
+    "EMBED_TITLE": "SOFI: REMOVE **`GLOW`**",
+    "UNG_CONFIRMATION": "क्या आप वाकई में **100** `Silver` के बदले में पत्ते से `Glow` हटाना चाहते है?",
+    "EMBED_FOOTER": "Glow आपके संग्रह में वापस नहीं आएगा",
     "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त `{{currency}}` नहीं है।",
-    "UNG_SUCCESSFUL": "`Glow` सफलतापूर्वक हटाया गया"
+    "UNG_SUCCESSFUL": "{{author}} **{{glowName}}** `Glow` सफलतापूर्वक आपके पत्ते से हटाया गया",
+    "UNAVAILABLE": "अनुपलब्ध",
+    "UNG_NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नही है।"
 }

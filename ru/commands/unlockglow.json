@@ -7,5 +7,5 @@
     "NOT_ENOUGH_GEMS": "{{author}} У вас недостаточно `Gems`",
     "EMBED_GLOW_TITLE": "SOFI: ГЕНЕРИРОВАТЬ `GLOW`",
     "UNLOCK_GLOW_SUCCESS": "{{author}} Покупка `Glow` успешно совершена",
-    "GLOW_INFO": "Название: `{{glowName}}` \nКод: `#{{glowCode}}` \nЧистота: `{{purity}} %`"
+    "GLOW_INFO": "Название: **{{glowName}}**\nКод: **`#{{glowCode}}`**\nЧистота: **{{purity}}%**"
 }

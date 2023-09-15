@@ -10,6 +10,6 @@
     "PROCESS_COST": "Questo processo costa **1** `Wist` e restituirà lo `Bachground` al tuo Inventory",
     "NOT_ENOUGH_WIST": "{{author}} Non hai abbastanza `{{currency}}` per rimuovere questo `Background`",
     "NO_BG_APPLIED": "{{author}} La carta non ha nessun `Background ` applicato",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} Lo `Background` della tua carta è stato rimosso con successo e restituito al tuo `Inventory`",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} Hai restituito con successo lo `Background` di questa carta al tuo inventory",
     "NO_OWNER": "{{author}} La carta non è più nella tua collezione"
 }
