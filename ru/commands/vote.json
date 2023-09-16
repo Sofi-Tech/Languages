@@ -4,7 +4,7 @@
     "VOTE": "Проголосовать на Top.GG",
     "BUMP": "Стукнуть",
     "EMBED_TITLE": "SOFI: `VOTE` ({{username}})",
-    "USE_WIST": "Вы получите `Wist` <:wist:870339503427027005> за каждое успешное `Vote`!",
+    "USE_WIST": "Вы получаете `Wist` <:wist:870339503427027005> за каждое успешное `Vote`!",
     "TOTAL_VOTES": "> Всего `Votes`: {{totalVotes}}",
     "MONTHLY_VOTES": "- Количество `Votes` в этом месяце: **{{monthlyVotes}}**",
     "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> Осталось **{{monthlyVotes}}** `Votes` для получения `Exotic Chest`",
@@ -12,5 +12,5 @@
     "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> Осталось **{{monthlyVotes}}** `Votes` для получения `Divine Chest`",
     "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Содержит до **2,500** `Cubes` или **{{frameName}}** `Frame`",
     "VOTE_RESET": "- Сброс через: **{{countdown}}**",
-    "EMBED_FOOTER": "Вы получите в два раза больше \"Wists\" в выходные"
+    "EMBED_FOOTER": "Вы получаете в два раза больше \"Wists\" в выходные"
 }

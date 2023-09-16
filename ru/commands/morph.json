@@ -4,7 +4,7 @@
     "CANNOT_MORPH": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
     "NO_GIF_MORPHED": "{{author}} Вы не можете преобразовать `GIF` карту",
     "CONTINUE": "SOFI: ПРЕОБРАЗОВАНИЕ",
-    "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}} за крутку?",
+    "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}}?",
     "CANCELLED": "Процесс отменен",
     "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно `{{currency}}` для данного процесса",
     "BALANCE": "Баланс: **{{amount}}** {{currencyEmoji}}",

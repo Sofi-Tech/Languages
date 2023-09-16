@@ -5,7 +5,7 @@
     "EMBED_DESCRIPTION": "Tem certeza de que deseja comprar **{{count}}** slots extras por **{{amount}}** `{{currency}}`?",
     "EMBED_PAY_FIELD_NAME": "Você paga:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "Você recebe:",
+    "EMBED_GET_FIELD_NAME": "Você Recebe:",
     "EMBED_GET_FIELD_VALUE": "```{{count}} espaços extras na sua lista de desejos```",
     "EMBED_MAXED_DESCRIPTION": "Tem certeza de que deseja desbloquear totalmente sua lista de desejos de **{{amount}}** `{{currency}}`?",
     "EMBED_MAXED_FIELD_VALUE": "````Máximo de slots na lista de desejos (50 vagas)````",

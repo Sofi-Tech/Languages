@@ -1,7 +1,7 @@
 {
     "NOT_ENOUGH_AMOUNT": "{{author}} У вас недостаточно `{{item}}` для совершения покупки",
-    "YOU_PAY": "Вы заплатите: {{additionalInfo}}",
-    "YOU_GET": "Вы получите: {{additionalInfo}}",
+    "YOU_PAY": "Вы платите: {{additionalInfo}}",
+    "YOU_GET": "Вы получаете: {{additionalInfo}}",
     "GUILD_FOUNDER": "Основатель",
     "GUILD_MASTER": "Мастер",
     "GUILD_VETERANS": "Ветераны",

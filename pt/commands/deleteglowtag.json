@@ -2,6 +2,6 @@
     "DGT_DESCRIPTION": "Exclui a \"Glow Tag\"",
     "DGT_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}dgt <Nome da Tag>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} Não foi possível encontrar essa `Glow Tag`",
-    "DELETE_GLOWTAG": "{{author}} `Glow Tag` {{tag}} Excluída"
+    "GLOWTAG_NOT_FOUND": "{{author}} Você não tem nenhuma `Glow Tag` com o nome: `{{tagname}}`",
+    "DELETE_GLOWTAG": "{{author}} Excluiu com sucesso a `Glow Tag` com o nome: `{{tag}}`"
 }

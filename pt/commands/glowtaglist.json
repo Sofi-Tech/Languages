@@ -1,6 +1,8 @@
 {
     "GTL_DESCRIPTION": "Exibe uma lista com suas \"Glow Tags\"",
     "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} Não foi possível encontrar nenhuma `Glow Tag`",
-    "EMBED_TITLE": "Lista de Glow Tags"
+    "NO_TAGS": "{{author}} Você ainda não tem nenhuma `Glow Tag`",
+    "EMBED_TITLE": "SOFI: LISTA DE `GLOW TAG`",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_other": "{{count}} Glows"
 }
