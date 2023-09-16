@@ -3,7 +3,7 @@
     "GN_CATEGORY": "コスメティック",
     "UNLOCK_GLOWS": "{{author}} `Glow`を持っていません",
     "WRONG_USAGE": "{{author}} 正しい使い方は： `{{prefix}}gn <#Glowコード> <新しい名前>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`のコードの最初には必ず **#** を付けます",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} 「`Glow`」のコードの最初には必ず **#** を付けます",
     "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
     "GLOW_NAME_LONG": "{{author}} `Glow`の名前は**25**文字以下に書いてください",
     "GLOW_NAME_EXISTS": "{{author}} その`Glow`の名前はすでに使用されています",

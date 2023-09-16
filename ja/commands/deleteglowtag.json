@@ -3,5 +3,5 @@
     "DGT_CATEGORY": "タグ",
     "CORRECT_USAGE": "{{author}} 正しい使い方は：`{{prefix}}dgt <タグ名>`",
     "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}`の`タグ名`が見つかりませんでした",
-    "DELETE_GLOWTAG": "{{author}} {{tag}} の`Glowタグ`を成功で削除しました"
+    "DELETE_GLOWTAG": "{{author}} `{{tag}}`名の`Glowタグ`を成功で削除しました"
 }

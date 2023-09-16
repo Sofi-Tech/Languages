@@ -1,9 +1,9 @@
 {
     "GUT_DESCRIPTION": "「Glowタグ」を外す",
     "GUT_CATEGORY": "タグ",
-    "NO_GLOWS_FOUND": "{{author}}「 `Glow`」はまだ持っていません",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`のコードの最初には必ず **#** を付けます",
-    "INVALID_GLOWCODE": "{{author}} 提供された 「`Glow`」 コードが無効またはインベントリーにありません",
+    "NO_GLOWS_FOUND": "{{author}} 「`Glow`」はまだ持っていません",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} 「`Glow`」のコードの最初には必ず **#** を付けます",
+    "INVALID_GLOWCODE": "{{author}} 提供された 「`Glow`」コードが無効またはインベントリーにありません",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} **{{glow}}**の「 `Glow`」からタグを成功で外しました",
     "GLOW_UNTAG_PLURAL": "{{author}} **{{count}}**つの「`Glow`」から`Glowタグ`を成功で外しました",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} 次の 「`Glow`」 コードリストが無効またはインベントリーにありません：\n{{invalidCodeList}}"
