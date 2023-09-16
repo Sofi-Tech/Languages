@@ -1,12 +1,11 @@
 {
-  "DESCRIPTION": "Queime suas cartas para obter \"Crystals\" e \"Silver\" que podem ser usados para fazer \"Cubes\" ou comprar vários `Itens` no Bot. Usar o comando \"sb\" por si só vai tentar queimar sua carta mais recente",
-  "GUILDSTONE_BURN": "Você está prestes a usar uma `Guild Stone`",
-  "GUILDSTONE_NOT_FOUND": "Você não tem uma `Guild Stone`",
-
-  "CANCELLED": "CANCELADO",
-  "BURN_FRAG_WARN": "Você está prestes a queimar um `Fragment`\nCódigo do `Fragment`: `{{fragCode}}`",
-  "FRAG_NOT_FOUND": "Nenhum `Fragment` encontrado",
-  "CARD_NOT_FOUND": "Não foi possível encontrar essa carta",
-  "CARD_LOCKED": "Essa carta está bloqueada",
-  "CARD_NOT_OWNED": "Você não tem essa carta"
+    "DESCRIPTION": "Queime suas cartas para obter \"Crystals\" e \"Silver\" que podem ser usados para fazer \"Cubes\" ou comprar vários `Itens` no Bot. Usar o comando \"sb\" por si só vai tentar queimar sua carta mais recente",
+    "GUILDSTONE_BURN": "Você está prestes a usar uma `Guild Stone`",
+    "GUILDSTONE_NOT_FOUND": "Você não tem uma `Guild Stone`",
+    "CANCELLED": "O processo foi cancelado",
+    "BURN_FRAG_WARN": "Você está prestes a queimar um `Fragment`\nCódigo do `Fragment`: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "Nenhum `Fragment` encontrado",
+    "CARD_NOT_FOUND": "Não foi possível encontrar essa carta",
+    "CARD_LOCKED": "Essa carta está bloqueada",
+    "CARD_NOT_OWNED": "Você não tem essa carta"
 }
