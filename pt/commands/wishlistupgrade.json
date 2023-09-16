@@ -7,9 +7,10 @@
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
     "EMBED_GET_FIELD_NAME": "Você recebe:",
     "EMBED_GET_FIELD_VALUE": "```{{count}} espaços extras na sua lista de desejos```",
-    "EMBED_MAXED_DESCRIPTION": "Você deseja maximizar o espaço na sua lista de desejos por {{amount}} {{currency}}?",
-    "EMBED_MAXED_FIELD_VALUE": "```Uma Lista de Desejos completamente desbloqueada (50 espaços)```",
+    "EMBED_MAXED_DESCRIPTION": "Tem certeza de que deseja desbloquear totalmente sua lista de desejos de **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_FIELD_VALUE": "````Máximo de slots na lista de desejos (50 vagas)````",
     "CANCELLED": "CANCELADO",
     "PAY_ERROR": "`Você não possui {{amount}} {{currency}}`",
-    "EMBED_TITLE": "SOFI: ATUALIZAÇÃO DA LISTA DE DESEJOS"
+    "EMBED_TITLE": "SOFI: ATUALIZAÇÃO DA LISTA DE DESEJOS",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Atualizou sua lista de desejos com sucesso"
 }
