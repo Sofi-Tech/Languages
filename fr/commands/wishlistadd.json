@@ -1,10 +1,11 @@
 {
     "DESCRIPTION": "Ajoutez des personnages à votre liste de souhaits",
     "CATEGORY": "Wishlist",
-    "ADD_CHARACTERS_ERROR": "> Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
-    "SEARCH_CHARACTER_ERROR": "Fournissez un nom pour ajouter ce personnage à votre liste de souhaits\nUtilisez `swa -f <nom>` pour une recherche précise",
-    "NO_CHARACTER_FOUND": "Impossible de trouver ce personnage\nUtilisez `swa -f <nom>` pour une recherche précise",
-    "CHARACTER_ALREADY_EXISTS": "**{{name}}** est déjà dans votre liste de souhaits!",
-    "CHARACTER_ADDED": "{{author}} **{{name}}** a été ajouter à votre liste de souhaits",
-    "EMBED_TITLE": "<:lined:868888105611046942> __Ajouter à la liste de souhaits__"
+    "ADD_CHARACTERS_ERROR": "{{author}} Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Utilisation correcte: `{{prefix}}wa <Nom>`",
+    "NO_CHARACTER_FOUND": "{{author}} Impossible de trouver ce personnage. Utilisez la commande `{{prefix}}wa -f <Nom>` pour une recherche précise",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** est déjà dans votre liste de souhaits",
+    "CHARACTER_ADDED": "{{author}} **{{name}}** a été ajouté à votre liste de souhaits avec succès",
+    "EMBED_TITLE": "SOFI: AJOUTER À LA LISTE DE SOUHAITS",
+    "INCREASE_CAPACITY": "Utilisez la commande `{{prefix}}wu` ou `{{prefix}}wu max` pour augmenter la capacité de votre liste de souhaits"
 }

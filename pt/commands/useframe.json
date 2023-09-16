@@ -1,15 +1,15 @@
 {
     "UF_DESCRIPTION": "Aplica um \"Frame\" na sua carta",
     "UF_CATEGORY": "Cosméticos",
-    "UF_INVALID_USAGE": "Uso correto: `{{prefix}}uf <CódigoDaCarta> <NomeDoFrame/CódigoDoFrame>`",
-    "INVALID_CODE": "{{author}} O código da carta é inválido ou não está em sua coleção",
+    "UF_INVALID_USAGE": "{{author}} Uso correto: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está em sua coleção",
     "CANNOT_APPLY": "{{author}} Você não pode aplicar um `Frame` em uma carta `3D`",
     "NO_GIF": "{{author}} Você não pode aplicar um `Frame` em uma carta `GIF`",
-    "NO_FRAMES_FOUND": "{{author}} O código do `Frame` é inválido ou não está em seu `Inventory`",
-    "EMBED_TITLE": "APLICAR FRAME:",
-    "UF_CONFIRMATION": "Você está prestes a aplicar o `Frame` **{{frameName}}** nesta carta",
-    "EMBED_FOOTER": "Esta carta já possui um `Frame` aplicado nela. Aplicar outro destruirá o anterior!",
-    "NO_OWNER": "{{author}} Esta carta não está mais em sua coleção",
-    "FRAME_NOT_FOUND": "{{author}} Você não possui um **{{frameName}}** `Frame`",
-    "UF_SUCCESSFUL": "O`Frame` foi aplicado com sucesso"
+    "NO_FRAMES_FOUND": "{{author}} Esse código `Frame` é inválido ou não está em seu inventário",
+    "EMBED_TITLE": "SOFI: APLICAR `FRAME`",
+    "UF_CONFIRMATION": "Tem certeza de que deseja aplicar o **{{frameName}}** `Frame` a essa carta?",
+    "EMBED_FOOTER": "A confirmação deste processo destruirá o \"Frame\" atualmente aplicado",
+    "NO_OWNER": "{{author}} A carta não está mais em sua coleção",
+    "FRAME_NOT_FOUND": "{{author}} Você não tem o **{{frameName}}** `Frame`",
+    "UF_SUCCESSFUL": "{{author}} Aplicou com sucesso o **{{frameName}}** `Frame` a sua carta"
 }

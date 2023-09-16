@@ -1,10 +1,10 @@
 {
     "BUMP_DESCRIPTION": "Clique em \"Bump\" no site oficial da Sofi.gg para obter recompensas, como o \"Trade Pass\"",
     "BUMP_CATEGORY": "Configurações",
-    "EMBED_AUTHOR": "\"Bumps\" de {{username}}",
-    "GET_DIFFERENT_REWARDS": "Clique em `Bump` no site oficial da Sofi.gg abaixo para obter recompensas",
-    "TOTAL_BUMP": "> Total de `Bumps`: {{bump}}",
-    "BUMP_POINTS": "> Pontos Atuais: {{bumpPoints}}",
-    "EMBED_FOOTER": "Você pode usar a função `Bump` a cada 4 horas!",
+    "EMBED_AUTHOR": "SOFI: `BUMP`de ({{username}})",
+    "GET_DIFFERENT_REWARDS": "Pressione o botão `Bump` em nosso [Website](https://sofi.gg) oficial para obter recompensas",
+    "TOTAL_BUMP": "- Total de `Bumps`: **{{bump}}**",
+    "BUMP_POINTS": "- Pontos atuais: **{{bumpPoints}}** (🔺)",
+    "EMBED_FOOTER": "Você pode usar a função \"Bump\" a cada 4 horas!",
     "BUMP": "Bump"
 }

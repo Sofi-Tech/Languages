@@ -6,7 +6,7 @@
     "SUPPORT_BUTTON_LABEL": "Поддержка",
     "VERIFY_TO_PLAY": "[Пройдите проверку на нашем сайте, чтобы начать играть!](<https://sofi.gg/verify>)",
     "USER_BLACKLISTED": "{{author}} Данный пользователь занесен в черный список",
-    "GLOBAL_COOLDOWN": "{{author}} [`Global`] Подождите **{{cooldown}}** перед использованием команды снова",
+    "GLOBAL_COOLDOWN": "{{author}} [`Global`] Подождите **{{cooldown}}**, прежде чем снова использовать команды",
     "COMMAND_BLACKLISTED": "{{author}} Команда `{{commandName}}` занесена в черный список данного канала",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Мне необходимы права: `{{permissions}}`, чтобы выполнить данную команду",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Вам необходимы права: `{{permissions}}` для использования данной команды",

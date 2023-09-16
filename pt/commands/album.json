@@ -3,7 +3,7 @@
     "ALBUM_CATEGORY": "Album",
     "ALBUM_SLASH_DESC": "Escolha um usuário cujos albuns você deseja ver",
     "ALBUM_SLASH_DESC2": "Digite o nome do album que você está procurando.",
-    "USER_NOT_FOUND": "{{author}} Usuário não encontrado!",
+    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário",
     "PLAYER_NOT_EXIST": "{{author}} Esse jogador não existe",
     "ALBUM_NOT_FOUND": "Nenhum album encontrado para {{username}}",
     "ALBUM_NAME_NOT_FOUND": "{{author}} não pode encontrar álbum com o nome `{{albumName}}`",

@@ -1,10 +1,10 @@
 {
-    "BGS_DESCRIPTION": "Exibe a Loja de Backgrounds",
-    "APPLY_BG": "Para aplicar um `Background` use o comando `sbg <códigodacarta> <bgID>`",
+    "BGS_DESCRIPTION": "Exibe a \"Loja de Background\"",
+    "APPLY_BG": "\nUse o comando `{{prefix}}buy bg <Background-ID> <Amount>` para comprar `Backgrounds`",
     "BGS_CATEGORY": "Cosméticos",
-    "VIEW_BACKGROUNDS": "Clique aqui para ver todos os `Backgrounds`",
+    "VIEW_BACKGROUNDS": "[Clique aqui para ver todos os `Backgrounds`](<https://sofi.gg/backgrounds>)",
     "BGS_SLASH_DESC": "Digite o código do \"Background\" que você está procurando",
-    "EMBED_TITLE": "SOFI 3D BACKGROUNDS:",
+    "EMBED_TITLE": "SOFI: LOJA DE `BACKGROUND`",
     "SHOWING_PAGE": "Mostrando página: {{page}}/{{pages}}",
-    "NO_BG_FOUND": "Esse não é um ID de `Background` válido"
+    "NO_BG_FOUND": "{{author}} Este não é um ID de `Background` válido"
 }

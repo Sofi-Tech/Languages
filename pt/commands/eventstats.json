@@ -1,9 +1,9 @@
 {
-  "ES_DESCRIPTION": "Apresenta um leaderboard para inscrições de cartões \"Evento\"",
-  "ES_CATEGORY": "Configurações",
-  "EMBED_TITLE": "Evento: {{eventName}}",
-  "EVENT_MENU_PLACEHOLDER": "Selecione evento",
-  "MENU_HAL_LABEL": "Dia das Bruxas 2022",
-  "MENU_VAL_LABEL": "Dia dos Namorados 2023",
-  "MENU_MNC_LABEL": "Monocromático 2023"
+    "ES_DESCRIPTION": "Apresenta a Tabela de líderes para inscrições de cartas de \"Evento\"",
+    "ES_CATEGORY": "Configurações",
+    "EMBED_TITLE": "SOFI: ESTATÍSTICAS DO EVENTO ({{eventName}})",
+    "EVENT_MENU_PLACEHOLDER": "Selecione evento",
+    "MENU_HAL_LABEL": "Dia das Bruxas 2022",
+    "MENU_VAL_LABEL": "Dia dos Namorados 2023",
+    "MENU_MNC_LABEL": "Monocromático 2023"
 }

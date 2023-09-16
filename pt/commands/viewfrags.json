@@ -1,7 +1,8 @@
 {
-    "DESCRIPTION": "Exibe a lista de \"Fragmentos\" de um usuário disponíveis",
-    "COLLECTION_PVT": "{{author}} Os `Fragmentos` desse usuário é privado!",
-    "CANNOT_FIND_FRAGS": "{{user}} não foi possível encontrar nenhum `Fragmento` para este usuário",
-    "FRAGS_COUNT": "Contagem de `Fragmentos`: {{totalCount}}",
-    "FRAG_LIST": "Lista de \"Fragmentos\": {{userName}}"
+    "DESCRIPTION": "Exibe a lista de \"Fragments\" de um usuário disponíveis",
+    "COLLECTION_PVT": "{{author}} Os `Fragments` desse usuário são privados",
+    "CANNOT_FIND_FRAGS": "{{user}} Esse usuário não possui nenhum `Fragments`",
+    "FRAGS_COUNT": "Total: {{totalCount}}",
+    "FRAG_LIST": "SOFI: `Fragments` ({{userName}})",
+    "CANNOT_FIND_SELF": "{{user}} Você ainda não tem nenhum `Fragments`"
 }

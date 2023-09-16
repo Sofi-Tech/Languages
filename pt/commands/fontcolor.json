@@ -1,15 +1,16 @@
 {
-    "FC_DESCRIPTION": "Altera a cor da fonte de uma carta aplicando um \"Brilho\" nela",
+    "FC_DESCRIPTION": "Altera a cor da fonte de uma carta aplicando um \"Glow\" nela",
     "FC_CATEGORY": "Cosméticos",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}fc <CódigoDoCartão> <CódigoDoBrilho>`",
-    "NOT_CARD_OWNER": "{{author}} O código da carta que você forneceu é inválido ou não é seu",
-    "3D_ERROR": "{{author}} Você não pode alterar a cor da fonte de cartas 3D",
-    "PROVIDE_GLOWCODE": "{{author}} Uso correto: `{{prefix}}fc <CódigoDoCarta> <CódigoDoBrilho>`",
-    "WRONG_GLOWCODE": "{{author}} Os códigos de `Brilho` sempre começam com um **#**",
-    "CANNOT_FIND_GLOW": "{{author}} Esse código de `Brilho` é inválido ou você não é dono dele",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}fc <CardCode> <GlowCode>`",
+    "NOT_CARD_OWNER": "{{author}} O código da carta fornecido é inválido ou não está em sua coleção",
+    "3D_ERROR": "{{author}} Você não pode aplicar uma cor de fonte diferente a uma variante `3D`",
+    "PROVIDE_GLOWCODE": "{{author}} Uso correto: `{{prefix}}fc <CardCode> <GlowCode>`",
+    "WRONG_GLOWCODE": "{{author}} Códigos `Glow` sempre começam com `#`",
+    "CANNOT_FIND_GLOW": "{{author}} O código `Glow` que você forneceu é inválido ou não está em seu inventário",
     "EMBED_TITLE": "SOFI: COR DA FONTE{{reset}}",
-    "COLOR_NAME": "Nome: {{name}}",
+    "COLOR_NAME": "`Glow`: **{{name}}**",
     "COLOR_CODE": "Código: `{{code}}`",
-    "GLOW_UNAVAILABLE": "Esse `Glow` não tem cargas",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "A cor da fonte do cartão foi alterada com sucesso"
+    "GLOW_UNAVAILABLE": "{{author}} O `Glow` não tem mais cargas",
+    "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Alterou com sucesso a cor da fonte da carta",
+    "PROCESS_CANCELLED": "O processo foi cancelado"
 }

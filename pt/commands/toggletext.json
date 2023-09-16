@@ -1,14 +1,13 @@
 {
-  "TT_DESCRIPTION": "Remover texto do cartão",
-  "TT_CATEGORY": "Cosméticos",
-  "PROVIDE_CARD_CODE": "{{author}}, fornecer código do cartão",
-  "INAVLID_CARD_CODE": "Código do cartão inválido fornecido",
-
-  "CANNOT_FIND_CARD": "Erro! encontrando cartão",
-  "CANNOT_TOGGLE": "{{author}} não pode alternar o texto para cartões de gifs ou 3d",
-  "EMBED_TITLE": "SOFI: TOGGLE TEXT",
-  "TT_CONFIRMATION": "Tem certeza de que deseja {{toggleInfo}}\nO processo custará 1000 <:_:915619222229512213>",
-  "NO_OWNER": "{{author}} Esta carta não está mais em sua coleção",
-  "NOT_ENOUGH_SILVERS": "{{author}} Você não tem `Silver` suficiente para este processo",
-  "TT_ENABLE_SUCCESSFUL": "Texto removido com sucesso"
+    "TT_DESCRIPTION": "Remover texto do cartão",
+    "TT_CATEGORY": "Cosméticos",
+    "PROVIDE_CARD_CODE": "{{author}}, fornecer código do cartão",
+    "INAVLID_CARD_CODE": "Código do cartão inválido fornecido",
+    "CANNOT_FIND_CARD": "Erro! encontrando cartão",
+    "CANNOT_TOGGLE": "{{author}} não pode alternar o texto para cartões de gifs ou 3d",
+    "EMBED_TITLE": "SOFI: TOGGLE TEXT",
+    "TT_CONFIRMATION": "Tem certeza de que deseja {{toggleInfo}}\nO processo custará 1000 <:_:915619222229512213>",
+    "NO_OWNER": "{{author}} A carta não está mais em sua coleção",
+    "NOT_ENOUGH_SILVERS": "{{author}} Você não tem `Silver` suficiente para este processo",
+    "TT_ENABLE_SUCCESSFUL": "Texto removido com sucesso"
 }

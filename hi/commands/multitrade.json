@@ -26,5 +26,5 @@
     "MT_COMPLETE": "मल्टीट्रेड: (पूर्ण)",
     "MISSING_ITEMS": "{{user}} यह items आपकी Invenotry में नहीं है और यह व्यापार में जोड़ी नही जा सकती कृपया जांच करे\n`{{items}}`",
     "CARD_LOCKED": "{{user}} यह पत्ते या तो Locked Tag में है या मौजूदा Deck में उपयोग हो रहे है इन्हे Trade नहीं किया जा सकता है:\n`{{codes}}`",
-    "MEMBER_NOT_VERIFIED": "{{author}} आप वेरिफाइड नहीं है।"
+    "MEMBER_NOT_VERIFIED": "{{author}} वह उपयोगकर्ता वेरिफाइड नहीं है।"
 }
