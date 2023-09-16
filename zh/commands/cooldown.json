@@ -5,6 +5,5 @@
     "GRAB": "领取",
     "VOTE": "投票",
     "BUMP": "Bump",
-    "DAILY": "日常",
-    "UNREAD_MAIL": "\n📫 `${{checkUnreadMailsCount}}` 邮件未读 | 使用 `{{customPrefix}}mail` 命令查看邮件！"
+    "DAILY": "日常"
 }

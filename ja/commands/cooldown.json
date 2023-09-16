@@ -6,6 +6,5 @@
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **`投票する`** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **`バンプ`** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`デイリー`** | **{{cooldown}}**",
-    "UNREAD_MAIL": "\n📫 `{{checkUnreadMailsCount}}`通の未読メールがあります | `{{customPrefix}}mail`を使用してください",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`侵略`** | **{{cooldown}}**"
 }

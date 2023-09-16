@@ -6,7 +6,6 @@
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "UNREAD_MAIL": "\n📫 У вас **{{checkUnreadMailsCount}}** непрочитанных писем {{mailCount}}",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
     "EMBED_TITLE": "SOFI: ОТКАТЫ ({{username}})"

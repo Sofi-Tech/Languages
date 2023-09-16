@@ -6,7 +6,6 @@
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "UNREAD_MAIL": "\n📫 Vous avez **{{checkUnreadMailsCount}}** non lu(s) {{mailCount}}",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "EMBED_TITLE": "SOFI: TEMPS DE RECHARGE ({{username}})",
     "VOTE_LABEL": "Vote"
