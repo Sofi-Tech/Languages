@@ -9,7 +9,7 @@
     "EMBED_DESCRIPTION": "`{{tagName}}`の`タグ`の何を更新したいですか？",
     "REPLACE_NAME": "`{{tagName}}` を置き換えたいタグ名を入力してください",
     "TAGNAME_EXISTS": "{{author}} `{{newTagName}}`の`タグ名`はすでに存在します",
-    "WRONG_TAGNAME_FORMAT": "{{author}} タグ名は英数字で、特殊文字やスペースや予約語を含めることはできません",
+    "WRONG_TAGNAME_FORMAT": "{{author}} 提供された`タグ名`は半角英数字しか入力しないで、特殊文字やスペースや予約語を含められません",
     "TAGNAME_LONG": "{{author}}タグ名は**20**文字以下にしてください",
     "REPLACE_NAME_CONFIRMATION": "本当に`{{oldTag}}` から `{{newTag}}` にタグ名を置き換えますか？",
     "REPLACE_NAME_SUCCESSFUL": "{{author}}タグ名は `{{oldTag}}` から `{{newTag}}` に成功で更新されました",
