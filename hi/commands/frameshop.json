@@ -27,6 +27,7 @@
     "LF_MENU_LABEL": "सीमित",
     "MF_MENU_LABEL": "मासिक",
     "CF_MENU_LABEL": "कस्टम",
-    "EDIT_DESC_SUCCESSFUL": "{{author}} आपकी `Frame` का विवरण सफलतापूर्वक सेट किया गागा",
-    "FS_UNAVAILABLE": "अनुपलब्ध"
+    "EDIT_DESC_SUCCESSFUL": "{{author}} आपकी `Frame` का विवरण सफलतापूर्वक सेट किया गया",
+    "FS_UNAVAILABLE": "अनुपलब्ध",
+    "FRAMESHOP_DESCRIPTION": "\nकलाकार: **{{artist}}**\nकोड: `{{code}}`\nमूल्य: **{{price}}**\n\n```fix\n{{description}}\n```"
 }
