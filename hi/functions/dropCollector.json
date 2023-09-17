@@ -1,6 +1,6 @@
 {
     "EXTRA_GRAB": "{{user}} आपके `Extra Grab` का उपयोग हो रहा है। आपके पास **{{remaining}}** और शेष है।",
-    "GRAB_COOLDOWN": "{{user}} दुबारा `Grab` करने के लिए {{cooldown}} देर प्रतीक्षा करे।",
+    "GRAB_COOLDOWN": "{{user}} दुबारा `Grab` करने के लिए **{{cooldown}}** देर प्रतीक्षा करे।",
     "EVENT_GRAB": "{{user}} ने {{currencyEmoji}} **{{amount}}** `{{eventItem}}` उठाए।",
     "CANNOT_BE_GRABBED": "इन पत्तो को अब हासिल नहीं किया जा सकता",
     "TOOK_CARD": "{{user}} ने उठाया **{{character}}** पत्ता (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",

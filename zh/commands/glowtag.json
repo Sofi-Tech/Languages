@@ -1,11 +1,11 @@
 {
-    "GT_DESCRIPTION": "标记已解锁的发光物",
+    "GT_DESCRIPTION": "分配一个 \"Tag\" 给你的 \"Glows\"",
     "GT_CATEGORY": "标记",
-    "GLOWTAGS_NOT_FOUND": "{{author}}感谢标记，但未找到任何发光标记{{prefix}}",
-    "GLOWS_NOT_UNLOCKED": "{{author}}您还没有解锁任何发光物",
-    "INVALID_GLOW_CODE": "{{author}} 无效的发光代码或未找到发光物",
+    "GLOWTAGS_NOT_FOUND": "{{author}}您没有任何 'Glow Tag'然而。您可以使用以下命令创建它们 {{prefix}}gtc <Name> <Emoji>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}}您没有任何 'Glows' 然而",
+    "INVALID_GLOW_CODE": "{{author}} 至少其中之一 'Glow'您提供的代码无效或不在您的库存中",
     "SUCCESSFUL_GLOWTAG": "{{author}}成功地将 **{{glow}}** 标记为 {{tag}}",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}}那些发光标记已成功标记{{tag}}",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}}全部 'Glows' 已成功标记为： {{tag}}",
     "GLOW_TAG_INVALID": "{{author}} 您没有任何名为“{{tagname}}”的“Glow Tag”",
     "CORRECT_USAGE": "{{author}}正确用法：`{{prefix}}gt <TagName> <GlowCode>`",
     "INVALID_GLOW_SINGULAR": "{{author}} 您提供的“Glow”代码无效或不在您的库存中"

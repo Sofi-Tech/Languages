@@ -12,5 +12,7 @@
     "EMBED_TITLE": "SOFI: ALBUMS ({{username}}",
     "ALBUM_BUTTON_LABEL": "एल्बम बनाएँ",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
-    "EMBED__ALBUM_FOOTER": "मालिक: {{userTag}}"
+    "EMBED__ALBUM_FOOTER": "मालिक: {{userTag}}",
+    "ALBUM_CARDS_one": "`{{count}} पत्ता`",
+    "ALBUM_CARDS_other": "`{{count}} पत्ते`"
 }
