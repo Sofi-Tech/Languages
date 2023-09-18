@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "自分のウィッシュリストにキャラクターを追加する",
+    "DESCRIPTION": "ウィッシュリストにキャラクターを追加する",
     "CATEGORY": "ウィッシュリスト",
     "ADD_CHARACTERS_ERROR": "{{author}} これ以上のキャラクターはウィッシュリストに追加できません",
-    "SEARCH_CHARACTER_ERROR": "{{author}} `{{prefix}}wa <キャラクター名>`は正しい使い方です",
+    "SEARCH_CHARACTER_ERROR": "{{author}} 正しい使い方は：`{{prefix}}wa <キャラクター名>`",
     "NO_CHARACTER_FOUND": "{{author}} キャラクターが見つかりませんでした。完全一致を検索したい場合は `{{prefix}}wa -f <name>` を使ってください",
-    "CHARACTER_ALREADY_EXISTS": "{{author}}「**{{name}}**」はウィッシュリストに存在しています",
-    "CHARACTER_ADDED": "{{author}}「**{{name}}** 」をウィッシュリストに追加しました",
+    "CHARACTER_ALREADY_EXISTS": "{{author}}「**{{name}}**」はウィッシュリストにすでに存在しています",
+    "CHARACTER_ADDED": "{{author}}「**{{name}}** 」をウィッシュリストに成功で追加しました",
     "EMBED_TITLE": "SOFI：ウィッシュリストに追加",
     "INCREASE_CAPACITY": "`{{prefix}}wu` or `{{prefix}}wu max`でウィッシュリストスロットが拡張できます"
 }

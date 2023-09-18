@@ -9,5 +9,5 @@
     "WRONG_USAGE": "{{author}} 正しい使用法： `{{prefix}}give <User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "コード付きのカードが見つかりませんでした：`{{code}}`",
     "CARD_LOCKED": "カードはロックされ、あげることができません! コマンドを使用してください`{{prefix}} ut <CardCode>` そのカードの `タグ` を削除する",
-    "CANCELLED": "ウィッシュリストスロット拡張がキャンセルされました"
+    "CANCELLED": "過程がキャンセルされました"
 }

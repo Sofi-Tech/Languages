@@ -24,5 +24,5 @@
     "ALL_TAG_SUCCESS": "{{author}} すべての{{taglength}}カードは正常に攻撃されていませんでした",
     "PLEASE_WAIT": "しばらくお待ちください<a：ping：876612181725167687>",
     "NO_TAG_FOUND": "タグ はまだありません。コマンド「{{prefix}}tc<TagName> <Emoji>」でそれらを作成できます",
-    "USER_NOT_FOUND": "{{author}} ユーザーが見つかりませんでした"
+    "USER_NOT_FOUND": "{{author}} 提供されたユーザーが見つけられませんでした"
 }

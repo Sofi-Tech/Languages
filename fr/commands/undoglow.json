@@ -2,7 +2,7 @@
     "UNG_DESCRIPTION": "Retire le \"Glow\" d'une carte",
     "UNG_CATEGORY": "Cosmetics",
     "UNG_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}ung <CodeDeCarte>`",
-    "INVALID_CODE": "{{author}} Le code de carte que vous avez fournis est soit invalide soit pas dans votre collection",
+    "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
     "NOT_GLOWED": "{{author}} La carte n'a pas de `Glow` appliqué sur elle",
