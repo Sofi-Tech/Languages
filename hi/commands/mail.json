@@ -1,7 +1,7 @@
 {
     "MAIL_DESCRIPTION": "आए हुए मेल को दर्शाता है।",
     "MAIL_CATEGORY": "SETTINGS",
-    "NO_MAILS_FOUND": "{{author}} आपके पास कोई `Mail` नहीं आया है।",
+    "NO_MAILS_FOUND": "{{author}} आपके पास कोई मेल नहीं आया है।",
     "MENU_PLACEHOLDER": "विकल्प चुने",
     "EMBED_AUTHOR": "{{username}} का Mail कोष",
     "EMBED_FOOTER": "पृष्ट : {{page}}/{{pagesNum}}",

@@ -8,5 +8,8 @@
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "VOTE_LABEL": "वोट",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
+    "UNREAD_MAIL_one": "\n📫 आपके पास **{{count}}** अपठित मेल है।",
+    "READY": "तैयार",
+    "UNREAD_MAIL_other": "\n📫 आपके पास **{{count}}** अपठित मेल है।"
 }

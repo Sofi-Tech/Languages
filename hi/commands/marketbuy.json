@@ -12,7 +12,7 @@
     "PURCHASE_CANCELLED": "{{author}} यह डील अब बाजार में उपलब्ध नहीं है।",
     "MISSING_GEMS": "{{author}} इस प्रक्रिया के लिए आपके पास पर्याप्त `{{currency}}` नही है।",
     "SOMETHING_WRONG": "{{author}} कुछ त्रुटी हुई। दोबारा कोशिश करें",
-    "PURCHASE_SUCCESSFUL": "{{author}} **{{boughtCount}}** {{currency}} खरीदी गई।",
+    "PURCHASE_SUCCESSFUL": "{{author}} **{{boughtCount}}** {{currency}} खरीदी गई",
     "SUCCESS": "{{user}} आपने सफलतापूर्वक **{{orderPrice}}** {{currency}} बेची और पाई **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }
