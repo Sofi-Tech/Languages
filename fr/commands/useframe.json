@@ -1,7 +1,7 @@
 {
     "UF_DESCRIPTION": "Applique une \"Frame\" à votre carte",
     "UF_CATEGORY": "Cosmetics",
-    "UF_INVALID_USAGE": "Utilisation correct: `{{prefix}}uf <CodeDeCarte> <NomDeFrame/CodeDeFrame>`",
+    "UF_INVALID_USAGE": "{{author}} Usage correct: `{{prefix}}uf <CodeCarte> <NomFrame/CodeFrame>`",
     "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de `Frame` aux cartes `3D`",
     "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de `Frame` à une carte `GIF`",
