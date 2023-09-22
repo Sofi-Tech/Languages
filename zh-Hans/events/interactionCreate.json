@@ -1,4 +1,6 @@
 {
     "VERIFY_BUTTON_LABEL": "核实",
-    "SERVER_BLACKLISTED": "{{author}}该服务器已在黑名单。请在 discord.gg/sofi练习我们。"
+    "SERVER_BLACKLISTED": "{{author}}该服务器已在黑名单。请在 discord.gg/sofi联系我们",
+    "COMMAND_BLACKLISTED": "> 该频道中的命令 `{{commandName}}` 已被禁止",
+    "VERIFY_TO_PLAY": "在 <https://sofi.gg/verify> 进行验证以开始游戏"
 }

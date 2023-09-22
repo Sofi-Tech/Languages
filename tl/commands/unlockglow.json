@@ -6,5 +6,6 @@
     "CANCELLED_UNLOCK_GLOW": "Kinansela ang proseso",
     "NOT_ENOUGH_GEMS": "{{author}} Wala kang sapat na `Gems`",
     "EMBED_GLOW_TITLE": "SOFI: GUMAGAWA NG `GLOW`",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} Nakuha mo ang **{{glowName}}** `glow` |`#{{glowCode}}`"
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Matagumpay na nakamibi ng `Glow`",
+    "GLOW_INFO": "Pangalan: **{{glowName}}**\nCode: **`{{glowCode}}`**\nPurity: **{{purity}}%**"
 }
