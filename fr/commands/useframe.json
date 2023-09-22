@@ -1,6 +1,6 @@
 {
     "UF_DESCRIPTION": "Applique une \"Frame\" à votre carte",
-    "UF_CATEGORY": "Cosmetics",
+    "UF_CATEGORY": "Cosmétiques",
     "UF_INVALID_USAGE": "{{author}} Usage correct: `{{prefix}}uf <CodeCarte> <NomFrame/CodeFrame>`",
     "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de `Frame` aux cartes `3D`",
@@ -9,7 +9,7 @@
     "EMBED_TITLE": "APPLIQUER UNE FRAME:",
     "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer la `Frame` **{{frameName}}** à cette carte",
     "EMBED_FOOTER": "La carte possède déjà une `Frame`. En appliquer une nouvelle détruira la précédente!",
-    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
+    "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
     "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la `Frame` **{{frameName}}**",
     "UF_SUCCESSFUL": "La `Frame` a été appliquée avec succès"
 }

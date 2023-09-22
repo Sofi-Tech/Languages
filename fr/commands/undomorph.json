@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "Retirer le `Morph` d'une carte",
-    "UM_CATEGORY": "Cosmetics",
+    "UM_DESCRIPTION": "Retirer le \"Morph\" d'une carte",
+    "UM_CATEGORY": "Cosmétiques",
     "UM_INVALID_USAGE": "{{author}} Utilisation correct: `{{prefix}}um <CodeCarte>`",
     "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "NO_CHARACTER": "{{author}} Ce personnage n'existe plus!",
+    "NO_CHARACTER": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
-    "NOT_MORPHED": "{{author}} Cette carte n'a pas de `Morph` appliqué",
-    "EMBED_TITLE": "RETIRER MORPH",
-    "UM_CONFIRMATION": "Vous êtes sur le point de retirer la morphologie de votre carte\nVotre carte aura l'air comme ci-dessous\nLe processus coûtera **100** `Silver`",
-    "NO_OWNER": "{{author}} Cette carte n'est plus dans votre collection",
-    "SOMETHING_WENT_WRONG": "{{author}} Quelque chose s'est mal passé, essayer à nouveau",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de {{currency}} pour ce processus",
-    "UM_SUCCESSFUL": "Le `Morph` a été retirée avec succès"
+    "NOT_MORPHED": "{{author}} Cette carte n'a pas de morph appliqué",
+    "EMBED_TITLE": "SOFI: RETRAIT DE MORPH",
+    "UM_CONFIRMATION": "Êtes-vous sûr de vouloir supprimer le morph de cette carte pour **{{count}}** {{currencyEmoji}}?",
+    "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
+    "SOMETHING_WENT_WRONG": "{{author}} Quelque chose s'est mal passé, essayer à nouveau s'il vous plaît",
+    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de `{{currency}}`pour ce processus",
+    "UM_SUCCESSFUL": "{{author}} Le morph a été retirée avec succès de cette carte"
 }
