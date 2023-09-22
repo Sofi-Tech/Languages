@@ -6,5 +6,6 @@
     "CANCELLED_UNLOCK_GLOW": "過程がキャンセルされました",
     "NOT_ENOUGH_GEMS": "{{author}} `Gems`は足りません",
     "EMBED_GLOW_TITLE": "SOFI：「`GLOW (輝き)`」の作成",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} **{{glowName}}** `Glow` | `#{{glowCode}}` を手に入りました"
+    "UNLOCK_GLOW_SUCCESS": "{{author}} `Glow`を成功で作成しました",
+    "GLOW_INFO": "名前：**{{glowName}}**\nコード：**`#{{glowCode}}`**\n純度：**{{purity}}%**"
 }
