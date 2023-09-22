@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Ajoutez des personnages à votre liste de souhaits",
-    "CATEGORY": "Wishlist",
+    "CATEGORY": "Liste De Souhaits",
     "ADD_CHARACTERS_ERROR": "{{author}} Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
     "SEARCH_CHARACTER_ERROR": "{{author}} Utilisation correcte: `{{prefix}}wa <Nom>`",
     "NO_CHARACTER_FOUND": "{{author}} Impossible de trouver ce personnage. Utilisez la commande `{{prefix}}wa -f <Nom>` pour une recherche précise",

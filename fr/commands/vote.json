@@ -1,16 +1,16 @@
 {
-    "VOTE_DESCRIPTION": "Affiche les récompenses mensuelles de \"Voter\"",
-    "VOTE_CATEGORY": "Paramètres",
+    "VOTE_DESCRIPTION": "Affiche les récompenses mensuelles venant du \"Voting\"",
+    "VOTE_CATEGORY": "Réglages",
     "VOTE": "Voter sur Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: ({{username}}) `VOTE`",
     "USE_WIST": "Vous obtiendrez un `Wist` <:wist:870339503427027005> pour chaque `Vote`!",
-    "TOTAL_VOTES": "- Total des `Votes`: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- `Votes` mensuels: **{{monthlyVotes}}**",
-    "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> {{monthlyVotes}} `Votes` restants pour obtenir un `Coffre exotique`",
-    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contient jusqu'à **1 000** `Cubes` ou un `Cadre {{frameName}}`**",
-    "CLAIM_DIVINE_CHEST": "**<:divinechest:927502631155429399> {{monthlyVotes}} `Votes` restants pour obtenir un `Coffre divin`**",
-    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contient jusqu'à **2 500** `Cubes` ou un `Cadre {{frameName}}`**",
-    "VOTE_RESET": "> Réinitialisation dans {{countdown}}",
-    "EMBED_FOOTER": "Vous obtenez le double de `Wists` le week-end"
+    "TOTAL_VOTES": "- Total Des `Votes`: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- `Votes` Mensuels: **{{monthlyVotes}}**",
+    "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> {{monthlyVotes}} `Votes` restants pour obtenir un `Coffre Exotique`",
+    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contient jusqu'à **1 000** `Cubes` ou une `Frame {{frameName}}`**",
+    "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> **{{monthlyVotes}}** `Votes` restants pour obtenir un `Coffre Divin`",
+    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contient jusqu'à **2 500** `Cubes` ou une `Frame` **{{frameName}}`**",
+    "VOTE_RESET": "- Réinitialisation dans: **{{countdown}}**",
+    "EMBED_FOOTER": "Vous obtenez le double de \"Wists\" le week-end"
 }

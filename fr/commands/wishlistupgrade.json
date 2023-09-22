@@ -1,14 +1,16 @@
 {
     "DESCRIPTION": "Augmentez la capacité de votre liste de souhaits",
-    "CATEGORY": "Wishlist",
-    "ALREADY_MAXED": "> {{author}} Votre liste de souhaits est déjà au maximum de sa capacité!",
-    "EMBED_DESCRIPTION": "Voulez-vous acheter {{count}} emplacements supplémentaires pour {{amount}} {{currency}}?",
+    "CATEGORY": "Liste De Souhaits",
+    "ALREADY_MAXED": "{{author}} Vous ne pouvez plus améliorer votre liste de souhaits",
+    "EMBED_DESCRIPTION": "Êtes vous sur de vouloir acheter **{{count}}** emplacements supplémentaires pour {{amount}} {{currency}}?",
     "EMBED_PAY_FIELD_NAME": "Vous payez:",
     "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-    "EMBED_GET_FIELD_NAME": "Vous obtenez:",
-    "EMBED_GET_FIELD_VALUE": "```{{count}} emplacements supplémentaires pour votre liste de souhaits```",
-    "EMBED_MAXED_DESCRIPTION": "Voulez-vous maximiser la capacité de votre liste de souhaits pour {{amount}} {{currency}}?",
-    "EMBED_MAXED_FIELD_VALUE": "```Déverrouillez la totalité de votre liste de souhaits (50 emplacements)```",
+    "EMBED_GET_FIELD_NAME": "Vous recevez:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} emplacements supplémentaires de la liste de souhaits```",
+    "EMBED_MAXED_DESCRIPTION": "Êtes vous sur de vouloir débloquer l'entièreté de votre liste de souhaits pour **{{amount}}** `{{currency}}`?",
+    "EMBED_MAXED_FIELD_VALUE": "```Emplacements maximum de la liste de souhaits (50 emplacements)```",
     "CANCELLED": "Le processus a été annulé",
-    "PAY_ERROR": "{{author}} Vous ne possédez pas assez de `{{currency}}` pour ce processus"
+    "PAY_ERROR": "{{author}} Vous ne possédez pas assez de `{{currency}}` pour ce processus",
+    "EMBED_TITLE": "SOFI: AMÉLIORATION DE LA LISTE DE SOUHAITS",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Liste de souhaits améliorer avec succès"
 }

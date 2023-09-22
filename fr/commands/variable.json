@@ -18,9 +18,9 @@
     "PROCESSING": "Traitement de votre demande...<a:loading:876610443148406794>",
     "AVAILABLE": "Chargé",
     "UNAVAILABLE": "Vide",
-    "NAME": "Nom :",
-    "SERIES": "Série :",
-    "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit !",
+    "NAME": "Nom:",
+    "SERIES": "Série:",
+    "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit!",
     "MEMBER_NOT_VERIFIED": "{{author}} Cet utilisateur n'est pas vérifié",
     "ATTACK": "Attaque",
     "DEFENSE": "Défense",
@@ -32,5 +32,8 @@
     "AUTHOR_BLACKLISTED": "{{author}} Vous êtes sur liste noir",
     "MEMBER_BLACKLISTED": "{{author}} Cet utilisateur est sur liste noir!",
     "AUTHOR_QUARANTINED": "{{author}} Vous êtes en quarantaine",
-    "MEMBER_QUARANTINED": "{{author}} Cet utilisateur est en quarantaine"
+    "MEMBER_QUARANTINED": "{{author}} Cet utilisateur est en quarantaine",
+    "AN": "Un",
+    "A": "Un",
+    "THE": "Le"
 }
