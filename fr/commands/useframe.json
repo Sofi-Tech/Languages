@@ -7,8 +7,8 @@
     "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de `Frame` à une carte `GIF`",
     "NO_FRAMES_FOUND": "{{author}} Ce code de `Frame` est soit invalide ou alors n'est pas dans votre inventaire",
     "EMBED_TITLE": "SOFI: APPLIQUER UNE `FRAME`",
-    "UF_CONFIRMATION": "Vous êtes sur le point d'appliquer la `Frame` **{{frameName}}** à cette carte",
-    "EMBED_FOOTER": "La carte possède déjà une `Frame`. En appliquer une nouvelle détruira la précédente!",
+    "UF_CONFIRMATION": "Êtes vous sur de vouloir appliquer la `Frame` **{{frameName}}** à cette carte?",
+    "EMBED_FOOTER": "La confirmation de ce processus détruira la `Frame` actuellement appliqué",
     "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
     "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la `Frame` **{{frameName}}**",
     "UF_SUCCESSFUL": "La `Frame` a été appliquée avec succès"
