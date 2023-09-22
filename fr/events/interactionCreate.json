@@ -1,3 +1,21 @@
 {
-    "VERIFY_BUTTON_LABEL": "Vérifier"
+    "VERIFY_BUTTON_LABEL": "Vérifier",
+    "SERVER_BLACKLISTED": "{{author}} Le serveur est sur liste noire. Veuillez nous contacter sur discord.gg/sofi",
+    "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sous liste noir dans ce salon",
+    "CATEGORY_DISABLED": "{{author}} Cette catégorie a été désactivée\nRaison: `{{reason}}`",
+    "COMMAND_DISABLED": "{{author}} Cette commande a été désactivée\nRaison: `{{reason}}`",
+    "REQUIRE_PERMISSIONS": "{{author}} Vous avez besoin de la permission **{{permissions}}** pour exécuter cette commande",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendez **{{cooldown}}** avant d'utiliser cette commande à nouveau",
+    "REGISTER_TO_PLAY": "{{author}} Veuillez utiliser la commande `{{prefix}}register` pour vous lancer dans votre voyage **Sofi**!",
+    "COMPLETE_COMMAND": "{{author}} Complétez d'abord la commande `{{command}}`!",
+    "COMMAND_RUN_ERROR": "{{author}} Une erreur s'est produite lors de la tentative d'exécution de cette commande. Veuillez réessayer",
+    "VERIFY_TO_PLAY": "[Vérifiez-vous sur notre site Web pour jouer!](<https://sofi.gg/verify>)",
+    "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Attendez **{{cooldown}}** avant d'utiliser cette commande à nouveau",
+    "APPEAL_ACCEPTED": "# __Votre appel a été accepté!__\n- Veuillez rejoindre notre [Serveur De Support](https://discord.gg/XPsQKJjeD7) et créer un ticket sur le canal https://discord.com/channels/863226120245215262/959176115723837530 pour faire avancer votre dossier.\n- Un membre du personnel s'occupera de vous dès que possible, veuillez vous abstenir d'envoyer directement des messages ou de mentionner les membres du personnel sur quelque canal que ce soit concernant votre billet. Enfreindre cette règle peut entraîner une suspension permanente de notre service et du serveur Discord.",
+    "APPEAL_DENIED": "Après avoir étudié votre cas, nous sommes parvenus à la conclusion de rejeter votre appel. Votre statut de liste noire ne sera pas annulé et tous les nouveaux appels à partir de maintenant seront rejetés.\n\n-Sofi Management",
+    "VERSION_ACCEPTED": "Votre soumission de `Version` pour **{{charName}}** de **{{seriesName}}** a été acceptée. **3** <a:wist_spin:973031140581580820> ont été ajoutés à votre inventaire",
+    "VERSION_REJECTED": "Votre soumission de `Version` pour **{{charName}}** de **{{seriesName}}** a été rejetée. [Visitez notre serveur de support pour en savoir plus](<https://discord.gg/RYawNnu6Pp>)",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Votre inventaire contient une valeur négative! Veuillez contacter les développeurs de notre [Serveur de support](https://discord.gg/sofi) pour résoudre ce problème",
+    "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Vous avez été mis sur liste noire pour avoir enfreint les règles de Sofi !__\n\n**Une liste des raisons possibles pouvant avoir causé cela:**\n```CSS\n- Interagir avec Sofi sur plusieurs comptes (Alting)\n- Vendre ou acheter des comptes Discord entiers\n- Arnaquer d'autres utilisateurs\n- Profiter ou être impliqué dans l'une des activités ci-dessus\n```\n\n:link: [Faites appel de votre mise sur liste noire](<https://sofi.gg/appeal>)\n:lien: [Serveur De Support](https://discord.gg/sofi)",
+    "BOT_IN_SAFEMODE": "{{author}} **Sofi** est actuellement en safe-mode! Durée estimée: **{{eta}}**\nNous nous excusons pour tout inconvénient causé par cela et vous demandons de faire preuve de patience!"
 }
