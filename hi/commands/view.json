@@ -5,12 +5,14 @@
     "SERIES": "शृंखला:",
     "NAME": "नाम:",
     "OWNED_BY": "मौजूदा मालिक:",
-    "SERVER": "सर्वर:",
-    "CLAIMED": "प्राप्त किया",
+    "SERVER": "सर्वर-ID:",
+    "CLAIMED": "प्राप्त किया:",
     "MOVES": "शक्तियां",
     "OWNER_HISTORY": "पूर्व मालिक",
     "PREVIOUS_OWNERS": "**__पूर्व मालिक__**",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - प्रभावशीलता **({{percentage}}%)**",
     "EMBED_TITLE": "SOFI: VIEW",
-    "NO_PREVIOUS_OWNERS": "कोई नही"
+    "NO_PREVIOUS_OWNERS": "कोई नही",
+    "SPECIAL": "स्पेशल",
+    "INFO_BUTTON_LABEL": "जानकारी"
 }
