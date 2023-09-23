@@ -2,7 +2,7 @@
     "DESCRIPTION": "Affiche les informations d'une carte",
     "SLASH_DESC": "Entrez le code d'une carte que vous souhaitez examiner",
     "NO_CARD_FOUND": "Impossible de trouver votre dernière carte. Essayez de fournir un code de carte à la place",
-    "INVALID_CARD_CODE": "{{author}} Le code de carte que vous avez fournis est soit invalide soit n'est pas dans votre collection",
+    "INVALID_CARD_CODE": "{{author}} Le code de carte que vous avez fourni est soit invalide soit n'est pas dans votre collection",
     "CARD_GLOWED": "`{{isSuper}}Glow` appliqué: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "Couleur du Texte: **{{fontName}}** (`#{{viewCode}}`)\n",
     "CARD_FRAMED": "`Frame` appliqué: **{{frameName}}**\n",
