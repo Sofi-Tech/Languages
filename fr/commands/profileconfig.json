@@ -39,7 +39,7 @@
     "SET_BG_CONFIRM": "Êtes-vous sûr de vouloir acheter le background **{{selectedbg}}** pour **{{amount}}** {{emoji}}?",
     "SET_FONT_GLOW": "Êtes-vous sûr de vouloir appliquer le `Glow` **{{glowName}}** a la police de votre profil?",
     "PURCHASE_BUTTON_LABEL": "Acheter",
-    "SET_FC_CONFIRM": "Êtes-vous sûr de vouloir définir **{{character}}** de **{{series}}** comme personnage préféré ?",
+    "SET_FC_CONFIRM": "Êtes-vous sûr de vouloir définir **{{character}}** de **{{series}}** comme personnage préféré?",
     "CANNOT_SET_PBG": "{{author}} Vous n'avez pas assez de `{{currency}}` pour acheter ce background de profil",
     "PROCESS_NOT_COMPLETED": "Le processus a été annulé",
     "SET_INTRO_CONFIRM": "Êtes-vous sûr de vouloir afficher le texte suivant sur votre profil?\n\n ```fix\n {{intro}}\n ```",

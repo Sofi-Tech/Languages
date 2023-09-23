@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Acheter des \"Wists\" depuis le marché en échange de \"Gems\"",
+    "DESCRIPTION": "Achetez des \"Wists\" depuis le marché en échange de \"Gems\"",
     "CORRECT_USAGE": "{{author}} Utilisation correcte:`{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
     "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fournis est invalide",
-    "CANNOT_PURCHASE": "{{user}} Vous ne pouvez pas interagir avec cet annonce",
-    "CANNOT_SELF": "{{user}} Vous ne pouvez pas acheter a partir de votre propre annonce",
-    "WIST_NOT_EXCEED": "{{author}} Cette annonce n'a plus que **{{amount}}** `{{currency}}` achetable",
+    "CANNOT_PURCHASE": "{{user}} Vous ne pouvez pas interagir avec cette annonce",
+    "CANNOT_SELF": "{{user}} Vous ne pouvez pas acheter votre propre annonce",
+    "WIST_NOT_EXCEED": "{{author}} Cette annonce n'a plus que **{{amount}}** `{{currency}}` disponibles",
     "PRODUCT": "Vous recevez:",
     "VALUE": "Vous payez:",
     "RATE": "Taux:",
@@ -13,6 +13,6 @@
     "MISSING_GEMS": "{{author}} Vous n'avez pas assez de `{{currency}}` pour ce processus",
     "SOMETHING_WRONG": "{{author}} Quelque chose s'est mal passé. Veuillez réessayez",
     "PURCHASE_SUCCESSFUL": "{{author}} Acheté avec succès **{{boughtCount}}** {{currency}}",
-    "SUCCESS": "{{user}} Vous avez vendu **{{orderPrice}}** {{currency}} et reçu **{{soldAmount}}** {{currencySoldEmoji}} ! | L'ID de l'Annonce: `{{dealId}}`",
+    "SUCCESS": "{{user}} Vous avez vendu **{{orderPrice}}** {{currency}} et reçu **{{soldAmount}}** {{currencySoldEmoji}} ! | ID de l'Annonce: `{{dealId}}`",
     "MB_EMBED_TITLE": "SOFI: MARCHÉ ACHAT"
 }

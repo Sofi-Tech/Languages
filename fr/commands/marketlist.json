@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Met vos \"Wists\" sur le marché, qui peuvent ensuite être achetés par d'autres joueurs avec des \"Gems\"",
+    "DESCRIPTION": "Mettez vos \"Wists\" sur le marché, qui peuvent ensuite être achetés par d'autres joueurs avec des \"Gems\"",
     "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}ml <Quantité> <Taux>`",
-    "INVALID_GEM_RATE": "{{user}} Le ratio que vous avez fourni est invalide",
+    "INVALID_GEM_RATE": "{{user}} Le taux que vous avez fourni est invalide",
     "GEM_RATE_LIES": "{{user}} Le taux fourni doit être compris entre **3.0 - 20.0**",
     "ALREADY_EXISTS": "{{author}} Utilisez la commande `{{prefix}}mul {{dealID}}` pour supprimer votre annonce existante",
     "PRODUCTS": "Liste:",
