@@ -2,7 +2,7 @@
     "FC_DESCRIPTION": "Change la couleur de la police d'une carte en lui appliquant un \"Glow\"",
     "FC_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}fc <CodeDeCarte> <CodeDeGlow>`",
-    "NOT_CARD_OWNER": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "NOT_CARD_OWNER": "{{author}} Le code de carte fourni n'est soit pas dans votre collection soit invalide",
     "3D_ERROR": "{{author}} Vous ne pouvez pas appliquer une couleur de la police différente a une variante `3D`",
     "PROVIDE_GLOWCODE": "{{author}} Utilisation correcte: `{{prefix}}fc <CodeDeCarte> <CodeDeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Les codes de `Glow` commencent toujours par un `#`",

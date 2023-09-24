@@ -1,6 +1,6 @@
 {
     "DM_FILE": "{{author}} Un fichier .csv vous a été envoyé par message\n\n>**Note**: Lors de l'importation du fichier dans Excel ou dans un tableur, veillez à ce que le séparateur soit une \"virgule\"!",
-    "SHEET_CATEGORY": "Paramètres",
+    "SHEET_CATEGORY": "Réglages",
     "CANNOT_DM": "{{author}} Impossible de vous envoyer le fichier de tableur. Veillez à ce que vos messages soient ouverts!",
     "NO_COLLECTION": "{{author}} Vous n'avez pas de cartes dans votre collection",
     "NO_GUILD_INFO": "{{author}} Vous n'êtes actuellement pas dans une guilde",
