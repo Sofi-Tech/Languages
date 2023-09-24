@@ -2,7 +2,7 @@
     "TT_DESCRIPTION": "Bascule la visibilité du texte d'une carte",
     "TT_CATEGORY": "Cosmétiques",
     "PROVIDE_CARD_CODE": "{{author}} Utilisation correcte: `{{prefix}}tt <CodeDeCarte>`",
-    "INAVLID_CARD_CODE": "{{author}} Le code de carte fourni n'est soit pas dans votre collection soit invalide",
+    "INAVLID_CARD_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CANNOT_FIND_CARD": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
     "CANNOT_TOGGLE": "{{author}} Vous ne pouvez pas modifier le texte pour les cartes `3D` ou `GIF`",
     "EMBED_TITLE": "SOFI: BASCULER LE TEXTE",
