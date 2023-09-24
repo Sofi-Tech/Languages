@@ -5,7 +5,7 @@
     "CANCELLED": "Le processus a été annulé",
     "BURN_FRAG_WARN": "Voulez-vous vraiment burn ce \"Fragment\" ?\n\nNom : **{{characterName}}**\nSérie : **{{seriesName}}**\nCode : `{{fragCode}}`",
     "FRAG_NOT_FOUND": "{{author}} Le code du `Fragment` que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "CARD_NOT_FOUND": "{{author}} Le code de carte fourni n'est soit pas dans votre collection soit invalide",
+    "CARD_NOT_FOUND": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CARD_LOCKED": "{{author}} Cette carte est verrouillée et ne peut pas être burn",
     "CARD_NOT_OWNED": "{{author}} Cette carte n'est plus dans votre collection",
     "SERIES": "Série:",
