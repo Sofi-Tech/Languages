@@ -3,12 +3,12 @@
     "UNLOCK_GLOWS": "{{author}} Vous n'avez pas encore de `Glows`",
     "RG_DESCRIPTION": "Recharge un \"Glow\" vide",
     "RG_CATEGORY": "Cosmetics",
-    "NO_GLOWCDE": "{{author}} Usage correct: `{{prefix}}rg <#CodeDuGlow>`",
+    "NO_GLOWCDE": "{{author}} Utilisation correcte: `{{prefix}}rg <#CodeDuGlow>`",
     "GLOW_NOT_FOUND": "{{author}} Le code de `Glow` que vous avez fourni est invalide ou n'est pas dans votre inventaire",
     "EMBED_TITLE": "SOFI: RECHARGE DE `GLOW`",
-    "GLOW_AVAILABLE": "{{author}} Ce `Glow` est déjà charger",
+    "GLOW_AVAILABLE": "{{author}} Ce `Glow` est déjà chargé",
     "NO_MONEY": "{{author}} Vous n'avez pas assez de `Recharges` pour ce processus!",
-    "SUCCESSFUL_RECHARGE": "{{author}} Votre `Glow` **{{glowName}}** a été recharger avec succès!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Votre `Glow` **{{glowName}}** a été rechargé avec succès!",
     "RECHARGE_CONFIRMATION": "Êtes-vous sûr de vouloir recharger ce `Glow`?\n\nNom: **{{name}}**\nCode: `{{glowCode}}`\nPrix: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "SUPER_RECHARGE_CONFIRMATION": "Êtes-vous sûr de vouloir recharger ce `Glow`?\n\nNom: **{{name}} (Super)**\nCode: `{{glowCode}}`\nPrix: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

@@ -2,7 +2,7 @@
     "DESCRIPTION": "Cela échangera les codes des deux cartes mentionnées",
     "SLASH_DESC": "Entrez le premier code",
     "SLASH_DESC2": "Entrez le second code",
-    "CORRECT_USAGE": "{{author}} Usage correct: `{{prefix}}cs <Code1> <Code2>`",
+    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}cs <Code1> <Code2>`",
     "INVALID_CODES_PROVIDED": "{{author}} Au moins un des codes de carte que vous avez fournis est invalide ou n'est pas dans votre collection",
     "SUCCESSFUL_CODE_SWAP": "{{author}} A échanger avec succès les codes des cartes sélectionnées"
 }

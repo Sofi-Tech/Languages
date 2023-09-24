@@ -2,8 +2,8 @@
     "SWAP_DESCRIPTION": "\"Swaps\" les cosmétiques entre deux cartes",
     "SWAP_CATEGORY": "Cosmétiques",
     "MENU_FRAME_LABEL": "Frame",
-    "MENU_TEXT_LABEL": "Visibilité Du Texte",
-    "MENU_COLOR_LABEL": "Couleur De Police",
+    "MENU_TEXT_LABEL": "Visibilité du Texte",
+    "MENU_COLOR_LABEL": "Couleur de Police",
     "MENU_MORPH_LABEL": "Morph",
     "MENU_GLOW_LABEL": "Glow",
     "MENU_BG_LABEL": "Background",
@@ -15,7 +15,7 @@
     "EMBED_FOOTER": "Ce processus consommera un \"Swap Token\"",
     "SWAPS_CHOSEN": "Êtes-vous sûr de vouloir swap les cosmétiques suivants ?\n",
     "MISSING_SWAP_TOKEN": "{{author}} Il vous manque un `Swap Token` pour ce processus",
-    "DOES_NOT_WORK": "{{author}} Vous ne devez pas essayer d'exploiter un bug, si vous rencontrez des bugs exploitables, veuillez les signaler directement à l'équipe de Sofi!",
+    "DOES_NOT_WORK": "{{author}} Vous ne devez pas essayer d'exploiter un bug, si vous rencontrez des bugs exploitables, veuillez les signaler directement au Staff de Sofi!",
     "SWAP_SUCCESSFUL": "{{author}} Swap réussi des cosmétiques choisis",
     "INVAILD_CODE": "{{author}} Au moins un des codes de carte que vous avez fournis est soit invalide ou ne figure pas dans votre collection"
 }

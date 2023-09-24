@@ -5,6 +5,6 @@
     "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
     "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre `Tag` doit être alphanumérique et ne doit pas contenir de caractères spéciaux, d'espaces ou de mots injurieux!",
     "LONG_TAGNAME": "{{author}} Le nom de votre `Tag` ne peut contenir que **20** caractères",
-    "TAGNAME_EXISTS": "{{author}} Vous posséder déjà un `Tag` avec le nom `{{tag}}`",
+    "TAGNAME_EXISTS": "{{author}} Vous possédez déjà un `Tag` avec le nom `{{tag}}`",
     "TAG_CREATED": "{{author}} Création réussie du `Tag` portant le nom: `{{tag}}` | {{emoji}}"
 }
