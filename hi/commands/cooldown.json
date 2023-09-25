@@ -6,7 +6,7 @@
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "VOTE_LABEL": "वोट",
+    "VOTE_LABEL": "Vote",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
     "UNREAD_MAIL_one": "\n📫 आपके पास **{{count}}** अपठित मेल है।",
