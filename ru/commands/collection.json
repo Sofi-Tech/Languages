@@ -21,7 +21,7 @@
     "SORT_HP": "Здоровье",
     "SORT_DUPE": "Дубликаты",
     "ALL_UNTAG_SUCCESS": "{{author}} Следующий `Tag` успешно снят с **{{taglength}}** карт: `{{tagName}}`",
-    "ALL_TAG_SUCCESS": "{{author}} **{{taglength}}** карт успешно отмечено следующим `Tag`: `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} **{{taglength}}** карт успешно отмечено следующей `Tag`: `{{tagName}}`",
     "PLEASE_WAIT": "Пожалуйста, подождите <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",

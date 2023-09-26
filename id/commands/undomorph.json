@@ -2,7 +2,7 @@
     "UM_DESCRIPTION": "Menghapus \"Morph\" dari sebuah kartu",
     "UM_CATEGORY": "Kosmetik",
     "UM_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}um <KodeKartu>`",
-    "INVALID_CODE": "{{author}} Kode kartu yang anda sebut ga valid atau ga ada di koleksi anda",
+    "INVALID_CODE": "{{author}} Kode kartu yang anda sebut gak valid atau gak ada di koleksi anda",
     "NO_CHARACTER": "{{author}} Karakter pada kartu ini sudah tidak tersedia di Sofi dan tidak dapat diinteraksikan",
     "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu `GIF`",
     "NOT_MORPHED": "{{author}} Kartu tersebut tidak memiliki morph yang digunakan",

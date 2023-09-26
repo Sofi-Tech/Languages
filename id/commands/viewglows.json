@@ -11,13 +11,14 @@
     "NO_GLOWS_FOUND": "{{author}} Anda tidak memiliki `Tag` dengan nama: `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} Tidak dapat menemukan `Glow` dengan kode: `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: MELIHAT GLOW",
-    "NAME": "`Nama:     ` ➜ {{name}}",
-    "CODE": "`Kode:     ` ➜ `#{{code}}`",
-    "STATUS": "`Status:` ➜**{{status}}**",
-    "TYPE": "`Tipe:     ` ➜ {{type}}",
-    "OWNER": "`Pemilik:    ` ➜ <@{{ownerId}}>",
-    "PURITY": "Kemurnian : ➜ {{purity}}",
+    "NAME": "`Nama:     ` ➜ **{{name}}**",
+    "CODE": "`Kode         ` ➜ `#{{code}}`",
+    "STATUS": "`Status        ` ➜**{{status}}**",
+    "TYPE": "`Tipe:     ` ➜ **{{type}}**",
+    "OWNER": "`Pemilik      ` ➜ <@{{ownerId}}>",
+    "PURITY": "Kemurnian      ➜ {{purity}}",
     "NO_GLOWS_SELF": "{{author}} Anda belum memiliki `Glows`",
     "INVALID_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
-    "PURITY2": "Kemurnian2: ➜ {{purity2}}"
+    "PURITY2": "Kemurnian2          ➜ {{purity2}}",
+    "SORT_BUTTON_LABEL": "Urutkan"
 }

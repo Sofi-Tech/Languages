@@ -6,7 +6,7 @@
     "EMBED_TITLE": "SOFI: BACKGROUND",
     "EMBED_DESCRIPTION": "Apakah anda yakin ingin menggunakan **{{background}}** `Background` ke kartu ini?",
     "USER_NO_BG": "{{author}} Anda tidak punya `Background` itu",
-    "INVALID_CODE": "{{author}} Kode kartu yang anda sebut ga valid atau ga ada di koleksi anda",
+    "INVALID_CODE": "{{author}} Kode kartu yang anda sebut gak valid atau gak ada di koleksi anda",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}bg <KodeKartu> <Background-ID>`",
     "BG_APPLY_SUCCESSFUL": "{{author}} Berhasil menggunakan **{{background}}** `Background` ke kartu Anda"
 }

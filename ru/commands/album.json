@@ -12,5 +12,7 @@
     "ALBUM_BUTTON_LABEL": "Создать альбом",
     "EMBED_ALBUM_TITLE": "SOFI: АЛЬБОМ \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "Принадлежит {{userTag}}",
-    "ALBUM_SLASH_DESC": "Выберите пользователя, альбомы которого вы хотите посмотреть"
+    "ALBUM_SLASH_DESC": "Выберите пользователя, альбомы которого вы хотите посмотреть",
+    "ALBUM_CARDS_one": "`{{count}} card`",
+    "ALBUM_CARDS_other": "`{{count}} карт`"
 }

@@ -5,12 +5,14 @@
     "SERIES": "Seri:",
     "NAME": "Nama:",
     "OWNED_BY": "Dimiliki oleh:",
-    "SERVER": "Server:",
+    "SERVER": "Server-ID:",
     "CLAIMED": "Diklaim di:",
     "MOVES": "Kemampuan",
     "OWNER_HISTORY": "Riwayat Pemilik",
     "PREVIOUS_OWNERS": "**__Pemilik Sebelumnya__**",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensi **({{percentage}}%)**",
     "EMBED_TITLE": "SOFI: VIEW",
-    "NO_PREVIOUS_OWNERS": "Tidak ada"
+    "NO_PREVIOUS_OWNERS": "Tidak ada",
+    "SPECIAL": "Istimewa",
+    "INFO_BUTTON_LABEL": "Keterangan"
 }

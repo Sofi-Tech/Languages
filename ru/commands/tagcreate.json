@@ -1,6 +1,6 @@
 {
     "TC_DESCRIPTION": "Создает \"Tag\"",
-    "TC_CATEGORY": "Отметки",
+    "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Данный смайлик недействителен",
     "INVALID_TAGNAME_FORMAT": "{{author}} Название вашей `Tag` должно быть буквенно-цифровым и не может содержать специальные символы, пробелы или ненормативную лексику!",

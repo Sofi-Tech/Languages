@@ -1,6 +1,6 @@
 {
     "TAG_DESCRIPTION": "Отмечает ваши карты с помощью \"Tag\"",
-    "TAG_CATEGORY": "Отметки",
+    "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}t <CardCode> <TagName>`",
     "NO_TAGS_CREATED": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
     "TAG_NOT_FOUND": "{{author}} У вас нет `Tag` с названием `{{tag}}`",

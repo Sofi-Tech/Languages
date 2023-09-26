@@ -1,6 +1,6 @@
 {
     "UT_DESCRIPTION": "Удаляет \"Tags\" с ваших карт",
-    "UT_CATEGORY": "Отметки",
+    "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} У вас в коллекции пока нет ни одной карты",
     "UNTAG_SUCCESSFUL": "{{author}} `Tag` успешно удалена с карты **{{cardName}}**",
     "INVALID_CODE": "{{author}} Данный код карты недействителен или не является частью вашей коллекции",

@@ -1,7 +1,7 @@
 {
     "HELP_CATEGORY": "Settings",
     "HELP_SLASH_DESC": "Beri nama perintah yang ingin anda ketahui lebih lanjut",
-    "FILTER_EMBED_TITLE": "Filter koleksi sofi",
+    "FILTER_EMBED_TITLE": "SOFI: FILTER KOLEKSI",
     "FILTER_NAME": "<:pdot:979009081325019156> **Nama** = [`n`/`name`] | **`sc n=NAMA`**",
     "FILTER_SERIES": "<:pdot:979009081325019156> **Seri** = [`s`/`series`] | **`sc s=SERI`**",
     "FILTER_DATE": "<:pdot:979009081325019156> **Tanggal** = [`d`/`date`] | **`sc d<DD/MM/YYYY`**",
@@ -43,12 +43,12 @@
     "COOLDOWN": "Cooldown:",
     "DESCRIPTION": "Deskripsi:",
     "USAGE": "Penggunaan:",
-    "NO_ALIASES": "Tanpa alias",
+    "NO_ALIASES": "Tidak ada",
     "NOT_PROVIDED": "Tidak tersedia",
     "HELP_DESCRIPTION": "Menampilkan daftar semua perintah yang tersedia",
     "FILTER_CODE": "<:pdot:979009081325019156> **Kode** = [`c`/`code`] | **`sc c=KODE`**",
     "ALL_FILTER_CATEGORIES": "**__Kategori Tersedia:__** \n<:pdot:979009081325019156> **`Anime, Cartoon, Movie`** \n<:pdot:979009081325019156> **`Vtuber, Kpop, Jpop, Cpop`** \n<:pdot:979009081325019156> **`Art, Comic, Manga, Webtoon, Webseries`** \n<:pdot:979009081325019156> **`Games, Memes`**",
     "USE_FILTER_ORDER": "**__Opsi Pengurutan:__**\n\n<:pdot:979009081325019156> **Urutan** = [`o`/`order`] | **`sc order wl>NUMBER o=d`**\n<:pdot:979009081325019156> **Turun** = [`d`] | `sc order wl>NUMBER o=d`\n<:pdot:979009081325019156> **Naik** = [`a`] | `sc order wl>NUMBER o=a`",
     "USE_FILTER_OPERATORS_3": " '<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
-    "COMMNAD_NOT_FOUND": "{{author}} Tidak ada perintah dengan nama: `{{command}}`! Apakah Anda mencari `{{commandName}}`?"
+    "COMMNAD_NOT_FOUND": "{{author}} Tidak ada perintah dengan nama: `{{command}}`! \nApakah maksud anda`{{commandName}}`?"
 }
