@@ -7,7 +7,7 @@
     "PROVIDE_GLOWCODE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "WRONG_GLOWCODE": "{{author}} Kode `Glow` selalu dimulai dengan tanda `#`",
     "CANNOT_FIND_GLOW": "{{author}} Kode `Glow` yang anda berikan tidak valid atau tidak ada di inventory anda",
-    "EMBED_TITLE": "SOFI: WARNA FONT{{reset}}",
+    "EMBED_TITLE": "SOFI: FONT COLOR {{reset}}",
     "COLOR_NAME": "`Glow` : **{{name}}**",
     "COLOR_CODE": "Kode: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} `Glow` tidak memiliki charges yang tersisa",

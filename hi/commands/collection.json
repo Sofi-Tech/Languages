@@ -34,5 +34,5 @@
     "EMBED_FOOTER": "पृष्ठ: {{page}}/{{totalPages}} | कुल पत्ते: {{count}} {{sortedBy}}",
     "NO_RESULTS_OTHERS": "{{author}} उस उपयोगकर्ता के संग्रह में कोई भी पत्ता नही है।",
     "TAG_NO_CARDS_FOUND": "{{author}} इस `Tag` से कोई पत्ता नही मिला : `{{arg}}`",
-    "MASSTAG_WRONG_TAG": "{{author}} इस `Tag` से कोई पत्ता नही मिला : `{{arg}}`"
+    "MASSTAG_WRONG_TAG": "{{author}} इस नाम से कोई `Tag` नही मिला : `{{arg}}`"
 }

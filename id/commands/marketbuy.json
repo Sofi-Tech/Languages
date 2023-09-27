@@ -14,5 +14,5 @@
     "SOMETHING_WRONG": "{{author}} Terjadi kesalahan. Mohon coba lagi",
     "PURCHASE_SUCCESSFUL": "{{author}} Berhasil membeli **{{boughtCount}}** {{currency}}",
     "SUCCESS": "{{user}} Anda telah berhasil menjual **{{orderPrice}}** {{currency}} dan menerima **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`",
-    "MB_EMBED_TITLE": "SOFI: PEMBELIAN PASAR"
+    "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }
