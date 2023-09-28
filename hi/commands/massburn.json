@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "कई पत्ते एक साथ जलाता है",
-    "IN_ACTIVE_MB": "{{user}} आप एक सक्रिय `massburn` के साथ दूसरा शुरू नही कर सकते है।",
+    "IN_ACTIVE_MB": "{{user}} आप एक सक्रिय `massburn` के दौरान दूसरा शुरू नही कर सकते है।",
     "PROVIDE_FILTERS": "{{author}} सही उपयोग: `{{prefix}}mb <Filters>`\n\n```fix\nनोट: फिल्टर के लिए सहायता लेने में \"{{prefix}}help filters\" का उपयोग करे।\n```",
     "WRONG_TAG": "{{author}} इस नाम से कोई `Tag` नही मिला : `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} आपके खोज अनुसार कोई भी पत्ता नही मिला।",
