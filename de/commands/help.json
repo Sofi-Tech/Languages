@@ -43,7 +43,7 @@
     "GUIDE_BUTTON_LABEL": "Anleitung!",
     "EMBED_TITLE": "SOFI: HILFE MENÜ",
     "EMBED_FOOTER": "Angefragt von {{username}}",
-    "COMMNAD_NOT_FOUND": "{{author}} | Es gibt keinen Befehl mit dem Namen: `{{command}}`! Meintest du vielleicht `{{commandName}}`?",
+    "COMMNAD_NOT_FOUND": "{{author}} | Es gibt keinen Befehl mit dem Namen: `{{command}}`!\nMeintest du vielleicht `{{commandName}}`?",
     "USAGE_EMBED_TITLE": "SOFI: HILFE ({{command}})",
     "ALIASES": "Aliase:",
     "COOLDOWN": "Abklingzeit:",
