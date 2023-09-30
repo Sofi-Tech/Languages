@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Vous pouvez afficher votre collection de cartes en utilisant la commande \"sc\"\n- Votre collection peut être triée par Nom, Cosmétiques, Stats et bien plus!\n- Elle peut également être filtrée par \"Nombre de souhaits\", \"Gen\" ou nom de \"Tag\"\n- Utilisez la commande \"sc t:ut\" pour afficher toutes les cartes ne possédant pas de tag dans votre collection",
-    "SLASH_CMD_DESC": "Affichez votre collection de cartes",
+    "DESCRIPTION": "Vous pouvez afficher votre collection de cartes en utilisant la commande \"sc\"\n- Votre collection peut être triée par Nom, Cosmétiques, Stats et bien plus\n- Elle peut également être filtrée par \"Nombre de souhaits\", \"Gen\" ou nom de \"Tag\"\n- Utilisez la commande \"sc t:ut\" pour afficher toutes les cartes ne possédant pas de tag dans votre collection",
+    "SLASH_CMD_DESC": "Affiche votre collection de cartes",
     "SLASH_DESC": "Mentionnez un utilisateur dont vous voulez voir la collection",
     "SLASH_DESC2": "Entrez les filtres que vous voulez appliquer à la collection",
     "PLAYER_NOT_EXIST": "{{author}} Cet utilisateur n'est pas inscrit!",
@@ -10,7 +10,7 @@
     "NOTHING_FOUND": "Impossible de trouver une carte",
     "CHOOSE_SORTING": "Trier par",
     "SORT_CHAR": "Nom",
-    "SORT_SERIES": "Serie",
+    "SORT_SERIES": "Série",
     "SORT_GEN": "Gen",
     "SORT_WL": "Nombre de Souhaits",
     "CHECK_COSMETICS": "Cosmétiques",

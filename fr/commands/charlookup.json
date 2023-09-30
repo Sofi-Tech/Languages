@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "- Vous pouvez rechercher un personnage spécifique en utilisant la commande \"scl\". Dans le menu, vous pouvez consulter les statistiques d'une carte, leurs différentes variantes de Version/3D/GIF, ainsi que le classement par Gen ou bien celui des Fans et leur \"Card ID\".\n- Le \"Card ID\" est nécessaire lors de la soumission d'images pour de nouvelles \"Versions\"",
+    "DESCRIPTION": "- Vous pouvez rechercher un personnage spécifique en utilisant la commande \"scl\". Dans le menu, vous pouvez consulter les statistiques d'une carte, leurs différentes variantes de Version/3D/GIF, ainsi que le classement par Gen/Fans et leur \"Card ID\".\n- Le \"Card ID\" est nécessaire lors de la soumission d'images pour de nouvelles \"Versions\"",
     "CHAR_NOT_FOUND": "{{author}} Aucun personnage nommé: `{{arg}}` n'a été trouvé",
     "CHAR_NF_SENSITIVE": "{{author}} Aucun personnage nommé: `{{arg}}`n'a été trouvé\n\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
     "EMBED_TITLE": "SOFI:RECHERCHE DE PERSONNAGE (`{{category}}`)",
-    "NORMAL_LABEL": "Version",
+    "NORMAL_LABEL": "Versions",
     "FAN_PTS_LABEL": "Ajouter des Points De Fan",
     "3D_LABEL": "3D",
     "GIF_LABEL": "GIF",
@@ -28,7 +28,7 @@
     "NO_3D_OWNER_FOUND": "Personne ne possède encore le variant `3D`de ce personnage",
     "NO_GIF_OWNER_FOUND": "Personne ne possède encore le variant `GIF`de ce personnage",
     "NOT_AVAILABLE": "`Série invalide`",
-    "MORE_INFO_LABEL": "Selectioner une Option",
+    "MORE_INFO_LABEL": "Sélectionnez une Option",
     "FAN_PTS_ADDED_PLURAL": "{{author}} Ajouté avec succès **{{count}}** point à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "EXAMPLE_INFO": "Format Correct: <Montant> <Monnaie>",
     "FAN_PTS_ADDED": "{{author}} Ajouté avec succès **{{count}}** point à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
