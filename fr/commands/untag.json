@@ -5,5 +5,5 @@
     "UNTAG_SUCCESSFUL": "{{author}} Le `Tag` a été supprimé avec succès de votre carte **{{cardName}}**",
     "MULTIPLE_UNTAG": "{{author}} Le `Tag` a été supprimé avec succès des **{{count}}** cartes",
     "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "INVALID_CODE_MULTIPLE": "{{author}} Les codes de carte suivants sont soit invalides, soit ne font pas partie de votre collection:\n\n{{invalidCodeList}}"
+    "INVALID_CODE_MULTIPLE": "{{author}} Les codes de carte suivants sont soit invalides, soit ne font pas partie de votre collection:\n{{invalidCodeList}}"
 }
