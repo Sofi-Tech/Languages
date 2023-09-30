@@ -2,7 +2,7 @@
     "UM_DESCRIPTION": "Retire le \"Morph\" d'une carte",
     "UM_CATEGORY": "Cosmétiques",
     "UM_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}um <CodeCarte>`",
-    "INVALID_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "INVALID_CODE": "{{author}} Le code de carte que vous avez fournis est soit invalide soit n'est pas dans votre collection",
     "NO_CHARACTER": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte `GIF`",
     "NOT_MORPHED": "{{author}} Cette carte n'a pas de morph appliqué",

@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Acheter des \"Items\" provenant du \"Shop\" de Sofi",
-    "SLASH_DESC": "Nommez l'Item que vous souhaitez acheter",
+    "DESCRIPTION": "Achète des \"Items\" provenant du \"Shop\" de Sofi",
+    "SLASH_DESC": "Entrez le nom de l'item que vous souhaitez acheter",
     "SLASH_DESC2": "Entrez la quantité",
     "SLASH_DESC3": "Entrez le code du `Background` que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST DÉFINI COMME BACKGROUND]",
     "NO_ITEM": "{{author}} Utilisation correcte: `{{prefix}}buy <NomDItem> <Montant>`",
-    "TRADEPASS_INFO": "Visitez notre site Web ci-dessous pour `Bump` et échangez vos points contre différents articles, y compris le `Trade Pass`",
+    "TRADEPASS_INFO": "Visitez notre site Web ci-dessous pour `Bump` et échangez vos points contre différents items, y compris le `Trade Pass`",
     "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}buy bg <Background-ID> <Quantité>`",
-    "INVALID_BG_AMOUNT": "{{author}} Vous ne pouvez pas acheter un montant négatif d'article",
-    "INVALID_BG_ID": "{{author}}L'ID de `Background` fourni est invalide",
-    "INVALID_ITEM_PROVIDED": "{{user}} L'item que vous avez fourni n'est pas valide"
+    "INVALID_BG_AMOUNT": "{{author}} Vous ne pouvez pas acheter un montant négatif d'item",
+    "INVALID_BG_ID": "{{author}} L'ID du `Background` fourni est invalide",
+    "INVALID_ITEM_PROVIDED": "{{user}} L'item que vous avez fourni est invalide"
 }

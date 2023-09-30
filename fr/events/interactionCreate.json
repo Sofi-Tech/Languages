@@ -1,7 +1,7 @@
 {
     "VERIFY_BUTTON_LABEL": "Vérifier",
     "SERVER_BLACKLISTED": "{{author}} Le serveur est sur liste noire. Veuillez nous contacter sur discord.gg/sofi",
-    "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sous liste noir dans ce salon",
+    "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sous liste noire dans ce salon",
     "CATEGORY_DISABLED": "{{author}} Cette catégorie a été désactivée\nRaison: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Cette commande a été désactivée\nRaison: `{{reason}}`",
     "REQUIRE_PERMISSIONS": "{{author}} Vous avez besoin de la permission **{{permissions}}** pour exécuter cette commande",
