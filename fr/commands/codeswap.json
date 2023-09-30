@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Cela échangera les codes des deux cartes mentionnées",
+    "DESCRIPTION": "Cette action échangera les codes des deux cartes mentionnées",
     "SLASH_DESC": "Entrez le premier code",
     "SLASH_DESC2": "Entrez le second code",
     "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}cs <Code1> <Code2>`",
