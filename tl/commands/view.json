@@ -5,12 +5,14 @@
     "SERIES": "Serye:",
     "NAME": "Pangalan:",
     "OWNED_BY": "Pag-aari ni:",
-    "SERVER": "Server:",
-    "CLAIMED": "Nakuha",
+    "SERVER": "Server-ID:",
+    "CLAIMED": "Inangkin sa:",
     "MOVES": "Mga Abilidad",
     "OWNER_HISTORY": "Kasaysayan ng Pag-aari",
     "PREVIOUS_OWNERS": "**__Mga dating may-ari__**",
     "EMBED_TITLE": "SOFI: TINGNAN",
     "NO_PREVIOUS_OWNERS": "Wala",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**"
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
+    "SPECIAL": "espesyal",
+    "INFO_BUTTON_LABEL": "impormasyon"
 }

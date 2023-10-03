@@ -23,9 +23,9 @@
     "FILTER_FRAMED": "<:pdot:979009081325019156> **Рамка** = [`f`/`frame`/`framed`] **`sc f=TRUE/FALSE`**",
     "ALL_FILTER_CATEGORIES": "**__Доступные категории:__** \n<:pdot:979009081325019156> **`Anime, Cartoon, Movie`** \n<:pdot:979009081325019156> **`Vtuber, Kpop, Jpop, Cpop`** \n<:pdot:979009081325019156> **`Art, Comic, Manga, Webtoon, Webseries`** \n<:pdot:979009081325019156> **`Games, Memes`**",
     "USE_FILTER_ORDER": "**__Способы сортировки:__**\n\n<:pdot:979009081325019156> **Порядок** = [`o`/`order`] | **`sc order wl>NUMBER o=d`**\n<:pdot:979009081325019156> **По убыванию** = [`d`] | `sc order wl>NUMBER o=d`\n<:pdot:979009081325019156> **По возрастанию** = [`a`] | `sc order wl>NUMBER o=a`",
-    "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156> **`=`, `:`, `<`, `>`, `!=`, `>=`, `<=`**",
+    "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156> **[`=`] [`:`] [`<`] [`>`] [`!=`] [`>=`] [`<=`]**",
     "FILTER_CODE": "<:pdot:979009081325019156> **Код** = [`c`/`code`] | **`sc c=CODE`**",
-    "USE_FILTER_OPERATORS": "Будьте внимательны: не используйте пробел до и после установки **оператора**!",
+    "USE_FILTER_OPERATORS": "Будьте внимательны: не используйте пробел до и после установки **оператора**!\n",
     "BATTLE": "Сражение",
     "CARDS": "Карты",
     "GUILDS": "Гильдии",
@@ -48,7 +48,7 @@
     "USAGE": "Использование:",
     "NO_ALIASES": "Нет",
     "NOT_PROVIDED": "Не указано",
-    "USE_FILTER_OPERATORS_3": " '<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
+    "USE_FILTER_OPERATORS_3": "<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
     "COMMNAD_NOT_FOUND": "{{author}} Не удалось найти команду с названием: `{{command}}`!\nВозможно, вы искали `{{commandName}}`?",
     "USAGE_EMBED_TITLE": "SOFI: ПОМОЩЬ ({{command}})"
 }

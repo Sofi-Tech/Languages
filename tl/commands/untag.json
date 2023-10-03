@@ -4,6 +4,6 @@
     "UT_EMPTY_COLLECTION": "{{author}} Wala ka pang anumang mga card sa iyong koleksyon",
     "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na natanggal sa `Tag` mula sa iyong **{{cardName}}** na kard",
     "MULTIPLE_UNTAG": "{{author}} Matagumpay na na-alis ang `Tag` mula sa **{{count}}** na kards",
-    "INVALID_CODE": "{{author}} Ang code ng kard na iyon ay hindi wasto o wala sa iyong inventory",
-    "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na code ng kard ay maaaring hindi wasto o wala sa iyong inventory:\n{{invalidCodeList}}"
+    "INVALID_CODE": "{{author}} Ang card code na iyon ay maaaring hindi wasto o hindi sa iyong koleksyon",
+    "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na card code ay maaaring hindi wasto o hindi sa iyong koleksyon: {{invalidCodeList}}"
 }

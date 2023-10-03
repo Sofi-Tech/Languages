@@ -12,5 +12,7 @@
     "EMBED_TITLE": "SOFI: MGA ALBUM NI {{username}}",
     "ALBUM_BUTTON_LABEL": "Gumawa ng Album",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM NI \"{{albumName}}\"",
-    "EMBED__ALBUM_FOOTER": "Pagmamay-ari ni {{userTag}}"
+    "EMBED__ALBUM_FOOTER": "Pagmamay-ari ni {{userTag}}",
+    "ALBUM_CARDS_one": "`{{count}} card`",
+    "ALBUM_CARDS_other": "`{{count}} cards`"
 }
