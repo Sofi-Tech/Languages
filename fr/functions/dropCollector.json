@@ -7,6 +7,6 @@
     "TOOK_CARD": "{{user}} a pris la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} a piquer **{{amount}}** `{{eventItem}}` à <@{{userId}}>",
     "EVENT_GRAB": "{{user}} a reçu {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
-    "CANNOT_BE_GRABBED": "Ces cartes ne peuvent plus être obtenues",
-    "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes\n"
+    "CANNOT_BE_GRABBED": "{{user}} Les cartes ci-dessous ne peuvent plus être **grab**",
+    "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes"
 }
