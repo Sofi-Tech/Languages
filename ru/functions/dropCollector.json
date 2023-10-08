@@ -7,6 +7,6 @@
     "TOOK_CARD": "{{user}} подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} Карты ниже больше не могут быть **подобраны**",
     "SNATCHED_EVENT_ITEM": "{{winner}} выхватил **{{amount}}** `{{eventItem}}` у <@{{userId}}>",
-    "CARDS_DROPPED_BY": "{{user}} **бросает** карты\n",
+    "CARDS_DROPPED_BY": "{{user}} **бросил** карты",
     "GRAB_CARD_PLURAL": "{{winner}} отбился от **{{userCount}}** других пользователей и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }

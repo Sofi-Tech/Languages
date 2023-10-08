@@ -6,6 +6,6 @@
     "NO_CHARACTER_FOUND": "{{author}} Не удалось найти такого персонажа. Используйте `{{prefix}}wa -f <Name>` для точного поиска",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** уже находится в вашем списке желаемого",
     "CHARACTER_ADDED": "{{author}} **{{name}}** успешно добавлен в ваш список желаемого",
-    "EMBED_TITLE": "SOFI: ДОБАВИТЬ В СПИСОК ЖЕЛАЕМОГО",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
     "INCREASE_CAPACITY": "Используйте команду `{{prefix}}wu` или `{{prefix}}wu max`, чтобы расширить ваш список желаемого"
 }

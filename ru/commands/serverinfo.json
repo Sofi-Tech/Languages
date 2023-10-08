@@ -4,7 +4,7 @@
     "SI_DESCRIPTION": "Отображает статистику сервера",
     "SI_CATEGORY": "Настройки",
     "EMBED_FOOTER": "Префикс сервера: \"{{prefix}}\"",
-    "EMBED_AUTHOR": "SOFI: ИНФОРМАЦИЯ О СЕРВЕРЕ | {{guildName}}",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_TOTAL_BURNT": "Всего сожжено",
     "SI_TOTAL_GIVEN": "Всего отдано",
     "SI_TOTAL_TRADES": "Всего обменов",

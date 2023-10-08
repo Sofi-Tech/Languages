@@ -4,7 +4,7 @@
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "WISHLIST_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своего списка желаемого",
     "WISHLIST_EMPTY": "{{author}} Список желаемого данного пользователя пуст",
-    "WISHLIST_EMBED_TITLE": "SOFI: СПИСОК ЖЕЛАЕМОГО ({{username}}) [{{length}}/{{slots}}]",
+    "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Страница: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Скопировать коды",
     "COPY_CODES_MENU_LABEL": "Все коды",

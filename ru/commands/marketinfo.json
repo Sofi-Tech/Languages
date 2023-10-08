@@ -10,7 +10,7 @@
     "NO_LISTINGS_FOUND": "{{user}} В данный момент у вас нет никаких объявлений на рынке",
     "INFO": "Используйте команду `{{prefix}}mul <Order-ID>`, чтобы удалить объявление с рынка",
     "FOOTER": "Показаны результаты {{page}}-{{pages}} из {{total}}",
-    "EMBED_TITLE": "SOFI: РЫНОЧНАЯ ИНФОРМАЦИЯ ({{userName}})",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Доступно: `{{stockAmount}}` {{stockEmoji}} | Курс: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ИНФОРМАЦИЯ ОБ ОБЪЯВЛЕНИИ"
 }

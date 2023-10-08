@@ -6,7 +6,7 @@
     "UNAVAILABLE_GLOW": "{{author}} По крайней мере одна из указанных вами `Glows` разряжена",
     "NO_USE_SG": "{{author}} Вы не можете использовать `Super Glow` для данного процесса",
     "SAME_GLOWS": "{{author}} Вы не можете использовать одну и ту же `Glow` несколько раз",
-    "EMBED_TITLE": "SOFI: СУПЕРПОДСВЕТКА",
+    "EMBED_TITLE": "SOFI: SUPER GLOW",
     "FORM_SG_CONFIRM": "Вы уверены, что хотите объединить следующие предметы:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nв **{{superGlowName}}** `Super Glow`?",
     "MISSING_RESINS": "{{author}} У вас недостаточно `Resin` для данного процесса",
     "SUPER_GLOW_SUCCESSFUL": "{{author}} Ваши `Glows` успешно объединены\n",
