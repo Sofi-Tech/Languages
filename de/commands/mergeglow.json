@@ -4,9 +4,9 @@
     "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Mindestens einer der angegebenen `Glow` -Codes ist leer",
     "GLOW_CODES_UNIQUE": "{{author}} Du kannst den gleichen `Glow` nicht mehr als Einmal benutzen",
-    "GLOWS_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow` -Codes ist entweder ungültig oder befindet sich nicht in deinem Inventory",
+    "GLOWS_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow` -Codes ist entweder ungültig oder befindet sich nicht in deinem Inventar",
     "EMBED_TITLE": "SOFI: MERGE **`GLOWS`**",
     "MERGE_CONFIRMATION": "Bist du sicher, dass du die folgenden `Glows` mergen möchtest?\n\n{{glows}}\n\nDu erhältst <:resin:938131736741691442> **1x** `Resin` aus diesem Vorgang",
     "GLOW_MERGE_SUCCESSFUL": "{{author}} Deine `Glows` wurden erfolgreich zu einem <:resin:938131736741691442> verschmolzen",
-    "GLOWS_NOT_IN_INVENTORY": "{{author}} Mindestens einer der angegeben `Glows` befindet sich nicht länger in deinem Inventory"
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} Mindestens einer der angegeben `Glows` befindet sich nicht länger in deinem Inventar"
 }

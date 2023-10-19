@@ -3,7 +3,7 @@
     "GRAB_COOLDOWN": "{{user}} Du musst noch **{{cooldown}}** warten, um eine andere Karte nehmen zu können",
     "EVENT_GRAB": "{{user}} hat {{currencyEmoji}} **{{amount}}** `{{eventItem}}` erhalten",
     "GRAB_CARD_PLURAL": "{{winner}} hat sich im Kampf gegen **{{userCount}}** andere Spieler durchgesetzt und die **{{character}}** Karte erhalten (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "CANNOT_BE_GRABBED": "{{user}} Die folgenden Karten können nicht mehr **ergriffen** werden",
+    "CANNOT_BE_GRABBED": "{{user}} Die folgenden Karten können nicht mehr **eingesammelt** werden",
     "TOOK_CARD": "{{user}} hat die **{{character}}** Karte erhalten (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} hat sich **{{amount}}** `{{eventItem}}` von <@{{userId}}> geschnappt",
     "GRAB_EVENT_ITEM": "{{winner}} hat sich gegen **{{userCount}}** andere Spieler durchgesetzt und **{{amount}}** `{{eventItem}}` erhalten",

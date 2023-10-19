@@ -7,7 +7,7 @@
     "EMBED_TITLE": "SOFI: `GLOW` RECHARGE",
     "NO_MONEY": "{{author}} Du hast nicht genügend `Recharges` für diesen Vorgang!",
     "SUCCESSFUL_RECHARGE": "{{author}} Dein **{{glowName}}** `Glow` wurde erfolgreich aufgeladen!",
-    "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder befindet sich nicht in deinem Inventory",
+    "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene `Glow`-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
     "GLOW_AVAILABLE": "{{author}} Der `Glow` ist bereits aufgeladen",
     "RECHARGE_CONFIRMATION": "Bist du sicher, dass du dieses `Glow` aufladen möchtest?\n\nName: **{{name}}**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "SUPER_RECHARGE_CONFIRMATION": "Bist du sicher, dass du dieses `Glow` aufladen möchtest?\n\nName: **{{name}} (Super)**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>"

@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Buat deck dari kartu anda dan gunakan mereka untuk raid atau melawan pemain lain!",
     "IN_RAID": "Perintah ini tidak dapat digunakan saat raid",
-    "SELECT_OPT": "Pilih Dek",
+    "SELECT_OPT": "Pilih Deck",
     "DECK": "Deck",
     "UNIQUE_WARN": "Catatan: Semua kemampuan pada deck harus unik untuk digunakan pada raid atau duel!",
     "UNLOCK_SLOT": "Buka slot nomor {{deckNo}} dengan 50.000 Silver?",
@@ -11,7 +11,7 @@
     "ENTER_CODES": "Masukkan kode kartu",
     "MODAL_TITLE": "Setel Deck",
     "MISSING_CODES": "> Diperlukan setidaknya 3 kode kartu",
-    "INVALID_CODE": "{{author}} Kode kartu yang anda sebut gak valid atau gak ada di koleksi anda",
+    "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "CODE_REPEAT": "> Kode kartu tidak boleh berulang",
     "MOVES_UNIQUE": "Semua kemampuan dalam deck harus **unik**! Pilih kartu yang berbeda atau ganti kemampuan untuk melanjutkan",
     "SAVE_DECK": "Klik save untuk menyimpan deck ini",

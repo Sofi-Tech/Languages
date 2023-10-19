@@ -1,10 +1,10 @@
 {
-    "BGS_DESCRIPTION": "3Dの背景を表示します",
-    "BGS_CATEGORY": "化粧品",
-    "BGS_SLASH_DESC": "探している背景のコードを入力してください",
-    "EMBED_TITLE": "ソフィー3D背景：",
-    "APPLY_BG": "背景を適用するには、コマンド`sbg <code> <bgID>`を使用します",
-    "VIEW_BACKGROUNDS": "すべての背景を表示するには、ここをクリックしてください",
+    "BGS_DESCRIPTION": "`背景ショップ`を表示します",
+    "BGS_CATEGORY": "コスメティック",
+    "BGS_SLASH_DESC": "見つかりたい背景コードを入力してください",
+    "EMBED_TITLE": "SOFI：背景ショップ",
+    "APPLY_BG": "\n`背景`を買うため次のコマンドを入力してください：`{{prefix}}buy bg <背景ID> <数>`",
+    "VIEW_BACKGROUNDS": "すべての背景を表示するには、[ここをクリックしてください](<https://sofi.gg/backgrounds>)",
     "SHOWING_PAGE": "ページを表示：{{page}} / {{pages}}",
-    "NO_BG_FOUND": "背景は見つかりません"
+    "NO_BG_FOUND": "{{author}} 入力されたコードは有効な`背景`コードではありません"
 }

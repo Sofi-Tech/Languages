@@ -8,5 +8,8 @@
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
-    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
+    "UNREAD_MAIL_one": "\n📫 Hai **{{count}}** mail non letta",
+    "READY": "Pronto",
+    "UNREAD_MAIL_other": "\n📫 Hai **{{count}}** mail non letta"
 }

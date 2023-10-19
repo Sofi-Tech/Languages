@@ -5,8 +5,8 @@
     "EVENT_GRAB": "{{user}} ha ricevuto {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
     "SNATCHED_EVENT_ITEM": "{{winner}} ha rubato **{{amount}}** `{{eventItem}}` da <@{{userId}}>",
     "GRAB_EVENT_ITEM": "{{winner}} ha combattuto contro **{{userCount}}** altri utenti e ha ricevuto **{{amount}}** `{{eventItem}}`",
-    "CANNOT_BE_GRABBED": "Queste carte non possono più essere ottenute",
-    "CARDS_DROPPED_BY": "{{user}} hai **dropped** le carte\n",
+    "CANNOT_BE_GRABBED": "{{user}} Le carte seguenti non possono più essere **grabbed**",
+    "CARDS_DROPPED_BY": "{{user}} hai **droppato** le carte",
     "TOOK_CARD": "{{user}} ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_CARD": "{{winner}} ha battuto {{user}} e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }

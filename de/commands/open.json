@@ -3,14 +3,14 @@
     "SLASH_DESC_1": "Gib das Item an, das du öffnen möchtest",
     "SLASH_DESC_2": "Gib die Menge an",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Amount>`",
-    "EMPTY_INV": "{{author}} Dein Inventory ist leer",
+    "EMPTY_INV": "{{author}} Dein Inventar ist leer",
     "CHARM_MISSING": "{{author}} Du besitzt keine `Charms`",
     "SOFI_CARDS_MISSING": "{{author}} Es gibt derzeit nicht genügend Karten in Sofi's Collection",
     "SERIES": "Serie:",
     "NAME": "Name:",
     "CHEST_INFO": "Event-Kisten können auch ohne ein aktives Event geöffnet werden",
     "PROVIDE_NUM": "{{author}} Du kannst höchstens **1**`{{chestName}}` auf einmal öffnen",
-    "CHEST_MISSING": "{{author}} Du hast keine **{{count}}** `{{chestName}}` in deinem Inventory",
+    "CHEST_MISSING": "{{author}} Du hast keine **{{count}}** `{{chestName}}` in deinem Inventar",
     "COMMON_INFO_1": "Du hast **{{totalChests}}** `{{chestName}}` geöffnet",
     "ITEMS_FOUND": "**__Erhaltene Gegenstände__**",
     "COMMON_RARE_FOOTER": "Du kannst eine \"{{chestName}}\" für jede {{count}} Daily-Serie erhalten",
@@ -20,5 +20,5 @@
     "EMBED_TITLE": "SOFI: OPEN (`{{itemName}}`)",
     "GUILD_CHEST_FOOTER": "Du kannst eine \"Gildenkiste\" am Ende jeder Saison erhalten",
     "GUILD_PACKAGE_SUCCESS": "Glückwunsch! Dein `Guild Package` enthielt die **{{charName}}** `3D-V2`-Karte und 💳 **{{amount}}x** `Gen Scratcher`\n\n- **__Aktueller Kartenpool __**\n{{poolLine}}",
-    "CLAIMED": "beansprucht"
+    "CLAIMED": "Beansprucht"
 }

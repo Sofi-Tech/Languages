@@ -1,10 +1,10 @@
 {
-  "BUMP_DESCRIPTION": "公式Sofi.ggウェブサイトで「Trade Pass」などの報酬を獲得するために、「Bump」を押してください",
-  "BUMP_CATEGORY": "設定",
-  "EMBED_AUTHOR": "{{username}}のBumps",
-  "GET_DIFFERENT_REWARDS": "以下の公式Sofi.ggウェブサイトで「Bump」をクリックして報酬を獲得してください",
-  "TOTAL_BUMP": "> 合計`Bumps`：{{bump}}",
-  "BUMP_POINTS": "> 現在のポイント：{{bumpPoints}}",
-  "EMBED_FOOTER": "4時間ごとに`Bump`機能を使用できます。",
-  "BUMP": "Bump"
+    "BUMP_DESCRIPTION": "公式Sofi.ggウェブサイトで「Trade Pass」などの報酬を獲得するために、「Bump」を押してください",
+    "BUMP_CATEGORY": "設定",
+    "EMBED_AUTHOR": "SOFI：{{username}}の`Bump`",
+    "GET_DIFFERENT_REWARDS": "[公式ウェブサイト](https://sofi.gg) で「Bump」をクリックして報酬を獲得してください",
+    "TOTAL_BUMP": "- 合計`Bump`：**{{bump}}**",
+    "BUMP_POINTS": "- 現在のポイント：**{{bumpPoints}}** (🔺)",
+    "EMBED_FOOTER": "4時間ごとに`Bump`を使用できます！",
+    "BUMP": "Bump"
 }

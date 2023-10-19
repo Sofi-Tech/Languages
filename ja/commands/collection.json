@@ -3,7 +3,7 @@
     "SLASH_CMD_DESC": "カードコレクションを表示します",
     "SLASH_DESC": "コレクションを確認するには、ユーザーを選択してください。『』",
     "SLASH_DESC2": "コレクションに適用するフィルターを入力してください。",
-    "PLAYER_NOT_EXIST": "{{author}} そのユーザーはまだ登録されていません",
+    "PLAYER_NOT_EXIST": "{{author}} そのユーザーはまだ登録されていません！",
     "PLAYER_PRIVATE": "{{author}} | そのユーザーのコレクションはプライベートです！",
     "NO_RESULTS": "{{author}} | 結果が見つかりません！",
     "NO_CARDS_FOUND": "{{author}} 検索に一致するカードが見つかりませんでした",

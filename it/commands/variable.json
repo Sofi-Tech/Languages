@@ -25,5 +25,15 @@
     "NAME": "Nome:",
     "SERIES": "Serie:",
     "MEMBER_NOT_VERIFIED": "{{author}} Quel utente non è verificato",
-    "ERROR": "{{author}} Si è verificato un errore. Per favore riprova."
+    "ERROR": "{{author}} Si è verificato un errore. Per favore riprova.",
+    "NOT_REGISTERED": "{{author}} Quell'utente non è registrato!",
+    "AUTHOR_BLACKLISTED": "{{author}} Sei blacklisted",
+    "MEMBER_BLACKLISTED": "{{author}} Quell'utente è blacklisted!",
+    "AUTHOR_QUARANTINED": "{{author}} Sei in quarantena",
+    "MEMBER_QUARANTINED": "{{author}} Quell'utente è in quarantena",
+    "NEGATIVE_AMOUNT": "{{author}} Non puoi acquistare un importo negativo di un articolo",
+    "AN": "una",
+    "A": "un",
+    "THE": "il",
+    "AUTHOR_UNVERIFIED": "{{author}} Non sei verificato"
 }

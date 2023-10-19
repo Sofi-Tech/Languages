@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Mulai permainan tebak kata",
-    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}tebak <Jumlah> <Mata Uang>`\nMata uang yang diterima: `Silver`, `Wists`, `Gems`, `Cubes`",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}guess <Jumlah> <Mata Uang>`\nMata uang yang diterima: `Silver`, `Wists`, `Gems`, `Cubes`",
     "NO_TP": "{{author}} Anda memerlukan `Trade Pass` aktif untuk menyelenggarakan permainan tebak-tebakan",
     "NOT_ENOUGH_CURR": "{{user}} Anda tidak memiliki cukup `{{currency}}` untuk memulai permainan",
     "INFO_1": "{{user}} telah memulai permainan tebak-tebakan!",

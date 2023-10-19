@@ -23,7 +23,7 @@
     "ALL_UNTAG_SUCCESS": "{{author}} Rimosso con successo il `Tag` dalle**{{taglength}}** carte: `{{tagName}}`",
     "ALL_TAG_SUCCESS": "{{author}} aggiunte con successo le seguenti`Tag` alle **{{taglength}}** carte: `{{tagName}}`",
     "PLEASE_WAIT": "Attendi Prego <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "Non hai ancora nessun `Tags`. Puoi crearli con il comando `{{prefix}}tc <NomeDelTag> <Emoji>`",
+    "NO_TAG_FOUND": "{{author}} Non hai ancora nessun `Tag`. Utilizza il comando `{{prefix}}tc <NomeDellaTag> <Emoji>` per crearne uno",
     "USER_NOT_FOUND": "{{author}} Non è riuscito a trovare quell'utente",
     "NOT_AVAILABLE": "`Serie invalida`",
     "NO_RESULTS_OTHERS": "{{author}} quel giocatore non ha nessuna carta nella propria collezione",
@@ -32,7 +32,7 @@
     "TAG_NO_CARDS_FOUND": "{{author}} Nom e stato possibile trovare nessuna carta con il `Tag`: `{{arg}}`",
     "SORT_LEVEL": "Livello",
     "EMBED_TITLE": "SOFI: COLLEZIONE ({{username}})",
-    "TAG_MODAL_LABEL": "Mass Tag",
+    "TAG_MODAL_LABEL": "Tag di Massa",
     "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" per rimuovere in massa un \"Tag\"",
     "EMBED_FOOTER": "Pagina: {{page}}/{{totalPages}} | Carte Totali: {{count}} {{sortedBy}}"
 }

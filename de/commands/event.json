@@ -9,7 +9,7 @@
     "EV_NOT_ENOUGH_GEMS": "Du benötigst {{amount}} Gems um das zu Kaufen",
     "INVALID_AMOUNT_PROVIDED": "Ungültige Menge angegeben",
     "INVALID_AMOUNT_FRAMES": "Ungültige Menge an Frames angegeben",
-    "ITEM_PURCHASE_SUCCESSFUL": "Glückwunsch! {{amount}} {{item}} wurden deinem inventory hinzugefügt",
+    "ITEM_PURCHASE_SUCCESSFUL": "Glückwunsch! {{amount}} {{item}} wurden deinem Inventar hinzugefügt",
     "EVENT_TASK": "Drop {{amount}} Event Karten",
     "BURN_TASK": "Verbrenne {{amount}} Karten",
     "VOTE_TASK": "Vote {{amount}} mal während dem Event",
@@ -63,5 +63,5 @@
     "ITEM_MODAL_PLACEHOLDER": "z.B.: 10",
     "ITEM_MODAL_TITLE": "Sofi: {{item}}",
     "AMOUNT_BETWEEN": "Die Menge muss zwischen 1 und 100 sein",
-    "NO_ACTIVE_EVENT": "{{author}} Derzeit ist keine Veranstaltung aktiv"
+    "NO_ACTIVE_EVENT": "{{author}} Derzeit ist keine Event aktiv"
 }

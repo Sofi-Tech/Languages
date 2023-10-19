@@ -27,7 +27,7 @@
     "LF_MENU_LABEL": "Limitato",
     "MF_MENU_LABEL": "Mensili",
     "CF_MENU_LABEL": "Personalizzate",
-    "EDIT_DESC_SUCCESSFUL": "Il processo è stato completato con successo",
-    "FRAMESHOP_DESCRIPTION": "\nArtista: **{{artist}}**\nCodice: `{{code}}`\n{{price}}\n```\n{{description}}\n```",
+    "EDIT_DESC_SUCCESSFUL": "{{author}} Imposta con successo la descrizione selezionata per il tuo `Frame`",
+    "FRAMESHOP_DESCRIPTION": "\nArtista: **{{artist}}**\nCodice: `{{code}}`\nPrezzo: **{{price}}**\n\n```fix\n{{description}}\n```",
     "FS_UNAVAILABLE": "Non disponibile"
 }

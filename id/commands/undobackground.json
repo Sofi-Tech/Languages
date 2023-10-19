@@ -3,7 +3,7 @@
     "UB_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}undobg <KodeKartu>`",
     "NO_CHARACTER_FOUND": "{{author}} Karakter pada kartu ini tidak lagi tersedia di Sofi dan tidak dapat berinteraksi",
-    "INVALID_CODE": "{{author}} Kode kartu yang anda sebut gak valid atau gak ada di koleksi anda",
+    "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "NO_GIF_CARD": "{{author}} Anda tidak dapat menghapus `Background` dari kartu `GIF`",
     "NO_BACKGROUND": "{{author}} Kartu tersebut tidak memiliki `Background` yang digunakan",
     "EMBED_TITLE": "SOFI: REMOVE `BACKGROUND`",

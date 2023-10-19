@@ -17,5 +17,5 @@
     "REPLACE_EMOJI": "Gib das Emoji ein, durch das du {{emoji}} ersetzen möchtest",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Dieses Emoji ist ungültig",
     "REPLACE_EMOJI_CONFIRMATION": "Bist du dir sicher, dass du den `Tag`-Emoji von {{oldEmoji}} in {{newEmoji}} ändern möchtest?",
-    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Das Emoji von diesem `Tag`-Emoji wurde erfolgreich von {{oldEmoji}} auf {{newEmoji}} aktualisiert"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Das Emoji von diesem `Tag` wurde erfolgreich von {{oldEmoji}} auf {{newEmoji}} aktualisiert"
 }
