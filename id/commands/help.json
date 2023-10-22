@@ -20,8 +20,8 @@
     "FILTER_FRAMED": "<:pdot:979009081325019156> **Frame** = [`f`/`frame`/`framed`] **`sc f=TRUE/FALSE`**",
     "FILTER_VERSION": "<:pdot:979009081325019156> **Versi** = [`v`/`ver`/`version`] | **`sc v=NOMOR`**",
     "FILTER_CATEGORY": "<:pdot:979009081325019156> **Kategori** = [`cat`/`category`] **`sc cat=KATEGORI`**",
-    "USE_FILTER_OPERATORS": "Hati-hati untuk tidak menggunakan spasi sebelum & sesudah menggunakan **Operator**!",
-    "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156> **`=`, `:`, `<`, `>`, `!=`, `>=`, `<=`**",
+    "USE_FILTER_OPERATORS": "Hati-hati untuk tidak menggunakan spasi sebelum & sesudah menggunakan **Operator**!\n",
+    "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156> **[`=`] [`:`] [`<`] [`>`] [`!=`] [`>=`] [`<=`]**",
     "BATTLE": "Battle",
     "CARDS": "Kartu",
     "GUILDS": "Guild",
@@ -49,6 +49,6 @@
     "FILTER_CODE": "<:pdot:979009081325019156> **Kode** = [`c`/`code`] | **`sc c=KODE`**",
     "ALL_FILTER_CATEGORIES": "**__Kategori Tersedia:__** \n<:pdot:979009081325019156> **`Anime, Cartoon, Movie`** \n<:pdot:979009081325019156> **`Vtuber, Kpop, Jpop, Cpop`** \n<:pdot:979009081325019156> **`Art, Comic, Manga, Webtoon, Webseries`** \n<:pdot:979009081325019156> **`Games, Memes`**",
     "USE_FILTER_ORDER": "**__Opsi Pengurutan:__**\n\n<:pdot:979009081325019156> **Urutan** = [`o`/`order`] | **`sc order wl>NUMBER o=d`**\n<:pdot:979009081325019156> **Turun** = [`d`] | `sc order wl>NUMBER o=d`\n<:pdot:979009081325019156> **Naik** = [`a`] | `sc order wl>NUMBER o=a`",
-    "USE_FILTER_OPERATORS_3": " '<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
+    "USE_FILTER_OPERATORS_3": "<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
     "COMMNAD_NOT_FOUND": "{{author}} Tidak ada perintah dengan nama: `{{command}}`! \nApakah maksud anda`{{commandName}}`?"
 }
