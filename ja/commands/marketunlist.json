@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "市場から交渉を非公開にする",
-    "CORRECT_USAGE": "{{user}} | 取引 ID を提供するか、すべての取引を一度に非公開にするには all を使用してください",
-    "INVALID_DEAL_ID": "提供された取引 ID は無効です: 再度確認し、自分が上場しているかどうかを確認してください",
-    "SUCCESS_UL": "{{user}} {{dealId}} は市場から正常に非表示になりました",
-    "NO_LISTINGS_FOUND": "{{user}} まだ市場にリスティングしていません",
-    "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} 取引が市場から正常に非表示になりました"
+    "DESCRIPTION": "マーケットからご注文を削除します",
+    "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}mul <ご注文ID/All>`",
+    "INVALID_DEAL_ID": "{{author}} 入力されたご注文IDは無効か、お客様のものではありません",
+    "SUCCESS_UL": "{{user}} `{{dealId}}`ご注文はマーケットから成功で削除されました",
+    "NO_LISTINGS_FOUND": "{{user}} マーケットにご注文はまだありません",
+    "SUCCESS_UL_ALL": "{{user}} マーケットからご注文全部を成功で削除されました"
 }

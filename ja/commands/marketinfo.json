@@ -1,13 +1,16 @@
 {
-    "DESCRIPTION": "あなたのリストを表示するか、特定のディールの詳細を表示します",
-    "INVALID_DEAL_ID": "提供されたディールIDが無効です。もう一度確認してください",
-    "TRADER": "トレーダー",
-    "DEAL_ID": "レート",
+    "DESCRIPTION": "自分のマーケットのご注文を表示するか、IDを入力すれば詳細を表示します",
+    "INVALID_DEAL_ID": "{{author}} 入力されたご注文IDは無効です",
+    "TRADER": "商人",
+    "DEAL_ID": "ご注文ID",
     "PRODUCT": "商品",
-    "VALUE": "値",
-    "RATE": "料金",
-    "LISTED": "リストされた",
-    "NO_LISTINGS_FOUND": "{{user}} あなたは市場でリストを作成していません",
-    "INFO": "`{{prefix}}ml` と `smul` を使用してリストを解除します\n単一のディールのみリスト化できます",
-    "FOOTER": "{{total}} の1-{{pages}} を表示中| 購入するには、{{prefix}}mp <id> [amount]を使用します"
+    "VALUE": "値段",
+    "RATE": "割合",
+    "LISTED": "リスト表示",
+    "NO_LISTINGS_FOUND": "{{user}} マーケットにはご注文がまだありません",
+    "INFO": "`{{prefix}}mul <ご注文ID>`のコマンドでマーケットからご注文を削除できます",
+    "FOOTER": "{{total}}中{{page}}〜{{pages}}を表示されています",
+    "EMBED_TITLE": "SOFI: マーケット詳細 ({{userName}})",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • 全額: `{{stockAmount}}` {{stockEmoji}} | 変換率: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: ご注文詳細"
 }

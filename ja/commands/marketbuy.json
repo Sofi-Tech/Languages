@@ -1,19 +1,17 @@
 {
-  "DESCRIPTION": "市場からディールを購入する",
-  "CORRECT_USAGE": "{{user}} | 正しい使用方法：{{prefix}}mp <ディールID> [wist量]",
-  "INVALID_DEAL_ID": "提供されたディールIDが無効です：再度確認してください",
-  "CANNOT_PURCHASE": "{{user}} | そのディールは購入できません",
-  "CANNOT_SELF": "{{user}} | 自分自身のディールは購入できません",
-  "WIST_NOT_EXCEED": "ウィストの量は{{amount}}を超えてはいけません",
-  "PRODUCT": "商品",
-  "VALUE": "価格",
-  "RATE": "レート",
-
-  "ALREADY_IN_PURCHASE": "既にマーケット購入中です",
-
-  "PURCHASE_CANCELLED": "購入がキャンセルされました！ディールはもう市場で利用できません",
-  "MISSING_GEMS": "{{gemPrice}}個の宝石が不足しています",
-  "SOMETHING_WRONG": "何か問題が発生しました。もう一度やり直してください",
-  "PURCHASE_SUCCESSFUL": "購入が成功しました",
-  "SUCCESS": "{{wistAmount}}ウィストが{{gemPrice}}個の宝石で購入されました | ディールID：{{dealId}}"
+    "DESCRIPTION": "市場からディールを購入する",
+    "CORRECT_USAGE": "{{user}} | 正しい使用方法：{{prefix}}mp <ディールID> [wist量]",
+    "INVALID_DEAL_ID": "{{author}} 入力されたご注文IDは無効です",
+    "CANNOT_PURCHASE": "{{user}} | そのディールは購入できません",
+    "CANNOT_SELF": "{{user}} | 自分自身のディールは購入できません",
+    "WIST_NOT_EXCEED": "ウィストの量は{{amount}}を超えてはいけません",
+    "PRODUCT": "商品",
+    "VALUE": "価格",
+    "RATE": "レート",
+    "ALREADY_IN_PURCHASE": "既にマーケット購入中です",
+    "PURCHASE_CANCELLED": "購入がキャンセルされました！ディールはもう市場で利用できません",
+    "MISSING_GEMS": "{{gemPrice}}個の宝石が不足しています",
+    "SOMETHING_WRONG": "何か問題が発生しました。もう一度やり直してください",
+    "PURCHASE_SUCCESSFUL": "購入が成功しました",
+    "SUCCESS": "{{wistAmount}}ウィストが{{gemPrice}}個の宝石で購入されました | ディールID：{{dealId}}"
 }

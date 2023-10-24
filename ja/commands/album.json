@@ -13,6 +13,6 @@
     "ALBUM_BUTTON_LABEL": "アルバムを作成する",
     "EMBED_ALBUM_TITLE": "SOFI：「{{albumName}}」アルバム",
     "EMBED__ALBUM_FOOTER": "{{userTag}}さんのアルバム",
-    "ALBUM_CARDS_one": "`{{count}} カード`",
-    "ALBUM_CARDS_other": "`{{count}} カード`"
+    "ALBUM_CARDS_one": "{{count}} カード",
+    "ALBUM_CARDS_other": "{{count}} カード"
 }

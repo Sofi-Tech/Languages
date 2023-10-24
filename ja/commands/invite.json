@@ -1,6 +1,6 @@
 {
-  "INVITE_DESCRIPTION": "Support サーバーに参加するか、対応するリンクをクリックして Sofi を自分のサーバーに招待してください！",
-  "INVITE_CATEGORY": "設定",
-  "EMBED_TITLE": "ここをクリックして Sofi をサーバーに招待！",
-  "JOIN_SUPPORT": "公式サポートサーバーに参加する"
+    "INVITE_DESCRIPTION": "Support サーバーに参加するか、対応するリンクをクリックして Sofi を自分のサーバーに招待してください！",
+    "INVITE_CATEGORY": "設定",
+    "EMBED_TITLE": "SOFI: 招待",
+    "JOIN_SUPPORT": "**[サポートサーバーに参加してください](https://discord.gg/sofi)**\n**[自分のサーバーにSofiを招待する](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
 }
