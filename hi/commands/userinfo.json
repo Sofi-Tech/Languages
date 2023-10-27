@@ -30,7 +30,7 @@
     "UI_GAME_BLACKLISTED": "- पूर्व प्रतिबंधित होने की तारीख: {{formattedDate}}",
     "UI_DESCRIPTION": "उपयोगकर्ता के आंकड़े दर्शाता है।",
     "UI_DAILY": "Dailies",
-    "UI_RECEIVED": "प्राप्त किए‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎",
+    "UI_RECEIVED": "प्राप्त किए‏‏‎",
     "UI_BUMP": "Bumps",
     "UI_MORPH": "Morphs",
     "UI_SCRATCHED": "Scratched",
@@ -38,9 +38,9 @@
     "UI_DROP": "Dropped",
     "UI_CLAIM": "Claimed",
     "UI_BURN": "जलाए",
-    "UI_TRADE": "व्यापार‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎",
+    "UI_TRADE": "व्यापार",
     "UI_GAMES": "खेल",
-    "UI_SOLD": "बेचे‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎",
+    "UI_SOLD": "बेचे",
     "UI_PULL": "Pulls",
     "UI_FRAGS": "Fragments"
 }
