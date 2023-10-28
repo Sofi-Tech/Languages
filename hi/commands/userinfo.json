@@ -7,9 +7,9 @@
     "USER_NOT_REGISTERED": "{{author}} यह उपयोगकर्ता पंजीकृत नही है!",
     "PROFILE_BUTTON_LABEL": "वेब प्रोफ़ाइल",
     "USER_INFO": "__उपयोगकर्ता की जानकारी:__",
-    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`: `{{date}}`",
-    "UI_TRUST_FACTOR": "<:_:979009081325019156> ट्रस्ट फैक्टर: `{{val}}`",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> शामिल गिल्ड: `{{guild}}`",
+    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass` - **[{{date}}]**",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> ट्रस्ट फैक्टर: **{{val}}**",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> गिल्ड में शामिल: **{{guild}}**",
     "USER_STATS": "__ उपयोगकर्ता के आंकड़े:__",
     "UI_3D_EDITS": "3D बनाए",
     "UI_CARD_EDITS": "पत्ते बनाए",
@@ -23,7 +23,7 @@
     "UI_SLASH_DESC": "जिस उपयोगकर्ता को देखना चाहते है उनको चुने",
     "CANNOT_FIND_USER": "{{author}} उपयोगकर्ता नहीं पाया गया",
     "USER_BLACKLISTED": "{{author}} यह उपयोगकर्ता संदिग्ध-सूची में है।",
-    "UI_CARDS_COUNT": "<:_:979009081325019156> पत्तो की संख्या: `{{cardCount}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> पत्तो की संख्या: **{{cardCount}}**",
     "UI_EVENT_EDITS": "Event पत्ते बनाए",
     "BLACKLIST_STATUS": "__संदिग्ध-सूची स्थिति:__",
     "EMBED_AUTHOR": "SOFI : USERINFO ({{username}} - {{status}})",
@@ -42,5 +42,6 @@
     "UI_GAMES": "खेल",
     "UI_SOLD": "बेचे",
     "UI_PULL": "Pulls",
-    "UI_FRAGS": "Fragments"
+    "UI_FRAGS": "Fragments",
+    "UI_TP_EXPIRED": "समाप्त"
 }

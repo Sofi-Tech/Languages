@@ -4,7 +4,7 @@
     "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ।",
     "WISHLIST_PRIVATE": "{{author}} इस उपयोगकर्ता की पसंदीदा-सूची निजी है।",
     "WISHLIST_EMPTY": "{{author}} इस उपयोगकर्ता की पसंदीदा-सूची खाली है।",
-    "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST {{username}} [{{length}}/{{slots}}]",
+    "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "पृष्ठ: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "कोड्स कॉपी करें",
     "COPY_CODES_MENU_LABEL": "सभी कोड्स",

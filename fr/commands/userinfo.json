@@ -1,5 +1,5 @@
 {
-    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`:  `{{date}}`",
+    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass` - **[{{date}}]**",
     "UI_PULL": "Pulls",
     "UI_GAMES": "Jeux",
     "UI_SOLD": "Vendus",
@@ -19,9 +19,9 @@
     "UI_CARD_EDITS": "Éditions De Cartes",
     "UI_EVENT_EDITS": "Éditions d'Event",
     "PROFILE_BUTTON_LABEL": "Profil Web",
-    "UI_CARDS_COUNT": "<:_:979009081325019156> Nombre de Cartes: `{{cardCount}}`",
-    "UI_TRUST_FACTOR": "<:_:979009081325019156> Facteur de Confiance: `{{val}}`",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> Guilde Rejointe: `{{guild}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Nombre de Cartes: **{{cardCount}}**",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> Facteur de Confiance: **{{val}}**",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Guilde Rejointe: **{{guild}}**",
     "USER_STATS": "__Statistiques utilisateur:__",
     "UI_3D_EDITS": "Éditions 3D",
     "USER_BLACKLISTED": "{{author}} Cet utilisateur est sur liste noire",
@@ -42,5 +42,6 @@
     "UI_TRADE": "Échanges",
     "UI_FRAGS": "Fragments",
     "BLACKLIST_STATUS": "__Statut De La Liste Noire:__",
-    "EMBED_AUTHOR": "SOFI: INFO UTILISATEUR ({{username}} - {{status}})"
+    "EMBED_AUTHOR": "SOFI: INFO UTILISATEUR ({{username}} - {{status}})",
+    "UI_TP_EXPIRED": "Expiré"
 }
