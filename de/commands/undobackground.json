@@ -4,12 +4,12 @@
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}undobg <CardCode>`",
     "NO_CHARACTER_FOUND": "{{author}} Der Charakter auf dieser Karte ist auf Sofi nicht mehr verfügbar und es kann nicht mit ihm interagiert werden",
     "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
-    "NO_GIF_CARD": "{{author}} Du kannst den `Hintergrund` einer `GIF`-Karte nicht entfernen",
+    "NO_GIF_CARD": "{{author}} Du kannst den `Background` einer `GIF`-Karte nicht entfernen",
     "NO_BACKGROUND": "{{author}} Auf diese Karte ist kein `Background` angewendet",
     "EMBED_TITLE": "SOFI: `BACKGROUND` ENTFERNEN",
     "PROCESS_COST": "Dieser Vorgang kostet dich **1** `Wist` und legt den `Background` zurück in dein Inventar",
     "NOT_ENOUGH_WIST": "{{author}} Du hast nicht genügend `{{currency}}` um diesen `Background` zu entfernen",
     "NO_BG_APPLIED": "{{author}} Auf diese Karte ist kein `Background` angewendet",
     "UNDO_BACKGROUND_SUCCESS": "{{author}} Der `Background` dieser Karte wurde erfolgreich in dein Inventar zurückgelegt",
-    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr deiner Sammlung"
+    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung"
 }

@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Diese Aktion tauscht die Karten-Codes der zwei genannten Karten miteinander",
+    "DESCRIPTION": "Diese Aktion tauscht die Karten-Codes von zwei genannten Karten miteinander",
     "SLASH_DESC": "Gib den ersten Code an",
     "SLASH_DESC2": "Gib den zweiten Code an",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}cs <Code1> <Code2>`",
