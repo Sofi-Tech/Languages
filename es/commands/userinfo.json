@@ -2,8 +2,8 @@
     "UI_SLASH_DESC": "Elije un usuario que quieras inspeccionar",
     "USER_BLACKLISTED": "{{author}} Ese usuario está en la lista negra",
     "PROFILE_BUTTON_LABEL": "Perfil Web",
-    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`:  `{{date}}`",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> Unido al Guild: `{{guild}}`",
+    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass` - **[{{date}}]**",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Unido al Guild: **{{guild}}**",
     "USER_IS_BOT": "{{author}} Ese usuario es un `BOT` de Discord",
     "USER_NOT_REGISTERED": "{{author}} Ese usuario no está registrado!",
     "UI_DESCRIPTION": "Muestra las estadísticas de un usuario",
@@ -13,8 +13,8 @@
     "UI_GIVEN": "Dado",
     "CANNOT_FIND_USER": "{{author}} No se ha podido encontrar a ese usuario",
     "USER_INFO": "__Información de Usuario:__",
-    "UI_CARDS_COUNT": "<:_:979009081325019156> Recuento de Cartas: `{{cardCount}}`",
-    "UI_TRUST_FACTOR": "<:_:979009081325019156> Factor de Confianza: `{{val}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Recuento de Cartas: **{{cardCount}}**",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> Factor de Confianza: **{{val}}**",
     "USER_STATS": "__Estadísticas de Usuario:__",
     "UI_3D_EDITS": "Ediciones 3D",
     "UI_CARD_EDITS": "Ediciones de Cartas",
@@ -42,5 +42,6 @@
     "UI_TRADE": "Intercambios",
     "UI_GAMES": "Juegos",
     "UI_SOLD": "Vendido",
-    "UI_PULL": "Pulls"
+    "UI_PULL": "Pulls",
+    "UI_TP_EXPIRED": "Caducado"
 }

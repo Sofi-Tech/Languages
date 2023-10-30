@@ -20,5 +20,6 @@
     "NO_GLOWS_SELF": "{{author}} Aún no tienes ningún `Glow`",
     "INVALID_USER": "{{author}} No se ha podido encontrar a ese usuario",
     "PURITY2": "Pureza2  ➜ {{purity2}}",
-    "SORT_BUTTON_LABEL": "Ordenar"
+    "SORT_BUTTON_LABEL": "Ordenar",
+    "TAG": " `Tag      ` ➜ {{tag}}"
 }
