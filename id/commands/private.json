@@ -1,7 +1,7 @@
 {
-    "PVT_DESCRIPTION": "Memprivasi koleksi, daftar keinginan, atau inventaris anda",
-    "PVT_CATEGORY": "Pengaturan",
-    "WRONG_ARGUMENTS": "{{author}} Penggunaan yang benar: `{{prefix}}pvt <Koleksi/WL/INV>`",
-    "PRIVATE_ENABLED": "{{author}} **{{content}}** mu sekarang bersifat privat",
-    "PRIVATE_DISABLED": "{{author}} **{{content}}** mu tidak lagi bersifat privat"
+  "PVT_DESCRIPTION": "Memprivasi koleksi, daftar keinginan, atau inventaris anda",
+  "PVT_CATEGORY": "Pengaturan",
+
+  "PRIVATE_ENABLED": "{{author}} **{{content}}** mu sekarang bersifat privat",
+  "PRIVATE_DISABLED": "{{author}} **{{content}}** mu tidak lagi bersifat privat"
 }

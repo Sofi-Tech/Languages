@@ -1,7 +1,7 @@
 {
   "PVT_DESCRIPTION": "「コレクション」、「ウィッシュリスト」、「インベントリ」を非公開にします",
   "PVT_CATEGORY": "設定",
-  "WRONG_ARGUMENTS": "{{author}} 正しい使い方: `{{prefix}}pvt <C/WL/INV>`",
+
   "PRIVATE_ENABLED": "{{author}} あなたの **{{content}}** は非公開になりました",
   "PRIVATE_DISABLED": "{{author}} あなたの **{{content}}** はもはや非公開ではありません"
 }
