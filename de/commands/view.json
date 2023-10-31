@@ -8,11 +8,11 @@
     "SERVER": "Server-ID:",
     "CLAIMED": "Beansprucht am:",
     "MOVES": "Fähigkeiten",
-    "OWNER_HISTORY": "Besitzer-Geschichte",
+    "OWNER_HISTORY": "Besitzer-Verlauf",
     "NO_PREVIOUS_OWNERS": "Keine",
     "EMBED_TITLE": "SOFI: ANSICHT",
     "PREVIOUS_OWNERS": "**__Vorherige Besitzer__**",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Wirksamkeit **({{percentage}}%)**",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
     "SPECIAL": "Spezial",
     "INFO_BUTTON_LABEL": "Info"
 }
