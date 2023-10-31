@@ -14,12 +14,12 @@
   "CANNOT_FIND_GLOW": "{{author}} Could not find any `Glow` with the code: `{{glowCode}}`",
   "INVALID_USER": "{{author}} Could not find that user",
   "EMBED_GLOW_TITLE": "SOFI: VIEW `GLOWS`",
-  "NAME": "`Name     ` ➜ **{{name}}**",
-  "CODE": "`Code     ` ➜ `#{{code}}`",
-  "STATUS": "`Status   ` ➜ **{{status}}**",
-  "TYPE": "`Type     ` ➜ **{{type}}**",
-  "OWNER": "`Owner    ` ➜ <@{{ownerId}}>",
-  "TAG": " `Tag      ` ➜ {{tag}}",
-  "PURITY": "Purity   ➜ {{purity}}",
-  "PURITY2": "Purity2  ➜ {{purity2}}"
+  "NAME": "Name",
+  "CODE": "Code",
+  "STATUS": "Status",
+  "TYPE": "Type",
+  "OWNER": "Owner",
+  "TAG": "Tag",
+  "PURITY": "Purity",
+  "PURITY2": "Purity2"
 }
