@@ -1,7 +1,10 @@
 {
-  "PVT_DESCRIPTION": "आपके संग्रह , पसंदीदा-सूची या इन्वेंटरी को निजी करता है।",
-  "PVT_CATEGORY": "SETTINGS",
-
-  "PRIVATE_ENABLED": "{{author}} आपकी **{{content}}** अब निजी है।",
-  "PRIVATE_DISABLED": "{{author}} आपका **{{content}}** अब सामाजिक है।"
+    "PVT_DESCRIPTION": "आपके संग्रह , पसंदीदा-सूची या इन्वेंटरी को निजी करता है।",
+    "PVT_CATEGORY": "SETTINGS",
+    "PRIVATE_ENABLED": "{{author}} आपकी **{{content}}** अब निजी है।",
+    "PRIVATE_DISABLED": "{{author}} आपका **{{content}}** अब सामाजिक है।",
+    "PVT_PUBLIC": "सामाजिक",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+    "PVT_PRIVATE": "निजी",
+    "WRONG_ARGUMENTS": "{{author}} सही उपयोग: `{{prefix}}pvt <C/WL/INV>`"
 }
