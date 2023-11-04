@@ -3,5 +3,5 @@
     "NO_LISTING_FOUND": "{{author}} Non è riuscito a trovare alcun ordine sul mercato",
     "MARKET_WARN": "```fix\n⚠️ Non utilizzare il mercato per nascondere le tue \"Wists\". Il mancato rispetto di questa regola può comportare la rimozione di detti articoli senza alcun compenso!\n```\n**Tasso Medio**: **`{{averageRate}}` | Scambio Totali**: **`{{totalTrades}}`**",
     "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Azione: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}"
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}"
 }

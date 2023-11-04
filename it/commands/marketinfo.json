@@ -11,6 +11,6 @@
     "INFO": "Uso il comando `{{prefix}}mul <Order-ID>` per rimuovere il tuo ordine dal mercato",
     "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Azione: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
 }
