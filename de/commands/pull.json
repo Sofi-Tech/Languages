@@ -5,10 +5,10 @@
     "INFO_2": "Die Höchstanzahl an `GIF` -Varianten pro Charakter beträgt **100**",
     "INFO_3": "Verbrenne `Fragments` um `Charms` zu erhalten",
     "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Pull-Menge: [ {{count}} ]",
+    "PULL_COUNT": "Pull-Anzahl: [ {{count}} ]",
     "MISSING_CURR": "{{user}} Du hast nicht genügend `{{currName}}` für diesen Vorgang",
     "AMOUNT": "Du hast: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}} erhalten",
-    "PULL_COUNT_WIST": "Pull-Menge: [ {{pullcount}} ]",
+    "PULL_COUNT_WIST": "Pull-Anzahl: [ {{pullcount}} ]",
     "RATES": "Rate",
     "PULL_CHANCES": "**__Wahrscheinlichkeiten__**"
 }
