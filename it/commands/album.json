@@ -13,6 +13,6 @@
     "ALBUM_BUTTON_LABEL": "Crea Album",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "In possesso di {{userTag}}",
-    "ALBUM_CARDS_one": "`{{count}} carta`",
-    "ALBUM_CARDS_other": "`{{count}} carte`"
+    "ALBUM_CARDS_one": "{{count}} carta",
+    "ALBUM_CARDS_other": "{{count}} carte"
 }

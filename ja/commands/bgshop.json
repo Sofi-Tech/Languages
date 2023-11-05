@@ -6,5 +6,5 @@
     "APPLY_BG": "\n`背景`を買うため次のコマンドを入力してください：`{{prefix}}buy bg <背景ID> <数>`",
     "VIEW_BACKGROUNDS": "すべての背景を表示するには、[ここをクリックしてください](<https://sofi.gg/backgrounds>)",
     "SHOWING_PAGE": "ページを表示：{{page}} / {{pages}}",
-    "NO_BG_FOUND": "{{author}} 入力されたコードは有効な`背景`コードではありません"
+    "NO_BG_FOUND": "{{author}}入力された`背景`IDは無効です"
 }

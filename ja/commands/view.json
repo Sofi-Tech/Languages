@@ -1,12 +1,12 @@
 {
-  "DESCRIPTION": "カードを表示する",
-  "SLASH_DESC1": "カードコードを入力してください。",
-  "INVALID_CODE": "提供されたコードが無効です。有効なコードを入力してください。",
-  "SERIES": "シリーズ:",
-  "NAME": "名前:",
-  "OWNED_BY": "が所有している：",
-  "SERVER": "サーバー",
-  "CLAIMED": "クレーム済み",
-  "MOVES": "移動数",
-  "OWNER_HISTORY": "所有者履歴"
+    "DESCRIPTION": "カードを表示する",
+    "SLASH_DESC1": "カードコードを入力してください。",
+    "INVALID_CODE": "提供されたコードが無効です。有効なコードを入力してください。",
+    "SERIES": "シリーズ：",
+    "NAME": "名前：",
+    "OWNED_BY": "が所有している：",
+    "SERVER": "サーバー",
+    "CLAIMED": "クレーム済み",
+    "MOVES": "移動数",
+    "OWNER_HISTORY": "所有者履歴"
 }

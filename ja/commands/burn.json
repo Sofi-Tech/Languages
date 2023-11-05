@@ -1,11 +1,19 @@
 {
-    "DESCRIPTION": "カードを燃やして、 `キューブ` を作成し、ボットでさまざまなアイテムを購入するために使用できる `クリスタル` および `シルバー`を取得します。タイピング `sb` 最後のクレームカードを燃やします。",
-    "GUILDSTONE_BURN": "`ギルドストーン`交換を確定する",
-    "GUILDSTONE_NOT_FOUND": "`ギルドストーン`を持っていません",
+    "DESCRIPTION": "カードを燃やして、 `キューブ`を作れるため必要な`かけら` および `銀`を得して、SOFIマーケットでいくつのアイテムも買えます。`sb`コマンドで最後のカードを燃やせます",
+    "GUILDSTONE_BURN": "本当に`ギルドストーン`を燃やしたいですか？",
+    "GUILDSTONE_NOT_FOUND": "{{author}}`ギルドストーン`を持っていません",
     "CANCELLED": "過程がキャンセルされました",
-    "BURN_FRAG_WARN": "`Fragment`を燃やそうとしています\n`Fragment`コード：`{{fragCode}}`",
-    "FRAG_NOT_FOUND": "`Fragment`は見つかりません",
-    "CARD_NOT_FOUND": "そのカードが見つかりません",
-    "CARD_LOCKED": "このカードがロックされています",
-    "CARD_NOT_OWNED": "そのカードを所有していません"
+    "BURN_FRAG_WARN": "本当にこの `Fragment`を燃やしたいですか?\n\n名前: **{{characterName}}**\nシリーズ: **{{seriesName}}**\nコード `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "{{author}}その`Fragment`は無効またはコレクションにありません",
+    "CARD_NOT_FOUND": "{{author}}そのカードコードが無効またはコレクションにありません",
+    "CARD_LOCKED": "{{author}}このカードコードがロックされていて、燃やせません",
+    "CARD_NOT_OWNED": "{{author}}そのカードはもうコレクションにありません",
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}}`ギルドストーン`を成功で燃やしました",
+    "SERIES": "シリーズ：",
+    "SUCCESSFUL_CARD_BURN": "{{author}} カードは成功で燃やしました",
+    "EMBED_TITLE": "SOFI: 燃やす",
+    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} `Fragment`は成功で燃やしました",
+    "NAME": "名前：",
+    "BURN_REWARDS": "__ご褒美__",
+    "BURN_CARD_LOCKED": "{{author}} そのカードは山札で使用しているため燃やせません"
 }
