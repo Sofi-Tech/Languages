@@ -1,4 +1,6 @@
 {
     "SHEET_DESCRIPTION": "创建一个 \".csv\" 您收藏的文件",
-    "SHEET_CATEGORY": "设置"
+    "SHEET_CATEGORY": "设置",
+    "NO_VAULT_LOGS": "{{author}}目前没有保险库日志",
+    "NO_GUILD_INFO": "{{author}}您不在guild"
 }
