@@ -15,6 +15,8 @@
   "NAME": "`الاسم:   ` ➜ {{name}}",
   "CODE": "`الرمز: ` ➜ `#{{code}}`",
   "STATUS": "`الحالة: ` ➜ `{{status}}`",
+  "TIME_one": "{{count}} time",
+  "TIME_other": "{{count}} times",
   "TYPE": "`النوع:   ` ➜ {{type}}",
   "OWNER": "`المالك:  ` ➜ <@{{ownerId}}>",
   "PURITY": "```النقاء :  ➜ {{purity}}```"

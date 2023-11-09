@@ -16,6 +16,8 @@
   "CODE": "`代码：` ➜ `#{{code}}`",
   "STATUS": "`状态：` ➜ `{{status}}`",
   "TYPE": "`类型：` ➜ {{type}}",
+  "TIME_one": "{{count}} time",
+  "TIME_other": "{{count}} times",
   "OWNER": "`所有者：` ➜ <@{{ownerId}}>",
   "PURITY": "```纯度:    ➜ {{purity}}```"
 }

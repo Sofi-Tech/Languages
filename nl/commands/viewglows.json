@@ -16,6 +16,8 @@
   "CODE": "`Code:  ` ➜ `#{{code}}`",
   "STATUS": "`Status:` ➜ `{{status}}`",
   "TYPE": "`Type:  ` ➜ {{type}}",
+  "TIME_one": "{{count}} time",
+  "TIME_other": "{{count}} times",
   "OWNER": "`Eigenaar:` ➜ <@{{ownerId}}> ",
   "PURITY": "```Zuiverheid: ➜ {{purity}}```"
 }

@@ -16,6 +16,8 @@
   "CODE": "`코드:   ` ➜ `#{{code}}`",
   "STATUS": "`상태: ` ➜ `{{status}}`",
   "TYPE": "`타입:   ` ➜ {{type}}",
+  "TIME_one": "{{count}} time",
+  "TIME_other": "{{count}} times",
   "OWNER": "`소유자:  ` ➜ <@{{ownerId}}>",
   "PURITY": "```투명도:  ➜ {{purity}}```"
 }
