@@ -1,18 +1,17 @@
 {
-    "DESCRIPTION": "Tampilkan sebuah kartu",
-    "SLASH_DESC1": "Masukkan kode kartu",
-    "INVALID_CODE": "{{author}} Kode kartu tidak valid",
-    "SERIES": "Seri:",
-    "NAME": "Nama:",
-    "OWNED_BY": "Dimiliki oleh:",
-    "SERVER": "Server-ID:",
-    "CLAIMED": "Diklaim di:",
-    "MOVES": "Kemampuan",
-    "OWNER_HISTORY": "Riwayat Pemilik",
-    "PREVIOUS_OWNERS": "**__Pemilik Sebelumnya__**",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensi **({{percentage}}%)**",
-    "EMBED_TITLE": "SOFI: VIEW",
-    "NO_PREVIOUS_OWNERS": "Tidak ada",
-    "SPECIAL": "Istimewa",
-    "INFO_BUTTON_LABEL": "Keterangan"
+  "DESCRIPTION": "Tampilkan sebuah kartu",
+  "SLASH_DESC1": "Masukkan kode kartu",
+  "INVALID_CODE": "{{author}} Kode kartu tidak valid",
+  "SERIES": "Seri:",
+  "NAME": "Nama:",
+  "OWNED_BY": "Dimiliki oleh:",
+  "SERVER": "Server-ID:",
+  "CLAIMED": "Diklaim di:",
+  "MOVES": "Kemampuan",
+
+  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensi **({{percentage}}%)**",
+  "EMBED_TITLE": "SOFI: VIEW",
+
+  "SPECIAL": "Istimewa",
+  "INFO_BUTTON_LABEL": "Keterangan"
 }

@@ -1,18 +1,17 @@
 {
-    "DESCRIPTION": "Zeigt eine Karte an",
-    "SLASH_DESC1": "Gib einen Karten-Code ein",
-    "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
-    "SERIES": "Serie:",
-    "NAME": "Name:",
-    "OWNED_BY": "In Besitz von:",
-    "SERVER": "Server-ID:",
-    "CLAIMED": "Beansprucht am:",
-    "MOVES": "Fähigkeiten",
-    "OWNER_HISTORY": "Besitzer-Verlauf",
-    "NO_PREVIOUS_OWNERS": "Keine",
-    "EMBED_TITLE": "SOFI: ANSICHT",
-    "PREVIOUS_OWNERS": "**__Vorherige Besitzer__**",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
-    "SPECIAL": "Spezial",
-    "INFO_BUTTON_LABEL": "Info"
+  "DESCRIPTION": "Zeigt eine Karte an",
+  "SLASH_DESC1": "Gib einen Karten-Code ein",
+  "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
+  "SERIES": "Serie:",
+  "NAME": "Name:",
+  "OWNED_BY": "In Besitz von:",
+  "SERVER": "Server-ID:",
+  "CLAIMED": "Beansprucht am:",
+  "MOVES": "Fähigkeiten",
+
+  "EMBED_TITLE": "SOFI: ANSICHT",
+
+  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
+  "SPECIAL": "Spezial",
+  "INFO_BUTTON_LABEL": "Info"
 }

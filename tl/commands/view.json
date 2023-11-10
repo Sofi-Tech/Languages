@@ -1,18 +1,17 @@
 {
-    "DESCRIPTION": "Pinapakita ang card",
-    "SLASH_DESC1": "Ilagay ang code ng card",
-    "INVALID_CODE": "{{author}} Ang code ng card ay hindi wasto",
-    "SERIES": "Serye:",
-    "NAME": "Pangalan:",
-    "OWNED_BY": "Pag-aari ni:",
-    "SERVER": "Server-ID:",
-    "CLAIMED": "Inangkin sa:",
-    "MOVES": "Mga Abilidad",
-    "OWNER_HISTORY": "Kasaysayan ng Pag-aari",
-    "PREVIOUS_OWNERS": "**__Mga dating may-ari__**",
-    "EMBED_TITLE": "SOFI: TINGNAN",
-    "NO_PREVIOUS_OWNERS": "Wala",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
-    "SPECIAL": "espesyal",
-    "INFO_BUTTON_LABEL": "impormasyon"
+  "DESCRIPTION": "Pinapakita ang card",
+  "SLASH_DESC1": "Ilagay ang code ng card",
+  "INVALID_CODE": "{{author}} Ang code ng card ay hindi wasto",
+  "SERIES": "Serye:",
+  "NAME": "Pangalan:",
+  "OWNED_BY": "Pag-aari ni:",
+  "SERVER": "Server-ID:",
+  "CLAIMED": "Inangkin sa:",
+  "MOVES": "Mga Abilidad",
+
+  "EMBED_TITLE": "SOFI: TINGNAN",
+
+  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
+  "SPECIAL": "espesyal",
+  "INFO_BUTTON_LABEL": "impormasyon"
 }

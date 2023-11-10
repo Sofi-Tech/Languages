@@ -1,17 +1,16 @@
 {
-    "DESCRIPTION": "展示一个卡片",
-    "SLASH_DESC1": "输入一个卡片代码",
-    "INVALID_CODE": "{{author}} 那个卡片代码无效",
-    "SERIES": "系列：",
-    "NAME": "名称：",
-    "OWNED_BY": "所属者：",
-    "SERVER": "服务器",
-    "CLAIMED": "已认领",
-    "MOVES": "技能：",
-    "OWNER_HISTORY": "属有者历史记录",
-    "NO_PREVIOUS_OWNERS": "无",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - 权力 **({{percentage}}%)**",
-    "PREVIOUS_OWNERS": "**__过去的所属者__**",
-    "SPECIAL": "特殊",
-    "EMBED_TITLE": "SOFI: 展示"
+  "DESCRIPTION": "展示一个卡片",
+  "SLASH_DESC1": "输入一个卡片代码",
+  "INVALID_CODE": "{{author}} 那个卡片代码无效",
+  "SERIES": "系列：",
+  "NAME": "名称：",
+  "OWNED_BY": "所属者：",
+  "SERVER": "服务器",
+  "CLAIMED": "已认领",
+  "MOVES": "技能：",
+
+  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - 权力 **({{percentage}}%)**",
+
+  "SPECIAL": "特殊",
+  "EMBED_TITLE": "SOFI: 展示"
 }

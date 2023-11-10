@@ -1,18 +1,18 @@
 {
-    "DESCRIPTION": "Affiche une carte",
-    "SLASH_DESC1": "Entrez un code d'une carte",
-    "INVALID_CODE": "{{author}} Le code de la carte est invalide",
-    "SERIES": "Série:",
-    "NAME": "Nom:",
-    "OWNED_BY": "Possédée Par:",
-    "SERVER": "ID de Serveur:",
-    "CLAIMED": "Obtenu Le:",
-    "MOVES": "Compétences",
-    "OWNER_HISTORY": "Historique des Propriétaires",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Puissance **({{percentage}}%)**",
-    "NO_PREVIOUS_OWNERS": "Aucun",
-    "EMBED_TITLE": "SOFI: VIEW",
-    "PREVIOUS_OWNERS": "**__Propriétaires Précédents__**",
-    "SPECIAL": "Spécial",
-    "INFO_BUTTON_LABEL": "Info"
+  "DESCRIPTION": "Affiche une carte",
+  "SLASH_DESC1": "Entrez un code d'une carte",
+  "INVALID_CODE": "{{author}} Le code de la carte est invalide",
+  "SERIES": "Série:",
+  "NAME": "Nom:",
+  "OWNED_BY": "Possédée Par:",
+  "SERVER": "ID de Serveur:",
+  "CLAIMED": "Obtenu Le:",
+  "MOVES": "Compétences",
+
+  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Puissance **({{percentage}}%)**",
+
+  "EMBED_TITLE": "SOFI: VIEW",
+
+  "SPECIAL": "Spécial",
+  "INFO_BUTTON_LABEL": "Info"
 }
