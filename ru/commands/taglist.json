@@ -10,5 +10,7 @@
     "CARD_one": "{{count}} карта",
     "CARD_other": "{{count}} карт",
     "CARD_zero": "{{count}} карт",
-    "CARD_many": "{{count}} карт"
+    "CARD_many": "{{count}} карт",
+    "CARD_few": "{{count}} карты",
+    "CARD_two": "{{count}} карты"
 }

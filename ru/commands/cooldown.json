@@ -13,5 +13,7 @@
     "UNREAD_MAIL_other": "\n📫 У вас **{{count}}** непрочитанных писем",
     "READY": "Готово",
     "UNREAD_MAIL_zero": "\n📫 У вас **{{count}}** непрочитанных писем",
-    "UNREAD_MAIL_many": "\n📫 У вас **{{count}}** непрочитанных писем"
+    "UNREAD_MAIL_many": "\n📫 У вас **{{count}}** непрочитанных писем",
+    "UNREAD_MAIL_two": "\n📫 У вас **{{count}}** непрочитанных письма",
+    "UNREAD_MAIL_few": "\n📫 У вас **{{count}}** непрочитанных письма"
 }

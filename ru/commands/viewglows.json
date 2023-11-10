@@ -26,5 +26,7 @@
     "TIME_zero": "{{count}} раз",
     "TIME_one": "{{count}} раз",
     "TIME_other": "{{count}} раз",
-    "TIME_many": "{{count}} раз"
+    "TIME_many": "{{count}} раз",
+    "TIME_few": "{{count}} раза",
+    "TIME_two": "{{count}} раза"
 }
