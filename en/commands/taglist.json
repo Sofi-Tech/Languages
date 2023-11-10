@@ -7,6 +7,6 @@
   "EMBED_TITLE": "SOFI: `TAG` LIST ({{username}})",
   "CARD_one": "{{count}} card",
   "CARD_other": "{{count}} cards",
-  "SOFI_FACT": "Note: Creating a \"Tag\" with the name \"lock\" and the \"🔒\" emoji will prevent you from burning or trading cards with that \"Tag\"\nExample: \"{{prefix}}tc lock 🔒\"",
-  "EMBED_FOOTER": "Total: {{count}}"
+  "SOFI_FACT": "Locked tags cant be burnt or traded.",
+  "EMBED_FOOTER": "Total: {{total}} | Locked: {{locked}}"
 }
