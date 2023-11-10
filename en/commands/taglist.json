@@ -12,5 +12,18 @@
   "CARD_other": "{{count}} cards",
   "CARD_many": "{{count}} cards",
   "SOFI_FACT": "A locked Tag cannot be burnt or traded",
-  "EMBED_FOOTER": "Total: {{total}} | Locked: {{locked}}"
+  "EMBED_FOOTER": "Total: {{total}} | Locked: {{locked}}",
+  "LOCK_MENU_PLACEHOLDER": "Select a tag to lock/unlock",
+  "LOCKED_TAG_zero": "🔒 Locked {{count}} tag",
+  "LOCKED_TAG_one": "🔒 Locked {{count}} tag",
+  "LOCKED_TAG_two": "🔒 Locked {{count}} tags",
+  "LOCKED_TAG_few": "🔒 Locked {{count}} tags",
+  "LOCKED_TAG_many": "🔒 Locked {{count}} tags",
+  "LOCKED_TAG_other": "🔒 Locked {{count}} tags",
+  "UNLOCKED_TAG_zero": "🔓 Unlocked {{count}} tag",
+  "UNLOCKED_TAG_one": "🔓 Unlocked {{count}} tag",
+  "UNLOCKED_TAG_two": "🔓 Unlocked {{count}} tags",
+  "UNLOCKED_TAG_few": "🔓 Unlocked {{count}} tags",
+  "UNLOCKED_TAG_many": "🔓 Unlocked {{count}} tags",
+  "UNLOCKED_TAG_other": "🔓 Unlocked {{count}} tags"
 }
