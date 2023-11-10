@@ -1,12 +1,12 @@
 {
-  "TL_DESCRIPTION": "Displays a list with your \"Tags\"",
-  "TL_CATEGORY": "Tags",
-  "NO_USER": "{{author}} Could not find that user",
-  "NO_TAGS_SELF": "{{author}} You don't have any `Tags` yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
-  "NO_TAGS": "{{author}} That user does not have any `Tags`",
-  "EMBED_TITLE": "SOFI: `TAG` LIST ({{username}})",
-  "CARD_one": "{{count}} card",
-  "CARD_other": "{{count}} cards",
-  "SOFI_FACT": "Locked tags cant be burnt or traded.",
-  "EMBED_FOOTER": "Total: {{total}} | Locked: {{locked}}"
+    "TL_DESCRIPTION": "Displays a list with your \"Tags\"",
+    "TL_CATEGORY": "Tags",
+    "NO_USER": "{{author}} Could not find that user",
+    "NO_TAGS_SELF": "{{author}} You don't have any `Tags` yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
+    "NO_TAGS": "{{author}} That user does not have any `Tags`",
+    "EMBED_TITLE": "SOFI: `TAG` LIST ({{username}})",
+    "CARD_one": "{{count}} card",
+    "CARD_other": "{{count}} cards",
+    "SOFI_FACT": "A locked Tag cannot be burnt or traded",
+    "EMBED_FOOTER": "Total: {{total}} | Locked: {{locked}}"
 }
