@@ -11,5 +11,7 @@
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
     "UNREAD_MAIL_one": "\n📫 У вас **{{count}}** непрочитанное письмо",
     "UNREAD_MAIL_other": "\n📫 У вас **{{count}}** непрочитанных писем",
-    "READY": "Готово"
+    "READY": "Готово",
+    "UNREAD_MAIL_zero": "\n📫 У вас **{{count}}** непрочитанных писем",
+    "UNREAD_MAIL_many": "\n📫 У вас **{{count}}** непрочитанных писем"
 }

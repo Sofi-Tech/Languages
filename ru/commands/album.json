@@ -14,5 +14,7 @@
     "EMBED__ALBUM_FOOTER": "Принадлежит {{userTag}}",
     "ALBUM_SLASH_DESC": "Выберите пользователя, альбомы которого вы хотите посмотреть",
     "ALBUM_CARDS_one": "{{count}} карта",
-    "ALBUM_CARDS_other": "{{count}} карт"
+    "ALBUM_CARDS_other": "{{count}} карт",
+    "ALBUM_CARDS_zero": "{{count}} карта",
+    "ALBUM_CARDS_many": "{{count}} карт"
 }

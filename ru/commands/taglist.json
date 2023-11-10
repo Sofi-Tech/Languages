@@ -8,5 +8,7 @@
     "EMBED_FOOTER": "Всего: {{total}} | Заблокировано: {{locked}}",
     "NO_TAGS_SELF": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
     "CARD_one": "{{count}} карта",
-    "CARD_other": "{{count}} карт"
+    "CARD_other": "{{count}} карт",
+    "CARD_zero": "{{count}} карт",
+    "CARD_many": "{{count}} карт"
 }
