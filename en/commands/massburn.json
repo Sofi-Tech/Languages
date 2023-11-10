@@ -4,7 +4,7 @@
     "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n\n```fix\nNote: You can find a comprehensive list of filters with the command \"{{prefix}}help filters\"\n```",
     "WRONG_TAG": "{{author}} Could not find any `Tag` with the name: `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
-    "LOCKED_CARDS_WARNING": "{{author}} You cannot burn your lock `Tag`",
+    "LOCKED_CARDS_WARNING": "{{author}} Cards which are either locked, contain a GIF or are selected for deck cannot be burnt.",
     "CARDS_BURNED": "__Selected Cards [ {{totalCards}} ]__",
     "EMBED_TITLE": "SOFI: MASSBURN",
     "CONFIRM_ASK": "{{author}} Are you sure you want to irreversibly burn these cards?",
