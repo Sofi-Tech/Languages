@@ -1,16 +1,9 @@
 {
-    "RULES_CATEGORY": "Einstellungen",
-    "RULES_DESCRIPTION": "Zeigt Sofis Regeln an",
-    "NO_ALTING": "<:_:979009081325019156> Es ist verboten, mit Alts/mehreren Accounts mit Sofi zu interagieren oder zu spielen. Melde dich selber, solltest du diese Regel gebrochen haben, um eine Bestrafung zu vermeiden",
-    "NO_FARMING": "<:_:979009081325019156> Verwende dein Social-Media Ansehen nicht um Ressourcen oder Karten in Sofi zu erhalten",
-    "NO_SCAMMING": "<:_:979009081325019156> Der Versuch, andere Nutzer zu täuschen oder zu betrügen wird dazu führen, dass du auf die Blacklist kommst",
-    "EMBED_AUTHOR": "SOFI: REGELN",
-    "NO_EXPLOITING_BUGS": "<:_:979009081325019156> Jegliche Bugs oder Exploits die du findest müssen sofort gemeldet werden!",
-    "VISIT_SUPPORT": "Besuche unseren [Support Server](https://discord.gg/XPsQKJjeD7) für weitere Informationen",
-    "NO_HELPING_ALTERS": "<:_:979009081325019156> Unterstütze oder interagiere nicht mit Betrügern oder Benutzern von Zweitaccounts. Wenn du einen Benutzer verdächtigst melde ihn bitte beim Personal",
-    "NO_BUY_SELL_ACCOUNTS": "<:_:979009081325019156> Beteilige dich nicht am Kauf- oder Verkauf vollständiger Discord Accounts",
-    "EMBED_FOOTER": "{{count}} Benutzer haben diesen Regeln zugestimmt",
-    "DO_NOT_SCAMMED_ITEMS": "<:_:979009081325019156> Durch illegale Aktivitäten erworbene Gegenstände werden aus deinem Inventar entfernt, unabhängig davon, wie sie erworben wurden",
-    "DO_NOT_CHANGE_EMAIL": "```Reparieren \n⚠️ Discord und Sofi Personal werden dich NIEMALS nach deinem Passwort fragen oder dir raten, deine E-Mail-Adresse in eine bestimmte Adresse zu ändern. Hüte dich vor Discord-BOTs von Drittanbietern, die häufig für ähnliche Phishing-Versuche verwendet werden!```",
-    "DO_NOT_SIBLINGS": "<:_:979009081325019156> Geschwister werden gemeinsam bestraft, wenn einer von ihnen gegen die Regeln verstößt"
+  "RULES_CATEGORY": "Einstellungen",
+  "RULES_DESCRIPTION": "Zeigt Sofis Regeln an",
+  "RULES_LIST": "<:_:979009081325019156> Es ist verboten, mit Alts/mehreren Accounts mit Sofi zu interagieren oder zu spielen. Melde dich selber, solltest du diese Regel gebrochen haben, um eine Bestrafung zu vermeiden",
+
+  "EMBED_AUTHOR": "SOFI: REGELN",
+
+  "EMBED_FOOTER": "{{count}} Benutzer haben diesen Regeln zugestimmt"
 }
