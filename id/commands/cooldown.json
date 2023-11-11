@@ -9,7 +9,10 @@
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 Anda punya **{{count}}** pesan belum dibaca",
+    "UNREAD_MAIL_one": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
     "UNREAD_MAIL_other": "\n📫 Anda punya **{{count}}** pesan belum dibaca",
-    "READY": "Siap"
+    "READY": "Siap",
+    "UNREAD_MAIL_two": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
+    "UNREAD_MAIL_few": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
+    "UNREAD_MAIL_zero": "\n📫 Kamu punya **{{count}}** pesan belum dibaca"
 }

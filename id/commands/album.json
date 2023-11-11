@@ -14,5 +14,6 @@
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "Dimiliki oleh {{userTag}}",
     "ALBUM_CARDS_one": "{{count}} kartu",
-    "ALBUM_CARDS_other": "{{count}} kartu"
+    "ALBUM_CARDS_other": "{{count}} kartu",
+    "ALBUM_CARDS_zero": "{{count}} kartu"
 }
