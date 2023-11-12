@@ -10,7 +10,7 @@
     "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Successfully burned your `Fragment`",
     "CARD_NOT_FOUND": "{{author}} The card code you provided is either invalid or not in your collection",
     "CARD_LOCKED": "{{author}} That card is locked and cannot be burned",
-    "GIF_CARD": "Gif cards cannot be burned",
+    "GIF_CARD": "{{author}} You cannot burn a GIF card",
     "BURN_CARD_LOCKED": "{{author}} That card is currently used in a deck and cannot be burned",
     "CARD_NOT_OWNED": "{{author}} That card is no longer in your collection",
     "NAME": "Name:",
