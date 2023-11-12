@@ -4,5 +4,9 @@
     "NO_TAGS": "{{author}} Anda belum memiliki `Glow Tag`",
     "EMBED_TITLE": "SOFI: `GLOW TAG` LIST",
     "GLOWS_one": "{{count}} Glow",
-    "GLOWS_other": "{{count}} Glows"
+    "GLOWS_other": "{{count}} Glows",
+    "GLOWS_few": "{{count}} Glows",
+    "GLOWS_many": "{{count}} Glows",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_zero": "{{count}} Glow"
 }

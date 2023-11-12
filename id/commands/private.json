@@ -1,7 +1,10 @@
 {
-  "PVT_DESCRIPTION": "Memprivasi koleksi, daftar keinginan, atau inventaris anda",
-  "PVT_CATEGORY": "Pengaturan",
-
-  "PRIVATE_ENABLED": "{{author}} **{{content}}** mu sekarang bersifat privat",
-  "PRIVATE_DISABLED": "{{author}} **{{content}}** mu tidak lagi bersifat privat"
+    "PVT_DESCRIPTION": "Memprivasi koleksi, daftar keinginan, atau inventaris anda",
+    "PVT_CATEGORY": "Pengaturan",
+    "PRIVATE_ENABLED": "{{author}} **{{content}}** mu sekarang bersifat privat",
+    "PRIVATE_DISABLED": "{{author}} **{{content}}** mu tidak lagi bersifat privat",
+    "PVT_PRIVATE": "Privat",
+    "PVT_PUBLIC": "Publik",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+    "WRONG_ARGUMENTS": "{{author}} Penggunaan yang benar: `{{prefix}}pvt <C/WL/INV>`"
 }

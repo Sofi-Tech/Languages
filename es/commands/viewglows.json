@@ -25,5 +25,8 @@
     "SORT_BUTTON_LABEL": "Ordenar",
     "TAG": "Tag",
     "USED": "Usado",
-    "TIME_zero": "{{count}} vez"
+    "TIME_zero": "{{count}} vez",
+    "TIME_few": "{{count}} veces",
+    "TIME_two": "{{count}} veces",
+    "TIME_many": "{{count}} veces"
 }

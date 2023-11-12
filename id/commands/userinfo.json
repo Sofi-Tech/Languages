@@ -26,8 +26,8 @@
     "UI_3D_EDITS": "Pengeditan 3D",
     "UI_GAME_BLACKLISTED": "- Daftar Hitam Game: {{formattedDate}}",
     "USER_IS_BOT": "{{author}} Pengguna tersebut adalah `BOT` Discord",
-    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`:    `{{date}}`",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> Guild bergabung: `{{guild}}`",
+    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass` - **[{{date}}]**",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Guild bergabung: **{{guild}}**",
     "UI_VOTE": "Votes",
     "UI_CLAIM": "Diklaim",
     "UI_BURN": "Terbakar",
@@ -37,10 +37,11 @@
     "USER_NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar!",
     "PROFILE_BUTTON_LABEL": "Profil web",
     "USER_INFO": "__Info Pengguna:__",
-    "UI_CARDS_COUNT": "<:_:979009081325019156> Jumlah Kartu: `{{cardCount}}`",
-    "UI_TRUST_FACTOR": "<:_:979009081325019156> Faktor kepercayaan: `{{val}}`",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Jumlah Kartu: **{{cardCount}}**",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> Faktor Kepercayaan: **{{val}}**",
     "USER_STATS": "__Statistik Pengguna:__",
     "UI_MORPH": "Morph",
     "UI_SCRATCHED": "Tergores",
-    "UI_DROP": "Menjatuhkan"
+    "UI_DROP": "Menjatuhkan",
+    "UI_TP_EXPIRED": "Kadaluarsa"
 }

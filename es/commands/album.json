@@ -14,5 +14,9 @@
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM \"{{albumName}}\"",
     "EMBED__ALBUM_FOOTER": "Propiedad De {{userTag}}",
     "ALBUM_CARDS_one": "{{count}} carta",
-    "ALBUM_CARDS_other": "{{count}} cartas"
+    "ALBUM_CARDS_other": "{{count}} cartas",
+    "ALBUM_CARDS_two": "{{count}} cartas",
+    "ALBUM_CARDS_few": "{{count}} cartas",
+    "ALBUM_CARDS_zero": "{{count}} carta",
+    "ALBUM_CARDS_many": "{{count}} cartas"
 }

@@ -15,5 +15,8 @@
     "EMBED__ALBUM_FOOTER": "Dimiliki oleh {{userTag}}",
     "ALBUM_CARDS_one": "{{count}} kartu",
     "ALBUM_CARDS_other": "{{count}} kartu",
-    "ALBUM_CARDS_zero": "{{count}} kartu"
+    "ALBUM_CARDS_zero": "{{count}} kartu",
+    "ALBUM_CARDS_two": "{{count}} kartu",
+    "ALBUM_CARDS_few": "{{count}} kartu",
+    "ALBUM_CARDS_many": "{{count}} kartu"
 }

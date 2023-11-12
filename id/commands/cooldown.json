@@ -14,5 +14,6 @@
     "READY": "Siap",
     "UNREAD_MAIL_two": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
     "UNREAD_MAIL_few": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
-    "UNREAD_MAIL_zero": "\n📫 Kamu punya **{{count}}** pesan belum dibaca"
+    "UNREAD_MAIL_zero": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
+    "UNREAD_MAIL_many": "\n📫 Anda memiliki **{{count}}** surat yang belum dibaca"
 }
