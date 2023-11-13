@@ -49,6 +49,6 @@
     "NO_ALIASES": "Нет",
     "NOT_PROVIDED": "Не указано",
     "USE_FILTER_OPERATORS_3": "<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
-    "COMMNAD_NOT_FOUND": "{{author}} Не удалось найти команду с названием: `{{command}}`!\nВозможно, вы искали `{{commandName}}`?",
+    "COMMNAD_NOT_FOUND": "{{author}} Не удалось найти команду с названием `{{command}}`!\nВозможно, вы искали `{{commandName}}`?",
     "USAGE_EMBED_TITLE": "SOFI: HELP ({{command}})"
 }
