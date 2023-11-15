@@ -16,5 +16,5 @@
     "SUCCESSFUL_CARD_BURN": "{{author}} Has quemado con éxito tu carta",
     "BURN_CARD_LOCKED": "{{author}} Esa carta se utiliza actualmente en un deck y no puede ser quemada",
     "NAME": "Nombre:",
-    "GIF_CARD": "Las cartas GIF no se pueden quemar"
+    "GIF_CARD": "{{author}} No puedes quemar una carta GIF"
 }
