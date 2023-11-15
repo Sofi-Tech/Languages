@@ -2,7 +2,7 @@
   "PC_INTRO": "<:_:979009081325019156> **Giriş**: Bir tanıtım mesajı ayarlayın\n<:_:979009081325019156> **Favori Karakter**: Profilinizde görüntülenecek favori karakterinizi seçin\n<:_:979009081325019156> **Görüntü Kartı**: Profilinizde görüntülenecek bir kart seçin\n<:_:979009081325019156> **Arka plan**: Profiliniz için bir arka plan belirleyin\n<:_:979009081325019156> **Metin Rengi**: Profillerinizin metin rengini değiştirmek için `Glows` kullanın\n<:_:979009081325019156> **Profil Parıltısı**: `Glows`larınızdan biriyle profilinizin parlamasını sağlayın\n<:_:979009081325019156> **Ödülleri Göster**: Profilinizde farklı ödüller gösterin",
   "PC_DESCRIPTION": "Profilinizi özelleştirir",
   "PC_CATEGORY": "Ayarlar",
-  "PC_EMBED_TITLE": "SOFI: Profil Yapılandırması",
+  "PC_EMBED_TITLE": "**[SOFI: PROFILECONFIG](https://guide.sofi.gg)**",
   "PURCHASE_BUTTON_LABEL": "Satın al",
   "AGREE_BUTTON_LABEL": "Onayla",
   "DISAGREE_BUTTON_LABEL": "Geri git",
@@ -14,7 +14,6 @@
   "AD_MENU_LABEL": "Görüntülenen ödüller",
   "NON_TRADABLE_NOTE": "Yukarıdaki arka planlar `Items` olarak kabul edilmez ve bu nedenle takas edilemez ve mevcut arka plan resminizi geçersiz kılar",
   "NEED_MIN_AWARDS": "Bu seçeneği kullanmak için en az **6** ödüle ihtiyacınız var",
-
   "PROVIDE_ACH_ID": "Başarı rozetleri soldan sağa doğru görüntülenir, numaralarını buna göre girin",
   "NO_GLOW": "Lütfen bir `Glow` kodu girin",
   "SET_FC_CONFIRM": "**{{series}}**'den **{{character}}**'yi favori karakteriniz olarak ayarlamak üzeresiniz",
@@ -22,7 +21,6 @@
   "PROCESS_NOT_COMPLETED": "Bu işlem iptal edilmiştir",
   "SET_INTRO_CONFIRM": "Giriş yorumunuzu şu şekilde ayarlamak üzeresiniz:\n\n> {{intro}}",
   "CANNOT_FIND_ACH": "{{user}} Şu ID'lere sahip herhangi bir başarınız yok: {{ids}}",
-
   "CAN_MENU_LABEL": "İptal etmek",
   "PC_MENU_PLACEHOLDER": "Bir kategori seç",
   "INTRO_MENU_LABEL": "Tanıtım",

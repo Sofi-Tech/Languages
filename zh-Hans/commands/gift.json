@@ -1,14 +1,14 @@
 {
-    "INVALID_AMOUNT": "{{author}} 您不能提供负数的物品",
-    "PLAYER_NOT_EXISTS": "{{author}}该用户尚没注册！",
-    "GIFT_WRONG_USAGE": "{{author}}正确用法：`{{prefix}}礼物 <@User/UserID> <Amount>",
-    "GIFT_SUCCESSFUL": "{{author}}有给了{{amount}}{{eventItem}}到{{user}}\n{{user}}已收到总计{{recieveCount}}{{eventItem}}",
-    "GIFT_SLASH_DESC2": "输入您想赠送给他们的“{{eventItem}}”金额",
-    "GIFT_DESCRIPTION": "将“活动物品”赠送给其他用户",
-    "NO_ACTIVE_EVENT": "{{author}}现在没有活动",
-    "GIFT_CATEGORY": "卡片",
-    "GIFT_SLASH_DESC": "选择您想要赠送“{{eventItem}}”的用户",
-    "INVALID_USER": "{{author}} 您不能将 `{{eventItem}}` 赠送给自己",
-    "EMBED_TITLE": "SOFI:礼物",
-    "NOT_ENOUGH_ITEM": "{{author}}你没有{{amount}}{{eventItem}}"
+  "INVALID_AMOUNT": "{{author}} 您不能提供负数的物品",
+  "PLAYER_NOT_EXISTS": "{{author}}该用户尚没注册！",
+  "GIFT_WRONG_USAGE": "{{author}}正确用法：`{{prefix}}礼物 <@User/UserID> <Amount>",
+  "GIFT_SUCCESSFUL": "{{author}}有给了{{amount}}{{eventItem}}到{{user}}\n{{user}}已收到总计{{recieveCount}}{{eventItem}}",
+  "GIFT_SLASH_DESC2": "输入您想赠送给他们的“{{eventItem}}”金额",
+  "GIFT_DESCRIPTION": "将“活动物品”赠送给其他用户",
+  "NO_ACTIVE_EVENT": "{{author}}现在没有活动",
+  "GIFT_CATEGORY": "卡片",
+  "GIFT_SLASH_DESC": "选择您想要赠送“{{eventItem}}”的用户",
+  "INVALID_USER": "{{author}} 您不能将 `{{eventItem}}` 赠送给自己",
+  "EMBED_TITLE": "**[SOFI: GIFT](https://guide.sofi.gg)**",
+  "NOT_ENOUGH_ITEM": "{{author}}你没有{{amount}}{{eventItem}}"
 }

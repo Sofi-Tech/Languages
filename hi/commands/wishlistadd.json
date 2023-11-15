@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "अपनी पसंदीदा-सूची में पात्र जोड़ें",
-    "CATEGORY": "WISHLIST",
-    "ADD_CHARACTERS_ERROR": "{{author}} आप और अधिक पात्र पसंदीदा-सूची में नहीं जोड़ सकते है।",
-    "SEARCH_CHARACTER_ERROR": "{{author}} सही उपयोग: `{{prefix}}wa <Name>`",
-    "NO_CHARACTER_FOUND": "{{author}} यह पात्र प्राप्त नहीं हुआ। `{{prefix}}wa -f <Name>` का प्रयोग करके सटीक खोज करे",
-    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** आपकी पसंदीदा-सूची में पहले से मौजूद है।",
-    "CHARACTER_ADDED": "{{author}} **{{name}}** आपकी पसंदीदा-सूची में जोड़ा गया",
-    "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "आप `{{prefix}}wu` या `{{prefix}}wu max` का प्रयोग करके पसंदीदा-सूची की क्षमता बढ़ा सकते है।"
+  "DESCRIPTION": "अपनी पसंदीदा-सूची में पात्र जोड़ें",
+  "CATEGORY": "WISHLIST",
+  "ADD_CHARACTERS_ERROR": "{{author}} आप और अधिक पात्र पसंदीदा-सूची में नहीं जोड़ सकते है।",
+  "SEARCH_CHARACTER_ERROR": "{{author}} सही उपयोग: `{{prefix}}wa <Name>`",
+  "NO_CHARACTER_FOUND": "{{author}} यह पात्र प्राप्त नहीं हुआ। `{{prefix}}wa -f <Name>` का प्रयोग करके सटीक खोज करे",
+  "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** आपकी पसंदीदा-सूची में पहले से मौजूद है।",
+  "CHARACTER_ADDED": "{{author}} **{{name}}** आपकी पसंदीदा-सूची में जोड़ा गया",
+  "EMBED_TITLE": "**[SOFI: WISHLISTADD](https://guide.sofi.gg)**",
+  "INCREASE_CAPACITY": "आप `{{prefix}}wu` या `{{prefix}}wu max` का प्रयोग करके पसंदीदा-सूची की क्षमता बढ़ा सकते है।"
 }

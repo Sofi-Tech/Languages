@@ -1,9 +1,9 @@
 {
-    "ACH_DESCRIPTION": "Zeigt eine Liste der verfügbaren Errungenschaften an",
-    "ACH_CATEGORY": "Einstellungen",
-    "ACH_CLAIMED": "Beansprucht",
-    "ACH_EMBED_TITLE": "SOFI: ERRUNGENSCHAFTEN ({{totalClaimed}}/{{achWithPercent}})",
-    "FAN_EMBED_TITLE": "SOFI: FAN-PUNKTE",
-    "ACH_LOADING": "Lade <a:ping:876612181725167687>",
-    "NO_STATS_FOUND": "Du hast noch keine Fan-Punkte für irgendeinen Charakter"
+  "ACH_DESCRIPTION": "Zeigt eine Liste der verfügbaren Errungenschaften an",
+  "ACH_CATEGORY": "Einstellungen",
+  "ACH_CLAIMED": "Beansprucht",
+  "ACH_EMBED_TITLE": "**[SOFI: ACHIEVEMENTS](https://guide.sofi.gg)**",
+  "FAN_EMBED_TITLE": "**[SOFI: ACHIEVEMENTS](https://guide.sofi.gg)**",
+  "ACH_LOADING": "Lade <a:ping:876612181725167687>",
+  "NO_STATS_FOUND": "Du hast noch keine Fan-Punkte für irgendeinen Charakter"
 }

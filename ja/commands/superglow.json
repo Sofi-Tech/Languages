@@ -1,14 +1,14 @@
 {
-    "SG_DESCRIPTION": "2つの「Glow」を合わせて「SuperGlow」を作成する",
-    "SG_CATEGORY": "コスメティック",
-    "GLOW_CODES_MISSING": "{{author}} 正しい使い方は： `{{prefix}}sg <#Glowコード1> <#Glowコード2>`",
-    "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードには少なくとも１つが無効またはインベントリーにありません",
-    "UNAVAILABLE_GLOW": "{{author}} 提供された`Glow`に中では少なくとこ１つは完全放電です",
-    "NO_USE_SG": "{{author}} この過程の為`SuperGlow`を利用できません",
-    "SAME_GLOWS": "{{author}} 同じ`Glow`は１回しか入力できません",
-    "EMBED_TITLE": "SOFI：「SUPERGLOW (超輝き)」",
-    "FORM_SG_CONFIRM": "下記のアイテムのマージを確認してください：\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nこの過程で１つ **{{superGlowName}}** `SuperGlow`を作成します",
-    "MISSING_RESINS": "{{author}} `Resin`は足りません",
-    "SUPER_GLOW_SUCCESSFUL": "{{author}} `Glow`は成功でマージされました\n",
-    "FORM_SG_FOOTER": "この過程で`Glow`両方が消費されます！"
+  "SG_DESCRIPTION": "2つの「Glow」を合わせて「SuperGlow」を作成する",
+  "SG_CATEGORY": "コスメティック",
+  "GLOW_CODES_MISSING": "{{author}} 正しい使い方は： `{{prefix}}sg <#Glowコード1> <#Glowコード2>`",
+  "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードには少なくとも１つが無効またはインベントリーにありません",
+  "UNAVAILABLE_GLOW": "{{author}} 提供された`Glow`に中では少なくとこ１つは完全放電です",
+  "NO_USE_SG": "{{author}} この過程の為`SuperGlow`を利用できません",
+  "SAME_GLOWS": "{{author}} 同じ`Glow`は１回しか入力できません",
+  "EMBED_TITLE": "**[SOFI: SUPERGLOW](https://guide.sofi.gg)**",
+  "FORM_SG_CONFIRM": "下記のアイテムのマージを確認してください：\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nこの過程で１つ **{{superGlowName}}** `SuperGlow`を作成します",
+  "MISSING_RESINS": "{{author}} `Resin`は足りません",
+  "SUPER_GLOW_SUCCESSFUL": "{{author}} `Glow`は成功でマージされました\n",
+  "FORM_SG_FOOTER": "この過程で`Glow`両方が消費されます！"
 }

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "İstek listesi liderlik tablosunu görüntüleyin",
-    "CATEGORY": "İstek listesi",
-    "EMBED_TITLE": "SOFI: İSTEK LİSTESİ SIRALAMASI ({{type}})",
-    "EMBED_FOOTER": "Gösterilen sayfa: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Karakterler",
-    "SERIES_BUTTON_LABEL": "Seriler"
+  "DESCRIPTION": "İstek listesi liderlik tablosunu görüntüleyin",
+  "CATEGORY": "İstek listesi",
+  "EMBED_TITLE": "**[SOFI: WISHLISTLB](https://guide.sofi.gg)**",
+  "EMBED_FOOTER": "Gösterilen sayfa: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Karakterler",
+  "SERIES_BUTTON_LABEL": "Seriler"
 }

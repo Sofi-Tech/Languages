@@ -1,14 +1,14 @@
 {
-    "UNG_DESCRIPTION": "Bir karttan \"Glow\"u kaldırır",
-    "UNG_CATEGORY": "Kozmetik",
-    "UNG_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ung <CardCode>`",
-    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
-    "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
-    "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
-    "NOT_GLOWED": "{{author}} Bu karta hiçbir `Glow` uygulanmamış",
-    "EMBED_TITLE": "GLOW'U KALDIR",
-    "UNG_CONFIRMATION": "Bu kartın `Glow` özelliğini kaldırmak istediğinizden emin misiniz?\nBu işlem **100** `Silver`e mal olacak",
-    "EMBED_FOOTER": "Kaldırılan `Glow`, `Inventory` geri gelmeyecek",
-    "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
-    "UNG_SUCCESSFUL": "`Glow` başarıyla kaldırıldı"
+  "UNG_DESCRIPTION": "Bir karttan \"Glow\"u kaldırır",
+  "UNG_CATEGORY": "Kozmetik",
+  "UNG_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ung <CardCode>`",
+  "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
+  "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
+  "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
+  "NOT_GLOWED": "{{author}} Bu karta hiçbir `Glow` uygulanmamış",
+  "EMBED_TITLE": "**[SOFI: UNDOGLOW](https://guide.sofi.gg)**",
+  "UNG_CONFIRMATION": "Bu kartın `Glow` özelliğini kaldırmak istediğinizden emin misiniz?\nBu işlem **100** `Silver`e mal olacak",
+  "EMBED_FOOTER": "Kaldırılan `Glow`, `Inventory` geri gelmeyecek",
+  "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
+  "UNG_SUCCESSFUL": "`Glow` başarıyla kaldırıldı"
 }

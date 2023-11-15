@@ -1,8 +1,8 @@
 {
-    "GTL_DESCRIPTION": "Visualizza un elenco con il tuo \"Glow Tags\"",
-    "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} Non hai ancora nessun `Glow Tag`",
-    "EMBED_TITLE": "SOFI: `GLOW TAG` LIST",
-    "GLOWS_one": "{{count}} Glow",
-    "GLOWS_other": "{{count}} Glows"
+  "GTL_DESCRIPTION": "Visualizza un elenco con il tuo \"Glow Tags\"",
+  "GTL_CATEGORY": "Tags",
+  "NO_TAGS": "{{author}} Non hai ancora nessun `Glow Tag`",
+  "EMBED_TITLE": "**[SOFI: GLOWTAGLIST](https://guide.sofi.gg)**",
+  "GLOWS_one": "{{count}} Glow",
+  "GLOWS_other": "{{count}} Glows"
 }

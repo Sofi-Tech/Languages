@@ -8,13 +8,11 @@
   "PRODUCT": "Você recebe:",
   "VALUE": "Você paga:",
   "RATE": "Taxa:",
-
   "ALREADY_IN_PURCHASE": "{{author}} Cancele ou prossiga com sua transação anterior antes de iniciar uma nova!",
-
   "PURCHASE_CANCELLED": "Esta oferta não está mais disponível",
   "MISSING_GEMS": "Você não possui {{gemPrice}} `Gems`",
   "SOMETHING_WRONG": "Algo deu errado. Tente novamente",
   "PURCHASE_SUCCESSFUL": "A transação foi feita com sucesso",
   "SUCCESS": "{{wistAmount}} `Wists` foram comprados por **{{gemPrice}}** `Gems`! | ID da Oferta: {{dealId}}",
-  "MB_EMBED_TITLE": "MERCADO SOFI:"
+  "MB_EMBED_TITLE": "**[SOFI: MARKETBUY](https://guide.sofi.gg)**"
 }

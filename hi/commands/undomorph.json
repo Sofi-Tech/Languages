@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "पत्ते से \"Morph\" हटाता है",
-    "UM_CATEGORY": "COSMETICS",
-    "UM_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}um <CardCode>`",
-    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "NO_CHARACTER": "{{author}} यह पात्र अब Sofi पर मौजूद नहीं है तथा अब इस पर कार्य नही किया जा सकता है।",
-    "NO_GIF": "{{author}} आप `GIF` पत्ते से सौंदर्य नहीं हटा सकते है।",
-    "NOT_MORPHED": "{{author}} वह पत्ते पर कोई मॉर्फ लागू नही है।",
-    "EMBED_TITLE": "SOFI: REMOVE MORPH",
-    "UM_CONFIRMATION": "क्या आप वाकई में पत्ते से **{{count}}** {{currencyEmoji}} के बदले में मॉर्फ हटाना चाहते है?",
-    "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है।",
-    "SOMETHING_WENT_WRONG": "{{author}} त्रुटि। कृपया दुबारा कोशिश करे।",
-    "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त `{{currency}}` नहीं है।",
-    "UM_SUCCESSFUL": "{{author}} पत्ते से मॉर्फ सफलतापूर्वक हटाया गया"
+  "UM_DESCRIPTION": "पत्ते से \"Morph\" हटाता है",
+  "UM_CATEGORY": "COSMETICS",
+  "UM_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}um <CardCode>`",
+  "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+  "NO_CHARACTER": "{{author}} यह पात्र अब Sofi पर मौजूद नहीं है तथा अब इस पर कार्य नही किया जा सकता है।",
+  "NO_GIF": "{{author}} आप `GIF` पत्ते से सौंदर्य नहीं हटा सकते है।",
+  "NOT_MORPHED": "{{author}} वह पत्ते पर कोई मॉर्फ लागू नही है।",
+  "EMBED_TITLE": "**[SOFI: UNDOMORPH](https://guide.sofi.gg)**",
+  "UM_CONFIRMATION": "क्या आप वाकई में पत्ते से **{{count}}** {{currencyEmoji}} के बदले में मॉर्फ हटाना चाहते है?",
+  "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है।",
+  "SOMETHING_WENT_WRONG": "{{author}} त्रुटि। कृपया दुबारा कोशिश करे।",
+  "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त `{{currency}}` नहीं है।",
+  "UM_SUCCESSFUL": "{{author}} पत्ते से मॉर्फ सफलतापूर्वक हटाया गया"
 }

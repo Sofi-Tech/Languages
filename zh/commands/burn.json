@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "燃烧卡牌可以获得水晶和银币，这些可以用于制作方块和购买机器人中的各种物品。输入\"sb\"即可燃烧上次索赔的卡牌",
-    "GUILDSTONE_BURN": "您即将使用`Guild Stone`?",
-    "GUILDSTONE_NOT_FOUND": "您没有`Guild Stone`",
-    "CANCELLED": "过程已取消",
-    "BURN_FRAG_WARN": "您即将燃烧`Fragment`\n`Fragment`代码：`{{fragCode}}`",
-    "FRAG_NOT_FOUND": "没有找到`Fragment`",
-    "CARD_NOT_FOUND": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
-    "CARD_LOCKED": "卡牌已锁定",
-    "CARD_NOT_OWNED": "你不拥有那张卡",
-    "SERIES": "系列：",
-    "NAME": "名称：",
-    "EMBED_TITLE": "SOFI: 燃烧"
+  "DESCRIPTION": "燃烧卡牌可以获得水晶和银币，这些可以用于制作方块和购买机器人中的各种物品。输入\"sb\"即可燃烧上次索赔的卡牌",
+  "GUILDSTONE_BURN": "您即将使用`Guild Stone`?",
+  "GUILDSTONE_NOT_FOUND": "您没有`Guild Stone`",
+  "CANCELLED": "过程已取消",
+  "BURN_FRAG_WARN": "您即将燃烧`Fragment`\n`Fragment`代码：`{{fragCode}}`",
+  "FRAG_NOT_FOUND": "没有找到`Fragment`",
+  "CARD_NOT_FOUND": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
+  "CARD_LOCKED": "卡牌已锁定",
+  "CARD_NOT_OWNED": "你不拥有那张卡",
+  "SERIES": "系列：",
+  "NAME": "名称：",
+  "EMBED_TITLE": "**[SOFI: BURN](https://guide.sofi.gg)**"
 }

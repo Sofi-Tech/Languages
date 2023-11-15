@@ -1,12 +1,12 @@
 {
-    "BG_DESCRIPTION": "3D kartlarınıza \"Background\" uygular",
-    "BG_CATEGORY": "Kozmetikler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
-    "NON_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
-    "EMBED_TITLE": "SOFI: ARKA PLAN",
-    "EMBED_DESCRIPTION": "**{{background}}** `Background`ını bu karta uygulamak istediğinizden emin misiniz?",
-    "USER_NO_BG": "{{author}} Bu `Background`'a sahip değilsin",
-    "BG_NOT_FOUND": "{{author}} Bu ID ye sahip herhangi bir `Background` bulunamadı",
-    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** `Background`'ı başarıyla kartınıza uyguladı"
+  "BG_DESCRIPTION": "3D kartlarınıza \"Background\" uygular",
+  "BG_CATEGORY": "Kozmetikler",
+  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <CardCode> <Background-ID>`",
+  "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
+  "NON_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
+  "EMBED_TITLE": "**[SOFI: BACKGROUND](https://guide.sofi.gg)**",
+  "EMBED_DESCRIPTION": "**{{background}}** `Background`ını bu karta uygulamak istediğinizden emin misiniz?",
+  "USER_NO_BG": "{{author}} Bu `Background`'a sahip değilsin",
+  "BG_NOT_FOUND": "{{author}} Bu ID ye sahip herhangi bir `Background` bulunamadı",
+  "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** `Background`'ı başarıyla kartınıza uyguladı"
 }

@@ -1,6 +1,6 @@
 {
   "HELP_CATEGORY": "설정",
-  "FILTER_EMBED_TITLE": "Sofi 컬렉션 필터",
+  "FILTER_EMBED_TITLE": "**[SOFI: HELP](https://guide.sofi.gg)**",
   "FILTER_NAME": "이름",
   "FILTER_SERIES": "시리즈 작품",
   "FILTER_DATE": "날짜",
@@ -19,7 +19,6 @@
   "FILTER_GLOW": "빛나다",
   "FILTER_VERSION": "버전",
   "FILTER_CATEGORY": "카테고리",
-
   "USE_FILTER_OPERATORS": "연산자 - 사용 시 앞 뒤로 공백이 없어야 합니다",
   "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156>`=` `:` `<` `>` `!=` `>=` `<=`",
   "BATTLE": "전투",
@@ -41,10 +40,10 @@
   "TWITTER_BUTTON_LABEL": "트위터!",
   "INVITE_BUTTON_LABEL": "초대하세요!",
   "GUIDE_BUTTON_LABEL": "가이드!",
-  "EMBED_TITLE": "SOFI: 도움말 메뉴",
+  "EMBED_TITLE": "**[SOFI: HELP](https://guide.sofi.gg)**",
   "EMBED_FOOTER": "{{username}}님의 요청에 따라",
   "COMMNAD_NOT_FOUND": "{{author}} | `{{command}}` 이름의 명령어를 찾을 수 없습니다. 아마도 이 말씀이신가요? {{commandName}}",
-  "USAGE_EMBED_TITLE": "사용 방법: {{command}}",
+  "USAGE_EMBED_TITLE": "**[SOFI: HELP](https://guide.sofi.gg)**",
   "ALIASES": "별칭:",
   "COOLDOWN": "재사용 대기 시간:",
   "DESCRIPTION": "설명:",

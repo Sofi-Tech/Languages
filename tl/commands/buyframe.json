@@ -5,11 +5,10 @@
   "NO_FRAMECODE_FOUND": "{{author}} Walang nakitang kahit anong `Frame` na may code na `{{name}}`",
   "FRAME_UNAVAILABLE": "{{author}} Ang frame na iyan ay hindi pa available. Mangyaring gamitin ang `{{prefix}}fs` para makita ang kasalukuyang `Frame` rotation",
   "FRAME_NOT_PURCHASABLE": "{{author}} Ang `Frame` na iyan ay limitado at hindi na maaring mabili",
-  "EMBED_TITLE": "SOFI: TRANSAKSYON",
+  "EMBED_TITLE": "**[SOFI: BUYFRAME](https://guide.sofi.gg)**",
   "YOU_GET": "Makukuha Mo:",
   "YOU_PAY": "Bayad Mo:",
   "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na `{{currency}}` para maisagawa ang pag-bili",
-
   "TRANSACTION_SUCCESSFUL": "{{author}} Matagumpay na nabili ang **{{frameName}}** `Frame`",
   "PROCESS_CANCELLED": "Ang proseso ay na kansela"
 }

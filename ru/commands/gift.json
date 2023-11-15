@@ -1,14 +1,14 @@
 {
-    "EMBED_TITLE": "SOFI: GIFT",
-    "GIFT_SLASH_DESC2": "Введите количество`{{eventItem}}`, которое вы хотите подарить",
-    "GIFT_SLASH_DESC": "Выберите пользователя, которому хотите подарить `{{eventItem}}`",
-    "INVALID_AMOUNT": "{{author}} Вы не можете подарить отрицательное количество предметов",
-    "GIFT_WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}gift <@User/UserID> <Amount>`",
-    "INVALID_USER": "{{author}} Вы не можете подарить `{{eventItem}}`себе",
-    "NOT_ENOUGH_ITEM": "{{author}} У вас нет **{{amount}} ** `{{eventItem}}`",
-    "PLAYER_NOT_EXISTS": "{{author}} Данный пользователь не зарегистрирован!",
-    "NO_ACTIVE_EVENT": "{{author}} В настоящее время нет активных событий",
-    "GIFT_CATEGORY": "Карты",
-    "GIFT_DESCRIPTION": "Дарите \"Event Items\" другим пользователям",
-    "GIFT_SUCCESSFUL": "{{author}} подарил **{{amount}}** `{{eventItem}}` {{user}}\n{{user}} получил всего **{{recieveCount}}** `{{eventItem}}`"
+  "EMBED_TITLE": "**[SOFI: GIFT](https://guide.sofi.gg)**",
+  "GIFT_SLASH_DESC2": "Введите количество`{{eventItem}}`, которое вы хотите подарить",
+  "GIFT_SLASH_DESC": "Выберите пользователя, которому хотите подарить `{{eventItem}}`",
+  "INVALID_AMOUNT": "{{author}} Вы не можете подарить отрицательное количество предметов",
+  "GIFT_WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}gift <@User/UserID> <Amount>`",
+  "INVALID_USER": "{{author}} Вы не можете подарить `{{eventItem}}`себе",
+  "NOT_ENOUGH_ITEM": "{{author}} У вас нет **{{amount}} ** `{{eventItem}}`",
+  "PLAYER_NOT_EXISTS": "{{author}} Данный пользователь не зарегистрирован!",
+  "NO_ACTIVE_EVENT": "{{author}} В настоящее время нет активных событий",
+  "GIFT_CATEGORY": "Карты",
+  "GIFT_DESCRIPTION": "Дарите \"Event Items\" другим пользователям",
+  "GIFT_SUCCESSFUL": "{{author}} подарил **{{amount}}** `{{eventItem}}` {{user}}\n{{user}} получил всего **{{recieveCount}}** `{{eventItem}}`"
 }

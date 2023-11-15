@@ -1,8 +1,8 @@
 {
-    "GTL_DESCRIPTION": "「Glowタグ」リストを表示する",
-    "GTL_CATEGORY": "タグ",
-    "NO_TAGS": "{{author}} `Glowタグ`はまだ作成されません",
-    "EMBED_TITLE": "SOFI：「GLOWタグ」リスト",
-    "GLOWS_one": "{{count}}つのGlow",
-    "GLOWS_other": "{{count}}つのGlow"
+  "GTL_DESCRIPTION": "「Glowタグ」リストを表示する",
+  "GTL_CATEGORY": "タグ",
+  "NO_TAGS": "{{author}} `Glowタグ`はまだ作成されません",
+  "EMBED_TITLE": "**[SOFI: GLOWTAGLIST](https://guide.sofi.gg)**",
+  "GLOWS_one": "{{count}}つのGlow",
+  "GLOWS_other": "{{count}}つのGlow"
 }

@@ -1,14 +1,14 @@
 {
-    "SG_DESCRIPTION": "Combinez deux \"Glows\" pour créer un \"Super Glow\"",
-    "SG_CATEGORY": "Cosmétiques",
-    "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}sg <#CodeDeGlow1> <#CodeDeGlow2>`",
-    "GLOW_NOT_FOUND": "{{author}} Au moins un des codes de `Glow` fournis est invalide ou n'est pas dans votre inventaire",
-    "UNAVAILABLE_GLOW": "{{author}} Au moins un des codes de `Glow` fournis est vide",
-    "NO_USE_SG": "{{author}} Vous ne pouvez pas utiliser de `Super Glows` pour ce processus",
-    "SAME_GLOWS": "{{author}} Vous ne pouvez pas utiliser le même `Glow` plus d'une fois",
-    "EMBED_TITLE": "SOFI: SUPER GLOW",
-    "FORM_SG_CONFIRM": "Vous êtes sur le point de fusionner les `Items` suivants:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nen `Super Glow`**{{superGlowName}}** ?",
-    "MISSING_RESINS": "{{author}} Vous n'avez pas suffisamment de `Resin` pour ce processus",
-    "SUPER_GLOW_SUCCESSFUL": "{{author}} Fusion réussie de vos `Glows`\n",
-    "FORM_SG_FOOTER": "L'ensemble des \"Glows\" seront détruits dans ce processus!"
+  "SG_DESCRIPTION": "Combinez deux \"Glows\" pour créer un \"Super Glow\"",
+  "SG_CATEGORY": "Cosmétiques",
+  "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}sg <#CodeDeGlow1> <#CodeDeGlow2>`",
+  "GLOW_NOT_FOUND": "{{author}} Au moins un des codes de `Glow` fournis est invalide ou n'est pas dans votre inventaire",
+  "UNAVAILABLE_GLOW": "{{author}} Au moins un des codes de `Glow` fournis est vide",
+  "NO_USE_SG": "{{author}} Vous ne pouvez pas utiliser de `Super Glows` pour ce processus",
+  "SAME_GLOWS": "{{author}} Vous ne pouvez pas utiliser le même `Glow` plus d'une fois",
+  "EMBED_TITLE": "**[SOFI: SUPERGLOW](https://guide.sofi.gg)**",
+  "FORM_SG_CONFIRM": "Vous êtes sur le point de fusionner les `Items` suivants:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nen `Super Glow`**{{superGlowName}}** ?",
+  "MISSING_RESINS": "{{author}} Vous n'avez pas suffisamment de `Resin` pour ce processus",
+  "SUPER_GLOW_SUCCESSFUL": "{{author}} Fusion réussie de vos `Glows`\n",
+  "FORM_SG_FOOTER": "L'ensemble des \"Glows\" seront détruits dans ce processus!"
 }

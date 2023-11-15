@@ -1,12 +1,10 @@
 {
   "MG_DESCRIPTION": "Samenvoeg de gloeiers om hars te ontvangen",
   "MG_CATEGORY": "Cosmetica",
-
   "GLOW_CODES_MISSING": "{{author}} gloeicode(s) ontbreken | `gloeiersamenvoegen [gloeicode1] [gloeicode2] [gloeicode3] [gloeicode4]`",
   "GLOWS_UNAVAILABLE": "{{author}} Sommige gloeiers zijn niet beschikbaar: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}} moet elke gloeicode uniek zijn",
-
   "GLOWS_NOT_FOUND": "{{author}} kan geen gloeiers vinden met de codes {{glows}}",
-  "EMBED_TITLE": "SOFI: GLOEIERS SAMENVOEGEN",
+  "EMBED_TITLE": "**[SOFI: MERGEGLOW](https://guide.sofi.gg)**",
   "MERGE_CONFIRMATION": "Je staat op het punt om de volgende gloeiers samen te voegen:\n\n{{glows}}\n\nJe ontvangt 1 <:resin:938131736741691442>"
 }

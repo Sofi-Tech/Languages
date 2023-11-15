@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Voeg personages toe aan je verlanglijstje",
-    "CATEGORY": "Verlanglijstje",
-    "ADD_CHARACTERS_ERROR": "> U kunt geen karakters meer toevoegen aan uw verlanglijst",
-    "SEARCH_CHARACTER_ERROR": "Geef een naam op om dat karakter toe te voegen aan uw verlanglijst\nGebruik het commando `swa -f <naam>` voor een exacte zoekopdracht",
-    "NO_CHARACTER_FOUND": "Er werd geen karakter gevonden\nGebruik `swa -f <naam>` voor een exacte zoekopdracht",
-    "CHARACTER_ALREADY_EXISTS": "**{{name}}** staat al op je verlanglijst!",
-    "CHARACTER_ADDED": "> {{author}} | {{name}} is toegevoegd aan je verlanglijstje",
-    "EMBED_TITLE": "<:lined:868888105611046942> __Toevoegen aan verlanglijstje__"
+  "DESCRIPTION": "Voeg personages toe aan je verlanglijstje",
+  "CATEGORY": "Verlanglijstje",
+  "ADD_CHARACTERS_ERROR": "> U kunt geen karakters meer toevoegen aan uw verlanglijst",
+  "SEARCH_CHARACTER_ERROR": "Geef een naam op om dat karakter toe te voegen aan uw verlanglijst\nGebruik het commando `swa -f <naam>` voor een exacte zoekopdracht",
+  "NO_CHARACTER_FOUND": "Er werd geen karakter gevonden\nGebruik `swa -f <naam>` voor een exacte zoekopdracht",
+  "CHARACTER_ALREADY_EXISTS": "**{{name}}** staat al op je verlanglijst!",
+  "CHARACTER_ADDED": "> {{author}} | {{name}} is toegevoegd aan je verlanglijstje",
+  "EMBED_TITLE": "**[SOFI: WISHLISTADD](https://guide.sofi.gg)**"
 }

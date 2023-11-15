@@ -1,10 +1,10 @@
 {
-    "BGS_DESCRIPTION": "Nagpapakita ng \"Background Shop\"",
-    "BGS_CATEGORY": "Kosmetiko",
-    "BGS_SLASH_DESC": "Ilagay ang code ng \"Background\" na iyong hinahanap",
-    "EMBED_TITLE": "SOFI: BILIHAN NG `BACKGROUND`",
-    "SHOWING_PAGE": "Nagpapakita ng pahinang: {{page}}/{{pages}}",
-    "APPLY_BG": "\nGamitin ang `{{prefix}}buy bg <Background-ID> <Amount>`para makabili `Backgrounds`",
-    "VIEW_BACKGROUNDS": "[Pindutin ito upang makita lahat ng `Backgrounds`](<https://sofi.gg/backgrounds>)",
-    "NO_BG_FOUND": "{{author}} Hindi ito isang wastong `Background` -ID"
+  "BGS_DESCRIPTION": "Nagpapakita ng \"Background Shop\"",
+  "BGS_CATEGORY": "Kosmetiko",
+  "BGS_SLASH_DESC": "Ilagay ang code ng \"Background\" na iyong hinahanap",
+  "EMBED_TITLE": "**[SOFI: BGSHOP](https://guide.sofi.gg)**",
+  "SHOWING_PAGE": "Nagpapakita ng pahinang: {{page}}/{{pages}}",
+  "APPLY_BG": "\nGamitin ang `{{prefix}}buy bg <Background-ID> <Amount>`para makabili `Backgrounds`",
+  "VIEW_BACKGROUNDS": "[Pindutin ito upang makita lahat ng `Backgrounds`](<https://sofi.gg/backgrounds>)",
+  "NO_BG_FOUND": "{{author}} Hindi ito isang wastong `Background` -ID"
 }

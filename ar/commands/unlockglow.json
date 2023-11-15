@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "أفصل الانوار",
-    "UG_CATEGORY": "ملابس",
-    "EMBED_TITLE": "سوفي: افصل الانوار",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} هل أنت متأكد أنك تريد فتح الانار مقابل 100 {{currency}}؟",
-    "CANCELLED_UNLOCK_GLOW": "تم إلغاء فتح الانوار",
-    "NOT_ENOUGH_GEMS": "ليس لديك ما يكفي من الأحجار الكريمة",
-    "EMBED_GLOW_TITLE": "سوفي: الانار",
-    "UNLOCK_GLOW_SUCCESS": "مبروك {{author}}! لقد فتحت `{{glowName}}`(`#{{glowCode}}`)"
+  "UG_DESCRIPTION": "أفصل الانوار",
+  "UG_CATEGORY": "ملابس",
+  "EMBED_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "UNLOCK_GLOW_CONFIRM": "{{author}} هل أنت متأكد أنك تريد فتح الانار مقابل 100 {{currency}}؟",
+  "CANCELLED_UNLOCK_GLOW": "تم إلغاء فتح الانوار",
+  "NOT_ENOUGH_GEMS": "ليس لديك ما يكفي من الأحجار الكريمة",
+  "EMBED_GLOW_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "UNLOCK_GLOW_SUCCESS": "مبروك {{author}}! لقد فتحت `{{glowName}}`(`#{{glowCode}}`)"
 }

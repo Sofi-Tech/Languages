@@ -1,15 +1,15 @@
 {
-    "UF_DESCRIPTION": "Nag lalagay ng \"Frame\" sa iyong card",
-    "UF_CATEGORY": "Kagandahan",
-    "UF_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Ang code ng card na iyong ibinigay ay maaaring hindi wasto o wala sa iyong koleksyon",
-    "CANNOT_APPLY": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `3D` card",
-    "NO_GIF": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `GIF` card",
-    "NO_FRAMES_FOUND": "{{author}} Ang code ng `Frame` na iyan ay maaaring hindi wasto o wala sa iyong imbentaryo",
-    "EMBED_TITLE": "SOFI: MAG-APPLY NG `FRAME`",
-    "UF_CONFIRMATION": "Sigurado ka bang gusto mong ilapat ang **{{frameName}}** `Frame` sa card na ito?",
-    "EMBED_FOOTER": "Ang pagkumpirma sa prosesong ito ay sisira sa kasalukuyang inilapat na \"Frame\"",
-    "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
-    "FRAME_NOT_FOUND": "{{author}} Ikaw ay walang **{{frameName}}** na `Frame`",
-    "UF_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang **{{frameName}}** `Frame` sa iyong card"
+  "UF_DESCRIPTION": "Nag lalagay ng \"Frame\" sa iyong card",
+  "UF_CATEGORY": "Kagandahan",
+  "UF_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+  "INVALID_CODE": "{{author}} Ang code ng card na iyong ibinigay ay maaaring hindi wasto o wala sa iyong koleksyon",
+  "CANNOT_APPLY": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `3D` card",
+  "NO_GIF": "{{author}} Hindi ka maaaring mag lagay ng `Frame` sa isang `GIF` card",
+  "NO_FRAMES_FOUND": "{{author}} Ang code ng `Frame` na iyan ay maaaring hindi wasto o wala sa iyong imbentaryo",
+  "EMBED_TITLE": "**[SOFI: USEFRAME](https://guide.sofi.gg)**",
+  "UF_CONFIRMATION": "Sigurado ka bang gusto mong ilapat ang **{{frameName}}** `Frame` sa card na ito?",
+  "EMBED_FOOTER": "Ang pagkumpirma sa prosesong ito ay sisira sa kasalukuyang inilapat na \"Frame\"",
+  "NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
+  "FRAME_NOT_FOUND": "{{author}} Ikaw ay walang **{{frameName}}** na `Frame`",
+  "UF_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang **{{frameName}}** `Frame` sa iyong card"
 }

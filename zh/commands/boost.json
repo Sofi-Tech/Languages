@@ -1,6 +1,6 @@
 {
-    "BOOST_DESCRIPTION": "显示 “Sofi Cafe” 服务器的 nitro boost 排行榜",
-    "BOOST_CATEGORY": "设置",
-    "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] 总共 Booster",
-    "EMBED_FOOTER": "Discord 的 booster 和 捐赠者有资格请求新的角色或现有角色 3D 版本。\n跟多好处还包括独特的服务器 Role, \"{{prefix}}userinfo\" 颜色和更多的 command！"
+  "BOOST_DESCRIPTION": "显示 “Sofi Cafe” 服务器的 nitro boost 排行榜",
+  "BOOST_CATEGORY": "设置",
+  "EMBED_TITLE": "**[SOFI: BOOST](https://guide.sofi.gg)**",
+  "EMBED_FOOTER": "Discord 的 booster 和 捐赠者有资格请求新的角色或现有角色 3D 版本。\n跟多好处还包括独特的服务器 Role, \"{{prefix}}userinfo\" 颜色和更多的 command！"
 }

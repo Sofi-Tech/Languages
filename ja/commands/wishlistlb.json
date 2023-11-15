@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "ウィッシュリストランキングを表示する",
-    "CATEGORY": "ウィッシュリスト",
-    "EMBED_TITLE": "SOFI：ウィッシュリストランキング - {{type}}",
-    "EMBED_FOOTER": "ページ：{{page}} / {{pages}}",
-    "CHARACTER_BUTTON_LABEL": "キャラクター",
-    "SERIES_BUTTON_LABEL": "シリーズ"
+  "DESCRIPTION": "ウィッシュリストランキングを表示する",
+  "CATEGORY": "ウィッシュリスト",
+  "EMBED_TITLE": "**[SOFI: WISHLISTLB](https://guide.sofi.gg)**",
+  "EMBED_FOOTER": "ページ：{{page}} / {{pages}}",
+  "CHARACTER_BUTTON_LABEL": "キャラクター",
+  "SERIES_BUTTON_LABEL": "シリーズ"
 }

@@ -2,14 +2,12 @@
   "DESCRIPTION": "캐릭터의 버전/3d/애니메이션을 찾습니다",
   "CHAR_NOT_FOUND": "캐릭터를 찾을 수 없습니다",
   "CHAR_NF_SENSITIVE": "캐릭터를 찾을 수 없습니다. 대소문자를 구분합니다.",
-  "EMBED_TITLE": "__캐릭터 찾기__",
+  "EMBED_TITLE": "**[SOFI: LOOKUP](https://guide.sofi.gg)**",
   "SUBMITTED": "제출자: <@{{userID}}> ",
   "EMBED_FOOTER": "버전 v1은 scl을 사용하여 검색 | 버전 제출은 ssc를 사용하세요",
   "VERSION_DISP": "카드의 버전 {{version}} 표시",
   "MORE": "자세히",
-
   "GIF_LABEL": "GIF 버전",
-
   "SERIES": "시리즈",
   "NAME": "이름",
   "CATEGORY": "카테고리",
@@ -19,6 +17,5 @@
   "EVENTS": "이벤트",
   "EVENT": "이벤트",
   "UPCOMING_EVENT": "다가오는 이벤트",
-
   "NO_OWNER_FOUND": "소유자를 찾을 수 없습니다."
 }

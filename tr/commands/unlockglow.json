@@ -1,10 +1,10 @@
 {
-    "UG_DESCRIPTION": "Rastgele bir \"Glow\" oluşturur",
-    "UG_CATEGORY": "Kozmetik",
-    "EMBED_TITLE": "SOFI: GLOW ÜRET",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} **100** {{currency}} karşılığında bir `Glow` almak istediğinizden emin misiniz?",
-    "CANCELLED_UNLOCK_GLOW": "İşlemi iptal edildi",
-    "NOT_ENOUGH_GEMS": "{{author}} Yeterli sayıda `Gem`'iniz yok",
-    "EMBED_GLOW_TITLE": "SOFI: GLOW ÜRET",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} **{{glowName}}** `Glow` Elde ettiniz | `#{{glowCode}}`"
+  "UG_DESCRIPTION": "Rastgele bir \"Glow\" oluşturur",
+  "UG_CATEGORY": "Kozmetik",
+  "EMBED_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "UNLOCK_GLOW_CONFIRM": "{{author}} **100** {{currency}} karşılığında bir `Glow` almak istediğinizden emin misiniz?",
+  "CANCELLED_UNLOCK_GLOW": "İşlemi iptal edildi",
+  "NOT_ENOUGH_GEMS": "{{author}} Yeterli sayıda `Gem`'iniz yok",
+  "EMBED_GLOW_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "UNLOCK_GLOW_SUCCESS": "{{author}} **{{glowName}}** `Glow` Elde ettiniz | `#{{glowCode}}`"
 }

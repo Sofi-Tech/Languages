@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "निम्नलिखित क्रियाओं के कूलडाउन दर्शाता है:\n- Drop , Grab, Vote , Raid , Daily , Bump\n- घंटी के आइकन को दबाके आप Drop, Vote और Daily के रिमाइंडर का डायरेक्ट मेसेज प्राप्त कर सकते है।",
-    "JOIN_SUPPORT_SERVER": "[मदद के लिए सहायता सर्वर ज्वॉइन करें!](https://discord.gg/sofi)",
-    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
-    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
-    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
-    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "VOTE_LABEL": "Vote",
-    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 आपके पास **{{count}}** अपठित मेल है।",
-    "READY": "तैयार",
-    "UNREAD_MAIL_other": "\n📫 आपके पास **{{count}}** अपठित मेल है।"
+  "DESCRIPTION": "निम्नलिखित क्रियाओं के कूलडाउन दर्शाता है:\n- Drop , Grab, Vote , Raid , Daily , Bump\n- घंटी के आइकन को दबाके आप Drop, Vote और Daily के रिमाइंडर का डायरेक्ट मेसेज प्राप्त कर सकते है।",
+  "JOIN_SUPPORT_SERVER": "[मदद के लिए सहायता सर्वर ज्वॉइन करें!](https://discord.gg/sofi)",
+  "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+  "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+  "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+  "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+  "VOTE_LABEL": "Vote",
+  "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+  "EMBED_TITLE": "**[SOFI: COOLDOWN](https://guide.sofi.gg)**",
+  "UNREAD_MAIL_one": "\n📫 आपके पास **{{count}}** अपठित मेल है।",
+  "READY": "तैयार",
+  "UNREAD_MAIL_other": "\n📫 आपके पास **{{count}}** अपठित मेल है।"
 }

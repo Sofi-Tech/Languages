@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "下記のアクションのクールダウンを確認できます:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Drop、GrabとDailiesのリマインダーを設定したい場合に鈴アイコンをクリックしてください！",
-    "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください!](https://discord.gg/sofi)",
-    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop`** | **{{cooldown}}**",
-    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab`** | **{{cooldown}}**",
-    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
-    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`デイリー`** | **{{cooldown}}**",
-    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`攻撃`** | **{{cooldown}}**",
-    "UNREAD_MAIL_one": "\n📫 未読メールが **{{count}}** あります",
-    "VOTE_LABEL": "投票",
-    "READY": "レディ",
-    "UNREAD_MAIL_other": "\n📫 未読メールが **{{count}}** あります",
-    "EMBED_TITLE": "SOFI: クールダウン({{username}})"
+  "DESCRIPTION": "下記のアクションのクールダウンを確認できます:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Drop、GrabとDailiesのリマインダーを設定したい場合に鈴アイコンをクリックしてください！",
+  "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください!](https://discord.gg/sofi)",
+  "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop`** | **{{cooldown}}**",
+  "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab`** | **{{cooldown}}**",
+  "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+  "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`デイリー`** | **{{cooldown}}**",
+  "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`攻撃`** | **{{cooldown}}**",
+  "UNREAD_MAIL_one": "\n📫 未読メールが **{{count}}** あります",
+  "VOTE_LABEL": "投票",
+  "READY": "レディ",
+  "UNREAD_MAIL_other": "\n📫 未読メールが **{{count}}** あります",
+  "EMBED_TITLE": "**[SOFI: COOLDOWN](https://guide.sofi.gg)**"
 }

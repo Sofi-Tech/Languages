@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "ウィッシュリストにキャラクターを追加する",
-    "CATEGORY": "ウィッシュリスト",
-    "ADD_CHARACTERS_ERROR": "{{author}} これ以上のキャラクターはウィッシュリストに追加できません",
-    "SEARCH_CHARACTER_ERROR": "{{author}} 正しい使い方は：`{{prefix}}wa <キャラクター名>`",
-    "NO_CHARACTER_FOUND": "{{author}} キャラクターが見つかりませんでした。正確的な検索を行うため`{{prefix}}wa -f <name>`を入力してください",
-    "CHARACTER_ALREADY_EXISTS": "{{author}}「**{{name}}**」はウィッシュリストにすでに存在しています",
-    "CHARACTER_ADDED": "{{author}}「**{{name}}** 」をウィッシュリストに成功で追加しました",
-    "EMBED_TITLE": "SOFI：ウィッシュリストに追加",
-    "INCREASE_CAPACITY": "`{{prefix}}wu` or `{{prefix}}wu max`でウィッシュリストスロットが拡張できます"
+  "DESCRIPTION": "ウィッシュリストにキャラクターを追加する",
+  "CATEGORY": "ウィッシュリスト",
+  "ADD_CHARACTERS_ERROR": "{{author}} これ以上のキャラクターはウィッシュリストに追加できません",
+  "SEARCH_CHARACTER_ERROR": "{{author}} 正しい使い方は：`{{prefix}}wa <キャラクター名>`",
+  "NO_CHARACTER_FOUND": "{{author}} キャラクターが見つかりませんでした。正確的な検索を行うため`{{prefix}}wa -f <name>`を入力してください",
+  "CHARACTER_ALREADY_EXISTS": "{{author}}「**{{name}}**」はウィッシュリストにすでに存在しています",
+  "CHARACTER_ADDED": "{{author}}「**{{name}}** 」をウィッシュリストに成功で追加しました",
+  "EMBED_TITLE": "**[SOFI: WISHLISTADD](https://guide.sofi.gg)**",
+  "INCREASE_CAPACITY": "`{{prefix}}wu` or `{{prefix}}wu max`でウィッシュリストスロットが拡張できます"
 }

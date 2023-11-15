@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Wishlistinize karakterler ekleyin",
-    "CATEGORY": "İstek listesi",
-    "ADD_CHARACTERS_ERROR": "{{author}} İstek listenize daha fazla karakter ekleyemezsiniz",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Doğru kullanım: `{{prefix}}wa <İsim>`",
-    "NO_CHARACTER_FOUND": "{{author}} Bu karakter bulunamadı. Kesin bir arama için \"{{prefix}}wa -f <Ad>\" komutunu kullanın",
-    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** Zaten istek listenizde",
-    "CHARACTER_ADDED": "{{author}}, **{{name}}** İstek listenize başarıyla eklendi",
-    "EMBED_TITLE": "SOFI: İSTEK LİSTESİNE EKLE",
-    "INCREASE_CAPACITY": "İstek listenizin kapasitesini artırmak için \"{{prefix}}wu\" veya \"{{prefix}}wu max\" komutunu kullanın"
+  "DESCRIPTION": "Wishlistinize karakterler ekleyin",
+  "CATEGORY": "İstek listesi",
+  "ADD_CHARACTERS_ERROR": "{{author}} İstek listenize daha fazla karakter ekleyemezsiniz",
+  "SEARCH_CHARACTER_ERROR": "{{author}} Doğru kullanım: `{{prefix}}wa <İsim>`",
+  "NO_CHARACTER_FOUND": "{{author}} Bu karakter bulunamadı. Kesin bir arama için \"{{prefix}}wa -f <Ad>\" komutunu kullanın",
+  "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** Zaten istek listenizde",
+  "CHARACTER_ADDED": "{{author}}, **{{name}}** İstek listenize başarıyla eklendi",
+  "EMBED_TITLE": "**[SOFI: WISHLISTADD](https://guide.sofi.gg)**",
+  "INCREASE_CAPACITY": "İstek listenizin kapasitesini artırmak için \"{{prefix}}wu\" veya \"{{prefix}}wu max\" komutunu kullanın"
 }

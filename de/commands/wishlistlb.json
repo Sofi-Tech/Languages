@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Zeigt die Wunschlisten-Rangliste an",
-    "CATEGORY": "Wunschliste",
-    "EMBED_TITLE": "SOFI: WUNSCHLISTEN-RANGLISTE ({{type}})",
-    "EMBED_FOOTER": "Seite: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Charaktere",
-    "SERIES_BUTTON_LABEL": "Serie"
+  "DESCRIPTION": "Zeigt die Wunschlisten-Rangliste an",
+  "CATEGORY": "Wunschliste",
+  "EMBED_TITLE": "**[SOFI: WISHLISTLB](https://guide.sofi.gg)**",
+  "EMBED_FOOTER": "Seite: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Charaktere",
+  "SERIES_BUTTON_LABEL": "Serie"
 }

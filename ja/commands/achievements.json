@@ -1,9 +1,9 @@
 {
-    "ACH_DESCRIPTION": "利用可能な実績のリストを表示します",
-    "ACH_CATEGORY": "設定",
-    "ACH_CLAIMED": "取得済み",
-    "ACH_EMBED_TITLE": "SOFI：実績（{{totalClaimed}}/{{achWithPercent}}）",
-    "FAN_EMBED_TITLE": "SOFI：押しポイント",
-    "ACH_LOADING": "<a:ping:876612181725167687> ローディング",
-    "NO_STATS_FOUND": "まだどのキャラクターの押しポイントもありません"
+  "ACH_DESCRIPTION": "利用可能な実績のリストを表示します",
+  "ACH_CATEGORY": "設定",
+  "ACH_CLAIMED": "取得済み",
+  "ACH_EMBED_TITLE": "**[SOFI: ACHIEVEMENTS](https://guide.sofi.gg)**",
+  "FAN_EMBED_TITLE": "**[SOFI: ACHIEVEMENTS](https://guide.sofi.gg)**",
+  "ACH_LOADING": "<a:ping:876612181725167687> ローディング",
+  "NO_STATS_FOUND": "まだどのキャラクターの押しポイントもありません"
 }

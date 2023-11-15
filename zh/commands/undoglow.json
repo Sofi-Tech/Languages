@@ -1,14 +1,14 @@
 {
-    "UNG_DESCRIPTION": "移除卡片发光效果",
-    "UNG_CATEGORY": "化妆品",
-    "UNG_INVALID_USAGE": "请提供有效的卡片码",
-    "INVALID_CODE": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
-    "NO_CHARACTER": "{{author}}未找到角色!",
-    "NO_GIF": "{{author}} 化妆品命令不能应用于 GIF 卡片",
-    "NOT_GLOWED": "{{author}} 该卡片没有发光效果",
-    "EMBED_TITLE": "移除发光效果",
-    "UNG_CONFIRMATION": "您确定要移除此卡片的“Glow”吗？\n这个过程将花费 100 银",
-    "EMBED_FOOTER": "发光效果将被移除，在您的库存中不再回来",
-    "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
-    "UNG_SUCCESSFUL": "发光效果已成功移除"
+  "UNG_DESCRIPTION": "移除卡片发光效果",
+  "UNG_CATEGORY": "化妆品",
+  "UNG_INVALID_USAGE": "请提供有效的卡片码",
+  "INVALID_CODE": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
+  "NO_CHARACTER": "{{author}}未找到角色!",
+  "NO_GIF": "{{author}} 化妆品命令不能应用于 GIF 卡片",
+  "NOT_GLOWED": "{{author}} 该卡片没有发光效果",
+  "EMBED_TITLE": "**[SOFI: UNDOGLOW](https://guide.sofi.gg)**",
+  "UNG_CONFIRMATION": "您确定要移除此卡片的“Glow”吗？\n这个过程将花费 100 银",
+  "EMBED_FOOTER": "发光效果将被移除，在您的库存中不再回来",
+  "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
+  "UNG_SUCCESSFUL": "发光效果已成功移除"
 }

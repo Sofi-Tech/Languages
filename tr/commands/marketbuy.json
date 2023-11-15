@@ -8,13 +8,11 @@
   "PRODUCT": "Aldığın:",
   "VALUE": "Öde:",
   "RATE": "Oran:",
-
   "ALREADY_IN_PURCHASE": "{{author}} Yeni bir işleme başlamadan önce önceki işleminizi iptal edin veya devam ettirin!",
-
   "PURCHASE_CANCELLED": "Bu anlaşma artık mevcut değil",
   "MISSING_GEMS": "{{gemPrice}} adet `Gems` eksik",
   "SOMETHING_WRONG": "Bir şeyler yanlış gitti. Yeniden deneyin",
   "PURCHASE_SUCCESSFUL": "İşlem Başarı ile gerçekleşti",
   "SUCCESS": "{{wistAmount}} `Wists` **{{gemPrice}}** `Gems` karşılığında satın alındı! | Anlaşma Kimliği: {{dealId}}",
-  "MB_EMBED_TITLE": "SOFI MARKETİ:"
+  "MB_EMBED_TITLE": "**[SOFI: MARKETBUY](https://guide.sofi.gg)**"
 }

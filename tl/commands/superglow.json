@@ -1,14 +1,14 @@
 {
-    "SG_DESCRIPTION": "Pagsamahin ang dalawang \"Glows\" upang makakuha ng \"Super Glow\"",
-    "SG_CATEGORY": "Kagandahan",
-    "GLOW_CODES_MISSING": "{{author}} Tamang paggamit: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-    "GLOW_NOT_FOUND": "{{author}} Kahit isa sa mga `Glow` codes na iyong ibinigay ay maaring hindi wasto o wala sa iyong inventory",
-    "UNAVAILABLE_GLOW": "{{author}} Kahit isa sa iyong `Glow` codes na ibinigay ay walang laman",
-    "NO_USE_SG": "{{author}} Hindi mo maaaring gamitin ang `Super Glow` sa prosesong ito",
-    "SAME_GLOWS": "{{author}} Hindi mo maaaring gamitn ang mag-kaparehas na `Glow` higit sa isang beses",
-    "EMBED_TITLE": "SOFI: SUPER GLOW",
-    "FORM_SG_CONFIRM": "Sigurado ka bang nais mong pag samahin ang mga sumusunod na kagamitan:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\npara sa **{{superGlowName}} `Super Glow`?",
-    "MISSING_RESINS": "{{author}} Wala kang sapat `Resin` para sa prosesong ito",
-    "SUPER_GLOW_SUCCESSFUL": "{{author}} Matagumpay nang napagsama ang iyong `Glows`\n",
-    "FORM_SG_FOOTER": "Ang parehas na \"Glows\" ay masisira sa proseso!"
+  "SG_DESCRIPTION": "Pagsamahin ang dalawang \"Glows\" upang makakuha ng \"Super Glow\"",
+  "SG_CATEGORY": "Kagandahan",
+  "GLOW_CODES_MISSING": "{{author}} Tamang paggamit: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+  "GLOW_NOT_FOUND": "{{author}} Kahit isa sa mga `Glow` codes na iyong ibinigay ay maaring hindi wasto o wala sa iyong inventory",
+  "UNAVAILABLE_GLOW": "{{author}} Kahit isa sa iyong `Glow` codes na ibinigay ay walang laman",
+  "NO_USE_SG": "{{author}} Hindi mo maaaring gamitin ang `Super Glow` sa prosesong ito",
+  "SAME_GLOWS": "{{author}} Hindi mo maaaring gamitn ang mag-kaparehas na `Glow` higit sa isang beses",
+  "EMBED_TITLE": "**[SOFI: SUPERGLOW](https://guide.sofi.gg)**",
+  "FORM_SG_CONFIRM": "Sigurado ka bang nais mong pag samahin ang mga sumusunod na kagamitan:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\npara sa **{{superGlowName}} `Super Glow`?",
+  "MISSING_RESINS": "{{author}} Wala kang sapat `Resin` para sa prosesong ito",
+  "SUPER_GLOW_SUCCESSFUL": "{{author}} Matagumpay nang napagsama ang iyong `Glows`\n",
+  "FORM_SG_FOOTER": "Ang parehas na \"Glows\" ay masisira sa proseso!"
 }

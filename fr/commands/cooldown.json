@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Vous pouvez afficher les temps de recharge pour vos :\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Cliquez sur les icônes de cloche pour recevoir un DM de rappel pour vos \"Drop\", \"Vote\" et \"Daily\"!",
-    "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide!](https://discord.gg/sofi)",
-    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
-    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
-    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
-    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "EMBED_TITLE": "SOFI: TEMPS DE RECHARGE ({{username}})",
-    "VOTE_LABEL": "Vote",
-    "UNREAD_MAIL_one": "\n📫 Vous avez **{{count}}** mail non lus",
-    "UNREAD_MAIL_other": "\n📫 Vous avez **{{count}}** mails non lus",
-    "READY": "Prêt"
+  "DESCRIPTION": "Vous pouvez afficher les temps de recharge pour vos :\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Cliquez sur les icônes de cloche pour recevoir un DM de rappel pour vos \"Drop\", \"Vote\" et \"Daily\"!",
+  "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide!](https://discord.gg/sofi)",
+  "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+  "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+  "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+  "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+  "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+  "EMBED_TITLE": "**[SOFI: COOLDOWN](https://guide.sofi.gg)**",
+  "VOTE_LABEL": "Vote",
+  "UNREAD_MAIL_one": "\n📫 Vous avez **{{count}}** mail non lus",
+  "UNREAD_MAIL_other": "\n📫 Vous avez **{{count}}** mails non lus",
+  "READY": "Prêt"
 }

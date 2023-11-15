@@ -1,11 +1,11 @@
 {
-    "UG_DESCRIPTION": "यादुच्छिक \"Glow\" उत्पन्न करता है।",
-    "UG_CATEGORY": "COSMETICS",
-    "EMBED_TITLE": "SOFI: GENERATE `GLOW`",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} क्या आप वाकई में **100** {{currency}} के बदले में `Glow` खरीदना चाहते है?",
-    "CANCELLED_UNLOCK_GLOW": "प्रक्रिया रद्द की गई",
-    "NOT_ENOUGH_GEMS": "{{author}} आपके पास पर्याप्त `Gems` नहीं हैं।",
-    "EMBED_GLOW_TITLE": "SOFI: GENERATE `GLOW`",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} सफलतापूर्वक `Glow` खरीदी गई",
-    "GLOW_INFO": "नाम: **{{glowName}}**\nकोड: **`#{{glowCode}}`**\nप्यूरिटी: **{{purity}}%**"
+  "UG_DESCRIPTION": "यादुच्छिक \"Glow\" उत्पन्न करता है।",
+  "UG_CATEGORY": "COSMETICS",
+  "EMBED_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "UNLOCK_GLOW_CONFIRM": "{{author}} क्या आप वाकई में **100** {{currency}} के बदले में `Glow` खरीदना चाहते है?",
+  "CANCELLED_UNLOCK_GLOW": "प्रक्रिया रद्द की गई",
+  "NOT_ENOUGH_GEMS": "{{author}} आपके पास पर्याप्त `Gems` नहीं हैं।",
+  "EMBED_GLOW_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "UNLOCK_GLOW_SUCCESS": "{{author}} सफलतापूर्वक `Glow` खरीदी गई",
+  "GLOW_INFO": "नाम: **{{glowName}}**\nकोड: **`#{{glowCode}}`**\nप्यूरिटी: **{{purity}}%**"
 }

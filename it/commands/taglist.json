@@ -1,12 +1,12 @@
 {
-    "TL_DESCRIPTION": "Visualizza un elenco con i tuoi \"Tags\"",
-    "TL_CATEGORY": "Tags",
-    "NO_USER": "{{author}} Non è riuscito a trovare quell'utente",
-    "NO_TAGS": "{{author}} Quell'utente non ha alcun `Tags`",
-    "EMBED_TITLE": "SOFI: `TAG` LIST ({{username}})",
-    "SOFI_FACT": "Nota: La creazione di un \"Tag\" con il nome \"lock\" e l'emoji \"🔒\" ti impedirà di bruciare o scambiare carte con quel \"Tag\"\nEsempio: \"{{prefix}}tc lock 🔒\"",
-    "EMBED_FOOTER": "Totale: {{count}}",
-    "NO_TAGS_SELF": "{{author}} Non hai ancora nessun `Tag`. Usa il comando `{{prefix}}tc <NomeDellaTag> <Emoji>` per crearne uno",
-    "CARD_one": "{{count}} carta",
-    "CARD_other": "{{count}} carte"
+  "TL_DESCRIPTION": "Visualizza un elenco con i tuoi \"Tags\"",
+  "TL_CATEGORY": "Tags",
+  "NO_USER": "{{author}} Non è riuscito a trovare quell'utente",
+  "NO_TAGS": "{{author}} Quell'utente non ha alcun `Tags`",
+  "EMBED_TITLE": "**[SOFI: TAGLIST](https://guide.sofi.gg)**",
+  "SOFI_FACT": "Nota: La creazione di un \"Tag\" con il nome \"lock\" e l'emoji \"🔒\" ti impedirà di bruciare o scambiare carte con quel \"Tag\"\nEsempio: \"{{prefix}}tc lock 🔒\"",
+  "EMBED_FOOTER": "Totale: {{count}}",
+  "NO_TAGS_SELF": "{{author}} Non hai ancora nessun `Tag`. Usa il comando `{{prefix}}tc <NomeDellaTag> <Emoji>` per crearne uno",
+  "CARD_one": "{{count}} carta",
+  "CARD_other": "{{count}} carte"
 }

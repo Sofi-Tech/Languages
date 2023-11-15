@@ -1,15 +1,15 @@
 {
-    "FC_DESCRIPTION": "يغير لون الخط للبطاقة من خلال تطبيق \"لمعان\" عليها",
-    "FC_CATEGORY": "مستحضرات التجميل",
-    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}fc <كود البطاقة> <كود اللمعة>`",
-    "NOT_CARD_OWNER": "{{author}} إما أن الكود الذي أدخلته غير صالح أو أن البطاقة ليست من ملكيتك",
-    "3D_ERROR": "{{author}} لا يمكنك تغيير لون الخط للبطاقات ثلاثية الأبعاد",
-    "PROVIDE_GLOWCODE": "{{author}} الاستخدام الصحيح: `{{prefix}}fc <كود البطاقة> <كود اللمعة>`",
-    "WRONG_GLOWCODE": "{{author}} تبدأ أكواد `اللمعة` دائمًا برمز **#**",
-    "CANNOT_FIND_GLOW": "{{author}} هذا الكود غير صالح أو أنك لا تمتلك هذه اللمعة",
-    "EMBED_TITLE": "SOFI: لون الخط{{reset}}",
-    "COLOR_NAME": "الاسم: {{name}}",
-    "COLOR_CODE": "الكود: `{{code}}`",
-    "GLOW_UNAVAILABLE": "هذه الـ `لمعة` ليس لها شحنات",
-    "FONTCOLOR_CHANGE_SUCCESSFUL": "تم تغيير لون الخط للبطاقة بنجاح"
+  "FC_DESCRIPTION": "يغير لون الخط للبطاقة من خلال تطبيق \"لمعان\" عليها",
+  "FC_CATEGORY": "مستحضرات التجميل",
+  "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}fc <كود البطاقة> <كود اللمعة>`",
+  "NOT_CARD_OWNER": "{{author}} إما أن الكود الذي أدخلته غير صالح أو أن البطاقة ليست من ملكيتك",
+  "3D_ERROR": "{{author}} لا يمكنك تغيير لون الخط للبطاقات ثلاثية الأبعاد",
+  "PROVIDE_GLOWCODE": "{{author}} الاستخدام الصحيح: `{{prefix}}fc <كود البطاقة> <كود اللمعة>`",
+  "WRONG_GLOWCODE": "{{author}} تبدأ أكواد `اللمعة` دائمًا برمز **#**",
+  "CANNOT_FIND_GLOW": "{{author}} هذا الكود غير صالح أو أنك لا تمتلك هذه اللمعة",
+  "EMBED_TITLE": "**[SOFI: FONTCOLOR](https://guide.sofi.gg)**",
+  "COLOR_NAME": "الاسم: {{name}}",
+  "COLOR_CODE": "الكود: `{{code}}`",
+  "GLOW_UNAVAILABLE": "هذه الـ `لمعة` ليس لها شحنات",
+  "FONTCOLOR_CHANGE_SUCCESSFUL": "تم تغيير لون الخط للبطاقة بنجاح"
 }

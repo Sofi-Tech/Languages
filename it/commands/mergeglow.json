@@ -1,12 +1,12 @@
 {
-    "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" unici per ottenere \"Resin\"",
-    "MG_CATEGORY": "Cosmetici",
-    "GLOW_CODES_MISSING": "{{author}} Utilizzo corretto: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Almeno uno dei codici `Glow` che hai fornito è vuoto",
-    "GLOW_CODES_UNIQUE": "{{author}} Non puoi usare lo stesso `Glow` più di una volta",
-    "GLOWS_NOT_FOUND": "{{author}} Almeno uno dei codici `Glow` che hai fornito non è valido o non è nel tuo inventory",
-    "EMBED_TITLE": "SOFI: MERGE **`GLOWS`**",
-    "MERGE_CONFIRMATION": "Sei sicuro di voler unire i seguenti `Glows`?\n\n{{glows}}\n\nRiceverai <:resin:938131736741691442> **1x** `Resin` da questo processo",
-    "GLOWS_NOT_IN_INVENTORY": "{{author}} Almeno uno dei `Glows` che hai fornito non è più nel tuo inventory",
-    "GLOW_MERGE_SUCCESSFUL": "{{author}} Hai unito con successo i tuoi `Glows` in un <:resin:938131736741691442>"
+  "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" unici per ottenere \"Resin\"",
+  "MG_CATEGORY": "Cosmetici",
+  "GLOW_CODES_MISSING": "{{author}} Utilizzo corretto: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+  "GLOWS_UNAVAILABLE": "{{author}} Almeno uno dei codici `Glow` che hai fornito è vuoto",
+  "GLOW_CODES_UNIQUE": "{{author}} Non puoi usare lo stesso `Glow` più di una volta",
+  "GLOWS_NOT_FOUND": "{{author}} Almeno uno dei codici `Glow` che hai fornito non è valido o non è nel tuo inventory",
+  "EMBED_TITLE": "**[SOFI: MERGEGLOW](https://guide.sofi.gg)**",
+  "MERGE_CONFIRMATION": "Sei sicuro di voler unire i seguenti `Glows`?\n\n{{glows}}\n\nRiceverai <:resin:938131736741691442> **1x** `Resin` da questo processo",
+  "GLOWS_NOT_IN_INVENTORY": "{{author}} Almeno uno dei `Glows` che hai fornito non è più nel tuo inventory",
+  "GLOW_MERGE_SUCCESSFUL": "{{author}} Hai unito con successo i tuoi `Glows` in un <:resin:938131736741691442>"
 }

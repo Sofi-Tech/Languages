@@ -1,15 +1,15 @@
 {
-    "UM_DESCRIPTION": "Rimuove il \"Morph\" di una carta",
-    "UM_CATEGORY": "Cosmetici",
-    "UM_INVALID_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}ung <CardCode>`",
-    "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
-    "NO_CHARACTER": "{{author}} Il personaggio su questa carta non è più disponibile su Sofi e non è possibile interagire con esso",
-    "NO_GIF": "{{author}} Non puoi rimuovere cosmetici da una carta `GIF`",
-    "NOT_MORPHED": "{{author}} Quella carta non ha morph applicata",
-    "EMBED_TITLE": "SOFI: REMOVE MORPH",
-    "UM_CONFIRMATION": "Sei sicuro di voler rimuovere la morph di questa carta per **{{count}}** {{currencyEmoji}}?",
-    "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
-    "SOMETHING_WENT_WRONG": "{{author}} Qualcosa è andato storto, per favore riprova",
-    "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
-    "UM_SUCCESSFUL": "{{author}} Hai rimossato con successo la morph di questa carta"
+  "UM_DESCRIPTION": "Rimuove il \"Morph\" di una carta",
+  "UM_CATEGORY": "Cosmetici",
+  "UM_INVALID_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}ung <CardCode>`",
+  "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
+  "NO_CHARACTER": "{{author}} Il personaggio su questa carta non è più disponibile su Sofi e non è possibile interagire con esso",
+  "NO_GIF": "{{author}} Non puoi rimuovere cosmetici da una carta `GIF`",
+  "NOT_MORPHED": "{{author}} Quella carta non ha morph applicata",
+  "EMBED_TITLE": "**[SOFI: UNDOMORPH](https://guide.sofi.gg)**",
+  "UM_CONFIRMATION": "Sei sicuro di voler rimuovere la morph di questa carta per **{{count}}** {{currencyEmoji}}?",
+  "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
+  "SOMETHING_WENT_WRONG": "{{author}} Qualcosa è andato storto, per favore riprova",
+  "NOT_ENOUGH_SILVERS": "{{author}} Non hai abbastanza `{{currency}}` per questo processo",
+  "UM_SUCCESSFUL": "{{author}} Hai rimossato con successo la morph di questa carta"
 }

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Toont de verlanglijst scorebord",
-    "CATEGORY": "Verlanglijstje",
-    "EMBED_TITLE": "VERLANGLIJST LEIDERBORD - {{type}}",
-    "EMBED_FOOTER": "Pagina {{page}}/{{pages}} weergeven",
-    "CHARACTER_BUTTON_LABEL": "Personages",
-    "SERIES_BUTTON_LABEL": "Series"
+  "DESCRIPTION": "Toont de verlanglijst scorebord",
+  "CATEGORY": "Verlanglijstje",
+  "EMBED_TITLE": "**[SOFI: WISHLISTLB](https://guide.sofi.gg)**",
+  "EMBED_FOOTER": "Pagina {{page}}/{{pages}} weergeven",
+  "CHARACTER_BUTTON_LABEL": "Personages",
+  "SERIES_BUTTON_LABEL": "Series"
 }

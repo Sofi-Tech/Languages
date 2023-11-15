@@ -8,9 +8,7 @@
   "SERVER": "Server-ID:",
   "CLAIMED": "Beansprucht am:",
   "MOVES": "Fähigkeiten",
-
-  "EMBED_TITLE": "SOFI: ANSICHT",
-
+  "EMBED_TITLE": "**[SOFI: VIEW](https://guide.sofi.gg)**",
   "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
   "SPECIAL": "Spezial",
   "INFO_BUTTON_LABEL": "Info"

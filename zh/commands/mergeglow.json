@@ -1,12 +1,10 @@
 {
   "MG_DESCRIPTION": "合并发光体，可获得树脂",
   "MG_CATEGORY": "化妆品",
-
   "GLOW_CODES_MISSING": "{{author}} 发光体代码缺失 | `mergeglow [glowcode1] [glowcode2] [glowcode3] [glowcode4]`",
   "GLOWS_UNAVAILABLE": "{{author}} 部分发光体不可用: {{unavailableGlows}}",
   "GLOW_CODES_UNIQUE": "{{author}} 每个发光体代码必须唯一",
-
   "GLOWS_NOT_FOUND": "{{author}} 找不到以下代码的发光体 {{glows}}",
-  "EMBED_TITLE": "SOFI：合并发光体",
+  "EMBED_TITLE": "**[SOFI: MERGEGLOW](https://guide.sofi.gg)**",
   "MERGE_CONFIRMATION": "您正在合并以下发光体：\n\n{{glows}}\n\n您将获得 1 <:resin:938131736741691442>"
 }

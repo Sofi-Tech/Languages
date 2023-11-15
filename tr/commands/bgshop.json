@@ -1,10 +1,10 @@
 {
-    "BGS_DESCRIPTION": "Arkaplan marketini görüntüler",
-    "BGS_CATEGORY": "Kozmetikler",
-    "BGS_SLASH_DESC": "Aradığınız \"Background\"ın kodunu girin",
-    "EMBED_TITLE": "SOFI: `BACKGROUND` MAĞAZASI",
-    "APPLY_BG": "\n`Backgrounds` satın almak için \"{{prefix}}buy bg <Background-ID> <Amount>\" komutunu kullanın",
-    "VIEW_BACKGROUNDS": "[Tüm `Backgrounds`'ları görüntülemek için burayı tıklayın](<https://sofi.gg/backgrounds>)",
-    "SHOWING_PAGE": "Gösterilen sayfa: {{page}}/{{pages}}",
-    "NO_BG_FOUND": "{{author}} Bu geçerli bir `Background` ID'si değildir"
+  "BGS_DESCRIPTION": "Arkaplan marketini görüntüler",
+  "BGS_CATEGORY": "Kozmetikler",
+  "BGS_SLASH_DESC": "Aradığınız \"Background\"ın kodunu girin",
+  "EMBED_TITLE": "**[SOFI: BGSHOP](https://guide.sofi.gg)**",
+  "APPLY_BG": "\n`Backgrounds` satın almak için \"{{prefix}}buy bg <Background-ID> <Amount>\" komutunu kullanın",
+  "VIEW_BACKGROUNDS": "[Tüm `Backgrounds`'ları görüntülemek için burayı tıklayın](<https://sofi.gg/backgrounds>)",
+  "SHOWING_PAGE": "Gösterilen sayfa: {{page}}/{{pages}}",
+  "NO_BG_FOUND": "{{author}} Bu geçerli bir `Background` ID'si değildir"
 }

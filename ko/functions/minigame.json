@@ -1,6 +1,6 @@
 {
-    "EMBED_TITLE": "SOFI: 미니게임",
-    "CLAIMED_CARD": "{{user}} 님이 {{character}} 카드 ({{code}})를 획득하셨습니다. 속성은 {{elementEmoji}} **{{elementName}}**입니다",
-    "EXTRA_GRAB": "{{user}} 여분의 그랩을 사용 중입니다. 남은 횟수는 **{{remaining}}**번 입니다",
-    "GRAB_COOLDOWN": "{{user}} 다른 카드를 요청하려면 {{cooldown}} 동안 기다려야 합니다"
+  "EMBED_TITLE": "**[SOFI: MINIGAME](https://guide.sofi.gg)**",
+  "CLAIMED_CARD": "{{user}} 님이 {{character}} 카드 ({{code}})를 획득하셨습니다. 속성은 {{elementEmoji}} **{{elementName}}**입니다",
+  "EXTRA_GRAB": "{{user}} 여분의 그랩을 사용 중입니다. 남은 횟수는 **{{remaining}}**번 입니다",
+  "GRAB_COOLDOWN": "{{user}} 다른 카드를 요청하려면 {{cooldown}} 동안 기다려야 합니다"
 }

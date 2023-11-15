@@ -1,12 +1,12 @@
 {
-    "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}bg <CodiciDellaCarta> <Background-ID>`",
-    "BG_CATEGORY": "Cosmetici",
-    "NON_3D_CARDS": "{{author}} Non puoi applicare uno `Background` a carte non 3D",
-    "EMBED_DESCRIPTION": "Sei sicuro di voler applicare lo **{{background}}** `Background` a questa carta?",
-    "BG_NOT_FOUND": "{{author}} Impossibile trovare alcun `Background` con quell'ID",
-    "EMBED_TITLE": "SOFI: BACKGROUND",
-    "USER_NO_BG": "{{author}} Non hai quello `Background`",
-    "BG_DESCRIPTION": "Applica uno \"Background\" alle tue carte 3D",
-    "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
-    "BG_APPLY_SUCCESSFUL": "{{author}} Ha applicato con successo il **{{ background}}** `Background` alla tua carta"
+  "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}bg <CodiciDellaCarta> <Background-ID>`",
+  "BG_CATEGORY": "Cosmetici",
+  "NON_3D_CARDS": "{{author}} Non puoi applicare uno `Background` a carte non 3D",
+  "EMBED_DESCRIPTION": "Sei sicuro di voler applicare lo **{{background}}** `Background` a questa carta?",
+  "BG_NOT_FOUND": "{{author}} Impossibile trovare alcun `Background` con quell'ID",
+  "EMBED_TITLE": "**[SOFI: BACKGROUND](https://guide.sofi.gg)**",
+  "USER_NO_BG": "{{author}} Non hai quello `Background`",
+  "BG_DESCRIPTION": "Applica uno \"Background\" alle tue carte 3D",
+  "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
+  "BG_APPLY_SUCCESSFUL": "{{author}} Ha applicato con successo il **{{ background}}** `Background` alla tua carta"
 }

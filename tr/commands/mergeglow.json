@@ -1,12 +1,10 @@
 {
   "MG_DESCRIPTION": "\"Resin\" elde etmek için 4 benzersiz \"Glows\" \"Merge\"ler",
   "MG_CATEGORY": "Kozmetik",
-
   "GLOW_CODES_MISSING": "{{author}} Doğru kullanım: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
   "GLOWS_UNAVAILABLE": "{{author}} Bahsedilen `Glows`lar yüksüz: \"{{unavailableGlows}}\"",
   "GLOW_CODES_UNIQUE": "{{author}} Bu işlem için 4 benzersiz `Glows`a ihtiyacınız var",
-
   "GLOWS_NOT_FOUND": "{{author}} Belirtilen`Glows`lar geçersiz veya sizin değil: `{{glows}}`",
-  "EMBED_TITLE": "SOFI: GLOW BİRLEŞTİRME",
+  "EMBED_TITLE": "**[SOFI: MERGEGLOW](https://guide.sofi.gg)**",
   "MERGE_CONFIRMATION": "Aşağıdaki `Glows`ları `Merge`lemek üzeresiniz;\n\n{{glows}}\n\n**1**x <:resin:938131736741691442> elde edeceksiniz"
 }

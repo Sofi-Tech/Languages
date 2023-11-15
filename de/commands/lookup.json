@@ -2,14 +2,12 @@
   "DESCRIPTION": "Zeigt die Version/3D/GIF -Varianten eines Charakters an",
   "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen: `{{arg}}` gefunden",
   "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen: `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
-  "EMBED_TITLE": "SOFI: CHARAKTER LOOKUP (`{{category}}`)",
+  "EMBED_TITLE": "**[SOFI: LOOKUP](https://guide.sofi.gg)**",
   "SUBMITTED": "Eingereicht von: <@{{userID}}>",
   "EMBED_FOOTER": "Finde `Version 1` einer Karte mit dem Befehl `scl`| Du kannst außerdem neue `Versions` mit dem Befehl `ssc` vorschlagen",
   "VERSION_DISP": "Zeigt `Version` {{version}} der Karte an",
   "MORE": "Mehr Infos",
-
   "GIF_LABEL": "GIF",
-
   "SERIES": "Serie:",
   "NAME": "Name:",
   "CATEGORY": "Kategorie:",
@@ -19,6 +17,5 @@
   "EVENTS": "Events",
   "EVENT": "Event",
   "UPCOMING_EVENT": "Kommendes Event",
-
   "NO_OWNER_FOUND": "Noch besitzt niemand eine `2D` Variante dieses Charakters"
 }

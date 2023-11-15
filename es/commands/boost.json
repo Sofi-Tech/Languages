@@ -1,6 +1,6 @@
 {
-    "BOOST_DESCRIPTION": "Muestra la tabla de clasificación de las mejoras nitro del servidor de \"Sofi Cafe\"",
-    "BOOST_CATEGORY": "Configuración",
-    "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Usuarios Totales Mejorando",
-    "EMBED_FOOTER": "Los usuarios que mejoren el servidor de Discord y los Donadores podrán solicitar nuevos personajes o variantes 3D de personajes existentes.\nLas ventajas adicionales incluyen un Rol de Servidor, Colores para el comando \"{{prefix}}userinfo\" y acceso a comandos sociales!"
+  "BOOST_DESCRIPTION": "Muestra la tabla de clasificación de las mejoras nitro del servidor de \"Sofi Cafe\"",
+  "BOOST_CATEGORY": "Configuración",
+  "EMBED_TITLE": "**[SOFI: BOOST](https://guide.sofi.gg)**",
+  "EMBED_FOOTER": "Los usuarios que mejoren el servidor de Discord y los Donadores podrán solicitar nuevos personajes o variantes 3D de personajes existentes.\nLas ventajas adicionales incluyen un Rol de Servidor, Colores para el comando \"{{prefix}}userinfo\" y acceso a comandos sociales!"
 }
