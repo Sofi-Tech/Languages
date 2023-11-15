@@ -4,7 +4,7 @@
   "PLAYER_NOT_EXISTS": "{{author}} هذا الأعب غير موجود",
   "INVALID_USER": "{{author}} لا تستطيع ان تهدي `{{eventItem}}` لنفسك",
   "GIFT_SUCCESSFUL": "{{author}} لقد أهدى {{amount}} {{eventItem}} إلى {{user}} {{user}}لقد تلقى مجموع {{recieveCount}} {{eventItem}}",
-  "EMBED_TITLE": "**[SOFI: GIFT](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: GIFT**",
   "GIFT_SLASH_DESC": "أختار حساب تريد ان تهدية `{{eventItem}}` له",
   "GIFT_SLASH_DESC2": "ادخل الكمية من `{{eventItem}}` التي تريد أهدائها",
   "NOT_ENOUGH_ITEM": "{{author}} لا يوجد لديك **{{amount}}** `{{eventItem}}`",

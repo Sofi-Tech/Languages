@@ -4,7 +4,7 @@
   "PRIVATE_ENABLED": "{{author}} Вы ограничили доступ к просмотру **{{content}}**",
   "PRIVATE_DISABLED": "{{author}} Вы сняли ограничение доступа к просмотру **{{content}}**",
   "PVT_PUBLIC": "Доступ открыт",
-  "PVT_EMBED_TITLE": "**[SOFI: PRIVATE](https://guide.sofi.gg)**",
+  "PVT_EMBED_TITLE": "**SOFI: PRIVATE**",
   "PVT_PRIVATE": "Доступ ограничен",
   "WRONG_ARGUMENTS": "{{author}} Правильное использование: `{{prefix}}pvt <C/WL/INV>`"
 }

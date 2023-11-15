@@ -2,7 +2,7 @@
   "DESCRIPTION": "Affiche les Versions/3D/GIF d'un personnage",
   "CHAR_NOT_FOUND": "{{author}} Aucun personnage nommé: `{{arg}}` n'a été trouvé",
   "CHAR_NF_SENSITIVE": "{{author}} Aucun personnage nommé: `{{arg}}`n'a été trouvé\n\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
-  "EMBED_TITLE": "**[SOFI: LOOKUP](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: LOOKUP**",
   "SUBMITTED": "Soumis Par: <@{{userID}}>",
   "EMBED_FOOTER": "Se renseigner sur la `Version`1 en utilisant `scl`. Vous pouvez également soumettre de nouvelles `Versions` en utilisant la commande `ssc`",
   "VERSION_DISP": "Affiche la `Version` {{version}} de la carte",

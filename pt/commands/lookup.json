@@ -2,7 +2,7 @@
   "DESCRIPTION": "Exibe Version/3D/variantes GIF de um personagem",
   "CHAR_NOT_FOUND": "Não foi possível encontrar o personagem que você está procurando",
   "CHAR_NF_SENSITIVE": "Não foi possível encontrar nenhum personagem. [A função `lookup` é sensível a maiúsculas e minúsculas!]",
-  "EMBED_TITLE": "**[SOFI: LOOKUP](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: LOOKUP**",
   "SUBMITTED": "Enviado por: <@{{userID}}>",
   "EMBED_FOOTER": "Encontre a `Version` 1 usando o comando `scl`. Você também pode enviar novas `Versions` usando o comando `ssc`",
   "VERSION_DISP": "Exibe a `Version` {{version}} da carta",

@@ -4,7 +4,7 @@
   "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
   "WISHLIST_PRIVATE": "{{author}} Cet utilisateur a mis sa liste de souhaits en privé",
   "WISHLIST_EMPTY": "{{author}} La liste de souhaits de cet utilisateur est vide",
-  "WISHLIST_EMBED_TITLE": "**[SOFI: WISHLIST](https://guide.sofi.gg)**",
+  "WISHLIST_EMBED_TITLE": "**SOFI: WISHLIST**",
   "WISHLIST_EMBED_FOOTER": "Page: {{page}}/{{totalPages}}",
   "COPY_CODES_BUTTON_LABEL": "Copier Les Codes",
   "COPY_CODES_MENU_LABEL": "Tous Les Codes",
@@ -14,6 +14,6 @@
   "COPY_CODES_MENU_PLACEHOLDER": "Sélectionner Une Option",
   "CODES_COPIED": "← Copié",
   "ALL_CARD_CODES": "En raison du grand volume de codes, le message a dû être converti en un fichier `.txt`:",
-  "WISHLIST_CODE_EMBED_TITLE": "**[SOFI: WISHLIST](https://guide.sofi.gg)**",
+  "WISHLIST_CODE_EMBED_TITLE": "**SOFI: WISHLIST**",
   "WISHLIST_EMPTY_SELF": "{{author}} Votre liste de souhaits est vide"
 }

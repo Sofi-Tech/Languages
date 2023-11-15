@@ -4,7 +4,7 @@
   "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
   "WISHLIST_PRIVATE": "{{author}} Itinakda ng user na iyon ang kanilang wishlist sa pribado",
   "WISHLIST_EMPTY": "{{author}} Walang laman ang wishlist ng user na iyon",
-  "WISHLIST_EMBED_TITLE": "**[SOFI: WISHLIST](https://guide.sofi.gg)**",
+  "WISHLIST_EMBED_TITLE": "**SOFI: WISHLIST**",
   "WISHLIST_EMBED_FOOTER": "Page: {{page}}/{{totalPages}}",
   "COPY_CODES_BUTTON_LABEL": "Kopyahin ang mga Code",
   "COPY_CODES_MENU_LABEL": "Lahat ng Codes",
@@ -14,6 +14,6 @@
   "COPY_CODES_MENU_PLACEHOLDER": "Pumili ng opsyon",
   "CODES_COPIED": "← Nakopya",
   "ALL_CARD_CODES": "Dahil sa malaking karga na codes, ang mensahe ay nai-convert sa isang `.txt` file:",
-  "WISHLIST_CODE_EMBED_TITLE": "**[SOFI: WISHLIST](https://guide.sofi.gg)**",
+  "WISHLIST_CODE_EMBED_TITLE": "**SOFI: WISHLIST**",
   "WISHLIST_EMPTY_SELF": "{{author}} Ang iyong wishlist ay walang laman"
 }

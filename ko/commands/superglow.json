@@ -6,7 +6,7 @@
   "UNAVAILABLE_GLOW": "{{author}}님이 선택한 글로우 중 하나가 사용할 수 없습니다. 다시 확인해주세요.",
   "NO_USE_SG": "{{author}}님은 슈퍼 글로우로 슈퍼 글로우를 만들 수 없습니다",
   "SAME_GLOWS": "{{author}}님이 똑같은 글로우를 사용하여 슈퍼 글로우를 만들 수 없습니다",
-  "EMBED_TITLE": "**[SOFI: SUPERGLOW](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: SUPERGLOW**",
   "FORM_SG_CONFIRM": "슈퍼 글로우를 만들려고 합니다:**\n\n{{glowCodes}}\n\n**슈퍼 글로우를 만드는 중입니다...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ 슈퍼 ${superGlowName}",
   "MISSING_RESINS": "수지가 부족합니다",
   "SUPER_GLOW_SUCCESSFUL": "슈퍼 글로우 생성이 성공적으로 완료되었습니다**\n\n{{glowCodes}}\n\n**슈퍼 글로우를 만드는 중입니다...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ 슈퍼 ${superGlowName}"

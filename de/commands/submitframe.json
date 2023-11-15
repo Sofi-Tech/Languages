@@ -10,7 +10,7 @@
   "SF_VISIBILITY_INFO": "<:_:979009081325019156> Das eingereichte Bild **muss** in den Kartenrand passen und einen ordentlichen, sichtbaren Bereich für den angezeigten Text haben",
   "SUBMIT_FRAME_SUCCESSFUL": "{{author}} Der `Frame` wurde erfolgreich eingereicht",
   "SF_FILETYPE_INFO": "<:_:979009081325019156> Das eingereichte Bild **muss** eine `PNG`-Datei sein, um seine Transparenz zu behalten",
-  "SF_EMBED_TITLE": "**[SOFI: SUBMITFRAME](https://guide.sofi.gg)**",
+  "SF_EMBED_TITLE": "**SOFI: SUBMITFRAME**",
   "SF_DIMENSION_INFO": "<:_:979009081325019156> Die Abmessungen des eingereichten Bildes **müssen** `402x603` betragen",
   "SF_LINK_INFO": "<:_:979009081325019156> Das eingereichte Bild muss einen offiziellen Discord-Link verwenden, wie z. B. `cdn.discordapp.com` oder `media.discordapp.net`",
   "SF_MAXIMUM_INFO": ":notepad_spiral: __Additional Info__:\n",
@@ -19,7 +19,7 @@
   "SF_COST_INFO": "<:_:979009081325019156> Ein Bild einzureichen kostet **3,000** `Silver`",
   "SF_ATTACHMENT_INFO": "<:_:979009081325019156> Du kannst einen Test-[Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) und ein [Image](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) herunterladen, um ein besseres Gefühl für unsere Anforderungen zu bekommen",
   "SF_PNG_ONLY": "{{author}} Der eingereichte Link muss eine `PNG`-Datei sein",
-  "GUIDELINES_EMBED_TITLE": "**[SOFI: SUBMITFRAME](https://guide.sofi.gg)**",
+  "GUIDELINES_EMBED_TITLE": "**SOFI: SUBMITFRAME**",
   "SF_ROTATION_INFO": "<:_:979009081325019156> Zugelassene `Frames` sind in unserem `Frame-Shop` rotierend verfügbar und haben einen maximalen Vorrat von **100**",
   "SF_EMBED_FOOTER": "Deine Einreichungen: {{userStats}}/{{submitted}} | Gesamte Einreichungen: {{globalStats}}/{{allSubmit}}"
 }

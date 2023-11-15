@@ -1,10 +1,10 @@
 {
   "UG_DESCRIPTION": "解锁美妆",
   "UG_CATEGORY": "美妆",
-  "EMBED_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: UNLOCKGLOW**",
   "UNLOCK_GLOW_CONFIRM": "{{author}} 您确定要花费100 {{currency}} 解锁吗？",
   "CANCELLED_UNLOCK_GLOW": "取消解锁",
   "NOT_ENOUGH_GEMS": "你没有足够的宝石",
-  "EMBED_GLOW_TITLE": "**[SOFI: UNLOCKGLOW](https://guide.sofi.gg)**",
+  "EMBED_GLOW_TITLE": "**SOFI: UNLOCKGLOW**",
   "UNLOCK_GLOW_SUCCESS": "恭喜 {{author}}! 您已成功解锁“{{glowName}}”(#{{glowCode}})"
 }

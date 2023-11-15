@@ -8,7 +8,7 @@
   "INVALID_USER": "{{author}} Vous ne pouvez pas vous offrir des `{{eventItem}}` à vous-même",
   "NOT_ENOUGH_ITEM": "{{author}} Vous ne possédez pas **{{amount}}** `{{eventItem}}`",
   "PLAYER_NOT_EXISTS": "{{author}} Ce joueur n'est pas inscrit!",
-  "EMBED_TITLE": "**[SOFI: GIFT](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: GIFT**",
   "GIFT_DESCRIPTION": "Offre des \"Items d'Event\" à un autre utilisateur",
   "NO_ACTIVE_EVENT": "{{author}} Il n'y a actuellement aucun event actif"
 }

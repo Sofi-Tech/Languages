@@ -4,7 +4,7 @@
   "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}bg <CódigoDeCarta> <IDDelBackground>`",
   "INVALID_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
   "NON_3D_CARDS": "{{author}} No puedes aplicar un `Background` a cartas que no sean 3D",
-  "EMBED_TITLE": "**[SOFI: BACKGROUND](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: BACKGROUND**",
   "BG_NOT_FOUND": "{{author}} No se ha encontrado ningún `Background` con ese ID",
   "EMBED_DESCRIPTION": "Estás seguro de que quieres aplicar el `Background` **{{background}}** a esta carta?",
   "USER_NO_BG": "{{author}} No tienes ese `Background`",

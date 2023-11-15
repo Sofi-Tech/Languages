@@ -14,5 +14,5 @@
   "SOMETHING_WRONG": "{{author}} Что-то пошло не так. Пожалуйста, попробуйте снова",
   "PURCHASE_SUCCESSFUL": "{{author}} Покупка **{{boughtCount}}** {{currency}} успешно совершена",
   "SUCCESS": "{{user}} Вы успешно продали **{{orderPrice}}** {{currency}} и получили **{{soldAmount}}** {{currencySoldEmoji}} ! | Идентификатор объявления: `{{dealId}}`",
-  "MB_EMBED_TITLE": "**[SOFI: MARKETBUY](https://guide.sofi.gg)**"
+  "MB_EMBED_TITLE": "**SOFI: MARKETBUY**"
 }

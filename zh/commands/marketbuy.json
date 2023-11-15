@@ -14,5 +14,5 @@
   "SOMETHING_WRONG": "{{author}}出了些问题。请重试",
   "PURCHASE_SUCCESSFUL": "{{author}} 购买成功 **{{boughtCount}}** {{currency}}",
   "SUCCESS": "{{user}}您已成功出售**{{orderPrice}}**{{currency}}并收到**{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`",
-  "MB_EMBED_TITLE": "**[SOFI: MARKETBUY](https://guide.sofi.gg)**"
+  "MB_EMBED_TITLE": "**SOFI: MARKETBUY**"
 }

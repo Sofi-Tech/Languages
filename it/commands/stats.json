@@ -14,7 +14,7 @@
   "RESET_MENU_LABEL": "Reimposta Statistiche",
   "REROLL_MENU_PLACEHOLDER": "Seleziona Abilità",
   "REROLL_SCROLLS": "`Reroll Scrolls`: {{scrolls}}\n",
-  "STATS_MODAL_TITLE": "**[SOFI: STATS](https://guide.sofi.gg)**",
+  "STATS_MODAL_TITLE": "**SOFI: STATS**",
   "STATS_SPECIAL": "Speciale",
   "UNLOCK_MOVES_MENU_LABEL": "Sblocca Abilità",
   "STATS_HEALTH": "Salute",
@@ -33,7 +33,7 @@
   "DUPLICATE_MODAL_LABEL": "Inserisci i codici della carta duplicati per livellare la tua carta! Questo processo costerà 100 \"Elixir\" per carta duplicata",
   "NO_CARD_FOUND": "{{author}} I seguenti codici della carta non sono validi o non sono nella tua collezione:\n> `{{dupeCode}}`",
   "DUPLICATE_MODAL_PLACEHOLDER": "Inserisci uno o più codici di carta",
-  "DUPLICATE_MODAL_TITLE": "**[SOFI: STATS](https://guide.sofi.gg)**",
+  "DUPLICATE_MODAL_TITLE": "**SOFI: STATS**",
   "BASECODE_ERROR": "{{author}} Non puoi fondere la carta con se stessa",
   "NOT_DUPLICATE": "{{author}} I seguenti codici carta non sono duplicati dello stesso carattere:\n> `{{dupeCode}}`",
   "FUSE_CARDS_INFO": "{{author}} Hai bisogno di **{{dupeCodes}}** <:_:979673719884636210> per fondere le carte",
@@ -62,6 +62,6 @@
   "CARD_MOVES_RESET": "{{author}} Le abilità della tua carta sono state ripristinate!",
   "RESET_STATS_MODAL_LABEL": "Sei sicuro di voler azzerare le statistiche della tua carta?",
   "RESET_STATS_MODAL_PLACEHOLDER": "Si/No",
-  "RESET_MOVE_MODAL_TITLE": "**[SOFI: STATS](https://guide.sofi.gg)**",
-  "RESET_STATS_MODAL_TITLE": "**[SOFI: STATS](https://guide.sofi.gg)**"
+  "RESET_MOVE_MODAL_TITLE": "**SOFI: STATS**",
+  "RESET_STATS_MODAL_TITLE": "**SOFI: STATS**"
 }

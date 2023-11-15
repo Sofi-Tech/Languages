@@ -6,6 +6,6 @@
   "NO_CHARACTER_FOUND": "{{author}} Non è stato possibile trovare quel personaggio. Usa il comando `{{prefix}}wa -f <Nome>` per una ricerca esatta",
   "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** è già nella tua wishlist",
   "CHARACTER_ADDED": "{{author}} Hai aggiunto **{{name}}** alla tua wishlist",
-  "EMBED_TITLE": "**[SOFI: WISHLISTADD](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: WISHLISTADD**",
   "INCREASE_CAPACITY": "Usa il comando `{{prefix}}wu` o `{{prefix}}wu max` per aumentare la capacità della tua wishlist"
 }

@@ -2,7 +2,7 @@
   "DESCRIPTION": "Menampilkan versi/3d/GIF dari karakter",
   "CHAR_NOT_FOUND": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama: `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama: `{{arg}}`\n\n``` perbaiki\nCatatan: Menggunakan flag `-f` membuat fungsi peka huruf besar-kecil!\n```",
-  "EMBED_TITLE": "**[SOFI: LOOKUP](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: LOOKUP**",
   "SUBMITTED": "Dikirim oleh: <@{{userID}}>",
   "EMBED_FOOTER": "Temukan `Versi` 1 dengan menggunakan perintah `scl`. Anda juga dapat mengirimkan `Versi` baru dengan menggunakan perintah `ssc` sebagai gantinya",
   "VERSION_DISP": "Menampilkan `Versi` {{version}} dari kartu",

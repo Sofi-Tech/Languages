@@ -1,6 +1,6 @@
 {
   "NO_ACTIVE_EVENT": "{{author}}现在没有活动",
-  "BG_EMBED_TITLE": "**[SOFI: EVENT](https://guide.sofi.gg)**",
+  "BG_EMBED_TITLE": "**SOFI: EVENT**",
   "BUY_BG_INFO": "- 购买任何活动背景<:silvercoin:915619222229512213> 5000 silver'",
   "EV_DESCRIPTION": "Event命令显示有关event信息的所有内容",
   "EV_CATEGORY": "牌",
@@ -22,7 +22,7 @@
   "RAIDS_BUTTON_LABEL": "突袭胜利",
   "BG_BUTTON_LABEL": "BG",
   "FRAMES_BUTTON_LABEL": "Frames",
-  "EMBED_TITLE": "**[SOFI: EVENT](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: EVENT**",
   "EV_JOINED": " -加入",
   "EVSHOP_MENU_PLACEHOLDER": "活动商店",
   "GS_MENU_LABEL": "Gen Scratcher",
@@ -33,11 +33,11 @@
   "CHEST_MENU_DESC": "一个宝箱，随机有 3 个{{eventName}}牌",
   "BG_MODAL_LABEL": "背景数量",
   "BG_MODAL_PLACEHOLDER": "Eg: 2",
-  "BG_MODAL_TITLE": "**[SOFI: EVENT](https://guide.sofi.gg)**",
+  "BG_MODAL_TITLE": "**SOFI: EVENT**",
   "MAXIMUM_PURCHASE_BG": "您一次最多可以购买 10 个 bgs",
   "EV_NOT_ENOUGH_SILVERS": "你需要{{amount}}silvers进行此次购买",
   "BOUGHT_BACKGROUND": "恭喜!你买了{{amount}}{{bgName}}",
-  "FRAME_EMBED_TITLE": "**[SOFI: EVENT](https://guide.sofi.gg)**",
+  "FRAME_EMBED_TITLE": "**SOFI: EVENT**",
   "GET_FRAME_INFO": "- 花费 200 <:gemgame:862598030562033694>获得一个随机事件框架",
   "FRAME_MODAL_LABEL": "帧数"
 }

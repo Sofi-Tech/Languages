@@ -10,7 +10,7 @@
   "NO_LISTINGS_FOUND": "{{user}} Wala kang kahit anong order sa market",
   "INFO": "Gamitin ang command na `{{prefix}}mul <Order-ID>` upang alisin ang iyong order sa market",
   "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
-  "EMBED_TITLE": "**[SOFI: MARKETINFO](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: MARKETINFO**",
   "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}",
-  "DEAL_EMBED_TITLE": "**[SOFI: MARKETINFO](https://guide.sofi.gg)**"
+  "DEAL_EMBED_TITLE": "**SOFI: MARKETINFO**"
 }

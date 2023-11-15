@@ -6,7 +6,7 @@
   "INVALID_DC_MOVIES": "{{author}} グローコードは常に**＃**で始まります",
   "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
   "GLOW_AVAILABLE": "{{author}} その`グロー`はすでに請求されています",
-  "EMBED_TITLE": "**[SOFI: RECHARGE](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: RECHARGE**",
   "SUCCESSFUL_RECHARGE": "あなたのグローは正常に充電されました！",
   "SUPER_RECHARGE_CONFIRMATION": "あなたは補充しようとしています：\n\n**{{name}} (Super)**\nコード：`{{glowCode}}`\n料金：**{{cost}} **:recharge_sofi:",
   "RECHARGE_CONFIRMATION": "あなたは補充しようとしています：\n\n**{{name}}**\nコード：`{{glowCode}}`\n料金：**{{cost}}** <:recharge_sofi:926846363537387530>",

@@ -10,7 +10,7 @@
   "NO_LISTINGS_FOUND": "{{user}} Non hai ordini attualmente sul mercato",
   "INFO": "Uso il comando `{{prefix}}mul <Order-ID>` per rimuovere il tuo ordine dal mercato",
   "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
-  "EMBED_TITLE": "**[SOFI: MARKETINFO](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: MARKETINFO**",
   "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}",
-  "DEAL_EMBED_TITLE": "**[SOFI: MARKETINFO](https://guide.sofi.gg)**"
+  "DEAL_EMBED_TITLE": "**SOFI: MARKETINFO**"
 }

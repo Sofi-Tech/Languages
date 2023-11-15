@@ -8,7 +8,7 @@
   "NOT_ENOUGH_ITEM": "{{author}} आपके पास **{{amount}}** `{{eventItem}}` नही है।",
   "PLAYER_NOT_EXISTS": "{{author}} वह उपयोगकर्ता पंजीकृत नही है।",
   "GIFT_SUCCESSFUL": "{{author}} ने सफतलापूर्वक **{{amount}}**`{{eventItem}}` {{user}} को भेंट किए\n{{user}} को कुल **{{recieveCount}}** `{{eventItem}}` मिल चुके है।",
-  "EMBED_TITLE": "**[SOFI: GIFT](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: GIFT**",
   "GIFT_DESCRIPTION": "अन्य उपयोगकर्ताओं को Event Items भेंट करे।",
   "NO_ACTIVE_EVENT": "{{author}} अभी कोई सक्रिय Event मौजूद नही है।"
 }

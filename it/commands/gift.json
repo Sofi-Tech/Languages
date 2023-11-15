@@ -8,7 +8,7 @@
   "GIFT_SLASH_DESC2": "Inserisci la quantità di `{{eventItem}} ` che vuoi regalare loro",
   "GIFT_WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}gift <@User/UserID> <Amount>`",
   "GIFT_SUCCESSFUL": "{{author}} ha regalato **{{amount}}** `{{eventItem}}` a {{user}}\n{{user}} ha ricevuto un totale di **{{recieveCount}}** `{{eventItem}}`",
-  "EMBED_TITLE": "**[SOFI: GIFT](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: GIFT**",
   "GIFT_DESCRIPTION": "Regala \"Event items\" ad un altro giocatore",
   "NO_ACTIVE_EVENT": "{{author}} Non c'è nessun event attualmente attivo"
 }

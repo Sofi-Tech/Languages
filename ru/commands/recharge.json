@@ -8,7 +8,7 @@
   "NO_GLOWCDE": "{{author}} Правильное использование: `{{prefix}}rg <#GlowCode>`",
   "GLOW_NOT_FOUND": "{{author}} Указанный вами код `Glow` недействителен или не является частью вашего инвентаря",
   "GLOW_AVAILABLE": "{{author}} Данная `Glow` уже заряжена",
-  "EMBED_TITLE": "**[SOFI: RECHARGE](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: RECHARGE**",
   "NO_MONEY": "{{author}} У вас недостаточно `Recharges` для данного процесса!",
   "SUPER_RECHARGE_CONFIRMATION": "Вы уверены, что хотите зарядить данную `Glow`?\n\nНазвание: **{{name}} (Super)**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

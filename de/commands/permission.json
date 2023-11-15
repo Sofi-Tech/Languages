@@ -1,7 +1,7 @@
 {
   "REMOVE_BUTTON_LABEL": "Entfernen",
   "RESET_BUTTON_LABEL": "Zurücksetzen",
-  "PERMS_EMBED_TITLE": "**[SOFI: PERMISSION](https://guide.sofi.gg)**",
+  "PERMS_EMBED_TITLE": "**SOFI: PERMISSION**",
   "PERMS_CATEGORY": "Einstellungen",
   "ADD_BUTTON_LABEL": "Hinzufügen",
   "BLACKLIST_BUTTON_LABEL": "Blacklist",
@@ -24,7 +24,7 @@
   "ADD_MODAL_LABEL": "Füge Befehle zu diesen Kanälen {{listName}} hinzu",
   "RESET_PERMS_SUCCESSFUL": "{{author}} Die Berechtigungen für diesen Kanal wurden erfolgreich zurückgesetzt",
   "STOPPED_PROCESS": "Der Vorgang wurde abgebrochen",
-  "MODAL_TITLE": "**[SOFI: PERMISSION](https://guide.sofi.gg)**",
+  "MODAL_TITLE": "**SOFI: PERMISSION**",
   "REMOVE_MODAL_LABEL": "Entferne Befehle aus diesem Kanal {{listName}}",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle Befehle wurden erfolgreich dem Kanal {{listName}} hinzugefügt",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Die folgenden Befehle wurden erfolgreich dem Kanal {{listname}} hinzugefügt: {{commandsList}}",

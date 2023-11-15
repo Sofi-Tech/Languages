@@ -4,7 +4,7 @@
   "USER_NOT_FOUND": "{{author}} 提供されたユーザーが見つけられませんでした",
   "WISHLIST_PRIVATE": "{{author}} ユーザーのウィッシュリストが非公開です",
   "WISHLIST_EMPTY": "{{author}} ユーザーのウィッシュリストにはキャラクターがありません",
-  "WISHLIST_EMBED_TITLE": "**[SOFI: WISHLIST](https://guide.sofi.gg)**",
+  "WISHLIST_EMBED_TITLE": "**SOFI: WISHLIST**",
   "WISHLIST_EMBED_FOOTER": "ページ： {{page}}/{{totalPages}}",
   "COPY_CODES_BUTTON_LABEL": "カードコードをコピー",
   "COPY_CODES_MENU_LABEL": "全部のカードコードをコピー",
@@ -14,6 +14,6 @@
   "COPY_CODES_MENU_PLACEHOLDER": "選択してください",
   "CODES_COPIED": "←コピーされた",
   "ALL_CARD_CODES": "カードコード量が多いため添付テキストファイル になりました：",
-  "WISHLIST_CODE_EMBED_TITLE": "**[SOFI: WISHLIST](https://guide.sofi.gg)**",
+  "WISHLIST_CODE_EMBED_TITLE": "**SOFI: WISHLIST**",
   "WISHLIST_EMPTY_SELF": "{{author}} ウィッシュリストにはキャラクターがありません"
 }

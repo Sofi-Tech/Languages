@@ -3,7 +3,7 @@
   "TL_CATEGORY": "Etiketler",
   "NO_USER": "{{author}} Bu kullanıcı bulunamadı",
   "NO_TAGS": "{{author}} Bu kullanıcının herhangi bir `Tags`'ı bulunmuyor",
-  "EMBED_TITLE": "**[SOFI: TAGLIST](https://guide.sofi.gg)**",
+  "EMBED_TITLE": "**SOFI: TAGLIST**",
   "SOFI_FACT": "NOT: \"Lock\" adlı bir \"Tag\" ve \"🔒\" asma kilit emojisi bu \"Tag\" içindeki herhangi bir kartı yakmanızı veya vermenizi engelleyecektir!\nÖrnek: \"{{prefix}}tc lock 🔒\"",
   "EMBED_FOOTER": "Toplam: {{count}}"
 }
