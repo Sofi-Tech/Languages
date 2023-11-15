@@ -7,7 +7,7 @@
   "PROVIDE_GLOWCODE": "{{author}} 正确用法：`{{prefix}}fc <CardCode> <GlowCode>`",
   "WRONG_GLOWCODE": "{{author}} “Glow”代码始终以**#**开头",
   "CANNOT_FIND_GLOW": "{{author}} 该`Glow`代码无效或不在您的`Inventory`",
-  "EMBED_TITLE": "**SOFI: FONTCOLOR**",
+  "EMBED_TITLE": "SOFI: FONTCOLOR",
   "COLOR_NAME": "名称：**{{name}}**",
   "COLOR_CODE": "代码：`{{code}}`",
   "GLOW_UNAVAILABLE": "{{author}} 该 `Glow` 已经没有电荷了",

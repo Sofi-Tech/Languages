@@ -21,10 +21,10 @@
   "CANNOT_APPLY_MNC": "{{author}} No puedes usar {{article}} `{{eventType}}` para morphear cartas `{{eventCardType}}` o cartas `3D`",
   "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}m <CódigoDeCarta> <ItemDeMorpheo>`",
   "NONE": "Nada",
-  "EMBED_TITLE": "**SOFI: MORPH**",
+  "EMBED_TITLE": "SOFI: MORPH",
   "NO_SPECIAL_REROLLED": "No se ha hecho roll a ningún morph especial",
   "ROLL_MORPH": "El morph se perderá dentro de 2 minutos",
   "MNC_REROLL_COST": "Cada roll costará 1 \"{{currencyName}}\"",
   "MNC_CARDS_CANNOT_MORPH": "{{author}} Las cartas Monochrome 2023 3D no pueden ser morpheadas",
-  "MNC_EMBED_TITLE": "**SOFI: MORPH**"
+  "MNC_EMBED_TITLE": "SOFI: MORPH"
 }

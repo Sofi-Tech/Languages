@@ -7,7 +7,7 @@
   "PROVIDE_GLOWCODE": "{{author}} Correct gebruik: `{{prefix}}fc <KaartCode> <GlowCode>`",
   "WRONG_GLOWCODE": "{{author}} `Glow`-codes beginnen altijd met een **#**",
   "CANNOT_FIND_GLOW": "{{author}} Die `Glow`-code is ongeldig of u bezit deze niet",
-  "EMBED_TITLE": "**SOFI: FONTCOLOR**",
+  "EMBED_TITLE": "SOFI: FONTCOLOR",
   "COLOR_NAME": "Naam: {{name}}",
   "COLOR_CODE": "Code: `{{code}}`",
   "GLOW_UNAVAILABLE": "Die `Glow` heeft geen ladingen",

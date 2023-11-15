@@ -4,7 +4,7 @@
   "USER_NOT_FOUND": "{{author}} Bu kullanıcı bulunamadı",
   "WISHLIST_PRIVATE": "{{author}} Bu kullanıcı dilek listesini gizli olarak ayarladı",
   "WISHLIST_EMPTY": "{{author}} Bu kullanıcının istek listesi boş",
-  "WISHLIST_EMBED_TITLE": "**SOFI: WISHLIST**",
+  "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST",
   "WISHLIST_EMBED_FOOTER": "Sayfa: {{page}}/{{totalPages}}",
   "COPY_CODES_BUTTON_LABEL": "Kodları Kopyala",
   "COPY_CODES_MENU_LABEL": "Tüm Kodlar",
@@ -14,6 +14,6 @@
   "COPY_CODES_MENU_PLACEHOLDER": "Bir seçenek seçiniz",
   "CODES_COPIED": "← Kopyalandı",
   "ALL_CARD_CODES": "Kodların büyük hacmi nedeniyle mesajın bir `.txt` dosyasına dönüştürülmesi gerekti:",
-  "WISHLIST_CODE_EMBED_TITLE": "**SOFI: WISHLIST**",
+  "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST",
   "WISHLIST_EMPTY_SELF": "{{author}} Dilek listeniz boş"
 }

@@ -2,7 +2,7 @@
   "BATTLED_AND_WON": "{{winner}} mengalahkan {{user}} dan mengambil kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
   "BATTLED_WON_PLURAL": "{{winner}} mengalahkan **{{userCount}}** pemain lain dan mengambil kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
   "EXTRA_GRAB": "{{user}} `Grab` ekstra anda telah digunakan. Anda memiliki {{remaining}}",
-  "EMBED_TITLE": "**SOFI: CAPTCHADROP**",
+  "EMBED_TITLE": "SOFI: CAPTCHADROP",
   "EMBED_FOOTER": "Ambil kartu di atas dengan menuliskan captcha",
   "WAIT_TO_CLAIM": "{{user}} Anda harus menunggu **{{cooldown}}** untuk mengambil kartu lainnya",
   "TOOK_THE_CARD": "{{user}} Mengambil kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",

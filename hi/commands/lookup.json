@@ -2,7 +2,7 @@
   "DESCRIPTION": "पात्र का संस्करण/3डी/एनिमेटेड की खोज करें",
   "CHAR_NOT_FOUND": "{{author}} इस नाम से कोई पात्र नहीं मिला: `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}} इस नाम से कोई पात्र प्राप्त नहीं हुआ: `{{arg}}`\n\n```fix\nनोट: `-f` का उपयोग करके सटीक खोज करे!\n```",
-  "EMBED_TITLE": "**SOFI: LOOKUP**",
+  "EMBED_TITLE": "SOFI: LOOKUP",
   "SUBMITTED": "प्रस्तुतकर्ता: <@{{userID}}>",
   "EMBED_FOOTER": "scl का उपयोग करके Version 1 खोजें | ssc का उपयोग करके आप नए Versions जमा कर सकते है",
   "VERSION_DISP": "कार्ड का Versions {{version}} प्रदर्शित करें",

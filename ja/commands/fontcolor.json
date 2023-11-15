@@ -7,7 +7,7 @@
   "PROVIDE_GLOWCODE": "{{author}} 正しい使い方：`{{prefix}}fc <CardCode> <GlowCode>`",
   "WRONG_GLOWCODE": "{{author}} `Glow`コードは必ず**#**で始めます",
   "CANNOT_FIND_GLOW": "{{author}} 入力された`Glow`コードが無効か、またはインベントリーに見つかりませんでした",
-  "EMBED_TITLE": "**SOFI: FONTCOLOR**",
+  "EMBED_TITLE": "SOFI: FONTCOLOR",
   "COLOR_NAME": "`Glow`: **{{name}}**",
   "COLOR_CODE": "コード：`{{code}}`",
   "GLOW_UNAVAILABLE": "{{author}} その `Glow` は完全放電です",

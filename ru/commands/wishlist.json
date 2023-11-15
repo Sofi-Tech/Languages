@@ -4,7 +4,7 @@
   "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
   "WISHLIST_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своего списка желаемого",
   "WISHLIST_EMPTY": "{{author}} Список желаемого данного пользователя пуст",
-  "WISHLIST_EMBED_TITLE": "**SOFI: WISHLIST**",
+  "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST",
   "WISHLIST_EMBED_FOOTER": "Страница: {{page}}/{{totalPages}}",
   "COPY_CODES_BUTTON_LABEL": "Скопировать коды",
   "COPY_CODES_MENU_LABEL": "Все коды",
@@ -14,6 +14,6 @@
   "COPY_CODES_MENU_PLACEHOLDER": "Выбрать опцию",
   "CODES_COPIED": "← Скопировано",
   "ALL_CARD_CODES": "В связи с большим количеством кодов сообщение должно быть преобразовано в файл формала`.txt`:",
-  "WISHLIST_CODE_EMBED_TITLE": "**SOFI: WISHLIST**",
+  "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST",
   "WISHLIST_EMPTY_SELF": "{{author}} Ваш список желаемого пуст"
 }

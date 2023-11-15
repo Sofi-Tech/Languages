@@ -7,7 +7,7 @@
   "PROVIDE_GLOWCODE": "{{author}} Tamang paggamit: `{{prefix}}fc <CardCode> <GlowCode>`",
   "WRONG_GLOWCODE": "{{author}} Ang mga `Glow` codes ay laging nagsisimula sa `#`",
   "CANNOT_FIND_GLOW": "{{author}} Ang `Glow` code na iyong binigay ay hindi wasto o wala sa iyong imbentaryo",
-  "EMBED_TITLE": "**SOFI: FONTCOLOR**",
+  "EMBED_TITLE": "SOFI: FONTCOLOR",
   "COLOR_NAME": "`Glow`: **{{name}}**",
   "COLOR_CODE": "Code: `{{code}}`",
   "GLOW_UNAVAILABLE": "{{author}} Ang `Glow` ay walang natitira pang karga",

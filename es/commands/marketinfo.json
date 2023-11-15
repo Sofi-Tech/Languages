@@ -10,7 +10,7 @@
   "NO_LISTINGS_FOUND": "{{user}} Actualmente no tienes ningún anuncio en el mercado",
   "INFO": "Usa el comando `{{prefix}}mul <IDDelAnuncio>` para eliminar tu anuncio del mercado",
   "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}}",
-  "EMBED_TITLE": "**SOFI: MARKETINFO**",
+  "EMBED_TITLE": "SOFI: MARKETINFO",
   "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Disponibilidad: `{{stockAmount}}` {{stockEmoji}} | Tasa: `{{rateAmount}}` {{rateEmoji}}",
-  "DEAL_EMBED_TITLE": "**SOFI: MARKETINFO**"
+  "DEAL_EMBED_TITLE": "SOFI: MARKETINFO"
 }

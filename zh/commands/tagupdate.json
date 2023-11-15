@@ -5,7 +5,7 @@
   "TAG_NOT_FOUND": "{{author}}未找到名称为`Tag`的标签`{{tag}}`",
   "BUTTON_NAME_LABEL": "名称",
   "BUTTON_EMOJI_LABEL": "表情符号",
-  "EMBED_TITLE": "**SOFI: TAGUPDATE**",
+  "EMBED_TITLE": "SOFI: TAGUPDATE",
   "EMBED_DESCRIPTION": "您想要更新标签中`Tag`的哪些内容`{{tagName}}`？",
   "REPLACE_NAME": "输入您想要用`{{tagName}}`替换的新标签名称",
   "TAGNAME_EXISTS": "{{author}}名称为`Tag`的标签已经存在`{{newTagName}}`，请提供不同的标签名称",

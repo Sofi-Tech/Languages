@@ -28,10 +28,10 @@
   "NOT_AVAILABLE": "`Invalid Series`",
   "SORT_LEVEL": "Уровень",
   "NO_RESULTS_OTHERS": "{{author}} У данного пользователя нет карт в коллекции",
-  "EMBED_TITLE": "**SOFI: COLLECTION**",
+  "EMBED_TITLE": "SOFI: COLLECTION",
   "TAG_MODAL_LABEL": "Отметить несколько карт",
   "TAG_MODAL_PLACEHOLDER": "Вместо этого используйте \"-\", чтобы убрать \"Tag\" с нескольких с карт",
-  "TAG_MODAL_TITLE": "**SOFI: COLLECTION**",
+  "TAG_MODAL_TITLE": "SOFI: COLLECTION",
   "TAG_NO_CARDS_FOUND": "{{author}} Не удалось найти карт с `Tag`: `{{arg}}`",
   "EMBED_FOOTER": "Страница: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
   "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной `Tag` с названием: `{{arg}}`"

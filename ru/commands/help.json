@@ -1,7 +1,7 @@
 {
   "HELP_CATEGORY": "Настройки",
   "HELP_SLASH_DESC": "Введите команду, о которой вы хотите узнать больше",
-  "FILTER_EMBED_TITLE": "**SOFI: HELP**",
+  "FILTER_EMBED_TITLE": "SOFI: HELP",
   "FILTER_DATE": "<:pdot:979009081325019156> **Дата получения** = [`d`/`date`] | **`sc d<DD/MM/YYYY`**",
   "FILTER_GEN": "<:pdot:979009081325019156> **Ген** = [`g`/`gen`] | **`sc g>GEN`**",
   "FILTER_WISHLIST": "<:pdot:979009081325019156> **Список желаемого**= [`w`/`wl`/`wishlist`] | **`sc wl>=WISHLIST`**",
@@ -40,7 +40,7 @@
   "TWITTER_BUTTON_LABEL": "Twitter!",
   "INVITE_BUTTON_LABEL": "Пригласить!",
   "GUIDE_BUTTON_LABEL": "Руководство!",
-  "EMBED_TITLE": "**SOFI: HELP**",
+  "EMBED_TITLE": "SOFI: HELP",
   "EMBED_FOOTER": "Запросил {{username}}",
   "COOLDOWN": "Время отката:",
   "DESCRIPTION": "Описание:",
@@ -50,5 +50,5 @@
   "NOT_PROVIDED": "Не указано",
   "USE_FILTER_OPERATORS_3": "<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**  ← <:crossnobg:896960454977527868>",
   "COMMNAD_NOT_FOUND": "{{author}} Не удалось найти команду с названием `{{command}}`!\nВозможно, вы искали `{{commandName}}`?",
-  "USAGE_EMBED_TITLE": "**SOFI: HELP**"
+  "USAGE_EMBED_TITLE": "SOFI: HELP"
 }

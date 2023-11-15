@@ -3,7 +3,7 @@
   "PERMS_CATEGORY": "Pengaturan",
   "BLACKLIST_BUTTON_LABEL": "Daftar Hitam",
   "WHITELIST_BUTTON_LABEL": "Daftar Putih",
-  "PERMS_EMBED_TITLE": "**SOFI: PERMISSION**",
+  "PERMS_EMBED_TITLE": "SOFI: PERMISSION",
   "BLACKLISTING_INFO": "Daftar Hitam: Batasi perintah yang akan digunakan di channel ini",
   "BLACKLISTING_USAGE": "Cara Menggunakan: `{{prefix}}p bl add/rem <CommandName/All>`\n",
   "RESET_PERMS_CONFIRM": "Apakah kamu yakin ingin mereset izin perintah saluran ini kembali ke default?",
@@ -35,7 +35,7 @@
   "WHITELISTED_COMMANDS": "**__Perintah di Whitelist__**",
   "ADD_COMMANDS_INFO": "Add : Tambahkan perintah ke **{{listName}}**\n",
   "REMOVE_COMMANDS_INFO": "Remove : Hapus perintah tertentu dari **{{listName}}**\n",
-  "MODAL_TITLE": "**SOFI: PERMISSION**",
+  "MODAL_TITLE": "SOFI: PERMISSION",
   "NO_BUTTON_LABEL": "Batal",
   "YES_BUTTON_LABEL": "Setuju"
 }

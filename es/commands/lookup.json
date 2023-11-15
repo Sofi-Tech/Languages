@@ -2,7 +2,7 @@
   "DESCRIPTION": "Muestra las variantes Version/3D/GIF de un personaje",
   "CHAR_NOT_FOUND": "{{author}} No se ha podido encontrar ningún personaje con el nombre: `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}} No se ha podido encontrar ningún personaje con el nombre: `{{arg}}`\n\n```fix\nNota: si usas la opción `-f`, la función distinguirá entre mayúsculas y minúsculas.\n```",
-  "EMBED_TITLE": "**SOFI: LOOKUP**",
+  "EMBED_TITLE": "SOFI: LOOKUP",
   "SUBMITTED": "Enviado Por: <@{{userID}}>",
   "EMBED_FOOTER": "Encuentra la `Version` 1 usando el comando `scl`. Puedes enviar una nueva `Version` usando el comando `ssc`",
   "VERSION_DISP": "Muestra la `Version` {{version}} de la carta",

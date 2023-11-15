@@ -6,7 +6,7 @@
   "INVALID_DC_MOVIES": "{{author}} `Glow`代码总是以**＃**号开头",
   "GLOW_NOT_FOUND": "{{author}} 你提供的 `Glow` code 无效或者不在你的库存中",
   "GLOW_AVAILABLE": "该 glow 已经可用",
-  "EMBED_TITLE": "**SOFI: RECHARGE**",
+  "EMBED_TITLE": "SOFI: RECHARGE",
   "RECHARGE_CONFIRMATION": "您正在充电:\n\n{{name}}{{superglow}} ? ' (Super)' : ''}**\nCode: `{{ glowCode}}` \nCost: **$金额** <:recharge_sofi:926846363537387530>",
   "NO_MONEY": "你没有足够的充电量。买一些充电量",
   "SUCCESSFUL_RECHARGE": "Glow 充电成功"

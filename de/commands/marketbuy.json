@@ -14,5 +14,5 @@
   "SOMETHING_WRONG": "{{author}} Da hat etwas nicht geklappt. Bitte versuche es erneut",
   "PURCHASE_SUCCESSFUL": "{{author}} Erfolgreich **{{boughtCount}}** {{currency}} gekauft",
   "SUCCESS": "{{user}} Du hast erfolgreich **{{orderPrice}}** {{currency}} verkauft und **{{soldAmount}}** {{currencySoldEmoji}} erhalten! | Auftrags-ID: `{{dealId}}`",
-  "MB_EMBED_TITLE": "**SOFI: MARKETBUY**"
+  "MB_EMBED_TITLE": "SOFI: MARKETBUY"
 }

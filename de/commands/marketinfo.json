@@ -10,7 +10,7 @@
   "NO_LISTINGS_FOUND": "{{user}} Du hast derzeit keine Angebote auf dem Markt",
   "INFO": "Verwende `{{prefix}}mul <Auftrags-ID>` um deine Angebote vom Markt zu entfernen",
   "FOOTER": "Ergebnisanzeige {{page}}-{{pages}} von {{total}}",
-  "EMBED_TITLE": "**SOFI: MARKETINFO**",
+  "EMBED_TITLE": "SOFI: MARKETINFO",
   "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Vorrat: `{{stockAmount}}` {{stockEmoji}} | Kurs: `{{rateAmount}}` {{rateEmoji}}",
-  "DEAL_EMBED_TITLE": "**SOFI: MARKETINFO**"
+  "DEAL_EMBED_TITLE": "SOFI: MARKETINFO"
 }

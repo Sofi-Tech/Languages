@@ -7,7 +7,7 @@
   "GLOW_NOT_FOUND": "{{author}} Ang code ng `Glow` na iyong ibinigay ay maaaring hindi wasto o wala sa iyong inventory",
   "GLOW_AVAILABLE": "{{author}} Ang `Glow`na yan ay may charge na",
   "RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong icharge ang `Glow`na ito? \n\nPangalan: **{{name}}**\nKodigo: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>",
-  "EMBED_TITLE": "**SOFI: RECHARGE**",
+  "EMBED_TITLE": "SOFI: RECHARGE",
   "NO_MONEY": "{{author}} Wala kang sapat na`Recharges`para sa proseso na ito!",
   "SUCCESSFUL_RECHARGE": "{{author}}Ang {{glowName}} na `Glow`mo ay matagumpay na icharge!",
   "SUPER_RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong icharge ang `Glow`na ito? \n\nPangalan: **{{name}} (Super) **\nKodigo: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>"

@@ -6,6 +6,6 @@
   "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan karakter tersebut. Gunakan perintah `{{prefix}}wa -f <Nama>` untuk pencarian yang tepat",
   "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** sudah ada di daftar keinginan anda",
   "CHARACTER_ADDED": "{{author}} Berhasil menambahkan **{{name}}** ke daftar keinginan anda",
-  "EMBED_TITLE": "**SOFI: WISHLISTADD**",
+  "EMBED_TITLE": "SOFI: WISHLISTADD",
   "INCREASE_CAPACITY": "Gunakan perintah `{{prefix}}wu` atau `{{prefix}}wu max` untuk meningkatkan kapasitas daftar keinginan anda"
 }

@@ -10,7 +10,7 @@
   "NO_LISTINGS_FOUND": "{{user}} आपका बाजार में कोई सौदा मौजूदा नहीं है।",
   "INFO": "सूची से सौदा हटाने के लिए `{{prefix}}mul <ID>` का उपयोग करें",
   "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}}",
-  "EMBED_TITLE": "**SOFI: MARKETINFO**",
-  "DEAL_EMBED_TITLE": "**SOFI: MARKETINFO**",
+  "EMBED_TITLE": "SOFI: MARKETINFO",
+  "DEAL_EMBED_TITLE": "SOFI: MARKETINFO",
   "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"
 }

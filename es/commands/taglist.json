@@ -3,7 +3,7 @@
   "TL_CATEGORY": "Tags",
   "NO_USER": "{{author}} No se ha podido encontrar a ese usuario",
   "NO_TAGS": "{{author}} Ese usuario no tiene ningún `Tag`",
-  "EMBED_TITLE": "**SOFI: TAGLIST**",
+  "EMBED_TITLE": "SOFI: TAGLIST",
   "SOFI_FACT": "Un tag bloqueado no puede quemarse ni intercambiarse",
   "EMBED_FOOTER": "Total: {{total}} | Bloqueados: {{locked}}",
   "NO_TAGS_SELF": "{{author}} Aún no tienes ningún `Tag`. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",

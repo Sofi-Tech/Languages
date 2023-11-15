@@ -20,10 +20,10 @@
   "UNDO_SUCCESSFUL": "\nВосстановлено предыдущее преобразование за **{{amount}}** {{emoji}}",
   "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить {{article}} `{{eventType}}` преобразование к `{{eventCardType}}` или `3D` картам",
   "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}m <CardCode> <MorphItem>`",
-  "EMBED_TITLE": "**SOFI: MORPH**",
+  "EMBED_TITLE": "SOFI: MORPH",
   "ROLL_MORPH": "Преобразование будет утеряно через 2 минуты",
   "MNC_CARDS_CANNOT_MORPH": "{{author}} Монохром 2023 3D карты не могут быть преобразованы",
-  "MNC_EMBED_TITLE": "**SOFI: MORPH**",
+  "MNC_EMBED_TITLE": "SOFI: MORPH",
   "MNC_REROLL_COST": "Каждая крутка будет стоить 1 \"{{currencyName}}\"",
   "NO_SPECIAL_REROLLED": "Особых преобразований не прокручено",
   "NONE": "Нет"

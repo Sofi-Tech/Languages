@@ -6,6 +6,6 @@
   "NO_CHARACTER_FOUND": "{{author}} Bu karakter bulunamadı. Kesin bir arama için \"{{prefix}}wa -f <Ad>\" komutunu kullanın",
   "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** Zaten istek listenizde",
   "CHARACTER_ADDED": "{{author}}, **{{name}}** İstek listenize başarıyla eklendi",
-  "EMBED_TITLE": "**SOFI: WISHLISTADD**",
+  "EMBED_TITLE": "SOFI: WISHLISTADD",
   "INCREASE_CAPACITY": "İstek listenizin kapasitesini artırmak için \"{{prefix}}wu\" veya \"{{prefix}}wu max\" komutunu kullanın"
 }

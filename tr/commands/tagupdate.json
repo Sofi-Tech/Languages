@@ -5,7 +5,7 @@
   "TAG_NOT_FOUND": "{{author}} `{{tag}}` adında herhangi bir `Tags` bulunamadı",
   "BUTTON_NAME_LABEL": "Ad",
   "BUTTON_EMOJI_LABEL": "Emoji",
-  "EMBED_TITLE": "**SOFI: TAGUPDATE**",
+  "EMBED_TITLE": "SOFI: TAGUPDATE",
   "EMBED_DESCRIPTION": "`{{tagName}}` `Tag`'ınızın hangi bölümünü güncellemek istersiniz?",
   "REPLACE_NAME": "`{{tagName}}` yerine geçecek bir ad girin",
   "TAGNAME_EXISTS": "{{author}} `{{newTagName}}`Adına sahip bir `Tag`'ınız zaten var",

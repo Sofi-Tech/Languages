@@ -2,7 +2,7 @@
   "DESCRIPTION": "展示角色的 3D/GIF 版本",
   "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}}没有找到任何角色，` {{arg}}` 请注意输入 lookup 的大小写!",
-  "EMBED_TITLE": "**SOFI: LOOKUP**",
+  "EMBED_TITLE": "SOFI: LOOKUP",
   "SUBMITTED": "提交者: <@{{userID}}>",
   "EMBED_FOOTER": "使用 scl 查找 Version1 | 使用 ssc 可以提交新的 Versions",
   "VERSION_DISP": "展示卡片的 Version {{version}}",

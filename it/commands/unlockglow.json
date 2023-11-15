@@ -1,11 +1,11 @@
 {
   "UG_DESCRIPTION": "Genera un \"Glow\" casuale",
   "UG_CATEGORY": "Cosmetici",
-  "EMBED_TITLE": "**SOFI: UNLOCKGLOW**",
+  "EMBED_TITLE": "SOFI: UNLOCKGLOW",
   "UNLOCK_GLOW_CONFIRM": "{{author}} Sei sicuro di voler acquistare un `Glow` casuale per **100** {{currency}}?",
   "CANCELLED_UNLOCK_GLOW": "Il processo è stato annullato",
   "NOT_ENOUGH_GEMS": "{{author}} Non hai abbastanza `Gems`",
-  "EMBED_GLOW_TITLE": "**SOFI: UNLOCKGLOW**",
+  "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
   "UNLOCK_GLOW_SUCCESS": "{{author}} Hai acquistato con successo un `Glow`",
   "GLOW_INFO": "Nome: **{{glowName}}**\nCodice: **`#{{glowCode}}`**\nPurezza: **{{purity}}%**"
 }

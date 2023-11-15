@@ -5,7 +5,7 @@
   "NO_FRAMECODE_FOUND": "{{author}} 没有找到任何 `Frame` 代码是： `{{name}}`",
   "FRAME_UNAVAILABLE": "{{author}} 那个 `Frame` 现在没有。请使用 `{{prefix}}fs` 来查看目前的 `Frame` 轮流",
   "FRAME_NOT_PURCHASABLE": "{{author}} 那个 `Frame`是有限定的，已买不到了",
-  "EMBED_TITLE": "**SOFI: BUYFRAME**",
+  "EMBED_TITLE": "SOFI: BUYFRAME",
   "YOU_GET": "您得到：",
   "YOU_PAY": "您付：",
   "NO_ENOUGH_AMOUNT": "{{author}} 您没有足够 `{{currency}}` 进行此购买",

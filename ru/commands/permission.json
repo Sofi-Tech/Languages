@@ -14,7 +14,7 @@
   "ADD_BUTTON_LABEL": "Добавить",
   "REMOVE_BUTTON_LABEL": "Убрать",
   "RESET_BUTTON_LABEL": "Сбросить",
-  "PERMS_EMBED_TITLE": "**SOFI: PERMISSION**",
+  "PERMS_EMBED_TITLE": "SOFI: PERMISSION",
   "BLACKLISTING_INFO": "Черный список: Запретить использование команд в данном канале",
   "WHITELISTED_COMMANDS": "**__Команды в белом списке__**",
   "ADD_COMMANDS_INFO": "Добавить : Добавьте команды в **{{listName}}**\n",
@@ -36,6 +36,6 @@
   "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Следующие команды успешно убраны из {{listname}} данного канала: {{commandsList}}",
   "BLACKLISTED_COMMANDS": "**__Команды в черном списке__**",
   "ADD_MODAL_LABEL": "Добавьте команды в {{listName}} данного канала",
-  "MODAL_TITLE": "**SOFI: PERMISSION**",
+  "MODAL_TITLE": "SOFI: PERMISSION",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Все команды успешно добавлены в {{listName}} данного канала"
 }

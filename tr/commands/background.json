@@ -4,7 +4,7 @@
   "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <CardCode> <Background-ID>`",
   "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
   "NON_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
-  "EMBED_TITLE": "**SOFI: BACKGROUND**",
+  "EMBED_TITLE": "SOFI: BACKGROUND",
   "EMBED_DESCRIPTION": "**{{background}}** `Background`ını bu karta uygulamak istediğinizden emin misiniz?",
   "USER_NO_BG": "{{author}} Bu `Background`'a sahip değilsin",
   "BG_NOT_FOUND": "{{author}} Bu ID ye sahip herhangi bir `Background` bulunamadı",

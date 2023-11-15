@@ -5,7 +5,7 @@
   "TAG_NOT_FOUND": "{{author}} इस नाम से कोई `Tag` मौजूद नहीं है: `{{tag}}`",
   "BUTTON_NAME_LABEL": "नाम",
   "BUTTON_EMOJI_LABEL": "इमोजी",
-  "EMBED_TITLE": "**SOFI: TAGUPDATE**",
+  "EMBED_TITLE": "SOFI: TAGUPDATE",
   "EMBED_DESCRIPTION": "`{{tagName}}` `Tag` का कौन सा भाग आप बदलना चाहते है?",
   "REPLACE_NAME": "`{{tagName}}` को बदलने के लिए एक नया नाम दर्ज करे",
   "TAGNAME_EXISTS": "{{author}} इस नाम से `Tag` पहले से मौजूद है: `{{newTagName}}`",

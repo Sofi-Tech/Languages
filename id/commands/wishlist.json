@@ -4,7 +4,7 @@
   "USER_NOT_FOUND": "{{author}} Tidak bisa menemukan user tersebut",
   "WISHLIST_PRIVATE": "{{author}} Pengguna tersebut telah mengatur daftar keinginan mereka menjadi pribadi",
   "WISHLIST_EMPTY": "{{author}} Daftar keinginan pengguna tersebut kosong",
-  "WISHLIST_EMBED_TITLE": "**SOFI: WISHLIST**",
+  "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST",
   "WISHLIST_EMBED_FOOTER": "Halaman: {{page}}/{{totalPages}}",
   "COPY_CODES_BUTTON_LABEL": "Salin Kode",
   "COPY_CODES_MENU_LABEL": "Semua Kode",
@@ -14,6 +14,6 @@
   "COPY_CODES_MENU_PLACEHOLDER": "Pilih Opsi",
   "CODES_COPIED": "← Disalin",
   "ALL_CARD_CODES": "Karena volume kode yang besar, pesan tersebut harus dikonversi ke dalam file `.txt`:",
-  "WISHLIST_CODE_EMBED_TITLE": "**SOFI: WISHLIST**",
+  "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST",
   "WISHLIST_EMPTY_SELF": "{{author}} Daftar keinginan anda kosong"
 }

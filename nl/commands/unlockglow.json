@@ -1,10 +1,10 @@
 {
   "UG_DESCRIPTION": "Ontgrendel de glows",
   "UG_CATEGORY": "Cosmetica",
-  "EMBED_TITLE": "**SOFI: UNLOCKGLOW**",
+  "EMBED_TITLE": "SOFI: UNLOCKGLOW",
   "UNLOCK_GLOW_CONFIRM": "{{author}} Weet je zeker dat je een glow wilt ontgrendelen voor 100 {{currency}}?",
   "CANCELLED_UNLOCK_GLOW": "Het ontgrendelen is geannuleerd",
   "NOT_ENOUGH_GEMS": "Je hebt niet genoeg edelstenen",
-  "EMBED_GLOW_TITLE": "**SOFI: UNLOCKGLOW**",
+  "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
   "UNLOCK_GLOW_SUCCESS": "Gefeliciteerd {{author}}! Je hebt `{{glowName}}`(`#{{glowCode}}`) ontgrendeld"
 }

@@ -5,7 +5,7 @@
   "TAG_NOT_FOUND": "{{author}} Es konnte kein `Tag` mit dem Namen: `{{tag}}` gefunden werden",
   "BUTTON_NAME_LABEL": "Name",
   "BUTTON_EMOJI_LABEL": "Emoji",
-  "EMBED_TITLE": "**SOFI: TAGUPDATE**",
+  "EMBED_TITLE": "SOFI: TAGUPDATE",
   "EMBED_DESCRIPTION": "Welchen Teil des `{{tagName}}` `Tag` möchtest du aktualisieren?",
   "REPLACE_NAME": "Gib einen Namen ein, der `{{tagName}}` ersetzt",
   "TAGNAME_EXISTS": "{{author}} Du hast bereits einen `Tag` mit dem Namen `{{newTagName}}`",

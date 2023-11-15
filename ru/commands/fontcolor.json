@@ -7,7 +7,7 @@
   "PROVIDE_GLOWCODE": "{{author}} Правильное использование: `{{prefix}}fc <CardCode> <GlowCode>`",
   "WRONG_GLOWCODE": "{{author}} Коды `Glow` всегда начинаются с символа `#`",
   "CANNOT_FIND_GLOW": "{{author}} Указанный вами код `Glow` недействителен или не является частью вашего инвентаря",
-  "EMBED_TITLE": "**SOFI: FONTCOLOR**",
+  "EMBED_TITLE": "SOFI: FONTCOLOR",
   "COLOR_NAME": "`Glow`: **{{name}}**",
   "COLOR_CODE": "Код: `{{code}}`",
   "GLOW_UNAVAILABLE": "{{author}} У данной `Glow` закончились заряды",

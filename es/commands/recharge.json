@@ -7,7 +7,7 @@
   "UNLOCK_GLOWS": "{{author}} Aún no tienes ningún `Glow`",
   "NO_MONEY": "{{author}} No tienes suficientes `Recharges` para este proceso!",
   "GLOW_AVAILABLE": "{{author}} Ese `Glow` ya está cargado",
-  "EMBED_TITLE": "**SOFI: RECHARGE**",
+  "EMBED_TITLE": "SOFI: RECHARGE",
   "RECHARGE_CONFIRMATION": "¿Seguro que quieres cargar este `Glow`?\n\nNombre: **{{name}}**\nCódigo: `{{glowCode}}`\nPrecio: **{{cost}}** <:recharge_sofi:926846363537387530>",
   "SUCCESSFUL_RECHARGE": "{{author}} Cargado con éxito tu `Glow` **{{glowName}}**!",
   "SUPER_RECHARGE_CONFIRMATION": "¿Seguro que quieres cargar este `Glow`?\n\nNombre: **{{name}} (Super)**\nCódigo: `{{glowCode}}`\nPrecio: **{{cost}}** <:recharge_sofi:926846363537387530>"

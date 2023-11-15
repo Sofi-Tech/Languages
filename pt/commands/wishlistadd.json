@@ -6,6 +6,6 @@
   "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar esse personagem. Use o comando `{{prefix}}wa -f <Nome>` para uma pesquisa exata",
   "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** já está na sua lista de desejos",
   "CHARACTER_ADDED": "{{author}} Adicionou **{{name}}** com sucesso à sua lista de desejos",
-  "EMBED_TITLE": "**SOFI: WISHLISTADD**",
+  "EMBED_TITLE": "SOFI: WISHLISTADD",
   "INCREASE_CAPACITY": "Use o comando `{{prefix}}wu` ou `{{prefix}}wu max` para aumentar a capacidade da sua lista de desejos"
 }

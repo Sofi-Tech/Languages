@@ -7,7 +7,7 @@
   "PROVIDE_GLOWCODE": "{{author}} الاستخدام الصحيح: `{{prefix}}fc <كود البطاقة> <كود اللمعة>`",
   "WRONG_GLOWCODE": "{{author}} تبدأ أكواد `اللمعة` دائمًا برمز **#**",
   "CANNOT_FIND_GLOW": "{{author}} هذا الكود غير صالح أو أنك لا تمتلك هذه اللمعة",
-  "EMBED_TITLE": "**SOFI: FONTCOLOR**",
+  "EMBED_TITLE": "SOFI: FONTCOLOR",
   "COLOR_NAME": "الاسم: {{name}}",
   "COLOR_CODE": "الكود: `{{code}}`",
   "GLOW_UNAVAILABLE": "هذه الـ `لمعة` ليس لها شحنات",
