@@ -11,10 +11,10 @@
     "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Blacklist",
     "PROFILE_BUTTON_LABEL": "Web Profil",
     "USER_INFO": "__Benutzerinfo:__",
-    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`:  `{{date}}`",
-    "UI_CARDS_COUNT": "<:_:979009081325019156> Anzahl Karten: `{{cardCount}}`",
-    "UI_TRUST_FACTOR": "<:_:979009081325019156> Vertrauensfaktor: `{{val}}`",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> Gilde: `{{guild}}`",
+    "UI_TRADE_PASS": "<:_:979009081325019156> `Trade Pass`- **{{date}}**",
+    "UI_CARDS_COUNT": "<:_:979009081325019156> Anzahl Karten: **{{cardCount}}**",
+    "UI_TRUST_FACTOR": "<:_:979009081325019156> Vertrauensfaktor: **{{val}}**",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Gilde: **{{guild}}**",
     "USER_STATS": "__Benutzerstatistiken:__",
     "UI_3D_EDITS": "3D Bearbeitungen",
     "UI_EVENT_EDITS": "Event Bearbeitungen",
@@ -42,5 +42,6 @@
     "UI_DAILY": "Dailies",
     "UI_RECEIVED": "Erhalten",
     "UI_BUMP": "Bumps",
-    "UI_MORPH": "Morphs"
+    "UI_MORPH": "Morphs",
+    "UI_TP_EXPIRED": "Abgelaufen"
 }

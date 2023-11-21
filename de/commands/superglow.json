@@ -1,14 +1,14 @@
 {
-  "SG_DESCRIPTION": "Kombiniere zwei \"Glows\", um einen \"Super Glow\" zu erhalten",
-  "SG_CATEGORY": "Kosmetika",
-  "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-  "GLOW_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist entweder ungültig oder nicht in deinem Inventar",
-  "UNAVAILABLE_GLOW": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist nicht verfügbar",
-  "NO_USE_SG": "{{author}} Du kannst keinen `Super Glow` für diesen Vorgang verwenden",
-  "SAME_GLOWS": "{{author}} Du kannst für diesen Vorgang nicht zweimal denselben `Glow` verwenden",
-  "EMBED_TITLE": "SOFI: SUPERGLOW",
-  "FORM_SG_CONFIRM": "Bist du dir sicher dass du die folgenden Items kombinieren möchtest:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\num den `Super Glow` **{{superGlowName}}** zu erhalten?",
-  "MISSING_RESINS": "{{author}} Du hast nicht genügend `Resin` für diesen Vorgang",
-  "SUPER_GLOW_SUCCESSFUL": "{{author}} Deine `Glows` wurden erfolgreich zusammengeführt\n",
-  "FORM_SG_FOOTER": "Beide \"Glows“ werden im Prozess zerstört!"
+    "SG_DESCRIPTION": "Kombiniere zwei \"Glows\", um einen \"Super Glow\" zu erhalten",
+    "SG_CATEGORY": "Kosmetika",
+    "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist entweder ungültig oder nicht in deinem Inventar",
+    "UNAVAILABLE_GLOW": "{{author}} Mindestens einer der angegebenen `Glow`-Codes ist nicht verfügbar",
+    "NO_USE_SG": "{{author}} Du kannst keinen `Super Glow` für diesen Vorgang verwenden",
+    "SAME_GLOWS": "{{author}} Du kannst denselben `Glow` nicht mehr als ein Mal verwenden",
+    "EMBED_TITLE": "SOFI: SUPER GLOW",
+    "FORM_SG_CONFIRM": "Bist du dir sicher dass du die folgenden Items kombinieren möchtest:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\num den `Super Glow` **{{superGlowName}}** zu erhalten?",
+    "MISSING_RESINS": "{{author}} Du hast nicht genügend `Resin` für diesen Vorgang",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Deine `Glows` wurden erfolgreich verschmolzen\n",
+    "FORM_SG_FOOTER": "Beide \"Glows\" werden im Prozess zerstört!"
 }

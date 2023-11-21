@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Verbrennt mehrere Karten auf einmal",
-  "IN_ACTIVE_MB": "{{user}} du kannst keinen neuen `Massburn` starten, während dein alter noch aktiv ist",
-  "PROVIDE_FILTERS": "{{author}} Korrekte Verwendung: `{{prefix}}mb <Filters>`\n\n```fix\nBeachte: Du kannst eine ausführliche Liste aller Filter mit dem Befehl \"{{prefix}}help filters\" anzeigen lassen\n```",
-  "WRONG_TAG": "{{author}} Es konnte kein `Tag` mit dem Namen: `{{arg}}`gefunden werden",
-  "NO_CARDS_FOUND": "{{author}} Es konnten keine Karten gefunden werden, die deinen Suchkriterien entsprechen",
-  "CARDS_BURNED": "__Ausgewählte Karten [ {{totalCards}} ]__",
-  "CONFIRM_ASK": "{{author}} Bist du sicher, dass du diese Karten unwiederruflich verbrennen möchtest?",
-  "MISSING_CARDS": "{{author}} Mindestens eine der ausgewählten Karten befindet sich nicht länger in deiner Sammlung",
-  "SUCCESS": "{{author}} Die ausgewählten Karten wurden erfolgreich verbrannt",
-  "BURN_REWARDS": "__Belohnungen__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} Du kannst deinen Lock `Tag` nicht verbrennen"
+    "DESCRIPTION": "Verbrennt mehrere Karten auf einmal",
+    "IN_ACTIVE_MB": "{{user}} du kannst keinen neuen `Massburn` starten, während dein alter noch aktiv ist",
+    "PROVIDE_FILTERS": "{{author}} Korrekte Verwendung: `{{prefix}}mb <Filters>`\n\n```fix\nBeachte: Du kannst eine ausführliche Liste aller Filter mit dem Befehl \"{{prefix}}help filters\" anzeigen lassen\n```",
+    "WRONG_TAG": "{{author}} Es konnte kein `Tag` mit dem Namen: `{{arg}}`gefunden werden",
+    "NO_CARDS_FOUND": "{{author}} Es konnten keine Karten gefunden werden, die deinen Suchkriterien entsprechen",
+    "CARDS_BURNED": "__Ausgewählte Karten [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Bist du sicher, dass du diese Karten unwiderruflich verbrennen möchtest?",
+    "MISSING_CARDS": "{{author}} Mindestens eine der ausgewählten Karten befindet sich nicht länger in deiner Sammlung",
+    "SUCCESS": "{{author}} Die ausgewählten Karten wurden erfolgreich verbrannt",
+    "BURN_REWARDS": "__Belohnungen__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Karten welche entweder gesperrt-, ein GIF-, oder in einem Deck sind können nicht verbrannt werden."
 }

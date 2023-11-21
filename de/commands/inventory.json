@@ -14,7 +14,7 @@
     "USER_INV_EMPTY": "{{author}} Das Inventar dieses Benutzers ist leer",
     "NO_BG_FOUND": "Es konnten keine `Backgrounds` gefunden werden",
     "NO_ITEM_FOUND": "{{author}} Dieses Item konnte nicht in deinem Inventar gefunden werden",
-    "EMBED_AUTHOR": "SOFI: INVENTORY {{username}}",
+    "EMBED_AUTHOR": "SOFI: INVENTORY ({{username}})",
     "NO_ITEMS_INVENTORY": "Es konnten keine Items gefunden werden",
     "CHECK_INVENTORY": "Wähle eine Kategorie",
     "NO_ITEM_FOUND_OTHERS": "{{author}} Dieses Item konnte im Inventar des Benutzers nicht gefunden werden",

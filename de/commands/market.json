@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt den Sofi-Markt an",
     "NO_LISTING_FOUND": "{{author}} Es konnten keine Aufträge auf dem Markt gefunden werden",
-    "MARKET_WARN": "```\n⚠️ Der Markt darf nicht zum Verstecken von `Wists` genutzt werden! Wenn du dabei erwischt wirst, werden die `Wists` ohne Entschädigung entfernt!\n```\n**Durchschnittskurs**: **`{{averageRate}}`| Insgesamte Handel**: **`{{totalTrades}}`**",
-    "FOOTER": "Ergebnisanzeige {{page}}-{{pages}} von {{total}}",
+    "MARKET_WARN": "```\n⚠️ Der Markt darf nicht zum Verstecken von \"Wists\" genutzt werden! Das Nicht-Einhalten dieser Regel kann dazu führen, dass besagte Items ohne Entschädigung entfernt werden!\n```\n**Durchschnittskurs**: **`{{averageRate}}`| IGesamte Handel**: **`{{totalTrades}}`**",
+    "FOOTER": "Zeige Ergebnisse {{page}}-{{pages}} von {{total}}",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Vorrat: `{{stockAmount}}` {{stockEmoji}} | Kurs: `{{rateAmount}}` {{rateEmoji}}"
 }
