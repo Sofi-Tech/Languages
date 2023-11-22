@@ -6,7 +6,7 @@
     "INVALID_GLOW_CODE": "{{author}} 入力された`Glow`のコードには少なくとも１つが無効またはインベントリーにありません",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}**に`{{tag}}`を成功で付けました",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} 全部の`Glow`に`{{tag}}`を成功で付けました",
-    "INVALID_GLOW_SINGULAR": "{{author}} 入力された`Glow`のコードが無効またはインベントリーに見つかりませんでした",
+    "INVALID_GLOW_SINGULAR": "{{author}} 入力された`Glow`のコードが無効またはインベントリーにありません",
     "GLOW_TAG_INVALID": "{{author}} `{{tagname}}`の`タグ名`が見つかりませんでした",
     "CORRECT_USAGE": "{{author}}正しい使い方は：`{{prefix}}gt <タグ名> <＃Glowコード>`"
 }

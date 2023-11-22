@@ -1,7 +1,7 @@
 {
     "GUT_DESCRIPTION": "Entfernt deine \"Glows Tags\"",
     "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "{{author}} Du hast noch keine `Glows`",
+    "NO_GLOWS_FOUND": "{{author}} Du hast keine `Glows`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
     "INVALID_GLOWCODE": "{{author}} Der `Glow`-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Der `Tag` wurde erfolgreich von deinem **{{glow}}** `Glow` entfernt",

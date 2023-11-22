@@ -5,7 +5,7 @@
     "VERIFY_BUTTON_LABEL": "Verifizieren",
     "SUPPORT_BUTTON_LABEL": "Support",
     "VERIFY_TO_PLAY": "[Verifiziere dich auf unserer Webseite, um zu spielen!] (<https://sofi.gg/verify>)",
-    "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Blacklist",
+    "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Blacklist!",
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Bitte warte **{{cooldown}}** bevor du erneut Befehle benutzt",
     "COMMAND_BLACKLISTED": "{{author}} Der `{{commandName}}` Befehl ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}}Ich benötige: ` {{permissions}}`, um diesen Befehl auszuführen",

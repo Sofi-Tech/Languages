@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} `タグ`はまだ作成されません。`{{prefix}}tc <タグ名> <絵文字>`でタグを作成られます",
     "TAG_NOT_FOUND": "{{author}} `{{tag}}` の`タグ名`が見つかりませんでした",
     "NO_CARDS_CLAIMED": "{{author}} コレクションにカードがまだ存在しません",
-    "INVALID_CARD_CODE": "{{author}} 入力されたカードコードが無効や自分のコレクションに見つかりませんでした",
+    "INVALID_CARD_CODE": "{{author}} 入力されたカードコードが無効または自分のコレクションにありません",
     "SUCCESSFUL_TAG": "{{author}} **{{card}}**に`{{tag}}`を成功で付けました",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} 全部のカードに成功でタグを付けました"
 }
