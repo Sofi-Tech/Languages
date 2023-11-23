@@ -12,7 +12,7 @@
     "GLOW_CODE": "コード: `#{{code}}`",
     "EMBED_FOOTER": "Glow: {{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} その `Glow` は完全放電です",
-    "GLOW_APPLY_SUCCESSFUL": "{{author}} カードに **{{glowName}}**の`Glow`を付けられました",
+    "GLOW_APPLY_SUCCESSFUL": "{{author}} カードに **{{glowName}}**の`Glow`を成功で付けられました",
     "UNAVAILABLE": "完全放電",
     "AVAILABLE": "満充電"
 }
