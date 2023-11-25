@@ -43,5 +43,6 @@
     "UI_GAMES": "Juegos",
     "UI_SOLD": "Vendido",
     "UI_PULL": "Pulls",
-    "UI_TP_EXPIRED": "Caducado"
+    "UI_TP_EXPIRED": "Caducado",
+    "LANG_CHANGE_SUCCESS": "{{author}} ¡Tu idioma ha sido cambiado con éxito a **{{language}}**! Ten en cuenta que nuestra actualización de traducción se encuentra todavía en las primeras fases de desarrollo y aún no cubre todos nuestros comandos!\n\nLos comandos no traducidos incluyen:\n\n- **Permission**\n- **Lookup**\n- **Deck**\n- **Stats**\n- **Help**\n- **Fuse**\n- **Event**\n- **Guild/Raid Commands**\n\n¡Si te encuentras con algún problema con el idioma seleccionado, como texto que falta, traducciones erróneas o funciones y embeds rotos, notifícalo mediante el comando `{{prefix}}slr <DescripciónDelProblema>`!"
 }

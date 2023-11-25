@@ -43,5 +43,6 @@
     "UI_FRAGS": "Fragments",
     "BLACKLIST_STATUS": "__Statut De La Liste Noire:__",
     "EMBED_AUTHOR": "SOFI: INFO UTILISATEUR ({{username}} - {{status}})",
-    "UI_TP_EXPIRED": "Expiré"
+    "UI_TP_EXPIRED": "Expiré",
+    "LANG_CHANGE_SUCCESS": "{{author}} Votre langue a été modifiée avec succès en **{{language}}**! Veuillez noter que notre mise à jour de traduction en est encore aux premières phases de développement et ne couvre pas encore toutes nos commandes existantes!\n\nLes commandes non traduites incluent:\n\n- **Permission**\n- **Lookup**\n- **Deck**\n- **Stats**\n- **Help**\n- **Fuse**\n- **Event**\n- **Guild/Raid Commands**\n\nSi vous rencontrez un problème avec la langue sélectionnée, comme du texte manquant, des traductions incorrectes ou des fonctions et intégrations cassées, veuillez les signaler en utilisant la commande `{{prefix}}slr <Input>`!"
 }
