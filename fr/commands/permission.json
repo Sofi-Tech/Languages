@@ -1,1 +1,20 @@
-{}
+{
+    "NO_PERMS_SETUP": "{{author}} Cette permission n'est pas encore configurée dans ce salon. Pour la configurer, utilisez `{{prefix}}p [BL/WL] [Add] <NomCommande/All>`",
+    "REMOVE_COMMANDS_INFO": "Supprimer: Supprimez des commandes spécifiques de la **{{listName}}**\n",
+    "PERMS_DESCRIPTION": "Vous permet de mettre sur liste blanche ou sur liste noire des commandes spécifiques dans le salon.",
+    "PERMS_CATEGORY": "Paramètres",
+    "BLACKLIST_BUTTON_LABEL": "Liste noire",
+    "WHITELIST_BUTTON_LABEL": "Liste blanche",
+    "ADD_BUTTON_LABEL": "Ajouter",
+    "REMOVE_BUTTON_LABEL": "Retirer",
+    "RESET_BUTTON_LABEL": "Réinitialiser",
+    "PERMS_EMBED_TITLE": "SOFI: PERMISSIONS",
+    "BLACKLISTING_INFO": "Liste noire: Restreindre l'utilisation des commandes dans ce salon",
+    "BLACKLISTING_USAGE": "Utilisation: `{{prefix}}p bl add/rem <NomCommande/All>`\n",
+    "WHITELISTING_INFO": "Liste blanche: Autoriser uniquement l'utilisation de commandes spécifiques dans ce salon",
+    "WHITELISTING_USAGE": "Utilisation: `{{prefix}}p wl add/rem <NomCommande/All>`\n",
+    "RESET_USAGE": "Réinitialiser: Rétablit les autorisations aux paramètres par défaut\nUtilisation : `{{prefix}}p reset`",
+    "WHITELISTED_COMMANDS": "**__Commandes Sur Liste Blanche__**",
+    "ADD_COMMANDS_INFO": "Ajouter: Ajouter des commandes supplémentaires de la **{{listName}}**\n",
+    "PERMISSION_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}p [BL/WL] [Add/Rem] <NomCommande/All>`"
+}
