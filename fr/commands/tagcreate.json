@@ -6,5 +6,6 @@
     "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre `Tag` doit être alphanumérique et ne doit pas contenir de caractères spéciaux, d'espaces ou de mots injurieux!",
     "LONG_TAGNAME": "{{author}} Le nom de votre `Tag` ne peut contenir que **20** caractères",
     "TAGNAME_EXISTS": "{{author}} Vous possédez déjà un `Tag` avec le nom `{{tag}}`",
-    "TAG_CREATED": "{{author}} Création réussie du `Tag` portant le nom: `{{tag}}` | {{emoji}}"
+    "TAG_CREATED": "{{author}} Création réussie du `Tag` portant le nom: `{{tag}}` | {{emoji}}",
+    "TC_MAX_TAGS": "Vous avez atteint la limite maximale du nombre de tags que vous pouvez créer. Supprimez des tags pour en créer davantage."
 }

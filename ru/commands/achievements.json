@@ -1,9 +1,9 @@
 {
-  "ACH_DESCRIPTION": "Отображает список доступных достижений",
-  "ACH_CATEGORY": "Настройки",
-  "ACH_CLAIMED": "Получено",
-  "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "FAN_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "ACH_LOADING": "Загрузка <a:ping:876612181725167687>",
-  "NO_STATS_FOUND": "У вас пока нет очков фаната у какого-либо персонажа"
+    "ACH_DESCRIPTION": "Отображает список доступных достижений",
+    "ACH_CATEGORY": "Настройки",
+    "ACH_CLAIMED": "Получено",
+    "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS ({{totalClaimed}}/{{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: FAN POINTS",
+    "ACH_LOADING": "Загрузка <a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "У вас пока нет очков фаната у какого-либо персонажа"
 }

@@ -1,7 +1,10 @@
 {
-  "PVT_DESCRIPTION": "Privatisez votre collection, liste de souhaits ou inventaire",
-  "PVT_CATEGORY": "Réglages",
-
-  "PRIVATE_ENABLED": "{{author}} Votre **{{content}}** est maintenant privé(e)",
-  "PRIVATE_DISABLED": "{{author}} Votre **{{content}}** n'est plus privé(e)"
+    "PVT_DESCRIPTION": "Privatisez votre collection, liste de souhaits ou inventaire",
+    "PVT_CATEGORY": "Réglages",
+    "PRIVATE_ENABLED": "{{author}} Votre **{{content}}** est maintenant privé(e)",
+    "PRIVATE_DISABLED": "{{author}} Votre **{{content}}** n'est plus privé(e)",
+    "PVT_PUBLIC": "Publique",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+    "PVT_PRIVATE": "Privé",
+    "WRONG_ARGUMENTS": "{{author}} Utilisation correcte: `{{prefix}}pvt <C/WL/INV>`"
 }

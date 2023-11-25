@@ -1,15 +1,15 @@
 {
-  "UF_DESCRIPTION": "Применяет \"Frame\" к вашей карте",
-  "UF_CATEGORY": "Косметика",
-  "UF_INVALID_USAGE": "{{author}} Правильное использование: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-  "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
-  "CANNOT_APPLY": "{{author}} Вы не можете применить `Frame` к `3D` карте",
-  "NO_GIF": "{{author}} Вы не можете применить `Frame` к `GIF` карте",
-  "NO_FRAMES_FOUND": "{{author}} Указанный вами код `Frame` недействителен или не является частью вашего инвентаря",
-  "EMBED_TITLE": "SOFI: USEFRAME",
-  "UF_CONFIRMATION": "Вы уверены, что хотите применить **{{frameName}}** `Frame` к данной карте?",
-  "EMBED_FOOTER": "Подтверждение данного процесса приведет к уничтожению примененной \"Frame\"",
-  "NO_OWNER": "{{author}} Данная карта больше не является частью вашей коллекции",
-  "FRAME_NOT_FOUND": "{{author}} У вас нет **{{frameName}}** `Frame`",
-  "UF_SUCCESSFUL": "{{author}} **{{frameName}}** `Frame` успешно применена к вашей карте"
+    "UF_DESCRIPTION": "Применяет \"Frame\" к вашей карте",
+    "UF_CATEGORY": "Косметика",
+    "UF_INVALID_USAGE": "{{author}} Правильное использование: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
+    "CANNOT_APPLY": "{{author}} Вы не можете применить `Frame` к `3D` карте",
+    "NO_GIF": "{{author}} Вы не можете применить `Frame` к `GIF` карте",
+    "NO_FRAMES_FOUND": "{{author}} Указанный вами код `Frame` недействителен или не является частью вашего инвентаря",
+    "EMBED_TITLE": "SOFI: APPLY `FRAME`",
+    "UF_CONFIRMATION": "Вы уверены, что хотите применить **{{frameName}}** `Frame` к данной карте?",
+    "EMBED_FOOTER": "Подтверждение данного процесса приведет к уничтожению примененной \"Frame\"",
+    "NO_OWNER": "{{author}} Данная карта больше не является частью вашей коллекции",
+    "FRAME_NOT_FOUND": "{{author}} У вас нет **{{frameName}}** `Frame`",
+    "UF_SUCCESSFUL": "{{author}} **{{frameName}}** `Frame` успешно применена к вашей карте"
 }

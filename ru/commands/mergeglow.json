@@ -1,12 +1,12 @@
 {
-  "MG_DESCRIPTION": "\"Merges\" 4 уникальных \"Glows\", чтобы получить \"Resin\"",
-  "MG_CATEGORY": "Косметика",
-  "GLOW_CODES_MISSING": "{{author}} Правильное использование: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
-  "GLOWS_UNAVAILABLE": "{{author}} По крайней мере одна из указанных вами `Glow` разряжена",
-  "GLOW_CODES_UNIQUE": "{{author}} Вы не можете использовать одну `Glow` несколько раз",
-  "GLOWS_NOT_FOUND": "{{author}} По крайней мере один из указанных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
-  "EMBED_TITLE": "SOFI: MERGEGLOW",
-  "MERGE_CONFIRMATION": "Вы уверены, что хотите объединить следующие `Glows`?\n\n{{glows}}\n\nВы получите <:resin:938131736741691442> **1x** `Resin` после завершения данного процесса",
-  "GLOWS_NOT_IN_INVENTORY": "{{author}} По крайней мере одна из указанных вами `Glows` больше не является частью вашего инвентаря",
-  "GLOW_MERGE_SUCCESSFUL": "{{author}} Ваши `Glows` успешно объединены в <:resin:938131736741691442>"
+    "MG_DESCRIPTION": "\"Merges\" 4 уникальных \"Glows\", чтобы получить \"Resin\"",
+    "MG_CATEGORY": "Косметика",
+    "GLOW_CODES_MISSING": "{{author}} Правильное использование: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} По крайней мере одна из указанных вами `Glow` разряжена",
+    "GLOW_CODES_UNIQUE": "{{author}} Вы не можете использовать одну `Glow` несколько раз",
+    "GLOWS_NOT_FOUND": "{{author}} По крайней мере один из указанных вами кодов `Glow` недействителен или не является частью вашего инвентаря",
+    "EMBED_TITLE": "SOFI: MERGE **`GLOWS`**",
+    "MERGE_CONFIRMATION": "Вы уверены, что хотите объединить следующие `Glows`?\n\n{{glows}}\n\nВы получите <:resin:938131736741691442> **1x** `Resin` после завершения данного процесса",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} По крайней мере одна из указанных вами `Glows` больше не является частью вашего инвентаря",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} Ваши `Glows` успешно объединены в <:resin:938131736741691442>"
 }
