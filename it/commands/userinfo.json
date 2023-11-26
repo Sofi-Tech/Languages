@@ -43,5 +43,6 @@
     "UI_RECEIVED": "Ricevuto",
     "UI_BUMP": "Bumps",
     "UI_MORPH": "Morphs",
-    "UI_TP_EXPIRED": "Scaduto"
+    "UI_TP_EXPIRED": "Scaduto",
+    "LANG_CHANGE_SUCCESS": "{{author}} La tua lingua è stata modificata con successo in **{{language}}**! Tieni presente che il nostro aggiornamento della traduzione è ancora nelle prime fasi di sviluppo e non copre ancora tutti i nostri comandi esistenti!\n\nI comandi non tradotti includono:\n\n- **Permission**\n- **Lookup**\n- **Deck**\n- **Stats**\n- **Help**\n- **Fuse**\n- **Event**\n- **Guild/Raid Commands**\n\nSe trovi testo mancante, traduzione errata o incorporamenti e funzioni non funzionanti durante l'utilizzo di questo linguaggio, ti invitiamo a segnalare questi problemi utilizzando il comando `{{prefix}}slr <Input>` o facendo clic con il pulsante destro del mouse sul messaggio, passando con il mouse sulla sezione \"Apps\" di Discord e premendo il pulsante \"Report a translation\". In alternativa, segnala i tuoi risultati sul nostro [server di supporto ufficiale](<https://discord.gg/sofi>)!"
 }
