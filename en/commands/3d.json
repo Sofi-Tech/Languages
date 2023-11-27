@@ -11,7 +11,7 @@
     "EVENT_NOTE": "You are about to convert this card into its \"3D-Event\" variant. This process is permanent and cannot be undone. Any attached \"Frame\" will be lost during this process. Event cards have a hidden \"Gen\" which you can reveal after the event has concluded via our website",
     "EVENT_3D_NOTE": "During an active event, all eligible cards will be converted to their \"Event-3D\" variant instead of their usual \"3D\" upon confirming this process",
     "NO_CUBES": "{{author}} You don't have enough **Cubes** for this process",
-    "HALLOWEEN_3D_FAILED": "{{author}} A Ghost has infested your card. The process has failed!",
-    "UPGRADED_3D": "{{author}} Your card has been successfully converted into its `3D` variant",
+    "HALLOWEEN_3D_FAILED": "{{author}} A Ghost has infected your card. The process has failed!",
+    "UPGRADED_3D": "{{author}} Your card has been successfully converted into its **3D** variant",
     "UPGRADE_3D_CANCEL": "The process has been cancelled"
 }
