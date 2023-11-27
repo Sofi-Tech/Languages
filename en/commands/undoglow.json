@@ -10,7 +10,7 @@
     "UNG_CONFIRMATION": "Are you sure you want to remove this card's `Glow` for **100** `Silver`?",
     "EMBED_FOOTER": "The \"Glow\" will not return to your inventory",
     "UNG_NO_OWNER": "{{author}} The card is no longer in your collection",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `{{currency}}` for this process",
+    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough **{{currency}}** for this process",
     "UNG_SUCCESSFUL": "{{author}} Successfully removed the **{{glowName}}** `Glow` from your card",
     "UNAVAILABLE": "Unavailable"
 }

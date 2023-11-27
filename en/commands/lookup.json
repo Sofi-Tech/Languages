@@ -2,7 +2,7 @@
     "DESCRIPTION": "Displays Version/3D/GIF variants of a character",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
-    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP (**{{category}}**)",
+    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "Submitted By: <@{{userID}}>",
     "EMBED_FOOTER": "Find `Version` 1 by using the `scl` command. You can also submit new `Versions`by using the command `ssc`instead",
     "VERSION_DISP": "Displays `Version` {{version}} of the card",

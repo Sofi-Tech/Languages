@@ -10,7 +10,7 @@
     "TOGGLE_INFO_ADD": "**restore** this card's text",
     "TOGGLE_INFO_REMOVE": "**remove** this card's text",
     "NO_OWNER": "{{author}} The card is no longer in your collection",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough `{{currency}}` for this process",
+    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough **{{currency}}** for this process",
     "TT_ENABLE_SUCCESSFUL": "{{author}} Successfully **restored** this card's text",
     "TT_DISABLE_SUCCESSFUL": "{{author}} Successfully **removed** this card's text"
 }

@@ -2,6 +2,6 @@
     "DESCRIPTION": "Displays the Sofi market",
     "NO_LISTING_FOUND": "{{author}} Could not find any orders on the market",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}",
-    "MARKET_WARN": "```fix\n⚠️ Do not use the market to hide your \"Wists\". Failure to comply with this rule may result in the removal of said items without compensation!\n```\n**Average Rate**: **`{{averageRate}}` | Total Trades** : **`{{totalTrades}}`**",
+    "MARKET_WARN": "```fix\n⚠️ Do not use the market to hide your Wists. Failure to comply with this rule may result in the removal of said items without compensation!\n```\n**Average Rate**: **`{{averageRate}}` | Total Trades** : **`{{totalTrades}}`**",
     "FOOTER": "Showing results {{page}}-{{pages}} of {{total}}"
 }
