@@ -3,6 +3,6 @@
     "EXTRA_DROP_ALERT": "{{author}} Your extra **Drop** is being used. You have **{{remaining}}** remaining",
     "ON_CD": "{{author}} Your **Drop** will be ready in: **{{dropCd}}**",
     "VOTE": "Vote",
-    "BUY_DROP": "\n\n- You can also **Vote** to receive **Wists** <:wist:870339503427027005>! Use the command `{{prefix}}buy drop` to exchange them",
+    "BUY_DROP": "\n\n- You can also **Vote** to receive **Wists**! Use the command `{{prefix}}buy drop` to exchange them",
     "DROPPING_CARD": "{{author}} is **dropping** cards\n"
 }

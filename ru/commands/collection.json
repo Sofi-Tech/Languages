@@ -20,10 +20,10 @@
     "SORT_SPEED": "Скорость",
     "SORT_HP": "Здоровье",
     "SORT_DUPE": "Дубликаты",
-    "ALL_UNTAG_SUCCESS": "{{author}} Следующий `Tag` успешно снят с **{{taglength}}** карт: `{{tagName}}`",
-    "ALL_TAG_SUCCESS": "{{author}} **{{taglength}}** карт успешно отмечено следующей `Tag`: `{{tagName}}`",
+    "ALL_UNTAG_SUCCESS": "{{author}} Следующая tag успешно снята с **{{taglength}}** карт `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} **{{taglength}}** карт успешно отмечено следующей tag `{{tagName}}`",
     "PLEASE_WAIT": "Пожалуйста, подождите <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} У вас пока нет никаких `Tags`. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
+    "NO_TAG_FOUND": "{{author}} У вас пока нет никаких tag. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "NOT_AVAILABLE": "Invalid Series",
     "SORT_LEVEL": "Уровень",
@@ -32,7 +32,7 @@
     "TAG_MODAL_LABEL": "Отметить несколько карт",
     "TAG_MODAL_PLACEHOLDER": "Вместо этого используйте \"-\", чтобы убрать \"Tag\" с нескольких с карт",
     "TAG_MODAL_TITLE": "Введите \"Tag\"",
-    "TAG_NO_CARDS_FOUND": "{{author}} Не удалось найти карт с `Tag`: `{{arg}}`",
+    "TAG_NO_CARDS_FOUND": "{{author}} Не удалось найти карт с tag `{{arg}}`",
     "EMBED_FOOTER": "Страница: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
-    "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной `Tag` с названием: `{{arg}}`"
+    "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной tag с названием `{{arg}}`"
 }

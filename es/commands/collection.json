@@ -3,7 +3,7 @@
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Introduce los filtros que quieres aplicar a la colección",
-    "PLAYER_NOT_EXIST": "{{author}} Ese usuario no está registrado!",
+    "PLAYER_NOT_EXIST": "{{author}} Ese usuario no está registrado",
     "PLAYER_PRIVATE": "{{author}} La colección de ese usuario es privada",
     "NO_RESULTS": "{{author}} Aún no tienes ninguna carta en tu colección",
     "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda",
@@ -20,11 +20,11 @@
     "SORT_SPEED": "Velocidad",
     "SORT_HP": "Vida",
     "SORT_DUPE": "Duplicados",
-    "ALL_UNTAG_SUCCESS": "{{author}} Eliminado con éxito el siguiente `Tag` de **{{taglength}}** cartas: `{{tagName}}`",
-    "ALL_TAG_SUCCESS": "{{author}} Se ha añadido con éxito el siguiente `Tag` a las **{{taglength}}** cartas: `{{tagName}}`",
+    "ALL_UNTAG_SUCCESS": "{{author}} Eliminado con éxito el siguiente tag de **{{taglength}}** cartas `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} Se ha añadido con éxito el siguiente tag a las **{{taglength}}** cartas `{{tagName}}`",
     "PLEASE_WAIT": "Por favor espera <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} Aún no tienes ningún `Tag`. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",
-    "NOT_AVAILABLE": "`Serie No Válida`",
+    "NOT_AVAILABLE": "**Serie No Válida**",
     "NO_RESULTS_OTHERS": "{{author}} Ese usuario no tiene ninguna carta en su colección",
     "SORT_LEVEL": "Nivel",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
@@ -32,7 +32,7 @@
     "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}",
     "TAG_MODAL_TITLE": "SOFI: COLLECTION",
     "TAG_MODAL_LABEL": "Añadir Tag En Masa",
-    "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el `Tag`: `{{arg}}`",
+    "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el tag `{{arg}}`",
     "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" para eliminar un \"Tag\" en masa en su lugar",
-    "MASSTAG_WRONG_TAG": "{{author}} No se ha podido encontrar ningún `Tag` con el nombre: `{{arg}}`"
+    "MASSTAG_WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre: `{{arg}}`"
 }
