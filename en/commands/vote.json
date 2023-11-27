@@ -3,14 +3,14 @@
     "VOTE_CATEGORY": "Settings",
     "VOTE": "Vote on Top.GG",
     "BUMP": "Bump",
-    "EMBED_TITLE": "SOFI: `VOTE` ({{username}})",
-    "USE_WIST": "You will obtain a `Wist` <:wist:870339503427027005> for each successful `Vote`!",
-    "TOTAL_VOTES": "- Total `Votes`: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- Monthly `Votes`: **{{monthlyVotes}}**",
-    "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> **{{monthlyVotes}}** `Votes` remain to obtain an `Exotic Chest`",
-    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contains up to **1,000** `Cubes` or a **{{frameName}}** `Frame`",
-    "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> **{{monthlyVotes}}** `Votes` remain to obtain a `Divine Chest`",
-    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contains up to **2,500** `Cubes` or a **{{frameName}}** `Frame`",
+    "EMBED_TITLE": "SOFI: VOTE ({{username}})",
+    "USE_WIST": "You will obtain a **Wist** <:wist:870339503427027005> for each successful **Vote**!",
+    "TOTAL_VOTES": "- Total **Votes**: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- Monthly **Votes**: **{{monthlyVotes}}**",
+    "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> **{{monthlyVotes}}** **Votes** remain to obtain an **Exotic Chest**",
+    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contains up to **1,000** **Cubes** or a **{{frameName}}** **Frame**",
+    "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> **{{monthlyVotes}}** **Votes** remain to obtain a **Divine Chest**",
+    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contains up to **2,500** **Cubes** or a **{{frameName}}** **Frame**",
     "VOTE_RESET": "- Resets in: **{{countdown}}**",
-    "EMBED_FOOTER": "You get double the amount of \"Wists\" on a weekend"
+    "EMBED_FOOTER": "You get double the amount of Wists on a weekend"
 }

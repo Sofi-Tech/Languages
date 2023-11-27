@@ -4,7 +4,7 @@
     "UM_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}um <CardCode>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
     "NO_CHARACTER": "{{author}} The character on this card is no longer available on Sofi and cannot be interacted with",
-    "NO_GIF": "{{author}} You cannot remove cosmetics from a `GIF` card",
+    "NO_GIF": "{{author}} You cannot remove cosmetics from a **GIF** card",
     "NOT_MORPHED": "{{author}} That card has no morph applied to it",
     "EMBED_TITLE": "SOFI: REMOVE MORPH",
     "UM_CONFIRMATION": "Are you sure you want to remove this card's morph for **{{count}}** {{currencyEmoji}}?",

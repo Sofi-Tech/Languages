@@ -2,6 +2,6 @@
     "RM_DESCRIPTION": "Toggles your reminders",
     "RM_CATEGORY": "Settings",
     "PROVIDE_REMINDER_NAME": "{{author}} Correct usage: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} You will now be notified when your **`{{reminder}}`** is ready",
-    "REMINDER_DISABLED": "{{author}} You will no longer be notified when your **`{{reminder}}`** is ready"
+    "REMINDER_ENABLED": "{{author}} You will now be notified when your **{{reminder}}** is ready",
+    "REMINDER_DISABLED": "{{author}} You will no longer be notified when your **{{reminder}}** is ready"
 }
