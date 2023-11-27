@@ -18,7 +18,7 @@
     "MORPH_CONFRIM": "{{author}} Преобразование **{{morphName}}** успешно применено к вашей карте",
     "REROLL": "\nВы не можете откатить больше преобразований",
     "UNDO_SUCCESSFUL": "\nВосстановлено предыдущее преобразование за **{{amount}}** {{emoji}}",
-    "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить {{article}} `{{eventType}}` преобразование к `{{eventCardType}}` или `3D` картам",
+    "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить `{{eventType}}` преобразование к `{{eventCardType}}` или `3D` картам",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}m <CardCode> <MorphItem>`",
     "EMBED_TITLE": "SOFI: MORPH (`{{cardCode}}`)",
     "ROLL_MORPH": "Преобразование будет утеряно через 2 минуты",

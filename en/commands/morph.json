@@ -22,7 +22,7 @@
     "MORPH_CONFRIM": "{{author}} Successfully applied the **{{morphName}}** morph to your card",
     "REROLL": "\nYou cannot undo any more morphs",
     "UNDO_SUCCESSFUL": "\nRestored the previous morph for **{{amount}}** {{emoji}}",
-    "CANNOT_APPLY_MNC": "{{author}} You cannot apply {{article}} `{{eventType}}` morph on `{{eventCardType}}` or `3D` cards",
+    "CANNOT_APPLY_MNC": "{{author}} You cannot apply {{article}} **{{eventType}}** morph on **{{eventCardType}}** or **3D** cards",
     "MNC_EMBED_TITLE": "SOFI: MORPH (`{{eventMorph}}`)",
     "MNC_REROLL_COST": "Every roll will cost 1 \"{{currencyName}}\"",
     "NO_SPECIAL_REROLLED": "No special morph rolled",
