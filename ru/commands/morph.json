@@ -18,13 +18,13 @@
     "MORPH_CONFRIM": "{{author}} Преобразование **{{morphName}}** успешно применено к вашей карте",
     "REROLL": "\nВы не можете откатить больше преобразований",
     "UNDO_SUCCESSFUL": "\nВосстановлено предыдущее преобразование за **{{amount}}** {{emoji}}",
-    "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить `{{eventType}}` преобразование к `{{eventCardType}}` или `3D` картам",
+    "CANNOT_APPLY_MNC": "{{author}} Вы не можете применить **{{eventType}}** преобразование к **{{eventCardType}}** или **3D** картам",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}m <CardCode> <MorphItem>`",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "ROLL_MORPH": "Преобразование будет утеряно через 2 минуты",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} **Monochrome 2023 3D** карты не могут быть преобразованы",
-    "MNC_EMBED_TITLE": "SOFI: MORPH (`{{eventMorph}}`)",
-    "MNC_REROLL_COST": "Каждая крутка будет стоить 1 \"{{currencyName}}\"",
+    "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
+    "MNC_REROLL_COST": "Каждая крутка будет стоить 1 {{currencyName}}",
     "NO_SPECIAL_REROLLED": "Особых преобразований не прокручено",
     "NONE": "Нет"
 }

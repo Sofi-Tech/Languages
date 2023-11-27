@@ -27,7 +27,7 @@
     "MT_INFO_4": "📛 Asking for crypto payment is a bannable offense!",
     "MT_COMPLETE": "SOFI: MULTITRADE",
     "CARD_LOCKED": "{{user}} The following cards are either locked or currently used in a deck and could not be added:\n{{codes}}",
-    "CARD_TAG_LOCKED": "{{author}} You cannot trade `Tags` that contain locked cards",
+    "CARD_TAG_LOCKED": "{{author}} You cannot trade tags that contain locked cards",
     "MISSING_ITEMS": "{{user}} You have an insufficient amount of the following items:\n{{items}}",
     "MT_TRADE_ERROR": "⚠️Some of the provided items and cards in this trade window are no longer valid!"
 }
