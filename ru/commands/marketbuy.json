@@ -10,7 +10,7 @@
     "RATE": "Курс:",
     "ALREADY_IN_PURCHASE": "{{author}} У вас уже есть активное окно покупки",
     "PURCHASE_CANCELLED": "{{author}} Данное объявление больше не доступно",
-    "MISSING_GEMS": "{{author}} У вас недостаточно `{{currency}}` для данного процесса",
+    "MISSING_GEMS": "{{author}} У вас недостаточно **{{currency}}** для данного процесса",
     "SOMETHING_WRONG": "{{author}} Что-то пошло не так. Пожалуйста, попробуйте снова",
     "PURCHASE_SUCCESSFUL": "{{author}} Покупка **{{boughtCount}}** {{currency}} успешно совершена",
     "SUCCESS": "{{user}} Вы успешно продали **{{orderPrice}}** {{currency}} и получили **{{soldAmount}}** {{currencySoldEmoji}} ! | Идентификатор объявления: `{{dealId}}`",
