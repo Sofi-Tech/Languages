@@ -7,5 +7,5 @@
     "LONG_TAGNAME": "{{author}} El nombre de tu `Tag` solo puede tener **20** caracteres",
     "TAGNAME_EXISTS": "{{author}} Ya tienes un `Tag` con el nombre `{{tag}}`",
     "TAG_CREATED": "{{author}} Creado con éxito un `Tag` con el nombre: `{{tag}}` | {{emoji}}",
-    "TC_MAX_TAGS": "Has alcanzado el número máximo de tags que puedes crear. Borra algunos para crear más."
+    "TC_MAX_TAGS": "Has alcanzado el número máximo de Tags que puedes crear. Borra algunos para crear más."
 }
