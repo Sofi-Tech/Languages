@@ -2,11 +2,11 @@
     "DESCRIPTION": "Buys \"Items\" from Sofi's \"Shop\"",
     "SLASH_DESC": "Enter the name of the item you want to buy",
     "SLASH_DESC2": "Enter the amount",
-    "SLASH_DESC3": "Enter the code of the `Background` you want to buy. [ONLY WORKS IF THE ITEM IS SELECTED AS BACKGROUND]",
+    "SLASH_DESC3": "Enter the code of the Background you want to buy. [ONLY WORKS IF THE ITEM IS SELECTED AS BACKGROUND]",
     "NO_ITEM": "{{author}} Correct usage: `{{prefix}}buy <ItemName> <Amount>`",
-    "TRADEPASS_INFO": "Visit our website below to `Bump` and exchange your points for different items, including the `Trade Pass`",
+    "TRADEPASS_INFO": "Visit our website below to **Bump** and exchange your points for different items, including the `Trade Pass`",
     "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}buy bg <Background-ID> <Amount>`",
     "INVALID_BG_AMOUNT": "{{author}} You cannot buy a negative amount of an item",
-    "INVALID_BG_ID": "{{author}} The provided `Background`-ID is invalid",
+    "INVALID_BG_ID": "{{author}} Could not find any **Background** with that ID",
     "INVALID_ITEM_PROVIDED": "{{user}} The item you provided is invalid"
 }

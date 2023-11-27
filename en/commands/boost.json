@@ -2,5 +2,5 @@
     "BOOST_DESCRIPTION": "Displays the leaderboard of nitro boosts for the \"Sofi Cafe\" Server",
     "BOOST_CATEGORY": "Settings",
     "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Total Boosters",
-    "EMBED_FOOTER": "Discord Boosters & Donators are eligible to request new characters or 3D variants of existing characters.\nAdditional benefits include a Server Role, Colors for the \"{{prefix}}userinfo\" command and access to social commands!"
+    "EMBED_FOOTER": "Discord Boosters & Donators are eligible to request new characters or 3D variants of existing characters.\nAdditional benefits include a Server Role, Colors for the {{prefix}}userinfo command and access to social commands!"
 }
