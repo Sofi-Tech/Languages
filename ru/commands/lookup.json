@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Отображает варианты Версий/3D/GIF персонажа",
-    "CHAR_NOT_FOUND": "{{author}} Не удалось найти персонажа с именем: `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Не удалось найти персонажа с именем: `{{arg}}`\n\n```fix\nПримечание: Использование `-f` делает поиск более точным!\n```",
-    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP (`{{category}}`)",
+    "CHAR_NOT_FOUND": "{{author}} Не удалось найти персонажа с именем `{{arg}}`",
+    "CHAR_NF_SENSITIVE": "{{author}} Не удалось найти персонажа с именем `{{arg}}`\n\n```fix\nПримечание: Использование `-f` делает поиск более точным!\n```",
+    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP (**{{category}}**)",
     "SUBMITTED": "Предложил: <@{{userID}}>",
     "EMBED_FOOTER": "Найдите первую `Version` с помощью команды `scl`. Вы также можете добавить новые `Versions`, используя команду `ssc`",
     "VERSION_DISP": "Отображает {{version}} `Version` карты",
@@ -17,5 +17,5 @@
     "EVENTS": "События",
     "EVENT": "Событие",
     "UPCOMING_EVENT": "Предстоящее событие",
-    "NO_OWNER_FOUND": "Не найдено владельцев `2D` версий данного персонажа"
+    "NO_OWNER_FOUND": "Не найдено владельцев **2D** версии данного персонажа"
 }

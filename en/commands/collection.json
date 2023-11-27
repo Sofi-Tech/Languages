@@ -10,7 +10,7 @@
     "NO_RESULTS_OTHERS": "{{author}} That user does not have any cards in their collection",
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
     "NOTHING_FOUND": "Could not find any card",
-    "NOT_AVAILABLE": "`Invalid Series`",
+    "NOT_AVAILABLE": "Invalid Series",
     "CHOOSE_SORTING": "Sort by",
     "SORT_CHAR": "Name",
     "SORT_SERIES": "Series",
@@ -29,10 +29,10 @@
     "TAG_MODAL_LABEL": "Mass Tag",
     "TAG_MODAL_PLACEHOLDER": "Use a \"-\" to mass remove a \"Tag\" instead",
     "TAG_MODAL_TITLE": "Enter a \"Tag\"",
-    "TAG_NO_CARDS_FOUND": "{{author}} Could not find any cards with the `Tag`: `{{arg}}`",
-    "MASSTAG_WRONG_TAG": "{{author}} Could not find any `Tag` with the name: `{{arg}}`",
-    "ALL_UNTAG_SUCCESS": "{{author}} Successfully removed the following `Tag` from **{{taglength}}** cards: `{{tagName}}`",
-    "ALL_TAG_SUCCESS": "{{author}} Successfully added the following `Tag` to **{{taglength}}** cards: `{{tagName}}`",
+    "TAG_NO_CARDS_FOUND": "{{author}} Could not find any cards with the tag `{{arg}}`",
+    "MASSTAG_WRONG_TAG": "{{author}} Could not find any tag with the name `{{arg}}`",
+    "ALL_UNTAG_SUCCESS": "{{author}} Successfully removed the following tag from **{{taglength}}** cards `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} Successfully added the following tag to **{{taglength}}** cards `{{tagName}}`",
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} You don't have any `Tags` yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one"
+    "NO_TAG_FOUND": "{{author}} You don't have any tag yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one"
 }
