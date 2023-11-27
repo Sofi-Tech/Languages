@@ -1,13 +1,13 @@
 {
     "DESCRIPTION": "Claim your daily rewards",
     "CATEGORY": "Cards",
-    "EMBED_AUTHOR": "SOFI: **`DAILY`** REWARD ({{author}})",
-    "DAILY_ERROR": "You can claim your next `Daily` in **{{timeout}}**",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> **{{count}}x** more `Daily` claims left to receive a `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874> **{{count}}x** more `Daily` claims left to receive a `Rare Chest`\n",
+    "EMBED_AUTHOR": "SOFI: DAILY REWARD ({{author}})",
+    "DAILY_ERROR": "You can claim your next **Daily** in **{{timeout}}**",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> **{{count}}x** more **Daily** claims left to receive a **Common Chest**",
+    "RARE_CHEST": "<:rarechest:927204672270372874> **{{count}}x** more **Daily** claims left to receive a **Rare Chest**\n",
     "NOTE": "⚠️ Discord, as well as Sofi Staff will NEVER ask you for your password or advise you to change your E-Mail to a specific address. Beware of third-party discord BOTs that are often used for similar phishing attempts!\n\nAny suspicious activity should be immediately reported at {{link}}! ⚠️",
     "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Successfully claimed your `Daily` rewards!",
+    "DAILY_SUCCESS": "Successfully claimed your **Daily** rewards!",
     "GUILD_BONUS": "**(1.5x Server Bonus!)**",
     "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
 }
