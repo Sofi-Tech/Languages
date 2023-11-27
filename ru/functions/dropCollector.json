@@ -1,12 +1,12 @@
 {
     "GRAB_CARD": "{{winner}} отбился от {{user}} и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_EVENT_ITEM": "{{winner}} отбился от **{{userCount}}** других пользователей и получил **{{amount}}** `{{eventItem}}`",
-    "EXTRA_GRAB": "{{user}} Ваш дополнительный `Grab` использован. У вас осталось **{{remaining}}**",
+    "GRAB_EVENT_ITEM": "{{winner}} отбился от **{{userCount}}** других пользователей и получил **{{amount}}** **{{eventItem}}**",
+    "EXTRA_GRAB": "{{user}} Ваш дополнительный **Grab** использован. У вас осталось **{{remaining}}**",
     "GRAB_COOLDOWN": "{{user}} Подождите **{{cooldown}}**, чтобы подобрать другую карту",
-    "EVENT_GRAB": "{{user}} получил {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
+    "EVENT_GRAB": "{{user}} получил {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
     "TOOK_CARD": "{{user}} подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} Карты больше не могут быть **подобраны**",
-    "SNATCHED_EVENT_ITEM": "{{winner}} выхватил **{{amount}}** `{{eventItem}}` у <@{{userId}}>",
+    "SNATCHED_EVENT_ITEM": "{{winner}} выхватил **{{amount}}** **{{eventItem}}** у <@{{userId}}>",
     "CARDS_DROPPED_BY": "{{user}} **бросил** карты",
-    "GRAB_CARD_PLURAL": "{{winner}} отбился от **{{userCount}}** других пользователей и подобрал карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+    "GRAB_CARD_PLURAL": "{{winner}} отбился от **{{userCount}}** других пользователей и **grabbed** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }
