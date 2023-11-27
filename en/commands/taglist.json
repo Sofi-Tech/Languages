@@ -4,7 +4,7 @@
     "NO_USER": "{{author}} Could not find that user",
     "NO_TAGS_SELF": "{{author}} You don't have any tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
     "NO_TAGS": "{{author}} That user does not have any tags",
-    "EMBED_TITLE": "SOFI: `TAG` LIST ({{username}})",
+    "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "CARD_zero": "{{count}} card",
     "CARD_one": "{{count}} card",
     "CARD_two": "{{count}} cards",
