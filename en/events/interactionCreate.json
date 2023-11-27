@@ -14,7 +14,7 @@
     "COMMAND_BLACKLISTED": "{{author}} The `{{commandName}}` command is blacklisted in this channel",
     "REQUIRE_PERMISSIONS": "{{author}} You require: **{{permissions}}** permissions to execute this command",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wait for **{{cooldown}}** before using this command again",
-    "REGISTER_TO_PLAY": "{{author}} Please use the command `{{prefix}}register` to embark on your **Sofi** journey!",
+    "REGISTER_TO_PLAY": "{{author}} Please use the command `{{prefix}}register` to start your **Sofi** journey!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** is currently in safe mode! ETA: **{{eta}}**\nWe apologize for any inconveniences caused by this and ask for your patience!",
     "CATEGORY_DISABLED": "{{author}} This category has been disabled\nReason: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} This command has been disabled\nReason: `{{reason}}`",

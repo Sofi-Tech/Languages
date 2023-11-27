@@ -1,9 +1,9 @@
 {
     "LOTTERY_WON": "Congrats! You have won Sofi's {{event}} 2D Lottery! 🎃",
-    "MENTION_ERROR": "{{author}} Use the server prefix `{{prefix}}` or `/` in order to execute commands",
+    "MENTION_ERROR": "{{author}} Use the server prefix `{{prefix}}` or `/` in order to use commands",
     "SERVER_BLACKLISTED": "{{author}} The server is blacklisted. Please contact us on discord.gg/sofi",
     "RATE_LIMIT_ERROR": "{{author}} Due to high activity, the rate limit has been reached! Please wait.",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} have negative value in your inventory. Please contact us in discord.gg/sofi",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Your inventory has a negative value. Please contact us on our [Support Server](<https://discord.gg/sofi)",
     "VERIFY_BUTTON_LABEL": "Verify",
     "SUPPORT_BUTTON_LABEL": "Support",
     "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __You have been blacklisted for violating Sofi's rules!__\n\n**A list of possible reasons that may have caused this:**\n```CSS\n- Interacting with Sofi on multiple accounts (Alting)\n- Selling or Buying entire Discord accounts\n- Scamming other users\n- Taking advantage or being involved with any of the above activities\n```\n\n:link: [Appeal your blacklist](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
