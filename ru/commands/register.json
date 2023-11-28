@@ -1,7 +1,7 @@
 {
     "REGISTER_DESCRIPTION": "Пройдите проверку вашего аккаунта",
     "REGISTER_CATEGORY": "Настройки",
-    "ALREADY_REGISTERED": "{{author}} Вы уже зарегистрированы!",
+    "ALREADY_REGISTERED": "{{author}} Вы уже зарегистрированы",
     "AGREE_BUTTON_LABEL": "Согласен!",
     "DISAGREE_BUTTON_LABEL": "Отказываюсь!",
     "VERIFY_BUTTON_LABEL": "Проверка",
@@ -10,5 +10,5 @@
     "VISIT_SUPPORT": "Посетите наш [Сервер поддержки](https://discord.gg/XPsQKJjeD7 \"Sofi Cafe\"), чтобы получить больше информации",
     "EMBED_AUTHOR": "SOFI: REGISTER",
     "AGREE_TOS": "Соглашаясь с приведенным выше набором правил, вы принимаете [Условия использования Sofi](https://sofi.gg/terms \"Terms of Service\") и [Политику конфиденциальности Sofi](https://sofi.gg/privacy)",
-    "DM_MESSAGE": "## Добро пожаловать в сообщество Sofi!\n\nНиже вы найдете ссылки, которые помогут вам в путешествии по Sofi!\n\n- [Официальный Сервер поддержки Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Онлайн-руководство по Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Голосуйте каждый день, чтобы получать `Wists`](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"
+    "DM_MESSAGE": "## Добро пожаловать в сообщество Sofi!\n\nНиже вы найдете ссылки, которые помогут вам в путешествии по Sofi!\n\n- [Официальный Сервер поддержки Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Онлайн-руководство по Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Голосуйте каждый день, чтобы получать **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"
 }

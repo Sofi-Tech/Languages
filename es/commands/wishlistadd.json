@@ -1,11 +1,11 @@
 {
-  "DESCRIPTION": "Agrega personajes a tu lista de deseados",
-  "CATEGORY": "Lista de deseados",
-  "ADD_CHARACTERS_ERROR": "{{author}} No puedes agregar más personajes a tu lista de deseados",
-  "SEARCH_CHARACTER_ERROR": "{{author}} Uso correcto: `{{prefix}}wa <Nombre>`",
-  "NO_CHARACTER_FOUND": "{{author}} No se ha podido encontrar ese personaje. Utiliza el comando `{{prefix}}wa -f <Nombre>` para una búsqueda exacta",
-  "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ya está en tu lista de deseados",
-  "CHARACTER_ADDED": "{{author}} Se ha añadido con éxito a **{{name}}** a tu lista de deseados",
-  "EMBED_TITLE": "SOFI: WISHLISTADD",
-  "INCREASE_CAPACITY": "Usa el comando `{{prefix}}wu` o `{{prefix}}wu max` para aumentar la capacidad de tu lista de deseados"
+    "DESCRIPTION": "Agrega personajes a tu lista de deseados",
+    "CATEGORY": "Lista de deseados",
+    "ADD_CHARACTERS_ERROR": "{{author}} No puedes agregar más personajes a tu lista de deseados",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Uso correcto: `{{prefix}}wa <Nombre>`",
+    "NO_CHARACTER_FOUND": "{{author}} No se ha podido encontrar ese personaje. Utiliza el comando `{{prefix}}wa -f <Nombre>` para una búsqueda exacta",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ya está en tu lista de deseados",
+    "CHARACTER_ADDED": "{{author}} Se ha añadido con éxito a **{{name}}** a tu lista de deseados",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
+    "INCREASE_CAPACITY": "Usa el comando `{{prefix}}wu` o `{{prefix}}wu max` para aumentar la capacidad de tu lista de deseados"
 }

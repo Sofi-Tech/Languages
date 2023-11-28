@@ -1,11 +1,11 @@
 {
-    "TC_DESCRIPTION": "Crea un `Tag`",
+    "TC_DESCRIPTION": "Crea un tag",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}tc <NombreDelTag> <Emote>`",
     "INVALID_EMOJI": "{{author}} Ese emote no es válido",
-    "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu `Tag` tiene que ser alfanumérico y no puede contener caracteres especiales, espacios o insultos!",
-    "LONG_TAGNAME": "{{author}} El nombre de tu `Tag` solo puede tener **20** caracteres",
-    "TAGNAME_EXISTS": "{{author}} Ya tienes un `Tag` con el nombre `{{tag}}`",
-    "TAG_CREATED": "{{author}} Creado con éxito un `Tag` con el nombre: `{{tag}}` | {{emoji}}",
-    "TC_MAX_TAGS": "Has alcanzado el número máximo de Tags que puedes crear. Borra algunos para crear más."
+    "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu tag tiene que ser alfanumérico y no puede contener caracteres especiales, espacios o insultos",
+    "LONG_TAGNAME": "{{author}} El nombre de tu tag solo puede tener **20** caracteres",
+    "TAGNAME_EXISTS": "{{author}} Ya tienes un tag con el nombre `{{tag}}`",
+    "TAG_CREATED": "{{author}} Creado con éxito un tag con el nombre `{{tag}}` | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Has alcanzado el máximo de tags que puedes crear"
 }

@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Puedes mostrar tu colección con el comando `sc`\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por `Deseados`, `Gen` o el nombre de un `Tag`\n- Usa el comando `sc t:ut` para mostrar todas las cartas sin un tag en tu colección",
+    "DESCRIPTION": "Puedes mostrar tu colección con el comando `sc`\n- Tu colección puede ser ordenadas por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por `Deseados`, `Gen` o el nombre de un tag\n- Usa el comando `sc t:ut` para mostrar todas las cartas sin un tag en tu colección",
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Introduce los filtros que quieres aplicar a la colección",
@@ -23,7 +23,7 @@
     "ALL_UNTAG_SUCCESS": "{{author}} Eliminado con éxito el siguiente tag de **{{taglength}}** cartas `{{tagName}}`",
     "ALL_TAG_SUCCESS": "{{author}} Se ha añadido con éxito el siguiente tag a las **{{taglength}}** cartas `{{tagName}}`",
     "PLEASE_WAIT": "Por favor espera <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} Aún no tienes ningún Tag. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",
+    "NO_TAG_FOUND": "{{author}} Aún no tienes ningún tag. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",
     "NOT_AVAILABLE": "**Serie No Válida**",
     "NO_RESULTS_OTHERS": "{{author}} Ese usuario no tiene ninguna carta en su colección",
     "SORT_LEVEL": "Nivel",
@@ -31,8 +31,8 @@
     "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
     "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}",
     "TAG_MODAL_TITLE": "Introduce un \"Tag\"",
-    "TAG_MODAL_LABEL": "Añadir Tag En Masa",
-    "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el Tag `{{arg}}`",
+    "TAG_MODAL_LABEL": "Añadir tag En Masa",
+    "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el tag `{{arg}}`",
     "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" para eliminar un \"Tag\" en masa en su lugar",
-    "MASSTAG_WRONG_TAG": "{{author}} No se ha podido encontrar ningún Tag con el nombre: `{{arg}}`"
+    "MASSTAG_WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre: `{{arg}}`"
 }

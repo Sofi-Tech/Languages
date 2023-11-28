@@ -2,11 +2,11 @@
     "DESCRIPTION": "Ищет конкретные серии",
     "NO__LAST_CHAR_FOUND": "{{author}} У вас в коллекции пока нет ни одной карты",
     "NO_CHAR_FOUND": "{{author}} В данной серии пока нет персонажей",
-    "NO_SERIES_FOUND": "{{author}} Не удалось найти ни одной серии с названием: `{{name}}`",
+    "NO_SERIES_FOUND": "{{author}} Не удалось найти ни одной серии с названием `{{name}}`",
     "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} Произошла ошибка. Пожалуйста, попробуйте снова",
     "CARD_COLLECTED": "Собрано карт: **{{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Всего в списке желаемого: **{{wlCount}}**",
+    "TOTAL_WL": "Всего в списках желаемого: **{{wlCount}}**",
     "CHARACTERS": "**__Персонажи__**",
     "SERIES_NAME": "Название: **{{seriesName}}**"
 }

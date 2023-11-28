@@ -8,7 +8,7 @@
     "APPEAL_DENIED": "Después de investigar tu caso, hemos llegado a la conclusión de rechazar su apelación. Tu estado en la lista negra no se anulará y todas las nuevas apelaciones de ahora en adelante serán desestimadas.\n\n- Administración de Sofi",
     "COMMAND_RUN_ERROR": "{{author}} Se ha producido un error al intentar ejecutar este comando. Por favor, inténtalo de nuevo",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Tu inventario contiene un valor negativo! Por favor contacta con nuestros Desarrolladores en nuestro [Servidor de Soporte] (https://discord.gg/Sofi) para arreglar esto",
-    "REGISTER_TO_PLAY": "{{author}} Utilica el comando `{{prefix}}register` para embarcarte en tu viaje con **Sofi**!",
+    "REGISTER_TO_PLAY": "{{author}} Utilica el comando `{{prefix}}register` para empezar tu viaje con **Sofi**!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** está actualmente en modo seguro! ETA: **{{eta}}**\nPedimos disculpas por los inconvenientes causados por esto y te pedimos paciencia!",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Espera **{{cooldown}}** antes de usar el comando otra vez",
     "REQUIRE_PERMISSIONS": "{{author}} Necesitas: **{{permissions}}** permisos para ejecutar este comando",

@@ -47,7 +47,7 @@
     "NOT_DUPLICATE": "{{author}} Los siguientes códigos de carta no son duplicados del mismo personaje:\n> `{{dupeCode}}`",
     "EFFECTIVE_REROLL": "{{author}} La potencia de `{{attackName}}` fue regenerada: **{{effectiveNess}}%** 🠚 **{{newEffective}}%**",
     "CANNOT_EXCEED_POINTS": "{{author}} Puedes asignar un máximo de **120** {{stat}} puntos a una carta",
-    "DUPLICATE_MODAL_TITLE": "SOFI: STATS",
+    "DUPLICATE_MODAL_TITLE": "Level Up",
     "RESET_STATS_MODAL_LABEL": "¿Está seguro de que quieres restablecer las estadísticas de su carta?",
     "RESET_STATS_MODAL_PLACEHOLDER": "Yes/No",
     "RESET_STATS_MODAL_TITLE": "Resetear Estadísticas:",

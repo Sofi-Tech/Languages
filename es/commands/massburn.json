@@ -1,14 +1,14 @@
 {
-  "DESCRIPTION": "Quema multitud de cartas a la vez",
-  "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo `massburn` mientras el anterior sigue activo",
-  "PROVIDE_FILTERS": "{{author}} Uso correcto: `{{prefix}}mb <Filtros>`\n\n```\nNota: Puedes encontrar una lista completa de filtros con el comando \"{{prefix}}help filters\"\n```",
-  "WRONG_TAG": "{{author}} No se ha podido encontrar ningún `Tag` con el nombre: `{{arg}}`",
-  "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda",
-  "CARDS_BURNED": "__Cartas Seleccionadas [ {{totalCards}} ]__",
-  "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar irreversiblemente estas cartas?",
-  "MISSING_CARDS": "{{author}} Al menos una de las cartas seleccionadas ya no está en tu colección",
-  "SUCCESS": "{{author}} Has quemado con éxito las cartas seleccionadas",
-  "BURN_REWARDS": "__Recompensas__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} Las cartas que están bloqueadas, contienen un GIF o están seleccionadas para el deck no se pueden quemar."
+    "DESCRIPTION": "Quema multitud de cartas a la vez",
+    "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo **Massburn** mientras uno anterior sigue activo",
+    "PROVIDE_FILTERS": "{{author}} Uso correcto: `{{prefix}}mb <Filtros>`\n\n```\nNota: Puedes encontrar una lista completa de filtros con el comando \"{{prefix}}help filters\"\n```",
+    "WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda",
+    "CARDS_BURNED": "__Cartas Seleccionadas [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar irreversiblemente estas cartas?",
+    "MISSING_CARDS": "{{author}} Al menos una de las cartas seleccionadas ya no está en tu colección",
+    "SUCCESS": "{{author}} Has quemado con éxito las cartas seleccionadas",
+    "BURN_REWARDS": "__Recompensas__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Las cartas bloqueadas, utilizadas en un mazo o las variantes **GIF** no se pueden quemar"
 }
