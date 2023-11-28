@@ -1,10 +1,10 @@
 {
     "DESCRIPTION": "Brûlez vos cartes pour obtenir des \"Crystals\" et des \"Silver\", qui peuvent être utilisés pour fabriquer des \"Cubes\" ou pour acheter divers autres \"items\" dans le Bot. La commande \"sb\" utilisée seule brûlera la dernière carte obtenue",
-    "GUILDSTONE_BURN": "Êtes-vous sûr de vouloir burn votre `Guild Stone`?",
-    "GUILDSTONE_NOT_FOUND": "{{author}} Vous n'avez pas de `Guild Stone`",
+    "GUILDSTONE_BURN": "Êtes-vous sûr de vouloir burn votre **Guild Stone**?",
+    "GUILDSTONE_NOT_FOUND": "{{author}} Vous n'avez pas de **Guild Stone**",
     "CANCELLED": "Le processus a été annulé",
-    "BURN_FRAG_WARN": "Voulez-vous vraiment burn ce \"Fragment\" ?\n\nNom : **{{characterName}}**\nSérie : **{{seriesName}}**\nCode : `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "{{author}} Le code du `Fragment` que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "BURN_FRAG_WARN": "Voulez-vous vraiment burn ce **Fragment**?\n\nNom: **{{characterName}}**\nSérie: **{{seriesName}}**\nCode: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "{{author}} Le code du **Fragment** que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CARD_NOT_FOUND": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CARD_LOCKED": "{{author}} Cette carte est verrouillée et ne peut pas être burn",
     "CARD_NOT_OWNED": "{{author}} Cette carte n'est plus dans votre collection",
@@ -12,9 +12,9 @@
     "NAME": "Nom:",
     "BURN_REWARDS": "__Récompenses__",
     "SUCCESSFUL_CARD_BURN": "{{author}} Votre carte a été burn avec succès",
-    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Votre `Fragment` a été burn avec succès",
+    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Votre **Fragment** a été burn avec succès",
     "EMBED_TITLE": "SOFI: BURN",
-    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Votre `Guild Stone` a été burn avec succès",
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Votre **Guild Stone** a été burn avec succès",
     "BURN_CARD_LOCKED": "{{author}} Cette carte est actuellement utilisée dans un deck et ne peut pas être burn",
-    "GIF_CARD": "{{author}} Vous ne pouvez pas burn une carte GIF"
+    "GIF_CARD": "{{author}} Vous ne pouvez pas burn une carte **GIF**"
 }
