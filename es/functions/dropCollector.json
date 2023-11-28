@@ -4,9 +4,9 @@
     "GRAB_CARD_PLURAL": "{{winner}} peleó contra otros **{{userCount}}** jugadores y obtuvo la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_EVENT_ITEM": "{{winner}} peleó contra otros **{{userCount}}** usuarios y obtuvo **{{amount}}** **{{eventItem}}**",
     "EVENT_GRAB": "{{user}} obtuvo {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
-    "TOOK_CARD": "{{user}} obtuvo la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "TOOK_CARD": "{{user}} **obtuvo** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} arrebató **{{amount}}** **{{eventItem}}** a <@{{userId}}>",
-    "GRAB_CARD": "{{winner}} peleó contra {{user}} y obtuvo la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD": "{{winner}} peleó contra {{user}} y **obtuvo** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} Las cartas de abajo ya no pueden ser **obtenidas**",
     "CARDS_DROPPED_BY": "{{user}} ha **dropeado** cartas"
 }

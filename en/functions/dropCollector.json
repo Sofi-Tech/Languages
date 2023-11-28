@@ -2,10 +2,10 @@
     "EXTRA_GRAB": "{{user}} Your extra **Grab** is being used. You have **{{remaining}}** remaining",
     "GRAB_COOLDOWN": "{{user}} You must wait **{{cooldown}}** to grab another card",
     "EVENT_GRAB": "{{user}} received {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
-    "TOOK_CARD": "{{user}} took the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "TOOK_CARD": "{{user}} **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} snatched **{{amount}}** **{{eventItem}}** from <@{{userId}}>",
     "GRAB_EVENT_ITEM": "{{winner}} fought off **{{userCount}}** other users and received **{{amount}}** **{{eventItem}}**",
-    "GRAB_CARD": "{{winner}} fought off {{user}} and claimed the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} The cards below can no longer be **grabbed**",
     "CARDS_DROPPED_BY": "{{user}} has **dropped** cards",
     "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
