@@ -14,7 +14,7 @@
     "WHITELISTING_INFO": "Liste blanche: Autoriser uniquement l'utilisation de commandes spécifiques dans ce salon",
     "WHITELISTING_USAGE": "Utilisation: `{{prefix}}p wl add/rem <NomCommande/All>`\n",
     "RESET_USAGE": "Réinitialiser: Rétablit les autorisations aux paramètres par défaut\nUtilisation : `{{prefix}}p reset`",
-    "WHITELISTED_COMMANDS": "**__Commandes Sur Liste Blanche__**",
+    "WHITELISTED_COMMANDS": "**__Commandes sur Liste Blanche__**",
     "ADD_COMMANDS_INFO": "Ajouter: Ajouter des commandes supplémentaires de la **{{listName}}**\n",
     "PERMISSION_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}p [BL/WL] [Add/Rem] <NomCommande/All>`",
     "SOME_COMMANDS_BLACKLISTED": "{{author}} Vous avez déjà mis des commandes sur liste noire dans ce salon! Utilisez la commande `{{prefix}}p reset` pour définir l'état des permissions de ce salon par défaut",

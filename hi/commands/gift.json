@@ -1,14 +1,14 @@
 {
-  "GIFT_CATEGORY": "CARDS",
-  "GIFT_SLASH_DESC": "उपयोगकर्ता को चुने जिनको आपको `{{eventItem}}` भेंट में देना चाहते है।",
-  "INVALID_AMOUNT": "{{author}} आप नकारात्मक मात्रा में आइटम भेंट में नहीं दे सकते है।",
-  "GIFT_SLASH_DESC2": "`{{eventItem}}` राशि दर्ज करे जितना आप भेंट करना चाहते है।",
-  "GIFT_WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gift <@User/UserID> <Amount>`",
-  "INVALID_USER": "{{author}} आप खुदको `{{eventItem}}` भेंट नहीं दे सकते है।",
-  "NOT_ENOUGH_ITEM": "{{author}} आपके पास **{{amount}}** `{{eventItem}}` नही है।",
-  "PLAYER_NOT_EXISTS": "{{author}} वह उपयोगकर्ता पंजीकृत नही है।",
-  "GIFT_SUCCESSFUL": "{{author}} ने सफतलापूर्वक **{{amount}}**`{{eventItem}}` {{user}} को भेंट किए\n{{user}} को कुल **{{recieveCount}}** `{{eventItem}}` मिल चुके है।",
-  "EMBED_TITLE": "SOFI: GIFT",
-  "GIFT_DESCRIPTION": "अन्य उपयोगकर्ताओं को Event Items भेंट करे।",
-  "NO_ACTIVE_EVENT": "{{author}} अभी कोई सक्रिय Event मौजूद नही है।"
+    "GIFT_CATEGORY": "CARDS",
+    "GIFT_SLASH_DESC": "उपयोगकर्ता को चुने जिनको आपको {{eventItem}} भेंट में देना चाहते है।",
+    "INVALID_AMOUNT": "{{author}} आप नकारात्मक मात्रा में आइटम भेंट में नहीं दे सकते है।",
+    "GIFT_SLASH_DESC2": "`{{eventItem}}` राशि दर्ज करे जितना आप भेंट करना चाहते है।",
+    "GIFT_WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gift <@User/UserID> <Amount>`",
+    "INVALID_USER": "{{author}} आप खुदको **{{eventItem}}** भेंट नहीं दे सकते है।",
+    "NOT_ENOUGH_ITEM": "{{author}} आपके पास **{{amount}} {{eventItem}}** नही है।",
+    "PLAYER_NOT_EXISTS": "{{author}} वह उपयोगकर्ता पंजीकृत नही है।",
+    "GIFT_SUCCESSFUL": "{{author}} ने सफतलापूर्वक **{{amount}}** **{{eventItem}}** {{user}} को भेंट किए\n{{user}} को कुल **{{recieveCount}}** **{{eventItem}}** मिल चुके है।",
+    "EMBED_TITLE": "SOFI: GIFT",
+    "GIFT_DESCRIPTION": "अन्य उपयोगकर्ताओं को Event Items भेंट करे।",
+    "NO_ACTIVE_EVENT": "{{author}} अभी कोई सक्रिय Event मौजूद नही है।"
 }

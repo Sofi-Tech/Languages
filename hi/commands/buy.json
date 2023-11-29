@@ -2,11 +2,11 @@
     "DESCRIPTION": "Shop से Items खरीदता है।",
     "SLASH_DESC": "जिस आइटम को खरीदना चाहते है उसका नाम दर्ज करे।",
     "SLASH_DESC2": "मात्रा दर्ज करें",
-    "SLASH_DESC3": "वह `Background` कोड दर्ज करें जिसे आप खरीदना चाहते हैं। [केवल तभी काम करता है जब आइटम को Background के रूप में चुना गया हो]",
+    "SLASH_DESC3": "वह Background कोड दर्ज करें जिसे आप खरीदना चाहते हैं। [केवल तभी काम करता है जब आइटम को Background के रूप में चुना गया हो]",
     "NO_ITEM": "{{author}} सही उपयोग: `{{prefix}}buy <ItemName> <Amount>`",
-    "TRADEPASS_INFO": "हमारी वेबसाइट पर पहुंच कर `Bump` करे और पॉइंट्स के बदले में विभिन्न प्रकार के आइटम खरीदे जिसमे `Trade Pass` भी शामिल है।",
+    "TRADEPASS_INFO": "हमारी वेबसाइट पर पहुंच कर **Bump** करे और पॉइंट्स के बदले में विभिन्न प्रकार के आइटम खरीदे जिसमे **Trade Pass** भी शामिल है।",
     "CORRECT_USAGE": "{{user}} सही उपयोग: `{{prefix}}buy bg <Background-ID> <Amount>`",
     "INVALID_BG_AMOUNT": "{{author}} आप एक नकारात्मक संख्या दर्ज नहीं कर सकते है।",
-    "INVALID_BG_ID": "{{author}} यह `Background`-ID अमान्य है।",
+    "INVALID_BG_ID": "{{author}} उस ID से कोई **Background** नही मिला।",
     "INVALID_ITEM_PROVIDED": "{{user}} प्रदान किया गया आइटम अमान्य है।"
 }
