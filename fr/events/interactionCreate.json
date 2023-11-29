@@ -6,7 +6,7 @@
     "COMMAND_DISABLED": "{{author}} Cette commande a été désactivée\nRaison: `{{reason}}`",
     "REQUIRE_PERMISSIONS": "{{author}} Vous avez besoin de la permission **{{permissions}}** pour exécuter cette commande",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendez **{{cooldown}}** avant d'utiliser cette commande à nouveau",
-    "REGISTER_TO_PLAY": "{{author}} Veuillez utiliser la commande `{{prefix}}register` pour vous lancer dans votre voyage **Sofi**!",
+    "REGISTER_TO_PLAY": "{{author}} Veuillez utiliser la commande `{{prefix}}register` pour vous débuter votre voyage **Sofi**!",
     "COMPLETE_COMMAND": "{{author}} Complétez d'abord la commande `{{command}}`!",
     "COMMAND_RUN_ERROR": "{{author}} Une erreur s'est produite lors de la tentative d'exécution de cette commande. Veuillez réessayer",
     "VERIFY_TO_PLAY": "[Vérifiez-vous sur notre site Web pour jouer!](<https://sofi.gg/verify>)",

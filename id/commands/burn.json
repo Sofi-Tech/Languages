@@ -1,20 +1,20 @@
 {
     "DESCRIPTION": "Bakar kartu anda untuk mendapatkan \"Crystals\" dan \"Silver\" yang dapat digunakan untuk membuat \"Cubes\" atau membeli berbagai \"item\" di Bot. Menggunakan perintah \"sb\" dengan sendirinya akan mencoba membakar kartu terbaru Anda",
-    "GUILDSTONE_BURN": "Apakah anda yakin ingin melebur `Guild Stone` anda?",
-    "GUILDSTONE_NOT_FOUND": "{{author}} Anda tidak memiliki `Guild Stone`",
+    "GUILDSTONE_BURN": "Apakah anda yakin ingin membakar **Guild Stone** anda?",
+    "GUILDSTONE_NOT_FOUND": "{{author}} Anda tidak memiliki **Guild Stone**",
     "CANCELLED": "Proses telah dibatalkan",
-    "BURN_FRAG_WARN": "Apakah Anda yakin ingin membakar `Fragment` ini?\n\nNama: **{{characterName}}**\nSeri: **{{seriesName}}**\nKode: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "{{author}} Kode `Fragment` yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
+    "BURN_FRAG_WARN": "Apakah Anda yakin ingin membakar **Fragment** ini?\n\nNama: **{{characterName}}**\nSeri: **{{seriesName}}**\nKode: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "{{author}} Kode **Fragment** yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "CARD_NOT_FOUND": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "CARD_LOCKED": "{{author}} Kartu tersebut terkunci dan tidak dapat dilebur",
     "CARD_NOT_OWNED": "{{author}} Kartu tersebut sudah tidak ada lagi dalam koleksi anda",
     "EMBED_TITLE": "SOFI: BURN",
     "SERIES": "Seri:",
-    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Berhasil membakar `Fragment` anda",
+    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Berhasil membakar **Fragment** anda",
     "BURN_REWARDS": "__Hadiah__",
     "SUCCESSFUL_CARD_BURN": "{{author}} Berhasil membakar kartu anda",
     "BURN_CARD_LOCKED": "{{author}} Kartu tersebut saat ini digunakan dalam dek dan tidak dapat dibakar",
     "NAME": "Nama:",
-    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Berhasil membakar `Guild Stone` anda",
-    "GIF_CARD": "{{author}} Anda tidak dapat membakar kartu GIF"
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Berhasil membakar **Guild Stone** anda",
+    "GIF_CARD": "{{author}} Anda tidak dapat membakar kartu **GIF**"
 }

@@ -20,7 +20,7 @@
     "UNAVAILABLE": "Vide",
     "NAME": "Nom:",
     "SERIES": "Série:",
-    "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit!",
+    "NOT_REGISTERED": "{{author}} Cet utilisateur n'est pas inscrit",
     "MEMBER_NOT_VERIFIED": "{{author}} Cet utilisateur n'est pas vérifié",
     "ATTACK": "Attaque",
     "DEFENSE": "Défense",
@@ -29,11 +29,11 @@
     "NEGATIVE_AMOUNT": "{{author}} Vous ne pouvez pas acheter une quantité négative d'item",
     "AUTHOR_UNVERIFIED": "{{author}} Vous n'êtes pas vérifié",
     "ERROR": "{{author}} Une erreur est survenue. Veuillez réessayer.",
-    "AUTHOR_BLACKLISTED": "{{author}} Vous êtes sur liste noir",
-    "MEMBER_BLACKLISTED": "{{author}} Cet utilisateur est sur liste noir!",
+    "AUTHOR_BLACKLISTED": "{{author}} Vous êtes sur liste noire",
+    "MEMBER_BLACKLISTED": "{{author}} Cet utilisateur est sur liste noire!",
     "AUTHOR_QUARANTINED": "{{author}} Vous êtes en quarantaine",
     "MEMBER_QUARANTINED": "{{author}} Cet utilisateur est en quarantaine",
-    "AN": "Un",
-    "A": "Un",
-    "THE": "Le"
+    "AN": "un",
+    "A": "un",
+    "THE": "le"
 }
