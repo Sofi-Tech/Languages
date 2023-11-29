@@ -20,7 +20,7 @@
     "WHITELISTED_COMMANDS": "**__Comandos en la Lista Blanca__**",
     "REMOVE_COMMANDS_INFO": "Eliminar: Elimina comandos específicos de la **{{listName}}**\n",
     "BLACKLISTED_COMMANDS": "**__Comandos en la Lista Negra__**",
-    "NOT_BLACKLISTED_YET": "{{author}} Aún no hay comandos en la Lista negra",
+    "NOT_BLACKLISTED_YET": "{{author}} Aún no has añadido ningún comando a la Lista negra",
     "SOME_COMMANDS_BLACKLISTED": "{{author}} Ya tienes comandos en la lista negra de este canal! Usa el comando `{{prefix}}p reset` para establecer los permisos de este canal al valor por defecto",
     "NOT_WHITELISTED_YET": "{{author}} Aún no hay comandos en la lista blanca",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Restablecido con éxito el estado de los permisos de este canal",
