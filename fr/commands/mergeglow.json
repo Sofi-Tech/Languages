@@ -1,5 +1,5 @@
 {
-  "MG_DESCRIPTION": "\"Merges\" 4 \"Glows\" uniques afin d'obtenir un \"Resin\"",
+  "MERGEGLOW_DESCRIPTION": "\"Merges\" 4 \"Glows\" uniques afin d'obtenir un \"Resin\"",
   "MG_CATEGORY": "Cosmetiques",
   "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}mg <CodeDeGlow1> <CodeDeGlow2> <CodeDeGlow3> <CodeDeGlow4>`",
   "GLOWS_UNAVAILABLE": "{{author}} Au moins un des codes de `Glow` fournis est vide",

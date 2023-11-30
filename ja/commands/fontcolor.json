@@ -1,5 +1,5 @@
 {
-  "FC_DESCRIPTION": "「Glow」を適用してカードの文字カラーを変更します",
+  "FONTCOLOR_DESCRIPTION": "「Glow」を適用してカードの文字カラーを変更します",
   "FC_CATEGORY": "コスメティック",
   "WRONG_USAGE": "{{author}} 正しい使い方：`{{prefix}}fc <CardCode> <GlowCode>`",
   "NOT_CARD_OWNER": "{{author}} 入力されたカードコードが無効か、またはインベントリーに見つかりませんでした",

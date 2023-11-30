@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Queima muitas cartas de uma vez",
+  "MASSBURN_DESCRIPTION": "Queima muitas cartas de uma vez",
   "IN_ACTIVE_MB": "{{user}} Você não pode começar um novo massburn enquanto já tem um ativo. Por favor, prossiga ou cancele o massburn ativo primeiro",
   "PROVIDE_FILTERS": "Forneça os filtros que deseja aplicar para o processo de queimar! `t=<TagName>, g><=gen, wl><=wishlist`",
   "WRONG_TAG": "{{author}} A `Tag` fornecida é inválida",

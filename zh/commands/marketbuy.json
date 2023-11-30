@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "从市场购买交易",
+  "MARKETBUY_DESCRIPTION": "从市场购买交易",
   "CORRECT_USAGE": "{{author}}正确的使用方法：{{prefix}}mp <deal id> [wist数量]",
   "INVALID_DEAL_ID": "{{author}} 您提供的 Order-ID 无效",
   "CANNOT_PURCHASE": "{{user}} |您无法与此订单互动",

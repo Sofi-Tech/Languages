@@ -1,9 +1,9 @@
 {
-    "UT_DESCRIPTION": "Удаляет \"Tags\" с ваших карт",
-    "UT_CATEGORY": "Tags",
-    "UT_EMPTY_COLLECTION": "{{author}} У вас в коллекции пока нет ни одной карты",
-    "UNTAG_SUCCESSFUL": "{{author}} Отметка успешно удалена с вашей карты **{{cardName}}**",
-    "INVALID_CODE": "{{author}} Данный код карты недействителен или не является частью вашей коллекции",
-    "MULTIPLE_UNTAG": "{{author}} Отметка успешно удалена с **{{count}}** карт",
-    "INVALID_CODE_MULTIPLE": "{{author}} Следующие коды карт недействительны или не являются частью вашей коллекции:\n{{invalidCodeList}}"
+  "UNTAG_DESCRIPTION": "Удаляет \"Tags\" с ваших карт",
+  "UT_CATEGORY": "Tags",
+  "UT_EMPTY_COLLECTION": "{{author}} У вас в коллекции пока нет ни одной карты",
+  "UNTAG_SUCCESSFUL": "{{author}} Отметка успешно удалена с вашей карты **{{cardName}}**",
+  "INVALID_CODE": "{{author}} Данный код карты недействителен или не является частью вашей коллекции",
+  "MULTIPLE_UNTAG": "{{author}} Отметка успешно удалена с **{{count}}** карт",
+  "INVALID_CODE_MULTIPLE": "{{author}} Следующие коды карт недействительны или не являются частью вашей коллекции:\n{{invalidCodeList}}"
 }

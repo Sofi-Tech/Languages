@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Mencari seri spesifik",
-    "NO__LAST_CHAR_FOUND": "{{author}} Belum ada kartu apapun pada koleksi anda",
-    "NO_CHAR_FOUND": "{{author}} Seri ini belum memiliki karakter apapun",
-    "NO_SERIES_FOUND": "{{author}} Tidak dapat menemukan seri dengan nama:` {{name}}`",
-    "SERIES": "SOFI: SERIES LOOKUP",
-    "ERROR": "{{author}} Terjadi kesalahan. Silakan coba lagi",
-    "CARD_COLLECTED": "Kartu Terkumpul:** {{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Total daftar keinginan: **{{wlCount}}**",
-    "CHARACTERS": "**__Karakter__**",
-    "SERIES_NAME": "Nama: **{{seriesName}}**"
+  "SERIESLOOKUP_DESCRIPTION": "Mencari seri spesifik",
+  "NO__LAST_CHAR_FOUND": "{{author}} Belum ada kartu apapun pada koleksi anda",
+  "NO_CHAR_FOUND": "{{author}} Seri ini belum memiliki karakter apapun",
+  "NO_SERIES_FOUND": "{{author}} Tidak dapat menemukan seri dengan nama:` {{name}}`",
+  "SERIES": "SOFI: SERIES LOOKUP",
+  "ERROR": "{{author}} Terjadi kesalahan. Silakan coba lagi",
+  "CARD_COLLECTED": "Kartu Terkumpul:** {{collected}}/{{totalCards}}**",
+  "TOTAL_WL": "Total daftar keinginan: **{{wlCount}}**",
+  "CHARACTERS": "**__Karakter__**",
+  "SERIES_NAME": "Nama: **{{seriesName}}**"
 }

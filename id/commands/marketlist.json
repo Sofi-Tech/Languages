@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Menjual \"Wists\" anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
+  "MARKETLIST_DESCRIPTION": "Menjual \"Wists\" anda di pasar, yang kemudian dapat dibeli dari pemain lain dengan \"Gems\"",
   "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <Jumlah> <Rats>`",
   "INVALID_GEM_RATE": "{{user}} Harga yang anda berikan tidak valid",
   "GEM_RATE_LIES": "{{user}} Kurs yang diberikan harus antara **3.0 - 20.0**",

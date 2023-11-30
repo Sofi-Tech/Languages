@@ -1,7 +1,7 @@
 {
-    "RM_DESCRIPTION": "Active vos rappels",
-    "RM_CATEGORY": "Réglages",
-    "PROVIDE_REMINDER_NAME": "{{author}} Utilisation correcte: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_DISABLED": "{{author}} Vous ne serez plus averti lorsque votre **`{{reminder}}`** sera prêt",
-    "REMINDER_ENABLED": "{{author}} Vous serez désormais averti lorsque votre **`{{reminder}}`** sera prêt"
+  "TOGGLEREMINDER_DESCRIPTION": "Active vos rappels",
+  "RM_CATEGORY": "Réglages",
+  "PROVIDE_REMINDER_NAME": "{{author}} Utilisation correcte: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_DISABLED": "{{author}} Vous ne serez plus averti lorsque votre **`{{reminder}}`** sera prêt",
+  "REMINDER_ENABLED": "{{author}} Vous serez désormais averti lorsque votre **`{{reminder}}`** sera prêt"
 }

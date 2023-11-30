@@ -4,7 +4,7 @@
   "SF_LINK_INFO": "<:_:979009081325019156> 提交的图片必须使用官方 Discord 链接，例如 `cdn.discordapp.com` 或 `media.discordapp.net`",
   "SF_ATTACHMENT_INFO": "<:_:979009081325019156>您可以下载测试[框架](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) & [图片](https://cdn.discordapp.com/attachments/870354581115256852/95702591213260 8010/ ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg）以更好地了解我们的要求",
   "SF_PNG_ONLY": "{{author}} 提交的链接必须是“PNG”文件",
-  "SF_DESCRIPTION": "提交“框架”",
+  "SUBMITFRAME_DESCRIPTION": "提交“框架”",
   "SUBMIT_FRAME_SUCCESSFUL": "{{author}} `Frame` 已成功提交",
   "SF_CATEGORY": "设置",
   "SF_CORRECT_USAGE": "{{author}} 正确用法：`{{prefix}}sf <ImageURL> <FrameName>`",

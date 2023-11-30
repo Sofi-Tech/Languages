@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
+  "MASSBURN_DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
   "IN_ACTIVE_MB": "{{user}} Hindi ka maaring mag simula ng panibagong `mass burn` habang aktibo pa yung dati",
   "PROVIDE_FILTERS": "{{author}} Tamang pag-gamit: `{{prefix}}mb<Filters>`\n\n```fix\nNote: Maaari kang makakita ng ibat ibang uri ng listahan ng mga filters gamit ang command na \"{{prefix}}help filters\"\n```",
   "WRONG_TAG": "{{author}} Walang makitang kahit anong `Tag` na may ganiyang pangalan: `{{arg}}`",

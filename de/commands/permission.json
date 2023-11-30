@@ -5,7 +5,7 @@
   "PERMS_CATEGORY": "Einstellungen",
   "ADD_BUTTON_LABEL": "Hinzufügen",
   "BLACKLIST_BUTTON_LABEL": "Blacklist",
-  "PERMS_DESCRIPTION": "Ermöglicht dir, bestimmte Befehle im Kanal auf die Whitelist oder Blacklist zu setzen.",
+  "PERMISSION_DESCRIPTION": "Ermöglicht dir, bestimmte Befehle im Kanal auf die Whitelist oder Blacklist zu setzen.",
   "WHITELIST_BUTTON_LABEL": "Whitelist",
   "BLACKLISTING_INFO": "Blacklist: Schränkt die Benutzung von Befehlen in diesem Kanal ein",
   "BLACKLISTING_USAGE": "Verwendung: `{{prefix}}p bl add/rem <CommandName/All>`\n",

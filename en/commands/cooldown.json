@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Displays the cooldown for these actions:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Click on the bell icons to receive Direct Message reminders for \"Drop\", \"Vote\" and \"Daily\"!",
+  "COOLDOWN_DESCRIPTION": "Displays the cooldown for these actions:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Click on the bell icons to receive Direct Message reminders for \"Drop\", \"Vote\" and \"Daily\"!",
   "JOIN_SUPPORT_SERVER": "**[Join our official server for help!](https://discord.gg/sofi)**",
   "READY": "Ready",
   "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",

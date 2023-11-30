@@ -1,14 +1,14 @@
 {
-    "SI_DESCRIPTION": "Sunucunun istatistiklerini görüntüler",
-    "SI_CATEGORY": "Ayarlar",
-    "SI_TOP_SERVERS": "**En İyi Sunucular** | Sıfırlanmasına: **{{countdown}}**",
-    "EMBED_AUTHOR": "SOFI: SUNUCU BİLGİSİ | {{guildName}}",
-    "SI_SPAWN_CHANNEL": "Spawn Kanalı",
-    "SI_TOTAL_DROPS": "Toplam Droplama",
-    "SI_TOTAL_BURNT": "Toplam Yakılan",
-    "SI_TOTAL_GRABS": "Toplam Grablanma",
-    "SI_TOTAL_GIVEN": "Toplam Verilen",
-    "SI_TOTAL_TRADES": "Toplam İşlemler",
-    "SI_NAME_UNAVAILABLE": "İsim Mevcut Değil",
-    "EMBED_FOOTER": "Sunucu Öneki: \"{{prefix}}\""
+  "SERVERINFO_DESCRIPTION": "Sunucunun istatistiklerini görüntüler",
+  "SI_CATEGORY": "Ayarlar",
+  "SI_TOP_SERVERS": "**En İyi Sunucular** | Sıfırlanmasına: **{{countdown}}**",
+  "EMBED_AUTHOR": "SOFI: SUNUCU BİLGİSİ | {{guildName}}",
+  "SI_SPAWN_CHANNEL": "Spawn Kanalı",
+  "SI_TOTAL_DROPS": "Toplam Droplama",
+  "SI_TOTAL_BURNT": "Toplam Yakılan",
+  "SI_TOTAL_GRABS": "Toplam Grablanma",
+  "SI_TOTAL_GIVEN": "Toplam Verilen",
+  "SI_TOTAL_TRADES": "Toplam İşlemler",
+  "SI_NAME_UNAVAILABLE": "İsim Mevcut Değil",
+  "EMBED_FOOTER": "Sunucu Öneki: \"{{prefix}}\""
 }

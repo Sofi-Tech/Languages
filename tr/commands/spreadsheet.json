@@ -1,9 +1,9 @@
 {
-    "SHEET_DESCRIPTION": "Koleksiyonunuzun bir ''.csv'' dosyasını oluşturur",
-    "SHEET_CATEGORY": "Ayarlar",
-    "NO_GUILD_INFO": "{{author}} Şu anda bir klanda değilsiniz",
-    "DM_FILE": "{{author}} Size DM yoluyla bir .csv dosyası gönderildi\n\n> **Not**: Dosyayı excel veya elektronik tablo programlarına aktarırken, ayırıcıyı \"virgül\" olarak ayarladığınızdan emin olun!",
-    "NO_VAULT_LOGS": "{{author}} Şu anda kasa günlüğü yok",
-    "CANNOT_DM": "{{author}} E-tablo dosyası size gönderilemedi. DM nizin açık olduğundan emin olun!",
-    "NO_COLLECTION": "{{author}} Koleksiyonunuzda hiç kart yok"
+  "SPREADSHEET_DESCRIPTION": "Koleksiyonunuzun bir ''.csv'' dosyasını oluşturur",
+  "SHEET_CATEGORY": "Ayarlar",
+  "NO_GUILD_INFO": "{{author}} Şu anda bir klanda değilsiniz",
+  "DM_FILE": "{{author}} Size DM yoluyla bir .csv dosyası gönderildi\n\n> **Not**: Dosyayı excel veya elektronik tablo programlarına aktarırken, ayırıcıyı \"virgül\" olarak ayarladığınızdan emin olun!",
+  "NO_VAULT_LOGS": "{{author}} Şu anda kasa günlüğü yok",
+  "CANNOT_DM": "{{author}} E-tablo dosyası size gönderilemedi. DM nizin açık olduğundan emin olun!",
+  "NO_COLLECTION": "{{author}} Koleksiyonunuzda hiç kart yok"
 }

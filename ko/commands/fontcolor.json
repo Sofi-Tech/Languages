@@ -1,5 +1,5 @@
 {
-  "FC_DESCRIPTION": "\"Glow\"를 적용하여 카드의 폰트 색상을 변경합니다.",
+  "FONTCOLOR_DESCRIPTION": "\"Glow\"를 적용하여 카드의 폰트 색상을 변경합니다.",
   "FC_CATEGORY": "화장품",
   "WRONG_USAGE": "{{author}} 올바른 사용법: `{{prefix}}fc <카드 코드> <Glow 코드>`",
   "NOT_CARD_OWNER": "{{author}} 제공한 카드 코드가 잘못되었거나 소유하신 카드가 아닙니다.",

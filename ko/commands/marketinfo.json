@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "시장에 내 목록을 표시하거나 특정 거래에 대한 세부 정보를 표시합니다",
-    "INVALID_DEAL_ID": "제공된 거래 ID가 유효하지 않습니다: 다시 확인해 주세요",
-    "TRADER": "트레이더",
-    "DEAL_ID": "비율",
-    "PRODUCT": "제품",
-    "VALUE": "가치",
-    "RATE": "율",
-    "LISTED": "등록됨",
-    "NO_LISTINGS_FOUND": "{{user}}님, 시장에서 목록을 작성하지 않으셨군요",
-    "INFO": "`{{prefix}}ml`과 `smul`을 사용하여 등록 취소\n한 거래만 등록 가능합니다",
-    "FOOTER": "1-{{pages}} / {{total}}을(를) 보여줍니다. 구매는 {{prefix}}mp <id> [수량]을(를) 사용하세요"
+  "MARKETINFO_DESCRIPTION": "시장에 내 목록을 표시하거나 특정 거래에 대한 세부 정보를 표시합니다",
+  "INVALID_DEAL_ID": "제공된 거래 ID가 유효하지 않습니다: 다시 확인해 주세요",
+  "TRADER": "트레이더",
+  "DEAL_ID": "비율",
+  "PRODUCT": "제품",
+  "VALUE": "가치",
+  "RATE": "율",
+  "LISTED": "등록됨",
+  "NO_LISTINGS_FOUND": "{{user}}님, 시장에서 목록을 작성하지 않으셨군요",
+  "INFO": "`{{prefix}}ml`과 `smul`을 사용하여 등록 취소\n한 거래만 등록 가능합니다",
+  "FOOTER": "1-{{pages}} / {{total}}을(를) 보여줍니다. 구매는 {{prefix}}mp <id> [수량]을(를) 사용하세요"
 }

@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Zeigt eine Karte an",
-    "SLASH_DESC1": "Gib einen Karten-Code ein",
-    "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
-    "SERIES": "Serie:",
-    "NAME": "Name:",
-    "OWNED_BY": "In Besitz von:",
-    "SERVER": "Server-ID:",
-    "CLAIMED": "Beansprucht am:",
-    "MOVES": "Fähigkeiten",
-    "EMBED_TITLE": "**SOFI: VIEW**",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
-    "SPECIAL": "Spezial",
-    "INFO_BUTTON_LABEL": "Info"
+  "VIEW_DESCRIPTION": "Zeigt eine Karte an",
+  "SLASH_DESC1": "Gib einen Karten-Code ein",
+  "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
+  "SERIES": "Serie:",
+  "NAME": "Name:",
+  "OWNED_BY": "In Besitz von:",
+  "SERVER": "Server-ID:",
+  "CLAIMED": "Beansprucht am:",
+  "MOVES": "Fähigkeiten",
+  "EMBED_TITLE": "**SOFI: VIEW**",
+  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
+  "SPECIAL": "Spezial",
+  "INFO_BUTTON_LABEL": "Info"
 }

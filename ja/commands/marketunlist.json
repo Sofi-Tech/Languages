@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "マーケットからご注文を削除します",
-    "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}mul <ご注文ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} 入力されたご注文IDは無効か、お客様のものではありません",
-    "SUCCESS_UL": "{{user}} `{{dealId}}`ご注文はマーケットから成功で削除されました",
-    "NO_LISTINGS_FOUND": "{{user}} マーケットにご注文はまだありません",
-    "SUCCESS_UL_ALL": "{{user}} マーケットからご注文全部を成功で削除されました"
+  "MARKETUNLIST_DESCRIPTION": "マーケットからご注文を削除します",
+  "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}mul <ご注文ID/All>`",
+  "INVALID_DEAL_ID": "{{author}} 入力されたご注文IDは無効か、お客様のものではありません",
+  "SUCCESS_UL": "{{user}} `{{dealId}}`ご注文はマーケットから成功で削除されました",
+  "NO_LISTINGS_FOUND": "{{user}} マーケットにご注文はまだありません",
+  "SUCCESS_UL_ALL": "{{user}} マーケットからご注文全部を成功で削除されました"
 }

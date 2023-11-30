@@ -1,10 +1,10 @@
 {
-    "TC_DESCRIPTION": "태그 만들기",
-    "TC_CATEGORY": "태그",
-    "WRONG_USAGE": "사용법: `{{prefix}}tc <태그이름> <이모지>`",
-    "INVALID_EMOJI": "{{emoji}}은(는) 유효한 이모지가 아닙니다",
-    "INVALID_TAGNAME_FORMAT": "태그 이름은 알파벳과 숫자로만 이루어져야 하며 특수문자나 공백, 예약어를 사용하지 않아야 합니다.",
-    "LONG_TAGNAME": "태그 이름이 너무 깁니다. 20자 이하로 입력해보세요.",
-    "TAGNAME_EXISTS": "{{author}} **`{{tag}}`** 이름의 태그가 이미 존재합니다.",
-    "TAG_CREATED": "**`{{tag}}`** 태그가 생성되었습니다. | {{emoji}}"
+  "TAGCREATE_DESCRIPTION": "태그 만들기",
+  "TC_CATEGORY": "태그",
+  "WRONG_USAGE": "사용법: `{{prefix}}tc <태그이름> <이모지>`",
+  "INVALID_EMOJI": "{{emoji}}은(는) 유효한 이모지가 아닙니다",
+  "INVALID_TAGNAME_FORMAT": "태그 이름은 알파벳과 숫자로만 이루어져야 하며 특수문자나 공백, 예약어를 사용하지 않아야 합니다.",
+  "LONG_TAGNAME": "태그 이름이 너무 깁니다. 20자 이하로 입력해보세요.",
+  "TAGNAME_EXISTS": "{{author}} **`{{tag}}`** 이름의 태그가 이미 존재합니다.",
+  "TAG_CREATED": "**`{{tag}}`** 태그가 생성되었습니다. | {{emoji}}"
 }

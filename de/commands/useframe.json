@@ -1,5 +1,5 @@
 {
-  "UF_DESCRIPTION": "Fügt deiner Karte einen \"Frame\" hinzu",
+  "USEFRAME_DESCRIPTION": "Fügt deiner Karte einen \"Frame\" hinzu",
   "UF_CATEGORY": "Kosmetika",
   "UF_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
   "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",

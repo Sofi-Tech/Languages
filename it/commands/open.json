@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Apre chests e lootboxes",
+  "OPEN_DESCRIPTION": "Apre chests e lootboxes",
   "SLASH_DESC_1": "Inserisci item che desideri aprire",
   "SLASH_DESC_2": "Inserisci quantità",
   "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}open <ItemName> <Quantità>`",

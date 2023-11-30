@@ -1,10 +1,10 @@
 {
-    "GUT_DESCRIPTION": "取消标签",
-    "GUT_CATEGORY": "标签",
-    "NO_GLOWS_FOUND": "{{author}}您还没有解锁任何发光点",
-    "WRONG_GLOWCODE_FORMAT": "{{author}}发光代码以#开始",
-    "INVALID_GLOWCODE": "{{author}}无效的发光代码或未发现发光",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}}${{glow}}取消标记成功",
-    "GLOW_UNTAG_PLURAL": "{{author}} 已成功从 **{{count}}** `Glows` 中删除了 `Glow Tag`",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} 以下“Glow”代码无效或不在您的库存中：\n{{invalidCodeList}}"
+  "GLOWUNTAG_DESCRIPTION": "取消标签",
+  "GUT_CATEGORY": "标签",
+  "NO_GLOWS_FOUND": "{{author}}您还没有解锁任何发光点",
+  "WRONG_GLOWCODE_FORMAT": "{{author}}发光代码以#开始",
+  "INVALID_GLOWCODE": "{{author}}无效的发光代码或未发现发光",
+  "GLOW_UNTAG_SUCCESSFUL": "{{author}}${{glow}}取消标记成功",
+  "GLOW_UNTAG_PLURAL": "{{author}} 已成功从 **{{count}}** `Glows` 中删除了 `Glow Tag`",
+  "INVALID_GLOWCODE_MULTIPLE": "{{author}} 以下“Glow”代码无效或不在您的库存中：\n{{invalidCodeList}}"
 }

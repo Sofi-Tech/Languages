@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Toont de lijst met beschikbare \"Fragmenten\" van een gebruiker.",
-    "COLLECTION_PVT": "De verzameling van deze gebruiker is privé",
-    "CANNOT_FIND_FRAGS": "{{user}} kan geen fragmenten vinden.",
-    "FRAGS_COUNT": "Aantal fragmenten: {{totalCount}}",
-    "FRAG_LIST": "Lijst met fragmenten: {{userName}}"
+  "VIEWFRAGS_DESCRIPTION": "Toont de lijst met beschikbare \"Fragmenten\" van een gebruiker.",
+  "COLLECTION_PVT": "De verzameling van deze gebruiker is privé",
+  "CANNOT_FIND_FRAGS": "{{user}} kan geen fragmenten vinden.",
+  "FRAGS_COUNT": "Aantal fragmenten: {{totalCount}}",
+  "FRAG_LIST": "Lijst met fragmenten: {{userName}}"
 }

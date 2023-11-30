@@ -1,12 +1,12 @@
 {
-    "GT_DESCRIPTION": "Glows को Tag देता है।",
-    "GT_CATEGORY": "TAGS",
-    "GLOWTAGS_NOT_FOUND": "{{author}} आपने अभी तक कोई `Glow Tag` नहीं बनाया है। आप `{{prefix}}gtc <Name> <Emoji>` का प्रयोग करके Tag बना सकते है।",
-    "GLOWS_NOT_UNLOCKED": "{{author}} आपके पास कोई `Glows` नहीं है।",
-    "INVALID_GLOW_CODE": "{{author}} प्रदान किए गए `Glow codes` में कोई एक अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** सफलतापूर्वक टैग करी गई : `{{tag}} `",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} सभी `Glows` को सफलतापूर्वक टैग किया गया: `{{tag}}`",
-    "GLOW_TAG_INVALID": "{{author}} आपके पास इस नाम से कोई `Glow Tag` नहीं है: `{{tagname}}`",
-    "INVALID_GLOW_SINGULAR": "{{author}} प्रदान किया गया `Glow Code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gt <TagName> <GlowCode>`"
+  "GLOWTAG_DESCRIPTION": "Glows को Tag देता है।",
+  "GT_CATEGORY": "TAGS",
+  "GLOWTAGS_NOT_FOUND": "{{author}} आपने अभी तक कोई `Glow Tag` नहीं बनाया है। आप `{{prefix}}gtc <Name> <Emoji>` का प्रयोग करके Tag बना सकते है।",
+  "GLOWS_NOT_UNLOCKED": "{{author}} आपके पास कोई `Glows` नहीं है।",
+  "INVALID_GLOW_CODE": "{{author}} प्रदान किए गए `Glow codes` में कोई एक अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** सफलतापूर्वक टैग करी गई : `{{tag}} `",
+  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} सभी `Glows` को सफलतापूर्वक टैग किया गया: `{{tag}}`",
+  "GLOW_TAG_INVALID": "{{author}} आपके पास इस नाम से कोई `Glow Tag` नहीं है: `{{tagname}}`",
+  "INVALID_GLOW_SINGULAR": "{{author}} प्रदान किया गया `Glow Code` अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+  "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gt <TagName> <GlowCode>`"
 }

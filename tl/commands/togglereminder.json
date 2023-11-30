@@ -1,7 +1,7 @@
 {
-    "REMINDER_ENABLED": "{{author}} Ngayon ay ipinaalam na sa inyo kung ang iyong **`{{reminder}}`** ay handa na",
-    "PROVIDE_REMINDER_NAME": "{{author}} Tamang pag-gamit: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_DISABLED": "{{author}} Ngayon ay hindi na sa iyo ipinaalam kung ang iyong **`{{reminder}}`** ay handa na",
-    "RM_DESCRIPTION": "Magpapalit ng iyong mga paalala",
-    "RM_CATEGORY": "Mga kaayusan"
+  "REMINDER_ENABLED": "{{author}} Ngayon ay ipinaalam na sa inyo kung ang iyong **`{{reminder}}`** ay handa na",
+  "PROVIDE_REMINDER_NAME": "{{author}} Tamang pag-gamit: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_DISABLED": "{{author}} Ngayon ay hindi na sa iyo ipinaalam kung ang iyong **`{{reminder}}`** ay handa na",
+  "TOGGLEREMINDER_DESCRIPTION": "Magpapalit ng iyong mga paalala",
+  "RM_CATEGORY": "Mga kaayusan"
 }

@@ -1,10 +1,10 @@
 {
-    "GUT_DESCRIPTION": "Entfernt deine \"Glows Tags\"",
-    "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "{{author}} Du hast keine `Glows`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
-    "INVALID_GLOWCODE": "{{author}} Der `Glow`-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Der `Tag` wurde erfolgreich von deinem **{{glow}}** `Glow` entfernt",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Die folgenden `Glow`-Codes sind entweder ungültig oder befinden sich nicht in deinem Inventar:\n{{invalidCodeList}}",
-    "GLOW_UNTAG_PLURAL": "{{author}} Der `Glow Tag` wurde erfolgreich von **{{count}}** `Glows` entfernt"
+  "GLOWUNTAG_DESCRIPTION": "Entfernt deine \"Glows Tags\"",
+  "GUT_CATEGORY": "Tags",
+  "NO_GLOWS_FOUND": "{{author}} Du hast keine `Glows`",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow`-Codes beginnen immer mit einem `#`",
+  "INVALID_GLOWCODE": "{{author}} Der `Glow`-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
+  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Der `Tag` wurde erfolgreich von deinem **{{glow}}** `Glow` entfernt",
+  "INVALID_GLOWCODE_MULTIPLE": "{{author}} Die folgenden `Glow`-Codes sind entweder ungültig oder befinden sich nicht in deinem Inventar:\n{{invalidCodeList}}",
+  "GLOW_UNTAG_PLURAL": "{{author}} Der `Glow Tag` wurde erfolgreich von **{{count}}** `Glows` entfernt"
 }

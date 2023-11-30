@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "애니메이션 프래그먼트를 표시합니다.",
-    "COLLECTION_PVT": "해당 사용자의 컬렉션은 비공개입니다.",
-    "CANNOT_FIND_FRAGS": "{{user}}은(는) 프래그먼트를 찾을 수 없습니다.",
-    "FRAGS_COUNT": "프래그먼트 수: {{totalCount}}",
-    "FRAG_LIST": "프래그 목록: {{userName}}"
+  "VIEWFRAGS_DESCRIPTION": "애니메이션 프래그먼트를 표시합니다.",
+  "COLLECTION_PVT": "해당 사용자의 컬렉션은 비공개입니다.",
+  "CANNOT_FIND_FRAGS": "{{user}}은(는) 프래그먼트를 찾을 수 없습니다.",
+  "FRAGS_COUNT": "프래그먼트 수: {{totalCount}}",
+  "FRAG_LIST": "프래그 목록: {{userName}}"
 }

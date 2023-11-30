@@ -5,7 +5,7 @@
   "IMAGES_REJECTED": "<:_:979009081325019156> Gli Artwork già usati per carte esistenti come`GIF`, `3D` o Event verranno rifiutati",
   "SC_CORRECT_USAGE": "<:_:979009081325019156> Ordine di Comando: `{{prefix}}sc <CardID> <2D> <ImageURL> <SourceURL>`",
   "NO_PINGING_STAFF": "⚠️ Non inviare messaggi allo staff nel tentativo di velocizzare la revisione della tua richiesta!",
-  "SC_DESCRIPTION": "Invia un'immagine per una variante \"Version\" del carattere",
+  "SUBMITCARD_DESCRIPTION": "Invia un'immagine per una variante \"Version\" del carattere",
   "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> L'immagine inviata **deve** provenire da una fonte ufficiale",
   "CARD_DIMENSION": "<:_:979009081325019156> Le dimensioni dell'immagine inviata devono **essere** `297x465`",
   "USE_DISCORD_LINK": "<:_:979009081325019156> L'immagine inviata **deve** utilizzare un collegamento Discord ufficiale, come `cdn.discordapp.com` o `media.discordapp.net`",

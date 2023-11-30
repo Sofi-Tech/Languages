@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Achetez des \"Wists\" depuis le marché en échange de \"Gems\"",
+  "MARKETBUY_DESCRIPTION": "Achetez des \"Wists\" depuis le marché en échange de \"Gems\"",
   "CORRECT_USAGE": "{{author}} Utilisation correcte:`{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
   "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fournis est invalide",
   "CANNOT_PURCHASE": "{{user}} Vous ne pouvez pas interagir avec cette annonce",

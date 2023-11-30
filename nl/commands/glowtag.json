@@ -1,9 +1,9 @@
 {
-    "GT_DESCRIPTION": "\"Tags\" uw \"Glows\"",
-    "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} U hebt nog geen `Glow Tags`. U kunt ze aanmaken met het commando `{{prefix}}gtc <Naam> <Emoji>`.",
-    "GLOWS_NOT_UNLOCKED": "{{author}} U heeft nog geen `Glows`",
-    "INVALID_GLOW_CODE": "{{author}} één of meer van de opgegeven `Glow` codes is ongeldig",
-    "SUCCESSFUL_GLOWTAG": "{{author}}, **{{glow}}** succesvol gemarkeerd als {{tag}}",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}}, Die glows zijn succesvol gemarkeerd"
+  "GLOWTAG_DESCRIPTION": "\"Tags\" uw \"Glows\"",
+  "GT_CATEGORY": "Tags",
+  "GLOWTAGS_NOT_FOUND": "{{author}} U hebt nog geen `Glow Tags`. U kunt ze aanmaken met het commando `{{prefix}}gtc <Naam> <Emoji>`.",
+  "GLOWS_NOT_UNLOCKED": "{{author}} U heeft nog geen `Glows`",
+  "INVALID_GLOW_CODE": "{{author}} één of meer van de opgegeven `Glow` codes is ongeldig",
+  "SUCCESSFUL_GLOWTAG": "{{author}}, **{{glow}}** succesvol gemarkeerd als {{tag}}",
+  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}}, Die glows zijn succesvol gemarkeerd"
 }

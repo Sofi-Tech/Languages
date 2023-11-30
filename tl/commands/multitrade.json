@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Nagsusumite ng isang kahilingan sa trade para sa ibang player. Maaari kang makipag-trade ng maraming kard at \"Mga Items\" nang sabay-sabay gamit ang feature na ito",
+  "MULTITRADE_DESCRIPTION": "Nagsusumite ng isang kahilingan sa trade para sa ibang player. Maaari kang makipag-trade ng maraming kard at \"Mga Items\" nang sabay-sabay gamit ang feature na ito",
   "MENTION_USER": "{{author}} Tamang paggamit: `{{prefix}}mt <@User/UserID>`",
   "IN_TRADE": "{{user}} Ikaw ay mayroon nang isinumiteng trade request sa isang tao! Kailangan munang kanselahin ang request bago magsimula ng bago",
   "BOT_TRADE": "{{author}} Ikaw ay hindi maaaring makipagtrade sa isang `BOT`",

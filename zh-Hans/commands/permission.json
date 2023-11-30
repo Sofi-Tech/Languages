@@ -5,7 +5,7 @@
   "WHITELIST_ALREADY_ACTIVE": "{{author}}您无法从白名单中删除黑名单命令",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}}已成功将以下命令添加到该频道的{{listname}}: {{commandsList}}",
   "YES_BUTTON_LABEL": "确认",
-  "PERMS_DESCRIPTION": "允许您将通道中的特定命令列入白名单或黑名单。",
+  "PERMISSION_DESCRIPTION": "允许您将通道中的特定命令列入白名单或黑名单。",
   "PERMS_CATEGORY": "设定",
   "BLACKLIST_BUTTON_LABEL": "黑名单",
   "WHITELIST_BUTTON_LABEL": "白名单",

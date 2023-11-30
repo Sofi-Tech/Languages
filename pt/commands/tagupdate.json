@@ -1,5 +1,5 @@
 {
-  "TU_DESCRIPTION": "Muda o nome ou emoji de suas \"Tags\"",
+  "TAGUPDATE_DESCRIPTION": "Muda o nome ou emoji de suas \"Tags\"",
   "TU_CATEGORY": "Tags",
   "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}tu <TagName>`",
   "TAG_NOT_FOUND": "{{author}} Não foi possível encontrar nenhuma `Tag` com o nome: `{{tag}}`",

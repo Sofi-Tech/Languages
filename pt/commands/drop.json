@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Gera um \"Drop\" de cartas\nUse o comando \"{{prefix}}dn\" para gerar um \"Drop\" sem imagens",
+  "DROP_DESCRIPTION": "Gera um \"Drop\" de cartas\nUse o comando \"{{prefix}}dn\" para gerar um \"Drop\" sem imagens",
 
   "EXTRA_DROP_ALERT": "{{author}} Seu **Extra Drop** está sendo usado. Você tem**{{remaining}}** restantes",
   "ON_CD": "{{author}} seu `Drop` estará pronto em {{dropCd}}",

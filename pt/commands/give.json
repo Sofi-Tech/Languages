@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Dê uma carta a alguém",
-    "SLASH_DESC": "Selecione o usuário para o qual você deseja dar uma carta",
-    "SLASH_DESC2": "Digite o código da carta que você deseja oferecer",
-    "NO_SELF_GIVE": "{{author}} Você não pode dar uma carta para si mesmo",
-    "NOT_REGISTERED": "{{author}} Esse usuário não está registrado!",
-    "MEM_BLACKLISTED": "{{member}} está na blacklist",
-    "MEM_QUARANTINED": "Esse usuário está em quarentena",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}give <Usuário/ID do Usuário> <CódigodaCarta>`",
-    "NO_CARD_FOUND": "Não foi possível encontrar nenhuma carta com o código: `{{code}}`",
-    "CARD_LOCKED": "Essa carta está bloqueada e não pode ser dada! Use o comando `{{prefix}}ut <CódigodaCarta>` para remover a `Tag` da carta",
-    "CANCELLED": "O processo foi cancelado"
+  "GIVE_DESCRIPTION": "Dê uma carta a alguém",
+  "SLASH_DESC": "Selecione o usuário para o qual você deseja dar uma carta",
+  "SLASH_DESC2": "Digite o código da carta que você deseja oferecer",
+  "NO_SELF_GIVE": "{{author}} Você não pode dar uma carta para si mesmo",
+  "NOT_REGISTERED": "{{author}} Esse usuário não está registrado!",
+  "MEM_BLACKLISTED": "{{member}} está na blacklist",
+  "MEM_QUARANTINED": "Esse usuário está em quarentena",
+  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}give <Usuário/ID do Usuário> <CódigodaCarta>`",
+  "NO_CARD_FOUND": "Não foi possível encontrar nenhuma carta com o código: `{{code}}`",
+  "CARD_LOCKED": "Essa carta está bloqueada e não pode ser dada! Use o comando `{{prefix}}ut <CódigodaCarta>` para remover a `Tag` da carta",
+  "CANCELLED": "O processo foi cancelado"
 }

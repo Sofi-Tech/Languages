@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "Exclui a \"Tag\"",
-    "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}dt <TagName>`",
-    "TAG_NOT_FOUND": "{{author}} Você não tem um `Tag` com esse nome",
-    "SUCCESSFUL_DELETE_TAG": "{{author}} Excluiu com sucesso uma `Tag` com o nome: `{{tag}}`"
+  "TAGDELETE_DESCRIPTION": "Exclui a \"Tag\"",
+  "TD_CATEGORY": "Tags",
+  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}dt <TagName>`",
+  "TAG_NOT_FOUND": "{{author}} Você não tem um `Tag` com esse nome",
+  "SUCCESSFUL_DELETE_TAG": "{{author}} Excluiu com sucesso uma `Tag` com o nome: `{{tag}}`"
 }

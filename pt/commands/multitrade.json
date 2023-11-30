@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Envia uma solicitação de troca para outro jogador. Você pode negociar várias cartas e 'Itens' simultaneamente com este recurso",
+  "MULTITRADE_DESCRIPTION": "Envia uma solicitação de troca para outro jogador. Você pode negociar várias cartas e 'Itens' simultaneamente com este recurso",
   "MENTION_USER": "{{author}} mencione um usuário com quem deseja negociar ou use o ID dele",
   "IN_TRADE": "{{user}} você já está em uma troca ativa com alguém! Cancele o anterior para começar um novo",
   "BOT_TRADE": "{{author}} Você não pode negociar com um `Bot`",

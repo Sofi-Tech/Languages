@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Visualizza le varianti Versione/3D/GIF di un carattere",
+  "LOOKUP_DESCRIPTION": "Visualizza le varianti Versione/3D/GIF di un carattere",
   "CHAR_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun carattere con il nome: `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}} Non è stato possibile trovare alcun carattere con il nome: `{{arg}}`\n\n```aggiustare\nNota: l'uso del flag `-f` trasforma la funzione con distinzione tra maiuscole e minuscole!\n```",
   "EMBED_TITLE": "SOFI: LOOKUP",

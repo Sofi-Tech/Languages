@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Toont uw vermelding op de markt of geeft details over een specifieke deal",
-    "INVALID_DEAL_ID": "Ongeldige deal ID opgegeven: controleer opnieuw",
-    "TRADER": "Handelaar",
-    "DEAL_ID": "Tarief",
-    "PRODUCT": "Product",
-    "VALUE": "Waarde",
-    "RATE": "Tarief",
-    "LISTED": "Vermeld",
-    "NO_LISTINGS_FOUND": "{{user}} heeft geen vermeldingen in de markt",
-    "INFO": "Gebruik '{{prefix}}ml' en 'smul' om te unlisten\nEr kan slechts één deal tegelijk vermeld worden",
-    "FOOTER": "Toont 1-{{pages}} van {{total}} | Om te kopen gebruik {{prefix}}mp <id> [hoeveelheid]"
+  "MARKETINFO_DESCRIPTION": "Toont uw vermelding op de markt of geeft details over een specifieke deal",
+  "INVALID_DEAL_ID": "Ongeldige deal ID opgegeven: controleer opnieuw",
+  "TRADER": "Handelaar",
+  "DEAL_ID": "Tarief",
+  "PRODUCT": "Product",
+  "VALUE": "Waarde",
+  "RATE": "Tarief",
+  "LISTED": "Vermeld",
+  "NO_LISTINGS_FOUND": "{{user}} heeft geen vermeldingen in de markt",
+  "INFO": "Gebruik '{{prefix}}ml' en 'smul' om te unlisten\nEr kan slechts één deal tegelijk vermeld worden",
+  "FOOTER": "Toont 1-{{pages}} van {{total}} | Om te kopen gebruik {{prefix}}mp <id> [hoeveelheid]"
 }

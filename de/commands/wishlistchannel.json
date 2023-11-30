@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Definiere den Kanal für deine Wunschlisten-Benachrichtigungen",
-    "CATEGORY": "Wunschliste",
-    "CHANNEL_SET": "{{author}} Deine Wunschliste wurde für {{channel}} festgelegt",
-    "CHANNEL_REMOVE": "{{author}} Deine Wunschliste ist nicht länger für {{channel}} festgelegt"
+  "WISHLISTCHANNEL_DESCRIPTION": "Definiere den Kanal für deine Wunschlisten-Benachrichtigungen",
+  "CATEGORY": "Wunschliste",
+  "CHANNEL_SET": "{{author}} Deine Wunschliste wurde für {{channel}} festgelegt",
+  "CHANNEL_REMOVE": "{{author}} Deine Wunschliste ist nicht länger für {{channel}} festgelegt"
 }

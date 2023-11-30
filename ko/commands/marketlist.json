@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "시장 목록 항목",
+  "MARKETLIST_DESCRIPTION": "시장 목록 항목",
   "CORRECT_USAGE": "{{user}} 올바른 사용법: {{prefix}}ml <wist> <rate>",
   "INVALID_GEM_RATE": "{{user}} 유효하지 않은 젬 비율",
   "GEM_RATE_LIES": "{{user}} 젬 비율은 3.0-20.0 사이여야합니다",

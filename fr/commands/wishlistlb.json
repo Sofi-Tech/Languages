@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Affiche le classement par nombre de souhaits",
-    "CATEGORY": "Liste De Souhaits",
-    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-    "EMBED_FOOTER": "Page affichée: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Personnages",
-    "SERIES_BUTTON_LABEL": "Série"
+  "WISHLISTLB_DESCRIPTION": "Affiche le classement par nombre de souhaits",
+  "CATEGORY": "Liste De Souhaits",
+  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+  "EMBED_FOOTER": "Page affichée: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Personnages",
+  "SERIES_BUTTON_LABEL": "Série"
 }

@@ -1,9 +1,9 @@
 {
-    "NO_GUILD_INFO": "{{author}} Du bist derzeit in keiner Gilde",
-    "SHEET_CATEGORY": "Einstellungen",
-    "SHEET_DESCRIPTION": "Erstellt eine \".csv\"-Datei deiner Sammlung",
-    "NO_VAULT_LOGS": "{{author}} Derzeit sind keine Tresor-Logs vorhanden",
-    "DM_FILE": "{{author}} Eine .csv Datei wurde dir per Direktnachricht geschickt\n\n> **Beachte**: Wenn du die Datei in Excel oder ähnliche Programme importierst, setze \"Komma\" als Trennzeichen!",
-    "CANNOT_DM": "{{author}} Die Tabellendatei konnte nicht zugestellt werden. Gehe sicher das du Direktnachrichten in den Einstellungen erlaubst!",
-    "NO_COLLECTION": "{{author}} Du hast keine Karten in deiner Sammlung"
+  "NO_GUILD_INFO": "{{author}} Du bist derzeit in keiner Gilde",
+  "SHEET_CATEGORY": "Einstellungen",
+  "SPREADSHEET_DESCRIPTION": "Erstellt eine \".csv\"-Datei deiner Sammlung",
+  "NO_VAULT_LOGS": "{{author}} Derzeit sind keine Tresor-Logs vorhanden",
+  "DM_FILE": "{{author}} Eine .csv Datei wurde dir per Direktnachricht geschickt\n\n> **Beachte**: Wenn du die Datei in Excel oder ähnliche Programme importierst, setze \"Komma\" als Trennzeichen!",
+  "CANNOT_DM": "{{author}} Die Tabellendatei konnte nicht zugestellt werden. Gehe sicher das du Direktnachrichten in den Einstellungen erlaubst!",
+  "NO_COLLECTION": "{{author}} Du hast keine Karten in deiner Sammlung"
 }

@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "下記のアクションのクールダウンを確認できます:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Drop、GrabとDailiesのリマインダーを設定したい場合に鈴アイコンをクリックしてください！",
+  "COOLDOWN_DESCRIPTION": "下記のアクションのクールダウンを確認できます:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Drop、GrabとDailiesのリマインダーを設定したい場合に鈴アイコンをクリックしてください！",
   "JOIN_SUPPORT_SERVER": "[ヘルプのためにサポートサーバーに参加してください!](https://discord.gg/sofi)",
   "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop`** | **{{cooldown}}**",
   "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab`** | **{{cooldown}}**",

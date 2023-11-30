@@ -5,7 +5,7 @@
   "SF_FILETYPE_INFO": "<:_:979009081325019156> `Frame`inizin temasını her yaş için uygun tutun",
   "SF_EMBED_TITLE": "SOFI: SUBMITFRAME",
   "SF_DIMENSION_INFO": "<:_:979009081325019156> Bir 'Frame' önergesi size **3000** `Silver`a mal olacak",
-  "SF_DESCRIPTION": "\"Frame\" Önergesi oluşturur",
+  "SUBMITFRAME_DESCRIPTION": "\"Frame\" Önergesi oluşturur",
   "SF_CATEGORY": "Ayarlar",
   "SF_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}sf <ImageURL> <FrameName>`",
   "MAXIMUM_NAME_LENGTH": "{{author}} Bir `Frame` adı en fazla 20 karakter içerebilir",

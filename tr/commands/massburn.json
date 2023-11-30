@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Aynı anda çok sayıda kartı yakar",
+  "MASSBURN_DESCRIPTION": "Aynı anda çok sayıda kartı yakar",
   "IN_ACTIVE_MB": "{{user}} Aktif bir toplu yakma işlemi devam ederken yeni bir toplu yakma başlatamazsınız. Lütfen önceki işlemi devam ettirin veya önce mevcut toplu yakma işlemini iptal edin",
   "PROVIDE_FILTERS": "Yakma işlemine uygulamak istediğiniz filtreleri belirtin! `t=<TagName>, g><=gen, wl><=wishlist`",
   "WRONG_TAG": "{{author}} Sağladığınız \"Etiket\" adı geçersiz",

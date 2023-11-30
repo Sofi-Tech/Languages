@@ -1,5 +1,5 @@
 {
-  "TT_DESCRIPTION": "Bascule la visibilité du texte d'une carte",
+  "TOGGLETEXT_DESCRIPTION": "Bascule la visibilité du texte d'une carte",
   "TT_CATEGORY": "Cosmétiques",
   "PROVIDE_CARD_CODE": "{{author}} Utilisation correcte: `{{prefix}}tt <CodeDeCarte>`",
   "INAVLID_CARD_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",

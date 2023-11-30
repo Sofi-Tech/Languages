@@ -1,5 +1,5 @@
 {
-  "BF_DESCRIPTION": "从 \"Frame Shop\" 里购买 \"Frame\"",
+  "BUYFRAME_DESCRIPTION": "从 \"Frame Shop\" 里购买 \"Frame\"",
   "BF_CATEGORY": "化妆品",
   "NO_FRAME_NAME": "{{author}} 请提供您想购买 `Frame` 的代码",
   "NO_FRAMECODE_FOUND": "{{author}} 没有找到任何 `Frame` 代码是： `{{name}}`",

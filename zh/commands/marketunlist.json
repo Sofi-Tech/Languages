@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "从市场上取消挂单",
-    "CORRECT_USAGE": "{{user}} 正确使用:`{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} 您提供的 Order-ID 无效或不是您的",
-    "SUCCESS_UL": "{{user}}` {{dealId}} `已成功从市场上取消挂单",
-    "NO_LISTINGS_FOUND": "{{user}}您当前没有任何订单",
-    "SUCCESS_UL_ALL": "{{user}} 笔交易已成功从市场上取消挂单"
+  "MARKETUNLIST_DESCRIPTION": "从市场上取消挂单",
+  "CORRECT_USAGE": "{{user}} 正确使用:`{{prefix}}mul <Order-ID/All>`",
+  "INVALID_DEAL_ID": "{{author}} 您提供的 Order-ID 无效或不是您的",
+  "SUCCESS_UL": "{{user}}` {{dealId}} `已成功从市场上取消挂单",
+  "NO_LISTINGS_FOUND": "{{user}}您当前没有任何订单",
+  "SUCCESS_UL_ALL": "{{user}} 笔交易已成功从市场上取消挂单"
 }

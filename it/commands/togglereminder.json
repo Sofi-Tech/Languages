@@ -1,7 +1,7 @@
 {
-    "RM_CATEGORY": "Impostazioni",
-    "PROVIDE_REMINDER_NAME": "{{author}} Utilizzo corretto: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} Ora riceverai una notifica quando il tuo **`{{reminder}}`** sarà pronto",
-    "REMINDER_DISABLED": "{{author}} Non sarai più avvisato quando il tuo **`{{reminder}}`** sarà pronto",
-    "RM_DESCRIPTION": "Alterna i tuoi promemoria"
+  "RM_CATEGORY": "Impostazioni",
+  "PROVIDE_REMINDER_NAME": "{{author}} Utilizzo corretto: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_ENABLED": "{{author}} Ora riceverai una notifica quando il tuo **`{{reminder}}`** sarà pronto",
+  "REMINDER_DISABLED": "{{author}} Non sarai più avvisato quando il tuo **`{{reminder}}`** sarà pronto",
+  "TOGGLEREMINDER_DESCRIPTION": "Alterna i tuoi promemoria"
 }

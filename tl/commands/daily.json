@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Kunin ang iyong pang araw-araw na gantimpala",
-    "CATEGORY": "Kard",
-    "EMBED_AUTHOR": "SOFI: **`DAILY`** REWARD ({{author}})",
-    "DAILY_ERROR": "Maaari mong kunin and susunod na `Daily`sa **{{timeout}}**",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> Meron kapang **{{count}}x** `Daily` claims na natitira upang makatanggap ng `Common Chest`",
-    "RARE_CHEST": "<:rarechest:927204672270372874> Meron kapang **{{count}}x** `Daily` claim na natitira upang makatanggap ng `Rare Chest`\n",
-    "NOTE": "⚠️ HINDI hihilingin sa iyo ng Discord, pati na rin ng Sofi Staff ang iyong password o payuhan kang palitan ang iyong E-Mail sa isang partikular na address. Mag-ingat sa mga third-party na discord na BOT na kadalasang ginagamit para sa mga katulad na pagtatangka sa phishing!\n\nDapat iulat kaagad ang anumang kahina-hinalang aktibidad sa {{link}}! ⚠️",
-    "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Matagumpay na na-claim ang iyong mga reward na 'Araw-araw'!",
-    "GUILD_BONUS": "**(1.5x Server Bonus!)**",
-    "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
+  "DAILY_DESCRIPTION": "Kunin ang iyong pang araw-araw na gantimpala",
+  "CATEGORY": "Kard",
+  "EMBED_AUTHOR": "SOFI: **`DAILY`** REWARD ({{author}})",
+  "DAILY_ERROR": "Maaari mong kunin and susunod na `Daily`sa **{{timeout}}**",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> Meron kapang **{{count}}x** `Daily` claims na natitira upang makatanggap ng `Common Chest`",
+  "RARE_CHEST": "<:rarechest:927204672270372874> Meron kapang **{{count}}x** `Daily` claim na natitira upang makatanggap ng `Rare Chest`\n",
+  "NOTE": "⚠️ HINDI hihilingin sa iyo ng Discord, pati na rin ng Sofi Staff ang iyong password o payuhan kang palitan ang iyong E-Mail sa isang partikular na address. Mag-ingat sa mga third-party na discord na BOT na kadalasang ginagamit para sa mga katulad na pagtatangka sa phishing!\n\nDapat iulat kaagad ang anumang kahina-hinalang aktibidad sa {{link}}! ⚠️",
+  "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "Matagumpay na na-claim ang iyong mga reward na 'Araw-araw'!",
+  "GUILD_BONUS": "**(1.5x Server Bonus!)**",
+  "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
 }

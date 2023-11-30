@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "从您的愿望清单中删除一个角色",
-    "CATEGORY": "心愿单",
-    "NO_INDEX": "{{author}} 正确用法：`{{prefix}}wr <Name/Number>`. 使用 `{{prefix}}wr full reset`彻底清除心愿单",
-    "FULL_RESET": "{{author}} 成功的将全部角色从您的心愿单上除掉",
-    "REMOVE_CHARACTER": "{{author}} 成功的将 {{name}} 从心愿单中移除了",
-    "NO_RESULTS": "{{author}} 您的心愿单上没有 `{{name}}` 名称的角色"
+  "WISHLISTREMOVE_DESCRIPTION": "从您的愿望清单中删除一个角色",
+  "CATEGORY": "心愿单",
+  "NO_INDEX": "{{author}} 正确用法：`{{prefix}}wr <Name/Number>`. 使用 `{{prefix}}wr full reset`彻底清除心愿单",
+  "FULL_RESET": "{{author}} 成功的将全部角色从您的心愿单上除掉",
+  "REMOVE_CHARACTER": "{{author}} 成功的将 {{name}} 从心愿单中移除了",
+  "NO_RESULTS": "{{author}} 您的心愿单上没有 `{{name}}` 名称的角色"
 }

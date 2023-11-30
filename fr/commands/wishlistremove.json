@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Retire un personnage de votre liste de souhaits",
-    "CATEGORY": "Liste De Souhaits",
-    "NO_INDEX": "{{author}} Utilisation correcte: `{{prefix}}wr <Nom/Nombre>`. Utilisez la commande `{{prefix}}wr full reset` pour nettoyer toute votre liste de souhaits",
-    "FULL_RESET": "{{author}} Tout les personnages de votre liste de souhaits ont été retiré avec succès",
-    "REMOVE_CHARACTER": "{{author}} **{{name}}** a été retiré(e) de votre liste de souhaits avec succès",
-    "NO_RESULTS": "{{author}} Il n'y a pas de personnage nommé `{{name}}` dans votre liste de souhaits"
+  "WISHLISTREMOVE_DESCRIPTION": "Retire un personnage de votre liste de souhaits",
+  "CATEGORY": "Liste De Souhaits",
+  "NO_INDEX": "{{author}} Utilisation correcte: `{{prefix}}wr <Nom/Nombre>`. Utilisez la commande `{{prefix}}wr full reset` pour nettoyer toute votre liste de souhaits",
+  "FULL_RESET": "{{author}} Tout les personnages de votre liste de souhaits ont été retiré avec succès",
+  "REMOVE_CHARACTER": "{{author}} **{{name}}** a été retiré(e) de votre liste de souhaits avec succès",
+  "NO_RESULTS": "{{author}} Il n'y a pas de personnage nommé `{{name}}` dans votre liste de souhaits"
 }

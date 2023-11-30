@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Başka bir oyuncuya takas isteği gönderir. Bu özellik sayesinde aynı anda birden fazla kart ve \"Item\" takası yapabilirsiniz",
+  "MULTITRADE_DESCRIPTION": "Başka bir oyuncuya takas isteği gönderir. Bu özellik sayesinde aynı anda birden fazla kart ve \"Item\" takası yapabilirsiniz",
   "MENTION_USER": "{{author}} Doğru kullanım: `{{prefix}}mt <@Kullanıcı/KullanıcıID>`",
   "IN_TRADE": "{{user}} Zaten birine ticaret isteği gönderdiniz! Yenisini başlatmadan öncekini iptal ediniz",
   "BOT_TRADE": "{{author}} Bir \"BOT\" ile ticaret yapamazsınız",

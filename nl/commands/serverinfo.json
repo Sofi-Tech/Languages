@@ -1,13 +1,13 @@
 {
-    "SI_CATEGORY": "Instellingen",
-    "SI_DESCRIPTION": "Geeft de statistieken van de server weer",
-    "EMBED_AUTHOR": "Server: {{guildName}} | Prefix: `{{prefix}}` ({{blacklistPoints}})",
-    "SI_SPAWN_CHANNEL": "Spawn Kanaal",
-    "SI_TOTAL_DROPS": "Totaal aantal Drops",
-    "SI_TOTAL_BURNT": "Totaal aantal verbrandt",
-    "SI_TOTAL_GRABS": "Totaal Grabbed",
-    "SI_TOTAL_GIVEN": "Totaal Gegeven",
-    "SI_TOTAL_TRADES": "Totaal aantal Trades",
-    "SI_NAME_UNAVAILABLE": "Naam niet beschikbaar",
-    "SI_TOP_SERVERS": "**Top Servers** | Wordt gereset in: `{{countdown}})`"
+  "SI_CATEGORY": "Instellingen",
+  "SERVERINFO_DESCRIPTION": "Geeft de statistieken van de server weer",
+  "EMBED_AUTHOR": "Server: {{guildName}} | Prefix: `{{prefix}}` ({{blacklistPoints}})",
+  "SI_SPAWN_CHANNEL": "Spawn Kanaal",
+  "SI_TOTAL_DROPS": "Totaal aantal Drops",
+  "SI_TOTAL_BURNT": "Totaal aantal verbrandt",
+  "SI_TOTAL_GRABS": "Totaal Grabbed",
+  "SI_TOTAL_GIVEN": "Totaal Gegeven",
+  "SI_TOTAL_TRADES": "Totaal aantal Trades",
+  "SI_NAME_UNAVAILABLE": "Naam niet beschikbaar",
+  "SI_TOP_SERVERS": "**Top Servers** | Wordt gereset in: `{{countdown}})`"
 }

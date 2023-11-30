@@ -1,9 +1,9 @@
 {
-    "UT_DESCRIPTION": "Rimuove i \"Tag\" dalle tue carte",
-    "UT_CATEGORY": "Tags",
-    "UT_EMPTY_COLLECTION": "{{author}} Non hai ancora carte nella tua collezione",
-    "UNTAG_SUCCESSFUL": "{{author}} Ha rimossato con successo il `Tag` dalla tua carta **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Ha rimossato con successo il `Tag` dalle carte **{{count}}**",
-    "INVALID_CODE_MULTIPLE": "{{author}} I seguenti codici delle carte non sono validi o non sono presenti nel tuo collezione:\n{{invalidCodeList}}",
-    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nel tuo collezione"
+  "UNTAG_DESCRIPTION": "Rimuove i \"Tag\" dalle tue carte",
+  "UT_CATEGORY": "Tags",
+  "UT_EMPTY_COLLECTION": "{{author}} Non hai ancora carte nella tua collezione",
+  "UNTAG_SUCCESSFUL": "{{author}} Ha rimossato con successo il `Tag` dalla tua carta **{{cardName}}**",
+  "MULTIPLE_UNTAG": "{{author}} Ha rimossato con successo il `Tag` dalle carte **{{count}}**",
+  "INVALID_CODE_MULTIPLE": "{{author}} I seguenti codici delle carte non sono validi o non sono presenti nel tuo collezione:\n{{invalidCodeList}}",
+  "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nel tuo collezione"
 }

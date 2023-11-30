@@ -1,9 +1,9 @@
 {
-    "UT_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
-    "UT_CATEGORY": "Etiketler",
-    "UT_EMPTY_COLLECTION": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
-    "UNTAG_SUCCESSFUL": "{{author}}, **{{cardName}}** kartınızdan `Tag` başarıyla kaldırdı",
-    "MULTIPLE_UNTAG": "{{author}}, **{{count}}** kartlarından `Tag` başarıyla kaldırdı",
-    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da `Inventory`'nizde yok",
-    "INVALID_CODE_MULTIPLE": "{{author}} Aşağıdaki kart kodları geçersiz veya `Inventory`'nizde yok:\n{{invalidCodeList}}"
+  "UNTAG_DESCRIPTION": "Kartlarınızdan \"Tags\"ı kaldırır",
+  "UT_CATEGORY": "Etiketler",
+  "UT_EMPTY_COLLECTION": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
+  "UNTAG_SUCCESSFUL": "{{author}}, **{{cardName}}** kartınızdan `Tag` başarıyla kaldırdı",
+  "MULTIPLE_UNTAG": "{{author}}, **{{count}}** kartlarından `Tag` başarıyla kaldırdı",
+  "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da `Inventory`'nizde yok",
+  "INVALID_CODE_MULTIPLE": "{{author}} Aşağıdaki kart kodları geçersiz veya `Inventory`'nizde yok:\n{{invalidCodeList}}"
 }

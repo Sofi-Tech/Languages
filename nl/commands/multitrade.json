@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Verstuurt een handelsverzoek naar een andere speler. Met deze functie kunt u meerdere kaarten en \"items\" tegelijk verhandelen.",
+  "MULTITRADE_DESCRIPTION": "Verstuurt een handelsverzoek naar een andere speler. Met deze functie kunt u meerdere kaarten en \"items\" tegelijk verhandelen.",
   "MENTION_USER": "{{author}} vermeld een gebruiker waarmee je wilt handelen of gebruik hun ID",
   "IN_TRADE": "{{user}} je bent al in een actieve handel! Annuleer de vorige om een nieuwe te starten",
   "BOT_TRADE": "{{author}} Je kunt niet handelen met een `bot`",

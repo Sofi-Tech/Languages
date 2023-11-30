@@ -1,8 +1,8 @@
 {
-    "SS_CATEGORY": "Pengaturan",
-    "SS_SLASH_DESC": "Pilih channel",
-    "SS_DISABLE": "{{author}} Kartu tidak akan muncul lagi di server ini",
-    "SS_ENABLE": "{{author}} Channel spawn telah disetel ke {{channel}}",
-    "SS_DESCRIPTION": "Mengatur channel spawn di server",
-    "SS_MENTION_CHANNEL": "{{author}} Penggunaan yang benar: `{{prefix}}ss <#ChannelMention/ChannelID>`"
+  "SS_CATEGORY": "Pengaturan",
+  "SS_SLASH_DESC": "Pilih channel",
+  "SS_DISABLE": "{{author}} Kartu tidak akan muncul lagi di server ini",
+  "SS_ENABLE": "{{author}} Channel spawn telah disetel ke {{channel}}",
+  "SETSPAWN_DESCRIPTION": "Mengatur channel spawn di server",
+  "SS_MENTION_CHANNEL": "{{author}} Penggunaan yang benar: `{{prefix}}ss <#ChannelMention/ChannelID>`"
 }

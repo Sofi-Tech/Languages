@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Bir kelime tahmin oyunu başlatır",
+  "GUESS_DESCRIPTION": "Bir kelime tahmin oyunu başlatır",
   "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}guess <Amount> <Currency>`\nKabul edilen para birimleri: `silvers` `wists` `gems` `cubes`",
   "NO_TP": "{{message.author}} Etkin bir `Trade Pass`ınız yok. Web sitesini ziyaret etmek için `{{prefix}}bump` komutunu kullanın ve `Bump` puanlarınız ile `Trade Pass` alın",
   "NOT_ENOUGH_CURR": "{{user}} Oyuna başlamak için yeterli `{{currency}}` paranız yok!",

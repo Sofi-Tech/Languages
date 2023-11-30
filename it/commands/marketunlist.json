@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Rimuove le tue offerte dal mercato",
-    "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido o non è tuo",
-    "SUCCESS_UL": "{{user}} Rimosse con successo il seguente ordine dal mercato: `{{dealId}}`",
-    "NO_LISTINGS_FOUND": "{{user}} Al momento non hai ordini",
-    "SUCCESS_UL_ALL": "{{user}} Ha rimosso con successo tutti i tuoi ordini dal mercato"
+  "MARKETUNLIST_DESCRIPTION": "Rimuove le tue offerte dal mercato",
+  "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}mul <Order-ID/All>`",
+  "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido o non è tuo",
+  "SUCCESS_UL": "{{user}} Rimosse con successo il seguente ordine dal mercato: `{{dealId}}`",
+  "NO_LISTINGS_FOUND": "{{user}} Al momento non hai ordini",
+  "SUCCESS_UL_ALL": "{{user}} Ha rimosso con successo tutti i tuoi ordini dal mercato"
 }

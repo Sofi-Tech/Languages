@@ -1,6 +1,6 @@
 {
-    "PRO_DESCRIPTION": "Affiche le profil d'un utilisateur",
-    "PRO_CATEGORY": "Réglages",
-    "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
-    "PROFILE_NOT_FOUND": "{{author}} Cet utilisateur n'est pas enregistré"
+  "PROFILE_DESCRIPTION": "Affiche le profil d'un utilisateur",
+  "PRO_CATEGORY": "Réglages",
+  "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
+  "PROFILE_NOT_FOUND": "{{author}} Cet utilisateur n'est pas enregistré"
 }

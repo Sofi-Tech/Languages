@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "شراء صفقة من السوق",
+  "MARKETBUY_DESCRIPTION": "شراء صفقة من السوق",
   "CORRECT_USAGE": "{{user}} | الاستخدام الصحيح : {{prefix}}mp <رقم الصفقة> [كمية ويست]",
   "INVALID_DEAL_ID": "تم توفير معرف صفقة غير صالح: يرجى التحقق مرة أخرى",
   "CANNOT_PURCHASE": "{{user}} | لا يمكن شراء تلك الصفقة",

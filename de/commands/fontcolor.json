@@ -1,5 +1,5 @@
 {
-  "FC_DESCRIPTION": "Ändert die Schriftfarbe einer Karte, indem ein \"Glow\" darauf angewendet wird",
+  "FONTCOLOR_DESCRIPTION": "Ändert die Schriftfarbe einer Karte, indem ein \"Glow\" darauf angewendet wird",
   "FC_CATEGORY": "Kosmetika",
   "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
   "NOT_CARD_OWNER": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",

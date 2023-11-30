@@ -1,7 +1,7 @@
 {
-    "TD_DESCRIPTION": "Bir \"Tag\" ı siler",
-    "TD_CATEGORY": "Etiketler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}dt <TagName>`",
-    "TAG_NOT_FOUND": "{{author}} Bu ada sahip herhangi bir `Tag`ınız yok",
-    "SUCCESSFUL_DELETE_TAG": "{{author}}, `{{tag}}`adlı `Tag`'ı başarıyla silindi"
+  "TAGDELETE_DESCRIPTION": "Bir \"Tag\" ı siler",
+  "TD_CATEGORY": "Etiketler",
+  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}dt <TagName>`",
+  "TAG_NOT_FOUND": "{{author}} Bu ada sahip herhangi bir `Tag`ınız yok",
+  "SUCCESSFUL_DELETE_TAG": "{{author}}, `{{tag}}`adlı `Tag`'ı başarıyla silindi"
 }

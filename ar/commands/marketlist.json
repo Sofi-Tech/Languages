@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "العنصر المدرج في السوق",
+  "MARKETLIST_DESCRIPTION": "العنصر المدرج في السوق",
   "CORRECT_USAGE": "{{user}} الاستخدام الصحيح: {{prefix}}ml <wist> <rate>",
   "INVALID_GEM_RATE": "{{user}} معدل الجوهرة غير صالح",
   "GEM_RATE_LIES": "{{user}} يجب أن يكون سعر الجوهرة بين 3.0-20.0",

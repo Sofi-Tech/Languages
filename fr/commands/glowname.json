@@ -1,15 +1,15 @@
 {
-    "GN_DESCRIPTION": "Change le nom d'un \"Glow\"",
-    "GN_CATEGORY": "Cosmétiques",
-    "UNLOCK_GLOWS": "{{author}} Vous n'avez pas de `Glows`",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gn <CodeDeGlow> <NouveauNom>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Les codes des **Glow** commencent toujours avec un `#`",
-    "GLOW_NOT_FOUND": "{{author}} Le code de `Glow` que vous avez fourni est invalide ou n'est pas dans votre inventaire",
-    "GLOW_NAME_LONG": "{{author}} Le nom de votre `Glow` ne peut contenir que **25** caractères",
-    "GLOW_NAME_EXISTS": "{{author}} Ce nom est déjà attribué à un `Glow` différent",
-    "EMBED_TITLE": "SOFI: GLOWNAME",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Êtes-vous sûr(e) de vouloir changer le nom de votre `Glow` `{{oldName}}` par `{{newName}}`?",
-    "MISSING_ITEMS": "{{author}} Vous n'avez pas assez de `{{currency}}` pour ce processus",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Le nom de votre `Glow` a été changé avec succès par `{{newName}}`",
-    "PROFANE_GLOW_NAME": "{{author}} Le nom de votre `Glow` **ne doit pas** contenir d'injures"
+  "GLOWNAME_DESCRIPTION": "Change le nom d'un \"Glow\"",
+  "GN_CATEGORY": "Cosmétiques",
+  "UNLOCK_GLOWS": "{{author}} Vous n'avez pas de `Glows`",
+  "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gn <CodeDeGlow> <NouveauNom>`",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} Les codes des **Glow** commencent toujours avec un `#`",
+  "GLOW_NOT_FOUND": "{{author}} Le code de `Glow` que vous avez fourni est invalide ou n'est pas dans votre inventaire",
+  "GLOW_NAME_LONG": "{{author}} Le nom de votre `Glow` ne peut contenir que **25** caractères",
+  "GLOW_NAME_EXISTS": "{{author}} Ce nom est déjà attribué à un `Glow` différent",
+  "EMBED_TITLE": "SOFI: GLOWNAME",
+  "GLOWNAME_CHANGE_CONFIRMATION": "Êtes-vous sûr(e) de vouloir changer le nom de votre `Glow` `{{oldName}}` par `{{newName}}`?",
+  "MISSING_ITEMS": "{{author}} Vous n'avez pas assez de `{{currency}}` pour ce processus",
+  "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Le nom de votre `Glow` a été changé avec succès par `{{newName}}`",
+  "PROFANE_GLOW_NAME": "{{author}} Le nom de votre `Glow` **ne doit pas** contenir d'injures"
 }

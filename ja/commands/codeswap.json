@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "このアクションは、指定された2枚のカード間でコードを交換します",
-    "SLASH_DESC": "最初のコードを入力してください",
-    "SLASH_DESC2": "2番目のコードを入力してください",
-    "CORRECT_USAGE": "{{author}}正しい使い方: `{{prefix}}cs <コード１> <コード２>`",
-    "INVALID_CODES_PROVIDED": "{{author}} 少なくとこ１つを入力されたカードコードが無効か、またはインベントリーに見つかりませんでした",
-    "SUCCESSFUL_CODE_SWAP": "{{author}}カードコードの交換は成功しました"
+  "CODESWAP_DESCRIPTION": "このアクションは、指定された2枚のカード間でコードを交換します",
+  "SLASH_DESC": "最初のコードを入力してください",
+  "SLASH_DESC2": "2番目のコードを入力してください",
+  "CORRECT_USAGE": "{{author}}正しい使い方: `{{prefix}}cs <コード１> <コード２>`",
+  "INVALID_CODES_PROVIDED": "{{author}} 少なくとこ１つを入力されたカードコードが無効か、またはインベントリーに見つかりませんでした",
+  "SUCCESSFUL_CODE_SWAP": "{{author}}カードコードの交換は成功しました"
 }

@@ -17,7 +17,7 @@
   "SF_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}sf <ImageURL> <NamaFrame>`",
   "MAXIMUM_NAME_LENGTH": "{{author}} Nama dari `Frame` hanya bisa sepanjang **20** karakter",
   "SF_EMBED_TITLE": "SOFI: SUBMITFRAME",
-  "SF_DESCRIPTION": "Pengajuan \"Frame\"",
+  "SUBMITFRAME_DESCRIPTION": "Pengajuan \"Frame\"",
   "SF_CATEGORY": "Pengaturan",
   "SF_FILETYPE_INFO": "<:_:979009081325019156> Gambar yang diajukan **harus** dengan file `PNG` untuk menjaga transparansinya",
   "SF_LINK_INFO": "<:_:979009081325019156> Gambar yang diajukan harus menggunakan link Discord resmi, seperti `cdn.discordapp.com` atau `media.discordapp.net`",

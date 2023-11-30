@@ -1,6 +1,6 @@
 {
   "SF_CORRECT_USAGE": "올바른 사용법: `{{prefix}}sf <이미지URL> <프레임이름>`",
-  "SF_DESCRIPTION": "\"프레임\"을 제출합니다",
+  "SUBMITFRAME_DESCRIPTION": "\"프레임\"을 제출합니다",
   "SF_CATEGORY": "설정",
   "SF_DISCORD_LINK": "{{author}} 제출한 이미지가 디스코드 서버의 `cdn.discordapp.com` 또는 `media.discordapp.net`에 호스팅되어 있는지 확인하세요",
   "SF_VALID_DIMENSION": "{{author}} 제출한 `프레임`의 크기는 **402** x **603** (가로 x 세로) 여야 합니다",

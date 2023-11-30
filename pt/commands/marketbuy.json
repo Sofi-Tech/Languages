@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Compra \"Wists\" do mercado em troca de \"Gems\"",
+  "MARKETBUY_DESCRIPTION": "Compra \"Wists\" do mercado em troca de \"Gems\"",
   "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}mbuy <IDdaOferta> <QuantidadeDeWist>`",
   "INVALID_DEAL_ID": "{{author}} O ID da Oferta fornecido é inválido",
   "CANNOT_PURCHASE": "{{user}} Não é possível comprar esta oferta",

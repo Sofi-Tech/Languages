@@ -1,7 +1,7 @@
 {
-    "RM_CATEGORY": "Настройки",
-    "PROVIDE_REMINDER_NAME": "{{author}} Правильное использование: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} Теперь вы будете получать уведомления о готовности вашего **{{reminder}}**",
-    "RM_DESCRIPTION": "Переключает ваши напоминания",
-    "REMINDER_DISABLED": "{{author}} Вы больше не будете получать уведомления о готовности вашего **{{reminder}}**"
+  "RM_CATEGORY": "Настройки",
+  "PROVIDE_REMINDER_NAME": "{{author}} Правильное использование: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_ENABLED": "{{author}} Теперь вы будете получать уведомления о готовности вашего **{{reminder}}**",
+  "TOGGLEREMINDER_DESCRIPTION": "Переключает ваши напоминания",
+  "REMINDER_DISABLED": "{{author}} Вы больше не будете получать уведомления о готовности вашего **{{reminder}}**"
 }

@@ -1,6 +1,6 @@
 {
   "NON_3D_CARDS": "{{author}} Du kannst keine `Backgrounds` auf Karten anwenden die nicht 3D sind",
-  "BG_DESCRIPTION": "Wendet einen \"Background\" auf deine 3D-Karten an",
+  "BACKGROUND_DESCRIPTION": "Wendet einen \"Background\" auf deine 3D-Karten an",
   "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}bg <CardCode> <Background-ID>`",
   "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
   "BG_CATEGORY": "Kosmetika",

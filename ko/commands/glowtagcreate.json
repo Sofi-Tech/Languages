@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "글로우 태그 만들기",
-    "GTC_CATEGORY": "태그",
-    "CORRECT_USAGE": "사용법: `{{prefix}}gtc <태그명> <이모지>`",
-    "INVALID_EMOJI": "유효하지 않은 이모지입니다",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} 이름이 같은 글로우 태그가 이미 존재합니다",
-    "CREATED_GLOWTAG": "{{author}} **태그 이름:** `{{tag}}` | **이모지:** {{emoji}}로 글로우 태그를 만들었습니다."
+  "GLOWTAGCREATE_DESCRIPTION": "글로우 태그 만들기",
+  "GTC_CATEGORY": "태그",
+  "CORRECT_USAGE": "사용법: `{{prefix}}gtc <태그명> <이모지>`",
+  "INVALID_EMOJI": "유효하지 않은 이모지입니다",
+  "GLOWTAG_ALREADY_EXISTS": "{{author}} 이름이 같은 글로우 태그가 이미 존재합니다",
+  "CREATED_GLOWTAG": "{{author}} **태그 이름:** `{{tag}}` | **이모지:** {{emoji}}로 글로우 태그를 만들었습니다."
 }

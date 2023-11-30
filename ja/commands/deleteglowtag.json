@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "「Glowタグ」を削除する",
-    "DGT_CATEGORY": "タグ",
-    "CORRECT_USAGE": "{{author}} 正しい使い方は：`{{prefix}}dgt <タグ名>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}`の`タグ名`が見つかりませんでした",
-    "DELETE_GLOWTAG": "{{author}} `{{tag}}`名の`Glowタグ`を成功で削除しました"
+  "DELETEGLOWTAG_DESCRIPTION": "「Glowタグ」を削除する",
+  "DGT_CATEGORY": "タグ",
+  "CORRECT_USAGE": "{{author}} 正しい使い方は：`{{prefix}}dgt <タグ名>`",
+  "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}`の`タグ名`が見つかりませんでした",
+  "DELETE_GLOWTAG": "{{author}} `{{tag}}`名の`Glowタグ`を成功で削除しました"
 }

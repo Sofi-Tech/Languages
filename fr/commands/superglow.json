@@ -1,5 +1,5 @@
 {
-  "SG_DESCRIPTION": "Combinez deux \"Glows\" pour créer un \"Super Glow\"",
+  "SUPERGLOW_DESCRIPTION": "Combinez deux \"Glows\" pour créer un \"Super Glow\"",
   "SG_CATEGORY": "Cosmétiques",
   "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}sg <#CodeDeGlow1> <#CodeDeGlow2>`",
   "GLOW_NOT_FOUND": "{{author}} Au moins un des codes de `Glow` fournis est invalide ou n'est pas dans votre inventaire",

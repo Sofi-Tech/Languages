@@ -1,8 +1,8 @@
 {
-    "SS_DESCRIPTION": "Sets the spawn channel on the server",
-    "SS_CATEGORY": "Settings",
-    "SS_SLASH_DESC": "Select a channel",
-    "SS_MENTION_CHANNEL": "{{author}} Correct usage: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-    "SS_DISABLE": "{{author}} Cards will no longer spawn on this server",
-    "SS_ENABLE": "{{author}} The spawn channel has been set to {{channel}}"
+  "SETSPAWN_DESCRIPTION": "Sets the spawn channel on the server",
+  "SS_CATEGORY": "Settings",
+  "SS_SLASH_DESC": "Select a channel",
+  "SS_MENTION_CHANNEL": "{{author}} Correct usage: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+  "SS_DISABLE": "{{author}} Cards will no longer spawn on this server",
+  "SS_ENABLE": "{{author}} The spawn channel has been set to {{channel}}"
 }

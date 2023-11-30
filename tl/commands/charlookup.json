@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "- Maaaring mahanap ang isang tiyak na character gamit ang \"scl\" command. Sa character lookup menu, maaaring tingnan ang mga estadistika ng mga kard, ang kanilang Bersyon/3D /GIF variant, pati na rin ang ranggo para sa Gen/Fan at pati ang kanilang \"Card ID\".\n- Ang \"Card ID\" ay kinakailangan kapag mag susubmit ng mga imahe para sa bagong \"Bersyon\"",
+  "CHARLOOKUP_DESCRIPTION": "- Maaaring mahanap ang isang tiyak na character gamit ang \"scl\" command. Sa character lookup menu, maaaring tingnan ang mga estadistika ng mga kard, ang kanilang Bersyon/3D /GIF variant, pati na rin ang ranggo para sa Gen/Fan at pati ang kanilang \"Card ID\".\n- Ang \"Card ID\" ay kinakailangan kapag mag susubmit ng mga imahe para sa bagong \"Bersyon\"",
   "CHAR_NOT_FOUND": "{{author}} Hindi mahanap ang anumang karakter na may pangalang: `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}} Walang makitang kahit anong karakter na may pangalang: `{{arg}}`\n\n```fix\nNote: Ang paggamit ng bandilang `-f `ay nagpapagana sa pagsasaalang-alang ng kaso ng function!\n```",
   "EMBED_TITLE": "SOFI: CHARLOOKUP",

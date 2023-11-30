@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "将角色加入到您的心愿单",
+  "WISHLISTADD_DESCRIPTION": "将角色加入到您的心愿单",
   "CATEGORY": "心愿单",
   "ADD_CHARACTERS_ERROR": "{{author}} 您不能将更多角色加入心愿单",
   "SEARCH_CHARACTER_ERROR": "{{author}} 正确用法: `{{prefix}}wa <Name>`",

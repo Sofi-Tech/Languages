@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "لعبة تخمين الكلمة",
+  "GUESS_DESCRIPTION": "لعبة تخمين الكلمة",
   "CORRECT_USAGE": "{{user}} **الاستخدام الصحيح: {{prefix}}guess <amount> <currency>**\n|`silvers` `wists` `gems` `cubes`",
   "NO_TP": "${message.author} لا يوجد لديه تراد باس نشط. قم بتحويل نقاط البومب المكتسبة إلى تراد باس عن طريق الموقع.",
   "NOT_ENOUGH_CURR": "{{user}} **| ليس لديك ما يكفي من `{{currency}}` لبدء اللعبة**",

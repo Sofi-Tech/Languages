@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "\"Pulls\" из набора различных \"Items\", включая \"Charms\" и \"Fragments\" для анимированных карт",
-    "PULL_AMT": "{{author}} Правильное использование: `{{prefix}}pull <1/10>`",
-    "INFO_1": "Вам необходимо 8 **Fragments**, чтобы создать **GIF** версию персонажа",
-    "INFO_2": "Всего доступно **100** **GIF** версий на персонажа",
-    "INFO_3": "Сжигайте **Fragments**, чтобы получать **Charms**",
-    "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Количество вытягиваний: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} У вас недостаточно **{{currName}}** для данного процесса",
-    "AMOUNT": "Вы получили: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
-    "PULL_COUNT_WIST": "Количество вытягиваний: [ {{pullcount}} ]",
-    "RATES": "Шансы",
-    "PULL_CHANCES": "**__Вероятности__**"
+  "PULL_DESCRIPTION": "\"Pulls\" из набора различных \"Items\", включая \"Charms\" и \"Fragments\" для анимированных карт",
+  "PULL_AMT": "{{author}} Правильное использование: `{{prefix}}pull <1/10>`",
+  "INFO_1": "Вам необходимо 8 **Fragments**, чтобы создать **GIF** версию персонажа",
+  "INFO_2": "Всего доступно **100** **GIF** версий на персонажа",
+  "INFO_3": "Сжигайте **Fragments**, чтобы получать **Charms**",
+  "PULLS": "SOFI: PULLS",
+  "PULL_COUNT": "Количество вытягиваний: [ {{count}} ]",
+  "MISSING_CURR": "{{user}} У вас недостаточно **{{currName}}** для данного процесса",
+  "AMOUNT": "Вы получили: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+  "PULL_COUNT_WIST": "Количество вытягиваний: [ {{pullcount}} ]",
+  "RATES": "Шансы",
+  "PULL_CHANCES": "**__Вероятности__**"
 }

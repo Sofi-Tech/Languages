@@ -1,7 +1,7 @@
 {
-    "TT_DESCRIPTION": "Ilipat ang mga kard mula sa isang tag papunta sa iba",
-    "TT_CATEGORY": "Mga Tag",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}trt <pangalanNgLumangTag> <pangalanNgPanibagongTag>`",
-    "TAG_NOT_FOUND": "{{author}}ikaw ay walang kahit anong ang `Tag` na may pangalang: `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Matagumpay na inilipat ang lahat ng mga card mula sa `Tag` `{{fromTag}}` patungo sa `{{toTag}}`"
+  "TRANSFERTAG_DESCRIPTION": "Ilipat ang mga kard mula sa isang tag papunta sa iba",
+  "TRTAG_CATEGORY": "Mga Tag",
+  "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}trt <pangalanNgLumangTag> <pangalanNgPanibagongTag>`",
+  "TAG_NOT_FOUND": "{{author}}ikaw ay walang kahit anong ang `Tag` na may pangalang: `{{tag}}`",
+  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Matagumpay na inilipat ang lahat ng mga card mula sa `Tag` `{{fromTag}}` patungo sa `{{toTag}}`"
 }

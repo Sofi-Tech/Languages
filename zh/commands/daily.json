@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "用「sdaily」的指令领取每日奖励。维持每天领取奖励，可以得到更好的奖励！",
-    "CATEGORY": "卡片",
-    "EMBED_AUTHOR": "{{author}}的每日奖励",
-    "DAILY_ERROR": "你可以在{{timeout}}后领取你的每日奖励。\n",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> 剩余{{count}}个每日奖励可领取普通宝箱",
-    "RARE_CHEST": "<:rarechest:927204672270372874> 剩余{{count}}个每日奖励可领取稀有宝箱",
-    "NOTE": "⚠️ Discord 以及 Sofi 工作人员绝不会做以下任何事情：\n- 询问您的 \"密码 \"或 \"OTP\"\n- 建议您更改电子邮件\n- 使用第三方方法（如 \"Mee6 \"或 \"Dyno\"）与您交流。\n\n任何可疑活动都应立即通过 {{link}} 进行举报！⚠️",
-    "EMBED_FOOTER": "连续领取 [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "感谢您领取每日奖励！",
-    "GUILD_BONUS": "由于您是在Top-20的Sofi服务器上使用这个命令，您的 \"Daily\"奖励会增加x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
+  "DAILY_DESCRIPTION": "用「sdaily」的指令领取每日奖励。维持每天领取奖励，可以得到更好的奖励！",
+  "CATEGORY": "卡片",
+  "EMBED_AUTHOR": "{{author}}的每日奖励",
+  "DAILY_ERROR": "你可以在{{timeout}}后领取你的每日奖励。\n",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> 剩余{{count}}个每日奖励可领取普通宝箱",
+  "RARE_CHEST": "<:rarechest:927204672270372874> 剩余{{count}}个每日奖励可领取稀有宝箱",
+  "NOTE": "⚠️ Discord 以及 Sofi 工作人员绝不会做以下任何事情：\n- 询问您的 \"密码 \"或 \"OTP\"\n- 建议您更改电子邮件\n- 使用第三方方法（如 \"Mee6 \"或 \"Dyno\"）与您交流。\n\n任何可疑活动都应立即通过 {{link}} 进行举报！⚠️",
+  "EMBED_FOOTER": "连续领取 [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "感谢您领取每日奖励！",
+  "GUILD_BONUS": "由于您是在Top-20的Sofi服务器上使用这个命令，您的 \"Daily\"奖励会增加x1.5!\n<:silvercoin:915619222229512213> + {{silverAmount}}"
 }

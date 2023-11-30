@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Açık sandıkları ve loot kutularını açar",
+  "OPEN_DESCRIPTION": "Açık sandıkları ve loot kutularını açar",
   "SLASH_DESC_1": "Açmak istediğiniz \"Öğe\"yi girin",
   "SLASH_DESC_2": "Miktarı girin.",
   "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}open <ItemName> <Amount>`",

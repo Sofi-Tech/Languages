@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Ipinapakita ang mga Bersyon/3D/GIF ng mga karakters",
+  "LOOKUP_DESCRIPTION": "Ipinapakita ang mga Bersyon/3D/GIF ng mga karakters",
   "CHAR_NOT_FOUND": "{{author}} Hindi mahanap ang anumang karakter na may pangalang: `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}} Walang makitang kahit anong karakter na may pangalang: `{{arg}}`\n\n```fix\nNote: Ang paggamit ng bandilang `-f `ay nagpapagana sa pagsasaalang-alang ng kaso ng function!\n```",
   "EMBED_TITLE": "SOFI: LOOKUP",

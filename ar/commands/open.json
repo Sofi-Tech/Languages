@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "يفتح الصناديق",
+  "OPEN_DESCRIPTION": "يفتح الصناديق",
   "SLASH_DESC_1": "أدخِل الـ \"عنصر\" الذي تريد فتحه",
   "SLASH_DESC_2": "أدخِل الكمية.",
   "CORRECT_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}open <اسم العنصر> <الكمية>`",

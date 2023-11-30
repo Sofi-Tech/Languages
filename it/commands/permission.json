@@ -28,7 +28,7 @@
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Ha aggiunto con successo tutti i comandi a {{listName}} di questo canale",
   "ADD_COMMANDS_ERROR": "{{author}} I comandi che hai fornito sono già su {{listName}} di questo canale o non sono validi",
   "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Ha rimosso con successo tutti i comandi da {{listName}} di questo canale",
-  "PERMS_DESCRIPTION": "Consente di inserire nella lista bianca o nella lista nera comandi specifici nel canale.",
+  "PERMISSION_DESCRIPTION": "Consente di inserire nella lista bianca o nella lista nera comandi specifici nel canale.",
   "NO_PERMS_SETUP": "{{author}} L'autorizzazione non è ancora stata impostata in questo canale. Per imporstarla, usa `{{prefix}}p [BL/WL] [Add] <CommandNames/All>`",
   "BLACKLIST_ALREADY_ACTIVE": "{{author}} Non è possibile rimuovere i comandi whitelisted da una blacklist",
   "WHITELIST_ALREADY_ACTIVE": "{{author}} Non è possibile rimuovere i comandi inseriti nella blacklist da una whitelist",

@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Displays the wishlist leaderboard",
-    "CATEGORY": "Wishlist",
-    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-    "EMBED_FOOTER": "Showing page: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Characters",
-    "SERIES_BUTTON_LABEL": "Series"
+  "WISHLISTLB_DESCRIPTION": "Displays the wishlist leaderboard",
+  "CATEGORY": "Wishlist",
+  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+  "EMBED_FOOTER": "Showing page: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Characters",
+  "SERIES_BUTTON_LABEL": "Series"
 }

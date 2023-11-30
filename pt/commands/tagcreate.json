@@ -1,10 +1,10 @@
 {
-    "TC_DESCRIPTION": "Cria uma \"Tag\"",
-    "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}tc <TagName> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Esse emoji é inválido",
-    "INVALID_TAGNAME_FORMAT": "{{author}} O nome da sua `Tag` deve ser alfanumérico e não pode conter caracteres especiais, espaços ou palavrões!",
-    "LONG_TAGNAME": "{{author}} O nome da sua `Tag` só pode ter **20** caracteres",
-    "TAGNAME_EXISTS": "{{author}} Você já tem uma `Tag`com esse nome `{{tag}}`",
-    "TAG_CREATED": "{{author}} Criou com sucesso uma `Tag` com o nome: `{{tag}}` | {{emoji}}"
+  "TAGCREATE_DESCRIPTION": "Cria uma \"Tag\"",
+  "TC_CATEGORY": "Tags",
+  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}tc <TagName> <Emoji>`",
+  "INVALID_EMOJI": "{{author}} Esse emoji é inválido",
+  "INVALID_TAGNAME_FORMAT": "{{author}} O nome da sua `Tag` deve ser alfanumérico e não pode conter caracteres especiais, espaços ou palavrões!",
+  "LONG_TAGNAME": "{{author}} O nome da sua `Tag` só pode ter **20** caracteres",
+  "TAGNAME_EXISTS": "{{author}} Você já tem uma `Tag`com esse nome `{{tag}}`",
+  "TAG_CREATED": "{{author}} Criou com sucesso uma `Tag` com o nome: `{{tag}}` | {{emoji}}"
 }

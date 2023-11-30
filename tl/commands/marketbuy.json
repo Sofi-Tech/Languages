@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
+  "MARKETBUY_DESCRIPTION": "Bumili ng \"Wist\" mula sa market kapalit ng \"Gems\"",
   "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNg Wist>`",
   "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay hindi wasto",
   "CANNOT_PURCHASE": "{{user}} Hindi ka maaaring makapag interak sa order na ito",

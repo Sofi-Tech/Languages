@@ -1,8 +1,8 @@
 {
-    "SS_DESCRIPTION": "सर्वर में स्पोन चैनल को स्थापित किजिए",
-    "SS_CATEGORY": "SETTINGS",
-    "SS_SLASH_DESC": "चैनल चुने",
-    "SS_MENTION_CHANNEL": "{{author}} सही उपयोग: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-    "SS_DISABLE": "{{author}} पत्ते अब इस सर्वर पर स्पॉन नहीं होंगे",
-    "SS_ENABLE": "{{author}} स्पाॅन चैनल {{channel}} को स्थापित किया गया"
+  "SETSPAWN_DESCRIPTION": "सर्वर में स्पोन चैनल को स्थापित किजिए",
+  "SS_CATEGORY": "SETTINGS",
+  "SS_SLASH_DESC": "चैनल चुने",
+  "SS_MENTION_CHANNEL": "{{author}} सही उपयोग: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+  "SS_DISABLE": "{{author}} पत्ते अब इस सर्वर पर स्पॉन नहीं होंगे",
+  "SS_ENABLE": "{{author}} स्पाॅन चैनल {{channel}} को स्थापित किया गया"
 }

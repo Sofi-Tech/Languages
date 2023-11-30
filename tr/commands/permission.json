@@ -6,7 +6,7 @@
   "REMOVE_MODAL_LABEL": "Bu kanalın komutlarını kaldır\n{{listName}}",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Aşağıdaki komutlar bu kanalın listesine başarıyla eklendi\n{{listname}}: {{commandsList}}",
   "ADD_COMMANDS_ERROR": "{{author}} Sağladığınız komutlar ya bu kanalın {{listName}} zaten var ya da geçersiz",
-  "PERMS_DESCRIPTION": "Bu kanaldaki belirli komutları beyaz listeye veya kara listeye almanızı sağlar.",
+  "PERMISSION_DESCRIPTION": "Bu kanaldaki belirli komutları beyaz listeye veya kara listeye almanızı sağlar.",
   "PERMS_CATEGORY": "Ayarlar",
   "BLACKLIST_BUTTON_LABEL": "Kara liste",
   "WHITELIST_BUTTON_LABEL": "Beyaz liste",

@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Abre baús e caixas de recompensas",
+  "OPEN_DESCRIPTION": "Abre baús e caixas de recompensas",
   "SLASH_DESC_1": "Digite o nome do \"Item\" que deseja abrir",
   "SLASH_DESC_2": "Digite a quantidade.",
   "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}abrir <NomeItem> <Quantidade>`\n`Itens` que podem ser abertos: `Baús`, `Amuletos`",

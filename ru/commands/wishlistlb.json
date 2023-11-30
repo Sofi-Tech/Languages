@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Отображает таблицу лидеров списка желаемого",
-    "CATEGORY": "Список желаемого",
-    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-    "EMBED_FOOTER": "Отображение страниц: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Персонажи",
-    "SERIES_BUTTON_LABEL": "Серии"
+  "WISHLISTLB_DESCRIPTION": "Отображает таблицу лидеров списка желаемого",
+  "CATEGORY": "Список желаемого",
+  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+  "EMBED_FOOTER": "Отображение страниц: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Персонажи",
+  "SERIES_BUTTON_LABEL": "Серии"
 }

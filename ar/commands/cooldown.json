@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "تظهر  العداد لهذه الانشطة:\n- Drop, Grab, Vote, Raid, Daily, Bump\n-انقر على أيقونات الجرس لإضافة تذكير لل\"drop\" , \"vote \" , \"daily\"",
-    "JOIN_SUPPORT_SERVER": "[انضم إلى خادم الدعم للحصول على المساعدة](https://discord.gg/sofi)",
-    "DROP": "إسقاط",
-    "GRAB": "جراب",
-    "VOTE": "تصويت",
-    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-    "DAILY": "يوميا"
+  "COOLDOWN_DESCRIPTION": "تظهر  العداد لهذه الانشطة:\n- Drop, Grab, Vote, Raid, Daily, Bump\n-انقر على أيقونات الجرس لإضافة تذكير لل\"drop\" , \"vote \" , \"daily\"",
+  "JOIN_SUPPORT_SERVER": "[انضم إلى خادم الدعم للحصول على المساعدة](https://discord.gg/sofi)",
+  "DROP": "إسقاط",
+  "GRAB": "جراب",
+  "VOTE": "تصويت",
+  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+  "DAILY": "يوميا"
 }

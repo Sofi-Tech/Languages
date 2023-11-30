@@ -1,7 +1,7 @@
 {
   "SUBMISSION_SUCCESSFUL": "{{author}} Resim başarıyla önerge edildi",
   "NOT_PING_STAFF": "<:_:979009081325019156> Resim bir `PNG` veya `JPG` dosyası olmalıdır",
-  "SC_DESCRIPTION": "Bir karakter \"Version\" varyantı için bir resim önerisi gönderir",
+  "SUBMITCARD_DESCRIPTION": "Bir karakter \"Version\" varyantı için bir resim önerisi gönderir",
   "CARD_EMBED_TITLE": "SOFI: SUBMITCARD",
   "EMBED_FOOTER": "Gönderimleriniz: {{userStats}}/{{submitted}}| Toplam gönderi sayısı: {{globalStats}}/{{allSubmit}}",
   "CARD_ID_INVALID": "{{author}} Gönderilen Kart ID'si geçersiz",

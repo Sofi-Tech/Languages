@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "\"Charm\" ve animasyonlu kartlar için kullanılan \"Fragment\"ler gibi çeşitli \"Item\"ler içeren bir eşya havuzundan \"Pull\"lar",
+  "PULL_DESCRIPTION": "\"Charm\" ve animasyonlu kartlar için kullanılan \"Fragment\"ler gibi çeşitli \"Item\"ler içeren bir eşya havuzundan \"Pull\"lar",
   "PULL_AMT": "{{author}} Gerçekleştirmek istediğiniz `Pulls` miktarını girin. Bu, **1** veya **10** olabilir",
   "INFO_1": "Bir karakterin `GIF` varyantını oluşturmak için 8 `Fragments`a ihtiyacınız var",
   "INFO_2": "Karakterinlerin `GIF` varyantlarında 100 benzersiz `Gens` bulunur",

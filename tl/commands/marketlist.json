@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Inilalagay ang iyong \"Wist\" sa market, na pwedeng mabili ng ibang players gamit ang \"Gems\"",
+  "MARKETLIST_DESCRIPTION": "Inilalagay ang iyong \"Wist\" sa market, na pwedeng mabili ng ibang players gamit ang \"Gems\"",
   "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}ml <Halaga> <Rate>`",
   "INVALID_GEM_RATE": "{{user}} Ang rate na ibinigay mo ay hindi wasto",
   "GEM_RATE_LIES": "{{user}} Ang ibinigay na halaga ng rate ay dapat nasa pagitan ng **3.0 - 20.0**",

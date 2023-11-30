@@ -1,7 +1,7 @@
 {
   "INVALID_DC_MOVIES": "{{author}} Les codes de `Glow` commencent toujours par un `#`",
   "UNLOCK_GLOWS": "{{author}} Vous n'avez pas encore de `Glows`",
-  "RG_DESCRIPTION": "Recharge un \"Glow\" vide",
+  "RECHARGE_DESCRIPTION": "Recharge un \"Glow\" vide",
   "RG_CATEGORY": "Cosmetics",
   "NO_GLOWCDE": "{{author}} Utilisation correcte: `{{prefix}}rg <#CodeDuGlow>`",
   "GLOW_NOT_FOUND": "{{author}} Le code de `Glow` que vous avez fourni est invalide ou n'est pas dans votre inventaire",

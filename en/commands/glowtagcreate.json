@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "Creates a \"Glow Tag\"",
-    "GTC_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gtc <TagName> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} That emoji is invalid",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} You already have a **Glow** tag with that name",
-    "CREATED_GLOWTAG": "{{author}} Successfully created a **Glow** tag with the name `{{tag}}` | {{emoji}}"
+  "GLOWTAGCREATE_DESCRIPTION": "Creates a \"Glow Tag\"",
+  "GTC_CATEGORY": "Tags",
+  "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gtc <TagName> <Emoji>`",
+  "INVALID_EMOJI": "{{author}} That emoji is invalid",
+  "GLOWTAG_ALREADY_EXISTS": "{{author}} You already have a **Glow** tag with that name",
+  "CREATED_GLOWTAG": "{{author}} Successfully created a **Glow** tag with the name `{{tag}}` | {{emoji}}"
 }

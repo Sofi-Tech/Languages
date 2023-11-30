@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Bir grup kart oluştururp \"Drop\"'lar\nGörsel olmadan bir \"Drop\" oluşturmak için \"{{prefix}}dn\" komutunu kullanın",
+  "DROP_DESCRIPTION": "Bir grup kart oluştururp \"Drop\"'lar\nGörsel olmadan bir \"Drop\" oluşturmak için \"{{prefix}}dn\" komutunu kullanın",
 
   "EXTRA_DROP_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. **{{remaining}}** kaldı",
   "ON_CD": "{{author}} `Drop`unuz {{dropCd}} içinde hazır olacak",

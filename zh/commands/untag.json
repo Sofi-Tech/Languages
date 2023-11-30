@@ -1,9 +1,9 @@
 {
-    "UT_DESCRIPTION": "从您的卡片中删除\"Tags\"",
-    "UT_CATEGORY": "标签",
-    "UT_EMPTY_COLLECTION": "{{author}}您的收藏里未有任何卡片",
-    "UNTAG_SUCCESSFUL": "{{author}}**{{cardName}}**成功取消`Tag`的标签",
-    "INVALID_CODE": "{{author}} 该卡代码无效或不在您的库存中",
-    "MULTIPLE_UNTAG": "{{author}}已成功从 **{{count}}** 卡中删除“标签”",
-    "INVALID_CODE_MULTIPLE": "{{author}} 以下卡代码无效或不在您的库存中：\n{{invalidCodeList}}"
+  "UNTAG_DESCRIPTION": "从您的卡片中删除\"Tags\"",
+  "UT_CATEGORY": "标签",
+  "UT_EMPTY_COLLECTION": "{{author}}您的收藏里未有任何卡片",
+  "UNTAG_SUCCESSFUL": "{{author}}**{{cardName}}**成功取消`Tag`的标签",
+  "INVALID_CODE": "{{author}} 该卡代码无效或不在您的库存中",
+  "MULTIPLE_UNTAG": "{{author}}已成功从 **{{count}}** 卡中删除“标签”",
+  "INVALID_CODE_MULTIPLE": "{{author}} 以下卡代码无效或不在您的库存中：\n{{invalidCodeList}}"
 }

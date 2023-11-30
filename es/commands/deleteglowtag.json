@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "Elimina un \"Glow Tag\"",
-    "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}dgt <NombreDelTag>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} No tienes ningún **Glow Tag** con el nombre `{{tagname}}`",
-    "DELETE_GLOWTAG": "{{author}} Se ha eliminado con éxito el **Glow Tag** con el nombre `{{tag}}`"
+  "DELETEGLOWTAG_DESCRIPTION": "Elimina un \"Glow Tag\"",
+  "DGT_CATEGORY": "Tags",
+  "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}dgt <NombreDelTag>`",
+  "GLOWTAG_NOT_FOUND": "{{author}} No tienes ningún **Glow Tag** con el nombre `{{tagname}}`",
+  "DELETE_GLOWTAG": "{{author}} Se ha eliminado con éxito el **Glow Tag** con el nombre `{{tag}}`"
 }

@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Itinatalaga ang iyong wishlist sa isang channel",
-    "CATEGORY": "Listahan ng Ninanais",
-    "CHANNEL_SET": "{{author}} Ang iyong wishlist ay naitakda sa {{channel}}",
-    "CHANNEL_REMOVE": "{{author}} Ang iyong wishlist ay tinanggal mula sa {{channel}}"
+  "WISHLISTCHANNEL_DESCRIPTION": "Itinatalaga ang iyong wishlist sa isang channel",
+  "CATEGORY": "Listahan ng Ninanais",
+  "CHANNEL_SET": "{{author}} Ang iyong wishlist ay naitakda sa {{channel}}",
+  "CHANNEL_REMOVE": "{{author}} Ang iyong wishlist ay tinanggal mula sa {{channel}}"
 }

@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "ウィッシュリストにキャラクターを追加する",
+  "WISHLISTADD_DESCRIPTION": "ウィッシュリストにキャラクターを追加する",
   "CATEGORY": "ウィッシュリスト",
   "ADD_CHARACTERS_ERROR": "{{author}} これ以上のキャラクターはウィッシュリストに追加できません",
   "SEARCH_CHARACTER_ERROR": "{{author}} 正しい使い方は：`{{prefix}}wa <キャラクター名>`",

@@ -21,7 +21,7 @@
   "RESET_PERMS_CONFIRM": "Sigurado ka bang gusto mong i-reset ang mga command permission ng channel na ito sa dati?",
   "YES_BUTTON_LABEL": "Iconfirm",
   "NO_BUTTON_LABEL": "Ideny",
-  "PERMS_DESCRIPTION": "Pinapayagan kang maglista o mag-blacklist ng partikular na mga command sa channel.",
+  "PERMISSION_DESCRIPTION": "Pinapayagan kang maglista o mag-blacklist ng partikular na mga command sa channel.",
   "ADD_BUTTON_LABEL": "Idagdag",
   "BLACKLISTING_USAGE": "Paggamit: `{{prefix}}p bl add/rem <Commandname/All>`\n",
   "ADD_COMMANDS_INFO": "Add: Maglagay ng kadagdagang mga command sa **{{listName}}**\n",

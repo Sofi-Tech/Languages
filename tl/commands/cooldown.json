@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Ipapakita ang cooldown para sa mga sumusunod na gawain:\n- Drop, Grab, Vote, Raid, Daily, Bump\n-Pindutin ang icon na kampana upang makatanggap ng mga paalala sa pamamagitan ng Direktang Mensahe para sa \"Drop\", \"Vote\", at \"Daily\"!",
+  "COOLDOWN_DESCRIPTION": "Ipapakita ang cooldown para sa mga sumusunod na gawain:\n- Drop, Grab, Vote, Raid, Daily, Bump\n-Pindutin ang icon na kampana upang makatanggap ng mga paalala sa pamamagitan ng Direktang Mensahe para sa \"Drop\", \"Vote\", at \"Daily\"!",
   "JOIN_SUPPORT_SERVER": "[Sumali sa support server upang mabigyan ng tulong!](https://discord.gg/sofi)",
   "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
   "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",

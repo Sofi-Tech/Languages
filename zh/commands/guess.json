@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "开始猜词游戏",
+  "GUESS_DESCRIPTION": "开始猜词游戏",
   "CORRECT_USAGE": "{{user}} **正确用法：{{prefix}}guess <数量> <货币>**\n|`silvers` `wists` `gems` `cubes`",
   "NO_TP": "{{message.author}}{{prefix}}${message.author} 您没有可用的交易通行证。请使用命令 `sbump` 访问该网站并兑换您的 `Bump` 点数",
   "NOT_ENOUGH_CURR": "{{user}} **| 您没有足够的 `{{currency}}` 来开始游戏**!",

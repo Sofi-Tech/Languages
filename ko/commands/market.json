@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "시장에서 나열된 거래를 표시합니다",
-    "NO_LISTING_FOUND": "목록을 찾을 수 없습니다",
-    "MARKET_WARN": "장부 또는 숨겨진 위스트에 시장을 사용하지 마십시오.\n보상 없이 제거됩니다.\n평균율 : {{averageRate}} 총 거래 : {{totalTrades}}",
-    "FOOTER": "{{total}} 개 중 1-{{pages}} 개 표시 | 구매하려면 {{prefix}}mp <id> [금액]을 사용하세요"
+  "MARKET_DESCRIPTION": "시장에서 나열된 거래를 표시합니다",
+  "NO_LISTING_FOUND": "목록을 찾을 수 없습니다",
+  "MARKET_WARN": "장부 또는 숨겨진 위스트에 시장을 사용하지 마십시오.\n보상 없이 제거됩니다.\n평균율 : {{averageRate}} 총 거래 : {{totalTrades}}",
+  "FOOTER": "{{total}} 개 중 1-{{pages}} 개 표시 | 구매하려면 {{prefix}}mp <id> [금액]을 사용하세요"
 }

@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "\"Pulls\" aus einem Pool verschiedener \"Items\", darunter \"Charms\" und \"Fragments\", für animierte Karten",
-    "PULL_AMT": "{{author}} Korrekte Verwendung `{{prefix}}pull <1/10>`",
-    "INFO_1": "Du brauchst 8 `Fragments` um die `GIF` Variante eines Charakters zu erstellen",
-    "INFO_2": "Die Höchstanzahl an `GIF` -Varianten pro Charakter beträgt **100**",
-    "INFO_3": "Verbrenne `Fragments` um `Charms` zu erhalten",
-    "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Pull-Anzahl: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} Du hast nicht genügend `{{currName}}` für diesen Vorgang",
-    "AMOUNT": "Du hast: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}} erhalten",
-    "PULL_COUNT_WIST": "Pull-Anzahl: [ {{pullcount}} ]",
-    "RATES": "Rate",
-    "PULL_CHANCES": "**__Wahrscheinlichkeiten__**"
+  "PULL_DESCRIPTION": "\"Pulls\" aus einem Pool verschiedener \"Items\", darunter \"Charms\" und \"Fragments\", für animierte Karten",
+  "PULL_AMT": "{{author}} Korrekte Verwendung `{{prefix}}pull <1/10>`",
+  "INFO_1": "Du brauchst 8 `Fragments` um die `GIF` Variante eines Charakters zu erstellen",
+  "INFO_2": "Die Höchstanzahl an `GIF` -Varianten pro Charakter beträgt **100**",
+  "INFO_3": "Verbrenne `Fragments` um `Charms` zu erhalten",
+  "PULLS": "SOFI: PULLS",
+  "PULL_COUNT": "Pull-Anzahl: [ {{count}} ]",
+  "MISSING_CURR": "{{user}} Du hast nicht genügend `{{currName}}` für diesen Vorgang",
+  "AMOUNT": "Du hast: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}} erhalten",
+  "PULL_COUNT_WIST": "Pull-Anzahl: [ {{pullcount}} ]",
+  "RATES": "Rate",
+  "PULL_CHANCES": "**__Wahrscheinlichkeiten__**"
 }

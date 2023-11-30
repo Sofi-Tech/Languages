@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "상자와 보물 상자를 엽니다",
+  "OPEN_DESCRIPTION": "상자와 보물 상자를 엽니다",
   "SLASH_DESC_1": "열고 싶은 \"아이템\"을 입력하세요",
   "SLASH_DESC_2": "수량을 입력하세요.",
   "CORRECT_USAGE": "{{author}} 올바른 사용법: `{{prefix}}open <ItemName> <Amount>`\n열 수 있는 `아이템`들: `상자`, `부적`",

@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Chests और lootboxes खोलता है।",
+  "OPEN_DESCRIPTION": "Chests और lootboxes खोलता है।",
   "SLASH_DESC_1": "जिस आइटम को खोलना चाहते है उसे चुने",
   "SLASH_DESC_2": "संख्या दर्ज करें",
   "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}open <ItemName> <Amount>`",

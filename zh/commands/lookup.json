@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "展示角色的 3D/GIF 版本",
+  "LOOKUP_DESCRIPTION": "展示角色的 3D/GIF 版本",
   "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}}没有找到任何角色，` {{arg}}` 请注意输入 lookup 的大小写!",
   "EMBED_TITLE": "SOFI: LOOKUP",

@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "단어 맞추기 게임",
+  "GUESS_DESCRIPTION": "단어 맞추기 게임",
   "CORRECT_USAGE": "{{user}} **올바른 사용법: {{prefix}}guess <금액> <화폐>**\n|`실버` `위스트` `젬` `큐브`",
   "NO_TP": "${message.author}님은 활성화된 거래 패스가 없습니다. 사이트에서 버그 리포트 포인트를 교환하여 거래 패스를 받으세요.",
   "NOT_ENOUGH_CURR": "{{user}} **| 당신은 게임을 시작하기에 충분한 `{{currency}}`를 갖고 있지 않습니다**",

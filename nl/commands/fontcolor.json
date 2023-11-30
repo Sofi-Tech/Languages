@@ -1,5 +1,5 @@
 {
-  "FC_DESCRIPTION": "Verandert de tekstkleur van een kaart door er een \"Glow\" op toe te passen",
+  "FONTCOLOR_DESCRIPTION": "Verandert de tekstkleur van een kaart door er een \"Glow\" op toe te passen",
   "FC_CATEGORY": "Uiterlijk",
   "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}fc <KaartCode> <GlowCode>`",
   "NOT_CARD_OWNER": "{{author}} De kaartcode die u heeft opgegeven is ongeldig of niet van u",

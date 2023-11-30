@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Mostra il tempo di cooldown per queste azioni:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Fai clic sulle icone della campana per ricevere promemoria di messaggi diretti per \"Drop\", \"Vote\" e \"Daily\"!",
-    "JOIN_SUPPORT_SERVER": "[Unisciti al Server di Supporto per ricevere aiuto!](https://discord.gg/sofi)",
-    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
-    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
-    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
-    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
-    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
-    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "VOTE_LABEL": "Vote",
-    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 Hai **{{count}}** mail non letta",
-    "READY": "Pronto",
-    "UNREAD_MAIL_other": "\n📫 Hai **{{count}}** mail non letta"
+  "COOLDOWN_DESCRIPTION": "Mostra il tempo di cooldown per queste azioni:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Fai clic sulle icone della campana per ricevere promemoria di messaggi diretti per \"Drop\", \"Vote\" e \"Daily\"!",
+  "JOIN_SUPPORT_SERVER": "[Unisciti al Server di Supporto per ricevere aiuto!](https://discord.gg/sofi)",
+  "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+  "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+  "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+  "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+  "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+  "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+  "VOTE_LABEL": "Vote",
+  "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
+  "UNREAD_MAIL_one": "\n📫 Hai **{{count}}** mail non letta",
+  "READY": "Pronto",
+  "UNREAD_MAIL_other": "\n📫 Hai **{{count}}** mail non letta"
 }

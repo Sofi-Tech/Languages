@@ -1,5 +1,5 @@
 {
-  "FC_DESCRIPTION": "Cambia il colore del font di una carta applicando un \"Glow\"",
+  "FONTCOLOR_DESCRIPTION": "Cambia il colore del font di una carta applicando un \"Glow\"",
   "FC_CATEGORY": "Cosmetici",
   "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}fc <CodiceDellaCarta> <CodicieDellaCarta>`",
   "NOT_CARD_OWNER": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",

@@ -1,5 +1,5 @@
 {
-  "FS_DESCRIPTION": "Nagpapakita ng mga \"Frame\" na kasalukuyang mayroong pag-ikot, pati na rin ang mga preview ng mga umiiral",
+  "FRAMESHOP_DESCRIPTION": "Nagpapakita ng mga \"Frame\" na kasalukuyang mayroong pag-ikot, pati na rin ang mga preview ng mga umiiral",
   "FS_CATEGORY": "Mga Cosmetic",
   "FS_SLASH_DESC": "Ipasok ang code ng \"Frame\" na nais mong tingnan",
   "NO_DESCRIPTION_FOUND": "Hindi mahanap ang paglalarawan",
@@ -28,6 +28,6 @@
   "MF_MENU_LABEL": "Buwanan",
   "CF_MENU_LABEL": "Pasadya",
   "EDIT_DESC_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang iyong napiling deskripsyon para sa iyong `Frame`",
-  "FRAMESHOP_DESCRIPTION": "\nLumikha: **{{artist}}**\nCode: `{{code}}`\nPresyo: **{{price}}**\n\n```fix\n{{description}}\n```",
+  "FRAME_DESCRIPTION": "\nLumikha: **{{artist}}**\nCode: `{{code}}`\nPresyo: **{{price}}**\n\n```fix\n{{description}}\n```",
   "FS_UNAVAILABLE": "Hindi available"
 }

@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Searches for a specific series",
-    "NO__LAST_CHAR_FOUND": "{{author}} You do not have any cards in your collection yet",
-    "NO_CHAR_FOUND": "{{author}} This series does not have any characters yet",
-    "NO_SERIES_FOUND": "{{author}} Could not find any series with the name `{{name}}`",
-    "SERIES": "SOFI: SERIES LOOKUP",
-    "ERROR": "{{author}} An error occurred. Please try again",
-    "SERIES_NAME": "Name: **{{seriesName}}**",
-    "CARD_COLLECTED": "Cards Collected: **{{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Total Wishlist: **{{wlCount}}**",
-    "CHARACTERS": "**__Characters__**"
+  "SERIESLOOKUP_DESCRIPTION": "Searches for a specific series",
+  "NO__LAST_CHAR_FOUND": "{{author}} You do not have any cards in your collection yet",
+  "NO_CHAR_FOUND": "{{author}} This series does not have any characters yet",
+  "NO_SERIES_FOUND": "{{author}} Could not find any series with the name `{{name}}`",
+  "SERIES": "SOFI: SERIES LOOKUP",
+  "ERROR": "{{author}} An error occurred. Please try again",
+  "SERIES_NAME": "Name: **{{seriesName}}**",
+  "CARD_COLLECTED": "Cards Collected: **{{collected}}/{{totalCards}}**",
+  "TOTAL_WL": "Total Wishlist: **{{wlCount}}**",
+  "CHARACTERS": "**__Characters__**"
 }

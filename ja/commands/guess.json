@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "言葉を当てるゲーム",
+  "GUESS_DESCRIPTION": "言葉を当てるゲーム",
   "CORRECT_USAGE": "{{user}} **正しい使用法: {{prefix}}guess<量><通貨>**\n|`silvers``wists``gems``cubes`",
   "NO_TP": "${message.author}はアクティブなトレードパスを持っていません。サイトでバンプポイントを引き換えてトレードパスを受け取ってください",
   "NOT_ENOUGH_CURR": "{{user}} **|`{{currency}}`が不足しているため、ゲームを開始できません**",

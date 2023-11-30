@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Lijst item op de markt",
+  "MARKETLIST_DESCRIPTION": "Lijst item op de markt",
   "CORRECT_USAGE": "{{user}} Correct gebruik: {{prefix}}ml <wist> <tarief>",
   "INVALID_GEM_RATE": "{{user}} Ongeldig juweeltarief",
   "GEM_RATE_LIES": "{{user}} Juweeltarief moet tussen 3,0-20,0 liggen",

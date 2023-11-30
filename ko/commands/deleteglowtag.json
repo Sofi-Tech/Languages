@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "글로우 태그 삭제하기",
-    "DGT_CATEGORY": "태그",
-    "CORRECT_USAGE": "사용법: {{prefix}}dgt <태그명>",
-    "GLOWTAG_NOT_FOUND": "해당하는 글로우 태그가 태그목록에 없습니다",
-    "DELETE_GLOWTAG": "{{tag}} 글로우 태그 삭제 완료"
+  "DELETEGLOWTAG_DESCRIPTION": "글로우 태그 삭제하기",
+  "DGT_CATEGORY": "태그",
+  "CORRECT_USAGE": "사용법: {{prefix}}dgt <태그명>",
+  "GLOWTAG_NOT_FOUND": "해당하는 글로우 태그가 태그목록에 없습니다",
+  "DELETE_GLOWTAG": "{{tag}} 글로우 태그 삭제 완료"
 }

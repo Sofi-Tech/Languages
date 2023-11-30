@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Opent kisten en lootboxes",
+  "OPEN_DESCRIPTION": "Opent kisten en lootboxes",
   "SLASH_DESC_1": "Voer de \"Item\" in dat je wilt openen",
   "SLASH_DESC_2": "Voer de hoeveelheid in.",
   "CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}open <Itemnaam> <Hoeveelheid>`\n`Items` die geopend kunnen worden: `Kisten`, `Charms`",

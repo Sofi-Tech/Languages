@@ -1,5 +1,5 @@
 {
-  "TT_DESCRIPTION": "Schaltet die Sichtbarkeit des Texts einer Karte ein/aus",
+  "TOGGLETEXT_DESCRIPTION": "Schaltet die Sichtbarkeit des Texts einer Karte ein/aus",
   "TT_CATEGORY": "Kosmetika",
   "PROVIDE_CARD_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}tt <CardCode>`",
   "INAVLID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",

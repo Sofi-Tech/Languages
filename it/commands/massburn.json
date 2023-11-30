@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Brucia una moltitudine di carte subito",
+  "MASSBURN_DESCRIPTION": "Brucia una moltitudine di carte subito",
   "IN_ACTIVE_MB": "{{user}} Non puoi avviare un nuovo `massburn` mentre quello vecchio è ancora attivo",
   "PROVIDE_FILTERS": "{{author}} Corretto uso: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Puoi trovare una comprensiva lista di filtri con il comando \"{{prefix}}Aiuto filtri\"\n```",
   "WRONG_TAG": "{{author}} Non è riuscito a trovare alcun `Tag` con il nome: `{{arg}}`",

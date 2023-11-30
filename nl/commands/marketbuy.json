@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Koopt \"Wists\" van de markt in ruil voor \"Gems\".",
+  "MARKETBUY_DESCRIPTION": "Koopt \"Wists\" van de markt in ruil voor \"Gems\".",
   "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
   "INVALID_DEAL_ID": "Ongeldige deal-ID opgegeven: Controleer het opnieuw",
   "CANNOT_PURCHASE": "{{user}} | Kan die deal niet kopen",

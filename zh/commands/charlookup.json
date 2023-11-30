@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "- 您可以使用 'scl' 来查找具体角色。在此页面中，您可以查到角色的统计数，他的 Version/3D/GIF 版本，还有他的 Gen/Fan 排名单，也可查到他的 “Card ID”。\n- 提交新 “Version” 的图案时会需要 “Card ID”",
+  "CHARLOOKUP_DESCRIPTION": "- 您可以使用 'scl' 来查找具体角色。在此页面中，您可以查到角色的统计数，他的 Version/3D/GIF 版本，还有他的 Gen/Fan 排名单，也可查到他的 “Card ID”。\n- 提交新 “Version” 的图案时会需要 “Card ID”",
   "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
   "CHAR_NF_SENSITIVE": "{{author}}没有找到任何角色，` {{arg}}` 请注意输入 lookup 的大小写!",
   "EMBED_TITLE": "SOFI: CHARLOOKUP",

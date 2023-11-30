@@ -1,14 +1,14 @@
 {
-    "SI_DESCRIPTION": "Zeigt die Statistiken des Servers an",
-    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
-    "SI_CATEGORY": "Einstellungen",
-    "SI_TOTAL_DROPS": "Insgesamte Drops",
-    "SI_SPAWN_CHANNEL": "Spawn-Kanal",
-    "SI_TOTAL_BURNT": "Insgesamt verbrannt",
-    "SI_TOTAL_GRABS": "Insgesamt eingesammelt",
-    "SI_TOTAL_GIVEN": "Insgesamt gegeben",
-    "SI_NAME_UNAVAILABLE": "Name nicht verfügbar",
-    "SI_TOTAL_TRADES": "Insgesamte Handel",
-    "SI_TOP_SERVERS": "**Top Server** | Zurücksetzung in: **{{countdown}})**",
-    "EMBED_FOOTER": "Server Präfix: \"{{prefix}}\""
+  "SERVERINFO_DESCRIPTION": "Zeigt die Statistiken des Servers an",
+  "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+  "SI_CATEGORY": "Einstellungen",
+  "SI_TOTAL_DROPS": "Insgesamte Drops",
+  "SI_SPAWN_CHANNEL": "Spawn-Kanal",
+  "SI_TOTAL_BURNT": "Insgesamt verbrannt",
+  "SI_TOTAL_GRABS": "Insgesamt eingesammelt",
+  "SI_TOTAL_GIVEN": "Insgesamt gegeben",
+  "SI_NAME_UNAVAILABLE": "Name nicht verfügbar",
+  "SI_TOTAL_TRADES": "Insgesamte Handel",
+  "SI_TOP_SERVERS": "**Top Server** | Zurücksetzung in: **{{countdown}})**",
+  "EMBED_FOOTER": "Server Präfix: \"{{prefix}}\""
 }

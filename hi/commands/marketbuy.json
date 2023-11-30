@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "बाजार से Gems के बदले में Wist खरीदता है।",
+  "MARKETBUY_DESCRIPTION": "बाजार से Gems के बदले में Wist खरीदता है।",
   "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}mbuy <OfferID> <WistAmount>`",
   "INVALID_DEAL_ID": "{{author}} प्रदान करी गई Order-ID अमान्य है।",
   "CANNOT_PURCHASE": "{{user}} उस डील को खरीदने में असमर्थ",

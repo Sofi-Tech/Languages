@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Membakar banyak kartu sekaligus",
+  "MASSBURN_DESCRIPTION": "Membakar banyak kartu sekaligus",
   "IN_ACTIVE_MB": "{{user}} Anda tidak dapat melakukan `massburn` jika perintah sebelumnya sedang aktif",
   "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filters>`\n\n```fix\nCatatan: Anda dapat menggunakan perintah \"{{prefix}}help filters\" agar lebih memahami\n```",
   "WRONG_TAG": "{{author}} Tidak dapat menemukan `Tag` dengan nama `{{arg}}`",

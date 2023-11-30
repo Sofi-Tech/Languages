@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Pagpapalitin nito ang code ng dalawang napiling kard",
-    "SLASH_DESC": "Ilagay ang unang code",
-    "SLASH_DESC2": "Ilagay ang pangalawang code",
-    "CORRECT_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}} cs <Code1> <Code2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} Ikaw ay maaaring naglagay ng isang maling code ng kard o ang code na ito ay wala sa iyong koleksyon",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} Matagumpay na nai-pagpalit ang codes ng dalawang pinili na kard"
+  "CODESWAP_DESCRIPTION": "Pagpapalitin nito ang code ng dalawang napiling kard",
+  "SLASH_DESC": "Ilagay ang unang code",
+  "SLASH_DESC2": "Ilagay ang pangalawang code",
+  "CORRECT_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}} cs <Code1> <Code2>`",
+  "INVALID_CODES_PROVIDED": "{{author}} Ikaw ay maaaring naglagay ng isang maling code ng kard o ang code na ito ay wala sa iyong koleksyon",
+  "SUCCESSFUL_CODE_SWAP": "{{author}} Matagumpay na nai-pagpalit ang codes ng dalawang pinili na kard"
 }

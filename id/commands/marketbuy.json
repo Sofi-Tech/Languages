@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Membeli \"Wist\" dari pasar untuk ditukar dengan \"Gems\"",
+  "MARKETBUY_DESCRIPTION": "Membeli \"Wist\" dari pasar untuk ditukar dengan \"Gems\"",
   "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}mbuy <OfferID> <JumlahWist>`",
   "INVALID_DEAL_ID": "{{author}} ID-Pesanan yang anda berikan tidak valid",
   "CANNOT_PURCHASE": "{{user}} Anda tidak dapat berinteraksi dengan pesanan ini",

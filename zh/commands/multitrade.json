@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "向另一位玩家发送交易请求。您可以通过此功能同时交易多张卡牌和“物品”",
+  "MULTITRADE_DESCRIPTION": "向另一位玩家发送交易请求。您可以通过此功能同时交易多张卡牌和“物品”",
   "MENTION_USER": "{{author}} 提及您想交易的用户或使用其ID",
   "IN_TRADE": "{{user}} 您已有活跃的交易！请先取消之前的交易",
   "BOT_TRADE": "{{author}} 您无法与“机器人”交易",

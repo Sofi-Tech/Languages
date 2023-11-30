@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Removes a character from your wishlist",
-    "CATEGORY": "Wishlist",
-    "NO_INDEX": "{{author}} Correct usage: `{{prefix}}wr <Name/Number>`. Use the command `{{prefix}}wr full reset` to clear your entire wishlist",
-    "FULL_RESET": "{{author}} Successfully removed all characters from your wishlist",
-    "REMOVE_CHARACTER": "{{author}} Successfully removed **{{name}}** from your wishlist",
-    "NO_RESULTS": "{{author}} There is no character with the name `{{name}}` on your wishlist"
+  "WISHLISTREMOVE_DESCRIPTION": "Removes a character from your wishlist",
+  "CATEGORY": "Wishlist",
+  "NO_INDEX": "{{author}} Correct usage: `{{prefix}}wr <Name/Number>`. Use the command `{{prefix}}wr full reset` to clear your entire wishlist",
+  "FULL_RESET": "{{author}} Successfully removed all characters from your wishlist",
+  "REMOVE_CHARACTER": "{{author}} Successfully removed **{{name}}** from your wishlist",
+  "NO_RESULTS": "{{author}} There is no character with the name `{{name}}` on your wishlist"
 }

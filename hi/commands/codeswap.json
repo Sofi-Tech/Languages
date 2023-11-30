@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "दो पत्तो के बीच कोड अदल-बदल देता है।",
-    "SLASH_DESC": "पहला कोड दर्ज करें",
-    "SLASH_DESC2": "दूसरा कोड दर्ज करें",
-    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}cs <Code1> <Code2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} आपके द्वारा प्रदान किए गए कोड में से कोई एक अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} सफलतापूर्वक दोनो पत्तो के बीच कोड बदला गया।"
+  "CODESWAP_DESCRIPTION": "दो पत्तो के बीच कोड अदल-बदल देता है।",
+  "SLASH_DESC": "पहला कोड दर्ज करें",
+  "SLASH_DESC2": "दूसरा कोड दर्ज करें",
+  "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}cs <Code1> <Code2>`",
+  "INVALID_CODES_PROVIDED": "{{author}} आपके द्वारा प्रदान किए गए कोड में से कोई एक अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+  "SUCCESSFUL_CODE_SWAP": "{{author}} सफलतापूर्वक दोनो पत्तो के बीच कोड बदला गया।"
 }

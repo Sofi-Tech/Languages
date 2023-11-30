@@ -1,7 +1,7 @@
 {
-    "DGT_DESCRIPTION": "删除一个 \"Glow Tag\"",
-    "DGT_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} 正确用法: `{{prefix}}dgt <TagName>`",
-    "GLOWTAG_NOT_FOUND": "{{author}}您没有任何名称为`{{tagname}}`的`Glow Tag`",
-    "DELETE_GLOWTAG": "{{author}} 成功删除名称为`{{tag}}`的`Glow Tag`"
+  "DELETEGLOWTAG_DESCRIPTION": "删除一个 \"Glow Tag\"",
+  "DGT_CATEGORY": "Tags",
+  "CORRECT_USAGE": "{{author}} 正确用法: `{{prefix}}dgt <TagName>`",
+  "GLOWTAG_NOT_FOUND": "{{author}}您没有任何名称为`{{tagname}}`的`Glow Tag`",
+  "DELETE_GLOWTAG": "{{author}} 成功删除名称为`{{tag}}`的`Glow Tag`"
 }

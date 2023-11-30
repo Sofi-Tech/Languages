@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Muestra el mercado de Sofi",
-    "NO_LISTING_FOUND": "{{author}} No se han encontrado anuncios en el mercado",
-    "MARKET_WARN": "**Tasa Media**: **`{{averageRate}}` | Intercambios Totales** : **`{{totalTrades}}`**",
-    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}}",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Disponibilidad: `{{stockAmount}}` {{stockEmoji}} | Tasa: `{{rateAmount}}` {{rateEmoji}}"
+  "MARKET_DESCRIPTION": "Muestra el mercado de Sofi",
+  "NO_LISTING_FOUND": "{{author}} No se han encontrado anuncios en el mercado",
+  "MARKET_WARN": "**Tasa Media**: **`{{averageRate}}` | Intercambios Totales** : **`{{totalTrades}}`**",
+  "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}}",
+  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Disponibilidad: `{{stockAmount}}` {{stockEmoji}} | Tasa: `{{rateAmount}}` {{rateEmoji}}"
 }

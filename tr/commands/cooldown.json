@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Bu eylemler için bekleme süresini görüntüler:\n- Drop, Grab, Vote, Raid , Bump\n- \"Drop\", \"Vote\" ve \"Daily\" için Direkt Mesaj hatırlatmaları almak için zil simgelerine tıkla!",
-    "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katıl](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "VOTE": "Oy",
-    "BUMP": "BUMP",
-    "DAILY": "Günlük"
+  "COOLDOWN_DESCRIPTION": "Bu eylemler için bekleme süresini görüntüler:\n- Drop, Grab, Vote, Raid , Bump\n- \"Drop\", \"Vote\" ve \"Daily\" için Direkt Mesaj hatırlatmaları almak için zil simgelerine tıkla!",
+  "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katıl](https://discord.gg/sofi)",
+  "DROP": "Drop",
+  "GRAB": "Grab",
+  "VOTE": "Oy",
+  "BUMP": "BUMP",
+  "DAILY": "Günlük"
 }

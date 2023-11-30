@@ -1,5 +1,5 @@
 {
-  "UF_DESCRIPTION": "購入したフレームをカードに使用する",
+  "USEFRAME_DESCRIPTION": "購入したフレームをカードに使用する",
   "UF_CATEGORY": "化粧品",
   "UF_INVALID_USAGE": "suf <code> <framename/framecode>",
   "INVALID_CODE": "{{author}} 提供されたカードコードが無効またはコレクションにありません",

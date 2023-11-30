@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Sofi マーケットを表示する",
-    "NO_LISTING_FOUND": "{{author}}マーケットにご注文を見つかりませんでした",
-    "MARKET_WARN": "```fix\n⚠️ マーケットにウィストの保存や隠すために使用しないでください。このルールを破れば補償なしに商品を削除されます!\n```\n**平均率**: **`{{averageRate}}` | 合計取引回数** : **`{{totalTrades}}`**",
-    "FOOTER": "{{total}}中{{page}}〜{{pages}}を表示されています",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • 全額: `{{stockAmount}}` {{stockEmoji}} | 変換率: `{{rateAmount}}` {{rateEmoji}}"
+  "MARKET_DESCRIPTION": "Sofi マーケットを表示する",
+  "NO_LISTING_FOUND": "{{author}}マーケットにご注文を見つかりませんでした",
+  "MARKET_WARN": "```fix\n⚠️ マーケットにウィストの保存や隠すために使用しないでください。このルールを破れば補償なしに商品を削除されます!\n```\n**平均率**: **`{{averageRate}}` | 合計取引回数** : **`{{totalTrades}}`**",
+  "FOOTER": "{{total}}中{{page}}〜{{pages}}を表示されています",
+  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • 全額: `{{stockAmount}}` {{stockEmoji}} | 変換率: `{{rateAmount}}` {{rateEmoji}}"
 }

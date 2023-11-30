@@ -1,9 +1,9 @@
 {
-    "UT_DESCRIPTION": "カードに「タグ」を外す",
-    "UT_CATEGORY": "タグ",
-    "UT_EMPTY_COLLECTION": "{{author}} コレクションにカードがまだ存在しません",
-    "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}**のカードに`タグ`を成功で外しました",
-    "INVALID_CODE_MULTIPLE": "{{author}} 次のカードドコードが無効またはコレクッシオンにありません：\n{{invalidCodeList}}",
-    "MULTIPLE_UNTAG": "{{author}} **{{count}}**枚カードに`タグ`を成功で外しました",
-    "INVALID_CODE": "{{author}} 提供されたカードコードが無効またはコレクションにありません"
+  "UNTAG_DESCRIPTION": "カードに「タグ」を外す",
+  "UT_CATEGORY": "タグ",
+  "UT_EMPTY_COLLECTION": "{{author}} コレクションにカードがまだ存在しません",
+  "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}**のカードに`タグ`を成功で外しました",
+  "INVALID_CODE_MULTIPLE": "{{author}} 次のカードドコードが無効またはコレクッシオンにありません：\n{{invalidCodeList}}",
+  "MULTIPLE_UNTAG": "{{author}} **{{count}}**枚カードに`タグ`を成功で外しました",
+  "INVALID_CODE": "{{author}} 提供されたカードコードが無効またはコレクションにありません"
 }

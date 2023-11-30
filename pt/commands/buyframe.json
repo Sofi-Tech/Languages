@@ -1,5 +1,5 @@
 {
-  "BF_DESCRIPTION": "Compra um \"Frame\" na \"Frame Shop\"",
+  "BUYFRAME_DESCRIPTION": "Compra um \"Frame\" na \"Frame Shop\"",
   "BF_CATEGORY": "Cosméticos",
   "NO_FRAME_NAME": "{{author}} Por favor, forneça o código do `Frame` que você deseja comprar",
   "NO_FRAMECODE_FOUND": "{{author}} Não foi possível encontrar nenhum `Frame` com o código: `{{name}}`",

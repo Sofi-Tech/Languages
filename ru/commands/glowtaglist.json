@@ -1,12 +1,12 @@
 {
-    "GTL_DESCRIPTION": "Отображает список ваших \"Glow Tags\"",
-    "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} У вас пока нет ни одной отметки для **Glow**",
-    "EMBED_TITLE": "SOFI: GLOW TAG LIST",
-    "GLOWS_one": "{{count}} Подсветка",
-    "GLOWS_other": "{{count}} Подсветок",
-    "GLOWS_zero": "{{count}} Подсветок",
-    "GLOWS_many": "{{count}} Подсветок",
-    "GLOWS_two": "{{count}} Подсветки",
-    "GLOWS_few": "{{count}} Подсветки"
+  "GLOWTAGLIST_DESCRIPTION": "Отображает список ваших \"Glow Tags\"",
+  "GTL_CATEGORY": "Tags",
+  "NO_TAGS": "{{author}} У вас пока нет ни одной отметки для **Glow**",
+  "EMBED_TITLE": "SOFI: GLOW TAG LIST",
+  "GLOWS_one": "{{count}} Подсветка",
+  "GLOWS_other": "{{count}} Подсветок",
+  "GLOWS_zero": "{{count}} Подсветок",
+  "GLOWS_many": "{{count}} Подсветок",
+  "GLOWS_two": "{{count}} Подсветки",
+  "GLOWS_few": "{{count}} Подсветки"
 }

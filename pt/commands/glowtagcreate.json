@@ -1,8 +1,8 @@
 {
-    "GTC_DESCRIPTION": "Cria uma \"Glow Tag\"",
-    "GTC_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Uso Correto: `{{prefix}}gtc <TagName> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Esse emoji é inválido",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Uma `Glow Tag` com esse nome já existe",
-    "CREATED_GLOWTAG": "{{author}} Criou com sucesso uma `Glow Tag` com o nome: `{{tag}}` | {{emoji}}"
+  "GLOWTAGCREATE_DESCRIPTION": "Cria uma \"Glow Tag\"",
+  "GTC_CATEGORY": "Tags",
+  "CORRECT_USAGE": "{{author}} Uso Correto: `{{prefix}}gtc <TagName> <Emoji>`",
+  "INVALID_EMOJI": "{{author}} Esse emoji é inválido",
+  "GLOWTAG_ALREADY_EXISTS": "{{author}} Uma `Glow Tag` com esse nome já existe",
+  "CREATED_GLOWTAG": "{{author}} Criou com sucesso uma `Glow Tag` com o nome: `{{tag}}` | {{emoji}}"
 }

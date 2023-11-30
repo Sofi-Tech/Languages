@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Verbrand een verzameling van kaarten in één keer",
+  "MASSBURN_DESCRIPTION": "Verbrand een verzameling van kaarten in één keer",
   "IN_ACTIVE_MB": "{{user}} Je kunt geen nieuwe massabrand starten, terwijl er een actieve massabrand gaande is. Ga eerst verder of annuleer de bestaande massabrand",
   "PROVIDE_FILTERS": "Geef een filter om de verzameling te filteren: t=tagnaam, g><=gen, wl><=wenslijst",
   "WRONG_TAG": "Er is een verkeerde tag opgegeven. Controleer opnieuw",

@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Zet uw verlanglijst in een kanaal",
-    "CATEGORY": "Verlanglijst",
-    "CHANNEL_SET": "> Je verlanglijst kanaal is ingesteld in {{channel}}",
-    "CHANNEL_REMOVE": "> Je verlanglijst kanaal is verwijderd van {{channel}}"
+  "WISHLISTCHANNEL_DESCRIPTION": "Zet uw verlanglijst in een kanaal",
+  "CATEGORY": "Verlanglijst",
+  "CHANNEL_SET": "> Je verlanglijst kanaal is ingesteld in {{channel}}",
+  "CHANNEL_REMOVE": "> Je verlanglijst kanaal is verwijderd van {{channel}}"
 }

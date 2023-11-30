@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Zeigt die Version/3D/GIF -Varianten eines Charakters an",
+  "LOOKUP_DESCRIPTION": "Zeigt die Version/3D/GIF -Varianten eines Charakters an",
   "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen: `{{arg}}` gefunden",
   "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen: `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
   "EMBED_TITLE": "SOFI: CHARACTER LOOKUP (`{{category}}`)",

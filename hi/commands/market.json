@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Sofi के बाजार को दर्शाता है।",
-    "NO_LISTING_FOUND": "{{author}} बाजार में कोई सौदा नहीं मिला",
-    "MARKET_WARN": "```fix\n⚠️ मार्केट का उपयोग Wist जमा करना या छिपाने के लिए न करें।\nजानकारी लगने पर बिना सोचे समझे हटा दी जाएगी\n```\n**औसत दर**: **`{{averageRate}}` | कुल व्यापार** : **`{{totalTrades}}`**",
-    "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}}",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"
+  "MARKET_DESCRIPTION": "Sofi के बाजार को दर्शाता है।",
+  "NO_LISTING_FOUND": "{{author}} बाजार में कोई सौदा नहीं मिला",
+  "MARKET_WARN": "```fix\n⚠️ मार्केट का उपयोग Wist जमा करना या छिपाने के लिए न करें।\nजानकारी लगने पर बिना सोचे समझे हटा दी जाएगी\n```\n**औसत दर**: **`{{averageRate}}` | कुल व्यापार** : **`{{totalTrades}}`**",
+  "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}}",
+  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"
 }

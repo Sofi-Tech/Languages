@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "市場内のリストアイテム",
-    "CORRECT_USAGE": "{{user}} 正しい使用法：{{prefix}}ml <wist> <rate>",
-    "INVALID_GEM_RATE": "{{user}} 無効なジェムレート",
-    "GEM_RATE_LIES": "{{user}} ジェムレートは3.0〜20.0の間でなければなりません",
-    "ALREADY_EXISTS": "既に取引 {{dealID}} が存在しています\n再度リストを取り消してから再度リストに登録してください",
-    "PRODUCTS": "製品",
-    "RATE": "レート",
-    "VALUE": "値段",
-    "CANCELLED": "過程がキャンセルされました",
-    "NOT_ENOUGH_CANCEL": "wistsが足りなかったためキャンセルされました",
-    "SUCCESS": "取引が正常にリストされました"
+  "MARKETLIST_DESCRIPTION": "市場内のリストアイテム",
+  "CORRECT_USAGE": "{{user}} 正しい使用法：{{prefix}}ml <wist> <rate>",
+  "INVALID_GEM_RATE": "{{user}} 無効なジェムレート",
+  "GEM_RATE_LIES": "{{user}} ジェムレートは3.0〜20.0の間でなければなりません",
+  "ALREADY_EXISTS": "既に取引 {{dealID}} が存在しています\n再度リストを取り消してから再度リストに登録してください",
+  "PRODUCTS": "製品",
+  "RATE": "レート",
+  "VALUE": "値段",
+  "CANCELLED": "過程がキャンセルされました",
+  "NOT_ENOUGH_CANCEL": "wistsが足りなかったためキャンセルされました",
+  "SUCCESS": "取引が正常にリストされました"
 }

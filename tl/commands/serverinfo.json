@@ -1,14 +1,14 @@
 {
-    "SI_DESCRIPTION": "Ipinapakita ang mga estadistika ng server",
-    "SI_TOTAL_DROPS": "Kabuuang Drops",
-    "SI_TOTAL_BURNT": "Kabuuang sinunog",
-    "SI_TOTAL_GRABS": "Kabuuang Nakuha",
-    "SI_TOTAL_TRADES": "Kabuuang Trades",
-    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
-    "SI_TOP_SERVERS": "**Top Servers** | Magre-reset sa: **{{countdown}}**",
-    "SI_NAME_UNAVAILABLE": "Ang pangalan ay hindi na pwede",
-    "SI_TOTAL_GIVEN": "Kabuuang Naibigay",
-    "SI_CATEGORY": "Mga kaayusan",
-    "SI_SPAWN_CHANNEL": "Channel ng labasan",
-    "EMBED_FOOTER": "Server Prefix: \"{{prefix}}\""
+  "SERVERINFO_DESCRIPTION": "Ipinapakita ang mga estadistika ng server",
+  "SI_TOTAL_DROPS": "Kabuuang Drops",
+  "SI_TOTAL_BURNT": "Kabuuang sinunog",
+  "SI_TOTAL_GRABS": "Kabuuang Nakuha",
+  "SI_TOTAL_TRADES": "Kabuuang Trades",
+  "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+  "SI_TOP_SERVERS": "**Top Servers** | Magre-reset sa: **{{countdown}}**",
+  "SI_NAME_UNAVAILABLE": "Ang pangalan ay hindi na pwede",
+  "SI_TOTAL_GIVEN": "Kabuuang Naibigay",
+  "SI_CATEGORY": "Mga kaayusan",
+  "SI_SPAWN_CHANNEL": "Channel ng labasan",
+  "EMBED_FOOTER": "Server Prefix: \"{{prefix}}\""
 }

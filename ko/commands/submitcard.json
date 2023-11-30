@@ -1,5 +1,5 @@
 {
-  "SC_DESCRIPTION": "캐릭터 \"버전\" 변형을 위해 이미지를 제출합니다",
+  "SUBMITCARD_DESCRIPTION": "캐릭터 \"버전\" 변형을 위해 이미지를 제출합니다",
   "CARD_DIMENSION": "<:_:979009081325019156> 제출된 이미지의 크기는 **297** x **465** (가로 x 세로) 여야 합니다",
   "SC_CORRECT_USAGE": "<:_:979009081325019156> 올바른 사용법: `{{prefix}}sc <카드ID> <2D> <이미지URL> <소스URL>`",
   "CARD_TEMPLATE": "카드 템플릿: [PSD 파일 다운로드] (https://cdn.discordapp.com/attachments/870354581115256852/996801896616562698/sofi_card.psd)",

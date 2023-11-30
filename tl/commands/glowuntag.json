@@ -1,10 +1,10 @@
 {
-    "GUT_DESCRIPTION": "Tinatanggal ang iyong \"Glow Tags\"",
-    "GUT_CATEGORY": "Mga Tag",
-    "NO_GLOWS_FOUND": "{{author}} Ikaw ay wala pang `Glows`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa `#`",
-    "INVALID_GLOWCODE": "{{author}} Ang `Glow` code na iyan ay maaaring hindi wasto o wala sa iyong inventory",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naalis ang `Tag` mula sa iyong **{{glow}}** `Glow`",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Ang mga sumusunod na `Glow` code ay maaring hindi wasto o wala sa iyong inventory:\n{{invalidCodeList}}",
-    "GLOW_UNTAG_PLURAL": "{{author}} Matagumpay na naalis ang `Glow Tag` mula sa **{{count}}** `Glows`"
+  "GLOWUNTAG_DESCRIPTION": "Tinatanggal ang iyong \"Glow Tags\"",
+  "GUT_CATEGORY": "Mga Tag",
+  "NO_GLOWS_FOUND": "{{author}} Ikaw ay wala pang `Glows`",
+  "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa `#`",
+  "INVALID_GLOWCODE": "{{author}} Ang `Glow` code na iyan ay maaaring hindi wasto o wala sa iyong inventory",
+  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naalis ang `Tag` mula sa iyong **{{glow}}** `Glow`",
+  "INVALID_GLOWCODE_MULTIPLE": "{{author}} Ang mga sumusunod na `Glow` code ay maaring hindi wasto o wala sa iyong inventory:\n{{invalidCodeList}}",
+  "GLOW_UNTAG_PLURAL": "{{author}} Matagumpay na naalis ang `Glow Tag` mula sa **{{count}}** `Glows`"
 }
