@@ -1,9 +1,9 @@
 {
-  "DROP_DESCRIPTION": "Genera un \"Drop\" de cartas\nUsa el comando \"{{prefix}}dn\" para generar un \"Drop\" sin imágenes",
-  "EXTRA_DROP_ALERT": "{{author}} Tu **Drop** está siendo usado. Te quedan **{{remaining}}**",
-  "ON_CD": "{{author}} Tu **Drop** estará listo en: **{{dropCd}}**",
-  "VOTE": "Vote",
-  "BUY_DROP": "\n\n- También puedes hacer **Vote** para conseguir **Wists**! Usa el comando `{{prefix}}buy drop` para intercambiarlos",
-  "DROPPING_CARD": "{{author}} está **dropeando** cartas\n",
-  "WISHLIST_ALERT": "Una carta de tu lista de deseados está siendo dropeada! {{users}}"
+    "DROP_DESCRIPTION": "Genera un \"Drop\" de cartas\nUsa el comando \"{{prefix}}dn\" para generar un \"Drop\" sin imágenes",
+    "EXTRA_DROP_ALERT": "{{author}} Tu **Drop** está siendo usado. Te quedan **{{remaining}}**",
+    "ON_CD": "{{author}} Tu **Drop** estará listo en: **{{dropCd}}**",
+    "VOTE": "Vote",
+    "BUY_DROP": "\n\n- También puedes hacer **Vote** para conseguir **Wists**! Usa el comando `{{prefix}}buy drop` para intercambiarlos",
+    "DROPPING_CARD": "{{author}} está **dropeando** cartas\n",
+    "WISHLIST_ALERT": "Una carta de tu lista de deseados está siendo dropeada! {{users}}"
 }

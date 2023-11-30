@@ -1,7 +1,7 @@
 {
-  "MARKET_DESCRIPTION": "Affiche le marché de Sofi",
-  "NO_LISTING_FOUND": "{{author}} Aucune offre n'a été trouvée dans le marché",
-  "MARKET_WARN": "```fix\n⚠️ N'utilisez pas le marché pour cacher vos \"Wists\". Le non respect de cette règle peut ammener au retrait des items concernés sans compensation!\n```\n**Taux moyen**:**`{{averageRate}}` | Échanges totaux** : **`{{totalTrades}}`****",
-  "FOOTER": "Affichage des résultats {{pages}}-{{pages}} sur {{total}}",
-  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Taux: `{{rateAmount}}` {{rateEmoji}}"
+    "MARKET_DESCRIPTION": "Affiche le marché de Sofi",
+    "NO_LISTING_FOUND": "{{author}} Aucune offre n'a été trouvée dans le marché",
+    "MARKET_WARN": "**Taux moyen**:**`{{averageRate}}` | Échanges totaux** : **`{{totalTrades}}`****",
+    "FOOTER": "Affichage des résultats {{pages}}-{{pages}} sur {{total}}",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Taux: `{{rateAmount}}` {{rateEmoji}}"
 }

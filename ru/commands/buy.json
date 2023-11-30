@@ -1,12 +1,12 @@
 {
-  "BUY_DESCRIPTION": "Покупает \"Items\" в магазине Sofi",
-  "SLASH_DESC": "Введите название предмета, который вы хотите купить",
-  "SLASH_DESC2": "Введите количество",
-  "SLASH_DESC3": "Введите код Background, который вы хотите купить. [РАБОТАЕТ ТОЛЬКО ЕСЛИ ПРЕДМЕТ ВЫБРАН КАК BACKGROUND]",
-  "NO_ITEM": "{{author}} Правильное использование: `{{prefix}}buy <ItemName> <Amount>`",
-  "TRADEPASS_INFO": "Посетите наш сайт, чтобы **Bump** и обменять ваши очки на другие предметы, включая **Trade Pass**",
-  "CORRECT_USAGE": "{{user}} Правильное использование: `{{prefix}}buy bg <Background-ID> <Amount>`",
-  "INVALID_BG_AMOUNT": "{{author}} Вы не можете купить отрицательное количество предметов",
-  "INVALID_BG_ID": "{{author}} Не удалось найти никаких **Background** с данным идентификатором",
-  "INVALID_ITEM_PROVIDED": "{{user}} Указанный вами предмет недействителен"
+    "BUY_DESCRIPTION": "Покупает \"Items\" в магазине Sofi",
+    "SLASH_DESC": "Введите название предмета, который вы хотите купить",
+    "SLASH_DESC2": "Введите количество",
+    "SLASH_DESC3": "Введите код Background, который вы хотите купить. [РАБОТАЕТ ТОЛЬКО ЕСЛИ ПРЕДМЕТ ВЫБРАН КАК BACKGROUND]",
+    "NO_ITEM": "{{author}} Правильное использование: `{{prefix}}buy <ItemName> <Amount>`",
+    "TRADEPASS_INFO": "Посетите наш сайт, чтобы **Bump** и обменять ваши очки на другие предметы, включая **Trade Pass**",
+    "CORRECT_USAGE": "{{user}} Правильное использование: `{{prefix}}buy bg <Background-ID> <Amount>`",
+    "INVALID_BG_AMOUNT": "{{author}} Вы не можете купить отрицательное количество предметов",
+    "INVALID_BG_ID": "{{author}} Не удалось найти никаких **Background** с данным идентификатором",
+    "INVALID_ITEM_PROVIDED": "{{user}} Указанный вами предмет недействителен"
 }
