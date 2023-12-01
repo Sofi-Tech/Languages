@@ -1,8 +1,8 @@
 {
-  "VIEWFRAGS_DESCRIPTION": "उपयोगकर्ता के उपलब्ध Fragments की सूची दिखाता है।",
-  "COLLECTION_PVT": "{{author}} इस उपयोगकर्ता का `Fragments` संग्रह निजी है।",
-  "CANNOT_FIND_FRAGS": "{{user}} उस उपयोगकर्ता के संग्रह में कोई `Fragments` नहीं है।",
-  "FRAGS_COUNT": "कुल: {{totalCount}}",
-  "FRAG_LIST": "SOFI: `Fragments` ({{userName}})",
-  "CANNOT_FIND_SELF": "{{user}} आपके पास कोई `Fragments` नहीं है।"
+    "VIEWFRAGS_DESCRIPTION": "उपयोगकर्ता के उपलब्ध Fragments की सूची दिखाता है।",
+    "COLLECTION_PVT": "{{author}} इस उपयोगकर्ता का **Fragments** संग्रह निजी है।",
+    "CANNOT_FIND_FRAGS": "{{user}} उस उपयोगकर्ता के संग्रह में कोई **Fragments** नहीं है।",
+    "FRAGS_COUNT": "कुल: {{totalCount}}",
+    "FRAG_LIST": "SOFI: Fragments ({{userName}})",
+    "CANNOT_FIND_SELF": "{{user}} आपके पास कोई **Fragments** नहीं है।"
 }
