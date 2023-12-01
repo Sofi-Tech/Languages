@@ -1,15 +1,15 @@
 {
-  "GLOWNAME_DESCRIPTION": "Glow का नाम बदलता है।",
-  "GN_CATEGORY": "COSMETICS",
-  "UNLOCK_GLOWS": "{{author}} आपके पास कोई `Glows` नहीं हैं।",
-  "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gn <GlowCode><NewName>`",
-  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow codes` हमेशा `#` से शुरू होते है।",
-  "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया **Glow** कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-  "GLOW_NAME_LONG": "{{author}} `Glow` का नाम अधिकतम **25** वर्ण का हो सकता है।",
-  "GLOW_NAME_EXISTS": "{{author}} यह नाम पहले से किसी और `Glow` को दिया गया है।",
-  "EMBED_TITLE": "SOFI: GLOWNAME",
-  "GLOWNAME_CHANGE_CONFIRMATION": "क्या आप वाकई में `Glow` का नाम `{{oldName}}` से `{{newName}}` में बदलना चाहते हैं?",
-  "MISSING_ITEMS": "{{author}} आपके पास यह प्रकिया के लिए पर्याप्त `{{currency}}` नही है।",
-  "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} `Glow` का नाम सफलतापूर्वक `{{newName}}` में बदला गया",
-  "PROFANE_GLOW_NAME": "{{author}} आपके `Glow` के नाम में अपशब्द का प्रयोग नही होना चाहिए।"
+    "GLOWNAME_DESCRIPTION": "Glow का नाम बदलता है।",
+    "GN_CATEGORY": "COSMETICS",
+    "UNLOCK_GLOWS": "{{author}} आपके पास कोई **Glows** नहीं हैं।",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}gn <GlowCode><NewName>`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} **Glow** कोड्स हमेशा `#` से शुरू होते है।",
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया **Glow** कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "GLOW_NAME_LONG": "{{author}} **Glow** का नाम अधिकतम **25** वर्ण का हो सकता है।",
+    "GLOW_NAME_EXISTS": "{{author}} यह नाम पहले से किसी और **Glow** को दिया गया है।",
+    "EMBED_TITLE": "SOFI: GLOWNAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "क्या आप वाकई में **Glow** का नाम `{{oldName}}` से `{{newName}}` में बदलना चाहते हैं?",
+    "MISSING_ITEMS": "{{author}} आपके पास यह प्रकिया के लिए पर्याप्त **{{currency}}** नही है।",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} **Glow** का नाम सफलतापूर्वक `{{newName}}` में बदला गया",
+    "PROFANE_GLOW_NAME": "{{author}} आपके **Glow** के नाम में अपशब्द या अश्लील भाषा का प्रयोग नही होना चाहिए।"
 }

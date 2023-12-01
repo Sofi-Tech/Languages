@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Put a \"Tag\" on selected cards",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}t <CardCode> <TagName>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}t <TagName> <CardCode>`",
     "NO_TAGS_CREATED": "{{author}} You don't have any tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
     "TAG_NOT_FOUND": "{{author}} You don't have any tag with the name `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} You do not have any cards in your collection yet",

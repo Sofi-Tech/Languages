@@ -1,8 +1,12 @@
 {
-  "GLOWTAGLIST_DESCRIPTION": "Glow Tag की सूची प्रदर्शित करता है।",
-  "GTL_CATEGORY": "TAGS",
-  "NO_TAGS": "{{author}} आपके पास कोई `Glow Tag` नहीं है।",
-  "EMBED_TITLE": "SOFI: GLOWTAGLIST",
-  "GLOWS_other": "{{count}} ग्लो",
-  "GLOWS_one": "{{count}} ग्लो"
+    "GLOWTAGLIST_DESCRIPTION": "Glow Tag की सूची प्रदर्शित करता है।",
+    "GTL_CATEGORY": "TAGS",
+    "NO_TAGS": "{{author}} आपके पास कोई **Glow** टैग नहीं है।",
+    "EMBED_TITLE": "SOFI: GLOW TAG LIST",
+    "GLOWS_other": "{{count}} Glows",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_few": "{{count}} Glows",
+    "GLOWS_zero": "{{count}} Glow",
+    "GLOWS_many": "{{count}} Glows"
 }

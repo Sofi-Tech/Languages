@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Agrega un \"Tag\" a las cartas seleccionadas",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}t <CódigoDeCarta> <NombreDelTag>`",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}t <NombreDelTag> <CódigoDeCarta>`",
     "NO_TAGS_CREATED": "{{author}} Aún no tienes ningún tag. Usa el comando `{{prefix}}tc <NombreDelTag> <Emote>` para crear uno",
     "TAG_NOT_FOUND": "{{author}} No tienes ningún tag con el nombre `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Aún no tienes ninguna carta en tu colección",
