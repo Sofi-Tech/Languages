@@ -1,12 +1,15 @@
 {
-  "TAGLIST_DESCRIPTION": "Ipinakita ng listahan ng iyong mga \"Tags\"",
-  "TL_CATEGORY": "Mga Tag",
-  "NO_USER": "{{author}} Ang user na ito ay hindi mahanap",
-  "NO_TAGS": "{{author}} Ang user na iyon walang kahit anong `Tags`",
-  "EMBED_TITLE": "SOFI: TAGLIST",
-  "SOFI_FACT": "Tandaan: Ang paggawa ng \"Tag\" na may pangalang \"lock\" at ang \"🔒\" na emoji ay pipigilan kang magsunog o mag-trade ng mga card gamit ang \"Tag\" na iyon.\nHalimbawa: \"{{prefix}}tc lock 🔒\"",
-  "EMBED_FOOTER": "Kabuuan: {{count}}",
-  "NO_TAGS_SELF": "{{author}} Ikaw ay wala pang kahit anong `Tags`. Gumamit ng commands na `{{prefix}}tc <PangalanNgTag> <Emoji>` upang makagawa",
-  "CARD_one": "{{count}} card",
-  "CARD_other": "{{count}} cards"
+    "TAGLIST_DESCRIPTION": "Ipinakita ng listahan ng iyong mga \"Tags\"",
+    "TL_CATEGORY": "Mga Tag",
+    "NO_USER": "{{author}} Ang user na ito ay hindi mahanap",
+    "NO_TAGS": "{{author}} Ang user na iyon walang kahit anong tags",
+    "EMBED_TITLE": "SOFI: LISTAHAN NG TAGS ({{username}})",
+    "SOFI_FACT": "A nakalock na tag ay hindi maaaring sunugin o itrade",
+    "EMBED_FOOTER": "Kabuuan: {{total}} | Naka lock: {{locked}}",
+    "NO_TAGS_SELF": "{{author}} Ikaw ay wala pang kahit anong tags. Gamitin ang commands na `{{prefix}}tc <PangalanNgTag> <Emoji>` upang makagawa",
+    "CARD_one": "{{count}} card",
+    "CARD_other": "{{count}} cards",
+    "LOCK_MENU_PLACEHOLDER": "Pumili ng tag para ilock/iunlock",
+    "LOCKED_TAG_zero": "🔒 Nakalock {{count}} na tag",
+    "CARD_zero": "{{count}} card"
 }

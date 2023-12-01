@@ -1,12 +1,12 @@
 {
-  "BUY_DESCRIPTION": "Compra \"Items\" del \"Shop\" de Sofi",
-  "SLASH_DESC": "Introduce el nombre del item que quieres comprar",
-  "SLASH_DESC2": "Introduce la cantidad",
-  "SLASH_DESC3": "Introduce el código del **Background** que quieres comprar. [FUNCIONA SÓLO SI EL ITEM ESTÁ SELECCIONADO COMO BACKGROUND]",
-  "NO_ITEM": "{{author}} Uso correcto: `{{prefix}}buy <NombreDelItem> <Cantidad>`",
-  "TRADEPASS_INFO": "Visita nuestra página web para hacer **Bump** y canjear tus puntos por diferentes artículos, incluido el **Trade Pass**",
-  "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}buy bg <IDDelBackground> <Cantidad>`",
-  "INVALID_BG_AMOUNT": "{{author}} No se puede comprar una cantidad negativa de un artículo",
-  "INVALID_BG_ID": "{{author}} No se ha podido encontrar ningún **Background** con ese ID",
-  "INVALID_ITEM_PROVIDED": "{{user}} El item que has proporcionado no es válido"
+    "BUY_DESCRIPTION": "Compra \"Items\" del \"Shop\" de Sofi",
+    "SLASH_DESC": "Introduce el nombre del item que quieres comprar",
+    "SLASH_DESC2": "Introduce la cantidad",
+    "SLASH_DESC3": "Introduce el código del **Background** que quieres comprar. [FUNCIONA SÓLO SI EL ITEM ESTÁ SELECCIONADO COMO BACKGROUND]",
+    "NO_ITEM": "{{author}} Uso correcto: `{{prefix}}buy <NombreDelItem> <Cantidad>`",
+    "TRADEPASS_INFO": "Visita nuestra página web para hacer **Bump** y canjear tus puntos por diferentes artículos, incluido el **Trade Pass**",
+    "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}buy bg <IDDelBackground> <Cantidad>`",
+    "INVALID_BG_AMOUNT": "{{author}} No se puede comprar una cantidad negativa de un artículo",
+    "INVALID_BG_ID": "{{author}} No se ha podido encontrar ningún **Background** con ese ID",
+    "INVALID_ITEM_PROVIDED": "{{user}} El item que has proporcionado no es válido"
 }
