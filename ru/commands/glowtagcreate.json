@@ -1,8 +1,8 @@
 {
-  "GLOWTAGCREATE_DESCRIPTION": "Создает \"Glow Tag\"",
-  "GTC_CATEGORY": "Tags",
-  "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gtc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} Данный смайлик недействителен",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} У вас уже есть отметка для **Glow** с таким названием",
-  "CREATED_GLOWTAG": "{{author}} Отметка для **Glow** с названием `{{tag}}` | {{emoji}} успешно создана"
+    "GLOWTAGCREATE_DESCRIPTION": "Создает \"Glow Tag\"",
+    "GTC_CATEGORY": "Tags",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gtc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Данный смайлик недействителен",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} У вас уже есть отметка для **Glow** с таким названием",
+    "CREATED_GLOWTAG": "{{author}} Отметка для **Glow** с названием `{{tag}}` | {{emoji}} успешно создана"
 }

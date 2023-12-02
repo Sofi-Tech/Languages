@@ -1,14 +1,14 @@
 {
-  "MASSBURN_DESCRIPTION": "कई पत्ते एक साथ जलाता है",
-  "IN_ACTIVE_MB": "{{user}} आप एक सक्रिय `massburn` के दौरान दूसरा शुरू नही कर सकते है।",
-  "PROVIDE_FILTERS": "{{author}} सही उपयोग: `{{prefix}}mb <Filters>`\n\n```fix\nनोट: फिल्टर के लिए सहायता लेने में \"{{prefix}}help filters\" का उपयोग करे।\n```",
-  "WRONG_TAG": "{{author}} इस नाम से कोई `Tag` नही मिला : `{{arg}}`",
-  "NO_CARDS_FOUND": "{{author}} आपके खोज अनुसार कोई भी पत्ता नही मिला।",
-  "CARDS_BURNED": "__चुने गए पत्ते [ {{totalCards}} ]__",
-  "CONFIRM_ASK": "{{author}} क्या आप वाकई में इन पत्तो को जलाना चाहते हैं?",
-  "MISSING_CARDS": "{{author}} आपके द्वारा प्रदान किए गए कोड में से कोई एक आपके संग्रह में मौजूद नहीं है।",
-  "SUCCESS": "{{author}} सभी पत्ते सफलतापूर्वक जलाए गए",
-  "BURN_REWARDS": "__**ईनाम**__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} आप लॉक `Tag` को नही जला सकते है।"
+    "MASSBURN_DESCRIPTION": "कई पत्ते एक साथ जलाता है",
+    "IN_ACTIVE_MB": "{{user}} आप एक सक्रिय **Massburn** के दौरान दूसरा शुरू नही कर सकते है।",
+    "PROVIDE_FILTERS": "{{author}} सही उपयोग: `{{prefix}}mb <Filters>`\n\n```fix\nनोट: फिल्टर के लिए सहायता लेने में {{prefix}}help filters का उपयोग करे।\n```",
+    "WRONG_TAG": "{{author}} इस नाम से कोई टैग नही मिला `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} आपके खोज अनुसार कोई भी पत्ता नही मिला।",
+    "CARDS_BURNED": "__चुने गए पत्ते [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} क्या आप वाकई में इन पत्तो को जलाना चाहते हैं?",
+    "MISSING_CARDS": "{{author}} आपके द्वारा प्रदान किए गए कोड में से कोई एक आपके संग्रह में मौजूद नहीं है।",
+    "SUCCESS": "{{author}} सभी पत्ते सफलतापूर्वक जलाए गए",
+    "BURN_REWARDS": "__**ईनाम**__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} पत्ते जिन पर ताला लगाया गया , **GIF** संस्करण वाले या डेक में उपयोगिता जलाए नहीं जा सकते है।"
 }
