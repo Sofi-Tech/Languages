@@ -5,7 +5,7 @@
     "WRONG_TAG": "{{author}} Aucun tag nommé `{{arg}}`n'a été trouvé",
     "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes à vos critères de recherche",
     "CARDS_BURNED": "__Cartes sélectionnées [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Êtes-vous sûr de vouloir burn __indéfiniment__ les cartes ci-dessous?",
+    "CONFIRM_ASK": "{{author}} Êtes-vous sûr(e) de vouloir burn __indéfiniment__ les cartes ci-dessous?",
     "MISSING_CARDS": "{{author}} Au moins une des cartes sélectionnées n'est plus dans votre collection",
     "SUCCESS": "{{author}} Les cartes sélectionnées ont été burn avec succès",
     "BURN_REWARDS": "__Récompenses__",
