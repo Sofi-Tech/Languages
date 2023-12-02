@@ -1,12 +1,12 @@
 {
-  "TAG_DESCRIPTION": "Put a \"Tag\" on selected cards",
-  "TAG_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}t <TagName> <CardCode>`",
-  "NO_TAGS_CREATED": "{{author}} You don't have any tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
-  "TAG_NOT_FOUND": "{{author}} You don't have any tag with the name `{{arg}}`",
-  "NO_CARDS_CLAIMED": "{{author}} You do not have any cards in your collection yet",
-  "INVALID_CARD_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
-  "INVALID_MULTIPLE_CARD_CODES": "{{author}} The following card codes are either invalid or not in your collection: {{arg}}",
-  "SUCCESSFUL_TAG": "{{author}} Successfully tagged **{{card}}** as `{{tag}}`",
-  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} All cards were successfully tagged"
+    "TAG_DESCRIPTION": "Put a \"Tag\" on selected cards",
+    "TAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}t <TagName> <CardCode>`",
+    "NO_TAGS_CREATED": "{{author}} You don't have any tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
+    "TAG_NOT_FOUND": "{{author}} You don't have any tag with the name `{{arg}}`",
+    "NO_CARDS_CLAIMED": "{{author}} You do not have any cards in your collection yet",
+    "INVALID_CARD_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
+    "INVALID_MULTIPLE_CARD_CODES": "{{author}} The following card codes are either invalid or not in your collection: \n{{arg}}",
+    "SUCCESSFUL_TAG": "{{author}} Successfully tagged **{{card}}** as `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} All cards were successfully tagged"
 }
