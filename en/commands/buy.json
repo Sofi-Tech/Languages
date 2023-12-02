@@ -8,5 +8,7 @@
   "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}buy bg <Background-ID> <Amount>`",
   "INVALID_BG_AMOUNT": "{{author}} You cannot buy a negative amount of an item",
   "INVALID_BG_ID": "{{author}} Could not find any **Background** with that ID",
-  "INVALID_ITEM_PROVIDED": "{{user}} The item you provided is invalid"
+  "INVALID_ITEM_PROVIDED": "{{user}} The item you provided is invalid",
+  "BUY_CHARMS_MULTIPLES": "You can only buy charms in multiples of 100",
+  "BUY_CHARM_CONFIRMATION": "## You are buying {{amount}} <:xcharm:988729774031638528>"
 }
