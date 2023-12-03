@@ -2,7 +2,7 @@
     "AUCTIONINFO_DESCRIPTION": "Displays Auction Info",
     "AI_CATEGORY": "Cards",
     "NO_ONGOING_AUCTION": "{{author}} There are currently no active auctions",
-    "BID_SELECTION": "Use the command {{prefix}}ai <Auction-ID> or select from select menu to bid",
+    "BID_SELECTION": "Use the command {{prefix}}ai <Auction-ID> or select an active auction from the menu below",
     "AI_CURRENT": "Current Bid",
     "AI_ENDS": "Ends",
     "SELECT_AUCTION_PLACEHOLDER": "Select an Auction",

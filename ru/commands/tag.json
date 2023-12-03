@@ -7,5 +7,6 @@
     "NO_CARDS_CLAIMED": "{{author}} У вас пока нет ни одной карты в коллекции",
     "INVALID_CARD_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
     "SUCCESSFUL_TAG": "{{author}} Карта **{{card}}** успешно отмечена как `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты успешно отмечены"
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Все карты успешно отмечены",
+    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Следующие коды карт недействительны или не являются частью вашей коллекции:\n{{arg}}"
 }
