@@ -19,6 +19,8 @@
     "NOIR_FOUND": "Du hast eine <:noiressence:1115496193775116411> **Noir Essence** in deiner Truhe gefunden!",
     "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
     "GUILD_CHEST_FOOTER": "Du kannst eine Gilden-Truhe am Ende jeder Saison erhalten",
-    "GUILD_PACKAGE_SUCCESS": "Glückwunsch! Dein `Guild Package` enthielt die **{{charName}}** `3D-V2`-Karte und 💳 **{{amount}}x** `Gen Scratcher`\n\n__**Zufällige Anzahl an Gen Scratchers**__\n<:curvedline:979665878503272478> 1 - 3",
-    "CLAIMED": "Beansprucht"
+    "GUILD_PACKAGE_SUCCESS": "Glückwunsch! Dein **Guild Package** enthielt die **{{charName}}** **3D-V2**-Karte und 💳 **{{amount}}x** **Gen Scratcher**",
+    "CLAIMED": "Beansprucht",
+    "PROCESS_CANCELLED": "Der Vorgang wurde abgebrochen",
+    "GUILD_PACKAGE_PROMPT": "**__Derzeitiger Kartenpool__**\n{{poolLine}}\n\nBist du sicher, dass du dieses Paket öffnen willst?"
 }
