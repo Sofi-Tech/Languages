@@ -1,8 +1,8 @@
 {
-  "MARKETUNLIST_DESCRIPTION": "बाजार से डील हटाता है।",
-  "CORRECT_USAGE": "{{user}} सही उपयोग: `{{prefix}}mul <Order-ID/All>`",
-  "INVALID_DEAL_ID": "{{author}} अवैध डील ID प्रदान की गई या यह आपकी डील नहीं है।",
-  "SUCCESS_UL": "{{user}} बाजार से यह सौदा हटाया गया: `{{dealId}}`",
-  "NO_LISTINGS_FOUND": "{{user}} आपका अभी मार्केट में कोई ऑर्डर नहीं है।",
-  "SUCCESS_UL_ALL": "{{user}} आपकी सभी डीलों को बाजार से सफलतापूर्वक हटाया गया"
+    "MARKETUNLIST_DESCRIPTION": "बाजार से डील हटाता है।",
+    "CORRECT_USAGE": "{{user}} सही उपयोग: `{{prefix}}mul <Order-ID/All>`",
+    "INVALID_DEAL_ID": "{{author}} अवैध डील ID प्रदान की गई या यह आपकी डील नहीं है।",
+    "SUCCESS_UL": "{{user}} बाजार से यह सौदा हटाया गया: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} आपका अभी मार्केट में कोई ऑर्डर नहीं है।",
+    "SUCCESS_UL_ALL": "{{user}} आपकी सभी डीलों को बाजार से सफलतापूर्वक हटाया गया।"
 }

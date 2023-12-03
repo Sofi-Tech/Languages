@@ -12,5 +12,8 @@
     "COLOR_CODE": "कोड: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} इस **Glow** में कोई चार्ज नहीं है।",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} पत्ते का फ़ॉन्ट रंग सफलतापूर्वक बदला गया।",
-    "PROCESS_CANCELLED": "प्रक्रिया रद्द की गई"
+    "PROCESS_CANCELLED": "प्रक्रिया रद्द की गई",
+    "FC_RESET": "रीसेट",
+    "FC_NONE": "कोई नही",
+    "GLOW_NOT_PALLETE": "{{author}} प्रदान की गई **Glow** अब आपके संग्रह में मौजूद नही है।"
 }
