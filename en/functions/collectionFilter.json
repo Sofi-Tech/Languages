@@ -1,4 +1,6 @@
 {
     "PROVIDE_FILTER": "{{author}} Please provide a filter alongside the sorting method",
-    "PROVIDE_CATEGORY": "{{author}} Please provide one of the folllowing categories```apache\n{{categories}}```"
+    "PROVIDE_CATEGORY": "{{author}} Please provide one of the folllowing categories```apache\n{{categories}}```",
+    "TOO_LONG": "{{author}} The filter you provided is too long, please try again",
+    "TOO_MANY": "{{author}} You can only have 5 filter groups, please try again"
 }
