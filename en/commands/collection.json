@@ -47,7 +47,7 @@
     "FILTER_DELETE": "Delete Filter",
     "FILTER_NOT_FOUND": "{{author}} Could not find any filter with the name `{{arg}}`",
     "FILTER_DELETE_SUCCESS": "{{author}} Successfully deleted the filter `{{filterName}}`",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough silvers to buy this card",
+    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough **Silver** to apply a filter to this collection",
     "FILTER_LIMIT": "{{author}} You have reached the maximum number of filters you can create",
     "EXPLAIN_FILTER": "{{author}} Here's a flow chart to help you understand how this filter work",
     "SAVE_FILTER": "Saved Filters"
