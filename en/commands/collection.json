@@ -39,7 +39,7 @@
     "CREATE_FILTER": "100 - Save this Filter",
     "APPLY_FILTER_TO_OTHER": "100 Silver - {{filterName}}",
     "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} You have been charged **100** <:silvercoin:940872286737661953> for applying a filter to somebody elses collection",
-    "FILTER_NAME": "Filter Name",
+    "FILTER_NAME": "Name of your Filter",
     "FILTER_NAME_PLACEHOLDER": "Enter a name for the filter",
     "FILTER_NAME_TOO_LONG": "{{author}} The filter name must be less than 20 characters",
     "FILTER_SUCCESS": "{{author}} Successfully created the filter `{{filterName}}`",
