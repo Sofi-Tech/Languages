@@ -1,11 +1,12 @@
 {
     "TAG_DESCRIPTION": "Weise ausgewählten Karten einen \"Tag\" zu",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}t <CardCode> <TagName>`",
-    "NO_TAGS_CREATED": "{{author}} Du hast noch keine `Tags`. Verwende den Befehl`{{prefix}}tc <TagName> <Emoji>` um einen zu erstellen",
-    "TAG_NOT_FOUND": "{{author}} Du hast keinen `Tag` mit dem Namen `{{tag}}`",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}t <TagName> <CardCode>`",
+    "NO_TAGS_CREATED": "{{author}} Du hast noch keine Tags. Verwende den Befehl`{{prefix}}tc <TagName> <Emoji>` um einen zu erstellen",
+    "TAG_NOT_FOUND": "{{author}} Du hast keinen Tag mit dem Namen `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Du hast noch keine Karten in deiner Sammlung",
     "INVALID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "SUCCESSFUL_TAG": "{{author}} **{{card}}** wurde erfolgreich als `{{tag}}` getaggt",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Alle Karten wurden erfolgreich `getaggt`"
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Alle Karten wurden erfolgreich getaggt",
+    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Die folgenden Karten-Codes sind entweder ungültig oder nicht in deiner Sammlung:\n{{arg}}"
 }
