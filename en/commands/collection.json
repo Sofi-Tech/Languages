@@ -52,5 +52,6 @@
     "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough **Silver** to apply a filter to this collection",
     "FILTER_LIMIT": "{{author}} You cannot create any more filters",
     "EXPLAIN_FILTER": "{{author}} Here is a flow chart to help you understand how this filter work",
-    "SAVE_FILTER": "Select a Filter"
+    "SAVE_FILTER": "Select a Filter",
+    "NOT_ENOUGH_SILVER_SAVING": "{{author}} You don't have enough **Silver** to save this filter"
 }
