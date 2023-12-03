@@ -8,5 +8,5 @@
     "INVALID_CARD_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "SUCCESSFUL_TAG": "{{author}} La carte **{{card}}** a été tag avec succès comme `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Toutes les cartes ont été tagged avec succès",
-    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Les codes de cartes suivants sont soit invalides ou ne sont pas dans votre collection:"
+    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Les codes de cartes suivants sont soit invalides ou ne sont pas dans votre collection:\n{{arg}}"
 }

@@ -37,5 +37,21 @@
     "MASSTAG_WRONG_TAG": "{{author}} इस नाम से कोई टैग नही मिला `{{arg}}`",
     "APPLY_FILTER_TO_OTHER": "100 - {{filterName}}",
     "SAVED_FILTER": "फिल्टर चुने",
-    "CREATE_FILTER": "100 - फिल्टर सहेजे "
+    "CREATE_FILTER": "100 - फिल्टर सहेजे ",
+    "FILTER_NAME_TOO_LONG": "{{author}} आपके फिल्टर का नाम **20** वर्ण से अधिक नही हो सकता है।",
+    "FILTER_UPDATE_SUCCESS": "{{author}} `{{filterName}}` को सफलतापूर्वक बदला गया",
+    "FILTER_NO_CARDS_FOUND": "{{author}} आपके चुनित फिल्टर से कोई पत्ता नही मिला।",
+    "FILTER_DELETE": "फिल्टर मिटाए",
+    "FILTER_LIMIT": "{{author}} आप और अधिक फिल्टर नही बना सकते है।",
+    "FILTER_NAME_PROFANE": "{{author}} आपके फिल्टर के नाम में अभद्रता नही होनी चाहिए",
+    "SAVE_FILTER": "फिल्टर चुने",
+    "FILTER_NAME": "फिल्टर का नाम",
+    "NOT_ENOUGH_SILVERS": "{{author}} आपके पास फिल्टर लागू करने के लिए पर्याप्त **Silver** नही है।",
+    "FILTER_DELETE_SUCCESS": "{{author}} फिल्टर सफलतापूर्वक मिटाया गया `{{filterName}}`",
+    "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} आप पर **100** <:xsilvercoin:915619222229512213> का चार्ज लगाया जाता है दूसरे के संग्रह पर फिल्टर लगाने के आरोप में।",
+    "FILTER_NAME_PLACEHOLDER": "फिल्टर का नाम दर्ज करे ",
+    "FILTER_SUCCESS": "{{author}} `{{filterName}}` नाम से फिल्टर सफलतापूर्वक संपन्न किया गया",
+    "FILTER_NOT_FOUND": "{{author}} इस नाम से कोई फिल्टर नही मिला `{{arg}}`",
+    "EXPLAIN_FILTER": "{{author}} यह फ़िल्टर कैसे काम करता है समझने के लिए आप फ़्लो चार्ट की सहायता ले सकते है।",
+    "NOT_ENOUGH_SILVER_SAVING": "{{author}} आपके पास यह फिल्टर सहेजने के लिए पर्याप्त **Silver** नही है।"
 }

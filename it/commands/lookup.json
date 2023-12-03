@@ -1,21 +1,19 @@
 {
-  "LOOKUP_DESCRIPTION": "Visualizza le varianti Versione/3D/GIF di un carattere",
-  "CHAR_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun carattere con il nome: `{{arg}}`",
-  "CHAR_NF_SENSITIVE": "{{author}} Non è stato possibile trovare alcun carattere con il nome: `{{arg}}`\n\n```aggiustare\nNota: l'uso del flag `-f` trasforma la funzione con distinzione tra maiuscole e minuscole!\n```",
-  "EMBED_TITLE": "SOFI: LOOKUP",
-  "SUBMITTED": "Inviato da: <@{{userID}}>",
-  "EMBED_FOOTER": "Trova la `Version` 1 usando il comando `scl`. Puoi anche inviare nuove `Versioni` usando invece il comando `ssc`",
-
-  "MORE": "Maggiori Informazioni",
-  "GIF_LABEL": "GIF",
-  "SERIES": "Serie:",
-  "NAME": "Nome:",
-
-  "WISHLISTED": "Desiderato",
-  "VERSIONS": "Versioni",
-  "MULTI": "Multi",
-  "EVENTS": "Eventi",
-  "EVENT": "Event",
-  "UPCOMING_EVENT": "Prossimo Event",
-  "NO_OWNER_FOUND": "Nessuno ha ancora la versione `2D` di questo personaggio"
+    "LOOKUP_DESCRIPTION": "Visualizza le varianti Versione/3D/GIF di un carattere",
+    "CHAR_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun carattere con il nome `{{arg}}`",
+    "CHAR_NF_SENSITIVE": "{{author}} Non è stato possibile trovare alcun carattere con il nome `{{arg}}`\n\n```fix\nNota: l'uso del flag `-f` trasforma la funzione con distinzione tra maiuscole e minuscole!\n```",
+    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
+    "SUBMITTED": "Inviato da: <@{{userID}}>",
+    "EMBED_FOOTER": "Trova la `Version` 1 usando il comando `scl`. Puoi anche inviare nuove `Versioni` usando invece il comando `ssc`",
+    "MORE": "Maggiori Informazioni",
+    "GIF_LABEL": "GIF",
+    "SERIES": "Serie:",
+    "NAME": "Nome:",
+    "WISHLISTED": "Desiderato",
+    "VERSIONS": "Versioni",
+    "MULTI": "Multi",
+    "EVENTS": "Eventi",
+    "EVENT": "Event",
+    "UPCOMING_EVENT": "Prossimo Event",
+    "NO_OWNER_FOUND": "Nessuno ha ancora la versione **2D** di questo carattere"
 }
