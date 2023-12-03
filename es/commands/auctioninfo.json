@@ -1,1 +1,18 @@
-{}
+{
+    "AI_CATEGORY": "Cartas",
+    "BID_SELECTION": "Usa el comando {{prefix}}ai <Auction-ID> o selecciona una subasta activa del menu de abajo",
+    "AUCTIONINFO_DESCRIPTION": "Muestra informacion de subasta",
+    "AI_ENDS": "Termina en",
+    "SELECT_AUCTION_PLACEHOLDER": "Selecciona una subasta",
+    "BID_MODAL_LABEL": "Cantidad de la puja",
+    "BID_MODAL_TITLE": "Puja de la subasta",
+    "BID_MODAL_PLACEHOLDER": "Introduce la cantidad a pujar",
+    "POSITIVE_NUMBER": "{{author}} Tu puja debe de ser un numero positivo",
+    "AUCTION_NOT_FOUND": "No se pudo encontrar esa subasta",
+    "AI_CURRENT": "Puja Actual",
+    "NO_ONGOING_AUCTION": "{{author}} No hay subastas activas por el momento",
+    "INVALID_BID_AMOUNT": "{{author}} Tu puja tiene que ser un numero!",
+    "MINIMUM_AMOUNT": "{{author}} Tienes que pujar un minimo de **{{amount}}** {{currencyEmoji}} para esta subasta",
+    "NOT_ENOUGH_CURRENCY": "{{author}} No tienes suficiente {{emoji}}",
+    "BID_SUCCESSFUL": "{{author}} Haz puesto una puja de **{{amount}}** con exito {{emoji}}"
+}

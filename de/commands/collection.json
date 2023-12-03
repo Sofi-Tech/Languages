@@ -21,9 +21,9 @@
     "SORT_HP": "Lebenspunkte",
     "SORT_DUPE": "Duplikate",
     "ALL_UNTAG_SUCCESS": "{{author}} Der folgende Tag wurde erfolgreich von **{{taglength}}** Karten entfernt `{{tagName}}`",
-    "ALL_TAG_SUCCESS": "{{author}} Der folgende `Tag` wurde erfolgreich allen **{{taglength}}** Karten hinzugefügt: `{{tagName}}`",
+    "ALL_TAG_SUCCESS": "{{author}} Der folgende Tag wurde erfolgreich allen **{{taglength}}** Karten hinzugefügt `{{tagName}}`",
     "PLEASE_WAIT": "Bitte Warten <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}}Du hast noch keine `Tags`. Du kannst sie mit dem Befehl `{{prefix}}tc <TagName> <Emoji>` erstellen",
+    "NO_TAG_FOUND": "{{author}} Du hast noch keine Tags. Du kannst sie mit dem Befehl `{{prefix}}tc <TagName> <Emoji>` erstellen",
     "NOT_AVAILABLE": "Ungültige Serie",
     "SORT_LEVEL": "Level",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
@@ -34,5 +34,6 @@
     "TAG_NO_CARDS_FOUND": "{{author}} Es konnten keine Karten mit dem Tag `{{arg}}` gefunden werden",
     "EMBED_FOOTER": "Seite: {{page}}/{{totalPages}} | Karten insgesamt: {{count}} {{sortedBy}}",
     "MASSTAG_WRONG_TAG": "{{author}} Es wurde kein Tag mit dem Namen `{{arg}}` gefunden",
-    "NO_RESULTS_OTHERS": "{{author}} Dieser Benutzer hat keine Karten in seiner Sammlung"
+    "NO_RESULTS_OTHERS": "{{author}} Dieser Benutzer hat keine Karten in seiner Sammlung",
+    "SAVED_FILTER": "Gespeicherte Filter"
 }
