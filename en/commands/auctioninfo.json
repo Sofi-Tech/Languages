@@ -13,6 +13,6 @@
     "POSITIVE_NUMBER": "{{author}} Your bid has to be a positive number",
     "MINIMUM_AMOUNT": "{{author}} You have to bid a minimum of **{{amount}}** {{currencyEmoji}} for this auction",
     "NOT_ENOUGH_CURRENCY": "{{author}} You don't have enough {{emoji}}",
-    "BID_SUCCESSFUL": "You have successfully bid {{amount}} {{emoji}}",
+    "BID_SUCCESSFUL": "{{author}} You have successfully placed a bid of **{{amount}}** {{emoji}}",
     "AUCTION_NOT_FOUND": "Could not find that auction"
 }

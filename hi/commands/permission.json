@@ -1,7 +1,7 @@
 {
     "PERMISSION_DESCRIPTION": "आपको चुनिंदा कमांड को चैनल में व्हाइट-लिस्ट और ब्लैक-लिस्ट करने देता है।",
     "PERMS_CATEGORY": "सेटिंग्स",
-    "BLACKLIST_BUTTON_LABEL": "संदिग्ध",
+    "BLACKLIST_BUTTON_LABEL": "संदिग्ध-सूची",
     "WHITELIST_BUTTON_LABEL": "श्वेत-सूची",
     "ADD_BUTTON_LABEL": "जोड़े",
     "REMOVE_BUTTON_LABEL": "हटाए",
@@ -26,6 +26,16 @@
     "PERMISSION_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>",
     "PERMS_EMBED_TITLE": "SOFI: PERMISSIONS ",
     "WHITELISTED_COMMANDS": "**__श्वेत-सूची में कमांड्स__**",
-    "ADD_MODAL_LABEL": "कमांड को {{listName}} चैनल में जोड़े",
-    "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})"
+    "ADD_MODAL_LABEL": "कमांड को चैनल की {{listName}} में जोड़े",
+    "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
+    "ADD_COMMANDS_SUCCESSFUL": "{{author}} निम्न कमांड्स को सफलतापूर्वक चैनल की {{listname}} में जोड़ा गया:{{commandsList}}",
+    "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} सभी कमांड्स को सफलतापूर्वक चैनल की {{listName}} से हटाया गया।",
+    "YES_BUTTON_LABEL": "पुष्टि",
+    "NO_BUTTON_LABEL": "अस्वीकार",
+    "REMOVE_MODAL_LABEL": "कमांड को चैनल की {{listName}} से हटाए",
+    "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} सभी कमांड्स को सफलतापूर्वक चैनल की {{listName}} में जोड़ा गया।",
+    "ADD_COMMANDS_ERROR": "{{author}} प्रदान की गई कमांड्स या तो पहले से इस चैनल की {{listName}} में है या अमान्य है।",
+    "REMOVE_COMMANDS_ERROR": "{{author}} प्रदान की गई कमांड्स या तो पहले से इस चैनल की {{listName}} में है या अमान्य है।",
+    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} निम्न कमांड्स को सफलतापूर्वक चैनल की {{listname}} से हटाया गया:{{commandsList}}",
+    "RESET_PERMS_CONFIRM": "क्या आप वाकई में इस चैनल की सभी अनुमतियों को दुबारा पूर्वनिधारित स्तिथि में लाना चाहते है?"
 }
