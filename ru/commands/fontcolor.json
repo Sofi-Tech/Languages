@@ -12,5 +12,8 @@
     "COLOR_CODE": "Код: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} Данная **Glow** не заряжена",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Цвет текста на карте успешно изменен",
-    "PROCESS_CANCELLED": "Процесс отменен"
+    "PROCESS_CANCELLED": "Процесс отменен",
+    "FC_RESET": "Сбросить",
+    "FC_NONE": "Нет",
+    "GLOW_NOT_PALLETE": "{{author}} Указанная вами **Glow** больше не является частью вашего инвентаря"
 }

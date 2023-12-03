@@ -1,1 +1,18 @@
-{}
+{
+    "AI_CATEGORY": "Карты",
+    "NO_ONGOING_AUCTION": "{{author}} В данный момент нет активных аукционов",
+    "AI_CURRENT": "Текущая ставка",
+    "AI_ENDS": "Закончится",
+    "SELECT_AUCTION_PLACEHOLDER": "Выберите аукцион",
+    "BID_MODAL_LABEL": "Размер ставки",
+    "BID_MODAL_TITLE": "Ставка на аукционе",
+    "BID_MODAL_PLACEHOLDER": "Введите размер ставки",
+    "POSITIVE_NUMBER": "{{author}} Ваша ставка должна быть положительным числом",
+    "NOT_ENOUGH_CURRENCY": "{{author}} У вас недостаточно {{emoji}}",
+    "AUCTION_NOT_FOUND": "Не удалось найти данный аукцион",
+    "AUCTIONINFO_DESCRIPTION": "Отображает информацию об аукционе",
+    "BID_SELECTION": "Используйте команду {{prefix}}ai <Auction-ID> или выберите во всплывающем меню для ставки",
+    "INVALID_BID_AMOUNT": "{{author}} Ставка должна быть числом!",
+    "MINIMUM_AMOUNT": "{{author}} Вы должны поставить минимум **{{amount}}** {{currencyEmoji}} на этом аукционе",
+    "BID_SUCCESSFUL": "{{author}} Ваша ставка в размере **{{amount}}** {{emoji}} успешно размещена"
+}

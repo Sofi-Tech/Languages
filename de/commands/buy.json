@@ -1,12 +1,14 @@
 {
-  "BUY_DESCRIPTION": "Kauft \"Items\" von Sofi's \"Shop\"",
-  "SLASH_DESC": "Gib den Namen des Item an das du kaufen willst",
-  "SLASH_DESC2": "Gib die Menge an",
-  "SLASH_DESC3": "Gib den Code des `Background` an, den du kaufen möchtest. [FUNKTIONIERT NUR, WENN DAS ITEM ALS BACKGROUND AUSGEWÄHLT WURDE]",
-  "NO_ITEM": "{{author}} Korrekte Verwendung: `{{prefix}}buy <ItemName> <Amount>`",
-  "TRADEPASS_INFO": "Besuche unsere Webseite hierunter für einen `Bump` und tausche deine Punkte für verschiedene Items ein, inklusive dem `Trade Pass`",
-  "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}buy bg <Background-ID> <Menge>`",
-  "INVALID_BG_AMOUNT": "{{author}} Du kannst keine negativen Mengen eines Items kaufen",
-  "INVALID_BG_ID": "{{author}} Die angegebene `Background`-ID ist ungültig",
-  "INVALID_ITEM_PROVIDED": "{{user}} Das angegebene Item ist ungülitg"
+    "BUY_DESCRIPTION": "Kauft \"Items\" von Sofi's \"Shop\"",
+    "SLASH_DESC": "Gib den Namen des Item an das du kaufen willst",
+    "SLASH_DESC2": "Gib die Menge an",
+    "SLASH_DESC3": "Gib den Code des **Background** an, den du kaufen möchtest. [FUNKTIONIERT NUR, WENN DAS ITEM ALS BACKGROUND AUSGEWÄHLT WURDE]",
+    "NO_ITEM": "{{author}} Korrekte Verwendung: `{{prefix}}buy <ItemName> <Amount>`",
+    "TRADEPASS_INFO": "Besuche unsere Webseite hierunter für einen **Bump** und tausche deine Punkte für verschiedene Items ein, inklusive dem **Trade Pass**",
+    "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}buy bg <Background-ID> <Menge>`",
+    "INVALID_BG_AMOUNT": "{{author}} Du kannst keine negativen Mengen eines Items kaufen",
+    "INVALID_BG_ID": "{{author}} Es konnte kein **Background** mit dieser ID gefunden werden",
+    "INVALID_ITEM_PROVIDED": "{{user}} Das angegebene Item ist ungülitg",
+    "BUY_CHARM_CONFIRMATION": "## Du kaufst {{amount}} <:xcharm:988729774031638528>",
+    "BUY_CHARMS_MULTIPLES": "{{author}} Du kannst **Charms** nur in Vielfachen von 100 kaufen"
 }
