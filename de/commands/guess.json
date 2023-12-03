@@ -8,10 +8,10 @@
     "INFO_3": "Preispool **{{jackpot}}** {{currencyEmoji}}",
     "FOOTER": "Klicke auf 🍻, um beizutreten | Starte das Spiel indem du auf 🟢 klickst",
     "REQ_MORE_PLAYERS": "{{user}}, du brauchst mindestens **2** Spieler, um das Spiel zu starten",
-    "GUESS_THE_WORD": "{{participants}}\n\n**Entschlüssele das Wort: `{{scrambledWord}}`**",
+    "GUESS_THE_WORD": "{{participants}}\n\nEntschlüssele das **englische** Wort: `{{scrambledWord}}`",
     "CORRECT_GUESS": "{{winner}} hat das Wort erraten und **{{jackpot}}** {{currencyEmoji}} gewonnen",
-    "INSUFFICIENT_CURRENCY": "{{author}} Du hast nicht genügend `{{currency}}` um an diesem Spiel teilnehmen zu können",
+    "INSUFFICIENT_CURRENCY": "{{author}} Du hast nicht genügend **{{currency}}** um an diesem Spiel teilnehmen zu können",
     "MORE": "mehr...",
-    "NO_TP_2": "{{author}} Du benötigst einen aktiven `Trade Pass` um teilnehmen zu können!",
+    "NO_TP_2": "{{author}} Du benötigst einen aktiven **Trade Pass** um teilnehmen zu können!",
     "INFO_4": "**Teilnehmer [{{totalPlayers}}]**"
 }
