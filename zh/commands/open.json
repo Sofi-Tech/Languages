@@ -13,7 +13,7 @@
   "CHEST_MISSING": "您的库存中没有{{replacedArg}}`{{chestName}}` 箱子",
   "COMMON_INFO_1": "您已打开**{{totalChests}}** `{{chestName}}` 箱子",
   "ITEMS_FOUND": "获得的物品：\n",
-  "COMMON_RARE_FOOTER": "每 {{count}} `每日` 签到可以获得一个 {{chestName}} 箱子",
+
   "EXOTIC_DIVINE_FOOTER": "每月{{count}}个投票可以获得一个{{chestName}}箱子",
   "CORRECT_USAGE_2": "可打开的：“宝箱”，“护身符”"
 }

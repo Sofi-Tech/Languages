@@ -13,6 +13,6 @@
   "CHEST_MISSING": "インベントリには **{{replacedArg}}** `{{chestName}}` チェストがありません",
   "COMMON_INFO_1": "{{totalChests}}個の `{{chestName}}` チェストを開けました",
   "ITEMS_FOUND": "入手したアイテム:",
-  "COMMON_RARE_FOOTER": "{{count}}回連続ログインすると、{{chestName}}チェストが1つ入手できます",
+
   "EXOTIC_DIVINE_FOOTER": "月に{{count}}回投票すると、{{chestName}}チェストが1つ入手できます"
 }

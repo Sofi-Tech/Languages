@@ -14,6 +14,6 @@
   "CHEST_MISSING": "인벤토리에 **{{chestName}}** `{{replacedArg}}` 상자가 없습니다.",
   "COMMON_INFO_1": "**{{totalChests}}**개의 `{{chestName}}` 상자를 열었습니다",
   "ITEMS_FOUND": "발견한 아이템:\n",
-  "COMMON_RARE_FOOTER": "{{count}}일 연속 접속으로 {{chestName}} 상자를 획득할 수 있습니다",
+
   "EXOTIC_DIVINE_FOOTER": "{{count}}개의 투표로 매월 {{chestName}} 상자를 획득할 수 있습니다"
 }
