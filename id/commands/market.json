@@ -1,7 +1,7 @@
 {
-  "MARKET_DESCRIPTION": "Menampilkan pasar Sofi",
-  "NO_LISTING_FOUND": "{{author}} Tidak dapat menemukan pesanan di market",
-  "MARKET_WARN": "⚠️ Jangan gunakan pasar untuk menyembunyikan \"Wists\" Anda. Kegagalan untuk mematuhi aturan ini dapat mengakibatkan penghapusan item tersebut tanpa kompensasi!\n```\n**Rate Rata-rata**: **`{{averageRate}}}` | Total Perdagangan** : **`{{totalTrades}}`**",
-  "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}}",
-  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
+    "MARKET_DESCRIPTION": "Menampilkan pasar Sofi",
+    "NO_LISTING_FOUND": "{{author}} Tidak dapat menemukan pesanan di market",
+    "MARKET_WARN": "**Rate rata-rata**: **`{{averageRate}}` | Total Perdagangan**: **`{{totalTrades}}`**",
+    "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}}",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }

@@ -1,10 +1,11 @@
 {
-  "TAGCREATE_DESCRIPTION": "Erstellt einen \"Tag\"",
-  "TC_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <tagname> <emoji>`",
-  "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
-  "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines `Tags` muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Schimpfwörter enthalten!",
-  "LONG_TAGNAME": "{{author}} Dein `Tag`-Name darf höchsten **20** Zeichen enthalten",
-  "TAGNAME_EXISTS": "{{author}} Du hast bereits einen `Tag` mit dem Namen `{{tag}}`",
-  "TAG_CREATED": "{{author}} Erfolgreich einen `Tag` mit dem Namen: `{{tag}}` | {{emoji}} erstellt"
+    "TAGCREATE_DESCRIPTION": "Erstellt einen \"Tag\"",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <tagname> <emoji>`",
+    "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines Tags muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
+    "LONG_TAGNAME": "{{author}} Dein Tag-Name darf nur **20** Zeichen lang sein",
+    "TAGNAME_EXISTS": "{{author}} Du hast bereits einen Tag mit dem Namen `{{tag}}`",
+    "TAG_CREATED": "{{author}} Erfolgreich einen Tag mit dem Namen `{{tag}}` | {{emoji}} erstellt",
+    "TC_MAX_TAGS": "{{author}} Du hast die maximale Anzahl von Tags, die du erstellen kannst, erreicht"
 }

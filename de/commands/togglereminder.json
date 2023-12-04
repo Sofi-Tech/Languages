@@ -1,7 +1,7 @@
 {
-  "TOGGLEREMINDER_DESCRIPTION": "Schaltet deine Erinnerungen an/aus",
-  "PROVIDE_REMINDER_NAME": "{{author}} Korrekte Verwendung: `{{prefix}}tr <Vote/Daily/Bump>`",
-  "RM_CATEGORY": "Einstellungen",
-  "REMINDER_DISABLED": "{{author}} Du wirst nicht mehr benachrichtigt wenn folgendes bereit ist: **`{{reminder}}`**",
-  "REMINDER_ENABLED": "{{author}} Du wirst ab sofort benachrichtigt wenn folgendes bereit ist: **`{{reminder}}`**"
+    "TOGGLEREMINDER_DESCRIPTION": "Schaltet deine Erinnerungen an/aus",
+    "PROVIDE_REMINDER_NAME": "{{author}} Korrekte Verwendung: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "RM_CATEGORY": "Einstellungen",
+    "REMINDER_DISABLED": "{{author}} Du wirst nicht mehr benachrichtigt wenn folgendes bereit ist: **{{reminder}}**",
+    "REMINDER_ENABLED": "{{author}} Du wirst ab sofort benachrichtigt wenn folgendes bereit ist: **{{reminder}}**"
 }

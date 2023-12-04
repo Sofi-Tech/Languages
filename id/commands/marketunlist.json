@@ -1,8 +1,8 @@
 {
-  "MARKETUNLIST_DESCRIPTION": "Menghapus penawaran anda dari pasar",
-  "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}mul <Order-ID/Semua>`",
-  "INVALID_DEAL_ID": "{{author}} Order-ID yang anda berikan tidak valid atau bukan milik anda",
-  "SUCCESS_UL": "{{user}} Berhasil menghapus pesanan berikut dari pasar: `{{dealId}}`",
-  "NO_LISTINGS_FOUND": "{{user}} Anda tidak memiliki pesanan saat ini",
-  "SUCCESS_UL_ALL": "{{user}} Berhasil menghapus semua order anda dari pasar"
+    "MARKETUNLIST_DESCRIPTION": "Menghapus penawaran anda dari pasar",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}mul <Order-ID/Semua>`",
+    "INVALID_DEAL_ID": "{{author}} Order-ID yang anda berikan salah atau bukan milik anda",
+    "SUCCESS_UL": "{{user}} Berhasil menghapus pesanan berikut dari pasar: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Anda tidak memiliki pesanan saat ini",
+    "SUCCESS_UL_ALL": "{{user}} Berhasil menghapus semua order anda dari pasar"
 }

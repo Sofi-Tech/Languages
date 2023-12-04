@@ -9,6 +9,6 @@
     "YOU_GET": "Вы получаете:",
     "YOU_PAY": "Вы платите:",
     "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно **{{currency}}** для совершения покупки",
-    "TRANSACTION_SUCCESSFUL": "{{author}} Покупка **{{frameName}}** **Frame** успешно совершена",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Вы успешно приобрели **{{frameName}}** **Frame**",
     "PROCESS_CANCELLED": "Процесс отменен"
 }

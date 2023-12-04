@@ -7,7 +7,7 @@
     "GUILD_VETERANS": "Ветераны",
     "GUILD_ADVENTURER": "Авантюрист",
     "NEED_GEMS": "{{author}} У вас недостаточно **{{currency}}**, чтобы поменять коды карт",
-    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Покупка **{{amount}}** **{{itemName}}** успешно совершена",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Вы успешно приобрели **{{amount}}** **{{itemName}}**",
     "SOMETHING_WENT_WRONG": "{{author}} Что-то пошло не так! Любой вычтенный предмет добавлен обратно в ваш инвентарь",
     "GS_EMBED_FOOTER": "Срок действия данной сделки истекает через {{date}}",
     "SWAP_EMBED_FOOTER": "Этот процесс поменяет коды между двумя картами",

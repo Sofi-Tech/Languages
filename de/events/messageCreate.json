@@ -1,11 +1,11 @@
 {
     "LOTTERY_WON": "Herzlichen Glückwunsch! Du hast in Sofi's {{event}} 2D-Lotterie gewonnen! 🎃",
-    "MENTION_ERROR": "{{author}} Verwende den Server-Prefix `{{prefix}}` oder `/` um Befehle auszuführen",
+    "MENTION_ERROR": "{{author}} Verwende den Server-Prefix `{{prefix}}` oder `/` um Befehle zu verwenden",
     "RATE_LIMIT_ERROR": "{{author}} Aufgrund von hoher Aktivität wurde das Ratenlimit erreicht! Bitte warte einen Moment.",
     "VERIFY_BUTTON_LABEL": "Verifizieren",
     "SUPPORT_BUTTON_LABEL": "Support",
     "VERIFY_TO_PLAY": "[Verifiziere dich auf unserer Webseite, um zu spielen!] (<https://sofi.gg/verify>)",
-    "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Blacklist!",
+    "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Blacklist",
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Bitte warte **{{cooldown}}** bevor du erneut Befehle benutzt",
     "COMMAND_BLACKLISTED": "{{author}} Der `{{commandName}}` Befehl ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}}Ich benötige: ` {{permissions}}`, um diesen Befehl auszuführen",
@@ -19,7 +19,7 @@
     "COMMAND_DISABLED": "{{author}} Dieser Befehl wurde deaktiviert\nGrund: `{{reason}}`",
     "NO_PERMISSIONS": "{{author}} Ich habe keine ausreichende Befugnis, um diesen Befehl auszuführen",
     "SERIES_DROP": "Die Abstimmung wurde beendet!",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} hat einen negativen Wert in deinem Inventar. Bitte kontaktiere uns unter discord.gg/sofi",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Dein Inventar hat einen negativen Wert. Bitte kontaktiere uns auf unserem [Support Server](<https://discord.gg/sofi)",
     "SERVER_BLACKLISTED": "{{author}} Der Server ist auf der Blacklist. Bitte kontaktiere uns auf discord.gg/sofi",
     "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614>__Du wurdest aufgrund von Verstößen gegen die Sofi Regeln geblacklisted!__\n\n**Eine Liste der möglichen Ursachen hierfür:**\n```CSS\n- Interaktionen mit Sofi auf mehreren Accounts (Alting)\n- Verkauf oder Kauf vollständiger Discord Accounts\n- Betrug anderer Benutzer\n- Ausnutzung oder Involvierung in irgendeine der oben genannten Aktivitäten\n```\n\n:link: [Einspruch hiergegen](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)"
 }

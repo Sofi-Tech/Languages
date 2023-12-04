@@ -1,14 +1,14 @@
 {
-  "MASSBURN_DESCRIPTION": "Membakar banyak kartu sekaligus",
-  "IN_ACTIVE_MB": "{{user}} Anda tidak dapat melakukan `massburn` jika perintah sebelumnya sedang aktif",
-  "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filters>`\n\n```fix\nCatatan: Anda dapat menggunakan perintah \"{{prefix}}help filters\" agar lebih memahami\n```",
-  "WRONG_TAG": "{{author}} Tidak dapat menemukan `Tag` dengan nama `{{arg}}`",
-  "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang sesuai dengan kriteria pencarian anda",
-  "CARDS_BURNED": "__Kartu yang dipilih [{{totalCards}}]__",
-  "CONFIRM_ASK": "{{author}} Apakah anda yakin untuk melebur kartu ini?",
-  "MISSING_CARDS": "{{author}} Setidaknya salah satu kartu yang anda pilih tidak lagi ada dalam koleksi anda",
-  "SUCCESS": "{{author}} Kartu yang anda pilih berhasil dilebur",
-  "BURN_REWARDS": "__Hadiah__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} Kartu yang terkunci, berisi GIF, atau dipilih untuk dek tidak dapat dibakar."
+    "MASSBURN_DESCRIPTION": "Membakar banyak kartu sekaligus",
+    "IN_ACTIVE_MB": "{{user}} Anda tidak dapat memulai **Massburn** baru saat yang lama masih aktif",
+    "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filter>`\n\n```fix\nCatatan: Anda dapat menemukan daftar lengkap filter dengan perintah {{prefix}}help filters\n```",
+    "WRONG_TAG": "{{author}} Tidak dapat menemukan tag dengan nama `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang sesuai dengan kriteria pencarian anda",
+    "CARDS_BURNED": "__Kartu yang dipilih [{{totalCards}}]__",
+    "CONFIRM_ASK": "{{author}} Apakah Anda yakin ingin membakar kartu-kartu ini __secara permanen__?",
+    "MISSING_CARDS": "{{author}} Setidaknya salah satu kartu yang anda pilih tidak lagi ada dalam koleksi anda",
+    "SUCCESS": "{{author}} Kartu yang anda pilih berhasil dilebur",
+    "BURN_REWARDS": "__Hadiah__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Kartu yang terkunci, varian **GIF** atau yang digunakan dalam deck tidak dapat dibakar"
 }
