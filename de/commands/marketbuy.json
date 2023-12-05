@@ -10,7 +10,7 @@
     "RATE": "Rate:",
     "ALREADY_IN_PURCHASE": "{{author}} Du hast bereits ein aktives Transaktionsfenster",
     "PURCHASE_CANCELLED": "{{author}} Diese Bestellung ist nicht länger verfügbar",
-    "MISSING_GEMS": "{{author}} Du hast nicht genügend **{{currency}}** für diesen Prozess",
+    "MISSING_GEMS": "{{author}} Du hast nicht genügend **{{currency}}** für diesen Vorgang",
     "SOMETHING_WRONG": "{{author}} Da hat etwas nicht geklappt. Bitte versuche es erneut",
     "PURCHASE_SUCCESSFUL": "{{author}} Erfolgreich **{{boughtCount}}** {{currency}} gekauft",
     "SUCCESS": "{{user}} Du hast erfolgreich **{{orderPrice}}** {{currency}} verkauft und **{{soldAmount}}** {{currencySoldEmoji}} erhalten! | Auftrags-ID: `{{dealId}}`",
