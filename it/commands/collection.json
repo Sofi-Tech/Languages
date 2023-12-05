@@ -43,5 +43,15 @@
     "CREATE_FILTER": "100 - Salva questo Filtro",
     "FILTER_NAME": "Nome della Filtro",
     "SAVED_FILTER": "Seleziona un filtro",
-    "FILTER_SUCCESS": "{{author}} Salvato con successo questo filtro come '{{filterName}}'"
+    "FILTER_SUCCESS": "{{author}} Salvato con successo questo filtro come '{{filterName}}'",
+    "FILTER_NOT_FOUND": "{{author}} Impossibile trovare alcun filtro con il nome '{{arg}}'",
+    "FILTER_DELETE_SUCCESS": "{{author}} Eliminato con successo il filtro '{{filterName}}'",
+    "NOT_ENOUGH_SILVERS": "{{author}} Non si dispone di un numero sufficiente di **Silver** per applicare un filtro a questa raccolta",
+    "SAVE_FILTER": "Seleziona un Filtro",
+    "FILTER_DELETE": "Eliminare un Filtro",
+    "FILTER_LIMIT": "{{author}} Non è possibile creare altri filtri",
+    "FILTER_NAME_PROFANE": "{{author}} Il nome del filtro non deve contenere volgarità",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Non è stato possibile trovare alcuna scheda corrispondente al filtro selezionato",
+    "EXPLAIN_FILTER": "{{author}} Ecco un diagramma di flusso per aiutarti a capire come funziona questo filtro",
+    "NOT_ENOUGH_SILVER_SAVING": "{{author}} Non hai abbastanza **Silver** per salvare questo filtro"
 }
