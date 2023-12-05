@@ -1,12 +1,12 @@
 {
-  "GLOWTAGLIST_DESCRIPTION": "Displays a list with your \"Glow Tags\"",
-  "GTL_CATEGORY": "Tags",
-  "NO_TAGS": "{{author}} You dont have any **Glow** tag yet",
-  "GLOWS_zero": "{{count}} Glow",
-  "GLOWS_one": "{{count}} Glow",
-  "GLOWS_two": "{{count}} Glows",
-  "GLOWS_few": "{{count}} Glows",
-  "GLOWS_other": "{{count}} Glows",
-  "GLOWS_many": "{{count}} Glows",
-  "EMBED_TITLE": "SOFI: GLOW TAG LIST"
+    "GLOWTAGLIST_DESCRIPTION": "Displays a list with your \"Glow Tags\"",
+    "GTL_CATEGORY": "Tags",
+    "NO_TAGS": "{{author}} You dont have a **Glow** tag yet",
+    "GLOWS_zero": "{{count}} Glow",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_few": "{{count}} Glows",
+    "GLOWS_other": "{{count}} Glows",
+    "GLOWS_many": "{{count}} Glows",
+    "EMBED_TITLE": "SOFI: GLOW TAG LIST"
 }
