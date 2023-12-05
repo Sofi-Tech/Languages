@@ -3,7 +3,7 @@
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Der Benutzer konnte nicht gefunden werden",
     "NO_TAGS": "{{author}} Dieser Benutzer hat keine Tags",
-    "EMBED_TITLE": "SOFI: TAGLIST {{username}}",
+    "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Ein gesperrter Tag kann nicht verbrannt oder gehandelt werden",
     "EMBED_FOOTER": "Gesamt: {{total}} | Gesperrt: {{locked}}",
     "NO_TAGS_SELF": "{{author}} Du hast noch keine Tags. Verwende den Befehl `{{prefix}}tc <TagName> <Emoji>`, um einen zu erstellen",

@@ -5,7 +5,7 @@
     "NO_FRAMECODE_FOUND": "{{author}}Es konnte kein **Frame** mit dem Code `{{name}}` gefunden werden",
     "FRAME_UNAVAILABLE": "{{author}} Dieser **Frame** ist im Moment nicht verfügbar. Verwende den Befehl `{{prefix}}fs`, um die aktuelle **Frame** Rotation zu sehen",
     "FRAME_NOT_PURCHASABLE": "{{author}} Dieser **Frame** ist limitiert und kann nicht mehr gekauft werden",
-    "EMBED_TITLE": "SOFI: BUYFRAME",
+    "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "Du erhältst:",
     "YOU_PAY": "Du zahlst:",
     "NO_ENOUGH_AMOUNT": "{{author}} Du hast nicht genügend **{{currency}}** um diesen Kauf zu tätigen",
