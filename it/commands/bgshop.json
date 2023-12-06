@@ -2,9 +2,9 @@
     "BGSHOP_DESCRIPTION": "Visualizza il \"Background Shop\"",
     "BGS_CATEGORY": "Cosmetici",
     "BGS_SLASH_DESC": "Inserisci il codice dello \"Background\" che stai cercando",
-    "VIEW_BACKGROUNDS": "[Clicca qui per visualizzare tutti gli `Backgrounds`](<https://sofi.gg/backgrounds>)",
-    "EMBED_TITLE": "SOFI: BGSHOP",
-    "APPLY_BG": "\nUsa il comando `{{prefix}}buy bg <Background-ID> <Quantità>` per acquistare `Backgrounds`",
+    "VIEW_BACKGROUNDS": "[Clicca qui per visualizzare tutti gli **Sfondi** disponibile] (<https://sofi.gg/backgrounds>)",
+    "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
+    "APPLY_BG": "\nUsa il comando `{{prefix}}buy bg <Background-ID> <Quantità>` per acquistare **Sfondo**",
     "SHOWING_PAGE": "Pagina visualizzata: {{page}}/{{pages}}",
     "NO_BG_FOUND": "{{author}} Non è stato possibile trovare alcun **Background** con quell'ID"
 }

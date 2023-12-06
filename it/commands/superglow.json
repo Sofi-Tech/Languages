@@ -1,14 +1,14 @@
 {
-  "SUPERGLOW_DESCRIPTION": "Combina due \"Glows\" per ottenere un \"Super Glow\"",
-  "SG_CATEGORY": "Cosmetici",
-  "GLOW_CODES_MISSING": "{{author}} Utilizzo corretto: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-  "GLOW_NOT_FOUND": "{{author}} Almeno uno dei codici `Glow` che hai fornito non è valido o non è nel tuo inventario",
-  "UNAVAILABLE_GLOW": "{{author}} Almeno uno dei codici `Glow` che hai fornito è vuoto",
-  "NO_USE_SG": "{{author}} Non puoi usare un `Super Glow` per questo processo",
-  "SAME_GLOWS": "{{author}} Non puoi usare lo stesso `Glow` più di una volta",
-  "EMBED_TITLE": "SOFI: SUPERGLOW",
-  "FORM_SG_CONFIRM": "Sei sicuro di voler unire i seguenti elementi:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nnel **{{superGlowName}}** `Super Glow`?",
-  "MISSING_RESINS": "{{author}} Non hai abbastanza `Resin` per questo processo",
-  "SUPER_GLOW_SUCCESSFUL": "{{author}} Hai unito con successo i tuoi `Glows`\n",
-  "FORM_SG_FOOTER": "Entrambi i \"Glows\" verranno distrutti durante il processo!"
+    "SUPERGLOW_DESCRIPTION": "Combina due \"Glows\" per ottenere un \"Super Glow\"",
+    "SG_CATEGORY": "Cosmetici",
+    "GLOW_CODES_MISSING": "{{author}} Utilizzo corretto: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} Almeno uno dei codici **Glow** che hai fornito non è valido o non è nel tuo inventario",
+    "UNAVAILABLE_GLOW": "{{author}} Almeno uno dei codici **Glow** che hai fornito è vuoto",
+    "NO_USE_SG": "{{author}} Non puoi usare un **Super Glow** per questo processo",
+    "SAME_GLOWS": "{{author}} Non puoi usare lo stesso **Glow** più di una volta",
+    "EMBED_TITLE": "SOFI: SUPER GLOW",
+    "FORM_SG_CONFIRM": "Sei sicuro di voler unire i seguenti elementi:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** **Resin**\n\nnel **{{superGlowName}}** **Super Glow**?",
+    "MISSING_RESINS": "{{author}} Non hai abbastanza **Resin** per questo processo",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Combina con successo i tuoi **Glows**\n",
+    "FORM_SG_FOOTER": "Entrambi i Glows verranno distrutti durante il processo!"
 }

@@ -1,14 +1,14 @@
 {
     "RECHARGE_DESCRIPTION": "Ricariche un \"Glow\" vuoto",
     "RG_CATEGORY": "Cosmetici",
-    "UNLOCK_GLOWS": "{{author}} Non hai ancora nessun `Glows`",
+    "UNLOCK_GLOWS": "{{author}} Non hai ancora nessun **Glows**",
     "NO_GLOWCDE": "{{author}} Utilizzo corretto: `{{prefix}}rg <#GlowCode>`",
-    "INVALID_DC_MOVIES": "{{author}} I codici `Glow` iniziano sempre con `#`",
+    "INVALID_DC_MOVIES": "{{author}} I codici **Glow** iniziano sempre con `#`",
     "GLOW_NOT_FOUND": "{{author}} Il **Glow** codice provveduto e invalido o non presente nel tuo Inventory",
-    "GLOW_AVAILABLE": "{{author}} Quel `Glow` è già caricato",
-    "EMBED_TITLE": "SOFI: RECHARGE",
-    "RECHARGE_CONFIRMATION": "Sei sicuro di voler cambiare questo `Glow`?\n\nNome: **{{name}}**\nCodice: `{{glowCode}}`\nPrezzo: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "NO_MONEY": "{{author}} Non hai abbastanza `Recharges` Per questo processo!",
-    "SUCCESSFUL_RECHARGE": "{{author}} Ricaricato con successo il tuo **{{glowName}}** `Glow`!",
-    "SUPER_RECHARGE_CONFIRMATION": "Sei sicuro di voler ricaricare questo `Glow`?\n\nNome: **{{name}} (Super)**\nCodice: `{{glowCode}}`\nPrezzo: **{{cost}}** <:recharge_sofi:926846363537387530>"
+    "GLOW_AVAILABLE": "{{author}} Quel **Glow** è già caricato",
+    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+    "RECHARGE_CONFIRMATION": "Sei sicuro di voler cambiare questo **Glow**?\n\nNome: **{{name}}**\nCodice: `{{glowCode}}`\nPrezzo: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "NO_MONEY": "{{author}} Non hai abbastanza **Recharges** Per questo processo!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Ricaricato con successo il tuo **{{glowName}}** **Glow**!",
+    "SUPER_RECHARGE_CONFIRMATION": "Sei sicuro di voler ricaricare questo **Glow**?\n\nNome: **{{name}} (Super)**\nCodice: `{{glowCode}}`\nPrezzo: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

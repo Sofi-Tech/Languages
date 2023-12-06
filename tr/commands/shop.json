@@ -1,18 +1,17 @@
 {
-  "SHOP_DESCRIPTION": "Sofi'nin \"Shop\" undan \"Item\" satın alır",
-  "GUILD": "Lonca",
-  "GEMS": "Mücevher satın al",
-  "SOFI_SHOP": "Sofi'nin Mağazası",
-  "DROP": "> Halen bekleme süresindeyken daha fazla kart düşürmek için **Drop** eşyası kullanılabilir",
-  "GRAB": "> Halen bekleme süresindeyken daha fazla kart kapmak için **Grab** eşyası kullanılabilir",
-
-  "TP": "> Diğer oyuncularla ticaret yapmak için Trade Pass gereklidir",
-  "GUILD_STONE": "> Bir Guild oluşturmak için Guild Stones gereklidir",
-  "BG": "> Backgrounds '3D' kartlara uygulanabilir",
-  "RECHARGE": "> 'Glow' unuzu doldurmak için Recharge eşyasını kullanın",
-  "GEN_S": "\"Scratchers\", bir Event kartının Genini deşifre eder",
-  "STAT_RESET": "> Bir kartın tahsis edilen istatistik yükseltmelerini sıfırlar",
-  "UTILITY": "Yarar",
-  "DONATE_SUPPORT": "Patreon üyesi olarak bize destek olun!",
-  "BUY_STAT_RESET": "**1) {{prefix}}buy sr` | <:elixir:979673719884636210> 1,500x Elixir ➜ 🌀 1x Stat Reset**"
+    "SHOP_DESCRIPTION": "Sofi'nin \"Shop\" undan \"Item\" satın alır",
+    "GUILD": "Guild",
+    "GEMS": "Mücevher satın al",
+    "SOFI_SHOP": "Sofi'nin Mağazası",
+    "DROP": "> Halen bekleme süresindeyken daha fazla kart düşürmek için **Drop** eşyası kullanılabilir",
+    "GRAB": "> Halen bekleme süresindeyken daha fazla kart kapmak için **Grab** eşyası kullanılabilir",
+    "TP": "> Diğer oyuncularla ticaret yapmak için Trade Pass gereklidir",
+    "GUILD_STONE": "> Bir Guild oluşturmak için Guild Stones gereklidir",
+    "BG": "> Backgrounds '3D' kartlara uygulanabilir",
+    "RECHARGE": "> 'Glow' unuzu doldurmak için Recharge eşyasını kullanın",
+    "GEN_S": "\"Scratchers\", bir Event kartının Genini deşifre eder",
+    "STAT_RESET": "> Bir kartın tahsis edilen istatistik yükseltmelerini sıfırlar",
+    "UTILITY": "Yarar",
+    "DONATE_SUPPORT": "Patreon üyesi olarak bize destek olun!",
+    "BUY_STAT_RESET": "**1) {{prefix}}buy sr` | <:elixir:979673719884636210> 1,500x Elixir ➜ 🌀 1x Stat Reset**"
 }

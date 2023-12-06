@@ -1,7 +1,7 @@
 {
     "GLOWTAG_DESCRIPTION": "Отметьте ваши \"Glows\" с помощью \"Tag\"",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет ни одной отметки для **Glow**. Вы можете создать новую, используя команду: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет отметок для **Glow**. Вы можете создать новую, используя команду: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет **Glows**",
     "INVALID_GLOW_CODE": "{{author}} По крайней мере один из указанных вами кодов **Glow** недействителен или не является частью вашего инвентаря",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечена как `{{tag}}`",
