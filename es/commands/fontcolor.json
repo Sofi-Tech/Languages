@@ -8,7 +8,7 @@
     "WRONG_GLOWCODE": "{{author}} Los códigos de **Glow** siempre empiezan con un `#`",
     "CANNOT_FIND_GLOW": "{{author}} El código de **Glow** que has proporcionado no es válido o no está en tu inventario",
     "EMBED_TITLE": "SOFI: FONT COLOR{{reset}}",
-    "COLOR_NAME": "**Glow**: **{{name}}**",
+    "COLOR_NAME": "Nombre: **{{name}}**",
     "COLOR_CODE": "Código: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} Ese **Glow** no está cargado",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Cambiado con éxito el color de letra de la carta",

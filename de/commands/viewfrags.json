@@ -1,8 +1,8 @@
 {
     "VIEWFRAGS_DESCRIPTION": "Listet die verfügbaren \"Fragments\" eines Benutzers auf",
-    "COLLECTION_PVT": "{{author}} Die **Fragments** dieses Benutzers sind privat",
-    "CANNOT_FIND_FRAGS": "{{user}} Der Benutzer hat keine **Fragments**",
+    "COLLECTION_PVT": "{{author}} Die **Fragmente** dieses Benutzers sind privat",
+    "CANNOT_FIND_FRAGS": "{{user}} Der Benutzer hat keine **Fragmente**",
     "FRAGS_COUNT": "Insgesamt: {{totalCount}}",
     "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
-    "CANNOT_FIND_SELF": "{{user}} Du hast noch keine **Fragments**"
+    "CANNOT_FIND_SELF": "{{user}} Du hast noch keine **Fragmente**"
 }

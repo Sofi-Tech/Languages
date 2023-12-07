@@ -8,12 +8,13 @@
     "WRONG_GLOWCODE": "{{author}} Les codes de **Glow** commencent toujours par un `#`",
     "CANNOT_FIND_GLOW": "{{author}} Le code de **Glow** que vous avez fourni est invalide ou vous n'est pas dans votre inventaire",
     "EMBED_TITLE": "SOFI: FONT COLOR{{reset}}",
-    "COLOR_NAME": "**Glow**: **{{name}}**",
+    "COLOR_NAME": "Nom: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} Le **Glow** n'est pas chargé",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} La couleur de la police a été changée avec succès",
     "PROCESS_CANCELLED": "Le processus a été annulé",
     "GLOW_NOT_PALLETE": "{{author}} Le **Glow** que vous avez founis n'est plus dans votre inventaire",
     "FC_RESET": "Réinitialiser",
-    "FC_NONE": "Aucun"
+    "FC_NONE": "Aucun",
+    "EMBED_FOOTER": "Glow: {{availability}}"
 }
