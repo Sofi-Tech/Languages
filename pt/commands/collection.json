@@ -20,8 +20,7 @@
   "SORT_SPEED": "Ordenar por Velocidade",
   "SORT_HP": "Ordenar por HP",
   "SORT_DUPE": "Ordenar por Duplicadas",
-  "ALL_UNTAG_SUCCESS": "Todas as {{taglength}} cartas tiveram suas tags removidas com sucesso",
-  "ALL_TAG_SUCCESS": "{{author}} Todas as {{taglength}} cartas tiveram suas tags adicionadas com sucesso",
+
   "PLEASE_WAIT": "Por favor, aguarde <a:ping:876612181725167687>",
   "NO_TAG_FOUND": "Você ainda não tem `Tags`. Você pode criá-las com o comando `{{prefix}}tc <Nome da Tag> <Emoji>`",
   "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário"

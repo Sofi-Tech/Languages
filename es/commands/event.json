@@ -1,8 +1,7 @@
 {
   "EV_CATEGORY": "Cartas",
   "EVENT_DESCRIPTION": "El comando de event que muestra todo sobre la información del event",
-  "EVENT_TASK": "Drop {{amount}} cartas de events",
-  "3D_TASK": "Convierte {{amount}} cartas en {{event}} 3D",
+
   "LB_BUTTON_LABEL": "Tabla de clasificación",
   "EVSHOP_MENU_PLACEHOLDER": "Tienda de event",
   "ITEM_MENU_DESC": "Item util para obtener morphs especiales durante el event",
@@ -13,11 +12,7 @@
   "PURCHASE_SUCCESSFUL": "Compra realizada con éxito",
   "CHEST_MODAL_TITLE": "SOFI: {{item}} Cofre",
   "ITEM_PURCHASE_SUCCESSFUL": "Felicidades! Se añadio a tu inventario {{amount}} {{item}}",
-  "DROP_TASK": "Drop {{amount}} de veces",
-  "BURN_TASK": "Quema {{amount}} cartas",
-  "VOTE_TASK": "Vote {{amount}} de veces durante el event",
-  "MORPH_TASK": "Morph cartas de event {{amount}} de veces",
-  "GLOW_TASK": "Glow {{amount}} cualquier carta",
+
   "GIFT_TASK": "Regala {{amount}} {{item}}",
   "EVENT_STARTING": "El event comienza {{date}}",
   "HOME_BUTTON_LABEL": "Inicio",

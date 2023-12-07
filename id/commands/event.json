@@ -1,11 +1,6 @@
 {
   "EV_CATEGORY": "Cards",
-  "DROP_TASK": "Drop {{amount}} kali",
-  "EVENT_TASK": "Drop {{amount}} Kartu Event",
-  "BURN_TASK": "Bakar {{amount}} kartu",
-  "VOTE_TASK": "Vote {{amount}} kali selama event",
-  "MORPH_TASK": "Morph kartu event {{amount}} kali",
-  "GLOW_TASK": "Glow {{amount}} kartu apapun",
+
   "HOME_BUTTON_LABEL": "Home",
   "LB_BUTTON_LABEL": "Leaderboard",
   "LOTTERY_BUTTON_LABEL": "Lotre",
@@ -52,7 +47,7 @@
   "ITEM_MODAL_TITLE": "Sofi: {{item}}",
   "AMOUNT_BETWEEN": "Jumlah harus diantara 1 sampai 100",
   "EVENT_DESCRIPTION": "Perintah event menunjukkan segalanya tentang info event",
-  "3D_TASK": "Ubah {{amount}} kartu menjadi {{event}} 3d",
+
   "EVENT_STARTING": "Event mulai {{date}}",
   "EVSHOP_MENU_PLACEHOLDER": "Shop Event",
   "ITEM_MENU_DESC": "Item yang berguna untuk roll morph spesial selama event",

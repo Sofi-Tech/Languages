@@ -1,10 +1,7 @@
 {
   "EVENT_DESCRIPTION": "Het event commando toont alles over event info",
   "EV_CATEGORY": "Kaarten",
-  "BURN_TASK": "Verbrand {{amount}} Kaarten",
-  "VOTE_TASK": "Vote {{amount}} keer tijdens evenement",
-  "MORPH_TASK": "Morph event kaart(en) {{amount}} keer",
-  "GLOW_TASK": "Glow elke {{amount}} kaart",
+
   "GIFT_TASK": "Gift {{amount}} {{item}}",
   "HOME_BUTTON_LABEL": "Thuis",
   "LB_BUTTON_LABEL": "Leaderboard",
@@ -50,9 +47,7 @@
   "ITEM_MODAL_PLACEHOLDER": "Bv: 10",
   "ITEM_MODAL_TITLE": "SOFI: EVENT",
   "AMOUNT_BETWEEN": "De hoeveelheid moet tussen 1 en 100 liggen",
-  "DROP_TASK": "Drop {{amount}} Tijden",
-  "EVENT_TASK": "Drop {{amount}} Event Kaarten",
-  "3D_TASK": "Converteer {{amount}} kaarten naar {{event}} 3D",
+
   "EVENT_STARTING": "Evenement beginnend {{date}}",
   "EMBED_TITLE": "SOFI: EVENT",
   "EV_JOINED": " - Aangesloten",

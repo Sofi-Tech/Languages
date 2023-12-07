@@ -1,9 +1,7 @@
 {
   "EVENT_DESCRIPTION": "Event bilgisi hakkında her şeyi gösteren event komutu",
   "EV_CATEGORY": "Kartlar",
-  "DROP_TASK": "{{amount}} Kez Düşürün",
-  "VOTE_TASK": "Etkinlik sırasında {{amount}} kez oy verin",
-  "MORPH_TASK": "{{amount}} Kez etkinlik kartı \"Morph\" layın",
+
   "EVENT_STARTING": "Etkinlik başlama tarihi {{date}}",
   "HOME_BUTTON_LABEL": "Ev",
   "LB_BUTTON_LABEL": "Liderlik Sıralaması",
@@ -18,10 +16,7 @@
   "GET_FRAME_INFO": "- 200 Gem karşılığı rastgele bir etkinlik çerçevesi alın <:gemgame:862598030562033694>",
   "EV_NOT_ENOUGH_GEMS": "Bu satın alma işlemini gerçekleştirmek için {{amount}} \"gems\" e ihtiyacınız var",
   "CHEST_MODAL_TITLE": "SOFI: EVENT",
-  "EVENT_TASK": "{{amount}} Event Kartı droplayın",
-  "BURN_TASK": "{{amount}} Kart Yak",
-  "3D_TASK": "{{amount}} Kartı {{event}} 3D'ye Dönüştür",
-  "GLOW_TASK": "Herhangi bir {{amount}} karta Glow uygulayın",
+
   "GIFT_TASK": "{{amount}} {{item}} Hediye edin",
   "BG_BUTTON_LABEL": "Bg",
   "FRAMES_BUTTON_LABEL": "Çerçeveler",

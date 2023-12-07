@@ -20,8 +20,7 @@
   "SORT_SPEED": "Bilis",
   "SORT_HP": "Kalusugan",
   "SORT_DUPE": "Gaya",
-  "ALL_UNTAG_SUCCESS": "{{author}} Matagumpay na naalis ang mga sumusunod na `Tag` sa **{{taglength}}** kards: `{{tagName}}`",
-  "ALL_TAG_SUCCESS": "{{author}} Matagumpay na naidagdag ang mga sumusunod na `Tag` sa **{{taglength}}** kards: `{{tagName}}`",
+
   "PLEASE_WAIT": "Mangyaring Mag antay <a:ping:876612181725167687>",
   "NO_TAG_FOUND": "{{author}} Wala ka pang `Tags`. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` para gumawa ng isa",
   "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",

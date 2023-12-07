@@ -20,8 +20,7 @@
   "SORT_SPEED": "Hıza Göre Sırala",
   "SORT_HP": "Cana Göre Sırala",
   "SORT_DUPE": "Yinelenen Kartlara Göre Sırala",
-  "ALL_UNTAG_SUCCESS": "{{taglength}} kartların etiketleri başarıyla kaldırıldı",
-  "ALL_TAG_SUCCESS": "{{author}} {{taglength}} kartlar başarıyla etiketlendi",
+
   "PLEASE_WAIT": "Lütfen Bekleyin <a:ping:876612181725167687>",
   "NO_TAG_FOUND": "Henüz herhangi bir `Tag`ınız yok. `{{prefix}}tc <TagName> <Emoji>` komutunu kullanarak `Tag` oluşturabilirsiniz",
   "USER_NOT_FOUND": "{{author}} Bu kullanıcı bulunamadı"

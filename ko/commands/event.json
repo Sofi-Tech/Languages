@@ -1,8 +1,6 @@
 {
   "EVENT_DESCRIPTION": "이벤트 정보에 관한 모든 내용을 보여주는 이벤트 명령어",
-  "EVENT_TASK": "{{amount}}장의 이벤트 카드 드롭하기",
-  "MORPH_TASK": "이벤트 카드를 {{amount}}번 변형하기",
-  "GLOW_TASK": "{{amount}}장의 카드에 글로우 효과 적용하기",
+
   "RAIDS_BUTTON_LABEL": "레이드 승리",
   "GS_MENU_DESC": "{{event}} 카드의 세대를 확인할 수 있는 유용한 아이템",
   "BG_MODAL_TITLE": "SOFI: EVENT",
@@ -10,10 +8,7 @@
   "BUY_BG_INFO": "- <:silvercoin:915619222229512213> 5000 실버로 이벤트 배경 중 하나를 구매하세요",
   "GET_FRAME_INFO": "- 200 <:gemgame:862598030562033694>로 랜덤 이벤트 프레임을 획득하세요",
   "EV_CATEGORY": "카드",
-  "DROP_TASK": "{{amount}} 번 드롭하기",
-  "BURN_TASK": "{{amount}}장의 카드 소각하기",
-  "3D_TASK": "{{amount}}장의 카드를 {{event}} 3D로 변환하기",
-  "VOTE_TASK": "이벤트 동안 {{amount}}번 투표하기",
+
   "GIFT_TASK": "{{amount}}개의 {{item}}을(를) 선물하기",
   "EVENT_STARTING": "이벤트 시작일: {{date}}",
   "HOME_BUTTON_LABEL": "집",

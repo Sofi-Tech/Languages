@@ -46,18 +46,14 @@
   "ITEM_PURCHASE_SUCCESSFUL": "Félicitations! {{amount}} {{item}} ont été ajouté(es) à votre inventaire",
   "ITEM_MODAL_TITLE": "SOFI: {{item}}",
   "AMOUNT_BETWEEN": "Le montant doit être compris entre 1 et 100",
-  "3D_TASK": "Convertir {{amount}} Cartes en {{event}} 3D",
+
   "EV_CATEGORY": "Cartes",
-  "DROP_TASK": "Drop {{amount}} Fois",
-  "EVENT_TASK": "Drop {{amount}} Cartes Event",
-  "BURN_TASK": "Burn {{amount}} Cartes",
-  "VOTE_TASK": "Voter {{amount}} fois durant l'event",
-  "MORPH_TASK": "Morph des cartes d'event {{amount}} fois",
+
   "EVENT_STARTING": "L'event commence {{date}}",
   "EVENT_DESCRIPTION": "La commande d'event affiche tout à propos des infos de l'event",
   "GIFT_TASK": "Offrir {{amount}} {{item}}",
   "EV_NOT_ENOUGH_GEMS": "Vous avez besoin de {{amount}} gems pour effectuer cet achat",
-  "GLOW_TASK": "Glow {{amount}} carte(s)",
+
   "HOME_BUTTON_LABEL": "Accueil",
   "GIFT_BUTTON_LABEL": "Cadeau",
   "BUY_BG_INFO": "- ACHETEZ l'un des background de l'événement pour <:silvercoin:915619222229512213> 5000 silvers'",
