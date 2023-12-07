@@ -40,7 +40,6 @@
     "FILTER_NO_CARDS_FOUND": "{{author}} Es konnten keine passenden Karten zu deinen verwendeten Filtern gefunden werden",
     "FILTER_DELETE": "Lösche einen Filter",
     "FILTER_DELETE_SUCCESS": "{{author}} Der Filter `{{filterName}}` wurde erfolgreich gelöscht",
-    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend **Silver** um einen Filter für diese Sammlung zu verwenden",
     "FILTER_LIMIT": "{{author}} Du kannst keine weiteren Filter erstellen",
     "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} Dir wurden **100** <:xsilvercoin:915619222229512213> für das verwenden eines Filters in der Sammlung eines anderen berechnet",
     "FILTER_SUCCESS": "{{author}} Dieser Filter wurde erfolgreich als `{{filterName}}` gespeichert",

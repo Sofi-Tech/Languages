@@ -35,7 +35,6 @@
     "MASSTAG_WRONG_TAG": "{{author}} Tidak dapat menemukan tag dengan nama `{{arg}}`",
     "NO_RESULTS_OTHERS": "{{author}} Pengguna tersebut tidak memiliki kartu apa pun dalam koleksinya",
     "EMBED_FOOTER": "Halaman: {{page}}/{{totalPages}} | Total kartu: {{count}} {{sortedBy}}",
-    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup **Silver** untuk menambahkan filter ke koleksi ini",
     "APPLY_FILTER_TO_OTHER": "100 - {{filterName}}",
     "FILTER_UPDATE_SUCCESS": "{{author}} Berhasil memperbarui filter `{{filterName}}`",
     "FILTER_NAME_PROFANE": "{{author}} Nama filter anda tidak boleh mengandung kata-kata kotor",

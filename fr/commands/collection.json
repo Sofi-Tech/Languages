@@ -45,7 +45,6 @@
     "FILTER_SUCCESS": "{{author}} Le filtre a été enregistré avec succès sous le nom `{{filterName}}`",
     "FILTER_UPDATE_SUCCESS": "{{author}} Mise à jour réussie du filtre `{{filterName}}`",
     "FILTER_NOT_FOUND": "{{author}} Impossible de trouver un filtre nommé `{{arg}}`",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de **Silver** pour appliquer un filtre à cette collection",
     "FILTER_LIMIT": "{{author}} Vous ne pouvez pas créer davantage de filtres",
     "EXPLAIN_FILTER": "{{author}} Voici un diagramme pour vous aider à comprendre comment fonctionne ce filtre",
     "SAVE_FILTER": "Sélectionnez un Filtre",
