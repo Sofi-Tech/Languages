@@ -1,10 +1,10 @@
 {
-  "EXTRA_GRAB": "{{user}} Il tuo `Grab` extra è in uso. Hai **{{remaining}}** rimanenti",
-  "EMBED_TITLE": "SOFI: CAPTCHADROP",
-  "EMBED_FOOTER": "Reclamo la carta sopra scrivendo il captcha",
-  "WAIT_TO_CLAIM": "{{user}} Devi attendere **{{cooldown}}** per reclamo un'altra carta",
-  "TOOK_THE_CARD": "{{user}} ha preso la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "CANNOT_BE_GRABBED": "{{user}} ha reclamata la carta **{{characterName}}**",
-  "BATTLED_WON_PLURAL": "{{winner}} ha combattuto contro **{{userCount}}** altri giocatori e ha rivendicato la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "BATTLED_AND_WON": "{{winner}} ha combattuto contro {{user}} e ha rivendicato la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
+    "EXTRA_GRAB": "{{user}} Il tuo **Grab** extra è in uso. Hai **{{remaining}}** rimanenti",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "Reclamo la carta sopra scrivendo il captcha",
+    "WAIT_TO_CLAIM": "{{user}} Devi aspettare **{{cooldown}}** per prendere un'altra carta",
+    "TOOK_THE_CARD": "{{user}} **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} ha **afferrato** la carta **{{characterName}}**",
+    "BATTLED_WON_PLURAL": "{{winner}} ha sconfitto **{{userCount}}** altri giocatori e **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_AND_WON": "{{winner}} ha sconfitto {{user}} e **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

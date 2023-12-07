@@ -1,12 +1,12 @@
 {
-    "EXTRA_GRAB": "{{user}} Il tuo `Grab` extra è in uso. Hai **{{remaining}}** rimanenti",
-    "GRAB_CARD_PLURAL": "{{winner}} hai combattuto altri **{{userCount}}** giocatori e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}",
-    "GRAB_COOLDOWN": "{{user}} Devi attendere **{{cooldown}}** per richiedere un'altra carta",
-    "EVENT_GRAB": "{{user}} ha ricevuto {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
-    "SNATCHED_EVENT_ITEM": "{{winner}} ha rubato **{{amount}}** `{{eventItem}}` da <@{{userId}}>",
-    "GRAB_EVENT_ITEM": "{{winner}} ha combattuto contro **{{userCount}}** altri utenti e ha ricevuto **{{amount}}** `{{eventItem}}`",
-    "CANNOT_BE_GRABBED": "{{user}} Le carte seguenti non possono più essere **grabbed**",
+    "EXTRA_GRAB": "{{user}} Il tuo **Grab** extra è in uso. Hai **{{remaining}}** rimanenti",
+    "GRAB_CARD_PLURAL": "{{winner}} ha sconfitto **{{userCount}}** altri giocatori e **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_COOLDOWN": "{{user}} Devi aspettare **{{cooldown}}** per prendere un'altra carta",
+    "EVENT_GRAB": "{{user}} ha ricevuto {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
+    "SNATCHED_EVENT_ITEM": "{{winner}} ha rubato **{{amount}}** **{{eventItem}}** da <@{{userId}}>",
+    "GRAB_EVENT_ITEM": "{{winner}} ha combattuto contro **{{userCount}}** altri utenti e ha ricevuto **{{amount}}** **{{eventItem}}**",
+    "CANNOT_BE_GRABBED": "{{user}} Le carte sottostanti non possono più essere **afferrate**",
     "CARDS_DROPPED_BY": "{{user}} hai **droppato** le carte",
-    "TOOK_CARD": "{{user}} ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_CARD": "{{winner}} ha battuto {{user}} e ha preso la carta di **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+    "TOOK_CARD": "{{user}} **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD": "{{winner}} ha sconfitto {{user}} e **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }

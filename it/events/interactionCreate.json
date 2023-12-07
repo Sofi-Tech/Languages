@@ -9,7 +9,7 @@
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Attendi **{{cooldown}}** prima di usare di nuovo questo comando",
     "REQUIRE_PERMISSIONS": "{{author}} Hai bisogno di: **{{permissions}}** permessi per eseguire questo comando",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendi **{{cooldown}}** prima di usare di nuovo questo comando",
-    "REGISTER_TO_PLAY": "{{author}} Utilizza il comando `{{prefix}}register` per intraprendere il tuo viaggio con **Sofi**!",
+    "REGISTER_TO_PLAY": "{{author}} Usa il comando `{{prefix}}register` per iniziare il tuo viaggio **Sofi**!",
     "COMPLETE_COMMAND": "{{author}} Completa prima il comando `{{command}}`!",
     "APPEAL_DENIED": "Dopo aver esaminato il tuo caso, siamo giunti alla conclusione di respingere il tuo ricorso. Il tuo stato nella lista nera non verrà annullato e tutti i nuovi ricorsi da qui in avanti verranno respinti.\n\n- Sofi Management",
     "VERIFY_BUTTON_LABEL": "Verificare",

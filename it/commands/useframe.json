@@ -1,15 +1,15 @@
 {
-  "USEFRAME_DESCRIPTION": "Applica un \"Frame\" alla tua carta",
-  "UF_CATEGORY": "Cosmetici",
-  "UF_INVALID_USAGE": "{{author}} Uso corretto: `{{prefix}}uf <CodiceDellaCarta> <NomeDellaFrame/CodiceDellaFrame>`",
-  "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
-  "CANNOT_APPLY": "{{author}} Non puoi applicare un `Frame` a una carta `3D`",
-  "NO_GIF": "{{author}} Non puoi applicare un `Frame` a una carta `GIF`",
-  "NO_FRAMES_FOUND": "{{author}} Quel codice `Frame` non è valido o non è nel tuo Inventory",
-  "EMBED_TITLE": "SOFI: USEFRAME",
-  "UF_CONFIRMATION": "Sei sicuro di voler applicare il **{{frameName}}** `Frame` a questa carta?",
-  "EMBED_FOOTER": "La conferma di questo processo distruggerà il \"Frame\" attualmente applicato",
-  "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
-  "FRAME_NOT_FOUND": "{{author}} Non hai il **{{frameName}}** `Frame`",
-  "UF_SUCCESSFUL": "{{author}} Hai applicato con successo il **{{frameName}}** `Frame` alla tua carta"
+    "USEFRAME_DESCRIPTION": "Applica un \"Frame\" alla tua carta",
+    "UF_CATEGORY": "Cosmetici",
+    "UF_INVALID_USAGE": "{{author}} Uso corretto: `{{prefix}}uf <CodiceDellaCarta> <NomeDellaFrame/CodiceDellaFrame>`",
+    "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
+    "CANNOT_APPLY": "{{author}} Non puoi applicare un **Frame** a una carta **3D**",
+    "NO_GIF": "{{author}} Non puoi applicare un **Frame** a una carta **GIF**",
+    "NO_FRAMES_FOUND": "{{author}} Quel codice **Frame** non è valido o non è nel tuo Inventory",
+    "EMBED_TITLE": "SOFI: APPLY FRAME",
+    "UF_CONFIRMATION": "Sei sicuro di voler applicare il **{{frameName}}** **Frame** a questa carta?",
+    "EMBED_FOOTER": "La conferma di questo processo distruggerà il Frame attualmente applicato",
+    "NO_OWNER": "{{author}} La carta non è più nella tua collezione",
+    "FRAME_NOT_FOUND": "{{author}} Non hai il **{{frameName}}** **Frame**",
+    "UF_SUCCESSFUL": "{{author}} Hai applicato con successo il **{{frameName}}** **Frame** alla tua carta"
 }

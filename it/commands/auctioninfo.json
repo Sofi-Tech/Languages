@@ -1,1 +1,18 @@
-{}
+{
+    "AUCTIONINFO_DESCRIPTION": "Visualizza le informazioni sull'Auction",
+    "AI_CATEGORY": "Carte",
+    "NO_ONGOING_AUCTION": "{{author}} Al momento non ci sono auctions attive",
+    "BID_SELECTION": "Usa il comando {{prefix}}ai <Auction-ID> o seleziona un'auction attiva dal menu sottostante",
+    "AI_ENDS": "Finisce",
+    "SELECT_AUCTION_PLACEHOLDER": "Seleziona un'Auction",
+    "BID_MODAL_LABEL": "Importo dell'offerta",
+    "BID_MODAL_TITLE": "Offerta d'Auction",
+    "BID_MODAL_PLACEHOLDER": "Inserisci l'importo dell'offerta",
+    "POSITIVE_NUMBER": "{{author}} L'offerta deve essere un numero positivo",
+    "MINIMUM_AMOUNT": "{{author}} Devi fare un'offerta minima di **{{amount}}** {{currencyEmoji}} per questa Auction",
+    "NOT_ENOUGH_CURRENCY": "{{author}} Non hai abbastanza {{emoji}}",
+    "AUCTION_NOT_FOUND": "Impossibile trovare quell'Auction",
+    "INVALID_BID_AMOUNT": "{{author}} La tua offerta deve essere un numero!",
+    "BID_SUCCESSFUL": "{{author}} Hai fatto un'offerta di **{{amount}}** {{emoji}}",
+    "AI_CURRENT": "Offerta Attuale"
+}
