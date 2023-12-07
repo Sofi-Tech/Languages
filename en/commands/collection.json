@@ -36,9 +36,9 @@
     "PLEASE_WAIT": "Please Wait <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} You don't have any tag yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
     "SAVED_FILTER": "Select a Filter",
-    "CREATE_FILTER": "100 - Save this Filter",
-    "APPLY_FILTER_TO_OTHER": "100 - {{filterName}}",
-    "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} You have been charged **100** <:xsilvercoin:915619222229512213> for applying a filter to somebody elses collection",
+    "CREATE_FILTER": "500 - Save this Filter",
+    "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
+    "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} You have been charged **500** <:xsilvercoin:915619222229512213> for applying a filter to somebody elses collection",
     "FILTER_NAME": "Filter Name",
     "FILTER_NAME_PLACEHOLDER": "Enter a name for your filter",
     "FILTER_NAME_TOO_LONG": "{{author}} The name of your filter can only be **20** characters long",
@@ -49,9 +49,8 @@
     "FILTER_DELETE": "Delete a Filter",
     "FILTER_NOT_FOUND": "{{author}} Could not find any filter with the name `{{arg}}`",
     "FILTER_DELETE_SUCCESS": "{{author}} Successfully deleted the filter `{{filterName}}`",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough **Silver** to apply a filter to this collection",
     "FILTER_LIMIT": "{{author}} You cannot create any more filters",
-    "EXPLAIN_FILTER": "{{author}} Here is a flow chart to help you understand how this filter work",
+    "EXPLAIN_FILTER": "{{author}} Here is a flow chart to help you understand how this filter works",
     "SAVE_FILTER": "Select a Filter",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} You don't have enough **Silver** to save this filter"
 }
