@@ -1,12 +1,12 @@
 {
-  "BUY_DESCRIPTION": "「Sofiショップ」から「アイテム」を買う",
-  "SLASH_DESC": "購入したいアイテム名を入力してください",
-  "SLASH_DESC2": "数量を入力してください",
-  "SLASH_DESC3": "購入する `バックグラウンド`のコードを入力してください。 [アイテムが背景として選択されている場合にのみ機能します]",
-  "NO_ITEM": "{{author}} 正しい使い方: `{{prefix}}buy <アイテム名前> <総額>`",
-  "TRADEPASS_INFO": "`Bump`を取得するため下記のウェブサイトをご覧になって、`Trade Pass`及びいくつのアイテムに変換できます",
-  "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}buy bg <背景ID> <総額>`",
-  "INVALID_BG_AMOUNT": "{{author}}マイナス総額が買えません",
-  "INVALID_BG_ID": "{{author}}入力された`背景`IDが無効です",
-  "INVALID_ITEM_PROVIDED": "{{user}} 入力されたアイテムは無効です"
+    "BUY_DESCRIPTION": "「Sofiショップ」から「アイテム」を購入する",
+    "SLASH_DESC": "購入したいアイテム名を入力してください",
+    "SLASH_DESC2": "数量を入力してください",
+    "SLASH_DESC3": "購入する背景コードを入力してください。 [背景として選択されているアイテムのみ機能します]",
+    "NO_ITEM": "{{author}} 正しい使い方: `{{prefix}}buy <アイテム名> <数量>`",
+    "TRADEPASS_INFO": "「**Bump**」を取得するため下記のウェブサイトを見ると「**Trade Pass**」及びいくつのアイテムに変換できます",
+    "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}buy bg <背景ID> <数量>`",
+    "INVALID_BG_AMOUNT": "{{author}}マイナスの数量が購入できません",
+    "INVALID_BG_ID": "{{author}}入力された**背景**IDが無効です",
+    "INVALID_ITEM_PROVIDED": "{{user}} 入力されたアイテムは無効です"
 }
