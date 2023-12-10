@@ -15,5 +15,6 @@
     "PROCESS_CANCELLED": "El proceso ha sido cancelado",
     "FC_RESET": "Restablecer",
     "FC_NONE": "Nada",
-    "GLOW_NOT_PALLETE": "{{author}} El **Glow** que has proporcionado ya no se encuentra en tu inventario"
+    "GLOW_NOT_PALLETE": "{{author}} El **Glow** que has proporcionado ya no se encuentra en tu inventario",
+    "EMBED_FOOTER": "Glow: {{availability}}"
 }
