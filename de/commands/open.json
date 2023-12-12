@@ -2,7 +2,7 @@
     "OPEN_DESCRIPTION": "Öffnet Truhen und Lootboxen",
     "SLASH_DESC_1": "Gib an, welches Item du öffnen möchtest",
     "SLASH_DESC_2": "Gib die Menge an",
-    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Amount>`",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Menge>`",
     "EMPTY_INV": "{{author}} Dein Inventar ist leer",
     "CHARM_MISSING": "{{author}} Du besitzt keine **Charms**",
     "SOFI_CARDS_MISSING": "{{author}} Es gibt derzeit nicht genügend Karten in Sofi's Collection",

@@ -1,11 +1,11 @@
 {
-  "TAGCREATE_DESCRIPTION": "Membuat sebuah \"tag\"",
-  "TC_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} Emoji tersebut tidak valid",
-  "INVALID_TAGNAME_FORMAT": "{{author}} Nama `Tag` harus alfanumerik, tidak boleh mengandung karakter khusus atau spasi atau kata yang terlarang!",
-  "LONG_TAGNAME": "{{author}} Nama `Tag` Anda hanya boleh terdiri dari **20** karakter",
-  "TAGNAME_EXISTS": "{{author}} Anda sudah memiliki `Tag` dengan nama `{{tag}}`",
-  "TAG_CREATED": "{{author}} Berhasil membuat `Tag` dengan nama: `{{tag}}` | {{emoji}}",
-  "TC_MAX_TAGS": "Anda telah mencapai jumlah maksimum tag yang dapat anda buat. Hapus beberapa tag untuk membuat lebih banyak tag."
+    "TAGCREATE_DESCRIPTION": "Membuat sebuah \"tag\"",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Emoji tersebut tidak valid",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Nama tag anda harus berupa alfanumerik dan tidak boleh mengandung karakter khusus, spasi, atau kata-kata kotor dalam bentuk apa pun",
+    "LONG_TAGNAME": "{{author}} Nama tag anda hanya boleh terdiri dari **20** karakter",
+    "TAGNAME_EXISTS": "{{author}} Anda telah memiliki tag dengan nama `{{tag}}}`",
+    "TAG_CREATED": "{{author}} Berhasil membuat tag dengan nama `{{tag}}}` | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Anda telah mencapai jumlah maksimum tag yang dapat anda buat"
 }

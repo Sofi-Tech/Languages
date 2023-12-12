@@ -1,7 +1,7 @@
 {
-  "TRANSFERTAG_DESCRIPTION": "Mentransfer kartu dari satu \"Tag\" ke lainnya",
-  "TRTAG_CATEGORY": "Tag",
-  "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}trt <dariTagLama> <keTagBaru>`",
-  "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki `Tag` dengan nama: `{{tag}}`",
-  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Berhasil mentransfer semua kartu dari `Tag` `{{fromTag}}` ke `{{toTag}}`"
+    "TRANSFERTAG_DESCRIPTION": "Mentransfer kartu dari satu \"Tag\" ke lainnya",
+    "TRTAG_CATEGORY": "Tag",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}trt <dariTagLama> <keTagBaru>`",
+    "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki tag dengan nama `{{tag}}}`",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Berhasil mentransfer semua kartu dari tag `{{fromTag}}}` ke `{{toTag}}}`"
 }
