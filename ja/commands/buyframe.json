@@ -1,14 +1,14 @@
 {
-  "BUYFRAME_DESCRIPTION": "フレームショップからフレームを購入する",
-  "BF_CATEGORY": "コスメティック",
-  "NO_FRAME_NAME": "{{author}} 買いたいフレーム名前を入力してください",
-  "NO_FRAMECODE_FOUND": "{{author}} `{{name}}` 名前のフレームが見つかりません",
-  "FRAME_UNAVAILABLE": "{{author}} そのフレームは現在買えません。`{{prefix}}fs` コマンドを使用して購入可能なフレームを確認してください",
-  "FRAME_NOT_PURCHASABLE": "{{author}} はそのフレームを購入することはできません",
-  "EMBED_TITLE": "SOFI: BUYFRAME",
-  "YOU_GET": "あなたが手に入れるもの：",
-  "YOU_PAY": "支払うもの：",
-  "NO_ENOUGH_AMOUNT": "{{author}} 買えられる`{{currency}}`が足りません",
-  "PROCESS_CANCELLED": "プロセスは停止しました",
-  "TRANSACTION_SUCCESSFUL": "{{author}} **{{frameName}}** `Frame`が成功で買いました"
+    "BUYFRAME_DESCRIPTION": "「フレームショップ」から「フレーム」を購入する",
+    "BF_CATEGORY": "コスメティック",
+    "NO_FRAME_NAME": "{{author}} 買いたい**フレームコード**を入力してください",
+    "NO_FRAMECODE_FOUND": "{{author}} `{{name}}` の**フレームコード**が無効です",
+    "FRAME_UNAVAILABLE": "{{author}} その**フレーム**は現在買えません。`{{prefix}}fs` コマンドで購入可能な**フレーム**を確認してください",
+    "FRAME_NOT_PURCHASABLE": "{{author}} その**フレーム**が限定で購入できません",
+    "EMBED_TITLE": "SOFI：トランザクション",
+    "YOU_GET": "手に入れるフレーム：",
+    "YOU_PAY": "支払い総額：",
+    "NO_ENOUGH_AMOUNT": "{{author}} 買えられる「**{{currency}}**」が足りません",
+    "PROCESS_CANCELLED": "購入がキャンセルされました",
+    "TRANSACTION_SUCCESSFUL": "{{author}} **{{frameName}}** という**フレーム**が成功で購入しました"
 }

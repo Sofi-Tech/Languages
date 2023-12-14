@@ -1,5 +1,5 @@
 {
-    "DROP_DESCRIPTION": "Generiert einen \"Drop\" an Karten\nVerwende den Befehl \"{{prefix}}dn\" um einen \"Drop\" ohne Bilder zu generieren",
+    "DROP_DESCRIPTION": "Generiert einen \"Drop\" an Karten",
     "EXTRA_DROP_ALERT": "{{author}} Dein extra **Drop** wird verwendet. Du hast noch **{{remaining}}** übrig",
     "ON_CD": "{{author}} Dein **Drop** ist in **{{dropCd}}** wieder verfügbar",
     "VOTE": "Vote",
