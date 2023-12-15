@@ -1,14 +1,20 @@
 {
     "REGISTER_DESCRIPTION": "Verifies your account",
     "REGISTER_CATEGORY": "Settings",
+    "AUTHOR_NOT_REGISTERED": "{{author}}, You are not registered",
+    "AUTHOR_QUARANTINE": "{{author}}, You are quarentined",
+    "AUTHOR_NOT_VERIFIED": "{{author}}, You are not verified",
     "ALREADY_REGISTERED": "{{author}} You are already registered",
+    "USER_ALREADY_REGISTERED": "{{author}}, This user is already registered",
+    "REGISTER_MESSAGE":"<:sofiwave:1008533250408456282> {{user}}, You were invited to register in Sofi. Take part in event and collect cards",
+    "REFERRAL_FOOTER":"Your friend {{author}} earns rewards",
     "AGREE_BUTTON_LABEL": "Agree!",
     "DISAGREE_BUTTON_LABEL": "Disagree!",
     "AGREE_TOS": "By agreeing to these rules, you accept Sofi's [Terms of Service](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)",
-    "VISIT_SUPPORT": "Visit our [Support Server](https://discord.gg/XPsQKJjeD7 \"Sofi Cafe\") for more information",
-    "EMBED_AUTHOR": "SOFI: REGISTER",
+        "EMBED_AUTHOR": "SOFI: REGISTER",
     "EMBED_FOOTER": "{{count}} users have been verified so far",
     "VERIFY_BUTTON_LABEL": "Verify",
     "SUPPORT_BUTTON_LABEL": "Support Server",
+    "VERIFY_MESSAGE": "You are almost there. One more step.\nVerify using the button below to play Sofi\nJoin <https://discord.gg/sofi> for any queries",
     "DM_MESSAGE": "## Welcome to the Sofi Community!\n\nBelow you will find a few links to help you along your Sofi journey!\n\n- [Official Sofi Support Server](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Sofi's Online Guide](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Vote Daily to receive **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"
 }

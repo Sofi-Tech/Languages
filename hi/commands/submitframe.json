@@ -2,7 +2,7 @@
     "SUBMITFRAME_DESCRIPTION": "Frame जमा करता है",
     "SF_CATEGORY": "SETTINGS",
     "SF_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}sf <ImageURL> <FrameName>`",
-    "MAXIMUM_NAME_LENGTH": "{{author}} **Frame** का नाम अधिक से अधिक सिर्फ **20** ही वर्ण का हो सकता है।",
+    "MAXIMUM_NAME_LENGTH": "{{author}} **Frame** का नाम अधिक से अधिक सिर्फ **25** ही वर्ण का हो सकता है।",
     "SF_DISCORD_LINK": "{{author}} जमा किया गया चित्र डिस्कॉर्ड का लिंक होना अनिवार्य है । जैसे - `cdn.discordapp.com` या `media.discordapp.net`",
     "SF_VALID_DIMENSION": "{{author}} भेजे हुए चित्र का परिमाण अमान्य है! `297x465`",
     "SF_FILETYPE_INFO": "<:_:979009081325019156> जमा किया गया चित्र PNG के रूप में होना **अनिवार्य** है।",

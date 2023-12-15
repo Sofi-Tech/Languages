@@ -1,7 +1,7 @@
 {
     "SUBMIT_FRAME_DENY": "{{author}} Du hast nicht genügend **Silver** für diesen Prozess",
     "SUBMIT_FRAME_CONFIRMATION": "Möchtest du diesen **Frame** für **3000** **Silver** einreichen?",
-    "MAXIMUM_NAME_LENGTH": "{{author}} Der Name deines **Frame** darf nur **20** Zeichen lang sein",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Der Name deines **Frame** darf nur **25** Zeichen lang sein",
     "SF_VALID_DIMENSION": "{{author}} Das eingereichte Bild hat ungültige Abmessungen! `297x465`",
     "SUBMITFRAME_DESCRIPTION": "Reiche einen \"Frame\" ein",
     "SF_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}sf <ImageURL> <FrameName>`",
