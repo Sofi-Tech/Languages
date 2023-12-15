@@ -1,8 +1,8 @@
 {
-  "VIEWFRAGS_DESCRIPTION": "Daftar \"Fragments\" yang tersedia dari pengguna",
-  "COLLECTION_PVT": "{{author}} `Fragments` pengguna tersebut bersifat pribadi",
-  "CANNOT_FIND_FRAGS": "{{user}} Pengguna tersebut tidak memiliki `Fragmen`",
-  "FRAGS_COUNT": "Total: {{totalCount}}",
-  "FRAG_LIST": "SOFI: `Fragments` ({{userName}})",
-  "CANNOT_FIND_SELF": "{{user}} Anda belum memiliki `Fragmen`"
+    "VIEWFRAGS_DESCRIPTION": "Daftar \"Fragments\" yang tersedia dari pengguna",
+    "COLLECTION_PVT": "{{author}} **Fragments** pengguna tersebut bersifat pribadi",
+    "CANNOT_FIND_FRAGS": "{{user}} Pengguna tersebut tidak memiliki **Fragments**",
+    "FRAGS_COUNT": "Total: {{totalCount}}",
+    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
+    "CANNOT_FIND_SELF": "{{user}} Anda belum memiliki **Fragments**"
 }
