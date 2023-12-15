@@ -7,7 +7,14 @@
     "VERIFY_BUTTON_LABEL": "Проверка",
     "EMBED_FOOTER": "{{count}} пользователей было проверено",
     "SUPPORT_BUTTON_LABEL": "Сервер поддержки",
-        "EMBED_AUTHOR": "SOFI: REGISTER",
-    "AGREE_TOS": "Соглашаясь с приведенным выше набором правил, вы принимаете [Условия использования Sofi](https://sofi.gg/terms \"Terms of Service\") и [Политику конфиденциальности Sofi](https://sofi.gg/privacy)",
-    "DM_MESSAGE": "## Добро пожаловать в сообщество Sofi!\n\nНиже вы найдете ссылки, которые помогут вам в путешествии по Sofi!\n\n- [Официальный Сервер поддержки Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Онлайн-руководство по Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Голосуйте каждый день, чтобы получать **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"
+    "EMBED_AUTHOR": "SOFI: REGISTER",
+    "AGREE_TOS": "Соглашаясь с приведенными правилами, вы принимаете [Условия использования Sofi](https://sofi.gg/terms \"Terms of Service\") и [Политику конфиденциальности Sofi](https://sofi.gg/privacy)",
+    "DM_MESSAGE": "## Добро пожаловать в сообщество Sofi!\n\nНиже вы найдете ссылки, которые помогут вам в путешествии по Sofi!\n\n- [Официальный Сервер поддержки Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Онлайн-руководство по Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Голосуйте каждый день, чтобы получать **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>",
+    "AUTHOR_NOT_REGISTERED": "{{author}} Вы не зарегистрированы",
+    "AUTHOR_QUARANTINE": "{{author}} Вы в карантине",
+    "AUTHOR_NOT_VERIFIED": "{{author}} Вы не подтверждены",
+    "USER_ALREADY_REGISTERED": "{{author}} Этот пользователь уже зарегистрирован",
+    "REGISTER_MESSAGE": "Приветствуем {{user}} <:sofiwave:1008533250408456282>! Вы были приглашены играть в Sofi.\nМы надеемся лицезреть вас, коллекционирующим карты и участвующим в наших событиях!",
+    "REFERRAL_FOOTER": "Вы и ваш друг получите награды после регистрации",
+    "VERIFY_MESSAGE": "Уже почти! Нажмите кнопку ниже, чтобы подтвердить себя на нашем веб-сайте.\nПрисоединяйтесь к нашему [Официальному серверу поддержки](<https://discord.gg/sofi>), если вы столкнулись с какими-то проблемами!"
 }
