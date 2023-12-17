@@ -3,7 +3,7 @@
     "GIFT_CATEGORY": "Cards",
     "GIFT_SLASH_DESC": "Choose a user you want to gift {{eventItem}} to",
     "GIFT_SLASH_DESC2": "Enter the amount of `{{eventItem}}` you want to gift them",
-    "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <@User/UserID> <Amount>`",
+    "GIFT_WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gift <cardcode>`",
     "INVALID_USER": "{{author}} You cannot gift **{{eventItem}}** to yourself",
     "INVALID_AMOUNT": "{{author}} You cannot gift a negative amount of items",
     "NOT_ENOUGH_ITEM": "{{author}} You do not have **{{amount}}** **{{eventItem}}**",

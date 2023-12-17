@@ -16,5 +16,6 @@
   "NAME": "Name:",
   "SERIES": "Series:",
   "BURN_REWARDS": "__Rewards__",
-  "SUCCESSFUL_CARD_BURN": "{{author}} Successfully burned your card"
+  "SUCCESSFUL_CARD_BURN": "{{author}} Successfully burned your card",
+  "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }

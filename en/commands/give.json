@@ -15,5 +15,6 @@
   "CARD_SELECTED": "{{author}} That card is used in a deck and cannot be transferred",
   "CARD_LOCKED": "{{author}} That card is locked and cannot be given away! Use the command `{{prefix}}ut <CardCode>` to unlock the card",
   "EMBED_TITLE": "SOFI: GIVE",
-  "CANCELLED": "The process has been cancelled"
+  "CANCELLED": "The process has been cancelled",
+  "CARD_IN_QUEST": "{{author}} That card is currently in a quest and cannot be given away"
 }
