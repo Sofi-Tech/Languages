@@ -1,6 +1,7 @@
 {
     "REGISTER_DESCRIPTION": "Verifies your account",
     "REGISTER_CATEGORY": "Settings",
+    "INVALID_USER": "{{author}}, The user id provided is invalid",
     "AUTHOR_NOT_REGISTERED": "{{author}} You are not registered",
     "AUTHOR_QUARANTINE": "{{author}} You are quarentined",
     "AUTHOR_NOT_VERIFIED": "{{author}} You are not verified",
@@ -10,7 +11,7 @@
     "REFERRAL_FOOTER": "Both you and your friend will obtain rewards after registering",
     "AGREE_BUTTON_LABEL": "Agree!",
     "DISAGREE_BUTTON_LABEL": "Disagree!",
-    "AGREE_TOS": "By agreeing to these rules, you accept Sofi's [Terms of Service](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)",
+    "AGREE_TOS": "By agreeing, you accept Sofi's [Terms of Service](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)",
     "EMBED_AUTHOR": "SOFI: REGISTER",
     "EMBED_FOOTER": "{{count}} users have been verified so far",
     "VERIFY_BUTTON_LABEL": "Verify",
