@@ -5,7 +5,7 @@
     "DISAGREE_BUTTON_LABEL": "Refuser!",
     "EMBED_AUTHOR": "SOFI: INSCRIPTION",
     "REGISTER_DESCRIPTION": "Vérifie votre compte",
-    "AGREE_TOS": "En acceptant les règles, vous acceptez les [Conditions d'Utilisation](https://sofi.gg/terms \"Conditions d'Utilisation\") et la [Politique de Confidentialité](https://sofi.gg/privacy) de Sofi.",
+    "AGREE_TOS": "En acceptant, vous acceptez les [Conditions d'Utilisation](https://sofi.gg/terms \"Conditions d'Utilisation\") et la [Politique de Confidentialité](https://sofi.gg/privacy) de Sofi",
     "EMBED_FOOTER": "{{count}} utilisateurs ont été vérifiés jusqu'à présent",
     "SUPPORT_BUTTON_LABEL": "Serveur De Support",
     "DM_MESSAGE": "## Bienvenue dans la communauté Sofi !\n\nVous trouverez ci-dessous quelques liens pour vous aider tout au long de votre voyage Sofi!\n\n- [Serveur de Support Officiel Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Guide en ligne de Sofi]\n(https://guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Votez quotidiennement pour recevoir des **Wists**](<https://top.gg/bot/853629533855809596/vote>)\n<a:wist_spin:973031140581580820>",
@@ -16,5 +16,6 @@
     "USER_ALREADY_REGISTERED": "{{author}} Cet utilisateur est déjà inscrit",
     "REGISTER_MESSAGE": "Salutations {{user}} <:sofiwave:1008533250408456282>! Vous avez été invité(e) à jouer à Sofi.\nNous espérons vous voir collecter des cartes et participer à nos events !\"",
     "VERIFY_MESSAGE": "Presque arrivé(e)! Cliquez sur le bouton ci-dessous pour vous faire vérifier sur notre site web.\nRejoignez notre [Serveur de Support Officiel](<https://discord.gg/sofi>) si vous rencontrez des problèmes!",
-    "REFERRAL_FOOTER": "Vous et votre ami(e) recevrez des récompenses après inscription"
+    "REFERRAL_FOOTER": "Vous et votre ami(e) recevrez des récompenses après inscription",
+    "INVALID_USER": "{{author}} L'ID d'Utilisateur que vous avez fournis est invalide"
 }

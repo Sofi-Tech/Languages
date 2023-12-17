@@ -16,5 +16,6 @@
     "USER_ALREADY_REGISTERED": "{{author}} Este usuario ya está registrado",
     "REGISTER_MESSAGE": "Saludos {{user}} <:sofiwave:1008533250408456282>! Has sido invitado a jugar Sofi.\nEsperamos verte por aquí coleccionando cartas y uniéndote a nuestros eventos!",
     "REFERRAL_FOOTER": "Tanto tú como tu amigo obtendréis recompensas tras registraros",
-    "VERIFY_MESSAGE": "¡Ya casi está! Haz clic en el botón de abajo para verificarte en nuestra página web.\nÚnete a nuestro [Servidor de Soporte Oficial](<https://discord.gg/sofi>) si ten encuentras con algún problema!"
+    "VERIFY_MESSAGE": "¡Ya casi está! Haz clic en el botón de abajo para verificarte en nuestra página web.\nÚnete a nuestro [Servidor de Soporte Oficial](<https://discord.gg/sofi>) si ten encuentras con algún problema!",
+    "INVALID_USER": "{{author}} El ID del usuario que has proporcionado no es válido"
 }

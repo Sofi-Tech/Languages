@@ -1,7 +1,7 @@
 {
     "REGISTER_DESCRIPTION": "Verifies your account",
     "REGISTER_CATEGORY": "Settings",
-    "INVALID_USER": "{{author}}, The user id provided is invalid",
+    "INVALID_USER": "{{author}} The User-ID you provided is invalid",
     "AUTHOR_NOT_REGISTERED": "{{author}} You are not registered",
     "AUTHOR_QUARANTINE": "{{author}} You are quarentined",
     "AUTHOR_NOT_VERIFIED": "{{author}} You are not verified",

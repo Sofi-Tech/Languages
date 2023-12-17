@@ -15,5 +15,6 @@
     "AUTHOR_BLACKLISTED": "{{author}} Вы занесены в черный список",
     "AUTHOR_NOT_VERIFIED": "{{author}} Вы не прошли проверку",
     "CARD_SELECTED": "{{author}} Данная карта используется в колоде и не может быть передана",
-    "EMBED_TITLE": "SOFI: GIVE"
+    "EMBED_TITLE": "SOFI: GIVE",
+    "CARD_IN_QUEST": "{{author}} Данная карта сейчас используется для выполнения задания и не может быть отдана"
 }
