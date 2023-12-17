@@ -15,5 +15,6 @@
   "SUCCESSFUL_FRAGMENT_BURN": "{{author}} `Fragment`は成功で燃やしました",
   "NAME": "名前：",
   "BURN_REWARDS": "__ご褒美__",
-  "BURN_CARD_LOCKED": "{{author}} そのカードは山札で使用しているため燃やせません"
+  "BURN_CARD_LOCKED": "{{author}} そのカードは山札で使用しているため燃やせません",
+  "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }

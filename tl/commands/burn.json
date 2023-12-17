@@ -15,5 +15,6 @@
   "SUCCESSFUL_CARD_BURN": "{{author}} Matagumpay na nasunog ang iyong kard",
   "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Matagumpay na nasunog ang iyong `Fragment`",
   "EMBED_TITLE": "SOFI: BURN",
-  "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Matagumpay na nasunog ang iyong `Guild Stone`"
+  "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Matagumpay na nasunog ang iyong `Guild Stone`",
+  "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }

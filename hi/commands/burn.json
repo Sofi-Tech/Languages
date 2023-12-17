@@ -16,5 +16,6 @@
   "NAME": "नाम:",
   "SUCCESSFUL_CARD_BURN": "{{author}} आपके पत्ते को सफलतापूर्वक जलाया गया।",
   "BURN_CARD_LOCKED": "{{author}} वह पत्ता अभी डेक में है और जलाया नहीं जा सकता।",
-  "GIF_CARD": "{{author}} आप एक **GIF** पत्ते को नही जला सकते है।"
+  "GIF_CARD": "{{author}} आप एक **GIF** पत्ते को नही जला सकते है।",
+  "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }

@@ -16,5 +16,6 @@
   "BURN_CARD_LOCKED": "{{author}} Kartu tersebut saat ini digunakan dalam dek dan tidak dapat dibakar",
   "NAME": "Nama:",
   "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Berhasil membakar **Guild Stone** anda",
-  "GIF_CARD": "{{author}} Anda tidak dapat membakar kartu **GIF**"
+  "GIF_CARD": "{{author}} Anda tidak dapat membakar kartu **GIF**",
+  "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }

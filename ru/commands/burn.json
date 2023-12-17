@@ -16,5 +16,6 @@
   "SUCCESSFUL_CARD_BURN": "{{author}} Ваша карта успешно сожжена",
   "BURN_CARD_LOCKED": "{{author}} Данная карта используется в колоде и не может быть сожжена",
   "EMBED_TITLE": "SOFI: BURN",
-  "GIF_CARD": "{{author}} Вы не можете сжечь **GIF** карту"
+  "GIF_CARD": "{{author}} Вы не можете сжечь **GIF** карту",
+  "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }

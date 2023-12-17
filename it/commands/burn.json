@@ -16,5 +16,6 @@
     "NAME": "Nome:",
     "BURN_REWARDS": "__Premi__",
     "SUCCESSFUL_CARD_BURN": "{{author}} hai bruciato con successo la tua carta",
-    "GIF_CARD": "{{author}} Non puoi bruciare una carta **GIF**"
+    "GIF_CARD": "{{author}} Non puoi bruciare una carta **GIF**",
+    "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
 }
