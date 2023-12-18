@@ -25,7 +25,7 @@
     "FRAME_MODAL_LABEL": "Bilang ng frames",
     "FRAME_MODAL_PLACEHOLDER": "Eg: 2 | Maaari kang bumili ng hanggang 20 na frames",
     "INVALID_AMOUNT_FRAMES": "Hindi wastong dami ng frames ang ibinigay",
-    "EV_NOT_ENOUGH_GEMS": "Kailangan mo ng {{amount}} na gems para maisagawa ang iyong bibilhin",
+    "EV_NOT_ENOUGH_CURRENCY": "Kailangan mo ng {{amount}} na {{currency}} para maisagawa ang iyong bibilhin",
     "BOUGHT_FRAMES": "__Ikaw Ay Merong:__\n{{desc}}",
     "NOT_ENOUGH_EV_ITEM": "Wala kang sapat na {{eventItem}}.",
     "ENTERED_LOTTERY": "Matagumpay na nakasali sa lottery",

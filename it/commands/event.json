@@ -34,7 +34,7 @@
     "FRAME_MODAL_PLACEHOLDER": "Eg: 2 | puoi acquistare un massimo di 20 frames",
     "FRAME_MODAL_TITLE": "SOFI: EVENT",
     "INVALID_AMOUNT_FRAMES": "Il numero di frames fornito è invalido",
-    "EV_NOT_ENOUGH_GEMS": "Necessiti di {{amount}} gems per fare questo acquisto",
+    "EV_NOT_ENOUGH_CURRENCY": "Necessiti di {{amount}} {{currency}} per fare questo acquisto",
     "BOUGHT_FRAMES": "__Hai Ottenuto:__\n{{desc}}",
     "EV_EMBED_TITLE": "SOFI: EVENT",
     "NOT_ENOUGH_EV_ITEM": "Non hai abbastanza {{eventItem}}.",

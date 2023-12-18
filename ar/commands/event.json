@@ -26,7 +26,7 @@
     "FRAME_MODAL_LABEL": "عدد الاطارات",
     "FRAME_MODAL_PLACEHOLDER": "مثال: 2 | تستطيع شراء 20 اطار كحد اقصى",
     "INVALID_AMOUNT_FRAMES": "عدد غير صالح من الاطارات",
-    "EV_NOT_ENOUGH_GEMS": "تحتاج {{amount}} gems لاتمام عملية الشراء",
+    "EV_NOT_ENOUGH_CURRENCY": "تحتاج {{amount}} {{currency}} لاتمام عملية الشراء",
     "NOT_ENOUGH_EV_ITEM": "ليس لديك ما يكفي من {{eventItem}}.",
     "ALREADY_IN_LOTTERY": "انت في السحب بالفعل",
     "GS_MODAL_LABEL": "عدد ال gen scratchers",

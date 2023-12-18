@@ -13,7 +13,7 @@
     "ITEM_PURCHASE_SUCCESSFUL": "Tebrikler! Envanterinize {{amount}} adet {{item}} eklendi",
     "BG_EMBED_TITLE": "SOFI: EVENT",
     "GET_FRAME_INFO": "- 200 Gem karşılığı rastgele bir etkinlik çerçevesi alın <:gemgame:862598030562033694>",
-    "EV_NOT_ENOUGH_GEMS": "Bu satın alma işlemini gerçekleştirmek için {{amount}} \"gems\" e ihtiyacınız var",
+    "EV_NOT_ENOUGH_CURRENCY": "Bu satın alma işlemini gerçekleştirmek için {{amount}} {{currency}} e ihtiyacınız var",
     "CHEST_MODAL_TITLE": "SOFI: EVENT",
     "GIFT_TASK": "{{amount}} {{item}} Hediye edin",
     "BG_BUTTON_LABEL": "Bg",

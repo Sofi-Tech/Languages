@@ -51,7 +51,7 @@
     "ITEM_MENU_DESC": "Item útil para roll morphs especiais durante o evento",
     "EV_NOT_ENOUGH_SILVERS": "Você precisa de {{amount}} silvers para fazer esta compra",
     "GET_FRAME_INFO": "- Obtenha um frame de evento aleatório por 200 <:gemgame:862598030562033694>",
-    "EV_NOT_ENOUGH_GEMS": "Você precisa de {{amount}} gems para fazer esta compra",
+    "EV_NOT_ENOUGH_CURRENCY": "Você precisa de {{amount}} {{currency}} para fazer esta compra",
     "INVALID_AMOUNT_PROVIDED": "Valor fornecido inválido",
     "CHEST_MODAL_LABEL": "Número de {{item}} baús",
     "CHEST_MODAL_PLACEHOLDER": "Ex.: 2"

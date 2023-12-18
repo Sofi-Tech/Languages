@@ -28,7 +28,7 @@
     "FRAME_MODAL_LABEL": "Aantal frames",
     "FRAME_MODAL_PLACEHOLDER": "Bv: 2 | Je kunt maximaal 20 frames kopen",
     "FRAME_MODAL_TITLE": "SOFI: EVENT",
-    "EV_NOT_ENOUGH_GEMS": "Je hebt {{amount}} gems nodig om deze aankoop te doen",
+    "EV_NOT_ENOUGH_CURRENCY": "Je hebt {{amount}} {{currency}} nodig om deze aankoop te doen",
     "BOUGHT_FRAMES": "__Je hebtt:__\n{{desc}}",
     "EV_EMBED_TITLE": "SOFI: EVENT",
     "NOT_ENOUGH_EV_ITEM": "Je hebt niet genoeg {{eventItem}}.",

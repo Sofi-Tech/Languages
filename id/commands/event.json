@@ -50,7 +50,7 @@
     "ITEM_MENU_DESC": "Item yang berguna untuk roll morph spesial selama event",
     "EV_NOT_ENOUGH_SILVERS": "Anda perlu {{amount}} silver untuk melakukan pembelian",
     "GET_FRAME_INFO": "- Dapatkan random event frame untuk 200 <:gemgame:862598030562033694>",
-    "EV_NOT_ENOUGH_GEMS": "Anda perlu {{amount}} gem untuk melakukan pembelian",
+    "EV_NOT_ENOUGH_CURRENCY": "Anda perlu {{amount}} {{currency}} untuk melakukan pembelian",
     "INVALID_AMOUNT_PROVIDED": "Jumlah yang diberikan tidak valid",
     "MISSING_EV_ITEM": "Anda kekurangan {{amount}} {{item}}",
     "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",

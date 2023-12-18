@@ -49,7 +49,7 @@
     "EVENT_STARTING": "L'event commence {{date}}",
     "EVENT_DESCRIPTION": "La commande d'event affiche tout à propos des infos de l'event",
     "GIFT_TASK": "Offrir {{amount}} {{item}}",
-    "EV_NOT_ENOUGH_GEMS": "Vous avez besoin de {{amount}} gems pour effectuer cet achat",
+    "EV_NOT_ENOUGH_CURRENCY": "Vous avez besoin de {{amount}} {{currency}} pour effectuer cet achat",
     "HOME_BUTTON_LABEL": "Accueil",
     "GIFT_BUTTON_LABEL": "Cadeau",
     "BUY_BG_INFO": "- ACHETEZ l'un des background de l'événement pour <:silvercoin:915619222229512213> 5000 silvers'",

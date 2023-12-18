@@ -19,7 +19,7 @@
     "BOUGHT_BACKGROUND": "बधाई हो! आपने {{amount}} {{bgName}} सफलतापूर्वक खरीद ली है",
     "BG_EMBED_TITLE": "SOFI: EVENT",
     "INVALID_AMOUNT_FRAMES": "अमान्य मात्रा प्रदान की गई",
-    "EV_NOT_ENOUGH_GEMS": "इस खरीदी के लिए {{amount}} gems जरुरी है",
+    "EV_NOT_ENOUGH_CURRENCY": "इस खरीदी के लिए {{amount}} {{currency}} जरुरी है",
     "BOUGHT_FRAMES": "__ आपको मिली है:__ \n{{desc}}",
     "ALREADY_IN_LOTTERY": "आप पहले से ही लॉटरी में है",
     "ENTERED_LOTTERY": "सफलतापुर्वक लॉटरी में भाग लिया गया",
