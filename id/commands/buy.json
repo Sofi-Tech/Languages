@@ -10,5 +10,6 @@
     "INVALID_BG_ID": "{{author}} Tidak dapat menemukan **Background** dengan ID tersebut",
     "INVALID_ITEM_PROVIDED": "{{user}} Item yang Anda berikan tidak valid",
     "BUY_CHARM_CONFIRMATION": "## Anda membeli {{amount}} <:xcharm:988729774031638528>",
-    "BUY_CHARMS_MULTIPLES": "{{author}} Anda hanya dapat membeli **Charms** dalam kelipatan 100"
+    "BUY_CHARMS_MULTIPLES": "{{author}} Anda hanya dapat membeli **Charms** dalam kelipatan 100",
+    "BUY_GEN_CONFIRMATION": "## Anda membeli {{count}} gen scratcher"
 }

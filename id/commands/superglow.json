@@ -1,14 +1,14 @@
 {
-  "SUPERGLOW_DESCRIPTION": "Gabungkan dua \"Glows\" untuk mendapatkan \"Super Glow\"",
-  "SG_CATEGORY": "Kosmetik",
-  "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar : `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-  "GLOW_NOT_FOUND": "{{author}} Setidaknya salah satu kode `Glow` yang anda berikan tidak valid atau tidak ada dalam inventaris anda",
-  "UNAVAILABLE_GLOW": "{{author}} Setidaknya salah satu kode `Glow` yang anda berikan kosong",
-  "NO_USE_SG": "{{author}} Anda tidak dapat menggunakan `Super Glow` untuk proses ini",
-  "SAME_GLOWS": "{{author}} Anda tidak dapat menggunakan `Glow` yang sama lebih dari satu kali",
-  "EMBED_TITLE": "SOFI: SUPERGLOW",
-  "FORM_SG_CONFIRM": "Apakah Anda yakin ingin menggabungkan item berikut ini:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** `Resin`\n\nke dalam **{{superGlowName}}** `Super Glow`?",
-  "MISSING_RESINS": "{{author}} Anda tidak memiliki cukup `Resin` untuk proses ini",
-  "SUPER_GLOW_SUCCESSFUL": "{{author}} Berhasil menyatukan `Glows` anda\n",
-  "FORM_SG_FOOTER": "Kedua \" Glows \" akan dihancurkan dalam prosesnya!"
+    "SUPERGLOW_DESCRIPTION": "Gabungkan dua \"Glows\" untuk mendapatkan \"Super Glow\"",
+    "SG_CATEGORY": "Kosmetik",
+    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar : `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} Setidaknya salah satu kode **Glow** yang anda berikan tidak valid atau tidak ada dalam inventaris anda",
+    "UNAVAILABLE_GLOW": "{{author}} Setidaknya salah satu kode **Glow** yang anda berikan kosong",
+    "NO_USE_SG": "{{author}} Anda tidak dapat menggunakan **Super Glow** untuk proses ini",
+    "SAME_GLOWS": "{{author}} Anda tidak dapat menggunakan **Glow** yang sama lebih dari satu kali",
+    "EMBED_TITLE": "SOFI: SUPERGLOW",
+    "FORM_SG_CONFIRM": "Apakah Anda yakin ingin menggabungkan item berikut ini:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** **Resin**\n\nke dalam **{{superGlowName}}** **Super Glow**?",
+    "MISSING_RESINS": "{{author}} Anda tidak memiliki cukup **Resin** untuk proses ini",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Berhasil menggabungkan **Glows** kamu\n",
+    "FORM_SG_FOOTER": "Kedua glow akan dihancurkan dalam prosesnya!"
 }

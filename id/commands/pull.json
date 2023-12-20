@@ -1,14 +1,14 @@
 {
-  "PULL_DESCRIPTION": "\"Pull\" dari kumpulan berbagai \"Item\" termasuk \"Charm\" dan \"Fragmen\" untuk kartu animasi",
-  "PULL_AMT": "{{author}} Penggunaan yang benar: `{{prefix}}pull <1/10>`",
-  "INFO_1": "Anda membutuhkan 8 `Fragmen` untuk membuat varian `GIF` dari sebuah karakter",
-  "INFO_2": "Ada maksimum **100** varian `GIF` per karakter",
-  "INFO_3": "Bakar `Fragments` untuk mendapatkan `Charms`",
-  "PULLS": "SOFI: PULLS",
-  "PULL_COUNT": "Jumlah Pull: [ {{count}} ]",
-  "MISSING_CURR": "{{user}} Anda tidak memiliki cukup `{{currName}}` untuk proses ini",
-  "AMOUNT": "Anda menerima: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
-  "PULL_COUNT_WIST": "Jumlah pull: [ {{pullcount}} ]",
-  "RATES": "Rate",
-  "PULL_CHANCES": "**__Peluang__**"
+    "PULL_DESCRIPTION": "\"Pull\" dari kumpulan berbagai \"Item\" termasuk \"Charm\" dan \"Fragmen\" untuk kartu animasi",
+    "PULL_AMT": "{{author}} Penggunaan yang benar: `{{prefix}}pull <1/10>`",
+    "INFO_1": "Anda membutuhkan 8 **Fragments** untuk membuat varian **GIF** dari sebuah karakter",
+    "INFO_2": "Ada maksimal **100** **GIF** varian per karakter",
+    "INFO_3": "Bakar **Fragments** untuk mendapatkan **Charms**",
+    "PULLS": "SOFI: PULLS",
+    "PULL_COUNT": "Jumlah Pull: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} Anda tidak memiliki cukup **{{currName}}** untuk proses ini",
+    "AMOUNT": "Anda menerima: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "PULL_COUNT_WIST": "Jumlah pull: [ {{pullcount}} ]",
+    "RATES": "Rate",
+    "PULL_CHANCES": "**__Peluang__**"
 }

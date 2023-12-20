@@ -1,7 +1,7 @@
 {
-  "RM_CATEGORY": "Pengaturan",
-  "PROVIDE_REMINDER_NAME": "{{author}} Penggunaan yang benar: `{{prefix}}tr <Vote/Daily/Bump>`",
-  "REMINDER_DISABLED": "{{author}} Anda tidak akan lagi diberi tahu ketika **`{{reminder}}`** anda sudah siap",
-  "REMINDER_ENABLED": "{{author}} Anda sekarang akan diberi tahu ketika **`{{reminder}}`** anda sudah siap",
-  "TOGGLEREMINDER_DESCRIPTION": "Mengaktifkan pengingat Anda"
+    "RM_CATEGORY": "Pengaturan",
+    "PROVIDE_REMINDER_NAME": "{{author}} Penggunaan yang benar: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_DISABLED": "{{author}} Anda tidak akan lagi diberi tahu ketika **{{reminder}}** anda sudah siap",
+    "REMINDER_ENABLED": "{{author}} Anda sekarang akan diberi tahu ketika **{{reminder}}** anda sudah siap",
+    "TOGGLEREMINDER_DESCRIPTION": "Mengaktifkan pengingat Anda"
 }

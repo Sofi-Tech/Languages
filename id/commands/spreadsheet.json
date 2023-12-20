@@ -1,9 +1,9 @@
 {
-  "SHEET_CATEGORY": "Pengaturan",
-  "NO_GUILD_INFO": "{{author}} Anda saat ini tidak berada di dalam guild",
-  "CANNOT_DM": "{{author}} Tidak dapat mengirimi anda file spreadsheet. Pastikan bahwa dm anda terbuka!",
-  "NO_COLLECTION": "{{author}} Anda tidak memiliki kartu dalam koleksi anda",
-  "SPREADSHEET_DESCRIPTION": "Buat file \".csv\" koleksi Anda",
-  "NO_VAULT_LOGS": "{{author}} Saat ini tidak ada log brankas",
-  "DM_FILE": "{{author}} File .csv telah dikirimkan kepada anda melalui pesan langsung\n\n> **Catatan**: Saat mengimpor file ke program excel atau spreadsheet, pastikan untuk menyetel pemisah ke \"koma\"!"
+    "SHEET_CATEGORY": "Pengaturan",
+    "NO_GUILD_INFO": "{{author}} Anda saat ini tidak berada di dalam **Guild**",
+    "CANNOT_DM": "{{author}} Tidak dapat mengirimi anda file spreadsheet. Pastikan bahwa dm anda terbuka!",
+    "NO_COLLECTION": "{{author}} Anda tidak memiliki kartu dalam koleksi anda",
+    "SPREADSHEET_DESCRIPTION": "Buat file \".csv\" koleksi Anda",
+    "NO_VAULT_LOGS": "{{author}} Saat ini tidak ada log brankas",
+    "DM_FILE": "{{author}} File .csv telah dikirimkan kepada anda melalui pesan langsung\n\n> **Catatan**: Saat mengimpor file ke program excel atau spreadsheet, pastikan untuk menyetel pemisah ke \"koma\"!"
 }

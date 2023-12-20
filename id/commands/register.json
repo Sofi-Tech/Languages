@@ -1,13 +1,21 @@
 {
     "REGISTER_CATEGORY": "Pengaturan",
-    "ALREADY_REGISTERED": "{{author}} Anda sudah terdaftar!",
+    "ALREADY_REGISTERED": "{{author}} Anda sudah terdaftar",
     "AGREE_BUTTON_LABEL": "Setuju!",
     "DISAGREE_BUTTON_LABEL": "Tidak setuju!",
     "REGISTER_DESCRIPTION": "Memverifikasi akun anda",
-    "AGREE_TOS": "Dengan menyetujui peraturan di atas, Anda menerima [Ketentuan Layanan](https://sofi.gg/terms \"Terms of Service\") & [Kebijakan Privasi](https://sofi.gg/privacy)",
-        "EMBED_AUTHOR": "SOFI: REGISTER",
+    "AGREE_TOS": "Dengan menyetujui, anda menerima [Ketentuan Layanan] Sofi (https://sofi.gg/terms \"Ketentuan Layanan\") & [Kebijakan Privasi] (https://sofi.gg/privacy)",
+    "EMBED_AUTHOR": "SOFI: REGISTER",
     "EMBED_FOOTER": "{{count}} pengguna telah diverifikasi sejauh ini",
     "VERIFY_BUTTON_LABEL": "Verifikasi",
     "SUPPORT_BUTTON_LABEL": "Support Server",
-    "DM_MESSAGE": "## Selamat datang di Komunitas Sofi!\n\nDi bawah ini Anda akan menemukan beberapa tautan untuk membantu Anda dalam perjalanan Anda di Sofi!\n\n- [Server Dukungan Resmi Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Panduan Online Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Vote Setiap Hari untuk menerima `Wists`](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"
+    "DM_MESSAGE": "## Selamat datang di Komunitas Sofi!\n\nDi bawah ini anda akan menemukan beberapa tautan untuk membantu anda dalam perjalanan anda di Sofi!\n\n- [Server Dukungan Resmi Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Panduan Online Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Vote Setiap Hari untuk menerima **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>",
+    "INVALID_USER": "{{author}} User-ID yang anda berikan tidak valid",
+    "AUTHOR_NOT_REGISTERED": "{{author}} Anda tidak terdaftar",
+    "AUTHOR_QUARANTINE": "{{author}} Anda dikarantina",
+    "AUTHOR_NOT_VERIFIED": "{{author}} Anda tidak diverifikasi",
+    "USER_ALREADY_REGISTERED": "{{author}} Pengguna ini sudah terdaftar",
+    "REGISTER_MESSAGE": "Salam {{user}} <:sofiwave:1008533250408456282>! Anda telah diundang untuk bermain Sofi.\nKami berharap dapat bertemu dengan anda untuk mengumpulkan kartu dan bergabung dalam acara-acara kami!",
+    "REFERRAL_FOOTER": "Anda dan teman anda akan mendapatkan hadiah setelah mendaftar",
+    "VERIFY_MESSAGE": "Hampir sampai! Klik tombol di bawah ini untuk memverifikasi diri anda di situs web kami.\nBergabunglah dengan [Server Dukungan Resmi] (<https://discord.gg/sofi>) kami jika Anda menghadapi masalah apa pun!"
 }
