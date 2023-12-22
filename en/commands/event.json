@@ -112,5 +112,6 @@
   "INVALID_CODE": "The card code you provided is invalid",
   "ALREADY_THREED": "You cannot apply a font to a **3D** card",
   "CODE_BUTTON_LABEL": "Code",
+  "FONTFACE_FOOTER": "Font Applied: {{count}}",
   "FONT_SUCCESS": "Thank you for purchasing an event font"
 }
