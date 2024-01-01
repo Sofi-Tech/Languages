@@ -55,5 +55,6 @@
     "MISSING_EV_ITEM": "Anda kekurangan {{amount}} {{item}}",
     "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",
     "ITEM_PURCHASE_SUCCESSFUL": "Selamat! {{amount}} {{item}} telah ditambahkan ke inventory anda",
-    "NO_ACTIVE_EVENT": "{{author}} Tidak ada event yang sedang aktif saat ini"
+    "NO_ACTIVE_EVENT": "{{author}} Tidak ada event yang sedang aktif saat ini",
+    "DROP_TASK_zero": "Drop {{count}} kali"
 }

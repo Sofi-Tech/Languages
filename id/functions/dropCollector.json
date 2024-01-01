@@ -1,12 +1,12 @@
 {
-    "EXTRA_GRAB": "{{user}} `Grab` ekstra anda telah digunakan. Anda memiliki {{remaining}}",
-    "GRAB_COOLDOWN": "{{user}} Anda harus menunggu **{{cooldown}}** untuk mengklaim kartu lain",
-    "GRAB_CARD_PLURAL": "{{winner}} melawan **{{userCount}}** pemain lain dan mengklaim kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}} **{{eventCardInfo}}",
-    "EVENT_GRAB": "{{user}} menerima {{currencyEmoji}} **{{amount}}** `{{eventItem}}`",
-    "SNATCHED_EVENT_ITEM": "{{winner}} merebut **{{amount}}** `{{eventItem}}}` dari <@{{userId}}}>",
-    "GRAB_EVENT_ITEM": "{{winner}} bertarung melawan **{{userCount}}** pengguna lain dan menerima **{{amount}}** `{{eventItem}}`",
+    "EXTRA_GRAB": "{{user}} **Grab** ekstra anda telah digunakan. Anda memiliki **{{remaining}}** lagi",
+    "GRAB_COOLDOWN": "{{user}} Anda harus menunggu **{{cooldown}}** untuk mengambil kartu lain",
+    "GRAB_CARD_PLURAL": "{{winner}} melawan **{{userCount}}** pemain lain dan **mengambil** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}} **{{eventCardInfo}}",
+    "EVENT_GRAB": "{{user}} {{currencyEmoji}} **{{amount}}** **{{eventItem}}** kejutan yang belum dibuka",
+    "SNATCHED_EVENT_ITEM": "{{winner}} pergi dengan membawa {{amount}} festive Sock dari stok penyimpanan <@{{userId}}> !",
+    "GRAB_EVENT_ITEM": "{{winner}} mendapatkan {{amount}} festive Sock dalam pertarungan salju melawan {{userCount}} lainnya! 🎄✨",
     "CANNOT_BE_GRABBED": "{{user}} Kartu di bawah ini tidak dapat lagi **grabbed**",
     "CARDS_DROPPED_BY": "{{user}} telah **dropped** kartu",
-    "TOOK_CARD": "{{user}} mengambil kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_CARD": "{{winner}} melawan {{user}} dan mengklaim kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} ** {{elementName}} ** {{eventCardInfo}}"
+    "TOOK_CARD": "{{user}} **mengambil**  kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD": "{{winner}} melawan {{user}} dan **mengklaim** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} ** {{elementName}} ** {{eventCardInfo}}"
 }

@@ -1,6 +1,6 @@
 {
     "LOTTERY_WON": "Selamat! Anda telah memenangkan undian Sofi {{event}} 2D! 🎃",
-    "MENTION_ERROR": "{{author}} Gunakan awalan server `{{prefix}}` atau `/`untuk menjalankan perintah",
+    "MENTION_ERROR": "{{author}} Gunakan awalan server `{{prefix}}` atau `/`untuk menggunakan perintah",
     "RATE_LIMIT_ERROR": "{{author}} Karena aktivitas yang tinggi, batas kapasitas telah tercapai! Harap tunggu.",
     "VERIFY_BUTTON_LABEL": "Verifikasi",
     "SUPPORT_BUTTON_LABEL": "Support",
@@ -20,6 +20,6 @@
     "NO_PERMISSIONS": "{{author}} Saya tidak memiliki izin yang cukup untuk menjalankan perintah ini",
     "SERIES_DROP": "Pemungutan suara telah selesai!",
     "SERVER_BLACKLISTED": "{{author}} Server masuk daftar hitam. Silakan hubungi kami di discord.gg/sofi",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} Kamu memiliki nilai negatif dalam inventory kamu. Silakan hubungi kami di discord.gg/sofi",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Inventori anda mempunyai nilai negatif. Silakan hubungi kami di [Server Support](<https://discord.gg/sofi)",
     "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Kamu telah dimasukkan dalam daftar hitam karena melanggar aturan Sofi!__\n\n**Beberapa alasan yang mungkin telah menyebabkan hal ini:**\n```CSS\n- Berinteraksi dengan Sofi menggunakan beberapa akun (Alting)\n- Menjual atau Membeli seluruh akun Discord\n- Menipu pengguna lain\n- Memanfaatkan atau terlibat dalam salah satu aktivitas di atas\n```\n\n:link: [Ajukan banding terhadap daftar hitam Andat](<https://sofi.gg/appeal>)\n:link: [Server Dukungan](https://discord.gg/sofi)"
 }

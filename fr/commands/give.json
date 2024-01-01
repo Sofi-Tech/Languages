@@ -15,5 +15,6 @@
     "AUTHOR_BLACKLISTED": "{{author}} Vous êtes sur liste noire",
     "CARD_SELECTED": "{{author}} Cette carte est utilisée dans un deck et ne peut être transférée",
     "EMBED_TITLE": "SOFI: GIVE",
-    "AUTHOR_NOT_VERIFIED": "{{author}} Vous n'êtes pas vérifié(e)"
+    "AUTHOR_NOT_VERIFIED": "{{author}} Vous n'êtes pas vérifié(e)",
+    "CARD_IN_QUEST": "{{author}} Cette carte est actuellement utilisée dans une quête et ne peut pas être donnée"
 }
