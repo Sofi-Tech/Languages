@@ -3,7 +3,7 @@
     "MINIMUM_AMOUNT": "{{author}} Vous devez enchérir un minimum de **{{amount}}** {{currencyEmoji}} pour cette enchère",
     "AI_CATEGORY": "Cartes",
     "BID_SELECTION": "Utilisez la commande {{prefix}}ai <ID-Auction> ou selectionnez une enchère active depuis le menu ci-dessous",
-    "AUCTIONINFO_DESCRIPTION": "Affiche l'Information de l'Enchère",
+    "AUCTIONINFO_DESCRIPTION": "Cette commande ouvrira un embed affichant les enchères passées et en cours pour des codes de cartes, pour lesquelles vous pouvez enchérir. Les Enchères utilisent des Charms comme monnaie pour placer une offre",
     "AI_ENDS": "Se termine",
     "SELECT_AUCTION_PLACEHOLDER": "Sélectionnez une Enchère",
     "BID_MODAL_LABEL": "Montant de l'Offre",

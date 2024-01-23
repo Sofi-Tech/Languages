@@ -1,5 +1,5 @@
 {
-    "GLOW_DESCRIPTION": "Applies a \"Glow\" effect to your card",
+    "GLOW_DESCRIPTION": "This command will apply the specified Glow to a card from your collection. Glows add a glowing effect around your cards Frame border. You can buy Glows by using the \"Unlockglow\" command",
     "GLOW_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} The card code you provided is either invalid or not in your collection",

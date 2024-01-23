@@ -1,14 +1,14 @@
 {
-  "GIFT_SLASH_DESC2": "Ilagay ang halaga ng mga `{{eventItem}}`na nais mong ibigay",
-  "GIFT_SLASH_DESC": "Pumili ng user na nais mong regaluhan ng mga` {{eventItem}}`",
-  "GIFT_CATEGORY": "Kards",
-  "GIFT_WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}gift <@User/UserID> <Amount>`",
-  "INVALID_USER": "{{author}} Hindi ka maaring mag regalo ng `{{eventItem}}` sa iyong sarili",
-  "INVALID_AMOUNT": "{{author}} Hindi ka puwedeng magregalo ng negatibong halaga ng aytems",
-  "NOT_ENOUGH_ITEM": "{{author}} Wala kang **{{amount}}** `{{eventItem}}`",
-  "PLAYER_NOT_EXISTS": "{{author}} Ang player na yan ay hindi nakarehistro!",
-  "GIFT_SUCCESSFUL": "{{author}} ay nagregalo ng **{{amount}}** `{{eventItem}}` kay {{user}}\n{{user}} ay nakatanggap ng kabuuang **{{recieveCount}}** `{{eventItem}}`",
-  "EMBED_TITLE": "SOFI: GIFT",
-  "GIFT_DESCRIPTION": "Mag regalo ng \"Event Items\" sa ibang user",
-  "NO_ACTIVE_EVENT": "{{author}} Walang pang event ang kasalukuyang aktibo"
+    "GIFT_SLASH_DESC2": "Ilagay ang halaga ng mga `{{eventItem}}`na nais mong ibigay",
+    "GIFT_SLASH_DESC": "Pumili ng user na nais mong regaluhan ng mga {{eventItem}}",
+    "GIFT_CATEGORY": "Kards",
+    "GIFT_WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}gift <@User/UserID> <Amount>`",
+    "INVALID_USER": "{{author}} Hindi ka maaring mag regalo ng `{{eventItem}}` sa iyong sarili",
+    "INVALID_AMOUNT": "{{author}} Hindi ka puwedeng magregalo ng negatibong halaga ng aytems",
+    "NOT_ENOUGH_ITEM": "{{author}} Wala kang **{{amount}}** `{{eventItem}}`",
+    "PLAYER_NOT_EXISTS": "{{author}} Ang player na yan ay hindi nakarehistro!",
+    "GIFT_SUCCESSFUL": "{{author}} ay nagregalo ng **{{amount}}** `{{eventItem}}` kay {{user}}\n{{user}} ay nakatanggap ng kabuuang **{{recieveCount}}** `{{eventItem}}`",
+    "EMBED_TITLE": "SOFI: GIFT",
+    "GIFT_DESCRIPTION": "Mag regalo ng \"Event Items\" sa ibang user",
+    "NO_ACTIVE_EVENT": "{{author}} Walang pang event ang kasalukuyang aktibo"
 }

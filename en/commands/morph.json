@@ -1,5 +1,5 @@
 {
-    "MORPH_DESCRIPTION": "Changes the appearance of a card",
+    "MORPH_DESCRIPTION": "Using this command on a card will alter its appearance in various unpredictable ways",
     "MORPH_CATEGORY": "Cosmetics",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}m <CardCode> <MorphItem>`",
     "CANNOT_MORPH": "{{author}} The card code you provided is either invalid or not in your collection",

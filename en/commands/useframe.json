@@ -1,15 +1,15 @@
 {
-  "USEFRAME_DESCRIPTION": "Applies a \"Frame\" to your card",
-  "UF_CATEGORY": "Cosmetics",
-  "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-  "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
-  "CANNOT_APPLY": "{{author}} You cannot apply a **Frame** to a **3D** card",
-  "NO_GIF": "{{author}} You cannot apply a **Frame** to a **GIF** card",
-  "NO_FRAMES_FOUND": "{{author}} That **Frame** code is either invalid or not in your inventory",
-  "EMBED_TITLE": "SOFI: APPLY FRAME",
-  "UF_CONFIRMATION": "Are you sure you want to apply the **{{frameName}}** **Frame** to this card?",
-  "EMBED_FOOTER": "Confirming this process will destroy the currently applied Frame",
-  "NO_OWNER": "{{author}} The card is no longer in your collection",
-  "FRAME_NOT_FOUND": "{{author}} You dont have the **{{frameName}}** **Frame**",
-  "UF_SUCCESSFUL": "{{author}} Successfully applied the **{{frameName}}** **Frame** to your card"
+    "USEFRAME_DESCRIPTION": "This command will apply a selected Frame to a card of choice. You can buy Frames by using the \"Frameshop\" command",
+    "UF_CATEGORY": "Cosmetics",
+    "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
+    "CANNOT_APPLY": "{{author}} You cannot apply a **Frame** to a **3D** card",
+    "NO_GIF": "{{author}} You cannot apply a **Frame** to a **GIF** card",
+    "NO_FRAMES_FOUND": "{{author}} That **Frame** code is either invalid or not in your inventory",
+    "EMBED_TITLE": "SOFI: APPLY FRAME",
+    "UF_CONFIRMATION": "Are you sure you want to apply the **{{frameName}}** **Frame** to this card?",
+    "EMBED_FOOTER": "Confirming this process will destroy the currently applied Frame",
+    "NO_OWNER": "{{author}} The card is no longer in your collection",
+    "FRAME_NOT_FOUND": "{{author}} You dont have the **{{frameName}}** **Frame**",
+    "UF_SUCCESSFUL": "{{author}} Successfully applied the **{{frameName}}** **Frame** to your card"
 }

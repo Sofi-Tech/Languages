@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Kauft \"Items\" von Sofi's \"Shop\"",
+    "BUY_DESCRIPTION": "Dieser Befehl, zusammen mit dem Namen eines Items und einer Anzahl, öffnet eine Textbox, um das angegebene Item zu kaufen. Nutze den \"Shop\" Befehl, um alle verfügbaren Items zu sehen",
     "SLASH_DESC": "Gib den Namen des Item an das du kaufen willst",
     "SLASH_DESC2": "Gib die Menge an",
     "SLASH_DESC3": "Gib den Code des **Background** an, den du kaufen möchtest. [FUNKTIONIERT NUR, WENN DAS ITEM ALS BACKGROUND AUSGEWÄHLT WURDE]",
@@ -10,5 +10,6 @@
     "INVALID_BG_ID": "{{author}} Es konnte kein **Background** mit dieser ID gefunden werden",
     "INVALID_ITEM_PROVIDED": "{{user}} Das angegebene Item ist ungülitg",
     "BUY_CHARM_CONFIRMATION": "## Du kaufst {{amount}} <:xcharm:988729774031638528>",
-    "BUY_CHARMS_MULTIPLES": "{{author}} Du kannst **Charms** nur in Vielfachen von 100 kaufen"
+    "BUY_CHARMS_MULTIPLES": "{{author}} Du kannst **Charms** nur in Vielfachen von 100 kaufen",
+    "BUY_GEN_CONFIRMATION": "## Du kaufst {{count}} Gen Scratcher"
 }

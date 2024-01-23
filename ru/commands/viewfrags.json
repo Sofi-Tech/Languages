@@ -1,8 +1,8 @@
 {
-  "VIEWFRAGS_DESCRIPTION": "Отображает список доступных \"Fragments\" пользователя",
-  "COLLECTION_PVT": "{{author}} Данный пользователь ограничил доступ к просмотру своих **Fragments**",
-  "CANNOT_FIND_FRAGS": "{{user}} У данного пользователя нет **Fragments**",
-  "FRAGS_COUNT": "Всего: {{totalCount}}",
-  "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
-  "CANNOT_FIND_SELF": "{{user}} У вас пока нет никаких **Fragments**"
+    "VIEWFRAGS_DESCRIPTION": "Данная команда откроет инвентарь Fragment пользователя. Fragments используются для создания GIF версии персонажа. Вы можете использовать команду \"Pull\", чтобы получить их",
+    "COLLECTION_PVT": "{{author}} Данный пользователь ограничил доступ к просмотру своих **Fragments**",
+    "CANNOT_FIND_FRAGS": "{{user}} У данного пользователя нет **Fragments**",
+    "FRAGS_COUNT": "Всего: {{totalCount}}",
+    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
+    "CANNOT_FIND_SELF": "{{user}} У вас пока нет никаких **Fragments**"
 }

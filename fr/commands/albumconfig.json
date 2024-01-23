@@ -1,5 +1,5 @@
 {
-  "ALBUMCONFIG_DESCRIPTION": "Configure votre album",
-  "AC_CATEGORY": "Album",
-  "CONFIGURE_ALBUM": "{{author}} Créez et modifiez vos albums sur notre site: <https://sofi.gg/albums{{albumName}}>"
+    "ALBUMCONFIG_DESCRIPTION": "Utiliser cette commande enverra un message accompagné d'un lien vers le site officiel de Sofi, où vous pouvez customiser et configurer vos albums",
+    "AC_CATEGORY": "Album",
+    "CONFIGURE_ALBUM": "{{author}} Créez et modifiez vos albums sur notre site: <https://sofi.gg/albums{{albumName}}>"
 }

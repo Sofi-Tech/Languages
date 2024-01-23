@@ -1,5 +1,5 @@
 {
-    "FONTCOLOR_DESCRIPTION": "Changes the font color of a card by applying a \"Glow\" to it",
+    "FONTCOLOR_DESCRIPTION": "You can use this command to apply a Glow onto the font of a card, changing its color in the process. Add the additional prompt \"reset\" to this command if you wish to remove an existing Glow from a cards font",
     "FC_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}fc <CardCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} The card code you provided is either invalid or not in your collection",

@@ -2,7 +2,7 @@
     "MARKETUNLIST_DESCRIPTION": "Entfernt deine Angebote vom Markt",
     "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}mul <Auftrags-ID/All>`",
     "INVALID_DEAL_ID": "{{author}} Die angegebene Angebots-ID ist entweder ungültig oder gehört nicht dir",
-    "SUCCESS_UL": "{{user}} Das folgende Angebot wurde erfolgreich vom Markt entfernt:`{{dealId}}`",
+    "SUCCESS_UL": "{{user}} Das folgende Angebot wurde erfolgreich vom Markt entfernt: `{{dealId}}`",
     "NO_LISTINGS_FOUND": "{{user}} Du hast derzeit keine Angebote",
     "SUCCESS_UL_ALL": "{{user}} All deine Angebote wurden erfolgreich vom Markt entfernt"
 }

@@ -1,5 +1,5 @@
 {
-    "BURN_DESCRIPTION": "Brûlez vos cartes pour obtenir des \"Crystals\" et des \"Silver\", qui peuvent être utilisés pour fabriquer des \"Cubes\" ou pour acheter divers autres \"items\" dans le Bot. La commande \"sb\" utilisée seule brûlera la dernière carte obtenue",
+    "BURN_DESCRIPTION": "Utilisez cette commande pour burn les cartes sélectionnées en échange de Silver & Cubes qui sont nécessaires pour améliorer les cartes en leur variant 3D. Utiliser cette commande sans ajouter un code de carte tentera de burn votre carte la plus récente obtenue  ",
     "GUILDSTONE_BURN": "Êtes-vous sûr(e) de vouloir burn votre **Guild Stone**?",
     "GUILDSTONE_NOT_FOUND": "{{author}} Vous n'avez pas de **Guild Stone**",
     "CANCELLED": "Le processus a été annulé",

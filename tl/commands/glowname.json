@@ -1,9 +1,9 @@
 {
     "GLOWNAME_DESCRIPTION": "Baguhin ang pangalan ng \"Glow\"",
     "GN_CATEGORY": "Mga Cosmetic",
-    "UNLOCK_GLOWS": "{{author}} Wala kang `Glows`",
+    "UNLOCK_GLOWS": "{{author}} Wala kang anumang **Glows**",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gn<GlowCode><NewName>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang `Glow` codes ay laging naguumpisa sa `#`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang mga **Glow** code ay laging nagsisimula sa `#`",
     "GLOW_NOT_FOUND": "{{author}} Ang code ng **Glow** na iyong ibinigay ay maaaring hindi wasto o wala sa iyong inventory",
     "GLOW_NAME_LONG": "{{author}} Ang pangalan ng iyong `Glow` ay dapat hanggang **25** letra lamang",
     "GLOW_NAME_EXISTS": "{{author}} Ang pangalan na iyan ay naka-assign na sa ibang `Glow`",

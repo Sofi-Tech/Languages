@@ -1,1 +1,14 @@
-{}
+{
+    "GIFT_DESCRIPTION": "「イベントアイテム」を他のユーザーに贈る",
+    "NOT_ENOUGH_ITEM": "{{author}} **{{amount}}** **{{eventItem}}**持っていません",
+    "PLAYER_NOT_EXISTS": "{{author}} そのユーザーが未登録です",
+    "NO_ACTIVE_EVENT": "{{author}} 現在はアクティブなイベントがありません",
+    "INVALID_AMOUNT": "{{author}} マイナスの額を贈ることはできません",
+    "EMBED_TITLE": "SOFI: ギフト",
+    "GIFT_SLASH_DESC2": "送りたい `{{eventItem}}`額を入力してください",
+    "GIFT_SLASH_DESC": "{{eventItem}}を送りたいユーザーが選択してください",
+    "GIFT_CATEGORY": "カード",
+    "GIFT_WRONG_USAGE": "{{author}} 正しい使い方は：`{{prefix}}gift <カードコード>`",
+    "INVALID_USER": "{{author}} 自分に**{{eventItem}}**が送れません",
+    "GIFT_SUCCESSFUL": "{{author}}は{{user}}に **{{amount}}** **{{eventItem}}** を送りました\n{{user}} は **{{recieveCount}}** **{{eventItem}}**を受けました"
+}

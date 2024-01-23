@@ -1,8 +1,8 @@
 {
-  "DROP_DESCRIPTION": "Lumilikha ng \"Drop\" ng mga cards\nGamitin ang commad na \"{{prefix}}dn\" para makapag-generate ng \"Drop\" na walang imahe",
-  "EXTRA_DROP_ALERT": "{{author}} Ginagamit ang iyong extra`Drop`. Mayroon ka nalang **{{remaining}}** na natitira",
-  "ON_CD": "{{author}} Ang iyong `Drop` ay magiging handa sa: **{{dropCd}}**",
-  "VOTE": "Boto",
-  "BUY_DROP": "\n\n- Maaari ka ring `Bumoto` upang makatanggap ng `Wists`! Gamitin ang command na `{{prefix}}buy drop` upang palitan ang mga ito",
-  "DROPPING_CARD": "{{author}} ay **dropping** ng kards\n"
+    "DROP_DESCRIPTION": "Lumilikha ng \"Drop\" ng mga cards\nGamitin ang commad na \"{{prefix}}dn\" para makapag-generate ng \"Drop\" na walang imahe",
+    "EXTRA_DROP_ALERT": "{{author}} Ang iyong karagdagang **Drop** ay ginamit. Mayroon kang **{{remaining}}** natitira",
+    "ON_CD": "{{author}} Ang iyong **Drop** ay magiging handa sa: **{{dropCd}}**",
+    "VOTE": "Boto",
+    "BUY_DROP": "\n\n- Maaari ka ring `Bumoto` upang makatanggap ng `Wists`! Gamitin ang command na `{{prefix}}buy drop` upang palitan ang mga ito",
+    "DROPPING_CARD": "{{author}} ay **dropping** ng kards\n"
 }

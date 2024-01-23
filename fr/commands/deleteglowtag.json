@@ -1,5 +1,5 @@
 {
-    "DELETEGLOWTAG_DESCRIPTION": "Supprime un \"Glow Tag\"",
+    "DELETEGLOWTAG_DESCRIPTION": "Utiliser cette commande en combinaison avec le nom d'un Glow tag tentera de supprimer le tag sélectionné",
     "DGT_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}dgt <NomDuTag>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Vous n'avez aucun **Glow** tag avec le nom `{{tagname}}`",

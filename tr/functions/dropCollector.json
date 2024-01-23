@@ -1,12 +1,12 @@
 {
-    "EXTRA_GRAB": "{{user}} **Extra Grab** kullanılıyor. **{{remaining}}** hakkınız kaldı",
-    "GRAB_COOLDOWN": "{{user}} `Grab` ınız halen {{cooldown}} kadar daha bekleme süresinde",
-    "GRAB_CARD_PLURAL": "{{winner}}, **{{userCount}}** diğer oyuncularla savaştı ve **{{character}}** kartını elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
-    "EVENT_GRAB": "{{user}} Şunları topladı**{{amount}}** `{{eventItem}}`🍙",
-    "TOOK_CARD": "{{user}}, **{{character}}** kartı aldı (`{{code}}`) | {{elementEmoji}} **{{elementName}}** (**{{eventCardInfo}}**)",
-    "SNATCHED_EVENT_ITEM": "{{winner}}, **{{amount}}** `{{eventItem}}` öğesini <@{{userId}}> kullanıcısından yürüttü",
-    "GRAB_EVENT_ITEM": "{{winner}} , **{{userCount}}** farklı oyuncuyu alt etti ve **{{amount}}** `{{eventItem}}` aldı",
-    "GRAB_CARD": "{{winner}}, {{user}} ile savaştı ve **{{character}}** kartı elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
-    "CANNOT_BE_GRABBED": "Bu kartlar artık alınamıyor",
-    "CARDS_DROPPED_BY": "{{user}}`Dropped` kartlara sahip\n"
+    "EXTRA_GRAB": "{{user}} Ekstra **Grab**'ınız kullanılıyor. **{{remaining}}** kaldı ",
+    "GRAB_COOLDOWN": "{{user}} Başka bir kart almak için **{{cooldown}}** beklemeniz gerekir",
+    "GRAB_CARD_PLURAL": "{{winner}}, **{{userCount}}** diğer oyuncularla mücadele etti ve **{{character}}** kartını (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}} ",
+    "EVENT_GRAB": "{{user}} paketi açılmış {{currencyEmoji}} **{{amount}}** **{{eventItem}}** sürprizler",
+    "TOOK_CARD": "{{user}} **{{character}}** kartını (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}} ",
+    "SNATCHED_EVENT_ITEM": "{{winner}}, <@{{userId}}> çorap zulasından {{amount}} şenlikli çorapla kızakla uzaklaştı! ",
+    "GRAB_EVENT_ITEM": "{{winner}}, diğer {{userCount}} kişiye karşı yapılan kar mücadelesinde {{amount}} şenlikli Çorabı kaptı! 🎄✨ ",
+    "GRAB_CARD": "{{winner}}, {{user}} ile mücadele etti ve **{{character}}** kartını (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}} ",
+    "CANNOT_BE_GRABBED": "{{user}} Aşağıdaki kartlar artık **alınamaz** ",
+    "CARDS_DROPPED_BY": "{{user}} kartları **düşürdü**"
 }

@@ -1,8 +1,8 @@
 {
-  "VIEWFRAGS_DESCRIPTION": "Naglilista ng mga magagamit na \"Fragments\" ng isang user",
-  "COLLECTION_PVT": "{{author}} Ang mga `Fragments` ng user na iyan ay pribado",
-  "CANNOT_FIND_FRAGS": "{{user}} Ang user na iyon ay walang anumang`Fragments`",
-  "FRAGS_COUNT": "Kabuuan: {{totalCount}}",
-  "FRAG_LIST": "SOFI: `Fragments` ni ({{userName}})",
-  "CANNOT_FIND_SELF": "{{user}}Ikaw ay walang kahit anong `Fragments`"
+    "VIEWFRAGS_DESCRIPTION": "Naglilista ng mga magagamit na \"Fragments\" ng isang user",
+    "COLLECTION_PVT": "{{author}} Ang mga **Fragments** ng user ay pribado",
+    "CANNOT_FIND_FRAGS": "{{user}} Ang user na iyon ay walang anumang **Fragments**",
+    "FRAGS_COUNT": "Kabuuan: {{totalCount}}",
+    "FRAG_LIST": "SOFI: `Fragments` ni ({{userName}})",
+    "CANNOT_FIND_SELF": "{{user}}Ikaw ay walang kahit anong `Fragments`"
 }

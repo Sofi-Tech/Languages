@@ -1,14 +1,14 @@
 {
-  "SUPERGLOW_DESCRIPTION": "Combine two \"Glows\" in order to obtain a \"Super Glow\"",
-  "SG_CATEGORY": "Cosmetics",
-  "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-  "GLOW_NOT_FOUND": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
-  "UNAVAILABLE_GLOW": "{{author}} At least one of the **Glow** codes you provided is empty",
-  "NO_USE_SG": "{{author}} You cannot use a **Super Glow** for this process",
-  "SAME_GLOWS": "{{author}} You cannot use the same **Glow** more than once",
-  "EMBED_TITLE": "SOFI: SUPER GLOW",
-  "FORM_SG_CONFIRM": "Are you sure you want to merge the following items:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** **Resin**\n\ninto the **{{superGlowName}}** **Super Glow**?",
-  "MISSING_RESINS": "{{author}} You don't have enough **Resin** for this process",
-  "SUPER_GLOW_SUCCESSFUL": "{{author}} Successfully combined your **Glows**\n",
-  "FORM_SG_FOOTER": "Both Glows will be destroyed in the process!"
+    "SUPERGLOW_DESCRIPTION": "You can use this command to combine 2 Glows and a Resin into a Super Glow. A Super Glow features both color schemes of the original Glows used in the merging process",
+    "SG_CATEGORY": "Cosmetics",
+    "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
+    "UNAVAILABLE_GLOW": "{{author}} At least one of the **Glow** codes you provided is empty",
+    "NO_USE_SG": "{{author}} You cannot use a **Super Glow** for this process",
+    "SAME_GLOWS": "{{author}} You cannot use the same **Glow** more than once",
+    "EMBED_TITLE": "SOFI: SUPER GLOW",
+    "FORM_SG_CONFIRM": "Are you sure you want to merge the following items:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** **Resin**\n\ninto the **{{superGlowName}}** **Super Glow**?",
+    "MISSING_RESINS": "{{author}} You don't have enough **Resin** for this process",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Successfully combined your **Glows**\n",
+    "FORM_SG_FOOTER": "Both Glows will be destroyed in the process!"
 }

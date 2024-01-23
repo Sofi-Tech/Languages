@@ -3,7 +3,7 @@
     "EXTRA_GRAB": "{{user}} Ang iyong extra **Grab** ay kasulukuyang ginamit. Ikaw ay mayroon nalang na **{{remaining}}** na natitira",
     "CARDS_DROPPED_BY": "{{user}} ay nag **dropped** ng cards",
     "GRAB_COOLDOWN": "{{user}} Kailangan mong mag-antay ng **{{cooldown}}** para makakuha ng isa pang card",
-    "EVENT_GRAB": "{{user}} nakakuha ng {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
+    "EVENT_GRAB": "{{user}} Binuksan ang {{currencyEmoji}} **{{amount}}** mga sorpresa ng **{{eventItem}}**",
     "TOOK_CARD": "{{user}} **kinuha** ang **{{character}}** na card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} ay kinuha ang **{{amount}}** **{{eventItem}}** kay <@{{userId}}>",
     "GRAB_EVENT_ITEM": "{{winner}} ay nakipag-laban sa **{{userCount}}** na katao at nakakuha ng **{{amount}}** **{{eventItem}}**",

@@ -1,1 +1,14 @@
-{}
+{
+    "MAIL_DESCRIPTION": "受信トレイを開く",
+    "EMBED_AUTHOR": "{{username}}の受信トレイ",
+    "EMBED_FOOTER": "ページ：{{page}}/{{pagesNum}}",
+    "REWARD_CLAIMED_BUTTON_LABEL": "請求済み",
+    "CLAIM_REWARD_BUTTON_LABEL": "報酬を要求する",
+    "MAIL_REWARDS": "**__報酬__**\n",
+    "MENU_PLACEHOLDER": "オプションを選択してください",
+    "MAIL_CATEGORY": "設定",
+    "NO_MAILS_FOUND": "{{author}} 受信トレイは空です",
+    "CLAIMED_REWARD_ALREADY": "{{author}} 既に前のコマンドで報酬を要求しています",
+    "REWARD_CLAIM_INVENTORY": "{{author}} 添付のアイテムがインベントリに追加されました",
+    "MAIL_FRAME": "**フレーム**"
+}

@@ -1,5 +1,5 @@
 {
-    "DELETEGLOWTAG_DESCRIPTION": "Удаляет \"Glow Tag\"",
+    "DELETEGLOWTAG_DESCRIPTION": "Используйте данную команду с названием отметки для Glow, чтобы удалить указанную отметку",
     "DGT_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}dgt <TagName>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Не удалось найти отметку для **Glow** с названием `{{tagname}}`",

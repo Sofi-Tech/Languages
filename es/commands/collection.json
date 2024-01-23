@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Puedes mostrar tu colección con el comando `sc`\n- Tu colección puede ser ordenada por Nombre, Cosméticos, Estadísticas y más\n- También puede ser filtrada por \"Deseados\", \"Gen\" o el nombre de un \"Tag\"\n- Usa el comando \"sc t:ut\" para mostrar todas las cartas sin tag en tu colección",
+    "COLLECTION_DESCRIPTION": "Este comando mostrará toda tu colección, la cual puede ser ordenada de varias formas. Usando este comando con prompts adicionales abrira un embed con el filtro en especifico que se aplicó. Usa el prompt \"t:ut\" en adición a este comando para mostrar todas las cartas en tu colección que no tienen un tag actualmente",
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Introduce los filtros que quieres aplicar a la colección",

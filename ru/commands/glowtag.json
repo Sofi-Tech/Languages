@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "Отметьте ваши \"Glows\" с помощью \"Tag\"",
+    "GLOWTAG_DESCRIPTION": "С помощью данной команды вы можете отмечать ваши Glows. Для создания отметки для Glow используйте команду \"Glowtagcreate\"",
     "GT_CATEGORY": "Tags",
     "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет отметок для **Glow**. Вы можете создать новую, используя команду: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет **Glows**",

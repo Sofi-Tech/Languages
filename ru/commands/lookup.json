@@ -1,5 +1,5 @@
 {
-    "LOOKUP_DESCRIPTION": "Отображает варианты Version/3D/GIF персонажа",
+    "LOOKUP_DESCRIPTION": "С помощью данной команды вы можете найти любого персонажа. Созданное окно отобразит различные Version и Event версии персонажа",
     "CHAR_NOT_FOUND": "{{author}} Не удалось найти персонажа с именем `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Не удалось найти персонажа с именем `{{arg}}`\n\n```fix\nПримечание: Использование `-f` делает поиск более точным!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",

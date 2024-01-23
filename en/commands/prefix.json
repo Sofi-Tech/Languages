@@ -1,5 +1,5 @@
 {
-    "PREFIX_DESCRIPTION": "Set Sofi's prefix for this server",
+    "PREFIX_DESCRIPTION": "With this command you can set the prefix for your server. The selected prefix will be required to execute commands on Sofi",
     "PREFIX_CATEGORY": "Settings",
     "PROVIDE_PREFIX": "{{author}} Correct usage: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} The prefix for this server has been set to `{{prefix}}`"

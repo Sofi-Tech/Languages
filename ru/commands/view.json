@@ -1,15 +1,15 @@
 {
-  "VIEW_DESCRIPTION": "Отображает карту",
-  "SLASH_DESC1": "Введите код карты",
-  "INVALID_CODE": "{{author}} Данный код карты недействителен",
-  "SERIES": "Серия:",
-  "NAME": "Имя:",
-  "OWNED_BY": "Владелец:",
-  "SERVER": "Идентификатор сервера:",
-  "CLAIMED": "Получена в:",
-  "MOVES": "Способности",
-  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Эффективность **({{percentage}}%)**",
-  "EMBED_TITLE": "SOFI: VIEW",
-  "SPECIAL": "Особые очки",
-  "INFO_BUTTON_LABEL": "Информация"
+    "VIEW_DESCRIPTION": "Данная команда отобразит внешний вид указанной карты. Используйте данную команду без кода карты, чтобы отобразилась ваша последняя полученная карта",
+    "SLASH_DESC1": "Введите код карты",
+    "INVALID_CODE": "{{author}} Данный код карты недействителен",
+    "SERIES": "Серия:",
+    "NAME": "Имя:",
+    "OWNED_BY": "Владелец:",
+    "SERVER": "Идентификатор сервера:",
+    "CLAIMED": "Получена в:",
+    "MOVES": "Способности",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Эффективность **({{percentage}}%)**",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "SPECIAL": "Особые очки",
+    "INFO_BUTTON_LABEL": "Информация"
 }

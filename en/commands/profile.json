@@ -1,6 +1,6 @@
 {
-  "PROFILE_DESCRIPTION": "Displays a user profile",
-  "PRO_CATEGORY": "Settings",
-  "USER_NOT_FOUND": "{{author}} Could not find that user",
-  "PROFILE_NOT_FOUND": "{{author}} That user is not registered"
+    "PROFILE_DESCRIPTION": "This command will display a user's profile, alongside their selected background, highlighted card and badges. You can configure your own profile card by using the \"Profileconfig\" command",
+    "PRO_CATEGORY": "Settings",
+    "USER_NOT_FOUND": "{{author}} Could not find that user",
+    "PROFILE_NOT_FOUND": "{{author}} That user is not registered"
 }

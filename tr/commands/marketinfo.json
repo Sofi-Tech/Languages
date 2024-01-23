@@ -1,14 +1,15 @@
 {
-  "MARKETINFO_DESCRIPTION": "Şu anki pazar listenizi gösterir ya da ID sağlarsanız bir pazarın incelemesini gösterir",
-  "INVALID_DEAL_ID": "{{author}} Belirttiğiniz ticaret ID si geçersizdir",
-  "TRADER": "tüccar",
-  "DEAL_ID": "Anlaşma IDsi",
-  "PRODUCT": "Ürün",
-  "VALUE": "Değer",
-  "RATE": "Oran",
-  "LISTED": "Listelenen",
-  "NO_LISTINGS_FOUND": "{{user}} Markette herhangi bir pazar kaydınız yok",
-  "INFO": "Mevcut pazarlarınızı devre dışı bırakmak için `{{prefix}}mul <ID>` komutunu kullanın\n**Bir seferde yalnızca tek bir pazar açılabilir**",
-  "FOOTER": "Toplam {{total}} sayfadan 1-{{pages}} sayfası gösteriliyor| `Wists` satın almak için \"{{prefix}}mp <ID>\" komutunu kullanın!",
-  "EMBED_TITLE": "SOFI: MARKETINFO"
+    "MARKETINFO_DESCRIPTION": "Şu anki pazar listenizi gösterir ya da ID sağlarsanız bir pazarın incelemesini gösterir",
+    "INVALID_DEAL_ID": "{{author}} Belirttiğiniz ticaret ID si geçersizdir",
+    "TRADER": "tüccar",
+    "DEAL_ID": "Anlaşma IDsi",
+    "PRODUCT": "Ürün",
+    "VALUE": "Değer",
+    "RATE": "Oran",
+    "LISTED": "Listelenen",
+    "NO_LISTINGS_FOUND": "{{user}} Markette herhangi bir pazar kaydınız yok",
+    "INFO": "Mevcut pazarlarınızı devre dışı bırakmak için `{{prefix}}mul <ID>` komutunu kullanın\n**Bir seferde yalnızca tek bir pazar açılabilir**",
+    "FOOTER": "Sonuçlar gösteriliyor  {{page}}-{{pages}} ile ilgili  {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
+    "EMBED_TITLE": "SOFI: MARKETINFO",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Oran: `{{rateAmount}}` {{rateEmoji}}"
 }

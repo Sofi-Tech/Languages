@@ -1,5 +1,5 @@
 {
-    "COOLDOWN_DESCRIPTION": "Отображает время отката следующих действий:\n- Drop, Grab, Vote, Raid, Daily, Bump\n- Нажмите на значок колокольчика, чтобы получать напоминания в личных сообщениях для \"Drop\", \"Vote\" и \"Daily\"!",
+    "COOLDOWN_DESCRIPTION": "Данная команда отображает текущее время восстановления команд. Если вы хотите, чтобы вас уведомляли об окончании восстановления Vote/Daily/Bump, нажмите на значок колокольчика под созданным окном",
     "JOIN_SUPPORT_SERVER": "[Присоединяйтесь к серверу поддержки для получения помощи!](https://discord.gg/sofi)",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",

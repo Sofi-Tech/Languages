@@ -1,8 +1,9 @@
 {
-  "PRIVATE_DESCRIPTION": "Ginagawang pribado ang iyong koleksyon, wishlist o imbentaryo",
-  "PVT_CATEGORY": "Mga Setting",
-  "PRIVATE_ENABLED": "{{author}} Ang **{{content}}** ay pribado na ngayon",
-  "PRIVATE_DISABLED": "{{author}} Ang **{{content}}** ay hindi na pribado",
-  "PVT_PRIVATE": "Pribado",
-  "PVT_PUBLIC": "Publiko"
+    "PRIVATE_DESCRIPTION": "Ginagawang pribado ang iyong koleksyon, wishlist o imbentaryo",
+    "PVT_CATEGORY": "Mga Setting",
+    "PRIVATE_ENABLED": "{{author}} Ang **{{content}}** ay pribado na ngayon",
+    "PRIVATE_DISABLED": "{{author}} Ang **{{content}}** ay hindi na pribado",
+    "PVT_PRIVATE": "Pribado",
+    "PVT_PUBLIC": "Publiko",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE"
 }

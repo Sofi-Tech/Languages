@@ -1,11 +1,11 @@
 {
-  "WISHLISTADD_DESCRIPTION": "Add characters to your wishlist",
-  "CATEGORY": "Wishlist",
-  "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
-  "INCREASE_CAPACITY": "Use the command `{{prefix}}wu` or `{{prefix}}wu max` to increase the capacity of your wishlist",
-  "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
-  "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
-  "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** is on your wishlist already",
-  "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
-  "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
+    "WISHLISTADD_DESCRIPTION": "Use this command to add a character to your personal wishlist. This action has no direct benefit or advantage associated with it",
+    "CATEGORY": "Wishlist",
+    "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
+    "INCREASE_CAPACITY": "Use the command `{{prefix}}wu` or `{{prefix}}wu max` to increase the capacity of your wishlist",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
+    "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** is on your wishlist already",
+    "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
 }

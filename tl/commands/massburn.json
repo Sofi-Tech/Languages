@@ -1,14 +1,14 @@
 {
-  "MASSBURN_DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
-  "IN_ACTIVE_MB": "{{user}} Hindi ka maaring mag simula ng panibagong `mass burn` habang aktibo pa yung dati",
-  "PROVIDE_FILTERS": "{{author}} Tamang pag-gamit: `{{prefix}}mb<Filters>`\n\n```fix\nNote: Maaari kang makakita ng ibat ibang uri ng listahan ng mga filters gamit ang command na \"{{prefix}}help filters\"\n```",
-  "WRONG_TAG": "{{author}} Walang makitang kahit anong `Tag` na may ganiyang pangalan: `{{arg}}`",
-  "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga card na tumutugma sa iyong kriterya ng paghahanap",
-  "CARDS_BURNED": "__Napiling mga Card [ {{totalCards}} ]__",
-  "CONFIRM_ASK": "{{author}} Sigurado ka bang nais mong tuluyang sunugin ang mga kard na ito nang hindi maaring mabalik?",
-  "MISSING_CARDS": "{{author}} Kahit isa sa iyong mga piniling kard ay wala na sa iyong koleksyon",
-  "SUCCESS": "{{author}} Matagumpay nang nasunog ang iyong mga napiling cards",
-  "BURN_REWARDS": "__Natanggap__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} Hindi mo maaaring sunugin ang iyong lock `Tag`"
+    "MASSBURN_DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
+    "IN_ACTIVE_MB": "{{user}} Hindi ka puwedeng magsimula ng bagong **Massburn** habang may aktibo pa",
+    "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Mga Filter>`\n\n```fix\nNote: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
+    "WRONG_TAG": "{{author}} Hindi matagpuan ang anumang tag na may pangalang `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga card na tumutugma sa iyong kriterya ng paghahanap",
+    "CARDS_BURNED": "__Napiling mga Card [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Sigurado ka bang nais mong tuluyang sunugin ang mga kard na ito nang hindi maaring mabalik?",
+    "MISSING_CARDS": "{{author}} Kahit isa sa iyong mga piniling kard ay wala na sa iyong koleksyon",
+    "SUCCESS": "{{author}} Matagumpay nang nasunog ang iyong mga napiling cards",
+    "BURN_REWARDS": "__Natanggap__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Hindi mo maaaring sunugin ang iyong lock `Tag`"
 }

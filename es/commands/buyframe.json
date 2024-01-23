@@ -1,14 +1,14 @@
 {
-  "BUYFRAME_DESCRIPTION": "Compra un \"Frame\" de la \"Frame Shop\"",
-  "BF_CATEGORY": "Cosméticos",
-  "NO_FRAME_NAME": "{{author}} Por favor proporciona el código del **Frame** que quieres comprar",
-  "NO_FRAMECODE_FOUND": "{{author}} No se ha podido encontrar ningún **Frame** con el código: `{{name}}`",
-  "FRAME_UNAVAILABLE": "{{author}} Ese **Frame** no está disponible actualmente. Usa el comando `{{prefix}}fs` para ver la rotación actual de **Frames**",
-  "FRAME_NOT_PURCHASABLE": "{{author}} Ese **Frame** es limitado y ya no puede ser comprado",
-  "EMBED_TITLE": "SOFI: TRANSACTION",
-  "YOU_GET": "Recibes:",
-  "YOU_PAY": "Pagas:",
-  "NO_ENOUGH_AMOUNT": "{{author}} No tiene suficientes **{{currency}}** para hacer esta compra",
-  "TRANSACTION_SUCCESSFUL": "{{author}} Comprado con éxito el **Frame** **{{frameName}}**",
-  "PROCESS_CANCELLED": "El proceso ha sido cancelado"
+    "BUYFRAME_DESCRIPTION": "Este comando es usado específicamente para comprar Frames del comando \"Frameshop\", en el cual podrás comprar tanto Frames oficiales, como hechos por la comunidad para tus cartas no-3D",
+    "BF_CATEGORY": "Cosméticos",
+    "NO_FRAME_NAME": "{{author}} Por favor proporciona el código del **Frame** que quieres comprar",
+    "NO_FRAMECODE_FOUND": "{{author}} No se ha podido encontrar ningún **Frame** con el código: `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} Ese **Frame** no está disponible actualmente. Usa el comando `{{prefix}}fs` para ver la rotación actual de **Frames**",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Ese **Frame** es limitado y ya no puede ser comprado",
+    "EMBED_TITLE": "SOFI: TRANSACTION",
+    "YOU_GET": "Recibes:",
+    "YOU_PAY": "Pagas:",
+    "NO_ENOUGH_AMOUNT": "{{author}} No tiene suficientes **{{currency}}** para hacer esta compra",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Comprado con éxito el **Frame** **{{frameName}}**",
+    "PROCESS_CANCELLED": "El proceso ha sido cancelado"
 }

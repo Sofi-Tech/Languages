@@ -1,7 +1,7 @@
 {
-  "MARKET_DESCRIPTION": "Pinapakita ang Sofi market",
-  "NO_LISTING_FOUND": "{{author}} Hindi mahanap ang anumang mga order sa merkado",
-  "MARKET_WARN": "```Ayusin\n⚠️ Huwag gamitin ang market para itago ang iyong \"Wists\". Ang pagkabigong sumunod sa panuntunang ito ay maaaring magresulta sa pag-alis ng mga nasabing item nang walang kabayaran!\n```\n **Average Rate**: **`{{average Rate}}` | Kabuuang Mga Trade** : **`{{totalTrades}}`**",
-  "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
-  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
+    "MARKET_DESCRIPTION": "Pinapakita ang Sofi market",
+    "NO_LISTING_FOUND": "{{author}} Hindi mahanap ang anumang mga order sa merkado",
+    "MARKET_WARN": "**Average Rate**: **`{{averageRate}}` | Kabuuang Trades**: **`{{totalTrades}}`**",
+    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }

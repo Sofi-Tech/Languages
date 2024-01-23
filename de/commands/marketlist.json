@@ -1,9 +1,9 @@
 {
     "MARKETLIST_DESCRIPTION": "Bietet deine \"Wists\" auf dem Markt an, die mit \"Gems\" von anderen Spielern gekauft werden können",
-    "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}ml <Amount> <Rate>`",
-    "INVALID_GEM_RATE": "{{user}} Die angegebene Rate ist ungültig",
-    "GEM_RATE_LIES": "{{user}} Die angegebene Rate muss zwischen **3.0 - 20.0** sein",
-    "ALREADY_EXISTS": "{{author}} Verwende `{{prefix}}mul{{dealID}}`um dein bereits existierendes Angebot zu entfernen",
+    "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}ml <Menge> <Kurs>`",
+    "INVALID_GEM_RATE": "{{user}} Der angegebene Kurs ist ungültig",
+    "GEM_RATE_LIES": "{{user}} Der angegebene Kurs muss zwischen **3.0 - 20.0** sein",
+    "ALREADY_EXISTS": "{{author}} Verwende `{{prefix}}mul {{dealID}}`um dein bereits existierendes Angebot zu entfernen",
     "PRODUCTS": "Listet:",
     "RATE": "Rate:",
     "VALUE": "Wert:",

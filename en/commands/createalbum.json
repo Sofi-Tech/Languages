@@ -1,5 +1,5 @@
 {
-  "CREATEALBUM_DESCRIPTION": "Creates an album",
-  "CATEGORY": "Album",
-  "CREATE_ALBUM": "{{author}} Create and edit your albums on our [website](<https://sofi.gg/albums>)"
+    "CREATEALBUM_DESCRIPTION": "This command will respond with a link to our official Sofi.gg website, where you will be able to create custom albums to showcase your cards in any way you like",
+    "CATEGORY": "Album",
+    "CREATE_ALBUM": "{{author}} Create and edit your albums on our [website](<https://sofi.gg/albums>)"
 }

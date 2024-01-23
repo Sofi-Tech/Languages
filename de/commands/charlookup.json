@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- Du kannst mit dem \"scl\"-Befehl nach einem bestimmten Charakter suchen. Im Charakter-Lookup-Menü kannst du die Statistiken der Karte, ihre Version/3D/GIF -Variante, Gen-Rangliste, Fan-Rangliste und die \"Karten-ID\" überprüfen.\nDie \"Karten-ID\" wird benötigt, wenn man Bilder für neue \"Versionen\" einreicht",
+    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Rangliste der Besitzer der niedrigsten Gens für diesen Charakter",
     "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden",
     "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",

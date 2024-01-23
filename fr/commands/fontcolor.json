@@ -1,5 +1,5 @@
 {
-    "FONTCOLOR_DESCRIPTION": "Change la couleur de la police d'une carte en lui appliquant un \"Glow\"",
+    "FONTCOLOR_DESCRIPTION": "Vous pouvez utiliser cette commande pour appliquer un Glow sur la police d'une carte, changeant sa couleur durant le processus. Ajouter le filtre \"reset\" à cette commande si vous souhaitez retirer un Glow existant sur la police d'une carte",
     "FC_CATEGORY": "Cosmétiques",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}fc <CodeDeCarte> <CodeDeGlow>`",
     "NOT_CARD_OWNER": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",

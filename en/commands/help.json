@@ -1,7 +1,7 @@
 {
-    "HELP_DESCRIPTION": "Displays a list of all available commands",
+    "HELP_DESCRIPTION": "Using this command without additional prompts will open a comprehensive list of all available commands within Sofi. If you add a specific command name as a prompt, it will instead open an embed explaining the use of the named command and display its proper usage formatting",
     "HELP_CATEGORY": "Settings",
-    "HELP_SLASH_DESC": "Name the command you want to know more about",
+    "HELP_SLASH_DESC": "Enter the name of the command you want to know more about",
     "FILTER_EMBED_TITLE": "SOFI: COLLECTION FILTERS",
     "FILTER_NAME": "<:pdot:979009081325019156> **Name** = [`n`/`name`] | **`sc n=NAME`**",
     "FILTER_SERIES": "<:pdot:979009081325019156> **Series** = [`s`/`series`] | **`sc s=SERIES`**",
@@ -43,7 +43,7 @@
     "GUIDE_BUTTON_LABEL": "Guide!",
     "EMBED_TITLE": "SOFI: HELP MENU",
     "EMBED_FOOTER": "Requested by {{username}}",
-    "COMMNAD_NOT_FOUND": "{{author}} There is no command with the name: `{{command}}`!\nAre you maybe looking for `{{commandName}}`?",
+    "COMMNAD_NOT_FOUND": "{{author}} There is no command with the name `{{command}}`!\nAre you maybe looking for `{{commandName}}`?",
     "USAGE_EMBED_TITLE": "SOFI: HELP ({{command}})",
     "ALIASES": "Aliases:",
     "COOLDOWN": "Cooldown:",

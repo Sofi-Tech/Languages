@@ -1,5 +1,5 @@
 {
-    "GUESS_DESCRIPTION": "Commence une partie de devinette de mot",
+    "GUESS_DESCRIPTION": "Utilisez cette commande pour commencer une partie de devinette de mots. Tous les joueurs qui rejoignent la partie de devinette de mots auront le montant de la monnaie affichée déduit de leur inventaire une fois que le jeu commence. Un mot anglais aléatoire sera selectionné puis mélangé. La première personne à écire avec succès le mot d'origine dans le chat sera le gagnant de la partie de devinette de mots et obtiendra la somme de tous les frais d'inscription",
     "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}guess <Montant> <Monnaie>`\nMonnaies acceptées: **Silver**, **Wists**, **Gems**, **Cubes**",
     "NO_TP": "{{author}} Vous avez besoin d'un **Trade Pass** actif pour organiser un jeu de devinette",
     "NOT_ENOUGH_CURR": "{{user}} Vous n'avez pas assez de **{{currency}}** pour commencer une partie",
