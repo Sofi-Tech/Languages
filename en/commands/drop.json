@@ -4,6 +4,6 @@
     "ON_CD": "{{author}} Your **Drop** will be ready in: **{{dropCd}}**",
     "VOTE": "Vote",
     "BUY_DROP": "\n\n- You can also **Vote** to receive **Wists**! Use the command `{{prefix}}buy drop` to exchange them",
-    "DROPPING_CARD": "{{author}} is **dropping** cards\n",
+    "DROPPING_CARD": "{{author}} is **dropping** cards",
     "WISHLIST_ALERT": "A card from your wishlist is dropping! {{users}}"
 }
