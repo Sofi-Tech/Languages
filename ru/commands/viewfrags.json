@@ -1,5 +1,5 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "Данная команда откроет инвентарь Fragment пользователя. Fragments используются для создания GIF версии персонажа. Вы можете использовать команду \"Pull\", чтобы получить их",
+    "VIEWFRAGS_DESCRIPTION": "Данная команда отображает инвентарь Fragments пользователя. Fragments используются для создания GIF версий персонажей. Вы можете использовать команду \"Pull\" для получения Fragments",
     "COLLECTION_PVT": "{{author}} Данный пользователь ограничил доступ к просмотру своих **Fragments**",
     "CANNOT_FIND_FRAGS": "{{user}} У данного пользователя нет **Fragments**",
     "FRAGS_COUNT": "Всего: {{totalCount}}",

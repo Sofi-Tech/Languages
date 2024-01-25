@@ -1,5 +1,5 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "Вы можете использовать данную команду для переноса всех карт из одной отметки в другую",
+    "TRANSFERTAG_DESCRIPTION": "Используйте данную команду для переноса всех карт из одной отметки в другую",
     "TRTAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}trt <fromOldTag> <toNewTag>`",
     "TAG_NOT_FOUND": "{{author}} У вас нет отметки с названием `{{tag}}`",
