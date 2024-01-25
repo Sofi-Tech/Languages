@@ -1,16 +1,14 @@
 {
-  "VOTE_DESCRIPTION": "Exibe as recompensas mensais dq \"Votação\"",
-  "VOTE_CATEGORY": "Configurações",
-  "VOTE": "Vote no Top.GG",
-  "BUMP": "Bump",
-  "EMBED_TITLE": "SOFI: VOTE",
-  "USE_WIST": "Você obterá um `Wist` <:wist:870339503427027005> para cada `Voto` bem-sucedido!",
-  "TOTAL_VOTES": "- Total de `Votos`: **{{totalVotes}}**",
-  "MONTHLY_VOTES": "- `Votos` mensais: **{{monthlyVotes}}**",
-  "CLAIM_EXOTIC_CHEST": "<:exoticchest:927502629687418920> **{{monthlyVotes}}** `Votos` restam para obter uma `Exotic Chest`",
-  "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contém até **1.000** `Cubes` ou um **{{frameName}}** `Frame`",
-  "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> **{{monthlyVotes}}** `Votos` restam para obter uma `Divine Chest`",
-  "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contém até **2.500** `Cubes` ou um **{{frameName}}** `Frame`",
-  "VOTE_RESET": "- Reinicia em: **{{countdown}}**",
-  "EMBED_FOOTER": "Você ganha o dobro de \"Wists\" em um fim de semana"
+    "VOTE_DESCRIPTION": "Exibe as recompensas mensais dq \"Votação\"",
+    "VOTE_CATEGORY": "Configurações",
+    "VOTE": "Vote no Top.GG",
+    "BUMP": "Bump",
+    "EMBED_TITLE": "SOFI: VOTE",
+    "USE_WIST": "Você obterá um `Wist` <:wist:870339503427027005> para cada `Voto` bem-sucedido!",
+    "TOTAL_VOTES": "- Total de `Votos`: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- `Votos` mensais: **{{monthlyVotes}}**",
+    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Contém até **1.000** `Cubes` ou um **{{frameName}}** `Frame`",
+    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Contém até **2.500** `Cubes` ou um **{{frameName}}** `Frame`",
+    "VOTE_RESET": "- Reinicia em: **{{countdown}}**",
+    "EMBED_FOOTER": "Você ganha o dobro de \"Wists\" em um fim de semana"
 }

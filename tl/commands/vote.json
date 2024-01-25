@@ -1,16 +1,14 @@
 {
-  "VOTE_DESCRIPTION": "Nagpapakita ng mga buwanang premyo mula sa \"Pagboto\"",
-  "VOTE_CATEGORY": "Mga Setting",
-  "VOTE": "Bumoto sa Top.GG",
-  "BUMP": "Bump",
-  "EMBED_TITLE": "SOFI: VOTE",
-  "USE_WIST": "Ikaw ay makakakuha ng`Wists` <:wist:870339503427027005> mula sa bawat mong `Vote`!",
-  "TOTAL_VOTES": "- Kabuuan ng `Votes`: **{{totalVotes}}**",
-  "MONTHLY_VOTES": "- Buwanang `Votes`: {{monthlyVotes}}",
-  "CLAIM_EXOTIC_CHEST": "**<:exoticchest:927502629687418920> **{{monthlyVotes}}** `Votes` ang natitira upang makakuha ng `Exotic Chest`",
-  "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Naglalaman ng hanggang sa **1,000** `Cubes` o isang **{{frameName}}** na `Frame`",
-  "CLAIM_DIVINE_CHEST": "<:divinechest:927502631155429399> **{{monthlyVotes}}** `Votes` ang natitira upang makakuha ng `Divine Chest`",
-  "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Naglalaman ng hanggang sa **2,500** na `Cubes` o isang **{{frameName}}** na `Frame`",
-  "VOTE_RESET": "- Magre-reset sa: **{{countdown}}**",
-  "EMBED_FOOTER": "Ikaw ay makakakuha ng dobleng halata ng \"Wists\" kapag weekend"
+    "VOTE_DESCRIPTION": "Nagpapakita ng mga buwanang premyo mula sa \"Pagboto\"",
+    "VOTE_CATEGORY": "Mga Setting",
+    "VOTE": "Bumoto sa Top.GG",
+    "BUMP": "Bump",
+    "EMBED_TITLE": "SOFI: VOTE",
+    "USE_WIST": "Ikaw ay makakakuha ng`Wists` <:wist:870339503427027005> mula sa bawat mong `Vote`!",
+    "TOTAL_VOTES": "- Kabuuan ng `Votes`: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- Buwanang `Votes`: {{monthlyVotes}}",
+    "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> Naglalaman ng hanggang sa **1,000** `Cubes` o isang **{{frameName}}** na `Frame`",
+    "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> Naglalaman ng hanggang sa **2,500** na `Cubes` o isang **{{frameName}}** na `Frame`",
+    "VOTE_RESET": "- Magre-reset sa: **{{countdown}}**",
+    "EMBED_FOOTER": "Ikaw ay makakakuha ng dobleng halata ng \"Wists\" kapag weekend"
 }

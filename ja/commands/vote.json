@@ -7,9 +7,7 @@
     "USE_WIST": "「投票」に成功すると、<:wist:870339503427027005> `Wist` を入手できます！",
     "TOTAL_VOTES": "> `投票総数`：{{totalVotes}}",
     "MONTHLY_VOTES": "> `今月の投票数`：{{monthlyVotes}}",
-    "CLAIM_EXOTIC_CHEST": " **<:exoticchest:927502629687418920>{{monthlyVotes}} `投票` で「エキゾチックチェスト」を入手できます**",
     "EXOTIC_CUBES_FRAMES": "<:curvedline:979665878503272478> **1,000** 個の `Cube` または **{{frameName}}** `Frame` を含みます",
-    "CLAIM_DIVINE_CHEST": " **<:divinechest:927502631155429399>{{monthlyVotes}} `投票` で「神聖チェスト」を入手できます**",
     "DIVINE_CUBES_FRAMES": "<:curvedline:979665878503272478> **2,500** 個の `Cube` または **{{frameName}}** `Frame` を含みます",
     "VOTE_RESET": "> {{countdown}} 後にリセットされます",
     "EMBED_FOOTER": "週末は Wist の獲得量が 2 倍になります"
