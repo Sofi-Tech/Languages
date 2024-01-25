@@ -1,5 +1,5 @@
 {
-    "MARKETLIST_DESCRIPTION": "Bietet deine \"Wists\" auf dem Markt an, die mit \"Gems\" von anderen Spielern gekauft werden können",
+    "MARKETLIST_DESCRIPTION": "Nutze diesen Befehl, um deine Wist auf dem Markt für Gems anzubieten",
     "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}ml <Menge> <Kurs>`",
     "INVALID_GEM_RATE": "{{user}} Der angegebene Kurs ist ungültig",
     "GEM_RATE_LIES": "{{user}} Der angegebene Kurs muss zwischen **3.0 - 20.0** sein",

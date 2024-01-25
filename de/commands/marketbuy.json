@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Kaufe \"Wists\" vom Markt im Austausch für \"Gems\"",
+    "MARKETBUY_DESCRIPTION": "Nutze diesen Befehl zusammen mit einer Auftrags-ID vom Markt und einer Menge, um ein Textfeld zu öffnen, in dem du Wist von einem anderen Spieler kaufen kannst. Mit dem \"Market\" Befehl kannst du alle verfügbaren Aufträge sehen",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} Die von dir angegebene Auftrags-ID ist ungültig",
     "CANNOT_PURCHASE": "{{user}} Du kannst mit diesem Angebot nicht interagieren",

@@ -1,6 +1,12 @@
 {
-  "GLOWTAGLIST_DESCRIPTION": "\"Glow Tags\"larınızı içeren bir liste görüntüler",
-  "GTL_CATEGORY": "Etiketler",
-  "NO_TAGS": "{{author}} Henüz herhangi bir `Glow Tag`'ınız yok",
-  "EMBED_TITLE": "SOFI: GLOWTAGLIST"
+    "GLOWTAGLIST_DESCRIPTION": "Bu komut tüm Glow etiketlerinizi içeren bir liste görüntüleyecektir",
+    "GTL_CATEGORY": "Etiketler",
+    "NO_TAGS": "{{author}} Henüz bir **Glow** etiketiniz yok",
+    "EMBED_TITLE": "SOFI: GLOW ETİKET LİSTESİ",
+    "GLOWS_few": "{{count}} Glowlar",
+    "GLOWS_two": "{{count}} Glowlar",
+    "GLOWS_other": "{{count}} Glowlar",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_zero": "{{count}} Glow",
+    "GLOWS_many": "{{count}} Glowlar"
 }

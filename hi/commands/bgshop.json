@@ -1,10 +1,10 @@
 {
-  "BGSHOP_DESCRIPTION": "Background Shop दर्शाता है।",
-  "BGS_CATEGORY": "COSMETICS",
-  "BGS_SLASH_DESC": "जिस Background की आप खोज कर रहे है उसका कॉड दर्ज करे",
-  "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
-  "APPLY_BG": "\n**Background** खरीदने के लिए `{{prefix}}buy bg <Background-ID> <Amount>` का उपयोग करें",
-  "VIEW_BACKGROUNDS": "[सभी मौजूदा **Background** देखे](<https://sofi.gg/backgrounds>)",
-  "SHOWING_PAGE": "पृष्ठ: {{page}}/{{pages}}",
-  "NO_BG_FOUND": "{{author}} उस ID से कोई **Background** नही मिला।"
+    "BGSHOP_DESCRIPTION": "यह कमांड Background shop खोलता है, जिसमें सभी उपलब्ध Background प्रदर्शित होते है जिन्हें आप अपने 3D कार्ड के लिए खरीद सकते हैं। संदेश पर किसी भी नाम पर क्लिक करने पर आपको वेबपेज पर ले जाया जाएगा जहा वह पृष्ठभूमि प्रदर्शित होगी।",
+    "BGS_CATEGORY": "COSMETICS",
+    "BGS_SLASH_DESC": "जिस Background की आप खोज कर रहे है उसका कॉड दर्ज करे",
+    "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
+    "APPLY_BG": "\n**Background** खरीदने के लिए `{{prefix}}buy bg <Background-ID> <Amount>` का उपयोग करें",
+    "VIEW_BACKGROUNDS": "[सभी मौजूदा **Background** देखे](<https://sofi.gg/backgrounds>)",
+    "SHOWING_PAGE": "पृष्ठ: {{page}}/{{pages}}",
+    "NO_BG_FOUND": "{{author}} उस ID से कोई **Background** नही मिला।"
 }

@@ -1,8 +1,8 @@
 {
-  "SS_MENTION_CHANNEL": "{{author}} Правильное использование: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-  "SS_CATEGORY": "Настройки",
-  "SS_SLASH_DESC": "Выбрать канал",
-  "SS_ENABLE": "{{author}} Канал появления установлен в {{channel}}",
-  "SETSPAWN_DESCRIPTION": "Устанавливает канал появления на сервере",
-  "SS_DISABLE": "{{author}} Карты больше не будут появляться на данном сервере"
+    "SS_MENTION_CHANNEL": "{{author}} Правильное использование: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+    "SS_CATEGORY": "Настройки",
+    "SS_SLASH_DESC": "Выбрать канал",
+    "SS_ENABLE": "{{author}} Канал появления установлен в {{channel}}",
+    "SETSPAWN_DESCRIPTION": "С помощью данной команды вы можете ",
+    "SS_DISABLE": "{{author}} Карты больше не будут появляться на данном сервере"
 }

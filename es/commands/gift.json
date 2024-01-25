@@ -4,7 +4,7 @@
     "GIFT_SUCCESSFUL": "{{author}} ha regalado **{{amount}}** **{{eventItem}}** a {{user}}\n{{user}} a recibido un total de **{{recieveCount}}** **{{eventItem}}**",
     "PLAYER_NOT_EXISTS": "{{author}} Ese usuario no está registrado",
     "GIFT_CATEGORY": "Cartas",
-    "GIFT_WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}gift <@Ususario/IDDeUsuario> <Cantidad>`",
+    "GIFT_WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}gift <CodigoDeCarta>`",
     "INVALID_USER": "{{author}} No puedes regalarte **{{eventItem}}** a ti mismo",
     "NOT_ENOUGH_ITEM": "{{author}} No tienes **{{amount}}** **{{eventItem}}**",
     "GIFT_SLASH_DESC2": "Introduce la cantidad de `{{eventItem}}` que quieres regalarles",

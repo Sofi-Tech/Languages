@@ -1,6 +1,6 @@
 {
-    "HELP_DESCRIPTION": "Zeigt eine Liste aller verfügbaren Befehle an",
-    "HELP_SLASH_DESC": "Nenne den Befehl, über den du mehr erfahren möchtest",
+    "HELP_DESCRIPTION": "Dieser Befehl ohne weitere Angaben zeigt eine Liste aller verfügbaren Befehle in Sofi. Wenn du den Namen eines Befehls angibst, wird stattdessen eine Textbox mit einer Erklärung und der korrekten Nutzungsweise des Befehls aufgerufen",
+    "HELP_SLASH_DESC": "Gib den Namen des Befehls ein, über den du mehr erfahren möchtest",
     "HELP_CATEGORY": "Einstellungen",
     "FILTER_EMBED_TITLE": "SOFI: COLLECTION FILTERS",
     "USE_FILTER_ORDER": "**__Sortiermöglichkeiten:__**\n\n<:pdot:979009081325019156> **Sortierung** = [`o`/`order`] | **`sc order wl>NUMMER o=d`**\n<:pdot:979009081325019156> **Absteigend** = [`d`] | `sc order wl>NUMMER o=d`\n<:pdot:979009081325019156> **Aufsteigend** = [`a`] | `sc order wl>NUMMER o=a`",

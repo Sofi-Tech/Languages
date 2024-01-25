@@ -1,5 +1,5 @@
 {
-    "DROP_DESCRIPTION": "Genera un \"Drop\" de cartas\nUsa el comando \"{{prefix}}dn\" para generar un \"Drop\" sin imágenes",
+    "DROP_DESCRIPTION": "Con este comando podrás generar un set de 3 cartas con Gens aleatorios. Puedes comprar Drops adicionales con el comando \"Shop\" con Wists, los cuales con obtienen votando por Sofi",
     "EXTRA_DROP_ALERT": "{{author}} Tu **Drop** está siendo usado. Te quedan **{{remaining}}**",
     "ON_CD": "{{author}} Tu **Drop** estará listo en: **{{dropCd}}**",
     "VOTE": "Vote",

@@ -1,5 +1,5 @@
 {
-    "PREFIX_DESCRIPTION": "Установка префикса Sofi на данном сервере",
+    "PREFIX_DESCRIPTION": "Данная команда позволяет установить префикс на вашем сервере. Указанный префикс будет необходим для дальнейшего использования команд Sofi",
     "PREFIX_CATEGORY": "Настройки",
     "PROVIDE_PREFIX": "{{author}} Правильное использование: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} Префикс для данного сервера установлен как `{{prefix}}`"

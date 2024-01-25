@@ -1,5 +1,5 @@
 {
-    "INVENTORY_DESCRIPTION": "Zeigt das Inventar eines Benutzers an",
+    "INVENTORY_DESCRIPTION": "Dieser Befehl zeigt das Inventar eines Nutzers an",
     "SLASH_DESC": "Wähle einen Benutzer aus, um dessen Inventar anzuzeigen",
     "SLASH_DESC2": "Gib das Item an, nach dem du suchen möchtest",
     "NOT_REGISTER": "{{author}} Dieser Benutzer ist nicht registriert",
@@ -21,6 +21,11 @@
     "NO_FRAMES_FOUND": "Es konnten keine **Frames** gefunden werden",
     "NO_CRYSTALS_FOUND": "Es konnten keine **Crystals** gefunden werden",
     "NO_EVENT_FOUND": "Es konnten keine Event Items gefunden werden",
-    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Wähle eine Kategorie",
-    "FRAME_CATEGORY_ALL": "Alle Frames"
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Wähle eine Frame Kategorie",
+    "FRAME_CATEGORY_ALL": "Alle Frames",
+    "FRAME_CATEGORY_MONTHLY": "Monatlich",
+    "FRAME_CATEGORY_LIMITED": "Limitiert",
+    "FRAME_CATEGORY_OFFICIAL": "Offiziell",
+    "FRAME_CATEGORY_CUSTOM": "Individuell",
+    "FRAME_CATEGORY_DISCONTINUED": "Eingestellt"
 }

@@ -1,13 +1,21 @@
 {
     "REGISTER_CATEGORY": "Impostazioni",
     "ALREADY_REGISTERED": "{{author}} Sei già registrato",
-    "REGISTER_DESCRIPTION": "Verifica il tuo account",
+    "REGISTER_DESCRIPTION": "Questo comando è necessario per poter iniziare a giocare a Sofi. Puoi anche usare questo comando per invitare un amico a giocare a Sofi",
     "EMBED_AUTHOR": "SOFI: REGISTER",
     "AGREE_BUTTON_LABEL": "Concordata!",
     "DISAGREE_BUTTON_LABEL": "Disaccordo!",
-        "VERIFY_BUTTON_LABEL": "Verificare",
-    "AGREE_TOS": "Accettando le regole di cui sopra, accetti i [Termini di Servizio](https://sofi.gg/terms \"Terms of Service\") & [Privacy Policy](https://sofi.gg/privacy)",
+    "VERIFY_BUTTON_LABEL": "Verificare",
+    "AGREE_TOS": "Accettando, accetti i [Termini di servizio](https://sofi.gg/terms \"Termini di servizio\") e [Informativa sulla privacy](https://sofi.gg/privacy) di Sofi",
     "EMBED_FOOTER": "{{count}} utenti sono stati verificati finora",
     "SUPPORT_BUTTON_LABEL": "Server di Supporto",
-    "DM_MESSAGE": "## Benvenuto nella comunità di Sofi!\n\nDi seguito troverai alcuni link che ti aiuteranno nel tuo viaggio verso Sofi!\n\n- [Server di Supporto ufficiale Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Guida online di Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Vota ogni giorno per ricevere **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"
+    "DM_MESSAGE": "## Benvenuto nella comunità di Sofi!\n\nDi seguito troverai alcuni link che ti aiuteranno nel tuo viaggio verso Sofi!\n\n- [Server di Supporto ufficiale Sofi](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Guida online di Sofi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Vota ogni giorno per ricevere **Wists**](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>",
+    "INVALID_USER": "{{author}} ID di utente che hai fornito non è valido",
+    "AUTHOR_NOT_VERIFIED": "{{author}} Non sei verificato",
+    "AUTHOR_NOT_REGISTERED": "{{author}} Non sei registrato",
+    "AUTHOR_QUARANTINE": "{{author}} Sei in quarantena",
+    "USER_ALREADY_REGISTERED": "{{author}} Questo utente è già registrato",
+    "VERIFY_MESSAGE": "Quasi lì! Fai clic sul pulsante in basso per verificarti sul nostro sito web.\nUnisciti al nostro [server di supporto ufficiale](<https://discord.gg/sofi>) in caso di problemi!",
+    "REFERRAL_FOOTER": "Sia tu che il tuo amico otterrete dei premi dopo la registrazione",
+    "REGISTER_MESSAGE": "Saluti {{user}}\n<:sofiwave:1008533250408456282>! Sei stato invitato a giocare Sofi.\nSperiamo di vederti in giro a collezionare carte e a partecipare ai nostri eventi!"
 }

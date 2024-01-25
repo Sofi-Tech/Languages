@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Zeigt den Sofi-Markt an",
+    "MARKET_DESCRIPTION": "Dieser Befehl zeigt alle zurzeit verfügbaren Auftrage auf dem Markt an. Der Markt kann von Spielern genutzt werden, um ihre Wist für Gems über den \"Marketlist\" Befehl  einzutauschen",
     "NO_LISTING_FOUND": "{{author}} Es konnten keine Aufträge auf dem Markt gefunden werden",
     "MARKET_WARN": "**Durchschnittskurs**: **`{{averageRate}}`| Gesamte Händel**: **`{{totalTrades}}`**",
-    "FOOTER": "Zeige Ergebnisse {{page}}-{{pages}} von {{total}}",
+    "FOOTER": "Zeige Ergebnisse {{page}}-{{pages}} von {{total}} | {{prefix}}mbuy <Auftrag-ID> <Menge>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Vorrat: `{{stockAmount}}` {{stockEmoji}} | Kurs: `{{rateAmount}}` {{rateEmoji}}"
 }

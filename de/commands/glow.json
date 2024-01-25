@@ -1,5 +1,5 @@
 {
-    "GLOW_DESCRIPTION": "Wendet einen \"Glow\"-Effekt auf deine Karte an",
+    "GLOW_DESCRIPTION": "Dieser Befehl wird den angegebenen Glow auf eine Karte in deiner Sammlung anwenden. Glows geben der Karte ein leuchtenden Effekt um den Rahmen des Frames. Du kannst Glows mit dem \"Unlockglow\" Befehl kaufen",
     "GLOW_CATEGORY": "Kosmetika",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
