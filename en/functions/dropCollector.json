@@ -10,6 +10,6 @@
     "CARDS_DROPPED_BY": "{{user}} has **dropped** cards",
     "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_VERSION_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** version token (`{{code}}`) **V{{version}}**",
-    "TOOK_VERSION": "{{winner}} **grabbed** the **{{character}}** version token (`{{code}}`) **V{{version}}**",
+    "TOOK_VERSION": "{{winner}} grabbed the **{{character}}** version token (`{{code}}`) **V{{version}}**",
     "GRAB_VERSION": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** version token (`{{code}}`) **V{{version}}**"
 }
