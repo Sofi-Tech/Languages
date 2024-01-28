@@ -1,12 +1,15 @@
 {
-  "EXTRA_GRAB": "{{user}} Your extra **Grab** is being used. You have **{{remaining}}** remaining",
-  "GRAB_COOLDOWN": "{{user}} You must wait **{{cooldown}}** to grab another card",
-  "EVENT_GRAB": "{{user}} unwrapped {{currencyEmoji}} **{{amount}}** **{{eventItem}}** surprises",
-  "TOOK_CARD": "{{user}} **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-  "SNATCHED_EVENT_ITEM": "{{winner}} sleighed away with {{amount}} festive Socks from <@{{userId}}> stocking stash!",
-  "GRAB_EVENT_ITEM": "{{winner}} snagged {{amount}} festive Socks in a snow fight against {{userCount}} others! <:xmassock:1183307747404558387>✨",
-  "GRAB_CARD": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-  "CANNOT_BE_GRABBED": "{{user}} The cards below can no longer be **grabbed**",
-  "CARDS_DROPPED_BY": "{{user}} has **dropped** cards",
-  "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+    "EXTRA_GRAB": "{{user}} Your extra **Grab** is being used. You have **{{remaining}}** remaining",
+    "GRAB_COOLDOWN": "{{user}} You must wait **{{cooldown}}** to grab another card",
+    "EVENT_GRAB": "{{user}} unwrapped {{currencyEmoji}} **{{amount}}** **{{eventItem}}** surprises",
+    "TOOK_CARD": "{{user}} **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "SNATCHED_EVENT_ITEM": "{{winner}} sleighed away with {{amount}} festive Socks from <@{{userId}}> stocking stash!",
+    "GRAB_EVENT_ITEM": "{{winner}} snagged {{amount}} festive Socks in a snow fight against {{userCount}} others! <:xmassock:1183307747404558387>✨",
+    "GRAB_CARD": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "CANNOT_BE_GRABBED": "{{user}} The cards below can no longer be **grabbed**",
+    "CARDS_DROPPED_BY": "{{user}} has **dropped** cards",
+    "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_VERSION_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** version token (`{{code}}`) **V{{version}}**",
+    "TOOK_VERSION": "{{winner}} grabbed the **{{character}}** version token (`{{code}}`) **V{{version}}**",
+    "GRAB_VERSION": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** version token (`{{code}}`) **V{{version}}**"
 }

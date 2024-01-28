@@ -4,7 +4,7 @@
     "PVT_EMBED_TITLE": "SOFI: PRIVATE",
     "PVT_PUBLIC": "Public",
     "PVT_PRIVATE": "Private",
-    "WRONG_ARGUMENTS": "{{author}} Correct usage: `{{prefix}}pvt <C/WL/INV>`",
+    "WRONG_ARGUMENTS": "{{author}} Correct usage: `{{prefix}}pvt <c/wl/inv/v>`",
     "PRIVATE_ENABLED": "{{author}} Your **{{content}}** is now private",
     "PRIVATE_DISABLED": "{{author}} Your **{{content}}** is no longer private"
 }
