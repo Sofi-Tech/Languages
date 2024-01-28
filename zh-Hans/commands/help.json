@@ -1,13 +1,9 @@
 {
     "HELP_CATEGORY": "设置",
-    "FILTER_NAME": "<:pdot:979009081325019156> **名称** = [`n`/`名称`] | **`sc n=名称`**",
+    "FILTER_NAME": "<:pdot:979009081325019156> **Name** = [`n`/`name`] | **`sc n=NAME`**\n<:pdot:979009081325019156> **Series** = [`s`/`series`] | **`sc s=SERIES`**\n<:pdot:979009081325019156> **Date** = [`d`/`date`] | **`sc d<DD/MM/YYYY`**\n<:pdot:979009081325019156> **Gen** = [`g`/`gen`] | **`sc g>GEN`**\n<:pdot:979009081325019156> **Wishlist**= [`w`/`wl`/`wishlist`] | **`sc wl>=WISHLIST`**\n<:pdot:979009081325019156> **Page** = [`p`] | **`sc p=NUMBER`**\n<:pdot:979009081325019156> **Element** = [`e`/`el`/`element`] | **`sc e=ELEMENT`**\n<:pdot:979009081325019156> **Tag** = [`t`/`tag`] | **`sc t=TAGNAME`**\n<:pdot:979009081325019156> **Attack** = [`atk`/`attack`] | **`sc atk>NUMBER`**\n<:pdot:979009081325019156> **Defense** = [`def`/`defense`] | **`sc def>NUMBER`**\n<:pdot:979009081325019156> **Speed** = [`spd`/`speed`] | **`sc spd>NUMBER`**\n<:pdot:979009081325019156> **Health** = [`hp`/`health`] | **`sc hp>NUMBER`**\n<:pdot:979009081325019156> **Code** = [`c`/`code`] | **`sc c=CODE`**\n<:pdot:979009081325019156> **Morphed** = [`m`/`morph`/`morphed`] | **`sc m=TRUE/FALSE`**\n<:pdot:979009081325019156> **3D** = [`3d`/`threed`] | **`sc 3d=TRUE/FALSE`**\n<:pdot:979009081325019156> **Glow** = [`glow`/`glowed`] | **`sc glow=TRUE/FALSE`**\n<:pdot:979009081325019156> **Frame** = [`f`/`frame`/`framed`] **`sc f=TRUE/FALSE`**\n<:pdot:979009081325019156> **Version** = [`v`/`ver`/`version`] | **`sc v=NUMBER`**\n<:pdot:979009081325019156> **Category** = [`cat`/`category`] **`sc cat=CATEGORY`**\n<:pdot:979009081325019156> **Level** = [`lvl`/`level`] | **`sc lvl>=NUMBER`**\n<:pdot:979009081325019156> **Event** = [`ev`/`event`] | **`sc ev:NAME/T`**",
     "FILTER_EMBED_TITLE": "SOFI: HELP",
-    "FILTER_DATE": "<:pdot:979009081325019156> **日期** = [`d`/`日期`] | **`sc d<日/月/年`**",
     "FILTER_PAGE": "<:pdot:979009081325019156> **页面** = [`p`] | **`sc p=数字`**",
-    "FILTER_TAG": "<:pdot:979009081325019156> **标签** = [`t`/`tag`] | **`sc t=标记名称`**",
     "FILTER_SPEED": "<:pdot:979009081325019156> **速度** = [`spd`/`速度`] | **`sc 速度>数字`",
-    "FILTER_MORPHED": "<:pdot:979009081325019156> **变形** = [`m`/`变形`/`变形`] | **`sc m=真/假`**",
     "HELP_DESCRIPTION": "显示所有可用命令的列表",
-    "HELP_SLASH_DESC": "命名您想了解更多信息的命令",
-    "FILTER_ATTACK": "<:pdot:979009081325019156> **攻击** = [`atk`/`攻击`] | **`sc atk>数字`**"
+    "HELP_SLASH_DESC": "命名您想了解更多信息的命令"
 }
