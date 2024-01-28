@@ -1,5 +1,5 @@
 {
-    "MULTITRADE_DESCRIPTION": "Envía una solicitud de intercambio a otro jugador. Puedes intercambiar múltiples cartas e \"Items\" simultáneamente con esta característica",
+    "MULTITRADE_DESCRIPTION": "Eeste comando enviará una solicitud de intercambio al otro jugador que hayas seleccionado. Una vez que acepten tu solicitud, el mensaje embed permitirá a ambos jugadores agregar multiples cartas y objetos simultaneamente. Una vez que ambas partes hayan bloqueado su sección y acordado su intercambio, los contenidos de la ventana de intercambio opuesta seran agregados a tu cuenta",
     "MENTION_USER": "{{author}} Uso correcto: `{{prefix}}mt <@Usuario/IDDeUsuario>`",
     "IN_TRADE": "{{user}} Ya has enviado una solicitud de intercambio a alguien. Cancela la anterior antes de iniciar una nueva",
     "BOT_TRADE": "{{author}} No puedes hacer intercambios con un `BOT`",

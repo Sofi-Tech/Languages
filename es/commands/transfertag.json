@@ -1,7 +1,7 @@
 {
-  "TRANSFERTAG_DESCRIPTION": "Transfiere cartas de un \"Tag\" a otro",
-  "TRTAG_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}trt <DesdeTagAntiguo> <ATagNuevo>`",
-  "TAG_NOT_FOUND": "{{author}} No tienes ningún tag con el nombre `{{tag}}`",
-  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Se han transferido con éxito todas las cartas del tag `{{fromTag}}` a `{{toTag}}`"
+    "TRANSFERTAG_DESCRIPTION": "Puedes usar este comando para transferir todas las cartas de un tag a otro",
+    "TRTAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}trt <DesdeTagAntiguo> <ATagNuevo>`",
+    "TAG_NOT_FOUND": "{{author}} No tienes ningún tag con el nombre `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Se han transferido con éxito todas las cartas del tag `{{fromTag}}` a `{{toTag}}`"
 }

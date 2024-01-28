@@ -6,7 +6,7 @@
     "UI_GUILD_JOINED": "<:_:979009081325019156> Unido al Guild - **{{guild}}**",
     "USER_IS_BOT": "{{author}} Ese usuario es un `BOT` de Discord",
     "USER_NOT_REGISTERED": "{{author}} Ese usuario no está registrado",
-    "USERINFO_DESCRIPTION": "Muestra las estadísticas de un usuario",
+    "USERINFO_DESCRIPTION": "Usar este comando abrirá un mensaje embed listando varias estadísticas de la cuenta de Sofi de un usuario. También puedes seleccionar un idioma diferente usando el menú que se encuentra en la parte inferior",
     "UI_CATEGORY": "Configuración",
     "UI_3D": "3D",
     "UI_ATTACKS": "Ataques",
@@ -44,5 +44,6 @@
     "UI_SOLD": "Vendido",
     "UI_PULL": "Pulls",
     "UI_TP_EXPIRED": "Caducado",
-    "LANG_CHANGE_SUCCESS": "{{author}} ¡Tu idioma ha sido cambiado con éxito a **{{language}}**! Ten en cuenta que nuestra actualización de traducción se encuentra todavía en las primeras fases de desarrollo y aún no cubre todos nuestros comandos!\n\nLos comandos no traducidos incluyen:\n\n- **Deck**\n- **Stats**\n- **Fuse**\n- **Event**\n- **Guild/Raid Commands**\n\nSi te encuentras texto que falta, una traducción incorrecta o embeds y funciones rotas al utilizar este idioma, te animamos a que nos informes de estos problemas mediante el comando `{{prefix}}slr <DescripciónDelError>` o haciendo clic con el botón derecho del ratón en el mensaje, pasando por encima de la sección \"Aplicaciones\" en Discord y presionando el botón \"Report a translation\". Si lo prefieres, puedes reportar errores en el [Servidor de Soporte Oficial](<https://discord.gg/sofi>)!"
+    "LANG_CHANGE_SUCCESS": "{{author}} ¡Tu idioma ha sido cambiado con éxito a **{{language}}**! Ten en cuenta que nuestra actualización de traducción se encuentra todavía en las primeras fases de desarrollo y aún no cubre todos nuestros comandos!\n\nLos comandos no traducidos incluyen:\n\n- **Deck**\n- **Stats**\n- **Fuse**\n- **Event**\n- **Guild/Raid Commands**\n\nSi te encuentras texto que falta, una traducción incorrecta o mensajes embed y funciones rotas al utilizar este idioma, te animamos a que nos informes de estos problemas mediante el comando `{{prefix}}slr <DescripciónDelError>` o haciendo clic con el botón derecho del ratón en el mensaje, pasando por encima de la sección \"Aplicaciones\" en Discord y presionando el botón \"Report a translation\". Si lo prefieres, puedes reportar errores en el [Servidor de Soporte Oficial](<https://discord.gg/sofi>)!",
+    "UI_INVITED": "Invitado"
 }

@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Usa este comando en combinación con el nombre del objeto y la cantidad que quieras comprar abrira un embed de transacción para comprar dicho objeto. Usa el comando \"Shop\" para ver todos los objetos disponibles",
+    "BUY_DESCRIPTION": "Usar este comando en combinación con el nombre del objeto y la cantidad que quieras comprar abrirá un mensaje embed de transacción para comprar dicho objeto. Usa el comando \"Shop\" para ver todos los objetos disponibles",
     "SLASH_DESC": "Introduce el nombre del item que quieres comprar",
     "SLASH_DESC2": "Introduce la cantidad",
     "SLASH_DESC3": "Introduce el código del **Background** que quieres comprar. [FUNCIONA SÓLO SI EL ITEM ESTÁ SELECCIONADO COMO BACKGROUND]",
@@ -11,5 +11,5 @@
     "INVALID_ITEM_PROVIDED": "{{user}} El item que has proporcionado no es válido",
     "BUY_CHARM_CONFIRMATION": "## Estas comprando {{amount}} <:xcharm:988729774031638528>",
     "BUY_CHARMS_MULTIPLES": "{{author}} Solo puedes comprar **Charms** en múltiplos de 100",
-    "BUY_GEN_CONFIRMATION": "## Estas comprando {{count}} gen scratcher"
+    "BUY_GEN_CONFIRMATION": "## Estás comprando {{count}} gen scratcher"
 }

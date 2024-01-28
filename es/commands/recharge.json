@@ -1,14 +1,14 @@
 {
-  "NO_GLOWCDE": "{{author}} Uso correcto: `{{prefix}}rg <#CódigoDeGlow>`",
-  "INVALID_DC_MOVIES": "{{author}} Los códigos de **Glow** siempre empiezan con un `#`",
-  "GLOW_NOT_FOUND": "{{author}} El código de **Glow** que has proporcionado no es válido o no está en tu inventario",
-  "RG_CATEGORY": "Cosméticos",
-  "RECHARGE_DESCRIPTION": "Rellena un \"Glow\" vacío",
-  "UNLOCK_GLOWS": "{{author}} Aún no tienes ningún **Glow**",
-  "NO_MONEY": "{{author}} No tienes suficientes **Recharges** para este proceso!",
-  "GLOW_AVAILABLE": "{{author}} Ese **Glow** ya está cargado",
-  "EMBED_TITLE": "SOFI: RECHARGE GLOW",
-  "RECHARGE_CONFIRMATION": "¿Seguro que quieres cargar este **Glow**?\n\nNombre: **{{name}}**\nCódigo: `{{glowCode}}`\nPrecio: **{{cost}}** <:recharge_sofi:926846363537387530>",
-  "SUCCESSFUL_RECHARGE": "{{author}} Cargado con éxito tu **Glow** **{{glowName}}**!",
-  "SUPER_RECHARGE_CONFIRMATION": "¿Seguro que quieres cargar este **Glow**?\n\nNombre: **{{name}} (Super)**\nCódigo: `{{glowCode}}`\nPrecio: **{{cost}}** <:recharge_sofi:926846363537387530>"
+    "NO_GLOWCDE": "{{author}} Uso correcto: `{{prefix}}rg <#CódigoDeGlow>`",
+    "INVALID_DC_MOVIES": "{{author}} Los códigos de **Glow** siempre empiezan con un `#`",
+    "GLOW_NOT_FOUND": "{{author}} El código de **Glow** que has proporcionado no es válido o no está en tu inventario",
+    "RG_CATEGORY": "Cosméticos",
+    "RECHARGE_DESCRIPTION": "Usa este comando para rellenar un Glow vacío. Este proceso requiere de un Recharge, el cual se puede comprar en la tienda",
+    "UNLOCK_GLOWS": "{{author}} Aún no tienes ningún **Glow**",
+    "NO_MONEY": "{{author}} No tienes suficientes **Recharges** para este proceso!",
+    "GLOW_AVAILABLE": "{{author}} Ese **Glow** ya está cargado",
+    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+    "RECHARGE_CONFIRMATION": "¿Seguro que quieres cargar este **Glow**?\n\nNombre: **{{name}}**\nCódigo: `{{glowCode}}`\nPrecio: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "SUCCESSFUL_RECHARGE": "{{author}} Cargado con éxito tu **Glow** **{{glowName}}**!",
+    "SUPER_RECHARGE_CONFIRMATION": "¿Seguro que quieres cargar este **Glow**?\n\nNombre: **{{name}} (Super)**\nCódigo: `{{glowCode}}`\nPrecio: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

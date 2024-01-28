@@ -1,15 +1,15 @@
 {
-  "VIEW_DESCRIPTION": "Muestra una carta",
-  "SLASH_DESC1": "Introduce un código de carta",
-  "INVALID_CODE": "{{author}} Ese código de carta no es válido",
-  "SERIES": "Serie:",
-  "NAME": "Nombre:",
-  "OWNED_BY": "Propiedad de:",
-  "SERVER": "ID del Servidor:",
-  "CLAIMED": "Obtenida el:",
-  "MOVES": "Habilidades",
-  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potencia **({{percentage}}%)**",
-  "EMBED_TITLE": "SOFI: VIEW",
-  "SPECIAL": "Especial",
-  "INFO_BUTTON_LABEL": "Info"
+    "VIEW_DESCRIPTION": "Este comando mostrará la apariencia visual de una carta en específico. Usa este comando sin un código de carta para mostrar tu última carta obtenida",
+    "SLASH_DESC1": "Introduce un código de carta",
+    "INVALID_CODE": "{{author}} Ese código de carta no es válido",
+    "SERIES": "Serie:",
+    "NAME": "Nombre:",
+    "OWNED_BY": "Propiedad de:",
+    "SERVER": "ID del Servidor:",
+    "CLAIMED": "Obtenida el:",
+    "MOVES": "Habilidades",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potencia **({{percentage}}%)**",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "SPECIAL": "Especial",
+    "INFO_BUTTON_LABEL": "Info"
 }

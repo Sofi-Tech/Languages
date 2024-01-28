@@ -1,5 +1,5 @@
 {
-    "BURN_DESCRIPTION": "Usa este comando para quemar determinadas cartas a cambio de Silver & Cubes los cuales son requeridos para mejorar cartas a su variante 3D. Usando este comando sin agregar un código de carta provocará que la última carta agarrada pueda ser quemada",
+    "BURN_DESCRIPTION": "Usa este comando para quemar determinadas cartas a cambio de Silver & Cubes los cuales son requeridos para mejorar cartas a su variante 3D. Usando este comando sin agregar un código de carta provocará que la última carta obtenida pueda ser quemada",
     "GUILDSTONE_BURN": "¿Estás seguro de que quieres quemar tu **Guild Stone**?",
     "GUILDSTONE_NOT_FOUND": "{{author}} No tienes ningún **Guild Stone**",
     "CANCELLED": "El proceso ha sido cancelado",
@@ -17,5 +17,5 @@
     "BURN_CARD_LOCKED": "{{author}} Esa carta se utiliza actualmente en un deck y no puede ser quemada",
     "NAME": "Nombre:",
     "GIF_CARD": "{{author}} No puedes quemar una carta **GIF**",
-    "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
+    "QUEST_CARD": "No puedes quemar una carta que está siendo usada en una quest"
 }

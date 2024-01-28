@@ -1,5 +1,5 @@
 {
-    "TAGDELETE_DESCRIPTION": "Elimina un \"Tag\"",
+    "TAGDELETE_DESCRIPTION": "Usa este comando para eliminar un tag",
     "TD_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}dt <NombreDelTag>`",
     "TAG_NOT_FOUND": "{{author}} No tienes ningún tag con el nombre `{{arg}}`",

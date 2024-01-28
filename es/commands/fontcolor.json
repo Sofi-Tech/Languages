@@ -1,5 +1,5 @@
 {
-    "FONTCOLOR_DESCRIPTION": "Puedes usar este comando para aplicar un Glow en la letra de la carta, cambiando su color en el proceso. Agrega el prompt adicional \"reset\" a este comando si deseas remover un Glow existente en la letra de alguna carta",
+    "FONTCOLOR_DESCRIPTION": "Puedes usar este comando para aplicar un Glow a las letras de una carta, cambiando su color en el proceso. Adicionalmente, puedes agregar el parámetro \"reset\" a este comando si deseas eliminar un Glow existente en la letra de alguna carta",
     "FC_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}fc <CódigoDeCarta> <CódigoDeGlow>`",
     "NOT_CARD_OWNER": "{{author}} El código de carta que proporcionaste no es válido o no está en tu colección",

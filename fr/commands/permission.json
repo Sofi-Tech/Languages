@@ -1,7 +1,7 @@
 {
     "NO_PERMS_SETUP": "{{author}} Cette permission n'est pas encore configurée dans ce salon. Pour la configurer, utilisez `{{prefix}}p [BL/WL] [Add] <NomCommande/All>`",
     "REMOVE_COMMANDS_INFO": "Supprimer: Supprimez des commandes spécifiques de la **{{listName}}**\n",
-    "PERMISSION_DESCRIPTION": "Vous permet de mettre sur liste blanche ou sur liste noire des commandes spécifiques dans le salon.",
+    "PERMISSION_DESCRIPTION": "Avec cette commande vous pouvez mettre sur Liste Blanche ou Noire des commandes dans le salon où elle est utilisée. Les commandes sur Liste Blanche seront les seules commandes utilisables dans le salon, tandis que les commandes sur Liste Noire seront les seules inutilisables dans le salon",
     "PERMS_CATEGORY": "Paramètres",
     "BLACKLIST_BUTTON_LABEL": "Liste noire",
     "WHITELIST_BUTTON_LABEL": "Liste blanche",

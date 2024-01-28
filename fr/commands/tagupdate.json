@@ -1,5 +1,5 @@
 {
-    "TAGUPDATE_DESCRIPTION": "Modifie le nom ou l'emoji de vos \"Tags\"",
+    "TAGUPDATE_DESCRIPTION": "Utilisez cette commande pour mettre à jour le nom ou emoji d'un tag",
     "TU_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}tu <NomDuTag>`",
     "TAG_NOT_FOUND": "{{author}} Aucun tag trouvé avec le nom `{{tag}}`",

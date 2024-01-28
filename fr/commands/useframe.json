@@ -1,5 +1,5 @@
 {
-    "USEFRAME_DESCRIPTION": "Applique une \"Frame\" à votre carte",
+    "USEFRAME_DESCRIPTION": "Cette commande appliquera une Frame sélectionnée de votre choix. Vous pouvez acheter des Frames en utilisant la commande \"Frameshop\"",
     "UF_CATEGORY": "Cosmétiques",
     "UF_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}uf <CodeCarte> <NomFrame/CodeFrame>`",
     "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est soit invalide soit n'est pas dans votre collection",

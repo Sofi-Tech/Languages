@@ -1,5 +1,5 @@
 {
-    "FRAMESHOP_DESCRIPTION": "Este comando abrirá un embed el cual mostrará los Frames que estarán disponibles para comprar en el momento. Los Frames mostrados en la tienda rotaran en un set de intervalo, después dejaran de estar disponibles para comprar. Los Official Frames pueden ser comprados una cantidad ilimitada de veces, mientras que los Frames hechos por la comunidad tienen un stock limitado ",
+    "FRAMESHOP_DESCRIPTION": "Este comando abrirá un mensaje embed el cual mostrará los Frames que estarán disponibles para comprar en el momento. Los Frames mostrados en la tienda rotarán en un intervalo de tiempo, después dejarán de estar disponibles para comprar. Los Official Frames pueden ser comprados una cantidad ilimitada de veces, mientras que los Frames hechos por la comunidad tienen un stock limitado",
     "FS_CATEGORY": "Cosméticos",
     "FS_SLASH_DESC": "Introduce el código del \"Frame\" que quieres previsualizar",
     "NO_DESCRIPTION_FOUND": "Este Frame aún no tiene descripción",

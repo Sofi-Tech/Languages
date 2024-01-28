@@ -1,8 +1,8 @@
 {
-  "SETSPAWN_DESCRIPTION": "Establece el canal de drops por actividad en el servidor",
-  "SS_CATEGORY": "Configuración",
-  "SS_MENTION_CHANNEL": "{{author}} Uso correcto: `{{prefix}}ss <#MenciónDeCanal/IDDelCanal>`",
-  "SS_SLASH_DESC": "Selecciona un canal",
-  "SS_DISABLE": "{{author}} Las cartas ya no se dropearán en este canal",
-  "SS_ENABLE": "{{author}} El canal de drops por actividad ha sido establecido en {{channel}}"
+    "SETSPAWN_DESCRIPTION": "Usar este comando en un canal, o mencionando uno, estrablecerá o eliminará el mismo como canal de generacion. Dependiendo de la ascendente actividad en el servidor, Sofi va a droppear cartas por si misma en el canal especificado",
+    "SS_CATEGORY": "Configuración",
+    "SS_MENTION_CHANNEL": "{{author}} Uso correcto: `{{prefix}}ss <#MenciónDeCanal/IDDelCanal>`",
+    "SS_SLASH_DESC": "Selecciona un canal",
+    "SS_DISABLE": "{{author}} Las cartas ya no se dropearán en este canal",
+    "SS_ENABLE": "{{author}} El canal de drops por actividad ha sido establecido en {{channel}}"
 }

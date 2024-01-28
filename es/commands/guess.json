@@ -1,5 +1,5 @@
 {
-    "GUESS_DESCRIPTION": "Usa este comando para empezar un juego de adivinanza. Todos los jugadores que se unan el juego de adivinanza se les restara el numero de divisa mostrado del inventario una vez que empiece el juego. Una palabra aleatoria en inglés será seleccionada y mezclada. La primera persona en escribir la palabra original en el chat será el ganador del juego de adivinanza y obtendrá la suma de todas las tarifas de entrada",
+    "GUESS_DESCRIPTION": "Usa este comando para empezar un juego de adivinanza. Todos los jugadores que se unan al juego se les restará la cantidad de divisa mostrada del inventario una vez que empiece el juego. Una palabra aleatoria en inglés será seleccionada y mezclada. La primera persona en escribir la palabra original en el chat será el ganador del juego y obtendrá la suma de todas las tarifas de entrada",
     "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}guess <Cantidad> <Divisa>`\nDivisas aceptadas: **Silver**, **Wists**, **Gems**, **Cubes**",
     "NO_TP": "{{author}} Necesitas un **Trade Pass** activo para organizar un juego de adivinanzas",
     "NOT_ENOUGH_CURR": "{{user}} No tienes suficientes **{{currency}}** para comenzar el juego",

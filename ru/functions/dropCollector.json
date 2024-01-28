@@ -1,6 +1,6 @@
 {
     "GRAB_CARD": "{{winner}} Вы отбились от {{user}} и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_EVENT_ITEM": "{{winner}} snagged {{amount}} festive Socks in a snow fight against {{userCount}} others! 🎄✨",
+    "GRAB_EVENT_ITEM": "{{winner}} snagged {{amount}} festive Socks in a snow fight against {{userCount}} others! <:xmassock:1183307747404558387>✨",
     "EXTRA_GRAB": "{{user}} Ваш дополнительный **Grab** использован. У вас осталось **{{remaining}}**",
     "GRAB_COOLDOWN": "{{user}} Подождите **{{cooldown}}**, чтобы подобрать другую карту",
     "EVENT_GRAB": "{{user}} unwrapped {{currencyEmoji}} **{{amount}}** **{{eventItem}}** surprises",

@@ -1,5 +1,5 @@
 {
-    "UNDOGLOW_DESCRIPTION": "Retire le \"Glow\" d'une carte",
+    "UNDOGLOW_DESCRIPTION": "Utiliser cette commande sur une carte retira le Glow appliqué dessus",
     "UNG_CATEGORY": "Cosmétiques",
     "UNG_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}ung <CodeDeCarte>`",
     "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est soit invalide soit n'est pas dans votre collection",

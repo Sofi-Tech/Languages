@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Achetez des \"Wists\" depuis le marché en échange de \"Gems\"",
+    "MARKETBUY_DESCRIPTION": "Utiliser cette commande en combinaison avec un ID d'Annonce du marché suivi d'une quantité, ouvrira un embed de transaction pour acheter des Wists à un autre joueur. Utilisez la commande \"Market\" pour voir toutes les annonces disponibles",
     "CORRECT_USAGE": "{{author}} Utilisation correcte:`{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
     "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fournis est invalide",
     "CANNOT_PURCHASE": "{{user}} Vous ne pouvez pas interagir avec cette annonce",

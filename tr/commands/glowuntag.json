@@ -1,10 +1,10 @@
 {
-  "GLOWUNTAG_DESCRIPTION": "\"Glow Tags\"ı kaldırır",
-  "GUT_CATEGORY": "Etiketler",
-  "NO_GLOWS_FOUND": "{{author}} Henüz hiç `Glows`'unuz yok",
-  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` kodları her zaman `#` ile başlar",
-  "INVALID_GLOWCODE": "{{author}} Bu `Glow` kodu geçersiz veya `Inventory`'nizde bulunmuyor",
-  "GLOW_UNTAG_SUCCESSFUL": "{{author}} **{{glow}}** `Glow` öğenizin `Tag`'ı başarıyla kaldırdı",
-  "GLOW_UNTAG_PLURAL": "{{author}} **{{count}}** Adet `Glows`'unuzun `Glow Tag`'ı başarıyla kaldırdı",
-  "INVALID_GLOWCODE_MULTIPLE": "{{author}} Aşağıdaki `Glow` kodları geçersiz veya `Inventory`'nizde bulunmuyor:\n{{invalidCodeList}}"
+    "GLOWUNTAG_DESCRIPTION": "Belirtilen bir Glow'dan bir etiketi kaldırmak için bu komutu kullanın",
+    "GUT_CATEGORY": "Etiketler",
+    "NO_GLOWS_FOUND": "{{author}} Henüz hiç **Glows**'unuz yok",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} **Glow** kodları her zaman `#` ile başlar",
+    "INVALID_GLOWCODE": "{{author}} Bu **Glow** kodu geçersiz veya envanterinizde bulunmuyor",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} **{{glow}}** **Glow**'unuzdan etiket başarıyla kaldırıldı",
+    "GLOW_UNTAG_PLURAL": "{{author}} **{{count}}** **Glows**'lardan etiket başarıyla kaldırıldı",
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Aşağıdaki **Glow** kodları geçersiz veya envanterinizde bulunmuyor:\n{{invalidCodeList}}"
 }

@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Shop से Items खरीदता है।",
+    "BUY_DESCRIPTION": "यह कमांड का आइटम के नाम और मात्रा के संयोजन के साथ उपयोग करने पर विशिष्ट चीज को खरीदने के लिए लेन-देन का एम्बेड खोलेगा। \"Shop\" कमांड का उपयोग करके सभी उपलब्ध चीजों को देखे।",
     "SLASH_DESC": "जिस आइटम को खरीदना चाहते है उसका नाम दर्ज करे।",
     "SLASH_DESC2": "मात्रा दर्ज करें",
     "SLASH_DESC3": "वह Background कोड दर्ज करें जिसे आप खरीदना चाहते हैं। [केवल तभी काम करता है जब आइटम को Background के रूप में चुना गया हो]",
@@ -10,5 +10,6 @@
     "INVALID_BG_ID": "{{author}} उस ID से कोई **Background** नही मिला।",
     "INVALID_ITEM_PROVIDED": "{{user}} प्रदान किया गया आइटम अमान्य है।",
     "BUY_CHARMS_MULTIPLES": "{{author}} आप केवल 100 के गुणांक में ही **Charms** खरीद सकते है।",
-    "BUY_CHARM_CONFIRMATION": "## आप {{amount}} खरीदने जा रहे है <:xcharm:988729774031638528>"
+    "BUY_CHARM_CONFIRMATION": "## आप {{amount}} खरीदने जा रहे है <:xcharm:988729774031638528>",
+    "BUY_GEN_CONFIRMATION": "## आप {{count}} gen scratchers खरीद रहे है"
 }

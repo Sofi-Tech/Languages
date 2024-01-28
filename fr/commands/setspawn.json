@@ -1,8 +1,8 @@
 {
-  "SETSPAWN_DESCRIPTION": "Définit le salon d'apparition sur le serveur",
-  "SS_MENTION_CHANNEL": "{{author}} Utilisation correcte: `{{prefix}}ss <#MentionDuSalon/IDDuSalon>`",
-  "SS_CATEGORY": "Réglages",
-  "SS_SLASH_DESC": "Sélectionnez un salon",
-  "SS_DISABLE": "{{author}} Les cartes n'apparaîtront plus sur ce serveur",
-  "SS_ENABLE": "{{author}} Le salon d'apparition a été défini dans {{channel}}"
+    "SETSPAWN_DESCRIPTION": "Utiliser cette commande dans un salon ou en mentionnant un salon définira ou supprimera le salon en question comme salon d'apparition. En fonction de l'activité du serveur, Sofi droppera parfois des cartes par elle-même dans le salon spécifié",
+    "SS_MENTION_CHANNEL": "{{author}} Utilisation correcte: `{{prefix}}ss <#MentionDuSalon/IDDuSalon>`",
+    "SS_CATEGORY": "Réglages",
+    "SS_SLASH_DESC": "Sélectionnez un salon",
+    "SS_DISABLE": "{{author}} Les cartes n'apparaîtront plus sur ce serveur",
+    "SS_ENABLE": "{{author}} Le salon d'apparition a été défini dans {{channel}}"
 }

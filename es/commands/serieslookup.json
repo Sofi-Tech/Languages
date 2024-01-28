@@ -1,12 +1,12 @@
 {
-  "SERIESLOOKUP_DESCRIPTION": "Busca una serie en específico",
-  "NO__LAST_CHAR_FOUND": "{{author}} Aún no tienes ninguna carta en tu colección",
-  "NO_CHAR_FOUND": "{{author}} Esta serie aún no tiene ningún personaje",
-  "NO_SERIES_FOUND": "{{author}} No se ha encontrado ninguna serie con el nombre `{{name}}`",
-  "SERIES": "SOFI: SERIES LOOKUP",
-  "ERROR": "{{author}} Ha ocurrido un error. Por favor, inténtelo de nuevo",
-  "CARD_COLLECTED": "Cartas Coleccionadas: **{{collected}}/{{totalCards}}**",
-  "TOTAL_WL": "Deseados Totales: **{{wlCount}}**",
-  "CHARACTERS": "**__Personajes__**",
-  "SERIES_NAME": "Nombre: **{{seriesName}}**"
+    "SERIESLOOKUP_DESCRIPTION": "Con este comando puedes revisar cualquier serie que quieras. El mensaje embed generado mostrará todos los personajes de la serie especificada",
+    "NO__LAST_CHAR_FOUND": "{{author}} Aún no tienes ninguna carta en tu colección",
+    "NO_CHAR_FOUND": "{{author}} Esta serie aún no tiene ningún personaje",
+    "NO_SERIES_FOUND": "{{author}} No se ha encontrado ninguna serie con el nombre `{{name}}`",
+    "SERIES": "SOFI: SERIES LOOKUP",
+    "ERROR": "{{author}} Ha ocurrido un error. Por favor, inténtelo de nuevo",
+    "CARD_COLLECTED": "Cartas Coleccionadas: **{{collected}}/{{totalCards}}**",
+    "TOTAL_WL": "Deseados Totales: **{{wlCount}}**",
+    "CHARACTERS": "**__Personajes__**",
+    "SERIES_NAME": "Nombre: **{{seriesName}}**"
 }

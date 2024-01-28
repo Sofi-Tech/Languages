@@ -6,7 +6,7 @@
     "ADD_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado ya están en la {{listName}} de este canal o no son válidos",
     "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Se han eliminado con éxito los siguientes comandos de la {{listname}} de este canal: {{commandsList}}",
     "REMOVE_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado no están en la {{listName}} de este canal o no son válidos",
-    "PERMISSION_DESCRIPTION": "Te permite incluir en la lista blanca o en la lista negra comandos específicos en el canal.",
+    "PERMISSION_DESCRIPTION": "Con este comando puedes agregar a lista blanca o lista negra comandos dentro del canal en el que se utiliza. Los comandos en lista blanca seran los únicos habilitados en el canal, mientras que los comandos en lista negra seran los únicos comandos deshabilitados en el canal",
     "PERMS_CATEGORY": "Configuración",
     "BLACKLIST_BUTTON_LABEL": "Lista negra",
     "WHITELIST_BUTTON_LABEL": "Lista blanca",

@@ -1,9 +1,9 @@
 {
-    "DROP_DESCRIPTION": "Con este comando podrás generar un set de 3 cartas con Gens aleatorios. Puedes comprar Drops adicionales con el comando \"Shop\" con Wists, los cuales con obtienen votando por Sofi",
+    "DROP_DESCRIPTION": "Con este comando podrás generar un set de 3 cartas con Gens aleatorios. Puedes comprar Drops adicionales con Wists usando el comando \"Shop\", los cuales se obtienen votando a Sofi",
     "EXTRA_DROP_ALERT": "{{author}} Tu **Drop** está siendo usado. Te quedan **{{remaining}}**",
     "ON_CD": "{{author}} Tu **Drop** estará listo en: **{{dropCd}}**",
     "VOTE": "Vote",
     "BUY_DROP": "\n\n- También puedes hacer **Vote** para conseguir **Wists**! Usa el comando `{{prefix}}buy drop` para intercambiarlos",
-    "DROPPING_CARD": "{{author}} está **dropeando** cartas\n",
+    "DROPPING_CARD": "{{author}} está **dropeando** cartas",
     "WISHLIST_ALERT": "Una carta de tu lista de deseados está siendo dropeada! {{users}}"
 }

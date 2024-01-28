@@ -1,8 +1,8 @@
 {
     "INVALID_DC_MOVIES": "{{author}} Les codes de **Glow** commencent toujours par un `#`",
     "UNLOCK_GLOWS": "{{author}} Vous n'avez pas encore de **Glows**",
-    "RECHARGE_DESCRIPTION": "Recharge un \"Glow\" vide",
-    "RG_CATEGORY": "Cosmetics",
+    "RECHARGE_DESCRIPTION": "Utilisez cette commande pour remplir un Glow vide. Ce processus nécessite une Recharge, qui peut être achetée dans la boutique",
+    "RG_CATEGORY": "Cosmétiques",
     "NO_GLOWCDE": "{{author}} Utilisation correcte: `{{prefix}}rg <#CodeDuGlow>`",
     "GLOW_NOT_FOUND": "{{author}} Le code du **Glow** que vous avez fourni est invalide ou n'est pas dans votre inventaire",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW",

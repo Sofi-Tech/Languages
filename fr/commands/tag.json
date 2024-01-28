@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "Met un \"Tag\" sur les cartes sélectionnées",
+    "TAG_DESCRIPTION": "Avec cette commande vous pouvez attribuer un tag à une carte. Les Tags sont une fonctionnalité utile pour catégoriser et regrouper plusieurs cartes selon vos propres critères. Utilisez la commande \"Tagcreate\" pour créer des tags",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}t <NomDuTag> <CodeDeCarte>`",
     "NO_TAGS_CREATED": "{{author}} Vous n'avez encore aucun tag. Utilisez la commande `{{prefix}}tc <NomDuTag> <Emoji>` pour en créer un",

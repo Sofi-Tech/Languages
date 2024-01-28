@@ -1,5 +1,5 @@
 {
-    "TOGGLEREMINDER_DESCRIPTION": "Active vos rappels",
+    "TOGGLEREMINDER_DESCRIPTION": "Avec cette commande vous pouvez basculer l'état de vos rappels. Vous pouvez également utiliser la commande \"Cooldown\" et cliquer sur l'icône de cloche",
     "RM_CATEGORY": "Réglages",
     "PROVIDE_REMINDER_NAME": "{{author}} Utilisation correcte: `{{prefix}}tr <Vote/Daily/Bump>`",
     "REMINDER_DISABLED": "{{author}} Vous ne serez plus averti lorsque votre **{{reminder}}** sera prêt",

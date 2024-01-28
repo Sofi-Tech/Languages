@@ -1,5 +1,5 @@
 {
-    "UNDOBACKGROUND_DESCRIPTION": "Retirer le \"Background\" appliqué à une carte",
+    "UNDOBACKGROUND_DESCRIPTION": "Utiliser cette commande sur une carte 3D retira son Background et le renverra dans votre inventaire",
     "UB_CATEGORY": "Cosmétiques",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}undobg <CodeDeCarte>`",
     "NO_CHARACTER_FOUND": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
