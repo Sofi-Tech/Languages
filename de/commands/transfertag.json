@@ -1,5 +1,5 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "Überträgt die Karten von einem \"Tag\" auf den anderen",
+    "TRANSFERTAG_DESCRIPTION": "Du kannst diesen Befehl nutzen, um alle Karten eines Tags an einen anderen Tag zu übertragen",
     "TRTAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}trt <fromOldTag> <toNewTag>`",
     "TAG_NOT_FOUND": "{{author}} Du hast keinen Tag mit dem Namen `{{tag}}`",

@@ -1,5 +1,5 @@
 {
-    "UNTAG_DESCRIPTION": "Entfernt die \"Tags\" von deinen Karten",
+    "UNTAG_DESCRIPTION": "Verwende diesen Befehl um einen Tag von deiner Karte zu entfernen. Falls du einen kompletten Tag löschen möchtest, kannst du stattdessen den \"Tagdelete\" Befehl nutzen",
     "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} Du hast noch keine Karten in deiner Sammlung",
     "UNTAG_SUCCESSFUL": "{{author}} Der Tag wurde erfolgreich von deiner **{{cardName}}** Karte entfernt",

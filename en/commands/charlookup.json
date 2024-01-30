@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- You can look up a specific character by using the \"scl\" command. In this menu, you can check a character's statistics, their Version/3D/GIF variants, as well as their Gen/Fan leaderboards and their \"Card ID\".\n- The \"Card ID\" is required when submitting images for new \"Versions\"",
+    "CHARLOOKUP_DESCRIPTION": "With this command you can look up any given character you want. The generated embed will then show you various stats about the character, as well as a leaderboard for the lowest Gen owners of that character",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -33,5 +33,5 @@
     "NO_OWNER_FOUND": "Nobody owns a **2D** variant of this character yet",
     "NO_3D_OWNER_FOUND": "Nobody owns a **3D** variant of this character yet",
     "NO_GIF_OWNER_FOUND": "Nobody owns a **GIF** variant of this character yet",
-    "NO_VERSIONS_FOUND": "This character does not have any versions yet"
+    "NO_VERSIONS_FOUND": "Nobody owns a **Version** variant of this character yet"
 }

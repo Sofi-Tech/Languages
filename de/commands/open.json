@@ -1,5 +1,5 @@
 {
-    "OPEN_DESCRIPTION": "Öffnet Truhen und Lootboxen",
+    "OPEN_DESCRIPTION": "Verwende diesen Befehl, um die durch verschiedene Sofi Aktivitäten erhaltenen Truhen und Lootboxen zu öffnen",
     "SLASH_DESC_1": "Gib an, welches Item du öffnen möchtest",
     "SLASH_DESC_2": "Gib die Menge an",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}open <ItemName> <Menge>`",

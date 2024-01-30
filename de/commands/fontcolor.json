@@ -1,5 +1,5 @@
 {
-    "FONTCOLOR_DESCRIPTION": "Nutze diesen Befehl, um einen Glow auf die Schrift einer Karte anzuwenden, wodurch die Farbe der Schrift verändert wird. Füge dem Befehl die Angabe \"reset\" hinzu, wenn du einen vorhandenen Glow von der Schrift einer Karte entfernen willst",
+    "FONTCOLOR_DESCRIPTION": "Verwende diesen Befehl, um einen Glow auf die Schrift einer Karte anzuwenden, wodurch die Farbe der Schrift verändert wird. Füge dem Befehl die Angabe \"reset\" hinzu, wenn du einen vorhandenen Glow von der Schrift einer Karte entfernen willst",
     "FC_CATEGORY": "Kosmetika",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}fc <KartenCode> <GlowCode>`",
     "NOT_CARD_OWNER": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",

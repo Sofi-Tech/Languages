@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Nutze diesen Befehl, um mehrere Karten auf einmal zu verbrennen, indem du Parameter wie beispielsweise \"t:Tag Name\" und \"wl<Zahl\" hinzufügst, um anzugeben welche Karten du verbrennen willst. Nutze den \"Help filter\" Befehl, um eine Liste aller verfügbaren Parameter zu bekommen",
+    "MASSBURN_DESCRIPTION": "Verwende diesen Befehl, um mehrere Karten auf einmal zu verbrennen. Indem du Parameter wie beispielsweise \"t:Tag Name\" und \"wl<Zahl\" hinzufügst, kannst du angeben welche Karten du verbrennen willst. Verwende den \"Help filter\" Befehl, um eine Liste aller verfügbaren Parameter zu bekommen",
     "IN_ACTIVE_MB": "{{user}} du kannst keinen neuen **Massburn** starten, während dein alter noch aktiv ist",
     "PROVIDE_FILTERS": "{{author}} Korrekte Verwendung: `{{prefix}}mb <Filters>`\n\n```fix\nBeachte: Du kannst eine ausführliche Liste aller Filter mit dem Befehl {{prefix}}help filters anzeigen lassen\n```",
     "WRONG_TAG": "{{author}} Es konnte kein Tag mit dem Namen `{{arg}}`gefunden werden",

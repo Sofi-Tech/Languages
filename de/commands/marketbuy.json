@@ -1,7 +1,7 @@
 {
-    "MARKETBUY_DESCRIPTION": "Nutze diesen Befehl zusammen mit einer Auftrags-ID vom Markt und einer Menge, um ein Textfeld zu öffnen, in dem du Wist von einem anderen Spieler kaufen kannst. Mit dem \"Market\" Befehl kannst du alle verfügbaren Aufträge sehen",
+    "MARKETBUY_DESCRIPTION": "Verwende diesen Befehl zusammen mit einer Angebots-ID vom Markt und einer Menge, um ein Textfeld zu öffnen, in dem du Wist von einem anderen Spieler kaufen kannst. Mit dem \"Market\" Befehl kannst du alle verfügbaren Angebote sehen",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} Die von dir angegebene Auftrags-ID ist ungültig",
+    "INVALID_DEAL_ID": "{{author}} Die von dir angegebene Angebots-ID ist ungültig",
     "CANNOT_PURCHASE": "{{user}} Du kannst mit diesem Angebot nicht interagieren",
     "CANNOT_SELF": "{{user}} Du kannst nichts von deinem eigenen Angebot kaufen",
     "WIST_NOT_EXCEED": "{{author}} | Dieses Angebot hat nur noch **{{amount}}** `{{currency}}` zum Kaufen übrig",
@@ -9,7 +9,7 @@
     "VALUE": "Du bezahlst:",
     "RATE": "Rate:",
     "ALREADY_IN_PURCHASE": "{{author}} Du hast bereits ein aktives Transaktionsfenster",
-    "PURCHASE_CANCELLED": "{{author}} Diese Bestellung ist nicht länger verfügbar",
+    "PURCHASE_CANCELLED": "{{author}} Dieses Angebot ist nicht länger verfügbar",
     "MISSING_GEMS": "{{author}} Du hast nicht genügend **{{currency}}** für diesen Vorgang",
     "SOMETHING_WRONG": "{{author}} Da hat etwas nicht geklappt. Bitte versuche es erneut",
     "PURCHASE_SUCCESSFUL": "{{author}} Erfolgreich **{{boughtCount}}** {{currency}} gekauft",

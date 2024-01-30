@@ -1,10 +1,10 @@
 {
-  "PRIVATE_DESCRIPTION": "Setzt deine Sammlung, Wunschliste oder dein Inventar auf privat",
-  "PVT_CATEGORY": "Einstellungen",
-  "PRIVATE_ENABLED": "{{author}} Dein/e **{{content}}** ist jetzt privat",
-  "PRIVATE_DISABLED": "{{author}} Dein/e **{{content}}** ist nicht mehr privat",
-  "PVT_PUBLIC": "Öffentlich",
-  "PVT_EMBED_TITLE": "SOFI: PRIVATE",
-  "PVT_PRIVATE": "Privat",
-  "WRONG_ARGUMENTS": "{{author}} Korrekte Verwendung: `{{prefix}}pvt <C/WL/INV>`"
+    "PRIVATE_DESCRIPTION": "Verwende diesen Befehl, um einen teil deines Accounts auf privat zu stellen. Die Privaten Teile werden anderen Spielern nicht länger angezeigt. Benutzt du diesen Befehl allein, werden dir stattdessen die aktuellen Einstellungen für diese Sektionen angezeigt",
+    "PVT_CATEGORY": "Einstellungen",
+    "PRIVATE_ENABLED": "{{author}} Dein/e **{{content}}** ist jetzt privat",
+    "PRIVATE_DISABLED": "{{author}} Dein/e **{{content}}** ist nicht mehr privat",
+    "PVT_PUBLIC": "Öffentlich",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+    "PVT_PRIVATE": "Privat",
+    "WRONG_ARGUMENTS": "{{author}} Korrekte Verwendung: `{{prefix}}pvt <C/WL/INV/V>`"
 }

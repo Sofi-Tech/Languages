@@ -8,5 +8,8 @@
     "CANNOT_BE_GRABBED": "{{user}} Карты больше не могут быть **подобраны**",
     "SNATCHED_EVENT_ITEM": "{{winner}} sleighed away with {{amount}} festive Socks from <@{{userId}}> stocking stash!",
     "CARDS_DROPPED_BY": "{{user}} **бросает** карты",
-    "GRAB_CARD_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+    "GRAB_CARD_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_VERSION": "{{winner}} Вы отбились от {{user}} и **подобрали** **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "TOOK_VERSION": "{{winner}} Вы **подобрали** **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]"
 }

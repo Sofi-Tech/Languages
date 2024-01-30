@@ -8,5 +8,8 @@
     "SNATCHED_EVENT_ITEM": "{{winner}} se ha ido en trineo con {{amount}} Socks festivos de <@{{userId}}>. Su reserva de calcetines!",
     "GRAB_CARD": "{{winner}} peleó contra {{user}} y **obtuvo** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} Las cartas de abajo ya no pueden ser **obtenidas**",
-    "CARDS_DROPPED_BY": "{{user}} ha **dropeado** cartas"
+    "CARDS_DROPPED_BY": "{{user}} ha **dropeado** cartas",
+    "GRAB_VERSION": "{{winner}} peleó contra {{user}} y **agarró** un **Version Token** de **{{character}}** (`{{code}}`) [**V{{version}}**]",
+    "TOOK_VERSION": "{{winner}} **agarró** un **Version Token* de **{{character}}** * (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION_PLURAL": "{{winner}} peleó contra **{{userCount}}** jugadores y **agarró** un **Version Token* de **{{character}}** * (`{{code}}`) [**V{{version}}**]"
 }

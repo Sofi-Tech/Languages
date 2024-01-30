@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "Erstellt einen \"Tag\"",
+    "TAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag kreieren, um deine Karten nach deinen eigenen Kriterien zu kategorisieren und gruppieren. Verwende den Befehl \"Tag\" um deine erstellten Tags Karten zuzuweisen",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <tagname> <emoji>`",
     "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",

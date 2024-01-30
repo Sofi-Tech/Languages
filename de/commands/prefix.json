@@ -1,5 +1,5 @@
 {
-    "PREFIX_DESCRIPTION": "Setze das Präfix von Sofi für diesen Server",
+    "PREFIX_DESCRIPTION": "Mit diesem Befehl kannst du den Präfix des Servers einstellen. Das gewählte Präfix wird benötigt werden, um Befehle in Sofi auszuführen",
     "PREFIX_CATEGORY": "Einstellungen",
     "PROVIDE_PREFIX": "{{author}} Korrekte Verwendung: `{{prefix}}prefix <NeuesPräfix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} Das Präfix für diesen Server wurde auf `{{prefix}}` gesetzt"

@@ -1,10 +1,10 @@
 {
-    "VIEW_DESCRIPTION": "Zeigt eine Karte an",
+    "VIEW_DESCRIPTION": "Dieser Befehl zeigt dir das Aussehen einer ausgewählten Karte. Verwende diesen Befehl ohne einen Karten-Code um dir stattdessen die zuletzt hinzugefügte Karte anzeigen zu lassen",
     "SLASH_DESC1": "Gib einen Karten-Code ein",
     "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
     "SERIES": "Serie:",
     "NAME": "Name:",
-    "OWNED_BY": "In Besitz von:",
+    "OWNED_BY": "Im Besitz von:",
     "SERVER": "Server-ID:",
     "CLAIMED": "Beansprucht am:",
     "MOVES": "Fähigkeiten",

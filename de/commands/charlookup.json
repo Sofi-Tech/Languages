@@ -1,9 +1,9 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Rangliste der Besitzer der niedrigsten Gens für diesen Charakter",
+    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Besitzer-Rangliste der niedrigsten Gens für diesen Charakter",
     "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden",
     "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "NORMAL_LABEL": "Versionen",
+    "NORMAL_LABEL": "Version: 1",
     "FAN_PTS_LABEL": "Fan-Punkte hinzufügen",
     "3D_LABEL": "3D",
     "GIF_LABEL": "GIF",
@@ -17,7 +17,7 @@
     "TOP_FANS": "Fan-Rangliste",
     "NO_FANS_FOUND": "\nDieser Charakter hat noch keine Fans!",
     "CARD_ID": "Karten-ID:",
-    "ENTER_AMOUNT": "Gebe einen Betrag ein",
+    "ENTER_AMOUNT": "Gib eine Menge ein",
     "MODAL_TITLE": "SOFI: ADD FAN POINTS",
     "CORRECT_EXAMPLE": "{{author}} Akzeptierte Währungen: **Silver**, **Wists**, **Gems**",
     "MISSING_ITEMS": "{{author}} Du hast nicht genügend **{{itemName}}** für diesen Vorgang",
@@ -30,6 +30,8 @@
     "NOT_AVAILABLE": "Ungültige Serie",
     "MORE_INFO_LABEL": "Wähle eine Option",
     "FAN_PTS_ADDED_PLURAL": "{{author}} Erfolgreich **{{count}}** Punkte zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "EXAMPLE_INFO": "Korrektes Format: <Amount> <Currency>",
-    "FAN_PTS_ADDED": "{{author}} Erfolgreich **{{count}}** Punkt zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "EXAMPLE_INFO": "Richtiges Format: <Menge> <Währung>",
+    "FAN_PTS_ADDED": "{{author}} Erfolgreich **{{count}}** Punkt zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "NO_VERSIONS_FOUND": "Niemand besitzt eine **Versions** Variante dieses Charakters",
+    "VERSION_LB": "Version LB"
 }

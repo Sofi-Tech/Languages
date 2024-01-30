@@ -1,4 +1,4 @@
 {
-    "PROVIDE_FILTER": "{{author}} Bitte gib neben der Sortiermethode einen Filter an",
+    "PROVIDE_FILTER": "{{author}} Bitte gib neben der Sortiermethode auch einen Filter an",
     "PROVIDE_CATEGORY": "{{author}} Bitte gib eine der folgenden Kategorien an ```Apache\n{{categories}}```"
 }
