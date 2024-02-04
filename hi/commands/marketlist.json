@@ -1,5 +1,5 @@
 {
-    "MARKETLIST_DESCRIPTION": "बाजार में आपकी Wist डालता है। जिससे इच्छुक व्यापारी उसे Gems के बदले में खरीद सके",
+    "MARKETLIST_DESCRIPTION": "Gems के बदले में अपनी Wist को बाजार में लिस्ट करने के लिए इस कमांड का उपयोग करें।",
     "CORRECT_USAGE": "{{user}} सही उपयोग: `{{prefix}}ml <Amount> <Rate>`",
     "INVALID_GEM_RATE": "{{user}} प्रदान की कर दर अमान्य है।",
     "GEM_RATE_LIES": "{{user}} प्रदान की गई दर **3.0 - 20.0** के मध्यम होनी अनिवार्य हैं।",

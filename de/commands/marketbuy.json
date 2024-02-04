@@ -1,6 +1,6 @@
 {
     "MARKETBUY_DESCRIPTION": "Verwende diesen Befehl zusammen mit einer Angebots-ID vom Markt und einer Menge, um ein Textfeld zu öffnen, in dem du Wist von einem anderen Spieler kaufen kannst. Mit dem \"Market\" Befehl kannst du alle verfügbaren Angebote sehen",
-    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <OfferID> <WistAmount>`",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}mbuy <Angebots-ID> <WistMenge>`",
     "INVALID_DEAL_ID": "{{author}} Die von dir angegebene Angebots-ID ist ungültig",
     "CANNOT_PURCHASE": "{{user}} Du kannst mit diesem Angebot nicht interagieren",
     "CANNOT_SELF": "{{user}} Du kannst nichts von deinem eigenen Angebot kaufen",

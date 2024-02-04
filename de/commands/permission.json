@@ -30,7 +30,7 @@
     "ADD_COMMANDS_SUCCESSFUL": "{{author}} Die folgenden Befehle wurden erfolgreich zur {{listname}} dieses Kanals hinzugefügt: {{commandsList}}",
     "ADD_COMMANDS_ERROR": "{{author}} Die angegebenen Befehle sind entweder bereits auf dieser {{listName}} oder nicht gültig",
     "YES_BUTTON_LABEL": "Bestätigen",
-    "PERMISSION_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>`",
+    "PERMISSION_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}p [BL/WL] [Add/Rem] <BefehlsNamen/All>`",
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} Du kannst Befehle der Whitelist nicht von der Blacklist entfernen",
     "WHITELIST_ALREADY_ACTIVE": "{{author}} Du kannst Befehle der Blacklist nicht von der Whitelist entfernen",
     "NO_PERMS_SETUP": "{{author}} Diese Berechtigung wurde in diesem Channel noch nicht erteilt. Benutze `{{prefix}}p [BL/WL] [Add] <CommandNames/All>` dafür",

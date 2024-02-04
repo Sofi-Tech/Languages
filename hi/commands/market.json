@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Sofi के बाजार को दर्शाता है।",
+    "MARKET_DESCRIPTION": "यह कमांड बाज़ार में वर्तमान में उपलब्ध सभी ऑर्डरों को सूची प्रदर्शित करता है। बाज़ार का उपयोग खिलाड़ियों द्वारा \"Marketlist\" कमांड के माध्यम से Gems के बदले में अपनी Wist को पेशकश करने के लिए किया जा सकता है।",
     "NO_LISTING_FOUND": "{{author}} बाजार में कोई सौदा नहीं मिला",
     "MARKET_WARN": "**औसत दर**: **`{{averageRate}}` | कुल व्यापार** : **`{{totalTrades}}`**",
-    "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}}",
+    "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}} । {{prefix}}mbuy <Order-ID> <Amount>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"
 }

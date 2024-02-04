@@ -1,6 +1,6 @@
 {
-  "INVITE_DESCRIPTION": "हमारे आधिकारिक सर्वर को ज्वाइन करे या Sofi को अपने सर्वर में न्योता देने के लिए नीचे दिए गए लिंक पर क्लिक करे!",
-  "INVITE_CATEGORY": "SETTINGS",
-  "EMBED_TITLE": "SOFI: INVITE",
-  "JOIN_SUPPORT": "**[हमारे आधिकारिक सर्वर से जुड़े](https://discord.gg/sofi)**\n**[Sofi को अपने सर्वर में बुलाए](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
+    "INVITE_DESCRIPTION": "इस कमांड का उपयोग करने से 2 अलग-अलग लिंक के साथ एक संदेश प्रस्तुत होता है। पहला लिंक आपको आधिकारिक \"Sofi Cafe\" सपोर्ट सर्वर पर आमंत्रित करेगा, जबकि दूसरा लिंक Sofi को आपके सर्वर पर आमंत्रित करने के लिए होगा।",
+    "INVITE_CATEGORY": "SETTINGS",
+    "EMBED_TITLE": "SOFI: INVITE",
+    "JOIN_SUPPORT": "**[हमारे आधिकारिक सर्वर से जुड़े](https://discord.gg/sofi)**\n**[Sofi को अपने सर्वर में बुलाए](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
 }

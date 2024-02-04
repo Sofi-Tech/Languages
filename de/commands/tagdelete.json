@@ -1,7 +1,7 @@
 {
     "TAGDELETE_DESCRIPTION": "Verwende diesen Befehl um einen kompletten Tag zu löschen",
     "TD_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}dt <tagname>`",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}dt <TagName>`",
     "TAG_NOT_FOUND": "{{author}} Du hast keinen Tag mit dem Namen `{{arg}}`",
     "SUCCESSFUL_DELETE_TAG": "{{author}} Der Tag mit dem Namen `{{tag}}` wurde erfolgreich gelöscht",
     "TAG_DELETE_CONFIRM": "Bist du sicher das du den Tag `{{tagname}}` löschen möchtest?",

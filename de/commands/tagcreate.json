@@ -1,7 +1,7 @@
 {
     "TAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag kreieren, um deine Karten nach deinen eigenen Kriterien zu kategorisieren und gruppieren. Verwende den Befehl \"Tag\" um deine erstellten Tags Karten zuzuweisen",
     "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <tagname> <emoji>`",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <TagName> <emoji>`",
     "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
     "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines Tags muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
     "LONG_TAGNAME": "{{author}} Dein Tag-Name darf höchstens **20** Zeichen lang sein",

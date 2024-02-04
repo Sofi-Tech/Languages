@@ -1,5 +1,5 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "बाजार से डील हटाता है।",
+    "MARKETUNLIST_DESCRIPTION": "बाज़ार से अपना ऑर्डर हटाने के लिए इस कमांड का उपयोग करें।",
     "CORRECT_USAGE": "{{user}} सही उपयोग: `{{prefix}}mul <Order-ID/All>`",
     "INVALID_DEAL_ID": "{{author}} अवैध डील ID प्रदान की गई या यह आपकी डील नहीं है।",
     "SUCCESS_UL": "{{user}} बाजार से यह सौदा हटाया गया: `{{dealId}}`",

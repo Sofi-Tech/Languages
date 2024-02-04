@@ -22,5 +22,10 @@
     "NO_FRAMES_FOUND": "कोई **Frames** नही मिली",
     "NO_EVENT_FOUND": "कोई इवेंट आइटम नही मिला",
     "FRAME_CATEGORY_ALL": "सभी फ्रेम्स",
-    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "वर्ग चुने"
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "वर्ग चुने",
+    "FRAME_CATEGORY_LIMITED": "नियमित",
+    "FRAME_CATEGORY_MONTHLY": "मासिक",
+    "FRAME_CATEGORY_CUSTOM": "कस्टम ",
+    "FRAME_CATEGORY_OFFICIAL": "आधिकारिक ",
+    "FRAME_CATEGORY_DISCONTINUED": "संचालन बंद"
 }
