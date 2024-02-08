@@ -1,5 +1,5 @@
 {
-    "TOGGLEREMINDER_DESCRIPTION": "आपके रिमाइंडर की स्थिति चालू या बंद में स्थापित करता है",
+    "TOGGLEREMINDER_DESCRIPTION": "इस कमांड से आप अपने रिमाइंडर की स्तिथि बदल सकते हैं। आप \"Cooldown\" कमांड का भी उपयोग कर सकते है स्तिथि बदलने के लिए।",
     "RM_CATEGORY": "SETTINGS",
     "PROVIDE_REMINDER_NAME": "{{author}} सही उपयोग: `{{prefix}}tr <Vote/Daily/Bump>`",
     "REMINDER_ENABLED": "{{author}} जब आपका **{{reminder}}** दुबारा मौजूद होगा तब आपको सूचित कर दिया जाएगा।",

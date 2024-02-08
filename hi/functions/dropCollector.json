@@ -7,6 +7,9 @@
     "GRAB_CARD_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} ने <@{{userId}}> के गुप्त भण्डार से {{amount}} मोजे चुराए!",
     "CARDS_DROPPED_BY": "{{user}} ने पत्ते **Drop** किए",
-    "GRAB_EVENT_ITEM": "{{winner}} ने {{userCount}} अन्य खिलाड़ियों से जूझ कर पाए {{amount}} मोजे!🎄✨",
-    "GRAB_CARD": "{{winner}} ने {{user}} से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}"
+    "GRAB_EVENT_ITEM": "{{winner}} ने {{userCount}} अन्य खिलाड़ियों से जूझ कर पाए {{amount}} मोजे!<:xmassock:1183307747404558387>✨",
+    "GRAB_CARD": "{{winner}} ने {{user}} से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}",
+    "GRAB_VERSION": "{{winner}} ने {{user}} जीत कर प्राप्त किया **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "TOOK_VERSION": "{{winner}} ने प्राप्त किया **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जूझकर प्राप्त किया **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]"
 }

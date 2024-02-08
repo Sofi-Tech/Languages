@@ -1,14 +1,14 @@
 {
-  "SERVERINFO_DESCRIPTION": "सर्वर के आंकड़ो को प्रदर्शित करता है",
-  "SI_CATEGORY": "SETTINGS",
-  "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
-  "SI_SPAWN_CHANNEL": "स्पॉन चैनल",
-  "SI_TOTAL_DROPS": "कुल Drops",
-  "SI_TOTAL_BURNT": "कुल जलाए",
-  "SI_TOTAL_TRADES": "कुल व्यापार",
-  "SI_NAME_UNAVAILABLE": "नाम अनुपलब्ध",
-  "SI_TOP_SERVERS": "**शीर्ष सर्वर** । पुनः शुरू होगा **{{countdown}}**",
-  "EMBED_FOOTER": "सर्वर प्रिफिक्स: \"{{prefix}}\"",
-  "SI_TOTAL_GIVEN": "कुल पत्ते दिए",
-  "SI_TOTAL_GRABS": "कुल Grab"
+    "SERVERINFO_DESCRIPTION": "इस कमांड का उपयोग सर्वर के Sofi आंकड़े देखने के लिए किया जा सकता है । आप अपने सर्वर के लिए एक मुख्य भाषा भी चुन सकते हैं, जो Sofi की सभी प्रतिक्रियाओं को चयनित भाषा में होने के लिए बाध्य करेगी।",
+    "SI_CATEGORY": "SETTINGS",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+    "SI_SPAWN_CHANNEL": "स्पॉन चैनल",
+    "SI_TOTAL_DROPS": "कुल Drops",
+    "SI_TOTAL_BURNT": "कुल जलाए",
+    "SI_TOTAL_TRADES": "कुल व्यापार",
+    "SI_NAME_UNAVAILABLE": "नाम अनुपलब्ध",
+    "SI_TOP_SERVERS": "**शीर्ष सर्वर** । पुनः शुरू होगा **{{countdown}}**",
+    "EMBED_FOOTER": "सर्वर प्रिफिक्स: \"{{prefix}}\"",
+    "SI_TOTAL_GIVEN": "कुल पत्ते दिए",
+    "SI_TOTAL_GRABS": "कुल Grab"
 }

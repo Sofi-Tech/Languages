@@ -1,8 +1,8 @@
 {
-  "SETSPAWN_DESCRIPTION": "सर्वर में स्पोन चैनल को स्थापित किजिए",
-  "SS_CATEGORY": "SETTINGS",
-  "SS_SLASH_DESC": "चैनल चुने",
-  "SS_MENTION_CHANNEL": "{{author}} सही उपयोग: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-  "SS_DISABLE": "{{author}} पत्ते अब इस सर्वर पर स्पॉन नहीं होंगे",
-  "SS_ENABLE": "{{author}} स्पाॅन चैनल {{channel}} को स्थापित किया गया"
+    "SETSPAWN_DESCRIPTION": "किसी चैनल में इस कमांड का उपयोग करना या किसी चैनल का उल्लेख करना उस चैनल को स्पॉन चैनल के रूप में सेट या हटा देगा। बढ़ती सर्वर गतिविधि के आधार पर, Sofi कभी-कभी निर्दिष्ट चैनल में स्वयं कार्ड ड्रॉप कर देगी।",
+    "SS_CATEGORY": "SETTINGS",
+    "SS_SLASH_DESC": "चैनल चुने",
+    "SS_MENTION_CHANNEL": "{{author}} सही उपयोग: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+    "SS_DISABLE": "{{author}} पत्ते अब इस सर्वर पर स्पॉन नहीं होंगे",
+    "SS_ENABLE": "{{author}} स्पाॅन चैनल {{channel}} को स्थापित किया गया"
 }

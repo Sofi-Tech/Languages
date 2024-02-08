@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "चुने गए पत्तो पर \"Tag\" लगाता है।",
+    "TAG_DESCRIPTION": "इस कमांड से आप पत्तो पर एक टैग लगा सकते हैं। टैग कई पत्तो को वर्गीकृत और समूहित करने के लिए एक उपयोगी सुविधा है। टैग बनाने के लिए \"Tagcreate\" कमांड का उपयोग करें।",
     "TAG_CATEGORY": "TAGS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}t <TagName> <CardCode>`",
     "NO_TAGS_CREATED": "{{author}} आपने अभी तक कोई टैग नहीं बनाया है। आप `{{prefix}}tc <TagName> <Emoji>` का उपयोग करके Tag बना सकते है।",

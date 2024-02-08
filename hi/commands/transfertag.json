@@ -1,5 +1,5 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "पत्तो को एक \"Tag\" से दूसरे \"Tag\" में स्थानांतरित करता है।",
+    "TRANSFERTAG_DESCRIPTION": "पत्तो को एक टैग से दूसरे टैग में स्थानांतरित करता है।",
     "TRTAG_CATEGORY": "TAGS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}trt <fromTagName> <toTagName>`",
     "TAG_NOT_FOUND": "{{author}} इस नाम से कोई टैग मौजूद नहीं है `{{tag}}`",
