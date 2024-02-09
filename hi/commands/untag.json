@@ -1,5 +1,5 @@
 {
-    "UNTAG_DESCRIPTION": "आपके पत्तो से Tag हटाता है।",
+    "UNTAG_DESCRIPTION": "इस कमांड से आप पत्तो से Tag हटा सकते है। अगर आपको सम्पूर्ण टैग मिटाना चाहते है तो \"Tagdelete\" कमांड का उपयोग करे।",
     "UT_CATEGORY": "TAGS",
     "UT_EMPTY_COLLECTION": "{{author}} आपके संग्रह में कोई पत्ता मौजूद नहीं है।",
     "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}** से टैग सफलतापूर्वक हटाया गया",

@@ -1,5 +1,5 @@
 {
-    "USEFRAME_DESCRIPTION": "पत्ते पर Frame लगाता है।",
+    "USEFRAME_DESCRIPTION": "इस कमांड से आप पत्ते पर Frame लगा सकते है। फ्रेम खरीदने के लिए \"frameshop\" कमांड का उपयोग करे।",
     "UF_CATEGORY": "COSMETICS",
     "UF_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
