@@ -28,5 +28,11 @@
     "CF_MENU_LABEL": "Пользовательские",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Выбранное описание для вашей **Frame** успешно установлено",
     "FRAME_DESCRIPTION": "\nХудожник: **{{artist}}**\nКод: `{{code}}`\nЦена: **{{price}}**\n\n```fix\n{{description}}\n```",
-    "FS_UNAVAILABLE": "Недоступнa"
+    "FS_UNAVAILABLE": "Недоступнa",
+    "EMBED_FOOTER_one": "Загружена {{count}} день назад",
+    "EMBED_FOOTER_two": "Загружена {{count}} дня назад",
+    "EMBED_FOOTER_other": "Загружена {{count}} дней назад",
+    "EMBED_FOOTER_zero": "Загружена {{count}} дней назад",
+    "EMBED_FOOTER_few": "Загружена {{count}} дня назад",
+    "EMBED_FOOTER_many": "Загружена {{count}} дней назад"
 }

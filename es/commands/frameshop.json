@@ -28,5 +28,11 @@
     "CF_MENU_LABEL": "Personalizados",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Se ha establecido con éxito la descripción para tu **Frame**",
     "FS_UNAVAILABLE": "No disponible",
-    "FRAME_DESCRIPTION": "\nArtista: **{{artist}}**\nCódigo: `{{code}}`\nPrecio: **{{price}}**\n\n```fix\n{{description}}\n```"
+    "FRAME_DESCRIPTION": "\nArtista: **{{artist}}**\nCódigo: `{{code}}`\nPrecio: **{{price}}**\n\n```fix\n{{description}}\n```",
+    "EMBED_FOOTER_one": "Subido hace {{count}} día",
+    "EMBED_FOOTER_few": "Subido hace {{count}} días",
+    "EMBED_FOOTER_other": "Subido hace {{count}} días",
+    "EMBED_FOOTER_many": "Subido hace {{count}} días",
+    "EMBED_FOOTER_zero": "Subido hace {{count}} días",
+    "EMBED_FOOTER_two": "Subido hace {{count}} días"
 }
