@@ -1,9 +1,9 @@
 {
-  "ACHIEVEMENTS_DESCRIPTION": "Kullanılabilir başarımların bir listesini görüntüler",
-  "ACH_CATEGORY": "Ayarlar",
-  "ACH_CLAIMED": "Talep edildi",
-  "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "FAN_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "ACH_LOADING": "Yükleniyor <a:ping:876612181725167687>",
-  "NO_STATS_FOUND": "Henüz herhangi bir karakter için hayran puanınız yok"
+    "ACHIEVEMENTS_DESCRIPTION": "Mevcut tüm başarıları gösteren ve ayrıca hangi başarıları zaten elde ettiğinizi belirten bir yerleştirmeyi açar",
+    "ACH_CATEGORY": "Ayarlar",
+    "ACH_CLAIMED": "Hak talebinde bulunuld",
+    "ACH_EMBED_TITLE": "SOFI: BAŞARILAR ({{totalClaimed}}/{{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: FAN PUANLARI",
+    "ACH_LOADING": "Yükleniyor <a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "Henüz herhangi bir karakter için hayran puanınız yok"
 }

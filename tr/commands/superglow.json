@@ -1,14 +1,14 @@
 {
-  "SUPERGLOW_DESCRIPTION": "Bir \"Super Glow\"\" elde etmek için iki adet \"Glows\" birleştirin",
-  "SG_CATEGORY": "Kozmetik",
-  "GLOW_CODES_MISSING": "{{author}} Doğru kullanım:`{{prefix}}sg <GlowCode1> <GlowCode2>`",
-  "GLOW_NOT_FOUND": "{{author}} Sağladığınız `Glow` kodlarından en az biri geçersiz",
-  "UNAVAILABLE_GLOW": "{{author}} Sağladığınız `Glows`lardan en az biri boş",
-  "NO_USE_SG": "{{author}} Yeni bir `Super Glows` oluşturmak için `Super Glows` kullanamazsınız!",
-  "SAME_GLOWS": "{{author}} Bu işlem için aynı `Glow`u iki kez kullanamazsınız",
-  "EMBED_TITLE": "SOFI: SUPERGLOW",
-  "FORM_SG_CONFIRM": "`Super Glow` **`{{superGlowName}}`** elde etmek için\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\nYukarıdaki `Items`ları kullanmak üzeresiniz",
-  "MISSING_RESINS": "Bir `Super Glow` oluşturmak için yeterli ` Resin`iniz yok",
-  "SUPER_GLOW_SUCCESSFUL": "Başarıyla `Glows`larınızı `Merged`lediniz\n",
-  "FORM_SG_FOOTER": "Bu süreçte kullanılan tüm `Glows` lar yok edilecekir!"
+    "SUPERGLOW_DESCRIPTION": "Bu komutu, 2 Glow'u ve bir Resin'i bir Super Glow'a birleştirmek için kullanabilirsiniz. Super Glow, birleştirme işleminde kullanılan orijinal Glow'ların her iki renk şemasını da içerir",
+    "SG_CATEGORY": "Kozmetik",
+    "GLOW_CODES_MISSING": "{{author}} Doğru kullanım:`{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} Sağladığınız **Glow** kodlarından en az biri geçersiz veya envanterinizde yok",
+    "UNAVAILABLE_GLOW": "{{author}} Sağladığınız **Glow** kodlarından en az biri boş=",
+    "NO_USE_SG": "{{author}} Bu işlem için bir **Super Glow** kullanamazsınız",
+    "SAME_GLOWS": "{{author}} Aynı **Glow**'u birden fazla kez kullanamazsınız",
+    "EMBED_TITLE": "SOFI: SUPERGLOW",
+    "FORM_SG_CONFIRM": "Aşağıdaki öğeleri birleştirmek istediğinizden emin misiniz:\n\n{{glowCodes}}\n+ <:reçine:938131736741691442> **2x** **Resin**\n\n**{{superGlowName}}** **Super Glow**'ya mı?",
+    "MISSING_RESINS": "{{author}} Bu işlem için yeterli **Resin**'iniz yok",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Başarıyla **Glow**'larınızı birleştirdiniz\n",
+    "FORM_SG_FOOTER": "Bu süreçte her iki **Glow**'larda yok edilecek!"
 }

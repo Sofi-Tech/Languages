@@ -1,9 +1,9 @@
 {
-  "DROP_DESCRIPTION": "Bir grup kart oluştururp \"Drop\"'lar\nGörsel olmadan bir \"Drop\" oluşturmak için \"{{prefix}}dn\" komutunu kullanın",
-
-  "EXTRA_DROP_ALERT": "{{author}} **Extra Drop** unuz kullanılıyor. **{{remaining}}** kaldı",
-  "ON_CD": "{{author}} `Drop`unuz {{dropCd}} içinde hazır olacak",
-  "VOTE": "Oy",
-  "BUY_DROP": "\nAyrıca `Wists` almak için `Vote` verebilir ve onlarla `Drops` satın alabilirsiniz!\n`Drops` satın almak için `{{prefix}}buy drop <Miktar>` komutunu kullanın",
-  "DROPPING_CARD": "{{author}} Kart `Drop`'luyor\n"
+    "DROP_DESCRIPTION": "Bu komutla, rastgele Genler ile 3 karttan oluşan bir set oluşturabileceksiniz. Sofi'ye oy vererek elde edebileceğiniz Wists ile \"Shop\" komutundan ek Droplar satın alabilirsiniz",
+    "EXTRA_DROP_ALERT": "{{author}} Extra **Drop**'unuz kullanılıyor. **{{remaining}}** kaldı",
+    "ON_CD": "{{author}} **Drop**'unuz süresi içinde hazır olacak: **{{dropCd}}**",
+    "VOTE": "Oy",
+    "BUY_DROP": "\n\n- Ayrıca **Wists** almak için **Oy verebilirsiniz**! Bunları takas etmek için `{{prefix}}buy drop` komutunu kullanın",
+    "DROPPING_CARD": "{{author}} kart **drop**'luyor",
+    "WISHLIST_ALERT": "Istek listenizden bir kart düşüyor! {{users}}"
 }
