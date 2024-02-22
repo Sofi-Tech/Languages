@@ -1,6 +1,6 @@
 {
-  "PREFIX_DESCRIPTION": "Itakda ang ungalan ng Sofi para sa server na ito",
-  "PREFIX_CATEGORY": "Mga Setting",
-  "PROVIDE_PREFIX": "{{author}} Tamang paggamit: `{{prefix}}prefix <BagongUngalan>`",
-  "PREFIX_SET_SUCCESSFUL": "{{author}} Ang ungalan para sa server na ito ay itinakda na sa `{{prefix}}`"
+    "PREFIX_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong itakda ang prefix para sa iyong server. Ang napiling prefix ay kinakailangan upang maisagawa ang mga command sa Sofi",
+    "PREFIX_CATEGORY": "Mga Setting",
+    "PROVIDE_PREFIX": "{{author}} Tamang paggamit: `{{prefix}}prefix <BagongUngalan>`",
+    "PREFIX_SET_SUCCESSFUL": "{{author}} Ang ungalan para sa server na ito ay itinakda na sa `{{prefix}}`"
 }

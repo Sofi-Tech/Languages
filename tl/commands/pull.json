@@ -1,5 +1,5 @@
 {
-    "PULL_DESCRIPTION": "\"Pull\" mula sa isang pool ng iba't ibang \"Items\" kasama ang \"Charms\" at \"Fragments\" para sa mga animated card",
+    "PULL_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong i-convert ang Wists at Gems sa iba't ibang mga items, kabilang ang Fragments na ginagamit upang lumikha ng GIF cards",
     "PULL_AMT": "{{author}} Tamang paggamit: `{{prefix}}pull <1/10>`",
     "INFO_1": "Kailangan mo ng 8 na **Fragments** upang lumikha ng isang **GIF** na bersyon ng isang karakter",
     "INFO_2": "Mayroong maximum na **100** **GIF** variants bawat karakter",

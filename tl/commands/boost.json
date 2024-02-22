@@ -1,6 +1,6 @@
 {
-  "BOOST_DESCRIPTION": "Nagpapakita ng leaderboard ng nitro boost para sa \"Sofi Cafe\" Server",
-  "BOOST_CATEGORY": "Mga Setting",
-  "EMBED_TITLE": "SOFI: BOOST",
-  "EMBED_FOOTER": "Ang mga Discord Boosters at mga Donators ay may karapatan na humiling ng 3D na mga bersyon at karakter.\nKasama sa mga dagdag na benepisyo ang Role sa Server, Kulay para sa \"{{prefix}} Userinfo\" command at access sa mga social commands!"
+    "BOOST_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed na nagrarakang mga user na nag-boost sa \"Sofi Cafe\" discord server",
+    "BOOST_CATEGORY": "Mga Setting",
+    "EMBED_TITLE": "SOFI: BOOST",
+    "EMBED_FOOTER": "Ang mga Discord Boosters at mga Donators ay may karapatan na humiling ng 3D na mga bersyon at karakter.\nKasama sa mga dagdag na benepisyo ang Role sa Server, Kulay para sa \"{{prefix}} Userinfo\" command at access sa mga social commands!"
 }

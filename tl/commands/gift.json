@@ -9,6 +9,6 @@
     "PLAYER_NOT_EXISTS": "{{author}} Ang player na yan ay hindi nakarehistro!",
     "GIFT_SUCCESSFUL": "{{author}} ay nagregalo ng **{{amount}}** `{{eventItem}}` kay {{user}}\n{{user}} ay nakatanggap ng kabuuang **{{recieveCount}}** `{{eventItem}}`",
     "EMBED_TITLE": "SOFI: GIFT",
-    "GIFT_DESCRIPTION": "Mag regalo ng \"Event Items\" sa ibang user",
+    "GIFT_DESCRIPTION": "Ibigay ang card sa isang random na user",
     "NO_ACTIVE_EVENT": "{{author}} Walang pang event ang kasalukuyang aktibo"
 }

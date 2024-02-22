@@ -1,9 +1,7 @@
 {
-  "RULES_CATEGORY": "Mag Kaayusan",
-
-  "RULES_LIST": "<:_:979009081325019156> Huwag gumamit ng mga alts/multiple accounts para maglaro o makipag-ugnayan sa Sofi. I-self report kung ikaw ay lumabag sa patakaran na ito upang maiwasan ang parusa",
-  "RULES_DESCRIPTION": "Nagpapakita ng mga patakaran ni Sofi",
-  "EMBED_AUTHOR": "SOFI: PATAKARAN",
-
-  "EMBED_FOOTER": "{{count}} na mga user ang sumang-ayon sa mga patakaran na ito"
+    "RULES_CATEGORY": "Mag Kaayusan",
+    "RULES_LIST": "<:_:979009081325019156> Huwag gumamit ng mga alts/multiple accounts para maglaro o makipag-ugnayan sa Sofi. I-self report kung ikaw ay lumabag sa patakaran na ito upang maiwasan ang parusa",
+    "RULES_DESCRIPTION": "Ang command na ito ay magpapakita ng isang listahan ng ipinatutupad na mga patakaran sa Sofi. Ang pagpaparehistro ng iyong account sa Sofi ay nangangahulugang sumasang-ayon ka sa lahat ng mga patakaran na aming ipinahayag in advance. Ang hindi pagsunod sa itinakdang patakaran ay parurusahan sa iba't ibang antas ng kahigpitan",
+    "EMBED_AUTHOR": "SOFI: PATAKARAN",
+    "EMBED_FOOTER": "{{count}} na mga user ang sumang-ayon sa mga patakaran na ito"
 }

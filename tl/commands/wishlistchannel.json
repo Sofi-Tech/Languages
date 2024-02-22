@@ -1,6 +1,6 @@
 {
-  "WISHLISTCHANNEL_DESCRIPTION": "Itinatalaga ang iyong wishlist sa isang channel",
-  "CATEGORY": "Listahan ng Ninanais",
-  "CHANNEL_SET": "{{author}} Ang iyong wishlist ay naitakda sa {{channel}}",
-  "CHANNEL_REMOVE": "{{author}} Ang iyong wishlist ay tinanggal mula sa {{channel}}"
+    "WISHLISTCHANNEL_DESCRIPTION": "Gamitin ang command na ito upang i-pin ang iyong wishlist sa isang channel. Tuwing lumitaw ang isang card mula sa iyong wishlist sa nasabing channel, ipapaalam sa iyo ni Sofi",
+    "CATEGORY": "Listahan ng Ninanais",
+    "CHANNEL_SET": "{{author}} Ang iyong wishlist ay naitakda sa {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} Ang iyong wishlist ay tinanggal mula sa {{channel}}"
 }

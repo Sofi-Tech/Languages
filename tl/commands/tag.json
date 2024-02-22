@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "Maglagay ng \"Tags\" sa mga napiling kards",
+    "TAG_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong ilagay ang isang tag sa isang card. Ang mga tag ay isang kapaki-pakinabang na feature para ma-categorize at ma-group ang maraming cards na tugma sa iyong sariling kriterya. Gamitin ang command na \"Tagcreate\" upang lumikha ng mga tag",
     "TAG_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}t<TagName><CardCode>`",
     "NO_TAGS_CREATED": "{{author}} Wala kang anumang tag pa. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` upang lumikha ng isa",
