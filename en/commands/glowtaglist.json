@@ -1,7 +1,7 @@
 {
     "GLOWTAGLIST_DESCRIPTION": "This command will display a list with all of your Glow tags",
     "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} You dont have a **Glow** tag yet",
+    "NO_TAGS": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_zero": "{{count}} Glow",
     "GLOWS_one": "{{count}} Glow",
     "GLOWS_two": "{{count}} Glows",
