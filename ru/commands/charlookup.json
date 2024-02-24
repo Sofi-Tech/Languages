@@ -32,5 +32,6 @@
     "FAN_PTS_ADDED": "{{author}} **{{count}}** очко фаната успешно добавлено для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_PLURAL": "{{author}} **{{count}}** очков фаната успешно добавлено для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "EXAMPLE_INFO": "Правильное использование: <Amount> <Currency>",
-    "NO_VERSIONS_FOUND": "Не найдено владельцев **Version** варианта данного персонажа"
+    "NO_VERSIONS_FOUND": "Не найдено владельцев **Version** варианта данного персонажа",
+    "VERSION_LB": "Таблица лидеров Version"
 }
