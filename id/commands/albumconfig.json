@@ -1,5 +1,5 @@
 {
-  "ALBUMCONFIG_DESCRIPTION": "Mengonfigurasi album anda",
-  "AC_CATEGORY": "Album",
-  "CONFIGURE_ALBUM": "{{author}} Buat dan edit album anda di situs web kami: <https://sofi.gg/albums{{albumName}}>"
+    "ALBUMCONFIG_DESCRIPTION": "Menggunakan perintah ini akan mengirim pesan yang disertai dengan tautan ke situs web resmi Sofi, di mana anda dapat menyesuaikan dan mengonfigurasi album anda",
+    "AC_CATEGORY": "Album",
+    "CONFIGURE_ALBUM": "{{author}} Buat dan edit album anda di situs web kami: <https://sofi.gg/albums{{albumName}}>"
 }

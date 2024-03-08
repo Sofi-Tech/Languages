@@ -1,5 +1,5 @@
 {
-    "BURN_DESCRIPTION": "Brucia le tue carte per ottenere \"Crystals\" e \"Silver\" che possono essere usati per fabbricare \"Cubes\" o acquistare vari \"Items\" nel Bot. L'uso del comando \"sb\" da solo tenterà di masterizzare la tua scheda più recente",
+    "BURN_DESCRIPTION": "Usa questo comando per bruciare carte selettive in cambio di Siver e Cubes necessari per aggiornare le carte nella loro versione 3D. Utilizzando questo comando senza aggiungere un codice carta si tenterà di brusciare la carta ottenuta più recentemente",
     "GUILDSTONE_BURN": "Sei sicuro di voler bruciare la tua **Guild Stone**?",
     "GUILDSTONE_NOT_FOUND": "{{author}} Non hai una **Guild Stone**",
     "CANCELLED": "Il processo è stato annullato",
@@ -17,5 +17,5 @@
     "BURN_REWARDS": "__Premi__",
     "SUCCESSFUL_CARD_BURN": "{{author}} hai bruciato con successo la tua carta",
     "GIF_CARD": "{{author}} Non puoi bruciare una carta **GIF**",
-    "QUEST_CARD": "You cannot burn a card that is currently used in a quest"
+    "QUEST_CARD": "Non puoi bruciare una carta attualmente utilizzata in una quest"
 }

@@ -1,7 +1,7 @@
 {
-    "GLOWTAGLIST_DESCRIPTION": "Visualizza un elenco con il tuo \"Glow Tags\"",
+    "GLOWTAGLIST_DESCRIPTION": "Questo comando visualizzerà un elenco con tutti i tag Glow",
     "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} Non hai ancora un tag **Glow**",
+    "NO_TAGS": "{{author}} Non hai ancora un tag **Glow**. Puoi creare con il comando: `{{prefix}}gtc <Nome> <Emoji>`",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
     "GLOWS_one": "{{count}} Glow",
     "GLOWS_other": "{{count}} Glows",

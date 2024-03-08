@@ -1,5 +1,5 @@
 {
-    "FRAMESHOP_DESCRIPTION": "Visualizza i \"Frame\" attualmente in rotazione, così come le anteprime di quelli esistenti",
+    "FRAMESHOP_DESCRIPTION": "Questo comando aprirà un incorporamento che mostra tutti Frames attualmente disponibili per l'acquisto. Frames esposte nel negozio ruoteranno secondo un intervallo prestabilito, dopodiché non saranno più disponibili per l'acquisto. Frames ufficiali possono essere acquistati un numero illimitato di volte, mentre i frame realizzati dalla community hanno uno stock limitato",
     "FS_CATEGORY": "Cosmetici",
     "FS_SLASH_DESC": "Inserisci il codice di \"Frame\" che desideri visualizzare in anteprima",
     "NO_DESCRIPTION_FOUND": "Questa Frame non ha ancora una descrizione",
@@ -28,5 +28,11 @@
     "CF_MENU_LABEL": "Personalizzate",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Imposta con successo la descrizione selezionata per il tuo **Frame**",
     "FRAME_DESCRIPTION": "\nArtista: **{{artist}}**\nCodice: `{{code}}`\nPrezzo: **{{price}}**\n\n```fix\n{{description}}\n```",
-    "FS_UNAVAILABLE": "Non disponibile"
+    "FS_UNAVAILABLE": "Non disponibile",
+    "EMBED_FOOTER_zero": "Caricato {{count}} giorno fa",
+    "EMBED_FOOTER_one": "Caricato {{count}} giorno fa",
+    "EMBED_FOOTER_two": "Caricato {{count}} giorni fa",
+    "EMBED_FOOTER_few": "Caricato {{count}} giorni fa",
+    "EMBED_FOOTER_other": "Caricato {{count}} giorni fa",
+    "EMBED_FOOTER_many": "Caricato {{count}} giorni fa"
 }
