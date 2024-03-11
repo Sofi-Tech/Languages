@@ -1,5 +1,5 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "Elenca i \"Fragments\" disponibili di un utente",
+    "VIEWFRAGS_DESCRIPTION": "Questo comando aprirà l'inventario dei Fragments di un utente. I Fragments vengono utilizzati per creare varianti GIF di un personaggio. Puoi usare il comando \"Pull\" per ottenerli",
     "COLLECTION_PVT": "{{author}} I **Fragments** di quell'utente sono privati",
     "CANNOT_FIND_FRAGS": "{{user}} Quell'utente non ha **Fragments**",
     "FRAGS_COUNT": "Totale: {{totalCount}}",

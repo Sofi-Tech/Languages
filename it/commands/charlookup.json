@@ -1,9 +1,9 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- Puoi cercare un carattere specifico usando il comando \"scl\". In questo menu puoi controllare le statistiche di un carattere, le sue varianti Version/3D/GIF, così come le Gen/Fan classifiche e il suo \"Card ID\".\n- Il \"Card ID\" è richiesto quando si inviano immagini per nuove \"Versions\"",
+    "CHARLOOKUP_DESCRIPTION": "Con questo comando puoi cercare qualsiasi carattere tu voglia. L'incorporamento generato ti mostrerà quindi varie statistiche sul personaggio, nonché una classifica per i possessori della generazione più bassa di quel personaggio",
     "CHAR_NOT_FOUND": "{{author}} Non è stato possibile trovare alcun carattere con il nome `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Non è stato possibile trovare alcun carattere con il nome `{{arg}}`\n\n```fix\nNota: l'uso del flag `-f` trasforma la funzione con distinzione tra maiuscole e minuscole!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "NORMAL_LABEL": "Versioni",
+    "NORMAL_LABEL": "Versione: 1",
     "FAN_PTS_LABEL": "Aggiungi Punti Fan",
     "3D_LABEL": "3D",
     "GIF_LABEL": "GIF",
@@ -31,5 +31,7 @@
     "EXAMPLE_INFO": "Formato corretto: <quantità> <valuta>",
     "FAN_PTS_ADDED": "{{author}} aggiunto con successo **{{count}}** punti a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_PLURAL": "{{author}} Aggiunto con successo **{{count}}** punti a **{{characterName}}**\n\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MORE_INFO_LABEL": "Seleziona un'opzione"
+    "MORE_INFO_LABEL": "Seleziona un'opzione",
+    "NO_VERSIONS_FOUND": "Nessuno possiede ancora una variante **Version** di questo personaggio",
+    "VERSION_LB": "Versione LB"
 }

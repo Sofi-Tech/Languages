@@ -1,6 +1,6 @@
 {
-  "WISHLISTCHANNEL_DESCRIPTION": "Imposta la tua wishlist nel un canale",
-  "CATEGORY": "Wishlist",
-  "CHANNEL_SET": "{{author}} La tua wishlist è stata impostata nel {{channel}}",
-  "CHANNEL_REMOVE": "{{author}} La tua wishlist è stata rimossata da {{channel}}"
+    "WISHLISTCHANNEL_DESCRIPTION": "Utilizza questo comando per aggiungere la tua wishlist a un canale. Ogni volta che una carta dalla tua wishlist appare in quel canale, Sofi ti avviserà",
+    "CATEGORY": "Wishlist",
+    "CHANNEL_SET": "{{author}} La tua wishlist è stata impostata nel {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} La tua wishlist è stata rimossata da {{channel}}"
 }

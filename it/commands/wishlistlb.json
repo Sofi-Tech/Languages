@@ -1,8 +1,8 @@
 {
-  "WISHLISTLB_DESCRIPTION": "Visualizza la classifica della wishlist",
-  "CATEGORY": "Wishlist",
-  "EMBED_TITLE": "SOFI: WISHLISTLB",
-  "EMBED_FOOTER": "Pagina visualizzata: {{page}}/{{pages}}",
-  "CHARACTER_BUTTON_LABEL": "Personaggi",
-  "SERIES_BUTTON_LABEL": "Serie"
+    "WISHLISTLB_DESCRIPTION": "Questo comando creerà un incorporamento che classifica i personaggi con la wishlist più alta in Sofi",
+    "CATEGORY": "Wishlist",
+    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+    "EMBED_FOOTER": "Pagina visualizzata: {{page}}/{{pages}}",
+    "CHARACTER_BUTTON_LABEL": "Personaggi",
+    "SERIES_BUTTON_LABEL": "Serie"
 }
