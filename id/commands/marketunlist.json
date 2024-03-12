@@ -1,5 +1,5 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Menghapus penawaran anda dari pasar",
+    "MARKETUNLIST_DESCRIPTION": "Gunakan perintah ini untuk menghapus order Anda dari pasar",
     "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}mul <Order-ID/Semua>`",
     "INVALID_DEAL_ID": "{{author}} Order-ID yang anda berikan salah atau bukan milik anda",
     "SUCCESS_UL": "{{user}} Berhasil menghapus pesanan berikut dari pasar: `{{dealId}}`",

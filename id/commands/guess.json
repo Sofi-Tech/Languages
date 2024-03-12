@@ -1,5 +1,5 @@
 {
-    "GUESS_DESCRIPTION": "Mulai permainan tebak kata",
+    "GUESS_DESCRIPTION": "Gunakan perintah ini untuk memulai permainan tebak-tebakan. Semua pemain yang bergabung dalam permainan tebak-tebakan akan dikurangi jumlah mata uang yang ditampilkan dari inventaris mereka setelah permainan dimulai. Sebuah kata dalam bahasa Inggris secara acak akan dipilih dan diacak. Orang pertama yang berhasil mengetikkan kata asli dalam obrolan akan menjadi pemenang permainan tebak-tebakan dan mendapatkan jumlah semua biaya masuk",
     "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}guess <Jumlah> <Mata Uang>`\nMata uang yang diterima: **Silver**, **Wists**, **Gems**, **Cubes**",
     "NO_TP": "{{author}} Anda memerlukan **Trade Pass** yang aktif untuk melakukan permainan tebak-tebakan",
     "NOT_ENOUGH_CURR": "{{user}} Anda tidak memiliki cukup **{{currency}}** untuk memulai permainan",

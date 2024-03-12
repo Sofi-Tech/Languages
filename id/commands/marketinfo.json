@@ -1,5 +1,5 @@
 {
-    "MARKETINFO_DESCRIPTION": "Menampilkan daftar pasar anda saat ini atau memeriksa penawaran jika anda memberikan ID",
+    "MARKETINFO_DESCRIPTION": "Menggunakan perintah ini akan menampilkan pesanan pasar Anda saat ini. Anda juga dapat menambahkan ID dari order yang ada pada prompt untuk mendapatkan informasi lebih lanjut mengenai order tertentu",
     "INVALID_DEAL_ID": "{{author}} ID-Pesanan yang anda berikan tidak valid",
     "TRADER": "Pedagang",
     "DEAL_ID": "ID-Pemesanan",
@@ -9,7 +9,7 @@
     "LISTED": "Terdaftar",
     "NO_LISTINGS_FOUND": "{{user}} Saat ini anda tidak memiliki pesanan apa pun di pasar",
     "INFO": "Gunakan perintah `{{prefix}}mul <Order-ID>` untuk menghapus pesanan anda dari pasar",
-    "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}}",
+    "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}} | {{prefix}}mbuy <Order-ID> <Jumlah>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_EMBED_TITLE": "SOFI: MARKETINFO",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"

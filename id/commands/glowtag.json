@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "Memberikan \"Tag\" ke \" Glows\" anda",
+    "GLOWTAG_DESCRIPTION": "Dengan perintah ini anda dapat menetapkan tag ke Glow anda. Untuk membuat tag Glow, gunakan perintah \"Glowtagcreate\"",
     "GT_CATEGORY": "Tag",
     "GLOWTAGS_NOT_FOUND": "{{author}} Anda belum memiliki tag **Glow**. Anda dapat membuatnya dengan perintah: `{{prefix}}gtc <Nama> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Anda belum memiliki **Glows**",

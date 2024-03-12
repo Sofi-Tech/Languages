@@ -1,6 +1,6 @@
 {
-  "INVITE_DESCRIPTION": "Gabunglah dengan Server Support kami atau bawa Sofi ke servermu sendiri dengan mengklik tautan yang sesuai!",
-  "INVITE_CATEGORY": "Pengaturan",
-  "EMBED_TITLE": "SOFI: INVITE",
-  "JOIN_SUPPORT": "**[Bergabunglah dengan Server Dukungan resmi kami!] (https://discord.gg/sofi)**\n**[Undang Sofi ke Server Anda sendiri!] (https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
+    "INVITE_DESCRIPTION": "Menggunakan perintah ini akan membuat embed dengan 2 tautan berbeda. Tautan pertama akan mengundang Anda ke Server Dukungan resmi \"Sofi Cafe\", sedangkan tautan kedua akan membuka jendela untuk mengundang Sofi ke server Anda",
+    "INVITE_CATEGORY": "Pengaturan",
+    "EMBED_TITLE": "SOFI: INVITE",
+    "JOIN_SUPPORT": "**[Bergabunglah dengan Server Dukungan resmi kami!] (https://discord.gg/sofi)**\n**[Undang Sofi ke Server Anda sendiri!] (https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
 }

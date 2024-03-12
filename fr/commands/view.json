@@ -1,15 +1,15 @@
 {
-  "VIEW_DESCRIPTION": "Affiche une carte",
-  "SLASH_DESC1": "Entrez un code d'une carte",
-  "INVALID_CODE": "{{author}} Le code de la carte est invalide",
-  "SERIES": "Série:",
-  "NAME": "Nom:",
-  "OWNED_BY": "Possédée Par:",
-  "SERVER": "ID de Serveur:",
-  "CLAIMED": "Obtenu Le:",
-  "MOVES": "Compétences",
-  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Puissance **({{percentage}}%)**",
-  "EMBED_TITLE": "SOFI: VIEW",
-  "SPECIAL": "Spécial",
-  "INFO_BUTTON_LABEL": "Info"
+    "VIEW_DESCRIPTION": "Cette commande affichera l'apparence visuelle d'une carte spécifiée. Utilisez cette commande sans code de carte pour à la place afficher votre dernière carte obtenue",
+    "SLASH_DESC1": "Entrez un code d'une carte",
+    "INVALID_CODE": "{{author}} Le code de la carte est invalide",
+    "SERIES": "Série:",
+    "NAME": "Nom:",
+    "OWNED_BY": "Possédée Par:",
+    "SERVER": "ID de Serveur:",
+    "CLAIMED": "Obtenu Le:",
+    "MOVES": "Compétences",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Puissance **({{percentage}}%)**",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "SPECIAL": "Spécial",
+    "INFO_BUTTON_LABEL": "Info"
 }

@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Anda dapat menampilkan koleksi anda dengan perintah \"sc\"\n- Koleksi anda dapat diurutkan berdasarkan Nama, Kosmetik, Statistik, dan lainnya\n- Koleksi juga dapat difilter berdasarkan Nama \"Wishlist\", \"Gen\" atau \"Tag\"\n- Gunakan perintah \"sc t:ut\" untuk menampilkan semua kartu yang belum ditandai dalam koleksi Anda",
+    "COLLECTION_DESCRIPTION": "Perintah ini akan menampilkan seluruh koleksi anda, yang kemudian dapat disortir dan difilter dengan berbagai cara. Menggunakan perintah ini dengan prompt tambahan akan membuka embed dengan filter spesifik yang sudah diterapkan padanya. Gunakan prompt \"t:ut\" sebagai tambahan perintah ini untuk menyorot semua kartu dalam koleksi anda yang saat ini tidak memiliki tag",
     "SLASH_CMD_DESC": "Menampilkan koleksi kartu anda",
     "SLASH_DESC": "Pilih pengguna untuk melihat koleksi mereka",
     "SLASH_DESC2": "Masukkan filter yang ingin anda terapkan pada koleksi",
@@ -25,7 +25,7 @@
     "NOT_AVAILABLE": "Seri tidak valid",
     "SORT_LEVEL": "Level",
     "TAG_MODAL_LABEL": "Tag Massal",
-    "TAG_MODAL_PLACEHOLDER": "Gunakan \"-\" untuk menghapus \"Tag\" secara massal",
+    "TAG_MODAL_PLACEHOLDER": "Gunakan \"-\" untuk menghapus tag secara massal",
     "TAG_MODAL_TITLE": "SOFI: COLLECTION",
     "TAG_NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu dengan tag `{{arg}}}`",
     "USER_NOT_FOUND": "{{author}} Tidak bisa menemukan user tersebut",

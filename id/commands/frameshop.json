@@ -1,5 +1,5 @@
 {
-    "FRAMESHOP_DESCRIPTION": "Tampilkan \"Frame\" yang sekarang berotasi , serta preview untuk yang sudah ada",
+    "FRAMESHOP_DESCRIPTION": "Perintah ini akan membuka embed yang menampilkan semua Frame yang saat ini tersedia untuk dibeli. Frame yang ditampilkan di toko akan berputar pada interval yang ditetapkan, setelah itu tidak tersedia untuk dibeli. Frame resmi bisa dibeli dalam jumlah yang tidak terbatas, sementara Frame buatan komunitas memiliki stok yang terbatas",
     "FS_CATEGORY": "Kosmetik",
     "FS_SLASH_DESC": "Masukkan kode \"Frame\" yang ingin anda lihat",
     "NO_DESCRIPTION_FOUND": "Frame ini belum memiliki deskripsi",
@@ -28,5 +28,11 @@
     "CF_MENU_LABEL": "Kustom",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Berhasil menetapkan deskripsi yang dipilih untuk **Frame** anda",
     "FRAME_DESCRIPTION": "\nArtis: **{{artist}}**\nKode: `{{code}}`\nHarga: **{{price}}**\n\n```perbaikan\n{{description}}\n```",
-    "FS_UNAVAILABLE": "Tidak tersedia"
+    "FS_UNAVAILABLE": "Tidak tersedia",
+    "EMBED_FOOTER_one": "Diunggah {{count}} hari yang lalu",
+    "EMBED_FOOTER_few": "Diunggah {{count}} hari yang lalu",
+    "EMBED_FOOTER_other": "Diunggah {{count}} hari yang lalu",
+    "EMBED_FOOTER_many": "Diunggah {{count}} hari yang lalu",
+    "EMBED_FOOTER_zero": "Diunggah {{count}} hari yang lalu",
+    "EMBED_FOOTER_two": "Diunggah {{count}} hari yang lalu"
 }

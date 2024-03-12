@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Membakar banyak kartu sekaligus",
+    "MASSBURN_DESCRIPTION": "Gunakan perintah ini untuk membakar beberapa kartu sekaligus dengan menambahkan parameter seperti \"t:TagName\" dan \"wl<Number\" untuk menentukan kartu mana yang ingin Anda bakar. Gunakan perintah \"Filter bantuan\" untuk mendapatkan daftar lengkap parameter yang tersedia",
     "IN_ACTIVE_MB": "{{user}} Anda tidak dapat memulai **Massburn** baru saat yang lama masih aktif",
     "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filter>`\n\n```fix\nCatatan: Anda dapat menemukan daftar lengkap filter dengan perintah {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Tidak dapat menemukan tag dengan nama `{{arg}}`",

@@ -1,5 +1,5 @@
 {
-    "INVENTORY_DESCRIPTION": "Menampilkan inventory pengguna",
+    "INVENTORY_DESCRIPTION": "Menggunakan perintah ini akan menampilkan inventaris pengguna",
     "SLASH_DESC": "Pilih pengguna untuk melihat inventory mereka",
     "SLASH_DESC2": "Masukkan item yang ingin anda cari",
     "NOT_REGISTER": "{{author}} Pengguna tersebut tidak terdaftar",
@@ -22,5 +22,10 @@
     "NO_EVENT_FOUND": "Tidak dapat menemukan item event",
     "EMBED_AUTHOR": "SOFI: INVENTORY ({{username}})",
     "FRAME_CATEGORY_ALL": "Semua Frame",
-    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Pilih Kategori"
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Pilih Kategori Frame",
+    "FRAME_CATEGORY_OFFICIAL": "Resmi",
+    "FRAME_CATEGORY_LIMITED": "Terbatas",
+    "FRAME_CATEGORY_DISCONTINUED": "Dihentikan",
+    "FRAME_CATEGORY_CUSTOM": "Kustom",
+    "FRAME_CATEGORY_MONTHLY": "Bulanan"
 }

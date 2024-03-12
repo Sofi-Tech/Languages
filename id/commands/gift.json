@@ -9,6 +9,6 @@
     "NOT_ENOUGH_ITEM": "{{author}} Anda tidak memiliki **{{amount}}** **{{eventItem}}**",
     "GIFT_SUCCESSFUL": "{{author}} telah menghadiahkan **{{amount}}** **{{eventItem}}** kepada {{user}}\n{{user}} telah menerima total **{{recieveCount}}** **{{eventItem}}**",
     "EMBED_TITLE": "SOFI: GIFT",
-    "GIFT_DESCRIPTION": "Menghadiahkan \"Item Event\" kepada pengguna lain",
+    "GIFT_DESCRIPTION": "Memberikan kartu kepada pengguna secara acak.",
     "NO_ACTIVE_EVENT": "{{author}} Tidak ada event yang sedang aktif saat ini"
 }

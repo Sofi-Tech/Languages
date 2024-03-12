@@ -1,5 +1,5 @@
 {
-    "FONTCOLOR_DESCRIPTION": "Mengubah warna font dari kartu tersebut dengan menggunakan \"Glow\"",
+    "FONTCOLOR_DESCRIPTION": "Anda dapat menggunakan perintah ini untuk menerapkan Glow pada font kartu, dan mengubah warnanya dalam prosesnya. Tambahkan prompt tambahan \"reset\" ke perintah ini jika anda ingin menghapus Glow yang sudah ada dari font kartu",
     "FC_CATEGORY": "Kosmetik",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}fc <KodeKartu> <KodeGlow>`",
     "NOT_CARD_OWNER": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",

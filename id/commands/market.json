@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Menampilkan pasar Sofi",
+    "MARKET_DESCRIPTION": "Perintah ini mencantumkan semua pesanan yang saat ini tersedia di pasar. Pasar dapat digunakan oleh pemain untuk menawarkan Wist mereka untuk ditukar dengan Gems melalui perintah \"Marketlist\"",
     "NO_LISTING_FOUND": "{{author}} Tidak dapat menemukan pesanan di market",
     "MARKET_WARN": "**Rate rata-rata**: **`{{averageRate}}` | Total Perdagangan**: **`{{totalTrades}}`**",
-    "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}}",
+    "FOOTER": "Menampilkan hasil {{page}}-{{pages}} dari {{total}} | {{prefix}}mbuy <Order-ID> <Jumlah>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }
