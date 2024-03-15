@@ -1,5 +1,5 @@
 {
-    "AUCTIONINFO_DESCRIPTION": "Visualizza le informazioni sull'Auction",
+    "AUCTIONINFO_DESCRIPTION": "Questo comando aprirà embed che mostra le aste passate e in corso per i codici delle carte su cui puoi fare offerte. Le aste utilizzano Charms come valuta richiesta per fare un'offerta",
     "AI_CATEGORY": "Carte",
     "NO_ONGOING_AUCTION": "{{author}} Al momento non ci sono auctions attive",
     "BID_SELECTION": "Usa il comando {{prefix}}ai <Auction-ID> o seleziona un'auction attiva dal menu sottostante",

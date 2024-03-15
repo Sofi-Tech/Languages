@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "Crea un \"Tag\"",
+    "TAGCREATE_DESCRIPTION": "Con questo comando puoi creare un tag per classificare e raggruppare più carte che soddisfano i tuoi criteri. Utilizza il comando \"Tag\" per assegnare i tags creati alle carte",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}tc <NomeDellaTag> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Quell'emoji non è valida",

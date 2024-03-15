@@ -1,5 +1,5 @@
 {
-    "UNDOBACKGROUND_DESCRIPTION": "Rimuove uno \"Background\" applicato da una carta",
+    "UNDOBACKGROUND_DESCRIPTION": "Utilizzando questo comando su una carta 3D ne rimuoverai Background e la riporterai nel tuo inventario",
     "UB_CATEGORY": "Cosmetici",
     "WRONG_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}undobg <CardCode>`",
     "NO_CHARACTER_FOUND": "{{author}} Il carattere su questa carta non è più disponibile su Sofi e non è possibile interagire con esso",
