@@ -1,5 +1,5 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "Mentransfer kartu dari satu \"Tag\" ke lainnya",
+    "TRANSFERTAG_DESCRIPTION": "Anda dapat menggunakan perintah ini untuk mentransfer semua kartu dalam sebuah tag ke dalam tag yang berbeda",
     "TRTAG_CATEGORY": "Tag",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}trt <dariTagLama> <keTagBaru>`",
     "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki tag dengan nama `{{tag}}}`",

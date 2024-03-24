@@ -1,5 +1,5 @@
 {
-    "PERMISSION_DESCRIPTION": "Memungkinkan anda untuk menggunakan atau mematikan perintah di channel.",
+    "PERMISSION_DESCRIPTION": "Dengan perintah ini Anda dapat membuat daftar putih atau daftar hitam perintah dalam channel yang digunakan. Perintah yang masuk daftar putih akan menjadi satu-satunya perintah yang dapat digunakan di channel tersebut, sedangkan perintah yang masuk daftar hitam akan menjadi satu-satunya perintah yang tidak dapat digunakan di channel tersebut",
     "PERMS_CATEGORY": "Pengaturan",
     "BLACKLIST_BUTTON_LABEL": "Daftar Hitam",
     "WHITELIST_BUTTON_LABEL": "Daftar Putih",

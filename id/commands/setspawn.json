@@ -1,8 +1,8 @@
 {
-  "SS_CATEGORY": "Pengaturan",
-  "SS_SLASH_DESC": "Pilih channel",
-  "SS_DISABLE": "{{author}} Kartu tidak akan muncul lagi di server ini",
-  "SS_ENABLE": "{{author}} Channel spawn telah disetel ke {{channel}}",
-  "SETSPAWN_DESCRIPTION": "Mengatur channel spawn di server",
-  "SS_MENTION_CHANNEL": "{{author}} Penggunaan yang benar: `{{prefix}}ss <#ChannelMention/ChannelID>`"
+    "SS_CATEGORY": "Pengaturan",
+    "SS_SLASH_DESC": "Pilih channel",
+    "SS_DISABLE": "{{author}} Kartu tidak akan muncul lagi di server ini",
+    "SS_ENABLE": "{{author}} Channel spawn telah disetel ke {{channel}}",
+    "SETSPAWN_DESCRIPTION": "Menggunakan perintah ini di sebuah channel atau menyebutkan sebuah channel akan menetapkan atau menghapus channel tersebut sebagai channel spawn. Bergantung pada aktivitas server yang sedang naik, Sofi terkadang akan menjatuhkan kartu sendiri di saluran yang ditentukan",
+    "SS_MENTION_CHANNEL": "{{author}} Penggunaan yang benar: `{{prefix}}ss <#ChannelMention/ChannelID>`"
 }

@@ -1,15 +1,15 @@
 {
-  "VIEW_DESCRIPTION": "Tampilkan sebuah kartu",
-  "SLASH_DESC1": "Masukkan kode kartu",
-  "INVALID_CODE": "{{author}} Kode kartu tidak valid",
-  "SERIES": "Seri:",
-  "NAME": "Nama:",
-  "OWNED_BY": "Dimiliki oleh:",
-  "SERVER": "Server-ID:",
-  "CLAIMED": "Diklaim di:",
-  "MOVES": "Kemampuan",
-  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensi **({{percentage}}%)**",
-  "EMBED_TITLE": "SOFI: VIEW",
-  "SPECIAL": "Istimewa",
-  "INFO_BUTTON_LABEL": "Keterangan"
+    "VIEW_DESCRIPTION": "Perintah ini akan menampilkan tampilan visual dari kartu tertentu. Gunakan perintah ini tanpa kode kartu untuk menampilkan kartu yang terakhir kali Anda dapatkan",
+    "SLASH_DESC1": "Masukkan kode kartu",
+    "INVALID_CODE": "{{author}} Kode kartu tidak valid",
+    "SERIES": "Seri:",
+    "NAME": "Nama:",
+    "OWNED_BY": "Dimiliki oleh:",
+    "SERVER": "Server-ID:",
+    "CLAIMED": "Diklaim di:",
+    "MOVES": "Kemampuan",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensi **({{percentage}}%)**",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "SPECIAL": "Istimewa",
+    "INFO_BUTTON_LABEL": "Keterangan"
 }

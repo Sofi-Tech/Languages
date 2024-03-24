@@ -1,5 +1,5 @@
 {
-    "SHOP_DESCRIPTION": "Membeli \"Item\" dari \"Shop\" Sofi",
+    "SHOP_DESCRIPTION": "Gunakan perintah ini untuk membuka toko Sofi, di mana Anda dapat menemukan berbagai macam barang",
     "GUILD": "Guild",
     "GEMS": "Pembelian",
     "SOFI_SHOP": "SOFI: TOKO ({{section}})",
@@ -15,6 +15,6 @@
     "DONATE_SUPPORT": "Dukung kami dengan menjadi patron!",
     "BUY_STAT_RESET": "**1) `{{prefix}}buy sr` | <:elixir:979673719884636210> 500x Elixir ➜ 🌀 1x Stat Reset**",
     "BUY_DROP": "**1) `{{prefix}}beli drop` | <:wist:870339503427027005> 1x Wist ➜ <:sofidrop:915966705811988570> 1x Drop**",
-    "BUY_CHARM": "**7) `{{prefix}}buy charm` | <:wist:870339503427027005> 1x Wist/<:gemgame:862598030562033694> 8 Gems ➜ <:xcharm:988729774031638528> 100x Charm **",
+    "BUY_CHARM": "**7) `{{prefix}}buy charm` | <:wist:870339503427027005> 1x Wist ➜ <:xcharm:988729774031638528> 100x Charm **",
     "CHARM": "> **Charms** digunakan untuk mengajukan penawaran pada lelang aktif - `{{prefix}}ai`"
 }

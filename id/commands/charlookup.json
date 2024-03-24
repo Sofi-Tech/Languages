@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Dengan perintah ini, anda dapat mencari karakter tertentu yang anda inginkan. Embed yang dihasilkan kemudian akan menampilkan berbagai statistik tentang karakter tersebut, serta papan peringkat untuk pemilik Gen terendah dari karakter tersebut",
+    "CHARLOOKUP_DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah \"scl\". Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Fan dan \"Card ID\" karakter tersebut.\n- \"Card ID\" diperlukan saat mengirimkan gambar untuk \"Versi\" baru",
     "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama `{{arg}}`\n\n``` perbaiki\nCatatan: Menggunakan flag `-f` membuat fungsi peka huruf besar-kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -33,5 +33,5 @@
     "EXAMPLE_INFO": "Format yang benar: <Jumlah> <Mata Uang>",
     "FAN_PTS_ADDED_PLURAL": "{{author}} Berhasil menambahkan **{{count}}** point ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "VERSION_LB": "Versi LB",
-    "NO_VERSIONS_FOUND": "Belum ada yang memiliki varian **Version** dari karakter ini"
+    "NO_VERSIONS_FOUND": "Karakter ini belum ada versinya"
 }

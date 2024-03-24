@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "Beri \"Tag\" pada kartu yang dipilih",
+    "TAG_DESCRIPTION": "Dengan perintah ini, Anda dapat menetapkan tag ke kartu. Tag adalah fitur yang berguna untuk mengkategorikan dan mengelompokkan beberapa kartu yang sesuai dengan kriteria Anda. Gunakan perintah \"Tagcreate\" untuk membuat tag",
     "TAG_CATEGORY": "Tag",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}t <NamaTag> <KodeKartu>`",
     "NO_TAGS_CREATED": "{{author}} Anda belum memiliki tag apa pun. Gunakan perintah `{{prefix}}tc <NamaTag> <Emoji>` untuk membuatnya",

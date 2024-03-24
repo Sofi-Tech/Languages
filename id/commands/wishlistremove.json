@@ -1,8 +1,8 @@
 {
-  "WISHLISTREMOVE_DESCRIPTION": "Menghapus karakter dari wishlist anda",
-  "CATEGORY": "Wishlist",
-  "NO_INDEX": "{{author}} Penggunaan yang benar: `{{prefix}}wr <Nama/Nomor>`. Gunakan perintah `{{prefix}}wr full reset` untuk menghapus seluruh daftar keinginan anda",
-  "FULL_RESET": "{{author}} Berhasil menghapus semua karakter dari daftar keinginan anda",
-  "REMOVE_CHARACTER": "{{author}} Berhasil menghapus **{{name}}** dari daftar keinginan anda",
-  "NO_RESULTS": "{{author}} Tidak ada karakter dengan nama `{{name}}` di daftar keinginan anda"
+    "WISHLISTREMOVE_DESCRIPTION": "Gunakan perintah ini untuk menghapus karakter dari daftar wishlist Anda",
+    "CATEGORY": "Wishlist",
+    "NO_INDEX": "{{author}} Penggunaan yang benar: `{{prefix}}wr <Nama/Nomor>`. Gunakan perintah `{{prefix}}wr full reset` untuk menghapus seluruh daftar keinginan anda",
+    "FULL_RESET": "{{author}} Berhasil menghapus semua karakter dari daftar keinginan anda",
+    "REMOVE_CHARACTER": "{{author}} Berhasil menghapus **{{name}}** dari daftar keinginan anda",
+    "NO_RESULTS": "{{author}} Tidak ada karakter dengan nama `{{name}}` di daftar keinginan anda"
 }
