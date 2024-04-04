@@ -6,7 +6,7 @@
     "CANNOT_BE_GRABBED": "{{user}} Die folgenden Karten können nicht mehr **eingesammelt** werden",
     "TOOK_CARD": "{{user}} hat die **{{character}}** Karte **erhalten** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} schlitterte davon mit {{amount}} festive Socks von <@{{userId}}>!",
-    "GRAB_EVENT_ITEM": "{{winner}} klaut {{amount}} festive Socks in einer Schneeballschlacht gegen {{userCount}} andere Spieler <:xmassock:1183307747404558387>✨",
+    "GRAB_EVENT_ITEM": "{{winner}} klaut {{amount}} festive Socks in einer Schneeballschlacht gegen {{userCount}} andere Spieler 🌷✨",
     "GRAB_CARD": "{{winner}} hat sich im Kampf gegen {{user}} durchgesetzt und die **{{character}}** Karte **erhalten** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CARDS_DROPPED_BY": "{{user}} hat Karten **gedroppt**",
     "GRAB_VERSION": "{{winner}} hat sich im Kampf gegen {{user}} durchgesetzt und den **{{character}}** **Version Token** **erhalten** (`{{code}}`) [**V{{version}}**]",
