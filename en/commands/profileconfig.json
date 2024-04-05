@@ -23,7 +23,7 @@
     "PROVIDE_FAV_CC": "Enter the code of the card you want to display on your profile",
     "VIEW_PROFILE_BGS": "[View all available backgrounds here](https://sofi.gg/profile/background)",
     "NON_TRADABLE_NOTE": "Profile backgrounds cannot be traded in any way",
-    "NEED_MIN_AWARDS": "You need a minimum of **9** badges in order to use this option",
+    "NEED_MIN_AWARDS": "{{author}} You need a minimum of **9** badges in order to use this option",
     "PROVIDE_ACH_ID": "Badges on your profile are displayed from left to right",
     "NO_GLOW": "Enter a **Glow** code. Type `none` to remove.",
     "SET_FC_CONFIRM": "Are you sure you want to set **{{character}}** from **{{series}}** as your favorite character?",
