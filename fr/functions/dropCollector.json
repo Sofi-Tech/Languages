@@ -1,12 +1,15 @@
 {
     "EXTRA_GRAB": "{{user}} Votre Extra **Grab** a été utilisé. Il vous en reste **{{remaining}}**",
-    "GRAB_EVENT_ITEM": "{{winner}} a battu **{{userCount}}** autres utilisateurs et reçois **{{amount}}** **{{eventItem}}**",
+    "GRAB_EVENT_ITEM": "Un vrai guerrier des tulipes ! {{winner}} a protégé {{amount}} 🌷 de {{userCount}} joueurs",
     "GRAB_CARD": "{{winner}} s'est battu contre {{user}} et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_COOLDOWN": "{{user}} Vous devez attendre **{{cooldown}}** pour grab une autre carte",
-    "GRAB_CARD_PLURAL": "{{winner}} s'est battu contre **{{userCount}}** autres joueurs et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "TOOK_CARD": "{{user}} a **grab** **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "SNATCHED_EVENT_ITEM": "{{winner}} a piquer **{{amount}}** **{{eventItem}}** à <@{{userId}}>",
-    "EVENT_GRAB": "{{user}} a reçu {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
+    "GRAB_CARD_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "TOOK_CARD": "{{user}} a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "SNATCHED_EVENT_ITEM": "Bien joué! {{winner}} a récupéré {{amount}} tulipes de <@{{userId}}>",
+    "EVENT_GRAB": "{{user}} a récolté {{currencyEmoji}} **{{amount}}** **{{eventItem}}** pour le jardin",
     "CANNOT_BE_GRABBED": "{{user}} Les cartes ci-dessous ne peuvent plus être **grab**",
-    "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes"
+    "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes",
+    "GRAB_VERSION": "{{winner}} a combattu {{user}} et a **saisi** le **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "TOOK_VERSION": "{{winner}} a **grab** **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION_PLURAL": "{{winner}} a combattu **{{userCount}}** d'autres joueurs et a **grab** **{{character}}** **Version Token** (`{{code}}`) [  **V{{version}}**]"
 }

@@ -10,5 +10,6 @@
     "INVALID_BG_ID": "{{author}} Aucun **Background** possédant cet ID n'a été trouvé",
     "INVALID_ITEM_PROVIDED": "{{user}} L'item que vous avez fourni est invalide",
     "BUY_CHARMS_MULTIPLES": "{{author}} Vous ne pouvez acheter des **Charms** que par multiples de 100",
-    "BUY_CHARM_CONFIRMATION": "## Vous achetez {{amount}} <:xcharm:988729774031638528>"
+    "BUY_CHARM_CONFIRMATION": "## Vous achetez {{amount}} <:xcharm:988729774031638528>",
+    "BUY_GEN_CONFIRMATION": "## Vous achetez {{count}} gen scratcher"
 }

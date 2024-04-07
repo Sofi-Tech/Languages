@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Con este comando puedes buscar cualquier personaje que desees. El mensaje embed generado te mostrará varias estadísticas sobre el personaje, así como una clasificación de los propietarios de los Gen más bajos del mismo.",
+    "CHARLOOKUP_DESCRIPTION": "- Puedes ver un personaje en concreto usando el comando \"scl\". En este menu puedes ver las estadísticas del personaje, sus variantes Version/3D/GIF, así como su Gen/Tabla de clafisicación de fans y su \"ID de Carta\".\n- El \"ID de Carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
     "CHAR_NOT_FOUND": "{{author}} No se ha podido encontrar ningún personaje con el nombre `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} No se ha podido encontrar ningún personaje con el nombre `{{arg}}`\n\n```fix\nNota: si usas la opción `-f`, la función distinguirá entre mayúsculas y minúsculas.\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -32,6 +32,6 @@
     "FAN_PTS_ADDED": "{{author}} Añadido con éxito **{{count}}** punto a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_PLURAL": "{{author}} Añadidos con éxito **{{count}}** puntos a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "EXAMPLE_INFO": "Formato Correcto: <Cantidad> <Divisa>",
-    "NO_VERSIONS_FOUND": "Nadie es dueño de una variante **Version** de este personaje",
+    "NO_VERSIONS_FOUND": "Este personaje aún no tiene versions",
     "VERSION_LB": "Tabla de Clasificación de Version"
 }

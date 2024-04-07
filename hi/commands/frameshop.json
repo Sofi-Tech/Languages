@@ -28,5 +28,12 @@
     "CF_MENU_LABEL": "कस्टम",
     "EDIT_DESC_SUCCESSFUL": "{{author}} आपकी **Frame** का विवरण सफलतापूर्वक सेट किया गया।",
     "FS_UNAVAILABLE": "अनुपलब्ध",
-    "FRAME_DESCRIPTION": "\nकलाकार: **{{artist}}**\nकोड: `{{code}}`\nमूल्य: **{{price}}**\n\n```fix\n{{description}}\n```"
+    "FRAME_DESCRIPTION": "\nकलाकार: **{{artist}}**\nकोड: `{{code}}`\nमूल्य: **{{price}}**\n\n```fix\n{{description}}\n```",
+    "EMBED_FOOTER_few": "प्रदर्शित {{count}} दिन पहले",
+    "EMBED_FOOTER_other": "प्रदर्शित {{count}} दिन पहले",
+    "EMBED_FOOTER": "प्रदर्शित {{count}} दिन पहले",
+    "EMBED_FOOTER_zero": "प्रदर्शित {{count}} दिन पहले",
+    "EMBED_FOOTER_one": "प्रदर्शित {{count}} दिन पहले",
+    "EMBED_FOOTER_two": "प्रदर्शित {{count}} दिन पहले",
+    "EMBED_FOOTER_many": "प्रदर्शित {{count}} दिन पहले"
 }
