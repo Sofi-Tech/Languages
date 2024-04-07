@@ -1,7 +1,8 @@
 {
     "INVALID_CARD_CODE": "{{author}} Deze kaart-code is ongeldig",
-    "3D_DESCRIPTION": "Zet uw kaart om in hun 3D-variant wat hun uiterlijk veranderd. Dit proces gebruikt cubussen die je ontvangt na het verbranden van kaarten, openen van kisten of verschillende activiteiten. ",
+    "3D_DESCRIPTION": "Zet uw kaart om in hun 3D-variant, wat hun uiterlijk veranderd. Dit proces gebruikt Cubes die je ontvangt na het verbranden van kaarten, openen van kisten of verschillende activiteiten. ",
     "3D_CATEGORY": "Cosmetica",
     "NO_GIF_CONVERSION": "{{author}} GIF-kaarten kunnen niet worden omgezet in 3D-varianten",
-    "CARD_3D_ALREADY": "{{author}} Deze kaart is al in zijn 3D staat."
+    "CARD_3D_ALREADY": "{{author}} Deze kaart is al in zijn 3D staat.",
+    "NO_3D_VERSION": "{{author}} Deze personage heeft op dit moment geen **3D** variant"
 }
