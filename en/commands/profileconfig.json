@@ -41,7 +41,7 @@
     "INTRO_TOO_LONG": "{{author}} Your introduction message can only be **90** characters long",
     "SET_INTRO_CONFIRM": "Are you sure you want to display the following text on your profile?\n\n```fix\n{{intro}}\n```",
     "SET_GLOW_CODE": "Are you sure you want to apply the **{{glowName}}** **Glow** to your profile's background?",
-    "SET_PCOLOR": "Are you sure you want to set the **{{glowName}}** as your profile's background?",
+    "SET_PCOLOR": "Are you sure you want to set the **{{glowName}}** as your profile's color?",
     "SET_CARD_CONFIRM": "Are you sure you want to set **{{card}}** as your display card?",
     "SET_BG_CONFIRM": "Are you sure you want to buy the **{{selectedbg}}** background for **{{amount}}** {{emoji}}?",
     "CANNOT_FIND_ACH": "{{user}} You don't have any achievements with the following IDs: {{ids}}",
