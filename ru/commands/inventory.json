@@ -6,7 +6,7 @@
     "NO_USER_FOUND": "{{author}} Не удалось найти данного пользователя",
     "INV_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своего инвентаря",
     "ITEMS": "Предметы",
-    "FRAMES": "Рамки",
+    "FRAMES": "Frames",
     "CRYSTALS": "Crystals",
     "BACKGROUNDS": "Фоны",
     "EVENT": "Событие",
@@ -22,5 +22,10 @@
     "EMBED_AUTHOR": "SOFI: INVENTORY ({{username}})",
     "NO_EVENT_FOUND": "Не удалось найти никаких предметов события",
     "FRAME_CATEGORY_ALL": "Все Frames",
-    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Выбрать категорию Frame"
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Выбрать категорию Frame",
+    "FRAME_CATEGORY_OFFICIAL": "Официальные",
+    "FRAME_CATEGORY_DISCONTINUED": "Не выпускающиеся",
+    "FRAME_CATEGORY_MONTHLY": "Ежемесячные",
+    "FRAME_CATEGORY_CUSTOM": "Пользовательские",
+    "FRAME_CATEGORY_LIMITED": "Ограниченной версии"
 }
