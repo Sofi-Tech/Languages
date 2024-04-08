@@ -56,5 +56,12 @@
     "ITEM_MODAL_PLACEHOLDER": "Eg: 10",
     "CHEST_MODAL_PLACEHOLDER": "Eg: 2",
     "NO_ACTIVE_EVENT": "{{author}} Walang pang event ang kasalukuyang aktibo",
-    "DROP_TASK_zero": "Drop {{count}} Oras"
+    "DROP_TASK_zero": "Drop {{count}} Oras",
+    "DROP_TASK_one": "Mag Drop ng {{count}}",
+    "DROP_TASK_two": "Mag Drop ng {{count}} beses",
+    "DROP_TASK_few": "Mag Drop ng {{count}} beses",
+    "DROP_TASK_other": "Mag Drop ng {{count}} beses",
+    "DROP_TASK_many": "Mag Drop ng {{count}} beses",
+    "EVENT_TASK_zero": "Mag Drop ng {{count}} Event Card",
+    "EVENT_TASK_one": "Mag Drop ng {{count}} Event Card"
 }

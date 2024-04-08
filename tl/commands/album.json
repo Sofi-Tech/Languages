@@ -4,15 +4,19 @@
     "ALBUM_SLASH_DESC": "Pumili ng user na may mga album na gusto mong makita",
     "ALBUM_SLASH_DESC2": "Ilagay ang pangalan ng album na iyong hinahanap.",
     "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
-    "PLAYER_NOT_EXIST": "{{author}} Ang player na iyon ay hindi rehistrado!",
+    "PLAYER_NOT_EXIST": "{{author}} Ang player na iyan ay hindi rehistrado",
     "ALBUM_NOT_FOUND": "{{author}}Ang user na iyon ay walang kahit anong albums",
-    "ALBUM_NAME_NOT_FOUND": "{{author}} hindi mahanap ang album na may pangalan na: `{{albumName}}`",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} walang mahanap na album na may pangalang`{{albumName}}`",
     "PROCESSING": "Pinoproseso <a:_:876610443148406794>",
     "NO_CARDS": "{{author}} Walang nakalagay na kards sa album na ito",
     "EMBED_TITLE": "SOFI: ALBUM",
     "ALBUM_BUTTON_LABEL": "Gumawa ng Album",
-    "EMBED_ALBUM_TITLE": "SOFI: ALBUM",
+    "EMBED_ALBUM_TITLE": "SOFI: ALBUM ({{albumName}})",
     "EMBED__ALBUM_FOOTER": "Pagmamay-ari ni {{userTag}}",
     "ALBUM_CARDS_one": "{{count}} card",
-    "ALBUM_CARDS_other": "{{count}} cards"
+    "ALBUM_CARDS_other": "{{count}} cards",
+    "ALBUM_CARDS_two": "{{count}} cards",
+    "ALBUM_CARDS_few": "{{count}} cards",
+    "ALBUM_CARDS_many": "{{count}} cards",
+    "ALBUM_CARDS_zero": "{{count}} cards"
 }
