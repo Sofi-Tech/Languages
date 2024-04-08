@@ -52,5 +52,7 @@
     "CANNOT_SET_PG": "{{author}} Данная **Glow** разряжена",
     "SUCCESSFUL_SERIES": "{{author}} **{{seriesName}}** успешно установлена как ваша любимая серия",
     "SET_PCOLOR": "Вы уверены, что хотите установить **{{glowName}}** как цвет вашего профиля?",
-    "FS_MENU_LABEL": "Любимая серия"
+    "FS_MENU_LABEL": "Любимая серия",
+    "PC_MENU_LABEL": "Цвет профиля",
+    "TYPE_FAV_SERIES": "Введите название вашей любимой серии"
 }
