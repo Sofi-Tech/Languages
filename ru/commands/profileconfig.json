@@ -50,5 +50,6 @@
     "SET_FONT_GLOW": "Вы уверены, что хотите применить **{{glowName}}** **Glow** к тексту в вашем профиле?",
     "CANNOT_SET_TC": "{{author}} Данная **Glow** разряжена",
     "CANNOT_SET_PG": "{{author}} Данная **Glow** разряжена",
-    "SUCCESSFUL_SERIES": "{{author}} **{{seriesName}}** успешно установлена как ваша любимая серия"
+    "SUCCESSFUL_SERIES": "{{author}} **{{seriesName}}** успешно установлена как ваша любимая серия",
+    "SET_PCOLOR": "Вы уверены, что хотите установить **{{glowName}}** как цвет вашего профиля?"
 }

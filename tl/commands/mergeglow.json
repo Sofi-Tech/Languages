@@ -1,12 +1,12 @@
 {
-    "MERGEGLOW_DESCRIPTION": "Nag \"Merge\" ng 4 na kakaibang \"Glows\" upang makakuha ng \"Resin\"",
+    "MERGEGLOW_DESCRIPTION": "Gamitin ang command na ito upang pagsamahin ang 4 na iba't ibang Glow sa 1 Resin, na kinakailangang materyal sa paglikha ng Super Glows. Lahat ng pinagsamang Glow ay permanenteng mawawala mula sa iyong imbentaryo",
     "MG_CATEGORY": "Kosmetiko",
     "GLOW_CODES_MISSING": "{{author}} Tamang pag-gamit: `{{prefix}}mg <GlowCode1><GlowCode2><GlowCode3><GlowCode4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} Kahit isa sa mga **Glow** codes na iyong ibinigay ay walang laman",
-    "GLOW_CODES_UNIQUE": "{{author}}Hindi mo maaaring gamitin ang mag kaparehas na `Glow` code ng lampas sa isang beses",
-    "GLOWS_NOT_FOUND": "{{author}} Kahit isa sa mga `Glow` codes na iyong ibinigay ay maaaring hindi wasto o wala sa iyong imbentaryo",
-    "EMBED_TITLE": "SOFI: MERGEGLOW",
-    "MERGE_CONFIRMATION": "Sigurado ka bang nais mong i`Merge` ang mga sumusunod na `Glows`?\n\n{{glows}}\n\nMakakatanggap ka nang <:resin:938131736741691442> **1** `Resin` sa prosesong ito",
-    "GLOW_MERGE_SUCCESSFUL": "{{author}} Matagumpay na napagsama ang iyong `Glows` sa <:resin:938131736741691442>",
-    "GLOWS_NOT_IN_INVENTORY": "{{author}} Kahit isa sa mga `Glows` na iyong ibinigay ay wala na sa iyong imbentaryo"
+    "GLOWS_UNAVAILABLE": "{{author}} Isa o higit pa sa mga code ng **Glow** na iyong ibinigay, ay walang laman",
+    "GLOW_CODES_UNIQUE": "{{author}} Hindi mo maaaring gamitin ulit ang parehong **Glow** nang higit sa isang beses para sa prosesong ito",
+    "GLOWS_NOT_FOUND": "{{author}} Isa o higit pa sa mga code ng **Glow** na iyong ibinigay ay maaaring mali o wala sa iyong imbentaryo",
+    "EMBED_TITLE": "SOFI: MERGE GLOWS",
+    "MERGE_CONFIRMATION": "Sigurado ka bang gusto mong pagsamahin ang mga sumusunod na **Glows**?\n\n{{glows}}\n\nMakakatanggap ka nang <:resin:938131736741691442> **1** **Resin** sa prosesong ito",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} Matagumpay na napagsama ang iyong **Glows** sa isang <:resin:938131736741691442>",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} Isa o higit pa sa mga **Glow** na iyong ibinigay ay wala na sa iyong imbentaryo"
 }
