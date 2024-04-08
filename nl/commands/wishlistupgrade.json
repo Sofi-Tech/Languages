@@ -1,15 +1,15 @@
 {
-  "WISHLISTUPGRADE_DESCRIPTION": "Verhoogt de capaciteit van uw verlanglijst",
-  "CATEGORY": "Verlanglijstje",
-  "ALREADY_MAXED": "> {{author}} uw verlanglijst sloten zijn al vol!",
-  "EMBED_DESCRIPTION": "Wilt u {{count}} sloten extra kopen voor {{amount}} {{currency}}?",
-  "EMBED_PAY_FIELD_NAME": "U betaalt:",
-  "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
-  "EMBED_GET_FIELD_NAME": "U krijgt:",
-  "EMBED_GET_FIELD_VALUE": "```{{count}} extra verlanglijstjesslots```",
-  "EMBED_MAXED_DESCRIPTION": "Wilt u uw verlanglijstje maximaliseren voor {{amount}} {{currency}}?",
-  "EMBED_MAXED_FIELD_VALUE": "```Maximaliseer tot 50 verlanglijstjesslots```",
-
-  "CANCELLED": "Geannuleerd",
-  "PAY_ERROR": "`U heeft niet {{amount}} {{currency}}`"
+    "WISHLISTUPGRADE_DESCRIPTION": "Het gebruik van dit commando zal een transactie scherm maken dat meer verlanglijstsleuven aanbied",
+    "CATEGORY": "Verlanglijstje",
+    "ALREADY_MAXED": "> {{author}} U kan uw verlanglijstsloten niet meer upgraden",
+    "EMBED_DESCRIPTION": "Bent u zeker dat u **{{count}}** extra sloten wilt kopen voor **{{amount}}** **{{currency}}**?",
+    "EMBED_PAY_FIELD_NAME": "U betaalt:",
+    "EMBED_PAY_FIELD_VALUE": "```{{amount}} {{currency}}```",
+    "EMBED_GET_FIELD_NAME": "U ontvangt:",
+    "EMBED_GET_FIELD_VALUE": "```{{count}} aanvullende verlanglijstsloten```",
+    "EMBED_MAXED_DESCRIPTION": "Bent u zeker dat u uw verlanglijst volledig wilt ontgrendelen voor **{{amount}}** **{{currency}}**?",
+    "EMBED_MAXED_FIELD_VALUE": "```Maximum verlanglijstsloten (50 Sloten)```",
+    "CANCELLED": "Het proces is geannuleerd",
+    "PAY_ERROR": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
+    "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Uw verlanglijst werd successvol bijgewerkt"
 }

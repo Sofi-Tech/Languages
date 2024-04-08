@@ -1,16 +1,13 @@
 {
-  "GIVE_DESCRIPTION": "Geef een kaart aan iemand",
-  "SLASH_DESC": "Selecteer de gebruiker aan wie je een kaart wilt geven",
-  "SLASH_DESC2": "Voer de code van de kaart in die je wilt weggeven.",
-
-  "NO_SELF_GIVE": "{{author}} U kunt geen kaart aan jezelf geven",
-  "NOT_REGISTERED": "{{member}} is niet geregistreerd",
-  "MEM_BLACKLISTED": "{{member}} is op de zwarte lijst",
-  "MEM_QUARANTINED": "De gebruiker staat onder quarantaine",
-
-  "WRONG_USAGE": "{{author}} Juist gebruik: '{{prefix}}give <gebruiker/gebruikerID> <kaartcode>'",
-  "NO_CARD_FOUND": "Kan geen kaart vinden met de code: `{{code}}`",
-  "CARD_LOCKED": "De kaart is vergrendeld en kan niet worden gegeven. Ontag de kaart om door te gaan",
-
-  "CANCELLED": "GEANNULEERD"
+    "GIVE_DESCRIPTION": "Geef een kaart aan iemand",
+    "SLASH_DESC": "Selecteer de gebruiker aan wie je een kaart wilt geven",
+    "SLASH_DESC2": "Voer de code van de kaart in die je wilt weggeven.",
+    "NO_SELF_GIVE": "{{author}} U kunt geen kaart aan jezelf geven",
+    "NOT_REGISTERED": "{{member}} is niet geregistreerd",
+    "MEM_BLACKLISTED": "{{member}} is op de zwarte lijst",
+    "MEM_QUARANTINED": "De gebruiker staat onder quarantaine",
+    "WRONG_USAGE": "{{author}} Juist gebruik: '{{prefix}}give <gebruiker/gebruikerID> <kaartcode>'",
+    "NO_CARD_FOUND": "Kan geen kaart vinden met de code: `{{code}}`",
+    "CARD_LOCKED": "De kaart is vergrendeld en kan niet worden gegeven. Ontag de kaart om door te gaan",
+    "CANCELLED": "Het proces is geannuleerd"
 }

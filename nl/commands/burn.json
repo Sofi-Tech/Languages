@@ -1,12 +1,11 @@
 {
-  "BURN_DESCRIPTION": "Brand de kaarten om \"Crystals\" en \"Silver\" te krijgen die gebruikt kunnen worden om \"Cubes\" te maken of verschillende andere items te kopen in de Bot. Het commando 'sb' gebruiken bij zichzelf gaat de laatste geclaimde kaart proberen te verbranden",
-  "GUILDSTONE_BURN": "Je staat op het punt een guildsteen te gebruiken",
-  "GUILDSTONE_NOT_FOUND": "Je hebt geen `Guild Stone`",
-
-  "CANCELLED": "GEANNULEERD",
-  "BURN_FRAG_WARN": "Je staat op het punt een fragment te branden\nfragment Code: `{{fragCode}",
-  "FRAG_NOT_FOUND": "Geen fragment gevond",
-  "CARD_NOT_FOUND": "Kan die kaart niet vind",
-  "CARD_LOCKED": "De kaart is vergrendeld",
-  "CARD_NOT_OWNED": "Je bezit die kaart ni"
+    "BURN_DESCRIPTION": "Brand de kaarten om \"Crystals\" en \"Silver\" te krijgen die gebruikt kunnen worden om \"Cubes\" te maken of verschillende andere items te kopen in de Bot. Het commando 'sb' gebruiken bij zichzelf gaat de laatste geclaimde kaart proberen te verbranden",
+    "GUILDSTONE_BURN": "Je staat op het punt een guildsteen te gebruiken",
+    "GUILDSTONE_NOT_FOUND": "Je hebt geen `Guild Stone`",
+    "CANCELLED": "Het proces is geannuleerd",
+    "BURN_FRAG_WARN": "Je staat op het punt een fragment te branden\nfragment Code: `{{fragCode}",
+    "FRAG_NOT_FOUND": "Geen fragment gevond",
+    "CARD_NOT_FOUND": "Kan die kaart niet vind",
+    "CARD_LOCKED": "De kaart is vergrendeld",
+    "CARD_NOT_OWNED": "Je bezit die kaart ni"
 }

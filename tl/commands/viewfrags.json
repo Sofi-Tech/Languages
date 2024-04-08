@@ -1,7 +1,7 @@
 {
     "VIEWFRAGS_DESCRIPTION": "Ang command na ito ay magbubukas ng Fragment inventory ng isang user. Ang mga Fragments ay ginagamit upang lumikha ng GIF variants ng isang character. Maaari mong gamitin ang \"Pull\" command upang makakuha ng mga ito",
     "COLLECTION_PVT": "{{author}} Ang mga **Fragments** ng user ay pribado",
-    "CANNOT_FIND_FRAGS": "{{user}} Ang user na iyon ay walang anumang **Fragments**",
+    "CANNOT_FIND_FRAGS": "{{user}} Ang user na iyan ay walang kahit anong mga **Fragment**",
     "FRAGS_COUNT": "Kabuuan: {{totalCount}}",
     "FRAG_LIST": "SOFI: `Fragments` ni ({{userName}})",
     "CANNOT_FIND_SELF": "{{user}}Ikaw ay walang kahit anong `Fragments`"

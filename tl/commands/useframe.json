@@ -2,7 +2,7 @@
     "USEFRAME_DESCRIPTION": "Ang command na ito ay maglalagay ng Frame sa napiling kard. Maaaring bumili ng mga Frame gamit ang \"Frameshop\" command",
     "UF_CATEGORY": "Kosmetiko",
     "UF_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} Ang code ng kard na iyong inilagay ay hindi wasto o wala sa iyong koleksyon",
+    "INVALID_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaring hindi tama o wala sa iyong koleksyon",
     "CANNOT_APPLY": "{{author}} Hindi ka maaaring maglagay ng **Frame** sa isang **3D** kard",
     "NO_GIF": "{{author}} Hindi ka maaaring maglagay ng **Frame** sa isang **GIF** kard",
     "NO_FRAMES_FOUND": "{{author}} Ang code ng **Frame** na ibinigay ay maaaring hindi tama o wala sa iyong imbentaryo",

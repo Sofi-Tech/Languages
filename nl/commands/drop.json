@@ -1,8 +1,7 @@
 {
-  "DROP_DESCRIPTION": "- Met dit commando kun u elke 8 minuten 3 kaarten laten vallen.\n- Gebruik het commando \"sdn\" om te laten vallen zonder afbeeldingen. Handig voor tijden waarin u weinig data hebt of vertraging wilt vermijden.",
-
-  "EXTRA_DROP_ALERT": "{{author}} *Je extra drop wordt gebruikt. je hebt nog`{{remaining}}` over.*",
-  "ON_CD": "{{author}} Uw `Drop` zal klaar zijn in {{dropCd}}",
-  "VOTE": "Vote",
-  "BUY_DROP": "\nU kunt ook `Vote` om `Wists` te ontvangen en daarmee `Drops` te kopen!\nGebruik hiervoor het commando `sbuy drop <amount>`"
+    "DROP_DESCRIPTION": "Met deze commando kun jij een set van 3 kaarten genereren met willekeurige Gens. Jij kan extra Drops kopen in de ''Shop'' commando met Wists, die jij kunt krijgen door te Voten voor Sofi",
+    "EXTRA_DROP_ALERT": "{{author}} Jouw extra drop wordt gebruikt. Jij hebt nog **{{remaining}}** over",
+    "ON_CD": "{{author}} Uw **Drop** zal klaar zijn in **{{dropCd}}**",
+    "VOTE": "Vote",
+    "BUY_DROP": "\nU kunt ook `Vote` om `Wists` te ontvangen en daarmee `Drops` te kopen!\nGebruik hiervoor het commando `sbuy drop <amount>`"
 }

@@ -1,5 +1,7 @@
 {
-  "RULES_LIST": "<:pinkdot:877822071244206120> Gebruik geen alt of meerdere accounts om Sofi te spelen.",
-
-  "EMBED_AUTHOR": "SOFI BOT REGELS"
+    "RULES_LIST": "<:pinkdot:877822071244206120> Gebruik geen alt of meerdere accounts om Sofi te spelen.",
+    "EMBED_AUTHOR": "SOFI: RULES",
+    "RULES_CATEGORY": "Instellingen",
+    "EMBED_FOOTER": "{{count}} gebruikers hebben ingestemd met deze regels",
+    "RULES_DESCRIPTION": "Met deze commando wordt een lijst met afgedwongen regels in Sofi weergegeven. Het registeren van jouw account op Sofi betekent dat jij akkoord gaat met alle regels die wij vooraf hebben opgesteld. Het niet naleven van de gegeven regels wordt bestraft in verschillende mate van ernst"
 }
