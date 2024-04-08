@@ -57,5 +57,6 @@
     "TYPE_FAV_SERIES": "Введите название вашей любимой серии",
     "SET_FS_CONFIRM": "Вы уверены, что хотите установить **{{series}}** как вашу любимую серию?",
     "BGCOLOR_WIST_MISSING": "{{author}} Вам нужно 10 {{emoji}}, чтобы установить цвет профиля.",
-    "FAV_SERIES_MENU_PLACEHOLDER": "Выбрать Серию"
+    "FAV_SERIES_MENU_PLACEHOLDER": "Выбрать серию",
+    "PC_SERIES_NOT_FOUND": "{{author}} Не удалось найти какую-либо серию с таким названием"
 }
