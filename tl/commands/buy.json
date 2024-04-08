@@ -1,12 +1,15 @@
 {
-    "BUY_DESCRIPTION": "Bumili ng \"Items\" mula sa \"Shop\" ng Sofi",
+    "BUY_DESCRIPTION": "Ang paggamit ng command na ito na may kasamang pangalan ng aytem at halaga ay magbubukas ng transaction embed upang makabili ng tiyak na aytem. Gamitin ang \"Shop\" command para makita ang mga available na aytems",
     "SLASH_DESC": "Ilagay ang pangalan ng aytem na nais mong bilhin",
-    "SLASH_DESC2": "Itala ang halaga",
-    "SLASH_DESC3": "Ilagay ang code ng Background na nais mong bilhin. [ITO AY GUMAGANA LAMANG KUNG ANG ITEM AY PINILI LAMANG BILANG BACKGROUND]",
+    "SLASH_DESC2": "Ilagay ang halaga",
+    "SLASH_DESC3": "Ilagay ang code ng Background na nais mong bilhin. [ITO AY GUMAGANA LAMANG KUNG ANG AYTEM AY PINILI LAMANG BILANG BACKGROUND]",
     "NO_ITEM": "{{author}} Tamang pag-gamit: `{{prefix}}buy <PangalanNgAytem> <Halaga>`",
-    "TRADEPASS_INFO": "Pumunta sa aming website sa ibaba upang mag `Bump` at ipalit ang iyong mga puntos para sa iba't ibang mga aytem, kasama na ang `Trade Pass`",
+    "TRADEPASS_INFO": "Pumunta sa aming website sa ibaba upang mag **Bump** at ipalit ang iyong mga puntos para sa iba't-ibang mga aytem, kasama na ang **Trade Pass**",
     "CORRECT_USAGE": "{{user}} Tamang paggamit:`{{prefix}}buy bg <IDNgBackground> <Halaga>`",
     "INVALID_BG_AMOUNT": "{{author}} Hindi ka maaaring bumili ng negatibong halaga ng isang aytem",
-    "INVALID_BG_ID": "{{author}} Ang ibinigay na `Background`-ID ay hindi wasto",
-    "INVALID_ITEM_PROVIDED": "{{user}} Ang aytem na iyong ibingay ay hindi wasto"
+    "INVALID_BG_ID": "{{author}} Walang makitang kahit anong **Background** sa ID na iyan",
+    "INVALID_ITEM_PROVIDED": "{{user}} Ang aytem na iyong ibingay ay hindi wasto",
+    "BUY_GEN_CONFIRMATION": "## Ikaw ay bumibili ng {{count}} gen scratcher",
+    "BUY_CHARM_CONFIRMATION": "## Ikaw ay bumibili ng {{amount}} <:xcharm:988729774031638528>",
+    "BUY_CHARMS_MULTIPLES": "{{author}} Maari ka lang bumili ng **Charms** sa dami ng 100"
 }

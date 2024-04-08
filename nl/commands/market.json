@@ -1,6 +1,7 @@
 {
-  "MARKET_DESCRIPTION": "Toont de Sofi markt",
-  "NO_LISTING_FOUND": "Kon geen lijsten vinden",
-  "MARKET_WARN": "Gebruik de markt niet voor opslag of het verbergen van items.\nZe worden zonder vergoeding verwijderd.\nGemiddeld tarief : {{averageRate}} Totaal aantal handelingen : {{totalTrades}}",
-  "FOOTER": "Toont 1-{{pages}} van {{total}} | Gebruik {{prefix}}mp <id> [hoeveelheid] om te kopen"
+    "MARKET_DESCRIPTION": "Deze invoering laat alle beschikbare orders zien op de markt. De markt kan gebruikt worden door spelers om Wists te omwisselen voor diamanten door middel van de \"Marketlist\".",
+    "NO_LISTING_FOUND": "Kon geen orders vinden op de markt",
+    "MARKET_WARN": "Gebruik de markt niet voor opslag of het verbergen van items.\nZe worden zonder vergoeding verwijderd.\nGemiddeld tarief : {{averageRate}} Totaal aantal handelingen : {{totalTrades}}",
+    "FOOTER": "Toont 1-{{pages}} van {{total}} | Gebruik {{prefix}}mp <id> [hoeveelheid] om te kopen",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Voorraad: `{{stockAmount}}` {{stockEmoji}} | Ratio: `{{rateAmount}}` {{rateEmoji}}"
 }

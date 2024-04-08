@@ -1,12 +1,12 @@
 {
-    "GLOWTAG_DESCRIPTION": "Magtakda ng \"Tags\" ang iyong mga \"Glows\"",
-    "GT_CATEGORY": "Mga Tag",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Wala ka pang **Glow** tag. Maaari mong gawin ito gamit ang command: `{{prefix}}gtc <Pangalan> <Emoji>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} ikaw ay wala ka pang kahit anong `Glows`",
-    "INVALID_GLOW_CODE": "{{author}} Kahit isa sa mga `Glow`kodigo na iyong binigay ay hindi wasto o wala sa iyong imbentaryo",
-    "SUCCESSFUL_GLOWTAG": "{{author}} Ang **{{glow}}** ay matagumpay na natag bilang: `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Lahat ng `Glows`ay matagumpay na natag bilang: `{{tag}}`",
+    "GLOWTAG_DESCRIPTION": "Sa command na ito, maaari kang magtalaga ng pananda sa iyong Glow. Upang makagawa ng pananda sa Glow, gamitin ang \"Glowtagcreate\" command",
+    "GT_CATEGORY": "Pananda",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Wala ka pang pananda sa **Glow**. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Pangalan> <Emoji>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} Wala ka pang kahit anong **Glows**",
+    "INVALID_GLOW_CODE": "{{author}} Isa sa mga code ng **Glow** na iyong binigay ay hindi tama o wala sa iyong imbentaryo",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** ay matagumpay na nalagyan ng pananda bilang `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Lahat ng **Glows** ay matagumpay na nalagyan ng pananda bilang `{{tag}}`",
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gt <TagName> <GlowCode>`",
-    "GLOW_TAG_INVALID": "{{author}} Ikaw ay walang kahit anong `Glow Tag` na may pangalang: `{{tagname}}`",
-    "INVALID_GLOW_SINGULAR": "{{author}} Ang kodigo ng`Glow`na iyong ibinigay ay hindi wasto o wala sa iyong imbentaryo"
+    "GLOW_TAG_INVALID": "{{author}} Walang kang kahit anong pananda sa **Glow** na may pangalang `{{tagname}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Ang code ng **Glow** na iyong ibinigay ay hindi tama o wala sa iyong imbentaryo"
 }

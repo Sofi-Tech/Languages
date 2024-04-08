@@ -1,7 +1,7 @@
 {
-  "DELETEGLOWTAG_DESCRIPTION": "Tanggalin ang \"Glow Tag\"",
-  "DGT_CATEGORY": "Mga Tag",
-  "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}dgt <pangalan ng tag>`",
-  "GLOWTAG_NOT_FOUND": "{{author}} Ikaw ay walang kahit anong `Glow Tag` na may pangalang: `{{tagname}}`",
-  "DELETE_GLOWTAG": "{{author}} Matagumpay na natanggal ang `Glow Tag`na may pangalang: `{{tag}}`"
+    "DELETEGLOWTAG_DESCRIPTION": "Ang paggamit ng command na ito kasama ang pangalan ng pananda sa Glow ay magbubura ng napiling pananda",
+    "DGT_CATEGORY": "Pananda",
+    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}dgt <pangalan ng tag>`",
+    "GLOWTAG_NOT_FOUND": "{{author}} Ikaw ay walang kahit anong pananda sa **Glow** na may pangalang: `{{tagname}}`",
+    "DELETE_GLOWTAG": "{{author}} Matagumpay na nabura ang pananda sa **Glow** na may pangalang: `{{tag}}`"
 }

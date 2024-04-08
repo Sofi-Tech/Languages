@@ -1,15 +1,15 @@
 {
-    "GLOWNAME_DESCRIPTION": "Baguhin ang pangalan ng \"Glow\"",
-    "GN_CATEGORY": "Mga Cosmetic",
-    "UNLOCK_GLOWS": "{{author}} Wala kang anumang **Glows**",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gn<GlowCode><NewName>`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang mga **Glow** code ay laging nagsisimula sa `#`",
-    "GLOW_NOT_FOUND": "{{author}} Ang code ng **Glow** na iyong ibinigay ay maaaring hindi wasto o wala sa iyong inventory",
-    "GLOW_NAME_LONG": "{{author}} Ang pangalan ng iyong `Glow` ay dapat hanggang **25** letra lamang",
-    "GLOW_NAME_EXISTS": "{{author}} Ang pangalan na iyan ay naka-assign na sa ibang `Glow`",
-    "EMBED_TITLE": "SOFI: GLOWNAME",
-    "GLOWNAME_CHANGE_CONFIRMATION": "Sigurado ka ba na gusto mong baguhin ang pangalan ng iyong `Glow` mula sa `{{oldName}}` hanggang sa`{{newName}}`?",
-    "MISSING_ITEMS": "{{author}}Wala kang sapat na `{{currency}}` para sa proseso na ito",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Matagumpay na napalitan ang pangalan ng `Glow`sa` {{newName}}`",
-    "PROFANE_GLOW_NAME": "{{author}} Ang pangalan ng iyong `Glow` **ay hindi dapat** magkaroon ng panlalait"
+    "GLOWNAME_DESCRIPTION": "Gamitin ang command na ito upang mapalitan ang pangalan ng iyong Glow",
+    "GN_CATEGORY": "Kosmetiko",
+    "UNLOCK_GLOWS": "{{author}} Wala kang kahit anong **Glows**",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gn<GlowCode><BagongPangalan>`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Ang mga code ng **Glow** ay laging nagsisimula sa `#`",
+    "GLOW_NOT_FOUND": "{{author}} Ang code ng **Glow** na iyong ibinigay ay maaaring hindi tama o wala sa iyong imbentaryo",
+    "GLOW_NAME_LONG": "{{author}} Ang pangalan ng iyong **Glow** ay dapat hanggang **25** letra lamang",
+    "GLOW_NAME_EXISTS": "{{author}} Ang pangalang iyan ay naka-talaga na sa ibang **Glow**",
+    "EMBED_TITLE": "SOFI: GLOW NAME",
+    "GLOWNAME_CHANGE_CONFIRMATION": "Sigurado ka bang gusto mong baguhin ang pangalan ng iyong **Glow** mula sa `{{oldName}}` patungong `{{newName}}`?",
+    "MISSING_ITEMS": "{{author}}Wala kang sapat na **{{currency}}** para sa proseso na ito",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Matagumpay na napalitan ang pangalan ng **Glow** sa` {{newName}}`",
+    "PROFANE_GLOW_NAME": "{{author}} Ang pangalan ng iyong **Glow** ay hindi dapat magkaroon ng mga bastos o mapanlait na mga salita"
 }
