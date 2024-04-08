@@ -1,9 +1,9 @@
 {
-  "ACHIEVEMENTS_DESCRIPTION": "Ipapakita ang listahan ng mga magagamit na mga achievement",
-  "ACH_CATEGORY": "Mga Setting",
-  "ACH_CLAIMED": "Nakuha",
-  "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "FAN_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "ACH_LOADING": "Naglo-load <a:ping:876612181725167687>",
-  "NO_STATS_FOUND": "Wala kang mga fan points para sa anumang tauhan pa"
+    "ACHIEVEMENTS_DESCRIPTION": "Ito ay magbubukas ng ang isang embed na nagpapakita ng lahat ng available na achievements at nagpapahiwatig din kung aling mga achievements ang meron ka na",
+    "ACH_CATEGORY": "Settings",
+    "ACH_CLAIMED": "Nakuha",
+    "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS ({{totalClaimed}}/{{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: FAN POINTS",
+    "ACH_LOADING": "Naglo-load <a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "Wala ka pang sapat na fan points para sa anumang karakter"
 }

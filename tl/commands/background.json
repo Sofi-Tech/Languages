@@ -1,12 +1,12 @@
 {
-    "BACKGROUND_DESCRIPTION": "Naglalagay ng \"Background\" sa iyong mga 3D kard",
-    "BG_CATEGORY": "Mga Kosmetiko",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "NON_3D_CARDS": "{{author}} Hindi ka pwedeng maglagay ng `Background` sa mga hindi 3D na kard",
-    "BG_NOT_FOUND": "{{author}} Walang mahanap na kahit anong `Background` sa ibinigay na ID",
+    "BACKGROUND_DESCRIPTION": "Kapag napalitan na ang iyong kard sa 3D variant nito, maaari mo nang gamitin itong command upang maglagay ng Background dito. Ang background ay mabibili sa \"Backgroundshop\"",
+    "BG_CATEGORY": "Kosmetiko",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bg <KardCode> <Background-ID>`",
+    "NON_3D_CARDS": "{{author}} Hindi ka pwedeng maglagay ng **Background** sa mga hindi 3D na kard",
+    "BG_NOT_FOUND": "{{author}} Walang mahanap na kahit anong **Background** sa ibinigay na ID",
     "EMBED_TITLE": "SOFI: BACKGROUND",
-    "USER_NO_BG": "{{author}}Ikaw ay walang`Background`na iyan",
-    "EMBED_DESCRIPTION": "Sigurado ka bang gusto mong lagyan ng `Background` **{{background}}** ang kard na ito?",
-    "INVALID_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
-    "BG_APPLY_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang **{{background}}** `Background` sa iyong card"
+    "USER_NO_BG": "{{author}}Ikaw ay walang **Background** na iyan",
+    "EMBED_DESCRIPTION": "Sigurado ka bang gusto mong maglagay ng **{{background}}** **Background** sa kard na ito?",
+    "INVALID_CODE": "{{author}} Ang code ng kard na iyong inilagay ay hindi wasto o wala sa iyong koleksyon",
+    "BG_APPLY_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang **{{background}}** **Background** sa iyong kard"
 }

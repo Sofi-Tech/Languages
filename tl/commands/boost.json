@@ -1,6 +1,6 @@
 {
-    "BOOST_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed na nagrarakang mga user na nag-boost sa \"Sofi Cafe\" discord server",
-    "BOOST_CATEGORY": "Mga Setting",
-    "EMBED_TITLE": "SOFI: BOOST",
-    "EMBED_FOOTER": "Ang mga Discord Boosters at mga Donators ay may karapatan na humiling ng 3D na mga bersyon at karakter.\nKasama sa mga dagdag na benepisyo ang Role sa Server, Kulay para sa \"{{prefix}} Userinfo\" command at access sa mga social commands!"
+    "BOOST_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed, nag rarank sa mga users na nakapag-boost ng \"Sofi Cafe\" discord server",
+    "BOOST_CATEGORY": "Settings",
+    "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Total Boosters",
+    "EMBED_FOOTER": "Ang mga Discord Boosters at mga Donators ay may karapatan na humiling ng bagong karakter o 3D na mga variant ng umiiral na mga karakters.\nKasama sa mga dagdag na benepisyo ang Server Role, Kulay para sa {{prefix}}userinfo command at access sa mga social commands!"
 }

@@ -3,12 +3,12 @@
     "BF_CATEGORY": "Kosmetiko",
     "NO_FRAME_NAME": "{{author}} Ibigay ang code ng **Frame** na nais mong bilhin",
     "NO_FRAMECODE_FOUND": "{{author}} Hindi mahanap ang **Frame** na may code na `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Ang Frame na iyan ay hindi pa available. Gamitin ang command na`{{prefix}}fs` para makita ang kasalukuyang binebentang **Frame**",
+    "FRAME_UNAVAILABLE": "{{author}} Ang **Frame** na iyan ay hindi pa available. Gamitin ang command na`{{prefix}}fs` para makita ang kasalukuyang binebentang **Frame**",
     "FRAME_NOT_PURCHASABLE": "{{author}} Ang **Frame** na iyan ay limitado at hindi na maaring mabili",
-    "EMBED_TITLE": "SOFI: TRANSAKSIYON",
-    "YOU_GET": "Makukuha mo:",
-    "YOU_PAY": "Ibabayad mo:",
-    "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na `{{currency}}` para mabili ito",
+    "EMBED_TITLE": "SOFI: TRANSACTION",
+    "YOU_GET": "Iyong makukuha:",
+    "YOU_PAY": "Iyong ibabayad:",
+    "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na **{{currency}}** para mabili ito",
     "TRANSACTION_SUCCESSFUL": "{{author}} Matagumpay na nabili ang **{{frameName}}** **Frame**",
     "PROCESS_CANCELLED": "Ang proseso ay na kansela"
 }

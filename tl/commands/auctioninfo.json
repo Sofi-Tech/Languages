@@ -1,8 +1,18 @@
 {
-    "AUCTIONINFO_DESCRIPTION": "Ito ay magbubukas ng isang embed na nagpapakita ng mga nakaraang at kasalukuyang auction para sa mga card code, kung saan maaari kang magbid. Ginagamit ang Charms bilang kinakailangang pera upang maglagay ng bid",
+    "AUCTIONINFO_DESCRIPTION": "Ang command na ito ay mag bubukas ng embed na mag didisplay ng dati at kasalukuyang card codes sa auctions, na maaari kang mag bid. Gumagamit ang Auctions ng Charms para gamiting pera sa pag lagay ng bid",
     "AI_CATEGORY": "Mga Card",
     "NO_ONGOING_AUCTION": "{{author}} Wala sa kasalukuyanang aktibong auction",
     "BID_SELECTION": "Gamitin ang command {{prefix}}ai <Auction-ID> o pumili ng aktibong auction galing sa menu sa baba",
     "AI_CURRENT": "Kasalukuyang Bid",
-    "SELECT_AUCTION_PLACEHOLDER": "Mamili ng Auction"
+    "SELECT_AUCTION_PLACEHOLDER": "Mamili ng Auction",
+    "BID_MODAL_TITLE": "Auction Bid",
+    "AI_ENDS": "Nagtatapos",
+    "BID_MODAL_LABEL": "Bilang ng Bid",
+    "INVALID_BID_AMOUNT": "{{author}} Dapat numero ang iyong bid!",
+    "POSITIVE_NUMBER": "{{author}} Kailangan na positibong numero ang iyong bid",
+    "MINIMUM_AMOUNT": "{{author}} Kailangan mong mag bid ng hindi bababa ng **{{amount}}** {{currencyEmoji}} sa auction na ito",
+    "BID_MODAL_PLACEHOLDER": "Ilagay ang bilang ng Bid",
+    "AUCTION_NOT_FOUND": "Hindi makita ang auction na iyan",
+    "NOT_ENOUGH_CURRENCY": "{{author}} Wala kang sapat na {{emoji}}",
+    "BID_SUCCESSFUL": "{{author}} Matagumpay kang nakapaglagay ng bid na **{{amount}}** {{emoji}}"
 }
