@@ -1,5 +1,8 @@
 {
-    "AUCTIONINFO_DESCRIPTION": "Pinapakita ang Auction Info",
+    "AUCTIONINFO_DESCRIPTION": "Ito ay magbubukas ng isang embed na nagpapakita ng mga nakaraang at kasalukuyang auction para sa mga card code, kung saan maaari kang magbid. Ginagamit ang Charms bilang kinakailangang pera upang maglagay ng bid",
     "AI_CATEGORY": "Mga Card",
-    "NO_ONGOING_AUCTION": "{{author}} Wala sa kasalukuyanang aktibong auction"
+    "NO_ONGOING_AUCTION": "{{author}} Wala sa kasalukuyanang aktibong auction",
+    "BID_SELECTION": "Gamitin ang command {{prefix}}ai <Auction-ID> o pumili ng aktibong auction galing sa menu sa baba",
+    "AI_CURRENT": "Kasalukuyang Bid",
+    "SELECT_AUCTION_PLACEHOLDER": "Mamili ng Auction"
 }

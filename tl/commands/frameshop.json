@@ -1,13 +1,13 @@
 {
-    "FRAMESHOP_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed na nagpapakita ng lahat ng Frames na kasalukuyang mabibili. Ang mga Frames na ipinapakita sa tindahan ay mag-rotate sa isang itinakdang interval, pagkatapos nito ay hindi na maaaring mabili. Ang mga Opisyal na Frames ay maaaring mabili ng hindi limitado, habang ang mga Frames na ginawa ng komunidad ay may limitadong stock",
-    "FS_CATEGORY": "Mga Cosmetic",
-    "FS_SLASH_DESC": "Ipasok ang code ng \"Frame\" na nais mong tingnan",
-    "NO_DESCRIPTION_FOUND": "Ang Frame na ito ay walang kahulugan pa",
+    "FRAMESHOP_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed na nagpapakita ng lahat ng Frames na kasalukuyang mabibili. Ang mga Frames na ipinapakita sa tindahan ay nagbabago sa isang itinakdang interval, pagkatapos nito ay hindi na maaaring mabili. Ang mga Opisyal na Frames ay maaaring mabili paulit-ulit, habang ang mga Frames na ginawa ng komunidad ay limitado",
+    "FS_CATEGORY": "Kosmetiko",
+    "FS_SLASH_DESC": "Ilagay ang code ng \"Frame\" na nais mong tingnan",
+    "NO_DESCRIPTION_FOUND": "Ang Frame na ito ay wala pang deskripsiyon",
     "FS_PRICE": "Presyo: **{{price}}**",
     "EMBED_CF_TITLE": "SOFI: FRAMESHOP",
     "EMBED_CF_FOOTER": "Pahina: {{page}}/{{totalPages}}",
-    "FRAME_NOT_FOUND": "{{author}} Hindi makahanap ng `Frame` na may kodigo na: `{{arg}}`",
-    "EMBED_TITLE": "SOFI: FRAMESHOP",
+    "FRAME_NOT_FOUND": "{{author}} Hindi mahanap ang **Frame** na may code na `{{arg}}`",
+    "EMBED_TITLE": "SOFI: TINDAHAN NG FRAME ({{frame}})",
     "EDIT_BUTTON_LABEL": "I-edit",
     "AGREE_BUTTON_LABEL": "Konfirm",
     "DISAGREE_BUTTON_LABEL": "Bumallik",
@@ -28,5 +28,8 @@
     "CF_MENU_LABEL": "Pasadya",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang iyong napiling deskripsyon para sa iyong `Frame`",
     "FRAME_DESCRIPTION": "\nLumikha: **{{artist}}**\nCode: `{{code}}`\nPresyo: **{{price}}**\n\n```fix\n{{description}}\n```",
-    "FS_UNAVAILABLE": "Hindi available"
+    "FS_UNAVAILABLE": "Hindi available",
+    "EMBED_FOOTER": "",
+    "EMBED_FOOTER_two": "",
+    "EMBED_FOOTER_other": ""
 }
