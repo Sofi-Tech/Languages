@@ -13,9 +13,9 @@
     "MENU_FEATURES_PLACEHOLDER": "Kies een Option",
     "EMBED_TITLE": "SOFI: SWAP",
     "EMBED_FOOTER": "Het proces zal een Swap Token verbruiken",
-    "SWAPS_CHOSEN": "Weet u zeker dat u de volgende cosmetica wilt ruilen? ",
+    "SWAPS_CHOSEN": "Weet u zeker dat u de volgende cosmetica wilt ruilen?\n",
     "MISSING_SWAP_TOKEN": "{{author}} U mist een **Swap Token** voor dit proces",
-    "DOES_NOT_WORK": "Ik zie wat je hier probeert.. maar het werkt niet",
+    "DOES_NOT_WORK": "{{author}} U moet niet proberen misbruik te maken, als u exploiteerbare bugs tegenkomt, meld deze dan direct aan het personeel van Sofi!",
     "SWAP_SUCCESSFUL": "{{author}} De geselecteerde cosmetica zijn succesvol geruild",
     "INVAILD_CODE": "{{author}} Ten minste één van de door u opgegeven kaartcodes is ongeldig of bevindt zich niet in uw verzameling"
 }

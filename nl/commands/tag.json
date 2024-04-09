@@ -6,6 +6,7 @@
     "TAG_NOT_FOUND": "{{author}} U heeft geen tag met de naam `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} U heeft nog geen kaarten in uw collectie",
     "INVALID_CARD_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
-    "SUCCESSFUL_TAG": "{{author}} | {{card}} succesvol getagd met `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Deze kaarten zijn succesvol getagd."
+    "SUCCESSFUL_TAG": "{{author}} **{{card}}** succesvol getagd als `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Alle kaarten zijn succesvol getagd",
+    "INVALID_MULTIPLE_CARD_CODES": "{{author}}De volgende kaartcodes zijn ofwel ongeldig of niet in uw collectie:\n{{arg}}"
 }
