@@ -1,15 +1,15 @@
 {
-  "UNDOMORPH_DESCRIPTION": "Verwijder de verandering van de kaart",
-  "UM_CATEGORY": "Cosmetica",
-  "UM_INVALID_USAGE": "Geef een geldige kaartcode op",
-  "INVALID_CODE": "Ongeldige code opgegeven",
-  "NO_CHARACTER": "Geen personage gevonden",
-  "NO_GIF": "{{author}} cosmetica-opdracht is niet van toepassing op gif-kaarten",
-  "NOT_MORPHED": "{{author}} De kaart is niet veranderd",
-  "EMBED_TITLE": "SOFI: UNDOMORPH",
-  "UM_CONFIRMATION": "Je gaat de verandering van je kaart ongedaan maken\nJe kaart ziet er zo uit:\nHet proces kost 100 zilvers",
-  "NO_OWNER": "De kaart behoort niet langer bij jou",
-  "SOMETHING_WENT_WRONG": "Er ging iets mis.. <:sofi_cry:1008533719092559914>",
-  "NOT_ENOUGH_SILVERS": "Je hebt niet genoeg zilvers om de verandering ongedaan te maken",
-  "UM_SUCCESSFUL": "De verandering is succesvol ongedaan gemaakt"
+    "UNDOMORPH_DESCRIPTION": "Verwijder de verandering van de kaart",
+    "UM_CATEGORY": "Cosmetica",
+    "UM_INVALID_USAGE": "Geef een geldige kaartcode op",
+    "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
+    "NO_CHARACTER": "Geen personage gevonden",
+    "NO_GIF": "{{author}} cosmetica-opdracht is niet van toepassing op gif-kaarten",
+    "NOT_MORPHED": "{{author}} De kaart is niet veranderd",
+    "EMBED_TITLE": "SOFI: UNDOMORPH",
+    "UM_CONFIRMATION": "Je gaat de verandering van je kaart ongedaan maken\nJe kaart ziet er zo uit:\nHet proces kost 100 zilvers",
+    "NO_OWNER": "De kaart behoort niet langer bij jou",
+    "SOMETHING_WENT_WRONG": "Er ging iets mis.. <:sofi_cry:1008533719092559914>",
+    "NOT_ENOUGH_SILVERS": "Je hebt niet genoeg zilvers om de verandering ongedaan te maken",
+    "UM_SUCCESSFUL": "De verandering is succesvol ongedaan gemaakt"
 }

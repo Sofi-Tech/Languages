@@ -1,17 +1,18 @@
 {
-    "FONTCOLOR_DESCRIPTION": "Binabago ang kulay ng font ng isang card sa pamamagitan ng pag-aapply ng isang \"Glow\" sa ito",
-    "FC_CATEGORY": "Mga Cosmetic",
+    "FONTCOLOR_DESCRIPTION": "Maaari mong gamitin ang command na ito upang maglapat ng glow sa font ng isang kard, ang kulay nito ay magbabago sa proseso. Idagdag ang karagdagang prompt na \"reset\" sa command na ito kung gusto mong alisin ang kasalukuyang Glow mula sa isang font ng kard",
+    "FC_CATEGORY": "Mga Kosmetiko",
     "WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "NOT_CARD_OWNER": "{{author}} Ang kodigo ng kard na ibinigay mo ay hindi wasto o hindi sayo",
-    "3D_ERROR": "{{author}} Hindi ka maaaring mag-apply ng ibang kulay ng font sa isang `3D` na variant",
+    "NOT_CARD_OWNER": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi wasto o wala sa iyong koleksyon",
+    "3D_ERROR": "{{author}} Hindi ka maaaring mag-apply ng ibang kulay ng font sa isang **3D** na variant",
     "PROVIDE_GLOWCODE": "{{author}} Tamang paggamit: `{{prefix}}fc <CardCode> <GlowCode>`",
-    "WRONG_GLOWCODE": "{{author}} Ang mga `Glow` codes ay laging nagsisimula sa `#`",
+    "WRONG_GLOWCODE": "{{author}} Ang mga **Glow** codes ay laging nagsisimula sa `#`",
     "CANNOT_FIND_GLOW": "{{author}} Ang `Glow` code na iyong binigay ay hindi wasto o wala sa iyong imbentaryo",
-    "EMBED_TITLE": "SOFI: FONTCOLOR",
-    "COLOR_NAME": "`Glow`: **{{name}}**",
+    "EMBED_TITLE": "SOFI: FONTCOLOR{{reset}}",
+    "COLOR_NAME": "Pangalan: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",
     "GLOW_UNAVAILABLE": "{{author}} Iyang **Glow** ay wala nang karga",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Matagumpay na nabago ang kulay ng font ng kard",
     "PROCESS_CANCELLED": "Ang proseso ay na kansela",
-    "EMBED_FOOTER": "Glow: {{availability}}"
+    "EMBED_FOOTER": "Glow: {{availability}}",
+    "FC_RESET": "I-reset"
 }

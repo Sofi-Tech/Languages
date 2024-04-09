@@ -1,7 +1,12 @@
 {
-  "BACKGROUND_DESCRIPTION": "Voegt een \"achtergrond\" toe aan uw 3D-kaarten",
-  "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}bg <CardCode> <BackgroundID>`",
-  "BG_CATEGORY": "Cosmetica",
-  "INVALID_CODE": "{{author}} U heeft een ongeldige kaartcode opgegeven",
-  "NON_3D_CARDS": "{{author}} U kunt geen `Backgrounds` toepassen op niet-3D kaarten"
+    "BACKGROUND_DESCRIPTION": "Zodra een kaart is omgezet in zijn 3D variant, kunt u dit commando gebruiken om een Achtergrond aan te brengen. Achtergronden kunnen worden gekocht bij de \"Backgroundshop\"",
+    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}bg <CardCode> <Background-ID>`",
+    "BG_CATEGORY": "Cosmetica",
+    "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
+    "NON_3D_CARDS": "{{author}} U kunt geen **Background** toepassen op niet-3D kaarten",
+    "EMBED_TITLE": "SOFI: BACKGROUND",
+    "USER_NO_BG": "{{author}} U heeft die **Background** niet",
+    "BG_NOT_FOUND": "{{author}} Kan geen **Background** vinden met die ID",
+    "EMBED_DESCRIPTION": "Weet u zeker dat je de **{{background}}** **Background** op deze kaart wilt toepassen?",
+    "BG_APPLY_SUCCESSFUL": "{{author}} De **{{background}}** **Background** is met succes op uw kaart toegepast"
 }

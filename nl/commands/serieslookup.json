@@ -1,11 +1,12 @@
 {
-  "SERIESLOOKUP_DESCRIPTION": "Zoek naar specifieke serie",
-  "NO__LAST_CHAR_FOUND": "Kan het laatste karakter niet vinden. Probeer de naam van de serie op te geven.",
-  "NO_CHAR_FOUND": "Geen karakters gevonden",
-  "NO_SERIES_FOUND": "Geen resultaten gevonden voor {{name}}",
-  "SERIES": "SERIE",
-  "ERROR": "Er is een fout opgetreden. Probeer het opnieuw.",
-  "CARD_COLLECTED": "Kaarten verzameld: {{collected}}/{{totalCards}}",
-  "TOTAL_WL": "Totaal verlanglijstje: {{wlCount}}",
-  "CHARACTERS": "Personages"
+    "SERIESLOOKUP_DESCRIPTION": "Met deze commando kunt u elke gewenste serie opzoeken. De gegenereerde embed toont u vervolgens alle beschikbare karakters uit de opgegeven serie",
+    "NO__LAST_CHAR_FOUND": "{{author}} U heeft nog geen kaarten in uw verzameling",
+    "NO_CHAR_FOUND": "{{author}} Deze serie heeft nog geen personages",
+    "NO_SERIES_FOUND": "{{author}} Kon geen serie met de naam `{{name}}` vinden",
+    "SERIES": "SOFI: SERIES LOOKUP",
+    "ERROR": "{{author}} Er is een fout opgetreden. Probeer het opnieuw",
+    "CARD_COLLECTED": "Kaarten verzameld: {{collected}}/{{totalCards}}",
+    "TOTAL_WL": "Totale verlanglijst: **{{wlCount}}**",
+    "CHARACTERS": "**__Personages__**",
+    "SERIES_NAME": "Naam: **{{seriesName}}**"
 }

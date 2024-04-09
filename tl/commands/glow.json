@@ -1,5 +1,5 @@
 {
-    "GLOW_DESCRIPTION": "Ang command na ito ay maglalagay ng napiling Glow mula sa iyong kolesyon. Ang mga Glows ay nagdaragdag ng pagliwanag na epekto sa mga dulo ng iyong mga card. Maaari kang bumili ng mga Glows gamit ang command na \"Unlockglow\"",
+    "GLOW_DESCRIPTION": "Ang command na ito ay maglalagay ng napiling Glow mula sa iyong kolesyon. Ang mga Glow ay nagbibigay ng lumiliwanag na epekto sa dulo ng iyong card. Maaari kang bumili ng mga Glow gamit ang \"Unlockglow\" na command",
     "GLOW_CATEGORY": "Kosmetiko",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} Ang kard code na iyong ibinigay ay maaring hindi tama o wala sa iyong koleksyon",
@@ -13,6 +13,6 @@
     "EMBED_FOOTER": "Glow: {{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} Iyang **Glow** ay wala nang karga",
     "GLOW_APPLY_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang **{{glowName}}** **Glow** sa iyong kard",
-    "UNAVAILABLE": "Bakante",
+    "UNAVAILABLE": "Diskargado",
     "AVAILABLE": "Kargado"
 }

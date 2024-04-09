@@ -1,15 +1,15 @@
 {
-  "VIEW_DESCRIPTION": "Pinapakita ang card",
-  "SLASH_DESC1": "Ilagay ang code ng card",
-  "INVALID_CODE": "{{author}} Ang code ng card ay hindi wasto",
-  "SERIES": "Serye:",
-  "NAME": "Pangalan:",
-  "OWNED_BY": "Pag-aari ni:",
-  "SERVER": "Server-ID:",
-  "CLAIMED": "Inangkin sa:",
-  "MOVES": "Mga Abilidad",
-  "EMBED_TITLE": "SOFI: VIEW",
-  "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
-  "SPECIAL": "espesyal",
-  "INFO_BUTTON_LABEL": "impormasyon"
+    "VIEW_DESCRIPTION": "Ang command na ito ay nagpapakita ng biswal na itsura ng espesipikong kard. Gamitin ang command na ito nang walang code ng kard upang sa halip, ay ipakita ang huling nakuhang kard",
+    "SLASH_DESC1": "Ilagay ang code ng kard",
+    "INVALID_CODE": "{{author}} Ang code ng card ay hindi tama",
+    "SERIES": "Serye:",
+    "NAME": "Pangalan:",
+    "OWNED_BY": "Pag-aari Ni:",
+    "SERVER": "ID ng Server:",
+    "CLAIMED": "Nakuha Noong:",
+    "MOVES": "Mga Abilidad",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensiya **({{percentage}}%)**",
+    "SPECIAL": "Special",
+    "INFO_BUTTON_LABEL": "Impormasyon"
 }

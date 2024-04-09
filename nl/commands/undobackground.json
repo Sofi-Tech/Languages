@@ -1,14 +1,14 @@
 {
-  "UNDOBACKGROUND_DESCRIPTION": "Verwijder de achtergrond die is toegepast op de kaart",
-  "UB_CATEGORY": "Cosmetica",
-  "WRONG_USAGE": "Geef een geldige kaartcode op",
-  "NO_CHARACTER_FOUND": "Geen karakter gevonden",
-  "INVALID_CODE": "Ongeldige code opgegeven",
-  "NO_GIF_CARD": "{{auteur}} cosmetica-commando is niet van toepassing op gif-kaarten",
-  "NO_BACKGROUND": "{{auteur}} De kaart heeft geen achtergrond toegepast",
-  "EMBED_TITLE": "SOFI: UNDOBACKGROUND",
-  "PROCESS_COST": "Het proces kost 1 wist en de achtergrond wordt teruggegeven aan uw inventaris",
-  "NOT_ENOUGH_WIST": "Je hebt niet genoeg wists om de achtergrond te verwijderen",
-  "NO_BG_APPLIED": "{{auteur}} De kaart heeft geen achtergrond toegepast",
-  "UNDO_BACKGROUND_SUCCESS": "De achtergrond is succesvol verwijderd en toegevoegd aan je inventaris"
+    "UNDOBACKGROUND_DESCRIPTION": "Verwijder de achtergrond die is toegepast op de kaart",
+    "UB_CATEGORY": "Cosmetica",
+    "WRONG_USAGE": "Geef een geldige kaartcode op",
+    "NO_CHARACTER_FOUND": "Geen karakter gevonden",
+    "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
+    "NO_GIF_CARD": "{{auteur}} cosmetica-commando is niet van toepassing op gif-kaarten",
+    "NO_BACKGROUND": "{{auteur}} De kaart heeft geen achtergrond toegepast",
+    "EMBED_TITLE": "SOFI: UNDOBACKGROUND",
+    "PROCESS_COST": "Het proces kost 1 wist en de achtergrond wordt teruggegeven aan uw inventaris",
+    "NOT_ENOUGH_WIST": "Je hebt niet genoeg wists om de achtergrond te verwijderen",
+    "NO_BG_APPLIED": "{{auteur}} De kaart heeft geen achtergrond toegepast",
+    "UNDO_BACKGROUND_SUCCESS": "De achtergrond is succesvol verwijderd en toegevoegd aan je inventaris"
 }
