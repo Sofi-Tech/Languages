@@ -1,6 +1,6 @@
 {
-  "UNTAG_DESCRIPTION": "Verwijder de \"Tags\" van uw kaarten",
-  "UT_CATEGORY": "Tags",
-  "UT_EMPTY_COLLECTION": "U hebt geen kaarten in uw inventaris",
-  "UNTAG_SUCCESSFUL": "**{{cardName}}** heeft zijn `Tag` met succes verwijdert"
+    "UNTAG_DESCRIPTION": "Gebruik dit commando om een tag van uw kaart te verwijderen. Als u een hele tag wilt verwijderen, kunt u in plaats daarvan het commando \"Tagdelete\" gebruiken",
+    "UT_CATEGORY": "Tags",
+    "UT_EMPTY_COLLECTION": "{{author}} Je hebt nog geen kaarten in je collectie",
+    "UNTAG_SUCCESSFUL": "**{{cardName}}** heeft zijn `Tag` met succes verwijdert"
 }
