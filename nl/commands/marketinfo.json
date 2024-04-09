@@ -9,6 +9,6 @@
     "LISTED": "Vermeld",
     "NO_LISTINGS_FOUND": "{{user}} heeft geen vermeldingen in de markt",
     "INFO": "Gebruik '{{prefix}}ml' en 'smul' om te unlisten\nEr kan slechts één deal tegelijk vermeld worden",
-    "FOOTER": "Toont 1-{{pages}} van {{total}} | Om te kopen gebruik {{prefix}}mp <id> [hoeveelheid]",
+    "FOOTER": "Resultaten weergeven {{page}}-{{pages}} van {{total}} | {{prefix}}mbuy <Order-ID> <Bedrag>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Voorraad: `{{stockAmount}}` {{stockEmoji}} | Ratio: `{{rateAmount}}` {{rateEmoji}}"
 }

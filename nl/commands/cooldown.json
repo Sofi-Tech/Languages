@@ -1,9 +1,14 @@
 {
-  "COOLDOWN_DESCRIPTION": "U kunt de cooldowns van de volgende commando's checken:\n- Drop, Grab, Vote, Raid, Daily en Bump\n-Klik op de bel iconen om herinneringen te krijgen voor \"Drop\", \"Vote\" en \"Daily\"!",
-  "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp!](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Vote",
-  "BUMP": "Bump",
-  "DAILY": "Daily"
+    "COOLDOWN_DESCRIPTION": "Deze commando zal een lijst van uw huidige cooldowns weergeven. Als u een melding wilt ontvangen voor uw Vote/Daily/Bump cooldown, klik op de bel icoon onder de embed",
+    "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp!](https://discord.gg/sofi)",
+    "DROP": "Drop",
+    "GRAB": "Grab",
+    "BUMP": "Bump",
+    "UNREAD_MAIL_two": "\n📫 U heeft **{{count}}** ongelezen mails",
+    "UNREAD_MAIL_few": "\n📫 U heeft **{{count}}** ongelezen mails",
+    "UNREAD_MAIL_one": "\n📫 U heeft **{{count}}** ongelezen mail",
+    "READY": "Gereed",
+    "UNREAD_MAIL_other": "\n📫 U heeft **{{count}}** ongelezen mails",
+    "UNREAD_MAIL_zero": "\n📫 U heeft **{{count}}** ongelezen mail",
+    "UNREAD_MAIL_many": "\n📫 U heeft **{{count}}** ongelezen mails"
 }
