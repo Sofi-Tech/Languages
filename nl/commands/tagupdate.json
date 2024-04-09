@@ -9,13 +9,13 @@
     "EMBED_DESCRIPTION": "Welk deel van de tag `{{tagName}}` wilt u bijwerken?",
     "REPLACE_NAME": "Voer een naam in die `{{tagName}}` vervangt",
     "TAGNAME_EXISTS": "{{author}} Je hebt al een tag met de naam `{{newTagName}}`",
-    "WRONG_TAGNAME_FORMAT": "De tag-naam mag geen speciale tekens of spaties bevatten.",
-    "TAGNAME_LONG": "Tag-naam te lang. Kies een naam die minder dan 20 tekens bevat.",
-    "REPLACE_NAME_CONFIRMATION": "Weet je zeker dat je de tag-naam wilt wijzigen van `{{oldTag}}` naar `{{newTag}}`?",
-    "REPLACE_NAME_SUCCESSFUL": "De tag-naam is succesvol bijgewerkt van `{{oldTag}}` naar `{{newTag}}`",
-    "PROCESS_TERMINATED": "Het proces is beëindigd",
-    "REPLACE_EMOJI": "Stuur de nieuwe tag-emoji waarmee je {{emoji}} wilt vervangen",
-    "WRONG_TAGEMOJI_FORMAT": "De tag-emoji is onjuist geformatteerd. Kies een andere tag-emoji.",
-    "REPLACE_EMOJI_CONFIRMATION": "Weet je zeker dat je de tag-emoji wilt wijzigen van {{oldEmoji}} naar {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "De tag-emoji is succesvol bijgewerkt van {{oldEmoji}} naar {{newEmoji}}"
+    "WRONG_TAGNAME_FORMAT": "{{author}} De naam van uw tag moet alfanumeriek zijn en mag geen speciale tekens, spaties of grof taalgebruik bevatten",
+    "TAGNAME_LONG": "{{author}} De naam van uw tag mag slechts **20** tekens lang zijn",
+    "REPLACE_NAME_CONFIRMATION": "Weet u zeker dat u de naam van deze tag wilt wijzigen van `{{oldTag}}` naar `{{newTag}}`?",
+    "REPLACE_NAME_SUCCESSFUL": "{{author}} De naam van uw tag is met succes gewijzigd van `{{oldTag}}` naar '{{newTag}}'",
+    "PROCESS_TERMINATED": "Het proces is geannuleerd",
+    "REPLACE_EMOJI": "Voer de emoji in waarmee je {{emoji}} wilt vervangen",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Dat is een ongeldige emoji",
+    "REPLACE_EMOJI_CONFIRMATION": "Weet u zeker dat u de emoji van deze tag wilt wijzigen van {{oldEmoji}} naar {{new Emoji}}?",
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} De emoji van deze tag is met succes bijgewerkt van {{oldEmoji}} naar {{newEmoji}}"
 }

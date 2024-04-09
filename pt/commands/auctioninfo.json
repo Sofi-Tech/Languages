@@ -2,5 +2,15 @@
     "AUCTIONINFO_DESCRIPTION": "Esse comando irá abrir um embutido mostrando leilões passados e em andamento para códigos de carta, em que você pode ofertar. Leilões usam Charms como moeda necessária para fazer uma oferta",
     "AI_CATEGORY": "Cartas",
     "NO_ONGOING_AUCTION": "{{author}}Não há leilões ativos atualmente",
-    "BID_SELECTION": "Use o comando {{prefix}}ai <Auction-ID> ou selecione um leilão ativo do menu abaixo"
+    "BID_SELECTION": "Use o comando {{prefix}}ai <Auction-ID> ou selecione um leilão ativo do menu abaixo",
+    "AI_ENDS": "Termina",
+    "BID_MODAL_LABEL": "Valor da Oferta",
+    "BID_MODAL_TITLE": "Oferta de Leilão",
+    "SELECT_AUCTION_PLACEHOLDER": "Selecione um Leilão",
+    "POSITIVE_NUMBER": "{{author}} Sua oferta deve ser um número positivo",
+    "MINIMUM_AMOUNT": "{{author}} Você deve ofertar um mínimo de **{{amount}}** {{currencyEmoji}} para esse leilão",
+    "NOT_ENOUGH_CURRENCY": "{{author}} Você não tem o suficiente {{emoji}}",
+    "BID_MODAL_PLACEHOLDER": "Insira o Valor da Oferta",
+    "INVALID_BID_AMOUNT": "{{author}} Sua oferta deve ser um número!",
+    "AI_CURRENT": "Oferta Atual"
 }

@@ -1,7 +1,8 @@
 {
-  "CODESWAP_DESCRIPTION": "Dit wisselt de codes van de twee genoemde kaarten uit",
-  "SLASH_DESC": "Voer de eerste code in",
-  "SLASH_DESC2": "Voer de tweede code in",
-  "CORRECT_USAGE": "Voer twee kaartcodes in",
-  "INVALID_CODES_PROVIDED": "Voer twee geldige kaartcodes in"
+    "CODESWAP_DESCRIPTION": "Met dit commando kunt u de codes van twee opgegeven kaarten omwisselen",
+    "SLASH_DESC": "Voer de eerste code in",
+    "SLASH_DESC2": "Voer de tweede code in",
+    "CORRECT_USAGE": "{{author}} Juiste gebruik: `{{prefix}}cs <Code1> <Code2>`",
+    "INVALID_CODES_PROVIDED": "{{author}} Ten minste één van de door u opgegeven kaartcodes is ongeldig of bevindt zich niet in uw verzameling",
+    "SUCCESSFUL_CODE_SWAP": "{{author}} De codes van de geselecteerde kaarten zijn succesvol gewisseld"
 }

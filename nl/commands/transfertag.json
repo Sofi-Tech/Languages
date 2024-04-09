@@ -1,7 +1,7 @@
 {
-  "TRANSFERTAG_DESCRIPTION": "Brengt kaarten over van de ene \"Tag\" naar de andere",
-  "TRTAG_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}trt <vanOudeTag> <naarNieuweTag>`",
-  "TAG_NOT_FOUND": "Kan geen `Tag` met naam '{{tag}}' vinden",
-  "TRANSFER_TAG_SUCCESSFUL": "Alle kaarten van de `Tag` '{{fromTag}}'zijn succesvol overgezet van naar '{{toTag}}'"
+    "TRANSFERTAG_DESCRIPTION": "U kunt dit commando gebruiken om alle kaarten binnen een tag over te zetten naar een andere",
+    "TRTAG_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}trt <vanOudeTag> <naarNieuweTag>`",
+    "TAG_NOT_FOUND": "{{author}} Je hebt geen tag met de naam `{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Alle kaarten zijn succesvol overgezet van tag `{{fromTag}}` naar `{{toTag}}`"
 }
