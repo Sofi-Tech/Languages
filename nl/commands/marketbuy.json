@@ -1,19 +1,17 @@
 {
-  "MARKETBUY_DESCRIPTION": "Koopt \"Wists\" van de markt in ruil voor \"Gems\".",
-  "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
-  "INVALID_DEAL_ID": "Ongeldige deal-ID opgegeven: Controleer het opnieuw",
-  "CANNOT_PURCHASE": "{{user}} | Kan die deal niet kopen",
-  "CANNOT_SELF": "{{user}} | Je kunt je eigen deal niet kopen",
-  "WIST_NOT_EXCEED": "Wist-hoeveelheid mag niet hoger zijn dan {{amount}}",
-  "PRODUCT": "Product",
-  "VALUE": "Waarde",
-  "RATE": "Tarief",
-
-  "ALREADY_IN_PURCHASE": "Je bent al bezig met een aankoop op de markt",
-
-  "PURCHASE_CANCELLED": "Aankoop geannuleerd! Deal is niet meer beschikbaar op de markt",
-  "MISSING_GEMS": "Je mist {{gemPrice}} juwelen",
-  "SOMETHING_WRONG": "Er ging iets mis. Probeer opnieuw",
-  "PURCHASE_SUCCESSFUL": "Aankoop is gelukt",
-  "SUCCESS": "{{wistAmount}} wists zijn gekocht voor {{gemPrice}} juwelen | Deal-ID: {{dealId}}"
+    "MARKETBUY_DESCRIPTION": "Koopt \"Wists\" van de markt in ruil voor \"Gems\".",
+    "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
+    "INVALID_DEAL_ID": "Ongeldige deal-ID opgegeven: Controleer het opnieuw",
+    "CANNOT_PURCHASE": "{{user}} | Kan die deal niet kopen",
+    "CANNOT_SELF": "{{user}} | Je kunt je eigen deal niet kopen",
+    "WIST_NOT_EXCEED": "Wist-hoeveelheid mag niet hoger zijn dan {{amount}}",
+    "PRODUCT": "Product",
+    "VALUE": "Waarde",
+    "RATE": "Tarief:",
+    "ALREADY_IN_PURCHASE": "Je bent al bezig met een aankoop op de markt",
+    "PURCHASE_CANCELLED": "Aankoop geannuleerd! Deal is niet meer beschikbaar op de markt",
+    "MISSING_GEMS": "Je mist {{gemPrice}} juwelen",
+    "SOMETHING_WRONG": "Er ging iets mis. Probeer opnieuw",
+    "PURCHASE_SUCCESSFUL": "Aankoop is gelukt",
+    "SUCCESS": "{{wistAmount}} wists zijn gekocht voor {{gemPrice}} juwelen | Deal-ID: {{dealId}}"
 }

@@ -1,1 +1,22 @@
-{}
+{
+    "PERMISSION_CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>`",
+    "NO_PERMS_SETUP": "{{author}} De toestemming is nog niet ingesteld in dit kanaal. Gebruik `{{prefix}}p [BL/WL] [Add] <CommandNames/All>` voor het instellen",
+    "WHITELISTING_INFO": "Witte lijst: Sta alleen toe dat specifieke opdrachten in dit kanaal worden gebruikt",
+    "WHITELISTING_USAGE": "Gebruik: `{{prefix}}p wl add/rem <CommandName/All>`\n",
+    "RESET_USAGE": "Reset: Zet de rechten terug naar de standaard instellingen\nGebruik: `{{prefix}}p reset`",
+    "PERMS_CATEGORY": "Instellingen",
+    "BLACKLIST_BUTTON_LABEL": "Zwarte lijst",
+    "WHITELIST_BUTTON_LABEL": "Witte lijst",
+    "ADD_BUTTON_LABEL": "Toevoegen",
+    "REMOVE_BUTTON_LABEL": "Verwijderen",
+    "RESET_BUTTON_LABEL": "Resetten",
+    "PERMS_EMBED_TITLE": "SOFI: PERMISSIONS",
+    "BLACKLISTING_INFO": "Zwarte lijst: Voorkom dat commando's in dit kanaal worden gebruikt",
+    "BLACKLISTING_USAGE": "Gebruik: `{{prefix}}p bl add/rem <CommandName/All>`\n",
+    "REMOVE_COMMANDS_INFO": "Verwijderen : Verwijder specifieke commando's van de **{{listName}}**\n",
+    "BLACKLISTED_COMMANDS": "**__Zwarte lijst Commando's__**",
+    "WHITELISTED_COMMANDS": "**__Witte lijst Commando's__**",
+    "ADD_COMMANDS_INFO": "Toevoegen : Voeg extra commando's toe aan de **{{listName}}**\n",
+    "SOME_COMMANDS_WHITELISTED": "{{author}} Je hebt al commando's in dit kanaal op de witte lijst gezet! Gebruik het commando `{{prefix}}p reset` om de toestemmingsstatus van dit kanaal op standaard in te stellen",
+    "PERMISSION_DESCRIPTION": "Met dit commando kun je commando's op de witte of zwarte lijst zetten binnen het kanaal waarin het wordt gebruikt. Commando's op de witte lijst zijn de enige commando's die bruikbaar zijn in het kanaal, terwijl commando's op de zwarte lijst de enige commando's zijn die onbruikbaar zijn in het kanaal"
+}

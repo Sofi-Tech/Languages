@@ -1,8 +1,8 @@
 {
-  "MARKETUNLIST_DESCRIPTION": "Verwijdert uw deals van de markt",
-  "CORRECT_USAGE": "{{user}} Geef de deal ID op die je wilt uit de lijst halen of gebruik het commando `smul all` om alle deals tegelijk uit de lijst te halen.",
-  "INVALID_DEAL_ID": "Ongeldige Deal-ID opgegeven: Controleer opnieuw en controleer of u deze heeft opgenomen",
-  "SUCCESS_UL": "{{user}} {{dealId}} is succesvol van de markt afgehaald",
-  "NO_LISTINGS_FOUND": "{{user}} u heeft nog geen lijst geplaatst op de markt",
-  "SUCCESS_UL_ALL": "{{user}} {{totalDeals}} deals zijn succesvol van de markt afgehaald"
+    "MARKETUNLIST_DESCRIPTION": "Gebruik deze commando om uw bestelling uit de markt te verwijderen",
+    "CORRECT_USAGE": "{{user}} Juiste gebruik: `{{prefix}}mul <Order-ID/All>`",
+    "INVALID_DEAL_ID": "{{author}} De door u opgegeven Order-ID is ongeldig of niet van u",
+    "SUCCESS_UL": "{{user}} De volgende bestelling is met succes van de markt verwijderd: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} U heeft momenteel geen bestellingen",
+    "SUCCESS_UL_ALL": "{{user}} Al uw bestellingen zijn met succes van de markt verwijderd"
 }
