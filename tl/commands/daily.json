@@ -1,13 +1,13 @@
 {
-    "DAILY_DESCRIPTION": "Kunin ang iyong pang araw-araw na gantimpala",
-    "CATEGORY": "Kard",
+    "DAILY_DESCRIPTION": "Magagamit mo ang command na ito tuwing 24 oras para makuha ang iyong pang-araw-araw na gantimpala. Kung mas malaki ang iyong Araw-araw na Streak, mas mataas ang mga gantimpala. Bawat 3/7 araw ng iyong streak, makakatanggap ka rin ng chest na naglalaman ng mga karagdagang aytem",
+    "CATEGORY": "Mga Kard",
     "EMBED_AUTHOR": "SOFI: DAILY REWARD ({{author}})",
-    "DAILY_ERROR": "Maaari mong kunin and susunod na **Daily** sa **{{timeout}}**",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> Meron kapang **{{count}}x** **Dail** claims na natitira upang makatanggap ng **Common Chest**",
-    "RARE_CHEST": "<:rarechest:927204672270372874> Meron kapang **{{count}}x** **Daily** claim na natitira upang makatanggap ng **Rare Chest**\n",
+    "DAILY_ERROR": "Maaari mong kunin ang iyong susunod na **Daily** sa **{{timeout}}**",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> Meron kapang **{{count}}x** **Daily** claims na natitira upang makatanggap ng **Common Chest**",
+    "RARE_CHEST": "<:rarechest:927204672270372874> Meron kapang **{{count}}x** **Daily** claims na natitira upang makatanggap ng **Rare Chest**\n",
     "NOTE": "⚠️ HINDI hihilingin sa iyo ng Discord, pati na rin ng Sofi Staff ang iyong password o payuhan kang palitan ang iyong E-Mail sa isang partikular na address. Mag-ingat sa mga third-party na discord na BOT na kadalasang ginagamit para sa mga katulad na pagtatangka sa phishing!\n\nDapat iulat kaagad ang anumang kahina-hinalang aktibidad sa {{link}}! ⚠️",
     "EMBED_FOOTER": "Streak [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Matagumpay na na-claim ang iyong mga reward na **Daily**!",
+    "DAILY_SUCCESS": "Matagumpay na nakuha ang iyong mga **Daily** na gantimpala!",
     "GUILD_BONUS": "**(1.5x Server Bonus!)**",
     "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
 }

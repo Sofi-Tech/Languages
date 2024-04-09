@@ -1,9 +1,19 @@
 {
-  "COOLDOWN_DESCRIPTION": "Bu eylemler için bekleme süresini görüntüler:\n- Drop, Grab, Vote, Raid , Bump\n- \"Drop\", \"Vote\" ve \"Daily\" için Direkt Mesaj hatırlatmaları almak için zil simgelerine tıkla!",
-  "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katıl](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Oy",
-  "BUMP": "BUMP",
-  "DAILY": "Günlük"
+    "COOLDOWN_DESCRIPTION": "Bu komut mevcut bekleme sürelerinizin bir listesini görüntüler. Oylama/Günlük/Bump bekleme süreniz hakkında bilgilendirilmek istiyorsanız yerleştirme ekranının altındaki zil simgesine tıklayın",
+    "JOIN_SUPPORT_SERVER": "[Yardım için destek sunucusuna katıl](https://discord.gg/sofi)",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Bırak `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`GraB `** | **{{cooldown}}**",
+    "VOTE": "Oy> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`BumP `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Günlük`** | **{{cooldown}}**",
+    "UNREAD_MAIL_two": "\n📫 **{{count}}** okunmamış postalarınız var",
+    "UNREAD_MAIL_few": "\n📫 **{{count}}** Okunmamış postalarınız var",
+    "UNREAD_MAIL_many": "\n📫 **{{count}}** Okunmamış Postalarınız Var",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Baskın `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Oy",
+    "READY": "Hazır",
+    "UNREAD_MAIL_one": "\n📫 **{{count}}** Okunmamış postanız var",
+    "UNREAD_MAIL_other": "\n📫 **{{count}}** Okunmamış Postanız var",
+    "EMBED_TITLE": "SOFI: BEKLEME SÜRELERİ ({{username}})",
+    "UNREAD_MAIL_zero": "\n📫 **{{count}}** okunmamış postanız var"
 }

@@ -15,5 +15,10 @@
     "YEARS": "jaren",
     "SUCCESS": "SUCCES",
     "CANCELLED": "Het proces is geannuleerd",
-    "PROCESSING": "Verwerken van uw verzoek...<a:loading:876610443148406794>"
+    "PROCESSING": "Verwerken van uw verzoek...<a:loading:876610443148406794>",
+    "AUTHOR_QUARANTINED": "{{author}} U bent in quarantaine",
+    "AUTHOR_BLACKLISTED": "{{author}} U staat op de zwarte lijst",
+    "UNAVAILABLE": "Niet beschikbaar",
+    "AVAILABLE": "Beschikbaar",
+    "NOT_REGISTERED": "{{author}} Deze gebruiker is niet geregistreerd"
 }

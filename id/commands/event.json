@@ -56,5 +56,10 @@
     "CHEST_MODAL_TITLE": "Sofi: {{item}} Chest",
     "ITEM_PURCHASE_SUCCESSFUL": "Selamat! {{amount}} {{item}} telah ditambahkan ke inventory anda",
     "NO_ACTIVE_EVENT": "{{author}} Tidak ada event yang sedang aktif saat ini",
-    "DROP_TASK_zero": "Drop {{count}} kali"
+    "DROP_TASK_zero": "Drop {{count}} kali",
+    "DROP_TASK_one": "Drop {{count}} kali",
+    "DROP_TASK_two": "Drop {{count}} kali",
+    "DROP_TASK_few": "Drop {{count}} kali",
+    "DROP_TASK_other": "Drop {{count}} kali",
+    "DROP_TASK_many": "Drop {{count}} kali"
 }

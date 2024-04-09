@@ -3,7 +3,7 @@
     "TAG_CATEGORY": "Etiketler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}t <CardCode> <TagName>`",
     "NO_TAGS_CREATED": "{{author}} Henüz hiç `Tags`'ınız yok. Bir tane oluşturmak için `{{prefix}}tc <TagName> <Emoji>` komutunu kullanın",
-    "TAG_NOT_FOUND": "{{author}}`{{tag}}` adında herhangi bir `Tag`ınız yok",
+    "TAG_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir etiketiniz yok",
     "NO_CARDS_CLAIMED": "{{author}} Koleksiyonunuzda henüz kart yok",
     "INVALID_CARD_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
     "SUCCESSFUL_TAG": "{{author}} **{{card}}** öğesi `{{tag}}`olarak başarıyla etiketledi",

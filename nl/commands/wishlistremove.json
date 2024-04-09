@@ -1,8 +1,8 @@
 {
-  "WISHLISTREMOVE_DESCRIPTION": "Verwijdert een karakter van uw verlanglijst",
-  "CATEGORY": "Verlanglijstje",
-  "NO_INDEX": "Er werd geen naam of nummer opgegeven! Om uw hele verlanglijst te wissen, gebruik het commando `swr full reset`",
-  "FULL_RESET": "> {{author}} U heeft **__{{total}}__** karakters van uw verlanglijst verwijderd",
-  "REMOVE_CHARACTER": "> {{author}} U heeft **{{name}}** van uw verlanglijst verwijderd",
-  "NO_RESULTS": "> {{author}} geen resultaten gevonden voor **\"{{name}}\"**"
+    "WISHLISTREMOVE_DESCRIPTION": "Gebruik dit commando om een karakter te verwijderen van uw verlanglijst",
+    "CATEGORY": "Verlanglijstje",
+    "NO_INDEX": "{{author}} Correct gebruik: `{{prefix}}wr <Naam/Nummer>`. Gebruik het commando `{{prefix}}wr full reset` om uw volledige verlanglijst te wissen",
+    "FULL_RESET": "{{author}} U heeft succesvol alle karakters van uw verlanglijst verwijderd",
+    "REMOVE_CHARACTER": "{{author}} U heeft **{{name}}** succesvol van uw verlanglijst verwijderd",
+    "NO_RESULTS": "{{author}} Er is geen karakter met de naam `{{name}}` op uw verlanglijst"
 }

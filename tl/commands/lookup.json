@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "Ipinapakita ang mga Bersyon/3D/GIF ng mga karakters",
     "CHAR_NOT_FOUND": "{{author}} Walang mahanap na anumang karakter na may pangalang `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na anumang karakter na may pangalang `{{arg}}`\n\n```fix\nPaalala: Gamit ang '-f' flag magiging sensitibo ang function case!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na anumang karakter na may pangalang `{{arg}}`\n\n```fix\nPaalala: Ang paggamit ng '-f' flag ay gagawing sensitibo ang function case! \n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "Inisumite ni: <@{{userID}}>",
     "EMBED_FOOTER": "Hanapin ang `Version`1 gamit ang `scl`| Maaari ring magsumite ng bagong `Version`gamit ang ssc",
@@ -13,7 +13,7 @@
     "VERSIONS": "Mga Bersyon",
     "MULTI": "Marami",
     "EVENTS": "Mga Tagaganap",
-    "EVENT": "Tagaganap",
+    "EVENT": "Event",
     "UPCOMING_EVENT": "Darating na Pagtatanghal",
-    "NO_OWNER_FOUND": "Wala pang nagmamay-ari ng **2D** na variant ng character na ito"
+    "NO_OWNER_FOUND": "Wala pang nagmamay-ari ng **2D** na variant ng karakter na ito"
 }

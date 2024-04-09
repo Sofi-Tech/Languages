@@ -1,14 +1,16 @@
 {
-  "UNDOGLOW_DESCRIPTION": "Bir karttan \"Glow\"u kaldırır",
-  "UNG_CATEGORY": "Kozmetik",
-  "UNG_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ung <CardCode>`",
-  "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
-  "NO_CHARACTER": "{{author}} Bukarakter artık yok!",
-  "NO_GIF": "{{author}} Bir `GIF` kartından kozmetik ürünleri kaldıramazsınız",
-  "NOT_GLOWED": "{{author}} Bu karta hiçbir `Glow` uygulanmamış",
-  "EMBED_TITLE": "SOFI: UNDOGLOW",
-  "UNG_CONFIRMATION": "Bu kartın `Glow` özelliğini kaldırmak istediğinizden emin misiniz?\nBu işlem **100** `Silver`e mal olacak",
-  "EMBED_FOOTER": "Kaldırılan `Glow`, `Inventory` geri gelmeyecek",
-  "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli `Silver`ınız yok",
-  "UNG_SUCCESSFUL": "`Glow` başarıyla kaldırıldı"
+    "UNDOGLOW_DESCRIPTION": "Bu komutun bir kartta kullanılması, karta uygulanan Parıltıyı kaldıracaktır",
+    "UNG_CATEGORY": "Kozmetik",
+    "UNG_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ung <CardCode>`",
+    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz ve ya koleksiyonunuzda yok",
+    "NO_CHARACTER": "{{author}} Bu karttaki karakter artık Sofi'de mevcut değil ve onunla etkileşime geçilemez",
+    "NO_GIF": "{{author}} **GIF** kartından kozmetik öğeleri kaldıramazsınız",
+    "NOT_GLOWED": "{{author}} Bu karta hiçbir **Glow** uygulanmamış",
+    "EMBED_TITLE": "SOFI: IŞILTIYI KALDIR",
+    "UNG_CONFIRMATION": "Bu kartın **Glow**'unu **100** **Silver** karşılığında kaldırmak istediğinizden emin misiniz?",
+    "EMBED_FOOTER": "Glow envanterinize geri dönmeyecek",
+    "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli **{{currency}}** 'a sahip değilsiniz",
+    "UNG_SUCCESSFUL": "{{author}} **{{glowName}}** **Glow** kartınızdan başarıyla kaldırıldı",
+    "UNG_NO_OWNER": "{{author}} Kart Artık koleksiyonunuzda değil",
+    "UNAVAILABLE": "Mevcut değil"
 }

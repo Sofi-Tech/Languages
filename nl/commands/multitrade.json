@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} je bent al in een actieve handel! Annuleer de vorige om een nieuwe te starten",
     "BOT_TRADE": "{{author}} Je kunt niet handelen met een `bot`",
     "SELF_TRADE": "{{author}} Je kunt niet handelen met jezelf",
-    "NOT_REGISTERED": "{{user}} is nog niet geregistreerd!",
+    "NOT_REGISTERED": "{{author}} Deze gebruiker is niet geregistreerd",
     "AUTHOR_IS_BLED": "{{author}} U bent op de zwarte lijst",
     "MEMBER_IS_BLED": "{{user}} staat op de zwarte lijst",
     "AUTHOR_IS_QUED": "{{author}} U staat in quarantaine",

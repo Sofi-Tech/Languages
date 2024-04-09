@@ -1,10 +1,11 @@
 {
-  "WISHLISTADD_DESCRIPTION": "Voeg personages toe aan je verlanglijstje",
-  "CATEGORY": "Verlanglijstje",
-  "ADD_CHARACTERS_ERROR": "> U kunt geen karakters meer toevoegen aan uw verlanglijst",
-  "SEARCH_CHARACTER_ERROR": "Geef een naam op om dat karakter toe te voegen aan uw verlanglijst\nGebruik het commando `swa -f <naam>` voor een exacte zoekopdracht",
-  "NO_CHARACTER_FOUND": "Er werd geen karakter gevonden\nGebruik `swa -f <naam>` voor een exacte zoekopdracht",
-  "CHARACTER_ALREADY_EXISTS": "**{{name}}** staat al op je verlanglijst!",
-  "CHARACTER_ADDED": "> {{author}} | {{name}} is toegevoegd aan je verlanglijstje",
-  "EMBED_TITLE": "SOFI: WISHLISTADD"
+    "WISHLISTADD_DESCRIPTION": "Gebruik dit commando om een karakter toe te voegen aan uw persoonlijke verlanglijst. Deze actie geeft u geen direct voordeel",
+    "CATEGORY": "Verlanglijstje",
+    "ADD_CHARACTERS_ERROR": "{{author}} U kan geen karakters meer toevoegen aan uw verlanglijst",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Correct gebruik: `{{prefix}}wa <Naam>`",
+    "NO_CHARACTER_FOUND": "{{author}} Er werd geen karakter gevonden. Gebruik het commando `{{prefix}}wa -f <Naam>` voor een exacty zoekopdracht",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** staat al op uw verlanglijst",
+    "CHARACTER_ADDED": "{{author}} **{{name}}** is succesvol toegevoegd aan uw verlanglijst",
+    "EMBED_TITLE": "SOFI: WISHLISTADD",
+    "INCREASE_CAPACITY": "Gebruik het commando `{{prefix}}wu` of `{{prefix}}wu max` om de capaciteit van uw verlanglijst te vergroten"
 }

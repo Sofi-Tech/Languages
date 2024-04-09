@@ -1,7 +1,7 @@
 {
-    "HELP_CATEGORY": "Mga setting",
-    "FILTER_EMBED_TITLE": "SOFI: HELP",
-    "HELP_SLASH_DESC": "Mangyaring tukuyin ang command na nais mong malaman ang karagdagang impormasyon tungkol dito",
+    "HELP_CATEGORY": "Konpigurasyon",
+    "FILTER_EMBED_TITLE": "SOFI: KOLEKSYON NG FILTERS",
+    "HELP_SLASH_DESC": "Ilagay ang pangalan ng command na nais mong malaman ang karagdagang impormasyon",
     "HELP_DESCRIPTION": "Ang paggamit ng command na ito nang walang karagdagang mga prompt ay magbubukas ng isang kumpletong listahan ng lahat ng mga command na maaaring gamitin sa Sofi. Kung idadagdag mo ang pangalan ng isang partikular na command bilang prompt, ito ay magbubukas ng isang embed na nagpapaliwanag sa paggamit ng itinukoy na command at ipapakita ang tamang pormat ng paggamit nito",
     "FILTER_NAME": "<:pdot:979009081325019156> **Name** = [`n`/`name`] | **`sc n=NAME`**\n<:pdot:979009081325019156> **Series** = [`s`/`series`] | **`sc s=SERIES`**\n<:pdot:979009081325019156> **Date** = [`d`/`date`] | **`sc d<DD/MM/YYYY`**\n<:pdot:979009081325019156> **Gen** = [`g`/`gen`] | **`sc g>GEN`**\n<:pdot:979009081325019156> **Wishlist**= [`w`/`wl`/`wishlist`] | **`sc wl>=WISHLIST`**\n<:pdot:979009081325019156> **Page** = [`p`] | **`sc p=NUMBER`**\n<:pdot:979009081325019156> **Element** = [`e`/`el`/`element`] | **`sc e=ELEMENT`**\n<:pdot:979009081325019156> **Tag** = [`t`/`tag`] | **`sc t=TAGNAME`**\n<:pdot:979009081325019156> **Attack** = [`atk`/`attack`] | **`sc atk>NUMBER`**\n<:pdot:979009081325019156> **Defense** = [`def`/`defense`] | **`sc def>NUMBER`**\n<:pdot:979009081325019156> **Speed** = [`spd`/`speed`] | **`sc spd>NUMBER`**\n<:pdot:979009081325019156> **Health** = [`hp`/`health`] | **`sc hp>NUMBER`**\n<:pdot:979009081325019156> **Code** = [`c`/`code`] | **`sc c=CODE`**\n<:pdot:979009081325019156> **Morphed** = [`m`/`morph`/`morphed`] | **`sc m=TRUE/FALSE`**\n<:pdot:979009081325019156> **3D** = [`3d`/`threed`] | **`sc 3d=TRUE/FALSE`**\n<:pdot:979009081325019156> **Glow** = [`glow`/`glowed`] | **`sc glow=TRUE/FALSE`**\n<:pdot:979009081325019156> **Frame** = [`f`/`frame`/`framed`] **`sc f=TRUE/FALSE`**\n<:pdot:979009081325019156> **Version** = [`v`/`ver`/`version`] | **`sc v=NUMBER`**\n<:pdot:979009081325019156> **Category** = [`cat`/`category`] **`sc cat=CATEGORY`**\n<:pdot:979009081325019156> **Level** = [`lvl`/`level`] | **`sc lvl>=NUMBER`**\n<:pdot:979009081325019156> **Event** = [`ev`/`event`] | **`sc ev:NAME/T`**",
     "BATTLE": "Labanan",
@@ -30,7 +30,7 @@
     "DESCRIPTION": "Diskription:",
     "COOLDOWN": "Cooldown:",
     "NOT_PROVIDED": "Hindi ibinigay",
-    "COSMETICS": "Pampaganda",
+    "COSMETICS": "Kosmetiko",
     "ALBUM": "Album",
-    "SUPPORT_BUTTON_LABEL": "Supporta!"
+    "SUPPORT_BUTTON_LABEL": "Suporta!"
 }
