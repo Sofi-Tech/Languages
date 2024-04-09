@@ -1,8 +1,8 @@
 {
-  "GLOWTAGCREATE_DESCRIPTION": "Maak een \"Glow Tag\" aan",
-  "GTC_CATEGORY": "Tags",
-  "CORRECT_USAGE": "Correct gebruik: `{{prefix}}gtc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} Dat is geen geldige emoji",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} ** een `Glow Tag` met die naam bestaat al",
-  "CREATED_GLOWTAG": "{{author}} Heeft `Glow Tag` aangemaakt met de naam:** `{{tag}}` | {{emoji}}"
+    "GLOWTAGCREATE_DESCRIPTION": "Maak een \"Glow Tag\" aan",
+    "GTC_CATEGORY": "Tags",
+    "CORRECT_USAGE": "Correct gebruik: `{{prefix}}gtc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Die emoji is ongeldig",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} ** een `Glow Tag` met die naam bestaat al",
+    "CREATED_GLOWTAG": "{{author}} Heeft `Glow Tag` aangemaakt met de naam:** `{{tag}}` | {{emoji}}"
 }

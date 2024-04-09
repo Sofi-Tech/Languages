@@ -1,10 +1,11 @@
 {
-  "UNLOCKGLOW_DESCRIPTION": "Ontgrendel de glows",
-  "UG_CATEGORY": "Cosmetica",
-  "EMBED_TITLE": "SOFI: UNLOCKGLOW",
-  "UNLOCK_GLOW_CONFIRM": "{{author}} Weet je zeker dat je een glow wilt ontgrendelen voor 100 {{currency}}?",
-  "CANCELLED_UNLOCK_GLOW": "Het ontgrendelen is geannuleerd",
-  "NOT_ENOUGH_GEMS": "Je hebt niet genoeg edelstenen",
-  "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
-  "UNLOCK_GLOW_SUCCESS": "Gefeliciteerd {{author}}! Je hebt `{{glowName}}`(`#{{glowCode}}`) ontgrendeld"
+    "UNLOCKGLOW_DESCRIPTION": "Ontgrendel de glows",
+    "UG_CATEGORY": "Cosmetica",
+    "EMBED_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} Weet u zeker dat u een willekeurige **Glow** wilt kopen voor **100** {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "Het proces is geannuleerd",
+    "NOT_ENOUGH_GEMS": "{{author}} U heeft niet genoeg **Gems**",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Met succes een **Glow** gekocht",
+    "GLOW_INFO": "Naam: **{{glowName}}**\nCode: **`#{{glowCode}}`**\nPuurheid: **{{purity}}%**"
 }

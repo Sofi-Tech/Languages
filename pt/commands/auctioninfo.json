@@ -1,1 +1,6 @@
-{}
+{
+    "AUCTIONINFO_DESCRIPTION": "Esse comando irá abrir um embutido mostrando leilões passados e em andamento para códigos de carta, em que você pode ofertar. Leilões usam Charms como moeda necessária para fazer uma oferta",
+    "AI_CATEGORY": "Cartas",
+    "NO_ONGOING_AUCTION": "{{author}}Não há leilões ativos atualmente",
+    "BID_SELECTION": "Use o comando {{prefix}}ai <Auction-ID> ou selecione um leilão ativo do menu abaixo"
+}

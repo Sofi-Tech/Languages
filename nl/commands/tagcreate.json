@@ -1,10 +1,11 @@
 {
-  "TAGCREATE_DESCRIPTION": "Maak een \"Tag\" aan",
-  "TC_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}tc <TagName> <emoji>`",
-  "INVALID_EMOJI": "{{author}} \"{{emoji}}\" is geen geldige emoji!",
-  "INVALID_TAGNAME_FORMAT": "{{author}} De `Tag` naam mag alleen uit letters en nummers bestaan, geen speciale tekens of spaties en mag niet een gereserveerd woord zijn",
-  "LONG_TAGNAME": "{{author}} Een `Tag` naam kan maximaal 20 karakters bevatten",
-  "TAGNAME_EXISTS": "{{author}} **Tag met naam `{{tag}}` bestaat al",
-  "TAG_CREATED": "Gecreëerde tag met naam: `{{tag}}` | {{emoji}}"
+    "TAGCREATE_DESCRIPTION": "Met deze commando kunt u een tag maken om meerdere kaarten te categoriseren en te groeperen die aan uw eigen criteria voldoen. Gebruik het commando \"Tag\" om uw gemaakte tags aan kaarten toe te wijzen",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}tc <TagNaam> <emoji>`",
+    "INVALID_EMOJI": "{{author}} Die emoji is ongeldig",
+    "INVALID_TAGNAME_FORMAT": "{{author}} De naam van uw tag moet alfanumeriek zijn en mag geen speciale tekens, spaties of grof taalgebruik bevatten",
+    "LONG_TAGNAME": "{{author}} De naam van uw tag mag slechts **20** tekens lang zijn",
+    "TAGNAME_EXISTS": "{{author}} U heeft al een tag met de naam `{{tag}}`",
+    "TAG_CREATED": "{{author}} Een tag met de naam `{{tag}}` | {{emoji}} is met succes gecreëerd",
+    "TC_MAX_TAGS": "{{author}} U hebt het maximale aantal tags bereikt dat u kunt maken"
 }

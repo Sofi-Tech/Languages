@@ -1,9 +1,9 @@
 {
-  "ACHIEVEMENTS_DESCRIPTION": "Toont een lijst met beschikbare prestaties",
-  "ACH_CATEGORY": "Instellingen",
-  "ACH_CLAIMED": "Claimed",
-  "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "FAN_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "ACH_LOADING": "Laden <a:ping:876612181725167687>",
-  "NO_STATS_FOUND": "Je hebt nog geen fan punten voor een karakter."
+    "ACHIEVEMENTS_DESCRIPTION": "Opent een embed waarin alle beschikbare prestaties worden getoond en bovendien wordt aangegeven welke prestaties u al heeft behaald",
+    "ACH_CATEGORY": "Instellingen",
+    "ACH_CLAIMED": "Claimed",
+    "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS ({{totalClaimed}}/{{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: FAN POINTS",
+    "ACH_LOADING": "Laden <a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "U heeft nog geen fan punten voor een personage"
 }

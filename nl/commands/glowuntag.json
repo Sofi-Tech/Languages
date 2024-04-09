@@ -1,8 +1,8 @@
 {
-  "GLOWUNTAG_DESCRIPTION": "Verwijder de \"Glow Tags\"",
-  "GUT_CATEGORY": "Tags",
-  "NO_GLOWS_FOUND": "{{author}} U hebt momenteel geen `Glows`",
-  "WRONG_GLOWCODE_FORMAT": "{{author}} `Glow` codes beginnen altijd met een **#**",
-  "INVALID_GLOWCODE": "{{author}} De opgegeven `Glow`codes zijn ongeldig",
-  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Succesvol onttagd {{glow}}"
+    "GLOWUNTAG_DESCRIPTION": "Verwijder de \"Glow Tags\"",
+    "GUT_CATEGORY": "Tags",
+    "NO_GLOWS_FOUND": "{{author}} U hebt momenteel geen `Glows`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} **Glow** codes beginnen altijd met een `#`",
+    "INVALID_GLOWCODE": "{{author}} De opgegeven `Glow`codes zijn ongeldig",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Succesvol onttagd {{glow}}"
 }

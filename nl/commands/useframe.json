@@ -9,7 +9,7 @@
     "EMBED_TITLE": "SOFI: USEFRAME",
     "UF_CONFIRMATION": "Je staat op het punt om {{frameName}} toe te passen\nJe kaart ziet er als volgt uit\n",
     "EMBED_FOOTER": "De kaart is ingelijst. Gebruik het undoframe commando om het toegepaste frame terug te krijgen in je inventaris",
-    "NO_OWNER": "De kaart behoort niet meer tot jou",
+    "NO_OWNER": "{{author}} De kaart bevindt zich niet meer in uw verzameling",
     "FRAME_NOT_FOUND": "Je hebt dat frame niet",
     "UF_SUCCESSFUL": "Succesvol"
 }
