@@ -1,6 +1,6 @@
 {
-  "WISHLISTCHANNEL_DESCRIPTION": "Définit le salon dans lequel être mentionné lors de l'apparition de vos souhaits",
-  "CATEGORY": "Liste De Souhaits",
-  "CHANNEL_SET": "{{author}} Votre liste de souhaits a été définie dans {{channel}}",
-  "CHANNEL_REMOVE": "{{author}} Votre liste de souhaits a été retirée de {{channel}}"
+    "WISHLISTCHANNEL_DESCRIPTION": "Utilisez cette commande pour définir votre liste de souhait dans un salon. Chaque fois qu'une carte de votre liste de souhaits apparaît dans ce salon, Sofi vous notifiera",
+    "CATEGORY": "Liste De Souhaits",
+    "CHANNEL_SET": "{{author}} Votre liste de souhaits a été définie dans {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} Votre liste de souhaits a été retirée de {{channel}}"
 }

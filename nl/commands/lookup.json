@@ -1,21 +1,19 @@
 {
-  "LOOKUP_DESCRIPTION": "laat versies/3d/geanimeerd van personages zien",
-  "CHAR_NOT_FOUND": "Kon het karakter dat u zoekt niet vinden",
-  "CHAR_NF_SENSITIVE": "Kon geen karakters vinden, [De `lookup` functie is hoofdlettergevoelig]",
-  "EMBED_TITLE": "SOFI: LOOKUP",
-  "SUBMITTED": "Ingezonden door: <@{{userID}}>",
-  "EMBED_FOOTER": "Zoek `Version` 1 met het `scl` commando. U kunt ook nieuwe `Versions` indienen door het commando `ssc` te gebruiken",
-
-  "MORE": "Meer info",
-  "GIF_LABEL": "GIF-versie",
-  "SERIES": "Serie",
-  "NAME": "Naam",
-
-  "WISHLISTED": "Op verlanglijstje",
-  "VERSIONS": "Versies",
-  "MULTI": "Multi",
-  "EVENTS": "Evenementen",
-  "EVENT": "Evenement",
-  "UPCOMING_EVENT": "Aankomend evenement",
-  "NO_OWNER_FOUND": "Geen eigenaren gevonden.."
+    "LOOKUP_DESCRIPTION": "laat versies/3d/geanimeerd van personages zien",
+    "CHAR_NOT_FOUND": "Kon het karakter dat u zoekt niet vinden",
+    "CHAR_NF_SENSITIVE": "Kon geen karakters vinden, [De `lookup` functie is hoofdlettergevoelig]",
+    "EMBED_TITLE": "SOFI: LOOKUP",
+    "SUBMITTED": "Ingezonden door: <@{{userID}}>",
+    "EMBED_FOOTER": "Zoek `Version` 1 met het `scl` commando. U kunt ook nieuwe `Versions` indienen door het commando `ssc` te gebruiken",
+    "MORE": "Meer info",
+    "GIF_LABEL": "GIF-versie",
+    "SERIES": "Serie:",
+    "NAME": "Naam:",
+    "WISHLISTED": "Op verlanglijstje",
+    "VERSIONS": "Versies",
+    "MULTI": "Multi",
+    "EVENTS": "Evenementen",
+    "EVENT": "Evenement",
+    "UPCOMING_EVENT": "Aankomend evenement",
+    "NO_OWNER_FOUND": "Geen eigenaren gevonden.."
 }

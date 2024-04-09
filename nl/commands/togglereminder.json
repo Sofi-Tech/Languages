@@ -1,7 +1,7 @@
 {
-  "RM_CATEGORY": "Instellingen",
-  "REMINDER_ENABLED": "U krijgt een melding wanneer {{reminder}} cd eindigt",
-  "REMINDER_DISABLED": "U krijgt niet langer een melding wanneer {{reminder}} cd eindigt",
-  "TOGGLEREMINDER_DESCRIPTION": "Schrijf een sexy beschrijving Crowd - - @Sarcaster!",
-  "PROVIDE_REMINDER_NAME": "Geef herinneringsnaam: {{availableReminders}}"
+    "RM_CATEGORY": "Instellingen",
+    "REMINDER_ENABLED": "{{author}} U krijgt nu een melding wanneer uw **{{reminder}}** klaar is",
+    "REMINDER_DISABLED": "{{author}} U ontvangt geen melding meer wanneer uw **{{reminder}}** klaar is",
+    "TOGGLEREMINDER_DESCRIPTION": "Met dit commando kunt u de status van uw herinneringen uitschakelen. U kunt ook het commando \"Cooldown\" gebruiken en op het belpictogram klikken",
+    "PROVIDE_REMINDER_NAME": "{{author}} Correct gebruik: `{{prefix}}tr <Vote/Daily/Bump>`"
 }

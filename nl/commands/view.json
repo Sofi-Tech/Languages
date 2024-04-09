@@ -1,11 +1,15 @@
 {
-  "VIEW_DESCRIPTION": "Bekijk uw kaart",
-  "SLASH_DESC1": "Voer de kaartcode in.",
-  "INVALID_CODE": "De code die u hebt ingevoerd is ongeldig. Voer een geldige code in.",
-  "SERIES": "Serie",
-  "NAME": "Naam",
-  "OWNED_BY": "In bezit van",
-  "SERVER": "Server",
-  "CLAIMED": "Geclaimd",
-  "MOVES": "Zetten"
+    "VIEW_DESCRIPTION": "Met deze commando wordt de visuele weergave van een opgegeven kaart weergegeven. Gebruik deze commando zonder kaartcode om in plaats daarvan uw laatst verkregen kaart weer te geven",
+    "SLASH_DESC1": "Voer de kaartcode in",
+    "INVALID_CODE": "{{author}} De code die u hebt ingevoerd is ongeldig",
+    "SERIES": "Serie:",
+    "NAME": "Naam:",
+    "OWNED_BY": "In bezit van:",
+    "SERVER": "Server-ID:",
+    "CLAIMED": "Geclaimd Op:",
+    "MOVES": "Vaardigheden",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potentie **({{percentage}}%)**",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "SPECIAL": "Speciaal",
+    "INFO_BUTTON_LABEL": "Informatie"
 }

@@ -1,5 +1,5 @@
 {
-    "SUPERGLOW_DESCRIPTION": "Vous pouvez utiliser cette commande pour fusionner 2 Glows et une Resin en un Super Glow. Un Super Glow possède les deux couleurs des Glows d'origine utilisés dans le processus de fusion",
+    "SUPERGLOW_DESCRIPTION": "Vous pouvez utiliser cette commande pour fusionner 2 Glows et 2 Resin en un Super Glow. Un Super Glow possède les deux couleurs des Glows d'origine utilisés dans le processus de fusion",
     "SG_CATEGORY": "Cosmétiques",
     "GLOW_CODES_MISSING": "{{author}} Utilisation correcte: `{{prefix}}sg <#CodeDeGlow1> <#CodeDeGlow2>`",
     "GLOW_NOT_FOUND": "{{author}} Au moins un des codes de ** Glow ** fournis est invalide ou n'est pas dans votre inventaire",

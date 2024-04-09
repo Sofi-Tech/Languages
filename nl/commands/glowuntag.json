@@ -1,8 +1,10 @@
 {
-    "GLOWUNTAG_DESCRIPTION": "Verwijder de \"Glow Tags\"",
+    "GLOWUNTAG_DESCRIPTION": "Gebruik dit commando om een tag te verwijderen van een gespecificeerde Glow",
     "GUT_CATEGORY": "Tags",
-    "NO_GLOWS_FOUND": "{{author}} U hebt momenteel geen `Glows`",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} **Glow** codes beginnen altijd met een `#`",
-    "INVALID_GLOWCODE": "{{author}} De opgegeven `Glow`codes zijn ongeldig",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Succesvol onttagd {{glow}}"
+    "NO_GLOWS_FOUND": "{{author}} Je hebt nog geen **Glows**",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} ** Glow** codes beginnen altijd met een `#`",
+    "INVALID_GLOWCODE": "{{author}} Die **Glow** code is ofwel ongeldig of niet in uw inventaris",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Tag succesvol verwijderd van uw **{{glow}}** **Glow**",
+    "GLOW_UNTAG_PLURAL": "{{author}} Tag succesvol verwijderd van **{{count}}** **Glows**",
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} De volgende **Glow** codes zijn ofwel ongeldig of niet in uw inventaris:\n{{invalidCodeList}}"
 }

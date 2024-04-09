@@ -1,7 +1,7 @@
 {
-  "DELETEGLOWTAG_DESCRIPTION": "Verwijdert een \"Glow Tag\"",
-  "DGT_CATEGORY": "Tags",
-  "CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}dgt <TagName>`",
-  "GLOWTAG_NOT_FOUND": "{{author}} Kon die `Glow Tag` niet vinden",
-  "DELETE_GLOWTAG": "{{author}} `Glow Tag` '{{tag}}' verwijderd"
+    "DELETEGLOWTAG_DESCRIPTION": "Gebruik van dit commando in combinatie met een Glow-tagnaam zal proberen de geselecteerde tag te verwijderen",
+    "DGT_CATEGORY": "Tags",
+    "CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}dgt <TagNaam>`",
+    "GLOWTAG_NOT_FOUND": "{{author}} Je hebt geen **Glow** tag met de naam `{{tagname}}`",
+    "DELETE_GLOWTAG": "{{author}} Een **Glow** tag met de naam `{{tag}}` is met succes verwijderd"
 }

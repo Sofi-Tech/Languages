@@ -6,7 +6,7 @@
     "CONTINUE": "Wil je doorgaan?",
     "MORPH_CONFIRMATION": "{{author}}, je staat op het punt om `{{code}}` te transformeren wat `350 zilveren` kost",
     "CANCELLED": "Het proces is geannuleerd",
-    "NOT_ENOUGH_SILVERS": "{{author}} Je hebt niet genoeg zilveren om een transformatie uit te voeren",
+    "NOT_ENOUGH_SILVERS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
     "BALANCE": "Balans: {{amount}} zilveren",
     "NAME": "Naam: `{{name}}`",
     "UNDO": "Aantal ongedaan maken: ` {{count}}`",

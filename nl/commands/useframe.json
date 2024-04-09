@@ -1,15 +1,15 @@
 {
-    "USEFRAME_DESCRIPTION": "Gebruik het frame dat je hebt gekocht op kaarten",
+    "USEFRAME_DESCRIPTION": "Dit commando zal een geselecteerd Frame toepassen op een kaart van keuze. U kunt Frames kopen met behulp van het commando \"Frameshop\"",
     "UF_CATEGORY": "Cosmetica",
-    "UF_INVALID_USAGE": "suf <code> <framename/framecode>",
-    "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
-    "CANNOT_APPLY": "Je kunt geen frames toepassen op 3D-kaarten",
-    "NO_GIF": "{{author}} GIF-kaarten kunnen niet worden ingelijst",
-    "NO_FRAMES_FOUND": "{{author}} Geen frames gevonden",
-    "EMBED_TITLE": "SOFI: USEFRAME",
-    "UF_CONFIRMATION": "Je staat op het punt om {{frameName}} toe te passen\nJe kaart ziet er als volgt uit\n",
-    "EMBED_FOOTER": "De kaart is ingelijst. Gebruik het undoframe commando om het toegepaste frame terug te krijgen in je inventaris",
-    "NO_OWNER": "{{author}} De kaart bevindt zich niet meer in uw verzameling",
-    "FRAME_NOT_FOUND": "Je hebt dat frame niet",
-    "UF_SUCCESSFUL": "Succesvol"
+    "UF_INVALID_USAGE": "{{author}} Correct gebruik: `{{prefix}}uf <KaartCode> <FrameNaam/FrameCode>`",
+    "INVALID_CODE": "{{author}} De kaartcode die u hebt opgegeven is ofwel ongeldig of niet in uw collectie",
+    "CANNOT_APPLY": "{{author}} U kunt een **Frame** niet aanbrengen op een **3D** kaart",
+    "NO_GIF": "{{author}} U kunt een **Frame** niet aanbrengen op een **GIF** kaart",
+    "NO_FRAMES_FOUND": "{{author}} Die **Frame** code is ofwel ongeldig of niet in uw inventaris",
+    "EMBED_TITLE": "SOFI: APPLY FRAME",
+    "UF_CONFIRMATION": "Weet u zeker dat u het **{{frameName}}** **Frame** op deze kaart wilt toepassen?",
+    "EMBED_FOOTER": "Het bevestigen van dit proces zal het momenteel toegepaste frame vernietigen",
+    "NO_OWNER": "{{author}} De kaart is niet meer in uw collectie",
+    "FRAME_NOT_FOUND": "{{author}} Je hebt niet het **{{frameName}}** **Frame**",
+    "UF_SUCCESSFUL": "{{author}} **{{frameName}}** **Frame** succesvol toegepast op uw kaart"
 }

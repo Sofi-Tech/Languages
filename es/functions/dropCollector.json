@@ -2,7 +2,7 @@
     "EXTRA_GRAB": "{{user}} Tu **Grab** extra está siendo usado. Tienes **{{remaining}}** restantes",
     "GRAB_COOLDOWN": "{{user}} Tienes que esperar **{{cooldown}}** para obtener otra carta",
     "GRAB_CARD_PLURAL": "{{winner}} peleó contra otros **{{userCount}}** jugadores y obtuvo la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_EVENT_ITEM": "{{winner}} enganchó {{amount}} Calcetines festivos en una pelea de nieve contra {{userCount}} otros! 🌷✨",
+    "GRAB_EVENT_ITEM": "¡Un verdadero guerrero del tulipán! {{winner}} potegió {{amount}} 🌷 de {{userCount}} jugaroes",
     "EVENT_GRAB": "{{user}} arrancó {{currencyEmoji}} **{{amount}}** **{{eventItem}}** para el jardín",
     "TOOK_CARD": "{{user}} **obtuvo** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "Bién Hecho! {{winner}} arrebató {{amount}} tulips a <@{{userId}}>",

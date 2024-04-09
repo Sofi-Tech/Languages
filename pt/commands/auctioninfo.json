@@ -12,5 +12,7 @@
     "NOT_ENOUGH_CURRENCY": "{{author}} Você não tem o suficiente {{emoji}}",
     "BID_MODAL_PLACEHOLDER": "Insira o Valor da Oferta",
     "INVALID_BID_AMOUNT": "{{author}} Sua oferta deve ser um número!",
-    "AI_CURRENT": "Oferta Atual"
+    "AI_CURRENT": "Oferta Atual",
+    "AUCTION_NOT_FOUND": "Não foi possível encontrar esse leilão",
+    "BID_SUCCESSFUL": "{{author}} Você ofertou a quantia de **{{amount}}** {{emoji}} com sucesso"
 }

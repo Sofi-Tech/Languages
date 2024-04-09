@@ -1,13 +1,18 @@
 {
-    "MARKETLIST_DESCRIPTION": "Lijst item op de markt",
+    "MARKETLIST_DESCRIPTION": "Gebruik deze commando om uw Wists op de markt te brengen in ruil voor Gems",
     "CORRECT_USAGE": "{{user}} Correct gebruik: {{prefix}}ml <wist> <tarief>",
-    "INVALID_GEM_RATE": "{{user}} Ongeldig juweeltarief",
-    "GEM_RATE_LIES": "{{user}} Juweeltarief moet tussen 3,0-20,0 liggen",
-    "ALREADY_EXISTS": "Je hebt al een bestaande deal {{dealID}}\nVerwijder de deal voordat je deze opnieuw plaatst",
+    "INVALID_GEM_RATE": "{{user}} Het door u opgegeven tarief is ongeldig",
+    "GEM_RATE_LIES": "{{user}} Het opgegeven tarief moet tussen **3,0 - 20,0** liggen",
+    "ALREADY_EXISTS": "{{author}} Gebruik het commando `{{prefix}}mul {{dealID}}` om eerst uw bestaande bestelling te verwijderen",
     "PRODUCTS": "Producten",
     "RATE": "Tarief",
     "VALUE": "Waarde",
     "CANCELLED": "Het proces is geannuleerd",
     "NOT_ENOUGH_CANCEL": "Geannuleerd vanwege ontbrekende wisten",
-    "SUCCESS": "De deal is succesvol genoteerd"
+    "SUCCESS": "De deal is succesvol genoteerd",
+    "NOT_VERIFIED": "{{author}} U bent niet geverifieerd",
+    "NOT_REGISTERED": "{{author}} U bent niet geregistreerd",
+    "BLACKLISTED": "{{author}} U staat op de zwarte lijst",
+    "QUARANTINED": "{{author}} U bent in quarantaine geplaatst",
+    "INVALID_WIST_AMOUNT": "{{author}} U moet minimaal **10** **Wists** vermelden"
 }

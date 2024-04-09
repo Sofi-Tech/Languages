@@ -1,1 +1,18 @@
-{}
+{
+    "NOT_ENOUGH_AMOUNT": "{{author}} Você não tem **{{item}}** o suficiente para fazer essa compra",
+    "YOU_GET": "Você recebe: {{additionalInfo}}",
+    "GUILD_FOUNDER": "Fundador",
+    "GUILD_MASTER": "Mestre Da Guilda",
+    "GUILD_VETERANS": "Veteranos",
+    "BUY_EMBED_TITLE": "SOFI: TRANSACTION",
+    "GUILD_ADVENTURER": "Aventureiro",
+    "YOU_PAY": "Você paga: {{additionalInfo}}",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Comprou **{{amount}}** **{{itemName}}** com sucesso",
+    "CODE_TWO": "<:linedown:868888105611046942> Código 2",
+    "SWAP_EMBED_FOOTER": "Esse processo irá trocar os códigos entre ambas as cartas",
+    "SOMETHING_WENT_WRONG": "{{author}} Algo deu errado! Qualquer item deduzido foi adicionado de volta para o seu inventário",
+    "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
+    "CODE_ONE": "<:linedown:868888105611046942> Código 1",
+    "NEED_GEMS": "{{author}} Você não tem **{{currency}}** suficientes para trocar os códigos",
+    "GS_EMBED_FOOTER": "Esse acordo irá expirar em {{date}}"
+}

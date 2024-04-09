@@ -1,13 +1,16 @@
 {
-    "TOGGLETEXT_DESCRIPTION": "Verwijder tekst van de kaart",
+    "TOGGLETEXT_DESCRIPTION": "Gebruik deze commando om de zichtbaarheid van de tekst op uw kaart in of uit te schakelen",
     "TT_CATEGORY": "Cosmetica",
-    "PROVIDE_CARD_CODE": "{{author}}, geef kaartcode",
-    "INAVLID_CARD_CODE": "Ongeldige kaartcode verstrekt",
-    "CANNOT_FIND_CARD": "Fout! kaart vinden",
-    "CANNOT_TOGGLE": "{{author}} kan tekst niet schakelen voor gif- of 3D-kaarten",
+    "PROVIDE_CARD_CODE": "{{author}} Juiste gebruik: `{{prefix}}tt <CardCode>`",
+    "INAVLID_CARD_CODE": "{{author}} De door u opgegeven kaartcode is ongeldig of bevindt zich niet in uw verzameling",
+    "CANNOT_FIND_CARD": "{{author}} Het personage op deze kaart is niet langer beschikbaar op Sofi en er kan geen interactie mee plaatsvinden",
+    "CANNOT_TOGGLE": "{{author}} U kunt de tekst van **3D**- of **GIF**-kaarten niet wijzigen",
     "EMBED_TITLE": "SOFI: TOGGLETEXT",
-    "TT_CONFIRMATION": "Weet u zeker dat u {{toggleInfo}} wilt\nHet proces kost 1000 <:_:915619222229512213>",
-    "NO_OWNER": "{{author}} De kaart bevindt zich niet meer in uw verzameling",
-    "NOT_ENOUGH_SILVERS": "U heeft niet genoeg silvers",
-    "TT_ENABLE_SUCCESSFUL": "Tekst succesvol verwijderd"
+    "TT_CONFIRMATION": "Weet u zeker dat u wilt {{toggleInfo}} voor **1000** <:_:915619222229512213>?",
+    "NO_OWNER": "{{author}} De kaart is niet meer in uw collectie",
+    "NOT_ENOUGH_SILVERS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
+    "TT_ENABLE_SUCCESSFUL": "{{author}} De tekst van deze kaart is **hersteld**",
+    "TT_DISABLE_SUCCESSFUL": "{{author}} De tekst van deze kaart is succesvol **verwijderd**",
+    "TOGGLE_INFO_ADD": "**herstel** de tekst van deze kaart",
+    "TOGGLE_INFO_REMOVE": "**verwijder** de tekst van deze kaart"
 }

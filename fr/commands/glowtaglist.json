@@ -1,7 +1,7 @@
 {
-    "GLOWTAGLIST_DESCRIPTION": "Cette commande affichera une liste de tous vos Glow tags ",
+    "GLOWTAGLIST_DESCRIPTION": "Cette commande affichera une liste de tous vos Glow tags",
     "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} Vous n'avez pas encore de **Glow Tags**",
+    "NO_TAGS": "{{author}} Vous n'avez pas encore de **Glow** tag. Vous pouvez en créer avec la commande: `{{prefix}}gtc <NomDeTag> <Emoji>`",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
     "GLOWS_one": "{{count}} Glow",
     "GLOWS_other": "{{count}} Glows",

@@ -1,7 +1,10 @@
 {
-  "PRIVATE_DESCRIPTION": "Maakt je \"Verzameling\", \"Verlanglijstje\" of \"Inventaris\" privé",
-  "PVT_CATEGORY": "Instellingen",
-
-  "PRIVATE_ENABLED": "{{author}} Je **{{content}}** is nu privé",
-  "PRIVATE_DISABLED": "{{author}} Je **{{content}}** is nu niet langer privé"
+    "PRIVATE_DESCRIPTION": "Gebruik dit commando om een deel van uw account te privé te maken. Een geprivatiseerde sectie is niet meer zichtbaar voor andere spelers. Door dit commando alleen te gebruiken, wordt in plaats daarvan uw huidige configuratie voor deze secties weergegeven",
+    "PVT_CATEGORY": "Instellingen",
+    "PRIVATE_ENABLED": "{{author}} Uw **{{content}}** is nu privé",
+    "PRIVATE_DISABLED": "{{author}} Uw **{{content}}** is niet langer privé",
+    "PVT_PUBLIC": "Openbaar",
+    "PVT_PRIVATE": "Privé",
+    "WRONG_ARGUMENTS": "{{author}} Correct gebruik: `{{prefix}}pvt <C/WL/INV/V>`",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE"
 }

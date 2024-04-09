@@ -1,6 +1,7 @@
 {
-  "MARKET_DESCRIPTION": "Mostra o mercado Sofi",
-  "NO_LISTING_FOUND": "Não foi possível encontrar nenhuma listagem",
-  "MARKET_WARN": "Não use o mercado para armazenar ou esconder `Wists`!\nSe você for pego fazendo isso, os `Wists`serão removidos sem compensação.\n`Taxa Média : {{averageRate}}` `Total de Negociações : {{totalTrades}}`",
-  "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use `{{prefix}}mp <ID>`para comprar `Wists`!"
+    "MARKET_DESCRIPTION": "Esse comando lista todos os pedidos disponíveis no mercado. O mercado pode ser usado pelos jogadores para oferecer seus Wists em troca de Gems através do comando \"Marketlist\" ",
+    "NO_LISTING_FOUND": "{{author}} Não foi possível encontrar nenhum pedido no mercado",
+    "MARKET_WARN": "**Taxa Média**: **`{{averageRate}}` | Total de Trocas** : **`{{totalTrades}}`**",
+    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <ID do Pedido> <Quantidade>",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Estoque: `{{stockAmount}}` {{stockEmoji}} | Taxa: `{{rateAmount}}` {{rateEmoji}}"
 }

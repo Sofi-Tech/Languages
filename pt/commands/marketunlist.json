@@ -1,8 +1,8 @@
 {
-  "MARKETUNLIST_DESCRIPTION": "Remove seus negócios do mercado",
-  "CORRECT_USAGE": "{{user}} Por favor, forneça o ID do negócio que você que remover da lista ou use o comando `smul all` para remover todos os negócios de uma só vez",
-  "INVALID_DEAL_ID": "{{author}} o ID que você forneceu é inválido ou não é do seu negócio",
-  "SUCCESS_UL": "{{user}} O negócio `{{dealId}}` foi removido com sucesso da lista do mercado",
-  "NO_LISTINGS_FOUND": "{{user}} Você ainda não fez nenhuma lista no mercado",
-  "SUCCESS_UL_ALL": "{{user}} O total de `{{totalDeals}}` negócios foram removidos com sucesso da lista do mercado"
+    "MARKETUNLIST_DESCRIPTION": "Use esse comando para remover seu pedido do mercado",
+    "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}mul <Order-ID/All>`",
+    "INVALID_DEAL_ID": "{{author}} O ID do pedido que você forneceu é inválido ou não é seu",
+    "SUCCESS_UL": "{{user}} Removido com sucesso o seguinte pedido do mercado: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Você não tem nenhum pedido no momento",
+    "SUCCESS_UL_ALL": "{{user}} Removeu com sucesso todos os seus pedidos do mercado"
 }

@@ -1,8 +1,8 @@
 {
-  "BATTLED_AND_WON": "{{winner}} vocht tegen {{user}} en claimde de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "EMBED_TITLE": "SOFI: CAPTCHADROP",
-  "EXTRA_GRAB": "{{user}} Je **Extra Grab** wordt gebruikt. Je hebt **{{remaining}}** over",
-  "WAIT_TO_CLAIM": "{{user}} Je moet **{{cooldown}}** wachten om een andere kaart te claimen",
-  "TOOK_THE_CARD": "{{user}} nam de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "CANNOT_BE_GRABBED": "{{user}} heeft de **{{characterName}}** kaart geclaimd"
+    "BATTLED_AND_WON": "{{winner}} vocht tegen {{user}} en claimde de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "SOFI: CAPTCHADROP",
+    "EXTRA_GRAB": "{{user}} Je **Extra Grab** wordt gebruikt. Je hebt **{{remaining}}** over",
+    "WAIT_TO_CLAIM": "{{user}} Je moet **{{cooldown}}** wachten om een andere kaart te claimen",
+    "TOOK_THE_CARD": "{{user}} nam de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} heeft de **{{characterName}}** kaart geclaimd"
 }

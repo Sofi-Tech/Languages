@@ -1,12 +1,14 @@
 {
-  "BUYFRAME_DESCRIPTION": "Koopt een \"Frame\" van de \"Frame Shop\"",
-  "BF_CATEGORY": "Cosmetica",
-  "NO_FRAME_NAME": "Je bent vergeten om de naam van het frame op te geven",
-  "NO_FRAMECODE_FOUND": "{{author}} **Geen frame gevonden met de code `{{name}}`",
-  "FRAME_UNAVAILABLE": "Dat frame is niet beschikbaar. Gebruik `sfs` om het beschikbare frame te controleren",
-  "FRAME_NOT_PURCHASABLE": "{{author}} kan dat frame niet kopen",
-  "EMBED_TITLE": "SOFI: BUYFRAME",
-  "YOU_GET": "Jij Krijgt:",
-  "YOU_PAY": "Jij Betaalt:",
-  "NO_ENOUGH_AMOUNT": "Je hebt niet genoeg geld om het frame te kopen"
+    "BUYFRAME_DESCRIPTION": "Dit commando wordt speciaal gebruikt voor het kopen van frames van het commando \"Frameshop\", waarin u zowel officiële als gemeenschap gemaakte Frames kunt kopen voor uw niet-3D kaarten",
+    "BF_CATEGORY": "Cosmetica",
+    "NO_FRAME_NAME": "{{author}} Geef de code van het **Frame** dat u wilt kopen",
+    "NO_FRAMECODE_FOUND": "{{author}} Kan geen **Frame** vinden met de code `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} Dat **Frame** is momenteel niet beschikbaar. Gebruik het commando `{{prefix}}fs` om de huidige **Frame** rotatie te bekijken",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Dat **Frame** is beperkt en kan niet langer worden gekocht",
+    "EMBED_TITLE": "SOFI: TRANSACTION",
+    "YOU_GET": "U ontvangt:",
+    "YOU_PAY": "U Betaalt:",
+    "NO_ENOUGH_AMOUNT": "{{author}} U heeft niet genoeg **{{currency}}** om deze aankoop te doen",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Heeft met succes het **{{frameName}}** **Frame** gekocht",
+    "PROCESS_CANCELLED": "Het proces is geannuleerd"
 }

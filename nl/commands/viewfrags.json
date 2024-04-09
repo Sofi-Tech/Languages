@@ -1,7 +1,8 @@
 {
-  "VIEWFRAGS_DESCRIPTION": "Toont de lijst met beschikbare \"Fragmenten\" van een gebruiker.",
-  "COLLECTION_PVT": "De verzameling van deze gebruiker is privé",
-  "CANNOT_FIND_FRAGS": "{{user}} kan geen fragmenten vinden.",
-  "FRAGS_COUNT": "Aantal fragmenten: {{totalCount}}",
-  "FRAG_LIST": "Lijst met fragmenten: {{userName}}"
+    "VIEWFRAGS_DESCRIPTION": "Dit commando opent de Fragment inventaris van een gebruiker. Fragmenten worden gebruikt om GIF-varianten van een personage te maken. U kunt het commando \"Pull\" gebruiken om ze te verkrijgen",
+    "COLLECTION_PVT": "{{author}} De **Fragments** van die gebruiker zijn privé",
+    "CANNOT_FIND_FRAGS": "{{user}} Die gebruiker heeft geen **Fragments**",
+    "FRAGS_COUNT": "Totaal: {{totalCount}}",
+    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
+    "CANNOT_FIND_SELF": "{{user}} Je hebt nog geen **Fragments**"
 }

@@ -1,13 +1,14 @@
 {
-  "MARKETINFO_DESCRIPTION": "Mostra sua listagem no mercado ou exibe detalhes sobre uma oferta específica",
-  "INVALID_DEAL_ID": "{{author}} O ID da Oferta fornecido é inválido",
-  "TRADER": "Negociante",
-  "DEAL_ID": "Classificação",
-  "PRODUCT": "Produto",
-  "VALUE": "Valor",
-  "RATE": "Preço",
-  "LISTED": "Listado",
-  "NO_LISTINGS_FOUND": "{{user}} você não fez nenhuma listagem no mercado",
-  "INFO": "Use `{{prefix}}ml` e `smul` para retirar a listagem\nApenas uma oferta pode ser listada por vez",
-  "FOOTER": "Mostrando 1-{{pages}} de {{total}} | Para comprar use `{{prefix}}mp <ID>`para comprar `Wists`!"
+    "MARKETINFO_DESCRIPTION": "Mostra sua listagem no mercado ou exibe detalhes sobre uma oferta específica",
+    "INVALID_DEAL_ID": "{{author}} O ID da Oferta fornecido é inválido",
+    "TRADER": "Negociante",
+    "DEAL_ID": "Classificação",
+    "PRODUCT": "Produto",
+    "VALUE": "Valor",
+    "RATE": "Preço",
+    "LISTED": "Listado",
+    "NO_LISTINGS_FOUND": "{{user}} você não fez nenhuma listagem no mercado",
+    "INFO": "Use `{{prefix}}ml` e `smul` para retirar a listagem\nApenas uma oferta pode ser listada por vez",
+    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <ID do Pedido> <Quantidade>",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Estoque: `{{stockAmount}}` {{stockEmoji}} | Taxa: `{{rateAmount}}` {{rateEmoji}}"
 }

@@ -1,6 +1,6 @@
 {
-    "PROFILE_DESCRIPTION": "Toont een gebruikersprofiel",
+    "PROFILE_DESCRIPTION": "Dit commando toont het profiel van een gebruiker, naast hun geselecteerde achtergrond, gemarkeerde kaart en badges. U kunt uw eigen profielkaart configureren met behulp van de opdracht \"Profileconfig\"",
     "PRO_CATEGORY": "Instellingen",
     "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
-    "PROFILE_NOT_FOUND": "{{author}} Die gebruiker is niet geregistreerd!"
+    "PROFILE_NOT_FOUND": "{{author}} Die gebruiker is niet geregistreerd"
 }
