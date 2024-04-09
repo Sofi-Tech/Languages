@@ -10,9 +10,11 @@
     "EMBED_TITLE": "SOFI: FONTCOLOR{{reset}}",
     "COLOR_NAME": "Pangalan: **{{name}}**",
     "COLOR_CODE": "Code: `{{code}}`",
-    "GLOW_UNAVAILABLE": "{{author}} Iyang **Glow** ay wala nang karga",
+    "GLOW_UNAVAILABLE": "{{author}} Ang **Glow** na ito ay wala nang karga",
     "FONTCOLOR_CHANGE_SUCCESSFUL": "{{author}} Matagumpay na nabago ang kulay ng font ng kard",
     "PROCESS_CANCELLED": "Ang proseso ay na kansela",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "FC_RESET": "I-reset"
+    "FC_RESET": "I-reset",
+    "FC_NONE": "Wala",
+    "GLOW_NOT_PALLETE": "{{author}} Ang **Glow** na iyong ibinigay ay wala na sa iyong imbentaryo"
 }

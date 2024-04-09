@@ -1,7 +1,7 @@
 {
-  "TAGDELETE_DESCRIPTION": "Verwijdert een \"Tag\"",
-  "TD_CATEGORY": "Tags",
-  "WRONG_USAGE": "Correct gebruik: `{{prefix}}dt <TagName>`",
-  "TAG_NOT_FOUND": "{{author}} U heeft geen `Tag` met die naam",
-  "SUCCESSFUL_DELETE_TAG": "{{author}} Tag {{tag}} verwijderd"
+    "TAGDELETE_DESCRIPTION": "Verwijdert een \"Tag\"",
+    "TD_CATEGORY": "Tags",
+    "WRONG_USAGE": "Correct gebruik: `{{prefix}}dt <TagName>`",
+    "TAG_NOT_FOUND": "{{author}} U heeft geen tag met de naam `{{arg}}`",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} Tag {{tag}} verwijderd"
 }

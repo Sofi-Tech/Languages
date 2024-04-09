@@ -1,10 +1,10 @@
 {
-    "TAG_DESCRIPTION": "Zet uw \"Tags\" op uw kaarten",
+    "TAG_DESCRIPTION": "Met dit commando kunt u een tag toewijzen aan een kaart. Tags zijn een handige functie voor het categoriseren en groeperen van meerdere kaarten die overeenkomen met uw eigen criteria. Gebruik het commando \"Tagcreate\" om tags te maken",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Geef een `Tag` naam op",
-    "NO_TAGS_CREATED": "{{author}} U heeft nog geen `Tags`. U kunt ze aanmaken met het commando `{{prefix}}tc <TagName> <Emoji>`",
-    "TAG_NOT_FOUND": "{{author}} U heeft geen `Tag`met de naam `{{tag}}`",
-    "NO_CARDS_CLAIMED": "{{author}} U heeft geen kaarten om te `Tag`",
+    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}t <TagNaam> <KaartCode>`",
+    "NO_TAGS_CREATED": "{{author}} U heeft nog geen tags. Gebruik het commando `{{prefix}}tc <TagNaam> <Emoji>` om er een te maken",
+    "TAG_NOT_FOUND": "{{author}} U heeft geen tag met de naam `{{arg}}`",
+    "NO_CARDS_CLAIMED": "{{author}} U heeft nog geen kaarten in uw collectie",
     "INVALID_CARD_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
     "SUCCESSFUL_TAG": "{{author}} | {{card}} succesvol getagd met `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Deze kaarten zijn succesvol getagd."
