@@ -1,13 +1,14 @@
 {
-  "SUPERGLOW_DESCRIPTION": "Voeg twee gloeisels samen om een super gloeilicht te maken",
-  "SG_CATEGORY": "Cosmetica",
-  "GLOW_CODES_MISSING": "{{author}} glowcodes ontbreken | `ssuperglow [glowcode1] [glowcode2]`",
-  "GLOW_NOT_FOUND": "{{author}} kan de gloeilicht niet vinden.. Controleer de code opnieuw",
-  "UNAVAILABLE_GLOW": "{{author}} een van de lichten is niet beschikbaar. Controleer het opnieuw..",
-  "NO_USE_SG": "{{author}} kan geen super gloeilicht gebruiken om een ​​super gloeilicht te vormen",
-  "SAME_GLOWS": "{{author}} kan geen dezelfde gloeisels gebruiken om een ​​super gloeilicht te vormen",
-  "EMBED_TITLE": "SOFI: SUPERGLOW",
-  "FORM_SG_CONFIRM": "U staat op het punt om een super gloeilicht te maken,**\n\n{{glowCodes}}\n\n**Het vormen van een super gloeilicht...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}",
-  "MISSING_RESINS": "Je mist harsen",
-  "SUPER_GLOW_SUCCESSFUL": "Het vormen van een super gloeilicht was succesvol**\n\n{{glowCodes}}\n\n**Het vormen van een super gloeilicht...**\n\n**{{glowName1}} + {{glowName2}} + 2 <:resin:938131736741691442> ➜ Super ${superGlowName}"
+    "SUPERGLOW_DESCRIPTION": "U kan dit commando gebruiken om 2 Glows en 2 Resins samen te voegen tot een Super Glow. Een Super Glow heeft beide kleurenschema's van de originele Glows die zijn gebruikt in het samenvoegproces",
+    "SG_CATEGORY": "Cosmetica",
+    "GLOW_CODES_MISSING": "{{author}} Correct gebruik: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_NOT_FOUND": "{{author}} Minstens één van de **Glow** codes die u heeft opgegeven is ongeldig of niet in uw inventaris",
+    "UNAVAILABLE_GLOW": "{{author}} Mistens één van de **Glow** codes die u heeft opgegeven is leeg",
+    "NO_USE_SG": "{{author}} U kan geen **Super Glow** gebruiken voor dit proces",
+    "SAME_GLOWS": "{{author}} U kan dezelfde **Glow** niet meer dan één keer gebruiken",
+    "EMBED_TITLE": "SOFI: SUPERGLOW",
+    "FORM_SG_CONFIRM": "Bent u zeker dat u de volgende items wilt samenvoegen:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** **Resin**\n\nin de **{{superGlowName}}** **Super Glow**?",
+    "MISSING_RESINS": "{{author}} U heeft niet genoeg **Resin** voor dit proces",
+    "SUPER_GLOW_SUCCESSFUL": "{{author}} Succesvol uw **Glows** samengevoegd",
+    "FORM_SG_FOOTER": "Beide Glows zullen vernietigd worden in het proces!"
 }

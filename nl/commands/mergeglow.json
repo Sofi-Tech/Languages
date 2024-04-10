@@ -1,10 +1,11 @@
 {
-  "MERGEGLOW_DESCRIPTION": "Samenvoeg de gloeiers om hars te ontvangen",
-  "MG_CATEGORY": "Cosmetica",
-  "GLOW_CODES_MISSING": "{{author}} gloeicode(s) ontbreken | `gloeiersamenvoegen [gloeicode1] [gloeicode2] [gloeicode3] [gloeicode4]`",
-  "GLOWS_UNAVAILABLE": "{{author}} Sommige gloeiers zijn niet beschikbaar: {{unavailableGlows}}",
-  "GLOW_CODES_UNIQUE": "{{author}} moet elke gloeicode uniek zijn",
-  "GLOWS_NOT_FOUND": "{{author}} kan geen gloeiers vinden met de codes {{glows}}",
-  "EMBED_TITLE": "SOFI: MERGEGLOW",
-  "MERGE_CONFIRMATION": "Je staat op het punt om de volgende gloeiers samen te voegen:\n\n{{glows}}\n\nJe ontvangt 1 <:resin:938131736741691442>"
+    "MERGEGLOW_DESCRIPTION": "Gebruik dit commando om 4 verschillende Glows samen te voegen tot 1 Resin, wat een vereist materiaal is bij het creëren van Super Glows. Elke samengevoegde Glow zal permanent verwijderd worden van uw inventaris",
+    "MG_CATEGORY": "Cosmetica",
+    "GLOW_CODES_MISSING": "{{author}} gloeicode(s) ontbreken | `gloeiersamenvoegen [gloeicode1] [gloeicode2] [gloeicode3] [gloeicode4]`",
+    "GLOWS_UNAVAILABLE": "{{author}} Mistens één van de **Glow** codes die u opgaf is leeg",
+    "GLOW_CODES_UNIQUE": "{{author}} U kan dezelfde **Glow** niet meer dan één keer gebruiken voor dit proces",
+    "GLOWS_NOT_FOUND": "{{author}} Minstens één van de **Glow** codes die u opgaf is ongeldig of niet in uw inventaris",
+    "MERGE_CONFIRMATION": "Bent u zeker dat u de volgende **Glows** wilt samenvoegen?\n\n{{glows}}\n\nU zal <:resin:938131736741691442> **1x** `**Resin** ontvangen van dit proces",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} Succesvol uw **Glows** samengevoegd tot een <:resin:938131736741691442>",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} Minstens één van de **Glows** die u opgaf is niet meer in uw inventaris"
 }

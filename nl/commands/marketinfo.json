@@ -1,14 +1,14 @@
 {
-    "MARKETINFO_DESCRIPTION": "Toont uw vermelding op de markt of geeft details over een specifieke deal",
-    "INVALID_DEAL_ID": "Ongeldige deal ID opgegeven: controleer opnieuw",
+    "MARKETINFO_DESCRIPTION": "Gebruik maken van dit commando zal uw huidige markt bestelling weergeven. U kan ook de ID van een bestaande bestelling toevoegen aan de prompt om meer informatie over de specifieke bestelling te krijgen",
+    "INVALID_DEAL_ID": "{{author}} Het Bestelling-ID dat u opgaf is ongeldig",
     "TRADER": "Handelaar",
-    "DEAL_ID": "Tarief",
+    "DEAL_ID": "Bestelling-ID",
     "PRODUCT": "Product",
     "VALUE": "Waarde",
     "RATE": "Tarief",
     "LISTED": "Vermeld",
-    "NO_LISTINGS_FOUND": "{{user}} heeft geen vermeldingen in de markt",
-    "INFO": "Gebruik '{{prefix}}ml' en 'smul' om te unlisten\nEr kan slechts één deal tegelijk vermeld worden",
+    "NO_LISTINGS_FOUND": "{{user}} U heeft momenteel geen bestellingen op de markt",
+    "INFO": "Gebruik het commando `{{prefix}}mul <Bestelling-ID>` om uw bestelling te verwijderen van de markt",
     "FOOTER": "Resultaten weergeven {{page}}-{{pages}} van {{total}} | {{prefix}}mbuy <Order-ID> <Bedrag>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Voorraad: `{{stockAmount}}` {{stockEmoji}} | Ratio: `{{rateAmount}}` {{rateEmoji}}"
 }

@@ -12,9 +12,18 @@
     "EVENT": "Evenement",
     "SELF_INV_EMPTY": "{{author}} Uw inventaris is leeg",
     "USER_INV_EMPTY": "De inventaris van die gebruiker is leeg",
-    "NO_BG_FOUND": "Geen achtergrond gevonden",
+    "NO_BG_FOUND": "Kan geen **Backgrounds** vinden",
     "NO_ITEM_FOUND": "Kan dat item niet vinden in de inventaris",
     "CHECK_INVENTORY": "Selecteer een Categorie",
     "NO_ITEMS_INVENTORY": "Kon geen items vinden",
-    "NO_ITEM_FOUND_OTHERS": "{{author}} Kon dat item niet vinden in de inventaris van deze gebruiker"
+    "NO_ITEM_FOUND_OTHERS": "{{author}} Kon dat item niet vinden in de inventaris van deze gebruiker",
+    "FRAME_CATEGORY_LIMITED": "Gelimiteerd",
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Selecteer een Frame Categorie",
+    "FRAME_CATEGORY_DISCONTINUED": "Afgelast",
+    "FRAME_CATEGORY_MONTHLY": "Maandelijks",
+    "FRAME_CATEGORY_OFFICIAL": "Officieel",
+    "NO_EVENT_FOUND": "Kan geen evenement items vinden",
+    "NO_FRAMES_FOUND": "Kan geen **Frames** vinden",
+    "FRAME_CATEGORY_ALL": "Alle Frames",
+    "NO_CRYSTALS_FOUND": "Kan geen **Crystals** vinden"
 }

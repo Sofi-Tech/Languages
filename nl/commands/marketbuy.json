@@ -1,7 +1,7 @@
 {
     "MARKETBUY_DESCRIPTION": "Koopt \"Wists\" van de markt in ruil voor \"Gems\".",
     "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
-    "INVALID_DEAL_ID": "Ongeldige deal-ID opgegeven: Controleer het opnieuw",
+    "INVALID_DEAL_ID": "{{author}} Het Bestelling-ID dat u opgaf is ongeldig",
     "CANNOT_PURCHASE": "{{user}} | Kan die deal niet kopen",
     "CANNOT_SELF": "{{user}} | Je kunt je eigen deal niet kopen",
     "WIST_NOT_EXCEED": "Wist-hoeveelheid mag niet hoger zijn dan {{amount}}",
