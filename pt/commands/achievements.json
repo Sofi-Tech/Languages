@@ -1,9 +1,9 @@
 {
-  "ACHIEVEMENTS_DESCRIPTION": "Mostra uma lista de conquistas disponíveis",
-  "ACH_CATEGORY": "Configurações",
-  "ACH_CLAIMED": "Reivindicado",
-  "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "FAN_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
-  "ACH_LOADING": "Carregando <a:ping:876612181725167687>",
-  "NO_STATS_FOUND": "Você ainda não possui pontos de fã para nenhum personagem"
+    "ACHIEVEMENTS_DESCRIPTION": "Abre um embutido mostrando todas as conquistas disponíveis e indicando adicionalmente quais conquistas você já obteve",
+    "ACH_CATEGORY": "Configurações",
+    "ACH_CLAIMED": "Reivindicado",
+    "ACH_EMBED_TITLE": "SOFI: ACHIEVEMENTS ({{totalClaimed}}/{{achWithPercent}})",
+    "FAN_EMBED_TITLE": "SOFI: ACHIEVEMENTS",
+    "ACH_LOADING": "Carregando <a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "Você ainda não possui pontos de fã para nenhum personagem"
 }

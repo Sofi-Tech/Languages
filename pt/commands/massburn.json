@@ -1,12 +1,13 @@
 {
-  "MASSBURN_DESCRIPTION": "Queima muitas cartas de uma vez",
-  "IN_ACTIVE_MB": "{{user}} Você não pode começar um novo massburn enquanto já tem um ativo. Por favor, prossiga ou cancele o massburn ativo primeiro",
-  "PROVIDE_FILTERS": "Forneça os filtros que deseja aplicar para o processo de queimar! `t=<TagName>, g><=gen, wl><=wishlist`",
-  "WRONG_TAG": "{{author}} A `Tag` fornecida é inválida",
-  "NO_CARDS_FOUND": "{{author}} Você não tem nenhuma carta em sua coleção",
-  "CARDS_BURNED": "Cartas Queimadas **{{totalCards}}**",
-  "CONFIRM_ASK": "Você tem certeza de que deseja queimar as cartas acima? Esse processo é irreversível",
-  "MISSING_CARDS": "{{author}} Pelo menos uma das cartas da sua `Tags`selecionada não está mais na sua coleção",
-  "SUCCESS": "Cartas foram queimadas com sucesso",
-  "BURN_REWARDS": "Recompensas de Queima"
+    "MASSBURN_DESCRIPTION": "Use este comando para queimar várias cartas de uma vez adicionando parâmetros como \"t:TagName\" e \"wl<Number\" para especificar quais cartas você deseja queimar. Use o comando \"Help filter\" para obter uma lista abrangente de parâmetros disponíveis",
+    "IN_ACTIVE_MB": "{{user}} Você não pode iniciar um novo **Massburn** enquanto um antigo ainda estiver ativo",
+    "PROVIDE_FILTERS": "{{author}} Uso correto: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Você pode encontrar uma lista abrangente de filtros com o comando {{prefix}}help filter\n```",
+    "WRONG_TAG": "{{author}} Não foi possível encontrar nenhuma tag com o nome `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa",
+    "CARDS_BURNED": "Cartas Queimadas **{{totalCards}}**",
+    "CONFIRM_ASK": "Você tem certeza de que deseja queimar as cartas acima? Esse processo é irreversível",
+    "MISSING_CARDS": "{{author}} Pelo menos uma das cartas da sua `Tags`selecionada não está mais na sua coleção",
+    "SUCCESS": "Cartas foram queimadas com sucesso",
+    "BURN_REWARDS": "Recompensas de Queima",
+    "LOCKED_CARDS_WARNING": "{{author}} Cartas que estão bloqueadas, uma variante **GIF** ou usados em um baralho não podem ser queimados"
 }

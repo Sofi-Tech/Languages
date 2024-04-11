@@ -7,14 +7,14 @@
     "MORPH_CONFIRMATION": "Weet je zeker dat je jouw **{{characterName}}** kaart wilt morphen voor **{{amount}}** {{currencyEmoji}} per keer?",
     "CANCELLED": "Het proces is geannuleerd",
     "NOT_ENOUGH_SILVERS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
-    "BALANCE": "Balans: {{amount}} zilveren",
+    "BALANCE": "Balans: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Naam: `{{name}}`",
-    "UNDO": "Aantal ongedaan maken: ` {{count}}`",
-    "FAILED": "Transformatie mislukt, probeer het de volgende keer beter",
+    "UNDO": "Morphs gerold: **{{count}}**",
+    "FAILED": "Er ging iets fout, probeer het de volgende keer opnieuw",
     "HISTORY": "Geschiedenis: ```{{history}}```",
     "STOLE_MORPH": "Een onbekend beest heeft de transformatie gestolen. <:smugsofi:910705181572878376> Rol opnieuw",
     "NO_ITEM": "{{author}} Je hebt niet genoeg {{amount}} {{item}}",
-    "NO_CARD": "De kaart behoort niet langer tot jou",
+    "NO_CARD": "De kaart is niet meer in jouw collectie ",
     "MORPH_CONFRIM": "{{author}} Succesvol toegepaste**{{morphName}}** morph aan jouw kaart ",
     "REROLL": "Je kunt morphs niet meer ongedaan maken",
     "UNDO_SUCCESSFUL": "\nHerstelde de vorige morph voor **{{amount}}** {{emoji}}",
@@ -23,5 +23,8 @@
     "NO_SPECIAL_REROLLED": "Geen speciale morph gerold",
     "CANNOT_APPLY_MNC": "{{author}} Je kunt niet {{article}} **{{eventType}}**  morph toevoegen aan **{{eventCardType}}** of **3D** kaarten",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
-    "MNC_REROLL_COST": "Iedere poging kost 1 {{currencyName}}"
+    "MNC_REROLL_COST": "Iedere poging kost 1 {{currencyName}}",
+    "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
+    "ROLL_MORPH": "Deze morph zal verdwijnen na 2 minuten",
+    "MNC_CARDS_CANNOT_MORPH": "{{author}} **Monochrome 2023 3D** kaarten kunnen niet gemorphed worden"
 }
