@@ -1,13 +1,17 @@
 {
-  "GUESS_DESCRIPTION": "Começa um jogo de Adivinhação de Palavras",
-  "CORRECT_USAGE": "{{user}} uso correto: `{{prefix}}guess <quantia> <moeda>`\nMoedas aceitas: `silvers` `wists` `gems` `cubes`",
-  "NO_TP": "{{message.author}} Você não tem um `Trade Pass` ativo. Use o comando `{{prefix}}bump` para visitar o website e trocar seus pontos `Bump` por um",
-  "NOT_ENOUGH_CURR": "{{user}} Você não tem `{{currency}}` o suficiente para iniciar o jogo!",
-  "INFO_1": "{{user}} iniciou um jogo de adivinhação",
-  "INFO_2": "Os jogaderes devem ter {{bet}} {{currency}}` para participar",
-  "INFO_3": "Prêmio: `{{jackpot}}` {{currencyEmoji}}",
-  "FOOTER": "Reaja com 🍻 para participar | O jogador inicial reage com 🟢 para começar o jogo",
-  "REQ_MORE_PLAYERS": "{{user}} Você precisa de pelo menos 2 jogadores antes de poder iniciar o jogo",
-  "GUESS_THE_WORD": "Adivinhe a palavra dada: {{scrambledWord}}",
-  "CORRECT_GUESS": "{{winner}} adivinhou corretamente a palavra {{word}} e ganhou `{{jackpot}} {{currency}}`!"
+    "GUESS_DESCRIPTION": "Use esse comando para iniciar um jogo de adivinhação. Todos os jogadores que participarem do jogo de adivinhação terão o valor da moeda exibido deduzido de seu inventário assim que o jogo começar. Uma palavra aleatória em inglês será selecionada e depois embaralhada. A primeira pessoa que digitar com sucesso a palavra original no chat será a vencedora do jogo de adivinhação e receberá a soma de todas as taxas de inscrição",
+    "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}guess <Amount> <Currency>`\nMoedas aceitas: **Silver**, **Wists**, **Gems**, **Cubes**",
+    "NO_TP": "{{author}} Você precisa de um **Trade Pass** ativo para hospedar um jogo de adivinhação",
+    "NOT_ENOUGH_CURR": "{{user}} Você não tem **{{currency}}** o suficiente para iniciar o jogo",
+    "INFO_1": "{{user}} iniciou um jogo de adivinhação!",
+    "INFO_2": "Taxa de participação: **{{bet}}** {{currencyEmoji}}",
+    "INFO_3": "Conjunto de prêmios: **{{jackpot}}** {{currencyEmoji}}",
+    "FOOTER": "Clique em 🍻 para participar! Comece o jogo pressionando o botão🟢",
+    "REQ_MORE_PLAYERS": "{{user}} Você precisa de pelo menos **2** jogadores para iniciar o jogo",
+    "GUESS_THE_WORD": "{{participants}}\n\nDecifre a palavra em **inglês**: `{{scrambledWord}}`",
+    "CORRECT_GUESS": "{{winner}} Adivinhou a palavra e ganhou **{{jackpot}}** {{currencyEmoji}}",
+    "INSUFFICIENT_CURRENCY": "{{author}} Você não tem **{{currency}}** o suficiente para participar desse jogo",
+    "MORE": "mais...",
+    "INFO_4": "**Participantes [{{totalPlayers}}]**",
+    "NO_TP_2": "{{author}} Você precisa de um **Trade Pass** ativo para participar!"
 }
