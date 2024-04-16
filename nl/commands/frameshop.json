@@ -1,12 +1,12 @@
 {
-    "FRAMESHOP_DESCRIPTION": "Geeft \"Frames\" weer die momenteel in rotatie zijn, evenals previews van reeds bestaande",
+    "FRAMESHOP_DESCRIPTION": "Deze opdracht opent een venster die alle lijsten laat zien die momenteel te koop zijn. De lijsten die getoond worden in de winkel roteren met iedere nieuwe interval, waarna ze na rotatie niet meer te koop zijn totdat ze terug komen in de winkel. Officiële lijsten kunnen onbeperkt gekocht worden, door de gemeenschap ontworpen lijsten hebben een gelimiteerde oplage",
     "FS_CATEGORY": "Cosmetica",
     "FS_SLASH_DESC": "Voer de \"Frame\" code in die u wilt bekijken",
-    "NO_DESCRIPTION_FOUND": "Deze \"Frame\" heeft nog geen beschrijving",
+    "NO_DESCRIPTION_FOUND": "Deze lijst heeft nog geen omschrijving",
     "FS_PRICE": "Prijs: {{price}}",
-    "EMBED_CF_TITLE": "SOFI: FRAMESHOP",
-    "EMBED_CF_FOOTER": "Pagina weergegeven: {{page}}/{{totalPages}}",
-    "FRAME_NOT_FOUND": "{{author}} Kon geen `Frame` vinden met {{nameOrCode}} `{{arg}}`",
+    "EMBED_CF_TITLE": "SOFI: Speciale lijsten",
+    "EMBED_CF_FOOTER": "Pagina: {{page}}/{{totalPages}}",
+    "FRAME_NOT_FOUND": "{{author}} Kon geen **Lijst** vinden metbde code `{{arg}}`",
     "EMBED_TITLE": "SOFI: FRAMESHOP",
     "EDIT_BUTTON_LABEL": "Bewerk",
     "AGREE_BUTTON_LABEL": "Bevestigen",
@@ -26,5 +26,13 @@
     "LF_MENU_LABEL": "Beperkte \"Frames\"",
     "MF_MENU_LABEL": "Maandelijkse \"Frames\"",
     "CF_MENU_LABEL": "Aangepaste \"Frames\"",
-    "EDIT_DESC_SUCCESSFUL": "Het proces is succesvol afgerond"
+    "EDIT_DESC_SUCCESSFUL": "Het proces is succesvol afgerond",
+    "FS_UNAVAILABLE": "Niet beschikbaar",
+    "EMBED_FOOTER": "Ge-upload {{count}} dagen terug ",
+    "EMBED_FOOTER_zero": "Ge-upload {{count}} dag terug",
+    "EMBED_FOOTER_one": "Ge-upload {{count}} dag terug",
+    "EMBED_FOOTER_two": "Ge-upload {{count}} dagen terug",
+    "EMBED_FOOTER_few": "Ge-upload {{count}} dagen terug ",
+    "EMBED_FOOTER_other": "Ge-upload {{count}} dagen terug",
+    "EMBED_FOOTER_many": "Ge-upload {{count}} dagen terug"
 }

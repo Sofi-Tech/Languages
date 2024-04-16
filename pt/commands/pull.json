@@ -1,13 +1,12 @@
 {
-  "PULL_DESCRIPTION": "`Puxa` diferentes itens como \"Items\" \"Charms\" e `Fragmentos` de cartas animadas",
-  "PULL_AMT": "{{author}} forneça a quantidade de `Pulls` de **1** ou **10**",
-  "INFO_1": "Chance de obter um `Fragmento` é de **12%**",
-  "INFO_2": "As chances de conseguir `Charms` e `Swaps` são {{chance1}}% & {{chance2}}%",
-  "INFO_3": "Você precisa de 8 `Fragmentos` para criar uma carta `GIF` de um personagem",
-
-  "PULLS": "SOFI: PUXADAS",
-  "PULL_COUNT": "Contagem de puxadas: {{count}}",
-  "MISSING_CURR": "{{user}} você não tem **{{amount}}** `{{currName}}`",
-  "AMOUNT": "Quantidade: {{amount}}",
-  "PULL_COUNT_WIST": "Contagem de puxadas: {{pullcount}}"
+    "PULL_DESCRIPTION": "Com esse comando você pode converter Wists e Gems em diferentes itens, incluindo Fragments usados para criar cartas GIF",
+    "PULL_AMT": "{{author}} Uso correto: `{{prefix}}pull <1/10>`",
+    "INFO_1": "Você precisa de 8 **Fragments** para criar uma variante **GIF** de um personagem",
+    "INFO_2": "Há um máximo de **100** variantes de **GIF** por personagem",
+    "INFO_3": "Queime **Fragments** para obter **Charms**",
+    "PULLS": "SOFI: PUXADAS",
+    "PULL_COUNT": "Contagem de puxadas: {{count}}",
+    "MISSING_CURR": "{{user}} você não tem **{{amount}}** `{{currName}}`",
+    "AMOUNT": "Quantidade: {{amount}}",
+    "PULL_COUNT_WIST": "Contagem de puxadas: {{pullcount}}"
 }

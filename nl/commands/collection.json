@@ -42,5 +42,21 @@
     "EMBED_FOOTER": "Pagina: {{page}}/{{totalPages}} | Totaal aantal kaarten: {{count}} {{sortedBy}}",
     "TAG_MODAL_PLACEHOLDER": "Gebruik een \"-\" in de plaats om een tag massaal te verwijderen",
     "TAG_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden met de tag `{{arg}}`",
-    "MASSTAG_WRONG_TAG": "{{author}} Kon geen tags vinden met de naam `{{arg}}`"
+    "MASSTAG_WRONG_TAG": "{{author}} Kon geen tags vinden met de naam `{{arg}}`",
+    "FILTER_NAME": "Filter Naam",
+    "FILTER_UPDATE_SUCCESS": "{{author}} Succesvol deze filter bijgewerkt `{{filterName}}`",
+    "FILTER_DELETE_SUCCESS": "{{author}} Succesvol de filter `{{filterName}}` verwijderd",
+    "EXPLAIN_FILTER": "{{author}} Hier is een stroomdiagram om u te helpen begrijpen hoe deze filter werkt",
+    "SAVE_FILTER": "Selecteer een Filter",
+    "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} Er is **500** <:xsilvercoin:915619222229512213> in rekening gebracht voor het toepassen van een filter op iemand anders hun collectie",
+    "FILTER_SUCCESS": "{{author}} Succesvol deze filter opgeslagen als `{{filterName}}`",
+    "NOT_ENOUGH_SILVER_SAVING": "{{author}} U heeft niet genoeg **Silver** om deze filter op te slaan",
+    "FILTER_NOT_FOUND": "{{author}} Kon geen filter vinden met de naam `{{arg}}`",
+    "CREATE_FILTER": "500 - Sla deze Filter op",
+    "FILTER_LIMIT": "{{author}} U kan geen filters meer maken",
+    "FILTER_NAME_PLACEHOLDER": "Voer een naam voor uw filter in",
+    "FILTER_NAME_TOO_LONG": "{{author}} De naam van uw filter mag niet langer dan **20** karakters zijn",
+    "FILTER_NAME_PROFANE": "{{author}} De naam van uw filter mag geen vloeken bevatten",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden die overeenkomen met uw geselecteerde filter",
+    "FILTER_DELETE": "Verwijder een filter"
 }

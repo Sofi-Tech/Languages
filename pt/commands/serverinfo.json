@@ -1,1 +1,14 @@
-{}
+{
+    "SERVERINFO_DESCRIPTION": "Use este comando para exibir estatísticas do servidor em que foi usado. Você também pode selecionar um idioma principal para o seu servidor, o que forçará todas as respostas do Sofi a estarem no idioma selecionado",
+    "SI_TOP_SERVERS": "**Melhores Servidores** | Redefine em: **{{countdown}}**",
+    "SI_CATEGORY": "Configurações",
+    "EMBED_FOOTER": "Prefixo do Servidor: \"{{prefix}}\"",
+    "SI_TOTAL_GIVEN": "Total de Cartas Dadas",
+    "SI_TOTAL_TRADES": "Total de Trocas",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+    "SI_SPAWN_CHANNEL": "Canal de Geração",
+    "SI_TOTAL_DROPS": "Total de Drops",
+    "SI_TOTAL_BURNT": "Total de Queimadas",
+    "SI_TOTAL_GRABS": "Total de Cartas Pegas",
+    "SI_NAME_UNAVAILABLE": "Nome Indisponível"
+}

@@ -1,12 +1,13 @@
 {
-    "MASSBURN_DESCRIPTION": "Verbrand een verzameling van kaarten in één keer",
-    "IN_ACTIVE_MB": "{{user}} Je kunt geen nieuwe massabrand starten, terwijl er een actieve massabrand gaande is. Ga eerst verder of annuleer de bestaande massabrand",
-    "PROVIDE_FILTERS": "Geef een filter om de verzameling te filteren: t=tagnaam, g><=gen, wl><=wenslijst",
-    "WRONG_TAG": "Er is een verkeerde tag opgegeven. Controleer opnieuw",
+    "MASSBURN_DESCRIPTION": "Gebruik dit commando om meerdere kaarten tegelijk te verbranden door parameters als \"t:TagNaam\" en \"wl>Nummer\" toe te voegen om te aan te geven welke kaarten u wilt verbranden. Gebruik de \"Help filter\" commando om een uitgebreide lijst van beschikbare parameters weer te geven",
+    "IN_ACTIVE_MB": "{{user}} U kan geen nieuwe **Massburn** starten als er nog een actief is",
+    "PROVIDE_FILTERS": "{{author}} Correct gebruik: `{{prefix}}mb <Filters>`\n\n```fix\nOpmerking: U kan een uitgebreide lijst vinden van filters met de commando {{prefix}}help filters\n```",
+    "WRONG_TAG": "{{author}} Kon geen tag vinden met de naam `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Geen kaarten gevonden die overeenkomen met uw zoekopdracht",
-    "CARDS_BURNED": "Verbrande kaarten [${totalCards}]",
-    "CONFIRM_ASK": "Weet je zeker dat je deze kaarten wil verbranden?",
-    "MISSING_CARDS": "Eén van de kaarten uit de massaverbranding-verzameling ontbreekt. Probeer het commando opnieuw",
-    "SUCCESS": "Kaarten zijn succesvol verbrand",
-    "BURN_REWARDS": "__Beloningen__"
+    "CARDS_BURNED": "__Geselecteerde Kaarten [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Bent u zeker dat u deze kaarten onomkeerbaar wilt verbranden?",
+    "MISSING_CARDS": "{{author}} Minstens één van uw geselecteerde kaarten is niet meer in uw collectie",
+    "SUCCESS": "{{author}} Succesvol uw kaarten verbrand",
+    "BURN_REWARDS": "__Beloningen__",
+    "LOCKED_CARDS_WARNING": "{{author}} Kaarten die vergrendeld zijn, een **GIF** variant of gebruikt worden in een dek kunnen niet verbrand worden"
 }

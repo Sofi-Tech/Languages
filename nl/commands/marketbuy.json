@@ -1,17 +1,17 @@
 {
-    "MARKETBUY_DESCRIPTION": "Koopt \"Wists\" van de markt in ruil voor \"Gems\".",
+    "MARKETBUY_DESCRIPTION": "Het gebruik van dit commando in combinatie met een Bestel-ID van de markt gevolgd door een hoeveelheid zal een transactie embed openen om Wists te kopen van een andere speler. Gebruik de \"Market\" commando om alle beschikbare bestellingen te zien",
     "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
-    "INVALID_DEAL_ID": "{{author}} Het Bestelling-ID dat u opgaf is ongeldig",
-    "CANNOT_PURCHASE": "{{user}} | Kan die deal niet kopen",
-    "CANNOT_SELF": "{{user}} | Je kunt je eigen deal niet kopen",
-    "WIST_NOT_EXCEED": "Wist-hoeveelheid mag niet hoger zijn dan {{amount}}",
+    "INVALID_DEAL_ID": "{{author}} De Bestel-ID dat u opgaf is ongeldig",
+    "CANNOT_PURCHASE": "{{user}} U kan geen interactie met deze bestelling hebben",
+    "CANNOT_SELF": "{{user}} U kan niet van uw eigen bestelling kopen",
+    "WIST_NOT_EXCEED": "{{author}} De bestelling heeft nog **{{amount}}** `{{currency}}` over om te kopen",
     "PRODUCT": "Product",
     "VALUE": "Waarde",
     "RATE": "Tarief:",
-    "ALREADY_IN_PURCHASE": "Je bent al bezig met een aankoop op de markt",
-    "PURCHASE_CANCELLED": "Aankoop geannuleerd! Deal is niet meer beschikbaar op de markt",
-    "MISSING_GEMS": "Je mist {{gemPrice}} juwelen",
-    "SOMETHING_WRONG": "Er ging iets mis. Probeer opnieuw",
-    "PURCHASE_SUCCESSFUL": "Aankoop is gelukt",
-    "SUCCESS": "{{wistAmount}} wists zijn gekocht voor {{gemPrice}} juwelen | Deal-ID: {{dealId}}"
+    "ALREADY_IN_PURCHASE": "{{author}} U heeft al een actief transactie scherm",
+    "PURCHASE_CANCELLED": "{{author}} Die bestelling is niet meer beschikbaar",
+    "MISSING_GEMS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
+    "SOMETHING_WRONG": "{{author}} Er ging iets mis. Probeer opnieuw",
+    "PURCHASE_SUCCESSFUL": "{{author}} Succesvol **{{boughtCount}}** {{currency}} gekocht",
+    "SUCCESS": "{{user}} U heeft succesvol **{{orderPrice}}** {{currency}} verkocht en ontving **{{soldAmount}}** {{currencySoldEmoji}}! | Bestel-ID: `{{dealId}}`"
 }
