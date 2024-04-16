@@ -1,6 +1,6 @@
 {
     "PC_EMBED_TITLE": "SOFI: PROFILECONFIG",
-    "PC_INTRO": "<:_:979009081325019156> **Pengenalan**: Mengatur pesan pengantar\n<:_:979009081325019156> **Karakter Favorit**: Pilih karakter favorit Anda\n<:_:979009081325019156> **Kartu Tampilan**: Pilih kartu yang akan ditampilkan di profil Anda\n<:_:979009081325019156> **Background**: Mengatur latar belakang untuk profil Anda\n<:_:979009081325019156> **Warna Huruf**: Mengubah warna teks profil Anda\n<:_:979009081325019156> **Glow Profil**: Menerapkan efek glow ke profil Anda\n<:_:979009081325019156> **Lencana**: Menampilkan lencana pada profil Anda",
+    "PC_INTRO": "<:_:979009081325019156> **Pengenalan**: Menetapkan pesan pengantar\n<:_:979009081325019156> **Karakter Favorit**: Memilih karakter favorit Anda\n<:_:979009081325019156> **Seri Favorit**: Memilih serial favorit Anda\n<:_:979009081325019156> **Kartu Tampilan**: Pilih kartu yang akan ditampilkan di profil Anda\n<:_:979009081325019156> **Background**: Menetapkan latar belakang untuk profil Anda\n<:_:979009081325019156> **Warna Huruf**: Mengubah warna teks profil Anda\n<:_:979009081325019156> **Glow Profil**: Menerapkan efek cahaya ke profil Anda\n<:_:979009081325019156> **Badges**: Menampilkan lencana di profil Anda\n<:_:979009081325019156> **Warna Profil**: Mengubah warna dasar profil Anda",
     "PURCHASE_BUTTON_LABEL": "Beli",
     "AGREE_BUTTON_LABEL": "Konfirmasi",
     "DISAGREE_BUTTON_LABEL": "Kembali",
@@ -35,7 +35,7 @@
     "VIEW_PROFILE_BGS": "[Lihat semua latar belakang yang tersedia di sini](https://sofi.gg/profile/background)",
     "PROCESS_NOT_COMPLETED": "Proses telah dibatalkan",
     "NON_TRADABLE_NOTE": "Latar belakang profil tidak dapat diperjualbelikan dengan cara apa pun",
-    "NEED_MIN_AWARDS": "Anda memerlukan minimal **6** lencana untuk menggunakan opsi ini",
+    "NEED_MIN_AWARDS": "{{author}} Anda memerlukan minimal **6** lencana untuk menggunakan opsi ini",
     "PROVIDE_ACH_ID": "Lencana pada profil Anda ditampilkan dari kiri ke kanan",
     "PROVIDE_PBG_ID": "{{author}} Masukkan ID latar belakang yang ingin Anda beli",
     "NON_TRADABLE_FOOTER": "Proses ini akan menimpa dengan latar belakang Anda saat ini",
@@ -48,8 +48,16 @@
     "SET_FC_CONFIRM": "Apakah Anda yakin ingin menetapkan **{{character}}** dari **{{series}}** sebagai karakter favorit Anda?",
     "CANNOT_SET_TC": "{{author}} **Glow** itu kosong",
     "CANNOT_FIND_ACH": "{{user}} Anda tidak memiliki penghargaan apa pun dengan ID-ID berikut: {{ids}}",
-    "MAX_AWARDS_DISPLAY": "{{author}} Anda hanya dapat menampilkan maksimal **6** lencana di profil Anda",
+    "MAX_AWARDS_DISPLAY": "{{author}} Anda hanya dapat menampilkan maksimal **9** lencana di profil Anda",
     "PROFILECONFIG_DESCRIPTION": "Dengan perintah ini, Anda akan dapat menyesuaikan kartu profil Anda dengan berbagai cara",
     "FS_MENU_LABEL": "Serial Favorit",
-    "PC_MENU_LABEL": "Warna Profil"
+    "PC_MENU_LABEL": "Warna Profil",
+    "SUCCESSFUL_SERIES": "{{author}} Berhasil menjadikan **{{seriesName}}** sebagai serial favorit Anda",
+    "SUCCESSFUL_PROFILE_COLOR": "{{author}} Berhasil mengubah **{{glowName}}** sebagai warna profil Anda",
+    "TYPE_FAV_SERIES": "Masukkan nama serial favorit Anda",
+    "SET_FS_CONFIRM": "Apakah Anda yakin ingin menandai **{{series}}** sebagai serial favorit Anda?",
+    "BGCOLOR_WIST_MISSING": "{{author}} Anda memerlukan 10 {{emoji}} untuk mengatur warna profil",
+    "FAV_SERIES_MENU_PLACEHOLDER": "Pilih Seri",
+    "SET_PCOLOR": "Apakah Anda yakin ingin mengubah **{{glowName}}** sebagai warna profil Anda?",
+    "PC_SERIES_NOT_FOUND": "{{author}} Tidak dapat menemukan seri dengan nama tersebut"
 }

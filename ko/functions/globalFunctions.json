@@ -3,5 +3,16 @@
     "GUILD_MASTER": "길드 마스터",
     "GUILD_FOUNDER": "길드 창설자",
     "GUILD_ADVENTURER": "모험가",
-    "BUY_EMBED_TITLE": "SOFI: TRANSACTION"
+    "BUY_EMBED_TITLE": "SOFI: TRANSACTION",
+    "SOMETHING_WENT_WRONG": "{{author}} 무언가 잘못되었습니다! 차감된 아이템이 인벤토리에 다시 추가되었습니다",
+    "CODE_ONE": "<:linedown:868888105611046942> 코드 1",
+    "YOU_GET": "받은금액: {{additionalInfo}}",
+    "CODE_TWO": "<:linedown:868888105611046942> 코드 2",
+    "SWAP_EMBED_FOOTER": "이 과정은 두 카드 간의 코드를 서로 교환합니다",
+    "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
+    "YOU_PAY": "지불금액: {{additionalInfo}}",
+    "NOT_ENOUGH_AMOUNT": "{{author}} 이 구매를 하기 위해 충분한 **{{item}}**가 없습니다",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} **{{itemName}}** **{{amount}}**개 구매 성공",
+    "NEED_GEMS": "{{author}} 카드 코드를 교환하기 위해 충분한 **{{currency}}**가 없습니다",
+    "GS_EMBED_FOOTER": "이 거래는 {{date}}에 만료됩니다"
 }

@@ -9,5 +9,7 @@
     "CARDS_DROPPED_BY": "{{user}} telah **dropped** kartu",
     "TOOK_CARD": "{{user}} **mengambil**  kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_CARD": "{{winner}} melawan {{user}} dan **mengklaim** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} ** {{elementName}} ** {{eventCardInfo}}",
-    "GRAB_VERSION_PLURAL": "{{winner}} bertarung melawan **{{userCount}}** pemain lain dan **mendapatkan **{{character}}** **Token Versi** (`{{code}}`) [**V{{version}}**]"
+    "GRAB_VERSION_PLURAL": "{{winner}} bertarung melawan **{{userCount}}** pemain lain dan **mendapatkan **{{character}}** **Token Versi** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION": "{{winner}} melawan {{user}} dan **mendapatkan **{{character}}** **Version Token ** (`{{code}}`) [**V{{version}}**]",
+    "TOOK_VERSION": "{{winner}} **mendapatkan **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]"
 }

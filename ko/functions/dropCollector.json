@@ -1,4 +1,11 @@
 {
     "EXTRA_GRAB": "{{user}} 님의 여분의 **Grab**을 사용 중입니다. **{{remaining}}**개 남았습니다",
-    "GRAB_COOLDOWN": "{{user}} 또 다른 카드를 잡으려면 **{{cooldown}}** 동안 기다려야 합니다"
+    "GRAB_COOLDOWN": "{{user}} 또 다른 카드를 잡으려면 **{{cooldown}}** 동안 기다려야 합니다",
+    "GRAB_EVENT_ITEM": "{{winner}} 진정한 튤립 전사! 님은 {{userCount}}명의 플레이어로부터 {{amount}} 🌷송이의 튤립을 보호했습니다",
+    "GRAB_CARD": "{{winner}} 님은 {{user}}를 물리치고 **{{character}}** 카드를 **획득하셨습니다** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "SNATCHED_EVENT_ITEM": "나이스! {{winner}} 님은 <@{{userId}}>으로부터 {{amount}}송이의 튤립을 차지했습니다",
+    "CANNOT_BE_GRABBED": "{{user}} 아래 카드들은 더 이상 **잡을 수 없습니다**",
+    "CARDS_DROPPED_BY": "{{user}} 님은 카드를 **드롭했습니다**",
+    "EVENT_GRAB": "{{user}} 정원을 위해 {{currencyEmoji}} {{eventItem}} {{amount}}개를 따았습니다",
+    "TOOK_CARD": "{{user}} **{{character}}** 카드를 획득하셨습니다 (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }
