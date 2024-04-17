@@ -14,5 +14,6 @@
     "BID_SELECTION": "Для ставки используйте команду {{prefix}}ai <Auction-ID> или выберите активный аукцион во всплывающем меню",
     "INVALID_BID_AMOUNT": "{{author}} Ставка должна быть числом!",
     "MINIMUM_AMOUNT": "{{author}} Вы должны поставить минимум **{{amount}}** {{currencyEmoji}} на этом аукционе",
-    "BID_SUCCESSFUL": "{{author}} Ваша ставка в размере **{{amount}}** {{emoji}} успешно размещена"
+    "BID_SUCCESSFUL": "{{author}} Ваша ставка в размере **{{amount}}** {{emoji}} успешно размещена",
+    "BID_BUTTON_LABEL": "Ставка"
 }
