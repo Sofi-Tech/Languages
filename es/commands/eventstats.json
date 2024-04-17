@@ -1,10 +1,6 @@
 {
-    "EVENTSTATS_DESCRIPTION": "Este comando mostrará una tabla de clasificación de las cartas de Event hechas por el equipo de Sofi",
-    "ES_CATEGORY": "Configuración",
-    "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
-    "EVENT_MENU_PLACEHOLDER": "Selecciona un Event",
-    "MENU_HAL_LABEL": "Halloween 2022",
-    "MENU_VAL_LABEL": "Valentine 2023",
-    "MENU_MNC_LABEL": "Monochrome 2023",
-    "MENU_XMS_LABEL": "Xmas 2023"
+  "EVENTSTATS_DESCRIPTION": "Este comando mostrará una tabla de clasificación de las cartas de Event hechas por el equipo de Sofi",
+  "ES_CATEGORY": "Configuración",
+  "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
+  "EVENT_MENU_PLACEHOLDER": "Selecciona un Event"
 }

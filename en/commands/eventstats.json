@@ -1,10 +1,6 @@
 {
-    "EVENTSTATS_DESCRIPTION": "This command will display a leaderboard for Event card submissions made by Sofi staff",
-    "ES_CATEGORY": "Settings",
-    "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
-    "EVENT_MENU_PLACEHOLDER": "Select an Event",
-    "MENU_HAL_LABEL": "Halloween 2022",
-    "MENU_VAL_LABEL": "Valentine 2023",
-    "MENU_MNC_LABEL": "Monochrome 2023",
-    "MENU_XMS_LABEL": "Xmas 2023"
+  "EVENTSTATS_DESCRIPTION": "This command will display a leaderboard for Event card submissions made by Sofi staff",
+  "ES_CATEGORY": "Settings",
+  "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
+  "EVENT_MENU_PLACEHOLDER": "Select an Event"
 }

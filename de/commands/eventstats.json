@@ -1,9 +1,6 @@
 {
-    "EVENTSTATS_DESCRIPTION": "Dieser Befehl zeigt die Rangliste für die Einreichung von Event-Karten gemacht vom Sofi Personal",
-    "ES_CATEGORY": "Einstellungen",
-    "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
-    "EVENT_MENU_PLACEHOLDER": "Wähle ein Event",
-    "MENU_HAL_LABEL": "Halloween 2022",
-    "MENU_VAL_LABEL": "Valentinstag 2023",
-    "MENU_MNC_LABEL": "Monochrom 2023"
+  "EVENTSTATS_DESCRIPTION": "Dieser Befehl zeigt die Rangliste für die Einreichung von Event-Karten gemacht vom Sofi Personal",
+  "ES_CATEGORY": "Einstellungen",
+  "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
+  "EVENT_MENU_PLACEHOLDER": "Wähle ein Event"
 }

@@ -1,10 +1,6 @@
 {
-    "EVENTSTATS_DESCRIPTION": "Ang command na ito ay magpapakita ng leaderboard para sa mga ipinasang Event kard na ginawa ng Sofi Staff",
-    "ES_CATEGORY": "Mga Setting",
-    "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
-    "EVENT_MENU_PLACEHOLDER": "Pumili ng Kaganapan",
-    "MENU_HAL_LABEL": "Halloween 2022",
-    "MENU_VAL_LABEL": "Araw ng mga Puso 2023",
-    "MENU_MNC_LABEL": "Monochrome 2023",
-    "MENU_XMS_LABEL": "Pasko 2023"
+  "EVENTSTATS_DESCRIPTION": "Ang command na ito ay magpapakita ng leaderboard para sa mga ipinasang Event kard na ginawa ng Sofi Staff",
+  "ES_CATEGORY": "Mga Setting",
+  "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
+  "EVENT_MENU_PLACEHOLDER": "Pumili ng Kaganapan"
 }
