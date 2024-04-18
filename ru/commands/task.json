@@ -36,9 +36,10 @@
     "SELECT_MODAL_PLACEHOLDER": "Колода 1/1[deckname]",
     "NO_QUEST_AVAILABLE": "Нет доступных заданий",
     "MONTHLY_REWARD_CHANGED": "Ежемесячная награда изменена на {{reward}}",
-    "NO_DECK_FOUND": "Колода не найдена. Введите корректное имя колоды",
+    "NO_DECK_FOUND": "Колода не найдена. Пожалуйста, введите корректное имя колоды",
     "QUEST_EMBED_DESCRIPTION": "## Вероятность Успеха: **{{successRate}}%**",
     "SUCCESS_MODIFIERES": "Модификаторы Успеха",
     "DECK_INFO": "Информация о Колоде",
-    "REWARDS": "Награды"
+    "REWARDS": "Награды",
+    "CARD_INVALID": "Карта с кодом `{{code}}` недействительна или не является частью вашей коллекции"
 }

@@ -1,16 +1,16 @@
 {
-    "COLLECTION_DESCRIPTION": "- Você pode visualizar a sua coleção com o comando \"sc\"\n- Sua coleção pode ser ordenada por Nome, Cosméticos, Estatísticas e mais\n- Essa também pode ser filtrada por \"Lista de Desejos\", \"Gen\" ou nome da \"Tag\"\n- Use o comando \"sc t:ut\" para visualizar cartas sem tag na sua coleção",
+    "COLLECTION_DESCRIPTION": "Este comando exibirá toda a sua coleção, que poderá ser classificada e filtrada de várias maneiras. Usar este comando com prompts adicionais abrirá a incorporação com o filtro específico já aplicado a ela. Use o prompt \"t:ut\" além deste comando para destacar todos os cards da sua coleção que não possuem uma tag no momento",
     "SLASH_CMD_DESC": "Exibe a sua coleção de cartas",
     "SLASH_DESC": "Selecione um usuário para poder ver sua coleção",
     "SLASH_DESC2": "Digite os filtros que você deseja aplicar na coleção",
     "PLAYER_NOT_EXIST": "{{author}} Esse usuário não está registrado",
-    "PLAYER_PRIVATE": "{{author}} | A coleção desse usuário é privada!",
-    "NO_RESULTS": "{{author}} Nenhum resultado encontrado!",
+    "PLAYER_PRIVATE": "{{author}} A coleção desse usuário é privada",
+    "NO_RESULTS": "{{author}} Você ainda não tem nenhum card em sua coleção",
     "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa",
-    "NOTHING_FOUND": "Nada encontrado",
-    "CHOOSE_SORTING": "Escolha a ordenação",
-    "SORT_CHAR": "Ordenar por Nome",
-    "SORT_SERIES": "Ordenar por Série",
+    "NOTHING_FOUND": "Não foi possível encontrar nenhum cartão",
+    "CHOOSE_SORTING": "Ordenar por",
+    "SORT_CHAR": "Nome",
+    "SORT_SERIES": "Series",
     "SORT_GEN": "Ordenar por Gen",
     "SORT_WL": "Ordenar por Lista de Desejos",
     "CHECK_COSMETICS": "Verificar Cosméticos",
@@ -22,5 +22,7 @@
     "SORT_DUPE": "Ordenar por Duplicadas",
     "PLEASE_WAIT": "Por favor, aguarde <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "Você ainda não tem `Tags`. Você pode criá-las com o comando `{{prefix}}tc <Nome da Tag> <Emoji>`",
-    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário"
+    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário",
+    "NO_RESULTS_OTHERS": "{{author}} Esse usuário não possui nenhum cartão em sua coleção",
+    "NOT_AVAILABLE": "Série inválida"
 }

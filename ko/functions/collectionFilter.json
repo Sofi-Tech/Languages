@@ -1,3 +1,4 @@
 {
-    "PROVIDE_FILTER": "{{author}} 정렬 방식과 함께 필터를 제공해주세요"
+    "PROVIDE_FILTER": "{{author}} 정렬 방법과 함께 필터를 제공해주세요",
+    "PROVIDE_CATEGORY": "{{author}} 다음 중 하나의 카테고리를 선택해 주세요```apache\n{{categories}}```"
 }

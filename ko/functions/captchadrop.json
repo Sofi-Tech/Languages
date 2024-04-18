@@ -1,3 +1,10 @@
 {
-    "EXTRA_GRAB": "{{user}} 님의 여분의 **Grab**을 사용 중입니다. **{{remaining}}**개 남았습니다"
+    "EXTRA_GRAB": "{{user}} 님의 여분의 **Grab**을 사용 중입니다. **{{remaining}}**개 남았습니다",
+    "BATTLED_AND_WON": "{{winner}} 님은 {{user}}를 물리치고 **{{character}}** 카드를 **획득했습니다** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "캡차 카드",
+    "EMBED_FOOTER": "위의 카드를 캡차를 입력하여 획득하세요",
+    "WAIT_TO_CLAIM": "{{user}} 또 다른 카드를 잡으려면 **{{cooldown}}** 동안 기다려야 합니다",
+    "TOOK_THE_CARD": "{{user}} **{{character}}** 카드를 획득하셨습니다 (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} **{{characterName}}** 카드를 **획득하셨습니다**",
+    "BATTLED_WON_PLURAL": "{{winner}} 님은 **{{userCount}}**명의 다른 플레이어들을 물리치고 **{{character}}** **카드를 획득했습니다** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }
