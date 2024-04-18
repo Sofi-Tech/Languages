@@ -6,7 +6,7 @@
     "BEGIN_BUTTON_LABEL": "Начать Задание",
     "SELECT_MENU_PLACEHOLDER": "Выбрать Задание",
     "ABORT_MODAL_PLACEHOLDER": "Да/Нет",
-    "TASK_DESCRIPTION": "Используйте данную команду для выполнения ежедневных, еженедельных и ежемесячных задания и получения наград.",
+    "TASK_DESCRIPTION": "Используйте данную команду для выполнения заданий, а также ежедневных, еженедельных и ежемесячных поручений для получения наград.",
     "DAILY_TASKS": "### <:1day:1168129639017893949> __**Ежедневные**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Бросить 5 раз - {{dropPoints}}/5 \n<:curvedline:979665878503272478> Bump на сайте Sofi.gg - {{bumpPoints}}/1 \n<:curvedline:979665878503272478> Преобразуйте карту - {{morphPoints}}/1 \n<:curvedline:979665878503272478> Сожгите 3 карты - {{burnPoints}}/3",
     "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Еженедельные**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Raid 20 раз- {{raidPoints}}/20 \n<:curvedline:979665878503272478> Выполните задание - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bump на сайте Sofi.gg - {{bumpPoints}}/15 \n<:curvedline:9796658785032ЧЯ72478> Бросьте 100 раз - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Сожгите 60 карт - {{burnPoints}}/60 \n<:curvedline:979665878503272478> Наберите 15000+ очков в raid - {{raidScore}}/1",
     "NOT_ON_QUEST": "<:xstatusred:895546340367548486> В данный момент не на задании",
