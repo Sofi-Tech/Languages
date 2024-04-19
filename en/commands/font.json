@@ -1,5 +1,5 @@
 {
-    "FONT_DESCRIPTION": "You can use this command to apply a Glow onto the font of a card or to toggle its Gen, Name or Series.",
+    "FONT_DESCRIPTION": "You can use this command to apply a Glow onto the text of a card or to toggle its Gen, Name or Series",
     "FONT_CATEGORY": "Cosmetics",
     "ERROR_FINDING_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
     "NO_GIF_3D": "{{author}} You cannot change the text on **3D** or **GIF** cards",
