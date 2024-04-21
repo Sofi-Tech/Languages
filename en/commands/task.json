@@ -63,6 +63,6 @@
     "TYPE": "Type: **{{type}}**",
     "CAPABILITY": "Capability: {{capability}}",
     "ELEMENT_PREFERENCE": "Elemental Preference: {{elements}}",
-    "QUEST_REWARD": "Can gain {{minimumShards}} to {{maximumShards}} <:_:1168102686785273916> and {{minimumSilvers}} to {{maximumSilvers}} <:_:915619222229512213>\nwith an additional {{luckFactor}}x amount earned\nWill earn **{{questXP}}** experience per card",
+    "QUEST_REWARD": "Can gain **{{minimumShards}}** to **{{maximumShards}}** <:_:1168102686785273916> and **{{minimumSilvers}}** to **{{maximumSilvers}}** <:_:915619222229512213>\nwith an additional **{{luckFactor}}x** amount earned\nWill earn **{{questXP}}** experience per card",
     "NOT_AVAILABLE": "Not Available"
 }
