@@ -47,5 +47,18 @@
     "QUEST_REWARDS_ONE": "Выполнение задания принесло вам {{shardCount}} Shards и {{silver}} Silver",
     "DECK_SELECTED_zero": "{{deck}} отправилась на выполнение {{quest}} на {{count}} часов",
     "DECK_SELECTED_two": "{{deck}} отправилась на выполнение {{quest}} на {{count}} часа",
-    "DECK_SELECTED_other": "{{deck}} отправилась на выполнение {{quest}} на {{count}} часов"
+    "DECK_SELECTED_other": "{{deck}} отправилась на выполнение {{quest}} на {{count}} часов",
+    "ELEMENT": "Элемент",
+    "DURATION_one": "Длительность: {{count}} час",
+    "STAT": "Характеристики",
+    "LEVEL": "Уровень",
+    "DURATION_few": "Длительность: {{count}} часа",
+    "DURATION_many": "Длительность: {{count}} часов",
+    "TYPE": "Тип: **{{type}}**",
+    "NOT_AVAILABLE": "Не доступен",
+    "BASE": "База",
+    "DURATION_zero": "Длительность: {{count}} часов",
+    "DURATION_two": "Длительность: {{count}} часа",
+    "QUEST_REWARD": "Можно получить **{{minimumShards}}** в **{{maximumShards}}** <:_:1168102686785273916> и **{{minimumSilvers}}** в **{{maximumSilvers}}** <:_:915619222229512213>\nс дополнительным **{{luckFactor}}x** количеством заработанного\nПолучит**{{questXP}}** опыта за карту",
+    "DURATION_other": "Длительность: {{count}} часов"
 }
