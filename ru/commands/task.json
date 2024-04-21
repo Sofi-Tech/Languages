@@ -59,6 +59,9 @@
     "BASE": "База",
     "DURATION_zero": "Длительность: {{count}} часов",
     "DURATION_two": "Длительность: {{count}} часа",
-    "QUEST_REWARD": "Можно получить **{{minimumShards}}** в **{{maximumShards}}** <:_:1168102686785273916> и **{{minimumSilvers}}** в **{{maximumSilvers}}** <:_:915619222229512213>\nс дополнительным **{{luckFactor}}x** количеством заработанного\nПолучит**{{questXP}}** опыта за карту",
-    "DURATION_other": "Длительность: {{count}} часов"
+    "QUEST_REWARD": "За выполнение задания вы можете получить от **{{minimumShards}}** до **{{maximumShards}}** <:_:1168102686785273916> и от **{{minimumSilvers}}** до **{{maximumSilvers}}** <:_:915619222229512213>\nс дополнительными **{{luckFactor}}x** наград\nКаждая карта получит **{{questXP}}** опыта",
+    "DURATION_other": "Длительность: {{count}} часов",
+    "CAPABILITY": "Потенциал: {{capability}}",
+    "ELEMENT_PREFERENCE": "Стихийные предпочтения: {{elements}}",
+    "ELEMENT_INFO": "Стихия: **{{element}}**"
 }
