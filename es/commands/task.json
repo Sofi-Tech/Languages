@@ -47,5 +47,21 @@
     "QUEST_REWARDS_ONE": "La mision obtuvo {{shardCount}} Shards y {{silver}} Silver",
     "DECK_SELECTED_zero": "{{deck}} esta afuera en {{quest}} por {{count}} horas",
     "DECK_SELECTED_two": "{{deck}} esta afuera en {{quest}} por {{count}} horas",
-    "CARD_INVALID": "Le carta con el codigo `{{code}}` es invalida o no esta en tu coleccion"
+    "CARD_INVALID": "Le carta con el codigo `{{code}}` es invalida o no esta en tu coleccion",
+    "LEVEL": "Nivel",
+    "DURATION_zero": "Duracion: {{count}} horas",
+    "STAT": "Stat",
+    "DURATION_one": "Duracion: {{count}} hora",
+    "DURATION_other": "Duracion: {{count}} horas",
+    "DURATION_many": "Duracion: {{count}} horas",
+    "ELEMENT_INFO": "Elemento: **{{element}}**",
+    "TYPE": "Tipo: **{{type}}**",
+    "CAPABILITY": "Poder: {{capability}}",
+    "ELEMENT_PREFERENCE": "Preferencia Elemental: {{elements}}",
+    "NOT_AVAILABLE": "No Disponible",
+    "DURATION_few": "Duracion: {{count}} horas",
+    "BASE": "Base",
+    "ELEMENT": "Elemento",
+    "DURATION_two": "Duracion: {{count}} horas",
+    "QUEST_REWARD": "Puedes conseguir **{{minimumShards}}** hasta **{{maximumShards}}** <:_:1168102686785273916> y **{{minimumSilvers}}** hasta **{{maximumSilvers}}** <:_:915619222229512213>\ncon un adicional de **{{luckFactor}}x** cantidad conseguida\nVa a ganar **{{questXP}}** experiencia por carta"
 }
