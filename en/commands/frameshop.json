@@ -35,5 +35,5 @@
   "MF_MENU_LABEL": "Monthly",
   "CF_MENU_LABEL": "Custom",
   "EDIT_DESC_SUCCESSFUL": "{{author}} Successfully set the selected description for your **Frame**",
-  "FRAME_DESCRIPTION": "\nArtist: **{{artist}}**\nCode: `{{code}}`\nPrice: **{{price}}**\n\n```fix\n{{description}}\n```"
+  "FRAME_DESCRIPTION": "\nArtist: **{{artist}}**\nCode: `{{code}}`\nPrice: **{{price}}**\nCategory: **{{category}}**\n\n```fix\n{{description}}\n```"
 }
