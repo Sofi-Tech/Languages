@@ -1,8 +1,8 @@
 {
-  "DROP_DESCRIPTION": "カードをドロップする。画像なしでカードをドロップしたいなら\"{{prefix}}dn\"を使ってください",
-  "EXTRA_DROP_ALERT": "{{author}} 「Drop」アイテムが使用されています。**{{remaining}}つ「Drop」**が残っています",
-  "ON_CD": "{{author}} **{{dropCd}}**で再びドロップできます",
-  "VOTE": "投票",
-  "BUY_DROP": "\n\n- `投票`して`「Wist」`を手に入れる可能です！ 「Drop」アイテムを購入したいなら`{{prefix}}buy drop`を使ってください",
-  "DROPPING_CARD": "{{author}}さんがカードを**ドロップ**しています\n"
+    "DROP_DESCRIPTION": "カードをドロップする。画像なしでカードをドロップしたいなら\"{{prefix}}dn\"を使ってください",
+    "EXTRA_DROP_ALERT": "{{author}} 「Drop」アイテムが使用されています。**{{remaining}}つ「Drop」**が残っています",
+    "ON_CD": "{{author}} **{{dropCd}}**で再びドロップできます",
+    "VOTE": "投票",
+    "BUY_DROP": "\n\n- `投票`して`「Wist」`を手に入れる可能です！ 「Drop」アイテムを購入したいなら`{{prefix}}buy drop`を使ってください",
+    "DROPPING_CARD": "{{author}}さんがカードを**ドロップ**しています\n"
 }
