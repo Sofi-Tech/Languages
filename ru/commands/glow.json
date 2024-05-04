@@ -10,7 +10,7 @@
     "EMBED_SG_TITLE": "SOFI: APPLY SUPER GLOW",
     "GLOW_NAME": "Название: **{{name}}**",
     "GLOW_CODE": "Код: `#{{code}}`",
-    "EMBED_FOOTER": "Подсветка: {{availability}}",
+    "EMBED_FOOTER": "Glow: {{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} Данная **Glow** не заряжена",
     "GLOW_APPLY_SUCCESSFUL": "{{author}} **{{glowName}}** **Glow** успешно применена к вашей карте",
     "UNAVAILABLE": "Разряжена",

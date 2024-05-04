@@ -1,6 +1,6 @@
 {
     "MARKET_DESCRIPTION": "Данная команда отображает все доступные объявления на рынке. На рынке пользователи могут обменивать свои Wists на Gems с помощью команды \"Marketlist\"",
-    "NO_LISTING_FOUND": "{{author}} Не удалось найти никаких объявлений на рынке",
+    "NO_LISTING_FOUND": "{{author}} Не удалось найти объявления на рынке",
     "MARKET_WARN": "**Средний курс**: **`{{averageRate}}` | Всего обменов** : **`{{totalTrades}}`**",
     "FOOTER": "Показаны результаты {{page}}-{{pages}} из {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Доступно: `{{stockAmount}}` {{stockEmoji}} | Курс: `{{rateAmount}}` {{rateEmoji}}"

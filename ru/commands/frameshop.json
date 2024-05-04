@@ -27,7 +27,7 @@
     "MF_MENU_LABEL": "Ежемесячные",
     "CF_MENU_LABEL": "Пользовательские",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Выбранное описание для вашей **Frame** успешно установлено",
-    "FRAME_DESCRIPTION": "\nХудожник: **{{artist}}**\nКод: `{{code}}`\nЦена: **{{price}}**\n\n```fix\n{{description}}\n```",
+    "FRAME_DESCRIPTION": "\nХудожник: **{{artist}}**\nКод: `{{code}}`\nЦена: **{{price}}**\nКатегория: **{{category}}**\n\n```fix\n{{description}}\n```",
     "FS_UNAVAILABLE": "Недоступнa",
     "EMBED_FOOTER_one": "Загружена {{count}} день назад",
     "EMBED_FOOTER_two": "Загружена {{count}} дня назад",

@@ -1,12 +1,12 @@
 {
     "GLOWTAGLIST_DESCRIPTION": "Данная команда отображает список всех ваших отметок для Glow",
-    "GTL_CATEGORY": "Tags",
+    "GTL_CATEGORY": "Отметки",
     "NO_TAGS": "{{author}} У вас пока нет отметок для **Glow**. Используйте команду `{{prefix}}gtc <Name> <Emoji>` для создания таких отметок",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
-    "GLOWS_one": "{{count}} Подсветка",
-    "GLOWS_other": "{{count}} Подсветок",
-    "GLOWS_zero": "{{count}} Подсветок",
-    "GLOWS_many": "{{count}} Подсветок",
-    "GLOWS_two": "{{count}} Подсветки",
-    "GLOWS_few": "{{count}} Подсветки"
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_other": "{{count}} Glows",
+    "GLOWS_zero": "{{count}} Glow",
+    "GLOWS_many": "{{count}} Glows",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_few": "{{count}} Glows"
 }
