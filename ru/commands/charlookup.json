@@ -1,10 +1,10 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "С помощью данной команды вы можете найти любого персонажа. В созданном окне будет отображена информация о персонаже и таблица владельцев наименьших Gen указанного персонажа",
+    "CHARLOOKUP_DESCRIPTION": "- Вы можете найти любого персонажа, используя команду \"scl\". В меню данной команды вы можете посмотреть статистику персонажа, доступные варианты Version/3D/GIF, а также таблицы лидеров Gen/Fan и \"Card ID\" персонажа.\n- \"Card ID\" необходим для предложения новых \"Versions\"",
     "CHAR_NOT_FOUND": "{{author}} Не удалось найти персонажа с именем `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Не удалось найти персонажа с именем `{{arg}}`\n\n```fix\nПримечание: Использование `-f` делает поиск более точным!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "NORMAL_LABEL": "Версия: 1",
-    "FAN_PTS_LABEL": "Добавить Очки Фаната",
+    "FAN_PTS_LABEL": "Добавить очки фаната",
     "3D_LABEL": "3D",
     "GIF_LABEL": "GIF",
     "SERIES": "Серия:",
@@ -32,6 +32,6 @@
     "FAN_PTS_ADDED": "{{author}} **{{count}}** очко фаната успешно добавлено для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_PLURAL": "{{author}} **{{count}}** очков фаната успешно добавлено для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "EXAMPLE_INFO": "Правильное использование: <Amount> <Currency>",
-    "NO_VERSIONS_FOUND": "Не найдено владельцев **Version** варианта данного персонажа",
+    "NO_VERSIONS_FOUND": "У данного персонажа пока нет Versions",
     "VERSION_LB": "Таблица лидеров Version"
 }
