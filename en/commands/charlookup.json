@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- You can look up a specific character by using the \"scl\" command. In this menu, you can check a character's statistics, their Version/3D/GIF variants, as well as their Gen/Fan leaderboards and their \"Card ID\".\n- The \"Card ID\" is required when submitting images for new \"Versions\"",
+    "CHARLOOKUP_DESCRIPTION": "- You can look up a specific character by using the \"scl\" command. In this menu, you can check a character's statistics, their Version/3D/GIF variants, as well as their Gen/Fan leaderboards and their Card-ID.\n- The Card-ID is required when submitting images for new \"Versions\"",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
