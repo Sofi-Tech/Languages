@@ -7,7 +7,7 @@
     "VALUE": "Стоимость",
     "RATE": "Курс",
     "LISTED": "Размещено",
-    "NO_LISTINGS_FOUND": "{{user}} В данный момент у вас нет никаких объявлений на рынке",
+    "NO_LISTINGS_FOUND": "{{user}} В данный момент у вас нет объявлений на рынке",
     "INFO": "Используйте команду `{{prefix}}mul <Order-ID>`, чтобы удалить объявление с рынка",
     "FOOTER": "Показаны результаты {{page}}-{{pages}} из {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
