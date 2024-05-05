@@ -14,7 +14,7 @@
     "PROVIDE_SOURCE_URL": "{{author}} Пожалуйста, укажите URL источника",
     "VALID_IMAGE_URL": "{{author}} Предложенная ссылка должна быть в `PNG` или `JPG` формате",
     "CARD_EMBED_TITLE": "SOFI: CARD SUBMISSION",
-    "PROVIDE_IMAGE_URL": "{{author}} Предложенная URL изображения не действительна",
+    "PROVIDE_IMAGE_URL": "{{author}} Предложенная URL изображения недействительна",
     "VALID_EVENT_3D_DIMENSIONS": "{{author}} У предложенного **3D** изображения для события недопустимые размеры! `420x603`",
     "EMBED_TITLE": "SOFI: CARD SUBMISSION ({{character}})",
     "SUBMIT_CONFIRMATION": "Вы уверены, что хотите предложить эту карту?",
@@ -32,8 +32,8 @@
     "TOTAL_EVENT_2D": "Уникальных **2D** карт события: **{{totalEventCards}}**",
     "TOTAL_EVENT_3D": "Уникальных **3D** карт события: **{{totalEventCards}}**",
     "EMBED_FOOTER": "Ваши предложения: {{userStats}}/{{submitted}} | Всего предложений: {{globalStats}}/{{allSubmit}}",
-    "CARD_ID_INVALID": "{{author}} Предложенный идентификатор карты не действителен",
-    "ENTER_EVENT_TYPE": "{{author}} Предложенный тип карты не действителен",
+    "CARD_ID_INVALID": "{{author}} Предложенный идентификатор карты недействителен",
+    "ENTER_EVENT_TYPE": "{{author}} Предложенный тип карты недействителен",
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} У вас недостаточно разрешений для предложения изображений типа Событие",
     "CARD_DIMENSION": "<:_:979009081325019156> Размеры предоставленного изображения **должны** быть `297x465`"
 }
