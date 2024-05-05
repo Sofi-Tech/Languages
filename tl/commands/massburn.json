@@ -1,8 +1,8 @@
 {
-    "MASSBURN_DESCRIPTION": "Sunugin ang iyong mga kard nang sabay-sabay",
-    "IN_ACTIVE_MB": "{{user}} Hindi ka puwedeng magsimula ng bagong **Massburn** habang may aktibo pa",
-    "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Mga Filter>`\n\n```fix\nNote: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
-    "WRONG_TAG": "{{author}} Hindi matagpuan ang anumang tag na may pangalang `{{arg}}`",
+    "MASSBURN_DESCRIPTION": "Gamitin ang command na ito para mag-burn ng maraming kard nang sabay-sabay sa pamamagitan ng pagdaragdag ng mga parameter tulad ng \"t:TagName\" at \"wl<Number\" para tukuyin kung aling mga kard ang gusto mong i-burn. Gamitin ang command na \"Help filter\" para makakuha ng kumpletong listahan ng mga available na parameter",
+    "IN_ACTIVE_MB": "{{user}} Hindi ka puwedeng magsimula ng bagong **Massburn** habang aktibo pa ang nauna",
+    "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Mga Filter>`\n\n```fix\nPaalala: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
+    "WRONG_TAG": "{{author}} Hindi makahanap ng anumang tag na may pangalang `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga card na tumutugma sa iyong kriterya ng paghahanap",
     "CARDS_BURNED": "__Napiling mga Card [ {{totalCards}} ]__",
     "CONFIRM_ASK": "{{author}} Sigurado ka bang nais mong tuluyang sunugin ang mga kard na ito nang hindi maaring mabalik?",

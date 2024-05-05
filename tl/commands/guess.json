@@ -5,13 +5,13 @@
     "NOT_ENOUGH_CURR": "{{user}} Wala kang sapat na **{{currency}}** upang simulan ang laro",
     "INFO_1": "{{user}} ay nag simula ng laro ng panghuhula!",
     "INFO_2": "Bayad sa Pakikilahok: **{{bet}}** {{currencyEmoji}}",
-    "INFO_3": "Premyo: **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "I-click ang 🍻 upang makasali! Ang host ay maaring simulan ang laro kapag pinindot ang 🟢",
+    "INFO_3": "Ang Premyo: **{{jackpot}}** {{currencyEmoji}}",
+    "FOOTER": "Pindutin ang 🍻 upang makasali! Ang host ay maaring simulan ang laro kapag pinindot ang 🟢",
     "REQ_MORE_PLAYERS": "{{user}} Kailangan ng kahit **2** manglalaro upang maumpisahan ang laro",
     "GUESS_THE_WORD": "{{participants}}\n\nAyusin ang **Salitang Ingles** na nakagulo: `{{scrambledWord}}`",
     "CORRECT_GUESS": "Si {{winner}} ay Matagumpay na nakuhang hulaan ang salita at nanalo ng **{{jackpot}}** {{currencyEmoji}}",
-    "INSUFFICIENT_CURRENCY": "{{author}} Kulang ang iyong **{{currency}}** para makalahok sa laro na ito",
+    "INSUFFICIENT_CURRENCY": "{{author}} Wala kang sapat na **{{currency}}** para makalahok sa laro na ito",
     "NO_TP_2": "{{author}} Kailangan mong magkaroon ng aktibong **Trade Pass** upang makalahok!",
-    "MORE": "Dagdag pa...",
+    "MORE": "dagdag pa...",
     "INFO_4": "**Mga Kalahok [{{totalPlayers}}]**"
 }

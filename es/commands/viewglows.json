@@ -2,7 +2,7 @@
     "VIEWGLOWS_DESCRIPTION": "Usa este comando para inspeccionar los Glows actuales de un usuario. Usar el codigo de un Glow como parametro abrirá un mensaje embed con los detalles acerca del Glow",
     "VG_CATEGORY": "Cosméticos",
     "VG_SLASH_DESC1": "Selecciona un usuario cuyos \"Glows\" quieras ver",
-    "VG_SLASH_DESC2": "Proporciona el nombre del \"Tag\" por el que quieres filtrar",
+    "VG_SLASH_DESC2": "Proporciona el nombre del Tag por el que quieres filtrar",
     "VG_SLASH_DESC3": "Proporciona el código de un \"Glow\" que quieras inspeccionar",
     "NO_GLOWS": "{{author}} Ese usuario no tiene ningún **Glow**",
     "SUPER": "Super",
@@ -25,7 +25,7 @@
     "SORT_BUTTON_LABEL": "Ordenar",
     "TAG": "Tag",
     "USED": "Usado",
-    "TIME_zero": "{{count}} vez",
+    "TIME_zero": "{{count}} veces",
     "TIME_few": "{{count}} veces",
     "TIME_two": "{{count}} veces",
     "TIME_many": "{{count}} veces"

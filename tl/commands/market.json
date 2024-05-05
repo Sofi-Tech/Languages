@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Pinapakita ang Sofi market",
-    "NO_LISTING_FOUND": "{{author}} Hindi mahanap ang anumang mga order sa merkado",
+    "MARKET_DESCRIPTION": "Inililista ng command na ito ang lahat ng kasalukuyang available na mga order sa merkado. Ang merkado ay maaaring gamitin ng mga manlalaro para mag-alok ng kanilang Wists kapalit ng Gems sa pamamagitan ng \"Marketlist\" command",
+    "NO_LISTING_FOUND": "{{author}} Hindi makahanap ng anumang mga order sa merkado",
     "MARKET_WARN": "**Average Rate**: **`{{averageRate}}` | Kabuuang Trades**: **`{{totalTrades}}`**",
-    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}}",
+    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}} | {{prefix}}mbuy <Order-ID> <Halaga>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }
