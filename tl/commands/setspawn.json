@@ -1,8 +1,8 @@
 {
-    "SETSPAWN_DESCRIPTION": "Itiakda ang spawn channel sa server",
+    "SETSPAWN_DESCRIPTION": "Ang paggamit ng command na ito sa isang channel o pagbanggit ng channel ay magtatakda o mag-aalis ng nasabing channel bilang channel sa paglitaw. Depende sa pagtaas na aktibidad ng server, minsan ay magla-lapag si Sofi ng mga kard sa tinukoy na channel",
     "SS_SLASH_DESC": "Mamili ng channel",
-    "SS_MENTION_CHANNEL": "{{author}}Tamang paggamit: `{{prefix}}ss<#ChannelMention/ChannelID>`",
+    "SS_MENTION_CHANNEL": "{{author}} Tamang paggamit: `{{prefix}}ss<#ChannelMention/ChannelID>`",
     "SS_CATEGORY": "Konpigurasyon",
-    "SS_DISABLE": "{{author}}Ang mga cards ay hindi na muli mag sspawn sa server na 'to",
-    "SS_ENABLE": "{{author}}Ang spawn channel ay naitakda sa {{channel}}"
+    "SS_DISABLE": "{{author}} Ang mga kard ay hindi na muling li-litaw sa server na ito",
+    "SS_ENABLE": "{{author}} Ang channel sa paglitaw ay naitakda sa {{channel}}"
 }

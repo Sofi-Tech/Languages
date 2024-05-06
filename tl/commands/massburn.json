@@ -1,14 +1,14 @@
 {
-    "MASSBURN_DESCRIPTION": "Gamitin ang command na ito para mag-burn ng maraming kard nang sabay-sabay sa pamamagitan ng pagdaragdag ng mga parameter tulad ng \"t:TagName\" at \"wl<Number\" para tukuyin kung aling mga kard ang gusto mong i-burn. Gamitin ang command na \"Help filter\" para makakuha ng kumpletong listahan ng mga available na parameter",
+    "MASSBURN_DESCRIPTION": "Gamitin ang command na ito para mag-sunog ng maraming kard nang sabay-sabay sa pamamagitan ng pagdaragdag ng mga parameter tulad ng \"t:TagName\" at \"wl<Number\" para tukuyin kung aling mga kard ang gusto mong sunugin. Gamitin ang command na \"Help filter\" para makakuha ng kumpletong listahan ng mga available na parameter",
     "IN_ACTIVE_MB": "{{user}} Hindi ka puwedeng magsimula ng bagong **Massburn** habang aktibo pa ang nauna",
     "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Mga Filter>`\n\n```fix\nPaalala: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Hindi makahanap ng anumang tag na may pangalang `{{arg}}`",
-    "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga card na tumutugma sa iyong kriterya ng paghahanap",
-    "CARDS_BURNED": "__Napiling mga Card [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Sigurado ka bang nais mong tuluyang sunugin ang mga kard na ito nang hindi maaring mabalik?",
+    "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga kard na tumutugma sa iyong pamantayan sa paghahanap",
+    "CARDS_BURNED": "__Napiling mga Kard [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Sigurado ka bang gusto mong tuluyang sunugin ang mga kard na ito?",
     "MISSING_CARDS": "{{author}} Kahit isa sa iyong mga piniling kard ay wala na sa iyong koleksyon",
     "SUCCESS": "{{author}} Matagumpay nang nasunog ang iyong mga napiling cards",
-    "BURN_REWARDS": "__Rewards__",
+    "BURN_REWARDS": "__Mga Premyo__",
     "EMBED_TITLE": "SOFI: MASSBURN",
-    "LOCKED_CARDS_WARNING": "{{author}} Hindi mo maaaring sunugin ang iyong lock `Tag`"
+    "LOCKED_CARDS_WARNING": "{{author}} Ang mga kard na naka-lock, isang **GIF** na variant o ginagamit sa isang deck ay hindi maaaring sunugin"
 }

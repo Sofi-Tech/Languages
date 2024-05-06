@@ -1,14 +1,15 @@
 {
-    "PULL_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong i-convert ang Wists at Gems sa iba't ibang mga items, kabilang ang Fragments na ginagamit upang lumikha ng GIF cards",
+    "PULL_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong i-convert ang Wists at Gems sa iba't ibang mga aytem, kabilang ang mga Fragment na ginagamit upang lumikha ng mga GIF kard",
     "PULL_AMT": "{{author}} Tamang paggamit: `{{prefix}}pull <1/10>`",
-    "INFO_1": "Kailangan mo ng 8 na **Fragments** upang lumikha ng isang **GIF** na bersyon ng isang karakter",
+    "INFO_1": "Kailangan mo ng 8 na **Fragments** upang lumikha ng isang **GIF** na variant ng isang karakter",
     "INFO_2": "Mayroong maximum na **100** **GIF** variants bawat karakter",
-    "INFO_3": "Ipagtapon ang mga `Fragments` upang makakuha ng mga `Charms`",
+    "INFO_3": "Sunugin ang mga **Fragment** upang makakuha ng mga **Charm**",
     "PULLS": "SOFI: PULLS",
-    "PULL_COUNT": "Bilang ng pagPull: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} Kulang ang iyong `{{currName}}` para sa prosesong ito",
+    "PULL_COUNT": "Bilang ng Pull: [ {{count}} ]",
+    "MISSING_CURR": "{{user}} Wala kang sapat na **{{currName}}** para sa prosesong ito",
     "AMOUNT": "Natanggap mo: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Bilang ng Pull:[ {{pullcount}}]",
-    "RATES": "Porsiyento",
-    "PULL_CHANCES": "**__Mga Posibilidad__**"
+    "RATES": "Mga Rate",
+    "PULL_CHANCES": "**__Mga Probabilidad__**",
+    "GIF_CHANCE": "Mag-Pull at magkaroon ng pagkakataon na makakuha ng GIF kard"
 }

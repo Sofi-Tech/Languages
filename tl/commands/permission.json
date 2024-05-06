@@ -33,7 +33,7 @@
     "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay ng natanggal ang mga sumusunod na commands sa channel na ito galing sa {{listname}}: {{commandsList}}",
     "BLACKLISTING_INFO": "Blacklist: Limitahan pag-gamit ng mga commands sa channel na ito",
     "WHITELISTING_INFO": "Whitelist: Pahintulutan lamang ang mga tiyak na mga commands na magamit sa channel na ito",
-    "RESET_USAGE": "Reset: Ibinabalik ang mga permissions sa dating settings\nPaggamit: `{{prefix}}p reset`",
+    "RESET_USAGE": "Reset: Ibinabalik ang mga permissions sa dating konpigurasyon\nPaggamit: `{{prefix}}p reset`",
     "PERMISSION_CORRECT_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}p [BL/WL] [Add/Rem] <Commandnames/All>`",
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} Hindi ka maaaring mag tanggal ng whitelist commands mula sa blacklist",
     "WHITELIST_ALREADY_ACTIVE": "{{author}} Hindi ka maaaring mag-alis ng blacklist commands mula sa whitelist",

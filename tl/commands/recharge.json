@@ -1,14 +1,14 @@
 {
-    "RECHARGE_DESCRIPTION": "Nagre-refill ng walang laman na `Glow`",
+    "RECHARGE_DESCRIPTION": "Gamitin ang command na ito upang mag-refill ng walang laman na Glow. Ang prosesong ito ay nangangailangan ng Recharge, na mabibili sa tindahan",
     "RG_CATEGORY": "Kosmetiko",
     "UNLOCK_GLOWS": "{{author}} Ikaw ay wala pang kahit anong **Glows**",
     "NO_GLOWCDE": "{{author}} Tamang paggamit: `{{prefix}}rg <#GlowCode>`",
     "INVALID_DC_MOVIES": "{{author}} Ang mga **Glow** codes ay laging nagsisimula sa `#`",
     "GLOW_NOT_FOUND": "{{author}} Ang code ng **Glow** na iyong ibinigay ay maaaring hindi tama o wala sa iyong imbentaryo",
     "GLOW_AVAILABLE": "{{author}} Ang **Glow** na yan ay may charge na",
-    "RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong icharge ang `Glow`na ito? \n\nPangalan: **{{name}}**\nKodigo: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "EMBED_TITLE": "SOFI: RECHARGE NG GLOW",
-    "NO_MONEY": "{{author}} Wala kang sapat na`Recharges`para sa proseso na ito!",
-    "SUCCESSFUL_RECHARGE": "{{author}}Ang {{glowName}} na `Glow`mo ay matagumpay na icharge!",
-    "SUPER_RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong icharge ang `Glow`na ito? \n\nPangalan: **{{name}} (Super) **\nKodigo: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>"
+    "RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong i-charge ang **Glow** na ito? \n\nPangalan: **{{name}}**\nCode: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+    "NO_MONEY": "{{author}} Wala kang sapat na **Recharges** para sa proseso na ito!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Matagumpay mong na i-charge ang iyong **{{glowName}}** na **Glow**!",
+    "SUPER_RECHARGE_CONFIRMATION": "Sigurado ka bang gusto mong i-charge ang **Glow** na ito? \n\nPangalan: **{{name}} (Super)**\nCode: `{{glowCode}}` \nPresyo: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
