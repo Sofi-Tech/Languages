@@ -25,7 +25,7 @@
     "MODAL_TITLE": "SOFI: ADD FAN POINTS",
     "CORRECT_EXAMPLE": "{{author}} Accepted currencies: **Silver**, **Wists**, **Gems**",
     "MISSING_ITEMS": "{{author}} You don't have enough **{{itemName}}** for this process",
-    "FAN_PTS_ADDED_zero": "{{characterName}}{{author}} Successfully added **{{count}}** points to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_zero": "{{author}} Successfully added **{{count}}** points to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_one": "{{author}} Successfully added **{{count}}** point to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_two": "{{author}} Successfully added **{{count}}** points to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_few": "{{author}} Successfully added **{{count}}** points to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",

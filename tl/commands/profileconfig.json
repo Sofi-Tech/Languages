@@ -43,12 +43,12 @@
     "SET_AWARDS_CONFIRM": "Sigurado ka bang gusto mong ilagay ang mga gawad {{awards}} sa iyong profile?",
     "SUCCESSFUL_CHARACTER": "{{author}} Matagumpay na itinalaga ang **{{characterName}}** bilang iyong paboritong karakter",
     "SUCCESSFUL_INTRO": "{{author}} Matagumpay na itinalaga ang iyong mensahe ng pagpapakilala",
-    "SUCCESSFUL_FONT_COLOR": "{{author}} Matagumpay nang nailagay ang **{{glowName}}**`Glow` sa font ng iyong profile",
-    "SUCCESSFUL_PROFILE_GLOW": "{{author}} Matagumpay nang naiset ang **{{glowName}}** bilang `Glow` ng iyong profile",
+    "SUCCESSFUL_FONT_COLOR": "{{author}} Matagumpay na inilagay ang **{{glowName}}** **Glow** sa font ng iyong profile",
+    "SUCCESSFUL_PROFILE_GLOW": "{{author}} Matagumpay na itinalaga ang **{{glowName}}** bilang **Glow** ng iyong profile",
     "SUCCESSFUL_DISPLAY_CARD": "{{author}} Matagumpay na itinalaga ang **{{characterName}}** bilang iyong display card",
     "SUCCESSFUL_BACKGROUND": "{{author}} Matagumpay nang itinalaga ang **{{backgroundName}}** bilang background sa iyong profile",
-    "SUCCESSFUL_AWARDS": "{{author}} Matagumpay nang nailagay ang napiling awards sa iyong profile",
-    "SET_FONT_GLOW": "Ikaw ba ay sigurado na ilagay ang **{{glowName}}** `Glow` sa font ng iyong profile?",
+    "SUCCESSFUL_AWARDS": "{{author}} Matagumpay na inilagay ang napiling mga gawad sa iyong profile",
+    "SET_FONT_GLOW": "Sigurado ka bang gusto mong ilagay ang **{{glowName}}** **Glow** sa font ng iyong profile?",
     "GLOW_NOT_FOUND": "{{author}} Ang code ng **Glow** na iyong ibinigay ay maaaring hindi tama o wala sa iyong imbentaryo",
     "FS_MENU_LABEL": "Paboritong Series",
     "PC_MENU_LABEL": "Kulay ng Profile",
@@ -58,5 +58,6 @@
     "FAV_SERIES_MENU_PLACEHOLDER": "Pumili ng Series",
     "BGCOLOR_WIST_MISSING": "{{author}} Kailangan mo ng 10 {{emoji}} upang magtalaga ng kulay sa profile",
     "SET_PCOLOR": "Sigurado ka bang gusto mong italaga ang **{{glowName}}** bilang kulay ng iyong profile?",
-    "SUCCESSFUL_SERIES": "{{author}} Matagumpay na itinalaga ang **{{seriesName}}** bilang iyong paboritong series"
+    "SUCCESSFUL_SERIES": "{{author}} Matagumpay na itinalaga ang **{{seriesName}}** bilang iyong paboritong series",
+    "SUCCESSFUL_PROFILE_COLOR": "{{author}} Matagumpay na itinalaga ang **{{glowName}}** bilang kulay sa iyong profile"
 }

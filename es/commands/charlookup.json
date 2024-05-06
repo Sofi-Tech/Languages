@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- Puedes ver un personaje en concreto usando el comando \"scl\". En este menu puedes ver las estadísticas del personaje, sus variantes Version/3D/GIF, así como su Gen/Tabla de clafisicación de fans y su \"ID de Carta\".\n- El \"ID de Carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
+    "CHARLOOKUP_DESCRIPTION": "- Puedes ver un personaje en concreto usando el comando \"scl\". En este menú puedes ver las estadísticas del personaje, sus variantes Version/3D/GIF, así como su Gen/Tabla de clafisicación de fans y su \"ID de Carta\".\n- El \"ID de Carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
     "CHAR_NOT_FOUND": "{{author}} No se ha podido encontrar ningún personaje con el nombre `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} No se ha podido encontrar ningún personaje con el nombre `{{arg}}`\n\n```fix\nNota: si usas la opción `-f`, la función distinguirá entre mayúsculas y minúsculas.\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -30,7 +30,7 @@
     "NOT_AVAILABLE": "**Serie No Válida**",
     "MORE_INFO_LABEL": "Selecciona una Opción",
     "EXAMPLE_INFO": "Formato Correcto: <Cantidad> <Divisa>",
-    "NO_VERSIONS_FOUND": "Este personaje aún no tiene versions",
+    "NO_VERSIONS_FOUND": "Este personaje aún no tiene Versions",
     "VERSION_LB": "Tabla de Clasificación de Version",
     "FAN_PTS_ADDED_one": "{{author}} Agrego con exito **{{count}}** punto a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_two": "{{author}} Agrego con exito **{{count}}** puntos a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
