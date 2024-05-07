@@ -1,14 +1,18 @@
 {
-    "PULL_DESCRIPTION": "इस कमांड से आप Wist और Gems को GIF कार्ड बनाने के लिए उपयोग किए जाने वाले Fragnents सहित विभिन्न वस्तुओं में परिवर्तित कर सकते हैं।",
+    "PULL_DESCRIPTION": "इस कमांड से आप Wist और Gems को GIF कार्ड बनाने के लिए उपयोग किए जाने वाले Fragments सहित विभिन्न वस्तुओं में परिवर्तित कर सकते हैं",
     "PULL_AMT": "{{author}} सही उपयोग: `{{prefix}}pull <1/10>`",
-    "INFO_1": "पात्र को **GIF** प्रकार में बदलने के लिए उसके 8 **Fragments** होना अनिवार्य हैं।",
-    "INFO_2": "**GIF** पत्तो के हर पात्र के अधिकतम **100** प्रकार होते है।",
+    "INFO_1": "पात्र को **GIF** प्रकार में बदलने के लिए उसके 8 **Fragments** होना अनिवार्य हैं",
+    "INFO_2": "**GIF** पत्तो के हर पात्र के अधिकतम **100** प्रकार होते है",
     "INFO_3": "**Fragments** को जलाकर **Charms** प्राप्त करे",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Pull संख्या: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} आपके पास इस प्रक्रिया के लिए पर्याप्त **{{currName}}** नहीं हैं।",
+    "MISSING_CURR": "{{user}} आपके पास इस प्रक्रिया के लिए पर्याप्त **{{currName}}** नहीं है।",
     "AMOUNT": "आप प्राप्त करते है: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Pull संख्या: {{pullcount}}",
     "RATES": "दर",
-    "PULL_CHANCES": "**__संभावनाएं__**"
+    "PULL_CHANCES": "**__संभावनाएं__**",
+    "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
+    "GIF_EMBED_FOOTER": "आपके पास pulls से एनिमेटेड कार्ड प्राप्त करने की 0.5% संभावना है",
+    "GIFS": "GIFS",
+    "GIF_CHANCE": "खींचिए और GIF कार्ड पाने का मौका पाइए"
 }
