@@ -1,7 +1,7 @@
 {
     "UNDOGLOW_DESCRIPTION": "Ang paggamit ng command na ito sa isang kard ay magtatanggal ng Glow na inilagay dito",
     "UNG_CATEGORY": "Kosmetiko",
-    "UNG_INVALID_USAGE": "{{author}} Tamang gamit: `{{prefix}}ung <KardCode>`",
+    "UNG_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}ung <KardCode>`",
     "INVALID_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaring hindi tama o wala sa iyong koleksyon",
     "NO_CHARACTER": "{{author}} Ang karakter sa card na ito ay hindi na available sa Sofi at hindi na maaring mapag-ugnayan",
     "NO_GIF": "{{author}} Hindi ka maaaring magtanggal ng cosmetics mula sa **GIF** na kard",

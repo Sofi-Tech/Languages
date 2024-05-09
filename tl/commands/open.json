@@ -2,7 +2,7 @@
     "OPEN_DESCRIPTION": "Gamitin ang command na ito upang buksan ang mga chest na nakuha sa iba't ibang aktibidad sa Sofi",
     "SLASH_DESC_1": "Ilagay ang aytem na gusto mong buksan",
     "SLASH_DESC_2": "Ilagay ang halaga",
-    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}open <PangalanNgAytem> <Halaga>`",
+    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}open <ItemName> <Amount>`",
     "EMPTY_INV": "{{author}} Walang laman ang iyong imbentaryo",
     "CHARM_MISSING": "{{author}} Wala kang anumang **Charms**",
     "SOFI_CARDS_MISSING": "{{author}} Kasalukuyang hindi sapat ang mga kard sa koleksyon ni Sofi",

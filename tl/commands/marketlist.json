@@ -1,6 +1,6 @@
 {
     "MARKETLIST_DESCRIPTION": "Gamitin ang command na ito upang ilista ang iyong mga Wist sa merkado kapalit ng mga Gems",
-    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}ml <Halaga> <Rate>`",
+    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}ml <Amount> <Rate>`",
     "INVALID_GEM_RATE": "{{user}} Ang rate na iyong ibinigay ay hindi tama",
     "GEM_RATE_LIES": "{{user}} Ang ibinigay na rate ay dapat nasa pagitan ng **3.0 - 20.0**",
     "ALREADY_EXISTS": "{{author}} Gamitin ang command na `{{prefix}}mul {{dealID}}` upang maalis ang iyong kasalukuyang order",

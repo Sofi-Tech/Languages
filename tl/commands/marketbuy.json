@@ -1,6 +1,6 @@
 {
     "MARKETBUY_DESCRIPTION": "Ang paggamit ng command na ito kasama ng isang Order-ID mula sa market na sinusundan ng isang halaga, ay magbubukas ng isang transaksyon na naka-embed upang bumili ng Wists mula sa iba pang manlalaro. Gamitin ang command na \"Market\" para tingnan ang lahat ng available na order",
-    "CORRECT_USAGE": "{{author}} Tamang Paggamit: `{{prefix}}mbuy <OfferID> <HalagaNgWist>`",
+    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}mbuy <OfferID> <HalagaNgWist>`",
     "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay hindi tama",
     "CANNOT_PURCHASE": "{{user}} Hindi ka maaaring makapag interak sa order na ito",
     "CANNOT_SELF": "{{user}} Hindi ka maaaring makabili sa iyong sariling order",

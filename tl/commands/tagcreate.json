@@ -1,11 +1,11 @@
 {
-    "TAGCREATE_DESCRIPTION": "Gumagawa ng \"Tag\"",
-    "TC_CATEGORY": "Mga Tags",
-    "WRONG_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}tc <Pangalan ng Tag> <Emoji>`",
+    "TAGCREATE_DESCRIPTION": "Sa command na ito, maaari kang gumawa ng isang tag upang ikategorya at i-group ang maramihang mga kard na akma sa iyong sariling pamantayan. Gamitin ang command na \"Tag\" para italaga ang iyong mga ginawang tag sa mga kard",
+    "TC_CATEGORY": "Mga Tag",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Ang emoji ay hindi tama",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong `Tag` ay dapat naka alphanumeric at hindi naglalaman ng espesyal karakters, spaces o kabastusan!",
-    "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong `Tag`ay dapat may **20** karakters lamang na haba",
-    "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang `Tag` na may pangalan na `{{tag}}`",
-    "TAG_CREATED": "{{author}} Matagumpay na nakagawa `Tag`na may pangalang: `{{tag}}` | {{emoji}}",
-    "TC_MAX_TAGS": "Naabot mo na ang pinakamataas na bilang ng mga tag na maaari mong lumikha. I-delete ang ilang mga tag upang makalikha ng mas marami pa."
+    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong tag ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, spaces o mga masasamang salita",
+    "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong tag ay dapat may **20** letra lamang ang haba",
+    "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang tag na may pangalan na `{{tag}}`",
+    "TAG_CREATED": "{{author}} Matagumpay na nakagawa ng tag na may pangalang: `{{tag}}` | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Naabot mo na ang pinakamataas na bilang ng mga tag na maaari mong gawin"
 }

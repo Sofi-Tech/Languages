@@ -9,7 +9,7 @@
     "LISTED": "Mga Nakalista",
     "NO_LISTINGS_FOUND": "{{user}} Wala kang anumang order na kasalukuyang nasa merkado",
     "INFO": "Gamitin ang command na `{{prefix}}mul <Order-ID>` upang alisin ang iyong order sa market",
-    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}} | {{prefix}}mbuy <Order-ID> <Halaga>",
+    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"

@@ -1,6 +1,6 @@
 {
     "GUESS_DESCRIPTION": "Gamitin ang command na ito upang makapagsimula ng laro ng paghuhula ng salita. Ang lahat ng manlalaro na sasali sa laro ng panghuhula ay magkakaroon ng bawas na halaga ng salapi mula sa kanilang imbentaryo kapag nagsimula na ang laro. Ang isang random na salitang Ingles ay pipiliin at pagkatapos ay magiging scrambled. Ang unang manlalaro na matagumpay na nag-type ng orihinal na sa salita sa chat ay siyang mananalo sa laro at makakakuha ng kabuuan ng lahat ng bayad ng mga sumali",
-    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}guess <Halaga> <Salapi>`\nTinatanggap na salapi: **Silver** , **Wists** , **Gems**, **Cubes**",
+    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}guess <Amount> <Currency>`\nTinatanggap na salapi: **Silver** , **Wists** , **Gems**, **Cubes**",
     "NO_TP": "{{author}} Kailangan mo ng aktibong **Trade Pass** upang mag-host ng laro ng panghuhula",
     "NOT_ENOUGH_CURR": "{{user}} Wala kang sapat na **{{currency}}** upang simulan ang laro",
     "INFO_1": "{{user}} ay nag simula ng laro ng panghuhula!",
