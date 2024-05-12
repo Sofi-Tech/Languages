@@ -1,18 +1,21 @@
 {
     "AUCTIONINFO_DESCRIPTION": "Questo comando aprirà embed che mostra le aste passate e in corso per i codici delle carte su cui puoi fare offerte. Le aste utilizzano Charms come valuta richiesta per fare un'offerta",
     "AI_CATEGORY": "Carte",
-    "NO_ONGOING_AUCTION": "{{author}} Al momento non ci sono auctions attive",
+    "NO_ONGOING_AUCTION": "{{author}} Al momento non ci sono aste attive",
     "BID_SELECTION": "Usa il comando {{prefix}}ai <Auction-ID> o seleziona un'auction attiva dal menu sottostante",
     "AI_ENDS": "Finisce",
-    "SELECT_AUCTION_PLACEHOLDER": "Seleziona un'Auction",
-    "BID_MODAL_LABEL": "Importo dell'offerta",
-    "BID_MODAL_TITLE": "Offerta d'Auction",
+    "SELECT_AUCTION_PLACEHOLDER": "Seleziona un'Asta",
+    "BID_MODAL_LABEL": "quantità di offerta",
+    "BID_MODAL_TITLE": "Offerta d'Asta",
     "BID_MODAL_PLACEHOLDER": "Inserisci l'importo dell'offerta",
     "POSITIVE_NUMBER": "{{author}} L'offerta deve essere un numero positivo",
     "MINIMUM_AMOUNT": "{{author}} Devi fare un'offerta minima di **{{amount}}** {{currencyEmoji}} per questa Auction",
     "NOT_ENOUGH_CURRENCY": "{{author}} Non hai abbastanza {{emoji}}",
-    "AUCTION_NOT_FOUND": "Impossibile trovare quell'Auction",
+    "AUCTION_NOT_FOUND": "Impossibile trovare quell'Asta",
     "INVALID_BID_AMOUNT": "{{author}} La tua offerta deve essere un numero!",
     "BID_SUCCESSFUL": "{{author}} Hai fatto un'offerta di **{{amount}}** {{emoji}}",
-    "AI_CURRENT": "Offerta Attuale"
+    "AI_CURRENT": "Offerta Attuale",
+    "TOTAL_CHARMS": "Charms Totali",
+    "YOUR_CHANCE": "La tua opportunità",
+    "BID_BUTTON_LABEL": "offerta"
 }

@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "Deine letzte Karte konnte nicht gefunden werden. Versuche stattdessen einen Karten-Code anzugeben",
     "INVALID_CARD_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CARD_GLOWED": "**{{isSuper}}Glow** angewandt: **{{glowName}}** (`#{{viewCode}}`)\n",
-    "CARD_FONT": "Schriftfarbe: **{{fontName}}** (`#{{viewCode}}`)\n",
+    "CARD_FONT": "**Schriftfarben** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Name -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Serie-** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "**Frame** angewandt: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** angewandt: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Zeige Gen",

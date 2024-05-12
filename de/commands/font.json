@@ -1,1 +1,18 @@
-{}
+{
+    "ERROR_FINDING_CARD": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "FONT_DESCRIPTION": "Du kannst diesen Befehl Nutzen, um einen Glow auf dem Text der Karte anzuwenden oder dessen Gen, Name oder Serie ein- oder auszuschalten",
+    "FONT_CATEGORY": "Kosmetika",
+    "NO_GIF_3D": "{{author}} Du kannst den Text von **3D** oder **GIF** Karten nicht ändern",
+    "EMBED_TITLE": "SOFI: FONT",
+    "PRICE": "Preis",
+    "SELECT_MENU_PLACEHOLDER": "Schriftart wählen",
+    "GLOW_MODAL_TITLE": "Glow Code: {{type}}",
+    "GLOW_MODAL_PLACEHOLDER": "z.B. #1vg0a1",
+    "GLOW_MODAL_LABEL": "Glow Code eingeben",
+    "GLOW_CODE_INVALID": "Der **Glow** Code, den du angegeben hast, ist entweder ungültig oder nicht in deinem Inventar",
+    "SAVE_MODAL_LABEL": "Bist du dir sicher?",
+    "SAVE_MODAL_TITLE": "Font: Bestätigen",
+    "NOT_ENOUGH_SILVERS": "Du hast nicht genug **Silver**, um diesen Kauf zu tätigen",
+    "NOT_ENOUGH_GEMS": "Du hast nicht genug **Gems**, um diesen Kauf zu tätigen",
+    "PROCESS_COMPLETED": "Der Vorgang wurde erfolgreich abgeschlossen"
+}

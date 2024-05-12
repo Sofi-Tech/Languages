@@ -1,5 +1,5 @@
 {
-    "PULL_DESCRIPTION": "\"Pulls\" da un pool di vari \"Item\" tra cui \"Charms\" e \"Fragments\" per carte animate",
+    "PULL_DESCRIPTION": "Con questo comando puoi convertire Wist e Gems in diversi oggetti inclusi Fragments utilizzati per creare carte GIF",
     "PULL_AMT": "{{author}} Utilizzo corretto: `{{prefix}}pull <1/10>`",
     "INFO_1": "Hai bisogno di 8 **Fragments** per creare una variante **GIF** di un carattere",
     "INFO_2": "Sono disponibili un massimo di **100** varianti **GIF** per carattere",
@@ -10,5 +10,10 @@
     "AMOUNT": "Hai ricevuto: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Contaggio di Pull: [ {{pullcount}} ]",
     "RATES": "Valutare",
-    "PULL_CHANCES": "**__Probabilità__**"
+    "PULL_CHANCES": "**__Probabilità__**",
+    "GIFS": "GIFS",
+    "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
+    "ACTIVE_POOL": "**Piscina Attiva**",
+    "GIF_EMBED_FOOTER": "Hai lo 0,5% di possibilità di ottenere una carta animata dai pulls",
+    "GIF_CHANCE": "Tira e avrai la possibilità di ottenere una carta GIF"
 }

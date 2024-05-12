@@ -1,5 +1,5 @@
 {
-    "AUCTIONINFO_DESCRIPTION": "Dieser Befehl wird eine Textbox öffnen, welche vergangene und laufende Auktionen für Karten Codes zeigt, auf welche du bieten kannst. Auktionen nutzen Charms als Währung zum setzen von Geboten",
+    "AUCTIONINFO_DESCRIPTION": "Dieser Befehl wird eine Textbox öffnen, welche vergangene und laufende Auktionen für Karten Codes zeigt, auf welche du bieten kannst. Auktionen nutzen Charms als Währung zum Setzen von Geboten",
     "AI_CATEGORY": "Karten",
     "NO_ONGOING_AUCTION": "{{author}} Es laufen im Moment keine Auktionen",
     "AI_ENDS": "Endet",
@@ -10,9 +10,12 @@
     "INVALID_BID_AMOUNT": "{{author}} Dein Gebot muss eine Zahl sein!",
     "POSITIVE_NUMBER": "{{author}} Dein Gebot muss eine positive Zahl sein",
     "AUCTION_NOT_FOUND": "Diese Auktion konnte nicht gefunden werden",
-    "BID_SUCCESSFUL": "{{author}} Du hast erfolgreich ein Gebot in Höhe von {{amount}} {{emoji}} abgegeben",
+    "BID_SUCCESSFUL": "{{author}} Du hast erfolgreich ein Gebot in Höhe von **{{amount}}** {{emoji}} abgegeben",
     "AI_CURRENT": "Aktuelles Gebot",
     "BID_SELECTION": "Verwende den Befehl {{prefix}}ai <Auction-ID> oder wähle eine aktive Auktion aus dem Menü hierunter",
     "MINIMUM_AMOUNT": "{{author}} Du musst für diese Auktion mindestens **{{amount}}** {{currencyEmoji}} bieten",
-    "NOT_ENOUGH_CURRENCY": "{{author}} Du hast nicht genügend {{emoji}}"
+    "NOT_ENOUGH_CURRENCY": "{{author}} Du hast nicht genügend {{emoji}}",
+    "TOTAL_CHARMS": "Gesamte Charms",
+    "YOUR_CHANCE": "Deine Wahrscheinlichkeit",
+    "BID_BUTTON_LABEL": "Gebot"
 }
