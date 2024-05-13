@@ -1,9 +1,10 @@
 {
-    "INVALID_SERIES": "Неверная серия",
+    "INVALID_SERIES": "Некорректная серия",
     "CHOOSE_SORTING": "Сортировать",
     "SORT_CHAR": "Имя",
     "SORT_SERIES": "Серия",
-    "PLAYER_NOT_EXIST": "{{author}} Данный пользователь незарегистрирован",
-    "SORT_WL": "В списке желанного",
-    "SORT_VERSION": "Версия"
+    "PLAYER_NOT_EXIST": "{{author}} Данный пользователь не зарегистрирован",
+    "SORT_WL": "В списках желаемого",
+    "SORT_VERSION": "Version",
+    "VERSIONTOKEN_DESCRIPTION": "Используйте данную команду для просмотра вашей коллекции Version Tokens. Вы можете сортировать коллекцию по Имени, Спискам желаемого, Gen и Versions"
 }
