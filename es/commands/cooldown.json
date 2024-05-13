@@ -1,6 +1,6 @@
 {
     "COOLDOWN_DESCRIPTION": "Este comando mostrará una lista de tus enfriamientos. Si quieres ser notificado acerca de tus enfriamientos de Vote/Daily/Bump, aprieta el botón de la campana debajo del mensaje embed",
-    "JOIN_SUPPORT_SERVER": "[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)",
+    "JOIN_SUPPORT_SERVER": "**[Únete al servidor de soporte para obtener ayuda!](https://discord.gg/sofi)**",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
@@ -9,8 +9,8 @@
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 Tienes **{{count}}** mail sin leer",
-    "UNREAD_MAIL_other": "\n📫 Tienes **{{count}}** mails sin leer",
+    "UNREAD_MAIL_one": "\n📫 Tienes **{{count}}** correo sin leer",
+    "UNREAD_MAIL_other": "\n📫 Tienes **{{count}}** correos sin leer",
     "READY": "Listo",
     "UNREAD_MAIL_few": "\n📫 Tienes **{{count}}** correos sin leer",
     "UNREAD_MAIL_two": "\n📫 Tienes **{{count}}** correos sin leer",

@@ -1,5 +1,22 @@
 {
     "VERSIONTOKEN_DESCRIPTION": "Usa este comando para ver tu colección de Version Tokens. Tu colección puede ser ordenada por Nombre, Gen, Lista de deseos y Versiones",
     "VT_CATEGORY": "Cosméticos",
-    "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario"
+    "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
+    "NOTHING_FOUND": "No se han encontrado ningún **Versino Token**",
+    "FILTER_NO_VT_FOUND": "{{author}} No se pudieron encontrar **Version Tokens** que coincidan con tu filtro seleccionado",
+    "PLAYER_NOT_EXIST": "{{author}} Ese usuario no está registrado",
+    "AUTHOR_NO_TOKENS": "{{author}} Aún no tienes ningún **Version Token**",
+    "USER_NO_TOKENS": "{{author}} Ese usuario no tiene ningún **Version Token**",
+    "INVALID_SERIES": "Serie No Válida",
+    "CHOOSE_SORTING": "Ordenar por",
+    "SORT_CHAR": "Nombre",
+    "SORT_SERIES": "Serie",
+    "SORT_WL": "Lista de deseados",
+    "SORT_VERSION": "Versión",
+    "SORT_CARD": "Carta Base",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "EMBED_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Total de Version Tokens: {{count}}",
+    "SAVE_FILTER": "500 - Guardar este Filtro",
+    "SELECT_FILTER": "Selecciona un Filtro",
+    "USER_PRIVATE": "{{author}} La colección de **Version Tokens** de ese usuario es privada"
 }
