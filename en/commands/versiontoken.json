@@ -1,0 +1,22 @@
+{
+  "VERSIONTOKEN_DESCRIPTION": "- You can view your collection of version tokens if you use the command \"svt\". The collections can be sorted by Name, Gen, Wishlist, Versions",
+  "VT_CATEGORY": "Cosmetics",
+  "USER_NOT_FOUND": "{{author}} Could not find that user",
+  "PLAYER_NOT_EXIST": "{{author}} That user is not registered",
+  "USER_PRIVATE": "{{author}} This user has their version tokens set to private.",
+  "AUTHOR_NO_TOKENS": "{{author}} You don't have any version tokens yet",
+  "USER_NO_TOKENS": "{{author}} That user doesn't have any version tokens",
+  "NOTHING_FOUND": "Could not find any version tokens",
+  "INVALID_SERIES": "Invalid Series",
+  "CHOOSE_SORTING": "Sort by",
+  "SORT_CHAR": "Name",
+  "SORT_SERIES": "Series",
+  "SORT_WL": "Wishlist",
+  "SORT_VERSION": "Version",
+  "SORT_CARD": "Base Card",
+  "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+  "EMBED_FOOTER": "Page: {{page}}/{{totalPages}} | Total Version Tokens: {{count}}",
+  "SAVE_FILTER": "500 - Save this Filter",
+  "SELECT_FILTER": "Select a Filter",
+  "FILTER_NO_VT_FOUND": "{{author}} Could not find any Version Tokens matching your selected filter"
+}
