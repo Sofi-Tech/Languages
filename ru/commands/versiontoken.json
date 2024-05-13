@@ -6,5 +6,10 @@
     "PLAYER_NOT_EXIST": "{{author}} Данный пользователь не зарегистрирован",
     "SORT_WL": "В списках желаемого",
     "SORT_VERSION": "Version",
-    "VERSIONTOKEN_DESCRIPTION": "Используйте данную команду для просмотра вашей коллекции Version Tokens. Вы можете сортировать коллекцию по Имени, Спискам желаемого, Gen и Versions"
+    "VERSIONTOKEN_DESCRIPTION": "Используйте данную команду для просмотра вашей коллекции Version Tokens. Вы можете сортировать коллекцию по Имени, Спискам желаемого, Gen и Versions",
+    "EMBED_FOOTER": "Страница: {{page}}/{{totalPages}} | Всего Version Tokens: {{count}}",
+    "USER_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своей коллекции **Version Tokens**",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "SAVE_FILTER": "500 - Сохранить данный фильтр",
+    "SELECT_FILTER": "Выбрать фильтр"
 }
