@@ -62,5 +62,6 @@
     "ALL_TAG_SUCCESS_one": "{{author}} Añadido con éxito el siguiente tag a la carta `{{tagName}}`",
     "ALL_TAG_SUCCESS_two": "{{author}} Añadido con éxito el siguiente tag a las **{{count}}** cartas `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_zero": "{{author}} Eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`",
-    "ALL_UNTAG_SUCCESS_many": "{{author}} Eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`"
+    "ALL_UNTAG_SUCCESS_many": "{{author}} Eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`",
+    "VERSION_AVAILABILITY": "Disponibilidad de Versions"
 }

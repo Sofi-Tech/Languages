@@ -7,7 +7,7 @@
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "VOTE_LABEL": "Проголосовать",
+    "VOTE_LABEL": "Vote",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
     "UNREAD_MAIL_one": "\n📫 У вас **{{count}}** непрочитанное письмо",
     "UNREAD_MAIL_other": "\n📫 У вас **{{count}}** непрочитанных писем",
