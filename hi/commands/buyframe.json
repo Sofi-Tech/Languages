@@ -1,14 +1,14 @@
 {
-    "BUYFRAME_DESCRIPTION": "यह कमांड का उपयोग विशेष रूप से \"Frameshop\" कमांड से Frame खरीदने के लिए होता है, जिसमे आप अपने गैर-3D पत्तो पर लगाने के लिए ऑफिशल frame के साथ सामुदायिक frame खरीद सकते है",
+    "BUYFRAME_DESCRIPTION": "इस कमांड का उपयोग विशेष रूप से \"Frameshop\" कमांड से Frames खरीदने के लिए किया जाता है, जिसमे आप अपने गैर-3D पत्तो पर लगाने के लिए आधिकारिक frame, साथ ही समुदाय निर्मित frame खरीद सकते है",
     "BF_CATEGORY": "COSMETICS",
-    "NO_FRAME_NAME": "{{author}} अपको जो **Frame** खरीदनी है उसका कोड दर्ज करे",
+    "NO_FRAME_NAME": "{{author}} कृपया उस **Frame** का कोड प्रदान करें जिसे आप खरीदना चाहते हैं",
     "NO_FRAMECODE_FOUND": "{{author}} इस कोड के साथ कोई **Frame** नहीं मिली: `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} वह **Frame** अनुपलब्ध है। उपलब्ध **Frames** देखने के लिए `{{prefix}}fs` का उपयोग करें",
-    "FRAME_NOT_PURCHASABLE": "{{author}} यह **Frame** केवल सीमित समय तक ही उपलब्ध थी एवं अब खरीदी नहीं जा सकती है।",
+    "FRAME_NOT_PURCHASABLE": "{{author}} वह **Frame** सीमित है और अब खरीदा नहीं जा सकता",
     "EMBED_TITLE": "SOFI: TRANSACTION",
-    "YOU_GET": "आपको मिलेगी:",
+    "YOU_GET": "आपको प्राप्त हुया:",
     "YOU_PAY": "आप भुगतान करेंगे:",
-    "NO_ENOUGH_AMOUNT": "{{author}} यह खरीदारी करने के लिए आपके पास पर्याप्त **{{currency}}** नहीं है।",
-    "TRANSACTION_SUCCESSFUL": "{{author}} **{{frameName}}** **Frame** सफलतापूर्वक खरीदी गई।",
-    "PROCESS_CANCELLED": "प्रक्रिया रद्द की गई"
+    "NO_ENOUGH_AMOUNT": "{{author}} यह खरीदारी करने के लिए आपके पास पर्याप्त **{{currency}}** नहीं है",
+    "TRANSACTION_SUCCESSFUL": "{{author}} **{{frameName}}** **Frame** सफलतापूर्वक खरीदी गई",
+    "PROCESS_CANCELLED": "प्रक्रिया रद्द कर दी गई है"
 }

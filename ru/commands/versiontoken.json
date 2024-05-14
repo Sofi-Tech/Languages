@@ -12,5 +12,11 @@
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
     "SAVE_FILTER": "500 - Сохранить данный фильтр",
     "SELECT_FILTER": "Выбрать фильтр",
-    "VT_CATEGORY": "Косметика"
+    "VT_CATEGORY": "Косметика",
+    "NOTHING_FOUND": "Не удалось найти **Version Tokens**",
+    "USER_NO_TOKENS": "{{author}} У данного пользователя пока нет **Version Tokens**",
+    "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
+    "SORT_CARD": "Базовая карта",
+    "FILTER_NO_VT_FOUND": "{{author}} Не удалось найти **Version Tokens**, соответствующие вашим критериям поиска",
+    "AUTHOR_NO_TOKENS": "{{author}} У вас пока нет **Version Tokens**"
 }
