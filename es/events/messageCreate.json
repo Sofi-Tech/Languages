@@ -4,7 +4,7 @@
     "RATE_LIMIT_ERROR": "{{author}} Debido a una alta actividad, el límite de llamadas ha sido alcanzado! Por favor espera.",
     "VERIFY_BUTTON_LABEL": "Verificar tu cuenta",
     "SUPPORT_BUTTON_LABEL": "Soporte",
-    "VERIFY_TO_PLAY": "Verifica tu cuenta en <https://sofi.gg/verify> para jugar",
+    "VERIFY_TO_PLAY": "[Verifica tu cuenta en nuestra web para jugar!](<https://sofi.gg/verify>)",
     "USER_BLACKLISTED": "{{author}} Ese usuario está en la lista negra",
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Espera **{{cooldown}}** antes de usar algún comando de nuevo",
     "COMMAND_BLACKLISTED": "{{author}} El comando `{{commandName}}` está en la lista negra de este canal",

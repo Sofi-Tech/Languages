@@ -1,5 +1,5 @@
 {
-    "VERIFY_TO_PLAY": "Verifica tu cuenta en <https://sofi.gg/verify> para jugar",
+    "VERIFY_TO_PLAY": "[Verifica tu cuenta en nuestra web para jugar!](<https://sofi.gg/verify>)",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Espera **{{cooldown}}** antes de usar este comando otra vez",
     "VERIFY_BUTTON_LABEL": "Verificar tu cuenta",
     "APPEAL_ACCEPTED": "# __¡Su apelación ha sido aceptada!__\n- Únete a nuestro [Servidor de Soporte] oficial (https://discord.gg/XPsQKJjeD7) y cree un ticket en el canal https://discord.com/channels/863226120245215262/9591761157238 para avanzar en su caso\n- Un miembro del personal te atenderá lo antes posible, por favor abstente de enviar mensajes directos o mencionar a los miembros del personal en cualquier canal con respecto a su ticket. Romper esta regla puede conducir a una permanente suspensión de nuestro servicio y Servidor de Discord",
@@ -17,5 +17,6 @@
     "SERVER_BLACKLISTED": "{{author}} El servidor está en la lista negra. Ponte en contacto con nosotros en discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} El comando `{{commandName}}` está en la lista negra de este canal",
     "CATEGORY_DISABLED": "{{author}} Esta categoría ha sido deshabilitada\nMotivo: `{{reason}}`",
-    "COMMAND_DISABLED": "{{author}} Este comando ha sido deshabilitado\nMotivo: `{{reason}}`"
+    "COMMAND_DISABLED": "{{author}} Este comando ha sido deshabilitado\nMotivo: `{{reason}}`",
+    "SUPPORT_BUTTON_LABEL": "Soporte"
 }
