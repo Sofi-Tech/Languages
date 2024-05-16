@@ -1,7 +1,7 @@
 {
     "EXTRA_GRAB": "{{user}} Votre Extra **Grab** a été utilisé. Il vous en reste **{{remaining}}**",
-    "EMBED_TITLE": "Captcha Card",
-    "EMBED_FOOTER": "Réclamez la carte la carte ci-dessus en écrivant le captcha",
+    "EMBED_TITLE": "Carte Captcha",
+    "EMBED_FOOTER": "Réclamez la carte ci-dessus en écrivant le captcha",
     "BATTLED_AND_WON": "{{winner}} s'est battu contre {{user}} et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "BATTLED_WON_PLURAL": "{{winner}} s'est battu contre {{userCount}} autres joueurs et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "WAIT_TO_CLAIM": "{{user}} Vous devez attendre **{{cooldown}}** pour grab une autre carte",
