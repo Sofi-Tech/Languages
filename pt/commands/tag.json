@@ -5,7 +5,7 @@
     "NO_TAGS_CREATED": "{{author}} Você ainda não tem etiqueta nenhuma. Use o comando `{{prefix}}tc <TagName> <Emoji>` para criar uma",
     "TAG_NOT_FOUND": "{{author}} Você não tem nenhuma etiqueta com o nome `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Você ainda não tem nenhum carta em sua coleção",
-    "INVALID_CARD_CODE": "{{author}} O código do carta fornecido é inválido ou não está em sua coleção",
+    "INVALID_CARD_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
     "SUCCESSFUL_TAG": "{{author}} Carta **{{card}}** marcada com sucesso como `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas as cartas foram entiquetadas com sucesso",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Os seguinte códigos de cartas são inválidos ou não estão na sua coleção:\n{{arg}}"

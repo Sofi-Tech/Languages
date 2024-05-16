@@ -1,7 +1,7 @@
 {
-    "ALBUM_DESCRIPTION": "Usar este comando sozinho listará todos os álbuns possuídos atualmente. Adicionar um nome de álbum existente à linha de comandos irá mostrar esse álbum",
+    "ALBUM_DESCRIPTION": "Usar este comando sozinho listará todos os álbuns possuídos atualmente. Adicionar um nome de álbum existente à linha de comandos irá mostrar esse álbum em vez da lista",
     "ALBUM_CATEGORY": "Álbum",
-    "ALBUM_SLASH_DESC": "Escolha um usuário cujos álbuns você deseja ver",
+    "ALBUM_SLASH_DESC": "Escolha um usuário cujos álbuns você quer ver",
     "ALBUM_SLASH_DESC2": "Digite o nome do álbum que você está procurando.",
     "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário",
     "PLAYER_NOT_EXIST": "{{author}} Esse usuário não está registrado",

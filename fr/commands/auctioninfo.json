@@ -2,8 +2,8 @@
     "NO_ONGOING_AUCTION": "{{author}} Il n'y a actuellement aucune auction active",
     "MINIMUM_AMOUNT": "{{author}} Vous devez enchérir un minimum de **{{amount}}** {{currencyEmoji}} pour cette enchère",
     "AI_CATEGORY": "Cartes",
-    "BID_SELECTION": "Utilisez la commande {{prefix}}ai <ID-Auction> ou selectionnez une enchère active depuis le menu ci-dessous",
-    "AUCTIONINFO_DESCRIPTION": "Cette commande ouvrira un embed affichant les enchères passées et en cours pour des codes de cartes, pour lesquelles vous pouvez enchérir. Les Enchères utilisent des Charms comme monnaie pour placer une offre",
+    "BID_SELECTION": "Utilisez la commande {{prefix}}ai <ID-Auction> ou sélectionnez une enchère active depuis le menu ci-dessous",
+    "AUCTIONINFO_DESCRIPTION": "Cette commande ouvrira un encart affichant les enchères passées et en cours pour des codes de cartes, pour lesquelles vous pouvez enchérir. Les Enchères utilisent des Charms comme monnaie pour placer une offre",
     "AI_ENDS": "Se termine",
     "SELECT_AUCTION_PLACEHOLDER": "Sélectionnez une Enchère",
     "BID_MODAL_LABEL": "Montant de l'Offre",
@@ -13,6 +13,10 @@
     "POSITIVE_NUMBER": "{{author}} Votre offre doit être un nombre positif",
     "NOT_ENOUGH_CURRENCY": "{{author}} Vous n'avez pas assez de {{emoji}}",
     "AUCTION_NOT_FOUND": "Impossible de trouver cette enchère",
-    "BID_SUCCESSFUL": "{{author}} Vous avez placé une offre de **{{amount}}** {{emoji}} avec succès ",
-    "AI_CURRENT": "Offre Actuelle"
+    "BID_SUCCESSFUL": "{{author}} Vous avez placé une offre de **{{amount}}** {{emoji}} avec succès",
+    "AI_CURRENT": "Offre Actuelle",
+    "EMBED_TITLE": "SOFI: AUCTION INFO",
+    "TOTAL_CHARMS": "Total De Charms",
+    "YOUR_CHANCE": "Votre chance",
+    "BID_BUTTON_LABEL": "Offre"
 }
