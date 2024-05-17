@@ -1,5 +1,5 @@
 {
-    "ALBUM_DESCRIPTION": "Usar este comando sozinho listará todos os álbuns possuídos atualmente. Adicionar um nome de álbum existente à linha de comandos irá mostrar esse álbum em vez da lista",
+    "ALBUM_DESCRIPTION": "Usar este comando sozinho listará todos os álbuns possuídos atualmente. Adicionar um nome de álbum existente à linha do comando irá mostrar esse álbum em vez disso",
     "ALBUM_CATEGORY": "Álbum",
     "ALBUM_SLASH_DESC": "Escolha um usuário cujos álbuns você quer ver",
     "ALBUM_SLASH_DESC2": "Digite o nome do álbum que você está procurando.",
@@ -9,7 +9,7 @@
     "ALBUM_NAME_NOT_FOUND": "{{author}} Não foi possível encontrar nenhum álbum com o nome `{{albumName}}`",
     "PROCESSING": "Processando <a:_:876610443148406794>",
     "NO_CARDS": "{{author}} Ainda não há nenhuma carta nesse álbum",
-    "EMBED_TITLE": "SOFI: ALBUMS ({{username}})",
+    "EMBED_TITLE": "SOFI: ÁLBUNS ({{username}})",
     "ALBUM_BUTTON_LABEL": "Criar Álbum",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM ({{albumName}})",
     "EMBED__ALBUM_FOOTER": "Propriedade De {{userTag}}",

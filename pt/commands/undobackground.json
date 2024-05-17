@@ -1,15 +1,15 @@
 {
-  "UNDOBACKGROUND_DESCRIPTION": "Remover o \"Background\" aplicado de uma carta",
-  "UB_CATEGORY": "Cosméticos",
-  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
-  "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar essa carta",
-  "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está em sua coleção",
-  "NO_GIF_CARD": "{{author}} Cartas `GIF` não podem ter um `Background` aplicado",
-  "NO_BACKGROUND": "{{author}} A carta não possui um \"Background\" aplicada nela",
-  "EMBED_TITLE": "SOFI: UNDOBACKGROUND",
-  "PROCESS_COST": "Remover um `Background` custará **1** `Wist` e retornará o `Background` para seu `Inventário`",
-  "NOT_ENOUGH_WIST": "Você não tem `Wists` suficientes para remover o `Background`",
-  "NO_BG_APPLIED": "{{author}} A carta não tem um `Background` aplicado nela",
-  "UNDO_BACKGROUND_SUCCESS": "O `Background` foi removido com sucesso e retornado ao seu `Inventário`",
-  "NO_OWNER": "{{author}} A carta não está mais em sua coleção"
+    "UNDOBACKGROUND_DESCRIPTION": "Remover o \"Background\" aplicado de uma carta",
+    "UB_CATEGORY": "Cosméticos",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
+    "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar essa carta",
+    "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
+    "NO_GIF_CARD": "{{author}} Cartas `GIF` não podem ter um `Background` aplicado",
+    "NO_BACKGROUND": "{{author}} A carta não possui um \"Background\" aplicada nela",
+    "EMBED_TITLE": "SOFI: UNDOBACKGROUND",
+    "PROCESS_COST": "Remover um `Background` custará **1** `Wist` e retornará o `Background` para seu `Inventário`",
+    "NOT_ENOUGH_WIST": "Você não tem `Wists` suficientes para remover o `Background`",
+    "NO_BG_APPLIED": "{{author}} A carta não tem um `Background` aplicado nela",
+    "UNDO_BACKGROUND_SUCCESS": "O `Background` foi removido com sucesso e retornado ao seu `Inventário`",
+    "NO_OWNER": "{{author}} A carta não está mais em sua coleção"
 }
