@@ -6,7 +6,7 @@
     "INFO_3": "**Fragments** को जलाकर **Charms** प्राप्त करे",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Pull संख्या: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} आपके पास इस प्रक्रिया के लिए पर्याप्त **{{currName}}** नहीं है।",
+    "MISSING_CURR": "{{user}} आपके पास इस प्रक्रिया के लिए पर्याप्त **{{currName}}** नहीं है",
     "AMOUNT": "आप प्राप्त करते है: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Pull संख्या: {{pullcount}}",
     "RATES": "दर",
@@ -14,5 +14,6 @@
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
     "GIF_EMBED_FOOTER": "आपके पास pulls से एनिमेटेड कार्ड प्राप्त करने की 0.5% संभावना है",
     "GIFS": "GIFS",
-    "GIF_CHANCE": "खींचिए और GIF कार्ड पाने का मौका पाइए"
+    "GIF_CHANCE": "खींचिए और GIF कार्ड पाने का मौका पाइए",
+    "ACTIVE_POOL": "**सक्रिय पूल**"
 }

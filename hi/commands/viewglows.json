@@ -1,10 +1,10 @@
 {
-    "VIEWGLOWS_DESCRIPTION": "इस कमांड से आप उपयोगकर्ता के सभी Glows की सूची देख सकते है। Glow code डालने से सीधा Glow की जानकारी प्रदर्शित होती है।",
+    "VIEWGLOWS_DESCRIPTION": "उपयोगकर्ता के मौजूदा Glows को जांचने के लिए यह कमांड का उपयोग कीजिए। Glow कोड को पैरामीटर की तरह उपयोग करने पर Glow की जानकारी वाला एंबेड खुलेगा",
     "VG_CATEGORY": "COSMETICS",
     "VG_SLASH_DESC1": "जिस उपयोगकर्ता के Glows देखना चाहते है उसे चुने",
     "VG_SLASH_DESC2": "जिस Tag को फिल्टर करना चाहते है उसका नाम प्रदान कीजिए",
     "VG_SLASH_DESC3": "जिस Glow को जांच करना चाहते है उसका कोड प्रदान कीजिए",
-    "NO_GLOWS": "{{author}} इस उपयोगकर्ता के पास कोई भी **Glows** नही है।",
+    "NO_GLOWS": "{{author}} इस उपयोगकर्ता के पास कोई भी **Glows** नही है",
     "SUPER": "Super",
     "EMBED_TITLE": "SOFI: VIEW GLOW",
     "EMBED_FOOTER": "पृष्ठ: {{page}}/{{totalPages}} | कुल: {{count}}",
@@ -20,7 +20,7 @@
     "OWNER": "मौजूदा मालिक",
     "PURITY": "प्यूरिटी1",
     "INVALID_USER": "{{author}} इस उपयोगकर्ता को ढूंढने में असमर्थ",
-    "NO_GLOWS_SELF": "{{author}} आपके पास कोई **Glow** नहीं है।",
+    "NO_GLOWS_SELF": "{{author}} आपके पास अभी तक कोई **Glow** नहीं है",
     "PURITY2": "प्यूरिटी2",
     "SORT_BUTTON_LABEL": "सॉर्ट",
     "TAG": "टैग",
@@ -28,5 +28,5 @@
     "TIME_two": "{{count}} बार",
     "TIME_few": "{{count}} बार",
     "TIME_many": "{{count}} बार",
-    "USED": "प्रयुक्त "
+    "USED": "प्रयुक्त"
 }

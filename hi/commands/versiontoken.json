@@ -6,5 +6,17 @@
     "SORT_WL": "पसंदीदा-सूची",
     "VT_CATEGORY": "COSMETICS",
     "VERSIONTOKEN_DESCRIPTION": "यह कमांड का उपयोग करके आप संस्करण का संग्रह देख सकते है। संग्रह को आप नाम, जेन, पसंदीदा-सूची, संस्करण के रूप में भी छांट सकते है।",
-    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ"
+    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ",
+    "USER_PRIVATE": "{{author}} यह उपयोगकर्ता ने अपना **Version Tokens** संग्रह निजी रखा है",
+    "AUTHOR_NO_TOKENS": "{{author}} आपके पास अभी तक **Version Tokens** नहीं है",
+    "USER_NO_TOKENS": "{{author}} वह उपयोगकर्ता के पास अभी तक **Version Tokens** नहीं है",
+    "NOTHING_FOUND": "**Version Tokens** नहीं मिल सके",
+    "INVALID_SERIES": "अमान्य श्रेणी",
+    "SORT_VERSION": "संस्करण",
+    "SORT_CARD": "मूल पत्ता",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "EMBED_FOOTER": "पृष्ठ: {{page}}/{{totalPages}} | कुल संस्करण टोकन: {{count}}",
+    "SAVE_FILTER": "500 - यह फिल्टर को सेव करें",
+    "SELECT_FILTER": "फ़िल्टर को चुने",
+    "FILTER_NO_VT_FOUND": "{{author}} आपके फ़िल्टर से मिलता हुआ कोई भी **Version Tokens** नहीं मिला"
 }
