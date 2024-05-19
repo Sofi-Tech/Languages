@@ -31,5 +31,11 @@
     "MORE_INFO_LABEL": "Sélectionnez une Option",
     "EXAMPLE_INFO": "Format Correct: <Montant> <Monnaie>",
     "VERSION_LB": "Version LB",
-    "NO_VERSIONS_FOUND": "Ce personnage n'a pas encore de Versions"
+    "NO_VERSIONS_FOUND": "Ce personnage n'a pas encore de Versions",
+    "FAN_PTS_ADDED_few": "{{author}} a ajouté avec succès **{{count}}** points à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_other": "{{author}} a ajouté avec succès **{{count}}** points à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_zero": "{{author}} a ajouté avec succès **{{count}}** points à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_one": "{{author}} a ajouté avec succès **{{count}}** point à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_two": "{{author}} a ajouté avec succès **{{count}}** points à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_many": "{{author}} a ajouté avec succès **{{count}}** points à **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
 }

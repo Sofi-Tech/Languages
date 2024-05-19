@@ -60,5 +60,7 @@
     "DECK_SELECTED_two": "{{deck}} est maintenant en mission sur {{quest}} pour {{count}} heures",
     "DECK_SELECTED_other": "{{deck}} est maintenant en mission sur {{quest}} pour {{count}} heures",
     "DECK_SELECTED_many": "{{deck}} est maintenant en mission sur {{quest}} pour {{count}} heures",
-    "NOT_AVAILABLE": "Non Disponible"
+    "NOT_AVAILABLE": "Non Disponible",
+    "QUEST_REWARD": "Gain potentiel de **{{minimumShards}}** à **{{maximumShards}}** <:_:1168102686785273916> et **{{minimumSilvers}}** à **{{maximumSilvers}}** <:_:915619222229512213>\navec une augmentation de **{{luckFactor}}x** du gain\nGain de **{{questXP}}** expérience par carte",
+    "SELECT_MODAL_PLACEHOLDER": "Deck 1/1/[nomdudeck]"
 }
