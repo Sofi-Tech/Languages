@@ -3,15 +3,15 @@
     "MENTION_ERROR": "{{author}} Gunakan awalan server `{{prefix}}` atau `/`untuk menggunakan perintah",
     "RATE_LIMIT_ERROR": "{{author}} Karena aktivitas yang tinggi, batas kapasitas telah tercapai! Harap tunggu.",
     "VERIFY_BUTTON_LABEL": "Verifikasi",
-    "SUPPORT_BUTTON_LABEL": "Support",
+    "SUPPORT_BUTTON_LABEL": "Bantuan",
     "VERIFY_TO_PLAY": "[Verifikasi diri anda di situs kami untuk bermain!](<https://sofi.gg/verify>)",
     "USER_BLACKLISTED": "{{author}} Pengguna tersebut masuk dalam daftar hitam",
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Tunggu **{{cooldown}}** sebelum menggunakan perintah lagi",
-    "COMMAND_BLACKLISTED": "{{author}} Perintah `{{commandName}}` masuk blacklist di saluran ini",
+    "COMMAND_BLACKLISTED": "{{author}} Perintah `{{commandName}}` masuk ke daftar hitam di saluran ini",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Saya memerlukan: {{permissions}} untuk menjalankan perintah ini`",
-    "REQUIRE_MEMBER_PERMISSIONS": "{{author}}Anda memerlukan: `{{permissions}}` untuk menggunakan perintah ini",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Anda memerlukan: `{{permissions}}` untuk menggunakan perintah ini",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Tunggu **{{cooldown}}** sebelum menggunakan perintah lagi",
-    "REGISTER_USER": "{{author}} Gunakan perintah `{{prefix}}register` dan kunjungi situs kami untuk memverifikasi diri Anda",
+    "REGISTER_USER": "­{{author}} Gunakan perintah `{{prefix}}register` dan kunjungi situs kami untuk memverifikasi diri Anda",
     "USER_COMMAND_QUEUE": "{{author}} Selesaikan perintah {{existsFor}} sebelum melanjutkan",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Selesaikan perintah `{{existsFor}}` sebelum melanjutkan",
     "SAFE_MODE": "{{author}} **Sofi** saat ini dalam mode aman! ETA: **{{eta}}**\nKami mohon maaf atas ketidaknyamanan yang ditimbulkan oleh hal ini dan mohon kesabaran Anda!",
@@ -21,5 +21,5 @@
     "SERIES_DROP": "Pemungutan suara telah selesai!",
     "SERVER_BLACKLISTED": "{{author}} Server masuk daftar hitam. Silakan hubungi kami di discord.gg/sofi",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} Inventori anda mempunyai nilai negatif. Silakan hubungi kami di [Server Support](<https://discord.gg/sofi)",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Kamu telah dimasukkan dalam daftar hitam karena melanggar aturan Sofi!__\n\n**Beberapa alasan yang mungkin telah menyebabkan hal ini:**\n```CSS\n- Berinteraksi dengan Sofi menggunakan beberapa akun (Alting)\n- Menjual atau Membeli seluruh akun Discord\n- Menipu pengguna lain\n- Memanfaatkan atau terlibat dalam salah satu aktivitas di atas\n```\n\n:link: [Ajukan banding terhadap daftar hitam Andat](<https://sofi.gg/appeal>)\n:link: [Server Dukungan](https://discord.gg/sofi)"
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Kamu telah dimasukkan dalam daftar hitam karena melanggar aturan Sofi!__\n\n**Beberapa alasan yang mungkin telah menyebabkan hal ini:**\n```CSS\n- Berinteraksi dengan Sofi menggunakan beberapa akun (Alting)\n- Menjual atau Membeli seluruh akun Discord\n- Menipu pengguna lain\n- Memanfaatkan atau terlibat dalam salah satu aktivitas di atas\n```\n\n:link: [Ajukan banding terhadap daftar hitam Anda](<https://sofi.gg/appeal>)\n:link: [Server Dukungan](https://discord.gg/sofi)"
 }

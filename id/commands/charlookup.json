@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah \"scl\". Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Fan dan \"Card ID\" karakter tersebut.\n- \"Card ID\" diperlukan saat mengirimkan gambar untuk \"Versi\" baru",
+    "CHARLOOKUP_DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah \"scl\". Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Penggemar dan ID Kartu karakter tersebut.\n- ID Kartu diperlukan saat mengirimkan gambar untuk \"Versi\" baru",
     "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama `{{arg}}`\n\n``` perbaiki\nCatatan: Menggunakan flag `-f` membuat fungsi peka huruf besar-kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -15,14 +15,14 @@
     "BURNED": "Dibakar",
     "VERSIONS": "Versi",
     "TOP_FANS": "Papan Peringkat Penggemar",
-    "NO_FANS_FOUND": "\nKarakter ini belum punya penggemar!",
+    "NO_FANS_FOUND": "\nKarakter ini belum memiliki penggemar!",
     "CARD_ID": "ID-Kartu:",
     "ENTER_AMOUNT": "Masukkan jumlah",
-    "MODAL_TITLE": "SOFI: CHARLOOKUP",
+    "MODAL_TITLE": "SOFI: ADD FAN POINTS",
     "CORRECT_EXAMPLE": "{{author}} Mata uang yang diterima: **Silver**, **Wists**, **Gems**",
     "MISSING_ITEMS": "{{author}} Anda tidak memiliki cukup **{{itemName}}** untuk proses ini",
-    "3D_MAKER": "**3D** Seniman",
-    "CARD_MAKER": "**GIF** Seniman",
+    "3D_MAKER": "Seniman **3D**",
+    "CARD_MAKER": "Seniman **GIF**",
     "GEN_CLAIMED": "Diklaim: {{count}}/100",
     "NO_OWNER_FOUND": "Belum ada yang memiliki varian **2D** dari karakter ini",
     "NO_3D_OWNER_FOUND": "Belum ada yang memiliki varian **3D** dari karakter ini",
@@ -31,5 +31,11 @@
     "MORE_INFO_LABEL": "Pilih Opsi",
     "EXAMPLE_INFO": "Format yang benar: <Jumlah> <Mata Uang>",
     "VERSION_LB": "Versi LB",
-    "NO_VERSIONS_FOUND": "Karakter ini belum ada versinya"
+    "NO_VERSIONS_FOUND": "Karakter ini belum memiliki versi",
+    "FAN_PTS_ADDED_zero": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_one": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_two": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_few": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_other": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_many": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
 }

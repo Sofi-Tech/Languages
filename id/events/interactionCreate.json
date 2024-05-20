@@ -15,7 +15,8 @@
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** saat ini dalam mode aman! ETA: **{{eta}}**\nKami mohon maaf atas ketidaknyamanan yang disebabkan oleh hal ini dan mohon kesabaran anda!",
     "VERIFY_BUTTON_LABEL": "Verifikasi",
     "SERVER_BLACKLISTED": "{{author}} Server masuk daftar hitam. Silakan hubungi kami di discord.gg/sofi",
-    "COMMAND_BLACKLISTED": "{{author}} Perintah `{{commandName}}` masuk blacklist di saluran ini",
+    "COMMAND_BLACKLISTED": "{{author}} Perintah `{{commandName}}` masuk ke daftar hitam di saluran ini",
     "CATEGORY_DISABLED": "{{author}} Kategori ini telah dinonaktifkan\nAlasan: `{{reason}}`",
-    "COMMAND_DISABLED": "{{author}} Perintah ini telah dinonaktifkan\nAlasan: `{{reason}}`"
+    "COMMAND_DISABLED": "{{author}} Perintah ini telah dinonaktifkan\nAlasan: `{{reason}}`",
+    "SUPPORT_BUTTON_LABEL": "Bantuan"
 }

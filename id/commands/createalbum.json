@@ -1,5 +1,5 @@
 {
-    "CREATE_ALBUM": "{{author}} Buat dan edit album anda di situs web kami: https://sofi.gg/albums",
-    "CREATEALBUM_DESCRIPTION": "Perintah ini akan merespons dengan tautan ke situs web resmi Sofi.gg kami, di mana anda akan dapat membuat album khusus untuk menampilkan kartu anda dengan cara apa pun yang anda suka",
+    "CREATE_ALBUM": "{{author}} Buat dan edit album anda di [website](<https://sofi.gg/albums>) kami",
+    "CREATEALBUM_DESCRIPTION": "Perintah ini akan merespon dengan tautan ke situs web resmi kami Sofi.gg, dimana anda dapat membuat album khusus untuk memamerkan kartu Anda dengan berbagai cara yang Anda suka",
     "CATEGORY": "Album"
 }

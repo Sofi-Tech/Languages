@@ -1,12 +1,12 @@
 {
-    "TAGUPDATE_DESCRIPTION": "Gunakan perintah ini untuk memperbarui nama atau emoji tag",
+    "TAGUPDATE_DESCRIPTION": "Gunakan perintah ini untuk mengganti nama atau emoji tag",
     "TU_CATEGORY": "Tag",
     "WRONG_USAGE": "{{author}} Cara Penggunaan: `{{prefix}}tu <TagName>`",
     "TAG_NOT_FOUND": "{{author}} Tidak dapat menemukan tag dengan nama `{{tag}}`",
     "BUTTON_NAME_LABEL": "Nama",
     "BUTTON_EMOJI_LABEL": "Emoji",
     "EMBED_TITLE": "SOFI: UPDATE TAG",
-    "EMBED_DESCRIPTION": "Bagian mana dari tag `{{tagName}}` yang ingin anda perbarui?",
+    "EMBED_DESCRIPTION": "Bagian apa dari tag `{{tagName}}`yang ingin anda ganti?",
     "REPLACE_NAME": "Masukkan nama yang akan menggantikan `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} Anda telah memiliki tag dengan nama `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} Nama tag anda harus berupa alfanumerik dan tidak boleh mengandung karakter khusus, spasi, atau kata-kata kotor dalam bentuk apa pun",
@@ -14,7 +14,7 @@
     "REPLACE_NAME_CONFIRMATION": "Apakah anda yakin ingin mengubah nama tag ini dari `{{oldTag}}` menjadi `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Berhasil mengubah nama tag anda dari `{{oldTag}}` menjadi `{{newTag}}`",
     "PROCESS_TERMINATED": "Proses telah dibatalkan",
-    "REPLACE_EMOJI": "Masukkan emoji yang Anda inginkan untuk diganti dengan {{emoji}}",
+    "REPLACE_EMOJI": "Masukkan emoji yang anda inginkan untuk diganti dengan {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Emoji tersebut tidak valid",
     "REPLACE_EMOJI_CONFIRMATION": "Apakah anda yakin ingin mengubah emoji dari tag ini dari {{oldEmoji}} ke {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Berhasil memperbarui emoji tag ini dari {{oldEmoji}} ke {{newEmoji}}"

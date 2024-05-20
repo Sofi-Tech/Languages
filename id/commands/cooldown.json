@@ -1,6 +1,6 @@
 {
-    "COOLDOWN_DESCRIPTION": "Perintah ini akan menampilkan daftar cooldown Anda saat ini. Jika Anda ingin diberitahu tentang cooldown Vote/Daily/Bump Anda, klik ikon lonceng di bawah embed",
-    "JOIN_SUPPORT_SERVER": "[Bergabung dengan server support untuk bantuan!](https://discord.gg/sofi)",
+    "COOLDOWN_DESCRIPTION": "Perintah ini akan menampilkan daftar cooldown Anda saat ini. Jika Anda ingin diberitahu tentang cooldown Vote/Daily/Bump Anda, klik ikon lonceng di bawah penyematan",
+    "JOIN_SUPPORT_SERVER": "**[Bergabunglah dengan server resmi kami untuk mendapatkan bantuan!](https://discord.gg/sofi)**",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
@@ -8,12 +8,12 @@
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
-    "EMBED_TITLE": "SOFI: COOLDOWN ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
-    "UNREAD_MAIL_other": "\n📫 Anda punya **{{count}}** pesan belum dibaca",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
+    "UNREAD_MAIL_one": "\n📫 Anda punya **{{count}}** surat belum dibaca",
+    "UNREAD_MAIL_other": "\n📫 Anda punya **{{count}}** surat belum dibaca",
     "READY": "Siap",
-    "UNREAD_MAIL_two": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
-    "UNREAD_MAIL_few": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
-    "UNREAD_MAIL_zero": "\n📫 Kamu punya **{{count}}** pesan belum dibaca",
-    "UNREAD_MAIL_many": "\n📫 Anda memiliki **{{count}}** surat yang belum dibaca"
+    "UNREAD_MAIL_two": "\n📫 Anda punya **{{count}}** surat belum dibaca",
+    "UNREAD_MAIL_few": "\n📫 Anda punya **{{count}}** surat belum dibaca",
+    "UNREAD_MAIL_zero": "\n📫 Anda punya **{{count}}** surat belum dibaca",
+    "UNREAD_MAIL_many": "\n📫 Anda memiliki **{{count}}** surat belum dibaca"
 }

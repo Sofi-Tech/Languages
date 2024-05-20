@@ -1,4 +1,6 @@
 {
-    "PROVIDE_FILTER": "{{author}} Tolong berikan filter dan metode pengurutan",
-    "PROVIDE_CATEGORY": "{{author}} Tolong berikan salah satu dari kategori berikut ini```apache\n{{categories}}```"
+    "PROVIDE_FILTER": "{{author}} Harap berikan filter di samping metode pengurutan",
+    "PROVIDE_CATEGORY": "{{author}} Harap berikan salah satu dari kategori berikut ini```apache\n{{categories}}```",
+    "TOO_LONG_FILTER": "{{author}} Filter yang Anda berikan terlalu panjang, silakan coba lagi",
+    "TOO_MANY_FILTER_GROUPS": "{{author}} Anda hanya dapat memiliki 5 grup filter, silakan coba lagi"
 }
