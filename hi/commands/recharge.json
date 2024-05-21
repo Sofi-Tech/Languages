@@ -4,7 +4,7 @@
     "UNLOCK_GLOWS": "{{author}} आपके पास कोई **Glow** नहीं हैं।",
     "NO_GLOWCDE": "{{author}} सही उपयोग: `{{prefix}}rg <#GlowCode>`",
     "INVALID_DC_MOVIES": "{{author}} **Glow** कोड्स हमेशा `#` के साथ शुरू होते है।",
-    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया **Glow** कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "GLOW_NOT_FOUND": "{{author}} आपके द्वारा प्रदान किया गया **Glow** कोड या तो अमान्य है या आपके संग्रह में मौजूद नहीं है",
     "GLOW_AVAILABLE": "{{author}} वह **Glow** पहले से ही चार्ज्ड है।",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW ",
     "RECHARGE_CONFIRMATION": "क्या आप वाकई में इस **Glow** को चार्ज करना चाहते है?\n\nनाम: **{{name}}**\nकोड: `{{glowCode}}`\nखर्चा: **{{cost}}** <:recharge_sofi:926846363537387530>",
