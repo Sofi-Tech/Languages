@@ -1,10 +1,10 @@
 {
-  "BGSHOP_DESCRIPTION": "Arkaplan marketini görüntüler",
-  "BGS_CATEGORY": "Kozmetikler",
-  "BGS_SLASH_DESC": "Aradığınız \"Background\"ın kodunu girin",
-  "EMBED_TITLE": "SOFI: BGSHOP",
-  "APPLY_BG": "\n`Backgrounds` satın almak için \"{{prefix}}buy bg <Background-ID> <Amount>\" komutunu kullanın",
-  "VIEW_BACKGROUNDS": "[Tüm `Backgrounds`'ları görüntülemek için burayı tıklayın](<https://sofi.gg/backgrounds>)",
-  "SHOWING_PAGE": "Gösterilen sayfa: {{page}}/{{pages}}",
-  "NO_BG_FOUND": "{{author}} Bu geçerli bir `Background` ID'si değildir"
+    "BGSHOP_DESCRIPTION": "Bu komut, 3D kartlarınız için satın alabileceğiniz tüm mevcut Arka Planları görüntüleyen Arka Plan mağazasını açacaktır. Yerleştirmedeki adlardan herhangi birine tıklamak, belirli Arka Planı gösteren bir web sayfası açacaktır",
+    "BGS_CATEGORY": "Kozmetikler",
+    "BGS_SLASH_DESC": "Aradığınız \"Arka Plan\"ın kodunu girin",
+    "EMBED_TITLE": "SOFI: ARKA PLAN MAĞAZASI",
+    "APPLY_BG": "\n**Arka Plan** satın almak için `{{prefix}}buy bg <ARKAPLAN-ID> <Miktar>` komutunu kullanın",
+    "VIEW_BACKGROUNDS": "[Mevcut tüm **Arka Planları** görüntülemek için buraya tıklayın](<https://sofi.gg/backgrounds>)",
+    "SHOWING_PAGE": "Gösterilen sayfa: {{page}}/{{pages}}",
+    "NO_BG_FOUND": "{{author}} Bu ID'ye sahip herhangi bir **Arka Plan** bulunamadı"
 }

@@ -1,10 +1,10 @@
 {
-    "BUMP_DESCRIPTION": "Resmi Sofi.gg web sitesinde \"Tıklatma\" ile \"Ticari Geçiş\" gibi ödüller elde edin",
+    "BUMP_DESCRIPTION": "Bu komutu kullandığınızda, toplam \"Bump\" ve ayrıca şu anda mevcut olan \"Bump\" Puanlarınızı gösteren bir yerleştirme oluşturulacak ve bu, Ticaret Geçişi de dahil olmak üzere değerli öğeleri satın almak için resmi Sofi.gg web sitesinde kullanılabilecektir",
     "BUMP_CATEGORY": "Ayarlar",
-    "EMBED_AUTHOR": "SOFI; `BUMP` ({{username}})",
-    "GET_DIFFERENT_REWARDS": "Ödüller almak için resmi [Web sitemizdeki] (https://sofi.gg) `Bump` düğmesine basın",
-    "TOTAL_BUMP": "- Toplam `Bumps`: **{{bump}}**",
-    "BUMP_POINTS": "- Mevcut Puanlar: **{{bumpPoints}}**",
-    "EMBED_FOOTER": "\"Bump\" işlevini her 4 saatte bir kullanabilirsiniz!",
+    "EMBED_AUTHOR": "SOFI; BUMP ({{username}})",
+    "GET_DIFFERENT_REWARDS": "Ödül kazanmak için resmi [Web sitemizdeki](https://sofi.gg) **Bump** düğmesine basın",
+    "TOTAL_BUMP": "- Toplam **Bump**'lar : **{{bump}}**",
+    "BUMP_POINTS": "- Mevcut Puanlar: **{{bumpPoints}}** (🔺)",
+    "EMBED_FOOTER": "\"Bump\" komutunu her 4 saatte bir kullanabilirsiniz!",
     "BUMP": "BUMP"
 }

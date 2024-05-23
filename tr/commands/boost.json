@@ -1,6 +1,6 @@
 {
-  "BOOST_DESCRIPTION": "Sofi Cafe Sunucusu için nitro boostlarının lider tablosunu gösterir",
-  "BOOST_CATEGORY": "Ayarlar",
-  "EMBED_TITLE": "SOFI: BOOST",
-  "EMBED_FOOTER": "Discord Boosterları ve Bağışçılar, yeni karakterler veya mevcut karakterlerin 3D varyantlarını talep etme hakkına sahiptir.\nEk avantajlar arasında bir Sunucu Rolü, \"{{prefix}}userinfo\" komutu için Renkler ve sosyal komutlara erişim yer alır!"
+    "BOOST_DESCRIPTION": "Bu komut, \"Sofi Cafe\" discord sunucusunu boostlamış kullanıcıları sıralayan bir yerleştirme açacaktır",
+    "BOOST_CATEGORY": "Ayarlar",
+    "EMBED_TITLE": "SOFI: HIZLANDIRMA | [{{lbInfo}}] Toplam Boosterlar",
+    "EMBED_FOOTER": "Discord Destekçileri ve Bağışçılar yeni karakterler veya mevcut karakterlerin 3D versiyonlarını talep etme hakkına sahiptir.\nEk avantajlar arasında Sunucu Rolü, {{prefix}}userinfo komutunun renkleri ve sosyal komutlara erişim yer alır!"
 }

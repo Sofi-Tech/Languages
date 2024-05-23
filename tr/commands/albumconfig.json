@@ -1,5 +1,5 @@
 {
-  "ALBUMCONFIG_DESCRIPTION": "\"Album\"ünüzü yapılandırın",
-  "AC_CATEGORY": "Albüm",
-  "CONFIGURE_ALBUM": "Sitenizde albümlerinizi oluşturun ve düzenleyin: <https://sofi.gg/albums{{albumName}}>"
+    "ALBUMCONFIG_DESCRIPTION": "Bu komutu kullandığınızda, albümlerinizi özelleştirebileceğiniz ve yapılandırabileceğiniz resmi Sofi web sitesine bir bağlantı içeren bir mesaj gönderilecektir",
+    "AC_CATEGORY": "Albüm",
+    "CONFIGURE_ALBUM": "{{author}} Albümlerinizi web sitemizde oluşturun ve düzenleyin: <https://sofi.gg/albums{{albumName}}>"
 }
