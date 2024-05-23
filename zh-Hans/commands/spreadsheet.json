@@ -1,9 +1,0 @@
-{
-  "SPREADSHEET_DESCRIPTION": "创建一个 \".csv\" 您收藏的文件",
-  "SHEET_CATEGORY": "设置",
-  "NO_VAULT_LOGS": "{{author}}目前没有保险库日志",
-  "NO_GUILD_INFO": "{{author}}您不在guild",
-  "DM_FILE": "{{author}} 一份.csv文件已通过私信发送给您\n\n> **注意**：将文件导入 Excel 或电子表格程序时，请务必将分隔符设置为“逗号”！",
-  "CANNOT_DM": "{{author}} 无法向您发送电子表格文件。确保您的私信已打开！",
-  "NO_COLLECTION": "{{author}}您的收藏中没有任何卡片"
-}

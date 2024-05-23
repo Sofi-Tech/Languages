@@ -1,9 +1,0 @@
-{
-  "EXTRA_GRAB": "{{user}}你的额外的抓正在使用。你🈶️{{remaining}}其余的",
-  "TOOK_THE_CARD": "{{user}}拿走了{{character}}卡片{{code}}{{elementEmoji}}{{elementName}}",
-  "BATTLED_AND_WON": "{{winner}}打离开{{user}}并声称{{character}}卡片{{code}}{{elementEmoji}}{{elementName}}",
-  "WAIT_TO_CLAIM": "{{user}}你必须等{{cooldown}}秒才拿得另一张卡",
-  "EMBED_TITLE": "SOFI: CAPTCHADROP",
-  "EMBED_FOOTER": "拿上面的卡片需要你写在个验证码",
-  "CANNOT_BE_GRABBED": "{{user}}已经拿到{{characterName}}卡片"
-}
