@@ -62,5 +62,6 @@
     "ALL_TAG_SUCCESS_two": "{{author}} Le tag suivant a été ajouté avec succès de **{{count}}** carte(s) `{{tagName}}`",
     "ALL_TAG_SUCCESS_few": "{{author}} Le tag suivant a été ajouté avec succès de **{{count}}** carte(s) `{{tagName}}`",
     "ALL_TAG_SUCCESS_many": "{{author}} Le tag suivant a été ajouté avec succès de **{{count}}** carte(s) `{{tagName}}`",
-    "ALL_TAG_SUCCESS_other": "{{author}} Le tag suivant a été ajouté avec succès de **{{count}}** carte(s) `{{tagName}}`"
+    "ALL_TAG_SUCCESS_other": "{{author}} Le tag suivant a été ajouté avec succès de **{{count}}** carte(s) `{{tagName}}`",
+    "VERSION_AVAILABILITY": "Disponibilité de Version"
 }

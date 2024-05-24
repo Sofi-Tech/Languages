@@ -6,9 +6,14 @@
     "INFO_3": "Brûlez des **Fragments** pour obtenir des **Charms**",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Nombre de Tirages: [ {{count}} ]",
-    "MISSING_CURR": "{{user}} Vous n'avez pas assez de**{{currName}}** pour ce processus",
-    "AMOUNT": "Vous avez reçu: {{currencyEmoji}}**{{amount}}x**{{pullOutcome}}",
+    "MISSING_CURR": "{{user}} Vous n'avez pas assez de **{{currName}}** pour ce processus",
+    "AMOUNT": "Vous avez reçu: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Nombre de tirages: [ {{pullcount}} ]",
     "RATES": "Taux",
-    "PULL_CHANCES": "**__Probabilitiés__**"
+    "PULL_CHANCES": "**__Probabilités__**",
+    "GIFS": "GIFS",
+    "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
+    "ACTIVE_POOL": "**Ensemble Disponible**",
+    "GIF_EMBED_FOOTER": "Vous avez 0.5% de chances d'obtenir une carte animée d'un tirage",
+    "GIF_CHANCE": "Faites un tirage et ayez une chance d'obtenir une carte GIF"
 }

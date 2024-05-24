@@ -1,15 +1,15 @@
 {
-    "BUY_DESCRIPTION": "Bu komutu bir öğe adı ve miktarıyla birlikte kullanmak, belirli bir öğeyi satın almak için bir işlem yerleştirmesi açacaktır. Mevcut tüm ürünleri görüntülemek için \"Shop\" komutunu kullanın",
-    "SLASH_DESC": "Satın almak istediğiniz ürünün adını girin",
+    "BUY_DESCRIPTION": "Bu komutu bir öğe adı ve miktarıyla birlikte kullanmak, belirli bir öğeyi satın almak için bir işlem yerleştirmeyi açacaktır. Mevcut tüm ürünleri görüntülemek için \"Shop\" komutunu kullanın",
+    "SLASH_DESC": "Satın almak istediğiniz öğenin adını girin",
     "SLASH_DESC2": "Miktar girin",
     "SLASH_DESC3": "Satın almak istediğiniz Arkaplanın kodunu giriniz. [YALNIZCA ÖĞE ARKA PLAN OLARAK SEÇİLMİŞSE ÇALIŞIR]",
-    "NO_ITEM": "{{author}} Doğru kullanım: `{{prefix}}buy <ItemName><Amount> '",
+    "NO_ITEM": "{{author}} Doğru kullanım: `{{prefix}}buy <Öğe İsmi><Miktar> '",
     "TRADEPASS_INFO": "**Bump** için aşağıdaki web sitemizi ziyaret edin ve puanlarınızı **Trade Pass** dahil farklı öğelerle değiştirin",
-    "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}buy bg <Background-ID> <Amount>`",
-    "INVALID_BG_AMOUNT": "{{author}} Negatif miktarda bir ürün satın alamazsınız",
-    "INVALID_BG_ID": "{{author}} Bu ID'e sahip herhangi bir **Arka Plan** bulunamadı",
+    "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}buy bg <Arkaplan-ID> <Miktar>`",
+    "INVALID_BG_AMOUNT": "{{author}} Bir öğeden negatif miktarda satın alamazsınız",
+    "INVALID_BG_ID": "{{author}} Bu ID'ye sahip herhangi bir **Arka Plan** bulunamadı",
     "INVALID_ITEM_PROVIDED": "{{user}} Sağladığınız öğe geçersiz",
-    "BUY_GEN_CONFIRMATION": "## {{count}} gen kazıyıcı satın alıyorsunuz",
-    "BUY_CHARM_CONFIRMATION": "## {{amount}} <:xcharm:988729774031638528> satın alıyorsunuz\n",
+    "BUY_GEN_CONFIRMATION": "## {{count}} \"Gen Scratcher\" satın alıyorsunuz",
+    "BUY_CHARM_CONFIRMATION": "## {{amount}} <:xcharm:988729774031638528> satın alıyorsunuz",
     "BUY_CHARMS_MULTIPLES": "{{author}} **Charms**'ı yalnızca 100'ün katları halinde satın alabilirsiniz"
 }
