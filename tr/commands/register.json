@@ -6,7 +6,8 @@
     "ALREADY_REGISTERED": "{{author}} Zaten kayıtlısınız!",
     "AGREE_BUTTON_LABEL": "Kabul ediyorum!",
     "DISAGREE_BUTTON_LABEL": "Kabul Etmiyorum!",
-        "EMBED_FOOTER": "Şu ana kadar **{{count}}** kullanıcı doğrulandı",
+    "EMBED_FOOTER": "Şu ana kadar **{{count}}** kullanıcı doğrulandı",
     "SUPPORT_BUTTON_LABEL": "Destek Sunucusu",
-    "AGREE_TOS": "Yukarıdaki kural setini kabul ederek Sofi'nin [Hizmet Şartlarını](https://sofi.gg/terms \"Hizmet Şartları\") ve [Gizlilik Politikasını](https://sofi.gg/privacy) kabul etmiş olursunuz"
+    "AGREE_TOS": "Yukarıdaki kural setini kabul ederek Sofi'nin [Hizmet Şartlarını](https://sofi.gg/terms \"Hizmet Şartları\") ve [Gizlilik Politikasını](https://sofi.gg/privacy) kabul etmiş olursunuz",
+    "AUTHOR_NOT_VERIFIED": "{{author}} Doğrulanmadınız"
 }

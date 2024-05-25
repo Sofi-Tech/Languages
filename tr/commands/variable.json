@@ -22,8 +22,10 @@
     "DEFENSE": "Defans",
     "SPEED": "Hız",
     "HP": "Can",
-    "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil!",
+    "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil",
     "MEMBER_NOT_VERIFIED": "{{author}} Bu kullanıcı doğrulanmadı",
     "NAME": "İsim:",
-    "SERIES": "Seri:"
+    "SERIES": "Seri:",
+    "AUTHOR_BLACKLISTED": "{{author}} Kara listeye alındınız",
+    "AUTHOR_QUARANTINED": "{{author}} Karantinaya alındınız"
 }

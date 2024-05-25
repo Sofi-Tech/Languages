@@ -1,5 +1,5 @@
 {
-  "CREATE_ALBUM": "{{author}} Albümlerinizi [web sitemizde] oluşturun ve düzenleyin (<https://sofi.gg/albums>)",
-  "CREATEALBUM_DESCRIPTION": "Albüm oluşturur",
-  "CATEGORY": "Albüm"
+    "CREATE_ALBUM": "{{author}} Albümlerinizi [web sitemizde](<https://sofi.gg/albums>) oluşturun ve düzenleyin",
+    "CREATEALBUM_DESCRIPTION": "Bu komut, kartlarınızı istediğiniz şekilde sergilemek için özel albümler oluşturabileceğiniz resmi Sofi.gg web sitemize bir bağlantı ile yanıt verecektir",
+    "CATEGORY": "Albüm"
 }

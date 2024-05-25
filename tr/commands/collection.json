@@ -7,7 +7,7 @@
     "PLAYER_PRIVATE": "{{author}} Bu kullanıcının koleksiyonu gizlidir",
     "NO_RESULTS": "{{author}} Koleksiyonunuzda henüz herhangi bir kart yok",
     "NO_CARDS_FOUND": "{{author}} Arama kriterlerinize uygun herhangi kart bulunamadı",
-    "NOTHING_FOUND": "O kart bulunamadı",
+    "NOTHING_FOUND": "Bu kart bulunamadı",
     "CHOOSE_SORTING": "Göre sırala",
     "SORT_CHAR": "İsim",
     "SORT_SERIES": "Seri",
@@ -21,7 +21,7 @@
     "SORT_HP": "Sağlık",
     "SORT_DUPE": "Kopyalar",
     "PLEASE_WAIT": "Lütfen Bekleyin <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} Henüz herhangi bir etiketiniz yok. Bir tane oluşturmak için `{{prefix}}tc TagName><Emoji>` komutunu kullanın",
+    "NO_TAG_FOUND": "{{author}} Henüz herhangi bir etiketiniz yok. Bir tane oluşturmak için `{{prefix}}tc Etiketİsmi><Emoji>` komutunu kullanın",
     "USER_NOT_FOUND": "{{author}} Bu kullanıcı bulunamadı",
     "SAVED_FILTER": "Bir Filtre Seçin",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
@@ -37,9 +37,9 @@
     "NOT_AVAILABLE": "Geçersiz Seri",
     "SORT_LEVEL": "Level",
     "EMBED_TITLE": "SOFI: KOLEKSİYON ({{username}})",
-    "TAG_MODAL_LABEL": "Kütle Etiketleme",
-    "TAG_MODAL_PLACEHOLDER": "Bunun yerine bir \"Etiketi\" toplu olarak kaldırmak için \"-\" kullanın",
-    "TAG_MODAL_TITLE": "Bir \"Etiket\" girin",
+    "TAG_MODAL_LABEL": "Toplu Etiketleme",
+    "TAG_MODAL_PLACEHOLDER": "Bunun yerine bir etiketi toplu olarak kaldırmak için \"-\" kullanın",
+    "TAG_MODAL_TITLE": "Bir \"Tag\" girin",
     "FILTER_UPDATE_SUCCESS": "{{author}} `{{filterName}}` filtresi başarıyla güncellendi",
     "FILTER_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir filtre bulunamadı",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} Bu filtreyi kaydetmek için yeterli **Silver**'iniz yok",
@@ -62,5 +62,6 @@
     "ALL_UNTAG_SUCCESS_other": "{{author}} Aşağıdaki etiket **{{count}}** kartlardan başarıyla kaldırıldı `{{tagName}}`",
     "ALL_TAG_SUCCESS_two": "{{author}} Aşağıdaki etiketi **{{count}}** kartlara başarıyla ekledi `{{tagName}}`",
     "ALL_TAG_SUCCESS_many": "{{author}} Aşağıdaki etiketi **{{count}}** kartlara başarıyla ekledi `{{tagName}}`",
-    "EXPLAIN_FILTER": "{{author}} İşte bu filtrenin nasıl çalıştığını anlamanıza yardımcı olacak bir akış şeması"
+    "EXPLAIN_FILTER": "{{author}} İşte bu filtrenin nasıl çalıştığını anlamanıza yardımcı olacak bir akış şeması",
+    "VERSION_AVAILABILITY": "Sürüm Bulunurluğu"
 }
