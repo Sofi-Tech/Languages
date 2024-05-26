@@ -1,10 +1,11 @@
 {
-  "TAGCREATE_DESCRIPTION": "Bir \"Tag\" oluşturur",
-  "TC_CATEGORY": "Etiketler",
-  "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}tc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} O emoji geçersiz",
-  "INVALID_TAGNAME_FORMAT": "{{author}} `Tag` inizin adı alfanümerik olmalıdır ve özel karakterler, boşluklar veya küfür içeremez!",
-  "LONG_TAGNAME": "{{author}} `Tag`'ınızın adı en fazla **20** karakter uzunluğunda olabilir",
-  "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir `Tag`ınız var",
-  "TAG_CREATED": "{{author}}, \"{{tag}}\" adında `Tag` başarıyla oluşturdu | {{emoji}}"
+    "TAGCREATE_DESCRIPTION": "Bu komutu kullanarak kendi kriterlerine uyan birçok kartı kategorize etmek ve gruplandırmak için etiketler oluşturabilirsin. Var olan etiketlerini kartlarına atamak için \"Tag\" komutunu kullan",
+    "TC_CATEGORY": "Etiketler",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}tc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} O emoji geçersiz",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Etiketinizin adı alfanümerik olmalıdır ve özel karakter, boşluk veya küfür içeremez",
+    "LONG_TAGNAME": "{{author}} `Tag`'ınızın adı en fazla **20** karakter uzunluğunda olabilir",
+    "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir `Tag`ınız var",
+    "TAG_CREATED": "{{author}}, \"{{tag}}\" adında `Tag` başarıyla oluşturdu | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Oluşturabileceğin maksimum etiket limitine ulaştın"
 }

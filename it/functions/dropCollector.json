@@ -5,11 +5,11 @@
     "EVENT_GRAB": "{{user}} ha scartato {{currencyEmoji}} **{{amount}}** **{{eventItem}}** sorprese",
     "SNATCHED_EVENT_ITEM": "{{winner}} è partito in slitta con {{amount}} festive Socks da <@{{userId}}> scorta di calze!",
     "GRAB_EVENT_ITEM": "{{winner}} si è aggiudicato {{amount}} festive Socks in una battaglia sulla neve contro altri {{userCount}}! 🌷✨",
-    "CANNOT_BE_GRABBED": "{{user}} Le carte sottostanti non possono più essere **afferrate**",
-    "CARDS_DROPPED_BY": "{{user}} hai **droppato** le carte",
+    "CANNOT_BE_GRABBED": "{{user}} Le carte sottostanti non possono più essere **grabbed**",
+    "CARDS_DROPPED_BY": "{{user}} hai **dropped** le carte",
     "TOOK_CARD": "{{user}} **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_CARD": "{{winner}} ha sconfitto {{user}} e **ha afferrato** la carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_VERSION": "{{winner}} ha combattuto contro {{user}} e **ha afferrato** il **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
-    "GRAB_VERSION_PLURAL": "{{winner}} ha combattuto contro **{{userCount}}** altri giocatori e **ha afferrato** il **{{character}}** **Version Token** (`{{code}}`) [ **V{{version}}**]",
+    "GRAB_VERSION": "{{winner}} ha combattuto contro {{user}} e **grabbed** il **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION_PLURAL": "{{winner}} ha combattuto contro **{{userCount}}** altri giocatori e **grabbed** il **{{character}}** **Version Token** (`{{code}}`) [ **V{{version}}**]",
     "TOOK_VERSION": "{{winner}} **ha preso** il **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]"
 }

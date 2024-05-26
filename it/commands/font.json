@@ -1,1 +1,23 @@
-{}
+{
+    "FONT": "Font",
+    "GEN": "Gen",
+    "NAME": "Nome",
+    "SERIES": "Serie",
+    "SAVE_MODAL_LABEL": "Sei sicuro?",
+    "SAVE_MODAL_TITLE": "Font: Conferma",
+    "NOT_ENOUGH_GEMS": "Non hai abbastanza **Gems** per effettuare questo acquisto",
+    "NOT_ENOUGH_SILVERS": "Non hai abbastanza **Silver** per effettuare questo acquisto",
+    "PROCESS_COMPLETED": "Il processo è stato completato con successo",
+    "COLORS": "Colori",
+    "ERROR_FINDING_CARD": "{{author}} Il codice della carta che hai fornito non è valido o non è presente nella tua collezione",
+    "NO_GIF_3D": "{{author}} Non puoi modificare il testo sulle carte **3D** o **GIF**",
+    "EMBED_TITLE": "SOFI: FONT",
+    "PRICE": "Prezzo",
+    "SELECT_MENU_PLACEHOLDER": "Seleziona Font",
+    "GLOW_MODAL_TITLE": "Glow Codice : {{type}}",
+    "GLOW_MODAL_PLACEHOLDER": "per esempio. #1vg0a1",
+    "GLOW_MODAL_LABEL": "Inserisci il codice Glow",
+    "GLOW_CODE_INVALID": "Il codice **Glow** che hai fornito non è valido oppure non è presente nel tuo inventory",
+    "FONT_DESCRIPTION": "Puoi usare questo comando per applicare un bagliore al testo di una carta o per alternare la sua Gen, Nome o Serie",
+    "FONT_CATEGORY": "Cosmetici"
+}

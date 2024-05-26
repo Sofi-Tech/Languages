@@ -1,4 +1,6 @@
 {
     "PROVIDE_FILTER": "{{author}} Fornisci un filtro accanto al metodo di ordinamento",
-    "PROVIDE_CATEGORY": "{{author}} Fornisci una delle seguenti categorie```apache\n{{categories}}```"
+    "PROVIDE_CATEGORY": "{{author}} Fornisci una delle seguenti categorie```apache\n{{categories}}```",
+    "TOO_LONG_FILTER": "{{author}} Il filtro che hai fornito è troppo lungo, riprova",
+    "TOO_MANY_FILTER_GROUPS": "{{author}} Puoi avere solo 5 gruppi di filtri, riprova"
 }
