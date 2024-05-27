@@ -5,7 +5,7 @@
     "TAG_NOT_FOUND": "{{author}} `{{tag}}` adında herhangi bir etiket bulunamadı",
     "BUTTON_NAME_LABEL": "Ad",
     "BUTTON_EMOJI_LABEL": "Emoji",
-    "EMBED_TITLE": "SOFI: ETİKETİ GÜNCELLE",
+    "EMBED_TITLE": "SOFI: UPDATE TAG",
     "EMBED_DESCRIPTION": "`{{tagName}}` etiketinin hangi bölümünü güncellemek istersiniz?",
     "REPLACE_NAME": "`{{tagName}}` yerine geçecek bir ad girin",
     "TAGNAME_EXISTS": "{{author}} `{{newTagName}}`Adına sahip bir etiketiniz zaten var",
@@ -17,5 +17,5 @@
     "REPLACE_EMOJI": "{{emoji}} nin değiştirilmesini istediğiniz emojiyi girin",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Bu, geçersiz bir emoji",
     "REPLACE_EMOJI_CONFIRMATION": "Bu etiketin {{oldEmoji}} olan emojisini {{newEmoji}} olarak değiştirmek istediğinizden emin misiniz?",
-    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Bu etiketin {{oldEmoji}} olan emojisi {{newEmoji}} olarak başarıyla güncellendi"
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Bu etiketin {{oldEmoji}} olan emojisi başarıyla {{newEmoji}} olarak güncellendi"
 }

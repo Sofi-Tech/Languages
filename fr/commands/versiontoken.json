@@ -1,4 +1,8 @@
 {
     "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
-    "PLAYER_NOT_EXIST": "{{author}} Cet utilisateur n'est pas inscrit"
+    "PLAYER_NOT_EXIST": "{{author}} Cet utilisateur n'est pas inscrit",
+    "SORT_CHAR": "Nom",
+    "SORT_SERIES": "Série",
+    "SORT_WL": "Nombre de Souhaits",
+    "CHOOSE_SORTING": "Trier par"
 }

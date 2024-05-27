@@ -8,7 +8,7 @@
     "SOFI_CARDS_MISSING": "{{author}} Il n'y a actuellement pas assez de cartes dans la collection de Sofi",
     "SERIES": "Série:",
     "NAME": "Nom:",
-    "CHEST_INFO": "Les coffres d'event peuvent être ouverts sans événement actif",
+    "CHEST_INFO": "Les coffres d'event peuvent être ouverts sans event actif",
     "PROVIDE_NUM": "{{author}} Vous ne pouvez ouvrir qu'un maximum de **10** **{{chestName}}** à la fois",
     "CHEST_MISSING": "{{author}} Vous n'avez pas **{{count}}** **{{chestName}}** dans votre inventaire",
     "COMMON_INFO_1": "Vous avez ouvert **{{totalChests}}** **{{chestName}}**",
@@ -19,15 +19,15 @@
     "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
     "GUILD_CHEST_FOOTER": "Vous pouvez obtenir un Guild Chest à la fin de chaque saison",
     "GUILD_PACKAGE_SUCCESS": "Toutes nos félicitations! Votre **Guild Package** contenait la carte **{{charName}}** `3D-V2` et 💳 **{{amount}}x** **Gen Scratcher**",
-    "CLAIMED": "Revendiquées",
+    "CLAIMED": "Revendiqué(e)s",
     "PROCESS_CANCELLED": "Le processus a été annulé",
-    "GUILD_PACKAGE_PROMPT": "**__Pool de Carte Actuel__**\n{{poolLine}}\n\nÊtes-vous sûr(e) de vouloir ouvrir ce package?",
+    "GUILD_PACKAGE_PROMPT": "**__Pool de Carte Actuel__**\n{{poolLine}}\n\nÊtes-vous sûr(e) de vouloir ouvrir ce paquet?",
     "COMMON_RARE_FOOTER_zero": "Vous pouvez obtenir un {{chestName}} toutes les {{count}} séries de daily",
     "COMMON_RARE_FOOTER_one": "Vous pouvez obtenir un {{chestName}} toutes les {{count}} séries de daily",
     "COMMON_RARE_FOOTER_two": "Vous pouvez obtenir un {{chestName}} toutes les {{count}} séries de daily",
     "COMMON_RARE_FOOTER_few": "Vous pouvez obtenir un {{chestName}} toutes les {{count}} séries de daily",
     "COMMON_RARE_FOOTER_other": "Vous pouvez obtenir un {{chestName}} toutes les {{count}} séries de daily",
     "COMMON_RARE_FOOTER_many": "Vous pouvez obtenir un {{chestName}} toutes les {{count}} séries de daily",
-    "VERSION_CHEST_FOOTER": "Les Coffres de version peuvent être échangés et ouvert à tout moment",
-    "EQUIP_EQUIPMENTS": "Utilisez 'sstats <CodedeCarte>' pour équiper les équipements"
+    "VERSION_CHEST_FOOTER": "Les Coffres de Version peuvent être échangés et ouverts à tout moment",
+    "EQUIP_EQUIPMENTS": "Utilisez 'sstats <CodeDeCarte>' afin d'équiper les équipements"
 }
