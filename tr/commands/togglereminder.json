@@ -1,7 +1,7 @@
 {
-  "TOGGLEREMINDER_DESCRIPTION": "Hatırlatıcılarınızı kapatır",
-  "RM_CATEGORY": "Ayarlar",
-  "REMINDER_ENABLED": "{{author}} Artık **`{{reminder}}`** hazır olduğunda bilgilendirileceksiniz",
-  "REMINDER_DISABLED": "{{author}} **`{{reminder}}`** hazır olduğunda artık size bildirim gönderilmeyecek",
-  "PROVIDE_REMINDER_NAME": "{{author}} Doğru kullanım: `{{prefix}}tr <Vote/Daily/Bump>"
+    "TOGGLEREMINDER_DESCRIPTION": "Bu komut ile hatırlatıcılarınızın durumunu değiştirebilirsiniz. Alternatif olarak \"Cooldown\" komutunu kullanıp zil ikonuna da tıklayabilirsiniz",
+    "RM_CATEGORY": "Ayarlar",
+    "REMINDER_ENABLED": "{{author}} Artık **{{reminder}}** hazır olduğunda bilgilendirileceksiniz",
+    "REMINDER_DISABLED": "{{author}} **{{reminder}}** hazır olduğunda artık size bildirim gönderilmeyecek",
+    "PROVIDE_REMINDER_NAME": "{{author}} Doğru kullanım: `{{prefix}}tr <Vote/Daily/Bump>"
 }
