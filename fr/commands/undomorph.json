@@ -6,10 +6,10 @@
     "NO_CHARACTER": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
     "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte **GIF**",
     "NOT_MORPHED": "{{author}} Cette carte n'a pas de morph appliqué",
-    "EMBED_TITLE": "SOFI: UNDOMORPH",
-    "UM_CONFIRMATION": "Êtes-vous sûr(e) de vouloir supprimer le morph de cette carte pour **{{count}}** {{currencyEmoji}}?",
+    "EMBED_TITLE": "SOFI: REMOVE MORPH",
+    "UM_CONFIRMATION": "Êtes-vous sûr(e) de vouloir retirer le morph de cette carte pour **{{count}}** {{currencyEmoji}}?",
     "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
     "SOMETHING_WENT_WRONG": "{{author}} Quelque chose s'est mal passé, essayer à nouveau s'il vous plaît",
     "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de **{{currency}}** pour ce processus",
-    "UM_SUCCESSFUL": "{{author}} Le morph a été retiré avec succès de cette carte"
+    "UM_SUCCESSFUL": "{{author}} Le morph de cette carte a été retiré avec succès"
 }
