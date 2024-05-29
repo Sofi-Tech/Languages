@@ -10,5 +10,10 @@
     "AMOUNT": "Anda menerima: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Jumlah pull: [ {{pullcount}} ]",
     "RATES": "Rate",
-    "PULL_CHANCES": "**__Peluang__**"
+    "PULL_CHANCES": "**__Peluang__**",
+    "GIF_CHANCE": "Tarik dan dapatkan kesempatan mendapatkan kartu GIF",
+    "GIFS": "GIFS",
+    "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
+    "ACTIVE_POOL": "**Active Pool**",
+    "GIF_EMBED_FOOTER": "Anda memiliki peluang 0,5% untuk mendapatkan kartu animasi dari penarikan"
 }
