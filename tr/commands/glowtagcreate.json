@@ -1,8 +1,8 @@
 {
-  "GLOWTAGCREATE_DESCRIPTION": "Bir \"Glow Tag\"i oluşturur",
-  "GTC_CATEGORY": "Tags",
-  "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gtc <EtiketAdı> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} O emoji geçersiz",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} Bu isme sahip bir \"Glow Tag\" zaten var",
-  "CREATED_GLOWTAG": "{{author}} Başarı ile `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu"
+    "GLOWTAGCREATE_DESCRIPTION": "Bir \"Glow Tag\" oluşturur",
+    "GTC_CATEGORY": "Etiketler",
+    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gtc <EtiketAdı> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Bu isme sahip bir \"Glow Tag\" zaten var",
+    "CREATED_GLOWTAG": "{{author}} Başarı ile `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu"
 }

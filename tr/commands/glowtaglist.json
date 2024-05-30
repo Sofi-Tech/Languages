@@ -1,7 +1,7 @@
 {
     "GLOWTAGLIST_DESCRIPTION": "Bu komut tüm Glow etiketlerinizi içeren bir liste görüntüleyecektir",
     "GTL_CATEGORY": "Etiketler",
-    "NO_TAGS": "{{author}} Henüz bir **Glow** etiketiniz yok",
+    "NO_TAGS": "{{author}} Henüz **Glow** etiketiniz yok. Bunları şu komutla oluşturabilirsiniz: `{{prefix}}gtc <İsim> <Emoji>`",
     "EMBED_TITLE": "SOFI: GLOW ETİKET LİSTESİ",
     "GLOWS_few": "{{count}} Glowlar",
     "GLOWS_two": "{{count}} Glowlar",

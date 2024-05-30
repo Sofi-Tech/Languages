@@ -1,15 +1,15 @@
 {
-    "GLOWNAME_DESCRIPTION": "Gunakan perintah ini untuk mengubah nama Glow anda",
+    "GLOWNAME_DESCRIPTION": "Gunakan perintah ini untuk mengubah nama Glow Anda",
     "GN_CATEGORY": "Kosmetik",
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki **Glows**",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <KodeGlow> <NamaBaru>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Kode **Glow** selalu dimulai dengan `#`",
     "GLOW_NOT_FOUND": "{{author}} Kode **Glow** yang anda berikan tidak valid atau tidak tersedia di inventory",
-    "GLOW_NAME_LONG": "{{author}} Nama **Glow** hanya boleh terdiri dari **25** karakter",
+    "GLOW_NAME_LONG": "{{author}} Nama **Glow** Anda hanya boleh terdiri dari **25** karakter",
     "GLOW_NAME_EXISTS": "{{author}} Nama itu sudah ditetapkan ke **Glow** yang berbeda",
     "EMBED_TITLE": "SOFI: GLOWNAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "Apakah anda yakin ingin mengubah nama **Glow** anda dari `{{oldName}}` menjadi `{{newName}}`?",
     "MISSING_ITEMS": "{{author}} Anda tidak memiliki cukup **{{currency}}** untuk proses ini",
     "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Berhasil mengubah nama **Glow** anda menjadi `{{newName}}`",
-    "PROFANE_GLOW_NAME": "{{author}} Nama **Glow** anda tidak boleh mengandung kata-kata yang tidak senonoh atau menghina"
+    "PROFANE_GLOW_NAME": "{{author}} Nama **Glow** Anda tidak boleh mengandung kata-kata yang tidak senonoh atau menghina"
 }

@@ -1,15 +1,15 @@
 {
-    "GLOWNAME_DESCRIPTION": "\"Glow\"un adını değiştirin",
+    "GLOWNAME_DESCRIPTION": "Glow'unuzun adını değiştirmek için bu komutu kullanın",
     "GN_CATEGORY": "Kozmetik",
-    "UNLOCK_GLOWS": "{{author}} Henüz hiç `Glows` unuz bulunmamaktadır",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowCode> <NewName>`",
+    "UNLOCK_GLOWS": "{{author}} Henüz hiç **Glows** unuz bulunmamaktadır",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowKodu> <Yeniİsim>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} **Glow** kodları her zaman `#` ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız **Glow** kodu ya geçersiz ya da envanterinizde yok",
-    "GLOW_NAME_LONG": "{{author}} `Glow` adları en fazla 25 karakter içerebilir",
-    "GLOW_NAME_EXISTS": "{{author}} `Glow` adı zaten başka bir yerde kullanılıyor",
-    "EMBED_TITLE": "SOFI: GLOWNAME",
-    "GLOWNAME_CHANGE_CONFIRMATION": "`{{oldName}}` adını `{{newName}}` olarak değiştirmek istediğinizden emin misiniz?",
-    "MISSING_ITEMS": "Bu işlem için yeterli para biriminiz yok",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "`Glow` adı başarıyla değiştirildi",
-    "PROFANE_GLOW_NAME": "{{author}} isimle ilgili bir sorun var. Başka bir tane deneyin"
+    "GLOW_NAME_LONG": "{{author}} **Glow**'unuzun adı yalnızca **25** karakter uzunluğunda olabilir",
+    "GLOW_NAME_EXISTS": "{{author}} Bu ad zaten farklı bir **Glow**'a atanmış",
+    "EMBED_TITLE": "SOFI: GLOW İSMİ",
+    "GLOWNAME_CHANGE_CONFIRMATION": "**Glow**'unuzun `{{oldName}}` olan adını `{{newName}}` olarak değiştirmek istediğinizden emin misiniz?",
+    "MISSING_ITEMS": "{{author}} Bu işlem için yeterli **{{currency}}** elinizde yok",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} **Glow**'unuzun adı başarıyla `{{newName}}` olarak değiştirildi",
+    "PROFANE_GLOW_NAME": "{{author}} **Glow**'unuzun adı küfür veya aşağılayıcı kelimeler içermemelidir"
 }

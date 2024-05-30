@@ -5,7 +5,7 @@
     "NOT_ENOUGH_CURR": "{{user}} Anda tidak memiliki cukup **{{currency}}** untuk memulai permainan",
     "INFO_1": "{{user}} telah memulai permainan tebak-tebakan!",
     "INFO_2": "Biaya Partisipasi: **{{bet}}** {{currencyEmoji}}",
-    "INFO_3": "Prize Pool: **{{jackpot}}** {{currencyEmoji}}",
+    "INFO_3": "Kolam Hadiah: **{{jackpot}}** {{currencyEmoji}}",
     "FOOTER": "Klik 🍻 untuk berpartisipasi! Mulai permainan dengan menekan tombol🟢",
     "REQ_MORE_PLAYERS": "{{user}} Anda memerlukan setidaknya **2** pemain untuk memulai permainan",
     "GUESS_THE_WORD": "{{participants}}\n\nMenguraikan kata **Inggris**: `{{scrambledWord}}`",

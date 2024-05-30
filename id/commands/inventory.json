@@ -1,10 +1,10 @@
 {
     "INVENTORY_DESCRIPTION": "Menggunakan perintah ini akan menampilkan inventaris pengguna",
-    "SLASH_DESC": "Pilih pengguna untuk melihat inventory mereka",
-    "SLASH_DESC2": "Masukkan item yang ingin anda cari",
+    "SLASH_DESC": "Pilih pengguna untuk melihat inventaris mereka",
+    "SLASH_DESC2": "Masukkan item yang ingin Anda cari",
     "NOT_REGISTER": "{{author}} Pengguna tersebut tidak terdaftar",
     "NO_USER_FOUND": "{{author}} Tidak dapat menemukan pengguna",
-    "INV_PRIVATE": "{{author}} Inventory pengguna tersebut bersifat privat",
+    "INV_PRIVATE": "{{author}} Inventaris pengguna tersebut bersifat pribadi",
     "ITEMS": "Item",
     "FRAMES": "Frame",
     "CRYSTALS": "Crystals",
@@ -13,7 +13,7 @@
     "SELF_INV_EMPTY": "{{author}} Inventory anda kosong",
     "USER_INV_EMPTY": "{{author}} Inventory pengguna tersebut kosong",
     "NO_BG_FOUND": "Tidak dapat menemukan **Backgrounds**",
-    "NO_ITEM_FOUND": "{{author}} Tidak dapat menemukan item tersebut di inventory anda",
+    "NO_ITEM_FOUND": "{{author}} Tidak dapat menemukan item tersebut dalam inventaris Anda",
     "NO_ITEMS_INVENTORY": "Tidak dapat menemukan item apa pun",
     "NO_ITEM_FOUND_OTHERS": "{{author}} Tidak dapat menemukan item tersebut dalam inventaris pengguna ini",
     "CHECK_INVENTORY": "Pilih Kategori",
@@ -27,5 +27,6 @@
     "FRAME_CATEGORY_LIMITED": "Terbatas",
     "FRAME_CATEGORY_DISCONTINUED": "Dihentikan",
     "FRAME_CATEGORY_CUSTOM": "Kustom",
-    "FRAME_CATEGORY_MONTHLY": "Bulanan"
+    "FRAME_CATEGORY_MONTHLY": "Bulanan",
+    "EQUIPMENTS": "Perlengkapan"
 }

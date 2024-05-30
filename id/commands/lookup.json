@@ -1,5 +1,5 @@
 {
-    "LOOKUP_DESCRIPTION": "Dengan perintah ini, Anda dapat mencari karakter tertentu yang Anda inginkan. Embed yang dihasilkan kemudian akan menunjukkan kepada Anda Versi yang berbeda, serta varian Acara",
+    "LOOKUP_DESCRIPTION": "Dengan perintah ini, Anda dapat mencari karakter tertentu yang Anda inginkan. Sematan yang dihasilkan kemudian akan menunjukkan kepada Anda Versi yang berbeda, serta varian Acara",
     "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama `{{arg}}`\n\n``` perbaiki\nCatatan: Menggunakan flag `-f` membuat fungsi peka huruf besar-kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -12,7 +12,7 @@
     "WISHLISTED": "Wishlist",
     "VERSIONS": "Versi",
     "MULTI": "Multi",
-    "EVENTS": "Events",
+    "EVENTS": "Acara",
     "EVENT": "Event",
     "UPCOMING_EVENT": "Event Mendatang",
     "NO_OWNER_FOUND": "Belum ada yang memiliki varian **2D** dari karakter ini"

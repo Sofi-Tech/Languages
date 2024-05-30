@@ -1,12 +1,12 @@
 {
     "GLOWTAG_DESCRIPTION": "Bu komutla Glow'unuza bir etiket atayabilirsiniz. Glow etiketi oluşturmak için \"Glowtagcreate\" komutunu kullanın",
     "GT_CATEGORY": "Etiketler",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz **Glow** etiketiniz yok. Bunları şu komutla oluşturabilirsiniz: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Henüz **Glow** etiketiniz yok. Bunları şu komutla oluşturabilirsiniz: `{{prefix}}gtc <İsim> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Henüz hiç **Glow**'unuz yok",
     "INVALID_GLOW_CODE": "{{author}} Sağladığınız **Glow** kodlarından en az biri geçersiz veya envanterinizde bulunmuyor",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** başarıyla `{{tag}}` olarak etiketlendi",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tüm seçilen **Glow**'lar başarıyla `{{tag}}` şekilde etiketlendi",
     "INVALID_GLOW_SINGULAR": "{{author}} Sağladığınız **Glow** kodu geçersiz veya envanterinizde bulunmamakta",
-    "GLOW_TAG_INVALID": "{{author}} `{{tagname}}` Şu adla herhangi bir **Glow** etiketiniz yok",
-    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gt <TagName> <GlowCode>`"
+    "GLOW_TAG_INVALID": "{{author}} `{{tagname}}` adlı herhangi bir **Glow** etiketiniz yok",
+    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gt <Etiketİsmi> <GlowKodu>`"
 }

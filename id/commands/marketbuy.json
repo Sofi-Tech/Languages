@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Menggunakan perintah ini dalam kombinasi dengan Order-ID dari pasar yang diikuti dengan jumlah, akan membuka embed transaksi untuk membeli Wist dari pemain lain. Gunakan perintah \"Market\" untuk melihat semua pesanan yang tersedia",
+    "MARKETBUY_DESCRIPTION": "Menggunakan perintah ini dalam kombinasi dengan Order-ID dari pasar yang diikuti dengan jumlah, akan membuka embed transaksi untuk membeli Wist dari pemain lain. Gunakan perintah “Market” untuk melihat semua pesanan yang tersedia",
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}mbuy <OfferID> <JumlahWist>`",
     "INVALID_DEAL_ID": "{{author}} ID-Pesanan yang anda berikan tidak valid",
     "CANNOT_PURCHASE": "{{user}} Anda tidak dapat berinteraksi dengan pesanan ini",
@@ -7,12 +7,12 @@
     "WIST_NOT_EXCEED": "{{author}} Pesanan hanya tersisa **{{amount}}** `{{currency}}` untuk dibeli",
     "PRODUCT": "Anda menerima:",
     "VALUE": "Anda membayar:",
-    "RATE": "Kurs:",
+    "RATE": "Tarif:",
     "ALREADY_IN_PURCHASE": "{{author}} Anda sudah memiliki jendela transaksi yang aktif",
     "PURCHASE_CANCELLED": "{{author}} Pesanan itu sudah tidak tersedia lagi",
     "MISSING_GEMS": "{{author}} Anda tidak memiliki cukup **{{currency}}** untuk proses ini",
     "SOMETHING_WRONG": "{{author}} Terjadi kesalahan. Mohon coba lagi",
     "PURCHASE_SUCCESSFUL": "{{author}} Berhasil membeli **{{boughtCount}}** {{currency}}",
     "SUCCESS": "{{user}} Anda telah berhasil menjual **{{orderPrice}}** {{currency}} dan menerima **{{soldAmount}}** {{currencySoldEmoji}} ! | Order-ID: `{{dealId}}`",
-    "MB_EMBED_TITLE": "SOFI: MARKETBUY"
+    "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }

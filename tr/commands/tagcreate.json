@@ -2,7 +2,7 @@
     "TAGCREATE_DESCRIPTION": "Bu komutu kullanarak kendi kriterlerine uyan birçok kartı kategorize etmek ve gruplandırmak için etiketler oluşturabilirsin. Var olan etiketlerini kartlarına atamak için \"Tag\" komutunu kullan",
     "TC_CATEGORY": "Etiketler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}tc <TagName> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} O emoji geçersiz",
+    "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
     "INVALID_TAGNAME_FORMAT": "{{author}} Etiketinizin adı alfanümerik olmalıdır ve özel karakter, boşluk veya küfür içeremez",
     "LONG_TAGNAME": "{{author}} `Tag`'ınızın adı en fazla **20** karakter uzunluğunda olabilir",
     "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir `Tag`ınız var",
