@@ -2,6 +2,7 @@
     "WISHLIST_DESCRIPTION": "Using this command will list a user's wished for characters. To add a character to your own wishlist use the \"Wishlistadd\" command",
     "CATEGORY": "Wishlist",
     "USER_NOT_FOUND": "{{author}} Could not find that user",
+    "PAGE": "Copy Page - {{page}}",
     "WISHLIST_PRIVATE": "{{author}} That user has set their wishlist to private",
     "WISHLIST_EMPTY_SELF": "{{author}} Your wishlist is empty",
     "WISHLIST_EMPTY": "{{author}} That user's wishlist is empty",

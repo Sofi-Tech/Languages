@@ -29,6 +29,8 @@
     "REWARD_ALREADY_CLAIMED": "The reward was already claimed",
     "QUEST_REWARDS_ONE": "The quest got {{shardCount}} Shards and {{silver}} Silver",
     "QUEST_REWARDS_TWO": "The quest got {{shardCount}} Shards, {{silver}} Silver and {{xpSacks}} XP Sacks",
+    "QUEST_REWARDS_THREE": "The quest got {{shardCount}} Shards, {{silver}} Silver and {{ingotCount}} {{ingotName}} Ingot",
+    "QUEST_REWARDS_FOUR": "The quest got {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks and {{ingotCount}} {{ingotName}} Ingot",
     "SELECT_DECK_START": "Please select a deck to start the quest",
     "DECK_SELECTED_zero": "{{deck}} is now out on {{quest}} for {{count}} hours",
     "DECK_SELECTED_one": "{{deck}} is now out on {{quest}} for {{count}} hour",
