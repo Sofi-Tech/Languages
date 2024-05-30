@@ -1,7 +1,7 @@
 {
-  "PROFILE_DESCRIPTION": "This command will display a user's profile, alongside their selected background, highlighted card and badges. You can configure your own profile card by using the \"Profileconfig\" command",
-  "PRO_CATEGORY": "Settings",
-  "USER_NOT_FOUND": "{{author}} Could not find that user",
-  "PROFILE_NOT_FOUND": "{{author}} That user is not registered",
-  "GIF_ENABLED": "Your profile has gif enabled. Load your gif profile by using `spc` and then click reload option from the dropdown"
+    "PROFILE_DESCRIPTION": "This command will display a user's profile, alongside their selected background, highlighted card and badges. You can configure your own profile card by using the \"Profileconfig\" command",
+    "PRO_CATEGORY": "Settings",
+    "USER_NOT_FOUND": "{{author}} Could not find that user",
+    "PROFILE_NOT_FOUND": "{{author}} That user is not registered",
+    "GIF_ENABLED": "Your profile has GIF feature enabled. To load your GIF profile use `spc` command and click on the `Reload GIF profile` button in the dropdown menu"
 }
