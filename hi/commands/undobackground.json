@@ -3,7 +3,7 @@
     "UB_CATEGORY": "COSMETICS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}undobg <CardCode>`",
     "NO_CHARACTER_FOUND": "{{author}} यह पात्र अब Sofi पर मौजूद नहीं है तथा अब इस पर काम नही किया जा सकता है",
-    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड या तो अमान्य है या आपके संग्रह में नहीं है",
+    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
     "NO_GIF_CARD": "{{author}} **GIF** पत्तों से **Background** हटाया नही जा सकता",
     "NO_BACKGROUND": "{{author}} उस पत्ते पर कोई भी **Background** नहीं लगाया गया है",
     "EMBED_TITLE": "SOFI: REMOVE BACKGROUND",

@@ -2,7 +2,7 @@
     "UNDOMORPH_DESCRIPTION": "पत्ते से morph हटाता है",
     "UM_CATEGORY": "COSMETICS",
     "UM_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}um <CardCode>`",
-    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड या तो अमान्य है या आपके संग्रह में नहीं है",
+    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
     "NO_CHARACTER": "{{author}} यह पात्र अब Sofi पर मौजूद नहीं है तथा अब इस पर कार्य नही किया जा सकता है",
     "NO_GIF": "{{author}} आप **GIF** पत्ते से सौंदर्य नहीं हटा सकते है",
     "NOT_MORPHED": "{{author}} वह पत्ते पर कोई मॉर्फ लागू नही है",

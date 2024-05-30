@@ -2,7 +2,7 @@
     "USEFRAME_DESCRIPTION": "इस कमांड से आप पत्ते पर चयनित Frame लगा सकते है। आप \"Frameshop\" कमांड का उपयोग करके Frame खरीद सकते हैं",
     "UF_CATEGORY": "COSMETICS",
     "UF_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
-    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड या तो अमान्य है या आपके संग्रह में नहीं है",
+    "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
     "CANNOT_APPLY": "{{author}} आप **3D** पत्ते पर **Frame** नहीं लगा सकते हैं",
     "NO_GIF": "{{author}} आप **GIF** पत्ते पर **Frame** नहीं लगा सकते हैं",
     "NO_FRAMES_FOUND": "{{author}} आपके द्वारा प्रदान किया गया **Frame** कोड या तो अमान्य है या आपके संग्रह में मौजूद नहीं है",

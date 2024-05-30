@@ -9,7 +9,7 @@
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}g <user/userID> <cardcode>`",
     "NO_CARD_FOUND": "{{author}} आपके द्वारा प्रदान किया गया कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
     "CARD_LOCKED": "{{author}} यह पत्ता लॉक किया गया है तथा दिया नहीं जा सकता। `{{prefix}}ut <CardCode>` का उपयोग करके पत्ते को अनलॉक करे।",
-    "CANCELLED": "प्रक्रिया रद्द कर दी गई है",
+    "CANCELLED": "प्रक्रिया रद्द की गई",
     "AUTHOR_NOT_VERIFIED": "{{author}} आप वेरिफाइड नहीं है।",
     "MEM_NOT_VERIFIED": "{{author}} वह उपयोगकर्ता वेरिफाइड नहीं है।",
     "AUTHOR_BLACKLISTED": "{{author}} आप संदिग्ध-सूची में है।",
