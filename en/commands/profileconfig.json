@@ -71,10 +71,10 @@
     "REMOVE_FONT_GLOW": "Are you sure you want to remove the **Glow**?",
     "SET_FONT_GLOW": "Are you sure you want to apply the **{{glowName}}** **Glow** to your profile's font?",
     "CARD_NOT_FOUND": "{{author}} Selected card not found",
-    "ANIMATED_FEATURE": "Your profile picture or selected card must be animated to use this feature",
-    "PROCESSING_GIF": "Processing your GIF... <a:_:876610443148406794>\nThis may take some time, you can continue playing",
-    "BUILDING_COMPONENTS": "Building components... 🏗️ <a:_:876610443148406794>",
-    "COMBINING_ELEMENTS": "Combining elements... 🔄 <a:_:876610443148406794>",
-    "FINAL_TOUCHES": "Applying final touches... ✨ <a:_:876610443148406794>",
-    "GIF_SUCCESSFUL": "GIF profile was successfully generated. Use `spro` to view"
+    "ANIMATED_FEATURE": "{{author}} Your profile picture or selected card must be animated to use this feature",
+    "PROCESSING_GIF": "{{author}} Processing your GIF... <a:_:876610443148406794>\nThis may take some time, you can continue playing",
+    "BUILDING_COMPONENTS": "{{author}} Building components... 🏗️ <a:_:876610443148406794>",
+    "COMBINING_ELEMENTS": "{{author}} Combining elements... 🔄 <a:_:876610443148406794>",
+    "FINAL_TOUCHES": "{{author}} Applying final touches... ✨ <a:_:876610443148406794>",
+    "GIF_SUCCESSFUL": "{{author}} GIF profile was successfully generated. Use `spro` to view"
 }
