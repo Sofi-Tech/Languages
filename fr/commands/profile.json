@@ -2,5 +2,6 @@
     "PROFILE_DESCRIPTION": "Cette commande affichera le profil d'un utilisateur, avec son background sélectionné, sa carte mise en évidence et ses badges. Vous pouvez configurer votre propre carte de profil en utilisant la commande \"Profileconfig\"",
     "PRO_CATEGORY": "Réglages",
     "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
-    "PROFILE_NOT_FOUND": "{{author}} Cet utilisateur n'est pas enregistré"
+    "PROFILE_NOT_FOUND": "{{author}} Cet utilisateur n'est pas enregistré",
+    "GIF_ENABLED": "Votre profil a l'option GIF d'activée. Pour charger votre profil GIF utilisez la commande `spc` et cliquez sur le bouton `Recharger le profil GIF` dans le menu déroulant"
 }
