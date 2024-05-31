@@ -9,5 +9,5 @@
     "EMBED_FOOTER": "You can restore this card until",
     "MISSING_CURRENCY": "{{author}} You need {{amount}}** {{currency}}** to restore a card",
     "RESTORE_SUCCESSFUL": "{{author}} The card with code `{{code}}` has been successfully restored",
-    "RESTORE_FAILED": "The card with code `{{code}}` cannot be restored"
+    "RESTORE_FAILED": "{{author}} The process has been cancelled"
 }

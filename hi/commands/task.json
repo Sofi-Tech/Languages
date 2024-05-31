@@ -64,5 +64,7 @@
     "ELEMENT_INFO": "तत्व: **{{element}}**",
     "TYPE": "प्रकार: **{{type}}**",
     "CAPABILITY": "क्षमता: {{capability}}",
-    "NOT_AVAILABLE": "अनुपलब्ध"
+    "NOT_AVAILABLE": "अनुपलब्ध",
+    "QUEST_REWARDS_THREE": "क्वेस्ट में {{shardCount}} Shards, {{silver}} Silver और {{ingotCount}} {{ingotName}} Ingot मिले",
+    "QUEST_REWARDS_FOUR": "क्वेस्ट में {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks और {{ingotCount}} {{ingotName}} Ingot मिले"
 }
