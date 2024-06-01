@@ -1,1 +1,14 @@
-{}
+{
+    "RESTORECARD_DESCRIPTION": "Usa este comando para restaurar una carta quemada en los 3 días siguientes desde que se quemó",
+    "RESTORECARD_CATEGORY": "Cartas",
+    "CARD_NOT_FOUND": "{{author}} La carta con el código `{{code}}` no ha sido encontrada en tus cartas quemadas",
+    "CARD_EXPIRED": "{{author}} La carta con el código `{{code}}` ha caducado y no puede ser restaurada",
+    "EMBED_TITLE": "SOFI: RESTORE CARD",
+    "RESTORE_CONFIRMATION": "¿Estás seguro de que quieres restaurar la carta `{{code}}` con {{amount}} **{{currency}}**?",
+    "EMBED_FOOTER": "Puedes restaurar esta carta hasta",
+    "MISSING_CURRENCY": "{{author}} Necesitas {{amount}}** {{currency}}** para restaurar una carta",
+    "RESTORE_SUCCESSFUL": "{{author}} La carta con el código `{{code}}`ha sido restaurada correctamente",
+    "RESTORE_FAILED": "{{author}} El proceso ha sido cancelado",
+    "ENTER_CODE": "{{author}} Uso correcto: `{{prefix}}restore <CódigoDeCarta>`",
+    "CARD_NOT_BURNED": "{{author}} La carta con el código `{{code}}` aún no ha sido quemada"
+}

@@ -9,5 +9,6 @@
     "RESTORE_FAILED": "{{author}} Процесс отменен",
     "CARD_EXPIRED": "{{author}} Срок восстановления карты с кодом `{{code}}` истек, вы больше не можете ее восстановить",
     "CARD_NOT_FOUND": "{{author}} Не удалось найти карту с кодом `{{code}}` в списке сожженных вами карт",
-    "ENTER_CODE": "{{author}} Правильное использование: `{{prefix}}restore <CardCode>`"
+    "ENTER_CODE": "{{author}} Правильное использование: `{{prefix}}restore <CardCode>`",
+    "CARD_NOT_BURNED": "{{author}} Вы еще не сожгли карту с кодом `{{code}}`"
 }

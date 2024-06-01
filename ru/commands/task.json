@@ -64,5 +64,7 @@
     "CAPABILITY": "Потенциал: {{capability}}",
     "ELEMENT_PREFERENCE": "Стихийные предпочтения: {{elements}}",
     "ELEMENT_INFO": "Стихия: **{{element}}**",
-    "GUILD": "Guild"
+    "GUILD": "Guild",
+    "QUEST_REWARDS_THREE": "Выполнение задания принесло вам {{shardCount}} Shards, {{silver}} Silver и {{ingotCount}} {{ingotName}} Ingot",
+    "QUEST_REWARDS_FOUR": "Выполнение задания принесло вам {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks и {{ingotCount}} {{ingotName}} Ingot"
 }

@@ -18,7 +18,7 @@
     "MORPH_CONFRIM": "{{author}} Aplicado con éxito el morph **{{morphName}}** a tu carta",
     "REROLL": "\nNo puedes deshacer más morphs",
     "UNDO_SUCCESSFUL": "\nRestaurado el morph anterior por **{{amount}}** {{emoji}}",
-    "CANNOT_APPLY_MNC": "{{author}} No puedes usar un morph de **{{eventType}}** en cartas **{{eventCardType}}** o cartas **3D**",
+    "CANNOT_APPLY_MNC": "{{author}} No puedes usar un morph de {{article}} **{{eventType}}** en cartas **{{eventCardType}}** o cartas **3D**",
     "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}m <CódigoDeCarta> <ItemDeMorpheo>`",
     "NONE": "Nada",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",

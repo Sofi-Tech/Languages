@@ -2,5 +2,6 @@
     "PROFILE_DESCRIPTION": "Este comando mostrará el perfil de un usuario, acompañado de un fondo, medallas y una carta destacada. Puedes configurar tu propio perfil usando el comando \"Profileconfig\"",
     "PRO_CATEGORY": "Configuración",
     "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
-    "PROFILE_NOT_FOUND": "{{author}} Ese usuario no está registrado"
+    "PROFILE_NOT_FOUND": "{{author}} Ese usuario no está registrado",
+    "GIF_ENABLED": "Tu perfil tiene activada la función GIF. Para cargar tu perfil GIF usa el comando `spc` y haz clic en el botón `Recargar perfil GIF` del menú desplegable"
 }

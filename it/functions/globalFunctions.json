@@ -1,5 +1,5 @@
 {
-    "NEED_GEMS": "{{author}} non hai abbastanza **{{currency}}** per scambiare il codice di queste carte",
+    "NEED_GEMS": "{{author}} Non hai abbastanza **{{currency}}** per scambiare il codice di queste carte",
     "YOU_GET": "Ricevi: {{additionalInfo}}",
     "SWAP_EMBED_FOOTER": "Questo processo scambierà il codice di queste due carte",
     "NOT_ENOUGH_AMOUNT": "{{author}} Non hai abbastanza **{{item}}** per fare questo acquisto",
@@ -11,7 +11,7 @@
     "GUILD_MASTER": "Maestro della Guilda",
     "GUILD_VETERANS": "Veterani",
     "GUILD_ADVENTURER": "Avventuriera",
-    "BUY_EMBED_TITLE": "SOFI: BUY",
+    "BUY_EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_PAY": "Paghi: {{additionalInfo}}",
     "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Hai comprato con successo **{{amount}}** **{{itemName}}**",
     "GS_EMBED_FOOTER": "Questo affare scadrà tra {{date}}"

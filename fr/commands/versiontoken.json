@@ -4,5 +4,19 @@
     "SORT_CHAR": "Nom",
     "SORT_SERIES": "Série",
     "SORT_WL": "Nombre de Souhaits",
-    "CHOOSE_SORTING": "Trier par"
+    "CHOOSE_SORTING": "Trier par",
+    "AUTHOR_NO_TOKENS": "{{author}} Vous n'avez pas encore de **Version Tokens**",
+    "VERSIONTOKEN_DESCRIPTION": "Utilisez cette commande pour voir votre collection de Version Tokens. La collection peut être triée par Nom, Gen, Nombre de souhaits, Versions",
+    "VT_CATEGORY": "Cosmétiques",
+    "USER_PRIVATE": "{{author}} Cet utilisateur a mis sa collection de **Version Tokens** en privé",
+    "USER_NO_TOKENS": "{{author}} Cet utilisateur n'as pas encore de **Version Tokens**",
+    "NOTHING_FOUND": "Aucun **Version Tokens** n'as été trouvé",
+    "INVALID_SERIES": "Série invalide",
+    "SORT_VERSION": "Version",
+    "SORT_CARD": "Carte de Base",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "EMBED_FOOTER": "Page: {{page}}/{{totalPages}} | Total de Version Tokens: {{count}}",
+    "SAVE_FILTER": "500 - Sauvegarder ce Filtre",
+    "SELECT_FILTER": "Sélectionnez un Filtre",
+    "FILTER_NO_VT_FOUND": "{{author}} Auncun **Version Tokens** correspondant à votre filtre sélectionné n'a été trouvé"
 }

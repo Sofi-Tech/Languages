@@ -9,5 +9,6 @@
     "RESTORE_SUCCESSFUL": "{{author}} La carte avec le code `{{code}} ` a été restaurée avec succès",
     "RESTORE_FAILED": "{{author}} Le processus a été annulé",
     "CARD_NOT_FOUND": "{{author}} La carte avec le code `{{code}} ` n'a pas été trouvée dans vos cartes brûlées",
-    "ENTER_CODE": "{{author}} Utilisation correcte: `{{prefix}}restore <CodeDeCarte>`"
+    "ENTER_CODE": "{{author}} Utilisation correcte: `{{prefix}}restore <CodeDeCarte>`",
+    "CARD_NOT_BURNED": "{{author}} La carte avec le code `{{code}} ` n'est pas encore brûlée"
 }
