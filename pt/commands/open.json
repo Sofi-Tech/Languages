@@ -1,19 +1,17 @@
 {
-  "OPEN_DESCRIPTION": "Abre baús e caixas de recompensas",
-  "SLASH_DESC_1": "Digite o nome do \"Item\" que deseja abrir",
-  "SLASH_DESC_2": "Digite a quantidade.",
-  "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}abrir <NomeItem> <Quantidade>`\n`Itens` que podem ser abertos: `Baús`, `Amuletos`",
-  "EMPTY_INV": "{{author}} Seu inventário está vazio",
-  "CHARM_MISSING": "{{author}} Você não possui nenhum `Amuleto`",
-  "SOFI_CARDS_MISSING": "{{author}} Não há cartas suficientes na coleção da Sofi",
-
-  "SERIES": "Série:",
-  "NAME": "Nome:",
-  "CHEST_INFO": "Os baús de eventos ainda podem ser abertos após a conclusão do evento",
-  "PROVIDE_NUM": "Por favor, forneça um número entre **1 e 10**",
-  "CHEST_MISSING": "Você não possui **{{replacedArg}}** Baús `{{chestName}}` em seu inventário.",
-  "COMMON_INFO_1": "Você abriu **{{totalChests}}** Baús `{{chestName}}`",
-  "ITEMS_FOUND": "Itens obtidos:\n",
-
-  "EXOTIC_DIVINE_FOOTER": "Você pode obter um Baú {{chestName}} a cada {{count}} votações por mês"
+    "OPEN_DESCRIPTION": "Abre baús e caixas de recompensas",
+    "SLASH_DESC_1": "Digite o nome do \"Item\" que deseja abrir",
+    "SLASH_DESC_2": "Digite a quantidade.",
+    "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}abrir <NomeItem> <Quantidade>`\n`Itens` que podem ser abertos: `Baús`, `Amuletos`",
+    "EMPTY_INV": "{{author}} Seu inventário está vazio",
+    "CHARM_MISSING": "{{author}} Você não possui nenhum `Amuleto`",
+    "SOFI_CARDS_MISSING": "{{author}} Não há cartas suficientes na coleção da Sofi",
+    "SERIES": "Série:",
+    "NAME": "Nome:",
+    "CHEST_INFO": "Os baús de eventos ainda podem ser abertos após a conclusão do evento",
+    "PROVIDE_NUM": "Por favor, forneça um número entre **1 e 10**",
+    "CHEST_MISSING": "Você não possui **{{replacedArg}}** Baús `{{chestName}}` em seu inventário.",
+    "COMMON_INFO_1": "Você abriu **{{totalChests}}** Baús `{{chestName}}`",
+    "ITEMS_FOUND": "Itens obtidos:\n",
+    "EXOTIC_DIVINE_FOOTER": "Você pode obter um Baú {{chestName}} a cada {{count}} votações por mês"
 }

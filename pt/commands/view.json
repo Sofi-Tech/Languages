@@ -1,11 +1,11 @@
 {
-  "VIEW_DESCRIPTION": "Mostra a carta",
-  "SLASH_DESC1": "Insira o código da carta",
-  "INVALID_CODE": "{{author}} O código da carta fornecido é inválido",
-  "SERIES": "Série:",
-  "NAME": "Nome:",
-  "OWNED_BY": "Propriedade de:",
-  "SERVER": "Servidor",
-  "CLAIMED": "Reivindicado",
-  "MOVES": "Habilidades:"
+    "VIEW_DESCRIPTION": "Mostra a carta",
+    "SLASH_DESC1": "Insira o código da carta",
+    "INVALID_CODE": "{{author}} O código da carta fornecido é inválido",
+    "SERIES": "Série:",
+    "NAME": "Nome:",
+    "OWNED_BY": "Propriedade de:",
+    "SERVER": "Servidor",
+    "CLAIMED": "Reivindicado",
+    "MOVES": "Habilidades:"
 }
