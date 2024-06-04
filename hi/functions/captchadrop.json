@@ -1,10 +1,10 @@
 {
     "EXTRA_GRAB": "{{user}} आपके **Extra Grab** का उपयोग हो रहा है। आपके पास **{{remaining}}** और शेष है",
-    "EMBED_TITLE": "SOFI: CAPTCHA DROP",
-    "EMBED_FOOTER": "कैप्चा लिखकर ऊपर वाला पत्ता प्राप्त करे",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "कैप्चा लिखकर ऊपर मौजूद पत्ता प्राप्त करे",
     "WAIT_TO_CLAIM": "{{user}} दुबारा पत्ता उठाने के लिए **{{cooldown}}** प्रतीक्षा करे",
     "BATTLED_WON_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "TOOK_THE_CARD": "{{user}} ने **{{character}}** पत्ता उठाया (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "BATTLED_AND_WON": "{{winner}} ने {{user}} से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "CANNOT_BE_GRABBED": "{{user}} ने **{{characterName}}** पत्ता उठाया"
+    "CANNOT_BE_GRABBED": "{{user}} ने **{{characterName}}** पत्ता **उठाया**"
 }
