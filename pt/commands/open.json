@@ -13,5 +13,6 @@
     "CHEST_MISSING": "Você não possui **{{replacedArg}}** Baús `{{chestName}}` em seu inventário.",
     "COMMON_INFO_1": "Você abriu **{{totalChests}}** Baús `{{chestName}}`",
     "ITEMS_FOUND": "Itens obtidos:\n",
-    "EXOTIC_DIVINE_FOOTER": "Você pode obter um Baú {{chestName}} a cada {{count}} votações por mês"
+    "EXOTIC_DIVINE_FOOTER": "Você pode obter um Baú {{chestName}} a cada {{count}} votações por mês",
+    "PROCESS_CANCELLED": "O processo foi cancelado"
 }

@@ -1,6 +1,6 @@
 {
-  "WISHLISTCHANNEL_DESCRIPTION": "İstek listenizin hangi kanalı takip edeceğini ayarlar",
-  "CATEGORY": "İstek listesi",
-  "CHANNEL_SET": "{{author}} İstek listeniz {{channel}} kanalına ayarlandı",
-  "CHANNEL_REMOVE": "{{author}} Dilek listeniz {{channel}} kanalından kaldırıldı"
+    "WISHLISTCHANNEL_DESCRIPTION": "İstek listenizi bir kanala sabitlemek için bu komutu kullanın. İstek listenizden bir kart o kanalda göründüğünde Sofi sizi bilgilendirecektir",
+    "CATEGORY": "İstek Listesi",
+    "CHANNEL_SET": "{{author}} İstek listeniz {{channel}} kanalına ayarlandı",
+    "CHANNEL_REMOVE": "{{author}} Dilek listeniz {{channel}} kanalından kaldırıldı"
 }

@@ -4,5 +4,19 @@
     "CHOOSE_SORTING": "Göre sırala",
     "SORT_CHAR": "İsim",
     "SORT_SERIES": "Seri",
-    "SORT_WL": "İstek Listesi"
+    "SORT_WL": "İstek Listesi",
+    "USER_NO_TOKENS": "{{author}} Bu kullanıcının henüz hiç **Version Token**'i yok",
+    "VT_CATEGORY": "Kozmetikler",
+    "AUTHOR_NO_TOKENS": "{{author}} Henüz hiç **Version Token**'leriniz yok",
+    "NOTHING_FOUND": "Hiçbir **Version Token**'i bulunamadı",
+    "INVALID_SERIES": "Geçersiz Seriler",
+    "SORT_CARD": "Temel Kart",
+    "EMBED_FOOTER": "Sayfa: {{page}}/{{totalPages}} | Toplam Versiyon Tokenleri: {{count}}",
+    "SAVE_FILTER": "500 - Bu Filtreyi kaydet",
+    "SELECT_FILTER": "Bir Filtre seç",
+    "SORT_VERSION": "Versiyon",
+    "EMBED_TITLE": "SOFI: VERSIYON TOKEN'I ({{username}})",
+    "USER_PRIVATE": "{{author}} Bu kullanıcı **Versiyon Token**'leri koleksiyonunu özele olarak ayarladı",
+    "VERSIONTOKEN_DESCRIPTION": "Versiyon koleksiyonunuzu görüntülemek için bu komutu kullanın. Koleksiyon İsim, Gen, İstek Listesi ve Versiyonlara göre sıralanabilir",
+    "FILTER_NO_VT_FOUND": "{{author}} Seçtiğiniz filtreyle eşleşen **Version Token**'leri bulunamadı"
 }

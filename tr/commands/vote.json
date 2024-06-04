@@ -1,12 +1,12 @@
 {
-    "VOTE_DESCRIPTION": "Ayda bir kez oy vererek \"Oylama\" ödüllerini alırsınız",
+    "VOTE_DESCRIPTION": "Top.GG'de Sofi'ye oy vermek için bu komutu kullanın. Sofi'ye katkıda bulunduğunuz her Oy, sizi bir Wist ile ödüllendirecektir. Bir ayda sırasıyla 30 ve 50 Oy topladığınızda özel bir Çerçeve içerebilen bir sandıkla ödüllendirileceksiniz",
     "VOTE_CATEGORY": "Ayarlar",
     "VOTE": "Top.GG'de oy ver",
     "BUMP": "BUMP",
-    "EMBED_TITLE": "SOFI: VOTE",
-    "USE_WIST": "Her başarılı `Vote` için bir `Wist` <:wist:870339503427027005> elde edeceksiniz!",
-    "TOTAL_VOTES": "- Toplam `Vote` sayısı: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "> Aylık `Vote` sayısı: **{{monthlyVotes}}**",
-    "VOTE_RESET": "> Sıfırlanmasına: **{{countdown}}**",
-    "EMBED_FOOTER": "Hafta sonlarında iki kat daha fazla \"Wists\" elde edebilirsiniz"
+    "EMBED_TITLE": "SOFI: VOTE ({{username}})",
+    "USE_WIST": "Her başarılı **Vote** için bir **Wist** <:wist:870339503427027005> alacaksınız!",
+    "TOTAL_VOTES": "- Toplam **Vote**'ler: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- Aylık **Vote**'ler: **{{monthlyVotes}}**",
+    "VOTE_RESET": "- Sıfırlanmasına: **{{countdown}}**",
+    "EMBED_FOOTER": "Bir hafta sonu Wist miktarının iki katını alırsınız"
 }
