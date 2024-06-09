@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "Assegna un \"Tag\" al tuo \"Glows\"",
+    "GLOWTAG_DESCRIPTION": "Con questo comando puoi assegnare un tag al tuo Glow. Per creare un tag Glow utilizzare il comando \"Glowtagcreate\"",
     "GT_CATEGORY": "Tags",
     "GLOWTAGS_NOT_FOUND": "{{author}} Non hai ancora nessun **Glow** tag. Puoi crearli con il comando: `{{prefix}}gtc <Nome> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Non hai ancora nessun **Glows**",

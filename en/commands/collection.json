@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "This command will display your entire collection, which you can then be sorted and filtered in various ways. Using this command with additional prompts will open the embed with the specific filter already applied to it. Use the prompt \"t:ut\" in addition to this command to highlight all cards in your collection that don't have a tag currently",
+    "COLLECTION_DESCRIPTION": "This command will display your entire collection, which can then be sorted and filtered in various ways. Using this command with additional prompts will open the embed with the specific filter already applied to it. Use the prompt \"t:ut\" in addition to this command to highlight all cards in your collection that don't have a tag currently",
     "SLASH_CMD_DESC": "Displays your card collection",
     "SLASH_DESC": "Select a user in order to see their collection",
     "SLASH_DESC2": "Enter the filters you want to apply to the collection",

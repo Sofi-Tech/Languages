@@ -3,5 +3,5 @@
     "PROVIDE_REMINDER_NAME": "{{author}} Penggunaan yang benar: `{{prefix}}tr <Vote/Daily/Bump>`",
     "REMINDER_DISABLED": "{{author}} Anda tidak akan lagi diberi tahu ketika **{{reminder}}** anda sudah siap",
     "REMINDER_ENABLED": "{{author}} Anda sekarang akan diberi tahu ketika **{{reminder}}** anda sudah siap",
-    "TOGGLEREMINDER_DESCRIPTION": "Dengan perintah ini, Anda dapat mengganti status pengingat Anda. Anda juga dapat menggunakan perintah \"Cooldown\" dan klik ikon lonceng sebagai alternatif"
+    "TOGGLEREMINDER_DESCRIPTION": "Dengan perintah ini, kamu dapat mengganti status pengingat kamu. Kamu juga dapat menggunakan perintah \"Cooldown\" dan klik ikon lonceng sebagai alternatif"
 }

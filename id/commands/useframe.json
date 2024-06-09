@@ -1,15 +1,15 @@
 {
-    "USEFRAME_DESCRIPTION": "Perintah ini akan mengaplikasikan Frame yang dipilih ke kartu pilihan. Anda dapat membeli Frame dengan menggunakan perintah \"Frameshop\"",
+    "USEFRAME_DESCRIPTION": "Perintah ini akan mengaplikasikan frame yang dipilih ke kartu pilihan. Anda dapat membeli Frame dengan menggunakan perintah \"Frameshop\"",
     "UF_CATEGORY": "Kosmetik",
     "UF_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}uf <KodeKartu> <NamaFrame/KodeFrame>`",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "CANNOT_APPLY": "{{author}} Anda tidak dapat memasang **Frame** ke kartu **3D**",
     "NO_GIF": "{{author}} Anda tidak dapat memasang **Frame** ke kartu **GIF**",
-    "NO_FRAMES_FOUND": "{{author}} Kode **Frame** tersebut tidak valid atau tidak ada dalam invetaris Anda",
+    "NO_FRAMES_FOUND": "{{author}} Kode **Frame** tersebut tidak valid atau tidak ada dalam invetaris anda",
     "EMBED_TITLE": "SOFI: APPLY FRAME",
-    "UF_CONFIRMATION": "Apakah Anda yakin ingin menerapkan **{{frameName}}** **Frame** ke kartu ini?",
+    "UF_CONFIRMATION": "Apakah anda yakin ingin menerapkan **{{frameName}}** **Frame** ke kartu ini?",
     "EMBED_FOOTER": "Mengonfirmasi proses ini akan menghancurkan Frame yang sedang diterapkan",
     "NO_OWNER": "{{author}} Kartu ini sudah tidak ada lagi di koleksi anda",
     "FRAME_NOT_FOUND": "{{author}} Anda tidak memiliki **{{frameName}}** **Frame**",
-    "UF_SUCCESSFUL": "{{author}} Berhasil menerapkan **{{frameName}}** **Frame**ke kartu Anda"
+    "UF_SUCCESSFUL": "{{author}} Berhasil menerapkan **{{frameName}}** **Frame**ke kartu anda"
 }

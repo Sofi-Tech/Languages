@@ -1,5 +1,5 @@
 {
-    "GUESS_DESCRIPTION": "Inizia il gioco di indovina la parola",
+    "GUESS_DESCRIPTION": "Usa questo comando per avviare un gioco d'ipotesi. A tutti i giocatori che partecipano al gioco d'ipotesi verrà detratto l'importo in valuta visualizzato dal loro inventory una volta avviato il gioco. Verrà selezionata una parola inglese casuale e poi codificata. La prima persona che digiterà correttamente la parola originale nella chat sarà il vincitore del gioco d'ipotesi e otterrà la somma di tutte le quote di iscrizione",
     "CORRECT_USAGE": "{{user}} Utilizzo corretto: `{{prefix}}guess <Quantità> <Valuta>`\nValute accettare: **Silver**, **Wists**, **Gems**, **Cubes**",
     "NO_TP": "{{author}} Hai bisogno di un **Trade Pass** attivo per ospitare un gioco di indovinelli",
     "NOT_ENOUGH_CURR": "{{user}} | Non hai abbastanza **{{currency}}** per iniziare il gioco",
