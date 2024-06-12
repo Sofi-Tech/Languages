@@ -55,5 +55,13 @@
     "FILTER_NAME_PLACEHOLDER": "Insira um nome para o seu filtro",
     "FILTER_NAME_TOO_LONG": "{{author}} O nome do seu filtro pode ter apenas **20** caracteres",
     "FILTER_SUCCESS": "{{author}} Este filtro foi salvo como `{{filterName}}`com sucesso",
-    "FILTER_UPDATE_SUCCESS": "{{author}} Atualizou o filtro `{{filterName}}` com sucesso"
+    "FILTER_UPDATE_SUCCESS": "{{author}} Atualizou o filtro `{{filterName}}` com sucesso",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda ao seu filtro selecionado",
+    "FILTER_DELETE": "Excluir um Filtro",
+    "FILTER_NOT_FOUND": "{{author}} Não foi possível encontrar nenhum filtro com o nome `{{arg}}`",
+    "FILTER_DELETE_SUCCESS": "{{author}} Excluiu o filtro `{{filterName}}` com sucesso",
+    "FILTER_LIMIT": "{{author}} Você não pode criar mais filtros",
+    "EXPLAIN_FILTER": "{{author}} Aqui está um fluxograma para ajudá-lo a entender como esse filtro funciona",
+    "SAVE_FILTER": "Selecione um Filtro",
+    "NOT_ENOUGH_SILVER_SAVING": "{{author}} Você não tem **Silver** suficiente para salvar este filtro"
 }

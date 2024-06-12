@@ -1,9 +1,19 @@
 {
-  "COOLDOWN_DESCRIPTION": "Mostra os tempos de espera para as seguintes ações:\n- Drop, Grab, Vote, Raid, Daily e Bump\n- Clique no ícone do sino para receber lembretes via Mensagens Diretas para \"Drop\", \"Vote\" e \"Daily\"!",
-  "JOIN_SUPPORT_SERVER": "[Junte-se ao servidor de suporte para obter ajuda!](https://discord.gg/sofi)",
-  "DROP": "Drop",
-  "GRAB": "Grab",
-  "VOTE": "Vote",
-  "BUMP": "Bump",
-  "DAILY": "Daily"
+    "COOLDOWN_DESCRIPTION": "Este comando exibirá uma lista de seus temporizadores atuais. Se você quiser ser notificado sobre o tempo de espera de Vote/Daily/Bump, clique no ícone de sino abaixo da incorporação",
+    "JOIN_SUPPORT_SERVER": "**[Entre em nosso servidor oficial para obter ajuda!](https://discord.gg/sofi)**",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "READY": "Pronto",
+    "UNREAD_MAIL_other": "\n📫 Você tem **{{count}}** e-mails não lidos",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "UNREAD_MAIL_zero": "\n📫 Você tem **{{count}}** e-mails não lidos",
+    "UNREAD_MAIL_one": "\n📫 Você tem **{{count}}** e-mail não lido",
+    "UNREAD_MAIL_two": "\n📫 Você tem **{{count}}** e-mails não lidos",
+    "UNREAD_MAIL_few": "\n📫 Você tem **{{count}}** e-mails não lidos",
+    "UNREAD_MAIL_many": "\n📫 Você tem **{{count}}** e-mails não lidos",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})"
 }
