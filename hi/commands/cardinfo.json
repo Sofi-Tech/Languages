@@ -7,7 +7,7 @@
     "CARD_FONT": "**फ़ॉन्ट का रंग:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **नाम -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **श्रृंखला -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "**Frame** लगाई गई: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** लगाई गई: **{{frameName}}** (`{{frameCode}}`)\n",
-    "SHOW_GEN": "Gen दिखाएं",
+    "SHOW_GEN": "Gen दिखाए",
     "SERIES": "शृंखला:",
     "NAME": "नाम:",
     "OWNED": "मालिक:",

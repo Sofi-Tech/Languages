@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Besitzer-Rangliste der niedrigsten Gens für diesen Charakter",
+    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Besitzer-Rangliste der niedrigsten Gens für diesen Charakter\nDie Karten-ID wird benötigt, um neue \"Versionen\" einzureichen",
     "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden",
     "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -30,6 +30,12 @@
     "NOT_AVAILABLE": "Ungültige Serie",
     "MORE_INFO_LABEL": "Wähle eine Option",
     "EXAMPLE_INFO": "Richtiges Format: <Menge> <Währung>",
-    "NO_VERSIONS_FOUND": "Niemand besitzt eine **Versions** Variante dieses Charakters",
-    "VERSION_LB": "Version LB"
+    "NO_VERSIONS_FOUND": "Niemand besitzt eine **Versions**-Variante dieses Charakters",
+    "VERSION_LB": "Version LB",
+    "FAN_PTS_ADDED_zero": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_one": "{{author}} **{{count}}** Punkt wurde erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_two": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_few": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_other": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_many": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
 }

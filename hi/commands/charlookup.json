@@ -15,9 +15,9 @@
     "BURNED": "जलाए गए",
     "VERSIONS": "कुल संस्करण",
     "TOP_FANS": "शीर्ष प्रशंसक",
-    "NO_FANS_FOUND": "\nइस किरदार का अभी तक कोई प्रशंसक नहीं है!",
+    "NO_FANS_FOUND": "\nइस पात्र का अभी तक कोई प्रशंसक नहीं है!",
     "CARD_ID": "Card-ID:",
-    "ENTER_AMOUNT": "एक राशि दर्ज करें",
+    "ENTER_AMOUNT": "राशि दर्ज करें",
     "MODAL_TITLE": "SOFI: ADD FAN POINTS",
     "CORRECT_EXAMPLE": "{{author}} स्वीकृत मुद्राएँ: **Silver**, **Wists**, **Gems**",
     "MISSING_ITEMS": "{{author}} इस प्रक्रिया के लिए आपके पास पर्याप्त **{{itemName}}** नही है",
@@ -32,10 +32,10 @@
     "EXAMPLE_INFO": "सही प्रारूप: <Amount> <Currency>",
     "VERSION_LB": "संस्करण LB",
     "NO_VERSIONS_FOUND": "इस पात्र का अभी तक कोई संस्करण नहीं है",
-    "FAN_PTS_ADDED_zero": "{{author}} ने सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_other": "{{author}} ने सफलतापूर्वक **{{characterName}}** मे **{{count}}** अंक जोड़े\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_one": "{{author}} ने सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_two": "{{author}} ने सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_few": "{{author}} ने सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_many": "{{author}} ने सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "FAN_PTS_ADDED_zero": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_other": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_one": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_two": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_few": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "FAN_PTS_ADDED_many": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
 }
