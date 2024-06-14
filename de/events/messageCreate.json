@@ -5,7 +5,7 @@
     "VERIFY_BUTTON_LABEL": "Verifizieren",
     "SUPPORT_BUTTON_LABEL": "Support",
     "VERIFY_TO_PLAY": "[Verifiziere dich auf unserer Webseite, um zu spielen!] (<https://sofi.gg/verify>)",
-    "USER_BLACKLISTED": "{{author}} Dieser Benutzer ist auf der Blacklist",
+    "USER_BLACKLISTED": "{{author}} Dieser Nutzer ist auf der Blacklist",
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Bitte warte **{{cooldown}}** bevor du erneut Befehle benutzt",
     "COMMAND_BLACKLISTED": "{{author}} Der `{{commandName}}` Befehl ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Ich benötige: ` {{permissions}}`, um diesen Befehl auszuführen",
@@ -21,5 +21,5 @@
     "SERIES_DROP": "Die Abstimmung wurde beendet!",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} Dein Inventar hat einen negativen Wert. Bitte kontaktiere uns in unserem [Support Server](<https://discord.gg/sofi)",
     "SERVER_BLACKLISTED": "{{author}} Der Server ist auf der Blacklist. Bitte kontaktiere uns auf discord.gg/sofi",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614>__Du wurdest aufgrund von Verstößen gegen die Sofi Regeln geblacklisted!__\n\n**Eine Liste der möglichen Ursachen hierfür:**\n```CSS\n- Interaktionen mit Sofi auf mehreren Accounts (Alting)\n- Verkauf oder Kauf vollständiger Discord Accounts\n- Betrug anderer Benutzer\n- Ausnutzung oder Involvierung in irgendeine der oben genannten Aktivitäten\n```\n\n:link: [Einspruch hiergegen](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)"
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614>__Du wurdest aufgrund von Verstößen gegen die Sofi Regeln geblacklisted!__\n\n**Eine Liste der möglichen Ursachen hierfür:**\n```CSS\n- Interaktionen mit Sofi auf mehreren Accounts (Alting)\n- Verkauf oder Kauf vollständiger Discord Accounts\n- Betrug anderer Nutzer\n- Ausnutzung oder Involvierung in irgendeine der oben genannten Aktivitäten\n```\n\n:link: [Einspruch hiergegen](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)"
 }

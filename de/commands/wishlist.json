@@ -1,9 +1,9 @@
 {
     "WISHLIST_DESCRIPTION": "Die Verwendung dieses Befehls wird dir die Liste an Charakteren anzeigen, die sich ein Nutzer wünscht. Verwende \"Wishlistadd\", um einen Charakter zu deiner eigenen Wunschliste hinzuzufügen",
     "CATEGORY": "Wunschliste",
-    "USER_NOT_FOUND": "{{author}} Konnte diesen Nutzer nicht finden",
-    "WISHLIST_PRIVATE": "{{author}} Dieser Benutzer hat seine Wunschliste auf privat gestellt",
-    "WISHLIST_EMPTY": "{{author}} Die Wunschliste dieses Benutzer ist leer",
+    "USER_NOT_FOUND": "{{author}} Der Nutzer konnte nicht gefunden werden",
+    "WISHLIST_PRIVATE": "{{author}} Dieser Nutzer hat seine Wunschliste auf privat gestellt",
+    "WISHLIST_EMPTY": "{{author}} Die Wunschliste dieses Nutzers ist leer",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Seite: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Codes kopieren",

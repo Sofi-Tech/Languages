@@ -1,8 +1,8 @@
 {
     "TAGLIST_DESCRIPTION": "Verwende diesen Befehl, um dir alle Tags eines Verwenders anzeigen zu lassen. Du kannst den Befehl \"Tagcreate\" nutzen, um mehr eigene Tags zu erstellen",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "{{author}} Der Benutzer konnte nicht gefunden werden",
-    "NO_TAGS": "{{author}} Dieser Benutzer hat keine Tags",
+    "NO_USER": "{{author}} Der Nutzer konnte nicht gefunden werden",
+    "NO_TAGS": "{{author}} Dieser Nutzer hat keine Tags",
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Ein gesperrter Tag kann nicht verbrannt oder gehandelt werden",
     "EMBED_FOOTER": "Gesamt: {{total}} | Gesperrt: {{locked}}",

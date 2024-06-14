@@ -1,7 +1,7 @@
 {
     "VIEWFRAGS_DESCRIPTION": "Dieser Befehl öffnet das Fragment Inventar eines Nutzers. Fragmente werden verwendet, um GIF-Versionen für bestimmte Charaktere zu erstellen. Du kannst den \"Pull\" Befehl verwenden, um Fragmente zu erhalten",
-    "COLLECTION_PVT": "{{author}} Die **Fragmente** dieses Benutzers sind privat",
-    "CANNOT_FIND_FRAGS": "{{user}} Der Benutzer hat keine **Fragmente**",
+    "COLLECTION_PVT": "{{author}} Die **Fragmente** dieses Nutzers sind privat",
+    "CANNOT_FIND_FRAGS": "{{user}} Der Nutzer hat keine **Fragmente**",
     "FRAGS_COUNT": "Insgesamt: {{totalCount}}",
     "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
     "CANNOT_FIND_SELF": "{{user}} Du hast noch keine **Fragmente**"
