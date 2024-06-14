@@ -8,6 +8,7 @@
     "EMBED_FOOTER": "Anda dapat memulihkan kartu ini hingga",
     "MISSING_CURRENCY": "{{author}} Anda memerlukan {{amount}}** {{currency}}** untuk memulihkan kartu",
     "RESTORE_SUCCESSFUL": "{{author}} Kartu dengan kode `{{code}}` telah berhasil dipulihkan",
-    "RESTORE_FAILED": "Kartu dengan kode `{{code}}` tidak dapat dikembalikan",
-    "ENTER_CODE": "{{author}} Penggunaan yang benar: `{{prefix}}pulihkan <CardCode>`"
+    "RESTORE_FAILED": "{{author}} Prosesnya telah dibatalkan",
+    "ENTER_CODE": "{{author}} Penggunaan yang benar: `{{prefix}}pulihkan <CardCode>`",
+    "CARD_NOT_BURNED": "{{author}} Kartu dengan kode `{{code}}` belum terbakar"
 }

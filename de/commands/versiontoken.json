@@ -1,10 +1,10 @@
 {
-    "EMBED_FOOTER": "Seite: {{page}}/{{totalPages}} | Insgesamte Version Tokens: {{count}}",
-    "VT_CATEGORY": "Kosmetische Gegenstände",
+    "EMBED_FOOTER": "Seite: {{page}}/{{totalPages}} | Gesamte Version Tokens: {{count}}",
+    "VT_CATEGORY": "Kosmetika",
     "USER_NOT_FOUND": "{{author}} Konnte diesen Nutzer nicht finden",
     "PLAYER_NOT_EXIST": "{{author}} Dieser Nutzer ist nicht registriert",
-    "AUTHOR_NO_TOKENS": "{{author}} Du hast bisher keine **Version Tokens**",
-    "USER_NO_TOKENS": "{{author}} Dieser Nutzer hat bisher noch keine **Version Tokens**",
+    "AUTHOR_NO_TOKENS": "{{author}} Du hast noch keine **Version Tokens**",
+    "USER_NO_TOKENS": "{{author}} Dieser Nutzer hat noch keine **Version Tokens**",
     "NOTHING_FOUND": "Konnte keine **Version Tokens** finden",
     "INVALID_SERIES": "Ungültige Serie",
     "CHOOSE_SORTING": "Sortiere nach",
@@ -14,9 +14,9 @@
     "SORT_VERSION": "Version",
     "SORT_CARD": "Basiskarte",
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
-    "SAVE_FILTER": "500 - Speicher diesen Filter",
+    "SAVE_FILTER": "500 - Speichere diesen Filter",
     "SELECT_FILTER": "Wähle einen Filter",
     "FILTER_NO_VT_FOUND": "{{author}} Konnte keine **Version Tokens** passend zu deinen ausgewählten Filter finden",
-    "VERSIONTOKEN_DESCRIPTION": "Benutz diesen Befehl um deine Sammlung an Version Tokens anzusehen. Die Sammlung kann nach Name, Gen, Wunschliste und Versionen sortiert werden.",
+    "VERSIONTOKEN_DESCRIPTION": "Benutz diesen Befehl um deine Sammlung an Version Tokens anzusehen. Die Sammlung kann nach Name, Gen, Wunschliste und Versionen sortiert werden",
     "USER_PRIVATE": "{{author}} Dieser Nutzer hat seine **Version Tokens** Sammlung auf privat gestellt"
 }

@@ -1,11 +1,11 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Gunakan perintah ini untuk menambahkan karakter ke daftar wishlist pribadi Anda. Tindakan ini tidak memiliki manfaat atau keuntungan langsung yang terkait dengannya",
+    "WISHLISTADD_DESCRIPTION": "Gunakan perintah ini untuk menambahkan karakter ke wishlist pribadi Anda. Tindakan ini tidak memiliki manfaat atau keuntungan langsung yang terkait dengannya",
     "CATEGORY": "Wishlist",
-    "ADD_CHARACTERS_ERROR": "{{author}} Anda tidak dapat menambahkan lebih banyak karakter ke wishlist anda",
+    "ADD_CHARACTERS_ERROR": "{{author}} Anda tidak dapat menambahkan karakter lain ke wishlist anda",
     "SEARCH_CHARACTER_ERROR": "{{author}} Penggunaan yang benar: `{{prefix}}wa <Nama>`",
-    "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan karakter tersebut. Gunakan perintah `{{prefix}}wa -f <Nama>` untuk pencarian yang tepat",
+    "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan karakter tersebut. Gunakan perintah `{{prefix}}wa -f <Nama>` untuk pencarian yang lebih akurat",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** sudah ada di wishlist anda",
     "CHARACTER_ADDED": "{{author}} Berhasil menambahkan **{{name}}** ke wishlist anda",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Gunakan perintah `{{prefix}}wu` atau `{{prefix}}wu max` untuk meningkatkan kapasitas wishlist anda"
+    "INCREASE_CAPACITY": "Gunakan perintah `{{prefix}}wu` atau `{{prefix}}wu max` untuk menambah kapasitas wishlist anda"
 }

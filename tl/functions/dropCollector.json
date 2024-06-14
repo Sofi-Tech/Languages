@@ -8,5 +8,8 @@
     "SNATCHED_EVENT_ITEM": "{{winner}} ay kinuha ang **{{amount}}** **{{eventItem}}** kay <@{{userId}}>",
     "GRAB_EVENT_ITEM": "{{winner}} ay nakipag-laban sa **{{userCount}}** na katao at nakakuha ng **{{amount}}** **{{eventItem}}**",
     "GRAB_CARD": "{{winner}} ay nanalo kay {{user}} at **nakuha** ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "CANNOT_BE_GRABBED": "{{user}} Ang mga card na nasa ibaba ay hindi na maaaring **makuha**"
+    "CANNOT_BE_GRABBED": "{{user}} Ang mga card na nasa ibaba ay hindi na maaaring **makuha**",
+    "TOOK_VERSION": "{{winner}} **kinuha** ang **{{character}}** **Bersyon Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION_PLURAL": "{{winner}} ay naglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na **Bersyon Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION": "{{winner}} ay nanalo kay {{user}} at **nakuha** ang **{{character}}** **Bersyon Token** (`{{code}}`) [**V{{version}}**]"
 }

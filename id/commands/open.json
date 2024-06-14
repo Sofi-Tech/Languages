@@ -5,7 +5,7 @@
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}open <Nama Item> <Jumlah>`",
     "EMPTY_INV": "{{author}} Inventaris anda kosong",
     "CHARM_MISSING": "{{author}} Anda tidak memiliki **Charms**",
-    "SOFI_CARDS_MISSING": "{{author}} Saat ini tidak ada kartu yang cukup dalam koleksi Sofi",
+    "SOFI_CARDS_MISSING": "{{author}} Saat ini tidak ada cukup kartu dalam koleksi Sofi",
     "SERIES": "Seri:",
     "NAME": "Nama:",
     "CHEST_INFO": "Peti event dapat dibuka tanpa acara yang aktif",
@@ -27,5 +27,7 @@
     "PROCESS_CANCELLED": "Proses telah dibatalkan",
     "GUILD_PACKAGE_PROMPT": "**__Pool Kartu Saat Ini __**\n{{poolLine}}\n\nApakah anda yakin ingin membuka paket ini?",
     "COMMON_RARE_FOOTER_other": "Anda bisa mendapatkan {{chestName}} setiap {{count}} streak harian",
-    "COMMON_RARE_FOOTER_one": "Anda bisa mendapatkan {{chestName}} setiap {{count}} streak harian"
+    "COMMON_RARE_FOOTER_one": "Anda bisa mendapatkan {{chestName}} setiap {{count}} streak harian",
+    "EQUIP_EQUIPMENTS": "Gunakan 'sstats <KodeKartu>' untuk melengkapi perlengkapannya",
+    "VERSION_CHEST_FOOTER": "Version chests dapat diperjualbelikan dan dibuka kapan saja"
 }
