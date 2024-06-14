@@ -1,7 +1,6 @@
 {
-  "RULES_CATEGORY": "Ayarlar",
-
-  "EMBED_AUTHOR": "SOFI: KURALLAR",
-  "RULES_DESCRIPTION": "Sofi'nin kurallarını görüntüler",
-  "RULES_LIST": "<:_:979009081325019156> Sofi ile oynamak ve etkileşimde bulunmak için yalnızca **1** tek hesap kullanmanıza izin verilir"
+    "RULES_CATEGORY": "Ayarlar",
+    "EMBED_AUTHOR": "SOFI: KURALLAR",
+    "RULES_DESCRIPTION": "Bu komut Sofi'deki zorunlu kurallar listesini görüntüler. Sofi'ye hesabınızı kaydederek önceden sunulan tüm kurallarımızı kabul etmiş olursunuz. Verilen kural setine uymamak çeşitli ciddiyet derecelerince cezalandırılacaktır",
+    "RULES_LIST": "<:_:979009081325019156> Sofi ile oynamak ve etkileşimde bulunmak için yalnızca **1** tek hesap kullanmanıza izin verilir"
 }
