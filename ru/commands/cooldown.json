@@ -1,6 +1,6 @@
 {
     "COOLDOWN_DESCRIPTION": "Данная команда отображает текущее время восстановления команд. Если вы хотите, чтобы вас уведомляли об окончании восстановления Vote/Daily/Bump, нажмите на значок колокольчика под созданным окном",
-    "JOIN_SUPPORT_SERVER": "**[Присоединяйтесь к официальному серверу для получения помощи!](https://discord.gg/sofi)**",
+    "JOIN_SUPPORT_SERVER": "**[Присоединяйтесь к официальному Серверу поддержки для получения помощи!](https://discord.gg/sofi)**",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
