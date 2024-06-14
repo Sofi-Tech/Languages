@@ -8,7 +8,7 @@
     "SOFI_CARDS_MISSING": "{{author}} Es gibt derzeit nicht genügend Karten in Sofi's Sammlung",
     "SERIES": "Serie:",
     "NAME": "Name:",
-    "CHEST_INFO": "Event Chests können auch ohne ein aktives Event geöffnet werden",
+    "CHEST_INFO": "Event Truhen können auch ohne ein aktives Event geöffnet werden",
     "PROVIDE_NUM": "{{author}} Du kannst höchstens **10** **{{chestName}}** auf einmal öffnen",
     "CHEST_MISSING": "{{author}} Du hast keine **{{count}}** **{{chestName}}** in deinem Inventar",
     "COMMON_INFO_1": "Du hast **{{totalChests}}** **{{chestName}}** geöffnet",
@@ -29,5 +29,5 @@
     "COMMON_RARE_FOOTER_two": "Du kannst eine {{chestName}} für alle {{count}}-Tages Serien erhalten",
     "COMMON_RARE_FOOTER_other": "Du kannst eine {{chestName}} für alle {{count}}-Tages Serien erhalten",
     "EQUIP_EQUIPMENTS": "Benutze 'sstats <CardCode>', um deine Ausrüstungen zu nutzen",
-    "VERSION_CHEST_FOOTER": "Version Chests können jederzeit gehandelt und geöffnet werden"
+    "VERSION_CHEST_FOOTER": "Version Truhen können jederzeit gehandelt und geöffnet werden"
 }
