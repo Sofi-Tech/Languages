@@ -1,14 +1,13 @@
 {
-  "MARKETLIST_DESCRIPTION": "العنصر المدرج في السوق",
-  "CORRECT_USAGE": "{{user}} الاستخدام الصحيح: {{prefix}}ml <wist> <rate>",
-  "INVALID_GEM_RATE": "{{user}} معدل الجوهرة غير صالح",
-  "GEM_RATE_LIES": "{{user}} يجب أن يكون سعر الجوهرة بين 3.0-20.0",
-  "ALREADY_EXISTS": "لديك صفقة موجودة {{dealID}}\nالغي الصفقة قبل إعادة الإدراج",
-  "PRODUCTS": "المنتجات",
-  "RATE": "المعدل",
-  "VALUE": "القيمة",
-
-  "CANCELLED": "ألغيت",
-  "NOT_ENOUGH_CANCEL": "ألغي بسبب عدم وجود wists كافية",
-  "SUCCESS": "تم إدراج الصفقة بنجاح"
+    "MARKETLIST_DESCRIPTION": "العنصر المدرج في السوق",
+    "CORRECT_USAGE": "{{user}} الاستخدام الصحيح: {{prefix}}ml <wist> <rate>",
+    "INVALID_GEM_RATE": "{{user}} معدل الجوهرة غير صالح",
+    "GEM_RATE_LIES": "{{user}} يجب أن يكون سعر الجوهرة بين 3.0-20.0",
+    "ALREADY_EXISTS": "لديك صفقة موجودة {{dealID}}\nالغي الصفقة قبل إعادة الإدراج",
+    "PRODUCTS": "المنتجات",
+    "RATE": "المعدل",
+    "VALUE": "القيمة",
+    "CANCELLED": "العملية تم إلغاؤها",
+    "NOT_ENOUGH_CANCEL": "ألغي بسبب عدم وجود wists كافية",
+    "SUCCESS": "تم إدراج الصفقة بنجاح"
 }

@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} أنت بالفعل في تجارة نشطة! يرجى إلغاء السابقة لبدء واحدة جديدة",
     "BOT_TRADE": "{{author}} لا يمكنك التداول مع `البوت`",
     "SELF_TRADE": "{{author}} لا يمكنك التداول مع نفسك",
-    "NOT_REGISTERED": "{{user}} لم يتم التسجيل به بعد!",
+    "NOT_REGISTERED": "{{author}} هذا المستخدم غير مسجل",
     "AUTHOR_IS_BLED": "{{author}} أنت في القائمة السوداء",
     "MEMBER_IS_BLED": "{{user}} في القائمة السوداء",
     "AUTHOR_IS_QUED": "{{author}} أنت في الحجر الصحي",
