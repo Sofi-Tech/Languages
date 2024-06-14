@@ -1,1 +1,17 @@
-{}
+{
+    "SAVE_MODAL_LABEL": "Sigurado ka ba?",
+    "SAVE_MODAL_TITLE": "Font: Confirm",
+    "NOT_ENOUGH_GEMS": "Wala kang sapat na **Gems** para bilhin ito",
+    "NOT_ENOUGH_SILVERS": "Wala kang sapat na **Silvers** upang bilhin ito",
+    "PROCESS_COMPLETED": "Matagumpay na nakumpleto ang proseso",
+    "GLOW_CODE_INVALID": "Ang code ng **Glow** na iyong inilagay ay hindi tama o wala sa iyong imbentaryo",
+    "FONT_DESCRIPTION": "Magagamit mo ang utos na ito para maglapat ng Glow sa text ng kard o para i-toggle ang Gen, Pangalan o Serye nito",
+    "FONT_CATEGORY": "Cosmetics",
+    "NO_GIF_3D": "{{author}} Hindi mo maaring baguhin ang teksto sa **3D** o **GIF** na kards",
+    "EMBED_TITLE": "SOFI: FONT",
+    "PRICE": "Presyo",
+    "SELECT_MENU_PLACEHOLDER": "Pumili ng Font",
+    "GLOW_MODAL_TITLE": "Glow Code: {{type}}",
+    "GLOW_MODAL_LABEL": "Ilagay ang code ng Glow",
+    "ERROR_FINDING_CARD": "{{author}} Ang kard code na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon"
+}

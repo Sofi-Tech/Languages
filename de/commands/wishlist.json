@@ -1,7 +1,7 @@
 {
     "WISHLIST_DESCRIPTION": "Die Verwendung dieses Befehls wird dir die Liste an Charakteren anzeigen, die sich ein Nutzer wünscht. Verwende \"Wishlistadd\", um einen Charakter zu deiner eigenen Wunschliste hinzuzufügen",
     "CATEGORY": "Wunschliste",
-    "USER_NOT_FOUND": "{{author}} Benutzer konnte nicht gefunden werden",
+    "USER_NOT_FOUND": "{{author}} Konnte diesen Nutzer nicht finden",
     "WISHLIST_PRIVATE": "{{author}} Dieser Benutzer hat seine Wunschliste auf privat gestellt",
     "WISHLIST_EMPTY": "{{author}} Die Wunschliste dieses Benutzer ist leer",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
@@ -15,5 +15,6 @@
     "CODES_COPIED": "← Kopiert",
     "ALL_CARD_CODES": "Aufgrund der großen Menge an Codes wurde die Nachricht in eine `.txt` Datei umgewandelt:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
-    "WISHLIST_EMPTY_SELF": "{{author}} Deine Wunschliste ist leer"
+    "WISHLIST_EMPTY_SELF": "{{author}} Deine Wunschliste ist leer",
+    "PAGE": "Kopiere Seite - {{page}}"
 }
