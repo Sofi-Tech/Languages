@@ -1,5 +1,5 @@
 {
-    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Wöchentlich**__ (Zurücksetzung {{time}}) \n<:curvedline:979665878503272478> Raide 20 mal- {{raidPoints}}/20 \n<:curvedline:979665878503272478> Mache eine Quest - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bumpe auf der Sofi.gg Webseite - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> Droppe 100 mal - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Verbrenne 60 Karten - {{burnPoints}}/60 \n<:curvedline:979665878503272478> Erziele 15000+ Punkte in einem Raid - {{raidScore}}/1",
+    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Wöchentlich**__ (Zurücksetzung {{time}}) \n<:curvedline:979665878503272478> Raide 20 mal- {{raidPoints}}/20 \n<:curvedline:979665878503272478> Begebe dich auf ein Abenteuer - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bumpe auf der Sofi.gg Webseite - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> Droppe 100 mal - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Verbrenne 60 Karten - {{burnPoints}}/60 \n<:curvedline:979665878503272478> Erziele 15000+ Punkte in einem Raid - {{raidScore}}/1",
     "TASK_DESCRIPTION": "Nutze diesen Befehl, um auf Abenteuer zu gehen und deine täglichen, wöchentlichen und monatlichen Aufgaben für Belohnungen zu erledigen.",
     "DECK_SELECTED_two": "{{deck}} ist nun unterwegs auf {{quest}} für {{count}} Stunden",
     "DAILY_TASKS": "### <:1day:1168129639017893949> __**Täglich**__ (Zurücksetzung {{time}}) \n<:curvedline:979665878503272478> Droppe 5 mal - {{dropPoints}}/5 \n<:curvedline:979665878503272478> Bumpe auf der Sofi.gg Webseite - {{bumpPoints}}/1 \n<:curvedline:979665878503272478> Morphe eine Karte- {{morphPoints}}/1 \n<:curvedline:979665878503272478> Verbrenne 3 Karten - {{burnPoints}}/3",
@@ -26,7 +26,7 @@
     "ABORT_MODAL_LABEL": "Möchtest du das Abenteuer abbrechen?",
     "ABORT_MODAL_PLACEHOLDER": "Yes/No",
     "ABORT_MODAL_TITLE": "Abenteuer abbrechen",
-    "QUEST_ABORTED": "Das Abenteuer wurde abgebrochen. Du kannst ein neues beginnen",
+    "QUEST_ABORTED": "Das Abenteuer wurde abgebrochen. Du kannst ein Neues beginnen",
     "REWARD_ALREADY_CLAIMED": "Die Belohnungen wurden bereits eingefordert",
     "QUEST_REWARDS_ONE": "Das Abenteuer hat {{shardCount}} Shards und {{silver}} Silver erbracht",
     "QUEST_REWARDS_TWO": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver und {{xpSacks}} XP Sacks erbracht",
@@ -65,6 +65,6 @@
     "ELEMENT_PREFERENCE": "Bevorzugte Elemente: {{elements}}",
     "QUEST_REWARD": "Kann von **{{minimumShards}}** bis zu **{{maximumShards}}** <:_:1168102686785273916> und von **{{minimumSilvers}}** bis zu **{{maximumSilvers}}** <:_:915619222229512213> geben\nmit einer zusätzlichen Menge von **{{luckFactor}}x** verdient\nWird **{{questXP}}** Erfahrung pro Karte geben",
     "NOT_AVAILABLE": "Nicht verfügbar",
-    "QUEST_REWARDS_THREE": "Diese Quest hat {{shardCount}} Shards, {{silver}} Silver und {{ingotCount}} {{ingotName}} Ingot erbracht",
-    "QUEST_REWARDS_FOUR": "Diese Quest hat {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks und {{ingotCount}} {{ingotName}} Ingot erbracht"
+    "QUEST_REWARDS_THREE": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver und {{ingotCount}} {{ingotName}} Ingot erbracht",
+    "QUEST_REWARDS_FOUR": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks und {{ingotCount}} {{ingotName}} Ingot erbracht"
 }
