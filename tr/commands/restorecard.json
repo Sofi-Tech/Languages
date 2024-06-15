@@ -1,1 +1,14 @@
-{}
+{
+    "RESTORECARD_DESCRIPTION": "Bu komutu kullanarak yaktığınız bir kartı üç gün içerisinde onarabilirsiniz",
+    "RESTORECARD_CATEGORY": "Kartlar",
+    "CARD_EXPIRED": "{{author}} `{{code}}`kodlu kartın süresi doldu ve artık onarılamaz",
+    "EMBED_TITLE": "SOFI: RESTORE CARD",
+    "EMBED_FOOTER": "Bu kartı şu ana kadar onarabilirsiniz",
+    "RESTORE_FAILED": "{{author}} İşlem iptal edildi",
+    "RESTORE_SUCCESSFUL": "{{author}}`{{code}}` kodlu kart başarıyla onarıldı",
+    "CARD_NOT_FOUND": "{{author}} `{{code}}` kodlu kart yakılmış kartlarınızda bulunamadı",
+    "ENTER_CODE": "{{author}} Doğru kullanım: `{{prefix}}restore <CardCode>`",
+    "MISSING_CURRENCY": "{{author}} Bu kartı onarmak için {{amount}}** {{currency}}** gerekli",
+    "RESTORE_CONFIRMATION": "`{{code}}`kodlu kartı {{amount}} **{{currency}}** karşılığında onarmak istediğinize emin misiniz?",
+    "CARD_NOT_BURNED": "{{author}} `{{code}}` kodlu kart henüz yakılmadı"
+}

@@ -1,6 +1,6 @@
 {
     "COOLDOWN_DESCRIPTION": "Dieser Befehl zeigt eine Liste deiner derzeitigen Abklingzeiten. Wenn du über die Abklingzeit für dein Vote/Daily/Bump benachrichtigt werden willst, klicke das Glocken Symbol unter der Textbox",
-    "JOIN_SUPPORT_SERVER": "[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)",
+    "JOIN_SUPPORT_SERVER": "**[Trete dem Support Server bei, falls du Hilfe brauchst!](https://discord.gg/sofi)**",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",

@@ -1,19 +1,19 @@
 {
-    "COOLDOWN_DESCRIPTION": "Cette commande affichera une liste de vos temps de recharge actuels. Si vous souhaitez être notifié(e) à propos des temps de recharge de Vote/Daily/Bump, cliquez sur l'icône de cloche en dessous de l'embed",
-    "JOIN_SUPPORT_SERVER": "[Rejoignez le serveur de support pour de l'aide!](https://discord.gg/sofi)",
+    "COOLDOWN_DESCRIPTION": "Cette commande affichera une liste de vos temps de recharge actuels. Si vous souhaitez être notifié(e) à propos des temps de recharge de votre Vote/Daily/Bump, cliquez sur l'icône de cloche en dessous de l'embed",
+    "JOIN_SUPPORT_SERVER": "**[Rejoignez le Serveur de Support officiel pour de l'aide!](https://discord.gg/sofi)**",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
-    "EMBED_TITLE": "SOFI: COOLDOWN ({{username}})",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
     "VOTE_LABEL": "Vote",
-    "UNREAD_MAIL_one": "\n📫 Vous avez **{{count}}** mail non lus",
+    "UNREAD_MAIL_one": "\n📫 Vous avez **{{count}}** mail non lu",
     "UNREAD_MAIL_other": "\n📫 Vous avez **{{count}}** mails non lus",
     "READY": "Prêt",
-    "UNREAD_MAIL_two": "\n📫 Vous avez **{{count}}** courriers non lus",
-    "UNREAD_MAIL_few": "\n📫 Vous avez **{{count}}** courriers non lus",
-    "UNREAD_MAIL_zero": "\n📫 Vous avez **{{count}}** courrier non lu",
-    "UNREAD_MAIL_many": "\n📫 Vous avez **{{count}}** courriers non lus"
+    "UNREAD_MAIL_two": "\n📫 Vous avez **{{count}}** mails non lus",
+    "UNREAD_MAIL_few": "\n📫 Vous avez **{{count}}** mails non lus",
+    "UNREAD_MAIL_zero": "\n📫 Vous avez **{{count}}** mail non lu",
+    "UNREAD_MAIL_many": "\n📫 Vous avez **{{count}}** mails non lus"
 }
