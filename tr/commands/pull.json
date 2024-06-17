@@ -1,5 +1,5 @@
 {
-    "PULL_DESCRIPTION": "Bu komutla, Wist'leri ve Gem'leri, GIF kartları oluşturmak için kullanılan Fragment'ler de dahil olmak üzere farklı öğelere dönüştürebilirsiniz",
+    "PULL_DESCRIPTION": "Bu komutla, Wist'leri ve Gem'leri, GIF kartları oluşturmak için kullanılan Fragment'ler de dahil olmak üzere farklı ögelere dönüştürebilirsiniz",
     "PULL_AMT": "{{author}} Doğru kullanım: `{{prefix}}pull <1/10>`",
     "INFO_1": "Bir karakterin **GIF** varyantını oluşturmak için 8 **Fragments**'a ihtiyacınız var",
     "INFO_2": "Her karakterin maksimum **100** **GIF** varyantı vardır",
@@ -10,5 +10,6 @@
     "AMOUNT": "Aldınız: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Çekim Sayısı: [ {{pullcount}} ]",
     "RATES": "Oranlar",
-    "PULL_CHANCES": "**__Olasılıklar__**"
+    "PULL_CHANCES": "**__Olasılıklar__**",
+    "GIF_CHANCE": "Çek ve GIF elde etmek için bir şans edin"
 }

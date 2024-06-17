@@ -1,10 +1,10 @@
 {
-    "EXTRA_GRAB": "{{user}} Ang iyong extra **Grab** ay kasulukuyang ginagamit. Ikaw ay mayroon nalang na **{{remaining}}** na natitira",
-    "BATTLED_WON_PLURAL": "Lumaban si {{winner}} laban sa **{{userCount}}** iba pang mga manlalaro at nag-angkin ng **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "WAIT_TO_CLAIM": "{{user}} Maaring maghintay ng **{{cooldown}}** upang makakuha ng isa pang card",
-    "EMBED_TITLE": "SOFI: CAPTCHADROP",
+    "EXTRA_GRAB": "{{user}} Ang iyong extra **Grab** ay kasulukuyang ginagamit. Mayroon ka nalang **{{remaining}}** na natitira",
+    "BATTLED_WON_PLURAL": "Lumaban si {{winner}} laban sa **{{userCount}}** iba pang mga manlalaro at nakuha si **{{character}}** kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "WAIT_TO_CLAIM": "{{user}} Kailangan mong maghintay ng  **{{cooldown}}** upang makakuha ng isa pang kard",
+    "EMBED_TITLE": "Captcha Card",
     "EMBED_FOOTER": "Kuhain ang card na nasa itaas sa pamamagitan ng pagsulat ng captcha",
-    "BATTLED_AND_WON": "{{winner}} ay tinalo si {{user}} at nakuha ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "TOOK_THE_CARD": "{{user}} ay kinuha ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "CANNOT_BE_GRABBED": "{{user}} Ay nakuha ang **{{characterName}}** kard"
+    "BATTLED_AND_WON": "{{winner}} ay natalo si {{user}} at nakuha ang **{{character}}** kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}} ay **kinuha** ang **{{character}}** kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} Ay **nakuha** ang **{{characterName}}** kard"
 }

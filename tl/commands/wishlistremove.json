@@ -1,8 +1,8 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Tinanggal ang karakter mula sa iyong wishlist",
+    "WISHLISTREMOVE_DESCRIPTION": "Gamitin ang command na ito upang maalis ang isang karakter sa iyong wishlist",
     "CATEGORY": "Wishlist",
-    "NO_INDEX": "{{author}} Tamang paggamit: `{{prefix}}wr <Name/Number>`. Gamitin ang command na `{{prefix}}wr full reset` upang burahin ang buong wishlist mo",
+    "NO_INDEX": "{{author}} Tamang paggamit: `{{prefix}}wr <Name/Number>`. Gamitin ang command na `{{prefix}}wr full reset` upang burahin ang iyong buong wishlist",
     "FULL_RESET": "{{author}} Matagumpay na tinanggal ang lahat ng mga karakter mula sa iyong wishlist",
-    "REMOVE_CHARACTER": "{{author}} Matagumpay na tinanggal ang **{{name}}** mula sa iyong wishlist",
-    "NO_RESULTS": "{{author}} Wala kang karakter na may pangalan na `{{name}}` sa iyong wishlist"
+    "REMOVE_CHARACTER": "{{author}} Matagumpay na tinanggal si **{{name}}** mula sa iyong wishlist",
+    "NO_RESULTS": "{{author}} Walang karakter na may pangalan na `{{name}}` sa iyong wishlist"
 }

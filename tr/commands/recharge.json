@@ -8,7 +8,7 @@
     "NO_MONEY": "{{author}} Bu işlem için yeterli **Recharge**niz yok!",
     "GLOW_AVAILABLE": "{{author}} Bu **Glow**'un yükü zaten dolu",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW",
-    "SUCCESSFUL_RECHARGE": "{{author}} **{{glowName}}** **Glow**'unuz başarıyla şarj edildi!",
-    "RECHARGE_CONFIRMATION": "Bu **Glow**'u şarj etmek istediğinizden emin misiniz?\n\nAd: **{{name}}**\nCode: `{{glowCode}}`\nMaliyet: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "SUPER_RECHARGE_CONFIRMATION": "Bu **Glow**'u şarj etmek istediğinizden emin misiniz?\n\nAd: **{{name}} (Super)**\nCode: `{{glowCode}}`\nMaliyet: **{{cost}}** <:recharge_sofi:926846363537387530>"
+    "SUCCESSFUL_RECHARGE": "{{author}} **{{glowName}}** **Glow**'unuz başarıyla dolduruldu!",
+    "RECHARGE_CONFIRMATION": "Bu **Glow**'u doldurmak istediğinizden emin misiniz?\n\nAd: **{{name}}**\nKod: `{{glowCode}}`\nMaliyet: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "SUPER_RECHARGE_CONFIRMATION": "Bu **Glow**'u doldurmak istediğinizden emin misiniz?\n\nAd: **{{name}} (Super)**\nKod: `{{glowCode}}`\nMaliyet: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
