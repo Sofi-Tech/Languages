@@ -6,7 +6,7 @@
     "CARD_EXPIRED": "{{author}} Die Karte mit dem Code `{{code}}` ist abgelaufen und kann nicht wiederhergestellt werden",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
     "RESTORE_CONFIRMATION": "Bist du dir sicher das du die Karte `{{code}}` für {{amount}} **{{currency}}** wiederherstellen willst?",
-    "EMBED_FOOTER": "Du kannst diese Karte wiederherstellen bis",
+    "EMBED_FOOTER": "Du kannst diese Karte wiederherstellen bis {{date}}",
     "MISSING_CURRENCY": "{{author}} Du brauchst {{amount}}** {{currency}}** um eine Karte wiederherzustellen",
     "RESTORE_SUCCESSFUL": "{{author}} Die Karte mit dem Code `{{code}}` wurde erfolgreich wiederhergestellt",
     "RESTORE_FAILED": "{{author}} Dieser Vorgang wurde abgebrochen",

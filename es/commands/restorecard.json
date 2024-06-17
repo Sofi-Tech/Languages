@@ -5,7 +5,7 @@
     "CARD_EXPIRED": "{{author}} La carta con el código `{{code}}` ha caducado y no puede ser restaurada",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
     "RESTORE_CONFIRMATION": "¿Estás seguro de que quieres restaurar la carta `{{code}}` con {{amount}} **{{currency}}**?",
-    "EMBED_FOOTER": "Puedes restaurar esta carta hasta",
+    "EMBED_FOOTER": "Puedes restaurar esta carta hasta el {{date}}",
     "MISSING_CURRENCY": "{{author}} Necesitas {{amount}}** {{currency}}** para restaurar una carta",
     "RESTORE_SUCCESSFUL": "{{author}} La carta con el código `{{code}}`ha sido restaurada correctamente",
     "RESTORE_FAILED": "{{author}} El proceso ha sido cancelado",
