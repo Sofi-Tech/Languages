@@ -1,9 +1,9 @@
 {
     "TAGDELETE_DESCRIPTION": "Bir etiketin tamamını silmek için bu komutu kullanın",
     "TD_CATEGORY": "Etiketler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}dt <TagName>`",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}dt <Etiketİsmi>`",
     "TAG_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir etiketiniz yok",
-    "SUCCESSFUL_DELETE_TAG": "{{author}} `{{tag}}` adlı etiketi başarıyla sildi",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} `{{tag}}` adlı etiket başarıyla silindi",
     "TAG_DELETE_CONFIRM": "`{{tagname}}` etiketini silmek istediğinizden emin misiniz?",
     "TAG_DELETE_CONFIRM_YES": "Evet",
     "TAG_DELETE_CONFIRM_NO": "Hayır",
