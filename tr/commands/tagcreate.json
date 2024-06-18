@@ -5,7 +5,7 @@
     "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
     "INVALID_TAGNAME_FORMAT": "{{author}} Etiketinizin adı alfanümerik olmalıdır ve özel karakter, boşluk veya küfür içeremez",
     "LONG_TAGNAME": "{{author}} Etiketinizin adı en fazla **20** karakterden oluşabilir",
-    "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir `Tag`ınız var",
-    "TAG_CREATED": "{{author}}, \"{{tag}}\" adında `Tag` başarıyla oluşturdu | {{emoji}}",
+    "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir etiketiniz var",
+    "TAG_CREATED": "{{author}}, \"{{tag}}\"| {{emoji}} adındaki etiket başarıyla oluşturuldu",
     "TC_MAX_TAGS": "{{author}} Oluşturabileceğin maksimum etiket limitine ulaştın"
 }
