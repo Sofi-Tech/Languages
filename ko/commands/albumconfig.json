@@ -1,5 +1,5 @@
 {
-  "ALBUMCONFIG_DESCRIPTION": "앨범을 구성합니다",
-  "AC_CATEGORY": "앨범",
-  "CONFIGURE_ALBUM": "사이트에서 앨범을 생성 및 편집하세요: <https://sofi.gg/albums{{albumName}}>"
+    "ALBUMCONFIG_DESCRIPTION": "이 명령을 사용하면 앨범을 맞춤 설정하고 구성할 수 있는 공식 Sofi 웹사이트 링크와 함께 메시지가 전송됩니다",
+    "AC_CATEGORY": "앨범",
+    "CONFIGURE_ALBUM": "{{author}} 우리 웹사이트에서 앨범을 생성하고 편집하세요: <https://sofi.gg/albums{{albumName}}>"
 }

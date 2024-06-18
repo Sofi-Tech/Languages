@@ -2,7 +2,7 @@
     "AUCTIONINFO_DESCRIPTION": "Ang command na ito ay mag bubukas ng embed na mag didisplay ng dati at kasalukuyang card codes sa auctions, na maaari kang mag bid. Gumagamit ang Auctions ng Charms para gamiting pera sa pag lagay ng bid",
     "AI_CATEGORY": "Mga Kard",
     "NO_ONGOING_AUCTION": "{{author}} Wala pang aktibong auctions sa kasalukuyan",
-    "BID_SELECTION": "Gamitin ang command na {{prefix}}ai <Auction-ID> o pumili ng aktibong auction galing sa menu sa baba",
+    "BID_SELECTION": "Gamitin ang command na {{prefix}}ai <Auction-ID> o pumili ng aktibong auction mula sa menu sa baba",
     "AI_CURRENT": "Kasalukuyang Bid",
     "SELECT_AUCTION_PLACEHOLDER": "Mamili ng Auction",
     "BID_MODAL_TITLE": "Auction Bid",
@@ -14,5 +14,9 @@
     "BID_MODAL_PLACEHOLDER": "Ilagay ang bilang ng Bid",
     "AUCTION_NOT_FOUND": "Hindi makita ang auction na iyan",
     "NOT_ENOUGH_CURRENCY": "{{author}} Wala kang sapat na {{emoji}}",
-    "BID_SUCCESSFUL": "{{author}} Matagumpay kang nakapaglagay ng bid na **{{amount}}** {{emoji}}"
+    "BID_SUCCESSFUL": "{{author}} Matagumpay kang nakapaglagay ng bid na **{{amount}}** {{emoji}}",
+    "EMBED_TITLE": "SOFI: AUCTION INFO",
+    "TOTAL_CHARMS": "Kabuuang Charms",
+    "YOUR_CHANCE": "Iyong pagkakataon",
+    "BID_BUTTON_LABEL": "Bid"
 }

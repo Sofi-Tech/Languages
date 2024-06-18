@@ -1,8 +1,8 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Ipinapakita ang listahan ng mga nangunguna sa Wishlist",
+    "WISHLISTLB_DESCRIPTION": "Ang command na ito ay gagawa ng isang embed na nagraranggo sa may pinakamataas na wishlist sa Sofi",
     "CATEGORY": "Wishlist",
-    "EMBED_TITLE": "SOFI: WISHLISTLB",
+    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
     "EMBED_FOOTER": "Ipinapakita ang pahinang: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Mga Character",
+    "CHARACTER_BUTTON_LABEL": "Mga Karakter",
     "SERIES_BUTTON_LABEL": "Mga Serye"
 }

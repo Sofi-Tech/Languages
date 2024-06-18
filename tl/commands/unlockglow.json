@@ -1,11 +1,11 @@
 {
-    "UNLOCKGLOW_DESCRIPTION": "Bumubuo ng random na \"Glow\"",
-    "UG_CATEGORY": "Mga Cosmetics",
-    "EMBED_TITLE": "SOFI: GENERATE GLOW",
-    "UNLOCK_GLOW_CONFIRM": "{{author}} Sigurado ka bang nais mong bumili ng random na **Glow** para sa **100** {{currency}}?",
+    "UNLOCKGLOW_DESCRIPTION": "Lumikha ng random na \"Glow\"",
+    "UG_CATEGORY": "Mga Kosmetiko",
+    "EMBED_TITLE": "SOFI: MAKALIKHA NG GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} Sigurado ka bang nais mong bumili ng random na **Glow** sa halagang **100** {{currency}}?",
     "CANCELLED_UNLOCK_GLOW": "Kinansela ang proseso",
-    "NOT_ENOUGH_GEMS": "{{author}} Wala kang sapat na `Gems`",
+    "NOT_ENOUGH_GEMS": "{{author}} Wala kang sapat na **Gems**",
     "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
-    "UNLOCK_GLOW_SUCCESS": "{{author}} Matagumpay na nakamibi ng `Glow`",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Matagumpay na nakabili ng **Glow**",
     "GLOW_INFO": "Pangalan: **{{glowName}}**\nCode: **`{{glowCode}}`**\nPurity: **{{purity}}%**"
 }

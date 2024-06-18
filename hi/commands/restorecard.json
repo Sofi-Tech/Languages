@@ -9,5 +9,6 @@
     "CARD_NOT_FOUND": "{{author}} आपके द्वारा जलाये गए पत्तों में `{{code}}` कोड वाला पत्ता मौजूद नहीं है",
     "ENTER_CODE": "{{author}} सही उपयोग: `{{prefix}}restore <CardCode>`",
     "RESTORE_CONFIRMATION": "क्या आप वाकई {{amount}} **{{currency}}** के बदले `{{code}}` वाले पत्ते को वापस लाना चाहते हैं?",
-    "CARD_NOT_BURNED": "{{author}} {{code}} वाला पत्ता अभी तक जलाया नहीं गया है"
+    "CARD_NOT_BURNED": "{{author}} {{code}} वाला पत्ता अभी तक जलाया नहीं गया है",
+    "EMBED_FOOTER": "आप इस पत्ते को {{date}} दिन के अंदर वापस ला सकते हैं"
 }
