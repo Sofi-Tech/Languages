@@ -1,5 +1,5 @@
 {
-    "PULL_DESCRIPTION": "Con este comando puedes convertir tus Wists y Gems en diferentes objetos los cuales incluyen Fragments que se utilizan para crear cartas GIF",
+    "PULL_DESCRIPTION": "Con este comando puedes usar tus Wists y Gems para obtener diferentes items. También hay oportunidad de conseguir cartas GIF",
     "PULL_AMT": "{{author}} Uso correcto: `{{prefix}}pull <1/10>`",
     "INFO_1": "Necesitas 8 **Fragments** para crear una variante **GIF** de un personaje",
     "INFO_2": "Hay un máximo de **100** variantes **GIF** por personaje",
@@ -11,7 +11,7 @@
     "PULL_COUNT_WIST": "Recuento de Pulls: [ {{pullcount}} ]",
     "RATES": "Probabilidades",
     "PULL_CHANCES": "**__Probabilidades__**",
-    "GIF_CHANCE": "Tira y ten la posivilidad de conseguir una carta GIF",
+    "GIF_CHANCE": "Tira y ten la posibilidad de conseguir una carta GIF",
     "GIFS": "GIFS",
     "ACTIVE_POOL": "**Pool Activo**",
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",

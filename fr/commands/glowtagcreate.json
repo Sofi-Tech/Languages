@@ -1,8 +1,8 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Créé un \"Glow Tag\"",
+    "GLOWTAGCREATE_DESCRIPTION": "Avec cette commande vous pouvez créer un tag pour catégoriser et grouper plusieurs Glows selon vos propres critères. Utilisez la commande \"Glowtag\" pour assigner les tags créés à vos Glows",
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gtc <NomDeTag> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Vous avez déjà un **Glow** tag avec ce nom",
-    "CREATED_GLOWTAG": "{{author}} A créé un **Glow** tag avec succès avec le nom `{{tag}}` | {{emoji}}"
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Vous avez déjà un tag de **Glow** avec ce nom",
+    "CREATED_GLOWTAG": "{{author}} A créé un tag de **Glow** avec succès avec le nom `{{tag}}` | {{emoji}}"
 }
