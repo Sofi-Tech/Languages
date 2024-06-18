@@ -3,7 +3,7 @@
     "IN_ACTIVE_MB": "{{user}} Hindi ka puwedeng magsimula ng bagong **Massburn** habang aktibo pa ang nauna",
     "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Mga Filter>`\n\n```fix\nPaalala: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Hindi makahanap ng anumang tag na may pangalang `{{arg}}`",
-    "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga kard na tumutugma sa iyong pamantayan sa paghahanap",
+    "NO_CARDS_FOUND": "{{author}} Walang makitang anumang mga kard na tumutugma sa iyong pamantayan sa paghahanap",
     "CARDS_BURNED": "__Napiling mga Kard [ {{totalCards}} ]__",
     "CONFIRM_ASK": "{{author}} Sigurado ka bang gusto mong tuluyang sunugin ang mga kard na ito?",
     "MISSING_CARDS": "{{author}} Kahit isa sa iyong mga piniling kard ay wala na sa iyong koleksyon",
