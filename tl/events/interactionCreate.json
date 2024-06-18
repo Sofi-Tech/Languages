@@ -3,11 +3,11 @@
     "VERSION_ACCEPTED": "Ang iyong `Version` na isinubmit para kay **{{charName}}** galing sa **{{seriesName}}** ay natanggap. **3** <a:wist_spin:973031140581580820> ay nailagay sa iyong inventory",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Ang iyong imbentaryo ay nag lalaman ng negatibong halaga! Mangyaring makipag-usap sa Developers sa aming [Support Server](https://discord.gg/sofi) upang maayos ito",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Ikaw ay naisulat sa blacklist dahil sa paglabag sa mga patakaran sa Sofi!__\n\n**Listahan ng mga posibleng dahilan **\n```CSS\n- Pakikipag interak sa Sofi gamit ang madaming accounts (Alting)\n- Pag bebenta o pag bili ng isang Discord account\n- Pag i-scam sa ibang user\n- Pagsasamantala o pagiging kasangkot sa anumang mga nabanggit na aktibidad\n```\n\n:link: [Mag apela sa iyong blacklist] (<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
-    "VERIFY_TO_PLAY": "[Kumpirmahin ang iyong sarili sa aming website upang makapag laro!] (<https://sofi.gg/verify>)",
+    "VERIFY_TO_PLAY": "[Patunayan ang iyong sarili sa aming website upang makapag laro!] (<https://sofi.gg/verify>)",
     "VERSION_REJECTED": "Ang iyong `Version`na isinubmit para kay **{{charName}}** galing sa {{seriesName}}** ay hindi tinanggap. [Bisitahin ang aming Support Server para malaman pa] (<https://discord.gg/RYawNnu6Pp>)",
     "APPEAL_DENIED": "Matapos suriin ang inyong kaso, napagpasyahan naming ireject ang inyong apela. Hindi babaligtarin ang inyong nakasulatang status at ang lahat ng mga bagong apela mula ngayon ay ipagwawalang-bisa muli.\n\n- Sofi Management",
     "COMMAND_RUN_ERROR": "{{author}} Nagkaroon ng error sa pagtatangka na ipatupad ang command na ito. Subukan muli",
-    "VERIFY_BUTTON_LABEL": "Beripikahin",
+    "VERIFY_BUTTON_LABEL": "Patunayan",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Mag-antay ng **{{cooldown}}** bago gamitin muli ang command na ito",
     "REQUIRE_PERMISSIONS": "{{author}} Kailagan mo ng: **{{permissions}}** na permission upang maisagawa ang command",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Mag hintay ng **{{cooldown}}** bago muling gamitin ang command na ito",
@@ -17,6 +17,6 @@
     "SERVER_BLACKLISTED": "{{author}} Naka-blacklist ang server. Mangyaring makipag-ugnayan sa amin sa discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} Ang command na `{{commandName}}` ay naka-blacklist sa channel na ito",
     "CATEGORY_DISABLED": "{{author}} Ang kategoryang ito ay hindi na pinagana\nDahilan: `{{reason}}`",
-    "COMMAND_DISABLED": "{{author}} Ang command ito ay hindi na pinagana\nDahilan: `{{reason}}`",
-    "SUPPORT_BUTTON_LABEL": "Suporta"
+    "COMMAND_DISABLED": "{{author}} Ang command na ito ay hindi na pinagana\nDahilan: `{{reason}}`",
+    "SUPPORT_BUTTON_LABEL": "Support"
 }
