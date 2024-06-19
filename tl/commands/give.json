@@ -9,7 +9,7 @@
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}bigay <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} Ang card code na iyong ibinigay ay hindi tama o wala sa iyong koleksyon",
     "CARD_LOCKED": "{{author}} Ang card na iyon ay naka-lock at hindi maaaring ipamigay! Gamitin ang command na `{{prefix}}ut <CardCode>` upang i-unlock ang card",
-    "CANCELLED": "Ang proseso ay kinansela",
+    "CANCELLED": "Ang proseso ay na kansela",
     "AUTHOR_NOT_VERIFIED": "{{author}} Ikaw ay hindi beripikado",
     "AUTHOR_BLACKLISTED": "{{author}} Ikaw ay blacklisted",
     "MEM_NOT_VERIFIED": "{{author}} Ang user na iyan ay hindi pa beripikado",

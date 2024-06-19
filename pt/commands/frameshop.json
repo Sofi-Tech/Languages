@@ -26,5 +26,7 @@
     "LF_MENU_LABEL": "\"Frames\" Limitados",
     "MF_MENU_LABEL": "\"Frames\" Mensais",
     "CF_MENU_LABEL": "\"Frames\" Personalizados",
-    "EDIT_DESC_SUCCESSFUL": "O processo foi concluído com sucesso"
+    "EDIT_DESC_SUCCESSFUL": "O processo foi concluído com sucesso",
+    "FS_UNAVAILABLE": "Indisponível",
+    "FRAME_DESCRIPTION": "\nArtista: **{{artist}}**\nCódigo: `{{code}}`\nPreço: **{{price}}**\nCategoria: **{{category}}**\n\n```fix\n{{description}}\n```"
 }

@@ -1,1 +1,22 @@
-{}
+{
+    "FONT": "Fonte",
+    "GEN": "Gen",
+    "NAME": "Nome",
+    "SERIES": "Série",
+    "COLORS": "Cores",
+    "FONT_DESCRIPTION": "Você pode usar este comando para aplicar um Glow no texto de uma carta ou para alternar sua Gen, Nome ou Série",
+    "FONT_CATEGORY": "Cosméticos",
+    "ERROR_FINDING_CARD": "{{author}} O código da carta fornecida é inválido ou não está na sua coleção",
+    "NO_GIF_3D": "{{author}} Você não pode alterar o texto em cartas **3D** ou **GIF**",
+    "EMBED_TITLE": "SOFI: FONT",
+    "PRICE": "Preço",
+    "GLOW_MODAL_TITLE": "Código do Glow: {{type}}",
+    "GLOW_MODAL_PLACEHOLDER": "ex. #1vg0a1",
+    "GLOW_MODAL_LABEL": "Insira o Código de Glow",
+    "GLOW_CODE_INVALID": "O código **Glow** fornecido é inválido ou não está no seu inventário",
+    "SAVE_MODAL_LABEL": "Você tem certeza?",
+    "SAVE_MODAL_TITLE": "Fonte: Confirmar",
+    "NOT_ENOUGH_GEMS": "Você não tem **Gems** suficientes para fazer essa compra",
+    "NOT_ENOUGH_SILVERS": "Você não tem **Silver** suficiente para fazer essa compra",
+    "PROCESS_COMPLETED": "O processo foi completado com sucesso"
+}
