@@ -9,5 +9,10 @@
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}give <Usuário/ID do Usuário> <CódigodaCarta>`",
     "NO_CARD_FOUND": "Não foi possível encontrar nenhuma carta com o código: `{{code}}`",
     "CARD_LOCKED": "Essa carta está bloqueada e não pode ser dada! Use o comando `{{prefix}}ut <CódigodaCarta>` para remover a `Tag` da carta",
-    "CANCELLED": "O processo foi cancelado"
+    "CANCELLED": "O processo foi cancelado",
+    "AUTHOR_BLACKLISTED": "{{author}} Você está na blacklist",
+    "AUTHOR_NOT_VERIFIED": "{{author}}Você não é verificado",
+    "AUTHOR_QUARANTINED": "{{author}} Você está em quarentena",
+    "CARD_SELECTED": "{{author}}A carta está sendo usada em um deck e não pode ser transferida",
+    "CARD_IN_QUEST": "{{author}} Esta carta está sendo utilizada em uma quest e não pode ser entregue"
 }

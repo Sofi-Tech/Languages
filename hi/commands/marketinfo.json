@@ -11,6 +11,6 @@
     "INFO": "सूची से सौदा हटाने के लिए `{{prefix}}mul <ID>` का उपयोग करें",
     "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}} । {{prefix}}mbuy <Order-ID> <Amount>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
-    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO ",
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"
 }
