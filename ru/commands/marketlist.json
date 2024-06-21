@@ -7,7 +7,7 @@
     "PRODUCTS": "Объявление:",
     "RATE": "Курс:",
     "VALUE": "Стоимость:",
-    "CANCELLED": "Процесс отменен",
+    "CANCELLED": "{{author}} Процесс отменен",
     "NOT_ENOUGH_CANCEL": "{{author}} У вас недостаточно **{{currency}}** для данного процесса",
     "SUCCESS": "{{author}} Ваше объявление успешно размещено",
     "EMBED_TITLE": "SOFI: MARKET LISTING",

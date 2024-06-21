@@ -9,7 +9,7 @@
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
     "CARD_LOCKED": "{{author}} Данная карта заблокирована и не может быть передана! Используйте команду `{{prefix}}ut <CardCode>`, чтобы разблокировать карту",
-    "CANCELLED": "Процесс отменен",
+    "CANCELLED": "{{author}} Процесс отменен",
     "AUTHOR_QUARANTINED": "{{author}} Вы находитесь на карантине",
     "MEM_NOT_VERIFIED": "{{author}} Данный пользователь не прошел проверку",
     "AUTHOR_BLACKLISTED": "{{author}} Вы занесены в черный список",

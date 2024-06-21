@@ -5,7 +5,7 @@
     "NO_GIF_MORPHED": "{{author}} Вы не можете преобразовать **GIF** карту",
     "CONTINUE": "SOFI: MORPH",
     "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}}?",
-    "CANCELLED": "Процесс отменен",
+    "CANCELLED": "{{author}} Процесс отменен",
     "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно **{{currency}}** для данного процесса",
     "BALANCE": "Баланс: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Название: **{{name}}**",
