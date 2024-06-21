@@ -1,5 +1,5 @@
 {
-  "ALBUMCONFIG_DESCRIPTION": "قم بتكوين ألبومك",
-  "AC_CATEGORY": "ألبوم",
-  "CONFIGURE_ALBUM": "إنشاء وتحرير الألبومات الخاصة بك على الموقع: <{{albumName}}https://sofi.gg/albums>"
+    "ALBUMCONFIG_DESCRIPTION": "استخدام هذا الأمر سيُرسل رسالة تحتوي على رابط إلى موقع Sofi الرسمي، حيث يمكنك تخصيص وتكوين ألبوماتك",
+    "AC_CATEGORY": "ألبوم",
+    "CONFIGURE_ALBUM": "{{author}} أنشئ وعدّل ألبوماتك على موقعنا: <https://sofi.gg/albums{{albumName}}>"
 }

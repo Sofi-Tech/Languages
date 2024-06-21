@@ -13,7 +13,7 @@
     "RATE": "Rate:",
     "VALUE": "Value:",
     "EMBED_TITLE": "SOFI: MARKET LISTING",
-    "CANCELLED": "The process has been cancelled",
+    "CANCELLED": "{{author}} The process has been cancelled",
     "NOT_ENOUGH_CANCEL": "{{author}} You dont have enough **{{currency}}** for this process",
     "SUCCESS": "{{author}} Successfully listed your order"
 }

@@ -1,5 +1,22 @@
 {
     "AI_CATEGORY": "بطاقات",
     "NO_ONGOING_AUCTION": "{{author}} لا توجد حاليًا أي مزادات نشطة",
-    "AUCTIONINFO_DESCRIPTION": "سيؤدي هذا الأمر إلى فتح تضمين يعرض المزادات السابقة والجارية لأكواد البطاقات، والتي يمكنك المزايدة عليها. تستخدم المزادات charms كعملة مطلوبة لوضع عرض"
+    "AUCTIONINFO_DESCRIPTION": "سيؤدي هذا الأمر إلى فتح تضمين يعرض المزادات السابقة والجارية لأكواد البطاقات، والتي يمكنك المزايدة عليها. تستخدم المزادات Charms كعملة مطلوبة لوضع عرض",
+    "EMBED_TITLE": "SOFI: AUCTION INFO",
+    "YOUR_CHANCE": "فُرصتك",
+    "TOTAL_CHARMS": "مجموع Charms",
+    "INVALID_BID_AMOUNT": "{{author}} يجب أن يكون رهانك رقمًا!",
+    "BID_BUTTON_LABEL": "الرهان",
+    "AI_CURRENT": "المزايدة الحالية",
+    "BID_MODAL_LABEL": "مبلغ الرهان",
+    "BID_MODAL_TITLE": "مزايدة المزاد",
+    "BID_MODAL_PLACEHOLDER": "أدخل مبلغ الرهان",
+    "AI_ENDS": "ينتهي",
+    "SELECT_AUCTION_PLACEHOLDER": "اختر مزادًا",
+    "MINIMUM_AMOUNT": "{{author}} يجب أن تقدم عرضًا بحد أدنى قدره **{{amount}}** {{currencyEmoji}} لهذا المزاد",
+    "NOT_ENOUGH_CURRENCY": "{{author}} ليس لديك ما يكفي من {{emoji}}",
+    "AUCTION_NOT_FOUND": "تعذر العثور على هذا المزاد",
+    "POSITIVE_NUMBER": "{{author}} يجب أن يكون رهانك رقمًا إيجابيًا",
+    "BID_SELECTION": "استخدم الأمر `{{prefix}}ai <Auction-ID>` أو اختر مزادًا نشطًا من القائمة أدناه",
+    "BID_SUCCESSFUL": "{{author}} لقد قمت بنجاح بتقديم عرض بقيمة **{{amount}}** {{emoji}}"
 }

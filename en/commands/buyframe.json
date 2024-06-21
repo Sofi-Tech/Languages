@@ -10,5 +10,5 @@
     "YOU_PAY": "You pay:",
     "NO_ENOUGH_AMOUNT": "{{author}} You don't have enough **{{currency}}** to make this purchase",
     "TRANSACTION_SUCCESSFUL": "{{author}} Successfully purchased the **{{frameName}}** **Frame**",
-    "PROCESS_CANCELLED": "The process has been cancelled"
+    "PROCESS_CANCELLED": "{{author}} The process has been cancelled"
 }

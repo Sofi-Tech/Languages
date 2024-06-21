@@ -25,7 +25,7 @@
     "NOT_WHITELISTED_YET": "{{author}} You haven't whitelisted any commands yet",
     "WHITELIST_ALREADY_ACTIVE": "{{author}} You cannot remove blacklisted commands from a whitelist",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Successfully reset this channel's permission state",
-    "STOPPED_PROCESS": "The process has been cancelled",
+    "STOPPED_PROCESS": "{{author}} The process has been cancelled",
     "ADD_MODAL_LABEL": "Add commands to this channel's {{listName}}",
     "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "REMOVE_MODAL_LABEL": "Remove commands from this channel's {{listName}}",

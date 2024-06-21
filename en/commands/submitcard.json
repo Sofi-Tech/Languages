@@ -34,6 +34,6 @@
     "CHARACTER_NAME": "Character Name: **{{character}}**",
     "SERIES_NAME": "Series: **{{series}}**",
     "SOURCE": "Source: **{{source}}**",
-    "SUBMISSION_DENY": "The process has been cancelled",
+    "SUBMISSION_DENY": "{{author}} The process has been cancelled",
     "SUBMISSION_SUCCESSFUL": "{{author}} Successfully submitted the image"
 }
