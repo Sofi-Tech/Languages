@@ -11,6 +11,6 @@
     "EMBED_MAXED_DESCRIPTION": "Are you sure you want to fully unlock your wishlist for **{{amount}}** **{{currency}}**?",
     "EMBED_MAXED_FIELD_VALUE": "```Maximum wishlist slots (50 Slots)```",
     "WISHLIST_UPGRADE_SUCCESSFUL": "{{author}} Successfully upgraded your wishlist",
-    "CANCELLED": "{{author}} The process has been cancelled",
+    "CANCELLED": "The process has been cancelled",
     "PAY_ERROR": "{{author}} You don't have enough **{{currency}}** for this process"
 }

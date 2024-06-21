@@ -4,7 +4,7 @@
     "GUILDSTONE_BURN": "Are you sure you want to burn your **Guild Stone**?",
     "GUILDSTONE_NOT_FOUND": "{{author}} You do not have a **Guild Stone**",
     "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Successfully burned your **Guild Stone**",
-    "CANCELLED": "{{author}} The process has been cancelled",
+    "CANCELLED": "The process has been cancelled",
     "BURN_FRAG_WARN": "Are you sure you want to burn this **Fragment**?\n\nName: **{{characterName}}**\nSeries: **{{seriesName}}**\nCode: `{{fragCode}}`",
     "FRAG_NOT_FOUND": "{{author}} The **Fragment** code you provided is either invalid or not in your collection",
     "SUCCESSFUL_FRAGMENT_BURN": "{{author}} Successfully burned your **Fragment**",

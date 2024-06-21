@@ -27,7 +27,7 @@
     "VERSION_CHEST_FOOTER": "Version chests can be traded and opened anytime",
     "EQUIP_EQUIPMENTS": "Use 'sstats <CardCode>' to equip the equipments",
     "GUILD_PACKAGE_PROMPT": "**__Current Card Pool __**\n{{poolLine}}\n\nAre you sure you want to open this package?",
-    "PROCESS_CANCELLED": "{{author}} The process has been cancelled",
+    "PROCESS_CANCELLED": "The process has been cancelled",
     "GUILD_PACKAGE_SUCCESS": "Congratulations! Your **Guild Package** contained the **{{charName}}** **3D-V2** card and 💳 **{{amount}}x** **Gen Scratcher**",
     "CLAIMED": "Claimed"
 }
