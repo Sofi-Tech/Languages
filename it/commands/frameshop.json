@@ -13,7 +13,7 @@
     "DISAGREE_BUTTON_LABEL": "Torna indietro",
     "FRAME_DESC_EDIT": "Inserisci una nuova descrizione per questo **Frame**",
     "EMBED_FRAME_IMAGE_DESC": "Inserisci un nuovo collegamento immagine per sostituire l'immagine corrente di questo **Frame**\n\n```fix\nAssicurati che l'immagine inviata rispetti tutte le nostre linee guida e requisiti!\n```",
-    "EMBED_CANCEL_DESC": "Il processo è stato annullato",
+    "EMBED_CANCEL_DESC": "{{author}} Il processo è stato annullato",
     "EDIT_DESC_ERROR": "{{author}} La descrizione che hai inviato non è valida",
     "EDIT_IMAGE_SUCCESSFUL": "{{author}} Hai inviato con successo la tua richiesta di modifica **Frame**",
     "EDIT_FRAME_IMG_CONFIRM": "Sei sicuro di voler inviare questa richiesta di modifica **Frame**?",

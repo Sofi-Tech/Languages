@@ -1,11 +1,11 @@
 {
-    "UNLOCKGLOW_DESCRIPTION": "Lumikha ng random na \"Glow\"",
+    "UNLOCKGLOW_DESCRIPTION": "Lumikha ng random na Glow. Maaari mong gamitin ang Glows upang magdagdag ng kumikinang na epekto sa hangganan ng frame ng iyong kard, baguhin ang mga kulay ng teksto sa iyong mga kard, o baguhin ang mga kulay sa iyong profile.",
     "UG_CATEGORY": "Mga Kosmetiko",
-    "EMBED_TITLE": "SOFI: MAKALIKHA NG GLOW",
+    "EMBED_TITLE": "SOFI: GENERATE GLOW",
     "UNLOCK_GLOW_CONFIRM": "{{author}} Sigurado ka bang nais mong bumili ng random na **Glow** sa halagang **100** {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "Ang proseso ay na kansela",
+    "CANCELLED_UNLOCK_GLOW": "{{author}} Ang proseso ay kinansela",
     "NOT_ENOUGH_GEMS": "{{author}} Wala kang sapat na **Gems**",
-    "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
     "UNLOCK_GLOW_SUCCESS": "{{author}} Matagumpay na nakabili ng **Glow**",
-    "GLOW_INFO": "Pangalan: **{{glowName}}**\nCode: **`{{glowCode}}`**\nPurity: **{{purity}}%**"
+    "GLOW_INFO": "Name: **{{glowName}}**\nCode: **`#{{glowCode}}`**\nPurity: **{{purity}}%**"
 }

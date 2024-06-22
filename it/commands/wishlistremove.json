@@ -1,7 +1,7 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Usa questo comando per rimuovere un personaggio dalla tua wishlist",
-    "CATEGORY": "Wishlist",
-    "NO_INDEX": "{{author}} Corretto uso: `{{prefix}}wr <Name/Number>`. Usa il comando`{{prefix}}wr full reset`Per ripulire la tua intera lista dei desideri",
+    "WISHLISTREMOVE_DESCRIPTION": "Usa questo comando per rimuovere un personaggio dalla tua lista dei desideri",
+    "CATEGORY": "Lista dei desideri",
+    "NO_INDEX": "{{author}} Uso corretto: `{{prefix}}wr <Name/Number>`. Usa il comando`{{prefix}}wr full reset`Per ripulire la tua intera lista dei desideri",
     "FULL_RESET": "{{author}} Rimossi con successo tutti i personaggi dalla tua lista dei desideri",
     "REMOVE_CHARACTER": "> {{author}} Rimosso con successo **{{name}}** dalla tua lista dei desideri",
     "NO_RESULTS": "{{author}} Non c'è nessun personaggio con il nome `{{name}}` nella tua lista dei desideri"
