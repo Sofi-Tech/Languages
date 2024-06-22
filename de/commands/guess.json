@@ -6,7 +6,7 @@
     "INFO_1": "{{user}} hat ein Ratespiel gestartet!",
     "INFO_2": "Teilnahmegebühr: **{{bet}}** {{currencyEmoji}}",
     "INFO_3": "Preispool **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "Klicke auf 🍻, um beizutreten | Starte das Spiel indem du auf 🟢 klickst",
+    "FOOTER": "Klicke auf 🍻, um beizutreten! Starte das Spiel indem du auf 🟢 klickst",
     "REQ_MORE_PLAYERS": "{{user}}, du brauchst mindestens **2** Spieler, um das Spiel zu starten",
     "GUESS_THE_WORD": "{{participants}}\n\nEntschlüssele das **englische** Wort: `{{scrambledWord}}`",
     "CORRECT_GUESS": "{{winner}} hat das Wort erraten und **{{jackpot}}** {{currencyEmoji}} gewonnen",
