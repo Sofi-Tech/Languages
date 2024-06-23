@@ -10,7 +10,7 @@
     "INVALID_BID_AMOUNT": "{{author}} Tawaran Anda harus berupa angka!",
     "POSITIVE_NUMBER": "{{author}} Penawaran anda harus berupa angka positif",
     "NOT_ENOUGH_CURRENCY": "{{author}} Anda tidak memiliki cukup {{emoji}}",
-    "AUCTION_NOT_FOUND": "Lelang tidak ditemukan",
+    "AUCTION_NOT_FOUND": "{{author}} Lelang tidak ditemukan",
     "BID_SUCCESSFUL": "{{author}} Anda telah berhasil mengajukan penawaran sebesar **{{amount}}** {{emoji}}",
     "BID_SELECTION": "Gunakan perintah {{prefix}}ai <Auction-ID> atau pilih lelang yang sedang aktif dari menu di bawah",
     "NO_ONGOING_AUCTION": "{{author}} Saat ini tidak ada lelang yang aktif",

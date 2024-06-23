@@ -13,7 +13,7 @@
     "TAGNAME_LONG": "{{author}} Nama tag hanya boleh terdiri dari **20** karakter",
     "REPLACE_NAME_CONFIRMATION": "Apakah anda yakin ingin mengubah nama tag ini dari `{{oldTag}}` menjadi `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Berhasil mengubah nama tag anda dari `{{oldTag}}` menjadi `{{newTag}}`",
-    "PROCESS_TERMINATED": "Proses telah dibatalkan",
+    "PROCESS_TERMINATED": "{{author}} Proses telah dibatalkan",
     "REPLACE_EMOJI": "Masukkan emoji yang anda inginkan untuk diganti dengan {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Emoji tersebut tidak valid",
     "REPLACE_EMOJI_CONFIRMATION": "Apakah anda yakin ingin mengubah emoji dari tag ini dari {{oldEmoji}} ke {{newEmoji}}?",

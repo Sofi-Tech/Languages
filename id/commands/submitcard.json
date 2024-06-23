@@ -34,6 +34,6 @@
     "CHARACTER_NAME": "Nama Karakter: **{{character}}**",
     "SERIES_NAME": "Seris: **{{series}}**",
     "SOURCE": "Sumber: **{{source}}**",
-    "SUBMISSION_DENY": "Proses telah dibatalkan",
+    "SUBMISSION_DENY": "{{author}} Proses telah dibatalkan",
     "UPSCALE_IMAGE_SITE": "Upscale gambar: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**"
 }

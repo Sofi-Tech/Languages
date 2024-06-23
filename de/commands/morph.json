@@ -22,7 +22,7 @@
     "NO_SPECIAL_REROLLED": "Keinen speziellen Morph gewürfelt",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Jeder Versuch wird 1 {{currencyName}} kosten",
-    "CANNOT_APPLY_MNC": "{{author}} Du kannst einen {{article}} **{{eventType}}** Morph nicht auf **{{eventCardType}}** oder **3D**-Karten anwenden",
+    "CANNOT_APPLY_MNC": "{{author}} Du kannst {{article}} **{{eventType}}** Morph nicht auf **{{eventCardType}}** oder **3D**-Karten anwenden",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}m <KartenCode> <MorphItem>`",
     "NONE": "Keine",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
