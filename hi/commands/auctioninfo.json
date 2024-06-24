@@ -14,7 +14,7 @@
     "INVALID_BID_AMOUNT": "{{author}} आपकी बोली एक संख्या होनी चाहिए!",
     "POSITIVE_NUMBER": "{{author}} आपकी बोली एक सकारात्मक संख्या होनी चाहिए",
     "BID_SUCCESSFUL": "{{author}} आपने सफलतापूर्वक **{{amount}}** {{emoji}} की बोली लगा दी है",
-    "AUCTION_NOT_FOUND": "यह नीलामी ढूंढने में असमर्थ",
+    "AUCTION_NOT_FOUND": "{{author}} यह नीलामी ढूंढने में असमर्थ",
     "TOTAL_CHARMS": "कुल Charms",
     "YOUR_CHANCE": "आपकी बारी",
     "BID_BUTTON_LABEL": "बोली लगाएं",

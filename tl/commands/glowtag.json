@@ -1,6 +1,6 @@
 {
     "GLOWTAG_DESCRIPTION": "Sa command na ito maaari kang magtalaga ng pananda sa iyong Glow. Upang makagawa ng pananda sa Glow, gamitin ang \"Glowtagcreate\" command",
-    "GT_CATEGORY": "Mga Pananda",
+    "GT_CATEGORY": "Pananda",
     "GLOWTAGS_NOT_FOUND": "{{author}} Wala ka pang pananda sa **Glow**. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Pangalan> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Wala ka pang kahit anong **Glows**",
     "INVALID_GLOW_CODE": "{{author}} Isa sa mga code ng **Glow** na iyong binigay ay hindi tama o wala sa iyong imbentaryo",

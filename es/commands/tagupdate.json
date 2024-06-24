@@ -13,7 +13,7 @@
     "TAGNAME_LONG": "{{author}} El nombre de un tag sólo puede tener **20** caracteres",
     "REPLACE_NAME_CONFIRMATION": "Estás seguro de que quieres cambiar el nombre de este tag de `{{oldTag}}` a `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Se ha cambiado con éxito el nombre de tu tag de `{{oldTag}}` a `{{newTag}}`",
-    "PROCESS_TERMINATED": "El proceso ha sido cancelado",
+    "PROCESS_TERMINATED": "{{author}} El proceso ha sido cancelado",
     "REPLACE_EMOJI": "Introduce el emote por el que quieres que se sustituya {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Ese es un emote no válido",
     "REPLACE_EMOJI_CONFIRMATION": "Estás seguro de que quieres cambiar el emote de este tag de {{oldEmoji}} a {{newEmoji}}?",

@@ -17,7 +17,7 @@
     "CARD_TEMPLATE": "Plantilla de Carta: **[Descarga archivo PSD](https://cdn.discordapp.com/attachments/870354581115256852/996801896616562705434509803551/11297816936796692698/sofi_card.psd)**",
     "CARD_INFO_CHANNEL": "Normas para el Envío: **[Míralas Aquí](https://discord.gg/EUp7rNVC4U)**",
     "EDIT_IMAGE_SITE": "Recortar Imágenes: **[Photopea](https://www.photopea.com/)**",
-    "SUBMISSION_DENY": "El proceso ha sido cancelado",
+    "SUBMISSION_DENY": "{{author}} El proceso ha sido cancelado",
     "UPSCALE_IMAGE_SITE": "Aumentar Resolución de Imagen: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**",
     "TOTAL_EVENT_2D": "Cartas **2D** event únicas: **{{totalEventCards}}**",
     "TOTAL_EVENT_3D": "Cartas **2D** de event únicas: **{{totalEventCards}}**",

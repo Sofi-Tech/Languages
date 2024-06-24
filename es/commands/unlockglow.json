@@ -3,7 +3,7 @@
     "UG_CATEGORY": "Cosméticos",
     "EMBED_TITLE": "SOFI: GENERATE GLOW",
     "UNLOCK_GLOW_CONFIRM": "{{author}} ¿Estás seguro de que quieres comprar un **Glow** aleatorio por **100** {{currency}}?",
-    "CANCELLED_UNLOCK_GLOW": "El proceso ha sido cancelado",
+    "CANCELLED_UNLOCK_GLOW": "{{author}} El proceso ha sido cancelado",
     "NOT_ENOUGH_GEMS": "{{author}} No tienes suficientes **Gems**",
     "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
     "UNLOCK_GLOW_SUCCESS": "{{author}} Comprado con éxito un **Glow**",

@@ -8,7 +8,7 @@
     "BID_MODAL_TITLE": "Puja en la Subasta",
     "BID_MODAL_PLACEHOLDER": "Introduce la Cantidad a Pujar",
     "POSITIVE_NUMBER": "{{author}} Tu puja tiene que ser un numero positivo",
-    "AUCTION_NOT_FOUND": "No se pudo encontrar esa subasta",
+    "AUCTION_NOT_FOUND": "{{author}} No se pudo encontrar esa subasta",
     "AI_CURRENT": "Puja Actual",
     "NO_ONGOING_AUCTION": "{{author}} No hay subastas activas por el momento",
     "INVALID_BID_AMOUNT": "{{author}} Tu puja tiene que ser un numero!",
