@@ -1,6 +1,6 @@
 {
-    "DROP_WILL_HAPPEN": "\nカードの作成<t:{{timestamp}}:R>",
-    "NOT_ENOUGH_CHARACTERS": "選ばれたシリーズにキャラが足りないので、カードを作れません",
-    "DROP_CARDS": "時間切れになると、トップシリーズから 2 枚のカードが生成されます!\n",
-    "NO_VOTES": "投票がないため、カード生成を中止します!"
+    "DROP_WILL_HAPPEN": "\nカード作成中<t:{{timestamp}}:R>",
+    "NOT_ENOUGH_CHARACTERS": "選択されたシリーズにキャラが足りないので、カードを作成できません",
+    "DROP_CARDS": "時間切れになると、トップシリーズから 2 枚のカードを作成されます!\n",
+    "NO_VOTES": "投票がないため、カード作成を中止します!"
 }
