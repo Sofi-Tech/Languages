@@ -1,9 +1,9 @@
 {
-    "ACHIEVEMENTS_DESCRIPTION": "利用可能な実績のリストを表示する",
+    "ACHIEVEMENTS_DESCRIPTION": "全実績と利用可能な実績のリストを表示する",
     "ACH_CATEGORY": "設定",
-    "ACH_CLAIMED": "プレイヤーが取得している",
-    "ACH_EMBED_TITLE": "SOFI： ACHIEVEMENTS ({{totalClaimed}}/{{achWithPercent}})",
+    "ACH_CLAIMED": "請求済み",
+    "ACH_EMBED_TITLE": "SOFI： 実績 ({{totalClaimed}}/{{achWithPercent}})",
     "FAN_EMBED_TITLE": "SOFI：推しポイント",
-    "ACH_LOADING": "<a:ping:876612181725167687> 読込中",
+    "ACH_LOADING": "<a:ping:876612181725167687> ロード中",
     "NO_STATS_FOUND": "まだどのキャラで推しのポイントが付きません"
 }

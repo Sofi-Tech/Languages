@@ -1,12 +1,15 @@
 {
-    "BUY_DESCRIPTION": "「Sofiショップ」から「アイテム」を購入する",
-    "SLASH_DESC": "購入したいアイテム名を入力してください",
-    "SLASH_DESC2": "数量を入力してください",
+    "BUY_DESCRIPTION": "このコマンドを使って商品名と数量を入力すると、その商品の購入手続きが開始されます。というコマンド を使用してください「Shop」全アイテムを表示する",
+    "SLASH_DESC": "購入したい商品名を入力してください",
+    "SLASH_DESC2": "金額を入力してください",
     "SLASH_DESC3": "購入する背景コードを入力してください。 [背景として選択されているアイテムのみ機能します]",
-    "NO_ITEM": "{{author}} 正しい使い方: `{{prefix}}buy <アイテム名> <数量>`",
-    "TRADEPASS_INFO": "「**Bump**」を取得するため下記のウェブサイトを見ると「**Trade Pass**」及びいくつのアイテムに変換できます",
-    "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}buy bg <背景ID> <数量>`",
-    "INVALID_BG_AMOUNT": "{{author}}マイナスの数量が購入できません",
-    "INVALID_BG_ID": "{{author}}入力された**背景**IDが無効です",
-    "INVALID_ITEM_PROVIDED": "{{user}} 入力されたアイテムは無効です"
+    "NO_ITEM": "{{author}} 正しい使い方: `{{prefix}}buy <ItemName> <Amount>`",
+    "TRADEPASS_INFO": "**Bump**を取得するため下記のウェブサイトを見ると**Trade Pass**及びいくつのアイテムに変換できます",
+    "CORRECT_USAGE": "{{user}} 正しい使い方: `{{prefix}}buy bg <Background-ID> <Amount>`",
+    "INVALID_BG_AMOUNT": "{{author}}マイナスの数量は購入できません",
+    "INVALID_BG_ID": "{{author}}入力された**Background**IDが無効です",
+    "INVALID_ITEM_PROVIDED": "{{user}}入力したアイテムは有効ではありません",
+    "BUY_CHARMS_MULTIPLES": "{{author}}「Charms」は100の倍数でのみ購入可能です",
+    "BUY_CHARM_CONFIRMATION": "##購入中です{{amount}} <:xcharm:988729774031638528>",
+    "BUY_GEN_CONFIRMATION": "##購入中です{{count}}gen scratcher"
 }

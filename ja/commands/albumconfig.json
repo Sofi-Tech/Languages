@@ -1,5 +1,5 @@
 {
-    "ALBUMCONFIG_DESCRIPTION": "アルバムを編集する",
+    "ALBUMCONFIG_DESCRIPTION": "このコマンドを使うつ、正式なウェブサイトへのリンクを表示されます。そのウェブサイトでアルバムの編集をできます",
     "AC_CATEGORY": "アルバム",
-    "CONFIGURE_ALBUM": "{{author}} ウェブサイトに自分のアルバムを作成と編集をできます： <https://sofi.gg/albums{{albumName}}>"
+    "CONFIGURE_ALBUM": "{{author}} ウェブサイトに自分のアルバムの作成と編集ができます： <https://sofi.gg/albums{{albumName}}>"
 }

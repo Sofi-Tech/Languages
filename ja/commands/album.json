@@ -1,7 +1,7 @@
 {
-    "ALBUM_DESCRIPTION": "自分のアルバムを見る",
+    "ALBUM_DESCRIPTION": "このコマンドをそのまま使うと自分のアルバムを表示する。アルバムの名前がコマンドに追加すればそのアルバムを表示されます",
     "ALBUM_CATEGORY": "アルバム",
-    "ALBUM_SLASH_DESC": "表示したいアルバムを作成したユーザー名を入力してください",
+    "ALBUM_SLASH_DESC": "表示したいアルバムの作成したユーザー名を入力してください",
     "ALBUM_SLASH_DESC2": "表示したいアルバム名を入力してください。",
     "USER_NOT_FOUND": "{{author}} 提供されたユーザーが見つけられませんでした",
     "PLAYER_NOT_EXIST": "{{author}} そのユーザーはまだ登録されていません",
