@@ -10,5 +10,13 @@
     "USER_PRIVATE": "{{author}} User Ini mengatur **Version Tokens** koleksi ke privat",
     "AUTHOR_NO_TOKENS": "{{author}} Anda belum memiiki **Version Token**",
     "USER_NO_TOKENS": "{{author}} User tersebut belum punya **Version Token**",
-    "NOTHING_FOUND": "Tidak dapat menemukan **Version Token**"
+    "NOTHING_FOUND": "Tidak dapat menemukan **Version Token**",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "EMBED_FOOTER": "Halaman: {{page}}/{{totalPages}} | Total Versi Token: {{count}}",
+    "SAVE_FILTER": "500 - Simpan Filter ini",
+    "SELECT_FILTER": "Pilih Filter",
+    "FILTER_NO_VT_FOUND": "{{author}} Tidak bisa menemukan **Version Tokens** sesuai filter yang anda pilih",
+    "INVALID_SERIES": "Seri tidak valid",
+    "SORT_CARD": "Kartu Dasar",
+    "SORT_VERSION": "Versi"
 }
