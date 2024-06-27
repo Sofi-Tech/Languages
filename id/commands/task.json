@@ -62,5 +62,7 @@
     "ELEMENT_INFO": "Elemen: **{{element}}**",
     "TYPE": "Tipe: **{{type}}**",
     "CAPABILITY": "Kemampuan:{{capability}}",
-    "ELEMENT_PREFERENCE": "Preferensi Elemen: {{elements}}"
+    "ELEMENT_PREFERENCE": "Preferensi Elemen: {{elements}}",
+    "NOT_AVAILABLE": "Tidak tersedia",
+    "QUEST_REWARD": "Dapat memperoleh **{{minimumShards}}** sampai **{{maximumShards}}** <:_:1168102686785273916> dan **{{minimumSilvers}}** sampai **{{maximumSilvers}}** <:_:915619222229512213>\ndengan tambahan jumlah **{{luckFactor}}x** yang diperoleh\nAkan mendapatkan **{{questXP}}** pengalaman per kartu"
 }

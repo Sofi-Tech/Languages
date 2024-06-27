@@ -1,5 +1,5 @@
 {
-    "INVENTORY_DESCRIPTION": "Visualizza Inventory di un utente",
+    "INVENTORY_DESCRIPTION": "Utilizzando questo comando verrà visualizzato inventory di un utente",
     "SLASH_DESC": "Seleziona un utente per vedere il suo Inventory",
     "SLASH_DESC2": "Inserisci Item che vuoi cercare",
     "NOT_REGISTER": "{{author}} Quell'utente non è registrato",
@@ -22,5 +22,10 @@
     "EMBED_AUTHOR": "SOFI: INVENTORY ({{username}})",
     "NO_CRYSTALS_FOUND": "Impossibile trovare alcun **Crystals**",
     "FRAME_CATEGORY_ALL": "Tutti Frames",
-    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Seleziona una categoria"
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Seleziona una Frame Categoria",
+    "FRAME_CATEGORY_OFFICIAL": "Ufficiale",
+    "FRAME_CATEGORY_LIMITED": "Limitato",
+    "FRAME_CATEGORY_MONTHLY": "Mensile",
+    "FRAME_CATEGORY_DISCONTINUED": "Interrotto",
+    "FRAME_CATEGORY_CUSTOM": "Costume"
 }

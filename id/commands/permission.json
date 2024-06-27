@@ -17,7 +17,7 @@
     "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menambahkan semua perintah ke saluran ini {{listName}}",
     "NOT_WHITELISTED_YET": "{{author}} Anda belum memasukkan perintah ke daftar putih",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Berhasil mereset status izin di channel ini",
-    "STOPPED_PROCESS": "Proses ini di batalkan",
+    "STOPPED_PROCESS": "{{author}} Proses ini di batalkan",
     "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menghapus perintah berikut dari saluran ini {{listname}}: {{commandsList}}",
     "PERMISSION_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>`",
     "BLACKLISTED_COMMANDS": "**__Perintah berada di daftar hitam__**",

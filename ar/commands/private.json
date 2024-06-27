@@ -1,7 +1,10 @@
 {
-  "PRIVATE_DESCRIPTION": "تحوي منشوراتك \"المجموعة\", \"القائمة المفضلة\" او \"المخزون\"",
-  "PVT_CATEGORY": "الإعدادات",
-
-  "PRIVATE_ENABLED": "{{author}} {{content}} هو الآن خاص",
-  "PRIVATE_DISABLED": "{{author}} {{content}} لم يعد خاص"
+    "PRIVATE_DESCRIPTION": "استخدم هذا الأمر لتخصيص جزء من حسابك. سيصبح القسم المخصص لن يكون مرئيًا للاعبين الآخرين بعد ذلك. إذا استخدمت هذا الأمر بمفرده، سيظهر لك تكوينك الحالي لهذه الأقسام",
+    "PVT_CATEGORY": "الإعدادات",
+    "PRIVATE_ENABLED": "{{author}} **{{content}}** الخاص بك الآن خاص",
+    "PRIVATE_DISABLED": "{{author}} **{{content}}** الخاص بك لم يعد خاصًا",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+    "PVT_PUBLIC": "عام",
+    "PVT_PRIVATE": "خاص",
+    "WRONG_ARGUMENTS": "{{author}} الاستخدام الصحيح: `{{prefix}}pvt <C/WL/INV/VT>`"
 }

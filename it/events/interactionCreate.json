@@ -17,5 +17,6 @@
     "SERVER_BLACKLISTED": "{{author}} Il server è nella blacklist. Contattaci su discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} Il comando `{{commandName}}` è blacklisted in questo canale",
     "COMMAND_DISABLED": "{{author}} Questo comando è stato disabilitato\nMotivo: `{{reason}}`",
-    "CATEGORY_DISABLED": "{{author}} Questa categoria è stata disabilitata\nMotivo: `{{reason}}`"
+    "CATEGORY_DISABLED": "{{author}} Questa categoria è stata disabilitata\nMotivo: `{{reason}}`",
+    "SUPPORT_BUTTON_LABEL": "Supporto"
 }
