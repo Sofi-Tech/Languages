@@ -25,7 +25,7 @@
     "MT_COMPLETE": "SOFI: MULTITRADE",
     "MISSING_ITEMS": "{{user}} आपके पास निम्नलिखित आइटम्स की अपर्याप्त मात्रा है:\n{{items}}",
     "CARD_LOCKED": "{{user}} यह पत्ते या तो लॉक्ड है या मौजूदा डेक में उपयोग हो रहे है इन्हे जोड़ा नहीं सकता:\n{{codes}}",
-    "MEMBER_NOT_VERIFIED": "{{author}} वह उपयोगकर्ता वेरिफाइड नहीं है।",
+    "MEMBER_NOT_VERIFIED": "{{author}} वह उपयोगकर्ता वेरिफाइड नहीं है",
     "CARD_TAG_LOCKED": "{{author}} जिस टैग में लॉक्ड पत्ते है उन्हे आप सौदा नहीं कर सकते है।",
     "MT_TRADE_ERROR": "⚠️ सौदे के बीच प्रदान करे गए आइटम्स और पत्ते अब मान्य नही है!",
     "NOTE_BUTTON_LABEL": "टिप्पणी"
