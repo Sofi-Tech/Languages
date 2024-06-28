@@ -1,9 +1,9 @@
 {
     "ACHIEVEMENTS_DESCRIPTION": "埋め込みテキストで全実績と獲得していた実績のリストを表示する",
     "ACH_CATEGORY": "設定",
-    "ACH_CLAIMED": "請求済み",
+    "ACH_CLAIMED": "プレイヤーが獲得した",
     "ACH_EMBED_TITLE": "SOFI： 実績 ({{totalClaimed}}/{{achWithPercent}})",
     "FAN_EMBED_TITLE": "SOFI：推しポイント",
-    "ACH_LOADING": "<a:ping:876612181725167687> ロード中",
-    "NO_STATS_FOUND": "まだどのキャラで推しのポイントが付きません"
+    "ACH_LOADING": "ロード中<a:ping:876612181725167687>",
+    "NO_STATS_FOUND": "まだどのキャラで推しポイントが付きません"
 }
