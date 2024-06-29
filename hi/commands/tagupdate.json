@@ -13,7 +13,7 @@
     "TAGNAME_LONG": "{{author}} टैग का नाम **20** वर्णों से अधिक नहीं होना चाहिए।",
     "REPLACE_NAME_CONFIRMATION": "क्या आप वाकई में टैग का नाम `{{oldTag}}` से `{{newTag}}` बदलना चाहते हैं?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} टैग के नाम को सफलतापूर्वक `{{oldTag}}` से `{{newTag}}` बदला गया।",
-    "PROCESS_TERMINATED": "प्रक्रिया रद्द की गई",
+    "PROCESS_TERMINATED": "{{author}} प्रक्रिया रद्द की गई",
     "REPLACE_EMOJI": "{{emoji}} को बदलने के लिए नया इमोजी दर्ज करे",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} वह इमोजी अमान्य है।",
     "REPLACE_EMOJI_CONFIRMATION": "क्या आप वाकई में टैग का इमोजी {{oldEmoji}} से {{newEmoji}} बदलना चाहते हैं?",
