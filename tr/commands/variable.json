@@ -1,5 +1,5 @@
 {
-    "MILLISECOND": "milisaniye",
+    "MILLISECOND": "Milisaniye",
     "MILLISECONDS": "milisaniye",
     "SECOND": "saniye",
     "SECONDS": "saniyeler",
@@ -14,8 +14,8 @@
     "YEAR": "yıl",
     "YEARS": "yıllar",
     "SUCCESS": "Süreç başarıyla tamamlandı",
-    "CANCELLED": "Süreç iptal edildi",
-    "PROCESSING": "İsteğiniz işleniyor....<a:loading:876610443148406794>",
+    "CANCELLED": "Süreç İptal edildi",
+    "PROCESSING": "İsteğiniz İşleniyor....<a:loading:876610443148406794>",
     "AVAILABLE": "Yüklü",
     "UNAVAILABLE": "Boş",
     "ATTACK": "Saldırı",
@@ -34,5 +34,6 @@
     "AUTHOR_UNVERIFIED": "{{author}} Doğrulanmadınız",
     "MEMBER_QUARANTINED": "{{author}} Bu kullanıcı karantinada",
     "AN": "bir",
-    "A": "bir"
+    "A": "Bir",
+    "THE": "THE"
 }

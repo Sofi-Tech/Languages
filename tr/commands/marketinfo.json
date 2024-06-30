@@ -1,15 +1,16 @@
 {
-    "MARKETINFO_DESCRIPTION": "Şu anki pazar listenizi gösterir ya da ID sağlarsanız bir pazarın incelemesini gösterir",
-    "INVALID_DEAL_ID": "{{author}} Belirttiğiniz ticaret ID si geçersizdir",
-    "TRADER": "tüccar",
-    "DEAL_ID": "Anlaşma IDsi",
+    "MARKETINFO_DESCRIPTION": "Bu komutu kullandığınızda mevcut piyasa siparişiniz görüntülenecektir. Belirli bir sipariş hakkında daha fazla bilgi almak için mevcut bir siparişin kimliğini de isteme ekleyebilirsiniz",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız Teklif Kimliği geçersiz",
+    "TRADER": "Tüccar",
+    "DEAL_ID": "Sipariş Kimliği",
     "PRODUCT": "Ürün",
     "VALUE": "Değer",
     "RATE": "Oran",
     "LISTED": "Listelenen",
-    "NO_LISTINGS_FOUND": "{{user}} Markette herhangi bir pazar kaydınız yok",
-    "INFO": "Mevcut pazarlarınızı devre dışı bırakmak için `{{prefix}}mul <ID>` komutunu kullanın\n**Bir seferde yalnızca tek bir pazar açılabilir**",
-    "FOOTER": "Sonuçlar gösteriliyor  {{page}}-{{pages}} ile ilgili  {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
-    "EMBED_TITLE": "SOFI: MARKETINFO",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Oran: `{{rateAmount}}` {{rateEmoji}}"
+    "NO_LISTINGS_FOUND": "{{user}} Şu anda piyasada herhangi bir siparişiniz yok",
+    "INFO": "Siparişinizi marketten kaldırmak için `{{prefix}}mul <Sipariş Kimliği>` komutunu kullanın",
+    "FOOTER": "{{total}} sonuçlarından {{page}}-{{pages}} sonuçları gösteriliyor | {{prefix}}mbuy <Sipariş Kimliği> <Tutar>",
+    "EMBED_TITLE": "SOFI: PAZAR BİLGİSİ ({{userName}})",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Oran: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: SİPARİŞ BİLGİLERİ"
 }

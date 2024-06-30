@@ -1,3 +1,23 @@
 {
-    "NAME": "İsim"
+    "NAME": "İsim",
+    "PROCESS_COMPLETED": "Süreç Başarıyla Tamamlandı",
+    "FONT": "YAZI TİPİ",
+    "GEN": "Gen",
+    "SERIES": "Seri",
+    "SELECT_MENU_PLACEHOLDER": "Yazı Tipini Seçin",
+    "GLOW_MODAL_TITLE": "Glow Kodu: {{type}}",
+    "GLOW_MODAL_PLACEHOLDER": "Örneğin. #1vg0a1",
+    "GLOW_MODAL_LABEL": "Parlama kodunu girin",
+    "GLOW_CODE_INVALID": "Sağladığınız **Glow** kodu geçersiz veya envanterinizde yok",
+    "SAVE_MODAL_LABEL": "Emin misin?",
+    "SAVE_MODAL_TITLE": "Yazı Tipi: Onayla",
+    "NOT_ENOUGH_GEMS": "Bu satın alma işlemini gerçekleştirmek için yeterli **Gems** yok",
+    "NOT_ENOUGH_SILVERS": "Bu satın alma işlemini gerçekleştirmek için yeterli **Silver**ınız yok",
+    "COLORS": "Renkler",
+    "FONT_DESCRIPTION": "Bir kartın metnine bir Parıltı uygulamak veya Gen, Ad veya Seri arasında geçiş yapmak için bu komutu kullanabilirsiniz",
+    "FONT_CATEGORY": "Kozmetikler",
+    "ERROR_FINDING_CARD": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
+    "NO_GIF_3D": "{{author}} **3D** veya **GIF** kartlarındaki metni değiştiremezsiniz",
+    "EMBED_TITLE": "SOFI: YAZI TİPİ",
+    "PRICE": "Fiyat"
 }

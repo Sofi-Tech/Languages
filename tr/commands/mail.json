@@ -1,14 +1,14 @@
 {
-    "MAIL_DESCRIPTION": "Gelen kutunuzu açar",
+    "MAIL_DESCRIPTION": "Bu komut, Sofi tarafından size gönderilen, sizi etkinlikler hakkında bilgilendiren, değişiklikleri ve yeni özellikleri duyuran çeşitli mesajları bulacağınız gelen kutunuzu açacaktır",
     "MAIL_CATEGORY": "Ayarlar",
     "MENU_PLACEHOLDER": "Bir Seçenek Seçin",
-    "EMBED_AUTHOR": "{{username}}'nin Gelen Kutusu",
+    "EMBED_AUTHOR": "{{username}} Kullanıcısının Gelen Kutusu",
     "EMBED_FOOTER": "Sayfa: {{page}}/{{pagesNum}}",
     "REWARD_CLAIMED_BUTTON_LABEL": "Talep edildi",
-    "CLAIMED_REWARD_ALREADY": "{{author}} Daha önceki bir komutta ödülü zaten aldınız",
+    "CLAIMED_REWARD_ALREADY": "{{author}} Daha önceki bir komutta ödülü zaten talep etmiştiniz",
     "CLAIM_REWARD_BUTTON_LABEL": "Ödülünüzü alın",
     "MAIL_REWARDS": "**__Ödüller__**\n",
-    "MAIL_FRAME": "`Frame `",
-    "NO_MAILS_FOUND": "{{author}} Gelen kutunuzda hiç `Mail` bulunmuyor",
-    "REWARD_CLAIM_INVENTORY": "{{author}} Ekteki `Item`'lar, `Inventory`'nize eklendi"
+    "MAIL_FRAME": "**Frame**",
+    "NO_MAILS_FOUND": "{{author}} Gelen kutunuzda hiç posta yok",
+    "REWARD_CLAIM_INVENTORY": "{{author}} Ekli öğeler envanterinize eklendi"
 }

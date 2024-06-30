@@ -7,7 +7,7 @@
     "VERIFY_TO_PLAY": "[Oynamak için web sitemizde kendinizi doğrulayın!](<https://sofi.gg/verify>)",
     "USER_BLACKLISTED": "{{author}} Bu kullanıcı kara listede",
     "GLOBAL_COOLDOWN": "> [`Global`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekle",
-    "COMMAND_BLACKLISTED": "> Bu kanalda `{{commandName}}` komutu devre dışı edilmiştir",
+    "COMMAND_BLACKLISTED": "{{author}} `{{commandName}}` komutu bu kanalda kara listeye alındı",
     "REQUIRE_CLIENT_PERMISSIONS": "`Bu komutu yürütmek için {{permissions}} yetkilerine ihtiyacım var`",
     "REQUIRE_MEMBER_PERMISSIONS": "`Bu komutu kullanmak için şu yetkilere ihtiyacın var: {{permissions}}`",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",
@@ -15,11 +15,11 @@
     "USER_COMMAND_QUEUE": "<@{{id}}> devam edebilmek için {{existsFor}} komutunu tamamlaman gerekiyor",
     "AUTHOR_COMMAND_QUEUE": "Devam etmeden önce {{existsFor}} komutunu tamamla",
     "SAFE_MODE": "{{author}} **Sofi** şu anda güvenli modda! tahmini varış süresi: **{{eta}}**\nBunun neden olduğu rahatsızlıktan dolayı özür dileriz ve sabrınızı rica ederiz!",
-    "CATEGORY_DISABLED": "> Bu kategori devre dışı bırakıldı. \nSebep: `{{category}}`",
-    "COMMAND_DISABLED": "> Bu komut devre dışı bırakıldı.\nSebep: `{{command}}`",
+    "CATEGORY_DISABLED": "{{author}} Bu kategori devre dışı bırakıldı\nSebep: `{{reason}}`",
+    "COMMAND_DISABLED": "{{author}} Bu komut devre dışı bırakıldı\nSebep: `{{reason}}`",
     "NO_PERMISSIONS": "{{author}} Bu komutu yürütmek için yeterli iznim yok",
     "SERIES_DROP": "Oylama sonuçlandı!",
-    "SERVER_BLACKLISTED": "{{author}} Sunucu kara listede.\nLütfen bizimle siscord.gg/sofi de iletişime geçin",
+    "SERVER_BLACKLISTED": "{{author}} Sunucu kara listede. Lütfen discord.gg/sofi adresinden bizimle iletişime geçin",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} envanterinizde negatif değer var. Lütfen bizimle discord.gg/sofi de iletişime geçin",
     "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614>\n__Sofi'nin kurallarını ihlal ettiğin için kara listeye alındın!__\n\n**Buna neden olabilecek olası nedenlerin listesi:**\n` ` `CSS\n- Sofi ile birden fazla hesapta etkileşim kurma (Alting)\n- Discord hesaplarının tamamını satmak veya satın almak\n- Diğer kullanıcıları dolandırmak\n- Yukarıdaki faaliyetlerden herhangi birinden yararlanmak veya bunlara katılmak\n` ` `\n\n:link: [Kara listenize itiraz edin]\n(<https://sofi.gg/appeal>)\n:link: [Destek Sunucusu]\n(https://discord.gg/sofi)"
 }

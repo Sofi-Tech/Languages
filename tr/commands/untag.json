@@ -2,8 +2,8 @@
     "UNTAG_DESCRIPTION": "Kartınızdan bir etiketi kaldırmak için bu komutu kullanın. Bir etiketin tamamını silmek istiyorsanız bunun yerine \"Tagdelete\" komutunu kullanabilirsiniz",
     "UT_CATEGORY": "Etiketler",
     "UT_EMPTY_COLLECTION": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
-    "UNTAG_SUCCESSFUL": "{{author}} Etiket **{{cardName}}** kartınızdan başarıyla kaldırıldı",
-    "MULTIPLE_UNTAG": "{{author}} **{{count}}** kartlardan etiket başarıyla kaldırıldı",
+    "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}** kartınızdan etiket başarıyla kaldırıldı",
+    "MULTIPLE_UNTAG": "{{author}} **{{count}}** karttan etiket başarıyla kaldırıldı",
     "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda yok",
     "INVALID_CODE_MULTIPLE": "{{author}} Aşağıdaki kart kodları geçersiz veya koleksiyonunuzda yok:\n{{invalidCodeList}}"
 }

@@ -1,6 +1,6 @@
 {
-  "INVITE_DESCRIPTION": "Destek sunucumuza katılın veya ilgili bağlantıya tıklayarak Sofi'yi kendi Sunucunuza getirin!",
-  "INVITE_CATEGORY": "Ayarlar",
-  "EMBED_TITLE": "SOFI: INVITE",
-  "JOIN_SUPPORT": "**[Resmi Destek Sunucumuza katılın!](https://discord.gg/sofi)**\n**[Sofi'yi Kendi Sunucunuza Davet Edin!](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
+    "INVITE_DESCRIPTION": "Bu komutu kullanmak 2 farklı bağlantıya sahip bir yerleştirme oluşturacaktır. İlk bağlantı sizi resmi \"Sofi Cafe\" Destek Sunucusuna davet edecek, ikinci bağlantı ise Sofi'yi sunucunuza davet edebileceğiniz bir pencere açacaktır",
+    "INVITE_CATEGORY": "Ayarlar",
+    "EMBED_TITLE": "SOFI: DAVET ETMEK",
+    "JOIN_SUPPORT": "**[Resmi Destek Sunucumuza katılın!](https://discord.gg/sofi)**\n**[Sofi'yi kendi Sunucunuza davet edin!](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
 }

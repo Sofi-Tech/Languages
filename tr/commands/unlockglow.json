@@ -1,11 +1,11 @@
 {
-    "UNLOCKGLOW_DESCRIPTION": "Rastgele bir \"Glow\" oluşturur",
+    "UNLOCKGLOW_DESCRIPTION": "Rastgele bir Glow üretir. Kartınızın çerçeve kenarına parlak bir efekt eklemek, kartlarınızdaki metinlerin renklerini değiştirmek veya profilinizdeki renkleri değiştirmek için Glow kullanabilirsiniz.",
     "UG_CATEGORY": "Kozmetikler",
-    "EMBED_TITLE": "SOFI: PARILTI OLUŞTURMA",
+    "EMBED_TITLE": "SOFI: GLOW OLUŞTURMA",
     "UNLOCK_GLOW_CONFIRM": "{{author}} **100** {{currency}} karşılığında rastgele bir **Glow** satın almak istediğinizden emin misiniz?",
-    "CANCELLED_UNLOCK_GLOW": "Süreç iptal edildi",
-    "NOT_ENOUGH_GEMS": "{{author}} Yeterli **Gems**'iniz yok",
-    "EMBED_GLOW_TITLE": "SOFI: IŞILTI ÜRETİN",
+    "CANCELLED_UNLOCK_GLOW": "{{author}} İşlem iptal edildi",
+    "NOT_ENOUGH_GEMS": "{{author}} Yeterli **Gems** e sahip değilsiniz",
+    "EMBED_GLOW_TITLE": "SOFI: GLOW ÜRETİN",
     "UNLOCK_GLOW_SUCCESS": "{{author}} başarıyla bir **Glow** satın alındı",
     "GLOW_INFO": "Ad: **{{glowName}}**\nKod: **`#{{glowCode}}`**\nSaflık: **{{purity}}%**"
 }

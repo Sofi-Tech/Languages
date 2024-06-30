@@ -18,7 +18,7 @@
     "FRAME_CATEGORY_LIMITED": "Sınırlı",
     "FRAME_CATEGORY_OFFICIAL": "Resmi",
     "FRAME_CATEGORY_DISCONTINUED": "Üretim dışı",
-    "FRAME_CATEGORY_CUSTOM": "Özel",
+    "FRAME_CATEGORY_CUSTOM": "ÖZEL",
     "CHECK_INVENTORY": "Bir kategori seç",
     "EMBED_AUTHOR": "SOFI: ENVANTER {{username}}",
     "NO_EVENT_FOUND": "Herhangi bir etkinlik öğesi bulunamadı",
@@ -27,5 +27,8 @@
     "NO_ITEM_FOUND_OTHERS": "{{author}} Bu öğe bu kullanıcının envanterinde bulunamadı",
     "FRAME_CATEGORY_ALL": "Tüm Çerçeveler",
     "NO_CRYSTALS_FOUND": "**Crystals** bulunamadı",
-    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Bir Çerçeve Kategorisi Seçin"
+    "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Bir Çerçeve Kategorisi Seçin",
+    "RAID": "Baskın",
+    "FRAME_CATEGORY_PACK": "Paket",
+    "EQUIPMENTS": "Ekipmanlar"
 }

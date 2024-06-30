@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Bu komut, piyasada mevcut olan tüm siparişleri listeler. Pazar, oyuncular tarafından \"Marketlist\" komutu aracılığıyla Mücevher (Gem) karşılığında Wist'lerini sunmak için kullanılabilir. ",
-    "NO_LISTING_FOUND": "{{author}} Piyasada herhangi bir sipariş bulunamadı ",
+    "MARKET_DESCRIPTION": "Bu komut, piyasada mevcut olan tüm siparişleri listeler. Pazar, oyuncular tarafından \"Marketlist\" komutu aracılığıyla Gem karşılığında Wist'lerini sunmak için kullanılabilir",
+    "NO_LISTING_FOUND": "{{author}} Piyasada herhangi bir sipariş bulunamadı",
     "MARKET_WARN": "**Ortalama Oran**: **`{{averageRate}}` | **Toplam İşlemler** : **`{{totalTrades}}`**",
-    "FOOTER": "Sonuçlar gösteriliyor  {{page}}-{{pages}} ile ilgili  {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
+    "FOOTER": "{{total}} sonuçlarından {{page}}-{{pages}} sonuçları gösteriliyor | {{prefix}}mbuy <Sipariş Kimliği> <Tutar>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Oran: `{{rateAmount}}` {{rateEmoji}}"
 }

@@ -1,7 +1,7 @@
 {
     "VIEW_DESCRIPTION": "Bu komut, belirtilen bir kartın görsel görünümünü görüntüleyecektir. Bunun yerine son aldığınız kartı görüntülemek için kart kodu olmadan bu komutu kullanın",
     "SLASH_DESC1": "Bir kart kodunu girin",
-    "INVALID_CODE": "{{author}} Bu kart kodu geçersiz",
+    "INVALID_CODE": "{{author}} Bu Kart Kodu Geçersiz",
     "SERIES": "Seri:",
     "NAME": "İsim:",
     "OWNED_BY": "Sahibi:",
@@ -9,7 +9,7 @@
     "CLAIMED": "Talep Tarihi:",
     "MOVES": "Yetenekler",
     "INFO_BUTTON_LABEL": "Bilgi",
-    "EMBED_TITLE": "SOFI: VIEW",
+    "EMBED_TITLE": "SOFI: BAKIŞ",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potansiyel **({{percentage}}%)**",
     "SPECIAL": "Özel"
 }
