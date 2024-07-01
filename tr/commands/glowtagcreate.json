@@ -1,5 +1,5 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Bir \"Glow Tag\" oluşturur",
+    "GLOWTAGCREATE_DESCRIPTION": "Bu komutla, kendi kriterlerinize uyan birden fazla Işımayı kategorilere ayırmak ve gruplandırmak için bir etiket oluşturabilirsiniz. Oluşturulan etiketleri Glow'larınıza atamak için \"Glowtag\" komutunu kullanın",
     "GTC_CATEGORY": "Etiketler",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gtc <EtiketAdı> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",

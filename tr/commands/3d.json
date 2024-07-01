@@ -1,5 +1,5 @@
 {
-    "3D_DESCRIPTION": "Kartınızın görünümünü değiştirecek olan kartınızı 3 boyutlu versiyonuna dönüştürün. Bu işlemde kartları yakarak, sandıkları açarak veya diğer çeşitli aktivitelerle elde edebileceğiniz Küpler kullanılacaktır",
+    "3D_DESCRIPTION": "Görünümünü değiştirecek olduğunuz kartın 3 boyutlu versiyonuna dönüştürün. Bu işlemde kartları yakarak, sandıkları açarak veya diğer çeşitli aktivitelerle elde edebileceğiniz Cubes kullanılacaktır",
     "INVALID_CARD_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
     "3D_CATEGORY": "Kozmetik",
     "CARD_3D_ALREADY": "{{author}} Kart zaten bir **3D** varyantı",
@@ -11,7 +11,7 @@
     "NO_CUBES": "{{author}} Bu işlem için yeterli **Cubes**'e sahip değilsin",
     "HALLOWEEN_3D_FAILED": "{{author}} Kartınıza bir Hayalet bulaştı. Süreç başarısız oldu!",
     "UPGRADED_3D": "{{author}} Kartınız başarıyla **3D** varyantına dönüştürüldü",
-    "UPGRADE_3D_CANCEL": "Süreç iptal edildi",
+    "UPGRADE_3D_CANCEL": "Süreç İptal edildi",
     "3D_NOTE": "Bu kartı 3 boyutlu versiyonuna dönüştürmek üzeresiniz. Bu işlem kalıcıdır ve geri alınamaz. Bu işlem sırasında eklenen Çerçeveler kaybolacaktır. Dönüştürülen kart eski kartıyla orantılı bir Gen'e sahip olacak",
     "EVENT_NOTE": "Bu kartı Event-3D versiyonuna dönüştürmek üzeresiniz. Bu işlem kalıcıdır ve geri alınamaz. Bu işlem sırasında eklenen Çerçeveler kaybolacaktır. Etkinlik kartlarında, etkinlik tamamlandıktan sonra web sitemiz aracılığıyla ortaya çıkarabileceğiniz gizli bir Gen bulunur"
 }

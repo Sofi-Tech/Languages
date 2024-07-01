@@ -1,21 +1,19 @@
 {
-  "LOOKUP_DESCRIPTION": "キャラクターのバージョン/3D/GIFバリアントを表示",
-  "CHAR_NOT_FOUND": "あなたが探しているキャラクターを見つけることができませんでした",
-  "CHAR_NF_SENSITIVE": "キャラクターが見つかりませんでした。 [`ルックアップ`関数はケースに敏感です！]",
-  "EMBED_TITLE": "SOFI: LOOKUP",
-  "SUBMITTED": "提出者：<@{{userID}}>",
-  "EMBED_FOOTER": "SCLコマンドを使用して`バージョン`1を見つけます。代わりにコマンド`ssc`を使用して新しい`バージョン`を送信することもできます",
-
-  "MORE": "詳細情報",
-  "GIF_LABEL": "GIFバリアント",
-  "SERIES": "シリーズ：",
-  "NAME": "名前：",
-
-  "WISHLISTED": "ウィッシュリストに追加されました",
-  "VERSIONS": "バージョン",
-  "MULTI": "複数",
-  "EVENTS": "イベント",
-  "EVENT": "イベント",
-  "UPCOMING_EVENT": "これから起きる出来事",
-  "NO_OWNER_FOUND": "`バージョン`の所有者は見つかりませんでした"
+    "LOOKUP_DESCRIPTION": "キャラクターのバージョン/3D/GIFバリアントを表示",
+    "CHAR_NOT_FOUND": "あなたが探しているキャラクターを見つけることができませんでした",
+    "CHAR_NF_SENSITIVE": "キャラクターが見つかりませんでした。 [`ルックアップ`関数はケースに敏感です！]",
+    "EMBED_TITLE": "SOFI: LOOKUP",
+    "SUBMITTED": "提出者：<@{{userID}}>",
+    "EMBED_FOOTER": "SCLコマンドを使用して`バージョン`1を見つけます。代わりにコマンド`ssc`を使用して新しい`バージョン`を送信することもできます",
+    "MORE": "詳細情報",
+    "GIF_LABEL": "GIFバリアント",
+    "SERIES": "シリーズ：",
+    "NAME": "名前：",
+    "WISHLISTED": "ウィッシュリストに追加されました",
+    "VERSIONS": "バージョン",
+    "MULTI": "複数",
+    "EVENTS": "イベント",
+    "EVENT": "イベント",
+    "UPCOMING_EVENT": "これから起きる出来事",
+    "NO_OWNER_FOUND": "`バージョン`の所有者は見つかりませんでした"
 }

@@ -1,14 +1,14 @@
 {
-    "MASSBURN_DESCRIPTION": "Aynı anda birden fazla kartı yakmak için bu komutu kullanın \"t:TagName\" ve \"wl\" gibi parametreler ekleyerek birden fazla kartı aynı anda yakmak için bu komutu ve \"wl<Number\" hangi kartları yakmak istediğinizi belirtmek için kullanın. Mevcut parametrelerin kapsamlı bir listesini almak için \"Help filter\" komutunu kullanın",
-    "IN_ACTIVE_MB": "{{user}} Eskisi hâlâ etkinken yeni bir **Massburn** başlatamazsınız ",
-    "PROVIDE_FILTERS": "{{author}} Doğru kullanım: `{{prefix}}mb\n<Filters>`\n\n` ` `fix\nNot: {{prefix}}help filtreleri komutunu kullanarak filtrelerin kapsamlı bir listesini bulabilirsiniz\n\n` ` `",
-    "WRONG_TAG": "{{author}} `{{arg}}` adında herhangi bir etiket bulunamadı ",
+    "MASSBURN_DESCRIPTION": "Hangi kartları yakmak istediğinizi belirtmek için \"t:TagName\" ve \"wl<Sayı\" gibi parametreler ekleyerek birden fazla kartı aynı anda yakmak için bu komutu kullanın. Mevcut parametrelerin kapsamlı bir listesini almak için \"Help filter\" komutunu kullanın",
+    "IN_ACTIVE_MB": "{{user}} Eskisi hâlâ etkinken yeni bir **Massburn** başlatamazsınız",
+    "PROVIDE_FILTERS": "{{author}} Doğru kullanım: `{{prefix}}mb <Filters>`\n\n```düzeltmek\nNot: {{prefix}}help filters komutuyla filtrelerin kapsamlı bir listesini bulabilirsiniz\n''''",
+    "WRONG_TAG": "{{author}} `{{arg}}` adında herhangi bir etiket bulunamadı",
     "NO_CARDS_FOUND": "{{author}} Arama kriterlerinize uygun herhangi kart bulunamadı",
     "CARDS_BURNED": "__Seçilen Kartlar [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Bu kartları __geri dönülemez__ biçimde yakmak istediğinizden emin misiniz?",
-    "MISSING_CARDS": "{{author}} Seçtiğiniz kartlardan en az biri artık koleksiyonunuzda değil ",
-    "SUCCESS": "{{author}} Seçtiğiniz kartları başarıyla yakıldı ",
+    "CONFIRM_ASK": "{{author}} Bu kartları __geri döndürülemez şekilde__ yakmak istediğinizden emin misiniz?",
+    "MISSING_CARDS": "{{author}} Seçtiğiniz kartlardan en az biri artık koleksiyonunuzda değil",
+    "SUCCESS": "{{author}} Seçtiğiniz kartları başarıyla yakıldı",
     "BURN_REWARDS": "__Ödüller__",
     "EMBED_TITLE": "SOFI: KİTLE YAKMA",
-    "LOCKED_CARDS_WARNING": "{{author}} Kilitli, **GIF** çeşidi olan veya destede kullanılan kartlar yakılamaz "
+    "LOCKED_CARDS_WARNING": "{{author}} Kilitli, **GIF** çeşidi olan veya destede kullanılan kartlar yakılamaz"
 }

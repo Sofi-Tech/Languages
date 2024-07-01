@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Hediye etmek istediğiniz kartın kodunu giriniz",
     "NO_SELF_GIVE": "{{author}} Kendine kart veremezsin",
     "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil",
-    "MEM_BLACKLISTED": "{{author}} kara listeye alınmış",
+    "MEM_BLACKLISTED": "{{author}} Bu kullanıcı kara listede",
     "MEM_QUARANTINED": "{{author}} Bu kullanıcı karantinaya alındı",
     "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <Kullanıcı/KullanıcıIDsi> <KartKodu>`",
     "NO_CARD_FOUND": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",

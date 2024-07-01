@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Bu komut, koleksiyonunuzun tamamını görüntüler; bunları daha sonra çeşitli şekillerde sıralayabilir ve filtreleyebilirsiniz. Bu komutun ek istemlerle birlikte kullanılması, kendisine zaten uygulanmış olan belirli filtrenin bulunduğu yerleştirmeyi açacaktır. Koleksiyonunuzda şu anda etiketi olmayan tüm kartları vurgulamak için bu komuta ek olarak \"t:ut\" komutunu kullanın",
+    "COLLECTION_DESCRIPTION": "Bu komut, koleksiyonunuzun tamamını görüntüler; bunlar daha sonra çeşitli şekillerde sıralanabilir ve filtrelenebilir. Bu komutun ek istemlerle birlikte kullanılması, kendisine zaten uygulanmış olan belirli filtrenin bulunduğu yerleştirmeyi açacaktır. Koleksiyonunuzda şu anda etiketi olmayan tüm kartları vurgulamak için bu komuta ek olarak \"t:ut\" komutunu kullanın",
     "SLASH_CMD_DESC": "Kart koleksiyonunuzu görüntüler",
     "SLASH_DESC": "Koleksiyonunu görmek için bir kullanıcı belirtiniz",
     "SLASH_DESC2": "Koleksiyona uygulamak istediğin filtreleri girin",
@@ -34,7 +34,7 @@
     "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} Başka birinin koleksiyonuna filtre uyguladığınız için sizden **500** <:xsilvercoin:915619222229512213> ödeme alındı",
     "FILTER_NAME_TOO_LONG": "{{author}} Filtrenizin adı yalnızca **20** karakter uzunluğunda olabilir",
     "NO_RESULTS_OTHERS": "{{author}} Bu kullanıcının koleksiyonunda hiç kart yok",
-    "NOT_AVAILABLE": "Geçersiz Seri",
+    "NOT_AVAILABLE": "Geçersiz seri",
     "SORT_LEVEL": "Level",
     "EMBED_TITLE": "SOFI: KOLEKSİYON ({{username}})",
     "TAG_MODAL_LABEL": "Toplu Etiketleme",
