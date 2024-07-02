@@ -12,7 +12,7 @@
     "INVALID_BID_AMOUNT": "{{author}} Votre offre doit être un nombre!",
     "POSITIVE_NUMBER": "{{author}} Votre offre doit être un nombre positif",
     "NOT_ENOUGH_CURRENCY": "{{author}} Vous n'avez pas assez de {{emoji}}",
-    "AUCTION_NOT_FOUND": "Impossible de trouver cette enchère",
+    "AUCTION_NOT_FOUND": "{{author}} Impossible de trouver cette enchère",
     "BID_SUCCESSFUL": "{{author}} Vous avez placé une offre de **{{amount}}** {{emoji}} avec succès",
     "AI_CURRENT": "Offre Actuelle",
     "EMBED_TITLE": "SOFI: AUCTION INFO",

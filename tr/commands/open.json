@@ -26,7 +26,8 @@
     "GUILD_PACKAGE_SUCCESS": "Tebrikler! **Lonca Paketiniz** **{{charName}}** **3D-V2** kartını ve 💳 **{{amount}}x** **Gen Scratcher**'ı içeriyordu",
     "NOIR_FOUND": "Chest'inizde bir <:noiressence:1115496193775116411> **Noir Essence** buldunuz!",
     "CLAIMED": "Elde Edildi",
-    "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
-    "GUILD_PACKAGE_PROMPT": "**__Şu Anki Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?",
-    "VERSION_CHEST_FOOTER": "Sürüm sandıkları her zaman takas edilebilir ve açılabilir"
+    "EMBED_TITLE": "SOFI: AÇ ({{itemName}})",
+    "GUILD_PACKAGE_PROMPT": "**__Cari Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?",
+    "VERSION_CHEST_FOOTER": "Sürüm sandıkları her zaman takas edilebilir ve açılabilir",
+    "EQUIP_EQUIPMENTS": "Ekipmanları donatmak için 'sstats <KartKodu>' komutunu kullanın"
 }
