@@ -1,5 +1,5 @@
 {
-    "UNDOMORPH_DESCRIPTION": "पत्ते से morph हटाता है",
+    "UNDOMORPH_DESCRIPTION": "पत्ते से मॉर्फ हटाता है",
     "UM_CATEGORY": "COSMETICS",
     "UM_INVALID_USAGE": "{{author}} सही उपयोग: `{{prefix}}um <CardCode>`",
     "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
@@ -11,5 +11,5 @@
     "NO_OWNER": "{{author}} यह पत्ता अब आपके संग्रह में मौजूद नहीं है",
     "SOMETHING_WENT_WRONG": "{{author}} त्रुटि! कृपया दुबारा कोशिश करे।",
     "NOT_ENOUGH_SILVERS": "{{author}} आपके पास इस प्रक्रिया के लिए पर्याप्त **{{currency}}** नहीं है",
-    "UM_SUCCESSFUL": "{{author}} इस कार्ड का मॉर्फ सफलतापूर्वक हटा दिया गया"
+    "UM_SUCCESSFUL": "{{author}} इस कार्ड का मॉर्फ सफलतापूर्वक हटाया गया"
 }

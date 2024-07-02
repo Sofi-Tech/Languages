@@ -1,6 +1,6 @@
 {
     "MARKET_DESCRIPTION": "यह कमांड बाज़ार में वर्तमान में उपलब्ध सभी ऑर्डरों की सूची प्रदर्शित करता है।\"Marketlist\" कमांड का प्रयोग खिलाडी मार्केट से अपने Wists के बदले Gems पाने के लिए कर सकते हैं",
-    "NO_LISTING_FOUND": "{{author}} बाजार में कोई सौदा नहीं मिल सका",
+    "NO_LISTING_FOUND": "{{author}} बाजार में कोई सौदा नहीं मिला",
     "MARKET_WARN": "**औसत दर**: **`{{averageRate}}` | कुल व्यापार** : **`{{totalTrades}}`**",
     "FOOTER": "परिणाम दिखाए जा रहे है {{page}}-{{pages}} of {{total}} । {{prefix}}mbuy <Order-ID> <Amount>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • कुल माल: `{{stockAmount}}` {{stockEmoji}} | दर: `{{rateAmount}}` {{rateEmoji}}"

@@ -21,5 +21,10 @@
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}m <KartKodu> <MorphItem>`",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} **Monochrome 2023 3D** kartlar değiştirilemez",
     "EMBED_TITLE": "SOFI: MORF ({{cardCode}})",
-    "ROLL_MORPH": "Morf 2 dakika sonra kaybolacak"
+    "ROLL_MORPH": "Morf 2 dakika sonra kaybolacak",
+    "CANNOT_APPLY_MNC": "{{author}} **{{eventCardType}}** veya **3D** kartlara {{article}} **{{eventType}}** dönüşümü uygulayamazsınız",
+    "MNC_EMBED_TITLE": "SOFI: MORF ({{eventMorph}})",
+    "MNC_REROLL_COST": "Her atışın maliyeti 1 {{currencyName}} olacaktır",
+    "NO_SPECIAL_REROLLED": "Özel bir dönüşüm yapılmadı",
+    "NONE": "Hiçbiri"
 }

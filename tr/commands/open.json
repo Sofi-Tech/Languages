@@ -1,11 +1,11 @@
 {
-    "OPEN_DESCRIPTION": "Sofi'de çeşitli aktivitelerle elde edilen sandıkları açmak için bu komutu kullanın.",
+    "OPEN_DESCRIPTION": "Sofi'de çeşitli aktivitelerle elde edilen sandıkları açmak için bu komutu kullanın",
     "SLASH_DESC_1": "Açmak istediğiniz öğeyi girin",
     "SLASH_DESC_2": "Miktarı girin",
-    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}open <ItemName> <Amount>`",
-    "EMPTY_INV": "{{author}} Inventory'niz boş",
+    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}open <Eşyaİsmi> <Miktar>`",
+    "EMPTY_INV": "{{author}} Envanteriniz boş",
     "CHARM_MISSING": "{{author}}Hiç **Charms**'ınız yok",
-    "SOFI_CARDS_MISSING": "{{author}} Sofi'nin koleksiyonunda yeterli sayıda kart yok",
+    "SOFI_CARDS_MISSING": "{{author}} Şu anda Sofi'nin koleksiyonunda yeterli kart yok",
     "SERIES": "Seri:",
     "NAME": "İsim:",
     "CHEST_INFO": "Etkinlik sandıkları aktif bir etkinlik olmadan açılabilir",
@@ -14,7 +14,7 @@
     "COMMON_INFO_1": "**{{totalChests}}** **{{chestName}}** açtınız",
     "ITEMS_FOUND": "**__Elde Edilenler__**",
     "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} kez oy vererek {{article}} {{chestName}} elde edebilirsiniz",
-    "CORRECT_USAGE_2": "Açılabilen eşyalar: **Chest**'ler",
+    "CORRECT_USAGE_2": "Açılabilen eşyalar: **Chests**",
     "PROCESS_CANCELLED": "Süreç İptal edildi",
     "GUILD_CHEST_FOOTER": "Her sezonun sonunda bir Lonca Sandığı elde edebilirsiniz",
     "COMMON_RARE_FOOTER_zero": "Her {{count}} günlük seride bir {{chestName}} elde edebilirsiniz",
@@ -27,5 +27,6 @@
     "NOIR_FOUND": "Chest'inizde bir <:noiressence:1115496193775116411> **Noir Essence** buldunuz!",
     "CLAIMED": "Elde Edildi",
     "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
-    "GUILD_PACKAGE_PROMPT": "**__Şu Anki Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?"
+    "GUILD_PACKAGE_PROMPT": "**__Şu Anki Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?",
+    "VERSION_CHEST_FOOTER": "Sürüm sandıkları her zaman takas edilebilir ve açılabilir"
 }
