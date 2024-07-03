@@ -7,8 +7,8 @@
     "FUSE_DESC5": "<:_:979009081325019156> **Equipments**: Объедините снаряжение, чтобы поднять его следующий уровень",
     "ANIMATED": "Анимация",
     "CREATE_ANIMATED": "Создать \"GIF\" карту",
-    "BASE_CARD": "Base Card",
-    "BASE_MODAL_LABEL": "Введите код базовой карты",
+    "BASE_CARD": "Основная карта",
+    "BASE_MODAL_LABEL": "Введите код основной карты",
     "FRAG_DESC": "из {{series}} доступно.",
     "CONVERTING": "Преобразование…",
     "FUSING": "Объединение **__8/8__** `Fragments`…",
@@ -29,5 +29,15 @@
     "TOKEN_ALREADY_USED": "**Version Token** уже был использован",
     "MISSING_CURRENCY": "У вас недостаточно **{{currency}}**",
     "VERSION_MENU_LABEL": "Versions",
-    "SELECT_CONVERT": "Пожалуйста выберите Version для преобразования"
+    "SELECT_CONVERT": "Пожалуйста выберите Version для преобразования",
+    "NOT_VERSION_CHAR": "Указанный вами код не является **Version Token** **{{characterName}}**",
+    "INVALID_CARD": "Указанный вами код карты недействителен",
+    "CHAR_NO_VERSIONS": "У данного персонажа пока нет **Versions**",
+    "CARD_NOT_ELIGIBLE": "Данная карта не подходит для улучшения **Version**",
+    "VERSION_MODAL_TITLE": "Fuse: Улучшение версии",
+    "3D_NOT_ELIGIBLE": "3D карты не подходят для улучшения **Version**",
+    "ANIMATED_NOT_ELIGIBLE": "GIF карты не подходят для улучшения **Version**",
+    "BASE_SET_SUCCESS": "Основная карта успешно выбрана",
+    "VT_MODAL_LABEL": "Введите код Version Token",
+    "INVALID_VERSION": "Указанный вами код **Version Token** недействителен или не является частью вашей коллекции"
 }
