@@ -35,5 +35,7 @@
     "GEN": "Gen",
     "NAME": "Nom",
     "SERIES": "Série",
-    "COLORS": "Couleurs"
+    "COLORS": "Couleurs",
+    "RESET_FOOTER": "Réinitialiser la police: {{fontPrice}} | Réinitialiser la couleur: {{colorPrice}} | Tout réinitialiser: {{allPrice}}",
+    "RESET_ALL_MODAL_TITLE": "Tout réinitialiser"
 }
