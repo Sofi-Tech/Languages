@@ -20,10 +20,10 @@
     "SERIES": "शृंखला",
     "FONT": "लिपि",
     "COLORS": "रंग",
-    "RESET_COLOR_MODAL_TITLE": "क्या आप वाकई में फॉन्ट रंग रिसेट करना चाहते है?",
-    "RESET_ALL_MODAL_TITLE": "क्या आप वाकई में फॉन्ट रंग और स्टाइल को रिसेट करना चाहते है?",
+    "RESET_COLOR_MODAL_TITLE": "रंग रीसेट करें",
+    "RESET_ALL_MODAL_TITLE": "सब रीसेट करें",
     "RESET_FONT_NO_AMOUNT": "आपके पास पर्याप्त {{currency}} नहीं है स्टाइल रिसेट के लिए",
-    "RESET_ALL_NO_AMOUNT": "आपके पास पर्याप्त {{currency}} नहीं है फॉन्ट रंग रिसेट के लिए",
+    "RESET_ALL_NO_AMOUNT": "आपके पास पर्याप्त **{{currency}}** नहीं है फॉन्ट रंग और स्टाइल रिसेट के लिए",
     "RESET_COLOR_DEFAULT": "फॉन्ट रंग पहले से ही मौजूदा अवस्था में है",
     "RESET_FOOTER": "फॉन्ट रिसेट: {{fontPrice}} | रंग रिसेट: {{colorPrice}} | सभी रिसेट: {{allPrice}}",
     "RESET_FONT_LABEL": "फॉन्ट रिसेट",
@@ -39,6 +39,6 @@
     "RESET_FONT_SUCCESS": "स्टाइल को रिसेट किया गया",
     "RESET_COLOR_MODAL_PLACEHOLDER": "Yes",
     "RESET_COLOR_MODAL_LABEL": "वाकई में?",
-    "RESET_COLOR_NO_AMOUNT": "आपके पास पर्याप्त {{currency}} नहीं है रंग को रिसेट करने के लिए",
+    "RESET_COLOR_NO_AMOUNT": "आपके पास पर्याप्त ** {{currency}}** नहीं है फोंट रंग को रिसेट करने के लिए",
     "RESET_COLOR_SUCCESS": "फॉन्ट रंग को रिसेट किया गया"
 }
