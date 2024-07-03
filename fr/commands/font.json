@@ -48,5 +48,6 @@
     "RESET_COLOR_NO_AMOUNT": "Vous n'avez pas assez de **{{currency}}** pour réinitialiser la couleur de police",
     "RESET_COLOR_MODAL_TITLE": "Réinitialiser la couleur",
     "RESET_COLOR_MODAL_LABEL": "Êtes-vous sûr(e) ?",
-    "RESET_COLOR_DEFAULT": "La couleur de police est déjà celle par défaut"
+    "RESET_COLOR_DEFAULT": "La couleur de police est déjà celle par défaut",
+    "RESET_COLOR_SUCCESS": "La couleur de police a été réinitialisée"
 }
