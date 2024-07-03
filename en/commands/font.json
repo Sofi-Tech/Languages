@@ -39,7 +39,7 @@
     "RESET_FONT_MODAL_TITLE": "Reset Font",
     "RESET_FONT_MODAL_PLACEHOLDER": "Yes",
     "RESET_FONT_MODAL_LABEL": "Are you sure?",
-    "RESET_FONT_NO_AMOUNT": "You don't have enough {{currency}} to reset the font style",
+    "RESET_FONT_NO_AMOUNT": "You don't have enough **{{currency}}** to reset the font style",
     "RESET_FONT_DEFAULT": "Font style is already default",
     "RESET_FONT_SUCCESS": "Font style has been reset",
     "RESET_COLOR_MODAL_TITLE": "Reset Color",
