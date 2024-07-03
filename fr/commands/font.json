@@ -30,7 +30,7 @@
     "COLOR_NAME": "Couleur du Nom",
     "TOGGLE_NAME": "Basculer le Nom",
     "PRICE": "Prix",
-    "SAVE_MODAL_TITLE": "Police: Confirmer",
+    "SAVE_MODAL_TITLE": "Sauvegarder les modifications",
     "FONT": "Police",
     "GEN": "Gen",
     "NAME": "Nom",
@@ -44,5 +44,9 @@
     "RESET_FONT_MODAL_TITLE": "Réinitialisé la police",
     "RESET_FONT_MODAL_LABEL": "Êtes-vous sûr(e) ?",
     "RESET_FONT_NO_AMOUNT": "Vous n'avez pas assez de **{{currency}}** pour réinitialisé le style de police",
-    "RESET_ALL_DEFAULT": "Le style de police et la couleur sont déjà celles par défaut"
+    "RESET_ALL_DEFAULT": "Le style de police et la couleur sont déjà celles par défaut",
+    "RESET_COLOR_NO_AMOUNT": "Vous n'avez pas assez de **{{currency}}** pour réinitialiser la couleur de police",
+    "RESET_COLOR_MODAL_TITLE": "Réinitialiser la couleur",
+    "RESET_COLOR_MODAL_LABEL": "Êtes-vous sûr(e) ?",
+    "RESET_COLOR_DEFAULT": "La couleur de police est déjà celle par défaut"
 }

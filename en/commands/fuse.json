@@ -56,7 +56,7 @@
     "NOT_ENOUGH_SPECIAL_EQUIPMENT": "You need **{{needAmount}} {{needTier}} {{needEquipmentType}}s** and **{{ingotsAmount}}** <:_:1241782802555338752> to make **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
     "EQUIPMENT_FUSION_SUCCESS": "Equipment fusion was successfully performed \n{{moreInfo}}",
     "MISSING_ELIXIR": "Missing Elixir",
-    "VERSION_UPGRADE_FAILED": "Version upgrade failed miserably",
+    "VERSION_UPGRADE_FAILED": "**Version** upgrade failed, please try again",
     "VERSION_UPGRADE_SUCCESS": "Congratulations! **Version** was upgraded to **{{version}}**",
     "ALREADY_ANIMATED_VERSIONS": "**There are already 100 animated versions of the card in circulation**",
     "CONVERTING": "Converting…",
