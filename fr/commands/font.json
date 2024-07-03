@@ -49,5 +49,7 @@
     "RESET_COLOR_MODAL_TITLE": "Réinitialiser la couleur",
     "RESET_COLOR_MODAL_LABEL": "Êtes-vous sûr(e) ?",
     "RESET_COLOR_DEFAULT": "La couleur de police est déjà celle par défaut",
-    "RESET_COLOR_SUCCESS": "La couleur de police a été réinitialisée"
+    "RESET_COLOR_SUCCESS": "La couleur de police a été réinitialisée",
+    "RESET_FONT_DEFAULT": "Le style de police est déjà celui par défaut",
+    "RESET_FONT_SUCCESS": "Le style de police a été réinitialisé"
 }
