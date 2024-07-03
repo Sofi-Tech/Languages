@@ -39,5 +39,15 @@
     "VT_MODAL_LABEL": "Entrez le code du Version Token",
     "NOT_VERSION_CHAR": "Le code que vus avez fourni n'est pas un **Version Token** de **{{characterName}}**",
     "VERSION_MENU_DESCRIPTION": "Obtenez une nouvelle Version pour votre carte",
-    "EQUIPMENTS_MENU_DESCRIPTION": "Fusionnez les Équipements"
+    "EQUIPMENTS_MENU_DESCRIPTION": "Fusionnez les Équipements",
+    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Vous avez besoin de **{{needAmount}} {{needTier}} {{needEquipmentType}}s** et **{{ingotsAmount}}** <:_:1241782802555338752> pour faire **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
+    "VERSION_UPGRADE_SUCCESS": "Félicitations! La **Version** a été changé pour **{{version}}**",
+    "VERSION_EMBED_DESCRIPTION": "<:_:979009081325019156> Entrez le code de base de la carte + un **Version token** de ce personnage\n<:_:979009081325019156> La carte de base sera changée pour la **Version** nommée sur le **Token**.\n<:_:979009081325019156> Le coût estimé variera basé sur la populatité et la Gen de la carte de base\n\n⚠️ Le changement d'une carte **Version 1** ne peut pas être annulé.",
+    "FUSION_EMBED_FOOTER": "Vous avez 0.5% de chance d'obtenir une carte animée des pulls",
+    "EQUIPMENT_MODAL_LABEL": "Entrez la quantité de {{equipmentType}}",
+    "INVALID_AMOUNT": "Quantité invalide fournie",
+    "NOT_ENOUGH_EQUIPMENT": "Vous avez besoin de **{{needAmount}} {{needTier}} {{needEquipmentType}}s** pour fabriquer **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
+    "EQUIPMENT_FUSION_SUCCESS": "La fusion d'équipement a été effectué avec succès\n{{moreInfo}}",
+    "MISSING_ELIXIR": "Vous n'avez pas assez d'**Elixir**",
+    "VERSION_UPGRADE_FAILED": "Le changement de **Version** a échoué, réessayez s'il vous plaît"
 }
