@@ -17,7 +17,7 @@
     "OWNED_BY": "Possédée Par:",
     "INVALID_VERSION": "Le code de **Version Token** que vous avez fourni est soit invalide soit pas dans votre collection",
     "ANIMATED_NOT_ELIGIBLE": "Les cartes GIF ne snt pas éligibles pour le changementde **Version**",
-    "EQUIPMENT_EMBED_DESCRIPTION": "<:_:979009081325019156> Fusionnez vos Équipement non utilisés au niveau suivant\n<:_:979009081325019156> 10+ Équipements du même tier sont requis pour fusionner vers le niveau suivant\n<:_:979009081325019156> Équipements d'Évent ne peuvent pas être fusionnés ou obtenus par fusion \n<:_:979009081325019156> Équipements Bronze ne sont pas obtenable par fusion \n<:_:979009081325019156> Les nouveaux tiers d'Équipements prendrons un certains temps à être fusionable \n\n**Choisissez le tier d'Équipement à fusionner**",
+    "EQUIPMENT_EMBED_DESCRIPTION": "<:_:979009081325019156> Fusionnez vos Équipement non utilisés au tier suivant\n<:_:979009081325019156> 10+ Équipements du même tier sont requis pour fusionner vers le tier suivant\n<:_:979009081325019156> Équipements d'Évent ne peuvent pas être fusionnés ou obtenus par fusion \n<:_:979009081325019156> Équipements Bronze ne sont pas obtenable par fusion \n<:_:979009081325019156> Les nouveaux tiers d'Équipements prendrons un certains temps à être fusionables \n\n**Choisissez le tier d'Équipement à fusionner**",
     "VERSION_MENU_LABEL": "Versions",
     "EQUIPMENTS_MENU_LABEL": "Équipements",
     "VT_BUTTON_LABEL": "Version Token",
@@ -49,5 +49,8 @@
     "NOT_ENOUGH_EQUIPMENT": "Vous avez besoin de **{{needAmount}} {{needTier}} {{needEquipmentType}}s** pour fabriquer **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
     "EQUIPMENT_FUSION_SUCCESS": "La fusion d'équipement a été effectué avec succès\n{{moreInfo}}",
     "MISSING_ELIXIR": "Vous n'avez pas assez d'**Elixir**",
-    "VERSION_UPGRADE_FAILED": "Le changement de **Version** a échoué, réessayez s'il vous plaît"
+    "VERSION_UPGRADE_FAILED": "Le changement de **Version** a échoué, réessayez s'il vous plaît",
+    "VT_MODAL_PLACEHOLDER": "ex. !aaa",
+    "EQUIPMENT_MODAL_PLACEHOLDER": "ex. 10",
+    "BASE_MODAL_PLACEHOLDER": "ex. qdwr12"
 }

@@ -45,7 +45,7 @@
     "RESET_ALL_SUCCESS": "Стиль и цвет шрифта сброшены",
     "RESET_FONT_MODAL_TITLE": "Сбросить шрифт",
     "RESET_FONT_MODAL_LABEL": "Вы уверены?",
-    "RESET_FONT_NO_AMOUNT": "У вас недостаточно **{{currency}}** для сброса стиля шрифта",
+    "RESET_FONT_NO_AMOUNT": "У вас недостаточно **{{currency}}**, чтобы сбросить стиль шрифта",
     "RESET_FONT_DEFAULT": "Стиль шрифта уже стандартный",
     "RESET_FOOTER": "Сбросить шрифт: {{fontPrice}} | Сбросить цвет: {{colorPrice}} | Сбросить все: {{allPrice}}",
     "RESET_COLOR_MODAL_TITLE": "Сбросить цвет",

@@ -16,5 +16,16 @@
     "ALL_CARD_CODES": "В связи с большим количеством кодов сообщение должно быть преобразовано в файл формала`.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Ваш список желаемого пуст",
-    "PAGE": "Скопировать страницу - {{page}}"
+    "PAGE": "Скопировать страницу - {{page}}",
+    "ALREADY_SLOTS": "{{author}} У вас уже есть в наличии {{size}} ячеек в вашем списке желаний",
+    "ALREADY_UNLOCKED": "{{author}} Этот вариант уже доступен",
+    "UPGRADE_MENU_PLACEHOLDER": "Увеличить список желаний",
+    "CONFIRM_UNLOCK": "Подтвердите, для увеличения",
+    "FREE": "Бесплатно",
+    "UPGRADE_EMBED_DESCRIPTION": "Вы можете разблокировать максимум 100 слотов",
+    "UPGRADE_MODAL_LABEL": "Вы уверены?",
+    "NOT_ENOUGH_CURRENCY": "{{author}} У вас недостаточно **{{currency}}**",
+    "UPGRADE_SUCCESS": "{{author}}Вы успешно увеличили ваш список желаний до {{type}} ячеек",
+    "SLOTS_MENU_LABEL": "{{size}} Всего ячеек - {{price}}",
+    "UPGRADE_MODAL_TITLE": "Увеличить список желаний ({{size}} ячеек)"
 }
