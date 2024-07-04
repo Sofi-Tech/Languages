@@ -21,5 +21,12 @@
     "TIME_few": "{{count}} fois",
     "TIME_two": "{{count}} fois",
     "TIME_zero": "{{count}} fois",
-    "TIME_many": "{{count}} fois"
+    "TIME_many": "{{count}} fois",
+    "VG_NAME": "Nom",
+    "VG_CODE": "Code",
+    "VG_STATUS": "Status",
+    "VG_TYPE": "Type",
+    "VG_USED": "Usé",
+    "VG_OWNER": "Propriétaire",
+    "VG_TAG": "Tag"
 }

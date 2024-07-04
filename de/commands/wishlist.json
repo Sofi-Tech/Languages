@@ -21,5 +21,12 @@
     "NOT_ENOUGH_CURRENCY": "{{author}} Du hast nicht genug **{{currency}}**",
     "UPGRADE_SUCCESS": "{{author}} Deine Wunschliste wurde erfolgreich zu {{type}} Plätzen geupgradet",
     "UPGRADE_MODAL_LABEL": "Bist du sicher?",
-    "UPGRADE_MODAL_TITLE": "Upgrade Wunschliste ({{size}} Plätze)"
+    "UPGRADE_MODAL_TITLE": "Wunschliste upgraden ({{size}} Plätze)",
+    "SLOTS_MENU_LABEL": "{{size}} Gesamte Plätze - {{price}}",
+    "FREE": "Kostenlos",
+    "UNLOCKED": "Freigeschaltet",
+    "CONFIRM_UNLOCK": "Bestätige zum Freischalten",
+    "UPGRADE_MENU_PLACEHOLDER": "Wunschliste upgraden",
+    "ALREADY_UNLOCKED": "{{author}} Diese Option wurde bereits freigeschalten",
+    "UPGRADE_EMBED_DESCRIPTION": "Du kannst maximal 100 Plätze freischalten"
 }
