@@ -20,12 +20,15 @@
   "CONFIRM_UNLOCK": "Confirm to Unlock",
   "UPGRADE_MENU_PLACEHOLDER": "Upgrade Wishlist",
   "ALREADY_UNLOCKED": "{{author}} This is already unlocked",
-  "NOT_ENOUGH_CURRENCY": "{{author}} You don't have enough {{currency}}",
   "ALREADY_SLOTS": "{{author}} You already have {{size}} slots",
+  "UPGRADE_MODAL_LABEL": "Are you sure you want to continue?",
+  "UPGRADE_MODAL_TITLE": "Upgrade Wishlist [ {{size}} Slots ]",
+  "UPGRADE_MODAL_PLACEHOLDER": "Yes",
   "UPGRADE_SUCCESS": "{{author}} Upgraded to {{type}} slots",
+  "NOT_ENOUGH_CURRENCY": "{{author}} You don't have enough {{currency}}",
   "CODES_COPIED": "← Copied",
   "ALL_CARD_CODES": "Due to the large volume of codes, the message had to be converted into a `.txt` file:",
   "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
-  "UPGRADE_EMEBD_TITLE": "Upgrade Wishlist",
+  "UPGRADE_EMEBD_TITLE": "SOFI: UPGRADE WISHLIST",
   "UPGRADE_EMBED_DESCRIPTION": "Select the number of slots you want to upgrade to. Slots are not stackable; you can first buy 50 slots and then upgrade to 100 slots. \n⚠️ Note: Selecting a slot will upgrade your wishlist slots without confirmation."
 }
