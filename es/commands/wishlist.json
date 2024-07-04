@@ -16,5 +16,17 @@
     "ALL_CARD_CODES": "Debido al gran volumen de códigos, el mensaje tuvo que convertirse en un archivo `.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Tu lista de deseados está vacía",
-    "PAGE": "Copiar Página - {{page}}"
+    "PAGE": "Copiar Página - {{page}}",
+    "SLOTS_MENU_LABEL": "{{size}} Espacios Totales - {{price}}",
+    "FREE": "Gratis",
+    "UNLOCKED": "Desbloqueado",
+    "CONFIRM_UNLOCK": "Confirma para Desbloquear",
+    "UPGRADE_MENU_PLACEHOLDER": "Mejorar Wishlist",
+    "ALREADY_UNLOCKED": "{{author}} Esta opción ya ha sido desbloqueada",
+    "ALREADY_SLOTS": "{{author}} Ya tienes {{size}} espacios en tu wishlist",
+    "UPGRADE_SUCCESS": "{{author}} Mejorada con éxito tu wishlist a {{type}} espacios",
+    "NOT_ENOUGH_CURRENCY": "{{author}} No tienes suficientes **{{currency}}**",
+    "UPGRADE_MODAL_LABEL": "Estás seguro?",
+    "UPGRADE_EMBED_DESCRIPTION": "Puedes desbloquear hasta un máximo de 100 espacios",
+    "UPGRADE_MODAL_TITLE": "Mejorar Wishlist ({{size}} Espacios)"
 }

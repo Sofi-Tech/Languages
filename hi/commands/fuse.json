@@ -19,7 +19,7 @@
     "COST_VT_DESC": "अनुमानित लागत",
     "ALREADY_VERSION": "पत्ता पहले से ही **Version** {{edition}} है",
     "MISSING_CURRENCY": "आपके पास पर्याप्त **{{currency}}** नहीं है",
-    "INVALID_VERSION": "आपके द्वारा प्रदान किया गया **Version Token** कोड या तो अमान्य है या आपके संग्रह में नहीं है",
+    "INVALID_VERSION": "आपके द्वारा प्रदान किया गया **Version Token** कोड अमान्य है या आपके संग्रह में नहीं है",
     "NOT_VERSION_CHAR": "आपके द्वारा प्रदान किया गया कोड **{{characterName}}** का **Version Token** नहीं है",
     "VERSION_UPGRADE_SUCCESS": "बधाई हो! **Version** को **{{version}}** में सफलतापूर्वक अपग्रेड किया गया",
     "EQUIPMENT_EMBED_DESCRIPTION": "<:_:979009081325019156> अपने इस्तेमाल न किये गए उपकरणों को अगले स्तर पर फ्यूज करें \n<:_:979009081325019156> उपकरण को अगले स्तर पर फ़्यूज़ करने के लिए आपको एक ही स्तर के 10+ उपकरणों की आवश्यकता होती है \n<:_:979009081325019156> इवेंट उपकरण को ना तो फ़्यूज़ नहीं किया जा सकता और ना ही फ़्यूज़िंग द्वारा प्राप्त नहीं किया जा सकता \n<:_:979009081325019156> फ़्यूज़न से ब्रोंज उपकरण प्राप्त नहीं किये जा सकते \n<:_:979009081325019156> उपकरण के नए स्तर को फ़्यूज़ेबल होने में कुछ समय लगेगा \n\n**फ़्यूज़ करने के लिए उपकरण स्तर चुनें**",
@@ -45,5 +45,8 @@
     "EQUIPMENT_MODAL_LABEL": "{{equipmentType}} संख्या दर्ज करें",
     "NOT_ENOUGH_SPECIAL_EQUIPMENT": "आपको **{{needAmount}} {{needTier}} {{needEquipmentType}}s** और **{{ingotsAmount}}** <:_:1241782802555338752> बनाने के लिए **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}** की आवश्यकता है",
     "EQUIPMENT_FUSION_SUCCESS": "उपकरण का फ्यूज़न सफलतापूर्वक किया गया\n{{moreInfo}}",
-    "VERSION_UPGRADE_FAILED": "**Version** अपग्रेड विफल हुआ, कृपया दोबारा प्रयास करें"
+    "VERSION_UPGRADE_FAILED": "**Version** अपग्रेड विफल हुआ, कृपया दोबारा प्रयास करें",
+    "VT_MODAL_PLACEHOLDER": "जैसे की. !aaa",
+    "EQUIPMENT_MODAL_PLACEHOLDER": "जैसे की. 10",
+    "BASE_MODAL_PLACEHOLDER": "जैसे की. qdwr12"
 }

@@ -87,10 +87,10 @@
     "PURHCASE_MODAL_TITLE": "Покупка Profile Background",
     "PURHCASE_SUCCESSFUL": "Вы успешно приобрели **{{backgroundName}}** **Profile Background**",
     "PBG_MODAL_LABEL": "Введите идентификатор Profile Background",
-    "NO_PBG_FOUND": "Не нашлось ни одного **Profile Background** с идентификатором `{{id}}`",
+    "NO_PBG_FOUND": "Не удалось найти **Profile Background** с идентификатором `{{id}}`",
     "SELECT_MODAL_TITLE": "Выбрать Profile Background",
     "SELECT_PBG_CONFIRM": "Вы уверены, что хотите выбрать **{{backgroundName}}** **Profile Background**?",
-    "PBG_MODAL_PLACEHOLDER": "напр. 101",
+    "PBG_MODAL_PLACEHOLDER": "Напр. 101",
     "NO_PBG_INV": "Не удалось найти **Profile Background** с идентификатором `{{id}}` в вашем инвентаре",
     "MODAL_ERROR_RESPONSE": "Произошла ошибка при получении ответа. Пожалуйста, попробуйте снова",
     "PBG_EXIST_INV": "В вашем инвентаре уже есть **Profile Background** с идентификатором `{{id}}`"
