@@ -25,7 +25,7 @@
     "BG_MENU_LABEL": "Profile Background",
     "TC_MENU_LABEL": "Textfarbe",
     "NO_GLOW": "Gib einen **Glow** Code ein. Zum Entfernen schreibe `none`.",
-    "CANNOT_SET_PBG": "{{author}} Du hast nicht genügend **{{currency}}** um diesen **Profile Background** zu kaufen",
+    "CANNOT_SET_PBG": "{{author}} Du hast nicht genügend **{{currency}}**, um diesen **Profile Background** zu kaufen",
     "PROCESS_NOT_COMPLETED": "{{author}} Der Vorgang wurde abgebrochen",
     "CANNOT_SET_TC": "{{author}} Dieser **Glow** ist leer",
     "CANNOT_SET_PG": "{{author}} Dieser **Glow** ist leer",
@@ -44,7 +44,7 @@
     "SUCCESSFUL_INTRO": "{{author}} Deine Vorstellungsnachricht wurde erfolgreich festgelegt",
     "SUCCESSFUL_CHARACTER": "{{author}} **{{characterName}}** wurde erfolgreich als dein Lieblingscharakter festgelegt",
     "SUCCESSFUL_DISPLAY_CARD": "{{author}} **{{characterName}}** wurde erfolgreich als deine Anzeigekarte festgelegt",
-    "SUCCESSFUL_BACKGROUND": "{{author}} **{{backgroundName}}** wurde erfolgreich als **Profile Background** für dein Profil festgelegt",
+    "SUCCESSFUL_BACKGROUND": "{{author}} **{{backgroundName}}** wurde erfolgreich als **Profile Background** festgelegt",
     "SUCCESSFUL_FONT_COLOR": "{{author}} Der **{{glowName}}** **Glow** wurde erfolgreich auf den Text deines Profils angewendet",
     "SUCCESSFUL_PROFILE_GLOW": "{{author}} **{{glowName}}** wurde erfolgreich als **Glow** für dein Profil festgelegt",
     "SUCCESSFUL_AWARDS": "{{author}} Die ausgewählten Abzeichen wurden erfolgreich in deinem Profil platziert",
@@ -88,10 +88,10 @@
     "PBG_MODAL_PLACEHOLDER": "z.B. 101",
     "MODAL_ERROR_RESPONSE": "Beim Abrufen der Antwort ist ein Fehler aufgetreten. Bitte versuche es erneut",
     "NO_ENOUGH_AMOUNT_PBG": "Du hast nicht genügend **{{currency}}**, um diesen **Profile Background** zu kaufen",
-    "NO_PBG_FOUND": "Es wurden kein **Profile Background** mit der ID `{{id}}` gefunden",
+    "NO_PBG_FOUND": "Es wurde kein **Profile Background** mit der ID `{{id}}` gefunden",
     "PURHCASE_SUCCESSFUL": "Erfolgreich den **{{backgroundName}}** **Profile Background** gekauft",
     "SELECT_MODAL_TITLE": "Wähle Profile Background",
     "NO_PBG_INV": "Der **Profile Background** mit der ID `{{id}}` konnte nicht in deinem Inventar gefunden werden",
     "SELECT_PBG_CONFIRM": "Bist du sicher das du den **{{backgroundName}}** **Profile Background** auswählen möchtest?",
-    "PBG_EXIST_INV": "Du hast bereits **Profile Background** mit der ID `{{id}}` in deinem Inventar"
+    "PBG_EXIST_INV": "Du hast bereits den **Profile Background** mit der ID `{{id}}` in deinem Inventar"
 }
