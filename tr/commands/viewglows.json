@@ -11,22 +11,15 @@
     "NO_GLOWS_FOUND": "{{author}} `{{tagName}}`ada sahip bir etiketiniz yok",
     "CANNOT_FIND_GLOW": "{{author}} `{{glowCode}}` koduyla herhangi bir **Glow** bulunamadı",
     "EMBED_GLOW_TITLE": "SOFI: GLOW GÖRÜNTÜLEME",
-    "NAME": "İsim",
-    "CODE": "Kod",
-    "STATUS": "Durum",
-    "TYPE": "Tür",
     "TIME_one": "{{count}} zaman",
     "TIME_other": "{{count}} sefer",
-    "OWNER": "Sahibi",
     "PURITY": "Saflık1",
     "PURITY2": "Saflık2",
     "INVALID_USER": "{{author}} Bu kullanıcı bulunamadı",
     "NO_GLOWS_SELF": "{{author}} Henüz hiç **Glows**'unuz yok",
     "SORT_BUTTON_LABEL": "Düzenlemek",
-    "USED": "Kullanılmış",
     "TIME_zero": "{{count}} kez",
     "TIME_two": "{{count}} sefer",
     "TIME_few": "{{count}} sefer",
-    "TIME_many": "{{count}} sefer",
-    "TAG": "Etiket"
+    "TIME_many": "{{count}} sefer"
 }

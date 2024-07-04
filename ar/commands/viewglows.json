@@ -11,12 +11,7 @@
     "NO_GLOWS_FOUND": "{{author}} لم يتم العثور على اللمعان بعلامة {{tagName}}",
     "CANNOT_FIND_GLOW": "{{author}} لا يمكنني العثور على اللمعان بالرمز `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VIEWGLOWS",
-    "NAME": "الإسم",
-    "CODE": "`الرمز: ` ➜ `#{{code}}`",
-    "STATUS": "`الحالة: ` ➜ `{{status}}`",
     "TIME_one": "{{count}} time",
     "TIME_other": "{{count}} times",
-    "TYPE": "`النوع:   ` ➜ {{type}}",
-    "OWNER": "`المالك:  ` ➜ <@{{ownerId}}>",
     "PURITY": "```النقاء :  ➜ {{purity}}```"
 }
