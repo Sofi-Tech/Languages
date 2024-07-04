@@ -39,5 +39,11 @@
     "RESET_COLOR_MODAL_LABEL": "Estás seguro?",
     "RESET_COLOR_NO_AMOUNT": "No tienes suficientes **{{currency}}** para restablecer el color de la fuente",
     "RESET_COLOR_DEFAULT": "El color de la fuente ya está por defecto",
-    "RESET_COLOR_SUCCESS": "El color de la fuente ha sido restablecido"
+    "RESET_COLOR_SUCCESS": "El color de la fuente ha sido restablecido",
+    "FONT_TITLE": "Fuente",
+    "FONT_PRICE": "Precio",
+    "FONT_COLORS": "Colores",
+    "FONT_SERIES": "Serie",
+    "FONT_NAME": "Nombre",
+    "FONT_GEN": "Gen"
 }

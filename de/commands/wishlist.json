@@ -16,5 +16,10 @@
     "ALL_CARD_CODES": "Aufgrund der großen Menge an Codes wurde die Nachricht in eine `.txt` Datei umgewandelt:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Deine Wunschliste ist leer",
-    "PAGE": "Kopiere Seite - {{page}}"
+    "PAGE": "Kopiere Seite - {{page}}",
+    "ALREADY_SLOTS": "{{author}} Du hast bereits {{size}} Plätze in deiner Wunschliste",
+    "NOT_ENOUGH_CURRENCY": "{{author}} Du hast nicht genug **{{currency}}**",
+    "UPGRADE_SUCCESS": "{{author}} Deine Wunschliste wurde erfolgreich zu {{type}} Plätzen geupgradet",
+    "UPGRADE_MODAL_LABEL": "Bist du sicher?",
+    "UPGRADE_MODAL_TITLE": "Upgrade Wunschliste ({{size}} Plätze)"
 }

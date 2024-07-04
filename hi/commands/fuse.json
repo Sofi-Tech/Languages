@@ -43,7 +43,7 @@
     "VT_MODAL_LABEL": "वर्जन टोकन का कोड दर्ज करें",
     "FUSION_EMBED_FOOTER": "आपके पास पुल से एनिमेटेड पत्ता प्राप्त करने का 0.5% मौका है",
     "EQUIPMENT_MODAL_LABEL": "{{equipmentType}} संख्या दर्ज करें",
-    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "आपको **{{needAmount}} {{needTier}} {{needEquipmentType}}s** और **{{ingotsAmount}}** <:_:1241782802555338752> बनाने के लिए **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}** की आवश्यकता है",
+    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "आपको **{{needAmount}} {{needTier}} {{needEquipmentType}}s** और **{{ingotsAmount}}** {{emoji}} बनाने के लिए **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}** की आवश्यकता है",
     "EQUIPMENT_FUSION_SUCCESS": "उपकरण का फ्यूज़न सफलतापूर्वक किया गया\n{{moreInfo}}",
     "VERSION_UPGRADE_FAILED": "**Version** अपग्रेड विफल हुआ, कृपया दोबारा प्रयास करें",
     "VT_MODAL_PLACEHOLDER": "जैसे की. !aaa",

@@ -21,5 +21,12 @@
     "TIME_two": "{{count}} Mal",
     "TIME_few": "{{count}} Mal",
     "TIME_zero": "{{count}} Mal",
-    "TIME_many": "{{count}} Mal"
+    "TIME_many": "{{count}} Mal",
+    "VG_NAME": "Name",
+    "VG_TAG": "Tag",
+    "VG_OWNER": "Besitzer",
+    "VG_USED": "Genutzt",
+    "VG_TYPE": "Typ",
+    "VG_STATUS": "Status",
+    "VG_CODE": "Code"
 }

@@ -37,7 +37,7 @@
     "CARD_NOT_ELIGIBLE": "Este código de carta no es elegible para mejorar su **Version**",
     "EQUIPMENT_EMBED_DESCRIPTION": "<:_:979009081325019156> Fusiona los Equipments que no uses al siguiente nivel \n<:_:979009081325019156> 10+ Equipments del mismo tier son necesarios para fusionarlos al siguiente nievel \n<:_:979009081325019156> Los Equipments de Event no pueden ser fusionados o conseguidos al fusionar \n<:_:979009081325019156> Los Equipments de Bronze no pueden ser obtenidos al fusionar \n<:_:979009081325019156> Los nuevos tiers de Equipment tardarán un tiempo en ser fusionables \n\n**Elije el tier de Equipment que quieres fusionar**",
     "INVALID_AMOUNT": "Cantidad no válida proporcionada",
-    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Necesitas **{{needAmount}} {{needTier}} {{needEquipmentType}}s** y **{{ingotsAmount}}** <:_:1241782802555338752> para hacer **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
+    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Necesitas **{{needAmount}} {{needTier}} {{needEquipmentType}}s** y **{{ingotsAmount}}** {{emoji}} para hacer **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
     "EQUIPMENT_MODAL_TITLE": "Fuse: Mejorar Equipment",
     "VERSION_MENU_DESCRIPTION": "Consigue una nueva Version para tu carta",
     "EQUIPMENTS_MENU_LABEL": "Equipments",

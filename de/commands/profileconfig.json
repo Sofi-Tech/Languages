@@ -81,5 +81,14 @@
     "PROCESSING_GIF": "{{author}} Verarbeiten deines GIF… <a:_:876610443148406794>\nDies kann eine Weile dauern, du kannst weiter spielen",
     "BUILDING_COMPONENTS": "{{author}} Baue Komponenten… 🏗️ <a:_:876610443148406794>",
     "COMBINING_ELEMENTS": "{{author}} Kombiniere Elemente… 🔄 <a:_:876610443148406794>",
-    "FINAL_TOUCHES": "{{author}}Den letzten Schliff geben… ✨ <a:_:876610443148406794>"
+    "FINAL_TOUCHES": "{{author}}Den letzten Schliff geben… ✨ <a:_:876610443148406794>",
+    "SELECT_BUTTON_LABEL": "Auswählen",
+    "PBG_MODAL_LABEL": "Gebe die Profile Background ID ein",
+    "PURHCASE_MODAL_TITLE": "Gebe die Profile Background ID ein",
+    "PBG_MODAL_PLACEHOLDER": "z.B. 101",
+    "MODAL_ERROR_RESPONSE": "Beim Abrufen der Antwort ist ein Fehler aufgetreten. Bitte versuche es erneut",
+    "NO_ENOUGH_AMOUNT_PBG": "Du hast nicht genügend **{{currency}}** um diesen **Profile Background** zu kaufen",
+    "NO_PBG_FOUND": "Es wurden keine **Profile Background** mit der ID `{{id}}` gefunden",
+    "PURHCASE_SUCCESSFUL": "Erfolgreich den **{{backgroundName}}** **Profile Background** gekauft",
+    "SELECT_MODAL_TITLE": "Wähle Profile Background"
 }
