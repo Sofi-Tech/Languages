@@ -17,15 +17,15 @@
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Ваш список желаемого пуст",
     "PAGE": "Скопировать страницу - {{page}}",
-    "ALREADY_SLOTS": "{{author}} У вас уже есть {{size}} ячеек в вашем списке желаемого",
+    "ALREADY_SLOTS": "{{author}} В вашем списке желаемого уже есть {{size}} ячеек",
     "ALREADY_UNLOCKED": "{{author}} Эта опция уже разблокирована",
     "UPGRADE_MENU_PLACEHOLDER": "Улучшить список желаемого",
-    "CONFIRM_UNLOCK": "Подтвердите улучшение",
+    "CONFIRM_UNLOCK": "Подтвердите разблокировку",
     "FREE": "Бесплатно",
     "UPGRADE_EMBED_DESCRIPTION": "Вы можете разблокировать до 100 ячеек",
     "UPGRADE_MODAL_LABEL": "Вы уверены?",
     "NOT_ENOUGH_CURRENCY": "{{author}} У вас недостаточно **{{currency}}**",
-    "UPGRADE_SUCCESS": "{{author}} Список желаемого успешно улучшен до {{type}} ячеек",
+    "UPGRADE_SUCCESS": "{{author}} Ваш список желаемого успешно улучшен до {{type}} ячеек",
     "SLOTS_MENU_LABEL": "{{size}} Всего ячеек - {{price}}",
     "UPGRADE_MODAL_TITLE": "Улучшить список желаемого ({{size}} ячеек)"
 }
