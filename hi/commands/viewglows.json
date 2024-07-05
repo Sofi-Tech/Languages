@@ -22,10 +22,11 @@
     "TIME_two": "{{count}} बार",
     "TIME_few": "{{count}} बार",
     "TIME_many": "{{count}} बार",
-    "VG_NAME": "NAME",
-    "VG_CODE": "CODE",
-    "VG_STATUS": "STATUS",
-    "VG_TYPE": "TYPE",
-    "VG_USED": "USED",
-    "VG_TAG": "TAG"
+    "VG_NAME": "नाम",
+    "VG_CODE": "कोड",
+    "VG_STATUS": "स्तिथि",
+    "VG_TYPE": "प्रकार",
+    "VG_USED": "उपयोग हुई",
+    "VG_TAG": "टैग",
+    "VG_OWNER": "मालिक"
 }

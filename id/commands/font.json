@@ -4,7 +4,7 @@
     "GLOW_MODAL_LABEL": "Masukkan kode Glow",
     "GLOW_CODE_INVALID": "Kode **Glow** yang Anda berikan tidak valid atau tidak ada dalam inventaris Anda",
     "SAVE_MODAL_LABEL": "Apakah Anda yakin?",
-    "SAVE_MODAL_TITLE": "Font: Konfirmasi",
+    "SAVE_MODAL_TITLE": "Simpan perubahan",
     "NOT_ENOUGH_GEMS": "Anda tidak memiliki cukup **Gems** untuk melakukan pembelian ini",
     "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup **Silver** untuk melakukan pembelian ini",
     "PROCESS_COMPLETED": "Proses tersebut berhasil diselesaikan",
@@ -15,7 +15,7 @@
     "EMBED_TITLE": "SOFI: FONT",
     "SELECT_MENU_PLACEHOLDER": "Pilih Font",
     "RESET_ALL_NO_AMOUNT": "Anda tidak memiliki cukup {{currency}} untuk mengatur ulang warna dan gaya font",
-    "RESET_COLOR_NO_AMOUNT": "Anda tidak mempunyai cukup {{currency}} untuk mengatur ulang warna font",
+    "RESET_COLOR_NO_AMOUNT": "Anda tidak memiliki cukup {{currency}} untuk mengatur ulang warna font",
     "RESET_FONT_NO_AMOUNT": "Anda tidak memiliki cukup {{currency}} untuk mengatur ulang gaya font",
     "RESET_ALL_LABEL": "Mengatur Ulang Semua",
     "RESET_FONT_SUCCESS": "Gaya font telah diatur ulang",
@@ -33,5 +33,12 @@
     "RESET_COLOR_MODAL_LABEL": "Apakah anda yakin?",
     "RESET_COLOR_DEFAULT": "Warna font sudah default",
     "RESET_COLOR_SUCCESS": "Warna font sudah diatur ulang",
-    "RESET_ALL_DEFAULT": "Gaya dan warna font sudah default"
+    "RESET_ALL_DEFAULT": "Gaya dan warna font sudah default",
+    "RESET_FOOTER": "Atur ulang font: {{fontPrice}} | Atur ulang warna: {{colorPrice}} | Atur ulang semua: {{allPrice}}",
+    "FONT_TITLE": "Font",
+    "FONT_COLORS": "Warna",
+    "FONT_NAME": "Nama",
+    "FONT_SERIES": "Seri",
+    "FONT_PRICE": "Harga",
+    "FONT_GEN": "Gen"
 }

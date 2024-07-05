@@ -1,10 +1,10 @@
 {
     "FUSE_DESCRIPTION": "एक GIF पत्ता बनाने के लिए विभिन्न Fragments को साथ जोड़े",
-    "FUSE_DESC": "फ्यूजन लैब है जहां सोफी खिलाड़ियों के लिए नए चीजें बनाने हेतु जांच करती है। रोमांचक वस्तुओ का अनुकरण यही से होता है",
+    "FUSE_DESC": "फ्यूजन लैब है जहां SOFI खिलाड़ियों के लिए नए चीजें बनाने हेतु जांच करती है। रोमांचक वस्तुओ का अनुकरण यही से होता है",
     "FUSE_DESC2": "<:_:979009081325019156> Animated : Pull का उपयोग करके जुटाए गए Fragments यहाँ जोड़े जाते है ताकि एक GIF पत्ता बनाया जा सके। आपको एक Character के सभी 8 Fragments की आवश्यकता होती है ताकि GIF प्रकार का बनाया जा सके",
     "FUSE_DESC3": "<:_:979009081325019156> Levelling : अपने पत्ता के अपग्रेड पॉइंट प्राप्त करने के लिए दो एक समान कार्ड को फ्यूज करें",
     "FUSE_DESC4": "<:_:979009081325019156> **Versions**: अपने पत्ते के साथ **Elixir** का उपयोग करें और एक नया **Version** संस्करण पाएं",
-    "FUSE_DESC5": "<:_:979009081325019156> **Equipments**: अगले स्तर पर आगे बढ़ने के लिए उपकरणों को फ्यूज करें",
+    "FUSE_DESC5": "<:_:979009081325019156> **Equipments**: अगले प्रणाव पर बढ़ने के लिए उपकरणों को फ्यूज करें",
     "ANIMATED": "ANIMATED",
     "CREATE_ANIMATED": "GIF पत्ता बनाएं",
     "BASE_CARD": "बेस पत्ता",
@@ -25,11 +25,11 @@
     "EQUIPMENT_EMBED_DESCRIPTION": "<:_:979009081325019156> अपने इस्तेमाल न किये गए उपकरणों को अगले स्तर पर फ्यूज करें \n<:_:979009081325019156> उपकरण को अगले स्तर पर फ़्यूज़ करने के लिए आपको एक ही स्तर के 10+ उपकरणों की आवश्यकता होती है \n<:_:979009081325019156> इवेंट उपकरण को ना तो फ़्यूज़ नहीं किया जा सकता और ना ही फ़्यूज़िंग द्वारा प्राप्त नहीं किया जा सकता \n<:_:979009081325019156> फ़्यूज़न से ब्रोंज उपकरण प्राप्त नहीं किये जा सकते \n<:_:979009081325019156> उपकरण के नए स्तर को फ़्यूज़ेबल होने में कुछ समय लगेगा \n\n**फ़्यूज़ करने के लिए उपकरण स्तर चुनें**",
     "NOT_ENOUGH_EQUIPMENT": "**{{makeAmount}} {{makeTier}} {{makeEquipmentType}}** बनाने के लिए आपको **{{needAmount}} {{needTier}} {{needEquipmentType}}** की आवश्यकता है",
     "MISSING_ELIXIR": "आपके पास पर्याप्त **Elixir** नहीं है",
-    "VERSION_MENU_LABEL": "VERSIONS",
+    "VERSION_MENU_LABEL": "Versions",
     "VERSION_MENU_DESCRIPTION": "अपने पत्ते का एक नया संस्करण प्राप्त करें",
-    "EQUIPMENTS_MENU_LABEL": "EQUIPMENTS",
-    "EQUIPMENTS_MENU_DESCRIPTION": "उपकरणों को फ्यूज करें",
-    "VT_BUTTON_LABEL": "VERSION TOKEN",
+    "EQUIPMENTS_MENU_LABEL": "Equipments",
+    "EQUIPMENTS_MENU_DESCRIPTION": "शस्त्रों को फ्यूज करें",
+    "VT_BUTTON_LABEL": "Version Token",
     "CONFIRM_BUTTON_LABEL": "पुष्टि करें",
     "CANCEL_BUTTON_LABEL": "रद्द करें",
     "SELECT_CONVERT": "संस्करण को बदलने के लिए कृपया उसका चयन करें",
@@ -48,5 +48,6 @@
     "VERSION_UPGRADE_FAILED": "**Version** अपग्रेड विफल हुआ, कृपया दोबारा प्रयास करें",
     "VT_MODAL_PLACEHOLDER": "जैसे की. !aaa",
     "EQUIPMENT_MODAL_PLACEHOLDER": "जैसे की. 10",
-    "BASE_MODAL_PLACEHOLDER": "जैसे की. qdwr12"
+    "BASE_MODAL_PLACEHOLDER": "जैसे की. qdwr12",
+    "OPTION_MENU_PLACEHOLDER": "कोई एक विकल्प चुनें"
 }
