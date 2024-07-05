@@ -2,7 +2,7 @@
     "GLOW_DESCRIPTION": "Cette commande appliquera le Glow spécifié sur une carte de votre collection. Les Glows ajoutent un effet brillant autour de la bordure de la Frame de vos cartes. Vous pouvez acheter des Glows en utilisant la commande \"Unlockglow\"",
     "GLOW_CATEGORY": "Cosmétiques",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}glow <CodeDeCarte> <#CodeDeGlow>`",
-    "WRONG_CARD": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "WRONG_CARD": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "NO_GIF_CARDS": "{{author}} Vous ne pouvez pas appliquer de **Glow** à une carte **GIF**",
     "INVALID_GLOW_CODE": "{{author}} Les codes de **Glow** commencent toujours par un `#`",
     "GLOW_NOT_FOUND": "{{author}} Le code du **Glow** que vous avez fourni est invalide ou n'est pas dans votre inventaire",

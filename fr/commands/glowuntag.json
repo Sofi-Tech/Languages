@@ -2,7 +2,7 @@
     "GLOWUNTAG_DESCRIPTION": "Utilisez cette commande pour retirer un tag d'un Glow spécifié",
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "{{author}} Vous n'avez pas encore de **Glows**",
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Les codes des **Glow** commencent toujours avec un `#`",
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Les codes de **Glow** commencent toujours avec un `#`",
     "INVALID_GLOWCODE": "{{author}} Le code de**Glow** fourni n'est soit pas dans votre inventaire soit invalide",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} a retiré avec succès le tag de votre **{{glow}}** **Glow**",
     "GLOW_UNTAG_PLURAL": "{{author}} a retiré avec succès le tag de **{{count}}** **Glows**",

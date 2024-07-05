@@ -2,7 +2,7 @@
     "CARDINFO_DESCRIPTION": "Utiliser cette commande avec un code de carte spécifique affichera plus d'informations détaillées à propos de la carte",
     "SLASH_DESC": "Entrez le code d'une carte que vous souhaitez examiner",
     "NO_CARD_FOUND": "Impossible de trouver votre dernière carte. Essayez de fournir un code de carte à la place",
-    "INVALID_CARD_CODE": "{{author}} Le code de la carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "INVALID_CARD_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "CARD_GLOWED": "**{{isSuper}}Glow** appliqué: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "**Couleur du Texte:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Nom -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Série -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "**Frame** appliquée: **{{frameName}}**\n",

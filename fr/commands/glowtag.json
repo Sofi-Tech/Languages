@@ -5,8 +5,8 @@
     "GLOWS_NOT_UNLOCKED": "{{author}} Vous n'avez pas encore de **Glows**",
     "INVALID_GLOW_CODE": "{{author}} Au moins un des codes de **Glow** que vous avez fourni est invalide ou n'est pas dans votre inventaire",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** a été tag avec succès en tant que `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tous les **Glows** ont été tag avec succès en tant que `{{tag}}`",
-    "INVALID_GLOW_SINGULAR": "{{author}} Le code du **Glow** que vous avez fourni est invalide ou n'est pas dans votre inventaire",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tous les **Glows** sélectionnés ont été tag avec succès comme `{{tag}}`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Le code de **Glow** que vous avez fourni est invalide ou n'est pas dans votre inventaire",
     "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gt <NomDuTag> <CodeDeGlow>`",
-    "GLOW_TAG_INVALID": "{{author}} Vous n'avez aucun **Glow** tag avec le nom `{{tagname}}`"
+    "GLOW_TAG_INVALID": "{{author}} Vous n'avez aucun tag de **Glow** avec le nom `{{tagname}}`"
 }

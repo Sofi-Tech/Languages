@@ -1,5 +1,5 @@
 {
-    "LOOKUP_DESCRIPTION": "Avec cette commande vous pouvez rechercher n'importe quel personnage que vous souhaitez. L'embed généré vous montrera ensuite les différentes Version, ainsi que les variantes d'Event",
+    "LOOKUP_DESCRIPTION": "Avec cette commande vous pouvez rechercher n'importe quel personnage que vous souhaitez. L'encart généré vous montrera ensuite les différentes Version, ainsi que les variantes d'Event",
     "CHAR_NOT_FOUND": "{{author}} Aucun personnage nommé `{{arg}}` n'a été trouvé",
     "CHAR_NF_SENSITIVE": "{{author}} Aucun personnage nommé `{{arg}}`n'a été trouvé\n\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",

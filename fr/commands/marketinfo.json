@@ -12,5 +12,5 @@
     "FOOTER": "Affichage des résultats {{pages}}-{{pages}} sur {{total}} | {{prefix}}mbuy <ID d'Annonce> <Quantité>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Taux: `{{rateAmount}}` {{rateEmoji}}",
-    "DEAL_EMBED_TITLE": "SOFI: MARKETINFO"
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
 }
