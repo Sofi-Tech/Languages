@@ -7,7 +7,7 @@
     "VERIFY_TO_PLAY": "[Vérifiez-vous sur notre site Web pour jouer!](<https://sofi.gg/verify>)",
     "USER_BLACKLISTED": "{{author}} Cet utilisateur est sur liste noire",
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Attendez **{{cooldown}}** avant d'utiliser une commande",
-    "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sous liste noire dans ce salon",
+    "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sur liste noire dans ce salon",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} J'ai besoin de: `{{permissions}}` pour exécuter cette commande",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Vous avez besoin de `{{permissions}}` pour utiliser cette commande",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendez **{{cooldown}}** avant d'utiliser cette commande à nouveau",

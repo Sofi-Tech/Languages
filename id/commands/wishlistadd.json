@@ -3,7 +3,7 @@
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} Anda tidak dapat menambahkan karakter lain ke wishlist anda",
     "SEARCH_CHARACTER_ERROR": "{{author}} Penggunaan yang benar: `{{prefix}}wa <Nama>`",
-    "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan karakter tersebut. Gunakan perintah `{{prefix}}wa -f <Nama>` untuk pencarian yang lebih akurat",
+    "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan karakter itu. Gunakan perintah `{{prefix}}wa -f <Nama>` untuk pencarian yang lebih akurat",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** sudah ada di wishlist anda",
     "CHARACTER_ADDED": "{{author}} Berhasil menambahkan **{{name}}** ke wishlist anda",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",

@@ -2,7 +2,7 @@
     "SERIESLOOKUP_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari kang maghanap ng anumang serye na nais mo. Ipapakita sa iyo ng nabuong embed ang lahat ng mga karakter na maaaring makuha mula sa itinukoy na serye",
     "NO__LAST_CHAR_FOUND": "{{author}} Wala ka pang kahit anong kard sa iyong koleksyon",
     "NO_CHAR_FOUND": "{{author}} Ang serye na ito ay wala pang mga karakter",
-    "NO_SERIES_FOUND": "{{author}} Hindi makahanap ng anumang serye na may pangalang `{{name}}`",
+    "NO_SERIES_FOUND": "{{author}} Walang mahanap na anumang serye na may pangalang `{{name}}`",
     "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} May naganap na error. Pakisubukang muli",
     "CARD_COLLECTED": "Mga Kard na na-kolekta: **{{collected}}/{{totalCards}}**",

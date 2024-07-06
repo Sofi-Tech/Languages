@@ -1,7 +1,7 @@
 {
-    "MARKETBUY_DESCRIPTION": "Utiliser cette commande en combinaison avec un ID d'Annonce du marché suivi d'une quantité, ouvrira un embed de transaction pour acheter des Wists à un autre joueur. Utilisez la commande \"Market\" pour voir toutes les annonces disponibles",
-    "CORRECT_USAGE": "{{author}} Utilisation correcte:`{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
-    "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fournis est invalide",
+    "MARKETBUY_DESCRIPTION": "Utilisez cette commande en combinaison avec un ID d'Annonce du marché suivi d'une quantité, ouvrira un encart de transaction pour acheter des Wists à un autre joueur. Utilisez la commande \"Market\" pour voir toutes les annonces disponibles",
+    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}mbuy <IDOffre> <MontantDeWist>`",
+    "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fourni est invalide",
     "CANNOT_PURCHASE": "{{user}} Vous ne pouvez pas interagir avec cette annonce",
     "CANNOT_SELF": "{{user}} Vous ne pouvez pas acheter votre propre annonce",
     "WIST_NOT_EXCEED": "{{author}} Cette annonce n'a plus que **{{amount}}** `{{currency}}` disponibles",
@@ -12,7 +12,7 @@
     "PURCHASE_CANCELLED": "{{author}} Cette offre n'est plus disponible",
     "MISSING_GEMS": "{{author}} Vous n'avez pas assez de **{{currency}}** pour ce processus",
     "SOMETHING_WRONG": "{{author}} Quelque chose s'est mal passé. Veuillez réessayez",
-    "PURCHASE_SUCCESSFUL": "{{author}} Acheté avec succès **{{boughtCount}}** {{currency}}",
+    "PURCHASE_SUCCESSFUL": "{{author}} Achat avec succès de **{{boughtCount}}** {{currency}}",
     "SUCCESS": "{{user}} Vous avez vendu **{{orderPrice}}** {{currency}} et reçu **{{soldAmount}}** {{currencySoldEmoji}} ! | ID de l'Annonce: `{{dealId}}`",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }

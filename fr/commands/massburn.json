@@ -1,14 +1,14 @@
 {
     "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois en ajoutant des paramètres tels que 'NomDuTag' et \"wl<Nombre\" pour spécifier quelles cartes vous souhaitez burn. Utilisez la commande \"Help filter\" pour obtenir une liste complète des paramètres disponibles",
-    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau **Massburn** alors qu'un précédent est toujours actif",
-    "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n\n```fix\nNote: Vous pouvez trouver une liste complète des filtres avec la commande: {{prefix}}help filters\n```",
+    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau **Massburn** lorsqu'un précédent est toujours actif",
+    "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n\n```fix\nNote: Vous pouvez trouver une liste complète des filtres avec la commande {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Aucun tag nommé `{{arg}}`n'a été trouvé",
     "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes à vos critères de recherche",
     "CARDS_BURNED": "__Cartes sélectionnées [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Êtes-vous sûr(e) de vouloir burn __indéfiniment__ les cartes ci-dessous?",
+    "CONFIRM_ASK": "{{author}} Êtes-vous sûr(e) de vouloir burn __irréversiblement__ les cartes ci-dessous?",
     "MISSING_CARDS": "{{author}} Au moins une des cartes sélectionnées n'est plus dans votre collection",
     "SUCCESS": "{{author}} Les cartes sélectionnées ont été burn avec succès",
     "BURN_REWARDS": "__Récompenses__",
     "EMBED_TITLE": "SOFI: MASSBURN",
-    "LOCKED_CARDS_WARNING": "{{author}} Les cartes qui sont verrouillées, un variant **GIF** ou qui sont utilisées dans un deck ne peuvent pas être burn"
+    "LOCKED_CARDS_WARNING": "{{author}} Les cartes qui sont verrouillées, un variant **GIF** ou utilisées dans un deck ne peuvent pas être burn"
 }

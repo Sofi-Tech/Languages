@@ -1,7 +1,7 @@
 {
     "WISHLISTADD_DESCRIPTION": "Gamitin ang command na ito upang makapagdagdag ng karakter sa iyong personal na wishlist. Ang aksyon na ito ay walang direktang benepisyo o advantage na nauugnay rito",
     "CATEGORY": "Wishlist",
-    "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka maaaring magdagdag ng higit pang mga kaarkter sa iyong wishlist",
+    "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka maaaring magdagdag ng higit pang mga karakter sa iyong wishlist",
     "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <Name>`",
     "NO_CHARACTER_FOUND": "{{author}} Hindi mahanap ang karakter na iyon. Gamitin ang command na `{{prefix}}wa -f <Name>` para sa eksaktong paghahanap",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ay nasa wishlist mo na",

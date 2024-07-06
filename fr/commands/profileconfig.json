@@ -89,7 +89,7 @@
     "MODAL_ERROR_RESPONSE": "Il y a eu une erreur lors de la recherche de réponse. Réessayer s'il vous plaît",
     "NO_PBG_FOUND": "Aucun **Profile Background** avec l'ID `{{id}}` n'a été trouvé",
     "NO_ENOUGH_AMOUNT_PBG": "Vous n'avez pas assez de **{{currency}}** pour acheter ce **Profile Background**",
-    "PURHCASE_SUCCESSFUL": "Vous avez acheté avec succès le **{{backgroundName}}** **Profile Background**",
+    "PURHCASE_SUCCESSFUL": "Achat avec succès du **Profile Background** **{{backgroundName}}**",
     "SELECT_MODAL_TITLE": "Sélectionnez le Profile Background",
     "NO_PBG_INV": "Aucun **Profile Background** avec l'ID `{{id}}`n'a été trouvé dans votre inventaire",
     "PBG_EXIST_INV": "Vous possédez déjà le **Profile Background** avec l'ID `{{id}}` dans votre inventaire",

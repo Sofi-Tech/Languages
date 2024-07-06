@@ -8,7 +8,7 @@
     "EMBED_FOOTER": "Maari mong maibalik ang kard na ito sa hanggang {{date}}",
     "MISSING_CURRENCY": "{{author}} Kailangan mo ng {{amount}}**{{currency}}** upang maibalik ang isang kard",
     "RESTORE_SUCCESSFUL": "{{author}} Ang kard na may code na **{{code}}** ay matagumpay na naibalik",
-    "RESTORE_FAILED": "{{author}} Ang proseso ay nakansela",
+    "RESTORE_FAILED": "{{author}} Ang proseso ay na kansela",
     "ENTER_CODE": "{{author}} Tamang paggamit:`{{prefix}}restore <CardCode>`",
     "CARD_NOT_BURNED": "{{author}} Ang kard na may code na **{{code}}** ay hindi pa nasusunog"
 }

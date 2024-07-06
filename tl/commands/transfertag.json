@@ -1,7 +1,7 @@
 {
-  "TRANSFERTAG_DESCRIPTION": "Ilipat ang mga kard mula sa isang tag papunta sa iba",
-  "TRTAG_CATEGORY": "Mga Tag",
-  "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}trt <pangalanNgLumangTag> <pangalanNgPanibagongTag>`",
-  "TAG_NOT_FOUND": "{{author}}ikaw ay walang kahit anong ang `Tag` na may pangalang: `{{tag}}`",
-  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Matagumpay na inilipat ang lahat ng mga card mula sa `Tag` `{{fromTag}}` patungo sa `{{toTag}}`"
+    "TRANSFERTAG_DESCRIPTION": "Magagamit mo ang command na ito para ilipat ang lahat ng mga kard sa loob ng isang pananda sa ibang pananda",
+    "TRTAG_CATEGORY": "Mga Pananda",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}trt <fromOldTag> <toNewTag>`",
+    "TAG_NOT_FOUND": "{{author}} Ikaw ay walang kahit anong pananda na may pangalang`{{tag}}`",
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Matagumpay na nailipat ang lahat ng mga kard mula sa panandang `{{fromTag}}` patungo sa `{{toTag}}`"
 }

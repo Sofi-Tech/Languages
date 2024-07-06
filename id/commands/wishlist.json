@@ -16,5 +16,13 @@
     "ALL_CARD_CODES": "Karena banyaknya kode, pesan tersebut harus diubah menjadi file `.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Wishlist anda kosong",
-    "PAGE": "Salin Halaman - {{page}}"
+    "PAGE": "Salin Halaman - {{page}}",
+    "FREE": "Gratis",
+    "CONFIRM_UNLOCK": "Konfirmasikan untuk Membuka Kunci",
+    "SLOTS_MENU_LABEL": "{{size}} Total Slot - {{price}}",
+    "ALREADY_SLOTS": "{{author}} Anda sudah memiliki {{size}} slot di Wishlist Anda",
+    "ALREADY_UNLOCKED": "{{author}} Opsi ini sudah terbuka",
+    "UPGRADE_MODAL_LABEL": "Apa kamu yakin?",
+    "NOT_ENOUGH_CURRENCY": "{{author}} Anda tidak punya cukup **{{currency}}**",
+    "UPGRADE_EMBED_DESCRIPTION": "Anda dapat membuka hingga maksimal 100 slot"
 }

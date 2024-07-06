@@ -1,15 +1,15 @@
 {
     "CHARLOOKUP_DESCRIPTION": "- 'scl' コマンドを使用して、特定の文字を検索できます。このメニューでは、キャラクターの統計、バージョン/3D/GIFバリアント、Gen/ファンのリーダーボードと「Card ID」を確認できます。\n- 新しいバージョンに画像を送信するときに「Card ID」が必要です",
-    "CHAR_NOT_FOUND": "あなたが探しているキャラクターを見つけることができませんでした",
-    "CHAR_NF_SENSITIVE": "キャラクターが見つかりませんでした。 [`ルックアップ`関数はケースに敏感です！]",
-    "EMBED_TITLE": "SOFI: CHARLOOKUP",
-    "NORMAL_LABEL": "バージョンバリアント",
-    "FAN_PTS_LABEL": "ファンポイントを追加します",
-    "3D_LABEL": "3Dバリアント",
-    "GIF_LABEL": "GIFバリアント",
+    "CHAR_NOT_FOUND": "{{author}}その名前のキャラクターは見つかりませんでした`{{arg}}`",
+    "CHAR_NF_SENSITIVE": "{{author}}その名前のキャラクターは見つかりませんでした`{{arg}}`\n\n```fix\nNote:`-f`フラグを使用すると、機能が大文字小文字を区別するようになります！\n```",
+    "EMBED_TITLE": "SOFI:CHARACTER LOOKUP({{category}})",
+    "NORMAL_LABEL": "バージョン:1",
+    "FAN_PTS_LABEL": "ファンポイントを追加",
+    "3D_LABEL": "3D",
+    "GIF_LABEL": "GIF",
     "SERIES": "シリーズ：",
     "NAME": "名前：",
-    "CATEGORY": "カテゴリー",
+    "CATEGORY": "カテゴリ:",
     "WISHLISTED": "ウィッシュリストに追加されました",
     "GENERATED": "生成された",
     "BURNED": "燃やされた",
@@ -26,5 +26,8 @@
     "GEN_CLAIMED": "`Gens`は主張した：{{count}}/100",
     "NO_OWNER_FOUND": "`バージョン`の所有者は見つかりませんでした",
     "NO_3D_OWNER_FOUND": "3D所有者は見つかりません",
-    "NO_GIF_OWNER_FOUND": "GIFの所有者は見つかりませんでした"
+    "NO_GIF_OWNER_FOUND": "GIFの所有者は見つかりませんでした",
+    "MORE_INFO_LABEL": "オプションを選択",
+    "VERSION_LB": "バージョン LB",
+    "NOT_AVAILABLE": "無効なシリーズ"
 }

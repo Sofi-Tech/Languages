@@ -12,7 +12,7 @@
     "POSITIVE_NUMBER": "{{author}} Dapat positibong numero ang iyong bid",
     "MINIMUM_AMOUNT": "{{author}} Kailangan mong mag bid ng hindi bababa ng **{{amount}}** {{currencyEmoji}} sa auction na ito",
     "BID_MODAL_PLACEHOLDER": "Ilagay ang bilang ng Bid",
-    "AUCTION_NOT_FOUND": "Hindi makita ang auction na iyan",
+    "AUCTION_NOT_FOUND": "{{author}} Hindi mahanap ang auction na iyon",
     "NOT_ENOUGH_CURRENCY": "{{author}} Wala kang sapat na {{emoji}}",
     "BID_SUCCESSFUL": "{{author}} Matagumpay kang nakapaglagay ng bid na **{{amount}}** {{emoji}}",
     "EMBED_TITLE": "SOFI: AUCTION INFO",

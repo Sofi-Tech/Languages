@@ -1,10 +1,10 @@
 {
-    "MARKETLIST_DESCRIPTION": "Utilisez cette commande pour mettre vos Wist sur le marché en échange de Gems",
+    "MARKETLIST_DESCRIPTION": "Utilisez cette commande pour proposer vos Wist sur le marché en échange de Gems",
     "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}ml <Quantité> <Taux>`",
     "INVALID_GEM_RATE": "{{user}} Le taux que vous avez fourni est invalide",
     "GEM_RATE_LIES": "{{user}} Le taux fourni doit être compris entre **3.0 - 20.0**",
-    "ALREADY_EXISTS": "{{author}} Utilisez la commande `{{prefix}}mul {{dealID}}` pour supprimer votre annonce existante",
-    "PRODUCTS": "Liste:",
+    "ALREADY_EXISTS": "{{author}} Utilisez d'abord la commande `{{prefix}}mul {{dealID}}` pour supprimer votre annonce existante",
+    "PRODUCTS": "Mise en vente:",
     "RATE": "Taux:",
     "VALUE": "Valeur:",
     "CANCELLED": "Le processus a été annulé",
@@ -14,6 +14,6 @@
     "BLACKLISTED": "{{author}} Vous êtes sur liste noire",
     "NOT_VERIFIED": "{{author}} Vous n'êtes pas vérifié",
     "QUARANTINED": "{{author}} Vous êtes en quarantaine",
-    "NOT_REGISTERED": "{{author}} Vous n'êtes pas incrit",
-    "INVALID_WIST_AMOUNT": "{{author}} Vous devez mettre un minimum de **10** **Wists**"
+    "NOT_REGISTERED": "{{author}} Vous n'êtes pas inscrit",
+    "INVALID_WIST_AMOUNT": "{{author}} Vous devez proposez un minimum de **10** **Wists**"
 }

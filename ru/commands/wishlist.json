@@ -13,7 +13,7 @@
     "CARD_MENU_DESCRIPTION": "Скопировать коды {{name}}",
     "COPY_CODES_MENU_PLACEHOLDER": "Выбрать опцию",
     "CODES_COPIED": "← Скопировано",
-    "ALL_CARD_CODES": "В связи с большим количеством кодов сообщение должно быть преобразовано в файл формала`.txt`:",
+    "ALL_CARD_CODES": "В связи с большим количеством кодов сообщение преобразовано в файл формала`.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Ваш список желаемого пуст",
     "PAGE": "Скопировать страницу - {{page}}",
@@ -27,5 +27,6 @@
     "NOT_ENOUGH_CURRENCY": "{{author}} У вас недостаточно **{{currency}}**",
     "UPGRADE_SUCCESS": "{{author}} Ваш список желаемого успешно улучшен до {{type}} ячеек",
     "SLOTS_MENU_LABEL": "{{size}} Всего ячеек - {{price}}",
-    "UPGRADE_MODAL_TITLE": "Улучшить список желаемого ({{size}} ячеек)"
+    "UPGRADE_MODAL_TITLE": "Улучшить список желаемого ({{size}} ячеек)",
+    "UNLOCKED": "Разблокировано"
 }
