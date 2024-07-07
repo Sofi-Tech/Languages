@@ -1,10 +1,10 @@
 {
-    "BUMP_DESCRIPTION": "Ang paggamit ng command na ito ay lumilikha ng isang embed na nagpapakita ng kabubuan ng iyong Bumps, pati na rin ang iyong kasalukuyang available na Bump-Points, na maaaring gamitin sa opisyal na website ng Sofi.gg upang bumili ng mga aytem kabilang ang Trade Pass",
+    "BUMP_DESCRIPTION": "Ang paggamit ng command na ito ay lumilikha ng isang embed na nagpapakita ng kabubuan ng iyong mga Bump, pati na rin ang iyong mga kasalukuyang available na Bump-Point, na maaaring gamitin sa opisyal na website ng Sofi.gg upang bumili ng mga aytem kabilang ang Trade Pass",
     "BUMP_CATEGORY": "Konpigurasyon",
     "EMBED_AUTHOR": "SOFI: BUMP ({{username}})",
     "GET_DIFFERENT_REWARDS": "Pindutin ang **Bump** button sa aming opisyal na [Website](https://sofi.gg) upang makakuha ng mga premyo",
     "TOTAL_BUMP": "- Kabuuang **Bumps**: **{{bump}}**",
-    "BUMP_POINTS": "- Kasalukuyang mga puntos:**{{bumpPoints}}** (🔺)",
+    "BUMP_POINTS": "- Kasalukuyang mga Puntos:**{{bumpPoints}}** (🔺)",
     "EMBED_FOOTER": "Maaari mong gamitin ang Bump function kada 4 na oras!",
     "BUMP": "Bump"
 }

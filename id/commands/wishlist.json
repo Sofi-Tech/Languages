@@ -24,5 +24,8 @@
     "ALREADY_UNLOCKED": "{{author}} Opsi ini sudah terbuka",
     "UPGRADE_MODAL_LABEL": "Apa kamu yakin?",
     "NOT_ENOUGH_CURRENCY": "{{author}} Anda tidak punya cukup **{{currency}}**",
-    "UPGRADE_EMBED_DESCRIPTION": "Anda dapat membuka hingga maksimal 100 slot"
+    "UPGRADE_EMBED_DESCRIPTION": "Anda dapat membuka hingga maksimal 100 slot",
+    "UPGRADE_MENU_PLACEHOLDER": "Tingkatkan Wishlist",
+    "UPGRADE_MODAL_TITLE": "Tingkatkan Wishlist ({{size}} Slot)",
+    "UPGRADE_SUCCESS": "{{author}} Berhasil meningkatkan wishlist Anda ke {{type}} slot"
 }

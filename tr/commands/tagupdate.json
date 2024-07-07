@@ -15,7 +15,7 @@
     "REPLACE_NAME_SUCCESSFUL": "{{author}} `Etiket`'inizin \"{{oldTag}}\" olan adı başarı ile \"{{newTag}}\" olarak değiştirildi",
     "PROCESS_TERMINATED": "İşlem iptal edildi",
     "REPLACE_EMOJI": "{{emoji}} yerine kullanmak istediğiniz emojiyi girin",
-    "WRONG_TAGEMOJI_FORMAT": "{{author}} Bu emoji geçersiz",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Bu emoji geçersizdir",
     "REPLACE_EMOJI_CONFIRMATION": "Bu etiketin {{oldEmoji}} olan emojisini {{newEmoji}} olarak değiştirmek istediğinizden emin misiniz?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Bu etiketin {{oldEmoji}} olan emojisi başarıyla {{newEmoji}} olarak güncellendi"
 }

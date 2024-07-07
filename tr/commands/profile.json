@@ -1,6 +1,7 @@
 {
-    "PROFILE_DESCRIPTION": "Bir kullanıcı profili gösterir",
+    "PROFILE_DESCRIPTION": "Bu komut,kullanıcının profili yanısıra seçilen arka plan, vurgulanan kart ve rozetleri görüntüler. \"Profileconfig\" komutunu kullanarak kendi profil kartınızı yapılandırabilirsiniz",
     "PRO_CATEGORY": "Ayarlar",
     "USER_NOT_FOUND": "{{author}} Bu kullanıcı bulunamadı",
-    "PROFILE_NOT_FOUND": "{{author}} Bu kullanıcı kayıtlı değil!"
+    "PROFILE_NOT_FOUND": "{{author}} Bu kullanıcı kayıtlı değil",
+    "GIF_ENABLED": "{{author}} Profilinizde GIF özelliği etkin. GIF profilinizi yüklemek için \"spc\" komutunu kullanın ve açılan menüdeki \"Reload GIF profile\" düğmesine tıklayın"
 }

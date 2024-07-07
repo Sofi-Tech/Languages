@@ -1,15 +1,15 @@
 {
     "UNDOBACKGROUND_DESCRIPTION": "­Bu komutu bir 3D kartta kullanmak Arka Planını kaldıracak ve envanterinize geri döndürecektir",
     "UB_CATEGORY": "Kozmetikler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}undobg <CardCode>`",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}undobg <KartKodu>`",
     "NO_CHARACTER_FOUND": "{{author}} Bu karttaki karakter artık Sofi'de mevcut değil ve onunla etkileşime geçilemez",
     "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu Geçersiz veya koleksiyonunuzda yok",
-    "NO_GIF_CARD": "{{author}} Bir **GIF** kartının **Arka Planını** kaldıramazsınız",
-    "NO_BACKGROUND": "{{author}} Bu karta uygulanan **Arka Plan** yok",
+    "NO_GIF_CARD": "{{author}} Bir **GIF** kartının **Background**'ını kaldıramazsınız",
+    "NO_BACKGROUND": "{{author}} Bu karta uygulanan **Background** yok",
     "EMBED_TITLE": "SOFI: ARKAPLAN KALDIRMA",
-    "PROCESS_COST": "Bu işlemin maliyeti **1** **Wist**'tir ve **Arka Plan**'ı envanterinize geri döndürür",
-    "NOT_ENOUGH_WIST": "{{author}} Bu **Arka Planı** kaldırmak için yeterli **{{currency}}** paranız yok",
-    "NO_BG_APPLIED": "{{author}} Bu karta hiçbir **Arkaplan** uygulanmamış",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} Bu kartın **Arkaplanı* envanterinize başarıyla geri döndürdü",
+    "PROCESS_COST": "Bu işlemin maliyeti **1** **Wist**'tir ve **Background**'ı envanterinize geri döndürür",
+    "NOT_ENOUGH_WIST": "{{author}} Bu **Background**'ı kaldırmak için yeterli **{{currency}}** elinizde bulunmuyor",
+    "NO_BG_APPLIED": "{{author}} Bu karta hiçbir **Background** uygulanmamış",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} Bu karta uygulanan **Background** envanterinize başarıyla geri döndürdü",
     "NO_OWNER": "{{author}} Bu Kart artık koleksiyonunuzda değil"
 }

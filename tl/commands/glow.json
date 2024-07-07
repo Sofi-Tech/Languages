@@ -2,7 +2,7 @@
     "GLOW_DESCRIPTION": "Ang command na ito ay maglalagay ng napiling Glow sa kard mula sa iyong koleksyon. Ang mga Glow ay nagbibigay ng lumiliwanag na epekto sa dulo ng iyong card. Maaari kang bumili ng mga Glow gamit ang \"Unlockglow\" na command",
     "GLOW_CATEGORY": "Kosmetiko",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}glow <CardCode> <#GlowCode>`",
-    "WRONG_CARD": "{{author}} Ang kard code na iyong ibinigay ay maaring hindi tama o wala sa iyong koleksyon",
+    "WRONG_CARD": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "NO_GIF_CARDS": "{{author}} Hindi ka maaaring maglagay ng **Glow** sa **GIF** na kard",
     "INVALID_GLOW_CODE": "{{author}} Ang code ng mga **Glow** ay laging nagsisimula sa `#`",
     "GLOW_NOT_FOUND": "{{author}} Ang code ng **Glow** na iyong ibinigay ay maaaring hindi tama o wala sa iyong imbentaryo",

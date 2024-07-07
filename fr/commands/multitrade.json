@@ -1,6 +1,6 @@
 {
-    "MULTITRADE_DESCRIPTION": "Cette commande enverra une demande d'échange à un autre joueur que vous avez sélectionné. Une fois qu'ils acceptent la demande, l'encart permettra aux deux joueurs d'ajouter simultanément plusieurs cartes et items. Une fois que les deux côtés ont confirmé leur sélection et accepté l'échange, le contenu de la fenêtre d'échange opposée sera ajouté à votre compte",
-    "MENTION_USER": "{{author}} Utilisation correcte: `{{prefix}}mt <@User/UserID>`",
+    "MULTITRADE_DESCRIPTION": "Cette commande enverra une demande d'échange à un autre joueur que vous aurez sélectionné. Une fois qu'ils acceptent la demande, l'encart permettra aux deux joueurs d'ajouter simultanément plusieurs cartes et items. Une fois que les deux côtés ont confirmé leur sélection et accepté l'échange, le contenu de la fenêtre d'échange opposée sera ajouté à votre compte",
+    "MENTION_USER": "{{author}} Utilisation correcte: `{{prefix}}mt <@Utilisateur/IDdel'Utilisateur>`",
     "IN_TRADE": "{{user}} Vous avez déjà envoyé une demande d'échange à quelqu'un! Annulez la pour en commencer une nouvelle",
     "BOT_TRADE": "{{author}} Vous ne pouvez pas échanger avec un `BOT`",
     "SELF_TRADE": "{{author}} Vous ne pouvez pas échanger avec vous-même",

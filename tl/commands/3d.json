@@ -1,10 +1,10 @@
 {
     "3D_DESCRIPTION": "Palitan ang iyong kard sa kanyang 3D variant, na magbabago sa itsura nito. Ang prosesong ito ay gagamit ng mga Cube na maaari mong makuha sa pamamagitan ng pagsusunog ng mga kard, pagbubukas ng mga chest o iba pang mga gawain",
-    "3D_CATEGORY": "Kosmetiko",
-    "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay hindi tama o wala sa iyong koleksyon",
+    "3D_CATEGORY": "Mga Kosmetiko",
+    "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "NO_GIF_CONVERSION": "{{author}} Hindi mo maaring palitan ang **GIF** kard sa isang **3D** variant",
-    "NO_CUBES": "{{author}}Ikaw ay walang sapat na **Cubes** para sa prosesong ito",
-    "3D_NOTE": "Kasalukuyan kang magpapalit ng kard sa kanyang 3D variant. Ang prosesong ito ay permanente at hindi na maibabalik. Anumang nakakabit na \"Frame\" ay mawawala sa prosesong ito. Ang napalitan na card ay magkakaroon ng Gen na proporsyonal sa dati nitong variant",
+    "NO_CUBES": "{{author}} Ikaw ay walang sapat na **Cubes** para sa prosesong ito",
+    "3D_NOTE": "Kasalukuyan kang magpapalit ng kard sa kanyang 3D variant. Ang prosesong ito ay permanente at hindi na maibabalik. Anumang nakakabit na Frame ay mawawala sa prosesong ito. Ang napalitan na card ay magkakaroon ng Gen na proporsyonal sa dati nitong variant",
     "CARD_3D_ALREADY": "{{author}} Ang kard ay nasa **3D** variant na",
     "EMBED_TITLE": "SOFI: 3D",
     "EVENT_3D_NOTE": "Habang may aktibong event, lahat ng mga kwalipikadong kard ay mapapalitan ng Event-3D variant nito sa halip na kanilang karaniwang 3D matapos kumpirmahin ang prosesong ito",
@@ -13,5 +13,5 @@
     "UPGRADE_3D_CANCEL": "Ang proseso ay na kansela",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Hindi mo maaring palitan ang event kard sa regular na **3D** variant",
     "NO_3D_VERSION": "{{author}} Ang karakter na ito ay wala pang **3D** variant",
-    "EVENT_NOTE": "Kasalukuyan kang magpapalit ng kard sa kanyang Event-3D variant. Ang prosesong ito ay permanente at hindi na maibabalik. Anumang nakakabit na \"Frame\" ay mawawala sa prosesong ito. Ang mga event kard ay may nakatagong Gen na maaaring makita gamit ang aming website kapag natapos na ang event"
+    "EVENT_NOTE": "Kasalukuyan kang magpapalit ng kard sa kanyang Event-3D variant. Ang prosesong ito ay permanente at hindi na maibabalik. Anumang nakakabit na Frame ay mawawala sa prosesong ito. Ang mga event kard ay may nakatagong Gen na maaaring makita gamit ang aming website kapag natapos na ang event"
 }

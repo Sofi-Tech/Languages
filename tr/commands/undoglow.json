@@ -1,7 +1,7 @@
 {
     "UNDOGLOW_DESCRIPTION": "Bu komutun bir kartta kullanılması, karta uygulanan Glow'u kaldıracaktır",
     "UNG_CATEGORY": "Kozmetikler",
-    "UNG_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ung <CardCode>`",
+    "UNG_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ung <KartKodu>`",
     "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu Geçersiz veya koleksiyonunuzda yok",
     "NO_CHARACTER": "{{author}} Bu karttaki karakter artık Sofi'de mevcut değil ve onunla etkileşime geçilemez",
     "NO_GIF": "{{author}} **GIF** kartından kozmetik öğeleri kaldıramazsınız",

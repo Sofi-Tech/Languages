@@ -2,7 +2,7 @@
     "CARDINFO_DESCRIPTION": "Ang paggamit ng command na ito kasama ang partikular na code ng kard ay magpapakita ng mas partikular na impormasyon tungkol sa kard",
     "SLASH_DESC": "Ilagay ang code ng kard na gusto mong suriin",
     "NO_CARD_FOUND": "Hindi mahanap ang iyong huling kard. Sa halip ay subukang magbigay ng code ng kard",
-    "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay hindi tama o wala sa iyong koleksyon",
+    "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "CARD_GLOWED": "Inilagay ang **{{isSuper}}Glow**: **{{glowName}} ** (`#{{viewCode}}`)\n",
     "CARD_FONT": "**Mga Kulay ng Teksto:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Pangalan-** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Serye -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "**Frame** na inilagay: **{{frameName}}**\n",

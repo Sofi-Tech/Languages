@@ -1,6 +1,6 @@
 {
-  "PREFIX_DESCRIPTION": "Sunucudaki Sofi ön eki ayarla",
-  "PREFIX_CATEGORY": "Ayarlar",
-  "PROVIDE_PREFIX": "{{author}} Doğru kullanım: `{{prefix}}ön-ek <YeniÖnEk>`",
-  "PREFIX_SET_SUCCESSFUL": "{{author}} Sunucu için ön ek `{{prefix}}` olarak ayarlandı"
+    "PREFIX_DESCRIPTION": "Bu komutla sunucunuz için öneki ayarlayabilirsiniz. Sofi'de komutları yürütmek için seçilen önek gerekli olacak",
+    "PREFIX_CATEGORY": "Ayarlar",
+    "PROVIDE_PREFIX": "{{author}} Doğru kullanım: `{{prefix}}prefix <YeniÖnEk>`",
+    "PREFIX_SET_SUCCESSFUL": "{{author}} Sunucu için ön ek `{{prefix}}` olarak ayarlandı"
 }
