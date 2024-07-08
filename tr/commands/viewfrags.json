@@ -1,6 +1,6 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "Bu komut kullanıcının Parça envanterini açacaktır. Parçalar, bir karakterin GIF varyantlarını oluşturmak için kullanılır. Bunları elde etmek için \"Pull\" komutunu kullanabilirsiniz",
-    "COLLECTION_PVT": "{{author}} Bu kullanıcının **Fragment**'ler sekmesi gizlidir",
+    "VIEWFRAGS_DESCRIPTION": "Bu komut kullanıcının Fragment envanterini açacaktır. Fragmentlar, bir karakterin GIF varyantlarını oluşturmak için kullanılır. Bunları elde etmek için \"Pull\" komutunu kullanabilirsiniz",
+    "COLLECTION_PVT": "{{author}} Bu kullanıcının **Fragment** envanter sekmesi gizlidir",
     "CANNOT_FIND_FRAGS": "{{user}} Bu kullanıcının herhangi bir **Fragments**'i yok",
     "FRAGS_COUNT": "Toplam: {{totalCount}}",
     "FRAG_LIST": "SOFI: FRAGMENT'LER ({{userName}})",

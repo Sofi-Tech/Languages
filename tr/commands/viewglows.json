@@ -1,10 +1,10 @@
 {
-    "VIEWGLOWS_DESCRIPTION": "Kullanıcının mevcut Parıltılarını incelemek için bu komutu kullanın. Parametre olarak bir Glow kodunun kullanılması, Glow ile ilgili ayrıntıların yer aldığı bir yerleştirmeyi açacaktır",
+    "VIEWGLOWS_DESCRIPTION": "Kullanıcının mevcut Glow'larını incelemek için bu komutu kullanın. Parametre olarak bir Glow kodunun kullanılması ve Glow ile ilgili ayrıntıların yer aldığı bir yerleştirmeyi açacaktır",
     "VG_CATEGORY": "Kozmetikler",
     "VG_SLASH_DESC1": "\"Glow\"'larını görmek istediğiniz kullanıcıyı seçin",
     "VG_SLASH_DESC2": "Filtrelemek istediğiniz etiketin adını girin",
-    "VG_SLASH_DESC3": "İncelemek istediğiniz \"Glow\"'un kodunu girin",
-    "NO_GLOWS": "{{author}} Bu kullanıcının herhangi bir \"Glow\"'u yok",
+    "VG_SLASH_DESC3": "İncelemek istediğiniz \"Glow\" kodunu girin",
+    "NO_GLOWS": "{{author}} Bu kullanıcının herhangi bir \"Glow\" a sahip değil",
     "SUPER": "Süper",
     "EMBED_TITLE": "SOFI: GLOW GÖRÜNTÜLEME",
     "EMBED_FOOTER": "Gösterilen sayfa: {{page}}/{{totalPages}} | Toplam {{count}}}}",
@@ -21,5 +21,12 @@
     "TIME_zero": "{{count}} kez",
     "TIME_two": "{{count}} sefer",
     "TIME_few": "{{count}} sefer",
-    "TIME_many": "{{count}} sefer"
+    "TIME_many": "{{count}} sefer",
+    "VG_NAME": "İsim",
+    "VG_CODE": "Kod",
+    "VG_STATUS": "Durum",
+    "VG_TYPE": "Tip",
+    "VG_USED": "Kullanılmış",
+    "VG_OWNER": "Sahibi",
+    "VG_TAG": "Etiket"
 }

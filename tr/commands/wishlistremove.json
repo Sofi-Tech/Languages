@@ -2,7 +2,7 @@
     "WISHLISTREMOVE_DESCRIPTION": "Bir karakteri istek listenizden kaldırmak için bu komutu kullanın",
     "CATEGORY": "İstek Listesi",
     "NO_INDEX": "{{author}} Doğru kullanım: `{{prefix}}wr <Ad/Numara>`. İstek listenizin tamamını temizlemek için `{{prefix}}wr full reset` komutunu kullanın",
-    "FULL_RESET": "{{author}} Dilek listenizdeki tüm karakterleri başarıyla kaldırdı",
-    "REMOVE_CHARACTER": "{{author}} **{{name}}** Dilek listenizden başarıyla kaldırıldı",
-    "NO_RESULTS": "{{author}} Dilek listenizde `{{name}}` adında bir karakter yok"
+    "FULL_RESET": "{{author}} İstek listenizdeki tüm karakterleri başarıyla kaldırdı",
+    "REMOVE_CHARACTER": "{{author}} **{{name}}** İstek listenizden başarıyla kaldırıldı",
+    "NO_RESULTS": "{{author}} İstek listenizde `{{name}}` adında bir karakter yok"
 }
