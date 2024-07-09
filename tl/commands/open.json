@@ -18,10 +18,10 @@
     "NOIR_FOUND": "Nakahanap ka ng <:noiressence:1115496193775116411> `Noir Essence` sa iyong chest!",
     "GUILD_CHEST_FOOTER": "Maaari kang makakuha ng Guild Chest sa katapusan ng bawat season",
     "GUILD_PACKAGE_SUCCESS": "Pagbati! Ang iyong **Guild Package** ay naglalaman ng **{{charName}}** **3D-V2** card at 💳 **{{amount}}x** **Gen Scratcher**",
-    "EMBED_TITLE": "SOFI: OPEN {{itemName}}",
+    "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
     "PROCESS_CANCELLED": "Ang proseso ay na kansela",
     "GUILD_PACKAGE_PROMPT": "**__Current Card Pool __**\n{{poolLine}}\n\nSigurado ka na bang gusto mong buksan ang package na ito?",
-    "CLAIMED": "Nakuha",
+    "CLAIMED": "Nakuha na",
     "VERSION_CHEST_FOOTER": "Maaaring makipagpalitan o magbukas ng Bersyon chest",
     "EQUIP_EQUIPMENTS": "Gamitin ang command na 'sstats <CardCode>' upang mag-equip ng equipments"
 }

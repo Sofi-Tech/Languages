@@ -1,8 +1,9 @@
 {
     "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
-    "PLAYER_NOT_EXIST": "{{author}} Ang user na iyan ay hindi naka-rehistro",
+    "PLAYER_NOT_EXIST": "{{author}} Ang user na iyon ay hindi nakarehistro",
     "CHOOSE_SORTING": "Iayos batay sa",
     "SORT_CHAR": "Pangalan",
     "SORT_SERIES": "Serye",
-    "SORT_WL": "Wishlist"
+    "SORT_WL": "Wishlist",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})"
 }

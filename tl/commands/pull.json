@@ -1,8 +1,8 @@
 {
-    "PULL_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong i-convert ang Wists at Gems sa iba't ibang mga aytem, kabilang ang mga Fragment na ginagamit upang lumikha ng mga GIF kard",
+    "PULL_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari mong gamitin ang mga Wist at mga Gem para makakuha ng iba't ibang mga aytem. Mayroon ding tiyansa na makakuha ng GIF na kard",
     "PULL_AMT": "{{author}} Tamang paggamit: `{{prefix}}pull <1/10>`",
     "INFO_1": "Kailangan mo ng 8 na **Fragments** upang lumikha ng isang **GIF** na variant ng isang karakter",
-    "INFO_2": "Mayroong maximum na **100** **GIF** variants bawat karakter",
+    "INFO_2": "Mayroong maximum na **100** **GIF** na variant ang bawat karakter",
     "INFO_3": "Sunugin ang mga **Fragment** upang makakuha ng mga **Charm**",
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Bilang ng Pull: [ {{count}} ]",
@@ -12,7 +12,7 @@
     "RATES": "Mga Rate",
     "PULL_CHANCES": "**__Mga Probabilidad__**",
     "GIF_CHANCE": "Mag-Pull at magkaroon ng pagkakataon na makakuha ng GIF kard",
-    "GIFS": "Mga GIFS",
+    "GIFS": "Mga GIF",
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
     "ACTIVE_POOL": "**Aktibong Pool**",
     "GIF_EMBED_FOOTER": "Mayroon kang 0.5% na pagkakataong makakuha ng animated na card mula sa mga pull"

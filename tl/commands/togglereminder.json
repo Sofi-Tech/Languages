@@ -2,6 +2,6 @@
     "REMINDER_ENABLED": "{{author}} Ngayon ay ipapaalam na sa iyo kung ang iyong **`{{reminder}}`** ay handa na",
     "PROVIDE_REMINDER_NAME": "{{author}} Tamang paggamit: `{{prefix}}tr <Vote/Daily/Bump>`",
     "REMINDER_DISABLED": "{{author}} Ngayon ay hindi na ipapaalam sa iyo kung ang iyong **`{{reminder}}`** ay handa na",
-    "TOGGLEREMINDER_DESCRIPTION": "Sa command na ito ay mong i-toggle ang estado ng iyong mga paalala. Maaari mo ring gamitin ang command na \"Cooldown\" at i-click ang bell icon bilang alternatibo",
+    "TOGGLEREMINDER_DESCRIPTION": "Sa command na ito ay maaari mong i-toggle ang estado ng iyong mga paalala. Maaari mo ring gamitin ang command na \"Cooldown\" at pindutin ang kampana bilang alternatibo",
     "RM_CATEGORY": "Konpigurasyon"
 }

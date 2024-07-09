@@ -4,6 +4,6 @@
     "UT_EMPTY_COLLECTION": "{{author}} Wala ka pang anumang mga kard sa iyong koleksyon",
     "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang pananda sa iyong **{{cardName}}** kard",
     "MULTIPLE_UNTAG": "{{author}} Matagumpay na natanggal ang pananda mula sa **{{count}}** na mga kards",
-    "INVALID_CODE": "{{author}} Ang kard code na iyan ay maaaring hindi tama o wala sa iyong koleksyon",
+    "INVALID_CODE": "{{author}} Ang code ng kard na iyon ay maaaring hindi tama o wala sa iyong koleksyon",
     "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na kard codes ay maaaring hindi tama o wala sa iyong koleksyon:\n{{invalidCodeList}}"
 }

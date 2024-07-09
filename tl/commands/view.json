@@ -1,15 +1,15 @@
 {
-    "VIEW_DESCRIPTION": "Ang command na ito ay nagpapakita ng biswal na itsura ng espesipikong kard. Gamitin ang command na ito nang walang code ng kard upang sa halip, ay ipakita ang huling nakuhang kard",
+    "VIEW_DESCRIPTION": "Ang command na ito ay nagpapakita ng biswal na itsura ng isang tinutukoy na kard. Gamitin ang command na ito nang walang code ng kard upang sa halip, ay ipakita ang huling nakuhang kard",
     "SLASH_DESC1": "Ilagay ang code ng kard",
-    "INVALID_CODE": "{{author}} Ang code ng kard ay hindi tama",
+    "INVALID_CODE": "{{author}} Ang code ng kard na iyon ay hindi tama",
     "SERIES": "Serye:",
     "NAME": "Pangalan:",
-    "OWNED_BY": "Pag-aari Ni:",
+    "OWNED_BY": "Pagmamay-ari ni:",
     "SERVER": "ID ng Server:",
     "CLAIMED": "Nakuha Noong:",
     "MOVES": "Mga Abilidad",
     "EMBED_TITLE": "SOFI: VIEW",
-    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensiya **({{percentage}}%)**",
-    "SPECIAL": "Special",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Lakas **({{percentage}}%)**",
+    "SPECIAL": "Espesyal",
     "INFO_BUTTON_LABEL": "Impormasyon"
 }

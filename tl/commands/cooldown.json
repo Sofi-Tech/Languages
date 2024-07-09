@@ -2,7 +2,7 @@
     "COOLDOWN_DESCRIPTION": "Ang command na ito ay magpapakita ng listahan ng iyong kasalukuyang cooldown. Kung gusto mong paalalahanan tungkol sa iyong Vote/Daily/Bump cooldown, pindutin ang kampana sa ilalim ng embed",
     "JOIN_SUPPORT_SERVER": "**[Sumali sa aming Opsiyal na Support Server upang mabigyan nang karagdagang tulong!](https://discord.gg/sofi)**",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
-    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Pagkuha`** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",

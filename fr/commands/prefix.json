@@ -2,5 +2,5 @@
     "PREFIX_DESCRIPTION": "Avec cette commande vous pouvez définir le préfixe pour votre serveur. Le préfixe sélectionné sera nécessaire pour exécuter des commandes sur Sofi",
     "PREFIX_CATEGORY": "Réglages",
     "PROVIDE_PREFIX": "{{author}} Utilisation correcte: `{{prefix}}prefix <NouveauPrefixe>`",
-    "PREFIX_SET_SUCCESSFUL": "{{author}} Le préfixe pour ce serveur a été défini à `{{prefix}}`"
+    "PREFIX_SET_SUCCESSFUL": "{{author}} Le préfixe pour ce serveur a été défini comme `{{prefix}}`"
 }

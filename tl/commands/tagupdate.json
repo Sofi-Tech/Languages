@@ -10,12 +10,12 @@
     "REPLACE_NAME": "Maglagay ng bagong pangalan na ipapalit sa `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang pananda na may pangalan na `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong pananda ay dapat letra at numero lang at hindi dapat nag lalaman ng espesyal karakters, spaces o kahit anong kabastusan",
-    "TAGNAME_LONG": "{{author}} Ang pangalan ng pananda ay dapat **20** letra lang ang haba",
+    "TAGNAME_LONG": "{{author}} Ang pangalan ng pananda ay dapat hanggang **20** na letra lamang",
     "REPLACE_NAME_CONFIRMATION": "Sigurado ka bang gusto mong baguhin ang pangalan ng pananda na ito mula sa `{{oldTag}}` patungo sa `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Matagumpay na napalitan ang pangalan ng iyong pananda na `{{oldTag}}` patungo sa `{{newTag}}`",
     "PROCESS_TERMINATED": "Ang proseso ay na kansela",
     "REPLACE_EMOJI": "Maglagay ng emoji na iyong nais ipalit sa {{emoji}}",
-    "WRONG_TAGEMOJI_FORMAT": "{{author}} Iyan ay hindi tamang emoji",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Iyon ay hindi tamang emoji",
     "REPLACE_EMOJI_CONFIRMATION": "Sigurado ka bang gusto mong baguhin ang emoji ng iyong pananda mula sa {{oldEmoji}} patungong {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Matagumpay na nabago ang emoji ng iyong pananda mula sa {{oldEmoji}} patungo {{newEmoji}}"
 }
