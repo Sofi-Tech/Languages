@@ -23,7 +23,7 @@
     "NOT_WHITELISTED_YET": "{{author}} Du hast noch keine Befehle auf die Whitelist gesetzt",
     "ADD_MODAL_LABEL": "Füge Befehle zur {{listName}} dieses Kanals hinzu",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Die Berechtigungen für diesen Kanal wurden erfolgreich zurückgesetzt",
-    "STOPPED_PROCESS": "{{author}} Der Vorgang wurde abgebrochen",
+    "STOPPED_PROCESS": "Der Vorgang wurde abgebrochen",
     "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "REMOVE_MODAL_LABEL": "Entferne Befehle aus der {{listName}} dieses Kanals",
     "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle Befehle wurden erfolgreich zur {{listName}} dieses Kanals hinzugefügt",
