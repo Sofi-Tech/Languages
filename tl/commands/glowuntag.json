@@ -5,6 +5,6 @@
     "WRONG_GLOWCODE_FORMAT": "{{author}} Ang mga code ng **Glow** ay laging nagsisimula sa `#`",
     "INVALID_GLOWCODE": "{{author}} Ang code ng **Glow** na iyon ay maaaring hindi tama o wala sa iyong imbentaryo",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Matagumpay na naalis ang pananda mula sa iyong **{{glow}}** **Glow**",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Ang mga sumusunod na code ng **Glow** ay maaring hindi tama o wala sa iyong imbentaryo:\n{{invalidCodeList}}",
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Ang mga sumusunod na code ng **Glow** ay maaaring hindi tama o wala sa iyong imbentaryo:\n{{invalidCodeList}}",
     "GLOW_UNTAG_PLURAL": "{{author}} Matagumpay na naalis ang pananda mula sa **{{count}}** **Glows**"
 }

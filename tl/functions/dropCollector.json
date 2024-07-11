@@ -1,15 +1,15 @@
 {
     "GRAB_CARD_PLURAL": "{{winner}} ay naglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "EXTRA_GRAB": "{{user}} Ang iyong extra **Grab** ay kasulukuyang ginagamit. Mayroon ka nalang **{{remaining}}** na natitira",
-    "CARDS_DROPPED_BY": "Si user na {{user}} ay nag **dropped** ng cards",
-    "GRAB_COOLDOWN": "{{user}} Kailangan mong maghintay ng **{{cooldown}}** para makakuha ng iba pang card",
+    "EXTRA_GRAB": "{{user}} Ang iyong sobrang **Grab** ay kasulukuyang ginagamit. Mayroon ka nalang **{{remaining}}** na natitira",
+    "CARDS_DROPPED_BY": "Si {{user}} ay nag **dropped** ng mga kard",
+    "GRAB_COOLDOWN": "{{user}} Kailangan mong maghintay ng **{{cooldown}}** para makakuha ng iba pang kard",
     "EVENT_GRAB": "{{user}} Binuksan ang {{currencyEmoji}} **{{amount}}** mga sorpresa ng **{{eventItem}}**",
     "TOOK_CARD": "{{user}} **kinuha** ang **{{character}}** na card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} ay kinuha ang **{{amount}}** **{{eventItem}}** kay <@{{userId}}>",
     "GRAB_EVENT_ITEM": "{{winner}} ay nakipag-laban sa **{{userCount}}** na katao at nakakuha ng **{{amount}}** **{{eventItem}}**",
     "GRAB_CARD": "{{winner}} ay nanalo kay {{user}} at **nakuha** ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "CANNOT_BE_GRABBED": "{{user}} Ang mga card na nasa ibaba ay hindi na maaaring **makuha**",
+    "CANNOT_BE_GRABBED": "{{user}} Ang mga kard na nasa ibaba ay hindi na maaaring **makuha**",
     "TOOK_VERSION": "{{winner}} ay **kinuha** ang **{{character}}** **Bersyon Token** (`{{code}}`) [**V{{version}}**]",
-    "GRAB_VERSION_PLURAL": "{{winner}} ay naglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na **Bersyon Token** (`{{code}}`) [**V{{version}}**]",
-    "GRAB_VERSION": "{{winner}} ay nanalo kay {{user}} at **nakuha** ang **{{character}}** **Bersyon Token** (`{{code}}`) [**V{{version}}**]"
+    "GRAB_VERSION_PLURAL": "Si {{winner}} ay nakipaglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na **Bersyon Token** (`{{code}}`) [**V{{version}}**]",
+    "GRAB_VERSION": "Si {{winner}} ay nakipaglaban kay {{user}} at **nakuha** ang **{{character}}** **Bersyon Token** (`{{code}}`) [**V{{version}}**]"
 }

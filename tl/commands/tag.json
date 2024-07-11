@@ -2,7 +2,7 @@
     "TAG_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari kang magtalaga ng pananda sa isang kard. Ang mga pananda ay isang kapaki-pakinabang na feature para ma-ikategorya at ma-igrupo ang maraming kard na tugma sa iyong sariling pamantayan. Gamitin ang command na \"Tagcreate\" upang gumawa ng mga pananda",
     "TAG_CATEGORY": "Mga Pananda",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}t <TagName> <CardCode>`",
-    "NO_TAGS_CREATED": "{{author}} Wala ka pang kahit anumang pananda. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` para gumawa ng isa",
+    "NO_TAGS_CREATED": "{{author}} Wala ka pang kahit anong pananda. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` para gumawa ng isa",
     "TAG_NOT_FOUND": "{{author}} Wala kang kahit anong pananda na may pangalang `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
     "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",

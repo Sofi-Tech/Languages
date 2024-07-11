@@ -1,16 +1,16 @@
 {
     "UNDOGLOW_DESCRIPTION": "Ang paggamit ng command na ito sa isang kard ay magtatanggal ng Glow na inilagay dito",
-    "UNG_CATEGORY": "Kosmetiko",
-    "UNG_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}ung <KardCode>`",
+    "UNG_CATEGORY": "Mga Kosmetiko",
+    "UNG_INVALID_USAGE": "{{author}} Tamang paggamit: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
-    "NO_CHARACTER": "{{author}} Ang karakter sa kard na ito ay hindi na available sa Sofi at hindi na maaring magamit pa",
+    "NO_CHARACTER": "{{author}} Ang karakter sa kard na ito ay hindi na available sa Sofi at hindi na maaaring magamit pa",
     "NO_GIF": "{{author}} Hindi ka maaaring magtanggal ng mga kosmetiko mula sa **GIF** na kard",
-    "NOT_GLOWED": "{{author}} Walang **glow** na nakalagay sa kard na iyon",
+    "NOT_GLOWED": "{{author}} Walang **Glow** na nakalagay sa kard na iyon",
     "EMBED_TITLE": "SOFI: REMOVE GLOW",
     "UNG_CONFIRMATION": "Sigurado ka bang gusto mong burahin ang **Glow** sa kard na ito sa halagang **100** **Silver**?",
-    "EMBED_FOOTER": "Ang Glow ay hindi na babalik sa iyong imbentaryo",
+    "EMBED_FOOTER": "Ang Glow ay hindi na mababalik sa iyong imbentaryo",
     "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na **{{currency}}** para sa prosesong ito",
     "UNG_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang **{{glowName}}** **Glow** mula sa iyong kard",
     "UNG_NO_OWNER": "{{author}} Ang kard ay wala na sa iyong koleksyon",
-    "UNAVAILABLE": "Hindi available"
+    "UNAVAILABLE": "Hindi Available"
 }

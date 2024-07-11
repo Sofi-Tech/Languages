@@ -6,7 +6,7 @@
     "INFO_1": "Si {{user}} ay nag simula ng laro ng panghuhula!",
     "INFO_2": "Bayad sa Pakikilahok: **{{bet}}** {{currencyEmoji}}",
     "INFO_3": "Ang Premyo: **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "Pindutin ang 🍻 upang makasali! Ang host ay maaring magsimula ng laro kapag pinindot ang 🟢",
+    "FOOTER": "Pindutin ang 🍻 upang makasali! Ang host ay maaaring magsimula ng laro kapag pinindot ang 🟢",
     "REQ_MORE_PLAYERS": "{{user}} Kailangan ng kahit **2** manlalaro upang maumpisahan ang laro",
     "GUESS_THE_WORD": "{{participants}}\n\nAyusin ang **Salitang Ingles** na nakagulo: `{{scrambledWord}}`",
     "CORRECT_GUESS": "Si {{winner}} ay Matagumpay na nakuhang hulaan ang salita at nanalo ng **{{jackpot}}** {{currencyEmoji}}",

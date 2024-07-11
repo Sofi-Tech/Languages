@@ -13,9 +13,9 @@
     "MONTHS": "mga buwan",
     "YEAR": "taon",
     "YEARS": "mga taon",
-    "SUCCESS": "Tagumpay na natapos ang proseso",
-    "CANCELLED": "Ang proseso ay na kansela",
-    "PROCESSING": "Pino-proseso ang iyong kahilingan...<a:loading:876610443148406794>",
+    "SUCCESS": "Matagumpay na natapos ang proseso",
+    "CANCELLED": "Ang proseso ay nakansela",
+    "PROCESSING": "Pinoproseso ang iyong kahilingan...<a:loading:876610443148406794>",
     "AVAILABLE": "May Karga",
     "UNAVAILABLE": "Walang Karga",
     "ATTACK": "Atake",
@@ -35,5 +35,6 @@
     "MEMBER_QUARANTINED": "{{author}} Ang user na iyon ay quarantined",
     "AN": "isang",
     "A": "isang",
-    "THE": "ang"
+    "THE": "ang",
+    "MODAL_ERROR_RESPONSE": "Nagkaroon ng error habang kinukuha ang response. Pakisubukang muli!"
 }

@@ -1,14 +1,14 @@
 {
-    "RESTORECARD_DESCRIPTION": "Ginagamit ang command na ito upang makapag balik ng nasunog na kard sa loob ng 3 araw matapos itong sunugin",
-    "RESTORECARD_CATEGORY": "Kards",
-    "CARD_NOT_FOUND": "{{author}} Ang kard ma may code na **{{code}}** ay hindi nakita sa mga nasunog mong kards",
+    "RESTORECARD_DESCRIPTION": "Ginagamit ang command na ito upang makapagbalik ng nasunog na kard sa loob ng 3 araw matapos itong sunugin",
+    "RESTORECARD_CATEGORY": "Mga Kard",
+    "CARD_NOT_FOUND": "{{author}} Ang kard ma may code na **{{code}}** ay hindi nakita sa mga nasunog mong kard",
     "CARD_EXPIRED": "{{author}} Ang kard na may code na **{{code}}** ay lumipas na at hindi na pwedeng maibalik",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Sigurado ka ba na gusto mong maibalik Ang kard na **{{code}}** para sa {{amount}} **{{currency}}**?",
-    "EMBED_FOOTER": "Maari mong maibalik ang kard na ito sa hanggang {{date}}",
+    "RESTORE_CONFIRMATION": "Sigurado ka ba na gusto mong maibalik ang kard na **{{code}}** para sa {{amount}} **{{currency}}**?",
+    "EMBED_FOOTER": "Maaari mong maibalik ang kard na ito hanggang {{date}}",
     "MISSING_CURRENCY": "{{author}} Kailangan mo ng {{amount}}**{{currency}}** upang maibalik ang isang kard",
     "RESTORE_SUCCESSFUL": "{{author}} Ang kard na may code na **{{code}}** ay matagumpay na naibalik",
-    "RESTORE_FAILED": "{{author}} Ang proseso ay na kansela",
+    "RESTORE_FAILED": "{{author}} Ang proseso ay nakansela",
     "ENTER_CODE": "{{author}} Tamang paggamit:`{{prefix}}restore <CardCode>`",
     "CARD_NOT_BURNED": "{{author}} Ang kard na may code na **{{code}}** ay hindi pa nasusunog"
 }

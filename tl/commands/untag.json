@@ -1,9 +1,9 @@
 {
-    "UNTAG_DESCRIPTION": "Gamitin ang command na ito upang burahin ang pananda sa iyong kard. Kung nais mong burahin ang buong pananda, maaari mong gamitin ang command na \"Tagdelete\"",
+    "UNTAG_DESCRIPTION": "Gamitin ang command na ito upang burahin ang pananda sa iyong kard. Kung gusto mong burahin ang buong pananda, maaari mong gamitin ang command na \"Tagdelete\"",
     "UT_CATEGORY": "Mga Pananda",
-    "UT_EMPTY_COLLECTION": "{{author}} Wala ka pang anumang mga kard sa iyong koleksyon",
+    "UT_EMPTY_COLLECTION": "{{author}} Wala ka pang kahit anong mga kard sa iyong koleksyon",
     "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang pananda sa iyong **{{cardName}}** kard",
-    "MULTIPLE_UNTAG": "{{author}} Matagumpay na natanggal ang pananda mula sa **{{count}}** na mga kards",
+    "MULTIPLE_UNTAG": "{{author}} Matagumpay na natanggal ang pananda mula sa **{{count}}** na mga kard",
     "INVALID_CODE": "{{author}} Ang code ng kard na iyon ay maaaring hindi tama o wala sa iyong koleksyon",
     "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na kard codes ay maaaring hindi tama o wala sa iyong koleksyon:\n{{invalidCodeList}}"
 }

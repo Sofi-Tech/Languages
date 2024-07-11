@@ -1,5 +1,5 @@
 {
-    "MARKETINFO_DESCRIPTION": "Ang paggamit ng command na ito ay magpapakita ng iyong kasalukuyang market order. Maaari mo ring idagdag ang ID ng nag-eexist na order sa prompt upang makakuha ng higit pang impormasyon tungkol sa partikular na order",
+    "MARKETINFO_DESCRIPTION": "Ang paggamit ng command na ito ay magpapakita ng iyong kasalukuyang order sa merkado. Maaari mo ring idagdag ang ID ng nag-eexist na order sa prompt upang makakuha ng higit pang impormasyon tungkol sa partikular na order",
     "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay hindi tama",
     "TRADER": "Nagbebenta",
     "DEAL_ID": "Ang Order-ID",
@@ -7,8 +7,8 @@
     "VALUE": "Halaga",
     "RATE": "Rate",
     "LISTED": "Mga Nakalista",
-    "NO_LISTINGS_FOUND": "{{user}} Wala kang anumang order na kasalukuyang nasa merkado",
-    "INFO": "Gamitin ang command na `{{prefix}}mul <Order-ID>` upang alisin ang iyong order sa market",
+    "NO_LISTINGS_FOUND": "{{user}} Wala kang kahit anong order na kasalukuyang nasa merkado",
+    "INFO": "Gamitin ang command na `{{prefix}}mul <Order-ID>` upang tanggalin ang iyong order sa merkado",
     "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}",
