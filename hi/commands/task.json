@@ -66,5 +66,6 @@
     "CAPABILITY": "क्षमता: {{capability}}",
     "NOT_AVAILABLE": "अनुपलब्ध",
     "QUEST_REWARDS_THREE": "क्वेस्ट में {{shardCount}} Shards, {{silver}} Silver और {{ingotCount}} {{ingotName}} Ingot मिले",
-    "QUEST_REWARDS_FOUR": "क्वेस्ट में {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks और {{ingotCount}} {{ingotName}} Ingot मिले"
+    "QUEST_REWARDS_FOUR": "क्वेस्ट में {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks और {{ingotCount}} {{ingotName}} Ingot मिले",
+    "REWARDS_LINE": "*आप महीने के अंत में {{reward}} प्राप्त करेंगे अगर आपके पास {{points}} टास्क अंक हैं*"
 }

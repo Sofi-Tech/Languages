@@ -66,5 +66,6 @@
     "QUEST_REWARD": "Puedes conseguir **{{minimumShards}}** hasta **{{maximumShards}}** <:_:1168102686785273916> y **{{minimumSilvers}}** hasta **{{maximumSilvers}}** <:_:915619222229512213>\ncon un adicional de **{{luckFactor}}x** cantidad conseguida\nVa a ganar **{{questXP}}** experiencia por carta",
     "QUEST_REWARDS_THREE": "La mision obtuvo {{shardCount}} Shards, {{silver}} Silver y {{ingotCount}} {{ingotName}} Ingot",
     "QUEST_REWARDS_FOUR": "La misión obtuvo {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks y {{ingotCount}} {{ingotName}} Ingot",
-    "GUILD": "Guild"
+    "GUILD": "Guild",
+    "REWARDS_LINE": "*Vas a recibir {{reward}} a fin de mes si tienes {{points}} Task Points*"
 }
