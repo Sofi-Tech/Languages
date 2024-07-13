@@ -66,11 +66,11 @@
     "GUILD": "Guild",
     "QUEST_REWARDS_THREE": "Выполнение задания принесло вам {{shardCount}} Shards, {{silver}} Silver и {{ingotCount}} {{ingotName}} Ingot",
     "QUEST_REWARDS_FOUR": "Выполнение задания принесло вам {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks и {{ingotCount}} {{ingotName}} Ingot",
-    "REWARDS_LINE": "*В конце месяца вы получите {{reward}}, если вы набрали {{points}} очков заданий*",
-    "EMBED_TITLE_two": "Задания ({{count}} Очка)",
-    "EMBED_TITLE_zero": "Задания ({{count}} Очков)",
-    "EMBED_TITLE_one": "Задания ({{count}} Очко)",
-    "EMBED_TITLE_few": "Задания ({{count}} Очка)",
-    "EMBED_TITLE_other": "Задания ({{count}} Очков)",
-    "EMBED_TITLE_many": "Задания ({{count}} Очков)"
+    "REWARDS_LINE": "*В конце месяца вы получите {{reward}}, если вы набрали {{points}} очков поручений*",
+    "EMBED_TITLE_two": "Поручения ({{count}} Очка)",
+    "EMBED_TITLE_zero": "Поручения ({{count}} Очков)",
+    "EMBED_TITLE_one": "Поручения ({{count}} Очко)",
+    "EMBED_TITLE_few": "Поручения ({{count}} Очка)",
+    "EMBED_TITLE_other": "Поручения ({{count}} Очков)",
+    "EMBED_TITLE_many": "Поручения ({{count}} Очков)"
 }
