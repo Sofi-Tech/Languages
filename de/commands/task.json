@@ -66,5 +66,11 @@
     "NOT_AVAILABLE": "Nicht verfügbar",
     "QUEST_REWARDS_THREE": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver und {{ingotCount}} {{ingotName}} Ingot erbracht",
     "QUEST_REWARDS_FOUR": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks und {{ingotCount}} {{ingotName}} Ingot erbracht",
-    "REWARDS_LINE": "*Du erhälst {{reward}} am Ende des Monats, wenn du {{points}} Aufgabenpunkte hast*"
+    "REWARDS_LINE": "*Du erhälst {{reward}} am Ende des Monats, wenn du {{points}} Aufgabenpunkte hast*",
+    "EMBED_TITLE_two": "Task ({{count}} Punkte)",
+    "EMBED_TITLE_one": "Task ({{count}} Punkt)",
+    "EMBED_TITLE_few": "Task ({{count}} Punkte)",
+    "EMBED_TITLE_other": "Task ({{count}} Punkte)",
+    "EMBED_TITLE_many": "Task ({{count}} Punkte)",
+    "EMBED_TITLE_zero": "Task ({{count}} Punkt)"
 }
