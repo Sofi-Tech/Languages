@@ -7,7 +7,7 @@
     "DAILY_TASKS": "### <:1day:1168129639017893949> __**Diario**__ (Reinicia en {{time}}) \n<:curvedline:979665878503272478> Dropea 5 veces - {{dropPoints}}/5 \n<:curvedline:979665878503272478> Haz Bump en el sitio web Sofi.gg - {{bumpPoints}}/1 \n<:curvedline:979665878503272478> Haz Morph a una carta - {{morphPoints}}/1 \n<:curvedline:979665878503272478> Quema 3 cartas - {{burnPoints}}/3",
     "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Mensual**__ (Reinicia en {{time}})\n<:curvedline:979665878503272478> Vota 50 veces en el mes - {{votePoints}}/50",
     "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Semanal**__ (Reinicia en {{time}}) \n<:curvedline:979665878503272478> Haz 20 raids - {{raidPoints}}/20 \n<:curvedline:979665878503272478> Ve a una aventura - {{questPoints}}/15 \n<:curvedline:979665878503272478> Haz Bump en el sitio web Sofi.gg - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> Dropea 100 veces - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Quema 60 cartas - {{burnPoints}}/60 \n<:curvedline:979665878503272478> Haz +15000 puntos en una raid - {{raidScore}}/1",
-    "QUEST_BUTTON_LABEL": "Misión",
+    "QUEST_BUTTON_LABEL": "Misiones",
     "ABORT_MODAL_LABEL": "¿Deseas abortar la misión?",
     "ABORT_MODAL_PLACEHOLDER": "Yes/No",
     "STREAK_FOOTER": "Racha [ {{count}} ]",
