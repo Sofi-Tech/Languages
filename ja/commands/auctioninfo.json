@@ -1,7 +1,7 @@
 {
-    "AUCTIONINFO_DESCRIPTION": "このコマンドで、今行っているオークションが表示され、どっちに入札できるか確認できます。オークションが「Charm」という通貨を使用します",
+    "AUCTIONINFO_DESCRIPTION": "このコマンドでは埋め込みテキストに過去に落札されたや今行っているカードコードの入札できるオークションが表示されます。オークションの入札が「Charm」という通貨を使用する",
     "AI_CATEGORY": "カード",
-    "NO_ONGOING_AUCTION": "{{author}} 現在はアクティブなオークションがありません",
+    "NO_ONGOING_AUCTION": "{{author}} 今行っているオークションがありません",
     "AI_ENDS": "終了日",
     "SELECT_AUCTION_PLACEHOLDER": "オークションを選択してください",
     "BID_MODAL_LABEL": "入札額",
@@ -11,12 +11,14 @@
     "POSITIVE_NUMBER": "{{author}} 入札額は正の数で入力してください",
     "MINIMUM_AMOUNT": "{{author}} このオークションには最低**{{amount}}** {{currencyEmoji}}の入札が必要です",
     "AUCTION_NOT_FOUND": "{{author}}そのオークションが見つかりませんでした",
-    "BID_SUCCESSFUL": "{{author}} 成功で**{{amount}}** {{emoji}}入札しました",
+    "BID_SUCCESSFUL": "{{author}} 成功で**{{amount}}** {{emoji}}の入札を受け付けしました",
     "NOT_ENOUGH_CURRENCY": "{{author}} {{emoji}}が足りません",
     "AI_CURRENT": "現在の入札",
     "BID_SELECTION": "「{{prefix}}ai <オークションID>」コマンド使いまたは直下のメニューからオークションを選択してください",
     "EMBED_TITLE": "SOFI：オークション詳細",
     "TOTAL_CHARMS": "「Charm」全額",
     "YOUR_CHANCE": "当たり率",
-    "BID_BUTTON_LABEL": "入札"
+    "BID_BUTTON_LABEL": "入札",
+    "SERIES": "- シリーズ：",
+    "NAME": "- キャラ名："
 }

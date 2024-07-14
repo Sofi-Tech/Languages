@@ -1,12 +1,15 @@
 {
     "BUY_DESCRIPTION": "Het gebruik van dit commando in combinatie met een voorwerp naam en hoeveelheid zal een transactie embed openen om het specifieke voorwerp aan te kopen. Gebruik het \"Shop\" commando om alle beschikbare voorwerpen te zien",
-    "SLASH_DESC": "Voer de naam van het `Item` in dat je wilt kopen",
+    "SLASH_DESC": "Voer de naam van het voorwerp in dat u wilt kopen",
     "SLASH_DESC2": "Voer het bedrag in",
-    "SLASH_DESC3": "Voer de code in van de `Background` die je wilt kopen. [WERKT ALLEEN ALS ITEM IS GESELECTEERD ALS ACHTERGROND]",
-    "NO_ITEM": "Specificeer een `Item` om te kopen",
-    "TRADEPASS_INFO": "U kunt **__1x__** `Bump` inwisselen voor een 4-Hour `Trade Pass` of **__20x__** `Bumps` sparen om een 30-Day `Trade Pass` te kopen",
-    "CORRECT_USAGE": "{{USER}} Juist gebruik: `{{prefix}}buy bg <bgID> [bedrag]`",
-    "INVALID_BG_AMOUNT": "Voer geen negatieve getallen in",
-    "INVALID_BG_ID": "Voer een geldige achtergrond-ID in",
-    "INVALID_ITEM_PROVIDED": "{{USER}} Ongeldig item opgegeven"
+    "SLASH_DESC3": "Voer de code in van de Achtergrond die u wilt kopen. [WERKT ALLEEN ALS HET ITEM GESELECTEERD IS ALS ACHTERGROND]",
+    "NO_ITEM": "{{author}} Correct gebruik: `{{prefix}}buy <ItemNaam> <Hoeveelheid>`",
+    "TRADEPASS_INFO": "Bezoek onze website onderaan om te **Bumpen** en uw punten in te wisselen voor verschillende items, waaronder de **Trade Pass**",
+    "CORRECT_USAGE": "{{user}} Correct gebruik: `{{prefix}}buy bg <Achtergrond-ID> <Hoeveelheid>`",
+    "INVALID_BG_AMOUNT": "{{author}} U kan geen negative hoeveelheid van een item kopen",
+    "INVALID_BG_ID": "{{author}} Kon geen **Achtergrond** vinden met dat ID",
+    "INVALID_ITEM_PROVIDED": "{{user}} Het item dat u opgaf is ongeldig",
+    "BUY_CHARMS_MULTIPLES": "{{author}} U kan alleen **Charms** kopen in veelvouden van 100",
+    "BUY_CHARM_CONFIRMATION": "## U bent {{amount}} <:xcharm:988729774031638528> aan het kopen",
+    "BUY_GEN_CONFIRMATION": "## U bent {{count}} gen scratchers aan het kopen"
 }
