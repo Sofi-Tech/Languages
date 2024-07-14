@@ -8,7 +8,7 @@
     "QUEST_ABORTED": "La quête a été abandonnée. Vous pouvez en commencer une nouvelle",
     "MONTHLY_REWARD_CHANGED": "Le type de récompense Mensuelle a été changé en {{reward}}",
     "DECK_SELECTED_few": "{{deck}} est maintenant en mission sur {{quest}} pour {{count}} heures",
-    "QUEST_BUTTON_LABEL": "Quête",
+    "QUEST_BUTTON_LABEL": "Quêtes",
     "TASK_DESCRIPTION": "Utilisez cette commande pour partir en quêtes et accomplir vos tâches quotidiennes, hebdomadaires et mensuelles afin de recevoir des récompenses.",
     "TASK_CATEGORY": "Réglages",
     "NOT_ON_QUEST": "<:xstatusred:895546340367548486> Actuellement pas en quête",
@@ -65,5 +65,12 @@
     "SELECT_MODAL_PLACEHOLDER": "Deck 1/1/[nomdudeck]",
     "STREAK_FOOTER": "Série [ {{count}} ]",
     "QUEST_REWARDS_FOUR": "La quête a rapportée {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks et {{ingotCount}} {{ingotName}} Ingot",
-    "QUEST_REWARDS_THREE": "La quête a rapportée {{shardCount}} Shards, {{silver}} Silver et {{ingotCount}} {{ingotName}} Ingot"
+    "QUEST_REWARDS_THREE": "La quête a rapportée {{shardCount}} Shards, {{silver}} Silver et {{ingotCount}} {{ingotName}} Ingot",
+    "REWARDS_LINE": "*Vous recevrez {{reward}} à la fin du mois si vous avez {{points}} Points De Tâche*",
+    "EMBED_TITLE_many": "Tâche ({{count}} Points)",
+    "EMBED_TITLE_zero": "Tâche ({{count}} Points)",
+    "EMBED_TITLE_one": "Tâche ({{count}} Point)",
+    "EMBED_TITLE_two": "Tâche ({{count}} Points)",
+    "EMBED_TITLE_few": "Tâche ({{count}} Points)",
+    "EMBED_TITLE_other": "Tâche ({{count}} Points)"
 }
