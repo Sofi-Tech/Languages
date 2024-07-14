@@ -12,7 +12,7 @@
     "QUEST_ENDS_IN": "Görevin sonlanmasına:",
     "VOTE_BUTTON_LABEL": "Oyla",
     "BUMP_BUTTON_LABEL": "Bumpla",
-    "QUEST_BUTTON_LABEL": "Görev",
+    "QUEST_BUTTON_LABEL": "Görevler",
     "FRAME_REWARD_BUTTON_LABEL": "Çerçeve",
     "CUBES_REWARD_BUTTON_LABEL": "{{amount}} Küp",
     "BACK_BUTTON_LABEL": "Geri dön",
@@ -65,5 +65,12 @@
     "ELEMENT_PREFERENCE": "Tercihi Öğeler: {{elements}}",
     "NOT_AVAILABLE": "Mevcut Değil",
     "QUEST_REWARDS_THREE": "Görev, {{shardCount}} Shards, {{silver}} Silver ve {{ingotCount}} {{ingotName}} Külçe içeriyor",
-    "QUEST_REWARDS_FOUR": "Görev, {{shardCount}} Parça, {{silver}} Gümüş, {{xpSacks}} XP Torbası ve {{ingotCount}} {{ingotName}} Külçe içeriyor"
+    "QUEST_REWARDS_FOUR": "Görev, {{shardCount}} Parça, {{silver}} Gümüş, {{xpSacks}} XP Torbası ve {{ingotCount}} {{ingotName}} Külçe içeriyor",
+    "REWARDS_LINE": "*{{points}} Görev Puanınız varsa ay sonunda {{reward}} elde edeceksiniz!*",
+    "EMBED_TITLE_one": "GÖREV ({{count}} Puan)",
+    "EMBED_TITLE_two": "Görev ({{count}} Puan)",
+    "EMBED_TITLE_few": "Görev ({{count}} Puan)",
+    "EMBED_TITLE_other": "Görev ({{count}} Puan)",
+    "EMBED_TITLE_many": "Görev ({{count}} Puan)",
+    "EMBED_TITLE_zero": "Görev ({{count}} Puan)"
 }
