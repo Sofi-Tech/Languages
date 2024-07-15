@@ -9,7 +9,7 @@
     "QUEST_ENDS_IN": "Ang Quest ay magtatapos sa loob ng:",
     "VOTE_BUTTON_LABEL": "Boto",
     "BUMP_BUTTON_LABEL": "Bump",
-    "QUEST_BUTTON_LABEL": "Quest",
+    "QUEST_BUTTON_LABEL": "Mga Quest",
     "FRAME_REWARD_BUTTON_LABEL": "Frame",
     "CUBES_REWARD_BUTTON_LABEL": "{{amount}} Cubes",
     "BACK_BUTTON_LABEL": "Bumalik",
@@ -66,5 +66,11 @@
     "QUEST_REWARDS_THREE": "Ang quest ay nakakuha ng mga {{shardCount}} Shard, {{silver}} Silver at {{ingotCount}}{{ingotName}} Ingot",
     "DURATION_zero": "Tagal: {{count}} oras",
     "CARD_INVALID": "Ang kard na may code na **{{code}}** ay maaaring hindi tama o wala sa iyong koleksyon",
-    "REWARDS_LINE": "*Makakatanggap ka ng {{reward}} sa katapusan ng buwan kung mayroon kang {{points}} na Task Points*"
+    "REWARDS_LINE": "*Makakatanggap ka ng {{reward}} sa katapusan ng buwan kung mayroon kang {{points}} na Task Points*",
+    "EMBED_TITLE_few": "Mga Task ({{count}} Point)",
+    "EMBED_TITLE_one": "Task ({{count}} Point)",
+    "EMBED_TITLE_two": "Mga Task ({{count}} Point)",
+    "EMBED_TITLE_other": "Mga Task ({{count}} Points)",
+    "EMBED_TITLE_zero": "Mga Task ({{count}} Points)",
+    "EMBED_TITLE_many": "Mga Task ({{count}} Points)"
 }
