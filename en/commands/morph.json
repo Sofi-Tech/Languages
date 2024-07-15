@@ -25,6 +25,7 @@
     "CANNOT_APPLY_MNC": "{{author}} You cannot apply {{article}} **{{eventType}}** morph on **{{eventCardType}}** or **3D** cards",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Every roll will cost 1 {{currencyName}}",
+    "SMR_REROLL_COST": "Every roll will cost 1000 {{currencyName}}",
     "NO_SPECIAL_REROLLED": "No special morph rolled",
     "NONE": "None"
 }

@@ -1,10 +1,10 @@
 {
     "EXTRA_GRAB": "{{user}} Your extra **Grab** is being used. You have **{{remaining}}** remaining",
     "GRAB_COOLDOWN": "{{user}} You must wait **{{cooldown}}** to grab another card",
-    "EVENT_GRAB": "{{user}} plucked {{currencyEmoji}} **{{amount}}** **{{eventItem}}** for the garden",
+    "EVENT_GRAB": "{{user}} deftly collected {{currencyEmoji}} **{{amount}}** **{{eventItem}}** on the beach",
     "TOOK_CARD": "{{user}} **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "SNATCHED_EVENT_ITEM": "Well Done! {{winner}} snagged {{amount}} shells from <@{{userId}}>",
-    "GRAB_EVENT_ITEM": "A true shell warrior! {{winner}} protected {{amount}} 🐚 from {{userCount}} players",
+    "SNATCHED_EVENT_ITEM": "{{winner}} shellshocked <@{{userId}}> and got {{amount}} 🐚",
+    "GRAB_EVENT_ITEM": "{{winner}} outwitted {{userCount}} beachcombers and nabbed {{amount}} 🐚",
     "GRAB_CARD": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} The cards below can no longer be **grabbed**",
     "CARDS_DROPPED_BY": "{{user}} has **dropped** cards",
