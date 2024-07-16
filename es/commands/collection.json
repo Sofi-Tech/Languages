@@ -28,7 +28,7 @@
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
     "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}",
-    "TAG_MODAL_TITLE": "Introduce un \"Tag\"",
+    "TAG_MODAL_TITLE": "Introduce un Tag",
     "TAG_MODAL_LABEL": "Añadir tag En Masa",
     "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el tag `{{arg}}`",
     "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" para eliminar un tag en masa en su lugar",
