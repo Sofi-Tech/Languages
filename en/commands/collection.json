@@ -29,7 +29,7 @@
     "EMBED_FOOTER": "Page: {{page}}/{{totalPages}} | Total cards: {{count}} {{sortedBy}}",
     "TAG_MODAL_LABEL": "Mass Tag",
     "TAG_MODAL_PLACEHOLDER": "Use a \"-\" to mass remove a tag instead",
-    "TAG_MODAL_TITLE": "Enter a \"Tag\"",
+    "TAG_MODAL_TITLE": "Enter a tag",
     "TAG_NO_CARDS_FOUND": "{{author}} Could not find any cards with the tag `{{arg}}`",
     "MASSTAG_WRONG_TAG": "{{author}} Could not find any tag with the name `{{arg}}`",
     "ALL_UNTAG_SUCCESS_zero": "{{author}} Successfully removed the following tag from **{{count}}** card `{{tagName}}`",

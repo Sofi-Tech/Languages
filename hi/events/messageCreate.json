@@ -10,7 +10,7 @@
     "COMMAND_BLACKLISTED": "{{author}} इस चैनल में `{{commandName}}` कमांड निषेध है",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} इस कमांड का निष्कासन करने के लिए मुझे: `{{permissions}}` की आवश्यकता है",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} इस कमांड का उपयोग करने के लिए आपको: `{{permissions}}` की आवश्यकता है",
-    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] **{{cooldown}}** देर प्रतीक्षा करे कमांड दोबारा उपयोग करने से पहले",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] कमांड का दोबारा प्रयोग करने से पहले **{{cooldown}}** प्रतीक्षा करें",
     "REGISTER_USER": "{{author}} `{{prefix}}register` कमांड का उपयोग करें और स्वयं को वेरिफाई करने के लिए हमारी वेबसाइट पर जाएँ",
     "USER_COMMAND_QUEUE": "{{author}} आगे बढ़ने से पहले `{{existsFor}}` कमांड को पूरा करें",
     "AUTHOR_COMMAND_QUEUE": "{{author}} आगे बढ़ने से पहले `{{existsFor}}` कमांड को पूरा करें",
