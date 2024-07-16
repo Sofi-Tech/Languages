@@ -29,7 +29,7 @@
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "TAG_MODAL_LABEL": "Отметить несколько карт",
     "TAG_MODAL_PLACEHOLDER": "Используйте \"-\", чтобы снять отметку с нескольких карт",
-    "TAG_MODAL_TITLE": "Введите \"Tag\"",
+    "TAG_MODAL_TITLE": "Введите отметку",
     "TAG_NO_CARDS_FOUND": "{{author}} Не удалось найти карты с отметкой `{{arg}}`",
     "EMBED_FOOTER": "Страница: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
     "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной отметки с названием `{{arg}}`",
