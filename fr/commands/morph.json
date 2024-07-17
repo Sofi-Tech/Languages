@@ -26,5 +26,6 @@
     "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}m <CodeDeCarte> <ItemàMorph>`",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "NONE": "Aucun",
-    "ROLL_MORPH": "Le morph sera perdu après 2 minutes"
+    "ROLL_MORPH": "Le morph sera perdu après 2 minutes",
+    "SMR_REROLL_COST": "Chaque roll coûtera 1000 {{currencyName}}"
 }
