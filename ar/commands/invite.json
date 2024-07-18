@@ -1,6 +1,6 @@
 {
-  "INVITE_DESCRIPTION": "انضم إلى خادم الدعم الخاص بنا أو اجلب سوفي إلى خادمك الخاص عن طريق النقر على الرابط المقابل!",
-  "INVITE_CATEGORY": "الإعدادات",
-  "EMBED_TITLE": "SOFI: INVITE",
-  "JOIN_SUPPORT": "انضم إلى خادم الدعم الخاص بنا الرسمي"
+    "INVITE_DESCRIPTION": "استخدام هذا الأمر سيُنشئ تضمينًا يحتوي على رابطين مختلفين. الرابط الأول سيدعوك إلى خادم الدعم الرسمي لـ \"Sofi Cafe\"، بينما الرابط الثاني سيفتح نافذة لدعوة Sofi إلى خادمك",
+    "INVITE_CATEGORY": "الإعدادات",
+    "EMBED_TITLE": "SOFI: INVITE",
+    "JOIN_SUPPORT": "**[انضم إلى خادم الدعم الرسمي لدينا!](https://discord.gg/sofi)**\n**[ادعُ Sofi إلى خادمك الخاص!](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
 }
