@@ -1,7 +1,7 @@
 {
     "PC_CATEGORY": "Konpigurasyon",
     "PC_EMBED_TITLE": "SOFI: CONFIGURE PROFILE",
-    "PC_INTRO": "<:_:979009081325019156> **Introduction**: Mag lagay ng paunang mensahe\n<:_:979009081325019156> **Favorite Character**: Piliin ang iyong paboritong karakter\n<:_:979009081325019156> **Favorite Series**: Piliin ang iyong paboritong serye\n<:_:979009081325019156> **Display Card**: Pumili ng kard na ipapakita sa iyong profile\n<:_:979009081325019156> **Profile Background**: Mag lagay ng background sa iyong profile\n<:_:979009081325019156> **Font Color**: Palitan ang kulay ng text sa iyong profile\n<:_:979009081325019156> **Profile Glow**: Lagyan ng glowing effect ang iyong profile\n<:_:979009081325019156> **Badges**: Magpakita ng badge sa iyong profile\n<:_:979009081325019156> **Profile Color**: Palitan ang base na kulay ng iyong profile\n<:_:979009081325019156> **Enable GIF**: I-enable ang animated profile picture at ang napiling kard",
+    "PC_INTRO": "<:_:979009081325019156> **Introduction**: Mag lagay ng paunang mensahe sa iyong profile\n<:_:979009081325019156> **Favorite Character**: Piliin ang iyong paboritong karakter\n<:_:979009081325019156> **Favorite Series**: Piliin ang iyong paboritong serye\n<:_:979009081325019156> **Display Card**: Pumili ng kard na ipapakita sa iyong profile\n<:_:979009081325019156> **Profile Background**: Maglagay ng background sa iyong profile\n<:_:979009081325019156> **Font Color**: Palitan ang kulay ng text sa iyong profile\n<:_:979009081325019156> **Profile Glow**: Lagyan ng glowing effect ang iyong profile\n<:_:979009081325019156> **Badges**: Magpakita ng badge sa iyong profile\n<:_:979009081325019156> **Profile Color**: Palitan ang base na kulay ng iyong profile\n<:_:979009081325019156> **Profile Ring**: Maglagay ng ring para sa avatar na nasa iyong profile\n<:_:979009081325019156> **Enable GIF**: I-enable ang animated profile picture at ang napiling kard sa iyong profile",
     "PURCHASE_BUTTON_LABEL": "Bilhin",
     "AGREE_BUTTON_LABEL": "Kumpirmahin",
     "DISAGREE_BUTTON_LABEL": "Bumalik",
@@ -93,5 +93,6 @@
     "COMBINING_ELEMENTS": "{{author}} Pinagsasama-sama ang mga elemento... 🔄 <a:_:876610443148406794>",
     "FINAL_TOUCHES": "{{author}} Naglalapat ng mga panghuling parte... ✨ <a:_:876610443148406794>",
     "GIF_SUCCESSFUL": "{{author}} Ang GIF profile ay matagumpay na nabuo. Gamitin ang `spro` para tingnan",
-    "NO_PBG_INV": "Hindi mahanap ang **Profile Background** na may ID na `{{id}}` sa iyong imbentaryo"
+    "NO_PBG_INV": "Hindi mahanap ang **Profile Background** na may ID na `{{id}}` sa iyong imbentaryo",
+    "PR_MENU_LABEL": "Profile Ring"
 }

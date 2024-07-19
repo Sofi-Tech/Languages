@@ -30,5 +30,11 @@
     "FRAME_CATEGORY_MONTHLY": "Mensuel(le)",
     "FRAME_CATEGORY_PACK": "Pack",
     "EQUIPMENTS": "Équipements",
-    "RAID": "Raid"
+    "RAID": "Raid",
+    "NO_PRING_FOUND": "Aucun **Anneaux de Profil** n'a été trouvé",
+    "NO_RAID_ITEMS": "Aucun items de raid n'a été trouvé",
+    "PROFILE_BACKGROUND": "Backgrounds de Profil",
+    "PROFILE_RING": "Anneaux de Profil",
+    "NO_PBG_FOUND": "Aucun **Backgrounds de Profil** n'a été trouvé",
+    "UNLOCKED_FOOTER": "Débloqués: {{unlocked}}/{{total}}"
 }

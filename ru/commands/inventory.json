@@ -31,5 +31,8 @@
     "FRAME_CATEGORY_PACK": "Наборы",
     "EQUIPMENTS": "Снаряжения",
     "RAID": "Raid",
-    "PROFILE_BACKGROUND": "Фоны профиля"
+    "PROFILE_BACKGROUND": "Фоны профиля",
+    "NO_PBG_FOUND": "Не удалось найти **Profile Backgrounds**",
+    "UNLOCKED_FOOTER": "Разблокировано: {{unlocked}}/{{total}}",
+    "NO_PRING_FOUND": "Не удалось найти **Profile Rings**"
 }
