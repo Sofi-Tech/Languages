@@ -36,5 +36,6 @@
     "AN": "ein",
     "A": "ein",
     "THE": "der",
-    "MODAL_ERROR_RESPONSE": "Beim Abrufen der Antwort ist ein Fehler aufgetreten. Bitte versuche es erneut!"
+    "MODAL_ERROR_RESPONSE": "Beim Abrufen der Antwort ist ein Fehler aufgetreten. Bitte versuche es erneut!",
+    "PAGE_INFO": "Seite: {{currentPage}}/{{maxPages}}"
 }
