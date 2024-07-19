@@ -93,5 +93,7 @@
     "SELECT_MODAL_TITLE": "Wähle Profile Background",
     "NO_PBG_INV": "Der **Profile Background** mit der ID `{{id}}` konnte nicht in deinem Inventar gefunden werden",
     "SELECT_PBG_CONFIRM": "Bist du sicher das du den **{{backgroundName}}** **Profile Background** auswählen möchtest?",
-    "PBG_EXIST_INV": "Du hast bereits den **Profile Background** mit der ID `{{id}}` in deinem Inventar"
+    "PBG_EXIST_INV": "Du hast bereits den **Profile Background** mit der ID `{{id}}` in deinem Inventar",
+    "PR_MENU_LABEL": "Profile Ring",
+    "SELECT_PR_CONFIRM": "Bist du sicher, das du den **{{ringName}}** **Profile Ring** auswählen möchtest?"
 }

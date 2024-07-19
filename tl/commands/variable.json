@@ -36,5 +36,6 @@
     "AN": "isang",
     "A": "isang",
     "THE": "ang",
-    "MODAL_ERROR_RESPONSE": "Nagkaroon ng error habang kinukuha ang response. Pakisubukang muli!"
+    "MODAL_ERROR_RESPONSE": "Nagkaroon ng error habang kinukuha ang response. Pakisubukang muli!",
+    "PAGE_INFO": "Pahina: {{currentPage}}/{{maxPages}}"
 }
