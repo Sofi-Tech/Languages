@@ -26,5 +26,6 @@
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}m <CardCode> <MorphItem>`",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "NONE": "Wala",
-    "ROLL_MORPH": "Ang morph na ito ay mawawala pagkalipas ng 2 minuto"
+    "ROLL_MORPH": "Ang morph na ito ay mawawala pagkalipas ng 2 minuto",
+    "SMR_REROLL_COST": "Ang bawat roll ay magkakahalaga ng 1000 {{currencyName}}"
 }
