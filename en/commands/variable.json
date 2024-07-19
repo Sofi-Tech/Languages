@@ -36,5 +36,6 @@
   "AN": "an",
   "A": "a",
   "THE": "the",
-  "MODAL_ERROR_RESPONSE": "There was an error while fetching the response. Please try again!"
+  "MODAL_ERROR_RESPONSE": "There was an error while fetching the response. Please try again!",
+  "PAGE_INFO": "Page: {{currentPage}}/{{maxPages}}"
 }
