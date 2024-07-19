@@ -80,7 +80,7 @@
     "PBG_MODAL_PLACEHOLDER": "e.g. 101",
     "MODAL_ERROR_RESPONSE": "There was an error while fetching the response. Please try again",
     "NO_PBG_FOUND": "Could not find any **Profile Background** with ID `{{id}}`",
-    "NO_PR_FOUND": "Could not find any **Profile Ring** with ID `{{id}}` in the inventory",
+    "NO_PR_FOUND": "Could not find **Profile Ring** with ID `{{id}}` in your inventory",
     "PBG_EXIST_INV": "You already have **Profile Background** with ID `{{id}}` in your inventory",
     "NO_ENOUGH_AMOUNT_PBG": "You don't have enough **{{currency}}** to purchase this **Profile Background**",
     "PURHCASE_SUCCESSFUL": "Successfully purchased the **{{backgroundName}}** **Profile Background**",
