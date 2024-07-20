@@ -10,7 +10,7 @@
     "BG_MENU_LABEL": "Profile Background",
     "TC_MENU_LABEL": "Color de Texto",
     "SC_MENU_LABEL": "Carta de Muestra",
-    "PC_INTRO": "<:_:979009081325019156> **Introducción**: Establece un mensaje introductorio\n<:_:979009081325019156> **Personaje Favorito**: Selecciona tu personaje favorito\n<:_:979009081325019156> **Serie Favorita**: Selecciona tu serie favorita\n<:_:979009081325019156> **Carta de Muestra**: Elije tu carta favorita para mostrarla en tu perfil\n<:_:979009081325019156> **Profile Background**: Coloca un background en tu perfil\n<:_:979009081325019156> **Color de Texto**: Cambia el color de texto de tu perfil\n<:_:979009081325019156> **Glow de Perfil**: Aplica un efecto de brillo a tu perfil\n<:_:979009081325019156> **Medallas**: Muestra premios en tu perfil\n<:_:979009081325019156> **Color del perfil:**: Cambia el color de base de tu perfil\n<:_:979009081325019156> **Habilitar GIF**: Habilita la animación de la imagen de perfil y de la carta seleccionada",
+    "PC_INTRO": "<:_:979009081325019156> **Introducción**: Establece un mensaje introductorio\n<:_:979009081325019156> **Personaje Favorito**: Selecciona tu personaje favorito\n<:_:979009081325019156> **Serie Favorita**: Selecciona tu serie favorita\n<:_:979009081325019156> **Carta de Muestra**: Elije tu carta favorita para mostrarla en tu perfil\n<:_:979009081325019156> **Profile Background**: Coloca un background en tu perfil\n<:_:979009081325019156> **Color de Texto**: Cambia el color de texto de tu perfil\n<:_:979009081325019156> **Glow de Perfil**: Aplica un efecto de brillo a tu perfil\n<:_:979009081325019156> **Medallas**: Muestra premios en tu perfil\n<:_:979009081325019156> **Color del perfil:**: Cambia el color de base de tu perfil\n<:_:979009081325019156> **Profile Ring**: Pon un anillo al avatar de tu perfil\n<:_:979009081325019156> **Habilitar GIF**: Habilita la animación de la imagen de perfil y de la carta seleccionada en tu perfil",
     "PBG_MENU_LABEL": "Glow de Perfil",
     "AD_MENU_LABEL": "Medallas",
     "CAN_MENU_LABEL": "Cancelar",
@@ -93,5 +93,9 @@
     "NO_PBG_INV": "No se ha podido encontrar el **Profile Background** con ID `{{id}}` en tu inventario",
     "PBG_EXIST_INV": "Ya tienes el **Profile Background** con ID `{{id}}` en tu inventario",
     "SELECT_MODAL_TITLE": "Seleccionar Profile Background",
-    "SELECT_PBG_CONFIRM": "¿Estás seguro de que quieres seleccionar el **Profile Background** **{{backgroundName}}**?"
+    "SELECT_PBG_CONFIRM": "¿Estás seguro de que quieres seleccionar el **Profile Background** **{{backgroundName}}**?",
+    "NO_PR_FOUND": "No se pudo encontrar el **Profile Ring** con el ID `{{id}}` en tu inventario",
+    "PROVIDE_PROFILE_RING": "Entre el ID del **Profile Ring** para ponerlo. | Escriba `none` para reiniciarlo.",
+    "PR_MENU_LABEL": "Profile Ring",
+    "SELECT_PR_CONFIRM": "Estas seguro que quieres seleccionar el **{{ringName}}** **Profile Ring**?"
 }

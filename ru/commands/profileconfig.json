@@ -96,5 +96,6 @@
     "PBG_EXIST_INV": "В вашем инвентаре уже есть **Profile Background** с идентификатором `{{id}}`",
     "NO_PR_FOUND": "Не удалось найти **Profile Ring** с идентификатором `{{id}}` в вашем инвентаре",
     "SELECT_PR_CONFIRM": "Вы уверены, что хотите выбрать **{{ringName}}** **Profile Ring**?",
-    "PR_MENU_LABEL": "Profile Ring"
+    "PR_MENU_LABEL": "Profile Ring",
+    "PROVIDE_PROFILE_RING": "Введите идентификатор **Profile Ring** чтобы установить его. Введите `none` чтобы сбросить."
 }

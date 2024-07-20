@@ -30,5 +30,11 @@
     "FRAME_CATEGORY_DISCONTINUED": "Descontinuado",
     "FRAME_CATEGORY_PACK": "Paquete",
     "EQUIPMENTS": "Equipamientos",
-    "RAID": "Raid"
+    "RAID": "Raid",
+    "NO_RAID_ITEMS": "No se pudieron encontrar objetos de Raid",
+    "PROFILE_BACKGROUND": "Backgrounds de perfil",
+    "PROFILE_RING": "Anillos de Perfil",
+    "NO_PRING_FOUND": "No se pudo encontrar ningún **Profile Rings**",
+    "UNLOCKED_FOOTER": "Desbloqueado: {{unlocked}}/{{total}}",
+    "NO_PBG_FOUND": "No se pudo encontrar ningún **Profile Backgrounds**"
 }
