@@ -96,5 +96,6 @@
     "NO_PBG_INV": "Hindi mahanap ang **Profile Background** na may ID na `{{id}}` sa iyong imbentaryo",
     "PR_MENU_LABEL": "Profile Ring",
     "SELECT_PR_CONFIRM": "Sigurado ka bang gusto mong piliin ang **{{ringName}}** na **Profile Ring**?",
-    "NO_PR_FOUND": "Walang mahanap na **Profile Ring** na may ID na `{{id}}` sa iyong imbentaryo"
+    "NO_PR_FOUND": "Walang mahanap na **Profile Ring** na may ID na `{{id}}` sa iyong imbentaryo",
+    "PROVIDE_PROFILE_RING": "Ilagay ang ID ng **Profile Ring** para ma-set ito. | I-type ang `none` para i-reset ito."
 }

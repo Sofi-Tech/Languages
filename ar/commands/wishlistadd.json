@@ -1,10 +1,11 @@
 {
-  "WISHLISTADD_DESCRIPTION": "أضف الشخصيات إلى قائمة الأماني الخاصة بك",
-  "CATEGORY": "قائمة الأماني",
-  "ADD_CHARACTERS_ERROR": "> لا يمكنك إضافة المزيد من الشخصيات إلى القائمة",
-  "SEARCH_CHARACTER_ERROR": "يرجى تقديم اسم الشخصية المراد إضافتها\nاستخدم `swa -f <name>` للبحث الدقيق",
-  "NO_CHARACTER_FOUND": "لم يتم العثور على هذه الشخصية\nاستخدم `swa -f <name>` للبحث الدقيق",
-  "CHARACTER_ALREADY_EXISTS": "**{{name}}** موجودة بالفعل في قائمة الأمنيات الخاصة بك!",
-  "CHARACTER_ADDED": "> {{author}} | تمت إضافة {{name}} إلى قائمة الأمنيات الخاصة بك",
-  "EMBED_TITLE": "SOFI: WISHLISTADD"
+    "WISHLISTADD_DESCRIPTION": "استخدم هذا الأمر لإضافة شخصية إلى قائمة رغباتك الشخصية. هذا الإجراء ليس له أي فائدة أو ميزة مباشرة مرتبطة به",
+    "CATEGORY": "قائمة الرغبات",
+    "ADD_CHARACTERS_ERROR": "{{author}} لا يمكنك إضافة المزيد من الشخصيات إلى قائمة رغباتك",
+    "SEARCH_CHARACTER_ERROR": "{{author}} الاستخدام الصحيح: `{{prefix}}wa <الاسم>`",
+    "NO_CHARACTER_FOUND": "{{author}} لم أتمكن من العثور على تلك الشخصية. استخدم الأمر `{{prefix}}wa -f <الاسم>` للبحث الدقيق",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** موجود بالفعل في قائمة الرغبات الخاصة بك",
+    "CHARACTER_ADDED": "{{author}} تم إضافة **{{name}}** بنجاح إلى قائمة الرغبات الخاصة بك",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
+    "INCREASE_CAPACITY": "استخدم الأمر `{{prefix}}wu` أو `{{prefix}}wu max` لزيادة ‮‮سعة قائمة الرغبات الخاصة بك"
 }

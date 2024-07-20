@@ -31,7 +31,7 @@
     "TOGGLE_NAME": "Basculer le Nom",
     "SAVE_MODAL_TITLE": "Sauvegarder les modifications",
     "RESET_FOOTER": "Réinitialiser la police: {{fontPrice}} | Réinitialiser la couleur: {{colorPrice}} | Tout réinitialiser: {{allPrice}}",
-    "RESET_ALL_MODAL_TITLE": "Tout réinitialiser",
+    "RESET_ALL_MODAL_TITLE": "Tout Réinitialiser",
     "RESET_ALL_MODAL_LABEL": "Êtes-vous sûr(e) ?",
     "RESET_ALL_NO_AMOUNT": "Vous n'avez pas assez de **{{currency}}** pour réinitialiser le style et la couleur de police",
     "RESET_ALL_SUCCESS": "Le style et la couleur de police ont été réinitialisés",

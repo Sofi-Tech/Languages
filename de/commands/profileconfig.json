@@ -34,7 +34,7 @@
     "INTRO_TOO_LONG": "{{author}} Deine Vorstellungsnachricht darf nur **90** Zeichen lang sein",
     "SET_INTRO_CONFIRM": "Bist du sicher, dass du den folgenden Text auf deinem Profil anzeigen lassen möchtest?\n\n```fix\n{{intro}}\n```",
     "SET_GLOW_CODE": "Bist du sicher, dass du den **{{glowName}}** **Glow** auf den Hintergrund deines Profils anwenden möchtest?",
-    "PC_INTRO": "<:_:979009081325019156> **Vorstellung**: Lege eine Vorstellungsnachricht fest in deinem Profil\n<:_:979009081325019156> **Lieblingscharakter**: Wähle deinen Lieblingscharakter\n<:_:979009081325019156> **Lieblingsserie**: Wähle deine Lieblingsserie\n<:_:979009081325019156> **Karte anzeigen**: Wähle eine Karte die auf deinem Profil angezeigt wird\n<:_:979009081325019156> **Profile Background**: Lege einen Hintergrund für dein Profil fest\n<:_:979009081325019156> **Schriftfarbe**: Ändere die Schriftfarbe deines Profils\n<:_:979009081325019156> **Profil Glow**: Verleihe deinem Profil einen leuchtenden Effekt\n<:_:979009081325019156> **Abzeichen**: Zeige Auszeichnungen in deinem Profil an\n<:_:979009081325019156> **Profil Farbe**: Ändert die Basisfarbe deines Profils\n<:_:979009081325019156> **Profile Rings**: Lege einen Ring für deinen Avatar in deinem Profil fest\n<:_:979009081325019156> **Aktiviere GIF**: Aktiviere animiertes Profilbild und animierte Karte in deinem Profile",
+    "PC_INTRO": "<:_:979009081325019156> **Vorstellung**: Lege eine Vorstellungsnachricht fest in deinem Profil\n<:_:979009081325019156> **Lieblingscharakter**: Wähle deinen Lieblingscharakter\n<:_:979009081325019156> **Lieblingsserie**: Wähle deine Lieblingsserie\n<:_:979009081325019156> **Karte anzeigen**: Wähle eine Karte die auf deinem Profil angezeigt wird\n<:_:979009081325019156> **Profile Background**: Lege einen Hintergrund für dein Profil fest\n<:_:979009081325019156> **Schriftfarbe**: Ändere die Schriftfarbe deines Profils\n<:_:979009081325019156> **Profil Glow**: Verleihe deinem Profil einen leuchtenden Effekt\n<:_:979009081325019156> **Abzeichen**: Zeige Auszeichnungen in deinem Profil an\n<:_:979009081325019156> **Profil Farbe**: Ändert die Basisfarbe deines Profils\n<:_:979009081325019156> **Profile Ring**: Lege einen Ring für deinen Avatar in deinem Profil fest\n<:_:979009081325019156> **Aktiviere GIF**: Aktiviere animiertes Profilbild und animierte Karte in deinem Profile",
     "NON_TRADABLE_NOTE": "Profile Backgrounds können in keinerlei Weise gehandelt werden",
     "PROVIDE_ACH_ID": "Abzeichen auf deinem Profil werden von Links nach Rechts angezeigt",
     "SET_FC_CONFIRM": "Bist du sicher, dass du **{{character}}** aus **{{series}}** als deinen Lieblingscharakter festlegen möchtest?",
@@ -95,7 +95,7 @@
     "SELECT_PBG_CONFIRM": "Bist du sicher das du den **{{backgroundName}}** **Profile Background** auswählen möchtest?",
     "PBG_EXIST_INV": "Du hast bereits den **Profile Background** mit der ID `{{id}}` in deinem Inventar",
     "PR_MENU_LABEL": "Profile Ring",
-    "SELECT_PR_CONFIRM": "Bist du sicher, das du den **{{ringName}}** **Profile Ring** auswählen möchtest?",
+    "SELECT_PR_CONFIRM": "Bist du sicher, dass du den **{{ringName}}** **Profile Ring** auswählen möchtest?",
     "NO_PR_FOUND": "Der **Profile Ring** mit der ID `{{id}}`konnte nicht in deinem Inventar gefunden werden",
-    "PROVIDE_PROFILE_RING": "Gebe die ID des **Profile Ring** ein, um ihn einzustellen. | Tippe `none` um zurück zu setzen."
+    "PROVIDE_PROFILE_RING": "Gebe die ID des **Profile Ring** ein, um diesen auszuwählen. | Tippe `none` zum Zurücksetzen."
 }
