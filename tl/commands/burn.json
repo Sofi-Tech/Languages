@@ -1,9 +1,9 @@
 {
-    "BURN_DESCRIPTION": "Gamitin ang command na ito upang sunugin ang napiling mga kard kapalit ng Silver & Cubes na kinakailangan upang i-upgrade ang mga kard sa kanilang 3D variant. Ang paggamit ng command na ito nang walang idinagdag na kard code ay susubukan na sunugin ang pinakabago mong natanggap na kard",
-    "GUILDSTONE_BURN": "Sigurado ka ba na gusto mong sunugin ang iyong **Guild Stone**?",
+    "BURN_DESCRIPTION": "Gamitin ang command na ito upang sunugin ang mga napiling kard kapalit ng Silver & Cubes na kinakailangan upang i-upgrade ang mga kard sa kanilang 3D variant. Ang paggamit ng command na ito nang walang idinagdag na code ng kard ay susubukang sunugin ang pinakabago mong natanggap na kard",
+    "GUILDSTONE_BURN": "Sigurado ka bang gusto mong sunugin ang iyong **Guild Stone**?",
     "GUILDSTONE_NOT_FOUND": "{{author}} Wala kang **Guild Stone**",
     "CANCELLED": "Ang proseso ay nakansela",
-    "BURN_FRAG_WARN": "Sigurado ka ba na gusto mong sunugin ang **Fragment** na ito?\n\nPangalan: **{{characterName}}**\nSerye: **{{seriesName}}**\nCode: `{{fragCode}}`",
+    "BURN_FRAG_WARN": "Sigurado ka bang gusto mong sunugin ang **Fragment** na ito?\n\nPangalan: **{{characterName}}**\nSerye: **{{seriesName}}**\nCode: `{{fragCode}}`",
     "FRAG_NOT_FOUND": "{{author}} Ang **Fragment** code na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "CARD_NOT_FOUND": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "CARD_LOCKED": "{{author}} Ang card na iyon ay naka-lock at hindi maaaring sunugin",

@@ -1,7 +1,7 @@
 {
     "APPEAL_ACCEPTED": "# __Ang iyong appeal ay natanggap!__\n- Sumali sa aming official [Support Server](https://discord.gg/XPsQKJjeD7) at gumawa ng ticket sa https://discord.com/channels/863226120245215262/959176115723837530 na channel para ma-advance ang iyong kaso\n- Isang tauhan ang tutugon sa iyo sa lalong madaling panahon. Pakiusap, huwag magpadala ng direktang mensahe o banggitin ang mga tauhan sa kahit anong channel tungkol sa iyong tiket. Ang paglabag sa patakaran na ito ay maaaring magresulta sa permanenteng suspensyon mula sa aming serbisyo at Discord Server",
     "VERSION_ACCEPTED": "Ang iyong `Bersyon` na ipinasa para kay **{{charName}}** galing sa **{{seriesName}}** ay natanggap na. **3** <a:wist_spin:973031140581580820> ay naidagdag sa iyong imbentaryo",
-    "NEGATIVE_VALUE_INVENTORY": "{{author}} Ang iyong imbentaryo ay naglalaman ng negatibong halaga! Mangyaring makipag-usap sa Developers sa aming [Support Server](https://discord.gg/sofi) upang maayos ito",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Ang iyong imbentaryo ay naglalaman ng negatibong halaga! Mangyaring makipag-ugnayan sa Developers sa aming [Support Server](https://discord.gg/sofi) upang maayos ito",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Na-blacklist ka dahil sa paglabag sa mga patakaran ni Sofi!__\n\n**Listahan ng mga posibleng dahilan na maaaring nagdulot nito:**\n```CSS\n- Pakikipag-ugnayan kay Sofi gamit ang maraming account (Alting)\n- Pagbebenta o Pagbili ng buong Discord account\n- Pag-scam sa ibang mga user\n- Pagsamantala o pagiging kasangkot sa alinman sa mga aktibidad sa itaas\n```\n\n:link: [Appeal your blacklist](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
     "VERIFY_TO_PLAY": "[Beripikahin ang iyong sarili sa aming website upang makapag laro!] (<https://sofi.gg/verify>)",
     "VERSION_REJECTED": "Ang iyong `Bersyon`na ipinasa para kay **{{charName}}** galing sa {{seriesName}}** ay hindi tinanggap. [Bisitahin ang aming Support Server sa ibang detalye] (<https://discord.gg/RYawNnu6Pp>)",
@@ -11,7 +11,7 @@
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Mag-antay ng **{{cooldown}}** bago gamitin ulit ang command na ito",
     "REQUIRE_PERMISSIONS": "{{author}} Kailagan mo ng: **{{permissions}}** na permission upang maisagawa ang command",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Maghintay ng **{{cooldown}}** bago gamitin ulit ang command na ito",
-    "REGISTER_TO_PLAY": "{{author}} Gamitin ang command na `{{prefix}}register`para masimulan ang iyong pag lalakbay sa **Sofi**!",
+    "REGISTER_TO_PLAY": "{{author}} Mangyaring gamitin ang command na `{{prefix}}register`para masimulan ang iyong paglalakbay sa **Sofi**!",
     "BOT_IN_SAFEMODE": "{{author}} si **Sofi** ay kasalukuyang nasa safe mode! ETA: **{{eta}}**\nHumihingi kami ng paumanhin para sa anumang abala na dulot nito at humihingi kami ng iyong pasensya!",
     "COMPLETE_COMMAND": "{{author}} Tapusin mo muna ang `{{command}}` na command!",
     "SERVER_BLACKLISTED": "{{author}} Naka-blacklist ang server. Mangyaring makipag-ugnayan sa amin sa discord.gg/sofi",

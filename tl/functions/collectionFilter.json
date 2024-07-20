@@ -1,6 +1,6 @@
 {
     "PROVIDE_FILTER": "{{author}} Mangyaring magbigay ng filter kasama ng paraan ng pag-uuri",
-    "PROVIDE_CATEGORY": "{{author}} Mag bigay ng isa sa mga sumusunod na kategorya ```apache\n{{categories}}```",
+    "PROVIDE_CATEGORY": "{{author}} Mangyaring magbigay ng isa sa mga sumusunod na kategorya```apache\n{{categories}}```",
     "TOO_MANY_FILTER_GROUPS": "{{author}} Maaari ka lamang magkaroon ng 5 filter na grupo, pakisubukang muli",
     "TOO_LONG_FILTER": "{{author}} Masyadong mahaba ang filter na ibinigay mo, pakisubukang muli"
 }
