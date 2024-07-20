@@ -5,6 +5,6 @@
     "EMBED_TITLE": "Captcha Card",
     "EMBED_FOOTER": "Kuhanin ang kard na nasa itaas sa pamamagitan ng pagsulat ng captcha",
     "BATTLED_AND_WON": "Si {{winner}} ay nakipaglaban kay {{user}} at **nakuha** ang **{{character}}** na kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "TOOK_THE_CARD": "{{user}} ay **kinuha** ang **{{character}}** kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}} ay **kinuha** ang **{{character}}** na kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "CANNOT_BE_GRABBED": "{{user}} ay **nakuha** ang **{{characterName}}** na kard"
 }

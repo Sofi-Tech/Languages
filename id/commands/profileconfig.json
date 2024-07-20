@@ -1,6 +1,6 @@
 {
     "PC_EMBED_TITLE": "SOFI: PROFILE CONFIG",
-    "PC_INTRO": "<:_:979009081325019156> **Pengenalan**: Menetapkan pesan pengantar\n<:_:979009081325019156> **Karakter Favorit**: Memilih karakter favorit Anda\n<:_:979009081325019156> **Seri Favorit**: Memilih serial favorit Anda\n<:_:979009081325019156> **Kartu Tampilan**: Pilih kartu yang akan ditampilkan di profil Anda\n<:_:979009081325019156> **Latar Belakang Profil**: Menetapkan latar belakang untuk profil Anda\n<:_:979009081325019156> **Warna Huruf**: Mengubah warna teks profil Anda\n<:_:979009081325019156> **Glow Profil**: Menerapkan efek cahaya ke profil Anda\n<:_:979009081325019156> **Lencana**: Menampilkan lencana di profil Anda\n<:_:979009081325019156> **Warna Profil**: Mengubah warna dasar profil Anda\n<:_:979009081325019156> **Aktifkan GIF**: Mengaktifkan gambar profil animasi dan kartu yang dipilih",
+    "PC_INTRO": "<:_:979009081325019156> **Pengenalan**: Menetapkan pesan pengantar di profil Anda\n<:_:979009081325019156> **Karakter Favorit**: Memilih karakter favorit Anda\n<:_:979009081325019156> **Seri Favorit**: Memilih serial favorit Anda\n<:_:979009081325019156> **Kartu Tampilan**: Pilih kartu yang akan ditampilkan di profil Anda\n<:_:979009081325019156> **Latar Belakang Profil**: Menetapkan latar belakang untuk profil Anda\n<:_:979009081325019156> **Warna Huruf**: Mengubah warna teks profil Anda\n<:_:979009081325019156> **Glow Profil**: Menerapkan efek cahaya ke profil Anda\n<:_:979009081325019156> **Lencana**: Menampilkan lencana di profil Anda\n<:_:979009081325019156> **Warna Profil**: Mengubah warna dasar profil Anda\n<:_:979009081325019156> **Cincin Profil**: Menetapkan cincin untuk avatar di profil Anda\n<:_:979009081325019156> **Aktifkan GIF**: Mengaktifkan gambar profil animasi dan kartu yang dipilih di profil Anda",
     "PURCHASE_BUTTON_LABEL": "Beli",
     "AGREE_BUTTON_LABEL": "Konfirmasi",
     "DISAGREE_BUTTON_LABEL": "Kembali",
@@ -92,5 +92,8 @@
     "PBG_MODAL_PLACEHOLDER": "misalnya 101",
     "PURHCASE_SUCCESSFUL": "Berhasil membeli **Latar Belakang Profil** **{{backgroundName}}**",
     "PBG_EXIST_INV": "Anda sudah memiliki **Latar Belakang Profil** dengan ID `{{id}}` di inventaris Anda",
-    "SELECT_PBG_CONFIRM": "Apakah Anda yakin ingin memilih **Latar Belakang Profil** **{{backgroundName}}**?"
+    "SELECT_PBG_CONFIRM": "Apakah Anda yakin ingin memilih **Latar Belakang Profil** **{{backgroundName}}**?",
+    "NO_PR_FOUND": "Tidak dapat menemukan **Cincin Profil** dengan ID `{{id}}` di inventory Anda",
+    "SELECT_PR_CONFIRM": "Apakah Anda yakin ingin memilih **{{ringName}}** **Cincin Profil**?",
+    "PR_MENU_LABEL": "Cincin Profil"
 }
