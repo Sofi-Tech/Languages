@@ -1,1 +1,6 @@
-{}
+{
+    "DROP_CARDS": "Wanneer de timer afloopt, worden **2** willekeurige kaarten voor de serie met de meeste stemmen gegenereerd!\n",
+    "DROP_WILL_HAPPEN": "\nKaarten genereren <t:{{timestamp}}:R>",
+    "NO_VOTES": "Aangezien er niet voor series gestemd werd, zal de kaartgeneratie geannuleerd worden!",
+    "NOT_ENOUGH_CHARACTERS": "De geselecteerde serie heeft niet genoeg karakters om kaarten te genereren"
+}

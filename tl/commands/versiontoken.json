@@ -7,16 +7,16 @@
     "SORT_WL": "Wishlist",
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
     "VT_CATEGORY": "Mga Kosmetiko",
-    "USER_PRIVATE": "{{author}} Itinakda ng user na ito ang kanilang koleksyon ng mga **Bersyon Token** sa pribado",
+    "USER_PRIVATE": "{{author}} Itinakdang pribado ng user na ito ang kanilang koleksyon ng mga **Version Token**",
     "INVALID_SERIES": "Hindi Tamang Serye",
-    "AUTHOR_NO_TOKENS": "{{author}} Wala ka pang kahit anong **Bersyon Token**",
-    "NOTHING_FOUND": "Walang mahanap na kahit anong **Bersyon Token**",
+    "AUTHOR_NO_TOKENS": "{{author}} Wala ka pang kahit anong **Version Token**",
+    "NOTHING_FOUND": "Walang mahanap na kahit anong **Version Token**",
     "SORT_VERSION": "Bersyon",
     "SORT_CARD": "Pundasyong Kard",
-    "EMBED_FOOTER": "Pahina: {{page}}/{{totalPages}} | Kabuuang Bersyon Token: {{count}}",
+    "EMBED_FOOTER": "Pahina: {{page}}/{{totalPages}} | Kabuuang Version Token: {{count}}",
     "SAVE_FILTER": "500 - I-save ang Filter",
     "SELECT_FILTER": "Pumili ng Filter",
-    "USER_NO_TOKENS": "{{author}} Ang user na iyon ay wala pang kahit anong **Bersyon Token**",
-    "FILTER_NO_VT_FOUND": "{{author}} Walang mahanap na kahit anong **Bersyon Token** na tumutugma sa iyong napiling filter",
-    "VERSIONTOKEN_DESCRIPTION": "Gamitin ang command na ito upang tignan ang iyong koleksyon ng mga Token ng Bersyon. Maaaring pagbukud-bukurin ang koleksyon ayon sa Pangalan, Gen, Wishlist, Mga Bersyon"
+    "USER_NO_TOKENS": "{{author}} Ang user na iyon ay wala pang kahit anong **Version Token**",
+    "FILTER_NO_VT_FOUND": "{{author}} Walang mahanap na kahit anong **Version Token** na tumutugma sa iyong napiling filter",
+    "VERSIONTOKEN_DESCRIPTION": "Gamitin ang command na ito upang tignan ang iyong koleksyon ng mga Version Token. Maaaring pagbukud-bukurin ang koleksyon ayon sa Pangalan, Gen, Wishlist, Mga Bersyon"
 }

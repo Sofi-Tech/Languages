@@ -11,7 +11,7 @@
     "CARD_LOCKED": "{{author}} De kaart is vergrendeld en kan niet worden weggegeven! Gebruik de commando '{{prefix}} ut <KaartCode>` om de kaart te ontgrendelen",
     "CANCELLED": "Het proces is geannuleerd",
     "CARD_IN_QUEST": "{{author}} Deze kaart wordt momenteel gebruikt in een quest en kan niet worden weggegeven",
-    "AUTHOR_QUARANTINED": "{{author}} U bent in quarantaine",
+    "AUTHOR_QUARANTINED": "{{author}} U bent in quarantaine geplaatst",
     "CARD_SELECTED": "{{author}} De kaart wordt gebruikt in een deck en kan niet worden overgedragen",
     "MEM_NOT_VERIFIED": "{{author}} Deze gebruiker is nog niet geverifieerd",
     "AUTHOR_NOT_VERIFIED": "{{author}} U bent niet geverifieerd",

@@ -6,10 +6,10 @@
     "NO_CHARACTER": "{{author}} Het karakter op deze kaart is niet meer beschikbaar op Sofi en er kan geen interactie meer mee plaatsvinden",
     "NO_GIF": "{{author}} U kan geen cosmetica van een **GIF** kaart verwijderen",
     "NOT_MORPHED": "{{author}} Op die kaart is geen morf toegepast",
-    "EMBED_TITLE": "SOFI: UNDOMORPH",
-    "UM_CONFIRMATION": "Je gaat de verandering van je kaart ongedaan maken\nJe kaart ziet er zo uit:\nHet proces kost 100 zilvers",
+    "EMBED_TITLE": "SOFI: REMOVE MORPH",
+    "UM_CONFIRMATION": "Bent u zeker dat u de morf van deze kaart wilt verwijderen voor **{{count}}** {{currencyEmoji}}?",
     "NO_OWNER": "{{author}} De kaart is niet meer in uw collectie",
-    "SOMETHING_WENT_WRONG": "Er ging iets mis.. <:sofi_cry:1008533719092559914>",
+    "SOMETHING_WENT_WRONG": "{{author}} Er ging iets mis, probeer het opnieuw",
     "NOT_ENOUGH_SILVERS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
-    "UM_SUCCESSFUL": "De verandering is succesvol ongedaan gemaakt"
+    "UM_SUCCESSFUL": "{{author}} Succesvol de morf van deze kaart verwijderd"
 }

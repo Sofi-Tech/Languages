@@ -1,3 +1,10 @@
 {
-    "VERIFY_BUTTON_LABEL": "Verifiëren"
+    "VERIFY_BUTTON_LABEL": "Verifiëren",
+    "SERVER_BLACKLISTED": "{{author}} De server staat op de zwarte lijst. Neem contact met ons op via discord.gg/sofi",
+    "SUPPORT_BUTTON_LABEL": "Ondersteuning",
+    "VERIFY_TO_PLAY": "[Verifieer uwzelf op onze website om te kunnen spelen!](<https://sofi.gg/verify>)",
+    "COMMAND_BLACKLISTED": "{{author}} De `{{commandName}}` commando staat op de zwarte lijst in dit kanaal",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wacht voor **{{cooldown}}** voor u dit commando weer gebruikt",
+    "CATEGORY_DISABLED": "{{author}} Deze categorie is uitgeschakeld\nReden: `{{reason}}`",
+    "COMMAND_DISABLED": "{{author}} Dit commando is uitgeschakeld\nReden `{{reason}}`"
 }
