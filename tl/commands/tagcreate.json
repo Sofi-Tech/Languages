@@ -1,11 +1,11 @@
 {
-    "TAGCREATE_DESCRIPTION": "Sa command na ito, maaari kang gumawa ng isang pananda upang ikategorya at igrupo ang maramihang mga kard na akma sa iyong sariling pamantayan. Gamitin ang command na \"Tag\" para italaga ang iyong mga ginawang pananda sa mga kard",
-    "TC_CATEGORY": "Mga Pananda",
+    "TAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng tag upang ikategorya at igrupo ang mga kard na akma sa iyong sariling pamantayan. Gamitin ang command na \"Tag\" para magtalaga ng mga nagawang tag sa iyong mga kard",
+    "TC_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Ang emoji na iyon ay hindi tama",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong pananda ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, spaces o mga masasamang salita",
-    "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong pananda ay dapat hanggang **20** na letra lamang",
-    "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang pananda na may pangalan na `{{tag}}`",
-    "TAG_CREATED": "{{author}} Matagumpay na nakagawa ng pananda na may pangalang: `{{tag}}` | {{emoji}}",
-    "TC_MAX_TAGS": "{{author}} Naabot mo na ang pinakamataas na bilang ng mga pananda na maaari mong gawin"
+    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong tag ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, spaces o mga masasamang salita",
+    "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong tag ay dapat hanggang **20** na letra lamang",
+    "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang tag na may pangalan na `{{tag}}`",
+    "TAG_CREATED": "{{author}} Matagumpay na nakagawa ng tag na may pangalang: `{{tag}}` | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Naabot mo na ang pinakamataas na bilang ng mga tag na maaari mong gawin"
 }

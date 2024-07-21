@@ -31,7 +31,7 @@
     "TAG_MODAL_TITLE": "Introduce un Tag",
     "TAG_MODAL_LABEL": "Añadir tag En Masa",
     "TAG_NO_CARDS_FOUND": "{{author}} No se ha podido encontrar ninguna carta con el tag `{{arg}}`",
-    "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" para eliminar un tag en masa en su lugar",
+    "TAG_MODAL_PLACEHOLDER": "Agrega \"-\" como prefijo para eliminar un tag en masa en su lugar",
     "MASSTAG_WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre: `{{arg}}`",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
     "FILTER_SUCCESS": "{{author}} Guardo con éxito este filtro como `{{filterName}}`",

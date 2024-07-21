@@ -1,12 +1,12 @@
 {
-    "VOTE_DESCRIPTION": "Gamitin ang command na ito upang Iboto si Sofi sa Top.GG. Bawat Boto na ibinibigay mo kay Sofi ay gagantimpalaan ka ng 1 Wist sa isang karaniwang araw at 2 Wists naman tuwing katapusan ng linggo.",
+    "VOTE_DESCRIPTION": "Gamitin ang command na ito upang i-Vote si Sofi sa Top.GG. Bawat Vote na ibinibigay mo kay Sofi ay gagantimpalaan ka ng 1 Wist sa isang karaniwang araw at 2 Wists naman tuwing katapusan ng linggo.",
     "VOTE_CATEGORY": "Konpigurasyon",
-    "VOTE": "Bumoto sa Top.GG",
+    "VOTE": "Mag-Vote sa Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
     "USE_WIST": "Ikaw ay makakakuha ng **Wists** <:wist:870339503427027005> mula sa bawat matagumpay mong **Vote**!",
     "TOTAL_VOTES": "- Kabuuan ng **Votes**: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- Buwanang **Boto**: **{{monthlyVotes}}**",
+    "MONTHLY_VOTES": "- Buwanang **Votes**: **{{monthlyVotes}}**",
     "VOTE_RESET": "- Magre-reset sa: **{{countdown}}**",
     "EMBED_FOOTER": "Ikaw ay makakakuha ng dobleng halaga ng Wists tuwing katapusan ng linggo"
 }

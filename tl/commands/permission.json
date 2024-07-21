@@ -30,7 +30,7 @@
     "RESET_PERMS_SUCCESSFUL": "{{author}} Matagumpay nang nai-reset ang pahintulot ng channel na ito",
     "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang lahat ng mga command sa {{listName}} ng channel na ito",
     "ADD_COMMANDS_ERROR": "{{author}} Ang mga command na iyong ibinigay ay maaaring nasa may {{listName}} ng channel na ito o hindi tama",
-    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay ng natanggal ang mga sumusunod na mga command sa {{listname}}: {{commandsList}} ng channel na ito",
+    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang mga sumusunod na mga command sa {{listname}}: {{commandsList}} ng channel na ito",
     "BLACKLISTING_INFO": "Blacklist: Limitahan ang pag-gamit ng mga command sa channel na ito",
     "WHITELISTING_INFO": "Whitelist: Pahintulutan lamang ang mga partikular na command na gagamitin sa channel na ito",
     "RESET_USAGE": "I-Reset: Ibinabalik ang mga pahintulot sa dating konpigurasyon\nPaggamit: `{{prefix}}p reset`",

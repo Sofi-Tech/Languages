@@ -1,6 +1,6 @@
 {
     "GRAB_CARD_PLURAL": "{{winner}} ay naglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na kard (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "EXTRA_GRAB": "{{user}} Ang iyong sobrang **Grab** ay kasulukuyang ginagamit. Mayroon ka nalang **{{remaining}}** na natitira",
+    "EXTRA_GRAB": "{{user}} Ang iyong sobrang **Grab** ang gagamitin. Mayroon ka na lang **{{remaining}}** na natitira",
     "CARDS_DROPPED_BY": "Si {{user}} ay nag **dropped** ng mga kard",
     "GRAB_COOLDOWN": "{{user}} Kailangan mong maghintay ng **{{cooldown}}** para makakuha ng iba pang kard",
     "EVENT_GRAB": "{{user}} Binuksan ang {{currencyEmoji}} **{{amount}}** mga sorpresa ng **{{eventItem}}**",

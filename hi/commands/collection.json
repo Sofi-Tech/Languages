@@ -24,7 +24,7 @@
     "NO_TAG_FOUND": "{{author}} आपने अभी तक कोई टैग नही बनाया है।`{{prefix}}tc <TagName> <Emoji>` का उपयोग करके टैग बनाए",
     "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ",
     "NOT_AVAILABLE": "अमान्य श्रृंखला",
-    "TAG_MODAL_PLACEHOLDER": "\"-\" का उपयोग करके समूह में टैग हटाए",
+    "TAG_MODAL_PLACEHOLDER": "किसी टैग को समूह में हटाने के लिए उसके नाम के आगे \"-\" जोड़े",
     "SORT_LEVEL": "स्तर",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "TAG_MODAL_LABEL": "सामूहिक टैग",

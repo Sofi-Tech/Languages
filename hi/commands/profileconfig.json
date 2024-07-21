@@ -96,5 +96,6 @@
     "PBG_EXIST_INV": "आपके संग्रह में पहले से ही **Profile Background** ID `{{id}}` के साथ है",
     "PR_MENU_LABEL": "PROFILE RING",
     "NO_PR_FOUND": "आपके संग्रह में `{{id}}` आईडी वाला **Profile Ring** नहीं मिला",
-    "SELECT_PR_CONFIRM": "क्या आप वाकई **{{ringName}}** **Profile Ring** का चयन करना चाहते हैं?"
+    "SELECT_PR_CONFIRM": "क्या आप वाकई **{{ringName}}** **Profile Ring** का चयन करना चाहते हैं?",
+    "PROVIDE_PROFILE_RING": "उस **Profile Ring** की ID दर्ज करें जिसे आप को अपने प्रोफाइल पर लगाना हो। | रिसेट करने के लिए खाली छोड़ें।"
 }
