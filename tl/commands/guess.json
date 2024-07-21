@@ -1,17 +1,17 @@
 {
-    "GUESS_DESCRIPTION": "Gamitin ang command na ito upang makapagsimula ng laro ng paghuhula ng salita. Ang lahat ng manlalaro na sasali sa laro ng panghuhula ay magkakaroon ng bawas na halaga ng salapi mula sa kanilang imbentaryo kapag nagsimula na ang laro. Ang isang random na salitang Ingles ay pipiliin at pagkatapos ay magiging scrambled. Ang unang manlalaro na matagumpay na nag-type ng orihinal na sa salita sa chat ay siyang mananalo sa laro at makakakuha ng kabuuan ng lahat ng bayad ng mga sumali",
-    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}guess <Amount> <Currency>`\nTinatanggap na salapi: **Silver** , **Wists** , **Gems**, **Cubes**",
+    "GUESS_DESCRIPTION": "Gamitin ang command na ito upang makapagsimula ng laro ng paghuhula. Ang lahat ng manlalaro na sasali sa laro ng panghuhula ay magkakaroon ng bawas na halaga ng salapi mula sa kanilang imbentaryo kapag nagsimula na ang laro. Isang random na salitang Ingles ang pipiliin at saka i-scramble. Ang unang manlalaro na matagumpay na nag-type ng orihinal na salita sa chat ay siyang mananalo sa laro at makakakuha ng kabuuang bayad ng mga sumali",
+    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}guess <Amount> <Currency>`\nTinatanggap na salapi: **Silver**, **Wists**, **Gems**, **Cubes**",
     "NO_TP": "{{author}} Kailangan mo ng aktibong **Trade Pass** upang mag-host ng laro ng panghuhula",
     "NOT_ENOUGH_CURR": "{{user}} Wala kang sapat na **{{currency}}** upang simulan ang laro",
     "INFO_1": "Si {{user}} ay nag simula ng laro ng panghuhula!",
     "INFO_2": "Bayad sa Pakikilahok: **{{bet}}** {{currencyEmoji}}",
     "INFO_3": "Ang Premyo: **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "Pindutin ang 🍻 upang makasali! Ang host ay maaaring magsimula ng laro kapag pinindot ang 🟢",
+    "FOOTER": "Pindutin ang 🍻 upang makasali! Ang host ang maaaring magsimula ng laro kapag pinindot ang 🟢",
     "REQ_MORE_PLAYERS": "{{user}} Kailangan ng kahit **2** manlalaro upang maumpisahan ang laro",
-    "GUESS_THE_WORD": "{{participants}}\n\nAyusin ang **Salitang Ingles** na nakagulo: `{{scrambledWord}}`",
-    "CORRECT_GUESS": "Si {{winner}} ay Matagumpay na nakuhang hulaan ang salita at nanalo ng **{{jackpot}}** {{currencyEmoji}}",
+    "GUESS_THE_WORD": "{{participants}}\n\nAyusin ang **salitang ingles** na nakagulo: `{{scrambledWord}}`",
+    "CORRECT_GUESS": "Si {{winner}} ay matagumpay na nahulaan ang salita at nanalo ng **{{jackpot}}** {{currencyEmoji}}",
     "INSUFFICIENT_CURRENCY": "{{author}} Wala kang sapat na **{{currency}}** para makalahok sa laro na ito",
-    "NO_TP_2": "{{author}} Kailangan mong magkaroon ng aktibong **Trade Pass** upang makalahok!",
+    "NO_TP_2": "{{author}} Kailangan mo ng aktibong **Trade Pass** upang makalahok!",
     "MORE": "iba pa...",
     "INFO_4": "**Mga Kalahok [{{totalPlayers}}]**"
 }

@@ -2,7 +2,7 @@
     "MASSBURN_DESCRIPTION": "Gamitin ang command na ito para mag-sunog ng maraming kard nang sabay-sabay sa pamamagitan ng pagdaragdag ng mga parametro tulad ng \"t:TagName\" at \"wl<Number\" para tukuyin kung aling mga kard ang gusto mong sunugin. Gamitin ang command na \"Help filter\" para makakuha ng kumpletong listahan ng mga available na parametro",
     "IN_ACTIVE_MB": "{{user}} Hindi ka maaaring magsimula ng bagong **Massburn** habang aktibo pa ang nauna",
     "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Filters>`\n\n```fix\nPaalala: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
-    "WRONG_TAG": "{{author}} Walang mahanap na kahit anong pananda na may pangalang `{{arg}}`",
+    "WRONG_TAG": "{{author}} Walang mahanap na kahit anong tag na may pangalan na `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Walang mahanap na kahit anong mga kard na tumutugma sa iyong pamantayan sa paghahanap",
     "CARDS_BURNED": "__Napiling mga Kard [ {{totalCards}} ]__",
     "CONFIRM_ASK": "{{author}} Sigurado ka bang gusto mong tuluyang sunugin ang mga kard na ito?",

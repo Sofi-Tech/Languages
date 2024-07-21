@@ -38,7 +38,7 @@
     "VT_MODAL_LABEL": "Gebe den Code der Version Token ein",
     "INVALID_VERSION": "Der von dir angegebene Code **Version Token** ist entweder ungültig oder nicht in deiner Sammlung enthalten",
     "EQUIPMENT_MODAL_LABEL": "Gebe die Menge von {{equipmentType}} ein",
-    "VERSION_EMBED_DESCRIPTION": "<:_:979009081325019156> Gebe den Code der Basiskarte + ein **Version token** dieses Charakters ein\n<:_:979009081325019156> Die Basiskarte wird in die **Version** geändert, die auf dem **Token** angegeben ist\n<:_:979009081325019156> Die geschätzten Kosten hängen von der Popularität und der Gen der Basiskarte ab\n\n⚠️ Die Änderung der Karte von **Version 1** kann nicht rückgängig gemacht werden",
+    "VERSION_EMBED_DESCRIPTION": "<:_:979009081325019156> Gebe den Code der Basiskarte + ein **Version Token** dieses Charakters ein\n<:_:979009081325019156> Die Basiskarte wird in die **Version** geändert, die auf dem **Token** angegeben ist\n<:_:979009081325019156> Die geschätzten Kosten hängen von der Popularität und der Gen der Basiskarte ab\n\n⚠️ Die Änderung der Karte von **Version 1** kann nicht rückgängig gemacht werden",
     "FUSION_EMBED_FOOTER": "Du hast eine 0,5% Chance eine animierte Karte vom Ziehen zu erhalten",
     "NOT_ENOUGH_EQUIPMENT": "Du brauchst **{{needAmount}} {{needTier}} {{needEquipmentType}}s**, um **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}* zu machen",
     "EQUIPMENT_MODAL_PLACEHOLDER": "z.B. 10",

@@ -1,5 +1,5 @@
 {
-    "EXTRA_GRAB": "{{user}} Je **Extra Grab** wordt gebruikt. Je hebt **{{remaining}}** over",
+    "EXTRA_GRAB": "{{user}} Uw **Grab** wordt gebruikt. U heeft **{{remaining}}** over",
     "GRAB_EVENT_ITEM": "Een echte tulp krijger! {{winner}} beschermde {{amount}} 🌷 van  {{userCount}} spelers",
     "EVENT_GRAB": "{{user}} heeft {{currencyEmoji}} **{{amount}}** **{{eventItem}}** geplukt voor de tuin",
     "SNATCHED_EVENT_ITEM": "Goed gedaan! {{winner}} heeft {{amount}} tulpen afgepakt van <@{{userId}}>",

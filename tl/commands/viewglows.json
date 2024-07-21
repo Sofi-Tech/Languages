@@ -2,13 +2,13 @@
     "VIEWGLOWS_DESCRIPTION": "Gamitin ang command na ito upang suriin ang kasalukuyang mga Glow ng mga user. Ang paggamit ng code ng Glow bilang parametro ay magbubukas ng embed na may mga detalye tungkol sa Glow na iyon",
     "VG_CATEGORY": "Mga Kosmetiko",
     "VG_SLASH_DESC1": "Pumili ng user na may \"Glows\" na gusto mong makita",
-    "VG_SLASH_DESC2": "Magbigay ng pangalan ng pananda na gusto mong i-sala",
+    "VG_SLASH_DESC2": "Magbigay ng pangalan ng tag na gusto mong i-filter",
     "VG_SLASH_DESC3": "Mag bigay ng code ng \"Glow\" na gusto mong suriin",
     "NO_GLOWS": "{{author}} Ang user na iyon ay walang kahit anong **Glows**",
     "SUPER": "Super",
     "EMBED_TITLE": "SOFI: VIEW GLOW",
     "EMBED_FOOTER": "Kasalukuyang pahina: {{page}}/{{totalPages}} | Kabuuan: {{count}}",
-    "NO_GLOWS_FOUND": "{{author}} Wala kang kahit anong pananda na may pangalang `{{tagName}}`",
+    "NO_GLOWS_FOUND": "{{author}} Wala kang kahit anong tag na may pangalang `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} Walang mahanap na **Glow** na mayroong code na `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VIEW GLOW",
     "TIME_one": "{{count}} na beses",
@@ -28,5 +28,5 @@
     "VG_TYPE": "Type",
     "VG_USED": "Gamit na",
     "VG_OWNER": "May-ari",
-    "VG_TAG": "Pananda"
+    "VG_TAG": "Tag"
 }

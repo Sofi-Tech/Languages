@@ -2,9 +2,21 @@
     "VERIFY_BUTTON_LABEL": "Verifiëren",
     "SERVER_BLACKLISTED": "{{author}} De server staat op de zwarte lijst. Neem contact met ons op via discord.gg/sofi",
     "SUPPORT_BUTTON_LABEL": "Ondersteuning",
-    "VERIFY_TO_PLAY": "[Verifieer uwzelf op onze website om te kunnen spelen!](<https://sofi.gg/verify>)",
+    "VERIFY_TO_PLAY": "[Verifieer uzelf op onze website om te kunnen spelen!](<https://sofi.gg/verify>)",
     "COMMAND_BLACKLISTED": "{{author}} De `{{commandName}}` commando staat op de zwarte lijst in dit kanaal",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wacht voor **{{cooldown}}** voor u dit commando weer gebruikt",
     "CATEGORY_DISABLED": "{{author}} Deze categorie is uitgeschakeld\nReden: `{{reason}}`",
-    "COMMAND_DISABLED": "{{author}} Dit commando is uitgeschakeld\nReden `{{reason}}`"
+    "COMMAND_DISABLED": "{{author}} Dit commando is uitgeschakeld\nReden `{{reason}}`",
+    "APPEAL_DENIED": "Na onderzoek van uw zaak zijn we tot de conclusie gekomen om uw bezwaar af te wijzen. Uw status op de zwarte lijst zal niet ongedaan gemaakt worden en alle nieuwe bezwaren zullen vanaf nu worden afgewezen.\n\n- Sofi Management",
+    "VERSION_ACCEPTED": "Uw `Version` submissie voor **{{charName}}** van **{{seriesName}}** werd geaccepteerd. **3** <a:wist_spin:973031140581580820> zijn aan uw inventaris toegevoegd",
+    "VERSION_REJECTED": "Uw `Version` submissie voor **{{charName}}** van **{{seriesName}}** werd afgewezen. [Bezoek onze Support Server om meer te leren](<https://discord.gg/RYawNnu6Pp>)",
+    "COMMAND_RUN_ERROR": "{{author}} Er heeft zich een fout voorgedaan tijdens het uitvoeren van dit commando. Probeer het opnieuw",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Uw inventaris bevat een negatieve waarde! Contacteer de Developers in onze [Support Server](https://discord.gg/sofi) om dit probleem op te lossen",
+    "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Globaal]** Wacht **{{cooldown}}** voordat u dit commando weer gebruikt",
+    "REQUIRE_PERMISSIONS": "{{author}} U heeft de volgende machtigingen nodig: **{{permissions}}** om dit commando uit te voeren",
+    "REGISTER_TO_PLAY": "{{author}} Gebruik het `{{prefix}}register` commando om uw **Sofi** reis te starten!",
+    "BOT_IN_SAFEMODE": "{{author}} **Sofi** is momenteel in veilige modus! ETA: **{{eta}}**\nWe verontschuldigen ons voor het ongemak en vragen om uw geduld!",
+    "COMPLETE_COMMAND": "{{author}} Voltooi het `{{command}}` commando eerst!",
+    "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __U staat op de zwarte lijst voor het overtreden van de regels van Sofi!__\n\n**Een lijst van mogelijke redenen die dit konden veroorzaken:**\n```CSS\n- Interactie met Sofi op meerdere accounts (Alting)\n- Verkopen of kopen van volledige Discord accounts\n- Andere gebruikers oplichten\n- Profiteren van of betrokken zijn bij een van de bovenstaande activiteiten\n```\n\n:link: [Bezwaar maken tegen uw toevoeging](<https://sofi.gg/appeal>)\n:link: [Support Server](https://discord.gg/sofi)",
+    "APPEAL_ACCEPTED": "# __Uw bezwaar is geaccepteerd!__\n- Gelieve lid te worden van onze [Support Server](https://discord.gg/XPsQKJjeD7) en maak een ticket aan in het https://discord.com/channels/863226120245215262/959176115723837530 kanaal om u verder te helpen\n- Een medewerker zal u zo snel mogelijk beantwoorden, gelieve geen rechtstreekse berichten te sturen of medewerkers vermelden in een kanaal met betrekking tot uw ticket. Het breken van deze regel kan leiden tot een permanente schorsing van onze service en Discord Server"
 }
