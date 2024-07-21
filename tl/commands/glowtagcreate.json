@@ -1,8 +1,8 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng isang pananda upang ikategorya at igrupo ang maraming Glow na akma sa iyong sariling pamantayan. Gamitin ang command na \"Glowtag\" para magtalaga ng mga ginawang pananda sa iyong mga Glow",
-    "GTC_CATEGORY": "Mga Pananda",
+    "GLOWTAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng tag upang ikategorya at igrupo ang maraming Glow na akma sa iyong sariling pamantayan. Gamitin ang command na \"Glowtag\" para magtalaga ng mga nagawang tag sa iyong mga Glow",
+    "GTC_CATEGORY": "Mga Tag",
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Ang emoji na iyon ay hindi tama",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Mayroon ka nang pananda ng **Glow** na may ganyang pangalan",
-    "CREATED_GLOWTAG": "{{author}} Matagumpay na nakagawa ng pananda ng **Glow** na may pangalang `{{tag}}` | {{emoji}}"
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Mayroon ka nang **Glow** tag na may ganyang pangalan",
+    "CREATED_GLOWTAG": "{{author}} Matagumpay na nakagawa ng **Glow** tag na may pangalang `{{tag}}` | {{emoji}}"
 }

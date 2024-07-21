@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Ang command na ito ay ipapakita ang iyong buong koleksyon, na maaari mong i-sort at i-filter sa iba't ibang paraan. Sa paggamit ng command na ito kasama ang mga karagdagang prompts ay mag bubukas ng embed na mayroon nang itinakdang filter sa kanya. Gamitin ang prompt na \"t:ut\" kasama ng command na ito upang bigyang-diin ang lahat ng mga kard sa iyong koleksyon na walang kasalukuyan pananda",
+    "COLLECTION_DESCRIPTION": "Ang command na ito ay magpapakita ng iyong buong koleksyon, na maaari mong i-sort at i-filter sa iba't ibang paraan. Sa paggamit ng command na ito kasama ang mga karagdagang prompts ay mag bubukas ng embed na mayroon nang partikular na filter. Gamitin ang prompt na \"t:ut\" kasama ng command na ito upang bigyang-diin ang lahat ng mga kard sa iyong koleksyon na walang kasalukuyang tag",
     "SLASH_CMD_DESC": "Ipinapakita ang koleksyon ng iyong kard",
     "SLASH_DESC": "Pumili ng user para makita ang kanilang koleksyon",
     "SLASH_DESC2": "Ilagay ang mga filter na gusto mong ilapat sa koleksyon",
@@ -63,5 +63,5 @@
     "FILTER_NAME_PROFANE": "{{author}} Ang pangalan ng iyong filter ay hindi dapat naglalaman ng kahit anong masasakit na salita",
     "FILTER_NOT_FOUND": "{{author}} Walang mahanap na kahit anong filter na mayroong pangalan na `{{arg}}`",
     "FILTER_LIMIT": "{{author}} Hindi ka na maaari pang gumawa ng kahit anong filter",
-    "VERSION_AVAILABILITY": "Availability ng Bersyon"
+    "VERSION_AVAILABILITY": "Availability ng Version"
 }

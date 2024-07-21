@@ -1,12 +1,12 @@
 {
-    "GLOWTAGLIST_DESCRIPTION": "Ang command na ito ay magpapakita ng listahan ng lahat ng iyong mga pananda sa Glow",
-    "GTL_CATEGORY": "Mga Pananda",
-    "NO_TAGS": "{{author}} Wala ka pang pananda ng **Glow**. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWTAGLIST_DESCRIPTION": "Ang command na ito ay magpapakita ng listahan ng lahat ng iyong mga Glow tag",
+    "GTL_CATEGORY": "Mga Tag",
+    "NO_TAGS": "{{author}} Wala ka pang **Glow** tag. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Name> <Emoji>`",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
-    "GLOWS_one": "{{count}} ng Glow",
-    "GLOWS_other": "{{count}} Mga Glow",
-    "GLOWS_two": "{{count}} Mga Glow",
-    "GLOWS_few": "{{count}} Mga Glow",
-    "GLOWS_zero": "{{count}} ng Glow",
-    "GLOWS_many": "{{count}} Mga Glow"
+    "GLOWS_one": "{{count}} na Glow",
+    "GLOWS_other": "{{count}} na mga Glow",
+    "GLOWS_two": "{{count}} na mga Glow",
+    "GLOWS_few": "{{count}} na mga Glow",
+    "GLOWS_zero": "{{count}} na Glow",
+    "GLOWS_many": "{{count}} na mga Glow"
 }
