@@ -36,5 +36,6 @@
     "AN": "an",
     "A": "a",
     "THE": "itu",
-    "MODAL_ERROR_RESPONSE": "Terjadi kesalahan saat mengambil respons. Silakan coba lagi!"
+    "MODAL_ERROR_RESPONSE": "Terjadi kesalahan saat mengambil respons. Silakan coba lagi!",
+    "PAGE_INFO": "Halaman: {{currentPage}}/{{maxPages}}"
 }
