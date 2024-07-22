@@ -7,5 +7,5 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** уже находится в вашем списке желаемого",
     "CHARACTER_ADDED": "{{author}} Персонаж **{{name}}** успешно добавлен в ваш список желаемого",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Используйте команду `{{prefix}}wu` или `{{prefix}}wu max`, чтобы расширить ваш список желаемого"
+    "INCREASE_CAPACITY": "Чтобы разблокировать больше ячеек, используйте команду `{{prefix}}wl` и нажмите на значок {{emoji}}"
 }
