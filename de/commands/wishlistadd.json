@@ -7,5 +7,5 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ist bereits auf deiner Wunschliste",
     "CHARACTER_ADDED": "{{author}} **{{name}} ** wurde erfolgreich deiner Wunschliste hinzugefügt",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Verwende den Befehl `{{prefix}}wu` oder `{{prefix}}wu max` um die Kapazität deiner Wunschliste zu erhöhen"
+    "INCREASE_CAPACITY": "Schalte weitere Slots frei, indem du den Befehl `{{prefix}}wl` verwendest und auf das Symbol {{emoji}} klickst"
 }

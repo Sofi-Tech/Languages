@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Ang paggamit ng command na ito kasama ng isang Order-ID mula sa merkado na sinusundan ng kabuuang halaga, ay magbubukas ng isang transaksyon na naka-embed upang bumili ng mga Wist mula sa iba pang manlalaro. Gamitin ang command na \"Market\" para tingnan ang lahat ng available na order",
+    "MARKETBUY_DESCRIPTION": "Ang paggamit ng command na ito kasama ng isang Order-ID mula sa merkado na sinusundan ng kabuuang halaga, ay magbubukas ng isang transaksyon na naka-embed upang bumili ng mga Wist mula sa iba pang manlalaro. Gamitin ang command na \"Market\" para tingnan ang lahat ng mga available na order",
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong ibinigay ay hindi tama",
     "CANNOT_PURCHASE": "{{user}} Hindi ka maaaring makapag-interak sa order na ito",

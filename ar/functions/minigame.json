@@ -1,3 +1,5 @@
 {
-    "EMBED_TITLE": "SOFI: MINIGAME"
+    "EMBED_TITLE": "SOFI: MINIGAME",
+    "EXTRA_GRAB": "{{user}} تم استخدام **Grab** الإضافي الخاص بك. لديك **{{remaining}}** متبقي",
+    "GRAB_COOLDOWN": "{{user}} يجب عليك الانتظار **{{cooldown}}** لالتقاط بطاقة أخرى"
 }

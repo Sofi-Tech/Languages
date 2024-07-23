@@ -7,5 +7,5 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** आपकी पसंदीदा-सूची में पहले से मौजूद है",
     "CHARACTER_ADDED": "{{author}} **{{name}}** आपकी पसंदीदा-सूची में जोड़ा गया",
     "EMBED_TITLE": "SOFI: ADD TO WHITELIST",
-    "INCREASE_CAPACITY": "आप `{{prefix}}wu` या `{{prefix}}wu max` का प्रयोग करके पसंदीदा-सूची की क्षमता बढ़ा सकते है"
+    "INCREASE_CAPACITY": "`{{prefix}}wl` कमांड का उपयोग कर के और {{emoji}} पर क्लिक कर के आप अधिक स्लॉट अनलॉक कर सकते हैं"
 }
