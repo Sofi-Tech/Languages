@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Utiliser cette commande affichera la liste des personnages souhaités d'un utilisateur. Pour ajouter un personnage à votre propre liste de souhaits utilisez la commande \"Wishlistadd\"",
+    "WISHLIST_DESCRIPTION": "Utiliser cette commande affichera la liste des personnages que souhaite un utilisateur. Pour ajouter un personnage à votre liste de souhaits utilisez la commande \"Wishlistadd\"",
     "CATEGORY": "Liste De Souhaits",
     "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
     "WISHLIST_PRIVATE": "{{author}} Cet utilisateur a mis sa liste de souhaits en privé",
@@ -13,7 +13,7 @@
     "CARD_MENU_DESCRIPTION": "Copier les codes de {{name}}",
     "COPY_CODES_MENU_PLACEHOLDER": "Sélectionnez une Option",
     "CODES_COPIED": "← Copié",
-    "ALL_CARD_CODES": "En raison du grand volume de codes, le message a dû être converti en un fichier `.txt`:",
+    "ALL_CARD_CODES": "En raison du grand nombre de codes, le message a dû être converti en un fichier `.txt`:",
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Votre liste de souhaits est vide",
     "PAGE": "Copier la Page - {{page}}",

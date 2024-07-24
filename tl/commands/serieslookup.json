@@ -1,12 +1,12 @@
 {
-    "SERIESLOOKUP_DESCRIPTION": "Sa command na ito, maaari kang maghanap ng kahit anong serye na gusto mo. Ipapakita sa iyo ng nabuong embed ang lahat ng mga karakter na maaaring makuha mula sa itinukoy na serye",
+    "SERIESLOOKUP_DESCRIPTION": "Sa command na ito, maaari kang maghanap ng kahit anong serye na gusto mo. Ipapakita sa iyo ng nabuong embed ang lahat ng mga karakter na maaaring makuha mula sa tinukoy na serye",
     "NO__LAST_CHAR_FOUND": "{{author}} Wala ka pang kahit anong kard sa iyong koleksyon",
     "NO_CHAR_FOUND": "{{author}} Ang serye na ito ay wala pang mga karakter",
     "NO_SERIES_FOUND": "{{author}} Walang mahanap na kahit anong serye na may pangalang `{{name}}`",
     "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} May naganap na error. Pakisubukang muli",
-    "CARD_COLLECTED": "Mga Kard na na-kolekta: **{{collected}}/{{totalCards}}**",
+    "CARD_COLLECTED": "Mga na-kolektang Kard: **{{collected}}/{{totalCards}}**",
     "TOTAL_WL": "Kabuuang Wishlist: **{{wlCount}}**",
     "CHARACTERS": "**__Mga Karakter__**",
-    "SERIES_NAME": "Pangalan: **{{seriesName}}**"
+    "SERIES_NAME": "Pamagat: **{{seriesName}}**"
 }

@@ -94,8 +94,8 @@
     "MODAL_ERROR_RESPONSE": "प्रतिक्रिया पूर्ण करते समय एक त्रुटि हुई। कृपया पुन: प्रयास करें",
     "SELECT_PBG_CONFIRM": "क्या आप वाकई में **{{backgroundName}}** **Profile Background** का चयन करना चाहते हैं?",
     "PBG_EXIST_INV": "आपके संग्रह में पहले से ही **Profile Background** ID `{{id}}` के साथ है",
-    "PR_MENU_LABEL": "PROFILE RING",
-    "NO_PR_FOUND": "आपके संग्रह में `{{id}}` आईडी वाला **Profile Ring** नहीं मिला",
+    "PR_MENU_LABEL": "Profile Ring",
+    "NO_PR_FOUND": "आपके संग्रह में `{{id}}` ID वाला **Profile Ring** नहीं मिला",
     "SELECT_PR_CONFIRM": "क्या आप वाकई **{{ringName}}** **Profile Ring** का चयन करना चाहते हैं?",
-    "PROVIDE_PROFILE_RING": "उस **Profile Ring** की ID दर्ज करें जिसे आप को अपने प्रोफाइल पर लगाना हो। | रिसेट करने के लिए खाली छोड़ें।"
+    "PROVIDE_PROFILE_RING": "उस **Profile Ring** की ID दर्ज करें जिसे आप को अपने प्रोफाइल पर लगाना चाहते है | रिसेट करने के लिए खाली छोड़ें।"
 }
