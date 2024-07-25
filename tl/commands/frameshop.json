@@ -30,10 +30,10 @@
     "FRAME_DESCRIPTION": "\nLikha ni: **{{artist}}**\nCode: `{{code}}`\nPresyo: **{{price}}**\nKategorya: **{{category}}**\n\n```fix\n{{description}}\n```",
     "FS_UNAVAILABLE": "Hindi Available",
     "EMBED_FOOTER": "Uploaded {{count}} days ago",
-    "EMBED_FOOTER_two": "Uploaded mga {{count}} araw ang nakalilipas",
-    "EMBED_FOOTER_other": "Uploaded mga {{count}} araw ang nakalilipas",
-    "EMBED_FOOTER_zero": "Uploaded {{count}} araw ang nakalilipas",
-    "EMBED_FOOTER_one": "Uploaded {{count}} araw ang nakalilipas",
-    "EMBED_FOOTER_few": "Uploaded mga {{count}} araw ang nakalilipas",
-    "EMBED_FOOTER_many": "Uploaded mga {{count}} araw ang nakalilipas"
+    "EMBED_FOOTER_two": "Uploaded mga {{count}} araw na ang nakalipas",
+    "EMBED_FOOTER_other": "Uploaded mga {{count}} araw na ang nakalipas",
+    "EMBED_FOOTER_zero": "Uploaded {{count}} araw na ang nakalipas",
+    "EMBED_FOOTER_one": "Uploaded {{count}} araw na ang nakalipas",
+    "EMBED_FOOTER_few": "Uploaded mga {{count}} araw na ang nakalipas",
+    "EMBED_FOOTER_many": "Uploaded mga {{count}} araw na ang nakalipas"
 }
