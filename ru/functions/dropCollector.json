@@ -9,7 +9,7 @@
     "SNATCHED_EVENT_ITEM": "{{winner}} sleighed away with {{amount}} festive Socks from <@{{userId}}> stocking stash!",
     "CARDS_DROPPED_BY": "{{user}} **бросает** карты",
     "GRAB_CARD_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_VERSION": "{{winner}} Вы отбились от {{user}} и **подобрали** **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nИспользуйте `svt` команду для просмотра **Version Token**",
-    "GRAB_VERSION_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователй и **подобрали** **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nИспользуйте `svt` команду для просмотра **Version Token**",
-    "TOOK_VERSION": "{{winner}} **подобрали**  **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nИспользуйте `svt` команду для просмотра **Version Token**"
+    "GRAB_VERSION": "{{winner}} Вы отбились от {{user}} и **подобрали** **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nДля просмотра данного **Version Token** используйте команду `{{prefix}}vt`",
+    "GRAB_VERSION_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nДля просмотра данного **Version Token** используйте команду `{{prefix}}vt`",
+    "TOOK_VERSION": "{{winner}} **подобрали** **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nДля просмотра данного **Version Token** используйте команду `{{prefix}}vt`"
 }
