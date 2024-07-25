@@ -5,7 +5,7 @@
     "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <Name>`",
     "NO_CHARACTER_FOUND": "{{author}} Hindi mahanap ang karakter na iyon. Gamitin ang command na `{{prefix}}wa -f <Name>` para sa eksaktong paghahanap",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ay nasa wishlist mo na",
-    "CHARACTER_ADDED": "{{author}} Matagumpay na idinagdag ang **{{name}}** sa iyong wishlist",
+    "CHARACTER_ADDED": "{{author}} Matagumpay na idinagdag si **{{name}}** sa iyong wishlist",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Gamitin ang command na `{{prefix}}wu` o `{{prefix}}wu max` upang dagdagan ang kapasidad ng iyong wishlist"
+    "INCREASE_CAPACITY": "Mag-unlock ng marami pang slots sa pamamagitan ng paggamit ng `{{prefix}}wl` na command at pag-click sa {{emoji}} na icon"
 }

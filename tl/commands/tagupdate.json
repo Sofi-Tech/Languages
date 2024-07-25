@@ -9,7 +9,7 @@
     "EMBED_DESCRIPTION": "Anong parte ng `{{tagName}}`na tag ang gusto mong baguhin?",
     "REPLACE_NAME": "Maglagay ng bagong pangalan na ipapalit sa `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang tag na may pangalan na `{{newTagName}}`",
-    "WRONG_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong tag ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, spaces o mga masasamang salita",
+    "WRONG_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong tag ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, puwang o mga masasamang salita",
     "TAGNAME_LONG": "{{author}} Ang pangalan ng tag ay dapat hanggang **20** na letra lamang",
     "REPLACE_NAME_CONFIRMATION": "Sigurado ka bang gusto mong baguhin ang pangalan ng tag na ito mula sa `{{oldTag}}` patungo sa `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Matagumpay na napalitan ang pangalan ng iyong tag na `{{oldTag}}` patungo sa `{{newTag}}`",

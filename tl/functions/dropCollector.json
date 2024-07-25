@@ -9,7 +9,7 @@
     "GRAB_EVENT_ITEM": "{{winner}} ay nakipag-laban sa **{{userCount}}** na katao at nakakuha ng **{{amount}}** **{{eventItem}}**",
     "GRAB_CARD": "{{winner}} ay nanalo kay {{user}} at **nakuha** ang **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} Ang mga kard na nasa ibaba ay hindi na maaaring **makuha**",
-    "TOOK_VERSION": "{{winner}} ay **kinuha** ang **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]",
-    "GRAB_VERSION_PLURAL": "Si {{winner}} ay nakipaglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na **Version Token** (`{{code}}`) [**V{{version}}**]",
-    "GRAB_VERSION": "Si {{winner}} ay nakipaglaban kay {{user}} at **nakuha** ang **{{character}}** **Version Token** (`{{code}}`) [**V{{version}}**]"
+    "TOOK_VERSION": "Si {{winner}} ay **kinuha** ang **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGamitin ang `svt` command upang makita ang **Version Token** na ito",
+    "GRAB_VERSION_PLURAL": "Si {{winner}} ay nakipaglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGamitin ang `svt` command upang makita ang **Version Token** na ito",
+    "GRAB_VERSION": "Si {{winner}} ay nakipaglaban kay {{user}} at **nakuha** ang **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGamitin ang `svt` command upang makita ang **Version Token** na ito"
 }
