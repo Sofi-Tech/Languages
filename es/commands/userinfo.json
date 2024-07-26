@@ -42,8 +42,8 @@
     "UI_TRADE": "Intercambios",
     "UI_GAMES": "Juegos",
     "UI_SOLD": "Vendido",
-    "UI_PULL": "Pulls",
+    "UI_PULL": "Tiradas",
     "UI_TP_EXPIRED": "Caducado",
-    "LANG_CHANGE_SUCCESS": "{{author}} ¡Tu idioma ha sido cambiado con éxito a **{{language}}**! Ten en cuenta que nuestra actualización de traducción se encuentra todavía en las primeras fases de desarrollo y aún no cubre todos nuestros comandos!\n\nLos comandos no traducidos incluyen:\n\n- **Deck**\n- **Stats**\n- **Event**\n- **Guild/Raid Commands**\n\nSi te encuentras texto que falta, una traducción incorrecta o mensajes embed y funciones rotas al utilizar este idioma, te animamos a que nos informes de estos problemas mediante el comando `{{prefix}}slr <DescripciónDelError>`. Si lo prefieres, puedes reportar errores en el [Servidor de Soporte Oficial](<https://discord.gg/sofi>)!",
+    "LANG_CHANGE_SUCCESS": "{{author}} ¡Tu idioma ha sido cambiado con éxito a **{{language}}**! Ten en cuenta que nuestra actualización de traducción se encuentra todavía en las primeras fases de desarrollo y aún no cubre todos nuestros comandos!\n\nLos comandos no traducidos incluyen:\n\n- **Deck**\n- **Stats**\n- **Event**\n- **Guild/Raid Commands**\n\nSi te encuentras texto que falta, una traducción incorrecta o mensajes embed y funciones rotas al utilizar este idioma, te animamos a que nos informes de estos problemas mediante el comando `{{prefix}}lrt <DescripciónDelError>`. Si lo prefieres, puedes reportar errores en el [Servidor de Soporte Oficial](<https://discord.gg/sofi>)!",
     "UI_INVITED": "Invitado"
 }

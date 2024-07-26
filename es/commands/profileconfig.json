@@ -95,7 +95,7 @@
     "SELECT_MODAL_TITLE": "Seleccionar Profile Background",
     "SELECT_PBG_CONFIRM": "¿Estás seguro de que quieres seleccionar el **Profile Background** **{{backgroundName}}**?",
     "NO_PR_FOUND": "No se pudo encontrar el **Profile Ring** con el ID `{{id}}` en tu inventario",
-    "PROVIDE_PROFILE_RING": "Entre el ID del **Profile Ring** para ponerlo. | Escriba `none` para reiniciarlo.",
+    "PROVIDE_PROFILE_RING": "Introduce el ID del **Profile Ring** para aplicarlo. | Escribe `none` para quitarlo.",
     "PR_MENU_LABEL": "Profile Ring",
-    "SELECT_PR_CONFIRM": "Estas seguro que quieres seleccionar el **{{ringName}}** **Profile Ring**?"
+    "SELECT_PR_CONFIRM": "Estas seguro que quieres seleccionar el **Profile Ring** **{{ringName}}**?"
 }
