@@ -9,7 +9,7 @@
     "CANNOT_BE_GRABBED": "{{user}} The cards below can no longer be **grabbed**",
     "CARDS_DROPPED_BY": "{{user}} has **dropped** cards",
     "GRAB_CARD_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_VERSION_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this **Version Token**",
+    "GRAB_VERSION_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this Version Token",
     "TOOK_VERSION": "{{winner}} **grabbed** the **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this **Version Token**",
     "GRAB_VERSION": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this **Version Token**"
 }
