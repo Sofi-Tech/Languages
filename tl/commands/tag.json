@@ -6,7 +6,7 @@
     "TAG_NOT_FOUND": "{{author}} Wala kang kahit anong tag na may pangalang `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
     "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
-    "SUCCESSFUL_TAG": "{{author}} Matagumpay na nalagyan ng tag ang **{{card}}** bilang `{{tag}}`",
+    "SUCCESSFUL_TAG": "{{author}} Matagumpay na nalagyan ng tag si **{{card}}** bilang `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Ang lahat ng mga kard ay matagumpay na nalagyan ng tag",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Ang mga sumusunod na code ng mga kard ay maaaring hindi tama o wala sa iyong koleksyon:\n{{arg}}"
 }
