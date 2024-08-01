@@ -1,1 +1,9 @@
-{}
+{
+    "SLASH_DESC2": "Nhập số lượng",
+    "SLASH_DESC3": "Nhập code của Background bạn muốn mua [CHỈ HOẠT ĐỘNG KHI SẢN PHẨM ĐƯỢC CHỌN LÀ BACKGROUND]",
+    "SLASH_DESC": "Nhập tên của vật phẩm bạn muốn mua",
+    "INVALID_BG_AMOUNT": "{{author}} Bạn không thể mua một số lượng âm của một vật phẩm",
+    "BUY_DESCRIPTION": "Dùng lệnh này kết hợp với tên của vật phẩm và số lượng",
+    "BUY_GEN_CONFIRMATION": "## Bạn đang mua {{count}} thẻ cào gen",
+    "TRADEPASS_INFO": "Ghé thăm trang web của chúng tôi để **Bump** và đổi điểm của bạn thành các vật phẩm khác, bao gồm **Trade Pass**"
+}

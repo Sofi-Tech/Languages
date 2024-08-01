@@ -1,1 +1,5 @@
-{}
+{
+    "CHAR_NOT_FOUND": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`",
+    "NAME": "Tên:",
+    "CHAR_NF_SENSITIVE": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`\n\n```fix\nLưu ý: Việc sử dụng `-f` flag khiến \n```"
+}

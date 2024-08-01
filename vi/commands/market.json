@@ -1,1 +1,5 @@
-{}
+{
+    "NO_LISTING_FOUND": "{{author}}Không thể tìm thấy bất cứ hàng hoá nào như vậy trên thị trường",
+    "MARKET_DESCRIPTION": "Lệnh này sẽ thể hiện tất cả các món hàng hiện có trên thị trươn",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Sẵn có: `{{stockAmount}}` {{stockEmoji}} | : `{{rateAmount}}` {{rateEmoji}}"
+}

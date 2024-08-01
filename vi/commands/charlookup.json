@@ -1,1 +1,12 @@
-{}
+{
+    "CHAR_NOT_FOUND": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`",
+    "3D_LABEL": "3D",
+    "NO_FANS_FOUND": "\nNhân vật này chưa có bất kì người hâm mộ nào cả!",
+    "ENTER_AMOUNT": "Nhập vào một số lượng",
+    "NAME": "Tên:",
+    "CHARLOOKUP_DESCRIPTION": "Bạn có thể sử dụng lệnh này để tìm kiếm một nhân vật nhất định. Ở  bảng thống kê, bạn có thể kiểm tra thống kê của nhân vật, Version/3D/Gif",
+    "FAN_PTS_ADDED_zero": "{{author}}Đã thêm thành công**{{count}}** điểm tới **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "MISSING_ITEMS": "{{author}} Bạn không có đủ **{{itemName}}** c",
+    "CHAR_NF_SENSITIVE": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`\n\n```fix\nLưu ý: Việc sử dụng `-f` flag khiến \n```",
+    "MORE_INFO_LABEL": "Lựa chọn"
+}
