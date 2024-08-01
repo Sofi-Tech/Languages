@@ -56,7 +56,7 @@
     "FILTER_SUCCESS": "{{author}} Successfully saved this filter as `{{filterName}}`",
     "FILTER_UPDATE_SUCCESS": "{{author}} Successfully updated the filter `{{filterName}}`",
     "FILTER_NAME_PROFANE": "{{author}} The name of your filter must not contain any profanity",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Could not find any cards matching your selected filter",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Could not find any cards matching your selected filter. Use `{{prefix}}help filter` command to learn more about all available filters",
     "FILTER_DELETE": "Delete a Filter",
     "FILTER_NOT_FOUND": "{{author}} Could not find any filter with the name `{{arg}}`",
     "FILTER_DELETE_SUCCESS": "{{author}} Successfully deleted the filter `{{filterName}}`",
