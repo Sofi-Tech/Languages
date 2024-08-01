@@ -9,6 +9,6 @@
     "NO_MONEY": "{{author}} Anda tidak memiliki cukup **Recharges** untuk proses ini!",
     "RECHARGE_CONFIRMATION": "Apakah Anda yakin ingin mengisi daya **Glow** ini?\n\nNama: **{{name}}**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "UNLOCK_GLOWS": "{{author}} Anda belum memiliki **Glows**",
-    "GLOW_NOT_FOUND": "{{author}} Kode **Glow** yang anda berikan tidak valid atau tidak tersedia di inventory",
+    "GLOW_NOT_FOUND": "{{author}} Kode **Glow** yang anda berikan tidak valid atau tidak tersedia di inventory anda",
     "SUPER_RECHARGE_CONFIRMATION": "Apakah anda yakin ingin mengisi daya **Glow** ini?\n\nNama: **{{name}} (Super)**\nKode: `{{glowCode}}`\nBiaya: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

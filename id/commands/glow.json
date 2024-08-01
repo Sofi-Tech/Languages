@@ -1,11 +1,11 @@
 {
     "GLOW_DESCRIPTION": "Perintah ini akan menerapkan Glow yang ditentukan ke kartu dari koleksi Anda. Glow menambahkan efek cahaya di sekitar batas bingkai kartu Anda. Anda dapat membeli Glows dengan menggunakan perintah “Unlockglow”",
     "GLOW_CATEGORY": "Kosmetik",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}glow <KodeKartu> <#KodeGlow>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "NO_GIF_CARDS": "{{author}} Anda tidak dapat menggunakan **Glow** ke kartu **GIF**",
     "INVALID_GLOW_CODE": "{{author}} Kode **Glow** selalu dimulai dengan `#`",
-    "GLOW_NOT_FOUND": "{{author}} Kode **Glow** yang anda berikan tidak valid atau tidak tersedia di inventory",
+    "GLOW_NOT_FOUND": "{{author}} Kode **Glow** yang anda berikan tidak valid atau tidak tersedia di inventory anda",
     "EMBED_GLOW_TITLE": "SOFI: APPLY GLOW",
     "EMBED_SG_TITLE": "SOFI: APPLY SUPER GLOW",
     "GLOW_NAME": "Nama: **{{name}}**",
