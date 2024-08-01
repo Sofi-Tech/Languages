@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Usa questo comando per aggiungere un personaggio alla tua wishlist personale. Questa azione non ha alcun beneficio o vantaggio diretto ad essa associato",
+    "WISHLISTADD_DESCRIPTION": "Usa questo comando per aggiungere un personaggio alla tua lista dei desideri personale. Questa azione non ha alcun beneficio o vantaggio diretto ad essa associato",
     "CATEGORY": "Lista dei desideri",
     "ADD_CHARACTERS_ERROR": "{{author}} Non puoi piu aggiungere personaggi alla tua wishlist",
     "SEARCH_CHARACTER_ERROR": "{{author}} Uso corretto: `{{prefix}}wa <Nome>`",
@@ -7,5 +7,5 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** è già nella tua wishlist",
     "CHARACTER_ADDED": "{{author}} Hai aggiunto **{{name}}** alla tua wishlist",
     "EMBED_TITLE": "SOFI: WISHLISTADD",
-    "INCREASE_CAPACITY": "Usa il comando `{{prefix}}wu` o `{{prefix}}wu max` per aumentare la capacità della tua wishlist"
+    "INCREASE_CAPACITY": "Sblocca più slot utilizzando il comando `{{prefix}}wl` e facendo clic sull'icona {{emoji}}"
 }

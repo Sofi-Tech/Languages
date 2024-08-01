@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "With this command you can look up any given character you want. The generated embed will then show you the different Version, as well as Event variants",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```\n\nUse `{{prefix}}help filter` to learn more about all available filters",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "Submitted By: <@{{userID}}>",
     "EMBED_FOOTER": "You can submit new Versions by using the {{prefix}}sc command",

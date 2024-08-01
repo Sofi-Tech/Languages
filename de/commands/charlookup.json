@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Besitzer-Rangliste der niedrigsten Gens für diesen Charakter\nDie Karten-ID wird benötigt, um neue \"Versionen\" einzureichen",
+    "CHARLOOKUP_DESCRIPTION": "Mit diesem Befehl kannst du jeden beliebigen Charakter suchen. Die generierte Textbox enthält sowohl verschiedene Statistiken des Charakters als auch die Besitzer-Rangliste der niedrigsten Gens für diesen Charakter.",
     "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden",
     "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",

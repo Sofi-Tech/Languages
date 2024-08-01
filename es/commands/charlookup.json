@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- Puedes ver un personaje en concreto usando el comando \"scl\". En este menú puedes ver las estadísticas del personaje, sus variantes Version/3D/GIF, así como su Gen/Tabla de clafisicación de fans y su \"ID de Carta\".\n- El \"ID de Carta\" se necesita para enviar imágenes para nuevas \"Versions\"",
+    "CHARLOOKUP_DESCRIPTION": "Puedes ver un personaje en concreto usando este comando. En este menú puedes ver las estadísticas del personaje, sus variantes Version/3D/GIF, así como su Gen/Tabla de clafisicación de fans y su ID de Carta.",
     "CHAR_NOT_FOUND": "{{author}} No se ha podido encontrar ningún personaje con el nombre `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} No se ha podido encontrar ningún personaje con el nombre `{{arg}}`\n\n```fix\nNota: si usas la opción `-f`, la función distinguirá entre mayúsculas y minúsculas.\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
