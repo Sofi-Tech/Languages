@@ -34,7 +34,7 @@
     "EMBED_FOOTER": "Страница: {{page}}/{{totalPages}} | Всего карт: {{count}} {{sortedBy}}",
     "MASSTAG_WRONG_TAG": "{{author}} Не удалось найти ни одной отметки с названием `{{arg}}`",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Не удалось найти карты, соответствующие выбранному фильтру. Используйте команду `{{prefix}}help filter`, чтобы узнать про все доступные фильтры",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Не удалось найти карты, соответствующие выбранному фильтру. Используйте команду `{{prefix}}help filter`, чтобы больше узнать обо всех доступных фильтрах",
     "FILTER_DELETE_SUCCESS": "{{author}} Фильтр `{{filterName}}` успешно удален",
     "FILTER_LIMIT": "{{author}} Вы не можете создать больше фильтров",
     "SAVE_FILTER": "Выбрать фильтр",
