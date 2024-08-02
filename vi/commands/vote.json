@@ -3,6 +3,10 @@
     "VOTE": "Vote trên Top.GG",
     "VOTE_DESCRIPTION": "Dùng lệnh này để Vote cho Sofi trên Top.GG . Với mỗi Vote cho Sofi bạn sẽ nhận được 1 Wist vào ngày thường và 2 Wists vào cuối tuần.",
     "BUMP": "Bump",
-    "EMBED_TITLE": "Sofi",
-    "TOTAL_VOTES": "- Tổng Vote : {{totalVotes}}"
+    "EMBED_TITLE": "SOFI: VOTE {{username}}",
+    "TOTAL_VOTES": "- Tổng **Vote** : **{{totalVotes}}**",
+    "USE_WIST": "Bạn sẽ nhận được một **Wist** <:wist:870339503427027005> cho mỗi lần **Vote** thành công!",
+    "MONTHLY_VOTES": "- Tháng này đã **Vote** : **{{monthlyVotes}}**",
+    "EMBED_FOOTER": "Bạn sẽ nhận được gấp đôi Wist vào cuối tuần",
+    "VOTE_RESET": "- Tạo lại trong: **{{countdown}}**"
 }
