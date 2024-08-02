@@ -1,3 +1,9 @@
 {
-    "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đang được sử dụng. Còn lại **{{remaining}}** lần"
+    "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đang được sử dụng. Còn lại **{{remaining}}** lần",
+    "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để lấy thẻ khác",
+    "CARDS_DROPPED_BY": "{{user}} đã **drop** thẻ",
+    "CANNOT_BE_GRABBED": "{{user}} Các thẻ dưới đây không còn **lấy** được nữa",
+    "GRAB_VERSION_PLURAL": "{{winner}} đã hạ gục **{{userCount}}** người chơi khác và **giành lấy** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Toke này",
+    "GRAB_VERSION": "{{winner}} đã hạ gục {{user}} và **giành lấy** Version Token của {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt`để xem Version Token này",
+    "TOOK_VERSION": "{{winner}} **đã lấy** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này"
 }

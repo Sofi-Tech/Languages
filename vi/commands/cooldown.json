@@ -1,5 +1,19 @@
 {
     "READY": "Đã sẵn sàng",
     "JOIN_SUPPORT_SERVER": "**[Tham gia vào máy chủ hỗ trợ chính thức để nhận được sự giúp đỡ!](https://discord.gg/sofi)**",
-    "COOLDOWN_DESCRIPTION": "Lệnh này sẽ thể hiện một danh sách của những"
+    "COOLDOWN_DESCRIPTION": "Lệnh này sẽ hiển thị danh sách các khoảng thời gian chờ hiện tại của bạn. Nếu bạn muốn nhận thông báo cho Vote/Daily/Bump, hãy nhấp vào biểu tượng chuông cho từng mục",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "UNREAD_MAIL_zero": "\n📫 Bạn có **{{count}}** mail chưa đọc",
+    "UNREAD_MAIL_one": "\n📫 Bạn có **{{count}}** mail chưa đọc",
+    "UNREAD_MAIL_two": "\n📫 Bạn có **{{count}}** mail chưa đọc",
+    "UNREAD_MAIL_few": "\n📫 Bạn có **{{count}}** mail chưa đọc",
+    "UNREAD_MAIL_many": "\n📫 Bạn có **{{count}}** mail chưa đọc",
+    "EMBED_TITLE": "SOFI: THỜI GIAN CHỜ ({{username}})",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "UNREAD_MAIL_other": "\n📫 Bạn có **{{count}}** mail chưa đọc",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**"
 }

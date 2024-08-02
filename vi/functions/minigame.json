@@ -1,3 +1,4 @@
 {
-    "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đang được sử dụng. Còn lại **{{remaining}}** lần"
+    "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đang được sử dụng. Còn lại **{{remaining}}** lần",
+    "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để lấy thẻ khác"
 }
