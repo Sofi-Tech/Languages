@@ -35,7 +35,7 @@
     "NO_RESULTS_OTHERS": "{{author}} Dieser Nutzer hat keine Karten in seiner Sammlung",
     "SAVED_FILTER": "Wähle einen Filter",
     "FILTER_NAME_PLACEHOLDER": "Gib einen Namen für deinen Filter ein",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Es konnten keine passenden Karten zu deinen verwendeten Filtern gefunden werden",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Es konnten keine passenden Karten zu dem verwendeten Filtern gefunden werden. Nutze den `{{prefix}}help filter` Befehl, um mehr über alle verfügbaren Filter zu lernen",
     "FILTER_DELETE": "Lösche einen Filter",
     "FILTER_DELETE_SUCCESS": "{{author}} Der Filter `{{filterName}}` wurde erfolgreich gelöscht",
     "FILTER_LIMIT": "{{author}} Du kannst keine weiteren Filter erstellen",

@@ -1,1 +1,24 @@
-{}
+{
+    "AI_CATEGORY": "Thẻ",
+    "NO_ONGOING_AUCTION": "{{author}} Hiện tại không có bất kỳ cuộc đấu giá nào",
+    "BID_SELECTION": "Sử dụng lệnh {{prefix}}ai <Auction-ID> hoặc chọn một cuộc đấu giá đang hoạt động từ menu dưới đây",
+    "BID_BUTTON_LABEL": "Đấu thầu",
+    "AI_CURRENT": "Giá thầu hiện tại",
+    "TOTAL_CHARMS": "Tổng số Charm",
+    "YOUR_CHANCE": "Cơ hội của bạn",
+    "AI_ENDS": "Kết thúc",
+    "EMBED_TITLE": "SOFI: THÔNG TIN VỀ ĐẤU GIÁ",
+    "BID_MODAL_LABEL": "Mức giá thầu",
+    "BID_MODAL_TITLE": "Giá thầu đấu giá",
+    "BID_MODAL_PLACEHOLDER": "Nhập mức giá thầu",
+    "INVALID_BID_AMOUNT": "{{author}} Giá thầu của bạn phải là một con số cụ thể!",
+    "MINIMUM_AMOUNT": "{{author}} Bạn phải đặt giá thầu tối thiểu là **{{amount}}** {{currencyEmoji}} cho cuộc đấu giá này",
+    "NOT_ENOUGH_CURRENCY": "{{author}} Bạn không có đủ {{emoji}}",
+    "AUCTION_NOT_FOUND": "{{author}} Không tìm thấy cuộc đấu giá đó",
+    "NAME": "- Tên:",
+    "SERIES": "- Series:",
+    "SELECT_AUCTION_PLACEHOLDER": "Chọn một cuộc đấu giá",
+    "POSITIVE_NUMBER": "{{author}} Giá thầu của bạn phải là một số dương",
+    "AUCTIONINFO_DESCRIPTION": "Lệnh này sẽ hiển thị các cuộc đấu giá đã kết thúc và đang diễn ra cho các mã thẻ mà bạn có thể tham gia khi còn mở. Các cuộc đấu giá sử dụng Charm làm đơn vị tiền tệ để đặt giá thầu",
+    "BID_SUCCESSFUL": "{{author}} Bạn đã đặt thành công giá thầu là **{{amount}}** {{emoji}}"
+}

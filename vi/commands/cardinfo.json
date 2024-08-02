@@ -1,4 +1,22 @@
 {
     "INVALID_CARD_CODE": "{{author}} Mã thẻ bạn vừa nhập không tồn tại hoặc không ở trong bộ sưu tập của bạn",
-    "NAME": "Tên:"
+    "NAME": "Tên:",
+    "SERIES": "Series:",
+    "SLASH_DESC": "Nhập mã thẻ muốn kiểm tra",
+    "NO_CARD_FOUND": "Không thể tìm thấy thẻ cuối cùng của bạn. Thay vào đó hãy thử cung cấp mã thẻ",
+    "CARD_GLOWED": "**{{isSuper}}Glow** áp dụng: **{{glowName}} ** (`#{{viewCode}}`)\n",
+    "CARD_FRAMED": "**Frame** được áp dụng: ** {{frameName}} **\n",
+    "CARD_CFRAMED": "**Frame** được áp dụng: ** {{frameName}} ** (` {{frameCode}} `)\n",
+    "SUPER": "Super ",
+    "SOME_GLOW": "Không có sẵn",
+    "SOME_CODE": "Không có sẵn",
+    "SOME_FRAME": "Không có sẵn",
+    "SHOW_GEN": "Hiển thị gen",
+    "EMBED_AUTHOR": "SOFI: CARDINFO (Level - {{level}})",
+    "OWNED": "Owned by:",
+    "DROPPED": "Dropped by:",
+    "CLAIM_BY": "Grabbed by:",
+    "CLAIM_AT": "\nDropped in:",
+    "CARD_FONT": "**Font Colors:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Name -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Series -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
+    "CARDINFO_DESCRIPTION": "Sử dụng lệnh này với mã thẻ cụ thể sẽ hiển thị các thông tin cụ thể hơn về thẻ"
 }

@@ -48,7 +48,7 @@
     "SAVE_FILTER": "Sélectionnez un Filtre",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} Vous n'avez pas assez de **Silver** pour sauvegarder ce filtre",
     "FILTER_DELETE_SUCCESS": "{{author}} Suppression du filtre `{{filterName}}` réalisée avec succès",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes au filtre sélectionné",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes au filtre sélectionné. Utilisez la commande`{{prefix}}help filter`pour en savoir plus sur tous les filtres disponibles",
     "FILTER_DELETE": "Supprimer un Filtre",
     "APPLY_FILTER_TO_OTHER_REPLY": "{{author}} Vous avez été facturé de **500** <:xsilvercoin:915619222229512213> pour avoir appliqué un filtre sur la collection de quelqu'un d'autre",
     "ALL_UNTAG_SUCCESS_zero": "{{author}} Le tag suivant a été supprimé avec succès de **{{count}}** cartes `{{tagName}}`",

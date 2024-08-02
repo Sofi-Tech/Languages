@@ -1,9 +1,15 @@
 {
     "SLASH_DESC2": "Nhập số lượng",
-    "SLASH_DESC3": "Nhập code của Background bạn muốn mua [CHỈ HOẠT ĐỘNG KHI SẢN PHẨM ĐƯỢC CHỌN LÀ BACKGROUND]",
+    "SLASH_DESC3": "Nhập mã của phông nền mà bạn muốn mua [CHỈ HOẠT ĐỘNG KHI MỤC ĐƯỢC CHỌN LÀ PHÔNG NỀN]",
     "SLASH_DESC": "Nhập tên của vật phẩm bạn muốn mua",
-    "INVALID_BG_AMOUNT": "{{author}} Bạn không thể mua một số lượng âm của một vật phẩm",
-    "BUY_DESCRIPTION": "Dùng lệnh này kết hợp với tên của vật phẩm và số lượng",
+    "INVALID_BG_AMOUNT": "{{author}} Bạn không thể mua số lượng âm của một vật phẩm",
+    "BUY_DESCRIPTION": "Sử dụng lệnh này kết hợp với tên vật phẩm và số lượng sẽ mở một bảng giao dịch để mua vật phẩm đó. Sử dụng lệnh \"Shop\" để xem tất cả các vật phẩm hiện đang có sẵn",
     "BUY_GEN_CONFIRMATION": "## Bạn đang mua {{count}} thẻ cào gen",
-    "TRADEPASS_INFO": "Ghé thăm trang web của chúng tôi để **Bump** và đổi điểm của bạn thành các vật phẩm khác, bao gồm **Trade Pass**"
+    "TRADEPASS_INFO": "Ghé thăm trang web của chúng tôi để **Bump** và đổi điểm của bạn thành các vật phẩm khác nhau, bao gồm **Thẻ Giao Dịch**",
+    "NO_ITEM": "{{author}} Cách sử dụng đúng: `{{prefix}}buy <TênVậtPhẩm> <SốLượng>`",
+    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}buy bg <ID-PhôngNền> <SốLượng>`",
+    "INVALID_BG_ID": "{{author}} Không thể tìm thấy bất cứ **phông nền** nào với ID đó",
+    "INVALID_ITEM_PROVIDED": "{{user}} Vật phẩm bạn cung cấp là không hợp lệ",
+    "BUY_CHARMS_MULTIPLES": "{{author}} Bạn chỉ có thể mua **Charm** theo bội số của 100",
+    "BUY_CHARM_CONFIRMATION": "## Bạn đang mua {{amount}} <:xcharm:988729774031638528>"
 }

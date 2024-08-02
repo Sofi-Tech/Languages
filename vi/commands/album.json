@@ -1,5 +1,22 @@
 {
-    "ALBUM_DESCRIPTION": "Chỉ sử dụng lệnh này sẽ liệt kê tất cả các album hiện đang sở hữu của bạn. Thay vào đó, việc thêm tên album hiện có vào chuỗi lệnh sẽ hiển thị album đó",
+    "ALBUM_DESCRIPTION": "Sử dụng lệnh này sẽ liệt kê tất cả các album hiện có của bạn. Thêm tên một album đã tồn tại vào lệnh sẽ hiển thị album đó",
     "ALBUM_CATEGORY": "Album",
-    "USER_NOT_FOUND": "{{author}} Không thể tìm thấy người dùng đó"
+    "USER_NOT_FOUND": "{{author}} Không thể tìm thấy người dùng đó",
+    "ALBUM_SLASH_DESC": "Chọn một người dùng bạn muốn xem album của họ",
+    "ALBUM_SLASH_DESC2": "Nhập tên của album mà đang tìm kiếm.",
+    "PLAYER_NOT_EXIST": "{{author}} Người dùng đó chưa được đăng ký",
+    "ALBUM_NOT_FOUND": "{{author}} Người dùng đó chưa có bất kỳ album nào",
+    "ALBUM_NAME_NOT_FOUND": "{{author}} Không thể tìm thấy bất kỳ album nào tên `{{albumName}}`",
+    "PROCESSING": "Đang xử lý <a:_:876610443148406794>",
+    "NO_CARDS": "{{author}} Hiện giờ không có thẻ trong album này",
+    "EMBED_TITLE": "SOFI: ALBUMS ({{username}})",
+    "ALBUM_BUTTON_LABEL": "Tạo Album",
+    "EMBED_ALBUM_TITLE": "SOFI: ALBUM ({{albumName}})",
+    "ALBUM_CARDS_zero": "{{count}} thẻ",
+    "ALBUM_CARDS_one": "{{count}} thẻ",
+    "ALBUM_CARDS_two": "{{count}} thẻ",
+    "ALBUM_CARDS_few": "{{count}} thẻ",
+    "ALBUM_CARDS_other": "{{count}} thẻ",
+    "ALBUM_CARDS_many": "{{count}} thẻ",
+    "EMBED__ALBUM_FOOTER": "Được sở hữu bởi {{userTag}}"
 }

@@ -1,3 +1,10 @@
 {
-    "BUMP": "Bump"
+    "BUMP": "Bump",
+    "BUMP_CATEGORY": "Cài đặt",
+    "EMBED_AUTHOR": "SOFI: BUMP ({{username}})",
+    "GET_DIFFERENT_REWARDS": "Nhấp vào nút **Bump** [trên trang web chính thức của chúng tôi](https://sofi.gg) để nhận phần thưởng",
+    "TOTAL_BUMP": "- Tổng **Bumps**: **{{bump}}**",
+    "BUMP_POINTS": "- Bump hiện tại: **{{bumpPoints}}** (🔺)",
+    "BUMP_DESCRIPTION": "Sử dụng lệnh này sẽ tạo ra một bảng hiển thị tổng số Bumps của bạn, cũng như số điểm Bump hiện có. Bạn có thể sử dụng trên trang web chính thức của Sofi.gg để mua các vật phẩm, bao gồm cả Thẻ Giao Dịch",
+    "EMBED_FOOTER": "Bạn có thể Bump mỗi 4 giờ một lần!"
 }

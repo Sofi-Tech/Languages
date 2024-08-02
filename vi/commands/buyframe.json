@@ -1,1 +1,14 @@
-{}
+{
+    "NO_FRAME_NAME": "{{author}} Hãy cung cấp mã của **Khung** mà bạn muốn mua",
+    "NO_FRAMECODE_FOUND": "{{author}} Không thể tìm thấy bất cứ **Khung** nào với mã `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} **Khung** đó hiện tại không có sẵn. Sử dụng lệnh `{{prefix}}fs` để xem các **Khung** hiện giờ",
+    "FRAME_NOT_PURCHASABLE": "{{author}} **Khung** đó là giới hạn và không thể mua được nữa",
+    "EMBED_TITLE": "SOFI: GIAO DỊCH",
+    "YOU_GET": "Bạn nhận được:",
+    "YOU_PAY": "Bạn trả:",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Đã mua thành công **Khung** **{{frameName}}**",
+    "PROCESS_CANCELLED": "Quá trình đã bị huỷ",
+    "BF_CATEGORY": "Trang trí",
+    "BUYFRAME_DESCRIPTION": "Lệnh này được sử dụng đặc biệt để mua khung từ lệnh \"Frameshop\", trong đó bạn sẽ có thể mua các khung chính thức cũng như khung do cộng đồng tạo ra cho thẻ không phải là phiên bản 3D của bạn.",
+    "NO_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện giao dịch này"
+}
