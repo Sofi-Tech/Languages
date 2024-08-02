@@ -1,5 +1,5 @@
 {
-    "DROP_DESCRIPTION": "With this command you will be able to generate a set of 3 cards with randomized Gens. You can buy additional Drops from the \"Shop\" command with Wists, which you can obtain by Voting for Sofi",
+    "DROP_DESCRIPTION": "With this command you will be able to generate a set of 3 cards with randomized Gens. You can buy additional Drops from the {{prefix}}shop command with Wists, which you can obtain by Voting for Sofi",
     "EXTRA_DROP_ALERT": "{{author}} Your extra **Drop** is being used. You have **{{remaining}}** remaining",
     "ON_CD": "{{author}} Your **Drop** will be ready in: **{{dropCd}}**",
     "VOTE": "Vote",

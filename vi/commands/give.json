@@ -15,5 +15,6 @@
     "CARD_LOCKED": "{{author}} Thẻ này đang bị khóa và không thể tặng! Sử dụng câu lệnh`{{prefix}}ut <CardCode>` để mở khóa thẻ",
     "NO_CARD_FOUND": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "CARD_SELECTED": "{{author}} Thẻ này đang được sử dụng trong deck và không thể bị chuyển nhượng",
-    "CARD_IN_QUEST": "{{author}} Thẻ này hiện đang được sử dụng trong một nhiệm vụ và không thể tặng cho người khác"
+    "CARD_IN_QUEST": "{{author}} Thẻ này hiện đang được sử dụng trong một nhiệm vụ và không thể tặng cho người khác",
+    "EMBED_TITLE": "SOFI:CHO"
 }
