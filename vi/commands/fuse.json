@@ -44,5 +44,6 @@
     "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Bạn cần **{{needAmount}} {{needTier}} {{needEquipmentType}}s** và **{{ingotsAmount}}** {{emoji}} để làm **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
     "EQUIPMENT_FUSION_SUCCESS": "Kết hợp Trang Bị đã được thực hiện thành công\n{{moreInfo}}",
     "MISSING_ELIXIR": "Bạn không có đủ **Elixir**",
-    "VERSION_UPGRADE_FAILED": "Nâng cấp **Version** thất bại, hãy thử lại"
+    "VERSION_UPGRADE_FAILED": "Nâng cấp **Version** thất bại, hãy thử lại",
+    "VERSION_UPGRADE_SUCCESS": "Chúc mừng! **Version** đã được nâng cấp thành **{{version}}**"
 }
