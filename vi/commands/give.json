@@ -1,3 +1,13 @@
 {
-    "CANCELLED": "Quá trình đã bị hủy bỏ"
+    "CANCELLED": "Quá trình đã bị hủy bỏ",
+    "SLASH_DESC": "Chọn người dùng bạn muốn tặng thẻ",
+    "NO_SELF_GIVE": "{{author}} Bạn không thể tự đưa thẻ cho mình",
+    "MEM_NOT_VERIFIED": "{{author}}Người dùng đó chưa được xác minh",
+    "MEM_QUARANTINED": "{{author}}Người dùng này đã bị quarantined",
+    "AUTHOR_NOT_VERIFIED": "{{author}}Bạn chưa được xác minh",
+    "NOT_REGISTERED": "{{author}}Người dùng đó chưa được đăng ký",
+    "MEM_BLACKLISTED": "{{author}}Người dùng đó bị đưa vào danh sách đen",
+    "SLASH_DESC2": "Nhập mã thẻ bạn muốn tặng",
+    "GIVE_DESCRIPTION": "Với lệnh này, bạn có thể trực tiếp đưa thẻ từ bộ sưu tập của mình cho người chơi khác",
+    "AUTHOR_BLACKLISTED": "{{author}}Bạn bị đưa vào danh sách đen"
 }
