@@ -16,7 +16,7 @@
     "COMPLETE_COMMAND": "{{author}} Сначала завершите `{{command}}`!",
     "COMMAND_RUN_ERROR": "{{author}} Произошла ошибка при выполнении данной команды. Пожалуйста, попробуйте снова",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Подождите **{{cooldown}}**, прежде чем снова использовать данную команду",
-    "REQUIRE_PERMISSIONS": "{{author}} Вам требуются права: **{{permissions}}** для использования данной команды",
+    "REQUIRE_PERMISSIONS": "{{author}} Вам требуются права **{{permissions}}** для использования данной команды",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} В вашем инвентаре содержится отрицательное количество валюты! Пожалуйста, свяжитесь с разработчиками на нашем [Сервере поддержки](https://discord.gg/sofi), чтобы исправить данную проблему",
     "SUPPORT_BUTTON_LABEL": "Поддержка"
 }

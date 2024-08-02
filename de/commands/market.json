@@ -1,5 +1,5 @@
 {
-    "MARKET_DESCRIPTION": "Dieser Befehl zeigt alle zurzeit verfügbaren Auftrage auf dem Markt an. Der Markt kann von Spielern genutzt werden, um ihre Wist für Gems über den \"Marketlist\" Befehl einzutauschen",
+    "MARKET_DESCRIPTION": "Dieser Befehl zeigt alle zurzeit verfügbaren Auftrage auf dem Markt an. Der Markt kann von Spielern genutzt werden, um ihre Wist für Gems über den \"{{prefix}}marketlist\" Befehl einzutauschen",
     "NO_LISTING_FOUND": "{{author}} Es konnten keine Aufträge auf dem Markt gefunden werden",
     "MARKET_WARN": "**Durchschnittskurs**: **`{{averageRate}}`| Gesamte Händel**: **`{{totalTrades}}`**",
     "FOOTER": "Zeige Ergebnisse {{page}}-{{pages}} von {{total}} | {{prefix}}mbuy <Auftrag-ID> <Menge>",

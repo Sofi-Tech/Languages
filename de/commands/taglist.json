@@ -1,5 +1,5 @@
 {
-    "TAGLIST_DESCRIPTION": "Verwende diesen Befehl, um dir alle Tags eines Verwenders anzeigen zu lassen. Du kannst den Befehl \"Tagcreate\" nutzen, um mehr eigene Tags zu erstellen",
+    "TAGLIST_DESCRIPTION": "Verwende diesen Befehl, um dir alle Tags eines Benutzers anzeigen zu lassen. Du kannst den Befehl \"{{prefix}}tagcreate\" nutzen, um mehr eigene Tags zu erstellen",
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Der Nutzer konnte nicht gefunden werden",
     "NO_TAGS": "{{author}} Dieser Nutzer hat keine Tags",

@@ -1,5 +1,5 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag erstellen um deine Glows zu kategorisieren und mehrere Glows zu gruppieren nach deinen Kriterien. Benutze den „Glowtag“ Befehl um deine Glows deinen Tags zuzuordnen",
+    "GLOWTAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag erstellen um deine Glows zu kategorisieren und mehrere Glows zu gruppieren nach deinen Kriterien. Benutze den \"{{prefix}}glowtag“ Befehl um deine Glows deinen Tags zuzuordnen",
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gtc <TagName> <emoji>`",
     "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",

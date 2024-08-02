@@ -1,5 +1,5 @@
 {
-    "BACKGROUND_DESCRIPTION": "एक बार जब कोई कार्ड अपने 3D संस्करण में परिवर्तित हो जाता है, तो आप उस पर Background लगाने के लिए इस कमांड का उपयोग कर सकते हैं। Backgrounds \"Backgroundshop\" से खरीदें जा सकते है",
+    "BACKGROUND_DESCRIPTION": "एक बार जब कोई कार्ड अपने 3D संस्करण में परिवर्तित हो जाता है, तो आप उस पर Background लगाने के लिए इस कमांड का उपयोग कर सकते हैं। Backgrounds खरीदने के लिए \"{{prefix}}backgroundshop\" कमांड का उपयोग करें",
     "BG_CATEGORY": "COSMETICS",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}bg <CardCode> <Background-ID>`",
     "INVALID_CODE": "{{author}} आपके द्वारा प्रदान किया गया कार्ड कोड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
