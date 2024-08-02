@@ -14,5 +14,6 @@
     "CARD_TEMPLATE": "Mẫu Thẻ: **[Tải File PSD](https://cdn.discordapp.com/attachments/872705434509803551/1129781693679669268/sofi_card.psd)**",
     "USE_DISCORD_LINK": "<:_:979009081325019156> Hình ảnh đã gửi **phải** sử dụng liên kết chính thức của Discord, chẳng hạn như `cdn.discordapp.com` hoặc `media.discordapp.net`",
     "NO_PINGING_STAFF": "⚠️ Đừng gắn thẻ bất kỳ nhân viên nào để cố gắng ép họ xem yêu cầu càng sớm càng tốt!",
-    "SUBMITCARD_DESCRIPTION": "Sử dụng lệnh này để gửi thẻ đến Sofi, sau đó đội ngũ tiếp nhận sẽ xem xét và cân nhắc yêu cầu của bạn. Hãy đảm bảo đọc các yêu cầu cho quá trình này bằng cách sử dụng lệnh này một lần mà không có tham số bổ sung"
+    "SUBMITCARD_DESCRIPTION": "Sử dụng lệnh này để gửi thẻ đến Sofi, sau đó đội ngũ tiếp nhận sẽ xem xét và cân nhắc yêu cầu của bạn. Hãy đảm bảo đọc các yêu cầu cho quá trình này bằng cách sử dụng lệnh này một lần mà không có tham số bổ sung",
+    "TOTAL_EVENT_2D": "Thẻ sự kiện **2D** độc quyền: **{{totalEventCards}}**"
 }
