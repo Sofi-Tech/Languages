@@ -1,7 +1,7 @@
 {
     "CANCELLED": "Quá trình đã bị hủy bỏ",
     "NAME": "Tên:",
-    "EMBED_TITLE": "SOFI: ĐỐT",
+    "EMBED_TITLE": "SOFI: BURN",
     "GUILDSTONE_BURN": "Bạn có chắc muốn đốt **Guild Stone** của bạn không?",
     "GUILDSTONE_NOT_FOUND": "{{author}} Bạn không có **Guild Stone** nào",
     "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Bạn đã đốt thành công **Guild Stone**",
@@ -13,9 +13,9 @@
     "CARD_NOT_OWNED": "{{author}} Thẻ đó không còn trong bộ sưu tập của bạn",
     "SERIES": "Series:",
     "QUEST_CARD": "Bạn không thể đốt thẻ hiện đang được sử dụng trong nhiệm vụ",
-    "BURN_DESCRIPTION": "Sử dụng lệnh này để đốt một thẻ nhằm đổi lấy Silver và Cubes, những thứ cần thiết để nâng cấp thẻ thành phiên bản 3D. Nếu sử dụng lệnh này mà không thêm mã thẻ, nó sẽ đốt thẻ mới nhất bạn nhặt được",
+    "BURN_DESCRIPTION": "Sử dụng lệnh này để đốt một thẻ nhằm đổi lấy thêm Silver và Cube, những thứ cần thiết để nâng cấp thẻ thành phiên bản 3D. Nếu sử dụng lệnh này mà không thêm mã thẻ, nó sẽ đốt thẻ mới nhất bạn nhặt được",
     "SUCCESSFUL_CARD_BURN": "{{author}} Bạn đã đốt thẻ thành công",
-    "BURN_FRAG_WARN": "Bạn có chắc muốn đốt **Fragment** này không?\n\nName: **{{characterName}}**\nSeries: **{{seriesName}}**\nCode: `{{fragCode}}`",
+    "BURN_FRAG_WARN": "Bạn có chắc muốn đốt **Fragment** này không?\n\nTên: **{{characterName}}**\nBộ: **{{seriesName}}**\nMã: `{{fragCode}}`",
     "BURN_CARD_LOCKED": "{{author}} Thẻ đó hiện tại đang sử dụng trong một bộ bài hoặc không thể bị đốt",
     "BURN_REWARDS": "__Phần Thưởng__"
 }
