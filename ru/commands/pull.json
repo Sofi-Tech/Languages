@@ -7,7 +7,7 @@
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Количество вытягиваний: [ {{count}} ]",
     "MISSING_CURR": "{{user}} У вас недостаточно **{{currName}}** для данного процесса",
-    "AMOUNT": "Вы получили: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "AMOUNT": "Вы получили: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Количество вытягиваний: [ {{pullcount}} ]",
     "RATES": "Шансы",
     "PULL_CHANCES": "**__Вероятности__**",

@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Using this command in combination with an Order-ID from the market followed by an amount, will open up a transaction embed to purchase Wists from another player. Use the \"Market\" command to view all available orders",
+    "MARKETBUY_DESCRIPTION": "Using this command in combination with an Order-ID from the market followed by an amount, will open up a transaction embed to purchase Wists from another player. Use the \"{{prefix}}market\" command to view all available orders",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is invalid",
     "CANNOT_PURCHASE": "{{user}} You cannot interact with this order",

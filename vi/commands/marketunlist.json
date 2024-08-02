@@ -1,5 +1,8 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Sử dụng lệnh này để thu hồi đơn hàng của bạn từ cửa hàng",
+    "MARKETUNLIST_DESCRIPTION": "Sử dụng lệnh này để xoá đơn hàng của bạn từ cửa hàng",
     "CORRECT_USAGE": "{{user}} Cách dùng đúng: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} Order-ID bạn cung cấp bị vô hiệu hoặc không phải của bạn"
+    "INVALID_DEAL_ID": "{{author}} Order-ID bạn cung cấp bị vô hiệu hoặc không phải của bạn",
+    "SUCCESS_UL": "{{user}} Đã thành công xoá đơn hàng sau từ cửa hàng: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Hiện tại bạn không có đơn hàng nào",
+    "SUCCESS_UL_ALL": "{{user}} Đã xoá thành công tất cả đơn hàng của bạn khỏi cửa hàng"
 }

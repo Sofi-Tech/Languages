@@ -1,5 +1,5 @@
 {
-    "TAGLIST_DESCRIPTION": "Use this command to list a users current tags. You can use the \"Tagcreate\" command in order to create more tags",
+    "TAGLIST_DESCRIPTION": "Use this command to list current tags of a user. You can use the \"{{prefix}}tagcreate\" command in order to create more tags",
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Could not find that user",
     "NO_TAGS_SELF": "{{author}} You don't have any tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",

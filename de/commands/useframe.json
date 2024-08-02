@@ -1,5 +1,5 @@
 {
-    "USEFRAME_DESCRIPTION": "Dieser Befehl fügt deiner Karte den angegebenen Frame hinzu. Du kannst Frames mit dem \"Frameshop\" Befehl kaufen",
+    "USEFRAME_DESCRIPTION": "Dieser Befehl fügt deiner Karte den angegebenen Frame hinzu. Du kannst Frames mit dem \"{{prefix}}frameshop\" Befehl kaufen",
     "UF_CATEGORY": "Kosmetika",
     "UF_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}uf <KartenCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
