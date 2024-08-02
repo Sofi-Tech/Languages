@@ -3,5 +3,8 @@
     "GUILD_MASTER": "Guild Master",
     "NOT_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{item}}** để thực hiện giao dịch này",
     "SWAP_EMBED_FOOTER": "Quá trình này sẽ đổi mã thẻ của 2 thẻ",
-    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Thành công mua **{{amount}}** **{{itemName}}**"
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Thành công mua **{{amount}}** **{{itemName}}**",
+    "GUILD_VETERANS": "Veterans",
+    "GUILD_ADVENTURER": "Adventurer",
+    "GS_EMBED_FOOTER": "Giao dịch này sẽ quá hạn trong {{date}}"
 }

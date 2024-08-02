@@ -6,9 +6,11 @@
     "CORRECT_GUESS": "{{winner}} Đã đoán đúng và giành được **{{jackpot}}** {{currencyEmoji}}",
     "INFO_2": "Phí tham gia: **{{bet}}** {{currencyEmoji}}",
     "REQ_MORE_PLAYERS": "{{user}} Cần ít nhất \"2\" người để bắt đầu trò chơi",
-    "GUESS_DESCRIPTION": "Sử dụng câu lệnh này để bắt đầu trò chơi đoán chữ. Tất cả người chơi mà tham gia game đoán chữ này sẽ bị trừ một số tiền hiển thị từ kho đồ của bạn một khi trò chơi bắt đầu. Một từ tiếng Anh sẽ được chọn và sau đó bị đảo thứ tự chữ cái. Người đầu tiên nhập đúng từ gốc trong đoạn chat sẽ là người chiến thắng và nhận toàn bộ phí tham gia",
+    "GUESS_DESCRIPTION": "Sử dụng câu lệnh này để bắt đầu trò chơi đoán chữ. Tất cả người chơi tham gia trò chơi đoán chữ này sẽ bị trừ một số tiền hiển thị từ kho đồ của bạn một khi trò chơi bắt đầu. Một từ tiếng Anh sẽ được chọn và sau đó bị đảo thứ tự chữ cái. Người đầu tiên nhập đúng từ gốc trong đoạn chat sẽ là người chiến thắng và nhận được toàn bộ phí tham gia",
     "FOOTER": "Nhấn vào 🍻để tham gia! Bắt đầu trò chơi bằng cách nhấn vào nút🟢",
     "GUESS_THE_WORD": "{{participants}}\n\nKhôi phục từ tiếng Anh gốc `{{scrambledWord}}`",
-    "INFO_1": "{{user}} đã bắt đầu một trò chơi đoán!",
-    "INFO_3": "Tổng giải thưởng: **{{jackpot}}** {{currencyEmoji}}"
+    "INFO_1": "{{user}} đã bắt đầu một trò chơi đoán chữ!",
+    "INFO_3": "Tổng giải thưởng: **{{jackpot}}** {{currencyEmoji}}",
+    "NO_TP": "{{author}}Bạn cần phải có một **Trade Pass** đang hoạt động để tổ chức trò chơi đoán chữ",
+    "NO_TP_2": "{{author}}Bạn cần có một **Trade Pass** đang hoạt động để tham gia!"
 }

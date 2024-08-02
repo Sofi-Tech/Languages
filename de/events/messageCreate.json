@@ -9,7 +9,7 @@
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Bitte warte **{{cooldown}}** bevor du erneut Befehle benutzt",
     "COMMAND_BLACKLISTED": "{{author}} Der `{{commandName}}` Befehl ist in diesem Kanal deaktiviert",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Ich benötige: ` {{permissions}}`, um diesen Befehl auszuführen",
-    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Du benötigst: `{{permissions}}` um diesen Befehl zu benutzen",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Du benötigst **{{permissions}}** Berechtigungen um diesen Befehl benutzen zu können",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bitte warte **{{cooldown}}** bevor du diesen Befehl erneut verwendest",
     "REGISTER_USER": "{{author}} Verwende den Befehl `{{prefix}}register` und besuche unsere Webseite um dich zu verifizieren",
     "USER_COMMAND_QUEUE": "{{author}} Beende den `{{existsFor}}` Befehl, bevor du fortfährst",

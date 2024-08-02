@@ -1,10 +1,10 @@
 {
-    "BGS_SLASH_DESC": "Nhập code của \"Phông nền\" bạn đang tìm kiếm",
-    "BGSHOP_DESCRIPTION": "Lệnh này sẽ mở cửa hàng phông nền, hiển thị tất cả các nền có sẵn mà bạn có thể mua cho thẻ 3D của mình. Nhấp vào bất kỳ một tên phông nền sẽ mở một trang web hiển thị cụ thể phông nền đó",
-    "NO_BG_FOUND": "{{author}} Không thể tìm thấy bất cứ **Phông nền** nào với ID đó",
+    "BGS_SLASH_DESC": "Nhập code của \"Background\" bạn đang tìm kiếm",
+    "BGSHOP_DESCRIPTION": "Lệnh này sẽ mở cửa hàng Background , hiển thị tất cả các Backgrounds có sẵn mà bạn có thể mua cho cards 3D của mình. Nhấp vào bất kỳ một tên phông nền sẽ mở một trang web hiển thị cụ thể Background đó",
+    "NO_BG_FOUND": "{{author}} Không thể tìm thấy bất cứ **Background** nào với ID đó",
     "BGS_CATEGORY": "Trang trí",
-    "EMBED_TITLE": "SOFI: CỬA HÀNG PHÔNG NỀN",
-    "APPLY_BG": "\nSử dụng lệnh `{{prefix}}buy bg <ID-PhôngNền> <SốLượng> để mua phông nền",
+    "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
+    "APPLY_BG": "\nSử dụng lệnh `{{prefix}}buy bg <Background-ID> <Amount> để mua  **Background**",
     "SHOWING_PAGE": "Đang hiển thị trang: {{page}}/{{pages}}",
-    "VIEW_BACKGROUNDS": "[Nhấp vào đây để xem các **Phông nền** có sẵn](<https://sofi.gg/backgrounds>)"
+    "VIEW_BACKGROUNDS": "[Nhấp vào đây để xem các **Backgrounds** có sẵn](<https://sofi.gg/backgrounds>)"
 }
