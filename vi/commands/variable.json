@@ -3,5 +3,8 @@
     "NAME": "Tên:",
     "SERIES": "Series:",
     "AUTHOR_BLACKLISTED": "{{author}}Bạn bị đưa vào danh sách đen",
-    "NOT_REGISTERED": "{{author}}Người dùng đó chưa được đăng ký"
+    "NOT_REGISTERED": "{{author}}Người dùng đó chưa được đăng ký",
+    "UNAVAILABLE": "Trống",
+    "AVAILABLE": "Nạp",
+    "AUTHOR_QUARANTINED": "{{author}} Bạn đang bị cách ly"
 }

@@ -1,4 +1,7 @@
 {
     "GUILD_FOUNDER": "Founder",
-    "GUILD_MASTER": "Guild Master"
+    "GUILD_MASTER": "Guild Master",
+    "NOT_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{item}}** để thực hiện giao dịch này",
+    "SWAP_EMBED_FOOTER": "Quá trình này sẽ đổi mã thẻ của 2 thẻ",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Thành công mua **{{amount}}** **{{itemName}}**"
 }

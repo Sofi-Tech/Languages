@@ -9,5 +9,11 @@
     "MEM_BLACKLISTED": "{{author}}Người dùng đó bị đưa vào danh sách đen",
     "SLASH_DESC2": "Nhập mã thẻ bạn muốn tặng",
     "GIVE_DESCRIPTION": "Với lệnh này, bạn có thể trực tiếp đưa thẻ từ bộ sưu tập của mình cho người chơi khác",
-    "AUTHOR_BLACKLISTED": "{{author}}Bạn bị đưa vào danh sách đen"
+    "AUTHOR_BLACKLISTED": "{{author}}Bạn bị đưa vào danh sách đen",
+    "AUTHOR_QUARANTINED": "{{author}} Bạn đang bị cách ly",
+    "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}g <@User/UserID> <CardCode>`",
+    "CARD_LOCKED": "{{author}} Thẻ này đang bị khóa và không thể tặng! Sử dụng câu lệnh`{{prefix}}ut <CardCode>` để mở khóa thẻ",
+    "NO_CARD_FOUND": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "CARD_SELECTED": "{{author}} Thẻ này đang được sử dụng trong deck và không thể bị chuyển nhượng",
+    "CARD_IN_QUEST": "{{author}} Thẻ này hiện đang được sử dụng trong một nhiệm vụ và không thể tặng cho người khác"
 }
