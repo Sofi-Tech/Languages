@@ -16,7 +16,7 @@
     "OWNED": "Sở hữu bởi:",
     "DROPPED": "Dropped bởi:",
     "CLAIM_BY": "Nhặt bởi:",
-    "CLAIM_AT": "\nDropped in:",
+    "CLAIM_AT": "\nDropped ở:",
     "CARD_FONT": "**Màu font:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Tên -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Series -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARDINFO_DESCRIPTION": "Sử dụng lệnh này với mã thẻ cụ thể sẽ hiển thị các thông tin cụ thể hơn về thẻ",
     "CLAIM_ON": "Được nhặt vào:",
@@ -24,5 +24,5 @@
     "POPULARITY": "Phổ biến",
     "FOUGHT_OFF": "Đã đánh bại",
     "QUICKNESS": "Được nhặt trong",
-    "MORPHED": "Biến đổi"
+    "MORPHED": "Morphed"
 }

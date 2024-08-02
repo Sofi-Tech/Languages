@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Este comando mostrará toda tu colección, la cual puede ser ordenada de varias formas. Usar este comando con parámetros adicionales abrirá un mensaje embed con el filtro que se aplicó. Usa el parámetro \"t:ut\" en adición a este comando para mostrar todas las cartas en tu colección que aún no tienen un tag",
+    "COLLECTION_DESCRIPTION": "Este comando mostrará toda tu colección, la cual puede ser ordenada de varias formas. Usar este comando con parámetros adicionales abrirá un mensaje embed con el filtro que se aplicó. Usa el parámetro \"t:ut\" en adición a este comando para mostrar todas las cartas en tu colección que actualmente no tienen un tag. Usa el comando \"{{prefix}}help filter\" para ver todos los filtros disponibles",
     "SLASH_CMD_DESC": "Muestra tu colección de cartas",
     "SLASH_DESC": "Selecciona un usuario para ver su colección",
     "SLASH_DESC2": "Introduce los filtros que quieres aplicar a la colección",

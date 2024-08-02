@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Usar este comando en combinación de un ID-deOferta del mercado, seguido por la cantidad, abrirá un mensaje embed de transacción para comprar los Wists de otro jugador. Usa el comando \"Market\" para ver todas las ofertas disponibles",
+    "MARKETBUY_DESCRIPTION": "Usar este comando en combinación de un ID-deOferta del mercado, seguido por la cantidad, abrirá un mensaje embed de transacción para comprar los Wists de otro jugador. Usa el comando \"{{prefix}}market\" para ver todas las ofertas disponibles",
     "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}mbuy <IDDeAnuncio> <CantidadDeWists>`",
     "INVALID_DEAL_ID": "{{author}} El ID de Anuncio proporcionado no es válido",
     "CANNOT_PURCHASE": "{{user}} No puedes interactuar con este anuncio",

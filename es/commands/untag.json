@@ -1,5 +1,5 @@
 {
-    "UNTAG_DESCRIPTION": "Usa este comando para quitar un tag de tu carta. Si deseas eliminar el tag puedes usar el comando \"Tagdelete\"",
+    "UNTAG_DESCRIPTION": "Usa este comando para quitar un tag de tu carta. Si quieres eliminar el tag puedes usar el comando \"{{prefix}}tagdelete\"",
     "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} Aún no tienes ninguna carta en tu colección",
     "UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el tag de tu carta **{{cardName}}**",

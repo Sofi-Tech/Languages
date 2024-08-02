@@ -1,6 +1,6 @@
 {
     "PROVIDE_FILTER": "{{author}} Hãy cung cấp một bộ lọc cùng với cách sắp xếp",
-    "PROVIDE_CATEGORY": "{{author}} Hãy cung cấp một trong những danh mục sau```apache\n{{categories}}```",
+    "PROVIDE_CATEGORY": "{{author}} Hãy cung cấp một trong những mục sau```apache\n{{categories}}```",
     "TOO_LONG_FILTER": "{{author}} Bộ lọc bạn cung cấp quá dài, hãy thử lại",
     "TOO_MANY_FILTER_GROUPS": "{{author}} Bạn chỉ có tối đa 5 nhóm bộ lọc, hãy thử lại"
 }

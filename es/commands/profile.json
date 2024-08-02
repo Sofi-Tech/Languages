@@ -1,5 +1,5 @@
 {
-    "PROFILE_DESCRIPTION": "Este comando mostrará el perfil de un usuario, acompañado de un fondo, medallas y una carta destacada. Puedes configurar tu propio perfil usando el comando \"Profileconfig\"",
+    "PROFILE_DESCRIPTION": "Este comando mostrará el perfil de un usuario. Puedes configurar tu propio perfil usando el comando \"{{prefix}}profileconfig\"",
     "PRO_CATEGORY": "Configuración",
     "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
     "PROFILE_NOT_FOUND": "{{author}} Ese usuario no está registrado",

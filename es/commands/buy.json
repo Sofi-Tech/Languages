@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Usar este comando en combinación con el nombre del objeto y la cantidad que quieras comprar abrirá un mensaje embed de transacción para comprar dicho objeto. Usa el comando \"Shop\" para ver todos los objetos disponibles",
+    "BUY_DESCRIPTION": "Usar este comando en combinación con el nombre del objeto y la cantidad que quieras comprar abrirá un mensaje embed de transacción para comprar dicho objeto. Usa el comando \"{{prefix}}shop\" para ver todos los objetos disponibles",
     "SLASH_DESC": "Introduce el nombre del item que quieres comprar",
     "SLASH_DESC2": "Introduce la cantidad",
     "SLASH_DESC3": "Introduce el código del **Background** que quieres comprar. [FUNCIONA SÓLO SI EL ITEM ESTÁ SELECCIONADO COMO BACKGROUND]",

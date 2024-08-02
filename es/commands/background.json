@@ -1,6 +1,6 @@
 {
     "BG_CATEGORY": "Cosméticos",
-    "BACKGROUND_DESCRIPTION": "Una vez que se haya convertido una carta en su variante 3D, puedes usar este comando para aplicarle un Background. Los Backgrounds pueden ser comprados en el \"Backgroundshop\"",
+    "BACKGROUND_DESCRIPTION": "Una vez que se haya convertido una carta en su variante 3D, puedes usar este comando para aplicarle un Background. Usa el comando \"{{prefix}}backgroundshop\" para comprar Backgrounds",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}bg <CódigoDeCarta> <IDDelBackground>`",
     "INVALID_CODE": "{{author}} El código de carta que has proporcionado no es válido o no está en tu colección",
     "NON_3D_CARDS": "{{author}} No puedes aplicar un **Background** a cartas que no sean 3D",
