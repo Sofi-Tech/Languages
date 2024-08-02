@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Using this command in combination with an item name and amount will open up a transaction embed to purchase the specific item. Use the \"Shop\" command view all available items",
+    "BUY_DESCRIPTION": "Using this command in combination with an item name and amount will open up a transaction embed to purchase the specific item. Use the {{prefix}}shop command to view all available items",
     "SLASH_DESC": "Enter the name of the item you want to buy",
     "SLASH_DESC2": "Enter the amount",
     "SLASH_DESC3": "Enter the code of the Background you want to buy. [ONLY WORKS IF THE ITEM IS SELECTED AS BACKGROUND]",

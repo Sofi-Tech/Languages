@@ -5,14 +5,14 @@
     "SLASH_DESC": "Nhập mã thẻ muốn kiểm tra",
     "NO_CARD_FOUND": "Không thể tìm thấy thẻ cuối cùng của bạn. Thay vào đó hãy thử cung cấp mã thẻ",
     "CARD_GLOWED": "**{{isSuper}}Glow** đã được áp dụng: **{{glowName}} ** (`#{{viewCode}}`)\n",
-    "CARD_FRAMED": "**Khung** đã được áp dụng: ** {{frameName}} **\n",
-    "CARD_CFRAMED": "**Khung** đã được áp dụng: ** {{frameName}} ** (` {{frameCode}} `)\n",
+    "CARD_FRAMED": "**Frame** đã được áp dụng: ** {{frameName}} **\n",
+    "CARD_CFRAMED": "**Frame** đã được áp dụng: ** {{frameName}} ** (` {{frameCode}} `)\n",
     "SUPER": "Super ",
     "SOME_GLOW": "Không có sẵn",
     "SOME_CODE": "Không có sẵn",
     "SOME_FRAME": "Không có sẵn",
-    "SHOW_GEN": "Hiển thị gen",
-    "EMBED_AUTHOR": "SOFI: THÔNG TIN THẺ (Cấp độ - {{level}})",
+    "SHOW_GEN": "Show Gen",
+    "EMBED_AUTHOR": "SOFI: CARDINFO (Cấp độ - {{level}})",
     "OWNED": "Sở hữu bởi:",
     "DROPPED": "Dropped bởi:",
     "CLAIM_BY": "Nhặt bởi:",
@@ -24,5 +24,5 @@
     "POPULARITY": "Phổ biến",
     "FOUGHT_OFF": "Đã đánh bại",
     "QUICKNESS": "Được nhặt trong",
-    "MORPHED": "Morphed"
+    "MORPHED": "Biến đổi"
 }

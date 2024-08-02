@@ -4,7 +4,7 @@
     "CANNOT_BE_GRABBED": "{{user}} đã **nhặt** thẻ **{{characterName}}**",
     "EMBED_FOOTER": "Nhận thẻ bên trên bằng cách gửi captcha",
     "BATTLED_AND_WON": "{{winner}} đã đánh bại {{user}} và **giành lấy** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "EMBED_TITLE": "Thẻ captcha",
+    "EMBED_TITLE": "Captcha Card",
     "TOOK_THE_CARD": "{{user}} **đã nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "BATTLED_WON_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và giành lấy thẻ **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }
