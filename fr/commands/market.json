@@ -1,5 +1,5 @@
 {
-    "MARKET_DESCRIPTION": "Cette commande liste toutes les annonces actuellement disponibles sur le marché. Le marché peut être utilisé par les joueurs pour proposer leurs Wists en échange de Gems via la commande \"Marketlist\"",
+    "MARKET_DESCRIPTION": "Cette commande liste toutes les annonces actuellement disponibles sur le marché. Le marché peut être utilisé par les joueurs pour proposer leurs Wists en échange de Gems via la commande \"{{prefix}}marketlist\"",
     "NO_LISTING_FOUND": "{{author}} Aucune annonce n'a été trouvée dans le marché",
     "MARKET_WARN": "**Taux moyen**: **`{{averageRate}}` | Échanges totaux** : **`{{totalTrades}}`**",
     "FOOTER": "Affichage des résultats {{pages}}-{{pages}} sur {{total}} | {{prefix}}mbuy <ID d'Annonce> <Quantité>",

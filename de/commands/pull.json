@@ -7,7 +7,7 @@
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Ziehungen: [ {{count}} ]",
     "MISSING_CURR": "{{user}} Du hast nicht genügend **{{currName}}** für diesen Vorgang",
-    "AMOUNT": "Du hast: {{currencyEmoji}} **{{amount}}** {{pullOutcome}} erhalten",
+    "AMOUNT": "Du hast erhalten: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Ziehungen: [ {{pullcount}} ]",
     "RATES": "Raten",
     "PULL_CHANCES": "**__Wahrscheinlichkeiten__**",

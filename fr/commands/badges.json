@@ -1,5 +1,5 @@
 {
-    "BADGES_DESCRIPTION": "Affiche tous les badges actuellement obtenus. Vous pouvez placer des badges sur votre carte de profil en utilisant la commande \"Profileconfig\"",
+    "BADGES_DESCRIPTION": "Affiche tous les badges actuellement obtenus. Vous pouvez placer des badges sur votre carte de profil en utilisant la commande \"{{prefix}}profileconfig\"",
     "BADGES_CATEGORY": "Réglages",
     "EMBED_TITLE": "SOFI: BADGES",
     "NO_BADGES_FOUND": "Vous n'avez pas encore de badges"

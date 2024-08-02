@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois en ajoutant des paramètres tels que 'NomDuTag' et \"wl<Nombre\" pour spécifier quelles cartes vous souhaitez burn. Utilisez la commande \"Help filter\" pour obtenir une liste complète des paramètres disponibles",
+    "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois. En ajoutant les filtres Gen/Tag/Wishlist, vous pouvez spécifier quelles cartes vous voulez burn",
     "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau **Massburn** lorsqu'un précédent est toujours actif",
     "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n\n```fix\nNote: Vous pouvez trouver une liste complète des filtres avec la commande {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Aucun tag nommé `{{arg}}`n'a été trouvé",

@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Cette commande affichera l'intégralité de votre collection, qui peut ensuite être trier et filtrer de différentes manières. Utiliser cette commande avec des indicatifs supplémentaires ouvrira l'encart avec le filtre spécifique déjà appliqué. Utilisez le filtre \"t:ut' en plus de cette commande pour afficher toutes les cartes dans votre collection qui n'ont actuellement aucun tag",
+    "COLLECTION_DESCRIPTION": "Cette commande affichera l'intégralité de votre collection, qui peut ensuite être trier et filtrer de différentes manières. Utiliser cette commande avec des indicatifs supplémentaires ouvrira l'encart avec le filtre spécifique déjà appliqué. Utilisez le filtre \"t:ut' en plus de cette commande pour afficher toutes les cartes dans votre collection qui n'ont actuellement aucun tag. Utilisez la commande \"{{prefix}}help filter\" pour voir tous les filtres disponibles",
     "SLASH_CMD_DESC": "Affiche votre collection de cartes",
     "SLASH_DESC": "Sélectionnez un utilisateur pour voir sa collection",
     "SLASH_DESC2": "Entrez les filtres que vous voulez appliquer à la collection",
