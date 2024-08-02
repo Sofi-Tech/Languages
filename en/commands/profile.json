@@ -1,5 +1,5 @@
 {
-    "PROFILE_DESCRIPTION": "This command will display a user's profile, alongside their selected background, highlighted card and badges. You can configure your own profile card by using the \"Profileconfig\" command",
+    "PROFILE_DESCRIPTION": "This command displays the profile of a user. You can customize your profile by using the \"{{prefix}}profileconfig\" command",
     "PRO_CATEGORY": "Settings",
     "USER_NOT_FOUND": "{{author}} Could not find that user",
     "PROFILE_NOT_FOUND": "{{author}} That user is not registered",

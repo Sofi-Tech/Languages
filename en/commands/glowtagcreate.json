@@ -1,5 +1,5 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "With this command you can create a tag to categorize and group multiple Glows that fit your own criteria. Use the \"Glowtag\" command to assign created tags to your Glows",
+    "GLOWTAGCREATE_DESCRIPTION": "With this command you can create a tag to categorize and group multiple Glows that fit your own criteria. Use the \"{{prefix}}glowtag\" command to assign created tags to your Glows",
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} That emoji is invalid",
