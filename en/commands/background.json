@@ -1,5 +1,5 @@
 {
-    "BACKGROUND_DESCRIPTION": "Once a card has been converted into its 3D variant, you can use this command to apply a Background to it. Use the \"{{prefix}}bgs\" command to purchase Backgrounds",
+    "BACKGROUND_DESCRIPTION": "Once a card has been converted into its 3D variant, you can use this command to apply a Background to it. Use the \"{{prefix}}backgroundshop\" command to purchase Backgrounds",
     "BG_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bg <CardCode> <Background-ID>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
