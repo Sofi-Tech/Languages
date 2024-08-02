@@ -1,1 +1,12 @@
-{}
+{
+    "GTL_CATEGORY": "Nhãn",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_few": "{{count}} Glows",
+    "GLOWS_other": "{{count}} Glows",
+    "GLOWS_many": "{{count}} Glows",
+    "EMBED_TITLE": "SOFI: GLOW TAG LIST",
+    "NO_TAGS": "{{author}} Hiện tại bạn không có nhãn **Glow** nào. Bạn có thể tạo nhãn với lệnh: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWTAGLIST_DESCRIPTION": "Lệnh này sẽ hiển thị danh sách tất cả nhãn Glow của bạn",
+    "GLOWS_zero": "{{count}} Glow"
+}

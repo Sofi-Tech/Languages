@@ -4,7 +4,7 @@
     "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sur liste noire dans ce salon",
     "CATEGORY_DISABLED": "{{author}} Cette catégorie a été désactivée\nRaison: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Cette commande a été désactivée\nRaison: `{{reason}}`",
-    "REQUIRE_PERMISSIONS": "{{author}} Vous avez besoin de la permission: **{{permissions}}** pour effectuer cette commande",
+    "REQUIRE_PERMISSIONS": "{{author}} Vous avez besoin de la permission **{{permissions}}** pour utiliser cette commande",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendez **{{cooldown}}** avant d'utiliser cette commande à nouveau",
     "REGISTER_TO_PLAY": "{{author}} Veuillez utiliser la commande `{{prefix}}register` pour débuter votre voyage **Sofi**!",
     "COMPLETE_COMMAND": "{{author}} Complétez d'abord la commande `{{command}}`!",

@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "Con questo comando puoi assegnare un tag ad una carta. I tag sono una funzione utile per classificare e raggruppare più carte che soddisfano i tuoi criteri. Utilizzare il comando \"Tagcreate\" per creare tag",
+    "TAG_DESCRIPTION": "Con questo comando puoi assegnare un tag ad una carta. I tag sono una funzione utile per classificare e raggruppare più carte che soddisfano i tuoi criteri. Utilizza il comando \"{{prefix}}tagcreate\"\" per creare tags",
     "TAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso corretto: `{{prefix}}t <NomeDellaTag> <CodiceDellaCarta>`",
     "NO_TAGS_CREATED": "{{author}} Non hai ancora nessun tag. Usa il comando `{{prefix}}tc <NomeDellaTag> <Emoji>` per crearne uno",

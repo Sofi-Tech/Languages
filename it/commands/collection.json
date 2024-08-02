@@ -48,7 +48,7 @@
     "FILTER_DELETE": "Eliminare un Filtro",
     "FILTER_LIMIT": "{{author}} Non è possibile creare altri filtri",
     "FILTER_NAME_PROFANE": "{{author}} Il nome del tuo filtro non deve contenere linguaggio volgare",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Non è riuscito a trovare alcuna scheda corrispondente al filtro selezionato",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Non è riuscito a trovare alcuna carta corrispondente al filtro selezionato. Use `{{prefix}}help filter` comando per saperne di più su tutti i filtri disponibili",
     "EXPLAIN_FILTER": "{{author}} Ecco un diagramma di flusso per aiutarti a capire come funziona questo filtro",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} Non hai abbastanza **Silver** per salvare questo filtro",
     "ALL_UNTAG_SUCCESS_zero": "{{author}} Ha rimosso con successo il seguente tag dalla carta **{{count}}** `{{tagName}}`",

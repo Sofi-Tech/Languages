@@ -6,5 +6,7 @@
     "GLOWS_NOT_UNLOCKED": "{{author}} Hiện tại bạn không có bất kỳ **Glow** nào",
     "GLOW_TAG_INVALID": "{{author}} Bạn không có bất kỳ **Glow** nào gắn nhãn `{{tagname}}`",
     "INVALID_GLOW_SINGULAR": "{{author}} Mã **Glow** bạn cung cấp không tồn tại hoặc không có trong kho đồ của bạn",
-    "INVALID_GLOW_CODE": "{{author}} Có ít nhất một mã **Glow** bạn cung cấp không tồn tại hoặc không có trong kho đồ của bạn"
+    "INVALID_GLOW_CODE": "{{author}} Có ít nhất một mã **Glow** bạn cung cấp không tồn tại hoặc không có trong kho đồ của bạn",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** đã được gắn nhãn `{{tag}}` thành công",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tất cả **Glow** được chọn đã được gắn nhãn `{{tag}}`"
 }

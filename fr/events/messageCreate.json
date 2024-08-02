@@ -9,7 +9,7 @@
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Attendez **{{cooldown}}** avant de réutiliser une commande",
     "COMMAND_BLACKLISTED": "{{author}} La commande `{{commandName}}` est sur liste noire dans ce salon",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} J'ai besoin de: `{{permissions}}` pour exécuter cette commande",
-    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Vous avez besoin de: `{{permissions}}` pour utiliser cette commande",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Vous avez besoin de la permission **{{permissions}}** pour utiliser cette commande",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendez **{{cooldown}}** avant d'utiliser cette commande à nouveau",
     "REGISTER_USER": "{{author}} Utilisez la commande `{{prefix}}register` et visitez notre site pour vous faire vérifier",
     "USER_COMMAND_QUEUE": "{{author}} Complétez la commande `{{existsFor}}` avant de continuer",

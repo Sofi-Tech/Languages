@@ -1,3 +1,8 @@
 {
-    "INVALID_EMOJI": "{{author}} Emoji đó không hợp lệ"
+    "INVALID_EMOJI": "{{author}} Emoji đó không hợp lệ",
+    "GTC_CATEGORY": "Nhãn",
+    "CORRECT_USAGE": "{{author}} Cách sử dụng đúng `{{prefix}}gtc <TagName> <Emoji>`",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Bạn đã có một nhãn **Glow** với tên đó",
+    "CREATED_GLOWTAG": "{{author}} Đã tạo thành công nhãn **Glow** với tên `{{tag}}` | {{emoji}}",
+    "GLOWTAGCREATE_DESCRIPTION": "Với lệnh này, bạn có thể tạo một thẻ để phân loại và nhóm nhiều **Glow** theo cách của riêng bạn. Sử dụng lệnh \"{{prefix}}glowtag\" để gán các nhãn đã tạo cho **Glow** của bạn"
 }

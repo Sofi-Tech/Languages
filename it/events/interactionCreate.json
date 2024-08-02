@@ -7,7 +7,7 @@
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Il tuo Inventory contiene un valore negativo! Contatta gli sviluppatori nel nostro [Server di Supporto](https://discord.gg/sofi) per risolvere il problema",
     "VERIFY_TO_PLAY": "[Verificati sul nostro sito web per giocare!](<https://sofi.gg/verify>)",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Attendi **{{cooldown}}** prima di usare di nuovo questo comando",
-    "REQUIRE_PERMISSIONS": "{{author}} Hai bisogno di: **{{permissions}}** permessi per eseguire questo comando",
+    "REQUIRE_PERMISSIONS": "{{author}} Hai bisogno di: **{{permissions}}** permessi per usare questo comando",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Attendi **{{cooldown}}** prima di usare di nuovo questo comando",
     "REGISTER_TO_PLAY": "{{author}} Usa il comando `{{prefix}}register` per iniziare il tuo viaggio **Sofi**!",
     "COMPLETE_COMMAND": "{{author}} Completa prima il comando `{{command}}`!",

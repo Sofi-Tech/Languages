@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Usar este comando mostrará una lista de los personajes deseados por un usuario. Para agregar personajes a tu propia lista de deseados usa el comando \"Wishlistadd\"",
+    "WISHLIST_DESCRIPTION": "Usar este comando mostrará una lista de los personajes deseados por un usuario. Para agregar personajes a tu propia lista de deseados usa el comando \"{{prefix}}wishlistadd\"",
     "CATEGORY": "Lista de deseados",
     "USER_NOT_FOUND": "{{author}} No se ha podido encontrar a ese usuario",
     "WISHLIST_PRIVATE": "{{author}} La lista de deseados de ese usuario es privada",

@@ -3,5 +3,5 @@
     "PROVIDE_REMINDER_NAME": "{{author}} Utilizzo corretto: `{{prefix}}tr <Vote/Daily/Bump>`",
     "REMINDER_ENABLED": "{{author}} Ora riceverai una notifica quando il tuo **{{reminder}}** sarà pronto",
     "REMINDER_DISABLED": "{{author}} Non sarai più avvisato quando il tuo **{{reminder}}** sarà pronto",
-    "TOGGLEREMINDER_DESCRIPTION": "Con questo comando puoi cambiare lo stato dei tuoi promemoria. In alternativa, puoi anche utilizzare il comando \"Cooldown\" e fare clic sull'icona della campana"
+    "TOGGLEREMINDER_DESCRIPTION": "Con questo comando puoi cambiare lo stato dei tuoi promemoria. In alternativa, puoi anche utilizzare il comando \"{{prefix}}cooldown\" e fare clic sull'icona della campana"
 }

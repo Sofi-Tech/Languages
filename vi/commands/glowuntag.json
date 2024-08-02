@@ -1,3 +1,10 @@
 {
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Mã **Glow** luôn luôn bắt đầu bằng `#`"
+    "WRONG_GLOWCODE_FORMAT": "{{author}} Mã **Glow** luôn luôn bắt đầu bằng `#`",
+    "GLOWUNTAG_DESCRIPTION": "Sử dụng lệnh này để gỡ bỏ Glow khỏi một nhãn",
+    "GUT_CATEGORY": "Nhãn",
+    "INVALID_GLOWCODE": "{{author}} Mã **Glow** không hợp lệ hoặc không có trong kho đồ của bạn",
+    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Gỡ thành công nhãn khỏi **{{glow}}** Glow của bạn",
+    "NO_GLOWS_FOUND": "{{author}} Hiện tại bạn không có bất kỳ **Glow** nào",
+    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Các mã **Glow** sau đây không hợp lệ hoặc không có trong kho đồ của bạn:\n{{invalidCodeList}}",
+    "GLOW_UNTAG_PLURAL": "{{author}} Gỡ thành công nhãn khỏi **{{count}}** Glows của bạn"
 }
