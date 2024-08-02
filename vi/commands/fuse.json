@@ -41,5 +41,8 @@
     "FUSION_EMBED_FOOTER": "Bạn có 0.5% tỷ lệ nhận được thẻ animated từ việc pulls",
     "EQUIPMENT_MODAL_LABEL": "Nhập số lượng {{equipmentType}}",
     "NOT_ENOUGH_EQUIPMENT": "Bạn cần **{{needAmount}} {{needTier}} {{needEquipmentType}}s** để làm **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
-    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Bạn cần **{{needAmount}} {{needTier}} {{needEquipmentType}}s** và **{{ingotsAmount}}** {{emoji}} để làm **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**"
+    "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Bạn cần **{{needAmount}} {{needTier}} {{needEquipmentType}}s** và **{{ingotsAmount}}** {{emoji}} để làm **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
+    "EQUIPMENT_FUSION_SUCCESS": "Kết hợp Trang Bị đã được thực hiện thành công\n{{moreInfo}}",
+    "MISSING_ELIXIR": "Bạn không có đủ **Elixir**",
+    "VERSION_UPGRADE_FAILED": "Nâng cấp **Version** thất bại, hãy thử lại"
 }
