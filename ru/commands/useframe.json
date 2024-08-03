@@ -1,5 +1,5 @@
 {
-    "USEFRAME_DESCRIPTION": "Данная команда применит указанную Frame к вашей карте. Вы можете купить Frames, используя команду \"Frameshop\"",
+    "USEFRAME_DESCRIPTION": "Данная команда применит указанную Frame к вашей карте. Вы можете покупать Frames, используя команду \"{{prefix}}frameshop\"",
     "UF_CATEGORY": "Косметика",
     "UF_INVALID_USAGE": "{{author}} Правильное использование: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
