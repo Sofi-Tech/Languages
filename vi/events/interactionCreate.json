@@ -13,7 +13,7 @@
     "COMMAND_DISABLED": "{{author}} Lệnh này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMPLETE_COMMAND": "{{author}} Hoàn thành lệnh `{{command}}` trước đã!",
     "REQUIRE_PERMISSIONS": "{{author}} Bạn phải có quyền **{{permissions}}** để sử dụng lệnh này",
-    "VERIFY_TO_PLAY": "[Xác minh bản thân bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)",
+    "VERIFY_TO_PLAY": "[Xác minh thông tin của bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)",
     "COMMAND_RUN_ERROR": "{{author}} Đã xảy ra lỗi khi cố gắng thực hiện lệnh này. Vui lòng thử lại",
     "VERSION_ACCEPTED": "**Phiên Bản** của bạn cho **{{charName}}** từ **{{seriesName}}** đã được chấp nhận. **3** <a:wist_spin:973031140581580820> đã được thêm vào kho đồ của bạn",
     "APPEAL_ACCEPTED": "# __Khiếu nại của bạn đã được chấp nhận!__\n- Vui lòng tham gia [Máy chủ Hỗ trợ chính thức](https://discord.gg/XPsQKJjeD7) của chúng tôi và tạo một phiếu yêu cầu trong kênh https://discord.com/channels/863226120245215262/959176115723837530 để tiến hành giải quyết trường hợp của bạn.\n- Một nhân viên sẽ hỗ trợ bạn càng sớm càng tốt. Vui lòng không gửi tin nhắn trực tiếp hoặc đề cập các nhân viên trong bất kỳ kênh nào liên quan đến phiếu yêu cầu của bạn. Vi phạm quy tắc này có thể dẫn đến việc bị đình chỉ vĩnh viễn khỏi dịch vụ và Máy chủ Discord của chúng tôi",
