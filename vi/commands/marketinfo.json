@@ -1,3 +1,16 @@
 {
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Sẵn có: `{{stockAmount}}` {{stockEmoji}} | : `{{rateAmount}}` {{rateEmoji}}"
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Sẵn có: `{{stockAmount}}` {{stockEmoji}} | Tỷ lệ: `{{rateAmount}}` {{rateEmoji}}",
+    "MARKETINFO_DESCRIPTION": "Sử dụng lệnh này sẽ hiển thị đơn hàng thị trường hiện tại của bạn. Bạn cũng có thể thêm ID của một đơn hàng hiện có vào lệnh để nhận thông tin chi tiết về đơn hàng đó",
+    "INVALID_DEAL_ID": "{{author}} Order-ID bạn cung cấp không hợp lệ",
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO",
+    "TRADER": "Người giao dịch",
+    "DEAL_ID": "Mã đơn hàng",
+    "PRODUCT": "Sản phẩm",
+    "VALUE": "Giá trị",
+    "RATE": "Tỷ lệ",
+    "LISTED": "Đã liệt kê",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
+    "NO_LISTINGS_FOUND": "{{user}} Hiện tại bạn không có bất kỳ đơn hàng nào trên thị trường",
+    "INFO": "Sử dụng lệnh `{{prefix}}mul <Order-ID>` để xóa đơn hàng của bạn khỏi thị trường",
+    "FOOTER": "Hiển thị kết quả từ {{page}}-{{pages}} của {{total}} | {{prefix}}mbuy <Order-ID> <Amount>"
 }

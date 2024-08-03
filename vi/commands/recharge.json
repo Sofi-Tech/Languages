@@ -1,3 +1,14 @@
 {
-    "GLOW_NOT_FOUND": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn"
+    "GLOW_NOT_FOUND": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
+    "RECHARGE_CONFIRMATION": "Bạn có chắc chắn muốn nạp lại **Glow** này không?\n\nTên: **{{name}}**\nMã: `{{glowCode}}`\nChi phí: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "NO_GLOWCDE": "{{author}} Cách sử dụng đúng: `{{prefix}}rg <#GlowCode>`",
+    "RECHARGE_DESCRIPTION": "Sử dụng lệnh này để sạc lại một Glow rỗng. Quy trình này đòi hỏi một Recharge, có thể mua từ cửa hàng",
+    "RG_CATEGORY": "Mỹ phẩm",
+    "UNLOCK_GLOWS": "{{author}} Bạn chưa có bất kỳ **Glow** nào",
+    "INVALID_DC_MOVIES": "{{author}} Mã **Glow** luôn bắt đầu bằng ký tự `#`",
+    "GLOW_AVAILABLE": "{{author}} Glow đó đã được nạp đầy rồi",
+    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+    "NO_MONEY": "{{author}} Bạn không có đủ **Recharge** cho quy trình này!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Đã nạp lại Glow {{glowName}} của bạn thành công!",
+    "SUPER_RECHARGE_CONFIRMATION": "Bạn có chắc chắn muốn nạp lại **Glow** này không?\n\nTên: **{{name}} (Super)**\nMã: `{{glowCode}}`\nChi phí: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

@@ -1,3 +1,8 @@
 {
-    "CATEGORY": "Danh sách yêu thích"
+    "CATEGORY": "Danh sách yêu thích",
+    "WISHLISTLB_DESCRIPTION": "Lệnh này sẽ tạo ra một bảng xếp hạng nhúng cho các nhân vật được yêu thích nhất trên Sofi",
+    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+    "EMBED_FOOTER": "Đang hiển thị trang: {{page}}/{{pages}}",
+    "CHARACTER_BUTTON_LABEL": "Nhân vật",
+    "SERIES_BUTTON_LABEL": "Bộ"
 }

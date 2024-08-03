@@ -9,7 +9,7 @@
     "MEM_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
     "SLASH_DESC2": "Nhập mã thẻ bạn muốn tặng",
     "GIVE_DESCRIPTION": "Với lệnh này, bạn có thể trực tiếp tặng thẻ từ bộ sưu tập của mình cho người chơi khác",
-    "AUTHOR_BLACKLISTED": "{{author}} Bạn bị đưa vào danh sách đen",
+    "AUTHOR_BLACKLISTED": "{{author}} Bạn đã bị cấm",
     "AUTHOR_QUARANTINED": "{{author}} Bạn đang bị cách ly",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}g <@User/UserID> <CardCode>`",
     "CARD_LOCKED": "{{author}} Thẻ này đang bị khóa và không thể tặng! Sử dụng lệnh`{{prefix}}ut <CardCode>` để mở khóa thẻ",

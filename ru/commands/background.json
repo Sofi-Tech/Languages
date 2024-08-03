@@ -1,5 +1,5 @@
 {
-    "BACKGROUND_DESCRIPTION": "Как только карта была преобразована в ее 3D версию, вы можете использовать данную команду для применения к карте Background. Backgrounds могут быть приобретены в \"Backgroundshop\"",
+    "BACKGROUND_DESCRIPTION": "Как только карта была преобразована в ее 3D версию, вы можете использовать данную команду для применения к карте Background. Используйте команду \"{{prefix}}backgroundshop\" для покупки Backgrounds",
     "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <CardCode> <Background-ID>`",
     "BG_CATEGORY": "Косметика",
     "EMBED_TITLE": "SOFI: BACKGROUND",

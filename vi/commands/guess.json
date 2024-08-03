@@ -13,5 +13,5 @@
     "INFO_3": "Tổng giải thưởng: **{{jackpot}}** {{currencyEmoji}}",
     "NO_TP": "{{author}} Bạn cần phải có một **Trade Pass** đang hoạt động để tổ chức trò chơi đoán chữ",
     "NO_TP_2": "{{author}} Bạn cần có một **Trade Pass** đang hoạt động để tham gia!",
-    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}guess <Amount> <Currency>`\nVật Phẩm được chấp nhận: **Silver**, **Wists**, **Gems**, **Cubes**"
+    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}guess <Số lượng> <Loại tài nguyên>`\nVật Phẩm được chấp nhận: **Silver**, **Wist**, **Gem**, **Cube**"
 }

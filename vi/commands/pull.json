@@ -1,3 +1,18 @@
 {
-    "PULL_DESCRIPTION": "Với lệnh này, bạn có thể sử dụng Wist và Gems của mình để nhận các vật phẩm khác nhau. Ngoài ra còn có cơ hội nhận được thẻ GIF"
+    "PULL_DESCRIPTION": "Với lệnh này, bạn có thể sử dụng Wist và Gems của mình để nhận các vật phẩm khác nhau. Ngoài ra còn có cơ hội nhận được thẻ GIF",
+    "ACTIVE_POOL": "**Tập Hợp Hiện Có**",
+    "AMOUNT": "Bạn đã nhận được: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
+    "PULL_AMT": "{{author}} Cách sử dụng đúng: `{{prefix}}pull <1/10>`",
+    "INFO_2": "Mỗi nhân vật có tối đa **100** biến thể **GIF**",
+    "INFO_3": "Đốt **Fragments** để nhận **Charms**",
+    "RATES": "Tỷ lệ",
+    "GIFS": "GIFs",
+    "PULLS": "SOFI: PULLS",
+    "PULL_CHANCES": "**__Xác suất__**",
+    "MISSING_CURR": "{{user}} Bạn không có đủ **{{currName}}** để thực hiện quy trình này",
+    "GIF_CHANCE": "Rút và có cơ hội nhận được thẻ GIF",
+    "PULL_COUNT": "Số lần rút: [ {{count}} ]",
+    "PULL_COUNT_WIST": "Số lần rút: [ {{pullcount}} ]",
+    "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
+    "GIF_EMBED_FOOTER": "Bạn có 0.5% cơ hội nhận được một ảnh động từ việc rút"
 }

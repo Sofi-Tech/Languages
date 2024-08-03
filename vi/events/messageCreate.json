@@ -7,5 +7,18 @@
     "COMMAND_COOLDOWN": "{{author}}[`{{command}}`] Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
     "CATEGORY_DISABLED": "{{author}} Danh Mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Lệnh này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
-    "VERIFY_TO_PLAY": "[Xác minh bản thân bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)"
+    "VERIFY_TO_PLAY": "[Xác minh bản thân bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)",
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể dẫn đến điều này:**\n```CSS\n- Tương tác với Sofi trên nhiều tài khoản\n- Bán hoặc mua toàn bộ tài khoản Discord\n- Lừa đảo người dùng khác\n- Tận dụng hoặc liên quan đến bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại về việc bị đưa vào danh sách đen](https://sofi.gg/appeal)\n:link: [Máy chủ Hỗ trợ](https://discord.gg/sofi)",
+    "MENTION_ERROR": "{{author}} Sử dụng prefix máy chủ `{{prefix}}` hoặc `/` để sử dụng các lệnh",
+    "RATE_LIMIT_ERROR": "{{author}} Do hoạt động mật độ cao, giới hạn tốc độ đã đạt đến! Vui lòng đợi.",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Kho đồ của bạn có giá trị âm. Vui lòng liên hệ chúng tôi qua [Máy chủ Hỗ trợ](https://discord.gg/sofi)",
+    "GLOBAL_COOLDOWN": "{{author}} [`Toàn cầu`] Vui lòng chờ **{{cooldown}}** trước khi sử dụng lệnh tiếp theo",
+    "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Tôi cần: `{{permissions}}` để thực hiện lệnh này",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Bạn cần quyền **{{permissions}}** để sử dụng lệnh này",
+    "REGISTER_USER": "{{author}} Sử dụng lệnh `{{prefix}}register` và truy cập vào trang web của chúng tôi để xác minh thông tin của bạn",
+    "USER_COMMAND_QUEUE": "{{author}} Hoàn thành lệnh `{{existsFor}}` trước khi tiếp tục",
+    "AUTHOR_COMMAND_QUEUE": "{{author}} Hoàn thành lệnh `{{existsFor}}` trước khi tiếp tục",
+    "SAFE_MODE": "{{author}} **Sofi** hiện đang ở chế độ an toàn! Thời gian dự kiến hoàn thành (ETA): **{{eta}}**\nChúng tôi xin lỗi vì sự bất tiện này và mong bạn thông cảm!",
+    "NO_PERMISSIONS": "{{author}} Tôi không có đủ quyền để thực hiện lệnh này",
+    "SERIES_DROP": "Cuộc bỏ phiếu đã kết thúc!"
 }

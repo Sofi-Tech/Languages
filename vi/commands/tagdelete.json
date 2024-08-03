@@ -1,1 +1,11 @@
-{}
+{
+    "TAGDELETE_DESCRIPTION": "Sử dụng lệnh này để xóa một nhãn",
+    "TD_CATEGORY": "Nhãn",
+    "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}dt <TagName>`",
+    "TAG_NOT_FOUND": "{{author}} Bạn không có bất kỳ nhãn nào có tên `{{arg}}`",
+    "TAG_DELETE_CONFIRM": "{{author}} Bạn chắc chắn muốn xóa nhãn `{{tagname}}` chứ?",
+    "TAG_DELETE_CONFIRM_YES": "Có",
+    "TAG_DELETE_CONFIRM_NO": "Không",
+    "TAG_DELETE_CANCEL": "{{author}} Quá trình đã bị hủy",
+    "SUCCESSFUL_DELETE_TAG": "{{author}} Đã xóa thành công một nhãn có tên `{{tag}}`"
+}

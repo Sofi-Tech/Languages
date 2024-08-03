@@ -1,1 +1,11 @@
-{}
+{
+    "UNLOCKGLOW_DESCRIPTION": "Tạo ra một Glow ngẫu nhiên. Bạn có thể sử dụng Glow để thêm hiệu ứng phát sáng vào viền khung của thẻ, thay đổi màu sắc của văn bản trên thẻ hoặc thay đổi màu sắc trong hồ sơ của bạn.",
+    "GLOW_INFO": "Tên: **{{glowName}}**\nMã: **`#{{glowCode}}`**\nChất lượng cao: **{{purity}}%**",
+    "UG_CATEGORY": "Mỹ phẩm",
+    "EMBED_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_CONFIRM": "{{author}} Bạn có chắc chắn muốn mua một **Glow** ngẫu nhiên với giá **100** {{currency}} không?",
+    "CANCELLED_UNLOCK_GLOW": "Quá trình đã bị hủy bỏ",
+    "NOT_ENOUGH_GEMS": "{{author}} Bạn không có đủ **Gems**",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Đã mua thành công một **Glow**"
+}

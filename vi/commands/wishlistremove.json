@@ -1,3 +1,8 @@
 {
-    "CATEGORY": "Danh sách yêu thích"
+    "CATEGORY": "Danh sách yêu thích",
+    "NO_INDEX": "{{author}} Cách sử dụng đúng: `{{prefix}}wr <Name/Number>`. Sử dụng lệnh `{{prefix}}wr full reset` để xóa toàn bộ danh sách yêu thích của bạn",
+    "WISHLISTREMOVE_DESCRIPTION": "Sử dụng lệnh này để xóa một nhân vật khỏi danh sách yêu thích của bạn",
+    "FULL_RESET": "{{author}} Đã xóa thành công tất cả các nhân vật khỏi danh sách yêu thích của bạn",
+    "REMOVE_CHARACTER": "{{author}} Đã xóa thành công **{{name}}** khỏi danh sách yêu thích của bạn",
+    "NO_RESULTS": "{{author}} Không có nhân vật nào có tên là `{{name}}` trong danh sách yêu thích của bạn"
 }

@@ -1,1 +1,21 @@
-{}
+{
+    "TAGUPDATE_DESCRIPTION": "Sử dụng lệnh này để cập nhật tên hoặc biểu tượng của một nhãn",
+    "TU_CATEGORY": "Nhãn",
+    "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}tu <TagName>`",
+    "TAG_NOT_FOUND": "{{author}} Không tìm thấy nhãn nào với tên `{{tag}}`",
+    "BUTTON_NAME_LABEL": "Tên",
+    "BUTTON_EMOJI_LABEL": "Biểu tượng",
+    "EMBED_TITLE": "SOFI: UPDATE TAG",
+    "EMBED_DESCRIPTION": "Bạn muốn cập nhật phần nào của nhãn `{{tagName}}`?",
+    "REPLACE_NAME": "Nhập tên mới để thay thế `{{tagName}}`",
+    "TAGNAME_EXISTS": "{{author}} Bạn đã có một nhãn với tên `{{newTagName}}`",
+    "WRONG_TAGNAME_FORMAT": "{{author}} Tên của nhãn phải là chữ và số, không được chứa ký tự đặc biệt, khoảng trắng hoặc từ ngữ tục tĩu",
+    "TAGNAME_LONG": "{{author}} Tên của nhãn chỉ có thể dài tối đa **20** ký tự",
+    "REPLACE_NAME_CONFIRMATION": "Bạn có chắc chắn muốn đổi tên nhãn này từ `{{oldTag}}` thành `{{newTag}}` không?",
+    "REPLACE_NAME_SUCCESSFUL": "{{author}} Đã thay đổi tên nhãn của bạn từ `{{oldTag}}` thành `{{newTag}}` thành công",
+    "PROCESS_TERMINATED": "Quá trình đã bị hủy",
+    "REPLACE_EMOJI": "Nhập emoji mà bạn muốn thay thế {{emoji}} bằng",
+    "WRONG_TAGEMOJI_FORMAT": "{{author}} Đó là một emoji không hợp lệ",
+    "REPLACE_EMOJI_CONFIRMATION": "Bạn có chắc chắn muốn thay đổi emoji của nhãn này từ {{oldEmoji}} thành {{newEmoji}} không?",
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Đã cập nhật emoji của nhãn này từ {{oldEmoji}} thành {{newEmoji}} thành công"
+}

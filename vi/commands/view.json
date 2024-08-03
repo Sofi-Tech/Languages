@@ -2,8 +2,14 @@
     "SLASH_DESC1": "Nhập code của thẻ",
     "INFO_BUTTON_LABEL": "Thông tin",
     "NAME": "Tên:",
-    "OWNED_BY": "Chủ sở hữu:",
+    "OWNED_BY": "Sở hữu bởi:",
     "SERVER": "ID Máy chủ:",
     "CLAIMED": "Nhận vào ngày:",
-    "SERIES": "Series:"
+    "SERIES": "Bộ:",
+    "VIEW_DESCRIPTION": "Lệnh này sẽ hiển thị hình ảnh của một thẻ cụ thể. Sử dụng lệnh này mà không có mã thẻ để thay vào đó hiển thị thẻ mới nhất mà bạn nhận được",
+    "INVALID_CODE": "{{author}} Mã thẻ đó không hợp lệ",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "MOVES": "Khả năng",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Sức mạnh **({{percentage}}%)**",
+    "SPECIAL": "Đặc biệt"
 }

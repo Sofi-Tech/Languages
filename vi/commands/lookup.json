@@ -3,10 +3,17 @@
     "NAME": "Tên:",
     "CHAR_NF_SENSITIVE": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`\n\n```fix\nLưu ý: Sử dụng `-f` sẽ phân biệt giữa chữ hoa và chữ thường!\n```",
     "WISHLISTED": "Yêu thích",
-    "SERIES": "Series:",
+    "SERIES": "Bộ:",
     "NO_OWNER_FOUND": "Chưa có ai sỡ hữu phiên bản **2D** của nhân vật này",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "GIF_LABEL": "GIF",
     "VERSIONS": "Versions",
-    "EVENT": "Sự Kiện"
+    "EVENT": "Sự Kiện",
+    "LOOKUP_DESCRIPTION": "Bạn có thể tìm kiếm bất kỳ nhân vật nào bạn muốn với lệnh này. Bản nhúng sẽ hiển thị các phiên bản khác nhau và các Version cũng như Sự Kiện của nhân vật đó",
+    "SUBMITTED": "Được yêu cầu bởi: <@{{userID}}>",
+    "EMBED_FOOTER": "Bạn có thể gửi các Version mới bằng cách sử dụng lệnh {{prefix}}sc",
+    "MORE": "Chọn một tùy chọn",
+    "MULTI": "Đa số",
+    "EVENTS": "Sự Kiện",
+    "UPCOMING_EVENT": "Sự kiện sắp tới"
 }

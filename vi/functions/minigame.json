@@ -1,4 +1,6 @@
 {
     "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đang được sử dụng. Còn lại **{{remaining}}** lần",
-    "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để lấy thẻ khác"
+    "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để lấy thẻ khác",
+    "EMBED_TITLE": "SOFI: MINIGAME",
+    "CLAIMED_CARD": "{{user}} đã thắng thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

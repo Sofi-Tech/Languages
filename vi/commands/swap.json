@@ -1,1 +1,24 @@
-{}
+{
+    "SWAP_DESCRIPTION": "Lệnh này có thể được sử dụng để hoán đổi các vật phẩm trang trí giữa 2 thẻ với nhau",
+    "SWAP_CATEGORY": "Mỹ phẩm",
+    "MENU_FRAME_LABEL": "Frame",
+    "MENU_GENCOLOR_LABEL": "Màu Gen",
+    "MENU_NAMECOLOR_LABEL": "Tên Màu",
+    "MENU_SERIESCOLOR_LABEL": "Màu Series",
+    "MENU_LAYER_LABEL": "Lớp",
+    "MENU_COLOR_LABEL": "Màu Font",
+    "MENU_MORPH_LABEL": "Morph",
+    "MENU_GLOW_LABEL": "Glow",
+    "MENU_BG_LABEL": "Background",
+    "PROVIDE_CODES": "{{author}} Cách sử dụng đúng: `{{prefix}}swap <Code1> <Code2>`",
+    "INVAILD_CODE": "{{author}} Ít nhất một trong các mã thẻ bạn cung cấp là không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "NO_GIF": "{{author}} Bạn không thể sử dụng chức năng này trên thẻ **GIF**",
+    "NO_COSMETICS": "{{author}} Các thẻ của bạn không có lớp trang trí nào đủ điều kiện để hoán đổi",
+    "MENU_FEATURES_PLACEHOLDER": "Chọn một tùy chọn",
+    "EMBED_TITLE": "SOFI: SWAP",
+    "EMBED_FOOTER": "Quá trình này sẽ tiêu tốn một Swap Token",
+    "SWAPS_CHOSEN": "Bạn có chắc chắn muốn hoán đổi các lớp trang trí sau đây không?\n",
+    "MISSING_SWAP_TOKEN": "{{author}} Bạn thiếu **Swap Token** để thực hiện quá trình này",
+    "DOES_NOT_WORK": "{{author}} Bạn không nên cố gắng khai thác lỗi. Nếu bạn phát hiện lỗi có thể bị khai thác, vui lòng báo cáo trực tiếp cho Nhân viên Sofi!",
+    "SWAP_SUCCESSFUL": "{{author}} Đã hoán đổi thành công các lớp trang trí đã chọn"
+}

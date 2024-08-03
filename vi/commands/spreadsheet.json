@@ -1,1 +1,9 @@
-{}
+{
+    "SPREADSHEET_DESCRIPTION": "Khi sử dụng lệnh này, Sofi sẽ tạo ra một tệp .csv chứa thông tin về tất cả các thẻ trong bộ sưu tập của bạn. Bạn cũng có thể nhận được một tệp .csv chi tiết về Guild của bạn bằng cách thêm tham số \"Guild\" vào lệnh của bạn",
+    "SHEET_CATEGORY": "Cài đặt",
+    "NO_GUILD_INFO": "{{author}} Hiện tại bạn không có trong một **Guild** nào",
+    "NO_VAULT_LOGS": "{{author}} Hiện tại không có bản ghi lô của két nào",
+    "DM_FILE": "{{author}} Một tệp .csv đã được gửi đến bạn qua tin nhắn trực tiếp.\n\n> **Lưu ý**: Khi nhập tệp vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt bộ phân cách là \"dấu phẩy\"!",
+    "CANNOT_DM": "{{author}} Không thể gửi cho bạn tệp bảng tính. Hãy đảm bảo rằng tin nhắn trực tiếp của bạn đang mở!",
+    "NO_COLLECTION": "{{author}} Bạn không có bất kỳ thẻ nào trong bộ sưu tập"
+}
