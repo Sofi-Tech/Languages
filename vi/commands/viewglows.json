@@ -5,7 +5,7 @@
     "SUPER": "Super",
     "SORT_BUTTON_LABEL": "Sắp xếp",
     "EMBED_TITLE": "SOFI: VIEW GLOW",
-    "EMBED_FOOTER": "Hiển thị trang: {{page}}/{{totalPages}} | Tổng cộng: {{count}}",
+    "EMBED_FOOTER": "Trang: {{page}}/{{totalPages}} | Tổng cộng: {{count}}",
     "CANNOT_FIND_GLOW": "{{author}} Không tìm thấy **Glow** nào với mã `{{glowCode}}`",
     "INVALID_USER": "{{author}} Không tìm thấy người dùng đó",
     "EMBED_GLOW_TITLE": "SOFI: VIEW GLOW",

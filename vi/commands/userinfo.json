@@ -1,7 +1,7 @@
 {
     "UI_ATTACKS": "Số lần tấn công",
     "UI_GIVEN": "Đã cho",
-    "USER_IS_BOT": "{{author}} Người dùng đó là 'BOT' Discord",
+    "USER_IS_BOT": "{{author}} Người dùng đó là `BOT` Discord",
     "USER_NOT_REGISTERED": "{{author}} Người dùng đó chưa đăng kí",
     "USER_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
     "USER_INFO": "__Thông tin người dùng__",
@@ -38,7 +38,7 @@
     "UI_BLACKLISTED": "Danh sách đen",
     "UI_QUARANTINED": "Bị cách ly",
     "UI_UNVERIFIED": "Chưa xác minh",
-    "EMBED_AUTHOR": "SOFI: THÔNG TIN NGƯỜI DÙNG ({{username}} - {{status}})",
+    "EMBED_AUTHOR": "SOFI: USERINFO ({{username}} - {{status}})",
     "EMBED_FOOTER": "Đã đăng ký: {{date}} trước",
     "UI_GAMES": "Trò chơi",
     "UI_GAME_BLACKLISTED": "- Bị đưa vào danh sách đen: {{formattedDate}}",
