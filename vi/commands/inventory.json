@@ -12,7 +12,7 @@
     "RAID": "Raid",
     "PROFILE_BACKGROUND": "Phông Nền Hồ Sơ",
     "PROFILE_RING": "Nhẫn Hồ Sơ",
-    "EMBED_AUTHOR": "SOFI: KHO ĐỒ ({{username}})",
+    "EMBED_AUTHOR": "SOFI: INVENTORY ({{username}})",
     "SELF_INV_EMPTY": "{{author}} Kho đồ của bạn trống",
     "USER_INV_EMPTY": "{{author}} Kho đồ của người đó trống",
     "NO_FRAMES_FOUND": "Không tìm thấy bất kỳ **Khung** nào",
@@ -27,12 +27,12 @@
     "FRAME_CATEGORY_PACK": "Gói",
     "FRAME_CATEGORY_DISCONTINUED": "Ngưng Phát Hành",
     "INVENTORY_DESCRIPTION": "Dùng lệnh này sẽ hiển thị kho đồ của 1 người chơi",
-    "NO_BG_FOUND": "Không tìm thấy bất kì **Phông Nền** nào",
+    "NO_BG_FOUND": "Không tìm thấy bất kỳ **Phông Nền** nào",
     "NO_PRING_FOUND": "Không tìm thấy bất kỳ **Nhẫn Hồ Sơ** nào",
     "FRAME_CATEGORY_SELECT_PLACEHOLDER": "Chọn một Danh Mục dành cho Khung",
     "INV_PRIVATE": "{{author}} Kho đồ của người đó đang ở chế độ riêng tư",
     "SLASH_DESC": "Chọn một người để xem kho đồ của họ",
     "NO_ITEMS_INVENTORY": "Không thể tìm thấy bất kỳ vật phẩm nào",
-    "NO_RAID_ITEMS": "Không thể tìm thấy bất kì vật phẩm Raid nào",
+    "NO_RAID_ITEMS": "Không thể tìm thấy bất kỳ vật phẩm Raid nào",
     "NO_ITEM_FOUND": "{{author}} Không tìm thấy vật phẩm đó trong kho đồ của bạn"
 }

@@ -1,9 +1,9 @@
 {
-    "UNTAG_DESCRIPTION": "Sử dụng lệnh này để xóa tag khỏi card của bạn. Nếu bạn muốn xóa toàn bộ một tag, bạn có thể sử dụng lệnh \"{{prefix}}tagdelete\" thay thế",
+    "UNTAG_DESCRIPTION": "Sử dụng lệnh này để xóa tag khỏi thẻ của bạn. Nếu bạn muốn xóa toàn bộ một tag, bạn có thể sử dụng lệnh \"{{prefix}}tagdelete\" thay thế",
     "UT_CATEGORY": "Tags",
-    "UT_EMPTY_COLLECTION": "{{author}}Bạn chưa có cards nào trong bộ sưu tập của mình",
-    "INVALID_CODE": "{{author}} Card code đó không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "UNTAG_SUCCESSFUL": "{{author}} Đã xóa thành công tag ** {{cardName}}** khỏi card của bạn",
-    "MULTIPLE_UNTAG": "{{author}} Đã xóa thành công tag **{{count}}** khỏi cards của bạn",
-    "INVALID_CODE_MULTIPLE": "{{author}} Card codes sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
+    "UT_EMPTY_COLLECTION": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
+    "INVALID_CODE": "{{author}} Mã thẻ không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "UNTAG_SUCCESSFUL": "{{author}} Đã xóa thành công tag cho thẻ ** {{cardName}}** của bạn",
+    "MULTIPLE_UNTAG": "{{author}} Thành công xóa tag cho **{{count}}** thẻ của bạn",
+    "INVALID_CODE_MULTIPLE": "{{author}} Mã thẻ sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
 }
