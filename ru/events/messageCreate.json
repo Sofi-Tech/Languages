@@ -9,7 +9,7 @@
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Подождите **{{cooldown}}**, прежде чем снова использовать команды",
     "COMMAND_BLACKLISTED": "{{author}} Команда `{{commandName}}` занесена в черный список данного канала",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Мне необходимы права: `{{permissions}}`, чтобы выполнить данную команду",
-    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Вам необходимы права: `{{permissions}}` для использования данной команды",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Для использования данной команды вам требуются следующие права: **{{permissions}}**",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Подождите **{{cooldown}}**, прежде чем снова использовать данную команду",
     "REGISTER_USER": "{{author}} Используйте команду `{{prefix}}register` и перейдите на наш сайт для проверки",
     "USER_COMMAND_QUEUE": "{{author}} Завершите `{{existsFor}}`, прежде чем продолжить",
