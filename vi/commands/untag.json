@@ -3,7 +3,7 @@
     "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
     "INVALID_CODE": "{{author}} Mã thẻ không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "UNTAG_SUCCESSFUL": "{{author}} Đã xóa thành công tag cho thẻ ** {{cardName}}** của bạn",
-    "MULTIPLE_UNTAG": "{{author}} Thành công xóa tag cho **{{count}}** thẻ của bạn",
+    "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ thành công nhãn khỏi thẻ ** {{cardName}}** của bạn",
+    "MULTIPLE_UNTAG": "{{author}} Đã gỡ thành công nhãn khỏi **{{count}}** thẻ của bạn",
     "INVALID_CODE_MULTIPLE": "{{author}} Mã thẻ sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
 }
