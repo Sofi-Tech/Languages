@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Acquista \"Wists\" dal mercato in cambio di \"Gems\"",
+    "MARKETBUY_DESCRIPTION": "Utilizzando questo comando in combinazione con un Order-ID dal market seguito da un importo, si aprirà una transazione incorporata per acquistare Wist da un altro giocatore. Utilizza il comando \"{{prefix}}market\" per visualizzare tutti gli ordini disponibili",
     "CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}mbuy <IDdelOfferta> <QuantitàdelWist>`",
     "INVALID_DEAL_ID": "{{author}} L'ID ordine che hai fornito non è valido",
     "CANNOT_PURCHASE": "{{user}} Non puoi interagire con questo ordine",

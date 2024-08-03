@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Questo comando visualizzerà l'intera raccolta, che potrà quindi essere ordinata e filtrata in vari modi. Utilizzando questo comando con richieste aggiuntive si aprirà l'incorporamento con il filtro specifico già applicato. Utilizza il prompt \"t:ut\" in aggiunta a questo comando per evidenziare tutte le carte nella tua collezione che attualmente non hanno un tag",
+    "COLLECTION_DESCRIPTION": "Questo comando visualizzerà l'intera raccolta, che potrà quindi essere ordinata e filtrata in vari modi. Utilizzando questo comando con richieste aggiuntive si aprirà l'incorporamento con il filtro specifico già applicato. Utilizza il prompt \"t:ut\" in aggiunta a questo comando per evidenziare tutte le carte nella tua collezione che attualmente non hanno un tag. Utilizza il comando \"{{prefix}}help filter\" per vedere tutti i filtri disponibili",
     "SLASH_CMD_DESC": "Visualizza la tua collezione di carte",
     "SLASH_DESC": "Seleziona un utente per vedere la sua collezione",
     "SLASH_DESC2": "Inserisci il filtri che vuoi applicare alla collezione",

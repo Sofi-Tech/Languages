@@ -1,5 +1,5 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Con questo comando puoi creare un tag per classificare e raggruppare più bagliori che soddisfano i tuoi criteri. Utilizza il comando \"Glowtag\" per assegnare i tag creati ai tuoi Glows",
+    "GLOWTAGCREATE_DESCRIPTION": "Con questo comando puoi creare un tag per classificare e raggruppare più Glows che soddisfano i tuoi criteri. Utilizza il comando \"{{prefix}}glowtag\" per assegnare i tag creati ai tuoi Glows",
     "GTC_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Uso corretto: `{{prefix}}gtc <NomeDelTag> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Quell'emoji non è valida",

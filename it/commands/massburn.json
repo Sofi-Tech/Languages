@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Brucia una moltitudine di carte subito",
+    "MASSBURN_DESCRIPTION": "Usa questo comando per bruciare più carte contemporaneamente. Aggiungendo i filtri Gen/Tag/Whishlist, puoi specificare quali carte vuoi bruciare",
     "IN_ACTIVE_MB": "{{user}} Non è possibile avviare un nuovo **Massburn** mentre uno vecchio è ancora attivo",
     "PROVIDE_FILTERS": "{{author}} Corretto uso: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Puoi trovare una comprensiva lista di filtri con il comando {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Non è riuscito a trovare alcun tag con il nome:`{{arg}}`",

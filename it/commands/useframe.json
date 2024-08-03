@@ -1,5 +1,5 @@
 {
-    "USEFRAME_DESCRIPTION": "Questo comando applicherà Frame selezionata a una carta a scelta. Puoi acquistare Frames utilizzando il comando \"Frameshop\"",
+    "USEFRAME_DESCRIPTION": "Questo comando applicherà una Frame selezionata a una carta a scelta. Puoi acquistare frame utilizzando il comando \"{{prefix}}frameshop\".",
     "UF_CATEGORY": "Cosmetici",
     "UF_INVALID_USAGE": "{{author}} Uso corretto: `{{prefix}}uf <CodiceDellaCarta> <NomeDellaFrame/CodiceDellaFrame>`",
     "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",

@@ -6,7 +6,7 @@
     "BG_NOT_FOUND": "{{author}} Impossibile trovare alcun sfondo con quell'ID",
     "EMBED_TITLE": "SOFI: BACKGROUND",
     "USER_NO_BG": "{{author}} Non hai quello **Background**",
-    "BACKGROUND_DESCRIPTION": "Una volta che una carta è stata convertita nella sua variante 3D, puoi usare questo comando per applicarle Background. Backgrounds possono essere acquistati dal \"Backgroundshop\"",
+    "BACKGROUND_DESCRIPTION": "Una volta che una carta è stata convertita nella sua variante 3D, puoi usare questo comando per applicarle un Background. Utilizza il comando \"{{prefix}} backgroundshop\" per acquistare Backgrounds",
     "INVALID_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "BG_APPLY_SUCCESSFUL": "{{author}} Ha applicato con successo il **{{background}}** **Background** alla tua carta"
 }
