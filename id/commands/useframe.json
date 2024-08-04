@@ -1,5 +1,5 @@
 {
-    "USEFRAME_DESCRIPTION": "Perintah ini akan mengaplikasikan frame yang dipilih ke kartu pilihan. Anda dapat membeli Frame dengan menggunakan perintah \"Frameshop\"",
+    "USEFRAME_DESCRIPTION": "Perintah ini akan mengaplikasikan frame yang dipilih ke kartu pilihan. Anda dapat membeli Frame dengan menggunakan perintah \"{{prefix}}frameshop\"",
     "UF_CATEGORY": "Kosmetik",
     "UF_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}uf <KodeKartu> <NamaFrame/KodeFrame>`",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",

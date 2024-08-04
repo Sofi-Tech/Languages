@@ -4,7 +4,7 @@
     "ALREADY_IN_PURCHASE": "{{author}} Bạn đã có một cửa sổ giao dịch đang hoạt động",
     "MISSING_GEMS": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện quá trình này",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} Order-ID bạn cung cấp không hợp lệ",
+    "INVALID_DEAL_ID": "{{author}} Mã đơn hàng bạn cung cấp không hợp lệ",
     "CANNOT_PURCHASE": "{{user}} Bạn không thể tương tác với đơn hàng này",
     "WIST_NOT_EXCEED": "{{author}} Đơn hàng chỉ còn **{{amount}}** `{{currency}}` để mua",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY",

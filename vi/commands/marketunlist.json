@@ -4,5 +4,5 @@
     "INVALID_DEAL_ID": "{{author}} Mã đơn hàng bạn cung cấp không hợp lệ hoặc không thuộc quyền sở hữu của bạn",
     "SUCCESS_UL": "{{user}} Đã thành công loại bỏ đơn hàng sau từ thị trường: `{{dealId}}`",
     "NO_LISTINGS_FOUND": "{{user}} Hiện tại bạn không có đơn hàng nào",
-    "SUCCESS_UL_ALL": "{{user}} Đã xoá thành công tất cả đơn hàng của bạn khỏi thị trường"
+    "SUCCESS_UL_ALL": "{{user}} Đã xoá thành công tất cả đơn hàng của bạn khỏi cửa hàng"
 }

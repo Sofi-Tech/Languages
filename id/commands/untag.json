@@ -1,5 +1,5 @@
 {
-    "UNTAG_DESCRIPTION": "Gunakan perintah ini untuk menghapus tag dari kartu anda. Jika anda ingin menghapus seluruh tag, anda dapat menggunakan perintah \"Tagdelete\"",
+    "UNTAG_DESCRIPTION": "Gunakan perintah ini untuk menghapus tag dari kartu anda. Jika anda ingin menghapus seluruh tag, anda dapat menggunakan perintah \"{{prefix}}tagdelete\"",
     "UT_CATEGORY": "Tag",
     "UT_EMPTY_COLLECTION": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi anda",
     "UNTAG_SUCCESSFUL": "{{author}} Berhasil menghapus tag dari kartu **{{cardName}}** anda",

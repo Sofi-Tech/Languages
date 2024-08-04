@@ -3,7 +3,7 @@
     "NO_OWNER": "{{author}} Thẻ không còn trong bộ sưu tập của bạn nữa",
     "UNDO_BACKGROUND_SUCCESS": "{{author}} Đã thành công trả lại **Background** của thẻ này vào kho đồ của bạn",
     "UNDOBACKGROUND_DESCRIPTION": "Sử dụng lệnh này trên một thẻ 3D sẽ loại bỏ phông nền của nó và đưa nó trở lại trong kho của bạn",
-    "NO_CHARACTER_FOUND": "{{author}} Nhân vật trên thẻ này hiện không còn có sẵn trên Sofi và không thể tương tác được",
+    "NO_CHARACTER_FOUND": "{{author}} Nhân vật trên thẻ này hiện không còn khả dụng trên Sofi và không thể tương tác được",
     "UB_CATEGORY": "Mỹ phẩm",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}undobg <CardCode>`",
     "NO_GIF_CARD": "{{author}} Bạn không thể loại bỏ **Background** của một thẻ **GIF**",

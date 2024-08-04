@@ -6,7 +6,7 @@
     "MARKETLIST_DESCRIPTION": "Sử dụng lệnh này để liệt kê các Wists của bạn trên thị trường để đổi lấy Gems",
     "QUARANTINED": "{{author}} Bạn đang bị cách ly",
     "EMBED_TITLE": "SOFI: MARKET LISTING",
-    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}ml <Số lượng> <Tỷ lệ>`",
+    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}ml <Amount> <Rate>`",
     "INVALID_WIST_AMOUNT": "{{author}} Bạn phải liệt kê tối thiểu **10** **Wists**",
     "INVALID_GEM_RATE": "{{user}} Tỷ lệ bạn cung cấp không hợp lệ",
     "NOT_REGISTERED": "{{author}} Bạn chưa đăng ký",
@@ -15,5 +15,5 @@
     "PRODUCTS": "Liệt kê:",
     "VALUE": "Giá trị:",
     "NOT_ENOUGH_CANCEL": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện quy trình này",
-    "SUCCESS": "{{author}} Đã thành công liệt kê đơn hàng"
+    "SUCCESS": "{{author}} Đã thành công thêm đơn hàng"
 }
