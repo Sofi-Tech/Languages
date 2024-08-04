@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Algo deu errado, por favor rode outro morph",
     "NO_ITEM": "{{author}} Você não possui **{{amount}}** `{{item}}`",
     "NO_CARD": "{{author}} A carta não está mais em sua coleção",
-    "MORPH_CONFRIM": "O `Morph` foi aplicado com sucesso",
+    "MORPH_CONFIRM": "O `Morph` foi aplicado com sucesso",
     "REROLL": "`Morphs` restaurados: `  {{count}}  `\n{{author}} O`Morph` mais recente já foi restaurado. Rode novamente para continuar",
     "UNDO_SUCCESSFUL": "O `Morph` anterior foi restaurado com sucesso por **{{amount}}** {{emoji}}"
 }

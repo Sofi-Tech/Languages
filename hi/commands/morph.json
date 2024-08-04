@@ -15,7 +15,7 @@
     "STOLE_MORPH": "त्रुटि। कृपया दुबारा रोल करे",
     "NO_ITEM": "{{author}} आपके पास पर्याप्त **{{item}}** नहीं हैं",
     "NO_CARD": "{{author}} यह पत्ता अब आपके संग्रह में नहीं है",
-    "MORPH_CONFRIM": "{{author}} आपके पत्ते पर सफलतापूर्वक **{{morphName}}** मॉर्फ लगाया गया",
+    "MORPH_CONFIRM": "{{author}} आपके पत्ते पर सफलतापूर्वक **{{morphName}}** मॉर्फ लगाया गया",
     "REROLL": "\nआप और अन्य मॉर्फ को दुबारा अर्जित नही कर सकते है",
     "UNDO_SUCCESSFUL": "\n**{{amount}}** {{emoji}} के बदले में सफलतापूर्वक पिछली मॉर्फ लाई गई",
     "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}m <CardCode> <MorphItem>`",

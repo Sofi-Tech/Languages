@@ -15,7 +15,7 @@
     "STOLE_MORPH": "誰かに変形が盗まれました。{{author}}、もう一度ロールしてください。 <:smugsofi:910705181572878376>",
     "NO_ITEM": "{{author}}は {{amount}} {{item}}を持っていません",
     "NO_CARD": "カードはもう所有していません",
-    "MORPH_CONFRIM": "素晴らしいです！それは本当に素晴らしい変形です。",
+    "MORPH_CONFIRM": "素晴らしいです！それは本当に素晴らしい変形です。",
     "REROLL": "元に戻す回数:`{{count}}`\n{{author}}できません。もう一度ロールしてください。",
     "UNDO_SUCCESSFUL": "{{amount}} {{emoji}}の元に戻しに成功しました"
 }

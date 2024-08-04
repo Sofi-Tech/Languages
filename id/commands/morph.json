@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Ada yang salah, silakan cari perubahan lain",
     "NO_ITEM": "{{author}} Anda tidak memiliki cukup **{{item}}}**",
     "NO_CARD": "{{author}} Kartu tidak ada dalam koleksi anda lagi",
-    "MORPH_CONFRIM": "{{author}} Berhasil menerapkan **{{morphName}}** perubahan ke kartu Anda",
+    "MORPH_CONFIRM": "{{author}} Berhasil menerapkan **{{morphName}}** perubahan ke kartu Anda",
     "REROLL": "\nAnda tidak dapat membatalkan perubahan lagi",
     "UNDO_SUCCESSFUL": "\nMengembalikan perubahan sebelumnya untuk **{{amount}}** {{emoji}}",
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}m <KodeKartu> <Morphitem>`",

@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Een onbekend beest heeft de transformatie gestolen. <:smugsofi:910705181572878376> Rol opnieuw",
     "NO_ITEM": "{{author}} Je hebt niet genoeg {{item}}",
     "NO_CARD": "{{author}} De kaart is niet meer in jouw collectie ",
-    "MORPH_CONFRIM": "{{author}} Succesvol toegepaste**{{morphName}}** morph aan jouw kaart ",
+    "MORPH_CONFIRM": "{{author}} Succesvol toegepaste**{{morphName}}** morph aan jouw kaart ",
     "REROLL": "\nJe kunt morphs niet ongedaan maken",
     "UNDO_SUCCESSFUL": "\nHerstelde de vorige morph voor **{{amount}}** {{emoji}}",
     "CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}m <CardCode> <MorphItem>`",

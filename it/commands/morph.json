@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Qualcosa è andato storto, per favore rolla un'altra morph",
     "NO_ITEM": "{{author}} Non hai abbastanza **{{item}}**",
     "NO_CARD": "{{author}} La carta non è più nella tua collezione",
-    "MORPH_CONFRIM": "{{author}} Hai applicato con successo il morph **{{morphName}}** alla tua carta",
+    "MORPH_CONFIRM": "{{author}} Hai applicato con successo il morph **{{morphName}}** alla tua carta",
     "REROLL": "\nNon puoi annullare più morphs",
     "UNDO_SUCCESSFUL": "\nRestaurato il morph precedente per **{{amount}}** {{emoji}}",
     "CORRECT_USAGE": "{{author}} Uso corretto: `{{prefix}}m <CodiceDellaCarta> <MorphItem>`",

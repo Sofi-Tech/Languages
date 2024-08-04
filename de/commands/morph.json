@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Da hat etwas nicht geklappt, bitte morphe erneut",
     "NO_ITEM": "{{author}} Du hast nicht genügend **{{item}}**",
     "NO_CARD": "{{author}} Diese Karte ist nicht mehr in deiner Sammlung",
-    "MORPH_CONFRIM": "{{author}} Der Morph **{{morphName}}** wurde erfolgreich auf deine Karte angewendet",
+    "MORPH_CONFIRM": "{{author}} Der Morph **{{morphName}}** wurde erfolgreich auf deine Karte angewendet",
     "REROLL": "\nEs können keine weiteren Morphs rückgängig gemacht werden",
     "UNDO_SUCCESSFUL": "\nDer vorherige Morph wurde für **{{amount}}** {{emoji}} wiederhergestellt",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} **Monochrome 2023 3D**-Karten können nicht gemorpht werden",

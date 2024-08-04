@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Algo salió mal, por favor haz roll de otro morph",
     "NO_ITEM": "{{author}} No tienes suficientes **{{item}}**",
     "NO_CARD": "{{author}} La carta ya no está en tu colección",
-    "MORPH_CONFRIM": "{{author}} Aplicado con éxito el morph **{{morphName}}** a tu carta",
+    "MORPH_CONFIRM": "{{author}} Aplicado con éxito el morph **{{morphName}}** a tu carta",
     "REROLL": "\nNo puedes deshacer más morphs",
     "UNDO_SUCCESSFUL": "\nRestaurado el morph anterior por **{{amount}}** {{emoji}}",
     "CANNOT_APPLY_MNC": "{{author}} No puedes usar un morph de {{article}} **{{eventType}}** en cartas **{{eventCardType}}** o cartas **3D**",

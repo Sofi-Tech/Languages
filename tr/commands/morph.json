@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Bir şeyler ters gitti, lütfen bir daha morflamayı deneyin",
     "NO_ITEM": "{{author}} Yeterli sayıda öğeniz yok **{{item}}**",
     "NO_CARD": "{{author}} Kart Artık koleksiyonunuzda değil",
-    "MORPH_CONFRIM": "{{author}} **{{morphName}}** dönüşümü kartınıza başarıyla uygulandı",
+    "MORPH_CONFIRM": "{{author}} **{{morphName}}** dönüşümü kartınıza başarıyla uygulandı",
     "REROLL": "\nDaha fazla morfu geri alamazsınız",
     "UNDO_SUCCESSFUL": "\n**{{amount}}** {{emoji}} Karşılığı morf geri yüklendi",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}m <KartKodu> <MorphItem>`",
