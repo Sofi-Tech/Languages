@@ -1,7 +1,7 @@
 {
     "MERGEGLOW_DESCRIPTION": "Verwende diesen Befehl um 4 verschiedene Glows zu 1 Resin zu verschmelzen, welches benötigt wird, um Superglows herzustellen. Jeder der verschmolzenen Glows wird permanent aus deinem Inventar entfernt",
     "MG_CATEGORY": "Kosmetika",
-    "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOW_CODES_MISSING": "{{author}} Korrekte Verwendung: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Mindestens einer der angegebenen **Glow**-Codes ist leer",
     "GLOW_CODES_UNIQUE": "{{author}} Du kannst den gleichen **Glow** nicht mehr als ein Mal für diesen Vorgang benutzen",
     "GLOWS_NOT_FOUND": "{{author}} Mindestens einer der angegebenen **Glow**-Codes ist entweder ungültig oder befindet sich nicht in deinem Inventar",

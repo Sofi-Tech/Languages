@@ -10,7 +10,7 @@
     "MENU_MORPH_LABEL": "Morph",
     "MENU_GLOW_LABEL": "Glow",
     "MENU_BG_LABEL": "Background",
-    "PROVIDE_CODES": "{{author}} Correct usage: `{{prefix}}swap <Code1> <Code2>`",
+    "PROVIDE_CODES": "{{author}} Correct usage: `{{prefix}}swap <CardCode1> <CardCode2>`",
     "INVAILD_CODE": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
     "NO_GIF": "{{author}} You cannot use this function on a **GIF** card",
     "NO_COSMETICS": "{{author}} Your cards have no eligible cosmetics that could be swapped",
