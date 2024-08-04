@@ -1,21 +1,19 @@
 {
-  "LOOKUP_DESCRIPTION": "بحث عن إصدارات / 3d / متحركة من الشخصيات",
-  "CHAR_NOT_FOUND": "لا يمكن العثور على الشخصية",
-  "CHAR_NF_SENSITIVE": "لم يتم العثور على أي شخصية ، إنه بحث حساس لحالة الأحرف",
-  "EMBED_TITLE": "SOFI: LOOKUP",
-  "SUBMITTED": "تم التقديم بواسطة: <@{{userID}}> ",
-  "EMBED_FOOTER": "العثور على v1 باستخدام scl | تقديم الإصدارات باستخدام ssc",
-
-  "MORE": "مزيد من المعلومات",
-  "GIF_LABEL": "إصدار GIF",
-  "SERIES": "السلسلة:",
-  "NAME": "الاسم:",
-
-  "WISHLISTED": "على القائمة المفضلة",
-  "VERSIONS": "الإصدارات",
-  "MULTI": "متعدد",
-  "EVENTS": "الأحداث",
-  "EVENT": "حدث",
-  "UPCOMING_EVENT": "الحدث القادم",
-  "NO_OWNER_FOUND": "لم يتم العثور على المالكين"
+    "LOOKUP_DESCRIPTION": "بحث عن إصدارات / 3d / متحركة من الشخصيات",
+    "CHAR_NOT_FOUND": "لا يمكن العثور على الشخصية",
+    "CHAR_NF_SENSITIVE": "لم يتم العثور على أي شخصية ، إنه بحث حساس لحالة الأحرف",
+    "EMBED_TITLE": "SOFI: LOOKUP",
+    "SUBMITTED": "تم التقديم بواسطة: <@{{userID}}> ",
+    "EMBED_FOOTER": "العثور على v1 باستخدام scl | تقديم الإصدارات باستخدام ssc",
+    "MORE": "مزيد من المعلومات",
+    "GIF_LABEL": "إصدار GIF",
+    "SERIES": "السلسلة:",
+    "NAME": "الاسم:",
+    "WISHLISTED": "على القائمة المفضلة",
+    "VERSIONS": "الإصدارات",
+    "MULTI": "متعدد",
+    "EVENTS": "الأحداث",
+    "EVENT": "حدث",
+    "UPCOMING_EVENT": "الحدث القادم",
+    "NO_OWNER_FOUND": "لم يتم العثور على المالكين"
 }

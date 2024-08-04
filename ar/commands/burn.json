@@ -7,9 +7,15 @@
     "FRAG_NOT_FOUND": "{{author}} رمز **Fragment** الذي قدمته إما غير صالح أو ليس في مجموعتك",
     "CARD_NOT_FOUND": "{{author}} رمز البطاقة الذي قدمته إما غير صالح أو ليس في مجموعتك",
     "CARD_LOCKED": "{{author}} هذه البطاقة مقفلة ولا يمكن حرقها",
-    "CARD_NOT_OWNED": "ليست لديك تلك البطاقة",
+    "CARD_NOT_OWNED": "{{author}} هذه البطاقة لم تعد في مجموعتك",
     "EMBED_TITLE": "SOFI: BURN",
     "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} تم حرق **Guild Stone** الخاص بك بنجاح",
     "SUCCESSFUL_FRAGMENT_BURN": "{{author}} تم حرق **Fragment** الخاص بك بنجاح",
-    "GIF_CARD": "{{author}} لا يمكنك حرق بطاقة **GIF**"
+    "GIF_CARD": "{{author}} لا يمكنك حرق بطاقة **GIF**",
+    "BURN_CARD_LOCKED": "{{author}} هذه البطاقة تُستخدم حالياً في مجموعة ولا يمكن حرقها",
+    "NAME": "الاسم:",
+    "SERIES": "السلسلة:",
+    "BURN_REWARDS": "__المكافآت__",
+    "SUCCESSFUL_CARD_BURN": "{{author}} تم حرق بطاقتك بنجاح",
+    "QUEST_CARD": "لا يمكنك حرق بطاقة تُستخدم حالياً في مهمة"
 }

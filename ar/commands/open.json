@@ -1,21 +1,18 @@
 {
-  "OPEN_DESCRIPTION": "يفتح الصناديق",
-  "SLASH_DESC_1": "أدخِل الـ \"عنصر\" الذي تريد فتحه",
-  "SLASH_DESC_2": "أدخِل الكمية.",
-  "CORRECT_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}open <اسم العنصر> <الكمية>`",
-  "EMPTY_INV": "{{author}} مخزونك فارغ",
-  "CHARM_MISSING": "{{author}} ليس لديك أي `تعويذات`",
-  "SOFI_CARDS_MISSING": "{{author}} حاليًا ليس هناك ما يكفي من بطاقات صوفي",
-
-  "SERIES": "السلسلة:",
-  "NAME": "الاسم:",
-  "CHEST_INFO": "يمكن فتح صناديق الحدث حتى بعد انتهائه",
-  "PROVIDE_NUM": "الرجاء إدخال رقم بين **1 و 10**",
-  "CHEST_MISSING": "ليس لديك **{{replacedArg}}** `{{chestName}}` في مخزونك",
-  "COMMON_INFO_1": "لقد فتحت **{{totalChests}}** `{{chestName}}`",
-  "ITEMS_FOUND": "العناصر المحصَّلة:\n",
-
-  "EXOTIC_DIVINE_FOOTER": "يُمكِن الحصول على {{chestName}} بعد {{count}} تصويت خلال الشهر",
-
-  "CORRECT_USAGE_2": "العناصر التي يمكن فتحها: الصناديق , التعويذات"
+    "OPEN_DESCRIPTION": "يفتح الصناديق",
+    "SLASH_DESC_1": "أدخِل الـ \"عنصر\" الذي تريد فتحه",
+    "SLASH_DESC_2": "أدخِل الكمية.",
+    "CORRECT_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}open <اسم العنصر> <الكمية>`",
+    "EMPTY_INV": "{{author}} مخزونك فارغ",
+    "CHARM_MISSING": "{{author}} ليس لديك أي `تعويذات`",
+    "SOFI_CARDS_MISSING": "{{author}} حاليًا ليس هناك ما يكفي من بطاقات صوفي",
+    "SERIES": "السلسلة:",
+    "NAME": "الاسم:",
+    "CHEST_INFO": "يمكن فتح صناديق الحدث حتى بعد انتهائه",
+    "PROVIDE_NUM": "الرجاء إدخال رقم بين **1 و 10**",
+    "CHEST_MISSING": "ليس لديك **{{replacedArg}}** `{{chestName}}` في مخزونك",
+    "COMMON_INFO_1": "لقد فتحت **{{totalChests}}** `{{chestName}}`",
+    "ITEMS_FOUND": "العناصر المحصَّلة:\n",
+    "EXOTIC_DIVINE_FOOTER": "يُمكِن الحصول على {{chestName}} بعد {{count}} تصويت خلال الشهر",
+    "CORRECT_USAGE_2": "العناصر التي يمكن فتحها: الصناديق , التعويذات"
 }
