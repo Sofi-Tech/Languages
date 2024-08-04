@@ -1,7 +1,7 @@
 {
     "UNDOBACKGROUND_DESCRIPTION": "Используйте данную команду на 3D карте, чтобы убрать Background и вернуть его в ваш инвентарь",
     "UB_CATEGORY": "Косметика",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <CardCode>`",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}undobg <КодКарты>`",
     "NO_CHARACTER_FOUND": "{{author}} Персонаж на данной карте больше не доступен в Sofi или с ним нельзя взаимодействовать",
     "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
     "NO_GIF_CARD": "{{author}} Вы не можете удалить **Background** с **GIF** карты",

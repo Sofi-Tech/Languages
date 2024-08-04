@@ -6,7 +6,7 @@
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Заблокированная отметка не может быть сожжена или добавлена в обмен",
     "EMBED_FOOTER": "Всего: {{total}} | Заблокировано: {{locked}}",
-    "NO_TAGS_SELF": "{{author}} У вас пока нет ни одной отметки. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
+    "NO_TAGS_SELF": "{{author}} У вас пока нет ни одной отметки. Используйте команду `{{prefix}}tc <НазваниеОтметки> <Эмодзи>`, чтобы создать новую",
     "CARD_one": "{{count}} карта",
     "CARD_other": "{{count}} карт",
     "CARD_zero": "{{count}} карт",

@@ -7,6 +7,6 @@
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечена как `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все выбранные **Glows** успешно отмечены как `{{tag}}`",
     "GLOW_TAG_INVALID": "{{author}} У вас нет ни одной отметки для **Glow** с названием: `{{tagname}}`",
-    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gt <TagName> <GlowCode>`",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gt <НазваниеОтметки> <КодПодсветки>`",
     "INVALID_GLOW_SINGULAR": "{{author}} Указанный вами код **Glow** недействителен или не является частью вашего инвентаря"
 }

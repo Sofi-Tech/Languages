@@ -1,7 +1,7 @@
 {
     "GLOWTAGCREATE_DESCRIPTION": "Используйте данную команду для создания отметок, с помощью которых вы сможете сортировать ваши Glows по нужным вам критериям. Используйте команду \"{{prefix}}glowtag\", чтобы отмечать Glows",
     "GTC_CATEGORY": "Отметки",
-    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gtc <TagName> <Emoji>`",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gtc <НазваниеОтметки> <Эмодзи>`",
     "INVALID_EMOJI": "{{author}} Данный смайлик недействителен",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} У вас уже есть отметка для **Glow** с таким названием",
     "CREATED_GLOWTAG": "{{author}} Отметка для **Glow** с названием `{{tag}}` | {{emoji}} успешно создана"
