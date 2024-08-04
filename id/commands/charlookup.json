@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- Anda dapat mencari karakter tertentu dengan menggunakan perintah \"scl\". Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Penggemar dan ID Kartu karakter tersebut.\n- ID Kartu diperlukan saat mengirimkan gambar untuk \"Versi\" baru",
+    "CHARLOOKUP_DESCRIPTION": "Anda dapat mencari karakter tertentu dengan menggunakan perintah ini. Di menu ini, Anda dapat memeriksa statistik karakter, varian Versi/3D/GIF, serta papan peringkat Gen/Penggemar dan ID Kartu karakter tersebut.",
     "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama `{{arg}}`\n\n``` perbaiki\nCatatan: Menggunakan flag `-f` membuat fungsi peka huruf besar-kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
