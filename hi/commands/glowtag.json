@@ -8,5 +8,5 @@
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} सभी चुनीत **Glows** को सफलतापूर्वक टैग किया गया `{{tag}}`",
     "GLOW_TAG_INVALID": "{{author}} आपके पास इस नाम से कोई **Glow** टैग नहीं है `{{tagname}}`",
     "INVALID_GLOW_SINGULAR": "{{author}} प्रदान किया गया **Glow** कोड अमान्य है या आपके संग्रह में मौजूद नहीं है",
-    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gt <TagName> <GlowCode>`"
+    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gt <TagName> <#GlowCode>`"
 }

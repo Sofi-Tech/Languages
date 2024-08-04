@@ -8,8 +8,8 @@
     "RATE": "Курс",
     "LISTED": "Размещено",
     "NO_LISTINGS_FOUND": "{{user}} В данный момент у вас нет объявлений на рынке",
-    "INFO": "Используйте команду `{{prefix}}mul <ИдентификаторЗаказа>`, чтобы удалить объявление с рынка",
-    "FOOTER": "Показаны результаты {{page}}-{{pages}} из {{total}} | {{prefix}}mbuy <ИдентификаторЗаказа> <Количество>",
+    "INFO": "Используйте команду `{{prefix}}mul <ИдентификаторОбъявления>`, чтобы удалить объявление с рынка",
+    "FOOTER": "Отображение результатов {{page}}-{{pages}} из {{total}} | {{prefix}}mbuy <ИдентификаторОбъявления> <Количество>",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Доступно: `{{stockAmount}}` {{stockEmoji}} | Курс: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
