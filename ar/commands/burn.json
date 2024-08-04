@@ -1,11 +1,15 @@
 {
-    "BURN_DESCRIPTION": "أحرق البطاقات للحصول على الكريستالات والفضة التي يمكن استخدامها أما لصنع المكعبات أو شراء مختلف العناصر الأخرى في البوت, كتابة \"sb\" فقط تقوم بحرق احدث بطاقة بحوزتك.",
-    "GUILDSTONE_BURN": "أنت على وشك حرق حجر النقابة",
-    "GUILDSTONE_NOT_FOUND": "ليس لديك حجر النقابة للحرق",
+    "BURN_DESCRIPTION": "استخدم هذا الأمر لحرق بطاقة مقابل الحصول على Silver و Cubes التي تُستخدم لترقية البطاقات إلى نسختها ثلاثية الأبعاد. استخدام هذا الأمر بدون إضافة رمز البطاقة سيحاول حرق أحدث بطاقة حصلت عليها",
+    "GUILDSTONE_BURN": "هل أنت متأكد أنك تريد حرق **Guild Stone** الخاص بك؟",
+    "GUILDSTONE_NOT_FOUND": "{{author}} ليس لديك **Guild Stone**",
     "CANCELLED": "العملية تم إلغاؤها",
-    "BURN_FRAG_WARN": "أنت على وشك حرق الشظية\nرمز الشظية: `{{fragCode}}`",
-    "FRAG_NOT_FOUND": "لا يوجد شظية موجودة",
-    "CARD_NOT_FOUND": "لا يمكن العثور على تلك البطاقة",
-    "CARD_LOCKED": "تم قفل البطاقة",
-    "CARD_NOT_OWNED": "ليست لديك تلك البطاقة"
+    "BURN_FRAG_WARN": "هل أنت متأكد أنك تريد حرق هذا **Fragment**؟\n\nالاسم: **{{characterName}}**  \nالسلسلة: **{{seriesName}}**  \nالرمز: `{{fragCode}}`",
+    "FRAG_NOT_FOUND": "{{author}} رمز **Fragment** الذي قدمته إما غير صالح أو ليس في مجموعتك",
+    "CARD_NOT_FOUND": "{{author}} رمز البطاقة الذي قدمته إما غير صالح أو ليس في مجموعتك",
+    "CARD_LOCKED": "{{author}} هذه البطاقة مقفلة ولا يمكن حرقها",
+    "CARD_NOT_OWNED": "ليست لديك تلك البطاقة",
+    "EMBED_TITLE": "SOFI: BURN",
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} تم حرق **Guild Stone** الخاص بك بنجاح",
+    "SUCCESSFUL_FRAGMENT_BURN": "{{author}} تم حرق **Fragment** الخاص بك بنجاح",
+    "GIF_CARD": "{{author}} لا يمكنك حرق بطاقة **GIF**"
 }
