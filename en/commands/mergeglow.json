@@ -1,7 +1,7 @@
 {
     "MERGEGLOW_DESCRIPTION": "Use this command to condense 4 different Glows into 1 Resin, which is a required material in the creation of Super Glows. Any merged Glow will be permanently removed from your inventory",
     "MG_CATEGORY": "Cosmetics",
-    "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}mg <GlowCode1> <GlowCode2> <GlowCode3> <GlowCode4>`",
+    "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} At least one of the **Glow** codes you provided is empty",
     "GLOW_CODES_UNIQUE": "{{author}} You cannot use the same **Glow** more than once for this process",
     "GLOWS_NOT_FOUND": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
