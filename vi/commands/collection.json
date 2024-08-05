@@ -56,7 +56,7 @@
     "TAG_MODAL_PLACEHOLDER": "Có thể thêm \"-\" như một cách để xoá hàng loạt nhãn",
     "ALL_UNTAG_SUCCESS_many": "{{author}} Đã gỡ nhãn`{{tagName}}` thành công khỏi **{{count}}** thẻ",
     "NO_TAG_FOUND": "{{author}} Hiện tại bạn không có bất kỳ nhãn nào. Sử dụng lệnh `{{prefix}}tc <TênNhãn> <Emoji>` để tạo một cái",
-    "COLLECTION_DESCRIPTION": "Lệnh này sẽ hiển thị toàn bộ bộ sưu tập của bạn và bạn có thể sắp xếp và lọc theo nhiều cách khác nhau. Sử dụng lệnh này với các tham số bổ sung sẽ mở bản nhúng với bộ lọc cụ thể đã được áp dụng. Sử dụng lệnh \"t:ut\" cùng với lệnh này sẽ cho thấy những thẻ chưa được gắn nhãn. Sử dụng lệnh \"{{prefix}}help filter\" để xem tất cả các cách lọc có sẵn",
+    "COLLECTION_DESCRIPTION": "Lệnh này sẽ hiển thị bộ sưu tập của bạn và bạn có thể sắp xếp và lọc theo nhiều cách khác nhau. Sử dụng lệnh này với các tham số bổ sung sẽ mở bản nhúng với bộ lọc cụ thể đã được áp dụng. Sử dụng lệnh \"t:ut\" cùng với lệnh này sẽ cho thấy những thẻ chưa được gắn nhãn. Sử dụng lệnh \"{{prefix}}help filter\" để xem tất cả các cách lọc có sẵn",
     "NO_CARDS_FOUND": "{{author}} Không thể tìm thấy bất kỳ thẻ nào phù hợp với tiêu chí tìm kiếm bạn đưa ra",
     "SORT_HP": "Máu",
     "ALL_UNTAG_SUCCESS_other": "{{author}} Đã gỡ nhãn`{{tagName}}` thành công khỏi **{{count}}** thẻ",
