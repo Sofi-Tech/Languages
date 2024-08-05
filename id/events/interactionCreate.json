@@ -10,7 +10,7 @@
     "COMMAND_RUN_ERROR": "{{author}} Terjadi kesalahan saat mencoba menjalankan perintah ini. Silakan coba lagi",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Inventaris Anda mengandung nilai negatif! Silakan hubungi Pengembang di [Support Server](https://discord.gg/sofi) untuk memperbaiki hal ini",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global] Tunggu **{{cooldown}}** sebelum menggunakan perintah ini lagi",
-    "REQUIRE_PERMISSIONS": "{{author}} Anda memerlukan: **{{permissions}}** izin untuk menjalankan perintah ini",
+    "REQUIRE_PERMISSIONS": "{{author}} Anda memerlukan: **{{permissions}}** izin untuk menggunakan perintah ini",
     "REGISTER_TO_PLAY": "{{author}} Silakan gunakan perintah `{{prefix}}register` untuk memulai perjalanan **Sofi** anda!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** saat ini dalam mode aman! ETA: **{{eta}}**\nKami mohon maaf atas ketidaknyamanan yang disebabkan oleh hal ini dan mohon kesabaran anda!",
     "VERIFY_BUTTON_LABEL": "Verifikasi",

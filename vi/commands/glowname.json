@@ -1,7 +1,7 @@
 {
     "GLOW_NOT_FOUND": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
     "GLOWNAME_DESCRIPTION": "Dùng lệnh này để đổi tên Glow của bạn",
-    "GN_CATEGORY": "Mỹ Phẩm",
+    "GN_CATEGORY": "Đồ trang trí",
     "UNLOCK_GLOWS": "{{author}} Bạn không có bất kỳ **Glow** nào",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Mã **Glow** luôn luôn bắt đầu bằng `#`",
     "GLOW_NAME_LONG": "{{author}} Độ dài tên của **Glow** chỉ dài tối đa 25 ký tự",
@@ -9,7 +9,7 @@
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "MISSING_ITEMS": "{{author}} Bạn không có đủ **{{currency}}** cho quá trình này",
     "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Đã đổi tên thành công **Glow** của bạn sang `{{newName}}`",
-    "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gn <GlowCode> <NewName>`",
+    "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gn <#GlowCode> <NewName>`",
     "GLOWNAME_CHANGE_CONFIRMATION": "Bạn có chắc muốn đổi tên **Glow** của bạn từ `{{oldName}}` sang `{{newName}}` không?",
     "GLOW_NAME_EXISTS": "{{author}} Tên đó đã được dùng cho một **Glow** khác"
 }

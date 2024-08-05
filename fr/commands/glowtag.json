@@ -7,6 +7,6 @@
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** a été tag avec succès en tant que `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tous les **Glows** sélectionnés ont été tag avec succès comme `{{tag}}`",
     "INVALID_GLOW_SINGULAR": "{{author}} Le code de **Glow** que vous avez fourni est invalide ou n'est pas dans votre inventaire",
-    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gt <NomDuTag> <CodeDeGlow>`",
+    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gt <NomDuTag> <#CodeDeGlow>`",
     "GLOW_TAG_INVALID": "{{author}} Vous n'avez aucun tag de **Glow** avec le nom `{{tagname}}`"
 }

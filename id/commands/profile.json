@@ -1,5 +1,5 @@
 {
-    "PROFILE_DESCRIPTION": "Perintah ini akan menampilkan profil pengguna, di samping latar belakang yang dipilih, kartu yang disorot dan lencana. Anda dapat mengonfigurasi kartu profil Anda sendiri dengan menggunakan perintah \"Profileconfig\"",
+    "PROFILE_DESCRIPTION": "Perintah ini akan menampilkan profil pengguna. Anda bisa menyesuaikan profil anda dengan menggukanan perintah \"{{prefix}}profileconfig\"",
     "PRO_CATEGORY": "Pengaturan",
     "USER_NOT_FOUND": "{{author}} Tidak bisa menemukan user tersebut",
     "PROFILE_NOT_FOUND": "{{author}} Pengguna tersebut tidak terdaftar",

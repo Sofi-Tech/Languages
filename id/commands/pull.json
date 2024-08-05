@@ -7,7 +7,7 @@
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Jumlah Pull: [ {{count}} ]",
     "MISSING_CURR": "{{user}} Anda tidak memiliki cukup **{{currName}}** untuk proses ini",
-    "AMOUNT": "Anda menerima: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "AMOUNT": "Anda menerima: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Jumlah pull: [ {{pullcount}} ]",
     "RATES": "Rate",
     "PULL_CHANCES": "**__Peluang__**",

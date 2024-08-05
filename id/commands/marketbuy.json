@@ -1,5 +1,5 @@
 {
-    "MARKETBUY_DESCRIPTION": "Menggunakan perintah ini dalam kombinasi dengan Order-ID dari pasar yang diikuti dengan jumlah, akan membuka embed transaksi untuk membeli Wist dari pemain lain. Gunakan perintah “Market” untuk melihat semua pesanan yang tersedia",
+    "MARKETBUY_DESCRIPTION": "Menggunakan perintah ini dalam kombinasi dengan Order-ID dari pasar yang diikuti dengan jumlah, akan membuka embed transaksi untuk membeli Wist dari pemain lain. Gunakan perintah “{{prefix}}market” untuk melihat semua pesanan yang tersedia",
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}mbuy <OfferID> <JumlahWist>`",
     "INVALID_DEAL_ID": "{{author}} ID-Pesanan yang anda berikan tidak valid",
     "CANNOT_PURCHASE": "{{user}} Anda tidak dapat berinteraksi dengan pesanan ini",

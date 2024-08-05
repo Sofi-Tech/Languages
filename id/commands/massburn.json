@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Gunakan perintah ini untuk membakar beberapa kartu sekaligus dengan menambahkan parameter seperti \"t:NamaTag\" dan \"wl<Nomor\" untuk menentukan kartu mana yang ingin Anda bakar. Gunakan perintah \"Saring bantuan\" untuk mendapatkan daftar lengkap parameter yang tersedia",
+    "MASSBURN_DESCRIPTION": "Gunakan perintah ini untuk membakar beberapa kartu sekaligus. Dengan menambahkan filter Gen/Tag/Wishlist, Anda dapat menentukan kartu mana yang ingin anda bakar",
     "IN_ACTIVE_MB": "{{user}} Anda tidak dapat memulai **Massburn** baru saat yang lama masih aktif",
     "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Saring>`\n\n```fix\nCatatan: Anda dapat menemukan daftar lengkap filter dengan perintah {{prefix}}Bantuan Saring\n```",
     "WRONG_TAG": "{{author}} Tidak dapat menemukan tag dengan nama `{{arg}}`",

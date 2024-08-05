@@ -4,7 +4,7 @@
     "USER_IS_BOT": "{{author}} Người dùng đó là Discord BOT",
     "USER_NOT_REGISTERED": "{{author}} Người dùng đó chưa đăng kí",
     "USER_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
-    "USER_INFO": "__Thông tin người dùng__",
+    "USER_INFO": "__Thông Tin Người Dùng__",
     "UI_VERIFIED": "Đã xác minh",
     "UI_VOTE": "Votes",
     "CANNOT_FIND_USER": "{{author}} Không thể tìm thấy người dùng đó",
@@ -46,5 +46,5 @@
     "USERINFO_DESCRIPTION": "Sử dụng lệnh này sẽ mở một bản nhúng liệt kê các số liệu tài khoản Sofi của 1 người dùng. Bạn cũng có thể chọn một ngôn ngữ khác bằng cách sử dụng menu ở bên dưới",
     "UI_CASE_SOLVED": "Số vụ đã giải quyết",
     "LANG_CHANGE_SUCCESS": "{{author}} Ngôn ngữ của bạn đã được thay đổi thành công sang **{{language}}**! Hãy lưu ý rằng việc cập nhật bản dịch của chúng tôi vẫn đang trong giai đoạn phát triển sớm và chưa bao gồm được tất cả lệnh hiện có!\n\nCác lệnh chưa được dịch bao gồm\n\n- **Deck**\n- **Stats**\n- **Event**\n- **Guild/Raid Commands**\n\nNếu bạn phát hiện bất kỳ văn bản nào bị thiếu, bản dịch sai hoặc các bản nhúng và chức năng bị lỗi khi sử dụng ngôn ngữ này, chúng tôi khuyến khích bạn báo cáo những vấn đề này bằng cách sử dụng lệnh `{{prefix}}lrt <Input>`. Ngoài ra, bạn có thể báo cáo các phát hiện của mình trên [Máy chủ hỗ trợ chính thức](<https://discord.gg/sofi>)!",
-    "CHOOSE_LANGUAGE_PLACEHOLDER": "Lựa chọn ngôn ngữ của bạn"
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Chọn ngôn ngữ"
 }

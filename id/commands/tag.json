@@ -6,7 +6,7 @@
     "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki tag dengan nama `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Anda tidak memiliki kartu apapun dalam koleksi anda",
     "INVALID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
-    "SUCCESSFUL_TAG": "{{author}} | Berhasil memberi tag pada **{{card}}** sebagai `{{tag}}`",
+    "SUCCESSFUL_TAG": "{{author}} Berhasil memberi tag pada **{{card}}** sebagai `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Semua kartu berhasil ditandai",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Kode kartu berikut ini tidak valid atau tidak ada dalam koleksi anda:\n{{arg}}"
 }

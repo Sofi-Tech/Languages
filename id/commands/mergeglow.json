@@ -1,7 +1,7 @@
 {
     "MERGEGLOW_DESCRIPTION": "Gunakan perintah ini untuk menggabungkan 4 Glow yang berbeda menjadi 1 Resin, yang merupakan bahan yang diperlukan dalam pembuatan Super Glow. Setiap Glow yang digabungkan akan dihapus secara permanen dari inventaris Anda",
     "MG_CATEGORY": "Kosmetik",
-    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar: `{{prefix}}mg <KodeGlow1> <KodeGlow2> <KodeGlow3> <KodeGlow4>`",
+    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Setidaknya salah satu kode **Glow** yang anda berikan kosong",
     "GLOW_CODES_UNIQUE": "{{author}} Anda tidak dapat menggunakan **Glow** yang sama lebih dari satu kali untuk proses ini",
     "GLOWS_NOT_FOUND": "{{author}} Setidaknya salah satu kode **Glow** yang anda berikan tidak valid atau tidak ada dalam inventaris anda",

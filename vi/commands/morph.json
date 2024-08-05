@@ -27,5 +27,6 @@
     "MORPH_CONFIRMATION": "Bạn có chắc chắn muốn morph thẻ ** {{characterName}} ** của mình với **{{amount}}** {{currencyEmoji}} mỗi lần roll không?",
     "MORPH_DESCRIPTION": "Sử dụng lệnh này trên thẻ sẽ thay đổi diện mạo của nó theo nhiều cách không thể đoán trước được",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} **Thẻ Monochrome 2023 3D** không thể được morph",
-    "NOT_ENOUGH_SILVERS": "{{author}} Bạn không có đủ **{{currency}}** cho quá trình này"
+    "NOT_ENOUGH_SILVERS": "{{author}} Bạn không có đủ **{{currency}}** cho quá trình này",
+    "CANNOT_APPLY_3D": "{{author}} Bạn không thể áp dụng {{article}}**{{eventType}}** morph trên thẻ 3D"
 }

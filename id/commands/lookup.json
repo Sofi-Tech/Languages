@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "Dengan perintah ini, Anda dapat mencari karakter tertentu yang Anda inginkan. Sematan yang dihasilkan kemudian akan menunjukkan kepada Anda Versi yang berbeda, serta varian Acara",
     "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apa pun dengan nama `{{arg}}`\n\n``` perbaiki\nCatatan: Menggunakan flag `-f` membuat fungsi peka huruf besar-kecil!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apapun dengan nama `{{arg}}`\n\n```fix\nCatatan: Menggunakan flag `-f` akan membuat fungsi peka huruf besar kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "Dikirim oleh: <@{{userID}}>",
     "EMBED_FOOTER": "Anda dapat mengirimkan Versi baru dengan menggunakan perintah {{prefix}}sc",

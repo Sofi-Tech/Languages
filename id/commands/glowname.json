@@ -2,7 +2,7 @@
     "GLOWNAME_DESCRIPTION": "Gunakan perintah ini untuk mengubah nama Glow Anda",
     "GN_CATEGORY": "Kosmetik",
     "UNLOCK_GLOWS": "{{author}} Anda tidak memiliki **Glows**",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <GlowCode> <NewName>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gn <#GlowCode> <NewName>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Kode **Glow** selalu dimulai dengan `#`",
     "GLOW_NOT_FOUND": "{{author}} Kode **Glow** yang anda berikan tidak valid atau tidak tersedia di inventory anda",
     "GLOW_NAME_LONG": "{{author}} Nama **Glow** Anda hanya boleh terdiri dari **25** karakter",

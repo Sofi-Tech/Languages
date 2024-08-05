@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "Dengan perintah ini, Anda dapat membuat tag untuk mengkategorikan dan mengelompokkan beberapa kartu yang sesuai dengan kriteria Anda. Gunakan perintah \"Tag\" untuk menetapkan tag yang Anda buat ke kartu",
+    "TAGCREATE_DESCRIPTION": "Dengan perintah ini, Anda dapat membuat tag untuk mengkategorikan dan mengelompokkan beberapa kartu yang sesuai dengan kriteria Anda. Gunakan perintah \"{{prefix}}tag\" untuk menetapkan tag yang dibuat ke kartu Anda",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Emoji tersebut tidak valid",
