@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Usar esse comando em combinação com o nome e o valor de um item abrirá uma transação incorporada para comprar o item específico. Use o comando \"Shop\" para visualizar todos os itens disponíveis",
+    "BUY_DESCRIPTION": "Usar esse comando em combinação com o nome e o valor de um item abrirá uma transação incorporada para comprar o item específico. Use o comando \"{{prefix}}shop\" para visualizar todos os itens disponíveis",
     "SLASH_DESC": "Digite o nome do item que você quer comprar",
     "SLASH_DESC2": "Digite a quantidade",
     "SLASH_DESC3": "Digite o código do Background que você quer comprar. [SÓ FUNCIONA SE O ITEM FOR SELECIONADO COMO FUNDO]",
@@ -9,7 +9,7 @@
     "INVALID_BG_AMOUNT": "{{author}} Você não pode comprar uma quantidade negativa de um item",
     "INVALID_BG_ID": "{{author}} Não foi possível encontrar nenhum **Background** com esse ID",
     "INVALID_ITEM_PROVIDED": "{{user}} O item que você forneceu é inválido",
-    "BUY_GEN_CONFIRMATION": "## Você está comprando {{count}} gen scratcher",
+    "BUY_GEN_CONFIRMATION": "## Você está comprando {{count}} Gen Scratchers",
     "BUY_CHARM_CONFIRMATION": "## Você está comprando {{amount}} <:xcharm:988729774031638528>",
     "BUY_CHARMS_MULTIPLES": "{{author}} Você só pode comprar **Charms** em múltiplos de 100"
 }

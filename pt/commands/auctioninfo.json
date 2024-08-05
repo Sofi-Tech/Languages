@@ -13,10 +13,12 @@
     "BID_MODAL_PLACEHOLDER": "Insira o Valor do Lance",
     "INVALID_BID_AMOUNT": "{{author}} Seu lance deve ser um número!",
     "AI_CURRENT": "Lance Atual",
-    "AUCTION_NOT_FOUND": "Não foi possível encontrar esse leilão",
+    "AUCTION_NOT_FOUND": "{{author}} Não foi possível encontrar esse leilão",
     "BID_SUCCESSFUL": "{{author}} Você deu o lance na quantia de **{{amount}}** {{emoji}} com sucesso",
     "EMBED_TITLE": "SOFI: AUCTION INFO",
     "TOTAL_CHARMS": "Total de Charms",
     "YOUR_CHANCE": "Sua chance",
-    "BID_BUTTON_LABEL": "Lance"
+    "BID_BUTTON_LABEL": "Lance",
+    "NAME": "- Nome:",
+    "SERIES": "- Série:"
 }

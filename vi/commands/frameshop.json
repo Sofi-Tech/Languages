@@ -28,7 +28,7 @@
     "FRAME_DESCRIPTION": "\nTác Giả: **{{artist}}**\nMã: `{{code}}`\nGiá: **{{price}}**\nMục: **{{category}}**\n\n```fix\n{{description}}\n```",
     "EMBED_FOOTER_one": "Được tải lên vào {{count}} ngày trước",
     "EMBED_FOOTER_few": "Được tải lên vào {{count}} ngày trước",
-    "FRAMESHOP_DESCRIPTION": "Lệnh này sẽ hiển thị tất cả các Frame hiện đang có sẵn để mua. Các Frame được hiển thị trong cửa hàng sẽ xoay tua theo khoảng thời gian đã đặt, sau đó chúng sẽ không thể mua được nữa. Các Frame chính thức có thể không giới hạn số lần mua, trong khi các Frame do cộng đồng tạo ra có số lượng hạn chế",
+    "FRAMESHOP_DESCRIPTION": "Lệnh này sẽ hiển thị tất cả các Frame hiện đang có sẵn để mua. Các Frame được hiển thị trong cửa hàng sẽ thay đổi sau một khoảng thời gian nhất định, sau đó chúng sẽ không thể mua được nữa. Các Frame chính thức có thể được đặt mua không giới hạn, trong khi các Frame do cộng đồng tạo ra có số lượng hạn chế",
     "FRAME_NOT_FOUND": "{{author}} Không thể tìm bất kỳ **Frame** nào với mã `{{arg}}`",
     "EDIT_BUTTON_LABEL": "Chỉnh sửa",
     "EMBED_FRAME_IMAGE_DESC": "Nhập liên kết hình ảnh mới để thay thế hình ảnh hiện tại của **Frame** này\n\n```fix\nHãy chắc chắn rằng hình ảnh bạn gửi tuân theo tất cả các hướng dẫn và yêu cầu của chúng tôi!\n```",

@@ -70,5 +70,7 @@
     "EMBED_TITLE_other": "Task ({{count}} Points)",
     "EMBED_TITLE_many": "Task ({{count}} Points)",
     "EMBED_TITLE_one": "Task ({{count}} Point)",
-    "EMBED_TITLE_two": "Task ({{count}} Points)"
+    "EMBED_TITLE_two": "Task ({{count}} Points)",
+    "QUEST_REWARDS_FOUR": "Quest ini mendapatkan {{shardCount}} Shards, {{silver}} Silver , {{xpSacks}} XP Sacks, dan {{ingotCount}} {{ingotName}} Ingot",
+    "QUEST_REWARDS_THREE": "Quest ini mendapatkan {{shardCount}} Shards, {{silver}} Silver , dan {{ingotCount}} {{ingotName}} Ingot"
 }

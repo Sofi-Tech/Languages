@@ -8,7 +8,7 @@
     "SUPPORT_BUTTON_LABEL": "Hỗ trợ",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Toàn cầu]** Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
     "COMMAND_BLACKLISTED": "{{author}} Lệnh `{{commandName}}` đã bị chặn trong kênh này",
-    "REGISTER_TO_PLAY": "{{author}} Hãy sử dụng lệnh `{{prefix}}register` để bắt đầu chuyến hành trình cùng **Sofi**",
+    "REGISTER_TO_PLAY": "{{author}} Hãy sử dụng lệnh `{{prefix}}register` để bắt đầu chuyến hành trình cùng **Sofi**!",
     "CATEGORY_DISABLED": "{{author}} Danh Mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Lệnh này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMPLETE_COMMAND": "{{author}} Hoàn thành lệnh `{{command}}` trước đã!",

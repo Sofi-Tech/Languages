@@ -1,5 +1,5 @@
 {
-    "BUYFRAME_DESCRIPTION": "Este comando é usado especificamente para comprar Frames a partir do comando \"Frameshop\", no qual você poderá comprar Frames oficiais, bem como feitos pela comunidade, para suas cartas que não sejam 3D",
+    "BUYFRAME_DESCRIPTION": "Este comando é usado especificamente para comprar Frames a partir do comando \"{{prefix}}frameshop\", no qual você poderá comprar Frames Oficiais, Customizados e Frames de Pacote para suas cartas 2D",
     "BF_CATEGORY": "Cosméticos",
     "NO_FRAME_NAME": "{{author}} Por favor forneça o código do **Frame** que você deseja comprar",
     "NO_FRAMECODE_FOUND": "{{author}} Não foi possível encontrar nenhum **Frame** com o código: `{{name}}`",
