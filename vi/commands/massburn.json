@@ -5,7 +5,7 @@
     "LOCKED_CARDS_WARNING": "{{author}} Những thẻ đã khóa, là thẻ **GIF** hoặc được sử dụng trong một bộ bài không thể được đốt",
     "MASSBURN_DESCRIPTION": "Sử dụng lệnh này để đốt nhiều thẻ cùng một lúc. Bằng cách thêm các bộ lọc Gen/Tag/Wishlist, bạn có thể chỉ định những thẻ mà bạn muốn đốt",
     "IN_ACTIVE_MB": "{{user}} Bạn không thể bắt đầu một **Massburn** mới trong khi một Massburn cũ vẫn còn hoạt động",
-    "PROVIDE_FILTERS": "{{author}} Cách sử dụng đúng: `{{prefix}}mb <BộLọc>`\n\n```fix\nLưu ý: Bạn có thể tìm thấy danh sách toàn diện các bộ lọc bằng lệnh {{prefix}}help filters\n```",
+    "PROVIDE_FILTERS": "{{author}} Cách sử dụng đúng: `{{prefix}}mb <BộLọc>`\n\n```fix\nLưu ý: Bạn có thể tìm thấy danh sách tất cả các bộ lọc bằng lệnh {{prefix}}help filters\n```",
     "CARDS_BURNED": "__Những Thẻ Đã Chọn [ {{totalCards}} ]__",
     "EMBED_TITLE": "SOFI: MASSBURN",
     "CONFIRM_ASK": "{{author}} Bạn chắc chắn muốn __hoàn toàn__ đốt các thẻ này?",

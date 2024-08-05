@@ -27,5 +27,6 @@
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "NONE": "Aucun",
     "ROLL_MORPH": "Le morph sera perdu après 2 minutes",
-    "SMR_REROLL_COST": "Chaque roll coûtera 500 {{currencyName}}"
+    "SMR_REROLL_COST": "Chaque roll coûtera 500 {{currencyName}}",
+    "CANNOT_APPLY_3D": "{{author}} Vous ne pouvez pas appliquer le morph {{article}} **{{eventType}}** sur une carte **3D**"
 }

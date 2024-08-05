@@ -12,7 +12,7 @@
     "MENTION_ERROR": "{{author}} Sử dụng prefix máy chủ `{{prefix}}` hoặc `/` để sử dụng các lệnh",
     "RATE_LIMIT_ERROR": "{{author}} Do hoạt động mật độ cao, đã đạt đến giới hạn tốc độ! Vui lòng đợi.",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} Kho đồ của bạn có giá trị âm. Vui lòng liên hệ chúng tôi qua [Máy chủ Hỗ trợ](https://discord.gg/sofi)",
-    "GLOBAL_COOLDOWN": "{{author}} [`Toàn cầu`] Vui lòng chờ **{{cooldown}}** trước khi sử dụng lệnh tiếp theo",
+    "GLOBAL_COOLDOWN": "{{author}} [`Toàn cầu`] Vui lòng chờ **{{cooldown}}** trước khi sử dụng thêm bất kỳ lệnh nào",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Tôi cần: `{{permissions}}` để thực hiện lệnh này",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Bạn cần quyền **{{permissions}}** để sử dụng lệnh này",
     "REGISTER_USER": "{{author}} Sử dụng lệnh `{{prefix}}register` và truy cập vào trang web của chúng tôi để xác minh thông tin của bạn",
