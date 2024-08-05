@@ -1,5 +1,5 @@
 {
-    "NO_LISTING_FOUND": "{{author}} Không thể tìm thấy bất cứ hàng hoá nào như vậy trên thị trường",
+    "NO_LISTING_FOUND": "{{author}} Không thể tìm thấy bất kỳ hàng hoá nào như vậy trên thị trường",
     "MARKET_DESCRIPTION": "Lệnh này liệt kê tất cả các đơn đặt hàng hiện có trên thị trường. Thị trường này có thể được người chơi sử dụng để đề xuất các mặt hàng của họ trong trò chơi để đổi lấy Gems thông qua lệnh \"{{prefix}}marketlist\"",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Sẵn có: `{{stockAmount}}` {{stockEmoji}} | Tỷ lệ: `{{rateAmount}}` {{rateEmoji}}",
     "FOOTER": "Hiển thị kết quả từ {{page}}-{{pages}} của {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",

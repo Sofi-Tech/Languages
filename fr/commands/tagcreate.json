@@ -3,9 +3,9 @@
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}tc <NomDeTag> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre tag doit être alphanumérique et ne doit pas contenir de caractères spéciaux, d'espaces ou de mots injurieux",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre tag doit être alphanumérique et ne peut pas contenir de caractères spéciaux, d'espaces ou de mots injurieux",
     "LONG_TAGNAME": "{{author}} Le nom de votre tag ne peut contenir que **20** caractères",
     "TAGNAME_EXISTS": "{{author}} Vous possédez déjà un tag avec le nom `{{tag}}`",
-    "TAG_CREATED": "{{author}} Création réussie du tag nommé `{{tag}}` | {{emoji}}",
-    "TC_MAX_TAGS": "{{author}} Vous avez atteint la limite maximale du nombre de tags que vous pouvez créer"
+    "TAG_CREATED": "{{author}} Création du tag nommé `{{tag}}` | {{emoji}} avec succès",
+    "TC_MAX_TAGS": "{{author}} Vous avez atteint le nombre maximum de tags que vous pouvez créer"
 }

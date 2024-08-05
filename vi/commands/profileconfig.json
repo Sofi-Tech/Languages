@@ -28,7 +28,7 @@
     "PROVIDE_ACH_ID": "Huy hiệu trên hồ sơ của bạn sẽ hiển thị từ trái sang phải",
     "SET_FC_CONFIRM": "Bạn có chắc muốn đặt **{{character}}** từ **{{series}}** là nhân vật yêu thích của mình?",
     "CANNOT_SET_PBG": "{{author}} Bạn không có đủ **{{currency}}** để mua **Profile Background** này",
-    "PROCESS_NOT_COMPLETED": "Quá trình đã bị huỷ bỏ",
+    "PROCESS_NOT_COMPLETED": "Quá trình này đã bị hủy bỏ",
     "CANNOT_SET_TC": "{{author}} **Glow** đó đang trống",
     "CANNOT_SET_PG": "{{author}} **Glow** đó đang trống",
     "BGCOLOR_WIST_MISSING": "{{author}} Bạn cần 10 {{emoji}} để chỉnh màu hồ sơ",
@@ -96,5 +96,5 @@
     "PROVIDE_FAV_CC": "Nhập mã thẻ bạn muốn hiển thị trên hồ sơ",
     "PROVIDE_PROFILE_RING": "Nhập ID của **Profile Ring** để thiết lập nó. | Gõ `none` để đặt lại.",
     "PC_CHARACTER_NOT_FOUND": "{{author}} Không tìm thấy bất kỳ nhân vật nào với tên đó",
-    "PC_INTRO": "<:_:979009081325019156> **Giới Thiệu**: Đặt một thông điệp giới thiệu trên hồ sơ\n<:_:979009081325019156> **Nhân Vật Yêu Thích**: Chọn nhân vật yêu thích\n<:_:979009081325019156> **Bộ Phim Yêu Thích**: Chọn bộ phim yêu thích\n<:_:979009081325019156> **Thẻ Hiển Thị**: Chọn thẻ được hiển thị trên hồ sơ\n<:_:979009081325019156> **Profile Background**: Chọn background cho hồ sơ\n<:_:979009081325019156> **Màu Font**: Đổi màu chữ trên hồ sơ\n<:_:979009081325019156> **Profile Glow**: Áp dụng hiệu ứng phát sáng cho hồ sơ\n<:_:979009081325019156> **Huy Hiệu**: Hiển thị huy hiệu trên hồ sơ\n<:_:979009081325019156> **Màu Hồ Sơ**: Đổi màu cơ bản của hồ sơ\n<:_:979009081325019156> **Profile Ring**: Đặt một chiếc nhẫn vào ảnh đại diện trong hồ sơ\n<:_:979009081325019156> **Bật GIF**: Bật ảnh động và chọn thẻ cho hồ sơ"
+    "PC_INTRO": "<:_:979009081325019156> **Giới Thiệu**: Đặt một thông điệp giới thiệu trên hồ sơ\n<:_:979009081325019156> **Nhân Vật Yêu Thích**: Chọn nhân vật yêu thích\n<:_:979009081325019156> **Bộ Yêu Thích**: Chọn bộ yêu thích\n<:_:979009081325019156> **Thẻ Hiển Thị**: Chọn thẻ được hiển thị trên hồ sơ\n<:_:979009081325019156> **Profile Background**: Chọn background cho hồ sơ\n<:_:979009081325019156> **Màu Font**: Đổi màu chữ trên hồ sơ\n<:_:979009081325019156> **Profile Glow**: Áp dụng hiệu ứng phát sáng cho hồ sơ\n<:_:979009081325019156> **Huy Hiệu**: Hiển thị huy hiệu trên hồ sơ\n<:_:979009081325019156> **Màu Hồ Sơ**: Đổi màu cơ bản của hồ sơ\n<:_:979009081325019156> **Profile Ring**: Đặt một chiếc nhẫn vào ảnh đại diện trong hồ sơ\n<:_:979009081325019156> **Bật GIF**: Bật ảnh động và chọn thẻ cho hồ sơ"
 }

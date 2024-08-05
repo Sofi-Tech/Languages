@@ -1,7 +1,7 @@
 {
     "USER_NOT_FOUND": "{{author}} Không thể tìm thấy người dùng đó",
-    "PLAYER_NOT_EXIST": "{{author}} Người dùng đó chưa được đăng ký",
-    "NOT_AVAILABLE": "Series không hợp lệ",
+    "PLAYER_NOT_EXIST": "{{author}} Người dùng đó chưa đăng ký",
+    "NOT_AVAILABLE": "Bộ không hợp lệ",
     "SLASH_CMD_DESC": "Hiển thị bộ sưu tập thẻ của bạn",
     "SLASH_DESC": "Chọn một người để xem bộ sưu tập của họ",
     "SLASH_DESC2": "Chọn bộ lọc mà bạn muốn áp dụng cho bộ sưu tập",
@@ -12,7 +12,7 @@
     "SORT_CHAR": "Tên",
     "SORT_SERIES": "Bộ",
     "SORT_GEN": "Gen",
-    "CHECK_COSMETICS": "Thẻ được trang trí",
+    "CHECK_COSMETICS": "Mỹ phẩm",
     "VERSION_AVAILABILITY": "Version Khả Dụng",
     "3D_AVAIL": "3D Khả Dụng",
     "SORT_ATK": "Tấn công",
