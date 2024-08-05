@@ -26,5 +26,6 @@
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}m <KartenCode> <MorphItem>`",
     "NONE": "Keine",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
-    "ROLL_MORPH": "Der Morph wird nach 2 Minuten verschwinden"
+    "ROLL_MORPH": "Der Morph wird nach 2 Minuten verschwinden",
+    "CANNOT_APPLY_3D": "{{author}} Du kannst {{article}} **{{eventType}} Morph nicht auf **3D** Karten anwenden"
 }

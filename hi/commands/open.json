@@ -29,5 +29,5 @@
     "COMMON_RARE_FOOTER_other": "आप हर {{count}} दैनिक स्ट्रीक के बाद {{chestName}} प्राप्त कर सकते है",
     "COMMON_RARE_FOOTER_many": "आप हर {{count}} दैनिक स्ट्रीक के बाद {{chestName}} प्राप्त कर सकते है",
     "VERSION_CHEST_FOOTER": "Version chests को किसी भी समय खोला जा सकता है एवं इसका व्यापार भी किया जा सकता है",
-    "EQUIP_EQUIPMENTS": "उपकरणों का पत्ते पर उपयोग करने के लिए 'sstats <CardCode>' का प्रयोग करें"
+    "EQUIP_EQUIPMENTS": "उपकरणों का पत्ते पर उपयोग करने के लिए \"{{prefix}}stats <CardCode>\" का प्रयोग करें"
 }
