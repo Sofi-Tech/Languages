@@ -26,5 +26,6 @@
     "ROLL_MORPH": "El morph se perderá dentro de 2 minutos",
     "MNC_REROLL_COST": "Cada roll costará 1 {{currencyName}}",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} Las cartas **Monochrome 2023 3D** no pueden ser morpheadas",
-    "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})"
+    "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
+    "CANNOT_APPLY_3D": "{{author}} No puedes aplicar el morph {{article}} **{{eventType}}**a cartas **3D**"
 }

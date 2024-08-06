@@ -2,7 +2,7 @@
     "UNTAG_DESCRIPTION": "Sử dụng lệnh này để xóa nhãn khỏi thẻ của bạn. Nếu bạn muốn xóa toàn bộ một tag, bạn có thể sử dụng lệnh \"{{prefix}}tagdelete\" thay thế",
     "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
-    "INVALID_CODE": "{{author}} Mã thẻ không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ thành công nhãn khỏi thẻ ** {{cardName}}** của bạn",
     "MULTIPLE_UNTAG": "{{author}} Đã gỡ thành công nhãn khỏi **{{count}}** thẻ của bạn",
     "INVALID_CODE_MULTIPLE": "{{author}} Mã thẻ sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"

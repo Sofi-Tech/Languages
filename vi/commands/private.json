@@ -4,7 +4,7 @@
     "PVT_PUBLIC": "Công khai",
     "PVT_PRIVATE": "Riêng tư",
     "WRONG_ARGUMENTS": "{{author}} Cách sử dụng đúng: `{{prefix}}pvt <C/WL/INV/VT>`",
-    "PRIVATE_ENABLED": "{{author}} **{{content}}** của bạn bây giờ là riêng tư",
-    "PRIVATE_DISABLED": "{{author}} **{{content}}** của bạn giờ là công khai",
+    "PRIVATE_ENABLED": "{{author}} **{{content}}** của bạn hiện đang ở chế độ riêng tư",
+    "PRIVATE_DISABLED": "{{author}} **{{content}}** của bạn hiện đang ở chế độ công khai",
     "PRIVATE_DESCRIPTION": "Sử dụng lệnh này để chỉnh chế độ riêng tư một phần nào đó cho tài khoản của bạn. Người chơi khác sẽ không thấy phần đã chỉnh riêng tư. Sử dụng câu lệnh này sẽ hiển thị cài đặt hiện tại của bạn cho các phần này"
 }

@@ -6,6 +6,6 @@
     "INVALID_TAGNAME_FORMAT": "{{author}} Nama tag anda harus berupa alfanumerik dan tidak boleh mengandung karakter khusus, spasi, atau kata-kata kotor dalam bentuk apa pun",
     "LONG_TAGNAME": "{{author}} Nama tag anda hanya boleh terdiri dari **20** karakter",
     "TAGNAME_EXISTS": "{{author}} Anda sudah memiliki tag dengan nama `{{tag}}`",
-    "TAG_CREATED": "{{author}} Berhasil membuat tag dengan nama `{{tag}}}` | {{emoji}}",
+    "TAG_CREATED": "{{author}} Berhasil membuat tag dengan nama `{{tag}}` | {{emoji}}",
     "TC_MAX_TAGS": "{{author}} Anda telah mencapai jumlah maksimum tag yang dapat anda buat"
 }

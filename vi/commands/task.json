@@ -61,15 +61,15 @@
     "QUEST_REWARD": "Có thể nhận được **{{minimumShards}}** tới **{{maximumShards}}** <:_:1168102686785273916> và **{{minimumSilvers}}** tới **{{maximumSilvers}}** <:_:915619222229512213>\nvới số lượng kiếm thêm là **{{luckFactor}}x**\nSẽ nhận được **{{questXP}}** kinh nghiệm cho mỗi thẻ",
     "ABORT_BUTTON_LABEL": "Huỷ bỏ nhiệm vụ",
     "QUEST_ABORTED": "Nhiệm vụ đã bị huỷ. Bạn có thể bắt đầu một nhiệm vụ mới ngay bây giờ",
-    "QUEST_REWARDS_FOUR": "Nhiệm vụ nhận được {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks và {{ingotCount}} {{ingotName}} Ingot",
+    "QUEST_REWARDS_FOUR": "Nhiệm vụ nhận được {{shardCount}} Shard, {{silver}} Silver, {{xpSacks}} XP Sack và {{ingotCount}} {{ingotName}} Ingot",
     "CARD_INVALID": "Mã thẻ `{{code}}` là không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "NOT_AVAILABLE": "Không khả dụng",
     "ABORT_MODAL_LABEL": "Bạn có muốn huỷ bỏ nhiệm vụ không?",
-    "QUEST_REWARDS_ONE": "Nhiệm vụ nhận được {{shardCount}} Shards và {{silver}} Silver",
+    "QUEST_REWARDS_ONE": "Nhiệm vụ nhận được {{shardCount}} Shard và {{silver}} Silver",
     "DECK_SELECTED_other": "{{deck}} hiện đang tham gia {{quest}} trong {{count}} giờ",
     "DURATION_zero": "Thời gian: {{count}} giờ",
     "ELEMENT_PREFERENCE": "Nguyên tố ưa thích: {{elements}}",
-    "QUEST_REWARDS_THREE": "Nhiệm vụ nhận được {{shardCount}} Shards, {{silver}} Silver và {{ingotCount}} {{ingotName}} Ingot",
+    "QUEST_REWARDS_THREE": "Nhiệm vụ nhận được {{shardCount}} Shard, {{silver}} Silver và {{ingotCount}} {{ingotName}} Ingot",
     "DECK_SELECTED_two": "{{deck}} hiện đang tham gia {{quest}} trong {{count}} giờ",
     "DECK_INFO": "Thông tin bộ bài"
 }
