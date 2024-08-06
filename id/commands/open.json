@@ -28,6 +28,6 @@
     "GUILD_PACKAGE_PROMPT": "**__Pool Kartu Saat Ini __**\n{{poolLine}}\n\nApakah anda yakin ingin membuka paket ini?",
     "COMMON_RARE_FOOTER_other": "Anda bisa mendapatkan {{chestName}} setiap {{count}} streak harian",
     "COMMON_RARE_FOOTER_one": "Anda bisa mendapatkan {{chestName}} setiap {{count}} streak harian",
-    "EQUIP_EQUIPMENTS": "Gunakan 'sstats <KodeKartu>' untuk melengkapi perlengkapannya",
+    "EQUIP_EQUIPMENTS": "Gunakan perintah \"{{prefix}}stats <CardCode>\" untuk menggunakan perlengkapan",
     "VERSION_CHEST_FOOTER": "Version chests dapat diperjualbelikan dan dibuka kapan saja"
 }

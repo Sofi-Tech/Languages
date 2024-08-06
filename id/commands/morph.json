@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Ada yang salah, silakan cari perubahan lain",
     "NO_ITEM": "{{author}} Anda tidak memiliki cukup **{{item}}}**",
     "NO_CARD": "{{author}} Kartu tidak ada dalam koleksi anda lagi",
-    "MORPH_CONFIRM": "{{author}} Berhasil menerapkan **{{morphName}}** perubahan ke kartu Anda",
+    "MORPH_CONFIRM": "{{author}} Berhasil menerapkan morph **{{morphName}}** ke kartu Anda",
     "REROLL": "\nAnda tidak dapat membatalkan perubahan lagi",
     "UNDO_SUCCESSFUL": "\nMengembalikan perubahan sebelumnya untuk **{{amount}}** {{emoji}}",
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}m <KodeKartu> <Morphitem>`",
@@ -27,5 +27,6 @@
     "MNC_REROLL_COST": "Setiap percobaan akan dikenakan biaya 1 {{currencyName}}",
     "EMBED_TITLE": "SOFI: MORPH {{cardCode}}",
     "NO_SPECIAL_REROLLED": "Tidak ada perubahan khusus yang dicoba",
-    "SMR_REROLL_COST": "Setiap roll akan dikenakan biaya 500 {{currencyName}}"
+    "SMR_REROLL_COST": "Setiap roll akan dikenakan biaya 500 {{currencyName}}",
+    "CANNOT_APPLY_3D": "{{author}} Anda tidak dapat menerapkan morph {{article}} **{{eventType}}** pada kartu **3D**"
 }

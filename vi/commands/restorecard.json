@@ -5,7 +5,7 @@
     "CARD_EXPIRED": "{{author}} Thẻ có mã `{{code}}` đã quá hạn và không thể được khôi phục",
     "RESTORE_SUCCESSFUL": "{{author}} Thẻ có mã `{{code}}` đã được phục hồi thành công",
     "RESTORECARD_CATEGORY": "Thẻ",
-    "ENTER_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}restore <MãThẻ>`",
+    "ENTER_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}restore <CardCode>`",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
     "RESTORE_CONFIRMATION": "Bạn có chắc muốn khôi phục thẻ `{{code}}` với giá {{amount}} **{{currency}}** không?",
     "EMBED_FOOTER": "Bạn có thể khôi phục thẻ này cho đến ngày {{date}}",

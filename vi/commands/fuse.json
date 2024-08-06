@@ -3,12 +3,12 @@
     "FUSE_DESC": "Phòng Thí Nghiệm là nơi Sofi thử nghiệm và tạo ra những điều mới mẻ cho người chơi! Những tính năng thú vị được hiện thực hóa tại đây",
     "FUSE_DESC4": "<:_:979009081325019156> **Versions**: Sử dụng **Elixir** lên thẻ của bạn để nhận **Version** mới",
     "FUSE_DESC5": "<:_:979009081325019156> **Equipements**: Kết hợp các Equipment để tạo ra cấp độ tiếp theo",
-    "EQUIPMENTS_MENU_LABEL": "Equipments",
+    "EQUIPMENTS_MENU_LABEL": "Trang Bị",
     "EQUIPMENTS_MENU_DESCRIPTION": "Kết hợp Equipment",
     "BASE_CARD": "Thẻ Gốc",
     "VT_BUTTON_LABEL": "Version Token",
     "CONFIRM_BUTTON_LABEL": "Xác Nhận",
-    "VERSION_MENU_DESCRIPTION": "Nhận phiên bản mới cho thẻ của bạn",
+    "VERSION_MENU_DESCRIPTION": "Nhận Version mới cho thẻ của bạn",
     "VERSION_MENU_LABEL": "Versions",
     "CANCEL_BUTTON_LABEL": "Huỷ bỏ",
     "CHANGING_VT_DESC": "Đang thay đổi",
@@ -44,6 +44,6 @@
     "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Bạn cần **{{needAmount}} {{needTier}} {{needEquipmentType}}s** và **{{ingotsAmount}}** {{emoji}} để làm **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}**",
     "EQUIPMENT_FUSION_SUCCESS": "Kết hợp Trang Bị đã được thực hiện thành công\n{{moreInfo}}",
     "MISSING_ELIXIR": "Bạn không có đủ **Elixir**",
-    "VERSION_UPGRADE_FAILED": "Nâng cấp **Phiên bản** thất bại, hãy thử lại",
-    "VERSION_UPGRADE_SUCCESS": "Chúc mừng! **Phiên bản** đã được nâng cấp thành **{{version}}**"
+    "VERSION_UPGRADE_FAILED": "Nâng cấp **Version** thất bại, hãy thử lại",
+    "VERSION_UPGRADE_SUCCESS": "Chúc mừng! **Version** đã được nâng cấp thành **{{version}}**"
 }
