@@ -1,1 +1,75 @@
-{}
+{
+    "QUEST_BUTTON_LABEL": "مهام",
+    "QUEST_ENDED": "انتهت المهمة",
+    "TASK_DESCRIPTION": "استخدم هذا الأمر للذهاب في المهام وإكمال مهامك اليومية والأسبوعية والشهرية للحصول على المكافآت.",
+    "TASK_CATEGORY": "الإعدادات",
+    "STREAK_FOOTER": "سلسلة النجاح [ {{count}} ]",
+    "CUBES_REWARD_BUTTON_LABEL": "{{amount}} Cubes",
+    "FRAME_REWARD_BUTTON_LABEL": "Frame",
+    "DECK_SELECTED_zero": "{{deck}} الآن في مهمة {{quest}} لمدة {{count}} ساعة",
+    "QUEST_REWARDS_THREE": "حصلت المهمة على {{shardCount}} شظايا و{{silver}} فضة و{{ingotCount}} {{ingotName}} سبائك",
+    "SELECT_DECK_START": "يرجى اختيار مجموعة لبدء المهمة",
+    "DECK_SELECTED_one": "{{deck}} الآن في مهمة {{quest}} لمدة {{count}} ساعة",
+    "DECK_SELECTED_two": "{{deck}} الآن في مهمة {{quest}} لمدة {{count}} ساعتين",
+    "DECK_SELECTED_few": "{{deck}} الآن في مهمة {{quest}} لمدة {{count}} ساعات",
+    "DECK_SELECTED_other": "{{deck}} الآن في مهمة {{quest}} لمدة {{count}} ساعات",
+    "NO_QUEST_AVAILABLE": "لا توجد مهام متاحة",
+    "SELECT_BUTTON_LABEL": "اختر المجموعة",
+    "BEGIN_BUTTON_LABEL": "بدء المهمة",
+    "CLAIM_BUTTON_LABEL": "استلام المكافآت (المهام)",
+    "ABORT_BUTTON_LABEL": "إلغاء المهمة",
+    "SELECT_MENU_PLACEHOLDER": "اختر المهمة",
+    "ABORT_MODAL_LABEL": "هل تريد إلغاء المهمة؟",
+    "ABORT_MODAL_TITLE": "إلغاء المهمة",
+    "VOTE_BUTTON_LABEL": "Vote",
+    "BUMP_BUTTON_LABEL": "رفع",
+    "BACK_BUTTON_LABEL": "العودة",
+    "LEVEL": "المستوى",
+    "NOT_AVAILABLE": "غير متاح",
+    "REWARDS_LINE": "*ستتلقى {{reward}} في نهاية الشهر إذا كان لديك {{points}} نقاط مهمة*",
+    "EMBED_TITLE_one": "مهمة ({{count}} نقاط)",
+    "EMBED_TITLE_few": "مهام ({{count}} نقاط)",
+    "EMBED_TITLE_other": "مهام ({{count}} نقاط)",
+    "EMBED_TITLE_many": "مهمة ({{count}} نقاط)",
+    "QUESTS_HEADER": "### 🐉 __**مهام**__ (يتجدد {{time}})",
+    "NOT_ON_QUEST": "<:xstatusred:895546340367548486> حالياً لست في مهمة",
+    "LIFETIME_POINTS": "نقاط الحياة",
+    "QUEST_ENDS_IN": "تنتهي المهمة في:",
+    "QUEST_ABORTED": "تم إلغاء المهمة. يمكنك البدء في مهمة جديدة",
+    "QUEST_REWARDS_TWO": "حصلت المهمة على {{shardCount}} شظايا و{{silver}} فضة و{{xpSacks}} أكياس XP",
+    "SELECT_MODAL_LABEL": "أدخل اسم المجموعة",
+    "SELECT_MODAL_PLACEHOLDER": "مجموعة 1/1/[deckname]",
+    "SELECT_MODAL_TITLE": "اختر المجموعة",
+    "CARD_INVALID": "البطاقة بالرمز `{{code}}` إما غير صالحة أو ليست في مجموعتك",
+    "MONTHLY_REWARD_CHANGED": "نوع المكافأة الشهرية تغير إلى {{reward}}",
+    "SUCCESS_MODIFIERES": "معدلات النجاح",
+    "QUEST_INFO": "معلومات المهمة",
+    "DECK_INFO": "معلومات المجموعة",
+    "REWARDS": "المكافآت",
+    "BASE": "الأساس",
+    "GUILD": "النقابة",
+    "ELEMENT": "العنصر",
+    "STAT": "الإحصائية",
+    "DURATION_zero": "المدة: {{count}} ساعة",
+    "DURATION_two": "المدة: {{count}} ساعتين",
+    "DURATION_few": "المدة: {{count}} ساعات",
+    "DURATION_other": "المدة: {{count}} ساعة",
+    "ELEMENT_INFO": "العنصر: **{{element}}**",
+    "TYPE": "النوع: **{{type}}**",
+    "CAPABILITY": "القدرة: {{capability}}",
+    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**شهري**__ (يتجدد {{time}}) \n<:curvedline:979665878503272478> Vote 50 مرة في الشهر - {{votePoints}}/50",
+    "QUEST_REWARDS_FOUR": "حصلت المهمة على {{shardCount}} شظايا و{{silver}} فضة و{{xpSacks}} أكياس XP و{{ingotCount}} {{ingotName}} سبائك",
+    "ELEMENT_PREFERENCE": "التفضيل العنصري: {{elements}}",
+    "EMBED_TITLE_zero": "مهمة ({{count}} نقاط)",
+    "EMBED_TITLE_two": "مهمتان ({{count}} نقاط)",
+    "DECK_SELECTED_many": "{{deck}} الآن في مهمة {{quest}} لمدة {{count}} ساعة",
+    "NO_DECK_FOUND": "لم يتم العثور على مجموعة. يرجى إدخال اسم مجموعة صحيح",
+    "DURATION_many": "المدة: {{count}} ساعة",
+    "REWARD_ALREADY_CLAIMED": "تم استلام المكافأة بالفعل",
+    "DURATION_one": "المدة: {{count}} ساعة",
+    "DAILY_TASKS": "### <:1day:1168129639017893949> __**يومي**__ (يتجدد {{time}}) \n<:curvedline:979665878503272478> إسقاط 5 مرات - {{dropPoints}}/5 \n<:curvedline:979665878503272478> رفع في موقع Sofi.gg - {{bumpPoints}}/1 \n<:curvedline:979665878503272478> تحويل بطاقة - {{morphPoints}}/1 \n<:curvedline:979665878503272478> حرق 3 بطاقات - {{burnPoints}}/3",
+    "QUEST_EMBED_DESCRIPTION": "## معدل النجاح: **{{successRate}}%**",
+    "QUEST_REWARD": "يمكنك الحصول على **{{minimumShards}}** إلى **{{maximumShards}}** <:_:1168102686785273916> و **{{minimumSilvers}}** إلى **{{maximumSilvers}}** <:_:915619222229512213>\nمع كسب إضافي بنسبة **{{luckFactor}}x** \nسوف تكسب **{{questXP}}** خبرة لكل بطاقة",
+    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**أسبوعي**__ (يتجدد {{time}}) \n<:curvedline:979665878503272478> غزو 20 مرة - {{raidPoints}}/20 \n<:curvedline:979665878503272478> اذهب في مهمة - {{questPoints}}/15 \n<:curvedline:979665878503272478> رفع في موقع Sofi.gg - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> إسقاط 100 مرة - {{dropPoints}}/100 \n<:curvedline:979665878503272478> حرق 60 بطاقة - {{burnPoints}}/60 \n<:curvedline:979665878503272478> تسجيل 15000+ في غزو - {{raidScore}}/1",
+    "QUEST_REWARDS_ONE": "حصلت المهمة على {{shardCount}} شظايا و{{silver}} فضة"
+}
