@@ -68,7 +68,7 @@
     "BUILDING_COMPONENTS": "{{author}} Đang xây dựng các thành phần... 🏗️ <a:_:876610443148406794>",
     "COMBINING_ELEMENTS": "{{author}} Đang kết hợp các yếu tố... 🔄 <a:_:876610443148406794>",
     "FINAL_TOUCHES": "{{author}} Đang hoàn thiện các bước cuối cùng... ✨ <a:_:876610443148406794>",
-    "GIF_SUCCESSFUL": "{{author}} Hồ sơ GIF đã được tạo thành công. Sử dụng `spro` để xem",
+    "GIF_SUCCESSFUL": "{{author}} Hồ sơ GIF đã được tạo thành công. Sử dụng \"{{prefix}}pro\" command để xem.",
     "NO_GLOW": "Nhập mã **Glow**. Gõ `none` để gỡ bỏ.",
     "REMOVE_PROFILE_GLOW": "Bạn có chắc muốn gỡ **Glow** khỏi Profile Background không?",
     "SET_INTRO_CONFIRM": "Bạn có chắc muốn hiển thị văn bản sau trên hồ sơ không?\n\n```fix\n{{intro}}\n```",
@@ -96,5 +96,6 @@
     "PROVIDE_FAV_CC": "Nhập mã thẻ bạn muốn hiển thị trên hồ sơ",
     "PROVIDE_PROFILE_RING": "Nhập ID của **Profile Ring** để thiết lập nó. | Gõ `none` để đặt lại.",
     "PC_CHARACTER_NOT_FOUND": "{{author}} Không tìm thấy bất kỳ nhân vật nào với tên đó",
-    "PC_INTRO": "<:_:979009081325019156> **Giới Thiệu**: Đặt một thông điệp giới thiệu trên hồ sơ\n<:_:979009081325019156> **Nhân Vật Yêu Thích**: Chọn nhân vật yêu thích\n<:_:979009081325019156> **Bộ Yêu Thích**: Chọn bộ yêu thích\n<:_:979009081325019156> **Thẻ Hiển Thị**: Chọn thẻ được hiển thị trên hồ sơ\n<:_:979009081325019156> **Profile Background**: Chọn background cho hồ sơ\n<:_:979009081325019156> **Màu Font**: Đổi màu chữ trên hồ sơ\n<:_:979009081325019156> **Profile Glow**: Áp dụng hiệu ứng phát sáng cho hồ sơ\n<:_:979009081325019156> **Huy Hiệu**: Hiển thị huy hiệu trên hồ sơ\n<:_:979009081325019156> **Màu Hồ Sơ**: Đổi màu cơ bản của hồ sơ\n<:_:979009081325019156> **Profile Ring**: Đặt một chiếc nhẫn vào ảnh đại diện trong hồ sơ\n<:_:979009081325019156> **Bật GIF**: Bật ảnh động và chọn thẻ cho hồ sơ"
+    "PC_INTRO": "<:_:979009081325019156> **Giới Thiệu**: Đặt một thông điệp giới thiệu trên hồ sơ\n<:_:979009081325019156> **Nhân Vật Yêu Thích**: Chọn nhân vật yêu thích\n<:_:979009081325019156> **Bộ Yêu Thích**: Chọn bộ yêu thích\n<:_:979009081325019156> **Thẻ Hiển Thị**: Chọn thẻ được hiển thị trên hồ sơ\n<:_:979009081325019156> **Profile Background**: Chọn background cho hồ sơ\n<:_:979009081325019156> **Màu Font**: Đổi màu chữ trên hồ sơ\n<:_:979009081325019156> **Profile Glow**: Áp dụng hiệu ứng phát sáng cho hồ sơ\n<:_:979009081325019156> **Huy Hiệu**: Hiển thị huy hiệu trên hồ sơ\n<:_:979009081325019156> **Màu Hồ Sơ**: Đổi màu cơ bản của hồ sơ\n<:_:979009081325019156> **Profile Ring**: Đặt một chiếc nhẫn vào ảnh đại diện trong hồ sơ\n<:_:979009081325019156> **Bật GIF**: Cho phép sử dụng ảnh động và chọn thẻ cho hồ sơ",
+    "GIF_NOTE": "Lưu ý: Nếu đổi hồ sơ của bạn sang GIF sẽ bỏ Glow khỏi hồ sơ của bạn.\nBạn có muốn tiếp tục?"
 }

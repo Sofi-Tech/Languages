@@ -81,7 +81,7 @@
     "SUCCESSFUL_REMOVE_FCOLOR": "{{author}} Removio el **Glow** del texto de tu perfil con exito",
     "SUCCESSFUL_REMOVE_PGLOW": "{{author}} Removio el **Glow** del background de tu perfil con exito",
     "SUCCESSFUL_REMOVE_PCOLOR": "{{author}} Reseteo el color de tu perfil con exito",
-    "GIF_SUCCESSFUL": "{{author}} El perfil GIF fue generado con exito. Usa `spro`para ver",
+    "GIF_SUCCESSFUL": "{{author}} El perfil GIF fue generado con exito. Usa el comando `spro`para verlo.",
     "SELECT_BUTTON_LABEL": "Seleccionar",
     "PBG_MODAL_LABEL": "Introduce el ID del Profile Background",
     "PURHCASE_MODAL_TITLE": "Comprar Profile Background",
@@ -97,5 +97,6 @@
     "NO_PR_FOUND": "No se pudo encontrar el **Profile Ring** con el ID `{{id}}` en tu inventario",
     "PROVIDE_PROFILE_RING": "Introduce el ID del **Profile Ring** para aplicarlo. | Escribe `none` para quitarlo.",
     "PR_MENU_LABEL": "Profile Ring",
-    "SELECT_PR_CONFIRM": "Estas seguro que quieres seleccionar el **Profile Ring** **{{ringName}}**?"
+    "SELECT_PR_CONFIRM": "Estas seguro que quieres seleccionar el **Profile Ring** **{{ringName}}**?",
+    "GIF_NOTE": "Nota: Al convertir tu perfil a un GIF le quitará el Glow a tu perfil. \nEstás seguro de querer continuar?"
 }
