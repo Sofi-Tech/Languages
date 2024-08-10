@@ -4,7 +4,7 @@
     "VERIFY_BUTTON_LABEL": "Xác minh",
     "SUPPORT_BUTTON_LABEL": "Hỗ trợ",
     "COMMAND_BLACKLISTED": "{{author}} Lệnh `{{commandName}}` đã bị chặn trong kênh này",
-    "COMMAND_COOLDOWN": "{{author}}[`{{command}}`] Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
     "CATEGORY_DISABLED": "{{author}} Danh Mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Lệnh này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "VERIFY_TO_PLAY": "[Xác minh thông tin của bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)",

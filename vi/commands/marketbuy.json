@@ -6,7 +6,7 @@
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} ID-Đơn Hàng bạn cung cấp không hợp lệ",
     "CANNOT_PURCHASE": "{{user}} Bạn không thể tương tác với đơn hàng này",
-    "WIST_NOT_EXCEED": "{{author}} Đơn hàng chỉ còn **{{amount}}** `{{currency}}` để mua",
+    "WIST_NOT_EXCEED": "{{author}} Đơn hàng chỉ còn **{{amount}}** `{{currency}}` còn lại để mua",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY",
     "PRODUCT": "Bạn nhận được:",
     "VALUE": "Bạn trả:",

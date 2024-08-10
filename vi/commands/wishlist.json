@@ -3,7 +3,7 @@
     "CATEGORY": "Danh sách yêu thích",
     "WISHLIST_DESCRIPTION": "Sử dụng lệnh này sẽ liệt kê các nhân vật mà người dùng yêu thích. Để thêm một nhân vật vào danh sách yêu thích của bạn, hãy sử dụng lệnh \"{{prefix}}wishlistadd\"",
     "PAGE": "Sao chép Trang - {{page}}",
-    "WISHLIST_PRIVATE": "{{author}} Người dùng đó đã đặt danh sách yêu thích của họ ở chế độ riêng tư",
+    "WISHLIST_PRIVATE": "{{author}} Người dùng đó đã chỉnh danh sách yêu thích của họ ở chế độ riêng tư",
     "WISHLIST_EMPTY_SELF": "{{author}} Danh sách yêu thích của bạn đang trống",
     "WISHLIST_EMPTY": "{{author}} Danh sách yêu thích của người dùng đó đang trống",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",

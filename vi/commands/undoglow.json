@@ -3,7 +3,7 @@
     "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "UNDOGLOW_DESCRIPTION": "Sử dụng lệnh này trên một thẻ sẽ gỡ Glow được áp dụng lên nó",
     "UNG_CATEGORY": "Đồ trang trí",
-    "UNG_INVALID_USAGE": "{{author}} Cách sử dụng đúng: {{prefix}}ung <CardCode>",
+    "UNG_INVALID_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}ung <CardCode>`",
     "NO_CHARACTER": "{{author}} Nhân vật trên thẻ này hiện không còn tồn tại trên Sofi và không thể tương tác được",
     "NOT_GLOWED": "{{author}} Thẻ đó không được áp dụng **Glow**",
     "EMBED_TITLE": "SOFI: REMOVE GLOW",
@@ -11,6 +11,6 @@
     "EMBED_FOOTER": "**Glow** sẽ không trở lại trong kho đồ của bạn",
     "NO_GIF": "{{author}} Bạn không thể xoá các vật phẩm trang trí từ thẻ **GIF**",
     "UNG_NO_OWNER": "{{author}} Thẻ này không còn trong bộ sưu tập của bạn nữa",
-    "UNG_SUCCESSFUL": "{{author}} Đã thành công gỡ **{{glowName}} ** **Glow** khỏi thẻ của bạn",
+    "UNG_SUCCESSFUL": "{{author}} Đã thành công gỡ **Glow** **{{glowName}}** khỏi thẻ của bạn",
     "UNAVAILABLE": "Không khả dụng"
 }

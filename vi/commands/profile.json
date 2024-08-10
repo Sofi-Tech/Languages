@@ -2,6 +2,6 @@
     "PRO_CATEGORY": "Cài đặt",
     "USER_NOT_FOUND": "{{author}} Không thể tìm thấy người dùng đó",
     "PROFILE_NOT_FOUND": "{{author}} Người dùng đó chưa đăng ký",
-    "GIF_ENABLED": "{{author}} Hồ sơ của bạn đã bật tính năng GIF. Để tải hồ sơ GIF của bạn, hãy sử dụng lệnh `spc` và nhấp vào nút `Tải lại hồ sơ GIF` trong menu thả xuống",
-    "PROFILE_DESCRIPTION": "Lệnh này sẽ hiển thị hồ sơ của người dùng. Bạn có thể định tuỳ chỉnh hồ sơ của riêng mình bằng cách sử dụng lệnh \"{{prefix}}profileconfig\""
+    "GIF_ENABLED": "{{author}} Hồ sơ của bạn đã bật tính năng GIF. Để tải hồ sơ GIF của bạn, hãy sử dụng lệnh `spc` và nhấp vào nút `Tải lại hồ sơ GIF` trong menu ở dưới",
+    "PROFILE_DESCRIPTION": "Lệnh này sẽ hiển thị hồ sơ của người dùng. Bạn có thể tuỳ chỉnh hồ sơ của riêng mình bằng cách sử dụng lệnh \"{{prefix}}profileconfig\""
 }

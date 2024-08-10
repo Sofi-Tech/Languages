@@ -14,7 +14,7 @@
     "REPLACE_NAME_CONFIRMATION": "Bạn có chắc chắn muốn đổi tên nhãn này từ `{{oldTag}}` thành `{{newTag}}` không?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} Đã thay đổi tên nhãn của bạn từ `{{oldTag}}` thành `{{newTag}}` thành công",
     "PROCESS_TERMINATED": "Quá trình này đã bị hủy bỏ",
-    "REPLACE_EMOJI": "Nhập emoji mà bạn muốn thay thế {{emoji}} bằng",
+    "REPLACE_EMOJI": "Nhập emoji mà bạn muốn thay thế cho {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Emoji đó không hợp lệ",
     "REPLACE_EMOJI_CONFIRMATION": "Bạn có chắc chắn muốn thay đổi emoji của nhãn này từ {{oldEmoji}} thành {{newEmoji}} không?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Đã cập nhật emoji của nhãn này từ {{oldEmoji}} thành {{newEmoji}} thành công"
