@@ -81,7 +81,7 @@
     "SUCCESSFUL_REMOVE_FCOLOR": "{{author}} Removio el **Glow** del texto de tu perfil con exito",
     "SUCCESSFUL_REMOVE_PGLOW": "{{author}} Removio el **Glow** del background de tu perfil con exito",
     "SUCCESSFUL_REMOVE_PCOLOR": "{{author}} Reseteo el color de tu perfil con exito",
-    "GIF_SUCCESSFUL": "{{author}} El perfil GIF fue generado con exito. Usa el comando `spro`para verlo.",
+    "GIF_SUCCESSFUL": "{{author}} El perfil GIF fue generado con exito. Usa el comando \"{{prefix}}pro\" para verlo.",
     "SELECT_BUTTON_LABEL": "Seleccionar",
     "PBG_MODAL_LABEL": "Introduce el ID del Profile Background",
     "PURHCASE_MODAL_TITLE": "Comprar Profile Background",

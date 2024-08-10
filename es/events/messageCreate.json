@@ -9,7 +9,7 @@
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Espera **{{cooldown}}** antes de usar algún comando de nuevo",
     "COMMAND_BLACKLISTED": "{{author}} El comando `{{commandName}}` está en la lista negra de este canal",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Sofi requiere el permiso `{{permissions}}` para ejecutar este comando",
-    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Necesitas el permiso `{{permissions}}` para usar ese comando",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Necesitas los permisos `{{permissions}}` para usar ese comando",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Espera **{{cooldown}}** antes de usar este comando otra vez",
     "REGISTER_USER": "{{author}} Usa el comando `{{prefix}}register` y accede al sitio para verificar tu cuenta",
     "USER_COMMAND_QUEUE": "{{author}} Completa el comando `{{existsFor}}` antes de proceder",
