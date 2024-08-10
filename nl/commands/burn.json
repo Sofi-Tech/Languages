@@ -1,9 +1,9 @@
 {
-    "BURN_DESCRIPTION": "Gebruik deze commando om selectieve kaarten te verbranden in ruil voor Silver en Cubes die nodig zijn om kaarten te upgraden naar hun 3D-variant. Als u deze commando gebruikt zonder een kaartcode toe te voegen, wordt geprobeerd uw meest recent verkregen kaart te verbranden",
+    "BURN_DESCRIPTION": "Gebruik deze commando om selectieve kaarten te verbranden in ruil voor Silver en Cubes die nodig zijn om kaarten te upgraden naar hun 3D-variant. Als u deze commando gebruikt zonder een kaartcode toe te voegen, wordt uw meest recent verkregen kaart verbranden",
     "GUILDSTONE_BURN": "Weet u zeker dat u uw **Guild Stone** wilt verbranden?",
     "GUILDSTONE_NOT_FOUND": "{{author}} U heeft geen **Guild Stone**",
     "CANCELLED": "Het proces is geannuleerd",
-    "BURN_FRAG_WARN": "Weet je zeker dat je dit **Fragment** wilt verbranden?\n\nNaam: **{{characterName}}**\nSerie: **{{seriesName}}**\nCode: `{{fragCode}}`",
+    "BURN_FRAG_WARN": "Weet u zeker dat u dit **Fragment** wilt verbranden?\n\nNaam: **{{characterName}}**\nSerie: **{{seriesName}}**\nCode: `{{fragCode}}`",
     "FRAG_NOT_FOUND": "{{author}} De **Fragment** code die u heeft opgegeven, is ongeldig of bevindt zich niet in uw verzameling",
     "CARD_NOT_FOUND": "{{author}} De door u opgegeven kaartcode is ongeldig of bevindt zich niet in uw verzameling",
     "CARD_LOCKED": "{{author}} Die kaart is vergrendeld en kan niet worden verbrand",

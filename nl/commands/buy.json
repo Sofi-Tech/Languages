@@ -1,15 +1,15 @@
 {
-    "BUY_DESCRIPTION": "Het gebruik van dit commando in combinatie met een voorwerp naam en hoeveelheid zal een transactie embed openen om het specifieke voorwerp aan te kopen. Gebruik het \"Shop\" commando om alle beschikbare voorwerpen te zien",
+    "BUY_DESCRIPTION": "Als u deze opdracht gebruikt in combinatie met de naam en het bedrag van een artikel, wordt een transactie-insluiting geopend om het specifieke artikel te kopen. Gebruik de opdracht \"{{prefix}}shop\" om alle beschikbare artikelen te bekijken",
     "SLASH_DESC": "Voer de naam van het voorwerp in dat u wilt kopen",
     "SLASH_DESC2": "Voer het bedrag in",
-    "SLASH_DESC3": "Voer de code in van de Achtergrond die u wilt kopen. [WERKT ALLEEN ALS HET ITEM GESELECTEERD IS ALS ACHTERGROND]",
+    "SLASH_DESC3": "Voer de code in van de Background die u wilt kopen. [WERKT ALLEEN ALS HET ITEM GESELECTEERD IS ALS ACHTERGROND]",
     "NO_ITEM": "{{author}} Correct gebruik: `{{prefix}}buy <ItemNaam> <Hoeveelheid>`",
     "TRADEPASS_INFO": "Bezoek onze website onderaan om te **Bumpen** en uw punten in te wisselen voor verschillende items, waaronder de **Trade Pass**",
     "CORRECT_USAGE": "{{user}} Correct gebruik: `{{prefix}}buy bg <Achtergrond-ID> <Hoeveelheid>`",
-    "INVALID_BG_AMOUNT": "{{author}} U kan geen negative hoeveelheid van een item kopen",
+    "INVALID_BG_AMOUNT": "{{author}} U kan geen negatief hoeveelheid van een item kopen",
     "INVALID_BG_ID": "{{author}} Kon geen **Achtergrond** vinden met dat ID",
     "INVALID_ITEM_PROVIDED": "{{user}} Het item dat u opgaf is ongeldig",
     "BUY_CHARMS_MULTIPLES": "{{author}} U kan alleen **Charms** kopen in veelvouden van 100",
-    "BUY_CHARM_CONFIRMATION": "## U bent {{amount}} <:xcharm:988729774031638528> aan het kopen",
-    "BUY_GEN_CONFIRMATION": "## U bent {{count}} gen scratchers aan het kopen"
+    "BUY_CHARM_CONFIRMATION": "## U bent {{amount}} {{itemName}} <:xcharm:988729774031638528> aan het kopen",
+    "BUY_GEN_CONFIRMATION": "## U koopt {{count}} {{itemName}} 💳"
 }
