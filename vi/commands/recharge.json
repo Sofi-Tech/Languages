@@ -9,6 +9,6 @@
     "GLOW_AVAILABLE": "{{author}} Glow đó đã được nạp đầy rồi",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW",
     "NO_MONEY": "{{author}} Bạn không có đủ **Recharge** cho quá trình này!",
-    "SUCCESSFUL_RECHARGE": "{{author}} Đã nạp lại Glow {{glowName}} của bạn thành công!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Đã nạp lại **{{glowName}}** **Glow** của bạn thành công!",
     "SUPER_RECHARGE_CONFIRMATION": "Bạn có chắc chắn muốn nạp lại **Glow** này không?\n\nTên: **{{name}} (Super)**\nMã: `{{glowCode}}`\nGiá: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
