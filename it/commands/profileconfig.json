@@ -49,5 +49,7 @@
     "SUCCESSFUL_BACKGROUND": "{{author}} Imposta con successo **{{backgroundName}}** come sfondo del tuo profilo",
     "SUCCESSFUL_FONT_COLOR": "{{author}} Ha applicato con successo il **{{glowName}}** **Glow** al font del tuo profilo",
     "SUCCESSFUL_PROFILE_GLOW": "{{author}} Imposta con successo **{{glowName}}** come **Glow** del tuo profilo",
-    "SUCCESSFUL_AWARDS": "{{author}} Ha inserito con successo i premi selezionati sul tuo profilo"
+    "SUCCESSFUL_AWARDS": "{{author}} Ha inserito con successo i premi selezionati sul tuo profilo",
+    "GIF_NOTE": "Nota: la conversione del tuo profilo in GIF rimuoverà il Glow dal tuo profilo. \nSei sicuro di voler continuare?",
+    "GIF_SUCCESSFUL": "Il profilo GIF {{author}} è stato generato con successo. Utilizza il comando \"{{prefix}}pro\" per visualizzarlo."
 }

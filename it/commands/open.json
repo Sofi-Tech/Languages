@@ -27,5 +27,6 @@
     "COMMON_RARE_FOOTER_other": "Puoi ottenere un {{chestName}} ogni {{count}} serie giornaliere",
     "COMMON_RARE_FOOTER_many": "Puoi ottenere un {{chestName}} ogni {{count}} serie giornaliere",
     "COMMON_RARE_FOOTER_zero": "Puoi ottenere un {{chestName}} ogni {{count}} serie giornaliera",
-    "COMMON_RARE_FOOTER_few": "Puoi ottenere un {{chestName}} ogni {{count}} serie giornaliere"
+    "COMMON_RARE_FOOTER_few": "Puoi ottenere un {{chestName}} ogni {{count}} serie giornaliere",
+    "EQUIP_EQUIPMENTS": "Usa il comando \"{{prefix}}stats <CardCode>\" per equipaggiare gli equipaggiamenti"
 }
