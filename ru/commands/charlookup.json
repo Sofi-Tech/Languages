@@ -19,7 +19,7 @@
     "CARD_ID": "Идентификатор карты:",
     "ENTER_AMOUNT": "Введите количество",
     "MODAL_TITLE": "SOFI: Добавить очки фаната",
-    "CORRECT_EXAMPLE": "{{author}} Принимаемая валюта: **Silver**, **Gems**, **Fan Points**",
+    "CORRECT_EXAMPLE": "{{author}} Принимаемые валюты: **Silver**, **Gems**, **Fan Points**",
     "MISSING_ITEMS": "{{author}} У вас недостаточно **{{itemName}}** для данного процесса",
     "3D_MAKER": "**3D**-Художник",
     "CARD_MAKER": "**GIF**-Художник",
@@ -37,5 +37,6 @@
     "FAN_PTS_ADDED_two": "{{author}} **{{count}}** очка успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_few": "{{author}} **{{count}}** очка успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_other": "{{author}} **{{count}}** очков успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_many": "{{author}} **{{count}}** очков успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "FAN_PTS_ADDED_many": "{{author}} **{{count}}** очков успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "MINIMUM_POINTS": "Вам нужно добавить минимум 1000 Очков Фаната для отображения на таблице лидеров"
 }
