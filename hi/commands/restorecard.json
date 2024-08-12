@@ -8,7 +8,7 @@
     "CARD_EXPIRED": "{{author}} `{{code}}` कोड को अब वापस नहीं लाया जा सकता",
     "CARD_NOT_FOUND": "{{author}} आपके द्वारा जलाये गए पत्तों में `{{code}}` कोड मौजूद नहीं है",
     "ENTER_CODE": "{{author}} सही उपयोग: `{{prefix}}restore <CardCode>`",
-    "RESTORE_CONFIRMATION": "क्या आप वाकई में {{amount}} **{{currency}}** के बदले `{{code}}` को वापस लाना चाहते हैं?",
+    "RESTORE_CONFIRMATION": "क्या आप वाकई में **{{amount}}** **{{currency}}** के बदले `{{code}}` को वापस लाना चाहते हैं?",
     "CARD_NOT_BURNED": "{{author}} `{{code}}` को अभी तक जलाया नहीं गया है",
     "EMBED_FOOTER": "आप इस पत्ते को {{date}} से पहले तक ही प्राप्त कर सकते हैं"
 }
