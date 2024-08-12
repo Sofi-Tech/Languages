@@ -9,7 +9,7 @@
     "FRAME_NOT_FOUND": "{{author}} Bạn không có ** **Frame** ** {{frameName}}",
     "UF_SUCCESSFUL": "{{author}} Đã áp dụng thành công **{{frameName}}** **Frame** cho thẻ của bạn",
     "USEFRAME_DESCRIPTION": "Lệnh này sẽ áp dụng Frame cho thẻ được chọn. Bạn có thể mua Frame bằng cách sử dụng lệnh \"{{prefix}}frameshop\"",
-    "UF_CONFIRMATION": "Bạn có chắc chắn muốn áp dụng **Frame** ** {{frameName}} ** cho thẻ này không?",
+    "UF_CONFIRMATION": "Bạn có chắc chắn muốn áp dụng ** {{frameName}} ** **Frame** cho thẻ này không?",
     "UF_INVALID_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
     "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn"
 }
