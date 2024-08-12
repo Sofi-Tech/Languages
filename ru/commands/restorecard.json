@@ -2,7 +2,7 @@
     "RESTORECARD_DESCRIPTION": "Вы можете использовать данную команду в течение 3 дней после сожжения карты для ее восстановления",
     "RESTORECARD_CATEGORY": "Карты",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Вы уверены, что хотите восстановить карту с кодом `{{code}}` за {{amount}} **{{currency}}**?",
+    "RESTORE_CONFIRMATION": "Вы уверены, что хотите восстановить карту с кодом `{{code}}` за **{{amount}}** **{{currency}}**?",
     "EMBED_FOOTER": "Вы можете восстановить данную карту до {{date}}",
     "MISSING_CURRENCY": "{{author}} Вам необходимо {{amount}}** {{currency}}** для восстановления карты",
     "RESTORE_SUCCESSFUL": "{{author}} Карта с кодом `{{code}}` успешно восстановлена",
