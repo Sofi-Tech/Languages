@@ -13,5 +13,6 @@
     "NO_TP_2": "{{author}} Necesitas un **Trade Pass** activo para participar!",
     "INSUFFICIENT_CURRENCY": "{{author}} No tienes suficientes **{{currency}}** para participar en este juego",
     "MORE": "más...",
-    "INFO_4": "**Participantes [{{totalPlayers}}]**"
+    "INFO_4": "**Participantes [{{totalPlayers}}]**",
+    "WIST_LIMIT": "{{author}} Solo puedes apostar un máximo de 10 wist en cada ocasión"
 }
