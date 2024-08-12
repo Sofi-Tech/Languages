@@ -10,7 +10,7 @@
     "PULL_COUNT": "Pull Count: [ {{count}} ]",
     "PULL_CHANCES": "**__Probabilities__**",
     "MISSING_CURR": "{{user}} You don't have enough **{{currName}}** for this process",
-    "AMOUNT": "You received: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
+    "AMOUNT": "You received: {{currencyEmoji}} **{{amount}}** **{{pullOutcome}}**",
     "PULL_COUNT_WIST": "Pull Count: [ {{pullcount}} ]",
     "GIF_CHANCE": "Pull and have a chance of getting a GIF card",
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
