@@ -11,5 +11,8 @@
     "SI_TOTAL_GIVEN": "Tổng Đã Cho",
     "SI_NAME_UNAVAILABLE": "Tên không khả dụng",
     "EMBED_FOOTER": "Prefix máy chủ: \"{{prefix}}\"",
-    "SI_NOT_SET": "Chưa đặt"
+    "SI_NOT_SET": "Chưa đặt",
+    "ALLOW_LANG_MENU_LABEL": "Cho phép tất cả ngôn ngữ",
+    "ONE_LANG_MENU_LABEL": "Chỉ cho phép {{locale}}",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Giới hạn ngôn ngữ trong server của bạn"
 }
