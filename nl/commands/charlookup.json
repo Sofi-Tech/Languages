@@ -37,5 +37,6 @@
     "FAN_PTS_ADDED_other": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_two": "{{currentPoints}}{{author}} Met succes toegevoegd **{{count}}** punt naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_one": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "FAN_PTS_ADDED_one": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "MINIMUM_POINTS": "Je moet minimaal 1000 Fan Points toevoegen om op een scorebord te verschijnen"
 }

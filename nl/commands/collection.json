@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Deze commando zal uw volledige collectie weergeven, deze kan dan gesorteerd en gefilterd worden op verschillende manieren. Het gebruik van deze commando met aanvullende prompts zal de embed openen met de specifieke filter toegepast. Gebruik de prompt \"t:ut\" naast deze commando om alle kaarten in uw collectie te markeren die momenteel nog geen tag hebben",
+    "COLLECTION_DESCRIPTION": "Met deze opdracht wordt uw volledige verzameling weergegeven, die vervolgens op verschillende manieren kan worden gesorteerd en gefilterd. Als u deze opdracht met extra aanwijzingen gebruikt, wordt de insluiting geopend met het specifieke filter dat er al op is toegepast. Gebruik de prompt \"t:ut\" naast deze opdracht om alle kaarten in uw verzameling te markeren die momenteel geen tag hebben. Gebruik de opdracht \"{{prefix}}help filter\" om alle beschikbare filters te bekijken",
     "SLASH_CMD_DESC": "Bekijk uw kaarten verzameling",
     "SLASH_DESC": "Selecteer de gebruiker van wie u de collectie wilt zien",
     "SLASH_DESC2": "Voer de filter in die u op de collectie wilt toepassen",
@@ -27,13 +27,13 @@
     "NO_RESULTS_OTHERS": "{{author}} Die gebruiker heeft geen kaarten in hun collectie",
     "TAG_MODAL_LABEL": "Massaal Taggen",
     "TAG_MODAL_TITLE": "Voer een \"Tag\" in",
-    "ALL_UNTAG_SUCCESS_zero": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaarten `{{tagName}}`",
+    "ALL_UNTAG_SUCCESS_zero": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaart `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_one": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaart `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_two": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaarten `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_few": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaarten `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_other": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaarten `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_many": "{{author}} Succesvol de volgende tag verwijderd van **{{count}}** kaarten `{{tagName}}`",
-    "ALL_TAG_SUCCESS_zero": "{{author}} Succesvol de volgende tag toegevoegd aan **{{count}}** kaarten `{{tagName}}`",
+    "ALL_TAG_SUCCESS_zero": "{{author}} Succesvol de volgende tag toegevoegd aan **{{count}}** kaart `{{tagName}}`",
     "ALL_TAG_SUCCESS_one": "{{author}} Succesvol de volgende tag toegevoegd aan **{{count}}** kaart `{{tagName}}`",
     "ALL_TAG_SUCCESS_two": "{{author}} Succesvol de volgende tag toegevoegd aan **{{count}}** kaarten `{{tagName}}`",
     "ALL_TAG_SUCCESS_few": "{{author}} Succesvol de volgende tag toegevoegd aan **{{count}}** kaarten `{{tagName}}`",
@@ -57,6 +57,11 @@
     "FILTER_NAME_PLACEHOLDER": "Voer een naam voor uw filter in",
     "FILTER_NAME_TOO_LONG": "{{author}} De naam van uw filter mag niet langer dan **20** karakters zijn",
     "FILTER_NAME_PROFANE": "{{author}} De naam van uw filter mag geen vloeken bevatten",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden die overeenkomen met uw geselecteerde filter",
-    "FILTER_DELETE": "Verwijder een filter"
+    "FILTER_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden die overeenkomen met het geselecteerde filter. Gebruik de opdracht `{{prefix}}help filter` voor meer informatie over alle beschikbare filters",
+    "FILTER_DELETE": "Verwijder een filter",
+    "VERSION_AVAILABILITY": "Beschikbaarheid van versies",
+    "SORT_GEN": "Gen",
+    "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
+    "SAVED_FILTER": "Selecteer een filter",
+    "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}"
 }

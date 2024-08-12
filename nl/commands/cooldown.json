@@ -1,14 +1,19 @@
 {
-    "COOLDOWN_DESCRIPTION": "Deze commando zal een lijst van uw huidige cooldowns weergeven. Als u een melding wilt ontvangen voor uw Vote/Daily/Bump cooldown, klik op de bel icoon onder de embed",
-    "JOIN_SUPPORT_SERVER": "[Join de support server voor hulp!](https://discord.gg/sofi)",
-    "DROP": "Drop",
-    "GRAB": "Grab",
-    "BUMP": "Bump",
+    "COOLDOWN_DESCRIPTION": "Met deze opdracht wordt een lijst met uw huidige cooldowns weergegeven. Als u op de hoogte wilt worden gehouden van uw Vote/Daily/Bump cooldown, klik dan op het belpictogram onder de insluiting",
+    "JOIN_SUPPORT_SERVER": "**[Join de support server voor hulp!](https://discord.gg/sofi)**",
+    "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
+    "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grijpen `** | **{{cooldown}}**",
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "UNREAD_MAIL_two": "\n📫 U heeft **{{count}}** ongelezen mails",
     "UNREAD_MAIL_few": "\n📫 U heeft **{{count}}** ongelezen mails",
     "UNREAD_MAIL_one": "\n📫 U heeft **{{count}}** ongelezen mail",
     "READY": "Gereed",
     "UNREAD_MAIL_other": "\n📫 U heeft **{{count}}** ongelezen mails",
     "UNREAD_MAIL_zero": "\n📫 U heeft **{{count}}** ongelezen mail",
-    "UNREAD_MAIL_many": "\n📫 U heeft **{{count}}** ongelezen mails"
+    "UNREAD_MAIL_many": "\n📫 U heeft **{{count}}** ongelezen mails",
+    "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
+    "VOTE_LABEL": "Vote",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
+    "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
+    "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**"
 }
