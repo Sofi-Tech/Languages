@@ -6,7 +6,7 @@
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể đã dẫn đến việc này:**\n```CSS\n- Tương tác với Sofi từ nhiều tài khoản (Alting)\n- Bán hoặc mua toàn bộ tài khoản Discord\n- Lừa đảo người dùng khác\n- Lợi dụng hoặc tham gia vào bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại danh sách đen của bạn](<https://sofi.gg/appeal>)\n:link: [Máy chủ hỗ trợ](https://discord.gg/sofi)",
     "VERIFY_BUTTON_LABEL": "Xác minh",
     "SUPPORT_BUTTON_LABEL": "Hỗ trợ",
-    "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Toàn cầu]** Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
+    "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
     "COMMAND_BLACKLISTED": "{{author}} Lệnh `{{commandName}}` đã bị chặn trong kênh này",
     "REGISTER_TO_PLAY": "{{author}} Hãy sử dụng lệnh `{{prefix}}register` để bắt đầu chuyến hành trình cùng **Sofi**!",
     "CATEGORY_DISABLED": "{{author}} Danh Mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
