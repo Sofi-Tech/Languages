@@ -13,7 +13,7 @@
     "CARD_NOT_OWNED": "{{author}} Thẻ đó không còn trong bộ sưu tập của bạn",
     "SERIES": "Bộ:",
     "QUEST_CARD": "Bạn không thể đốt thẻ hiện đang được sử dụng trong nhiệm vụ",
-    "BURN_DESCRIPTION": "Sử dụng lệnh này để đốt một thẻ để đổi lấy thêm Silver và Cube, những nguyên liệu cần thiết để nâng cấp thẻ thành phiên bản 3D. Nếu sử dụng lệnh này mà không thêm mã thẻ sẽ đốt thẻ bạn nhận được gần đây nhất",
+    "BURN_DESCRIPTION": "Sử dụng lệnh này để đốt một thẻ để đổi lấy Silver và Cube, những nguyên liệu cần thiết để nâng cấp thẻ thành phiên bản 3D. Nếu sử dụng lệnh này mà không thêm mã thẻ sẽ đốt thẻ bạn nhận được gần đây nhất",
     "SUCCESSFUL_CARD_BURN": "{{author}} Bạn đã đốt thẻ thành công",
     "BURN_FRAG_WARN": "Bạn có chắc muốn đốt **Fragment** này không?\n\nTên: **{{characterName}}**\nSeries: **{{seriesName}}**\nMã: `{{fragCode}}`",
     "BURN_CARD_LOCKED": "{{author}} Thẻ đó hiện tại đang sử dụng trong một bộ bài hoặc không thể bị đốt",

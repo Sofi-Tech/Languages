@@ -16,11 +16,12 @@
     "EXOTIC_DIVINE_FOOTER": "U kan {{article}} {{chestName}} verkrijgen door {{count}} keren te stemmen elke maand",
     "PROCESS_CANCELLED": "Het proces is geannuleerd",
     "VERSION_CHEST_FOOTER": "Version chests kunnen op elk moment verhandeld en geopend worden",
-    "EQUIP_EQUIPMENTS": "Gebruik 'sstats <KaartCode>' om de uitrusting uit te rusten",
+    "EQUIP_EQUIPMENTS": "Gebruik de \"{{prefix}}stats <Kaartcode>\" opdracht om de apparatuur uit te rusten",
     "GUILD_CHEST_FOOTER": "U kan een Guild Chest verkrijgen op het einde van elk seizoen",
     "CLAIMED": "Geclaimd",
     "GUILD_PACKAGE_SUCCESS": "Gefeliciteerd! Uw **Guild Package** bevat de **{{charName}}** **3D-V2** kaart en 💳 **{{amount}}x** **Gen Scratcher**",
     "NOIR_FOUND": "U vond een <:noiressence:1115496193775116411> **Noir Essence** in uw kist!",
     "GUILD_PACKAGE_PROMPT": "**__Huidige Kaartenpool__**\n{{poolLine}}\n\nBent u zeker dat u dit pakket wilt openen?",
-    "CORRECT_USAGE_2": "Items die kunnen geopend worden: **Kisten**"
+    "CORRECT_USAGE_2": "Items die kunnen geopend worden: **Kisten**",
+    "EMBED_TITLE": "SOFI: OPEN ({{itemName}})"
 }

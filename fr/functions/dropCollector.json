@@ -10,6 +10,6 @@
     "CANNOT_BE_GRABBED": "{{user}} Les cartes ci-dessous ne peuvent plus être **grab**",
     "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes",
     "GRAB_VERSION": "{{winner}} a combattu {{user}} et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
-    "TOOK_VERSION": "{{winner}} a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \n\nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
+    "TOOK_VERSION": "{{winner}} a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
     "GRAB_VERSION_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token"
 }

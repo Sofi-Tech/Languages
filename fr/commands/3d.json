@@ -13,5 +13,6 @@
     "HALLOWEEN_3D_FAILED": "{{author}} Un fantôme a infecté votre carte! Le processus a échoué!",
     "3D_NOTE": "Vous êtes sur le point de convertir cette carte dans sa variante 3D. Ce processus est permanent et ne peut pas être annulé. Toute Frame attachée sera perdue au cours de ce processus. La carte convertie aura une Gen proportionnelle à son ancienne",
     "UPGRADE_3D_CANCEL": "Le processus a été annulé",
-    "EVENT_NOTE": "Vous êtes sur le point de convertir cette carte dans sa variante Event-3D. Ce processus est permanent et ne peut pas être annulé. Toute Frame attachée sera perdue au cours de ce processus. Les cartes d'événement ont une Gen cachée que vous pourrez révéler une fois l'événement terminé via notre site web"
+    "EVENT_NOTE": "Vous êtes sur le point de convertir cette carte dans sa variante Event-3D. Ce processus est permanent et ne peut pas être annulé. Toute Frame attachée sera perdue au cours de ce processus. Les cartes d'événement ont une Gen cachée que vous pourrez révéler une fois l'événement terminé via notre site web",
+    "NO_APRIL_FOOL": "{{author}} Les cartes de la série April Fool ne peuvent pas être converties en 3D"
 }

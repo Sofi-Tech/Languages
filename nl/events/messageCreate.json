@@ -9,7 +9,7 @@
     "GLOBAL_COOLDOWN": "{{author}} [`Globaal`] Wacht **{{cooldown}}** voordat u weer andere commandos gebruikt",
     "COMMAND_BLACKLISTED": "{{author}} De `{{commandName}}` commando staat op de zwarte lijst in dit kanaal",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Ik heb de volgende machtigingen nodig: `{{permissions}}` om dit commando uit te voeren",
-    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} U heeft de volgende machtigingen nodig: `{{permissions}}` om dit commando te gebruiken",
+    "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Je hebt toestemming nodig **{{permissions}}** om deze opdracht te gebruiken",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wacht voor **{{cooldown}}** voor u dit commando weer gebruikt",
     "REGISTER_USER": "{{author}} Gebruik het commando `{{prefix}}register` en bezoek onze website om uwzelf te verifiëren",
     "USER_COMMAND_QUEUE": "{{author}} Compleet de `{{existsFor}}` commando voordat u verder gaat",
