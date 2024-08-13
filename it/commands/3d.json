@@ -13,5 +13,6 @@
     "INVALID_CARD_CODE": "{{author}} Il codice della carta che hai fornito non è valido o non è nella tua collezione",
     "NO_GIF_CONVERSION": "{{author}} Non puoi convertire una carta **GIF** in una versione **3D**",
     "3D_NOTE": "Stai per convertire questa carta nella sua versione 3D. Questo processo è permanente e non potrà essere modificata al suo stato originale. Qualsiasi Frame applicata, verrà persa durante il processo. La carta convertita avrà una sua Gen, proporzionale a quella precedente",
-    "EVENT_NOTE": "Stai per convertire questa carta nella sua versione Event 3D. Questo processo è permanente e non può essere annullato. Qualsiasi Frame allegato andrà perso durante questo processo. Le carte Event hanno una Gen nascosta che puoi rivelare dopo la conclusione dell'evento tramite il nostro sito web"
+    "EVENT_NOTE": "Stai per convertire questa carta nella sua versione Event 3D. Questo processo è permanente e non può essere annullato. Qualsiasi Frame allegato andrà perso durante questo processo. Le carte Event hanno una Gen nascosta che puoi rivelare dopo la conclusione dell'evento tramite il nostro sito web",
+    "NO_APRIL_FOOL": "{{author}} Le carte della serie April Fool non possono essere convertite in 3D"
 }

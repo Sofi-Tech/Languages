@@ -37,5 +37,6 @@
     "FAN_PTS_ADDED_other": "{{author}} Aggiunto con successo **{{count}}** punta a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_one": "{{author}} Aggiunto con successo **{{count}}** punta a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_zero": "{{author}} Aggiunto con successo **{{count}}** punta a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_two": "{{author}} Aggiunto con successo **{{count}}** punta a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "FAN_PTS_ADDED_two": "{{author}} Aggiunto con successo **{{count}}** punta a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "MINIMUM_POINTS": "Devi aggiungere almeno 1000 Fan Points per comparire in una classifica"
 }
