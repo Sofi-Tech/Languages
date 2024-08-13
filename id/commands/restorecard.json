@@ -4,7 +4,7 @@
     "CARD_NOT_FOUND": "{{author}} Kartu dengan kode `{{code}}` tidak ditemukan di kartu Anda yang dibakar",
     "CARD_EXPIRED": "{{author}} Kartu dengan kode `{{code}}` telah kedaluwarsa dan tidak dapat dikembalikan",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Apakah Anda yakin ingin memulihkan kartu `{{code}}` untuk {{amount}} **{{currency}}**?",
+    "RESTORE_CONFIRMATION": "Apakah Anda yakin ingin memulihkan kartu `{{code}}` untuk **{{amount}} ** **{{currency}}**?",
     "EMBED_FOOTER": "Anda dapat memulihkan kartu ini hingga {{date}}",
     "MISSING_CURRENCY": "{{author}} Anda memerlukan {{amount}}** {{currency}}** untuk memulihkan kartu",
     "RESTORE_SUCCESSFUL": "{{author}} Kartu dengan kode `{{code}}` telah berhasil dipulihkan",

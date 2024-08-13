@@ -13,5 +13,6 @@
     "INSUFFICIENT_CURRENCY": "{{author}} Anda tidak memiliki cukup **{{currency}}** untuk berpartisipasi dalam permainan ini",
     "NO_TP_2": "{{author}} Anda memerlukan **Trade Pass** yang aktif untuk berpartisipasi!",
     "MORE": "selengkapnya...",
-    "INFO_4": "**Peserta [{{totalPlayers}}]**"
+    "INFO_4": "**Peserta [{{totalPlayers}}]**",
+    "WIST_LIMIT": "{{author}} Anda hanya dapat bertaruh maximal **10 Wists** dalam waktu yang sama"
 }

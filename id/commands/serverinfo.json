@@ -10,5 +10,8 @@
     "SI_TOTAL_TRADES": "Total Perdagangan",
     "SI_TOP_SERVERS": "**Server Teratas** | Menyetel ulang: **{{countdown}}**",
     "EMBED_FOOTER": "Server Prefix: \"{{prefix}}\"",
-    "SI_NAME_UNAVAILABLE": "Nama tidak tersedia"
+    "SI_NAME_UNAVAILABLE": "Nama tidak tersedia",
+    "ONE_LANG_MENU_LABEL": "{{locale}} Saja",
+    "SI_NOT_SET": "Tidak disetel",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Batasi bahasa di servermu"
 }
