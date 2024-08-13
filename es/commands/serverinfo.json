@@ -11,5 +11,7 @@
     "SI_TOP_SERVERS": "**Mejores Servidores** | Se reinicia en: **{{countdown}}**",
     "EMBED_FOOTER": "Prefijo del Servidor: \"{{prefix}}\"",
     "SI_TOTAL_BURNT": "Cartas Quemadas",
-    "SI_NOT_SET": "No establecido"
+    "SI_NOT_SET": "No establecido",
+    "ONE_LANG_MENU_LABEL": "{{locale}} Solamente",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Restringe los lenguajes en tu servidor"
 }

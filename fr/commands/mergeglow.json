@@ -6,7 +6,7 @@
     "GLOW_CODES_UNIQUE": "{{author}} Vous ne pouvez pas utiliser le même **Glow** plus d'une fois pour ce processus",
     "GLOWS_NOT_FOUND": "{{author}} Au moins un des codes de **Glow** fournis est soit invalide soit n'est pas dans votre inventaire",
     "EMBED_TITLE": "SOFI: MERGE GLOW",
-    "MERGE_CONFIRMATION": "Êtes vous sûr de vouloir fusionner les **Glows** suivants?\n\n{{glows}}\n\nVous recevrez <:resin:938131736741691442> **1x** `**Resin** de ce processus",
+    "MERGE_CONFIRMATION": "Êtes vous sûr de vouloir fusionner les **Glows** suivants?\n\n{{glows}}\n\nVous recevrez <:resin:938131736741691442> **1x** **Resin** de ce processus",
     "GLOW_MERGE_SUCCESSFUL": "{{author}} Les **Glows** ont été fusionnés en <:resin:938131736741691442> avec succès",
     "GLOWS_NOT_IN_INVENTORY": "{{author}} Au moins un des **Glows** fournis n'est plus dans votre inventaire"
 }

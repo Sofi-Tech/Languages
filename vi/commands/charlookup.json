@@ -27,10 +27,10 @@
     "GEN_CLAIMED": "Đã nhận: {{count}}/100",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "NORMAL_LABEL": "Version: 1",
-    "FAN_PTS_LABEL": "Thêm Điểm Fan",
+    "FAN_PTS_LABEL": "Thêm Điểm Hâm Mộ",
     "GIF_LABEL": "GIF",
     "VERSION_LB": "Bảng xếp hạng Version",
-    "VERSIONS": "Versions",
+    "VERSIONS": "Version",
     "TOP_FANS": "Bảng xếp hạng Fan",
     "CARD_ID": "ID-Thẻ:",
     "MODAL_TITLE": "SOFI: ADD FAN POINTS",
@@ -38,5 +38,5 @@
     "FAN_PTS_ADDED_few": "{{author}} Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_other": "{{author}} Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Điểm Fan để xuất hiện trên bảng xếp hạng"
+    "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Điểm Hâm Mộ để xuất hiện trên bảng xếp hạng"
 }

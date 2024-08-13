@@ -10,5 +10,9 @@
     "SI_TOTAL_BURNT": "Total de Burn",
     "SI_TOTAL_GRABS": "Total de Grab",
     "SI_TOTAL_GIVEN": "Total Donné",
-    "SI_TOTAL_TRADES": "Total de Trades"
+    "SI_TOTAL_TRADES": "Total de Trades",
+    "SI_NOT_SET": "Non configuré",
+    "ALLOW_LANG_MENU_LABEL": "Autoriser toutes les langues",
+    "ONE_LANG_MENU_LABEL": "{{locale}} Seulement",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Langues restreinte sur votre serveur"
 }

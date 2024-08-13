@@ -95,8 +95,9 @@
     "PBG_EXIST_INV": "Vous possédez déjà le **Profile Background** avec l'ID `{{id}}` dans votre inventaire",
     "SELECT_PBG_CONFIRM": "Êtes-vous sûr(e) que vous souhaitez sélectionner le **{{backgroundName}}** **Profile Background**?",
     "SELECT_PR_CONFIRM": "Êtes-vous sûr(e) de vouloir sélectionner l'**Anneau de Profil** **{{ringName}}**?",
-    "PROVIDE_PROFILE_RING": "Entrez l'ID de l'**Anneau de Profil** pour le régler. | Tapez `none` pour réinitialiser.",
+    "PROVIDE_PROFILE_RING": "Entrez l'ID de l'Anneau de Profil pour le régler. | Tapez \"none\" pour réinitialiser.",
     "PR_MENU_LABEL": "Anneau de Profil",
     "NO_PR_FOUND": "Impossible de trouver l'**Anneau de Profil** avec l'ID `{{id}}` dans votre inventaire",
-    "GIF_NOTE": "Note: Convertir votre profil en GIF supprimera le Glow de votre profil.\nÊtes-vous sûr(e) de vouloir continuer?"
+    "GIF_NOTE": "Note: Convertir votre profil en GIF supprimera le Glow de votre profil.\nÊtes-vous sûr(e) de vouloir continuer?",
+    "PBG_PURCHASE_EVENT": "Ce **Profile Background** était disponible à la vente seulement pendant l'évent associé"
 }

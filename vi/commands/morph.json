@@ -7,7 +7,7 @@
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "BALANCE": "Số dư: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Tên: **{{name}}**",
-    "UNDO": "Morphs đã quay: **{{count}}**",
+    "UNDO": "Morph đã quay: **{{count}}**",
     "ROLL_MORPH": "Morph sẽ biến mất sau 2 phút",
     "FAILED": "{{author}} Đã xảy ra lỗi, vui lòng thử lại",
     "HISTORY": "\n**__Lịch Sử__**\n```{{history}}```",
