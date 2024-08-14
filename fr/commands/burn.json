@@ -17,5 +17,5 @@
     "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Votre **Guild Stone** a été burn avec succès",
     "BURN_CARD_LOCKED": "{{author}} Cette carte est actuellement utilisée dans un deck et ne peut pas être burn",
     "GIF_CARD": "{{author}} Vous ne pouvez pas burn une carte **GIF**",
-    "QUEST_CARD": "Vous ne pouvez pas burn une carte qui est actuellement utilisée dans une quête"
+    "QUEST_CARD": "{{author}} Vous ne pouvez pas burn une carte qui est actuellement utilisée dans une quête"
 }
