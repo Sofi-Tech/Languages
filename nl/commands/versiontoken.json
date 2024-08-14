@@ -3,9 +3,9 @@
     "PLAYER_NOT_EXIST": "{{author}} Deze speler bestaat niet",
     "VT_CATEGORY": "Cosmetica",
     "USER_PRIVATE": "{{author}} Deze gebruiker heeft zijn **Versietokens** verzameling ingesteld op privé",
-    "AUTHOR_NO_TOKENS": "{{author}} U heeft nog geen **Versietokens**",
-    "USER_NO_TOKENS": "{{author}} Die gebruiker heeft nog geen **Versietokens**",
-    "NOTHING_FOUND": "Kon geen **Versietokens** vinden",
+    "AUTHOR_NO_TOKENS": "{{author}} U heeft nog geen **Version Tokens**",
+    "USER_NO_TOKENS": "{{author}} Die gebruiker heeft nog geen **Version Tokens**",
+    "NOTHING_FOUND": "Kon geen **Version Tokens** vinden",
     "INVALID_SERIES": "Ongeldige serie",
     "CHOOSE_SORTING": "Sorteer op",
     "SORT_CHAR": "Naam",
@@ -13,10 +13,10 @@
     "SORT_WL": "Verlanglijst",
     "SORT_CARD": "Basiskaart",
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
-    "EMBED_FOOTER": "Pagina: {{page}}/{{totalPages}} | Totaal aantal versietokens: {{count}}",
+    "EMBED_FOOTER": "Pagina: {{page}}/{{totalPages}} | Totaal aantal Version Tokens: {{count}}",
     "SAVE_FILTER": "500 - Bewaar deze filter",
     "SELECT_FILTER": "Selecteer een filter",
-    "FILTER_NO_VT_FOUND": "{{author}} Kan geen **Versietokens** vinden die overeenkomen met uw geselecteerde filter",
-    "SORT_VERSION": "Versie",
-    "VERSIONTOKEN_DESCRIPTION": "Gebruik deze opdracht om uw verzameling versietokens te bekijken. De collectie kan worden gesorteerd op Naam, Gen, Verlanglijst, Versies"
+    "FILTER_NO_VT_FOUND": "{{author}} Kan geen **Version Tokens** vinden die overeenkomen met uw geselecteerde filter",
+    "SORT_VERSION": "Version",
+    "VERSIONTOKEN_DESCRIPTION": "Gebruik deze opdracht om uw verzameling Version Tokens. te bekijken. De collectie kan worden gesorteerd op Naam, Gen, Verlanglijst, Versies"
 }
