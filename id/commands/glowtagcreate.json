@@ -1,7 +1,7 @@
 {
     "GLOWTAGCREATE_DESCRIPTION": "Dengan perintah ini, Anda dapat membuat tag untuk mengkategorikan dan mengelompokkan beberapa Glows yang sesuai dengan kriteria Anda. Gunakan perintah \"{{prefix}}glowtag\" untuk menetapkan tag yang dibuat ke Glows Anda",
     "GTC_CATEGORY": "Tag",
-    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gtc <NamaTag> <Emoji>`",
+    "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Emoji tersebut tidak valid",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Anda sudah memiliki tag **Glow** dengan nama tersebut",
     "CREATED_GLOWTAG": "{{author}} Berhasil membuat tag **Glow** dengan nama `{{tag}}` | {{emoji}}"

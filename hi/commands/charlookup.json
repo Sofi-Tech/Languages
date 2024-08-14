@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "आप \"scl\" कमांड का उपयोग करके किसी विशिष्ट पात्र को देख सकते हैं। आप किसी पात्र के आंकड़े, उसका संस्करण/3D/GIF वेरिएंट, साथ ही उनके Gen/प्रशंसक लीडरबोर्ड और उनका Card ID देख सकते है।",
+    "CHARLOOKUP_DESCRIPTION": "आप \"scl\" कमांड का उपयोग करके किसी विशिष्ट पात्र को देख सकते हैं। आप किसी पात्र के आंकड़े, उसका संस्करण/3D/GIF वेरिएंट, साथ ही उनके जेन/प्रशंसक लीडरबोर्ड और उनका Card ID देख सकते है।",
     "CHAR_NOT_FOUND": "{{author}} इस नाम के साथ कोई पात्र नहीं मिल सका`{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} इस नाम के साथ कोई पात्र नहीं मिला `{{arg}}`\n\n```fix\nनोट: `-f` का उपयोग करके सटीक खोज करे!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -38,5 +38,5 @@
     "FAN_PTS_ADDED_two": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_few": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} सफलतापूर्वक **{{characterName}}** में **{{count}}** अंक जोड़े गए\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "लीडरबोर्ड पर आने के लिए आपको कम से कम 1000 फैन अंक जोड़ने होंगे"
+    "MINIMUM_POINTS": "लीडरबोर्ड पर आने के लिए आपको कम से कम 1000 प्रशंसक अंक जोड़ने होंगे"
 }

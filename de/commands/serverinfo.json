@@ -13,5 +13,6 @@
     "EMBED_FOOTER": "Server Präfix: \"{{prefix}}\"",
     "SI_NOT_SET": "Nicht gesetzt",
     "ONE_LANG_MENU_LABEL": "Nur {{locale}}",
-    "RESTRICT_LANG_MENU_PLACEHOLDER": "Schränke die Sprachen auf deinem Server ein"
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Schränke die Sprachen auf deinem Server ein",
+    "ALLOW_LANG_MENU_LABEL": "Erlaube alle Sprachen"
 }
