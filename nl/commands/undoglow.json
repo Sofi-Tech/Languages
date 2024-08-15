@@ -1,15 +1,16 @@
 {
     "UNDOGLOW_DESCRIPTION": "Het gebruik van dit commando op een kaart zal de toegepaste Glow verwijderen",
     "UNG_CATEGORY": "Cosmetica",
-    "UNG_INVALID_USAGE": "Geef een geldige code van de kaart op",
+    "UNG_INVALID_USAGE": "{{author}} Juiste gebruik: `{{prefix}}ung <KaartCode>`",
     "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
     "NO_CHARACTER": "{{author}} Het karakter op deze kaart is niet meer beschikbaar op Sofi en er kan geen interactie meer mee plaatsvinden",
     "NO_GIF": "{{author}} U kan geen cosmetica van een **GIF** kaart verwijderen",
-    "NOT_GLOWED": "{{author}} Die kaart heeft geen toegepaste **Glow**",
+    "NOT_GLOWED": "{{author}} Die kaart heeft geen **Glow** toegepast",
     "UNG_CONFIRMATION": "Bent u zeker dat u de **Glow** van deze kaart wilt verwijderen voor **100** **Silver**?",
     "EMBED_FOOTER": "De Glow zal niet terugkeren in uw inventaris",
     "NOT_ENOUGH_SILVERS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
     "UNG_SUCCESSFUL": "{{author}} Succesvol de **{{glowName}}** **Glow** verwijderd van uw kaart",
     "UNG_NO_OWNER": "{{author}} De kaart is niet langer in uw inventaris",
-    "UNAVAILABLE": "Onbeschikbaar"
+    "UNAVAILABLE": "Onbeschikbaar",
+    "EMBED_TITLE": "SOFI: REMOVE GLOW"
 }

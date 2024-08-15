@@ -14,7 +14,7 @@
     "INTRO_MENU_LABEL": "Introductie",
     "FC_MENU_LABEL": "Favoriete Personage",
     "SUCCESSFUL_CHARACTER": "{{author}} Heeft succesvol **{{characterName}}** ingesteld als uw favoriete personage",
-    "BG_MENU_LABEL": "Achtergrond",
+    "BG_MENU_LABEL": "Profielachtergrond",
     "TC_MENU_LABEL": "Letter Kleur",
     "AD_MENU_LABEL": "Badges",
     "CAN_MENU_LABEL": "Annuleer",
@@ -59,5 +59,11 @@
     "PC_SERIES_NOT_FOUND": "{{author}} Kon geen serie met die naam vinden",
     "SELECT_FROM_OPTIONS": "{{charPages}}",
     "SUCCESSFUL_SERIES": "{{author}} Heeft succesvol **{{seriesName}}** ingesteld als uw favoriete serie",
-    "SUCCESSFUL_PROFILE_COLOR": "{{author}} Stelt **{{glowName}}** succesvol in als de kleur van uw profiel"
+    "SUCCESSFUL_PROFILE_COLOR": "{{author}} Stelt **{{glowName}}** succesvol in als de kleur van uw profiel",
+    "UNLOCK_GIF": "{{author}} Wil je de GIF-functie ontgrendelen voor **{{amount}}** **{{currency}}**?",
+    "EG_MENU_LABEL": "GIF inschakelen - 100 Gems",
+    "SELECT_BUTTON_LABEL": "Selecteer",
+    "PR_MENU_LABEL": "Profielring",
+    "RG_MENU_LABEL": "GIF-profiel opnieuw laden",
+    "RG_MENU_DESC": "Laadt het GIF-profiel opnieuw nadat de wijzigingen zijn toegepast"
 }

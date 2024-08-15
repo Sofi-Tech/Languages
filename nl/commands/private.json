@@ -1,10 +1,10 @@
 {
-    "PRIVATE_DESCRIPTION": "Gebruik dit commando om een deel van uw account te privé te maken. Een geprivatiseerde sectie is niet meer zichtbaar voor andere spelers. Door dit commando alleen te gebruiken, wordt in plaats daarvan uw huidige configuratie voor deze secties weergegeven",
+    "PRIVATE_DESCRIPTION": "Gebruik deze opdracht om een deel van uw account privé te maken. Een privégedeelte is niet langer zichtbaar voor andere spelers. Als u deze opdracht alleen gebruikt, wordt in plaats daarvan uw huidige configuratie voor deze secties weergegeven",
     "PVT_CATEGORY": "Instellingen",
     "PRIVATE_ENABLED": "{{author}} Uw **{{content}}** is nu privé",
     "PRIVATE_DISABLED": "{{author}} Uw **{{content}}** is niet langer privé",
     "PVT_PUBLIC": "Openbaar",
     "PVT_PRIVATE": "Privé",
-    "WRONG_ARGUMENTS": "{{author}} Correct gebruik: `{{prefix}}pvt <C/WL/INV/V>`",
+    "WRONG_ARGUMENTS": "{{author}} Juiste gebruik: `{{prefix}}pvt <C/WL/INV/V>`",
     "PVT_EMBED_TITLE": "SOFI: PRIVATE"
 }

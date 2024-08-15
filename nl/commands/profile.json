@@ -1,6 +1,7 @@
 {
-    "PROFILE_DESCRIPTION": "Dit commando toont het profiel van een gebruiker, naast hun geselecteerde achtergrond, gemarkeerde kaart en badges. U kunt uw eigen profielkaart configureren met behulp van de opdracht \"Profileconfig\"",
+    "PROFILE_DESCRIPTION": "Met deze opdracht wordt het profiel van een gebruiker weergegeven. U kunt uw profiel aanpassen met behulp van de opdracht \"{{prefix}}profileconfig\"",
     "PRO_CATEGORY": "Instellingen",
     "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
-    "PROFILE_NOT_FOUND": "{{author}} Die gebruiker is niet geregistreerd"
+    "PROFILE_NOT_FOUND": "{{author}} Die gebruiker is niet geregistreerd",
+    "GIF_ENABLED": "{{author}} Uw profiel heeft de GIF functie ingeschakeld. Om uw GIF profiel te laden gebruikt u de opdracht `spc` en klikt u op de knop `GIF profiel opnieuw laden` in het vervolgkeuzemenu"
 }

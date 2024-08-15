@@ -38,5 +38,7 @@
     "FAN_PTS_ADDED_few": "{{author}} **{{count}}** очка успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_other": "{{author}} **{{count}}** очков успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} **{{count}}** очков успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Вам нужно добавить минимум 1000 Очков Фаната для того, чтобы попасть в таблицу лидеров"
+    "MINIMUM_POINTS": "Вам нужно добавить минимум 1000 Очков Фаната для того, чтобы попасть в таблицу лидеров",
+    "CL_PRICE": "**Цена**: {{amount}} {{emoji}}",
+    "CL_CREDITS": "**Автор оригинала**: {{credits}}"
 }

@@ -1,7 +1,7 @@
 {
     "USEFRAME_DESCRIPTION": "This command will apply a selected Frame to a card of choice. You can buy Frames by using the \"{{prefix}}frameshop\" command",
     "UF_CATEGORY": "Cosmetics",
-    "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/FrameCode>`",
+    "UF_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}uf <CardCode> <FrameName/$FrameCode>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
     "CANNOT_APPLY": "{{author}} You cannot apply a **Frame** to a **3D** card",
     "NO_GIF": "{{author}} You cannot apply a **Frame** to a **GIF** card",
