@@ -1,17 +1,18 @@
 {
-    "MARKETBUY_DESCRIPTION": "Het gebruik van dit commando in combinatie met een Bestel-ID van de markt gevolgd door een hoeveelheid zal een transactie embed openen om Wists te kopen van een andere speler. Gebruik de \"Market\" commando om alle beschikbare bestellingen te zien",
-    "CORRECT_USAGE": "{{user}} | Juiste gebruik: {{prefix}}mp <deal-id> [wist-hoeveelheid]",
-    "INVALID_DEAL_ID": "{{author}} De Bestel-ID dat u opgaf is ongeldig",
+    "MARKETBUY_DESCRIPTION": "Door dit commando te gebruiken in combinatie met een Bestelling-ID van de markt gevolgd door een bedrag, wordt een transactie-insluiting geopend om Wists van een andere speler te kopen. Gebruik de opdracht \"{{prefix}}market\" om alle beschikbare bestellingen te bekijken",
+    "CORRECT_USAGE": "{{author}} Juiste gebruik: `{{prefix}}mbuy <OfferID> <WistHoeveelheid>`",
+    "INVALID_DEAL_ID": "{{author}} De door u opgegeven bestellings-ID is ongeldig",
     "CANNOT_PURCHASE": "{{user}} U kan geen interactie met deze bestelling hebben",
     "CANNOT_SELF": "{{user}} U kan niet van uw eigen bestelling kopen",
     "WIST_NOT_EXCEED": "{{author}} De bestelling heeft nog **{{amount}}** `{{currency}}` over om te kopen",
-    "PRODUCT": "Product",
-    "VALUE": "Waarde",
+    "PRODUCT": "U ontvangt:",
+    "VALUE": "U betaalt:",
     "RATE": "Tarief:",
     "ALREADY_IN_PURCHASE": "{{author}} U heeft al een actief transactie scherm",
     "PURCHASE_CANCELLED": "{{author}} Die bestelling is niet meer beschikbaar",
     "MISSING_GEMS": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
     "SOMETHING_WRONG": "{{author}} Er ging iets mis. Probeer opnieuw",
-    "PURCHASE_SUCCESSFUL": "{{author}} Succesvol **{{boughtCount}}** {{currency}} gekocht",
-    "SUCCESS": "{{user}} U heeft succesvol **{{orderPrice}}** {{currency}} verkocht en ontving **{{soldAmount}}** {{currencySoldEmoji}}! | Bestel-ID: `{{dealId}}`"
+    "PURCHASE_SUCCESSFUL": "{{author}} Succesvol aangeschaft **{{boughtCount}}** {{currency}}",
+    "SUCCESS": "{{user}} U heeft succesvol **{{orderPrice}}** {{currency}} verkocht en ontving **{{soldAmount}}** {{currencySoldEmoji}}! | Bestelling-ID: `{{dealId}}`",
+    "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }

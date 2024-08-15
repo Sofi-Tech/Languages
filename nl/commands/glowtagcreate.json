@@ -1,8 +1,8 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Creëert een \"Glow Tag\"",
+    "GLOWTAGCREATE_DESCRIPTION": "Met deze opdracht kunt u een tag maken om meerdere Glows te categoriseren en te groeperen die aan uw eigen criteria voldoen. Gebruik de opdracht \"{{prefix}}glowtag\" om gemaakte tags aan uw Glows toe te wijzen",
     "GTC_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}gtc <TagNaam> <Emoji>`",
+    "CORRECT_USAGE": "{{author}} Juiste gebruik: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Die emoji is ongeldig",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Je hebt al een **Glow** tag met die naam",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} U heeft al een **Glow** tag met die naam",
     "CREATED_GLOWTAG": "{{author}} Een **Glow** tag met de naam `{{tag}}` | {{emoji}} met succes gecreëerd"
 }

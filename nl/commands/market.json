@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Met deze commando worden alle momenteel beschikbare orders op de markt weergegeven. De markt kan door spelers worden gebruikt om hun Wists aan te bieden in ruil voor Gems via het commando \"Marketlist\"",
+    "MARKET_DESCRIPTION": "Met deze opdracht worden alle momenteel beschikbare orders op de markt weergegeven. De markt kan door spelers worden gebruikt om hun Wists aan te bieden in ruil voor Gems via het commando \"{{prefix}}marketlist\"",
     "NO_LISTING_FOUND": "{{author}} Kon geen bestellingen op de markt vinden",
     "MARKET_WARN": "**Gemiddeld tarief**: **`{{averageRate}}` | Totaal aantal transacties** : **`{{totalTrades}}`**",
-    "FOOTER": "Resultaten weergeven {{page}}-{{pages}} van {{total}} | {{prefix}}mbuy <Bestel-ID> <Bedrag>",
+    "FOOTER": "Resultaten weergeven {{page}}-{{pages}} van {{total}} | {{prefix}}mbuy <Bestellings-ID> <Bedrag>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Voorraad: `{{stockAmount}}` {{stockEmoji}} | Ratio: `{{rateAmount}}` {{rateEmoji}}"
 }

@@ -5,11 +5,11 @@
     "SNATCHED_EVENT_ITEM": "Goed gedaan! {{winner}} heeft {{amount}} tulpen afgepakt van <@{{userId}}>",
     "GRAB_CARD": "{{winner}} heeft gevochten met {{user}} en **pakte** de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} De kaarten hieronder kunnen niet meer **gepakt worden**",
-    "GRAB_COOLDOWN": "{{user}} Je moet nog **{{cooldown}}** wachten totdat je een nieuwe kaart kunt pakken",
+    "GRAB_COOLDOWN": "{{user}} U moet nog **{{cooldown}}** wachten totdat u een nieuwe kaart kunt pakken",
     "TOOK_CARD": "{{user}} **Heeft gepakt** de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "TOOK_VERSION": "{{winner}} **heeft ** de **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGebruik de `{{prefix}}vt` opdracht om deze Versie Token te bekijken",
-    "GRAB_VERSION": "{{winner}} heeft {{user}} verslagen en **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGebruik de `{{prefix}}vt` opdracht om deze Versie Token te bekijken",
+    "TOOK_VERSION": "{{winner}} **heeft ** de **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGebruik de `{{prefix}}vt` opdracht om deze Version Token te bekijken",
+    "GRAB_VERSION": "{{winner}} heeft {{user}} verslagen en **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGebruik de `{{prefix}}vt` opdracht om deze Version Token te bekijken",
     "CARDS_DROPPED_BY": "{{user}} heeft kaarten **gedropt**",
     "GRAB_CARD_PLURAL": "{{winner}} heeft gevochten met**{{userCount}}** andere spelers en **pakte** de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_VERSION_PLURAL": "{{winner}} heeft **{{userCount}}** andere spelers verslagen **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGebruik de `{{prefix}}vt` opdracht om deze Versie Token te bekijken"
+    "GRAB_VERSION_PLURAL": "{{winner}} heeft **{{userCount}}** andere spelers verslagen **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGebruik de `{{prefix}}vt` opdracht om deze Version Token te bekijken"
 }

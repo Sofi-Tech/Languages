@@ -1,13 +1,14 @@
 {
-    "MASSBURN_DESCRIPTION": "Gebruik dit commando om meerdere kaarten tegelijk te verbranden door parameters als \"t:TagNaam\" en \"wl>Nummer\" toe te voegen om te aan te geven welke kaarten u wilt verbranden. Gebruik de \"Help filter\" commando om een uitgebreide lijst van beschikbare parameters weer te geven",
+    "MASSBURN_DESCRIPTION": "Gebruik deze opdracht om meerdere kaarten tegelijk te branden. Door Gen/Tag/Wishlist filters toe te voegen, kunt u opgeven welke kaarten u wilt branden",
     "IN_ACTIVE_MB": "{{user}} U kan geen nieuwe **Massburn** starten als er nog een actief is",
     "PROVIDE_FILTERS": "{{author}} Correct gebruik: `{{prefix}}mb <Filters>`\n\n```fix\nOpmerking: U kan een uitgebreide lijst vinden van filters met de commando {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Kon geen tag vinden met de naam `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Geen kaarten gevonden die overeenkomen met uw zoekopdracht",
     "CARDS_BURNED": "__Geselecteerde Kaarten [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Bent u zeker dat u deze kaarten onomkeerbaar wilt verbranden?",
+    "CONFIRM_ASK": "{{author}} Weet je zeker dat je deze kaarten __onomkeerbaar__ wilt verbranden?",
     "MISSING_CARDS": "{{author}} Minstens één van uw geselecteerde kaarten is niet meer in uw collectie",
     "SUCCESS": "{{author}} Succesvol uw kaarten verbrand",
     "BURN_REWARDS": "__Beloningen__",
-    "LOCKED_CARDS_WARNING": "{{author}} Kaarten die vergrendeld zijn, een **GIF** variant of gebruikt worden in een dek kunnen niet verbrand worden"
+    "LOCKED_CARDS_WARNING": "{{author}} Kaarten die vergrendeld zijn, een **GIF** variant hebben of in een deck worden gebruikt, kunnen niet worden verbrand",
+    "EMBED_TITLE": "SOFI: MASSBURN"
 }

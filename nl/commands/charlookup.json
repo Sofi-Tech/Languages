@@ -1,9 +1,9 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Met deze opdracht kunt u een specifiek teken opzoeken. In dit menu kun u de statistieken van een personage bekijken, hun versie/3D/GIF-varianten, evenals hun Gen/Fan-klassementen en hun kaart-ID.",
+    "CHARLOOKUP_DESCRIPTION": "Met deze opdracht kunt u een specifiek teken opzoeken. In dit menu kun u de statistieken van een personage bekijken, hun Version/3D/GIF varianten, evenals hun Gen/Fan leaderboards en hun kaart-ID.",
     "CHAR_NOT_FOUND": "{{author}} Kon geen personage vinden met de naam `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Kon geen personage vinden met de naam `{{arg}}`\n\n```fix\nOpmerking: het gebruik van de vlag `-f` maakt de functie hoofdlettergevoelig!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "NORMAL_LABEL": "Versie: 1",
+    "NORMAL_LABEL": "Version: 1",
     "FAN_PTS_LABEL": "Voeg Fanpunten Toe",
     "GIF_LABEL": "GIF",
     "SERIES": "Serie:",
@@ -12,7 +12,7 @@
     "WISHLISTED": "Op verlanglijst",
     "GENERATED": "Gegenereerd",
     "BURNED": "Verbrand",
-    "VERSIONS": "Versies",
+    "VERSIONS": "Versions",
     "TOP_FANS": "Fan scorebord",
     "NO_FANS_FOUND": "\nDit karakter heeft nog geen fans!",
     "CARD_ID": "Kaart-ID:",
@@ -30,7 +30,7 @@
     "MORE_INFO_LABEL": "Selecteer een Optie",
     "EXAMPLE_INFO": "Correcte formaat: <Hoeveelheid> <Valuta>",
     "NO_VERSIONS_FOUND": "Dit karakter heeft nog geen versies",
-    "VERSION_LB": "Versie LB",
+    "VERSION_LB": "Version LB",
     "FAN_PTS_ADDED_zero": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "3D_LABEL": "3D",
     "FAN_PTS_ADDED_few": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
@@ -38,5 +38,7 @@
     "FAN_PTS_ADDED_many": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_two": "{{currentPoints}}{{author}} Met succes toegevoegd **{{count}}** punt naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_one": "{{author}} Met succes toegevoegd **{{count}}** punten naar **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Je moet minimaal 1000 Fan Points toevoegen om op een scorebord te verschijnen"
+    "MINIMUM_POINTS": "Je moet minimaal 1000 Fan Points toevoegen om op een scorebord te verschijnen",
+    "CL_PRICE": "**Prijs**: {{amount}} {{emoji}}",
+    "CL_CREDITS": "**Credits**: {{credits}}"
 }

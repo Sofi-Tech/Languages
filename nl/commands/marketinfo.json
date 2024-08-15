@@ -1,6 +1,6 @@
 {
-    "MARKETINFO_DESCRIPTION": "Gebruik maken van dit commando zal uw huidige markt bestelling weergeven. U kan ook de ID van een bestaande bestelling toevoegen aan de prompt om meer informatie over de specifieke bestelling te krijgen",
-    "INVALID_DEAL_ID": "{{author}} De Bestel-ID dat u opgaf is ongeldig",
+    "MARKETINFO_DESCRIPTION": "Als u dit commando gebruikt, wordt uw huidige marktorder weergegeven. U kunt ook de ID van een bestaande bestelling aan de prompt toevoegen om meer informatie over de specifieke bestelling te krijgen",
+    "INVALID_DEAL_ID": "{{author}} De door u opgegeven bestellings-ID is ongeldig",
     "TRADER": "Handelaar",
     "DEAL_ID": "Bestelling-ID",
     "PRODUCT": "Product",
@@ -9,6 +9,8 @@
     "LISTED": "Vermeld",
     "NO_LISTINGS_FOUND": "{{user}} U heeft momenteel geen bestellingen op de markt",
     "INFO": "Gebruik het commando `{{prefix}}mul <Bestelling-ID>` om uw bestelling te verwijderen van de markt",
-    "FOOTER": "Resultaten weergeven {{page}}-{{pages}} van {{total}} | {{prefix}}mbuy <Bestel-ID> <Bedrag>",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Voorraad: `{{stockAmount}}` {{stockEmoji}} | Ratio: `{{rateAmount}}` {{rateEmoji}}"
+    "FOOTER": "Resultaten weergeven {{page}}-{{pages}} van {{total}} | {{prefix}}mbuy <Bestellings-ID> <Bedrag>",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Voorraad: `{{stockAmount}}` {{stockEmoji}} | Ratio: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})"
 }

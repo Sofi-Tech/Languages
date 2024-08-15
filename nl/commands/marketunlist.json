@@ -1,7 +1,7 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Gebruik deze commando om uw bestelling uit de markt te verwijderen",
+    "MARKETUNLIST_DESCRIPTION": "Gebruik deze opdracht om uw bestelling uit de markt te verwijderen",
     "CORRECT_USAGE": "{{user}} Juiste gebruik: `{{prefix}}mul <Bestel-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} De door u opgegeven Bestelling ID is ongeldig of niet van u",
+    "INVALID_DEAL_ID": "{{author}} De door u opgegeven Bestelling-ID is ongeldig of niet van u",
     "SUCCESS_UL": "{{user}} De volgende bestelling is met succes van de markt verwijderd: `{{dealId}}`",
     "NO_LISTINGS_FOUND": "{{user}} U heeft momenteel geen bestellingen",
     "SUCCESS_UL_ALL": "{{user}} Al uw bestellingen zijn met succes van de markt verwijderd"
