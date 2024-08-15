@@ -20,7 +20,7 @@
     "EDIT_DESC_LONG": "{{author}} Ваше описание может содержать не более **400** символов",
     "EDIT_DESC_CONFIRM": "Вы уверены, что хотите установить следующее описание для вашей **Frame**?\n\n```fix\n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "SOFI: FRAME SHOP (Обновится <t:{{time}}:R>)",
-    "EMBED_DFS_FOOTER": "Используйте команду {{prefix}}bf <НазваниеFrame/Код> для покупки Frame",
+    "EMBED_DFS_FOOTER": "Используйте команду \" {{prefix}}bf <НазваниеFrame/$КодFrame>\" для покупки Frame",
     "DFS_MENU_PLACEHOLDER": "Выбрать категорию",
     "DF_MENU_LABEL": "Ежедневная ротация",
     "LF_MENU_LABEL": "Ограниченные по времени",

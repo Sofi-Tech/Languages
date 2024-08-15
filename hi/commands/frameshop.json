@@ -20,7 +20,7 @@
     "EDIT_DESC_LONG": "{{author}} विवरण में केवल **400** शब्द ही आ सकते है",
     "EDIT_DESC_CONFIRM": "क्या आप अपने **Frame** का विवरण बदलना चाहते हैं? :**\n\n```fix\n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "SOFI: FRAME SHOP (Refreshes <t:{{time}}:R>)",
-    "EMBED_DFS_FOOTER": "फ्रेम खरीदने के लिए {{prefix}}bf <name/code> का उपयोग करें",
+    "EMBED_DFS_FOOTER": "फ्रेम खरीदने के लिए \"{{prefix}}bf <FrameName/$FrameCode>\" का उपयोग करें",
     "DFS_MENU_PLACEHOLDER": "वर्ग चुने",
     "DF_MENU_LABEL": "दैनिक फ्रेम्स",
     "LF_MENU_LABEL": "सीमित",

@@ -65,5 +65,9 @@
     "SELECT_BUTTON_LABEL": "Selecteer",
     "PR_MENU_LABEL": "Profielring",
     "RG_MENU_LABEL": "GIF-profiel opnieuw laden",
-    "RG_MENU_DESC": "Laadt het GIF-profiel opnieuw nadat de wijzigingen zijn toegepast"
+    "RG_MENU_DESC": "Laadt het GIF-profiel opnieuw nadat de wijzigingen zijn toegepast",
+    "MISSING_CURRENCY": "{{author}} Je hebt niet genoeg **{{currency}}** voor dit proces",
+    "GIF_ENABLED": "Het GIF-profiel is al ingeschakeld",
+    "ENABLE_GIF": "Je moet GIF-profiel inschakelen om deze optie te gebruiken",
+    "GIF_ENABLE_SUCCESSFUL": "Het GIF-profiel is nu ingeschakeld. Gebruik de knop 'GIF-profiel opnieuw laden' om je profiel geanimeerd te maken."
 }
