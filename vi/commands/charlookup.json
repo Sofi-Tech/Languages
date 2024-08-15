@@ -38,5 +38,7 @@
     "FAN_PTS_ADDED_few": "{{author}} Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_other": "{{author}} Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Điểm Hâm Mộ để xuất hiện trên bảng xếp hạng"
+    "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Điểm Hâm Mộ để xuất hiện trên bảng xếp hạng",
+    "CL_PRICE": "**Giá**: {{amount}} {{emoji}}",
+    "CL_CREDITS": "**Nguồn**: {{credits}}"
 }
