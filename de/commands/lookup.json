@@ -3,7 +3,7 @@
     "CHAR_NOT_FOUND": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden",
     "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden\n\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "SUBMITTED": "Eingereicht von: <@{{userID}}>",
+    "SUBMITTED": "Eingereicht von <@{{userID}}>",
     "EMBED_FOOTER": "Du kannst neue Versionen mit dem Befehl {{prefix}}sc einreichen",
     "MORE": "Wähle eine Option",
     "GIF_LABEL": "GIF",
@@ -15,5 +15,6 @@
     "EVENTS": "Events",
     "EVENT": "Event",
     "UPCOMING_EVENT": "Kommendes Event",
-    "NO_OWNER_FOUND": "Noch besitzt niemand eine **2D**-Variante dieses Charakters"
+    "NO_OWNER_FOUND": "Noch besitzt niemand eine **2D**-Variante dieses Charakters",
+    "LOOKUP_CREDITS": "**Credits**:{{credits}}"
 }

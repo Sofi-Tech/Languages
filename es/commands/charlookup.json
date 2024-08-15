@@ -38,5 +38,7 @@
     "FAN_PTS_ADDED_other": "{{author}} Agrego con exito **{{count}}** puntos a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} Agrego con exito **{{count}}** puntos a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_zero": "{{author}} Agrego con exito **{{count}}** puntos a **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Tienes que añadir al menos 1000 Fan Points para figurar en la tabla de clasificación"
+    "MINIMUM_POINTS": "Tienes que añadir al menos 1000 Fan Points para figurar en la tabla de clasificación",
+    "CL_PRICE": "**Precio**: {{amount}} {{emoji}}",
+    "CL_CREDITS": "**Créditos**: {{credits}}"
 }
