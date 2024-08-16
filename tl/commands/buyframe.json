@@ -1,5 +1,5 @@
 {
-    "BUYFRAME_DESCRIPTION": "Ang command na ito ay partikular na ginagamit upang bumili ng mga Frame gamit ang \"Frameshop\" command, kung saan maaari kang bumili ng opisyal, pati na rin ang mga Frame na ginawa ng komunidad para sa iyong mga kard na hindi 3D",
+    "BUYFRAME_DESCRIPTION": "Ang command na ito ay partikular na ginagamit upang bumili ng mga Frame gamit ang \"{{prefix}}frameshop\" na command, kung saan maaari kang bumili ng Opisyal, Kustom, at Pack ng mga Frame para sa iyong mga 2d na kard",
     "BF_CATEGORY": "Mga Kosmetiko",
     "NO_FRAME_NAME": "{{author}} Mangyaring ibigay ang code ng **Frame** na gusto mong bilhin",
     "NO_FRAMECODE_FOUND": "{{author}} Walang mahanap na **Frame** na may code na `{{name}}`",

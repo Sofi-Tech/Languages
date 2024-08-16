@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Ang command na ito ay magpapakita ng iyong buong koleksyon, na maaari mong i-sort at i-filter sa iba't ibang paraan. Sa paggamit ng command na ito kasama ang mga karagdagang prompts ay mag bubukas ng embed na mayroon nang partikular na filter. Gamitin ang prompt na \"t:ut\" kasama ng command na ito upang bigyang-diin ang lahat ng mga kard sa iyong koleksyon na walang kasalukuyang tag",
+    "COLLECTION_DESCRIPTION": "Ang command na ito ay magpapakita ng iyong buong koleksyon, na maaari mong i-sort at i-filter sa iba't ibang paraan. Sa paggamit ng command na ito kasama ang mga karagdagang prompts ay mag bubukas ng embed na mayroon nang partikular na filter. Gamitin ang prompt na \"t:ut\" kasama ng command na ito upang bigyang-diin ang lahat ng mga kard sa iyong koleksyon na sa kasalukuyan ay walang tag. Gamitin ang \"{{prefix}}help filter\" na command para makita lahat ng available na filter",
     "SLASH_CMD_DESC": "Ipinapakita ang koleksyon ng iyong kard",
     "SLASH_DESC": "Pumili ng user para makita ang kanilang koleksyon",
     "SLASH_DESC2": "Ilagay ang mga filter na gusto mong ilapat sa koleksyon",
@@ -34,7 +34,7 @@
     "MASSTAG_WRONG_TAG": "{{author}} Walang mahanap na kahit anong tag na may pangalan na `{{arg}}`",
     "NO_RESULTS_OTHERS": "{{author}} Ang user na iyon ay walang kahit anong kard sa kanilang koleksyon",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Walang mahanap na kahit anong mga kard na katulad ng iyong napiling filter",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Walang mahanap na kahit anong mga kard na katulad ng napiling filter. Gamitin ang `{{prefix}}help filter` na command upang matutunan ang lahat tungkol sa magagamit na mga filter",
     "FILTER_DELETE": "Magbura ng Filter",
     "EXPLAIN_FILTER": "{{author}} Narito ang flow chart na maaaring tumulong sa iyo kung paano gumagana ang filter na ito",
     "SAVE_FILTER": "Pumili ng Filter",
