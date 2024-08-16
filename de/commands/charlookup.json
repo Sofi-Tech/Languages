@@ -39,6 +39,6 @@
     "FAN_PTS_ADDED_other": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} **{{count}}** Punkte wurden erfolgreich zu **{{characterName}}** hinzugefügt\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "MINIMUM_POINTS": "Du musst mindestens 1000 Fanpunkte hinzufügen, um auf der Rangliste angezeigt zu werden",
-    "CL_PRICE": "**Preis**:{{amount}} {{emoji}}",
-    "CL_CREDITS": "**Credits**:{{credits}}"
+    "CL_PRICE": "**Preis**: {{amount}} {{emoji}}",
+    "CL_CREDITS": "**Credits**: {{credits}}"
 }
