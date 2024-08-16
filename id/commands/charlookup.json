@@ -38,5 +38,7 @@
     "FAN_PTS_ADDED_few": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_other": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "{{author}} Berhasil menambahkan **{{count}}** poin ke **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Anda harus menambahkan setidaknya 1000 Poin Penggemar untuk ditampilkan di papan peringkat"
+    "MINIMUM_POINTS": "Anda harus menambahkan setidaknya 1000 Poin Penggemar untuk ditampilkan di papan peringkat",
+    "CL_PRICE": "**Harga**: {{amount}} {{emoji}}",
+    "CL_CREDITS": "**Credits**: {{credits}}"
 }

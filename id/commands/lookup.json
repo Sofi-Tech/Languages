@@ -3,7 +3,7 @@
     "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apapun dengan nama `{{arg}}`\n\n```fix\nCatatan: Menggunakan flag `-f` akan membuat fungsi peka huruf besar kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "SUBMITTED": "Dikirim oleh: <@{{userID}}>",
+    "SUBMITTED": "**Dikirim oleh** <@{{userID}}>",
     "EMBED_FOOTER": "Anda dapat mengirimkan Versi baru dengan menggunakan perintah {{prefix}}sc",
     "MORE": "Pilih Opsi",
     "GIF_LABEL": "GIF",
@@ -15,5 +15,6 @@
     "EVENTS": "Acara",
     "EVENT": "Event",
     "UPCOMING_EVENT": "Event Mendatang",
-    "NO_OWNER_FOUND": "Belum ada yang memiliki varian **2D** dari karakter ini"
+    "NO_OWNER_FOUND": "Belum ada yang memiliki varian **2D** dari karakter ini",
+    "LOOKUP_CREDITS": "**Credits**: {{credits}}"
 }

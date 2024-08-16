@@ -20,7 +20,7 @@
     "EDIT_DESC_LONG": "{{author}} Tu descripción sólo puede tener **400** caracteres",
     "EDIT_DESC_CONFIRM": "¿Estás seguro de que quieres establecer la siguiente descripción para tu **Frame**?\n\n```fix\n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "SOFI: FRAME SHOP (Se refresca <t:{{time}}:R>)",
-    "EMBED_DFS_FOOTER": "Usa el comando {{prefix}}bf <NombreDelFrame/Código> para comprar un Frame",
+    "EMBED_DFS_FOOTER": "Usa el comando \"{{prefix}}bf <NombreDelFrame/$CódigoDelFrame>\" para comprar un Frame",
     "DFS_MENU_PLACEHOLDER": "Selecciona una Categoría",
     "DF_MENU_LABEL": "Rotación Diaria",
     "LF_MENU_LABEL": "Limitados",

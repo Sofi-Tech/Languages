@@ -20,7 +20,7 @@
     "EDIT_DESC_LONG": "{{author}} Nama deskripsi Anda hanya boleh terdiri dari **400** karakter",
     "EDIT_DESC_CONFIRM": "Apakah Anda yakin ingin menetapkan deskripsi berikut ini untuk **Frame** Anda?\n\n```fix\n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "SOFI: FRAME SHOP ( Memperbarui <t:{{time}}:R>)",
-    "EMBED_DFS_FOOTER": "Gunakan perintah {{prefix}}bf <FrameName/Code> untuk membeli Frame",
+    "EMBED_DFS_FOOTER": "Gunakan perintah \"{{prefix}}bf <FrameName/$FrameCode>\" untuk membeli Frame",
     "DFS_MENU_PLACEHOLDER": "Pilih kategori",
     "DF_MENU_LABEL": "Rotasi Harian",
     "LF_MENU_LABEL": "Terbatas",

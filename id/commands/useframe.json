@@ -1,7 +1,7 @@
 {
     "USEFRAME_DESCRIPTION": "Perintah ini akan mengaplikasikan frame yang dipilih ke kartu pilihan. Anda dapat membeli Frame dengan menggunakan perintah \"{{prefix}}frameshop\"",
     "UF_CATEGORY": "Kosmetik",
-    "UF_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}uf <KodeKartu> <NamaFrame/KodeFrame>`",
+    "UF_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}uf <CardCode> <FrameName/$FrameCode>`",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "CANNOT_APPLY": "{{author}} Anda tidak dapat memasang **Frame** ke kartu **3D**",
     "NO_GIF": "{{author}} Anda tidak dapat memasang **Frame** ke kartu **GIF**",
