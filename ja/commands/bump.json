@@ -1,10 +1,10 @@
 {
-    "BUMP_DESCRIPTION": "公式ウェブサイトで「Trade Pass」などの報酬を獲得するため「Bump」を使用できる",
+    "BUMP_DESCRIPTION": "このコマンドは、あなたの合計Bumpsと利用可能なBump Pointsを表示します。それらはSofi.ggのウェブサイトで、Trade Passなどのアイテムを購入するために使用できます",
     "BUMP_CATEGORY": "設定",
     "EMBED_AUTHOR": "SOFI: BUMP ({{username}})",
-    "GET_DIFFERENT_REWARDS": "[公式ウェブサイト](https://sofi.gg) で「**Bump**」をクリックして報酬を獲得してください",
-    "TOTAL_BUMP": "- 合計「**Bump**」：**{{bump}}**",
+    "GET_DIFFERENT_REWARDS": "公式の[Website](https://sofi.gg)で**Bump**ボタンを押して報酬を手に入れましょう",
+    "TOTAL_BUMP": "- 合計 **Bump**：**{{bump}}**",
     "BUMP_POINTS": "- 現在のポイント：**{{bumpPoints}}** (🔺)",
-    "EMBED_FOOTER": "4時間ごとに「Bump」を使用できます！",
+    "EMBED_FOOTER": "Bump機能は4時間ごとに使用できます！",
     "BUMP": "Bump"
 }

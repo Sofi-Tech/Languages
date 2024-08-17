@@ -1,9 +1,9 @@
 {
-    "DROP_DESCRIPTION": "Dengan perintah ini, anda akan dapat membuat satu set 3 kartu dengan Gens yang diacak. anda dapat membeli Drops tambahan dari perintah \"Shop\" dengan Wists, yang dapat anda peroleh dengan memilih Sofi",
-    "EXTRA_DROP_ALERT": "{{author}} extra **Drop** anda sedang digunakan. Anda memiliki **{{remaining}}** yang tersisa",
-    "ON_CD": "{{author}} **Drop** anda akan siap: **{{dropCd}}**",
+    "DROP_DESCRIPTION": "Dengan perintah ini, anda akan dapat membuat satu set yang terdirir dari 3 kartu dengan Gen yang diacak. Anda dapat membeli Drops tambahan dari perintah \"{{prefix}}shop\" menggunakan Wists, yang dapat anda peroleh dari memvoting Sofi",
+    "EXTRA_DROP_ALERT": "{{author}} Extra **Drop** Anda sudah digunakan. Anda memiliki **{{remaining}}** tersisa",
+    "ON_CD": "{{author}} **Drop** anda akan siap dalam: **{{dropCd}}**",
     "VOTE": "Vote",
     "BUY_DROP": "\n\n- Anda juga dapat **Vote** untuk menerima **Wists**! Gunakan perintah `{{prefix}}buy drop` untuk menukarnya",
-    "DROPPING_CARD": "{{author}} Sedang **dropping** kartu",
-    "WISHLIST_ALERT": "Sebuah kartu dari daftar keinginan Anda telah tiba! {{users}}"
+    "DROPPING_CARD": "{{author}} Sedang **menjatuhkan** kartu",
+    "WISHLIST_ALERT": "Kartu dari daftar keinginan Anda terjatuh! {{users}}"
 }

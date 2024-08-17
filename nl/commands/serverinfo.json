@@ -1,14 +1,18 @@
 {
     "SI_CATEGORY": "Instellingen",
-    "SERVERINFO_DESCRIPTION": "Gebruik dit commando om statistieken weer te geven van de server waarin deze werd gebruikt. U kunt ook een hoofdtaal voor uw server selecteren, waardoor alle antwoorden van Sofi in de geselecteerde taal worden weergegeven",
+    "SERVERINFO_DESCRIPTION": "Gebruik deze opdracht om statistieken weer te geven van de server waarin deze werd gebruikt. U kunt ook een hoofdtaal voor uw server selecteren, waardoor alle antwoorden van Sofi in de geselecteerde taal worden weergegeven",
     "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_SPAWN_CHANNEL": "Spawn Kanaal",
     "SI_TOTAL_DROPS": "Totaal aantal Drops",
     "SI_TOTAL_BURNT": "Totaal aantal verbrand",
-    "SI_TOTAL_GRABS": "Totaal Grabbed",
+    "SI_TOTAL_GRABS": "Totaal Gepakken",
     "SI_TOTAL_GIVEN": "Totaal Gegeven",
-    "SI_TOTAL_TRADES": "Totaal aantal verhandeld",
-    "SI_NAME_UNAVAILABLE": "Naam Niet beschikbaar",
-    "SI_TOP_SERVERS": "**Topservers** | Resetten over: **{{countdown}}**",
-    "EMBED_FOOTER": "Server Voorvoegsel: \"{{prefix}}\""
+    "SI_TOTAL_TRADES": "Totaal aantal Verhandeld",
+    "SI_NAME_UNAVAILABLE": "Naam Niet Beschikbaar",
+    "SI_TOP_SERVERS": "**Top servers** | Resetten over: **{{countdown}}**",
+    "EMBED_FOOTER": "Server Voorvoegsel: \"{{prefix}}\"",
+    "SI_NOT_SET": "Niet ingesteld",
+    "ALLOW_LANG_MENU_LABEL": "Alle talen toestaan",
+    "ONE_LANG_MENU_LABEL": "{{locale}} Alleen",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Beperk talen op uw server"
 }

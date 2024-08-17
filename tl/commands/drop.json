@@ -3,7 +3,7 @@
     "EXTRA_DROP_ALERT": "{{author}} Ang iyong karagdagang **Drop** ay ginamit. Mayroon kang **{{remaining}}** natitira",
     "ON_CD": "{{author}} Ang iyong **Drop** ay magiging handa sa: **{{dropCd}}**",
     "VOTE": "Boto",
-    "BUY_DROP": "\n\n- Maaari ka ring **Bumoto** upang makatanggap ng **Wists**! Gamitin ang command na `{{prefix}}buy drop` upang ipagpalit ang mga ito",
+    "BUY_DROP": "\n\n- Maaari ka ring **Bumoto** upang makatanggap ng mga **Wist**! Gamitin ang command na `{{prefix}}buy drop` upang ipagpalit ang mga ito",
     "DROPPING_CARD": "{{author}} ay **dropping** ng kards",
     "WISHLIST_ALERT": "Mayroong card mula sa iyong wishlist na nag-drop! {{users}}"
 }
