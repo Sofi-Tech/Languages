@@ -1,9 +1,9 @@
 {
-    "DROP_DESCRIPTION": "Sa command na ito maaari kang bumuo ng 3 set ng kards na mayroong random na Gens. Maaari kang bumili ng karagdagang Drops mula sa \"Shop\" na command gamit ang Wists, na maaari mong makuha sa pamamagitang ng pag Boto para kay Sofi",
-    "EXTRA_DROP_ALERT": "{{author}} Ang iyong karagdagang **Drop** ay ginamit. Mayroon kang **{{remaining}}** natitira",
-    "ON_CD": "{{author}} Ang iyong **Drop** ay magiging handa sa: **{{dropCd}}**",
-    "VOTE": "Boto",
+    "DROP_DESCRIPTION": "Sa command na ito maaari kang bumuo ng 3 set ng mga kard na mayroong random na mga Gen. Maaari kang bumili ng karagdagang Drops mula sa \"{{prefix}}shop\" na command gamit ang mga Wist, na maaari mong makuha sa pamamagitan ng pag Boto para kay Sofi",
+    "EXTRA_DROP_ALERT": "{{author}} Ang iyong karagdagang **Drop** ay kasalukuyang ginagamit. Mayroon ka pang **{{remaining}}** natitira",
+    "ON_CD": "{{author}} Ang iyong **Drop** ay magiging handa sa loob ng: **{{dropCd}}**",
+    "VOTE": "Vote",
     "BUY_DROP": "\n\n- Maaari ka ring **Bumoto** upang makatanggap ng mga **Wist**! Gamitin ang command na `{{prefix}}buy drop` upang ipagpalit ang mga ito",
-    "DROPPING_CARD": "{{author}} ay **dropping** ng kards",
-    "WISHLIST_ALERT": "Mayroong card mula sa iyong wishlist na nag-drop! {{users}}"
+    "DROPPING_CARD": "Si {{author}} ay **nagda-drop** ng mga kard",
+    "WISHLIST_ALERT": "Mayroong kard mula sa iyong wishlist na nag-drop! {{users}}"
 }

@@ -2,5 +2,5 @@
     "BOOST_DESCRIPTION": "Este comando abrirá un mensaje embed, clasificando a los usuarios que han boosteado el servidor Sofi Cafe",
     "BOOST_CATEGORY": "Configuración",
     "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Mejoras Totales",
-    "EMBED_FOOTER": "Los usuarios que mejoren el servidor de Discord y los Donadores podrán solicitar nuevos personajes o variantes 3D de personajes existentes.\nLas ventajas adicionales incluyen un Rol de Servidor, Colores para el comando {{prefix}}userinfo y acceso a comandos sociales!"
+    "EMBED_FOOTER": "Los usuarios que mejoren el servidor de Discord y los Donadores podrán solicitar nuevos personajes o variantes 3D de personajes existentes.\nLas ventajas adicionales incluyen un Rol de Servidor, Colores para el comando \"{{prefix}}userinfo\" y acceso a comandos sociales!"
 }
