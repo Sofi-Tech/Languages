@@ -7,7 +7,7 @@
     "PULLS": "SOFI: PULLS",
     "PULL_COUNT": "Bilang ng Pull: [ {{count}} ]",
     "MISSING_CURR": "{{user}} Wala kang sapat na **{{currName}}** para sa prosesong ito",
-    "AMOUNT": "Natanggap mo: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "AMOUNT": "Natanggap mo: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Bilang ng Pull: [ {{pullcount}} ]",
     "RATES": "Mga Rate",
     "PULL_CHANCES": "**__Mga Probabilidad__**",
@@ -15,5 +15,6 @@
     "GIFS": "Mga GIF",
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
     "ACTIVE_POOL": "**Aktibong Pool**",
-    "GIF_EMBED_FOOTER": "Mayroon kang 0.5% na tyansa para makakuha ng animated na kard mula sa mga pull"
+    "GIF_EMBED_FOOTER": "Mayroon kang 0.5% na tyansa para makakuha ng animated na kard mula sa mga pull.",
+    "GIF_NOTE": "Ang bawat GIF ng karakter ay maaaring makuha hanggang sa 100 beses"
 }

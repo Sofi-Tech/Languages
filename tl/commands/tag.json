@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari kang magtalaga ng tag sa isang kard. Ang mga tag ay isang kapaki-pakinabang na feature para ma-ikategorya at ma-igrupo ang maraming kard na tugma sa iyong sariling pamantayan. Gamitin ang command na \"Tagcreate\" upang gumawa ng mga tag",
+    "TAG_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari kang magtalaga ng tag sa isang kard. Ang mga tag ay isang kapaki-pakinabang na feature para ma-ikategorya at ma-igrupo ang maraming kard na tugma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tagcreate\" upang gumawa ng mga tag",
     "TAG_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}t <TagName> <CardCode>`",
     "NO_TAGS_CREATED": "{{author}} Wala ka pang kahit anong tag. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` upang makagawa",

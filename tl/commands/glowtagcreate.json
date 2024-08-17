@@ -1,5 +1,5 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng tag upang ikategorya at igrupo ang mga Glow na akma sa iyong sariling pamantayan. Gamitin ang command na \"Glowtag\" para magtalaga ng mga nagawang tag sa iyong mga Glow",
+    "GLOWTAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng tag upang ikategorya at igrupo ang mga Glow na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}glowtag\" para magtalaga ng mga nagawang tag sa iyong mga Glow",
     "GTC_CATEGORY": "Mga Tag",
     "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Ang emoji na iyon ay hindi tama",

@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Gamitin ang command na ito para mag-sunog ng maraming kard nang sabay-sabay sa pamamagitan ng pagdaragdag ng mga parametro tulad ng \"t:TagName\" at \"wl<Number\" para tukuyin kung aling mga kard ang gusto mong sunugin. Gamitin ang command na \"Help filter\" para makakuha ng kumpletong listahan ng mga available na parametro",
+    "MASSBURN_DESCRIPTION": "Gamitin ang command na ito para mag-sunog ng maraming kard nang sabay-sabay sa pamamagitan ng pagdaragdag ng Gen/Tag/Wishlist na mga filter para tukuyin kung aling mga kard ang gusto mong sunugin",
     "IN_ACTIVE_MB": "{{user}} Hindi ka maaaring magsimula ng bagong **Massburn** habang aktibo pa ang nauna",
     "PROVIDE_FILTERS": "{{author}} Tamang paggamit: `{{prefix}}mb <Filters>`\n\n```fix\nPaalala: Makikita mo ang kumpletong listahan ng mga filter gamit ang command na {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Walang mahanap na kahit anong tag na may pangalan na `{{arg}}`",

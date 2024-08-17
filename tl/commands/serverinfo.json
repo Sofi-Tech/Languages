@@ -10,5 +10,9 @@
     "SI_TOTAL_GIVEN": "Kabuuang Naibigay",
     "SI_CATEGORY": "Konpigurasyon",
     "SI_SPAWN_CHANNEL": "Channel sa Paglitaw",
-    "EMBED_FOOTER": "Server Prefix: \"{{prefix}}\""
+    "EMBED_FOOTER": "Server Prefix: \"{{prefix}}\"",
+    "SI_NOT_SET": "Hindi naka-set",
+    "ALLOW_LANG_MENU_LABEL": "Pahintulutan ang lahat ng wika",
+    "ONE_LANG_MENU_LABEL": "{{locale}} Lamang",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Pagbawalan ang mga wika sa iyong server"
 }

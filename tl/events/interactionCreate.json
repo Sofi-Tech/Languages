@@ -9,7 +9,7 @@
     "COMMAND_RUN_ERROR": "{{author}} Nagkaroon ng error sa pagtatangka na ipatupad ang command na ito. Pakisubukang muli",
     "VERIFY_BUTTON_LABEL": "Beripikado",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Mag-antay ng **{{cooldown}}** bago gamitin ulit ang command na ito",
-    "REQUIRE_PERMISSIONS": "{{author}} Kailagan mo ng: **{{permissions}}** na permission upang maisagawa ang command",
+    "REQUIRE_PERMISSIONS": "{{author}} Kailangan mo ng: **{{permissions}}** na permission upang magamit ang command",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Maghintay ng **{{cooldown}}** bago gamitin ulit ang command na ito",
     "REGISTER_TO_PLAY": "{{author}} Mangyaring gamitin ang command na `{{prefix}}register`para masimulan ang iyong paglalakbay sa **Sofi**!",
     "BOT_IN_SAFEMODE": "{{author}} si **Sofi** ay kasalukuyang nasa safe mode! ETA: **{{eta}}**\nHumihingi kami ng paumanhin para sa anumang abala na dulot nito at humihingi kami ng iyong pasensya!",

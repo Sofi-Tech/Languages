@@ -10,7 +10,7 @@
     "CAN_MENU_LABEL": "Kanselahin",
     "PROFILECONFIG_DESCRIPTION": "Sa command na ito, maaari mo nang ma-customize ang iyong profile card sa kahit na anong paraan",
     "SC_MENU_LABEL": "Ipakita ang Kard",
-    "VIEW_PROFILE_BGS": "[Tignan ang lahat ng available na mga **Background ng Profile** dito](https://sofi.gg/profile/background)",
+    "VIEW_PROFILE_BGS": "[Tingnan ang lahat ng available na mga **Profile Background** dito](https://sofi.gg/profile/background)",
     "NON_TRADABLE_NOTE": "Ang mga Background ng Profile ay hindi maaaring ipagpalit sa kahit na paanong paraan",
     "SET_FC_CONFIRM": "Sigurado ka bang gusto mong i-set ang **{{character}}** mula sa **{{series}}** bilang iyong paboritong karakter?",
     "TC_MENU_LABEL": "Kulay ng Font",
@@ -92,10 +92,12 @@
     "BUILDING_COMPONENTS": "{{author}} Binubuo ang mga bahagi... 🏗️ <a:_:876610443148406794>",
     "COMBINING_ELEMENTS": "{{author}} Pinagsasama-sama ang mga elemento... 🔄 <a:_:876610443148406794>",
     "FINAL_TOUCHES": "{{author}} Naglalapat ng mga panghuling parte... ✨ <a:_:876610443148406794>",
-    "GIF_SUCCESSFUL": "{{author}} Ang GIF profile ay matagumpay na nabuo. Gamitin ang `spro` para tingnan",
+    "GIF_SUCCESSFUL": "{{author}} Ang GIF profile ay matagumpay na nabuo. Gamitin ang \"{{prefix}}pro\" para tingnan ito",
     "NO_PBG_INV": "Hindi mahanap ang **Profile Background** na may ID na `{{id}}` sa iyong imbentaryo",
     "PR_MENU_LABEL": "Profile Ring",
     "SELECT_PR_CONFIRM": "Sigurado ka bang gusto mong piliin ang **{{ringName}}** na **Profile Ring**?",
     "NO_PR_FOUND": "Walang mahanap na **Profile Ring** na may ID na `{{id}}` sa iyong imbentaryo",
-    "PROVIDE_PROFILE_RING": "Ilagay ang ID ng **Profile Ring** para ma-set ito. | I-type ang `none` para i-reset ito."
+    "PROVIDE_PROFILE_RING": "Ilagay ang ID ng Profile Ring para ma-set ito. | I-type ang \"none\" para i-reset ito.",
+    "PBG_PURCHASE_EVENT": "Ang **Profile Background** na ito ay mabibili lamang noong panahon ng kaugnay na event",
+    "GIF_NOTE": "Paalala: Ang pagpapalit ng iyong profile sa GIF ay aalisin ang Glow mula sa iyong profile.\nSIgurado ka bang gusto mong magpatuloy?"
 }

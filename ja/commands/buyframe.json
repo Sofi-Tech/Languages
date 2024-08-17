@@ -9,6 +9,6 @@
     "YOU_GET": "手に入れるフレーム：",
     "YOU_PAY": "支払い総額：",
     "NO_ENOUGH_AMOUNT": "{{author}} 買えられる「**{{currency}}**」が足りません",
-    "PROCESS_CANCELLED": "購入がキャンセルされました",
+    "PROCESS_CANCELLED": "変換操作がキャンセルされました",
     "TRANSACTION_SUCCESSFUL": "{{author}} **{{frameName}}** という**フレーム**が成功で購入しました"
 }

@@ -27,5 +27,6 @@
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "NONE": "Wala",
     "ROLL_MORPH": "Ang morph na ito ay mawawala pagkalipas ng 2 minuto",
-    "SMR_REROLL_COST": "Ang bawat roll ay magkakahalaga ng 500 {{currencyName}}"
+    "SMR_REROLL_COST": "Ang bawat roll ay magkakahalaga ng 500 {{currencyName}}",
+    "CANNOT_APPLY_3D": "{{author}} Hindi ka pwedeng maglagay ng {{article}} **{{eventType}}** na morph sa mga **3d** na kard"
 }

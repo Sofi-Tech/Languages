@@ -1,5 +1,5 @@
 {
-    "PROFILE_DESCRIPTION": "Ang command na ito ay magpapakita ng profile ng user, pati na rin ang kanilang napiling background, na-highlight na mga kard at mga badge. Maaari mong i-organisa ang sarili mong profile kard sa pamamagitan ng \"Profileconfig\" na command",
+    "PROFILE_DESCRIPTION": "Ang command na ito ay magpapakita ng profile ng user. Maaari mong i-customize ang sarili mong profile sa pamamagitan ng \"{{prefix}}profileconfig\" na command",
     "PRO_CATEGORY": "Konpigurasyon",
     "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
     "PROFILE_NOT_FOUND": "{{author}} Ang user na iyon ay hindi nakarehistro",

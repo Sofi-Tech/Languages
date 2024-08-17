@@ -4,7 +4,7 @@
     "CARD_NOT_FOUND": "{{author}} Ang kard na may code na `{{code}}` ay hindi nakita sa mga nasunog mong kard",
     "CARD_EXPIRED": "{{author}} Ang kard na may code na `{{code}}` ay lumipas na at hindi na pwedeng maibalik",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Sigurado ka bang gusto mong maibalik ang kard na `{{code}}` para sa {{amount}} **{{currency}}**?",
+    "RESTORE_CONFIRMATION": "Sigurado ka bang gusto mong maibalik ang kard na `{{code}}` para sa **{{amount}}** **{{currency}}**?",
     "EMBED_FOOTER": "Maaari mong maibalik ang kard na ito hanggang {{date}}",
     "MISSING_CURRENCY": "{{author}} Kailangan mo ng {{amount}}**{{currency}}** upang maibalik ang isang kard",
     "RESTORE_SUCCESSFUL": "{{author}} Ang kard na may code na `{{code}}` ay matagumpay na naibalik",

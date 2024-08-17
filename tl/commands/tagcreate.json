@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng tag upang ikategorya at igrupo ang mga kard na akma sa iyong sariling pamantayan. Gamitin ang command na \"Tag\" para magtalaga ng mga nagawang tag sa iyong mga kard",
+    "TAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng tag upang ikategorya at igrupo ang mga kard na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tag\" para magtalaga ng mga nagawang tag sa iyong mga kard",
     "TC_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Ang emoji na iyon ay hindi tama",

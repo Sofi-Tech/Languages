@@ -1,10 +1,10 @@
 {
-    "BGSHOP_DESCRIPTION": "背景ショップを表示する",
+    "BGSHOP_DESCRIPTION": "このコマンドを使うと、背景shopが開き、3Dカード用のすべてのBackgroundsが表示されます。名前をクリックすると、特定の背景をウェブページで確認できます",
     "BGS_CATEGORY": "コスメティック",
-    "BGS_SLASH_DESC": "見つかりたい背景コードを入力してください",
-    "EMBED_TITLE": "SOFI： 背景ショップ",
-    "APPLY_BG": "\n**背景**を買うため次のコマンドを入力してください：`{{prefix}}buy bg <背景ID> <数>`",
-    "VIEW_BACKGROUNDS": "[すべての利用可能な**背景**を表示するにはここをクリックしてください](<https://sofi.gg/backgrounds>)",
+    "BGS_SLASH_DESC": "探している「背景」のコードを入力してください",
+    "EMBED_TITLE": "SOFI: 背景 SHOP",
+    "APPLY_BG": "\n`{{prefix}}buy bg <Background-ID> <Amount>` コマンドを使用して、**背景** を買ってください",
+    "VIEW_BACKGROUNDS": "[ここをクリックして、利用可能な **Backgrounds** をすべて表示してください](<https://sofi.gg/backgrounds>)",
     "SHOWING_PAGE": "ページを表示：{{page}}/{{pages}}",
-    "NO_BG_FOUND": "{{author}}入力された**背景**IDは無効です"
+    "NO_BG_FOUND": "{{author}}入力された**背景**IDは見つかりませんでした"
 }

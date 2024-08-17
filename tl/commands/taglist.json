@@ -1,5 +1,5 @@
 {
-    "TAGLIST_DESCRIPTION": "Gamitin ang command na ito upang makita ang listahan ng kasalukuyang mga tag ng mga user. Maaaring gamitin ang command na \"Tagcreate\" upang lumikha pa ng higit pang mga tag",
+    "TAGLIST_DESCRIPTION": "Gamitin ang command na ito upang makita ang listahan ng kasalukuyang mga tag ng user. Maaaring gamitin ang command na \"{{prefix}}tagcreate\" upang lumikha pa ng higit pang mga tag",
     "TL_CATEGORY": "Mga Tag",
     "NO_USER": "{{author}} Hindi mahanap ang user na iyon",
     "NO_TAGS": "{{author}} Ang user na iyon ay walang kahit anong tag",

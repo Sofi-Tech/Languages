@@ -3,7 +3,7 @@
     "CHAR_NOT_FOUND": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging sensitibo ang function ng case!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "SUBMITTED": "Isinumite Ni: <@{{userID}}>",
+    "SUBMITTED": "**Isinumite ni** <@{{userID}}>",
     "EMBED_FOOTER": "Ikaw ay maaaring magsumite ng mga bagong Version gamit ang {{prefix}}sc command",
     "MORE": "Pumili ng Opsyon",
     "GIF_LABEL": "GIF",
@@ -15,5 +15,6 @@
     "EVENTS": "Mga Event",
     "EVENT": "Event",
     "UPCOMING_EVENT": "Nalalapit na Event",
-    "NO_OWNER_FOUND": "Wala pang nagmamay-ari ng **2D** na variant ng karakter na ito"
+    "NO_OWNER_FOUND": "Wala pang nagmamay-ari ng **2D** na variant ng karakter na ito",
+    "LOOKUP_CREDITS": "**Credits**: {{credits}}"
 }
