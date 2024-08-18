@@ -1,6 +1,6 @@
 {
     "BLACKLISTING_INFO": "Lista Negra: Restringe el uso de comandos en este canal",
-    "ADD_COMMANDS_INFO": "Agregar : Añade comandos adicionales a la **{{listName}}**\n",
+    "ADD_COMMANDS_INFO": "Agregar: Añade comandos adicionales a la **{{listName}}**\n",
     "SOME_COMMANDS_WHITELISTED": "{{author}} Ya tienes comandos en la lista blanca de este canal! Usa el comando `{{prefix}}p reset` para establecer los permisos de este canal al valor por defecto",
     "REMOVE_MODAL_LABEL": "Eliminar comandos de la {{listName}} de este canal",
     "ADD_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado ya están en la {{listName}} de este canal o no son válidos",

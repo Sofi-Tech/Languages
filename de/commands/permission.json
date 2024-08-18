@@ -14,7 +14,7 @@
     "RESET_USAGE": "Reset: Setzt die Berechtigungen auf die Standardeinstellungen zurück\nVerwendung: `{{prefix}}p reset`",
     "WHITELISTED_COMMANDS": "**__Befehle auf der Whitelist__**",
     "ADD_COMMANDS_INFO": "Hinzufügen: Zusätzliche Befehle zu **{{listName}}** hinzufügen\n",
-    "REMOVE_COMMANDS_INFO": "Entfernen : Bestimmte Befehle aus **{{listName}}** entfernen\n",
+    "REMOVE_COMMANDS_INFO": "Entfernen: Bestimmte Befehle aus **{{listName}}** entfernen\n",
     "BLACKLISTED_COMMANDS": "**__Befehle auf der Blacklist__**",
     "NO_BUTTON_LABEL": "Ablehnen",
     "SOME_COMMANDS_WHITELISTED": "{{author}} Du hast in diesem Kanal bereits Befehle auf die Whitelist gesetzt! Verwende `{{prefix}}p reset` , um die Berechtigungen zurückzusetzen",

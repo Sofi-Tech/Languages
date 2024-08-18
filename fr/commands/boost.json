@@ -2,5 +2,5 @@
     "BOOST_DESCRIPTION": "Cette commande ouvrira un encart, classant les utilisateurs qui ont boostés le Serveur Sofi Cafe",
     "BOOST_CATEGORY": "Réglages",
     "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Total Boosters",
-    "EMBED_FOOTER": "Les boosters et donateurs Discord sont éligibles pour demander de nouveaux personnages ou des variantes 3D de personnages existants.\nLes avantages supplémentaires incluent un Rôle de Serveur, des Couleurs pour la commande {{prefix}}userinfo et l'accès aux commandes sociales!"
+    "EMBED_FOOTER": "Les boosters et donateurs Discord sont éligibles pour demander de nouveaux personnages ou des variantes 3D de personnages existants.\nLes avantages supplémentaires incluent un Rôle de Serveur, des Couleurs pour la commande \"{{prefix}}userinfo\" et l'accès aux commandes sociales!"
 }
