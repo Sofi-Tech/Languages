@@ -1,4 +1,4 @@
 {
-    "EXTRA_GRAB": "{{user}} 余分 `グラブ` を使用しています. **{{remaining}}** グラブが残ります",
+    "EXTRA_GRAB": "{{user}} 追加の**Grab**が使用されています。残り**{{remaining}}**です",
     "GRAB_COOLDOWN": "{{user}} 新たなカードを引き取れるまで後 **{{cooldown}}** をお待ちください"
 }

@@ -6,7 +6,7 @@
     "BUTTON_NAME_LABEL": "नाम",
     "BUTTON_EMOJI_LABEL": "इमोजी",
     "EMBED_TITLE": "SOFI: UPDATE TAG",
-    "EMBED_DESCRIPTION": "`{{tagName}}`टैग का कौन सा भाग आप बदलना चाहते है?",
+    "EMBED_DESCRIPTION": "`{{tagName}}` टैग का कौन सा भाग आप बदलना चाहते है?",
     "REPLACE_NAME": "`{{tagName}}` को बदलने के लिए एक नया नाम दर्ज करे",
     "TAGNAME_EXISTS": "{{author}} इस नाम से टैग पहले से मौजूद है `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} आपके टैग का नाम सिर्फ शब्दो-अंको में होना चाहिए और उसमे कोई भी खास वर्ण, स्पेस या अपशब्द का समावेश नही होना चाहिए",

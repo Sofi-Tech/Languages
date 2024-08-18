@@ -4,5 +4,6 @@
     "CORRECT_USAGE": "{{author}} Juiste gebruik: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Die emoji is ongeldig",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} U heeft al een **Glow** tag met die naam",
-    "CREATED_GLOWTAG": "{{author}} Een **Glow** tag met de naam `{{tag}}` | {{emoji}} met succes gecreëerd"
+    "CREATED_GLOWTAG": "{{author}} Een **Glow** tag met de naam `{{tag}}` | {{emoji}} met succes gecreëerd",
+    "INVALID_TAGNAME_FORMAT": "{{author}} De naam van uw tag moet alfanumeriek zijn en mag geen speciale tekens, spaties of grof taalgebruik bevatten"
 }

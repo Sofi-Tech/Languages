@@ -1,5 +1,5 @@
 {
-    "DROP_DESCRIPTION": "Met deze commando kunt u een set van 3 kaarten genereren met willekeurige Gens. U kan extra Drops kopen in de ''Shop'' commando met Wists, die u kunt krijgen door te Voten voor Sofi",
+    "DROP_DESCRIPTION": "Met deze opdracht kunt u een set van 3 kaarten genereren met willekeurige Gens. U kunt extra Drops kopen via de opdracht \"{{prefix}}shop\" met Wists, die je kunt verkrijgen door op Sofi te stemmen",
     "EXTRA_DROP_ALERT": "{{author}} Uw extra drop wordt gebruikt. U heeft nog **{{remaining}}** over",
     "ON_CD": "{{author}} Uw **Drop** zal klaar zijn in **{{dropCd}}**",
     "VOTE": "Voten",

@@ -6,7 +6,7 @@
     "INFO_1": "{{user}} ha iniciado el juego de adivinanzas!",
     "INFO_2": "Cuota de Participación: **{{bet}}** {{currencyEmoji}}",
     "INFO_3": "Premio: **{{jackpot}}** {{currencyEmoji}}",
-    "FOOTER": "Haz click en 🍻 para participar! Inicia el juego pulsando el botón🟢",
+    "FOOTER": "Haz click en 🍻 para participar! Inicia el juego pulsando el botón 🟢",
     "REQ_MORE_PLAYERS": "{{user}} Necesitas al menos **2** jugadores para poder iniciar el juego",
     "GUESS_THE_WORD": "{{participants}}\n\nDescifra la palabra **inglesa**: `{{scrambledWord}}`",
     "CORRECT_GUESS": "{{winner}} acertó la palabra y ganó **{{jackpot}}** {{currencyEmoji}}",

@@ -1,10 +1,10 @@
 {
-  "WAIT_TO_CLAIM": "{{user}} 新たなカードを引き取れるまで後 **{{cooldown}}** をお待ちください",
-  "BATTLED_AND_WON": "{{winner}} は{{user}} と争って **{{character}}** を手に入りました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "EXTRA_GRAB": "{{user}} 余分 `グラブ` を使用しています. **{{remaining}}** グラブが残ります",
-  "BATTLED_WON_PLURAL": "{{winner}} は **{{userCount}}** プレイヤーと争って **{{character}}** を手に入りました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "EMBED_TITLE": "SOFI: CAPTCHADROP",
-  "EMBED_FOOTER": "Captchaを入力し、上記カードを手に入れます",
-  "TOOK_THE_CARD": "{{user}} が **{{character}}** カードを手に入りました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "CANNOT_BE_GRABBED": "{{user}} は **{{characterName}}** を手に入りました"
+    "WAIT_TO_CLAIM": "{{user}} 他のカードを取るには**{{cooldown}}**待つ必要があります",
+    "BATTLED_AND_WON": "{{winner}} {{user}}を撃退して{{character}}カードを**grabbed**しました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EXTRA_GRAB": "{{user}} 追加の**Grab**が使用されています。残り**{{remaining}}**です",
+    "BATTLED_WON_PLURAL": "{{winner}} **{{userCount}}人のプレイヤーを退けて**grabbed**が{{character}}**カードを獲得しました(`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "上のカードを取得するには Captchaを書いてください",
+    "TOOK_THE_CARD": "{{user}}{{character}}カードを**grabbed**しました(`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} {{characterName}}カードを**grabbed**しました"
 }

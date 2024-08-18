@@ -1,6 +1,6 @@
 {
-  "EXTRA_GRAB": "{{user}} 余分 `グラブ` を使用しています. **{{remaining}}** グラブが残ります",
-  "GRAB_COOLDOWN": "{{user}} 新たなカードを引き取れるまで後 **{{cooldown}}** をお待ちください",
-  "CLAIMED_CARD": "{{user}} が **{{character}}** カードを得られました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "EMBED_TITLE": "SOFI: MINIGAME"
+    "EXTRA_GRAB": "{{user}} 追加の**Grab**が使用されています。残り**{{remaining}}**です",
+    "GRAB_COOLDOWN": "{{user}} 新たなカードを引き取れるまで後 **{{cooldown}}** をお待ちください",
+    "CLAIMED_CARD": "{{user}} が **{{character}}** カードを得られました (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "SOFI: MINIGAME"
 }
