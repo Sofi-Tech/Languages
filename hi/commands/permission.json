@@ -6,7 +6,7 @@
     "ADD_BUTTON_LABEL": "जोड़े",
     "REMOVE_BUTTON_LABEL": "हटाए",
     "NO_PERMS_SETUP": "{{author}} यह अनुमति अभी तक इस चैनल में लागू नहीं हुई है। लागू करने के लिए, `{{prefix}}p [BL/WL] [Add] <CommandNames/All> का उपयोग करें",
-    "ADD_COMMANDS_INFO": "Add : **{{listName}}** में अतिरिक्त कमांड जोड़ें\n",
+    "ADD_COMMANDS_INFO": "Add: **{{listName}}** में अतिरिक्त कमांड जोड़ें\n",
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} आप किसी लागू हुई कमांड को संदिग्ध से नहीं हटा सकते हैं",
     "BLACKLISTING_USAGE": "उपयोग: `{{prefix}}p bl add/rem <CommandName/All>`\n",
     "WHITELISTING_USAGE": "उपयोग: `{{prefix}}p wl add/rem <CommandName/All>`\n",
