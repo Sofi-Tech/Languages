@@ -4,5 +4,6 @@
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng `{{prefix}}gtc <TagName> <Emoji>`",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Bạn đã có một nhãn **Glow** với tên đó",
     "CREATED_GLOWTAG": "{{author}} Đã tạo thành công nhãn **Glow** với tên `{{tag}}` | {{emoji}}",
-    "GLOWTAGCREATE_DESCRIPTION": "Với lệnh này, bạn có thể tạo một nhãn để phân loại và nhóm nhiều Glow theo cách của riêng bạn. Sử dụng lệnh \"{{prefix}}glowtag\" để gán các nhãn đã tạo cho Glow của bạn"
+    "GLOWTAGCREATE_DESCRIPTION": "Với lệnh này, bạn có thể tạo một nhãn để phân loại và nhóm nhiều Glow theo cách của riêng bạn. Sử dụng lệnh \"{{prefix}}glowtag\" để gán các nhãn đã tạo cho Glow của bạn",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Tên của nhãn chỉ có thể bao gồm chữ và số, không thể chứa dấu cách hay ký tự đặc biệt"
 }

@@ -1,14 +1,14 @@
 {
-    "TAGUPDATE_DESCRIPTION": "Gebruik dit commando om de naam of emoji van een tag bij te werken",
+    "TAGUPDATE_DESCRIPTION": "Gebruik deze commando om de naam of emoji van een tag bij te werken",
     "TU_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Correct Gebruik: `{{prefix}}tu <TagNaam>`",
+    "WRONG_USAGE": "{{author}} Juiste Gebruik: `{{prefix}}tu <TagNaam>`",
     "TAG_NOT_FOUND": "{{author}} Kan geen tag met de naam `{{tag}}` vinden",
     "BUTTON_NAME_LABEL": "Naam",
     "BUTTON_EMOJI_LABEL": "Emoji",
     "EMBED_TITLE": "SOFI: UPDATE TAG",
     "EMBED_DESCRIPTION": "Welk deel van de tag `{{tagName}}` wilt u bijwerken?",
     "REPLACE_NAME": "Voer een naam in die `{{tagName}}` vervangt",
-    "TAGNAME_EXISTS": "{{author}} Je hebt al een tag met de naam `{{newTagName}}`",
+    "TAGNAME_EXISTS": "{{author}} U heeft al een tag met de naam `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} De naam van uw tag moet alfanumeriek zijn en mag geen speciale tekens, spaties of grof taalgebruik bevatten",
     "TAGNAME_LONG": "{{author}} De naam van uw tag mag slechts **20** tekens lang zijn",
     "REPLACE_NAME_CONFIRMATION": "Weet u zeker dat u de naam van deze tag wilt wijzigen van `{{oldTag}}` naar `{{newTag}}`?",
@@ -16,6 +16,6 @@
     "PROCESS_TERMINATED": "Het proces is geannuleerd",
     "REPLACE_EMOJI": "Voer de emoji in waarmee je {{emoji}} wilt vervangen",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Dat is een ongeldige emoji",
-    "REPLACE_EMOJI_CONFIRMATION": "Weet u zeker dat u de emoji van deze tag wilt wijzigen van {{oldEmoji}} naar {{new Emoji}}?",
+    "REPLACE_EMOJI_CONFIRMATION": "Weet u zeker dat u de emoji van deze tag wilt wijzigen van {{oldEmoji}} naar {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} De emoji van deze tag is met succes bijgewerkt van {{oldEmoji}} naar {{newEmoji}}"
 }

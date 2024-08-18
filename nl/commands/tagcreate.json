@@ -1,7 +1,7 @@
 {
-    "TAGCREATE_DESCRIPTION": "Met deze commando kunt u een tag maken om meerdere kaarten te categoriseren en te groeperen die aan uw eigen criteria voldoen. Gebruik het commando \"Tag\" om uw gemaakte tags aan kaarten toe te wijzen",
+    "TAGCREATE_DESCRIPTION": "Met deze opdracht kunt u een tag maken om meerdere kaarten te categoriseren en te groeperen die aan uw eigen criteria voldoen. Gebruik de opdracht \"{{prefix}}tag\" om gemaakte tags aan uw kaarten toe te wijzen",
     "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}tc <TagNaam> <emoji>`",
+    "WRONG_USAGE": "{{author}} Juiste gebruik: `{{prefix}}tc <TagNaam> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Die emoji is ongeldig",
     "INVALID_TAGNAME_FORMAT": "{{author}} De naam van uw tag moet alfanumeriek zijn en mag geen speciale tekens, spaties of grof taalgebruik bevatten",
     "LONG_TAGNAME": "{{author}} De naam van uw tag mag slechts **20** tekens lang zijn",

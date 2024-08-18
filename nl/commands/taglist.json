@@ -1,5 +1,5 @@
 {
-    "TAGLIST_DESCRIPTION": "Gebruik dit commando om de huidige tags van een gebruiker weer te geven. U kunt het commando \"Tagcreate\" gebruiken om meer tags aan te maken",
+    "TAGLIST_DESCRIPTION": "Gebruik deze opdracht om de huidige tags van een gebruiker weer te geven. U kunt de commando \"{{prefix}}tagcreate\" gebruiken om meer tags te maken",
     "TL_CATEGORY": "Tags",
     "NO_USER": "{{author}} Kon die gebruiker niet vinden",
     "NO_TAGS": "{{author}} Die gebruiker heeft geen tags",

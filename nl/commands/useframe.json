@@ -1,7 +1,7 @@
 {
-    "USEFRAME_DESCRIPTION": "Dit commando zal een geselecteerd Frame toepassen op een kaart van keuze. U kunt Frames kopen met behulp van het commando \"Frameshop\"",
+    "USEFRAME_DESCRIPTION": "Met deze commando wordt een geselecteerd frame toegepast op een kaart naar keuze. U kunt Frames kopen met behulp van de opdracht \"{{prefix}}frameshop\".",
     "UF_CATEGORY": "Cosmetica",
-    "UF_INVALID_USAGE": "{{author}} Correct gebruik: `{{prefix}}uf <KaartCode> <FrameNaam/FrameCode>`",
+    "UF_INVALID_USAGE": "{{author}} Juiste gebruik: `{{prefix}}uf <KaartCode> <FrameNaam/FrameCode>`",
     "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
     "CANNOT_APPLY": "{{author}} U kunt een **Frame** niet aanbrengen op een **3D** kaart",
     "NO_GIF": "{{author}} U kunt een **Frame** niet aanbrengen op een **GIF** kaart",
@@ -10,6 +10,6 @@
     "UF_CONFIRMATION": "Weet u zeker dat u het **{{frameName}}** **Frame** op deze kaart wilt toepassen?",
     "EMBED_FOOTER": "Het bevestigen van dit proces zal het momenteel toegepaste frame vernietigen",
     "NO_OWNER": "{{author}} De kaart is niet meer in uw collectie",
-    "FRAME_NOT_FOUND": "{{author}} Je hebt niet het **{{frameName}}** **Frame**",
+    "FRAME_NOT_FOUND": "{{author}} U heeft niet de **{{frameName}}** **Frame**",
     "UF_SUCCESSFUL": "{{author}} **{{frameName}}** **Frame** succesvol toegepast op uw kaart"
 }

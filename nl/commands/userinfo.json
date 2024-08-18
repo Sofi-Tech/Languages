@@ -1,6 +1,6 @@
 {
     "UI_PULL": "Pulls",
-    "USERINFO_DESCRIPTION": "Met behulp van dit commando wordt een embed lijst met verschillende statistieken van een gebruikers Sofi-account geopend. U kunt ook een andere taal selecteren door het dropdown menu aan de onderkant te gebruiken",
+    "USERINFO_DESCRIPTION": "Als u deze commando gebruikt, wordt een insluiting geopend met verschillende statistieken van het Sofi account van een gebruiker. U kunt ook een andere taal selecteren via het vervolgkeuzemenu onderaan",
     "UI_TP_EXPIRED": "Verlopen",
     "UI_RECEIVED": "Ontvangen",
     "UI_QUARANTINED": "In Quarantaine",
@@ -16,7 +16,7 @@
     "UI_TRADE_PASS": "<:_:979009081325019156> **Trade Pass** - **[{{date}}]**",
     "UI_CARDS_COUNT": "<:_:979009081325019156> Aantal kaarten - **{{cardCount}}**",
     "UI_TRUST_FACTOR": "<:_:979009081325019156> Vertrouwensfactor - **{{val}}**",
-    "UI_GUILD_JOINED": "<:_:979009081325019156> Lid van Gilde - **{{guild}}**",
+    "UI_GUILD_JOINED": "<:_:979009081325019156> Lid van Guild - **{{guild}}**",
     "USER_IS_BOT": "{{author}} Die gebruiker is een Discord `BOT`",
     "PROFILE_BUTTON_LABEL": "Web Profiel",
     "UI_3D_EDITS": "3D Bewerkingen",
@@ -28,7 +28,7 @@
     "UI_INVITED": "Uitgenodigd",
     "SPECIAL_INFO": "__Speciale Informatie__",
     "UI_GAME_BLACKLISTED": "- Game op de Zwarte lijst gezet: {{formattedDate}}",
-    "UI_UNVERIFIED": "Ongeverifieerd",
+    "UI_UNVERIFIED": "Niet geverifieerd",
     "UI_VERIFIED": "Geverifieerd",
     "USER_NOT_REGISTERED": "{{author}} Die gebruiker is niet geregistreerd",
     "UI_CATEGORY": "Instellingen",
@@ -45,5 +45,6 @@
     "UI_SCRATCHED": "Gekrast",
     "UI_BLACKLISTED": "Zwarte lijst",
     "USER_BLACKLISTED": "{{author}} Die gebruiker staat op de zwarte lijst",
-    "LANG_CHANGE_SUCCESS": "{{author}} Uw taal is succesvol gewijzigd naar **{{language}}**! Houd er rekening mee dat onze vertaalupdate zich nog in de beginfase van de ontwikkeling bevindt en nog niet al onze bestaande commando's omvat!\n\nOnvertaalde opdrachten zijn onder meer:\n\n- **Deck**\n- **Stats**\n- **Fuse**\n- **Event**\n- **Guild/Raid-Commands**\n\nAls u ontbrekende tekst, foute vertaling of gebroken embeds en functies vindt tijdens het gebruik van deze taal, raden wij u aan deze problemen te melden door het commando `{{prefix}}slr <Input>` te gebruiken of door met de rechtermuisknop op het bericht te klikken, over het gedeelte \"Apps\" te schuiven op discord en op de knop \"Report a translation\" te drukken. Als alternatief kunt u uw bevindingen melden op onze [Official Support Server](<https://discord.gg/sofi>)!"
+    "LANG_CHANGE_SUCCESS": "{{author}} Uw taal is succesvol gewijzigd naar **{{language}}**! Houd er rekening mee dat onze vertalingsupdate zich nog in de beginfase van de ontwikkeling bevindt en nog niet al onze bestaande opdrachten omvat!\n\nOnvertaalde opdrachten zijn onder meer:\n\n- **Deck**\n- **Stats**\n- **Event**\n- **Guild/Raid-Commands**\n\nAls u tijdens het gebruik van deze taal ontbrekende tekst, foutieve vertalingen of defecte insluitingen en functies aantreft, raden we u aan deze problemen te melden met behulp van de opdracht `{{prefix}}lrt <Input>`. Als alternatief kunt u uw bevindingen rapporteren op onze [Officieel Support Server](<https://discord.gg/sofi>)!",
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Kies uw taal"
 }

@@ -1,7 +1,7 @@
 {
-    "UNTAG_DESCRIPTION": "Gebruik dit commando om een tag van uw kaart te verwijderen. Als u een hele tag wilt verwijderen, kunt u in plaats daarvan het commando \"Tagdelete\" gebruiken",
+    "UNTAG_DESCRIPTION": "Gebruik deze commando om een tag van uw kaart te verwijderen. Als u een volledige tag wilt verwijderen, kunt u in plaats daarvan de opdracht \"{{prefix}}tagdelete\" gebruiken",
     "UT_CATEGORY": "Tags",
-    "UT_EMPTY_COLLECTION": "{{author}} Je hebt nog geen kaarten in je collectie",
+    "UT_EMPTY_COLLECTION": "{{author}} U heeft nog geen kaarten in uw collectie",
     "UNTAG_SUCCESSFUL": "{{author}} Tag succesvol verwijderd van uw **{{cardName}}** kaart",
     "INVALID_CODE_MULTIPLE": "{{author}} De volgende kaartcodes zijn ofwel ongeldig of niet in uw collectie:\n{{invalidCodeList}}",
     "MULTIPLE_UNTAG": "{{author}} Tag succesvol verwijderd van **{{count}}** kaarten",
