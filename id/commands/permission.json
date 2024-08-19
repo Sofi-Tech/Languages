@@ -33,8 +33,8 @@
     "WHITELISTING_INFO": "Whitelist: Mengizinkan perintah tertentu untuk digunakan di channel ini",
     "WHITELISTING_USAGE": "Penggunaan : `{{prefix}}p wl add/rem <CommandName/All>`\n",
     "WHITELISTED_COMMANDS": "**__Perintah di Whitelist__**",
-    "ADD_COMMANDS_INFO": "Add : Tambahkan perintah ke **{{listName}}**\n",
-    "REMOVE_COMMANDS_INFO": "Remove : Hapus perintah tertentu dari **{{listName}}**\n",
+    "ADD_COMMANDS_INFO": "Add: Tambahkan perintah ke **{{listName}}**\n",
+    "REMOVE_COMMANDS_INFO": "Remove: Hapus perintah tertentu dari **{{listName}}**\n",
     "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "NO_BUTTON_LABEL": "Batal",
     "YES_BUTTON_LABEL": "Setuju"

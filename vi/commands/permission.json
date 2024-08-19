@@ -11,7 +11,7 @@
     "WHITELISTING_USAGE": "Cách sử dụng: `{{prefix}}p wl add/rem <CommandName/All>`\n",
     "WHITELISTED_COMMANDS": "**__Các lệnh được cho phép__**",
     "ADD_COMMANDS_INFO": "Thêm: Thêm các lệnh bổ sung vào **{{listName}}**\n",
-    "REMOVE_COMMANDS_INFO": "Xóa: Loại bỏ các lệnh cụ thể khỏi **{{listName}}**\n",
+    "REMOVE_COMMANDS_INFO": "Xóa: Xoá các lệnh cụ thể khỏi **{{listName}}**\n",
     "BLACKLISTED_COMMANDS": "**__Các lệnh bị cấm__**",
     "NOT_BLACKLISTED_YET": "{{author}} Bạn chưa thêm lệnh nào vào danh sách đen",
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} Bạn không thể xoá các lệnh đã thêm vào danh sách cho phép từ danh sách đen",

@@ -4,5 +4,6 @@
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gtc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Emoji tersebut tidak valid",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Anda sudah memiliki tag **Glow** dengan nama tersebut",
-    "CREATED_GLOWTAG": "{{author}} Berhasil membuat tag **Glow** dengan nama `{{tag}}` | {{emoji}}"
+    "CREATED_GLOWTAG": "{{author}} Berhasil membuat tag **Glow** dengan nama `{{tag}}` | {{emoji}}",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Nama tag Anda harus berupa alfanumerik dan tidak boleh mengandung karakter khusus, spasi, atau kata-kata kotor dalam bentuk apa pun"
 }
