@@ -1,6 +1,6 @@
 {
     "WISHLISTADD_DESCRIPTION": "Gebruik dit commando om een karakter toe te voegen aan uw persoonlijke verlanglijst. Deze actie geeft u geen direct voordeel",
-    "CATEGORY": "Verlanglijstje",
+    "CATEGORY": "Verlanglijst",
     "ADD_CHARACTERS_ERROR": "{{author}} U kan geen karakters meer toevoegen aan uw verlanglijst",
     "SEARCH_CHARACTER_ERROR": "{{author}} Correct gebruik: `{{prefix}}wa <Naam>`",
     "NO_CHARACTER_FOUND": "{{author}} Er werd geen karakter gevonden. Gebruik het commando `{{prefix}}wa -f <Naam>` voor een exacty zoekopdracht",

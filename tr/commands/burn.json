@@ -10,7 +10,7 @@
     "CARD_NOT_OWNED": "{{author}} Bu kart artık koleksiyonunuzda değil",
     "BURN_REWARDS": "__Ödüller__",
     "SUCCESSFUL_FRAGMENT_BURN": "{{author}} **Fragment**'ınız başarıyla yakıldı",
-    "QUEST_CARD": "Şu anda bir görevde kullanılan bir kartı yakamazsınız",
+    "QUEST_CARD": "{{author}} Hali hazırda görevde kullanılan bir kartı yakamazsınız",
     "SUCCESSFUL_CARD_BURN": "{{author}} Kartınız başarıyla yakıldı",
     "EMBED_TITLE": "SOFI: YAKMA",
     "BURN_CARD_LOCKED": "{{author}} Bu kart şu anda bir destede kullanılıyor ve yakılamaz",

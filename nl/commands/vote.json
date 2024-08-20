@@ -1,12 +1,12 @@
 {
-    "VOTE_DESCRIPTION": "Gebruik dit commando om te stemmen voor Sofi op Top.GG. Elke stem die u bijdraagt aan Sofi zal u belonen met een Wist. Zodra u in een maand respectievelijk 30 en 50 stemmen hebt verzameld, ontvang je een kist die een exclusief frame kan bevatten",
+    "VOTE_DESCRIPTION": "Gebruik dit commando om op Sofi te stemmen op Top.GG. Elke stem die u aan Sofi bijdraagt, beloont u met 1 Wist op een weekdag en 2 Wists in het weekend.",
     "VOTE_CATEGORY": "Instellingen",
     "VOTE": "Stem op Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
     "USE_WIST": "Voor elke succesvolle **Stem** ontvangt u een **Wist** <:wist:870339503427027005>!",
     "TOTAL_VOTES": "- Totaal aantal **Stemmen**: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- Maandelijkse **Votes**: **{{monthlyVotes}}**",
+    "MONTHLY_VOTES": "- Maandelijkse **Stemmen**: **{{monthlyVotes}}**",
     "VOTE_RESET": "- Resetten over: **{{countdown}}**",
-    "EMBED_FOOTER": "Je krijgt het dubbele aantal Wists in het weekend"
+    "EMBED_FOOTER": "U krijgt het dubbele aantal Wists in het weekend"
 }

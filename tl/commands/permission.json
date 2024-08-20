@@ -24,7 +24,7 @@
     "PERMISSION_DESCRIPTION": "Sa command na ito ay maaaring i-whitelist o i-blacklist ang mga command sa loob ng channel kung saan ito ginagamit. Ang mga whitelisted na command ang tanging magagamit na command sa channel, habang ang mga blacklisted na command ang tanging mga command na hindi magagamit sa channel",
     "ADD_BUTTON_LABEL": "Idagdag",
     "BLACKLISTING_USAGE": "Paggamit: `{{prefix}}p bl add/rem <CommandName/All>`\n",
-    "ADD_COMMANDS_INFO": "Idagdag: Maglagay ng karagdagang mga command sa **{{listName}}**\n",
+    "ADD_COMMANDS_INFO": "Magdagdag: Maglagay ng karagdagang mga command sa **{{listName}}**\n",
     "SOME_COMMANDS_WHITELISTED": "{{author}} Mayroon ka nang mga naka-whitelist na command sa channel na ito! Gamitin ang command na `{{prefix}}p reset` upang ma-set ang channel na ito sa default na pahintulot",
     "SOME_COMMANDS_BLACKLISTED": "{{author}} Mayroon ka nang mga naka-blacklist na command sa channel na ito! Gamitin ang command na `{{prefix}}p reset` upang ma-set ang channel na ito sa default na pahintulot",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Matagumpay nang nai-reset ang pahintulot ng channel na ito",

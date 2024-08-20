@@ -16,7 +16,7 @@
     "REMOVE_COMMANDS_INFO": "Verwijderen : Verwijder specifieke commando's van de **{{listName}}**\n",
     "BLACKLISTED_COMMANDS": "**__Zwarte lijst Commando's__**",
     "WHITELISTED_COMMANDS": "**__Witte lijst Commando's__**",
-    "ADD_COMMANDS_INFO": "Toevoegen : Voeg extra commando's toe aan de **{{listName}}**\n",
+    "ADD_COMMANDS_INFO": "Toevoegen: voeg extra commando's toe aan de **{{listName}}**\n",
     "SOME_COMMANDS_WHITELISTED": "{{author}} U heeft al commando's in dit kanaal op de witte lijst gezet! Gebruik het commando `{{prefix}}p reset` om de toestemmingsstatus van dit kanaal op standaard in te stellen",
     "PERMISSION_DESCRIPTION": "Met dit commando kun je commando's op de witte of zwarte lijst zetten binnen het kanaal waarin het wordt gebruikt. Commando's op de witte lijst zijn de enige commando's die bruikbaar zijn in het kanaal, terwijl commando's op de zwarte lijst de enige commando's zijn die onbruikbaar zijn in het kanaal",
     "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle commando's van de {{listName}} van dit kanaal zijn succesvol verwijderd",

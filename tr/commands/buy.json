@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Bu komutu bir öğe adı ve miktarıyla birlikte kullanmak, belirli bir öğeyi satın almak için bir işlem yerleştirmeyi açacaktır. Mevcut tüm ürünleri görüntülemek için \"Shop\" komutunu kullanın",
+    "BUY_DESCRIPTION": "Bu komutu bir öğe adı ve miktarıyla birlikte kullanmak, belirli bir öğeyi satın almak için bir işlem yerleştirmeyi açacaktır. Mevcut tüm ürünleri görüntülemek için \"{{prefix}}Shop\" komutunu kullanın",
     "SLASH_DESC": "Satın almak istediğiniz öğenin adını girin",
     "SLASH_DESC2": "Miktar girin",
     "SLASH_DESC3": "Satın almak istediğiniz Arkaplanın kodunu giriniz. [YALNIZCA ÖĞE ARKA PLAN OLARAK SEÇİLMİŞSE ÇALIŞIR]",
@@ -9,7 +9,7 @@
     "INVALID_BG_AMOUNT": "{{author}} Bir öğeden negatif miktarda satın alamazsınız",
     "INVALID_BG_ID": "{{author}} Bu ID'ye sahip herhangi bir **Arka Plan** bulunamadı",
     "INVALID_ITEM_PROVIDED": "{{user}} Sağladığınız öğe geçersiz",
-    "BUY_GEN_CONFIRMATION": "## {{count}} \"Gen Scratcher\" satın alıyorsunuz",
-    "BUY_CHARM_CONFIRMATION": "## {{amount}} <:xcharm:988729774031638528> satın alıyorsunuz",
+    "BUY_GEN_CONFIRMATION": "## {{count}} \"{{itemName}}\" satın alıyorsunuz",
+    "BUY_CHARM_CONFIRMATION": "## {{amount}}{{itemName}} <:xcharm:988729774031638528> satın alıyorsunuz",
     "BUY_CHARMS_MULTIPLES": "{{author}} **Charms**'ı yalnızca 100'ün katları halinde satın alabilirsiniz"
 }

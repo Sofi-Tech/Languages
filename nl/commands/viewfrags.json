@@ -1,8 +1,8 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "Dit commando opent de Fragment inventaris van een gebruiker. Fragmenten worden gebruikt om GIF-varianten van een personage te maken. U kunt het commando \"Pull\" gebruiken om ze te verkrijgen",
+    "VIEWFRAGS_DESCRIPTION": "Met deze commando wordt de Fragment inventaris van een gebruiker geopend",
     "COLLECTION_PVT": "{{author}} De **Fragments** van die gebruiker zijn privé",
     "CANNOT_FIND_FRAGS": "{{user}} Die gebruiker heeft geen **Fragments**",
     "FRAGS_COUNT": "Totaal: {{totalCount}}",
     "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
-    "CANNOT_FIND_SELF": "{{user}} Je hebt nog geen **Fragments**"
+    "CANNOT_FIND_SELF": "{{user}} U heeft nog geen **Fragments**"
 }

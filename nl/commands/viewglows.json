@@ -1,5 +1,5 @@
 {
-    "VIEWGLOWS_DESCRIPTION": "Gebruik deze commando om de huidige Glows van een gebruiker te inspecteren. Als u een Glow-code als parameter gebruikt wordt in plaats daarvan een embed geopend met details over de Glow",
+    "VIEWGLOWS_DESCRIPTION": "Gebruik deze commando om de huidige Glows van een gebruiker te inspecteren. Als u een Glow code als parameter gebruikt, wordt in plaats daarvan een insluiting geopend met details over de Glow",
     "VG_CATEGORY": "Cosmetica",
     "VG_SLASH_DESC1": "Selecteer een gebruiker wiens \"Glows\" u wilt zien",
     "VG_SLASH_DESC2": "Geef de naam van de \"Tag\" waarvoor u wilt filteren",
@@ -21,5 +21,12 @@
     "TIME_two": "{{count}} keer",
     "TIME_few": "{{count}} keer",
     "TIME_zero": "{{count}} keer",
-    "TIME_many": "{{count}} keren"
+    "TIME_many": "{{count}} keren",
+    "VG_NAME": "Naam",
+    "VG_CODE": "Code",
+    "VG_STATUS": "Status",
+    "VG_TYPE": "Type",
+    "VG_USED": "Gebruikt",
+    "VG_OWNER": "Eigenaar",
+    "VG_TAG": "Tag"
 }
