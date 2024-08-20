@@ -6,6 +6,6 @@
     "NO_CHARACTER_FOUND": "{{author}} Er werd geen karakter gevonden. Gebruik het commando `{{prefix}}wa -f <Naam>` voor een exacty zoekopdracht",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** staat al op uw verlanglijst",
     "CHARACTER_ADDED": "{{author}} **{{name}}** is succesvol toegevoegd aan uw verlanglijst",
-    "EMBED_TITLE": "SOFI: WISHLISTADD",
-    "INCREASE_CAPACITY": "Gebruik het commando `{{prefix}}wu` of `{{prefix}}wu max` om de capaciteit van uw verlanglijst te vergroten"
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
+    "INCREASE_CAPACITY": "Ontgrendel meer slots door de `{{prefix}}wl` commando te gebruiken en te klikken op het {{emoji}} icoon"
 }
