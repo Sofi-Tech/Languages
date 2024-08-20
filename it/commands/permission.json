@@ -17,7 +17,7 @@
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Ha aggiunto con successo i seguenti comandi a {{listname}} di questo canale: {{commandsList}}",
   "WHITELISTED_COMMANDS": "**__Comandi Whitelisted__**",
   "ADD_COMMANDS_INFO": "Aggiungi: Aggiungi ulteriori comandi a **{{listName}}**\n",
-  "REMOVE_COMMANDS_INFO": "Rimuovi: Rimuove comandi specifici da **{{listName}}**\n",
+
   "BLACKLISTED_COMMANDS": "**__Comandi Blacklisted__**",
   "SOME_COMMANDS_WHITELISTED": "{{author}} Hai già inserito i comandi whitelisted in questo canale! Utilizza il comando `{{prefix}}p reset` per impostare lo stato di autorizzazione di questo canale su quello predefinito",
   "NOT_BLACKLISTED_YET": "{{author}} Non hai ancora inserito alcun comando blacklisted",
@@ -27,14 +27,13 @@
   "REMOVE_MODAL_LABEL": "Rimuovi comandi da {{listName}} di questo canale",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Ha aggiunto con successo tutti i comandi a {{listName}} di questo canale",
   "ADD_COMMANDS_ERROR": "{{author}} I comandi che hai fornito sono già su {{listName}} di questo canale o non sono validi",
-  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Ha rimosso con successo tutti i comandi da {{listName}} di questo canale",
+
   "PERMISSION_DESCRIPTION": "Consente di inserire nella lista bianca o nella lista nera comandi specifici nel canale.",
   "NO_PERMS_SETUP": "{{author}} L'autorizzazione non è ancora stata impostata in questo canale. Per imporstarla, usa `{{prefix}}p [BL/WL] [Add] <CommandNames/All>`",
   "BLACKLIST_ALREADY_ACTIVE": "{{author}} Non è possibile rimuovere i comandi whitelisted da una blacklist",
   "WHITELIST_ALREADY_ACTIVE": "{{author}} Non è possibile rimuovere i comandi inseriti nella blacklist da una whitelist",
   "NO_BUTTON_LABEL": "Declina",
-  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Rimosso con successo i seguenti comandi da questo canale {{listname}}: {{commandsList}}",
-  "REMOVE_COMMANDS_ERROR": "{{author}} I comandi che hai fornito non sono presenti su questo canale {{listName}} o non sono validi",
+
   "YES_BUTTON_LABEL": "Conferma",
   "PERMISSION_CORRECT_USAGE": "{{author}} Uso corretto:`{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>`",
   "RESET_PERMS_CONFIRM": "Sei sicuro di voler reimpostare le autorizzazioni di comando di questo canale allo stato predefinito?"

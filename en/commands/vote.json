@@ -1,12 +1,13 @@
 {
-    "VOTE_DESCRIPTION": "Use this command to Vote for Sofi on Top.GG. Every Vote you contribute to Sofi will reward you with 1 Wist on a weekday and 2 Wists on a weekend.",
-    "VOTE_CATEGORY": "Settings",
-    "VOTE": "Vote on Top.GG",
-    "BUMP": "Bump",
-    "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-    "USE_WIST": "You will obtain a **Wist** <:wist:870339503427027005> for each successful **Vote**!",
-    "TOTAL_VOTES": "- Total **Votes**: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- Monthly **Votes**: **{{monthlyVotes}}**",
-    "VOTE_RESET": "- Resets in: **{{countdown}}**",
-    "EMBED_FOOTER": "You get double the amount of Wists on a weekend"
+  "VOTE_DESCRIPTION": "Use this command to Vote for Sofi on Top.GG. Every Vote you contribute to Sofi will reward you with 1 Wist on a weekday and 2 Wists on a weekend.",
+  "VOTE_CATEGORY": "Settings",
+  "VOTE": "Vote on Top.GG",
+  "VOTE_DBL": "Vote on DiscordBotList",
+  "BUMP": "Bump",
+  "EMBED_TITLE": "SOFI: VOTE ({{username}})",
+  "USE_WIST": "You will obtain a **Wist** <:wist:870339503427027005> for each successful **Vote**!",
+  "TOTAL_VOTES": "- Total **Votes**: **{{totalVotes}}**",
+  "MONTHLY_VOTES": "- Monthly **Votes**: **{{monthlyVotes}}**",
+  "VOTE_RESET": "- Resets in: **{{countdown}}**",
+  "EMBED_FOOTER": "You get double the amount of Wists on a weekend"
 }
