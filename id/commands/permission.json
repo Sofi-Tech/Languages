@@ -10,6 +10,7 @@
   "WHITELIST_ALREADY_ACTIVE": "{{author}} Kamu tidak bisa menghapus perintah yang masuk di daftar hitam dari daftar putih",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menambahkan perintah berikut ke channel ini {{listname}}: {{commandsList}}",
   "ADD_COMMANDS_ERROR": "{{author}} Perintah yang kamu berikan sudah ada di saluran ini {{listName}} atau tidak valid",
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menghapus semua perintah dari saluran ini {{listName}}",
 
   "ADD_MODAL_LABEL": "Menambahkan perintah ke {{listName}} channel ini",
   "REMOVE_MODAL_LABEL": "Hapus perintah dari channel ini {{listName}}",
@@ -17,7 +18,7 @@
   "NOT_WHITELISTED_YET": "{{author}} Anda belum memasukkan perintah ke daftar putih",
   "RESET_PERMS_SUCCESSFUL": "{{author}} Berhasil mereset status izin di channel ini",
   "STOPPED_PROCESS": "Proses telah dibatalkan",
-
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Berhasil menghapus perintah berikut dari saluran ini {{listname}}: {{commandsList}}",
   "PERMISSION_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>`",
   "BLACKLISTED_COMMANDS": "**__Perintah berada di daftar hitam__**",
   "NOT_BLACKLISTED_YET": "{{author}} Anda belum memasukkan perintah ke daftar hitam",
@@ -33,7 +34,7 @@
   "WHITELISTING_USAGE": "Penggunaan : `{{prefix}}p wl add/rem <CommandName/All>`\n",
   "WHITELISTED_COMMANDS": "**__Perintah di Whitelist__**",
   "ADD_COMMANDS_INFO": "Add: Tambahkan perintah ke **{{listName}}**\n",
-
+  "REMOVE_COMMANDS_INFO": "Remove: Hapus perintah tertentu dari **{{listName}}**\n",
   "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
   "NO_BUTTON_LABEL": "Batal",
   "YES_BUTTON_LABEL": "Setuju"

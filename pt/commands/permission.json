@@ -23,7 +23,7 @@
   "BLACKLISTING_INFO": "Lista de bloqueio: Restringir comandos de serem utilizados nesse canal",
   "RESET_USAGE": "Reiniciar: Retorna as permissões para as configurações padrões\nUso: `{{prefix}}p reset`",
   "WHITELISTED_COMMANDS": "**__Comandos autorizados__**",
-
+  "REMOVE_COMMANDS_INFO": "Remover: Remove comandos específicos da **{{listName}}**\n",
   "ADD_COMMANDS_INFO": "Adicionar: Adiciona comandos adicionais na **{{listName}}**\n",
   "STOPPED_PROCESS": "O processo foi cancelado",
   "RESET_PERMS_SUCCESSFUL": "{{author}} As permissões desse canal foram reiniciadas com sucesso",

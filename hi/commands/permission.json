@@ -18,7 +18,7 @@
   "WHITELISTING_INFO": "Whitelist: इस चैनल में कुछ गिनी-चुनी कमांड्स को ही उपयोग होने देता है",
   "RESET_USAGE": "Reset: सभी अनुमतियों को दुबारा पूर्वनिर्धारित स्तिथि में ला देता है\nउपयोग: `{{prefix}}p reset`",
   "BLACKLISTING_INFO": "Blacklist: इस चैनल में कमांड्स को उपयोग होने नहीं देता है",
-
+  "REMOVE_COMMANDS_INFO": "Remove: किसी विशिष्ट कमांड को **{{listName}}** से हटाएं\n",
   "SOME_COMMANDS_WHITELISTED": "{{author}} आपने कुछ कमांड्स को इस चैनल में पहले से ही लागू कर रखा है।`{{prefix}}p reset` का प्रयोग करके सभी अनुमतियों को दुबारा पूर्वनिर्धारित स्तिथि में लाएं",
   "SOME_COMMANDS_BLACKLISTED": "{{author}} आपने कुछ कमांड को इस चैनल में पहले से ही संदिग्ध कर रखा है। `{{prefix}}p reset` का प्रयोग करके सभी अनुमतियों को दुबारा पूर्वनिर्धारित स्तिथि में लाएं",
   "WHITELIST_ALREADY_ACTIVE": "{{author}} आप किसी संदिग्ध कमांड को श्वेत-सूची से नहीं हटा सकते हैं",
@@ -29,12 +29,13 @@
   "ADD_MODAL_LABEL": "कमांड को चैनल की {{listName}} में जोड़े",
   "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} निम्न कमांड्स को सफलतापूर्वक चैनल की {{listname}} में जोड़ा गया: {{commandsList}}",
-
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} सभी कमांड्स को सफलतापूर्वक चैनल की {{listName}} से हटाया गया",
   "YES_BUTTON_LABEL": "पुष्टि",
   "NO_BUTTON_LABEL": "अस्वीकार",
   "REMOVE_MODAL_LABEL": "कमांड को चैनल की {{listName}} से हटाएं",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} सभी कमांड्स को सफलतापूर्वक चैनल की {{listName}} में जोड़ दिया गया",
   "ADD_COMMANDS_ERROR": "{{author}} प्रदान की गई कमांड्स या तो पहले से इस चैनल की {{listName}} में है या अमान्य है",
 
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} निम्न कमांड्स को सफलतापूर्वक चैनल की {{listname}} से हटाया गया: {{commandsList}}",
   "RESET_PERMS_CONFIRM": "क्या आप वाकई इस चैनल की सभी अनुमतियों को दुबारा पूर्वनिर्धारित स्तिथि में लाना चाहते है?"
 }

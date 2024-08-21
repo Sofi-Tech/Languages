@@ -1,6 +1,6 @@
 {
   "NO_PERMS_SETUP": "{{author}} Cette permission n'est pas encore configurée dans ce salon. Pour la configurer, utilisez `{{prefix}}p [BL/WL] [Add] <NomCommande/All>`",
-
+  "REMOVE_COMMANDS_INFO": "Supprimer: Supprime des commandes spécifiques de la **{{listName}}**\n",
   "PERMISSION_DESCRIPTION": "Avec cette commande vous pouvez mettre sur liste blanche ou noire des commandes dans le salon où elle est utilisée. Les commandes sur liste blanche seront les seules commandes utilisables dans le salon, tandis que les commandes sur liste noire seront les seules inutilisables dans le salon",
   "PERMS_CATEGORY": "Paramètres",
   "BLACKLIST_BUTTON_LABEL": "Liste Noire",
@@ -31,6 +31,8 @@
   "REMOVE_MODAL_LABEL": "Supprimer les commandes de la {{listName}} de ce salon",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Les commandes suivantes ont été ajoutées avec succès à la {{listname}} de ce salon: {{commandsList}}",
   "ADD_COMMANDS_ERROR": "{{author}} Les commandes que vous avez fournies sont soit déjà sur la {{listName}} de ce salon, ou sont non valides",
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Suppression réussie de toutes les commandes de la {{listName}} de ce salon",
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Les commandes suivantes ont été supprimées avec succès de la {{listname}} de ce salon: {{commandsList}}",
 
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Toutes les commandes ont été ajoutées avec succès à la {{listName}} de ce salon",
   "YES_BUTTON_LABEL": "Confirmer",

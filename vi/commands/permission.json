@@ -11,7 +11,7 @@
   "WHITELISTING_USAGE": "Cách sử dụng: `{{prefix}}p wl add/rem <CommandName/All>`\n",
   "WHITELISTED_COMMANDS": "**__Các lệnh được cho phép__**",
   "ADD_COMMANDS_INFO": "Thêm: Thêm các lệnh bổ sung vào **{{listName}}**\n",
-
+  "REMOVE_COMMANDS_INFO": "Xóa: Xoá các lệnh cụ thể khỏi **{{listName}}**\n",
   "BLACKLISTED_COMMANDS": "**__Các lệnh bị cấm__**",
   "NOT_BLACKLISTED_YET": "{{author}} Bạn chưa thêm lệnh nào vào danh sách đen",
   "BLACKLIST_ALREADY_ACTIVE": "{{author}} Bạn không thể xoá các lệnh đã thêm vào danh sách cho phép từ danh sách đen",
@@ -28,6 +28,8 @@
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Thêm thành công tất cả lệnh vào danh sách {{listName}} của kênh này",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Đã thêm thành công các lệnh sau {{commandsList}} vào danh sách {{listname}} của kênh này",
   "ADD_COMMANDS_ERROR": "{{author}} Các lệnh bạn cung cấp đã có trong danh sách {{listName}} của kênh này hoặc không hợp lệ",
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Đã xoá thành công tất cả lệnh từ danh sách {{listName}} khỏi kênh này",
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Đã xoá thành công các lệnh sau {{commandsList}} khỏi danh sách {{listname}} của kênh này",
 
   "RESET_PERMS_CONFIRM": "Bạn có chắc chắn muốn đặt lại quyềnvề lệnh của kênh này về trạng thái mặc định không?",
   "YES_BUTTON_LABEL": "Xác nhận",

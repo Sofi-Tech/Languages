@@ -14,7 +14,7 @@
   "RESET_USAGE": "Reset: Setzt die Berechtigungen auf die Standardeinstellungen zurück\nVerwendung: `{{prefix}}p reset`",
   "WHITELISTED_COMMANDS": "**__Befehle auf der Whitelist__**",
   "ADD_COMMANDS_INFO": "Hinzufügen: Zusätzliche Befehle zu **{{listName}}** hinzufügen\n",
-
+  "REMOVE_COMMANDS_INFO": "Entfernen: Bestimmte Befehle aus **{{listName}}** entfernen\n",
   "BLACKLISTED_COMMANDS": "**__Befehle auf der Blacklist__**",
   "NO_BUTTON_LABEL": "Ablehnen",
   "SOME_COMMANDS_WHITELISTED": "{{author}} Du hast in diesem Kanal bereits Befehle auf die Whitelist gesetzt! Verwende `{{prefix}}p reset` , um die Berechtigungen zurückzusetzen",
@@ -34,6 +34,8 @@
   "BLACKLIST_ALREADY_ACTIVE": "{{author}} Du kannst Befehle der Whitelist nicht von der Blacklist entfernen",
   "WHITELIST_ALREADY_ACTIVE": "{{author}} Du kannst Befehle der Blacklist nicht von der Whitelist entfernen",
   "NO_PERMS_SETUP": "{{author}} Diese Berechtigung wurde in diesem Channel noch nicht erteilt. Benutze `{{prefix}}p [BL/WL] [Add] <CommandNames/All>` dafür",
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle Befehle wurden erfolgreich von der {{listName}} dieses Kanals entfernt",
 
-  "RESET_PERMS_CONFIRM": "Bist du sicher, dass du die Befehlsberechtigungen dieses Kanals auf die Standardeinstellungen zurücksetzen möchtest?"
+  "RESET_PERMS_CONFIRM": "Bist du sicher, dass du die Befehlsberechtigungen dieses Kanals auf die Standardeinstellungen zurücksetzen möchtest?",
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Die folgenden Befehle wurden erfolgreich von der {{listname}} dieses Kanals entfernt: {{commandsList}}"
 }

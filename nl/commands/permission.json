@@ -13,13 +13,13 @@
   "PERMS_EMBED_TITLE": "SOFI: PERMISSIONS",
   "BLACKLISTING_INFO": "Zwarte lijst: Voorkom dat commando's in dit kanaal worden gebruikt",
   "BLACKLISTING_USAGE": "Gebruik: `{{prefix}}p bl add/rem <CommandoNamen/All>`\n",
-
+  "REMOVE_COMMANDS_INFO": "Verwijderen : Verwijder specifieke commando's van de **{{listName}}**\n",
   "BLACKLISTED_COMMANDS": "**__Zwarte lijst Commando's__**",
   "WHITELISTED_COMMANDS": "**__Witte lijst Commando's__**",
   "ADD_COMMANDS_INFO": "Toevoegen: voeg extra commando's toe aan de **{{listName}}**\n",
   "SOME_COMMANDS_WHITELISTED": "{{author}} U heeft al commando's in dit kanaal op de witte lijst gezet! Gebruik het commando `{{prefix}}p reset` om de toestemmingsstatus van dit kanaal op standaard in te stellen",
   "PERMISSION_DESCRIPTION": "Met dit commando kun je commando's op de witte of zwarte lijst zetten binnen het kanaal waarin het wordt gebruikt. Commando's op de witte lijst zijn de enige commando's die bruikbaar zijn in het kanaal, terwijl commando's op de zwarte lijst de enige commando's zijn die onbruikbaar zijn in het kanaal",
-
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle commando's van de {{listName}} van dit kanaal zijn succesvol verwijderd",
   "BLACKLIST_ALREADY_ACTIVE": "{{author}} U kunt commando's op de witte lijst niet van een zwarte lijst verwijderen",
   "SOME_COMMANDS_BLACKLISTED": "{{author}} U heeft al commando's in dit kanaal op de zwarte lijst gezet! Gebruik het commando `{{prefix}}p reset` om de toestemmingsstatus van dit kanaal op standaard in te stellen",
   "NOT_WHITELISTED_YET": "{{author}} U heeft nog geen commando's op de witte lijst gezet",
@@ -30,6 +30,7 @@
   "ADD_MODAL_LABEL": "Voeg commando's toe aan de {{listName}} van dit kanaal",
   "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
   "REMOVE_MODAL_LABEL": "Verwijder commando's uit de {{listName}} van dit kanaal",
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} De volgende commando's zijn succesvol verwijderd uit de {{listname}} van dit kanaal: {{commandsList}}",
 
   "RESET_PERMS_CONFIRM": "Weet u zeker dat u de commando rechten van dit kanaal terug wilt zetten naar de standaardstatus?",
   "YES_BUTTON_LABEL": "Bevestigen",

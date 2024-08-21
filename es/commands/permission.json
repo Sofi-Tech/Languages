@@ -4,6 +4,7 @@
   "SOME_COMMANDS_WHITELISTED": "{{author}} Ya tienes comandos en la lista blanca de este canal! Usa el comando `{{prefix}}p reset` para establecer los permisos de este canal al valor por defecto",
   "REMOVE_MODAL_LABEL": "Eliminar comandos de la {{listName}} de este canal",
   "ADD_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado ya están en la {{listName}} de este canal o no son válidos",
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Se han eliminado con éxito los siguientes comandos de la {{listname}} de este canal: {{commandsList}}",
 
   "PERMISSION_DESCRIPTION": "Con este comando puedes agregar a lista blanca o lista negra comandos dentro del canal en el que se utiliza. Los comandos en lista blanca seran los únicos habilitados en el canal, mientras que los comandos en lista negra seran los únicos comandos deshabilitados en el canal",
   "PERMS_CATEGORY": "Configuración",
@@ -17,7 +18,7 @@
   "WHITELISTING_USAGE": "Uso: `{{prefix}}p wl add/rem <NombreDeLosComandos/All>`\n",
   "RESET_USAGE": "Restablecer: Devuelve los permisos a la configuración por defecto\nUso: `{{prefix}}p reset`",
   "WHITELISTED_COMMANDS": "**__Comandos en la Lista Blanca__**",
-
+  "REMOVE_COMMANDS_INFO": "Eliminar: Elimina comandos específicos de la **{{listName}}**\n",
   "BLACKLISTED_COMMANDS": "**__Comandos en la Lista Negra__**",
   "NOT_BLACKLISTED_YET": "{{author}} Aún no has añadido ningún comando a la Lista negra",
   "SOME_COMMANDS_BLACKLISTED": "{{author}} Ya tienes comandos en la lista negra de este canal! Usa el comando `{{prefix}}p reset` para establecer los permisos de este canal al valor por defecto",
@@ -28,7 +29,7 @@
   "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Añadidos con éxito todos los comandos a la {{listName}} de este canal",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Se han añadido con éxito los siguientes comandos a la {{listname}} de este canal: {{commandsList}}",
-
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Eliminados con éxito todos los comandos de la {{listName}} de este canal",
   "RESET_PERMS_CONFIRM": "Estás seguro de que quieres restablecer los permisos de comando de este canal a su estado por defecto?",
   "YES_BUTTON_LABEL": "Confirmar",
   "NO_BUTTON_LABEL": "Cancelar",

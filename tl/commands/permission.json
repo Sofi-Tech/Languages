@@ -6,7 +6,7 @@
   "RESET_BUTTON_LABEL": "I-Reset",
   "PERMS_EMBED_TITLE": "SOFI: PERMISSIONS",
   "WHITELISTING_USAGE": "Paggamit: `{{prefix}}p wl add/rem <CommandName/All>`\n",
-
+  "REMOVE_COMMANDS_INFO": "Tanggalin: Magtanggal ng partikular na mga command mula sa **{{listName}}**\n",
   "WHITELISTED_COMMANDS": "**__Mga Whitelisted na Command__**",
   "BLACKLISTED_COMMANDS": "**__Mga Blacklisted na Command__**",
   "NOT_BLACKLISTED_YET": "{{author}} Wala ka pang na-blacklist na kahit anong command",
@@ -16,6 +16,7 @@
   "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
   "REMOVE_MODAL_LABEL": "Tanggalin ang mga command mula sa {{listName}} ng channel na ito",
   "ADD_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay ng naidagdag ang mga sumusunod na command sa {{listname}}: {{commandsList}} ng channel na ito",
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang lahat ng mga command galing sa {{listName}} ng channel na ito",
 
   "RESET_PERMS_CONFIRM": "Sigurado ka bang gusto mong i-reset ang mga pahintulot na command ng channel na ito sa dati?",
   "YES_BUTTON_LABEL": "I-Confirm",
@@ -29,7 +30,7 @@
   "RESET_PERMS_SUCCESSFUL": "{{author}} Matagumpay nang nai-reset ang pahintulot ng channel na ito",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay na nailagay ang lahat ng mga command sa {{listName}} ng channel na ito",
   "ADD_COMMANDS_ERROR": "{{author}} Ang mga command na iyong ibinigay ay maaaring nasa may {{listName}} ng channel na ito o hindi tama",
-
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Matagumpay na natanggal ang mga sumusunod na mga command sa {{listname}}: {{commandsList}} ng channel na ito",
   "BLACKLISTING_INFO": "Blacklist: Limitahan ang pag-gamit ng mga command sa channel na ito",
   "WHITELISTING_INFO": "Whitelist: Pahintulutan lamang ang mga partikular na command na gagamitin sa channel na ito",
   "RESET_USAGE": "I-Reset: Ibinabalik ang mga pahintulot sa dating konpigurasyon\nPaggamit: `{{prefix}}p reset`",

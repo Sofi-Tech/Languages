@@ -21,13 +21,13 @@
   "WHITELISTED_COMMANDS": "**__Beyaz Listeye Eklenen Komutlar__**",
   "ADD_COMMANDS_INFO": "Ekle : **{{listName}}** dosyasına ek komutlar ekleyin\n",
   "BLACKLISTED_COMMANDS": "**__Kara Listeye Alınmış Komutlar__**",
-
+  "REMOVE_COMMANDS_INFO": "Kaldır : **{{listName}}**'den belirli komutları kaldırın\n",
   "SOME_COMMANDS_WHITELISTED": "{{author}} Bu kanaldaki komutları zaten beyaz listeye eklediniz! Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
   "STOPPED_PROCESS": "Süreç İptal edildi",
   "ADD_MODAL_LABEL": "Bu kanalın {{listName}} dosyasına komutlar ekleyin",
   "MODAL_TITLE": "SOFI: YETKİLER {{listName}}",
   "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Tüm komutlar bu kanalın {{listName}} listesine başarıyla eklendi",
-
+  "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Aşağıdaki komutlar bu kanalın {{listname}} dizininden başarıyla kaldırıldı: {{commandsList}}",
   "RESET_PERMS_CONFIRM": "Bu kanalın komut izinlerini varsayılan durumuna sıfırlamak istediğinizden emin misiniz?",
   "YES_BUTTON_LABEL": "Onaylamak",
   "NO_BUTTON_LABEL": "Reddet",
@@ -36,5 +36,6 @@
   "SOME_COMMANDS_BLACKLISTED": "{{author}} Bu kanalda komutları zaten kara listeye aldınız! Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
   "PERMISSION_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}p [BL/WL] [Add/Rem] <Komutİsimleri/All>`",
   "NOT_BLACKLISTED_YET": "{{author}} Henüz herhangi bir komutu kara listeye eklemediniz",
-  "NOT_WHITELISTED_YET": "{{author}} Henüz hiç bir komutu Beyaz listeye almadınız"
+  "NOT_WHITELISTED_YET": "{{author}} Henüz hiç bir komutu Beyaz listeye almadınız",
+  "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Bu kanalın {{listName}} dizinindeki tüm komutlar başarıyla kaldırıldı"
 }
