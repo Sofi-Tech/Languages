@@ -1,6 +1,6 @@
 {
     "MARKETLIST_DESCRIPTION": "Gunakan perintah ini untuk mendaftarkan Wist Anda di pasar untuk ditukar dengan Gems",
-    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <Jumlah> <Tarif>'",
+    "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}ml <Amount> <Rate>`",
     "INVALID_GEM_RATE": "{{user}} Tarif yang Anda berikan tidak valid",
     "GEM_RATE_LIES": "{{user}} Tarif yang diberikan harus antara **3,0 - 20,0**",
     "ALREADY_EXISTS": "{{author}} Gunakan perintah `{{prefix}}mul {{dealID}}` untuk menghapus order yang sudah ada terlebih dahulu",
