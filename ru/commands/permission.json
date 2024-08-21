@@ -35,5 +35,6 @@
     "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Все команды успешно добавлены в {{listName}} данного канала",
     "PERMS_WHITELIST_LISTNAME": "Белого списка",
-    "PERMS_BLACKLIST_LISTNAME": "Черного списка"
+    "PERMS_BLACKLIST_LISTNAME": "Черного списка",
+    "REMOVE_COMMANDS_INFO": "Убрать: Убрать команды из **{{listName}}**\n"
 }
