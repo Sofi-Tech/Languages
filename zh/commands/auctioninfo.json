@@ -1,1 +1,24 @@
-{}
+{
+    "EMBED_TITLE": "SOFI：拍卖信息",
+    "TOTAL_CHARMS": "总共的Charms",
+    "YOUR_CHANCE": "您的机会",
+    "BID_BUTTON_LABEL": "出价",
+    "NOT_ENOUGH_CURRENCY": "{{author}} 您没有足够的 {{emoji}}",
+    "BID_SUCCESSFUL": "{{author}} 您已成功出价了**{{amount}}** {{emoji}}",
+    "NAME": "- 名字：",
+    "SERIES": "- 系列：",
+    "AUCTION_NOT_FOUND": "{{author}} 找不到您搜索的拍卖",
+    "INVALID_BID_AMOUNT": "{{author}} 您的出价必须是一个数字！",
+    "BID_MODAL_TITLE": "拍卖出价",
+    "BID_MODAL_PLACEHOLDER": "请输入出价金额",
+    "BID_MODAL_LABEL": "出价金额",
+    "POSITIVE_NUMBER": "{{author}}您的出价需要是一个正数",
+    "AUCTIONINFO_DESCRIPTION": "此命令将打开一个嵌入窗口，其中显示过去和正在进行的卡牌代码拍卖，您可以对其进行竞标。拍卖使用 Charms 作为竞标所需的货币",
+    "AI_CATEGORY": "卡片",
+    "NO_ONGOING_AUCTION": "{{author}} 现在没有正在进行的拍卖",
+    "BID_SELECTION": "使用 {{prefix}} ai <拍卖编号> 命令或从下面的目录中选择一个正在进行的拍卖",
+    "AI_CURRENT": "当前出价",
+    "AI_ENDS": "结束",
+    "SELECT_AUCTION_PLACEHOLDER": "请选一个拍卖",
+    "MINIMUM_AMOUNT": "{{author}}在这个拍卖中，您的出价至少需要是**{{amount}}** {{currencyEmoji}}"
+}
