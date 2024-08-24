@@ -29,7 +29,7 @@
     "ADD_COMMANDS_SUCCESSFUL": "{{author}} Đã thêm thành công các lệnh sau {{commandsList}} vào danh sách {{listname}} của kênh này",
     "ADD_COMMANDS_ERROR": "{{author}} Các lệnh bạn cung cấp đã có trong danh sách {{listName}} của kênh này hoặc không hợp lệ",
     "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Đã xoá thành công tất cả lệnh từ danh sách {{listName}} khỏi kênh này",
-    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Đã xoá thành công các lệnh sau {{commandsList}} khỏi danh sách {{listname}} của kênh này",
+    "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Đã xoá thành công các lệnh sau khỏi danh sách {{listname}} của kênh này: {{commandsList}}",
     "RESET_PERMS_CONFIRM": "Bạn có chắc chắn muốn đặt lại quyềnvề lệnh của kênh này về trạng thái mặc định không?",
     "YES_BUTTON_LABEL": "Xác nhận",
     "NO_BUTTON_LABEL": "Từ chối",
