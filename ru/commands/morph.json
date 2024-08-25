@@ -27,5 +27,5 @@
     "MNC_REROLL_COST": "Каждая крутка будет стоить 1 {{currencyName}}",
     "NO_SPECIAL_REROLLED": "Особых преобразований не прокручено",
     "NONE": "Нет",
-    "CANNOT_APPLY_3D": "{{author}} Вы не можете применять **{{eventType}}** преобразования к **3D** картам"
+    "CANNOT_APPLY_3D": "{{author}} Вы не можете применять{{article}}**{{eventType}}** преобразования к **3D** картам"
 }

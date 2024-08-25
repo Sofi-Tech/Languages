@@ -38,5 +38,6 @@
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} No puedes eliminar comandos de la Lista Blanca de la Lista Negra",
     "WHITELIST_ALREADY_ACTIVE": "{{author}} No puedes eliminar comandos de la Lista Negra de la Lista Blanca",
     "REMOVE_BL_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado no están en la lista negra de este canal o no son válidos",
-    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado no están en la lista blanca de este canal o no son válidos"
+    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Los comandos que has proporcionado no están en la lista blanca de este canal o no son válidos",
+    "PERMS_BLACKLIST_LISTNAME": "Lista negra"
 }

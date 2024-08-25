@@ -13,7 +13,7 @@
     "CHEST_MISSING": "{{author}} У вас в инвентаре нет **{{count}}** **{{chestName}}**",
     "COMMON_INFO_1": "Вы открыли **{{totalChests}}** **{{chestName}}**",
     "ITEMS_FOUND": "**__Полученные предметы__**",
-    "EXOTIC_DIVINE_FOOTER": "Вы можете получить {{chestName}}, голосуя {{count}} раз каждый месяц",
+    "EXOTIC_DIVINE_FOOTER": "Вы можете получить{{article}}{{chestName}}, голосуя {{count}} раз каждый месяц",
     "CORRECT_USAGE_2": "Предметы, которые могут быть открыты: **Chests**",
     "NOIR_FOUND": "Вы нашли <:noiressence:1115496193775116411> **Noir Essence** в сундуке!",
     "GUILD_CHEST_FOOTER": "Вы можете получить Guild Chest в конце каждого сезона",
