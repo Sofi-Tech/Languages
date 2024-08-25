@@ -38,5 +38,7 @@
     "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} निम्न कमांड्स को सफलतापूर्वक चैनल की {{listname}} से हटाया गया: {{commandsList}}",
     "RESET_PERMS_CONFIRM": "क्या आप वाकई इस चैनल की सभी अनुमतियों को दुबारा पूर्वनिर्धारित स्तिथि में लाना चाहते है?",
     "REMOVE_WL_COMMANDS_ERROR": "{{author}} आपके द्वारा दिए गए आदेश या तो इस चैनल की व्हाइट-लिस्‍ट में नहीं हैं या अमान्य हैं",
-    "REMOVE_BL_COMMANDS_ERROR": "{{author}} आपके द्वारा दिए गए कमांड या तो इस चैनल की ब्लैकलिस्ट में नहीं हैं या अमान्य हैं"
+    "REMOVE_BL_COMMANDS_ERROR": "{{author}} आपके द्वारा दिए गए कमांड या तो इस चैनल की ब्लैकलिस्ट में नहीं हैं या अमान्य हैं",
+    "PERMS_BLACKLIST_LISTNAME": "ब्लैक लिस्ट",
+    "PERMS_WHITELIST_LISTNAME": "व्हाइट लिस्ट"
 }

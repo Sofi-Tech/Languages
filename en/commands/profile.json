@@ -3,5 +3,5 @@
     "PRO_CATEGORY": "Settings",
     "USER_NOT_FOUND": "{{author}} Could not find that user",
     "PROFILE_NOT_FOUND": "{{author}} That user is not registered",
-    "GIF_ENABLED": "{{author}} Your profile has GIF feature enabled. To load your GIF profile use `spc` command and click on the `Reload GIF profile` button in the dropdown menu"
+    "GIF_ENABLED": "{{author}} Your profile has GIF feature enabled. To load your GIF profile use `{{prefix}}pc` command and click on the `Reload GIF profile` button in the dropdown menu"
 }

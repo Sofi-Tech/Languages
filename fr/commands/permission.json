@@ -38,5 +38,7 @@
     "NO_BUTTON_LABEL": "Refuser",
     "RESET_PERMS_CONFIRM": "Êtes-vous sûr(e) de vouloir réinitialiser les permissions de commande de ce salon à leur état par défaut?",
     "REMOVE_BL_COMMANDS_ERROR": "{{author}} Les commandes que vous avez fournies ne sont soit pas sur la liste noire de ce salon soit invalides",
-    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Les commandes que vous avez fournies ne sont soit pas sur la liste blanche de ce salon soit invalides"
+    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Les commandes que vous avez fournies ne sont soit pas sur la liste blanche de ce salon soit invalides",
+    "PERMS_WHITELIST_LISTNAME": "Liste blanche",
+    "PERMS_BLACKLIST_LISTNAME": "Liste noire"
 }
