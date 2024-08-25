@@ -34,5 +34,8 @@
     "AUTHOR_UNVERIFIED": "{{author}} Вы не прошли проверку",
     "ERROR": "{{author}} Произошла ошибка. Пожалуйста, попробуйте снова.",
     "MODAL_ERROR_RESPONSE": "Произошла ошибка при получении ответа. Пожалуйста, попробуйте снова!",
-    "PAGE_INFO": "Страница: {{currentPage}}/{{maxPages}}"
+    "PAGE_INFO": "Страница: {{currentPage}}/{{maxPages}}",
+    "AN": " ",
+    "A": " ",
+    "THE": " "
 }
