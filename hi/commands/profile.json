@@ -3,5 +3,5 @@
     "PRO_CATEGORY": "SETTINGS",
     "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ",
     "PROFILE_NOT_FOUND": "{{author}} यह उपयोगकर्ता पंजीकृत नहीं है",
-    "GIF_ENABLED": "{{author}} आपकी प्रोफ़ाइल पर GIF लागू है। अपनी GIF प्रोफ़ाइल को लोड करने के लिए `spc` कमांड का उपयोग करें और पंक्ति में से `Reload GIF Profile` को चुनें"
+    "GIF_ENABLED": "{{author}} आपकी प्रोफ़ाइल पर GIF लागू है। अपनी GIF प्रोफ़ाइल को लोड करने के लिए `{{prefix}}pc` कमांड का उपयोग करें और पंक्ति में से `Reload GIF Profile` को चुनें"
 }

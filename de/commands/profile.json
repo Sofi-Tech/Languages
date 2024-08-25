@@ -3,5 +3,5 @@
     "PRO_CATEGORY": "Einstellungen",
     "USER_NOT_FOUND": "{{author}} Der Nutzer konnte nicht gefunden werden",
     "PROFILE_NOT_FOUND": "{{author}} Dieser Nutzer ist nicht registriert",
-    "GIF_ENABLED": "{{author}} Dein Profil hat das GIF Feature aktiviert. Um dein GIF zu laden nutze `spc` Befehl und klicke auf den `Lade GIF Profil neu` Knopf im Dropdown Menü"
+    "GIF_ENABLED": "{{author}} Dein Profil hat das GIF Feature aktiviert. Um dein GIF zu laden nutze den `{{prefix}}pc` Befehl und klicke auf den `Lade GIF Profil neu` Knopf im Dropdown Menü"
 }
