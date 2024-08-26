@@ -1,6 +1,6 @@
 {
     "WISHLISTCHANNEL_DESCRIPTION": "Gebruik deze commando om uw verlanglijst vast te zetten in een kanaal. Wanneer een kaart van uw verlanglijst in dat kanaal verschijnt zal Sofi een melding sturen",
     "CATEGORY": "Verlanglijst",
-    "CHANNEL_SET": "> {{author}} Je verlanglijst kanaal is ingesteld in {{channel}}",
-    "CHANNEL_REMOVE": "> {{author}} Je verlanglijst kanaal is verwijderd van {{channel}}"
+    "CHANNEL_SET": "{{author}} Uw verlanglijst is ingesteld in {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} Uw verlanglijst is verwijderd van {{channel}}"
 }

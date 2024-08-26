@@ -20,7 +20,7 @@
     "EDIT_DESC_LONG": "{{author}} De naam van je beschrijving kan maximaal **400** tekens bevatten",
     "EDIT_DESC_CONFIRM": "Weet je zeker dat je de volgende omschrijving wilt toevoegen aan jouw *Lijst**?\n\n```fix \n{{newDescription}}\n```",
     "EMBED_DFS_TITLE": "SOFI: LIJSTEN WINKEL (Ververst <t:{{time}}:R>)",
-    "EMBED_DFS_FOOTER": "Gebruik het commando {{prefix}}bf <FrameName/Code> om een lijst te kopen",
+    "EMBED_DFS_FOOTER": "Gebruik de {{prefix}}bf <FrameName/Code> \" commando om een Frame te kopen",
     "DFS_MENU_PLACEHOLDER": "Selecteer een categorie",
     "DF_MENU_LABEL": "Dagelijkse rotatie",
     "LF_MENU_LABEL": "Beperkte oplage",

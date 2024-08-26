@@ -12,7 +12,7 @@
     "PROVIDE_NUM": "Por favor, forneça um número entre **1 e 10**",
     "CHEST_MISSING": "Você não possui **{{replacedArg}}** Baús `{{chestName}}` em seu inventário.",
     "COMMON_INFO_1": "Você abriu **{{totalChests}}** Baús `{{chestName}}`",
-    "ITEMS_FOUND": "Itens obtidos:\n",
+    "ITEMS_FOUND": "**__Itens obtidos__**",
     "EXOTIC_DIVINE_FOOTER": "Você pode obter um Baú {{chestName}} a cada {{count}} votações por mês",
     "PROCESS_CANCELLED": "O processo foi cancelado"
 }

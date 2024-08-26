@@ -1,14 +1,14 @@
 {
-  "SUPERGLOW_DESCRIPTION": "Una dois \"Brilhos\" para obter um \"Super Brilho\"",
-  "SG_CATEGORY": "Cosméticos",
-  "GLOW_CODES_MISSING": "{{author}} Uso correto: `{{prefix}}sg <CódigoDoBrilho1> <CódigoDoBrilho2>`",
-  "GLOW_NOT_FOUND": "{{author}} Ao menos um dos códigos de `Brilho` utilizados é inválido",
-  "UNAVAILABLE_GLOW": "{{author}} Ao menos um dos códigos de `Brilho` utilizados está em branco",
-  "NO_USE_SG": "{{author}} Você não pode utilizar `Super Brilhos` para formar outro `Super Brilho`!",
-  "SAME_GLOWS": "{{author}} Você não pode utilizar o mesmo `Brilho` duas vezes para este processo",
-  "EMBED_TITLE": "SOFI: SUPERGLOW",
-  "FORM_SG_CONFIRM": "Você está prestes a usar os seguintes `Items`:\n\n{{glowCodes}}\n+2x <:resin:938131736741691442>\n\npara obter o `Super Brilho` **`{{superGlowName}}`**",
-  "MISSING_RESINS": "Você não possui `Resina` suficiente para criar um `Super Brilho`",
-  "SUPER_GLOW_SUCCESSFUL": "Seus `Brilhos` foram unidos com sucesso!\n",
-  "FORM_SG_FOOTER": "Todos os Brilhos utilizados neste processo serão destruídos! Este processo é irreversível, Disponível e Indisponível"
+    "SUPERGLOW_DESCRIPTION": "Una dois \"Brilhos\" para obter um \"Super Brilho\"",
+    "SG_CATEGORY": "Cosméticos",
+    "GLOW_CODES_MISSING": "{{author}} Uso correto: `{{prefix}}sg <CódigoDoBrilho1> <CódigoDoBrilho2>`",
+    "GLOW_NOT_FOUND": "{{author}} Ao menos um dos códigos de `Brilho` utilizados é inválido",
+    "UNAVAILABLE_GLOW": "{{author}} Ao menos um dos códigos de `Brilho` utilizados está em branco",
+    "NO_USE_SG": "{{author}} Você não pode usar um **Super Glow** para este processo",
+    "SAME_GLOWS": "{{author}} Você não pode utilizar o mesmo `Brilho` duas vezes para este processo",
+    "EMBED_TITLE": "SOFI: SUPERGLOW",
+    "FORM_SG_CONFIRM": "Tem certeza de que deseja mesclar os seguintes itens:\n\n {{glowCodes}} +\n<:resin:938131736741691442> **2x** **Resin**\n\nem **{{superGlowName}}** **Super Glow**?",
+    "MISSING_RESINS": "Você não possui `Resina` suficiente para criar um `Super Brilho`",
+    "SUPER_GLOW_SUCCESSFUL": "Seus `Brilhos` foram unidos com sucesso!\n",
+    "FORM_SG_FOOTER": "Ambos os Glows serão destruídos no processo!"
 }

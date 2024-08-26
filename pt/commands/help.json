@@ -4,7 +4,7 @@
     "FILTER_EMBED_TITLE": "SOFI: HELP",
     "FILTER_NAME": "Nome",
     "USE_FILTER_ORDER": "Use a ordem com outros filtros para classificar por `a/ascending` ou `d/descending`",
-    "USE_FILTER_OPERATORS": "Operadores - não deve haver espaço antes/depois de usá-los",
+    "USE_FILTER_OPERATORS": "Tenha cuidado para não usar espaços antes e depois de usar um **Operador**!\n",
     "USE_FILTER_OPERATORS_2": "<:pdot:979009081325019156>`=` `:` `<` `>` `!=` `>=` `<=`",
     "BATTLE": "Batalha",
     "CARDS": "Cartas",
@@ -27,10 +27,10 @@
     "DESCRIPTION": "Descrição:",
     "USAGE": "Uso:",
     "NOT_PROVIDED": "Não fornecido",
-    "COMMNAD_NOT_FOUND": "{{author}} | Nenhum comando com o nome `{{command}}` foi encontrado. Você quis dizer? {{commandName}}",
+    "COMMNAD_NOT_FOUND": "{{author}} Não há comando com o nome `{{command}}`! Você talvez esteja procurando por `{{commandName}}`?",
     "ALL_FILTER_CATEGORIES": "Categorias: Anime, Kpop, Cartoon, Movie, Memes, Art, Webseries, Games, Vtuber, Manga, Comic, Webtoon, Jpop, Cpop",
     "USAGE_EMBED_TITLE": "SOFI: HELP",
     "HELP_DESCRIPTION": "Exibe uma lista de todos os comandos disponíveis",
     "NO_ALIASES": "Sem apelidos",
-    "USE_FILTER_OPERATORS_3": " '<:pdot:979009081325019156>For ex- <:crossnobg:896960454977527868>`wl = 10` <:ticknobg:896960451215237250>`wl=10`'"
+    "USE_FILTER_OPERATORS_3": "<:pdot:979009081325019156> **`wl=NUMBER`** ← <:ticknobg:896960451215237250> \n<:pdot:979009081325019156> **`wl = NUMBER`**   ← <:crossnobg:896960454977527868>"
 }

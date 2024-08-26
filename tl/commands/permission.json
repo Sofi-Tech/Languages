@@ -38,5 +38,7 @@
     "WHITELIST_ALREADY_ACTIVE": "{{author}} Hindi ka maaaring magtanggal ng mga blacklist command mula sa whitelist",
     "NO_PERMS_SETUP": "{{author}} Ang mga pahintulot ay hindi pa naka-setup sa channel na ito. Upang makapag setup, gamitin ang `{{prefix}}p [BL/Wl] [Add] <CommandNames/All>`",
     "REMOVE_BL_COMMANDS_ERROR": "{{author}} Ang mga command na iyong ibinigay ay maaaring wala sa Blacklist ng channel na ito o hindi tama",
-    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Ang mga command na iyong ibinigay ay maaaring wala sa Whitelist ng channel na ito o hindi tama"
+    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Ang mga command na iyong ibinigay ay maaaring wala sa Whitelist ng channel na ito o hindi tama",
+    "PERMS_BLACKLIST_LISTNAME": "Naka-Blacklist",
+    "PERMS_WHITELIST_LISTNAME": "Naka-Whitelist"
 }

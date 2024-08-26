@@ -1,12 +1,13 @@
 {
-    "VOTE_DESCRIPTION": "Usa questo comando per votare per Sofi su Top.GG. Ogni voto che contribuisci a Sofi ti ricompenserà con un Wist. Una volta accumulati rispettivamente 30 e 50 Voti in un mese, ti verrà assegnato uno scrigno che potrà contenere una Frame esclusiva",
+    "VOTE_DESCRIPTION": "Usa questo comando per Vote per Sofi su Top.GG. Ogni Vote che contribuisci a Sofi ti ricompenserà con 1 Wist nei giorni feriali e 2 Wists nel fine settimana.",
     "VOTE_CATEGORY": "Impostazioni",
-    "VOTE": "Vota su Top.GG",
+    "VOTE": "Vote su Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
     "USE_WIST": "Otterrai un *'Wist** <:wist:870339503427027005> per ogni **Vote** andato a buon fine!",
     "TOTAL_VOTES": "- **Votes** Totali: **{{totalVotes}}**",
     "MONTHLY_VOTES": "- **Votes** Mensile: **{{monthlyVotes}}**",
     "VOTE_RESET": "- Si Resetta in: **{{countdown}}**",
-    "EMBED_FOOTER": "Ottieni il doppio della quantità di **Wists** nei weekend"
+    "EMBED_FOOTER": "Ottieni il doppio della quantità di **Wists** nei weekend",
+    "VOTE_DBL": "Vote su DiscordBotList"
 }

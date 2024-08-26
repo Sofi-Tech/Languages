@@ -9,7 +9,7 @@
     "CANNOT_BE_GRABBED": "{{user}} As cartas abaixo não podem mais ser **pegas**",
     "CARDS_DROPPED_BY": "{{user}} **dropou** cartas",
     "GRAB_CARD": "{{winner}} lutou contra {{user}} e reivindicou a carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** **{{eventCardInfo}}**",
-    "TOOK_VERSION": "{{winner}} **pegou** o **{{character}}** **Token de Versão** (`{{code}}`) [**V{{version}}**]",
-    "GRAB_VERSION_PLURAL": "{{winner}} venceu contra **{{userCount}}** outros jogadores e **pegou** o **{{character}}** **Token de Versão** (`{{code}}`) [ **V{{version}}**]",
-    "GRAB_VERSION": "{{winner}} venceu contra {{user}} e **pegou** o **{{character}}** **Token de Versão** (`{{code}}`) [**V{{version}}**]"
+    "TOOK_VERSION": "{{winner}} **pegou** o **{{character}}** Token de versão (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**].\nUse o comando `{{prefix}}vt` para visualizar este Version Token",
+    "GRAB_VERSION_PLURAL": "{{winner}} lutou contra **{{userCount}}** outros jogadores e **pegou** o **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**].\nUse o comando `{{prefix}}vt` para visualizar este Version Token",
+    "GRAB_VERSION": "{{winner}} lutou contra {{user}} e **pegou** o **{{character}}** **Token de versão** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**].\nUse o comando `{{prefix}}vt` para visualizar este Version Token"
 }

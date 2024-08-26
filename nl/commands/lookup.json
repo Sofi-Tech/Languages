@@ -3,7 +3,7 @@
     "CHAR_NOT_FOUND": "{{author}} Kon geen personage vinden met de naam `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Kon geen personage vinden met de naam `{{arg}}`\n\n```fix\nOpmerking: het gebruik van de vlag `-f` maakt de functie hoofdlettergevoelig!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
-    "SUBMITTED": "Ingezonden Door: <@{{userID}}>",
+    "SUBMITTED": "**Ingezonden door** <@{{userID}}>",
     "EMBED_FOOTER": "U kunt nieuwe Versies Indienen met behulp van de {{prefix}}sc commando",
     "MORE": "Selecteer een Optie",
     "GIF_LABEL": "GIF",
@@ -15,5 +15,6 @@
     "EVENTS": "Evenementen",
     "EVENT": "Event",
     "UPCOMING_EVENT": "Aankomend Evenement",
-    "NO_OWNER_FOUND": "Nog niemand bezit een **2D** variant van dit personage"
+    "NO_OWNER_FOUND": "Nog niemand bezit een **2D** variant van dit personage",
+    "LOOKUP_CREDITS": "**tegoed**: {{credits}}"
 }

@@ -9,7 +9,7 @@
     "INVALID_BG_AMOUNT": "{{author}} Você não pode comprar uma quantidade negativa de um item",
     "INVALID_BG_ID": "{{author}} Não foi possível encontrar nenhum **Background** com esse ID",
     "INVALID_ITEM_PROVIDED": "{{user}} O item que você forneceu é inválido",
-    "BUY_GEN_CONFIRMATION": "## Você está comprando {{count}} Gen Scratchers",
-    "BUY_CHARM_CONFIRMATION": "## Você está comprando {{amount}} <:xcharm:988729774031638528>",
+    "BUY_GEN_CONFIRMATION": "## Você está comprando {{count}} {{itemName}} 💳",
+    "BUY_CHARM_CONFIRMATION": "## Você está comprando {{amount}} {{itemName}}<:xcharm:988729774031638528>",
     "BUY_CHARMS_MULTIPLES": "{{author}} Você só pode comprar **Charms** em múltiplos de 100"
 }

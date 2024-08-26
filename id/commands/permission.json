@@ -38,5 +38,7 @@
     "NO_BUTTON_LABEL": "Batal",
     "YES_BUTTON_LABEL": "Setuju",
     "REMOVE_BL_COMMANDS_ERROR": "{{author}} Perintah yang Anda berikan tidak ada dalam Daftar Hitam saluran ini atau tidak valid",
-    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Perintah yang Anda berikan tidak ada dalam Daftar Putih saluran ini atau tidak valid"
+    "REMOVE_WL_COMMANDS_ERROR": "{{author}} Perintah yang Anda berikan tidak ada dalam Daftar Putih saluran ini atau tidak valid",
+    "PERMS_BLACKLIST_LISTNAME": "Daftar hitam",
+    "PERMS_WHITELIST_LISTNAME": "Daftar putih"
 }

@@ -1,8 +1,8 @@
 {
-  "WISHLISTLB_DESCRIPTION": "Exibe a tabela de líderes da lista de desejos",
-  "CATEGORY": "Lista de Desejos",
-  "EMBED_TITLE": "SOFI: WISHLISTLB",
-  "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",
-  "CHARACTER_BUTTON_LABEL": "Personagens",
-  "SERIES_BUTTON_LABEL": "Séries"
+    "WISHLISTLB_DESCRIPTION": "Este comando criará um embed rankeando os personágens com a maior lista de desejos",
+    "CATEGORY": "Lista de Desejos",
+    "EMBED_TITLE": "SOFI: PLACA DE CLASSIFICAÇÃO DA LISTA DE DESEJOS ({{type}})",
+    "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",
+    "CHARACTER_BUTTON_LABEL": "Personagens",
+    "SERIES_BUTTON_LABEL": "Séries"
 }

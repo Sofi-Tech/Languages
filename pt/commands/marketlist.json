@@ -1,8 +1,8 @@
 {
     "MARKETLIST_DESCRIPTION": "Coloca seus \"Wists\" no mercado, que podem ser comprador por outros jogadores com \"Gems\"",
     "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}ml <Quantidade> <Taxa>`",
-    "INVALID_GEM_RATE": "{{user}} Você precisa colocar um número entre **3.0** & **20.0**!",
-    "GEM_RATE_LIES": "{{user}} Você precisa colocar um número entre **3.0** & **20.0**!",
+    "INVALID_GEM_RATE": "{{user}} A taxa que você forneceu é inválida",
+    "GEM_RATE_LIES": "{{user}} Você precisa colocar um número entre **3.0 - 20.0**",
     "ALREADY_EXISTS": "{{author}} Você já possui uma oferta existente!\nUse o comando`{{prefix}}mul {{dealID}}` para removê-la, antes de listar uma nova",
     "PRODUCTS": "Sua lista:",
     "RATE": "Taxa:",

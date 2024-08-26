@@ -1,1 +1,6 @@
-{}
+{
+    "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Aguarde **{{cooldown}}** antes de usar este comando novamente",
+    "COMMAND_DISABLED": "{{author}} Este comando foi desabilitado\nMotivo: `{{reason}}`",
+    "COMMAND_BLACKLISTED": "{{author}} O comando `{{commandName}}` está na lista negra neste canal",
+    "CATEGORY_DISABLED": "{{author}} Esta categoria foi desabilitada Motivo: `{{reason}}`"
+}

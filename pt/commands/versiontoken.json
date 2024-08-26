@@ -4,5 +4,19 @@
     "CHOOSE_SORTING": "Ordenar por",
     "SORT_CHAR": "Nome",
     "SORT_SERIES": "Série",
-    "SORT_WL": "Lista de Desejos"
+    "SORT_WL": "Lista de Desejos",
+    "VERSIONTOKEN_DESCRIPTION": "Use este comando para visualizar sua coleção de Version Tokens. A coleção pode ser classificada por Nome, Gen, Lista de desejos, Versions",
+    "VT_CATEGORY": "Cosméticos",
+    "USER_PRIVATE": "{{author}} Este usuário definiu sua coleção de **Version Tokens** como privada",
+    "AUTHOR_NO_TOKENS": "{{author}} Você ainda não tem nenhum **Version Token**",
+    "USER_NO_TOKENS": "{{author}} Esse usuário ainda não possui nenhum **Version Token**",
+    "NOTHING_FOUND": "Não foi possível encontrar nenhum **Version Token**",
+    "INVALID_SERIES": "Série Inválida",
+    "SORT_VERSION": "Version",
+    "SORT_CARD": "Carta Base",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "SAVE_FILTER": "500 - Salve esse Filtro",
+    "SELECT_FILTER": "Selecione um Filtro",
+    "FILTER_NO_VT_FOUND": "{{author}} Não foi possível encontrar nenhum **Version Token** correspondente ao filtro selecionado",
+    "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Version Tokens Totais: {{count}}"
 }

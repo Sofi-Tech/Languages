@@ -1,12 +1,14 @@
 {
-    "VOTE_DESCRIPTION": "Exibe as recompensas mensais dq \"Votação\"",
+    "VOTE_DESCRIPTION": "Use este comando para Votar em Sofi no Top.GG. Cada Voto que você contribuir para Sofi lhe recompensará com 1 Wist em um dia de semana e 2 Wists em um fim de semana.",
     "VOTE_CATEGORY": "Configurações",
     "VOTE": "Vote no Top.GG",
     "BUMP": "Bump",
-    "EMBED_TITLE": "SOFI: VOTE",
-    "USE_WIST": "Você obterá um `Wist` <:wist:870339503427027005> para cada `Voto` bem-sucedido!",
+    "EMBED_TITLE": "SOFI: VOTE ({{username}})",
+    "USE_WIST": "Você obterá um `Wist` <:wist:870339503427027005> para cada **Voto** bem-sucedido em [Top.gg](https://top.gg/bot/853629533855809596)!",
     "TOTAL_VOTES": "- Total de `Votos`: **{{totalVotes}}**",
     "MONTHLY_VOTES": "- `Votos` mensais: **{{monthlyVotes}}**",
     "VOTE_RESET": "- Reinicia em: **{{countdown}}**",
-    "EMBED_FOOTER": "Você ganha o dobro de \"Wists\" em um fim de semana"
+    "EMBED_FOOTER": "Você ganha o dobro de \"Wists\" em um fim de semana",
+    "VOTE_DBL": "Vote em DiscordBotList",
+    "USE_ELIXIR": "Você receberá 5 **Elixir** <:xelixir:979673719884636210> para cada **Voto** bem-sucedido no [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
 }

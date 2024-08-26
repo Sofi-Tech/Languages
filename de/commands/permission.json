@@ -38,5 +38,7 @@
     "RESET_PERMS_CONFIRM": "Bist du sicher, dass du die Befehlsberechtigungen dieses Kanals auf die Standardeinstellungen zurücksetzen möchtest?",
     "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Die folgenden Befehle wurden erfolgreich von der {{listname}} dieses Kanals entfernt: {{commandsList}}",
     "REMOVE_WL_COMMANDS_ERROR": "{{author}} Die Befehle die du bereitgestellt hast sind entweder nicht auf der Channel Whitelist oder ungültig",
-    "REMOVE_BL_COMMANDS_ERROR": "{{author}} Die Befehle die du bereitgestellt hast sind entweder nicht in der Channel Blacklist oder ungültig"
+    "REMOVE_BL_COMMANDS_ERROR": "{{author}} Die Befehle die du bereitgestellt hast sind entweder nicht in der Channel Blacklist oder ungültig",
+    "PERMS_WHITELIST_LISTNAME": "Whitelist",
+    "PERMS_BLACKLIST_LISTNAME": "Blacklist"
 }
