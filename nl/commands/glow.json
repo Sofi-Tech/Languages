@@ -1,7 +1,7 @@
 {
-    "GLOW_DESCRIPTION": "Met deze opdracht wordt de opgegeven Glow toegepast op een kaart uit uw verzameling. Glows voegen een gloeiend effect toe rond de kaderrand van uw kaart. U kunt Glows kopen door de opdracht \"{{prefix}}unlockglow\" te gebruiken",
+    "GLOW_DESCRIPTION": "Met deze commando wordt de opgegeven Glow toegepast op een kaart uit uw verzameling. Glows voegen een gloeiend effect toe rond de kaderrand van uw kaart. U kunt Glows kopen door de commando \"{{prefix}}unlockglow\" te gebruiken",
     "GLOW_CATEGORY": "Cosmetica",
-    "WRONG_USAGE": "{{author}} Juiste gebruik: `{{prefix}}glow <CardCode> <#Glowcode>`",
+    "WRONG_USAGE": "{{author}} Correcte gebruik: `{{prefix}}glow <CardCode> <#Glowcode>`",
     "WRONG_CARD": "{{author}} De kaartcode die u heeft ingevoerd is ongeldig of zit niet in uw verzameling",
     "NO_GIF_CARDS": "{{author}} U kunt geen **Glow** toepassen op een **GIF** kaart",
     "INVALID_GLOW_CODE": "{{author}} **Glow** codes beginnen altijd met een `#`",

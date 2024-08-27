@@ -1,7 +1,7 @@
 {
     "GLOWTAGLIST_DESCRIPTION": "Dit commando toont een lijst met al uw Glow tags",
     "GTL_CATEGORY": "Tags",
-    "NO_TAGS": "{{author}} U heeft nog geen **Glow** tag. U kunt ze maken met de opdracht: `{{prefix}}gtc <Name> <Emoji>`",
+    "NO_TAGS": "{{author}} U heeft nog geen **Glow** tag. U kunt ze maken met de opdracht: `{{prefix}}gtc <Naam> <Emoji>`",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
     "GLOWS_two": "{{count}} Glows",
     "GLOWS_few": "{{count}} Glows",

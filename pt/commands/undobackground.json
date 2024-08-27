@@ -2,7 +2,7 @@
     "UNDOBACKGROUND_DESCRIPTION": "Remover o \"Background\" aplicado de uma carta",
     "UB_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
-    "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar essa carta",
+    "NO_CHARACTER_FOUND": "{{author}} O personagem nesta carta não está mais disponível em Sofi e não pode mais ter interações",
     "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
     "NO_GIF_CARD": "{{author}} Cartas `GIF` não podem ter um `Background` aplicado",
     "NO_BACKGROUND": "{{author}} A carta não possui um \"Background\" aplicada nela",

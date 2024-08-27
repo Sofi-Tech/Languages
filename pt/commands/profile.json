@@ -1,6 +1,7 @@
 {
-    "PROFILE_DESCRIPTION": "Exibe um perfil de usuário",
+    "PROFILE_DESCRIPTION": "Este comando exibe o perfil de um usuário. Você pode personalizar seu perfil usando o comando \"{{prefix}}profileconfig\"",
     "PRO_CATEGORY": "Configurações",
     "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário",
-    "PROFILE_NOT_FOUND": "{{author}} Esse usuário não está registrado"
+    "PROFILE_NOT_FOUND": "{{author}} Esse usuário não está registrado",
+    "GIF_ENABLED": "{{author}} Seu perfil tem o recurso GIF habilitado. Para carregar seu perfil GIF, use o comando `{{prefix}}pc` e clique no botão `Reload GIF profile` no menu suspenso"
 }

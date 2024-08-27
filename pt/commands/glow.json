@@ -1,18 +1,18 @@
 {
-    "GLOW_DESCRIPTION": "Aplica um efeito de \"Glow\" à sua carta",
+    "GLOW_DESCRIPTION": "Este comando aplicará o Glow especificado a uma carta da sua coleção. Glows adicionam um efeito de brilho ao redor da borda da moldura da sua carta. Você pode comprar Glows usando o comando \"{{prefix}}unlockglow\"",
     "GLOW_CATEGORY": "Cosméticos",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}glow <CódigodaCarta> <CódigodoGlow>`",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} O código da carta que você forneceu é inválido ou não está em sua coleção",
-    "NO_GIF_CARDS": "{{author}} Você não pode aplicar um `Glow` em uma carta `GIF`",
-    "INVALID_GLOW_CODE": "{{author}} Os códigos de `Glow` sempre começam com um **#**",
+    "NO_GIF_CARDS": "{{author}} Você não pode aplicar um **Glow** a uma carta **GIF**",
+    "INVALID_GLOW_CODE": "{{author}} Os códigos de **Glow** sempre começam com um `#`",
     "GLOW_NOT_FOUND": "{{author}} O código de **Glow** que você forneceu é inválido ou não está em seu inventário",
-    "EMBED_GLOW_TITLE": "SOFI: GLOW",
-    "EMBED_SG_TITLE": "SOFI: GLOW",
+    "EMBED_GLOW_TITLE": "SOFI: APPLY GLOW",
+    "EMBED_SG_TITLE": "SOFI: APPLY SUPER GLOW",
     "GLOW_NAME": "Nome: {{name}}",
     "GLOW_CODE": "Código: #{{code}}",
     "EMBED_FOOTER": "Glow: {{availability}}",
-    "GLOW_UNAVAILABLE": "{{author}} O `Glow` não tem mais cargas",
-    "GLOW_APPLY_SUCCESSFUL": "O `Glow` foi aplicado com sucesso",
-    "UNAVAILABLE": "Indisponível",
-    "AVAILABLE": "Disponível"
+    "GLOW_UNAVAILABLE": "{{author}} Esse **Glow** não está carregado",
+    "GLOW_APPLY_SUCCESSFUL": "{{author}} Aplicou com sucesso o **{{glowName}}** **Glow** á sua carta",
+    "UNAVAILABLE": "Vazio",
+    "AVAILABLE": "Carregado"
 }

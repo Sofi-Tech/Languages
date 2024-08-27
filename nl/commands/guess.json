@@ -1,6 +1,6 @@
 {
-    "GUESS_DESCRIPTION": "Gebruik deze opdracht om een raadspel te starten. Van alle spelers die meedoen aan het raadspel wordt het weergegeven valutabedrag van hun inventaris afgetrokken zodra het spel begint. Er wordt een willekeurig Engels woord geselecteerd en vervolgens gecodeerd. De eerste persoon die met succes het originele woord in de chat typt, is de winnaar van het raadspel en ontvangt de som van alle toegangsprijzen",
-    "CORRECT_USAGE": "{{user}} Juiste gebruik: `{{prefix}}guess <Amount> <Currency>`\nGeaccepteerde valuta: **Silver**, **Wists**, **Gems**, **Cube**",
+    "GUESS_DESCRIPTION": "Gebruik deze commando om een raadspel te starten. Van alle spelers die meedoen aan het raadspel wordt het weergegeven valutabedrag van hun inventaris afgetrokken zodra het spel begint. Er wordt een willekeurig Engels woord geselecteerd en vervolgens gecodeerd. De eerste persoon die met succes het originele woord in de chat typt, is de winnaar van het raadspel en ontvangt de som van alle toegangsprijzen",
+    "CORRECT_USAGE": "{{user}} Correcte gebruik: `{{prefix}}guess <Hoeveelheid> <Valuta>`\nGeaccepteerde valuta: **Silver**, **Wists**, **Gems**, **Cube**",
     "NO_TP": "{{author}} U heeft een actieve **Trade Pass** nodig om een raadspel te kunnen organiseren",
     "NOT_ENOUGH_CURR": "{{user}} U heeft niet genoeg **{{currency}}** om het spel te starten",
     "INFO_1": "{{user}} is begonnen met het raadspel!",

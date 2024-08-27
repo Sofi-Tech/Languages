@@ -1,6 +1,6 @@
 {
     "WISHLISTCHANNEL_DESCRIPTION": "Use este comando para fixar sua lista de desejos em um canal. Sempre que um cartão da sua lista de desejos aparecer naquele canal, o Sofi irá notificá-lo",
-    "CATEGORY": "Lista de Desejos",
+    "CATEGORY": "Wishlist",
     "CHANNEL_SET": "{{author}} Sua lista de desejos foi definida em {{channel}}",
     "CHANNEL_REMOVE": "{{author}} Sua lista de desejos foi removida de {{channel}}"
 }
