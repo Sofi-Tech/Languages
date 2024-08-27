@@ -1,6 +1,6 @@
 {
-    "BACKGROUND_DESCRIPTION": "Zodra een kaart is geconverteerd naar de 3D-variant, kunt u dit commando gebruiken om er een achtergrond op toe te passen. Gebruik de opdracht \"{{prefix}}backgroundshop\" om Backgrounds te kopen",
-    "WRONG_USAGE": "{{author}} Correct gebruik: `{{prefix}}bg <CardCode> <Background-ID>`",
+    "BACKGROUND_DESCRIPTION": "Zodra een kaart is geconverteerd naar de 3D variant, kunt u dit commando gebruiken om er een Background op toe te passen. Gebruik de opdracht \"{{prefix}}backgroundshop\" om Backgrounds te kopen",
+    "WRONG_USAGE": "{{author}} Correcte gebruik: `{{prefix}}bg <CardCode> <Background-ID>`",
     "BG_CATEGORY": "Cosmetica",
     "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
     "NON_3D_CARDS": "{{author}} U kunt geen **Background** toepassen op niet-3D kaarten",

@@ -1,5 +1,5 @@
 {
-    "FUSE_DESCRIPTION": "Combine diferentes \"Fragments\" para criar uma carta \"GIF\"",
+    "FUSE_DESCRIPTION": "Use este comando para obter novas variantes de Version e fundir equipamentos",
     "FUSE_DESC": "O Laboratório de Fusão é onde Sofi experimenta e cria coisas novas para os jogadores! Recursos emocionantes ganham vida aqui",
     "FUSE_DESC2": "<:_:979009081325019156> Animado: Os `Fragments` coletados usando `Pulls` são combinados aqui para criar variantes `GIF`. Você precisa de todos os 8 `Fragments` de um personagem para esse processo!",
     "FUSE_DESC3": "<:_:979009081325019156> Níveis : Combine duplicadas para receber pontos de aprimoramento para as suas cartas",
@@ -14,5 +14,8 @@
     "FUSING": "Combinando **__8/8__** `Fragments`…",
     "SERIES": "Série:",
     "NAME": "Nome:",
-    "OWNED_BY": "Propriedade de:"
+    "OWNED_BY": "Propriedade de:",
+    "VERSION_MENU_LABEL": "Versions",
+    "VERSION_MENU_DESCRIPTION": "Obtenha uma nova Version para sua carta",
+    "EQUIPMENTS_MENU_LABEL": "Equipments"
 }

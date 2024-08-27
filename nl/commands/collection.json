@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Met deze opdracht wordt uw volledige verzameling weergegeven, die vervolgens op verschillende manieren kan worden gesorteerd en gefilterd. Als u deze opdracht met extra aanwijzingen gebruikt, wordt de insluiting geopend met het specifieke filter dat er al op is toegepast. Gebruik de prompt \"t:ut\" naast deze opdracht om alle kaarten in uw verzameling te markeren die momenteel geen tag hebben. Gebruik de opdracht \"{{prefix}}help filter\" om alle beschikbare filters te bekijken",
+    "COLLECTION_DESCRIPTION": "Met deze commando wordt uw volledige verzameling weergegeven, die vervolgens op verschillende manieren kan worden gesorteerd en gefilterd. Als u deze commando met extra aanwijzingen gebruikt, wordt de insluiting geopend met het specifieke filter dat er al op is toegepast. Gebruik de prompt \"t:ut\" naast deze commando om alle kaarten in uw verzameling te markeren die momenteel geen tag hebben. Gebruik de commando \"{{prefix}}help filter\" om alle beschikbare filters te bekijken",
     "SLASH_CMD_DESC": "Bekijk uw kaarten verzameling",
     "SLASH_DESC": "Selecteer de gebruiker van wie u de collectie wilt zien",
     "SLASH_DESC2": "Voer de filter in die u op de collectie wilt toepassen",
@@ -22,7 +22,7 @@
     "PLEASE_WAIT": "Een ogenblik geduld <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} U heeft nog geen tags. Gebruik de commando `{{prefix}}tc <TagNaam> <Emoji>` om een te maken",
     "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
-    "NOT_AVAILABLE": "Ongeldige Series",
+    "NOT_AVAILABLE": "Ongeldige Serie",
     "SORT_LEVEL": "Level",
     "NO_RESULTS_OTHERS": "{{author}} Die gebruiker heeft geen kaarten in hun collectie",
     "TAG_MODAL_LABEL": "Massaal Taggen",
@@ -58,10 +58,10 @@
     "FILTER_NAME_TOO_LONG": "{{author}} De naam van uw filter mag niet langer dan **20** karakters zijn",
     "FILTER_NAME_PROFANE": "{{author}} De naam van uw filter mag geen vloeken bevatten",
     "FILTER_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden die overeenkomen met het geselecteerde filter. Gebruik de opdracht `{{prefix}}help filter` voor meer informatie over alle beschikbare filters",
-    "FILTER_DELETE": "Verwijder een filter",
+    "FILTER_DELETE": "Verwijder een Filter",
     "VERSION_AVAILABILITY": "Version Beschikbaarheid",
     "SORT_GEN": "Gen",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
-    "SAVED_FILTER": "Selecteer een filter",
+    "SAVED_FILTER": "Selecteer een Filter",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}"
 }

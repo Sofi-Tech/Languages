@@ -3,5 +3,5 @@
     "PRO_CATEGORY": "Instellingen",
     "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
     "PROFILE_NOT_FOUND": "{{author}} Die gebruiker is niet geregistreerd",
-    "GIF_ENABLED": "{{author}} Uw profiel heeft de GIF functie ingeschakeld. Om uw GIF profiel te laden gebruikt u de opdracht `spc` en klikt u op de knop `GIF profiel opnieuw laden` in het vervolgkeuzemenu"
+    "GIF_ENABLED": "{{author}} Uw profiel heeft de GIF functie ingeschakeld. Om uw GIF profiel te laden gebruikt u de opdracht `{{prefix}}pc` en klikt u op de knop `GIF profiel opnieuw laden` in het vervolgkeuzemenu"
 }

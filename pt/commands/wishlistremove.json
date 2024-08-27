@@ -3,6 +3,6 @@
     "CATEGORY": "Lista de Desejos",
     "NO_INDEX": "{{author}} Uso correto: `{{prefix}}wr<Name/Number> `. Use o comando `{{prefix}}wr full reset` para limpar toda a sua lista de desejos",
     "FULL_RESET": "{{author}} Todos os personagens foram removidos com sucesso da sua lista de desejos",
-    "REMOVE_CHARACTER": "> {{author}} Você removeu **{{name}}** da sua lista de desejos",
+    "REMOVE_CHARACTER": "{{author}} **{{name}}** foi removido com sucesso da sua lista de desejos",
     "NO_RESULTS": "{{author}} Não há nenhum personagem com o nome `{{name}}` na sua lista de desejos"
 }

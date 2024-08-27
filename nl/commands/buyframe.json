@@ -1,5 +1,5 @@
 {
-    "BUYFRAME_DESCRIPTION": "Deze opdracht wordt specifiek gebruikt voor het kopen van frames via de opdracht \"{{prefix}}frameshop\", waarin u officiële, aangepaste en pakketframes voor uw 2D-kaarten kunt kopen",
+    "BUYFRAME_DESCRIPTION": "Deze opdracht wordt specifiek gebruikt voor het kopen van frames via de opdracht \"{{prefix}}frameshop\", waarin u Officiële, Aangepaste en Pakket Frames voor uw 2D kaarten kunt kopen",
     "BF_CATEGORY": "Cosmetica",
     "NO_FRAME_NAME": "{{author}} Geef de code van het **Frame** dat u wilt kopen",
     "NO_FRAMECODE_FOUND": "{{author}} Kan geen **Frame** vinden met de code `{{name}}`",
@@ -7,7 +7,7 @@
     "FRAME_NOT_PURCHASABLE": "{{author}} Die **Frame** is beperkt en kan niet langer worden gekocht",
     "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "U ontvangt:",
-    "YOU_PAY": "U Betaalt:",
+    "YOU_PAY": "U betaalt:",
     "NO_ENOUGH_AMOUNT": "{{author}} U heeft niet genoeg **{{currency}}** om deze aankoop te doen",
     "TRANSACTION_SUCCESSFUL": "{{author}} Heeft met succes het **{{frameName}}** **Frame** gekocht",
     "PROCESS_CANCELLED": "Het proces is geannuleerd"

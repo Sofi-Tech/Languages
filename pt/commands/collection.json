@@ -1,11 +1,11 @@
 {
-    "COLLECTION_DESCRIPTION": "Este comando exibirá toda a sua coleção, que poderá ser ordenada e filtrada de várias maneiras. Usar este comando com prompts adicionais abrirá a incorporação com o filtro específico já aplicado a ela. Use o prompt \"t:ut\" além deste comando para destacar todas as cartas da sua coleção que não possuam uma tag no momento. Use o comando \"{{prefix}}help filter\" para ver todos os filtros disponíveis",
+    "COLLECTION_DESCRIPTION": "Este comando exibirá sua coleção inteira, que pode ser classificada e filtrada de várias maneiras. Usar este comando com prompts adicionais abrirá o embed com o filtro específico já aplicado a ele. Use o prompt \"t:ut\" além deste comando para destacar todos os cards em sua coleção que atualmente não têm uma tag. Use o comando \"{{prefix}}help filter\" para ver todos os filtros disponíveis",
     "SLASH_CMD_DESC": "Exibe a sua coleção de cartas",
     "SLASH_DESC": "Selecione um usuário para ver a coleção dele",
     "SLASH_DESC2": "Digite os filtros que você quer aplicar na coleção",
     "PLAYER_NOT_EXIST": "{{author}} Esse usuário não está registrado",
     "PLAYER_PRIVATE": "{{author}} A coleção desse usuário é privada",
-    "NO_RESULTS": "{{author}} Você ainda não tem nenhuma carta na sua coleção",
+    "NO_RESULTS": "{{author}} Você ainda não tem nenhuma carta em sua coleção",
     "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa",
     "NOTHING_FOUND": "Não foi possível encontrar nenhuma carta",
     "CHOOSE_SORTING": "Ordenar por",

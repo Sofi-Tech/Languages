@@ -1,5 +1,5 @@
 {
-    "CREATE_ALBUM": "{{author}} [ウェブサイト](<https://sofi.gg/albums>)に自分のアルバムを作成と編集をできます",
-    "CREATEALBUM_DESCRIPTION": "アルバムを作成します",
+    "CREATE_ALBUM": "{{author}}アルバムを作成して編集するには、[website]をご利用ください(<https://sofi.gg/albums>)",
+    "CREATEALBUM_DESCRIPTION": "このコマンドは、公式のSofi.ggウェブサイトへのリンクを提供します。そこで、カードを好きなように展示するカスタムアルバムを作成できます",
     "CATEGORY": "アルバム"
 }
