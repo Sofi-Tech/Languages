@@ -1,6 +1,6 @@
 {
-    "MARKETLIST_DESCRIPTION": "Gebruik deze opdracht om uw Wists op de markt te brengen in ruil voor Gems",
-    "CORRECT_USAGE": "{{user}} Correct gebruik: {{prefix}}ml <Hoeveelheid> <Tarief>",
+    "MARKETLIST_DESCRIPTION": "Gebruik deze commando om uw Wists op de markt te brengen in ruil voor Gems",
+    "CORRECT_USAGE": "{{user}} Correcte gebruik: {{prefix}}ml <Hoeveelheid> <Tarief>",
     "INVALID_GEM_RATE": "{{user}} Het door u opgegeven tarief is ongeldig",
     "GEM_RATE_LIES": "{{user}} Het opgegeven tarief moet tussen **3,0 - 20,0** liggen",
     "ALREADY_EXISTS": "{{author}} Gebruik het commando `{{prefix}}mul {{dealID}}` om eerst uw bestaande bestelling te verwijderen",
@@ -8,7 +8,7 @@
     "RATE": "Tarief:",
     "VALUE": "Waarde:",
     "CANCELLED": "Het proces is geannuleerd",
-    "NOT_ENOUGH_CANCEL": "{{author}} Je hebt niet genoeg **{{currency}}** voor dit proces",
+    "NOT_ENOUGH_CANCEL": "{{author}} U heeft niet genoeg **{{currency}}** voor dit proces",
     "SUCCESS": "{{author}} Uw bestelling is succesvol vermeld",
     "NOT_VERIFIED": "{{author}} U bent niet geverifieerd",
     "NOT_REGISTERED": "{{author}} U bent niet geregistreerd",

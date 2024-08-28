@@ -13,7 +13,7 @@
     "COMMAND_RUN_ERROR": "{{author}} Er heeft zich een fout voorgedaan tijdens het uitvoeren van dit commando. Probeer het opnieuw",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Uw inventaris bevat een negatieve waarde! Contacteer de Developers in onze [Support Server](https://discord.gg/sofi) om dit probleem op te lossen",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Globaal]** Wacht **{{cooldown}}** voordat u dit commando weer gebruikt",
-    "REQUIRE_PERMISSIONS": "{{author}} Je hebt **{{permissions}}** machtigingen nodig om dit commando te gebruiken",
+    "REQUIRE_PERMISSIONS": "{{author}} U heeft **{{permissions}}** machtigingen nodig om dit commando te gebruiken",
     "REGISTER_TO_PLAY": "{{author}} Gebruik het `{{prefix}}register` commando om uw **Sofi** reis te starten!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** is momenteel in veilige modus! ETA: **{{eta}}**\nWe verontschuldigen ons voor het ongemak en vragen om uw geduld!",
     "COMPLETE_COMMAND": "{{author}} Voltooi het `{{command}}` commando eerst!",

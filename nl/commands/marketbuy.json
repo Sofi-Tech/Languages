@@ -1,6 +1,6 @@
 {
-    "MARKETBUY_DESCRIPTION": "Door dit commando te gebruiken in combinatie met een Bestelling-ID van de markt gevolgd door een bedrag, wordt een transactie-insluiting geopend om Wists van een andere speler te kopen. Gebruik de opdracht \"{{prefix}}market\" om alle beschikbare bestellingen te bekijken",
-    "CORRECT_USAGE": "{{author}} Juiste gebruik: `{{prefix}}mbuy <OfferID> <WistHoeveelheid>`",
+    "MARKETBUY_DESCRIPTION": "Door dit commando te gebruiken in combinatie met een Bestelling-ID van de markt gevolgd door een bedrag, wordt een transactie embed geopend om Wists van een andere speler te kopen. Gebruik de commando \"{{prefix}}market\" om alle beschikbare bestellingen te bekijken",
+    "CORRECT_USAGE": "{{author}} Correcte gebruik: `{{prefix}}mbuy <OfferID> <WistHoeveelheid>`",
     "INVALID_DEAL_ID": "{{author}} De door u opgegeven bestellings-ID is ongeldig",
     "CANNOT_PURCHASE": "{{user}} U kan geen interactie met deze bestelling hebben",
     "CANNOT_SELF": "{{user}} U kan niet van uw eigen bestelling kopen",

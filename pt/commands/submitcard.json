@@ -34,6 +34,6 @@
     "EMBED_FOOTER": "Seus envios: {{userStats}}/{{submitted}} | Envios totais: {{globalStats}}/{{allSubmit}}",
     "SERIES_NAME": "Série: **{{series}}**",
     "SOURCE": "Fonte: **{{source}}**",
-    "SUBMISSION_DENY": "O processo foi cancelado",
+    "SUBMISSION_DENY": "{{author}} O processo foi cancelado",
     "TOTAL_EVENT_3D": "Cartas **3D** de eventos exclusivos: **{{totalEventCards}}**"
 }
