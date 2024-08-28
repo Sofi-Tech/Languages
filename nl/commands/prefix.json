@@ -1,6 +1,6 @@
 {
     "PREFIX_DESCRIPTION": "Met dit commando kunt u het voorvoegsel voor uw server instellen. Het geselecteerde voorvoegsel is vereist om opdrachten op Sofi uit te voeren",
     "PREFIX_CATEGORY": "Instellingen",
-    "PROVIDE_PREFIX": "{{author}} Juiste gebruik: `{{prefix}}prefix <NieuwVoorvoegsel>`",
+    "PROVIDE_PREFIX": "{{author}} Correcte gebruik: `{{prefix}}prefix <NieuwVoorvoegsel>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} Het voorvoegsel voor deze server is succesvol gezet naar `{{prefix}}`"
 }

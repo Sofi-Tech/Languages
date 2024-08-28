@@ -1,5 +1,5 @@
 {
-    "PERMISSION_CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}p [BL/WL] [Add/Rem] <CommandoNamen/All>`",
+    "PERMISSION_CORRECT_USAGE": "{{author}} Correcte gebruik: `{{prefix}}p [BL/WL] [Add/Rem] <CommandoNamen/All>`",
     "NO_PERMS_SETUP": "{{author}} De toestemming is nog niet ingesteld in dit kanaal. Gebruik voor het instellen `{{prefix}}p [BL/WL] [Add] <CommandoNamen/All>`",
     "WHITELISTING_INFO": "Witte lijst: Sta alleen toe dat specifieke opdrachten in dit kanaal worden gebruikt",
     "WHITELISTING_USAGE": "Gebruik: `{{prefix}}p wl add/rem <CommandoNamen/All>`\n",
@@ -18,7 +18,7 @@
     "WHITELISTED_COMMANDS": "**__Witte lijst Commando's__**",
     "ADD_COMMANDS_INFO": "Toevoegen: voeg extra commando's toe aan de **{{listName}}**\n",
     "SOME_COMMANDS_WHITELISTED": "{{author}} U heeft al commando's in dit kanaal op de witte lijst gezet! Gebruik het commando `{{prefix}}p reset` om de toestemmingsstatus van dit kanaal op standaard in te stellen",
-    "PERMISSION_DESCRIPTION": "Met dit commando kun je commando's op de witte of zwarte lijst zetten binnen het kanaal waarin het wordt gebruikt. Commando's op de witte lijst zijn de enige commando's die bruikbaar zijn in het kanaal, terwijl commando's op de zwarte lijst de enige commando's zijn die onbruikbaar zijn in het kanaal",
+    "PERMISSION_DESCRIPTION": "Met dit commando kunt u commando's op de witte of zwarte lijst zetten binnen het kanaal waarin het wordt gebruikt. Commando's op de witte lijst zijn de enige commando's die bruikbaar zijn in het kanaal, terwijl commando's op de zwarte lijst de enige commando's zijn die onbruikbaar zijn in het kanaal",
     "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Alle commando's van de {{listName}} van dit kanaal zijn succesvol verwijderd",
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} U kunt commando's op de witte lijst niet van een zwarte lijst verwijderen",
     "SOME_COMMANDS_BLACKLISTED": "{{author}} U heeft al commando's in dit kanaal op de zwarte lijst gezet! Gebruik het commando `{{prefix}}p reset` om de toestemmingsstatus van dit kanaal op standaard in te stellen",
@@ -37,8 +37,8 @@
     "NOT_BLACKLISTED_YET": "{{author}} U heeft nog geen commando's op de zwarte lijst gezet",
     "RESET_PERMS_SUCCESSFUL": "{{author}} De toestemmingsstatus van dit kanaal is succesvol hersteld",
     "ADD_COMMANDS_ERROR": "{{author}} De door u opgegeven commando's staan al op de {{listName}} van dit kanaal of zijn ongeldig",
-    "PERMS_BLACKLIST_LISTNAME": "Zwartelijst",
-    "PERMS_WHITELIST_LISTNAME": "Wittelijst",
-    "REMOVE_BL_COMMANDS_ERROR": "{{author}} De door jou opgegeven commando's staan niet op de zwarte lijst van dit kanaal of zijn ongeldig",
-    "REMOVE_WL_COMMANDS_ERROR": "{{author}} De door jou opgegeven commando's staan niet op de wittelijst van dit kanaal of zijn ongeldig"
+    "PERMS_BLACKLIST_LISTNAME": "Zwarte lijst",
+    "PERMS_WHITELIST_LISTNAME": "Witte lijst",
+    "REMOVE_BL_COMMANDS_ERROR": "{{author}} De door u opgegeven commando's staan niet op de zwarte lijst van dit kanaal of zijn ongeldig",
+    "REMOVE_WL_COMMANDS_ERROR": "{{author}} De door u opgegeven commando's staan niet op de witte lijst van dit kanaal of zijn ongeldig"
 }

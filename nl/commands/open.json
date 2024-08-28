@@ -2,7 +2,7 @@
     "OPEN_DESCRIPTION": "Gebruik deze commando om kisten te openen die zijn verkregen door verschillende activiteiten op Sofi",
     "SLASH_DESC_1": "Voer het item in dat u wilt openen",
     "SLASH_DESC_2": "Voer de hoeveelheid in",
-    "CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}open <ItemNaam> <Hoeveelheid>`",
+    "CORRECT_USAGE": "{{author}} Correcte gebruik: `{{prefix}}open <ItemNaam> <Hoeveelheid>`",
     "EMPTY_INV": "{{author}} Uw inventaris is leeg",
     "CHARM_MISSING": "{{author}} U heeft geen enkele **Charms**",
     "SOFI_CARDS_MISSING": "{{author}} Er zijn momenteel niet genoeg kaarten in Sofi's collectie",
@@ -16,12 +16,12 @@
     "EXOTIC_DIVINE_FOOTER": "U kan {{article}} {{chestName}} verkrijgen door {{count}} keren te stemmen elke maand",
     "PROCESS_CANCELLED": "Het proces is geannuleerd",
     "VERSION_CHEST_FOOTER": "Version chests kunnen op elk moment verhandeld en geopend worden",
-    "EQUIP_EQUIPMENTS": "Gebruik de \"{{prefix}}stats <Kaartcode>\" opdracht om de apparatuur uit te rusten",
+    "EQUIP_EQUIPMENTS": "Gebruik de \"{{prefix}}stats <Kaartcode>\" commando om de apparatuur uit te rusten",
     "GUILD_CHEST_FOOTER": "U kan een Guild Chest verkrijgen op het einde van elk seizoen",
     "CLAIMED": "Geclaimd",
     "GUILD_PACKAGE_SUCCESS": "Gefeliciteerd! Uw **Guild Package** bevat de **{{charName}}** **3D-V2** kaart en 💳 **{{amount}}x** **Gen Scratcher**",
     "NOIR_FOUND": "U vond een <:noiressence:1115496193775116411> **Noir Essence** in uw kist!",
     "GUILD_PACKAGE_PROMPT": "**__Huidige Kaartenpool__**\n{{poolLine}}\n\nBent u zeker dat u dit pakket wilt openen?",
-    "CORRECT_USAGE_2": "Items die kunnen geopend worden: **Kisten**",
+    "CORRECT_USAGE_2": "Items die kunnen geopend worden: **Chests**",
     "EMBED_TITLE": "SOFI: OPEN ({{itemName}})"
 }
