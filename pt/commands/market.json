@@ -2,6 +2,6 @@
     "MARKET_DESCRIPTION": "Este comando lista todos os pedidos disponíveis no mercado. O mercado pode ser usado por jogadores para oferecer seus Wists em troca de Gems por meio do comando \"{{prefix}}marketlist\"",
     "NO_LISTING_FOUND": "{{author}} Não foi possível encontrar nenhum pedido no mercado",
     "MARKET_WARN": "**Taxa Média**: **`{{averageRate}}` | Total de Trocas** : **`{{totalTrades}}`**",
-    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <ID do Pedido> <Quantidade>",
+    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <IDdoPedido> <Quantidade>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Estoque: `{{stockAmount}}` {{stockEmoji}} | Taxa: `{{rateAmount}}` {{rateEmoji}}"
 }

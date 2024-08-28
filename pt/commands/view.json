@@ -1,11 +1,15 @@
 {
-    "VIEW_DESCRIPTION": "Mostra a carta",
+    "VIEW_DESCRIPTION": "Este comando exibirá a aparência visual de uma carta especificada. Use este comando sem um código de carta para exibir sua última carta obtida",
     "SLASH_DESC1": "Insira o código da carta",
     "INVALID_CODE": "{{author}} O código da carta fornecido é inválido",
     "SERIES": "Série:",
     "NAME": "Nome:",
     "OWNED_BY": "Propriedade de:",
-    "SERVER": "ID-do Sevidor:",
+    "SERVER": "ID-do-Sevidor:",
     "CLAIMED": "Reivindicado em:",
-    "MOVES": "Habilidades"
+    "MOVES": "Habilidades",
+    "INFO_BUTTON_LABEL": "Informação",
+    "EMBED_TITLE": "SOFI: VIEW",
+    "SPECIAL": "Special",
+    "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potência **({{percentage}}%)**"
 }

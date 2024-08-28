@@ -1,7 +1,7 @@
 {
-    "MASSBURN_DESCRIPTION": "Use este comando para queimar várias cartas de uma vez adicionando parâmetros como \"t:TagName\" e \"wl<Number\" para especificar quais cartas você deseja queimar. Use o comando \"Help filter\" para obter uma lista abrangente de parâmetros disponíveis",
+    "MASSBURN_DESCRIPTION": "Use este comando para queimar várias cartas de uma vez. Adicionando filtros Gen/Tag/Wishlist, você pode especificar quais cards deseja queimar",
     "IN_ACTIVE_MB": "{{user}} Você não pode iniciar um novo **Massburn** enquanto um antigo ainda estiver ativo",
-    "PROVIDE_FILTERS": "{{author}} Uso correto: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Você pode encontrar uma lista abrangente de filtros com o comando {{prefix}}help filter\n```",
+    "PROVIDE_FILTERS": "{{author}} Uso correto: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Você pode encontrar uma lista abrangente de filtros com o comando {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Não foi possível encontrar nenhuma tag com o nome `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa",
     "CARDS_BURNED": "__Cartas Selecionadas [ {{totalCards}} ]__",
@@ -9,6 +9,6 @@
     "MISSING_CARDS": "{{author}} Pelo menos uma das cartas selecionadas não está mais em sua coleção",
     "SUCCESS": "{{author}} As cartas selecionadas foram queimadas com sucesso",
     "BURN_REWARDS": "__Recompensas__",
-    "LOCKED_CARDS_WARNING": "{{author}} Cartas que estão bloqueadas, uma variante **GIF** ou usados em um baralho não podem ser queimados",
+    "LOCKED_CARDS_WARNING": "{{author}} Cartas que estão bloqueadas, uma variante **GIF** ou usados em um deck não podem ser queimados",
     "EMBED_TITLE": "SOFI: MASSBURN"
 }

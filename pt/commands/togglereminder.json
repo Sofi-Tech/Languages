@@ -3,5 +3,5 @@
     "REMINDER_DISABLED": "{{author}} Você não será mais notificado quando seu **{{reminder}}** estiver pronto",
     "RM_CATEGORY": "Configurações",
     "PROVIDE_REMINDER_NAME": "{{author}} Uso correto: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "TOGGLEREMINDER_DESCRIPTION": "Com este comando você pode alternar o estado dos seus lembretes. Você também pode usar o comando \"Cooldown\" e clicar no ícone de sino como alternativa"
+    "TOGGLEREMINDER_DESCRIPTION": "Com este comando você pode alternar o estado dos seus lembretes. Você também pode usar o comando \"{{prefix}}cooldown\" e clicar no ícone do sino alternativamente"
 }

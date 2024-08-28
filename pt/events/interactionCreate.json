@@ -2,5 +2,21 @@
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Aguarde **{{cooldown}}** antes de usar este comando novamente",
     "COMMAND_DISABLED": "{{author}} Este comando foi desabilitado\nMotivo: `{{reason}}`",
     "COMMAND_BLACKLISTED": "{{author}} O comando `{{commandName}}` está na lista negra neste canal",
-    "CATEGORY_DISABLED": "{{author}} Esta categoria foi desabilitada Motivo: `{{reason}}`"
+    "CATEGORY_DISABLED": "{{author}} Esta categoria foi desabilitada Motivo: `{{reason}}`",
+    "APPEAL_ACCEPTED": "# __Seu apelo foi aceito!__ \n- Entre em nosso [Servidor de Suporte](https://discord.gg/XPsQKJjeD7) oficial e crie um tíquete no canal https://discord.com/channels/863226120245215262/959176115723837530 para avançar seu caso \n- Um membro da equipe atenderá você o mais rápido possível, evite enviar mensagens diretamente ou mencionar membros da equipe em qualquer canal sobre seu tíquete. Quebrar esta regra pode levar a uma suspensão permanente do nosso serviço e do Servidor Discord",
+    "APPEAL_DENIED": "Após investigar seu caso, chegamos à conclusão de rejeitar seu recurso. Seu status na blacklist não será anulado e todos os novos recursos daqui em diante serão rejeitados. \n\n- Sofi Management",
+    "VERSION_ACCEPTED": "Seu envio de `Version` para **{{charName}}** de **{{seriesName}}** foi aceito. **3**<a:wist_spin:973031140581580820> foram adicionados ao seu inventário",
+    "VERSION_REJECTED": "Seu envio de `Version` para **{{charName}}** de **{{seriesName}}** foi rejeitado. [Visite nosso Servidor de Suporte para saber mais](<https://discord.gg/RYawNnu6Pp> )",
+    "COMMAND_RUN_ERROR": "{{author}} Ocorreu um erro ao tentar executar este comando. Tente novamente",
+    "SERVER_BLACKLISTED": "{{author}} O servidor está na blacklist. Entre em contato conosco em discord.gg/sofi",
+    "VERIFY_BUTTON_LABEL": "Verificar",
+    "SUPPORT_BUTTON_LABEL": "Suporte",
+    "VERIFY_TO_PLAY": "[Verifique-se em nosso site para jogar!](<https://sofi.gg/verify> )",
+    "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Aguarde **{{cooldown}}** antes de usar este comando novamente",
+    "REQUIRE_PERMISSIONS": "{{author}} Você precisa de **{{permissions}}** permissões para usar este comando",
+    "REGISTER_TO_PLAY": "{{author}} Use o comando `{{prefix}}register` para iniciar sua jornada no **Sofi**!",
+    "COMPLETE_COMMAND": "{{author}} Complete o comando`{{command}}`primeiro!",
+    "BOT_IN_SAFEMODE": "{{author}} **Sofi** está atualmente em modo de segurança! ETA: **{{eta}}**\n Pedimos desculpas por qualquer inconveniente causado por isso e pedimos sua paciência!",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Seu inventário contém um valor negativo! Entre em contato com os desenvolvedores em nosso [Servidor de suporte](https://discord.gg/sofi) para consertar isso",
+    "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Você entrou na blacklist por violar as regras de Sofi!__\n\n**Uma lista de possíveis razões que podem ter causado isso :**\n```CSS\n- Interagindo com Sofi em várias contas (Alting) \n- Vender ou comprar contas inteiras do Discord \n- Enganar outros usuários (Scamming) \n- Tirar proveito ou estar envolvido em qualquer uma das atividades acima \n```\n\n:link: [Apelar seu Blacklist](<https://sofi.gg/appeal>)\n:link: [Servidor de Suporte](https://discord.gg/sofi)"
 }

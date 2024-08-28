@@ -1,9 +1,9 @@
 {
     "PRIVATE_DESCRIPTION": "Gunakan perintah ini untuk memprivasi bagian dari akun Anda. Bagian yang diprivasi tidak akan lagi terlihat oleh pemain lain. Menggunakan perintah ini dengan sendirinya akan menampilkan konfigurasi Anda saat ini untuk bagian ini",
     "PVT_CATEGORY": "Pengaturan",
-    "PRIVATE_ENABLED": "{{author}} **{{content}}** anda sekarang bersifat privat",
-    "PRIVATE_DISABLED": "{{author}} **{{content}}** anda tidak lagi bersifat privat",
-    "PVT_PRIVATE": "Privat",
+    "PRIVATE_ENABLED": "{{author}} **{{content}}** anda sekarang bersifat pribadi",
+    "PRIVATE_DISABLED": "{{author}} **{{content}}** anda tidak lagi bersifat pribadi",
+    "PVT_PRIVATE": "Pribadi",
     "PVT_PUBLIC": "Publik",
     "PVT_EMBED_TITLE": "SOFI: PRIVATE",
     "WRONG_ARGUMENTS": "{{author}} Penggunaan yang benar: `{{prefix}}pvt <C/WL/INV/VT>`"

@@ -1,14 +1,16 @@
 {
-    "MARKETINFO_DESCRIPTION": "Mostra sua listagem no mercado ou exibe detalhes sobre uma oferta específica",
-    "INVALID_DEAL_ID": "{{author}} O ID da Oferta fornecido é inválido",
+    "MARKETINFO_DESCRIPTION": "Usar este comando exibirá seu pedido no mercado atual. Você também pode adicionar o ID de uma ordem existente ao pedido para obter mais informações sobre a ordem específica",
+    "INVALID_DEAL_ID": "{{author}} O ID do Pedido fornecido é inválido",
     "TRADER": "Negociante",
-    "DEAL_ID": "Classificação",
+    "DEAL_ID": "ID do Pedido",
     "PRODUCT": "Produto",
     "VALUE": "Valor",
-    "RATE": "Preço",
+    "RATE": "Taxa",
     "LISTED": "Listado",
-    "NO_LISTINGS_FOUND": "{{user}} você não fez nenhuma listagem no mercado",
-    "INFO": "Use `{{prefix}}ml` e `smul` para retirar a listagem\nApenas uma oferta pode ser listada por vez",
-    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <ID do Pedido> <Quantidade>",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Estoque: `{{stockAmount}}` {{stockEmoji}} | Taxa: `{{rateAmount}}` {{rateEmoji}}"
+    "NO_LISTINGS_FOUND": "{{user}} você não tem ordem nenhuma no mercado atualmente",
+    "INFO": "Use o comando`{{prefix}}mul <IDdoPedido>` para remover seu pedido do mercado",
+    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <IDdoPedido> <Quantidade>",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Estoque: `{{stockAmount}}` {{stockEmoji}} | Taxa: `{{rateAmount}}` {{rateEmoji}}",
+    "DEAL_EMBED_TITLE": "SOFI: ORDER INFO",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})"
 }

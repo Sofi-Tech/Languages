@@ -9,8 +9,8 @@
     "MENU_GLOWS_LABEL": "Glows",
     "MENU_VOTES_LABEL": "Votes",
     "MENU_3D_LABEL": "3D",
-    "LB_PRIVATE": "`Private`",
-    "NO_NAME_YET": "`No {{name}} yet.`",
+    "LB_PRIVATE": "`Privado`",
+    "NO_NAME_YET": "`Sem {{name}} ainda.`",
     "EMBED_GEMS_TITLE": "SOFI: GEM LEADERBOARD",
     "EMBED_BUMP_TITLE": "SOFI: BUMP LEADERBOARD",
     "EMBED_DAILY_TITLE": "SOFI: DAILY LEADERBOARD",
@@ -18,6 +18,8 @@
     "EMBED_GLOWS_TITLE": "SOFI: GLOW LEADERBOARD",
     "EMBED_VOTES_TITLE": "SOFI: VOTE LEADERBOARD",
     "EMBED_3E_TITLE": "SOFI: 3D LEADERBOARD",
-    "LEADERBOARD_DESCRIPTION": "Este comando criará uma classificação incorporada dos melhores jogadores em várias categorias",
-    "EMBED_SILVER_TITLE": "SOFI: SILVER LEADERBOARD"
+    "LEADERBOARD_DESCRIPTION": "Este comando criará uma classificação em forma de embed dos melhores jogadores em várias categorias",
+    "EMBED_SILVER_TITLE": "SOFI: SILVER LEADERBOARD",
+    "EMBED_ACH_TITLE": "SOFI: ACHIEVEMENTS LEADERBOARD",
+    "MENU_ACHIEVEMENTS_LABEL": "Conquistas"
 }

@@ -1,7 +1,10 @@
 {
-  "PRIVATE_DESCRIPTION": "Priva sua coleção, wishlist ou inventário",
-  "PVT_CATEGORY": "Configurações",
-
-  "PRIVATE_ENABLED": "{{author}} Sua **{{content}}** agora está privada",
-  "PRIVATE_DISABLED": "{{author}} Sua **{{content}}** não está mais privada"
+    "PRIVATE_DESCRIPTION": "Use este comando para tornar privada uma parte da sua conta. Uma seção privada não será mais visível para outros jogadores. Usar este comando sozinho mostrará sua configuração atual para essas seções",
+    "PVT_CATEGORY": "Configurações",
+    "PRIVATE_ENABLED": "{{author}} Sua **{{content}}** agora está privada",
+    "PRIVATE_DISABLED": "{{author}} Sua **{{content}}** não está mais privada",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+    "PVT_PUBLIC": "Público",
+    "PVT_PRIVATE": "Privado",
+    "WRONG_ARGUMENTS": "{{author}} Uso Correto: `{{prefix}}pvt <C/WL/INV/VT>`"
 }

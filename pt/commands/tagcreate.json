@@ -1,10 +1,11 @@
 {
-    "TAGCREATE_DESCRIPTION": "Cria uma \"Tag\"",
+    "TAGCREATE_DESCRIPTION": "Com este comando você pode criar uma tag para categorizar e agrupar várias cartas que se encaixam em seus próprios critérios. Use o comando \"{{prefix}}tag\" para atribuir tags criadas as suas cartas",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Esse emoji é inválido",
-    "INVALID_TAGNAME_FORMAT": "{{author}} O nome da sua `Tag` deve ser alfanumérico e não pode conter caracteres especiais, espaços ou palavrões",
-    "LONG_TAGNAME": "{{author}} O nome da sua `Tag` só pode ter **20** caracteres",
-    "TAGNAME_EXISTS": "{{author}} Você já tem uma `Tag`com esse nome `{{tag}}`",
-    "TAG_CREATED": "{{author}} Criou com sucesso uma `Tag` com o nome: `{{tag}}` | {{emoji}}"
+    "INVALID_TAGNAME_FORMAT": "{{author}} O nome da sua tag deve ser alfanumérico e não pode conter caracteres especiais, espaços ou palavrões de qualquer tipo",
+    "LONG_TAGNAME": "{{author}} O nome da sua tag só pode ter **20** caracteres",
+    "TAGNAME_EXISTS": "{{author}} Você já tem uma tag com esse nome `{{tag}}`",
+    "TAG_CREATED": "{{author}} Criou com sucesso uma tag com o nome: `{{tag}}` | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Você atingiu o número máximo de tags que pode criar"
 }

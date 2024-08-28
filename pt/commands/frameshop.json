@@ -29,7 +29,7 @@
     "EDIT_DESC_SUCCESSFUL": "{{author}} Definiu com sucesso a descrição selecionada para seu **Frame**",
     "FS_UNAVAILABLE": "Indisponível",
     "FRAME_DESCRIPTION": "\nArtista: **{{artist}}**\nCódigo: `{{code}}`\nPreço: **{{price}}**\nCategoria: **{{category}}**\n\n```fix\n{{description}}\n```",
-    "EMBED_FOOTER_two": "Enviado {{count}} dias atrás",
+    "EMBED_FOOTER_two": "Enviado há {{count}} dias atrás",
     "EMBED_FOOTER_few": "Enviado há {{count}} dias atrás",
     "EMBED_FOOTER_other": "Enviado há {{count}} dias atrás",
     "EMBED_FOOTER_many": "Enviado há {{count}} dias atrás",
