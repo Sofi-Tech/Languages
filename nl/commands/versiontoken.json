@@ -2,7 +2,7 @@
     "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
     "PLAYER_NOT_EXIST": "{{author}} Deze speler bestaat niet",
     "VT_CATEGORY": "Cosmetica",
-    "USER_PRIVATE": "{{author}} Deze gebruiker heeft zijn **Versietokens** verzameling ingesteld op privé",
+    "USER_PRIVATE": "{{author}} Deze gebruiker heeft zijn **Version Tokens** verzameling ingesteld op privé",
     "AUTHOR_NO_TOKENS": "{{author}} U heeft nog geen **Version Tokens**",
     "USER_NO_TOKENS": "{{author}} Die gebruiker heeft nog geen **Version Tokens**",
     "NOTHING_FOUND": "Kon geen **Version Tokens** vinden",
@@ -18,5 +18,5 @@
     "SELECT_FILTER": "Selecteer een filter",
     "FILTER_NO_VT_FOUND": "{{author}} Kan geen **Version Tokens** vinden die overeenkomen met uw geselecteerde filter",
     "SORT_VERSION": "Version",
-    "VERSIONTOKEN_DESCRIPTION": "Gebruik deze opdracht om uw verzameling Version Tokens. te bekijken. De collectie kan worden gesorteerd op Naam, Gen, Verlanglijst, Versies"
+    "VERSIONTOKEN_DESCRIPTION": "Gebruik deze commando om uw verzameling Version Tokens. te bekijken. De collectie kan worden gesorteerd op Naam, Gen, Verlanglijst, Versies"
 }

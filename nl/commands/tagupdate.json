@@ -14,7 +14,7 @@
     "REPLACE_NAME_CONFIRMATION": "Weet u zeker dat u de naam van deze tag wilt wijzigen van `{{oldTag}}` naar `{{newTag}}`?",
     "REPLACE_NAME_SUCCESSFUL": "{{author}} De naam van uw tag is met succes gewijzigd van `{{oldTag}}` naar '{{newTag}}'",
     "PROCESS_TERMINATED": "Het proces is geannuleerd",
-    "REPLACE_EMOJI": "Voer de emoji in waarmee je {{emoji}} wilt vervangen",
+    "REPLACE_EMOJI": "Voer de emoji in waarmee u {{emoji}} wilt vervangen",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Dat is een ongeldige emoji",
     "REPLACE_EMOJI_CONFIRMATION": "Weet u zeker dat u de emoji van deze tag wilt wijzigen van {{oldEmoji}} naar {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} De emoji van deze tag is met succes bijgewerkt van {{oldEmoji}} naar {{newEmoji}}"

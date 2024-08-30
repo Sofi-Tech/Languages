@@ -1,15 +1,15 @@
 {
-    "UNDOBACKGROUND_DESCRIPTION": "Als je dit commando op een 3D kaart gebruikt, wordt de achtergrond verwijderd en terug in je inventaris geplaatst",
+    "UNDOBACKGROUND_DESCRIPTION": "Als je dit commando op een 3D kaart gebruikt, wordt de Background verwijderd en terug in uw inventaris geplaatst",
     "UB_CATEGORY": "Cosmetica",
-    "WRONG_USAGE": "{{author}} Juiste gebruik: `{{prefix}}undobg <CardCode>`",
+    "WRONG_USAGE": "{{author}} Correcte gebruik: `{{prefix}}undobg <KaartCode>`",
     "NO_CHARACTER_FOUND": "{{author}} Het personage op deze kaart is niet langer beschikbaar op Sofi en er kan geen interactie mee plaatsvinden",
     "INVALID_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
     "NO_GIF_CARD": "{{author}} U kunt de **Background** van een **GIF** kaart niet verwijderen",
     "NO_BACKGROUND": "{{author}} De kaart heeft geen **Background** toegepast",
     "EMBED_TITLE": "SOFI: REMOVE BACKGROUND",
-    "PROCESS_COST": "Dit proces kost **1** **Wist** en retourneert de **Background** naar je inventaris",
+    "PROCESS_COST": "Dit proces kost **1** **Wist** en retourneert de **Background** naar uw inventaris",
     "NOT_ENOUGH_WIST": "{{author}} U heeft niet genoeg **{{currency}}** om deze **Background** te verwijderen",
     "NO_BG_APPLIED": "{{author}} De kaart heeft geen **Background** toegepast",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} Heeft de **Background** van deze kaart met succes teruggeplaatst in je inventaris",
+    "UNDO_BACKGROUND_SUCCESS": "{{author}} Heeft de **Background** van deze kaart met succes teruggeplaatst in uw inventaris",
     "NO_OWNER": "{{author}} De kaart is niet meer in uw collectie"
 }

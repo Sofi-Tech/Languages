@@ -1,3 +1,6 @@
 {
-    "LEVEL": "Livello"
+    "LEVEL": "Livello",
+    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Settimanale**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Raid 20 volte - {{raidPoints}}/20 \n<:curvedline:979665878503272478> Vai in una missione 15 volte - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bump on [Sofi.gg](https://sofi.gg/bump) 15 volte - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> Drop 100 volte - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Brucia 60 carte - {{burnPoints}}/60 \n<:curvedline:979665878503272478> Punteggio 15000+ in un raid - {{raidScore}}/1",
+    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Mensile**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Vota 50 volte su [Top.gg](https://top.gg/bot/853629533855809596) in un mese - {{votePoints}}/50",
+    "DAILY_TASKS": "### <:1day:1168129639017893949> __**Giornaliero**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Drop 5 volte - {{dropPoints}}/5 \n<:curvedline:979665878503272478> Bump a [Sofi.gg](https://sofi.gg/bump) - {{bumpPoints}}/1 \n<:curvedline:979665878503272478> Morph una carta - {{morphPoints}}/1 \n<:curvedline:979665878503272478> Brucia 3 carte - {{burnPoints}}/3 \n<:curvedline:979665878503272478> Vota su [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote) - {{dblVotePoints}}/1"
 }

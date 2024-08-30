@@ -4,7 +4,7 @@
     "EXTRA_GRAB": "{{user}} Seu **Grab** extra está sendo usado. Você tem **{{remaining}}** sobrando",
     "GRAB_COOLDOWN": "{{user}} Você deve esperar **{{cooldown}}** para reivindicar outra carta",
     "EVENT_GRAB": "{{user}} pegou **{{amount}}** `{{eventItem}}`🍙",
-    "TOOK_CARD": "{{user}} Pegou **{{character}}** Carta (`{{code}}`) | {{elementEmoji}} **{{elementName}}** (**{{eventCardInfo}}**)",
+    "TOOK_CARD": "{{user}} **pegou** a carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "SNATCHED_EVENT_ITEM": "{{winner}} arrebatou **{{amount}}** `{{eventItem}}` de <@{{userId}}>",
     "CANNOT_BE_GRABBED": "{{user}} As cartas abaixo não podem mais ser **pegas**",
     "CARDS_DROPPED_BY": "{{user}} **dropou** cartas",
