@@ -1,7 +1,7 @@
 {
     "TAG_DESCRIPTION": "Met dit commando kunt u een tag aan een kaart toewijzen. Tags zijn een handige functie om meerdere kaarten te categoriseren en te groeperen die aan uw eigen criteria voldoen. Gebruik het commando \"{{prefix}}tagcreate\" om tags te maken",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Juiste gebruik: `{{prefix}}t <TagNaam> <KaartCode>`",
+    "WRONG_USAGE": "{{author}} Correcte gebruik: `{{prefix}}t <TagNaam> <KaartCode>`",
     "NO_TAGS_CREATED": "{{author}} U heeft nog geen tags. Gebruik het commando `{{prefix}}tc <TagNaam> <Emoji>` om er een te maken",
     "TAG_NOT_FOUND": "{{author}} U heeft geen tag met de naam `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} U heeft nog geen kaarten in uw collectie",

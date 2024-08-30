@@ -15,7 +15,7 @@
     "SORT_VERSION": "Version",
     "SORT_CARD": "मूल पत्ता",
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
-    "EMBED_FOOTER": "पृष्ठ: {{page}}/{{totalPages}} | कुल संस्करण टोकन: {{count}}",
+    "EMBED_FOOTER": "पृष्ठ: {{page}}/{{totalPages}} | कुल Version Tokens: {{count}}",
     "SAVE_FILTER": "500 - यह फिल्टर को सहेजे",
     "SELECT_FILTER": "फ़िल्टर चुने",
     "FILTER_NO_VT_FOUND": "{{author}} आपके फ़िल्टर से मिलता हुआ कोई भी **Version Tokens** नहीं मिला"

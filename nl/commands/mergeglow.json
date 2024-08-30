@@ -1,7 +1,7 @@
 {
-    "MERGEGLOW_DESCRIPTION": "Gebruik deze opdracht om 4 verschillende Glows samen te voegen tot 1 Resin, een vereist materiaal bij het maken van Super Glows. Elke samengevoegde Glow wordt permanent uit je inventaris verwijderd",
+    "MERGEGLOW_DESCRIPTION": "Gebruik deze opdracht om 4 verschillende Glows samen te voegen tot 1 Resin, een vereist materiaal bij het maken van Super Glows. Elke samengevoegde Glow wordt permanent uit uw inventaris verwijderd",
     "MG_CATEGORY": "Cosmetica",
-    "GLOW_CODES_MISSING": "{{author}} Juiste gebruik: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
+    "GLOW_CODES_MISSING": "{{author}} Correcte gebruik: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Mistens één van de **Glow** codes die u opgaf is leeg",
     "GLOW_CODES_UNIQUE": "{{author}} U kan dezelfde **Glow** niet meer dan één keer gebruiken voor dit proces",
     "GLOWS_NOT_FOUND": "{{author}} Minstens één van de **Glow** codes die u opgaf is ongeldig of niet in uw inventaris",

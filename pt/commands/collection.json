@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Este comando exibirá sua coleção inteira, que pode ser classificada e filtrada de várias maneiras. Usar este comando com prompts adicionais abrirá o embed com o filtro específico já aplicado a ele. Use o prompt \"t:ut\" além deste comando para destacar todos os cards em sua coleção que atualmente não têm uma tag. Use o comando \"{{prefix}}help filter\" para ver todos os filtros disponíveis",
+    "COLLECTION_DESCRIPTION": "Este comando exibirá sua coleção inteira, que pode ser classificada e filtrada de várias maneiras. Usar este comando com prompts adicionais abrirá a incorporação com o filtro específico já aplicado a ele. Use o prompt \"t:ut\" além deste comando para destacar todos os cards em sua coleção que atualmente não têm uma tag. Use o comando \"{{prefix}}help filter\" para ver todos os filtros disponíveis",
     "SLASH_CMD_DESC": "Exibe a sua coleção de cartas",
     "SLASH_DESC": "Selecione um usuário para ver a coleção dele",
     "SLASH_DESC2": "Insira os filtros que deseja aplicar à coleção",

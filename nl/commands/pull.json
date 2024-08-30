@@ -1,6 +1,6 @@
 {
-    "PULL_DESCRIPTION": "Met deze opdracht kun je Wists en Gems gebruiken om verschillende items te krijgen. Er is ook een kans om een GIF-kaart te krijgen",
-    "PULL_AMT": "{{author}} Juiste gebruik: `{{prefix}}pull <1/10>`",
+    "PULL_DESCRIPTION": "Met deze commando kunt u Wists en Gems gebruiken om verschillende items te krijgen. Er is ook een kans om een GIF kaart te krijgen",
+    "PULL_AMT": "{{author}} Correcte gebruik: `{{prefix}}pull <1/10>`",
     "INFO_1": "U heeft 8 **Fragments** nodig om een **GIF**variant van een personage te maken",
     "INFO_2": "Er zijn maximaal **100** **GIF** varianten per personage",
     "INFO_3": "Verbrand **Fragments** om **Charms** te verkrijgen",
@@ -13,8 +13,8 @@
     "PULL_CHANCES": "**__Waarschijnlijkheden__**",
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
     "ACTIVE_POOL": "**Actief Pool**",
-    "GIF_EMBED_FOOTER": "Je hebt 0,5% kans om een geanimeerde kaart te krijgen bij trekken.",
-    "GIF_CHANCE": "Trek en maak kans op een GIF-kaart",
+    "GIF_EMBED_FOOTER": "U heeft 0,5% kans om een geanimeerde kaart te krijgen bij trekken.",
+    "GIF_CHANCE": "Trek en maak kans op een GIF kaart",
     "GIFS": "GIFs",
-    "GIF_NOTE": "Elk GIF-personage kan maximaal 100 keer worden geclaimd"
+    "GIF_NOTE": "Elk GIF personage kan maximaal 100 keer worden geclaimd"
 }

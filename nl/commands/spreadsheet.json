@@ -1,5 +1,5 @@
 {
-    "SPREADSHEET_DESCRIPTION": "Wanneer u deze opdracht gebruikt, maakt Sofi een .csv-bestand aan met informatie over alle kaarten in uw verzameling. U kunt ook een gedetailleerd .csv-bestand van uw Guild krijgen door de parameter \"Guild\" aan uw prompt toe te voegen",
+    "SPREADSHEET_DESCRIPTION": "Wanneer u deze commando gebruikt, maakt Sofi een .csv-bestand aan met informatie over alle kaarten in uw verzameling. U kunt ook een gedetailleerd .csv-bestand van uw Guild krijgen door de parameter \"Guild\" aan uw prompt toe te voegen",
     "SHEET_CATEGORY": "Instellingen",
     "NO_GUILD_INFO": "{{author}} U zit momenteel niet in een **Guild**",
     "CANNOT_DM": "{{author}} Kan u het spreadsheet bestand niet sturen. Zorg ervoor dat uw directe berichten open zijn!",
