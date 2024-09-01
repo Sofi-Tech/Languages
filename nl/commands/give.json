@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Deze gebruiker staat onder quarantaine",
     "WRONG_USAGE": "{{author}} Correcte gebruik: `{{prefix}}g <g@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} De door u opgegeven kaartcode is ongeldig of bevindt zich niet in uw verzameling",
-    "CARD_LOCKED": "{{author}} De kaart is vergrendeld en kan niet worden weggegeven! Gebruik de commando `{{prefix}} ut <CardCode>` om de kaart te ontgrendelen",
+    "CARD_LOCKED": "{{author}} De kaart is vergrendeld en kan niet worden weggegeven! Gebruik de commando `{{prefix}}ut <CardCode>` om de kaart te ontgrendelen",
     "CANCELLED": "Het proces is geannuleerd",
     "CARD_IN_QUEST": "{{author}} Deze kaart wordt momenteel gebruikt in een zoektocht en kan niet worden weggegeven",
     "AUTHOR_QUARANTINED": "{{author}} U bent in quarantaine geplaatst",
