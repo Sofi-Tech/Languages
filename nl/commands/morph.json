@@ -15,7 +15,7 @@
     "STOLE_MORPH": "Er is iets misgegaan, probeer opnieuw te morphen",
     "NO_ITEM": "{{author}} U heeft niet genoeg **{{item}}**",
     "NO_CARD": "{{author}} De kaart is niet meer in uw collectie",
-    "MORPH_CONFIRM": "{{author}} Succesvol toegepaste**{{morphName}}** morph aan uw kaart",
+    "MORPH_CONFIRM": "{{author}} Succesvol toegepaste **{{morphName}}** morph aan uw kaart",
     "REROLL": "\nU kunt morphs niet ongedaan maken",
     "UNDO_SUCCESSFUL": "\nHerstelde de vorige morph voor **{{amount}}** {{emoji}}",
     "CORRECT_USAGE": "{{author}} Correcte gebruik: `{{prefix}}m <KaartCode> <MorphItem>`",

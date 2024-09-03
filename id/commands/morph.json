@@ -21,7 +21,7 @@
     "CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}m <CardCode> <Morphitem>`",
     "ROLL_MORPH": "Perubahan ini akan hilang setelah 2 menit",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} Kartu **Monochrome 2023 3D** tidak dapat di morph",
-    "CANNOT_APPLY_MNC": "{{author}} Anda tidak dapat menerapkan perubahan {{article}} **{{eventType}}** pada **{{eventCardType}}** atau kartu **3D**",
+    "CANNOT_APPLY_MNC": "{{author}} Anda tidak dapat menerapkan morph {{article}} **{{eventType}}** pada **{{eventCardType}}** atau kartu **3D**",
     "NONE": "Tidak ada",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Setiap percobaan akan dikenakan biaya 1 {{currencyName}}",

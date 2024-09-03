@@ -7,7 +7,7 @@
     "GRAB_EVENT_ITEM": "Seorang pejuang shell sejati! {{winner}} dilindungi {{amount}} 🐚 dari pemain {{userCount}}",
     "CANNOT_BE_GRABBED": "{{user}} Kartu-kartu di bawah ini tidak lagi dapat **diambil**",
     "CARDS_DROPPED_BY": "{{user}} telah **menjatuhkan** kartu",
-    "TOOK_CARD": "{{user}} **mengambil**  kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "TOOK_CARD": "{{user}} **mengambil** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_CARD": "{{winner}} melawan {{user}} dan **mengklaim** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} ** {{elementName}} ** {{eventCardInfo}}",
     "GRAB_VERSION_PLURAL": "{{winner}} melawan **{{userCount}}** pemain lain dan **mengambil** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGunakan perintah `{{prefix}}vt` untuk melihat Version Token ini",
     "GRAB_VERSION": "{{winner}} melawan {{user}} dan **mengambil** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGunakan perintah `{{prefix}}vt` untuk melihat Version Token ini",
