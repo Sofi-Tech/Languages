@@ -9,8 +9,8 @@
     "LISTED": "已列出",
     "NO_LISTINGS_FOUND": "{{user}} 您没有在市场上做任何列表",
     "INFO": "使用 `{{prefix}}ml` 和 `smul` 取消列表一次只能列出一个交易",
-    "FOOTER": "显示结果{{page}}-{{pages}}的{{total}} | {{prefix}}mbuy <订单编号> <数量>",
+    "FOOTER": "显示结果 {{page}}-{{pages}} 的 {{total}} | {{prefix}}mbuy <订单编号> <数量>",
     "EMBED_TITLE": "SOFI: MARKETINFO",
-    "DEAL_INFO": "{{orderNumber}}•{{timer}}•{{dealId}}• 剩余数量：{{stockAmount}}`{{stockEmoji}} |汇率：{{rateAmount}}{{rateEmoji}}",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • 剩余数量：`{{stockAmount}}` {{stockEmoji}} | 汇率：`{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: MARKETINFO"
 }

@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "展示市场上所有可用的订单。您可以通过\"{{prefix}}marketlist\"命令把您的Wist换成Gems",
-    "NO_LISTING_FOUND": "{{author}}在市场上找不到任何订单",
+    "MARKET_DESCRIPTION": "此令会展示市场上所有可用的订单。您可以通过 \"{{prefix}}marketlist\" 命令在市场把您的Wist换成Gems",
+    "NO_LISTING_FOUND": "{{author}}市场上没有找到任何订单",
     "MARKET_WARN": "**平均汇率**: **`{{averageRate}}` |总交易数** : **`{{totalTrades}}`**",
-    "FOOTER": "显示结果{{page}}-{{pages}}的{{total}} | {{prefix}}mbuy <订单编号> <数量>",
-    "DEAL_INFO": "{{orderNumber}}•{{timer}}•{{dealId}}• 剩余数量：{{stockAmount}}`{{stockEmoji}} |汇率：{{rateAmount}}{{rateEmoji}}"
+    "FOOTER": "显示结果 {{page}}-{{pages}} 的 {{total}} | {{prefix}}mbuy <订单编号> <数量>",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • 剩余数量：`{{stockAmount}}` {{stockEmoji}} | 汇率：`{{rateAmount}}` {{rateEmoji}}"
 }
