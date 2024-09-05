@@ -1,11 +1,11 @@
 {
     "SWAP_DESCRIPTION": "Perintah ini dapat digunakan untuk menukar kosmetik tertentu di antara 2 kartu",
     "SWAP_CATEGORY": "Kosmetik",
-    "MENU_FRAME_LABEL": "Bingkai",
+    "MENU_FRAME_LABEL": "Frame",
     "MENU_COLOR_LABEL": "Warna Huruf",
     "MENU_MORPH_LABEL": "Morph",
     "MENU_GLOW_LABEL": "Glow",
-    "MENU_BG_LABEL": "Latar Belakang",
+    "MENU_BG_LABEL": "Background",
     "PROVIDE_CODES": "{{author}} Penggunaan yang benar: `{{prefix}}swap <CardCode1> <CardCode2>`",
     "NO_GIF": "{{author}} Anda tidak dapat menggunakan fungsi ini pada kartu **GIF**",
     "NO_COSMETICS": "{{author}} Kartu Anda tidak memiliki kosmetik yang memenuhi syarat yang dapat ditukar",
@@ -16,9 +16,9 @@
     "MISSING_SWAP_TOKEN": "{{author}} Anda tidak memiliki **Swap Token** untuk proses ini",
     "DOES_NOT_WORK": "{{author}} Anda tidak boleh mencoba mengeksploitasi, Jika anda menemukan bug yang dapat dieksploitasi, harap laporkan ke Staf Sofi secara langsung!",
     "SWAP_SUCCESSFUL": "{{author}} Berhasil menukar kosmetik yang dipilih",
-    "INVAILD_CODE": "{{author}} Setidaknya salah satu kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
+    "INVAILD_CODE": "{{author}} Setidaknya ada salah satu kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "MENU_GENCOLOR_LABEL": "Warna Gen",
-    "MENU_LAYER_LABEL": "Lapisan",
+    "MENU_LAYER_LABEL": "Layer",
     "MENU_NAMECOLOR_LABEL": "Warna Nama",
     "MENU_SERIESCOLOR_LABEL": "Warna Seri"
 }
