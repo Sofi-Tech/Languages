@@ -1,10 +1,10 @@
 {
-    "BGSHOP_DESCRIPTION": "展示 \"背景商店\"",
+    "BGSHOP_DESCRIPTION": "此令会打开Background商店，并且会展示所有为您3D卡片可卖到的Backgrounds。点任何嵌上的名字会打开显示具体Background的网页",
     "BGS_CATEGORY": "化妆品",
-    "BGS_SLASH_DESC": "输入您正在寻找的 \"背景\" 的代码",
-    "EMBED_TITLE": "SOFI: 背景商店",
-    "APPLY_BG": "\n使用 `{{prefix}}buy bg <Background-ID> <Amount>`令购买个**背景**",
-    "VIEW_BACKGROUNDS": "[点此处来查看所有可得的**背景**](<https://sofi.gg/backgrounds>)",
+    "BGS_SLASH_DESC": "请输入您寻找 \"Background\" 的代码",
+    "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
+    "APPLY_BG": "\n使用 `{{prefix}}buy bg <Background-ID> <Amount>`令可购买一个**Background**",
+    "VIEW_BACKGROUNDS": "[点此处可查看所有可得的**Backgrounds**](<https://sofi.gg/backgrounds>)",
     "SHOWING_PAGE": "正在展示页面： {{page}}/{{pages}}",
-    "NO_BG_FOUND": "{{author}} 没有搜到任何拥有该 ID 的 **背景**"
+    "NO_BG_FOUND": "{{author}} 没有搜到任何拥有该 ID 的 **Background**"
 }

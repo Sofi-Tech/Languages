@@ -1,12 +1,12 @@
 {
-    "BACKGROUND_DESCRIPTION": "会在您 3D 卡片上使用一个 \"背景\"",
+    "BACKGROUND_DESCRIPTION": "只要卡片已被转换成3D版，您可使用此令在其上应用一个Background。使用 “{{prefix}}backgroundshop” 令可购买Backgrounds",
     "BG_CATEGORY": "化妆品",
-    "WRONG_USAGE": "{{author}} 正确用法：`{{prefix}}bg <CardCode> <Background-ID>`",
+    "WRONG_USAGE": "{{author}} 正确使用方式：`{{prefix}}bg <CardCode> <Background-ID>`",
     "INVALID_CODE": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
-    "NON_3D_CARDS": "{{author}} 您不能在非 3D 卡片上使用一个**背景**",
+    "NON_3D_CARDS": "{{author}} 无法在非 3D 卡片上应用一个**Background**",
     "BG_NOT_FOUND": "{{author}} 没有搜到任何拥有该 ID 的 **背景**",
-    "EMBED_TITLE": "SOFI: 背景",
-    "EMBED_DESCRIPTION": "您确定要应用 **{{background}}** **背景**到此卡片上？",
-    "USER_NO_BG": "{{author}} 您不拥有那个**背景**",
-    "BG_APPLY_SUCCESSFUL": "{{author}} 成功应用 **{{background}}** **背景**到您的卡片上"
+    "EMBED_TITLE": "SOFI: BACKGROUND",
+    "EMBED_DESCRIPTION": "您确定要在此卡片上应用 **{{background}}** **Background**？",
+    "USER_NO_BG": "{{author}} 您不拥有那个**Background**",
+    "BG_APPLY_SUCCESSFUL": "{{author}} 成功将 **{{background}}** **Background**应用在您卡片上"
 }
