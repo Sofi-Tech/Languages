@@ -1,0 +1,20 @@
+{
+  "GUILDCREATE_DESCRIPTION": "Create A Guild",
+  "GUILDCREATE_CATEGORY": "Guilds",
+  "NAME_REQUIRED": "{{author}} **I don't think you want to create a guild with no name `[Provide guild name]`**",
+  "NAME_CHAR_LIMIT": "{{author}} **Guild name must be less than 25 characters**",
+  "NO_SPECIAL_FONT": "{{author}} **Guild name can't contains special fonts**",
+  "NO_PROFANE": "{{author}} **Guild name contains inappropriate words**",
+  "NEED_ITEM": "{{author}} **You need a {{itemName}} to create a guild**",
+  "ALREADY_IN_GUILD": "{{author}} **You are already part of a guild. Leave the existing guild to join new**",
+  "FOUNDER_INFO": "Founder: {{user}}",
+  "GC_INFO_1": "**You are about to create a guild. This process will consume a {{itemName}}**",
+  "GC_INFO_2": "**If you are ready. Press the {{itemName}} button to create a guild**",
+  "GC_WARNING": "⚠️ Using inappropirate or offensive text in Guilds can lead to deletion without notice irrespective of your progress. If in doubt, ask support beforehand.",
+  "CREATE_BUTTON_LABEL": "Yes, create",
+  "BACK_BUTTON_LABEL": "Go Back",
+  "GUILD_READY": "**The guild is ready. Confirm to finish the creation**",
+  "GUILD_CREATED_INFO": "**Guild created: {{name}}}**",
+  "GUILD_CREATE_SUCCESS": "Success",
+  "GUILD_CREATE_CANCEL": "**The guild creation was cancelled**"
+}

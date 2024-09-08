@@ -1,0 +1,19 @@
+{
+  "GUILDJOIN_DESCRIPTION": "Join a guild requesting Founder or Guildmaster",
+  "GUILDJOIN_CATEGORY": "Guilds",
+  "INVALID_USER": "**Invalid user**",
+  "PROVIDE_USER": "**Mention founder/guildmaster or provide id of user**",
+  "NO_GUILD_FOUND": "**No guild info for user found**",
+  "QUARANTINED_USERS": "**Quarantined users cannot join the guild**",
+  "VERIFY_TO_JOIN": "**Verify on <https://sofi.gg/verify> to join guild**",
+  "ALREADY_IN_GUILD": "**You are already in a guild. Leave the existing guild, to join a new one**",
+  "LEAVING_GUILD": "Leaving guilds frequently is not advised\n**You can join guild {{cooldown}}**",
+  "GUILD_IS_FULL": "**The guild is already full..**",
+  "GJ_EMBED_TITLE": "Guild Join:",
+  "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} **wants to join your guild.\nDo you accept them as an adventurer of your guild?**",
+  "ALLOW_BUTTON_LABEL": "I allow",
+  "DENY_BUTTON_LABEL": "No, Thanks",
+  "GUILD_JOIN_ACCEPT": "{{member}} **accepted {{author}} as an adventurer in their guild**",
+  "GUILD_JOIN_REJECT": "{{member}} **rejected {{author}} to be an adventurer in their guild**",
+  "NOT_FOUNDER": "They are not founder/guildmaster of the guild."
+}

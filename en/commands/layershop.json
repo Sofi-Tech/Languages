@@ -1,0 +1,13 @@
+{
+  "LAYERSHOP_DESCRIPTION": "View layers for cards",
+  "LAYERSHOP_CATEGORY": "Cosmetics",
+  "BUY_LAYER_INFO": "Use the command `{{prefix}}buy layer <Layer-ID> <Amount>` to buy a Layer",
+  "LS_EMBED_TITLE": "SOFI: LAYER SHOP",
+  "LS_PAGE_FOOTER": "Showing Page: {{currentPage}}/{{totalPages}}",
+  "LAYER_NOT_FOUND": "{{author}} Could not find Layer with ID `{{layerId}}`",
+  "LS_NAME": "**Name:** {{name}}",
+  "LS_DESCRIPTION": "**Description:** {{description}}",
+  "LS_PRICE": "**Price:** {{amount}} {{currencyName}} {{currencyEmoji}}",
+  "LS_CATEGORY": "**Category:** {{category}}",
+  "LS_ARTIST": "**Artist:** {{artist}}"
+}
