@@ -14,7 +14,7 @@
     "CREATE_BUTTON_LABEL": "Confirm",
     "BACK_BUTTON_LABEL": "Go Back",
     "GUILD_READY": "Your guild is ready. Confirm to finish the process",
-    "GUILD_CREATED_INFO": "**Guild created: {{name}}**",
-    "GUILD_CREATE_SUCCESS": "Success",
+    "GUILD_CREATED_INFO": "Guild created: **{{name}}**",
+    "GUILD_CREATE_SUCCESS": "Successfully completed the process",
     "GUILD_CREATE_CANCEL": "**The guild creation was cancelled**"
 }
