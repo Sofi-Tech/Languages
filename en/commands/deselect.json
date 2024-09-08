@@ -1,7 +1,7 @@
 {
-  "DESELECT_DESCRIPTION": "Deselect a card",
-  "DESELECT_CATEGORY": "Guilds",
-  "ENTER_VALID_CODE": "{{author}} Enter a valid card code",
-  "NOT_OWN_CARD": "{author}} You do not own that card",
-  "DESELECTED_SUCCESSFULLY": "{{author}} The card was successfully deselected"
+    "DESELECT_DESCRIPTION": "Deselect a card",
+    "DESELECT_CATEGORY": "Guilds",
+    "ENTER_VALID_CODE": "{{author}} Enter a valid card code",
+    "NOT_OWN_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
+    "DESELECTED_SUCCESSFULLY": "{{author}} The card was successfully deselected"
 }
