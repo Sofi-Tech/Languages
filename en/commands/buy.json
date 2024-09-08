@@ -10,7 +10,7 @@
     "INVALID_BG_ID": "{{author}} Could not find any **Background** with that ID",
     "INVALID_ITEM_PROVIDED": "{{user}} The item you provided is invalid",
     "LAYER_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}buy layer <Layer-ID> <Amount>`",
-    "NO_LAYER_FOUND": "{{author}} Could not find any **Layer** with that ID",
+    "NO_LAYER_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
     "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** with ID `{{layerId}}` is limited and can no longer be purchased",
     "BUY_CHARMS_MULTIPLES": "{{author}} You can only buy **Charms** in multiples of 100",
     "BUY_CHARM_CONFIRMATION": "## You are buying {{amount}} {{itemName}} <:xcharm:988729774031638528>",
