@@ -1,17 +1,17 @@
 {
     "GUILDKICK_DESCRIPTION": "Kick member from the guild",
     "GUILDKICK_CATEGORY": "Guilds",
-    "NOT_IN_GUILD": "**You are not in any guild**",
-    "MUST_BE_FOUNDER": "**You must be Founder/Guildmaster of the guild**",
-    "PROVIDE_ID": "**Mention someone or provide a member id**",
-    "USER_NOT_FOUND": "**{{author}} | User not found!**",
-    "CANNOT_KICK": "**You cannot kick yourself**",
+    "NOT_IN_GUILD": "{{author}} You are not in any guild",
+    "MUST_BE_FOUNDER": "{{author}} You must be a **Founder** or **Guildmaster** in the guild to kick members",
+    "PROVIDE_ID": "{{author}} Correct usage: `{{prefix}}gk <@User/UserID>`",
+    "USER_NOT_FOUND": "{{author}} Could not find that user",
+    "CANNOT_KICK": "{{author}} You cannot kick yourself",
     "PLAYER_NOT_EXIST": "{{author}} Could not find that user",
-    "MEMBER_NOT_IN_GUILD": "**That member is not in any guild**",
-    "NOT_IN_YOUR_GUILD": "**The player does not belong to your guild**",
-    "FOUNDER_CANNOT_BE_KICKED": "**Founder/Guildmaster cannot be kicked from the guild**",
+    "MEMBER_NOT_IN_GUILD": "{{author}} That user is not in any guild",
+    "NOT_IN_YOUR_GUILD": "{{author}} This user is not a member of your guild",
+    "FOUNDER_CANNOT_BE_KICKED": "{{author}} You cannot kick a **Founder** or **Guildmaster** from the guild",
     "GK_EMBED_TITLE": "SOFI: KICK GUILD MEMBER",
-    "KICK_CONFIRM": "**Are you sure you want to kick <@{{memberId}}> from the guild?**",
-    "KICK_SUCCESSFUL": "**<@{{memberId}}> was kicked from the guild**",
-    "KICK_CANCEL": "**You decided not to kick <@{{memberId}}> from the guild**"
+    "KICK_CONFIRM": "Are you sure you want to kick <@{{memberId}}> from the guild?",
+    "KICK_SUCCESSFUL": "<@{{memberId}}> has been successfully kicked from the guild",
+    "KICK_CANCEL": "You decided not to kick <@{{memberId}}> from the guild"
 }
