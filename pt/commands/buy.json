@@ -11,5 +11,8 @@
     "INVALID_ITEM_PROVIDED": "{{user}} O item que você forneceu é inválido",
     "BUY_GEN_CONFIRMATION": "## Você está comprando {{count}} {{itemName}} 💳",
     "BUY_CHARM_CONFIRMATION": "## Você está comprando {{amount}} {{itemName}}<:xcharm:988729774031638528>",
-    "BUY_CHARMS_MULTIPLES": "{{author}} Você só pode comprar **Charms** em múltiplos de 100"
+    "BUY_CHARMS_MULTIPLES": "{{author}} Você só pode comprar **Charms** em múltiplos de 100",
+    "LAYER_CORRECT_USAGE": "{{author}} Uso correto:`{{prefix}}comprar uma layer<Layer-ID><Amount> `",
+    "NO_LAYER_FOUND": "{{author}} Não foi possível encontrar uma **Layer** com o ID `{{layerId}}`",
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} A **Layer** com o ID `{{layerId}}` é limitada e não pode mais ser comprada"
 }

@@ -1,1 +1,8 @@
-{}
+{
+    "NO_GUILD_INFO": "{{author}} Tidak dapat menemukan info guild untuk pengguna tersebut",
+    "NOT_MEMBER": "{{author}}Pengguna ini bukan anggota guild anda",
+    "GUILDPROMOTE_DESCRIPTION": "Mempromosikan anggota guild",
+    "GUILDPROMOTE_CATEGORY": "Guild",
+    "GP_CORRECT_USAGE": "{{author}}Penggunaan yang benar: `{{prefix}}gp <@User/UserID>`",
+    "TRANSFER_OWNERSHIP_CANCEL": "Proses telah dibatalkan"
+}

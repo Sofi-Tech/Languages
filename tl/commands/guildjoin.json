@@ -1,1 +1,18 @@
-{}
+{
+    "PROVIDE_USER": "{{author}} I-mention ang **Founder** o **Guildmaster** upang mag-request na sumali sa guild",
+    "GUILDJOIN_DESCRIPTION": "Sumali sa guild sa pamamagitan ng pag-request sa Founder o sa Guildmaster",
+    "GUILDJOIN_CATEGORY": "Mga Guild",
+    "NO_GUILD_FOUND": "{{author}} Hindi mahanap ang guild info ng user na iyon",
+    "QUARANTINED_USERS": "{{author}} Ang mga quarantined na user ay hindi maaaring makasali sa mga guild",
+    "INVALID_USER": "{{author}} Hindi mahanap ang user na iyon",
+    "ALREADY_IN_GUILD": "{{author}} Nakasali ka na sa guild. Iwanan ang iyong kasalukuyang guild para sumali sa bago.",
+    "VERIFY_TO_JOIN": "{{author}} Mag-beripika sa aming [website](https://sofi.gg/verify) upang makasali sa guild",
+    "LEAVING_GUILD": "{{author}} Maaari kang sumali sa ibang guild sa loob ng **{{cooldown}}**",
+    "GUILD_IS_FULL": "{{author}} Wala pang libreng pwesto sa guild na ito",
+    "GUILD_JOIN_CONFIRM": "{{member}}, si {{author}} ay gustong sumali sa iyong guild.\nTinatanggap mo ba siya bilang **Adventurer** ng iyong guild?",
+    "ALLOW_BUTTON_LABEL": "Pumapayag ako",
+    "DENY_BUTTON_LABEL": "Hindi na, salamat",
+    "GUILD_JOIN_ACCEPT": "Si {{member}} ay tinanggap si {{author}} bilang **Adventurer** sa kanilang guild",
+    "GUILD_JOIN_REJECT": "Si {{member}} ay tinanggihan si {{author}} bilang **Adventurer** sa kanilang guild",
+    "NOT_FOUNDER": "{{author}} Ang user na ito ay hindi **Founder** o **Guildmaster** sa guild"
+}

@@ -1,1 +1,17 @@
-{}
+{
+    "DEMOTE_NEWBIE_ERROR": "{{author}} Hanya **Guildmaster** dan **Veteran** yang dapat diturunkan pangkatnya menjadi **Newbie**",
+    "CANT_DEMOTE_FOUNDER": "{{author}} Anda tidak dapat menurunkan pangkat **Founder**",
+    "PROVIDE_GUILD_RANK": "{{author}} Berikan pangkat guild yang ingin diturunkan:\n> {{ranks}}",
+    "GUILDDEMOTE_DESCRIPTION": "Turunkan pangkat anggota guild",
+    "DEMOTED_VETERAN": "{{member}} diturunkan pangkatnya menjadi **Veteran**",
+    "DEMOTE_VETERAN_ERROR": "{{author}} Hanya **Guildmaster** yang dapat diturunkan pangkatnya menjadi **Veteran**",
+    "GUILDDEMOTE_CATEGORY": "Guild",
+    "INVALID_USER_PROVIDED": "{{author}} Tidak dapat menemukan pengguna tersebut",
+    "NO_GUILD_INFO": "{{author}} Tidak dapat menemukan info guild untuk pengguna tersebut",
+    "NOT_GUILD_MEMBER": "{{author}} Pengguna ini bukan anggota guild Anda",
+    "DEMOTED_NEWBIE": "{{member}} diturunkan pangkatnya menjadi **Newbie**",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Hanya **Veteran** yang dapat diturunkan pangkatnya menjadi **Adventurer**",
+    "DEMOTE_OTHERS_ERROR": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat orang lain",
+    "DEMOTED_ADVENTURER": "{{member}} diturunkan pangkatnya menjadi **Adventurer**",
+    "MUST_HAVE_AUTHORITY": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat anggota guild Anda"
+}

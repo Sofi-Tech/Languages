@@ -1,1 +1,24 @@
-{}
+{
+    "MOVES_DESCRIPTION": "Listahan ng mga galaw na magagamit sa laro",
+    "MOVES_CATEGORY": "Mga Guild",
+    "MOVES_ATTACK": "Atake",
+    "MOVES_HEALING": "Paggaling",
+    "MOVES_DEFENCE": "Depensa",
+    "MOVES_SYMBOL": "**Symbol:**",
+    "SERIOUS_PUNCH_RAID_DESCRIPTION": "Palakasin ang iyong atake ng 1.65x-2.05x at magsagawa ng atake na may 135% na pinsala.",
+    "OUTBURST_RAID_DESCRIPTION": "Kakapit sa boss nang galit, na magdudulot ng 85% ng maximum na buhay ng kard na ginagamit + 25% ng kanilang atake bilang pinsala, at maglalagay ng mga sugat sa boss. Ang mga sugat na ito ay mag-uulit ng pinsala ng unang hit tuwing turn hanggang sa mapatumba ang kard. Ang galaw na ito ay kakain ng 20% ng maximum na buhay ng gumagamit bawat turn at isang kard lamang ang maaaring gumamit ng outburst sa isang pagkakataon.",
+    "MOVES_MISCELLANEOUS": "Iba't iba",
+    "MOVES_DEBUFF": "Debuff",
+    "MOVES_UNKNOWN": "Di-tiyak",
+    "DUEL_BUTTON_LABEL": "Duelo",
+    "BOSS_BUTTON_LABEL": "Boss",
+    "CONDITIONS_BUTTON_LABEL": "Mga Kondisyon",
+    "CONDITIONS_EMBED_TITLE": "Mga Kondisyon",
+    "MOVES_CD": "CD:",
+    "MOVES_ID": "ID",
+    "MOVES_DUEL": "**Duelo:**",
+    "MOVES_RAID": "**Raid:**",
+    "MOVES_CAT": "**Kategorya:**",
+    "MOVES_COOLDOWN": "**Cooldown:**",
+    "SERIOUS_PUNCH_DUEL_DESCRIPTION": "Papalakasin ang iyong atake ng 150%-200% at magsasagawa ng isang napakalakas na atake."
+}

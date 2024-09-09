@@ -8,7 +8,7 @@
     "CANCELLED": "过程已取消",
     "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
     "BALANCE": "余额：**{{amount}}** `银币`",
-    "NAME": "姓名：`{{name}}`",
+    "NAME": "名称：**{{name}}**",
     "UNDO": "`Morphs` 恢复: `  {{count}}  `",
     "FAILED": "{{author}} 出了点问题，请重试",
     "HISTORY": "\n历史记录：```{{history}}```",

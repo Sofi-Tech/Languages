@@ -45,7 +45,7 @@
     "DAILY_TASKS": "### <:1day:1168129639017893949> __**Daily**__ (Reseta em {{time}})\n<:curvedline:979665878503272478> Drop 5 vezes - {{dropPoints}}/5 \n<:curvedline:979665878503272478> \nBump em [Sofi.gg](https://sofi.gg/bump) - {{bumpPoints}}/1 <:curvedline:979665878503272478> \nMorph uma carta - {{morphPoints}}/1 <:curvedline:979665878503272478> \nBurn 3 cartas - {{burnPoints}}/3 <:curvedline:979665878503272478> Vote em [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote) - {{dblVotePoints}}/1",
     "NO_DECK_FOUND": "Deck não encontrado. Por favor digite um nome válido de deck",
     "QUEST_REWARD": "Pode obter**{{minimumShards}}**até**{{maximumShards}}** <:_:1168102686785273916> e **{{minimumSilvers}}** até **{{maximumSilvers}}** <:_:915619222229512213>\ncom um adicional **{{luckFactor}}x** ganho obtido\nIrá ganhar **{{questXP}}** experiência por carta",
-    "NOT_AVAILABLE": "Não disponível",
+    "NOT_AVAILABLE": "Indisponível",
     "DECK_SELECTED_many": "{{deck}} está agora disponível em {{quest}} por {{count}} horas",
     "NO_QUEST_AVAILABLE": "Sem quests disponíveis",
     "SELECT_MODAL_LABEL": "Digite o nome do deck",

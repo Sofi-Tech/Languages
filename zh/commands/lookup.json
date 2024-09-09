@@ -1,21 +1,19 @@
 {
-  "LOOKUP_DESCRIPTION": "展示角色的 3D/GIF 版本",
-  "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
-  "CHAR_NF_SENSITIVE": "{{author}}没有找到任何角色，` {{arg}}` 请注意输入 lookup 的大小写!",
-  "EMBED_TITLE": "SOFI: LOOKUP",
-  "SUBMITTED": "提交者: <@{{userID}}>",
-  "EMBED_FOOTER": "使用 scl 查找 Version1 | 使用 ssc 可以提交新的 Versions",
-
-  "MORE": "更多信息",
-  "GIF_LABEL": "GIF 版本",
-  "SERIES": "系列：",
-  "NAME": "名称：",
-
-  "WISHLISTED": "心愿单",
-  "VERSIONS": "版本",
-  "MULTI": "Multi",
-  "EVENTS": "Events",
-  "EVENT": "Event",
-  "UPCOMING_EVENT": "即将开始的Event",
-  "NO_OWNER_FOUND": "没有找到拥有`2D` Version 属有者"
+    "LOOKUP_DESCRIPTION": "展示角色的 3D/GIF 版本",
+    "CHAR_NOT_FOUND": "{{author}}没有找到您要找的角色名字 `{{arg}}`",
+    "CHAR_NF_SENSITIVE": "{{author}}没有找到任何角色，` {{arg}}` 请注意输入 lookup 的大小写!",
+    "EMBED_TITLE": "SOFI: LOOKUP",
+    "SUBMITTED": "提交者: <@{{userID}}>",
+    "EMBED_FOOTER": "使用 scl 查找 Version1 | 使用 ssc 可以提交新的 Versions",
+    "MORE": "更多信息",
+    "GIF_LABEL": "GIF 版本",
+    "SERIES": "系列：",
+    "NAME": "名称：",
+    "WISHLISTED": "心愿单",
+    "VERSIONS": "版本",
+    "MULTI": "Multi",
+    "EVENTS": "Events",
+    "EVENT": "Event",
+    "UPCOMING_EVENT": "即将开始的Event",
+    "NO_OWNER_FOUND": "没有找到拥有`2D` Version 属有者"
 }

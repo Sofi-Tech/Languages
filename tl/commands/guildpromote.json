@@ -1,1 +1,19 @@
-{}
+{
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Tanging **Adventurers** lamang ang maaaring ma-promote sa **Veteran**",
+    "PROVIDE_VETERAN_RANK": "{{author}} Magbigay ng ranggo ng guild para i-promote:\n> **V**eteran",
+    "PROMOTED_TO_VETERAN": "{{member}} ay matagumpay na na-promote bilang **Veteran**",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} ay matagumpay na na-promote sa **Guildmaster**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Tanging **Adventurers** at **Veterans** lamang ang maaaring ma-promote sa **Guildmaster**",
+    "TRANSFER_OWNERSHIP_CANCEL": "Ang proseso ay nakansela",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Tanging **Guildmasters** lamang ang maaaring i-promote bilang **Founder**",
+    "ALREADY_FOUNDER": "{{author}} Ang user na ito ay isa nang **Founder** ng guild",
+    "PROVIDE_FOUNDER_RANK": "{{author}} Magbigay ng ranggo ng guild para i-promote:\n> **F**ounder, **G**uildmaster, **V**eteran",
+    "NOT_MEMBER": "{{author}} Ang user na ito ay hindi miyembro ng iyong guild",
+    "MUST_BE_FOUNDER": "{{author}} Ikaw ay dapat na **Founder** o **Guildmaster** upang mai-angat ang ranggo ng isang miyembro sa inyong guild",
+    "GUILDPROMOTE_CATEGORY": "Mga Guild",
+    "GUILDPROMOTE_DESCRIPTION": "I-angat ang ranggo ng miyembro ng guild",
+    "GP_CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gp <@User/UserID>`",
+    "NO_GUILD_INFO": "{{author}} Hindi mahanap ang guild info ng user na iyon",
+    "TRANSFER_OWNERSHIP_CONFIRM": "**Malapit mo nang mailipat ang pagmamay-ari ng guild kay {{member}}. Sigurado ka ba?**",
+    "TRANSFER_OWNERSHIP_SUCCESS": "**Ang bagong guild founder ay si <@{{memberId}}>**"
+}

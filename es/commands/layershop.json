@@ -1,1 +1,12 @@
-{}
+{
+    "LAYERSHOP_DESCRIPTION": "Este comando abrira un embed e cual mostrara todos los Layers que estan disponibles en venta",
+    "LAYERSHOP_CATEGORY": "Cosmeticos",
+    "BUY_LAYER_INFO": "Usa el comando \"{{prefix}}buy layer <Layer-ID> <Amount>\" para comprar un **Layer**",
+    "LS_PAGE_FOOTER": "Mostrando Pagina: {{currentPage}}/{{totalPages}}",
+    "LAYER_NOT_FOUND": "{{author}} No se pudo encontrar **Layer** con ID `{{layerId}}`",
+    "LS_NAME": "**Nombre:** {{name}}",
+    "LS_DESCRIPTION": "**Descripcion:** {{description}}",
+    "LS_PRICE": "**Precio:** {{amount}} {{currencyEmoji}}",
+    "LS_CATEGORY": "**Categoria:** {{category}}",
+    "LS_ARTIST": "**Artista:** {{artist}}"
+}

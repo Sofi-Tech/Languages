@@ -1,1 +1,20 @@
-{}
+{
+    "NO_RESULTS_FOUND": "{{author}} Không tìm thấy quái vật đó",
+    "MONSTER_DEFEATED_two": "**Đã Đánh Bại:** {{count}} lần",
+    "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Những Người Đánh Bại Bằng Ít Chiêu Thức Nhất**__",
+    "MONSTER_DESCRIPTION": "Xem tất cả quái vật",
+    "MONSTER_ID": "**ID Quái Vật:**",
+    "MONSTER_NAME": "**Tên:**",
+    "MONSTER_CATEGORY": "Bang Hội",
+    "MONSTER_DEFEATED_one": "**Đã Đánh Bại:** {{count}} lần",
+    "MONSTER_DEFEATED_few": "**Đã Đánh Bại:** {{count}} lần",
+    "MONSTER_DEFEATED_other": "**Đã Đánh Bại:** {{count}} lần",
+    "MONSTER_DEFEATED_many": "**Đã Đánh Bại:** {{count}} lần",
+    "MONSTER_CAT": "**Mục:**",
+    "MONSTER_TOP_DEFEATERS": "__**Xếp Hạng Người Đánh Bại**__",
+    "MONSTER_LAST_SPAWNED": "được sinh ra lần cuối vào {{date}} và là",
+    "MONSTER_BOSS_SPAWNED": "{{bossName}} đã được sinh ra **{{spawnCount}}** lần",
+    "NO_PLAYERS_FOUND": "Không tìm thấy người chơi nào",
+    "CATALOGUE_EMBED_TITLE": "__Danh Mục Quái Vật__",
+    "MONSTER_DEFEATED_zero": "**Đã Đánh Bại:** {{count}} lần"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "USELAYER_CATEGORY": "Đồ trang trí",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Bạn không thể áp dụng **Layer** cho thẻ **GIF**",
+    "UL_EMBED_FOOTER": "Chấp nhận quá trình này sẽ huỷ bỏ Layer hiện tại đang được áp dụng",
+    "CARD_NOT_IN_COLLECTION": "{{author}} Thẻ không còn trong bộ sưu tập của bạn nữa",
+    "USE_LAYER_SUCCESSFUL": "{{author}} Áp dụng thành công **{{name}}** **Layer** cho thẻ của bạn",
+    "NO_LAYER_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
+    "UL_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}ul <CardCode> <Layer-ID>`",
+    "USE_LAYER_CONFIRM": "Bạn có chắc muốn áp dụng **{{name}}** **Layer** cho thẻ này không?",
+    "DONT_HAVE_LAYER": "{{author}} Bạn không có **{{name}}** **Layer**",
+    "CARD_INVALID": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "USELAYER_DESCRIPTION": "Lệnh này sẽ áp dụng một Layer vào thẻ mà bạn chọn. Bạn có thể mua Layer bằng cách sử dụng lệnh \"{{prefix}}layershop\""
+}

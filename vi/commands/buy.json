@@ -11,5 +11,8 @@
     "INVALID_BG_ID": "{{author}} Không thể tìm thấy bất kỳ **Background** nào với ID đó",
     "INVALID_ITEM_PROVIDED": "{{user}} Vật phẩm bạn cung cấp là không hợp lệ",
     "BUY_CHARMS_MULTIPLES": "{{author}} Bạn chỉ có thể mua **Charm** theo bội số của 100",
-    "BUY_CHARM_CONFIRMATION": "## Bạn đang mua {{amount}} {{itemName}} <:xcharm:988729774031638528>"
+    "BUY_CHARM_CONFIRMATION": "## Bạn đang mua {{amount}} {{itemName}} <:xcharm:988729774031638528>",
+    "LAYER_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}buy layer <Layer-ID> <Amount>`",
+    "NO_LAYER_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** với ID `{{layerId}}` là giới hạn và không thể mua được nữa"
 }

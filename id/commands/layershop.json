@@ -1,1 +1,12 @@
-{}
+{
+    "LAYERSHOP_CATEGORY": "Kosmetik",
+    "BUY_LAYER_INFO": "Gunakan perintah \"{{prefix}}buy layer <Layer-ID> <Amount>\" untuk membeli **Layer**",
+    "LS_PAGE_FOOTER": "Menampilkan Halaman: {{currentPage}}/{{totalPages}}",
+    "LAYER_NOT_FOUND": "{{author}} Tidak dapat menemukan **Layer** dengan ID `{{layerId}}`",
+    "LS_NAME": "**Nama:** {{name}}",
+    "LS_DESCRIPTION": "**Deskripsi:** {{description}}",
+    "LS_PRICE": "**Harga:** {{amount}} {{currencyEmoji}}",
+    "LS_CATEGORY": "**Kategori:** {{category}}",
+    "LS_ARTIST": "**Seniman:** {{artist}}",
+    "LAYERSHOP_DESCRIPTION": "Perintah ini akan membuka penyematan yang menampilkan semua Layers yang dapat dibeli sekarang"
+}

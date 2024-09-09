@@ -1,1 +1,7 @@
-{}
+{
+    "DESELECT_DESCRIPTION": "Отменить выбор карты",
+    "DESELECT_CATEGORY": "Гильдии",
+    "ENTER_VALID_CODE": "{{author}} Введите действительный код карты",
+    "DESELECTED_SUCCESSFULLY": "{{author}} Карта была успешно снята с выбора",
+    "NOT_OWN_CARD": "{{author}} Указанный вами код карты либо недействителен, либо отсутствует в вашей коллекции"
+}

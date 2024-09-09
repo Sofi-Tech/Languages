@@ -1,1 +1,19 @@
-{}
+{
+    "ALREADY_FOUNDER": "{{author}} Người dùng này đã là **Founder** của bang hội",
+    "MUST_BE_FOUNDER": "{{author}} Bạn phải là **Founder** hoặc **Guildmaster** để thăng chức thành viên của bang hội",
+    "PROVIDE_FOUNDER_RANK": "{{author}} Cung cấp thứ hạng bang hội để thăng chức:\n> **F**ounder, **G**uildmaster, **V**eteran",
+    "PROVIDE_VETERAN_RANK": "{{author}} Cung cấp thứ hạng bang hội để thăng chức:\n> **V**eteran",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Chỉ **Adventurer** mới có thể được thăng chức thành **Veteran**",
+    "GUILDPROMOTE_DESCRIPTION": "Thăng chức thành viên của bang hội",
+    "GP_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gp <@User/UserID>`",
+    "NO_GUILD_INFO": "{{author}} Không tìm thấy thông tin bang hội nào về người dùng đó",
+    "NOT_MEMBER": "{{author}} Người dùng này không phải là thành viên bang hội của bạn",
+    "PROMOTED_TO_VETERAN": "{{member}} đã được thăng chức thành **Veteran**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "**Bạn sắp chuyển quyền sở hữu bang hội cho {{member}}. Bạn có chắc không?**",
+    "TRANSFER_OWNERSHIP_CANCEL": "Quá trình đã bị huỷ bỏ",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Chỉ **Guildmaster** mới có thể thăng chức thành **Founder**",
+    "TRANSFER_OWNERSHIP_SUCCESS": "**Founder bang hội mới là <@{{memberId}}>**",
+    "GUILDPROMOTE_CATEGORY": "Bang Hội",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} đã được thăng chức thành **Guildmaster**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Chỉ **Adventurer** và **Veteran** mới có thể được thăng chức thành **Guildmaster**"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "LAYERSHOP_CATEGORY": "Cosméticos",
+    "LS_PAGE_FOOTER": "Exibindo página: {{currentPage}}/{{totalPages}}",
+    "LAYER_NOT_FOUND": "{{author}} Não foi possível encontrar a **Layer** com o ID `{{layerId}}`",
+    "LS_NAME": "**Nome:** {{name}}",
+    "LS_DESCRIPTION": "**Descrição:** {{description}}",
+    "LS_PRICE": "**Preço:** {{amount}} {{currencyEmoji}}",
+    "LS_CATEGORY": "**Categoria:** {{category}}",
+    "LS_ARTIST": "**Artista:** {{artist}}",
+    "LAYERSHOP_DESCRIPTION": "Este comando abrirá uma incorporação que mostra todas as Layers que estão atualmente disponíveis para compra",
+    "BUY_LAYER_INFO": "Use o comando \"{{prefix}}buy layer <Layer-ID><Amount> \" para comprar uma **Layer**"
+}

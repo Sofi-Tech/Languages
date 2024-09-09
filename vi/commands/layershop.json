@@ -1,1 +1,12 @@
-{}
+{
+    "LAYERSHOP_CATEGORY": "Đồ trang trí",
+    "LS_PAGE_FOOTER": "Trang: {{currentPage}}/{{totalPages}}",
+    "LS_NAME": "**Tên:** {{name}}",
+    "LS_DESCRIPTION": "**Mô tả:** {{description}}",
+    "LS_PRICE": "**Giá:** {{amount}} {{currencyEmoji}}",
+    "LS_CATEGORY": "**Mục:** {{category}}",
+    "LS_ARTIST": "**Tác giả:** {{artist}}",
+    "LAYER_NOT_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
+    "LAYERSHOP_DESCRIPTION": "Lệnh này sẽ mở một bảng nhúng hiển thị tất cả Layers hiện đang được bán",
+    "BUY_LAYER_INFO": "Sử dụng lệnh \"{{prefix}}buy layer <Layer-ID> <Amount>\" để mua **Layer**"
+}

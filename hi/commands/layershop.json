@@ -1,1 +1,12 @@
-{}
+{
+    "BUY_LAYER_INFO": "**Layer** खरीदने के लिए \"{{prefix}}buy layer <Layer-ID> <Amount>\" का उपयोग करे",
+    "LAYER_NOT_FOUND": "{{author}} इस ID से **Layer** ढूंढने में असमर्थ `{{layerId}}`",
+    "LS_PAGE_FOOTER": "पृष्ट: {{currentPage}}/{{totalPages}}",
+    "LAYERSHOP_CATEGORY": "Cosmetics",
+    "LS_NAME": "**नाम:** {{name}}",
+    "LS_DESCRIPTION": "**विवरण:** {{description}}",
+    "LS_PRICE": "**दाम:** {{amount}}{{currencyEmoji}}",
+    "LS_CATEGORY": "**श्रेणी:** {{category}}",
+    "LS_ARTIST": "**कलाकार:** {{artist}}",
+    "LAYERSHOP_DESCRIPTION": "यह कमांड एक संदेश खोलता है जो सभी उपलब्ध Layers को दर्शाएगा"
+}

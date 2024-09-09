@@ -1,1 +1,7 @@
-{}
+{
+    "DESELECT_DESCRIPTION": "Desselecione uma carta",
+    "DESELECT_CATEGORY": "Guilds",
+    "ENTER_VALID_CODE": "{{author}} Insira um código de carta válido",
+    "DESELECTED_SUCCESSFULLY": "{{author}} A carta foi desselecionada com sucesso",
+    "NOT_OWN_CARD": "{{author}} O código da carta que você forneceu é inválido ou não está na sua coleção"
+}
