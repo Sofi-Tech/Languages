@@ -1,12 +1,12 @@
 {
-  "MASSBURN_DESCRIPTION": "大规模烧卡",
-  "IN_ACTIVE_MB": "{{user}} 您已经在使用大规模烧卡功能中。取消上一次指令或者烧掉上一次指令选择的卡片以开始新的大规模烧卡",
-  "PROVIDE_FILTERS": "提供过滤条件以筛选集合：t=标签名，g><=生成，wl><=心愿单",
-  "WRONG_TAG": "{{author}}提供了错误的标签。请重新检查",
-  "NO_CARDS_FOUND": "{{author}}你还没有领取过任何卡片",
-  "CARDS_BURNED": "已经烧毁的卡片数量 {{totalCards}}",
-  "CONFIRM_ASK": "您确定要烧毁这些卡片吗",
-  "MISSING_CARDS": "{{author}}大规模烧卡集合中的卡片缺失。请重试指令",
-  "SUCCESS": "卡片已成功烧掉",
-  "BURN_REWARDS": "烧卡奖励"
+    "MASSBURN_DESCRIPTION": "大规模烧卡",
+    "IN_ACTIVE_MB": "{{user}} 您已经在使用大规模烧卡功能中。取消上一次指令或者烧掉上一次指令选择的卡片以开始新的大规模烧卡",
+    "PROVIDE_FILTERS": "提供过滤条件以筛选集合：t=标签名，g><=生成，wl><=心愿单",
+    "WRONG_TAG": "{{author}}提供了错误的标签。请重新检查",
+    "NO_CARDS_FOUND": "{{author}}你还没有领取过任何卡片",
+    "CARDS_BURNED": "已经烧毁的卡片数量 {{totalCards}}",
+    "CONFIRM_ASK": "您确定要烧毁这些卡片吗",
+    "MISSING_CARDS": "{{author}}大规模烧卡集合中的卡片缺失。请重试指令",
+    "SUCCESS": "卡片已成功烧掉",
+    "BURN_REWARDS": "__奖励__"
 }

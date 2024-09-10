@@ -1,4 +1,5 @@
 {
     "GUILDDEMOTE_DESCRIPTION": "Понизить в должности члена гильдии",
-    "GUILDDEMOTE_CATEGORY": "Гильдии"
+    "GUILDDEMOTE_CATEGORY": "Гильдии",
+    "MUST_HAVE_AUTHORITY": "{{author}} Вы должны быть **Основатель** или **Гильдмастер** чтобы понизить члена своей гильдии"
 }

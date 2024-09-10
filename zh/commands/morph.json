@@ -1,11 +1,11 @@
 {
     "MORPH_DESCRIPTION": "\"Morphs\" 卡片的外观",
     "MORPH_CATEGORY": "化妆品",
-    "CANNOT_MORPH": "{{author}} 该卡片代码无效或不在您的收藏中",
+    "CANNOT_MORPH": "{{author}} 您所提供的卡片代码无效或不在您的收藏中",
     "NO_GIF_MORPHED": "{{author}} `GIF`卡无法转换",
     "CONTINUE": "您想要继续转换这张卡吗?",
     "MORPH_CONFIRMATION": "{{author}}, 您将要`Morph``{{code}}`卡，花费 **350** `银币`",
-    "CANCELLED": "过程已取消",
+    "CANCELLED": "此过程已取消",
     "NOT_ENOUGH_SILVERS": "{{author}}您没有足够的银币来移除发光效果",
     "BALANCE": "余额：**{{amount}}** `银币`",
     "NAME": "名称：**{{name}}**",

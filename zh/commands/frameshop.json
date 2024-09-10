@@ -1,6 +1,6 @@
 {
     "FRAMESHOP_DESCRIPTION": "显示目前在轮换中的“画框”，以及现有的预览",
-    "FS_CATEGORY": "装扮",
+    "FS_CATEGORY": "化妆品",
     "FS_SLASH_DESC": "输入你想要预览的“画框”代码",
     "NO_DESCRIPTION_FOUND": "此“画框”尚无描述",
     "FS_PRICE": "价格: {{price}}",
@@ -13,7 +13,7 @@
     "DISAGREE_BUTTON_LABEL": "否认",
     "FRAME_DESC_EDIT": "点击📜按钮添加描述",
     "EMBED_FRAME_IMAGE_DESC": "**输入新的图像链接**\n请确保你只使用 `media.discordapp.net` 链接!\n新提交的图像也需要符合正确的尺寸!",
-    "EMBED_CANCEL_DESC": "该进程已被取消",
+    "EMBED_CANCEL_DESC": "此过程已取消",
     "EDIT_DESC_ERROR": "{{author}} 你提交的描述无效",
     "EDIT_IMAGE_SUCCESSFUL": "进程已成功完成",
     "EDIT_FRAME_IMG_CONFIRM": "你确定要发送一个 `画框` 编辑请求吗?",

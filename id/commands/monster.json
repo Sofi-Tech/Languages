@@ -7,5 +7,14 @@
     "CATALOGUE_EMBED_TITLE": "_Katalog Monster_",
     "MONSTER_NAME": "**Nama:**",
     "NO_PLAYERS_FOUND": "Tidak ada pemain ditemukan",
-    "MONSTER_DEFEATED_zero": "**Dikalahkan:**{{count}}kali"
+    "MONSTER_DEFEATED_zero": "**Dikalahkan:**{{count}}kali",
+    "MONSTER_DEFEATED_one": "**Dikalahkan:** {{count}} kali",
+    "MONSTER_DEFEATED_two": "**Dikalahkan:** {{count}} kali",
+    "MONSTER_DEFEATED_few": "**Dikalahkan:** {{count}} kali",
+    "MONSTER_DEFEATED_other": "**Dikalahkan:** {{count}} kali",
+    "MONSTER_DEFEATED_many": "**Dikalahkan:** {{count}} kali",
+    "MONSTER_TOP_DEFEATERS": "__**Petarung Teratas**__",
+    "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Petarung Teratas berdasarkan Gerakan yang Paling Sedikit**__",
+    "MONSTER_LAST_SPAWNED": "terakhir muncul pada {{date}} dan sekarang",
+    "MONSTER_BOSS_SPAWNED": "{{bossName}} telah muncul **{{spawnCount}}** kali"
 }

@@ -8,5 +8,5 @@
     "LS_PRICE": "**Preis:** {{amount}} {{currencyEmoji}}",
     "LS_CATEGORY": "**Kategorie:** {{category}}",
     "LS_ARTIST": "**Künstler:** {{artist}}",
-    "LAYER_NOT_FOUND": "{{author}} Es konnte kein **Layer** mit der ID `{{layerId}}` finden"
+    "LAYER_NOT_FOUND": "{{author}} Es konnte kein **Layer** mit der ID `{{layerId}}` gefunden werden"
 }

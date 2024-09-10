@@ -1,1 +1,7 @@
-{}
+{
+    "DESELECTED_SUCCESSFULLY": "{{author}} Die Karte wurde erfolgreich abgewählt",
+    "DESELECT_CATEGORY": "Gilden",
+    "DESELECT_DESCRIPTION": "Wähle eine Karte ab",
+    "NOT_OWN_CARD": "{{author}} Der von dir angegebene Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
+    "ENTER_VALID_CODE": "{{author}} Gebe einen gültigen Kartencode ein"
+}
