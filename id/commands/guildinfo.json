@@ -121,5 +121,7 @@
     "GUILD_MEMBER_MENU_DESC": "Daftar anggota guild",
     "VAULT_MENU_LABEL": "Penyimpanan",
     "VAULT_MENU_DESC": "Informasi Penyimpanan",
-    "GUILD_SERVER_MENU_DESC": "Membuka fitur Undangan Server Guild dengan {{amount}} gems"
+    "GUILD_SERVER_MENU_DESC": "Membuka fitur Undangan Server Guild dengan {{amount}} gems",
+    "CRAFTING_AMOUNT_MODAL_LABEL": "Masukkan jumlah yang ingin dibuat:",
+    "CRAFTING_AMOUNT_MODAL_PLACEHOLDER": "Contoh: 1 | 2 | 3"
 }
