@@ -73,7 +73,7 @@
     "CRAFTING_ITEM_MODAL_LABEL": "Nhập số lượng vật phẩm:",
     "CRAFTING_ITEM_MODAL_PLACEHOLDER": "Ví dụ: 1 | 2 | 3",
     "INVALID_ITEM": "**Số lượng vật phẩm cung cấp không hợp lệ**",
-    "CRAFTING_EMBED_TITLE": "SOFI: CRAFTING {{itemName}}",
+    "CRAFTING_EMBED_TITLE": "SOFI: CRAFTING ({{itemName}})",
     "CRAFTING_AMOUNT_MODAL_LABEL": "Nhập số lượng cần chế tạo:",
     "CRAFTING_AMOUNT_MODAL_PLACEHOLDER": "Ví dụ: 1 | 2 | 3",
     "INVALID_MAX_AMOUNT": "Số lượng cung cấp không hợp lệ | Số lượng tối đa: `{{maxAmount}}`",
