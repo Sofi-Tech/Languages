@@ -1,4 +1,10 @@
 {
-    "GUILDLEADERBOARD_DESCRIPTION": "Menampilkan guild teratas",
-    "GUILDLEADERBOARD_CATEGORY": "Guild"
+    "GUILDLEADERBOARD_DESCRIPTION": "Perintah ini akan menampilkan papan peringkat guild dalam berbagai kategori",
+    "GUILDLEADERBOARD_CATEGORY": "Guild",
+    "SEASON_ENDS": "**Musim Berakhir: {{time}}**",
+    "GRACE_ENDS": "**Grace Berakhir: {{time}}**",
+    "GLB_TOTAL_GUILDS": "Jumlah Guild",
+    "GLB_TOTAL_RAIDS": "Jumlah Raid",
+    "GLB_TOTAL_REVENGE": "Jumlah Balas Dendam",
+    "GLB_EMBED_FOOTER": "S{{season}}: Musim Guild berlangsung selama 24 hari."
 }

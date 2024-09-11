@@ -1,14 +1,14 @@
 {
-    "BUYFRAME_DESCRIPTION": "从 \"Frame Shop\" 里购买 \"Frame\"",
+    "BUYFRAME_DESCRIPTION": "此令是专门用来购买 \"{{prefix}}frameshop\" 里展现出的 Frame，既可以为您的2D卡购买正式Frame，定制Frame，和包裹Frames",
     "BF_CATEGORY": "化妆品",
-    "NO_FRAME_NAME": "{{author}} 请提供您想购买 `Frame` 的代码",
-    "NO_FRAMECODE_FOUND": "{{author}} 没有找到任何 `Frame` 代码是： `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} 那个 `Frame` 现在没有。请使用 `{{prefix}}fs` 来查看目前的 `Frame` 轮流",
-    "FRAME_NOT_PURCHASABLE": "{{author}} 那个 `Frame`是有限定的，已买不到了",
-    "EMBED_TITLE": "SOFI: BUYFRAME",
+    "NO_FRAME_NAME": "{{author}} 请提供您想购买的 **Frame** 代码",
+    "NO_FRAMECODE_FOUND": "{{author}} 没有寻到任何拥有 `{{name}}`代码的 **Frame**",
+    "FRAME_UNAVAILABLE": "{{author}} 该 **Frame** 此刻没有。请使用 `{{prefix}}fs` 令来查看目前的 **Frame** 轮流",
+    "FRAME_NOT_PURCHASABLE": "{{author}} 该 **Frame** 是限定的，已无法在买到",
+    "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "您得到：",
     "YOU_PAY": "您付：",
-    "NO_ENOUGH_AMOUNT": "{{author}} 您没有足够 `{{currency}}` 进行此购买",
-    "TRANSACTION_SUCCESSFUL": "{{author}} 成功购买 **{{frameName}}** `Frame`",
+    "NO_ENOUGH_AMOUNT": "{{author}} 您没有足够 **{{currency}}** 进行此购买",
+    "TRANSACTION_SUCCESSFUL": "{{author}} 成功购买 **{{frameName}}** **Frame**",
     "PROCESS_CANCELLED": "此过程已取消"
 }

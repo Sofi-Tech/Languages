@@ -5,7 +5,7 @@
     "DEMOTE_VETERAN_ERROR": "{{author}} Chỉ **Guildmaster** mới có thể bị giáng chức xuống **Veteran**",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Chỉ **Veteran** mới có thể bị giáng chức xuống **Adventurer**",
     "CANT_DEMOTE_FOUNDER": "{{author}} Bạn không thể giáng chức **Founder**",
-    "GUILDDEMOTE_DESCRIPTION": "Giáng chức thành viên của bang hội",
+    "GUILDDEMOTE_DESCRIPTION": "Lệnh này sẽ giáng chức thành viên của bang hội",
     "GUILDDEMOTE_CATEGORY": "Bang Hội",
     "INVALID_USER_PROVIDED": "{{author}} Không thể tìm thấy người dùng đó",
     "PROVIDE_GUILD_RANK": "{{author}} Cung cấp hạng bang hội để giáng chức:\n> {{ranks}}",

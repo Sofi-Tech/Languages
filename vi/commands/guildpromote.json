@@ -4,7 +4,7 @@
     "PROVIDE_FOUNDER_RANK": "{{author}} Cung cấp thứ hạng bang hội để thăng chức:\n> **F**ounder, **G**uildmaster, **V**eteran",
     "PROVIDE_VETERAN_RANK": "{{author}} Cung cấp thứ hạng bang hội để thăng chức:\n> **V**eteran",
     "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Chỉ **Adventurer** mới có thể được thăng chức thành **Veteran**",
-    "GUILDPROMOTE_DESCRIPTION": "Thăng chức thành viên của bang hội",
+    "GUILDPROMOTE_DESCRIPTION": "Sử dụng lệnh này để thăng chức một thành viên trong bang hội của bạn lên cấp bậc cao hơn",
     "GP_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gp <@User/UserID>`",
     "NO_GUILD_INFO": "{{author}} Không tìm thấy thông tin bang hội nào về người dùng đó",
     "NOT_MEMBER": "{{author}} Người dùng này không phải là thành viên bang hội của bạn",

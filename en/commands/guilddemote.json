@@ -1,5 +1,5 @@
 {
-    "GUILDDEMOTE_DESCRIPTION": "Demote member of the guild",
+    "GUILDDEMOTE_DESCRIPTION": "This command will demote a selected guild member",
     "GUILDDEMOTE_CATEGORY": "Guilds",
     "MUST_HAVE_AUTHORITY": "{{author}} You must be a **Founder** or **Guildmaster** to demote a member of your guild",
     "INVALID_USER_PROVIDED": "{{author}} Could not find that user",

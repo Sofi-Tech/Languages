@@ -1,1 +1,7 @@
-{}
+{
+    "DESELECT_DESCRIPTION": "Désélectionner une carte qui est actuellement utilisée dans un deck",
+    "DESELECT_CATEGORY": "Guildes",
+    "ENTER_VALID_CODE": "{{author}} Entrez un code de carte valide",
+    "DESELECTED_SUCCESSFULLY": "{{author}} La carte a été désélectionnée avec succès",
+    "NOT_OWN_CARD": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection"
+}

@@ -1,5 +1,5 @@
 {
-    "GUILDCREATE_DESCRIPTION": "Create A Guild",
+    "GUILDCREATE_DESCRIPTION": "This command will consume a Guild Stone to create a guild",
     "GUILDCREATE_CATEGORY": "Guilds",
     "NAME_REQUIRED": "{{author}} Correct usage: `{{prefix}}guildcreate <GuildName>`",
     "NAME_CHAR_LIMIT": "{{author}} The name of your guild can only be **25** characters long",

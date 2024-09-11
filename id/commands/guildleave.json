@@ -2,7 +2,7 @@
     "NOT_IN_GUILD": "{{author}} Anda tidak berada di guild mana pun",
     "GUILD_LEAVE_CONFIRM": "Apakah anda yakin ingin keluar dari guild **{{guildName}}**?\n \nSering meninggalkan guild tidak diperbolehkan.\nAnda akan dapat bergabung dengan guild lagi dalam 48 jam.",
     "GD_EMBED_DESCRIPTION": "Anda akan menghapus guild **{{guildName}}**. \nAda **{{size}} anggota** di guildmu. \nGuildnya berada pada level **{{level}}**. \nSemua kemajuan dan sumber daya di brankas akan hilang. \nProses ini tidak dapat diubah. \n\nApakah kamu yakin ingin menghapus guild?",
-    "GUILDLEAVE_DESCRIPTION": "Keluar dari guild",
+    "GUILDLEAVE_DESCRIPTION": "Gunakan perintah ini untuk keluar dari guild Anda saat ini. Setelah keluar dari guild, Anda harus menunggu 48 jam sebelum bergabung dengan guild lain",
     "GUILDLEAVE_CATEGORY": "Guild",
     "I_BUTTON_LABEL": "Aku",
     "SURE_BUTTON_LABEL": "tentu",

@@ -1,5 +1,5 @@
 {
-    "MOVES_DESCRIPTION": "List of moves available in game",
+    "MOVES_DESCRIPTION": "Display a list of all available moves and their description, use the \"{{prefix}}move <Name>\" command to get a more detailed insight",
     "MOVES_CATEGORY": "Guilds",
     "MOVES_DEFENCE": "Defense",
     "MOVES_ATTACK": "Attack",

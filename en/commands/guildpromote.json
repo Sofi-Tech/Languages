@@ -1,5 +1,5 @@
 {
-    "GUILDPROMOTE_DESCRIPTION": "Promote member of guild",
+    "GUILDPROMOTE_DESCRIPTION": "Use this command to promote a member of your guild to a higher rank",
     "GUILDPROMOTE_CATEGORY": "Guilds",
     "MUST_BE_FOUNDER": "{{author}} You must be a **Founder** or **Guildmaster** to promote a member of the guild",
     "GP_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gp <@User/UserID>`",

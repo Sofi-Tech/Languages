@@ -20,5 +20,12 @@
     "MOVES_RAID": "**Raid:**",
     "MOVES_CAT": "**Kategorya:**",
     "MOVES_COOLDOWN": "**Cooldown:**",
-    "SERIOUS_PUNCH_DUEL_DESCRIPTION": "Papalakasin ang iyong atake ng 150%-200% at magsasagawa ng isang napakalakas na atake."
+    "SERIOUS_PUNCH_DUEL_DESCRIPTION": "Papalakasin ang iyong atake ng 150%-200% at magsasagawa ng isang napakalakas na atake.",
+    "OUTBURST_DUEL_DESCRIPTION": "Isakripisyo ang iyong natitirang HP upang magdulot ng pinsala na katumbas ng nawalang HP.",
+    "VENOM_BITE_RAID_DESCRIPTION": "Magdudulot ng 20% na pinsala sa kalaban, mababawasan ang kanilang atake ng 50, at magbibigay ng lason na estado. Ang lasong estado ay nagsisimula sa 120 na pinsala kada-turn, magdadagdag ng 20 pang pinsala kada-turn, at magpapatuloy kahit natalo na ang kard.",
+    "VENOM_BITE_DUEL_DESCRIPTION": "Magdulot ng 40% na pinsala sa kalaban at magbigay ng lason na estado sa kard na inatake. Ang may lasong estado ay magdudulot ng 7% ng maximum na HP ng kalaban bawat pag-ikot habang aktibo ang kard na ito.",
+    "HYPER_BEAM_RAID_DESCRIPTION": "Maglalabas ng isang makapangyarihang beam na atake, na nagdudulot ng 220% na normal na pinsala.",
+    "HYPER_BEAM_DUEL_DESCRIPTION": "Maglalabas ng isang makapangyarihang beam na atake, na nagdudulot ng 140% na normal na pinsala.",
+    "BODY_SHOCK_RAID_DESCRIPTION": "Magdudulot ng 80% na pinsala at babawasan ang susunod na atake ng kalaban ng 60%.",
+    "BODY_SHOCK_DUEL_DESCRIPTION": "Magdudulot ng 80% na pinsala at babawasan ang susunod na atake ng kalaban ng 50%."
 }

@@ -1,3 +1,13 @@
 {
-    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` आईडी वाली **Layer** नहीं मिल सकी"
+    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` आईडी वाली **Layer** नहीं मिल सकी",
+    "USELAYER_CATEGORY": "COSMETICS",
+    "UL_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}ul <CardCode> <Layer-ID>`",
+    "CARD_INVALID": "{{author}} आपके द्वारा प्रदान किये गए पत्ते का कोड या तो अमान्य है या आपके संग्रह में मौजूद नहीं है",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} आप **GIF** कार्ड पर **Layer** नहीं लगा सकते",
+    "USE_LAYER_CONFIRM": "क्या आप वाकई इस पत्ते पर **{{name}}** **Layer** लगाना चाहते हैं?",
+    "UL_EMBED_FOOTER": "इस प्रक्रिया की पुष्टि करने से वर्तमान में लागू Layer नष्ट हो जाएगी",
+    "CARD_NOT_IN_COLLECTION": "{{author}} पत्ता अब आपके संग्रह में मौजूद नहीं है",
+    "USE_LAYER_SUCCESSFUL": "{{author}} आपके पत्ते पर **{{name}}** **Layer** को सफलतापूर्वक लगा दिया गया है",
+    "DONT_HAVE_LAYER": "{{author}} आपके पास **{{name}}** **Layer** नहीं है",
+    "USELAYER_DESCRIPTION": "यह कमांड आपके पसंद के पत्ते पर एक चुने गए Layer को लागू करेगा। आप \"{{prefix}}layershop\" कमांड का उपयोग करके Layers खरीद सकते हैं"
 }
