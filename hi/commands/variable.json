@@ -37,5 +37,6 @@
     "AUTHOR_UNVERIFIED": "{{author}} आप वेरिफाइड नहीं है",
     "ERROR": "{{author}} त्रुटि पाई गई । कृपया दुबारा कोशिश करे।",
     "MODAL_ERROR_RESPONSE": "प्रतिक्रिया को पूर्ण करने में त्रुटि हुई। कृपया दुबारा प्रयास करें!",
-    "PAGE_INFO": "पृष्ठ: {{currentPage}}/{{maxPages}}"
+    "PAGE_INFO": "पृष्ठ: {{currentPage}}/{{maxPages}}",
+    "SOMETHING_WENT_WRONG": "{{author}} कुछ गलत हुआ, कृपया फिर से प्रयास करें"
 }

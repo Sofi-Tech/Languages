@@ -1,3 +1,17 @@
 {
-    "GUILDDEMOTE_DESCRIPTION": "Mit diesem Befehl wird ein ausgewähltes Gildenmitglied degradiert"
+    "GUILDDEMOTE_DESCRIPTION": "Mit diesem Befehl wird ein ausgewähltes Gildenmitglied degradiert",
+    "NO_GUILD_INFO": "{{author}} Es konnte keine Gildeninfo für diesen Benutzer finden",
+    "NOT_GUILD_MEMBER": "{{author}} Dieser Benutzer ist kein Mitglied deiner Gilde",
+    "CANT_DEMOTE_FOUNDER": "{{author}} Du kannst einen **Founder** nicht degradieren",
+    "PROVIDE_GUILD_RANK": "{{author}} Gebe einen Gildenrang zum Zurückstufen an: \n> {{ranks}}",
+    "INVALID_USER_PROVIDED": "{{author}} Dieser Benutzer konnte nicht gefunden werden",
+    "GUILDDEMOTE_CATEGORY": "Gilden",
+    "MUST_HAVE_AUTHORITY": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um ein Mitglied deiner Gilde zurückzustufen",
+    "DEMOTED_VETERAN": "{{member}} wurde zum **Veteran** degradiert",
+    "DEMOTE_VETERAN_ERROR": "{{author}} Nur **Guildmasters** können zu **Veterans** degradiert werden",
+    "DEMOTED_NEWBIE": "{{member}} wurde zum **Newbie** degradiert",
+    "DEMOTE_NEWBIE_ERROR": "{{author}} Nur **Guildmasters** und **Veterans** können zu **Newbies** degradiert werden",
+    "DEMOTED_ADVENTURER": "{{member}} wurde zum **Adventurer** degradiert",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Nur **Veterans** können zu **Adventurers** degradiert werden",
+    "DEMOTE_OTHERS_ERROR": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um andere zu degradieren"
 }

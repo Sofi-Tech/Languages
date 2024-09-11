@@ -1,1 +1,10 @@
-{}
+{
+    "GUILDLEADERBOARD_DESCRIPTION": "Este comando mostrara la tabla e clasificaciones de los gremios en varias categorias",
+    "GUILDLEADERBOARD_CATEGORY": "Gremios",
+    "SEASON_ENDS": "**Final de la Temporada: {{time}}**",
+    "GRACE_ENDS": "**Final del Periodo de Gracia: {{time}}**",
+    "GLB_TOTAL_GUILDS": "Gremios Totales",
+    "GLB_TOTAL_RAIDS": "Raids Totales",
+    "GLB_TOTAL_REVENGE": "Venganzas Totales",
+    "GLB_EMBED_FOOTER": "S{{season}}: Las temporadas de gremios tienen una duracion de 24 dias."
+}

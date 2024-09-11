@@ -1,1 +1,6 @@
-{}
+{
+    "NOT_IN_GUILD": "{{author}} No te encuentras en ningun gremio",
+    "PLAYER_NOT_EXIST": "{{author}} No se pudo encontrar a este usuario",
+    "WITHDRAW_MODAL_PLACEHOLDER": "Ejemplo: 15 Cubes",
+    "DONATE_MODAL_PLACEHOLDER": "Ejemplo: 15 Cubes | Silver y Wists no pueden ser retirados"
+}

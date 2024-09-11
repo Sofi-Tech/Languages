@@ -1,1 +1,17 @@
-{}
+{
+    "ALREADY_IN_GUILD": "{{author}} Ya te uniste a un gremio. Sal de tu gremio actual para ingresar a uno nuevo.",
+    "GUILDJOIN_CATEGORY": "Gremios",
+    "NO_GUILD_FOUND": "{{author}} No se pudo encontrar infromacion de gremio para ese usuario",
+    "QUARANTINED_USERS": "{{author}} Usuarios en cuarentena no pueden ingresar a gremios",
+    "LEAVING_GUILD": "{{author}} Puedes ingresar a otro gremio en **{{cooldown}}**",
+    "GUILD_IS_FULL": "{{author}} No hay espacios libres en este gremio",
+    "ALLOW_BUTTON_LABEL": "Yo acepto",
+    "DENY_BUTTON_LABEL": "No, gracias",
+    "GUILD_JOIN_ACCEPT": "{{member}} acepto a {{author}} como un **Adventurer** en su gremio",
+    "NOT_FOUNDER": "{{author}} Este usuario no es un **Founder** o **Guildmaster** en el gremio",
+    "GUILDJOIN_DESCRIPTION": "Este comando puede ser usado para enviar un invitacion para unirse a un gremio a un usuario seleccionado. Un Guild Founder o Guildmaster puede aceptar o rechazar tu pedido",
+    "VERIFY_TO_JOIN": "{{author}} Verificate en nuestro [website](https://sofi.gg/verify) para ingresar a un gremio",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} quiere ingresar a tu gremio.\nAceptas a esta persona como **Adventurer** en tu gremio?",
+    "INVALID_USER": "{{author}} No se puedo encontrar a ese usuario",
+    "PROVIDE_USER": "{{author}} Menciona a un **Founder** o **Guildmaster** para pedir ingresar a un gremio"
+}

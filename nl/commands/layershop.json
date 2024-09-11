@@ -1,1 +1,12 @@
-{}
+{
+    "LAYERSHOP_CATEGORY": "Cosmetica",
+    "BUY_LAYER_INFO": "Gebruik de \"{{prefix}}buy layer <Layer-ID> <Amount>\" commando om een **Layer** te kopen",
+    "LS_PAGE_FOOTER": "Pagina weergeven: {{currentPage}}/{{totalPages}}",
+    "LAYER_NOT_FOUND": "{{author}} Kon **Layer** met ID `{{layerId}}` niet vinden",
+    "LS_NAME": "**Naam:** {{name}}",
+    "LS_DESCRIPTION": "**Beschrijving:** {{description}}",
+    "LS_PRICE": "**Prijs:** {{amount}} {{currencyEmoji}}",
+    "LS_CATEGORY": "**Categorie:** {{category}}",
+    "LS_ARTIST": "**Artiest** {{artist}}",
+    "LAYERSHOP_DESCRIPTION": "Deze commando opent een embed die alle Layers toont die momenteel te koop zijn"
+}
