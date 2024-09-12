@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Als u deze commando gebruikt in combinatie met de naam en het bedrag van een artikel, wordt een transactie embed geopend om het specifieke artikel te kopen. Gebruik de opdracht \"{{prefix}}shop\" om alle beschikbare artikelen te bekijken",
+    "BUY_DESCRIPTION": "Als u deze commando gebruikt in combinatie met de naam en het bedrag van een artikel, wordt een transactie embed geopend om het specifieke artikel te kopen. Gebruik de commando \"{{prefix}}shop\" om alle beschikbare artikelen te bekijken",
     "SLASH_DESC": "Voer de naam van het voorwerp in dat u wilt kopen",
     "SLASH_DESC2": "Voer het bedrag in",
     "SLASH_DESC3": "Voer de code in van de Background die u wilt kopen. [WERKT ALLEEN ALS HET ITEM GESELECTEERD IS ALS BACKGROUND]",
@@ -13,6 +13,6 @@
     "BUY_CHARM_CONFIRMATION": "## U bent {{amount}} {{itemName}} <:xcharm:988729774031638528> aan het kopen",
     "BUY_GEN_CONFIRMATION": "## U koopt {{count}} {{itemName}} 💳",
     "NO_LAYER_FOUND": "{{author}} Kon **Layer** met ID `{{layerId}}` niet vinden",
-    "LAYER_CORRECT_USAGE": "{{author}} Correct gebruik: `{{prefix}}buy layer <Layer-ID> <Amount>`",
+    "LAYER_CORRECT_USAGE": "{{author}} Correcte gebruik: `{{prefix}}buy layer <Layer-ID> <Amount>`",
     "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** met ID `{{layerId}}` is beperkt en kan niet langer worden gekocht"
 }

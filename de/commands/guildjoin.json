@@ -1,4 +1,4 @@
 {
-    "GUILDJOIN_DESCRIPTION": "Dieser Befehl kann verwendet werden, um eine Beitrittsanfrage an die Gilde des ausgewählten Spielers zu senden. Der Gildengründer oder Gildenmeister kann dann die Anfrage annehmen oder ablehnen",
-    "ALREADY_IN_GUILD": "{{author}} Du bist der Gilde bereits beigetreten. Verlasse die aktuelle Gilde, um einer neuen beizutreten."
+    "GUILDJOIN_DESCRIPTION": "Dieser Befehl kann verwendet werden, um eine Anfrage an einen Gründer oder Gildenmeister zu senden, um Teil der Gilde zu werden. Der ausgewählte Spieler kann dann deine Anfrage annehmen oder ablehnen",
+    "ALREADY_IN_GUILD": "{{author}} Du bist bereits in einer Gilde. Verlasse die aktuelle Gilde, um einer neuen beizutreten."
 }

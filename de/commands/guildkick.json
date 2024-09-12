@@ -1,3 +1,5 @@
 {
-    "GUILDKICK_DESCRIPTION": "Werfe einen Mitglied aus der Gilde"
+    "GUILDKICK_DESCRIPTION": "Mit diesem Befehl kann von einem Gründer oder Gildenmeister verwendet werden, um ein Mitglied aus der Gilde zu werfen",
+    "NOT_IN_GUILD": "{{author}} Du bist in keiner Gilde",
+    "PLAYER_NOT_EXIST": "{{author}} Der Nutzer konnte nicht gefunden werden"
 }

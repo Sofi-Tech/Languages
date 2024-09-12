@@ -11,5 +11,8 @@
     "INVALID_ITEM_PROVIDED": "{{user}} Sağladığınız öğe geçersiz",
     "BUY_GEN_CONFIRMATION": "## {{count}} \"{{itemName}}\" satın alıyorsunuz",
     "BUY_CHARM_CONFIRMATION": "## {{amount}}{{itemName}} <:xcharm:988729774031638528> satın alıyorsunuz",
-    "BUY_CHARMS_MULTIPLES": "{{author}} **Charms**'ı yalnızca 100'ün katları halinde satın alabilirsiniz"
+    "BUY_CHARMS_MULTIPLES": "{{author}} **Charms**'ı yalnızca 100'ün katları halinde satın alabilirsiniz",
+    "LAYER_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}buy layer <Katman IDsi> <Tutar>`",
+    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` IDsine sahip **Layer** bulunamadı",
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **`{{layerId}}` ID'li **Layer** sınırlıdır ve artık satın alınamaz"
 }

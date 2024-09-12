@@ -30,11 +30,11 @@
     "EMBED_AUTHOR": "SOFI: KULLANICI BİLGİSİ ({{username}} - {{status}})",
     "EMBED_FOOTER": "Kayıt Tarihi: {{date}} önce",
     "UI_PULL": "Çekilenler",
-    "UI_BUMP": "Bumps",
+    "UI_BUMP": "Bumplar",
     "UI_MORPH": "Biçimler",
     "UI_SCRATCHED": "Kazınan",
     "UI_SOLD": "Satıldı",
-    "UI_VOTE": "Votes",
+    "UI_VOTE": "Oylar",
     "UI_DROP": "Düşürülenler",
     "UI_CLAIM": "Alınanlar",
     "UI_BURN": "Yakılmış",
@@ -42,8 +42,9 @@
     "UI_GAMES": "Oyunlar",
     "UI_DAILY": "Günlükler",
     "UI_RECEIVED": "Teslim Alınan",
-    "UI_FRAGS": "Fragments",
+    "UI_FRAGS": "Parçalar",
     "UI_TP_EXPIRED": "Günü Geçmiş",
     "UI_INVITED": "Davet Edilmiş",
-    "LANG_CHANGE_SUCCESS": "{{author}} Diliniz başarıyla **{{language}}** olarak değiştirildi! Çeviri güncellememizin henüz geliştirme aşamasında olduğunu ve mevcut komutlarımızın tamamını kapsamadığını lütfen unutmayın!\n\nÇevrilmemiş komutlar şunları içerir:\n\n- **Güverte**\n- **İstatistikler**\n- **Etkinlik**\n- **Lonca/Baskın Komutları**\n\nBu dili kullanırken herhangi bir eksik metin, hatalı çeviri veya bozuk eklemeler ve işlevlerle karşılaşırsanız, bu sorunları `{{prefix}}slr <Input>` komutunu kullanarak bildirmenizi öneririz. Alternatif olarak bulgularınızı [Resmi Destek Sunucumuza](<https://discord.gg/sofi>) bildirebilirsiniz!"
+    "LANG_CHANGE_SUCCESS": "{{author}} Diliniz başarıyla **{{language}}** olarak değiştirildi! Çeviri güncellememizin henüz geliştirme aşamasında olduğunu ve mevcut komutlarımızın tamamını kapsamadığını lütfen unutmayın!\n\nÇevrilmemiş komutlar şunları içerir:\n\n- **Deste**\n- **İstatistikler**\n- **Etkinlik**\n- **Lonca/Baskın Komutları**\n\nBu dili kullanırken herhangi bir eksik metin, hatalı çeviri veya bozuk eklemeler ve işlevlerle karşılaşırsanız, bu sorunları `{{prefix}}slr <Input>` komutunu kullanarak bildirmenizi öneririz. Alternatif olarak bulgularınızı [Resmi Destek Sunucumuza](<https://discord.gg/sofi>) bildirebilirsiniz!",
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Dilinizi seçin"
 }

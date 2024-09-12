@@ -1,3 +1,4 @@
 {
-    "GUILDLEAVE_DESCRIPTION": "Verwenden diesen Befehl, um deine aktuelle Gilde zu verlassen. Nachdem du eine Gilde verlassen habst, musst du 48 Stunden warten, bevor du einer anderen Gilde beitreten kannst"
+    "GUILDLEAVE_DESCRIPTION": "Verwenden diesen Befehl, um deine aktuelle Gilde zu verlassen oder sie zu löschen, wenn du der Gründer bist. Nachdem du eine Gilde verlassen habst, musst du 48 Stunden warten, bevor du einer anderen Gilde beitreten kannst. ",
+    "NOT_IN_GUILD": "{{author}} Du bist in keiner Gilde"
 }

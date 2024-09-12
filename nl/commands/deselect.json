@@ -1,1 +1,7 @@
-{}
+{
+    "DESELECT_DESCRIPTION": "Dit commando kan worden gebruikt om een kaart te verwijderen uit alle decks waarin deze momenteel is opgeslagen",
+    "DESELECT_CATEGORY": "Guilds",
+    "ENTER_VALID_CODE": "{{author}} Voer een geldige kaartcode in",
+    "DESELECTED_SUCCESSFULLY": "{{author}} De kaart is succesvol gedeselecteerd",
+    "NOT_OWN_CARD": "{{author}} De kaartcode die u heeft opgegeven is ongeldig of zit niet in uw collectie"
+}

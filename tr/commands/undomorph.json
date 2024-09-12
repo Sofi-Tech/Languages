@@ -2,14 +2,14 @@
     "UNDOMORPH_DESCRIPTION": "Bir kartın biçimini kaldırır",
     "UM_CATEGORY": "Kozmetikler",
     "UM_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}um <KartKodu>`",
-    "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu Geçersiz veya koleksiyonunuzda yok",
+    "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu geçersiz veya koleksiyonunuzda değil",
     "NO_CHARACTER": "{{author}} Bu karttaki karakter artık Sofi'de mevcut değil ve onunla etkileşime geçilemez",
     "NO_GIF": "{{author}} **GIF** kartından kozmetik öğeleri kaldıramazsınız",
     "NOT_MORPHED": "{{author}} Bu karta hiçbir biçim uygulanmamış",
     "EMBED_TITLE": "SOFI: BİÇİM KALDIR",
     "UM_CONFIRMATION": "Bu kartın **{{count}}** {{currencyEmoji}} için dönüşümünü kaldırmak istediğinizden emin misiniz?",
     "NO_OWNER": "{{author}} Bu Kart artık koleksiyonunuzda değil",
-    "SOMETHING_WENT_WRONG": "{{author}} Bir sorun oluştu, lütfen tekrar deneyin",
+    "SOMETHING_WENT_WRONG": "{{author}} Bir şeyler ters gitti, lütfen tekrar deneyin",
     "NOT_ENOUGH_SILVERS": "{{author}} Bu İşlem için yeterli **{{currency}}** elinizde bulunmuyor",
     "UM_SUCCESSFUL": "{{author}} Başarıyla bu kartın biçimi kaldırıldı"
 }

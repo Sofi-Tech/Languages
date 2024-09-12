@@ -1,8 +1,8 @@
 {
-    "BACKGROUND_DESCRIPTION": "Bir kart 3 boyutlu versiyonuna dönüştürüldükten sonra, ona bir Arka Plan uygulamak için bu komutu kullanabilirsiniz. Arka planlar \"Backgroundshop\"tan satın alınabilir",
+    "BACKGROUND_DESCRIPTION": "Bir kart 3 boyutlu versiyonuna dönüştürüldükten sonra, ona bir Arka Plan uygulamak için bu komutu kullanabilirsiniz. Arka Plan satın almak için \"{{prefix}}backgroundshop\" komutunu kullanın",
     "BG_CATEGORY": "Kozmetikler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu Geçersiz veya koleksiyonunuzda yok",
+    "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu geçersiz veya koleksiyonunuzda değil",
     "NON_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
     "EMBED_TITLE": "SOFI: ARKA PLAN",
     "EMBED_DESCRIPTION": "Bu karta **{{background}}** **Arka Plan** uygulamak istediğinizden emin misiniz?",

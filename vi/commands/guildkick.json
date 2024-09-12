@@ -7,7 +7,7 @@
     "CANNOT_KICK": "{{author}} Bạn không thể tự đuổi chính mình",
     "MEMBER_NOT_IN_GUILD": "{{author}} Người dùng đó không ở trong bang hội nào",
     "KICK_SUCCESSFUL": "<@{{memberId}}> đã bị đuổi ra khỏi bang hội thành công",
-    "GUILDKICK_DESCRIPTION": "Đuổi một thành viên ra khỏi bang hội",
+    "GUILDKICK_DESCRIPTION": "Lệnh này có thể được dùng bởi một Founder hoặc Guildmaster để đuổi một thành viên ra khỏi bang hội",
     "GUILDKICK_CATEGORY": "Bang Hội",
     "KICK_CANCEL": "Bạn đã quyết định không đuổi <@{{memberId}}> khỏi bang hội",
     "PLAYER_NOT_EXIST": "{{author}} Không tìm thấy người dùng đó",

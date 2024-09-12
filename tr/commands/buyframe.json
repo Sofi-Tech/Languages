@@ -1,5 +1,5 @@
 {
-    "BUYFRAME_DESCRIPTION": "Bu komut özellikle \"Frameshop\" komutundan Çerçeve satın almak için kullanılır; burada 3D olmayan kartlarınız için hem resmi hem de topluluk yapımı Çerçeveler satın alabilirsiniz",
+    "BUYFRAME_DESCRIPTION": "Bu komut özellikle \"{{prefix}}frameshop\" komutundan Çerçeve satın almak için kullanılır; burada 2D kartlarınız için Resmi, Özel ve Paket Çerçeveleri satın alabilirsiniz",
     "BF_CATEGORY": "Kozmetik",
     "NO_FRAME_NAME": "{{author}} Lütfen satın almak istediğiniz **Frame** 'in kodunu belirtin",
     "NO_FRAMECODE_FOUND": "{{author}} `{{name}}` kodunu içeren herhangi bir **Frame** bulunamadı",

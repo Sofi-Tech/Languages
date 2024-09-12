@@ -1,7 +1,7 @@
 {
     "DESELECT_CATEGORY": "Guild",
-    "ENTER_VALID_CODE": "{{author}} Masukkan sebuah kode kartu yang valid",
-    "DESELECT_DESCRIPTION": "Batalkan pilihan kartu yang saat ini digunakan dalam deck",
+    "ENTER_VALID_CODE": "{{author}} Masukkan kode kartu yang valid",
+    "DESELECT_DESCRIPTION": "Perintah ini dapat digunakan untuk menghapus kartu dari dek mana pun yang tersimpan saat ini",
     "DESELECTED_SUCCESSFULLY": "{{author}} Berhasil membatalkan pilihan kartu",
     "NOT_OWN_CARD": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda"
 }

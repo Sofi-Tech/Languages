@@ -1,5 +1,5 @@
 {
-    "GUILDLEAVE_DESCRIPTION": "Use this command to leave your current guild. After leaving a guild, you will have to wait 48 hours before joining another one",
+    "GUILDLEAVE_DESCRIPTION": "Use this command to leave your current guild or delete it if you are a Founder. After leaving a guild, you will have to wait 48 hours before joining another one. ",
     "GUILDLEAVE_CATEGORY": "Guilds",
     "NOT_IN_GUILD": "{{author}} You are not in any guild",
     "I_BUTTON_LABEL": "I",

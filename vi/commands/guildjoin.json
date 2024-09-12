@@ -9,7 +9,7 @@
     "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} muốn tham gia bang hội của bạn.\nBạn có chấp nhận họ là **Adventurer** trong bang hội của bạn?",
     "ALLOW_BUTTON_LABEL": "Tôi đồng ý",
     "DENY_BUTTON_LABEL": "Không, cảm ơn",
-    "GUILDJOIN_DESCRIPTION": "Lệnh này có thể được sử dụng để gửi yêu cầu tham gia vào bang hội của người đang được chọn. Founder hoặc guildmaster sau đó có thể chấp nhận hoặc từ chối yêu cầu đó của bạn",
+    "GUILDJOIN_DESCRIPTION": "Lệnh này có thể được sử dụng để gửi yêu cầu tới Founder hoặc Guildmaster để có thể tham gia bang hội của họ. Người nhận được yêu cầu sau đó có thể chấp nhận hoặc từ chối yêu cầu đó của bạn",
     "PROVIDE_USER": "{{author}} Đề cập một **Founder** hoặc **Guildmaster** để yêu cầu tham gia bang hội",
     "NO_GUILD_FOUND": "{{author}} Không tìm thấy thông tin bang hội nào về người dùng đó",
     "ALREADY_IN_GUILD": "{{author}} Bạn hiện đã tham gia một bang hội. Rời khỏi bang hội hiện tại để tham gia một bang hội mới.",

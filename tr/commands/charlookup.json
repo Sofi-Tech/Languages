@@ -1,7 +1,7 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "- \"scl\" komutunu kullanarak belirli bir karakteri arayabilirsiniz. Bu menüde bir karakterin istatistiklerini, Versiyon/3D/GIF çeşitlerini, ayrıca Gen/Fan skor tablolarını ve Kart ID'lerini kontrol edebilirsiniz.\n- Yeni \"Versions\" için görseller gönderilirken Kart Kimliği gereklidir",
+    "CHARLOOKUP_DESCRIPTION": "Bu komutu kullanarak belirli bir karakteri arayabilirsiniz. Bu menüde bir karakterin istatistiklerini, Versiyon/3D/GIF çeşitlerini, ayrıca Gen/Fan skor tablolarını ve Kart ID'lerini kontrol edebilirsiniz.",
     "CHAR_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```\nNot: '-f' ekinin kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
+    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```düzeltmek\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
     "EMBED_TITLE": "SOFI: KARAKTER ARAMA {{category}}",
     "NORMAL_LABEL": "Versiyon: 1",
     "FAN_PTS_LABEL": "Fan puanı ekle",
@@ -27,7 +27,7 @@
     "NO_OWNER_FOUND": "Henüz kimse bu karakterin **2D** versiyonuna sahip değil",
     "NO_3D_OWNER_FOUND": "Henüz kimse bu karakterin **3D** versiyonuna sahip değil",
     "NO_GIF_OWNER_FOUND": "Henüz kimse bu karakterin **GIF** versiyonuna sahip değil",
-    "NOT_AVAILABLE": "Geçersiz seri",
+    "NOT_AVAILABLE": "Geçersiz Seri",
     "VERSION_LB": "LB Sürümü",
     "EXAMPLE_INFO": "Doğru Format: <Tutar> <Para Birimi>",
     "FAN_PTS_ADDED_two": "{{author}} **{{count}}** puan **{{characterName}}** karakterine başarıyla eklendi!\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
@@ -37,5 +37,8 @@
     "MORE_INFO_LABEL": "Bir seçenek seçiniz",
     "FAN_PTS_ADDED_one": "{{author}} **{{count}}** puan **{{characterName}}** karakterine başarıyla eklendi\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "NO_VERSIONS_FOUND": "Bu karakterin henüz bir Versiyonu yok",
-    "FAN_PTS_ADDED_many": "{{author}} **{{count}}** puan **{{characterName}}** karakterine başarıyla eklendi!\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "FAN_PTS_ADDED_many": "{{author}} **{{count}}** puan **{{characterName}}** karakterine başarıyla eklendi!\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "CL_CREDITS": "**Kredi**: {{credits}}",
+    "CL_PRICE": "**Fiyat**: {{amount}} {{emoji}}",
+    "MINIMUM_POINTS": "Skor tablosunda yer almak için en az 1000 Hayran Puanı eklemelisiniz"
 }

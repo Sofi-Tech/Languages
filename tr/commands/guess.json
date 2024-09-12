@@ -1,5 +1,5 @@
 {
-    "GUESS_DESCRIPTION": "Bir tahmin oyunu başlatmak için bu komutu kullanın. Tahmin oyununa katılan tüm oyuncuların, oyun başladıktan sonra görüntülenen para birimi miktarı envanterlerinden düşülecektir. Rastgele bir İngilizce kelime seçilecek ve ardından karıştırılacaktır. Orijinal kelimeyi sohbete başarıyla yazan ilk kişi, tahmin oyununun kazananı olacak ve tüm giriş ücretlerinin toplamını alacaktır.",
+    "GUESS_DESCRIPTION": "Bir tahmin oyunu başlatmak için bu komutu kullanın. Tahmin oyununa katılan tüm oyuncuların, oyun başladıktan sonra görüntülenen para birimi miktarı envanterlerinden düşülecektir. Rastgele bir İngilizce kelime seçilecek ve ardından karıştırılacaktır. Orijinal kelimeyi sohbete başarıyla yazan ilk kişi, tahmin oyununun kazananı olacak ve tüm giriş ücretlerinin toplamını alacaktır",
     "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}guess <Miktar> <Para birimi>`\nKabul edilen para birimleri: **Silver**, **Wists**, **Gems**, **Cubes**",
     "NO_TP": "{{author}} Bir tahmin oyunu düzenlemek için aktif bir **Trade Pass**'a ihtiyacınız var",
     "NOT_ENOUGH_CURR": "{{user}} Oyuna başlamak için yeterli **{{currency}}** elinizde bulunmuyor",

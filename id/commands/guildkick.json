@@ -5,7 +5,7 @@
     "KICK_CANCEL": "Anda memutuskan untuk tidak mengeluarkan <@{{memberId}} dari guild",
     "CANNOT_KICK": "{{author}} Kamu tidak dapat mengeluarkan dirimu sendiri",
     "KICK_SUCCESSFUL": "<@{{memberId}} telah berhasil dikeluarkan dari guild",
-    "GUILDKICK_DESCRIPTION": "Mengeluarkan member dari guild",
+    "GUILDKICK_DESCRIPTION": "Perintah ini dapat digunakan oleh Founder atau Guildmaster untuk mengeluarkan anggota dari guild",
     "GUILDKICK_CATEGORY": "Guild",
     "PROVIDE_ID": "{{author}} Penggunaan yang benar: `{{prefix}}gk <@User/UserID>`",
     "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",

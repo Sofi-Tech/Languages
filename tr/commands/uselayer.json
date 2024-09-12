@@ -1,1 +1,13 @@
-{}
+{
+    "USELAYER_CATEGORY": "Kozmetik",
+    "UL_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}ul <KartKodu> <Katman Kodu>`",
+    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` IDsine sahip **Layer** bulunamadı",
+    "CARD_INVALID": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} **GIF** kartına **Katman** uygulayamazsınız",
+    "UL_EMBED_FOOTER": "Bu işlemin onaylanması, halihazırda uygulanmakta olan Katmanı yok edecektir",
+    "CARD_NOT_IN_COLLECTION": "{{author}} Kart artık koleksiyonunuzda değil",
+    "DONT_HAVE_LAYER": "{{author}} **{{name}}** **Katman**'a sahip değilsiniz",
+    "USELAYER_DESCRIPTION": "Bu komut seçilen bir Katmanı seçtiğiniz bir karta uygulayacaktır. \"{{prefix}}layershop\" komutunu kullanarak Katmanlar satın alabilirsiniz",
+    "USE_LAYER_SUCCESSFUL": "{{author}} **{{name}}** **Katmanı** kartınıza başarıyla uyguladı",
+    "USE_LAYER_CONFIRM": "**{{name}}** **Katmanı** bu karta uygulamak istediğinizden emin misiniz?"
+}

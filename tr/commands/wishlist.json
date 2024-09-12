@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Bu komutun kullanılması kullanıcının istediği karakterleri listeleyecektir. Kendi istek listenize bir karakter eklemek için \"Wishlistadd\" komutunu kullanın",
+    "WISHLIST_DESCRIPTION": "Bu komutun kullanılması kullanıcının istediği karakterleri listeleyecektir. İstek listenize bir karakter eklemek için \"{{prefix}}wishlistadd\" komutunu kullanın",
     "CATEGORY": "İstek Listesi",
     "USER_NOT_FOUND": "{{author}} Bu kullanıcı bulunamadı",
     "WISHLIST_PRIVATE": "{{author}} Bu kullanıcı istek listesini gizli olarak ayarladı",

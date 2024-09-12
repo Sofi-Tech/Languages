@@ -7,5 +7,5 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** Zaten istek listenizde",
     "CHARACTER_ADDED": "{{author}}, **{{name}}** İstek listenize başarıyla eklendi",
     "EMBED_TITLE": "SOFI: İSTEK LİSTESİNE EKLE",
-    "INCREASE_CAPACITY": "İstek listenizin kapasitesini artırmak için `{{prefix}}wu` veya `{{prefix}}wu max` komutunu kullanın"
+    "INCREASE_CAPACITY": "`{{prefix}}wl` komutunu kullanarak ve {{emoji}} simgesine tıklayarak daha fazla yuvanın kilidini açın"
 }

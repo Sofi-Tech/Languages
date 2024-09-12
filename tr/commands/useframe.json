@@ -1,8 +1,8 @@
 {
-    "USEFRAME_DESCRIPTION": "Bu komut seçilen bir Çerçeveyi istenilen bir karta uygulayacaktır. \"Frameshop\" komutunu kullanarak Çerçeve satın alabilirsiniz",
+    "USEFRAME_DESCRIPTION": "Bu komut seçilen bir Çerçeveyi istenilen bir karta uygulayacaktır. \"{{prefix}}Frameshop\" komutunu kullanarak Çerçeve satın alabilirsiniz",
     "UF_CATEGORY": "Kozmetikler",
-    "UF_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}uf <KartKodu> <ÇerçeveAdı/ÇerçeveKodu>`",
-    "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu Geçersiz veya koleksiyonunuzda yok",
+    "UF_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}uf <KartKodu> <ÇerçeveAdı/$ÇerçeveKodu>`",
+    "INVALID_CODE": "{{author}} Sağladığınız Kart Kodu geçersiz veya koleksiyonunuzda değil",
     "CANNOT_APPLY": "{{author}} Bir **3D** karta **Frame** uygulayamazsınız",
     "NO_GIF": "{{author}} Bir **GIF** kartına **Frame** uygulayamazsınız",
     "NO_FRAMES_FOUND": "{{author}} Bu **Frame** kodu geçersiz veya envanterinizde yok",

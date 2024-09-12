@@ -2,7 +2,7 @@
     "GLOWNAME_DESCRIPTION": "Glow'unuzun adını değiştirmek için bu komutu kullanın",
     "GN_CATEGORY": "Kozmetik",
     "UNLOCK_GLOWS": "{{author}} Henüz hiç **Glows** unuz bulunmamaktadır",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <GlowKodu> <Yeniİsim>`",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gn <#GlowKodu> <Yeniİsim>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} **Glow** kodları her zaman `#` ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız **Glow** kodu ya geçersiz ya da envanterinizde yok",
     "GLOW_NAME_LONG": "{{author}} **Glow**'unuzun adı yalnızca **25** karakter uzunluğunda olabilir",

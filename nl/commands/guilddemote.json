@@ -1,1 +1,17 @@
-{}
+{
+    "INVALID_USER_PROVIDED": "{{author}} Kan die gebruiker niet vinden",
+    "NO_GUILD_INFO": "{{author}} Kan geen guild-informatie vinden voor die gebruiker",
+    "NOT_GUILD_MEMBER": "{{author}} Deze gebruiker is geen lid van je guild",
+    "PROVIDE_GUILD_RANK": "{{author}} Geef een guild rang om te verlagen:\n> {{ranks}}",
+    "DEMOTED_NEWBIE": "{{member}} Is in rang verlaagd tot **Newbie**",
+    "DEMOTE_NEWBIE_ERROR": "{{author}} Alleen **Guildmasters** en **Veterans** kunnen in rang worden verlaagd tot **Newbies**",
+    "DEMOTED_ADVENTURER": "{{member}} Is in rang verlaagd tot **Adventurer**",
+    "GUILDDEMOTE_DESCRIPTION": "Gebruik dit commando om de rang van het geselecteerde gildelid te verlagen. ",
+    "MUST_HAVE_AUTHORITY": "{{author}} Je moet een **Founder** of **Guildmaster** zijn om een lid van je guild te in rang te verlagen",
+    "CANT_DEMOTE_FOUNDER": "{{author}} Je kunt een **Founder** niet in rang verlagen",
+    "DEMOTED_VETERAN": "{{member}} werd in rang verlaagd tot **Veteran**",
+    "DEMOTE_VETERAN_ERROR": "{{author}} Alleen **Guildmasters** kunnen in rang worden verlaagd tot **Veterans**",
+    "GUILDDEMOTE_CATEGORY": "Gildes",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Alleen **Veterans** kunnen in rang worden verlaagd tot **Adventurers**",
+    "DEMOTE_OTHERS_ERROR": "{{author}} Je moet een **Founder** of **Guildmaster** zijn om anderen in rang te verlagen"
+}
