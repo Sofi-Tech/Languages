@@ -32,7 +32,7 @@
     "TYPE_FAV_CHAR": "Enter the name of your favorite character",
     "TYPE_FAV_SERIES": "Enter the name of your favorite series",
     "PROVIDE_FAV_CC": "Enter the code of the card you want to display on your profile",
-    "PROVIDE_PROFILE_RING": "Enter the ID of the Profile Ring to set it. | Type \"none\" to reset.",
+    "PROVIDE_PROFILE_RING": "Type the ID of the Profile Ring to set it. | Type \"none\" to reset.",
     "VIEW_PROFILE_BGS": "[View all available **Profile Backgrounds** here](https://sofi.gg/profile/background)",
     "NON_TRADABLE_NOTE": "Profile Backgrounds cannot be traded in any way",
     "NEED_MIN_AWARDS": "{{author}} You need a minimum of **9** badges in order to use this option",
@@ -99,5 +99,14 @@
     "BUILDING_COMPONENTS": "{{author}} Building components... 🏗️ <a:_:876610443148406794>",
     "COMBINING_ELEMENTS": "{{author}} Combining elements... 🔄 <a:_:876610443148406794>",
     "FINAL_TOUCHES": "{{author}} Applying final touches... ✨ <a:_:876610443148406794>",
-    "GIF_SUCCESSFUL": "{{author}} GIF profile was successfully generated. Use the \"{{prefix}}pro\" command to view it."
+    "GIF_SUCCESSFUL": "{{author}} GIF profile was successfully generated. Use the \"{{prefix}}pro\" command to view it.",
+    "INVALID_RING_ID": "Invalid Profile Ring ID",
+    "NO_RING_FOUND": "Could not find any Profile Ring with that ID",
+    "RING_ALREADY_IN_INV": "You already have that Profile Ring in your inventory",
+    "RING_PURCHASE_SUCCESS": "Successfully purchased the **{{ringName}}** Profile Ring",
+    "PURCHASE_RING_MODAL_LABEL": "Enter the Profile Ring ID",
+    "RING_PURCHASE_MODAL_TITLE": "Purchase Profile Ring",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.g. 101",
+    "SET_RING_CONFIRM": "Are you sure you want to set the **{{ringName}}** Profile Ring?",
+    "NO_ENOUGH_AMOUNT_RING": "You don't have enough **{{currency}}** to purchase this Profile Ring"
 }
