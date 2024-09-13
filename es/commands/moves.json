@@ -1,1 +1,27 @@
-{}
+{
+    "MOVES_CATEGORY": "Gremios",
+    "MOVES_ATTACK": "Ataque",
+    "MOVES_HEALING": "Curación",
+    "MOVES_MISCELLANEOUS": "Miscalena",
+    "MOVES_DEBUFF": "Debuff",
+    "MOVES_UNKNOWN": "Desconocido",
+    "DUEL_BUTTON_LABEL": "Duelo",
+    "BOSS_BUTTON_LABEL": "Jefe",
+    "CONDITIONS_BUTTON_LABEL": "Condiciones",
+    "CONDITIONS_EMBED_TITLE": "Condiciones",
+    "MOVES_ID": "ID",
+    "MOVES_SYMBOL": "**Símbolo:**",
+    "MOVES_DUEL": "**Duelo:**",
+    "MOVES_RAID": "**Raid:**",
+    "MOVES_CAT": "**Categoria:**",
+    "MOVES_COOLDOWN": "**Enfriamiento:**",
+    "VENOM_BITE_RAID_DESCRIPTION": "Causa 20% de daño al oponente, reduce 50 de su ataque, y aplica el estado de envenenamiento. El estado de envenenamiento empieza con 120 de daño por turno, genera 20 más de daño por turno, persiste aun así cuando la carta es derrotada.",
+    "BODY_SHOCK_RAID_DESCRIPTION": "Hace 80% de daño y reduce el próximo ataque del oponente un 60%.",
+    "VISION_STRIKE_RAID_DESCRIPTION": "Genera 20% de daño y fuerza los oponentes a atacar la carta con mayor vida restante. También provee a la carta un boost de 70% de DEF para este turno y el siguiente.",
+    "MOVES_DESCRIPTION": "Muestra una lista con todos los movimientos disponibles y su descripción, us el comando \"{{prefix}}move <Nombre>\" para obtener más detalles",
+    "MOVES_DEFENCE": "Defensa",
+    "MOVES_CD": "CD:",
+    "HYPER_BEAM_RAID_DESCRIPTION": "Libera un poderoso ataque con rayo, causando 320% de daño normal. La carta usada no podrá actuar por 1 turno después de usar este movimiento.",
+    "SERIOUS_PUNCH_RAID_DESCRIPTION": "Aumenta tu stat de ataque por un 1.65x-2.05x y hace un ataque de 135% de daño.",
+    "OUTBURST_RAID_DESCRIPTION": "Se adhiere al jefe en rabia, causando daño con el 85% de la vida máxima de la carta + 25% de su stat de ataque, y aplica heridas al jefe. Esas heridas repetirán el daño de golpe inicial hasta que la carta sea derrotada. Este movimiento consumirá 20% de la vida máxima del usuario cada turno y solo una carta puede usar outburst al mismo tiempo."
+}

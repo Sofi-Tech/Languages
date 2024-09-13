@@ -98,5 +98,14 @@
     "PC_CHARACTER_NOT_FOUND": "{{author}} Không tìm thấy bất kỳ nhân vật nào với tên đó",
     "PC_INTRO": "<:_:979009081325019156> **Giới Thiệu**: Đặt một thông điệp giới thiệu trên hồ sơ\n<:_:979009081325019156> **Nhân Vật Yêu Thích**: Chọn nhân vật yêu thích\n<:_:979009081325019156> **Bộ Yêu Thích**: Chọn bộ yêu thích\n<:_:979009081325019156> **Thẻ Hiển Thị**: Chọn thẻ được hiển thị trên hồ sơ\n<:_:979009081325019156> **Profile Background**: Chọn background cho hồ sơ\n<:_:979009081325019156> **Màu Font**: Đổi màu chữ trên hồ sơ\n<:_:979009081325019156> **Profile Glow**: Áp dụng hiệu ứng phát sáng cho hồ sơ\n<:_:979009081325019156> **Huy Hiệu**: Hiển thị huy hiệu trên hồ sơ\n<:_:979009081325019156> **Màu Hồ Sơ**: Đổi màu cơ bản của hồ sơ\n<:_:979009081325019156> **Profile Ring**: Đặt một chiếc nhẫn vào ảnh đại diện trong hồ sơ\n<:_:979009081325019156> **Bật GIF**: Cho phép sử dụng ảnh động và chọn thẻ cho hồ sơ",
     "GIF_NOTE": "Lưu ý: Nếu đổi hồ sơ của bạn sang GIF sẽ bỏ Glow khỏi hồ sơ của bạn.\nBạn có muốn tiếp tục?",
-    "PBG_PURCHASE_EVENT": "**Profile Background** này chỉ có thể được mua trong thời gian diễn ra sự kiện liên quan đến nó"
+    "PBG_PURCHASE_EVENT": "**Profile Background** này chỉ có thể được mua trong thời gian diễn ra sự kiện liên quan đến nó",
+    "INVALID_RING_ID": "ID **Profile Ring** không hợp lệ",
+    "NO_RING_FOUND": "Không tìm thấy bất cứ **Profile Ring** nào với ID đó",
+    "RING_ALREADY_IN_INV": "Bạn đã có **Profile Ring** đó trong kho đồ rồi",
+    "RING_PURCHASE_SUCCESS": "Mua thành công **{{ringName}}** **Profile Ring**",
+    "PURCHASE_RING_MODAL_LABEL": "Nhập ID Profile Ring",
+    "RING_PURCHASE_MODAL_TITLE": "Mua Profile Ring",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.g. 101",
+    "SET_RING_CONFIRM": "Bạn có chắc chắn muốn thiết lập **{{ringName}}** Profile Ring?",
+    "NO_ENOUGH_AMOUNT_RING": "Bạn không có đủ **{{currency}}** để mua **Profile Ring** này"
 }

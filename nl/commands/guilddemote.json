@@ -11,7 +11,7 @@
     "CANT_DEMOTE_FOUNDER": "{{author}} Je kunt een **Founder** niet in rang verlagen",
     "DEMOTED_VETERAN": "{{member}} werd in rang verlaagd tot **Veteran**",
     "DEMOTE_VETERAN_ERROR": "{{author}} Alleen **Guildmasters** kunnen in rang worden verlaagd tot **Veterans**",
-    "GUILDDEMOTE_CATEGORY": "Gildes",
+    "GUILDDEMOTE_CATEGORY": "Guilds",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Alleen **Veterans** kunnen in rang worden verlaagd tot **Adventurers**",
-    "DEMOTE_OTHERS_ERROR": "{{author}} Je moet een **Founder** of **Guildmaster** zijn om anderen in rang te verlagen"
+    "DEMOTE_OTHERS_ERROR": "{{author}} U moet een **Founder** of **Guildmaster** zijn om anderen in rang te verlagen"
 }

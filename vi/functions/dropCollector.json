@@ -6,5 +6,6 @@
     "GRAB_VERSION_PLURAL": "{{winner}} đã hạ gục **{{userCount}}** người chơi khác và **giành lấy** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
     "GRAB_VERSION": "{{winner}} đã hạ gục {{user}} và **giành lấy** Version Token của {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
     "TOOK_VERSION": "{{winner}} **đã nhặt** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
-    "TOOK_CARD": "{{user}} **đã nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+    "TOOK_CARD": "{{user}} **đã nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Bạn đang bị cách ly hoặc bị đưa vào danh sách đen"
 }
