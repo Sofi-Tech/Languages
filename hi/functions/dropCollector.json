@@ -11,5 +11,6 @@
     "GRAB_CARD": "{{winner}} ने {{user}} से जीत कर **{{character}}** पत्ता प्राप्त किया (`{{code}}`) | {{elementEmoji}} **{{elementName}}** {{eventCardInfo}}",
     "GRAB_VERSION": "{{winner}} ने {{user}} से जीत कर प्राप्त किया **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nइस Version Token को देखने के लिए `{{prefix}}vt` कमांड का उपयोग करें",
     "TOOK_VERSION": "{{winner}} ने {{character}} के Version Token (`{{code}}`) **को प्राप्त किया** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]।\nइस Version Token को देखने के लिए `{{prefix}}vt` कमांड का उपयोग करें",
-    "GRAB_VERSION_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जूझकर प्राप्त किया **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nयह वर्जन टोकन को देखने के लिए`{{prefix}}vt` का उपयोग करें"
+    "GRAB_VERSION_PLURAL": "{{winner}} ने **{{userCount}}** अन्य खिलाड़ियों से जूझकर प्राप्त किया **{{character}}** **Version Token** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nयह वर्जन टोकन को देखने के लिए`{{prefix}}vt` का उपयोग करें",
+    "NOT_ALLOWED_TO_GRAB": "{{user}} या तो आपको संदिग्ध सूची में डाल दिया गया है या आपको क्वारंटीन कर दिया गया है इस लिए आप इस पत्ते को नहीं ले सकते"
 }

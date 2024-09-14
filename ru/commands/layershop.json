@@ -2,5 +2,10 @@
     "LAYERSHOP_CATEGORY": "Косметика",
     "BUY_LAYER_INFO": "Используйте команду \"{{prefix}}buy layer <Layer-ID> <Amount>\" чтобы купить **Layer**",
     "LS_PAGE_FOOTER": "Страница: {{currentPage}}/{{totalPages}}",
-    "LAYER_NOT_FOUND": "{{author}} не удалось найти **Layer** с таким идентификатором"
+    "LAYER_NOT_FOUND": "{{author}} не удалось найти **Layer** с таким идентификатором",
+    "LS_NAME": "**Название:** {{name}}",
+    "LS_DESCRIPTION": "**Описание:** {{description}}",
+    "LS_PRICE": "**Цена:** {{amount}} {{currencyEmoji}}",
+    "LS_CATEGORY": "**Категория:** {{category}}",
+    "LS_ARTIST": "**Художник:** {{artist}}"
 }

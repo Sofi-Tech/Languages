@@ -1,17 +1,17 @@
 {
-    "GUILDDEMOTE_DESCRIPTION": "Используйте эту команду, чтобы понизить ранг выбранного члена гильдии ",
+    "GUILDDEMOTE_DESCRIPTION": "Используйте данную команду, чтобы понизить ранг выбранного участника гильдии ",
     "GUILDDEMOTE_CATEGORY": "Гильдии",
-    "MUST_HAVE_AUTHORITY": "{{author}} Вы должны быть **Founder** или **Guildmaster** чтобы понизить члена своей гильдии",
-    "INVALID_USER_PROVIDED": "{{author}} Не удалось найти этого пользователя",
-    "NOT_GUILD_MEMBER": "{{author}} Этот пользователь не является членом вашей гильдии",
-    "CANT_DEMOTE_FOUNDER": "{{author}} Вы не можете понизить в должности **Founder**",
+    "MUST_HAVE_AUTHORITY": "{{author}} Вы должны быть **Founder** или **Guildmaster**, чтобы понизить участника своей гильдии",
+    "INVALID_USER_PROVIDED": "{{author}} Не удалось найти данного пользователя",
+    "NOT_GUILD_MEMBER": "{{author}} Данный пользователь не является участником вашей гильдии",
+    "CANT_DEMOTE_FOUNDER": "{{author}} Вы не можете понизить **Founder**",
     "DEMOTED_VETERAN": "{{member}} был понижен до **Veteran**",
     "DEMOTED_NEWBIE": "{{member}} был понижен до **Newbie**",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Только **Guildmasters** и **Veterans** могут быть понижены до **Newbies**",
     "DEMOTED_ADVENTURER": "{{member}} был понижен до **Adventurer**",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Только **Veterans** могут быть понижены до **Adventurers**",
-    "NO_GUILD_INFO": "{{author}} Не удалось найти информацию о гильдии для этого пользователя",
+    "NO_GUILD_INFO": "{{author}} Не удалось найти информацию о гильдии для данного пользователя",
     "DEMOTE_VETERAN_ERROR": "{{author}} Только **Guildmasters** могут быть понижены до **Veterans**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Вы должны быть **Founder** или **Guildmaster**, чтобы понижать других",
-    "PROVIDE_GUILD_RANK": "{{author}} Укажите ранг гильдии для понижения: \n> {{ranks}}"
+    "PROVIDE_GUILD_RANK": "{{author}} Укажите ранг участников гильдии для понижения: \n> {{ranks}}"
 }
