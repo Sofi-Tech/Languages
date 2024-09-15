@@ -1,5 +1,16 @@
 {
     "GUILDKICK_DESCRIPTION": "Mit diesem Befehl kann von einem Gründer oder Gildenmeister verwendet werden, um ein Mitglied aus der Gilde zu werfen",
     "NOT_IN_GUILD": "{{author}} Du bist in keiner Gilde",
-    "PLAYER_NOT_EXIST": "{{author}} Der Nutzer konnte nicht gefunden werden"
+    "PLAYER_NOT_EXIST": "{{author}} Der Nutzer konnte nicht gefunden werden",
+    "GUILDKICK_CATEGORY": "Gilden",
+    "PROVIDE_ID": "{{author}} Korrekte Benutzung: `{{prefix}}gk <@User/UserID>`",
+    "USER_NOT_FOUND": "{{author}} Der Nutzer konnte nicht gefunden werden",
+    "CANNOT_KICK": "{{author}} Du kannst dich selbst nicht rauswerfen",
+    "MUST_BE_FOUNDER": "{{author}} Du musst ein **Founder** oder **Guildmaster** in der Gilde sein um Mitglieder rauszuwerfen",
+    "MEMBER_NOT_IN_GUILD": "{{author}} Der Nutzer ist in keiner Gilde",
+    "NOT_IN_YOUR_GUILD": "{{author}} Der Nutzer ist kein Mitglied deiner Gilde",
+    "FOUNDER_CANNOT_BE_KICKED": "{{author}} Du kannst keine **Founder** oder **Guildmaster** aus deiner Gilde werfen",
+    "KICK_CONFIRM": "Bist du dir sicher das du <@{{memberId}}> aus deiner Gilde werfen möchtest?",
+    "KICK_SUCCESSFUL": "<@{{memberId}}> wurde erfolgreich aus deiner Gilde geworfen",
+    "KICK_CANCEL": "Du hast dich entschieden <@{{memberId}}> nicht aus deiner Gilde zu werfen"
 }

@@ -1,11 +1,11 @@
 {
     "PROVIDE_USER": "{{author}} I-mention ang **Founder** o **Guildmaster** upang mag-request na sumali sa guild",
-    "GUILDJOIN_DESCRIPTION": "Sumali sa guild sa pamamagitan ng pag-request sa Founder o sa Guildmaster",
+    "GUILDJOIN_DESCRIPTION": "Maaaring gamitin ang command na ito para magpadala ng kahilingan sa isang Founder o Guildmaster na maging bahagi ng kanilang guild. Maaaring tanggapin o tanggihan ng napiling manlalaro ang iyong kahilingan",
     "GUILDJOIN_CATEGORY": "Mga Guild",
     "NO_GUILD_FOUND": "{{author}} Hindi mahanap ang guild info ng user na iyon",
     "QUARANTINED_USERS": "{{author}} Ang mga quarantined na user ay hindi maaaring makasali sa mga guild",
     "INVALID_USER": "{{author}} Hindi mahanap ang user na iyon",
-    "ALREADY_IN_GUILD": "{{author}} Nakasali ka na sa guild. Iwanan ang iyong kasalukuyang guild para sumali sa bago.",
+    "ALREADY_IN_GUILD": "{{author}} Nasa isang guild ka na. Iwanan ang iyong kasalukuyang guild para sumali sa bago.",
     "VERIFY_TO_JOIN": "{{author}} Mag-beripika sa aming [website](https://sofi.gg/verify) upang makasali sa guild",
     "LEAVING_GUILD": "{{author}} Maaari kang sumali sa ibang guild sa loob ng **{{cooldown}}**",
     "GUILD_IS_FULL": "{{author}} Wala pang libreng pwesto sa guild na ito",

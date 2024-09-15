@@ -1,13 +1,13 @@
 {
-    "NO_LAYER_FOUND": "{{author}} Es konnte kein **Layer** mit dieser ID `{{layerId}}` gefunden werden",
-    "USE_LAYER_SUCCESSFUL": "{{author}} Es wurde erfolgreich der **{{name}}** **Layer** auf deine Karte angewendet",
-    "USE_LAYER_CONFIRM": "Bist du sicher das du den **{{name}}** **Layer** auf diese Karte anwenden willst?",
-    "USELAYER_DESCRIPTION": "Mit diesem Befehl wird ein ausgewählter Layer auf eine Karte deiner Wahl angewendet. Du kannst mit dem Befehl „{{prefix}}layershop“ Layer kaufen",
+    "NO_LAYER_FOUND": "{{author}} Es konnte keine **Layer** mit der ID `{{layerId}}` gefunden werden",
+    "USE_LAYER_SUCCESSFUL": "{{author}} Die **{{name}}** **Layer** wurde erfolgreich auf deine Karte angewendet",
+    "USE_LAYER_CONFIRM": "Bist du sicher, dass du die **{{name}}** **Layer** auf diese Karte anwenden willst?",
+    "USELAYER_DESCRIPTION": "Mit diesem Befehl wird eine ausgewählte Layer auf eine Karte deiner Wahl angewendet. Du kannst Layers mit dem Befehl \"{{prefix}}layershop\" kaufen",
     "USELAYER_CATEGORY": "Kosmetika",
     "UL_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}ul <CardCode> <Layer-ID>`",
-    "CANNOT_APPLY_LAYER_GIF": "{{author}} Du kannst kein **Layer** auf eine **GIF** Karte anwenden",
-    "CARD_INVALID": "{{author}} Der von dir angegebene Kartencode ist entweder ungültig oder nicht in deinerSammlung",
-    "UL_EMBED_FOOTER": "Wenn du diesen Vorgang bestätigst, wird der aktuell angewendete Layer zerstört",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Du kannst keine **Layer** auf eine **GIF** Karte anwenden",
+    "CARD_INVALID": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "UL_EMBED_FOOTER": "Wenn du diesen Vorgang bestätigst, wird die aktuell angewendete Layer zerstört",
     "CARD_NOT_IN_COLLECTION": "{{author}} Die Karte ist nicht mehr in deiner Sammlung",
-    "DONT_HAVE_LAYER": "{{author}} Du hast nicht den **{{name}}** **Layer**"
+    "DONT_HAVE_LAYER": "{{author}} Du hast die **{{name}}** **Layer** nicht"
 }

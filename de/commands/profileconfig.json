@@ -99,5 +99,14 @@
     "NO_PR_FOUND": "Der **Profile Ring** mit der ID `{{id}}`konnte nicht in deinem Inventar gefunden werden",
     "PROVIDE_PROFILE_RING": "Gebe die ID des Profile Ring ein, um diesen auszuwählen. | Schreibe \"none\" zum Zurücksetzen.",
     "GIF_NOTE": "Hinweis: Wenn du dein Profil in ein GIF-Format umwandeln willst, wird der Glow aus deinem Profil entfernt. \nBist du sicher, dass du fortfahren möchtest?",
-    "PBG_PURCHASE_EVENT": "Dieser **Profile Background** war nur während des zugehörigen Events zum Kauf verfügbar"
+    "PBG_PURCHASE_EVENT": "Dieser **Profile Background** war nur während des zugehörigen Events zum Kauf verfügbar",
+    "NO_RING_FOUND": "Konnte keinen **Profile Ring** mit dieser ID finden",
+    "RING_ALREADY_IN_INV": "Du besitzt diesen **Profile Ring** bereits in deinem Inventar",
+    "RING_PURCHASE_SUCCESS": "Erfolgreich den **{{ringName}}** **Profile Ring** gekauft",
+    "PURCHASE_RING_MODAL_LABEL": "Gebe die Profile Ring ID ein",
+    "RING_PURCHASE_MODAL_TITLE": "Kaufe Profil Ring",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.g. 101",
+    "NO_ENOUGH_AMOUNT_RING": "Du hast nicht genug **{{currency}}** um diesen **Profile Ring** zu kaufen",
+    "INVALID_RING_ID": "Ungültige **Profile Ring** ID",
+    "SET_RING_CONFIRM": "Bist du dir sicher, dass du **{{ringName}}** als dein Profil Ring auswählen möchtest?"
 }

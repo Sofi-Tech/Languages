@@ -79,5 +79,19 @@
     "NAME_MODAL_LABEL": "Voer de nieuwe naam voor uw guild in:",
     "IMAGE_WRONG_DIMENSION": "De afmetingen van de afbeelding moeten {{width}} x {{height}} zijn",
     "NAME_NEED_GEMS": "U heeft **{{amount}}** **Gems** nodig in de vault om de guild naam te wijzigen",
-    "FOUNDERS_GM_INVITE": "Alleen Founders en Guildmasters kunnen de uitnodiging instellen"
+    "FOUNDERS_GM_INVITE": "Alleen Founders en Guildmasters kunnen de uitnodiging instellen",
+    "DONATE_MODAL_LABEL": "Voer het aantal en de naam van het item in om te doneren:",
+    "DONATE_MODAL_TITLE": "Doneer aan Vault",
+    "INVALID_ITEM_NAME": "Ongeldige itemnaam opgegeven",
+    "CANNOT_DONATE_SWAPS": "Je kunt geen Swaps doneren aan de vault",
+    "INVALID_AMOUNT": "Ongeldig aantal opgegeven",
+    "NO_AMOUNT_INV": "U heeft dat aantal niet in uw inventaris",
+    "VAULT_EMBED_TITLE": "{{name}} Vault",
+    "DONATED_TO_VAULT": "> {{user}} heeft **{{amount}}** **{{itemName}}** aan de vault gedoneerd",
+    "WITHDRAW_MODAL_TITLE": "Neem op van Vault",
+    "VAULT_NO_AMOUNT": "Er is niet genoeg in de vault",
+    "NO_ITEM_VAULT": "Er zijn geen items in de vault",
+    "DONATE_MODAL_PLACEHOLDER": "Voorbeeld: 15 Cubes | Silver en Wists kunnen niet worden opgenomen",
+    "WITHDRAW_MODAL_PLACEHOLDER": "Voorbeeld: 15 Cubes",
+    "WITHDRAW_MODAL_LABEL": "Voer het bedrag en de naam van het item in dat u wilt opnemen:"
 }

@@ -99,5 +99,14 @@
     "NO_PR_FOUND": "Walang mahanap na **Profile Ring** na may ID na `{{id}}` sa iyong imbentaryo",
     "PROVIDE_PROFILE_RING": "Ilagay ang ID ng Profile Ring para ma-set ito. | I-type ang \"none\" para i-reset ito.",
     "PBG_PURCHASE_EVENT": "Ang **Profile Background** na ito ay mabibili lamang noong panahon ng kaugnay na event",
-    "GIF_NOTE": "Paalala: Ang pagpapalit ng iyong profile sa GIF ay aalisin ang Glow mula sa iyong profile.\nSIgurado ka bang gusto mong magpatuloy?"
+    "GIF_NOTE": "Paalala: Ang pagpapalit ng iyong profile sa GIF ay aalisin ang Glow mula sa iyong profile.\nSIgurado ka bang gusto mong magpatuloy?",
+    "NO_ENOUGH_AMOUNT_RING": "Wala kang sapat na **{{currency}}** para bilhin ang **Profile Ring** na ito",
+    "SET_RING_CONFIRM": "Sigurado ka bang gusto mo i-set ang **{{ringName}}** bilang iyong Profile Ring?",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "hal. 101",
+    "RING_PURCHASE_MODAL_TITLE": "Bumili ng Profile Ring",
+    "PURCHASE_RING_MODAL_LABEL": "Ilagay ang Profile Ring ID",
+    "RING_PURCHASE_SUCCESS": "Matagumpay na nabili ang **{{ringName}}** **Profile Ring**",
+    "NO_RING_FOUND": "Walang mahanap na **Profile Ring** sa ID na iyon",
+    "INVALID_RING_ID": "Hindi tama ang **Profile Ring** ID",
+    "RING_ALREADY_IN_INV": "Mayroon ka nang **Profile Ring** sa iyong imbentaryo"
 }

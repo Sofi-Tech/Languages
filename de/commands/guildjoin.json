@@ -1,4 +1,18 @@
 {
     "GUILDJOIN_DESCRIPTION": "Dieser Befehl kann verwendet werden, um eine Anfrage an einen Gründer oder Gildenmeister zu senden, um Teil der Gilde zu werden. Der ausgewählte Spieler kann dann deine Anfrage annehmen oder ablehnen",
-    "ALREADY_IN_GUILD": "{{author}} Du bist bereits in einer Gilde. Verlasse die aktuelle Gilde, um einer neuen beizutreten."
+    "ALREADY_IN_GUILD": "{{author}} Du bist bereits in einer Gilde. Verlasse die aktuelle Gilde, um einer neuen beizutreten.",
+    "GUILDJOIN_CATEGORY": "Gilden",
+    "NO_GUILD_FOUND": "{{author}} Konnte keine Gildeninfo für diesen Nutzer finden",
+    "QUARANTINED_USERS": "{{author}} Nutzer in Quarantäne können keiner Gilde beitreten",
+    "VERIFY_TO_JOIN": "{{author}} Verifiziere auf unserer [website](https://sofi.gg/verify) um einer Gilde beizutreten",
+    "LEAVING_GUILD": "{{author}} Du kannst einer anderen Gilde beitreten in **{{cooldown}}**",
+    "GUILD_IS_FULL": "{{author}} Es gibt in dieser Gilde keine freien Plätze",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} Möchter deiner Gilde beitreten.\nAkzeptierst du sie als einen **Adventurer** in deiner Gilde?",
+    "ALLOW_BUTTON_LABEL": "Ich akzeptiere",
+    "DENY_BUTTON_LABEL": "Nein, Danke",
+    "GUILD_JOIN_ACCEPT": "{{member}} akzeptiert {{author}} als ein **Adventurer** in seiner Gilde",
+    "GUILD_JOIN_REJECT": "{{member}} lehnte {{author}} ab als einen **Adventurer** in seiner Gilde",
+    "NOT_FOUNDER": "{{author}} Dieser Nutzer ist kein **Founder** oder **Guildmaster** in der Gilde",
+    "INVALID_USER": "{{author}} Der Nutzer konnte nicht gefunden werden",
+    "PROVIDE_USER": "{{author}} Erwähne einen **Founder** oder **Guildmaster** um anzufragen einer Gilde beizutreten"
 }

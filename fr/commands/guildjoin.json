@@ -1,5 +1,5 @@
 {
-    "ALREADY_IN_GUILD": "{{author}} Vous avez déjà rejoint une guilde. Quittez votre guilde actuelle pour en rejoindre une nouvelle.",
+    "ALREADY_IN_GUILD": "{{author}} Vous êtes déjà dans une guilde. Quittez votre guilde actuelle pour en rejoindre une nouvelle.",
     "GUILDJOIN_CATEGORY": "Guildes",
     "INVALID_USER": "{{author}} Impossible de trouver cet utilisateur",
     "NO_GUILD_FOUND": "{{author}} Impossible de trouver les informations de guilde pour cet utilisateur",
@@ -13,5 +13,6 @@
     "VERIFY_TO_JOIN": "{{author}} Vérifiez-vous sur notre [website](https://sofi.gg/verify) pour rejoindre la guilde",
     "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} veut rejoindre votre guilde.\nVoulez vous l'accepter en temps que **Adventurer** dans votre guilde?",
     "LEAVING_GUILD": "{{author}} Vous pouvez rejoindre une nouvelle guilde dans **{{cooldown}}**",
-    "PROVIDE_USER": "{{author}} Mentionnez un **Founder** ou **Guildmaster** pour demander à rejoindre une guilde"
+    "PROVIDE_USER": "{{author}} Mentionnez un **Founder** ou **Guildmaster** pour demander à rejoindre une guilde",
+    "GUILDJOIN_DESCRIPTION": "Cette commande peut être utilisée pour envoyer une demande à un Founder ou Guildmaster afin de rejoindre leur guilde. Le joueur sélectionné pourra ensuite accepter ou rejeter votre demande"
 }

@@ -1,4 +1,19 @@
 {
     "GUILDPROMOTE_DESCRIPTION": "Benutze diesen Befehl, um den Rang des ausgewählten Gildenmitglieds zu erhöhen",
-    "NO_GUILD_INFO": "{{author}} Es konnte keine Gildeninfo für diesen Benutzer finden"
+    "NO_GUILD_INFO": "{{author}} Es konnte keine Gildeninfo für diesen Benutzer finden",
+    "GUILDPROMOTE_CATEGORY": "Gilden",
+    "GP_CORRECT_USAGE": "{{author}} Korrekte Benutzung: `{{prefix}}gp <@User/UserID>`",
+    "NOT_MEMBER": "{{author}} Dieser Nutzer ist kein Mitglied deiner Gilde",
+    "ALREADY_FOUNDER": "{{author}} Dieser Nutzer ist bereits ein **Gründer** der Gilde",
+    "PROVIDE_VETERAN_RANK": "{{author}} Stelle einen Gilden Rang bereit um zu befördern:\n> **V**eteran",
+    "PROMOTED_TO_VETERAN": "{{member}} wurde erfolgreich zu **Veteran** befördert",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Nur **Abenteurer** können zu **Veteran** befördert werden",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} wurde erfolgreich zu **Gildenmeister** befördert",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Nur **Abendteurer** und **Veteran** können zu **Gildenmeister** befördert werden",
+    "TRANSFER_OWNERSHIP_CONFIRM": "**Du bist dabei die Eigentumsrechte der Gilde an {{member}} zu übertragen. Bist du dir sicher?**",
+    "TRANSFER_OWNERSHIP_CANCEL": "Dieser Prozess wurde abgebrochen",
+    "PROVIDE_FOUNDER_RANK": "{{author}} Stelle einen Gilden Rang bereit um zu befördern:\n>**G**ründer, **G**ildenmeister, **V**eteran",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Nur **Gildenmeister** können zu **Gründer** befördert werden",
+    "MUST_BE_FOUNDER": "{{author}} Du musst ein **Gründer** oder **Gildenmeister** sein um andere Mitglieder der Gilde zu befördern",
+    "TRANSFER_OWNERSHIP_SUCCESS": "**Der neuer Gilden Gründer ist <@{{memberId}}>**"
 }

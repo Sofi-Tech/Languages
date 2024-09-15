@@ -7,5 +7,6 @@
     "LS_DESCRIPTION": "**Описание:** {{description}}",
     "LS_PRICE": "**Цена:** {{amount}} {{currencyEmoji}}",
     "LS_CATEGORY": "**Категория:** {{category}}",
-    "LS_ARTIST": "**Художник:** {{artist}}"
+    "LS_ARTIST": "**Художник:** {{artist}}",
+    "LAYERSHOP_DESCRIPTION": "Данная команда откроет вставку, которая покажет все доступные для покупки слои"
 }

@@ -1,3 +1,20 @@
 {
-    "MONSTER_DESCRIPTION": "Mit diesem Befehl wird ein Katalog mit allen verfügbaren Bosse angezeigt. Verwende den Befehl „{{prefix}}monster <Name>“, um einen detaillierteren Einblick zu erhalten"
+    "MONSTER_DESCRIPTION": "Mit diesem Befehl wird ein Katalog mit allen verfügbaren Bosse angezeigt. Verwende den Befehl „{{prefix}}monster <Name>“, um einen detaillierteren Einblick zu erhalten",
+    "MONSTER_CATEGORY": "Gilden",
+    "MONSTER_ID": "**Monster ID:**",
+    "MONSTER_NAME": "**Name:**",
+    "MONSTER_DEFEATED_two": "**Besiegt:** {{count}} mal",
+    "MONSTER_DEFEATED_zero": "**Besiegt:** {{count}} mal",
+    "MONSTER_DEFEATED_few": "**Besiegt:** {{count}} mal",
+    "MONSTER_DEFEATED_other": "**Besiegt:** {{count}} mal",
+    "MONSTER_DEFEATED_many": "**Besiegt:** {{count}} mal",
+    "MONSTER_CAT": "**Kategorie:**",
+    "MONSTER_TOP_DEFEATERS": "__**Beste Besieger**__",
+    "NO_PLAYERS_FOUND": "Keine Spieler gefunden",
+    "NO_RESULTS_FOUND": "{{author}} Konnte das Monster nicht finden",
+    "CATALOGUE_EMBED_TITLE": "__Monster Katalog__",
+    "MONSTER_BOSS_SPAWNED": "{{bossName}} ist **{{spawnCount}}** mal erschienen",
+    "MONSTER_DEFEATED_one": "**Besiegt:** {{count}} mal",
+    "MONSTER_LAST_SPAWNED": "Ist zuletzt erzeugt an {{date}} und ist",
+    "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Beste Besieger nach den letzten Schritten**__"
 }

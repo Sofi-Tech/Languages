@@ -1,4 +1,16 @@
 {
     "GUILDDEMOTE_DESCRIPTION": "चुने गए गिल्ड सदस्य का पद घटाने के लिए यह कमांड का उपयोग करें ",
-    "NO_GUILD_INFO": "{{author}} वह उपयोगकर्ता के गिल्ड की माहिती नही मिल सकी"
+    "NO_GUILD_INFO": "{{author}} वह उपयोगकर्ता के गिल्ड की माहिती नही मिल सकी",
+    "INVALID_USER_PROVIDED": "{{author}} वह उपयोगकर्ता नहीं मिल सका",
+    "NOT_GUILD_MEMBER": "{{author}} वह उपयोगकर्ता आपके गिल्ड का सदस्य नहीं है",
+    "DEMOTED_VETERAN": "{{member}} का पद घटा कर उसे **Veteran** बना दिया गया",
+    "DEMOTED_NEWBIE": "{{member}} का पद घटा कर उसे **Newbie** बना दिया गया",
+    "DEMOTED_ADVENTURER": "{{member}} का पद घटा कर उसे **Adventurer** बना दिया गया",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} केवल **Veterans** का ही पद घटा कर **Adventurers** किया जा सकता है",
+    "MUST_HAVE_AUTHORITY": "{{author}} अपने गिल्ड के किसी सदस्य का पद घटाने के लिए आपको **Founder** या **Guildmaster** होना चाहिए",
+    "DEMOTE_VETERAN_ERROR": "{{author}} केवल **Guildmasters** का ही पद घटा कर **Veteran** किया जा सकता है",
+    "CANT_DEMOTE_FOUNDER": "{{author}} आप **Founder** का पद नहीं घटा सकते",
+    "PROVIDE_GUILD_RANK": "{{author}} पद घटाने के लिए गिल्ड का एक पद प्रदान करें: \n> {{ranks}}",
+    "DEMOTE_OTHERS_ERROR": "{{author}} दूसरों का पद घटाने के लिए आपको **Founder** या **Guildmaster** होना चाहिए",
+    "DEMOTE_NEWBIE_ERROR": "{{author}} केवल **Guildmasters** और **Veterans ** का ही पद घटा कर **Newbie** किया जा सकता है"
 }

@@ -1,1 +1,20 @@
-{}
+{
+    "MONSTER_CATEGORY": "Guildes",
+    "MONSTER_NAME": "**Nom:**",
+    "MONSTER_DEFEATED_two": "**Vaincu:** {{count}} fois",
+    "MONSTER_DEFEATED_few": "**Vaincu:** {{count}} fois",
+    "MONSTER_DEFEATED_other": "**Vaincu:** {{count}} fois",
+    "MONSTER_TOP_DEFEATERS": "__**Meilleurs Vainqueurs**__",
+    "MONSTER_LAST_SPAWNED": "a été récemment apparu le {{date}} et est",
+    "MONSTER_BOSS_SPAWNED": "{{bossName}} est apparu **{{spawnCount}}** fois",
+    "NO_PLAYERS_FOUND": "Aucun joueur trouvé",
+    "MONSTER_DESCRIPTION": "Utilisez cette commande pour afficher un catalogue de tous les bosses disponibles, utilisez la commande \"{{prefix}}monster <Nom>\" pour obtenir un aperçu plus détaillé",
+    "MONSTER_DEFEATED_one": "**Vaincu:** {{count}} fois",
+    "MONSTER_DEFEATED_zero": "**Vaincu:** {{count}} fois",
+    "MONSTER_DEFEATED_many": "**Vaincu:** {{count}} fois",
+    "NO_RESULTS_FOUND": "{{author}} Impossible de trouver ce monstre",
+    "MONSTER_ID": "**ID du Monstre.**",
+    "MONSTER_CAT": "**Catégorie:**",
+    "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Meilleurs Vainqueurs Par Le Moins De Movements**__",
+    "CATALOGUE_EMBED_TITLE": "__Catalogue des Monstres__"
+}

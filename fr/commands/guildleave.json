@@ -1,3 +1,23 @@
 {
-    "NOT_IN_GUILD": "{{author}} Vous n'êtes dans aucune guilde"
+    "NOT_IN_GUILD": "{{author}} Vous n'êtes dans aucune guilde",
+    "GUILDLEAVE_DESCRIPTION": "Utilisez cette commande pour quitter votre guilde actuelle ou la supprimer si vous êtes un Founder. Après avoir quitté une guilde, vous devrez attendre 48 heures avant de rejoindre une autre. ",
+    "GUILDLEAVE_CATEGORY": "Guildes",
+    "I_BUTTON_LABEL": "Je",
+    "AM_BUTTON_LABEL": "suis",
+    "ABSOLUTELY_BUTTON_LABEL": "absolument",
+    "SURE_BUTTON_LABEL": "sûr(e)",
+    "DECIDED_TO_LEAVE": "Êtes-vous sûr(e) de vouloir quitter votre guilde?\n",
+    "PROCEED_OPTIONS": "Vous pouvez choisir une des options suivantes: \n\n",
+    "TRANSFER_OWNERSHIP": "↪️: Transférer la propriété de la guilde \n",
+    "PERMANENT_DELETE_CANCEL": "🗑️: Supprimer définitivement la guilde \n❌: Annuler tout et rester dans votre guilde",
+    "GUILD_LEAVE_SUCCESS": "Vous avez quitté avec succès la guilde **{{guildName}}**",
+    "STAY_IN_GUILD": "Vous avez décidé de rester dans votre guilde actuelle",
+    "TRANSFER_GUILD_OWNERSHIP": "Vous êtes en train de transférer la propriété de votre guilde. \n\nVeuillez fournir l'ID du membre à qui transférer la propriété.",
+    "CANNOT_TRANSFER_YOURSELF": "Vous ne pouvez pas transférer la propriété à vous-même",
+    "TRANSFER_CONFIRM": "Êtes-vous sûr(e) de vouloir transférer la propriété de la guilde à <@{{userId}}>?",
+    "TRANSFER_SUCCESS": "{{author}} a quitté la guilde et le nouveau **Founder** est <@{{userId}}>",
+    "GUILD_LEAVE_CANCEL": "{{author}} a décidé de ne pas quitter la guilde",
+    "GUILD_DELETE_SUCCESS": "La guilde a été supprimée avec succès",
+    "GUILD_LEAVE_CONFIRM": "Êtes-vous sûr(e) de vouloir quitter la guilde **{{guildName}}**? \n\nQuitter des guildes fréquemment n'est pas autorisé. \nVous pourrez rejoindre une nouvelle guilde dans 48 heures.",
+    "GD_EMBED_DESCRIPTION": "Vous êtes sur le point de supprimer la guilde **{{guildName}}**. \nIl y a **{{size}} membres** dans votre guilde. \nLa guilde est niveau **{{level}}**. \nTous les progrès et les ressources dans le coffre fort seront perdus. \nCe processus est irréversible. \n\nÊtes-vous sûr(e) de vouloir supprimer la guilde?"
 }

@@ -1,12 +1,12 @@
 {
-    "BUY_LAYER_INFO": "Benutze den \"{{prefix}}buy layer <Layer-ID> <Amount>\" Befehl um einen **Layer** zu kaufen",
+    "BUY_LAYER_INFO": "Benutze den \"{{prefix}}buy layer <Layer-ID> <Amount>\" Befehl um eine **Layer** zu kaufen",
     "LAYERSHOP_CATEGORY": "Kosmetika",
-    "LAYERSHOP_DESCRIPTION": "Dieser Befehl öffnet eine Einbettung, in der alle Layer angezeigt werden, die derzeit zum Kauf angeboten werden",
+    "LAYERSHOP_DESCRIPTION": "Dieser Befehl öffnet einen Textbox, in der alle Layers angezeigt werden, die derzeit zum Kauf angeboten werden",
     "LS_PAGE_FOOTER": "Angezeigte Seite: {{currentPage}}/{{totalPages}}",
     "LS_NAME": "**Name:** {{name}}",
     "LS_DESCRIPTION": "**Beschreibung:** {{description}}",
     "LS_PRICE": "**Preis:** {{amount}} {{currencyEmoji}}",
     "LS_CATEGORY": "**Kategorie:** {{category}}",
     "LS_ARTIST": "**Künstler:** {{artist}}",
-    "LAYER_NOT_FOUND": "{{author}} Es konnte kein **Layer** mit der ID `{{layerId}}` gefunden werden"
+    "LAYER_NOT_FOUND": "{{author}} Es konnte keine **Layer** mit der ID `{{layerId}}` gefunden werden"
 }

@@ -1,1 +1,10 @@
-{}
+{
+    "GUILDLEADERBOARD_DESCRIPTION": "Cette commande affiche les scores et classements entre les guildes pour toute compétition en cours ainsi que le temps restant",
+    "GUILDLEADERBOARD_CATEGORY": "Guildes",
+    "SEASON_ENDS": "**Fin de Saison: {{time}}**",
+    "GRACE_ENDS": "**Fin de la Période de Grace: {{time}}**",
+    "GLB_TOTAL_GUILDS": "Guildes Totales",
+    "GLB_TOTAL_RAIDS": "Raids Totaux",
+    "GLB_TOTAL_REVENGE": "Vengeance Totales",
+    "GLB_EMBED_FOOTER": "S{{season}}: Les Saisons de Guilde durent 24 jours."
+}

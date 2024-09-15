@@ -11,5 +11,6 @@
     "CARDS_DROPPED_BY": "{{user}} hat Karten **gedroppt**",
     "GRAB_VERSION": "{{winner}} hat sich im Kampf gegen {{user}} durchgesetzt und den **{{character}}** Version Token **erhalten** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nNutze den `{{prefix}}vt` Befehl, um diesen Version Token anzusehen",
     "TOOK_VERSION": "{{winner}} hat den **{{character}}** Version Token **erhalten** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nNutze den `{{prefix}}vt` Befehl, um diesen Version Token anzusehen",
-    "GRAB_VERSION_PLURAL": "{{winner}} hat sich im Kampf gegen **{{userCount}}** andere Spieler durchgesetzt und den **{{character}}** Version Token **erhalten** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nNutze den `{{prefix}}vt` Befehl, um diesen Version Token anzusehen"
+    "GRAB_VERSION_PLURAL": "{{winner}} hat sich im Kampf gegen **{{userCount}}** andere Spieler durchgesetzt und den **{{character}}** Version Token **erhalten** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nNutze den `{{prefix}}vt` Befehl, um diesen Version Token anzusehen",
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Du bist entweder auf der Blacklist oder unter Quarantäne und kannst diese Karte nicht einsammeln"
 }
