@@ -99,5 +99,14 @@
     "PR_MENU_LABEL": "Anneau de Profil",
     "NO_PR_FOUND": "Impossible de trouver l'**Anneau de Profil** avec l'ID `{{id}}` dans votre inventaire",
     "GIF_NOTE": "Note: Convertir votre profil en GIF supprimera le Glow de votre profil.\nÊtes-vous sûr(e) de vouloir continuer?",
-    "PBG_PURCHASE_EVENT": "Ce **Profile Background** était disponible à la vente seulement pendant l'évent associé"
+    "PBG_PURCHASE_EVENT": "Ce **Profile Background** était disponible à la vente seulement pendant l'évent associé",
+    "NO_RING_FOUND": "Impossible de trouver un **Profile Ring** avec cet ID",
+    "RING_PURCHASE_SUCCESS": "Achat effectué avec succès du **Profile Ring** **{{ringName}}**",
+    "PURCHASE_RING_MODAL_LABEL": "Entrez l'ID du Profile Ring",
+    "RING_PURCHASE_MODAL_TITLE": "Acheter un Profile Ring",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "ex. 101",
+    "SET_RING_CONFIRM": "Êtes-vous sûr(e) de vouloir définir la **{{ringName}}** comme votre Profile Ring?",
+    "NO_ENOUGH_AMOUNT_RING": "Vous n'avez pas assez de **{{currency}}** pour acheter ce **Profile Ring**",
+    "INVALID_RING_ID": "ID de **Profile Ring* invalide",
+    "RING_ALREADY_IN_INV": "Vous avez déjà ce **Profile Ring** dans votre inventaire"
 }
