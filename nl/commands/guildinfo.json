@@ -93,5 +93,20 @@
     "NO_ITEM_VAULT": "Er zijn geen items in de vault",
     "DONATE_MODAL_PLACEHOLDER": "Voorbeeld: 15 Cubes | Silver en Wists kunnen niet worden opgenomen",
     "WITHDRAW_MODAL_PLACEHOLDER": "Voorbeeld: 15 Cubes",
-    "WITHDRAW_MODAL_LABEL": "Voer het bedrag en de naam van het item in dat u wilt opnemen:"
+    "WITHDRAW_MODAL_LABEL": "Voer het bedrag en de naam van het item in dat u wilt opnemen:",
+    "WITHDRAW_FROM_VAULT": "> {{user}} heeft **{{amount}}** **{{itemName}}** opgenomen van de vault",
+    "DESCRIPTION_MODAL_LABEL": "Voer de beschrijving in:",
+    "DESCRIPTION_MODAL_PLACEHOLDER": "Voorbeeld: Dit is een leuk guild",
+    "DESCRIPTION_MODAL_TITLE": "Stel Guild Beschrijving in",
+    "LONG_DESCRIPTION": "Guild beschrijving mag niet meer dan **250** tekens en niet meer dan **5** regels bevatten",
+    "NO_LINKS_IN_DESCRIPTION": "Je kunt geen links gebruiken in de Guild beschrijving",
+    "DESCRIPTION_CHANGE_SUCCESS": "Guild beschrijving succesvol ingesteld",
+    "BANNER_MODAL_LABEL": "Voer de banner-URL in:",
+    "BANNER_MODAL_TITLE": "Stel Guild Banner in",
+    "INVALID_BANNER": "Ongeldige URL opgegeven",
+    "BANNER_SET_SUCCESS": "Guild banner succesvol ingesteld",
+    "GLOW_MODAL_LABEL": "Voer de Glow-code in:",
+    "GLOW_MODAL_PLACEHOLDER": "Voorbeeld: #aadffe",
+    "GLOW_MODAL_TITLE": "Stel Embed Color in",
+    "BANNER_MODAL_PLACEHOLDER": "Voorbeeld: https://media.discord/someurl.png"
 }

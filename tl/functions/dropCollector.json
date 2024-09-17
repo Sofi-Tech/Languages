@@ -12,5 +12,5 @@
     "TOOK_VERSION": "Si {{winner}} ay **kinuha** ang **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGamitin ang `{{prefix}}vt` na command upang makita ang Version Token na ito",
     "GRAB_VERSION_PLURAL": "Si {{winner}} ay nakipaglaban at tinalo ang **{{userCount}}** na ibang mga manlalaro at nagtagumpay sa **pagkuha** ng **{{character}}** na Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGamitin ang `{{prefix}}vt` na command upang makita ang Version Token na ito",
     "GRAB_VERSION": "Si {{winner}} ay nakipaglaban kay {{user}} at **nakuha** ang **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGamitin ang `{{prefix}}vt` na command upang makita ang Version Token na ito",
-    "NOT_ALLOWED_TO_GRAB": "{{user}} Ikaw ay maaaring blacklist o naka-quarantine at hindi mo makukuha ang kard na ito"
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Ikaw ay maaaring blacklisted o naka-quarantine o hindi naka-register kaya't hindi mo makukuha ang kard na ito"
 }

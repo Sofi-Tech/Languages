@@ -1,3 +1,4 @@
 {
-    "NO_LAYER_FOUND": "{{author}} Не удалось найти **Layer** с идентификатором `{{layerId}}`"
+    "NO_LAYER_FOUND": "{{author}} Не удалось найти **Layer** с идентификатором `{{layerId}}`",
+    "DONT_HAVE_LAYER": "{{author}} У вас нет **{{name}}** **Layer*"
 }

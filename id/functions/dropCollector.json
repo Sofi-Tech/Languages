@@ -12,5 +12,5 @@
     "GRAB_VERSION_PLURAL": "{{winner}} melawan **{{userCount}}** pemain lain dan **mengambil** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGunakan perintah `{{prefix}}vt` untuk melihat Version Token ini",
     "GRAB_VERSION": "{{winner}} melawan {{user}} dan **mengambil** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGunakan perintah `{{prefix}}vt` untuk melihat Version Token ini",
     "TOOK_VERSION": "{{winner}} **mengambil** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGunakan perintah `{{prefix}}vt` untuk melihat Version Token ini",
-    "NOT_ALLOWED_TO_GRAB": "{{user}} Anda masuk daftar hitam atau dikarantina dan tidak dapat mengambil kartu ini"
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Anda masuk dalam daftar hitam atau dikarantina atau tidak terdaftar dan tidak dapat mengambil kartu ini"
 }

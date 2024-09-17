@@ -18,5 +18,8 @@
     "MOVES_COOLDOWN": "**Cooldown:**",
     "SERIOUS_PUNCH_RAID_DESCRIPTION": "Erhöhe dein Angriffswert um das 1.65x-2.05x and führe einen Angriff mit 135% Schaden aus.",
     "OUTBURST_RAID_DESCRIPTION": "Greift den Boss in einem Wutanfall an, der ihm 85 % seiner maximalen Gesundheit + 25 % seines Angriffswertes an Schaden erzielt, und füge ihm Wunden zu. Diese Wunden wiederholen den Schaden des ersten Treffers jede Runde, bis die Karte besiegt wird. Diese Aktion verbraucht in jeder Runde 20% der maximalen Gesundheit des Anwenders und es kann immer nur eine Karte gleichzeitig outburst verwenden.",
-    "MOVES_CAT": "**Category:**"
+    "MOVES_CAT": "**Category:**",
+    "MOVES_DEBUFF": "Debuff",
+    "HOLY_SMITE_RAID_DESCRIPTION": "Verursacht 180% Schaden und durchdringt 90% der gegnerischen Verteidigung.",
+    "MYSTIC_WAVE_RAID_DESCRIPTION": "Reduziert deine HP um 50% und wiederbelebt einer deiner toten Karten wieder."
 }

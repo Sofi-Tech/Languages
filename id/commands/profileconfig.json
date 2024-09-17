@@ -101,5 +101,12 @@
     "GIF_NOTE": "Catatan: Mengubah profil Anda menjadi GIF akan menghapus Glow dari profil Anda. \nApakah Anda yakin ingin melanjutkan?",
     "PBG_PURCHASE_EVENT": "**Profile Background** ini hanya tersedia untuk dibeli selama acara terkait berlangsung",
     "RING_ALREADY_IN_INV": "Anda sudah memiliki **Profile Ring** itu di inventaris Anda",
-    "RING_PURCHASE_SUCCESS": "Berhasil membeli **Profile Ring** **{{ringName}}**"
+    "RING_PURCHASE_SUCCESS": "Berhasil membeli **Profile Ring** **{{ringName}}**",
+    "NO_RING_FOUND": "Tidak dapat menemukan **Profile Ring** dengan ID tersebut",
+    "SET_RING_CONFIRM": "Apakah anda yakin ingin menetapkan **{{ringName}}** sebagai Cincin Profil anda?",
+    "NO_ENOUGH_AMOUNT_RING": "Anda tidak memiliki cukup **{{currency}}** untuk membeli **Profile Ring** ini",
+    "INVALID_RING_ID": "ID **Profile Ring** tidak valid",
+    "PURCHASE_RING_MODAL_LABEL": "Masukkan ID Profile Ring",
+    "RING_PURCHASE_MODAL_TITLE": "Membeli Profile Ring",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "misalnya 101"
 }

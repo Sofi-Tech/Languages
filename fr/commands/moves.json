@@ -18,5 +18,19 @@
     "MOVES_COOLDOWN": "**Temps de recharges:**",
     "MOVES_DESCRIPTION": "Affichez une liste de tous les mouvements disponibles et leur description, utilisez la commande \"{{prefix}}move <Nom>\" pour obtenir un aperçu plus détaillé",
     "MOVES_DEFENCE": "Défense",
-    "SERIOUS_PUNCH_RAID_DESCRIPTION": "Augmentez votre statistique d'attaque de 1.65x à 2.05x et effectuez une attaque infligeant 135% de dégâts."
+    "SERIOUS_PUNCH_RAID_DESCRIPTION": "Augmente votre statistique d'attaque de 1.65x à 2.05x et effectue une attaque infligeant 135% de dégâts.",
+    "OUTBURST_RAID_DESCRIPTION": "Concentre sa rage sur le boss, effectuant 85% de la vie maximum de la carte l'utilisant + 25% de sa stat d'attaque en dégâts, et blessant le boss. Ces blessures répèteront les dégâts du coup initial chaque tour jusqu'à ce que la carte soit vaincue. Ce coup consumera 20% de la vie maximum de l'utilisateur chaque tour et une seule carte peut utiliser outburst par tour.",
+    "VENOM_BITE_RAID_DESCRIPTION": "Effectue 20% de dégâts à l'adversaire, réduit leur attaque de 50, et empoisonne la cible. Le poison commence à 120 dégâts pas tour, faisant 20 dégâts de plus chaque tour, et persiste même quand la carte est défaite.",
+    "BODY_SHOCK_RAID_DESCRIPTION": "Effectue 80% de dégâts et réduit la prochaine attaque de l'adversaire de 60%.",
+    "VISION_STRIKE_RAID_DESCRIPTION": "Effectue 20% de dégâts et oblige l'adversaire à attaquer la carte avec le plus de PV restants. Procure aussi un boost de 70% de DEF pour ce tour et les suivants.",
+    "SHADOW_BALL_RAID_DESCRIPTION": "Effectue 110% de dégâts sans type et protège une carte choisie de la prochaine attaque de l'adversaire, absorbant 100% des dégâts.",
+    "DRAGON_CLAW_RAID_DESCRIPTION": "Renforce votre stat d'attaque de 1.6x pour ce tour et les suivants. Par conséquent, il inflige 70 % des dégâts de la stat améliorée.",
+    "ROCK_SOLID_RAID_DESCRIPTION": "Effectue 100% de dégâts et protège les trois cartes pour le tour en cours. Si cela échoue, soigne à la place la carte ciblée de 25% de ses PV max.",
+    "HOLY_SMITE_RAID_DESCRIPTION": "Effectue 180% de dégâts qui ignore 90% de la défense adverse.",
+    "ATOMIC_BLAST_RAID_DESCRIPTION": "Déploie l'énergie stockée, effectuant plus de dégâts plus vous attendez. Effectue 100 dégâts + 15% utilisant la stat totale de la carte au tour 1, gagnant 100 dégâts + 15% de la stat totale pour chaque tour qui passe. Plafonner à 1,200 + 180% de la stat total en dégâts.",
+    "HYPER_BEAM_RAID_DESCRIPTION": "Libère une attaque par laser puissante, effectuant 320% des dégâts normaux. La carte l'utilisant ne pourra pas agir pendant 1 tour après utilisation.",
+    "COSMIC_IMPACT_RAID_DESCRIPTION": "Invoque une grande comète, effectuant plus de dégâts le plus tôt elle est utilisée. Effectue 1000 dégâts + 100% des stats totales de la carte en dégâts sans types au tour 1, perdant 50 dégâts + 5% des stats totales pour chaque tour qui passe.",
+    "REFLECT_RAID_DESCRIPTION": "Renvoie 2x la quantité de dégât reçus de l'attaque précédente du boss et dévie 1/3 de l'attaque actuelle aux cartes non vaincues.",
+    "ROTTING_FIST_RAID_DESCRIPTION": "Effectue 125% de dégâts et infligera un état de putréfaction pour les 2 prochains tours. La putréfaction causera au boss de recevoir 1.4x plus de dégâts des prochains coups.",
+    "NECROTIC_CURSE_RAID_DESCRIPTION": "Effectue 20% de dégâts et inflige une malédiction. La malédiction effectue 150 dégâts par tour et prends fin lors de la défaite de la carte. Pour toute sa durée, la malédiction effectuera 120 dégâts multiplié par le nombre de tour avec la carte en vie depuis la première application."
 }
