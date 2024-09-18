@@ -1,5 +1,5 @@
 {
-    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` आईडी वाली **Layer** नहीं मिल सकी",
+    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` ID से कोई **Layer** नहीं मिली",
     "USELAYER_CATEGORY": "COSMETICS",
     "UL_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}ul <CardCode> <Layer-ID>`",
     "CARD_INVALID": "{{author}} आपके द्वारा प्रदान किये गए पत्ते का कोड या तो अमान्य है या आपके संग्रह में मौजूद नहीं है",

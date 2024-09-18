@@ -13,6 +13,6 @@
     "BUY_CHARM_CONFIRMATION": "## आप {{amount}} {{itemName}} खरीदने जा रहे है <:xcharm:988729774031638528>",
     "BUY_GEN_CONFIRMATION": "## आप {{count}} {{itemName}} 💳 खरीदने जा रहे है",
     "LAYER_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}buy layer <Layer-ID> <Amount>`",
-    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` आईडी वाली **Layer** नहीं मिल सकी",
-    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} `{{layerId}}` आईडी वाली **Layer** सीमित है और अब खरीदी नहीं जा सकती"
+    "NO_LAYER_FOUND": "{{author}} `{{layerId}}` ID से कोई **Layer** नहीं मिली",
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} `{{layerId}}` ID वाली **Layer** सीमित है और अब खरीदी नहीं जा सकती"
 }

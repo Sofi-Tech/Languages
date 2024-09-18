@@ -1,8 +1,8 @@
 {
-    "GUILD_FOUNDER": "संस्थापक",
-    "GUILD_MASTER": "गुरु",
-    "GUILD_VETERANS": "दिग्गज",
-    "GUILD_ADVENTURER": "मुसाफ़िर",
+    "GUILD_FOUNDER": "Founder",
+    "GUILD_MASTER": "Guild Master",
+    "GUILD_VETERANS": "Veterans",
+    "GUILD_ADVENTURER": "Adventurer",
     "NOT_ENOUGH_AMOUNT": "{{author}} आपके पास पर्याप्त **{{item}}** नहीं है",
     "BUY_EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_PAY": "आप देंगे: {{additionalInfo}}",
@@ -14,5 +14,6 @@
     "CODE_TWO": "<:linedown:868888105611046942> कोड 2",
     "SOMETHING_WENT_WRONG": "{{author}} त्रुटि के कारण सभी कटौती हुई आइटम आपके संग्रह में वापस जोड़े गए",
     "GS_EMBED_FOOTER": "यह डील {{date}} में खत्म हो जाएगी",
-    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} **{{amount}}** **{{itemName}}** सफलतापूर्वक खरीदे गए"
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} **{{amount}}** **{{itemName}}** सफलतापूर्वक खरीदे गए",
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} `{{amount}}` **{{layerName}}** **{{itemName}}** सफलतापूर्वक खरीदा गया"
 }
