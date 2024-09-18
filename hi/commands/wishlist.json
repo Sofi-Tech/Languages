@@ -1,7 +1,7 @@
 {
     "WISHLIST_DESCRIPTION": "इस कमांड से आप किसी उपयोगकर्ता की पसंदीदा-सूची देख सकते है। पसंदीदा-सूची में पात्र जोड़ने के लिए \"{{prefix}}wishlistadd\" कमांड का उपयोग करें",
     "CATEGORY": "WISHLIST",
-    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ",
+    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता नहीं मिल सका",
     "WISHLIST_PRIVATE": "{{author}} इस उपयोगकर्ता की पसंदीदा-सूची निजी है",
     "WISHLIST_EMPTY": "{{author}} इस उपयोगकर्ता की पसंदीदा-सूची खाली है",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",

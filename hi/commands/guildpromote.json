@@ -2,7 +2,7 @@
     "GUILDPROMOTE_DESCRIPTION": "चुने गए सभ्य को ऊंचे पद पर नियुक्त करने के लिए यह कमांड का उपयोग करें",
     "GUILDPROMOTE_CATEGORY": "Guilds",
     "GP_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gp <@User/UserID>`",
-    "NO_GUILD_INFO": "{{author}} वह उपयोगकर्ता के गिल्ड की माहिती नही मिल सकी",
+    "NO_GUILD_INFO": "{{author}} वह उपयोगकर्ता किसी भी गिल्ड मे नहीं है",
     "NOT_MEMBER": "{{author}} यह उपयोगकर्ता आपके गिल्ड के सदस्य नही हैं",
     "PROVIDE_VETERAN_RANK": "{{author}} नियुक्त करने के लिए गिल्ड का पद प्रदान करें:\n> **V**eteran",
     "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} मात्र **Adventurers** को **Veteran** पद पर नियुक्त किया जा सकता हैं",

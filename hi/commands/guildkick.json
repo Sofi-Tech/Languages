@@ -2,14 +2,15 @@
     "PLAYER_NOT_EXIST": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ",
     "NOT_IN_GUILD": "{{author}} आप किसी गिल्ड में नहीं हैं",
     "GUILDKICK_DESCRIPTION": "इस कमांड का उपयोग Founder या Guildmaster के द्वारा किसी गिल्ड के सदस्य को गिल्ड से निकालने के लिए किया जा सकता है",
-    "MUST_BE_FOUNDER": "{{author}} दूसरों को गिल्ड से निकालने के लिए **Founder** या **Guildmaster** होना चाहिए",
+    "MUST_BE_FOUNDER": "{{author}} दूसरों को गिल्ड से निकालने के लिए आपका **Founder** या **Guildmaster** होना आवश्यक है",
     "PROVIDE_ID": "{{author}} सही उपयोग: `{{prefix}}gk <@User/UserID>`",
     "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता नहीं मिल सका",
     "CANNOT_KICK": "{{author}} आप अपने आप को ही गिल्ड से नहीं निकाल सकते",
     "MEMBER_NOT_IN_GUILD": "{{author}} वह उपयोगकर्ता किसी गिल्ड में नहीं है",
     "NOT_IN_YOUR_GUILD": "{{author}} यह उपयोगकर्ता आपके गिल्ड का सदस्य नहीं है",
-    "FOUNDER_CANNOT_BE_KICKED": "{{author}} आप किसी **Founder** या **Guildmaster** को गिल्ड से बाहर नहीं निकाल सकते",
+    "FOUNDER_CANNOT_BE_KICKED": "{{author}} आप किसी **Founder** या **Guildmaster** को गिल्ड से बाहर नहीं निकाल सकते है",
     "KICK_CONFIRM": "क्या आप वाकई <@{{memberId}}> को गिल्ड से बाहर निकालना चाहते हैं?",
-    "KICK_SUCCESSFUL": "<@{{memberId}}> को सफलतापूर्वक गिल्ड से बाहर कर दिया गया है",
-    "KICK_CANCEL": "आपने <@{{memberId}}> को गिल्ड से न निकालने का निर्णय लिया है"
+    "KICK_SUCCESSFUL": "<@{{memberId}}> को सफलतापूर्वक गिल्ड से बाहर निकाला गया",
+    "KICK_CANCEL": "आपने <@{{memberId}}> को गिल्ड से नहीं निकालने का निर्णय लिया",
+    "GUILDKICK_CATEGORY": "गिल्डस"
 }
