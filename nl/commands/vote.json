@@ -1,14 +1,14 @@
 {
-    "VOTE_DESCRIPTION": "Gebruik dit commando om op Sofi te stemmen op Top.GG. Elke stem die u aan Sofi bijdraagt, beloont u met 1 Wist op een weekdag en 2 Wists in het weekend.",
+    "VOTE_DESCRIPTION": "Gebruik dit commando om te Voten voor Sofi op Top.GG. Elke Vote die u aan Sofi bijdraagt, beloont u met 1 Wist op een weekdag en 2 Wists in het weekend.",
     "VOTE_CATEGORY": "Instellingen",
-    "VOTE": "Stem op Top.GG",
+    "VOTE": "Vote op Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-    "USE_WIST": "Voor elke succesvolle **Stem** ontvangt u een **Wist** <:wist:870339503427027005>! op [Top.gg](https://top.gg/bot/853629533855809596)!",
-    "TOTAL_VOTES": "- Totaal aantal **Stemmen**: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- Maandelijkse **Stemmen**: **{{monthlyVotes}}**",
+    "USE_WIST": "Voor elke succesvolle **Vote** ontvangt u een 1 **Wist** <:wist:870339503427027005>! op [Top.gg](https://top.gg/bot/853629533855809596)!",
+    "TOTAL_VOTES": "- Totaal aantal **Vote**: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- Maandelijkse **Votes**: **{{monthlyVotes}}**",
     "VOTE_RESET": "- Resetten over: **{{countdown}}**",
     "EMBED_FOOTER": "U krijgt het dubbele aantal Wists in het weekend",
-    "VOTE_DBL": "Stem op DiscordBotList",
+    "VOTE_DBL": "Vote op DiscordBotList",
     "USE_ELIXIR": "U ontvangt 5 **Elixir** <:xelixir:979673719884636210> voor elke succesvolle **Vote** op [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
 }

@@ -108,5 +108,20 @@
     "GLOW_MODAL_LABEL": "Voer de Glow-code in:",
     "GLOW_MODAL_PLACEHOLDER": "Voorbeeld: #aadffe",
     "GLOW_MODAL_TITLE": "Stel Embed Color in",
-    "BANNER_MODAL_PLACEHOLDER": "Voorbeeld: https://media.discord/someurl.png"
+    "BANNER_MODAL_PLACEHOLDER": "Voorbeeld: https://media.discord/someurl.png",
+    "INVALID_PERMISSION": "Ongeldig toestemmingsniveau opgegeven.\n\n**Available levels:**\nAdventurer: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
+    "INVALID_GLOW": "De **Glow** code die u hebt opgegeven is ongeldig of niet in uw inventaris aanwezig.",
+    "COLOR_SET_SUCCESS": "Embed kleur is succesvol bijgewerkt",
+    "PERMISSION_MODAL_LABEL": "Voer het toestemmingsniveau in:",
+    "PERMISSION_MODAL_PLACEHOLDER": "Voorbeeld: 2",
+    "PERMISSION_MODAL_TITLE": "Toestemmingsniveau voor Crafting instellen",
+    "PERMISSION_EMBED_FOOTER": "Crafting Toestemmingsniveau: {{level}}",
+    "PERMISSION_SET_SUCCESS": "Crafting Toestemmingsniveau succesvol bijgewerkt",
+    "BOOST_MODAL_LABEL": "Voer het aantal Cubes in:",
+    "BOOST_MODAL_PLACEHOLDER": "Voorbeeld: 15 Cubes",
+    "NOT_ENOUGH_CUBES": "> Er is niet genoeg in de vault",
+    "BOOST_LEVEL_MAX": "> Het boostniveau heeft al het maximum bereikt",
+    "BOOST_EMBED_FOOTER": "U kunt wijzigen welke statistieken worden versterkt in het menu",
+    "CANNOT_HANDLE_MEMBERS": "Guilds met meer dan 40 leden kunnen niet worden behandeld",
+    "SLOT_UNLOCKED": "Guild Lid Slot ontgrendeld 🔓:\n\n+1 Lid Slot"
 }
