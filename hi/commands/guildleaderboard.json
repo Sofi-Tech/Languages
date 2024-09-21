@@ -1,7 +1,10 @@
 {
-    "GUILDLEADERBOARD_DESCRIPTION": "यह कमांड गिल्ड्स के बीच चलती प्रतियोगिता के लिए अंक और और रैंकिंग के साथ बचा हुआ समय भी दिखाता है",
-    "SEASON_ENDS": "**सत्र समाप्ति: {{time}}**",
-    "GLB_TOTAL_GUILDS": "कुल गिल्डस",
+    "GUILDLEADERBOARD_DESCRIPTION": "यह कमांड गिल्ड्स के बीच चलती प्रतियोगिता के लिए अंक और रैंकिंग के साथ शेष समय भी दिखती है",
+    "SEASON_ENDS": "**सत्र समाप्ति: {{time}}**",
+    "GLB_TOTAL_GUILDS": "कुल गिल्ड",
     "GLB_TOTAL_RAIDS": "कुल रेड",
-    "GLB_EMBED_FOOTER": "S{{season}}: एक गिल्ड सत्र 24 दिनों तक चलता है।"
+    "GLB_EMBED_FOOTER": "S{{season}}: एक गिल्ड सत्र 24 दिनों तक चलता है।",
+    "GUILDLEADERBOARD_CATEGORY": "गिल्डस",
+    "GRACE_ENDS": "**छूट अवधि: {{time}}**",
+    "GLB_TOTAL_REVENGE": "कुल बदले"
 }

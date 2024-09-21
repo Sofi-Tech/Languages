@@ -3,14 +3,14 @@
     "PROVIDE_ID": "{{author}} Uso correcto: `{{prefix}}gk <@Usuario/IDDelUsuario>`",
     "USER_NOT_FOUND": "{{author}} No se pudo encontrar a este usuario",
     "CANNOT_KICK": "{{author}} No te puedes echar a ti mismo",
-    "MEMBER_NOT_IN_GUILD": "{{author}} Ese usuario no es un miembro de ningun gremio",
+    "MEMBER_NOT_IN_GUILD": "{{author}} Este usuario no está en ningún gremio",
     "NOT_IN_YOUR_GUILD": "{{author}} Este usuario no es un miembro de tu gremio",
     "FOUNDER_CANNOT_BE_KICKED": "{{author}} No puedes echar a un **Founder** o **Guildmaster** del gremio",
-    "KICK_CONFIRM": "Estas seguro que quieres echar a <@{{memberId}}> del gremio?",
-    "KICK_SUCCESSFUL": "<@{{memberId}}> ha sido echado del gremio con exito",
+    "KICK_CONFIRM": "Estás seguro que quieres echar a <@{{memberId}}> del gremio?",
+    "KICK_SUCCESSFUL": "<@{{memberId}}> ha sido echado del gremio con éxito",
     "KICK_CANCEL": "Has decidido no echar a <@{{memberId}}> del gremio",
-    "GUILDKICK_DESCRIPTION": "Echa a un miembro de tu gremio",
+    "GUILDKICK_DESCRIPTION": "Este comando puede ser usado por un Founder o Guildmaster para echar a un miembro del gremio",
     "MUST_BE_FOUNDER": "{{author}} Tienes que ser un **Founder** o **Guildmaster** en el gremio para echar a miembros",
-    "PLAYER_NOT_EXIST": "{{author}} No se pudo encontrar a este usuario",
-    "NOT_IN_GUILD": "{{author}} No te encuentras en ningun gremio"
+    "PLAYER_NOT_EXIST": "{{author}} No se pudo encontrar a ese usuario",
+    "NOT_IN_GUILD": "{{author}} No te encuentras en ningún gremio"
 }

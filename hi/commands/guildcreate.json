@@ -9,7 +9,7 @@
     "BACK_BUTTON_LABEL": "पीछे जाएं",
     "GUILD_READY": "आपका गिल्ड तैयार है। प्रक्रिया समाप्त करने के लिए पुष्टि करें",
     "GUILD_CREATED_INFO": "गिल्ड बनाया गया: **{{name}}**",
-    "GUILD_CREATE_SUCCESS": "प्रक्रिया सफलतापूर्वक हुई",
+    "GUILD_CREATE_SUCCESS": "प्रक्रिया सफल हुई",
     "GUILD_CREATE_CANCEL": "प्रक्रिया रद्द की गई",
     "NAME_REQUIRED": "{{author}} सही उपयोग: `{{prefix}}guildcreate <GuildName>`",
     "NO_SPECIAL_FONT": "{{author}} आपक अपने गिल्ड के नाम में विशेष वर्ण का उपयोग नहीं कर सकते हैं",

@@ -1,20 +1,20 @@
 {
     "GUILDCREATE_CATEGORY": "Gremios",
-    "NAME_CHAR_LIMIT": "{{author}} El nombre de tu gremio puede tener hasta **25** caracteres de largo",
+    "NAME_CHAR_LIMIT": "{{author}} El nombre de tu gremio sólo puede tener hasta **25** caracteres de largo",
     "NO_SPECIAL_FONT": "{{author}} El nombre de tu gremio no puede contener caracteres especiales",
     "NEED_ITEM": "{{author}} Necesitas un **{{itemName}}** para crear un gremio",
     "FOUNDER_INFO": "Fundador: {{user}}",
     "GC_INFO_2": "Presiona el boton **{{itemName}}** para crear un gremio.",
     "CREATE_BUTTON_LABEL": "Confirmar",
     "BACK_BUTTON_LABEL": "Volver Atras",
-    "GUILD_READY": "Tu gremio esta lista. Confirma para finalizar el progreso",
+    "GUILD_READY": "Tu gremio está listo. Confirma para finalizar el proceso",
     "GUILD_CREATED_INFO": "Gremio creado: **{{name}}**",
     "GUILD_CREATE_CANCEL": "El proceso ha sido cancelado",
-    "GUILDCREATE_DESCRIPTION": "Este comando consumira una Guild Stone para crear un gremio",
-    "ALREADY_IN_GUILD": "{{author}} Ya te uniste a un gremio. Sal de tu gremio actual para ingresar a uno nuevo.",
+    "GUILDCREATE_DESCRIPTION": "Este comando consumirá una Guild Stone para crear un gremio",
+    "ALREADY_IN_GUILD": "{{author}} Ya estás en un gremio. Sal de tu gremio actual para unirte a uno nuevo.",
     "NO_PROFANE": "{{author}} El nombre de tu gremio no puede contener profanidades de cualquier tipo",
-    "GC_INFO_1": "Estas creando un gremio. Este proceso consumira un **{{itemName}}**.",
-    "GUILD_CREATE_SUCCESS": "Se ha completado el proceso con exito",
-    "NAME_REQUIRED": "{{author}} Uso correcto: `{{prefix}}guildcreate <NombreDeGremio>`",
-    "GC_WARNING": "⚠️ Usar texto inapropiad u ofensivo en nombres de gremio puede llevar a la eliminacion sin noticia alguna, irespectivamente de tu progreso. Si tienes alguna duda, pregunta al Personal de Soporte de Sofi de antemano."
+    "GC_INFO_1": "Estás creando un gremio. Este proceso consumirá un **{{itemName}}**.",
+    "GUILD_CREATE_SUCCESS": "Se ha completado el proceso con éxito",
+    "NAME_REQUIRED": "{{author}} Uso correcto: `{{prefix}}guildcreate <NombreDelGremio>`",
+    "GC_WARNING": "⚠️ Usar texto inapropiado u ofensivo en nombres de gremio puede llevar a la eliminación sin noticia previa, irrespectivamente de tu progreso. Si tienes alguna duda, pregunta al Personal de Soporte de Sofi de antemano."
 }

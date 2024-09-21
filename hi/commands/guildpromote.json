@@ -1,6 +1,6 @@
 {
-    "GUILDPROMOTE_DESCRIPTION": "चुने गए सभ्य को ऊंचे पद पर नियुक्त करने के लिए यह कमांड का उपयोग करें",
-    "GUILDPROMOTE_CATEGORY": "Guilds",
+    "GUILDPROMOTE_DESCRIPTION": "चुने गए सदस्य को ऊंचे पद पर नियुक्त करने के लिए यह कमांड का उपयोग करें",
+    "GUILDPROMOTE_CATEGORY": "गिल्डस",
     "GP_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gp <@User/UserID>`",
     "NO_GUILD_INFO": "{{author}} वह उपयोगकर्ता किसी भी गिल्ड मे नहीं है",
     "NOT_MEMBER": "{{author}} यह उपयोगकर्ता आपके गिल्ड के सदस्य नही हैं",
@@ -8,12 +8,12 @@
     "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} मात्र **Adventurers** को **Veteran** पद पर नियुक्त किया जा सकता हैं",
     "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} मात्र **Adventurers** और **Veterans** को **Guildmaster** पद पर नियुक्त किया जा सकता हैं",
     "PROMOTED_TO_VETERAN": "{{member}} को सफलतापूर्वक **Veteran** पद पर नियुक्त किया गया",
-    "TRANSFER_OWNERSHIP_CANCEL": "प्रक्रिया रद की गई",
+    "TRANSFER_OWNERSHIP_CANCEL": "प्रक्रिया रद्द की गई",
     "TRANSFER_OWNERSHIP_SUCCESS": "**गिल्ड के नए Founder <@{{memberId}}> हैं**",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} मात्र **Guildmasters** को **Founder** पद पर नियुक्त किया जा सकता हैं",
     "PROVIDE_FOUNDER_RANK": "{{author}} नियुक्त करने के लिए गिल्ड का पद प्रदान करें:\n> **F**ounder, **G**uildmaster, **V**eteran",
-    "MUST_BE_FOUNDER": "{{author}} गिल्ड के सभ्य को नियुक्त करने के लिए आप **Founder** या **Guildmaster** होने चाहिएं",
+    "MUST_BE_FOUNDER": "{{author}} गिल्ड के सदस्य को नियुक्त करने के लिए आपका **Founder** या **Guildmaster** होना आवश्यक है",
     "PROMOTED_TO_GUILDMASTER": "{{member}} को सफलतापूर्वक **Guildmaster** पद पर नियुक्त किया गया",
-    "TRANSFER_OWNERSHIP_CONFIRM": "**आप {{member}} को गिल्ड की मालिकी सौंप रहे हैं. क्या आप निश्चित है?**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "**आप {{member}} को गिल्ड की मालिकाना हक सौंप रहे हैं. क्या आप निश्चित है?**",
     "ALREADY_FOUNDER": "{{author}} यह उपयोगकर्ता पहले से ही गिल्ड के **Founder** हैं"
 }
