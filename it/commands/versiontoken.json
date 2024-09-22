@@ -3,5 +3,20 @@
     "SORT_CHAR": "Nome",
     "SORT_SERIES": "Serie",
     "SORT_WL": "Wishlist",
-    "USER_NOT_FOUND": "{{author}} Non è riuscito a trovare quell'utente"
+    "USER_NOT_FOUND": "{{author}} Non è riuscito a trovare quell'utente",
+    "AUTHOR_NO_TOKENS": "{{author}} Non hai ancora alcun **Token di Versione**",
+    "USER_NO_TOKENS": "{{author}} Quell'utente non ha ancora alcun **Token di Versione**",
+    "NOTHING_FOUND": "Impossibile trovare **Token di Versione**",
+    "INVALID_SERIES": "Serie non valida",
+    "PLAYER_NOT_EXIST": "{{author}} Quell'utente non è registrato",
+    "VT_CATEGORY": "Cosmetici",
+    "FILTER_NO_VT_FOUND": "{{author}} Non è riuscito a trovare alcun **Token di Versione** che corrisponda al filtro selezionato",
+    "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
+    "SAVE_FILTER": "500 - Salva questo filtro",
+    "SELECT_FILTER": "Seleziona un filtro",
+    "SORT_CARD": "Carta Base",
+    "SORT_VERSION": "Versione",
+    "VERSIONTOKEN_DESCRIPTION": "Utilizza questo comando per visualizzare la tua raccolta di token di versione. La raccolta può essere ordinata per nome, generazione, lista dei desideri, versioni",
+    "USER_PRIVATE": "{{author}} Questo utente ha impostato la propria raccolta **Token Versione** su privata",
+    "EMBED_FOOTER": "Pagina: {{page}}/{{totalPages}} | Token di Versione Totali: {{count}}"
 }

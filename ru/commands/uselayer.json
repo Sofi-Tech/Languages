@@ -1,4 +1,9 @@
 {
     "NO_LAYER_FOUND": "{{author}} Не удалось найти **Layer** с идентификатором `{{layerId}}`",
-    "DONT_HAVE_LAYER": "{{author}} У вас нет **{{name}}** **Layer*"
+    "DONT_HAVE_LAYER": "{{author}} У вас нет **{{name}}** **Layer**",
+    "USE_LAYER_CONFIRM": "Вы уверены, что хотите применить **{{name}}** **Layer** к данной карте?",
+    "USELAYER_CATEGORY": "Косметика",
+    "CARD_INVALID": "{{author}} Указанный вами код недействителен или не является частью вашей коллекции",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Вы не можете применить **Слой** на **GIF** карту",
+    "USELAYER_DESCRIPTION": "Данная команда применит выбранный слой на вашу карту. Вы можете купить слои используя команду \"{{prefix}}layershop\""
 }

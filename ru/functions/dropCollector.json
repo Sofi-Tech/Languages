@@ -11,5 +11,6 @@
     "GRAB_CARD_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_VERSION": "{{winner}} Вы отбились от {{user}} и **подобрали** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nДля просмотра данного Version Token используйте команду `{{prefix}}vt`",
     "GRAB_VERSION_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nДля просмотра данного Version Token используйте команду `{{prefix}}vt`",
-    "TOOK_VERSION": "{{winner}} Вы **подобрали** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nДля просмотра данного Version Token используйте команду `{{prefix}}vt`"
+    "TOOK_VERSION": "{{winner}} Вы **подобрали** **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nДля просмотра данного Version Token используйте команду `{{prefix}}vt`",
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Вы не можете подобрать данную карту, потому что вы либо занесены в черный список, или на карантине, или не зарегистрированы."
 }

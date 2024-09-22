@@ -1,4 +1,16 @@
 {
     "PLAYER_NOT_EXIST": "{{author}} Kan die gebruiker niet vinden",
-    "NOT_IN_GUILD": "{{author}} U zit niet in een guild"
+    "NOT_IN_GUILD": "{{author}} U zit niet in een guild",
+    "NOT_IN_YOUR_GUILD": "{{author}} Deze gebruiker is geen lid van uw guild",
+    "GUILDKICK_CATEGORY": "Guilds",
+    "MUST_BE_FOUNDER": "{{author}} U moet een **Founder** of **Guildmaster** in de Guild zijn om leden te verwijderen",
+    "GUILDKICK_DESCRIPTION": "Dit commando kan gebruikt worden door een Founder of Guildmaster om een lid uit de guild te verwijderen",
+    "PROVIDE_ID": "{{author}} Correct gebruik: `{{prefix}}gk <@User/UserID>`",
+    "USER_NOT_FOUND": "{{author}} Kon die gebruiker niet vinden",
+    "CANNOT_KICK": "{{author}} U kunt uzelf niet verwijderen",
+    "MEMBER_NOT_IN_GUILD": "{{author}} Die gebruiker is niet in een guild",
+    "FOUNDER_CANNOT_BE_KICKED": "{{author}} U kunt een **Founder** of **Guildmaster** niet uit de guild verwijderen",
+    "KICK_CONFIRM": "Weet u zeker dat u <@{{memberId}}> uit de guild wilt verwijderen?",
+    "KICK_SUCCESSFUL": "<@{{memberId}}> is succesvol van de guild verwijderd",
+    "KICK_CANCEL": "U heeft besloten <@{{memberId}}> niet te verwijderen van de guild"
 }

@@ -152,7 +152,7 @@
     "NOT_ENOUGH_ITEM_VAULT": "Không đủ **{{itemName}}** trong két",
     "IMAGE_UNLOCK_SUCCESS": "Tính năng ảnh bang hội đã được mở khoá thành công",
     "INFO_EMBED_FOOTER": "ID Bang Hội: {{id}} | Tạo vào",
-    "GUILD_LEVEL_ACCESS": "Bang hội phải cấp 6 và có 10 thành viên mới có thể chế tạo Guild Package",
+    "GUILD_LEVEL_ACCESS": "Bang hội phải cấp 6 và có 10 thành viên mới có quyền chế tạo **Guild Package**",
     "WITHDRAW_FROM_VAULT": "> {{user}} đã rút **{{amount}}** **{{itemName}}** từ két",
     "DONATED_TO_VAULT": "> {{user}} đã quyên góp **{{amount}}** **{{itemName}}** vào két"
 }

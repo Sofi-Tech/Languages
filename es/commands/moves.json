@@ -26,7 +26,7 @@
     "OUTBURST_RAID_DESCRIPTION": "Se adhiere al jefe en rabia, causando daño con el 85% de la vida máxima de la carta + 25% de su stat de ataque, y aplica heridas al jefe. Esas heridas repetirán el daño de golpe inicial hasta que la carta sea derrotada. Este movimiento consumirá 20% de la vida máxima del usuario cada turno y solo una carta puede usar outburst al mismo tiempo.",
     "ROTTING_FIST_RAID_DESCRIPTION": "Causa 125% de daño e inflije al jefe con corrosion por los proximos 2 turnos. Corrosion causara que el jefe reciba 1.4x de daño con varios de los movimiento.",
     "SHADOW_BALL_RAID_DESCRIPTION": "Hace 110% de daño sin tipo y protege una carta elegida del proximo ataque del oponente, absorviendo 100% del daño.",
-    "COSMIC_IMPACT_RAID_DESCRIPTION": "Llama un gran cometa, causando daño mas pesado cuando mas pronto se use. Hace un daño sin tipo de 1000 + 100% de los stats de la carta que lo esta usando en el turno 1, perdiendo 50 daño + 5% stat total por cada turno que pasa.",
+    "COSMIC_IMPACT_RAID_DESCRIPTION": "Llama un gran cometa, causando daño mas pesado cuando mas pronto se use. Hace un daño sin tipo de 1000 + 100% de los stats de la carta que lo esta usando en el turno 1, perdiendo 50 + 5% stat de daño total por cada turno que pasa.",
     "DRAGON_CLAW_RAID_DESCRIPTION": "Aumenta tu stat de ataque por 1.6x en este turno y el siguiente. Consequentemente, inflije 70% de daño del stat mejorado.",
     "ROCK_SOLID_RAID_DESCRIPTION": "Hace 100% de daño y protege todas las tres cartas en la ronda actual. Si falla, cura a la carta objetivo un 25% de su vida maxima.",
     "HOLY_SMITE_RAID_DESCRIPTION": "Hace 180% de daño que penetra el 90% de la defensa del enemigo.",

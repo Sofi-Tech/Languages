@@ -1,3 +1,13 @@
 {
-    "NOT_IN_GUILD": "{{author}} U zit niet in een guild"
+    "NOT_IN_GUILD": "{{author}} U zit niet in een guild",
+    "GUILDLEAVE_DESCRIPTION": "Gebruikt dit commando om uw huidige guild te verlaten of te verwijderen als u een Founder bent. Nadat u een guild verlaat moet u 48 uur wachten voordat u een nieuwe kunt joinen. ",
+    "GUILDLEAVE_CATEGORY": "Guilds",
+    "I_BUTTON_LABEL": "Ik",
+    "AM_BUTTON_LABEL": "weet",
+    "ABSOLUTELY_BUTTON_LABEL": "het",
+    "SURE_BUTTON_LABEL": "zeker",
+    "GUILD_DELETE_SUCCESS": "De guild is succesvol verwijderd",
+    "GUILD_LEAVE_CONFIRM": "Weet u zeker dat u guild **{{guildName}}** wilt verlaten? \n\nHet regelmatig verlaten van guilds is verboden. \nU kunt na 48 uur weer een nieuwe guild joinen.",
+    "DECIDED_TO_LEAVE": "Weet u zeker dat u uw guild wilt verlaten?\n",
+    "PROCEED_OPTIONS": "U kunt een van de volgende opties kiezen: \n\n"
 }

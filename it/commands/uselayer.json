@@ -1,1 +1,11 @@
-{}
+{
+    "USELAYER_CATEGORY": "Cosmetici",
+    "UL_CORRECT_USAGE": "{{author}} Utilizzo corretto: `{{prefix}}ul <CardCode> <Layer-ID>`",
+    "CARD_INVALID": "{{author}} Il codice della carta che hai fornito non è valido o non è presente nella tua collezione",
+    "USELAYER_DESCRIPTION": "Questo comando applicherà un livello selezionato a una carta di tua scelta. Puoi acquistare Layer utilizzando il comando \"{{prefix}}layershop\"",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Non puoi applicare un **Layer** a una carta **GIF**",
+    "UL_EMBED_FOOTER": "Confermare questo processo distruggerà il Layer attualmente applicato",
+    "CARD_NOT_IN_COLLECTION": "{{author}} La carta non è più nella tua collezione",
+    "USE_LAYER_CONFIRM": "Sei sicuro di voler applicare il **{{name}}** **Layer** a questa carta?",
+    "NO_LAYER_FOUND": "{{author}} Impossibile trovare **Layer** con ID `{{layerId}}`"
+}

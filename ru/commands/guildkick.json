@@ -1,3 +1,6 @@
 {
-    "GUILDKICK_DESCRIPTION": "Выгнать участника из гильдии"
+    "GUILDKICK_DESCRIPTION": "Выгнать участника из гильдии",
+    "GUILDKICK_CATEGORY": "Гильдии",
+    "PLAYER_NOT_EXIST": "{{author}} Не удалось найти данного пользователя",
+    "NOT_IN_GUILD": "{{author}} Вы не состоите в гильдии"
 }
