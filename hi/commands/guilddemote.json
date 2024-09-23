@@ -13,6 +13,6 @@
     "PROVIDE_GUILD_RANK": "{{author}} पद घटाने के लिए गिल्ड का एक पद प्रदान करें: \n> {{ranks}}",
     "DEMOTE_OTHERS_ERROR": "{{author}} दूसरों का पद घटाने के लिए आपका **Founder** या **Guildmaster** होना आवश्यक है",
     "DEMOTE_NEWBIE_ERROR": "{{author}} केवल **Guildmasters** और **Veterans ** का ही पद घटा कर **Newbie** किया जा सकता है",
-    "GD_CORRECT_USAGE": "{{author}} सही उपयोग: `{{usage}}`",
+    "GD_CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gd <@User/UserID> <V/N>`",
     "GUILDDEMOTE_CATEGORY": "गिल्डस"
 }

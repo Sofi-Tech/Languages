@@ -1,6 +1,6 @@
 {
     "DESELECT_DESCRIPTION": "यह कमांड का उपयोग वर्तमान डेक में सेव करे हुए पत्ते को हटाने के लिए किया जा सकता है",
-    "ENTER_VALID_CODE": "{{author}} मान्य कोड प्रदान करें",
+    "ENTER_VALID_CODE": "{{author}} सही उपयोग: `{{prefix}}ds <CardCode>`",
     "DESELECTED_SUCCESSFULLY": "{{author}} पत्ते को सफलतापूर्वक अचयनित किया गया",
     "DESELECT_CATEGORY": "Guilds",
     "NOT_OWN_CARD": "{{author}} आपके द्वारा प्रदान किया गया कोड या तो अमान्य है या आपके संग्रह में मौजूद नहीं हैं"
