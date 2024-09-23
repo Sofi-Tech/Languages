@@ -13,5 +13,6 @@
     "NOT_GUILD_MEMBER": "{{author}} Cet utilisateur n'est pas un membre d votre guilde",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Seuls les **Guildmasters** et les **Veterans** peuvent être rétrogradés au rang de **Newbies**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Vous devez être un **Founder** ou ** Guildmaster** pour rétrograder les autres",
-    "NO_GUILD_INFO": "{{author}} Impossible de trouver les informations de guilde pour cet utilisateur"
+    "NO_GUILD_INFO": "{{author}} Impossible de trouver les informations de guilde pour cet utilisateur",
+    "GD_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{usage}}`"
 }
