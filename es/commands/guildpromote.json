@@ -1,5 +1,5 @@
 {
-    "NO_GUILD_INFO": "{{author}} No se pudo encontrar información en el gremio de ese usuario",
+    "NO_GUILD_INFO": "{{author}} No se pudo encontrar información en el gremio de este usuario",
     "GUILDPROMOTE_DESCRIPTION": "Usa este comando para aumentar el rango a un miembro seleccionado del gremio",
     "GUILDPROMOTE_CATEGORY": "Gremios",
     "GP_CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}gp <@Usuario/IDDelUsuario>`",

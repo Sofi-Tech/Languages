@@ -13,5 +13,6 @@
     "DEMOTE_NEWBIE_ERROR": "{{author}} Nur **Guildmasters** und **Veterans** können zu **Newbies** degradiert werden",
     "DEMOTED_ADVENTURER": "{{member}} wurde zum **Adventurer** degradiert",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Nur **Veterans** können zu **Adventurers** degradiert werden",
-    "DEMOTE_OTHERS_ERROR": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um andere zu degradieren"
+    "DEMOTE_OTHERS_ERROR": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um andere zu degradieren",
+    "GD_CORRECT_USAGE": "{{author}}Korrekte Verwendung: `{{prefix}}gd <@User/UserID> <V/N>`"
 }

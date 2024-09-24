@@ -14,5 +14,6 @@
     "BUY_EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_PAY": "Paghi: {{additionalInfo}}",
     "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Hai comprato con successo **{{amount}}** **{{itemName}}**",
-    "GS_EMBED_FOOTER": "Questo affare scadrà tra {{date}}"
+    "GS_EMBED_FOOTER": "Questo affare scadrà tra {{date}}",
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Acquistato con successo `{{amount}}` **{{layerName}}** **{{itemName}}**"
 }

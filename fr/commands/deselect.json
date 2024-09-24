@@ -1,7 +1,7 @@
 {
     "DESELECT_DESCRIPTION": "Cette commande peut être utilisée pour retirer une carte de tous les decks dans lesquels elle est actuellement enregistrée",
     "DESELECT_CATEGORY": "Guildes",
-    "ENTER_VALID_CODE": "{{author}} Entrez un code de carte valide",
+    "ENTER_VALID_CODE": "{{author}} Utilisation correcte: `{{prefix}}ds <CodeDeCarte>`",
     "DESELECTED_SUCCESSFULLY": "{{author}} La carte a été désélectionnée avec succès",
     "NOT_OWN_CARD": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection"
 }

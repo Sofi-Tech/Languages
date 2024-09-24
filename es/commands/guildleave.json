@@ -18,6 +18,6 @@
     "TRANSFER_SUCCESS": "{{author}} ha salido del gremio y el nuevo **Founder** es <@{{userId}}>",
     "GUILD_LEAVE_CANCEL": "{{author}} decidió no salirse del gremio",
     "GUILD_LEAVE_CONFIRM": "Estás seguro que quieres salir del gremio **{{guildName}}**? \n\nSalirse de gremios frecuentemente no está permitido. \nPodrás volver a ingresar a un gremio en 48 horas.",
-    "GD_EMBED_DESCRIPTION": "Estas por eliminar el gremio **{{guildName}}**. \nHay **{{size}} miembros** en tu gremio. \nEl nivel de gremio es **{{level}}**. \nTodo el progreso y recursos en el vault se perderán. \nEste proceso no se puede revertir. \n\nEstás seguro de querer eliminar el gremio?",
+    "GD_EMBED_DESCRIPTION": "Estas por eliminar el gremio **{{guildName}}**. \nHay **{{size}} miembros** en tu gremio. \nEl nivel de gremio es **{{level}}**. \nTodo el progreso y recursos en la bóveda se perderán. \nEste proceso no se puede revertir. \n\nEstás seguro de querer eliminar el gremio?",
     "NOT_IN_GUILD": "{{author}} No te encuentras en ningún gremio"
 }

@@ -14,5 +14,6 @@
     "YOU_PAY": "Vous payez: {{additionalInfo}}",
     "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
     "CODE_ONE": "<:linedown:868888105611046942> Code 1",
-    "NEED_GEMS": "{{author}} Vous n'avez pas suffisamment de **{{currency}}** pour échanger les code de carte"
+    "NEED_GEMS": "{{author}} Vous n'avez pas suffisamment de **{{currency}}** pour échanger les code de carte",
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Achat avec succès de `{{amount}}` **{{layerName}}** **{{itemName}}**"
 }

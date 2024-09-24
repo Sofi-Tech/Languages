@@ -3,7 +3,7 @@
     "USELAYER_CATEGORY": "Cosmeticos",
     "NO_LAYER_FOUND": "{{author}} No se pudo encontrar **Layer** con ID `{{layerId}}`",
     "UL_CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}ul <CodigoDeCarta> <Layer-ID>`",
-    "CARD_INVALID": "{{author}} El codigo proveido es invalido o no se encuentra en tu coleccion",
+    "CARD_INVALID": "{{author}} El código de carta que proporcionaste es inválido o no se encuentra en tu colección",
     "CANNOT_APPLY_LAYER_GIF": "{{author}} No puedes aplicar un **Layer** a una carta **GIF**",
     "USE_LAYER_CONFIRM": "Estas seguro que quieres apicar el **{{name}}** **Layer** a esta carta?",
     "CARD_NOT_IN_COLLECTION": "{{author}} La carta no se encuentra en tu coleccion",

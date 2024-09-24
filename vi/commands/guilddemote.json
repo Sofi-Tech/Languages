@@ -14,5 +14,5 @@
     "DEMOTED_VETERAN": "{{member}} bị giáng chức xuống **Veteran**",
     "DEMOTED_ADVENTURER": "{{member}} bị giáng chức xuống **Adventurer**",
     "NOT_GUILD_MEMBER": "{{author}} Người dùng này không phải là thành viên bang hội của bạn",
-    "GD_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{usage}}`"
+    "GD_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gd <@User/UserID> <V/N>`"
 }

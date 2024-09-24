@@ -14,5 +14,6 @@
     "CODE_ONE": "<:linedown:868888105611046942> Code 1",
     "CODE_TWO": "<:linedown:868888105611046942> Code 2",
     "GS_EMBED_FOOTER": "Dieses Angebot läuft in {{date}} aus",
-    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} **{{amount}}** **{{itemName}}** erfolgreich gekauft"
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} **{{amount}}** **{{itemName}}** erfolgreich gekauft",
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}}Erfolgreich gekauft`{{amount}}` **{{layerName}}** **{{itemName}}**"
 }

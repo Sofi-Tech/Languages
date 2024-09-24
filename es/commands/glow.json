@@ -2,7 +2,7 @@
     "GLOW_DESCRIPTION": "Este comando aplicará el Glow especificado a una carta de tu colección. Los Glows agregan un efecto brillante alrededor del borde del Frame de tus cartas. Puedes comprar Glows usando el comando \"{{prefix}}unlockglow\"",
     "GLOW_CATEGORY": "Cosméticos",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}glow <CódigoDeCarta> <#CódigoDeGlow>`",
-    "WRONG_CARD": "{{author}} El código de carta que proporcionaste no es válido o no está en tu colección",
+    "WRONG_CARD": "{{author}} El código de carta que proporcionaste es inválido o no se encuentra en tu colección",
     "NO_GIF_CARDS": "{{author}} No puedes aplicar un **Glow** a una carta **GIF**",
     "INVALID_GLOW_CODE": "{{author}} Los códigos **Glow** siempre empiezan con un `#`",
     "GLOW_NOT_FOUND": "{{author}} El código de **Glow** que has proporcionado no es válido o no está en tu inventario",

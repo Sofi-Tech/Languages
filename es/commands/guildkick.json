@@ -11,6 +11,6 @@
     "KICK_CANCEL": "Has decidido no echar a <@{{memberId}}> del gremio",
     "GUILDKICK_DESCRIPTION": "Este comando puede ser usado por un Founder o Guildmaster para echar a un miembro del gremio",
     "MUST_BE_FOUNDER": "{{author}} Tienes que ser un **Founder** o **Guildmaster** en el gremio para echar a miembros",
-    "PLAYER_NOT_EXIST": "{{author}} No se pudo encontrar a ese usuario",
+    "PLAYER_NOT_EXIST": "{{author}} No se pudo encontrar a este usuario",
     "NOT_IN_GUILD": "{{author}} No te encuentras en ningún gremio"
 }

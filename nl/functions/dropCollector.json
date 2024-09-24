@@ -11,5 +11,6 @@
     "GRAB_VERSION": "{{winner}} heeft {{user}} verslagen en **grijpt** de **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nGebruik de `{{prefix}}vt` opdracht om deze Version Token te bekijken",
     "CARDS_DROPPED_BY": "{{user}} heeft kaarten **gedropt**",
     "GRAB_CARD_PLURAL": "{{winner}} heeft gevochten met**{{userCount}}** andere spelers en **pakte** de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_VERSION_PLURAL": "{{winner}} heeft **{{userCount}}** andere spelers verslagen en **grijpt** de **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGebruik de `{{prefix}}vt` opdracht om deze Version Token te bekijken"
+    "GRAB_VERSION_PLURAL": "{{winner}} heeft **{{userCount}}** andere spelers verslagen en **grijpt** de **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nGebruik de `{{prefix}}vt` opdracht om deze Version Token te bekijken",
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Je staat op de zwarte lijst of quarantaine of bent niet geregistreerd en kunt deze kaart niet pakken"
 }

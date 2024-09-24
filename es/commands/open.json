@@ -1,5 +1,5 @@
 {
-    "SLASH_DESC_1": "Introduce el itemi que quieres abrir",
+    "SLASH_DESC_1": "Introduce el ítem que quieres abrir",
     "SLASH_DESC_2": "Introduce la cantidad",
     "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}open <NombreDelItem> <Cantidad>`",
     "EMPTY_INV": "{{author}} Tu inventario está vacío",
@@ -10,7 +10,7 @@
     "PROVIDE_NUM": "{{author}} Puedes abrir un máximo de **10** **{{chestName}}** a la vez",
     "CHEST_MISSING": "{{author}} No tienes **{{count}}** **{{chestName}}** en tu inventario",
     "COMMON_INFO_1": "Has abierto **{{totalChests}}** **{{chestName}}**",
-    "ITEMS_FOUND": "**__Items obtenidos__**",
+    "ITEMS_FOUND": "**__Ítems obtenidos__**",
     "EXOTIC_DIVINE_FOOTER": "Puedes obtener {{article}} {{chestName}} por hacer vote {{count}} veces cada mes",
     "NAME": "Nombre:",
     "OPEN_DESCRIPTION": "Usa este comando para abrir cofres obtenidos en varias actividades en Sofi",

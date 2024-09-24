@@ -1,5 +1,5 @@
 {
-    "MULTITRADE_DESCRIPTION": "Eeste comando enviará una solicitud de intercambio al otro jugador que hayas seleccionado. Una vez que acepten tu solicitud, el mensaje embed permitirá a ambos jugadores agregar multiples cartas y objetos simultaneamente. Una vez que ambas partes hayan bloqueado su sección y acordado su intercambio, los contenidos de la ventana de intercambio opuesta seran agregados a tu cuenta",
+    "MULTITRADE_DESCRIPTION": "Este comando enviará una solicitud de intercambio al otro jugador que hayas seleccionado. Una vez que acepten tu solicitud, el mensaje embed permitirá a ambos jugadores agregar múltiples cartas y ítems simultáneamente. Una vez que ambas partes hayan bloqueado su sección y acordado su intercambio, los contenidos de la ventana de intercambio opuesta serán agregados a tu cuenta",
     "MENTION_USER": "{{author}} Uso correcto: `{{prefix}}mt <@Usuario/IDDeUsuario>`",
     "IN_TRADE": "{{user}} Ya has enviado una solicitud de intercambio a alguien. Cancela la anterior antes de iniciar una nueva",
     "BOT_TRADE": "{{author}} No puedes hacer intercambios con un `BOT`",
@@ -10,7 +10,7 @@
     "AUTHOR_IS_QUED": "{{author}} Estás en cuarentena",
     "MEMBER_IS_QUED": "{{author}} Ese usuario está en cuarentena",
     "BUY_TP_1": "{{user}} no tiene un **Trade Pass** activo",
-    "BUY_TP_2": "Visita nuestra página web para hacer **Bump** y canjear tus puntos por artículos, incluido el **Trade Pass**",
+    "BUY_TP_2": "Visita nuestra página web para hacer **Bump** y canjear tus puntos por ítems, incluido el **Trade Pass**",
     "FINISH_TRADE_WARN": "{{author}} Tienes que completar el comando `{{commandName}}` antes de continuar",
     "SENT_TRADE": "¿Quieres aceptar la solicitud de intercambio de {{author}}?",
     "ENTER_NOTE": "Introduce una nota",
@@ -21,12 +21,12 @@
     "MT_ENDS": "SOFI: MULTITRADE (⏳{{timer}})",
     "MT_INFO_1": "🤝 Prefijos: **Background [&]** | **Glow [#]** | **Frame [$]** | **Tag [%]** | **Version Token [!]**",
     "MT_INFO_3": "🗒️ Añade una nota a tu intercambio para contextualizar nuestros registros",
-    "MT_INFO_4": "📛 Está terminantemente prohibido intercambiar objetos Sofi por criptomonedas",
+    "MT_INFO_4": "📛 Está estrictamente prohibido intercambiar ítems en Sofi por criptomonedas",
     "MT_COMPLETE": "SOFI: MULTITRADE",
-    "MISSING_ITEMS": "{{user}} Los siguientes items no se encuentran en tu inventario y no pudieron ser agregados:\n{{items}}",
+    "MISSING_ITEMS": "{{user}} Los siguientes ítems no se encuentran en tu inventario y no pudieron ser agregados:\n{{items}}",
     "CARD_LOCKED": "{{user}} Las siguientes cartas están aseguradas o se usan actualmente en un deck y no pudieron ser agregadas: \n{{codes}}",
     "MEMBER_NOT_VERIFIED": "{{author}} Ese usuario no está verificado",
     "CARD_TAG_LOCKED": "{{author}} No puedes intercambiar tags que contengan cartas aseguradas",
-    "MT_TRADE_ERROR": "⚠️ Algunos de los items o cartas proporcionados en esta ventana de intercambio ya no son válidos!",
+    "MT_TRADE_ERROR": "⚠️ Algunos de los ítems o cartas proporcionados en esta ventana de intercambio ya no son válidos!",
     "NOTE_BUTTON_LABEL": "Nota"
 }

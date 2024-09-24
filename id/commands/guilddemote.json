@@ -13,5 +13,6 @@
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Hanya **Veteran** yang dapat diturunkan pangkatnya menjadi **Adventurer**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat orang lain",
     "DEMOTED_ADVENTURER": "{{member}} diturunkan pangkatnya menjadi **Adventurer**",
-    "MUST_HAVE_AUTHORITY": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat anggota guild Anda"
+    "MUST_HAVE_AUTHORITY": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat anggota guild Anda",
+    "GD_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gd <@User/UserID> <V/N>`"
 }

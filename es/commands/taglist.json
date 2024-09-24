@@ -1,7 +1,7 @@
 {
     "TAGLIST_DESCRIPTION": "Usa este comando para mostrar la lista de los tags actuales de un usuario. Puedes usar el comando \"{{prefix}}tagcreate\" para cear mas tags",
     "TL_CATEGORY": "Tags",
-    "NO_USER": "{{author}} No se ha podido encontrar a ese usuario",
+    "NO_USER": "{{author}} No se pudo encontrar a este usuario",
     "NO_TAGS": "{{author}} Ese usuario no tiene ningún tag",
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Un tag bloqueado no puede quemarse ni intercambiarse",
