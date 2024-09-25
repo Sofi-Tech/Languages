@@ -10,5 +10,9 @@
     "SI_TOTAL_GIVEN": "Toplam Verilen",
     "SI_TOTAL_TRADES": "Toplam Takas",
     "SI_NAME_UNAVAILABLE": "İsim Mevcut Değil",
-    "EMBED_FOOTER": "Sunucu Öneki: \"{{prefix}}\""
+    "EMBED_FOOTER": "Sunucu Öneki: \"{{prefix}}\"",
+    "SI_NOT_SET": "Ayarlı değil",
+    "ONE_LANG_MENU_LABEL": "Sadece {{locale}}",
+    "ALLOW_LANG_MENU_LABEL": "Tüm dillere izin ver",
+    "RESTRICT_LANG_MENU_PLACEHOLDER": "Sunucunuzdaki dilleri sınırlayın"
 }

@@ -1,5 +1,5 @@
 {
-    "PC_INTRO": "<:_:979009081325019156> **Tanıtım**: Bir tanıtım mesajı ayarlayın\n<:_:979009081325019156> **Favori Karakter**: Favori karakterinizi seçin\n<:_:979009081325019156> **Favori Dizi**: Favori dizinizi seçin\n<:_:979009081325019156> **Gösterim kartı**: Profilinizde görüntülenecek bir kart seçin\n<:_:979009081325019156> **Profil Arka Planı**: Profiliniz için bir arka plan ayarlayın\n<:_:979009081325019156> **Yazı Tipi Rengi**: Profilinizin metin rengini değiştirin\n<:_:979009081325019156> **Profil Parıltısı**: Profilinize parlak bir efekt uygulayın\n<:_:979009081325019156> **Rozetler**: Rozetleri profilinizde görüntüleyin\n<:_:979009081325019156> **Profil Rengi**: Profilinizin temel rengini değiştirin\n<:_:979009081325019156> **GIF'i etkinleştir**: Animasyonlu profil resmini ve seçili kartı etkinleştir",
+    "PC_INTRO": "<:_:979009081325019156> **Tanıtım**: Profiliniz için bir tanıtım mesajı ayarlayın\n<:_:979009081325019156> **Favori Karakter**: Favori karakterinizi seçin\n<:_:979009081325019156> **Favori Seri**: Favori serinizi seçin\n<:_:979009081325019156> **Gösterim kartı**: Profilinizde görüntülenecek bir kart seçin\n<:_:979009081325019156> **Profil Arka Planı**: Profiliniz için bir arka plan ayarlayın\n<:_:979009081325019156> **Yazı Tipi Rengi**: Profilinizin metin rengini değiştirin\n<:_:979009081325019156> **Profil Glow'u**: Profilinize bir glow efekti uygulayın\n<:_:979009081325019156> **Rozetler**: Rozetleri profilinizde görüntüleyin\n<:_:979009081325019156> **Profil Rengi**: Profilinizin temel rengini değiştirin\n<:_:979009081325019156> **Profil Çerçevesi**: Profil resminizin çerçevesini değiştirin\n<:_:979009081325019156> **GIF'i etkinleştir**: Profil resminin ve seçili kartın animasyonunu etkinleştirin",
     "PROFILECONFIG_DESCRIPTION": "Bu komutla profil kartınızı çeşitli şekillerde özelleştirebileceksiniz",
     "PC_CATEGORY": "Ayarlar",
     "PC_EMBED_TITLE": "SOFI: PROFİLİ YAPILANDIR",
@@ -85,7 +85,7 @@
     "CARD_NOT_FOUND": "{{author}} Seçilen kart bulunamadı",
     "BUILDING_COMPONENTS": "{{author}} Yapı bileşenleri inşa ediliyor... 🏗️ <a:_:876610443148406794>",
     "COMBINING_ELEMENTS": "{{author}} Elementler birleşiyor... 🔄 <a:_:876610443148406794>",
-    "GIF_SUCCESSFUL": "{{author}} GIF profili başarıyla oluşturuldu. Görüntülemek için `spro` komutunu kullanın",
+    "GIF_SUCCESSFUL": "{{author}} GIF profili başarıyla oluşturuldu. Görüntülemek için \"{{prefix}}pro\" komutunu kullanın",
     "NO_PBG_INV": "Envanterinizde `{{id}}' ID sine sahip **Profile Background** bulunamadı",
     "PROCESSING_GIF": "{{author}} GIF'iniz işleniyor... <a:_:876610443148406794>\nBu biraz zaman alabilir, oynamaya devam edebilirsiniz",
     "PURHCASE_SUCCESSFUL": "**{{backgroundName}}** **Profile Background** başarıyla satın alındı",
@@ -93,5 +93,20 @@
     "FINAL_TOUCHES": "{{author}} Son rötuşlar uygulanıyor... ✨ <a:_:876610443148406794>",
     "SUCCESSFUL_CHARACTER": "{{author}} Başarıyla **{{characterName}}** favori karakteriniz olarak ayarlandı",
     "PBG_EXIST_INV": "Envanterinizde zaten `{{id}}' ID sine sahip bir **Profile Background** var",
-    "PCOLOR_PROCESS_CONSUME": "*Bu işlem 10 <:_:870339503427027005>* tüketecektir"
+    "PCOLOR_PROCESS_CONSUME": "*Bu işlem 10 <:_:870339503427027005>* tüketecektir",
+    "NO_PR_FOUND": "`{{id}}` ID numaralı **Profil Çerçevesi** envanterinde bulunamadı",
+    "PROVIDE_PROFILE_RING": "Profil Çerçevesinin ID numarasını girin. | Sıfırlamak için \"none\" yazın.",
+    "PBG_PURCHASE_EVENT": "Bu **Profil Arkaplanı** sadece kendi eventinde satın alınabilir",
+    "PR_MENU_LABEL": "Profil Çerçevesi",
+    "GIF_NOTE": "Not: Profilinizi GIF'e çevirmek profilinizdeki Glow'u silecek.\nDevam etmek istediğinize emin misiniz?",
+    "SELECT_PR_CONFIRM": "**{{ringName}}** adlı **Profil Çerçevesini** seçmek istediğine emin misin?",
+    "NO_RING_FOUND": "Bu ID numarasıyla herhangi bir **Profil Çerçevesi** bulunamadı",
+    "RING_PURCHASE_SUCCESS": "**{{ringName}}** **Profil Çerçevesini** başarıyla satın aldınız",
+    "PURCHASE_RING_MODAL_LABEL": "Profil Çerçevesi ID numarasını girin",
+    "RING_PURCHASE_MODAL_TITLE": "Profil Çerçevesini satın alın",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "örneğin 101",
+    "SET_RING_CONFIRM": "**{{ringName}}** adlı Profil Çerçevesini uygulamak istediğinize emin misiniz?",
+    "NO_ENOUGH_AMOUNT_RING": "Bu **Profil Çerçevesini** satın almak için yeterli **{{currency}}** yok",
+    "INVALID_RING_ID": "Geçersiz **Profil Çerçevesi** ID numarası",
+    "RING_ALREADY_IN_INV": "Bu **Profil Çerçevesi** zaten sahipsiniz"
 }

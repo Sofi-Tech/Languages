@@ -1,9 +1,9 @@
 {
-    "GUILDLEAVE_DESCRIPTION": "Gamitin ang command na ito upang umalis sa kasalukuyan mong guild o burahin ito kung ikaw ay Founder. Matapos umalis sa guild, kailangan mong maghintay ng 48 oras bago sumali sa isa pa. ",
+    "GUILDLEAVE_DESCRIPTION": "Gamitin ang command na ito upang umalis sa kasalukuyan mong guild o burahin ito kung ikaw ang Founder. Matapos umalis sa guild, kailangan mong maghintay ng 48 oras bago sumali sa iba pa. ",
     "GUILDLEAVE_CATEGORY": "Mga Guild",
     "I_BUTTON_LABEL": "Ako",
     "AM_BUTTON_LABEL": "ay",
-    "NOT_IN_GUILD": "{{author}} Wala ka sa alinmang guild",
+    "NOT_IN_GUILD": "{{author}} Hindi ka kasali sa kahit anong guild",
     "GD_EMBED_DESCRIPTION": "Malapit mo nang burahin ang guild na **{{guildName}}** guild. \nMayroong **{{size}} na miyembro**sa iyong guild. \nAng guild ay nasa antas na **{{level}}**. \nAng lahat ng progreso at mga yaman sa vault nito ay mawawala. \nAng prosesong ito ay hindi na maibabalik. \n\nSigurado ka bang gusto mong burahin ang guild?",
     "ABSOLUTELY_BUTTON_LABEL": "tiyak",
     "SURE_BUTTON_LABEL": "sigurado",

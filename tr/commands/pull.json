@@ -7,13 +7,13 @@
     "PULLS": "SOFI: ÇEKİMLER",
     "PULL_COUNT": "Çekim Sayısı: [ {{count}} ]",
     "MISSING_CURR": "{{user}} Bu işlem için yeterli **{{currName}}** elinizde bulunmuyor",
-    "AMOUNT": "Elde ettiğiniz: {{currencyEmoji}} **{{amount}}x** {{pullOutcome}}",
+    "AMOUNT": "Elde ettiğiniz: {{currencyEmoji}} **{{amount}}** {{pullOutcome}}",
     "PULL_COUNT_WIST": "Çekim Sayısı: [ {{pullcount}} ]",
     "RATES": "Oranlar",
     "PULL_CHANCES": "**__Olasılıklar__**",
     "GIF_CHANCE": "Çekim yapın ve GIF kartı kazanma şansını yakalayın",
     "GIFS_EMBED_TITLE": "SOFI: HAREKETLİ KARTLAR",
     "ACTIVE_POOL": "**Aktif Havuz**",
-    "GIF_EMBED_FOOTER": "Çekmelerden animasyonlu kart elde etme şansınız %0,5'tir",
+    "GIF_EMBED_FOOTER": "Çekmelerden animasyonlu kart elde etme şansınız %0,5'tir.",
     "GIFS": "GIF'ler"
 }
