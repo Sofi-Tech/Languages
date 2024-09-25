@@ -40,5 +40,6 @@
     "PAGE_INFO": "Seite: {{currentPage}}/{{maxPages}}",
     "CANCEL": "Abbrechen",
     "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schief gelaufen, bitte versuche es erneut",
-    "AVAILABLE": "Verfügbar"
+    "AVAILABLE": "Verfügbar",
+    "NOT_AVAILABLE": "Nicht verfügbar"
 }
