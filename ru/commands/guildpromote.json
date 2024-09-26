@@ -1,4 +1,19 @@
 {
-    "NO_GUILD_INFO": "{{author}} Не удалось найти информацию о гильдии для данного пользователя",
-    "GUILDPROMOTE_DESCRIPTION": "Используйте данную команду, чтобы повысить ранг выбранного участника гильдии"
+    "NO_GUILD_INFO": "{{author}} Не удалось найти информацию о гильдии данного пользователя",
+    "GUILDPROMOTE_DESCRIPTION": "Используйте данную команду, чтобы повысить ранг выбранного участника гильдии",
+    "GUILDPROMOTE_CATEGORY": "Гильлии",
+    "GP_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gp <@User/UserID>`",
+    "NOT_MEMBER": "{{author}} Данный пользователь не является участником вашей гильдии",
+    "ALREADY_FOUNDER": "{{author}} Данный пользователь уже является **Founder** гильдии",
+    "PROVIDE_FOUNDER_RANK": "{{author}} Присвойте ранг в гильдии для повышения:\n> **F**ounder, **G**uildmaster, **V**eteran",
+    "PROVIDE_VETERAN_RANK": "{{author}} Присвойте ранг в гильдии для повышения:\n> **V**eteran",
+    "PROMOTED_TO_VETERAN": "{{member}}успешно повышен до **Veteran**",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} только **Adventurers** могут быть повышены до **Veteran**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} только **Adventurers** и **Veterans** могут быть повышены до **Guildmaster**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "**Вы собираетесь передать права владения гильдией {{member}}. Вы уверены?**",
+    "TRANSFER_OWNERSHIP_CANCEL": "Процесс был отменен",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} только **Guildmasters** могут быть повышены до **Founder**",
+    "MUST_BE_FOUNDER": "{{author}} Для повышения участника гильдии вы должны быть **Founder** или **Guildmaster**",
+    "TRANSFER_OWNERSHIP_SUCCESS": "**Новый владелец гильдии теперь <@{{memberId}}>**",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} успешно повышен до **Guildmaster**"
 }

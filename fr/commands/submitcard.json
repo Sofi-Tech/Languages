@@ -28,7 +28,7 @@
     "SUBMISSION_DENY": "{{author}} Le processus a été annulé",
     "USE_DISCORD_LINK": "<:_:979009081325019156> L'image envoyée **doit** utiliser un lien Discord officiel, tel que `cdn.discordapp.com` ou `media.discordapp.net`",
     "NOT_PING_STAFF": "<:_:979009081325019156> L'image envoyée **doit** être un fichier `PNG` ou `JPG`",
-    "CARD_TEMPLATE": "Modèle de Carte: **[Télécharger le fichier PSD](https://cdn.discordapp.com/attachments/872705434509803551/1129781693679669268/sofi_card.psd)**",
+    "CARD_TEMPLATE": "Modèle de Carte: **[Télécharger le fichier PSD](https://cdn.discordapp.com/attachments/872705434509803551/1129781693679669268/sofi_card.psd?ex=66f0d272&is=66ef80f2&hm=06d1796f902c4263fddafcba496945096f9d38225753f7290c88ed0b6b70f7eb&)**",
     "CARD_INFO_CHANNEL": "Directives de Proposition: **[Visitez ici](https://discord.gg/EUp7rNVC4U)**",
     "EMBED_FOOTER": "Vos propositions: {{userStats}}/{{submitted}} | Nombre total de propositions: {{globalStats}}/{{allSubmit}}",
     "CARD_ID_INVALID": "{{author}} L'ID de Carte soumis n'est pas valide",

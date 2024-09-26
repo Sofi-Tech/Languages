@@ -7,7 +7,7 @@
     "NO_GLOWS": "{{author}} У данного пользователя нет **Glows**",
     "SUPER": "Super",
     "EMBED_TITLE": "SOFI: VIEW GLOW",
-    "EMBED_FOOTER": "Отображение страниц: {{page}}/{{totalPages}} | Всего: {{count}}",
+    "EMBED_FOOTER": "Отображение страницы: {{page}}/{{totalPages}} | Всего: {{count}}",
     "NO_GLOWS_FOUND": "{{author}} У вас нет отметки с названием `{{tagName}}`",
     "CANNOT_FIND_GLOW": "{{author}} Не удалось найти **Glow** с кодом `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VIEW GLOW",

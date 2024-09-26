@@ -97,12 +97,13 @@
     "PR_MENU_LABEL": "प्रोफाइल चक्र",
     "NO_PR_FOUND": "आपके संग्रह में `{{id}}` ID वाला **Profile Ring** नहीं मिला",
     "SELECT_PR_CONFIRM": "क्या आप वाकई **{{ringName}}** **Profile Ring** का चयन करना चाहते हैं?",
-    "PROVIDE_PROFILE_RING": "उस Profile Ring की ID दर्ज करें जिसे आप को अपने प्रोफाइल पर लगाना चाहते है | रिसेट करने के लिए खाली छोड़ें।",
+    "PROVIDE_PROFILE_RING": "उस Profile Ring की ID दर्ज करें जिसे आप अपने प्रोफाइल पर लगाना चाहते है | रिसेट करने के लिए खाली छोड़ें।",
     "GIF_NOTE": "नोट: अपनी प्रोफ़ाइल को GIF में बदलने से आपकी प्रोफ़ाइल से ग्लो हट जाएगा।\nक्या आप वाकई जारी रखना चाहते हैं?",
     "PBG_PURCHASE_EVENT": "यह **Profile Background** सिर्फ इसके संबंधित इवेंट के दौरान खरीदने के लिए उपलब्ध था",
-    "NO_RING_FOUND": "उस आईडी के साथ कोई **Profile Ring** नहीं मिल सकी",
+    "NO_RING_FOUND": "उस ID के साथ कोई **Profile Ring** नहीं मिली",
     "RING_ALREADY_IN_INV": "आपके संग्रह मैं पहले से ही वह **Profile Ring** मौजूद है",
     "RING_PURCHASE_SUCCESS": "**{{ringName}}** **Profile Ring** को सफलतापूर्वक खरीदा गया",
     "INVALID_RING_ID": "अमान्य **Profile Ring** ID",
-    "SET_RING_CONFIRM": "क्या आप वाकई **{{ringName}}** को अपनी Profile Ring के रूप में लागू करना चाहते हैं?"
+    "SET_RING_CONFIRM": "क्या आप वाकई में **{{ringName}}** को अपनी प्रोफाइल चक्र के रूप में लागू करना चाहते हैं?",
+    "NO_ENOUGH_AMOUNT_RING": "आपके पास **प्रोफाइल चक्र** खरीदने के लिए पर्याप्त **{{currency}}** नहीं है"
 }

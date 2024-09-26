@@ -1,5 +1,5 @@
 {
-    "GUILDJOIN_DESCRIPTION": "This command can be used to send a request to a Founder or Guildmaster to become a part of their guild. The selected player may then accept or reject your request",
+    "GUILDJOIN_DESCRIPTION": "This command can be used to send a request to a Founder or Guildmaster to become a part of their guild. The selected user may then accept or reject your request",
     "GUILDJOIN_CATEGORY": "Guilds",
     "INVALID_USER": "{{author}} Could not find that user",
     "PROVIDE_USER": "{{author}} Mention a **Founder** or **Guildmaster** to request to join a guild",

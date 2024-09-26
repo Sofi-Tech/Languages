@@ -39,7 +39,11 @@
     "MODAL_ERROR_RESPONSE": "Il y a eu une erreur lors de la recherche de réponse. Réessayez s'il vous plaît!",
     "PAGE_INFO": "Page: {{currentPage}}/{{maxPages}}",
     "CANCEL": "Annuler",
-    "NOT_AVAILABLE": "Non Disponible",
+    "NOT_AVAILABLE": "Indisponible",
     "SOMETHING_WENT_WRONG": "{{author}} Une erreur s'est produite, veuillez réessayer",
-    "AVAILABLE": "Disponible"
+    "AVAILABLE": "Disponible",
+    "G1_CLAIM_EMBED_TITLE": "**CARTE GEN {{gen}} RECUPEREE**",
+    "G1_CARD_VALUE": "Soyez sûr de rechercher la valeur de la carte avant d'échanger, et pensez à consulter les top fans pour vous aidez à trouver la vrai valeur de la carte.",
+    "G1_TOP_FANS": "Vous pouvez voir les top fans de ce personnage en utilisant la comande {{prefix}}cl.",
+    "G1_SINGLE_DIGIT": "Les cartes avec une Gen à un chiffre son rares et hautement convoitées par les joueurs. Les doublons de ces Gens sont hautement peu communs."
 }

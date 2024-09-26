@@ -41,5 +41,9 @@
     "CANCEL": "Cancelar",
     "NOT_AVAILABLE": "No disponible",
     "SOMETHING_WENT_WRONG": "{{author}} Algo falló, favor de volverlo a intentar",
-    "AVAILABLE": "Disponible"
+    "AVAILABLE": "Disponible",
+    "G1_SINGLE_DIGIT": "Cartas de Gen de un solo digito son raras y altamente buscadas por jugadores. Duplicados de esos Gens son extremadamente poco comun.",
+    "G1_CLAIM_EMBED_TITLE": "**CARTA GEN {{gen}} RECLAMADA**",
+    "G1_CARD_VALUE": "Asegurate de buscar el valor de la carta antes de tradear, y considera consultar los top fans para que te ayuden encontrar el verdadero valor.",
+    "G1_TOP_FANS": "Puedes revisar los top fans de este personaje usando el comando {{prefix}}cl."
 }

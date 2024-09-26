@@ -41,5 +41,9 @@
     "CANCEL": "Batal",
     "NOT_AVAILABLE": "Tidak Tersedia",
     "SOMETHING_WENT_WRONG": "{{author}} Ada yang tidak beres, silakan coba lagi",
-    "AVAILABLE": "Tersedia"
+    "AVAILABLE": "Tersedia",
+    "G1_CLAIM_EMBED_TITLE": "**KARTU GEN {{gen}} DIKLAIM**",
+    "G1_CARD_VALUE": "Pastikan untuk meneliti nilai kartu tersebut sebelum berdagang, dan pertimbangkan untuk berkonsultasi dengan penggemar top untuk membantu Anda menilai nilai sebenarnya.",
+    "G1_TOP_FANS": "Anda dapat memeriksa penggemar teratas karakter ini dengan menggunakan perintah {{prefix}}cl .",
+    "G1_SINGLE_DIGIT": "Kartu Gen satu digit jarang ditemukan dan sangat didambakan oleh para pemain. Duplikat Gen ini sangat jarang terjadi."
 }
