@@ -42,5 +42,8 @@
     "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schief gelaufen, bitte versuche es erneut",
     "AVAILABLE": "Verfügbar",
     "NOT_AVAILABLE": "Nicht verfügbar",
-    "G1_CLAIM_EMBED_TITLE": "**GEN {{gen}} KARTE EINGESAMMELT**"
+    "G1_CLAIM_EMBED_TITLE": "**GEN {{gen}} KARTE EINGESAMMELT**",
+    "G1_CARD_VALUE": "Stelle sicher, dass du eigene Nachforschungen über den Preis der Karte machst, bevor du diese handelst, und überlege dich mit den Top Fans zu beraten, um den Wert der Karte korrekt einzuschätzen.",
+    "G1_TOP_FANS": "Du kannst die Top Fans mit dem {{prefix}}cl Befehl einsehen.",
+    "G1_SINGLE_DIGIT": "Einstellige Gen Karten sind selten und bei den Spielern sehr beliebt. Duplikate dieser Gens sind extrem ungewöhnlich."
 }
