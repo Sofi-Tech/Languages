@@ -107,5 +107,6 @@
     "PURCHASE_RING_MODAL_LABEL": "Введите идентификатор Profile Ring",
     "NO_ENOUGH_AMOUNT_RING": "У вас недостаточно **{{currency}}** для покупки данного **Profile Ring**",
     "INVALID_RING_ID": "Недействительный идентификатор **Profile Ring**",
-    "RING_ALREADY_IN_INV": "В вашем инвентаре уже есть данное **Profile Ring**"
+    "RING_ALREADY_IN_INV": "В вашем инвентаре уже есть данное **Profile Ring**",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "Напр. 101"
 }

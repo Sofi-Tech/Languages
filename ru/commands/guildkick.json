@@ -1,16 +1,16 @@
 {
-    "GUILDKICK_DESCRIPTION": "Данная команда может быть использована основателем или главой гильдии для исключения участника из гильдии",
+    "GUILDKICK_DESCRIPTION": "Данная команда может быть использована Founder или Guildmaster для исключения участника из гильдии",
     "GUILDKICK_CATEGORY": "Гильдии",
     "PLAYER_NOT_EXIST": "{{author}} Не удалось найти данного пользователя",
     "NOT_IN_GUILD": "{{author}} Вы не состоите в гильдии",
     "CANNOT_KICK": "{{author}} Вы не можете исключить себя",
-    "PROVIDE_ID": "{{author}} Правильное использование: `{{prefix}}gk <@User/UserID>`",
+    "PROVIDE_ID": "{{author}} Правильное использование: `{{prefix}}gk <@Пользователь/ИдентификаторПользователя>`",
     "MEMBER_NOT_IN_GUILD": "{{author}} Данный пользователь не состоит в гильдии",
     "KICK_CONFIRM": "Вы уверены, что хотите исключить <@{{memberId}}> из гильдии?",
-    "KICK_SUCCESSFUL": "<@{{memberId}}> был успешно исключён из гильдии",
+    "KICK_SUCCESSFUL": "Вы успешно исключили <@{{memberId}}> из гильдии",
     "KICK_CANCEL": "Вы решили не исключать <@{{memberId}}> из гильдии",
     "FOUNDER_CANNOT_BE_KICKED": "{{author}} Вы не можете исключить **Founder** или **Guildmaster** из гильдии",
-    "MUST_BE_FOUNDER": "{{author}} Вы должны быть **Founder** или **Guildmaster** в гильдии для исключения участника гильдии.",
+    "MUST_BE_FOUNDER": "{{author}} Вы должны быть **Founder** или **Guildmaster** для исключения участника из гильдии",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "NOT_IN_YOUR_GUILD": "{{author}} Данный пользователь не является участником вашей гильдии"
 }
