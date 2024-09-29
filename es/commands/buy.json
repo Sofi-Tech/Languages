@@ -13,6 +13,6 @@
     "BUY_CHARMS_MULTIPLES": "{{author}} Solo puedes comprar **Charms** en múltiplos de 100",
     "BUY_GEN_CONFIRMATION": "## Estás comprando {{count}} {{itemName}} 💳",
     "LAYER_CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}buy layer <Layer-ID> <Cantidad>`",
-    "NO_LAYER_FOUND": "{{author}} No se pudo encontrar **Layer** con ID `{{layerId}}`",
-    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** con ID `{{layerId}}` es limitado y no se puede comprar"
+    "NO_LAYER_FOUND": "{{author}} No se pudo encontrar ningún **Layer** con ID `{{layerId}}`",
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} El **Layer** con ID `{{layerId}}` es limitado y no se puede comprar"
 }

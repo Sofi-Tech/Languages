@@ -101,11 +101,12 @@
     "GIF_NOTE": "Nota: Al convertir tu perfil a un GIF le quitará el Glow a tu perfil. \nEstás seguro de querer continuar?",
     "PBG_PURCHASE_EVENT": "Este **Profile Background** solo estaba disponible para compra durante su evento relacionado",
     "SET_RING_CONFIRM": "Estas seguro de querer usar el **{{ringName}}** como tu Profile Ring?",
-    "RING_PURCHASE_SUCCESS": "Se compro con exito el **{{ringName}}** **Profile Ring**",
+    "RING_PURCHASE_SUCCESS": "Se compro con éxito el **{{ringName}}** **Profile Ring**",
     "PURCHASE_RING_MODAL_LABEL": "Ingrese el ID del Profile Ring",
     "RING_PURCHASE_MODAL_TITLE": "Comprar Profile Ring",
     "NO_ENOUGH_AMOUNT_RING": "No tienes suficiente **{{currency}}** para comprar este **Profile Ring**",
     "INVALID_RING_ID": "ID del **Profile Ring** invalido",
-    "NO_RING_FOUND": "No se pudo encontrar ningun **Profile Ring** con ese ID",
-    "RING_ALREADY_IN_INV": "Ya tienes ese **Profile Ring** en tu inventario"
+    "NO_RING_FOUND": "No se pudo encontrar ningún **Profile Ring** con ese ID",
+    "RING_ALREADY_IN_INV": "Ya tienes ese **Profile Ring** en tu inventario",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.g. 101"
 }
