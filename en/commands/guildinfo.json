@@ -11,7 +11,7 @@
     "GI_LEVEL": "LVL {{level}}",
     "PLAYER_NOT_EXIST": "{{author}} Could not find that user",
     "NOT_IN_GUILD": "{{author}} You are not in any guild",
-    "INVALID_ID": "**{{author}} Invalid id provided, Finding guild with your id.**",
+    "INVALID_ID": "{{author}} Invalid ID provided",
     "CANT_FIND_GUILD": "{{author}} The guild information could not be retrieved. Please provide a guild ID or mention a guild member.",
     "GI_FOUNDER": "Founder",
     "GI_RATING": "Rating",
