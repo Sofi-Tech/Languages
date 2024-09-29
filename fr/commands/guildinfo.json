@@ -1,5 +1,5 @@
 {
-    "INVALID_ID": "**{{author}} Id invalide fourni, Recherche de la guilde avec votre id.**",
+    "INVALID_ID": "{{author}} ID invalide fourni",
     "GUILDINFO_DESCRIPTION": "Cette commande est utilisée pour accéder à l'encart intégré de la guilde, contenant les détails des membres, le coffre fort, l'artisanat, les boosts et d'autres fonctionnalités de la guilde en fonction de si c'est votre guilde ainsi que des permissions.",
     "GUILDINFO_CATEGORY": "Guildes",
     "BUFF_DESC_1": "Augmenter le taux de réussite des quêtes",

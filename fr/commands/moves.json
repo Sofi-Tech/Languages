@@ -19,7 +19,7 @@
     "MOVES_DESCRIPTION": "Affichez une liste de tous les mouvements disponibles et leur description, utilisez la commande \"{{prefix}}move <Nom>\" pour obtenir un aperçu plus détaillé",
     "MOVES_DEFENCE": "Défense",
     "SERIOUS_PUNCH_RAID_DESCRIPTION": "Augmente votre statistique d'attaque de 1.65x à 2.05x et effectue une attaque infligeant 135% de dégâts.",
-    "OUTBURST_RAID_DESCRIPTION": "Concentre sa rage sur le boss, effectuant 85% de la vie maximum de la carte l'utilisant + 25% de sa stat d'attaque en dégâts, et blessant le boss. Ces blessures répèteront les dégâts du coup initial chaque tour jusqu'à ce que la carte soit vaincue. Ce coup consumera 20% de la vie maximum de l'utilisateur chaque tour et une seule carte peut utiliser outburst par tour.",
+    "OUTBURST_RAID_DESCRIPTION": "Concentre sa rage sur le boss, effectuant 85% de la vie maximum de la carte l'utilisant + 25% de sa stat d'attaque en dégâts, et blessant le boss. Ces blessures répèteront les dégâts du coup initial chaque tour jusqu'à ce que la carte soit vaincue. Ce coup consumera 20% de la vie maximum de la carte utilisée chaque tour et une seule carte peut utiliser outburst par tour.",
     "VENOM_BITE_RAID_DESCRIPTION": "Effectue 20% de dégâts au boss, réduit son attaque de 50, et empoisonne la cible. Le poison commence à 120 dégâts pas tour, faisant 20 dégâts de plus chaque tour, et persiste même quand la carte est vaincue.",
     "BODY_SHOCK_RAID_DESCRIPTION": "Effectue 80% de dégâts et réduit la prochaine attaque du boss de 60%.",
     "VISION_STRIKE_RAID_DESCRIPTION": "Effectue 20% de dégâts et oblige le boss à attaquer la carte avec le plus de PV restants. Procure aussi un boost de 70% de DEF pour ce tour et les suivants.",
