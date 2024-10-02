@@ -1,5 +1,5 @@
 {
-    "NO_ONGOING_AUCTION": "{{author}} Il n'y a actuellement aucune auction active",
+    "NO_ONGOING_AUCTION": "{{author}} Il n'y a actuellement aucune enchères actives",
     "MINIMUM_AMOUNT": "{{author}} Vous devez enchérir un minimum de **{{amount}}** {{currencyEmoji}} pour cette enchère",
     "AI_CATEGORY": "Cartes",
     "BID_SELECTION": "Utilisez la commande {{prefix}}ai <ID-Auction> ou sélectionnez une enchère active depuis le menu ci-dessous",

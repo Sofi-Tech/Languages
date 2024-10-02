@@ -1,6 +1,6 @@
 {
     "DESELECT_CATEGORY": "Loncalar",
-    "ENTER_VALID_CODE": "{{author}} Doğru kullanım:`{{prefix}}ds <CardCode>`",
+    "ENTER_VALID_CODE": "{{author}} Doğru kullanım:`{{prefix}}ds <KartKodu>`",
     "DESELECTED_SUCCESSFULLY": "{{author}} Kartın seçimi başarıyla kaldırıldı",
     "NOT_OWN_CARD": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
     "DESELECT_DESCRIPTION": "Bu komut bir kartı şu anda bulunduğu herhangi bir desteden kaldırmak için kullanılır"

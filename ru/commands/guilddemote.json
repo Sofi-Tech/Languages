@@ -14,5 +14,5 @@
     "DEMOTE_VETERAN_ERROR": "{{author}} Только **Guildmasters** могут быть понижены до **Veterans**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Вы должны быть **Founder** или **Guildmaster**, чтобы понижать ранги участников гильдии",
     "PROVIDE_GUILD_RANK": "{{author}} Укажите ранг участника гильдии для понижения: \n> {{ranks}}",
-    "GD_CORRECT_USAGE": "{{author}} Использование: `{{prefix}}gd <@User/UserID> <V/N>`"
+    "GD_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gd <@Пользователь/ИдентификаторПользователя>`"
 }

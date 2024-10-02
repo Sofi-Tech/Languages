@@ -6,13 +6,13 @@
     "INVALID_USER": "{{author}} Не удалось найти данного пользователя",
     "NO_GUILD_FOUND": "{{author}} Не удалось найти информацию о гильдии данного пользователя",
     "QUARANTINED_USERS": "{{author}} Пользователи, находящиеся на карантине, не могут вступать в гильдии",
-    "VERIFY_TO_JOIN": "{{author}} Пройдите проверку на нашем [сайте](https://sofi.gg/verify), прежде чем вступить",
+    "VERIFY_TO_JOIN": "{{author}} Пройдите проверку на нашем [сайте](https://sofi.gg/verify), прежде чем вступать в гильдии",
     "LEAVING_GUILD": "{{author}} Вы можете вступить в гильдию через **{{cooldown}}**",
     "GUILD_IS_FULL": "{{author}} В данной гильдии нет свободных мест",
     "ALLOW_BUTTON_LABEL": "Принимаю",
     "DENY_BUTTON_LABEL": "Нет, спасибо",
-    "GUILD_JOIN_REJECT": "{{member}} отказал {{author}} стать **Adventurer** в их гильдии",
-    "NOT_FOUNDER": "{{author}} Данный пользователь не является **Founder** или **Guildmaster** в гильдии",
-    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} хочет вступить в вашу гильдию.\nПринимаете ли вы их как **Adventurer** в свою гильдию?",
-    "GUILD_JOIN_ACCEPT": "{{member}} принял {{author}} как **Adventurer** в их гильдию"
+    "GUILD_JOIN_REJECT": "{{member}} Вы отказали {{author}} в становлении **Adventurer** в вашей гильдии",
+    "NOT_FOUNDER": "{{author}} Данный пользователь не является **Founder** или **Guildmaster**",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} хочет вступить в вашу гильдию.\nПринимаете ли вы данного пользователя в вашу гильдию как **Adventurer**?",
+    "GUILD_JOIN_ACCEPT": "{{member}} Вы приняли {{author}} в вашу гильдию как **Adventurer**"
 }

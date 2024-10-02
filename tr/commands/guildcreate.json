@@ -1,1 +1,20 @@
-{}
+{
+    "GUILDCREATE_DESCRIPTION": "Bu komut bir lonca oluşturmak için bir Lonca Taşı tüketecektir",
+    "GUILDCREATE_CATEGORY": "Loncalar",
+    "NAME_CHAR_LIMIT": "{{author}} Loncanızın adı yalnızca **25** karakter uzunluğunda olabilir",
+    "NO_SPECIAL_FONT": "{{author}} Loncanızın adı özel karakterler içeremez",
+    "FOUNDER_INFO": "Kurucu: {{user}}",
+    "GC_INFO_1": "Bir lonca yaratıyorsunuz. Bu işlem **{{itemName}}** tüketecektir.",
+    "GC_INFO_2": "Bir lonca oluşturmak için **{{itemName}}** butonuna basın.",
+    "NEED_ITEM": "{{author}} Bir lonca oluşturmak için **{{itemName}}**'e ihtiyacınız var",
+    "NO_PROFANE": "{{author}} Loncanızın adı hiçbir şekilde küfür içeremez",
+    "GC_WARNING": "⚠️ Lonca adlarında uygunsuz veya saldırgan metinler kullanmak, ilerlemenizden bağımsız olarak bildirimde bulunulmadan silinmenize yol açabilir. Şüpheniz varsa, önceden Sofi Destek Ekibine sorun.",
+    "CREATE_BUTTON_LABEL": "Onayla",
+    "BACK_BUTTON_LABEL": "Geri Git",
+    "GUILD_READY": "Loncanız hazır. İşlemi tamamlamak için onaylayın",
+    "GUILD_CREATED_INFO": "Lonca oluşturuldu: **{{name}}**",
+    "GUILD_CREATE_SUCCESS": "İşlem başarıyla tamamlandı",
+    "GUILD_CREATE_CANCEL": "İşlem iptal edildi",
+    "NAME_REQUIRED": "{{author}} Doğru kullanım: `{{prefix}}guildcreate<GuildName> `",
+    "ALREADY_IN_GUILD": "{{author}} Zaten bir loncadasınız. Yeni bir loncaya katılmak için mevcut loncanızdan ayrılın."
+}

@@ -13,8 +13,8 @@
     "PROMOTED_TO_GUILDMASTER": "{{member}} has been successfully promoted to **Guildmaster**",
     "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Only **Adventurers** and **Veterans** can be promoted to **Guildmaster**",
     "TO_EMBED_TITLE": "SOFI: TRANSFER OWNERSHIP",
-    "TRANSFER_OWNERSHIP_CONFIRM": "**You are about to transfer guild ownership to {{member}}. Are you sure?**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "You are about to transfer guild ownership to {{member}}. Are you sure?",
     "TRANSFER_OWNERSHIP_CANCEL": "The process has been cancelled",
-    "TRANSFER_OWNERSHIP_SUCCESS": "**The new guild founder is <@{{memberId}}>**",
+    "TRANSFER_OWNERSHIP_SUCCESS": "The new guild owner is <@{{memberId}}>",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Only **Guildmasters** can be promoted to **Founder**"
 }

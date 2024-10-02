@@ -99,5 +99,14 @@
     "ANIMATED_FEATURE": "{{author}} Uw profielfoto of geselecteerde kaart moet geanimeerd zijn om deze functie te gebruiken",
     "FINAL_TOUCHES": "{{author}} De laatste hand leggen... ✨ <a:_:876610443148406794>",
     "GIF_NOTE": "Opmerking: Het converteren van u profiel naar GIF zal de Glow van uw profiel verwijderen. \nWeet u zeker dat u wilt doorgaan?",
-    "GIF_SUCCESSFUL": "{{author}} GIF profiel is met succes gegenereerd. Gebruik de \"{{prefix}}pro\" commando om het te bekijken."
+    "GIF_SUCCESSFUL": "{{author}} GIF profiel is met succes gegenereerd. Gebruik de \"{{prefix}}pro\" commando om het te bekijken.",
+    "NO_RING_FOUND": "Kan geen **Profiel Ring** met die ID vinden",
+    "RING_ALREADY_IN_INV": "Je hebt die **Profiel Ring** al in je inventaris",
+    "PURCHASE_RING_MODAL_LABEL": "Voer de Profiel Ring ID in",
+    "RING_PURCHASE_MODAL_TITLE": "Profiel Ring Kopen",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.g. 101",
+    "NO_ENOUGH_AMOUNT_RING": "Je hebt niet genoeg **{{currency}}** om deze **Profiel Ring** te kopen",
+    "INVALID_RING_ID": "Ongeldige **Profiel Ring** ID",
+    "RING_PURCHASE_SUCCESS": "De **{{ringName}}** **Profiel Ring** Met succes gekocht",
+    "SET_RING_CONFIRM": "Weet je zeker dat je **{{ringName}}** wilt instellen als je Profiel Ring?"
 }

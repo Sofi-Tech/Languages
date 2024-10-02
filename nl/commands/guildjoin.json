@@ -1,3 +1,18 @@
 {
-    "ALREADY_IN_GUILD": "{{author}}U zit al in een guild. Verlaat uw huidige guild om lid te worden van een nieuwe."
+    "ALREADY_IN_GUILD": "{{author}}U zit al in een guild. Verlaat uw huidige guild om lid te worden van een nieuwe.",
+    "GUILDJOIN_CATEGORY": "Guilds",
+    "PROVIDE_USER": "{{author}} Noem een **Founder** of **Guildmaster** om een verzoek in te dienen om lid te worden van de guild",
+    "NO_GUILD_FOUND": "{{author}} Kon geen guild informatie vinden voor die gebruiker",
+    "QUARANTINED_USERS": "{{author}} Gebruikers in Quarantine kunnen geen lid worden van guilds",
+    "VERIFY_TO_JOIN": "{{author}}Verifiëer op onze [website](https://sofi.gg/verify) om lid te worden van een guild",
+    "LEAVING_GUILD": "{{author}}U kunt lid worden van een guild over **{{cooldown}}**",
+    "GUILD_IS_FULL": "{{author}} Er zijn geen beschikbare plekken in deze guild",
+    "ALLOW_BUTTON_LABEL": "Ik accepteer",
+    "DENY_BUTTON_LABEL": "Nee, bedankt",
+    "GUILD_JOIN_ACCEPT": "{{member}} heeft {{author}} geaccepteerd als **Adventurer** in zijn guild",
+    "GUILD_JOIN_REJECT": "{{member}} heeft {{author}} geweigerd om **Adventurer** te worden in zijn guild",
+    "NOT_FOUNDER": "{{author}} Deze gebruiker is geen **Founder** of **Guildmaster** in de guild",
+    "INVALID_USER": "{{author}} Kon die gebruiker niet vinden",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} Wilt lid worden van uw guild.\nAccepteerd u ze als **Adventurer** in uw guild?",
+    "GUILDJOIN_DESCRIPTION": "Dit commando kan worden gebruikt om een verzoek te verzenden aan een Founder of Guildmaster om een lid to worden van hun guild. Deze gebruiker kan dit verzoek accepteren of weigeren"
 }

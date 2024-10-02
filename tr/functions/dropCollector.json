@@ -8,8 +8,9 @@
     "GRAB_EVENT_ITEM": "{{winner}}, diğer {{userCount}} kişiye karşı yapılan kar mücadelesinde {{amount}} şenlikli Çorabı kaptı! 🎄✨ ",
     "GRAB_CARD": "{{winner}}, {{user}} ile mücadele etti ve **{{character}}** kartını (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}} ",
     "CANNOT_BE_GRABBED": "{{user}} Aşağıdaki kartlar artık **grab**lanamaz",
-    "CARDS_DROPPED_BY": "{{user}} kartları **drop**ladı",
+    "CARDS_DROPPED_BY": "{{user}} kart**drop**ladı",
     "TOOK_VERSION": "{{winner}} **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın",
     "GRAB_VERSION": "{{winner}}, {{user}} ile savaştı ve **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın",
-    "GRAB_VERSION_PLURAL": "{{winner}}, **{{userCount}}** diğer oyuncularla mücadele etti ve **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın"
+    "GRAB_VERSION_PLURAL": "{{winner}}, **{{userCount}}** farklı oyuncularla mücadele etti ve **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın",
+    "NOT_ALLOWED_TO_GRAB": "{{user}} Ya kara listeye alındınız ya da karantinaya alındınız ya da kayıtlı değilsiniz ve bu kartı alamıyorsunuz"
 }

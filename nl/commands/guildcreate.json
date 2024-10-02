@@ -13,8 +13,8 @@
     "GUILD_CREATE_CANCEL": "Het proces is geannuleerd",
     "NAME_REQUIRED": "{{author}} Correcte gebruik : {{prefix}}guildcreate <GuildNaam>",
     "ALREADY_IN_GUILD": "{{author}}U zit al in een guild. Verlaat uw huidige guild om lid te worden van een nieuwe.",
-    "GC_WARNING": "⚠️Het gebruik van ongepaste of beledigende tekst in gildenamen kan leiden tot verwijdering zonder kennisgeving, ongeacht je vooruitgang. Als u twijfelt, vraag het dan eerst aan Sofi Support Staff.",
-    "GUILDCREATE_DESCRIPTION": "Deze commando zal een Guild Stone gebruiken om een guild te creëren",
+    "GC_WARNING": "⚠️Het gebruik van ongepaste of beledigende tekst in guild namen kan leiden tot verwijdering zonder kennisgeving, ongeacht je vooruitgang. Als u twijfelt, vraag het dan eerst aan Sofi Support Staff.",
+    "GUILDCREATE_DESCRIPTION": "Dit commando zal een Guild Stone gebruiken om een guild te creëren",
     "NAME_CHAR_LIMIT": "{{author}} De naam van uw guild mag maar **25** tekens lang zijn",
     "GC_INFO_1": "U bent een guild aan het creëren. Dit proces zal een **{{itemName}}** gebruiken."
 }

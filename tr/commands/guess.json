@@ -13,5 +13,6 @@
     "NO_TP_2": "{{author}} Katılmak için aktif bir **Trade Pass**'a ihtiyacınız var!",
     "INSUFFICIENT_CURRENCY": "{{author}} Bu oyuna katılmak için yeterli **{{currency}}** elinizde yok",
     "MORE": "daha...",
-    "INFO_4": "**Katılımcılar [{{totalPlayers}}]**"
+    "INFO_4": "**Katılımcılar [{{totalPlayers}}]**",
+    "ITEM_LIMIT": "{{author}} Bir seferde en fazla **{{amount}} {{itemName}}** tutarında bahis oynayabilirsiniz"
 }
