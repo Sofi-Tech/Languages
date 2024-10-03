@@ -147,7 +147,7 @@
     "CANNOT_VIEW_VAULT": "Hindi mo maaaring tingnan ang vaults ng ibang mga guild",
     "DONATED_TO_VAULT": "> Nag-donate si {{user}} ng **{{amount}}** **{{itemName}}** sa vault",
     "INVALID_PERMISSION": "Hindi tamang level ng pahintulot ang ibinigay.\n\n**Magagamit na mga levels:**\nAdventurer: 0\nBeterano: 1\nGuildMaster: 2\nFounder: 3",
-    "INVALID_ID": "**{{author}} ang ibinigay na id ay hindi wasto, Naghahanap ng guild gamit ang iyong id.**",
+    "INVALID_ID": "{{author}} ang ibinigay na ID ay hindi tama",
     "CRAFT_BUTTON_LABEL": "Craft",
     "CRAFTING_ITEM_MODAL_TITLE": "Pumili ng Aytem",
     "INVALID_ITEM": "Hindi tamang aytem ID ang ibinigay",

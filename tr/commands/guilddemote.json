@@ -2,7 +2,7 @@
     "GUILDDEMOTE_DESCRIPTION": "Seçili lonca üyesinin rütbesini düşürmek için bu komutu kullanın ",
     "GUILDDEMOTE_CATEGORY": "Loncalar",
     "NOT_GUILD_MEMBER": "{{author}} Bu kullanıcı loncanızın üyesi değil",
-    "DEMOTE_VETERAN_ERROR": "{{author}} Yalnızca **Guildmaster**'ler **Veteran**'a düşürülebilir",
+    "DEMOTE_VETERAN_ERROR": "{{author}} Yalnızca **Guildmaster**'ler **Veteran**'lara düşürülebilir",
     "GD_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gd <@User/UserID><V/N> `",
     "MUST_HAVE_AUTHORITY": "{{author}} Loncanızın bir üyesini rütbesini düşürmek için **Founder** veya **Guildmaster** olmanız gerekir",
     "INVALID_USER_PROVIDED": "{{author}} Bu kullanıcı bulunamadı",
@@ -10,5 +10,9 @@
     "NO_GUILD_INFO": "{{author}} Bu kullanıcı için lonca bilgisi bulunamadı",
     "PROVIDE_GUILD_RANK": "{{author}} Düşürmek için bir lonca rütbesi sağlayın:  \n> {{ranks}}",
     "DEMOTED_NEWBIE": "{{member}} **Newbie** seviyesine düşürüldü",
-    "CANT_DEMOTE_FOUNDER": "{{author}} Bir **Founder**'in rütbesini düşüremezsiniz"
+    "CANT_DEMOTE_FOUNDER": "{{author}} Bir **Founder**'in rütbesini düşüremezsiniz",
+    "DEMOTE_NEWBIE_ERROR": "{{author}} Yalnızca **Guildmaster**'leri ve **Veteran**'lar **Newbie** seviyesine düşürülebilir",
+    "DEMOTED_ADVENTURER": "{{member}} **Adventurer** seviyesine düşürüldü",
+    "DEMOTE_OTHERS_ERROR": "{{author}} Başkalarını düşürmek için **Founder** veya **Guildmaster** olmanız gerekir",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Yalnızca **Veteran**'lar **Adventurer**'lere düşürülebilir"
 }

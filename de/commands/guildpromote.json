@@ -10,10 +10,10 @@
     "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Nur **Abenteurer** können zu **Veteran** befördert werden",
     "PROMOTED_TO_GUILDMASTER": "{{member}} wurde erfolgreich zu **Gildenmeister** befördert",
     "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Nur **Abendteurer** und **Veteran** können zu **Gildenmeister** befördert werden",
-    "TRANSFER_OWNERSHIP_CONFIRM": "**Du bist dabei die Eigentumsrechte der Gilde an {{member}} zu übertragen. Bist du dir sicher?**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "Du bist dabei die Eigentumsrechte der Gilde an {{member}} zu übertragen. Bist du dir sicher?",
     "TRANSFER_OWNERSHIP_CANCEL": "Dieser Prozess wurde abgebrochen",
     "PROVIDE_FOUNDER_RANK": "{{author}} Stelle einen Gilden Rang bereit um zu befördern:\n>**G**ründer, **G**ildenmeister, **V**eteran",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Nur **Gildenmeister** können zu **Gründer** befördert werden",
     "MUST_BE_FOUNDER": "{{author}} Du musst ein **Gründer** oder **Gildenmeister** sein um andere Mitglieder der Gilde zu befördern",
-    "TRANSFER_OWNERSHIP_SUCCESS": "**Der neuer Gilden Gründer ist <@{{memberId}}>**"
+    "TRANSFER_OWNERSHIP_SUCCESS": "Der neuer Gilden Besitzer ist <@{{memberId}}>"
 }
