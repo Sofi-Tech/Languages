@@ -1,4 +1,7 @@
 {
     "ATOMIC_BLAST_RAID_DESCRIPTION": "Rilascia l'energia immagazzinata, infliggendo danni più pesanti quanto più a lungo aspetti. Infliggi 100 + 15% di danno utilizzando il totale delle statistiche della carta al turno 1, ottenendo 100 + 15% di danno totale delle statistiche per ogni turno che passa. Limite del danno totale delle statistiche a 1.200 + 180%.",
-    "COSMIC_IMPACT_RAID_DESCRIPTION": "Richiama una grande cometa, che infligge danni maggiori quanto prima viene utilizzata. Infliggi 1.000 + 100% utilizzando il totale delle statistiche della carta in danni senza tipo al turno 1, perdendo il 50 + 5% di danni totali delle statistiche per ogni turno che passa."
+    "COSMIC_IMPACT_RAID_DESCRIPTION": "Richiama una grande cometa, che infligge danni maggiori quanto prima viene utilizzata. Infliggi 1.000 + 100% utilizzando il totale delle statistiche della carta in danni senza tipo al turno 1, perdendo il 50 + 5% di danni totali delle statistiche per ogni turno che passa.",
+    "ROCK_SOLID_RAID_DESCRIPTION": "Infliggi il 100% dei danni e proteggi tutte e tre le carte per il turno in corso. Se questo non funziona, cura la carta bersaglio del 25% dei suoi HP massimi.",
+    "BLINDING_STRIKE_RAID_DESCRIPTION": "Infligge il 100% di danni e paralizza il boss; riduce la DEF del boss del 75% e l'ATK del boss del 25.",
+    "OUTBURST_RAID_DESCRIPTION": "Attacca il boss in rabbia, infliggendo l'85% della salute massima della carta che la sta usando + 25% del danno inflitto dal suo attacco e infliggendo ferite al boss. Queste ferite ripeteranno i danni dell'attacco iniziale ogni turno finché la carta non viene sconfitta. Questa mossa consuma il 20% della salute massima della carta che la usa ogni turno e solo una carta può usare outburst alla volta."
 }

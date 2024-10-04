@@ -150,6 +150,6 @@
     "NOT_ENOUGH_ITEM_VAULT": "В хранилище недостаточно **{{itemName}}**",
     "IMAGE_UNLOCK_SUCCESS": "Функция изображения гильдии успешно разблокирована",
     "UPGRADE_EMBED_DESCRIPTION": "> **Ячейки участников гильдии - {{memSlots}}** \n> Доступно ячеек гильдии: `{{availableSlots}}` \n> Стоимость разблокировки ячейки: `{{slotAmount}} {{slotCurrency}}` \n\n> **Приглашение на сервер гильдии - {{inviteToggle}}** \n> Стоимость разблокировки: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Изображение гильдии - {{imageToggle}}** \n> Стоимость разблокировки: `{{imageAmount}} {{imageCurrency}}`",
-    "MAXIMUM_CRAFTING_LIMIT": "Достигнуто максимальное ограничение созданий **Guild Packages**",
+    "MAXIMUM_CRAFTING_LIMIT": "Достигнуто максимальное количество **Guild Packages**",
     "INVALID_ID": "{{author}} Указан недействительный идентификатор пользователя"
 }
