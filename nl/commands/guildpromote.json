@@ -9,11 +9,11 @@
     "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Alleen **Adventurers** kunnen worden gepromoveerd tot **Veteran**",
     "PROMOTED_TO_GUILDMASTER": "{{member}} is succesvol gepromoveerd tot **Guildmaster**",
     "TRANSFER_OWNERSHIP_CANCEL": "Dit proces is geannuleerd",
-    "TRANSFER_OWNERSHIP_SUCCESS": "**De nieuwe eigenaar van de guild is <@{{memberId}}>**",
+    "TRANSFER_OWNERSHIP_SUCCESS": "De nieuwe eigenaar van de guild is <@{{memberId}}>",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Alleen**Guildmasters** kunnen worden gepromoveerd tot **Founder**",
     "MUST_BE_FOUNDER": "{{author}} U moet een **Founder** of een **Guildmaster** zijn om een lid van de guild te promoveren",
     "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Alleen **Adventurers** en **Veterans** kunnen worden gepromoveerd tot **Guildmaster**",
     "PROVIDE_FOUNDER_RANK": "{{author}} Geef een guild rang op om te promoveren:\n> **F**ounder, **G**uildmaster, **V**eteran",
-    "TRANSFER_OWNERSHIP_CONFIRM": "**U staat op het punt eigendom van de guild over te dragen aan {{member}}. Weet u dit zeker?**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "U staat op het punt eigendom van de guild over te dragen aan {{member}}. Weet u dit zeker?",
     "GUILDPROMOTE_DESCRIPTION": "Gebruik dit commando om de rang van het geselecteerde guild lid te verhogen"
 }
