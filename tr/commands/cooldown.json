@@ -6,14 +6,14 @@
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`BUMP`](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`DAILY`** | **{{cooldown}}**",
-    "UNREAD_MAIL_two": "\n📫 **{{count}}** okunmamış postalarınız var",
-    "UNREAD_MAIL_few": "\n📫 **{{count}}** Okunmamış postalarınız var",
-    "UNREAD_MAIL_many": "\n📫 **{{count}}** Okunmamış Postalarınız Var",
+    "UNREAD_MAIL_two": "\n📫 **{{count}}** okunmamış postanız var",
+    "UNREAD_MAIL_few": "\n📫 **{{count}}** Okunmamış postanız var",
+    "UNREAD_MAIL_many": "\n📫 **{{count}}** Okunmamış postanız var",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`RAID`** | **{{cooldown}}**",
     "VOTE_LABEL": "Oy",
     "READY": "Hazır",
     "UNREAD_MAIL_one": "\n📫 **{{count}}** Okunmamış postanız var",
     "UNREAD_MAIL_other": "\n📫 **{{count}}** Okunmamış Postanız var",
-    "EMBED_TITLE": "SOFI: BEKLEME SÜRELERİ ({{username}})",
+    "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
     "UNREAD_MAIL_zero": "\n📫 **{{count}}** okunmamış postanız var"
 }

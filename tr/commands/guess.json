@@ -11,7 +11,7 @@
     "GUESS_THE_WORD": "{{participants}}\n\n**İngilizce** kelimenin şifresini çöz: ` {{scrambledWord}}`",
     "CORRECT_GUESS": "{{winner}} Kelimeyi başarıyla tahmin etti ve **{{jackpot}}** {{currencyEmoji}} kazandı",
     "NO_TP_2": "{{author}} Katılmak için aktif bir **Trade Pass**'a ihtiyacınız var!",
-    "INSUFFICIENT_CURRENCY": "{{author}} Bu oyuna katılmak için yeterli **{{currency}}** elinizde yok",
+    "INSUFFICIENT_CURRENCY": "{{author}} Bu oyuna katılmak için yeterli **{{currency}}** elinizde bulunmuyor",
     "MORE": "daha...",
     "INFO_4": "**Katılımcılar [{{totalPlayers}}]**",
     "ITEM_LIMIT": "{{author}} Bir seferde en fazla **{{amount}} {{itemName}}** tutarında bahis oynayabilirsiniz"

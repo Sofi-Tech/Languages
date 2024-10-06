@@ -14,6 +14,6 @@
     "GUILDPROMOTE_DESCRIPTION": "Gamitin ang command na ito upang i-angat ang ranggo ng napiling miyembro sa guild",
     "GP_CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gp <@User/UserID>`",
     "NO_GUILD_INFO": "{{author}} Hindi mahanap ang guild info ng user na iyon",
-    "TRANSFER_OWNERSHIP_CONFIRM": "**Malapit mo nang mailipat ang pagmamay-ari ng guild kay {{member}}. Sigurado ka ba?**",
-    "TRANSFER_OWNERSHIP_SUCCESS": "**Ang bagong guild founder ay si <@{{memberId}}>**"
+    "TRANSFER_OWNERSHIP_CONFIRM": "Malapit mo nang mailipat ang pagmamay-ari ng guild kay {{member}}. Sigurado ka ba?",
+    "TRANSFER_OWNERSHIP_SUCCESS": "Ang bagong guild founder ay si <@{{memberId}}>"
 }

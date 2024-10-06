@@ -2,6 +2,6 @@
     "DELETEGLOWTAG_DESCRIPTION": "Bu komutun bir Glow etiketi adı ile birlikte kullanılması, seçilen etiketi silmeye çalışacaktır",
     "DGT_CATEGORY": "Etiketler",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}dgt <Etiketİsmi>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}` adında herhangi bir `Glow Tag` ınız yok",
-    "DELETE_GLOWTAG": "{{author}} `{{tag}}` adlı `Glow Tag` başarıyla silindi"
+    "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}` Adında bir **Glow**'tagınız bulunmuyor",
+    "DELETE_GLOWTAG": "{{author}} `{{tag}}` İsimli **Glow** etiketi başarılı bir şekilde silindi"
 }

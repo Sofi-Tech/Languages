@@ -3,7 +3,7 @@
     "TC_CATEGORY": "Etiketler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}tc <Etiketİsmi> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Etiketinizin adı alfasayısal olmalı ve özel karakterler, boşluklar veya herhangi bir türde küfür içeremez",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Etiketinizin adı alfa sayısal olmalı ve özel karakterler, boşluklar veya herhangi bir türde küfür içeremez",
     "LONG_TAGNAME": "{{author}} Etiketinizin adı en fazla **20** karakterden oluşabilir",
     "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir etiketiniz var",
     "TAG_CREATED": "{{author}}, \"{{tag}}\"| {{emoji}} adındaki etiket başarıyla oluşturuldu",

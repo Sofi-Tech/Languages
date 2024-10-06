@@ -1,8 +1,8 @@
 {
     "LOOKUP_DESCRIPTION": "Bu komutla istediğiniz herhangi bir karakteri arayabilirsiniz. Oluşturulan yerleştirme size farklı Sürümün yanı sıra Etkinlik değişkenlerini de gösterecektir",
     "CHAR_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```düzeltmek\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
-    "EMBED_TITLE": "SOFI: KARAKTER ARAMA {{category}}",
+    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
+    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP {{category}}",
     "SUBMITTED": "Gönderen: <@{{userID}}>",
     "EMBED_FOOTER": "Yeni Sürümleri {{prefix}}sc komutunu kullanarak gönderebilirsiniz",
     "MORE": "Bir Seçenek Seçin",

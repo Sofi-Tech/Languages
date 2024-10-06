@@ -1,8 +1,8 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "Bu komut bir kullanıcının Parça envanterini açacaktır",
+    "VIEWFRAGS_DESCRIPTION": "Bu komut bir kullanıcının Fragment envanterini açacaktır",
     "COLLECTION_PVT": "{{author}} Bu kullanıcının **Fragment** envanter sekmesi gizlidir",
     "CANNOT_FIND_FRAGS": "{{user}} Bu kullanıcının herhangi bir **Fragments**'i yok",
     "FRAGS_COUNT": "Toplam: {{totalCount}}",
-    "FRAG_LIST": "SOFI: FRAGMENT'LER ({{userName}})",
+    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
     "CANNOT_FIND_SELF": "{{user}} Henüz hiç**Fragments**'iniz yok"
 }

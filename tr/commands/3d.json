@@ -1,10 +1,10 @@
 {
     "3D_DESCRIPTION": "Görünümünü değiştirecek olduğunuz kartın 3 boyutlu versiyonuna dönüştürün. Bu işlemde kartları yakarak, sandıkları açarak veya diğer çeşitli aktivitelerle elde edebileceğiniz Cubes kullanılacaktır",
-    "INVALID_CARD_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda yok",
+    "INVALID_CARD_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda mevcut değil",
     "3D_CATEGORY": "Kozmetik",
     "CARD_3D_ALREADY": "{{author}} Kart zaten bir **3D** varyantı",
     "NO_GIF_CONVERSION": "{{author}} Bir **GIF** kartını **3D** varyantına dönüştüremezsiniz",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Bir etkinlik kartını normal **3D** çeşide dönüştüremezsiniz",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Bir etkinlik kartını normal **3D** varyantına dönüştüremezsiniz",
     "NO_3D_VERSION": "{{author}} Bu karakterin şu anda bir **3D** varyantı yok",
     "EMBED_TITLE": "SOFI: 3D",
     "EVENT_3D_NOTE": "Aktif bir etkinlik sırasında, bu işlemin onaylanmasının ardından tüm uygun kartlar, normal 3D yerine Event-3D varyantına dönüştürülecektir",

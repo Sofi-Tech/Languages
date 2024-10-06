@@ -1,8 +1,8 @@
 {
     "CHARLOOKUP_DESCRIPTION": "Bu komutu kullanarak belirli bir karakteri arayabilirsiniz. Bu menüde bir karakterin istatistiklerini, Versiyon/3D/GIF çeşitlerini, ayrıca Gen/Fan skor tablolarını ve Kart ID'lerini kontrol edebilirsiniz.",
     "CHAR_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```düzeltmek\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
-    "EMBED_TITLE": "SOFI: KARAKTER ARAMA {{category}}",
+    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
+    "EMBED_TITLE": "SOFI: CHARACTER LOOKUP {{category}}",
     "NORMAL_LABEL": "Versiyon: 1",
     "FAN_PTS_LABEL": "Fan puanı ekle",
     "3D_LABEL": "3D",
