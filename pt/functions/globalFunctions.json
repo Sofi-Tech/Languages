@@ -14,5 +14,6 @@
     "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
     "CODE_ONE": "<:linedown:868888105611046942> Código 1",
     "NEED_GEMS": "{{author}} Você não tem **{{currency}}** suficientes para trocar os códigos",
-    "GS_EMBED_FOOTER": "Esse acordo irá expirar em {{date}}"
+    "GS_EMBED_FOOTER": "Esse acordo irá expirar em {{date}}",
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Comprou com sucesso `{{amount}}` **{{layerName}}** **{{itemName}}**"
 }

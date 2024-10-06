@@ -1,1 +1,18 @@
-{}
+{
+    "DEMOTE_VETERAN_ERROR": "{{author}} Apenas **Guildmasters** podem ser rebaixados para **Veterans**",
+    "DEMOTED_NEWBIE": "{{member}} foi rebaixado para **Newbie**",
+    "NO_GUILD_INFO": "{{author}} Não foi possivel encontrar informações da guilda para esse usuário",
+    "DEMOTE_NEWBIE_ERROR": "{{author}} Apenas **Guildmasters** e **Veterans** podem ser rebaixados para **Newbies**",
+    "DEMOTED_ADVENTURER": "{{member}} Foi rebaixado para **Adventurer**",
+    "GUILDDEMOTE_CATEGORY": "Guildas",
+    "INVALID_USER_PROVIDED": "{{author}} Não foi possível encontrar esse usuário",
+    "DEMOTED_VETERAN": "{{member}} foi rebaixado para **Veteran**",
+    "CANT_DEMOTE_FOUNDER": "{{author}} Você não pode rebaixar o **Founder**",
+    "PROVIDE_GUILD_RANK": "{{author}} Providencie um rank da guilda para rebaixar: \n> {{ranks}}",
+    "DEMOTE_OTHERS_ERROR": "{{author}} Você deve ser um **Founder** ou **Guildmaster** para rebaixar outros membros",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Apenas **Veterans** podem ser rebaixados para **Adventurers**",
+    "GD_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}gd <@User/UserID> <V/N`",
+    "NOT_GUILD_MEMBER": "{{author}} Esse usuário não é um membro da sua guilda",
+    "MUST_HAVE_AUTHORITY": "{{author}} Você precisa ser um **Founder** ou **Guildmaster** para rebaixar um membro da sua guilda",
+    "GUILDDEMOTE_DESCRIPTION": "Usar esse comando para reduzir o rank do membro da guilda selecionado "
+}

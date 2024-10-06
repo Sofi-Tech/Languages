@@ -1,7 +1,7 @@
 {
-    "DESELECT_DESCRIPTION": "Desselecione uma carta",
-    "DESELECT_CATEGORY": "Guilds",
-    "ENTER_VALID_CODE": "{{author}} Insira um código de carta válido",
+    "DESELECT_DESCRIPTION": "Esse comando pode ser usado para remover uma carta de qualquer deck que ela está salva atualmente",
+    "DESELECT_CATEGORY": "Guildas",
+    "ENTER_VALID_CODE": "{{author}} Uso correto: `{{prefix}}ds <CardCode>`",
     "DESELECTED_SUCCESSFULLY": "{{author}} A carta foi desselecionada com sucesso",
     "NOT_OWN_CARD": "{{author}} O código da carta que você forneceu é inválido ou não está na sua coleção"
 }

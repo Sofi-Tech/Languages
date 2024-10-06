@@ -8,7 +8,7 @@
     "CARD_FRAMED": "**Frame** aplicado: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** aplicado: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Mostrar Gen",
-    "SERIES": "Série:",
+    "SERIES": "Séries:",
     "NAME": "Nome:",
     "OWNED": "Propriedade de:",
     "DROPPED": "Dropado por:",
@@ -24,5 +24,6 @@
     "SOME_FRAME": "Indisponível",
     "EMBED_AUTHOR": "SOFI: CARDINFO (Level - {{level}})",
     "CLAIM_AT": "\nDropado em:",
-    "MORPHED": "Morphed"
+    "MORPHED": "Morphed",
+    "CARD_LAYERED": "**Layer** aplicado: **{{layerName}}**(`{{layerCode}}`)\n"
 }
