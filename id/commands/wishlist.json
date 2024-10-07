@@ -1,7 +1,7 @@
 {
     "WISHLIST_DESCRIPTION": "Dengan menggunakan perintah ini, pengguna akan mendapatkan daftar karakter yang diinginkannya. Untuk menambahkan karakter ke wishlist anda, gunakan perintah \"{{prefix}}wishlistadd\"",
     "CATEGORY": "Wishlist",
-    "USER_NOT_FOUND": "{{author}} Tidak bisa menemukan user tersebut",
+    "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",
     "WISHLIST_PRIVATE": "{{author}} Pengguna tersebut telah menyetel wishlist mereka ke pribadi",
     "WISHLIST_EMPTY": "{{author}} Wishlist pengguna tersebut kosong",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",

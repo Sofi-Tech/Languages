@@ -1,11 +1,11 @@
 {
     "NOT_IN_GUILD": "{{author}} Anda tidak berada di guild mana pun",
-    "GUILD_LEAVE_CONFIRM": "Apakah anda yakin ingin keluar dari guild **{{guildName}}**?\n \nSering meninggalkan guild tidak diperbolehkan.\nAnda akan dapat bergabung dengan guild lagi dalam 48 jam.",
+    "GUILD_LEAVE_CONFIRM": "Apakah anda yakin ingin keluar dari guild **{{guildName}}**? \n\nSering meninggalkan guild tidak diperbolehkan. \nAnda akan dapat bergabung dengan guild lagi dalam 48 jam.",
     "GD_EMBED_DESCRIPTION": "Anda akan menghapus guild **{{guildName}}**. \nAda **{{size}} anggota** di guildmu. \nGuildnya berada pada level **{{level}}**. \nSemua kemajuan dan sumber daya di brankas akan hilang. \nProses ini tidak dapat diubah. \n\nApakah kamu yakin ingin menghapus guild?",
     "GUILDLEAVE_DESCRIPTION": "Gunakan perintah ini untuk meninggalkan guild Anda saat ini atau menghapusnya jika Anda adalah Founder. Setelah meninggalkan guild, Anda harus menunggu 48 jam sebelum bergabung dengan guild lain. ",
-    "GUILDLEAVE_CATEGORY": "Guild",
-    "I_BUTTON_LABEL": "Aku",
-    "SURE_BUTTON_LABEL": "tentu",
+    "GUILDLEAVE_CATEGORY": "Guilds",
+    "I_BUTTON_LABEL": "Saya",
+    "SURE_BUTTON_LABEL": "yakin",
     "GUILD_DELETE_SUCCESS": "Guild berhasil dihapus",
     "AM_BUTTON_LABEL": "adalah",
     "ABSOLUTELY_BUTTON_LABEL": "sepenuhnya",
@@ -18,6 +18,6 @@
     "TRANSFER_GUILD_OWNERSHIP": "Anda memindahkan kepemilikan guild Anda.\nHarap berikan ID anggota untuk mentransfer kepemilikan.",
     "CANNOT_TRANSFER_YOURSELF": "Anda tidak dapat memindahkan kepemilikan ke diri sendiri",
     "TRANSFER_CONFIRM": "Apakah anda yakin ingin memindahkan kepemilikan guild ke <@{{userId}}>?",
-    "TRANSFER_SUCCESS": "{{author}} telah meninggalkan guild dan **Pendiri** yang baru adalah <@{{userId}}>",
+    "TRANSFER_SUCCESS": "{{author}} telah meninggalkan guild dan **Founder** yang baru adalah <@{{userId}}>",
     "GUILD_LEAVE_CANCEL": "{{author}} memutuskan untuk tidak meninggalkan guild"
 }

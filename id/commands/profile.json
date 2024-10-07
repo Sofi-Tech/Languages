@@ -1,7 +1,7 @@
 {
     "PROFILE_DESCRIPTION": "Perintah ini akan menampilkan profil pengguna. Anda bisa menyesuaikan profil anda dengan menggunakan perintah \"{{prefix}}profileconfig\"",
     "PRO_CATEGORY": "Pengaturan",
-    "USER_NOT_FOUND": "{{author}} Tidak bisa menemukan user tersebut",
+    "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",
     "PROFILE_NOT_FOUND": "{{author}} Pengguna tersebut tidak terdaftar",
     "GIF_ENABLED": "{{author}} Profil Anda telah mengaktifkan fitur GIF. Untuk memuat profil GIF Anda, gunakan perintah `{{prefix}}pc` dan klik tombol `Muat ulang profil GIF` di menu tarik-turun"
 }

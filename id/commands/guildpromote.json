@@ -1,9 +1,9 @@
 {
     "NO_GUILD_INFO": "{{author}} Tidak dapat menemukan info guild untuk pengguna tersebut",
-    "NOT_MEMBER": "{{author}}Pengguna ini bukan anggota guild anda",
+    "NOT_MEMBER": "{{author}} Pengguna ini bukan anggota guild anda",
     "GUILDPROMOTE_DESCRIPTION": "Gunakan perintah ini untuk menaikan pangkat anggota guild yang dipilih",
-    "GUILDPROMOTE_CATEGORY": "Guild",
-    "GP_CORRECT_USAGE": "{{author}}Penggunaan yang benar: `{{prefix}}gp <@User/UserID>`",
+    "GUILDPROMOTE_CATEGORY": "Guilds",
+    "GP_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gp <@User/UserID>`",
     "TRANSFER_OWNERSHIP_CANCEL": "Proses telah dibatalkan",
     "TRANSFER_OWNERSHIP_SUCCESS": "Founder guild baru adalah <@{{memberId}}>",
     "ALREADY_FOUNDER": "{{author}} Pengguna ini sudah menjadi **Founder** guild",
