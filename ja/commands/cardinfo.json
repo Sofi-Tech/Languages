@@ -2,7 +2,7 @@
     "CARDINFO_DESCRIPTION": "このコマンドに特定のカードコードを使用すると、そのカードに関する詳しい情報が表示されます",
     "SLASH_DESC": "調べたいカードのコードを入力してください",
     "NO_CARD_FOUND": "最後のカードを見つけることができません。代わりにカードコードを提供してみてください",
-    "INVALID_CARD_CODE": "{{author}} 入力されたカードコードが無効または自分のコレクションにありません",
+    "INVALID_CARD_CODE": "{{author}} 入力されたカードのコードが無効または自分のコレクションにありません",
     "CARD_GLOWED": "そのカードには次の`輝きが`適用されています：__ {{glowName}} [＃{{viewCode}}] {{isSuper}} __\n",
     "CARD_FONT": "**フォントの色:**.\n-**世代-**`{{genColorName}}` | `{{genColorCode}}`.\n-**名前-**`{{nameColorName}}` | `{{nameColorCode}}`.\n-**シリーズ-**`{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "そのカードには、`次`のレームが適用されています__ {{frameName}} __\n",
