@@ -1,8 +1,9 @@
 {
-    "DROP_DESCRIPTION": "Gera um \"Drop\" de cartas\nUse o comando \"{{prefix}}dn\" para gerar um \"Drop\" sem imagens",
-    "EXTRA_DROP_ALERT": "{{author}} Seu **Extra Drop** está sendo usado. Você tem**{{remaining}}** restantes",
-    "ON_CD": "{{author}} seu `Drop` estará pronto em {{dropCd}}",
+    "DROP_DESCRIPTION": "Com este comando você poderá gerar um conjunto de 3 cartas com Gens aleatórios. Você pode comprar Drops adicionais do comando \"{{prefix}}shop\" com Wists, que você pode obter votando na Sofi",
+    "EXTRA_DROP_ALERT": "{{author}} Seu **Drop** extra está sendo usado. Você tem **{{remaining}}** sobrando",
+    "ON_CD": "{{author}} Seu **Drop** estará pronto em: **{{dropCd}}**",
     "VOTE": "Vote",
-    "BUY_DROP": "\nVocê também pode `Vote` para receber `Wists` e comprar `Drops` com eles!\nUse o comando `{{prefix}}buy drop <Amount>` para comprar `Drops`",
-    "DROPPING_CARD": "{{author}} está `Dropping` cartas\n"
+    "BUY_DROP": "\n\n- - Você também pode **Votar** para receber **Wists**! Use o comando `{{prefix}}buy drop` para trocá-los",
+    "DROPPING_CARD": "{{author}} está **dropando** cartas",
+    "WISHLIST_ALERT": "Uma carta da sua wishlist está dropando! {{users}}"
 }
