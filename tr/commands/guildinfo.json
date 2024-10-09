@@ -146,5 +146,10 @@
     "IMAGE_MODAL_LABEL": "Resim URL'sini girin:",
     "LONG_DESCRIPTION": "Lonca açıklaması **250** karakterden ve **5** satırdan az olmalıdır",
     "UPGRADE_EMBED_DESCRIPTION": "> **Lonca Üyesi Yuvaları - {{memSlots}}**\n> Kullanılabilir lonca yuvaları: `{{availableSlots}}`\n> Yuva kilidini açma maliyeti: `{{slotAmount}} {{slotCurrency}}`\n\n> **Lonca Sunucusu Daveti - {{inviteToggle}}**\n> Kilidi açma maliyeti: `{{inviteAmount}} {{inviteCurrency}}`\n\n> **Lonca Resmi - {{imageToggle}}**\n> Kilidi açma maliyeti: `{{imageAmount}} {{imageCurrency}}`",
-    "ITEM_EMBED_DESCRIPTION": "Kasanızda toplanan öğeler çeşitli öğeleri üretmek için kullanılabilir.\nKaynaklar doğrudan kasanızdan tüketilecektir.\nÜretilen öğe doğrudan envanterinize aktarılacaktır.\nİzin seviyesi **Founder**'lar ve **Guildmaster**'leri tarafından ayarlanabilir.\n\nKüresel **Lonca Paketleri** sayısı: {{packageCount}}/300\nİzin Seviyesi: **{{permLevel}}**\nÜretim süresi\nÜretim maliyeti"
+    "ITEM_EMBED_DESCRIPTION": "Kasanızda toplanan öğeler çeşitli öğeleri üretmek için kullanılabilir.\nKaynaklar doğrudan kasanızdan tüketilecektir.\nÜretilen öğe doğrudan envanterinize aktarılacaktır.\nİzin seviyesi **Founder**'lar ve **Guildmaster**'leri tarafından ayarlanabilir.\n\nKüresel **Lonca Paketleri** sayısı: {{packageCount}}/300\nİzin Seviyesi: **{{permLevel}}**\nÜretim süresi\nÜretim maliyeti",
+    "GI_WITHDRAWN": "Geri Çekildi",
+    "GI_BOOST": "Artırmak",
+    "INVITE_UNLOCK_SUCCESS": "Lonca sunucusu davet özelliği başarıyla açıldı",
+    "NOT_ENOUGH_ITEM_VAULT": "Kasada yeterli **{{itemName}}** yok",
+    "IMAGE_UNLOCK_SUCCESS": "Lonca resmi özelliği başarıyla açıldı"
 }
