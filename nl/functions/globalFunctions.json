@@ -15,5 +15,5 @@
     "SOMETHING_WENT_WRONG": "{{author}} Er ging iets mis! Elk afgetrokken item is weer toegevoegd aan uw inventaris",
     "GS_EMBED_FOOTER": "Deze deal vervalt in {{date}}",
     "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Successvol **{{amount}}** **{{itemName}}** gekocht",
-    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} heeft met succes `{{amount}}` **{{layerName}}** **{{itemName}}** gekocht"
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} heeft met succes **{{amount}}** **{{layerName}}** **{{itemName}}** gekocht"
 }

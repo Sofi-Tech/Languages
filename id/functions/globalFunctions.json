@@ -15,5 +15,5 @@
     "GUILD_ADVENTURER": "Petualang",
     "BUY_EMBED_TITLE": "SOFI: TRANSACTION",
     "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
-    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Berhasil membeli `{{amount}}` **{{layerName}}** **{{itemName}}**"
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Berhasil membeli **{{amount}}** **{{layerName}}** **{{itemName}}**"
 }
