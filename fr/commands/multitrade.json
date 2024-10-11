@@ -19,7 +19,7 @@
     "NOTED_ADDED": "Votre note a été ajoutée avec succès: `{{response}}`",
     "TRADE_CANCELLED": "L'échange a été annulé",
     "MT_ENDS": "SOFI: MULTITRADE (⏳{{timer}})",
-    "MT_INFO_1": "🤝 Préfixes: **Background [&]** | **Glow [#]** | **Frame [$]** | **Tag [%]** | **Version Token [!]**",
+    "MT_INFO_1": "🤝 **Prefixes**:\n- Backgrounds [&] • Glows [#] • Frames [$]\n- Version Tokens [!] • Layers [>] • Tags [%]",
     "MT_INFO_3": "🗒️ Ajoutez une note à votre échange pour lui donner un contexte pour nos logs",
     "MT_INFO_4": "📛 Échanger des items Sofi pour de la crypto est strictement interdit",
     "MT_COMPLETE": "SOFI: MULTITRADE",
