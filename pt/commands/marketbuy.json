@@ -9,7 +9,7 @@
     "VALUE": "Você paga:",
     "RATE": "Taxa:",
     "ALREADY_IN_PURCHASE": "{{author}} Você já tem uma janela de transação ativa",
-    "PURCHASE_CANCELLED": "Esta oferta não está mais disponível",
+    "PURCHASE_CANCELLED": "{{author}} Esse pedido não está mais disponível",
     "MISSING_GEMS": "{{author}} Você não tem **{{currency}}** suficiente para este processo",
     "SOMETHING_WRONG": "{{author}} Algo deu errado. Tente novamente",
     "PURCHASE_SUCCESSFUL": "{{author}} Comprou **{{boughtCount}}** {{currency}} com sucesso",

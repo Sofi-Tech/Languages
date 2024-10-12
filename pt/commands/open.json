@@ -1,7 +1,7 @@
 {
     "OPEN_DESCRIPTION": "Use este comando para abrir baús obtidos por várias atividades em Sofi",
     "SLASH_DESC_1": "Digite o nome do item que deseja abrir",
-    "SLASH_DESC_2": "Digite a quantidade.",
+    "SLASH_DESC_2": "Digite a quantidade",
     "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}open<ItemName><Amount> `",
     "EMPTY_INV": "{{author}} Seu inventário está vazio",
     "CHARM_MISSING": "{{author}} Você não possui nenhum **Charm**",
@@ -23,5 +23,5 @@
     "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
     "NOIR_FOUND": "Você achou uma <:noiressence:1115496193775116411> **Noir Essence** em seu chest!",
     "GUILD_CHEST_FOOTER": "Você pode obter um Guild Chest no final de cada temporada",
-    "EQUIP_EQUIPMENTS": "Use o \"{{prefixo}}stats<CardCode> \"comando para equipar os equipments"
+    "EQUIP_EQUIPMENTS": "Use o \"{{prefix}}stats<CardCode> \"comando para equipar os equipments"
 }

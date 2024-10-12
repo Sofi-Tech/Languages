@@ -40,6 +40,6 @@
     "MEMBER_QUARANTINED": "{{author}} Esse usuário está em quarentena",
     "CANCEL": "Cancelar",
     "NOT_AVAILABLE": "Indisponível",
-    "SOMETHING_WENT_WRONG": "Algo deu errado...",
+    "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, please try again",
     "AVAILABLE": "CARREGADO"
 }

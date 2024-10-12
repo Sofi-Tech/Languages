@@ -27,7 +27,7 @@
     "DESCRIPTION": "Descrição:",
     "USAGE": "Uso:",
     "NOT_PROVIDED": "Não fornecido",
-    "COMMNAD_NOT_FOUND": "{{author}} Não há comando com o nome `{{command}}`! Você talvez esteja procurando por `{{commandName}}`?",
+    "COMMNAD_NOT_FOUND": "{{author}} Não há comando com o nome `{{command}}`! \nVocê talvez esteja procurando por `{{commandName}}`?",
     "ALL_FILTER_CATEGORIES": "**__Categorias Disponíveis:__** \n\n<:pdot:979009081325019156> **`Anime, Cartoon, Movie`** \n<:pdot:979009081325019156> **`Vtuber, Kpop, Jpop, Cpop`** \n<:pdot:979009081325019156> **`Art, Comic, Manga, Webtoon, Webseries`** \n<:pdot:979009081325019156> **`Games, Memes`**\n\n**__Abreviações de Evento:__**\n\n<:pdot:979009081325019156> **Halloween 2022** [`hal22`]\n<:pdot:979009081325019156> **Valentines 2023** [`val23`]\n<:pdot:979009081325019156> **Monochrome 2023** [`mon23`]\n<:pdot:979009081325019156> **Christmas 2023** [`xms23`]\n<:pdot:979009081325019156> **Spring 2024** [`spr24`]\n<:pdot:979009081325019156> **Summer 2024** [`smr24`]",
     "USAGE_EMBED_TITLE": "SOFI: HELP ({{command}})",
     "HELP_DESCRIPTION": "Usar este comando sem prompts adicionais abrirá uma lista abrangente de todos os comandos disponíveis no Sofi. Se você adicionar um nome de comando específico como um prompt, ele abrirá uma incorporação explicando o uso do comando nomeado e exibirá sua formatação de uso adequada",

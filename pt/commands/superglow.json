@@ -8,7 +8,7 @@
     "SAME_GLOWS": "{{author}} Você não pode utilizar o mesmo **Glow** duas vezes para este processo",
     "EMBED_TITLE": "SOFI: SUPER GLOW",
     "FORM_SG_CONFIRM": "Tem certeza de que deseja mesclar os seguintes itens:\n\n {{glowCodes}} +\n<:resin:938131736741691442> **2x** **Resin**\n\nem **{{superGlowName}}** **Super Glow**?",
-    "MISSING_RESINS": "Você não possui **Resin** suficiente para este processo",
+    "MISSING_RESINS": "{{author}} Você não tem **Resin** suficiente para este processo",
     "SUPER_GLOW_SUCCESSFUL": "{{author}} Seus**Glows**foram combinados com sucesso\n",
     "FORM_SG_FOOTER": "Ambos os Glows serão destruídos no processo!"
 }
