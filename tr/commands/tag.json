@@ -1,12 +1,12 @@
 {
-    "TAG_DESCRIPTION": "Bu komutla kartınıza etiket uygulayabilirsiniz. Etiketler, organize etmeye ve birçok kardı kendi kriterlerinize uygun şekilde gruplandırmaya yarayan kullanışlı bir özelliktir. Etiketleri oluşturmak için \"Tagcreate\" komutunu kullanabilirsiniz",
+    "TAG_DESCRIPTION": "Bu komutla kartınıza etiket tanımlayabilirsiniz. Etiketler, organize etmeye ve birçok kartı kendi kriterlerinize uygun şekilde gruplandırmaya yarayan kullanışlı bir özelliktir. Etiket oluşturmak için \"{{prefix}}tagcreate\" komutunu kullanabilirsiniz",
     "TAG_CATEGORY": "Etiketler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}t <Etiketİsmi><KartKodu>`",
     "NO_TAGS_CREATED": "{{author}} Henüz hiç etiketiniz yok. Etiket oluşturmak için `{{prefix}}tc <Etiketİsmi> <Emoji>` komutunu kullanın",
     "TAG_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir etiketiniz yok",
     "NO_CARDS_CLAIMED": "{{author}} Koleksiyonunuzda henüz hiçbir kart yok",
     "INVALID_CARD_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda mevcut değil",
-    "SUCCESSFUL_TAG": "{{author}} **{{card}}** kartı `{{tag}}`olarak başarıyla etiketlendi",
+    "SUCCESSFUL_TAG": "{{author}} **{{card}}** kartı `{{tag}}` olarak başarıyla etiketlendi",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Tüm kartlar başarıyla etiketlendi",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Aşağıdaki kart kodları ya geçersiz ya da koleksiyonunuzda bulunmuyor:\n{{arg}}"
 }

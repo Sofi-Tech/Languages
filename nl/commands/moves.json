@@ -1,1 +1,13 @@
-{}
+{
+    "MOVES_DESCRIPTION": "Een lijst met alle beschikbare acties en hun beschrijving weergeven, gebruik commando \"{{prefix}}move <Name>\" om een meer gedetailleerd inzicht te krijgen",
+    "MOVES_CATEGORY": "Guilds",
+    "MOVES_ATTACK": "Aanval",
+    "MOVES_HEALING": "Genezing",
+    "MOVES_MISCELLANEOUS": "Overige",
+    "MOVES_DEBUFF": "Debuff",
+    "MOVES_UNKNOWN": "Onbekend",
+    "DUEL_BUTTON_LABEL": "Duel",
+    "BOSS_BUTTON_LABEL": "Baas",
+    "MOVES_DEFENCE": "Verdediging",
+    "OUTBURST_RAID_DESCRIPTION": "Val de baas aan tijdens een woedeaanval en richt 85% van de maximale gezondheid van de gebruikte kaart + 25% van hun aanvals stat aan schade aan en breng wonden toe aan de baas. Deze wonden herhalen de schade van de eerste slag elke beurt totdat de kaart is verslagen. Deze zet verbruikt elke beurt 20% van de maximale gezondheid van de gebruikte kaart en er kan maar één kaart tegelijk een outburst gebruiken."
+}

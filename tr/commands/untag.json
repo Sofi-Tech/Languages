@@ -4,6 +4,6 @@
     "UT_EMPTY_COLLECTION": "{{author}} Koleksiyonunuzda henüz hiç kart yok",
     "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}** kartınızdan etiket başarıyla kaldırıldı",
     "MULTIPLE_UNTAG": "{{author}} **{{count}}** karttan etiket başarıyla kaldırıldı",
-    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda değil",
+    "INVALID_CODE": "{{author}} Bu kart kodu ya geçersiz ya da koleksiyonunuzda bulunmuyor",
     "INVALID_CODE_MULTIPLE": "{{author}} Aşağıdaki kart kodları geçersiz veya koleksiyonunuzda yok:\n{{invalidCodeList}}"
 }

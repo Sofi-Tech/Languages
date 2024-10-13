@@ -99,5 +99,14 @@
     "PURHCASE_SUCCESSFUL": "Adquiriu com sucesso o **{{backgroundName}}** **Profile Background**",
     "SELECT_PBG_CONFIRM": "Tem certeza de que deseja selecionar o **{{backgroundName}}** **Profile Background**?",
     "PROFILECONFIG_DESCRIPTION": "Com este comando você poderá personalizar seu cartão de perfil de várias maneiras",
-    "GIF_NOTE": "Nota: Converter seu perfil em GIF removerá o Glow do seu perfil. \nTem certeza de que deseja continuar?"
+    "GIF_NOTE": "Nota: Converter seu perfil em GIF removerá o Glow do seu perfil. \nTem certeza de que deseja continuar?",
+    "NO_RING_FOUND": "Não foi possível encontrar nenhum **Profile Ring** com esse ID",
+    "RING_ALREADY_IN_INV": "Você já tem esse **Profile Ring** em seu inventário",
+    "RING_PURCHASE_SUCCESS": "O **Profile Ring** **{{ringName}}** foi adquirido com sucesso",
+    "PURCHASE_RING_MODAL_LABEL": "Insira o ID do Profile Ring",
+    "RING_PURCHASE_MODAL_TITLE": "Comprar Profile Ring",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "ex. 101",
+    "SET_RING_CONFIRM": "Tem certeza de que deseja definir **{{ringName}}** como seu Profile Ring?",
+    "NO_ENOUGH_AMOUNT_RING": "Você não tem **{{currency}}** suficiente para comprar este **Profile Ring**",
+    "INVALID_RING_ID": "ID do **Profile Ring** inválido"
 }

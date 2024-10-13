@@ -6,7 +6,7 @@
     "CONTINUE": "SOFI: MORF",
     "MORPH_CONFIRMATION": "**{{characterName}}** kartınızı rull başına **{{amount}}** {{currencyEmoji}} karşılığında morflamak istediğinizden emin misiniz?",
     "CANCELLED": "Süreç İptal edildi",
-    "NOT_ENOUGH_SILVERS": "{{author}} Bu İşlem için yeterli **{{currency}}** elinizde bulunmuyor",
+    "NOT_ENOUGH_SILVERS": "{{author}} Bu işlem için yeterli **{{currency}}** elinizde bulunmuyor",
     "BALANCE": "Bakiye: **{{amount}}** {{currencyEmoji}}",
     "NAME": "İsim: `{{name}}`",
     "UNDO": "Dönen morflar: **{{count}}**",

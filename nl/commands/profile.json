@@ -1,7 +1,7 @@
 {
     "PROFILE_DESCRIPTION": "Met deze commando wordt het profiel van een gebruiker weergegeven. U kunt uw profiel aanpassen met behulp van de commando \"{{prefix}}profileconfig\"",
     "PRO_CATEGORY": "Instellingen",
-    "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
+    "USER_NOT_FOUND": "{{author}} Kon die gebruiker niet vinden",
     "PROFILE_NOT_FOUND": "{{author}} Die gebruiker is niet geregistreerd",
     "GIF_ENABLED": "{{author}} Uw profiel heeft de GIF functie ingeschakeld. Om uw GIF profiel te laden gebruikt u de opdracht `{{prefix}}pc` en klikt u op de knop `GIF profiel opnieuw laden` in het vervolgkeuzemenu"
 }

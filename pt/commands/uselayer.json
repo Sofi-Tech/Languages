@@ -1,3 +1,13 @@
 {
-    "NO_LAYER_FOUND": "{{author}} Não foi possível encontrar uma **Layer** com o ID `{{layerId}}`"
+    "NO_LAYER_FOUND": "{{author}} Não foi possível encontrar uma **Layer** com o ID `{{layerId}}`",
+    "USELAYER_CATEGORY": "Cosméticos",
+    "UL_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}ul <CardCode> <Layer-ID>`",
+    "CARD_INVALID": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Você não pode aplicar uma **Camada** a um **GIF**",
+    "UL_EMBED_FOOTER": "A confirmação deste processo destruirá a Layer atualmente aplicada",
+    "DONT_HAVE_LAYER": "{{author}} Você não tem a **Layer** **{{name}}**",
+    "USE_LAYER_SUCCESSFUL": "{{author}} A **Layer** **{{name}}** foi aplicada com sucesso a sua carta",
+    "USE_LAYER_CONFIRM": "Tem certeza de que deseja aplicar a**Layer** **{{name}}** a esta carta?",
+    "USELAYER_DESCRIPTION": "Este comando aplicará uma Layer selecionada a uma carta de sua escolha. Você pode comprar Layers usando o comando \"{{prefix}}layershop\"",
+    "CARD_NOT_IN_COLLECTION": "{{author}} A carta não está mais em sua coleção"
 }

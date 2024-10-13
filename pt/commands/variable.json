@@ -40,6 +40,8 @@
     "MEMBER_QUARANTINED": "{{author}} Esse usuário está em quarentena",
     "CANCEL": "Cancelar",
     "NOT_AVAILABLE": "Indisponível",
-    "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, please try again",
-    "AVAILABLE": "CARREGADO"
+    "SOMETHING_WENT_WRONG": "{{author}} Algo deu errado, por favor tente novamente",
+    "AVAILABLE": "Disponível",
+    "G1_CLAIM_EMBED_TITLE": "**CARTA DE GEN {{gen}} REIVINDICADA*",
+    "G1_CLAIM_INFO": "Cartas Gen de um dígito são raras e muito cobiçadas pelos jogadores. Duplicatas dessas Gens são extremamente incomuns. \nCertifique-se de pesquisar o valor da carta antes de negociar e considere consultar os principais fãs para ajudá-lo a avaliar seu verdadeiro valor. \nVocê pode verificar os principais fãs desse personagem usando o comando \"{{prefix}}cl\"."
 }

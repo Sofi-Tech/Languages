@@ -5,7 +5,7 @@
     "GUILDKICK_CATEGORY": "Guilds",
     "MUST_BE_FOUNDER": "{{author}} U moet een **Founder** of **Guildmaster** in de Guild zijn om leden te verwijderen",
     "GUILDKICK_DESCRIPTION": "Dit commando kan gebruikt worden door een Founder of Guildmaster om een lid uit de guild te verwijderen",
-    "PROVIDE_ID": "{{author}} Correct gebruik: `{{prefix}}gk <@User/UserID>`",
+    "PROVIDE_ID": "{{author}} Correcte gebruik: `{{prefix}}gk <@User/UserID>`",
     "USER_NOT_FOUND": "{{author}} Kon die gebruiker niet vinden",
     "CANNOT_KICK": "{{author}} U kunt uzelf niet verwijderen",
     "MEMBER_NOT_IN_GUILD": "{{author}} Die gebruiker is niet in een guild",

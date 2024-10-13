@@ -1,7 +1,7 @@
 {
     "WISHLIST_DESCRIPTION": "Als u deze commando gebruikt, worden de gewenste tekens van een gebruiker weergegeven. Om een karakter aan uw verlanglijst toe te voegen, gebruikt u de commando \"{{prefix}}wishlistadd\"",
     "CATEGORY": "Verlanglijst",
-    "USER_NOT_FOUND": "{{author}} Gebruiker niet gevonden",
+    "USER_NOT_FOUND": "{{author}} Kon die gebruiker niet vinden",
     "WISHLIST_PRIVATE": "{{author}} De verlanglijst van deze gebruiker is privé",
     "WISHLIST_EMPTY": "{{author}} De verlanglijst van deze gebruiker is leeg",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
