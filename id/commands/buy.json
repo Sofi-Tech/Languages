@@ -13,6 +13,6 @@
     "BUY_CHARMS_MULTIPLES": "{{author}} Anda hanya dapat membeli **Charms** dalam kelipatan 100",
     "BUY_GEN_CONFIRMATION": "## Anda membeli {{count}} {{itemName}} 💳",
     "LAYER_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}buy layer <Layer-ID> <Amount>`",
-    "NO_LAYER_FOUND": "{{author}} Tidak dapat menemukan **Layer** dengan ID`{{layerId}}`",
+    "NO_LAYER_FOUND": "{{author}} Tidak dapat menemukan **Layer** dengan ID `{{layerId}}`",
     "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** dengan ID`{{layerId}}` terbatas dan tidak dapat dibeli lagi"
 }
