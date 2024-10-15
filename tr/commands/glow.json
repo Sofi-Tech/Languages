@@ -1,5 +1,5 @@
 {
-    "GLOW_DESCRIPTION": "Bu komut, belirtilen Glow'u koleksiyonunuzdaki bir karta uygulayacaktır. Glowlar, kartınızın çerçeve kenarlığının çevresine parlak bir etki katar. \"{{prefix}}unlockglow\" komutunu kullanarak Parıltı satın alabilirsiniz",
+    "GLOW_DESCRIPTION": "Bu komut, belirtilen Glow'u koleksiyonunuzdaki bir karta uygulayacaktır. Glowlar, kartınızın çerçeve kenarlığının çevresine parlak bir etki katar. \"{{prefix}}unlockglow\" komutunu kullanarak Glow satın alabilirsiniz",
     "GLOW_CATEGORY": "Kozmetik",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}glow <KartKodu> <GlowKodu>`",
     "WRONG_CARD": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda bulunmuyor",
@@ -13,6 +13,6 @@
     "EMBED_FOOTER": "Glow; {{availability}}",
     "GLOW_UNAVAILABLE": "{{author}} Bu **Glow**'un yükü dolu değil",
     "GLOW_APPLY_SUCCESSFUL": "{{author}} **{{glowName}}** **Glow**'u kartınıza başarıyla uyguladı",
-    "UNAVAILABLE": "Boş",
+    "UNAVAILABLE": "Yüksüz",
     "AVAILABLE": "Yüklü"
 }

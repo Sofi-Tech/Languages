@@ -6,7 +6,7 @@
     "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil",
     "MEM_BLACKLISTED": "{{author}} Bu kullanıcı kara listede",
     "MEM_QUARANTINED": "{{author}} Bu kullanıcı karantina altında",
-    "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <Kullanıcı/KullanıcıIDsi> <KartKodu>`",
+    "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <@Kullanıcı/KullanıcıIDsi> <KartKodu>`",
     "NO_CARD_FOUND": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda bulunmuyor",
     "CARD_LOCKED": "{{author}} Bu kart kilitlidir ve başkasına verilemez! Kartın kilidini açmak için `{{prefix}}ut <KartKodu>` komutunu kullanın",
     "CANCELLED": "Süreç İptal edildi",

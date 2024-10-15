@@ -10,10 +10,10 @@
     "YOU_GET": "Aldığınız: {{additionalInfo}}",
     "NOT_ENOUGH_AMOUNT": "{{author}} Bu satın alma işlemini gerçekleştirmek için yeterli **{{item}}** elinizde bulunmuyor",
     "SWAP_EMBED_TITLE": "SOFI: CODE SWAP",
-    "CODE_ONE": "<:linedown:868888105611046942> Birinci Kod",
-    "CODE_TWO": "<:linedown:868888105611046942> İkinci Kod",
+    "CODE_ONE": "<:linedown:868888105611046942> Kod 1",
+    "CODE_TWO": "<:linedown:868888105611046942> Kod 2",
     "SWAP_EMBED_FOOTER": "Bu işlem belirtilen kartların kodlarını değiştirecektir",
     "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Başarıyla **{{amount}}** **{{itemName}}** satın alındı",
     "GS_EMBED_FOOTER": "Bu anlaşma {{date}} içinde sona erecek",
-    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} `{{amount}}` adet **{{layerName}}** **{{itemName}}** başarıyla satın alındı"
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} **{{amount}}** adet **{{layerName}}** **{{itemName}}** başarıyla satın alındı"
 }
