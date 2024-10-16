@@ -1,1 +1,18 @@
-{}
+{
+    "DEMOTE_OTHERS_ERROR": "{{author}} 您必须是**Founder**（创始人）或**Guildmaster**（公会会长）才能降级他人",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} 只有 **Veteran** 可以降级为 **Adventurer**",
+    "DEMOTED_ADVENTURER": "{{member}} 被降级为 **Adventurer**",
+    "INVALID_USER_PROVIDED": "{{author}} 找不到那个用户",
+    "GUILDDEMOTE_CATEGORY": "公会",
+    "CANT_DEMOTE_FOUNDER": "{{author}} 您不能降级**Founder**（创始人）",
+    "PROVIDE_GUILD_RANK": "{{author}} 请提供要降级的公会等级：\n》{{ranks}}",
+    "DEMOTE_VETERAN_ERROR": "{{author}} 只有 **Guildmaster** 可以降级为 **Veteran**",
+    "DEMOTED_VETERAN": "{{member}} 被降级为 **Veteran**",
+    "DEMOTED_NEWBIE": "{{member}} 被降级为**Newbie**",
+    "GD_CORRECT_USAGE": "{{author}} 正确用法：`{{prefix}}gd <@User/UserID> <V/N>`",
+    "NO_GUILD_INFO": "{{author}} 无法找到该用户的公会信息",
+    "NOT_GUILD_MEMBER": "{{author}} 该用户不是您公会的成员",
+    "DEMOTE_NEWBIE_ERROR": "{{author}} 只有 **Guildmaster** 和 **Veteran** 可以降级为 **Newbie**",
+    "MUST_HAVE_AUTHORITY": "{{author}} 您必须是**Founder**（创始人）或**Guildmaster**（公会会长）才能降级公会成员",
+    "GUILDDEMOTE_DESCRIPTION": "此命令会降低选定公会成员的等级。 "
+}

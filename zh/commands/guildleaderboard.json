@@ -1,1 +1,10 @@
-{}
+{
+    "GUILDLEADERBOARD_CATEGORY": "公会",
+    "SEASON_ENDS": "**赛季结束：{{time}}**",
+    "GRACE_ENDS": "**宽限期结束时间：{{time}}**",
+    "GLB_TOTAL_GUILDS": "公会总数",
+    "GLB_TOTAL_RAIDS": "总突袭次数",
+    "GLB_TOTAL_REVENGE": "总复仇次数",
+    "GLB_EMBED_FOOTER": "S{{season}}：公会赛季持续 24 天。",
+    "GUILDLEADERBOARD_DESCRIPTION": "此命令显示公会之间正在进行的比赛的分数和排名以及剩余时间"
+}

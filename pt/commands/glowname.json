@@ -1,7 +1,7 @@
 {
     "GLOWNAME_DESCRIPTION": "Use este comando para alterar o nome do seu Glow",
     "GN_CATEGORY": "Cosméticos",
-    "UNLOCK_GLOWS": "{{author}} Você não tem nenhum `Glow`",
+    "UNLOCK_GLOWS": "{{author}} Você não tem nenhum **Glow**",
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}gn <CódigodoGlow> <NovoNome>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Os códigos **Glow** sempre começam com `#`",
     "GLOW_NOT_FOUND": "{{author}} O código de **Glow** que você forneceu é inválido ou não está em seu inventário",
@@ -9,7 +9,7 @@
     "GLOW_NAME_EXISTS": "{{author}} Esse nome já foi atribuído a um **Glow** diferente",
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "GLOWNAME_CHANGE_CONFIRMATION": "Tem certeza de que deseja alterar o nome do seu **Glow** de `{{oldName}}` para `{{newName}}`?",
-    "MISSING_ITEMS": "{{author}} Você não tem **{{currency}}** suficiente para este processo",
+    "MISSING_ITEMS": "{{author}} Você não tem **{{currency}}** o suficiente para este processo",
     "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Alterou com sucesso o nome do seu **Glow** para `{{newName}}`",
     "PROFANE_GLOW_NAME": "{{author}} O nome do seu **Glow** não deve conter palavrões ou palavras depreciativas"
 }

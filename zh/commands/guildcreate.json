@@ -1,3 +1,20 @@
 {
-    "GUILD_CREATE_CANCEL": "此过程已取消"
+    "GUILD_CREATE_CANCEL": "此过程已取消",
+    "GUILDCREATE_CATEGORY": "公会",
+    "NAME_CHAR_LIMIT": "{{author}} 您的公会名称只能有**25**个字符",
+    "NO_SPECIAL_FONT": "{{author}} 您的公会名称不能有特殊字符",
+    "GUILDCREATE_DESCRIPTION": "此命令将消耗`Guild Stone`来创建公会",
+    "GC_INFO_1": "您正在创建公会。此过程将消耗一个 **{{itemName}}**。",
+    "GC_INFO_2": "请按下**{{itemName}}**按钮创建公会。",
+    "CREATE_BUTTON_LABEL": "确定",
+    "FOUNDER_INFO": "Founder：{{user}}",
+    "GUILD_CREATED_INFO": "公会创建：**{{name}}**",
+    "GUILD_CREATE_SUCCESS": "成功完成流程",
+    "NEED_ITEM": "{{author}} 您所需要一个 **{{itemName}}** 来创建公会",
+    "GUILD_READY": "您的公会已准备好了。确认完成流程",
+    "GC_WARNING": "⚠️在公会名称中使用不当或冒犯性文字可能会导致删除，恕不另行通知，无论您的进度如何。如有疑问，请首先咨询 Sofi 支持人员。",
+    "BACK_BUTTON_LABEL": "返回",
+    "NO_PROFANE": "{{author}} 您的公会名称不能有任何形式的亵渎",
+    "NAME_REQUIRED": "{{author}} 正确用法：`{{prefix}}guildcreate <GuildName>`",
+    "ALREADY_IN_GUILD": "{{author}} 您已加入公会。离开当前公会才能加入新公会。"
 }

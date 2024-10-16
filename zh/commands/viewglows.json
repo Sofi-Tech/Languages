@@ -13,5 +13,6 @@
     "EMBED_GLOW_TITLE": "SOFI: VIEWGLOWS",
     "TIME_one": "{{count}} time",
     "TIME_other": "{{count}} times",
-    "PURITY": "```纯度:    ➜ {{purity}}```"
+    "PURITY": "```纯度:    ➜ {{purity}}```",
+    "INVALID_USER": "{{author}} 找不到该用户"
 }

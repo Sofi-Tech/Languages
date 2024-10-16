@@ -1,3 +1,19 @@
 {
-    "TRANSFER_OWNERSHIP_CANCEL": "此过程已取消"
+    "TRANSFER_OWNERSHIP_CANCEL": "此过程已取消",
+    "GUILDPROMOTE_DESCRIPTION": "此命令可以提高选定公会成员的等级",
+    "NO_GUILD_INFO": "{{author}} 无法找到该用户的公会信息",
+    "GUILDPROMOTE_CATEGORY": "公会",
+    "GP_CORRECT_USAGE": "{{author}} 正确用法：`{{prefix}}gp <@User/UserID>`",
+    "NOT_MEMBER": "{{author}} 此用户不是您公会的成员",
+    "TRANSFER_OWNERSHIP_CONFIRM": "您即将把公会所有权转让给 {{member}}。您确定吗？",
+    "TRANSFER_OWNERSHIP_SUCCESS": "新的公会主人是<@{{memberId}}>",
+    "MUST_BE_FOUNDER": "{{author}} 您必须是 **Founder** 或 **Guildmaster** 才能晋升公会成员",
+    "ALREADY_FOUNDER": "{{author}} 该用户已经是公会的 **Founder**",
+    "PROVIDE_VETERAN_RANK": "{{author}} 请提供公会等级以提升：\n> **V**eteran",
+    "PROMOTED_TO_VETERAN": "{{member}} 已成功晋升为 **Veteran**",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} 只有 **Adventurer** 才能晋升为 **Veteran**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} 只有 **Adventurer** 和 **Veteran** 才能晋升为 **Guildmaster**",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} 已成功晋升为 **Guildmaster**（公会会长）",
+    "PROVIDE_FOUNDER_RANK": "{{author}} 提供要提升的公会等级：\n> **F**ounder、**G**uildmaster、**V**eteran",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} 只有 **Guildmaster** 才能晋升为 **Founder**"
 }
