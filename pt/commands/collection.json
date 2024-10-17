@@ -39,7 +39,7 @@
     "ALL_UNTAG_SUCCESS_two": "{{author}} Removeu a tag `{{tagName}}` de **{{count}}** cartas com sucesso",
     "ALL_UNTAG_SUCCESS_few": "{{author}} Removeu a tag `{{tagName}}` de **{{count}}** cartas com sucesso",
     "ALL_UNTAG_SUCCESS_other": "{{author}} Removeu a tag `{{tagName}}` de **{{count}}** cartas com sucesso",
-    "ALL_UNTAG_SUCCESS_many": "{{author}} Removeu a tag `{{tagName}}` de **{{count}}** cartas com sucesso",
+    "ALL_UNTAG_SUCCESS_many": "{{author}} A seguinte tag foi removida com sucesso de **{{count}}** cartas `{{tagName}}`",
     "ALL_TAG_SUCCESS_zero": "{{author}} Adicionou a tag `{{tagName}}` a **{{count}}** cartas com sucesso",
     "ALL_TAG_SUCCESS_one": "{{author}} Adicionou a tag `{{tagName}}` a **{{count}}** carta com sucesso",
     "FILTER_NAME_PROFANE": "{{author}} O nome do seu filtro não pode conter palavrões",

@@ -1,7 +1,7 @@
 {
     "UNDOGLOW_DESCRIPTION": "Menggunakan perintah ini pada kartu akan menghapus Glow yang diaplikasikan padanya",
     "UNG_CATEGORY": "Kosmetik",
-    "UNG_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}ung <KodeKartu>`",
+    "UNG_INVALID_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} Kode kartu yang anda berikan tidak valid atau tidak ada dalam koleksi anda",
     "NO_CHARACTER": "{{author}} Karakter pada kartu ini sudah tidak tersedia di Sofi dan tidak dapat diinteraksikan",
     "NO_GIF": "{{author}} Anda tidak dapat menghapus kosmetik dari kartu **GIF**",
@@ -11,6 +11,6 @@
     "EMBED_FOOTER": "Glow tidak akan kembali ke inventaris Anda",
     "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup **{{currency}}** untuk proses ini",
     "UNG_SUCCESSFUL": "{{author}} Berhasil menghapus **{{glowName}}** **Glow** dari kartu anda",
-    "UNAVAILABLE": "Tak tersedia",
+    "UNAVAILABLE": "Tidak tersedia",
     "UNG_NO_OWNER": "{{author}} Kartu tidak lagi ada dalam koleksi anda"
 }

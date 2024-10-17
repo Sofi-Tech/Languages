@@ -1,5 +1,5 @@
 {
-    "DELETEGLOWTAG_DESCRIPTION": "ग्लो टैग नाम के साथ इस कमांड का उपयोग करने पर चयनित टैग को हटाया जा सकता है",
+    "DELETEGLOWTAG_DESCRIPTION": "Glow टैग नाम के साथ इस कमांड का उपयोग करने पर चयनित टैग को हटाया जा सकता है",
     "DGT_CATEGORY": "TAGS",
     "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}dgt <tagname>`",
     "GLOWTAG_NOT_FOUND": "{{author}} आपके पास इस नाम से कोई **Glow** टैग नहीं है `{{tagname}}`",

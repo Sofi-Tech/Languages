@@ -1,3 +1,19 @@
 {
-    "NO_GUILD_INFO": "{{author}} Não foi possivel encontrar informações da guilda para esse usuário"
+    "NO_GUILD_INFO": "{{author}} Não foi possivel encontrar informações da guilda para esse usuário",
+    "GUILDPROMOTE_DESCRIPTION": "Use este comando para aumentar a classificação do membro da guilda selecionado",
+    "GUILDPROMOTE_CATEGORY": "Guildas",
+    "GP_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}gp <@User/UserID>`",
+    "NOT_MEMBER": "{{author}} Este usuário não é membro da sua guilda",
+    "ALREADY_FOUNDER": "{{author}} Este usuário já é um **Founder** da guilda",
+    "PROVIDE_FOUNDER_RANK": "{{author}} Forneça uma classificação de guilda para promover:\n> **F**onder, **G**uildmaster, **V**eteran",
+    "PROVIDE_VETERAN_RANK": "{{author}} Forneça uma classificação de guilda para promover: \n> **V**eteran",
+    "PROMOTED_TO_VETERAN": "{{member}} foi promovido com sucesso a **Veteran**",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Somente **Adventurers** podem ser promovidos a **Veterans**",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} foi promovido com sucesso a **Guildmaster**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Apenas **Adventurers** e **Veterans** podem ser promovidos a **Guildmaster**",
+    "TRANSFER_OWNERSHIP_CONFIRM": "Você está prestes a transferir a propriedade da guilda para {{member}}. Tem certeza?",
+    "TRANSFER_OWNERSHIP_CANCEL": "O processo foi cancelado",
+    "TRANSFER_OWNERSHIP_SUCCESS": "O novo dono da guilda é <@{{memberId}}>",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Somente **Guildmasters** podem ser promovidos a **Founders**",
+    "MUST_BE_FOUNDER": "{{author}} Você deve ser um **Founder** ou **Guildmaster** para promover um membro da guilda"
 }

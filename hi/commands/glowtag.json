@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "इस कमांड से आप अपने ग्लो को एक टैग दे सकते हैं। ग्लो टैग बनाने के लिए \"{{prefix}}glowtagcreate\" कमांड का उपयोग करें",
+    "GLOWTAG_DESCRIPTION": "इस कमांड से आप अपने Glow को एक टैग दे सकते हैं। ग्लो टैग बनाने के लिए \"{{prefix}}glowtagcreate\" कमांड का उपयोग करें",
     "GT_CATEGORY": "TAGS",
     "GLOWTAGS_NOT_FOUND": "{{author}} आपने अभी तक कोई **Glow** टैग नहीं बनाया है। आप `{{prefix}}gtc <Name> <Emoji>` का प्रयोग करके टैग बना सकते है",
     "GLOWS_NOT_UNLOCKED": "{{author}} आपके पास कोई **Glows** नहीं है",
