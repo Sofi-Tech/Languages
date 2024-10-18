@@ -1,3 +1,23 @@
 {
-    "NOT_IN_GUILD": "{{author}} Você não está em nenhuma guilda"
+    "NOT_IN_GUILD": "{{author}} Você não está em nenhuma guilda",
+    "GUILDLEAVE_DESCRIPTION": "Use este comando para sair da sua guilda atual ou excluí-la se você for um Founder. Após sair de uma guilda, você terá que esperar 48 horas antes de entrar em outra. ",
+    "GUILDLEAVE_CATEGORY": "Guilds",
+    "I_BUTTON_LABEL": "eu",
+    "AM_BUTTON_LABEL": "tenho",
+    "ABSOLUTELY_BUTTON_LABEL": "absoluta",
+    "SURE_BUTTON_LABEL": "certeza",
+    "DECIDED_TO_LEAVE": "Tem certeza de que deseja sair da sua guilda?\n",
+    "PROCEED_OPTIONS": "Você pode escolher uma das seguintes opções: \n\n",
+    "TRANSFER_OWNERSHIP": "↪️: Transferir a propriedade da guilda \n",
+    "PERMANENT_DELETE_CANCEL": "🗑️: Excluir permanentemente a guilda \n❌: Cancelar tudo e permanecer na sua guilda",
+    "GUILD_LEAVE_SUCCESS": "Você saiu com sucesso da guilda **{{guildName}}**",
+    "STAY_IN_GUILD": "Você decidiu permanecer em sua guilda atual",
+    "TRANSFER_GUILD_OWNERSHIP": "Você está transferindo a propriedade da sua guilda. \nPor favor, forneça o ID do membro para transferir a propriedade.",
+    "CANNOT_TRANSFER_YOURSELF": "Você não pode transferir a propriedade para si mesmo",
+    "TRANSFER_SUCCESS": "{{author}} deixou a guilda e o novo **Fundador** é <@{{userId}}>",
+    "GUILD_LEAVE_CANCEL": "{{author}} decidiu não deixar a guilda",
+    "TRANSFER_CONFIRM": "Tem certeza de que deseja transferir a propriedade da guilda para <@{{userId}}>?",
+    "GUILD_DELETE_SUCCESS": "A guilda foi excluída com sucesso",
+    "GUILD_LEAVE_CONFIRM": "Tem certeza de que deseja sair da guilda **{{guildName}}**? \n\nSair de guildas com frequência não é permitido. \nVocê poderá entrar em uma guilda novamente em 48 horas.",
+    "GD_EMBED_DESCRIPTION": "Você está prestes a excluir a guilda **{{guildName}}**. \nHá **{{size}} membros** na sua guilda.\nA guilda é nível **{{level}}**. \nTodo o progresso e recursos no cofre serão perdidos.\nEste processo é irreversível. \n\nTem certeza de que deseja excluir a guilda?"
 }

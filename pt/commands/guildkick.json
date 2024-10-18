@@ -1,5 +1,16 @@
 {
     "PLAYER_NOT_EXIST": "{{author}} Não foi possível encontrar esse usuário",
     "NOT_IN_GUILD": "{{author}} Você não está em nenhuma guilda",
-    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário"
+    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário",
+    "GUILDKICK_DESCRIPTION": "Este comando pode ser utilizado por um Founder ou Guildmaster para expulsar um membro da guilda",
+    "GUILDKICK_CATEGORY": "Guildas",
+    "CANNOT_KICK": "{{author}} Você não pode expulsar a si mesmo",
+    "MEMBER_NOT_IN_GUILD": "{{author}} O usuário não está em nenhuma guilda",
+    "NOT_IN_YOUR_GUILD": "{{author}} Esse usuário não é um membro da sua guilda",
+    "KICK_CONFIRM": "Tem certeza que deseja expulsar <@{{memberId}}> da guilda?",
+    "KICK_SUCCESSFUL": "<@{{memberId}}> foi removido da guilda com sucesso",
+    "KICK_CANCEL": "Você decidiu não expulsar <@{{memberId}}> da guilda",
+    "MUST_BE_FOUNDER": "{{author}} Você deve ser um **Founder** ou **Guildmaster** na guilda para expulsar membros",
+    "FOUNDER_CANNOT_BE_KICKED": "{{author}} Você não pode expulsar um **Founder** ou **Guildmaster** da guilda",
+    "PROVIDE_ID": "{{author}} Uso correto: `{{prefix}}gk <@Usuário/IDdoUsuário>`"
 }

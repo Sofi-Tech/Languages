@@ -140,5 +140,16 @@
     "INVITE_UNLOCK_SUCCESS": "O recurso de convite ao servidor da guilda foi desbloqueado com sucesso",
     "NOT_ENOUGH_ITEM_VAULT": "Quantidade insuficiente de **{{itemName}}** no cofre",
     "IMAGE_UNLOCK_SUCCESS": "O recurso de imagem da guilda foi desbloqueado com sucesso",
-    "PERMISSION_SET_SUCCESS": "Nível de permissão em crafting foi atualizado com sucesso"
+    "PERMISSION_SET_SUCCESS": "Nível de permissão em crafting foi atualizado com sucesso",
+    "ITEM_EMBED_DESCRIPTION": "Os itens coletados no seu cofre podem ser utilizados para criar outros itens.\nRecursos serão diretamente consumidos do seu cofre.\nO item criado será transferido diretamente para o seu inventário.\nO nível de permissão pode ser definido por **Founders** and **Guildmasters**.\n\nContagem global de **Guild Packages**: {{packageCount}}/300\nNível de permissão: **{{permLevel}}**\nTempo de criação\nCusto de criação",
+    "UNLOCK_PERM_ERROR": "Apenas **Founders** e **Guildmasters** podem desbloquear este recurso",
+    "SPREADSHEET_NOTE": "Utilize \"{{prefix}}sheet guilda\" para receber uma tabela com os registros do cofre.\nWists e Silver não podem ser retirados.",
+    "UNLOCK_FEATURES_MENU_PLACEHOLDER": "Desbloquear Recursos",
+    "UNLOCK_IMAGE_CONFIRM": "Você deseja desbloquear o recurso de imagem da guilda por **{{amount}}** **{{currency}}**?",
+    "CANNOT_HANDLE_MEMBERS": "Guildas com mais de 40 membros não são suportadas",
+    "UNLOCK_INVITE_CONFIRM": "Você deseja desbloquear o recurso de convite à guilda por **{{amount}}** **{{currency}}**?",
+    "NOT_ENOUGH_CRAFT_RESOURCES": "O cofre não possui recursos suficientes para criar este item",
+    "MAXIMUM_CRAFTING_LIMIT": "Limite máximo de criação de **Guild Packages** alcançado",
+    "CRAFTING_STARTED": "Criação de **{{itemName}}** iniciada",
+    "UPGRADE_EMBED_DESCRIPTION": "> **Slots de membros da guilda - {{memSlots}}** \n> Slots disponíveis: `{{availableSlots}}` \n> Custo para desbloquear slot: `{{slotAmount}} {{slotCurrency}}` \n\n> **Convite ao Servidor da Guilda - {{inviteToggle}}** \n> Custo de desbloqueio: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Imagem da Guilda - {{imageToggle}}** \n> Custo de desbloqueio: `{{imageAmount}} {{imageCurrency}}`"
 }

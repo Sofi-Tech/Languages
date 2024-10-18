@@ -1,3 +1,18 @@
 {
-    "ALREADY_IN_GUILD": "{{author}} Você já está em uma guilda. Saia da sua guilda atual para entrar em uma nova."
+    "ALREADY_IN_GUILD": "{{author}} Você já está em uma guilda. Saia da sua guilda atual para entrar em uma nova.",
+    "GUILDJOIN_CATEGORY": "Guildas",
+    "PROVIDE_USER": "{{author}} Mencione um **Founder** ou **Guildmaster** para solicitar entrada em uma guilda",
+    "NO_GUILD_FOUND": "{{author}} Não foi possível encontrar informações da guilda desse usuário",
+    "QUARANTINED_USERS": "{{author}} Usuários em quarentena não podem ingressar em guildas",
+    "LEAVING_GUILD": "{{author}} Você pode se juntar a outra guilda em **{{cooldown}}**",
+    "GUILD_IS_FULL": "{{author}} Não há slots livres nessa guilda",
+    "ALLOW_BUTTON_LABEL": "Eu aceito",
+    "DENY_BUTTON_LABEL": "Não, obrigado",
+    "GUILD_JOIN_ACCEPT": "{{member}} aceitou {{author}} como um **Adventurer** em sua guilda",
+    "GUILD_JOIN_REJECT": "{{member}} rejeitou {{author}} como **Adventurer** em sua guilda",
+    "NOT_FOUNDER": "{{author}} Este usuário não é um **Founder** ou **Guildmaster** na guilda",
+    "GUILDJOIN_DESCRIPTION": "Este comando pode ser usado para solicitar a um Founder ou Guildmaster para se tornar membro da guilda. O usuário selecionado pode então aceitar ou rejeitar sua solicitação",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} deseja se juntar a sua guilda.\nVocê aceita como **Adventurer** em sua guilda?",
+    "VERIFY_TO_JOIN": "{{author}} Verifique-se em nosso [website](https://sofi.gg/verify) para entrar em uma guilda",
+    "INVALID_USER": "{{author}} Não foi possível achar esse usuário"
 }
