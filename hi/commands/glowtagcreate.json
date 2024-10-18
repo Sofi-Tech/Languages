@@ -1,5 +1,5 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "इस कमांड का प्रयोग करके आप आपने संग्रह में मौजूद Glow को एक टैग बनाकर उसमे अपने अनुसार समूहित कर सकते हैं । \"{{prefix}}glowtag\" कमांड का प्रयोग करके आप ग्लो पर टैग लगा सकते है",
+    "GLOWTAGCREATE_DESCRIPTION": "इस कमांड का प्रयोग करके आप आपने संग्रह में मौजूद Glow को एक टैग बनाकर उसमे अपने अनुसार समूहित कर सकते हैं । \"{{prefix}}glowtag\" कमांड का प्रयोग करके आप GLows पर टैग लगा सकते है",
     "GTC_CATEGORY": "TAGS",
     "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}gtc <tagname> <emoji>`",
     "INVALID_EMOJI": "{{author}} वह इमोजी अमान्य है",
