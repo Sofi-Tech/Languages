@@ -1,3 +1,19 @@
 {
-    "NO_GUILD_INFO": "{{author}} Bu kullanıcı için lonca bilgisi bulunamadı"
+    "NO_GUILD_INFO": "{{author}} Bu kullanıcı için lonca bilgisi bulunamadı",
+    "GUILDPROMOTE_DESCRIPTION": "Bu komutu seçilen lonca üyesinin rütbesini yükseltmek için kullanın",
+    "GUILDPROMOTE_CATEGORY": "Loncalar",
+    "GP_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gp <@Kullanıcı/KullanıcıIDsi>`",
+    "NOT_MEMBER": "{{author}} bu kullanıcı sizin loncanızın bir üyesi değil",
+    "ALREADY_FOUNDER": "{{author}}, bu kullanıcı zaten bir loncanın **Founder**'ı",
+    "PROVIDE_FOUNDER_RANK": "{{author}}, terfi ettirmek için bir lonca rütbesi belirtin\n> **F**ounder, **G**uildmaster, **V**eteran",
+    "PROVIDE_VETERAN_RANK": "{{author}} terfi ettirmek için bir lonca rütbesi belirtin\n> **V**eteran",
+    "PROMOTED_TO_VETERAN": "{{member}} Başarıyla **Veteran** rütbesine terfi ettirildi",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Yalnızca **Adventurer** rütbesindekiler **Veteran** seviyesine terfi ettirilebilir",
+    "PROMOTED_TO_GUILDMASTER": "{{member}} Başarıyla **Guildmaster** rütbesine terfi ettirildi",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} yalnızca **Adventurer** ve **Veteran** rütbesindekiler **Guildmaster** seviyesine terfi ettirilebilir",
+    "TRANSFER_OWNERSHIP_CONFIRM": "Lonca sahipliğini {{member}} kullanıcısına devretmek üzeresiniz. Emin misiniz?",
+    "TRANSFER_OWNERSHIP_CANCEL": "İşlem iptal edildi",
+    "TRANSFER_OWNERSHIP_SUCCESS": "Yeni lonca sahibi <@{{memberId}}> oldu",
+    "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} yalnızca **Guildmaster** rütbesindekiler **Founder** seviyesine terfi ettirilebilir",
+    "MUST_BE_FOUNDER": "{{author}} bir lonca üyesini terfi ettirmek için **Founder** veya **Guildmaster** olmanız gerekiyor"
 }

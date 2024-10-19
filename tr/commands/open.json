@@ -29,5 +29,5 @@
     "EMBED_TITLE": "SOFI: AÇ ({{itemName}})",
     "GUILD_PACKAGE_PROMPT": "**__Cari Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?",
     "VERSION_CHEST_FOOTER": "Sürüm sandıkları her zaman takas edilebilir ve açılabilir",
-    "EQUIP_EQUIPMENTS": "Ekipmanları donatmak için 'sstats <KartKodu>' komutunu kullanın"
+    "EQUIP_EQUIPMENTS": "Ekipmanları donanmak için \"{{prefix}}stats <KardKodu>\" komutunu kullanın"
 }

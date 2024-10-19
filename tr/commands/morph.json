@@ -26,5 +26,6 @@
     "MNC_EMBED_TITLE": "SOFI: MORF ({{eventMorph}})",
     "MNC_REROLL_COST": "Her atışın maliyeti 1 {{currencyName}} olacaktır",
     "NO_SPECIAL_REROLLED": "Özel bir dönüşüm yapılmadı",
-    "NONE": "Hiçbiri"
+    "NONE": "Hiçbiri",
+    "CANNOT_APPLY_3D": "{{author}} **3D** kartlara {{article}} **{{eventType}}** dönüşümünü uygulayamazsınız"
 }

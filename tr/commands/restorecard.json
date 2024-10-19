@@ -9,6 +9,6 @@
     "CARD_NOT_FOUND": "{{author}} Yakılan kartlarınızda `{{code}}` kodlu kart bulunamadı",
     "ENTER_CODE": "{{author}} Doğru kullanım: `{{prefix}}restore <CardKodu>`",
     "MISSING_CURRENCY": "{{author}} Bu kartı onarmak için {{amount}}** {{currency}}** gerekli",
-    "RESTORE_CONFIRMATION": "`{{code}}` kartını {{amount}} **{{currency}}** karşılığında kurtarmak istediğinizden emin misiniz?",
+    "RESTORE_CONFIRMATION": "`{{code}}` kartını **{{amount}}** **{{currency}}** karşılığında kurtarmak istediğinizden emin misiniz?",
     "CARD_NOT_BURNED": "{{author}} `{{code}}` kodlu kart henüz yakılmadı"
 }

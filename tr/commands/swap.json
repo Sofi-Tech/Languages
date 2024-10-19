@@ -6,7 +6,7 @@
     "MENU_MORPH_LABEL": "Şekil Değiştirme",
     "MENU_GLOW_LABEL": "Parlama",
     "MENU_BG_LABEL": "Arka Plan",
-    "PROVIDE_CODES": "{{author}} Doğru kullanım: `{{prefix}}swap <Kod1> <Kod2>`",
+    "PROVIDE_CODES": "{{author}} Doğru kullanım: `{{prefix}}swap <KardKodu1> <KartKodu2>`",
     "NO_GIF": "{{author}} Bir **GIF** kartına bu komutu uygulayamazsınız",
     "NO_COSMETICS": "{{author}} Kartlarınızda değişim uygulanabilecek herhangi bir kozmetik yok",
     "MENU_FEATURES_PLACEHOLDER": "Bir Seçenek Seçin",
