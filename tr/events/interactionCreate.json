@@ -15,7 +15,7 @@
     "VERIFY_BUTTON_LABEL": "Doğrula",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",
     "SERVER_BLACKLISTED": "{{author}} Sunucu kara listede. Lütfen discord.gg/sofi adresinden bizimle iletişime geçin",
-    "COMMAND_BLACKLISTED": "{{author}} `{{commandName}}` komutu bu kanalda kara listeye alındı",
+    "COMMAND_BLACKLISTED": "{{author}} `{{commandName}}` Komutu bu kanalda kara listeye alındı",
     "CATEGORY_DISABLED": "{{author}} Bu kategori devre dışı bırakıldı\nSebep: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Bu komut devre dışı bırakıldı\nSebep: `{{reason}}`",
     "SUPPORT_BUTTON_LABEL": "Destek"

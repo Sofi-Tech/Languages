@@ -1,5 +1,5 @@
 {
-    "INVENTORY_DESCRIPTION": "Utilizar este comando irá mostra o inventário de um usuário",
+    "INVENTORY_DESCRIPTION": "Utilizar este comando irá mostrar o inventário de um usuário",
     "SLASH_DESC": "Selecione um usuário para ver o inventário dele",
     "SLASH_DESC2": "Digite o item que você deseja pesquisar",
     "NOT_REGISTER": "{{author}} Este usuário não está registrado",
@@ -33,8 +33,8 @@
     "FRAME_CATEGORY_LIMITED": "Limitadas",
     "FRAME_CATEGORY_OFFICIAL": "Official",
     "FRAME_CATEGORY_MONTHLY": "Mensais",
-    "FRAME_CATEGORY_CUSTOM": "Customizadas",
-    "FRAME_CATEGORY_PACK": "Pacote",
-    "FRAME_CATEGORY_DISCONTINUED": "Discontinuadas",
+    "FRAME_CATEGORY_CUSTOM": "Custom",
+    "FRAME_CATEGORY_PACK": "Pack",
+    "FRAME_CATEGORY_DISCONTINUED": "Discontinued",
     "NO_LAYER_FOUND": "Não foi possível encontrar nenhuma **Layer**"
 }

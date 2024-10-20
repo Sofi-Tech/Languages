@@ -1,7 +1,7 @@
 {
-    "MASSBURN_DESCRIPTION": "Birden fazla kartı aynı anda yakmak için bu komutu kullanın. Gen/Tag/Wishlist filtreleri ekleyerek, hangi kartları yakmak istediğinizi belirtebilirsiniz",
-    "IN_ACTIVE_MB": "{{user}} Eskisi hâlâ etkinken yeni bir **Massburn** başlatamazsınız",
-    "PROVIDE_FILTERS": "{{author}} Doğru kullanım: `{{prefix}}mb <Filters>`\n\n```düzeltmek\nNot: {{prefix}}help filters komutuyla filtrelerin kapsamlı bir listesini bulabilirsiniz\n''''",
+    "MASSBURN_DESCRIPTION": "Birden fazla kartı aynı anda yakmak için bu komutu kullanın. Gen/Tag/Wishlist filtreleri ekleyerek hangi kartları yakmak istediğinizi belirtebilirsiniz",
+    "IN_ACTIVE_MB": "{{user}} Halihazırda aktif olan bir **Massburn** varken yeni bir tane başlatamazsınız",
+    "PROVIDE_FILTERS": "{{author}} Doğru kullanım: `{{prefix}}mb <Filtreler>`\n\n```fix\nNot: {{prefix}}help filters komutuyla filtrelerin kapsamlı bir listesini bulabilirsiniz\n''''",
     "WRONG_TAG": "{{author}} `{{arg}}` adında herhangi bir etiket bulunamadı",
     "NO_CARDS_FOUND": "{{author}} Arama kriterlerinize uygun herhangi kart bulunamadı",
     "CARDS_BURNED": "__Seçilen Kartlar [ {{totalCards}} ]__",
@@ -9,6 +9,6 @@
     "MISSING_CARDS": "{{author}} Seçtiğiniz kartlardan en az biri artık koleksiyonunuzda değil",
     "SUCCESS": "{{author}} Seçtiğiniz kartları başarıyla yakıldı",
     "BURN_REWARDS": "__Ödüller__",
-    "EMBED_TITLE": "SOFI: KİTLE YAKMA",
-    "LOCKED_CARDS_WARNING": "{{author}} Kilitli, **GIF** çeşidi olan veya destede kullanılan kartlar yakılamaz"
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Kilitli kartlar **GIF** varyantları veya bir destede kullanılan kartlar yakılamaz"
 }

@@ -1,8 +1,8 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Siparişinizi marketten kaldırmak için bu komutu kullanın",
-    "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız Sipariş Kimliği ya geçersiz ya da size ait değil",
-    "SUCCESS_UL": "{{user}} Şu siparişi marketten başarıyla kaldırdı: `{{dealId}}`",
+    "MARKETUNLIST_DESCRIPTION": "Siparişinizi pazardan kaldırmak için bu komutu kullanın",
+    "CORRECT_USAGE": "{{user}} Doğru kullanım: `{{prefix}}mul <Sipariş-ID'si/All(Hepsi)>`",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız Sipariş-ID'si geçersiz ya da size ait değil",
+    "SUCCESS_UL": "{{user}} Bu siparişi başarıyla pazardan kaldırdınız: {{dealId}}",
     "NO_LISTINGS_FOUND": "{{user}} Şu anda herhangi bir siparişiniz yok",
-    "SUCCESS_UL_ALL": "{{user}} Tüm siparişlerinizi piyasadan başarıyla kaldırdık"
+    "SUCCESS_UL_ALL": "{{user}} Tüm siparişleriniz pazardan başarıyla kaldırıldı"
 }

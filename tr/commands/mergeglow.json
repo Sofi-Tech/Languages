@@ -1,12 +1,12 @@
 {
-    "MERGEGLOW_DESCRIPTION": "Super Glow'ların oluşturulmasında gerekli bir malzeme olan 4 farklı Glow'u 1 Reçinede yoğunlaştırmak için bu komutu kullanın. Birleştirilen tüm Glowlar envanterinizden kalıcı olarak kaldırılacak",
+    "MERGEGLOW_DESCRIPTION": "Bu komutu 4 farklı Glow'u 1 Resin'e yoğunlaştırmak için kullanın. Resin, Süper Glow'ların oluşturulmasında gereken bir malzemedir. Birleştirilen Glow'lar envanterinizden kalıcı olarak kaldırılacaktır",
     "MG_CATEGORY": "Kozmetik",
     "GLOW_CODES_MISSING": "{{author}} Doğru kullanım: `{{prefix}}mg <#GlowKodu1> <#GlowKodu2> <#GlowKodu3> <#GlowKodu4>`",
     "GLOWS_UNAVAILABLE": "{{author}} Sağladığınız **Glow** kodlarından en az biri yüksüz",
     "GLOW_CODES_UNIQUE": "{{author}} Bu işlem için aynı **Glow**'u birden fazla kez kullanamazsınız",
-    "GLOWS_NOT_FOUND": "{{author}} Sağladığınız **Glow** kodlarından en az biri geçersiz veya envanterinizde yok",
-    "EMBED_TITLE": "SOFI: GLOW'LARI BİRLEŞTİR",
+    "GLOWS_NOT_FOUND": "{{author}} Sağladığınız **Glow** kodlarından en az biri geçersiz veya envanterinizde bulunmuyor",
+    "EMBED_TITLE": "SOFI: MERGE GLOWS",
     "MERGE_CONFIRMATION": "Aşağıdaki **Glow**'ları birleştirmek istediğinizden emin misiniz?\n\n{{glows}}\n\nBu işlemden <:resin:938131736741691442> **1x** **Resin** elde edeceksiniz",
-    "GLOWS_NOT_IN_INVENTORY": "{{author}} Sağladığınız **Glow**'lardan en az biri artık envanterinizde değil",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} Sağladığınız **Glow**'lardan en az biri artık envanterinizde bulunmuyor",
     "GLOW_MERGE_SUCCESSFUL": "{{author}} **Glow**'larınız başarıyla bir <:resin:938131736741691442> 'e birleştirildi"
 }
