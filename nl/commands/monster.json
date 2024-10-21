@@ -1,7 +1,7 @@
 {
-    "MONSTER_CATEGORY": "Gildes",
+    "MONSTER_CATEGORY": "Guilds",
     "MONSTER_ID": "**Monster ID:**",
-    "MONSTER_DESCRIPTION": "Gebruik dit commando om een catalogus van alle beschikbare bazen weer te geven, gebruik het commando \"{{prefix}}monster <Name>\" om een gedetailleeerd inzicht te krijgen",
+    "MONSTER_DESCRIPTION": "Gebruik dit commando om een catalogus van alle beschikbare bazen weer te geven, gebruik het commando \"{{prefix}}monster <Naam>\" om een gedetailleeerd inzicht te krijgen",
     "MONSTER_NAME": "**Naam:**",
     "MONSTER_DEFEATED_one": "**Verslagen:** {{count}} keer",
     "MONSTER_DEFEATED_two": "**Verslagen:** {{count}} keer",
@@ -13,7 +13,7 @@
     "NO_PLAYERS_FOUND": "Geen spelers gevonden",
     "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} is **{{spawnCount}}** keer verschenen",
     "MONSTER_BOSS_SPAWNED_one": "{{bossName}} is **{{spawnCount}}** keer verschenen",
-    "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Beste veroveraars met minste zetten**__",
+    "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Beste Veroveraars Met Minste Zetten**__",
     "NO_RESULTS_FOUND": "{{author}} Kon dat monster niet vinden",
     "MONSTER_DEFEATED_zero": "**Verslagen:** {{count}} keer",
     "MONSTER_DEFEATED_many": "**Verslagen:** {{count}} keer",

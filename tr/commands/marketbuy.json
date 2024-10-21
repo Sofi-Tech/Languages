@@ -1,7 +1,7 @@
 {
     "MARKETBUY_DESCRIPTION": "Bu komutu pazardan bir Sipariş-ID'si ve ardından bir miktar ile kullanmak, başka bir oyuncudan Wist satın almak için bir işlem gömülü mesajı açacaktır. Mevcut tüm siparişleri görmek için \"{{prefix}}market\" komutunu kullanın",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}mbuy <Sipariş-ID'si> <WistMiktarı>`",
-    "INVALID_DEAL_ID": "{{author}} Sağladığınız Sipariş-ID'si geçersiz",
+    "INVALID_DEAL_ID": "{{author}} Sağladığınız Sipariş-lDsi geçersiz",
     "CANNOT_PURCHASE": "{{user}} Bu siparişle etkileşimde bulunamazsınız",
     "CANNOT_SELF": "{{user}} Kendi siparişinizden satın alamazsınız",
     "WIST_NOT_EXCEED": "{{author}} Siparişte satın alınabilecek yalnızca **{{amount}}** `{{currency}}` kaldı",
@@ -12,7 +12,7 @@
     "PURCHASE_CANCELLED": "{{author}} Bu sipariş artık mevcut değil",
     "MISSING_GEMS": "{{author}} Bu işlem için yeterli **{{currency}}** elinizde yok",
     "SOMETHING_WRONG": "{{author}} Bir şeyler ters gitti. Lütfen tekrar deneyin",
-    "PURCHASE_SUCCESSFUL": "{{author}}, {{boughtCount}} {{currency}} başarıyla satın alındı",
+    "PURCHASE_SUCCESSFUL": "{{author}}, {{boughtCount}} {{currency}} Başarıyla satın alındı",
     "SUCCESS": "{{user}} {{orderPrice}} {{currency}} başarıyla satıldı ve {{soldAmount}} {{currencySoldEmoji}} aldınız! | Sipariş-ID: {{dealId}}",
     "MB_EMBED_TITLE": "SOFI: MARKET BUY"
 }

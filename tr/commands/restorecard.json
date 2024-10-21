@@ -2,7 +2,7 @@
     "RESTORECARD_DESCRIPTION": "Bu komutu kullanarak yaktığınız bir kartı üç gün içerisinde onarabilirsiniz",
     "RESTORECARD_CATEGORY": "Kartlar",
     "CARD_EXPIRED": "{{author}} `{{code}}`kodlu kartın süresi doldu ve artık onarılamaz",
-    "EMBED_TITLE": "SOFI: KARTI KURTAR",
+    "EMBED_TITLE": "SOFI: RESTORE CARD",
     "EMBED_FOOTER": "Bu kartı {{date}} tarihine kadar onarabilirsiniz",
     "RESTORE_FAILED": "{{author}} İşlem İptal edildi",
     "RESTORE_SUCCESSFUL": "{{author}}`{{code}}` kodlu kart başarıyla onarıldı",

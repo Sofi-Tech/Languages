@@ -1,12 +1,12 @@
 {
-    "BACKGROUND_DESCRIPTION": "Bir kart 3 boyutlu versiyonuna dönüştürüldükten sonra, ona bir Arka Plan uygulamak için bu komutu kullanabilirsiniz. Arka Plan satın almak için \"{{prefix}}backgroundshop\" komutunu kullanın",
+    "BACKGROUND_DESCRIPTION": "Bir kart 3D varyantına dönüştürüldükten sonra bu komutla ona Background uygulayabilirsiniz. Background satın almak için \"{{prefix}}backgroundshop\" komutunu kullanın",
     "BG_CATEGORY": "Kozmetikler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <KartKodu> <Arkaplan-IDsi>`",
-    "INVALID_CODE": "{{author}} Sağladığınız Kart kodu geçersiz veya koleksiyonunuzda bulunmuyor",
-    "NON_3D_CARDS": "{{author}} 3D olmayan kartlara `Backgrounds` uygulayamazsınız",
+    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda mevcut değil",
+    "NON_3D_CARDS": "{{author}} 3D olmayan kartlara **Backgrounds** uygulayamazsınız",
     "EMBED_TITLE": "SOFI: BACKGROUND",
-    "EMBED_DESCRIPTION": "Bu karta **{{background}}** **Background** adlı Background'ı uygulamak istediğinizden emin misiniz?",
+    "EMBED_DESCRIPTION": "Bu karta **{{background}}** adlı **Background**'ı uygulamak istediğinizden emin misiniz?",
     "USER_NO_BG": "{{author}} Bu **Background**'a sahip değilsiniz",
-    "BG_NOT_FOUND": "{{author}} Bu ID ye sahip herhangi bir `Background` bulunamadı",
+    "BG_NOT_FOUND": "{{author}} Bu ID ye sahip herhangi bir **Background** bulunamadı",
     "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** **Background**'ı kartınıza başarıyla uygulandı"
 }

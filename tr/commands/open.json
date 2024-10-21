@@ -1,6 +1,6 @@
 {
     "OPEN_DESCRIPTION": "Sofi'de çeşitli aktivitelerle elde edilen sandıkları açmak için bu komutu kullanın",
-    "SLASH_DESC_1": "Açmak istediğiniz öğeyi girin",
+    "SLASH_DESC_1": "Açmak istediğiniz öğeyi belirtin",
     "SLASH_DESC_2": "Miktarı girin",
     "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}open <Eşyaİsmi> <Miktar>`",
     "EMPTY_INV": "{{author}} Envanteriniz boş",
@@ -8,9 +8,9 @@
     "SOFI_CARDS_MISSING": "{{author}} Şu anda Sofi'nin koleksiyonunda yeterli kart yok",
     "SERIES": "Seri:",
     "NAME": "İsim:",
-    "CHEST_INFO": "Etkinlik sandıkları aktif bir etkinlik olmadan açılabilir",
+    "CHEST_INFO": "Etkinlik sandıkları, aktif bir etkinlik olmadan da açılabilir",
     "PROVIDE_NUM": "{{author}} Aynı anda en fazla **10** **{{chestName}}** açabilirsiniz",
-    "CHEST_MISSING": "{{author}} Envanterinizde **{{count}}** **{{chestName}}** yok",
+    "CHEST_MISSING": "{{author}} Envanterinizde **{{count}}** **{{chestName}}** bulunmuyor",
     "COMMON_INFO_1": "**{{totalChests}}** **{{chestName}}** açtınız",
     "ITEMS_FOUND": "**__Elde Edilenler__**",
     "EXOTIC_DIVINE_FOOTER": "Her ay {{count}} kez oy vererek {{article}} {{chestName}} elde edebilirsiniz",
@@ -23,11 +23,11 @@
     "COMMON_RARE_FOOTER_few": "Her {{count}} günlük serilerde bir {{chestName}} elde edebilirsiniz",
     "COMMON_RARE_FOOTER_other": "Her {{count}} günlük serilerde bir {{chestName}} elde edebilirsiniz",
     "COMMON_RARE_FOOTER_many": "Her {{count}} günlük serilerde bir {{chestName}} elde edebilirsiniz",
-    "GUILD_PACKAGE_SUCCESS": "Tebrikler! Açtığınız **Guild Package** **{{charName}}** **3D-V2** kartını ve 💳 **{{amount}}x** **Gen Scratcher**'ı içeriyordu",
+    "GUILD_PACKAGE_SUCCESS": "Tebrikler! **Guild Package**inizden {{charName}} 3D-V2 kartı ve 💳 {{amount}}x Gen Scratcher bulundu",
     "NOIR_FOUND": "Chest'inizde bir <:noiressence:1115496193775116411> **Noir Essence** buldunuz!",
     "CLAIMED": "Elde Edildi",
-    "EMBED_TITLE": "SOFI: AÇ ({{itemName}})",
-    "GUILD_PACKAGE_PROMPT": "**__Cari Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?",
+    "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
+    "GUILD_PACKAGE_PROMPT": "**Mevcut Kart Havuzu __**\n{{poolLine}}\n\nBu paketi açmak istediğinizden emin misiniz?",
     "VERSION_CHEST_FOOTER": "Sürüm sandıkları her zaman takas edilebilir ve açılabilir",
-    "EQUIP_EQUIPMENTS": "Ekipmanları donanmak için \"{{prefix}}stats <KardKodu>\" komutunu kullanın"
+    "EQUIP_EQUIPMENTS": "Ekipmanları kuşanmak için \"{{prefix}}stats <KartKodu>\" komutunu kullanın"
 }

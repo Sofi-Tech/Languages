@@ -1,10 +1,10 @@
 {
-    "SERVERINFO_DESCRIPTION": "Bu komutu, komutun kullanıldığı sunucunun istatistiklerini görüntülemek için kullanabilirsiniz. Ayrıca sunucunuz için Sofi'nin tüm yanıtlarını seçilen dilde yapacak bir anadil seçebilirsiniz",
+    "SERVERINFO_DESCRIPTION": "Bu komutu kullanıldığı sunucunun istatistiklerini görüntülemek için kullanın. Ayrıca, sunucunuz için bir ana dil seçebilirsiniz bu da Sofi'nin tüm yanıtlarının seçilen dilde olmasını sağlayacaktır",
     "SI_CATEGORY": "Ayarlar",
     "SI_TOP_SERVERS": "**En İyi Sunucular** | Sıfırlanmasına: **{{countdown}}**",
-    "EMBED_AUTHOR": "SOFI: SUNUCU BİLGİSİ | {{guildName}}",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
     "SI_SPAWN_CHANNEL": "Spawn Kanalı",
-    "SI_TOTAL_DROPS": "Toplam Droplama",
+    "SI_TOTAL_DROPS": "Toplam Drop",
     "SI_TOTAL_BURNT": "Toplam Yakılan",
     "SI_TOTAL_GRABS": "Toplam Yakalanan",
     "SI_TOTAL_GIVEN": "Toplam Verilen",

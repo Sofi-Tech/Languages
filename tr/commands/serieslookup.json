@@ -3,10 +3,10 @@
     "NO__LAST_CHAR_FOUND": "{{author}} Koleksiyonunuzda henüz kart yok",
     "NO_CHAR_FOUND": "{{author}} Bu seride henüz karakter yok",
     "NO_SERIES_FOUND": "{{author}} `{{name}}` adına sahip herhangi bir seri bulunamadı",
-    "SERIES": "SOFI: DİZİ ARAMA",
+    "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} Bir hata oluştu. Lütfen tekrar deneyin",
     "CARD_COLLECTED": "Toplanan Kart: **{{collected}}/{{totalCards}}**",
     "TOTAL_WL": "Toplam İstek listesi: **{{wlCount}}**",
     "CHARACTERS": "**__Karakterler__**",
-    "SERIES_NAME": "Ad: **{{seriesName}}**"
+    "SERIES_NAME": "İsmi: **{{seriesName}}**"
 }

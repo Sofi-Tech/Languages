@@ -1,7 +1,7 @@
 {
-    "EMBED_AUTHOR": "SOFI: KAYIT OL",
+    "EMBED_AUTHOR": "SOFI: REGISTER",
     "VERIFY_BUTTON_LABEL": "Doğrula",
-    "REGISTER_DESCRIPTION": "Bu komut Sofi oynamaya başlayabilmeniz için gereklidir. Bu komutu bir arkadaşınızı Sofi oynamaya davet etmek için de kullanabilirsiniz",
+    "REGISTER_DESCRIPTION": "Sofi oynamaya başlamak için bu komutun kullanılması gereklidir. Ayrıca bu komutu, bir arkadaşınızı Sofi oynamaya davet etmek için de kullanabilirsiniz",
     "REGISTER_CATEGORY": "Ayarlar",
     "ALREADY_REGISTERED": "{{author}} Zaten kayıtlısınız",
     "AGREE_BUTTON_LABEL": "Kabul ediyorum!",
@@ -14,7 +14,7 @@
     "AUTHOR_NOT_REGISTERED": "{{author}} Kayıtlı değilsiniz",
     "AUTHOR_QUARANTINE": "{{author}} Karantina altındasınız",
     "USER_ALREADY_REGISTERED": "{{author}} Bu kullanıcı zaten kayıtlı",
-    "REGISTER_MESSAGE": "Selam {{user}} <:sofiwave:1008533250408456282>! Sofi oynamaya davet edildiniz!\nSeni buralarda kart toplarken ve etkinliklere katılırken görmeyi umuyoruz!",
+    "REGISTER_MESSAGE": "Merhaba {{user}} <:sofiwave:1008533250408456282>! Sofi oynamaya davet edildiniz.\nSeni buralarda kart toplarken ve etkinliklere katılırken görmeyi umuyoruz!",
     "REFERRAL_FOOTER": "Kayıt olduktan sonra hem siz hem de arkadaşınız ödüller kazanacaksınız",
     "VERIFY_MESSAGE": "Neredeyse Başardın! Aşağıdaki butona basarak web sitemizde kendini doğrula.\nEğer bir sorunla karşılaşırsan [Resmi Destek Sunucusu](<https://discord.gg/sofi>) bize katıl!",
     "DM_MESSAGE": "##Sofi topluluğuna hoş geldin!\n\nAşağıda sana Sofi yolculuğunda yardım edecek birkaç link bulacaksın!\n\n- [Resmi Sofi Destek Sunucusu](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Sofi'nin Online Rehberi](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Günlük Oylayarak **Wists** kazan](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>"

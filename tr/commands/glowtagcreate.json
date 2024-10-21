@@ -5,5 +5,5 @@
     "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Bu isme sahip bir \"Glow Tag\" zaten var",
     "CREATED_GLOWTAG": "{{author}} Başarı ile `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Etiketinizin adı alfa sayısal olmalı ve özel karakterler, boşluklar veya herhangi bir türde küfür içeremez"
+    "INVALID_TAGNAME_FORMAT": "{{author}} Etiket adınız alfanümerik olmalı ve özel karakterler, boşluklar veya herhangi bir şekilde uygunsuz ifadeler içermemelidir"
 }

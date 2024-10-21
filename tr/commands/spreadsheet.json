@@ -1,9 +1,9 @@
 {
-    "SPREADSHEET_DESCRIPTION": "Bu komutu kullandığınızda Sofi, koleksiyonunuzdaki tüm kartların bilgilerini içeren bir .csv dosyası oluşturacaktır. Ayrıca \"Lonca\" parametresinide ekleyerek Loncanızın ayrıntılı bir .csv dosyasını da alabilirsiniz",
+    "SPREADSHEET_DESCRIPTION": "Bu komutu kullandığınızda, Sofi koleksiyonunuzdaki tüm kartların bilgilerini içeren bir .csv dosyası oluşturacaktır. Ayrıca, \"Guild\" parametresini ekleyerek Loncanızın ayrıntılı bir .csv dosyasını da alabilirsiniz",
     "SHEET_CATEGORY": "Ayarlar",
     "NO_GUILD_INFO": "{{author}} Şu anda bir **Guild**'de değilsiniz",
     "DM_FILE": "{{author}} Size doğrudan mesaj yoluyla bir .csv dosyası gönderildi\n\n> **Not**: Dosyayı excel veya elektronik tablo programlarına aktarırken ayırıcıyı \"virgül\" olarak ayarladığınızdan emin olun!",
-    "NO_VAULT_LOGS": "{{author}} Şu anda kasa günlüğü yok",
+    "NO_VAULT_LOGS": "{{author}} Şu anda kasa kayıtları bulunmuyor",
     "CANNOT_DM": "{{author}} Size e-tablo dosyası gönderilemedi. Doğrudan mesajlarınızın açık olduğundan emin olun!",
     "NO_COLLECTION": "{{author}} Koleksiyonunuzda hiç kart yok"
 }

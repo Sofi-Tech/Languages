@@ -1,9 +1,9 @@
 {
-    "MARKETBUY_DESCRIPTION": "Usar este comando em combinação com um ID de Oferta do mercado seguido por uma quantia, abrirá um embed de transação para comprar Wists de outro jogador. Use o comando \"{{prefix}}market\" para visualizar todos os pedidos disponíveis",
+    "MARKETBUY_DESCRIPTION": "Usar este comando em combinação com um ID de Oferta do mercado seguido por uma quantia, abrirá uma incorporação de transação para comprar Wists de outro jogador. Use o comando \"{{prefix}}market\" para visualizar todos os pedidos disponíveis",
     "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}mbuy <IDdaOferta> <QuantidadeDeWist>`",
     "INVALID_DEAL_ID": "{{author}} O ID do Pedido fornecido é inválido",
-    "CANNOT_PURCHASE": "{{user}} Não é possível comprar esta oferta",
-    "CANNOT_SELF": "{{user}} Você não pode interagir com sua própria oferta",
+    "CANNOT_PURCHASE": "{{user}} Você não pode interagir com esse pedido",
+    "CANNOT_SELF": "{{user}} Você não pode comprar do próprio pedido",
     "WIST_NOT_EXCEED": "{{author}} O pedido só tem **{{amount}}** `{{currency}}` para comprar",
     "PRODUCT": "Você recebe:",
     "VALUE": "Você paga:",

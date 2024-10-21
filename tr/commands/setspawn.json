@@ -1,5 +1,5 @@
 {
-    "SETSPAWN_DESCRIPTION": "Bu komutu bir kanalda kullanmak veya bir kanaldan bahsetmek, söz konusu kanalı başlangıç kanalı olarak ayarlayacak veya kaldıracaktır. Sunucu aktifliğine oranla Sofi ara sıra belirtilen kanalda kart düşürecektir",
+    "SETSPAWN_DESCRIPTION": "Bu komutu bir kanalda kullanmak veya bir kanaldan bahsetmek, o kanalı ortaya çıkma kanalı olarak ayarlayacak veya kaldıracaktır. Artan sunucu etkinliğine bağlı olarak, Sofi bazen belirtilen kanala kendiliğinden kartlar bırakabilir",
     "SS_CATEGORY": "Ayarlar",
     "SS_SLASH_DESC": "Bir kanal seçin",
     "SS_MENTION_CHANNEL": "{{author}} Doğru kullanım: `{{prefix}}ss <#KanalBelirtin/KanalIDsi>`",

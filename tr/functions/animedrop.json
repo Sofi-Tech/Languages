@@ -1,6 +1,6 @@
 {
-    "DROP_CARDS": "Süre dolduğunda, en çok oy alan serilerin **2** rastgele kartları oluşturulacak!\n",
-    "NO_VOTES": "Hiçbir seri oylanmadığı için kart üretimi iptal edilecek!",
+    "DROP_CARDS": "Süre dolduğunda en çok oy alan seriden **2** rastgele kart oluşturulacaktır!\n",
+    "NO_VOTES": "Herhangi bir seriye oy verilmediği için kart oluşturma iptal edilecek!",
     "NOT_ENOUGH_CHARACTERS": "Seçilen seride kart oluşturmaya yetecek kadar karakter yok",
     "DROP_WILL_HAPPEN": "\nKartlar oluşturuluyor <t:{{timestamp}}:R>"
 }

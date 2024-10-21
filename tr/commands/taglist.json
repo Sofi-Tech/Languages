@@ -1,9 +1,9 @@
 {
-    "TAGLIST_DESCRIPTION": "Bir kullanıcının mevcut etiketlerini listelemek için bu komutu kullanın. Daha fazla etiket oluşturmak için \"{{prefix}}Tagcreate\" komutunu kullanabilirsiniz",
+    "TAGLIST_DESCRIPTION": "Bu komutu bir kullanıcının mevcut etiketlerini listelemek için kullanın. Daha fazla etiket oluşturmak için \"{{prefix}}tagcreate\" komutunu kullanabilirsiniz",
     "TL_CATEGORY": "Etiketler",
     "NO_USER": "{{author}} Bu kullanıcı bulunamadı",
     "NO_TAGS": "{{author}} Bu kullanıcının herhangi bir etiketi yok",
-    "EMBED_TITLE": "SOFI: ETİKET LİSTESİ ({{username}})",
+    "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Kilitli bir etiket yakılamaz veya takas edilemez",
     "EMBED_FOOTER": "Toplam: {{total}} | Kilitli: {{locked}}",
     "CARD_two": "{{count}} kartlar",

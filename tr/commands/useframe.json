@@ -2,7 +2,7 @@
     "USEFRAME_DESCRIPTION": "Bu komut seçilen bir Frame'i istenilen bir karta uygulayacaktır. \"{{prefix}}Frameshop\" komutunu kullanarak Frame satın alabilirsiniz",
     "UF_CATEGORY": "Kozmetikler",
     "UF_INVALID_USAGE": "{{author}} Doğru kullanım: `{{prefix}}uf <KartKodu> <ÇerçeveAdı/$ÇerçeveKodu>`",
-    "INVALID_CODE": "{{author}} Sağladığınız Kart kodu geçersiz veya koleksiyonunuzda bulunmuyor",
+    "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda mevcut değil",
     "CANNOT_APPLY": "{{author}} Bir **3D** kartına **Frame** uygulayamazsınız",
     "NO_GIF": "{{author}} Bir **GIF** kartına **Frame** uygulayamazsınız",
     "NO_FRAMES_FOUND": "{{author}} Bu **Frame** kodu geçersiz veya envanterinizde bulunmuyor",

@@ -1,10 +1,10 @@
 {
-    "PRIVATE_DESCRIPTION": "Hesabınızın bir bölümünü gizli tutmak için bu komutu kullanın. Özel bir bölüm artık diğer oyuncular tarafından görülmeyecek. Bu komutu tek başına kullanmak, bu bölümler için mevcut yapılandırmanızı gösterecektir",
+    "PRIVATE_DESCRIPTION": "Bu komutu, hesabınızın bir bölümünü gizlemek için kullanın. Gizlenen bir bölüm, diğer oyuncular tarafından artık görülemez. Bu komutu tek başına kullanmak, bu bölümler için mevcut yapılandırmanızı gösterecektir",
     "PVT_CATEGORY": "Ayarlar",
     "PRIVATE_ENABLED": "{{author}} **{{content}}** içeriğiniz artık gizli",
-    "PRIVATE_DISABLED": "{{author}} **{{content}}** artık özel değil",
-    "PVT_EMBED_TITLE": "SOFİ: ÖZEL",
+    "PRIVATE_DISABLED": "{{author}} **{{content}}** artık gizli değil",
+    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
     "PVT_PUBLIC": "Halka açık",
     "WRONG_ARGUMENTS": "{{author}} Doğru kullanım: `{{prefix}}pvt <C/WL/INV/VT>`",
-    "PVT_PRIVATE": "ÖZel"
+    "PVT_PRIVATE": "Gizli"
 }
