@@ -9,7 +9,7 @@
     "SERIES": "Serye:",
     "NAME": "Pangalan:",
     "CHEST_INFO": "Ang mga Event chest ay maaaring buksan kahit walang aktibong event",
-    "PROVIDE_NUM": "{{author}} Maaari kang magbukas ng hanggang sa **10** na `{{chestName}}` nang sabay-sabay",
+    "PROVIDE_NUM": "{{author}} Maaari ka lamang magbukas ng maximum na **10** na `{{chestName}}` nang sabay-sabay",
     "CHEST_MISSING": "{{author}} Wala kang **{{count}}** na **{{chestName}}** sa iyong imbentaryo",
     "COMMON_INFO_1": "Binuksan mo ang **{{totalChests}}** **{{chestName}}**",
     "ITEMS_FOUND": "**__Mga Natanggap na Aytem__**",

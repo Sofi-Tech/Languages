@@ -1,7 +1,7 @@
 {
     "WISHLISTREMOVE_DESCRIPTION": "आपकी पसंदीदा-सूची से पात्र हटाता है",
     "CATEGORY": "WISHLIST",
-    "NO_INDEX": "{{author}} सही उपयोग: `{{prefix}}wr <Name/Number>` , पूरी पसंदीदा-सूची साफ करने के लिए `{{prefix}}wr full reset` का उपयोग करे",
+    "NO_INDEX": "{{author}} सही उपयोग: `{{prefix}}wr <Name/Number>`, पूरी पसंदीदा-सूची साफ करने के लिए `{{prefix}}wr full reset` का उपयोग करे",
     "FULL_RESET": "{{author}} पसंदीदा-सूची से सभी पात्र सफलतापूर्वक हटाए गए",
     "REMOVE_CHARACTER": "{{author}} **{{name}}** आपकी पसंदीदा-सूची से हटाया गया",
     "NO_RESULTS": "{{author}} आपकी पसंदीदा-सूची में `{{name}}` नाम का कोई पात्र नही है"

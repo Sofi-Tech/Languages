@@ -1,7 +1,7 @@
 {
     "MARKETBUY_DESCRIPTION": "बाजार से Order-ID और उसके बाद एक राशि के संयोजन में इस कमांड का उपयोग करने से किसी अन्य खिलाड़ी से Wist खरीदने के लिए एक लेनदेन पेज खुल जाएगा। सभी उपलब्ध ऑर्डर देखने के लिए \"{{prefix}}market\" कमांड का उपयोग करें",
     "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}mbuy <OfferID> <WistAmount>`",
-    "INVALID_DEAL_ID": "{{author}} प्रदान करी गई Order-ID अमान्य है",
+    "INVALID_DEAL_ID": "{{author}} प्रदान करी गई ऑर्डर-ID अमान्य है",
     "CANNOT_PURCHASE": "{{user}} उस डील को खरीदने में असमर्थ",
     "CANNOT_SELF": "{{user}} आप अपनी ही डील नहीं खरीद सकते है",
     "WIST_NOT_EXCEED": "{{author}} इस डील में सिर्फ **{{amount}}** `{{currency}}` ही शेष है",
