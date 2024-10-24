@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "Bu komutla istediğiniz herhangi bir karakteri arayabilirsiniz. Oluşturulan yerleştirme size farklı Version'ların yanı sıra Event varyantlarınıda gösterecektir",
     "CHAR_NOT_FOUND": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı",
-    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
+    "CHAR_NF_SENSITIVE": "{{author}} `{{arg}}` adında herhangi bir karakter bulunamadı\n\n```fix\nNot: '-f' bayrağının kullanılması işlevi büyük/küçük harfe duyarlı hale getirir!\n''''",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP {{category}}",
     "SUBMITTED": "**İbraz eden** <@{{userID}}>",
     "EMBED_FOOTER": "Yeni Version göndermek için {{prefix}}sc komutunu kullanabilirsiniz",
@@ -9,12 +9,12 @@
     "GIF_LABEL": "GIF",
     "SERIES": "Seri:",
     "NAME": "İsim:",
-    "WISHLISTED": "İstek listesine alındı",
-    "VERSIONS": "Versiyonlar",
-    "MULTI": "Çoklu",
-    "EVENTS": "Etkinlikler",
-    "EVENT": "Etkinlik",
-    "UPCOMING_EVENT": "Yaklaşan Etkinlik",
+    "WISHLISTED": "Toplam istenilme",
+    "VERSIONS": "Versions",
+    "MULTI": "Multi",
+    "EVENTS": "Events",
+    "EVENT": "Event",
+    "UPCOMING_EVENT": "Yaklaşan Event",
     "NO_OWNER_FOUND": "Henüz kimse bu karakterin **2D** versiyonuna sahip değil",
     "LOOKUP_CREDITS": "**Katkıda bulunanlar**: {{credits}}"
 }

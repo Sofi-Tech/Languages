@@ -6,7 +6,7 @@
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Tag yang terkunci tidak dapat dibakar atau diperjualbelikan",
     "EMBED_FOOTER": "Total: {{total}} | Terkunci: {{locked}}",
-    "NO_TAGS_SELF": "{{author}} Anda belum memiliki tag apapun. Gunakan perintah `{{prefix}}tc <NamaTag> <Emoji>` untuk membuatnya",
+    "NO_TAGS_SELF": "{{author}} Anda belum memiliki tag apapun. Gunakan perintah `{{prefix}}tc <TagName> <Emoji>` untuk membuatnya",
     "CARD_one": "{{count}} kartu",
     "CARD_other": "{{count}} kartu",
     "CARD_two": "{{count}} kartu",

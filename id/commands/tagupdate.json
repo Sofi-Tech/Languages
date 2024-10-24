@@ -1,7 +1,7 @@
 {
     "TAGUPDATE_DESCRIPTION": "Gunakan perintah ini untuk mengganti nama atau emoji tag",
     "TU_CATEGORY": "Tag",
-    "WRONG_USAGE": "{{author}} Cara Penggunaan: `{{prefix}}tu <TagName>`",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tu <TagName>`",
     "TAG_NOT_FOUND": "{{author}} Tidak dapat menemukan tag dengan nama `{{tag}}`",
     "BUTTON_NAME_LABEL": "Nama",
     "BUTTON_EMOJI_LABEL": "Emoji",

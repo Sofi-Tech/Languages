@@ -1,7 +1,7 @@
 {
     "MARKET_DESCRIPTION": "Bu komut pazarda mevcut olan tüm siparişleri listeler. Pazar, oyuncular tarafından \"{{prefix}}marketlist\" komutu aracılığıyla Gem karşılığında Wist'lerini takaslamak için kullanılabilir",
     "NO_LISTING_FOUND": "{{author}} Pazarda herhangi bir sipariş bulunamadı",
-    "MARKET_WARN": "**Ortalama Oran**: **`{{averageRate}}` | **Toplam İşlemler** : **`{{totalTrades}}`**",
-    "FOOTER": "{{total}} Sonuçtan {{page}}-{{pages}} sonuçları gösteriliyor | {{prefix}}mbuy <Sipariş Kimliği> <Tutar>",
+    "MARKET_WARN": "**Ortalama Oran**: **`{{averageRate}}` | **Toplam Takaslar** : **`{{totalTrades}}`**",
+    "FOOTER": "{{total}} Sonuçtan {{page}}-{{pages}} arası sonuçlar gösteriliyor | {{prefix}}mbuy <Sipariş Numarası> <Tutar>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Oran: `{{rateAmount}}` {{rateEmoji}}"
 }

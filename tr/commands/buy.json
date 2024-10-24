@@ -12,7 +12,7 @@
     "BUY_GEN_CONFIRMATION": "## {{count}} \"{{itemName}}\" satın alıyorsunuz💳",
     "BUY_CHARM_CONFIRMATION": "## {{amount}}{{itemName}} <:xcharm:988729774031638528> satın alıyorsunuz",
     "BUY_CHARMS_MULTIPLES": "{{author}} **Charms** yalnızca 100'ün katları halinde satın alınabilir",
-    "LAYER_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}buy layer <Katman IDsi> <Tutar>`",
+    "LAYER_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}buy layer <Layer IDsi> <Tutar>`",
     "NO_LAYER_FOUND": "{{author}} `{{layerId}}` ID'sine sahip **Layer** bulunamadı",
     "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **`{{layerId}}` ID'li **Layer** sınırlıdır ve artık satın alınamaz"
 }

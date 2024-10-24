@@ -1,8 +1,8 @@
 {
     "TAG_DESCRIPTION": "Dengan perintah ini, Anda dapat menetapkan tag ke kartu. Tag adalah fitur yang berguna untuk mengkategorikan dan mengelompokkan beberapa kartu yang sesuai dengan kriteria Anda. Gunakan perintah \"{{prefix}}tagcreate\" untuk membuat tag",
     "TAG_CATEGORY": "Tag",
-    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}t <NamaTag> <KodeKartu>`",
-    "NO_TAGS_CREATED": "{{author}} Anda belum memiliki tag apa pun. Gunakan perintah `{{prefix}}tc <NamaTag> <Emoji>` untuk membuatnya",
+    "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}t <TagName> <CardCode>`",
+    "NO_TAGS_CREATED": "{{author}} Anda belum memiliki tag apa pun. Gunakan perintah `{{prefix}}tc <TagName> <Emoji>` untuk membuatnya",
     "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki tag dengan nama `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Anda tidak memiliki kartu apapun dalam koleksi anda",
     "INVALID_CARD_CODE": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",

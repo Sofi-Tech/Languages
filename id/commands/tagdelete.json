@@ -1,7 +1,7 @@
 {
     "TAGDELETE_DESCRIPTION": "Gunakan perintah ini untuk menghapus semua tag",
     "TD_CATEGORY": "Tag",
-    "WRONG_USAGE": "{{author}} Cara Penggunaan: `{{prefix}}dt <TagName>`",
+    "WRONG_USAGE": "{{author}} Pengunaan yang benar: `{{prefix}}dt <TagName>`",
     "TAG_NOT_FOUND": "{{author}} Anda tidak memiliki tag dengan nama `{{arg}}`",
     "SUCCESSFUL_DELETE_TAG": "{{author}} Berhasil menghapus tag dengan nama `{{tag}}`",
     "TAG_DELETE_CONFIRM": "{{author}} Apakah anda yakin ingin menghapus tag `{{tagname}}`?",
