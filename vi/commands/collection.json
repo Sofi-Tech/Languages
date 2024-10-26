@@ -63,5 +63,6 @@
     "NO_RESULTS": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
     "SORT_WL": "Lượng yêu thích",
     "MASSTAG_WRONG_TAG": "{{author}} Không tìm thấy bất kỳ nhãn nào tên `{{arg}}`",
-    "ALL_UNTAG_SUCCESS_one": "{{author}} Đã gỡ nhãn`{{tagName}}` thành công khỏi **{{count}}** thẻ"
+    "ALL_UNTAG_SUCCESS_one": "{{author}} Đã gỡ nhãn`{{tagName}}` thành công khỏi **{{count}}** thẻ",
+    "FILTER_NAME_EXISTS": "{{author}} Bộc lọc tên {{filterName}} đã tồn tại"
 }
