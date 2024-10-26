@@ -1,7 +1,7 @@
 {
     "SUPERGLOW_DESCRIPTION": "Anda bisa menggunakan perintah ini untuk menggabungkan 2 Glow dan 2 Resin menjadi Super Glow. Super Glow menampilkan kedua skema warna dari Glow asli yang digunakan dalam proses penggabungan",
     "SG_CATEGORY": "Kosmetik",
-    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar : `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+    "GLOW_CODES_MISSING": "{{author}} Penggunaan yang benar: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
     "GLOW_NOT_FOUND": "{{author}} Setidaknya salah satu kode **Glow** yang anda berikan tidak valid atau tidak ada dalam inventaris anda",
     "UNAVAILABLE_GLOW": "{{author}} Setidaknya salah satu kode **Glow** yang anda berikan kosong",
     "NO_USE_SG": "{{author}} Anda tidak dapat menggunakan **Super Glow** untuk proses ini",
