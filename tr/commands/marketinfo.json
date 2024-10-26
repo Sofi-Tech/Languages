@@ -10,7 +10,7 @@
     "NO_LISTINGS_FOUND": "{{user}} Şu anda piyasada herhangi bir siparişiniz yok",
     "INFO": "Siparişinizi marketten kaldırmak için `{{prefix}}mul <Sipariş Kimliği>` komutunu kullanın",
     "FOOTER": "{{total}} Sonuçtan {{page}}-{{pages}} arası sonuçlar gösteriliyor | {{prefix}}mbuy <Sipariş Numarası> <Tutar>",
-    "EMBED_TITLE": "SOFI: PAZAR BİLGİSİ ({{userName}})",
+    "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stok: `{{stockAmount}}` {{stockEmoji}} | Oran: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO"
 }

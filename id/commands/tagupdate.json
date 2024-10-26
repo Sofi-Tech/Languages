@@ -6,7 +6,7 @@
     "BUTTON_NAME_LABEL": "Nama",
     "BUTTON_EMOJI_LABEL": "Emoji",
     "EMBED_TITLE": "SOFI: UPDATE TAG",
-    "EMBED_DESCRIPTION": "Bagian apa dari tag `{{tagName}}`yang ingin anda ganti?",
+    "EMBED_DESCRIPTION": "Bagian apa dari tag `{{tagName}}` yang ingin anda ganti?",
     "REPLACE_NAME": "Masukkan nama yang akan menggantikan `{{tagName}}`",
     "TAGNAME_EXISTS": "{{author}} Anda telah memiliki tag dengan nama `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} Nama tag anda harus berupa alfanumerik dan tidak boleh mengandung karakter khusus, spasi, atau kata-kata kotor dalam bentuk apa pun",
