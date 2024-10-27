@@ -32,7 +32,7 @@
     "NO_PRICE_MARKET_ORDER": "{{author}} Market order doesn't require price",
     "ENTER_PRICE_QUANTITY": "{{author}} Please enter the price and quantity",
     "VALID_AMOUNT_GEMS": "The price should range between {{start}} and {{end}} <:gemgame:862598030562033694>",
-    "WAIT_FOR_ORDERS": "{{author}} No {{tradeType}} found in the market. Wait for orders to enter the market",
+    "WAIT_FOR_ORDERS": "There are currently no {{tradeType}} available in the market. Please wait for the orders to appear.",
     "TRADE_BUYERS": "Buyers",
     "TRADE_SELLERS": "Sellers",
     "TRADE_BUYING": "Buying",
