@@ -12,7 +12,7 @@
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** está actualmente en modo seguro! ETA: **{{eta}}**\nPedimos disculpas por los inconvenientes causados por esto y te pedimos paciencia!",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Espera **{{cooldown}}** antes de usar el comando otra vez",
     "REQUIRE_PERMISSIONS": "{{author}} Necesitas los permisos **{{permissions}}** para usar este comando",
-    "COMPLETE_COMMAND": "{{author}} Completa el `{{command}}` comando primero!",
+    "COMPLETE_COMMAND": "{{author}} Completa el `{{command}}` comando antes de procedeer",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __¡Has sido añadido en la lista negra por violar las normas de Sofi!__\n\n**Una lista de posibles razones que pueden haber causado esto:**\n```\n- Interactuar con Sofi en varias cuentas (Alting)\n- Vender o comprar cuentas enteras de Discord\n- Estafar a otros usuarios\n- Aprovecharse o participar en cualquiera de las actividades anteriores\n```\n\n:link: [Recurre tu adición a lista negra](<https://sofi.gg/appeal>)\n:link: [Servidor de Soporte](https://discord.gg/sofi)",
     "SERVER_BLACKLISTED": "{{author}} El servidor está en la lista negra. Ponte en contacto con nosotros en discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} El comando `{{commandName}}` está en la lista negra de este canal",

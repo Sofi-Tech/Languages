@@ -63,5 +63,6 @@
     "ALL_TAG_SUCCESS_two": "{{author}} Añadido con éxito el siguiente tag a las **{{count}}** cartas `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_zero": "{{author}} Eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_many": "{{author}} Eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`",
-    "VERSION_AVAILABILITY": "Disponibilidad de Versions"
+    "VERSION_AVAILABILITY": "Disponibilidad de Versions",
+    "FILTER_NAME_EXISTS": "{{author}} El filtro con nombre {{filterName}} ya existe"
 }

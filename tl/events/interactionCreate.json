@@ -13,7 +13,7 @@
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Maghintay ng **{{cooldown}}** bago gamitin ulit ang command na ito",
     "REGISTER_TO_PLAY": "{{author}} Mangyaring gamitin ang command na `{{prefix}}register`para masimulan ang iyong paglalakbay sa **Sofi**!",
     "BOT_IN_SAFEMODE": "{{author}} si **Sofi** ay kasalukuyang nasa safe mode! ETA: **{{eta}}**\nHumihingi kami ng paumanhin para sa anumang abala na dulot nito at humihingi kami ng iyong pasensya!",
-    "COMPLETE_COMMAND": "{{author}} Tapusin mo muna ang `{{command}}` na command!",
+    "COMPLETE_COMMAND": "{{author}} Kumpletuhin muna ang command na `{{command}}` bago magpatuloy",
     "SERVER_BLACKLISTED": "{{author}} Naka-blacklist ang server. Mangyaring makipag-ugnayan sa amin sa discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} Ang command na `{{commandName}}` ay naka-blacklist sa channel na ito",
     "CATEGORY_DISABLED": "{{author}} Ang kategoryang ito ay hindi na pinagana\nDahilan: `{{reason}}`",

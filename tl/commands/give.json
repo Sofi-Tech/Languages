@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Ang user na iyon ay quarantined",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
-    "CARD_LOCKED": "{{author}} Ang card na iyon ay naka-lock at hindi maaaring ipamigay! Gamitin ang command na `{{prefix}}ut <CardCode>` upang i-unlock ang card",
+    "CARD_LOCKED": "{{author}} Ang card na iyan ay naka-lock at hindi maaaring ibigay. Gamitin ang command na `{{prefix}}ut <CardCode>` upang i-unlock ang card",
     "CANCELLED": "Ang proseso ay nakansela",
     "AUTHOR_NOT_VERIFIED": "{{author}} Ikaw ay hindi beripikado",
     "AUTHOR_BLACKLISTED": "{{author}} Ikaw ay blacklisted",

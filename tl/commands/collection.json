@@ -63,5 +63,6 @@
     "FILTER_NAME_PROFANE": "{{author}} Ang pangalan ng iyong filter ay hindi dapat naglalaman ng kahit anong masasamang salita",
     "FILTER_NOT_FOUND": "{{author}} Walang mahanap na kahit anong filter na mayroong pangalan na `{{arg}}`",
     "FILTER_LIMIT": "{{author}} Hindi ka na maaari pang gumawa ng kahit anong filter",
-    "VERSION_AVAILABILITY": "Availability ng Version"
+    "VERSION_AVAILABILITY": "Availability ng Version",
+    "FILTER_NAME_EXISTS": "{{author}} mayroon nang filter na may pangalang {{filterName}}"
 }

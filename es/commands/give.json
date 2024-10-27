@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Este usuario está en cuarentena",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}give <@Usuario/IDUsuario> <CódigoDeCarta>`",
     "NO_CARD_FOUND": "{{author}} El código de carta que proporcionaste es inválido o no se encuentra en tu colección",
-    "CARD_LOCKED": "{{author}} Esa carta está asegurada y no se puede dar! Usa el comando `{{prefix}}ut <CódigoDeCarta>` para desasegurar la carta",
+    "CARD_LOCKED": "{{author}} Esa carta está asegurada y no se puede dar. Usa el comando `{{prefix}}ut <CódigoDeCarta>` para desasegurar la carta",
     "CANCELLED": "El proceso ha sido cancelado",
     "CARD_SELECTED": "{{author}} Esa carta se está utilizando en un mazo y no se puede transferir",
     "MEM_NOT_VERIFIED": "{{author}} Ese usuario no está verificado",

@@ -11,7 +11,7 @@
     "BID_MODAL_LABEL": "Mức giá thầu",
     "BID_MODAL_TITLE": "Giá thầu đấu giá",
     "BID_MODAL_PLACEHOLDER": "Nhập mức giá thầu",
-    "INVALID_BID_AMOUNT": "{{author}} Giá thầu của bạn phải là một con số cụ thể!",
+    "INVALID_BID_AMOUNT": "{{author}} Giá thầu của bạn phải là một con số cụ thể",
     "MINIMUM_AMOUNT": "{{author}} Bạn phải đặt giá thầu tối thiểu là **{{amount}}** {{currencyEmoji}} cho cuộc đấu giá này",
     "NOT_ENOUGH_CURRENCY": "{{author}} Bạn không có đủ {{emoji}}",
     "AUCTION_NOT_FOUND": "{{author}} Không tìm thấy cuộc đấu giá đó",
