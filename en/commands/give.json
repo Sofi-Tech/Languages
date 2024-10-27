@@ -13,7 +13,7 @@
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} The card code you provided is either invalid or not in your collection",
     "CARD_SELECTED": "{{author}} That card is used in a deck and cannot be transferred",
-    "CARD_LOCKED": "{{author}} That card is locked and cannot be given away! Use the command `{{prefix}}ut <CardCode>` to unlock the card",
+    "CARD_LOCKED": "{{author}} That card is locked and cannot be given away. Use the command `{{prefix}}ut <CardCode>` to unlock the card",
     "EMBED_TITLE": "SOFI: GIVE",
     "CANCELLED": "The process has been cancelled",
     "CARD_IN_QUEST": "{{author}} That card is currently used in a quest and cannot be given away"

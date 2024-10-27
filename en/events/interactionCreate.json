@@ -18,5 +18,5 @@
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** is currently in safe mode! ETA: **{{eta}}**\nWe apologize for any inconveniences caused by this and ask for your patience!",
     "CATEGORY_DISABLED": "{{author}} This category has been disabled\nReason: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} This command has been disabled\nReason: `{{reason}}`",
-    "COMPLETE_COMMAND": "{{author}} Complete the `{{command}}` command first!"
+    "COMPLETE_COMMAND": "{{author}} Complete the `{{command}}` command before proceeding"
 }
