@@ -40,14 +40,14 @@
     "TRADE_MARKET": "Market",
     "TRADE_LIMIT": "Limit",
     "TRADE_CONFIRMATION": "You are {{tradeType}} {{totalStock}} <:wist:870339503427027005> for {{price}} <:gemgame:862598030562033694> \n{{orders}}",
-    "TRADE_CANCELLED": "The trade has been cancelled",
+    "TRADE_CANCELLED": "The process has been cancelled",
     "NOT_ENOUGH_ITEM_SELL": "You do not have enough {{itemEmoji}} to sell",
     "NOT_ENOUGH_ITEM_BUY": "You do not have enough {{itemEmoji}} to buy",
     "TRADE_EMBED_AUTHOR": "{{tradeType}} {{orderType}} Order",
     "TRADE_QUANTITY": "Quantity",
     "TRADE_PRICE": "Price",
     "TRADE_TOTAL": "Total",
-    "TRADE_LOGS": "__**Logs**__",
+    "TRADE_LOGS": "__**Trade Logs**__",
     "NO_MATCHING_ORDERS_FOUND": "No matching orders were found, but the order was listed on the market",
     "ORDER_PLACED_SUCCESSFULL": "The order was successfully placed"
 }

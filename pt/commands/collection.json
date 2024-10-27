@@ -63,5 +63,6 @@
     "FILTER_LIMIT": "{{author}} Você não pode criar mais filtros",
     "EXPLAIN_FILTER": "{{author}} Aqui está um fluxograma para ajudá-lo a entender como esse filtro funciona",
     "SAVE_FILTER": "Selecione um Filtro",
-    "NOT_ENOUGH_SILVER_SAVING": "{{author}} Você não tem **Silver** suficiente para salvar este filtro"
+    "NOT_ENOUGH_SILVER_SAVING": "{{author}} Você não tem **Silver** suficiente para salvar este filtro",
+    "FILTER_NAME_EXISTS": "{{author}} O filtro com o nome {{filterName}} já existe"
 }

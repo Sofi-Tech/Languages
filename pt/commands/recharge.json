@@ -8,7 +8,7 @@
     "GLOW_AVAILABLE": "{{author}} Esse **Glow** já está carregado",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW",
     "RECHARGE_CONFIRMATION": "Você tem certeza que quer recarregar esse **Glow**?\n\nNome: **{{name}}**\nCódigo: `{{glowCode}}`\nCusto: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "SUCCESSFUL_RECHARGE": "{{author}} Seu **Glow** **{{glowName}}** foi carregado com sucesso!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Seu **Glow** **{{glowName}}** foi carregado com sucesso",
     "NO_MONEY": "{{author}} Você não tem **Recharges** suficientes para este processo!",
     "SUPER_RECHARGE_CONFIRMATION": "Você tem certeza que quer carregar esse **Glow**?\n\nNome: **{{name}} (Super)**\nCódigo: `{{glowCode}}`\nCusto: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
