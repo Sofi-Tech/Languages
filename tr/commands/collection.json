@@ -63,5 +63,6 @@
     "ALL_TAG_SUCCESS_two": "{{author}} `{{tagName}}` Etiketi başarıyla **{{count}}** karta eklendi",
     "ALL_TAG_SUCCESS_many": "{{author}} `{{tagName}}` Etiketi başarıyla **{{count}}** karta eklendi",
     "EXPLAIN_FILTER": "{{author}} İşte bu filtrenin nasıl çalıştığını anlamanıza yardımcı olacak bir akış şeması",
-    "VERSION_AVAILABILITY": "Sürüm Bulunurluğu"
+    "VERSION_AVAILABILITY": "Sürüm Bulunurluğu",
+    "FILTER_NAME_EXISTS": "{{author}} {{filterName}} adlı filtre zaten mevcut"
 }
