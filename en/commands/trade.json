@@ -21,7 +21,7 @@
     "ORDER_CANCELLED": "The order was successfully cancelled",
     "TRADE_PAGE_FOOTER": "Showing page: {{page}}/{{pages}}",
     "SELECT_ORDER_EMBED_TITLE": "Select {{flag}} Order Type",
-    "ORDER_NOTE_INFO": "- __{{flag}} now__ - It will be executed immediately at the best available rate or else it will get cancelled \n- __Order__ - It will be executed when the rate you have selected is available. The cost will be deducted beforehand. \n- Items will be immediately deducted when you make an order. Go to my orders to remove an existing order.",
+    "ORDER_NOTE_INFO": "- __{{flag}} now__ - It will be executed immediately at the best available rate, otherwise it will be cancelled. \n- __Order__ - It will be executed once the rate you've chosen is available. The cost will be deducted upfront. \nWhen you place an order, the items will be deducted immediately. To remove an existing order, go to \"My Orders\".",
     "LIMIT_ORDER_MODAL_LABEL": "Enter the quantity and price",
     "INSTANT_ORDER_MODAL_LABEL": "Enter the quantity",
     "LIMIT_ORDER_MODAL_PLACEHOLDER": "e.g. 100-9 | Wist-Rate",
