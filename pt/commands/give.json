@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Esse usuário está em quarentena",
     "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}g <Usuário/ID do Usuário> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
-    "CARD_LOCKED": "{{author}} Essa carta está bloqueada e não pode ser dada. Use o comando `{{prefix}}ut <CardCode>` para remover destravar a carta",
+    "CARD_LOCKED": "{{author}} Essa carta está bloqueada e não pode ser dada. Use o comando `{{prefix}}ut <CardCode>` para destravar a carta",
     "CANCELLED": "O processo foi cancelado",
     "AUTHOR_BLACKLISTED": "{{author}} Você está na blacklist",
     "AUTHOR_NOT_VERIFIED": "{{author}}Você não é verificado",

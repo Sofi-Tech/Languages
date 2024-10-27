@@ -1,5 +1,5 @@
 {
-    "MARKETLIST_DESCRIPTION": "Use este comando para listar seus Wists no mercado em troca de Gemas",
+    "MARKETLIST_DESCRIPTION": "Use este comando para listar seus Wists no mercado em troca de Gems",
     "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}ml <Quantidade> <Taxa>`",
     "INVALID_GEM_RATE": "{{user}} A taxa que você forneceu é inválida",
     "GEM_RATE_LIES": "{{user}} Você precisa colocar um número entre **3.0 - 20.0**",
