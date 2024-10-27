@@ -1,9 +1,9 @@
 {
-    "TRADE_DESCRIPTION": "Buy or sell items in the market",
+    "TRADE_DESCRIPTION": "Use this command to trade Wists and Gems instantly at the current rate, or set your own rate to create an order that will complete when matched.",
     "TRADE_CATEGORY": "Cards",
     "TRADE_EMBED_TITLE": "Wists [Average Price: {{price}}]",
-    "BUYING_ORDER_FIELD": "Buying Order",
-    "SELLING_ORDER_FIELD": "Selling Order",
+    "BUYING_ORDER_FIELD": "Buying Orders",
+    "SELLING_ORDER_FIELD": "Selling Orders",
     "TRADE_EMBED_FOOTER": "Total Orders: {{orders}} | Last Traded Price: {{ltp}}",
     "BUY_BUTTON_LABEL": "Buy",
     "SELL_BUTTON_LABEL": "Sell",
@@ -15,7 +15,7 @@
     "DELETE_MODAL_LABEL": "Enter the order number:",
     "DELETE_MODAL_PLACEHOLDER": "e.g. 1",
     "DELETE_MODAL_TITLE": "Delete Order",
-    "ENTER_VALID_ORDER_NUMBER": "{{author}} Please enter a valid order number",
+    "ENTER_VALID_ORDER_NUMBER": "Please enter a valid order number",
     "INVALID_ORDER_NUMBER": "The order number you provided is invalid",
     "MY_ORDER_EMBED_TITLE": "My Orders",
     "ORDER_CANCELLED": "The order was successfully cancelled",
@@ -48,6 +48,6 @@
     "TRADE_PRICE": "Price",
     "TRADE_TOTAL": "Total",
     "TRADE_LOGS": "__**Logs**__",
-    "NO_MATCHING_ORDERS_FOUND": "No matching orders found but the order is listed on the market",
+    "NO_MATCHING_ORDERS_FOUND": "No matching orders were found, but the order was listed on the market",
     "ORDER_PLACED_SUCCESSFULL": "The order was successfully placed"
 }
