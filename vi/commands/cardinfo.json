@@ -17,7 +17,7 @@
     "DROPPED": "Được thả bởi:",
     "CLAIM_BY": "Nhặt bởi:",
     "CLAIM_AT": "\nĐược thả ở:",
-    "CARD_FONT": "**Màu font:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Tên -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Bộ -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
+    "CARD_FONT": "**Màu font:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Tên -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Bộ -** `{{seriesColorName}}` | `{{seriesColorCode}}`\n",
     "CARDINFO_DESCRIPTION": "Sử dụng lệnh này với mã thẻ cụ thể sẽ hiển thị các thông tin cụ thể hơn về thẻ",
     "CLAIM_ON": "Được nhặt vào:",
     "LEVEL": "Cấp độ",

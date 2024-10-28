@@ -6,7 +6,7 @@
     "NOT_REGISTERED": "{{author}} वह उपयोगकर्ता पंजीकृत नहीं है",
     "MEM_BLACKLISTED": "{{author}} वह उपयोगकर्ता संदिग्ध-सूची में है",
     "MEM_QUARANTINED": "{{author}} वह उपयोगकर्ता क्वारेंटाइंड है",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}g <user/userID> <cardcode>`",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} आपके द्वारा प्रदान किया गया कोड अमान्य है या आपके संग्रह में मौजूद नहीं है",
     "CARD_LOCKED": "{{author}} यह पत्ता लॉक किया गया है तथा दिया नहीं जा सकता। `{{prefix}}ut <CardCode>` का उपयोग करके पत्ते को अनलॉक करे",
     "CANCELLED": "प्रक्रिया रद्द की गई",
