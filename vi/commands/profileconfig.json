@@ -52,7 +52,7 @@
     "SUCCESSFUL_AWARDS": "{{author}} Đã đặt thành công các huy hiệu đã chọn lên hồ sơ của bạn",
     "PBG_MODAL_LABEL": "Nhập ID Profile Background",
     "PURHCASE_MODAL_TITLE": "Mua Profile Background",
-    "PBG_MODAL_PLACEHOLDER": "e.g. 101",
+    "PBG_MODAL_PLACEHOLDER": "ví dụ. 101",
     "NO_PBG_FOUND": "Không tìm thấy bất kỳ **Profile Background** nào với ID `{{id}}`",
     "NO_PR_FOUND": "Không tìm thấy **Profile Ring** nào với ID `{{id}}` trong kho đồ của bạn",
     "PBG_EXIST_INV": "Bạn đã có **Profile Background** với ID `{{id}}` trong kho đồ của bạn",
@@ -105,7 +105,7 @@
     "RING_PURCHASE_SUCCESS": "Mua thành công **{{ringName}}** **Profile Ring**",
     "PURCHASE_RING_MODAL_LABEL": "Nhập ID Profile Ring",
     "RING_PURCHASE_MODAL_TITLE": "Mua Profile Ring",
-    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.g. 101",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "ví dụ. 101",
     "SET_RING_CONFIRM": "Bạn có chắc chắn muốn thiết lập **{{ringName}}** là Profile Ring không?",
     "NO_ENOUGH_AMOUNT_RING": "Bạn không có đủ **{{currency}}** để mua **Profile Ring** này"
 }

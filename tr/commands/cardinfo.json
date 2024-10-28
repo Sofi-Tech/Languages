@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "Son aldığınız kart bulunamadı. Bunun yerine bir kart kodu ile deneyiniz",
     "INVALID_CARD_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda mevcut değil",
     "CARD_GLOWED": "**{{isSuper}}Glow** uygulandı: **{{glowName}} ** (`#{{viewCode}}`)\n",
-    "CARD_FONT": "**Yazı Tipi Renkleri:**\n- **Gen -** `{{genColorName}}` | `{{genColorCode}}`\n- **Ad -** `{{nameColorName}}` | `{{nameColorCode}}`\n- **Seri -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
+    "CARD_FONT": "**Yazı Tipi Renkleri:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}`\n- **Ad -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Seri -** `{{seriesColorName}}` | `{{seriesColorCode}}`\n",
     "CARD_FRAMED": "**Frame** uygulandı: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** uygulandı: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Gen'i göster",

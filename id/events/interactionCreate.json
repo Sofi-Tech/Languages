@@ -5,7 +5,7 @@
     "VERSION_REJECTED": "Pengajuan `Versi` Anda untuk **{{charName}}** dari **{{seriesName}}** telah ditolak. [Kunjungi Server Dukungan kami untuk mempelajari lebih lanjut](<https://discord.gg/RYawNnu6Pp>)",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Anda telah dimasukkan ke dalam daftar hitam karena melanggar peraturan Sofi!__\n\n**Daftar kemungkinan alasan yang mungkin menyebabkan hal ini:**\n```CSS\n- Berinteraksi dengan Sofi di beberapa akun (Alting)\n- Menjual atau Membeli seluruh akun Discord\n- Menipu pengguna lain\n- Mengambil keuntungan atau terlibat dalam salah satu aktivitas di atas\n```\n\n:link [Ajukan permohonan atas daftar hitam Anda](<https://sofi.gg/appeal>)\n:link: [Server Dukungan](https://discord.gg/sofi)",
     "VERSION_ACCEPTED": "Pengajuan `Versi` Anda untuk **{{charName}}** dari **{{seriesName}}** telah diterima. **3** <a:wist_spin:973031140581580820> telah ditambahkan ke inventaris Anda",
-    "COMPLETE_COMMAND": "{{author}} Selesaikan perintah `{{command}}` terlebih dahulu!",
+    "COMPLETE_COMMAND": "{{author}} Selesaikan perintah `{{command}}` sebelum melanjutkan process",
     "APPEAL_DENIED": "Setelah menyelidiki kasus Anda, kami sampai pada kesimpulan untuk menolak permohonan Anda. Status daftar hitam Anda tidak akan dibatalkan dan semua pengajuan permohonan baru mulai saat ini akan ditolak.\n\n- Manajemen Sofi",
     "COMMAND_RUN_ERROR": "{{author}} Terjadi kesalahan saat mencoba menjalankan perintah ini. Silakan coba lagi",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Inventaris Anda mengandung nilai negatif! Silakan hubungi Pengembang di [Support Server](https://discord.gg/sofi) untuk memperbaiki hal ini",

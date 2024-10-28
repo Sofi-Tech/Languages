@@ -5,10 +5,10 @@
     "INVALID_DC_MOVIES": "{{author}} **Glow** kodları her zaman `#` ile başlar",
     "GLOW_NOT_FOUND": "{{author}} Sağladığınız **Glow** kodu ya geçersiz ya da envanterinizde bulunmuyor",
     "RECHARGE_DESCRIPTION": "Bu komutu boş bir Glow'u doldurmak için kullanın. Bu işlem mağazadan satın alınabilecek bir Recharge gerektirir",
-    "NO_MONEY": "{{author}} Bu işlem için yeterli **Recharge**elinizde mevcut değil!",
+    "NO_MONEY": "{{author}} Bu işlem için yeterli **Recharge** elinizde mevcut değil!",
     "GLOW_AVAILABLE": "{{author}} Bu **Glow**'un yükü zaten dolu",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW",
-    "SUCCESSFUL_RECHARGE": "{{author}} **{{glowName}}** **Glow**'unuz başarıyla dolduruldu!",
+    "SUCCESSFUL_RECHARGE": "{{author}} **{{glowName}}** **Glow**'unuz başarıyla dolduruldu",
     "RECHARGE_CONFIRMATION": "Bu **Glow**'u doldurmak istediğinizden emin misiniz?\n\nAd: **{{name}}**\nKod: `{{glowCode}}`\nMaliyet: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "SUPER_RECHARGE_CONFIRMATION": "Bu **Glow**'u doldurmak istediğinizden emin misiniz?\n\nAd: **{{name}} (Super)**\nKod: `{{glowCode}}`\nMaliyet: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
