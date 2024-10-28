@@ -10,7 +10,7 @@
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",
     "REGISTER_TO_PLAY": "{{author}} **Sofi** yolculuğunuza başlamak için lütfen `{{prefix}}register` komutunu kullanın!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** şu anda güvenli modda! Tahmini bitiş saati: **{{eta}}**\nBu durumun neden olduğu rahatsızlıklardan dolayı özür dileriz ve sabrınızı rica ederiz!",
-    "COMPLETE_COMMAND": "{{author}} Önce `{{command}}` komutunu tamamlayın!",
+    "COMPLETE_COMMAND": "{{author}} ilerlemeden önce `{{command}}` komutunu tamamlayın",
     "REQUIRE_PERMISSIONS": "{{author}} Bu komutu kullanmak için **{{permissions}}** iznine ihtiyacınız var",
     "VERIFY_BUTTON_LABEL": "Doğrula",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",

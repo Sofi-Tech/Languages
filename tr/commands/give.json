@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Bu kullanıcı karantina altında",
     "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <@Kullanıcı/KullanıcıIDsi> <KartKodu>`",
     "NO_CARD_FOUND": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda bulunmuyor",
-    "CARD_LOCKED": "{{author}} Bu kart kilitlidir ve başkasına verilemez! Kartın kilidini açmak için `{{prefix}}ut <KartKodu>` komutunu kullanın",
+    "CARD_LOCKED": "{{author}} Bu kart kilitlidir ve başkasına verilemez. Kartın kilidini açmak için `{{prefix}}ut <KartKodu>` komutunu kullanın",
     "CANCELLED": "Süreç İptal edildi",
     "MEM_NOT_VERIFIED": "{{author}} Bu kullanıcı doğrulanmadı",
     "AUTHOR_BLACKLISTED": "{{author}} Kara listeye alındınız",

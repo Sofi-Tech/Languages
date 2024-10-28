@@ -1,7 +1,7 @@
 {
     "TAGCREATE_DESCRIPTION": "इस कमांड से आप अपने मानदंडों के अनुरूप कई पत्तो को वर्गीकृत और समूहित करने के लिए एक टैग बना सकते हैं। अपने बनाए गए टैग को पत्तो पर लगाने के लिए \"{{prefix}}tag\" कमांड का उपयोग करें",
     "TC_CATEGORY": "TAGS",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}tc <tagname> <Emoji>`",
+    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} वह इमोजी अमान्य है",
     "INVALID_TAGNAME_FORMAT": "{{author}} आपके टैग का नाम अक्षरांकीय होना चाहिए और उसमे किसी भी प्रकार के विशेष वर्ण, रिक्त स्थान या अपशब्द नही होने चाहिए",
     "LONG_TAGNAME": "{{author}} टैग का नाम **20** वर्णों से अधिक नहीं होना चाहिए",

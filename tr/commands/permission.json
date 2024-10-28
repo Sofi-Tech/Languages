@@ -22,7 +22,7 @@
     "ADD_COMMANDS_INFO": "Ekle: {{listName}} listesine ek komutlar ekleyin\n",
     "BLACKLISTED_COMMANDS": "**__Kara Listeye Alınmış Komutlar__**",
     "REMOVE_COMMANDS_INFO": "Kaldır: Belirli komutları {{listName}} listesinden kaldırın\n",
-    "SOME_COMMANDS_WHITELISTED": "{{author}} Bu kanaldaki komutları zaten beyaz listeye eklediniz! Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
+    "SOME_COMMANDS_WHITELISTED": "{{author}} Bu kanaldaki komutları zaten beyaz listeye eklediniz. Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
     "STOPPED_PROCESS": "Süreç İptal edildi",
     "ADD_MODAL_LABEL": "Bu kanalın {{listName}} listesine komutlar ekleyin",
     "MODAL_TITLE": "SOFI: PERMISSIONS {{listName}}",
