@@ -4,7 +4,7 @@
     "CHOOSE_SORTING": "Sắp xếp theo",
     "SORT_CHAR": "Tên",
     "SORT_SERIES": "Bộ",
-    "SORT_WL": "Lượng yêu thích",
+    "SORT_WL": "Lượng Yêu Thích",
     "VERSIONTOKEN_DESCRIPTION": "Sử dụng lệnh này để xem các Version Token trong bộ sưu tập của bạn. Bộ sưu tập có thể được sắp xếp theo Tên, Gen, Danh sách yêu thích, Version",
     "VT_CATEGORY": "Đồ trang trí",
     "USER_PRIVATE": "{{author}} Người dùng này đã chỉnh bộ sưu tập **Version Token** của họ thành riêng tư",
@@ -17,6 +17,6 @@
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
     "EMBED_FOOTER": "Trang: {{page}}/{{totalPages}} | Tổng số Version Token: {{count}}",
     "SAVE_FILTER": "500 - Lưu bộ lọc này",
-    "SELECT_FILTER": "Chọn một bộ lọc",
+    "SELECT_FILTER": "Chọn bộ lọc",
     "FILTER_NO_VT_FOUND": "{{author}} Không tìm thấy bất kỳ **Version Token** nào phù hợp với bộ lọc bạn đã chọn"
 }

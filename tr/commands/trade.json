@@ -1,1 +1,23 @@
-{}
+{
+    "BUY_NOW_BUTTON_LABEL": "Şimdi satın al",
+    "SELL_NOW_BUTTON_LABEL": "Şimdi satış yap",
+    "SELLING_ORDER_FIELD": "Satış Siparişleri",
+    "TRADE_CATEGORY": "Kartlar",
+    "TRADE_EMBED_TITLE": "Wist'ler [Ortalama Fiyat: {{price}}]",
+    "BUYING_ORDER_FIELD": "Satın Alma Siparişleri",
+    "BUY_BUTTON_LABEL": "Satın al",
+    "DELETE_MODAL_PLACEHOLDER": "Örnek. 1",
+    "INVALID_ORDER_NUMBER": "Girdiğiniz sipariş numarası geçersiz",
+    "SELL_BUTTON_LABEL": "Sat",
+    "MY_ORDERS_BUTTON_LABEL": "Siparişlerim",
+    "BACK_BUTTON_LABEL": "Geri",
+    "DELETE_BUTTON_LABEL": "Siparişi sil",
+    "ORDER_BUTTON_LABEL": "Sipariş",
+    "DELETE_MODAL_LABEL": "Sipariş numarasını girin:",
+    "DELETE_MODAL_TITLE": "Siparişi sil",
+    "ENTER_VALID_ORDER_NUMBER": "Lütfen geçerli bir sipariş numarası girin",
+    "ORDER_CANCELLED": "Sipariş başarıyla iptal edildi",
+    "MY_ORDER_EMBED_TITLE": "Siparişlerim",
+    "TRADE_EMBED_FOOTER": "Toplam Siparişler: {{orders}} | Son İşlem Fiyatı: {{ltp}}",
+    "TRADE_DESCRIPTION": "Bu komutu kullanarak Wist ve Gem'leri mevcut kur üzerinden anında takas edin veya kendi kurunuzu belirleyerek eşleştiğinde tamamlanacak bir sipariş oluşturun."
+}
