@@ -1,7 +1,7 @@
 {
     "CHARLOOKUP_DESCRIPTION": "You can look up a specific character by using this command. In this menu, you can check a character's statistics, their Version/3D/GIF variants, as well as their Gen/Fan leaderboards and their Card-ID.",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "NORMAL_LABEL": "Version: 1",
     "FAN_PTS_LABEL": "Add Fan Points",

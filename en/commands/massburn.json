@@ -1,7 +1,7 @@
 {
     "MASSBURN_DESCRIPTION": "Use this command to burn multiple cards at once. By adding Gen/Tag/Wishlist filters, you can specify which cards you want to burn",
     "IN_ACTIVE_MB": "{{user}} You cannot start a new **Massburn** while an old one is still active",
-    "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n\n```fix\nNote: You can find a comprehensive list of filters with the command {{prefix}}help filters\n```",
+    "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n```fix\nNote: You can find a comprehensive list of filters by using the \"{{prefix}}help filters\" command\n```",
     "WRONG_TAG": "{{author}} Could not find any tag with the name `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria\n```fix\nNote: Cards that are locked, a GIF variant, or used in a deck cannot be burnt\n```",
     "LOCKED_CARDS_WARNING": "{{author}} Cards that are locked, a **GIF** variant or used in a deck cannot be burnt",
