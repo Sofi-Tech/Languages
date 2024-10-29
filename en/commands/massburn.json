@@ -3,7 +3,7 @@
     "IN_ACTIVE_MB": "{{user}} You cannot start a new **Massburn** while an old one is still active",
     "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n\n```fix\nNote: You can find a comprehensive list of filters with the command {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Could not find any tag with the name `{{arg}}`",
-    "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria",
+    "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria\n- **Note: Cards that are locked, a GIF variant, or used in a deck cannot be burnt**",
     "LOCKED_CARDS_WARNING": "{{author}} Cards that are locked, a **GIF** variant or used in a deck cannot be burnt",
     "CARDS_BURNED": "__Selected Cards [ {{totalCards}} ]__",
     "EMBED_TITLE": "SOFI: MASSBURN",
