@@ -10,7 +10,7 @@
     "NAME": "नाम:",
     "CHEST_INFO": "ईवेंट चेस्ट, ईवेंट समाप्त होने के बाद भी खोली जा सकती है",
     "PROVIDE_NUM": "{{author}} आप एक बार में अधिकतम **10** **{{chestName}}** खोल सकते हैं",
-    "CHEST_MISSING": "{{author}} आपके संग्रह में **{{count}}** ** {{chestName}}** मौजूद नही है",
+    "CHEST_MISSING": "{{author}} आपके संग्रह में **{{count}}** **{{chestName}}** मौजूद नही है",
     "COMMON_INFO_1": "आपने **{{totalChests}} {{chestName}}** खोली",
     "ITEMS_FOUND": "**__आइटम प्राप्त हुए__**",
     "EXOTIC_DIVINE_FOOTER": "आप हर महीने {{count}} बार वोट करके {{article}} {{chestName}} प्राप्त कर सकते हैं",
