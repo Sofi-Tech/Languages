@@ -48,5 +48,17 @@
     "ENTER_PRICE": "Vui lòng nhập số lượng hợp lệ",
     "NO_PRICE_MARKET_ORDER": "Bạn không thể đặt giá cụ thể khi sử dụng Lệnh Thị Trường",
     "INSTANT_ORDER_MODAL_PLACEHOLDER": "ví dụ. 100 Wist",
-    "LIMIT_ORDER_MODAL_PLACEHOLDER": "ví dụ. 100-9 | Wist-Rate"
+    "LIMIT_ORDER_MODAL_PLACEHOLDER": "ví dụ. 100-9 | Wist-Rate",
+    "VALID_AMOUNT_GEMS": "Giá phải nằm trong khoảng từ {{start}} đến {{end}} <:gemgame:862598030562033694>",
+    "TRADE_MARKET": "Thị Trường",
+    "TRADE_SELLERS": "Người Bán",
+    "TRADE_BUYING": "Mua",
+    "TRADE_SELLING": "Bán",
+    "TRADE_LIMIT": "Giới Hạn",
+    "SELL_MARKET_TRADE_CONFIRMATION": "Bạn đang bán {{totalStock}} <:wist:870339503427027005> với giá {{price}} <:gemgame:862598030562033694>\n{{orders}}",
+    "BUY_LIMIT_TRADE_CONFIRMATION": "Bạn đang mua {{totalStock}} <:wist:870339503427027005> với giá {{price}} <:gemgame:862598030562033694>\n{{orders}}",
+    "BUY_MARKET_TRADE_CONFIRMATION": "Bạn đang mua {{totalStock}} <:wist:870339503427027005> với giá {{price}} <:gemgame:862598030562033694>\n{{orders}}",
+    "WAIT_FOR_BUY_ORDERS": "Hiện tại không có người mua nào trên thị trường. Vui lòng đợi đơn hàng xuất hiện.",
+    "WAIT_FOR_SELL_ORDERS": "Hiện tại không có người bán nào trên thị trường. Vui lòng đợi đơn hàng xuất hiện.",
+    "TRADE_BUYERS": "Người Mua"
 }
