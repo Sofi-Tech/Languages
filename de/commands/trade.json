@@ -1,1 +1,6 @@
-{}
+{
+    "MY_ORDER_EMBED_TITLE": "Meine Bestellungen",
+    "TRADE_EMBED_FOOTER": "Bestellungen insgesamt: {{orders}} | Letzter gehandelter Preis: {{ltp}}",
+    "BACK_BUTTON_LABEL": "Zurück",
+    "BUY_BUTTON_LABEL": "Kaufen"
+}
