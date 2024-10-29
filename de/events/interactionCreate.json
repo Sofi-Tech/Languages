@@ -12,7 +12,7 @@
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Warte **{{cooldown}}** bevor du diesen Befehl nochmal verwendest",
     "REQUIRE_PERMISSIONS": "{{author}} Du benötigst **{{permissions}}** Berechtigungen um diesen Befehl benutzen zu können",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** befindet sich im abgesicherten Modus! Geschätzte Dauer: **{{eta}}**\nWir entschuldigen uns für die Unannehmlichkeiten und bitten dich um Geduld!",
-    "COMPLETE_COMMAND": "{{author}} Vervollständige zuerst den `{{command}}` Befehl!",
+    "COMPLETE_COMMAND": "{{author}} Vervollständige den Befehl `{{command}}` bevor du fortfährst",
     "VERIFY_BUTTON_LABEL": "Verifizieren",
     "SERVER_BLACKLISTED": "{{author}} Der Server ist auf der Blacklist. Bitte kontaktiere uns auf discord.gg/sofi",
     "COMMAND_BLACKLISTED": "{{author}} Der `{{commandName}}` Befehl ist in diesem Kanal deaktiviert",

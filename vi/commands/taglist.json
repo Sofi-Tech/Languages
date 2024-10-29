@@ -11,7 +11,7 @@
     "CARD_few": "{{count}} thẻ",
     "CARD_other": "{{count}} thẻ",
     "CARD_many": "{{count}} thẻ",
-    "SOFI_FACT": "Thẻ trong nhãn được khóa sẽ không thể bị đốt hoặc trao đổi",
+    "SOFI_FACT": "Thẻ gắn nhãn được khóa sẽ không thể bị đốt hoặc trao đổi",
     "EMBED_FOOTER": "Tổng cộng: {{total}} | Đã khóa: {{locked}}",
     "LOCK_MENU_PLACEHOLDER": "Chọn một nhãn để khóa/mở khóa",
     "LOCKED_TAG_zero": "🔒 Đã khóa {{count}} nhãn",

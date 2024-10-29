@@ -7,7 +7,7 @@
     "GLOW_NOT_FOUND": "{{author}} De **Glow** code die u heeft ingevoerd is ongeldig of zit niet in uw inventaris",
     "SUPER_RECHARGE_CONFIRMATION": "Weet u zeker dat u deze **Glow** wilt opladen?\n\nNaam: **{{name}} (Super)**\nCode: `{{glowCode}}`\nKost: **{{cost}}** <:recharge_sofi:926846363537387530>",
     "GLOW_AVAILABLE": "{{author}} Die **Glow** is al opgeladen",
-    "SUCCESSFUL_RECHARGE": "{{author}} Uw **{{glowName}}** **Glow** is succesvol opgeladen!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Heeft uw **{{glowName}}** **Glow** opgeladen",
     "EMBED_TITLE": "SOFI: RECHARGE GLOW",
     "NO_MONEY": "{{author}} U heeft niet genoeg **Recharges** voor dit proces!",
     "RECHARGE_CONFIRMATION": "Weet u zeker dat u deze **Glow** wilt opladen?\n\nNaam: **{{name}}**\nCode: `{{glowCode}}`\nKost: **{{cost}}** <:recharge_sofi:926846363537387530>"

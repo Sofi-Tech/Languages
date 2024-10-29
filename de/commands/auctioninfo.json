@@ -7,7 +7,7 @@
     "BID_MODAL_LABEL": "Gebotsmenge",
     "BID_MODAL_TITLE": "Auktionsgebot",
     "BID_MODAL_PLACEHOLDER": "Gib die Gebotsmenge ein",
-    "INVALID_BID_AMOUNT": "{{author}} Dein Gebot muss eine Zahl sein!",
+    "INVALID_BID_AMOUNT": "{{author}} Dein Gebot muss eine Zahl sein.",
     "POSITIVE_NUMBER": "{{author}} Dein Gebot muss eine positive Zahl sein",
     "AUCTION_NOT_FOUND": "{{author}} Diese Auktion konnte nicht gefunden werden",
     "BID_SUCCESSFUL": "{{author}} Du hast erfolgreich ein Gebot in Höhe von **{{amount}}** {{emoji}} abgegeben",

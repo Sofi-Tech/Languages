@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Dieser Nutzer steht unter Quarantäne",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}g <@Nutzer/NutzerID> <KartenCode>`",
     "NO_CARD_FOUND": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
-    "CARD_LOCKED": "{{author}} Diese Karte ist gesperrt und kann nicht weitergegeben werden! Verwende den Befehl `{{prefix}}ut <KartenCode>`, um die Karte zu entsperren",
+    "CARD_LOCKED": "{{author}} Diese Karte ist gesperrt und kann nicht weitergegeben werden. Verwende den Befehl `{{prefix}}ut <KartenCode>`, um die Karte zu entsperren",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "MEM_NOT_VERIFIED": "{{author}} Dieser Nutzer ist nicht verifiziert",
     "AUTHOR_BLACKLISTED": "{{author}} Du bist geblacklistet",
