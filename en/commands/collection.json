@@ -8,7 +8,7 @@
     "PLAYER_PRIVATE": "{{author}} That user's collection is private",
     "NO_RESULTS": "{{author}} You don't have any cards in your collection yet",
     "NO_RESULTS_OTHERS": "{{author}} That user does not have any cards in their collection",
-    "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria\n\n```fix\nNote: Cards that are locked, a GIF variant, or used in a deck cannot be burnt\n```",
+    "NO_CARDS_FOUND": "{{author}} Could not find any cards matching your search criteria\n```fix\nNote: Cards that are locked, a GIF variant, or used in a deck cannot be burnt\n```",
     "NOTHING_FOUND": "Could not find any card",
     "NOT_AVAILABLE": "Invalid Series",
     "CHOOSE_SORTING": "Sort by",
