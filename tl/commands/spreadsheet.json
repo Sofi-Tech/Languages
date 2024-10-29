@@ -1,7 +1,7 @@
 {
-    "NO_GUILD_INFO": "{{author}} Ikaw ay kasalukuyan wala sa isang **Guild**",
+    "NO_GUILD_INFO": "{{author}} Ikaw ay kasalukuyang wala sa isang guild",
     "NO_VAULT_LOGS": "{{author}} Sa kasalukuyan ay walang mga talaan ng vault",
-    "SPREADSHEET_DESCRIPTION": "Sa paggamit ng command na ito, gagawa si Sofi ng .csv file na naglalaman ng impormasyon para sa lahat ng mga kard sa iyong koleksyon. Maaari ka ring makakuha ng detalyadong .csv file ng iyong Guild sa pamamagitan ng pagdaragdag ng parameter na \"Guild\" sa iyong prompt",
+    "SPREADSHEET_DESCRIPTION": "Sa paggamit ng command na ito, gagawa si Sofi ng .csv file na naglalaman ng impormasyon para sa lahat ng mga kard sa iyong koleksyon. Maaari ka ring makakuha ng detalyadong .csv file ng iyong guild sa pamamagitan ng pagdaragdag ng parameter na \"Guild\" sa iyong prompt",
     "NO_COLLECTION": "{{author}} Wala kang kahit anong mga kard sa iyong koleksyon",
     "CANNOT_DM": "{{author}} Hindi maipadala sa iyo ang spreadsheet file. Tiyaking bukas ang iyong mga direktang mensahe!",
     "SHEET_CATEGORY": "Konpigurasyon",

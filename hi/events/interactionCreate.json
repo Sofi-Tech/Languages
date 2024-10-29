@@ -13,7 +13,7 @@
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** कमांड का दोबारा प्रयोग करने से पहले **{{cooldown}}** प्रतीक्षा करें",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] कमांड का दोबारा प्रयोग करने से पहले **{{cooldown}}** प्रतीक्षा करें",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** अभी गंभीर स्तिथि में है! ETA: **{{eta}}**\nइसके कारण होने वाली किसी भी असुविधाओं के लिए हम क्षमा चाहते हैं और आपसे धैर्य रखने का अनुरोध करते हैं!",
-    "COMPLETE_COMMAND": "{{author}} आगे बढ़ने से पहले `{{command}}` कमांड को पूरा करें",
+    "COMPLETE_COMMAND": "{{author}} आगे बढ़ने से पहले `{{command}}` कमांड को पूर्ण करें",
     "SERVER_BLACKLISTED": "{{author}} यह सर्वर संदिग्ध-सूची में है। discord.gg/sofi पर हमें संपर्क करे",
     "COMMAND_BLACKLISTED": "{{author}} इस चैनल में `{{commandName}}` कमांड निषेध है",
     "CATEGORY_DISABLED": "{{author}} यह श्रेणी अक्षम कर दी गई है\nकारण: `{{reason}}`",

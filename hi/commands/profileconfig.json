@@ -105,5 +105,8 @@
     "RING_PURCHASE_SUCCESS": "**{{ringName}}** **Profile Ring** को सफलतापूर्वक खरीदा गया",
     "INVALID_RING_ID": "अमान्य **Profile Ring** ID",
     "SET_RING_CONFIRM": "क्या आप वाकई में **{{ringName}}** को अपनी Profile Ring के रूप में लागू करना चाहते हैं?",
-    "NO_ENOUGH_AMOUNT_RING": "आपके पास **Profile Ring** खरीदने के लिए पर्याप्त **{{currency}}** नहीं है"
+    "NO_ENOUGH_AMOUNT_RING": "आपके पास **Profile Ring** खरीदने के लिए पर्याप्त **{{currency}}** नहीं है",
+    "PURCHASE_RING_MODAL_LABEL": "Profile Ring ID दर्ज करे",
+    "RING_PURCHASE_MODAL_TITLE": "Profile Ring खरीदे",
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "जैसे. 101"
 }
