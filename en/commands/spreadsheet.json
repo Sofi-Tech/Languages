@@ -1,7 +1,7 @@
 {
-    "SPREADSHEET_DESCRIPTION": "Upon using this command, Sofi will create a .csv file containing information for all cards in your collection. You can also get a detailed .csv file of your Guild by adding the \"Guild\" parameter to your prompt",
+    "SPREADSHEET_DESCRIPTION": "Upon using this command, Sofi will create a .csv file containing information for all cards in your collection. You can also get a detailed .csv file of your guild by adding the \"Guild\" parameter to your prompt",
     "SHEET_CATEGORY": "Settings",
-    "NO_GUILD_INFO": "{{author}} You are currently not in a **Guild**",
+    "NO_GUILD_INFO": "{{author}} You are currently not in any guild",
     "NO_VAULT_LOGS": "{{author}} There currently are no vault logs",
     "DM_FILE": "{{author}} A .csv file has been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
     "CANNOT_DM": "{{author}} Could not send you the spreadsheet file. Make sure that your direct messages are open!",
