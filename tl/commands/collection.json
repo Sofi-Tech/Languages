@@ -6,7 +6,7 @@
     "PLAYER_NOT_EXIST": "{{author}} Ang user na iyon ay hindi nakarehistro",
     "PLAYER_PRIVATE": "{{author}} Ang koleksyon ng user na iyon ay pribado",
     "NO_RESULTS": "{{author}} Ikaw ay wala pang kahit anong mga kard sa iyong koleksyon",
-    "NO_CARDS_FOUND": "{{author}} Walang mahanap na kahit anong mga kard na tumutugma sa iyong pamantayan sa paghahanap",
+    "NO_CARDS_FOUND": "{{author}} Hindi makahanap ng anumang mga kard na tumutugma sa iyong pamantayan sa paghahanap\n```fix\nTandaan: Ang mga card na naka-lock, isang GIF na variant, o ginagamit sa isang deck ay hindi maaaring masunog ```",
     "NOTHING_FOUND": "Hindi mahanap ang kahit anong kard",
     "CHOOSE_SORTING": "Iayos batay sa",
     "SORT_CHAR": "Pangalan",

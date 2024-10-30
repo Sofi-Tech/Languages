@@ -1,7 +1,7 @@
 {
     "CHAR_NOT_FOUND": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`",
     "NAME": "Tên:",
-    "CHAR_NF_SENSITIVE": "{{author}} Không thể tìm thấy bất kỳ nhân vật nào tên `{{arg}}`\n\n```fix\nLưu ý: Sử dụng `-f` sẽ phân biệt giữa chữ hoa và chữ thường!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Không thể tìm thấy bất kỳ nhân vật nào tên `{{arg}}`\n```fix\nLưu ý: Sử dụng `-f` sẽ phân biệt giữa chữ hoa và chữ thường!\n```",
     "WISHLISTED": "Yêu thích",
     "SERIES": "Bộ:",
     "NO_OWNER_FOUND": "Chưa có ai sỡ hữu phiên bản **2D** của nhân vật này",

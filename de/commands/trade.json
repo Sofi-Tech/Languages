@@ -2,5 +2,10 @@
     "MY_ORDER_EMBED_TITLE": "Meine Bestellungen",
     "TRADE_EMBED_FOOTER": "Bestellungen insgesamt: {{orders}} | Letzter gehandelter Preis: {{ltp}}",
     "BACK_BUTTON_LABEL": "Zurück",
-    "BUY_BUTTON_LABEL": "Kaufen"
+    "BUY_BUTTON_LABEL": "Kaufen",
+    "TRADE_EMBED_TITLE": "Wists [Durchschnittlicher Preis: {{price}}]",
+    "TRADE_CATEGORY": "Karten",
+    "INSTANT_ORDER_MODAL_PLACEHOLDER": "z.B. 100 Wists",
+    "DELETE_MODAL_PLACEHOLDER": "z.B. 1",
+    "LIMIT_ORDER_MODAL_PLACEHOLDER": "z.B. 100-9 | Wist-Rate"
 }
