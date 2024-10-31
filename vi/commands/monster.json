@@ -16,10 +16,10 @@
     "NO_PLAYERS_FOUND": "Không tìm thấy người chơi nào",
     "CATALOGUE_EMBED_TITLE": "__Danh Mục Quái Vật__",
     "MONSTER_DEFEATED_zero": "**Đã Đánh Bại:** {{count}} lần",
-    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} đã xuất hiện ** {{spawnCount}}** lần",
-    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} đã xuất hiện ** {{spawnCount}}** lần",
-    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} đã xuất hiện ** {{spawnCount}}** lần",
-    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} đã xuất hiện ** {{spawnCount}}** lần",
-    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} đã xuất hiện ** {{spawnCount}}** lần",
-    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} đã xuất hiện ** {{spawnCount}}** lần"
+    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} đã xuất hiện **{{count}}** lần",
+    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} đã xuất hiện **{{count}}** lần",
+    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} đã xuất hiện **{{count}}** lần",
+    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} đã xuất hiện **{{count}}** lần",
+    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} đã xuất hiện **{{count}}** lần",
+    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} đã xuất hiện **{{count}}** lần"
 }

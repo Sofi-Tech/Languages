@@ -11,5 +11,8 @@
     "INVALID_ITEM_PROVIDED": "{{user}} العنصر الذي قدمته غير صالح",
     "BUY_CHARMS_MULTIPLES": "{{author}} يمكنك فقط شراء **التعويذات** بمضاعفات 100",
     "BUY_CHARM_CONFIRMATION": "## انت تشتري {{amount}} {{itemName}} <:xcharm:988729774031638528>",
-    "BUY_GEN_CONFIRMATION": "## انت تشتري {{count}} {{itemName}} 💳"
+    "BUY_GEN_CONFIRMATION": "## انت تشتري {{count}} {{itemName}} 💳",
+    "LAYER_CORRECT_USAGE": "{{author}} الاستخدام الصحيح : `{{prefix}}buy layer <Layer-ID> <Amount>`",
+    "NO_LAYER_FOUND": "لم يتمكن {{author}} من العثور على **layer** ذات المعرف `{{layerId}}`",
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **layer** ذات المعرف `{{layerId}}` محدودة ولا يمكن شراؤها بعد الآن"
 }

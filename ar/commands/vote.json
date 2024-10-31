@@ -1,12 +1,13 @@
 {
-    "VOTE_DESCRIPTION": "يعرض المكافآت الشهرية من \"التصويت\"",
+    "VOTE_DESCRIPTION": "استخدم هذا الأمر للتصويت لصالح Sofi في Top.GG. كل تصويت تساهم به لصالح Sofi سيكافئك بـ 1 Wist في يوم من أيام الأسبوع و2 Wist في عطلة نهاية الأسبوع.",
     "VOTE_CATEGORY": "الإعدادات",
-    "VOTE": "تصويت في Top.GG",
+    "VOTE": "صوت في Top.GG",
     "BUMP": "صدم",
     "EMBED_TITLE": "SOFI: VOTE",
     "USE_WIST": "سيتم الحصول على `ويستز` <:wist:870339503427027005> من الـ `تصويت` الناجح!",
     "TOTAL_VOTES": "> مجموع `التصويتات`: {{totalVotes}}",
     "MONTHLY_VOTES": "> `التصويتات` الشهرية: {{monthlyVotes}}",
     "VOTE_RESET": "> يتم الإعادة في خلال {{countdown}}",
-    "EMBED_FOOTER": "سوف تحصل على مضاعفتي مقدار الويستز في عطلة نهاية الأسبوع"
+    "EMBED_FOOTER": "سوف تحصل على مضاعفتي مقدار الويستز في عطلة نهاية الأسبوع",
+    "VOTE_DBL": "صوت في DiscordBotList"
 }

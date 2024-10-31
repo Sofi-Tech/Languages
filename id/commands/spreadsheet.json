@@ -1,9 +1,9 @@
 {
     "SHEET_CATEGORY": "Pengaturan",
-    "NO_GUILD_INFO": "{{author}} Anda saat ini tidak berada di dalam **Guild**",
+    "NO_GUILD_INFO": "{{author}} Anda saat ini tidak berada di dalam guild manapun",
     "CANNOT_DM": "{{author}} Tidak dapat mengirimi anda file spreadsheet. Pastikan bahwa dm anda terbuka!",
     "NO_COLLECTION": "{{author}} Anda tidak memiliki kartu dalam koleksi anda",
-    "SPREADSHEET_DESCRIPTION": "Setelah menggunakan perintah ini, Sofi akan membuat sebuah file .csv yang berisi informasi untuk semua kartu dalam koleksi Anda. Anda juga bisa mendapatkan file .csv terperinci dari Guild Anda dengan menambahkan parameter \"Guild\" ke prompt Anda",
+    "SPREADSHEET_DESCRIPTION": "Setelah menggunakan perintah ini, Sofi akan membuat sebuah file .csv yang berisi informasi untuk semua kartu dalam koleksi anda. Anda juga bisa mendapatkan file .csv terperinci dari guild anda dengan menambahkan parameter \"Guild\" ke prompt anda",
     "NO_VAULT_LOGS": "{{author}} Saat ini tidak ada log brankas",
     "DM_FILE": "{{author}} File .csv telah dikirimkan kepada anda melalui DM\n\n> **Catatan**: Saat mengimpor file ke program excel atau spreadsheet, pastikan untuk menyetel pemisah ke \"koma\"!"
 }

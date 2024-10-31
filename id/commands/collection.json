@@ -6,7 +6,7 @@
     "PLAYER_NOT_EXIST": "{{author}} User tersebut tidak terdaftar",
     "PLAYER_PRIVATE": "{{author}} Koleksi pengguna tersebut bersifat pribadi",
     "NO_RESULTS": "{{author}} Anda belum memiliki kartu apapun dalam koleksi Anda",
-    "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang sesuai dengan kriteria pencarian anda",
+    "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang sesuai dengan kriteria pencarian anda\n```fix\nCatatan: Kartu yang dikunci, varian GIF, atau digunakan dalam deck tidak dapat dibakar\n```",
     "NOTHING_FOUND": "Tidak dapat menemukan kartu apapun",
     "CHOOSE_SORTING": "Urutkan berdasarkan",
     "SORT_CHAR": "Nama",

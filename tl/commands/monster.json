@@ -16,10 +16,10 @@
     "NO_RESULTS_FOUND": "{{author}} Hindi mahanap ang halimaw na iyon",
     "MONSTER_LAST_SPAWNED": "huling lumitaw noong {{date}} at ay",
     "CATALOGUE_EMBED_TITLE": "__Monster Catalogue__",
-    "MONSTER_BOSS_SPAWNED_zero": "Si {{bossName}} ay lumitaw na ng **{{spawnCount}}** na beses",
-    "MONSTER_BOSS_SPAWNED_one": "Si {{bossName}} ay lumitaw na ng **{{spawnCount}}** na beses",
-    "MONSTER_BOSS_SPAWNED_two": "Si {{bossName}} ay lumitaw na ng **{{spawnCount}}** na beses",
-    "MONSTER_BOSS_SPAWNED_few": "Si {{bossName}} ay lumitaw na ng **{{spawnCount}}** na beses",
-    "MONSTER_BOSS_SPAWNED_many": "Si {{bossName}} ay lumitaw na ng **{{spawnCount}}** na beses",
-    "MONSTER_BOSS_SPAWNED_other": "Si {{bossName}} ay lumitaw na ng **{{spawnCount}}** na beses"
+    "MONSTER_BOSS_SPAWNED_zero": "Si {{bossName}} ay lumitaw na ng **{{count}}** na beses",
+    "MONSTER_BOSS_SPAWNED_one": "Si {{bossName}} ay lumitaw na ng **{{count}}** na beses",
+    "MONSTER_BOSS_SPAWNED_two": "Si {{bossName}} ay lumitaw na ng **{{count}}** na beses",
+    "MONSTER_BOSS_SPAWNED_few": "Si {{bossName}} ay lumitaw na ng **{{count}}** na beses",
+    "MONSTER_BOSS_SPAWNED_many": "Si {{bossName}} ay lumitaw na ng **{{count}}** na beses",
+    "MONSTER_BOSS_SPAWNED_other": "Si {{bossName}} ay lumitaw na ng **{{count}}** na beses"
 }

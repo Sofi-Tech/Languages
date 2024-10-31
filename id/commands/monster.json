@@ -16,10 +16,10 @@
     "MONSTER_TOP_DEFEATERS": "__**Petarung Teratas**__",
     "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Petarung Teratas berdasarkan Gerakan yang Paling Sedikit**__",
     "MONSTER_LAST_SPAWNED": "terakhir muncul pada {{date}} dan sekarang",
-    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} telah muncul **{{spawnCount}}** kali",
-    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} telah muncul **{{spawnCount}}** kali",
-    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} telah muncul **{{spawnCount}}** kali",
-    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} telah muncul **{{spawnCount}}** kali",
-    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} telah muncul **{{spawnCount}}** kali",
-    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} telah muncul **{{spawnCount}}** kali"
+    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} telah muncul **{{count}}** kali",
+    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} telah muncul **{{count}}** kali",
+    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} telah muncul **{{count}}** kali",
+    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} telah muncul **{{count}}** kali",
+    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} telah muncul **{{count}}** kali",
+    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} telah muncul **{{count}}** kali"
 }

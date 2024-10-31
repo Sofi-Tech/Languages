@@ -16,10 +16,10 @@
     "NO_RESULTS_FOUND": "{{author}} वह राक्षश ढूँढने मे असमर्थ",
     "MONSTER_CATEGORY": "गिल्डस",
     "NO_PLAYERS_FOUND": "कोई खिलाड़ी नहीं",
-    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} **{{spawnCount}}** बार प्रकट हुआ",
-    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} **{{spawnCount}}** बार प्रकट हुआ",
-    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} **{{spawnCount}}** बार प्रकट हुआ",
-    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} **{{spawnCount}}** बार प्रकट हुआ",
-    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} **{{spawnCount}}** बार प्रकट हुआ",
-    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} **{{spawnCount}}** बार प्रकट हुआ"
+    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} **{{count}}** बार प्रकट हुआ",
+    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} **{{count}}** बार प्रकट हुआ",
+    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} **{{count}}** बार प्रकट हुआ",
+    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} **{{count}}** बार प्रकट हुआ",
+    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} **{{count}}** बार प्रकट हुआ",
+    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} **{{count}}** बार प्रकट हुआ"
 }

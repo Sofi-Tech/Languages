@@ -3,7 +3,7 @@
     "SHEET_CATEGORY": "Réglages",
     "CANNOT_DM": "{{author}} Impossible de vous envoyer le fichier de tableur. Veillez à ce que vos messages soient ouverts!",
     "NO_COLLECTION": "{{author}} Vous n'avez pas de cartes dans votre collection",
-    "NO_GUILD_INFO": "{{author}} Vous n'êtes actuellement pas dans une **Guilde**",
-    "SPREADSHEET_DESCRIPTION": "Lors de l'utilisation de cette commande, Sofi créera un fichier .csv contenant des informations sur toutes les cartes de votre collection. Vous pouvez également obtenir un fichier .csv détaillé de votre Guilde en ajoutant le paramètre \"Guild\" à votre commande",
+    "NO_GUILD_INFO": "{{author}} Vous n'êtes actuellement dans aucune guilde",
+    "SPREADSHEET_DESCRIPTION": "Lors de l'utilisation de cette commande, Sofi créera un fichier .csv contenant des informations sur toutes les cartes de votre collection. Vous pouvez également obtenir un fichier .csv détaillé de votre guilde en ajoutant le paramètre \"Guild\" à votre commande",
     "NO_VAULT_LOGS": "{{author}} Il n'y a actuellement aucun logs du coffre fort"
 }

@@ -16,10 +16,10 @@
     "MONSTER_DEFEATED_one": "**Besiegt:** {{count}} mal",
     "MONSTER_LAST_SPAWNED": "Ist zuletzt erzeugt an {{date}} und ist",
     "MONSTER_TOP_DEFEATERS_LESS_MOVE": "__**Beste Besieger nach den letzten Schritten**__",
-    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} wurde **{{spawnCount}}** mal erzeugt",
-    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} wurde **{{spawnCount}}** mal erzeugt",
-    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} wurde **{{spawnCount}}** mal erzeugt",
-    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} wurde **{{spawnCount}}** mal erzeugt",
-    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} wurde **{{spawnCount}}** mal erzeugt",
-    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} wurde **{{spawnCount}}** mal erzeugt"
+    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} wurde **{{count}}** mal erzeugt",
+    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} wurde **{{count}}** mal erzeugt",
+    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} wurde **{{count}}** mal erzeugt",
+    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} wurde **{{count}}** mal erzeugt",
+    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} wurde **{{count}}** mal erzeugt",
+    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} wurde **{{count}}** mal erzeugt"
 }

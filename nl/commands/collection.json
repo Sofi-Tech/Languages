@@ -6,7 +6,7 @@
     "PLAYER_NOT_EXIST": "{{author}} Deze speler bestaat niet",
     "PLAYER_PRIVATE": "{{author}} De collectie van die gebruiker is privé",
     "NO_RESULTS": "{{author}} U heeft nog geen kaarten in uw collectie",
-    "NO_CARDS_FOUND": "{{author}} Geen kaarten gevonden die overeenkomen met uw zoekopdracht",
+    "NO_CARDS_FOUND": "{{author}} Geen kaarten gevonden die overeenkomen met uw zoekopdracht\n```fix\nOpmerking: Kaarten die vergrendeld zijn, een GIF variant, zijn of in een deck worden gebruikt kunnen niet worden verbrand\n```",
     "NOTHING_FOUND": "Kon geen kaart vinden",
     "CHOOSE_SORTING": "Sorteer op",
     "SORT_CHAR": "Naam",
