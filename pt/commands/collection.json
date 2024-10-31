@@ -6,7 +6,7 @@
     "PLAYER_NOT_EXIST": "{{author}} Esse usuário não está registrado",
     "PLAYER_PRIVATE": "{{author}} A coleção desse usuário é privada",
     "NO_RESULTS": "{{author}} Você ainda não tem nenhuma carta em sua coleção",
-    "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa",
+    "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa\n```fix\nNota: cartas bloqueadas, cartas GIF ou que estão sendo usadas em um baralho não podem ser queimadas\n```",
     "NOTHING_FOUND": "Não foi possível encontrar nenhuma carta",
     "CHOOSE_SORTING": "Ordenar por",
     "SORT_CHAR": "Nome",

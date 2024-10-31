@@ -3,7 +3,7 @@
     "IN_ACTIVE_MB": "{{user}} Você não pode iniciar um novo **Massburn** enquanto um antigo ainda estiver ativo",
     "PROVIDE_FILTERS": "{{author}} Uso correto: `{{prefix}}mb <Filters>`\n\n```fix\nNota: Você pode encontrar uma lista abrangente de filtros com o comando {{prefix}}help filters\n```",
     "WRONG_TAG": "{{author}} Não foi possível encontrar nenhuma tag com o nome `{{arg}}`",
-    "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa",
+    "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa\n```fix\nNota: cartas bloqueadas, cartas GIF ou que estão sendo usadas em um baralho não podem ser queimadas\n```",
     "CARDS_BURNED": "__Cartas Selecionadas [ {{totalCards}} ]__",
     "CONFIRM_ASK": "{{author}} Tem certeza de que deseja queimar essas cartas __irreversivelmente__?",
     "MISSING_CARDS": "{{author}} Pelo menos uma das cartas selecionadas não está mais em sua coleção",
