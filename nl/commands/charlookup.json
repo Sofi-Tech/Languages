@@ -1,7 +1,7 @@
 {
     "CHARLOOKUP_DESCRIPTION": "Met deze commando kunt u een specifiek teken opzoeken. In dit menu kun u de statistieken van een personage bekijken, hun Version/3D/GIF varianten, evenals hun Gen/Fan leaderboards en hun kaart-ID.",
     "CHAR_NOT_FOUND": "{{author}} Kon geen personage vinden met de naam `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Kon geen personage vinden met de naam `{{arg}}`\n\n```fix\nOpmerking: het gebruik van de vlag `-f` maakt de functie hoofdlettergevoelig!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Kon geen personage vinden met de naam `{{arg}}`\n```fix\nOpmerking: het gebruik van de vlag `-f` maakt de functie hoofdlettergevoelig!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "NORMAL_LABEL": "Version: 1",
     "FAN_PTS_LABEL": "Voeg Fan Punten Toe",

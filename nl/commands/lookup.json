@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "Met dit commando kunt u elk gewenst personage opzoeken. De gegenereerde embed toont u vervolgens de verschillende versies en Evenement varianten",
     "CHAR_NOT_FOUND": "{{author}} Kon geen personage vinden met de naam `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Kon geen personage vinden met de naam `{{arg}}`\n\n```fix\nOpmerking: het gebruik van de vlag `-f` maakt de functie hoofdlettergevoelig!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Kon geen personage vinden met de naam `{{arg}}`\n```fix\nOpmerking: het gebruik van de vlag `-f` maakt de functie hoofdlettergevoelig!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Ingezonden door** <@{{userID}}>",
     "EMBED_FOOTER": "U kunt nieuwe Versions indienen met behulp van de {{prefix}}sc commando",
