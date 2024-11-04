@@ -11,7 +11,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Saya memerlukan: `{{permissions}}` untuk menjalankan perintah ini",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Anda memerlukan: **{{permissions}}** untuk menggunakan perintah ini",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Tunggu **{{cooldown}}** sebelum menggunakan perintah lagi",
-    "REGISTER_USER": "­{{author}} Gunakan perintah `{{prefix}}register` dan kunjungi situs kami untuk memverifikasi diri Anda",
+    "REGISTER_USER": "­{{author}} Gunakan perintah `{{prefix}}register` untuk memverifikasi diri Anda dan mulai bermain",
     "USER_COMMAND_QUEUE": "{{author}} Selesaikan perintah `{{existsFor}}` sebelum melanjutkan",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Selesaikan perintah `{{existsFor}}` sebelum melanjutkan",
     "SAFE_MODE": "{{author}} **Sofi** saat ini dalam mode aman! ETA: **{{eta}}**\nKami mohon maaf atas ketidaknyamanan yang ditimbulkan oleh hal ini dan mohon kesabaran Anda!",

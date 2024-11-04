@@ -56,5 +56,9 @@
     "NOT_ENOUGH_ITEM_SELL": "Wala kang sapat na {{itemEmoji}} para ibenta",
     "TRADE_QUANTITY": "Bilang",
     "ORDER_PLACED_SUCCESSFULL": "Ang order ay matagumpay na nailagay",
-    "NO_MATCHING_ORDERS_FOUND": "Walang natagpuang katugmang order, ngunit ang order ay nailista sa merkado"
+    "NO_MATCHING_ORDERS_FOUND": "Walang natagpuang katugmang order, ngunit ang order ay nailista sa merkado",
+    "TRADE_BUY_MARKET_EMBED_AUTHOR": "Order ng Pagbili sa Merkado",
+    "TRADE_BUY_LIMIT_EMBED_AUTHOR": "Limitasyon sa Pagbibili ng Order",
+    "TRADE_SELL_LIMIT_EMBED_AUTHOR": "Limitasyon sa Pagbebenta ng Order",
+    "TRADE_SELL_MARKET_EMBED_AUTHOR": "Order ng Pagbebenta sa Merkado"
 }

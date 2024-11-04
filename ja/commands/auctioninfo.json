@@ -7,7 +7,7 @@
     "BID_MODAL_LABEL": "入札額",
     "BID_MODAL_TITLE": "オークションに入札する",
     "BID_MODAL_PLACEHOLDER": "入札額を入力してください",
-    "INVALID_BID_AMOUNT": "{{author}} 入札額は数字で入力してください!",
+    "INVALID_BID_AMOUNT": "{{author}} 入札額は数字で入力してください",
     "POSITIVE_NUMBER": "{{author}} 入札額は正の数で入力してください",
     "MINIMUM_AMOUNT": "{{author}} このオークションには最低**{{amount}}** {{currencyEmoji}}の入札が必要です",
     "AUCTION_NOT_FOUND": "{{author}}そのオークションが見つかりませんでした",

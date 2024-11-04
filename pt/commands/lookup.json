@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "Com este comando você pode procurar qualquer personagem que você queira. A incorporação gerada mostrará então a versão diferente, assim como as variantes de Evento",
     "CHAR_NOT_FOUND": "{{author}} Não foi possível encontrar nenhum personagem com o nome `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Não foi possível encontrar nenhum personagem com o nome `{{arg}}`\n\n```fix\nNota: Usar o sinalizador `-f` torna a função sensível a maiúsculas e minúsculas!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Não foi possível encontrar nenhum personagem com o nome `{{arg}}`\n```fix\nNota: Usar o sinalizador `-f` torna a função sensível a maiúsculas e minúsculas!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "Enviado por: <@{{userID}}>",
     "EMBED_FOOTER": "Você pode enviar novas versões usando o comando {{prefix}}sc",
@@ -16,5 +16,7 @@
     "EVENT": "Evento",
     "UPCOMING_EVENT": "Próximo Evento",
     "NO_OWNER_FOUND": "Ninguém possui uma variante **2D** deste personagem ainda",
-    "LOOKUP_CREDITS": "**Créditos**: {{credits}}"
+    "LOOKUP_CREDITS": "**Créditos**: {{credits}}",
+    "LU_V1_CIRCULATED": "V1 circulada",
+    "LU_FUSED_UNFUSED": "**Fundido / Não Fundido**"
 }

@@ -15,7 +15,7 @@
     "GLOBAL_COOLDOWN": "{{author}} [`Global`] Vui lòng chờ **{{cooldown}}** trước khi sử dụng thêm bất kỳ lệnh nào",
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Tôi cần: `{{permissions}}` để thực hiện lệnh này",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Bạn cần quyền **{{permissions}}** để sử dụng lệnh này",
-    "REGISTER_USER": "{{author}} Sử dụng lệnh `{{prefix}}register` và truy cập vào trang web của chúng tôi để xác minh thông tin của bạn",
+    "REGISTER_USER": "{{author}} Hãy sử dụng lệnh `{{prefix}}register` để xác minh thông tin và bắt đầu chơi",
     "USER_COMMAND_QUEUE": "{{author}} Hoàn thành lệnh `{{existsFor}}` trước khi tiếp tục",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Hoàn thành lệnh `{{existsFor}}` trước khi tiếp tục",
     "SAFE_MODE": "{{author}} **Sofi** hiện đang ở chế độ an toàn! Thời gian dự kiến hoàn thành (ETA): **{{eta}}**\nChúng tôi xin lỗi vì sự bất tiện này và mong bạn thông cảm!",
