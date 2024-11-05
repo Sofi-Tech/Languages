@@ -67,10 +67,10 @@
     "DURATION_zero": "Tagal: {{count}} oras",
     "CARD_INVALID": "Ang kard na may code na **{{code}}** ay maaaring hindi tama o wala sa iyong koleksyon",
     "REWARDS_LINE": "*Makakatanggap ka ng {{reward}} sa katapusan ng buwan kung mayroon kang {{points}} na Task Points*",
-    "EMBED_TITLE_few": "Mga Task ({{count}} Point)",
+    "EMBED_TITLE_few": "Task ({{count}} Point)",
     "EMBED_TITLE_one": "Task ({{count}} Point)",
-    "EMBED_TITLE_two": "Mga Task ({{count}} Point)",
-    "EMBED_TITLE_other": "Mga Task ({{count}} Points)",
-    "EMBED_TITLE_zero": "Mga Task ({{count}} Points)",
-    "EMBED_TITLE_many": "Mga Task ({{count}} Points)"
+    "EMBED_TITLE_two": "Task ({{count}} Point)",
+    "EMBED_TITLE_other": "Task ({{count}} Points)",
+    "EMBED_TITLE_zero": "Task ({{count}} Points)",
+    "EMBED_TITLE_many": "Task ({{count}} Points)"
 }
