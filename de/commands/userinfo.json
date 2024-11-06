@@ -46,5 +46,6 @@
     "UI_TP_EXPIRED": "Abgelaufen",
     "LANG_CHANGE_SUCCESS": "{{author}} Deine Sprache wurde erfolgreich zu **{{language}}** geändert! Bitte beachte das sich unser Übersetzungsupdate noch in der frühen Phase der Entwicklung befindet und noch nicht alle unsere existierenden Befehle abdeckt!\n\nUnübersetzte Befehle beinhalten:\n\n- **Deck**\n- **Stats**\n- **Event**\n\nSolltest du bei der Verwendung der Sprache auf fehlerhafte Übersetzungen, Einbettungen, Funktionen oder fehlenden Text stoßen, bitten wir dich diese Probleme zu melden indem du den Befehl `{{prefix}}lrt <Input>` verwendest. Alternativ kannst du deinen Fund in unserem [Offiziellen Support Server](<https://discord.gg/sofi>) melden!",
     "UI_INVITED": "Eingeladen",
-    "CHOOSE_LANGUAGE_PLACEHOLDER": "Wähle deine Sprache"
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Wähle deine Sprache",
+    "UI_RAIDS": "Raids"
 }

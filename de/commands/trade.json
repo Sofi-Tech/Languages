@@ -7,5 +7,7 @@
     "TRADE_CATEGORY": "Karten",
     "INSTANT_ORDER_MODAL_PLACEHOLDER": "z.B. 100 Wists",
     "DELETE_MODAL_PLACEHOLDER": "z.B. 1",
-    "LIMIT_ORDER_MODAL_PLACEHOLDER": "z.B. 100-9 | Wist-Rate"
+    "LIMIT_ORDER_MODAL_PLACEHOLDER": "z.B. 100-9 | Wist-Rate",
+    "INSTANT_ORDER_MODAL_LABEL": "Gebe die Menge ein:",
+    "LIMIT_ORDER_MODAL_LABEL": "Gebe die Menge und den Preis ein:"
 }

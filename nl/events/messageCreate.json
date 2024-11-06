@@ -11,7 +11,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Ik heb de volgende machtigingen nodig: `{{permissions}}` om dit commando uit te voeren",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} U heeft toestemming nodig **{{permissions}}** om deze opdracht te gebruiken",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Wacht voor **{{cooldown}}** voor u dit commando weer gebruikt",
-    "REGISTER_USER": "{{author}} Gebruik het commando `{{prefix}}register` en bezoek onze website om uwzelf te verifiëren",
+    "REGISTER_USER": "{{author}} Gebruik alstublieft de `{{prefix}}register` opdracht om jezelf te verifiëren en te beginnen met spelen",
     "USER_COMMAND_QUEUE": "{{author}} Compleet de `{{existsFor}}` commando voordat u verder gaat",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Compleet de `{{existsFor}}` commando voordat u verder gaat",
     "SAFE_MODE": "{{author}} **Sofi** is momenteel in veilige modus! ETA: **{{eta}}**\nWe verontschuldigen ons voor het ongemak en vragen om uw geduld!",

@@ -57,5 +57,8 @@
     "DELETE_MODAL_PLACEHOLDER": "ex. 1",
     "DELETE_MODAL_LABEL": "Entrez le numéro de commande:",
     "TRADE_DESCRIPTION": "Utilisez cette commande pour échanger des Wists et des Gems instantanément au taux actuel, ou définissez votre propre taux pour créer une commande qui se réalisera lorsqu'il sera égal.",
-    "ORDER_NOTE_INFO": "- __{{flag}} maintenant__ - Il sera exécuté immédiatement au meilleur taux disponible, sinon il sera annulé. \n- __Commande__ - Elle sera exécutée une fois que le taux que vous avez choisi sera disponible. Le coût sera déduit à l'avance. \nQuand vous passez une commande, les items seront immédiatement déduits. Pour supprimer une commande existante, allez dans \"Mes Commandes\"."
+    "ORDER_NOTE_INFO": "- __{{flag}} maintenant__ - Il sera exécuté immédiatement au meilleur taux disponible, sinon il sera annulé. \n- __Commande__ - Elle sera exécutée une fois que le taux que vous avez choisi sera disponible. Le coût sera déduit à l'avance. \nQuand vous passez une commande, les items seront immédiatement déduits. Pour supprimer une commande existante, allez dans \"Mes Commandes\".",
+    "TRADE_SELL_LIMIT_EMBED_AUTHOR": "Limite De Vente",
+    "TRADE_BUY_LIMIT_EMBED_AUTHOR": "Limite D'Achat",
+    "TRADE_LOGS": "__**Logs D'Echanges**__"
 }

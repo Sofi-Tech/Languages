@@ -7,6 +7,6 @@
     "NO_CARDS_CLAIMED": "{{author}} Você ainda não tem nenhum carta em sua coleção",
     "INVALID_CARD_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
     "SUCCESSFUL_TAG": "{{author}} A carta **{{card}}** foi incluída na `{{tag}}` com sucesso",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas as cartas foram entiquetadas com sucesso",
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas as cartas foram etiquetadas com sucesso",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Os seguinte códigos de cartas são inválidos ou não estão na sua coleção:\n{{arg}}"
 }

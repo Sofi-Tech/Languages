@@ -46,5 +46,6 @@
     "UI_BLACKLISTED": "Zwarte lijst",
     "USER_BLACKLISTED": "{{author}} Die gebruiker staat op de zwarte lijst",
     "LANG_CHANGE_SUCCESS": "{{author}} Uw taal is succesvol gewijzigd naar **{{language}}**! Houd er rekening mee dat onze vertalingsupdate zich nog in de beginfase van de ontwikkeling bevindt en nog niet al onze bestaande opdrachten omvat!\n\nOnvertaalde opdrachten zijn onder meer:\n\n- **Deck**\n- **Stats**\n- **Event**\n\nAls u tijdens het gebruik van deze taal ontbrekende tekst, foutieve vertalingen of defecte insluitingen en functies aantreft, raden we u aan deze problemen te melden met behulp van de opdracht `{{prefix}}lrt <Input>`. Als alternatief kunt u uw bevindingen rapporteren op onze [Officieel Support Server](<https://discord.gg/sofi>)!",
-    "CHOOSE_LANGUAGE_PLACEHOLDER": "Kies uw taal"
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Kies uw taal",
+    "UI_RAIDS": "Raids"
 }

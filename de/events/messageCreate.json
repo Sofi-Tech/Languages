@@ -11,7 +11,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Ich benötige: ` {{permissions}}`, um diesen Befehl auszuführen",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Du benötigst **{{permissions}}** Berechtigungen um diesen Befehl benutzen zu können",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bitte warte **{{cooldown}}** bevor du diesen Befehl erneut verwendest",
-    "REGISTER_USER": "{{author}} Verwende den Befehl `{{prefix}}register` und besuche unsere Webseite um dich zu verifizieren",
+    "REGISTER_USER": "{{author}} Bitte verwende den Befehl `{{prefix}}register`, um sich zu verifizieren und mit dem Spielen zu beginnen",
     "USER_COMMAND_QUEUE": "{{author}} Beende den `{{existsFor}}` Befehl, bevor du fortfährst",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Beende den `{{existsFor}}` Befehl, bevor du fortfährst",
     "SAFE_MODE": "{{author}} **Sofi** befindet sich im abgesicherten Modus! Geschätzte Dauer: **{{eta}}**\nWir entschuldigen uns für die Unannehmlichkeiten und bitten dich um Geduld!",
