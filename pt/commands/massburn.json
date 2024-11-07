@@ -1,7 +1,7 @@
 {
     "MASSBURN_DESCRIPTION": "Use este comando para queimar várias cartas de uma vez. Adicionando filtros Gen/Tag/Wishlist, você pode especificar quais cards deseja queimar",
     "IN_ACTIVE_MB": "{{user}} Você não pode iniciar um novo **Massburn** enquanto um antigo ainda estiver ativo",
-    "PROVIDE_FILTERS": "{{author}} Uso correto: `{{prefix}}mb <Filters>`\n```fix\nNota: Especifique quais cartas você deseja queimar aplicando filtros de Gen/Tag/Wishlist . Você pode achar a lista de filtros utilizando o comando \"{{prefix}}help filters\"\n```",
+    "PROVIDE_FILTERS": "{{author}} Uso correto: `{{prefix}}mb <Filters>`\n```fix\nNota: Especifique quais cartas você deseja queimar aplicando filtros de Gen/Tag/Wishlist. Você pode achar a lista de filtros utilizando o comando \"{{prefix}}help filters\"\n```",
     "WRONG_TAG": "{{author}} Não foi possível encontrar nenhuma tag com o nome `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta que corresponda aos seus critérios de pesquisa\n```fix\nNota: cartas bloqueadas, cartas GIF ou que estão sendo usadas em um baralho não podem ser queimadas\n```",
     "CARDS_BURNED": "__Cartas Selecionadas [ {{totalCards}} ]__",
