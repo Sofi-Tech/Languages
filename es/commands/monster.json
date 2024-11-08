@@ -12,14 +12,14 @@
     "NO_PLAYERS_FOUND": "No se encontraron jugadores",
     "CATALOGUE_EMBED_TITLE": "__Catálogo de Monstruos__",
     "MONSTER_DEFEATED_zero": "**Derrotado:** {{count}} veces",
-    "MONSTER_DESCRIPTION": "Usa este comando para mostrar una lista de todos los jefes disponibles, usa el comando\"{{prefix}}monster <Nombre>\" para obtener más detalles",
+    "MONSTER_DESCRIPTION": "Usa este comando para mostrar catálogo de todos los jefes disponibles, usa el comando \"{{prefix}}monster <NombreDelMonstruo>\" para obtener más detalles",
     "MONSTER_TOP_DEFEATERS": "__**Top De Vencedores**__",
     "MONSTER_LAST_SPAWNED": "apareció por ultima vez el {{date}} y es",
     "NO_RESULTS_FOUND": "{{author}} No se pudo encontrar a ese monstruo",
-    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} se have invocado **{{spawnCount}}** veces",
-    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} se have invocado **{{spawnCount}}** veces",
-    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} se have invocado **{{spawnCount}}** vez",
-    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} se have invocado **{{spawnCount}}** veces",
-    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} se have invocado **{{spawnCount}}** veces",
-    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} se have invocado **{{spawnCount}}** veces"
+    "MONSTER_BOSS_SPAWNED_few": "{{bossName}} ha sido invocado **{{count}}** veces",
+    "MONSTER_BOSS_SPAWNED_two": "{{bossName}} ha sido invocado **{{count}}** veces",
+    "MONSTER_BOSS_SPAWNED_one": "{{bossName}} ha sido invocado **{{count}}** vez",
+    "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} ha sido invocado **{{count}}** veces",
+    "MONSTER_BOSS_SPAWNED_many": "{{bossName}} ha sido invocado **{{count}}** veces",
+    "MONSTER_BOSS_SPAWNED_other": "{{bossName}} ha sido invocado **{{count}}** veces"
 }

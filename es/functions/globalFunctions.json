@@ -15,5 +15,5 @@
     "SOMETHING_WENT_WRONG": "{{author}} Algo salió mal! Cualquier ítem deducido se volvió a agregar a tu inventario",
     "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Has comprado con éxito **{{amount}}** **{{itemName}}**",
     "GS_EMBED_FOOTER": "Este anuncio expirará en {{date}}",
-    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Se ha comprado**{{amount}}** **{{layerName}}** **{{itemName}}** con éxito"
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Comprados **{{amount}}** **{{layerName}}** **{{itemName}}** con éxito"
 }

@@ -11,7 +11,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Sofi requiere el permiso `{{permissions}}` para ejecutar este comando",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Necesitas los permisos `{{permissions}}` para usar ese comando",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Espera **{{cooldown}}** antes de usar este comando otra vez",
-    "REGISTER_USER": "{{author}} Usa el comando `{{prefix}}register` y accede al sitio para verificar tu cuenta",
+    "REGISTER_USER": "{{author}} Por favor usa el comando `{{prefix}}register` y accede al sitio para verificar tu cuenta",
     "USER_COMMAND_QUEUE": "{{author}} Completa el comando `{{existsFor}}` antes de proceder",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Completa el comando `{{existsFor}}` antes de continuar",
     "SAFE_MODE": "{{author}} **Sofi** está actualmente en modo seguro! ETA: **{{eta}}**\nPedimos disculpas por cualquier inconveniente causado por esto y te pedimos paciencia!",
