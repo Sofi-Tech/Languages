@@ -3,7 +3,7 @@
     "IN_ACTIVE_MB": "{{user}} du kannst keinen neuen **Massburn** starten, während ein Anderer noch aktiv ist",
     "PROVIDE_FILTERS": "{{author}} Korrekte Verwendung: `{{prefix}}mb <Filters>`\n```fix\nBeachte: Lege fest, welche Karten du verbrennen möchtest, indem du Gen/Tag/Wishlist-Filter anwendest. Du kannst eine ausführliche Liste von Filtern finden, indem du den Befehl \"{{prefix}}help filters\" verwendest\n```",
     "WRONG_TAG": "{{author}} Es konnte kein Tag mit dem Namen `{{arg}}`gefunden werden",
-    "NO_CARDS_FOUND": "{{author}} Es konnten keine Karten gefunden werden, die deinen Suchkriterien entsprechen\n``fix\nBeachte: Karten, die gesperrt sind, eine GIF-Variante sind oder in einem Deck verwendet werden, können nicht verbrannt werden\n```",
+    "NO_CARDS_FOUND": "{{author}} Es konnten keine Karten gefunden werden, die deinen Suchkriterien entsprechen\n```fix\nBeachte: Karten, die gesperrt sind, eine GIF-Variante sind oder in einem Deck verwendet werden, können nicht verbrannt werden\n```",
     "CARDS_BURNED": "__Ausgewählte Karten [ {{totalCards}} ]__",
     "CONFIRM_ASK": "{{author}} Bist du sicher, dass du diese Karten __unwiderruflich__ verbrennen möchtest?",
     "MISSING_CARDS": "{{author}} Mindestens eine der ausgewählten Karten befindet sich nicht länger in deiner Sammlung",
