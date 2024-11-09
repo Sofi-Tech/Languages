@@ -148,7 +148,7 @@
     "BANNER_MODAL_PLACEHOLDER": "Beispiel: https://media.discord/someurl.png",
     "SLOT_UNLOCKED": "Gilden Mitglieder Platz freigeschaltet 🔓:\n\n+1 Mitglieds Platz",
     "BOOST_MODAL_LABEL": "Gebe die Anzahl an Cubes ein:",
-    "ITEM_EMBED_DESCRIPTION": "Die Items die in deinem Tresor gesammelt werden können zum herstellen verschiedener Gegenstände benutzt werden.\nRessourcen werden direkt vom Tresor verbraucht.\nDie hergestellten Gegenstände werden direkt in dein Inventar übertragen.\nBerechtigungsstufe kann von **Founders** und **Guildmasters** eingestellt werden.\nGlobale **Guild Packages** Zählung: {{packageCount}}/300\nBerechtigungsstufe: **{{permLevel}}**\nHerstellungszeit\nHerstellungspreis",
+    "ITEM_EMBED_DESCRIPTION": "Die Items, die in deinem Tresor gesammelt werden, können zum herstellen verschiedener Gegenstände benutzt werden.\nRessourcen werden direkt vom Tresor verbraucht.\nDie hergestellten Gegenstände werden direkt in dein Inventar übertragen.\nBerechtigungsstufe kann von **Founders** und **Guildmasters** eingestellt werden.\n\nGlobale **Guild Packages** Anzahl: {{packageCount}}/300\nBerechtigungsstufe: **{{permLevel}}**\nHerstellungszeit\nHerstellungspreis",
     "BOOST_BUTTON_LABEL": "Boost",
     "BOOST_LEVEL_MAX": "> Das Boost Level hat bereits das Maximum erreicht",
     "BOOST_EMBED_FOOTER": "Du kannst die Werte die geboostet werden sollen im Menü ändern",
