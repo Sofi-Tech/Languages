@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "Kan uw laatste kaart niet vinden. Probeer een kaartcode op te geven",
     "INVALID_CARD_CODE": "{{author}} De kaartcode die u heeft opgegeven is ofwel ongeldig of niet in uw collectie",
     "CARD_GLOWED": "**{{isSuper}}Glow** toegepast: **{{glowName}} ** (`#{{viewCode}}`)\n",
-    "CARD_FONT": "**Letterkleur:**\n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Naam -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Serie -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
+    "CARD_FONT": "**Letterkleur:**\n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Naam -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Series -** `{{seriesColorName}}` | `{{seriesColorCode}}`\n",
     "CARD_FRAMED": "**Frame** toegepast: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** toegepast: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Toon Gen",

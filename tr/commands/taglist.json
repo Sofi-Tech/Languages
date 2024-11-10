@@ -6,8 +6,8 @@
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "SOFI_FACT": "Kilitli bir etiket yakılamaz veya takas edilemez",
     "EMBED_FOOTER": "Toplam: {{total}} | Kilitli: {{locked}}",
-    "CARD_two": "{{count}} kartlar",
-    "CARD_few": "{{count}} kartlar",
+    "CARD_two": "{{count}} kart",
+    "CARD_few": "{{count}} kart",
     "LOCK_MENU_PLACEHOLDER": "Kilitlemek/kilidini açmak için bir etiket seçin",
     "LOCKED_TAG_zero": "🔒 Kilitli {{count}} etiket",
     "LOCKED_TAG_one": "🔒 {{count}} Etiket kilitlendi",
@@ -21,9 +21,9 @@
     "UNLOCKED_TAG_many": "🔓 {{count}} Etiketin kilidi açıldı",
     "UNLOCKED_TAG_other": "🔓 {{count}} etiketin kilidi açıldı",
     "CARD_one": "{{count}} kart",
-    "CARD_other": "{{count}} kartlar",
+    "CARD_other": "{{count}} kart",
     "CARD_zero": "{{count}} kart",
-    "CARD_many": "{{count}} kartlar",
+    "CARD_many": "{{count}} kart",
     "NO_TAGS_SELF": "{{author}} Henüz herhangi bir etiketiniz yok. Etiket oluşturmak için `{{prefix}}tc <Etiketİsmi> <Emoji>` komutunu kullanın",
     "UNLOCKED_TAG_zero": "🔓 {{count}} etiketin kilidi açıldı"
 }

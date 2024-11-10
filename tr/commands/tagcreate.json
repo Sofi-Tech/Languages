@@ -6,6 +6,6 @@
     "INVALID_TAGNAME_FORMAT": "{{author}} Etiket adınız alfanümerik olmalı ve özel karakterler, boşluklar veya herhangi bir şekilde uygunsuz ifadeler içermemelidir",
     "LONG_TAGNAME": "{{author}} Etiketinizin adı en fazla **20** karakterden oluşabilir",
     "TAGNAME_EXISTS": "{{author}} Zaten \"{{tag}}\" adında bir etiketiniz var",
-    "TAG_CREATED": "{{author}}, \"{{tag}}\"| {{emoji}} adındaki etiket başarıyla oluşturuldu",
+    "TAG_CREATED": "{{author}} `{{tag}}`| {{emoji}} adında etiket başarıyla oluşturuldu",
     "TC_MAX_TAGS": "{{author}} Oluşturabileceğin maksimum etiket limitine ulaştın"
 }

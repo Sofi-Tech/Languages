@@ -17,7 +17,7 @@
     "TRANSFER_SUCCESS": "{{author}} Hat die Gilde verlassen und neuer **Gründer** ist <@{{userId}}>",
     "GUILD_LEAVE_CANCEL": "{{author}} Hat sich entschieden die Gilde nicht zu verlassen",
     "GUILD_DELETE_SUCCESS": "Die Gilde wurde erfolgreich gelöscht",
-    "PERMANENT_DELETE_CANCEL": "🗑️: Entgültig die Gilde löschen\n❌: Breche alles ab und bleibe in deiner Gilde",
+    "PERMANENT_DELETE_CANCEL": "🗑️: Lösche die Gilde endgültig\n❌: Breche alles ab und bleibe in deiner Gilde",
     "GUILD_LEAVE_CONFIRM": "Bist du dir sicher das du {{guildName}} Gilde verlassen möchtest?\n\nGilden zu verlassen ist häufig nicht erlaubt.\nDu wirst erst wieder in 48 Stunden einer Gilde beitreten können.",
     "GD_EMBED_DESCRIPTION": "Du bist dabei die **{{guildName}}** Gilde zu löschen.\nDort sind **{{size}} Mitglieder** in deiner Gilde.\nDie Gilde ist Level **{{level}}**.\nDer ganze Fortschritt und die Ressourcen im Tresor gehen verloren.\nDieser Prozess ist unwiderruflich.\n\nBist du dir sicher das du die Gilde löschen möchtest?"
 }
