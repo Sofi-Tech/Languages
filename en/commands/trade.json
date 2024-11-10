@@ -49,6 +49,7 @@
   "BUY_LIMIT_TRADE_CONFIRMATION": "You will be buying {{totalStock}} <:wist:870339503427027005> for {{price}} <:gemgame:862598030562033694>",
   "SELL_LIMIT_TRADE_CONFIRMATION": "You will be selling {{totalStock}} <:wist:870339503427027005> for {{price}} <:gemgame:862598030562033694>",
   "TRADE_CANCELLED": "The process has been cancelled",
+  "ALREADY_ACTIVE_ORDER": "You already have an active order. Please wait for the order to finish",
   "NOT_ENOUGH_ITEM_SELL": "You do not have enough {{itemEmoji}} to sell",
   "NOT_ENOUGH_ITEM_BUY": "You do not have enough {{itemEmoji}} to buy",
   "TRADE_BUY_MARKET_EMBED_AUTHOR": "Buy Market Order",
