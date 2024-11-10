@@ -35,5 +35,6 @@
     "RESET_COLOR_MODAL_TITLE": "Farbe zurücksetzen",
     "RESET_COLOR_MODAL_LABEL": "Bist du sicher?",
     "RESET_FONT_SUCCESS": "Die Schriftart wurde zurückgesetzt",
-    "RESET_ALL_DEFAULT": "Die Schriftart und Farbe sind bereits Standard"
+    "RESET_ALL_DEFAULT": "Die Schriftart und Farbe sind bereits Standard",
+    "NOT_CARD_OWNER": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung"
 }

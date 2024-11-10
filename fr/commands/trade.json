@@ -60,5 +60,6 @@
     "ORDER_NOTE_INFO": "- __{{flag}} maintenant__ - Il sera exécuté immédiatement au meilleur taux disponible, sinon il sera annulé. \n- __Commande__ - Elle sera exécutée une fois que le taux que vous avez choisi sera disponible. Le coût sera déduit à l'avance. \nQuand vous passez une commande, les items seront immédiatement déduits. Pour supprimer une commande existante, allez dans \"Mes Commandes\".",
     "TRADE_SELL_LIMIT_EMBED_AUTHOR": "Limite De Vente",
     "TRADE_BUY_LIMIT_EMBED_AUTHOR": "Limite D'Achat",
-    "TRADE_LOGS": "__**Logs D'Echanges**__"
+    "TRADE_LOGS": "__**Logs D'Echanges**__",
+    "ALREADY_ACTIVE_ORDER": "Vous avez déjà une commande en cours. Veuillez attendre que la commande se termine"
 }
