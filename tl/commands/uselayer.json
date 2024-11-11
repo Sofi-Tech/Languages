@@ -8,6 +8,6 @@
     "USE_LAYER_SUCCESSFUL": "{{author}} Matagumpay na nailapat ang **{{name}}** **Layer** sa iyong card",
     "NO_LAYER_FOUND": "{{author}} Hindi mahanap ang **Layer** na may ID `{{layerId}}`",
     "USELAYER_DESCRIPTION": "Ang command na ito ay maglalapat ng napiling Layer sa isang card na iyong pinili. Maaari kang bumili ng mga Layer sa pamamagitan ng paggamit ng \"{{prefix}}layershop\" na command",
-    "CARD_INVALID": "{{author}} Ang kard code na iyong binigay ay maaaring hindi tama o wala sa iyong koleksyon",
+    "CARD_INVALID": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "UL_EMBED_FOOTER": "Ang pagkumpirma sa prosesong ito ay sisira sa kasalukuyang nakalapat na Layer"
 }
