@@ -60,5 +60,6 @@
     "TRADE_QUANTITY": "Количество",
     "TRADE_CANCELLED": "Процесс отменен",
     "NOT_ENOUGH_ITEM_SELL": "У вас недостаточно {{itemEmoji}} для продажи",
-    "NOT_ENOUGH_ITEM_BUY": "У вас недостаточно {{itemEmoji}} для покупки"
+    "NOT_ENOUGH_ITEM_BUY": "У вас недостаточно {{itemEmoji}} для покупки",
+    "ALREADY_ACTIVE_ORDER": "У вас уже есть активный заказ. Пожалуйста, дождитесь выполнения размещенного ранее заказа"
 }

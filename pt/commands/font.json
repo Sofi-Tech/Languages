@@ -35,5 +35,6 @@
     "RESET_ALL_SUCCESS": "O estilo e a cor da fonte foram redefinidos",
     "RESET_FONT_MODAL_TITLE": "Redefinir fonte",
     "RESET_COLOR_MODAL_LABEL": "Tem certeza?",
-    "RESET_ALL_DEFAULT": "O estilo e a cor da fonte já são padrões"
+    "RESET_ALL_DEFAULT": "O estilo e a cor da fonte já são padrões",
+    "NOT_CARD_OWNER": "{{author}} O código da carta que você forneceu é inválido ou não está em sua coleção"
 }
