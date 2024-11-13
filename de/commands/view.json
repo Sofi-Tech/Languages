@@ -11,5 +11,6 @@
     "EMBED_TITLE": "SOFI: VIEW",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` – Effektivität **({{percentage}}%)**",
     "SPECIAL": "Spezial",
-    "INFO_BUTTON_LABEL": "Info"
+    "INFO_BUTTON_LABEL": "Info",
+    "BASE_STAT_FOOTER": "Gesamte Basis Statuswerte  •  {{totalBaseStat}}"
 }

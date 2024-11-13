@@ -1,7 +1,7 @@
 {
     "MASSBURN_DESCRIPTION": "Gunakan perintah ini untuk membakar beberapa kartu sekaligus. Dengan menambahkan filter Gen/Tag/Wishlist, Anda dapat menentukan kartu mana yang ingin anda bakar",
     "IN_ACTIVE_MB": "{{user}} Anda tidak dapat memulai **Massburn** baru saat yang lama masih aktif",
-    "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filters>`\n\n```fix\nCatatan: Tentukan kartu mana yang ingin anda bakar dengan menerapkan filter Gen/Tag/Daftar Keinginan. Anda dapat menemukan daftar lengkap filter dengan menggunakan perintah \"{{prefix}}help filter\".\n```",
+    "PROVIDE_FILTERS": "{{author}} Penggunaan yang benar: `{{prefix}}mb <Filters>`\n```fix\nCatatan: Tentukan kartu mana yang ingin anda bakar dengan menerapkan filter Gen/Tag/Daftar Keinginan. Anda dapat menemukan daftar lengkap filter dengan menggunakan perintah \"{{prefix}}help filter\".\n```",
     "WRONG_TAG": "{{author}} Tidak dapat menemukan tag dengan nama `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} Tidak dapat menemukan kartu yang sesuai dengan kriteria pencarian anda\n```fix\nCatatan: Kartu yang dikunci, varian GIF, atau digunakan dalam deck tidak dapat dibakar\n```",
     "CARDS_BURNED": "__Kartu yang dipilih [{{totalCards}}]__",
