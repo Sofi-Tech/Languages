@@ -11,5 +11,6 @@
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potensi **({{percentage}}%)**",
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "Special",
-    "INFO_BUTTON_LABEL": "Info"
+    "INFO_BUTTON_LABEL": "Info",
+    "BASE_STAT_FOOTER": "Base Status Total  •  {{totalBaseStat}}"
 }
