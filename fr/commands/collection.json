@@ -28,7 +28,7 @@
     "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur",
     "SORT_LEVEL": "Niveau",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
-    "TAG_MODAL_PLACEHOLDER": "Ajoutez plutôt un \"-\" pour supprimer en masse un tag",
+    "TAG_MODAL_PLACEHOLDER": "Utilisez \"-\" pour supprimer un tag en masse",
     "TAG_NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes avec le tag `{{arg}}`",
     "NO_RESULTS_OTHERS": "{{author}} Cet utilisateur n'a aucune carte dans sa collection",
     "MASSTAG_WRONG_TAG": "{{author}} Impossible de trouver un tag avec le nom `{{arg}}`",

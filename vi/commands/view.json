@@ -11,5 +11,6 @@
     "EMBED_TITLE": "SOFI: VIEW",
     "MOVES": "Khả năng",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Sức mạnh **({{percentage}}%)**",
-    "SPECIAL": "Đặc biệt"
+    "SPECIAL": "Đặc biệt",
+    "BASE_STAT_FOOTER": "Tổng Chỉ Số Cơ Bản   •   {{totalBaseStat}}"
 }

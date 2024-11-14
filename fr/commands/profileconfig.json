@@ -86,7 +86,7 @@
     "PBG_MODAL_LABEL": "Entrez l'ID du Profile Background",
     "PURHCASE_MODAL_TITLE": "Acheter le Profile Background",
     "PBG_MODAL_PLACEHOLDER": "ex. 101",
-    "MODAL_ERROR_RESPONSE": "Il y a eu une erreur lors de la recherche de réponse. Réessayer s'il vous plaît",
+    "MODAL_ERROR_RESPONSE": "Erreur lors de la recherche, réessayer",
     "NO_PBG_FOUND": "Aucun **Profile Background** avec l'ID `{{id}}` n'a été trouvé",
     "NO_ENOUGH_AMOUNT_PBG": "Vous n'avez pas assez de **{{currency}}** pour acheter ce **Profile Background**",
     "PURHCASE_SUCCESSFUL": "Achat avec succès du **Profile Background** **{{backgroundName}}**",

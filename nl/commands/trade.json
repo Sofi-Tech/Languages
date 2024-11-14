@@ -32,5 +32,14 @@
     "TRADE_PAGE_FOOTER": "Pagina tonen: {{page}}/{{pages}}",
     "TRADE_EMBED_FOOTER": "Totaal Bestellingen: {{orders}} | Laatst verhandelde prijs: {{ltp}}",
     "INSTANT_ORDER_MODAL_PLACEHOLDER": "bijv. 100 Wists",
-    "INVALID_ORDER_NUMBER": "Het bestelnummer dat u hebt opgegeven is ongeldig"
+    "INVALID_ORDER_NUMBER": "Het bestelnummer dat u hebt opgegeven is ongeldig",
+    "LIMIT_ORDER_MODAL_PLACEHOLDER": "e.g. 100-9 | Wist-Tarief",
+    "BUY_MARKET_TRADE_CONFIRMATION": "U koopt {{totalStock}} <:wist:870339503427027005> voor {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "BUY_LIMIT_TRADE_CONFIRMATION": "U zal {{totalStock}} <:wist:870339503427027005> kopen voor {{price}} <:gemgame:862598030562033694>",
+    "SELL_MARKET_TRADE_CONFIRMATION": "U verkoopt {{totalStock}} <:wist:870339503427027005> voor {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "TRADE_TOTAL": "Totaal",
+    "NO_MATCHING_ORDERS_FOUND": "Er werden geen overeenkomende bestellingen gevonden, maar de bestelling is geplaatst op de markt",
+    "ORDER_PLACED_SUCCESSFULL": "De bestelling is succesvol geplaatst",
+    "TRADE_QUANTITY": "Hoeveelheid",
+    "TRADE_PRICE": "Prijs"
 }

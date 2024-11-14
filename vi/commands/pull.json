@@ -6,7 +6,7 @@
     "INFO_2": "Mỗi nhân vật có tối đa **100** biến thể **GIF**",
     "INFO_3": "Đốt **Fragment** để nhận **Charm**",
     "RATES": "Tỷ lệ",
-    "GIFS": "GIFs",
+    "GIFS": "GIF",
     "PULLS": "SOFI: PULLS",
     "PULL_CHANCES": "**__Xác Suất__**",
     "MISSING_CURR": "{{user}} Bạn không có đủ **{{currName}}** để thực hiện quá trình này",
@@ -18,5 +18,6 @@
     "GIF_NOTE": "Mỗi nhân vật GIF có thể được nhận tối đa 100 lần",
     "PULL_DISABLED": "{{author}} Pull sẽ bị vô hiệu hoá cho tới khi GIF mới được ra mắt",
     "GEN1_CARD_DROPPED": "✨ Thẻ Gen 1 của nhân vật mà bạn là fan cứng vừa xuất hiện\n\n**Tên: {{name}}** \n**Bộ: {{series}}**",
-    "CLAIM_GEN1_CARD": "✨ Chúc mừng bạn đã nhận được một thẻ Gen 1 - `sv {{code}}` \n\n```fix \nGen một chữ số là cực kỳ hiếm và được rất nhiều người chơi săn lùng. Bản sao của các Gen này cũng cực kỳ hiếm\nHãy nghiên cứu kĩ giá trị của thẻ trước khi giao dịch và tham khảo ý kiến từ các fan cứng để đánh giá chính xác giá trị thực của nó.\n``` \n{{topFans}} \n**[Hướng dẫn về Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi"
+    "CLAIM_GEN1_CARD": "✨ Chúc mừng bạn đã nhận được một thẻ Gen 1 - `sv {{code}}` \n\n```fix \nThẻ Gen một chữ số là cực kỳ hiếm và được rất nhiều người chơi săn lùng. Bản sao của các Gen này cũng cực kỳ hiếm\nHãy tìm hiểu kĩ giá trị của thẻ trước khi giao dịch và tham khảo ý kiến từ các fan cứng để đánh giá chính xác giá trị thực của nó.\n``` \n{{topFans}} \n**[Hướng dẫn về Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
+    "TOP_FANS_INFO": "Những fan cứng của nhân vật này:\n{{topFans}}"
 }

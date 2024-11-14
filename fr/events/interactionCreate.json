@@ -18,5 +18,11 @@
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Votre inventaire contient une valeur négative! Veuillez contacter les Développeurs sur notre Serveur de support pour résoudre ce problème \ndiscord.gg/sofi",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Vous avez été mis sur liste noire pour avoir enfreint les règles de Sofi !__\n\n**Une liste des raisons possibles pouvant avoir causé cela:**\n```CSS\n- Interagir avec Sofi sur plusieurs comptes (Alting)\n- Vendre ou acheter des comptes Discord entiers\n- Arnaquer d'autres utilisateurs\n- Profiter ou être impliqué dans l'une des activités ci-dessus\n```\n\n:link: [Faites appel de votre mise sur liste noire](<https://sofi.gg/appeal>)\n:link: [Serveur De Support](https://discord.gg/sofi)",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** est actuellement en safe mode! Durée estimée: **{{eta}}**\nNous nous excusons pour tout inconvénient causé par cela et vous demandons de faire preuve de patience!",
-    "SUPPORT_BUTTON_LABEL": "Support"
+    "SUPPORT_BUTTON_LABEL": "Support",
+    "APPEAL_ACCEPTED_FOOTER": "Appel accepté par {{username}}",
+    "APPEAL_DENIED_FOOTER": "Appel rejeté par {{username}}",
+    "BANNER_SUBMISSION_ACCEPTED": "**Votre soumission de bannière avec le code **{{bannerCode}}** a été approuvée** \n- Lien: {{url}} \n> Une récompense de 3 Wists, 500 Silver et 500 Fan Points ont été ajoutée à votre inventaire",
+    "BANNER_SUBMISSION_REJECTED": "Votre soumission de bannière avec le code {{bannerCode}} a été rejetée. {{reason}} \n- Lien: {{url}}",
+    "IC_REASON": "Raison: {{reason}}",
+    "OUTBID_IN_AUCTION": "Vous avez été surenchéri lors de l'enchère pour le code [`{{code}}`]\n(<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Votre enchère - {{oldAmount}} {{oldItemEmoji}} | Nouvelle enchère - {{newAmount}} {{newItemEmoji}} \n\nL'enchère se termine dans {{time}}"
 }
