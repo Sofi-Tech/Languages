@@ -14,7 +14,7 @@
     "TRANSFER_GUILD_OWNERSHIP": "Du überschreibst die Eigentumsrechte deiner Gilde.\nBitte stelle die ID des Mitglieds bereit auf den du die Eigentumsrechte umschreiben willst.",
     "CANNOT_TRANSFER_YOURSELF": "Du kannst die Eigentumsrechte nicht auf dich selbst überschreiben",
     "TRANSFER_CONFIRM": "Bist du dir sicher das du die Eigentumsrechte der Gilde auf <@{{userId}}> umschreiben willst?",
-    "TRANSFER_SUCCESS": "{{author}} Hat die Gilde verlassen und neuer **Gründer** ist <@{{userId}}>",
+    "TRANSFER_SUCCESS": "{{author}} Hat die Gilde verlassen und neuer **Founder** ist <@{{userId}}>",
     "GUILD_LEAVE_CANCEL": "{{author}} Hat sich entschieden die Gilde nicht zu verlassen",
     "GUILD_DELETE_SUCCESS": "Die Gilde wurde erfolgreich gelöscht",
     "PERMANENT_DELETE_CANCEL": "🗑️: Lösche die Gilde endgültig\n❌: Breche alles ab und bleibe in deiner Gilde",
