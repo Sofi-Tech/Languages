@@ -16,5 +16,7 @@
     "GIFS_EMBED_TITLE": "SOFI: ANIMATED CARDS",
     "GIF_EMBED_FOOTER": "Bạn có 0.5% cơ hội nhận được một thẻ động từ việc rút.",
     "GIF_NOTE": "Mỗi nhân vật GIF có thể được nhận tối đa 100 lần",
-    "PULL_DISABLED": "{{author}} Pull sẽ bị vô hiệu hoá cho tới khi GIF mới được ra mắt"
+    "PULL_DISABLED": "{{author}} Pull sẽ bị vô hiệu hoá cho tới khi GIF mới được ra mắt",
+    "GEN1_CARD_DROPPED": "✨ Thẻ Gen 1 của nhân vật mà bạn là fan cứng vừa xuất hiện\n\n**Tên: {{name}}** \n**Bộ: {{series}}**",
+    "CLAIM_GEN1_CARD": "✨ Chúc mừng bạn đã nhận được một thẻ Gen 1 - `sv {{code}}` \n\n```fix \nGen một chữ số là cực kỳ hiếm và được rất nhiều người chơi săn lùng. Bản sao của các Gen này cũng cực kỳ hiếm\nHãy nghiên cứu kĩ giá trị của thẻ trước khi giao dịch và tham khảo ý kiến từ các fan cứng để đánh giá chính xác giá trị thực của nó.\n``` \n{{topFans}} \n**[Hướng dẫn về Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi"
 }

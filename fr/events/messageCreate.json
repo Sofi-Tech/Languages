@@ -21,5 +21,6 @@
     "SERIES_DROP": "Le vote est terminé!",
     "SERVER_BLACKLISTED": "{{author}} Le serveur est sur liste noire. Veuillez nous contacter sur discord.gg/sofi",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} La valeur de votre inventaire est négative. Veuillez nous contacter sur notre Serveur de Support \ndiscord.gg/sofi",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Vous avez été mis sur liste noire pour avoir enfreint les règles de Sofi !__\n\n**Une liste des raisons possibles pouvant avoir causé cela:**\n```CSS\n- Intéragir avec Sofi sur plusieurs comptes (Alting)\n- Vendre ou acheter des comptes Discord entiers\n- Arnaquer d'autres utilisateurs\n- Profiter ou être impliqué dans l'une des activités ci-dessus\n```\n\n:link: [Faites appel de votre liste noire](<https://sofi.gg/appeal>)\n:link: [Serveur de Support](https://discord.gg/sofi)"
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Vous avez été mis sur liste noire pour avoir enfreint les règles de Sofi !__\n\n**Une liste des raisons possibles pouvant avoir causé cela:**\n```CSS\n- Intéragir avec Sofi sur plusieurs comptes (Alting)\n- Vendre ou acheter des comptes Discord entiers\n- Arnaquer d'autres utilisateurs\n- Profiter ou être impliqué dans l'une des activités ci-dessus\n```\n\n:link: [Faites appel de votre liste noire](<https://sofi.gg/appeal>)\n:link: [Serveur de Support](https://discord.gg/sofi)",
+    "GIFT_MESSAGE": "On vous a offert {{plan}} par <@{{giftedBy}}> `{{giftedBy}}` sur Sofi\n\ndiscord.gg/sofi"
 }

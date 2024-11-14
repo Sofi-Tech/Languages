@@ -18,5 +18,7 @@
     "GIF_EMBED_FOOTER": "Mayroon kang 0.5% na tyansa para makakuha ng animated na kard mula sa mga pull.",
     "GIF_NOTE": "Ang bawat GIF ng karakter ay maaaring makuha hanggang sa 100 beses",
     "PULL_DISABLED": "{{author}} Ang Pulls ay hindi maaaring magamit hanggang hindi pa nailalabas ang mga bagong GIF",
-    "TOP_FANS_INFO": "Narito ang mga nangungunang tagahanga ng karakter na ito:\n{{topFans}}"
+    "TOP_FANS_INFO": "Narito ang mga nangungunang tagahanga ng karakter na ito:\n{{topFans}}",
+    "CLAIM_GEN1_CARD": "✨ Pagbati sa pagkuha ng Gen 1 na kard - `sv {{code}}` \n\n```fix \nAng mga single-digit Gen kard ay hindi karaniwan at labis na hinahangad ng mga manlalaro. Ang mga kaparehong Gen ng mga ito ay napaka bihira. \nSiguraduhing magsaliksik tungkol sa halaga ng kard bago makipagkalakalan, at ikonsidera na magkonsulta sa mga top fan upang matulungan ka na alamin ang totoong halaga nito.\n``` \n{{topFans}} \n**[Gen Guide](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
+    "GEN1_CARD_DROPPED": "✨ Isang Gen 1 na kard ng karakter na ikaw ay isang top fan ay nag-drop \n\n**Pangalan: {{name}}** \n**Serye: {{series}}**"
 }

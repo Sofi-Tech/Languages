@@ -18,5 +18,10 @@
     "COMMAND_BLACKLISTED": "{{author}} इस चैनल में `{{commandName}}` कमांड निषेध है",
     "CATEGORY_DISABLED": "{{author}} यह श्रेणी अक्षम कर दी गई है\nकारण: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} यह कमांड अक्षम कर दी गई है\nकारण: `{{reason}}`",
-    "SUPPORT_BUTTON_LABEL": "सहायता"
+    "SUPPORT_BUTTON_LABEL": "सहायता",
+    "APPEAL_DENIED_FOOTER": "{{username}} द्वारा अपील अस्वीकृत की गई",
+    "IC_REASON": "कारण: {{reason}}",
+    "BANNER_SUBMISSION_ACCEPTED": "** **{{bannerCode}}** कोड के साथ आपका बैनर सबमिशन स्वीकृत हो गया है**\n- लिंक: {{url}}\n> 3 wist, 500 silver और 500 प्रशंसक अंक का इनाम आपकी संग्रह में जोड़ दिया गया है",
+    "BANNER_SUBMISSION_REJECTED": "{{bannerCode}} कोड के साथ आपका बैनर सबमिशन अस्वीकार कर दिया गया है। {{reason}}\n- लिंक: {{url}}",
+    "APPEAL_ACCEPTED_FOOTER": "{{username}} द्वारा अपील स्वीकार की गई"
 }

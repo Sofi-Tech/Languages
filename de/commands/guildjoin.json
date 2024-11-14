@@ -14,5 +14,5 @@
     "GUILD_JOIN_REJECT": "{{member}} lehnte {{author}} ab als einen **Adventurer** in seiner Gilde",
     "NOT_FOUNDER": "{{author}} Dieser Nutzer ist kein **Founder** oder **Guildmaster** in der Gilde",
     "INVALID_USER": "{{author}} Der Nutzer konnte nicht gefunden werden",
-    "PROVIDE_USER": "{{author}} Erwähne einen **Founder** oder **Guildmaster**, frage nach dem Beitritt zu einer Gilde"
+    "PROVIDE_USER": "{{author}} Erwähne einen **Founder** oder **Guildmaster**, um eine Anfrage zum Beitritt zur Gilde zu stellen"
 }
