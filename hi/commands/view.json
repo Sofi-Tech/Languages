@@ -11,5 +11,6 @@
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - प्रभावशीलता **({{percentage}}%)**",
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "स्पेशल",
-    "INFO_BUTTON_LABEL": "जानकारी"
+    "INFO_BUTTON_LABEL": "जानकारी",
+    "BASE_STAT_FOOTER": "कुल बेस स्टेट  •  {{totalBaseStat}}"
 }

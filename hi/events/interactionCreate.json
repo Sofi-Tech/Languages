@@ -19,10 +19,10 @@
     "CATEGORY_DISABLED": "{{author}} यह श्रेणी अक्षम कर दी गई है\nकारण: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} यह कमांड अक्षम कर दी गई है\nकारण: `{{reason}}`",
     "SUPPORT_BUTTON_LABEL": "सहायता",
-    "APPEAL_DENIED_FOOTER": "{{username}} द्वारा अपील अस्वीकृत की गई",
+    "APPEAL_DENIED_FOOTER": "{{username}} द्वारा अपील अस्वीकारी गई",
     "IC_REASON": "कारण: {{reason}}",
     "BANNER_SUBMISSION_ACCEPTED": "** **{{bannerCode}}** कोड के साथ आपका बैनर सबमिशन स्वीकारा गया है**\n- लिंक: {{url}}\n> 3 Wists, 500 Silver और 500 Fan Points का इनाम आपकी संग्रह में जोड़ा गया है",
     "BANNER_SUBMISSION_REJECTED": "{{bannerCode}} कोड के साथ आपका बैनर सबमिशन अस्वीकारा गया है। {{reason}}\n- लिंक: {{url}}",
-    "APPEAL_ACCEPTED_FOOTER": "{{username}} द्वारा अपील स्वीकार की गई",
+    "APPEAL_ACCEPTED_FOOTER": "{{username}} द्वारा अपील स्वीकारी गई",
     "OUTBID_IN_AUCTION": "आप से ज्यादा बोली किसी ने लगाई है [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>)। आपकी बोली - {{oldAmount}}{{oldItemEmoji}} | नई बोली {{newAmount}}{{newItemEmoji}}\nनीलामी खत्म होगी {{time}} मे"
 }

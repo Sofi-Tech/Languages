@@ -7,11 +7,11 @@
     "EMBED_TITLE": "SOFI: 3D",
     "INVALID_CARD_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "3D_DESCRIPTION": "Thay đổi hình dạng của thẻ bằng cách chuyển thẻ sang phiên bản 3D. Quá trình này sẽ tiêu tốn Cube. Bạn có thể nhận Cube qua việc đốt thẻ, mở một số loại rương và nhiều cách khác",
-    "3D_NOTE": "Bạn đang chuẩn bị chuyển thẻ này sang dạng 3D. Quá trình này là vĩnh viễn và không thể hoàn tác. Mọi Frame đang gắn sẽ bị mất trong quá trình này. Thẻ 3D sẽ có Gen mới trùng với Gen cũ",
+    "3D_NOTE": "Bạn đang chuẩn bị chuyển thẻ này sang dạng 3D. Quá trình này sẽ không thể hoàn tác. Mọi Frame đang gắn sẽ bị mất trong quá trình này. Thẻ 3D sẽ có Gen mới trùng với Gen cũ",
     "EVENT_3D_NOTE": "Khi quá trình này được thực hiện vào lúc sự kiện đang diễn ra, những thẻ đủ điều kiện sẽ được chuyển sang phiên bản Event-3D thay vì bản 3D thông thường",
     "NO_CUBES": "{{author}} Bạn không có đủ **Cube** cho quá trình này",
     "UPGRADE_3D_CANCEL": "Quá trình này đã bị hủy bỏ",
-    "EVENT_NOTE": "Bạn đang chuẩn bị chuyển thẻ này sang dạng thẻ Event-3D. Quá trình này là vĩnh viễn và không thể hoàn tác. Mọi Frame đang gắn sẽ bị mất trong quá trình này. Thẻ 3D sẽ có Gen ẩn, bạn có thể cào Gen này sau khi sự kiện kết thúc thông qua website của chúng tôi",
-    "UPGRADED_3D": "{{author}} Thẻ của bạn đã được chuyển thành công sang phiên bản **3D**",
+    "EVENT_NOTE": "Bạn đang chuẩn bị chuyển thẻ này sang dạng thẻ Event-3D. Quá trình này sẽ không thể hoàn tác. Mọi Frame đang gắn sẽ bị mất trong quá trình này. Thẻ 3D sẽ có Gen ẩn, bạn có thể cào Gen này sau khi sự kiện kết thúc thông qua website của chúng tôi",
+    "UPGRADED_3D": "{{author}} Thẻ của bạn đã được chuyển thành công sang dạng **3D**",
     "NO_APRIL_FOOL": "{{author}} Bộ thẻ April Fool không thể chuyển đổi sang 3D"
 }

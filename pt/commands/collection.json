@@ -30,7 +30,7 @@
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Total de cartas: {{count}} {{sortedBy}}",
     "TAG_MODAL_LABEL": "Tag em Massa",
-    "TAG_MODAL_PLACEHOLDER": "Adicione \"-\" como prefixo no nome da tag para remover uma tag em massa em vez disso",
+    "TAG_MODAL_PLACEHOLDER": "Use \"-\" como prefixo no nome da tag para remover uma tag em massa",
     "TAG_MODAL_TITLE": "Insira uma tag",
     "TAG_NO_CARDS_FOUND": "{{author}} Não foi possível encontrar nenhuma carta com a tag `{{arg}}`",
     "MASSTAG_WRONG_TAG": "{{author}} Não foi possível encontrar nenhuma tag com o nome `{{arg}}`",

@@ -20,5 +20,6 @@
     "BID_SELECTION": "استخدم الأمر `{{prefix}}ai <Auction-ID>` أو اختر مزادًا نشطًا من القائمة أدناه",
     "BID_SUCCESSFUL": "{{author}} لقد قمت بنجاح بتقديم عرض بقيمة **{{amount}}** {{emoji}}",
     "SERIES": "- السلسلة :",
-    "NAME": "- الاسم :"
+    "NAME": "- الاسم :",
+    "AUCTION_ID_LABEL": "رقم تعريف الرهان {{id}}"
 }

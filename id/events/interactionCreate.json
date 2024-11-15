@@ -18,5 +18,11 @@
     "COMMAND_BLACKLISTED": "{{author}} Perintah `{{commandName}}` masuk ke daftar hitam di saluran ini",
     "CATEGORY_DISABLED": "{{author}} Kategori ini telah dinonaktifkan\nAlasan: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Perintah ini telah dinonaktifkan\nAlasan: `{{reason}}`",
-    "SUPPORT_BUTTON_LABEL": "Bantuan"
+    "SUPPORT_BUTTON_LABEL": "Bantuan",
+    "APPEAL_ACCEPTED_FOOTER": "Banding diterima oleh {{username}}",
+    "APPEAL_DENIED_FOOTER": "Banding ditolak oleh {{username}}",
+    "IC_REASON": "Alasan: {{reason}}",
+    "BANNER_SUBMISSION_REJECTED": "Pengajuan banner Anda dengan kode {{bannerCode}} telah ditolak. {{reason}}\n- Tautan: {{url}}",
+    "OUTBID_IN_AUCTION": "Anda kalah dalam lelang untuk kode [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Tawaran Anda - {{oldAmount}} {{oldItemEmoji}} | Tawaran baru {{newAmount}} {{newItemEmoji}}\nLelang berakhir dalam {{time}}",
+    "BANNER_SUBMISSION_ACCEPTED": "**Pengajuan banner Anda dengan kode **{{bannerCode}}** telah disetujui**.\n- Tautan: {{url}}\n> Hadiah 3 Wist, 500 Silver, dan 500 Fan Points telah ditambahkan ke inventaris Anda"
 }

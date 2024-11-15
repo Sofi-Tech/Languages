@@ -1,7 +1,8 @@
 {
-  "CODESWAP_DESCRIPTION": "这个动作将在两张指定的卡片之间互换代码",
-  "SLASH_DESC": "输入第一个代码",
-  "SLASH_DESC2": "输入第二个代码",
-  "CORRECT_USAGE": "请输入两个卡片代码",
-  "INVALID_CODES_PROVIDED": "{{author}}请输入两个有效的卡片代码"
+    "CODESWAP_DESCRIPTION": "此令可将您特定的两张卡片交换代码",
+    "SLASH_DESC": "请输入第一个代码",
+    "SLASH_DESC2": "请输入第二个代码",
+    "CORRECT_USAGE": "{{author}} 正确用法: `{{prefix}}cs <Code1> <Code2>`",
+    "INVALID_CODES_PROVIDED": "{{author}} 在您输入的卡片代码里有至少一个无效或不在您的收藏里",
+    "SUCCESSFUL_CODE_SWAP": "{{author}} 成功交换了两张定选卡片的代码"
 }
