@@ -24,7 +24,7 @@
     "PLAYER_NOT_EXIST": "{{author}} वह उपयोगकर्ता ढूंढने में असमर्थ",
     "CRAFTING_AMOUNT_MODAL_PLACEHOLDER": "जैसे की: 1 | 2 | 3",
     "NAME_MODAL_PLACEHOLDER": "जैसे की: MyNewGuildName",
-    "IMAGE_MODAL_PLACEHOLDER": "जैसे: https://some.com/img.png | विवरण: {{width}} X {{height}}",
+    "IMAGE_MODAL_PLACEHOLDER": "जैसे: https://some.com/img.png | {{width}} x {{height}}",
     "FOUNDERS_GM_IMAGE": "केवल **Founders** और **Guildmasters** ही गिल्ड के चित्र को लगा सकते हैं",
     "INAVLID_IMAGE_URL": "दिए गए चित्र का URL गलत है",
     "IMAGE_CHANGE_SUCCESS": "गिल्ड चित्र को सफलतापूर्वक लागू किया गया",
