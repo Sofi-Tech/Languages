@@ -71,7 +71,7 @@
     "NAME_NEED_GEMS": "You need **{{amount}}** **Gems** in vault to change the guild name",
     "NAME_CHANGE_SUCCESS": "Guild name has been successfully changed",
     "IMAGE_MODAL_LABEL": "Enter the image URL:",
-    "IMAGE_MODAL_PLACEHOLDER": "E.g.: https://some.com/img.png | {{width}}x{{height}}",
+    "IMAGE_MODAL_PLACEHOLDER": "e.g.: https://some.com/img.png | {{width}} x {{height}}",
     "IMAGE_MODAL_TITLE": "Edit Guild Image",
     "FOUNDERS_GM_IMAGE": "Only **Founders** and **Guildmasters** can set the guild image",
     "INAVLID_IMAGE_URL": "Invalid image URL provided",
