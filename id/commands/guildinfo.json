@@ -48,7 +48,7 @@
     "INVITE_MODAL_TITLE": "Edit Undangan Server",
     "INAVLID_INVITE_URL": "Undangan harus dimulai dengan `https://discord.gg/`",
     "IMAGE_MODAL_LABEL": "Masukkan URL gambar:",
-    "IMAGE_MODAL_PLACEHOLDER": "Misalnya: https://some.com/img.png | Dimensi: {{width}} X {{height}}",
+    "IMAGE_MODAL_PLACEHOLDER": "misalnya: https://some.com/img.png | {{width}} x {{height}}",
     "IMAGE_MODAL_TITLE": "Edit Gambar Guild",
     "INAVLID_IMAGE_URL": "URL gambar yang diberikan tidak valid",
     "IMAGE_WRONG_DIMENSION": "Dimensi gambar harus {{width}} x {{height}}",
