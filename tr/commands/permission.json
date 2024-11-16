@@ -32,7 +32,7 @@
     "YES_BUTTON_LABEL": "Onayla",
     "NO_BUTTON_LABEL": "Reddet",
     "NO_PERMS_SETUP": "{{author}} Bu kanalda izin henüz ayarlanmadı. Kurulum için `{{prefix}}p [BL/WL] [ADD] <KomutAdları/All(Hepsi)>` komutunu kullanın",
-    "SOME_COMMANDS_BLACKLISTED": "{{author}} Bu kanalda komutları zaten kara listeye aldınız! Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
+    "SOME_COMMANDS_BLACKLISTED": "{{author}} Bu kanalda komutları zaten kara listeye aldınız. Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
     "PERMISSION_CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}p [BL/WL] [Add/Rem] <Komutİsimleri/All(Hepsi)>`",
     "NOT_BLACKLISTED_YET": "{{author}} Henüz herhangi bir komutu kara listeye eklemediniz",
     "NOT_WHITELISTED_YET": "{{author}} Henüz hiç bir komutu Beyaz listeye almadınız",
