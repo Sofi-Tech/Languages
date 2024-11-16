@@ -46,5 +46,6 @@
     "UI_TP_EXPIRED": "Günü Geçmiş",
     "UI_INVITED": "Davet Edilen kişi sayısı",
     "LANG_CHANGE_SUCCESS": "{{author}} Diliniz başarıyla **{{language}}** olarak değiştirildi! Çeviri güncellememizin henüz geliştirme aşamasında olduğunu ve mevcut komutlarımızın tamamını kapsamadığını lütfen unutmayın!\n\nÇevrilmemiş komutlar şunları içerir:\n\n- **Deste**\n- **İstatistikler**\n- **Etkinlik**\n\nBu dili kullanırken herhangi bir eksik metin, hatalı çeviri veya bozuk eklemeler ve işlevlerle karşılaşırsanız, bu sorunları `{{prefix}}slr <Input>` komutunu kullanarak bildirmenizi öneririz. Alternatif olarak bulgularınızı [Resmi Destek Sunucumuza](<https://discord.gg/sofi>) bildirebilirsiniz!",
-    "CHOOSE_LANGUAGE_PLACEHOLDER": "Dilinizi seçin"
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Dilinizi seçin",
+    "UI_RAIDS": "Raids"
 }
