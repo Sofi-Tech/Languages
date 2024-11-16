@@ -11,5 +11,6 @@
     "INFO_BUTTON_LABEL": "Bilgi",
     "EMBED_TITLE": "SOFI: VIEW",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potansiyel **({{percentage}}%)**",
-    "SPECIAL": "Özel"
+    "SPECIAL": "Özel",
+    "BASE_STAT_FOOTER": "Toplam Temel İstatistik  •  {{totalBaseStat}}"
 }
