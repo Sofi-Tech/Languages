@@ -17,5 +17,8 @@
     "GIF_EMBED_FOOTER": "Çekmelerden animasyonlu kart elde etme şansınız %0,5'tir.",
     "GIFS": "GIF'ler",
     "GIF_NOTE": "Her GIF karakteri 100 defaya kadar talep edilebilir",
-    "PULL_DISABLED": "{{author}} Yeni GIF'ler yayınlanana kadar çekimler devre dışı bırakıldı"
+    "PULL_DISABLED": "{{author}} Yeni GIF'ler yayınlanana kadar çekimler devre dışı bırakıldı",
+    "CLAIM_GEN1_CARD": "✨ Tebrikler! Bir Gen 1 kartı elde ettiniz - `sv {{code}}`\n\n```fix\nTek haneli Gen kartları oyuncular arasında son derece nadir ve oldukça değerli olarak kabul edilir. Bu Gen'lerin kopyaları çok nadir bulunur.\nKartın değerini takas yapmadan önce mutlaka araştırın ve gerçek değerini belirlemek için en büyük hayranlardan yardım almayı düşünün.\n``` \n{{topFans}}\n**Gen Kılavuzu (<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
+    "TOP_FANS_INFO": "İşte bu karakterin en büyük hayranları:\n{{topFans}}",
+    "GEN1_CARD_DROPPED": "✨ En büyük hayranlarından biri olduğunuz bir karakterin Gen 1 kartı ortaya çıktı!\n\n**İsim: {{name}}**\n**Seri: {{series}}**"
 }
