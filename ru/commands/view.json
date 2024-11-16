@@ -11,5 +11,6 @@
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Эффективность **({{percentage}}%)**",
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "Особые очки",
-    "INFO_BUTTON_LABEL": "Информация"
+    "INFO_BUTTON_LABEL": "Информация",
+    "BASE_STAT_FOOTER": "Сумма всех характеристик  •  {{totalBaseStat}}"
 }
