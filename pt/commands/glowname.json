@@ -2,7 +2,7 @@
     "GLOWNAME_DESCRIPTION": "Use este comando para alterar o nome do seu Glow",
     "GN_CATEGORY": "Cosméticos",
     "UNLOCK_GLOWS": "{{author}} Você não tem nenhum **Glow**",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}gn <CódigodoGlow> <NovoNome>`",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}gn <#GlowCode> <NewName>`",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Os códigos **Glow** sempre começam com `#`",
     "GLOW_NOT_FOUND": "{{author}} O código de **Glow** que você forneceu é inválido ou não está em seu inventário",
     "GLOW_NAME_LONG": "{{author}} O nome do seu **Glow** pode ter apenas **25** caracteres",
