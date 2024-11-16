@@ -37,10 +37,10 @@
     "TRADE_SELLING": "Satıyor",
     "TRADE_MARKET": "Pazar",
     "TRADE_LIMIT": "Limit",
-    "BUY_LIMIT_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> öğesini {{price}} <:gemgame:862598030562033694> karşılığında satın alıyorsunuz \n{{orders}}",
-    "SELL_LIMIT_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> öğesini {{price}} <:gemgame:862598030562033694> karşılığında satıyorsunuz \n{{orders}}",
-    "SELL_MARKET_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> öğesini {{price}} <:gemgame:862598030562033694> karşılığında satıyorsunuz \n{{orders}}",
-    "BUY_MARKET_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> öğesini {{price}} <:gemgame:862598030562033694> karşılığında satın alıyorsunuz \n{{orders}}",
+    "BUY_LIMIT_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> karşılığında {{price}} <:gemgame:862598030562033694> satın alacaksınız",
+    "SELL_LIMIT_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> karşılığında {{price}} <:gemgame:862598030562033694> satacaksınız",
+    "SELL_MARKET_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> öğesini {{price}} <:gemgame:862598030562033694> karşılığında satış ilanı verdiniz \n{{orders}}",
+    "BUY_MARKET_TRADE_CONFIRMATION": "{{totalStock}} <:wist:870339503427027005> öğesini {{price}} <:gemgame:862598030562033694> karşılığında satın alma siparişi verdiniz \n{{orders}}",
     "WAIT_FOR_SELL_ORDERS": "Şu anda piyasada mevcut satıcı bulunmamaktadır. Lütfen yeni siparişlerin oluşmasını bekleyin.",
     "MARKET_BUY_ORDER_MODAL_TITLE": "Satın Alım Siparişi",
     "TRADE_PAGE_FOOTER": "Gösterilen sayfa: {{page}}/{{pages}}",
@@ -59,6 +59,7 @@
     "TRADE_LOGS": "__**Ticaret Günlükleri**__",
     "INSTANT_ORDER_MODAL_PLACEHOLDER": "Örnek. 100 Wists",
     "VALID_AMOUNT_GEMS": "Fiyat {{start}} ile {{end}} <:gemgame:862598030562033694> aralığında olmalıdır",
-    "ORDER_NOTE_INFO": "-__{{flag}} now__- Mevcut en iyi kurdan hemen gerçekleştirilecek, aksi takdirde iptal edilecektir. \n- __Sipariş__ - Belirlediğiniz kur mevcut olduğunda gerçekleştirilecektir. Maliyet, peşin olarak tahsil edilecektir.\nSipariş verdiğinizde, öğeler anında düşülecektir. Mevcut bir siparişi kaldırmak için \"Siparişlerim\" bölümüne gidin.",
-    "NO_MATCHING_ORDERS_FOUND": "Eşleşen bir sipariş bulunamadı, ancak sipariş pazara eklendi"
+    "ORDER_NOTE_INFO": "-__{{flag}}__- Mevcut en iyi kurdan hemen gerçekleştirilecek, aksi takdirde iptal edilecektir. \n- __Sipariş__ - Belirlediğiniz kur mevcut olduğunda gerçekleştirilecektir. Maliyet, peşin olarak tahsil edilecektir.\nSipariş verdiğinizde, öğeler anında düşülecektir. Mevcut bir siparişi kaldırmak için \"Siparişlerim\" bölümüne gidin.",
+    "NO_MATCHING_ORDERS_FOUND": "Eşleşen bir sipariş bulunamadı, ancak sipariş pazara eklendi",
+    "ALREADY_ACTIVE_ORDER": "Zaten aktif bir siparişiniz var. Lütfen siparişin tamamlanmasını bekleyin"
 }
