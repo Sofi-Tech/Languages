@@ -15,7 +15,7 @@
     "VERIFY_BUTTON_LABEL": "Verify",
     "SUPPORT_BUTTON_LABEL": "Support",
     "VERIFY_TO_PLAY": "[Verify yourself on our website to play!](<https://sofi.gg/verify>)",
-    "OUTBID_IN_AUCTION": "You were outbid in the auction for the code [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Your bid - {{oldAmount}} {{oldItemEmoji}} | New bid {{newAmount}} {{newItemEmoji}} \nAuction ends in {{time}}",
+    "OUTBID_IN_AUCTION": "You were outbid in the auction for the code [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Your bid - {{oldAmount}} {{oldItemEmoji}} | New bid - {{newAmount}} {{newItemEmoji}} \nAuction ends in {{time}}",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Wait **{{cooldown}}** before using this command again",
     "COMMAND_BLACKLISTED": "{{author}} The `{{commandName}}` command is blacklisted in this channel",
     "REQUIRE_PERMISSIONS": "{{author}} You require **{{permissions}}** permissions to use this command",
