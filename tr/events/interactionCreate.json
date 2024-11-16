@@ -1,12 +1,12 @@
 {
     "VERSION_ACCEPTED": "**{{seriesName}}** adlı **{{charName}}** için \"Version\" gönderiminiz kabul edildi. **3** <a:wist_spin:973031140581580820> envanterinize eklendi",
-    "VERSION_REJECTED": "**{{charName}}** için **{{seriesName}}** adlı `Version` gönderiminiz reddedildi. [Daha fazla bilgi edinmek için Destek Sunucumuzu ziyaret edin](<https://discord.gg/RYawNnu6Pp>)",
+    "VERSION_REJECTED": "**{{charName}}** için **{{seriesName}}** adlı `Version` gönderiminiz reddedildi. Daha fazla bilgi edinmek için Destek Sunucumuzu ziyaret edin\ndiscord.gg/sofi",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Sofi'nin kurallarını ihlal ettiğiniz için kara listeye alındınız!__\n\n**Buna neden olabilecek olası nedenlerin listesi:**\n```CSS\n- Sofi ile birden fazla hesapta etkileşim kurma (Alting)\n- Discord hesap satımı veya satın alımı\n- Diğer kullanıcıları dolandırmak\n- Yukarıdaki faaliyetlerden herhangi birinden yararlanmak veya bunlara katılmak\n''''\n\n:link: [Kara listenize itiraz edin](<https://sofi.gg/appeal>)\n:link: [Destek Sunucusu](https://discord.gg/sofi)",
     "VERIFY_TO_PLAY": "[Oynamak için web sitemizde kendinizi doğrulayın!](<https://sofi.gg/verify>)",
     "APPEAL_ACCEPTED": "# __İtirazınız kabul edildi!__\n- Lütfen resmi [Destek Sunucumuza](https://discord.gg/XPsQKJjeD7) katılın ve durumunuzu ilerletmek için https://discord.com/channels/863226120245215262/959176115723837530 kanalında bir destek talebi oluşturun\n- En kısa sürede bir personel sizinle ilgilenecektir, lütfen biletinizle ilgili olarak herhangi bir kanalda doğrudan mesaj göndermekten veya personelden bahsetmekten kaçının. Bu kuralın ihlali, hizmetimizden ve Discord Sunucumuzdan kalıcı olarak uzaklaştırılmanıza yol açabilir",
     "APPEAL_DENIED": "Durumunuzu inceledikten sonra itirazınızı reddedeceğimiz sonucuna vardık. Kara listede olma durumunuzun iptali yapılmayacaktır ve bundan sonra yapılan tüm yeni itirazlar geçersiz sayılacaktır.\n\n- Sofi Yönetimi",
     "COMMAND_RUN_ERROR": "{{author}}, bu komutu çalıştırırken bir hata oluştu. Lütfen tekrar deneyin",
-    "NEGATIVE_VALUE_INVENTORY": "{{author}} Envanteriniz negatif bir değer içeriyor! Bu sorunu düzeltmek için lütfen [Destek Sunucumuzdaki](https://discord.gg/sofi) Geliştiricilerle iletişime geçin",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Envanteriniz negatif bir değer içeriyor! Bu sorunu düzeltmek için lütfen Destek Sunucumuzdaki Geliştiricilerle iletişime geçin\ndiscord.gg/sofi",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",
     "REGISTER_TO_PLAY": "{{author}} **Sofi** yolculuğunuza başlamak için lütfen `{{prefix}}register` komutunu kullanın!",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** şu anda güvenli modda! Tahmini bitiş saati: **{{eta}}**\nBu durumun neden olduğu rahatsızlıklardan dolayı özür dileriz ve sabrınızı rica ederiz!",
@@ -18,5 +18,11 @@
     "COMMAND_BLACKLISTED": "{{author}} `{{commandName}}` Komutu bu kanalda kara listeye alındı",
     "CATEGORY_DISABLED": "{{author}} Bu kategori devre dışı bırakıldı\nSebep: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Bu komut devre dışı bırakıldı\nSebep: `{{reason}}`",
-    "SUPPORT_BUTTON_LABEL": "Destek"
+    "SUPPORT_BUTTON_LABEL": "Destek",
+    "APPEAL_ACCEPTED_FOOTER": "İtiraz {{username}} tarafından kabul edildi",
+    "APPEAL_DENIED_FOOTER": "İtiraz {{username}} tarafından reddedildi",
+    "BANNER_SUBMISSION_ACCEPTED": "**Kod **{{bannerCode}}** ile yaptığınız afiş gönderisi onaylandı**\n- Bağlantı: {{url}}\n>Envanterinize 3 Wists, 500 Silver ve 500 Fan Points eklenmiştir",
+    "IC_REASON": "Sebep: {{reason}}",
+    "OUTBID_IN_AUCTION": "Kod [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>) için yapılan açık artırmada teklifiniz geçildi.\nSizin teklifiniz: {{oldAmount}} {{oldItemEmoji}} | Yeni teklif: {{newAmount}} {{newItemEmoji}}\nAçık artırma {{time}} içinde sona erecek",
+    "BANNER_SUBMISSION_REJECTED": "{{bannerCode}} Kodlu yaptığınız afiş gönderisi reddedildi. {{reason}}\n- Bağlantı: {{url}}"
 }
