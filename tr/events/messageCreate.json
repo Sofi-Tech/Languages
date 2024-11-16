@@ -11,7 +11,7 @@
     "REQUIRE_CLIENT_PERMISSIONS": "{{author}} Bu komutu kullanabilmek için `{{permissions}}` yetkisine ihtiyacım var",
     "REQUIRE_MEMBER_PERMISSIONS": "{{author}} Bu komutu kullanmak için **{{permissions}}** izinlerine ihtiyacınız var",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Bu komutu tekrar kullanmadan önce **{{cooldown}}** bekleyin",
-    "REGISTER_USER": "{{author}} `{{prefix}}register` komutunu kullanın ve kendinizi doğrulamak için web sitemizi ziyaret edin",
+    "REGISTER_USER": "{{author}} Lütfen kendinizi doğrulamak ve oynamaya başlamak için `{{prefix}}register` komutunu kullanın",
     "USER_COMMAND_QUEUE": "{{author}} Devam etmeden önce `{{existsFor}}` komutunu tamamlayın",
     "AUTHOR_COMMAND_QUEUE": "{{author}} Devam etmeden önce `{{existsFor}}` komutunu tamamlayın",
     "SAFE_MODE": "{{author}} **Sofi** şu anda güvenli modda! Tahmini bitiş saati: **{{eta}}**\nBu durumun neden olduğu rahatsızlıktan dolayı özür dileriz ve sabrınızı rica ederiz!",
@@ -20,6 +20,7 @@
     "NO_PERMISSIONS": "{{author}} Bu komutu yürütmek için yeterli yetkiye sahip değilim",
     "SERIES_DROP": "Oylama sonuçlandı!",
     "SERVER_BLACKLISTED": "{{author}} Sunucu kara listede. Lütfen discord.gg/sofi adresinden bizimle iletişime geçin",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} Envanteriniz negatif bir değere sahip. Lütfen [Destek Sunucumuzdan](<https://discord.gg/sofi) bizimle iletişime geçin",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Sofi'nin kurallarını ihlal ettiğiniz için kara listeye alındınız!__\n\n**Buna neden olabilecek olası nedenlerin listesi:**\n```CSS\n- Sofi ile birden fazla hesapta etkileşim kurma (Alting)\n- Discord hesap satın alımı veya satışı\n- Diğer kullanıcıları dolandırmak\n- Yukarıdaki faaliyetlere katılmak veya bunlardan yararlanmak\n''''\n\n:link: [Kara listenize itiraz edin](<https://sofi.gg/appeal>)\n:link: [Destek Sunucusu](https://discord.gg/sofi)"
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Envanteriniz negatif bir değere sahip. Lütfen Destek Sunucumuzda bizimle iletişime geçin\ndiscord.gg/sofi",
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Sofi'nin kurallarını ihlal ettiğiniz için kara listeye alındınız!__\n\n**Buna neden olabilecek olası nedenlerin listesi:**\n```CSS\n- Sofi ile birden fazla hesapta etkileşim kurma (Alting)\n- Discord hesap satın alımı veya satışı\n- Diğer kullanıcıları dolandırmak\n- Yukarıdaki faaliyetlere katılmak veya bunlardan yararlanmak\n''''\n\n:link: [Kara listenize itiraz edin](<https://sofi.gg/appeal>)\n:link: [Destek Sunucusu](https://discord.gg/sofi)",
+    "GIFT_MESSAGE": "Sofi'de <@{{giftedBy}}> `{{giftedBy}}` tarafından size {{plan}} hediye edildi.\n\ndiscord.gg/sofi"
 }
