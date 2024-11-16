@@ -35,5 +35,6 @@
     "RESET_ALL_DEFAULT": "Yazı tipi stili ve rengi zaten varsayılandır",
     "RESET_COLOR_MODAL_LABEL": "Emin misin?",
     "RESET_COLOR_DEFAULT": "Yazı tipi rengi zaten varsayılandır",
-    "RESET_COLOR_SUCCESS": "Yazı tipi rengi sıfırlandı"
+    "RESET_COLOR_SUCCESS": "Yazı tipi rengi sıfırlandı",
+    "NOT_CARD_OWNER": "{{author}}, Sağladığınız kart kodu ya geçersiz ya da koleksiyonunuzda bulunmuyor"
 }
