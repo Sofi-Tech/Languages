@@ -1,9 +1,9 @@
 {
     "MASSBURN_DESCRIPTION": "Birden fazla kartı aynı anda yakmak için bu komutu kullanın. Gen/Tag/Wishlist filtreleri ekleyerek hangi kartları yakmak istediğinizi belirtebilirsiniz",
     "IN_ACTIVE_MB": "{{user}} Halihazırda aktif olan bir **Massburn** varken yeni bir tane başlatamazsınız",
-    "PROVIDE_FILTERS": "{{author}} Doğru kullanım: `{{prefix}}mb <Filtreler>`\n\n```fix\nNot: {{prefix}}help filters komutuyla filtrelerin kapsamlı bir listesini bulabilirsiniz\n```",
+    "PROVIDE_FILTERS": "{{author}} Doğru kullanım: `{{prefix}}mb <Filtreler>`\n```fix\nNot: Yakmak istediğiniz kartları Gen/Tag/Wishlist filtrelerini uygulayarak belirleyin. Filtrelerin tam listesini görmek için '{{prefix}}help filters' komutunu kullanabilirsiniz\n```",
     "WRONG_TAG": "{{author}} `{{arg}}` adında herhangi bir etiket bulunamadı",
-    "NO_CARDS_FOUND": "{{author}} Arama kriterlerinize uygun herhangi kart bulunamadı",
+    "NO_CARDS_FOUND": "{{author}} Arama kriterlerinize uygun herhangi kart bulunamadı\n```fix\nNot: Kilitli, GIF varyantına sahip ya da bir destede kullanılan kartlar yakılamaz.\n```",
     "CARDS_BURNED": "__Seçilen Kartlar [ {{totalCards}} ]__",
     "CONFIRM_ASK": "{{author}} Bu kartları __geri döndürülemez şekilde__ yakmak istediğinizden emin misiniz?",
     "MISSING_CARDS": "{{author}} Seçtiğiniz kartlardan en az biri artık koleksiyonunuzda değil",
