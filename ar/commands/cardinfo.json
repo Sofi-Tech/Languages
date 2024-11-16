@@ -2,7 +2,7 @@
     "CARDINFO_DESCRIPTION": "يظهر معلومات البطاقة",
     "SLASH_DESC": "أدخل رمز البطاقة التي تبحث عنها",
     "NO_CARD_FOUND": "لا يمكن العثور على بطاقتك الأخيرة. حاول توفير رمز البطاقة",
-    "INVALID_CARD_CODE": "{{author}}  Ramz elbetaka elly 2ademto ya2ema 8eer sale7 aw mesh fe magmo3tak",
+    "INVALID_CARD_CODE": "{{author}} رمز البطاقة الذي ادخلته هو اما غير صالح او ليس في مجموعتك",
     "CARD_GLOWED": "تم إضاؤة البطاقة بـ __{{glowName}} [`#{{viewCode}}`] {{isSuper}}__\n",
     "CARD_FONT": "لون الخط: {{fontName}} [`#{{ viewCode}}`]\n",
     "CARD_FRAMED": "البطاقة مؤطرة بـ __{{frameName}}__\n",

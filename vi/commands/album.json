@@ -1,5 +1,5 @@
 {
-    "ALBUM_DESCRIPTION": "Sử dụng lệnh này sẽ liệt kê tất cả các album hiện có của bạn. Thêm tên một album hiện có vào sau câu lệnh sẽ hiển thị album đó",
+    "ALBUM_DESCRIPTION": "Sử dụng lệnh này sẽ liệt kê tất cả các album hiện có của bạn. Thêm tên album của bạn vào sau câu lệnh để hiển thị album đó",
     "ALBUM_CATEGORY": "Album",
     "USER_NOT_FOUND": "{{author}} Không tìm thấy người dùng đó",
     "ALBUM_SLASH_DESC": "Chọn một người dùng mà bạn muốn xem album của họ",
@@ -8,7 +8,7 @@
     "ALBUM_NOT_FOUND": "{{author}} Người dùng đó chưa có bất kỳ album nào",
     "ALBUM_NAME_NOT_FOUND": "{{author}} Không thể tìm thấy bất kỳ album nào tên `{{albumName}}`",
     "PROCESSING": "Đang xử lý <a:_:876610443148406794>",
-    "NO_CARDS": "{{author}} Hiện giờ chưa có thẻ trong album này",
+    "NO_CARDS": "{{author}} Hiện chưa có thẻ trong album này",
     "EMBED_TITLE": "SOFI: ALBUMS ({{username}})",
     "ALBUM_BUTTON_LABEL": "Tạo Album",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM ({{albumName}})",

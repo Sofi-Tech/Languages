@@ -57,7 +57,7 @@
     "FILTER_NAME_PLACEHOLDER": "Voer een naam voor uw filter in",
     "FILTER_NAME_TOO_LONG": "{{author}} De naam van uw filter mag niet langer dan **20** karakters zijn",
     "FILTER_NAME_PROFANE": "{{author}} De naam van uw filter mag geen vloeken bevatten",
-    "FILTER_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden die overeenkomen met het geselecteerde filter. Gebruik de opdracht `{{prefix}}help filter` voor meer informatie over alle beschikbare filters",
+    "FILTER_NO_CARDS_FOUND": "{{author}} Kon geen kaarten vinden die overeenkomen met het geselecteerde filter. Gebruik de commando `{{prefix}}help filter` voor meer informatie over alle beschikbare filters",
     "FILTER_DELETE": "Verwijder een Filter",
     "VERSION_AVAILABILITY": "Version Beschikbaarheid",
     "SORT_GEN": "Gen",
