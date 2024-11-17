@@ -8,7 +8,7 @@
     "SOFI_CARDS_MISSING": "{{author}} Não há cartas suficientes na coleção da Sofi",
     "SERIES": "Séries:",
     "NAME": "Nome:",
-    "CHEST_INFO": "Os baús de eventos ainda podem ser abertos após a conclusão do evento",
+    "CHEST_INFO": "Os baús de Evento ainda podem ser abertos mesmo sem um evento ativo",
     "PROVIDE_NUM": "{{author}} Você pode abrir no máximo **10** **{{chestName}}** de uma vez",
     "CHEST_MISSING": "{{author}} Você não tem **{{count}}** **{{chestName}}** em seu inventário",
     "COMMON_INFO_1": "Você abriu **{{totalChests}}** **{{chestName}}**",
@@ -21,7 +21,7 @@
     "CLAIMED": "Reivindicado",
     "CORRECT_USAGE_2": "Itens que podem ser abertos: **Chests**",
     "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
-    "NOIR_FOUND": "Você achou uma <:noiressence:1115496193775116411> **Noir Essence** em seu chest!",
+    "NOIR_FOUND": "Você achou uma <:noiressence:1115496193775116411> **Noir Essence** em seu baú!",
     "GUILD_CHEST_FOOTER": "Você pode obter um Guild Chest no final de cada temporada",
     "EQUIP_EQUIPMENTS": "Use o \"{{prefix}}stats<CardCode> \"comando para equipar os equipments"
 }
