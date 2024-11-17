@@ -3,6 +3,6 @@
     "SLASH_DESC": "Gib den ersten Code an",
     "SLASH_DESC2": "Gib den zweiten Code an",
     "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}cs <Code1> <Code2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} Mindestens einer der angegeben Karten-Codes ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "INVALID_CODES_PROVIDED": "{{author}} Mindestens einer der angegeben Kartencodes ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "SUCCESSFUL_CODE_SWAP": "{{author}} Die Codes der ausgewählten Karten wurden erfolgreich ausgetauscht"
 }
