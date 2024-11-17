@@ -23,6 +23,6 @@
     "APPEAL_DENIED_FOOTER": "Permohonan ditolak oleh {{username}}",
     "IC_REASON": "Alasan: {{reason}}",
     "BANNER_SUBMISSION_REJECTED": "Pengajuan banner Anda dengan kode {{bannerCode}} telah ditolak. {{reason}}\n- Tautan: {{url}}",
-    "OUTBID_IN_AUCTION": "Anda kalah dalam lelang untuk kode [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Tawaran Anda - {{oldAmount}} {{oldItemEmoji}} | Tawaran baru {{newAmount}} {{newItemEmoji}}\nLelang berakhir dalam {{time}}",
+    "OUTBID_IN_AUCTION": "Anda kalah dalam lelang untuk kode [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Tawaran Anda - {{oldAmount}} {{oldItemEmoji}} | Tawaran baru - {{newAmount}} {{newItemEmoji}}\nLelang berakhir dalam {{time}}",
     "BANNER_SUBMISSION_ACCEPTED": "**Pengajuan banner Anda dengan kode **{{bannerCode}}** telah disetujui**.\n- Tautan: {{url}}\n> Hadiah 3 Wist, 500 Silver, dan 500 Fan Points telah ditambahkan ke inventaris Anda"
 }
