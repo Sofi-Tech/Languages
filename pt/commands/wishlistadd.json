@@ -1,6 +1,6 @@
 {
     "WISHLISTADD_DESCRIPTION": "Use este comando para adicionar um personagem à sua Wishlist pessoal. Esta ação não tem nenhum benefício ou vantagem direta associada a ela",
-    "CATEGORY": "Wishlist",
+    "CATEGORY": "Lista de Desejos",
     "ADD_CHARACTERS_ERROR": "{{author}} Você não pode adicionar mais personagens à sua wishlist",
     "SEARCH_CHARACTER_ERROR": "{{author}} Uso correto: `{{prefix}}wa <Nome>`",
     "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar esse personagem. Use o comando `{{prefix}}wa -f <Nome>` para uma pesquisa exata",
