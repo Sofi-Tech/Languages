@@ -1,7 +1,7 @@
 {
-    "VIEW_DESCRIPTION": "Dieser Befehl zeigt dir das Aussehen einer ausgewählten Karte. Verwende diesen Befehl ohne einen Karten-Code um dir stattdessen die zuletzt hinzugefügte Karte anzeigen zu lassen",
-    "SLASH_DESC1": "Gib einen Karten-Code ein",
-    "INVALID_CODE": "{{author}} Dieser Karten-Code ist ungültig",
+    "VIEW_DESCRIPTION": "Dieser Befehl zeigt dir das Aussehen einer ausgewählten Karte. Verwende diesen Befehl ohne einen Kartencode um dir stattdessen die zuletzt hinzugefügte Karte anzeigen zu lassen",
+    "SLASH_DESC1": "Gib einen Kartencode ein",
+    "INVALID_CODE": "{{author}} Dieser Kartencode ist ungültig",
     "SERIES": "Serie:",
     "NAME": "Name:",
     "OWNED_BY": "Im Besitz von:",
