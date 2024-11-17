@@ -3,7 +3,7 @@
     "GUT_CATEGORY": "Tags",
     "NO_GLOWS_FOUND": "{{author}} Vous n'avez pas encore de **Glows**",
     "WRONG_GLOWCODE_FORMAT": "{{author}} Les codes de **Glow** commencent toujours avec un `#`",
-    "INVALID_GLOWCODE": "{{author}} Le code de**Glow** fourni est invalide ou n'est pas dans votre inventaire",
+    "INVALID_GLOWCODE": "{{author}} Le code de **Glow** fourni est invalide ou n'est pas dans votre inventaire",
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} A retiré avec succès le tag de votre **{{glow}}** **Glow**",
     "GLOW_UNTAG_PLURAL": "{{author}} A retiré avec succès le tag de **{{count}}** **Glows**",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} Les codes de **Glow** suivants sont invalides ou ne sont pas dans votre inventaire:\n{{invalidCodeList}}"
