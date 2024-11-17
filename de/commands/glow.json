@@ -2,7 +2,7 @@
     "GLOW_DESCRIPTION": "Dieser Befehl wird den angegebenen Glow auf eine Karte in deiner Sammlung anwenden. Glows geben der Karte ein leuchtenden Effekt um den Rand des Rahmen. Du kannst Glows mit dem \"{{prefix}}unlockglow\" Befehl kaufen",
     "GLOW_CATEGORY": "Kosmetika",
     "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}glow <KartenCode> <#GlowCode>`",
-    "WRONG_CARD": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "WRONG_CARD": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "NO_GIF_CARDS": "{{author}} Du kannst auf eine **GIF**-Karte keinen **Glow** anwenden",
     "INVALID_GLOW_CODE": "{{author}} **Glow**-Codes beginnen immer mit einem `#`",
     "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene **Glow**-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
