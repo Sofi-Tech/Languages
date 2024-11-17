@@ -2,7 +2,7 @@
     "USEFRAME_DESCRIPTION": "Dieser Befehl fügt deiner Karte den angegebenen Frame hinzu. Du kannst Frames mit dem \"{{prefix}}frameshop\" Befehl kaufen",
     "UF_CATEGORY": "Kosmetika",
     "UF_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}uf <KartenCode> <FrameName/$FrameCode>`",
-    "INVALID_CODE": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "INVALID_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CANNOT_APPLY": "{{author}} Du kannst einer **3D**-Karte keinen **Frame** hinzufügen",
     "NO_GIF": "{{author}} Du kannst einer **GIF**-Karte keinen **Frame** hinzufügen",
     "NO_FRAMES_FOUND": "{{author}} Dieser **Frame**-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
