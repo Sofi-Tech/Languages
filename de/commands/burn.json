@@ -1,11 +1,11 @@
 {
-    "BURN_DESCRIPTION": "Verwende diesen Befehl, um eine ausgewählte Karte für Silver & Cubes, welche du für das Umwandeln von Karten in ihre 3D Variante braucht, zu verbrennen. Wenn du diesen Befehl ohne einen Karten Code verwendest, verbrennst du deine zuletzt erhaltene Karte",
+    "BURN_DESCRIPTION": "Verwende diesen Befehl, um eine ausgewählte Karte für Silver & Cubes, welche du für das Umwandeln von Karten in ihre 3D-Variante braucht, zu verbrennen. Wenn du diesen Befehl ohne einen Kartencode verwendest, verbrennst du deine zuletzt erhaltene Karte",
     "GUILDSTONE_BURN": "Bist du dir sicher, dass du deinen **Guild Stone** verbrennen willst?",
     "GUILDSTONE_NOT_FOUND": "{{author}} Du hast keinen **Guild Stone**",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
     "BURN_FRAG_WARN": "Bist du dir sicher, dass du dieses **Fragment** verbrennen willst?\n\nName: **{{characterName}}**\nSerie: **{{seriesName}}**\nCode: `{{fragCode}}`",
     "FRAG_NOT_FOUND": "{{author}} Der angegebene **Fragment**-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
-    "CARD_NOT_FOUND": "{{author}} Der angegebene Karten-Code ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "CARD_NOT_FOUND": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CARD_LOCKED": "{{author}} Diese Karte ist gesperrt und kann nicht verbrannt werden",
     "CARD_NOT_OWNED": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
     "SERIES": "Serie:",
