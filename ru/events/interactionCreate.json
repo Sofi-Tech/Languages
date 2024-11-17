@@ -19,10 +19,10 @@
     "REQUIRE_PERMISSIONS": "{{author}} Для использования данной команды вам необходимы следующие права: **{{permissions}}**",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} В вашем инвентаре содержится отрицательное количество валюты! Пожалуйста, свяжитесь с Разработчиками на нашем Сервере поддержки, чтобы исправить данную проблему \ndiscord.gg/sofi",
     "SUPPORT_BUTTON_LABEL": "Поддержка",
-    "OUTBID_IN_AUCTION": "Вашу ставку на аукционе за код перебили [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Ваша ставка - {{oldAmount}} {{oldItemEmoji}} | Новая ставка - {{newAmount}} {{newItemEmoji}} \nАукцион закончится {{time}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Ваше предложение баннера с кодом **{{bannerCode}}** было принято** \n- Ссылка: {{url}} \n> 3 Wists, 500 Silver и 500 Fan Points добавлены в ваш инвентарь",
+    "OUTBID_IN_AUCTION": "Вашу ставку на аукционе на код [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>) перебили. Ваша ставка - {{oldAmount}} {{oldItemEmoji}} | Новая ставка - {{newAmount}} {{newItemEmoji}} \nАукцион закончится {{time}}",
+    "BANNER_SUBMISSION_ACCEPTED": "**Ваше предложение баннера с кодом **{{bannerCode}}** принято** \n- Ссылка: {{url}} \n> 3 Wists, 500 Silver и 500 Fan Points добавлены в ваш инвентарь",
     "APPEAL_ACCEPTED_FOOTER": "Апелляция принята {{username}}",
     "APPEAL_DENIED_FOOTER": "Апелляция отклонена {{username}}",
     "IC_REASON": "Причина: {{reason}}",
-    "BANNER_SUBMISSION_REJECTED": "Ваше предложение баннера с кодом {{bannerCode}} было отклонено. {{reason}} \n- Ссылка: {{url}}"
+    "BANNER_SUBMISSION_REJECTED": "Ваше предложение баннера с кодом {{bannerCode}} отклонено. {{reason}} \n- Ссылка: {{url}}"
 }
