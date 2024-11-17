@@ -12,7 +12,7 @@
     "IMAGE_WRONG_DIMENSION": "La imagen debe tener las dimensiones de {{width}} x {{height}}",
     "BUFF_DESC_6": "Reduce el costo para reparar los equipamientos",
     "GUILD_SERVER_MENU_LABEL": "Invitación al Servidor del Gremio",
-    "IMAGE_MODAL_PLACEHOLDER": "E.j.: https://some.com/img.png | Dimensiones: {{width}} X {{height}}",
+    "IMAGE_MODAL_PLACEHOLDER": "e.j.: https://some.com/img.png | {{width}} X {{height}}",
     "DONATED_TO_VAULT": "> {{user}} donó **{{amount}}** **{{itemName}}** al vault",
     "UNLOCK_IMAGE_CONFIRM": "Quieres desbloquear la característica de imagen de gremio por **{{amount}}** **{{currency}}**?",
     "GUILDINFO_DESCRIPTION": "Este comando es usado para acceder al embed del gremio; conteniendo detalles de los miembros, vault, crafteos, mejoras y otras funciones del gremio dependiendo si es tu gremio y permisos.",
