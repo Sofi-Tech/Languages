@@ -20,6 +20,7 @@
     "NO_PERMISSIONS": "{{author}} Sofi no tiene permisos suficientes para ejecutar este comando",
     "SERIES_DROP": "La votación a concluido!",
     "SERVER_BLACKLISTED": "{{author}} El servidor está en la lista negra. Ponte en contacto con nosotros en discord.gg/sofi",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} Tu inventario tiene un valor negativo. Póngase en contacto con nosotros en nuestro [Servidor de Soporte](<https://discord.gg/sofi)",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Has sido añadido a la lista negra por violar las normas de Sofi!__\n\n**Una lista de posibles razones que pueden haber causado esto:**\n```\n- Interactuar con Sofi con varias cuentas (Alting)\n- Vender o comprar cuentas enteras de Discord\n- Estafar a otros usuarios\n- Aprovecharse o participar en cualquiera de las actividades anteriores\n```\n\n:link: [Apela tu lista negra](<https://sofi.gg/appeal>)\n:link: [Servidor de Soporte](https://discord.gg/sofi)"
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Tu inventario tiene un valor negativo. Póngase en contacto con nosotros en nuestro Servidor de Soporte.\ndiscord.gg/sofi",
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Has sido añadido a la lista negra por violar las normas de Sofi!__\n\n**Una lista de posibles razones que pueden haber causado esto:**\n```\n- Interactuar con Sofi con varias cuentas (Alting)\n- Vender o comprar cuentas enteras de Discord\n- Estafar a otros usuarios\n- Aprovecharse o participar en cualquiera de las actividades anteriores\n```\n\n:link: [Apela tu lista negra](<https://sofi.gg/appeal>)\n:link: [Servidor de Soporte](https://discord.gg/sofi)",
+    "GIFT_MESSAGE": "Te regalaron {{plan}} de <@{{giftedBy}}> `{{giftedBy}}` en Sofi\n\ndiscord.gg/sofi"
 }
