@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "आपका अंतिम पत्ता नहीं मिल सका। पत्ते का कोड प्रदान करने का प्रयास किजिए",
     "INVALID_CARD_CODE": "{{author}} आपके द्वारा प्रदान किया गया कोड अमान्य है या आपके संग्रह में मौजूद नहीं है",
     "CARD_GLOWED": "**{{isSuper}}Glow** लगाई गई: **{{glowName}} ** (`#{{viewCode}}`)\n",
-    "CARD_FONT": "**फ़ॉन्ट का रंग:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **नाम -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **श्रृंखला -** `{{seriesColorName}}` | `{{seriesColorCode}}`\n",
+    "CARD_FONT": "**फ़ॉन्ट का रंग:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **नाम -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **श्रृंखला -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "**Frame** लगाई गई: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** लगाई गई: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Gen दिखाए",
