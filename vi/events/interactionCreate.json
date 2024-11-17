@@ -24,5 +24,5 @@
     "APPEAL_ACCEPTED_FOOTER": "Khiếu nại đã được chấp nhận bởi {{username}}",
     "BANNER_SUBMISSION_REJECTED": "Biểu ngữ của bạn với mã {{bannerCode}} đã bị từ chối. {{reason}} \n- Link: {{url}}",
     "IC_REASON": "Lý do: {{reason}}",
-    "OUTBID_IN_AUCTION": "Giá của bạn đã bị vượt trong cuộc đấu giá cho mã [`{{code}}`]\n(<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Giá thầu của bạn - {{oldAmount}} {{oldItemEmoji}} | Giá thầu mới {{newAmount}} {{newItemEmoji}}\nĐấu giá kết thúc trong {{time}}"
+    "OUTBID_IN_AUCTION": "Giá của bạn đã bị vượt trong cuộc đấu giá cho mã [`{{code}}`]\n(<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Giá thầu của bạn - {{oldAmount}} {{oldItemEmoji}} | Giá thầu mới - {{newAmount}} {{newItemEmoji}}\nĐấu giá kết thúc trong {{time}}"
 }
