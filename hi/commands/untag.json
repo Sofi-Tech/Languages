@@ -1,9 +1,9 @@
 {
-    "UNTAG_DESCRIPTION": "इस कमांड से आप अपने पत्ते से टैग हटा सकते है। अगर आपको सम्पूर्ण टैग मिटाना चाहते है तो \"{{prefix}}tagdelete\" कमांड का उपयोग करे।",
+    "UNTAG_DESCRIPTION": "इस कमांड से आप अपने पत्ते या Version Token से टैग हटा सकते है। अगर आपको सम्पूर्ण टैग मिटाना चाहते है तो \"{{prefix}}tagdelete\" कमांड का उपयोग करे।",
     "UT_CATEGORY": "TAGS",
     "UT_EMPTY_COLLECTION": "{{author}} आपके संग्रह में कोई पत्ता मौजूद नहीं है।",
     "UNTAG_SUCCESSFUL": "{{author}} **{{cardName}}** से टैग सफलतापूर्वक हटाया गया",
-    "INVALID_CODE": "{{author}} यह कार्ड कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
-    "MULTIPLE_UNTAG": "{{author}} सभी **{{count}}** पत्तो से सफलतापूर्वक टैग हटाया गया",
-    "INVALID_CODE_MULTIPLE": "{{author}} निम्नलिखित कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है:\n{{invalidCodeList}}"
+    "INVALID_CODE": "{{author}} यह कॉड अमान्य है या आपके संग्रह में मौजूद नहीं है।",
+    "MULTIPLE_UNTAG": "{{author}} सभी **{{count}}** कोड से सफलतापूर्वक टैग हटाया गया",
+    "INVALID_CODE_MULTIPLE": "{{author}} निम्नलिखित कोड अमान्य है या आपके संग्रह में मौजूद नहीं है:\n{{invalidCodeList}}"
 }
