@@ -1,7 +1,7 @@
 {
-    "TAG_DESCRIPTION": "With this command you can assign a tag onto a card. Tags are a useful feature to categorize and group multiple cards that fit your own criteria. Use the command \"{{prefix}}tagcreate\" to create tags",
+    "TAG_DESCRIPTION": "With this command, you can assign a tag to a card or Version Token. Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}tagcreate\" command to create tags",
     "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}t <TagName> <CardCode>`",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}t <TagName> <Code>`",
     "NO_TAGS_CREATED": "{{author}} You don't have any tags yet. Use the command `{{prefix}}tc <TagName> <Emoji>` to create one",
     "TAG_NOT_FOUND": "{{author}} You don't have any tag with the name `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} You do not have any cards in your collection yet",
