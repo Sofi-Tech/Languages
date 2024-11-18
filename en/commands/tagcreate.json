@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "With this command you can create a tag to categorize and group multiple cards that fit your own criteria. Use the \"{{prefix}}tag\" command to assign created tags to your cards",
+    "TAGCREATE_DESCRIPTION": "With this command you can create a tag to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}tag\" command to assign created tags to your cards or Version Tokens",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}tc <TagName> <Emoji>`",
     "TC_MAX_TAGS": "{{author}} You have reached the maximum number tags you can create",
