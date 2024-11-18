@@ -2,7 +2,7 @@
     "GUILDPROMOTE_DESCRIPTION": "Benutze diesen Befehl, um den Rang des ausgewählten Gildenmitglieds zu erhöhen",
     "NO_GUILD_INFO": "{{author}} Es konnte keine Gildeninfo für diesen Benutzer finden",
     "GUILDPROMOTE_CATEGORY": "Gilden",
-    "GP_CORRECT_USAGE": "{{author}} Korrekte Benutzung: `{{prefix}}gp <@User/UserID>`",
+    "GP_CORRECT_USAGE": "{{author}} Korrekte Benutzung: `{{prefix}}gp <@Benutzer/BenutzerID>`",
     "NOT_MEMBER": "{{author}} Dieser Nutzer ist kein Mitglied deiner Gilde",
     "ALREADY_FOUNDER": "{{author}} Dieser Nutzer ist bereits ein **Founder** der Gilde",
     "PROVIDE_VETERAN_RANK": "{{author}} Stelle einen Gilden Rang bereit um zu befördern:\n> **V**eteran",
