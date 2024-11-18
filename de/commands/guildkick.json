@@ -3,7 +3,7 @@
     "NOT_IN_GUILD": "{{author}} Du bist in keiner Gilde",
     "PLAYER_NOT_EXIST": "{{author}} Der Nutzer konnte nicht gefunden werden",
     "GUILDKICK_CATEGORY": "Gilden",
-    "PROVIDE_ID": "{{author}} Korrekte Benutzung: `{{prefix}}gk <@User/UserID>`",
+    "PROVIDE_ID": "{{author}} Korrekte Benutzung: `{{prefix}}gk <@Benutzer/BenutzerID>`",
     "USER_NOT_FOUND": "{{author}} Der Nutzer konnte nicht gefunden werden",
     "CANNOT_KICK": "{{author}} Du kannst dich selbst nicht rauswerfen",
     "MUST_BE_FOUNDER": "{{author}} Du musst ein **Founder** oder **Guildmaster** in der Gilde sein um Mitglieder rauszuwerfen",
