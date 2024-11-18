@@ -25,5 +25,11 @@
     "UNLOCKED_TAG_few": "🔓 {{count}} टैग से ताला हटाया गया",
     "UNLOCKED_TAG_many": "🔓 {{count}} टैग से ताला हटाया गया",
     "UNLOCKED_TAG_other": "🔓 {{count}} टैग से ताला हटाया गया",
-    "CARD_many": "{{count}} पत्ते"
+    "CARD_many": "{{count}} पत्ते",
+    "TOKEN_two": "{{count}} Tokens",
+    "TOKEN_many": "{{count}} Tokens",
+    "TOKEN_zero": "{{count}} Token",
+    "TOKEN_few": "{{count}} Tokens",
+    "TOKEN_other": "{{count}} Tokens",
+    "TOKEN_one": "{{count}} Token"
 }
