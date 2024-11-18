@@ -5,7 +5,7 @@
     "DEMOTE_VETERAN_ERROR": "{{author}} Chỉ **Guildmaster** mới có thể bị giáng chức xuống **Veteran**",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Chỉ **Veteran** mới có thể bị giáng chức xuống **Adventurer**",
     "CANT_DEMOTE_FOUNDER": "{{author}} Bạn không thể giáng chức **Founder**",
-    "GUILDDEMOTE_DESCRIPTION": "Sử dụng lệnh này để giáng chức thành viên của bang hội ",
+    "GUILDDEMOTE_DESCRIPTION": "Sử dụng lệnh này để giáng chức thành viên trong bang hội ",
     "GUILDDEMOTE_CATEGORY": "Bang Hội",
     "INVALID_USER_PROVIDED": "{{author}} Không thể tìm thấy người dùng đó",
     "PROVIDE_GUILD_RANK": "{{author}} Cung cấp hạng bang hội để giáng chức:\n> {{ranks}}",
@@ -13,6 +13,6 @@
     "DEMOTE_NEWBIE_ERROR": "{{author}} Chỉ **Guildmaster** và **Veteran** mới có thể bị giáng chức xuống **Newbie**",
     "DEMOTED_VETERAN": "{{member}} bị giáng chức xuống **Veteran**",
     "DEMOTED_ADVENTURER": "{{member}} bị giáng chức xuống **Adventurer**",
-    "NOT_GUILD_MEMBER": "{{author}} Người dùng này không phải là thành viên bang hội của bạn",
+    "NOT_GUILD_MEMBER": "{{author}} Người dùng này không phải là thành viên trong bang hội của bạn",
     "GD_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gd <@User/UserID> <V/N>`"
 }
