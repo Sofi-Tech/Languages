@@ -1,7 +1,7 @@
 {
     "READY": "Sẵn sàng",
-    "JOIN_SUPPORT_SERVER": "**[Tham gia Máy Chủ Hỗ Trợ chính thức để nhận được sự giúp đỡ!](https://discord.gg/sofi)**",
-    "COOLDOWN_DESCRIPTION": "Lệnh này sẽ hiển thị danh sách các khoảng thời gian chờ hiện tại của bạn. Nếu bạn muốn nhận thông báo cho Vote/Daily/Bump, hãy nhấp vào biểu tượng chuông cho từng mục",
+    "JOIN_SUPPORT_SERVER": "**[Tham gia Máy Chủ Hỗ Trợ chính thức để được giúp đỡ!](https://discord.gg/sofi)**",
+    "COOLDOWN_DESCRIPTION": "Lệnh này sẽ hiển thị danh sách thời gian chờ hiện tại của bạn. Nếu bạn muốn nhận thông báo cho Vote/Daily/Bump, hãy nhấp vào biểu tượng chuông ở từng mục",
     "DROP": "> {{bellEmoji}} • {{toggleEmoji}} • **`Drop `** | **{{cooldown}}**",
     "GRAB": "> {{bellEmoji}} • {{toggleEmoji}} • **`Grab `** | **{{cooldown}}**",
     "VOTE": "> {{bellEmoji}} • {{toggleEmoji}} • **{{hyperlink}}** | **{{cooldown}}**",
