@@ -2,7 +2,7 @@
     "BUYFRAME_DESCRIPTION": "Dieser Befehl ist dafür gedacht, Frames von dem \"{{prefix}}frameshop\" Befehl zu kaufen, in welchem du sowohl offizielle und Community gemachte Frames als auch Frame Pakete für deine 2D Karten erwerben kannst",
     "BF_CATEGORY": "Kosmetika",
     "NO_FRAME_NAME": "{{author}} Bitte gib den Code des **Frame** an, den du kaufen möchtest",
-    "NO_FRAMECODE_FOUND": "{{author}}Es konnte kein **Frame** mit dem Code `{{name}}` gefunden werden",
+    "NO_FRAMECODE_FOUND": "{{author}} Es konnte kein **Frame** mit dem Code `{{name}}` gefunden werden",
     "FRAME_UNAVAILABLE": "{{author}} Dieser **Frame** ist im Moment nicht verfügbar. Verwende den Befehl `{{prefix}}fs`, um die aktuelle **Frame** Rotation zu sehen",
     "FRAME_NOT_PURCHASABLE": "{{author}} Dieser **Frame** ist limitiert und kann nicht mehr gekauft werden",
     "EMBED_TITLE": "SOFI: TRANSACTION",
