@@ -2,7 +2,7 @@
     "DROP_DESCRIPTION": "Với lệnh này, bạn có thể tạo ra 3 thẻ với Gen ngẫu nhiên. Bạn có thể mua thêm Drop từ lệnh \"{{prefix}}shop\" bằng Wist. Bạn có thể nhận được Wist bằng cách Vote cho Sofi",
     "ON_CD": "{{author}} **Drop** của bạn sẽ sẵn sàng trong: **{{dropCd}}**",
     "VOTE": "Vote",
-    "WISHLIST_ALERT": "Thẻ từ danh sách yêu thích của bạn đã được thả! {{users}}",
+    "WISHLIST_ALERT": "Một thẻ từ danh sách yêu thích của bạn đã được thả! {{users}}",
     "DROPPING_CARD": "{{author}} đã **thả** thẻ",
     "BUY_DROP": "\n\n- Bạn cũng có thể **Vote** để nhận **Wist**! Sử dụng lệnh `{{prefix}}buy drop` để mua",
     "EXTRA_DROP_ALERT": "{{author}} Lượt **Drop** bổ sung của bạn đã được sử dụng. Còn lại **{{remaining}}**"
