@@ -6,7 +6,7 @@
     "CARD_GLOWED": "**{{isSuper}}Glow** angewendet: **{{glowName}}** (`#{{viewCode}}`)\n",
     "CARD_FONT": "**Schriftfarben** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Name -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Serie -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
     "CARD_FRAMED": "**Frame** angewendet: **{{frameName}}**\n",
-    "CARD_CFRAMED": "**Frame** angewandt: **{{frameName}}** (`{{frameCode}}`)\n",
+    "CARD_CFRAMED": "**Frame** angewendet: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Zeige Gen",
     "SERIES": "Serie:",
     "NAME": "Name:",
