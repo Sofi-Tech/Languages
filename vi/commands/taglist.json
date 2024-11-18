@@ -25,5 +25,11 @@
     "UNLOCKED_TAG_two": "🔓 Đã mở khóa {{count}} nhãn",
     "UNLOCKED_TAG_few": "🔓 Đã mở khóa {{count}} nhãn",
     "UNLOCKED_TAG_many": "🔓 Đã mở khóa {{count}} nhãn",
-    "UNLOCKED_TAG_other": "🔓 Đã mở khóa {{count}} nhãn"
+    "UNLOCKED_TAG_other": "🔓 Đã mở khóa {{count}} nhãn",
+    "TOKEN_one": "{{count}} Token",
+    "TOKEN_two": "{{count}} Token",
+    "TOKEN_few": "{{count}} Token",
+    "TOKEN_other": "{{count}} Token",
+    "TOKEN_many": "{{count}} Token",
+    "TOKEN_zero": "{{count}} Token"
 }
