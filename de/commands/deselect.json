@@ -3,5 +3,5 @@
     "DESELECT_CATEGORY": "Gilden",
     "DESELECT_DESCRIPTION": "Dieser Befehl kann verwendet werden, um eine Karte aus allen Decks zu entfernen, in denen sie gerade gespeichert ist",
     "NOT_OWN_CARD": "{{author}} Der von dir angegebene Kartencode ist entweder ungültig oder nicht in deiner Sammlung",
-    "ENTER_VALID_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}ds <CardCode>`"
+    "ENTER_VALID_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}ds <KartenCode>`"
 }
