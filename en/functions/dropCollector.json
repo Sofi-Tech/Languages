@@ -12,5 +12,5 @@
     "GRAB_VERSION_PLURAL": "{{winner}} fought off **{{userCount}}** other players and **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this Version Token",
     "TOOK_VERSION": "{{winner}} **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this Version Token",
     "GRAB_VERSION": "{{winner}} fought off {{user}} and **grabbed** the **{{character}}** Version Token (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUse the `{{prefix}}vt` command to view this Version Token",
-    "NOT_ALLOWED_TO_GRAB": "{{user}} You are either blacklisted or quarantined or not registered and cannot grab this card"
+    "NOT_ALLOWED_TO_GRAB": "You are either blacklisted or quarantined or not registered and cannot grab this card"
 }
