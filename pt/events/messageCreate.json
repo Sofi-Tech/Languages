@@ -19,7 +19,8 @@
     "COMMAND_DISABLED": "{{author}} Este comando foi desabilitado\nMotivo: `{{reason}}`",
     "NO_PERMISSIONS": "{{author}} Não tenho permissão suficiente para executar este comando",
     "SERIES_DROP": "A votação foi concluída!",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} Seu inventário tem um valor negativo. Entre em contato conosco em nosso [Servidor de Suporte](https://discord.gg/sofi)",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Seu inventário tem um valor negativo. Entre em contato conosco em nosso Servidor de Suporte\ndiscord.gg/sofi",
     "SERVER_BLACKLISTED": "{{author}} O servidor está na blacklist. Entre em contato conosco em discord.gg/sofi",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Você entrou na blacklist por violar as regras da Sofi!__\n\n**A list of possible reasons that may have caused this:**\n```CSS\n- Interagindo com Sofi em várias contas (Alting) \n- Vender ou comprar contas inteiras do Discord \n- Enganar outros usuários (Scamming)\n- Tirar proveito ou estar envolvido em qualquer uma das atividades acima \n```\n\n:link: [Apelar sua blacklist ](<https://sofi.gg/appeal>)\n:link: [Servidor de Suporte](https://discord.gg/sofi)"
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Você entrou na blacklist por violar as regras da Sofi!__\n\n**A list of possible reasons that may have caused this:**\n```CSS\n- Interagindo com Sofi em várias contas (Alting) \n- Vender ou comprar contas inteiras do Discord \n- Enganar outros usuários (Scamming)\n- Tirar proveito ou estar envolvido em qualquer uma das atividades acima \n```\n\n:link: [Apelar sua blacklist ](<https://sofi.gg/appeal>)\n:link: [Servidor de Suporte](https://discord.gg/sofi)",
+    "GIFT_MESSAGE": "Você foi presenteado {{plan}} por <@{{giftedBy}}> `{{giftedBy}}` na Sofi\n\ndiscord.gg/sofi"
 }

@@ -64,5 +64,5 @@
     "EXPLAIN_FILTER": "{{author}} Here is a flow chart to help you understand how this filter works",
     "SAVE_FILTER": "Select a Filter",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} You don't have enough **Silver** to save this filter",
-    "FILTER_NAME_EXISTS": "The filter with name {{filterName}} already exists"
+    "FILTER_NAME_EXISTS": "The filter with name `{{filterName}}` already exists"
 }

@@ -8,5 +8,5 @@
     "LS_CATEGORY": "**Categoria:** {{category}}",
     "LS_ARTIST": "**Artista:** {{artist}}",
     "LAYERSHOP_DESCRIPTION": "Este comando abrirá uma incorporação que mostra todas as Layers que estão atualmente disponíveis para compra",
-    "BUY_LAYER_INFO": "Use o comando \"{{prefix}}buy layer <Layer-ID> <Amount>\" para comprar uma **Layer**"
+    "BUY_LAYER_INFO": "Use o comando `{{prefix}}buy layer <Layer-ID> <Amount>` para comprar uma **Layer**"
 }

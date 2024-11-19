@@ -41,14 +41,14 @@
     "TRADE_TOTAL": "कुल",
     "TRADE_LOGS": "__**व्यापार अभिलेख**__",
     "TRADE_BUYING": "खरीदी",
-    "BUY_MARKET_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले {{price}} <:gemgame:862598030562033694> खरीद रहे है\n{{orders}}",
-    "SELL_LIMIT_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> बदले मे {{price}} <:gemgame:862598030562033694> बेच रहे है\n{{orders}}",
+    "BUY_MARKET_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले मे {{price}} <:gemgame:862598030562033694> खरीद रहे है\n{{orders}}",
+    "SELL_LIMIT_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले मे {{price}} <:gemgame:862598030562033694> बेच रहे है",
     "WAIT_FOR_BUY_ORDERS": "वर्तमान में बाजार में कोई भी खरीदार उपलब्ध नहीं है। कृपया ऑर्डर आने की प्रतीक्षा करें।",
     "WAIT_FOR_SELL_ORDERS": "वर्तमान में बाजार में कोई भी विक्रेता उपलब्ध नहीं है। कृपया ऑर्डर आने की प्रतीक्षा करें।",
-    "BUY_LIMIT_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले {{price}} <:gemgame:862598030562033694> खरीद रहे है\n{{orders}}",
+    "BUY_LIMIT_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले मे {{price}} <:gemgame:862598030562033694> खरीद रहे है",
     "TRADE_LIMIT": "सीमा",
     "TRADE_SELL_MARKET_EMBED_AUTHOR": "बाज़ार ऑर्डर बेचे",
-    "SELL_MARKET_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले {{price}} <:gemgame:862598030562033694> बेच रहे है\n{{orders}}",
+    "SELL_MARKET_TRADE_CONFIRMATION": "आप {{totalStock}} <:wist:870339503427027005> के बदले मे {{price}} <:gemgame:862598030562033694> बेच रहे है\n{{orders}}",
     "ENTER_PRICE_QUANTITY": "कृपया कीमत और मात्रा दर्ज करें",
     "TRADE_BUYERS": "खरीदार",
     "TRADE_SELLERS": "विक्रेता",
@@ -62,5 +62,5 @@
     "ORDER_NOTE_INFO": "- __ अभी {{flag}}__ - यह सर्वोत्तम दर उपलब्ध होने पर तुरंत पूर्ण किया जाएगा, वरना यह रद्द कर दिया जाएगा।\n- __ऑर्डर__ - आपके द्वारा चुने गए दर के उपलब्ध होने पर इसे पूर्ण किया जाएगा। ऑर्डर करते ही तुरंत राशि काट ली जाएगी।\nजब आप ऑर्डर दर्ज करेंगे, तब वस्तु तुरंत ही काट ली जाएगी। मौजूदा ऑर्डर को हटाने के लिए, \"मेरे ऑर्डर\" पर जाए।",
     "ALREADY_ACTIVE_ORDER": "आपके पास पहले से ही एक सक्रिय ऑर्डर है। कृपया उसके पूर्ण होने तक प्रतीक्षा करें",
     "TRADE_SELL_LIMIT_EMBED_AUTHOR": "सीमित ऑर्डर बेचे",
-    "NO_ORDERS": "वर्तमान में आपके पास कोई भी ऑर्डर्स नहीं है"
+    "NO_ORDERS": "वर्तमान में आपका कोई ऑर्डर नहीं है"
 }

@@ -34,7 +34,7 @@
     "NO_PRICE_MARKET_ORDER": "Du kannst keinen spezifischen Preis festlegen, wenn du einen Marktauftrag verwendest",
     "INVALID_ORDER_NUMBER": "Die angegebene Auftragsnummer ist ungültig",
     "ORDER_CANCELLED": "Der Auftrag wurde erfolgreich storniert",
-    "ORDER_NOTE_INFO": "-__{{flag}} sofort__ - Wird sofort zum besten verfügbaren Kurs ausgeführt, andernfalls wird der Auftrag storniert.\n- __Auftrag__ - Wird ausgeführt, sobald der von dir gewählte Kurs verfügbar ist. Die Kosten werden im Voraus abgezogen.\nWenn du einen Auftrag erteilst, werden die Artikel sofort abgezogen. Um einen bestehenden Auftrag zu entfernen, gehe zu „Meine Aufträge“.",
+    "ORDER_NOTE_INFO": "-__{{flag}} sofort__ - Wird sofort zum besten verfügbaren Kurs ausgeführt, andernfalls wird der Auftrag storniert.\n- __Auftrag__ - Wird ausgeführt, sobald der von dir gewählte Kurs verfügbar ist. Die Kosten werden im Voraus abgezogen.\nWenn du einen Auftrag erteilst, werden die Artikel sofort abgezogen. Um einen bestehenden Auftrag zu entfernen, gehe zu \"Meine Aufträge\".",
     "VALID_AMOUNT_GEMS": "Der Preis sollte zwischen {{start}} und {{end}} <:gemgame:862598030562033694> liegen",
     "TRADE_MARKET": "Markt",
     "TRADE_CANCELLED": "Der Vorgang wurde abgebrochen",

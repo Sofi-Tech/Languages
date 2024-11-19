@@ -21,7 +21,7 @@
     "SORT_HP": "Здоровье",
     "SORT_DUPE": "Дубликаты",
     "PLEASE_WAIT": "Пожалуйста, подождите <a:ping:876612181725167687>",
-    "NO_TAG_FOUND": "{{author}} У вас пока нет отметок. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
+    "NO_TAG_FOUND": "{{author}} У вас пока нет ни одной отметки. Используйте команду `{{prefix}}tc <TagName> <Emoji>`, чтобы создать новую",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "NOT_AVAILABLE": "Некорректная серия",
     "SORT_LEVEL": "Уровень",
@@ -64,5 +64,5 @@
     "ALL_UNTAG_SUCCESS_zero": "Вы успешно удалили отметку `{{tagName}}` с **{{count}}** карт",
     "ALL_UNTAG_SUCCESS_few": "Вы успешно удалили отметку `{{tagName}}` с **{{count}}** карт",
     "VERSION_AVAILABILITY": "Доступность Version",
-    "FILTER_NAME_EXISTS": "Фильтр с названием {{filterName}} уже существует"
+    "FILTER_NAME_EXISTS": "Фильтр с названием `{{filterName}}` уже существует"
 }
