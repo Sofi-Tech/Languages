@@ -1,5 +1,5 @@
 {
-    "BUY_LAYER_INFO": "**Layer** खरीदने के लिए \"{{prefix}}buy layer <Layer-ID> <Amount>\" का उपयोग करे",
+    "BUY_LAYER_INFO": "**Layer** खरीदने के लिए `{{prefix}}buy layer <Layer-ID> <Amount>` कमांड का उपयोग करे",
     "LAYER_NOT_FOUND": "{{author}} इस ID से **Layer** ढूंढने में असमर्थ `{{layerId}}`",
     "LS_PAGE_FOOTER": "पृष्ट: {{currentPage}}/{{totalPages}}",
     "LAYERSHOP_CATEGORY": "Cosmetics",

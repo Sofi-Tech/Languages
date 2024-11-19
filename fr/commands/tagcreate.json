@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "Avec cette commande, vous pouvez créer un tag pour catégoriser et regrouper plusieurs cartes selon vos propres critères. Utilisez la commande \"{{prefix}}tag\" pour attribuer vos tags créés aux cartes",
+    "TAGCREATE_DESCRIPTION": "Avec cette commande, vous pouvez créer un tag pour catégoriser et regrouper plusieurs codes selon vos propres critères. Utilisez la commande \"{{prefix}}tag\" pour attribuer vos tags créés aux cartes ou Version Tokens",
     "TC_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}tc <NomDeTag> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Cet emoji est invalide",

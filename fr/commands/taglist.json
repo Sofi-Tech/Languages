@@ -4,7 +4,7 @@
     "NO_USER": "{{author}} Impossible de trouver cet utilisateur",
     "NO_TAGS": "{{author}} Cet utilisateur n'a aucun tags",
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
-    "SOFI_FACT": "Un tag vérouillé ne peut pas être burn ou échangé",
+    "SOFI_FACT": "Un tag verouillé ne peut pas être burn ou échangé",
     "EMBED_FOOTER": "Total: {{total}} | Verrouillé(s): {{locked}}",
     "CARD_one": "{{count}} carte",
     "CARD_other": "{{count}} cartes",
@@ -25,5 +25,11 @@
     "UNLOCKED_TAG_two": "🔓 {{count}} Tags déverrouillés",
     "UNLOCKED_TAG_few": "🔓 {{count}} Tags déverrouillés",
     "UNLOCKED_TAG_many": "🔓 {{count}} Tags déverrouillés",
-    "UNLOCKED_TAG_other": "🔓 {{count}} Tags déverrouillés"
+    "UNLOCKED_TAG_other": "🔓 {{count}} Tags déverrouillés",
+    "TOKEN_one": "{{count}} Token",
+    "TOKEN_many": "{{count}} Tokens",
+    "TOKEN_zero": "{{count}} Tokens",
+    "TOKEN_other": "{{count}} Tokens",
+    "TOKEN_two": "{{count}} Tokens",
+    "TOKEN_few": "{{count}} Tokens"
 }

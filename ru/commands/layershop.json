@@ -1,6 +1,6 @@
 {
     "LAYERSHOP_CATEGORY": "Косметика",
-    "BUY_LAYER_INFO": "Используйте команду \"{{prefix}}buy layer <ИдентификаторLayer> <Количество>\" для покупки **Layer**",
+    "BUY_LAYER_INFO": "Используйте команду `{{prefix}}buy layer <ИдентификаторLayer> <Количество>` для покупки **Layer**",
     "LS_PAGE_FOOTER": "Отображение страницы: {{currentPage}}/{{totalPages}}",
     "LAYER_NOT_FOUND": "{{author}} Не удалось найти **Layer** с идентификатором `{{layerId}}`",
     "LS_NAME": "**Название:** {{name}}",

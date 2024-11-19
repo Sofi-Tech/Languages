@@ -1,7 +1,7 @@
 {
     "GLOWTAG_DESCRIPTION": "Mit diesem Befehl kannst du deinem Glow einen Tag zuweisen. Um einen Glow Tag zu erstellen, nutze den \"{{prefix}}glowtagcreate\" Befehl",
     "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Du hast noch keinen **Glow **Tag. Du kannst sie mit dem Befehl: `{{prefix}}gtc <Name> <Emoji>` erstellen",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Du hast noch keinen **Glow ** Tag. Du kannst sie mit dem Befehl: `{{prefix}}gtc <Name> <Emoji>` erstellen",
     "GLOWS_NOT_UNLOCKED": "{{author}} Du hast noch keine **Glows**",
     "INVALID_GLOW_CODE": "{{author}} Mindestens einer der angegebenen **Glow**-Codes ist ungültig oder befindet sich nicht in deinem Inventar",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** wurde erfolgreich als `{{tag}}` getaggt",

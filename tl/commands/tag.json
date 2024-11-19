@@ -1,12 +1,12 @@
 {
-    "TAG_DESCRIPTION": "Sa pamamagitan ng command na ito, maaari kang magtalaga ng tag sa isang kard. Ang mga tag ay isang kapaki-pakinabang na feature para ma-ikategorya at ma-igrupo ang maraming kard na tugma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tagcreate\" upang gumawa ng mga tag",
+    "TAG_DESCRIPTION": "Gamit ang command na ito, maaari kang magtalaga ng tag sa isang card o Version Token. Ang mga tag ay isang kapaki-pakinabang na feature upang ikategorya at ipangkat ang maramihang mga code na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tagcreate\" upang lumikha ng mga tag",
     "TAG_CATEGORY": "Mga Tag",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}t <TagName> <CardCode>`",
+    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}t <TagName> <Code>`",
     "NO_TAGS_CREATED": "{{author}} Wala ka pang kahit anong tag. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` upang makagawa",
     "TAG_NOT_FOUND": "{{author}} Wala kang kahit anong tag na may pangalang `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
-    "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
+    "INVALID_CARD_CODE": "{{author}} Ang code na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "SUCCESSFUL_TAG": "{{author}} Matagumpay na nalagyan ng tag si **{{card}}** bilang `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Ang lahat ng mga kard ay matagumpay na nalagyan ng tag",
-    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Ang mga sumusunod na code ng mga kard ay maaaring hindi tama o wala sa iyong koleksyon:\n{{arg}}"
+    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Ang lahat ng mga code ay matagumpay na nalagyan ng tag",
+    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Ang mga sumusunod na mga code ay maaaring hindi tama o wala sa iyong koleksyon:\n{{arg}}"
 }

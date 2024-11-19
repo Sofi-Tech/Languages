@@ -21,8 +21,8 @@
     "SUPPORT_BUTTON_LABEL": "Support",
     "APPEAL_ACCEPTED_FOOTER": "Ang apela ay tinanggap ni {{username}}",
     "APPEAL_DENIED_FOOTER": "Ang apela ay tinanggihan ni {{username}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Ang iyong banner submission na may code na **{{bannerCode}}** ay naaprubahan** \n- Link: {{url}} \n> Ang reward na 3 Wists, 500 Silver at 500 Fan Points ay naidagdag na sa iyong imbentaryo",
-    "BANNER_SUBMISSION_REJECTED": "Ang iyong banner submission na may code na {{bannerCode}} ay tinanggihan. {{reason}} \n- Link: {{url}}",
+    "BANNER_SUBMISSION_ACCEPTED": "**Ang iyong banner submission na may code na **{{bannerCode}}** ay naaprubahan**\n- Link: {{url}}\n> Ang reward na 3 Wists, 500 Silver at 500 Fan Points ay naidagdag na sa iyong imbentaryo",
+    "BANNER_SUBMISSION_REJECTED": "Ang iyong banner submission na may code na {{bannerCode}} ay tinanggihan. {{reason}}\n- Link: {{url}}",
     "IC_REASON": "Rason: {{reason}}",
     "OUTBID_IN_AUCTION": "Ikaw ay na-outbid sa auction para sa code na [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Ang iyong bid - {{oldAmount}} {{oldItemEmoji}} | Bagong bid - {{newAmount}} {{newItemEmoji}} \nAng Auction ay magtatapos sa {{time}}"
 }

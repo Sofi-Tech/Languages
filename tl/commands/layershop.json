@@ -1,5 +1,5 @@
 {
-    "BUY_LAYER_INFO": "Gamitin ang command na \"{{prefix}}buy layer <Layer-ID> <Amount>\" para bumili ng **Layer**",
+    "BUY_LAYER_INFO": "Gamitin ang command na `{{prefix}}buy layer <Layer-ID> <Amount>` para bumili ng **Layer**",
     "LS_PAGE_FOOTER": "Ipinapakitang Pahina: {{currentPage}}/{{totalPages}}",
     "LAYER_NOT_FOUND": "{{author}} Hindi mahanap ang **Layer** na may ID `{{layerId}}`",
     "LS_NAME": "**Pangalan:** {{name}}",

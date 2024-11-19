@@ -61,5 +61,6 @@
     "INVALID_ORDER_NUMBER": "Order number yang anda berikan tidak valid",
     "ORDER_CANCELLED": "Pesanan berhasil dibatalkan",
     "VALID_AMOUNT_GEMS": "Harganya harus berkisar antara {{start}} dan {{end}} <:gemgame:862598030562033694>",
-    "ALREADY_ACTIVE_ORDER": "Anda sudah memiliki pesanan aktif. Harap tunggu hingga pesanan selesai"
+    "ALREADY_ACTIVE_ORDER": "Anda sudah memiliki pesanan aktif. Harap tunggu hingga pesanan selesai",
+    "NO_ORDERS": "Saat ini anda tidak memiliki pesanan apapun"
 }

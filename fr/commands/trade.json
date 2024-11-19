@@ -5,7 +5,7 @@
     "SELL_SELECT_ORDER_EMBED_TITLE": "Sélectionnez le type de commande de vente",
     "ENTER_PRICE": "Veuillez entrer une quantité valide",
     "TRADE_MARKET": "Marché",
-    "SELL_LIMIT_TRADE_CONFIRMATION": "Vous vendez {{totalStock}} <:wist:870339503427027005> pour {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "SELL_LIMIT_TRADE_CONFIRMATION": "Vous venderez {{totalStock}} <:wist:870339503427027005> pour {{price}} <:gemgame:862598030562033694>",
     "TRADE_BUY_MARKET_EMBED_AUTHOR": "Commande D'Achat Du Marché",
     "TRADE_QUANTITY": "Quantité",
     "TRADE_PRICE": "Prix",
@@ -25,7 +25,7 @@
     "BUY_MARKET_TRADE_CONFIRMATION": "Vous achetez {{totalStock}} <:wist:870339503427027005> pour {{price}} <:gemgame:862598030562033694> \n{{orders}}",
     "VALID_AMOUNT_GEMS": "Le prix doit être compris entre {{start}} et {{end}} <:gemgame:862598030562033694>",
     "WAIT_FOR_BUY_ORDERS": "Il n'y a actuellement aucun acheteur disponible sur le marché. Veuillez attendre que les commandes apparaissent.",
-    "BUY_LIMIT_TRADE_CONFIRMATION": "Vous achetez {{totalStock}} <:wist:870339503427027005> pour {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "BUY_LIMIT_TRADE_CONFIRMATION": "Vous acheterez {{totalStock}} <:wist:870339503427027005> pour {{price}} <:gemgame:862598030562033694>",
     "NOT_ENOUGH_ITEM_BUY": "Vous n'avez pas assez de {{itemEmoji}} pour acheter",
     "NO_MATCHING_ORDERS_FOUND": "Aucune commande correspondante n'a été trouvée, mais la commande a été listée sur le marché",
     "SELL_MARKET_TRADE_CONFIRMATION": "Vous vendez {{totalStock}} <:wist:870339503427027005> pour {{price}} <:gemgame:862598030562033694> \n{{orders}}",
@@ -61,5 +61,6 @@
     "TRADE_SELL_LIMIT_EMBED_AUTHOR": "Limite De Vente",
     "TRADE_BUY_LIMIT_EMBED_AUTHOR": "Limite D'Achat",
     "TRADE_LOGS": "__**Logs D'Echanges**__",
-    "ALREADY_ACTIVE_ORDER": "Vous avez déjà une commande en cours. Veuillez attendre que la commande se termine"
+    "ALREADY_ACTIVE_ORDER": "Vous avez déjà une commande en cours. Veuillez attendre que la commande se termine",
+    "NO_ORDERS": "Vous n'avez pas de commandes actuellement"
 }

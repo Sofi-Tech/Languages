@@ -1,9 +1,9 @@
 {
-    "DROP_DESCRIPTION": "Avec cette commande vous pourrez générer un ensemble de 3 cartes avec des Gens alétatoires. Vous pouvez acheter des Drops supplémentaires depuis la commande \"Shop\" avec des Wists, qui sont obtenables en Votant pour Sofi",
+    "DROP_DESCRIPTION": "Avec cette commande vous pourrez générer un ensemble de 3 cartes avec des Gens aléatoires. Vous pouvez acheter des Drops supplémentaires depuis la commande \"{{prefix}}shop\" avec des Wists, qui sont obtenables en Votant pour Sofi",
     "EXTRA_DROP_ALERT": "{{author}} Votre extra **Drop** a été utilisé. Il vous en reste **{{remaining}}**",
     "ON_CD": "{{author}} Votre **Drop** sera prêt dans: **{{dropCd}}**",
     "VOTE": "Vote",
     "BUY_DROP": "\n\n-Vous pouvez également effectuer un **Vote** pour recevoir des **Wists**! Utilisez la commande `{{prefix}}buy drop` pour les échanger",
-    "DROPPING_CARD": "{{author}} **drop** des cartes\n",
-    "WISHLIST_ALERT": "Une carte de votre liste de souhaits a été drop! {{users}}"
+    "DROPPING_CARD": "{{author}} **drop** des cartes",
+    "WISHLIST_ALERT": "Un personnage de votre liste de souhaits a été drop! {{users}}"
 }

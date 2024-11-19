@@ -41,5 +41,18 @@
     "NO_MATCHING_ORDERS_FOUND": "Er werden geen overeenkomende bestellingen gevonden, maar de bestelling is geplaatst op de markt",
     "ORDER_PLACED_SUCCESSFULL": "De bestelling is succesvol geplaatst",
     "TRADE_QUANTITY": "Hoeveelheid",
-    "TRADE_PRICE": "Prijs"
+    "TRADE_PRICE": "Prijs",
+    "NO_ORDERS": "Je hebt momenteel geen bestellingen",
+    "ENTER_PRICE": "Voer een geldig aantal in",
+    "NO_PRICE_MARKET_ORDER": "Je kunt geen specifieke prijs instellen wanneer je een Markt Order gebruikt",
+    "ENTER_PRICE_QUANTITY": "Voer een prijs en hoeveelheid in",
+    "TRADE_CANCELLED": "Het proces is geannuleerd",
+    "NOT_ENOUGH_ITEM_SELL": "U heeft onvoldoende {{itemEmoji}} om te verkopen",
+    "VALID_AMOUNT_GEMS": "De prijs moet tussen {{start}} en {{end}} liggen <:gemgame:862598030562033694>",
+    "WAIT_FOR_SELL_ORDERS": "Er zijn momenteel geen verkopers beschikbaar op de markt. Wacht tot de bestellingen verschijnen.",
+    "SELL_LIMIT_TRADE_CONFIRMATION": "U verkoopt {{totalStock}} <:wist:870339503427027005> voor {{price}} <:gemgame:862598030562033694>",
+    "WAIT_FOR_BUY_ORDERS": "Er zijn momenteel geen kopers beschikbaar op de markt. Wacht tot de bestellingen verschijnen.",
+    "TRADE_LOGS": "__**Trade Logs**__",
+    "ALREADY_ACTIVE_ORDER": "U heeft al een actieve bestelling. Wacht tot de bestelling is voltooid",
+    "NOT_ENOUGH_ITEM_BUY": "U heeft onvoldoende {{itemEmoji}} om te kopen"
 }

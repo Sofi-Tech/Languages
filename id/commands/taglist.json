@@ -25,5 +25,11 @@
     "UNLOCKED_TAG_one": "🔓 Tag {{count}} yang tidak terkunci",
     "UNLOCKED_TAG_few": "🔓 Tag {{count}} yang tidak terkunci",
     "CARD_zero": "{{count}} kartu",
-    "CARD_many": "{{count}} kartu"
+    "CARD_many": "{{count}} kartu",
+    "TOKEN_one": "{{count}} Token",
+    "TOKEN_two": "{{count}} Tokens",
+    "TOKEN_few": "{{count}} Tokens",
+    "TOKEN_other": "{{count}} Tokens",
+    "TOKEN_zero": "{{count}} Tokens",
+    "TOKEN_many": "{{count}} Tokens"
 }
