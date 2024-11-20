@@ -17,7 +17,7 @@
     "REGISTER_TO_PLAY": "{{author}} Use o comando `{{prefix}}register` para iniciar sua jornada no **Sofi**!",
     "COMPLETE_COMMAND": "{{author}} Complete o comando`{{command}}`antes de prosseguir",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** está atualmente em modo de segurança! ETA: **{{eta}}**\n Pedimos desculpas por qualquer inconveniente causado por isso e pedimos sua paciência!",
-    "NEGATIVE_VALUE_INVENTORY": "{{author}} Seu inventário contém um valor negativo! Entre em contato com os desenvolvedores em nosso Servidor de suporte para consertar isso https://discord.gg/sofi",
+    "NEGATIVE_VALUE_INVENTORY": "{{author}} Seu inventário contém um valor negativo! Entre em contato com os desenvolvedores em nosso Servidor de suporte para consertar isso \nhttps://discord.gg/sofi",
     "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Você entrou na blacklist por violar as regras de Sofi!__\n\n**Uma lista de possíveis razões que podem ter causado isso :**\n```CSS\n- Interagindo com Sofi em várias contas (Alting) \n- Vender ou comprar contas inteiras do Discord \n- Enganar outros usuários (Scamming) \n- Tirar proveito ou estar envolvido em qualquer uma das atividades acima \n```\n\n:link: [Apelar seu Blacklist](<https://sofi.gg/appeal>)\n:link: [Servidor de Suporte](https://discord.gg/sofi)",
     "BANNER_SUBMISSION_REJECTED": "O banner submetido com o código `{{bannerCode}}` foi rejeitado. {{reason}}\n- Link: {{url}}",
     "OUTBID_IN_AUCTION": "O seu lance no leilão foi superado pelo código [`{{code}}`]<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Seu lance - {{oldAmount}} {{oldItemEmoji}} | Novo lance - {{newAmount}} {{newItemEmoji}}\nLeilão termina em {{time}}",
