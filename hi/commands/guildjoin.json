@@ -7,11 +7,11 @@
     "VERIFY_TO_JOIN": "{{author}} गिल्ड में शामिल होने के लिए हमारी [वेबसाइट](https://sofi.gg/verify) पर वेरीफाई करें",
     "GUILD_IS_FULL": "{{author}} इस गिल्ड में कोई खाली स्थान नहीं है",
     "ALLOW_BUTTON_LABEL": "मैं अनुमति देता हूं",
-    "GUILD_JOIN_ACCEPT": "{{member}} ने {{author}} को अपने गिल्ड में **Adventurer** के रूप में स्वीकार किया",
+    "GUILD_JOIN_ACCEPT": "{{member}} ने {{author}} को अपने गिल्ड में एक **Newbie** के रूप में स्वीकार किया",
     "GUILD_JOIN_REJECT": "{{member}} ने अपने गिल्ड में **Adventurer** बनने के लिए {{author}} को अस्वीकार किया",
     "NOT_FOUNDER": "{{author}} यह उपयोगकर्ता गिल्ड में **Founder** या **Guildmaster** नहीं है",
     "QUARANTINED_USERS": "{{author}} क्वारेंटाइंड उपयोगकर्ता गिल्ड में शामिल नहीं हो सकते है",
-    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} आपकी गिल्ड में शामिल होना चाहता है।\nक्या आप उस उपयोगकर्ता को अपने गिल्ड में एक **Adventurer** के रूप में स्वीकार करते हैं?",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} आपकी गिल्ड में शामिल होना चाहता है।\nक्या आप उस उपयोगकर्ता को अपने गिल्ड में एक **Newbies** के रूप में स्वीकार करते हैं?",
     "LEAVING_GUILD": "{{author}} आप **{{cooldown}}** के बाद ही दूसरी गिल्ड में शामिल हो सकते हैं",
     "GUILDJOIN_CATEGORY": "गिल्डस",
     "DENY_BUTTON_LABEL": "नहीं,धन्यवाद"
