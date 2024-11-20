@@ -2,10 +2,10 @@
     "WISHLISTADD_DESCRIPTION": "Sử dụng lệnh này để thêm một nhân vật vào danh sách yêu thích của bạn. Việc này không đi kèm với lợi ích hoặc lợi thế trực tiếp nào",
     "CATEGORY": "Danh sách yêu thích",
     "INCREASE_CAPACITY": "Mở thêm ô bằng cách sử dụng lệnh `{{prefix}}wl` và nhấp vào biểu tượng {{emoji}}",
-    "NO_CHARACTER_FOUND": "{{author}} Không thể tìm thấy nhân vật đó. Sử dụng lệnh `{{prefix}}wa -f <Name>` để tìm kiếm chính xác hơn",
+    "NO_CHARACTER_FOUND": "{{author}} Không tìm thấy nhân vật đó. Sử dụng lệnh `{{prefix}}wa -f <Name>` để tìm kiếm chính xác hơn",
     "ADD_CHARACTERS_ERROR": "{{author}} Bạn không thể thêm nhân vật nào vào danh sách yêu thích của bạn nữa",
     "SEARCH_CHARACTER_ERROR": "{{author}} Cách sử dụng đúng: `{{prefix}}wa <Name>`",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** đã có trong danh sách yêu thích của bạn",
-    "CHARACTER_ADDED": "{{author}} Đã thêm **{{name}}** vào danh sách yêu thích của bạn thành công",
+    "CHARACTER_ADDED": "{{author}} Đã thêm thành công **{{name}}** vào danh sách yêu thích của bạn",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
 }
