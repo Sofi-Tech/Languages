@@ -20,10 +20,10 @@
     "LOCKED_TAG_few": "🔒 tags bloqueadas {{count}}",
     "LOCKED_TAG_many": "🔒 tags bloqueadas {{count}}",
     "LOCKED_TAG_other": "🔒 tags bloqueadas {{count}}",
-    "UNLOCKED_TAG_zero": "🔓 tag desbloqueada {{count}}",
-    "UNLOCKED_TAG_one": "🔓 Tag desbloqueda {{count}}",
-    "UNLOCKED_TAG_two": "🔓 Tags desbloqueadas {{count}}",
-    "UNLOCKED_TAG_few": "🔓 Tags desbloqueadas {{count}}",
-    "UNLOCKED_TAG_many": "🔓 Tags desbloqueadas {{count}}",
-    "UNLOCKED_TAG_other": "🔓 Tags desbloqueadas {{count}}"
+    "UNLOCKED_TAG_zero": "🔓 {{count}} Tag desbloqueada",
+    "UNLOCKED_TAG_one": "🔓 {{count}} Tag desbloqueda",
+    "UNLOCKED_TAG_two": "🔓 {{count}} Tags desbloqueadas",
+    "UNLOCKED_TAG_few": "🔓 {{count}} Tags desbloqueadas",
+    "UNLOCKED_TAG_many": "🔓 {{count}} Tags desbloqueadas",
+    "UNLOCKED_TAG_other": "🔓 {{count}} Tags desbloqueadas"
 }
