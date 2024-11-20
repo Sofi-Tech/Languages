@@ -17,5 +17,8 @@
     "PULL_CHANCES": "**__Probabilidades__**",
     "GIF_CHANCE": "Pull e tenha a chance de ganhar uma carta GIF",
     "GIF_NOTE": "Cada personagem GIF pode ser reivindicado até 100 vezes",
-    "PULL_DISABLED": "{{author}} Pulls são desativados até que novos GIFs sejam lançados"
+    "PULL_DISABLED": "{{author}} Pulls são desativados até que novos GIFs sejam lançados",
+    "CLAIM_GEN1_CARD": "✨ Parabéns por ganhar uma carta Gen 1 - `sv {{code}}`\n\n```\nCartas com Gen de dígito único são raras e altamente cobiçadas pelos jogadores. Duplicatas desses Gens são extremamente incomuns.\nCertifique-se de pesquisar o valor da carta antes de negociar e considere consultar os principais fãs para ajudá-lo a avaliar seu verdadeiro valor.\n```\n{{topFans}}\n**[Guia de Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
+    "TOP_FANS_INFO": "Aqui estão os top fãs desse personagem:\n{{topFans}}",
+    "GEN1_CARD_DROPPED": "✨ Uma carta Gen 1 de um personagem do qual você é top fã foi dropada.\n\n**Nome: {{name}}**\n**Séries: {{series}}**"
 }

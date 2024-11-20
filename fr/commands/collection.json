@@ -64,5 +64,5 @@
     "ALL_TAG_SUCCESS_many": "Le tag suivant a été ajouté avec succès à **{{count}}** cartes `{{tagName}}`",
     "ALL_TAG_SUCCESS_other": "Le tag suivant a été ajouté avec succès à **{{count}}** cartes `{{tagName}}`",
     "VERSION_AVAILABILITY": "Versions Disponibles",
-    "FILTER_NAME_EXISTS": "Le filtre avec le nom {{filterName}} existe déjà"
+    "FILTER_NAME_EXISTS": "Le filtre avec le nom `{{filterName}}` existe déjà"
 }
