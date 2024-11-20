@@ -1,10 +1,10 @@
 {
     "INVALID_CARD_CODE": "{{author}} Mã bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "TAG_CATEGORY": "Nhãn",
-    "TAG_NOT_FOUND": "{{author}} Bạn không có bất kỳ nhãn nào có tên `{{arg}}`",
+    "TAG_NOT_FOUND": "{{author}} Bạn không có nhãn nào tên `{{arg}}`",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}t <TagName> <Code>`",
-    "NO_TAGS_CREATED": "{{author}} Bạn chưa có bất kỳ nhãn nào. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một nhãn",
-    "NO_CARDS_CLAIMED": "{{author}} Bạn chưa có bất kỳ thẻ nào trong bộ sưu tập của bạn",
+    "NO_TAGS_CREATED": "{{author}} Bạn chưa có nhãn nào. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một nhãn",
+    "NO_CARDS_CLAIMED": "{{author}} Hiện tại bạn chưa có thẻ nào trong bô sưu tập",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Các mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{arg}}",
     "SUCCESSFUL_TAG": "{{author}} Đã gắn nhãn thành công nhãn `{{tag}}` cho thẻ **{{card}}**",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Tất cả các mã đã được gắn nhãn thành công",
