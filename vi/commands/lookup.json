@@ -1,5 +1,5 @@
 {
-    "CHAR_NOT_FOUND": "{{author}} Không thể tìm thấy bất kì nhân vật nào tên `{{arg}}`",
+    "CHAR_NOT_FOUND": "{{author}} Không tìm thấy nhân vật nào tên `{{arg}}`",
     "NAME": "Tên:",
     "CHAR_NF_SENSITIVE": "{{author}} Không tìm thấy nhân vật nào tên `{{arg}}`\n```fix\nLưu ý: Sử dụng `-f` sẽ phân biệt giữa chữ hoa và chữ thường!\n```",
     "WISHLISTED": "Yêu thích",
