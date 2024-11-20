@@ -106,7 +106,7 @@
     "GLOW_MODAL_LABEL": "Digite o código do Glow:",
     "GLOW_MODAL_PLACEHOLDER": "Exemplo: #aadffe",
     "PERMISSION_MODAL_LABEL": "Digite o nível de permissão:",
-    "INVALID_PERMISSION": "Nível de permissão inválido.\n\n**Níveis disponíveis:**\nAdventurer: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
+    "INVALID_PERMISSION": "Nível de permissão inválido.\n\n**Níveis disponíveis:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "BOOST_MODAL_LABEL": "Digite a quantidade de Cubes:",
     "BOOST_MODAL_PLACEHOLDER": "Exemplo: 15 Cubes",
     "NOT_ENOUGH_CUBES": "> Quantidade indisponível no cofre",
