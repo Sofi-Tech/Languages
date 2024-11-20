@@ -11,8 +11,8 @@
     "TRANSFER_OWNERSHIP_CANCEL": "Le processus a été annulé",
     "TRANSFER_OWNERSHIP_SUCCESS": "Le nouveau propriétaire de la guilde est <@{{memberId}}>",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Seulement les **Guildmasters** peuvent être promus en **Founder**",
-    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Seulement les ** Adventurers** et **Veterans** peuvent être promus en **Guildmaster**",
-    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Seulement les **Adventurers** peuvent être promus en **Veteran**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Seulement les **Newbies** et **Veterans** peuvent être promus en **Guildmaster**",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Seulement les **Newbies** peuvent être promus en **Veteran**",
     "ALREADY_FOUNDER": "{{author}} Cet utilisateur est déjà un **Founder** de la guilde",
     "MUST_BE_FOUNDER": "{{author}} Vous devez être un **Founder** ou **Guildmaster** pour promouvoir un membre de la guilde",
     "NOT_MEMBER": "{{author}} Cet utilisateur n'est pas un membre de votre guilde"
