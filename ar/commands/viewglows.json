@@ -1,17 +1,21 @@
 {
     "VIEWGLOWS_DESCRIPTION": "عرض الأضواء بالتفصيل أو القائمة",
     "VG_CATEGORY": "مستحضرات التجميل",
-    "VG_SLASH_DESC1": "أدخل المستخدم الذي تريد رؤية أضوائه.",
+    "VG_SLASH_DESC1": "أختر المستخدم الذي تريد رؤية \"أضوائه\"",
     "VG_SLASH_DESC2": "أدخل اسم الوسم الذي تبحث عنه.",
     "VG_SLASH_DESC3": "أدخل رمز اللمعان الذي تبحث عنه.",
-    "NO_GLOWS": "{{author}} ليست هناك أضواء لعرضها!",
+    "NO_GLOWS": "{{author}} لا يمتلك أضواء لعرضها!",
     "SUPER": "خارق",
     "EMBED_TITLE": "SOFI: VIEWGLOWS",
     "EMBED_FOOTER": "{{prefix}}vg [glowcode] لمشاهدة اللمعان | الأضواء المفتوحة: {{count}}",
-    "NO_GLOWS_FOUND": "{{author}} لم يتم العثور على اللمعان بعلامة {{tagName}}",
+    "NO_GLOWS_FOUND": "{{author}} لم يتم العثور على أضواء بعلامة {{tagName}}",
     "CANNOT_FIND_GLOW": "{{author}} لا يمكنني العثور على اللمعان بالرمز `{{glowCode}}`",
     "EMBED_GLOW_TITLE": "SOFI: VIEWGLOWS",
     "TIME_one": "{{count}} time",
     "TIME_other": "{{count}} times",
-    "PURITY": "```النقاء :  ➜ {{purity}}```"
+    "PURITY": "```النقاء :  ➜ {{purity}}```",
+    "VG_NAME": "الاسم",
+    "VG_CODE": "الرمز",
+    "VG_STATUS": "الحالة",
+    "VG_TYPE": "نوع الضوء"
 }
