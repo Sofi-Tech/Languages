@@ -6,7 +6,7 @@
     "VERIFY_TO_JOIN": "{{author}} Xác minh trên [trang web](https://sofi.gg/verify) của chúng tôi để gia nhập bang hội",
     "LEAVING_GUILD": "{{author}} Bạn không thể tham gia một bang hội khác trong **{{cooldown}}**",
     "GUILD_IS_FULL": "{{author}} Không còn ô trống nào trong bang hội này",
-    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} muốn tham gia bang hội của bạn.\nBạn có chấp nhận họ là **Adventurer** trong bang hội của bạn?",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} muốn tham gia bang hội của bạn.\nBạn có chấp nhận họ là **Newbie** trong bang hội của bạn không?",
     "ALLOW_BUTTON_LABEL": "Tôi đồng ý",
     "DENY_BUTTON_LABEL": "Không, cảm ơn",
     "GUILDJOIN_DESCRIPTION": "Lệnh này có thể được sử dụng để gửi yêu cầu tới Founder hoặc Guildmaster để có thể tham gia bang hội của họ. Người nhận được yêu cầu sau đó có thể chấp nhận hoặc từ chối yêu cầu đó của bạn",
@@ -14,5 +14,5 @@
     "NO_GUILD_FOUND": "{{author}} Không tìm thấy thông tin bang hội nào về người dùng đó",
     "ALREADY_IN_GUILD": "{{author}} Bạn hiện đã tham gia một bang hội. Rời khỏi bang hội hiện tại để tham gia một bang hội mới.",
     "NOT_FOUNDER": "{{author}} Người dùng này không phải là **Founder** hoặc **Guildmaster** trong bang hội",
-    "GUILD_JOIN_ACCEPT": "{{member}} đã chấp nhận {{author}} là **Adventurer** trong bang hội của họ"
+    "GUILD_JOIN_ACCEPT": "{{member}} đã chấp nhận {{author}} là **Newbie** trong bang hội của họ"
 }
