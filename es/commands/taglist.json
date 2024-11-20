@@ -25,5 +25,11 @@
     "UNLOCKED_TAG_one": "🔓 Desbloqueado {{count}} tag",
     "UNLOCKED_TAG_other": "🔓 Desbloqueados {{count}} tags",
     "CARD_zero": "{{count}} carta",
-    "CARD_many": "{{count}} cartas"
+    "CARD_many": "{{count}} cartas",
+    "TOKEN_two": "{{count}} Tokens",
+    "TOKEN_other": "{{count}} Tokens",
+    "TOKEN_many": "{{count}} Tokens",
+    "TOKEN_zero": "{{count}} Tokens",
+    "TOKEN_one": "{{count}} Token",
+    "TOKEN_few": "{{count}} Tokens"
 }

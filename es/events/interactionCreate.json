@@ -23,6 +23,6 @@
     "APPEAL_DENIED_FOOTER": "Apelacion rechazada por {{username}}",
     "APPEAL_ACCEPTED_FOOTER": "Apelacion aceptada por {{username}}",
     "IC_REASON": "Motivo: {{reason}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Tu pedido de banner con codigo**{{bannerCode}}** fue aprovada** \n- Link: {{url}} \n> Una recompensa de 3 Wists, 500 Silver y 500 Fan Points fueron agregados a tu inventario",
-    "BANNER_SUBMISSION_REJECTED": "Tu pedido de banner con codigo {{bannerCode}} fue rechazada. {{reason}} \n- Link: {{url}}"
+    "BANNER_SUBMISSION_ACCEPTED": "**Tu envío de banner con código**`{{bannerCode}}`** fue aprobada** \n- Link: {{url}} \n> Una recompensa de 3 Wists, 500 Silver y 500 Fan Points fueron agregados a tu inventario",
+    "BANNER_SUBMISSION_REJECTED": "Tu envío de banner con código `{{bannerCode}}` fue rechazada. {{reason}} \n- Link: {{url}}"
 }

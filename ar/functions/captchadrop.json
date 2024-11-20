@@ -1,3 +1,10 @@
 {
-    "EXTRA_GRAB": "{{user}} تم استخدام **Grab** الإضافي الخاص بك. لديك **{{remaining}}** متبقي"
+    "EXTRA_GRAB": "{{user}} تم استخدام **Grab** الإضافي الخاص بك. لديك **{{remaining}}** متبقي",
+    "WAIT_TO_CLAIM": "{{user}}عليك انتظار{{cooldown}} لإلتقط بطاقة اخرى",
+    "TOOK_THE_CARD": "{{user}} التقط بطاقة {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_AND_WON": "{{winner}} تعارك مع {{user}} و التقط بطاقة {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "CANNOT_BE_GRABBED": "{{user}} التقط بطاقة {{characterName}}",
+    "EMBED_TITLE": "Captcha Card",
+    "EMBED_FOOTER": "التقط البطاقة السابقة عن طريق كتابة كلمة التحقق",
+    "BATTLED_WON_PLURAL": "{{winner}} تعارك مع {{userCount}} من اللاعبين الأخرين و التقط بطاقة {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

@@ -1,12 +1,13 @@
 {
-  "BUYFRAME_DESCRIPTION": "‎‎اشترِ الإطار من المتجر",
-  "BF_CATEGORY": "المستحضرات التجميلية",
-  "NO_FRAME_NAME": "لقد نسيت تقديم اسم الإطار",
-  "NO_FRAMECODE_FOUND": "{{author}} لا يوجد إطار يحمل رمز `{{name}}`",
-  "FRAME_UNAVAILABLE": "هذا الإطار غير متوفر. يرجى استخدام `sfs` للتحقق من الإطار المتاح",
-  "FRAME_NOT_PURCHASABLE": "لا يمكن لـ {{author}} شراء تلك الإطارات",
-  "EMBED_TITLE": "SOFI: BUYFRAME",
-  "YOU_GET": "ستحصل على:",
-  "YOU_PAY": "ستدفع:",
-  "NO_ENOUGH_AMOUNT": "ليس لديك المبلغ الكافي لشراء الإطار"
+    "BUYFRAME_DESCRIPTION": "‎‎اشترِ الإطار من المتجر",
+    "BF_CATEGORY": "المستحضرات التجميلية",
+    "NO_FRAME_NAME": "{{author}}لقد نسيت تقديم اسم الإطار",
+    "NO_FRAMECODE_FOUND": "{{author}} لا يوجد إطار يحمل رمز `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}}هذا الإطار غير متوفر. يرجى استخدام {{prefix}} للتحقق من الإطار المتاح",
+    "FRAME_NOT_PURCHASABLE": "لا يمكن لـ {{author}} شراء تلك الإطارات",
+    "EMBED_TITLE": "SOFI: BUYFRAME",
+    "YOU_GET": "ستحصل على:",
+    "YOU_PAY": "ستدفع:",
+    "NO_ENOUGH_AMOUNT": "{{author}}ليس لديك {{currency}} الكافي لشراء الإطار",
+    "TRANSACTION_SUCCESSFUL": "{{author}}اشترى {{frameName}} بنجاح"
 }

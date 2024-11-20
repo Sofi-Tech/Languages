@@ -61,5 +61,6 @@
     "TRADE_PAGE_FOOTER": "Mostrando página: {{page}}/{{pages}}",
     "VALID_AMOUNT_GEMS": "El precio tiene que estar en el rango entre {{start}} y {{end}} <:gemgame:862598030562033694>",
     "BUY_LIMIT_TRADE_CONFIRMATION": "Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
-    "ALREADY_ACTIVE_ORDER": "Ya tienes un pedido activo. Porfavor espera a que acabe el pedido"
+    "ALREADY_ACTIVE_ORDER": "Ya tienes un pedido activo. Porfavor espera a que acabe el pedido",
+    "NO_ORDERS": "Actualmente no tienes ninguna orden"
 }

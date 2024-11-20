@@ -25,5 +25,11 @@
     "UNLOCKED_TAG_two": "🔓 {{count}} Tags desbloqueadas",
     "UNLOCKED_TAG_few": "🔓 {{count}} Tags desbloqueadas",
     "UNLOCKED_TAG_many": "🔓 {{count}} Tags desbloqueadas",
-    "UNLOCKED_TAG_other": "🔓 {{count}} Tags desbloqueadas"
+    "UNLOCKED_TAG_other": "🔓 {{count}} Tags desbloqueadas",
+    "TOKEN_two": "{{count}} Tokens",
+    "TOKEN_few": "{{count}} Tokens",
+    "TOKEN_other": "{{count}} Tokens",
+    "TOKEN_many": "{{count}} Tokens",
+    "TOKEN_one": "{{count}} Token",
+    "TOKEN_zero": "{{count}} Tokens"
 }
