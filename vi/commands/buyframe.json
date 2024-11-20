@@ -1,6 +1,6 @@
 {
     "NO_FRAME_NAME": "{{author}} Hãy cung cấp mã **Frame** mà bạn muốn mua",
-    "NO_FRAMECODE_FOUND": "{{author}} Không thể tìm thấy bất kỳ **Frame** nào với mã `{{name}}`",
+    "NO_FRAMECODE_FOUND": "{{author}} Không tìm thấy **Frame** nào với mã `{{name}}`",
     "FRAME_UNAVAILABLE": "{{author}} **Frame** đó hiện tại không khả dụng. Sử dụng lệnh `{{prefix}}fs` để xem các **Frame** hiện có",
     "FRAME_NOT_PURCHASABLE": "{{author}} **Frame** đó là bản giới hạn và không thể mua được nữa",
     "EMBED_TITLE": "SOFI: TRANSACTION",
