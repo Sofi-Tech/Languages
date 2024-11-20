@@ -14,5 +14,5 @@
     "DEMOTED_ADVENTURER": "{{member}} wurde zum **Adventurer** degradiert",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Nur **Veterans** können zu **Adventurers** degradiert werden",
     "DEMOTE_OTHERS_ERROR": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um andere zu degradieren",
-    "GD_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gd <@User/UserID> <V/N>`"
+    "GD_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gd <@Nutzer/NutzerID> <V/N>`"
 }
