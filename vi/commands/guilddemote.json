@@ -7,7 +7,7 @@
     "CANT_DEMOTE_FOUNDER": "{{author}} Bạn không thể giáng chức **Founder**",
     "GUILDDEMOTE_DESCRIPTION": "Sử dụng lệnh này để giáng chức thành viên trong bang hội ",
     "GUILDDEMOTE_CATEGORY": "Bang Hội",
-    "INVALID_USER_PROVIDED": "{{author}} Không thể tìm thấy người dùng đó",
+    "INVALID_USER_PROVIDED": "{{author}} Không tìm thấy người dùng đó",
     "PROVIDE_GUILD_RANK": "{{author}} Cung cấp hạng bang hội để giáng chức:\n> {{ranks}}",
     "DEMOTED_NEWBIE": "{{member}} bị giáng chức xuống **Newbie**",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Chỉ **Guildmaster** và **Veteran** mới có thể bị giáng chức xuống **Newbie**",
