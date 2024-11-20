@@ -9,10 +9,10 @@
     "VERIFY_TO_JOIN": "{{author}} Mag-beripika sa aming [website](https://sofi.gg/verify) upang makasali sa guild",
     "LEAVING_GUILD": "{{author}} Maaari kang sumali sa ibang guild sa loob ng **{{cooldown}}**",
     "GUILD_IS_FULL": "{{author}} Wala pang libreng pwesto sa guild na ito",
-    "GUILD_JOIN_CONFIRM": "{{member}}, si {{author}} ay gustong sumali sa iyong guild.\nTinatanggap mo ba siya bilang **Adventurer** ng iyong guild?",
+    "GUILD_JOIN_CONFIRM": "{{member}}, si {{author}} ay gustong sumali sa iyong guild.\nTinatanggap mo ba siya bilang **Newbie** ng iyong guild?",
     "ALLOW_BUTTON_LABEL": "Pumapayag ako",
     "DENY_BUTTON_LABEL": "Hindi na, salamat",
-    "GUILD_JOIN_ACCEPT": "Si {{member}} ay tinanggap si {{author}} bilang **Adventurer** sa kanilang guild",
+    "GUILD_JOIN_ACCEPT": "Si {{member}} ay tinanggap si {{author}} bilang **Newbie** sa kanilang guild",
     "GUILD_JOIN_REJECT": "Si {{member}} ay tinanggihan si {{author}} bilang **Adventurer** sa kanilang guild",
     "NOT_FOUNDER": "{{author}} Ang user na ito ay hindi **Founder** o **Guildmaster** sa guild"
 }
