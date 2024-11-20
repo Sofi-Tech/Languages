@@ -9,7 +9,7 @@
     "NO_ITEM": "{{author}} Cách sử dụng đúng: `{{prefix}}buy <ItemName> <Amount>`",
     "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}buy bg <Background-ID> <Amount>`",
     "INVALID_BG_ID": "{{author}} Không tìm thấy **Background** nào với ID đó",
-    "INVALID_ITEM_PROVIDED": "{{user}} Vật phẩm bạn cung cấp là không hợp lệ",
+    "INVALID_ITEM_PROVIDED": "{{user}} Vật phẩm bạn cung cấp không hợp lệ",
     "BUY_CHARMS_MULTIPLES": "{{author}} Bạn chỉ có thể mua **Charm** theo bội số của 100",
     "BUY_CHARM_CONFIRMATION": "## Bạn đang mua {{amount}} {{itemName}} <:xcharm:988729774031638528>",
     "LAYER_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}buy layer <Layer-ID> <Amount>`",
