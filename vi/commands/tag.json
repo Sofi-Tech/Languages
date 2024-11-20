@@ -6,7 +6,7 @@
     "NO_TAGS_CREATED": "{{author}} Bạn chưa có nhãn nào. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một nhãn",
     "NO_CARDS_CLAIMED": "{{author}} Hiện tại bạn chưa có thẻ nào trong bô sưu tập",
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} Các mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{arg}}",
-    "SUCCESSFUL_TAG": "{{author}} Đã gắn nhãn thành công nhãn `{{tag}}` cho thẻ **{{card}}**",
+    "SUCCESSFUL_TAG": "{{author}} Đã gắn thành công nhãn `{{tag}}` cho thẻ **{{card}}**",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Tất cả các mã đã được gắn nhãn thành công",
     "TAG_DESCRIPTION": "Với lệnh này, bạn có thể gắn nhãn cho một thẻ hoặc Version Token. Nhãn là một tính năng hữu ích để phân loại và nhóm nhiều mã theo cách của riêng bạn. Sử dụng lệnh \"{{prefix}}tagcreate\" để tạo nhãn"
 }
