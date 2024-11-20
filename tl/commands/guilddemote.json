@@ -10,9 +10,9 @@
     "DEMOTED_VETERAN": "Si {{member}} ay bumaba ang ranggo sa **Veteran**",
     "DEMOTE_VETERAN_ERROR": "{{author}} Tanging ang mga **Guildmaster** lamang ang maaaring ibaba ang rango sa **Veteran**",
     "DEMOTED_NEWBIE": "Si {{member}} ay bumaba ang ranggo sa **Newbie**",
-    "DEMOTED_ADVENTURER": "Si {{member}} ay bumaba ang ranggo sa **Adventurer**",
+    "DEMOTED_ADVENTURER": "Si {{member}} ay bumaba ang ranggo sa **Newbie**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Ikaw ay dapat na **Founder** o **Guildmaster** upang mai-baba ang ranggo ng iba",
     "PROVIDE_GUILD_RANK": "{{author}} Magbigay ng ranggo sa guild na ibababa: \n> {{ranks}}",
-    "DEMOTE_ADVENTURER_ERROR": "{{author}} Tanging ang mga **Veteran** lamang ang maaaring ibaba ang rango sa **Adventurers**",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Tanging ang mga **Guildmaster s** at **Veteran** lamang ang maaaring ibaba ang rango sa **Newbies**",
     "GD_CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}gd <@User/UserID> <V/N>`"
 }
