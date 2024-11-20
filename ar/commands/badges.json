@@ -1,6 +1,6 @@
 {
-  "BADGES_DESCRIPTION": "يعرض قائمة الأوسمة التي حصلت عليها",
-  "BADGES_CATEGORY": "الإعدادات",
-  "EMBED_TITLE": "SOFI: BADGES",
-  "NO_BADGES_FOUND": "ليس لديك أي شارة حتى الآن"
+    "BADGES_DESCRIPTION": "يعرض قائمة الأوسمة التي حصلت عليها. يمكنك وضع الأوسمة على بطاقة ملفك الشخصي بالستخدام أمر \"{{prefix}}\"",
+    "BADGES_CATEGORY": "الإعدادات",
+    "EMBED_TITLE": "SOFI: BADGES",
+    "NO_BADGES_FOUND": "ليس لديك أي شارة حتى الآن"
 }
