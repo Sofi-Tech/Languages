@@ -61,7 +61,7 @@
     "INVALID_BANNER": "अमान्य URL दिया गया",
     "GLOW_MODAL_PLACEHOLDER": "जैसे की: #aadffe",
     "COLOR_SET_SUCCESS": "सुचना संदेश के रंग को सफलतापूर्वक बदला गया",
-    "INVALID_PERMISSION": "अमान्य अनुमति स्तर प्रदान किया गया।\n\n**उपलब्ध स्तर:**\nAdventurer: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
+    "INVALID_PERMISSION": "अमान्य अनुमति स्तर प्रदान किया गया।\n\n**उपलब्ध स्तर:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "PERMISSION_EMBED_FOOTER": "क्राफ्टिंग अनुमति का स्तर: {{level}}",
     "BOOST_EMBED_FOOTER": "आप मुख्य सूची में से चुन सकते हैं कि कौन से आँकड़े बढ़ाने है",
     "CANNOT_HANDLE_MEMBERS": "40 से अधिक सदस्यों वाले गिल्ड को संभाला नहीं जा सकता",
