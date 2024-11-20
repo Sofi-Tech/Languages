@@ -42,7 +42,7 @@
     "FUSION_EMBED_FOOTER": "Du hast eine 0,5% Chance eine animierte Karte vom Ziehen zu erhalten",
     "NOT_ENOUGH_EQUIPMENT": "Du brauchst **{{needAmount}} {{needTier}} {{needEquipmentType}}s**, um **{{makeAmount}} {{makeTier}} {{makeEquipmentType}}** zu machen",
     "EQUIPMENT_MODAL_PLACEHOLDER": "z.B. 10",
-    "INVALID_AMOUNT": "Ungültiger Betrag angegeben",
+    "INVALID_AMOUNT": "Ungültige Anzahl bereitgestellt",
     "NOT_ENOUGH_SPECIAL_EQUIPMENT": "Du benötigst **{{needAmount}} {{needTier}} {{needEquipmentType}}s** und **{{ingotsAmount}}** {{emoji}}, um**{{makeAmount}} {{makeTier}} {{makeEquipmentType}}** zu machen",
     "VERSION_UPGRADE_SUCCESS": "Herzlichen Glückwunsch! **Version** wurde auf **{{version}}** hochgestuft",
     "VT_MODAL_PLACEHOLDER": "z.B. !aaa",
