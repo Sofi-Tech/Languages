@@ -7,5 +7,5 @@
     "TC_MAX_TAGS": "{{author}} Bạn đã tạo tối đa nhãn mà bạn có thể tạo",
     "LONG_TAGNAME": "{{author}} Tên của nhãn chỉ có thể dài tối đa **20** ký tự",
     "TAGNAME_EXISTS": "{{author}} Bạn đã có một nhãn có tên là `{{tag}}`",
-    "TAG_CREATED": "{{author}} Đã tạo thành công một nhãn có tên là `{{tag}}` | {{emoji}}"
+    "TAG_CREATED": "{{author}} Đã tạo thành công nhãn tên `{{tag}}` | {{emoji}}"
 }
