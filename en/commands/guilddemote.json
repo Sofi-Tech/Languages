@@ -12,7 +12,7 @@
     "DEMOTE_VETERAN_ERROR": "{{author}} Only **Guildmasters** can be demoted to **Veterans**",
     "DEMOTED_NEWBIE": "{{member}} was demoted to **Newbie**",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Only **Guildmasters** and **Veterans** can be demoted to **Newbies**",
-    "DEMOTED_ADVENTURER": "{{member}} was demoted to **Adventurer**",
-    "DEMOTE_ADVENTURER_ERROR": "{{author}} Only **Veterans** can be demoted to **Adventurers**",
+    "DEMOTED_ADVENTURER": "{{member}} was demoted to **Newbie**",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Only **Veterans** can be demoted to **Newbies**",
     "DEMOTE_OTHERS_ERROR": "{{author}} You must be a **Founder** or **Guildmaster** to demote others"
 }
