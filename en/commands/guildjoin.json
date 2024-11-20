@@ -10,10 +10,10 @@
     "LEAVING_GUILD": "{{author}} You can join another guild in **{{cooldown}}**",
     "GUILD_IS_FULL": "{{author}} There are no free slots in this guild",
     "GJ_EMBED_TITLE": "SOFI: GUILD JOIN",
-    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} wants to join your guild.\nDo you accept them as an **Adventurer** in your guild?",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} wants to join your guild.\nDo you accept them as a **Newbie** in your guild?",
     "ALLOW_BUTTON_LABEL": "I allow",
     "DENY_BUTTON_LABEL": "No, thanks",
-    "GUILD_JOIN_ACCEPT": "{{member}} accepted {{author}} as an **Adventurer** in their guild",
-    "GUILD_JOIN_REJECT": "{{member}} rejected {{author}} to be an **Adventurer** in their guild",
+    "GUILD_JOIN_ACCEPT": "{{member}} accepted {{author}} as a **Newbie** in their guild",
+    "GUILD_JOIN_REJECT": "{{member}} rejected {{author}} to be a **Newbie** in their guild",
     "NOT_FOUNDER": "{{author}} This user is not a **Founder** or **Guildmaster** in the guild"
 }
