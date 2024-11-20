@@ -1,5 +1,5 @@
 {
-    "RESTORECARD_DESCRIPTION": "Sử dụng lệnh này để khôi phục một thẻ đã đốt trong vòng 3 ngày kể từ khi đốt",
+    "RESTORECARD_DESCRIPTION": "Sử dụng lệnh này để khôi phục thẻ đã đốt trong vòng 3 ngày kể từ khi đốt",
     "CARD_NOT_FOUND": "{{author}} Không tìm thấy thẻ có mã `{{code}}` trong các thẻ đã đốt",
     "CARD_NOT_BURNED": "{{author}} Thẻ có mã `{{code}}` chưa bị đốt",
     "CARD_EXPIRED": "{{author}} Thẻ có mã `{{code}}` đã quá hạn và không thể được khôi phục nữa",
