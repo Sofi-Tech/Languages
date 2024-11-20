@@ -9,7 +9,7 @@
     "LISTED": "Listado",
     "NO_LISTINGS_FOUND": "{{user}} você não tem nenhum pedido no mercado atualmente",
     "INFO": "Use o comando`{{prefix}}mul <IDdoPedido>` para remover seu pedido do mercado",
-    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <IDdoPedido> <Quantidade>",
+    "FOOTER": "Mostrando resultados {{page}}-{{pages}} de {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Estoque: `{{stockAmount}}` {{stockEmoji}} | Taxa: `{{rateAmount}}` {{rateEmoji}}",
     "DEAL_EMBED_TITLE": "SOFI: ORDER INFO",
     "EMBED_TITLE": "SOFI: MARKETINFO ({{userName}})"
