@@ -8,9 +8,9 @@
     "VERSIONTOKEN_DESCRIPTION": "Sử dụng lệnh này để xem các Version Token trong bộ sưu tập của bạn. Bộ sưu tập có thể được sắp xếp theo Tên, Gen, Lượng Yêu Thích, Version",
     "VT_CATEGORY": "Đồ trang trí",
     "USER_PRIVATE": "{{author}} Người dùng này đã chỉnh bộ sưu tập **Version Token** của họ thành riêng tư",
-    "AUTHOR_NO_TOKENS": "{{author}} Bạn chưa có bất kỳ **Version Token** nào",
-    "USER_NO_TOKENS": "{{author}} Người dùng đó hiện chưa có bất kỳ **Version Token** nào",
-    "NOTHING_FOUND": "Không tìm thấy bất kỳ **Version Token** nào",
+    "AUTHOR_NO_TOKENS": "{{author}} Bạn chưa có **Version Token** nào",
+    "USER_NO_TOKENS": "{{author}} Người dùng đó hiện chưa có **Version Token** nào",
+    "NOTHING_FOUND": "Không tìm thấy **Version Token** nào",
     "INVALID_SERIES": "Bộ không hợp lệ",
     "SORT_VERSION": "Version",
     "SORT_CARD": "Thẻ Gốc",
@@ -18,5 +18,5 @@
     "EMBED_FOOTER": "Trang: {{page}}/{{totalPages}} | Tổng số Version Token: {{count}}",
     "SAVE_FILTER": "500 - Lưu bộ lọc này",
     "SELECT_FILTER": "Chọn bộ lọc",
-    "FILTER_NO_VT_FOUND": "{{author}} Không tìm thấy bất kỳ **Version Token** nào phù hợp với bộ lọc bạn đã chọn"
+    "FILTER_NO_VT_FOUND": "{{author}} Không tìm thấy **Version Token** nào phù hợp với bộ lọc bạn đã chọn"
 }
