@@ -14,6 +14,6 @@
     "TRANSFER_OWNERSHIP_CANCEL": "Dieser Prozess wurde abgebrochen",
     "PROVIDE_FOUNDER_RANK": "{{author}} Stelle einen Gilden Rang bereit um zu befördern:\n> **F**ounder, **G**uildmaster, **V**eteran",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Nur **Guildmasters** können zu **Founder** befördert werden",
-    "MUST_BE_FOUNDER": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein um andere Mitglieder der Gilde zu befördern",
+    "MUST_BE_FOUNDER": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um andere Mitglieder der Gilde zu befördern",
     "TRANSFER_OWNERSHIP_SUCCESS": "Der neuer Gilden Besitzer ist <@{{memberId}}>"
 }
