@@ -21,5 +21,5 @@
     "POSITIVE_NUMBER": "{{author}} Giá thầu của bạn phải là một số dương",
     "AUCTIONINFO_DESCRIPTION": "Lệnh này sẽ hiển thị các cuộc đấu giá đã kết thúc và đang diễn ra cho các mã thẻ mà bạn có thể tham gia. Các cuộc đấu giá sử dụng Charm làm đơn vị tiền tệ để đặt giá thầu",
     "BID_SUCCESSFUL": "{{author}} Bạn đã đặt thành công giá thầu là **{{amount}}** {{emoji}}",
-    "AUCTION_ID_LABEL": "ID của Cuộc Đấu Giá {{id}}"
+    "AUCTION_ID_LABEL": "ID Đấu Giá {{id}}"
 }
