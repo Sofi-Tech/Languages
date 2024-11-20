@@ -2,7 +2,7 @@
     "BUY_LAYER_INFO": "Benutze den `{{prefix}}buy layer <Layer-ID> <Amount>` Befehl, um eine **Layer** zu kaufen",
     "LAYERSHOP_CATEGORY": "Kosmetika",
     "LAYERSHOP_DESCRIPTION": "Dieser Befehl öffnet einen Textbox, in der alle Layers angezeigt werden, die derzeit zum Kauf angeboten werden",
-    "LS_PAGE_FOOTER": "Angezeigte Seite: {{currentPage}}/{{totalPages}}",
+    "LS_PAGE_FOOTER": "Seite: {{currentPage}}/{{totalPages}}",
     "LS_NAME": "**Name:** {{name}}",
     "LS_DESCRIPTION": "**Beschreibung:** {{description}}",
     "LS_PRICE": "**Preis:** {{amount}} {{currencyEmoji}}",
