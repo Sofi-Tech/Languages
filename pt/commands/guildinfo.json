@@ -143,7 +143,7 @@
     "PERMISSION_SET_SUCCESS": "Nível de permissão em Crafting foi atualizada com sucesso",
     "ITEM_EMBED_DESCRIPTION": "Os itens coletados no seu cofre podem ser utilizados para craftar outros itens.\nRecursos serão diretamente consumidos do seu cofre.\nO item criado será transferido diretamente para o seu inventário.\nO nível de permissão pode ser definido por **Founders** and **Guildmasters**.\n\nContagem global de **Guild Packages**: {{packageCount}}/300\nNível de permissão: **{{permLevel}}**\nTempo de criação\nCusto de criação",
     "UNLOCK_PERM_ERROR": "Apenas **Founders** e **Guildmasters** podem desbloquear este recurso",
-    "SPREADSHEET_NOTE": "Utilize \"{{prefix}}sheet guilda\" para receber uma tabela com os registros do cofre.\nWists e Silver não podem ser retirados.",
+    "SPREADSHEET_NOTE": "Utilize \"{{prefix}}sheet guild\" para receber uma tabela com os registros do cofre.\nWists e Silver não podem ser retirados.",
     "UNLOCK_FEATURES_MENU_PLACEHOLDER": "Desbloquear Recursos",
     "UNLOCK_IMAGE_CONFIRM": "Você deseja desbloquear o recurso de imagem da guilda por **{{amount}}** **{{currency}}**?",
     "CANNOT_HANDLE_MEMBERS": "Guildas com mais de 40 membros não são suportadas",
