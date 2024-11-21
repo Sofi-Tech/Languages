@@ -138,7 +138,7 @@
     "GI_WITHDRAWN": "Entnommen",
     "NOT_ENOUGH_ITEM_VAULT": "Nicht genug **{{itemName}}** im Tresor",
     "IMAGE_UNLOCK_SUCCESS": "Die Gildenbild-Funktion wurde erfolgreich freigeschaltet",
-    "INVALID_PERMISSION": "Ungültige Berechtigungsstufe bereitgestellt.\n\n**Verfügbare Level:**\nAdventurer: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
+    "INVALID_PERMISSION": "Ungültige Berechtigungsstufe bereitgestellt.\n\n**Verfügbare Level:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "UPGRADE_EMBED_DESCRIPTION": "> **Gilden Mitgliedsplätze - {{memSlots}}** \n> Verfügbare Gilden Plätze: `{{availableSlots}}` \n> Platz Freischaltkosten: `{{slotAmount}} {{slotCurrency}}` \n\n> **Gildenserver Einladung - {{inviteToggle}}** \n> Freischaltkosten: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Gildenbild - {{imageToggle}}** \n> Freischaltkosten: `{{imageAmount}} {{imageCurrency}}`",
     "UNLOCK_INVITE_CONFIRM": "Möchtest du das Gilden Einladungs Feature freischalten für **{{amount}}** **{{currency}}**?",
     "INVALID_GLOW": "Der **Glow** Code den du bereitgestellt hast ist entweder ungültig oder nicht in deinem Inventar",
