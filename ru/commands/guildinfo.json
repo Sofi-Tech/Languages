@@ -91,7 +91,7 @@
     "BOOST_EMBED_FOOTER": "В меню вы можете выбрать характеристики для усиления",
     "NO_LINKS_IN_DESCRIPTION": "Вы не можете использовать ссылки в описании гильдии",
     "INVALID_GLOW": "Указанный вами код **Glow** недействителен или не является частью вашего инвентаря",
-    "INVALID_PERMISSION": "Указан недействительный уровень доступа.\n\n**Доступные уровни:**\nAdventurer: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
+    "INVALID_PERMISSION": "Указан недействительный уровень доступа.\n\n**Доступные уровни:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "INVALID_AMOUNT": "Указано недопустимое количество",
     "NO_AMOUNT_INV": "У вас в инвентаре нет такого количества",
     "VAULT_EMBED_TITLE": "Хранилище {{name}}",
