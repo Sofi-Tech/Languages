@@ -9,7 +9,7 @@
     "DEMOTED_NEWBIE": "Ранг {{member}} понижен до **Newbie**",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Только **Guildmasters** и **Veterans** могут быть понижены до **Newbies**",
     "DEMOTED_ADVENTURER": "Ранг {{member}} понижен до **Newbie**",
-    "DEMOTE_ADVENTURER_ERROR": "{{author}} Только **Veterans** могут быть понижены до **Adventurers**",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Только **Guildmasters** и **Veterans** могут быть понижены до **Newbies**",
     "NO_GUILD_INFO": "{{author}} Не удалось найти информацию о гильдии данного пользователя",
     "DEMOTE_VETERAN_ERROR": "{{author}} Только **Guildmasters** могут быть понижены до **Veterans**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Вы должны быть **Founder** или **Guildmaster**, чтобы понижать ранги участников гильдии",
