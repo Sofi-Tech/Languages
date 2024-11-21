@@ -9,6 +9,6 @@
     "MISSING_CURRENCY": "{{author}} Você precisa de {{amount}}** {{currency}}** para restaurar uma carta",
     "RESTORE_SUCCESSFUL": "{{author}} A carta com o código `{{code}}` foi restaurada com sucesso",
     "RESTORE_FAILED": "{{author}} O processo foi cancelado",
-    "ENTER_CODE": "{{author}} Uso correto: `{{prefix}}restore<CardCode> `",
+    "ENTER_CODE": "{{author}} Uso correto: `{{prefix}}restore <CardCode>`",
     "CARD_NOT_BURNED": "{{author}} A carta com o código `{{code}}` ainda não está queimada"
 }
