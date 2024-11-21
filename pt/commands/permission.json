@@ -30,7 +30,7 @@
     "ADD_MODAL_LABEL": "Adiciona comandos na {{listName}} desse canal",
     "BLACKLISTED_COMMANDS": "**__Comandos na Blacklist__**",
     "REMOVE_MODAL_LABEL": "Remove comandos da {{listName}} desse canal",
-    "ADD_COMMANDS_SUCCESSFUL": "{{author}} Adicionadou com sucesso os comandos a seguir na {{listname}} do canal: {{commandsList}}",
+    "ADD_COMMANDS_SUCCESSFUL": "{{author}} Adicionou com sucesso os comandos a seguir na {{listname}} do canal: {{commandsList}}",
     "PERMS_BLACKLIST_LISTNAME": "Blacklist",
     "PERMS_WHITELIST_LISTNAME": "Whitelist",
     "YES_BUTTON_LABEL": "Confirmar",
