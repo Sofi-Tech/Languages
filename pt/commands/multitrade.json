@@ -23,7 +23,7 @@
     "MT_INFO_3": "🗒️ Adicione notas à sua negociação para adicionar contexto aos nossos logs",
     "MT_INFO_4": "📛 A troca de itens Sofi por criptomoedas é estritamente proibida",
     "MT_COMPLETE": "SOFI: MULTITRADE",
-    "MISSING_ITEMS": "{{user}} Os seguintes itens estão faltando em seu inventário e não puderam ser adicionados\n`{{items}}`",
+    "MISSING_ITEMS": "{{user}} Você tem uma quantidade insuficiente dos seguintes itens:\n{{items}}",
     "CARD_LOCKED": "{{user}} As seguintes cartas estão bloqueadas ou são usadas atualmente em um deck e não podem ser adicionadas:\n{{codes}}",
     "MEMBER_NOT_VERIFIED": "{{author}} Esse usuário não foi verificado",
     "NOTE_BUTTON_LABEL": "Nota",

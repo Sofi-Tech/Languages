@@ -1,7 +1,7 @@
 {
     "SUPERGLOW_DESCRIPTION": "Você pode usar este comando para combinar 2 Glows e 2 Resins em um Super Glow. Um Super Glow apresenta ambos os esquemas de cores dos Glows originais usados no processo de fusão",
     "SG_CATEGORY": "Cosméticos",
-    "GLOW_CODES_MISSING": "{{author}} Uso correto: `{{prefix}}sg <#CódigoDoBrilho1> <#CódigoDoBrilho2>`",
+    "GLOW_CODES_MISSING": "{{author}} Uso correto: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
     "GLOW_NOT_FOUND": "{{author}} Ao menos um dos códigos de **Glow** utilizados é inválido ou não está no seu inventário",
     "UNAVAILABLE_GLOW": "{{author}} Ao menos um dos códigos de **Glow** utilizados está em branco",
     "NO_USE_SG": "{{author}} Você não pode usar um **Super Glow** para este processo",

@@ -9,7 +9,7 @@
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
-    "UNREAD_MAIL_zero": "\n📫 You have **{{count}}** unread mail",
+    "UNREAD_MAIL_zero": "\n📫 You have **{{count}}** unread mails",
     "UNREAD_MAIL_one": "\n📫 You have **{{count}}** unread mail",
     "UNREAD_MAIL_two": "\n📫 You have **{{count}}** unread mails",
     "UNREAD_MAIL_few": "\n📫 You have **{{count}}** unread mails",

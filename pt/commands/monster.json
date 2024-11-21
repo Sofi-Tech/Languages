@@ -13,7 +13,7 @@
     "MONSTER_DEFEATED_many": "**Derrotado:** {{count}} vezes",
     "MONSTER_TOP_DEFEATERS": "__**Top Vencedores**__",
     "MONSTER_DEFEATED_other": "**Derrotado:** {{count}} vezes",
-    "MONSTER_DESCRIPTION": "Utilize este comando para exibir um catálogo com todos os chefes disponíveis, utilize o comando \"{{prefix}}monster <NomeDoMonstro>\" para ver uma descrição mais detalhada",
+    "MONSTER_DESCRIPTION": "Utilize este comando para exibir um catálogo com todos os chefes disponíveis, utilize o comando \"{{prefix}}monster <MonsterName>\" para ver uma descrição mais detalhada",
     "MONSTER_BOSS_SPAWNED_zero": "{{bossName}} apareceu **{{count}}** vezes",
     "MONSTER_BOSS_SPAWNED_one": "{{bossName}} apareceu **{{count}}** vez",
     "MONSTER_BOSS_SPAWNED_two": "{{bossName}} apareceu **{{count}}** vezes",

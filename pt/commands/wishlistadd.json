@@ -1,11 +1,11 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Use este comando para adicionar um personagem à sua Wishlist pessoal. Esta ação não tem nenhum benefício ou vantagem direta associada a ela",
+    "WISHLISTADD_DESCRIPTION": "Use este comando para adicionar um personagem à sua lista de desejos pessoal. Esta ação não tem nenhum benefício ou vantagem direta associada a ela",
     "CATEGORY": "Lista de Desejos",
-    "ADD_CHARACTERS_ERROR": "{{author}} Você não pode adicionar mais personagens à sua wishlist",
+    "ADD_CHARACTERS_ERROR": "{{author}} Você não pode adicionar mais personagens à sua lista de desejos",
     "SEARCH_CHARACTER_ERROR": "{{author}} Uso correto: `{{prefix}}wa <Nome>`",
     "NO_CHARACTER_FOUND": "{{author}} Não foi possível encontrar esse personagem. Use o comando `{{prefix}}wa -f <Nome>` para uma pesquisa exata",
-    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** já está na sua wishlist",
-    "CHARACTER_ADDED": "{{author}} Adicionou **{{name}}** com sucesso à sua wishlist",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** já está na sua lista de desejos",
+    "CHARACTER_ADDED": "{{author}} Adicionou **{{name}}** com sucesso à sua lista de desejos",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
     "INCREASE_CAPACITY": "Desbloqueie mais slots usando o comando `{{prefix}}wl` e clicando no ícone {{emoji}}"
 }
