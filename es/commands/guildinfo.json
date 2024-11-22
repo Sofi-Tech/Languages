@@ -12,7 +12,7 @@
     "IMAGE_WRONG_DIMENSION": "La imagen debe tener las dimensiones de {{width}} x {{height}}",
     "BUFF_DESC_6": "Reduce el costo para reparar los equipamientos",
     "GUILD_SERVER_MENU_LABEL": "Invitación al Servidor del Gremio",
-    "IMAGE_MODAL_PLACEHOLDER": "e.j.: https://some.com/img.png | {{width}} X {{height}}",
+    "IMAGE_MODAL_PLACEHOLDER": "e.g.: https://some.com/img.png | {{width}} x {{height}}",
     "DONATED_TO_VAULT": "> {{user}} donó **{{amount}}** **{{itemName}}** al vault",
     "UNLOCK_IMAGE_CONFIRM": "Quieres desbloquear la característica de imagen de gremio por **{{amount}}** **{{currency}}**?",
     "GUILDINFO_DESCRIPTION": "Este comando es usado para acceder al embed del gremio; conteniendo detalles de los miembros, vault, crafteos, mejoras y otras funciones del gremio dependiendo si es tu gremio y permisos.",
@@ -76,7 +76,7 @@
     "IMAGE_MODAL_TITLE": "Editar Imagen del Gremio",
     "INAVLID_IMAGE_URL": "URL de imagen inválido",
     "IMAGE_CHANGE_SUCCESS": "La imagen del gremio ha sido puesta con éxito",
-    "INVITE_MODAL_LABEL": "Introduce el enlace de la invitación al servidor:",
+    "INVITE_MODAL_LABEL": "Introduce el enlace de la invitación:",
     "INVITE_MODAL_PLACEHOLDER": "Ejemplo: https://discord.gg/sofi",
     "FOUNDERS_GM_INVITE": "Solo los **Founders** y **Guildmasters** pueden poner la invitación del gremio",
     "INAVLID_INVITE_URL": "La invitación debe empezar con `https://discord.gg/`",
@@ -150,7 +150,7 @@
     "CANT_FIND_GUILD": "{{author}} La información de gremio no se pudo encontrar. Por favor provee un ID de gremio o menciona a un miembro del gremio.",
     "FOUNDERS_GM_IMAGE": "Solo los **Founders** y **Guildmasters** pueden poner la imagen del gremio",
     "INVITE_MODAL_TITLE": "Editar Invitación al Servidor",
-    "INVALID_PERMISSION": "Nivel de permiso proporcionado inválido.\n\n**Niveles disponibles:**\nAdventurer: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
+    "INVALID_PERMISSION": "Nivel de permiso proporcionado inválido.\n\n**Niveles disponibles:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "UPGRADE_EMBED_DESCRIPTION": "> **Espacios de Miembros del Gremio - {{memSlots}}** \n> Espacios del gremio disponibles: `{{availableSlots}}` \n> Costo de desbloqueo de espacio: `{{slotAmount}} {{slotCurrency}}` \n\n> **Invitación al Servidor del Gremio - {{inviteToggle}}** \n> Costo de desbloqueo: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Imagen del Gremio - {{imageToggle}}** \n> Costo de desbloqueo: `{{imageAmount}} {{imageCurrency}}`",
     "ITEM_EMBED_DESCRIPTION": "Los ítems recolectados en tu bóveda pueden ser usados para craftear varios ítems. \nLos recursos serán consumidos directamente del vault. \nEl ítem crafteado será transferido directamente a tu inventario. \nEl nivel de permiso puede ser puesto por los **Founders** y **Guildmasters**. \n\nCantidad de **Guild Packages** globales: {{packageCount}}/300 \nNivel de permiso: **{{permLevel}}** \nTiempo de crafteo \nCosto de crafteo"
 }
