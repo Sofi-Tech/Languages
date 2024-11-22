@@ -18,7 +18,7 @@
     "GIF_EMBED_FOOTER": "Tienes un 0,5% de posibilidades de obtener una carta animada de las tiradas.",
     "GIF_NOTE": "Cada personaje GIF puede ser reclamado hasta 100 veces",
     "PULL_DISABLED": "{{author}} Los pulls están deshabitados hasta que nuevos GIFs sean publicados",
-    "CLAIM_GEN1_CARD": "✨ Felicidades en reclamar una carta Gen 1 - `sv {{code}}` \n\n```fix \nCartas de Gen de un digito son raras y muy buscadas por jugadores. Duplicados de esas Gens son extremadamente poco comunes. \nAsegurate de vuscar el valor de la carta antes de intercambiarla, y considera consultar sus top fan que te asistiran a encontrar su verdadero valor.\n``` \n{{topFans}} \n**[Gen Guide](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
-    "TOP_FANS_INFO": "Aca estan los top fans de este personaje: \n{{topFans}}",
-    "GEN1_CARD_DROPPED": "✨ Una carta Gen 1 de un personaje al cual sos top fan se ha dropeado \n\n**Name: {{name}}** \n**Series: {{series}}**"
+    "CLAIM_GEN1_CARD": "✨ Felicidades por reclamar una carta Gen 1 - `sv {{code}}` \n\n```fix \nLas cartas con un Gen de un solo dígito son raras y muy buscadas por jugadores. Los duplicados de esos Gens son extremadamente poco comunes. \nAsegúrate de buscar el valor de la carta antes de intercambiarla, y considera consultar sus fans principales que te ayudarán a encontrar su verdadero valor.\n``` \n{{topFans}} \n**[Guía del Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
+    "TOP_FANS_INFO": "Aquí están los fans principales de este personaje: \n{{topFans}}",
+    "GEN1_CARD_DROPPED": "✨ Una carta con Gen 1 de un personaje del cual eres fan principal ha sido dropeada \n\n**Nombre: {{name}}** \n**Serie: {{series}}**"
 }
