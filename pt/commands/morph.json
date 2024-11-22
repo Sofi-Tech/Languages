@@ -24,7 +24,7 @@
     "MNC_CARDS_CANNOT_MORPH": "{{author}} Os cards **Monochrome 2023 3D** não podem ter morphs",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "ROLL_MORPH": "O Morph será perdido após 2 minutos",
-    "CANNOT_APPLY_MNC": "{{author}} Você não pode aplicar morphs {{article}} **{{eventType}}** em cartas **{{eventCardType}}** ou **3D**",
+    "CANNOT_APPLY_MNC": "{{author}} Você não pode aplicar {{article}} **{{eventType}}** morph em cartas **{{eventCardType}}** ou **3D**",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Cada sorteio custará 1 {{currencyName}}",
     "CANNOT_APPLY_3D": "{{author}} Você não pode aplicar morphs {{article}} **{{eventType}}** em cartas **3D**"

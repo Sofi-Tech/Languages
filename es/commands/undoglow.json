@@ -2,7 +2,7 @@
     "UNDOGLOW_DESCRIPTION": "Usar este comando en una carta eliminará el Glow aplicado a esta",
     "UNG_CATEGORY": "Cosméticos",
     "UNG_INVALID_USAGE": "{{author}} Uso correcto: `{{prefix}}ung <CódigoDeCarta>`",
-    "INVALID_CODE": "{{author}} El código de carta que proporcionaste es inválido o no se encuentra en tu colección",
+    "INVALID_CODE": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
     "NO_CHARACTER": "{{author}} El personaje de esta carta ya no está disponible en Sofi y no se puede interactuar con él",
     "NO_GIF": "{{author}} No puedes quitar cosméticos de una carta **GIF**",
     "NOT_GLOWED": "{{author}} Esa carta no tiene un **Glow** aplicado",

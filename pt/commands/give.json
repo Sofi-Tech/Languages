@@ -11,7 +11,7 @@
     "CARD_LOCKED": "{{author}} Essa carta está bloqueada e não pode ser dada. Use o comando `{{prefix}}ut <CardCode>` para destravar a carta",
     "CANCELLED": "O processo foi cancelado",
     "AUTHOR_BLACKLISTED": "{{author}} Você está na blacklist",
-    "AUTHOR_NOT_VERIFIED": "{{author}}Você não é verificado",
+    "AUTHOR_NOT_VERIFIED": "{{author}} Você não é verificado",
     "AUTHOR_QUARANTINED": "{{author}} Você está em quarentena",
     "CARD_SELECTED": "{{author}} A carta está sendo usada em um deck e não pode ser transferida",
     "CARD_IN_QUEST": "{{author}} Esta carta está sendo utilizada em uma quest e não pode ser entregue",

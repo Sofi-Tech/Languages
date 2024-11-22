@@ -8,7 +8,7 @@
     "CORRECT_USAGE": "{{user}} Uso correcto: `{{prefix}}buy bg <IDDelBackground> <Cantidad>`",
     "INVALID_BG_AMOUNT": "{{author}} No se puede comprar una cantidad negativa de un ítem",
     "INVALID_BG_ID": "{{author}} No se ha podido encontrar ningún **Background** con ese ID",
-    "INVALID_ITEM_PROVIDED": "{{user}} El ítem que has proporcionado es inválido",
+    "INVALID_ITEM_PROVIDED": "{{user}} El ítem que has proporcionado no es válido",
     "BUY_CHARM_CONFIRMATION": "## Estás comprando {{amount}} {{itemName}} <:xcharm:988729774031638528>",
     "BUY_CHARMS_MULTIPLES": "{{author}} Solo puedes comprar **Charms** en múltiplos de 100",
     "BUY_GEN_CONFIRMATION": "## Estás comprando {{count}} {{itemName}} 💳",

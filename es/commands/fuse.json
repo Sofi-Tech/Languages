@@ -23,7 +23,7 @@
     "BASE_SET_SUCCESS": "Carta base establecida con éxito",
     "VT_MODAL_LABEL": "Introduce el código del Version Token",
     "VT_MODAL_PLACEHOLDER": "ej. !aaa",
-    "INVALID_VERSION": "El código de **Version Token** que proporcionaste es inválido o no se encuentra en tu colección",
+    "INVALID_VERSION": "El código de **Version Token** que proporcionaste no es válido o no se encuentra en tu colección",
     "NOT_VERSION_CHAR": "El código que has proporcionado no es un **Version Token** de **{{characterName}}**",
     "EQUIPMENT_FUSION_SUCCESS": "La fusión de Equipamientos se ha realizado con éxito \n{{moreInfo}}",
     "VERSION_UPGRADE_FAILED": "La mejora del **Version** falló, inténtalo de nuevo por favor",

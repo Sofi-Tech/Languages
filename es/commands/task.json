@@ -46,7 +46,7 @@
     "QUEST_REWARDS_ONE": "La mision obtuvo {{shardCount}} Shards y {{silver}} Silver",
     "DECK_SELECTED_zero": "{{deck}} esta afuera en {{quest}} por {{count}} horas",
     "DECK_SELECTED_two": "{{deck}} esta afuera en {{quest}} por {{count}} horas",
-    "CARD_INVALID": "El código `{{code}}` de la carta es inválido o no se encuentra en tu colección",
+    "CARD_INVALID": "El código `{{code}}` de la carta no es válido o no se encuentra en tu colección",
     "LEVEL": "Nivel",
     "DURATION_zero": "Duracion: {{count}} horas",
     "STAT": "Stat",

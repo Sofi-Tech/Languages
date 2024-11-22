@@ -12,5 +12,5 @@
     "TOOK_VERSION": "{{winner}} **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın",
     "GRAB_VERSION": "{{winner}}, {{user}} ile savaştı ve **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın",
     "GRAB_VERSION_PLURAL": "{{winner}}, **{{userCount}}** farklı oyuncularla mücadele etti ve **{{character}}** Sürüm Simgesini (`{{code}}`) **yakaladı** | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nBu Sürüm Simgesini görüntülemek için `{{prefix}}vt` komutunu kullanın",
-    "NOT_ALLOWED_TO_GRAB": "{{user}} Ya kara listeye alındınız ya da karantinaya alındınız ya da kayıtlı değilsiniz ve bu kartı alamıyorsunuz"
+    "NOT_ALLOWED_TO_GRAB": "Ya kara listeye alındınız ya da karantinaya alındınız ya da kayıtlı değilsiniz ve bu kartı alamıyorsunuz"
 }

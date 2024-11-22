@@ -12,7 +12,7 @@
     "DEMOTED_NEWBIE": "{{member}} **Newbie** seviyesine düşürüldü",
     "CANT_DEMOTE_FOUNDER": "{{author}} Bir **Founder**'ın rütbesini düşüremezsiniz",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Yalnızca **Guildmaster** ve **Veteran** rütbeleri **Newbie** seviyesine düşürülebilir",
-    "DEMOTED_ADVENTURER": "{{member}} **Adventurer** seviyesine düşürüldü",
+    "DEMOTED_ADVENTURER": "{{member}} **Newbie** seviyesine düşürüldü",
     "DEMOTE_OTHERS_ERROR": "{{author}} Başkalarını düşürmek için **Founder** veya **Guildmaster** olmanız gerekir",
-    "DEMOTE_ADVENTURER_ERROR": "{{author}} Yalnızca **Veteran** rütbesindekiler **Adventurer** seviyesine düşürülebilir"
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Yalnızca **Veteran** ve **Guildmasters** rütbesindekiler **Newbies** seviyesine düşürülebilir"
 }

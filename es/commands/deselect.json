@@ -2,6 +2,6 @@
     "DESELECT_DESCRIPTION": "Este comando puede ser usado para remover cualquier carta que se encuentra salvada en tu deck",
     "DESELECT_CATEGORY": "Gremio",
     "ENTER_VALID_CODE": "{{author}} Uso correcto: `{{prefix}}ds <CodigoDeCarta>`",
-    "NOT_OWN_CARD": "{{author}} El código de carta que proporcionaste es inválido o no se encuentra en tu colección",
+    "NOT_OWN_CARD": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
     "DESELECTED_SUCCESSFULLY": "{{author}} La carta ha sido removida con éxito"
 }

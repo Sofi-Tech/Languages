@@ -4,6 +4,6 @@
     "UT_EMPTY_COLLECTION": "{{author}} Aún no tienes ninguna carta en tu colección",
     "UNTAG_SUCCESSFUL": "{{author}} Eliminado con éxito el tag de **{{cardName}}**",
     "MULTIPLE_UNTAG": "{{author}} Eliminado con éxito el tag de **{{count}}** códigos",
-    "INVALID_CODE": "{{author}} Ese código es inválido o no se encuentra en tu colección",
+    "INVALID_CODE": "{{author}} Ese código no es válido o no se encuentra en tu colección",
     "INVALID_CODE_MULTIPLE": "{{author}} Los siguientes códigos no son válidos o no están en tu colección:\n{{invalidCodeList}}"
 }

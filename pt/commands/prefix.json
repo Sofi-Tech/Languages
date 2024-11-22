@@ -1,6 +1,6 @@
 {
     "PREFIX_DESCRIPTION": "Com este comando você pode definir o prefixo para seu servidor. O prefixo selecionado será necessário para executar comandos na Sofi",
     "PREFIX_CATEGORY": "Configurações",
-    "PROVIDE_PREFIX": "{{author}} Uso correto: `{{prefix}}prefixo <NewPrefix>`",
+    "PROVIDE_PREFIX": "{{author}} Uso correto: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} O prefixo para este servidor foi definido como `{{prefix}}`"
 }
