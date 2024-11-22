@@ -5,7 +5,7 @@
     "NOT_GUILD_MEMBER": "{{author}} वह उपयोगकर्ता आपके गिल्ड का सदस्य नहीं है",
     "DEMOTED_VETERAN": "{{member}} का पद घटा कर उसे **Veteran** बनाया गया",
     "DEMOTED_NEWBIE": "{{member}} का पद घटा कर उसे **Newbie** बनाया गया",
-    "DEMOTED_ADVENTURER": "{{member}} का पद घटा कर उसे **Newbie** बनाया गया",
+    "DEMOTED_ADVENTURER": "{{member}} का पद घटा कर **Newbie** बनाया गया",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} केवल **Guildmasters** और **Veterans** का ही पद घटा कर **Newbies** किया जा सकता है",
     "MUST_HAVE_AUTHORITY": "{{author}} अपने गिल्ड के किसी सदस्य का पद घटाने के लिए आपका **Founder** या **Guildmaster** होना आवश्यक है",
     "DEMOTE_VETERAN_ERROR": "{{author}} केवल **Guildmasters** का ही पद घटा कर **Veteran** किया जा सकता है",
