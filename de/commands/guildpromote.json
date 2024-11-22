@@ -1,6 +1,6 @@
 {
     "GUILDPROMOTE_DESCRIPTION": "Benutze diesen Befehl, um den Rang des ausgewählten Gildenmitglieds zu erhöhen",
-    "NO_GUILD_INFO": "{{author}} Es konnte keine Gildeninfo für diesen Benutzer finden",
+    "NO_GUILD_INFO": "{{author}} Es konnte keine Gildeninfo für diesen Nutzer finden",
     "GUILDPROMOTE_CATEGORY": "Gilden",
     "GP_CORRECT_USAGE": "{{author}} Korrekte Benutzung: `{{prefix}}gp <@Nutzer/NutzerID>`",
     "NOT_MEMBER": "{{author}} Dieser Nutzer ist kein Mitglied deiner Gilde",
