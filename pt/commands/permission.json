@@ -6,7 +6,7 @@
     "RESET_BUTTON_LABEL": "Reiniciar",
     "REMOVE_BUTTON_LABEL": "Remover",
     "PERMS_EMBED_TITLE": "SOFI: PERMISSIONS",
-    "PERMISSION_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}p [BL/WL] [Add/Rem] <NomeDosComandos/All>`",
+    "PERMISSION_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}p [BL/WL] [Add/Rem] <CommandNames/All>`",
     "PERMISSION_DESCRIPTION": "Com esse comando você pode autorizar ou bloquear comandos do canal em que são usados. Comandos autorizados serão os únicos comandos utilizáveis no canal, enquanto comandos bloqueados serão os únicos comandos inutilizáveis no canal",
     "NO_PERMS_SETUP": "{{author}} A permissão ainda não foi configurada nesse canal. Para configurar, use `{{prefix}}p [BL/WL] [Add] <NomeDosComandos/All>`",
     "BLACKLISTING_USAGE": "Uso: `{{prefix}}p bl add/rem <NomeDoComando/All>`\n",
