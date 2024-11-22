@@ -9,7 +9,7 @@
     "CARD_two": "{{count}} kart",
     "CARD_few": "{{count}} kart",
     "LOCK_MENU_PLACEHOLDER": "Kilitlemek/kilidini açmak için bir etiket seçin",
-    "LOCKED_TAG_zero": "🔒 Kilitli {{count}} etiket",
+    "LOCKED_TAG_zero": "🔒 {{count}} etiket kilitlendi",
     "LOCKED_TAG_one": "🔒 {{count}} Etiket kilitlendi",
     "LOCKED_TAG_two": "🔒 {{count}} etiket kilitlendi",
     "LOCKED_TAG_few": "🔒 {{count}} etiket kilitlendi",
@@ -25,5 +25,11 @@
     "CARD_zero": "{{count}} kart",
     "CARD_many": "{{count}} kart",
     "NO_TAGS_SELF": "{{author}} Henüz herhangi bir etiketiniz yok. Etiket oluşturmak için `{{prefix}}tc <Etiketİsmi> <Emoji>` komutunu kullanın",
-    "UNLOCKED_TAG_zero": "🔓 {{count}} etiketin kilidi açıldı"
+    "UNLOCKED_TAG_zero": "🔓 {{count}} etiketin kilidi açıldı",
+    "TOKEN_zero": "{{count}} Tokens",
+    "TOKEN_one": "{{count}} Tokens",
+    "TOKEN_two": "{{count}} Tokens",
+    "TOKEN_other": "{{count}} Tokens",
+    "TOKEN_many": "{{count}} Tokens",
+    "TOKEN_few": "{{count}} Tokens"
 }
