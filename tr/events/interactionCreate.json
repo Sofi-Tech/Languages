@@ -21,8 +21,8 @@
     "SUPPORT_BUTTON_LABEL": "Destek",
     "APPEAL_ACCEPTED_FOOTER": "İtiraz {{username}} tarafından kabul edildi",
     "APPEAL_DENIED_FOOTER": "İtiraz {{username}} tarafından reddedildi",
-    "BANNER_SUBMISSION_ACCEPTED": "**Kod **{{bannerCode}}** ile yaptığınız afiş gönderisi onaylandı**\n- Bağlantı: {{url}}\n>Envanterinize 3 Wists, 500 Silver ve 500 Fan Points eklenmiştir",
+    "BANNER_SUBMISSION_ACCEPTED": "**Kod **`{{bannerCode}}` **ile yaptığınız afiş gönderisi onaylandı**\n- Bağlantı: {{url}}\n>Envanterinize 3 Wists, 500 Silver ve 500 Fan Points eklenmiştir",
     "IC_REASON": "Sebep: {{reason}}",
     "OUTBID_IN_AUCTION": "Kod [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>) için yapılan açık artırmada teklifiniz geçildi.\nSizin teklifiniz: {{oldAmount}} {{oldItemEmoji}} | Yeni teklif: {{newAmount}} {{newItemEmoji}}\nAçık artırma {{time}} içinde sona erecek",
-    "BANNER_SUBMISSION_REJECTED": "{{bannerCode}} Kodlu yaptığınız afiş gönderisi reddedildi. {{reason}}\n- Bağlantı: {{url}}"
+    "BANNER_SUBMISSION_REJECTED": "`{{bannerCode}}` Kodlu yaptığınız afiş gönderisi reddedildi. {{reason}}\n- Bağlantı: {{url}}"
 }
