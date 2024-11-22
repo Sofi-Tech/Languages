@@ -7,13 +7,13 @@
     "ALREADY_FOUNDER": "{{author}} Este usuario ya es un **Founder** en el gremio",
     "PROVIDE_FOUNDER_RANK": "{{author}} Provee el rango de gremio a ascender:\n> **F**ounder, **G**uildmaster, **V**eteran",
     "PROMOTED_TO_VETERAN": "{{member}} ha sido ascendido a **Veteran** con éxito",
-    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Solo**Adventurers** pueden ser ascendidos a **Veteran**",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Solo los **Newbies** pueden ser ascendidos a **Veteran**",
     "PROMOTED_TO_GUILDMASTER": "{{member}} ha sido ascendido a **Guildmaster** con éxito",
     "TRANSFER_OWNERSHIP_CONFIRM": "Estás por transferir la propiedad del gremio a {{member}}. Estás seguro?",
     "TRANSFER_OWNERSHIP_CANCEL": "El proceso ha sido cancelado",
     "TRANSFER_OWNERSHIP_SUCCESS": "El nuevo dueño del gremio es <@{{memberId}}>",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Solo **Guildmasters** pueden ser ascendidos a **Founder**",
     "PROVIDE_VETERAN_RANK": "{{author}} Provee el rango de gremio a ascender:\n> **V**eteran",
-    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Sólo **Adventurers** y **Veterans** pueden ser ascendidos a **Guildmaster**",
+    "ONLY_VETERAN_CAN_BE_GUILDMASTER": "{{author}} Sólo los **Newbies** y **Veterans** pueden ser ascendidos a **Guildmaster**",
     "MUST_BE_FOUNDER": "{{author}} Tienes que ser un **Founder** o **Guildmaster** para ascender a un miembro del gremio"
 }
