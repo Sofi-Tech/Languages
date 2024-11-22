@@ -3,7 +3,7 @@
     "MUST_BE_FOUNDER": "{{author}} Bạn phải là **Founder** hoặc **Guildmaster** để thăng chức thành viên của bang hội",
     "PROVIDE_FOUNDER_RANK": "{{author}} Cung cấp thứ hạng bang hội để thăng chức:\n> **F**ounder, **G**uildmaster, **V**eteran",
     "PROVIDE_VETERAN_RANK": "{{author}} Cung cấp thứ hạng bang hội để thăng chức:\n> **V**eteran",
-    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Chỉ **Adventurer** mới có thể được thăng chức thành **Veteran**",
+    "ONLY_ADVENTURER_CAN_BE_VETERAN": "{{author}} Chỉ **Newbie** mới có thể được thăng chức thành **Veteran**",
     "GUILDPROMOTE_DESCRIPTION": "Sử dụng lệnh này để thăng chức một thành viên trong bang hội",
     "GP_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gp <@User/UserID>`",
     "NO_GUILD_INFO": "{{author}} Không tìm thấy thông tin bang hội nào về người dùng đó",
