@@ -64,5 +64,5 @@
     "ALL_TAG_SUCCESS_other": "Berhasil menambahkan tag berikut ke **{{count}}** kartu `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_many": "Berhasil melepas tag berikut dari **{{count}}** kartu `{{tagName}}`",
     "VERSION_AVAILABILITY": "Ketersediaan Version",
-    "FILTER_NAME_EXISTS": "Filter dengan nama {{filterName}} sudah ada"
+    "FILTER_NAME_EXISTS": "Filter dengan nama `{{filterName}}` sudah ada"
 }
