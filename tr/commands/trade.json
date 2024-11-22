@@ -61,5 +61,6 @@
     "VALID_AMOUNT_GEMS": "Fiyat {{start}} ile {{end}} <:gemgame:862598030562033694> aralığında olmalıdır",
     "ORDER_NOTE_INFO": "-__{{flag}}__- Mevcut en iyi kurdan hemen gerçekleştirilecek, aksi takdirde iptal edilecektir. \n- __Sipariş__ - Belirlediğiniz kur mevcut olduğunda gerçekleştirilecektir. Maliyet, peşin olarak tahsil edilecektir.\nSipariş verdiğinizde, öğeler anında düşülecektir. Mevcut bir siparişi kaldırmak için \"Siparişlerim\" bölümüne gidin.",
     "NO_MATCHING_ORDERS_FOUND": "Eşleşen bir sipariş bulunamadı, ancak sipariş pazara eklendi",
-    "ALREADY_ACTIVE_ORDER": "Zaten aktif bir siparişiniz var. Lütfen siparişin tamamlanmasını bekleyin"
+    "ALREADY_ACTIVE_ORDER": "Zaten aktif bir siparişiniz var. Lütfen siparişin tamamlanmasını bekleyin",
+    "NO_ORDERS": "Şu anda herhangi bir siparişiniz bulunmamaktadır"
 }
