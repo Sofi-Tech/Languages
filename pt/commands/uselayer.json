@@ -3,7 +3,7 @@
     "USELAYER_CATEGORY": "Cosméticos",
     "UL_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}ul <CardCode> <Layer-ID>`",
     "CARD_INVALID": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
-    "CANNOT_APPLY_LAYER_GIF": "{{author}} Você não pode aplicar uma **Camada** a um **GIF**",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Você não pode aplicar uma **Layer** a uma carta **GIF**",
     "UL_EMBED_FOOTER": "A confirmação deste processo destruirá a Layer atualmente aplicada",
     "DONT_HAVE_LAYER": "{{author}} Você não tem a **Layer** **{{name}}**",
     "USE_LAYER_SUCCESSFUL": "{{author}} A **Layer** **{{name}}** foi aplicada com sucesso a sua carta",
