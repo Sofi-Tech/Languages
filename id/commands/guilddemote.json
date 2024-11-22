@@ -10,9 +10,9 @@
     "NO_GUILD_INFO": "{{author}} Tidak dapat menemukan info guild untuk pengguna tersebut",
     "NOT_GUILD_MEMBER": "{{author}} Pengguna ini bukan anggota guild Anda",
     "DEMOTED_NEWBIE": "{{member}} diturunkan pangkatnya menjadi **Newbie**",
-    "DEMOTE_ADVENTURER_ERROR": "{{author}} Hanya **Veterans** yang dapat diturunkan pangkatnya menjadi **Adventurers**",
+    "DEMOTE_ADVENTURER_ERROR": "{{author}} Hanya **Guildmasters** dan **Veterans** yang dapat diturunkan pangkatnya menjadi **Newbie**",
     "DEMOTE_OTHERS_ERROR": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat orang lain",
-    "DEMOTED_ADVENTURER": "{{member}} diturunkan pangkatnya menjadi **Adventurer**",
+    "DEMOTED_ADVENTURER": "{{member}} diturunkan pangkatnya menjadi **Newbie**",
     "MUST_HAVE_AUTHORITY": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** untuk menurunkan pangkat anggota guild Anda",
     "GD_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}gd <@User/UserID> <V/N>`"
 }
