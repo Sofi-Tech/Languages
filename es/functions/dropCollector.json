@@ -12,5 +12,5 @@
     "GRAB_VERSION": "{{winner}} peleó contra {{user}} y **obtuvo** un Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nUsa el comando`{{prefix}}vt` para ver este Version Token",
     "TOOK_VERSION": "{{winner}} **obtuvo** un Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nUsa el comando `{{prefix}}vt` para ver este Version Token",
     "GRAB_VERSION_PLURAL": "{{winner}} peleó contra **{{userCount}}** jugadores y **obtuvo** un Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**]\nUsa el comando`{{prefix}}vt`para ver este Version Token",
-    "NOT_ALLOWED_TO_GRAB": "Estás en lista negra, en cuarentena o no estás registrado y no puedes agarrar esta carta"
+    "NOT_ALLOWED_TO_GRAB": "Estás en la lista negra, en cuarentena o no estás registrado y no puedes agarrar esta carta"
 }
