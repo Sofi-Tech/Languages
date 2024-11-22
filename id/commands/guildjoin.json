@@ -1,8 +1,8 @@
 {
-    "GUILD_JOIN_REJECT": "{{member}} menolak {{author}} untuk menjadi **Adventurer** di guild mereka",
+    "GUILD_JOIN_REJECT": "{{member}} menolak {{author}} untuk menjadi **Newbie** di guild mereka",
     "PROVIDE_USER": "{{author}} Sebutkan **Founder** atau **Guildmaster** untuk meminta bergabung ke dalam guild",
     "NO_GUILD_FOUND": "{{author}} Tidak dapat menemukan info guild untuk pengguna tersebut",
-    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} ingin bergabung dengan guild Anda.\nApakah Anda menerima mereka sebagai **Adventurer** di guild Anda?",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} ingin bergabung dengan guild Anda.\nApakah Anda menerima mereka sebagai **Newbie** di guild Anda?",
     "GUILDJOIN_CATEGORY": "Guilds",
     "INVALID_USER": "{{author}} Tidak dapat menemukan pengguna tersebut",
     "QUARANTINED_USERS": "{{author}} Pengguna yang dikarantina tidak dapat bergabung dengan guild",
@@ -11,7 +11,7 @@
     "ALREADY_IN_GUILD": "{{author}} Anda sudah menjadi anggota guild. Tinggalkan guild Anda saat ini untuk bergabung dengan guild baru.",
     "ALLOW_BUTTON_LABEL": "Saya mengizinkan",
     "DENY_BUTTON_LABEL": "Tidak, terima kasih",
-    "GUILD_JOIN_ACCEPT": "{{member}} menerima {{author}} sebagai **Adventurer** di guild mereka",
+    "GUILD_JOIN_ACCEPT": "{{member}} menerima {{author}} sebagai **Newbie** di guild mereka",
     "NOT_FOUNDER": "{{author}} Pengguna ini bukan **Founder** atau **Guildmaster** di guild",
     "GUILD_IS_FULL": "{{author}} Tidak ada slot tersisa di guild ini",
     "LEAVING_GUILD": "{{author}} Anda dapat bergabung dengan guild lain dalam **{{cooldown}}**"
