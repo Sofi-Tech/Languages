@@ -19,10 +19,10 @@
     "CATEGORY_DISABLED": "{{author}} Esta categoría ha sido deshabilitada\nMotivo: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Este comando ha sido deshabilitado\nMotivo: `{{reason}}`",
     "SUPPORT_BUTTON_LABEL": "Soporte",
-    "OUTBID_IN_AUCTION": "Te han contra pujado en la subasta del codigo [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Tu puja - {{oldAmount}} {{oldItemEmoji}} | Nueva puja - {{newAmount}} {{newItemEmoji}} \nSubasta termina en {{time}}",
-    "APPEAL_DENIED_FOOTER": "Apelacion rechazada por {{username}}",
-    "APPEAL_ACCEPTED_FOOTER": "Apelacion aceptada por {{username}}",
+    "OUTBID_IN_AUCTION": "Han pujado en tu contra en la subasta del código [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Tu puja - {{oldAmount}} {{oldItemEmoji}} | Nueva puja - {{newAmount}} {{newItemEmoji}}\nLa subasta termina en {{time}}",
+    "APPEAL_DENIED_FOOTER": "Apelación rechazada por {{username}}",
+    "APPEAL_ACCEPTED_FOOTER": "Apelación aceptada por {{username}}",
     "IC_REASON": "Motivo: {{reason}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Tu envío de banner con código**`{{bannerCode}}`** fue aprobada** \n- Link: {{url}} \n> Una recompensa de 3 Wists, 500 Silver y 500 Fan Points fueron agregados a tu inventario",
-    "BANNER_SUBMISSION_REJECTED": "Tu envío de banner con código `{{bannerCode}}` fue rechazada. {{reason}} \n- Link: {{url}}"
+    "BANNER_SUBMISSION_ACCEPTED": "**Tu envío de banner con código**`{{bannerCode}}`** ha sido aprobada** \n- Enlace: {{url}} \n> Una recompensa de 3 Wists, 500 Silver y 500 Fan Points ha sido agregada a tu inventario",
+    "BANNER_SUBMISSION_REJECTED": "Tu envío de banner con código `{{bannerCode}}` ha sido rechazada. {{reason}} \n- Enlace: {{url}}"
 }
