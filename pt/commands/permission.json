@@ -11,7 +11,7 @@
     "NO_PERMS_SETUP": "{{author}} A permissão ainda não foi configurada nesse canal. Para configurar, use `{{prefix}}p [BL/WL] [Add] <NomeDosComandos/All>`",
     "BLACKLISTING_USAGE": "Uso: `{{prefix}}p bl add/rem <NomeDoComando/All>`\n",
     "WHITELISTING_INFO": "Whitelist: Permite apenas comandos específicos de serem utilizados nesse canal",
-    "WHITELISTING_USAGE": "Uso: `{{prefix}}p wl add/rem <NomeDoComando/All>`\n",
+    "WHITELISTING_USAGE": "Uso: `{{prefix}}p wl add/rem <CommandName/All>`\n",
     "SOME_COMMANDS_WHITELISTED": "{{author}} Você já autorizou comandos nesse canal. Use o comando `{{prefix}}p reset` para retornar as configurações padrões do canal",
     "NOT_BLACKLISTED_YET": "{{author}} Você não bloqueou nenhum comando ainda",
     "BLACKLIST_ALREADY_ACTIVE": "{{author}} Você não pode remover comandos autorizados de uma blacklist",
