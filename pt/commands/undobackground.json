@@ -1,7 +1,7 @@
 {
     "UNDOBACKGROUND_DESCRIPTION": "Usar este comando em um card 3D removerá seu Background e o retornará ao seu inventário",
     "UB_CATEGORY": "Cosméticos",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CódigoDaCarta>`",
+    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}undobg <CardCode>`",
     "NO_CHARACTER_FOUND": "{{author}} O personagem nesta carta não está mais disponível em Sofi e não pode mais ter interações",
     "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
     "NO_GIF_CARD": "{{author}} Cartas **GIF** não podem ter um **Background** aplicado",
