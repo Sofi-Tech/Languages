@@ -1,7 +1,7 @@
 {
     "LAYERSHOP_DESCRIPTION": "Este comando abrirá un embed e cual mostrará todos los Layers que están disponibles en venta",
     "LAYERSHOP_CATEGORY": "Cosméticos",
-    "BUY_LAYER_INFO": "Usa el comando `{{prefix}}buy layer <IDDelLayuer> <Cantidad>` para comprar un **Layer**",
+    "BUY_LAYER_INFO": "Usa el comando `{{prefix}}buy layer <IDDelLayer> <Cantidad>` para comprar un **Layer**",
     "LS_PAGE_FOOTER": "Mostrando Página: {{currentPage}}/{{totalPages}}",
     "LAYER_NOT_FOUND": "{{author}} No se pudo encontrar el **Layer** con ID `{{layerId}}`",
     "LS_NAME": "**Nombre:** {{name}}",
