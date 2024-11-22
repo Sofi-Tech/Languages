@@ -11,7 +11,7 @@
     "GUILD_JOIN_REJECT": "{{member}} ने अपने गिल्ड में **Newbie** बनने के लिए {{author}} को अस्वीकार किया",
     "NOT_FOUNDER": "{{author}} यह उपयोगकर्ता गिल्ड में **Founder** या **Guildmaster** नहीं है",
     "QUARANTINED_USERS": "{{author}} क्वारेंटाइंड उपयोगकर्ता गिल्ड में शामिल नहीं हो सकते है",
-    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} आपकी गिल्ड में शामिल होना चाहता है।\nक्या आप उस उपयोगकर्ता को अपने गिल्ड में एक **Newbies** के रूप में स्वीकार करते हैं?",
+    "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} आपकी गिल्ड में शामिल होना चाहता है।\nक्या आप उस उपयोगकर्ता को अपने गिल्ड में एक **Newbie** के रूप में स्वीकार करते हैं?",
     "LEAVING_GUILD": "{{author}} आप **{{cooldown}}** के बाद ही दूसरी गिल्ड में शामिल हो सकते हैं",
     "GUILDJOIN_CATEGORY": "गिल्डस",
     "DENY_BUTTON_LABEL": "नहीं,धन्यवाद"
