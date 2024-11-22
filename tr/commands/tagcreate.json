@@ -1,5 +1,5 @@
 {
-    "TAGCREATE_DESCRIPTION": "Bu komutla kendi kriterlerinize uyan birden fazla kartı kategorize etmek ve gruplamak için bir etiket oluşturabilirsiniz. Oluşturulan etiketleri kartlarınıza atamak için \"{{prefix}}tag\" komutunu kullanın",
+    "TAGCREATE_DESCRIPTION": "Bu komutla, kendi kriterlerinize uygun birden fazla kodu kategorize etmek ve gruplamak için bir etiket oluşturabilirsiniz. Oluşturduğunuz etiketleri kartlarınıza atamak için \"{{prefix}}tag\" komutunu kullanabilirsiniz",
     "TC_CATEGORY": "Etiketler",
     "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}tc <Etiketİsmi> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
