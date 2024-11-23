@@ -9,7 +9,7 @@
     "MEMBER_IS_BLED": "{{author}} That user is blacklisted",
     "AUTHOR_IS_QUED": "{{author}} You are quarantined. Visit our [Guide](<https://guide.sofi.gg/user-status#quarantined>) for detailed information about the quarantined status.",
     "MEMBER_NOT_VERIFIED": "{{author}} That user is not verified",
-    "MEMBER_IS_QUED": "{{author}} That user is quarantined",
+    "MEMBER_IS_QUED": "{{author}} That user is quarantined. Visit our [Guide](<https://guide.sofi.gg/user-status#quarantined>) for detailed information about the quarantined status.",
     "BUY_TP_1": "{{user}} does not have an active **Trade Pass**",
     "BUY_TP_2": "Visit our website below to **Bump** and exchange your points for items, including the **Trade Pass**",
     "FINISH_TRADE_WARN": "{{author}} You need to complete the `{{commandName}}` command before you can continue",
