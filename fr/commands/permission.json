@@ -28,7 +28,7 @@
     "STOPPED_PROCESS": "Le processus a été annulé",
     "ADD_MODAL_LABEL": "Ajouter des commandes à ce salon {{listName}}",
     "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
-    "REMOVE_MODAL_LABEL": "Supprimer les commandes du salon{{listName}}",
+    "REMOVE_MODAL_LABEL": "Supprimer les commandes du salon {{listName}}",
     "ADD_COMMANDS_SUCCESSFUL": "{{author}} Les commandes suivantes ont été ajoutées avec succès à la {{listname}} de ce salon: {{commandsList}}",
     "ADD_COMMANDS_ERROR": "{{author}} Les commandes que vous avez fournies sont soit déjà sur la {{listName}} de ce salon, ou sont non valides",
     "REMOVE_ALL_COMMANDS_SUCCESSFUL": "{{author}} Suppression réussie de toutes les commandes de la {{listName}} de ce salon",

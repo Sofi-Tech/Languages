@@ -14,7 +14,7 @@
     "FINISH_TRADE_WARN": "{{author}} Vous devez terminer la commande `{{commandName}}` avant de pouvoir continuer",
     "SENT_TRADE": "Voulez-vous accepter la demande d'échange de {{author}}?",
     "ENTER_NOTE": "Entrez une note",
-    "NOTE_EXAMPLE": "Ajoutez le contexte d'un échange qui peut paraître suspect",
+    "NOTE_EXAMPLE": "Ajoutez le contexte d'échange s'il peut paraître suspect",
     "MODAL_TITLE": "SOFI: MULTITRADE (Note)",
     "NOTED_ADDED": "Votre note a été ajoutée avec succès: `{{response}}`",
     "TRADE_CANCELLED": "L'échange a été annulé",
