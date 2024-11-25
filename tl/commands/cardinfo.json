@@ -4,7 +4,7 @@
     "NO_CARD_FOUND": "Hindi mahanap ang iyong huling kard. Sa halip ay subukang magbigay ng code ng kard",
     "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "CARD_GLOWED": "Inilagay ang **{{isSuper}}Glow**: **{{glowName}} ** (`#{{viewCode}}`)\n",
-    "CARD_FONT": "**Mga Kulay ng Teksto:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Pangalan -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Serye -** `{{seriesColorName}}` | `{{seriesColorCode}}`",
+    "CARD_FONT": "**Mga Kulay ng Teksto:** \n- **Gen -** `{{genColorName}}` | `{{genColorCode}}` \n- **Pangalan -** `{{nameColorName}}` | `{{nameColorCode}}` \n- **Serye -** `{{seriesColorName}}` | `{{seriesColorCode}}`\n",
     "CARD_FRAMED": "**Frame** na inilagay: **{{frameName}}**\n",
     "CARD_CFRAMED": "**Frame** na inilagay: **{{frameName}}** (`{{frameCode}}`)\n",
     "SHOW_GEN": "Ipakita ang Gen",

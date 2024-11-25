@@ -31,11 +31,12 @@
     "FRAME_CATEGORY_PACK": "Pack",
     "EQUIPMENTS": "Équipements",
     "RAID": "Raid",
-    "NO_PRING_FOUND": "Aucun **Anneaux de Profil** n'a été trouvé",
+    "NO_PRING_FOUND": "Aucun **Profile Rings** n'a été trouvé",
     "NO_RAID_ITEMS": "Aucun items de Raid n'a été trouvé",
-    "PROFILE_BACKGROUND": "Backgrounds de Profil",
-    "PROFILE_RING": "Anneaux de Profil",
-    "NO_PBG_FOUND": "Aucun **Backgrounds de Profil** n'a été trouvé",
+    "PROFILE_BACKGROUND": "Profile Backgrounds",
+    "PROFILE_RING": "Profile Rings",
+    "NO_PBG_FOUND": "Aucun **Profile Backgrounds** n'a été trouvé",
     "UNLOCKED_FOOTER": "Débloqués: {{unlocked}}/{{total}}",
-    "NO_LAYER_FOUND": "Aucun **Layers** trouvé"
+    "NO_LAYER_FOUND": "Aucun **Layers** trouvé",
+    "LAYER": "Layers"
 }

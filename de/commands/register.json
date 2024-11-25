@@ -12,7 +12,7 @@
     "DM_MESSAGE": "## Willkommen in der Sofi-Community!\n\nNachfolgend findest du einige Links, die dich auf deiner Sofi-Reise unterstützen!\n\n- [Offizieller Sofi-Supportserver](https://discord.gg/sofi) <:sofi_cheers:1008533423960367134>\n\n- [Sofis Online-Guide](https:guide.sofi.gg/) <:sofi_smart:1008533460505350256>\n\n- [Täglich abstimmen, um **Wists** zu erhalten](<https://top.gg/bot/853629533855809596/vote>) <a:wist_spin:973031140581580820>",
     "INVALID_USER": "{{author}} Die angegebene Nutzer-ID ist nicht gültig",
     "AUTHOR_NOT_REGISTERED": "{{author}} Du bist nicht registriert",
-    "AUTHOR_QUARANTINE": "{{author}} Du stehst unter Quarantäne",
+    "AUTHOR_QUARANTINE": "{{author}} Du stehst unter Quarantäne. Besuche unseren [Guide](<https://guide.sofi.gg/user-status#quarantined>), um detaillierte Informationen über den Quarantänestatus zu erhalten.",
     "AUTHOR_NOT_VERIFIED": "{{author}} Du bist nicht verifiziert",
     "USER_ALREADY_REGISTERED": "{{author}} Dieser Nutzer ist nicht verifiziert",
     "REGISTER_MESSAGE": "Hallo {{user}} <:sofiwave:1008533250408456282>! Du wurdest dazu eingeladen, Sofi zu spielen.\nWir würden uns freuen, dich Karten sammeln und bei unseren Events teilnehmen zu sehen!",
