@@ -1,7 +1,7 @@
 {
     "BACKGROUND_DESCRIPTION": "Bir kart 3D varyantına dönüştürüldükten sonra bu komutla ona Background uygulayabilirsiniz. Background satın almak için \"{{prefix}}backgroundshop\" komutunu kullanın",
     "BG_CATEGORY": "Kozmetikler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <KartKodu> <Arkaplan-IDsi>`",
+    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}bg <KartKodu> <Background-IDsi>`",
     "INVALID_CODE": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda mevcut değil",
     "NON_3D_CARDS": "{{author}} 3D olmayan kartlara **Backgrounds** uygulayamazsınız",
     "EMBED_TITLE": "SOFI: BACKGROUND",

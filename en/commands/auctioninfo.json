@@ -2,7 +2,7 @@
     "AUCTIONINFO_DESCRIPTION": "This command will open up an embed displaying past and ongoing auctions for card codes, which you can bid on. Auctions use Charms as the required currency to place a bid",
     "AI_CATEGORY": "Cards",
     "NO_ONGOING_AUCTION": "{{author}} There are currently no active auctions",
-    "BID_SELECTION": "Use the command {{prefix}}ai <Auction-ID> or select an active auction from the menu below",
+    "BID_SELECTION": "Use the \"{{prefix}}ai <Auction-ID>\" command or select an active auction from the menu below",
     "BID_BUTTON_LABEL": "Bid",
     "AI_CURRENT": "Current Bid",
     "TOTAL_CHARMS": "Total Charms",

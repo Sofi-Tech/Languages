@@ -141,7 +141,7 @@
     "INVALID_PERMISSION": "Ungültige Berechtigungsstufe bereitgestellt.\n\n**Verfügbare Level:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "UPGRADE_EMBED_DESCRIPTION": "> **Gilden Mitgliedsplätze - {{memSlots}}** \n> Verfügbare Gilden Plätze: `{{availableSlots}}` \n> Platz Freischaltkosten: `{{slotAmount}} {{slotCurrency}}` \n\n> **Gildenserver Einladung - {{inviteToggle}}** \n> Freischaltkosten: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Gildenbild - {{imageToggle}}** \n> Freischaltkosten: `{{imageAmount}} {{imageCurrency}}`",
     "UNLOCK_INVITE_CONFIRM": "Möchtest du das Gilden Einladungs Feature freischalten für **{{amount}}** **{{currency}}**?",
-    "INVALID_GLOW": "Der **Glow** Code den du bereitgestellt hast ist entweder ungültig oder nicht in deinem Inventar",
+    "INVALID_GLOW": "Der **Glow**-Code den du bereitgestellt hast ist entweder ungültig oder nicht in deinem Inventar",
     "GI_SEASON_STATS": "__**SEASON STATS**__",
     "SPREADSHEET_NOTE": "Benutze \"{{prefix}}sheet guild\", um eine Kalkulationstabelle von den Tresor Protokollen zu bekommen.\nWists und Silver können nicht zurückgezogen werden.",
     "INVITE_UNLOCK_SUCCESS": "Die Einladung zum Gilden Server wurde erfolgreich freigeschaltet",
