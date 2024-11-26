@@ -1,8 +1,8 @@
 {
-    "TOOK_THE_CARD": "{{user}}, **{{character}}** kartını aldı (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}}, **{{character}}** kartını elde etti (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "BATTLED_AND_WON": "{{winner}}, {{user}} ile savaştı ve **{{character}}** kartını elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "BATTLED_WON_PLURAL": "{{winner}}, **{{userCount}}** diğer oyuncularlar ile savaştı ve **{{character}}** kartını elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "EMBED_TITLE": "CAPTCHA DROP",
+    "BATTLED_WON_PLURAL": "{{winner}}, **{{userCount}}** oyuncu ile savaştı ve **{{character}}** kartını elde etti! (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "Captcha Card",
     "EMBED_FOOTER": "Captcha'yı yazarak yukarıdaki karta sahip olun",
     "EXTRA_GRAB": "{{user}} Ekstra **Grab** öğeniz kullanılıyor. Elinizde kalan; **{{remaining}}**",
     "WAIT_TO_CLAIM": "{{user}} Başka bir kart talep etmek için **{{cooldown}}** kadar beklemeniz gerekir",

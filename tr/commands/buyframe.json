@@ -1,10 +1,10 @@
 {
-    "BUYFRAME_DESCRIPTION": "Bu komut özellikle \"{{prefix}}frameshop\" komutundan Çerçeve satın almak için kullanılır; burada 2D kartlarınız için Resmi, Özel ve Paket Çerçeveleri satın alabilirsiniz",
+    "BUYFRAME_DESCRIPTION": "Bu komut \"{{prefix}}frameshop\" komutuyla Frame satın almak için özel olarak kullanılır. Buradan 2D kartlarınız için Resmi, Özel ve Paket Çerçeveleri satın alabilirsiniz",
     "BF_CATEGORY": "Kozmetik",
     "NO_FRAME_NAME": "{{author}} Lütfen satın almak istediğiniz **Frame** kodunu belirtin",
     "NO_FRAMECODE_FOUND": "{{author}} `{{name}}` kodunu içeren herhangi bir **Frame** bulunamadı",
     "FRAME_UNAVAILABLE": "{{author}} Bu **Frame** şu anda rotasyonda değil. Geçerli **Frame** rotasyonunu görmek için `{{prefix}}fs` komutunu kullanın",
-    "FRAME_NOT_PURCHASABLE": "{{author}} **Frame** sınırlıdır ve artık satın alınamaz",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Bu **Frame** sınırlıdır ve artık satın alınamaz",
     "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "Aldığın:",
     "YOU_PAY": "Ödediğin:",

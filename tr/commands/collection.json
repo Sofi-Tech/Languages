@@ -12,7 +12,7 @@
     "SORT_CHAR": "İsim",
     "SORT_SERIES": "Seri",
     "SORT_GEN": "Gen",
-    "SORT_WL": "İstek Listesi",
+    "SORT_WL": "Wishlist",
     "CHECK_COSMETICS": "Kozmetikler",
     "3D_AVAIL": "3D Bulunurluğu",
     "SORT_ATK": "Saldırı",
@@ -64,5 +64,5 @@
     "ALL_TAG_SUCCESS_many": "`{{tagName}}` Etiketi başarıyla **{{count}}** karta eklendi",
     "EXPLAIN_FILTER": "{{author}} İşte bu filtrenin nasıl çalıştığını anlamanıza yardımcı olacak bir akış şeması",
     "VERSION_AVAILABILITY": "Sürüm Bulunurluğu",
-    "FILTER_NAME_EXISTS": "{{filterName}} adlı filtre zaten mevcut"
+    "FILTER_NAME_EXISTS": "`{{filterName}} `adlı bir filtre zaten mevcut"
 }

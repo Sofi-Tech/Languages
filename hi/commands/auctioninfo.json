@@ -10,7 +10,7 @@
     "BID_MODAL_TITLE": "नीलामी की बोली",
     "MINIMUM_AMOUNT": "{{author}} इस नीलामी के लिए आपको कम से कम **{{amount}}** {{currencyEmoji}} की बोली लगानी होगी",
     "NOT_ENOUGH_CURRENCY": "{{author}} आपके पास पर्याप्त {{emoji}} नही है",
-    "BID_SELECTION": "{{prefix}}ai <Auction-ID> का प्रयोग करके आप सक्रिय नीलामी देख सकते है या नीचे दिए गए पंक्ति से एक सक्रिय नीलामी चुनें",
+    "BID_SELECTION": "{{prefix}}ai <Auction-ID> कमांड का प्रयोग करके आप सक्रिय नीलामी देख सकते है या नीचे दिए गए पंक्ति से एक सक्रिय नीलामी चुनें",
     "INVALID_BID_AMOUNT": "{{author}} आपकी बोली एक संख्या होनी चाहिए",
     "POSITIVE_NUMBER": "{{author}} आपकी बोली एक सकारात्मक संख्या होनी चाहिए",
     "BID_SUCCESSFUL": "{{author}} आपने सफलतापूर्वक **{{amount}}** {{emoji}} की बोली लगा दी है",

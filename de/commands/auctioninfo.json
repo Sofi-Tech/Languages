@@ -12,7 +12,7 @@
     "AUCTION_NOT_FOUND": "{{author}} Diese Auktion konnte nicht gefunden werden",
     "BID_SUCCESSFUL": "{{author}} Du hast erfolgreich ein Gebot in Höhe von **{{amount}}** {{emoji}} abgegeben",
     "AI_CURRENT": "Aktuelles Gebot",
-    "BID_SELECTION": "Verwende den Befehl {{prefix}}ai <Auction-ID> oder wähle eine aktive Auktion aus dem Menü hierunter",
+    "BID_SELECTION": "Verwende den \"{{prefix}}ai <Auktion-ID>\" Befehl oder wähle eine aktive Auktion aus dem Menü hierunter",
     "MINIMUM_AMOUNT": "{{author}} Du musst für diese Auktion mindestens **{{amount}}** {{currencyEmoji}} bieten",
     "NOT_ENOUGH_CURRENCY": "{{author}} Du hast nicht genügend {{emoji}}",
     "TOTAL_CHARMS": "Gesamte Charms",
