@@ -21,5 +21,6 @@
     "SAFE_MODE": "{{author}} **Sofi** hiện đang ở chế độ an toàn! Thời gian dự kiến hoàn thành (ETA): **{{eta}}**\nChúng tôi xin lỗi vì sự bất tiện này và mong bạn thông cảm!",
     "NO_PERMISSIONS": "{{author}} Tôi không có đủ quyền để thực hiện lệnh này",
     "SERIES_DROP": "Cuộc bỏ phiếu đã kết thúc!",
-    "GIFT_MESSAGE": "Bạn đã được tặng {{plan}} bởi <@{{giftedBy}}> `{{giftedBy}}` trên Sofi\n\ndiscord.gg/sofi"
+    "GIFT_MESSAGE": "Bạn đã được tặng {{plan}} bởi <@{{giftedBy}}> `{{giftedBy}}` trên Sofi\n\ndiscord.gg/sofi",
+    "LOTTERY_WON": "Chúc mừng! Bạn đã thắng Xổ Số 3D {{event}} của Sofi"
 }
