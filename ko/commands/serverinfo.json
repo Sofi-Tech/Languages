@@ -1,12 +1,12 @@
 {
-  "SI_CATEGORY": "환경",
-  "EMBED_AUTHOR": "Server: {{guildName}} | Prefix: `{{prefix}}` ({{blacklistPoints}})",
-  "SI_SPAWN_CHANNEL": "스폰 채널",
-  "SI_TOTAL_DROPS": "총 드롭",
-  "SERVERINFO_DESCRIPTION": "서버의 통계를 표시합니다",
-  "SI_TOTAL_BURNT": "총 소각",
-  "SI_TOTAL_GRABS": "총 획득",
-  "SI_TOTAL_GIVEN": "총 주어진",
-  "SI_TOTAL_TRADES": "총 거래",
-  "SI_NAME_UNAVAILABLE": "이름 사용 불가"
+    "SI_CATEGORY": "환경",
+    "EMBED_AUTHOR": "SOFI: SERVERINFO | {{guildName}}",
+    "SI_SPAWN_CHANNEL": "스폰 채널",
+    "SI_TOTAL_DROPS": "총 드롭",
+    "SERVERINFO_DESCRIPTION": "서버의 통계를 표시합니다",
+    "SI_TOTAL_BURNT": "총 소각",
+    "SI_TOTAL_GRABS": "총 획득",
+    "SI_TOTAL_GIVEN": "총 주어진",
+    "SI_TOTAL_TRADES": "총 거래",
+    "SI_NAME_UNAVAILABLE": "이름 사용 불가"
 }

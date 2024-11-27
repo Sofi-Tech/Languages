@@ -4,7 +4,7 @@
     "USER_NOT_FOUND": "{{author}} لم يتم العثور على ذلك المستخدم",
     "WISHLIST_PRIVATE": "> قائمة أمنيات هذا المستخدم خاصة",
     "WISHLIST_EMPTY": "> قائمة أمنيات {{username}} فارغة كقلبي 💔",
-    "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST",
+    "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "استخدم {{prefix}}wu/{{prefix}}wu max لزيادة فتحات قائمة الأمنيات | الصفحات: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "نسخ الرموز",
     "COPY_CODES_MENU_LABEL": "نسخ جميع الرموز",
@@ -14,5 +14,5 @@
     "COPY_CODES_MENU_PLACEHOLDER": "نسخ الرموز",
     "CODES_COPIED": "تم النسخ",
     "ALL_CARD_CODES": "هذه هي الرموز",
-    "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST"
+    "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES"
 }

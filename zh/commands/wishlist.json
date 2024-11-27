@@ -4,7 +4,7 @@
     "USER_NOT_FOUND": "{{author}} 无法找到该用户",
     "WISHLIST_PRIVATE": "{{author}} 该用户的心愿单被私藏",
     "WISHLIST_EMPTY": "{{author}} 该用户的心愿单是空的",
-    "WISHLIST_EMBED_TITLE": "SOFI: 心愿单 ({{username}}) [{{length}}/{{slots}}]",
+    "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "页面: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "拷贝代码",
     "COPY_CODES_MENU_LABEL": "全部代码",
@@ -14,6 +14,6 @@
     "COPY_CODES_MENU_PLACEHOLDER": "请做选择",
     "CODES_COPIED": "← 已拷贝",
     "ALL_CARD_CODES": "因卡片代码数量太多，这个短信被转换成`.txt`文件：",
-    "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST",
+    "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} 您的心愿单是空的"
 }

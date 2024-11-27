@@ -1,12 +1,12 @@
 {
-  "MERGEGLOW_DESCRIPTION": "４つの「Glow」をマージして「Resin」を作成する",
-  "MG_CATEGORY": "コスメティック",
-  "GLOW_CODES_MISSING": "{{author}}正しい使い方は：`{{prefix}}mg <#Glowコード1> <#Glowコード2> <#Glowコード3> <#Glowコード4>`",
-  "GLOWS_UNAVAILABLE": "{{author}} 提供された`Glow`に中では少なくとこ１つは完全放電です",
-  "GLOW_CODES_UNIQUE": "{{author}} 同じ`Glow`は１回しか入力できません",
-  "GLOWS_NOT_FOUND": "{{author}} 提供された`Glow`の コードには少なくとも１つが無効またはインベントリーにありません",
-  "EMBED_TITLE": "SOFI: MERGEGLOW",
-  "MERGE_CONFIRMATION": "下記の`Glow`をマージの確認してください：\n\n{{glows}}\n\nこの過程で**１つ** <:resin:938131736741691442> を作成します",
-  "GLOWS_NOT_IN_INVENTORY": "{{author}} 提供された`Glow`のコードには少なくとも１つがインベントリーにありません",
-  "GLOW_MERGE_SUCCESSFUL": "{{author}} ４つ`Glow`をマージして１つ<:resin:938131736741691442>に成功で作成しました"
+    "MERGEGLOW_DESCRIPTION": "４つの「Glow」をマージして「Resin」を作成する",
+    "MG_CATEGORY": "コスメティック",
+    "GLOW_CODES_MISSING": "{{author}}正しい使い方は：`{{prefix}}mg <#Glowコード1> <#Glowコード2> <#Glowコード3> <#Glowコード4>`",
+    "GLOWS_UNAVAILABLE": "{{author}} 提供された`Glow`に中では少なくとこ１つは完全放電です",
+    "GLOW_CODES_UNIQUE": "{{author}} 同じ`Glow`は１回しか入力できません",
+    "GLOWS_NOT_FOUND": "{{author}} 提供された`Glow`の コードには少なくとも１つが無効またはインベントリーにありません",
+    "EMBED_TITLE": "SOFI: MERGE GLOWS",
+    "MERGE_CONFIRMATION": "下記の`Glow`をマージの確認してください：\n\n{{glows}}\n\nこの過程で**１つ** <:resin:938131736741691442> を作成します",
+    "GLOWS_NOT_IN_INVENTORY": "{{author}} 提供された`Glow`のコードには少なくとも１つがインベントリーにありません",
+    "GLOW_MERGE_SUCCESSFUL": "{{author}} ４つ`Glow`をマージして１つ<:resin:938131736741691442>に成功で作成しました"
 }

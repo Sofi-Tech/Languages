@@ -1,11 +1,11 @@
 {
     "SWAP_DESCRIPTION": "Maaaring gamitin ang command na ito upang pagpalitin ang mga partikular na kosmetiko sa pagitan ng 2 kard",
     "SWAP_CATEGORY": "Mga Kosmetiko",
-    "MENU_FRAME_LABEL": "Ang Frame",
+    "MENU_FRAME_LABEL": "Frame",
     "MENU_COLOR_LABEL": "Kulay ng Font",
     "MENU_MORPH_LABEL": "Ang Morph",
-    "MENU_GLOW_LABEL": "Ang Glow",
-    "MENU_BG_LABEL": "Ang Background",
+    "MENU_GLOW_LABEL": "Glow",
+    "MENU_BG_LABEL": "Background",
     "PROVIDE_CODES": "{{author}} Tamang paggamit: `{{prefix}}swap <CardCode1> <CardCode2>`",
     "NO_GIF": "{{author}} Hindi mo ito maaaring gamitin sa isang **GIF** na kard",
     "NO_COSMETICS": "{{author}} Ang mga kard mo ay walang kosmetiko na pwedeng pagpalitin",
@@ -20,5 +20,5 @@
     "MENU_GENCOLOR_LABEL": "Kulay ng Gen",
     "MENU_NAMECOLOR_LABEL": "Kulay ng Pangalan",
     "MENU_SERIESCOLOR_LABEL": "Kulay ng Serye",
-    "MENU_LAYER_LABEL": "Ang Layer"
+    "MENU_LAYER_LABEL": "Layer"
 }

@@ -1,14 +1,14 @@
 {
-  "RECHARGE_DESCRIPTION": "空の「グロー」を補充する",
-  "RG_CATEGORY": "「バックグラウンドショップ」を表示する",
-  "UNLOCK_GLOWS": "{{author}} まだグローはありません",
-  "NO_GLOWCDE": "{{author}} グローコードを提供する必要があります",
-  "INVALID_DC_MOVIES": "{{author}} グローコードは常に**＃**で始まります",
-  "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
-  "GLOW_AVAILABLE": "{{author}} その`グロー`はすでに請求されています",
-  "EMBED_TITLE": "SOFI: RECHARGE",
-  "SUCCESSFUL_RECHARGE": "あなたのグローは正常に充電されました！",
-  "SUPER_RECHARGE_CONFIRMATION": "あなたは補充しようとしています：\n\n**{{name}} (Super)**\nコード：`{{glowCode}}`\n料金：**{{cost}} **:recharge_sofi:",
-  "RECHARGE_CONFIRMATION": "あなたは補充しようとしています：\n\n**{{name}}**\nコード：`{{glowCode}}`\n料金：**{{cost}}** <:recharge_sofi:926846363537387530>",
-  "NO_MONEY": "`充電`が十分ではありません！いくつかを購入して、もう一度やり直してください"
+    "RECHARGE_DESCRIPTION": "空の「グロー」を補充する",
+    "RG_CATEGORY": "「バックグラウンドショップ」を表示する",
+    "UNLOCK_GLOWS": "{{author}} まだグローはありません",
+    "NO_GLOWCDE": "{{author}} グローコードを提供する必要があります",
+    "INVALID_DC_MOVIES": "{{author}} グローコードは常に**＃**で始まります",
+    "GLOW_NOT_FOUND": "{{author}} 提供された`Glow`のコードが無効またはインベントリーにありません",
+    "GLOW_AVAILABLE": "{{author}} その`グロー`はすでに請求されています",
+    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+    "SUCCESSFUL_RECHARGE": "あなたのグローは正常に充電されました！",
+    "SUPER_RECHARGE_CONFIRMATION": "あなたは補充しようとしています：\n\n**{{name}} (Super)**\nコード：`{{glowCode}}`\n料金：**{{cost}} **:recharge_sofi:",
+    "RECHARGE_CONFIRMATION": "あなたは補充しようとしています：\n\n**{{name}}**\nコード：`{{glowCode}}`\n料金：**{{cost}}** <:recharge_sofi:926846363537387530>",
+    "NO_MONEY": "`充電`が十分ではありません！いくつかを購入して、もう一度やり直してください"
 }

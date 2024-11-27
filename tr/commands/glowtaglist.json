@@ -3,10 +3,10 @@
     "GTL_CATEGORY": "Etiketler",
     "NO_TAGS": "{{author}} Henüz bir **Glow** etiketiniz bulunmamakta. Glow etiketini bu komutla oluşturabilirsiniz: `{{prefix}}gtc <İsim> <Emoji>`",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
-    "GLOWS_few": "{{count}} Glowlar",
-    "GLOWS_two": "{{count}} Glowlar",
-    "GLOWS_other": "{{count}} Glowlar",
+    "GLOWS_few": "{{count}} Glows",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_other": "{{count}} Glows",
     "GLOWS_one": "{{count}} Glow",
     "GLOWS_zero": "{{count}} Glows",
-    "GLOWS_many": "{{count}} Glowlar"
+    "GLOWS_many": "{{count}} Glows"
 }

@@ -1,10 +1,10 @@
 {
-  "WISHLISTADD_DESCRIPTION": "위시리스트에 캐릭터 추가하기",
-  "CATEGORY": "위시리스트",
-  "ADD_CHARACTERS_ERROR": "> 위시리스트에 더 이상 캐릭터를 추가할 수 없습니다",
-  "SEARCH_CHARACTER_ERROR": "캐릭터 이름을 입력하여 추가하세요.\n정확한 검색을 위해 `swa -f <이름>`을 사용하세요",
-  "NO_CHARACTER_FOUND": "캐릭터를 찾을 수 없습니다.\n정확한 검색을 위해 `swa -f <이름>`을 사용하세요",
-  "CHARACTER_ALREADY_EXISTS": "{{name}}이(가) 이미 위시리스트에 있습니다",
-  "CHARACTER_ADDED": "> {{author}} | {{name}}을(를) 위시리스트에 추가하였습니다",
-  "EMBED_TITLE": "SOFI: WISHLISTADD"
+    "WISHLISTADD_DESCRIPTION": "위시리스트에 캐릭터 추가하기",
+    "CATEGORY": "위시리스트",
+    "ADD_CHARACTERS_ERROR": "> 위시리스트에 더 이상 캐릭터를 추가할 수 없습니다",
+    "SEARCH_CHARACTER_ERROR": "캐릭터 이름을 입력하여 추가하세요.\n정확한 검색을 위해 `swa -f <이름>`을 사용하세요",
+    "NO_CHARACTER_FOUND": "캐릭터를 찾을 수 없습니다.\n정확한 검색을 위해 `swa -f <이름>`을 사용하세요",
+    "CHARACTER_ALREADY_EXISTS": "{{name}}이(가) 이미 위시리스트에 있습니다",
+    "CHARACTER_ADDED": "> {{author}} | {{name}}을(를) 위시리스트에 추가하였습니다",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
 }

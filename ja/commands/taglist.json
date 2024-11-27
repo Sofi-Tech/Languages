@@ -1,12 +1,12 @@
 {
-  "TAGLIST_DESCRIPTION": "「タグ」リストを表示する",
-  "TL_CATEGORY": "タグ",
-  "NO_USER": "{{author}} 提供されたユーザーが見つけられませんでした",
-  "NO_TAGS": "{{author}} 提供されたユーザーが`タグ`をまだ作成されません",
-  "EMBED_TITLE": "SOFI: TAGLIST",
-  "SOFI_FACT": "重要：「lock」のタグ名と「🔒」の絵文字で「タグ」を作成すれば、タグされたカードには燃やすやトレーディングできません\n使用例：「 {{prefix}}tc lock 🔒」",
-  "EMBED_FOOTER": "合計: {{count}}",
-  "NO_TAGS_SELF": "{{author}} `タグ`はまだ作成されません。`{{prefix}}tc <タグ名> <絵文字>`でタグを作成られます",
-  "CARD_one": "{{count}}枚カード",
-  "CARD_other": "{{count}}枚カード"
+    "TAGLIST_DESCRIPTION": "「タグ」リストを表示する",
+    "TL_CATEGORY": "タグ",
+    "NO_USER": "{{author}} 提供されたユーザーが見つけられませんでした",
+    "NO_TAGS": "{{author}} 提供されたユーザーが`タグ`をまだ作成されません",
+    "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
+    "SOFI_FACT": "重要：「lock」のタグ名と「🔒」の絵文字で「タグ」を作成すれば、タグされたカードには燃やすやトレーディングできません\n使用例：「 {{prefix}}tc lock 🔒」",
+    "EMBED_FOOTER": "合計: {{count}}",
+    "NO_TAGS_SELF": "{{author}} `タグ`はまだ作成されません。`{{prefix}}tc <タグ名> <絵文字>`でタグを作成られます",
+    "CARD_one": "{{count}}枚カード",
+    "CARD_other": "{{count}}枚カード"
 }
