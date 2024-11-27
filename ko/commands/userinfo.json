@@ -9,7 +9,7 @@
     "USER_NOT_REGISTERED": "{{author}} 님은 등록되지 않은 사용자입니다!",
     "PROFILE_BUTTON_LABEL": "웹 프로필",
     "USER_INFO": "__사용자 정보:__\n",
-    "UI_TRADE_PASS": "<:_:979009081325019156> 거래 패스:`{{date}}`",
+    "UI_TRADE_PASS": "<:_:979009081325019156> **Trade Pass** - **[{{date}}]**",
     "UI_CARDS_COUNT": "<:_:979009081325019156>카드 수: `{{cardCount}}`",
     "UI_TRUST_FACTOR": "<:_:979009081325019156>신뢰도 지수: `{{val}}`",
     "UI_GUILD_JOINED": "<:_:979009081325019156>길드 가입:`{{guild}}`",

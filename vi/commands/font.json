@@ -1,10 +1,10 @@
 {
-    "FONT_DESCRIPTION": "Bạn có thể sử dụng lệnh này để áp dụng hiệu ứng Glow lên chữ của thẻ hoặc để hiển thị/che đi Gen, Tên hoặc Bộ của thẻ",
+    "FONT_DESCRIPTION": "Bạn có thể sử dụng lệnh này để áp dụng hiệu ứng Glow lên chữ của thẻ hoặc để hiển thị hoặc ẩn đi Gen, Tên hoặc Bộ của thẻ",
     "FONT_CATEGORY": "Đồ trang trí",
     "ERROR_FINDING_CARD": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "NO_GIF_3D": "{{author}} Bạn không thể thay đổi chữ trên thẻ **3D** hoặc **GIF**",
     "FONT_TITLE": "Font",
-    "FONT_COLORS": "Màu sắc",
+    "FONT_COLORS": "Màu Sắc",
     "FONT_GEN": "Gen",
     "FONT_NAME": "Tên",
     "FONT_SERIES": "Bộ",
@@ -33,7 +33,7 @@
     "RESET_FOOTER": "Đặt lại font: {{fontPrice}} | Đặt lại màu sắc: {{colorPrice}} | Đặt lại tất cả: {{allPrice}}",
     "RESET_FONT_SUCCESS": "Kiểu Font đã được đặt lại",
     "RESET_ALL_MODAL_TITLE": "Đặt lại tất cả",
-    "RESET_ALL_NO_AMOUNT": "Bạn không có đủ **{{currency}}** để đặt lại kiểu font và màu font",
+    "RESET_ALL_NO_AMOUNT": "Bạn không đủ **{{currency}}** để đặt lại kiểu font và màu font",
     "RESET_COLOR_DEFAULT": "Màu Font đã là mặc định",
     "GLOW_CODE_INVALID": "Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "NOT_CARD_OWNER": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn"

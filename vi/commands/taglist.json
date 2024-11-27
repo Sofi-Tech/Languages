@@ -2,7 +2,7 @@
     "TAGLIST_DESCRIPTION": "Sử dụng lệnh này để liệt kê nhãn hiện tại của người dùng. Bạn có thể sử dụng lệnh \"{{prefix}}tagcreate\" để tạo thêm nhãn mới",
     "TL_CATEGORY": "Nhãn",
     "NO_USER": "{{author}} Không tìm thấy người dùng đó",
-    "NO_TAGS_SELF": "{{author}} Bạn chưa có nhãn nào cả. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một cái",
+    "NO_TAGS_SELF": "{{author}} Bạn chưa có nhãn nào cả. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một nhãn",
     "NO_TAGS": "{{author}} Người dùng đó chưa có nhãn nào",
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",
     "CARD_zero": "{{count}} thẻ",

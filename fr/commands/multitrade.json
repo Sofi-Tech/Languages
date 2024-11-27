@@ -28,5 +28,6 @@
     "CARD_TAG_LOCKED": "{{author}} Vous ne pouvez pas échanger des tags qui contiennent des cartes verrouillées",
     "NOTE_BUTTON_LABEL": "Note",
     "MT_TRADE_ERROR": "⚠️Certains des items et cartes fournis dans cette fenêtre d'échange ne sont plus valides!",
-    "MEMBER_NOT_VERIFIED": "{{author}} Cet utilisateur n'est pas vérifié"
+    "MEMBER_NOT_VERIFIED": "{{author}} Cet utilisateur n'est pas vérifié",
+    "USER_NOT_FOUND": "{{author}} Impossible de trouver cet utilisateur"
 }
