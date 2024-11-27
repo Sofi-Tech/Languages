@@ -5,12 +5,12 @@
     "GUILDKICK_DESCRIPTION": "Bu komut bir Founder veya Guildmaster tarafından bir üyeyi loncadan atmak için kullanılabilir",
     "GUILDKICK_CATEGORY": "Loncalar",
     "MUST_BE_FOUNDER": "{{author}}, üyeleri atmak için loncada **Founder** veya **Guildmaster** olmanız gerekiyor",
-    "PROVIDE_ID": "{{author}}, doğru kullanım: `{{prefix}}gk <@Kullanıcı/KullanıcıID>`",
+    "PROVIDE_ID": "{{author}}, Doğru kullanım: `{{prefix}}gk <@Kullanıcı/KullanıcıID>`",
     "CANNOT_KICK": "{{author}} Kendini atamazsın",
-    "MEMBER_NOT_IN_GUILD": "{{author}}, bu kullanıcı herhangi bir loncada değil",
-    "NOT_IN_YOUR_GUILD": "{{author}}, bu kullanıcı sizin loncanızın bir üyesi değil",
-    "FOUNDER_CANNOT_BE_KICKED": "{{author}} bir **Founder** veya **Guildmaster**'ı loncadan atamazsınız",
-    "KICK_CONFIRM": "<@{{memberId}}> kullanıcısını loncadan atmak istediğinizden emin misiniz?",
-    "KICK_SUCCESSFUL": "<@{{memberId}}> başarıyla loncadan atıldı",
-    "KICK_CANCEL": "<@{{memberId}}> kullanıcısını loncadan atmamaya karar verdiniz"
+    "MEMBER_NOT_IN_GUILD": "{{author}}, Bu kullanıcı herhangi bir loncada değil",
+    "NOT_IN_YOUR_GUILD": "{{author}}, Bu kullanıcı sizin loncanızın bir üyesi değil",
+    "FOUNDER_CANNOT_BE_KICKED": "{{author}} Bir **Founder** veya **Guildmaster**'ı loncadan atamazsınız",
+    "KICK_CONFIRM": "<@{{memberId}}> Kullanıcısını loncadan atmak istediğinizden emin misiniz?",
+    "KICK_SUCCESSFUL": "<@{{memberId}}> Başarıyla loncadan atıldı",
+    "KICK_CANCEL": "<@{{memberId}}> Kullanıcısını loncadan atmamaya karar verdiniz"
 }

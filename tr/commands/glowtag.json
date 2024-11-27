@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "Bu komutla Glowslarınıza bir etiket atayabilirsiniz. Glow etiketi oluşturmak için \"{{prefix}}Glowtagcreate\" komutunu kullanın",
+    "GLOWTAG_DESCRIPTION": "Bu komutla sahip olduğunuz Glow'lara bir etiket atayabilirsiniz. Glow etiketi oluşturmak için \"{{prefix}}Glowtagcreate\" komutunu kullanın",
     "GT_CATEGORY": "Etiketler",
     "GLOWTAGS_NOT_FOUND": "{{author}} Henüz **Glow** etiketiniz yok. Glow etiketi oluşturmak için`{{prefix}}gtc <İsim> <Emoji>` komutunu kullanabilirsiniz",
     "GLOWS_NOT_UNLOCKED": "{{author}} Henüz hiç **Glows**'unuz bulunmuyor",

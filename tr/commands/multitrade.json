@@ -7,9 +7,9 @@
     "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil",
     "AUTHOR_IS_BLED": "{{author}} Kara listedesin",
     "MEMBER_IS_BLED": "{{author}} Bu kullanıcı kara listede",
-    "AUTHOR_IS_QUED": "{{author}} Karantinaya alındın",
-    "MEMBER_IS_QUED": "{{author}} Bu kullanıcı karantinaya alındı",
-    "BUY_TP_1": "{{user}} Aktif bir `Trade Pass`a sahip değil",
+    "AUTHOR_IS_QUED": "{{author}} Karantinaya alındın. Karantina durumu hakkında detaylı bilgi için [Rehberimizi](<https://guide.sofi.gg/user-status#quarantined>) ziyaret edin.",
+    "MEMBER_IS_QUED": "{{author}} Bu kullanıcı karantinaya alındı. Karantina durumu hakkında detaylı bilgi için [Rehberimizi](<https://guide.sofi.gg/user-status#quarantined>) ziyaret edin.",
+    "BUY_TP_1": "{{user}} Aktif bir `Trade Pass` bulundurmuyor",
     "BUY_TP_2": "Aşağıdaki web sitemizi ziyaret ederek **Bump** yapın ve puanlarınızı ve **Trade Pass** dâhil olmak üzere çeşitli eşyalarla takas edin",
     "FINISH_TRADE_WARN": "{{author}} Devam etmeden önce `{{commandName}}` komutunu tamamlamanız gerekiyor",
     "SENT_TRADE": "{{author}} adlı kullanıcının takas talebini kabul etmek istiyor musunuz?",
@@ -19,7 +19,7 @@
     "NOTED_ADDED": "Notunuz başarıyla eklendi: `{{response}}`",
     "TRADE_CANCELLED": "Takas iptal edildi",
     "MT_ENDS": "SOFI: MULTITRADE (⏳{{timer}})",
-    "MT_INFO_1": "🤝 Önekler:\n- Backgrounds [&] • Glows [#] • Frames [$]\n- Version tokens [!] • Layers [>] • Tags [%]",
+    "MT_INFO_1": "🤝 **Önekler**:\n- Backgrounds [&] • Glows [#] • Frames [$]\n- Version tokens [!] • Layers [>] • Tags [%]",
     "MT_INFO_3": "🗒️ Günlüklerinize bağlam eklemek için işleminize bir not ekleyin",
     "MT_INFO_4": "📛Kripto ödemesi istemek uzaklaştırılabilecek bir suçtur",
     "MT_COMPLETE": "SOFI: MULTITRADE",
@@ -28,5 +28,6 @@
     "MEMBER_NOT_VERIFIED": "{{author}} Bu kullanıcı doğrulanmadı",
     "NOTE_BUTTON_LABEL": "Not",
     "CARD_TAG_LOCKED": "{{author}} Kilitli kartlar içeren etiketleri takas edemezsiniz",
-    "MT_TRADE_ERROR": "⚠️Bu takas penceresinde sağlanan bazı öğeler ve kartlar artık geçerli değil!"
+    "MT_TRADE_ERROR": "⚠️Bu takas penceresinde sağlanan bazı öğeler ve kartlar artık geçerli değil!",
+    "USER_NOT_FOUND": "{{author}} Bu kullanıcı bulunamadı"
 }

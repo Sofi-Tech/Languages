@@ -1,18 +1,18 @@
 {
     "NOT_ENOUGH_CURR": "{{user}} Bạn không có đủ **{{currency}}** để bắt đầu trò chơi",
-    "INFO_4": "**Số người tham gia [{{totalPlayers}}]**",
+    "INFO_4": "**Số Người Tham Gia [{{totalPlayers}}]**",
     "MORE": "còn nữa...",
     "INSUFFICIENT_CURRENCY": "{{author}} Bạn không có đủ **{{currency}}** để tham gia trò này",
     "CORRECT_GUESS": "{{winner}} Đã đoán đúng và giành được **{{jackpot}}** {{currencyEmoji}}",
-    "INFO_2": "Phí tham gia: **{{bet}}** {{currencyEmoji}}",
+    "INFO_2": "Phí Tham Gia: **{{bet}}** {{currencyEmoji}}",
     "REQ_MORE_PLAYERS": "{{user}} Cần ít nhất **2** người để bắt đầu trò chơi",
     "GUESS_DESCRIPTION": "Sử dụng lệnh này để bắt đầu trò chơi đoán từ. Tất cả người chơi tham gia trò chơi đoán từ này sẽ bị trừ một số tiền từ kho đồ của họ, một khi trò chơi bắt đầu. Một từ Tiếng Anh sẽ được chọn và bị đảo thứ tự các chữ cái. Người đầu tiên nhập đúng từ gốc trong đoạn chat sẽ là người chiến thắng và nhận được toàn bộ phí tham gia của tất cả người chơi",
     "FOOTER": "Nhấn🍻để tham gia! Bắt đầu trò chơi bằng cách nhấn vào nút 🟢",
-    "GUESS_THE_WORD": "{{participants}}\n\nKhôi phục từ Tiếng Anh gốc: `{{scrambledWord}}`",
+    "GUESS_THE_WORD": "{{participants}}\n\nKhôi phục từ **Tiếng Anh** gốc: `{{scrambledWord}}`",
     "INFO_1": "{{user}} đã bắt đầu một trò chơi đoán từ!",
-    "INFO_3": "Tổng giải thưởng: **{{jackpot}}** {{currencyEmoji}}",
+    "INFO_3": "Tổng Giải Thưởng: **{{jackpot}}** {{currencyEmoji}}",
     "NO_TP": "{{author}} Bạn cần phải có một **Trade Pass** đang hoạt động để tổ chức trò chơi đoán từ",
     "NO_TP_2": "{{author}} Bạn cần có một **Trade Pass** đang hoạt động để tham gia!",
-    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}guess <Amount> <Currency>`\nVật phẩm cho phép: **Silver**, **Wist**, **Gem**, **Cube**",
+    "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}guess <Amount> <Currency>`\nCác vật phẩm cho phép: **Silver**, **Wist**, **Gem**, **Cube**",
     "ITEM_LIMIT": "{{author}} Bạn chỉ có thể đặt cược tối đa **{{amount}} {{itemName}}** một lần"
 }

@@ -3,7 +3,7 @@
     "LS_PAGE_FOOTER": "Görünen Sayfa: {{currentPage}}/{{totalPages}}",
     "LAYER_NOT_FOUND": "{{author}} ,`{{layerId}}` ID'li bir **Layer** bulamadı",
     "BUY_LAYER_INFO": "`{{prefix}}buy layer <Layer-ID> <Miktar>` komutunu kullanarak bir **Layer** satın alın",
-    "LS_NAME": "**Ad:** {{name}}",
+    "LS_NAME": "**İsim:** {{name}}",
     "LS_DESCRIPTION": "**Açıklama:** {{description}}",
     "LS_PRICE": "**Fiyat:** {{amount}} {{currencyEmoji}}",
     "LS_CATEGORY": "**Kategori:** {{category}}",

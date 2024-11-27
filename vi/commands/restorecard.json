@@ -10,5 +10,5 @@
     "RESTORE_CONFIRMATION": "Bạn có chắc muốn khôi phục thẻ `{{code}}` với giá **{{amount}}** **{{currency}}** không?",
     "EMBED_FOOTER": "Bạn có thể khôi phục thẻ này cho đến ngày {{date}}",
     "MISSING_CURRENCY": "{{author}} Bạn cần {{amount}} **{{currency}}** để khôi phục một thẻ",
-    "RESTORE_FAILED": "{{author}} Quá trình này đã bị hủy bỏ"
+    "RESTORE_FAILED": "{{author}} Quá trình đã bị hủy bỏ"
 }

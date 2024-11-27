@@ -7,8 +7,8 @@
     "NOT_REGISTERED": "{{author}} वह उपयोगकर्ता पंजीकृत नहीं है",
     "AUTHOR_IS_BLED": "{{author}} आप संदिग्ध-सूची में हैं",
     "MEMBER_IS_BLED": "{{author}} वह उपयोगकर्ता संदिग्ध-सूची में है",
-    "AUTHOR_IS_QUED": "{{author}} आप क्वारेंटाइंड हैं",
-    "MEMBER_IS_QUED": "{{author}} वह उपयोगकर्ता क्वारेंटाइंड है",
+    "AUTHOR_IS_QUED": "{{author}} आप क्वारेंटाइंड है। क्वारेंटाइंड स्थिति के बारे में विस्तृत माहिती जानने के लिए हमारी [Guide](<https://guide.sofi.gg/user-status#quarantined>) पर जाएं।",
+    "MEMBER_IS_QUED": "{{author}} वह उपयोगकर्ता क्वारेंटाइंड है। क्वारेंटाइंड स्थिति के बारे में विस्तृत माहिती जानने के लिए हमारी [Guide](<https://guide.sofi.gg/user-status#quarantined>) पर जाएं।",
     "BUY_TP_1": "{{user}} के पास सक्रिय **Trade Pass** नहीं है",
     "BUY_TP_2": "हमारी वेबसाइट पर जाकर **Bump** करे और उन पॉइंट्स को **Trade Pass** खरीदने में उपयोग करे",
     "FINISH_TRADE_WARN": "{{author}} जब तक आप `{{commandName}}` कमांड पूर्ण नहीं करते, तब तक आप आगे नहीं बढ़ सकते है",
@@ -28,5 +28,6 @@
     "MEMBER_NOT_VERIFIED": "{{author}} वह उपयोगकर्ता वेरिफाइड नहीं है",
     "CARD_TAG_LOCKED": "{{author}} जिस टैग में लॉक्ड पत्ते है उन्हे आप सौदा नहीं कर सकते है",
     "MT_TRADE_ERROR": "⚠️ सौदे के बीच प्रदान करे गए आइटम्स और पत्ते अब मान्य नही है!",
-    "NOTE_BUTTON_LABEL": "टिप्पणी"
+    "NOTE_BUTTON_LABEL": "टिप्पणी",
+    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता नहीं मिल सका"
 }

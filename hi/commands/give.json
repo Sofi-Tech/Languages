@@ -5,7 +5,7 @@
     "NO_SELF_GIVE": "{{author}} आप अपने आप को पत्ते नहीं दे सकते है",
     "NOT_REGISTERED": "{{author}} वह उपयोगकर्ता पंजीकृत नहीं है",
     "MEM_BLACKLISTED": "{{author}} वह उपयोगकर्ता संदिग्ध-सूची में है",
-    "MEM_QUARANTINED": "{{author}} वह उपयोगकर्ता क्वारेंटाइंड है",
+    "MEM_QUARANTINED": "{{author}} वह उपयोगकर्ता क्वारेंटाइंड है। क्वारेंटाइंड स्थिति के बारे में विस्तृत माहिती जानने के लिए हमारी [Guide](<https://guide.sofi.gg/user-status#quarantined>) पर जाएं।",
     "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} आपके द्वारा प्रदान किया गया कोड अमान्य है या आपके संग्रह में मौजूद नहीं है",
     "CARD_LOCKED": "{{author}} यह पत्ता लॉक किया गया है तथा दिया नहीं जा सकता। `{{prefix}}ut <CardCode>` का उपयोग करके पत्ते को अनलॉक करे",
@@ -15,6 +15,6 @@
     "AUTHOR_BLACKLISTED": "{{author}} आप संदिग्ध-सूची में है",
     "CARD_SELECTED": "{{author}} यह पत्ता अभी डेक में उपयोग हो रहा है तथा दिया नहीं जा सकता है",
     "EMBED_TITLE": "SOFI: GIVE",
-    "AUTHOR_QUARANTINED": "{{author}} आप क्वारेंटाइंड है",
+    "AUTHOR_QUARANTINED": "{{author}} आप क्वारेंटाइंड है। क्वारेंटाइंड स्थिति के बारे में विस्तृत माहिती जानने के लिए हमारी [Guide](<https://guide.sofi.gg/user-status#quarantined>) पर जाएं।",
     "CARD_IN_QUEST": "{{author}} वह पत्ता अभी क्वेस्ट में उपयोग हो रहा है एवं दिया नही जा सकता"
 }

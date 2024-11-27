@@ -4,7 +4,7 @@
     "NOT_GUILD_MEMBER": "{{author}} Dieser Nutzer ist kein Mitglied deiner Gilde",
     "CANT_DEMOTE_FOUNDER": "{{author}} Du kannst einen **Founder** nicht degradieren",
     "PROVIDE_GUILD_RANK": "{{author}} Gebe einen Gildenrang zum Zurückstufen an: \n> {{ranks}}",
-    "INVALID_USER_PROVIDED": "{{author}} Dieser Nutzer konnte nicht gefunden werden",
+    "INVALID_USER_PROVIDED": "{{author}} Der Nutzer konnte nicht gefunden werden",
     "GUILDDEMOTE_CATEGORY": "Gilden",
     "MUST_HAVE_AUTHORITY": "{{author}} Du musst ein **Founder** oder **Guildmaster** sein, um ein Mitglied deiner Gilde zurückzustufen",
     "DEMOTED_VETERAN": "{{member}} wurde zum **Veteran** degradiert",

@@ -21,7 +21,7 @@
     "NOT_WHITELISTED_YET": "{{author}} Bạn chưa thêm lệnh nào vào danh sách cho phép",
     "WHITELIST_ALREADY_ACTIVE": "{{author}} Bạn không thể xoá các lệnh đã được thêm vào danh sách đen khỏi danh sách cho phép",
     "RESET_PERMS_SUCCESSFUL": "{{author}} Đã đặt lại quyền của kênh này thành công",
-    "STOPPED_PROCESS": "Quá trình này đã bị huỷ bỏ",
+    "STOPPED_PROCESS": "Quá trình đã bị huỷ bỏ",
     "ADD_MODAL_LABEL": "Thêm lệnh vào danh sách {{listName}} của kênh này",
     "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "REMOVE_MODAL_LABEL": "Xoá lệnh khỏi danh sách {{listName}} của kênh này",

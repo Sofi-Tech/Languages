@@ -11,7 +11,7 @@
     "PROVIDE_GUILD_RANK": "{{author}} Cung cấp hạng bang hội để giáng chức:\n> {{ranks}}",
     "DEMOTED_NEWBIE": "{{member}} đã bị giáng chức xuống **Newbie**",
     "DEMOTE_NEWBIE_ERROR": "{{author}} Chỉ **Guildmaster** và **Veteran** mới có thể bị giáng chức xuống **Newbie**",
-    "DEMOTED_VETERAN": "{{member}} bị giáng chức xuống **Veteran**",
+    "DEMOTED_VETERAN": "{{member}} đã bị giáng chức xuống **Veteran**",
     "DEMOTED_ADVENTURER": "{{member}} đã bị giáng chức xuống **Newbie**",
     "NOT_GUILD_MEMBER": "{{author}} Người dùng này không phải là thành viên trong bang hội của bạn",
     "GD_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gd <@User/UserID> <V/N>`"

@@ -22,7 +22,7 @@
     "SORT_DUPE": "नक़ल",
     "PLEASE_WAIT": "कृपया प्रतीक्षा करें <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} आपने अभी तक कोई टैग नही बनाया है। `{{prefix}}tc <TagName> <Emoji>` का उपयोग करके टैग बनाए",
-    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता नहीं मिल सका",
+    "USER_NOT_FOUND": "{{author}} वह उपयोगकर्ता नहीं मिल सका",
     "NOT_AVAILABLE": "अमान्य श्रृंखला",
     "TAG_MODAL_PLACEHOLDER": "समूह में टैग हटाने के लिए नाम के आगे \"-\" जोड़े",
     "SORT_LEVEL": "स्तर",
@@ -64,5 +64,6 @@
     "ALL_TAG_SUCCESS_other": "सफलतापूर्वक **{{count}}** पत्तो को `{{tagName}}` टैग में जोड़ा गया",
     "ALL_TAG_SUCCESS_many": "सफलतापूर्वक **{{count}}** पत्तो को `{{tagName}}` टैग में जोड़ा गया",
     "VERSION_AVAILABILITY": "Version उपलब्धता",
-    "FILTER_NAME_EXISTS": "`{{filterName}}` नाम का फिल्टर पहले से ही मौजूद है"
+    "FILTER_NAME_EXISTS": "`{{filterName}}` नाम का फिल्टर पहले से ही मौजूद है",
+    "SERIES_COMPLETED": "श्रृंखला पूर्ण हुई"
 }

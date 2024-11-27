@@ -4,7 +4,7 @@
     "SLASH_DESC2": "Masukkan jumlah item",
     "SLASH_DESC3": "Masukkan kode dari Background yang ingin kamu beli. [HANYA BERFUNGSI JIKA ITEM DIPILIH SEBAGAI BACKGROUND]",
     "NO_ITEM": "{{author}} Penggunaan yang benar: `{{prefix}}buy <ItemName> <Amount>`",
-    "TRADEPASS_INFO": "Kunjungi situs web kami di bawah ini untuk **Bump** dan tukarkan poin anda dengan item yang berbeda, termasuk `Trade Pass`",
+    "TRADEPASS_INFO": "Kunjungi situs web kami di bawah ini untuk **Bump** dan tukarkan poin anda dengan item yang berbeda, termasuk **Trade Pass**",
     "CORRECT_USAGE": "{{user}} Penggunaan yang benar: `{{prefix}}buy bg <Background-ID> <Amount>`",
     "INVALID_BG_AMOUNT": "{{author}} Anda tidak dapat membeli barang dengan jumlah negatif",
     "INVALID_BG_ID": "{{author}} Tidak dapat menemukan **Background** dengan ID tersebut",
@@ -14,5 +14,5 @@
     "BUY_GEN_CONFIRMATION": "## Anda membeli {{count}} {{itemName}} 💳",
     "LAYER_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}buy layer <Layer-ID> <Amount>`",
     "NO_LAYER_FOUND": "{{author}} Tidak dapat menemukan **Layer** dengan ID `{{layerId}}`",
-    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** dengan ID`{{layerId}}` terbatas dan tidak dapat dibeli lagi"
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** dengan ID `{{layerId}}` terbatas dan tidak dapat dibeli lagi"
 }

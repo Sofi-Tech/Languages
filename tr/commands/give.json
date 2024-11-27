@@ -5,7 +5,7 @@
     "NO_SELF_GIVE": "{{author}} Kendine kart veremezsin",
     "NOT_REGISTERED": "{{author}} Bu kullanıcı Sofi'ye kayıtlı değil",
     "MEM_BLACKLISTED": "{{author}} Bu kullanıcı kara listede",
-    "MEM_QUARANTINED": "{{author}} Bu kullanıcı karantina altında",
+    "MEM_QUARANTINED": "{{author}} Bu kullanıcı karantinaya alınmış. Karantina durumu hakkında detaylı bilgi için [Rehberimizi](<https://guide.sofi.gg/user-status#quarantined>) ziyaret edin.",
     "WRONG_USAGE": "{{author}} Doğru kullanımı: `{{prefix}}give <@Kullanıcı/KullanıcıIDsi> <KartKodu>`",
     "NO_CARD_FOUND": "{{author}} Sağladığınız kart kodu geçersiz veya koleksiyonunuzda bulunmuyor",
     "CARD_LOCKED": "{{author}} Bu kart kilitlidir ve başkasına verilemez. Kartın kilidini açmak için `{{prefix}}ut <KartKodu>` komutunu kullanın",
@@ -15,6 +15,6 @@
     "AUTHOR_NOT_VERIFIED": "{{author}} Doğrulanmadınız",
     "CARD_SELECTED": "{{author}} Bu kart bir destede kullanılıyor ve devredilemez",
     "EMBED_TITLE": "SOFI: GIVE",
-    "AUTHOR_QUARANTINED": "{{author}} Karantinaya alındınız",
+    "AUTHOR_QUARANTINED": "{{author}} Karantinaya alındınız. Karantina durumu hakkında detaylı bilgi için [Rehberimizi](<https://guide.sofi.gg/user-status#quarantined>) ziyaret edin.",
     "CARD_IN_QUEST": "{{author}} Bu kart şu anda bir görevde kullanılıyor ve başkasına verilemez"
 }

@@ -18,6 +18,6 @@
     "GUILD_LEAVE_CANCEL": "{{author}} loncadan ayrılmamaya karar verdi",
     "TRANSFER_OWNERSHIP": "↪️: Loncanın sahipliğini aktar \n",
     "GUILD_LEAVE_CONFIRM": "{{guildName}} loncasından ayrılmak istediğinizden emin misiniz?\n\nLoncalardan sık sık ayrılmak yasaktır.\nTekrar bir loncaya katılabilmek için 48 saat beklemeniz gerekecek.",
-    "GD_EMBED_DESCRIPTION": "**{{guildName}}** loncasını silmek üzeresiniz. \nLoncanızda **{{size}} üye** var. \nLoncanın seviyesi {{level}}.\nKasadaki tüm ilerleme ve kaynaklar kaybolacak. \nBu işlem geri alınamaz. \n\nLoncayı silmek istediğinizden emin misiniz?",
+    "GD_EMBED_DESCRIPTION": "**{{guildName}}** loncasını silmek üzeresiniz. \nLoncanızda **{{size}} üye** var. \nLoncanın seviyesi **{{level}}**.\nKasadaki tüm ilerleme ve kaynaklar kaybolacak. \nBu işlem geri alınamaz. \n\nLoncayı silmek istediğinizden emin misiniz?",
     "TRANSFER_SUCCESS": "{{author}} loncadan ayrıldı ve yeni **Founder** <@{{userId}}> oldu"
 }

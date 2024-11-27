@@ -5,7 +5,7 @@
     "SUPPORT_BUTTON_LABEL": "Hỗ trợ",
     "COMMAND_BLACKLISTED": "{{author}} Lệnh `{{commandName}}` đã bị chặn trong kênh này",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
-    "CATEGORY_DISABLED": "{{author}} Danh Mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
+    "CATEGORY_DISABLED": "{{author}} Danh mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Lệnh này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "VERIFY_TO_PLAY": "[Xác minh thông tin của bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)",
     "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể dẫn đến điều này:**\n```CSS\n- Tương tác với Sofi trên nhiều tài khoản\n- Bán hoặc mua toàn bộ tài khoản Discord\n- Lừa đảo người dùng khác\n- Tận dụng hoặc liên quan đến bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại về việc bị đưa vào danh sách đen](https://sofi.gg/appeal)\n:link: [Máy chủ Hỗ trợ](https://discord.gg/sofi)",

@@ -28,5 +28,6 @@
     "CARD_TAG_LOCKED": "{{author}} Bạn không thể trao đổi nhãn chứa thẻ đã bị khóa",
     "MISSING_ITEMS": "{{user}} Bạn không có đủ số lượng của các vật phẩm sau:\n{{items}}",
     "MT_TRADE_ERROR": "⚠️ Một số vật phẩm và thẻ được cung cấp trong cuộc trao đổi này không còn hợp lệ!",
-    "MEMBER_NOT_VERIFIED": "{{author}} Người dùng đó chưa được xác minh"
+    "MEMBER_NOT_VERIFIED": "{{author}} Người dùng đó chưa được xác minh",
+    "USER_NOT_FOUND": "{{author}} Không tìm thấy người dùng đó"
 }

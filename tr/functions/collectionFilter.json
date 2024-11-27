@@ -1,6 +1,6 @@
 {
     "PROVIDE_FILTER": "{{author}} Lütfen sıralama yönteminin yanında bir filtre sağlayın",
-    "PROVIDE_CATEGORY": "{{author}} Lütfen aşağıdaki kategorilerden birini girin ```apache\n{{categories}}```",
+    "PROVIDE_CATEGORY": "{{author}} Lütfen aşağıdaki kategorilerden birini girin: ```apache\n{{categories}}```",
     "TOO_LONG_FILTER": "{{author}} Sağladığınız filtre çok uzun, lütfen tekrar deneyin",
     "TOO_MANY_FILTER_GROUPS": "{{author}} Yalnızca 5 filtre grubunuz olabilir, lütfen tekrar deneyin"
 }
