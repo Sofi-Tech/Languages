@@ -1,5 +1,5 @@
 {
-    "RESTORECARD_DESCRIPTION": "Utilisez cette commande pour restaurer une carte brûlée dans les 3 jours suivant son incinération",
+    "RESTORECARD_DESCRIPTION": "Utilisez cette commande pour restaurer une carte burn dans les 3 jours suivant son burn",
     "RESTORECARD_CATEGORY": "Cartes",
     "CARD_EXPIRED": "{{author}} La carte ayant le code `{{code}}` a expiré et ne peut pas être restaurée",
     "EMBED_TITLE": "SOFI: RESTORE CARD",
@@ -10,5 +10,5 @@
     "RESTORE_FAILED": "{{author}} Le processus a été annulé",
     "CARD_NOT_FOUND": "{{author}} La carte avec le code `{{code}} ` n'a pas été trouvée dans vos cartes brûlées",
     "ENTER_CODE": "{{author}} Utilisation correcte: `{{prefix}}restore <CodeDeCarte>`",
-    "CARD_NOT_BURNED": "{{author}} La carte avec le code `{{code}} ` n'est pas encore brûlée"
+    "CARD_NOT_BURNED": "{{author}} La carte avec le code `{{code}} ` n'est pas encore burn"
 }
