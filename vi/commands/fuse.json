@@ -19,7 +19,7 @@
     "BASE_MODAL_PLACEHOLDER": "ví dụ. qdwr12",
     "VERSION_MODAL_TITLE": "Hợp Nhất: Nâng Cấp Version",
     "INVALID_CARD": "Mã thẻ bạn cung cấp không hợp lệ",
-    "CHAR_NO_VERSIONS": "Nhân vật này không có bất kỳ **Version** khác nào",
+    "CHAR_NO_VERSIONS": "Nhân vật này không có bất kỳ **Version** nào khác",
     "CARD_NOT_ELIGIBLE": "Thẻ này không đủ điều kiện để nâng cấp **Version**",
     "ANIMATED_NOT_ELIGIBLE": "Thẻ GIF không đủ điều kiện để nâng cấp **Version**",
     "BASE_SET_SUCCESS": "Thẻ gốc đã được thiết lập thành công",
@@ -45,5 +45,9 @@
     "EQUIPMENT_FUSION_SUCCESS": "Hợp nhất trang bị thành công\n{{moreInfo}}",
     "MISSING_ELIXIR": "Bạn không có đủ **Elixir**",
     "VERSION_UPGRADE_FAILED": "Nâng cấp **Version** thất bại, hãy thử lại",
-    "VERSION_UPGRADE_SUCCESS": "Chúc mừng! **Version** đã được nâng cấp thành **{{version}}**"
+    "VERSION_UPGRADE_SUCCESS": "Chúc mừng! **Version** đã được nâng cấp thành **{{version}}**",
+    "FUSE_DESC2": "<:_:979009081325019156> Hoạt Ảnh: Các `Fragment` thu thập được từ `Pull` sẽ được hợp nhất tại đây để tạo ra các biến thể `GIF`. Bạn sẽ cần đủ 8 `Fragment` của một nhân vật để thực hiện quá trình này!",
+    "FUSE_DESC3": "<:_:979009081325019156> Nâng Cấp: Hợp nhất các bản trùng lặp để nhận điểm nâng cấp cho thẻ của bạn.",
+    "ANIMATED": "Hoạt Ảnh",
+    "CREATE_ANIMATED": "Tạo một Thẻ \"GIF\""
 }
