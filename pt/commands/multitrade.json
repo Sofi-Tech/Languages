@@ -7,8 +7,8 @@
     "NOT_REGISTERED": "{{author}} Esse usuário não está registrado",
     "AUTHOR_IS_BLED": "{{author}} Você está na blacklist",
     "MEMBER_IS_BLED": "{{author}} este usuário está na blacklist",
-    "AUTHOR_IS_QUED": "{{author}} Você está em quarentena",
-    "MEMBER_IS_QUED": "{{author}} Esse usuário está em quarentena",
+    "AUTHOR_IS_QUED": "{{author}} Você está em quarentena. Visite nosso [Guia](<https://guide.sofi.gg/user-status#quarantined>) para informação detalhada sobre o status de quarentenado.",
+    "MEMBER_IS_QUED": "{{author}} Esse usuário está em quarentena. Visite nosso [Guia](<https://guide.sofi.gg/user-status#quarantined>) para informação detalhada sobre o status de quarentena.",
     "BUY_TP_1": "{{user}} não tem um **Trade Pass** ativo",
     "BUY_TP_2": "Visite nosso site abaixo para **Bump** e trocar seus pontos por itens, incluindo o **Trade Pass**",
     "FINISH_TRADE_WARN": "­{{author}} Você precisa concluir o comando `{{commandName}}` antes de continuar",
@@ -28,5 +28,6 @@
     "MEMBER_NOT_VERIFIED": "{{author}} Esse usuário não foi verificado",
     "NOTE_BUTTON_LABEL": "Nota",
     "CARD_TAG_LOCKED": "{{author}} Você não pode trocar tags que contenham cartas bloqueadas",
-    "MT_TRADE_ERROR": "⚠️Alguns dos itens e cartas fornecidos nesta janela de troca não são mais válidos!"
+    "MT_TRADE_ERROR": "⚠️Alguns dos itens e cartas fornecidos nesta janela de troca não são mais válidos!",
+    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar este usuário"
 }

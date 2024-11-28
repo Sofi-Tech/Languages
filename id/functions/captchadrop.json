@@ -5,6 +5,6 @@
     "EMBED_TITLE": "Captcha Card",
     "EMBED_FOOTER": "Ambil kartu di atas dengan menuliskan captcha",
     "WAIT_TO_CLAIM": "{{user}} Anda harus menunggu **{{cooldown}}** untuk mengambil kartu lainnya",
-    "TOOK_THE_CARD": "{{user}} **Mengambil** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "TOOK_THE_CARD": "{{user}} **mengambil** kartu **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "CANNOT_BE_GRABBED": "{{user}} telah **mengambil** kartu **{{characterName}}**"
 }

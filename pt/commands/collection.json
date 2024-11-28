@@ -22,7 +22,7 @@
     "SORT_DUPE": "Dupes",
     "PLEASE_WAIT": "Por Favor Espere <a:ping:876612181725167687>",
     "NO_TAG_FOUND": "{{author}} Você ainda não tem nenhuma tag. Use o comando `{{prefix}}tc <TagName> <Emoji>` para criar uma",
-    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar esse usuário",
+    "USER_NOT_FOUND": "{{author}} Não foi possível encontrar este usuário",
     "NO_RESULTS_OTHERS": "{{author}} Esse usuário não possui nenhuma carta na coleção dele",
     "NOT_AVAILABLE": "Série Inválida",
     "VERSION_AVAILABILITY": "Disponibilidade de Version",
@@ -64,5 +64,6 @@
     "EXPLAIN_FILTER": "{{author}} Aqui está um fluxograma para ajudá-lo a entender como esse filtro funciona",
     "SAVE_FILTER": "Selecione um Filtro",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} Você não tem **Silver** suficiente para salvar este filtro",
-    "FILTER_NAME_EXISTS": "O filtro com o nome `{{filterName}}` já existe"
+    "FILTER_NAME_EXISTS": "O filtro com o nome `{{filterName}}` já existe",
+    "SERIES_COMPLETED": "Séries Completadas"
 }

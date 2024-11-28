@@ -1,6 +1,6 @@
 {
     "LOOKUP_DESCRIPTION": "Dengan perintah ini anda dapat mencari karakter tertentu yang anda inginkan. Penyematan yang dihasilkan akan menunjukkan kepada anda Version yang berbeda, serta varian Event",
-    "CHAR_NOT_FOUND": "{{author}}Tidak dapat menemukan karakter dengan nama `{{arg}}`",
+    "CHAR_NOT_FOUND": "{{author}} Tidak dapat menemukan karakter dengan nama `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Tidak dapat menemukan karakter apapun dengan nama `{{arg}}`\n```fix\nCatatan: Menggunakan flag `-f` akan membuat fungsi peka huruf besar kecil!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Dikirim oleh** <@{{userID}}>",
