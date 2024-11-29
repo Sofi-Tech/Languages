@@ -2,7 +2,7 @@
     "AUCTIONINFO_DESCRIPTION": "Ang command na ito ay magbubukas ng embed na nagpapakita ng mga nakalipas at kasalukuyang mga auction para sa mga code ng kard, na maaari mong i-bid. Ginagamit ng Auctions ang mga Charm bilang salapi sa paglagay ng bid",
     "AI_CATEGORY": "Mga Kard",
     "NO_ONGOING_AUCTION": "{{author}} Wala pang aktibong auction sa kasalukuyan",
-    "BID_SELECTION": "Gamitin ang command na {{prefix}}ai <Auction-ID> o pumili ng aktibong auction mula sa menu na nasa ibaba",
+    "BID_SELECTION": "Gamitin ang \"{{prefix}}ai <Auction-ID>\" o pumili ng aktibong auction mula sa menu na nasa ibaba",
     "AI_CURRENT": "Kasalukuyang Bid",
     "SELECT_AUCTION_PLACEHOLDER": "Mamili ng Auction",
     "BID_MODAL_TITLE": "Bid sa Auction",

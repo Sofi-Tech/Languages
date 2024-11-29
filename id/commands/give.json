@@ -5,7 +5,7 @@
     "NO_SELF_GIVE": "{{author}} Anda tidak dapat memberikan kartu kepada diri Anda sendiri",
     "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar",
     "MEM_BLACKLISTED": "{{author}} Pengguna itu masuk daftar hitam",
-    "MEM_QUARANTINED": "{{author}} Pengguna itu dikarantina",
+    "MEM_QUARANTINED": "{{author}} Pengguna tersebut dikarantina. Kunjungi [Panduan](<https://guide.sofi.gg/user-status#quarantined>) kami untuk informasi lebih detail tentang status karantina.",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda",
     "CARD_LOCKED": "{{author}} Kartu tersebut terkunci dan tidak dapat diberikan. Gunakan perintah `{{prefix}}ut <CardCode>` untuk membuka kunci kartu",
@@ -15,6 +15,6 @@
     "CARD_SELECTED": "{{author}} Kartu itu digunakan dalam deck dan tidak dapat ditransfer",
     "AUTHOR_BLACKLISTED": "{{author}} Anda masuk daftar hitam",
     "EMBED_TITLE": "SOFI: GIVE",
-    "AUTHOR_QUARANTINED": "{{author}} Anda dikarantina",
+    "AUTHOR_QUARANTINED": "{{author}} Anda dikarantina. Kunjungi [Panduan](<https://guide.sofi.gg/user-status#quarantined>) kami untuk informasi lebih detail tentang status karantina.",
     "CARD_IN_QUEST": "{{author}} Kartu tersebut saat ini digunakan dalam misi dan tidak dapat diberikan"
 }
