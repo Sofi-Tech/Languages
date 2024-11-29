@@ -1,12 +1,12 @@
 {
     "SC_CATEGORY": "Cài đặt",
     "CARD_EMBED_TITLE": "SOFI: CARD SUBMISSION",
-    "CARD_DIMENSION": "<:_:979009081325019156> Kích thước của hình ảnh được gửi **phải** là `297x465`",
+    "CARD_DIMENSION": "<:_:979009081325019156> Kích thước của ảnh được gửi **phải** là `297x465`",
     "OFFICIAL_ART_ALLOWED": "<:_:979009081325019156> Hình ảnh đã gửi **phải** từ một nguồn chính thức",
     "NOT_PING_STAFF": "<:_:979009081325019156> Hình ảnh đã gửi **phải** là tập tin `PNG` hoặc `JPG`",
     "LINK_TO_SOURCE": "<:_:979009081325019156> Cung cấp liên kết nguồn của hình ảnh",
-    "IMAGES_REJECTED": "<:_:979009081325019156> Ảnh minh hoạ được sử dụng cho thẻ **GIF**, **3D** hoặc sự kiện hiện có sẽ bị từ chối",
-    "USEFUL_LINKS": "🔗 **__Một Số Liên Kết Hữu Ích__**",
+    "IMAGES_REJECTED": "<:_:979009081325019156> Ảnh minh hoạ được sử dụng cho thẻ **GIF**, **3D** hoặc sự kiện đã có sẽ bị từ chối",
+    "USEFUL_LINKS": "🔗 **__Liên Kết Hữu Ích__**",
     "UPSCALE_IMAGE_SITE": "Phóng To Ảnh: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**",
     "SC_CORRECT_USAGE": "<:_:979009081325019156> Cú pháp lệnh: `{{prefix}}sc <CardID> <2D> <ImageURL> <SourceURL>`",
     "CARD_INFO_CHANNEL": "Hướng Dẫn Gửi Yêu Cầu: **[Xem Tại Đây](https://discord.gg/EUp7rNVC4U)**",
@@ -18,7 +18,7 @@
     "TOTAL_EVENT_2D": "Thẻ sự kiện **2D** độc quyền: **{{totalEventCards}}**",
     "TOTAL_EVENT_3D": "Thẻ sự kiện **3D** độc quyền: **{{totalEventCards}}**",
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} Bạn không có quyền gửi hình ảnh cho loại sự kiện này",
-    "PROVIDE_IMAGE_URL": "{{author}} URL hình ảnh đã gửi không hợp lệ",
+    "PROVIDE_IMAGE_URL": "{{author}} URL Hình Ảnh đã gửi không hợp lệ",
     "PROVIDE_SOURCE_URL": "{{author}} Vui lòng cung cấp URL nguồn",
     "SURE_DISCORD_LINK": "{{author}} Hình ảnh đã gửi phải sử dụng liên kết chính thức của Discord, chẳng hạn như `cdn.discordapp.com` hoặc `media.discordapp.net`",
     "VALID_IMAGE_URL": "{{author}} Liên kết đã gửi **phải** là tệp `PNG` hoặc `JPG`",
@@ -35,5 +35,5 @@
     "SUBMISSION_SUCCESSFUL": "{{author}} Gửi thẻ hoàn tất",
     "CARD_ID_INVALID": "{{author}} Mã thẻ đã gửi không hợp lệ",
     "ENTER_EVENT_TYPE": "{{author}} Loại thẻ đã gửi không hợp lệ",
-    "EMBED_FOOTER": "Các yêu cầu của bạn: {{userStats}}/{{submitted}} | Tổng số yêu cầu: {{globalStats}}/{{allSubmit}}"
+    "EMBED_FOOTER": "Yêu cầu của bạn: {{userStats}}/{{submitted}} | Tổng số yêu cầu: {{globalStats}}/{{allSubmit}}"
 }

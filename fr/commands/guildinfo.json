@@ -146,7 +146,7 @@
     "PERMISSION_MODAL_LABEL": "Entrez le niveau de permission:",
     "DESCRIPTION_MODAL_LABEL": "Entrez la description:",
     "GLOW_MODAL_TITLE": "Définir la Couleur de l'Encart",
-    "INVALID_PERMISSION": "Level de permission invalide fourni.\n\n**Levels disponibles:**\nAventurier: 0\nVétéran: 1\nMaître de Guilde: 2\nFondateur: 3",
+    "INVALID_PERMISSION": "Level de permission invalide fourni.\n\n**Levels disponibles:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "CRAFTING_STARTED": "Démarrage du craft de **{{itemName}}**",
     "CANNOT_HANDLE_MEMBERS": "Les guildes de plus de 40 membres ne peuvent pas être supportées",
     "ITEM_EMBED_DESCRIPTION": "Les items collectés dans votre coffre fort peuvent être utilisés pour craft des items variés. \nLes ressources seront consommées directement de votre coffre fort. \nLes items craftés seront directement transmis dans votre inventaire. \nLes niveaux de permission peuvent être définis par les ** Founders** et **Guildmasters**. \n\nCompte Global de **Guild Packages**: {{packageCount}}/300 \nNiveau de Permission: **{{permLevel}}** \nTemps de craft \nCoût du craft",
