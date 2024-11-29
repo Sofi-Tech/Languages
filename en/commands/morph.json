@@ -3,6 +3,7 @@
   "MORPH_CATEGORY": "Cosmetics",
   "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}m <CardCode> <MorphItem>`",
   "CANNOT_MORPH": "{{author}} The card code you provided is either invalid or not in your collection",
+  "CANNOT_MORPH_BANNER": "{{author}} The banner code you provided is either invalid or not in your collection",
   "NO_GIF_MORPHED": "{{author}} You cannot morph a **GIF** card",
   "CONTINUE": "SOFI: MORPH",
   "MORPH_CONFIRMATION": "Are you sure you want to morph your **{{characterName}}** card for **{{amount}}** {{currencyEmoji}} per roll?",
@@ -28,5 +29,7 @@
   "MNC_REROLL_COST": "Every roll will cost 1 {{currencyName}}",
   "SMR_REROLL_COST": "Every roll will cost 500 {{currencyName}}",
   "NO_SPECIAL_REROLLED": "No special morph rolled",
-  "NONE": "None"
+  "NONE": "None",
+  "MORPH_CURRENT_ROLLS": "Current Rolls: **{{count}}/5**",
+  "EC_REROLL_COST": "Every 5 rolls cost 1 Energy Crystal"
 }
