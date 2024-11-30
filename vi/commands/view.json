@@ -12,5 +12,6 @@
     "MOVES": "Khả Năng",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Sức Mạnh **({{percentage}}%)**",
     "SPECIAL": "Đặc biệt",
-    "BASE_STAT_FOOTER": "Tổng Chỉ Số Cơ Bản   •   {{totalBaseStat}}"
+    "BASE_STAT_FOOTER": "Tổng Chỉ Số Cơ Bản   •   {{totalBaseStat}}",
+    "MORPH_MODAL_LABEL": "Nhập góc để thực hiện morph"
 }
