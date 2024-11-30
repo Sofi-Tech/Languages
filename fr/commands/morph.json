@@ -9,7 +9,7 @@
     "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de **{{currency}}** pour ce processus",
     "BALANCE": "Solde: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Nom: **{{name}}**",
-    "UNDO": "Morphs rolled: **{{count}}**",
+    "UNDO": "Morphs roll: **{{count}}**",
     "FAILED": "{{author}} Un problème est survenu, veuillez réessayer",
     "HISTORY": "\n**__Historique__**\n```{{history}}```",
     "STOLE_MORPH": "Un problème est survenu, veuillez relancer un autre morph",
@@ -28,5 +28,8 @@
     "NONE": "Aucun",
     "ROLL_MORPH": "Le morph sera perdu après 2 minutes",
     "SMR_REROLL_COST": "Chaque roll coûtera 500 {{currencyName}}",
-    "CANNOT_APPLY_3D": "{{author}} Vous ne pouvez pas appliquer le morph {{article}} **{{eventType}}** sur une carte **3D**"
+    "CANNOT_APPLY_3D": "{{author}} Vous ne pouvez pas appliquer le morph {{article}} **{{eventType}}** sur une carte **3D**",
+    "EC_REROLL_COST": "Chaque groupe de 5 rolls coûte 1 Energy Crystal",
+    "MORPH_CURRENT_ROLLS": "Rolls Actuels: **{{count}}/5**",
+    "CANNOT_MORPH_BANNER": "{{author}} Le code de bannière que vous avez fourni est soit invalide soit n'est pas dans votre collection"
 }

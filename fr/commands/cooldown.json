@@ -15,5 +15,5 @@
     "UNREAD_MAIL_two": "\n📫 Vous avez **{{count}}** mails non lus \nUtilisez la commande `{{prefix}}mail` pour les lire",
     "UNREAD_MAIL_few": "\n📫 Vous avez **{{count}}** mails non lus \nUtilisez la commande `{{prefix}}mail` pour les lire",
     "UNREAD_MAIL_zero": "\n📫 Vous avez **{{count}}** mail non lu \nUtilisez la commande `{{prefix}}mail` pour les lire",
-    "UNREAD_MAIL_many": "\n📫 Vous avez **{{count}}** mails non lus"
+    "UNREAD_MAIL_many": "\n📫 Vous avez **{{count}}** mails non lus \nUtilisez la commande `{{prefix}}mail` pour les lire"
 }

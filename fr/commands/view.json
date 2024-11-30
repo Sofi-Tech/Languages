@@ -12,5 +12,9 @@
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "Spécial",
     "INFO_BUTTON_LABEL": "Info",
-    "BASE_STAT_FOOTER": "Base Stats Totales  •  {{totalBaseStat}}"
+    "BASE_STAT_FOOTER": "Base Stats Totales  •  {{totalBaseStat}}",
+    "NEED_SILVER_MORPH": "Vous avez besoin d'au moins **1 Silver** pour utiliser cette fonctionnalité",
+    "MORPH_MODAL_LABEL": "Saisissez un angle pour le morph",
+    "MORPH_MODAL_PLACEHOLDER": "ex. 10",
+    "ENTER_VALID_ANGLE": "Veuillez entrer un angle valide entre **1** et **360** degrés"
 }
