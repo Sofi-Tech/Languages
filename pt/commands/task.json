@@ -71,5 +71,7 @@
     "TYPE": "Tipo: **{{type}}**",
     "CAPABILITY": "Capacidade: {{capability}}",
     "ELEMENT_PREFERENCE": "Preferência Elemental: {{elements}}",
-    "DURATION_other": "Duração: {{count}} horas"
+    "DURATION_other": "Duração: {{count}} horas",
+    "RARE_MATERIAL_SPOTTED": "⚠️ **Materiais raros encontrados**",
+    "GOT_ENERGY_CRYSTAL": "\nVocê recebeu um **Energy Crystal**! <a:energizedcrystal:1309915757026738178>"
 }

@@ -12,5 +12,6 @@
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Lakas **({{percentage}}%)**",
     "SPECIAL": "Espesyal",
     "INFO_BUTTON_LABEL": "Impormasyon",
-    "BASE_STAT_FOOTER": "Kabuuang Base Stat  •  {{totalBaseStat}}"
+    "BASE_STAT_FOOTER": "Kabuuang Base Stat  •  {{totalBaseStat}}",
+    "ENTER_VALID_ANGLE": "Mangyaring maglagay ng tamang anggulo sa pagitan ng **1** at **360** degrees"
 }

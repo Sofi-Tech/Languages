@@ -12,5 +12,9 @@
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "Special",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potência **({{percentage}}%)**",
-    "BASE_STAT_FOOTER": "Status Base Total   •  {{totalBaseStat}}"
+    "BASE_STAT_FOOTER": "Status Base Total   •  {{totalBaseStat}}",
+    "MORPH_MODAL_LABEL": "Insira o ângulo para morfar",
+    "MORPH_MODAL_PLACEHOLDER": "e.x 10",
+    "NEED_SILVER_MORPH": "Você precisa de pelo menos **1 silver** para usar esta função",
+    "ENTER_VALID_ANGLE": "Por favor insira um ângulo válido entre **1** e **360** graus"
 }

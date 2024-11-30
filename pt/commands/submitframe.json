@@ -1,5 +1,5 @@
 {
-    "SF_DISCORD_LINK": "{{author}} A imagem enviada deve usar um link oficial do Discord, como `cdn.discordapp.com` ou `media.discordapp.net`",
+    "SF_DISCORD_LINK": "{{author}} A imagem enviada **deve** usar um link oficial do Discord, como `cdn.discordapp.com` ou `media.discordapp.net`",
     "SF_PNG_ONLY": "{{author}} O link enviado deve ser um arquivo `PNG`",
     "SF_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}sf <ImageURL> <FrameName>`",
     "SUBMIT_FRAME_SUCCESSFUL": "{{author}} O **Frame** foi enviado com sucesso",

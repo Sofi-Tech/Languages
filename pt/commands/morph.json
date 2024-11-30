@@ -27,5 +27,7 @@
     "CANNOT_APPLY_MNC": "{{author}} Você não pode aplicar {{article}} **{{eventType}}** morph em cartas **{{eventCardType}}** ou **3D**",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Cada sorteio custará 1 {{currencyName}}",
-    "CANNOT_APPLY_3D": "{{author}} Você não pode aplicar morphs {{article}} **{{eventType}}** em cartas **3D**"
+    "CANNOT_APPLY_3D": "{{author}} Você não pode aplicar morphs {{article}} **{{eventType}}** em cartas **3D**",
+    "EC_REROLL_COST": "Cada 5 sorteios custam 1 Energy Crystal",
+    "MORPH_CURRENT_ROLLS": "Sorteios Atuais: **{{count}}/5**"
 }
