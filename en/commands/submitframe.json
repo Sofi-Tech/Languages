@@ -3,7 +3,7 @@
     "SF_CATEGORY": "Settings",
     "SF_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}sf <ImageURL> <FrameName>`",
     "MAXIMUM_NAME_LENGTH": "{{author}} The name of your **Frame** can only be **25** characters long",
-    "SF_DISCORD_LINK": "{{author}} The submitted image must use an official Discord link, such as `cdn.discordapp.com` or `media.discordapp.net`",
+    "SF_DISCORD_LINK": "{{author}} The submitted image **must** use an official Discord link, such as `cdn.discordapp.com` or `media.discordapp.net`",
     "SF_PNG_ONLY": "{{author}} The submitted link has to be a `PNG` file",
     "SF_VALID_DIMENSION": "{{author}} The submitted image has invalid dimensions! `297x465`",
     "SF_EMBED_TITLE": "SOFI: FRAME SUBMISSION ({{name}})",

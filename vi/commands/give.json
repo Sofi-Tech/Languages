@@ -3,7 +3,7 @@
     "SLASH_DESC": "Chọn người dùng bạn muốn tặng thẻ",
     "NO_SELF_GIVE": "{{author}} Bạn không thể tự tặng thẻ cho mình",
     "MEM_NOT_VERIFIED": "{{author}} Người dùng đó chưa được xác minh",
-    "MEM_QUARANTINED": "{{author}} Người dùng đó đang bị cách ly",
+    "MEM_QUARANTINED": "{{author}} Người dùng đó đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
     "AUTHOR_NOT_VERIFIED": "{{author}} Bạn chưa được xác minh",
     "NOT_REGISTERED": "{{author}} Người dùng đó chưa đăng ký",
     "MEM_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
@@ -14,7 +14,7 @@
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}g <@User/UserID> <CardCode>`",
     "CARD_LOCKED": "{{author}} Thẻ này đang bị khóa và không thể tặng. Sử dụng lệnh `{{prefix}}ut <CardCode>` để mở khóa thẻ",
     "NO_CARD_FOUND": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "CARD_SELECTED": "{{author}} Thẻ này đang được sử dụng trong một bộ bài và không thể được đem đi tặng hoặc trao đổi",
+    "CARD_SELECTED": "{{author}} Thẻ này đang được sử dụng trong một bộ bài và không thể đem đi tặng hoặc trao đổi",
     "CARD_IN_QUEST": "{{author}} Thẻ này hiện đang được sử dụng trong một nhiệm vụ và không thể tặng cho người khác",
     "EMBED_TITLE": "SOFI: GIVE"
 }

@@ -57,7 +57,7 @@
     "MARKET_SELL_ORDER_MODAL_TITLE": "Pedido de Venda no Mercado",
     "LIMIT_BUY_ORDER_MODAL_TITLE": "Limite de Compra",
     "LIMIT_SELL_ORDER_MODAL_TITLE": "Limite de Venda",
-    "BUY_MARKET_TRADE_CONFIRMATION": "Você está comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694>\n \n{{orders}}",
+    "BUY_MARKET_TRADE_CONFIRMATION": "{{author}} Você está comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694\n{{orders}}",
     "SELL_MARKET_TRADE_CONFIRMATION": "Você está vendendo {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
     "BUY_LIMIT_TRADE_CONFIRMATION": "Você vai comprar {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694>",
     "SELL_LIMIT_TRADE_CONFIRMATION": "Você vai vender {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694>",
