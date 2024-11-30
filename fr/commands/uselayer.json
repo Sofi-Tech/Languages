@@ -2,7 +2,7 @@
     "NO_LAYER_FOUND": "{{author}} Aucun **Layer** possédant l'ID `{{layerId}}` n'a été trouvé",
     "DONT_HAVE_LAYER": "{{author}} Vous n'avez pas le **Layer** **{{name}}**",
     "USELAYER_CATEGORY": "Cosmétiques",
-    "UL_CORRECT_USAGE": "{{author}} Usage correcte: `{{prefix}}ul <CodeDeCarte> <ID de Layer>`",
+    "UL_CORRECT_USAGE": "{{author}} Usage correcte: `{{prefix}}ul <CodeDeCarte><ID de Layer>`",
     "CANNOT_APPLY_LAYER_GIF": "{{author}} Vous ne pouvez pas appliquer un **Layer** à une carte **GIF**",
     "USE_LAYER_CONFIRM": "Êtes-vous sûr(e) de vouloir appliquer le **Layer** **{{name}}** à cette carte?",
     "UL_EMBED_FOOTER": "Confirmer ce processus détruira le Layer actuellement appliqué",

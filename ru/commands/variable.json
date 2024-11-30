@@ -29,7 +29,7 @@
     "MEMBER_BLACKLISTED": "{{author}} Данный пользователь занесен в черный список",
     "MEMBER_NOT_VERIFIED": "{{author}} Данный пользователь не прошел проверку",
     "MEMBER_QUARANTINED": "{{author}} Данный пользователь находится на карантине",
-    "AUTHOR_QUARANTINED": "{{author}} Вы находитесь на карантине",
+    "AUTHOR_QUARANTINED": "{{author}} Вы находитесь на карантине. Вы можете посетить наш [Guide](<https://guide.sofi.gg/user-status#quarantined>) для более подробной информации о карантине.",
     "NEGATIVE_AMOUNT": "{{author}} Вы не можете купить отрицательное число предметов",
     "AUTHOR_UNVERIFIED": "{{author}} Вы не прошли проверку",
     "ERROR": "{{author}} Произошла ошибка. Пожалуйста, попробуйте снова.",

@@ -13,7 +13,7 @@
     "CANCEL_BUTTON_LABEL": "Huỷ bỏ",
     "CHANGING_VT_DESC": "Đang thay đổi",
     "COST_VT_DESC": "Chi phí ước tính",
-    "NOT_OWN_CARD": "Bạn không còn sỡ hữu thẻ này nữa",
+    "NOT_OWN_CARD": "Bạn không còn sở hữu thẻ này nữa",
     "MISSING_CURRENCY": "Bạn không có đủ **{{currency}}**",
     "BASE_MODAL_LABEL": "Nhập mã thẻ gốc",
     "BASE_MODAL_PLACEHOLDER": "ví dụ. qdwr12",
@@ -49,5 +49,6 @@
     "FUSE_DESC2": "<:_:979009081325019156> Hoạt Ảnh: Các `Fragment` thu thập được từ `Pull` sẽ được hợp nhất tại đây để tạo ra các biến thể `GIF`. Bạn sẽ cần đủ 8 `Fragment` của một nhân vật để thực hiện quá trình này!",
     "FUSE_DESC3": "<:_:979009081325019156> Nâng Cấp: Hợp nhất các bản trùng lặp để nhận điểm nâng cấp cho thẻ của bạn.",
     "ANIMATED": "Hoạt Ảnh",
-    "CREATE_ANIMATED": "Tạo một Thẻ \"GIF\""
+    "CREATE_ANIMATED": "Tạo một Thẻ \"GIF\"",
+    "ACTIVE_POOL": "**Hiện Có**"
 }

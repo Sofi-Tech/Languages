@@ -64,5 +64,6 @@
     "ALL_UNTAG_SUCCESS_zero": "Вы успешно удалили отметку `{{tagName}}` с **{{count}}** карт",
     "ALL_UNTAG_SUCCESS_few": "Вы успешно удалили отметку `{{tagName}}` с **{{count}}** карт",
     "VERSION_AVAILABILITY": "Доступность Version",
-    "FILTER_NAME_EXISTS": "Фильтр с названием `{{filterName}}` уже существует"
+    "FILTER_NAME_EXISTS": "Фильтр с названием `{{filterName}}` уже существует",
+    "SERIES_COMPLETED": "Серии Завершены"
 }

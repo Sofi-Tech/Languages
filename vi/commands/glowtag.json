@@ -7,6 +7,6 @@
     "GLOW_TAG_INVALID": "{{author}} Bạn không có **Glow** nào tên `{{tagname}}`",
     "INVALID_GLOW_SINGULAR": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
     "INVALID_GLOW_CODE": "{{author}} Có ít nhất một mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** đã được gắn nhãn `{{tag}}` thành công",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** đã thành công được gắn nhãn `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Tất cả **Glow** được chọn đã được gắn nhãn `{{tag}}`"
 }
