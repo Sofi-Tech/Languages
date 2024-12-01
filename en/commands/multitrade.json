@@ -2,7 +2,7 @@
     "MULTITRADE_DESCRIPTION": "This command will send a trade request to another player you have selected. Once they accept the request, the embed will allow both players to submit multiple cards and items simultaneously. Once both sides have locked in their selection and agreed to the trade, the contents of the opposing trade window will be added to your account",
     "MENTION_USER": "{{author}} Correct usage: `{{prefix}}mt <@User/UserID>`",
     "USER_NOT_FOUND": "{{author}} Could not find that user",
-    "IN_TRADE": "{{user}} You have already sent a trade request to someone! Cancel the previous one before starting a new one",
+    "IN_TRADE": "{{user}} You have already sent a trade request to someone. Please cancel the previous request before starting a new one.",
     "BOT_TRADE": "{{author}} You cannot trade with a `BOT`",
     "SELF_TRADE": "{{author}} You cannot trade with yourself",
     "NOT_REGISTERED": "{{author}} That user is not registered",
