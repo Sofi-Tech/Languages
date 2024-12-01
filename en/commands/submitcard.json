@@ -23,7 +23,7 @@
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} You have insufficient permissions to submit images for the event type",
     "PROVIDE_IMAGE_URL": "{{author}} The submitted Image-URL is invalid",
     "PROVIDE_SOURCE_URL": "{{author}} Please provide a source URL",
-    "SURE_DISCORD_LINK": "{{author}} The submitted image **must** use an official Discord link, such as `cdn.discordapp.com` or `media.discordapp.net`",
+    "SURE_DISCORD_LINK": "{{author}} The submitted image must use an official Discord link, such as `cdn.discordapp.com` or `media.discordapp.net`",
     "VALID_IMAGE_URL": "{{author}} The submitted link has to be a `PNG` or `JPG` file",
     "VALID_CARD_DIMENSIONS": "{{author}} The submitted image has invalid dimensions! `297x465`",
     "VALID_EVENT_2D_DIMENSIONS": "{{author}} The submitted **2D** event image has invalid dimensions! `297x465`",

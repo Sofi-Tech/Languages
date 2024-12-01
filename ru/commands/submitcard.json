@@ -8,7 +8,7 @@
     "LINK_TO_SOURCE": "<:_:979009081325019156> Укажите ссылку на источник изображения",
     "SC_CORRECT_USAGE": "<:_:979009081325019156> Правильное использование: `{{prefix}}sc <ИдентификаторКарты> <2D> <СсылкаНаИзображение> <СсылкаНаИсточник>`",
     "CARD_TEMPLATE": "Шаблон карты: **[Скачать PSD Файл](https://drive.google.com/file/d/1zotoWBr_20vy2xlFBbC5ZefByTPTUJz7/view?usp=sharing)**",
-    "SURE_DISCORD_LINK": "{{author}} Предложенное изображение **должно** использовать официальную Discord-ссылку, такую как `cdn.discordapp.com` или `media.discordapp.net`",
+    "SURE_DISCORD_LINK": "{{author}} Предложенное изображение должно использовать официальную Discord-ссылку, такую как `cdn.discordapp.com` или `media.discordapp.net`",
     "VALID_EVENT_2D_DIMENSIONS": "{{author}} У предложенного **2D** изображения для события недопустимые размеры! `297x465`",
     "SOURCE": "Источник: **{{source}}**",
     "PROVIDE_SOURCE_URL": "{{author}} Пожалуйста, укажите URL источника",
