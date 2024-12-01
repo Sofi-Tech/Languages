@@ -16,7 +16,7 @@
     "NO_CARD": "{{author}} Thẻ không còn trong bộ sưu tập của bạn nữa",
     "MORPH_CONFIRM": "{{author}} Đã áp dụng thành công **{{morphName}}** morph cho thẻ của bạn",
     "REROLL": "\nBạn không thể hoàn tác bất kỳ morph nào nữa",
-    "UNDO_SUCCESSFUL": "\nĐã khôi phục morph trước đó cho **{{amount}}** {{emoji}}",
+    "UNDO_SUCCESSFUL": "\nĐã khôi phục morph trước đó với giá **{{amount}}** {{emoji}}",
     "CANNOT_APPLY_MNC": "{{author}} Bạn không thể áp dụng {{article}} **{{eventType}}** morph trên thẻ **{{eventCardType}}** hoặc **3D**",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Mỗi lượt quay sẽ có giá 1 {{currencyName}}",
@@ -30,5 +30,6 @@
     "NOT_ENOUGH_SILVERS": "{{author}} Bạn không có đủ **{{currency}}** cho quá trình này",
     "CANNOT_APPLY_3D": "{{author}} Bạn không thể áp dụng {{article}} **{{eventType}}** morph trên thẻ 3D",
     "MORPH_CURRENT_ROLLS": "Lượt Quay Hiện Tại: **{{count}}/5**",
-    "EC_REROLL_COST": "Mỗi 5 lượt quay tốn 1 Energy Crystal"
+    "EC_REROLL_COST": "Mỗi 5 lượt quay tốn 1 Energy Crystal",
+    "CANNOT_MORPH_BANNER": "{{author}}Biểu ngữ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn"
 }

@@ -1,5 +1,5 @@
 {
-    "VIEW_DESCRIPTION": "This command will display the visual appearance of a specified card. Use this command without a card code to instead display your last obtained card",
+    "VIEW_DESCRIPTION": "This command displays the visual appearance of a specified card. If used without a card code, it will instead display your most recently obtained card. You can use the buttons to view stats, change the font, convert the card to 3D, or morph it.",
     "SLASH_DESC1": "Enter a card code",
     "INVALID_CODE": "{{author}} That card code is invalid",
     "INFO_BUTTON_LABEL": "Info",

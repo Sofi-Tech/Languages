@@ -1,11 +1,11 @@
 {
-  "VIEW_DESCRIPTION": "카드를 보세요",
-  "SLASH_DESC1": "카드 코드를 입력하세요.",
-  "INVALID_CODE": "제공된 코드가 잘못되었습니다. 유효한 코드를 입력하세요.",
-  "SERIES": "시리즈",
-  "NAME": "이름",
-  "OWNED_BY": "소유자",
-  "SERVER": "서버",
-  "CLAIMED": "보유",
-  "MOVES": "동작"
+    "VIEW_DESCRIPTION": "카드를 보세요",
+    "SLASH_DESC1": "카드 코드를 입력하세요.",
+    "INVALID_CODE": "제공된 코드가 잘못되었습니다. 유효한 코드를 입력하세요.",
+    "SERIES": "시리즈",
+    "NAME": "이름",
+    "OWNED_BY": "소유자",
+    "SERVER": "서버",
+    "CLAIMED": "보유",
+    "MOVES": "동작"
 }
