@@ -4,7 +4,7 @@
     "CHAR_NF_SENSITIVE": "{{author}} Не удалось найти персонажа с именем `{{arg}}`\n```fix\nПримечание: Использование `-f` позволяет сделать поиск точным и чувствительным к регистру!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Предложена** <@{{userID}}>",
-    "EMBED_FOOTER": "Вы можете предлагать новые Versions, используя команду {{prefix}}sc",
+    "EMBED_FOOTER": "Вы можете предлагать новые Versions, используя команду \"{{prefix}}sc\"",
     "MORE": "Выбрать опцию",
     "GIF_LABEL": "GIF",
     "SERIES": "Серия:",
