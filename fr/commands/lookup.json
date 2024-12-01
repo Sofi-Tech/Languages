@@ -4,7 +4,7 @@
     "CHAR_NF_SENSITIVE": "{{author}} Aucun personnage nommé `{{arg}}` n'a été trouvé\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Soumis par** <@{{userID}}>",
-    "EMBED_FOOTER": "Vous pouvez soumettre de nouvelles Versions en utilisant la commande {{prefix}}sc",
+    "EMBED_FOOTER": "Vous pouvez soumettre de nouvelles Versions en utilisant la commande \"{{prefix}}sc\"",
     "MORE": "Sélectionnez une Option",
     "GIF_LABEL": "GIF",
     "SERIES": "Série:",
