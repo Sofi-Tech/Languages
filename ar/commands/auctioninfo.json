@@ -17,9 +17,9 @@
     "NOT_ENOUGH_CURRENCY": "{{author}} ليس لديك ما يكفي من {{emoji}}",
     "AUCTION_NOT_FOUND": "{{author}} تعذر العثور على هذا المزاد",
     "POSITIVE_NUMBER": "{{author}} يجب أن يكون رهانك رقمًا إيجابيًا",
-    "BID_SELECTION": "استخدم الأمر `{{prefix}}ai <Auction-ID>` أو اختر مزادًا نشطًا من القائمة أدناه",
-    "BID_SUCCESSFUL": "{{author}} لقد قمت بنجاح بتقديم عرض بقيمة **{{amount}}** {{emoji}}",
+    "BID_SELECTION": "استخدم الأمر \"{{prefix}}<ai<Auction-ID\" أو اختر مزادًا نشطًا من القائمة أدناه",
+    "BID_SUCCESSFUL": "{{author}} لقد قمت بنجاح بوضع مزايدة بقيمة **{{amount}}** {{emoji}}",
     "SERIES": "- السلسلة :",
     "NAME": "- الاسم :",
-    "AUCTION_ID_LABEL": "رقم تعريف الرهان {{id}}"
+    "AUCTION_ID_LABEL": "رقم تعريف الرهان: {{id}}"
 }

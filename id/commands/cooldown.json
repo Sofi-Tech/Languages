@@ -9,11 +9,11 @@
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 Anda punya **{{count}}** surat yang belum dibaca",
-    "UNREAD_MAIL_other": "\n📫 Anda punya **{{count}}** surat yang belum dibaca",
+    "UNREAD_MAIL_one": "\n📫 Anda punya **{{count}}** surat yang belum dibaca.\nGunakan perintah `{{prefix}}mail` untuk membacanya",
+    "UNREAD_MAIL_other": "\n📫 Anda punya **{{count}}** surat yang belum dibaca.\nGunakan perintah `{{prefix}}mail` untuk membacanya",
     "READY": "Siap",
-    "UNREAD_MAIL_two": "\n📫 Anda punya **{{count}}** surat yang belum dibaca",
-    "UNREAD_MAIL_few": "\n📫 Anda punya **{{count}}** surat yang belum dibaca",
-    "UNREAD_MAIL_zero": "\n📫 Anda punya **{{count}}** surat yang belum dibaca",
-    "UNREAD_MAIL_many": "\n📫 Anda memiliki **{{count}}** surat yang belum dibaca"
+    "UNREAD_MAIL_two": "\n📫 Anda punya **{{count}}** surat yang belum dibaca.\nGunakan perintah `{{prefix}}mail` untuk membacanya",
+    "UNREAD_MAIL_few": "\n📫 Anda punya **{{count}}** surat yang belum dibaca.\nGunakan perintah `{{prefix}}mail` untuk membacanya",
+    "UNREAD_MAIL_zero": "\n📫 Anda punya **{{count}}** surat yang belum dibaca.\nGunakan perintah `{{prefix}}mail` untuk membacanya",
+    "UNREAD_MAIL_many": "\n📫 Anda memiliki **{{count}}** surat yang belum dibaca.\nGunakan perintah `{{prefix}}mail` untuk membacanya"
 }

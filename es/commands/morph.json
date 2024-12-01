@@ -27,5 +27,7 @@
     "MNC_REROLL_COST": "Cada roll costará 1 {{currencyName}}",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} Las cartas **Monochrome 2023 3D** no pueden ser morpheadas",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
-    "CANNOT_APPLY_3D": "{{author}} No puedes aplicar el morph {{article}} **{{eventType}}** en cartas **3D**"
+    "CANNOT_APPLY_3D": "{{author}} No puedes aplicar el morph {{article}} **{{eventType}}** en cartas **3D**",
+    "MORPH_CURRENT_ROLLS": "Rolles Actuales: **{{count}}/5**",
+    "EC_REROLL_COST": "Cada 5 rolles cuestan 1 Energy Crystal"
 }

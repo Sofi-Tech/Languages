@@ -1,6 +1,6 @@
 {
     "AI_CATEGORY": "Cartas",
-    "BID_SELECTION": "Usa el comando {{prefix}}ai <IDDeSubasta> o selecciona una subasta activa del menú de abajo",
+    "BID_SELECTION": "Usa el comando \"{{prefix}}ai <IDDeSubasta>\" o selecciona una subasta activa del menú de abajo",
     "AUCTIONINFO_DESCRIPTION": "Este comando abrirá un mensaje embed mostrando las subastas de códigos de cartas pasadas y en curso, en las cuales puedes pujar. Las subastas usan Charms como divisa para poner una puja",
     "AI_ENDS": "Termina",
     "SELECT_AUCTION_PLACEHOLDER": "Selecciona una Subasta",

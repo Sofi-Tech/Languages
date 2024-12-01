@@ -26,9 +26,9 @@
     "TRADE_MARKET": "Mercado",
     "TRADE_LOGS": "__**Registros de Intercambios**__",
     "SELL_SELECT_ORDER_EMBED_TITLE": "Selecciona el tipo de orden de venta",
-    "BUY_MARKET_TRADE_CONFIRMATION": "Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
-    "SELL_MARKET_TRADE_CONFIRMATION": "Estás vendiendo {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
-    "SELL_LIMIT_TRADE_CONFIRMATION": "Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "BUY_MARKET_TRADE_CONFIRMATION": "{{author}} Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "SELL_MARKET_TRADE_CONFIRMATION": "{{author}} Estás vendiendo {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "SELL_LIMIT_TRADE_CONFIRMATION": "{{author}} Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694>",
     "WAIT_FOR_BUY_ORDERS": "Actualmente no hay compradores disponibles en el mercado. Por favor espera a que aparezcan nuevas órdenes.",
     "TRADE_EMBED_FOOTER": "Órdenes Totales: {{orders}} | Precio del Último Intercambio: {{ltp}}",
     "TRADE_CATEGORY": "Cartas",
@@ -60,7 +60,7 @@
     "NO_PRICE_MARKET_ORDER": "No puedes establecer un precio específico usando una Orden de Mercado",
     "TRADE_PAGE_FOOTER": "Mostrando página: {{page}}/{{pages}}",
     "VALID_AMOUNT_GEMS": "El precio tiene que estar en el rango entre {{start}} y {{end}} <:gemgame:862598030562033694>",
-    "BUY_LIMIT_TRADE_CONFIRMATION": "Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694> \n{{orders}}",
+    "BUY_LIMIT_TRADE_CONFIRMATION": "{{author}} Estás comprando {{totalStock}} <:wist:870339503427027005> por {{price}} <:gemgame:862598030562033694>",
     "ALREADY_ACTIVE_ORDER": "Ya tienes un pedido activo. Por favor espera a que acabe el pedido",
     "NO_ORDERS": "Actualmente no tienes ninguna orden"
 }

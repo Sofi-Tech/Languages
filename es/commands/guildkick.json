@@ -1,7 +1,7 @@
 {
     "GUILDKICK_CATEGORY": "Gremios",
     "PROVIDE_ID": "{{author}} Uso correcto: `{{prefix}}gk <@Usuario/IDDelUsuario>`",
-    "USER_NOT_FOUND": "{{author}} No se pudo encontrar a este usuario",
+    "USER_NOT_FOUND": "{{author}} No se pudo encontrar a ese usuario",
     "CANNOT_KICK": "{{author}} No te puedes expulsar a ti mismo",
     "MEMBER_NOT_IN_GUILD": "{{author}} Este usuario no está en ningún gremio",
     "NOT_IN_YOUR_GUILD": "{{author}} Este usuario no es un miembro de tu gremio",

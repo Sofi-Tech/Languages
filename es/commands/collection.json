@@ -26,7 +26,7 @@
     "NO_RESULTS_OTHERS": "{{author}} Ese usuario no tiene ninguna carta en su colección",
     "SORT_LEVEL": "Nivel",
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
-    "USER_NOT_FOUND": "{{author}} No se pudo encontrar a este usuario",
+    "USER_NOT_FOUND": "{{author}} No se pudo encontrar a ese usuario",
     "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}",
     "TAG_MODAL_TITLE": "Introduce un Tag",
     "TAG_MODAL_LABEL": "Añadir tag En Masa",
@@ -64,5 +64,6 @@
     "ALL_UNTAG_SUCCESS_zero": "Se ha eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_many": "Se ha eliminado con éxito el siguiente tag de las **{{count}}** cartas `{{tagName}}`",
     "VERSION_AVAILABILITY": "Disponibilidad de Versions",
-    "FILTER_NAME_EXISTS": "El filtro con nombre `{{filterName}}` ya existe"
+    "FILTER_NAME_EXISTS": "El filtro con nombre `{{filterName}}` ya existe",
+    "SERIES_COMPLETED": "Seres Completadas"
 }

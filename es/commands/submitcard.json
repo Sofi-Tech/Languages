@@ -27,7 +27,7 @@
     "NOT_ALLOWED_EVENT_SUBMIT": "{{author}} No tienes permisos suficientes para enviar imágenes para el tipo event",
     "PROVIDE_IMAGE_URL": "{{author}} La URL de la imagen enviada no es válida",
     "PROVIDE_SOURCE_URL": "{{author}} Proporciona una URL de la fuente",
-    "SURE_DISCORD_LINK": "{{author}} La imagen enviada tiene que usar un enlace oficial de Discord, como `cdn.discordapp.com` o `media.discordapp.net`",
+    "SURE_DISCORD_LINK": "{{author}} La imagen enviada **tiene** que usar un enlace oficial de Discord, como `cdn.discordapp.com` o `media.discordapp.net`",
     "VALID_IMAGE_URL": "{{author}} El enlace enviado tiene que ser un archivo `PNG` o `JPG`",
     "VALID_CARD_DIMENSIONS": "{{author}} La imagen enviada no tiene dimensiones válidas! `297x465`",
     "EVENT_CARD_CONFIRMATION": " Se utilizará en el event **{{type}}**\n",

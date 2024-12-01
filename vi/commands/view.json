@@ -3,7 +3,7 @@
     "INFO_BUTTON_LABEL": "Thông Tin",
     "NAME": "Tên:",
     "OWNED_BY": "Sở Hữu Bởi:",
-    "SERVER": "ID-Máy chủ:",
+    "SERVER": "ID-Máy Chủ:",
     "CLAIMED": "Nhận Vào Ngày:",
     "SERIES": "Bộ:",
     "VIEW_DESCRIPTION": "Lệnh này sẽ hiển thị ảnh của một thẻ cụ thể. Sử dụng lệnh này mà không có mã thẻ thì sẽ hiển thị thẻ bạn nhận được gần đây nhất",
@@ -13,5 +13,8 @@
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Sức Mạnh **({{percentage}}%)**",
     "SPECIAL": "Đặc biệt",
     "BASE_STAT_FOOTER": "Tổng Chỉ Số Cơ Bản   •   {{totalBaseStat}}",
-    "MORPH_MODAL_LABEL": "Nhập góc để thực hiện morph"
+    "MORPH_MODAL_LABEL": "Nhập góc để thực hiện morph",
+    "ENTER_VALID_ANGLE": "Hãy điền một góc hợp lệ từ **1** đến **360** độ",
+    "MORPH_MODAL_PLACEHOLDER": "ví dụ. 10",
+    "NEED_SILVER_MORPH": "Bạn cần ít nhất **1 Silver** để dùng tính năng này"
 }

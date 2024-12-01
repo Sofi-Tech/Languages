@@ -26,7 +26,7 @@
     "VT_MODAL_LABEL": "Nhập mã của Version Token",
     "VT_MODAL_PLACEHOLDER": "ví dụ. !aaa",
     "INVALID_VERSION": "Mã **Version Token** bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "ALREADY_VERSION": "Thẻ này đã là **Version** {{edition}}",
+    "ALREADY_VERSION": "Thẻ này đã là **Version** {{edition}} rồi",
     "3D_NOT_ELIGIBLE": "Thẻ 3D không đủ điều kiện để nâng cấp **Version**",
     "NOT_VERSION_CHAR": "Mã bạn cung cấp không phải là **Version Token** của **{{characterName}}**",
     "OPTION_MENU_PLACEHOLDER": "Chọn một tuỳ chọn",
@@ -46,9 +46,9 @@
     "MISSING_ELIXIR": "Bạn không có đủ **Elixir**",
     "VERSION_UPGRADE_FAILED": "Nâng cấp **Version** thất bại, hãy thử lại",
     "VERSION_UPGRADE_SUCCESS": "Chúc mừng! **Version** đã được nâng cấp thành **{{version}}**",
-    "FUSE_DESC2": "<:_:979009081325019156> Hoạt Ảnh: Các `Fragment` thu thập được từ `Pull` sẽ được hợp nhất tại đây để tạo ra các biến thể `GIF`. Bạn sẽ cần đủ 8 `Fragment` của một nhân vật để thực hiện quá trình này!",
-    "FUSE_DESC3": "<:_:979009081325019156> Nâng Cấp: Hợp nhất các bản trùng lặp để nhận điểm nâng cấp cho thẻ của bạn.",
-    "ANIMATED": "Hoạt Ảnh",
+    "FUSE_DESC2": "<:_:979009081325019156> Ảnh Động: Các `Fragment` thu thập được từ `Pull` sẽ được hợp nhất tại đây để tạo ra các biến thể `GIF`. Bạn sẽ cần đủ 8 `Fragment` của một nhân vật để thực hiện quá trình này!",
+    "FUSE_DESC3": "<:_:979009081325019156> Nâng Cấp: Hợp nhất các bản trùng lặp để nhận điểm nâng cấp cho thẻ của bạn",
+    "ANIMATED": "Ảnh Động",
     "CREATE_ANIMATED": "Tạo một Thẻ \"GIF\"",
     "ACTIVE_POOL": "**Hiện Có**"
 }

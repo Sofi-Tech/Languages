@@ -9,11 +9,11 @@
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "VOTE_LABEL": "Vote",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_one": "\n📫 Tienes **{{count}}** correo sin leer",
-    "UNREAD_MAIL_other": "\n📫 Tienes **{{count}}** correos sin leer",
+    "UNREAD_MAIL_one": "\n📫 Tienes **{{count}}** correo sin leer\nUsa el comando `{{prefix}}mail` para leerlo",
+    "UNREAD_MAIL_other": "\n📫 Tienes **{{count}}** correos sin leer\nUsa el comando `{{prefix}}mail` para leerlos",
     "READY": "Listo",
-    "UNREAD_MAIL_few": "\n📫 Tienes **{{count}}** correos sin leer",
-    "UNREAD_MAIL_two": "\n📫 Tienes **{{count}}** correos sin leer",
-    "UNREAD_MAIL_many": "\n📫 Tienes **{{count}}** correos sin leer",
-    "UNREAD_MAIL_zero": "\n📫 Tienes **{{count}}** correo sin leer"
+    "UNREAD_MAIL_few": "\n📫 Tienes **{{count}}** correos sin leer\nUsa el comando `{{prefix}}mail` para leerlos",
+    "UNREAD_MAIL_two": "\n📫 Tienes **{{count}}** correos sin leer\nUsa el comando `{{prefix}}mail` para leerlos",
+    "UNREAD_MAIL_many": "\n📫 Tienes **{{count}}** correos sin leer\nUsa el comando `{{prefix}}mail` para leerlos",
+    "UNREAD_MAIL_zero": "\n📫 Tienes **{{count}}** correo sin leer\nUsa el comando `{{prefix}}mail` para leerlo"
 }

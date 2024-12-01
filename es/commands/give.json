@@ -5,7 +5,7 @@
     "NO_SELF_GIVE": "{{author}} No puedes darte una carta a ti mismo",
     "NOT_REGISTERED": "{{author}} Ese usuario no está registrado",
     "MEM_BLACKLISTED": "{{author}} Ese usuario está en la lista negra",
-    "MEM_QUARANTINED": "{{author}} Este usuario está en cuarentena",
+    "MEM_QUARANTINED": "{{author}} Este usuario está en cuarentena. Visita nuestra [Guia](<https://guide.sofi.gg/user-status#quarantined>) para más información sobre el estado de tu cuarentena.",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}give <@Usuario/IDUsuario> <CódigoDeCarta>`",
     "NO_CARD_FOUND": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
     "CARD_LOCKED": "{{author}} Esa carta está asegurada y no se puede dar. Usa el comando `{{prefix}}ut <CódigoDeCarta>` para desasegurar la carta",
@@ -15,6 +15,6 @@
     "AUTHOR_BLACKLISTED": "{{author}} Estás en la lista negra",
     "AUTHOR_NOT_VERIFIED": "{{author}} No estás verificado",
     "EMBED_TITLE": "SOFI: GIVE",
-    "AUTHOR_QUARANTINED": "{{author}} Estás en cuarentena",
+    "AUTHOR_QUARANTINED": "{{author}} Estás en cuarentena. Visita nuestra [Guia](<https://guide.sofi.gg/user-status#quarantined>) para más información sobre el estado de tu cuarentena.",
     "CARD_IN_QUEST": "{{author}} Esa carta se utiliza actualmente en una misión y no se puede dar"
 }
