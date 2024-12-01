@@ -4,7 +4,7 @@
     "CHAR_NF_SENSITIVE": "{{author}} Es wurde kein Charakter mit dem Namen `{{arg}}` gefunden\n```fix\nBeachte: Bei der Verwendung der `-f` Funktion muss die Groß- und Kleinschreibung beachtet werden!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Eingereicht von** <@{{userID}}>",
-    "EMBED_FOOTER": "Du kannst neue Versions mit dem Befehl {{prefix}}sc einreichen",
+    "EMBED_FOOTER": "Du kannst neue Versions mit dem Befehl \"{{prefix}}sc\" einreichen",
     "MORE": "Wähle eine Option",
     "GIF_LABEL": "GIF",
     "SERIES": "Serie:",

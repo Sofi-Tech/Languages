@@ -45,7 +45,7 @@
     "UI_TRADE": "Trao đổi",
     "USERINFO_DESCRIPTION": "Sử dụng lệnh này sẽ mở một bảng liệt kê số liệu về tài khoản Sofi của 1 người dùng. Bạn cũng có thể chọn ngôn ngữ khác bằng cách sử dụng menu ở bên dưới",
     "UI_CASE_SOLVED": "Số Vụ Đã Giải Quyết",
-    "LANG_CHANGE_SUCCESS": "{{author}} Ngôn ngữ của bạn đã được thay đổi thành công sang **{{language}}**! Hãy lưu ý rằng việc cập nhật bản dịch của chúng tôi vẫn đang trong giai đoạn phát triển sớm và chưa bao gồm được tất cả lệnh hiện có!\n\nCác lệnh chưa được dịch bao gồm\n\n- **Deck**\n- **Stats**\n- **Event**\n\nNếu bạn phát hiện bất kỳ văn bản nào bị thiếu, bản dịch sai hoặc các lệnh và tính năng bị lỗi khi sử dụng ngôn ngữ này, bạn nên báo cáo những vấn đề này bằng cách sử dụng lệnh `{{prefix}}lrt <Input>`. Ngoài ra, bạn có thể báo cáo các phát hiện của mình trên [Máy Chủ Hỗ Trợ Chính Thức](<https://discord.gg/sofi>)!",
+    "LANG_CHANGE_SUCCESS": "Ngôn ngữ của bạn đã được thay đổi thành công sang **{{language}}**! Hãy lưu ý rằng việc cập nhật bản dịch của chúng tôi vẫn đang trong giai đoạn phát triển sớm và chưa bao gồm được tất cả lệnh hiện có!\n\nCác lệnh chưa được dịch bao gồm\n\n- **Deck**\n- **Stats**\n- **Event**\n\nNếu bạn phát hiện bất kỳ văn bản nào bị thiếu, bản dịch sai hoặc các lệnh và tính năng bị lỗi khi sử dụng ngôn ngữ này, bạn nên báo cáo những vấn đề này bằng cách sử dụng lệnh `{{prefix}}lrt <Input>`. Ngoài ra, bạn có thể báo cáo các phát hiện của mình trên [Máy Chủ Hỗ Trợ Chính Thức](<https://discord.gg/sofi>)!",
     "CHOOSE_LANGUAGE_PLACEHOLDER": "Chọn ngôn ngữ",
     "UI_RAIDS": "Raid"
 }

@@ -8,7 +8,7 @@
     "SF_EMBED_FOOTER": "Vos soumissions: {{userStats}}/{{submitted}} | Total des soumissions: {{globalStats}}/{{allSubmit}}",
     "SF_VALID_DIMENSION": "{{author}} L'image soumise a des dimensions invalides! `297x465`",
     "SF_CATEGORY": "Paramètres",
-    "SF_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}sf <URL-Image><NomDeLaFrame>`",
+    "SF_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}sf <URL-Image> <NomDeLaFrame>`",
     "MAXIMUM_NAME_LENGTH": "{{author}} Le nom de votre **Frame** ne peut pas dépasser **25** caractères",
     "SF_EMBED_TITLE": "SOFI: FRAME SUBMISSION ({{name}})",
     "SUBMIT_FRAME_CONFIRMATION": "Voulez-vous soumettre cette **Frame** pour **3000** **Silver**?",

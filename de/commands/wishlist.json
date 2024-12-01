@@ -17,9 +17,9 @@
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "WISHLIST_EMPTY_SELF": "{{author}} Deine Wunschliste ist leer",
     "PAGE": "Kopiere Seite - {{page}}",
-    "ALREADY_SLOTS": "{{author}} Du hast bereits {{size}} Plätze in deiner Wunschliste",
-    "NOT_ENOUGH_CURRENCY": "{{author}} Du hast nicht genug **{{currency}}**",
-    "UPGRADE_SUCCESS": "{{author}} Deine Wunschliste wurde erfolgreich zu {{type}} Plätzen geupgradet",
+    "ALREADY_SLOTS": "Du hast bereits {{size}} Plätze in deiner Wunschliste",
+    "NOT_ENOUGH_CURRENCY": "Du hast nicht genug **{{currency}}**",
+    "UPGRADE_SUCCESS": "Deine Wunschliste wurde erfolgreich zu {{type}} Plätzen geupgradet",
     "UPGRADE_MODAL_LABEL": "Bist du sicher?",
     "UPGRADE_MODAL_TITLE": "Wunschliste upgraden ({{size}} Plätze)",
     "SLOTS_MENU_LABEL": "{{size}} Gesamte Plätze - {{price}}",
@@ -27,6 +27,6 @@
     "UNLOCKED": "Freigeschaltet",
     "CONFIRM_UNLOCK": "Bestätige zum Freischalten",
     "UPGRADE_MENU_PLACEHOLDER": "Wunschliste upgraden",
-    "ALREADY_UNLOCKED": "{{author}} Diese Option wurde bereits freigeschalten",
+    "ALREADY_UNLOCKED": "Diese Option wurde bereits freigeschalten",
     "UPGRADE_EMBED_DESCRIPTION": "Du kannst maximal 100 Plätze freischalten"
 }
