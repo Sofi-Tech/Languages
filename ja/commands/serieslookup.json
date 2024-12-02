@@ -1,11 +1,11 @@
 {
-  "SERIESLOOKUP_DESCRIPTION": "特定のシリーズを検索",
-  "NO__LAST_CHAR_FOUND": "最後の文字が見つかりません。シリーズ名を提供してみてください",
-  "NO_CHAR_FOUND": "文字が見つかりません",
-  "NO_SERIES_FOUND": "{{name}} に該当する結果はありません",
-  "SERIES": "__シリーズ__",
-  "ERROR": "エラーが発生しました。再度お試しください",
-  "CARD_COLLECTED": "収集したカード数: {{collected}}/{{totalCards}}",
-  "TOTAL_WL": "ウィッシュリスト合計数: {{wlCount}}",
-  "CHARACTERS": "キャラクター"
+    "SERIESLOOKUP_DESCRIPTION": "特定のシリーズを検索",
+    "NO__LAST_CHAR_FOUND": "最後の文字が見つかりません。シリーズ名を提供してみてください",
+    "NO_CHAR_FOUND": "文字が見つかりません",
+    "NO_SERIES_FOUND": "{{name}} に該当する結果はありません",
+    "SERIES": "SOFI: SERIES LOOKUP",
+    "ERROR": "エラーが発生しました。再度お試しください",
+    "CARD_COLLECTED": "収集したカード数: {{collected}}/{{totalCards}}",
+    "TOTAL_WL": "ウィッシュリスト合計数: {{wlCount}}",
+    "CHARACTERS": "キャラクター"
 }

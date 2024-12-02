@@ -25,7 +25,7 @@
     "SOME_COMMANDS_WHITELISTED": "{{author}} Bu kanaldaki komutları zaten beyaz listeye eklediniz. Bu kanalın izin durumunu varsayılana ayarlamak için `{{prefix}}p reset` komutunu kullanın",
     "STOPPED_PROCESS": "Süreç İptal edildi",
     "ADD_MODAL_LABEL": "Bu kanalın {{listName}} listesine komutlar ekleyin",
-    "MODAL_TITLE": "SOFI: PERMISSIONS {{listName}}",
+    "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Tüm komutlar bu kanalın {{listName}} listesine başarıyla eklendi",
     "REMOVE_COMMANDS_SUCCESSFUL": "{{author}} Aşağıdaki komutlar bu kanalın {{listname}} listesinden başarıyla kaldırıldı: {{commandsList}}",
     "RESET_PERMS_CONFIRM": "Bu kanalın komut izinlerini varsayılan durumuna sıfırlamak istediğinizden emin misiniz?",

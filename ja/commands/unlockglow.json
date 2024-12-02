@@ -5,7 +5,7 @@
     "UNLOCK_GLOW_CONFIRM": "{{author}} 「**100**{{currency}}」を消費して、ランダムな`Glow`の作成が確認してください",
     "CANCELLED_UNLOCK_GLOW": "過程がキャンセルされました",
     "NOT_ENOUGH_GEMS": "{{author}} `Gems`は足りません",
-    "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
     "UNLOCK_GLOW_SUCCESS": "{{author}} `Glow`を成功で作成しました",
     "GLOW_INFO": "名前：**{{glowName}}**\nコード：**`#{{glowCode}}`**\n純度：**{{purity}}%**"
 }

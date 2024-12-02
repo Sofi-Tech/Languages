@@ -23,7 +23,7 @@
     "NOT_BLACKLISTED_YET": "{{author}} Non hai ancora inserito alcun comando blacklisted",
     "STOPPED_PROCESS": "Il processo è stato annullato",
     "ADD_MODAL_LABEL": "Aggiungi comandi a questi canali {{listName}}",
-    "MODAL_TITLE": "SOFI: PERMISSION",
+    "MODAL_TITLE": "SOFI: PERMISSIONS ({{listName}})",
     "REMOVE_MODAL_LABEL": "Rimuovi comandi da {{listName}} di questo canale",
     "ADD_ALL_COMMANDS_SUCCESSFUL": "{{author}} Ha aggiunto con successo tutti i comandi a {{listName}} di questo canale",
     "ADD_COMMANDS_ERROR": "{{author}} I comandi che hai fornito sono già su {{listName}} di questo canale o non sono validi",

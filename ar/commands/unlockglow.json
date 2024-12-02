@@ -5,6 +5,6 @@
     "UNLOCK_GLOW_CONFIRM": "{{author}} هل أنت متأكد أنك تريد فتح الانار مقابل 100 {{currency}}؟",
     "CANCELLED_UNLOCK_GLOW": "تم إلغاء فتح الانوار",
     "NOT_ENOUGH_GEMS": "ليس لديك ما يكفي من الأحجار الكريمة",
-    "EMBED_GLOW_TITLE": "SOFI: UNLOCKGLOW",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
     "UNLOCK_GLOW_SUCCESS": "مبروك {{author}}! لقد فتحت `{{glowName}}`(`#{{glowCode}}`)"
 }

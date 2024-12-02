@@ -18,11 +18,11 @@
     "MODAL_TITLE": "SOFI: MULTITRADE",
     "NOTED_ADDED": "노트가 추가되었습니다: {{response}}",
     "TRADE_CANCELLED": "거래가 취소되었습니다",
-    "MT_ENDS": "다중 거래: {{timer}} 종료",
+    "MT_ENDS": "SOFI: MULTITRADE (⏳{{timer}})",
     "MT_INFO_1": "🤝 거래하기: bg=& glow=# frags=- frame=$ tag=%",
     "MT_INFO_3": "🗒️ 거래에 필요한 내용을 추가하세요",
     "MT_INFO_4": "📛 거래에 암호화폐를 요청하는 사람을 신고하면 차단됩니다.",
-    "MT_COMPLETE": "다중 거래: (완료)",
+    "MT_COMPLETE": "SOFI: MULTITRADE",
     "MISSING_ITEMS": "다음이 없습니다",
     "CARD_LOCKED": "{{code}} 카드가 선택/잠금 상태입니다"
 }
