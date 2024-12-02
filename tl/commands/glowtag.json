@@ -1,7 +1,7 @@
 {
     "GLOWTAG_DESCRIPTION": "Sa command na ito maaari kang magtalaga ng tag sa iyong Glow. Upang makagawa ng tag sa Glow, gamitin ang \"{{prefix}}glowtagcreate\" na command",
     "GT_CATEGORY": "Mga Tag",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Wala ka pang **Glow** tag. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} Wala ka pang **Glow** tag. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <TagName> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Wala ka pang kahit anong **Glows**",
     "INVALID_GLOW_CODE": "{{author}} Isa sa mga code ng **Glow** na iyong binigay ay hindi tama o wala sa iyong imbentaryo",
     "SUCCESSFUL_GLOWTAG": "{{author}} Ang **{{glow}}** ay matagumpay na nalagyan ng tag na `{{tag}}`",
