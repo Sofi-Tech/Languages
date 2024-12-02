@@ -1,5 +1,5 @@
 {
-    "VIEW_DESCRIPTION": "Perintah ini akan menampilkan tampilan visual dari kartu tertentu. Gunakan perintah ini tanpa kode kartu untuk menampilkan kartu yang terakhir kali anda dapatkan",
+    "VIEW_DESCRIPTION": "Perintah ini menampilkan tampilan visual kartu tertentu. Jika digunakan tanpa kode kartu, perintah ini akan menampilkan kartu yang terakhir Anda peroleh. Anda dapat menggunakan tombol untuk melihat statistik, mengubah font, mengonversi kartu ke 3D, atau menambahkan morph.",
     "SLASH_DESC1": "Masukkan kode kartu",
     "INVALID_CODE": "{{author}} Kode kartu tidak valid",
     "SERIES": "Seri:",
@@ -12,5 +12,9 @@
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "Special",
     "INFO_BUTTON_LABEL": "Info",
-    "BASE_STAT_FOOTER": "Total Status Awal  •  {{totalBaseStat}}"
+    "BASE_STAT_FOOTER": "Total Status Awal  •  {{totalBaseStat}}",
+    "NEED_SILVER_MORPH": "Anda memerlukan setidaknya **1 Silver** untuk menggunakan fitur ini",
+    "MORPH_MODAL_LABEL": "Masukkan sudut untuk morph",
+    "MORPH_MODAL_PLACEHOLDER": "misalnya 10",
+    "ENTER_VALID_ANGLE": "Harap masukkan sudut yang valid antara **1** dan **360** derajat"
 }

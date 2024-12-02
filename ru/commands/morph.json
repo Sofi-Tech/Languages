@@ -4,7 +4,7 @@
     "CANNOT_MORPH": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
     "NO_GIF_MORPHED": "{{author}} Вы не можете преобразовать **GIF** карту",
     "CONTINUE": "SOFI: MORPH",
-    "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}}?",
+    "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}} за крутку?",
     "CANCELLED": "Процесс отменен",
     "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно **{{currency}}** для данного процесса",
     "BALANCE": "Баланс: **{{amount}}** {{currencyEmoji}}",
@@ -27,5 +27,7 @@
     "MNC_REROLL_COST": "Каждая крутка будет стоить 1 {{currencyName}}",
     "NO_SPECIAL_REROLLED": "Особых преобразований не прокручено",
     "NONE": "Нет",
-    "CANNOT_APPLY_3D": "{{author}} Вы не можете применять{{article}}**{{eventType}}** преобразования к **3D** картам"
+    "CANNOT_APPLY_3D": "{{author}} Вы не можете применять{{article}}**{{eventType}}** преобразования к **3D** картам",
+    "EC_REROLL_COST": "Каждые 5 круток стоят 1 Energy Crystal",
+    "MORPH_CURRENT_ROLLS": "Текущие крутки: **{{count}}/5**"
 }

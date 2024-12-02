@@ -55,5 +55,14 @@
     "EQUIPMENT_MODAL_TITLE": "Fuse: Meningkatkan Equipment",
     "INVALID_AMOUNT": "Jumlah yang diberikan tidak valid",
     "EQUIPMENT_FUSION_SUCCESS": "Penggabungan peralatan berhasil dilakukan \n{{moreInfo}}",
-    "CANCEL_BUTTON_LABEL": "Batal"
+    "CANCEL_BUTTON_LABEL": "Batal",
+    "GOLD_BUTTON_LABEL": "Gold",
+    "MITHRIL_BUTTON_LABEL": "Mithril",
+    "ADAMANTITE_BUTTON_LABEL": "Adamantite",
+    "SILVER_BUTTON_LABEL": "Silver",
+    "ORICHALCUM_BUTTON_LABEL": "Orichalcum",
+    "AA_MENU_PLACEHOLDER": "Ketersediaan Animasi",
+    "GIF_CONVERT_CONFIRM": "> Apakah Anda yakin ingin mengonversi **{{characterName}}** ke versi animasi?\n> Proses ini akan menghabiskan `{{amount}}` fragmen dan tidak dapat diubah\n> Anda akan menerima versi animasi dari gen 1-100\n> Gen tidak berulang dalam kasus kartu animasi",
+    "ALREADY_ANIMATED_VERSIONS": "**Sudah ada 100 versi animasi kartu tersebut yang beredar**",
+    "GEN": "*Gen:*"
 }

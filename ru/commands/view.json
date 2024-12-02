@@ -12,5 +12,9 @@
     "EMBED_TITLE": "SOFI: VIEW",
     "SPECIAL": "Особые очки",
     "INFO_BUTTON_LABEL": "Информация",
-    "BASE_STAT_FOOTER": "Суммарные характеристики  •  {{totalBaseStat}}"
+    "BASE_STAT_FOOTER": "Суммарные характеристики  •  {{totalBaseStat}}",
+    "MORPH_MODAL_PLACEHOLDER": "Напр. 10",
+    "MORPH_MODAL_LABEL": "Укажите угол для преобразования",
+    "NEED_SILVER_MORPH": "Вам необходимо минимум **1 Silver** для использования данной функции",
+    "ENTER_VALID_ANGLE": "Пожалуйста укажите действительный угол между **1** и **360** градусов"
 }

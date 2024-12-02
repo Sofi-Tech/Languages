@@ -1,7 +1,7 @@
 {
     "MULTITRADE_DESCRIPTION": "Dieser Befehl sendet eine Handelsanfrage an einen ausgewählten Spieler. Sobald derjenige die Anfrage bestätigt hat, wird eine Textbox beiden Spielern erlauben gleichzeitig mehrere Karten und Items zum Handel hinzuzufügen. Sobald beide Seiten ihre Auswahl bestätigt- und dem Handel zugestimmt haben, wird der Inhalt des anderen Handelsfensters deinem Account hinzugefügt",
     "MENTION_USER": "{{author}} Korrekte Verwendung: `{{prefix}}mt <@Nutzer/NutzerID>`",
-    "IN_TRADE": "{{user}} Du hast bereits eine Handelsanfrage an jemanden gesendet! Brich die vorherige ab, bevor du eine neue startest",
+    "IN_TRADE": "{{user}} Du hast bereits eine Handelsanfrage an jemanden gesendet! Bitte brich die vorherige Anfrage ab, bevor du eine neue startest.",
     "BOT_TRADE": "{{author}} Du kannst nicht mit einem `BOT` handeln",
     "SELF_TRADE": "{{author}} Du kannst nicht mit dir selbst handeln",
     "NOT_REGISTERED": "{{author}} Dieser Nutzer ist nicht registriert",

@@ -21,12 +21,12 @@
     "FREE": "मुफ्त",
     "CONFIRM_UNLOCK": "अनलॉक करने की पुष्टि करें",
     "UPGRADE_MENU_PLACEHOLDER": "पसंदीदा-सूची अपग्रेड करें",
-    "ALREADY_UNLOCKED": "{{author}} यह विकल्प पहले से ही खुला हुआ है",
-    "ALREADY_SLOTS": "{{author}} आपकी पसंदीदा-सूची में पहले से ही {{size}} स्लॉट हैं",
-    "UPGRADE_SUCCESS": "{{author}} आपकी पसंदीदा-सूची की सफलतापूर्वक {{type}} स्लॉट में बढ़ोतरी की गई",
+    "ALREADY_UNLOCKED": "यह विकल्प पहले से ही खुला हुआ है",
+    "ALREADY_SLOTS": "आपकी पसंदीदा-सूची में पहले से ही {{size}} स्लॉट हैं",
+    "UPGRADE_SUCCESS": "आपकी पसंदीदा-सूची की सफलतापूर्वक {{type}} स्लॉट में बढ़ोतरी की गई",
     "UPGRADE_EMBED_DESCRIPTION": "आप अधिकतम 100 स्लॉट तक अनलॉक कर सकते हैं",
     "UPGRADE_MODAL_LABEL": "क्या आप निश्चित हैं?",
-    "NOT_ENOUGH_CURRENCY": "{{author}} आपके पास पर्याप्त **{{currency}}** नहीं है",
+    "NOT_ENOUGH_CURRENCY": "आपके पास पर्याप्त **{{currency}}** नहीं है",
     "UNLOCKED": "खुला हुआ",
     "UPGRADE_MODAL_TITLE": "पसंदीदा-सूची को बढ़ाए ({{size}} स्लॉट)"
 }

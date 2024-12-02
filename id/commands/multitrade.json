@@ -1,7 +1,7 @@
 {
     "MULTITRADE_DESCRIPTION": "Perintah ini akan mengirimkan permintaan jual beli ke pemain lain yang telah Anda pilih. Setelah mereka menerima permintaan tersebut, penyematan akan memungkinkan kedua pemain untuk mengirimkan beberapa kartu dan item secara bersamaan. Setelah kedua belah pihak mengunci pilihan mereka dan menyetujui jual beli, isi jendela jual beli lawan akan ditambahkan ke akun Anda",
     "MENTION_USER": "{{author}} Penggunaan yang benar: `{{prefix}}mt <@User/UserID>`",
-    "IN_TRADE": "{{user}} Anda telah mengirim permintaan pertukaran kepada seseorang! Batalkan yang sebelumnya, sebelum memulai yang baru",
+    "IN_TRADE": "{{user}} Anda telah mengirim permintaan pertukaran kepada seseorang. Harap membatalkan permintaan sebelumnya, sebelum memulai yang baru.",
     "BOT_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan `BOT`",
     "SELF_TRADE": "{{author}} Anda tidak bisa melakukan pertukaran dengan diri sendiri",
     "NOT_REGISTERED": "{{author}} Pengguna tersebut tidak terdaftar",
