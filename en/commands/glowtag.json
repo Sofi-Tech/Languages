@@ -2,7 +2,7 @@
     "GLOWTAG_DESCRIPTION": "With this command you can assign a tag to your Glow. In order to create a Glow tag use the \"{{prefix}}glowtagcreate\" command",
     "GT_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gt <TagName> <#GlowCode>`",
-    "GLOWTAGS_NOT_FOUND": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWTAGS_NOT_FOUND": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <TagName> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} You don't have any **Glows** yet",
     "GLOW_TAG_INVALID": "{{author}} You dont have any **Glow** tag with the name `{{tagname}}`",
     "INVALID_GLOW_SINGULAR": "{{author}} The **Glow** code you provided is either invalid or not in your inventory",

@@ -4,7 +4,7 @@
     "TOOK_THE_CARD": "{{user}} **pegou** a carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
     "CANNOT_BE_GRABBED": "{{user}} **pegou** a carta **{{characterName}}**",
     "BATTLED_WON_PLURAL": "{{winner}} venceu **{{userCount}}** outros jogadores e **pegou** a carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "EMBED_TITLE": "Carta Captcha",
+    "EMBED_TITLE": "Captcha Card",
     "WAIT_TO_CLAIM": "{{user}} Você deve esperar **{{cooldown}}** para pegar outra carta",
     "BATTLED_AND_WON": "{{winner}} venceu contra {{user}} e **pegou** a carta **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }

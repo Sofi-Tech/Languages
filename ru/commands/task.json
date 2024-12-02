@@ -30,7 +30,7 @@
     "SELECT_DECK_START": "Пожалуйста, выберите колоду для выполнения задания",
     "ABORT_MODAL_LABEL": "Вы хотите бросить выполнение задания?",
     "SELECT_MODAL_LABEL": "Введите название колоды",
-    "SELECT_MODAL_PLACEHOLDER": "Deck 1/1/[название колоды]",
+    "SELECT_MODAL_PLACEHOLDER": "Deck 1/1/[НазваниеКолоды]",
     "NO_QUEST_AVAILABLE": "Нет доступных заданий",
     "MONTHLY_REWARD_CHANGED": "Награда за месяц изменена на {{reward}}",
     "NO_DECK_FOUND": "Колода не найдена. Пожалуйста, введите корректное название колоды",

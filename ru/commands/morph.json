@@ -29,5 +29,6 @@
     "NONE": "Нет",
     "CANNOT_APPLY_3D": "{{author}} Вы не можете применять{{article}}**{{eventType}}** преобразования к **3D** картам",
     "EC_REROLL_COST": "Каждые 5 круток стоят 1 Energy Crystal",
-    "MORPH_CURRENT_ROLLS": "Текущие крутки: **{{count}}/5**"
+    "MORPH_CURRENT_ROLLS": "Текущие крутки: **{{count}}/5**",
+    "SMR_REROLL_COST": "Каждая крутка будет стоить 500 {{currencyName}}"
 }
