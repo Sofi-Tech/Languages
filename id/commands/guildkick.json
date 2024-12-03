@@ -9,7 +9,7 @@
     "GUILDKICK_CATEGORY": "Guilds",
     "PROVIDE_ID": "{{author}} Penggunaan yang benar: `{{prefix}}gk <@User/UserID>`",
     "USER_NOT_FOUND": "{{author}} Tidak dapat menemukan pengguna tersebut",
-    "MEMBER_NOT_IN_GUILD": "{{author}}Pengguna tersebut tidak ada dalam guild manapun",
+    "MEMBER_NOT_IN_GUILD": "{{author}} Pengguna tersebut tidak ada dalam guild manapun",
     "NOT_IN_YOUR_GUILD": "{{author}} Pengguna ini bukan anggota guild anda",
     "MUST_BE_FOUNDER": "{{author}} Anda harus menjadi **Founder** atau **Guildmaster** dalam guild untuk mengeluarkan member",
     "KICK_CONFIRM": "Apakah anda yakin akan mengeluarkan <@{{memberId}}> dari guild?"
