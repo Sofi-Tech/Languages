@@ -1,5 +1,5 @@
 {
-    "SF_DISCORD_LINK": "{{author}} A imagem enviada **deve** usar um link oficial do Discord, como `cdn.discordapp.com` ou `media.discordapp.net`",
+    "SF_DISCORD_LINK": "{{author}} A imagem enviada deve usar um link oficial do Discord, como `cdn.discordapp.com` ou `media.discordapp.net`",
     "SF_PNG_ONLY": "{{author}} O link enviado deve ser um arquivo `PNG`",
     "SF_CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}sf <ImageURL> <FrameName>`",
     "SUBMIT_FRAME_SUCCESSFUL": "{{author}} O **Frame** foi enviado com sucesso",
@@ -15,7 +15,7 @@
     "SF_ATTACHMENT_INFO": "<:_:979009081325019156> Você pode baixar uma [Frame](https://cdn.discordapp.com/attachments/870354581115256852/957025912375869480/36.png) teste & [Imagem](https://cdn.discordapp.com/attachments/870354581115256852/957025912132608010/ce61ef5d-cab6-4af4-8dad-b0d1b174bbad.jpg) para ter uma noção melhor de nossos requisitos",
     "SF_FILETYPE_INFO": "<:_:979009081325019156> A imagem enviada **deve** ser um arquivo `PNG` para manter sua transparência",
     "SF_DIMENSION_INFO": "<:_:979009081325019156> As dimensões da imagem enviada **devem** ser `402x603`",
-    "SF_LINK_INFO": "<:_:979009081325019156> A imagem enviada deve usar um link oficial do Discord, como `cdn.discordapp.com` ou `media.discordapp.net`",
+    "SF_LINK_INFO": "<:_:979009081325019156> A imagem enviada **deve** usar um link oficial do Discord, como `cdn.discordapp.com` ou `media.discordapp.net`",
     "SF_REPLICA_INFO": "<:_:979009081325019156> A imagem enviada **deve** ser feita por você mesmo e não ser uma réplica de trabalhos existentes",
     "SF_VISIBILITY_INFO": "<:_:979009081325019156> A imagem enviada **deve** caber na borda da carta e ter uma área visível adequada para o texto exibido",
     "SF_STAFF_INFO": "\n⚠️ Não pingue ninguém da equipe na tentativa de acelerar a revisão do seu envio!\n",

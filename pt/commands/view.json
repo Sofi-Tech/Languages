@@ -1,5 +1,5 @@
 {
-    "VIEW_DESCRIPTION": "Este comando exibirá a aparência visual de uma carta especificada. Use este comando sem um código de carta para exibir sua última carta obtida",
+    "VIEW_DESCRIPTION": "Este comando exibe a aparência visual de uma carta especificada. Se usado sem um código de carta, ele exibirá sua carta obtida mais recentemente. Você pode usar os botões para visualizar estatísticas, alterar a fonte, converter a carta para 3D ou morfa-la.",
     "SLASH_DESC1": "Insira o código da carta",
     "INVALID_CODE": "{{author}} O código da carta fornecido é inválido",
     "SERIES": "Série:",

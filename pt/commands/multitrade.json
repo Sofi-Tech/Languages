@@ -1,7 +1,7 @@
 {
     "MULTITRADE_DESCRIPTION": "Este comando enviará uma solicitação de troca para outro jogador que você selecionou. Assim que eles aceitarem a solicitação, o embed permitirá que ambos os jogadores enviem várias cartas e itens simultaneamente. Assim que ambos os lados tiverem bloqueado sua seleção e concordado com a troca, o conteúdo da janela de troca oposta será adicionado à sua conta",
     "MENTION_USER": "{{author}} Uso correto: `{{prefix}}mt <@User/UserID>`",
-    "IN_TRADE": "{{user}} você já está em uma troca ativa com alguém! Cancele a anterior para começar uma nova",
+    "IN_TRADE": "{{user}} você já está em uma troca ativa com alguém. Por favor cancele a anterior antes de começar uma nova.",
     "BOT_TRADE": "{{author}} Você não pode trocar com um `BOT`",
     "SELF_TRADE": "{{author}} Você não pode trocar com você mesmo",
     "NOT_REGISTERED": "{{author}} Esse usuário não está registrado",
