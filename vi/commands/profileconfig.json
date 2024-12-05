@@ -97,7 +97,7 @@
     "PROVIDE_PROFILE_RING": "Nhập ID của Profile Ring để thiết lập. | Gõ \"none\" để đặt lại.",
     "PC_CHARACTER_NOT_FOUND": "{{author}} Không tìm thấy nhân vật nào với tên đó",
     "PC_INTRO": "<:_:979009081325019156> **Giới Thiệu**: Đặt một thông điệp giới thiệu trên hồ sơ\n<:_:979009081325019156> **Nhân Vật Yêu Thích**: Chọn nhân vật yêu thích\n<:_:979009081325019156> **Bộ Yêu Thích**: Chọn bộ yêu thích\n<:_:979009081325019156> **Hiển Thị Thẻ**: Chọn thẻ được hiển thị trên hồ sơ\n<:_:979009081325019156> **Profile Background**: Chọn background cho hồ sơ\n<:_:979009081325019156> **Màu Phông Chữ**: Đổi màu chữ trên hồ sơ\n<:_:979009081325019156> **Profile Glow**: Áp dụng hiệu ứng phát sáng cho hồ sơ\n<:_:979009081325019156> **Huy Hiệu**: Hiển thị huy hiệu trên hồ sơ\n<:_:979009081325019156> **Màu Hồ Sơ**: Đổi màu cơ bản của hồ sơ\n<:_:979009081325019156> **Profile Ring**: Đặt một chiếc nhẫn vào ảnh đại diện trong hồ sơ\n<:_:979009081325019156> **Bật GIF**: Bật sử dụng ảnh động và chọn thẻ cho hồ sơ",
-    "GIF_NOTE": "**Lưu ý**: Nếu đổi hồ sơ của bạn sang GIF sẽ bỏ **Glow** khỏi hồ sơ của bạn.\nBạn có muốn tiếp tục?",
+    "GIF_NOTE": "**Lưu ý**: Nếu đổi hồ sơ của bạn sang GIF sẽ gỡ **Glow** khỏi hồ sơ của bạn.\nBạn có muốn tiếp tục không?",
     "PBG_PURCHASE_EVENT": "**Profile Background** này chỉ có thể được mua trong thời gian diễn ra sự kiện liên quan đến nó",
     "INVALID_RING_ID": "ID **Profile Ring** không hợp lệ",
     "NO_RING_FOUND": "Không tìm thấy **Profile Ring** nào với ID đó",

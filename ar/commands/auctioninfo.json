@@ -14,11 +14,11 @@
     "AI_ENDS": "ينتهي",
     "SELECT_AUCTION_PLACEHOLDER": "اختر مزادًا",
     "MINIMUM_AMOUNT": "{{author}} يجب أن تقدم عرضًا بحد أدنى قدره **{{amount}}** {{currencyEmoji}} لهذا المزاد",
-    "NOT_ENOUGH_CURRENCY": "{{author}} ليس لديك ما يكفي من {{emoji}}",
+    "NOT_ENOUGH_CURRENCY": "ليس لديك ما يكفي من {{emoji}}",
     "AUCTION_NOT_FOUND": "{{author}} تعذر العثور على هذا المزاد",
     "POSITIVE_NUMBER": "{{author}} يجب أن يكون رهانك رقمًا إيجابيًا",
     "BID_SELECTION": "استخدم الأمر \"{{prefix}}<ai<Auction-ID\" أو اختر مزادًا نشطًا من القائمة أدناه",
-    "BID_SUCCESSFUL": "{{author}} لقد قمت بنجاح بوضع مزايدة بقيمة **{{amount}}** {{emoji}}",
+    "BID_SUCCESSFUL": "لقد قمت بنجاح بوضع مزايدة بقيمة **{{amount}}** {{emoji}}",
     "SERIES": "- السلسلة :",
     "NAME": "- الاسم :",
     "AUCTION_ID_LABEL": "رقم تعريف الرهان: {{id}}"

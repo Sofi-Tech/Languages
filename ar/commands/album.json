@@ -12,11 +12,11 @@
     "EMBED_TITLE": "SOFI: ALBUMS ({{username}})",
     "ALBUM_BUTTON_LABEL": "إنشاء ألبوم",
     "EMBED_ALBUM_TITLE": "SOFI: ALBUM ({{albumName}})",
-    "EMBED__ALBUM_FOOTER": "مملوكة ل {{userTag}}",
+    "EMBED__ALBUM_FOOTER": "مملوكة من قبل {{userTag}}",
     "ALBUM_CARDS_zero": "{{count}} بطاقات",
     "ALBUM_CARDS_one": "{{count}} بطاقة",
-    "ALBUM_CARDS_two": "{{count}} بطاقتين",
+    "ALBUM_CARDS_two": "{{count}} بطاقات",
     "ALBUM_CARDS_few": "{{count}} بطاقات",
     "ALBUM_CARDS_other": "{{count}} بطاقات",
-    "ALBUM_CARDS_many": "{{count}} بطاقة"
+    "ALBUM_CARDS_many": "{{count}} بطاقات"
 }
