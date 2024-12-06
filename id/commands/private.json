@@ -1,5 +1,5 @@
 {
-    "PRIVATE_DESCRIPTION": "Gunakan perintah ini untuk memprivasi bagian dari akun Anda. Bagian yang diprivasi tidak akan lagi terlihat oleh pemain lain. Menggunakan perintah ini dengan sendirinya akan menampilkan konfigurasi Anda saat ini untuk bagian ini",
+    "PRIVATE_DESCRIPTION": "Gunakan perintah ini untuk memprivasi bagian dari akun Anda. Bagian yang diprivasi tidak akan bisa terlihat oleh pemain lain. Menggunakan perintah ini dengan sendirinya akan menampilkan konfigurasi Anda saat ini untuk bagian ini",
     "PVT_CATEGORY": "Pengaturan",
     "PRIVATE_ENABLED": "{{author}} **{{content}}** anda sekarang bersifat pribadi",
     "PRIVATE_DISABLED": "{{author}} **{{content}}** anda tidak lagi bersifat pribadi",

@@ -25,7 +25,7 @@
     "SOME_COMMANDS_BLACKLISTED": "{{author}} Anda sudah memasukkan perintah daftar hitam di channel ini. Gunakan perintah `{{prefix}}p reset` untuk menyetel izin channel ini ke default",
     "ADD_BUTTON_LABEL": "Tambah",
     "NO_PERMS_SETUP": "{{author}} Izin belum diatur di channel ini. Untuk mengatur, gunakan `{{prefix}}p [BL/WL] [add] <CommandNames/All>`",
-    "RESET_USAGE": "Reset : Mengatur izin ke pengaturan awal\nPenggunaan : `{{prefix}}p reset`",
+    "RESET_USAGE": "Reset: Mengatur izin ke pengaturan awal\nPenggunaan: `{{prefix}}p reset`",
     "SOME_COMMANDS_WHITELISTED": "{{author}} Anda sudah memasukkan perintah daftar putih di channel ini. Gunakan perintah `{{prefix}}p reset` untuk menyetel izin channel ini ke default",
     "REMOVE_BUTTON_LABEL": "Hapus",
     "RESET_BUTTON_LABEL": "Reset",

@@ -8,6 +8,6 @@
     "TOOK_VERSION": "{{winner}} đã **nhặt** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
     "TOOK_CARD": "{{user}} đã **nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "NOT_ALLOWED_TO_GRAB": "Bạn đang bị cách ly hoặc đã bị đưa vào danh sách đen hoặc chưa đăng ký nên không thể nhặt thẻ này",
-    "GRAB_CARD_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** và **giành lấy** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành lấy** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "GRAB_CARD": "{{winner}} đã đánh bại {{user}} và **giành lấy** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
 }

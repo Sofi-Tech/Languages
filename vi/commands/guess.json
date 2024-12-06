@@ -5,7 +5,7 @@
     "INSUFFICIENT_CURRENCY": "{{author}} Bạn không có đủ **{{currency}}** để tham gia trò này",
     "CORRECT_GUESS": "{{winner}} Đã đoán đúng và giành được **{{jackpot}}** {{currencyEmoji}}",
     "INFO_2": "Phí Tham Gia: **{{bet}}** {{currencyEmoji}}",
-    "REQ_MORE_PLAYERS": "{{user}} Cần ít nhất **2** người để bắt đầu trò chơi",
+    "REQ_MORE_PLAYERS": "{{user}} Bạn cần ít nhất **2** người để bắt đầu trò chơi",
     "GUESS_DESCRIPTION": "Sử dụng lệnh này để bắt đầu trò chơi đoán từ. Tất cả người chơi tham gia trò chơi đoán từ này sẽ bị trừ một số tiền từ kho đồ của họ, một khi trò chơi bắt đầu. Một từ Tiếng Anh sẽ được chọn và bị đảo thứ tự các chữ cái. Người đầu tiên nhập đúng từ gốc trong đoạn chat sẽ là người chiến thắng và nhận được toàn bộ phí tham gia của tất cả người chơi",
     "FOOTER": "Nhấn🍻để tham gia! Bắt đầu trò chơi bằng cách nhấn vào nút 🟢",
     "GUESS_THE_WORD": "{{participants}}\n\nKhôi phục từ **Tiếng Anh** gốc: `{{scrambledWord}}`",

@@ -1,6 +1,6 @@
 {
-    "TAGCREATE_DESCRIPTION": "Dengan perintah ini Anda dapat membuat tag untuk mengkategorikan dan mengelompokkan beberapa kode yang sesuai dengan kriteria Anda. Gunakan perintah \"{{prefix}}tag\" untuk menetapkan tag yang dibuat ke kartu atau Version Token Anda",
-    "TC_CATEGORY": "Tags",
+    "TAGCREATE_DESCRIPTION": "Dengan perintah ini Anda dapat membuat tag untuk mengkategorikan dan mengelompokkan beberapa kode yang sesuai dengan kriteria Anda. Gunakan perintah \"{{prefix}}tag\" untuk menetapkan tag yang dibuat ke kartu atau Version Tokens Anda",
+    "TC_CATEGORY": "Tag",
     "WRONG_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}tc <TagName> <Emoji>`",
     "INVALID_EMOJI": "{{author}} Emoji tersebut tidak valid",
     "INVALID_TAGNAME_FORMAT": "{{author}} Nama tag Anda harus berupa alfanumerik dan tidak boleh mengandung karakter khusus, spasi, atau kata-kata kotor dalam bentuk apa pun",
