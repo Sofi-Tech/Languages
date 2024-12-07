@@ -3,7 +3,7 @@
     "APPEAL_ACCEPTED_FOOTER": "Appeal accepted by {{username}}",
     "APPEAL_DENIED": "After investigating your case we have come to the conclusion to reject your appeal. Your blacklisted status will not be overruled and all new appeals from here on out will be dismissed.\n\n- Sofi Management",
     "APPEAL_DENIED_FOOTER": "Appeal rejected by {{username}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Your banner submission with code** `{{bannerCode}}` **has been approved** \n- Link: {{url}} \n> Reward of 3 Wists, 500 Silver and 500 Fan Points has been added to your inventory",
+    "BANNER_SUBMISSION_ACCEPTED": "**Your banner submission with code** `{{bannerCode}}` **has been approved** \n- Link: {{url}} ",
     "BANNER_SUBMISSION_REJECTED": "Your banner submission with code `{{bannerCode}}` has been rejected. {{reason}} \n- Link: {{url}}",
     "IC_REASON": "Reason: {{reason}}",
     "VERSION_ACCEPTED": "Your `Version` submission for **{{charName}}** from **{{seriesName}}** has been accepted. **3** <a:wist_spin:973031140581580820> have been added to your inventory",
