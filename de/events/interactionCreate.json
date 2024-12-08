@@ -23,6 +23,6 @@
     "APPEAL_DENIED_FOOTER": "Einspruch abgelehnt von {{username}}",
     "IC_REASON": "Grund: {{reason}}",
     "BANNER_SUBMISSION_REJECTED": "Deine Bannereinreichung mit dem Code `{{bannerCode}}` wurde abgelehnt. {{reason}} \n- Link: {{url}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Deine Bannereinreichung mit dem Code**`{{bannerCode}}`**wurde genehmigt** \n- Link: {{url}} \n> Die Belohnung von 3 Wists, 500 Silver und 500 Fan Points wurde deinem Inventar hinzugefügt",
+    "BANNER_SUBMISSION_ACCEPTED": "**Deine Bannereinreichung mit dem Code**`{{bannerCode}}`**wurde genehmigt** \n- Link: {{url}} ",
     "OUTBID_IN_AUCTION": "Du wurdest in der Auktion für den Code [`{{code}}`](<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>) überboten. Dein Gebot - {{oldAmount}}{{oldItemEmoji}} | Neues Gebot - {{newAmount}} {{newItemEmoji}}\nAuktion endet in {{time}}"
 }

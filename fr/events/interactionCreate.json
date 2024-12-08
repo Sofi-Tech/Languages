@@ -21,7 +21,7 @@
     "SUPPORT_BUTTON_LABEL": "Support",
     "APPEAL_ACCEPTED_FOOTER": "Appel accepté par {{username}}",
     "APPEAL_DENIED_FOOTER": "Appel rejeté par {{username}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**Votre soumission de bannière avec le code** `{{bannerCode}}` **a été approuvée** \n- Lien: {{url}} \n> Une récompense de 3 Wists, 500 Silver et 500 Fan Points ont été ajoutée à votre inventaire",
+    "BANNER_SUBMISSION_ACCEPTED": "**Votre soumission de bannière avec le code** `{{bannerCode}}` **a été approuvée** \n- Lien: {{url}} ",
     "BANNER_SUBMISSION_REJECTED": "Votre soumission de bannière avec le code `{{bannerCode}}` a été rejetée. {{reason}} \n- Lien: {{url}}",
     "IC_REASON": "Raison: {{reason}}",
     "OUTBID_IN_AUCTION": "Vous avez été surenchéri lors de l'enchère pour le code [`{{code}}`]\n(<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Votre enchère - {{oldAmount}} {{oldItemEmoji}} | Nouvelle enchère - {{newAmount}} {{newItemEmoji}} \n\nL'enchère se termine dans {{time}}"
