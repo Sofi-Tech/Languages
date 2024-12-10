@@ -40,5 +40,6 @@
     "FAN_PTS_ADDED_zero": "Matagumpay na naidagdag ang **{{count}}** na mga puntos sa **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "MINIMUM_POINTS": "Kinakailangan mong magdagdag ng hindi bababa sa 1000 na Fan Point upang maitampok sa leaderboard",
     "CL_CREDITS": "**Credits**: {{credits}}",
-    "CL_PRICE": "**Presyo**: {{amount}} {{emoji}}"
+    "CL_PRICE": "**Presyo**: {{amount}} {{emoji}}",
+    "CL_FORCE_CORRECT_USAGE": "{{author}} Tamang pag-gamit: `{{prefix}}cl -f <CharacterName>`"
 }

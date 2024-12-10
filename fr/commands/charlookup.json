@@ -40,5 +40,6 @@
     "FAN_PTS_ADDED_many": "**{{count}}** points ont été ajoutés à **{{characterName}}** avec succès\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "MINIMUM_POINTS": "Vous devez ajouter au moins 1000 Fan Points pour figurer dans un classement",
     "CL_PRICE": "**Prix**: {{amount}} {{emoji}}",
-    "CL_CREDITS": "**Crédits**: {{credits}}"
+    "CL_CREDITS": "**Crédits**: {{credits}}",
+    "CL_FORCE_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}cl -f <NomDePersonnage>`"
 }

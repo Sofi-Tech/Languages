@@ -40,5 +40,6 @@
     "FAN_PTS_ADDED_many": "**{{count}}** очков успешно добавлены для **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "MINIMUM_POINTS": "Вам нужно добавить минимум 1000 Очков Фаната для того, чтобы попасть в таблицу лидеров",
     "CL_PRICE": "**Цена**: {{amount}} {{emoji}}",
-    "CL_CREDITS": "**Автор оригинала**: {{credits}}"
+    "CL_CREDITS": "**Автор оригинала**: {{credits}}",
+    "CL_FORCE_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}cl -f <ИмяПерсонажа>`"
 }
