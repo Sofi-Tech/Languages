@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Die Verwendung dieses Befehls wird dir die Liste an Charakteren anzeigen, die sich ein Nutzer wünscht. Verwende \"{{prefix}}wishlistadd\", um einen Charakter zu deiner Wunschliste hinzuzufügen",
+    "WISHLIST_DESCRIPTION": "Nutze diesen Befehl, um eine Wunschliste aus Charakteren und Versions anzuzeigen. Verwende den \"{{prefix}}wishlistadd\" Befehl, um Charaktere oder Versions zu deiner Wunschliste hinzuzufügen.",
     "CATEGORY": "Wunschliste",
     "USER_NOT_FOUND": "{{author}} Der Nutzer konnte nicht gefunden werden",
     "WISHLIST_PRIVATE": "{{author}} Dieser Nutzer hat seine Wunschliste auf privat gestellt",

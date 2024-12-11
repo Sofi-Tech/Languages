@@ -7,5 +7,6 @@
     "NO_RESULTS": "{{author}} Es ist kein Charakter mit dem Namen `{{name}}` auf deiner Wunschliste",
     "RESET_VT_NOTE": "{{author}} Nutze `{{prefix}}wr full reset version tokens`, um deine Version Token Wunschliste zurückzusetzen",
     "REMOVE_ALL_VERSION_TOKEN": "{{author}} Alle Charaktere wurden erfolgreich von deiner Version Token Wunschliste entfernt",
-    "REMOVE_VERSION_TOKEN": "{{author}} **Version {{version}}** von **{{name}}** wurde erfolgreich von deiner Version Token Wunschliste entfernt"
+    "REMOVE_VERSION_TOKEN": "{{author}} **Version {{version}}** von **{{name}}** wurde erfolgreich von deiner Version Token Wunschliste entfernt",
+    "NO_INDEX_VT": "{{author}} Du kannst Index nicht mit **Version {{version}}** verwenden"
 }
