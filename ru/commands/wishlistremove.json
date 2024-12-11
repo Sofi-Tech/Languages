@@ -1,8 +1,12 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Используйте данную команду для удаления персонажа из вашего списка желаемого",
+    "WISHLISTREMOVE_DESCRIPTION": "Используйте данную команду для удаления персонажа или Version из вашего списка желаемого",
     "CATEGORY": "Список желаемого",
     "NO_INDEX": "{{author}} Правильное использование: `{{prefix}}wr <Имя/Номер>`. Используйте команду `{{prefix}}wr full reset`, чтобы полностью очистить ваш список желаемого",
     "FULL_RESET": "{{author}} Все персонажи успешно удалены из вашего списка желаемого",
     "REMOVE_CHARACTER": "{{author}} Персонаж **{{name}}** успешно удален из вашего списка желаемого",
-    "NO_RESULTS": "{{author}} Персонаж с именем `{{name}}` не найден в вашем списке желаемого"
+    "NO_RESULTS": "{{author}} Персонаж с именем `{{name}}` не найден в вашем списке желаемого",
+    "NO_INDEX_VT": "{{author}} Вы не можете использовать индекс с **Version {{version}}**",
+    "REMOVE_VERSION_TOKEN": "{{author}} **Version {{version}}** {{name}} успешно удален из вашего списка желаемых Version Token",
+    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Все персонажи успешно удалены из вашего списка желаемых Version Token",
+    "RESET_VT_NOTE": "{{author}} Используйте команду `{{prefix}}wr full reset`, чтобы полностью очистить ваш список желаемых Version Token"
 }

@@ -28,5 +28,9 @@
     "CONFIRM_UNLOCK": "Bestätige zum Freischalten",
     "UPGRADE_MENU_PLACEHOLDER": "Wunschliste upgraden",
     "ALREADY_UNLOCKED": "Diese Option wurde bereits freigeschalten",
-    "UPGRADE_EMBED_DESCRIPTION": "Du kannst maximal 100 Plätze freischalten"
+    "UPGRADE_EMBED_DESCRIPTION": "Du kannst maximal 100 Plätze freischalten",
+    "VT_WISHLIST_EMPTY_SELF": "{{author}} Deine Version Token Wunschliste ist leer",
+    "VT_WISHLIST_EMPTY": "{{author}} Die Version Token Wunschliste dieses Nutzers ist leer",
+    "NO_CHARACTERS_FOUND": "Es wurde keine Charaktere in der Wunschliste gefunden",
+    "CARDS_WISHLIST_BUTTON_LABEL": "Karten"
 }

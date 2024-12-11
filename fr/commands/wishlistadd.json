@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Utilisez cette commande pour ajouter un personnage à votre liste de souhaits personnelle. Cette action n'a aucun bénéfice ou avantage direct associé",
+    "WISHLISTADD_DESCRIPTION": "Utilisez cette commande pour ajouter un personnage à votre liste de souhaits personnelle. Vous pouvez aussi ajouter des Versions spécifiques de personnages en utilisant la commande \"{{prefix}}wa<NuméroDeVersion> <NomDePersonnage>\". Cette action n'a aucun bénéfice ou avantage direct associé.",
     "CATEGORY": "Liste De Souhaits",
     "ADD_CHARACTERS_ERROR": "{{author}} Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
     "SEARCH_CHARACTER_ERROR": "{{author}} Utilisation correcte: `{{prefix}}wa <Nom>`",
@@ -7,5 +7,7 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** est déjà dans votre liste de souhaits",
     "CHARACTER_ADDED": "{{author}} **{{name}}** a été ajouté(e) à votre liste de souhaits avec succès",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Débloquez plus d'emplacements en utilisant la commande `{{prefix}}wl` puis en cliquant sur l'icône {{emoji}}"
+    "INCREASE_CAPACITY": "Débloquez plus d'emplacements en utilisant la commande `{{prefix}}wl` puis en cliquant sur l'icône {{emoji}}",
+    "VERSION_ADDED": "{{author}} Ajout de la **Version {{version}}** de **{{name}}** à votre liste de souhaits de Version Token avec succès",
+    "VERSION_ALREADY_EXISTS": "{{author}} Vous avez déjà la **Version {{version}}** de **{{name}}** dans votre liste de souhaits de Version Token"
 }

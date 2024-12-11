@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Используйте данную команду для добавления персонажей в ваш список желаемого",
+    "WISHLISTADD_DESCRIPTION": "Используйте данную команду для добавления персонажей в ваш список желаемого. Вы также можете добавить определенные Versions персонажей, используя команду \"{{prefix}}wa<Version Number <ИмяПерсонажа>\". Это действие не имеет прямой выгоды или преимущества, как могло показаться на первый взгляд.",
     "CATEGORY": "Список желаемого",
     "ADD_CHARACTERS_ERROR": "{{author}} Вы не можете добавить больше персонажей в ваш список желаемого",
     "SEARCH_CHARACTER_ERROR": "{{author}} Правильное использование: `{{prefix}}wa <Имя>`",
@@ -7,5 +7,7 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** уже находится в вашем списке желаемого",
     "CHARACTER_ADDED": "{{author}} Персонаж **{{name}}** успешно добавлен в ваш список желаемого",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Чтобы разблокировать больше ячеек, используйте команду `{{prefix}}wl` и нажмите на значок {{emoji}}"
+    "INCREASE_CAPACITY": "Чтобы разблокировать больше ячеек, используйте команду `{{prefix}}wl` и нажмите на значок {{emoji}}",
+    "VERSION_ADDED": "{{author}} **Version {{version}}** {{name}} успешно добавлен в ваш список желаемых Version Token",
+    "VERSION_ALREADY_EXISTS": "{{author}} В вашем списке желаемых Version Token уже есть **Version {{version}}** **{{name}}**"
 }

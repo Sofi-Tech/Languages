@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Verwende diesen Befehl, um deiner persönlichen Wunschliste einen Charakter hinzuzufügen. Mit dieser Aktion geht kein direkter Nutzen oder Vorteil einher",
+    "WISHLISTADD_DESCRIPTION": "Verwende diesen Befehl, um deiner persönlichen Wunschliste einen Charakter hinzuzufügen.Du kannst auch spezifische Versions von Charakteren mit dem Befehl \"{{prefix}}wa<VersionNummer> <CharakterName>\" hinzufügen. Mit dieser Aktion geht kein direkter Nutzen oder Vorteil einher.",
     "CATEGORY": "Wunschliste",
     "ADD_CHARACTERS_ERROR": "{{author}} Du kannst deiner Wunschliste keine weiteren Charaktere hinzufügen",
     "SEARCH_CHARACTER_ERROR": "{{author}} Korrekte Verwendung: `{{prefix}}wa <Name>`",
@@ -7,5 +7,7 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ist bereits auf deiner Wunschliste",
     "CHARACTER_ADDED": "{{author}} **{{name}} ** wurde erfolgreich deiner Wunschliste hinzugefügt",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Schalte weitere Slots frei, indem du den Befehl `{{prefix}}wl` verwendest und auf das Symbol {{emoji}} klickst"
+    "INCREASE_CAPACITY": "Schalte weitere Slots frei, indem du den Befehl `{{prefix}}wl` verwendest und auf das Symbol {{emoji}} klickst",
+    "VERSION_ADDED": "{{author}} Die **Version {{version}}** von **{{name}}** wurde erfolgreich zu deiner Version Token Wunschliste hinzugefügt",
+    "VERSION_ALREADY_EXISTS": "{{author}} Du hast bereits die **Version {{version}}** von **{{name}}** in deiner Version Token Wunschliste"
 }

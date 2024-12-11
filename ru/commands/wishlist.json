@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Использование данной команды отображает ваш список желаемого. Чтобы добавить персонажа в ваш список желаемого, используйте команду \"{{prefix}}wishlistadd\"",
+    "WISHLIST_DESCRIPTION": "Используйте данную команду, чтобы отобразить ваш список желаемых персонажей и Versions. Чтобы добавить персонажей или Versions в ваш список желаемого, используйте команду \"{{prefix}}wishlistadd\".",
     "CATEGORY": "Список желаемого",
     "USER_NOT_FOUND": "{{author}} Не удалось найти данного пользователя",
     "WISHLIST_PRIVATE": "{{author}} Данный пользователь ограничил доступ к просмотру своего списка желаемого",
@@ -28,5 +28,9 @@
     "UPGRADE_SUCCESS": "Ваш список желаемого успешно улучшен до {{type}} ячеек",
     "SLOTS_MENU_LABEL": "{{size}} Всего ячеек - {{price}}",
     "UPGRADE_MODAL_TITLE": "Улучшить список желаемого ({{size}} ячеек)",
-    "UNLOCKED": "Разблокировано"
+    "UNLOCKED": "Разблокировано",
+    "VT_WISHLIST_EMPTY": "{{author}} Список желаемых Version Token данного пользователя пуст",
+    "CARDS_WISHLIST_BUTTON_LABEL": "Карты",
+    "VT_WISHLIST_EMPTY_SELF": "{{author}} Ваш список желаемых Version Token пуст.",
+    "NO_CHARACTERS_FOUND": "Персонажи не найдены в списке желаемого"
 }
