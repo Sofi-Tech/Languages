@@ -8,5 +8,5 @@
     "RESET_VT_NOTE": "{{author}} Use `{{prefix}}wr full reset version tokens` to reset your Version Token wishlist",
     "REMOVE_ALL_VERSION_TOKEN": "{{author}} Successfully removed all characters from your Version Token wishlist",
     "NO_INDEX_VT": "{{author}} You can't use index with Version `{{version}}` wishlist",
-    "REMOVE_VERSION_TOKEN": "{{author}} Successfully removed **Version {{version}}** of **{{name}}** from Version Token wishlist"
+    "REMOVE_VERSION_TOKEN": "{{author}} Successfully removed **Version {{version}}** of **{{name}}** from your Version Token wishlist"
 }

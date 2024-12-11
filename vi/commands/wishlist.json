@@ -28,5 +28,9 @@
     "UPGRADE_EMBED_DESCRIPTION": "Bạn có thể mở khóa tối đa 100 ô",
     "ALREADY_SLOTS": "Bạn đã có {{size}} chỗ trong danh sách yêu thích của mình",
     "ALL_CARD_CODES": "Do khối lượng mã lớn, tin nhắn đã được chuyển thành tệp `.txt`:",
-    "UPGRADE_MENU_PLACEHOLDER": "Nâng Cấp Danh Sách Yêu Thích"
+    "UPGRADE_MENU_PLACEHOLDER": "Nâng Cấp Danh Sách Yêu Thích",
+    "VT_WISHLIST_EMPTY": "{{author}} Danh sách yêu thích Version Token của người dùng đó đang trống",
+    "NO_CHARACTERS_FOUND": "Không tìm thấy nhân vật nào trong danh sách yêu thích",
+    "CARDS_WISHLIST_BUTTON_LABEL": "Thẻ",
+    "VT_WISHLIST_EMPTY_SELF": "{{author}} Danh sách yêu thích Version Token của bạn đang trống"
 }
