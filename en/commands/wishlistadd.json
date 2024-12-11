@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Use this command to add a character to your personal wishlist. You can also add specific Versions of characters by using \"{{prefix}}wa<VersionNumber> <CharacterName>\". This action has no direct benefit or advantage associated with it.",
+    "WISHLISTADD_DESCRIPTION": "Use this command to add a character to your personal wishlist. You can also add specific Versions of characters by using the command \"{{prefix}}wa<VersionNumber> <CharacterName>\". This action has no direct benefit or advantage associated with it.",
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
     "INCREASE_CAPACITY": "Unlock more slots by using the `{{prefix}}wl` command and clicking on the {{emoji}} icon",
