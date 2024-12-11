@@ -1,7 +1,7 @@
 {
     "CHAR_NOT_FOUND": "{{author}} Không tìm thấy nhân vật nào tên `{{arg}}`",
     "3D_LABEL": "3D",
-    "NO_FANS_FOUND": "\nNhân vật này chưa có bất kì người hâm mộ nào!",
+    "NO_FANS_FOUND": "\nNhân vật này chưa có bất kì fan nào!",
     "ENTER_AMOUNT": "Nhập một số lượng",
     "NAME": "Tên:",
     "CHARLOOKUP_DESCRIPTION": "Bạn có thể kiểm tra một nhân vật cụ thể bằng cách sử dụng lệnh này. Trong menu này, bạn có thể kiểm tra thống kê của nhân vật, như các Version/3D/GIF của họ, cũng như bảng xếp hạng Gen/Fan và ID-Thẻ.",
@@ -27,7 +27,7 @@
     "GEN_CLAIMED": "Đã nhận: {{count}}/100",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "NORMAL_LABEL": "Version: 1",
-    "FAN_PTS_LABEL": "Thêm Điểm Hâm Mộ",
+    "FAN_PTS_LABEL": "Thêm Điểm Fan",
     "GIF_LABEL": "GIF",
     "VERSION_LB": "Bảng Xếp Hạng Version",
     "VERSIONS": "Versions",
@@ -38,7 +38,7 @@
     "FAN_PTS_ADDED_few": "Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_other": "Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "Đã thêm thành công **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Điểm Hâm Mộ để xuất hiện trên bảng xếp hạng",
+    "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Điểm Fan để xuất hiện trên bảng xếp hạng",
     "CL_PRICE": "**Giá**: {{amount}} {{emoji}}",
     "CL_CREDITS": "**Nguồn**: {{credits}}",
     "CL_FORCE_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}cl -f <CharacterName>`"
