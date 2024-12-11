@@ -1,13 +1,13 @@
 {
-  "WISHLISTADD_DESCRIPTION": "Use this command to add a character to your personal wishlist. This action has no direct benefit or advantage associated with it",
-  "CATEGORY": "Wishlist",
-  "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
-  "INCREASE_CAPACITY": "Unlock more slots by using the `{{prefix}}wl` command and clicking on the {{emoji}} icon",
-  "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
-  "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
-  "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** is on your wishlist already",
-  "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
-  "VERSION_ALREADY_EXISTS": "{{author}} You already have **{{name}}** in your wishlist for version `{{version}}`",
-  "VERSION_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist for version `{{version}}`",
-  "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
+    "WISHLISTADD_DESCRIPTION": "Use this command to add a character to your personal wishlist. This action has no direct benefit or advantage associated with it",
+    "CATEGORY": "Wishlist",
+    "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
+    "INCREASE_CAPACITY": "Unlock more slots by using the `{{prefix}}wl` command and clicking on the {{emoji}} icon",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
+    "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
+    "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** is on your wishlist already",
+    "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
+    "VERSION_ALREADY_EXISTS": "{{author}} You already have Version **{{version}}** of **{{name}}** in your Version Token wishlist",
+    "VERSION_ADDED": "{{author}} Successfully added Version **{{version}}** of **{{name}}** to your Version Token wishlist",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
 }
