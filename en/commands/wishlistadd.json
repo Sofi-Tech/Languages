@@ -7,7 +7,7 @@
     "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** is on your wishlist already",
     "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
-    "VERSION_ALREADY_EXISTS": "{{author}} You already have Version **{{version}}** of **{{name}}** in your Version Token wishlist",
-    "VERSION_ADDED": "{{author}} Successfully added Version **{{version}}** of **{{name}}** to your Version Token wishlist",
+    "VERSION_ALREADY_EXISTS": "{{author}} You already have **Version {{version}}** of **{{name}}** in your Version Token wishlist",
+    "VERSION_ADDED": "{{author}} Successfully added **Version {{version}}** of **{{name}}** to your Version Token wishlist",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
 }
