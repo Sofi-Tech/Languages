@@ -1,8 +1,12 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Gamitin ang command na ito upang tanggalin ang isang karakter sa iyong wishlist",
+    "WISHLISTREMOVE_DESCRIPTION": "Gamitin ang command na ito para mag-alis ng karakter o Version sa iyong wishlist",
     "CATEGORY": "Wishlist",
     "NO_INDEX": "{{author}} Tamang paggamit: `{{prefix}}wr <Name/Number>`. Gamitin ang command na `{{prefix}}wr full reset` upang mabura ang lahat ng wishlist",
     "FULL_RESET": "{{author}} Matagumpay na tinanggal ang lahat ng mga karakter mula sa iyong wishlist",
     "REMOVE_CHARACTER": "{{author}} Matagumpay na tinanggal si **{{name}}** mula sa iyong wishlist",
-    "NO_RESULTS": "{{author}} Walang karakter na may pangalan na `{{name}}` sa iyong wishlist"
+    "NO_RESULTS": "{{author}} Walang karakter na may pangalan na `{{name}}` sa iyong wishlist",
+    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Matagumpay na naalis ang lahat ng mga karakter mula sa iyong Version Token wishlist",
+    "REMOVE_VERSION_TOKEN": "{{author}} Matagumpay na naalis ang **Version {{version}}** ng **{{name}}** mula sa iyong Version Token wishlist",
+    "NO_INDEX_VT": "{{author}} Hindi ka maaaring gumamit ng index sa **Version {{version}}**",
+    "RESET_VT_NOTE": "{{author}} Gamitin ang `{{prefix}}wr full reset version tokens` para i-reset ang iyong Version Token wishlist"
 }

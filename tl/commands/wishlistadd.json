@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Gamitin ang command na ito upang makapagdagdag ng karakter sa iyong personal na wishlist. Ang aksyon na ito ay walang direktang benepisyo o advantage na nauugnay rito",
+    "WISHLISTADD_DESCRIPTION": "Gamitin ang command na ito para magdagdag ng character sa iyong personal na wishlist. Maaari ka ring magdagdag ng mga partikular na Bersyon ng mga character sa pamamagitan ng paggamit ng command na \"{{prefix}}wa<VersionNumber> <CharacterName>\". Ang pagkilos na ito ay walang direktang benepisyo o kalamangan na nauugnay dito.",
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka maaaring magdagdag ng higit pang mga karakter sa iyong wishlist",
     "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <Name>`",
@@ -7,5 +7,7 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ay nasa wishlist mo na",
     "CHARACTER_ADDED": "{{author}} Matagumpay na idinagdag si **{{name}}** sa iyong wishlist",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Mag-unlock ng marami pang slots sa pamamagitan ng paggamit ng `{{prefix}}wl` na command at pag-click sa {{emoji}} na icon"
+    "INCREASE_CAPACITY": "Mag-unlock ng marami pang slots sa pamamagitan ng paggamit ng `{{prefix}}wl` na command at pag-click sa {{emoji}} na icon",
+    "VERSION_ADDED": "{{author}} Matagumpay na nailagay ang **Version {{version}}** ni **{{name}}** sa iyong Version Token wishlist",
+    "VERSION_ALREADY_EXISTS": "{{author}} Mayroon ka nang **Version {{version}}** ni **{{name}}** sa iyong Version Token wishlist"
 }
