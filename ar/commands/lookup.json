@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "بحث عن إصدارات / 3d / متحركة من الشخصيات",
-    "CHAR_NOT_FOUND": "لا يمكن العثور على الشخصية",
-    "CHAR_NF_SENSITIVE": "لم يتم العثور على أي شخصية ، إنه بحث حساس لحالة الأحرف",
+    "CHAR_NOT_FOUND": "{{author}} لا يمكن العثور على شخصية باسم `{{arg}}`",
+    "CHAR_NF_SENSITIVE": "{{author}} لم يتم العثور على شخصية باسم {{arg}}\nملاحظة: علامة `-f` حساسة لوضعية الحرف",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "تم التقديم بواسطة: <@{{userID}}> ",
     "EMBED_FOOTER": "العثور على v1 باستخدام scl | تقديم الإصدارات باستخدام ssc",

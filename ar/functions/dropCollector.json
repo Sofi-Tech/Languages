@@ -1,6 +1,6 @@
 {
     "EXTRA_GRAB": "{{user}} تم استخدام **Grab** الإضافي الخاص بك. لديك **{{remaining}}** متبقي",
-    "GRAB_COOLDOWN": "{{user}} يجب عليك الانتظار **{{cooldown}}** لالتقاط بطاقة أخرى",
+    "GRAB_COOLDOWN": "{{user}} يجب عليك انتظار **{{cooldown}}** لالتقاط بطاقة أخرى",
     "CANNOT_BE_GRABBED": "{{user}} البطاقات أدناه لم تعد قابلة **للإمساك**",
     "CARDS_DROPPED_BY": "{{user}} قد **أسقط** البطاقات",
     "GRAB_VERSION_PLURAL": "{{winner}} قاتل **{{userCount}}** لاعبين آخرين و **أمسك** بـ **{{character}}** **رمز النسخة** (`{{code}}`) [**V{{version}}**]",

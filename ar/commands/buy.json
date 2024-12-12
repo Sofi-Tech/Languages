@@ -3,7 +3,7 @@
     "SLASH_DESC": "أدخل اسم العنصر الذي تريد شرائه",
     "SLASH_DESC2": "أدخل الكمية",
     "SLASH_DESC3": "أدخل رمز الخلفية التي تريد شرائها. [يعمل فقط إذا تم تحديد العنصر كخلفية]",
-    "NO_ITEM": "{{author}} طريقة الاستعمال الصحيحة هي:\n`{{prefix}}buy <ItemName> <Amount>`",
+    "NO_ITEM": "{{author}} طريقة الاستعمال الصحيحة هي:\n`{{prefix}}buy<اسم العنصر><الكمية>`",
     "TRADEPASS_INFO": "قم بزيارة موقعنا الإلكتروني أدناه للقيام ب **Bump** ثم استبدل نقاطك بعناصر مختلفة، بما في ذلك **Trade Pass**",
     "CORRECT_USAGE": "{{user}} طريقة الاستعمال الصحيحة هي:\n`{{prefix}}buy bg <Background-ID> <Amount>`",
     "INVALID_BG_AMOUNT": "{{author}} لا يمكنك شراء كمية سلبية من العناصر",
