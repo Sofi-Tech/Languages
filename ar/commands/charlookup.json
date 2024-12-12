@@ -30,11 +30,11 @@
     "NOT_AVAILABLE": "اسم سلسلة غير صالح",
     "MORE_INFO_LABEL": "حدد اختيارا",
     "FAN_PTS_ADDED_other": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
-    "FAN_PTS_ADDED_zero": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
+    "FAN_PTS_ADDED_zero": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "EXAMPLE_INFO": "الطريقة الصحيحة: <الكمية><العملة>",
     "FAN_PTS_ADDED_one": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "FAN_PTS_ADDED_two": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "FAN_PTS_ADDED_few": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
-    "FAN_PTS_ADDED_many": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
+    "FAN_PTS_ADDED_many": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "CL_PRICE": "**السعر**: {{amount}}{{emoji}}"
 }

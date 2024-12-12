@@ -3,7 +3,7 @@
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} You cannot add more characters to your wishlist",
     "INCREASE_CAPACITY": "Unlock more slots by using the `{{prefix}}wl` command and clicking on the {{emoji}} icon",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <Name>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Correct usage: `{{prefix}}wa <CharacterName>`",
     "NO_CHARACTER_FOUND": "{{author}} Could not find that character. Use the command `{{prefix}}wa -f <Name>` for an exact search",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** is already in your wishlist",
     "CHARACTER_ADDED": "{{author}} Successfully added **{{name}}** to your wishlist",
