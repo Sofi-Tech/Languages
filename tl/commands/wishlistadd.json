@@ -2,7 +2,7 @@
     "WISHLISTADD_DESCRIPTION": "Gamitin ang command na ito para magdagdag ng character sa iyong personal na wishlist. Maaari ka ring magdagdag ng mga partikular na Bersyon ng mga character sa pamamagitan ng paggamit ng command na \"{{prefix}}wa<VersionNumber> <CharacterName>\". Ang pagkilos na ito ay walang direktang benepisyo o kalamangan na nauugnay dito.",
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} Hindi ka maaaring magdagdag ng higit pang mga karakter sa iyong wishlist",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <Name>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Tamang paggamit: `{{prefix}}wa <CharacterName>`",
     "NO_CHARACTER_FOUND": "{{author}} Hindi mahanap ang karakter na iyon. Gamitin ang command na `{{prefix}}wa -f <Name>` para sa eksaktong paghahanap",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ay nasa wishlist mo na",
     "CHARACTER_ADDED": "{{author}} Matagumpay na idinagdag si **{{name}}** sa iyong wishlist",

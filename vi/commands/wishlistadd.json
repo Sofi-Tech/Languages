@@ -4,7 +4,7 @@
     "INCREASE_CAPACITY": "Mở thêm chỗ bằng cách sử dụng lệnh `{{prefix}}wl` và nhấp vào biểu tượng {{emoji}}",
     "NO_CHARACTER_FOUND": "{{author}} Không tìm thấy nhân vật đó. Sử dụng lệnh `{{prefix}}wa -f <Name>` để tìm kiếm chính xác hơn",
     "ADD_CHARACTERS_ERROR": "{{author}} Bạn không thể thêm nhân vật nào vào danh sách yêu thích của bạn nữa",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Cách sử dụng đúng: `{{prefix}}wa <Name>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Cách sử dụng đúng: `{{prefix}}wa <CharacterName>`",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** đã có trong danh sách yêu thích của bạn rồi",
     "CHARACTER_ADDED": "{{author}} Đã thêm thành công **{{name}}** vào danh sách yêu thích của bạn",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST"

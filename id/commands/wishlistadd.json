@@ -1,11 +1,13 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Gunakan perintah ini untuk menambahkan karakter ke wishlist pribadi anda. Tindakan ini tidak memiliki manfaat atau keuntungan langsung yang terkait dengannya",
+    "WISHLISTADD_DESCRIPTION": "Gunakan perintah ini untuk menambahkan karakter ke wishlist pribadi anda. Anda juga dapat menambahkan Versions dari karakter dengan spesifik dengan menggunakan perintah \"{{prefix}}wa<VersionNumber> <CharacterName>\". Tindakan ini tidak memiliki manfaat atau keuntungan langsung yang terkait dengannya.",
     "CATEGORY": "Wishlist",
     "ADD_CHARACTERS_ERROR": "{{author}} Anda tidak dapat menambahkan karakter lain ke wishlist anda",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Penggunaan yang benar: `{{prefix}}wa <Name>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Penggunaan yang benar: `{{prefix}}wa <CharacterName>`",
     "NO_CHARACTER_FOUND": "{{author}} Tidak dapat menemukan karakter tersebut. Gunakan perintah `{{prefix}}wa -f <Name>` untuk pencarian yang lebih akurat",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** sudah ada di wishlist anda",
     "CHARACTER_ADDED": "{{author}} Berhasil menambahkan **{{name}}** ke wishlist anda",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Buka lebih banyak slot dengan menggunakan perintah `{{prefix}}wl` dan mengklik ikon {{emoji}}"
+    "INCREASE_CAPACITY": "Buka lebih banyak slot dengan menggunakan perintah `{{prefix}}wl` dan mengklik ikon {{emoji}}",
+    "VERSION_ADDED": "{{author}} Berhasil menambahkan **Version {{version}}** dari **{{name}}** ke Version Token wishlist anda",
+    "VERSION_ALREADY_EXISTS": "{{author}} Anda sudah memiliki **Version {{version}}** dari **{{name}}** di dalam Version Token wishlist anda"
 }

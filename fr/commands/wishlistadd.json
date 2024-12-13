@@ -2,7 +2,7 @@
     "WISHLISTADD_DESCRIPTION": "Utilisez cette commande pour ajouter un personnage à votre liste de souhaits personnelle. Vous pouvez aussi ajouter des Versions spécifiques de personnages en utilisant la commande \"{{prefix}}wa<NuméroDeVersion> <NomDePersonnage>\". Cette action n'a aucun bénéfice ou avantage direct associé.",
     "CATEGORY": "Liste De Souhaits",
     "ADD_CHARACTERS_ERROR": "{{author}} Vous ne pouvez pas ajouter plus de personnages à votre liste de souhaits",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Utilisation correcte: `{{prefix}}wa <Nom>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Utilisation correcte: `{{prefix}}wa <NomDuPersonnage>`",
     "NO_CHARACTER_FOUND": "{{author}} Impossible de trouver ce personnage. Utilisez la commande `{{prefix}}wa -f <Nom>` pour une recherche exacte",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** est déjà dans votre liste de souhaits",
     "CHARACTER_ADDED": "{{author}} **{{name}}** a été ajouté(e) à votre liste de souhaits avec succès",
