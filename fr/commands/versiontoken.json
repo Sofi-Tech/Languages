@@ -10,7 +10,7 @@
     "VT_CATEGORY": "Cosmétiques",
     "USER_PRIVATE": "{{author}} Cet utilisateur a mis sa collection de **Version Tokens** en privé",
     "USER_NO_TOKENS": "{{author}} Cet utilisateur n'as pas encore de **Version Tokens**",
-    "NOTHING_FOUND": "Aucun **Version Tokens** n'as été trouvé",
+    "NOTHING_FOUND": "Aucun **Version Tokens** n'a été trouvé",
     "INVALID_SERIES": "Série invalide",
     "SORT_VERSION": "Version",
     "SORT_CARD": "Carte de Base",
@@ -18,5 +18,16 @@
     "EMBED_FOOTER": "Page: {{page}}/{{totalPages}} | Total de Version Tokens: {{count}}",
     "SAVE_FILTER": "500 - Sauvegarder ce Filtre",
     "SELECT_FILTER": "Sélectionnez un Filtre",
-    "FILTER_NO_VT_FOUND": "{{author}} Auncun **Version Tokens** correspondant à votre filtre sélectionné n'a été trouvé"
+    "FILTER_NO_VT_FOUND": "{{author}} Aucun **Version Tokens** correspondant à votre filtre sélectionné n'a été trouvé. Utilisez la commande `{{prefix}}help filter`pour en apprendre plus sur tout les filtres disponibles",
+    "ALL_UNTAG_SUCCESS_zero": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
+    "ALL_UNTAG_SUCCESS_one": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Token",
+    "ALL_UNTAG_SUCCESS_two": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
+    "ALL_UNTAG_SUCCESS_other": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
+    "ALL_TAG_SUCCESS_zero": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
+    "ALL_TAG_SUCCESS_one": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
+    "ALL_TAG_SUCCESS_few": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
+    "ALL_TAG_SUCCESS_other": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
+    "TAG_NO_TOKEN_FOUND": "Aucun Version Tokens n'a été trouvé avec le tag `{{arg}}`",
+    "ALL_TAG_SUCCESS_two": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
+    "ALL_UNTAG_SUCCESS_few": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens"
 }

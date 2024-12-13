@@ -26,7 +26,7 @@
     "ALL_UNTAG_SUCCESS_few": "Successfully removed the `{{tagName}}` tag from **{{count}}** Version Tokens",
     "ALL_UNTAG_SUCCESS_other": "Successfully removed the `{{tagName}}` tag from **{{count}}** Version Tokens",
     "ALL_TAG_SUCCESS_zero": "Successfully tagged **{{count}}** Version Tokens as `{{tagName}}`",
-    "ALL_TAG_SUCCESS_one": "Successfully tagged **{{count}}** Version Tokens as `{{tagName}}`",
+    "ALL_TAG_SUCCESS_one": "Successfully tagged **{{count}}** Version Token as `{{tagName}}`",
     "ALL_TAG_SUCCESS_two": "Successfully tagged **{{count}}** Version Tokens as `{{tagName}}`",
     "ALL_TAG_SUCCESS_few": "Successfully tagged **{{count}}** Version Tokens as `{{tagName}}`",
     "ALL_TAG_SUCCESS_other": "Successfully tagged **{{count}}** Version Tokens as `{{tagName}}`"
