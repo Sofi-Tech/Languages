@@ -26,5 +26,8 @@
     "ALL_TAG_SUCCESS_zero": "**{{count}}** Version Tokens успешно отмечены как `{{tagName}}`",
     "ALL_TAG_SUCCESS_one": "**{{count}}** Version Token успешно отмечены как `{{tagName}}`",
     "TAG_NO_TOKEN_FOUND": "Не удалось найти Version Token с отметкой `{{arg}}`",
-    "ALL_UNTAG_SUCCESS_few": "Отметка `{{tagName}}` успешно удалена с **{{count}}** Version Tokens"
+    "ALL_UNTAG_SUCCESS_few": "Отметка `{{tagName}}` успешно удалена с **{{count}}** Version Tokens",
+    "ALL_TAG_SUCCESS_two": "**{{count}}** Version Tokens успешно отмечены как `{{tagName}}`",
+    "ALL_TAG_SUCCESS_few": "**{{count}}** Version Tokens успешно отмечены как `{{tagName}}`",
+    "ALL_TAG_SUCCESS_other": "**{{count}}** Version Tokens успешно отмечены как `{{tagName}}`"
 }
