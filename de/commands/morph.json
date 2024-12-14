@@ -29,5 +29,6 @@
     "ROLL_MORPH": "Der Morph wird nach 2 Minuten verschwinden",
     "CANNOT_APPLY_3D": "{{author}} Du kannst {{article}} **{{eventType}} Morph nicht auf **3D** Karten anwenden",
     "EC_REROLL_COST": "Jede 5 Versuche kosten 1 Energy Crystal",
-    "MORPH_CURRENT_ROLLS": "Derzeitige Versuche: **{{count}}/5**"
+    "MORPH_CURRENT_ROLLS": "Derzeitige Versuche: **{{count}}/5**",
+    "CANNOT_MORPH_BANNER": "{{author}} Der angegebene **Banner** Code ist entweder ungültig oder nicht in deiner Sammlung"
 }

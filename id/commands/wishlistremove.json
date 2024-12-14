@@ -1,8 +1,12 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Gunakan perintah ini untuk menghapus karakter dari wishlist anda",
+    "WISHLISTREMOVE_DESCRIPTION": "Gunakan perintah ini untuk menghapus karakter atau Versi dari daftar keinginan Anda",
     "CATEGORY": "Wishlist",
-    "NO_INDEX": "{{author}} Penggunaan yang benar: `{{prefix}}wr <Name/Number>`. Gunakan perintah `{{prefix}}wr full reset` untuk menghapus seluruh wishlist anda",
+    "NO_INDEX": "{{author}} Penggunaan yang benar: `{{prefix}}wr <NamaKarakter/Nomor>`. Gunakan perintah `{{prefix}}wr full reset` untuk membersihkan daftar keinginan Anda",
     "FULL_RESET": "{{author}} Berhasil menghapus semua karakter dari wishlist anda",
     "REMOVE_CHARACTER": "{{author}} Berhasil menghapus **{{name}}** dari wishlist anda",
-    "NO_RESULTS": "{{author}} Tidak ada karakter dengan nama `{{name}}` di wishlist anda"
+    "NO_RESULTS": "{{author}} Tidak ada karakter dengan nama `{{name}}` di wishlist anda",
+    "RESET_VT_NOTE": "{{author}} Gunakan `{{prefix}}wr full reset version tokens` untuk mereset daftar keinginan Token Versi Anda",
+    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Berhasil menghapus semua karakter dari daftar keinginan Token Versi Anda",
+    "REMOVE_VERSION_TOKEN": "{{author}} Berhasil menghapus **Versi {{version}}** dari **{{name}}** dari daftar keinginan Token Versi Anda",
+    "NO_INDEX_VT": "{{author}} Anda tidak dapat menggunakan indeks dengan **Versi {{version}}**"
 }

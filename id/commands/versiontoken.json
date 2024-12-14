@@ -15,8 +15,21 @@
     "EMBED_FOOTER": "Halaman: {{page}}/{{totalPages}} | Total Version Tokens: {{count}}",
     "SAVE_FILTER": "500 - Simpan Filter ini",
     "SELECT_FILTER": "Pilih Filter",
-    "FILTER_NO_VT_FOUND": "{{author}} Tidak bisa menemukan **Version Tokens** sesuai filter yang anda pilih",
+    "FILTER_NO_VT_FOUND": "{{author}} Tidak dapat menemukan **Version Tokens** yang cocok dengan filter yang Anda pilih. Gunakan perintah `{{prefix}}help filter` untuk mempelajari lebih lanjut tentang semua filter yang tersedia",
     "INVALID_SERIES": "Seri tidak valid",
     "SORT_CARD": "Kartu Dasar",
-    "SORT_VERSION": "Version"
+    "SORT_VERSION": "Version",
+    "ALL_TAG_SUCCESS_one": "Berhasil menandai Token Versi **{{count}}** sebagai `{{tagName}}`",
+    "ALL_TAG_SUCCESS_two": "Berhasil menandai Token Versi **{{count}}** sebagai `{{tagName}}`",
+    "ALL_TAG_SUCCESS_few": "Berhasil menandai Token Versi **{{count}}** sebagai `{{tagName}}`",
+    "ALL_TAG_SUCCESS_other": "Berhasil menandai Token Versi **{{count}}** sebagai `{{tagName}}`",
+    "ALL_UNTAG_SUCCESS_zero": "Berhasil menghapus tag `{{tagName}}` dari Token Versi **{{count}}**",
+    "ALL_UNTAG_SUCCESS_one": "Berhasil menghapus tag `{{tagName}}` dari Token Versi **{{count}}**",
+    "ALL_UNTAG_SUCCESS_two": "Berhasil menghapus tag `{{tagName}}` dari Token Versi **{{count}}**",
+    "ALL_UNTAG_SUCCESS_few": "Berhasil menghapus tag `{{tagName}}` dari Token Versi **{{count}}**",
+    "ALL_UNTAG_SUCCESS_other": "Berhasil menghapus tag `{{tagName}}` dari Token Versi **{{count}}**",
+    "ALL_TAG_SUCCESS_zero": "Berhasil menandai Token Versi **{{count}}** sebagai `{{tagName}}`",
+    "TAG_NO_TOKEN_FOUND": "Tidak dapat menemukan Token Versi dengan tag `{{arg}}`",
+    "ALL_UNTAG_SUCCESS_many": "Berhasil menghapus tag `{{tagName}}` dari Token Versi **{{count}}**",
+    "ALL_TAG_SUCCESS_many": "Berhasil menandai Token Versi **{{count}}** sebagai `{{tagName}}`"
 }

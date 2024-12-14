@@ -6,6 +6,8 @@
     "ADD_CHARACTERS_ERROR": "{{author}} Bạn không thể thêm nhân vật nào vào danh sách yêu thích của bạn nữa",
     "SEARCH_CHARACTER_ERROR": "{{author}} Cách sử dụng đúng: `{{prefix}}wa <CharacterName>`",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** đã có trong danh sách yêu thích của bạn rồi",
-    "CHARACTER_ADDED": "{{author}} Đã thêm thành công **{{name}}** vào danh sách yêu thích của bạn",
-    "EMBED_TITLE": "SOFI: ADD TO WISHLIST"
+    "CHARACTER_ADDED": "{{author}} Đã thêm **{{name}}** vào danh sách yêu thích của bạn",
+    "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
+    "VERSION_ALREADY_EXISTS": "{{author}} Bạn đã có **Version {{version}}** của **{{name}}** trong danh sách yêu thích rồi",
+    "VERSION_ADDED": "{{author}} Đã thêm **Version {{version}}** của **{{name}}** vào danh sách Version Token yêu thích của bạn"
 }

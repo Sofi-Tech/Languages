@@ -29,5 +29,6 @@
     "MNC_REROLL_COST": "Cada sorteio custará 1 {{currencyName}}",
     "CANNOT_APPLY_3D": "{{author}} Você não pode aplicar morphs {{article}} **{{eventType}}** em cartas **3D**",
     "EC_REROLL_COST": "Cada 5 sorteios custam 1 Energy Crystal",
-    "MORPH_CURRENT_ROLLS": "Sorteios Atuais: **{{count}}/5**"
+    "MORPH_CURRENT_ROLLS": "Sorteios Atuais: **{{count}}/5**",
+    "CANNOT_MORPH_BANNER": "{{author}} O código do **Banner** que você forneceu é inválido ou não está na sua coleção"
 }

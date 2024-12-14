@@ -23,6 +23,6 @@
     "OUTBID_IN_AUCTION": "O seu lance no leilão foi superado pelo código [`{{code}}`]<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Seu lance - {{oldAmount}} {{oldItemEmoji}} | Novo lance - {{newAmount}} {{newItemEmoji}}\nLeilão termina em {{time}}",
     "APPEAL_ACCEPTED_FOOTER": "Apelo aceito por {{username}}",
     "APPEAL_DENIED_FOOTER": "Apelo rejeitado por {{username}}",
-    "BANNER_SUBMISSION_ACCEPTED": "**O banner submetido com o código** `{{bannerCode}}` **foi aprovado**.\n- Link: {{url}}\n> Recompensa de 3 Wists, 500 Silver e 500 Fan Points foram adicionadas ao seu inventário",
+    "BANNER_SUBMISSION_ACCEPTED": "**O banner submetido com o código** `{{bannerCode}}` **foi aprovado**.\n- Link: {{url}} ",
     "IC_REASON": "Motivo: {{reason}}"
 }

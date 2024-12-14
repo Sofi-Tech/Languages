@@ -8,7 +8,7 @@
     "PROFANE_GLOW_NAME": "{{author}} Tên **Glow** của bạn không được chứa từ ngữ tục tĩu hoặc từ ngữ xúc phạm",
     "EMBED_TITLE": "SOFI: GLOW NAME",
     "MISSING_ITEMS": "{{author}} Bạn không có đủ **{{currency}}** cho quá trình này",
-    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Đã đổi thành công tên **Glow** của bạn sang `{{newName}}`",
+    "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Đã đổi tên **Glow** của bạn sang `{{newName}}`",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gn <#GlowCode> <NewName>`",
     "GLOWNAME_CHANGE_CONFIRMATION": "Bạn có chắc muốn đổi tên **Glow** của bạn từ `{{oldName}}` sang `{{newName}}` không?",
     "GLOW_NAME_EXISTS": "{{author}} Tên đó đã được dùng cho một **Glow** khác"

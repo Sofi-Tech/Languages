@@ -18,5 +18,7 @@
     "SELECT_FILTER": "Pumili ng Filter",
     "USER_NO_TOKENS": "{{author}} Ang user na iyon ay wala pang kahit anong **Version Token**",
     "FILTER_NO_VT_FOUND": "{{author}} Walang mahanap na kahit anong **Version Token** na tumutugma sa iyong napiling filter",
-    "VERSIONTOKEN_DESCRIPTION": "Gamitin ang command na ito upang tingnan ang iyong koleksyon ng mga Version Token. Maaaring pagbukud-bukurin ang koleksyon ayon sa Pangalan, Gen, Wishlist, Mga Version"
+    "VERSIONTOKEN_DESCRIPTION": "Gamitin ang command na ito upang tingnan ang iyong koleksyon ng mga Version Token. Maaaring pagbukud-bukurin ang koleksyon ayon sa Pangalan, Gen, Wishlist, Mga Version",
+    "ALL_TAG_SUCCESS_many": "Matagumpay na na-tag ang **{{count}}** na mga Version Token bilang `{{tagName}}`",
+    "ALL_UNTAG_SUCCESS_many": "Matagumpay na naalis ang tag na `{{tagName}}` mula sa **{{count}}** na mga Version Token"
 }

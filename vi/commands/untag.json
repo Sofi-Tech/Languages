@@ -3,7 +3,7 @@
     "UT_CATEGORY": "Nhãn",
     "UT_EMPTY_COLLECTION": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
     "INVALID_CODE": "{{author}} Mã bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ thành công nhãn khỏi **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Đã gỡ thành công nhãn khỏi **{{count}}** mã",
+    "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ nhãn khỏi **{{cardName}}**",
+    "MULTIPLE_UNTAG": "{{author}} Đã gỡ nhãn khỏi **{{count}}** mã",
     "INVALID_CODE_MULTIPLE": "{{author}} Những mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
 }

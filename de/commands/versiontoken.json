@@ -18,5 +18,6 @@
     "SELECT_FILTER": "Wähle einen Filter",
     "FILTER_NO_VT_FOUND": "{{author}} Konnte keine **Version Tokens** passend zu deinen ausgewählten Filter finden",
     "VERSIONTOKEN_DESCRIPTION": "Benutze diesen Befehl um deine Sammlung an Version Tokens anzusehen. Die Sammlung kann nach Name, Gen, Wunschliste und Versions sortiert werden",
-    "USER_PRIVATE": "{{author}} Dieser Nutzer hat seine **Version Tokens** Sammlung auf privat gestellt"
+    "USER_PRIVATE": "{{author}} Dieser Nutzer hat seine **Version Tokens** Sammlung auf privat gestellt",
+    "TAG_NO_TOKEN_FOUND": "Es konnte kein Version Token mit dem Tag `{{arg}}` gefunden werden"
 }

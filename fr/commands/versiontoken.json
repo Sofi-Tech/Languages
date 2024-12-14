@@ -24,10 +24,12 @@
     "ALL_UNTAG_SUCCESS_two": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
     "ALL_UNTAG_SUCCESS_other": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
     "ALL_TAG_SUCCESS_zero": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
-    "ALL_TAG_SUCCESS_one": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
+    "ALL_TAG_SUCCESS_one": "**{{count}}** Version Token a été tag en tant que`{{tagName}}` avec succès",
     "ALL_TAG_SUCCESS_few": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
     "ALL_TAG_SUCCESS_other": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
     "TAG_NO_TOKEN_FOUND": "Aucun Version Tokens n'a été trouvé avec le tag `{{arg}}`",
     "ALL_TAG_SUCCESS_two": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès",
-    "ALL_UNTAG_SUCCESS_few": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens"
+    "ALL_UNTAG_SUCCESS_few": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
+    "ALL_UNTAG_SUCCESS_many": "Le tag `{{tagName}}` a été supprimé avec succès de **{{count}}** Version Tokens",
+    "ALL_TAG_SUCCESS_many": "**{{count}}** Version Tokens ont été tag en tant que`{{tagName}}` avec succès"
 }

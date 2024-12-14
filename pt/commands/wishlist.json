@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Usar este comando listará os personagens desejados pelo usuário. Para adicionar um personagem à sua lista de desejos, use o comando \"{{prefix}}wishlistadd\"",
+    "WISHLIST_DESCRIPTION": "Use este comando para exibir uma lista de desejos de personagens e Versions. Use o comando \"{{prefix}}wishlistadd\" para adicionar personagens ou Versions à sua lista de desejos.",
     "CATEGORY": "Lista de Desejos",
     "USER_NOT_FOUND": "{{author}} Não foi possível encontrar este usuário",
     "WISHLIST_PRIVATE": "{{author}} Esse usuário definiu sua lista de desejos como privada",
@@ -28,5 +28,9 @@
     "UPGRADE_EMBED_DESCRIPTION": "Você pode desbloquear até um máximo de 100 slots",
     "PAGE": "Copiar Página - {{page}}",
     "UPGRADE_MODAL_TITLE": "Aprimorar Lista de Desejos ({{size}} Slots)",
-    "WISHLIST_EMPTY_SELF": "{{author}} Sua lista de desejos está vazia"
+    "WISHLIST_EMPTY_SELF": "{{author}} Sua lista de desejos está vazia",
+    "VT_WISHLIST_EMPTY_SELF": "{{author}} Sua lista de desejos de Version Token está vazia",
+    "VT_WISHLIST_EMPTY": "{{author}} A lista de desejos de Version Token desse usuário está vazia",
+    "NO_CHARACTERS_FOUND": "Nenhum personagem encontrado na lista de desejos",
+    "CARDS_WISHLIST_BUTTON_LABEL": "Cartas"
 }
