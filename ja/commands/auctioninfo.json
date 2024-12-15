@@ -7,12 +7,12 @@
     "BID_MODAL_LABEL": "入札額",
     "BID_MODAL_TITLE": "オークションに入札する",
     "BID_MODAL_PLACEHOLDER": "入札額を入力してください",
-    "INVALID_BID_AMOUNT": "{{author}} 入札額は数字で入力してください",
-    "POSITIVE_NUMBER": "{{author}} 入札額は正の数で入力してください",
-    "MINIMUM_AMOUNT": "{{author}} このオークションには最低**{{amount}}** {{currencyEmoji}}の入札が必要です",
+    "INVALID_BID_AMOUNT": "入札額は数字で入力してください",
+    "POSITIVE_NUMBER": "入札額は正の数で入力してください",
+    "MINIMUM_AMOUNT": "このオークションには最低**{{amount}}** {{currencyEmoji}}の入札が必要です",
     "AUCTION_NOT_FOUND": "{{author}}そのオークションが見つかりませんでした",
-    "BID_SUCCESSFUL": "{{author}} 成功で**{{amount}}** {{emoji}}の入札を受け付けしました",
-    "NOT_ENOUGH_CURRENCY": "{{author}} {{emoji}}が足りません",
+    "BID_SUCCESSFUL": "**{{amount}}** {{emoji}}の入札を受け付が成功しました",
+    "NOT_ENOUGH_CURRENCY": "{{emoji}}が足りません",
     "AI_CURRENT": "現在の入札",
     "BID_SELECTION": "「{{prefix}}ai <オークションID>」コマンド使いまたは直下のメニューからオークションを選択してください",
     "EMBED_TITLE": "SOFI: AUCTION INFO",
@@ -20,5 +20,6 @@
     "YOUR_CHANCE": "当たり率",
     "BID_BUTTON_LABEL": "入札",
     "SERIES": "- シリーズ：",
-    "NAME": "- キャラ名："
+    "NAME": "- キャラ名：",
+    "AUCTION_ID_LABEL": "オークションID: {{id}}"
 }
