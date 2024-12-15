@@ -9,7 +9,7 @@
     "MORPH_CONFIRMATION": "Are you sure you want to morph your **{{characterName}}** card for **{{amount}}** {{currencyEmoji}} per roll?",
     "CANCELLED": "The process has been cancelled",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} **Monochrome 2023 3D** cards cannot be morphed",
-    "NOT_ENOUGH_SILVERS": "{{author}} You don't have enough **{{currency}}** for this process",
+    "NOT_ENOUGH_SILVERS": "You don't have enough **{{currency}}** for this process",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "BALANCE": "Balance: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Name: **{{name}}**",
