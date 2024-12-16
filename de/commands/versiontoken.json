@@ -31,5 +31,5 @@
     "ALL_TAG_SUCCESS_many": "Erfolgreich **{{count}}** Version Tokens als `{{tagName}}`getagged",
     "ALL_TAG_SUCCESS_two": "Erfolgreich **{{count}}** Version Tokens als `{{tagName}}`getagged",
     "ALL_TAG_SUCCESS_few": "Erfolgreich **{{count}}** Version Tokens als `{{tagName}}`getagged",
-    "ALL_UNTAG_SUCCESS_many": "Der Tag `{{tagName}}`wurde erfolgreich von **{{count}}** Version Tokens entfernt"
+    "ALL_UNTAG_SUCCESS_many": "Der Tag `{{tagName}}` wurde erfolgreich von **{{count}}** Version Tokens entfernt"
 }

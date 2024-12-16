@@ -6,7 +6,7 @@
     "CONTINUE": "SOFI: MORPH",
     "MORPH_CONFIRMATION": "Apakah Anda yakin ingin morph kartu **{{characterName}}** Anda sebesar **{{amount}}** {{currencyEmoji}} per roll?",
     "CANCELLED": "Proses telah dibatalkan",
-    "NOT_ENOUGH_SILVERS": "{{author}} Anda tidak memiliki cukup **{{currency}}** untuk proses ini",
+    "NOT_ENOUGH_SILVERS": "Anda tidak memiliki cukup **{{currency}}** untuk proses ini",
     "BALANCE": "Saldo: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Nama: **{{name}}**",
     "UNDO": "Morph yang sudah di roll: **{{count}}**",

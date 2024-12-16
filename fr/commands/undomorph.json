@@ -10,6 +10,6 @@
     "UM_CONFIRMATION": "Êtes-vous sûr(e) de vouloir retirer le morph de cette carte pour **{{count}}** {{currencyEmoji}}?",
     "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
     "SOMETHING_WENT_WRONG": "{{author}} Une erreur s'est produite, veuillez réessayer",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de **{{currency}}** pour ce processus",
+    "NOT_ENOUGH_SILVERS": "Vous n'avez pas assez de **{{currency}}** pour ce processus",
     "UM_SUCCESSFUL": "{{author}} Le morph de cette carte a été retiré avec succès"
 }

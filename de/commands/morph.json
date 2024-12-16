@@ -6,7 +6,7 @@
     "CONTINUE": "SOFI: MORPH",
     "MORPH_CONFIRMATION": "Bist du sicher, dass du deine **{{characterName}}** Karte für **{{amount}}** {{currencyEmoji}} pro Versuch morphen möchtest?",
     "CANCELLED": "Der Vorgang wurde abgebrochen",
-    "NOT_ENOUGH_SILVERS": "{{author}} Du hast nicht genügend **{{currency}}** für diesen Vorgang",
+    "NOT_ENOUGH_SILVERS": "Du hast nicht genügend **{{currency}}** für diesen Vorgang",
     "BALANCE": "Restbetrag: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Name: **{{name}}**",
     "UNDO": "Morph Versuche: **{{count}}**",

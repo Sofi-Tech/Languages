@@ -17,6 +17,19 @@
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
     "SAVE_FILTER": "500 - Salve esse Filtro",
     "SELECT_FILTER": "Selecione um Filtro",
-    "FILTER_NO_VT_FOUND": "{{author}} Não foi possível encontrar nenhum **Version Token** correspondente ao filtro selecionado",
-    "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Version Tokens Totais: {{count}}"
+    "FILTER_NO_VT_FOUND": "{{author}} Não foi possível encontrar nenhum **Version Token** correspondente ao filtro selecionado. Use o comando `{{prefix}}help filter` para saber mais sobre todos os filtros disponíveis",
+    "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Version Tokens Totais: {{count}}",
+    "ALL_UNTAG_SUCCESS_zero": "A tag `{{tagName}}` foi removida com sucesso dos **{{count}}** Version Tokens",
+    "ALL_TAG_SUCCESS_other": "**{{count}}** Version Tokens marcados com sucesso como `{{tagName}}`",
+    "TAG_NO_TOKEN_FOUND": "Não foi possível encontrar nenhum Version Token com a tag `{{arg}}`",
+    "ALL_UNTAG_SUCCESS_one": "A tag `{{tagName}}` foi removida com sucesso do **{{count}}** Version Token",
+    "ALL_UNTAG_SUCCESS_few": "A tag `{{tagName}}` foi removida com sucesso dos **{{count}}** Version Tokens",
+    "ALL_UNTAG_SUCCESS_other": "A tag `{{tagName}}` foi removida com sucesso dos **{{count}}** Version Tokens",
+    "ALL_TAG_SUCCESS_zero": "**{{count}}** Version Tokens marcados com sucesso como `{{tagName}}`",
+    "ALL_TAG_SUCCESS_two": "**{{count}}** Version Tokens marcados com sucesso como `{{tagName}}`",
+    "ALL_TAG_SUCCESS_many": "**{{count}}** Version Tokens marcados com sucesso como `{{tagName}}`",
+    "ALL_TAG_SUCCESS_one": "**{{count}}** Version Token marcado com sucesso como `{{tagName}}`",
+    "ALL_UNTAG_SUCCESS_two": "A tag `{{tagName}}` foi removida com sucesso dos **{{count}}** Version Tokens",
+    "ALL_UNTAG_SUCCESS_many": "A tag `{{tagName}}` foi removida com sucesso dos **{{count}}** Version Tokens",
+    "ALL_TAG_SUCCESS_few": "**{{count}}** Version Tokens marcados com sucesso como `{{tagName}}`"
 }

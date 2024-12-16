@@ -27,7 +27,7 @@
     "MORPH_CONFIRMATION": "Bạn có chắc chắn muốn morph thẻ ** {{characterName}} ** của mình với giá **{{amount}}** {{currencyEmoji}} mỗi lượt không?",
     "MORPH_DESCRIPTION": "Sử dụng lệnh này trên thẻ sẽ thay đổi diện mạo của thẻ theo nhiều cách bất ngờ",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} **Thẻ Monochrome 2023 3D** không thể được morph",
-    "NOT_ENOUGH_SILVERS": "{{author}} Bạn không có đủ **{{currency}}** cho quá trình này",
+    "NOT_ENOUGH_SILVERS": "Bạn không có đủ **{{currency}}** cho quá trình này",
     "CANNOT_APPLY_3D": "{{author}} Bạn không thể áp dụng {{article}} **{{eventType}}** morph trên thẻ 3D",
     "MORPH_CURRENT_ROLLS": "Lượt Quay Hiện Tại: **{{count}}/5**",
     "EC_REROLL_COST": "Mỗi 5 lượt quay tốn 1 Energy Crystal",

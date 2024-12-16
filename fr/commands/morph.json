@@ -6,7 +6,7 @@
     "CONTINUE": "SOFI: MORPH",
     "MORPH_CONFIRMATION": "Êtes-vous sûr(e) de vouloir morph votre carte **{{characterName}}** pour **{{amount}}** {{currencyEmoji}} par roll?",
     "CANCELLED": "Le processus a été annulé",
-    "NOT_ENOUGH_SILVERS": "{{author}} Vous n'avez pas assez de **{{currency}}** pour ce processus",
+    "NOT_ENOUGH_SILVERS": "Vous n'avez pas assez de **{{currency}}** pour ce processus",
     "BALANCE": "Solde: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Nom: **{{name}}**",
     "UNDO": "Morphs roll: **{{count}}**",
