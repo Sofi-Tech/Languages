@@ -1,5 +1,5 @@
 {
-    "VIEW_DESCRIPTION": "Ang command na ito ay nagpapakita ng biswal na itsura ng isang tinutukoy na kard. Gamitin ang command na ito nang walang code ng kard upang sa halip, ay ipakita ang huling nakuhang kard",
+    "VIEW_DESCRIPTION": "Ang command na ito ay nagpapakita ng biswal na itsura ng isang tinutukoy na kard. Kung ito'y ginamit ng walang kard code, ipapakita nito ang pinakabagong kard na nakuha. Maaari mong gamitin ang mga button upang makita ang stats, baguhin ang font, gawing 3D ang kard, o i-morph ito.",
     "SLASH_DESC1": "Ilagay ang code ng kard",
     "INVALID_CODE": "{{author}} Ang code ng kard na iyon ay hindi tama",
     "SERIES": "Serye:",
@@ -13,5 +13,8 @@
     "SPECIAL": "Espesyal",
     "INFO_BUTTON_LABEL": "Impormasyon",
     "BASE_STAT_FOOTER": "Kabuuang Base Stat  •  {{totalBaseStat}}",
-    "ENTER_VALID_ANGLE": "Mangyaring maglagay ng tamang anggulo sa pagitan ng **1** at **360** degrees"
+    "ENTER_VALID_ANGLE": "Mangyaring maglagay ng tamang anggulo sa pagitan ng **1** at **360** degrees",
+    "NEED_SILVER_MORPH": "Kailangan mo ng kahit **1 Silver** upang magamit ang feature ng ito",
+    "MORPH_MODAL_LABEL": "Ilagay ang anggulo para sa morph",
+    "MORPH_MODAL_PLACEHOLDER": "hal. 10"
 }

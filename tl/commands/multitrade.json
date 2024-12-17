@@ -1,7 +1,7 @@
 {
     "MULTITRADE_DESCRIPTION": "Ang command na ito ay magpapadala ng kahilingan sa kalakalan sa ibang manlalaro na iyong pinili. Kapag tinanggap nila ang kahilingan, papayagan ng embed ang parehong mga manlalaro na magsumite ng maraming kard at mga aytem nang sabay-sabay. Kapag ang magkabilang panig ay naka-lock sa kanilang pagpili at sumang-ayon sa kalakalan, ang mga nilalaman ng magkasalungat na trade window ay idaragdag sa iyong account",
     "MENTION_USER": "{{author}} Tamang paggamit: `{{prefix}}mt <@User/UserID>`",
-    "IN_TRADE": "{{user}} Nagpadala ka na ng kahilingan sa kalakalan sa ibang manlalaro! Kailangan munang kanselahin ang kahilingang iyon bago magsimula ng panibago",
+    "IN_TRADE": "{{user}} Nagpadala ka na ng kahilingan sa kalakalan sa ibang manlalaro! Mangyaring kanselahin muna ang kahilingang iyon bago magsimula ng panibago.",
     "BOT_TRADE": "{{author}} Ikaw ay hindi maaaring makipag-palitan sa isang `BOT`",
     "SELF_TRADE": "{{author}} Ikaw ay hindi maaaring makipag-palitan sa iyong sarili",
     "NOT_REGISTERED": "{{author}} Ang user na iyon ay hindi nakarehistro",

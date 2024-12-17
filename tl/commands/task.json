@@ -1,7 +1,7 @@
 {
     "TASK_CATEGORY": "Konpigurasyon",
     "STREAK_FOOTER": "Streak [ {{count}} ]",
-    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Monthly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Bumoto sa [Top.gg](https://top.gg/bot/853629533855809596) ng 50 na beses sa isang buwan - {{votePoints}}/50",
+    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Monthly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Mag-Vote ng 50 na beses sa [Top.gg](https://top.gg/bot/853629533855809596) - {{votePoints}}/50 \n<:curvedline:979665878503272478> Magsunog ng 150 na mga kard - {{burnPoints}}/150",
     "QUESTS_HEADER": "### 🐉 __**Quests**__ (Resets {{time}})",
     "NOT_ON_QUEST": "<:xstatusred:895546340367548486> Kasalukuyang wala sa quest",
     "LIFETIME_POINTS": "Panghabang-buhay na Puntos",
@@ -72,5 +72,7 @@
     "EMBED_TITLE_two": "Task ({{count}} Point)",
     "EMBED_TITLE_other": "Task ({{count}} Points)",
     "EMBED_TITLE_zero": "Task ({{count}} Points)",
-    "EMBED_TITLE_many": "Task ({{count}} Points)"
+    "EMBED_TITLE_many": "Task ({{count}} Points)",
+    "GOT_ENERGY_CRYSTAL": "\nNakakuha ka ng **Energy Crystal**! <a:energizedcrystal:1309915757026738178>",
+    "RARE_MATERIAL_SPOTTED": "⚠️ **May mga rare na materyal ang nakita**"
 }

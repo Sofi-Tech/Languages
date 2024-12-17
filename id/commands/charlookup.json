@@ -41,5 +41,5 @@
     "MINIMUM_POINTS": "Anda harus menambahkan setidaknya 1000 Poin Penggemar untuk ditampilkan di papan peringkat",
     "CL_PRICE": "**Harga**: {{amount}} {{emoji}}",
     "CL_CREDITS": "**Credits**: {{credits}}",
-    "CL_FORCE_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}cl -f <NamaKarakter>`"
+    "CL_FORCE_CORRECT_USAGE": "{{author}} Penggunaan yang benar: `{{prefix}}cl -f <CharacterName>`"
 }

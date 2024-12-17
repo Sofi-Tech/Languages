@@ -4,7 +4,7 @@
     "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging sensitibo sa case ang function!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Isinumite ni** <@{{userID}}>",
-    "EMBED_FOOTER": "Ikaw ay maaaring magsumite ng mga bagong Version gamit ang {{prefix}}sc command",
+    "EMBED_FOOTER": "Ikaw ay maaaring magsumite ng mga bagong Version gamit ang \"{{prefix}}sc\" na command",
     "MORE": "Pumili ng Opsyon",
     "GIF_LABEL": "GIF",
     "SERIES": "Serye:",

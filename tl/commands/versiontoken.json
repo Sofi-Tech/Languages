@@ -17,8 +17,19 @@
     "SAVE_FILTER": "500 - I-save ang Filter",
     "SELECT_FILTER": "Pumili ng Filter",
     "USER_NO_TOKENS": "{{author}} Ang user na iyon ay wala pang kahit anong **Version Token**",
-    "FILTER_NO_VT_FOUND": "{{author}} Walang mahanap na kahit anong **Version Token** na tumutugma sa iyong napiling filter",
+    "FILTER_NO_VT_FOUND": "{{author}} Walang mahanap na kahit anong **Version Token** na tumutugma sa iyong napiling filter. Gamitin ang `{{prefix}}help filter` na command upang malaman ang lahat ng mga available na filter",
     "VERSIONTOKEN_DESCRIPTION": "Gamitin ang command na ito upang tingnan ang iyong koleksyon ng mga Version Token. Maaaring pagbukud-bukurin ang koleksyon ayon sa Pangalan, Gen, Wishlist, Mga Version",
     "ALL_TAG_SUCCESS_many": "Matagumpay na na-tag ang **{{count}}** na mga Version Token bilang `{{tagName}}`",
-    "ALL_UNTAG_SUCCESS_many": "Matagumpay na naalis ang tag na `{{tagName}}` mula sa **{{count}}** na mga Version Token"
+    "ALL_UNTAG_SUCCESS_many": "Matagumpay na tinanggal ang `{{tagName}}` na tag mula sa **{{count}}** na mga Version Token",
+    "ALL_UNTAG_SUCCESS_zero": "Matagumpay na tinanggal ang `{{tagName}}` na tag mula sa **{{count}}** na mga Version Token",
+    "ALL_UNTAG_SUCCESS_one": "Matagumpay na tinanggal ang `{{tagName}}` na tag mula sa **{{count}}** na Version Token",
+    "ALL_UNTAG_SUCCESS_two": "Matagumpay na tinanggal ang `{{tagName}}` na tag mula sa **{{count}}** na mga Version Token",
+    "ALL_UNTAG_SUCCESS_few": "Matagumpay na tinanggal ang `{{tagName}}` na tag mula sa **{{count}}** na mga Version Token",
+    "ALL_UNTAG_SUCCESS_other": "Matagumpay na tinanggal ang `{{tagName}}` na tag mula sa **{{count}}** na mga Version Token",
+    "ALL_TAG_SUCCESS_zero": "Matagumpay na nai-tag ang **{{count}}** na mga Version Token bilang `{{tagName}}`",
+    "ALL_TAG_SUCCESS_one": "Matagumpay na nai-tag ang **{{count}}** na Version Token sa`{{tagName}}`",
+    "ALL_TAG_SUCCESS_two": "Matagumpay na nai-tag ang **{{count}}** na mga Version Token bilang `{{tagName}}`",
+    "TAG_NO_TOKEN_FOUND": "Walang mahanap na kahit anong Version Token na may tag na `{{arg}}`",
+    "ALL_TAG_SUCCESS_other": "Matagumpay na nai-tag ang **{{count}}** na mga Version Token bilang `{{tagName}}`",
+    "ALL_TAG_SUCCESS_few": "Matagumpay na nai-tag ang **{{count}}** na mga Version Token bilang `{{tagName}}`"
 }

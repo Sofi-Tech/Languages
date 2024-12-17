@@ -2,7 +2,7 @@
     "WISHLISTADD_DESCRIPTION": "Verwende diesen Befehl, um deiner persönlichen Wunschliste einen Charakter hinzuzufügen.Du kannst auch spezifische Versions von Charakteren mit dem Befehl \"{{prefix}}wa<VersionNummer> <CharakterName>\" hinzufügen. Mit dieser Aktion geht kein direkter Nutzen oder Vorteil einher.",
     "CATEGORY": "Wunschliste",
     "ADD_CHARACTERS_ERROR": "{{author}} Du kannst deiner Wunschliste keine weiteren Charaktere hinzufügen",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Korrekte Verwendung: `{{prefix}}wa <CharacterName>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Korrekte Verwendung: `{{prefix}}wa <CharakterName>`",
     "NO_CHARACTER_FOUND": "{{author}} Dieser Charakter konnte nicht gefunden werden. Verwende den Befehl `{{prefix}}wa -f <Name>` für eine genaue Suche",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ist bereits auf deiner Wunschliste",
     "CHARACTER_ADDED": "{{author}} **{{name}} ** wurde erfolgreich deiner Wunschliste hinzugefügt",

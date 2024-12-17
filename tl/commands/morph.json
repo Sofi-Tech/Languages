@@ -6,7 +6,7 @@
     "CONTINUE": "SOFI: MORPH",
     "MORPH_CONFIRMATION": "Sigurado ka bang gusto mong i-morph ang iyong **{{characterName}}** na kard para sa **{{amount}}** {{currencyEmoji}} bawat roll?",
     "CANCELLED": "Ang proseso ay nakansela",
-    "NOT_ENOUGH_SILVERS": "{{author}} Wala kang sapat na **{{currency}}** para sa prosesong ito",
+    "NOT_ENOUGH_SILVERS": "Wala kang sapat na **{{currency}}** para sa prosesong ito",
     "BALANCE": "Balanse: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Pangalan: **{{name}}**",
     "UNDO": "Mga morph na na-roll: **{{count}} **",
@@ -29,5 +29,7 @@
     "ROLL_MORPH": "Ang morph na ito ay mawawala pagkalipas ng 2 minuto",
     "SMR_REROLL_COST": "Ang bawat roll ay magkakahalaga ng 500 {{currencyName}}",
     "CANNOT_APPLY_3D": "{{author}} Hindi ka pwedeng maglagay ng {{article}} **{{eventType}}** na morph sa mga **3d** na kard",
-    "CANNOT_MORPH_BANNER": "{{author}} Ang code ng **Banner** na iyong binigay ay maaaring hindi Tama o wala sa iyong koleksyon"
+    "CANNOT_MORPH_BANNER": "{{author}} Ang code ng **Banner** na iyong binigay ay maaaring hindi Tama o wala sa iyong koleksyon",
+    "MORPH_CURRENT_ROLLS": "Kasalukuyang Rolls: **{{count}}/5**",
+    "EC_REROLL_COST": "Ang bawat 5 rolls ay nagkakahalaga ng 1 Energy Crystal"
 }
