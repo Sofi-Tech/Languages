@@ -7,5 +7,7 @@
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ya está en tu lista de deseados",
     "CHARACTER_ADDED": "{{author}} Se ha añadido con éxito a **{{name}}** a tu lista de deseados",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Desbloquea más espacios usando el comando `{{prefix}}wl` y presionando el icono {{emoji}}"
+    "INCREASE_CAPACITY": "Desbloquea más espacios usando el comando `{{prefix}}wl` y presionando el icono {{emoji}}",
+    "VERSION_ADDED": "{{author}} Se agrego **Version {{version}}** de **{{name}}** a tu lista de deseos de Version Token con exito",
+    "VERSION_ALREADY_EXISTS": "{{author}} Ya tienes **Version {{version}}** de **{{name}}** en tu lista de deseos de Version Token"
 }

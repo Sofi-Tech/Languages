@@ -28,5 +28,9 @@
     "NOT_ENOUGH_CURRENCY": "No tienes suficientes **{{currency}}**",
     "UPGRADE_MODAL_LABEL": "Estás seguro?",
     "UPGRADE_EMBED_DESCRIPTION": "Puedes desbloquear hasta un máximo de 100 espacios",
-    "UPGRADE_MODAL_TITLE": "Mejorar Wishlist ({{size}} Espacios)"
+    "UPGRADE_MODAL_TITLE": "Mejorar Wishlist ({{size}} Espacios)",
+    "VT_WISHLIST_EMPTY_SELF": "{{author}} Tu lista de deseos de Version Token esta vacia",
+    "CARDS_WISHLIST_BUTTON_LABEL": "Cartas",
+    "NO_CHARACTERS_FOUND": "No se encontraron personajes en la lista de deseos",
+    "VT_WISHLIST_EMPTY": "{{author}} La lista de deseos de Version Token de ese usuario esta vacia"
 }

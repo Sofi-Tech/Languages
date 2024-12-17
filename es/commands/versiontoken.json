@@ -18,5 +18,6 @@
     "EMBED_FOOTER": "Mostrando página: {{page}}/{{totalPages}} | Total de Version Tokens: {{count}}",
     "SAVE_FILTER": "500 - Guardar este Filtro",
     "SELECT_FILTER": "Selecciona un Filtro",
-    "USER_PRIVATE": "{{author}} La colección de **Version Tokens** de ese usuario es privada"
+    "USER_PRIVATE": "{{author}} La colección de **Version Tokens** de ese usuario es privada",
+    "ALL_TAG_SUCCESS_many": "Se ha marcado correctamente **{{count}}** Ficha de versión como `{{tagName}}`"
 }
