@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "يمكنك البحث عن شخصية معينة باستخدام أمر 'scl'. في قائمة البحث عن الشخصية ، يمكنك التحقق من إحصائيات البطاقة ، وصورهم ثلاثية الأبعاد والمتحركة , و Gen والمعجبين ومعرف البطاقة.\nمعرف البطاقة مطلوب عند اضافة صور جديدة للاصدارات",
+    "CHARLOOKUP_DESCRIPTION": "يمكنك البحث عن شخصية معينة باستخدام أمر 'scl' في قائمة البحث عن الشخصية ، يمكنك التحقق من إحصائيات البطاقة ، وصورهم ثلاثية الأبعاد أو المتحركة , و Gen والمعجبين ومعرف البطاقات.\nمعرف البطاقة مطلوب عند اضافة صور جديدة للاصدارات",
     "CHAR_NOT_FOUND": "{{author}} لا يمكن العثور على شخصية باسم `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} لم يتم العثور على شخصية باسم {{arg}}\nملاحظة: علامة `-f` حساسة لوضعية الحرف",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -29,12 +29,13 @@
     "NO_GIF_OWNER_FOUND": "لا يوجد مالكين GIF",
     "NOT_AVAILABLE": "اسم سلسلة غير صالح",
     "MORE_INFO_LABEL": "حدد اختيارا",
-    "FAN_PTS_ADDED_other": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
+    "FAN_PTS_ADDED_other": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "FAN_PTS_ADDED_zero": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "EXAMPLE_INFO": "الطريقة الصحيحة: <الكمية><العملة>",
-    "FAN_PTS_ADDED_one": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
-    "FAN_PTS_ADDED_two": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
-    "FAN_PTS_ADDED_few": "تم اضافة **{{count}}** نقطة الى {{characterName}}\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
+    "FAN_PTS_ADDED_one": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
+    "FAN_PTS_ADDED_two": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
+    "FAN_PTS_ADDED_few": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
-    "CL_PRICE": "**السعر**: {{amount}}{{emoji}}"
+    "CL_PRICE": "**السعر**: {{amount}}{{emoji}}",
+    "MINIMUM_POINTS": "يجب عليك اضافة 1000 نقطة على الأقل لتظهر على قائمة المعجبين"
 }

@@ -1,1 +1,13 @@
-{}
+{
+    "EXTRA_GRAB": "{{user}}您的额外**Grab**正被使用。您还剩下**{{remaining}}**",
+    "GRAB_COOLDOWN": "{{user}}请等待 **{{cooldown}}** 后在拿另一张卡",
+    "CANNOT_BE_GRABBED": "{{user}}卡片已不能被**领**",
+    "CARDS_DROPPED_BY": "{{user}}已**产生**卡片",
+    "GRAB_CARD_PLURAL": "{{winner}}击退**{{userCount}}**位玩家、**拿到****{{character}}**卡片（`{{code}}`）|{{elementEmoji}}**{{elementName}}**{{eventCardInfo}}",
+    "TOOK_VERSION": "{{winner}}**拿到****{{character}}**Version token（`{{code}}`）|{{elementEmoji}}**{{elementName}}**[**V{{version}}**]\n请使用`{{prefix}}vt`命令来查看此 Version Token",
+    "NOT_ALLOWED_TO_GRAB": "你已被列入黑名单或被隔离或未注册，无法领取此卡",
+    "GRAB_CARD": "{{winner}}击败了{{user}}、**拿到****{{character}}**卡片（`{{code}}`）|{{elementEmoji}}**{{elementName}}**{{eventCardInfo}}",
+    "TOOK_CARD": "{{user}}**拿到****{{character}}**卡片（`{{code}}`）|{{elementEmoji}}**{{elementName}}**{{eventCardInfo}}",
+    "GRAB_VERSION_PLURAL": "{{winner}}击退**{{userCount}}**位玩家、**拿到****{{character}}**Version token（`{{code}}`）|{{elementEmoji}}**{{elementName}}**[**V{{version}}**]\n请使用`{{prefix}}vt`命令来查看此 Version Token",
+    "GRAB_VERSION": "{{winner}}击退{{user}}、**拿到****{{character}}**Version token（`{{code}}`）|{{elementEmoji}}**{{elementName}}**[**V{{version}}**]\n请使用`{{prefix}}vt`命令来查看此 Version Token"
+}

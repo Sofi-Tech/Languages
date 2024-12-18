@@ -1,8 +1,11 @@
 {
     "WISHLISTREMOVE_DESCRIPTION": "Usa este comando para eliminar un personaje de tu lista de deseados",
     "CATEGORY": "Lista de deseados",
-    "NO_INDEX": "{{author}} Uso correcto: `{{prefix}}wr <Nombre/Número>`. Usa el comando `{{prefix}}wr full reset` para borrar toda tu lista de deseados",
+    "NO_INDEX": "{{author}} Uso correcto: `{{prefix}}wr <Nombre Del personaje/Número>`. Usa el comando `{{prefix}}wr full reset` para borrar toda tu lista de deseados",
     "FULL_RESET": "{{author}} Eliminados con éxito todos los personajes de tu lista de deseados",
     "REMOVE_CHARACTER": "{{author}} Se ha eliminado con éxito a **{{name}}** de tu lista de deseados",
-    "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseados"
+    "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseados",
+    "RESET_VT_NOTE": "{{author}} Usa `{{prefix}}wr full reset version tokens` Para reiniciar tu lista de deseados de fichas de versión",
+    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Se han eliminado con éxito todos los personajes de tu lista de deseados de Fichas de versión",
+    "REMOVE_VERSION_TOKEN": "{{author}} Se ha eliminado correctamente **Versión {{version}}** de **{{name}}** de tu lista de fichas de versión deseadas"
 }

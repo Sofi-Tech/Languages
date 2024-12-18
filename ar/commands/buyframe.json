@@ -1,5 +1,5 @@
 {
-    "BUYFRAME_DESCRIPTION": "‎‎اشترِ الإطار من المتجر",
+    "BUYFRAME_DESCRIPTION": "يستخدم هذا الأمر لشراء الإطارات من أمر \"{{prefix}}frameshop\"متيحا لك خيار شراء إيطارات رسمية، و مخصصة, و حزم الإطارات لبطاقاتك الثنائية الأبعاد.",
     "BF_CATEGORY": "المستحضرات التجميلية",
     "NO_FRAME_NAME": "{{author}}لقد نسيت تقديم اسم الإطار",
     "NO_FRAMECODE_FOUND": "{{author}} لا يوجد إطار يحمل رمز `{{name}}`",
@@ -9,5 +9,6 @@
     "YOU_GET": "ستحصل على:",
     "YOU_PAY": "ستدفع:",
     "NO_ENOUGH_AMOUNT": "{{author}}ليس لديك {{currency}} الكافي لشراء الإطار",
-    "TRANSACTION_SUCCESSFUL": "{{author}}اشترى {{frameName}} بنجاح"
+    "TRANSACTION_SUCCESSFUL": "{{author}}اشترى {{frameName}} بنجاح",
+    "PROCESS_CANCELLED": "تم إلغاء العملية"
 }
