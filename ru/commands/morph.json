@@ -6,7 +6,7 @@
     "CONTINUE": "SOFI: MORPH",
     "MORPH_CONFIRMATION": "Вы уверены, что хотите преобразовать вашу карту **{{characterName}}** за **{{amount}}** {{currencyEmoji}} за крутку?",
     "CANCELLED": "Процесс отменен",
-    "NOT_ENOUGH_SILVERS": "{{author}} У вас недостаточно **{{currency}}** для данного процесса",
+    "NOT_ENOUGH_SILVERS": "У вас недостаточно **{{currency}}** для данного процесса",
     "BALANCE": "Баланс: **{{amount}}** {{currencyEmoji}}",
     "NAME": "Название: **{{name}}**",
     "UNDO": "Преобразований прокручено: **{{count}}**",
