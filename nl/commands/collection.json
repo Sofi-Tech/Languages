@@ -27,12 +27,12 @@
     "NO_RESULTS_OTHERS": "{{author}} Die gebruiker heeft geen kaarten in hun collectie",
     "TAG_MODAL_LABEL": "Voer een tag in",
     "TAG_MODAL_TITLE": "Massa-Tag",
-    "ALL_UNTAG_SUCCESS_zero": "De `{{tagName}}` tag is met succes verwijderd van {{count}} kaarten",
-    "ALL_UNTAG_SUCCESS_one": "De `{{tagName}}` tag is met succes verwijderd van {{count}} kaart",
-    "ALL_UNTAG_SUCCESS_two": "De `{{tagName}}` tag is met succes verwijderd van {{count}} kaarten",
-    "ALL_UNTAG_SUCCESS_few": "De `{{tagName}}` tag is met succes verwijderd van {{count}} kaarten",
-    "ALL_UNTAG_SUCCESS_other": "De `{{tagName}}` tag is met succes verwijderd van {{count}} kaarten",
-    "ALL_UNTAG_SUCCESS_many": "De `{{tagName}}` tag is met succes verwijderd van {{count}} kaarten",
+    "ALL_UNTAG_SUCCESS_zero": "De `{{tagName}}` tag is met succes verwijderd van **{{count}}** kaarten",
+    "ALL_UNTAG_SUCCESS_one": "De `{{tagName}}` tag is met succes verwijderd van **{{count}}** kaart",
+    "ALL_UNTAG_SUCCESS_two": "De `{{tagName}}` tag is met succes verwijderd van **{{count}}** kaarten",
+    "ALL_UNTAG_SUCCESS_few": "De `{{tagName}}` tag is met succes verwijderd van **{{count}}** kaarten",
+    "ALL_UNTAG_SUCCESS_other": "De `{{tagName}}` tag is met succes verwijderd van **{{count}}** kaarten",
+    "ALL_UNTAG_SUCCESS_many": "De `{{tagName}}` tag is met succes verwijderd van **{{count}}** kaarten",
     "ALL_TAG_SUCCESS_zero": "Met succes **{{count}}** kaarten getagd als `{{tagName}}`",
     "ALL_TAG_SUCCESS_one": "Met succes **{{count}}** kaart getagd als `{{tagName}}`",
     "ALL_TAG_SUCCESS_two": "Met succes **{{count}}** kaarten getagd als `{{tagName}}`",
@@ -64,6 +64,6 @@
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "SAVED_FILTER": "Selecteer een Filter",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
-    "FILTER_NAME_EXISTS": "{{author}} De filter met naam {{filterName}} bestaat al",
-    "SERIES_COMPLETED": "Serie voltooid"
+    "FILTER_NAME_EXISTS": "De filter met naam`{{filterName}}` bestaat al",
+    "SERIES_COMPLETED": "Serie Voltooid"
 }
