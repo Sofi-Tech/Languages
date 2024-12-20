@@ -12,7 +12,7 @@
     "MOVES": "Khả Năng",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Sức Mạnh **({{percentage}}%)**",
     "SPECIAL": "Đặc biệt",
-    "BASE_STAT_FOOTER": "Tổng Chỉ Số Cơ Bản   •   {{totalBaseStat}}",
+    "BASE_STAT_FOOTER": "Tổng Chỉ Số Gốc   •   {{totalBaseStat}}",
     "MORPH_MODAL_LABEL": "Nhập góc để thực hiện morph",
     "ENTER_VALID_ANGLE": "Hãy nhập một góc hợp lệ từ **1** đến **360** độ",
     "MORPH_MODAL_PLACEHOLDER": "ví dụ. 10",

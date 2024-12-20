@@ -1,8 +1,8 @@
 {
     "EXTRA_GRAB": "{{user}} Uw extra **Grab** wordt gebruikt. U heeft **{{remaining}}** over",
-    "GRAB_EVENT_ITEM": "Een echte tulp krijger! {{winner}} beschermde {{amount}} 🌷 van  {{userCount}} spelers",
-    "EVENT_GRAB": "{{user}} heeft {{currencyEmoji}} **{{amount}}** **{{eventItem}}** geplukt voor de tuin",
-    "SNATCHED_EVENT_ITEM": "Goed gedaan! {{winner}} heeft {{amount}} tulpen afgepakt van <@{{userId}}>",
+    "GRAB_EVENT_ITEM": "",
+    "EVENT_GRAB": "",
+    "SNATCHED_EVENT_ITEM": "",
     "GRAB_CARD": "{{winner}} heeft gevochten met {{user}} en **pakte** de **{{character}}** kaart (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "CANNOT_BE_GRABBED": "{{user}} De kaarten hieronder kunnen niet meer **gepakt worden**",
     "GRAB_COOLDOWN": "{{user}} U moet nog **{{cooldown}}** wachten totdat u een nieuwe kaart kunt pakken",
