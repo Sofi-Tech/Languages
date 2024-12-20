@@ -1,5 +1,5 @@
 {
-    "BOOST_DESCRIPTION": "このコマンドでは埋め込みテキストで「Sofi Cafe 」というDiscordサーバーをブーストしたユーザーのランキングを表示する",
+    "BOOST_DESCRIPTION": "このコマンドは埋め込みテキストで「Sofi Cafe 」というDiscordのサーバーをブーストしたユーザーのランキングを表示する",
     "BOOST_CATEGORY": "設定",
     "EMBED_TITLE": "SOFI： ブースト | [{{lbInfo}}]総ブースト人",
     "EMBED_FOOTER": "サーバーブーストしたユーザーまたは寄付者が新キャラやキャラに3D化のリクエスト可能です。\nさらに「{{prefix}}userinfo」コマンド使用でユニークなサーバーロールや特別な色が可能で、コミュニティコマンドも使用できます！"

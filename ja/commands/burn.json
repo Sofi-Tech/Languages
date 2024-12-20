@@ -1,5 +1,5 @@
 {
-    "BURN_DESCRIPTION": "このコマンドはガードを燃やす代わりに「Silver」と「Cubes」を作ります。このアイテムはガードを3Dにするために必ず必要です。カードのコードを使わずにコマンドを使用すると一番最近手に入れたカードが燃やされます",
+    "BURN_DESCRIPTION": "このコマンドはガードを燃やす代わりに「Silver」と「Cubes」と交換されます。このアイテムはガードを3Dにするために必ず必要です。カードのコードを使わずにコマンドを使用すると一番最近手に入れたカードが燃やされます",
     "GUILDSTONE_BURN": "本当に**「Guild Stone」**を燃やしたいですか？",
     "GUILDSTONE_NOT_FOUND": "{{author}}**「Guild Stone」**を持っていません",
     "CANCELLED": "過程がキャンセルされました",
@@ -8,7 +8,7 @@
     "CARD_NOT_FOUND": "{{author}}このカードのコードが無効またはコレクションにありません",
     "CARD_LOCKED": "{{author}}このカードはロックされてるので燃やせません",
     "CARD_NOT_OWNED": "{{author}}そのカードはもうコレクションにありません",
-    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}}**「Guild Stone」**を成功で燃やしました",
+    "SUCCESSFUL_GUILDSTONE_BURN": "{{author}}**「Guild Stone」**を燃やすことに成功しました",
     "SERIES": "シリーズ：",
     "SUCCESSFUL_CARD_BURN": "{{author}} カードが成功で燃やしました",
     "EMBED_TITLE": "SOFI: BURN",
