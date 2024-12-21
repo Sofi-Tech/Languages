@@ -1,10 +1,10 @@
 {
-    "CATEGORY_DISABLED": "{{author}} هذه الفئة قد تم تعطيلها\n\nالسبب: `{{reason}}`",
+    "CATEGORY_DISABLED": "{{author}} هذه الفئة قد تم تعطيلها\nالسبب: `{{reason}}`",
     "VERIFY_BUTTON_LABEL": "تحقق",
     "SUPPORT_BUTTON_LABEL": "الدعم",
     "COMMAND_BLACKLISTED": "{{author}} أمر `{{commandName}}` مدرج في القائمة السوداء في هذه القناة",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] انتظر **{{cooldown}}** قبل استخدام هذا الأمر مرة أخرى",
-    "COMMAND_DISABLED": "{{author}} تم تعطيل هذا الأمر  \nالسبب: `{{reason}}`",
+    "COMMAND_DISABLED": "{{author}} تم تعطيل هذا الأمر\nالسبب: `{{reason}}`",
     "VERIFY_TO_PLAY": "[تحقق من نفسك على موقعنا للعب!](<https://sofi.gg/verify>)",
-    "SERVER_BLACKLISTED": "{{author}} تم إدراج الخادم في القائمة السوداء. يرجى الاتصال بنا على discord.gg/sofi"
+    "SERVER_BLACKLISTED": "{{author}} تم إدراج السيرفر في القائمة السوداء. يرجى الاتصال بنا على discord.gg/sofi"
 }

@@ -1,5 +1,5 @@
 {
-    "TAG_DESCRIPTION": "Gamit ang command na ito, maaari kang magtalaga ng tag sa isang card o Version Token. Ang mga tag ay isang kapaki-pakinabang na feature upang ikategorya at ipangkat ang maramihang mga code na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tagcreate\" upang lumikha ng mga tag",
+    "TAG_DESCRIPTION": "Gamit ang command na ito, maaari kang magtalaga ng tag sa isang kard o Version Token. Ang mga tag ay isang kapaki-pakinabang na feature upang ikategorya at ipangkat ang maramihang mga code na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tagcreate\" upang lumikha ng mga tag",
     "TAG_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}t <TagName> <Code>`",
     "NO_TAGS_CREATED": "{{author}} Wala ka pang kahit anong tag. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` upang makagawa",

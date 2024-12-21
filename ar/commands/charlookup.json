@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "يمكنك البحث عن شخصية معينة باستخدام أمر 'scl' في قائمة البحث عن الشخصية ، يمكنك التحقق من إحصائيات البطاقة ، وصورهم ثلاثية الأبعاد أو المتحركة , و Gen والمعجبين ومعرف البطاقات.\nمعرف البطاقة مطلوب عند اضافة صور جديدة للاصدارات",
+    "CHARLOOKUP_DESCRIPTION": "يمكنك البحث عن شخصية معينة باستخدام أمر 'scl' في قائمة البحث عن الشخصية ، يمكنك التحقق من إحصائيات البطاقة ، وصورهم ثلاثية الأبعاد أو المتحركة , و Gen والمعجبين ومعرف البطاقات.",
     "CHAR_NOT_FOUND": "{{author}} لا يمكن العثور على شخصية باسم `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} لم يتم العثور على شخصية باسم {{arg}}\nملاحظة: علامة `-f` حساسة لوضعية الحرف",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -14,7 +14,7 @@
     "GENERATED": "المولدات",
     "BURNED": "المحروقات",
     "VERSIONS": "Versions",
-    "TOP_FANS": "أعلى المعجبين",
+    "TOP_FANS": "لوحة المعجبين المتصدرين",
     "NO_FANS_FOUND": "\nليس لهذه الشخصية أي معجبين حاليا!",
     "CARD_ID": "رمز تعريف البطاقة:",
     "ENTER_AMOUNT": "أدخل المبلغ",
@@ -37,5 +37,9 @@
     "FAN_PTS_ADDED_few": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "تم اضافة **{{count}}** نقطة الى **{{characterName}}**\n(**{{currentPoints}}** ➜**{{previousPoints}}**) ✨",
     "CL_PRICE": "**السعر**: {{amount}}{{emoji}}",
-    "MINIMUM_POINTS": "يجب عليك اضافة 1000 نقطة على الأقل لتظهر على قائمة المعجبين"
+    "MINIMUM_POINTS": "يجب عليك اضافة 1000 نقطة على الأقل لتظهر على قائمة المعجبين",
+    "CL_FORCE_CORRECT_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}cl -f <اسم الشخصية>`",
+    "NO_VERSIONS_FOUND": "هذه الشخصية ليس لها أي إصدارات حتى الآن",
+    "VERSION_LB": "النسخة LB",
+    "CL_CREDITS": "**الرصيد**: {{credits}}"
 }
