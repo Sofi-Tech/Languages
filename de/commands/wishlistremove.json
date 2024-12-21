@@ -4,7 +4,7 @@
     "NO_INDEX": "{{author}} Korrekte Verwendung: `{{prefix}}wr <CharakterName/Nummer>`. Verwende den Befehl `{{prefix}}wr full reset` um deine Wunschliste zu leeren",
     "FULL_RESET": "{{author}} Alle Charaktere wurden erfolgreich von deiner Wunschliste entfernt",
     "REMOVE_CHARACTER": "{{author}} **{{name}}** wurde erfolgreich von deiner Wunschliste entfernt",
-    "NO_RESULTS": "{{author}} Es ist kein Charakter mit dem Namen `{{name}}` auf deiner Wunschliste",
+    "NO_RESULTS": "{{author}} Es ist kein Charakter mit dem Namen `{{name}}` in deiner Wunschliste",
     "RESET_VT_NOTE": "{{author}} Nutze `{{prefix}}wr full reset version tokens`, um deine Version Token Wunschliste zurückzusetzen",
     "REMOVE_ALL_VERSION_TOKEN": "{{author}} Alle Charaktere wurden erfolgreich von deiner Version Token Wunschliste entfernt",
     "REMOVE_VERSION_TOKEN": "{{author}} **Version {{version}}** von **{{name}}** wurde erfolgreich von deiner Version Token Wunschliste entfernt",
