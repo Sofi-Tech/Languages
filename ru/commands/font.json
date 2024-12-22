@@ -17,7 +17,7 @@
     "SAVE_MODAL_PLACEHOLDER": "Yes",
     "FONT_DESCRIPTION": "Вы можете использовать данную команду для применения Glow на текст карты, а также для переключения Gen, Имени или Серии",
     "COLOR_NAME": "Color Name",
-    "SELECT_MENU_PLACEHOLDER": "Выбрать шрифт",
+    "SELECT_MENU_PLACEHOLDER": "Выбрать стиль шрифта",
     "GLOW_MODAL_TITLE": "Код Glow: {{type}}",
     "GLOW_CODE_INVALID": "Указанный вами код **Glow** недействителен или не является частью вашего инвентаря",
     "NOT_ENOUGH_GEMS": "У вас недостаточно **Gems** для совершения данной покупки",
@@ -50,7 +50,7 @@
     "FONT_SERIES": "Серия",
     "FONT_NAME": "Имя",
     "FONT_GEN": "Gen",
-    "FONT_COLORS": "Цвета",
-    "FONT_TITLE": "Шрифт",
+    "FONT_COLORS": "Цвета шрифтов",
+    "FONT_TITLE": "Стиль шрифта",
     "NOT_CARD_OWNER": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции"
 }

@@ -1,5 +1,5 @@
 {
-    "BUYFRAME_DESCRIPTION": "このコマンドを使うと\"{{prefix}}frameshop\" コマンドで 2D カード用の公式、カスタム、およびパックフレームを購入できます",
+    "BUYFRAME_DESCRIPTION": "このコマンド\"{{prefix}}frameshop\"を使うとコマンドで 2D カード用の公式、カスタム、パックフレームを購入できます",
     "BF_CATEGORY": "コスメティック",
     "NO_FRAME_NAME": "{{author}} 購入したい**Frame**のコードを入力してください",
     "NO_FRAMECODE_FOUND": "{{author}} そのコード `{{name}}`の**Frame**は見つかりませんでした",
@@ -8,7 +8,7 @@
     "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "受け取る：",
     "YOU_PAY": "支払う：",
-    "NO_ENOUGH_AMOUNT": "{{author}} この購入には**{{currency}}**が不足しています",
+    "NO_ENOUGH_AMOUNT": "{{author}} この購入には**{{currency}}**が足りません",
     "PROCESS_CANCELLED": "変換操作がキャンセルされました",
     "TRANSACTION_SUCCESSFUL": "{{author}} **{{frameName}} ** **Frame** の購入に成功しました"
 }
