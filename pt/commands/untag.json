@@ -2,7 +2,7 @@
     "UNTAG_DESCRIPTION": "Use este comando para remover uma tag ou version token da sua carta. Se você quiser excluir uma tag inteira, você pode usar o comando \"{{prefix}}tagdelete\" em vez disso",
     "UT_CATEGORY": "Tags",
     "UT_EMPTY_COLLECTION": "{{author}} Você ainda não tem nenhuma carta em sua coleção",
-    "UNTAG_SUCCESSFUL": "{{author}} Removeu com sucesso a tag **{{cardName}}**",
+    "UNTAG_SUCCESSFUL": "{{author}} Removeu com sucesso a tag de **{{cardName}}**",
     "INVALID_CODE": "{{author}} Esse código de carta é inválido ou não está em sua coleção",
     "INVALID_CODE_MULTIPLE": "{{author}} Os seguintes códigos são inválidos ou não estão em sua coleção:\n{{invalidCodeList}}",
     "MULTIPLE_UNTAG": "{{author}} tag removida com sucesso de **{{count}}** cartas"
