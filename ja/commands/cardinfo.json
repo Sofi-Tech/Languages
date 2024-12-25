@@ -24,5 +24,6 @@
     "SOME_FRAME": "手が離せない",
     "CLAIM_AT": "\n落とされた:",
     "MORPHED": "変身させた",
-    "EMBED_AUTHOR": "SOFI:CARDINFO(レベル - {{level}})"
+    "EMBED_AUTHOR": "SOFI:CARDINFO(レベル - {{level}})",
+    "CARD_LAYERED": "**Layer** 適用: **{{layerName}}** (`{{layerCode}}`)\n"
 }

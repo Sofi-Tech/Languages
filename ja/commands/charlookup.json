@@ -37,5 +37,9 @@
     "FAN_PTS_ADDED_other": "{{author}} 追加が完了しました**{{count}}**ポイント**{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_two": "{{author}} 追加が完了しました**{{count}}**ポイント**{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_one": "{{author}} 追加が完了しました**{{count}}**ポイント**{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
-    "FAN_PTS_ADDED_many": "{{author}} 追加が完了しました**{{count}}**ポイント**{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨"
+    "FAN_PTS_ADDED_many": "{{author}} 追加が完了しました**{{count}}**ポイント**{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
+    "CL_FORCE_CORRECT_USAGE": "{{author}}正しい使い方:\n`{{prefix}}cl -f <キャラ名>`",
+    "CL_PRICE": "**価格**: {{amount}}{{emoji}}",
+    "CL_CREDITS": "**クレジット**: {{credits}}",
+    "MINIMUM_POINTS": "少なくとも1000ファンポイントを追加しないとリーダーボードに特集できません"
 }

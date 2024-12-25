@@ -4,5 +4,5 @@
     "SLASH_DESC2": "2つ目のコードを入力してください",
     "CORRECT_USAGE": "{{author}} 正しい使い方: `{{prefix}}cs <Code1> <Code2>`",
     "INVALID_CODES_PROVIDED": "{{author}} 提供されたカードコードのうち、少なくとも1つが無効か、コレクションにありません",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} 選択したカードのコードを正常に交換しました"
+    "SUCCESSFUL_CODE_SWAP": "{{author}} 選択したカードのコードの交換が成功しました"
 }
