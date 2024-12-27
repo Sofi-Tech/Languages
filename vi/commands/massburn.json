@@ -8,7 +8,7 @@
     "PROVIDE_FILTERS": "{{author}} Cách sử dụng đúng: `{{prefix}}mb <Filters>`\n```fix\nLưu ý: Lọc những thẻ bạn muốn đốt bằng cách áp dụng Gen/Tag/Wishlist. Bạn có thể tìm thấy toàn bộ danh sách bộ lọc bằng cách sử dụng lệnh \"{{prefix}}help filters\"\n```",
     "CARDS_BURNED": "__Thẻ Đã Chọn [ {{totalCards}} ]__",
     "EMBED_TITLE": "SOFI: MASSBURN",
-    "CONFIRM_ASK": "{{author}} Bạn chắc chắn muốn __hoàn toàn__ đốt các thẻ này?",
+    "CONFIRM_ASK": "{{author}} Bạn có chắc muốn __hoàn toàn__ đốt các thẻ này không?",
     "SUCCESS": "{{author}} Đã đốt các thẻ đã chọn",
     "MISSING_CARDS": "{{author}} Ít nhất một trong những thẻ bạn đã chọn không còn trong bộ sưu tập của bạn"
 }

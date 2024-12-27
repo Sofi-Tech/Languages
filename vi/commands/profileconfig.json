@@ -17,7 +17,7 @@
     "RG_MENU_LABEL": "Tải Lại Hồ Sơ GIF",
     "RG_MENU_DESC": "Tải lại hồ sơ GIF sau khi áp dụng thay đổi",
     "EG_MENU_LABEL": "Bật GIF - 100 Gem",
-    "CAN_MENU_LABEL": "Huỷ bỏ",
+    "CAN_MENU_LABEL": "Hủy bỏ",
     "PC_MENU_PLACEHOLDER": "Chọn một mục",
     "UNLOCK_GIF": "{{author}} Bạn có muốn sử dụng **{{amount}}** **{{currency}}** để mở khoá tính năng GIF?",
     "GIF_ENABLED": "Hồ sơ GIF đã được bật sẵn",
@@ -106,7 +106,7 @@
     "PURCHASE_RING_MODAL_LABEL": "Nhập ID Profile Ring",
     "RING_PURCHASE_MODAL_TITLE": "Mua Profile Ring",
     "PURCHASE_RING_MODAL_PLACEHOLDER": "ví dụ. 101",
-    "SET_RING_CONFIRM": "Bạn có chắc chắn muốn thiết lập **{{ringName}}** là Profile Ring không?",
+    "SET_RING_CONFIRM": "Bạn có chắc muốn thiết lập **{{ringName}}** là Profile Ring không?",
     "NO_ENOUGH_AMOUNT_RING": "Bạn không có đủ **{{currency}}** để mua **Profile Ring** này",
     "SELECT_FROM_OPTIONS": "{{charPages}}"
 }

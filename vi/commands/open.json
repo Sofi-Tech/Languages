@@ -9,7 +9,7 @@
     "CHEST_INFO": "Rương sự kiện có thể được mở ngay cả khi không có sự kiện đang diễn ra",
     "COMMON_INFO_1": "Bạn đã mở **{{totalChests}}** **{{chestName}}**",
     "EQUIP_EQUIPMENTS": "Sử dụng lệnh \"{{prefix}}stats <CardCode>\" để sử dụng các trang bị",
-    "GUILD_PACKAGE_PROMPT": "**__Danh Sách Thẻ Hiện Tại__**\n{{poolLine}}\n\nBạn có chắc chắn muốn mở gói này không?",
+    "GUILD_PACKAGE_PROMPT": "**__Danh Sách Thẻ Hiện Tại__**\n{{poolLine}}\n\nBạn có chắc muốn mở gói này không?",
     "SLASH_DESC_1": "Nhập vật phẩm bạn muốn mở",
     "SLASH_DESC_2": "Nhập số lượng",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}open <ItemName> <Amount>`",

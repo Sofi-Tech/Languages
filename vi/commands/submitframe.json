@@ -4,7 +4,7 @@
     "SUBMITFRAME_DESCRIPTION": "Sử dụng lệnh này để gửi một Frame tới Sofi, sau đó nhân viên xét duyệt của chúng tôi sẽ kiểm tra và xem xét đề xuất của bạn. Hãy chắc chắn đọc các yêu cầu cho quy trình này bằng cách sử dụng lệnh này một lần mà không cần tham số bổ sung",
     "SF_CATEGORY": "Cài đặt",
     "SF_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}sf <ImageURL> <FrameName>`",
-    "MAXIMUM_NAME_LENGTH": "{{author}} Tên của **Frame** chỉ có thể dài tối đa **25** ký tự",
+    "MAXIMUM_NAME_LENGTH": "{{author}} Tên **Frame** chỉ có thể dài tối đa **25** ký tự",
     "SF_PNG_ONLY": "{{author}} Liên kết gửi lên phải là một tệp `PNG`",
     "SF_VALID_DIMENSION": "{{author}} Hình ảnh gửi lên có kích thước không hợp lệ! `297x465`",
     "SF_EMBED_TITLE": "SOFI: FRAME SUBMISSION ({{name}})",
