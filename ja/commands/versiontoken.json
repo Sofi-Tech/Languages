@@ -1,4 +1,8 @@
 {
     "PLAYER_NOT_EXIST": "{{author}} そのユーザーはまだ登録されていません",
-    "USER_NOT_FOUND": "{{author}} 入力されたユーザーが見つけられませんでした"
+    "USER_NOT_FOUND": "{{author}} 入力されたユーザーが見つけられませんでした",
+    "CHOOSE_SORTING": "並べ方",
+    "SORT_CHAR": "名前",
+    "SORT_SERIES": "シリーズ",
+    "SORT_WL": "ウィッシュリスト"
 }
