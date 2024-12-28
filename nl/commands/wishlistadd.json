@@ -1,11 +1,13 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Gebruik dit commando om een karakter toe te voegen aan uw persoonlijke verlanglijst. Deze actie geeft u geen direct voordeel",
+    "WISHLISTADD_DESCRIPTION": "Gebruik deze commando om een personage aan je persoonlijke verlanglijst toe te voegen. Je kunt ook specifieke versies van personages toevoegen door de commando \"{{prefix}}wa<VersieNummer> <KarakterNaam>\" te gebruiken. Deze actie heeft geen direct voordeel of voordeel.",
     "CATEGORY": "Verlanglijst",
     "ADD_CHARACTERS_ERROR": "{{author}} U kan geen karakters meer toevoegen aan uw verlanglijst",
-    "SEARCH_CHARACTER_ERROR": "{{author}} Correcte gebruik: `{{prefix}}wa <Naam>`",
+    "SEARCH_CHARACTER_ERROR": "{{author}} Correcte gebruik: `{{prefix}}wa <Karakternaam>`",
     "NO_CHARACTER_FOUND": "{{author}} Er werd geen karakter gevonden. Gebruik het commando `{{prefix}}wa -f <Naam>` voor een exact zoekopdracht",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** staat al op uw verlanglijst",
     "CHARACTER_ADDED": "{{author}} **{{name}}** is succesvol toegevoegd aan uw verlanglijst",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "INCREASE_CAPACITY": "Ontgrendel meer slots door de `{{prefix}}wl` commando te gebruiken en te klikken op het {{emoji}} icoon"
+    "INCREASE_CAPACITY": "Ontgrendel meer slots door de `{{prefix}}wl` commando te gebruiken en te klikken op het {{emoji}} icoon",
+    "VERSION_ADDED": "{{author}} heeft **Versie {{version}}** van **{{name}}** met succes aan je Version Token wensenlijst toegevoegd",
+    "VERSION_ALREADY_EXISTS": "{{author}} Je hebt al **Versie {{version}}** van **{{name}}** op je Version Token verlanglijst"
 }
