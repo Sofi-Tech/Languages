@@ -7,13 +7,13 @@
     "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
     "DAILY": "> {{bellEmoji}} • {{toggleEmoji}} • **`Daily`** | **{{cooldown}}**",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid`** | **{{cooldown}}**",
-    "UNREAD_MAIL_one": "\n📫 未読のメールが**{{count}}**件あります",
+    "UNREAD_MAIL_one": "\n📫 未読のメールが**{{count}}**件あります\n`{{prefix}}mail `コマンドを使いメールが読めます",
     "VOTE_LABEL": "Vote",
     "READY": "準備ができた",
-    "UNREAD_MAIL_other": "\n📫 未読のメールが**{{count}}**件あります",
+    "UNREAD_MAIL_other": "\n📫 未読のメールが**{{count}}**件あります\n`{{prefix}}mail `コマンドを使いメールが読めます",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "UNREAD_MAIL_two": "\n📫 未読のメールが**{{count}}**件あります",
-    "UNREAD_MAIL_zero": "\n📫 未読のメールが**{{count}}**件あります",
-    "UNREAD_MAIL_few": "\n📫 未読のメールが**{{count}}**件あります",
-    "UNREAD_MAIL_many": "\n📫 未読のメールが**{{count}}**件あります"
+    "UNREAD_MAIL_two": "\n📫 未読のメールが**{{count}}**件あります\n`{{prefix}}mail `コマンドを使いメールが読めます",
+    "UNREAD_MAIL_zero": "\n📫 未読のメールが**{{count}}**件あります\n`{{prefix}}mail `コマンドを使いメールが読めます",
+    "UNREAD_MAIL_few": "\n📫 未読のメールが**{{count}}**件あります\n`{{prefix}}mail `コマンドを使いメールが読めます",
+    "UNREAD_MAIL_many": "\n📫 未読のメールが**{{count}}**件あります\n`{{prefix}}mail `コマンドを使いメールが読めます"
 }
