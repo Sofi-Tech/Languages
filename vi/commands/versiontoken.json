@@ -25,11 +25,11 @@
     "ALL_UNTAG_SUCCESS_one": "Đã gỡ nhãn `{{tagName}}` khỏi **{{count}}** Version Token",
     "ALL_UNTAG_SUCCESS_few": "Đã gỡ nhãn `{{tagName}}` khỏi **{{count}}** Version Token",
     "ALL_UNTAG_SUCCESS_other": "Đã gỡ nhãn `{{tagName}}` khỏi **{{count}}** Version Token",
-    "ALL_TAG_SUCCESS_one": "Đã gắn nhãn **{{count}}** Version Token vào `{{tagName}}`",
+    "ALL_TAG_SUCCESS_one": "Đã gắn **{{count}}** Version Token vào nhãn `{{tagName}}`",
     "ALL_TAG_SUCCESS_two": "Đã gắn **{{count}}** Version Token vào nhãn `{{tagName}}`",
     "ALL_TAG_SUCCESS_few": "Đã gắn **{{count}}** Version Token vào nhãn `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_two": "Đã gỡ nhãn `{{tagName}}` khỏi **{{count}}** Version Token",
-    "ALL_TAG_SUCCESS_zero": "Đã gắn nhãn **{{count}}** Version Token vào `{{tagName}}`",
+    "ALL_TAG_SUCCESS_zero": "Đã gắn **{{count}}** Version Token vào nhãn `{{tagName}}`",
     "ALL_UNTAG_SUCCESS_many": "Đã gỡ nhãn `{{tagName}}` khỏi **{{count}}** Version Token",
     "ALL_TAG_SUCCESS_many": "Đã gắn **{{count}}** Version Token vào nhãn `{{tagName}}`"
 }
