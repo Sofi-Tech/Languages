@@ -1,1 +1,7 @@
-{}
+{
+    "DESELECT_DESCRIPTION": "このコマンドは今デッキにセーブされているカードを取り除くことが出来ます",
+    "DESELECT_CATEGORY": "ギルド",
+    "ENTER_VALID_CODE": "{{author}}正しい使い方:\n`{{prefix}}ds <CardCode>`",
+    "NOT_OWN_CARD": "{{author}}指定したカード コードが無効、またはコレクションにありません",
+    "DESELECTED_SUCCESSFULLY": "{{author}}カードが正常に解除されました"
+}

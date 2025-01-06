@@ -1,20 +1,20 @@
 {
-    "GIVE_DESCRIPTION": "بهذا الأمر يمكنك إعطاء بطاقة من مجموعتك إلى لاعب آخر مباشرة",
-    "SLASH_DESC": "اختر المستخدم الذي تريد إعطاء بطاقة له",
-    "SLASH_DESC2": "أدخل رمز البطاقة التي تريد إعطاءها",
+    "GIVE_DESCRIPTION": "بهذا الأمر يمكنك مباشرة إعطاء بطاقة من مجموعتك إلى لاعب آخر",
+    "SLASH_DESC": "اختر المستخدم الذي تريد إعطائه بطاقة",
+    "SLASH_DESC2": "أدخل رمز البطاقة التي تريد إعطائها",
     "NO_SELF_GIVE": "{{author}} لا يمكنك إعطاء بطاقة لنفسك",
     "NOT_REGISTERED": "{{author}} هذا المستخدم غير مسجل",
     "MEM_BLACKLISTED": "{{author}} هذا المستخدم مدرج في القائمة السوداء",
-    "MEM_QUARANTINED": "{{author}} هذا المستخدم في الحجر الصحي",
-    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}g <@User/UserID> <رمز البطاقة>`",
+    "MEM_QUARANTINED": "{{author}} هذا المستخدم معزول. تفضل بزيارة [دليلنا](<https://guide.sofi.gg/user-status#quarantined>) للحصول على معلومات مفصلة حول حالة العزل.",
+    "WRONG_USAGE": "{{author}} الاستخدام الصحيح: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} رمز البطاقة الذي قدمته غير صالح أو غير موجود في مجموعتك",
-    "CARD_LOCKED": "{{author}} هذه البطاقة مقفلة ولا يمكن إعطاؤها! استخدم الأمر `{{prefix}}ut <رمز البطاقة>` لإلغاء قفل البطاقة",
+    "CARD_LOCKED": "{{author}} هذه البطاقة مقفلة ولا يمكن إهداؤها. استخدم الأمر `{{prefix}}ut <CardCode>` لفتح البطاقة",
     "CANCELLED": "تم إلغاء العملية",
     "MEM_NOT_VERIFIED": "{{author}} هذا المستخدم غير موثق",
     "AUTHOR_BLACKLISTED": "{{author}} أنت مدرج في القائمة السوداء",
     "AUTHOR_NOT_VERIFIED": "{{author}} أنت غير موثق",
-    "AUTHOR_QUARANTINED": "{{author}} أنت في الحجر الصحي",
+    "AUTHOR_QUARANTINED": "{{author}} أنت في العزل. تفضل بزيارة [دليلنا](<https://guide.sofi.gg/user-status#quarantined>) للحصول على معلومات مفصلة حول حالة العزل.",
     "CARD_SELECTED": "{{author}} هذه البطاقة مستخدمة في مجموعة ولا يمكن نقلها",
     "EMBED_TITLE": "SOFI: GIVE",
-    "CARD_IN_QUEST": "{{author}} هذه البطاقة تستخدم حاليًا في مهمة ولا يمكن إعطاؤها"
+    "CARD_IN_QUEST": "{{author}} يتم استخدام هذه البطاقة حاليًا في مهمة ولا يمكن اعطاؤها"
 }
