@@ -31,7 +31,7 @@
     "NEGATIVE_AMOUNT": "{{author}} Bạn không thể mua số lượng âm của mặt hàng",
     "MEMBER_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
     "AUTHOR_UNVERIFIED": "{{author}} Bạn chưa được xác minh",
-    "MEMBER_QUARANTINED": "{{author}} Người dùng đó đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
+    "MEMBER_QUARANTINED": "{{author}} Người dùng đó đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) để biết thêm thông tin chi tiết về tình trạng cách ly.",
     "MEMBER_NOT_VERIFIED": "{{author}} Người dùng đó chưa được xác minh",
     "AN": "một",
     "A": "một",
@@ -43,5 +43,6 @@
     "CANCEL": "Hủy",
     "SOMETHING_WENT_WRONG": "{{author}} Có gì đó không ổn, vui lòng thử lại",
     "G1_CLAIM_EMBED_TITLE": "**THẺ GEN {{gen}} ĐÃ ĐƯỢC NHẬN**",
-    "G1_CLAIM_INFO": "Thẻ Gen một chữ số là cực kỳ hiếm và được rất nhiều người chơi săn lùng. Bản sao của các gen này cũng cực kỳ hiếm.\nHãy tìm hiểu kĩ giá trị của thẻ trước khi giao dịch và tham khảo ý kiến từ các fan cứng để đánh giá chính xác giá trị thực của nó.\nBạn có thể kiểm tra các fan cứng của nhân vật này bằng cách sử dụng lệnh \"{{prefix}}charlookup\"."
+    "G1_CLAIM_INFO": "Thẻ Gen một chữ số là cực kỳ hiếm và được rất nhiều người chơi săn lùng. Bản sao của các gen này cũng cực kỳ hiếm.\nHãy tìm hiểu kĩ giá trị của thẻ trước khi giao dịch và tham khảo ý kiến từ các fan cứng để đánh giá chính xác giá trị thực của nó.\nBạn có thể kiểm tra các fan cứng của nhân vật này bằng cách sử dụng lệnh \"{{prefix}}charlookup\".",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Kho đồ của bạn có giá trị âm. Hãy liên hệ với chúng tôi tại Máy Chủ Hỗ Trợ\ndiscord.gg/sofi"
 }
