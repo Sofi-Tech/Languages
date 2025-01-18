@@ -3,11 +3,14 @@
     "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để nhặt một thẻ khác",
     "CARDS_DROPPED_BY": "{{user}} đã **thả** thẻ",
     "CANNOT_BE_GRABBED": "{{user}} Những thẻ dưới đây không thể **nhặt** được nữa",
-    "GRAB_VERSION_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành lấy** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
-    "GRAB_VERSION": "{{winner}} đã đánh bại {{user}} và **giành lấy** Version Token của {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
+    "GRAB_VERSION_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành được** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
+    "GRAB_VERSION": "{{winner}} đã đánh bại {{user}} và **giành được** Version Token của {{character}} (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
     "TOOK_VERSION": "{{winner}} đã **nhặt** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
     "TOOK_CARD": "{{user}} đã **nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "NOT_ALLOWED_TO_GRAB": "Bạn đang bị cách ly hoặc đã bị đưa vào danh sách đen hoặc chưa đăng ký nên không thể nhặt thẻ này",
-    "GRAB_CARD_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành lấy** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-    "GRAB_CARD": "{{winner}} đã đánh bại {{user}} và **giành lấy** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}"
+    "GRAB_CARD_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_CARD": "{{winner}} đã đánh bại {{user}} và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "TOOK_ELEMENT_PART": "{{user}} đã đánh bại {{userId}} và giành được **{{elementName}}**",
+    "TOOK_ELEMENT_MULTI": "{{user}} đã đánh bại **{{userCount}}** người chơi khác và giành được **{{elementName}}** {{elementEmoji}}",
+    "TOOK_ELEMENT_ALONE": "{{user}} đã nhặt **{{elementName}}** element {{elementEmoji}}"
 }
