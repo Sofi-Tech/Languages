@@ -1,13 +1,16 @@
 {
-    "LAYERSHOP_DESCRIPTION": "This command will open an embed which showcases all Layers that are currently up for purchase",
-    "LAYERSHOP_CATEGORY": "Cosmetics",
-    "BUY_LAYER_INFO": "Use the `{{prefix}}buy layer <Layer-ID> <Amount>` command to buy a **Layer**",
-    "LS_EMBED_TITLE": "SOFI: LAYER SHOP",
-    "LS_PAGE_FOOTER": "Showing Page: {{currentPage}}/{{totalPages}}",
-    "LAYER_NOT_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
-    "LS_NAME": "**Name:** {{name}}",
-    "LS_DESCRIPTION": "**Description:** {{description}}",
-    "LS_PRICE": "**Price:** {{amount}} {{currencyEmoji}}",
-    "LS_CATEGORY": "**Category:** {{category}}",
-    "LS_ARTIST": "**Artist:** {{artist}}"
+  "LAYERSHOP_DESCRIPTION": "This command will open an embed which showcases all Layers that are currently up for purchase",
+  "LAYERSHOP_CATEGORY": "Cosmetics",
+  "CATEGORY_MENU_PLACEHOLDER": "Select a Category",
+  "LS_EVENT_MENU_LABEL": "Event",
+  "LS_BACK_MENU_LABEL": "Go Back",
+  "BUY_LAYER_INFO": "Use the `{{prefix}}buy layer <Layer-ID> <Amount>` command to buy a **Layer**",
+  "LS_EMBED_TITLE": "SOFI: LAYER SHOP",
+  "LS_PAGE_FOOTER": "Showing Page: {{currentPage}}/{{totalPages}}",
+  "LAYER_NOT_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
+  "LS_NAME": "**Name:** {{name}}",
+  "LS_DESCRIPTION": "**Description:** {{description}}",
+  "LS_PRICE": "**Price:** {{amount}} {{currencyEmoji}}",
+  "LS_CATEGORY": "**Category:** {{category}}",
+  "LS_ARTIST": "**Artist:** {{artist}}"
 }
