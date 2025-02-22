@@ -8,5 +8,6 @@
     "AGREE_TOS": "上記のルールを読んだの上では Sofi の[利用規約](https://sofi.gg/terms \"Terms of Service\")と[プライバシーポリシー](https://sofi.gg/privacy)に同意します",
     "VERIFY_BUTTON_LABEL": "確認する",
     "SUPPORT_BUTTON_LABEL": "サポートサーバー",
-    "EMBED_FOOTER": "今まで**{{count}}**人が登録されました"
+    "EMBED_FOOTER": "今まで**{{count}}**人が登録されました",
+    "AUTHOR_NOT_VERIFIED": "{{author}}あなたは認証されていません"
 }

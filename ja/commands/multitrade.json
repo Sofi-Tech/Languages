@@ -4,7 +4,7 @@
     "IN_TRADE": "{{user}} は既にアクティブな取引中です！新しい取引を開始するには、前の取引をキャンセルしてください。",
     "BOT_TRADE": "{{author}} `Bot` と取引することはできません。",
     "SELF_TRADE": "{{author}} 自分自身と取引することはできません。",
-    "NOT_REGISTERED": "{{user}} はまだ登録されていません！",
+    "NOT_REGISTERED": "{{author}} は登録されていません",
     "AUTHOR_IS_BLED": "{{author}} ブラックリストに登録されています。",
     "MEMBER_IS_BLED": "{{user}} はブラックリストに登録されています。",
     "AUTHOR_IS_QUED": "{{author}} クワランティン中です。",

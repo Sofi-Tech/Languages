@@ -1,13 +1,14 @@
 {
-    "VOTE_DESCRIPTION": "استخدم هذا الأمر للتصويت لصالح Sofi في Top.GG. كل تصويت تساهم به لصالح Sofi سيكافئك بـ 1 Wist في يوم من أيام الأسبوع و2 Wist في عطلة نهاية الأسبوع.",
+    "VOTE_DESCRIPTION": "استخدم هذا الأمر للتصويت لصالح Sofi. كل تصويت على Top.GG سيكافئك بـ 1 Wist في أيام الأسبوع و2 Wists في عطلات نهاية الأسبوع. كل تصويت على DiscordBotList سيكافئك بـ 5 Elixirs.",
     "VOTE_CATEGORY": "الإعدادات",
     "VOTE": "صوت في Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-    "USE_WIST": "سيتم الحصول على `ويستز` <:wist:870339503427027005> من الـ `تصويت` الناجح!",
-    "TOTAL_VOTES": "> مجموع `التصويتات`: {{totalVotes}}",
-    "MONTHLY_VOTES": "> `التصويتات` الشهرية: {{monthlyVotes}}",
-    "VOTE_RESET": "> يتم الإعادة في خلال {{countdown}}",
-    "EMBED_FOOTER": "سوف تحصل على مضاعفتي مقدار الويستز في عطلة نهاية الأسبوع",
-    "VOTE_DBL": "صوت في DiscordBotList"
+    "USE_WIST": "ستحصل على **1 Wist** <:wist:870339503427027005> لكل **تصويت** ناجح على [Top.gg](https://top.gg/bot/853629533855809596)!",
+    "TOTAL_VOTES": "- إجمالي **التصويتات**: **{{totalVotes}}**",
+    "MONTHLY_VOTES": "- **التصويتات** الشهرية: **{{monthlyVotes}}**",
+    "VOTE_RESET": "- إعادة الضبط في: **{{countdown}}**",
+    "EMBED_FOOTER": "ستحصل على ضعف عدد Wists في عطلة نهاية الأسبوع",
+    "VOTE_DBL": "صوت في DiscordBotList",
+    "USE_ELIXIR": "ستحصل على **5 إكسير** <:xelixir:979673719884636210> لكل **تصويت** ناجح على [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
 }

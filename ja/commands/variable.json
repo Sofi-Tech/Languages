@@ -19,5 +19,8 @@
     "CHARGED": "満充電",
     "EMPTY": "完全放電",
     "NAME": "名前：",
-    "SERIES": "シリーズ："
+    "SERIES": "シリーズ：",
+    "AUTHOR_BLACKLISTED": "{{author}}あなたはブラックリストに載っています",
+    "NOT_REGISTERED": "{{author}} は登録されていません",
+    "AUTHOR_QUARANTINED": "{{author}}あなたは隔離されています。隔離ステータスの詳細については、[ガイド](<https://guide.sofi.gg/user-status#quarantined>) を参照してください。"
 }
