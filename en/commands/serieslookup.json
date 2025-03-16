@@ -1,6 +1,7 @@
 {
     "SERIESLOOKUP_DESCRIPTION": "With this command you can look up any given series you want. The generated embed will then show you all available characters from the specified series",
     "NO__LAST_CHAR_FOUND": "{{author}} You do not have any cards in your collection yet",
+    "NO_CHAR_NOT_OWNED": "{{author}} This series does not have any characters that you are missing",
     "NO_CHAR_FOUND": "{{author}} This series does not have any characters yet",
     "NO_SERIES_FOUND": "{{author}} Could not find any series with the name `{{name}}`",
     "SERIES": "SOFI: SERIES LOOKUP",

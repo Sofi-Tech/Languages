@@ -9,8 +9,8 @@
     "EMBED_TITLE_other": "Task ({{count}} Points)",
     "EMBED_TITLE_many": "Task ({{count}} Points)",
     "DAILY_TASKS": "### <:1day:1168129639017893949> __**Daily**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Drop 5 times - {{dropPoints}}/5 \n<:curvedline:979665878503272478> Bump on [Sofi.gg](https://sofi.gg/bump) - {{bumpPoints}}/1 \n<:curvedline:979665878503272478> Morph a card - {{morphPoints}}/1 \n<:curvedline:979665878503272478> Burn 3 cards - {{burnPoints}}/3 \n<:curvedline:979665878503272478> Vote on [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote) - {{dblVotePoints}}/1",
-    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Weekly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Raid 20 times - {{raidPoints}}/20 \n<:curvedline:979665878503272478> Go on a quest 15 times - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bump on [Sofi.gg](https://sofi.gg/bump) 15 times - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> Drop 100 times - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Burn 60 cards - {{burnPoints}}/60 \n<:curvedline:979665878503272478> Score 15000+ in a raid - {{raidScore}}/1",
-    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Monthly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Vote 50 times on [Top.gg](https://top.gg/bot/853629533855809596) - {{votePoints}}/50 \n<:curvedline:979665878503272478> Burn 225 cards - {{burnPoints}}/225",
+    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Weekly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Raid 20 times - {{raidPoints}}/20 \n<:curvedline:979665878503272478> Go on a quest 15 times - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bump on [Sofi.gg](https://sofi.gg/bump) 15 times - {{bumpPoints}}/15 \n<:curvedline:979665878503272478> Drop 100 times - {{dropPoints}}/100 \n<:curvedline:979665878503272478> 3D a card - {{threedPoints}}/1 \n<:curvedline:979665878503272478> Score 15000+ in a raid - {{raidScore}}/1",
+    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Monthly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Vote 50 times on [Top.gg](https://top.gg/bot/853629533855809596) - {{votePoints}}/50 \n<:curvedline:979665878503272478> Morph cards 100 times - {{morphPoints}}/100",
     "REWARDS_LINE": "*You'll receive {{reward}} at the end of the month if you have {{points}} Task Points*",
     "QUESTS_HEADER": "### 🐉 __**Quests**__ (Resets {{time}})",
     "NOT_ON_QUEST": "<:xstatusred:895546340367548486> Currently not on a quest",
@@ -73,6 +73,6 @@
     "RARE_MATERIAL_SPOTTED": "⚠️ **Rare materials spotted**",
     "CAPABILITY": "Capability: {{capability}}",
     "ELEMENT_PREFERENCE": "Elemental Preference: {{elements}}",
-    "QUEST_REWARD": "Can gain **{{minimumShards}}** to **{{maximumShards}}** <:_:1168102686785273916> and **{{minimumSilvers}}** to **{{maximumSilvers}}** <:_:915619222229512213>\nwith an additional **{{luckFactor}}x** amount earned\nWill earn **{{questXP}}** experience per card",
+    "QUEST_REWARD": "Can gain **{{minimumShards}}** to **{{maximumShards}}** <:_:1168102686785273916> and **{{minimumSilvers}}** to **{{maximumSilvers}}** <:_:1349078140017709066>\nwith an additional **{{luckFactor}}x** amount earned\nWill earn **{{questXP}}** experience per card",
     "NOT_AVAILABLE": "Not Available"
 }

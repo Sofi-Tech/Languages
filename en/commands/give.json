@@ -12,6 +12,7 @@
     "AUTHOR_QUARANTINED": "{{author}} You are quarantined. Visit our [Guide](<https://guide.sofi.gg/user-status#quarantined>) for detailed information about the quarantined status.",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}g <@User/UserID> <CardCode>`",
     "NO_CARD_FOUND": "{{author}} The card code you provided is either invalid or not in your collection",
+    "CARD_CANNOT_GIVE": "{{author}}, That card cannot be transferred to another person.",
     "CARD_SELECTED": "{{author}} That card is used in a deck and cannot be transferred",
     "CARD_LOCKED": "{{author}} That card is locked and cannot be given away. Use the command `{{prefix}}ut <CardCode>` to unlock the card",
     "EMBED_TITLE": "SOFI: GIVE",

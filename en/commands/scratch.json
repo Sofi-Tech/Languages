@@ -1,0 +1,14 @@
+{
+    "SCRATCH_DESCRIPTION": "Use this command to scratch your card or banner",
+    "SCRATCH_CATEGORY": "Settings",
+    "CARD_INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
+    "BANNER_INVALID_CODE": "{{author}} The banner code you provided is either invalid or not in your collection",
+    "CARD_ALREADY_SCRATCHED": "{{author}} The card is already scratched",
+    "BANNER_ALREADY_SCRATCHED": "{{author}} The banner is already scratched",
+    "SCRATCH_BUTTON_LABEL": "Scratch",
+    "SCRATCH_EMBED_TITLE": "SOFI: SCRATCHER",
+    "SCRATCH_INFO": "Click on the button below to scratch your card or banner",
+    "SCRATCH_INFO_CARD": "Click on the button below to scratch your card",
+    "SCRATCH_INFO_BANNER": "Click on the button below to scratch your banner"
+}
+

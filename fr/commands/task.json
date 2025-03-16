@@ -61,7 +61,7 @@
     "DECK_SELECTED_other": "`{{deck}}`est maintenant en mission sur {{quest}} pour {{count}} heures",
     "DECK_SELECTED_many": "`{{deck}}`est maintenant en mission sur {{quest}} pour {{count}} heures",
     "NOT_AVAILABLE": "Indisponible",
-    "QUEST_REWARD": "Gain potentiel de **{{minimumShards}}** à **{{maximumShards}}** <:_:1168102686785273916> et **{{minimumSilvers}}** à **{{maximumSilvers}}** <:_:915619222229512213>\navec une augmentation de **{{luckFactor}}x** du gain\nGain de **{{questXP}}** expérience par carte",
+    "QUEST_REWARD": "Gain potentiel de **{{minimumShards}}** à **{{maximumShards}}** <:_:1168102686785273916> et **{{minimumSilvers}}** à **{{maximumSilvers}}** <:_:1349078140017709066>\navec une augmentation de **{{luckFactor}}x** du gain\nGain de **{{questXP}}** expérience par carte",
     "SELECT_MODAL_PLACEHOLDER": "Deck 1/1/[nomdudeck]",
     "STREAK_FOOTER": "Série [ {{count}} ]",
     "QUEST_REWARDS_FOUR": "La quête a rapportée {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks et {{ingotCount}} {{ingotName}} Ingot",

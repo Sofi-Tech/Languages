@@ -62,7 +62,7 @@
     "TYPE": "Typ: **{{type}}**",
     "CAPABILITY": "Fähigkeit: {{capability}}",
     "ELEMENT_PREFERENCE": "Bevorzugte Elemente: {{elements}}",
-    "QUEST_REWARD": "Kann von **{{minimumShards}}** bis zu **{{maximumShards}}** <:_:1168102686785273916> und von **{{minimumSilvers}}** bis zu **{{maximumSilvers}}** <:_:915619222229512213> geben\nmit einer zusätzlichen Menge von **{{luckFactor}}x**\nGibt **{{questXP}}** Erfahrung pro Karte",
+    "QUEST_REWARD": "Kann von **{{minimumShards}}** bis zu **{{maximumShards}}** <:_:1168102686785273916> und von **{{minimumSilvers}}** bis zu **{{maximumSilvers}}** <:_:1349078140017709066> geben\nmit einer zusätzlichen Menge von **{{luckFactor}}x**\nGibt **{{questXP}}** Erfahrung pro Karte",
     "NOT_AVAILABLE": "Nicht verfügbar",
     "QUEST_REWARDS_THREE": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver und {{ingotCount}} {{ingotName}} Ingot erbracht",
     "QUEST_REWARDS_FOUR": "Das Abenteuer hat {{shardCount}} Shards, {{silver}} Silver, {{xpSacks}} XP Sacks und {{ingotCount}} {{ingotName}} Ingot erbracht",
