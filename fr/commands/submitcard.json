@@ -27,7 +27,7 @@
     "SERIES_NAME": "Série: **{{series}}**",
     "SUBMISSION_DENY": "{{author}} Le processus a été annulé",
     "USE_DISCORD_LINK": "<:_:979009081325019156> L'image envoyée **doit** utiliser un lien Discord officiel, tel que `cdn.discordapp.com` ou `media.discordapp.net`",
-    "NOT_PING_STAFF": "<:_:979009081325019156> L'image envoyée **doit** être un fichier `PNG` ou `JPG`",
+    "NOT_PING_STAFF": "<:_:979009081325019156> L'image envoyée **doit** être un fichier `PNG`",
     "CARD_TEMPLATE": "Modèle de Carte: **[Télécharger le fichier PSD](https://drive.google.com/file/d/1zotoWBr_20vy2xlFBbC5ZefByTPTUJz7/view?usp=sharing)**",
     "CARD_INFO_CHANNEL": "Directives de Proposition: **[Visitez ici](https://discord.gg/EUp7rNVC4U)**",
     "EMBED_FOOTER": "Vos propositions: {{userStats}}/{{submitted}} | Nombre total de propositions: {{globalStats}}/{{allSubmit}}",

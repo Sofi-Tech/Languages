@@ -1,14 +1,15 @@
 {
-    "BUYFRAME_DESCRIPTION": "Ang command na ito ay partikular na ginagamit upang bumili ng mga Frame gamit ang \"{{prefix}}frameshop\" na command, kung saan maaari kang bumili ng Opisyal, Kustom, at Pack ng mga Frame para sa iyong mga 2d na kard",
+    "BUYFRAME_DESCRIPTION": "Ang command na ito ay partikular na ginagamit upang bumili ng mga Frame gamit ang \"{{prefix}}frameshop\" na command, kung saan maaari kang bumili ng Opisyal, Kustom, at mga Pack Frame para sa iyong mga 2d na kard",
     "BF_CATEGORY": "Mga Kosmetiko",
     "NO_FRAME_NAME": "{{author}} Mangyaring ibigay ang code ng **Frame** na gusto mong bilhin",
     "NO_FRAMECODE_FOUND": "{{author}} Walang mahanap na **Frame** na may code na `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Ang **Frame** na iyon ay hindi pa available. Gamitin ang command na `{{prefix}}fs` para makita ang kasalukuyang binebentang **Frame**",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Ang **Frame** na iyon ay limitado at hindi na maaaring mabili",
+    "FRAME_UNAVAILABLE": "{{author}} Ang **Frame** na iyon ay hindi pa maaaring makuha. Gamitin ang command na `{{prefix}}fs` para makita ang kasalukuyang rotasyon ng **Frame**",
+    "FRAME_NOT_PURCHASABLE": "{{author}} Ang **Frame** na iyan ay limitado at hindi na maaaring mabili",
     "EMBED_TITLE": "SOFI: TRANSACTION",
     "YOU_GET": "Iyong makukuha:",
     "YOU_PAY": "Iyong ibabayad:",
     "NO_ENOUGH_AMOUNT": "{{author}} Wala kang sapat na **{{currency}}** para mabili ito",
-    "TRANSACTION_SUCCESSFUL": "{{author}} Matagumpay na nabili ang **{{frameName}}** **Frame**",
-    "PROCESS_CANCELLED": "Ang proseso ay nakansela"
+    "TRANSACTION_SUCCESSFUL": "{{author}} Matagumpay na nakabili ng {{count}} **{{frameName}}** **Frame**",
+    "PROCESS_CANCELLED": "Ang proseso ay nakansela",
+    "NO_NEGATIVE_COUNT": "{{author}} Hindi ka maaaring bumili ng negatibong halaga ng **Frames**"
 }

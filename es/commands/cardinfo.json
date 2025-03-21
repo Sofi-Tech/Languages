@@ -25,5 +25,5 @@
     "MORPHED": "Morpheada",
     "EMBED_AUTHOR": "SOFI: CARDINFO (Nivel - {{level}})",
     "CLAIM_AT": "\nDropeada en:",
-    "CARD_LAYERED": "**Layer** aplicado: **{{layerName}}** (`{{layerCode}}`)\n"
+    "CARD_LAYERED": "**Layer{{s}}** aplicado:\n{{layerInfo}}"
 }

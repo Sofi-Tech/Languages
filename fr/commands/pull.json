@@ -1,5 +1,5 @@
 {
-    "PULL_DESCRIPTION": "Avec cette commande vous pouvez utiliser vos Wists et Gems pour avoir différents items. Il y a aussi une chance d'obtenir une carte GIF",
+    "PULL_DESCRIPTION": "Avec cette commande vous pouvez utiliser vos Wists et Gems pour avoir différents items. Il y a aussi une chance d'obtenir une carte GIF\nPlus d'infos sur [Guide des Pulls](https://guide.sofi.gg/general-commands/pulls)",
     "PULL_AMT": "{{author}} Utilisation correcte: `{{prefix}}pull <1/10>`",
     "INFO_1": "Vous avez besoin de 8 **Fragments** pour créer la variante **GIF** d'un personnage",
     "INFO_2": "Il y a un maximum de **100** variants **GIF** par personnage",
@@ -20,5 +20,6 @@
     "PULL_DISABLED": "{{author}} Les Pulls sont désactivés jusqu'à la sortie de nouveaux GIFs",
     "TOP_FANS_INFO": "Voici les top fans de ce personnage: \n{{topFans}}",
     "GEN1_CARD_DROPPED": "✨ Une Carte Gen 1 d'un personnage dont vous êtes un top fan est apparue \n\n**Nom: {{name}}** \n**Série: {{series}}**",
-    "CLAIM_GEN1_CARD": "✨ Félicitation d'avoir récupéré une carte Gen 1 - `sv {{code}}` \n\n```fix \nLes cartes avec une Gen à 1 chiffre sont rares et hautement convoitées par les joueurs. Les doublons de ces Gens sont extrêmement peu communes.\nPrenez le temps de chercher la valeur de la carte avant de l'échanger, et pensez à consulter les top fans pour vous aider à estimer sa vrai valeur.\n``` \n{{topFans}} \n**[Guide des Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi"
+    "CLAIM_GEN1_CARD": "✨ Félicitation d'avoir récupéré une carte Gen 1 - `sv {{code}}` \n\n```fix \nLes cartes avec une Gen à 1 chiffre sont rares et hautement convoitées par les joueurs. Les doublons de ces Gens sont extrêmement peu communes.\nPrenez le temps de chercher la valeur de la carte avant de l'échanger, et pensez à consulter les top fans pour vous aider à estimer sa vrai valeur.\n``` \n{{topFans}} \n**[Guide des Gen](<https://guide.sofi.gg/general-commands/gen>)** | https://discord.gg/sofi",
+    "PATRON_NOTE": "🔹Seul les patrons peuvent avoir le gif spécial - Megumin\n🔹[Rejoindre le Patron Sofi](https://shop.sofi.gg/patron)"
 }

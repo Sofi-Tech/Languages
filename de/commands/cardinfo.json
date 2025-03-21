@@ -10,7 +10,7 @@
     "SHOW_GEN": "Zeige Gen",
     "SERIES": "Serie:",
     "NAME": "Name:",
-    "OWNED": "Gehört:",
+    "OWNED": "Im Besitz von:",
     "DROPPED": "Gedroppt von:",
     "CLAIM_BY": "Eingesammelt von:",
     "CLAIM_ON": "Eingesammelt am:",
@@ -25,5 +25,5 @@
     "SOME_FRAME": "Nicht verfügbar",
     "MORPHED": "Gemorpht",
     "SOME_GLOW": "Nicht verfügbar",
-    "CARD_LAYERED": "**Layer** angewendet: **{{layerName}}** (`{{layerCode}}`)\n"
+    "CARD_LAYERED": "**Layer{{s}}** angewendet:\n{{layerInfo}}"
 }

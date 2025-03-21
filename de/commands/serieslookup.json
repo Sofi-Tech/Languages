@@ -8,5 +8,6 @@
     "CARD_COLLECTED": "Gesammelte Karten: **{{collected}}/{{totalCards}}**",
     "TOTAL_WL": "Gesamte Wunschliste: **{{wlCount}}**",
     "CHARACTERS": "**__Charaktere__**",
-    "SERIES_NAME": "Name: **{{seriesName}}**"
+    "SERIES_NAME": "Name: **{{seriesName}}**",
+    "NO_CHAR_NOT_OWNED": "{{author}} Diese Serie hat keine Charaktere, die dir fehlen"
 }

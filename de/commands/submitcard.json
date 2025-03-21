@@ -27,7 +27,7 @@
     "SOURCE": "Quelle: **{{source}}**",
     "SUBMISSION_DENY": "{{author}} Der Vorgang wurde abgebrochen",
     "USE_DISCORD_LINK": "<:_:979009081325019156> Das eingereichte Bild **muss** einen offiziellen Discord-Link verwenden, wie z. B. `cdn.discordapp.com` oder `media.discordapp.net`",
-    "NOT_PING_STAFF": "<:_:979009081325019156> Das eingereichte Bild **muss** entweder eine `PNG` oder `JPG` Datei sein",
+    "NOT_PING_STAFF": "<:_:979009081325019156> Das eingereichte Bild **muss** eine `PNG` Datei sein",
     "IMAGES_REJECTED": "<:_:979009081325019156> Bereits existierende Bilder die für **GIF**-, **3D**- oder Event- Karten verwendet werden, werden abgelehnt",
     "SC_CORRECT_USAGE": "<:_:979009081325019156> Befehlsreihenfolge: `{{prefix}}sc <Karten-ID> <2D> <BildURL> <QuellenURL>`",
     "CARD_TEMPLATE": "Kartenvorlage: **[Download PSD File](https://drive.google.com/file/d/1zotoWBr_20vy2xlFBbC5ZefByTPTUJz7/view?usp=sharing)**",

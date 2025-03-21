@@ -17,5 +17,6 @@
     "SUCCESSFUL_GUILDSTONE_BURN": "{{author}} Dein **Guild Stone** wurde erfolgreich verbrannt",
     "BURN_REWARDS": "__Belohnungen__",
     "GIF_CARD": "{{author}} Du kannst keine **GIF**-Karte verbrennen",
-    "QUEST_CARD": "{{author}} Du kannst keine Karte verbrennen, die gerade in einem Abenteuer benutzt wird"
+    "QUEST_CARD": "{{author}} Du kannst keine Karte verbrennen, die gerade in einem Abenteuer benutzt wird",
+    "CARD_CANNOT_BURN": "{{author}}, Diese Karte kann nicht verbrannt werden."
 }

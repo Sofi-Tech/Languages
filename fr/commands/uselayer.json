@@ -1,6 +1,6 @@
 {
     "NO_LAYER_FOUND": "{{author}} Aucun **Layer** possédant l'ID `{{layerId}}` n'a été trouvé",
-    "DONT_HAVE_LAYER": "{{author}} Vous n'avez pas le **Layer** **{{name}}**",
+    "DONT_HAVE_LAYER": "{{author}} Vous n'avez pas les **Layers** suivantes:\n{{layers}}",
     "USELAYER_CATEGORY": "Cosmétiques",
     "UL_CORRECT_USAGE": "{{author}} Usage correcte: `{{prefix}}ul <CodeDeCarte> <ID-Layer>`",
     "CANNOT_APPLY_LAYER_GIF": "{{author}} Vous ne pouvez pas appliquer un **Layer** à une carte **GIF**",

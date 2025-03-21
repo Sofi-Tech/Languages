@@ -9,6 +9,7 @@
     "YOU_GET": "Du erhältst:",
     "YOU_PAY": "Du zahlst:",
     "NO_ENOUGH_AMOUNT": "{{author}} Du hast nicht genügend **{{currency}}** um diesen Kauf zu tätigen",
-    "TRANSACTION_SUCCESSFUL": "{{author}} Der **{{frameName}}** **Frame** wurde erfolgreich gekauft",
-    "PROCESS_CANCELLED": "Der Vorgang wurde abgebrochen"
+    "TRANSACTION_SUCCESSFUL": "{{author}} {{count}} **{{frameName}}** **Frame** wurde erfolgreich gekauft",
+    "PROCESS_CANCELLED": "Der Vorgang wurde abgebrochen",
+    "NO_NEGATIVE_COUNT": "{{author}} Du kannst keine negative Anzahl an **Frames** kaufen"
 }

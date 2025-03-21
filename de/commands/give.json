@@ -16,5 +16,6 @@
     "CARD_SELECTED": "{{author}} Diese Karte wird in einem Deck verwendet und kann nicht übertragen werden",
     "EMBED_TITLE": "SOFI: GIVE",
     "AUTHOR_QUARANTINED": "{{author}} Du stehst unter Quarantäne. Besuche unseren [Guide](<https://guide.sofi.gg/user-status#quarantined>), um detaillierte Informationen über den Quarantänestatus zu erhalten.",
-    "CARD_IN_QUEST": "{{author}} Diese Karte wird gerade in einem Abenteuer benutzt und kann nicht übertragen werden"
+    "CARD_IN_QUEST": "{{author}} Diese Karte wird gerade in einem Abenteuer benutzt und kann nicht übertragen werden",
+    "CARD_CANNOT_GIVE": "{{author}}, Diese Karte kann nicht auf eine anderen Person übertragen werden."
 }

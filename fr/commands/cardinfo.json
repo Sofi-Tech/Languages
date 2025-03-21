@@ -25,5 +25,5 @@
     "SOME_GLOW": "Indisponible",
     "SOME_CODE": "Indisponible",
     "SOME_FRAME": "Indisponible",
-    "CARD_LAYERED": "**Layer** appliqué: **{{layerName}}** (`{{layerCode}}`)\n"
+    "CARD_LAYERED": "**Layer{{s}}** appliquée(s):\n{{layerInfo}}"
 }
