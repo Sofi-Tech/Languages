@@ -28,7 +28,7 @@
     "EMBED_TITLE": "SOFI: COLLECTION ({{username}})",
     "USER_NOT_FOUND": "{{author}} No se pudo encontrar a ese usuario",
     "EMBED_FOOTER": "Página: {{page}}/{{totalPages}} | Cartas totales: {{count}} {{sortedBy}}",
-    "TAG_MODAL_TITLE": "Múltiple Tag",
+    "TAG_MODAL_TITLE": "Tag en masa",
     "TAG_MODAL_LABEL": "Introduce un tag",
     "TAG_NO_CARDS_FOUND": "No se ha podido encontrar ninguna carta con el tag `{{arg}}`",
     "TAG_MODAL_PLACEHOLDER": "Usa un \"-\" como prefijo para eliminar un tag en masa",
@@ -65,5 +65,5 @@
     "ALL_UNTAG_SUCCESS_many": "Se ha eliminado con éxito el tag `{{tagName}}`de **{{count}}** cartas",
     "VERSION_AVAILABILITY": "Disponibilidad de Versions",
     "FILTER_NAME_EXISTS": "El filtro con nombre `{{filterName}}` ya existe",
-    "SERIES_COMPLETED": "Seres Completadas"
+    "SERIES_COMPLETED": "Series Completadas"
 }
