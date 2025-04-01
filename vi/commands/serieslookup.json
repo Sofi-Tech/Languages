@@ -8,5 +8,6 @@
     "SERIES_NAME": "Tên: **{{seriesName}}**",
     "CARD_COLLECTED": "Thẻ Đã Thu Thập: **{{collected}}/{{totalCards}}**",
     "TOTAL_WL": "Tổng Yêu Thích: **{{wlCount}}**",
-    "CHARACTERS": "**__Nhân Vật__**"
+    "CHARACTERS": "**__Nhân Vật__**",
+    "NO_CHAR_NOT_OWNED": "{{author}} Bạn không thiếu bất kỳ nhân vật nào trong bộ này"
 }

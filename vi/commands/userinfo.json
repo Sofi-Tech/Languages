@@ -48,5 +48,6 @@
     "LANG_CHANGE_SUCCESS": "Ngôn ngữ của bạn đã được thay đổi sang **{{language}}**! Hãy lưu ý rằng việc cập nhật bản dịch của chúng tôi vẫn đang trong giai đoạn phát triển sớm và chưa bao gồm được tất cả lệnh hiện có!\n\nCác lệnh chưa được dịch bao gồm\n\n- **Deck**\n- **Stats**\n- **Event**\n\nNếu bạn phát hiện bất kỳ văn bản nào bị thiếu, bản dịch sai hoặc các lệnh và tính năng bị lỗi khi sử dụng ngôn ngữ này, bạn nên báo cáo những vấn đề này bằng cách sử dụng lệnh `{{prefix}}lrt <Input>`. Ngoài ra, bạn có thể báo cáo các phát hiện của mình trên [Máy Chủ Hỗ Trợ Chính Thức](<https://discord.gg/sofi>)!",
     "CHOOSE_LANGUAGE_PLACEHOLDER": "Chọn ngôn ngữ",
     "UI_RAIDS": "Raid",
-    "UI_BANNERS": "Banner"
+    "UI_BANNERS": "Banner",
+    "UI_BANNERS_CREATED": "Banner Đã Tạo"
 }

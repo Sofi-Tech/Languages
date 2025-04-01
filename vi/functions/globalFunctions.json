@@ -3,7 +3,7 @@
     "GUILD_MASTER": "Guild Master",
     "NOT_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{item}}** để thực hiện giao dịch này",
     "SWAP_EMBED_FOOTER": "Quá trình này sẽ đổi mã thẻ của hai thẻ với nhau",
-    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Đã mua **{{amount}}** **{{itemName}}**",
+    "SUCCESSFUL_ITEM_PURCHASE": "{{author}} Mua thành công **{{amount}}** **{{itemName}}**",
     "GUILD_VETERANS": "Veteran",
     "GUILD_ADVENTURER": "Adventurer",
     "GS_EMBED_FOOTER": "Giao dịch này sẽ hết hạn trong {{date}}",
@@ -15,5 +15,5 @@
     "CODE_TWO": "<:linedown:868888105611046942> Mã 2",
     "SOMETHING_WENT_WRONG": "{{author}} Đã xảy ra lỗi! Mọi vật phẩm bị trừ đã được thêm trở lại vào bộ sưu tập của bạn",
     "NEED_GEMS": "{{author}} Bạn không có đủ **{{currency}}** để đổi mã thẻ",
-    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Đã mua **{{amount}}** **{{layerName}}** **{{itemName}}**"
+    "SUCCESSFUL_LAYER_PURCHASE": "{{author}} Mua thành công **{{amount}}** **{{layerName}}** **{{itemName}}**"
 }

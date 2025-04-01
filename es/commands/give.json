@@ -8,7 +8,7 @@
     "MEM_QUARANTINED": "{{author}} Este usuario está en cuarentena. Visita nuestra [Guia](<https://guide.sofi.gg/user-status#quarantined>) para más información sobre el estado de tu cuarentena.",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}give <@Usuario/IDUsuario> <CódigoDeCarta>`",
     "NO_CARD_FOUND": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
-    "CARD_LOCKED": "{{author}} Esa carta está asegurada y no se puede dar. Usa el comando `{{prefix}}ut <CódigoDeCarta>` para desasegurar la carta",
+    "CARD_LOCKED": "{{author}} Esa carta está bloqueada y no se puede dar. Usa el comando `{{prefix}}ut <CódigoDeCarta>` para desbloquear la carta",
     "CANCELLED": "El proceso ha sido cancelado",
     "CARD_SELECTED": "{{author}} Esa carta se está utilizando en un mazo y no se puede transferir",
     "MEM_NOT_VERIFIED": "{{author}} Ese usuario no está verificado",
@@ -16,5 +16,6 @@
     "AUTHOR_NOT_VERIFIED": "{{author}} No estás verificado",
     "EMBED_TITLE": "SOFI: GIVE",
     "AUTHOR_QUARANTINED": "{{author}} Estás en cuarentena. Visita nuestra [Guia](<https://guide.sofi.gg/user-status#quarantined>) para más información sobre el estado de tu cuarentena.",
-    "CARD_IN_QUEST": "{{author}} Esa carta se utiliza actualmente en una misión y no se puede dar"
+    "CARD_IN_QUEST": "{{author}} Esa carta se utiliza actualmente en una misión y no se puede dar",
+    "CARD_CANNOT_GIVE": "{{author}}, Esa Carta no se puede transferir a otra persona."
 }

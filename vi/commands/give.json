@@ -16,5 +16,6 @@
     "NO_CARD_FOUND": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "CARD_SELECTED": "{{author}} Thẻ này đang được sử dụng trong một bộ bài và không thể đem đi tặng hoặc trao đổi",
     "CARD_IN_QUEST": "{{author}} Thẻ này hiện đang được sử dụng trong một nhiệm vụ và không thể tặng cho người khác",
-    "EMBED_TITLE": "SOFI: GIVE"
+    "EMBED_TITLE": "SOFI: GIVE",
+    "CARD_CANNOT_GIVE": "{{author}}, Thẻ đó không thể chuyển cho người khác."
 }
