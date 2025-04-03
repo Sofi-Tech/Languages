@@ -20,7 +20,7 @@
     "SUBMISSION_DENY": "{{author}} El proceso ha sido cancelado",
     "UPSCALE_IMAGE_SITE": "Aumentar Resolución de Imagen: **[Real ESRGAN](https://replicate.com/xinntao/realesrgan)**",
     "TOTAL_EVENT_2D": "Cartas **2D** event únicas: **{{totalEventCards}}**",
-    "TOTAL_EVENT_3D": "Cartas **2D** de event únicas: **{{totalEventCards}}**",
+    "TOTAL_EVENT_3D": "Cartas **3D** de event únicas: **{{totalEventCards}}**",
     "EMBED_FOOTER": "Tus envíos: {{userStats}}/{{submitted}} | Envíos Totales: {{globalStats}}/{{allSubmit}}",
     "CARD_ID_INVALID": "{{author}} El ID de Carta enviado no es válido",
     "ENTER_EVENT_TYPE": "{{author}} El tipo de carta enviado no es válido",

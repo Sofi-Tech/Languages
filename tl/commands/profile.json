@@ -1,7 +1,7 @@
 {
     "PROFILE_DESCRIPTION": "Ang command na ito ay magpapakita ng profile ng user. Maaari mong i-customize ang sarili mong profile sa pamamagitan ng \"{{prefix}}profileconfig\" na command",
     "PRO_CATEGORY": "Konpigurasyon",
-    "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyon",
+    "USER_NOT_FOUND": "{{author}} Hindi mahanap ang user na iyan",
     "PROFILE_NOT_FOUND": "{{author}} Ang user na iyon ay hindi nakarehistro",
     "GIF_ENABLED": "{{author}} Ang iyong profile ay may GIF feature na naka-enable. Upang i-load ang iyong GIF profile, gumamit ng `{{prefix}}pc` na command at pindutin ang `Reload GIF profile` na button sa dropdown na menu"
 }
