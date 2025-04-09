@@ -1,6 +1,6 @@
 {
-    "LOOKUP_DESCRIPTION": "Sa command na ito maaaring mong hanapin kahit anong karakter na gusto mo. Ang nalikhang embed ay magpapakita ng iba't ibang Version, pati narin ang mga Event na variant",
-    "CHAR_NOT_FOUND": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`",
+    "LOOKUP_DESCRIPTION": "Sa command na ito maaaring mong hanapin kahit sinong karakter na gusto mo. Ang nalikhang embed ay magpapakita ng iba't ibang Version, pati narin ang mga Event na variant",
+    "CHAR_NOT_FOUND": "{{author}} Walang mahanap na kahit sinong karakter na may pangalang `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging sensitibo sa case ang function!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Isinumite ni** <@{{userID}}>",
@@ -15,8 +15,10 @@
     "EVENTS": "Mga Event",
     "EVENT": "Event",
     "UPCOMING_EVENT": "Nalalapit na Event",
-    "NO_OWNER_FOUND": "Wala pang nagmamay-ari ng **2D** na variant ng karakter na ito",
+    "NO_OWNER_FOUND": "Wala pang nagmamay-ari ng **2D** variant ng karakter na ito",
     "LOOKUP_CREDITS": "**Credits**: {{credits}}",
-    "LU_FUSED_UNFUSED": "**Pinagsama / Hindi Pinagsama**",
-    "LU_V1_CIRCULATED": "Lumaganap na V1"
+    "LU_FUSED_UNFUSED": "**Fused / Unfused**",
+    "LU_V1_CIRCULATED": "Umiikot na V1",
+    "LU_CREDITS": "**Art Credits**: {{credits}}",
+    "LU_3D_MAKER": "**Gumawa ng 3D**: {{maker}}"
 }
