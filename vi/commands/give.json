@@ -8,7 +8,7 @@
     "NOT_REGISTERED": "{{author}} Người dùng đó chưa đăng ký",
     "MEM_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
     "SLASH_DESC2": "Nhập mã thẻ bạn muốn tặng",
-    "GIVE_DESCRIPTION": "Với lệnh này, bạn có thể trực tiếp tặng thẻ từ bộ sưu tập của mình cho người chơi khác",
+    "GIVE_DESCRIPTION": "Với lệnh này bạn có thể trực tiếp tặng thẻ từ bộ sưu tập của mình cho người chơi khác",
     "AUTHOR_BLACKLISTED": "{{author}} Bạn đã bị đưa vào danh sách đen",
     "AUTHOR_QUARANTINED": "{{author}} Bạn đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}g <@User/UserID> <CardCode>`",

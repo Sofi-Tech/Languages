@@ -9,7 +9,7 @@
     "TRANSACTION_SUCCESSFUL": "{{author}} Mua thành công {{count}} **{{frameName}}** **Frame**",
     "PROCESS_CANCELLED": "Quá trình đã bị hủy bỏ",
     "BF_CATEGORY": "Đồ trang trí",
-    "BUYFRAME_DESCRIPTION": "Lệnh này được sử dụng đặc biệt để mua Frame từ lệnh \"{{prefix}}frameshop\", trong đó bạn sẽ có thể mua các Frame Chính Thức, Tuỳ Chỉnh, Gói Frame cho thẻ 2D của bạn",
+    "BUYFRAME_DESCRIPTION": "Lệnh này được sử dụng để mua Frame từ lệnh \"{{prefix}}frameshop\", trong đó bạn sẽ có thể mua các Frame Chính Thức, Tuỳ Chỉnh, Gói Frame cho thẻ 2D của bạn",
     "NO_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện giao dịch này",
     "NO_NEGATIVE_COUNT": "{{author}} Bạn không thể mua **Frame** với số lượng âm"
 }
