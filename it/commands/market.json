@@ -1,7 +1,0 @@
-{
-    "MARKET_DESCRIPTION": "Questo comando elenca tutti gli ordini attualmente disponibili sul mercato. Il mercato può essere utilizzato dai giocatori per offrire i propri wists in cambio di gemme tramite il comando \"{{prefix}}marketlist\"",
-    "NO_LISTING_FOUND": "{{author}} Non è riuscito a trovare alcun ordine sul mercato",
-    "MARKET_WARN": "**Tasso Medio**: **`{{averageRate}}` | Scambio Totali**: **`{{totalTrades}}`**",
-    "FOOTER": "Visualizzazione dei risultati {{page}}-{{pages}} di {{total}}",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Valutazione: `{{rateAmount}}` {{rateEmoji}}"
-}

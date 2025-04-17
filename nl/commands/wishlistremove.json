@@ -1,8 +1,0 @@
-{
-    "WISHLISTREMOVE_DESCRIPTION": "Gebruik dit commando om een karakter te verwijderen van uw verlanglijst",
-    "CATEGORY": "Verlanglijst",
-    "NO_INDEX": "{{author}} Correcte gebruik: `{{prefix}}wr <Naam/Nummer>`. Gebruik het commando `{{prefix}}wr full reset` om uw volledige verlanglijst te wissen",
-    "FULL_RESET": "{{author}} U heeft succesvol alle karakters van uw verlanglijst verwijderd",
-    "REMOVE_CHARACTER": "{{author}} U heeft **{{name}}** succesvol van uw verlanglijst verwijderd",
-    "NO_RESULTS": "{{author}} Er is geen karakter met de naam `{{name}}` op uw verlanglijst"
-}

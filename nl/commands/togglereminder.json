@@ -1,7 +1,0 @@
-{
-    "RM_CATEGORY": "Instellingen",
-    "REMINDER_ENABLED": "{{author}} U krijgt nu een melding wanneer uw **{{reminder}}** klaar is",
-    "REMINDER_DISABLED": "{{author}} U ontvangt geen melding meer wanneer uw **{{reminder}}** klaar is",
-    "TOGGLEREMINDER_DESCRIPTION": "Met deze commando kunt u de status van uw herinneringen wijzigen. U kunt ook de commando \"{{prefix}}cooldown\" gebruiken en op het bel icoontje klikken",
-    "PROVIDE_REMINDER_NAME": "{{author}} Correcte gebruik: `{{prefix}}tr <Vote/Daily/Bump>`"
-}

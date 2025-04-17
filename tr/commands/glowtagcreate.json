@@ -1,9 +1,0 @@
-{
-    "GLOWTAGCREATE_DESCRIPTION": "Bu komutla, kendi kriterlerinize uyan birden fazla Glowu kategorilere ayırmak ve gruplandırmak için bir etiket oluşturabilirsiniz. Oluşturulan etiketleri Glowlara atamak için \"{{prefix}}Glowtag\" komutunu kullanın",
-    "GTC_CATEGORY": "Etiketler",
-    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}gtc <EtiketAdı> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Bu emoji geçersiz",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Bu isme sahip bir \"Glow Tag\" zaten var",
-    "CREATED_GLOWTAG": "{{author}} Başarı ile `{{tag}}` | {{emoji}} adında bir `Glow Tag` oluşturuldu",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Etiket adınız alfanümerik olmalı ve özel karakterler, boşluklar veya herhangi bir şekilde uygunsuz ifadeler içermemelidir"
-}

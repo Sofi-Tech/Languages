@@ -1,7 +1,0 @@
-{
-    "TOGGLEREMINDER_DESCRIPTION": "Bu komut ile hatırlatıcılarınızın durumunu değiştirebilirsiniz. Alternatif olarak \"{{prefix}}Cooldown\" komutunu kullanabilir veya zil ikonuna tıklayabilirsiniz",
-    "RM_CATEGORY": "Ayarlar",
-    "REMINDER_ENABLED": "{{author}} **{{reminder}}** hazır olduğunda artık bilgilendirileceksiniz",
-    "REMINDER_DISABLED": "{{author}} **{{reminder}}** hazır olduğunda artık bilgilendirilmeyeceksiniz",
-    "PROVIDE_REMINDER_NAME": "{{author}} Doğru kullanım: `{{prefix}}tr <Vote/Daily/Bump>"
-}

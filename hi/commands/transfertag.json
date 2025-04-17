@@ -1,7 +1,0 @@
-{
-    "TRANSFERTAG_DESCRIPTION": "पत्तो को एक टैग से दूसरे टैग में स्थानांतरित करता है",
-    "TRTAG_CATEGORY": "TAGS",
-    "WRONG_USAGE": "{{author}} सही उपयोग: `{{prefix}}trt <fromOldTag> <toNewTag>`",
-    "TAG_NOT_FOUND": "{{author}} आपके पास इस नाम से कोई टैग मौजूद नहीं है `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} सभी पत्ते `{{fromTag}}` से `{{toTag}}` में सफलतापूर्वक स्थानांतरित किए गए"
-}

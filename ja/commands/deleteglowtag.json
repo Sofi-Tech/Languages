@@ -1,7 +1,0 @@
-{
-    "DELETEGLOWTAG_DESCRIPTION": "このコマンドをGlowタグ名と一緒に使用すると選択したタグの削除を試みます",
-    "DGT_CATEGORY": "タグ",
-    "CORRECT_USAGE": "{{author}} 正しい使い方：`{{prefix}}dgt <TagName>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} `{{tagname}}`という名前の **Glow**タグはありません",
-    "DELETE_GLOWTAG": "{{author}} `{{tag}}` という **Glow**タグを削除するのに成功しました"
-}

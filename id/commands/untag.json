@@ -1,9 +1,0 @@
-{
-    "UNTAG_DESCRIPTION": "Gunakan perintah ini untuk menghapus tag dari kartu anda atau Version Token. Jika anda ingin menghapus seluruh tag, anda dapat menggunakan perintah \"{{prefix}}tagdelete\"",
-    "UT_CATEGORY": "Tag",
-    "UT_EMPTY_COLLECTION": "{{author}} Anda belum memiliki kartu apa pun dalam koleksi anda",
-    "UNTAG_SUCCESSFUL": "{{author}} Berhasil menghapus tag dari **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Berhasil menghapus tag dari **{{count}}** kode",
-    "INVALID_CODE": "{{author}} Kode tersebut tidak valid atau tidak ada dalam koleksi anda",
-    "INVALID_CODE_MULTIPLE": "{{author}} Kode berikut ini tidak valid atau tidak ada dalam koleksi anda:\n{{invalidCodeList}}"
-}

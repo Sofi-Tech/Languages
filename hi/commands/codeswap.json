@@ -1,8 +1,0 @@
-{
-    "CODESWAP_DESCRIPTION": "इस कमांड से आप दो अलग पत्तो के बीच कोड की अदला बदली कर सकते हैं",
-    "SLASH_DESC": "पहला कोड दर्ज करें",
-    "SLASH_DESC2": "दूसरा कोड दर्ज करें",
-    "CORRECT_USAGE": "{{author}} सही उपयोग: `{{prefix}}cs <Code1> <Code2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} आपके द्वारा प्रदान किए गए कोड में से कोई एक अमान्य है या आपके संग्रह में मौजूद नहीं है",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} चयनित पत्तो के कोड को सफलतापूर्वक बदला गया"
-}

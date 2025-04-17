@@ -1,8 +1,0 @@
-{
-    "WISHLISTREMOVE_DESCRIPTION": "استخدم هذا الأمر لإزالة شخصية او صورة من قائمة الرغبات",
-    "CATEGORY": "قائمة الرغبات",
-    "NO_INDEX": "{{author}} طريقة الاستخدام الصحيحة: `{{prefix}}wr <CharacterName/Number>`. استخدم هذا الأمر`{{prefix}}wr full reset` لتصفية قائمة الرغبات الخاصة بك",
-    "FULL_RESET": "{{author}} أزلت جميع الشخصيات من قائمة رغباتك",
-    "REMOVE_CHARACTER": "{{author}} أزالت **{{name}}** من قائمة رغباتك بنجاح",
-    "NO_RESULTS": "{{author}} لا يوجد شخصية بإسم `{{name}}` في قائمة الرغبات خاصتك"
-}

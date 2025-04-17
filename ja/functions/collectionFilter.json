@@ -1,6 +1,0 @@
-{
-    "PROVIDE_CATEGORY": "{{author}} 次のカテゴリーのうち一つを指定してください```apache\n{{categories}}```",
-    "PROVIDE_FILTER": "{{author}} 並べ替え方法と一緒にフィルターを追加してください",
-    "TOO_LONG_FILTER": "{{author}} 指定したフィルターが長すぎます。もう一度お試しください",
-    "TOO_MANY_FILTER_GROUPS": "{{author}}5つまでのフィルターグループしか持てません。もう一度お試しください"
-}

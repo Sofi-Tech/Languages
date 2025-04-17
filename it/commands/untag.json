@@ -1,9 +1,0 @@
-{
-    "UNTAG_DESCRIPTION": "Usa questo comando per rimuovere un tag dalla tua carta. Se desideri eliminare un intero tag puoi utilizzare invece il comando \"{{prefix}}tagdelete\"",
-    "UT_CATEGORY": "Tags",
-    "UT_EMPTY_COLLECTION": "{{author}} Non hai ancora carte nella tua collezione",
-    "UNTAG_SUCCESSFUL": "{{author}} Ha rimossato con successo il tag dalla tua carta **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Ha rimossato con successo il tag dalle carte **{{count}}**",
-    "INVALID_CODE_MULTIPLE": "{{author}} I seguenti codici delle carte non sono validi o non sono presenti nel tuo collezione:\n{{invalidCodeList}}",
-    "INVALID_CODE": "{{author}} Il codice della carta non è valido o non è nel tuo collezione"
-}

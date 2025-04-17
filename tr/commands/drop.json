@@ -1,9 +1,0 @@
-{
-    "DROP_DESCRIPTION": "Bu komutla, rastgele Gen'e sahip 3 karttan oluşan bir set oluşturabileceksiniz. Sofi'ye oy vererek elde edebileceğiniz Wists ile \"{{prefix}}shop\" komutundan ek Droplar satın alabilirsiniz",
-    "EXTRA_DROP_ALERT": "{{author}} **Extra Drop**'unuz kullanılıyor. Kalan **Extra Drop** sayınız: {{remaining}}",
-    "ON_CD": "{{author}} **Drop**'unuz belirtilen süre içinde hazır olacak: {{dropCd}}",
-    "VOTE": "Oy",
-    "BUY_DROP": "\n\n- Ayrıca **Wist **kazanmak için **Vote** verebilirsiniz! Wist'leri takas etmek için {{prefix}}buy drop komutunu kullanın",
-    "DROPPING_CARD": "{{author}} kart **drop**'luyor",
-    "WISHLIST_ALERT": "İstek listenizden bir kart düşüyor! {{users}}"
-}

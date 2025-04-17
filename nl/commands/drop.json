@@ -1,9 +1,0 @@
-{
-    "DROP_DESCRIPTION": "Met deze commando kunt u een set van 3 kaarten genereren met willekeurige Gens. U kunt extra Drops kopen via de commando \"{{prefix}}shop\" met Wists, die u kunt verkrijgen door op Sofi te stemmen",
-    "EXTRA_DROP_ALERT": "{{author}} Uw extra drop wordt gebruikt. U heeft nog **{{remaining}}** over",
-    "ON_CD": "{{author}} Uw **Drop** zal klaar zijn in **{{dropCd}}**",
-    "VOTE": "Vote",
-    "BUY_DROP": "\n\n- U kunt ook **Vote** om **Wists** te krijgen! Gebruik hiervoor het commando `{{prefix}}buy drop` om ze uit te wisselen",
-    "WISHLIST_ALERT": "Er valt een kaart van uw verlanglijst! {{users}}",
-    "DROPPING_CARD": "{{author}} is kaarten aan het **droppen**"
-}

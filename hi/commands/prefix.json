@@ -1,6 +1,0 @@
-{
-    "PREFIX_DESCRIPTION": "इस कमांड से आप अपने सर्वर के लिए प्रीफ़िक्स सेट कर सकते हैं। Sofi पर कमांड का काम करने के लिए चयनित रीफ़िक्स की आवश्यकता होगी",
-    "PREFIX_CATEGORY": "SETTINGS",
-    "PROVIDE_PREFIX": "{{author}} सही उपयोग: `{{prefix}}prefix <NewPrefix>`",
-    "PREFIX_SET_SUCCESSFUL": "{{author}} सर्वर प्रिफिक्स `{{prefix}}` सेट किया गया"
-}

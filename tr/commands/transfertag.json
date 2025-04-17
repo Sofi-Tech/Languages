@@ -1,7 +1,0 @@
-{
-    "TRANSFERTAG_DESCRIPTION": "Bir etiket içindeki tüm kartları farklı bir etikete aktarmak için bu komutu kullanabilirsiniz",
-    "TRTAG_CATEGORY": "Etiketler",
-    "WRONG_USAGE": "{{author}} Doğru kullanım: `{{prefix}}trt <EskiTag> <YeniTag>`",
-    "TAG_NOT_FOUND": "{{author}} `{{tag}}` adında bir etiketiniz bulunmuyor",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Tüm kartlarınız `{{fromTag}}` etiketinden `{{toTag}}` etiketine başarıyla aktardı"
-}

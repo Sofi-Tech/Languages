@@ -1,8 +1,0 @@
-{
-  "GLOWTAGCREATE_DESCRIPTION": "创建一个 \"glow tag\"",
-  "GTC_CATEGORY": "标签",
-  "CORRECT_USAGE": "{{author}} 使用：`{{prefix}}gtc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} 不是有效的表情符号",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} **使用该名称的发光标签已存在",
-  "CREATED_GLOWTAG": "{{author}} **创建了名为** `{{tag}}` **的发光标签** | {{emoji}}"
-}

@@ -1,7 +1,0 @@
-{
-    "TOGGLEREMINDER_DESCRIPTION": "このコマンドでリマインダーを切り替えます。ドロップやグラブのリマインダーには「Cooldown」コマンドとベルアイコンを使用してください",
-    "RM_CATEGORY": "設定",
-    "PROVIDE_REMINDER_NAME": "{{author}} 正しい使い方:`{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_DISABLED": "{{author}}**{{reminder}}**の準備ができても、通知はされません",
-    "REMINDER_ENABLED": "{{author}} **{{reminder}}**の準備ができたら通知されます"
-}

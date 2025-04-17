@@ -1,8 +1,0 @@
-{
-    "SS_CATEGORY": "Instellingen",
-    "SS_SLASH_DESC": "Selecteer een kanaal",
-    "SS_DISABLE": "{{author}} Kaarten verschijnen niet langer op deze server",
-    "SS_ENABLE": "{{author}} Het spawn kanaal is ingesteld op {{channel}}",
-    "SETSPAWN_DESCRIPTION": "Als u dit commando in een kanaal gebruikt of een kanaal vermeldt, wordt dat kanaal als spawn kanaal ingesteld of verwijderd. Afhankelijk van de stijgende serveractiviteit zal Sofi soms zelf kaarten in het opgegeven kanaal droppen",
-    "SS_MENTION_CHANNEL": "{{author}} Correcte gebruik: `{{prefix}}ss <#ChannelMention/ChannelID>`"
-}

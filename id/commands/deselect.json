@@ -1,7 +1,0 @@
-{
-    "DESELECT_CATEGORY": "Guild",
-    "ENTER_VALID_CODE": "{{author}} Penggunaan yang benar: `{{prefix}}ds <CardCode>`",
-    "DESELECT_DESCRIPTION": "Perintah ini dapat digunakan untuk menghapus kartu dari deck mana pun yang tersimpan saat ini",
-    "DESELECTED_SUCCESSFULLY": "{{author}} Berhasil membatalkan pilihan kartu",
-    "NOT_OWN_CARD": "{{author}} Kode kartu yang Anda berikan tidak valid atau tidak ada dalam koleksi Anda"
-}

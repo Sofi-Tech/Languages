@@ -1,8 +1,0 @@
-{
-    "CODESWAP_DESCRIPTION": "Bu komutla belirtilen iki kartın kodlarını değiştirebilirsiniz",
-    "SLASH_DESC": "İlk kartın kodunu girin",
-    "SLASH_DESC2": "İkinci kartın kodunu girin",
-    "CORRECT_USAGE": "{{author}} Doğru kullanım: `{{prefix}}cs <Kod1> <Kod2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} Sağladığınız kart kodlarından en az biri geçersiz veya koleksiyonunuzda bulunmuyor",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} Seçilen kartların kodları başarıyla değiştirildi"
-}

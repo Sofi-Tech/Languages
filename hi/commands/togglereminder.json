@@ -1,7 +1,0 @@
-{
-    "TOGGLEREMINDER_DESCRIPTION": "इस कमांड से आप अपने रिमाइंडर की स्तिथि बदल सकते हैं। आप \"{{prefix}}cooldown\" कमांड पर घंटी का बटन दबाके भी स्तिथि बदल सकते है",
-    "RM_CATEGORY": "SETTINGS",
-    "PROVIDE_REMINDER_NAME": "{{author}} सही उपयोग: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} जब आपका **{{reminder}}** दुबारा मौजूद होगा तब आपको सूचित कर दिया जाएगा",
-    "REMINDER_DISABLED": "{{author}} अब से आपके **{{reminder}}** के दुबारा मौजूद होने पर आपको सूचित नही किया जाएगा"
-}

@@ -1,9 +1,0 @@
-{
-    "EXTRA_GRAB": "{{user}}您的额外**Grab**正被使用。您还剩下**{{remaining}}**",
-    "WAIT_TO_CLAIM": "{{user}}您必须等待 **{{cooldown}}** 才能拿下另一张卡片",
-    "BATTLED_AND_WON": "{{winner}}击退{{user}}、**拿到****{{character}}**卡片（`{{code}}`）|{{elementEmoji}}**{{elementName}}**",
-    "CANNOT_BE_GRABBED": "{{user}}**拿到****{{characterName}}**卡片",
-    "EMBED_FOOTER": "通过输入验证码领取卡片",
-    "TOOK_THE_CARD": "{{user}}**拿到****{{character}}**卡片（`{{code}}`）|{{elementEmoji}}**{{elementName}}**",
-    "BATTLED_WON_PLURAL": "{{winner}}击退**{{userCount}}**位玩家、**拿到****{{character}}**卡片（`{{code}}`）|{{elementEmoji}}**{{elementName}}**"
-}

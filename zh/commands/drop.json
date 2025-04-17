@@ -1,8 +1,0 @@
-{
-    "DROP_DESCRIPTION": "{{prefix}}- 每隔8分钟，您可以使用此命令丢弃3张卡片。\n- 使用命令“sdn”进行丢弃而不使用任何图像。 在数据不足或不想滞后时很有帮助",
-    "EXTRA_DROP_ALERT": "{{author}}*您的额外掉落已被使用。 您剩余 `{{remaining}}`.*",
-    "ON_CD": "{{author}}请在{{dropCd}}后再试一次",
-    "VOTE": "投票",
-    "BUY_DROP": "\n\n- 您还可以通过`Vote`来获得`Wists`！使用指令 `{{prefix}}buy drop` 进行交换",
-    "DROPPING_CARD": "{{author}} 正在 **dropping** 卡片\n"
-}
