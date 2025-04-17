@@ -32,9 +32,9 @@ Thank you for contributing to [Sofi] translations!
 GitHub: [Sarcaster](https://github.com/sarcasterXO)
 GitHub: [Voxelli](https://github.com/legendhimself)
 
-### Translation Extractors: Sarcaster, Hound, Voxelli
+### Translation Extractors: Sarcaster, Hound, Voxelli, Parbez
 
-[Hound](https://github.com/Warrior-hound), [Voxelli](https://github.com/legendhimself)
+[Sarcaster](https://github.com/sarcasterXO), [Hound](https://github.com/Warrior-hound), [Voxelli](https://github.com/legendhimself), [Parbez](https://github.com/imranbarbhuiya)
 
 ### Source Translators & Reviewers: Crowdslay & Shoxie
 
