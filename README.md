@@ -27,11 +27,15 @@ Thank you for contributing to [Sofi] translations!
 
 ## Team
 
-### Translation Lead: Voxelli
+### Translation Lead: Sarcaster, Voxelli
+
+GitHub: [Sarcaster](https://github.com/sarcasterXO)
 GitHub: [Voxelli](https://github.com/legendhimself)
 
 ### Translation Extractors: Sarcaster, Hound, Voxelli
-GitHub: [Sarcaster](https://github.com/sarcasterXO), [Hound](https://github.com/Warrior-hound), [Voxelli](https://github.com/legendhimself)
+
+[Hound](https://github.com/Warrior-hound), [Voxelli](https://github.com/legendhimself)
 
 ### Source Translators & Reviewers: Crowdslay & Shoxie
+
 ### All the Sofi [players](https://translate.sofi.gg/stats/) who are helping in translating the bot into 16 langauges.
