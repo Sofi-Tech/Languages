@@ -1,4 +1,13 @@
 {
-  "SCRATCH_DESCRIPTION": "Use this command to scratch your card or banner",
-  "SCRATCH_CATEGORY": "Settings"
+    "SCRATCH_DESCRIPTION": "Verwende diesen Befehl, um deine Karte oder Banner zu rubbeln",
+    "SCRATCH_CATEGORY": "Einstellungen",
+    "CARD_ALREADY_SCRATCHED": "{{author}} Die Karte wurde bereits gerubbelt",
+    "SCRATCH_EMBED_TITLE": "SOFI: SCRATCHER",
+    "BANNER_ALREADY_SCRATCHED": "{{author}} Der Banner wurde bereits gerubbelt",
+    "SCRATCH_BUTTON_LABEL": "Rubbeln",
+    "SCRATCH_INFO": "Klicke den Button unter hier, um deine Karte oder Banner zu rubbeln",
+    "SCRATCH_INFO_CARD": "Klicke den Button unter hier, um deine Karte zu rubbeln",
+    "SCRATCH_INFO_BANNER": "Klicke den Button unter hier, um deinen Banner zu rubbeln",
+    "BANNER_INVALID_CODE": "{{author}} Der angegebene Bannercode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "CARD_INVALID_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung"
 }
