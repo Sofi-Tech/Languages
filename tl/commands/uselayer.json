@@ -1,13 +1,13 @@
 {
     "USELAYER_CATEGORY": "Mga Kosmetiko",
     "UL_CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}ul <CardCode> <Layer-ID>`",
-    "CANNOT_APPLY_LAYER_GIF": "{{author}} Hindi ka maaaring maglapat ng **Layer** sa isang **GIF** card",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Hindi ka maaaring maglapat ng **Layer** sa isang **GIF** kard",
     "USE_LAYER_CONFIRM": "Sigurado ka bang nais mong ilapat ang **{{name}}** **Layer** sa kard na ito?",
-    "CARD_NOT_IN_COLLECTION": "{{author}} Ang card ay wala na sa iyong koleksyon",
-    "DONT_HAVE_LAYER": "{{author}} Wala kang **{{name}}** **Layer**",
-    "USE_LAYER_SUCCESSFUL": "{{author}} Matagumpay na nailapat ang **{{name}}** **Layer** sa iyong card",
+    "CARD_NOT_IN_COLLECTION": "{{author}} Ang kard ay wala na sa iyong koleksyon",
+    "DONT_HAVE_LAYER": "{{author}} Wala ka ng mga sumusunod na **Layer:**\n{{layers}}",
+    "USE_LAYER_SUCCESSFUL": "{{author}} Matagumpay na nailapat ang **{{name}}** **Layer** sa iyong kard",
     "NO_LAYER_FOUND": "{{author}} Hindi mahanap ang **Layer** na may ID `{{layerId}}`",
-    "USELAYER_DESCRIPTION": "Ang command na ito ay maglalapat ng napiling Layer sa isang card na iyong pinili. Maaari kang bumili ng mga Layer sa pamamagitan ng paggamit ng \"{{prefix}}layershop\" na command",
+    "USELAYER_DESCRIPTION": "Ang command na ito ay maglalapat ng napiling Layer sa isang kard na iyong pinili. Maaari kang bumili ng mga Layer sa pamamagitan ng paggamit ng \"{{prefix}}layershop\" na command",
     "CARD_INVALID": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "UL_EMBED_FOOTER": "Ang pagkumpirma sa prosesong ito ay sisira sa kasalukuyang nakalapat na Layer"
 }
