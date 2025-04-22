@@ -14,6 +14,7 @@
     "PROVIDE_CODES": "{{author}} Correct usage: `{{prefix}}swap <CardCode1> <CardCode2>`",
     "INVAILD_CODE": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
     "NO_GIF": "{{author}} You cannot use this function on a **GIF** card",
+    "SWAP_SAME":"{{author}} You cannot swap a card with itself",
     "NO_COSMETICS": "{{author}} Your cards have no eligible cosmetics that could be swapped",
     "MENU_FEATURES_PLACEHOLDER": "Select an Option",
     "EMBED_TITLE": "SOFI: SWAP",
