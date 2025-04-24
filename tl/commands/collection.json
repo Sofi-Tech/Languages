@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Ang command na ito ay ipapakita ang iyong buong koleksyon, na maaari mong i-sort at i-filter sa iba't ibang paraan. Sa paggamit ng command na ito kasama ang mga karagdagang prompts ay mag bubukas ng embed na mayroon nang partikular na filter. Gamitin ang prompt na \"t:ut\" kasama ng command na ito upang bigyang-diin ang lahat ng mga kard sa iyong koleksyon na sa kasalukuyan ay walang tag. Gamitin ang \"{{prefix}}help filter\" na command para makita lahat ng available na filter",
+    "COLLECTION_DESCRIPTION": "Ang command na ito ay magpapakita ng iyong buong koleksyon, na maaari mong i-sort at i-filter sa iba't ibang paraan. Sa paggamit ng command na ito kasama ang mga karagdagang prompts ay mag bubukas ng embed na mayroon nang partikular na filter. Gamitin ang prompt na \"t:ut\" kasama ng command na ito upang bigyang-diin ang lahat ng mga kard sa iyong koleksyon na sa kasalukuyan ay walang tag. Gamitin ang \"{{prefix}}help filter\" na command para makita lahat ng available na filter",
     "SLASH_CMD_DESC": "Ipinapakita ang iyong kard koleksyon",
     "SLASH_DESC": "Pumili ng user para makita ang kanilang koleksyon",
     "SLASH_DESC2": "Ilagay ang mga filter na gusto mong ilapat sa koleksyon",
@@ -30,7 +30,7 @@
     "TAG_MODAL_PLACEHOLDER": "Magdagdag ng \"-\" upang maramihang tanggalin ang mga tag",
     "TAG_MODAL_TITLE": "Maramihang Tag",
     "TAG_NO_CARDS_FOUND": "Walang mahanap na kahit anong kard na mayroong tag na`{{arg}}`",
-    "EMBED_FOOTER": "Pahina: {{page}}/{{totalPages}} | Kabuuang Kard: {{count}} {{sortedBy}}",
+    "EMBED_FOOTER": "Pahina: {{page}}/{{totalPages}} | Kabuuang kard: {{count}} {{sortedBy}}",
     "MASSTAG_WRONG_TAG": "Walang mahanap na kahit anong tag na may pangalan na `{{arg}}`",
     "NO_RESULTS_OTHERS": "{{author}} Ang user na iyon ay walang kahit anong kard sa kanilang koleksyon",
     "APPLY_FILTER_TO_OTHER": "500 - {{filterName}}",
