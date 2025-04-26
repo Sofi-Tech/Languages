@@ -25,5 +25,6 @@
     "SOME_GLOW": "Indisponible",
     "SOME_CODE": "Indisponible",
     "SOME_FRAME": "Indisponible",
-    "CARD_LAYERED": "**Layer{{s}}** appliquée(s):\n{{layerInfo}}"
+    "CARD_LAYERED": "**Layer{{s}}** appliquée(s): {{layerInfo}}",
+    "CARD_FONT_FACE": "**Police d'écriture:** `{{fontFace}}`\n"
 }
