@@ -1,7 +1,7 @@
 {
     "LOOKUP_DESCRIPTION": "Sa command na ito maaaring mong hanapin ang kahit sinong karakter na gusto mo. Ang nalikhang embed ay magpapakita ng iba't ibang Version, pati narin ang mga Event na variant",
     "CHAR_NOT_FOUND": "{{author}} Walang mahanap na kahit sinong karakter na may pangalang `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging sensitibo sa case ang function!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging case sensitive ang function!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "SUBMITTED": "**Isinumite ni** <@{{userID}}>",
     "EMBED_FOOTER": "Ikaw ay maaaring magsumite ng mga bagong Version gamit ang \"{{prefix}}sc\" na command",

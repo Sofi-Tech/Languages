@@ -1,7 +1,7 @@
 {
     "CHARLOOKUP_DESCRIPTION": "Maaari kang maghanap ng isang partikular na karakter sa pamamagitan ng paggamit ng command na ito. Sa menu na ito, maaari mong tingnan ang mga stats ng mga kard, ang kanilang Version/3D /GIF variants, pati na rin ang kanilang mga Gen/Fan leaderboard at ang kanilang Card-ID.",
     "CHAR_NOT_FOUND": "{{author}} Walang mahanap na kahit sinong karakter na may pangalang `{{arg}}`",
-    "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging sensitibo sa case ang function!\n```",
+    "CHAR_NF_SENSITIVE": "{{author}} Walang mahanap na kahit anong karakter na may pangalang `{{arg}}`\n```fix\nPaalala: Sa paggamit ng `-f` na flag, magiging case sensitive ang function!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
     "NORMAL_LABEL": "Version: 1",
     "FAN_PTS_LABEL": "Magdagdag ng Fan Points",
