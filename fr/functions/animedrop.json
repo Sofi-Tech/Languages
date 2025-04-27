@@ -1,6 +1,6 @@
 {
-    "DROP_CARDS": "Lorsque le temps imparti est écoulé, **2** cartes aléatoires de la série la plus votée seront générées!\n",
-    "NO_VOTES": "Aucune série n’ayant été votée, la génération de cartes est annulée!",
-    "DROP_WILL_HAPPEN": "\nGénérations des cartes <t:{{timestamp}}:R>",
+    "DROP_CARDS": "Lorsque le minuteur se termine, **2** cartes aléatoires de la série la plus votée seront générées!\n",
+    "NO_VOTES": "Comme aucune série n'a été votée, la génération des cartes sera annulée!",
+    "DROP_WILL_HAPPEN": "\nGénération des cartes <t:{{timestamp}}:R>",
     "NOT_ENOUGH_CHARACTERS": "La série sélectionnée n'a pas assez de personnages pour générer des cartes"
 }

@@ -4,7 +4,7 @@
     "APPLY_BG": "\nUtilisez la commande `{{prefix}}buy bg <ID-Background> <Montant>` pour acheter un **Background**",
     "VIEW_BACKGROUNDS": "[Cliquez ici pour voir tous les **Backgrounds** disponibles](<https://sofi.gg/backgrounds>)",
     "BGS_CATEGORY": "Cosmétiques",
-    "NO_BG_FOUND": "{{author}} Aucun **Background** avec cet ID n'a été trouvé",
+    "NO_BG_FOUND": "{{author}} Impossible de trouver un **Background** avec cet ID",
     "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
     "SHOWING_PAGE": "Page affichée: {{page}}/{{pages}}"
 }
