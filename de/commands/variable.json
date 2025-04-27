@@ -23,7 +23,7 @@
     "SPEED": "Geschwindigkeit",
     "HP": "Lebenspunkte",
     "ERROR": "{{author}} Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
-    "MEMBER_BLACKLISTED": "{{author}} Dieser Nutzer ist auf der Blacklist",
+    "MEMBER_BLACKLISTED": "{{author}} Dieser Nutzer ist auf der Verbotsliste",
     "AUTHOR_BLACKLISTED": "{{author}} Du bist geblacklistet",
     "AUTHOR_QUARANTINED": "{{author}} Du stehst unter Quarantäne. Besuche unseren [Guide](<https://guide.sofi.gg/user-status#quarantined>), um detaillierte Informationen über den Quarantänestatus zu erhalten.",
     "MEMBER_NOT_VERIFIED": "{{author}} Dieser Nutzer ist nicht verifiziert",
@@ -43,5 +43,6 @@
     "AVAILABLE": "Verfügbar",
     "NOT_AVAILABLE": "Nicht verfügbar",
     "G1_CLAIM_EMBED_TITLE": "**GEN {{gen}} KARTE EINGESAMMELT**",
-    "G1_CLAIM_INFO": "Einstellige Gen Karten sind selten und bei Spielern sehr begehrt. Wiederholungen dieser Gens sind extrem ungewöhnlich.\nStelle sicher, dass du den Wert der Karte vor dem Handeln nachschaust, und erwäge, die Top Fans zu konsultieren, um den wahren Wert der Karte herauszufinden.\nDu kannst die Top Fans des Characters mit dem \"{{prefix}}charlookup\" Befehl finden."
+    "G1_CLAIM_INFO": "Einstellige Gen Karten sind selten und bei Spielern sehr begehrt. Wiederholungen dieser Gens sind extrem ungewöhnlich.\nStelle sicher, dass du den Wert der Karte vor dem Handeln nachschaust, und erwäge, die Top Fans zu konsultieren, um den wahren Wert der Karte herauszufinden.\nDu kannst die Top Fans des Characters mit dem \"{{prefix}}charlookup\" Befehl finden.",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Dein Inventar hat einen negativen Wert. Bitte kontaktiere uns in unserem Support Server\ndiscord.gg/sofi"
 }

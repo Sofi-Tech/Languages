@@ -1,5 +1,5 @@
 {
-    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Wöchentlich**__ (Zurücksetzung {{time}}) \n<:curvedline:979665878503272478> Raide 20 mal- {{raidPoints}}/20 \n<:curvedline:979665878503272478> Begebe dich auf ein Abenteuer 15 mal - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bumpe auf [Sofi.gg](https://sofi.gg/bump) 15 mal - {{bumpPoints}}/15\n<:curvedline:979665878503272478> Droppe 100 mal - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Erstellen eine 3D-Karte - {{threedPoints}}/1 \n<:curvedline:979665878503272478> Erziele 15000+ Punkte in einem Raid - {{raidScore}}/1",
+    "WEEKLY_TASKS": "### <:7day:1168129632399269908> __**Wöchentlich**__ (Zurücksetzung {{time}}) \n<:curvedline:979665878503272478> Raide 20 mal- {{raidPoints}}/20 \n<:curvedline:979665878503272478> Begebe dich auf ein Abenteuer 15 mal - {{questPoints}}/15 \n<:curvedline:979665878503272478> Bumpe auf [Sofi.gg](https://sofi.gg/bump) 15 mal - {{bumpPoints}}/15\n<:curvedline:979665878503272478> Droppe 100 mal - {{dropPoints}}/100 \n<:curvedline:979665878503272478> Erstelle eine 3D-Karte - {{threedPoints}}/1 \n<:curvedline:979665878503272478> Erziele 15000+ Punkte in einem Raid - {{raidScore}}/1",
     "TASK_DESCRIPTION": "Nutze diesen Befehl, um auf Abenteuer zu gehen und deine täglichen, wöchentlichen und monatlichen Aufgaben für Belohnungen zu erledigen.",
     "DECK_SELECTED_two": "`{{deck}}` ist nun unterwegs auf {{quest}} für {{count}} Stunden",
     "DAILY_TASKS": "### <:1day:1168129639017893949> __**Täglich**__ (Zurücksetzung {{time}}) \n<:curvedline:979665878503272478> Droppe 5 mal - {{dropPoints}}/5 \n<:curvedline:979665878503272478> Bumpe auf [Sofi.gg](https://sofi.gg/bump) - {{bumpPoints}}/1\n<:curvedline:979665878503272478> Morphe eine Karte- {{morphPoints}}/1 \n<:curvedline:979665878503272478> Verbrenne 3 Karten - {{burnPoints}}/3\n<:curvedline:979665878503272478> Stimme ab auf [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote) - {{dblVotePoints}}/1",
@@ -48,7 +48,7 @@
     "DECK_INFO": "Deckinformationen",
     "REWARDS": "Belohnungen",
     "BASE": "Basis",
-    "GUILD": "Guild",
+    "GUILD": "Gilde",
     "LEVEL": "Level",
     "ELEMENT": "Element",
     "STAT": "Statuswert",

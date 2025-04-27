@@ -1,5 +1,5 @@
 {
-    "VIEW_DESCRIPTION": "Cette commande affichera l'apparence visuelle d'une carte spécifiée. Si utilisé sans code de carte, cela affichera à la place votre carte la plus récemment obtenue. Vous pouvez utiliser les boutons pour voir les statistiques, changer la police, convertir la carte en 3D, ou la morph.",
+    "VIEW_DESCRIPTION": "Cette commande affichera l'apparence visuelle d'une carte spécifiée. Si elle est utilisée sans code de carte, cela affichera à la place votre carte la plus récemment obtenue. Vous pouvez utiliser les boutons pour voir les statistiques, changer la police, convertir la carte en 3D, ou la morph.",
     "SLASH_DESC1": "Entrez un code de carte",
     "INVALID_CODE": "{{author}} Le code de carte est invalide",
     "SERIES": "Série:",

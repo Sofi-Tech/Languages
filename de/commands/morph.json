@@ -31,5 +31,8 @@
     "EC_REROLL_COST": "Jede 5 Versuche kosten 1 Energy Crystal",
     "MORPH_CURRENT_ROLLS": "Derzeitige Versuche: **{{count}}/5**",
     "CANNOT_MORPH_BANNER": "{{author}} Der angegebene **Banner** Code ist entweder ungültig oder nicht in deiner Sammlung",
-    "SMR_REROLL_COST": "Jeder Wurf kostet 500 {{currencyName}}"
+    "SMR_REROLL_COST": "Jeder Wurf kostet 500 {{currencyName}}",
+    "BANNER_COST_INFO": "Das Anwenden dieses morphs kostet 1000 Silvers",
+    "NOT_YOUR_BANNER": "{{author}} Du besitzt diesen Banner nicht",
+    "MORPH_PALETTE": "MORPH PALLETE"
 }

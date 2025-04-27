@@ -1,13 +1,13 @@
 {
     "NO_LAYER_FOUND": "{{author}} Aucun **Layer** possédant l'ID `{{layerId}}` n'a été trouvé",
-    "DONT_HAVE_LAYER": "{{author}} Vous n'avez pas les **Layers** suivantes:\n{{layers}}",
+    "DONT_HAVE_LAYER": "{{author}} Vous n'avez pas les **Layers** suivants:\n{{layers}}",
     "USELAYER_CATEGORY": "Cosmétiques",
-    "UL_CORRECT_USAGE": "{{author}} Usage correcte: `{{prefix}}ul <CodeDeCarte> <ID-Layer>`",
-    "CANNOT_APPLY_LAYER_GIF": "{{author}} Vous ne pouvez pas appliquer un **Layer** à une carte **GIF**",
+    "UL_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}ul <CodeDeCarte> <ID-Layer>`",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Vous ne pouvez pas appliquer de **Layer** à une carte **GIF**",
     "USE_LAYER_CONFIRM": "Êtes-vous sûr(e) de vouloir appliquer le **Layer** **{{name}}** à cette carte?",
     "UL_EMBED_FOOTER": "Confirmer ce processus détruira le Layer actuellement appliqué",
     "CARD_NOT_IN_COLLECTION": "{{author}} La carte n'est plus dans votre collection",
     "USE_LAYER_SUCCESSFUL": "{{author}} Le **Layer** **{{name}}** a été appliqué à votre carte avec succès",
-    "CARD_INVALID": "{{author}} Le code de carte que vous avez fourni est soit invalide soit n'est pas dans votre collection",
+    "CARD_INVALID": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "USELAYER_DESCRIPTION": "Cette commande appliquera un Layer sélectionné à une carte de votre choix. Vous pouvez acheter un Layer en utilisant la commande \"{{prefix}}layershop\""
 }

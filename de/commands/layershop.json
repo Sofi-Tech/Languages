@@ -8,5 +8,8 @@
     "LS_PRICE": "**Preis:** {{amount}} {{currencyEmoji}}",
     "LS_CATEGORY": "**Kategorie:** {{category}}",
     "LS_ARTIST": "**Künstler:** {{artist}}",
-    "LAYER_NOT_FOUND": "{{author}} Es konnte keine **Layer** mit der ID `{{layerId}}` gefunden werden"
+    "LAYER_NOT_FOUND": "{{author}} Es konnte keine **Layer** mit der ID `{{layerId}}` gefunden werden",
+    "CATEGORY_MENU_PLACEHOLDER": "Wähle eine Kategorie",
+    "LS_EVENT_MENU_LABEL": "Event",
+    "LS_BACK_MENU_LABEL": "Zurück"
 }
