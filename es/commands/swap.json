@@ -2,11 +2,11 @@
     "SWAP_DESCRIPTION": "Este comando puede ser usado para cambiar cosmeticos específicos entre 2 cartas",
     "SWAP_CATEGORY": "Cosméticos",
     "MENU_FRAME_LABEL": "Frame",
-    "MENU_COLOR_LABEL": "Color de Texto",
+    "MENU_COLOR_LABEL": "Color de Fuente",
     "MENU_MORPH_LABEL": "Morph",
     "MENU_GLOW_LABEL": "Glow",
     "MENU_BG_LABEL": "Background",
-    "PROVIDE_CODES": "{{author}} Uso correcto: `{{prefix}}swap <CódigodeCarta1> <CódigodeCarta2>`",
+    "PROVIDE_CODES": "{{author}} Forma correcta: `{{prefix}}swap <CódigodeCarta1> <CódigodeCarta2>`",
     "NO_GIF": "{{author}} No puedes usar esta función en una carta **GIF**",
     "NO_COSMETICS": "{{author}} Tus cartas no tienen cosméticos elegibles que puedan ser intercambiados",
     "MENU_FEATURES_PLACEHOLDER": "Selecciona una Opción",
@@ -15,11 +15,12 @@
     "SWAPS_CHOSEN": "¿Seguro que quieres intercambiar los siguientes cosméticos?\n",
     "MISSING_SWAP_TOKEN": "{{author}} Te falta un **Swap** para este proceso",
     "DOES_NOT_WORK": "No intentes abusar de los errores, si encuentras alguno explotable, por favor repórtalo al Equipo de Soporte de Sofi directamente.",
-    "SWAP_SUCCESSFUL": "{{author}} Intercambiados con éxito los cosméticos seleccionados",
+    "SWAP_SUCCESSFUL": "{{author}} Se han Intercambiado los cosméticos seleccionados con éxito",
     "INVAILD_CODE": "{{author}} Al menos uno de los códigos de carta que has proporcionado no es válido o no está en tu colección",
     "MENU_NAMECOLOR_LABEL": "Color del Nombre",
     "MENU_LAYER_LABEL": "Layer",
     "MENU_GENCOLOR_LABEL": "Color del Gen",
     "MENU_SERIESCOLOR_LABEL": "Color de la Serie",
-    "MENU_EM_LABEL": "Energized Morph"
+    "MENU_EM_LABEL": "Energized Morph",
+    "SWAP_SAME": "{{author}} Necesitas seleccionar los cartas distintas para hacer un swap"
 }

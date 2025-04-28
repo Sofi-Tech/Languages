@@ -28,8 +28,8 @@
     "SET_BANNER_BUTTON_LABEL": "Set Banner",
     "BACK_CHARACTERS_BUTTON_LABEL": "Back to Characters",
     "NO_COMBO_FOUND": "No combo cards found for characters in this series.",
-    "COMBO_SERIES_DATA": "Found {{count}} combo cards related to {{series}}\nType a number to view details.",
-    "BANNER_MAXIMUM_CREATIONS": "This banner has reached the maximum amount of creations.",
-    "ALREADY_PROJECT_SERIES": "You already have a project for this series. Please delete it before creating a new one.",
-    "PROJECT_CREATED": "Project for **{{series}}** was successfully created"
+    "COMBO_SERIES_DATA": "Found {{count}} combo cards for {{series}}\nType the number below to view its details.",
+    "BANNER_MAXIMUM_CREATIONS": "This banner has reached the limit for the number of banners that can be created.",
+    "ALREADY_PROJECT_SERIES": "You already have a banner project for this series. Please delete it before creating a new one.",
+    "PROJECT_CREATED": "Successfully created banner project for **{{series}}**"
 }
