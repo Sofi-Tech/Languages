@@ -47,5 +47,8 @@
     "USERINFO_DESCRIPTION": "Usar este comando abrirá uma incorporação listando várias estatísticas da conta Sofi de um usuário. Você também pode selecionar um idioma diferente usando o menu suspenso na parte inferior",
     "LANG_CHANGE_SUCCESS": "Seu idioma foi alterado com sucesso para **{{language}}**! Observe que nossa atualização de tradução ainda está em fases iniciais de desenvolvimento e ainda não abrange todos os nossos comandos existentes! \n\nOs comandos não traduzidos incluem:\n\n- **Deck** \n- **Stats**\n- **Event** \n\nSe você encontrar algum texto faltando, tradução defeituosa ou incorporações e funções quebradas ao usar este idioma, recomendamos que você relate esses problemas usando o comando `{{prefix}}lrt <Input>`. Alternativamente, você pode relatar suas descobertas em nosso [Servidor de Suporte Oficial](<https://discord.gg/sofi> )!",
     "CHOOSE_LANGUAGE_PLACEHOLDER": "Escolha sua língua",
-    "UI_RAIDS": "Raids"
+    "UI_RAIDS": "Raids",
+    "UI_COMBOS": "Combos",
+    "UI_BANNERS": "Banners",
+    "UI_BANNERS_CREATED": "Banners Edits"
 }

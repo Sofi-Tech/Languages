@@ -28,5 +28,8 @@
     "SET_BANNER_BUTTON_LABEL": "Establecer Banner",
     "BACK_CHARACTERS_BUTTON_LABEL": "Regresar a los personajes",
     "NO_COMBO_FOUND": "No se encuentra ninguna carta Combo para los personajes en esta serie.",
-    "COMBO_SERIES_DATA": "Se encontraron {{count}} Cartas combo para la serie {{series}}\nEscribe el numero debajo para ver los detalles."
+    "COMBO_SERIES_DATA": "Se encontraron {{count}} Cartas combo para la serie {{series}}\nEscribe el numero debajo para ver los detalles.",
+    "BANNER_MAXIMUM_CREATIONS": "Este banner ha llegado al numero limite de banners que pueden ser creados.",
+    "ALREADY_PROJECT_SERIES": "Ya tienes un proyecto de banner para esta serie. Por favor bórralo antes de crear uno nuevo.",
+    "PROJECT_CREATED": "Se ha creado un banner para {{series}} Con exito"
 }
