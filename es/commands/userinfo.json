@@ -1,12 +1,12 @@
 {
-    "UI_SLASH_DESC": "Elije un usuario que quieras inspeccionar",
+    "UI_SLASH_DESC": "Elije un usuario que quieras mostrar",
     "USER_BLACKLISTED": "{{author}} Ese usuario está en la lista negra",
     "PROFILE_BUTTON_LABEL": "Perfil Web",
     "UI_TRADE_PASS": "<:_:979009081325019156> **Trade Pass** - **[{{date}}]**",
     "UI_GUILD_JOINED": "<:_:979009081325019156> Unido al Gremio - **{{guild}}**",
     "USER_IS_BOT": "{{author}} Ese usuario es un `BOT` de Discord",
     "USER_NOT_REGISTERED": "{{author}} Ese usuario no está registrado",
-    "USERINFO_DESCRIPTION": "Usar este comando abrirá un mensaje embed listando varias estadísticas de la cuenta de Sofi de un usuario. También puedes seleccionar un idioma diferente usando el menú que se encuentra en la parte inferior",
+    "USERINFO_DESCRIPTION": "Usar este comando abrirá un mensaje embed listando varias estadísticas de la cuenta de Sofi de un usuario. También puedes seleccionar un idioma predeterminado usando el menú que se encuentra en la parte inferior",
     "UI_CATEGORY": "Configuración",
     "UI_3D": "3D",
     "UI_ATTACKS": "Ataques",
@@ -49,6 +49,6 @@
     "CHOOSE_LANGUAGE_PLACEHOLDER": "Escoge tu idioma",
     "UI_RAIDS": "Raids",
     "UI_BANNERS": "Banners",
-    "UI_BANNERS_CREATED": "Banners creados",
+    "UI_BANNERS_CREATED": "Banners Editados",
     "UI_COMBOS": "Combos"
 }
