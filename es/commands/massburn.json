@@ -5,7 +5,7 @@
     "WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre `{{arg}}`",
     "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda\n```fix\nNota: Las cartas bloqueadas, variantes GIF o utilizadas en un mazo no se pueden quemar\n```",
     "CARDS_BURNED": "__Cartas Seleccionadas [ {{totalCards}} ]__",
-    "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar irreversiblemente estas cartas?",
+    "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar __irreversiblemente__ estas cartas?",
     "MISSING_CARDS": "{{author}} Al menos una de las cartas seleccionadas ya no está en tu colección",
     "SUCCESS": "{{author}} Has quemado con éxito las cartas seleccionadas",
     "BURN_REWARDS": "__Recompensas__",
