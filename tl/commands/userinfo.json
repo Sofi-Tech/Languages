@@ -46,8 +46,9 @@
     "UI_TP_EXPIRED": "Nag-expire na",
     "UI_INVITED": "Naimbitahan",
     "LANG_CHANGE_SUCCESS": "Matagumpay na napalitan ang iyong wika sa **{{language}}**! Pakitandaan na ang aming pag-update sa pagsasalin ay nasa maagang yugto pa rin ng pag-unlad at hindi pa sumasaklaw sa lahat ng aming umiiral na mga command!\n\nKasama sa mga hindi naisalin na mga command ang:\n\n- **Deck**\n- **Stats**\n- **Event**\n\nKung makakita ka ng anumang nawawalang text, maling pagsasalin o sirang mga embed at function habang ginagamit ang wikang ito, hinihikayat ka naming iulat ang mga isyung ito sa pamamagitan ng paggamit ng command na `{{prefix}}lrt <Input>`. Bilang kahalili, maaari mong iulat ang iyong mga natuklasan sa aming [Opisyal na Support Server](<https://discord.gg/sofi>)!",
-    "CHOOSE_LANGUAGE_PLACEHOLDER": "Pumili ng iyong wika",
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Choose your language",
     "UI_RAIDS": "Raids",
     "UI_BANNERS": "Mga Banner",
-    "UI_BANNERS_CREATED": "Nagawang mga Banner"
+    "UI_BANNERS_CREATED": "Nagawang mga Banner",
+    "UI_COMBOS": "Combos"
 }
