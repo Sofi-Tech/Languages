@@ -11,11 +11,11 @@
     "TAGNAME_EXISTS": "{{author}} Ya tienes un tag con el nombre `{{newTagName}}`",
     "WRONG_TAGNAME_FORMAT": "{{author}} El nombre de tu tag tiene que ser alfanumérico y no puede contener caracteres especiales, espacios ni insultos de ningún tipo",
     "TAGNAME_LONG": "{{author}} El nombre de un tag sólo puede tener **20** caracteres",
-    "REPLACE_NAME_CONFIRMATION": "Estás seguro de que quieres cambiar el nombre de este tag de `{{oldTag}}` a `{{newTag}}`?",
-    "REPLACE_NAME_SUCCESSFUL": "{{author}} Se ha cambiado con éxito el nombre de tu tag de `{{oldTag}}` a `{{newTag}}`",
+    "REPLACE_NAME_CONFIRMATION": "Estás seguro que quieres cambiar el nombre de este tag de `{{oldTag}}` a `{{newTag}}`?",
+    "REPLACE_NAME_SUCCESSFUL": "{{author}} Se ha cambiado el nombre de tu tag de `{{oldTag}}` a `{{newTag}}` con éxito",
     "PROCESS_TERMINATED": "El proceso ha sido cancelado",
     "REPLACE_EMOJI": "Introduce el emote por el que quieres que se sustituya {{emoji}}",
     "WRONG_TAGEMOJI_FORMAT": "{{author}} Ese es un emote no válido",
-    "REPLACE_EMOJI_CONFIRMATION": "Estás seguro de que quieres cambiar el emote de este tag de {{oldEmoji}} a {{newEmoji}}?",
-    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Actualizado con éxito el emote de este tag de {{oldEmoji}} a {{newEmoji}}"
+    "REPLACE_EMOJI_CONFIRMATION": "Estás seguro que quieres cambiar el emote de este tag de {{oldEmoji}} a {{newEmoji}}?",
+    "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Se ha actualizado el emote de este tag de {{oldEmoji}} a {{newEmoji}} con éxito"
 }

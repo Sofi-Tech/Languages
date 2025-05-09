@@ -29,5 +29,7 @@
     "COMBO_EMBED_DESCRIPTION": "Une carte combo contenant {{count}} personnages\nUtilisez les flèches pour naviguer entre les cartes combo.",
     "BANNERS_EMBED_FOOTER": "Banners Créées : {{index}}/{{total}}",
     "COMBO_SERIES_DATA": "{{count}} cartes combo trouvées liées à {{series}}\nTapez un numéro ci-dessous pour voir ses détails.",
-    "BANNER_TYPE": "Type de Banner"
+    "BANNER_TYPE": "Type de Banner",
+    "SERIES_ID": "ID de Série: `{{id}}`",
+    "BANNER_ID": "ID de Banner"
 }

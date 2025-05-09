@@ -27,9 +27,9 @@
     "VIEW_BANNERS_BUTTON_LABEL": "Banner anzeigen",
     "SET_BANNER_BUTTON_LABEL": "Banner festlegen",
     "NO_COMBO_FOUND": "Keine Kombokarten für Charaktere in dieser Serie gefunden.",
-    "BANNER_MAXIMUM_CREATIONS": "Dieser Banner hat die maximale Anzahl an Erstellungen erreicht.",
-    "ALREADY_PROJECT_SERIES": "Du hast bereits ein Projekt für diese Serie. Bitte lösche es, bevor du ein neues erstellst.",
-    "PROJECT_CREATED": "Projekt für {{series}} wurde erfolgreich erstellt",
-    "COMBO_SERIES_DATA": "Es wurden {{count}} Kombokarten für {{series}} gefunden\nGib eine Zahl ein, um Details anzuzeigen.",
+    "BANNER_MAXIMUM_CREATIONS": "Dieses Banner hat die maximale Anzahl an erstellbaren Bannern erreicht.",
+    "ALREADY_PROJECT_SERIES": "Du hast bereits ein Banner Projekt für diese Serie. Bitte lösche es, bevor du ein neues erstellst.",
+    "PROJECT_CREATED": "Bannerprojekt für **{{series}}** erfolgreich erstellt",
+    "COMBO_SERIES_DATA": "Es wurden {{count}} Kombokarten für {{series}} gefunden\nGib die Zahl unten ein, um die Details anzuzeigen.",
     "BACK_CHARACTERS_BUTTON_LABEL": "Zurück zu den Charakteren"
 }
