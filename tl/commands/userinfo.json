@@ -1,6 +1,6 @@
 {
     "UI_3D": "3D",
-    "UI_SLASH_DESC": "Pumili ng user na gusto mong suriin",
+    "UI_SLASH_DESC": "Pumili ng user na gusto mong tignan",
     "UI_ATTACKS": "Mga Atake",
     "USER_NOT_REGISTERED": "{{author}} Ang user na iyon ay hindi naka-rehistro",
     "USER_BLACKLISTED": "{{author}} Ang user na iyon ay blacklisted",
@@ -10,7 +10,7 @@
     "UI_CARDS_COUNT": "<:_:979009081325019156> Bilang ng Kard- **{{cardCount}}**",
     "UI_GUILD_JOINED": "<:_:979009081325019156> Sinalihang Guild - **{{guild}}**",
     "EMBED_AUTHOR": "SOFI: USERINFO ({{username}} - {{status}})",
-    "USERINFO_DESCRIPTION": "Ang paggamit ng command na ito ay magbubukas ng isang naka-embed na listahan ng iba't ibang stats ng Sofi account ng isang user. Maaari ka ring pumili ng ibang wika sa pamamagitan ng paggamit ng dropdown na menu sa ibaba",
+    "USERINFO_DESCRIPTION": "Ang paggamit ng command na ito ay magbubukas ng isang naka-embed na listahan ng iba't ibang stats ng Sofi account ng isang user. Maaari mong piliin ang iyong sariling wika sa pamamagitan ng paggamit ng dropdown na menu sa ibaba",
     "UI_GIVEN": "Ibinigay",
     "USER_STATS": "__Stats ng User__",
     "UI_3D_EDITS": "Na-edit na 3D",
@@ -49,6 +49,6 @@
     "CHOOSE_LANGUAGE_PLACEHOLDER": "Choose your language",
     "UI_RAIDS": "Raids",
     "UI_BANNERS": "Mga Banner",
-    "UI_BANNERS_CREATED": "Nagawang mga Banner",
+    "UI_BANNERS_CREATED": "Na-edit na mga Banner",
     "UI_COMBOS": "Combos"
 }

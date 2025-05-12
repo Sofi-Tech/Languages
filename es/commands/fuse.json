@@ -26,7 +26,7 @@
     "INVALID_VERSION": "El código de **Version Token** que proporcionaste no es válido o no se encuentra en tu colección",
     "NOT_VERSION_CHAR": "El código que has proporcionado no es un **Version Token** de **{{characterName}}**",
     "EQUIPMENT_FUSION_SUCCESS": "La fusión de Equipamientos se ha realizado con éxito \n{{moreInfo}}",
-    "VERSION_UPGRADE_FAILED": "La mejora del **Version** falló, inténtalo de nuevo por favor",
+    "VERSION_UPGRADE_FAILED": "La mejora del **Version** falló, por favor inténtalo de nuevo",
     "VERSION_UPGRADE_SUCCESS": "Felicidades! El **Version** se ha mejorado a **{{version}}**",
     "3D_NOT_ELIGIBLE": "Las cartas 3D no son elegibles para mejorar su **Version**",
     "EQUIPMENT_MODAL_PLACEHOLDER": "ej. 10",
@@ -55,5 +55,6 @@
     "EQUIPMENT_MODAL_LABEL": "Introduce la cantidad de {{equipmentType}}",
     "MISSING_CURRENCY": "No tienes suficiente **{{currency}}**",
     "VERSION_MENU_LABEL": "Versions",
-    "OPTION_MENU_PLACEHOLDER": "Selecciona una Opción"
+    "OPTION_MENU_PLACEHOLDER": "Selecciona una Opción",
+    "FUSE_DESC6": "<:_:979009081325019156> **Banners**: Crea banners excitantes de las varias series de cartas que tienes y muestralas en el comando userinfo"
 }

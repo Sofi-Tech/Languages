@@ -1,11 +1,11 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Usa este comando para agregar un personaje a tu lista de deseados personal. También puedes añadir versiones especificas de personajes usando el comando \"{{prefix}}wa<Numero de versión> <Nombre del personaje> \".Esta acción no tiene beneficio directo o ventaja asociada con este.",
+    "WISHLISTADD_DESCRIPTION": "Usa este comando para agregar un personaje a tu lista de deseados personal. También puedes añadir versiones especificas de personajes usando el comando \"{{prefix}}wa<Numero de versión> <Nombre del personaje> \". Esta acción no tiene beneficio directo o ventaja asociada con este.",
     "CATEGORY": "Lista de deseados",
     "ADD_CHARACTERS_ERROR": "{{author}} No puedes agregar más personajes a tu lista de deseados",
     "SEARCH_CHARACTER_ERROR": "{{author}} Uso correcto: `{{prefix}}wa <Nombre del personaje>`",
     "NO_CHARACTER_FOUND": "{{author}} No se ha podido encontrar ese personaje. Utiliza el comando `{{prefix}}wa -f <Nombre>` para una búsqueda exacta",
     "CHARACTER_ALREADY_EXISTS": "{{author}} **{{name}}** ya está en tu lista de deseados",
-    "CHARACTER_ADDED": "{{author}} Se ha añadido con éxito a **{{name}}** a tu lista de deseados",
+    "CHARACTER_ADDED": "{{author}} Se ha añadido a **{{name}}** a tu lista de deseados con éxito",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
     "INCREASE_CAPACITY": "Desbloquea más espacios usando el comando `{{prefix}}wl` y presionando el icono {{emoji}}",
     "VERSION_ADDED": "{{author}} Se agrego **Version {{version}}** de **{{name}}** a tu lista de deseos de Version Token con exito",

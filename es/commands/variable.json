@@ -40,8 +40,9 @@
     "PAGE_INFO": "Página: {{currentPage}}/{{maxPages}}",
     "CANCEL": "Cancelar",
     "NOT_AVAILABLE": "No disponible",
-    "SOMETHING_WENT_WRONG": "{{author}} Algo falló, favor de volverlo a intentar",
+    "SOMETHING_WENT_WRONG": "{{author}} Algo falló, porfavor intentalo de nuevo",
     "AVAILABLE": "Disponible",
     "G1_CLAIM_EMBED_TITLE": "**CARTA CON GEN {{gen}} RECLAMADA**",
-    "G1_CLAIM_INFO": "Las cartas con un Gen de un solo dígito son raras y muy codiciadas por los jugadores. Los duplicados de estos Gens son extremadamente raros.\nAsegúrate de averiguar el valor de la carta antes de hacer un intercambio, considera consultar a los fans principales para encontrar su verdadero valor.\nPuedes revisar los fans principales de este personaje usando el comando \"{{prefix}}charlookup\"."
+    "G1_CLAIM_INFO": "Las cartas con un Gen de un solo dígito son raras y muy codiciadas por los jugadores. Los duplicados de estos Gens son extremadamente raros.\nAsegúrate de averiguar el valor de la carta antes de hacer un intercambio, considera consultar a los fans principales para encontrar su verdadero valor.\nPuedes revisar los fans principales de este personaje usando el comando \"{{prefix}}charlookup\".",
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Tu inventario tiene un valor negativo. Porfavr contactanos en nuestro Servidor de Soporte \ndiscord.gg/sofi"
 }
