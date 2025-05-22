@@ -4,6 +4,6 @@
     "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}gtc <NombreDelTag> <Emote>`",
     "INVALID_EMOJI": "{{author}} Ese emote no es válido",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Ya tienes un **Glow** tag con ese nombre",
-    "CREATED_GLOWTAG": "{{author}} Creado con éxito un **Glow** tag con el nombre: `{{tag}}` | {{emoji}}",
+    "CREATED_GLOWTAG": "{{author}} Se ha creado un **Glow** tag con el nombre: `{{tag}}` | {{emoji}} con éxito",
     "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu tag tiene que ser alfanumérico y no contener caracteres especiales, espacios o profanidades de ningún tipo"
 }

@@ -3,5 +3,5 @@
     "TRTAG_CATEGORY": "Tags",
     "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}trt <DesdeTagAntiguo> <ATagNuevo>`",
     "TAG_NOT_FOUND": "{{author}} No tienes ningún tag con el nombre `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Se han transferido con éxito todas las cartas del tag `{{fromTag}}` a `{{toTag}}`"
+    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Se han transferido todas las cartas del tag `{{fromTag}}` a `{{toTag}}` con éxito"
 }

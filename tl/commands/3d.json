@@ -1,18 +1,18 @@
 {
-    "3D_DESCRIPTION": "Palitan ang iyong kard sa kanyang 3D variant, na magbabago sa itsura nito. Ang prosesong ito ay gagamit ng mga Cube na maaari mong makuha sa pamamagitan ng pagsusunog ng mga kard, pagbubukas ng mga chest o iba pang mga gawain",
+    "3D_DESCRIPTION": "I-convert ang iyong card sa 3D na variant nito, na magbabago sa hitsura ng mga kard. Ang prosesong ito ay gagamit ng mga Cube na maaari mong makuha sa pamamagitan ng pagsunog ng mga card, pagbubukas ng mga chest o iba't ibang aktibidad",
     "3D_CATEGORY": "Mga Kosmetiko",
     "INVALID_CARD_CODE": "{{author}} Ang code ng kard na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
-    "NO_GIF_CONVERSION": "{{author}} Hindi mo maaaring palitan ang **GIF** na kard sa isang **3D** variant",
+    "NO_GIF_CONVERSION": "{{author}} Hindi mo mako-convert ang isang **GIF** kard sa kanyang **3D** na variant",
     "NO_CUBES": "{{author}} Ikaw ay walang sapat na **Cubes** para sa prosesong ito",
-    "3D_NOTE": "Kasalukuyan mong papalitan ang kard sa kanyang 3D variant. Ang prosesong ito ay permanente at hindi na maibabalik. Anumang nakakabit na Frame ay mawawala sa prosesong ito. Ang napalitan na kard ay magkakaroon ng Gen na proporsyonal sa dati nitong variant",
+    "3D_NOTE": "Iko-convert mo na ang kard na ito sa kanyang 3D variant. Ang prosesong ito ay permanente at hindi na mababawi. Ang anumang nakalakip na Frame ay mawawala sa prosesong ito. Ang na-convert na kard ay magkakaroon ng Gen na proporsyonal sa luma nito",
     "CARD_3D_ALREADY": "{{author}} Ang kard ay isang **3D** variant na",
     "EMBED_TITLE": "SOFI: 3D",
     "EVENT_3D_NOTE": "Habang may aktibong event, lahat ng mga kwalipikadong kard ay mapapalitan ng Event-3D variant nito sa halip na kanilang karaniwang 3D matapos kumpirmahin ang prosesong ito",
     "HALLOWEEN_3D_FAILED": "{{author}} Hinawaan ng isang multo ang iyong kard. Ang proseso ay hindi nagtagumpay!",
     "UPGRADED_3D": "{{author}} Ang iyong kard ay matagumpay na napalitan sa kaniyang **3D** variant",
     "UPGRADE_3D_CANCEL": "Ang proseso ay nakansela",
-    "NO_EVENT_CARD_CONVERSION": "{{author}} Hindi mo maaaring palitan ang event kard sa regular na **3D** variant",
+    "NO_EVENT_CARD_CONVERSION": "{{author}} Hindi mo mako-convert ang isang event card sa kanyang regular na **3D** variant",
     "NO_3D_VERSION": "{{author}} Ang karakter na ito ay wala pang **3D** variant",
     "EVENT_NOTE": "Kasalukuyan mong papalitan ang kard sa kanyang Event-3D variant. Ang prosesong ito ay permanente at hindi na maibabalik. Anumang nakakabit na Frame ay mawawala sa prosesong ito. Ang mga event kard ay may nakatagong Gen na maaaring makita gamit ang aming website kapag natapos na ang event",
-    "NO_APRIL_FOOL": "{{author}} Ang mga April Fool na serye ng kard ay hindi napapalitan sa 3D"
+    "NO_APRIL_FOOL": "{{author}} Ang mga kard ng April Fool na serye ay hindi maaaring gawing 3D"
 }
