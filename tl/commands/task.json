@@ -1,7 +1,7 @@
 {
     "TASK_CATEGORY": "Konpigurasyon",
     "STREAK_FOOTER": "Streak [ {{count}} ]",
-    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Monthly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Mag vote ng 50 na beses sa [Top.gg](https://top.gg/bot/853629533855809596) - {{votePoints}}/50 \n<:curvedline:979665878503272478> Magmorph ng kard nang 100 na beses - {{morphPoints}}/100",
+    "MONTHLY_TASKS": "### <:30day:1168129627177365624> __**Monthly**__ (Resets {{time}}) \n<:curvedline:979665878503272478> Gumawa ng banner nang isang beses - {{bannerCount}}/1\n<:curvedline:979665878503272478> Mag vote ng 50 na beses sa [Top.gg](https://top.gg/bot/853629533855809596) - {{votePoints}}/50 \n<:curvedline:979665878503272478> Magmorph ng kard nang 100 na beses - {{morphPoints}}/100",
     "QUESTS_HEADER": "### 🐉 __**Quests**__ (Resets {{time}})",
     "NOT_ON_QUEST": "<:xstatusred:895546340367548486> Kasalukuyang wala sa quest",
     "LIFETIME_POINTS": "Panghabang-buhay na Puntos",
