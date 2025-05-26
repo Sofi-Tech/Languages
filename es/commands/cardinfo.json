@@ -1,6 +1,6 @@
 {
     "CARDINFO_DESCRIPTION": "Usar este comando en un código de carta concreto mostrará mas información de dicha carta",
-    "SLASH_DESC": "Introduce el código de una carta que quieras ver",
+    "SLASH_DESC": "Introduce el código de la carta que quieras ver",
     "NO_CARD_FOUND": "No se ha podido encontrar tu última carta. Inténtalo proporcionando un código de carta",
     "INVALID_CARD_CODE": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
     "CARD_GLOWED": "**{{isSuper}}Glow** aplicado: **{{glowName}} ** (`#{{viewCode}}`)\n",
