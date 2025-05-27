@@ -1,8 +1,9 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Ang command na ito ay gagawa ng isang naka-embed na ranggo na may pinakamataas na wishlisted na mga karakter sa Sofi",
+    "WISHLISTLB_DESCRIPTION": "Ang command na ito ay magpapakita ng embed na nagpapakita ng ranggo ng mga pinakamataas na wishlisted na mga karakter sa Sofi",
     "CATEGORY": "Wishlist",
     "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
     "EMBED_FOOTER": "Kasalukuyang pahina: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Mga Karakter",
-    "SERIES_BUTTON_LABEL": "Serye"
+    "SERIES_BUTTON_LABEL": "Serye",
+    "INVALID_CATEGORY": "Invalid na kategorya ang ibinigay"
 }

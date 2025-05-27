@@ -1,8 +1,9 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Cette commande créera un encart classant les personnages les plus souhaités de Sofi",
+    "WISHLISTLB_DESCRIPTION": "Cette commande créé un encart montrant le classement des personnages les plus souhaités de Sofi",
     "CATEGORY": "Liste De Souhaits",
     "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
     "EMBED_FOOTER": "Page affichée: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Personnages",
-    "SERIES_BUTTON_LABEL": "Séries"
+    "SERIES_BUTTON_LABEL": "Séries",
+    "INVALID_CATEGORY": "Catégorie fournie invalide"
 }
