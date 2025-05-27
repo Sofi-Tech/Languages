@@ -2,7 +2,7 @@
     "NOT_IN_GUILD": "{{author}} No estas en ningún gremio",
     "PLAYER_NOT_EXIST": "{{author}} No se pudo encontrar a este usuario",
     "WITHDRAW_MODAL_PLACEHOLDER": "Ejemplo: 15 Cubes",
-    "DONATE_MODAL_PLACEHOLDER": "Ejemplo: 15 Cubes | Silver y Wists no pueden ser retirados",
+    "DONATE_MODAL_PLACEHOLDER": "Ejemplo: 15 Cubes | Silver, Gems y Wists no pueden ser retirados",
     "GUILDINFO_CATEGORY": "Gremios",
     "INFO_EMBED_FOOTER": "ID del Gremio: {{id}} | Creado el",
     "CRAFTING_STARTED": "Empezo a craftear **{{itemName}}**",
@@ -119,7 +119,7 @@
     "SLOT_UNLOCKED": "Espacio para Miembro de Gremio desbloqueado 🔓: \n\n+1 Espacio de Miembros",
     "NOT_ENOUGH_SILVER": "No hay suficiente **Silver** en la bóveda para desbloquear un espacio",
     "CANNOT_VIEW_VAULT": "No puedes ver la bóveda de otros gremios",
-    "SPREADSHEET_NOTE": "Usa \"{{prefix}}sheet guild\" para tener la hoja de cálculo con los registros de la bóveda.\nWists y Silver no se pueden retirar.",
+    "SPREADSHEET_NOTE": "Usa \"{{prefix}}sheet guild\" para tener la hoja de cálculo con los registros de la bóveda.\nWists, gems y Silver no se pueden retirar.",
     "UNLOCK_FEATURES_MENU_PLACEHOLDER": "Desbloquear características",
     "GI_UNLOCKED": "Desbloqueado  🔓",
     "GI_LOCKED": "Bloqueado  🔒",
@@ -152,5 +152,7 @@
     "INVITE_MODAL_TITLE": "Editar Invitación al Servidor",
     "INVALID_PERMISSION": "Nivel de permiso proporcionado inválido.\n\n**Niveles disponibles:**\nNewbie: 0\nVeteran: 1\nGuildMaster: 2\nFounder: 3",
     "UPGRADE_EMBED_DESCRIPTION": "> **Espacios de Miembros del Gremio - {{memSlots}}** \n> Espacios del gremio disponibles: `{{availableSlots}}` \n> Costo de desbloqueo de espacio: `{{slotAmount}} {{slotCurrency}}` \n\n> **Invitación al Servidor del Gremio - {{inviteToggle}}** \n> Costo de desbloqueo: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Imagen del Gremio - {{imageToggle}}** \n> Costo de desbloqueo: `{{imageAmount}} {{imageCurrency}}`",
-    "ITEM_EMBED_DESCRIPTION": "Los ítems recolectados en tu bóveda pueden ser usados para craftear varios ítems. \nLos recursos serán consumidos directamente de la bóveda. \nEl ítem crafteado será transferido directamente a tu inventario. \nEl nivel de permiso puede ser puesto por los **Founders** y **Guildmasters**. \n\nCantidad de **Guild Packages** globales: {{packageCount}}/300 \nNivel de permiso: **{{permLevel}}** \nTiempo de crafteo \nCosto de crafteo"
+    "ITEM_EMBED_DESCRIPTION": "Los ítems recolectados en tu bóveda pueden ser usados para craftear varios ítems. \nLos recursos serán consumidos directamente de la bóveda. \nEl ítem crafteado será transferido directamente a tu inventario. \nEl nivel de permiso puede ser puesto por los **Founders** y **Guildmasters**. \n\nCantidad de **Guild Packages** globales: {{packageCount}}/300 \nNivel de permiso: **{{permLevel}}** \nTiempo de crafteo \nCosto de crafteo",
+    "CRAFTING_LOGS_EMBED_TITLE": "SOFI: CRAFTING LOGS",
+    "LOGS_EMBED_TITLE": "SOFI: LOGS"
 }
