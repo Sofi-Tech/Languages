@@ -1,8 +1,9 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Dieser Befehl erstellt eine Textbox, in der dir die Rangliste der Charaktere mit den meisten Wunschlisten in Sofi angezeigt wird",
+    "WISHLISTLB_DESCRIPTION": "Dieser Befehl zeigt eine Textbox mit dem Ranking der am häufigsten auf die Wunschliste gesetzten Charaktere in Sofi",
     "CATEGORY": "Wunschliste",
     "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
     "EMBED_FOOTER": "Seite: {{page}}/{{pages}}",
     "CHARACTER_BUTTON_LABEL": "Charaktere",
-    "SERIES_BUTTON_LABEL": "Serie"
+    "SERIES_BUTTON_LABEL": "Serie",
+    "INVALID_CATEGORY": "Ungültige Kategorie angegeben"
 }

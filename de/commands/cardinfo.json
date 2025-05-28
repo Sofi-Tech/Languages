@@ -1,6 +1,6 @@
 {
-    "CARDINFO_DESCRIPTION": "Zusammen mit einem Kartencode zeigt dieser Befehl genauere Informationen über die angegebene Karte an",
-    "SLASH_DESC": "Gib den Code der Karte an, die du überprüfen möchtest",
+    "CARDINFO_DESCRIPTION": "Die Verwendung dieses Befehls mit einem bestimmten Kartencode zeigt weitere Informationen über die Karte an",
+    "SLASH_DESC": "Gib den Kartencode ein, den du überprüfen möchtest",
     "NO_CARD_FOUND": "Deine letzte Karte konnte nicht gefunden werden. Versuche stattdessen einen Kartencode anzugeben",
     "INVALID_CARD_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
     "CARD_GLOWED": "**{{isSuper}}Glow** angewendet: **{{glowName}}** (`#{{viewCode}}`)\n",

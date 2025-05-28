@@ -1,5 +1,5 @@
 {
-    "DONATE_MODAL_PLACEHOLDER": "z. B. 15 Cubes | Keine Auszahlung für Silver und Wist",
+    "DONATE_MODAL_PLACEHOLDER": "z. B. 15 Cubes | Keine Auszahlung für Silver, Gems und Wist",
     "WITHDRAW_MODAL_PLACEHOLDER": "z.B. 15 Cubes",
     "GUILDINFO_DESCRIPTION": "Dieser Befehl wird verwendet, um auf die Übersicht einer Gilde zuzugreifen, sie enthält Mitgliederdetails, Tresor, Handwerk, Verstärkungen und andere Gildenfunktionen, je nachdem, ob es sich um deine Gilde handelt, sowie die Berechtigungen.",
     "GUILDINFO_CATEGORY": "Gilden",
@@ -143,7 +143,7 @@
     "UNLOCK_INVITE_CONFIRM": "Möchtest du das Gilden Einladungs Feature freischalten für **{{amount}}** **{{currency}}**?",
     "INVALID_GLOW": "Der **Glow**-Code den du bereitgestellt hast ist entweder ungültig oder nicht in deinem Inventar",
     "GI_SEASON_STATS": "__**SEASON STATS**__",
-    "SPREADSHEET_NOTE": "Benutze \"{{prefix}}sheet guild\", um eine Kalkulationstabelle von den Tresor Protokollen zu bekommen.\nWists und Silver können nicht zurückgezogen werden.",
+    "SPREADSHEET_NOTE": "Benutze \"{{prefix}}sheet guild\", um eine Kalkulationstabelle von den Tresor Protokollen zu bekommen.\nSilver, Gems und Wists können nicht zurückgezogen werden.",
     "INVITE_UNLOCK_SUCCESS": "Die Einladung zum Gilden Server wurde erfolgreich freigeschaltet",
     "BANNER_MODAL_PLACEHOLDER": "z.B. https://media.discord/someurl.png",
     "SLOT_UNLOCKED": "Gilden Mitglieder Platz freigeschaltet 🔓:\n\n+1 Mitglieds Platz",
@@ -152,5 +152,7 @@
     "BOOST_BUTTON_LABEL": "Boost",
     "BOOST_LEVEL_MAX": "> Das Boost Level hat bereits das Maximum erreicht",
     "BOOST_EMBED_FOOTER": "Du kannst die Werte die geboostet werden sollen im Menü ändern",
-    "GI_BOOST": "Boost"
+    "GI_BOOST": "Boost",
+    "CRAFTING_LOGS_EMBED_TITLE": "SOFI: CRAFTING LOGS",
+    "LOGS_EMBED_TITLE": "SOFI: LOGS"
 }
