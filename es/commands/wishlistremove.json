@@ -5,8 +5,8 @@
     "FULL_RESET": "{{author}} Se han eliminado todos los personajes de tu lista de deseados con éxito",
     "REMOVE_CHARACTER": "{{author}} Se ha eliminado a **{{name}}** de tu lista de deseados con éxito",
     "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseados",
-    "RESET_VT_NOTE": "{{author}} Usa `{{prefix}}wr full reset version tokens` Para reiniciar tu lista de deseados de Version Token",
-    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Se han eliminado todos los personajes de tu lista de deseados de Version Token con éxito",
-    "REMOVE_VERSION_TOKEN": "{{author}} Se ha eliminado la **Versión {{version}}** de **{{name}}** de tu lista de Version Tokens deseadas con éxito",
+    "RESET_VT_NOTE": "{{author}} Usa `{{prefix}}wr full reset version tokens` Para reiniciar tu lista de deseados de Version",
+    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Se han eliminado todos los personajes de tu lista de deseados de Version con éxito",
+    "REMOVE_VERSION_TOKEN": "{{author}} Se ha eliminado la **Versión {{version}}** de **{{name}}** de tu lista de Version deseadas con éxito",
     "NO_INDEX_VT": "{{author}} No puedes usar el index con **Version {{version}}**"
 }

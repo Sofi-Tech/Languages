@@ -1,5 +1,5 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Este comando creará un mensaje embed con una tabla de clasificaciún de los personajes más deseados en Sofi",
+    "WISHLISTLB_DESCRIPTION": "Este comando mostrara un mensaje embed mostrando la clasificacion de los personajes más deseados en Sofi",
     "CATEGORY": "Lista de deseados",
     "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
     "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",

@@ -1,5 +1,5 @@
 {
-    "GUESS_DESCRIPTION": "Verwende diesen Befehl, um ein Ratespiel zu starten. Alle Spieler, die dem Ratespiel beitreten, wird der angegebene Währungsbetrag vom Inventar abgezogen, sobald das Spiel beginnt. Ein zufälliges englisches Wort wird gewählt und dann durcheinandergewürfelt. Die erste Person, die das ursprüngliche Wort korrekt im Chat eingibt, gewinnt das Ratespiel und erhält die Summe aller Teilnahmegebühren",
+    "GUESS_DESCRIPTION": "Verwende diesen Befehl, um ein Ratespiel zu starten. Allen Spielern, die dem Ratespiel beitreten, wird der angegebene Währungsbetrag vom Inventar abgezogen, sobald das Spiel beginnt. Ein zufälliges englisches Wort wird gewählt und dann durcheinandergewürfelt. Die erste Person, die das ursprüngliche Wort korrekt im Chat eingibt, gewinnt das Ratespiel und erhält die Summe aller Teilnahmegebühren",
     "CORRECT_USAGE": "{{user}} Korrekte Verwendung: `{{prefix}}guess <Betrag> <Währung>`\nAkzeptierte Währungen: **Silver** , **Wists** , **Gems** , **Cubes**",
     "NO_TP": "{{author}} Du benötigst einen aktiven **Trade Pass** um ein Ratespiel veranstalten zu können",
     "NOT_ENOUGH_CURR": "{{user}} Du hast nicht genügend **{{currency}}**, um das Spiel zu starten",
