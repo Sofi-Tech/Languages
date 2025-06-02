@@ -2,7 +2,7 @@
     "CRAFTING_AMOUNT_MODAL_TITLE": "Chọn Số Lượng",
     "GUILD_SERVER_MENU_LABEL": "Lời Mời Máy Chủ Bang Hội",
     "CANNOT_DONATE_SWAPS": "Bạn không thể quyên góp Swap vào két",
-    "SPREADSHEET_NOTE": "Sử dụng lệnh \"{{prefix}}sheet guild\" để lấy bảng tính nhật ký của két.\nWist và Silver không thể rút.",
+    "SPREADSHEET_NOTE": "Sử dụng lệnh \"{{prefix}}sheet guild\" để lấy bảng tính nhật ký của két.\nSilver, Gem và Wist không thể được rút.",
     "CANT_FIND_GUILD": "{{author}} Không thể lấy thông tin về bang hội. Vui lòng cung cấp ID bang hội hoặc gắn thẻ một thành viên trong bang hội.",
     "GUILD_MENU_LABEL": "Thông Tin Bang Hội",
     "CRAFTING_ITEM_MODAL_TITLE": "Chọn Vật Phẩm",
@@ -98,7 +98,7 @@
     "DONATE_MODAL_TITLE": "Quyên Góp vào Két",
     "VAULT_EMBED_TITLE": "{{name}} Két",
     "FOUNDERS_GM_IMAGE": "Chỉ **Founder** và **Guildmaster** mới có thể sửa ảnh bang hội",
-    "DONATE_MODAL_PLACEHOLDER": "ví dụ. 15 Cube | Silver và Wist không thể được rút",
+    "DONATE_MODAL_PLACEHOLDER": "ví dụ. 15 Cube | Silver, Gem và Wist không thể được rút",
     "WITHDRAW_MODAL_PLACEHOLDER": "ví dụ. 15 Cube",
     "NO_ITEM_VAULT": "Không có vật phẩm nào trong két",
     "WITHDRAW_MODAL_TITLE": "Rút từ Két",
@@ -153,5 +153,7 @@
     "INFO_EMBED_FOOTER": "ID Bang Hội: {{id}} | Tạo vào",
     "GUILD_LEVEL_ACCESS": "Bang hội phải cấp 6 và có 10 thành viên mới có quyền chế tạo **Guild Package**",
     "WITHDRAW_FROM_VAULT": "> {{user}} đã rút **{{amount}}** **{{itemName}}** từ két",
-    "DONATED_TO_VAULT": "> {{user}} đã quyên góp **{{amount}}** **{{itemName}}** vào két"
+    "DONATED_TO_VAULT": "> {{user}} đã quyên góp **{{amount}}** **{{itemName}}** vào két",
+    "CRAFTING_LOGS_EMBED_TITLE": "SOFI: CRAFTING LOGS",
+    "LOGS_EMBED_TITLE": "SOFI: LOGS"
 }
