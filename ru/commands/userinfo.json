@@ -15,10 +15,10 @@
     "SPECIAL_INFO": "__Особая информация__",
     "BLACKLIST_STATUS": "__Статус нахождения в черном списке__",
     "UI_GAME_BLACKLISTED": "- В черном списке: {{formattedDate}}",
-    "USERINFO_DESCRIPTION": "Использование данной команды отображает окно статистики аккаунта пользователя Sofi. Вы также можете сменить язык, используя всплывающее меню в нижней части окна",
+    "USERINFO_DESCRIPTION": "Использование данной команды отображает окно статистики аккаунта пользователя Sofi. Вы также можете выбрать ваш родной язык, используя всплывающее меню в нижней части окна",
     "UI_CATEGORY": "Настройки",
     "UI_GIVEN": "Отдано",
-    "UI_SLASH_DESC": "Выберите пользователя, которого вы хотите проверить",
+    "UI_SLASH_DESC": "Выберите пользователя, которого вы хотите отобразить",
     "CANNOT_FIND_USER": "{{author}} Не удалось найти данного пользователя",
     "USER_NOT_REGISTERED": "{{author}} Данный пользователь не зарегистрирован",
     "PROFILE_BUTTON_LABEL": "Профиль на сайте",
@@ -49,5 +49,6 @@
     "CHOOSE_LANGUAGE_PLACEHOLDER": "Choose your language",
     "UI_RAIDS": "Нападений",
     "UI_COMBOS": "Combos",
-    "UI_BANNERS": "Banners"
+    "UI_BANNERS": "Banners",
+    "UI_BANNERS_CREATED": "Изменений Banners"
 }

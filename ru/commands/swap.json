@@ -8,7 +8,7 @@
     "MENU_BG_LABEL": "Background",
     "PROVIDE_CODES": "{{author}} Правильное использование: `{{prefix}}swap <КодКарты1> <КодКарты2>`",
     "NO_GIF": "{{author}} Вы не можете использовать данную функцию на **GIF** карте",
-    "NO_COSMETICS": "{{author}} На ваших картах нет косметических элементов, которые можно было бы поменять местами",
+    "NO_COSMETICS": "{{author}} На ваших картах нет косметических элементов, которые можно поменять местами",
     "MENU_FEATURES_PLACEHOLDER": "Выбрать опцию",
     "EMBED_TITLE": "SOFI: SWAP",
     "EMBED_FOOTER": "Данный процесс будет стоить вам 1 Swap",
@@ -21,5 +21,6 @@
     "MENU_SERIESCOLOR_LABEL": "Цвет серии",
     "MENU_NAMECOLOR_LABEL": "Цвет имени",
     "MENU_LAYER_LABEL": "Layer",
-    "MENU_EM_LABEL": "Заряженное преобразование"
+    "MENU_EM_LABEL": "Заряженное преобразование",
+    "SWAP_SAME": "{{author}} Вам нужно выбрать две разные карты для приминения swap"
 }

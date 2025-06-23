@@ -8,5 +8,8 @@
     "LS_PRICE": "**Цена:** {{amount}} {{currencyEmoji}}",
     "LS_CATEGORY": "**Категория:** {{category}}",
     "LS_ARTIST": "**Художник:** {{artist}}",
-    "LAYERSHOP_DESCRIPTION": "Данная команда отображает окно со всеми Layers, доступными для покупки"
+    "LAYERSHOP_DESCRIPTION": "Данная команда отображает окно со всеми Layers, доступными для покупки",
+    "CATEGORY_MENU_PLACEHOLDER": "Выберите категорию",
+    "LS_EVENT_MENU_LABEL": "Событийное",
+    "LS_BACK_MENU_LABEL": "Назад"
 }

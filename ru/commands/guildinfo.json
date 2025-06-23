@@ -1,6 +1,6 @@
 {
     "WITHDRAW_MODAL_PLACEHOLDER": "Напр. 15 Cubes",
-    "DONATE_MODAL_PLACEHOLDER": "Напр. 15 Cubes | Silver и Wists нельзя вывести",
+    "DONATE_MODAL_PLACEHOLDER": "Напр. 15 Cubes | Silver, Gems и Wists нельзя вывести",
     "GUILD_UPGRADE_MENU_DESC": "Улучшить гильдию",
     "CRAFT_PERM_BUTTON_LABEL": "Доступ для создания",
     "GUILD_SERVER_MENU_LABEL": "Приглашение на сервер гильдии",
@@ -123,7 +123,7 @@
     "UNLOCK_INVITE_CONFIRM": "Вы хотите разблокировать функцию Приглашение на сервер гильдии за **{{amount}}** **{{currency}}**?",
     "CRAFT_SLOT_OCCUPIED": "Ячейка {{slot}} занята",
     "INVITE_UNLOCK_SUCCESS": "Функция приглашения на сервер гильдии успешно разблокирована",
-    "SPREADSHEET_NOTE": "Используйте \"{{prefix}}sheet guild\", чтобы получить таблицу журнала действий хранилища.\nWists и Silver не могут быть выведены.",
+    "SPREADSHEET_NOTE": "Используйте \"{{prefix}}sheet guild\", чтобы получить таблицу журнала действий хранилища.\nSilver, Gems и Wists не могут быть выведены.",
     "UNLOCK_IMAGE_CONFIRM": "Вы хотите разблокировать функцию Изображение гильдии за **{{amount}}** **{{currency}}**?",
     "CRAFTING_STARTED": "Началось создание **{{itemName}}**",
     "SEASON_REWARD_NOTE": "В конце каждого сезона гильдии получат **Charms** в зависимости от полученного ранга",
@@ -151,5 +151,7 @@
     "IMAGE_UNLOCK_SUCCESS": "Функция изображения гильдии успешно разблокирована",
     "UPGRADE_EMBED_DESCRIPTION": "> **Ячейки участников гильдии - {{memSlots}}** \n> Доступно ячеек гильдии: `{{availableSlots}}` \n> Стоимость разблокировки ячейки: `{{slotAmount}} {{slotCurrency}}` \n\n> **Приглашение на сервер гильдии - {{inviteToggle}}** \n> Стоимость разблокировки: `{{inviteAmount}} {{inviteCurrency}}` \n\n> **Изображение гильдии - {{imageToggle}}** \n> Стоимость разблокировки: `{{imageAmount}} {{imageCurrency}}`",
     "MAXIMUM_CRAFTING_LIMIT": "Достигнуто максимальное количество **Guild Packages**",
-    "INVALID_ID": "{{author}} Указан недействительный идентификатор пользователя"
+    "INVALID_ID": "{{author}} Указан недействительный идентификатор пользователя",
+    "CRAFTING_LOGS_EMBED_TITLE": "SOFI: CRAFTING LOGS",
+    "LOGS_EMBED_TITLE": "SOFI: LOGS"
 }
