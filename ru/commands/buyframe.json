@@ -11,5 +11,5 @@
     "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно **{{currency}}** для совершения покупки",
     "TRANSACTION_SUCCESSFUL": "{{author}} Вы успешно приобрели {{count}} **{{frameName}}** **Frame**",
     "PROCESS_CANCELLED": "Процесс отменен",
-    "NO_NEGATIVE_COUNT": "{{author}}Вы не можете купить отрицательное количество **Frames**"
+    "NO_NEGATIVE_COUNT": "{{author}} Вы не можете купить отрицательное количество **Frames**"
 }
