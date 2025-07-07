@@ -3,7 +3,7 @@
     "TAG_CATEGORY": "Mga Tag",
     "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}t <TagName> <Code>`",
     "NO_TAGS_CREATED": "{{author}} Wala ka pang kahit anong tag. Gamitin ang command na `{{prefix}}tc <TagName> <Emoji>` upang makagawa",
-    "TAG_NOT_FOUND": "{{author}} Wala kang kahit anong tag na may pangalang `{{arg}}`",
+    "TAG_NOT_FOUND": "{{author}} Wala kang tag na may pangalang `{{arg}}`",
     "NO_CARDS_CLAIMED": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
     "INVALID_CARD_CODE": "{{author}} Ang code na iyong ibinigay ay maaaring hindi tama o wala sa iyong koleksyon",
     "SUCCESSFUL_TAG": "{{author}} Matagumpay na nalagyan ng tag si **{{card}}** bilang `{{tag}}`",
