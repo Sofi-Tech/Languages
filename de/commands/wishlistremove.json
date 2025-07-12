@@ -1,12 +1,21 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Verwende diesen Befehl, um einen Charakter oder Version von deiner Wunschliste zu entfernen",
-    "CATEGORY": "Wunschliste",
-    "NO_INDEX": "{{author}} Korrekte Verwendung: `{{prefix}}wr <CharakterName/Nummer>`. Verwende den Befehl `{{prefix}}wr full reset` um deine Wunschliste zu leeren",
-    "FULL_RESET": "{{author}} Alle Charaktere wurden erfolgreich von deiner Wunschliste entfernt",
-    "REMOVE_CHARACTER": "{{author}} **{{name}}** wurde erfolgreich von deiner Wunschliste entfernt",
-    "NO_RESULTS": "{{author}} Es ist kein Charakter mit dem Namen `{{name}}` in deiner Wunschliste",
-    "RESET_VT_NOTE": "{{author}} Nutze `{{prefix}}wr full reset version tokens`, um deine Versions Wunschliste zurückzusetzen",
-    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Alle Charaktere wurden erfolgreich von deiner Versions Wunschliste entfernt",
-    "REMOVE_VERSION_TOKEN": "{{author}} **Version {{version}}** von **{{name}}** wurde erfolgreich von deiner Versions Wunschliste entfernt",
-    "NO_INDEX_VT": "{{author}} Du kannst Index nicht mit **Version {{version}}** verwenden"
+  "WISHLISTREMOVE_DESCRIPTION": "Verwende diesen Befehl, um einen Charakter oder Version von deiner Wunschliste zu entfernen",
+  "CATEGORY": "Wunschliste",
+  "NO_INDEX": "{{author}} Korrekte Verwendung: `{{prefix}}wr <CharakterName/Nummer>`. Verwende den Befehl `{{prefix}}wr full reset` um deine Wunschliste zu leeren",
+  "FULL_RESET": "{{author}} Alle Charaktere wurden erfolgreich von deiner Wunschliste entfernt",
+  "REMOVE_CHARACTER": "{{author}} **{{name}}** wurde erfolgreich von deiner Wunschliste entfernt",
+  "REMOVE_CHARACTERS_zero": "{{author}} Du hast **{{count}}** Charakter von deiner Wunschliste entfernt: \n{{names}}",
+  "REMOVE_CHARACTERS_one": "{{author}} Du hast **{{count}}** Charakter von deiner Wunschliste entfernt: \n{{names}}",
+  "REMOVE_CHARACTERS_two": "{{author}} Du hast **{{count}}** Charaktere von deiner Wunschliste entfernt: \n{{names}}",
+  "REMOVE_CHARACTERS_few": "{{author}} Du hast **{{count}}** Charaktere von deiner Wunschliste entfernt: \n{{names}}",
+  "REMOVE_CHARACTERS_many": "{{author}} Du hast **{{count}}** Charaktere von deiner Wunschliste entfernt: \n{{names}}",
+  "REMOVE_CHARACTERS_other": "{{author}} Du hast **{{count}}** Charaktere von deiner Wunschliste entfernt: \n{{names}}",
+  "TOO_MANY_CHARACTERS": "{{author}} Du kannst nur bis zu **20 Charaktere** gleichzeitig entfernen. Du hast versucht, **{{count}}** zu entfernen",
+  "NO_VALID_INDEXES": "{{author}} Es wurden keine gültigen Indizes gefunden oder bereitgestellt",
+
+  "NO_RESULTS": "{{author}} Es ist kein Charakter mit dem Namen `{{name}}` in deiner Wunschliste",
+  "RESET_VT_NOTE": "{{author}} Nutze `{{prefix}}wr full reset version tokens`, um deine Versions Wunschliste zurückzusetzen",
+  "REMOVE_ALL_VERSION_TOKEN": "{{author}} Alle Charaktere wurden erfolgreich von deiner Versions Wunschliste entfernt",
+  "REMOVE_VERSION_TOKEN": "{{author}} **Version {{version}}** von **{{name}}** wurde erfolgreich von deiner Versions Wunschliste entfernt",
+  "NO_INDEX_VT": "{{author}} Du kannst Index nicht mit **Version {{version}}** verwenden"
 }

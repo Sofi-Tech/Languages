@@ -1,12 +1,21 @@
 {
-    "WISHLISTREMOVE_DESCRIPTION": "Usa este comando para eliminar un personaje o una Version de tu lista de deseados",
-    "CATEGORY": "Lista de deseados",
-    "NO_INDEX": "{{author}} Uso correcto: `{{prefix}}wr <NombreDelPersonaje/Número>`. Usa el comando `{{prefix}}wr full reset` para borrar toda tu lista de deseados",
-    "FULL_RESET": "{{author}} Se han eliminado todos los personajes de tu lista de deseados con éxito",
-    "REMOVE_CHARACTER": "{{author}} Se ha eliminado a **{{name}}** de tu lista de deseados con éxito",
-    "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseados",
-    "RESET_VT_NOTE": "{{author}} Usa `{{prefix}}wr full reset version tokens` Para reiniciar tu lista de deseados de Version",
-    "REMOVE_ALL_VERSION_TOKEN": "{{author}} Se han eliminado todos los personajes de tu lista de deseados de Version con éxito",
-    "REMOVE_VERSION_TOKEN": "{{author}} Se ha eliminado la **Versión {{version}}** de **{{name}}** de tu lista de Version deseadas con éxito",
-    "NO_INDEX_VT": "{{author}} No puedes usar el index con **Version {{version}}**"
+  "WISHLISTREMOVE_DESCRIPTION": "Usa este comando para eliminar un personaje o una Version de tu lista de deseados",
+  "CATEGORY": "Lista de deseados",
+  "NO_INDEX": "{{author}} Uso correcto: `{{prefix}}wr <NombreDelPersonaje/Número>`. Usa el comando `{{prefix}}wr full reset` para borrar toda tu lista de deseados",
+  "FULL_RESET": "{{author}} Se han eliminado todos los personajes de tu lista de deseados con éxito",
+  "REMOVE_CHARACTER": "{{author}} Se ha eliminado a **{{name}}** de tu lista de deseados con éxito",
+  "REMOVE_CHARACTERS_zero": "{{author}} Has eliminado **{{count}}** personaje de tu lista de deseos: \n{{names}}",
+  "REMOVE_CHARACTERS_one": "{{author}} Has eliminado **{{count}}** personaje de tu lista de deseos: \n{{names}}",
+  "REMOVE_CHARACTERS_two": "{{author}} Has eliminado **{{count}}** personajes de tu lista de deseos: \n{{names}}",
+  "REMOVE_CHARACTERS_few": "{{author}} Has eliminado **{{count}}** personajes de tu lista de deseos: \n{{names}}",
+  "REMOVE_CHARACTERS_many": "{{author}} Has eliminado **{{count}}** personajes de tu lista de deseos: \n{{names}}",
+  "REMOVE_CHARACTERS_other": "{{author}} Has eliminado **{{count}}** personajes de tu lista de deseos: \n{{names}}",
+  "TOO_MANY_CHARACTERS": "{{author}} Solo puedes eliminar hasta **20 personajes** a la vez. Intentaste eliminar **{{count}}** personajes",
+  "NO_VALID_INDEXES": "{{author}} No se proporcionaron ni encontraron índices válidos en tu lista de deseos",
+
+  "NO_RESULTS": "{{author}} No hay ningún personaje con el nombre `{{name}}` en tu lista de deseados",
+  "RESET_VT_NOTE": "{{author}} Usa `{{prefix}}wr full reset version tokens` Para reiniciar tu lista de deseados de Version",
+  "REMOVE_ALL_VERSION_TOKEN": "{{author}} Se han eliminado todos los personajes de tu lista de deseados de Version con éxito",
+  "REMOVE_VERSION_TOKEN": "{{author}} Se ha eliminado la **Versión {{version}}** de **{{name}}** de tu lista de Version deseadas con éxito",
+  "NO_INDEX_VT": "{{author}} No puedes usar el index con **Version {{version}}**"
 }
