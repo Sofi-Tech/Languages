@@ -1,7 +1,7 @@
 {
-    "RM_CATEGORY": "Cài đặt",
-    "PROVIDE_REMINDER_NAME": "{{author}} Cách sử dụng đúng: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} Bạn sẽ nhận được thông báo khi **{{reminder}}** của bạn sẵn sàng",
-    "REMINDER_DISABLED": "{{author}} Bạn sẽ không còn nhận được thông báo khi **{{reminder}}** của bạn sẵn sàng",
-    "TOGGLEREMINDER_DESCRIPTION": "Với lệnh này, bạn có thể bật hoặc tắt thông báo của mình. Bạn cũng có thể sử dụng lệnh \"{{prefix}}cooldown\" và nhấp vào biểu tượng chuông thông báo để thiết lập"
+  "RM_CATEGORY": "Cài đặt",
+  "PROVIDE_REMINDER_NAME": "{{author}} Cách sử dụng đúng: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_ENABLED": "{{author}} Bạn sẽ nhận được thông báo khi **{{reminder}}** của bạn sẵn sàng",
+  "REMINDER_DISABLED": "{{author}} Bạn sẽ không còn nhận được thông báo khi **{{reminder}}** của bạn sẵn sàng",
+  "TOGGLEREMINDER_DESCRIPTION": "Với lệnh này, bạn có thể bật hoặc tắt thông báo của mình. Bạn cũng có thể sử dụng lệnh \"{{prefix}}cooldown\" và nhấp vào biểu tượng chuông thông báo để thiết lập"
 }

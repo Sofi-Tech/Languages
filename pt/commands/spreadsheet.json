@@ -1,9 +1,9 @@
 {
-    "DM_FILE": "{{author}} Um arquivo .csv foi enviado a você por mensagem direta\n\n> **Observação**: Ao importar o arquivo para programas Excel ou planilhas, certifique-se de definir o separador como \"vírgula\"!",
-    "SPREADSHEET_DESCRIPTION": "Ao usar este comando, Sofi criará um arquivo .csv contendo informações de todas as cartas da sua coleção. Você também pode obter um arquivo .csv detalhado da sua guilda adicionando o parâmetro \"Guild\" ao seu prompt",
-    "SHEET_CATEGORY": "Configurações",
-    "CANNOT_DM": "{{author}} Não foi possível te enviar o arquivo da planilha. Certifique-se de que suas mensagens diretas estejam abertas!",
-    "NO_COLLECTION": "{{author}} Você não tem nenhuma carta na sua coleção",
-    "NO_VAULT_LOGS": "{{author}} Atualmente não há registros do cofre",
-    "NO_GUILD_INFO": "{{author}} No momento você não está em uma guilda"
+  "DM_FILE": "{{author}} Um arquivo .csv foi enviado a você por mensagem direta\n\n> **Observação**: Ao importar o arquivo para programas Excel ou planilhas, certifique-se de definir o separador como \"vírgula\"!",
+  "SPREADSHEET_DESCRIPTION": "Ao usar este comando, Sofi criará um arquivo .csv contendo informações de todas as cartas da sua coleção. Você também pode obter um arquivo .csv detalhado da sua guilda adicionando o parâmetro \"Guild\" ao seu prompt",
+  "SHEET_CATEGORY": "Configurações",
+  "CANNOT_DM": "{{author}} Não foi possível te enviar o arquivo da planilha. Certifique-se de que suas mensagens diretas estejam abertas!",
+  "NO_COLLECTION": "{{author}} Você não tem nenhuma carta na sua coleção",
+  "NO_VAULT_LOGS": "{{author}} Atualmente não há registros do cofre",
+  "NO_GUILD_INFO": "{{author}} No momento você não está em uma guilda"
 }

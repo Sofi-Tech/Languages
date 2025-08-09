@@ -1,7 +1,7 @@
 {
-    "MARKET_DESCRIPTION": "Inililista ng command na ito ang lahat ng kasalukuyang available na mga order sa merkado. Ang merkado ay maaaring gamitin ng mga manlalaro para mag-alok ng kanilang mga Wist kapalit ng mga Gem sa pamamagitan ng \"{{prefix}}marketlist\" na command",
-    "NO_LISTING_FOUND": "{{author}} Walang mahanap ng kahit anong mga order sa merkado",
-    "MARKET_WARN": "**Average Rate**: **`{{averageRate}}` | Kabuuang Kalakalan**: **`{{totalTrades}}`**",
-    "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
-    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
+  "MARKET_DESCRIPTION": "Inililista ng command na ito ang lahat ng kasalukuyang available na mga order sa merkado. Ang merkado ay maaaring gamitin ng mga manlalaro para mag-alok ng kanilang mga Wist kapalit ng mga Gem sa pamamagitan ng \"{{prefix}}marketlist\" na command",
+  "NO_LISTING_FOUND": "{{author}} Walang mahanap ng kahit anong mga order sa merkado",
+  "MARKET_WARN": "**Average Rate**: **`{{averageRate}}` | Kabuuang Kalakalan**: **`{{totalTrades}}`**",
+  "FOOTER": "Ipinapakita ang mga resulta {{page}}-{{pages}} ng {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
+  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}"
 }

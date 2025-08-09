@@ -1,14 +1,14 @@
 {
-    "SUPERGLOW_DESCRIPTION": "Você pode usar este comando para combinar 2 Glows e 2 Resins em um Super Glow. Um Super Glow apresenta ambos os esquemas de cores dos Glows originais usados no processo de fusão",
-    "SG_CATEGORY": "Cosméticos",
-    "GLOW_CODES_MISSING": "{{author}} Uso correto: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-    "GLOW_NOT_FOUND": "{{author}} Ao menos um dos códigos de **Glow** utilizados é inválido ou não está no seu inventário",
-    "UNAVAILABLE_GLOW": "{{author}} Ao menos um dos códigos de **Glow** utilizados está em branco",
-    "NO_USE_SG": "{{author}} Você não pode usar um **Super Glow** para este processo",
-    "SAME_GLOWS": "{{author}} Você não pode utilizar o mesmo **Glow** duas vezes para este processo",
-    "EMBED_TITLE": "SOFI: SUPER GLOW",
-    "FORM_SG_CONFIRM": "Tem certeza de que deseja mesclar os seguintes itens:\n\n {{glowCodes}} +\n<:resin:938131736741691442> **2x** **Resin**\n\nem **{{superGlowName}}** **Super Glow**?",
-    "MISSING_RESINS": "{{author}} Você não tem **Resin** suficiente para este processo",
-    "SUPER_GLOW_SUCCESSFUL": "{{author}} Seus **Glows** foram combinados com sucesso\n",
-    "FORM_SG_FOOTER": "Ambos os Glows serão destruídos no processo."
+  "SUPERGLOW_DESCRIPTION": "Você pode usar este comando para combinar 2 Glows e 2 Resins em um Super Glow. Um Super Glow apresenta ambos os esquemas de cores dos Glows originais usados no processo de fusão",
+  "SG_CATEGORY": "Cosméticos",
+  "GLOW_CODES_MISSING": "{{author}} Uso correto: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
+  "GLOW_NOT_FOUND": "{{author}} Ao menos um dos códigos de **Glow** utilizados é inválido ou não está no seu inventário",
+  "UNAVAILABLE_GLOW": "{{author}} Ao menos um dos códigos de **Glow** utilizados está em branco",
+  "NO_USE_SG": "{{author}} Você não pode usar um **Super Glow** para este processo",
+  "SAME_GLOWS": "{{author}} Você não pode utilizar o mesmo **Glow** duas vezes para este processo",
+  "EMBED_TITLE": "SOFI: SUPER GLOW",
+  "FORM_SG_CONFIRM": "Tem certeza de que deseja mesclar os seguintes itens:\n\n {{glowCodes}} +\n<:resin:938131736741691442> **2x** **Resin**\n\nem **{{superGlowName}}** **Super Glow**?",
+  "MISSING_RESINS": "{{author}} Você não tem **Resin** suficiente para este processo",
+  "SUPER_GLOW_SUCCESSFUL": "{{author}} Seus **Glows** foram combinados com sucesso\n",
+  "FORM_SG_FOOTER": "Ambos os Glows serão destruídos no processo."
 }

@@ -1,7 +1,7 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "Bạn có thể sử dụng lệnh này để chuyển tất cả các thẻ trong một nhãn này vào một nhãn khác",
-    "TRTAG_CATEGORY": "Nhãn",
-    "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}trt <fromOldTag> <toNewTag>`",
-    "TAG_NOT_FOUND": "{{author}} Bạn không có nhãn nào tên `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Đã chuyển tất cả các thẻ từ nhãn `{{fromTag}}` sang `{{toTag}}`"
+  "TRANSFERTAG_DESCRIPTION": "Bạn có thể sử dụng lệnh này để chuyển tất cả các thẻ trong một nhãn này vào một nhãn khác",
+  "TRTAG_CATEGORY": "Nhãn",
+  "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}trt <fromOldTag> <toNewTag>`",
+  "TAG_NOT_FOUND": "{{author}} Bạn không có nhãn nào tên `{{tag}}`",
+  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Đã chuyển tất cả các thẻ từ nhãn `{{fromTag}}` sang `{{toTag}}`"
 }

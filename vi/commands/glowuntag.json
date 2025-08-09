@@ -1,10 +1,10 @@
 {
-    "WRONG_GLOWCODE_FORMAT": "{{author}} Mã **Glow** luôn bắt đầu bằng `#`",
-    "GLOWUNTAG_DESCRIPTION": "Sử dụng lệnh này để gỡ nhãn khỏi một Glow",
-    "GUT_CATEGORY": "Nhãn",
-    "INVALID_GLOWCODE": "{{author}} Mã **Glow** không hợp lệ hoặc không có trong kho đồ của bạn",
-    "GLOW_UNTAG_SUCCESSFUL": "{{author}} Đã gỡ nhãn khỏi **{{glow}}** **Glow** của bạn",
-    "NO_GLOWS_FOUND": "{{author}} Hiện tại bạn không có **Glow** nào",
-    "INVALID_GLOWCODE_MULTIPLE": "{{author}} Các mã **Glow** sau đây không hợp lệ hoặc không có trong kho đồ của bạn:\n{{invalidCodeList}}",
-    "GLOW_UNTAG_PLURAL": "{{author}} Đã gỡ nhãn khỏi **{{count}}** **Glow** của bạn"
+  "WRONG_GLOWCODE_FORMAT": "{{author}} Mã **Glow** luôn bắt đầu bằng `#`",
+  "GLOWUNTAG_DESCRIPTION": "Sử dụng lệnh này để gỡ nhãn khỏi một Glow",
+  "GUT_CATEGORY": "Nhãn",
+  "INVALID_GLOWCODE": "{{author}} Mã **Glow** không hợp lệ hoặc không có trong kho đồ của bạn",
+  "GLOW_UNTAG_SUCCESSFUL": "{{author}} Đã gỡ nhãn khỏi **{{glow}}** **Glow** của bạn",
+  "NO_GLOWS_FOUND": "{{author}} Hiện tại bạn không có **Glow** nào",
+  "INVALID_GLOWCODE_MULTIPLE": "{{author}} Các mã **Glow** sau đây không hợp lệ hoặc không có trong kho đồ của bạn:\n{{invalidCodeList}}",
+  "GLOW_UNTAG_PLURAL": "{{author}} Đã gỡ nhãn khỏi **{{count}}** **Glow** của bạn"
 }

@@ -1,12 +1,12 @@
 {
-    "GLOWTAGLIST_DESCRIPTION": "Ang command na ito ay magpapakita ng listahan ng lahat ng iyong mga Glow tag",
-    "GTL_CATEGORY": "Mga Tag",
-    "NO_TAGS": "{{author}} Wala ka pang **Glow** tag. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Name> <Emoji>`",
-    "EMBED_TITLE": "SOFI: GLOW TAG LIST",
-    "GLOWS_one": "{{count}} Glow",
-    "GLOWS_other": "{{count}} Glows",
-    "GLOWS_two": "{{count}} Glows",
-    "GLOWS_few": "{{count}} Glows",
-    "GLOWS_zero": "{{count}} Glows",
-    "GLOWS_many": "{{count}} Glows"
+  "GLOWTAGLIST_DESCRIPTION": "Ang command na ito ay magpapakita ng listahan ng lahat ng iyong mga Glow tag",
+  "GTL_CATEGORY": "Mga Tag",
+  "NO_TAGS": "{{author}} Wala ka pang **Glow** tag. Maaari kang gumawa nito gamit ang command na: `{{prefix}}gtc <Name> <Emoji>`",
+  "EMBED_TITLE": "SOFI: GLOW TAG LIST",
+  "GLOWS_one": "{{count}} Glow",
+  "GLOWS_other": "{{count}} Glows",
+  "GLOWS_two": "{{count}} Glows",
+  "GLOWS_few": "{{count}} Glows",
+  "GLOWS_zero": "{{count}} Glows",
+  "GLOWS_many": "{{count}} Glows"
 }

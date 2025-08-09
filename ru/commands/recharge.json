@@ -1,14 +1,14 @@
 {
-    "INVALID_DC_MOVIES": "{{author}} Коды **Glow** всегда начинаются с символа `#`",
-    "RECHARGE_CONFIRMATION": "Вы уверены, что хотите зарядить данную **Glow**?\n\nНазвание: **{{name}}**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "SUCCESSFUL_RECHARGE": "{{author}} Ваша **{{glowName}}** **Glow** успешно заряжена",
-    "RECHARGE_DESCRIPTION": "Используйте данную команду для зарядки пустых Glow. Для зарядки нужен Recharge, который можно купить в магазине",
-    "RG_CATEGORY": "Косметика",
-    "UNLOCK_GLOWS": "{{author}} У вас пока нет **Glows**",
-    "NO_GLOWCDE": "{{author}} Правильное использование: `{{prefix}}rg <#КодGlow>`",
-    "GLOW_NOT_FOUND": "{{author}} Указанный вами код **Glow** недействителен или не является частью вашего инвентаря",
-    "GLOW_AVAILABLE": "{{author}} Данная **Glow** уже заряжена",
-    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
-    "NO_MONEY": "{{author}} У вас недостаточно **Recharges** для данного процесса!",
-    "SUPER_RECHARGE_CONFIRMATION": "Вы уверены, что хотите зарядить данную **Glow**?\n\nНазвание: **{{name}} (Super)**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>"
+  "INVALID_DC_MOVIES": "{{author}} Коды **Glow** всегда начинаются с символа `#`",
+  "RECHARGE_CONFIRMATION": "Вы уверены, что хотите зарядить данную **Glow**?\n\nНазвание: **{{name}}**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>",
+  "SUCCESSFUL_RECHARGE": "{{author}} Ваша **{{glowName}}** **Glow** успешно заряжена",
+  "RECHARGE_DESCRIPTION": "Используйте данную команду для зарядки пустых Glow. Для зарядки нужен Recharge, который можно купить в магазине",
+  "RG_CATEGORY": "Косметика",
+  "UNLOCK_GLOWS": "{{author}} У вас пока нет **Glows**",
+  "NO_GLOWCDE": "{{author}} Правильное использование: `{{prefix}}rg <#КодGlow>`",
+  "GLOW_NOT_FOUND": "{{author}} Указанный вами код **Glow** недействителен или не является частью вашего инвентаря",
+  "GLOW_AVAILABLE": "{{author}} Данная **Glow** уже заряжена",
+  "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+  "NO_MONEY": "{{author}} У вас недостаточно **Recharges** для данного процесса!",
+  "SUPER_RECHARGE_CONFIRMATION": "Вы уверены, что хотите зарядить данную **Glow**?\n\nНазвание: **{{name}} (Super)**\nКод: `{{glowCode}}`\nСтоимость: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

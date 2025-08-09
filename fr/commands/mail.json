@@ -1,14 +1,14 @@
 {
-    "MENU_PLACEHOLDER": "Sélectionnez une Option",
-    "NO_MAILS_FOUND": "{{author}} Vous n'avez pas de mail dans votre boîte de réception",
-    "EMBED_AUTHOR": "Boîte de Réception de {{username}}",
-    "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
-    "MAIL_CATEGORY": "Paramètres",
-    "MAIL_DESCRIPTION": "Cette commande ouvrira votre boîte de réception, où vous trouverez divers messages envoyés par Sofi, vous informant sur les events, ainsi que sur les changements et nouvelles fonctionnalités annoncés",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Récupéré",
-    "REWARD_CLAIM_INVENTORY": "{{author}} Les items associés ont été ajoutés à votre inventaire",
-    "CLAIMED_REWARD_ALREADY": "{{author}} Vous avez déjà réclamé cette récompense dans une commande antérieure",
-    "MAIL_REWARDS": "**__Récompenses__**\n",
-    "MAIL_FRAME": "**Frame**",
-    "CLAIM_REWARD_BUTTON_LABEL": "Réclamez votre récompense"
+  "MENU_PLACEHOLDER": "Sélectionnez une Option",
+  "NO_MAILS_FOUND": "{{author}} Vous n'avez pas de mail dans votre boîte de réception",
+  "EMBED_AUTHOR": "Boîte de Réception de {{username}}",
+  "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
+  "MAIL_CATEGORY": "Paramètres",
+  "MAIL_DESCRIPTION": "Cette commande ouvrira votre boîte de réception, où vous trouverez divers messages envoyés par Sofi, vous informant sur les events, ainsi que sur les changements et nouvelles fonctionnalités annoncés",
+  "REWARD_CLAIMED_BUTTON_LABEL": "Récupéré",
+  "REWARD_CLAIM_INVENTORY": "{{author}} Les items associés ont été ajoutés à votre inventaire",
+  "CLAIMED_REWARD_ALREADY": "{{author}} Vous avez déjà réclamé cette récompense dans une commande antérieure",
+  "MAIL_REWARDS": "**__Récompenses__**\n",
+  "MAIL_FRAME": "**Frame**",
+  "CLAIM_REWARD_BUTTON_LABEL": "Réclamez votre récompense"
 }

@@ -1,7 +1,7 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "Используйте данную команду для переноса всех карт из одной отметки в другую",
-    "TRTAG_CATEGORY": "Отметки",
-    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}trt <изСтаройОтметки> <вНовуюОтметку>`",
-    "TAG_NOT_FOUND": "{{author}} У вас нет отметки с названием `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Все карты из отметки `{{fromTag}}` успешно перенесены в отметку `{{toTag}}`"
+  "TRANSFERTAG_DESCRIPTION": "Используйте данную команду для переноса всех карт из одной отметки в другую",
+  "TRTAG_CATEGORY": "Отметки",
+  "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}trt <изСтаройОтметки> <вНовуюОтметку>`",
+  "TAG_NOT_FOUND": "{{author}} У вас нет отметки с названием `{{tag}}`",
+  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Все карты из отметки `{{fromTag}}` успешно перенесены в отметку `{{toTag}}`"
 }

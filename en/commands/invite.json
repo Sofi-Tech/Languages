@@ -1,6 +1,6 @@
 {
-    "INVITE_DESCRIPTION": "Using this command will create an embed with 2 different links. The first link will invite you to the Sofi Cafe Support Server, while the second link will open a window to invite Sofi to your server",
-    "INVITE_CATEGORY": "Settings",
-    "EMBED_TITLE": "SOFI: INVITE",
-    "JOIN_SUPPORT": "**[Join our official Support Server!](https://discord.gg/sofi)**\n**[Invite Sofi to your own Server!](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
+  "INVITE_DESCRIPTION": "Using this command will create an embed with 2 different links. The first link will invite you to the Sofi Cafe Support Server, while the second link will open a window to invite Sofi to your server",
+  "INVITE_CATEGORY": "Settings",
+  "EMBED_TITLE": "SOFI: INVITE",
+  "JOIN_SUPPORT": "**[Join our official Support Server!](https://discord.gg/sofi)**\n**[Invite Sofi to your own Server!](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&permissions=446676978785&scope=bot%20applications.commands)**"
 }

@@ -1,15 +1,15 @@
 {
-    "BUYFRAME_DESCRIPTION": "Данная команда используется для покупки Frames из \"{{prefix}}frameshop\", в котором вы можете приобрести Frames из наборов, а также Официальные и Пользовательские Frames для ваших 2D карт",
-    "BF_CATEGORY": "Косметика",
-    "NO_FRAME_NAME": "{{author}} Пожалуйста, укажите название **Frame**, которую вы хотите купить",
-    "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти **Frame** с кодом `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Данная **Frame** сейчас недоступна. Используйте команду `{{prefix}}fs`, чтобы посмотреть текущую ротацию **Frame**",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Данная **Frame** была доступна ограниченное время и больше не может быть куплена",
-    "EMBED_TITLE": "SOFI: TRANSACTION",
-    "YOU_GET": "Вы получаете:",
-    "YOU_PAY": "Вы платите:",
-    "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно **{{currency}}** для совершения покупки",
-    "TRANSACTION_SUCCESSFUL": "{{author}} Вы успешно приобрели {{count}} **{{frameName}}** **Frame**",
-    "PROCESS_CANCELLED": "Процесс отменен",
-    "NO_NEGATIVE_COUNT": "{{author}} Вы не можете купить отрицательное количество **Frames**"
+  "BUYFRAME_DESCRIPTION": "Данная команда используется для покупки Frames из \"{{prefix}}frameshop\", в котором вы можете приобрести Frames из наборов, а также Официальные и Пользовательские Frames для ваших 2D карт",
+  "BF_CATEGORY": "Косметика",
+  "NO_FRAME_NAME": "{{author}} Пожалуйста, укажите название **Frame**, которую вы хотите купить",
+  "NO_FRAMECODE_FOUND": "{{author}} Не удалось найти **Frame** с кодом `{{name}}`",
+  "FRAME_UNAVAILABLE": "{{author}} Данная **Frame** сейчас недоступна. Используйте команду `{{prefix}}fs`, чтобы посмотреть текущую ротацию **Frame**",
+  "FRAME_NOT_PURCHASABLE": "{{author}} Данная **Frame** была доступна ограниченное время и больше не может быть куплена",
+  "EMBED_TITLE": "SOFI: TRANSACTION",
+  "YOU_GET": "Вы получаете:",
+  "YOU_PAY": "Вы платите:",
+  "NO_ENOUGH_AMOUNT": "{{author}} У вас недостаточно **{{currency}}** для совершения покупки",
+  "TRANSACTION_SUCCESSFUL": "{{author}} Вы успешно приобрели {{count}} **{{frameName}}** **Frame**",
+  "PROCESS_CANCELLED": "Процесс отменен",
+  "NO_NEGATIVE_COUNT": "{{author}} Вы не можете купить отрицательное количество **Frames**"
 }

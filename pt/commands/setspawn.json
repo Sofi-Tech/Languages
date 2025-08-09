@@ -1,8 +1,8 @@
 {
-    "SETSPAWN_DESCRIPTION": "Usar este comando em um canal ou mencionar um canal definirá ou removerá esse canal como canal de spawn. Dependendo da atividade crescente do servidor, Sofi às vezes deixará cair cartas sozinha no canal especificado",
-    "SS_CATEGORY": "Configurações",
-    "SS_SLASH_DESC": "Selecione um canal",
-    "SS_MENTION_CHANNEL": "{{author}} Uso correto: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-    "SS_DISABLE": "{{author}} Cartas não aparecerão mais neste servidor",
-    "SS_ENABLE": "{{author}} O canal de aparição de cartas foi definido como {{channel}}"
+  "SETSPAWN_DESCRIPTION": "Usar este comando em um canal ou mencionar um canal definirá ou removerá esse canal como canal de spawn. Dependendo da atividade crescente do servidor, Sofi às vezes deixará cair cartas sozinha no canal especificado",
+  "SS_CATEGORY": "Configurações",
+  "SS_SLASH_DESC": "Selecione um canal",
+  "SS_MENTION_CHANNEL": "{{author}} Uso correto: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+  "SS_DISABLE": "{{author}} Cartas não aparecerão mais neste servidor",
+  "SS_ENABLE": "{{author}} O canal de aparição de cartas foi definido como {{channel}}"
 }

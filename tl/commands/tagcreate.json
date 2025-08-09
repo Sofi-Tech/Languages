@@ -1,11 +1,11 @@
 {
-    "TAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng isang tag upang ikategorya at ipangkat ang maramihang mga code na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tag\" upang magtalaga ng mga ginawang tag sa iyong mga card o mga Version Token",
-    "TC_CATEGORY": "Mga Tag",
-    "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}tc <TagName> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Ang emoji na iyon ay hindi tama",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong tag ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, puwang o mga masasamang salita",
-    "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong tag ay dapat hanggang **20** na letra lamang",
-    "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang tag na may pangalan na `{{tag}}`",
-    "TAG_CREATED": "{{author}} Matagumpay na nakagawa ng tag na may pangalang: `{{tag}}` | {{emoji}}",
-    "TC_MAX_TAGS": "{{author}} Naabot mo na ang maximum na bilang ng mga tag na maaari mong gawin"
+  "TAGCREATE_DESCRIPTION": "Sa command na ito maaari kang lumikha ng isang tag upang ikategorya at ipangkat ang maramihang mga code na akma sa iyong sariling pamantayan. Gamitin ang command na \"{{prefix}}tag\" upang magtalaga ng mga ginawang tag sa iyong mga card o mga Version Token",
+  "TC_CATEGORY": "Mga Tag",
+  "WRONG_USAGE": "{{author}} Tamang paggamit: `{{prefix}}tc <TagName> <Emoji>`",
+  "INVALID_EMOJI": "{{author}} Ang emoji na iyon ay hindi tama",
+  "INVALID_TAGNAME_FORMAT": "{{author}} Ang pangalan ng iyong tag ay dapat naka alphanumeric at hindi naglalaman ng espesyal na letra, puwang o mga masasamang salita",
+  "LONG_TAGNAME": "{{author}} Ang pangalan ng iyong tag ay dapat hanggang **20** na letra lamang",
+  "TAGNAME_EXISTS": "{{author}} Ikaw ay mayroon nang tag na may pangalan na `{{tag}}`",
+  "TAG_CREATED": "{{author}} Matagumpay na nakagawa ng tag na may pangalang: `{{tag}}` | {{emoji}}",
+  "TC_MAX_TAGS": "{{author}} Naabot mo na ang maximum na bilang ng mga tag na maaari mong gawin"
 }

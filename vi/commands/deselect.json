@@ -1,7 +1,7 @@
 {
-    "DESELECT_CATEGORY": "Bang Hội",
-    "DESELECT_DESCRIPTION": "Lệnh này được sử dụng để bỏ chọn một thẻ đang được sử dụng trong một bộ bài",
-    "ENTER_VALID_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}ds <CardCode>`",
-    "NOT_OWN_CARD": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "DESELECTED_SUCCESSFULLY": "{{author}} Bỏ chọn thẻ thành công"
+  "DESELECT_CATEGORY": "Bang Hội",
+  "DESELECT_DESCRIPTION": "Lệnh này được sử dụng để bỏ chọn một thẻ đang được sử dụng trong một bộ bài",
+  "ENTER_VALID_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}ds <CardCode>`",
+  "NOT_OWN_CARD": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+  "DESELECTED_SUCCESSFULLY": "{{author}} Bỏ chọn thẻ thành công"
 }

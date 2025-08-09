@@ -1,5 +1,5 @@
 {
-    "AC_CATEGORY": "Album",
-    "ALBUMCONFIG_DESCRIPTION": "Sử dụng lệnh này sẽ gửi một tin nhắn kèm theo liên kết đến trang web chính thức của Sofi, nơi bạn có thể tuỳ chỉnh và thiết lập các album của mình",
-    "CONFIGURE_ALBUM": "{{author}} Tạo và chỉnh sửa album của bạn trên trang web: <https://sofi.gg/albums{{albumName}}>"
+  "AC_CATEGORY": "Album",
+  "ALBUMCONFIG_DESCRIPTION": "Sử dụng lệnh này sẽ gửi một tin nhắn kèm theo liên kết đến trang web chính thức của Sofi, nơi bạn có thể tuỳ chỉnh và thiết lập các album của mình",
+  "CONFIGURE_ALBUM": "{{author}} Tạo và chỉnh sửa album của bạn trên trang web: <https://sofi.gg/albums{{albumName}}>"
 }

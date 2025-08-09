@@ -1,14 +1,14 @@
 {
-    "RESTORECARD_DESCRIPTION": "Use this command to restore a burnt card within 3 days of burning it",
-    "RESTORECARD_CATEGORY": "Cards",
-    "ENTER_CODE": "{{author}} Correct usage: `{{prefix}}restore <CardCode>`",
-    "CARD_NOT_FOUND": "{{author}} The card with code `{{code}}` was not found in your burned cards",
-    "CARD_NOT_BURNED": "{{author}} The card with code `{{code}}` is not burned yet",
-    "CARD_EXPIRED": "{{author}} The card with code `{{code}}` has expired and cannot be restored",
-    "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Are you sure you want to restore the card `{{code}}` for **{{amount}}** **{{currency}}**?",
-    "EMBED_FOOTER": "You can restore this card until {{date}}",
-    "MISSING_CURRENCY": "{{author}} You need {{amount}}** {{currency}}** to restore a card",
-    "RESTORE_SUCCESSFUL": "{{author}} The card with code `{{code}}` has been successfully restored",
-    "RESTORE_FAILED": "{{author}} The process has been cancelled"
+  "RESTORECARD_DESCRIPTION": "Use this command to restore a burnt card within 3 days of burning it",
+  "RESTORECARD_CATEGORY": "Cards",
+  "ENTER_CODE": "{{author}} Correct usage: `{{prefix}}restore <CardCode>`",
+  "CARD_NOT_FOUND": "{{author}} The card with code `{{code}}` was not found in your burned cards",
+  "CARD_NOT_BURNED": "{{author}} The card with code `{{code}}` is not burned yet",
+  "CARD_EXPIRED": "{{author}} The card with code `{{code}}` has expired and cannot be restored",
+  "EMBED_TITLE": "SOFI: RESTORE CARD",
+  "RESTORE_CONFIRMATION": "Are you sure you want to restore the card `{{code}}` for **{{amount}}** **{{currency}}**?",
+  "EMBED_FOOTER": "You can restore this card until {{date}}",
+  "MISSING_CURRENCY": "{{author}} You need {{amount}}** {{currency}}** to restore a card",
+  "RESTORE_SUCCESSFUL": "{{author}} The card with code `{{code}}` has been successfully restored",
+  "RESTORE_FAILED": "{{author}} The process has been cancelled"
 }

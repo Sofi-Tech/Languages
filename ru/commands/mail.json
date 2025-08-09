@@ -1,14 +1,14 @@
 {
-    "MAIL_CATEGORY": "Настройки",
-    "NO_MAILS_FOUND": "{{author}} В вашем почтовом ящике пока нет входящих писем",
-    "MENU_PLACEHOLDER": "Выбрать опцию",
-    "EMBED_AUTHOR": "Входящие {{username}}",
-    "EMBED_FOOTER": "Страница: {{page}}/{{pagesNum}}",
-    "CLAIMED_REWARD_ALREADY": "{{author}} Вы уже получили награду в предыдущей команде",
-    "REWARD_CLAIM_INVENTORY": "{{author}} Предметы добавлены в ваш инвентарь",
-    "MAIL_FRAME": "**Frame**",
-    "CLAIM_REWARD_BUTTON_LABEL": "Забрать награду",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Получено",
-    "MAIL_DESCRIPTION": "Данная команда отображает ваши входящие письма. Среди них вы найдете письма от Sofi, информирующие вас о предстоящих событиях, изменениях и новых функциях",
-    "MAIL_REWARDS": "**__Награды__**\n"
+  "MAIL_CATEGORY": "Настройки",
+  "NO_MAILS_FOUND": "{{author}} В вашем почтовом ящике пока нет входящих писем",
+  "MENU_PLACEHOLDER": "Выбрать опцию",
+  "EMBED_AUTHOR": "Входящие {{username}}",
+  "EMBED_FOOTER": "Страница: {{page}}/{{pagesNum}}",
+  "CLAIMED_REWARD_ALREADY": "{{author}} Вы уже получили награду в предыдущей команде",
+  "REWARD_CLAIM_INVENTORY": "{{author}} Предметы добавлены в ваш инвентарь",
+  "MAIL_FRAME": "**Frame**",
+  "CLAIM_REWARD_BUTTON_LABEL": "Забрать награду",
+  "REWARD_CLAIMED_BUTTON_LABEL": "Получено",
+  "MAIL_DESCRIPTION": "Данная команда отображает ваши входящие письма. Среди них вы найдете письма от Sofi, информирующие вас о предстоящих событиях, изменениях и новых функциях",
+  "MAIL_REWARDS": "**__Награды__**\n"
 }

@@ -1,12 +1,12 @@
 {
-    "BG_CATEGORY": "Cosmétiques",
-    "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "NON_3D_CARDS": "{{author}} Vous ne pouvez pas appliquer de **Background** à une carte qui n'est pas 3D",
-    "BACKGROUND_DESCRIPTION": "Une fois qu'une carte a été convertie en sa variante 3D, vous pouvez utiliser cette commande pour lui appliquer un Background. Utilisez la commande \"{{prefix}}backgroundshop\" pour acheter des Backgrounds",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}bg <CodeDeCarte> <ID-Background>`",
-    "EMBED_DESCRIPTION": "Êtes-vous sur de vouloir appliquer le **Background** **{{background}}** sur cette carte?",
-    "BG_NOT_FOUND": "{{author}} Impossible de trouver un **Background** avec cet ID",
-    "EMBED_TITLE": "SOFI: BACKGROUND",
-    "USER_NO_BG": "{{author}} Vous ne possédez pas ce **Background**",
-    "BG_APPLY_SUCCESSFUL": "{{author}} Le **Background** **{{background}}** a été appliqué avec succès sur votre carte"
+  "BG_CATEGORY": "Cosmétiques",
+  "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+  "NON_3D_CARDS": "{{author}} Vous ne pouvez pas appliquer de **Background** à une carte qui n'est pas 3D",
+  "BACKGROUND_DESCRIPTION": "Une fois qu'une carte a été convertie en sa variante 3D, vous pouvez utiliser cette commande pour lui appliquer un Background. Utilisez la commande \"{{prefix}}backgroundshop\" pour acheter des Backgrounds",
+  "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}bg <CodeDeCarte> <ID-Background>`",
+  "EMBED_DESCRIPTION": "Êtes-vous sur de vouloir appliquer le **Background** **{{background}}** sur cette carte?",
+  "BG_NOT_FOUND": "{{author}} Impossible de trouver un **Background** avec cet ID",
+  "EMBED_TITLE": "SOFI: BACKGROUND",
+  "USER_NO_BG": "{{author}} Vous ne possédez pas ce **Background**",
+  "BG_APPLY_SUCCESSFUL": "{{author}} Le **Background** **{{background}}** a été appliqué avec succès sur votre carte"
 }

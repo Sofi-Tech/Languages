@@ -1,14 +1,14 @@
 {
-    "VOTE_DESCRIPTION": "Use this command to vote for Sofi. Each Vote on Top.GG will reward you with 1 Wist on weekdays and 2 Wists on weekends. Each Vote on DiscordBotList will reward you with 5 Elixirs.",
-    "VOTE_CATEGORY": "Settings",
-    "VOTE": "Vote on Top.GG",
-    "VOTE_DBL": "Vote on DiscordBotList",
-    "BUMP": "Bump",
-    "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-    "USE_WIST": "You will obtain **1 Wist** <:wist:870339503427027005> for each successful **Vote** on [Top.gg](https://top.gg/bot/853629533855809596)!",
-    "USE_ELIXIR": "You will obtain **5 Elixirs** <:xelixir:979673719884636210> for each successful **Vote** on [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!",
-    "TOTAL_VOTES": "- Total **Votes**: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- Monthly **Votes**: **{{monthlyVotes}}**",
-    "VOTE_RESET": "- Resets in: **{{countdown}}**",
-    "EMBED_FOOTER": "You get double the amount of Wists on a weekend"
+  "VOTE_DESCRIPTION": "Use this command to vote for Sofi. Each Vote on Top.GG will reward you with 1 Wist on weekdays and 2 Wists on weekends. Each Vote on DiscordBotList will reward you with 5 Elixirs.",
+  "VOTE_CATEGORY": "Settings",
+  "VOTE": "Vote on Top.GG",
+  "VOTE_DBL": "Vote on DiscordBotList",
+  "BUMP": "Bump",
+  "EMBED_TITLE": "SOFI: VOTE ({{username}})",
+  "USE_WIST": "You will obtain **1 Wist** <:wist:870339503427027005> for each successful **Vote** on [Top.gg](https://top.gg/bot/853629533855809596)!",
+  "USE_ELIXIR": "You will obtain **5 Elixirs** <:xelixir:979673719884636210> for each successful **Vote** on [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!",
+  "TOTAL_VOTES": "- Total **Votes**: **{{totalVotes}}**",
+  "MONTHLY_VOTES": "- Monthly **Votes**: **{{monthlyVotes}}**",
+  "VOTE_RESET": "- Resets in: **{{countdown}}**",
+  "EMBED_FOOTER": "You get double the amount of Wists on a weekend"
 }

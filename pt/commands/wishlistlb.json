@@ -1,8 +1,8 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Este comando criará um embed rankeando os personagens com as maiores listas de desejo na Sofi",
-    "CATEGORY": "Lista de Desejos",
-    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-    "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Personagens",
-    "SERIES_BUTTON_LABEL": "Séries"
+  "WISHLISTLB_DESCRIPTION": "Este comando criará um embed rankeando os personagens com as maiores listas de desejo na Sofi",
+  "CATEGORY": "Lista de Desejos",
+  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+  "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Personagens",
+  "SERIES_BUTTON_LABEL": "Séries"
 }

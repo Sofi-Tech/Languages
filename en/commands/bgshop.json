@@ -1,10 +1,10 @@
 {
-    "BGSHOP_DESCRIPTION": "This commands will open the Background shop, displaying all available Backgrounds you can purchase for your 3D cards. Clicking on any of the names on the embed will open a webpage showcasing the specific Background",
-    "BGS_CATEGORY": "Cosmetics",
-    "BGS_SLASH_DESC": "Enter the code of the \"Background\" that you are looking for",
-    "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
-    "APPLY_BG": "\nUse the command `{{prefix}}buy bg <Background-ID> <Amount>` to buy a **Background**",
-    "VIEW_BACKGROUNDS": "[Click here to view all available **Backgrounds**](<https://sofi.gg/backgrounds>)",
-    "SHOWING_PAGE": "Showing page: {{page}}/{{pages}}",
-    "NO_BG_FOUND": "{{author}} Could not find any **Background** with that ID"
+  "BGSHOP_DESCRIPTION": "This commands will open the Background shop, displaying all available Backgrounds you can purchase for your 3D cards. Clicking on any of the names on the embed will open a webpage showcasing the specific Background",
+  "BGS_CATEGORY": "Cosmetics",
+  "BGS_SLASH_DESC": "Enter the code of the \"Background\" that you are looking for",
+  "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
+  "APPLY_BG": "\nUse the command `{{prefix}}buy bg <Background-ID> <Amount>` to buy a **Background**",
+  "VIEW_BACKGROUNDS": "[Click here to view all available **Backgrounds**](<https://sofi.gg/backgrounds>)",
+  "SHOWING_PAGE": "Showing page: {{page}}/{{pages}}",
+  "NO_BG_FOUND": "{{author}} Could not find any **Background** with that ID"
 }

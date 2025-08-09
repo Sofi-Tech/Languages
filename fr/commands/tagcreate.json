@@ -1,11 +1,11 @@
 {
-    "TAGCREATE_DESCRIPTION": "Avec cette commande, vous pouvez créer un tag pour catégoriser et regrouper plusieurs codes selon vos propres critères. Utilisez la commande \"{{prefix}}tag\" pour attribuer vos tags créés aux cartes ou Version Tokens",
-    "TC_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}tc <NomDeTag> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre tag doit être alphanumérique et ne peut pas contenir de caractères spéciaux, d'espaces ou de mots injurieux",
-    "LONG_TAGNAME": "{{author}} Le nom de votre tag ne peut contenir que **20** caractères",
-    "TAGNAME_EXISTS": "{{author}} Vous possédez déjà un tag avec le nom `{{tag}}`",
-    "TAG_CREATED": "{{author}} Création du tag nommé `{{tag}}` | {{emoji}} avec succès",
-    "TC_MAX_TAGS": "{{author}} Vous avez atteint le nombre maximum de tags que vous pouvez créer"
+  "TAGCREATE_DESCRIPTION": "Avec cette commande, vous pouvez créer un tag pour catégoriser et regrouper plusieurs codes selon vos propres critères. Utilisez la commande \"{{prefix}}tag\" pour attribuer vos tags créés aux cartes ou Version Tokens",
+  "TC_CATEGORY": "Tags",
+  "WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}tc <NomDeTag> <Emoji>`",
+  "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
+  "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre tag doit être alphanumérique et ne peut pas contenir de caractères spéciaux, d'espaces ou de mots injurieux",
+  "LONG_TAGNAME": "{{author}} Le nom de votre tag ne peut contenir que **20** caractères",
+  "TAGNAME_EXISTS": "{{author}} Vous possédez déjà un tag avec le nom `{{tag}}`",
+  "TAG_CREATED": "{{author}} Création du tag nommé `{{tag}}` | {{emoji}} avec succès",
+  "TC_MAX_TAGS": "{{author}} Vous avez atteint le nombre maximum de tags que vous pouvez créer"
 }

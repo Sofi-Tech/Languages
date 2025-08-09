@@ -1,6 +1,6 @@
 {
-    "PROVIDE_FILTER": "{{author}} Por favor, forneça um filtro junto com o método de organização",
-    "PROVIDE_CATEGORY": "{{author}} Forneça uma das seguintes categorias```apache\n{{categories}}```",
-    "TOO_MANY_FILTER_GROUPS": "{{author}} Você só pode ter 5 grupos de filtros, por favor tente novamente",
-    "TOO_LONG_FILTER": "{{author}} O filtro que você forneceu é muito longo, por favor tente novamente"
+  "PROVIDE_FILTER": "{{author}} Por favor, forneça um filtro junto com o método de organização",
+  "PROVIDE_CATEGORY": "{{author}} Forneça uma das seguintes categorias```apache\n{{categories}}```",
+  "TOO_MANY_FILTER_GROUPS": "{{author}} Você só pode ter 5 grupos de filtros, por favor tente novamente",
+  "TOO_LONG_FILTER": "{{author}} O filtro que você forneceu é muito longo, por favor tente novamente"
 }

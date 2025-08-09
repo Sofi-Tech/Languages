@@ -1,8 +1,8 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "Ang command na ito ay magbubukas ng imbentaryo ng Fragment ng isang user",
-    "COLLECTION_PVT": "{{author}} Ang **Fragments** ng user na iyon ay pribado",
-    "CANNOT_FIND_FRAGS": "{{user}} Ang user na iyon ay walang kahit anong mga **Fragments**",
-    "FRAGS_COUNT": "Kabuuan: {{totalCount}}",
-    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
-    "CANNOT_FIND_SELF": "{{user}} Wala kang kahit ano pang mga **Fragments**"
+  "VIEWFRAGS_DESCRIPTION": "Ang command na ito ay magbubukas ng imbentaryo ng Fragment ng isang user",
+  "COLLECTION_PVT": "{{author}} Ang **Fragments** ng user na iyon ay pribado",
+  "CANNOT_FIND_FRAGS": "{{user}} Ang user na iyon ay walang kahit anong mga **Fragments**",
+  "FRAGS_COUNT": "Kabuuan: {{totalCount}}",
+  "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
+  "CANNOT_FIND_SELF": "{{user}} Wala kang kahit ano pang mga **Fragments**"
 }

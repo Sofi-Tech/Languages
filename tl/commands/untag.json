@@ -1,9 +1,9 @@
 {
-    "UNTAG_DESCRIPTION": "Gamitin ang command na ito upang tanggalin ang tag sa iyong kard o Version Token. Kung gusto mong burahin ang buong tag, maaari mo namang gamitin ang command na \"{{prefix}}tagdelete\"",
-    "UT_CATEGORY": "Mga Tag",
-    "UT_EMPTY_COLLECTION": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
-    "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na tinanggal ang tag sa **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Matagumpay na tinanggal ang tag mula sa **{{count}}** na mga code",
-    "INVALID_CODE": "{{author}} Ang code na iyan ay maaaring hindi tama o wala sa iyong koleksyon",
-    "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na codes ay maaaring hindi tama o wala sa iyong koleksyon:\n{{invalidCodeList}}"
+  "UNTAG_DESCRIPTION": "Gamitin ang command na ito upang tanggalin ang tag sa iyong kard o Version Token. Kung gusto mong burahin ang buong tag, maaari mo namang gamitin ang command na \"{{prefix}}tagdelete\"",
+  "UT_CATEGORY": "Mga Tag",
+  "UT_EMPTY_COLLECTION": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
+  "UNTAG_SUCCESSFUL": "{{author}} Matagumpay na tinanggal ang tag sa **{{cardName}}**",
+  "MULTIPLE_UNTAG": "{{author}} Matagumpay na tinanggal ang tag mula sa **{{count}}** na mga code",
+  "INVALID_CODE": "{{author}} Ang code na iyan ay maaaring hindi tama o wala sa iyong koleksyon",
+  "INVALID_CODE_MULTIPLE": "{{author}} Ang mga sumusunod na codes ay maaaring hindi tama o wala sa iyong koleksyon:\n{{invalidCodeList}}"
 }

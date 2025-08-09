@@ -1,15 +1,15 @@
 {
-    "UNDOMORPH_DESCRIPTION": "Retire le \"Morph\" d'une carte",
-    "UM_CATEGORY": "Cosmétiques",
-    "UM_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}um <CodeCarte>`",
-    "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
-    "NO_CHARACTER": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
-    "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte **GIF**",
-    "NOT_MORPHED": "{{author}} Cette carte n'a pas de morph appliqué",
-    "EMBED_TITLE": "SOFI: REMOVE MORPH",
-    "UM_CONFIRMATION": "Êtes-vous sûr(e) de vouloir retirer le morph de cette carte pour **{{count}}** {{currencyEmoji}}?",
-    "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
-    "SOMETHING_WENT_WRONG": "{{author}} Une erreur s'est produite, veuillez réessayer",
-    "NOT_ENOUGH_SILVERS": "Vous n'avez pas assez de **{{currency}}** pour ce processus",
-    "UM_SUCCESSFUL": "{{author}} Le morph de cette carte a été retiré avec succès"
+  "UNDOMORPH_DESCRIPTION": "Retire le \"Morph\" d'une carte",
+  "UM_CATEGORY": "Cosmétiques",
+  "UM_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}um <CodeCarte>`",
+  "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+  "NO_CHARACTER": "{{author}} Le personnage sur cette carte n'est plus disponible sur Sofi et vous ne pouvez pas interagir avec",
+  "NO_GIF": "{{author}} Vous ne pouvez pas retirer de cosmétiques d'une carte **GIF**",
+  "NOT_MORPHED": "{{author}} Cette carte n'a pas de morph appliqué",
+  "EMBED_TITLE": "SOFI: REMOVE MORPH",
+  "UM_CONFIRMATION": "Êtes-vous sûr(e) de vouloir retirer le morph de cette carte pour **{{count}}** {{currencyEmoji}}?",
+  "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
+  "SOMETHING_WENT_WRONG": "{{author}} Une erreur s'est produite, veuillez réessayer",
+  "NOT_ENOUGH_SILVERS": "Vous n'avez pas assez de **{{currency}}** pour ce processus",
+  "UM_SUCCESSFUL": "{{author}} Le morph de cette carte a été retiré avec succès"
 }

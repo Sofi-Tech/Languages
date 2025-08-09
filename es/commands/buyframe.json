@@ -1,15 +1,15 @@
 {
-    "BUYFRAME_DESCRIPTION": "Este comando es usado específicamente para comprar Frames del comando \"{{prefix}}frameshop\", en el cual podrás comprar Frames oficiales, customizados y Packs de Frames para tus cartas 2d",
-    "BF_CATEGORY": "Cosméticos",
-    "NO_FRAME_NAME": "{{author}} Por favor proporciona el código del **Frame** que quieres comprar",
-    "NO_FRAMECODE_FOUND": "{{author}} No se ha podido encontrar ningún **Frame** con el código: `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Ese **Frame** no está disponible actualmente. Usa el comando `{{prefix}}fs` para ver la rotación actual de **Frames**",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Ese **Frame** es limitado y ya no puede ser comprado",
-    "EMBED_TITLE": "SOFI: TRANSACTION",
-    "YOU_GET": "Recibes:",
-    "YOU_PAY": "Pagas:",
-    "NO_ENOUGH_AMOUNT": "{{author}} No tienes suficientes **{{currency}}** para hacer esta compra",
-    "TRANSACTION_SUCCESSFUL": "{{author}} Has comprado {{count}} **Frame** **{{frameName}}** con éxito",
-    "PROCESS_CANCELLED": "El proceso ha sido cancelado",
-    "NO_NEGATIVE_COUNT": "{{author}} No puedes comprar una cantidad negativa de **Frames**"
+  "BUYFRAME_DESCRIPTION": "Este comando es usado específicamente para comprar Frames del comando \"{{prefix}}frameshop\", en el cual podrás comprar Frames oficiales, customizados y Packs de Frames para tus cartas 2d",
+  "BF_CATEGORY": "Cosméticos",
+  "NO_FRAME_NAME": "{{author}} Por favor proporciona el código del **Frame** que quieres comprar",
+  "NO_FRAMECODE_FOUND": "{{author}} No se ha podido encontrar ningún **Frame** con el código: `{{name}}`",
+  "FRAME_UNAVAILABLE": "{{author}} Ese **Frame** no está disponible actualmente. Usa el comando `{{prefix}}fs` para ver la rotación actual de **Frames**",
+  "FRAME_NOT_PURCHASABLE": "{{author}} Ese **Frame** es limitado y ya no puede ser comprado",
+  "EMBED_TITLE": "SOFI: TRANSACTION",
+  "YOU_GET": "Recibes:",
+  "YOU_PAY": "Pagas:",
+  "NO_ENOUGH_AMOUNT": "{{author}} No tienes suficientes **{{currency}}** para hacer esta compra",
+  "TRANSACTION_SUCCESSFUL": "{{author}} Has comprado {{count}} **Frame** **{{frameName}}** con éxito",
+  "PROCESS_CANCELLED": "El proceso ha sido cancelado",
+  "NO_NEGATIVE_COUNT": "{{author}} No puedes comprar una cantidad negativa de **Frames**"
 }

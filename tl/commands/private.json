@@ -1,10 +1,10 @@
 {
-    "PRIVATE_DESCRIPTION": "Gamitin ang command na ito upang gawing pribado ang parte ng iyong account. Ang pribadong seksyon ay hindi na maaaring makita pa ng ibang manlalaro. Gamit ang command na ito ay makikita mo ang iyong kasalukuyang konpigurasyon para sa mga seksyon na ito",
-    "PVT_CATEGORY": "Konpigurasyon",
-    "PRIVATE_ENABLED": "{{author}} Ang iyong **{{content}}** ay pribado na ngayon",
-    "PRIVATE_DISABLED": "{{author}} Ang iyong **{{content}}** ay hindi na pribado",
-    "PVT_PRIVATE": "Pribado",
-    "PVT_PUBLIC": "Publiko",
-    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
-    "WRONG_ARGUMENTS": "{{author}} Tamang paggamit: `{{prefix}}pvt <C/WL/INV/VT>`"
+  "PRIVATE_DESCRIPTION": "Gamitin ang command na ito upang gawing pribado ang parte ng iyong account. Ang pribadong seksyon ay hindi na maaaring makita pa ng ibang manlalaro. Gamit ang command na ito ay makikita mo ang iyong kasalukuyang konpigurasyon para sa mga seksyon na ito",
+  "PVT_CATEGORY": "Konpigurasyon",
+  "PRIVATE_ENABLED": "{{author}} Ang iyong **{{content}}** ay pribado na ngayon",
+  "PRIVATE_DISABLED": "{{author}} Ang iyong **{{content}}** ay hindi na pribado",
+  "PVT_PRIVATE": "Pribado",
+  "PVT_PUBLIC": "Publiko",
+  "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+  "WRONG_ARGUMENTS": "{{author}} Tamang paggamit: `{{prefix}}pvt <C/WL/INV/VT>`"
 }

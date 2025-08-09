@@ -1,12 +1,12 @@
 {
-    "MERGEGLOW_DESCRIPTION": "Use this command to condense 4 different Glows into 1 Resin, which is a required material in the creation of Super Glows. Any merged Glow will be permanently removed from your inventory",
-    "MG_CATEGORY": "Cosmetics",
-    "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
-    "GLOWS_UNAVAILABLE": "{{author}} At least one of the **Glow** codes you provided is empty",
-    "GLOW_CODES_UNIQUE": "{{author}} You cannot use the same **Glow** more than once for this process",
-    "GLOWS_NOT_FOUND": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
-    "EMBED_TITLE": "SOFI: MERGE GLOWS",
-    "MERGE_CONFIRMATION": "Are you sure you want to merge the following **Glows**?\n\n{{glows}}\n\nYou will receive <:resin:938131736741691442> **1x** **Resin** from this process",
-    "GLOW_MERGE_SUCCESSFUL": "{{author}} Successfully merged your **Glows** into a <:resin:938131736741691442>",
-    "GLOWS_NOT_IN_INVENTORY": "{{author}} At least one of the **Glows** you provided is no longer in your inventory"
+  "MERGEGLOW_DESCRIPTION": "Use this command to condense 4 different Glows into 1 Resin, which is a required material in the creation of Super Glows. Any merged Glow will be permanently removed from your inventory",
+  "MG_CATEGORY": "Cosmetics",
+  "GLOW_CODES_MISSING": "{{author}} Correct usage: `{{prefix}}mg <#GlowCode1> <#GlowCode2> <#GlowCode3> <#GlowCode4>`",
+  "GLOWS_UNAVAILABLE": "{{author}} At least one of the **Glow** codes you provided is empty",
+  "GLOW_CODES_UNIQUE": "{{author}} You cannot use the same **Glow** more than once for this process",
+  "GLOWS_NOT_FOUND": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
+  "EMBED_TITLE": "SOFI: MERGE GLOWS",
+  "MERGE_CONFIRMATION": "Are you sure you want to merge the following **Glows**?\n\n{{glows}}\n\nYou will receive <:resin:938131736741691442> **1x** **Resin** from this process",
+  "GLOW_MERGE_SUCCESSFUL": "{{author}} Successfully merged your **Glows** into a <:resin:938131736741691442>",
+  "GLOWS_NOT_IN_INVENTORY": "{{author}} At least one of the **Glows** you provided is no longer in your inventory"
 }

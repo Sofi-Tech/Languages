@@ -1,7 +1,7 @@
 {
-    "DELETEGLOWTAG_DESCRIPTION": "Ang paggamit ng command na ito kasama ang pangalan ng Glow tag ay magbubura ng napiling tag",
-    "DGT_CATEGORY": "Mga Tag",
-    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}dgt <TagName>`",
-    "GLOWTAG_NOT_FOUND": "{{author}} Ikaw ay walang kahit anong **Glow** tag na may pangalang `{{tagname}}`",
-    "DELETE_GLOWTAG": "{{author}} Matagumpay na nabura ang **Glow** tag na may pangalang `{{tag}}`"
+  "DELETEGLOWTAG_DESCRIPTION": "Ang paggamit ng command na ito kasama ang pangalan ng Glow tag ay magbubura ng napiling tag",
+  "DGT_CATEGORY": "Mga Tag",
+  "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}dgt <TagName>`",
+  "GLOWTAG_NOT_FOUND": "{{author}} Ikaw ay walang kahit anong **Glow** tag na may pangalang `{{tagname}}`",
+  "DELETE_GLOWTAG": "{{author}} Matagumpay na nabura ang **Glow** tag na may pangalang `{{tag}}`"
 }

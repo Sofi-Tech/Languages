@@ -1,14 +1,14 @@
 {
-    "RESTORECARD_DESCRIPTION": "Benutze diesen Befehl um eine verbrannte Karte innerhalb von 3 Tagen des Verbrennens wiederherzustellen",
-    "RESTORECARD_CATEGORY": "Karten",
-    "ENTER_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}restore <KartenCode>`",
-    "CARD_NOT_FOUND": "{{author}} Die Karte mit dem Code `{{code}}` wurde nicht in deinen verbrannten Karten gefunden",
-    "CARD_EXPIRED": "{{author}} Die Karte mit dem Code `{{code}}` ist abgelaufen und kann nicht wiederhergestellt werden",
-    "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Bist du dir sicher das du die Karte `{{code}}` für **{{amount}}** **{{currency}}** wiederherstellen willst?",
-    "EMBED_FOOTER": "Du kannst diese Karte wiederherstellen bis {{date}}",
-    "MISSING_CURRENCY": "{{author}} Du brauchst {{amount}}** {{currency}}** um eine Karte wiederherzustellen",
-    "RESTORE_SUCCESSFUL": "{{author}} Die Karte mit dem Code `{{code}}` wurde erfolgreich wiederhergestellt",
-    "RESTORE_FAILED": "{{author}} Dieser Vorgang wurde abgebrochen",
-    "CARD_NOT_BURNED": "{{author}} Die Karte mit dem Code `{{code}}` ist noch nicht verbrannt"
+  "RESTORECARD_DESCRIPTION": "Benutze diesen Befehl um eine verbrannte Karte innerhalb von 3 Tagen des Verbrennens wiederherzustellen",
+  "RESTORECARD_CATEGORY": "Karten",
+  "ENTER_CODE": "{{author}} Korrekte Verwendung: `{{prefix}}restore <KartenCode>`",
+  "CARD_NOT_FOUND": "{{author}} Die Karte mit dem Code `{{code}}` wurde nicht in deinen verbrannten Karten gefunden",
+  "CARD_EXPIRED": "{{author}} Die Karte mit dem Code `{{code}}` ist abgelaufen und kann nicht wiederhergestellt werden",
+  "EMBED_TITLE": "SOFI: RESTORE CARD",
+  "RESTORE_CONFIRMATION": "Bist du dir sicher das du die Karte `{{code}}` für **{{amount}}** **{{currency}}** wiederherstellen willst?",
+  "EMBED_FOOTER": "Du kannst diese Karte wiederherstellen bis {{date}}",
+  "MISSING_CURRENCY": "{{author}} Du brauchst {{amount}}** {{currency}}** um eine Karte wiederherzustellen",
+  "RESTORE_SUCCESSFUL": "{{author}} Die Karte mit dem Code `{{code}}` wurde erfolgreich wiederhergestellt",
+  "RESTORE_FAILED": "{{author}} Dieser Vorgang wurde abgebrochen",
+  "CARD_NOT_BURNED": "{{author}} Die Karte mit dem Code `{{code}}` ist noch nicht verbrannt"
 }

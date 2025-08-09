@@ -1,15 +1,15 @@
 {
-    "BUY_LAYER_INFO": "Gamitin ang command na `{{prefix}}buy layer <Layer-ID> <Amount>` para bumili ng **Layer**",
-    "LS_PAGE_FOOTER": "Ipinapakitang Pahina: {{currentPage}}/{{totalPages}}",
-    "LAYER_NOT_FOUND": "{{author}} Hindi mahanap ang **Layer** na may ID `{{layerId}}`",
-    "LS_NAME": "**Pangalan:** {{name}}",
-    "LS_PRICE": "**Presyo:** {{amount}} {{currencyEmoji}}",
-    "LS_CATEGORY": "**Kategorya:** {{category}}",
-    "LS_ARTIST": "**Likha ni:** {{artist}}",
-    "LAYERSHOP_CATEGORY": "Kosmetiko",
-    "LS_DESCRIPTION": "**Paglalarawan:** {{description}}",
-    "LAYERSHOP_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed na nagpapakita ng lahat ng mga Layer na kasalukuyang pwedeng mabili",
-    "CATEGORY_MENU_PLACEHOLDER": "Pumili ng Kategorya",
-    "LS_EVENT_MENU_LABEL": "Event",
-    "LS_BACK_MENU_LABEL": "Bumalik"
+  "BUY_LAYER_INFO": "Gamitin ang command na `{{prefix}}buy layer <Layer-ID> <Amount>` para bumili ng **Layer**",
+  "LS_PAGE_FOOTER": "Ipinapakitang Pahina: {{currentPage}}/{{totalPages}}",
+  "LAYER_NOT_FOUND": "{{author}} Hindi mahanap ang **Layer** na may ID `{{layerId}}`",
+  "LS_NAME": "**Pangalan:** {{name}}",
+  "LS_PRICE": "**Presyo:** {{amount}} {{currencyEmoji}}",
+  "LS_CATEGORY": "**Kategorya:** {{category}}",
+  "LS_ARTIST": "**Likha ni:** {{artist}}",
+  "LAYERSHOP_CATEGORY": "Kosmetiko",
+  "LS_DESCRIPTION": "**Paglalarawan:** {{description}}",
+  "LAYERSHOP_DESCRIPTION": "Ang command na ito ay magbubukas ng isang embed na nagpapakita ng lahat ng mga Layer na kasalukuyang pwedeng mabili",
+  "CATEGORY_MENU_PLACEHOLDER": "Pumili ng Kategorya",
+  "LS_EVENT_MENU_LABEL": "Event",
+  "LS_BACK_MENU_LABEL": "Bumalik"
 }

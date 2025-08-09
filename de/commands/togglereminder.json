@@ -1,7 +1,7 @@
 {
-    "TOGGLEREMINDER_DESCRIPTION": "Mit diesem Befehl kannst du den Status deiner Erinnerungen umschalten. Alternativ kannst du auch den Befehl \"{{prefix}}cooldown\" benutzen und auf das Glocken Symbol klicken",
-    "PROVIDE_REMINDER_NAME": "{{author}} Korrekte Verwendung: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "RM_CATEGORY": "Einstellungen",
-    "REMINDER_DISABLED": "{{author}} Du wirst nicht mehr benachrichtigt wenn folgendes bereit ist: **{{reminder}}**",
-    "REMINDER_ENABLED": "{{author}} Du wirst ab sofort benachrichtigt wenn folgendes bereit ist: **{{reminder}}**"
+  "TOGGLEREMINDER_DESCRIPTION": "Mit diesem Befehl kannst du den Status deiner Erinnerungen umschalten. Alternativ kannst du auch den Befehl \"{{prefix}}cooldown\" benutzen und auf das Glocken Symbol klicken",
+  "PROVIDE_REMINDER_NAME": "{{author}} Korrekte Verwendung: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "RM_CATEGORY": "Einstellungen",
+  "REMINDER_DISABLED": "{{author}} Du wirst nicht mehr benachrichtigt wenn folgendes bereit ist: **{{reminder}}**",
+  "REMINDER_ENABLED": "{{author}} Du wirst ab sofort benachrichtigt wenn folgendes bereit ist: **{{reminder}}**"
 }

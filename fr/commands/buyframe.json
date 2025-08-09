@@ -1,15 +1,15 @@
 {
-    "BUYFRAME_DESCRIPTION": "Cette commande est utilisée spécifiquement pour acheter des Frames depuis la commande \"{{prefix}}frameshop\", dans laquelle vous pourrez acheter des Frames Officielles, Custom, et des Pack de Frames pour vos cartes 2D",
-    "BF_CATEGORY": "Cosmétiques",
-    "NO_FRAME_NAME": "{{author}} Veuillez indiquer le code de la **Frame** que vous souhaitez acheter",
-    "NO_FRAMECODE_FOUND": "{{author}} Impossible de trouver une **Frame** avec le code `{{name}}`",
-    "FRAME_UNAVAILABLE": "{{author}} Cette **Frame** est actuellement indisponible. Veuillez utiliser la commande `{{prefix}}fs` pour voir la rotation actuelle de **Frame**",
-    "FRAME_NOT_PURCHASABLE": "{{author}} Cette **Frame** est une édition limitée et ne peut plus être achetée",
-    "EMBED_TITLE": "SOFI: TRANSACTION",
-    "YOU_GET": "Vous recevez:",
-    "YOU_PAY": "Vous payez:",
-    "NO_ENOUGH_AMOUNT": "{{author}} Vous n'avez pas suffisamment de **{{currency}}** pour faire cet achat",
-    "TRANSACTION_SUCCESSFUL": "{{author}} Achat de {{count}} **Frame** **{{frameName}}** avec succès",
-    "PROCESS_CANCELLED": "Le processus a été annulé",
-    "NO_NEGATIVE_COUNT": "{{author}} Vous ne pouvez pas acheter une quantité négative de **Frames**"
+  "BUYFRAME_DESCRIPTION": "Cette commande est utilisée spécifiquement pour acheter des Frames depuis la commande \"{{prefix}}frameshop\", dans laquelle vous pourrez acheter des Frames Officielles, Custom, et des Pack de Frames pour vos cartes 2D",
+  "BF_CATEGORY": "Cosmétiques",
+  "NO_FRAME_NAME": "{{author}} Veuillez indiquer le code de la **Frame** que vous souhaitez acheter",
+  "NO_FRAMECODE_FOUND": "{{author}} Impossible de trouver une **Frame** avec le code `{{name}}`",
+  "FRAME_UNAVAILABLE": "{{author}} Cette **Frame** est actuellement indisponible. Veuillez utiliser la commande `{{prefix}}fs` pour voir la rotation actuelle de **Frame**",
+  "FRAME_NOT_PURCHASABLE": "{{author}} Cette **Frame** est une édition limitée et ne peut plus être achetée",
+  "EMBED_TITLE": "SOFI: TRANSACTION",
+  "YOU_GET": "Vous recevez:",
+  "YOU_PAY": "Vous payez:",
+  "NO_ENOUGH_AMOUNT": "{{author}} Vous n'avez pas suffisamment de **{{currency}}** pour faire cet achat",
+  "TRANSACTION_SUCCESSFUL": "{{author}} Achat de {{count}} **Frame** **{{frameName}}** avec succès",
+  "PROCESS_CANCELLED": "Le processus a été annulé",
+  "NO_NEGATIVE_COUNT": "{{author}} Vous ne pouvez pas acheter une quantité négative de **Frames**"
 }

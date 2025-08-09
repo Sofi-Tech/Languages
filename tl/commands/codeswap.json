@@ -1,8 +1,8 @@
 {
-    "CODESWAP_DESCRIPTION": "Sa command na ito ay maaari mo nang pagpalitin ang mga code ng dalawang partikular na kard",
-    "SLASH_DESC": "Ilagay ang unang code",
-    "SLASH_DESC2": "Ilagay ang pangalawang code",
-    "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}cs <Code1> <Code2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} Isa sa mga code ng kard na iyong ibinigay ay hindi tama o wala sa iyong kolekyon",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} Matagumpay na napagpalit ang mga code ng dalawang napili na kard"
+  "CODESWAP_DESCRIPTION": "Sa command na ito ay maaari mo nang pagpalitin ang mga code ng dalawang partikular na kard",
+  "SLASH_DESC": "Ilagay ang unang code",
+  "SLASH_DESC2": "Ilagay ang pangalawang code",
+  "CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}cs <Code1> <Code2>`",
+  "INVALID_CODES_PROVIDED": "{{author}} Isa sa mga code ng kard na iyong ibinigay ay hindi tama o wala sa iyong kolekyon",
+  "SUCCESSFUL_CODE_SWAP": "{{author}} Matagumpay na napagpalit ang mga code ng dalawang napili na kard"
 }

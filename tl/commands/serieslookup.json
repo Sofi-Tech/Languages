@@ -1,13 +1,13 @@
 {
-    "SERIESLOOKUP_DESCRIPTION": "Sa command na ito, maaari kang maghanap ng kahit anong serye na gusto mo. Ipapakita sa iyo ng nabuong embed ang lahat ng available na mga karakter na maaaring makuha mula sa tinukoy na serye",
-    "NO__LAST_CHAR_FOUND": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
-    "NO_CHAR_FOUND": "{{author}} Ang serye na ito ay wala pang mga karakter",
-    "NO_SERIES_FOUND": "{{author}} Walang mahanap na kahit anong serye na may pangalang `{{name}}`",
-    "SERIES": "SOFI: SERIES LOOKUP",
-    "ERROR": "{{author}} May naganap na error. Pakisubukang muli",
-    "CARD_COLLECTED": "Mga na-kolektang Kard: **{{collected}}/{{totalCards}}**",
-    "TOTAL_WL": "Kabuuang Wishlist: **{{wlCount}}**",
-    "CHARACTERS": "**__Mga Karakter__**",
-    "SERIES_NAME": "Serye: **{{seriesName}}**",
-    "NO_CHAR_NOT_OWNED": "{{author}} Ang serye na ito ay walang karakter na iyong nakalimutan"
+  "SERIESLOOKUP_DESCRIPTION": "Sa command na ito, maaari kang maghanap ng kahit anong serye na gusto mo. Ipapakita sa iyo ng nabuong embed ang lahat ng available na mga karakter na maaaring makuha mula sa tinukoy na serye",
+  "NO__LAST_CHAR_FOUND": "{{author}} Wala ka pang mga kard sa iyong koleksyon",
+  "NO_CHAR_FOUND": "{{author}} Ang serye na ito ay wala pang mga karakter",
+  "NO_SERIES_FOUND": "{{author}} Walang mahanap na kahit anong serye na may pangalang `{{name}}`",
+  "SERIES": "SOFI: SERIES LOOKUP",
+  "ERROR": "{{author}} May naganap na error. Pakisubukang muli",
+  "CARD_COLLECTED": "Mga na-kolektang Kard: **{{collected}}/{{totalCards}}**",
+  "TOTAL_WL": "Kabuuang Wishlist: **{{wlCount}}**",
+  "CHARACTERS": "**__Mga Karakter__**",
+  "SERIES_NAME": "Serye: **{{seriesName}}**",
+  "NO_CHAR_NOT_OWNED": "{{author}} Ang serye na ito ay walang karakter na iyong nakalimutan"
 }

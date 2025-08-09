@@ -1,6 +1,6 @@
 {
-    "PREFIX_DESCRIPTION": "Sa command na ito, maaari mong itakda ang prefix para sa iyong server. Ang napiling prefix ay kinakailangan upang maisagawa ang mga command sa Sofi",
-    "PREFIX_CATEGORY": "Konpigurasyon",
-    "PROVIDE_PREFIX": "{{author}} Tamang paggamit: `{{prefix}}prefix <NewPrefix>`",
-    "PREFIX_SET_SUCCESSFUL": "{{author}} Ang prefix para sa server na ito ay itinakda sa `{{prefix}}`"
+  "PREFIX_DESCRIPTION": "Sa command na ito, maaari mong itakda ang prefix para sa iyong server. Ang napiling prefix ay kinakailangan upang maisagawa ang mga command sa Sofi",
+  "PREFIX_CATEGORY": "Konpigurasyon",
+  "PROVIDE_PREFIX": "{{author}} Tamang paggamit: `{{prefix}}prefix <NewPrefix>`",
+  "PREFIX_SET_SUCCESSFUL": "{{author}} Ang prefix para sa server na ito ay itinakda sa `{{prefix}}`"
 }

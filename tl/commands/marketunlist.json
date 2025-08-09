@@ -1,8 +1,8 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Gamitin ang command na ito upang tanggalin ang iyong order sa merkado",
-    "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong binigay ay maaaring hindi tama o hindi sa iyo",
-    "SUCCESS_UL": "{{user}} Matagumpay na natanggal ang sumusunod na order mula sa merkado: `{{dealId}}`",
-    "NO_LISTINGS_FOUND": "{{user}} Wala kang kahit anong kasalukuyang order",
-    "SUCCESS_UL_ALL": "{{user}} Matagumpay na natanggal ang lahat ng iyong mga order sa merkado"
+  "MARKETUNLIST_DESCRIPTION": "Gamitin ang command na ito upang tanggalin ang iyong order sa merkado",
+  "CORRECT_USAGE": "{{user}} Tamang paggamit: `{{prefix}}mul <Order-ID/All>`",
+  "INVALID_DEAL_ID": "{{author}} Ang Order-ID na iyong binigay ay maaaring hindi tama o hindi sa iyo",
+  "SUCCESS_UL": "{{user}} Matagumpay na natanggal ang sumusunod na order mula sa merkado: `{{dealId}}`",
+  "NO_LISTINGS_FOUND": "{{user}} Wala kang kahit anong kasalukuyang order",
+  "SUCCESS_UL_ALL": "{{user}} Matagumpay na natanggal ang lahat ng iyong mga order sa merkado"
 }

@@ -1,8 +1,8 @@
 {
-    "COLLECTION_PVT": "{{author}} **Fragment** của người dùng đó là riêng tư",
-    "CANNOT_FIND_FRAGS": "{{user}} Người dùng đó không có **Fragment** nào",
-    "VIEWFRAGS_DESCRIPTION": "Lệnh này sẽ mở kho Fragment của người dùng",
-    "FRAGS_COUNT": "Tổng: {{totalCount}}",
-    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
-    "CANNOT_FIND_SELF": "{{user}} Bạn chưa có **Fragment** nào"
+  "COLLECTION_PVT": "{{author}} **Fragment** của người dùng đó là riêng tư",
+  "CANNOT_FIND_FRAGS": "{{user}} Người dùng đó không có **Fragment** nào",
+  "VIEWFRAGS_DESCRIPTION": "Lệnh này sẽ mở kho Fragment của người dùng",
+  "FRAGS_COUNT": "Tổng: {{totalCount}}",
+  "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
+  "CANNOT_FIND_SELF": "{{user}} Bạn chưa có **Fragment** nào"
 }

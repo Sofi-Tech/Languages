@@ -1,7 +1,7 @@
 {
-    "PROVIDE_REMINDER_NAME": "{{author}} Uso correcto: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} Serás notificado cuando tu **{{reminder}}** esté listo",
-    "TOGGLEREMINDER_DESCRIPTION": "Con este comando puedes cambiar el estado de tus recordatorios. También puedes usar el comando \"{{prefix}}cooldown\" y apretar el boton de la campana",
-    "RM_CATEGORY": "Configuración",
-    "REMINDER_DISABLED": "{{author}} Ya no recibirás una notificación cuando tu **{{reminder}}** esté listo"
+  "PROVIDE_REMINDER_NAME": "{{author}} Uso correcto: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_ENABLED": "{{author}} Serás notificado cuando tu **{{reminder}}** esté listo",
+  "TOGGLEREMINDER_DESCRIPTION": "Con este comando puedes cambiar el estado de tus recordatorios. También puedes usar el comando \"{{prefix}}cooldown\" y apretar el boton de la campana",
+  "RM_CATEGORY": "Configuración",
+  "REMINDER_DISABLED": "{{author}} Ya no recibirás una notificación cuando tu **{{reminder}}** esté listo"
 }

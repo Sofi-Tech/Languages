@@ -1,10 +1,10 @@
 {
-    "GUILDLEADERBOARD_DESCRIPTION": "Este comando exibe as pontuações e rankings entre as guildas para qualquer tipo de competição em progresso, assim como o tempo restante",
-    "GUILDLEADERBOARD_CATEGORY": "Guildas",
-    "SEASON_ENDS": "**A Temporada Termina em: {{time}}**",
-    "GRACE_ENDS": "**Fim do Período de Graça: {{time}}**",
-    "GLB_TOTAL_GUILDS": "Total de Guildas",
-    "GLB_TOTAL_RAIDS": "Raids Totais",
-    "GLB_TOTAL_REVENGE": "Total de Vingança",
-    "GLB_EMBED_FOOTER": "S{{season}}: As Temporadas de Guilda duram 24 dias."
+  "GUILDLEADERBOARD_DESCRIPTION": "Este comando exibe as pontuações e rankings entre as guildas para qualquer tipo de competição em progresso, assim como o tempo restante",
+  "GUILDLEADERBOARD_CATEGORY": "Guildas",
+  "SEASON_ENDS": "**A Temporada Termina em: {{time}}**",
+  "GRACE_ENDS": "**Fim do Período de Graça: {{time}}**",
+  "GLB_TOTAL_GUILDS": "Total de Guildas",
+  "GLB_TOTAL_RAIDS": "Raids Totais",
+  "GLB_TOTAL_REVENGE": "Total de Vingança",
+  "GLB_EMBED_FOOTER": "S{{season}}: As Temporadas de Guilda duram 24 dias."
 }

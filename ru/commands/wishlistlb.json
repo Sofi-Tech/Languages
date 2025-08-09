@@ -1,9 +1,9 @@
 {
-    "WISHLISTLB_DESCRIPTION": "Данная команда отображает окно с персонажами, которых добавило в списки желаемого наибольшее число пользователей в Sofi",
-    "CATEGORY": "Список желаемого",
-    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-    "EMBED_FOOTER": "Отображение страницы: {{page}}/{{pages}}",
-    "CHARACTER_BUTTON_LABEL": "Персонажи",
-    "SERIES_BUTTON_LABEL": "Серии",
-    "INVALID_CATEGORY": "Указана неверная категория"
+  "WISHLISTLB_DESCRIPTION": "Данная команда отображает окно с персонажами, которых добавило в списки желаемого наибольшее число пользователей в Sofi",
+  "CATEGORY": "Список желаемого",
+  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+  "EMBED_FOOTER": "Отображение страницы: {{page}}/{{pages}}",
+  "CHARACTER_BUTTON_LABEL": "Персонажи",
+  "SERIES_BUTTON_LABEL": "Серии",
+  "INVALID_CATEGORY": "Указана неверная категория"
 }

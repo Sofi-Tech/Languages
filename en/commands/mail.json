@@ -1,14 +1,14 @@
 {
-    "MAIL_DESCRIPTION": "This command will open your inbox, in which you will find various messages sent to you by Sofi, informing you about events, as well as announcing changes and new features",
-    "MAIL_CATEGORY": "Settings",
-    "NO_MAILS_FOUND": "{{author}} You don't have any mail in your inbox",
-    "MENU_PLACEHOLDER": "Select an Option",
-    "EMBED_AUTHOR": "{{username}}'s Inbox",
-    "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Claimed",
-    "CLAIMED_REWARD_ALREADY": "{{author}} You have already claimed the reward in a prior command",
-    "REWARD_CLAIM_INVENTORY": "{{author}} The attached items have been added to your inventory",
-    "CLAIM_REWARD_BUTTON_LABEL": "Claim your reward",
-    "MAIL_REWARDS": "**__Rewards__**\n",
-    "MAIL_FRAME": "**Frame**"
+  "MAIL_DESCRIPTION": "This command will open your inbox, in which you will find various messages sent to you by Sofi, informing you about events, as well as announcing changes and new features",
+  "MAIL_CATEGORY": "Settings",
+  "NO_MAILS_FOUND": "{{author}} You don't have any mail in your inbox",
+  "MENU_PLACEHOLDER": "Select an Option",
+  "EMBED_AUTHOR": "{{username}}'s Inbox",
+  "EMBED_FOOTER": "Page: {{page}}/{{pagesNum}}",
+  "REWARD_CLAIMED_BUTTON_LABEL": "Claimed",
+  "CLAIMED_REWARD_ALREADY": "{{author}} You have already claimed the reward in a prior command",
+  "REWARD_CLAIM_INVENTORY": "{{author}} The attached items have been added to your inventory",
+  "CLAIM_REWARD_BUTTON_LABEL": "Claim your reward",
+  "MAIL_REWARDS": "**__Rewards__**\n",
+  "MAIL_FRAME": "**Frame**"
 }

@@ -1,12 +1,12 @@
 {
-    "GLOWTAG_DESCRIPTION": "Com este comando você pode atribuir uma tag ao seu Glow. Para criar uma tag Glow use o comando \"{{prefix}}glowtagcreate\"",
-    "GT_CATEGORY": "Tags",
-    "GLOWTAGS_NOT_FOUND": "{{author}} Você ainda não tem uma **Glow** tag. Você pode criá-las com o comando: `{{prefix}}gtc <TagName> <Emoji>`",
-    "GLOWS_NOT_UNLOCKED": "{{author}} Você ainda não tem nenhum **Glow**",
-    "INVALID_GLOW_CODE": "{{author}} Pelo menos um dos códigos **Glow** que você forneceu é inválido ou não está em seu inventário",
-    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** foi marcado com sucesso como `{{tag}}`",
-    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Todos os **Glows** selecionados foram marcados com sucesso como `{{tag}}`",
-    "GLOW_TAG_INVALID": "{{author}} Você não tem nenhuma tag **Glow** com o nome `{{tagname}}`",
-    "INVALID_GLOW_SINGULAR": "{{author}} O código **Glow** que você forneceu é inválido ou não está em seu inventário",
-    "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}gt <TagName> <#GlowCode>`"
+  "GLOWTAG_DESCRIPTION": "Com este comando você pode atribuir uma tag ao seu Glow. Para criar uma tag Glow use o comando \"{{prefix}}glowtagcreate\"",
+  "GT_CATEGORY": "Tags",
+  "GLOWTAGS_NOT_FOUND": "{{author}} Você ainda não tem uma **Glow** tag. Você pode criá-las com o comando: `{{prefix}}gtc <TagName> <Emoji>`",
+  "GLOWS_NOT_UNLOCKED": "{{author}} Você ainda não tem nenhum **Glow**",
+  "INVALID_GLOW_CODE": "{{author}} Pelo menos um dos códigos **Glow** que você forneceu é inválido ou não está em seu inventário",
+  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** foi marcado com sucesso como `{{tag}}`",
+  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Todos os **Glows** selecionados foram marcados com sucesso como `{{tag}}`",
+  "GLOW_TAG_INVALID": "{{author}} Você não tem nenhuma tag **Glow** com o nome `{{tagname}}`",
+  "INVALID_GLOW_SINGULAR": "{{author}} O código **Glow** que você forneceu é inválido ou não está em seu inventário",
+  "CORRECT_USAGE": "{{author}} Uso correto: `{{prefix}}gt <TagName> <#GlowCode>`"
 }

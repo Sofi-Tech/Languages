@@ -1,9 +1,9 @@
 {
-    "GLOWTAGCREATE_DESCRIPTION": "Avec cette commande vous pouvez créer un tag pour catégoriser et grouper plusieurs Glows selon vos propres critères. Utilisez la commande \"{{prefix}}glowtag\" pour assigner les tags créés à vos Glows",
-    "GTC_CATEGORY": "Tags",
-    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gtc <NomDeTag> <Emoji>`",
-    "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
-    "GLOWTAG_ALREADY_EXISTS": "{{author}} Vous avez déjà un tag de **Glow** avec ce nom",
-    "CREATED_GLOWTAG": "{{author}} A créé un tag de **Glow** avec succès avec le nom `{{tag}}` | {{emoji}}",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre tag doit être alphanumérique et ne peut pas contenir de caractères spéciaux, d'espaces ou de mots injurieux"
+  "GLOWTAGCREATE_DESCRIPTION": "Avec cette commande vous pouvez créer un tag pour catégoriser et grouper plusieurs Glows selon vos propres critères. Utilisez la commande \"{{prefix}}glowtag\" pour assigner les tags créés à vos Glows",
+  "GTC_CATEGORY": "Tags",
+  "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gtc <NomDeTag> <Emoji>`",
+  "INVALID_EMOJI": "{{author}} Cet emoji est invalide",
+  "GLOWTAG_ALREADY_EXISTS": "{{author}} Vous avez déjà un tag de **Glow** avec ce nom",
+  "CREATED_GLOWTAG": "{{author}} A créé un tag de **Glow** avec succès avec le nom `{{tag}}` | {{emoji}}",
+  "INVALID_TAGNAME_FORMAT": "{{author}} Le nom de votre tag doit être alphanumérique et ne peut pas contenir de caractères spéciaux, d'espaces ou de mots injurieux"
 }

@@ -1,8 +1,8 @@
 {
-    "SETSPAWN_DESCRIPTION": "Using this command in a channel or mentioning a channel will set or remove said channel as the spawn channel. Depending on the ascending server activity, Sofi will sometimes drop cards by herself in the specified channel",
-    "SS_CATEGORY": "Settings",
-    "SS_SLASH_DESC": "Select a channel",
-    "SS_MENTION_CHANNEL": "{{author}} Correct usage: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-    "SS_DISABLE": "{{author}} Cards will no longer spawn on this server",
-    "SS_ENABLE": "{{author}} The spawn channel has been set to {{channel}}"
+  "SETSPAWN_DESCRIPTION": "Using this command in a channel or mentioning a channel will set or remove said channel as the spawn channel. Depending on the ascending server activity, Sofi will sometimes drop cards by herself in the specified channel",
+  "SS_CATEGORY": "Settings",
+  "SS_SLASH_DESC": "Select a channel",
+  "SS_MENTION_CHANNEL": "{{author}} Correct usage: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+  "SS_DISABLE": "{{author}} Cards will no longer spawn on this server",
+  "SS_ENABLE": "{{author}} The spawn channel has been set to {{channel}}"
 }

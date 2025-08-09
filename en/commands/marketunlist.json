@@ -1,8 +1,8 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Use this command to remove your order from the market",
-    "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is either invalid or not yours",
-    "SUCCESS_UL": "{{user}} Successfully removed the following order from the market: `{{dealId}}`",
-    "NO_LISTINGS_FOUND": "{{user}} You don't have any orders currently",
-    "SUCCESS_UL_ALL": "{{user}} Successfully removed all of your orders from the market"
+  "MARKETUNLIST_DESCRIPTION": "Use this command to remove your order from the market",
+  "CORRECT_USAGE": "{{user}} Correct usage: `{{prefix}}mul <Order-ID/All>`",
+  "INVALID_DEAL_ID": "{{author}} The Order-ID you provided is either invalid or not yours",
+  "SUCCESS_UL": "{{user}} Successfully removed the following order from the market: `{{dealId}}`",
+  "NO_LISTINGS_FOUND": "{{user}} You don't have any orders currently",
+  "SUCCESS_UL_ALL": "{{user}} Successfully removed all of your orders from the market"
 }

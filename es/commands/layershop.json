@@ -1,15 +1,15 @@
 {
-    "LAYERSHOP_DESCRIPTION": "Este comando abrirá un embed el cual mostrará todos los Layers que están disponibles en venta",
-    "LAYERSHOP_CATEGORY": "Cosméticos",
-    "BUY_LAYER_INFO": "Usa el comando `{{prefix}}buy layer <IDDelLayer> <Cantidad>` para comprar un **Layer**",
-    "LS_PAGE_FOOTER": "Mostrando Página: {{currentPage}}/{{totalPages}}",
-    "LAYER_NOT_FOUND": "{{author}} No se pudo encontrar el **Layer** con ID `{{layerId}}`",
-    "LS_NAME": "**Nombre:** {{name}}",
-    "LS_DESCRIPTION": "**Descripción:** {{description}}",
-    "LS_PRICE": "**Precio:** {{amount}} {{currencyEmoji}}",
-    "LS_CATEGORY": "**Categoría:** {{category}}",
-    "LS_ARTIST": "**Artista:** {{artist}}",
-    "CATEGORY_MENU_PLACEHOLDER": "Selecciona una Categoria",
-    "LS_EVENT_MENU_LABEL": "Evento",
-    "LS_BACK_MENU_LABEL": "Regresar"
+  "LAYERSHOP_DESCRIPTION": "Este comando abrirá un embed el cual mostrará todos los Layers que están disponibles en venta",
+  "LAYERSHOP_CATEGORY": "Cosméticos",
+  "BUY_LAYER_INFO": "Usa el comando `{{prefix}}buy layer <IDDelLayer> <Cantidad>` para comprar un **Layer**",
+  "LS_PAGE_FOOTER": "Mostrando Página: {{currentPage}}/{{totalPages}}",
+  "LAYER_NOT_FOUND": "{{author}} No se pudo encontrar el **Layer** con ID `{{layerId}}`",
+  "LS_NAME": "**Nombre:** {{name}}",
+  "LS_DESCRIPTION": "**Descripción:** {{description}}",
+  "LS_PRICE": "**Precio:** {{amount}} {{currencyEmoji}}",
+  "LS_CATEGORY": "**Categoría:** {{category}}",
+  "LS_ARTIST": "**Artista:** {{artist}}",
+  "CATEGORY_MENU_PLACEHOLDER": "Selecciona una Categoria",
+  "LS_EVENT_MENU_LABEL": "Evento",
+  "LS_BACK_MENU_LABEL": "Regresar"
 }

@@ -1,8 +1,8 @@
 {
-    "CODESWAP_DESCRIPTION": "With this command you can swap the codes of two specified cards",
-    "SLASH_DESC": "Enter the first code",
-    "SLASH_DESC2": "Enter the second code",
-    "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}cs <Code1> <Code2>`",
-    "INVALID_CODES_PROVIDED": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
-    "SUCCESSFUL_CODE_SWAP": "{{author}} Successfully swapped the codes of the selected cards"
+  "CODESWAP_DESCRIPTION": "With this command you can swap the codes of two specified cards",
+  "SLASH_DESC": "Enter the first code",
+  "SLASH_DESC2": "Enter the second code",
+  "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}cs <Code1> <Code2>`",
+  "INVALID_CODES_PROVIDED": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
+  "SUCCESSFUL_CODE_SWAP": "{{author}} Successfully swapped the codes of the selected cards"
 }

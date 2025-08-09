@@ -1,12 +1,12 @@
 {
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "BACKGROUND_DESCRIPTION": "Depois que uma carta for convertida em sua variante 3D, você poderá usar este comando para aplicar um Background a ela. Use o comando \"{{prefix}}backgroundshop\" para comprar Backgrounds",
-    "BG_CATEGORY": "Cosméticos",
-    "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
-    "BG_NOT_FOUND": "{{author}} Não foi possível encontrar nenhum **Background** com esse ID",
-    "EMBED_DESCRIPTION": "Tem certeza de que deseja aplicar o **{{background}}** **Background** a essa carta?",
-    "USER_NO_BG": "{{author}} Você não tem esse **Background**",
-    "EMBED_TITLE": "SOFI: BACKGROUND",
-    "NON_3D_CARDS": "{{author}} Você não pode aplicar um **Background** à cartas que não sejam 3D",
-    "BG_APPLY_SUCCESSFUL": "{{author}} Aplicou com sucesso o **{{background}}** **Background** a sua carta"
+  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}bg <CardCode> <Background-ID>`",
+  "BACKGROUND_DESCRIPTION": "Depois que uma carta for convertida em sua variante 3D, você poderá usar este comando para aplicar um Background a ela. Use o comando \"{{prefix}}backgroundshop\" para comprar Backgrounds",
+  "BG_CATEGORY": "Cosméticos",
+  "INVALID_CODE": "{{author}} O código da carta fornecido é inválido ou não está na sua coleção",
+  "BG_NOT_FOUND": "{{author}} Não foi possível encontrar nenhum **Background** com esse ID",
+  "EMBED_DESCRIPTION": "Tem certeza de que deseja aplicar o **{{background}}** **Background** a essa carta?",
+  "USER_NO_BG": "{{author}} Você não tem esse **Background**",
+  "EMBED_TITLE": "SOFI: BACKGROUND",
+  "NON_3D_CARDS": "{{author}} Você não pode aplicar um **Background** à cartas que não sejam 3D",
+  "BG_APPLY_SUCCESSFUL": "{{author}} Aplicou com sucesso o **{{background}}** **Background** a sua carta"
 }

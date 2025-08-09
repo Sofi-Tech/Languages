@@ -1,13 +1,13 @@
 {
-    "LAYERSHOP_CATEGORY": "Cosmétiques",
-    "LS_PAGE_FOOTER": "Page Actuelle: {{currentPage}}/{{totalPages}}",
-    "LAYER_NOT_FOUND": "{{author}} Impossible de trouver le **Layer** avec l'ID `{{layerId}}`",
-    "LS_NAME": "**Nom:** {{name}}",
-    "LS_DESCRIPTION": "**Description:** {{description}}",
-    "LS_PRICE": "**Prix:** {{amount}} {{currencyEmoji}}",
-    "LS_CATEGORY": "**Catégorie:** {{category}}",
-    "LS_ARTIST": "**Artiste:** {{artist}}",
-    "LAYERSHOP_DESCRIPTION": "Cette commande ouvrira un encart permettant de voir toutes les Layers qui sont disponibles à l'achat",
-    "BUY_LAYER_INFO": "Utilisez la commande `{{prefix}}buy layer <Layer-ID> <Quantité>` pour acheter un **Layer**",
-    "LS_EMBED_TITLE": "SOFI: LAYER SHOP"
+  "LAYERSHOP_CATEGORY": "Cosmétiques",
+  "LS_PAGE_FOOTER": "Page Actuelle: {{currentPage}}/{{totalPages}}",
+  "LAYER_NOT_FOUND": "{{author}} Impossible de trouver le **Layer** avec l'ID `{{layerId}}`",
+  "LS_NAME": "**Nom:** {{name}}",
+  "LS_DESCRIPTION": "**Description:** {{description}}",
+  "LS_PRICE": "**Prix:** {{amount}} {{currencyEmoji}}",
+  "LS_CATEGORY": "**Catégorie:** {{category}}",
+  "LS_ARTIST": "**Artiste:** {{artist}}",
+  "LAYERSHOP_DESCRIPTION": "Cette commande ouvrira un encart permettant de voir toutes les Layers qui sont disponibles à l'achat",
+  "BUY_LAYER_INFO": "Utilisez la commande `{{prefix}}buy layer <Layer-ID> <Quantité>` pour acheter un **Layer**",
+  "LS_EMBED_TITLE": "SOFI: LAYER SHOP"
 }

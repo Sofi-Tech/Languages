@@ -1,10 +1,10 @@
 {
-    "PRIVATE_DESCRIPTION": "Use this command to private a part of your account. A privated section will no longer be visible to other players. Using this command just by itself will instead show your current configuration for these sections",
-    "PVT_CATEGORY": "Settings",
-    "PVT_EMBED_TITLE": "SOFI: PRIVATE",
-    "PVT_PUBLIC": "Public",
-    "PVT_PRIVATE": "Private",
-    "WRONG_ARGUMENTS": "{{author}} Correct usage: `{{prefix}}pvt <C/WL/INV/VT>`",
-    "PRIVATE_ENABLED": "{{author}} Your **{{content}}** is now private",
-    "PRIVATE_DISABLED": "{{author}} Your **{{content}}** is no longer private"
+  "PRIVATE_DESCRIPTION": "Use this command to private a part of your account. A privated section will no longer be visible to other players. Using this command just by itself will instead show your current configuration for these sections",
+  "PVT_CATEGORY": "Settings",
+  "PVT_EMBED_TITLE": "SOFI: PRIVATE",
+  "PVT_PUBLIC": "Public",
+  "PVT_PRIVATE": "Private",
+  "WRONG_ARGUMENTS": "{{author}} Correct usage: `{{prefix}}pvt <C/WL/INV/VT>`",
+  "PRIVATE_ENABLED": "{{author}} Your **{{content}}** is now private",
+  "PRIVATE_DISABLED": "{{author}} Your **{{content}}** is no longer private"
 }

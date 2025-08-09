@@ -1,14 +1,14 @@
 {
-    "INVALID_AMOUNT": "{{author}} Vous ne pouvez pas offrir une quantité négative d'items",
-    "GIFT_SLASH_DESC2": "Entrez le montant de `{{eventItem}}` que vous voulez offrir",
-    "GIFT_SUCCESSFUL": "{{author}} a offert **{{amount}}** **{{eventItem}}** à {{user}}\n{{user}} a reçu un total de **{{recieveCount}}** **{{eventItem}}**",
-    "GIFT_CATEGORY": "Cartes",
-    "GIFT_SLASH_DESC": "Choisissez un utilisateur à qui vous souhaitez offrir des {{eventItem}}",
-    "GIFT_WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gift <@Utilisateur/ID> <Montant>`",
-    "INVALID_USER": "{{author}} Vous ne pouvez pas vous offrir des **{{eventItem}}** à vous-même",
-    "NOT_ENOUGH_ITEM": "{{author}} Vous ne possédez pas **{{amount}}** **{{eventItem}}**",
-    "PLAYER_NOT_EXISTS": "{{author}} Ce joueur n'est pas inscrit",
-    "EMBED_TITLE": "SOFI: GIFT",
-    "GIFT_DESCRIPTION": "Offre des \"Items d'Event\" à un autre utilisateur",
-    "NO_ACTIVE_EVENT": "{{author}} Il n'y a actuellement aucun event actif"
+  "INVALID_AMOUNT": "{{author}} Vous ne pouvez pas offrir une quantité négative d'items",
+  "GIFT_SLASH_DESC2": "Entrez le montant de `{{eventItem}}` que vous voulez offrir",
+  "GIFT_SUCCESSFUL": "{{author}} a offert **{{amount}}** **{{eventItem}}** à {{user}}\n{{user}} a reçu un total de **{{recieveCount}}** **{{eventItem}}**",
+  "GIFT_CATEGORY": "Cartes",
+  "GIFT_SLASH_DESC": "Choisissez un utilisateur à qui vous souhaitez offrir des {{eventItem}}",
+  "GIFT_WRONG_USAGE": "{{author}} Utilisation correcte: `{{prefix}}gift <@Utilisateur/ID> <Montant>`",
+  "INVALID_USER": "{{author}} Vous ne pouvez pas vous offrir des **{{eventItem}}** à vous-même",
+  "NOT_ENOUGH_ITEM": "{{author}} Vous ne possédez pas **{{amount}}** **{{eventItem}}**",
+  "PLAYER_NOT_EXISTS": "{{author}} Ce joueur n'est pas inscrit",
+  "EMBED_TITLE": "SOFI: GIFT",
+  "GIFT_DESCRIPTION": "Offre des \"Items d'Event\" à un autre utilisateur",
+  "NO_ACTIVE_EVENT": "{{author}} Il n'y a actuellement aucun event actif"
 }

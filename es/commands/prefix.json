@@ -1,6 +1,6 @@
 {
-    "PREFIX_DESCRIPTION": "Con este comando puedes establecer el prefijo para tu servidor. El prefijo seleccionado será requerido para ejecutar comandos en Sofi",
-    "PREFIX_CATEGORY": "Configuración",
-    "PROVIDE_PREFIX": "{{author}} Uso correcto: `{{prefix}}prefix <NuevoPrefijo>`",
-    "PREFIX_SET_SUCCESSFUL": "{{author}} El prefijo para este servidor se ha cambiado por `{{prefix}}`"
+  "PREFIX_DESCRIPTION": "Con este comando puedes establecer el prefijo para tu servidor. El prefijo seleccionado será requerido para ejecutar comandos en Sofi",
+  "PREFIX_CATEGORY": "Configuración",
+  "PROVIDE_PREFIX": "{{author}} Uso correcto: `{{prefix}}prefix <NuevoPrefijo>`",
+  "PREFIX_SET_SUCCESSFUL": "{{author}} El prefijo para este servidor se ha cambiado por `{{prefix}}`"
 }

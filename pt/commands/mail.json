@@ -1,14 +1,14 @@
 {
-    "MAIL_CATEGORY": "Configurações",
-    "MENU_PLACEHOLDER": "Selecione uma Opção",
-    "EMBED_AUTHOR": "Caixa de Entrada de {{username}}",
-    "EMBED_FOOTER": "Página: {{page}}/{{pagesNum}}",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Reinvidicado",
-    "CLAIM_REWARD_BUTTON_LABEL": "Reinvidique seu prêmio",
-    "MAIL_FRAME": "**Frame**",
-    "MAIL_REWARDS": "**__Recompensas__**\n",
-    "REWARD_CLAIM_INVENTORY": "{{author}} Os itens anexados foram adicionados no seu inventário",
-    "NO_MAILS_FOUND": "{{author}} Você não possui mensagens na sua caixa de entrada",
-    "MAIL_DESCRIPTION": "Esse comando abrirá sua caixa de entrada, onde você encontrará várias mensagens enviadas para você pela Sofi, informando você sobre eventos, assim como anúncios de mudanças e novas funções",
-    "CLAIMED_REWARD_ALREADY": "{{author}} Você já reinvidicou a recompensa em um comando anterior"
+  "MAIL_CATEGORY": "Configurações",
+  "MENU_PLACEHOLDER": "Selecione uma Opção",
+  "EMBED_AUTHOR": "Caixa de Entrada de {{username}}",
+  "EMBED_FOOTER": "Página: {{page}}/{{pagesNum}}",
+  "REWARD_CLAIMED_BUTTON_LABEL": "Reinvidicado",
+  "CLAIM_REWARD_BUTTON_LABEL": "Reinvidique seu prêmio",
+  "MAIL_FRAME": "**Frame**",
+  "MAIL_REWARDS": "**__Recompensas__**\n",
+  "REWARD_CLAIM_INVENTORY": "{{author}} Os itens anexados foram adicionados no seu inventário",
+  "NO_MAILS_FOUND": "{{author}} Você não possui mensagens na sua caixa de entrada",
+  "MAIL_DESCRIPTION": "Esse comando abrirá sua caixa de entrada, onde você encontrará várias mensagens enviadas para você pela Sofi, informando você sobre eventos, assim como anúncios de mudanças e novas funções",
+  "CLAIMED_REWARD_ALREADY": "{{author}} Você já reinvidicou a recompensa em um comando anterior"
 }

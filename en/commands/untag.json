@@ -1,9 +1,9 @@
 {
-    "UNTAG_DESCRIPTION": "Use this command to remove a tag from your card or Version Token. If you want to delete an entire tag you can use the \"{{prefix}}tagdelete\" command instead",
-    "UT_CATEGORY": "Tags",
-    "UT_EMPTY_COLLECTION": "{{author}} You do not have any cards in your collection yet",
-    "INVALID_CODE": "{{author}} That code is either invalid or not in your collection",
-    "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the tag from **{{cardName}}**",
-    "MULTIPLE_UNTAG": "{{author}} Successfully removed the tag from **{{count}}** codes",
-    "INVALID_CODE_MULTIPLE": "{{author}} The following codes are either invalid or not in your collection:\n{{invalidCodeList}}"
+  "UNTAG_DESCRIPTION": "Use this command to remove a tag from your card or Version Token. If you want to delete an entire tag you can use the \"{{prefix}}tagdelete\" command instead",
+  "UT_CATEGORY": "Tags",
+  "UT_EMPTY_COLLECTION": "{{author}} You do not have any cards in your collection yet",
+  "INVALID_CODE": "{{author}} That code is either invalid or not in your collection",
+  "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the tag from **{{cardName}}**",
+  "MULTIPLE_UNTAG": "{{author}} Successfully removed the tag from **{{count}}** codes",
+  "INVALID_CODE_MULTIPLE": "{{author}} The following codes are either invalid or not in your collection:\n{{invalidCodeList}}"
 }

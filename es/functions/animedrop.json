@@ -1,6 +1,6 @@
 {
-    "DROP_CARDS": "Cuando el temporizador se agote, se generarán **2** cartas aleatorias de la serie más votada!\n",
-    "NO_VOTES": "Como no se votó ninguna serie, se cancelará la generación de cartas!",
-    "DROP_WILL_HAPPEN": "\nGenerando cartas <t:{{timestamp}}:R>",
-    "NOT_ENOUGH_CHARACTERS": "La serie seleccionada no tiene suficientes personajes para generar cartas"
+  "DROP_CARDS": "Cuando el temporizador se agote, se generarán **2** cartas aleatorias de la serie más votada!\n",
+  "NO_VOTES": "Como no se votó ninguna serie, se cancelará la generación de cartas!",
+  "DROP_WILL_HAPPEN": "\nGenerando cartas <t:{{timestamp}}:R>",
+  "NOT_ENOUGH_CHARACTERS": "La serie seleccionada no tiene suficientes personajes para generar cartas"
 }

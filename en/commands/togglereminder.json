@@ -1,7 +1,7 @@
 {
-    "TOGGLEREMINDER_DESCRIPTION": "With this command you can toggle the state of your reminders. You can also use the \"{{prefix}}cooldown\" command and click on the bell icon alternatively",
-    "RM_CATEGORY": "Settings",
-    "PROVIDE_REMINDER_NAME": "{{author}} Correct usage: `{{prefix}}tr <Vote/Daily/Bump>`",
-    "REMINDER_ENABLED": "{{author}} You will now be notified when your **{{reminder}}** is ready",
-    "REMINDER_DISABLED": "{{author}} You will no longer be notified when your **{{reminder}}** is ready"
+  "TOGGLEREMINDER_DESCRIPTION": "With this command you can toggle the state of your reminders. You can also use the \"{{prefix}}cooldown\" command and click on the bell icon alternatively",
+  "RM_CATEGORY": "Settings",
+  "PROVIDE_REMINDER_NAME": "{{author}} Correct usage: `{{prefix}}tr <Vote/Daily/Bump>`",
+  "REMINDER_ENABLED": "{{author}} You will now be notified when your **{{reminder}}** is ready",
+  "REMINDER_DISABLED": "{{author}} You will no longer be notified when your **{{reminder}}** is ready"
 }

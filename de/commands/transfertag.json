@@ -1,7 +1,7 @@
 {
-    "TRANSFERTAG_DESCRIPTION": "Du kannst diesen Befehl nutzen, um alle Karten eines Tags an einen anderen Tag zu übertragen",
-    "TRTAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}trt <AlterTag> <NeuerTag>`",
-    "TAG_NOT_FOUND": "{{author}} Du hast keinen Tag mit dem Namen `{{tag}}`",
-    "TRANSFER_TAG_SUCCESSFUL": "{{author}} Alle Karten wurden erfolgreich vom Tag `{{fromTag}}` zu `{{toTag}}` übertragen"
+  "TRANSFERTAG_DESCRIPTION": "Du kannst diesen Befehl nutzen, um alle Karten eines Tags an einen anderen Tag zu übertragen",
+  "TRTAG_CATEGORY": "Tags",
+  "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}trt <AlterTag> <NeuerTag>`",
+  "TAG_NOT_FOUND": "{{author}} Du hast keinen Tag mit dem Namen `{{tag}}`",
+  "TRANSFER_TAG_SUCCESSFUL": "{{author}} Alle Karten wurden erfolgreich vom Tag `{{fromTag}}` zu `{{toTag}}` übertragen"
 }

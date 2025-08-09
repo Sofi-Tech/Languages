@@ -1,15 +1,15 @@
 {
-    "LAYERSHOP_CATEGORY": "Đồ trang trí",
-    "LS_PAGE_FOOTER": "Trang: {{currentPage}}/{{totalPages}}",
-    "LS_NAME": "**Tên:** {{name}}",
-    "LS_DESCRIPTION": "**Mô Tả:** {{description}}",
-    "LS_PRICE": "**Giá:** {{amount}} {{currencyEmoji}}",
-    "LS_CATEGORY": "**Mục:** {{category}}",
-    "LS_ARTIST": "**Tác Giả:** {{artist}}",
-    "LAYER_NOT_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
-    "LAYERSHOP_DESCRIPTION": "Lệnh này sẽ mở một bảng hiển thị tất cả Layer đang được bán",
-    "BUY_LAYER_INFO": "Sử dụng lệnh `{{prefix}}buy layer <Layer-ID> <Amount>` để mua **Layer**",
-    "LS_EVENT_MENU_LABEL": "Sự Kiện",
-    "LS_BACK_MENU_LABEL": "Quay lại",
-    "CATEGORY_MENU_PLACEHOLDER": "Chọn một mục"
+  "LAYERSHOP_CATEGORY": "Đồ trang trí",
+  "LS_PAGE_FOOTER": "Trang: {{currentPage}}/{{totalPages}}",
+  "LS_NAME": "**Tên:** {{name}}",
+  "LS_DESCRIPTION": "**Mô Tả:** {{description}}",
+  "LS_PRICE": "**Giá:** {{amount}} {{currencyEmoji}}",
+  "LS_CATEGORY": "**Mục:** {{category}}",
+  "LS_ARTIST": "**Tác Giả:** {{artist}}",
+  "LAYER_NOT_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
+  "LAYERSHOP_DESCRIPTION": "Lệnh này sẽ mở một bảng hiển thị tất cả Layer đang được bán",
+  "BUY_LAYER_INFO": "Sử dụng lệnh `{{prefix}}buy layer <Layer-ID> <Amount>` để mua **Layer**",
+  "LS_EVENT_MENU_LABEL": "Sự Kiện",
+  "LS_BACK_MENU_LABEL": "Quay lại",
+  "CATEGORY_MENU_PLACEHOLDER": "Chọn một mục"
 }

@@ -1,14 +1,14 @@
 {
-    "NO_MAILS_FOUND": "{{author}} Du hast noch keine Nachricht in deinem Posteingang",
-    "MAIL_DESCRIPTION": "Dieser Befehl öffnet deinen Posteingang, in welchem du verschiedene Nachrichten von Sofi finden kannst, die Informationen über Events, Änderungen und neue Features beinhalten",
-    "MAIL_CATEGORY": "Einstellungen",
-    "MENU_PLACEHOLDER": "Wähle eine Option",
-    "EMBED_AUTHOR": "{{username}}'s Posteingang",
-    "EMBED_FOOTER": "Seite: {{page}}/{{pagesNum}}",
-    "REWARD_CLAIMED_BUTTON_LABEL": "Beansprucht",
-    "CLAIMED_REWARD_ALREADY": "{{author}} Du hast diese Belohnung bereits mit einem früheren Befehl abgeholt",
-    "REWARD_CLAIM_INVENTORY": "{{author}} Die Items im Anhang wurden deinem Inventar hinzugefügt",
-    "CLAIM_REWARD_BUTTON_LABEL": "Hole deine Belohnungen ab",
-    "MAIL_REWARDS": "**__Belohnungen__**\n",
-    "MAIL_FRAME": "**Frame**"
+  "NO_MAILS_FOUND": "{{author}} Du hast noch keine Nachricht in deinem Posteingang",
+  "MAIL_DESCRIPTION": "Dieser Befehl öffnet deinen Posteingang, in welchem du verschiedene Nachrichten von Sofi finden kannst, die Informationen über Events, Änderungen und neue Features beinhalten",
+  "MAIL_CATEGORY": "Einstellungen",
+  "MENU_PLACEHOLDER": "Wähle eine Option",
+  "EMBED_AUTHOR": "{{username}}'s Posteingang",
+  "EMBED_FOOTER": "Seite: {{page}}/{{pagesNum}}",
+  "REWARD_CLAIMED_BUTTON_LABEL": "Beansprucht",
+  "CLAIMED_REWARD_ALREADY": "{{author}} Du hast diese Belohnung bereits mit einem früheren Befehl abgeholt",
+  "REWARD_CLAIM_INVENTORY": "{{author}} Die Items im Anhang wurden deinem Inventar hinzugefügt",
+  "CLAIM_REWARD_BUTTON_LABEL": "Hole deine Belohnungen ab",
+  "MAIL_REWARDS": "**__Belohnungen__**\n",
+  "MAIL_FRAME": "**Frame**"
 }

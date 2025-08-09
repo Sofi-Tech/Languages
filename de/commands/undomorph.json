@@ -1,15 +1,15 @@
 {
-    "UNDOMORPH_DESCRIPTION": "Entfernt den \"Morph\" einer Karte",
-    "UM_CATEGORY": "Kosmetika",
-    "UM_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}um <KartenCode>`",
-    "INVALID_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
-    "NO_CHARACTER": "{{author}} Der Charakter auf dieser Karte ist in Sofi nicht mehr verfügbar und es kann nicht mit ihm interagiert werden",
-    "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer **GIF**-Karte entfernen",
-    "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen Morph",
-    "EMBED_TITLE": "SOFI: REMOVE MORPH",
-    "UM_CONFIRMATION": "Bist du sicher, dass du den Morph dieser Karte für **{{count}}** {{currencyEmoji}} entfernen möchtest?",
-    "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
-    "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schief gelaufen, bitte versuche es erneut",
-    "NOT_ENOUGH_SILVERS": "Du hast nicht genügend **{{currency}}** für diesen Vorgang",
-    "UM_SUCCESSFUL": "{{author}} Der Morph dieser Karte wurde erfolgreich entfernt"
+  "UNDOMORPH_DESCRIPTION": "Entfernt den \"Morph\" einer Karte",
+  "UM_CATEGORY": "Kosmetika",
+  "UM_INVALID_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}um <KartenCode>`",
+  "INVALID_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+  "NO_CHARACTER": "{{author}} Der Charakter auf dieser Karte ist in Sofi nicht mehr verfügbar und es kann nicht mit ihm interagiert werden",
+  "NO_GIF": "{{author}} Du kannst keine Kosmetika von einer **GIF**-Karte entfernen",
+  "NOT_MORPHED": "{{author}} Diese Karte besitzt keinen Morph",
+  "EMBED_TITLE": "SOFI: REMOVE MORPH",
+  "UM_CONFIRMATION": "Bist du sicher, dass du den Morph dieser Karte für **{{count}}** {{currencyEmoji}} entfernen möchtest?",
+  "NO_OWNER": "{{author}} Diese Karte befindet sich nicht mehr in deiner Sammlung",
+  "SOMETHING_WENT_WRONG": "{{author}} Etwas ist schief gelaufen, bitte versuche es erneut",
+  "NOT_ENOUGH_SILVERS": "Du hast nicht genügend **{{currency}}** für diesen Vorgang",
+  "UM_SUCCESSFUL": "{{author}} Der Morph dieser Karte wurde erfolgreich entfernt"
 }

@@ -1,8 +1,8 @@
 {
-    "SETSPAWN_DESCRIPTION": "Die Nutzung dieses Befehls in einem Kanal, oder das Erwähnen eines Kanals, wird diesen als Spawn-Kanal einstellen oder entfernen. Abhängig von der steigenden Serveraktivität wird Sofi manchmal selber Karten in dem eingestellten Kanal droppen",
-    "SS_SLASH_DESC": "Wähle einen Kanal aus",
-    "SS_CATEGORY": "Einstellungen",
-    "SS_MENTION_CHANNEL": "{{author}} Korrekte Verwendung: `{{prefix}}ss <#Kanal/KanalID>`",
-    "SS_ENABLE": "{{author}} Der Spawn-Kanal ist nun {{channel}}",
-    "SS_DISABLE": "{{author}} Karten werden nicht länger auf diesem Server spawnen"
+  "SETSPAWN_DESCRIPTION": "Die Nutzung dieses Befehls in einem Kanal, oder das Erwähnen eines Kanals, wird diesen als Spawn-Kanal einstellen oder entfernen. Abhängig von der steigenden Serveraktivität wird Sofi manchmal selber Karten in dem eingestellten Kanal droppen",
+  "SS_SLASH_DESC": "Wähle einen Kanal aus",
+  "SS_CATEGORY": "Einstellungen",
+  "SS_MENTION_CHANNEL": "{{author}} Korrekte Verwendung: `{{prefix}}ss <#Kanal/KanalID>`",
+  "SS_ENABLE": "{{author}} Der Spawn-Kanal ist nun {{channel}}",
+  "SS_DISABLE": "{{author}} Karten werden nicht länger auf diesem Server spawnen"
 }

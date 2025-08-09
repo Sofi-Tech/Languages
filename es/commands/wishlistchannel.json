@@ -1,6 +1,6 @@
 {
-    "WISHLISTCHANNEL_DESCRIPTION": "Usa este comando para fijar tu lista de deseados en un canal. Cuando una carta de tu lista de deseados aparezca en ese canal, Sofi te notificará",
-    "CATEGORY": "Lista de deseados",
-    "CHANNEL_SET": "{{author}} Tu lista de deseados ha sido establecida en {{channel}}",
-    "CHANNEL_REMOVE": "{{author}} Tu lista de deseados ha sido eliminada de {{channel}}"
+  "WISHLISTCHANNEL_DESCRIPTION": "Usa este comando para fijar tu lista de deseados en un canal. Cuando una carta de tu lista de deseados aparezca en ese canal, Sofi te notificará",
+  "CATEGORY": "Lista de deseados",
+  "CHANNEL_SET": "{{author}} Tu lista de deseados ha sido establecida en {{channel}}",
+  "CHANNEL_REMOVE": "{{author}} Tu lista de deseados ha sido eliminada de {{channel}}"
 }

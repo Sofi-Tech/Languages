@@ -1,13 +1,13 @@
 {
-    "DAILY_DESCRIPTION": "Puedes usar este comando cada 24 horas para reclamar tus premios diarios. Cuanto mayor sea tu racha de Daily, mayores serán tus recompensas. Cada 3/7 días de racha también conseguirás un cofre que contiene objetos adicionales",
-    "CATEGORY": "Cartas",
-    "EMBED_AUTHOR": "SOFI: RECOMPENSA DE DAILY ({{author}})",
-    "DAILY_ERROR": "Puedes reclamar tu próximo **Daily** en **{{timeout}}**",
-    "COMMON_CHEST": "<:commonchest:927502629997805608> Reclama tu **Daily** **{{count}}** veces más para recibir un **Common Chest**",
-    "RARE_CHEST": "<:rarechest:927204672270372874> Reclama tu **Daily** **{{count}}** veces más para recibir un **Rare Chest**\n",
-    "NOTE": "⚠️ Discord, así como el personal de Sofi, NUNCA te pedirá tu contraseña ni te aconsejará que cambies tu correo electrónico a una dirección específica. ¡Ten cuidado con los BOTs de Discord de terceros que a menudo se utilizan para intentos de phishing similares!\n\nCualquier actividad sospechosa debe ser reportada inmediatamente en {{link}}! ⚠️",
-    "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
-    "DAILY_SUCCESS": "Reclamadas con éxito tus recompensas de **Daily**!",
-    "GUILD_BONUS": "**(1.5x Bono de Servidor!)**",
-    "STREAK_BONUS": "+ {{bonus}} Bonificación por Racha"
+  "DAILY_DESCRIPTION": "Puedes usar este comando cada 24 horas para reclamar tus premios diarios. Cuanto mayor sea tu racha de Daily, mayores serán tus recompensas. Cada 3/7 días de racha también conseguirás un cofre que contiene objetos adicionales",
+  "CATEGORY": "Cartas",
+  "EMBED_AUTHOR": "SOFI: RECOMPENSA DE DAILY ({{author}})",
+  "DAILY_ERROR": "Puedes reclamar tu próximo **Daily** en **{{timeout}}**",
+  "COMMON_CHEST": "<:commonchest:927502629997805608> Reclama tu **Daily** **{{count}}** veces más para recibir un **Common Chest**",
+  "RARE_CHEST": "<:rarechest:927204672270372874> Reclama tu **Daily** **{{count}}** veces más para recibir un **Rare Chest**\n",
+  "NOTE": "⚠️ Discord, así como el personal de Sofi, NUNCA te pedirá tu contraseña ni te aconsejará que cambies tu correo electrónico a una dirección específica. ¡Ten cuidado con los BOTs de Discord de terceros que a menudo se utilizan para intentos de phishing similares!\n\nCualquier actividad sospechosa debe ser reportada inmediatamente en {{link}}! ⚠️",
+  "EMBED_FOOTER": "Racha [ {{streak}} ] • {{streakBar}}",
+  "DAILY_SUCCESS": "Reclamadas con éxito tus recompensas de **Daily**!",
+  "GUILD_BONUS": "**(1.5x Bono de Servidor!)**",
+  "STREAK_BONUS": "+ {{bonus}} Bonificación por Racha"
 }

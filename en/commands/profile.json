@@ -1,7 +1,7 @@
 {
-    "PROFILE_DESCRIPTION": "This command displays the profile of a user. You can customize your profile by using the \"{{prefix}}profileconfig\" command",
-    "PRO_CATEGORY": "Settings",
-    "USER_NOT_FOUND": "{{author}} Could not find that user",
-    "PROFILE_NOT_FOUND": "{{author}} That user is not registered",
-    "GIF_ENABLED": "{{author}} Your profile has GIF feature enabled. To load your GIF profile use the `{{prefix}}pc` command and click on the `Reload GIF profile` button in the dropdown menu"
+  "PROFILE_DESCRIPTION": "This command displays the profile of a user. You can customize your profile by using the \"{{prefix}}profileconfig\" command",
+  "PRO_CATEGORY": "Settings",
+  "USER_NOT_FOUND": "{{author}} Could not find that user",
+  "PROFILE_NOT_FOUND": "{{author}} That user is not registered",
+  "GIF_ENABLED": "{{author}} Your profile has GIF feature enabled. To load your GIF profile use the `{{prefix}}pc` command and click on the `Reload GIF profile` button in the dropdown menu"
 }

@@ -1,8 +1,8 @@
 {
-    "MARKETUNLIST_DESCRIPTION": "Use esse comando para remover seu pedido do mercado",
-    "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}mul <Order-ID/All>`",
-    "INVALID_DEAL_ID": "{{author}} O ID do pedido que você forneceu é inválido ou não é seu",
-    "SUCCESS_UL": "{{user}} Removido com sucesso o seguinte pedido do mercado: `{{dealId}}`",
-    "NO_LISTINGS_FOUND": "{{user}} Você não tem nenhum pedido no momento",
-    "SUCCESS_UL_ALL": "{{user}} Removeu com sucesso todos os seus pedidos do mercado"
+  "MARKETUNLIST_DESCRIPTION": "Use esse comando para remover seu pedido do mercado",
+  "CORRECT_USAGE": "{{user}} Uso correto: `{{prefix}}mul <Order-ID/All>`",
+  "INVALID_DEAL_ID": "{{author}} O ID do pedido que você forneceu é inválido ou não é seu",
+  "SUCCESS_UL": "{{user}} Removido com sucesso o seguinte pedido do mercado: `{{dealId}}`",
+  "NO_LISTINGS_FOUND": "{{user}} Você não tem nenhum pedido no momento",
+  "SUCCESS_UL_ALL": "{{user}} Removeu com sucesso todos os seus pedidos do mercado"
 }

@@ -1,6 +1,6 @@
 {
-    "BOOST_DESCRIPTION": "This command will open an embed, ranking users that have boosted the Sofi Cafe Server",
-    "BOOST_CATEGORY": "Settings",
-    "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Total Boosters",
-    "EMBED_FOOTER": "Discord Boosters and Donators are eligible to request new characters or 3D variants of existing characters.\nAdditional benefits include a Server Role and access to social commands!"
+  "BOOST_DESCRIPTION": "This command will open an embed, ranking users that have boosted the Sofi Cafe Server",
+  "BOOST_CATEGORY": "Settings",
+  "EMBED_TITLE": "SOFI: BOOST | [{{lbInfo}}] Total Boosters",
+  "EMBED_FOOTER": "Discord Boosters and Donators are eligible to request new characters or 3D variants of existing characters.\nAdditional benefits include a Server Role and access to social commands!"
 }

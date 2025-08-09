@@ -1,8 +1,8 @@
 {
-    "SETSPAWN_DESCRIPTION": "Sử dụng lệnh này trong một kênh hoặc nhắc đến kênh nào đó sẽ thiết lập hoặc gỡ bỏ kênh đó là kênh spawn. Dựa vào hoạt động của máy chủ, Sofi sẽ tự thả thẻ trong kênh đã được thiết lập trước đó",
-    "SS_CATEGORY": "Cài đặt",
-    "SS_SLASH_DESC": "Chọn một kênh",
-    "SS_MENTION_CHANNEL": "{{author}} Cách sử dụng đúng: `{{prefix}}ss <#ChannelMention/ChannelID>`",
-    "SS_DISABLE": "{{author}} Thẻ sẽ không được spawn trong máy chủ này nữa",
-    "SS_ENABLE": "{{author}} Kênh spawn thẻ được thiết lập thành kênh {{channel}}"
+  "SETSPAWN_DESCRIPTION": "Sử dụng lệnh này trong một kênh hoặc nhắc đến kênh nào đó sẽ thiết lập hoặc gỡ bỏ kênh đó là kênh spawn. Dựa vào hoạt động của máy chủ, Sofi sẽ tự thả thẻ trong kênh đã được thiết lập trước đó",
+  "SS_CATEGORY": "Cài đặt",
+  "SS_SLASH_DESC": "Chọn một kênh",
+  "SS_MENTION_CHANNEL": "{{author}} Cách sử dụng đúng: `{{prefix}}ss <#ChannelMention/ChannelID>`",
+  "SS_DISABLE": "{{author}} Thẻ sẽ không được spawn trong máy chủ này nữa",
+  "SS_ENABLE": "{{author}} Kênh spawn thẻ được thiết lập thành kênh {{channel}}"
 }

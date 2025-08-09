@@ -1,14 +1,14 @@
 {
-    "GLOW_NOT_FOUND": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
-    "RECHARGE_CONFIRMATION": "Bạn có chắc muốn nạp lại **Glow** này không?\n\nTên: **{{name}}**\nMã: `{{glowCode}}`\nGiá: **{{cost}}** <:recharge_sofi:926846363537387530>",
-    "NO_GLOWCDE": "{{author}} Cách sử dụng đúng: `{{prefix}}rg <#GlowCode>`",
-    "RECHARGE_DESCRIPTION": "Sử dụng lệnh này để sạc lại một Glow rỗng. Quá trình này yêu cầu một Recharge, bạn có thể mua nó từ cửa hàng",
-    "RG_CATEGORY": "Đồ trang trí",
-    "UNLOCK_GLOWS": "{{author}} Bạn chưa có **Glow** nào",
-    "INVALID_DC_MOVIES": "{{author}} Mã **Glow** luôn bắt đầu bằng `#`",
-    "GLOW_AVAILABLE": "{{author}} Glow đó đã được nạp đầy rồi",
-    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
-    "NO_MONEY": "{{author}} Bạn không có đủ **Recharge** cho quá trình này!",
-    "SUCCESSFUL_RECHARGE": "{{author}} Đã nạp lại **{{glowName}}** **Glow** của bạn",
-    "SUPER_RECHARGE_CONFIRMATION": "Bạn có chắc muốn nạp lại **Glow** này không?\n\nTên: **{{name}} (Super)**\nMã: `{{glowCode}}`\nGiá: **{{cost}}** <:recharge_sofi:926846363537387530>"
+  "GLOW_NOT_FOUND": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
+  "RECHARGE_CONFIRMATION": "Bạn có chắc muốn nạp lại **Glow** này không?\n\nTên: **{{name}}**\nMã: `{{glowCode}}`\nGiá: **{{cost}}** <:recharge_sofi:926846363537387530>",
+  "NO_GLOWCDE": "{{author}} Cách sử dụng đúng: `{{prefix}}rg <#GlowCode>`",
+  "RECHARGE_DESCRIPTION": "Sử dụng lệnh này để sạc lại một Glow rỗng. Quá trình này yêu cầu một Recharge, bạn có thể mua nó từ cửa hàng",
+  "RG_CATEGORY": "Đồ trang trí",
+  "UNLOCK_GLOWS": "{{author}} Bạn chưa có **Glow** nào",
+  "INVALID_DC_MOVIES": "{{author}} Mã **Glow** luôn bắt đầu bằng `#`",
+  "GLOW_AVAILABLE": "{{author}} Glow đó đã được nạp đầy rồi",
+  "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+  "NO_MONEY": "{{author}} Bạn không có đủ **Recharge** cho quá trình này!",
+  "SUCCESSFUL_RECHARGE": "{{author}} Đã nạp lại **{{glowName}}** **Glow** của bạn",
+  "SUPER_RECHARGE_CONFIRMATION": "Bạn có chắc muốn nạp lại **Glow** này không?\n\nTên: **{{name}} (Super)**\nMã: `{{glowCode}}`\nGiá: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }

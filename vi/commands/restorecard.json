@@ -1,14 +1,14 @@
 {
-    "RESTORECARD_DESCRIPTION": "Sử dụng lệnh này để khôi phục thẻ đã đốt trong vòng 3 ngày kể từ khi đốt",
-    "CARD_NOT_FOUND": "{{author}} Không tìm thấy thẻ có mã `{{code}}` trong các thẻ đã đốt",
-    "CARD_NOT_BURNED": "{{author}} Thẻ có mã `{{code}}` chưa bị đốt",
-    "CARD_EXPIRED": "{{author}} Thẻ có mã `{{code}}` đã quá hạn và không thể được khôi phục nữa",
-    "RESTORE_SUCCESSFUL": "{{author}} Thẻ có mã `{{code}}` đã được khôi phục",
-    "RESTORECARD_CATEGORY": "Thẻ",
-    "ENTER_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}restore <CardCode>`",
-    "EMBED_TITLE": "SOFI: RESTORE CARD",
-    "RESTORE_CONFIRMATION": "Bạn có chắc muốn khôi phục thẻ `{{code}}` với giá **{{amount}}** **{{currency}}** không?",
-    "EMBED_FOOTER": "Bạn có thể khôi phục thẻ này cho đến ngày {{date}}",
-    "MISSING_CURRENCY": "{{author}} Bạn cần {{amount}} **{{currency}}** để khôi phục một thẻ",
-    "RESTORE_FAILED": "{{author}} Quá trình đã bị hủy bỏ"
+  "RESTORECARD_DESCRIPTION": "Sử dụng lệnh này để khôi phục thẻ đã đốt trong vòng 3 ngày kể từ khi đốt",
+  "CARD_NOT_FOUND": "{{author}} Không tìm thấy thẻ có mã `{{code}}` trong các thẻ đã đốt",
+  "CARD_NOT_BURNED": "{{author}} Thẻ có mã `{{code}}` chưa bị đốt",
+  "CARD_EXPIRED": "{{author}} Thẻ có mã `{{code}}` đã quá hạn và không thể được khôi phục nữa",
+  "RESTORE_SUCCESSFUL": "{{author}} Thẻ có mã `{{code}}` đã được khôi phục",
+  "RESTORECARD_CATEGORY": "Thẻ",
+  "ENTER_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}restore <CardCode>`",
+  "EMBED_TITLE": "SOFI: RESTORE CARD",
+  "RESTORE_CONFIRMATION": "Bạn có chắc muốn khôi phục thẻ `{{code}}` với giá **{{amount}}** **{{currency}}** không?",
+  "EMBED_FOOTER": "Bạn có thể khôi phục thẻ này cho đến ngày {{date}}",
+  "MISSING_CURRENCY": "{{author}} Bạn cần {{amount}} **{{currency}}** để khôi phục một thẻ",
+  "RESTORE_FAILED": "{{author}} Quá trình đã bị hủy bỏ"
 }

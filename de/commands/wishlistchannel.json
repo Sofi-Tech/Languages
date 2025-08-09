@@ -1,6 +1,6 @@
 {
-    "WISHLISTCHANNEL_DESCRIPTION": "Nutze diesen Befehl, um deine Wunschliste an einen bestimmten Kanal anzuheften. Immer wenn eine Karte deiner Wunschliste in diesem Kanal erscheint, wird Sofi dich benachrichtigen",
-    "CATEGORY": "Wunschliste",
-    "CHANNEL_SET": "{{author}} Deine Wunschliste wurde für {{channel}} festgelegt",
-    "CHANNEL_REMOVE": "{{author}} Deine Wunschliste ist nicht länger für {{channel}} festgelegt"
+  "WISHLISTCHANNEL_DESCRIPTION": "Nutze diesen Befehl, um deine Wunschliste an einen bestimmten Kanal anzuheften. Immer wenn eine Karte deiner Wunschliste in diesem Kanal erscheint, wird Sofi dich benachrichtigen",
+  "CATEGORY": "Wunschliste",
+  "CHANNEL_SET": "{{author}} Deine Wunschliste wurde für {{channel}} festgelegt",
+  "CHANNEL_REMOVE": "{{author}} Deine Wunschliste ist nicht länger für {{channel}} festgelegt"
 }

@@ -1,8 +1,8 @@
 {
-    "VIEWFRAGS_DESCRIPTION": "This command will open the Fragment inventory of a user",
-    "COLLECTION_PVT": "{{author}} That user's **Fragments** are private",
-    "CANNOT_FIND_FRAGS": "{{user}} That user does not have any **Fragments**",
-    "FRAGS_COUNT": "Total: {{totalCount}}",
-    "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
-    "CANNOT_FIND_SELF": "{{user}} You don't have any **Fragments** yet"
+  "VIEWFRAGS_DESCRIPTION": "This command will open the Fragment inventory of a user",
+  "COLLECTION_PVT": "{{author}} That user's **Fragments** are private",
+  "CANNOT_FIND_FRAGS": "{{user}} That user does not have any **Fragments**",
+  "FRAGS_COUNT": "Total: {{totalCount}}",
+  "FRAG_LIST": "SOFI: FRAGMENTS ({{userName}})",
+  "CANNOT_FIND_SELF": "{{user}} You don't have any **Fragments** yet"
 }

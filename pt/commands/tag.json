@@ -1,12 +1,12 @@
 {
-    "TAG_DESCRIPTION": "Com este comando, você pode atribuir uma tag a uma carta ou Version Token. As tags são um recurso útil para categorizar e agrupar vários cartões que se encaixam em seus próprios critérios. Use o comando \"{{prefix}}tagcreate\" para criar tags",
-    "TAG_CATEGORY": "Tags",
-    "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}t <TagName> <Code>`",
-    "NO_TAGS_CREATED": "{{author}} Você ainda não tem nenhuma tag. Use o comando `{{prefix}}tc <TagName> <Emoji>` para criar uma",
-    "TAG_NOT_FOUND": "{{author}} Você não tem nenhuma tag com o nome `{{arg}}`",
-    "NO_CARDS_CLAIMED": "{{author}} Você ainda não tem nenhum carta em sua coleção",
-    "INVALID_CARD_CODE": "{{author}} O código fornecido é inválido ou não está na sua coleção",
-    "SUCCESSFUL_TAG": "{{author}} A carta **{{card}}** foi incluída na tag `{{tag}}` com sucesso",
-    "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas os códigos foram etiquetados com sucesso",
-    "INVALID_MULTIPLE_CARD_CODES": "{{author}} Os seguinte códigos são inválidos ou não estão na sua coleção:\n{{arg}}"
+  "TAG_DESCRIPTION": "Com este comando, você pode atribuir uma tag a uma carta ou Version Token. As tags são um recurso útil para categorizar e agrupar vários cartões que se encaixam em seus próprios critérios. Use o comando \"{{prefix}}tagcreate\" para criar tags",
+  "TAG_CATEGORY": "Tags",
+  "WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}t <TagName> <Code>`",
+  "NO_TAGS_CREATED": "{{author}} Você ainda não tem nenhuma tag. Use o comando `{{prefix}}tc <TagName> <Emoji>` para criar uma",
+  "TAG_NOT_FOUND": "{{author}} Você não tem nenhuma tag com o nome `{{arg}}`",
+  "NO_CARDS_CLAIMED": "{{author}} Você ainda não tem nenhum carta em sua coleção",
+  "INVALID_CARD_CODE": "{{author}} O código fornecido é inválido ou não está na sua coleção",
+  "SUCCESSFUL_TAG": "{{author}} A carta **{{card}}** foi incluída na tag `{{tag}}` com sucesso",
+  "SUCCESSFUL_MULTIPLE_TAG": "{{author}} Todas os códigos foram etiquetados com sucesso",
+  "INVALID_MULTIPLE_CARD_CODES": "{{author}} Os seguinte códigos são inválidos ou não estão na sua coleção:\n{{arg}}"
 }
