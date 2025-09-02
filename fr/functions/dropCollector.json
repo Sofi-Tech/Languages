@@ -1,16 +1,13 @@
 {
-  "EXTRA_GRAB": "{{user}} Votre Extra **Grab** a été utilisé. Il vous en reste **{{remaining}}**",
-  "GRAB_EVENT_ITEM": "",
-  "GRAB_CARD": "{{winner}} s'est battu contre {{user}} et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-  "GRAB_COOLDOWN": "{{user}} Vous devez attendre **{{cooldown}}** pour grab une autre carte",
-  "GRAB_CARD_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-  "TOOK_CARD": "{{user}} a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
-  "SNATCHED_EVENT_ITEM": "",
-  "EVENT_GRAB": "",
-  "CANNOT_BE_GRABBED": "{{user}} Les cartes ci-dessous ne peuvent plus être **grab**",
-  "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes",
-  "GRAB_VERSION": "{{winner}} a combattu {{user}} et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
-  "TOOK_VERSION": "{{winner}} a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
-  "GRAB_VERSION_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
-  "NOT_ALLOWED_TO_GRAB": "Vous êtes soit sur liste noire, soit en quarantaine, soit non enregistré et ne pouvez pas grab cette carte"
+    "EXTRA_GRAB": "{{user}} Votre Extra **Grab** a été utilisé. Il vous en reste **{{remaining}}**",
+    "GRAB_CARD": "{{winner}} s'est battu contre {{user}} et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "GRAB_COOLDOWN": "{{user}} Vous devez attendre **{{cooldown}}** pour grab une autre carte",
+    "GRAB_CARD_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "TOOK_CARD": "{{user}} a **grab** la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
+    "CANNOT_BE_GRABBED": "{{user}} Les cartes ci-dessous ne peuvent plus être **grab**",
+    "CARDS_DROPPED_BY": "{{user}} a **drop** des cartes",
+    "GRAB_VERSION": "{{winner}} a combattu {{user}} et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
+    "TOOK_VERSION": "{{winner}} a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
+    "GRAB_VERSION_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
+    "NOT_ALLOWED_TO_GRAB": "Vous êtes soit sur liste noire, soit en quarantaine, soit non enregistré et ne pouvez pas grab cette carte"
 }
