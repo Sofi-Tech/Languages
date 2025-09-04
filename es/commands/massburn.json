@@ -1,14 +1,14 @@
 {
-  "MASSBURN_DESCRIPTION": "Usa este comando para quemar multiples cartas al mismo tiempo. Agregando los filtros Gen/Tag/Wishlist puedes especificar que cartas quieres quemar",
-  "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo **Massburn** mientras uno anterior sigue activo",
-  "PROVIDE_FILTERS": "{{author}} Forma correcta `{{prefix}}mb <Filtros>`\n```\nNota: Especifica que cartas quieres quemar aplicando filtros por Gen/Tag/Lista de deseados. Puedes encontrar una lista completa de filtros usando el comando \"{{prefix}}help filters\"\n```",
-  "WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre `{{arg}}`",
-  "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda\n```fix\nNota: Las cartas bloqueadas, variantes GIF o utilizadas en un mazo no se pueden quemar\n```",
-  "CARDS_BURNED": "__Cartas Seleccionadas [ {{totalCards}} ]__",
-  "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar __irreversiblemente__ estas cartas?",
-  "MISSING_CARDS": "{{author}} Al menos una de las cartas seleccionadas ya no está en tu colección",
-  "SUCCESS": "{{author}} Has quemado con éxito las cartas seleccionadas",
-  "BURN_REWARDS": "__Recompensas__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} Las cartas bloqueadas, utilizadas en un mazo o las variantes **GIF** no se pueden quemar"
+    "MASSBURN_DESCRIPTION": "Usa este comando para quemar multiples cartas al mismo tiempo. Agregando los filtros Gen/Tag/Wishlist puedes especificar que cartas quieres quemar",
+    "IN_ACTIVE_MB": "{{user}} No puedes iniciar un nuevo **Massburn** mientras uno anterior sigue activo",
+    "PROVIDE_FILTERS": "{{author}} Forma correcta `{{prefix}}mb <Filtros>`\n```\nNota: Especifica que cartas quieres quemar aplicando filtros por Gen/Tag/Lista de deseados. Puedes encontrar una lista completa de filtros usando el comando \"{{prefix}}help filters\"\n```",
+    "WRONG_TAG": "{{author}} No se ha podido encontrar ningún tag con el nombre `{{arg}}`",
+    "NO_CARDS_FOUND": "{{author}} No se han encontrado cartas que coincidan con tus criterios de búsqueda\n```fix\nNota: Las cartas bloqueadas, variantes GIF o utilizadas en un mazo no se pueden quemar\n```",
+    "CARDS_BURNED": "__Cartas Seleccionadas [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Estás seguro de que quieres quemar __irreversiblemente__ estas cartas?",
+    "MISSING_CARDS": "{{author}} Al menos una de las cartas seleccionadas ya no está en tu colección",
+    "SUCCESS": "{{author}} Has quemado con éxito las cartas seleccionadas",
+    "BURN_REWARDS": "__Recompensas__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Las cartas bloqueadas, utilizadas en un mazo o las variantes **GIF** no se pueden quemar"
 }
