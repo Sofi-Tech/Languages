@@ -21,5 +21,6 @@
     "BUY_TP": "**3) `{{prefix}}buy tp` | 🔺 1x Bump ➜ 🪪 1x Trade Pass**",
     "BUY_GUILD_STONE": "**4) `{{prefix}}buy guildstone` | <:_:1349078140017709066> 25,000 Silver ➜ <:_:869577168282325042> 1x Guild Stone**",
     "BUY_BG": "**5) `{{prefix}}buy bg <Background-ID>` | <:_:1349078140017709066> 10,000x Silver ➜ 🌇 1x Background**",
-    "BUY_RECHARGE": "**6) `{{prefix}}buy recharge` | <:gemgame:862598030562033694> 65x Gems ➜ <:recharge_sofi:926846363537387530> 1x Recharge**"
+    "BUY_RECHARGE": "**6) `{{prefix}}buy recharge` | <:gemgame:862598030562033694> 65x Gems ➜ <:recharge_sofi:926846363537387530> 1x Recharge**",
+    "BUY_GEN_S": "`7)` `{{prefix}}buy gen [количество]`: {{itemEmoji}}300 {{itemName}} / <:wist:870339503427027005> 10 wists / 60 bumps ➜ 💳 1 gen scratcher"
 }
