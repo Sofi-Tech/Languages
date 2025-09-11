@@ -1,15 +1,15 @@
 {
-    "UNDOBACKGROUND_DESCRIPTION": "Usar este comando en una carta 3D eliminará el Background de esta y lo devolverá a tu inventario",
-    "UB_CATEGORY": "Cosméticos",
-    "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}undobg <CódigoDeCarta>`",
-    "NO_CHARACTER_FOUND": "{{author}} El personaje de esta carta ya no está disponible en Sofi y no se puede interactuar con él",
-    "INVALID_CODE": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
-    "NO_GIF_CARD": "{{author}} No se puede quitar el **Background** de una carta **GIF**",
-    "NO_BACKGROUND": "{{author}} Esa carta no tiene un **Background** aplicado",
-    "EMBED_TITLE": "SOFI: REMOVE BACKGROUND",
-    "PROCESS_COST": "Este proceso cuesta **1** **Wist** y devolverá el **Background** a tu inventario",
-    "NOT_ENOUGH_WIST": "{{author}} No tienes suficientes **{{currency}}** para quitar este **Background**",
-    "NO_BG_APPLIED": "{{author}} Esa carta no tiene un **Background** aplicado",
-    "UNDO_BACKGROUND_SUCCESS": "{{author}} Devuelto con éxito el **Background** de esta carta a tu inventario",
-    "NO_OWNER": "{{author}} La carta ya no está en tu colección"
+  "UNDOBACKGROUND_DESCRIPTION": "Usar este comando en una carta 3D eliminará el Background de esta y lo devolverá a tu inventario",
+  "UB_CATEGORY": "Cosméticos",
+  "WRONG_USAGE": "{{author}} Uso correcto: `{{prefix}}undobg <CódigoDeCarta>`",
+  "NO_CHARACTER_FOUND": "{{author}} El personaje de esta carta ya no está disponible en Sofi y no se puede interactuar con él",
+  "INVALID_CODE": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
+  "NO_GIF_CARD": "{{author}} No se puede quitar el **Background** de una carta **GIF**",
+  "NO_BACKGROUND": "{{author}} Esa carta no tiene un **Background** aplicado",
+  "EMBED_TITLE": "SOFI: REMOVE BACKGROUND",
+  "PROCESS_COST": "Este proceso cuesta **1** **Wist** y devolverá el **Background** a tu inventario",
+  "NOT_ENOUGH_WIST": "{{author}} No tienes suficientes **{{currency}}** para quitar este **Background**",
+  "NO_BG_APPLIED": "{{author}} Esa carta no tiene un **Background** aplicado",
+  "UNDO_BACKGROUND_SUCCESS": "{{author}} Devuelto con éxito el **Background** de esta carta a tu inventario",
+  "NO_OWNER": "{{author}} La carta ya no está en tu colección"
 }

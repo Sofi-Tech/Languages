@@ -1,10 +1,10 @@
 {
-    "BUMP_DESCRIPTION": "Usar este comando creará un mensaje embed mostrando tus Bumps totales al igual que tus Puntos de Bump, los cuales pueden ser usados en el sitio web oficial Sofi.gg para comprar ítems incluyendo el Trade Pass",
-    "BUMP_CATEGORY": "Configuración",
-    "EMBED_AUTHOR": "SOFI: BUMP ({{username}})",
-    "GET_DIFFERENT_REWARDS": "Presiona el botón **Bump** en nuestro [Sitio Web](https://sofi.gg) Oficial para obtener recompensas",
-    "TOTAL_BUMP": "- **Bumps** Totales: **{{bump}}**",
-    "BUMP_POINTS": "- Puntos Actuales: **{{bumpPoints}}** (🔺)",
-    "EMBED_FOOTER": "Puedes usar la función Bump cada 4 horas!",
-    "BUMP": "Bump"
+  "BUMP_DESCRIPTION": "Usar este comando creará un mensaje embed mostrando tus Bumps totales al igual que tus Puntos de Bump, los cuales pueden ser usados en el sitio web oficial Sofi.gg para comprar ítems incluyendo el Trade Pass",
+  "BUMP_CATEGORY": "Configuración",
+  "EMBED_AUTHOR": "SOFI: BUMP ({{username}})",
+  "GET_DIFFERENT_REWARDS": "Presiona el botón **Bump** en nuestro [Sitio Web](https://sofi.gg) Oficial para obtener recompensas",
+  "TOTAL_BUMP": "- **Bumps** Totales: **{{bump}}**",
+  "BUMP_POINTS": "- Puntos Actuales: **{{bumpPoints}}** (🔺)",
+  "EMBED_FOOTER": "Puedes usar la función Bump cada 4 horas!",
+  "BUMP": "Bump"
 }

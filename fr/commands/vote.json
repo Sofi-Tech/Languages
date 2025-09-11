@@ -1,14 +1,14 @@
 {
-    "VOTE_DESCRIPTION": "Utilisez cette commande pour voter pour Sofi sur Top.GG. Chaque Vote sur Top.GG vous récompensera avec 1 Wist en jour de semaine et 2 Wists durant le week-end. Chaque Vote sur DiscordBotList vous récompensera avec 5 Elixirs.",
-    "VOTE_CATEGORY": "Réglages",
-    "VOTE": "Votez sur Top.GG",
-    "BUMP": "Bump",
-    "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-    "USE_WIST": "Vous obtiendrez **1 Wist** <:wist:870339503427027005> pour chaque **Vote** réussi sur [Top.gg](https://top.gg/bot/853629533855809596)!",
-    "TOTAL_VOTES": "- Total des **Votes**: **{{totalVotes}}**",
-    "MONTHLY_VOTES": "- **Votes** Mensuels: **{{monthlyVotes}}**",
-    "VOTE_RESET": "- Réinitialisation dans: **{{countdown}}**",
-    "EMBED_FOOTER": "Vous obtenez le double de Wists durant le week-end",
-    "VOTE_DBL": "Votez sur DiscordBotList",
-    "USE_ELIXIR": "Vous obtiendrez **5 Elixirs** <:xelixir:979673719884636210> pour chaque **Vote** réussi sur [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
+  "VOTE_DESCRIPTION": "Utilisez cette commande pour voter pour Sofi sur Top.GG. Chaque Vote sur Top.GG vous récompensera avec 1 Wist en jour de semaine et 2 Wists durant le week-end. Chaque Vote sur DiscordBotList vous récompensera avec 5 Elixirs.",
+  "VOTE_CATEGORY": "Réglages",
+  "VOTE": "Votez sur Top.GG",
+  "BUMP": "Bump",
+  "EMBED_TITLE": "SOFI: VOTE ({{username}})",
+  "USE_WIST": "Vous obtiendrez **1 Wist** <:wist:870339503427027005> pour chaque **Vote** réussi sur [Top.gg](https://top.gg/bot/853629533855809596)!",
+  "TOTAL_VOTES": "- Total des **Votes**: **{{totalVotes}}**",
+  "MONTHLY_VOTES": "- **Votes** Mensuels: **{{monthlyVotes}}**",
+  "VOTE_RESET": "- Réinitialisation dans: **{{countdown}}**",
+  "EMBED_FOOTER": "Vous obtenez le double de Wists durant le week-end",
+  "VOTE_DBL": "Votez sur DiscordBotList",
+  "USE_ELIXIR": "Vous obtiendrez **5 Elixirs** <:xelixir:979673719884636210> pour chaque **Vote** réussi sur [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
 }

@@ -1,13 +1,13 @@
 {
-    "UL_EMBED_FOOTER": "Confirmar este proceso destruirá el Layer que tiene aplicado",
-    "USELAYER_CATEGORY": "Cosméticos",
-    "NO_LAYER_FOUND": "{{author}} No se pudo encontrar ningún **Layer** con ID `{{layerId}}`",
-    "UL_CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}ul <CodigoDeCarta> <IDDelLayer>`",
-    "CARD_INVALID": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
-    "CANNOT_APPLY_LAYER_GIF": "{{author}} No puedes aplicar un **Layer** a una carta **GIF**",
-    "USE_LAYER_CONFIRM": "Estás seguro que quieres aplicar el **{{name}}** **Layer** a esta carta?",
-    "CARD_NOT_IN_COLLECTION": "{{author}} La carta no se encuentra en tu colección",
-    "DONT_HAVE_LAYER": "{{author}} No tienes los siguientes **Layers:** \n{{layers}}",
-    "USE_LAYER_SUCCESSFUL": "{{author}} Se aplicó el **Layer** **{{name}}** a tu carta con éxito",
-    "USELAYER_DESCRIPTION": "Este comando aplicará el Layer seleccionado a una carta de tu elección. Puedes comprar Layers con el comando \"{{prefix}}layershop\""
+  "UL_EMBED_FOOTER": "Confirmar este proceso destruirá el Layer que tiene aplicado",
+  "USELAYER_CATEGORY": "Cosméticos",
+  "NO_LAYER_FOUND": "{{author}} No se pudo encontrar ningún **Layer** con ID `{{layerId}}`",
+  "UL_CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}ul <CodigoDeCarta> <IDDelLayer>`",
+  "CARD_INVALID": "{{author}} El código de carta que proporcionaste no es válido o no se encuentra en tu colección",
+  "CANNOT_APPLY_LAYER_GIF": "{{author}} No puedes aplicar un **Layer** a una carta **GIF**",
+  "USE_LAYER_CONFIRM": "Estás seguro que quieres aplicar el **{{name}}** **Layer** a esta carta?",
+  "CARD_NOT_IN_COLLECTION": "{{author}} La carta no se encuentra en tu colección",
+  "DONT_HAVE_LAYER": "{{author}} No tienes los siguientes **Layers:** \n{{layers}}",
+  "USE_LAYER_SUCCESSFUL": "{{author}} Se aplicó el **Layer** **{{name}}** a tu carta con éxito",
+  "USELAYER_DESCRIPTION": "Este comando aplicará el Layer seleccionado a una carta de tu elección. Puedes comprar Layers con el comando \"{{prefix}}layershop\""
 }

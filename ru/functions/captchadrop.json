@@ -1,10 +1,10 @@
 {
-    "EXTRA_GRAB": "{{user}} Ваш дополнительный **Grab** использован. У вас осталось **{{remaining}}**",
-    "BATTLED_AND_WON": "{{winner}} Вы отбились от {{user}} и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "WAIT_TO_CLAIM": "{{user}} Подождите **{{cooldown}}**, чтобы подобрать другую карту",
-    "BATTLED_WON_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "EMBED_TITLE": "Captcha Card",
-    "EMBED_FOOTER": "Вы можете подобрать карту выше, написав капчу",
-    "TOOK_THE_CARD": "{{user}} Вы **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-    "CANNOT_BE_GRABBED": "{{user}} Вы **подобрали** карту **{{characterName}}**"
+  "EXTRA_GRAB": "{{user}} Ваш дополнительный **Grab** использован. У вас осталось **{{remaining}}**",
+  "BATTLED_AND_WON": "{{winner}} Вы отбились от {{user}} и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+  "WAIT_TO_CLAIM": "{{user}} Подождите **{{cooldown}}**, чтобы подобрать другую карту",
+  "BATTLED_WON_PLURAL": "{{winner}} Вы отбились от **{{userCount}}** других пользователей и **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+  "EMBED_TITLE": "Captcha Card",
+  "EMBED_FOOTER": "Вы можете подобрать карту выше, написав капчу",
+  "TOOK_THE_CARD": "{{user}} Вы **подобрали** карту **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+  "CANNOT_BE_GRABBED": "{{user}} Вы **подобрали** карту **{{characterName}}**"
 }
