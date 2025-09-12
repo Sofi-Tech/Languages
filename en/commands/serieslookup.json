@@ -30,6 +30,7 @@
   "NO_COMBO_FOUND": "No combo cards found for characters in this series.",
   "COMBO_SERIES_DATA": "Found {{count}} combo cards for {{series}}\nType the number below to view its details.",
   "BANNER_MAXIMUM_CREATIONS": "This banner has reached the limit for the number of banners that can be created.",
+  "MAXIMUM_PROJECTS": "You have reached the maximum amount of projects. Delete/Finish a project to create a new one",
   "ALREADY_PROJECT_SERIES": "You already have a banner project for this series. Please delete it before creating a new one.",
   "PROJECT_CREATED": "Successfully created banner project for **{{series}}**"
 }
