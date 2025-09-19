@@ -1,15 +1,15 @@
 {
-  "NO_FRAME_NAME": "{{author}} Hãy cung cấp mã **Frame** mà bạn muốn mua",
-  "NO_FRAMECODE_FOUND": "{{author}} Không tìm thấy **Frame** nào với mã `{{name}}`",
-  "FRAME_UNAVAILABLE": "{{author}} **Frame** đó hiện tại không khả dụng. Sử dụng lệnh `{{prefix}}fs` để xem các **Frame** hiện có",
-  "FRAME_NOT_PURCHASABLE": "{{author}} **Frame** đó là bản giới hạn và không thể mua được nữa",
-  "EMBED_TITLE": "SOFI: TRANSACTION",
-  "YOU_GET": "Bạn nhận:",
-  "YOU_PAY": "Bạn trả:",
-  "TRANSACTION_SUCCESSFUL": "{{author}} Mua thành công {{count}} **{{frameName}}** **Frame**",
-  "PROCESS_CANCELLED": "Quá trình đã bị hủy bỏ",
-  "BF_CATEGORY": "Đồ trang trí",
-  "BUYFRAME_DESCRIPTION": "Lệnh này được sử dụng để mua Frame từ lệnh \"{{prefix}}frameshop\", trong đó bạn sẽ có thể mua các Frame Chính Thức, Tuỳ Chỉnh, Gói Frame cho thẻ 2D của bạn",
-  "NO_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện giao dịch này",
-  "NO_NEGATIVE_COUNT": "{{author}} Bạn không thể mua **Frame** với số lượng âm"
+    "NO_FRAME_NAME": "{{author}} Cung cấp mã **Frame** mà bạn muốn mua",
+    "NO_FRAMECODE_FOUND": "{{author}} Không tìm thấy **Frame** nào với mã `{{name}}`",
+    "FRAME_UNAVAILABLE": "{{author}} **Frame** đó hiện tại không khả dụng. Sử dụng lệnh `{{prefix}}fs` để xem các **Frame** hiện có",
+    "FRAME_NOT_PURCHASABLE": "{{author}} **Frame** đó là bản giới hạn và không thể mua được nữa",
+    "EMBED_TITLE": "SOFI: TRANSACTION",
+    "YOU_GET": "Bạn nhận:",
+    "YOU_PAY": "Bạn trả:",
+    "TRANSACTION_SUCCESSFUL": "{{author}} Mua thành công {{count}} **{{frameName}}** **Frame**",
+    "PROCESS_CANCELLED": "Quá trình đã bị hủy bỏ",
+    "BF_CATEGORY": "Đồ trang trí",
+    "BUYFRAME_DESCRIPTION": "Lệnh này được sử dụng để mua Frame từ lệnh \"{{prefix}}frameshop\", trong đó bạn sẽ có thể mua các Frame Chính Thức, Tuỳ Chỉnh, Gói Frame cho thẻ 2D của bạn",
+    "NO_ENOUGH_AMOUNT": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện giao dịch này",
+    "NO_NEGATIVE_COUNT": "{{author}} Bạn không thể mua **Frame** với số lượng âm"
 }

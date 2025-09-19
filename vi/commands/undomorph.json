@@ -1,15 +1,15 @@
 {
-  "NOT_ENOUGH_SILVERS": "Bạn không có đủ **{{currency}}** cho quá trình này",
-  "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-  "NO_OWNER": "{{author}} Thẻ này không còn trong bộ sưu tập của bạn nữa",
-  "UNDOMORPH_DESCRIPTION": "Gỡ bỏ Morph của thẻ",
-  "UM_CATEGORY": "Đồ trang trí",
-  "UM_INVALID_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}um <CardCode>`",
-  "UM_CONFIRMATION": "Bạn có chắc muốn gỡ bỏ hiệu ứng morph của thẻ này với giá **{{count}}** {{currencyEmoji}} không?",
-  "NO_CHARACTER": "{{author}} Nhân vật trên thẻ này hiện không còn tồn tại trên Sofi và không thể tương tác được",
-  "NO_GIF": "{{author}} Bạn không thể xoá các vật phẩm trang trí từ thẻ **GIF**",
-  "NOT_MORPHED": "{{author}} Thẻ đó không có hiệu ứng morph",
-  "EMBED_TITLE": "SOFI: REMOVE MORPH",
-  "SOMETHING_WENT_WRONG": "{{author}} Có gì đó không ổn, vui lòng thử lại",
-  "UM_SUCCESSFUL": "{{author}} Đã gỡ bỏ hiệu ứng morph của thẻ này"
+    "NOT_ENOUGH_SILVERS": "Bạn không có đủ **{{currency}}** cho quá trình này",
+    "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "NO_OWNER": "{{author}} Thẻ này không còn trong bộ sưu tập của bạn nữa",
+    "UNDOMORPH_DESCRIPTION": "Gỡ bỏ Morph của thẻ",
+    "UM_CATEGORY": "Đồ trang trí",
+    "UM_INVALID_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}um <CardCode>`",
+    "UM_CONFIRMATION": "Bạn có chắc muốn gỡ bỏ hiệu ứng morph của thẻ này với giá **{{count}}** {{currencyEmoji}} không?",
+    "NO_CHARACTER": "{{author}} Nhân vật trên thẻ này hiện không còn tồn tại trên Sofi và không thể tương tác được",
+    "NO_GIF": "{{author}} Bạn không thể xoá các vật phẩm trang trí từ thẻ **GIF**",
+    "NOT_MORPHED": "{{author}} Thẻ đó không có hiệu ứng morph",
+    "EMBED_TITLE": "SOFI: REMOVE MORPH",
+    "SOMETHING_WENT_WRONG": "{{author}} Có gì đó không ổn, vui lòng thử lại",
+    "UM_SUCCESSFUL": "{{author}} Đã gỡ bỏ hiệu ứng morph của thẻ này"
 }
