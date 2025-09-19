@@ -1,9 +1,9 @@
 {
-  "UNTAG_DESCRIPTION": "Utilisez cette commande pour retirer un tag de votre carte ou Version Token. Si vous souhaitez supprimer un tag entier utilisez plutôt la commande \"{{prefix}}tagdelete\"",
-  "UT_CATEGORY": "Tags",
-  "UT_EMPTY_COLLECTION": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
-  "UNTAG_SUCCESSFUL": "{{author}} Le tag a été supprimé avec succès de **{{cardName}}**",
-  "MULTIPLE_UNTAG": "{{author}} Le tag a été supprimé avec succès des **{{count}}** codes",
-  "INVALID_CODE": "{{author}} Le code que vous avez fourni est soit invalide soit n'est pas dans votre collection",
-  "INVALID_CODE_MULTIPLE": "{{author}} Les codes suivants sont soit invalides, soit ne font pas partie de votre collection:\n{{invalidCodeList}}"
+    "UNTAG_DESCRIPTION": "Utilisez cette commande pour retirer un tag de votre carte ou Version Token. Si vous souhaitez supprimer un tag entier utilisez plutôt la commande \"{{prefix}}tagdelete\"",
+    "UT_CATEGORY": "Tags",
+    "UT_EMPTY_COLLECTION": "{{author}} Vous n'avez pas encore de cartes dans votre collection",
+    "UNTAG_SUCCESSFUL": "{{author}} Le tag a été supprimé avec succès de **{{cardName}}**",
+    "MULTIPLE_UNTAG": "{{author}} Le tag a été supprimé avec succès des **{{count}}** codes",
+    "INVALID_CODE": "{{author}} Le code que vous avez fourni est soit invalide soit n'est pas dans votre collection",
+    "INVALID_CODE_MULTIPLE": "{{author}} Les codes suivants sont soit invalides, soit ne font pas partie de votre collection:\n{{invalidCodeList}}"
 }

@@ -1,7 +1,7 @@
 {
-  "TOGGLEREMINDER_DESCRIPTION": "Avec cette commande vous pouvez basculer l'état de vos rappels. Vous pouvez également utiliser la commande \"{{prefix}}cooldown\" et cliquer sur l'icône de cloche",
-  "RM_CATEGORY": "Réglages",
-  "PROVIDE_REMINDER_NAME": "{{author}} Utilisation correcte: `{{prefix}}tr <Vote/Daily/Bump>`",
-  "REMINDER_DISABLED": "{{author}} Vous ne serez plus notifié lorsque votre **{{reminder}}** sera prêt",
-  "REMINDER_ENABLED": "{{author}} Vous serez désormais notifié lorsque votre **{{reminder}}** sera prêt"
+    "TOGGLEREMINDER_DESCRIPTION": "Avec cette commande vous pouvez basculer l'état de vos rappels. Vous pouvez également utiliser la commande \"{{prefix}}cooldown\" et cliquer sur l'icône de cloche",
+    "RM_CATEGORY": "Réglages",
+    "PROVIDE_REMINDER_NAME": "{{author}} Utilisation correcte: `{{prefix}}tr <Vote/Daily/Bump>`",
+    "REMINDER_DISABLED": "{{author}} Vous ne serez plus notifié lorsque votre **{{reminder}}** sera prêt",
+    "REMINDER_ENABLED": "{{author}} Vous serez désormais notifié lorsque votre **{{reminder}}** sera prêt"
 }

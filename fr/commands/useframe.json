@@ -1,15 +1,15 @@
 {
-  "USEFRAME_DESCRIPTION": "Cette commande appliquera une Frame sélectionnée de votre choix. Vous pouvez acheter des Frames en utilisant la commande \"{{prefix}}frameshop\"",
-  "UF_CATEGORY": "Cosmétiques",
-  "UF_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}uf <CodeCarte> <NomDeFrame/$CodeDeFrame>`",
-  "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
-  "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de **Frame** à une carte **3D**",
-  "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de **Frame** à une carte **GIF**",
-  "NO_FRAMES_FOUND": "{{author}} Ce code de **Frame** est soit invalide ou alors n'est pas dans votre inventaire",
-  "EMBED_TITLE": "SOFI: APPLY FRAME",
-  "UF_CONFIRMATION": "Êtes-vous sûr(e) de vouloir appliquer la **Frame** **{{frameName}}** à cette carte?",
-  "EMBED_FOOTER": "La confirmation de ce processus détruira la Frame actuellement appliquée",
-  "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
-  "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la **Frame** **{{frameName}}**",
-  "UF_SUCCESSFUL": "{{author}} La **Frame** **{{frameName}}** a été appliquée avec succès sur votre carte"
+    "USEFRAME_DESCRIPTION": "Cette commande appliquera une Frame sélectionnée de votre choix. Vous pouvez acheter des Frames en utilisant la commande \"{{prefix}}frameshop\"",
+    "UF_CATEGORY": "Cosmétiques",
+    "UF_INVALID_USAGE": "{{author}} Utilisation correcte: `{{prefix}}uf <CodeCarte> <NomDeFrame/$CodeDeFrame>`",
+    "INVALID_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
+    "CANNOT_APPLY": "{{author}} Vous ne pouvez pas appliquer de **Frame** à une carte **3D**",
+    "NO_GIF": "{{author}} Vous ne pouvez pas appliquer de **Frame** à une carte **GIF**",
+    "NO_FRAMES_FOUND": "{{author}} Ce code de **Frame** est soit invalide ou alors n'est pas dans votre inventaire",
+    "EMBED_TITLE": "SOFI: APPLY FRAME",
+    "UF_CONFIRMATION": "Êtes-vous sûr(e) de vouloir appliquer la **Frame** **{{frameName}}** à cette carte?",
+    "EMBED_FOOTER": "La confirmation de ce processus détruira la Frame actuellement appliquée",
+    "NO_OWNER": "{{author}} La carte n'est plus dans votre collection",
+    "FRAME_NOT_FOUND": "{{author}} Vous ne possédez pas la **Frame** **{{frameName}}**",
+    "UF_SUCCESSFUL": "{{author}} La **Frame** **{{frameName}}** a été appliquée avec succès sur votre carte"
 }

@@ -1,11 +1,11 @@
 {
-  "UNLOCKGLOW_DESCRIPTION": "Génère un Glow aléatoire. Vous pouvez utilisez des Glows pour ajouter un effet brillant à la bordure de frame de votre carte, changer la couleur du texte sur votre carte, ou changer les couleurs dans votre profil.",
-  "UG_CATEGORY": "Cosmétiques",
-  "EMBED_TITLE": "SOFI: GENERATE GLOW",
-  "UNLOCK_GLOW_CONFIRM": "Êtes-vous sûr(e) de vouloir acheter un **Glow** aléatoire pour **100** {{currency}}?",
-  "CANCELLED_UNLOCK_GLOW": "Le processus a été annulé",
-  "NOT_ENOUGH_GEMS": "{{author}} Vous n'avez pas assez de **Gems**",
-  "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
-  "UNLOCK_GLOW_SUCCESS": "{{author}} Achat avec succès d'un **Glow**",
-  "GLOW_INFO": "Nom: **{{glowName}}**\nCode: **`#{{glowCode}}`**\nPureté: **{{purity}}%**"
+    "UNLOCKGLOW_DESCRIPTION": "Génère un Glow aléatoire. Vous pouvez utilisez des Glows pour ajouter un effet brillant à la bordure de frame de votre carte, changer la couleur du texte sur votre carte, ou changer les couleurs dans votre profil.",
+    "UG_CATEGORY": "Cosmétiques",
+    "EMBED_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_CONFIRM": "Êtes-vous sûr(e) de vouloir acheter un **Glow** aléatoire pour **100** {{currency}}?",
+    "CANCELLED_UNLOCK_GLOW": "Le processus a été annulé",
+    "NOT_ENOUGH_GEMS": "{{author}} Vous n'avez pas assez de **Gems**",
+    "EMBED_GLOW_TITLE": "SOFI: GENERATE GLOW",
+    "UNLOCK_GLOW_SUCCESS": "{{author}} Achat avec succès d'un **Glow**",
+    "GLOW_INFO": "Nom: **{{glowName}}**\nCode: **`#{{glowCode}}`**\nPureté: **{{purity}}%**"
 }
