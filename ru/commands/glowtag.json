@@ -1,12 +1,12 @@
 {
-  "GLOWTAG_DESCRIPTION": "С помощью данной команды вы можете отмечать ваши Glows. Для создания отметки для Glow используйте команду \"{{prefix}}glowtagcreate\"",
-  "GT_CATEGORY": "Отметки",
-  "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет отметок для **Glow**. Вы можете создать новую, используя команду: `{{prefix}}gtc <НазваниеОтметки> <Эмодзи>`",
-  "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет **Glows**",
-  "INVALID_GLOW_CODE": "{{author}} По крайней мере один из указанных вами кодов **Glow** недействителен или не является частью вашего инвентаря",
-  "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечена как `{{tag}}`",
-  "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все выбранные **Glows** успешно отмечены как `{{tag}}`",
-  "GLOW_TAG_INVALID": "{{author}} У вас нет ни одной отметки для **Glow** с названием `{{tagname}}`",
-  "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gt <НазваниеОтметки> <#КодGlow>`",
-  "INVALID_GLOW_SINGULAR": "{{author}} Указанный вами код **Glow** недействителен или не является частью вашего инвентаря"
+    "GLOWTAG_DESCRIPTION": "С помощью данной команды вы можете отмечать ваши Glows. Для создания отметки для Glow используйте команду \"{{prefix}}glowtagcreate\"",
+    "GT_CATEGORY": "Отметки",
+    "GLOWTAGS_NOT_FOUND": "{{author}} У вас пока нет отметок для **Glow**. Вы можете создать новую, используя команду: `{{prefix}}gtc <НазваниеОтметки> <Эмодзи>`",
+    "GLOWS_NOT_UNLOCKED": "{{author}} У вас пока нет **Glows**",
+    "INVALID_GLOW_CODE": "{{author}} По крайней мере один из указанных вами кодов **Glow** недействителен или не является частью вашего инвентаря",
+    "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** успешно отмечена как `{{tag}}`",
+    "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} Все выбранные **Glows** успешно отмечены как `{{tag}}`",
+    "GLOW_TAG_INVALID": "{{author}} У вас нет ни одной отметки для **Glow** с названием `{{tagname}}`",
+    "CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}gt <НазваниеОтметки> <#КодGlow>`",
+    "INVALID_GLOW_SINGULAR": "{{author}} Указанный вами код **Glow** недействителен или не является частью вашего инвентаря"
 }

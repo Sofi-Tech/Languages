@@ -1,12 +1,12 @@
 {
-  "BACKGROUND_DESCRIPTION": "Как только карта была преобразована в ее 3D версию, вы можете использовать данную команду для применения к карте Background. Используйте команду \"{{prefix}}backgroundshop\" для покупки Backgrounds",
-  "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <КодКарты> <ИдентификаторBackground>`",
-  "BG_CATEGORY": "Косметика",
-  "EMBED_TITLE": "SOFI: BACKGROUND",
-  "USER_NO_BG": "{{author}} У вас нет данного **Background**",
-  "NON_3D_CARDS": "{{author}} Вы не можете устанавливать **Background** на карты, которые не преобразованы в 3D",
-  "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
-  "BG_NOT_FOUND": "{{author}} Не удалось найти **Background** с таким идентификатором",
-  "EMBED_DESCRIPTION": "Вы уверены, что хотите установить **{{background}}** **Background** на данную карту?",
-  "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** **Background** успешно установлен на вашу карту"
+    "BACKGROUND_DESCRIPTION": "Как только карта была преобразована в ее 3D версию, вы можете использовать данную команду для применения к карте Background. Используйте команду \"{{prefix}}backgroundshop\" для покупки Backgrounds",
+    "WRONG_USAGE": "{{author}} Правильное использование: `{{prefix}}bg <КодКарты> <ИдентификаторBackground>`",
+    "BG_CATEGORY": "Косметика",
+    "EMBED_TITLE": "SOFI: BACKGROUND",
+    "USER_NO_BG": "{{author}} У вас нет данного **Background**",
+    "NON_3D_CARDS": "{{author}} Вы не можете устанавливать **Background** на карты, которые не преобразованы в 3D",
+    "INVALID_CODE": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
+    "BG_NOT_FOUND": "{{author}} Не удалось найти **Background** с таким идентификатором",
+    "EMBED_DESCRIPTION": "Вы уверены, что хотите установить **{{background}}** **Background** на данную карту?",
+    "BG_APPLY_SUCCESSFUL": "{{author}} **{{background}}** **Background** успешно установлен на вашу карту"
 }
