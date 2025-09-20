@@ -4,10 +4,20 @@
     "IN_RAID": "Không thể sử dụng lệnh này khi bạn đang trong một raid",
     "SELECT_OPT": "Chọn một Deck",
     "DECK": "Deck",
-    "UNIQUE_WARN": "Kỹ năng trong một deck phải là duy nhất thì mới có thể dùng để raid và đấu tay đôi!",
+    "UNIQUE_WARN": "Kỹ năng trong một deck phải là duy nhất thì mới có thể raid và đấu tay đôi!",
     "UNLOCK_SLOT": "Mở khóa ô số {{deckNo}} với giá 50,000 Silver?",
     "SLOT_UNLOCKED": "Ô {{deckNo}} 🔓",
     "MISSING_SILVERS": "Bạn không có đủ `Silver` để mở ô này",
     "UNLOCK_WARN": "Mở khóa ô số {{deckNo}} để tạo ngẫu nhiên một deck",
-    "ENTER_CODES": "Nhập mã thẻ"
+    "ENTER_CODES": "Nhập mã thẻ",
+    "MODAL_TITLE": "Chọn Deck",
+    "MISSING_CODES": "> Cần ít nhất 3 mã thẻ",
+    "CODE_REPEAT": "> Mã thẻ không được trùng",
+    "MOVES_UNIQUE": "Kỹ năng trong một bộ bài phải là **duy nhất**! Hãy chọn thẻ khác hoặc thay đổi kỹ năng của thẻ để tiếp tục",
+    "SAVE_DECK": "Nhấn lưu để chọn deck",
+    "EMBED_FOOTER": "Lưu ý: Kỹ năng trong một deck phải là duy nhất thì mới có thể raid hoặc đấu tay đôi!",
+    "UNLOCK_SAVE": "Mở khóa ô số {{deckNo}} để lưu deck",
+    "UNLOCK_GENERATE": "Mở khóa ô số {{deckNo}} để tạo ngẫu nhiên một deck",
+    "NOT_ENOUGH_CARD": "Bạn không có đủ thẻ với các kỹ năng khác nhau. Hãy sưu tầm thêm thẻ",
+    "UNLOCK_SELECT": "Mở khóa ô số {{deckNo}} để chọn deck"
 }
