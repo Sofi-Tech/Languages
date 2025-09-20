@@ -1,7 +1,7 @@
 {
-  "MARKET_DESCRIPTION": "Данная команда отображает все доступные объявления на рынке. На рынке пользователи могут обменивать свои Wists на Gems с помощью команды \"{{prefix}}marketlist\"",
-  "NO_LISTING_FOUND": "{{author}} Не удалось найти объявления на рынке",
-  "MARKET_WARN": "**Средний курс**: **`{{averageRate}}` | Всего обменов** : **`{{totalTrades}}`**",
-  "FOOTER": "Отображение результатов {{page}}-{{pages}} из {{total}} | {{prefix}}mbuy <ИдентификаторОбъявления> <Количество>",
-  "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Доступно: `{{stockAmount}}` {{stockEmoji}} | Курс: `{{rateAmount}}` {{rateEmoji}}"
+    "MARKET_DESCRIPTION": "Данная команда отображает все доступные объявления на рынке. На рынке пользователи могут обменивать свои Wists на Gems с помощью команды \"{{prefix}}marketlist\"",
+    "NO_LISTING_FOUND": "{{author}} Не удалось найти объявления на рынке",
+    "MARKET_WARN": "**Средний курс**: **`{{averageRate}}` | Всего обменов** : **`{{totalTrades}}`**",
+    "FOOTER": "Отображение результатов {{page}}-{{pages}} из {{total}} | {{prefix}}mbuy <ИдентификаторОбъявления> <Количество>",
+    "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Доступно: `{{stockAmount}}` {{stockEmoji}} | Курс: `{{rateAmount}}` {{rateEmoji}}"
 }

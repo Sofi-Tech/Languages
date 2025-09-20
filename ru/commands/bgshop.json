@@ -1,10 +1,10 @@
 {
-  "NO_BG_FOUND": "{{author}} Не удалось найти **Background** с таким идентификатором",
-  "BGS_CATEGORY": "Косметика",
-  "BGS_SLASH_DESC": "Введите код \"Background\", который вы ищете",
-  "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
-  "APPLY_BG": "\nИспользуйте команду `{{prefix}}buy bg <ИдентификаторBackground> <Количество>` для покупки **Backgrounds**",
-  "VIEW_BACKGROUNDS": "[Нажмите здесь для просмотра всех **Backgrounds**](<https://sofi.gg/backgrounds>)",
-  "SHOWING_PAGE": "Отображение страницы: {{page}}/{{pages}}",
-  "BGSHOP_DESCRIPTION": "Данная команда отображает окно магазина Backgrounds, включая все доступные для покупки Backgrounds для ваших 3D карт. Кликните на любое название, чтобы открыть сайт для просмотра выбранного Background"
+    "NO_BG_FOUND": "{{author}} Не удалось найти **Background** с таким идентификатором",
+    "BGS_CATEGORY": "Косметика",
+    "BGS_SLASH_DESC": "Введите код \"Background\", который вы ищете",
+    "EMBED_TITLE": "SOFI: BACKGROUND SHOP",
+    "APPLY_BG": "\nИспользуйте команду `{{prefix}}buy bg <ИдентификаторBackground> <Количество>` для покупки **Background**",
+    "VIEW_BACKGROUNDS": "[Нажмите здесь для просмотра всех **Backgrounds**](<https://sofi.gg/backgrounds>)",
+    "SHOWING_PAGE": "Отображение страницы: {{page}}/{{pages}}",
+    "BGSHOP_DESCRIPTION": "Данная команда отображает окно магазина Backgrounds, включая все доступные для покупки Backgrounds для ваших 3D карт. Кликните на любое название, чтобы открыть сайт для просмотра выбранного Background"
 }
