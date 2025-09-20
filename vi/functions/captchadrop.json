@@ -1,10 +1,10 @@
 {
-  "EXTRA_GRAB": "{{user}} Lượt **Grab** bổ sung của bạn đang được sử dụng. Còn lại **{{remaining}}** lần",
-  "WAIT_TO_CLAIM": "{{user}} Bạn phải đợi **{{cooldown}}** để nhặt một thẻ khác",
-  "CANNOT_BE_GRABBED": "{{user}} đã **nhặt** thẻ **{{characterName}}**",
-  "EMBED_FOOTER": "Nhận thẻ bên trên bằng cách gửi captcha",
-  "BATTLED_AND_WON": "{{winner}} đã đánh bại {{user}} và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "EMBED_TITLE": "Captcha Card",
-  "TOOK_THE_CARD": "{{user}} đã **nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "BATTLED_WON_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
+    "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đã được sử dụng. Còn lại **{{remaining}}** lần",
+    "WAIT_TO_CLAIM": "{{user}} Bạn phải đợi **{{cooldown}}** để nhặt thêm một thẻ khác",
+    "CANNOT_BE_GRABBED": "{{user}} đã **nhặt** thẻ **{{characterName}}**",
+    "EMBED_FOOTER": "Nhận thẻ bên trên bằng cách gửi captcha",
+    "BATTLED_AND_WON": "{{winner}} đã đánh bại {{user}} và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "Captcha Card",
+    "TOOK_THE_CARD": "{{user}} đã **nhặt** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "BATTLED_WON_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**"
 }
