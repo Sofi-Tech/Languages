@@ -1,3 +1,13 @@
 {
-    "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn"
+    "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "DECK_DESCRIPTION": "Tạo một deck từ thẻ của bạn để tham gia các trận raid hoặc chiến đấu với những người chơi khác!",
+    "IN_RAID": "Không thể sử dụng lệnh này khi bạn đang trong một raid",
+    "SELECT_OPT": "Chọn một Deck",
+    "DECK": "Deck",
+    "UNIQUE_WARN": "Kỹ năng trong một deck phải là duy nhất thì mới có thể dùng để raid và đấu tay đôi!",
+    "UNLOCK_SLOT": "Mở khóa ô số {{deckNo}} với giá 50,000 Silver?",
+    "SLOT_UNLOCKED": "Ô {{deckNo}} 🔓",
+    "MISSING_SILVERS": "Bạn không có đủ `Silver` để mở ô này",
+    "UNLOCK_WARN": "Mở khóa ô số {{deckNo}} để tạo ngẫu nhiên một deck",
+    "ENTER_CODES": "Nhập mã thẻ"
 }

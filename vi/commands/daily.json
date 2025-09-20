@@ -1,1 +1,13 @@
-{}
+{
+    "DAILY_DESCRIPTION": "Bạn có thể dùng lệnh này mỗi 24 giờ để nhận phần thưởng hằng ngày. Chuỗi Daily của bạn càng cao thì phần thưởng sẽ càng giá trị. Cứ mỗi 3/7 ngày của chuỗi, bạn sẽ được nhận thêm 1 rương chứa các vật phẩm đặc biệt",
+    "CATEGORY": "Thẻ",
+    "EMBED_AUTHOR": "SOFI: DAILY REWARD ({{author}})",
+    "DAILY_ERROR": "Bạn có thể nhận *Daily** tiếp theo trong **{{timeout}}**",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> còn **{{count}}x** **Daily** nữa để nhận một **Common Chest**",
+    "RARE_CHEST": "<:rarechest:927204672270372874> còn **{{count}}x** **Daily** nữa để nhận một **Rare Chest**\n",
+    "NOTE": "⚠️ Discord, cũng như Nhân Viên của Sofi sẽ KHÔNG BAO GIỜ yêu cầu bạn cung cấp mật khẩu hoặc bắt bạn đổi E-Mail sang một địa chỉ cụ thể nào khác. Hãy cảnh giác với các BOT Discord bên thứ ba, vì chúng thường được dùng cho những hành vi lừa đảo tương tự!\n\nBất kỳ hoạt động đáng ngờ nào cần được báo cáo ngay tại {{link}} ⚠️",
+    "EMBED_FOOTER": "Chuỗi [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Đã nhận phần thưởng **Daily**!",
+    "GUILD_BONUS": "**(1.5x Server Bonus!)**",
+    "STREAK_BONUS": "+ {{bonus}} Chuỗi Bonus"
+}
