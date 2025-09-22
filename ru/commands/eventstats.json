@@ -1,6 +1,6 @@
 {
-  "EVENTSTATS_DESCRIPTION": "Данная команда отображает таблицу лидеров по предложениям карт для событий сотрудниками Sofi",
-  "ES_CATEGORY": "Настройки",
-  "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
-  "EVENT_MENU_PLACEHOLDER": "Выберите событие"
+    "EVENTSTATS_DESCRIPTION": "Данная команда отображает таблицу лидеров по предложениям карт для событий сотрудниками Sofi",
+    "ES_CATEGORY": "Настройки",
+    "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
+    "EVENT_MENU_PLACEHOLDER": "Выберите событие"
 }
