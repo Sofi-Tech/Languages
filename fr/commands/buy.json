@@ -7,7 +7,7 @@
     "TRADEPASS_INFO": "Visitez notre site web ci-dessous pour **Bump** et échangez vos points contre différents items, y compris le **Trade Pass**",
     "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}buy bg <Background-ID> <Quantité>`",
     "INVALID_BG_AMOUNT": "{{author}} Vous ne pouvez pas acheter un montant négatif d'item",
-    "INVALID_BG_ID": "{{author}} Aucun **Background** possédant cet ID n'a été trouvé",
+    "INVALID_BG_ID": "{{author}} Impossible de trouver un **Background** avec cet ID",
     "INVALID_ITEM_PROVIDED": "{{user}} L'item que vous avez fourni est invalide",
     "BUY_CHARMS_MULTIPLES": "{{author}} Vous ne pouvez acheter des **Charms** que par multiples de 100",
     "BUY_CHARM_CONFIRMATION": "## Vous achetez {{amount}} {{itemName}}<:xcharm:988729774031638528>",
