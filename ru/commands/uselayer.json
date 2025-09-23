@@ -1,13 +1,13 @@
 {
-  "NO_LAYER_FOUND": "{{author}} Не удалось найти **Layer** с идентификатором `{{layerId}}`",
-  "DONT_HAVE_LAYER": "{{author}} У вас нет следующих **Layers:** \n{{layers}}",
-  "USE_LAYER_CONFIRM": "Вы уверены, что хотите применить **{{name}}** **Layer** к данной карте?",
-  "USELAYER_CATEGORY": "Косметика",
-  "CARD_INVALID": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
-  "CANNOT_APPLY_LAYER_GIF": "{{author}} Вы не можете применить **Layer** к **GIF** карте",
-  "USELAYER_DESCRIPTION": "Данная команда применит выбранный Layer к вашей карте. Вы можете покупать Layers, используя команду \"{{prefix}}layershop\"",
-  "UL_EMBED_FOOTER": "Подтверждение данного процесса приведет к уничтожению примененного Layer",
-  "CARD_NOT_IN_COLLECTION": "{{author}} Данная карта больше не находится в вашей коллекции",
-  "USE_LAYER_SUCCESSFUL": "{{author}} **{{name}}** **Layer** успешно применен к вашей карте",
-  "UL_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}ul <КодКарты> <ИдентификаторLayer>`"
+    "NO_LAYER_FOUND": "{{author}} Не удалось найти **Layer** с идентификатором `{{layerId}}`",
+    "DONT_HAVE_LAYER": "{{author}} У вас нет следующих **Layers:** \n{{layers}}",
+    "USE_LAYER_CONFIRM": "Вы уверены, что хотите применить **{{name}}** **Layer** к данной карте?",
+    "USELAYER_CATEGORY": "Косметика",
+    "CARD_INVALID": "{{author}} Указанный вами код карты недействителен или не является частью вашей коллекции",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} Вы не можете применить **Layer** к **GIF** карте",
+    "USELAYER_DESCRIPTION": "Данная команда применит выбранный Layer к вашей карте. Вы можете покупать Layers, используя команду \"{{prefix}}layershop\"",
+    "UL_EMBED_FOOTER": "Подтверждение данного процесса приведет к уничтожению примененного Layer",
+    "CARD_NOT_IN_COLLECTION": "{{author}} Данная карта больше не находится в вашей коллекции",
+    "USE_LAYER_SUCCESSFUL": "{{author}} **{{name}}** **Layer** успешно применен к вашей карте",
+    "UL_CORRECT_USAGE": "{{author}} Правильное использование: `{{prefix}}ul <КодКарты> <ИдентификаторLayer>`"
 }
