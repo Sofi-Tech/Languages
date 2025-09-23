@@ -1,14 +1,14 @@
 {
-  "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois. En ajoutant les filtres Gen/Tag/Liste De Souhaits, vous pouvez spécifier quelles cartes vous voulez burn",
-  "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau **Massburn** lorsqu'un précédent est toujours actif",
-  "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n```fix\nNote: Précisez quelles cartes vous souhaitez brûler en appliquant des filtres Gen/Tag/Liste De Souhaits. Vous pouvez trouver une liste complète des filtres en utilisant la commande \"{{prefix}}help filters\"\n```",
-  "WRONG_TAG": "{{author}} Aucun tag nommé `{{arg}}`n'a été trouvé",
-  "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes à vos critères de recherche\n```fix\nNote: Les cartes qui sont verrouillées, en version GIF ou utilisées dans un deck ne peuvent pas être brûlées\n```",
-  "CARDS_BURNED": "__Cartes sélectionnées [ {{totalCards}} ]__",
-  "CONFIRM_ASK": "{{author}} Êtes-vous sûr(e) de vouloir burn __irréversiblement__ les cartes ci-dessous?",
-  "MISSING_CARDS": "{{author}} Au moins une des cartes sélectionnées n'est plus dans votre collection",
-  "SUCCESS": "{{author}} Les cartes sélectionnées ont été burn avec succès",
-  "BURN_REWARDS": "__Récompenses__",
-  "EMBED_TITLE": "SOFI: MASSBURN",
-  "LOCKED_CARDS_WARNING": "{{author}} Les cartes qui sont verrouillées, un variant **GIF** ou utilisées dans un deck ne peuvent pas être burn"
+    "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois. En ajoutant les filtres Gen/Tag/Liste De Souhaits, vous pouvez spécifier quelles cartes vous voulez burn",
+    "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau **Massburn** lorsqu'un précédent est toujours actif",
+    "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n```fix\nNote: Précisez quelles cartes vous souhaitez brûler en appliquant des filtres Gen/Tag/Liste De Souhaits. Vous pouvez trouver une liste complète des filtres en utilisant la commande \"{{prefix}}help filters\"\n```",
+    "WRONG_TAG": "{{author}} Aucun tag nommé `{{arg}}`n'a été trouvé",
+    "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes à vos critères de recherche\n```fix\nNote: Les cartes qui sont verrouillées, en version GIF ou utilisées dans un deck ne peuvent pas être brûlées\n```",
+    "CARDS_BURNED": "__Cartes sélectionnées [ {{totalCards}} ]__",
+    "CONFIRM_ASK": "{{author}} Êtes-vous sûr(e) de vouloir burn __irréversiblement__ les cartes ci-dessous?",
+    "MISSING_CARDS": "{{author}} Au moins une des cartes sélectionnées n'est plus dans votre collection",
+    "SUCCESS": "{{author}} Les cartes sélectionnées ont été burn avec succès",
+    "BURN_REWARDS": "__Récompenses__",
+    "EMBED_TITLE": "SOFI: MASSBURN",
+    "LOCKED_CARDS_WARNING": "{{author}} Les cartes qui sont verrouillées, un variant **GIF** ou utilisées dans un deck ne peuvent pas être burn"
 }
