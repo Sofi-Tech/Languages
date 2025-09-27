@@ -1,8 +1,8 @@
 {
-  "MARKETUNLIST_DESCRIPTION": "Utilisez cette commande pour retirer votre annonce du marché",
-  "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}mul <IDdel'Annonce/All>`",
-  "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fourni est soit invalide soit n'est pas le votre",
-  "SUCCESS_UL": "{{user}} L'offre suivante a été retirée du marché avec succès: `{{dealId}}`",
-  "NO_LISTINGS_FOUND": "{{user}} Vous n'avez actuellement aucune offre",
-  "SUCCESS_UL_ALL": "{{user}} Toutes vos offres ont été retirées du marché avec succès"
+    "MARKETUNLIST_DESCRIPTION": "Utilisez cette commande pour retirer votre annonce du marché",
+    "CORRECT_USAGE": "{{user}} Utilisation correcte: `{{prefix}}mul <IDdel'Annonce/All>`",
+    "INVALID_DEAL_ID": "{{author}} L'ID de l'Annonce fourni est soit invalide soit n'est pas le votre",
+    "SUCCESS_UL": "{{user}} L'annonce suivante a été retirée du marché avec succès: `{{dealId}}`",
+    "NO_LISTINGS_FOUND": "{{user}} Vous n'avez actuellement aucune offre",
+    "SUCCESS_UL_ALL": "{{user}} Toutes vos offres ont été retirées du marché avec succès"
 }

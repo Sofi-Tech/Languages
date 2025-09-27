@@ -1,7 +1,7 @@
 {
-    "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois. En ajoutant les filtres Gen/Tag/Liste De Souhaits, vous pouvez spécifier quelles cartes vous voulez burn",
+    "MASSBURN_DESCRIPTION": "Utilisez cette commande pour burn plusieurs cartes à la fois. En ajoutant les filtres Gen/Tag/Liste de Souhaits, vous pouvez spécifier quelles cartes vous voulez burn",
     "IN_ACTIVE_MB": "{{user}} Vous ne pouvez pas commencer un nouveau **Massburn** lorsqu'un précédent est toujours actif",
-    "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n```fix\nNote: Précisez quelles cartes vous souhaitez brûler en appliquant des filtres Gen/Tag/Liste De Souhaits. Vous pouvez trouver une liste complète des filtres en utilisant la commande \"{{prefix}}help filters\"\n```",
+    "PROVIDE_FILTERS": "{{author}} Utilisation correcte: `{{prefix}}mb <Filtres>`\n```fix\nNote: Précisez quelles cartes vous souhaitez brûler en appliquant des filtres Gen/Tag/Liste de Souhaits. Vous pouvez trouver une liste complète des filtres en utilisant la commande \"{{prefix}}help filters\"\n```",
     "WRONG_TAG": "{{author}} Aucun tag nommé `{{arg}}`n'a été trouvé",
     "NO_CARDS_FOUND": "{{author}} Impossible de trouver des cartes correspondantes à vos critères de recherche\n```fix\nNote: Les cartes qui sont verrouillées, en version GIF ou utilisées dans un deck ne peuvent pas être brûlées\n```",
     "CARDS_BURNED": "__Cartes sélectionnées [ {{totalCards}} ]__",
