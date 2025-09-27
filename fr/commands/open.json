@@ -2,7 +2,7 @@
     "OPEN_DESCRIPTION": "Utilisez cette commande pour ouvrir des coffres obtenus par diverses activités sur Sofi",
     "SLASH_DESC_1": "Entrez l'item que vous voulez ouvrir",
     "SLASH_DESC_2": "Entrez le montant",
-    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}open <NomDItem> <Montant>`",
+    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}open <NomD'Item> <Montant>`",
     "EMPTY_INV": "{{author}} Votre inventaire est vide",
     "CHARM_MISSING": "{{author}} Vous n'avez pas de **Charms**",
     "SOFI_CARDS_MISSING": "{{author}} Il n'y a actuellement pas assez de cartes dans la collection de Sofi",
