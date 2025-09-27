@@ -17,13 +17,13 @@
     "NO_CARD": "{{author}} La carte n'est plus dans votre collection",
     "MORPH_CONFIRM": "{{author}} A appliqué le morph **{{morphName}}** à votre carte avec succès",
     "REROLL": "\nVous ne pouvez plus annuler de morphs",
-    "UNDO_SUCCESSFUL": "\nLe morph précédent à été restauré pour **{{amount}}** {{emoji}}",
+    "UNDO_SUCCESSFUL": "\nLe morph précédent a été restauré pour **{{amount}}** {{emoji}}",
     "MNC_CARDS_CANNOT_MORPH": "{{author}} Les cartes **3D Monochrome 2023** ne peuvent pas être morph",
     "NO_SPECIAL_REROLLED": "Pas de morph spécial obtenu",
     "CANNOT_APPLY_MNC": "{{author}} Vous ne pouvez pas appliquer de morph {{article}} **{{eventType}}** sur des cartes **{{eventCardType}}** ou **3D**",
     "MNC_EMBED_TITLE": "SOFI: MORPH ({{eventMorph}})",
     "MNC_REROLL_COST": "Toute relance coûtera 1 {{currencyName}}",
-    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}m <CodeDeCarte> <ItemàMorph>`",
+    "CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}m <CodeDeCarte> <ItemÀMorph>`",
     "EMBED_TITLE": "SOFI: MORPH ({{cardCode}})",
     "NONE": "Aucun",
     "ROLL_MORPH": "Le morph sera perdu après 2 minutes",
@@ -31,5 +31,5 @@
     "CANNOT_APPLY_3D": "{{author}} Vous ne pouvez pas appliquer le morph {{article}} **{{eventType}}** sur une carte **3D**",
     "EC_REROLL_COST": "Chaque groupe de 5 rolls coûte 1 Energy Crystal",
     "MORPH_CURRENT_ROLLS": "Rolls Actuels: **{{count}}/5**",
-    "CANNOT_MORPH_BANNER": "{{author}} Le code de **Banner** que vous avez fourni est soit invalide soit n'est pas dans votre collection"
+    "CANNOT_MORPH_BANNER": "{{author}} Le code de **Banner** que vous avez fourni est invalide ou n'est pas dans votre collection"
 }

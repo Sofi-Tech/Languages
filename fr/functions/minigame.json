@@ -1,6 +1,6 @@
 {
-  "EXTRA_GRAB": "{{user}} Votre Extra **Grab** a été utilisé. Il vous en reste **{{remaining}}**",
-  "GRAB_COOLDOWN": "{{user}} Vous devez attendre **{{cooldown}}** pour grab une autre carte",
-  "CLAIMED_CARD": "{{user}} a gagné la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "EMBED_TITLE": "SOFI: MINIGAME"
+    "EXTRA_GRAB": "{{user}} Votre Extra **Grab** a été utilisé. Il vous en reste **{{remaining}}**",
+    "GRAB_COOLDOWN": "{{user}} Vous devez attendre **{{cooldown}}** pour grab une autre carte",
+    "CLAIMED_CARD": "{{user}} a gagné la carte **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
+    "EMBED_TITLE": "SOFI: MINIGAME"
 }
