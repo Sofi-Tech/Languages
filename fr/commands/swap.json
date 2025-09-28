@@ -1,5 +1,5 @@
 {
-    "SWAP_DESCRIPTION": "Cette commande peut-être utilisée pour swap des cosmétiques spécifiques entre 2 cartes",
+    "SWAP_DESCRIPTION": "Cette commande peut-être utilisée pour échanger des cosmétiques spécifiques entre 2 cartes",
     "SWAP_CATEGORY": "Cosmétiques",
     "MENU_FRAME_LABEL": "Frame",
     "MENU_COLOR_LABEL": "Couleur de la Police",
@@ -22,5 +22,8 @@
     "MENU_SERIESCOLOR_LABEL": "Couleur de la Série",
     "MENU_LAYER_LABEL": "Layer",
     "MENU_EM_LABEL": "Energized Morph",
-    "SWAP_SAME": "{{author}} Vous devez sélectionner deux cartes distinctes pour effectuer un swap"
+    "SWAP_SAME": "{{author}} Vous devez sélectionner deux cartes distinctes pour effectuer un swap",
+    "MENU_LAYER1_LABEL": "Layer 1",
+    "MENU_LAYER2_LABEL": "Layer 2",
+    "MENU_LAYER3_LABEL": "Layer 3"
 }
