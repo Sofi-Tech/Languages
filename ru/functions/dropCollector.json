@@ -13,5 +13,7 @@
     "TOOK_ELEMENT_ALONE": "{{user}} подобрал **{{elementName}}** элемент {{elementEmoji}}",
     "TOOK_ELEMENT_PART": "{{user}} сразил {{userId}} и стащил **{{elementName}}**",
     "TOOK_ELEMENT_MULTI": "{{user}} сразил **{{userCount}}** и подобрал **{{elementName}}** {{elementEmoji}}",
-    "EVENT_GRAB": "{{user}} изящно подобрал {{currencyEmoji}} **{{amount}}** **{{eventItem}}**"
+    "EVENT_GRAB": "{{user}} изящно подобрал {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
+    "ETHEREAL_CLAIM_EMBED_TITLE": "Вы получили карту элемента Ethereal!",
+    "ETHEREAL_CLAIM_INFO": "Карты с высокими характеристиками редки и высоко ценятся игроками. Карты с базовыми характеристиками 600 и более встречаются очень редко.\nОбязательно изучите стоимость карты перед торговлей и подумайте о том, чтобы собрать несколько мнений, которые помогут вам оценить ее истинную стоимость."
 }
