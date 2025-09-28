@@ -1,10 +1,10 @@
 {
-  "GUILDLEADERBOARD_DESCRIPTION": "Данная команда отображает результаты гильдий за любое текущее состязание, а также оставшееся время",
-  "GUILDLEADERBOARD_CATEGORY": "Гильдии",
-  "GRACE_ENDS": "**Льготный период закончится: {{time}}**",
-  "SEASON_ENDS": "**Сезон закончится: {{time}}**",
-  "GLB_TOTAL_GUILDS": "Всего гильдий",
-  "GLB_TOTAL_RAIDS": "Всего нападений",
-  "GLB_EMBED_FOOTER": "S{{season}}: Сезоны длятся 24 дня.",
-  "GLB_TOTAL_REVENGE": "Всего мести"
+    "GUILDLEADERBOARD_DESCRIPTION": "Данная команда отображает результаты гильдий за любое текущее состязание, а также оставшееся время",
+    "GUILDLEADERBOARD_CATEGORY": "Гильдии",
+    "GRACE_ENDS": "**Льготный период закончится: {{time}}**",
+    "SEASON_ENDS": "**Сезон закончится: {{time}}**",
+    "GLB_TOTAL_GUILDS": "Всего гильдий",
+    "GLB_TOTAL_RAIDS": "Всего нападений",
+    "GLB_EMBED_FOOTER": "S{{season}}: Сезоны длятся 24 дня.",
+    "GLB_TOTAL_REVENGE": "Всего мести"
 }

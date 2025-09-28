@@ -14,5 +14,6 @@
     "GUILD_JOIN_REJECT": "{{member}} Вы отказали {{author}} в становлении **Newbie** в вашей гильдии",
     "NOT_FOUNDER": "{{author}} Данный пользователь не является **Founder** или **Guildmaster**",
     "GUILD_JOIN_CONFIRM": "{{member}}, {{author}} хочет вступить в вашу гильдию.\nПринимаете ли вы данного пользователя в вашу гильдию как **Newbie**?",
-    "GUILD_JOIN_ACCEPT": "{{member}} Вы приняли {{author}} в вашу гильдию как **Newbie**"
+    "GUILD_JOIN_ACCEPT": "{{member}} Вы приняли {{author}} в вашу гильдию как **Newbie**",
+    "GJ_EMBED_TITLE": "SOFI: GUILD JOIN"
 }
