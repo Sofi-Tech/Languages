@@ -24,5 +24,13 @@
     "BANNER_MAXIMUM_CREATIONS": "Для этого баннера достигнут предел количества баннеров, которые можно создать.",
     "ALREADY_PROJECT_SERIES": "У вас уже имеется проект баннера из этой серии. Пожалуйста удалите его перед созданием нового.",
     "PROJECT_CREATED": "Успешно создан проект баннера для **{{series}}**",
-    "NO_CHAR_NOT_OWNED": "{{author}} В этой серии нет персонажей которых вам не хватает"
+    "NO_CHAR_NOT_OWNED": "{{author}} В этой серии нет персонажей которых вам не хватает",
+    "BANNERS_EMBED_FOOTER": "Баннеров создано: {{index}}/{{total}}",
+    "VIEW_COMBO_BUTTON_LABEL": "Посмотреть Combos",
+    "VIEW_BANNERS_BUTTON_LABEL": "Посмотреть Banners",
+    "SET_BANNER_BUTTON_LABEL": "Установить Banner",
+    "BACK_CHARACTERS_BUTTON_LABEL": "Назад к персонажам",
+    "NO_COMBO_FOUND": "Не найдено персонажей для Combo из этой серии.",
+    "COMBO_SERIES_DATA": "Найдено {{count}} комбо карт из {{series}}\nНапишите номер ниже для того чтобы посмотреть детали.",
+    "MAXIMUM_PROJECTS": "Вы достигли максимального количества проектов. Удалите/завершите проект, чтобы создать новый"
 }
