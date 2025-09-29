@@ -1,6 +1,6 @@
 {
     "EXTRA_GRAB": "{{user}} **Grab** bổ sung của bạn đã được sử dụng. Còn lại **{{remaining}}** lần",
-    "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để nhặt một thẻ khác",
+    "GRAB_COOLDOWN": "{{user}} Bạn phải đợi **{{cooldown}}** để nhặt thêm một thẻ khác",
     "CARDS_DROPPED_BY": "{{user}} đã **thả** thẻ",
     "CANNOT_BE_GRABBED": "{{user}} Những thẻ dưới đây không thể **nhặt** được nữa",
     "GRAB_VERSION_PLURAL": "{{winner}} đã đánh bại **{{userCount}}** người chơi khác và **giành được** Version Token của **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nSử dụng lệnh `{{prefix}}vt` để xem Version Token này",
@@ -12,5 +12,10 @@
     "GRAB_CARD": "{{winner}} đã đánh bại {{user}} và **giành được** thẻ **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}**{{eventCardInfo}}",
     "TOOK_ELEMENT_PART": "{{user}} đã đánh bại {{userId}} và giành được **{{elementName}}**",
     "TOOK_ELEMENT_MULTI": "{{user}} đã đánh bại **{{userCount}}** người chơi khác và giành được **{{elementName}}** {{elementEmoji}}",
-    "TOOK_ELEMENT_ALONE": "{{user}} đã nhặt **{{elementName}}** element {{elementEmoji}}"
+    "TOOK_ELEMENT_ALONE": "{{user}} đã nhặt **{{elementName}}** element {{elementEmoji}}",
+    "EVENT_GRAB": "{{user}} đã thu thập được {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
+    "SNATCHED_EVENT_ITEM": "{{winner}} đã quyến rũ <@{{userId}}> và lấy đi **{{amount}} {{eventItem}}** 🐚",
+    "GRAB_EVENT_ITEM": "{{winner}} đã quyến rũ {{userCount}} người và lấy đi **{{amount}} {{eventItem}}** 🐚",
+    "ETHEREAL_CLAIM_EMBED_TITLE": "Bạn đã nhận được Thẻ Ethereal!",
+    "ETHEREAL_CLAIM_INFO": "Thẻ có chỉ số cao rất hiếm và được rất nhiều người chơi săn lùng\nNhững thẻ với chỉ số cơ bản trên 600 là cực kỳ hiếm."
 }

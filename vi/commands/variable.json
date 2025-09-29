@@ -44,5 +44,7 @@
     "SOMETHING_WENT_WRONG": "{{author}} Có gì đó không ổn, vui lòng thử lại",
     "G1_CLAIM_EMBED_TITLE": "**THẺ GEN {{gen}} ĐÃ ĐƯỢC NHẬN**",
     "G1_CLAIM_INFO": "Thẻ Gen một chữ số là cực kỳ hiếm và được rất nhiều người chơi săn lùng. Bản sao của các gen này cũng cực kỳ hiếm.\nHãy tìm hiểu kĩ giá trị của thẻ trước khi giao dịch và tham khảo ý kiến từ các fan cứng để đánh giá chính xác giá trị thực của nó.\nBạn có thể kiểm tra các fan cứng của nhân vật này bằng cách sử dụng lệnh \"{{prefix}}charlookup\".",
-    "NEGATIVE_VALUE_INVENTORY": "{{user}} Kho đồ của bạn có giá trị âm. Hãy liên hệ với chúng tôi tại Máy Chủ Hỗ Trợ\ndiscord.gg/sofi"
+    "NEGATIVE_VALUE_INVENTORY": "{{user}} Kho đồ của bạn có giá trị âm. Hãy liên hệ với chúng tôi tại Máy Chủ Hỗ Trợ\ndiscord.gg/sofi",
+    "ETHEREAL_CLAIM_EMBED_TITLE": "Bạn đã nhận được Thẻ Ethereal!",
+    "ETHEREAL_CLAIM_INFO": "Thẻ có chỉ số cao rất hiếm và được rất nhiều người chơi săn lùng\nNhững thẻ với chỉ số cơ bản trên 600 là cực kỳ hiếm."
 }
