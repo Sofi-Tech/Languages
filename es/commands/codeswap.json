@@ -1,8 +1,8 @@
 {
-  "CODESWAP_DESCRIPTION": "Con este comando podrás cambiar los códigos de las dos cartas especificadas",
-  "SLASH_DESC": "Introduce el primer código",
-  "SLASH_DESC2": "Introduce el segundo código",
-  "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}cs <Código1> <Código2>`",
-  "INVALID_CODES_PROVIDED": "{{author}} Al menos uno de los códigos de carta que proporcionaste no es válido o no se encuentra en tu colección",
-  "SUCCESSFUL_CODE_SWAP": "{{author}} Se han ntercambiado los códigos de las cartas seleccionadas con exito"
+    "CODESWAP_DESCRIPTION": "Con este comando podrás cambiar los códigos de las dos cartas especificadas",
+    "SLASH_DESC": "Introduce el primer código",
+    "SLASH_DESC2": "Introduce el segundo código",
+    "CORRECT_USAGE": "{{author}} Uso correcto: `{{prefix}}cs <Código1> <Código2>`",
+    "INVALID_CODES_PROVIDED": "{{author}} Al menos uno de los códigos de carta que proporcionaste no es válido o no se encuentra en tu colección",
+    "SUCCESSFUL_CODE_SWAP": "{{author}} Se han ntercambiado los códigos de las cartas seleccionadas con exito"
 }
