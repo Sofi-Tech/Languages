@@ -1,9 +1,9 @@
 {
-  "WISHLISTLB_DESCRIPTION": "Este comando mostrara un mensaje embed mostrando la clasificacion de los personajes más deseados en Sofi",
-  "CATEGORY": "Lista de deseados",
-  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-  "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",
-  "CHARACTER_BUTTON_LABEL": "Personajes",
-  "SERIES_BUTTON_LABEL": "Serie",
-  "INVALID_CATEGORY": "La categoría proveída es invalida"
+    "WISHLISTLB_DESCRIPTION": "Este comando mostrara un mensaje embed mostrando la clasificacion de los personajes más deseados en Sofi",
+    "CATEGORY": "Lista de deseados",
+    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+    "EMBED_FOOTER": "Mostrando página: {{page}}/{{pages}}",
+    "CHARACTER_BUTTON_LABEL": "Personajes",
+    "SERIES_BUTTON_LABEL": "Serie",
+    "INVALID_CATEGORY": "La categoría proveída es invalida"
 }

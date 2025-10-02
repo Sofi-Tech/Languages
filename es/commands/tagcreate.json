@@ -1,11 +1,11 @@
 {
-  "TAGCREATE_DESCRIPTION": "Con este comando puedes crear un tag para categorizar y agrupar múltiples códigos bajo tus propios criterios. Usa el comando \"{{prefix}}tag\" para asignar tus tags creados a tus cartas o Version Tokens",
-  "TC_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Forma correcta: `{{prefix}}tc <NombreDelTag> <Emote>`",
-  "INVALID_EMOJI": "{{author}} Ese emote no es válido",
-  "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu tag tiene que ser alfanumérico y no contener caracteres especiales, espacios o profanidades de ningún tipo",
-  "LONG_TAGNAME": "{{author}} El nombre de tu tag solo puede tener **20** caracteres",
-  "TAGNAME_EXISTS": "{{author}} Ya tienes un tag con el nombre `{{tag}}`",
-  "TAG_CREATED": "{{author}} Creado con éxito un tag con el nombre `{{tag}}` | {{emoji}}",
-  "TC_MAX_TAGS": "{{author}} Has alcanzado el máximo de tags que puedes crear"
+    "TAGCREATE_DESCRIPTION": "Con este comando puedes crear un tag para categorizar y agrupar múltiples códigos bajo tus propios criterios. Usa el comando \"{{prefix}}tag\" para asignar tus tags creados a tus cartas o Version Tokens",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Forma correcta: `{{prefix}}tc <NombreDelTag> <Emote>`",
+    "INVALID_EMOJI": "{{author}} Ese emote no es válido",
+    "INVALID_TAGNAME_FORMAT": "{{author}} El nombre de tu tag tiene que ser alfanumérico y no contener caracteres especiales, espacios o profanidades de ningún tipo",
+    "LONG_TAGNAME": "{{author}} El nombre de tu tag solo puede tener **20** caracteres",
+    "TAGNAME_EXISTS": "{{author}} Ya tienes un tag con el nombre `{{tag}}`",
+    "TAG_CREATED": "{{author}} Creado con éxito un tag con el nombre `{{tag}}` | {{emoji}}",
+    "TC_MAX_TAGS": "{{author}} Has alcanzado el máximo de tags que puedes crear"
 }
