@@ -1,11 +1,11 @@
 {
-  "TAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag kreieren, um deine Codes nach deinen eigenen Kriterien zu kategorisieren und gruppieren. Verwende den \"{{prefix}}tag\", um Tags deinen Karten oder Version Token zuzuweisen",
-  "TC_CATEGORY": "Tags",
-  "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
-  "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines Tags muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
-  "LONG_TAGNAME": "{{author}} Dein Tag-Name darf höchstens **20** Zeichen lang sein",
-  "TAGNAME_EXISTS": "{{author}} Du hast bereits einen Tag mit dem Namen `{{tag}}`",
-  "TAG_CREATED": "{{author}} Erfolgreich einen Tag mit dem Namen `{{tag}}` | {{emoji}} erstellt",
-  "TC_MAX_TAGS": "{{author}} Du hast die maximale Anzahl von Tags, die du erstellen kannst, erreicht"
+    "TAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag kreieren, um deine Codes nach deinen eigenen Kriterien zu kategorisieren und gruppieren. Verwende den \"{{prefix}}tag\", um Tags deinen Karten oder Version Token zuzuweisen",
+    "TC_CATEGORY": "Tags",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}tc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines Tags muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten",
+    "LONG_TAGNAME": "{{author}} Dein Tag-Name darf höchstens **20** Zeichen lang sein",
+    "TAGNAME_EXISTS": "{{author}} Du hast bereits einen Tag mit dem Namen `{{tag}}`",
+    "TAG_CREATED": "{{author}} Erfolgreich einen Tag mit dem Namen `{{tag}}` | {{emoji}} erstellt",
+    "TC_MAX_TAGS": "{{author}} Du hast die maximale Anzahl von Tags, die du erstellen kannst, erreicht"
 }

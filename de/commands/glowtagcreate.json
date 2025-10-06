@@ -1,9 +1,9 @@
 {
-  "GLOWTAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag erstellen um deine Glows zu kategorisieren und mehrere Glows zu gruppieren nach deinen Kriterien. Benutze den \"{{prefix}}glowtag\" Befehl um deine Glows deinen Tags zuzuordnen",
-  "GTC_CATEGORY": "Tags",
-  "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gtc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} Du hast bereits einen **Glow** Tag mit diesem Namen",
-  "CREATED_GLOWTAG": "{{author}} Ein **Glow** Tag mit dem Namen `{{tag}}` | {{emoji}} wurde erfolgreich erstellt",
-  "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines Tags muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten"
+    "GLOWTAGCREATE_DESCRIPTION": "Mit diesem Befehl kannst du einen Tag erstellen um deine Glows zu kategorisieren und mehrere Glows zu gruppieren nach deinen Kriterien. Benutze den \"{{prefix}}glowtag\" Befehl um deine Glows deinen Tags zuzuordnen",
+    "GTC_CATEGORY": "Tags",
+    "CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}gtc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} Dieses Emoji ist ungültig",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} Du hast bereits einen **Glow** Tag mit diesem Namen",
+    "CREATED_GLOWTAG": "{{author}} Ein **Glow** Tag mit dem Namen `{{tag}}` | {{emoji}} wurde erfolgreich erstellt",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Der Name deines Tags muss alphanumerisch sein und darf keine Sonderzeichen, Leerzeichen oder Obszönitäten enthalten"
 }

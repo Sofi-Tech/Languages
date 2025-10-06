@@ -1,12 +1,12 @@
 {
-  "NON_3D_CARDS": "{{author}} Du kannst kein **Background** auf Karten anwenden die nicht 3D sind",
-  "BACKGROUND_DESCRIPTION": "Sobald eine Karte in dessen 3D-Variante konvertiert wurde, kannst du diesen Befehl nutzen, um dieser einen Background zu geben. Nutze den \"{{prefix}}backgroundshop\" Befehl, um Backgrounds zu kaufen",
-  "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}bg <KartenCode> <Background-ID>`",
-  "INVALID_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
-  "BG_CATEGORY": "Kosmetika",
-  "USER_NO_BG": "{{author}} Du hast diesen **Background** nicht",
-  "EMBED_TITLE": "SOFI: BACKGROUND",
-  "BG_NOT_FOUND": "{{author}} Es konnte kein **Background** mit dieser ID gefunden werden",
-  "EMBED_DESCRIPTION": "Bist du dir sicher, dass du den **{{background}}** **Background** auf diese Karte anwenden möchtest?",
-  "BG_APPLY_SUCCESSFUL": "{{author}} Der **{{background}}** **Background** wurde erfolgreich für deine Karte angewendet"
+    "NON_3D_CARDS": "{{author}} Du kannst kein **Background** auf Karten anwenden die nicht 3D sind",
+    "BACKGROUND_DESCRIPTION": "Sobald eine Karte in dessen 3D-Variante konvertiert wurde, kannst du diesen Befehl nutzen, um dieser einen Background zu geben. Nutze den \"{{prefix}}backgroundshop\" Befehl, um Backgrounds zu kaufen",
+    "WRONG_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}bg <KartenCode> <Background-ID>`",
+    "INVALID_CODE": "{{author}} Der angegebene Kartencode ist entweder ungültig oder befindet sich nicht in deiner Sammlung",
+    "BG_CATEGORY": "Kosmetika",
+    "USER_NO_BG": "{{author}} Du hast diesen **Background** nicht",
+    "EMBED_TITLE": "SOFI: BACKGROUND",
+    "BG_NOT_FOUND": "{{author}} Es konnte kein **Background** mit dieser ID gefunden werden",
+    "EMBED_DESCRIPTION": "Bist du dir sicher, dass du den **{{background}}** **Background** auf diese Karte anwenden möchtest?",
+    "BG_APPLY_SUCCESSFUL": "{{author}} Der **{{background}}** **Background** wurde erfolgreich für deine Karte angewendet"
 }
