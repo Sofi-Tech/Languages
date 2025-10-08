@@ -3,7 +3,12 @@
   "SHEET_CATEGORY": "Settings",
   "NO_GUILD_INFO": "{{author}} You are currently not in any guild",
   "NO_VAULT_LOGS": "{{author}} There currently are no vault logs",
-  "DM_FILE": "{{author}} A .csv file has been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
+  "DM_FILE_zero": "{{author}} {{count}} .csv file have been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
+  "DM_FILE_one": "{{author}} {{count}} .csv file have been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
+  "DM_FILE_two": "{{author}} {{count}} .csv files have been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
+  "DM_FILE_few": "{{author}} {{count}} .csv files have been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
+  "DM_FILE_many": "{{author}} {{count}} .csv files have been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
+  "DM_FILE_other": "{{author}} {{count}} .csv files have been sent to you via direct message\n\n> **Note**: When importing the file into excel or spreadsheet programs, make sure to set the separator to \"comma\"!",
   "CANNOT_DM": "{{author}} Could not send you the spreadsheet file. Make sure that your direct messages are open!",
   "NO_COLLECTION": "{{author}} You do not have any cards in your collection"
 }
