@@ -1,9 +1,8 @@
 {
-  "NO_GUILD_INFO": "{{author}} Actualmente no estás en ningún gremio",
-  "NO_VAULT_LOGS": "{{author}} Actualmente no hay registros del vault",
-  "SHEET_CATEGORY": "Configuración",
-  "DM_FILE": "{{author}} Se te ha enviado un archivo .csv por mensaje directo\n\n> **Nota**: Al importar el archivo en Excel o programas de hojas de cálculo, asegúrate de establecer como separador una \"coma\"!",
-  "CANNOT_DM": "{{author}} No se ha podido enviar el archivo de hoja de cálculo a tu chat directo. Asegúrate de que tus mensajes directos están abiertos!",
-  "NO_COLLECTION": "{{author}} No tienes ninguna carta en tu colección",
-  "SPREADSHEET_DESCRIPTION": "Cuando uses este comando, Sofi creará un archivo .csv que contendrá la información de todas las cartas en tu colección. También puedes conseguir un archivo .csv mas detallado de tu gremio agregando el parámetro \"Guild\" al comando"
+    "NO_GUILD_INFO": "{{author}} Actualmente no estás en ningún gremio",
+    "NO_VAULT_LOGS": "{{author}} Actualmente no hay registros del vault",
+    "SHEET_CATEGORY": "Configuración",
+    "CANNOT_DM": "{{author}} No se ha podido enviar el archivo de hoja de cálculo a tu chat directo. Asegúrate de que tus mensajes directos están abiertos!",
+    "NO_COLLECTION": "{{author}} No tienes ninguna carta en tu colección",
+    "SPREADSHEET_DESCRIPTION": "Cuando uses este comando, Sofi creará un archivo .csv que contendrá la información de todas las cartas en tu colección. También puedes conseguir un archivo .csv mas detallado de tu gremio agregando el parámetro \"Guild\" al comando"
 }
