@@ -45,10 +45,12 @@
     "EMBED_AUTHOR": "SOFI: USERINFO ({{username}} - {{status}})",
     "UI_TP_EXPIRED": "Expiré",
     "LANG_CHANGE_SUCCESS": "Votre langue a été modifiée avec succès en **{{language}}**! Veuillez noter que notre mise à jour de traduction en est encore aux premières phases de développement et ne couvre pas encore toutes nos commandes existantes!\n\nLes commandes non traduites incluent:\n\n- **Deck**\n- **Stats**\n- **Event**\n\nSi vous trouvez du texte manquant, une traduction défectueuse ou des encarts et fonctions cassées lors de l'utilisation de cette langue, nous vous encourageons à signaler ces problèmes en utilisant la commande `{{prefix}}lrt <Input>`. Également, vous pouvez signaler vos découvertes sur notre [Serveur de Support Officiel](<https://discord.gg/sofi>)!",
-    "CHOOSE_LANGUAGE_PLACEHOLDER": "Choose your language",
+    "CHOOSE_LANGUAGE_PLACEHOLDER": "Choisissez votre langue",
     "UI_INVITED": "Invités",
     "UI_RAIDS": "Raids",
     "UI_BANNERS": "Banners",
     "UI_BANNERS_CREATED": "Banners Éditées",
-    "UI_COMBOS": "Combos"
+    "UI_COMBOS": "Combos",
+    "UI_SERIESDROP": "Drops de Séries",
+    "UI_DENIED": "Rejeté"
 }
