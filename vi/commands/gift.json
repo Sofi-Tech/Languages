@@ -1,4 +1,14 @@
 {
     "GIFT_DESCRIPTION": "Tặng thẻ cho một người ngẫu nhiên.",
-    "NO_ACTIVE_EVENT": "{{author}} Không có sự kiện nào đang diễn ra"
+    "NO_ACTIVE_EVENT": "{{author}} Không có sự kiện nào đang diễn ra",
+    "GIFT_CATEGORY": "Thẻ",
+    "GIFT_SLASH_DESC": "Chọn một người bạn muốn tặng {{eventItem}}",
+    "GIFT_SLASH_DESC2": "Nhập số lượng `{{eventItem}}` bạn muốn tặng",
+    "GIFT_WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gift <CardCode>`",
+    "INVALID_USER": "{{author}} Bạn không thể tặng **{{eventItem}}** cho mình",
+    "INVALID_AMOUNT": "{{author}} Bạn không thể tặng số lượng âm của vật phẩm",
+    "NOT_ENOUGH_ITEM": "{{author}} Bạn không có **{{amount}}** **{{eventItem}}**",
+    "PLAYER_NOT_EXISTS": "{{author}} Người dùng đó chưa đăng ký",
+    "GIFT_SUCCESSFUL": "{{author}} đã tặng **{{amount}}** **{{eventItem}}** cho {{user}}\n{{user}} đã nhận **{{recieveCount}}** **{{eventItem}}**",
+    "EMBED_TITLE": "SOFI: GIFT"
 }
