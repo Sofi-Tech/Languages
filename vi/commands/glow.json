@@ -3,7 +3,7 @@
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}glow <CardCode> <#GlowCode>`",
     "WRONG_CARD": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "NO_GIF_CARDS": "{{author}} Bạn không thể áp dụng **Glow** cho thẻ **GIF**",
-    "GLOW_DESCRIPTION": "Lệnh này sẽ áp dụng Glow được chỉ định cho thẻ từ bộ sưu tập của bạn. Glow thêm hiệu ứng phát sáng xung quanh đường viền khung thẻ của bạn. Bạn có thể mua Glow bằng cách sử dụng lệnh \"{{prefix}}unlockglow\"",
+    "GLOW_DESCRIPTION": "Lệnh này sẽ áp dụng Glow cho một thẻ từ bộ sưu tập của bạn. Glow thêm hiệu ứng phát sáng xung quanh đường viền khung thẻ. Bạn có thể mua Glow bằng cách sử dụng lệnh \"{{prefix}}unlockglow\"",
     "EMBED_GLOW_TITLE": "SOFI: APPLY GLOW",
     "GLOW_NAME": "Tên: **{{name}}**",
     "GLOW_CODE": "Mã: `#{{code}}`",

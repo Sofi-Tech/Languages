@@ -1,10 +1,10 @@
 {
-  "GUILDLEADERBOARD_DESCRIPTION": "Lệnh này hiển thị điểm số và xếp hạng của các bang hội cho những giải đấu đang diễn ra và cả thời gian còn lại của giải đấu",
-  "SEASON_ENDS": "**Mùa Giải Kết Thúc: {{time}}**",
-  "GRACE_ENDS": "**Grace Kết Thúc: {{time}}**",
-  "GLB_TOTAL_RAIDS": "Tổng Raid",
-  "GLB_TOTAL_GUILDS": "Tổng Bang Hội",
-  "GUILDLEADERBOARD_CATEGORY": "Bang Hội",
-  "GLB_TOTAL_REVENGE": "Tổng Trả Thù",
-  "GLB_EMBED_FOOTER": "S{{season}}: Mùa giải bang hội kéo dài trong 24 ngày."
+    "GUILDLEADERBOARD_DESCRIPTION": "Lệnh này hiển thị điểm số và xếp hạng của các bang hội cho những giải đấu đang diễn ra và thời gian còn lại của giải đấu",
+    "SEASON_ENDS": "**Mùa Giải Kết Thúc: {{time}}**",
+    "GRACE_ENDS": "**Grace Kết Thúc: {{time}}**",
+    "GLB_TOTAL_RAIDS": "Tổng Raid",
+    "GLB_TOTAL_GUILDS": "Tổng Bang Hội",
+    "GUILDLEADERBOARD_CATEGORY": "Bang Hội",
+    "GLB_TOTAL_REVENGE": "Tổng Trả Thù",
+    "GLB_EMBED_FOOTER": "S{{season}}: Mùa giải bang hội kéo dài trong 24 ngày."
 }

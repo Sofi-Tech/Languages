@@ -3,7 +3,7 @@
     "GEM_RATE_LIES": "{{user}} Tỷ lệ được cung cấp phải nằm trong khoảng **3.0 - 20.0**",
     "ALREADY_EXISTS": "{{author}} Sử dụng lệnh `{{prefix}}mul {{dealID}}` để xóa đơn hàng hiện tại của bạn trước",
     "RATE": "Tỷ lệ:",
-    "MARKETLIST_DESCRIPTION": "Sử dụng lệnh này để liệt kê Wist của bạn trên thị trường để đổi lấy Gem",
+    "MARKETLIST_DESCRIPTION": "Sử dụng lệnh này để đưa Wist của bạn lên thị trường để đổi lấy Gem",
     "QUARANTINED": "{{author}} Bạn đang bị cách ly",
     "EMBED_TITLE": "SOFI: MARKET LISTING",
     "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}ml <Amount> <Rate>`",

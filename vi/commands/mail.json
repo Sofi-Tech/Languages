@@ -1,14 +1,14 @@
 {
-  "MAIL_CATEGORY": "Cài đặt",
-  "NO_MAILS_FOUND": "{{author}} Bạn không có thư trong hòm thư",
-  "MAIL_DESCRIPTION": "Lệnh này dùng để mở hòm thư của bạn, bạn có thể tìm thấy một số tin nhắn được gửi bởi Sofi, các tin nhắn này sẽ thông báo về các sự kiện, cũng như là thông báo về các thay đổi và những tính năng mới",
-  "MENU_PLACEHOLDER": "Chọn một tùy chọn",
-  "CLAIM_REWARD_BUTTON_LABEL": "Nhận phần quà của bạn",
-  "EMBED_AUTHOR": "Hòm Thư của {{username}}",
-  "REWARD_CLAIMED_BUTTON_LABEL": "Đã nhận",
-  "CLAIMED_REWARD_ALREADY": "{{author}} Bạn đã nhận phần quà này trong câu lệnh trước đó rồi",
-  "MAIL_REWARDS": "**__Phần Quà__**\n",
-  "MAIL_FRAME": "**Frame**",
-  "EMBED_FOOTER": "Trang: {{page}}/{{pagesNum}}",
-  "REWARD_CLAIM_INVENTORY": "{{author}} Vật phẩm đính kèm đã được thêm vào kho đồ của bạn"
+    "MAIL_CATEGORY": "Cài đặt",
+    "NO_MAILS_FOUND": "{{author}} Bạn không có thư trong hòm thư",
+    "MAIL_DESCRIPTION": "Lệnh này dùng để mở hòm thư của bạn, bạn có thể tìm thấy một số tin nhắn được gửi bởi Sofi, các tin nhắn này sẽ thông báo về các sự kiện, cũng như thông báo về các thay đổi và những tính năng mới",
+    "MENU_PLACEHOLDER": "Chọn một tùy chọn",
+    "CLAIM_REWARD_BUTTON_LABEL": "Nhận phần quà của bạn",
+    "EMBED_AUTHOR": "Hòm Thư của {{username}}",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Đã nhận",
+    "CLAIMED_REWARD_ALREADY": "{{author}} Bạn đã nhận phần quà này trong câu lệnh trước đó rồi",
+    "MAIL_REWARDS": "**__Phần Quà__**\n",
+    "MAIL_FRAME": "**Frame**",
+    "EMBED_FOOTER": "Trang: {{page}}/{{pagesNum}}",
+    "REWARD_CLAIM_INVENTORY": "{{author}} Vật phẩm đính kèm đã được thêm vào kho đồ của bạn"
 }
