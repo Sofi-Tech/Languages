@@ -32,5 +32,19 @@
   "BANNER_MAXIMUM_CREATIONS": "This banner has reached the limit for the number of banners that can be created.",
   "MAXIMUM_PROJECTS": "You have reached the maximum amount of projects. Delete/Finish a project to create a new one",
   "ALREADY_PROJECT_SERIES": "You already have a banner project for this series. Please delete it before creating a new one.",
-  "PROJECT_CREATED": "Successfully created banner project for **{{series}}**"
+  "PROJECT_CREATED": "Successfully created banner project for **{{series}}**",
+  "ADD_WL_BUTTON_LABEL": "Add to Wishlist",
+  "ADD_WL_MODAL_LABEL": "Enter serial numbers (comma-separated)",
+  "ADD_WL_MODAL_PLACEHOLDER": "e.g. 1,2,3",
+  "ADD_WL_MODAL_TITLE": "Add to Wishlist",
+  "INVALID_SERIALS": "{{author}} Invalid serial numbers provided. Please ensure they are comma-separated and within the valid range.",
+  "WISHLIST_SLOTS_EXCEEDED": "{{author}} Adding these characters would exceed your wishlist capacity. You need to remove {{excess}} character(s) or you can increase your capacity using the `{{prefix}}wl` command.",
+  "ALL_CHARS_ALREADY_IN_WL": "{{author}} All specified characters are already in your wishlist.",
+  "MAX_SERIALS": "{{author}} You can only add up to 10 characters at a time to your wishlist.",
+  "ADDED_TO_WL_zero": "{{author}} Successfully added **{{count}}** character to your wishlist: \n{{names}}",
+  "ADDED_TO_WL_one": "{{author}} Successfully added **{{count}}** character to your wishlist: \n{{names}}",
+  "ADDED_TO_WL_two": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}",
+  "ADDED_TO_WL_few": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}",
+  "ADDED_TO_WL_many": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}",
+  "ADDED_TO_WL_other": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}"
 }

@@ -67,7 +67,7 @@
   "PCOLOR_PROCESS_CONSUME": "*Este processo consumirá 10 <:_:870339503427027005>*",
   "PROVIDE_PROFILE_RING": "­Insira o ID do Profile Ring para defini-lo. | Digite \"none\" para redefinir.",
   "PBG_EXIST_INV": "Você já tem **Profile Background** com o ID `{{id}}` em seu inventário",
-  "SELECT_MODAL_TITLE": "Selecione o Profile Background",
+  "PBG_MODAL_TITLE": "Selecione o Profile Background",
   "NO_PBG_INV": "Não foi possível encontrar **Profile Background** com o ID `{{id}}` no seu inventário",
   "PR_MENU_LABEL": "Profile Ring",
   "MISSING_CURRENCY": "{{author}} Você não tem **{{currency}}** suficiente para este processo",

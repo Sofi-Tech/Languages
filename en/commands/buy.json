@@ -13,6 +13,6 @@
   "NO_LAYER_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
   "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** with ID `{{layerId}}` is limited and can no longer be purchased",
   "BUY_CHARMS_MULTIPLES": "{{author}} You can only buy **Charms** in multiples of 100",
-  "BUY_CHARM_CONFIRMATION": "## You are buying {{amount}} {{itemName}} <:xcharm:988729774031638528>",
+  "BUY_CHARM_CONFIRMATION": "## You are buying {{amount}} {{itemName}} <:charmticket:1417253296338370570>",
   "BUY_GEN_CONFIRMATION": "## You are buying {{count}} {{itemName}} 💳"
 }

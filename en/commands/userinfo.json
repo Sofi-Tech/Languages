@@ -50,6 +50,7 @@
   "UI_QUARANTINED": "Quarantined",
   "UI_UNVERIFIED": "Unverified",
   "UI_VERIFIED": "Verified",
+  "UI_TRADELOCKED": "Trade Locked",
   "EMBED_AUTHOR": "SOFI: USERINFO ({{username}} - {{status}})",
   "EMBED_FOOTER": "Registered: {{date}} ago",
   "LANG_CHANGE_SUCCESS": "Your language has been successfully changed to **{{language}}**! Please note that our translation update is still in early phases of development and doesn't yet cover all of our existing commands!\n\nUntranslated commands include:\n\n- **Deck**\n- **Stats**\n- **Event**\n\nIf you find any missing text, faulty translation or broken embeds and functions while using this language, we encourage you to report these issues by using the command `{{prefix}}lrt <Input>`. Alternatively, you can report your findings on our [Official Support Server](<https://discord.gg/sofi>)!"

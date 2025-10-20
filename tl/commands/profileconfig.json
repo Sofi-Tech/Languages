@@ -85,7 +85,7 @@
   "PURHCASE_SUCCESSFUL": "Matagumpay na nabili ang **{{backgroundName}}** **Profile Background**",
   "MODAL_ERROR_RESPONSE": "Nagkaroon ng error habang kinukuha ang response. Pakisubukang muli",
   "PBG_EXIST_INV": "Mayroon ka nang **Profile Background** na may ID na `{{id}}` sa iyong imbentaryo",
-  "SELECT_MODAL_TITLE": "Pumili ng Profile Background",
+  "PBG_MODAL_TITLE": "Pumili ng Profile Background",
   "SELECT_PBG_CONFIRM": "Sigurado ka bang gusto mong piliin ang **{{backgroundName}}** na **Profile Background**?",
   "CARD_NOT_FOUND": "{{author}} Ang napiling kard ay hindi mahanap",
   "PROCESSING_GIF": "{{author}} Pinoproseso ang iyong GIF... <a:_:876610443148406794>\nMaaaring tumagal ito ng ilang oras, maaari kang magpatuloy sa paglalaro",

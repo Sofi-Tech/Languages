@@ -10,7 +10,7 @@
   "INVALID_BG_ID": "{{author}} Walang mahanap na kahit anong **Background** na mayroong ganyang ID",
   "INVALID_ITEM_PROVIDED": "{{user}} Ang aytem na iyong ibinigay ay hindi tama",
   "BUY_GEN_CONFIRMATION": "## Ikaw ay bumibili ng {{count}} {{itemName}} 💳",
-  "BUY_CHARM_CONFIRMATION": "## Ikaw ay bumibili ng {{amount}} {{itemName}} <:xcharm:988729774031638528>",
+  "BUY_CHARM_CONFIRMATION": "## Ikaw ay bumibili ng {{amount}} {{itemName}} <:charmticket:1417253296338370570>",
   "BUY_CHARMS_MULTIPLES": "{{author}} Maaari ka lamang bumili ng **Charms** sa multiples ng 100",
   "NO_LAYER_FOUND": "{{author}} Hindi mahanap ang **Layer** na may ID `{{layerId}}`",
   "LAYER_CORRECT_USAGE": "{{author}} Tamang paggamit: `{{prefix}}buy layer <Layer-ID> <Amount>`",

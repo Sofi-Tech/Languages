@@ -9,7 +9,7 @@
   "INVALID_BG_AMOUNT": "{{author}} Du kannst keine negative Anzahl eines Items kaufen",
   "INVALID_BG_ID": "{{author}} Es konnte kein **Background** mit dieser ID gefunden werden",
   "INVALID_ITEM_PROVIDED": "{{user}} Das angegebene Item ist ungülitg",
-  "BUY_CHARM_CONFIRMATION": "## Du kaufst {{amount}} {{itemName}} <:xcharm:988729774031638528>",
+  "BUY_CHARM_CONFIRMATION": "## Du kaufst {{amount}} {{itemName}} <:charmticket:1417253296338370570>",
   "BUY_CHARMS_MULTIPLES": "{{author}} Du kannst **Charms** nur im Vielfachen von 100 kaufen",
   "BUY_GEN_CONFIRMATION": "## Du kaufst {{count}} {{itemName}} 💳",
   "LAYER_CORRECT_USAGE": "{{author}} Korrekte Verwendung: `{{prefix}}buy layer <Layer-ID> <Menge>`",

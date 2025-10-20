@@ -92,7 +92,7 @@
   "PURHCASE_SUCCESSFUL": "Comprado con éxito el **Profile Background** **{{backgroundName}}**",
   "NO_PBG_INV": "No se ha podido encontrar el **Profile Background** con ID `{{id}}` en tu inventario",
   "PBG_EXIST_INV": "Ya tienes el **Profile Background** con ID `{{id}}` en tu inventario",
-  "SELECT_MODAL_TITLE": "Seleccionar Profile Background",
+  "PBG_MODAL_TITLE": "Seleccionar Profile Background",
   "SELECT_PBG_CONFIRM": "¿Estás seguro de que quieres seleccionar el **Profile Background** **{{backgroundName}}**?",
   "NO_PR_FOUND": "No se pudo encontrar el **Profile Ring** con el ID `{{id}}` en tu inventario",
   "PROVIDE_PROFILE_RING": "Introduce el ID del Profile Ring para aplicarlo. | Escribe \"none\" para quitarlo.",
