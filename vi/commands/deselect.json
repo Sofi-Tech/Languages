@@ -1,6 +1,6 @@
 {
     "DESELECT_CATEGORY": "Bang Hội",
-    "DESELECT_DESCRIPTION": "Sử dụng lệnh này để bỏ chọn một thẻ đang được sử dụng trong bộ bài",
+    "DESELECT_DESCRIPTION": "Sử dụng lệnh này để bỏ chọn một thẻ đang được sử dụng trong deck",
     "ENTER_VALID_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}ds <CardCode>`",
     "NOT_OWN_CARD": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "DESELECTED_SUCCESSFULLY": "{{author}} Bỏ chọn thẻ thành công"

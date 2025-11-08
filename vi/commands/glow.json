@@ -11,7 +11,7 @@
     "UNAVAILABLE": "Trống",
     "AVAILABLE": "Đã nạp",
     "GLOW_UNAVAILABLE": "{{author}} **Glow** đó chưa được nạp",
-    "INVALID_GLOW_CODE": "{{author}} Mã **Glow** luôn bắt đầu bằng `#`",
+    "INVALID_GLOW_CODE": "{{author}} Mã **Glow** phải bắt đầu bằng `#`",
     "EMBED_SG_TITLE": "SOFI: APPLY SUPER GLOW",
     "GLOW_NOT_FOUND": "{{author}} Mã **Glow** bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
     "EMBED_FOOTER": "Glow: {{availability}}"

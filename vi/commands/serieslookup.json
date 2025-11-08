@@ -1,8 +1,8 @@
 {
     "SERIESLOOKUP_DESCRIPTION": "Với lệnh này, bạn có thể tìm kiếm bất kỳ serie nào bạn muốn. Giao diện sẽ hiển thị tất cả các nhân vật có từ serie mà bạn đã gửi",
     "NO__LAST_CHAR_FOUND": "{{author}} Bộ sưu tập của bạn hiện tại chưa có bất kỳ thẻ nào",
-    "NO_CHAR_FOUND": "{{author}} Bộ này hiện tại chưa có bất kỳ nhân vật nào",
-    "NO_SERIES_FOUND": "{{author}} Không tìm thấy bộ nào tên `{{name}}`",
+    "NO_CHAR_FOUND": "{{author}} Serie này hiện chưa có bất kỳ nhân vật nào",
+    "NO_SERIES_FOUND": "{{author}} Không tìm thấy serie nào tên `{{name}}`",
     "SERIES": "SOFI: SERIES LOOKUP",
     "ERROR": "{{author}} Đã xảy ra lỗi. Vui lòng thử lại",
     "SERIES_NAME": "Tên: **{{seriesName}}**",

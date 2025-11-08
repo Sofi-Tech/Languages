@@ -1,5 +1,5 @@
 {
-    "APPEAL_DENIED": "Sau khi xem xét trường hợp của bạn, chúng tôi đã đi đến kết luận từ chối khiếu nại của bạn. Tình trạng bị cấm của bạn sẽ không bị bác bỏ và tất cả các khiếu nại mới từ giờ trở đi sẽ bị bác bỏ theo.\n\n- Ban Quản Lý Sofi",
+    "APPEAL_DENIED": "Sau khi xem xét trường hợp của bạn, chúng tôi đã đi đến kết luận từ chối khiếu nại. Tình trạng bị cấm của bạn sẽ không bị gỡ bỏ và tất cả các khiếu nại mới từ giờ trở đi cũng sẽ bị gỡ bỏ theo.\n\n- Ban Quản Lý Sofi",
     "VERSION_REJECTED": "**Version** của bạn cho **{{charName}}** từ **{{seriesName}}** đã bị từ chối. [Truy cập Máy Chủ Hỗ Trợ của chúng tôi để tìm hiểu thêm\ndiscord.gg/sofi",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Bộ sưu tập của bạn chứa giá trị âm! Vui lòng liên hệ với các Developer trong Máy Chủ Hỗ Trợ của chúng tôi để được giải quyết\ndiscord.gg/sofi",
     "SERVER_BLACKLISTED": "{{author}} Máy chủ đã bị đưa vào danh sách đen. Hãy liên hệ với chúng tôi tại discord.gg/sofi",
@@ -19,10 +19,10 @@
     "APPEAL_ACCEPTED": "# __Khiếu nại của bạn đã được chấp nhận!__\n- Vui lòng tham gia [Máy Chủ Hỗ Trợ](https://discord.gg/XPsQKJjeD7) chính thức của chúng tôi và tạo một phiếu yêu cầu trong kênh https://discord.com/channels/863226120245215262/959176115723837530 để được giải quyết về trường hợp của bạn.\n- Nhân viên sẽ hỗ trợ bạn càng sớm càng tốt. Vui lòng không gửi tin nhắn riêng hoặc gắn thẻ các nhân viên trong bất kỳ kênh nào liên quan đến phiếu yêu cầu. Vi phạm quy tắc này có thể dẫn đến việc bị đình chỉ vĩnh viễn khỏi dịch vụ và Máy Chủ Discord của chúng tôi",
     "COMMAND_COOLDOWN": "{{author}} [`{{command}}`] Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",
     "BOT_IN_SAFEMODE": "{{author}} **Sofi** hiện đang ở trong vùng an toàn! Dự kiến hoàn thành: **{{eta}}**\nChúng tôi xin lỗi vì sự bất tiện này và mong bạn thông cảm!",
-    "BANNER_SUBMISSION_ACCEPTED": "**Banner của bạn đã gửi với mã** `{{bannerCode}}` ** đã được chấp thuận**\n- Liên kết: {{url}} ",
+    "BANNER_SUBMISSION_ACCEPTED": "**Banner bạn gửi với mã** `{{bannerCode}}` ** đã được chấp thuận**\n- Liên kết: {{url}} ",
     "APPEAL_DENIED_FOOTER": "Khiếu nại đã bị từ chối bởi {{username}}",
     "APPEAL_ACCEPTED_FOOTER": "Khiếu nại đã được chấp nhận bởi {{username}}",
-    "BANNER_SUBMISSION_REJECTED": "Banner gửi đi của bạn với mã `{{bannerCode}}` đã bị từ chối. {{reason}} \n- Liên kết: {{url}}",
+    "BANNER_SUBMISSION_REJECTED": "Banner bạn gửi với mã `{{bannerCode}}` đã bị từ chối. {{reason}} \n- Liên kết: {{url}}",
     "IC_REASON": "Lý do: {{reason}}",
     "OUTBID_IN_AUCTION": "Giá của bạn đã bị vượt trong cuộc đấu giá cho mã [`{{code}}`]\n(<https://discord.com/channels/863226120245215262/1174841882497536100/{{messageId}}>). Giá thầu của bạn - {{oldAmount}} {{oldItemEmoji}} | Giá thầu mới - {{newAmount}} {{newItemEmoji}}\nĐấu giá kết thúc trong {{time}}"
 }

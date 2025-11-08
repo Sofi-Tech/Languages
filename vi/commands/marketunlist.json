@@ -2,7 +2,7 @@
     "MARKETUNLIST_DESCRIPTION": "Sử dụng lệnh này để xoá đơn hàng của bạn từ cửa hàng",
     "CORRECT_USAGE": "{{user}} Cách sử dụng đúng: `{{prefix}}mul <Order-ID/All>`",
     "INVALID_DEAL_ID": "{{author}} ID-Đơn Hàng bạn cung cấp không hợp lệ hoặc không thuộc quyền sở hữu của bạn",
-    "SUCCESS_UL": "{{user}} Đã thành công loại bỏ đơn hàng sau khỏi thị trường: `{{dealId}}`",
+    "SUCCESS_UL": "{{user}} Đã xóa đơn hàng sau khỏi thị trường: `{{dealId}}`",
     "NO_LISTINGS_FOUND": "{{user}} Hiện tại bạn không có đơn hàng nào",
     "SUCCESS_UL_ALL": "{{user}} Đã xoá thành công tất cả đơn hàng của bạn khỏi cửa hàng"
 }
