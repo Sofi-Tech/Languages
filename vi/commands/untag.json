@@ -1,9 +1,9 @@
 {
-  "UNTAG_DESCRIPTION": "Sử dụng lệnh này để gỡ nhãn khỏi thẻ hoặc Version Token của bạn. Nếu bạn muốn xoá toàn bộ một nhãn, bạn có thể sử dụng lệnh \"{{prefix}}tagdelete\" thay thế",
-  "UT_CATEGORY": "Nhãn",
-  "UT_EMPTY_COLLECTION": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
-  "INVALID_CODE": "{{author}} Mã bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-  "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ nhãn khỏi **{{cardName}}**",
-  "MULTIPLE_UNTAG": "{{author}} Đã gỡ nhãn khỏi **{{count}}** mã",
-  "INVALID_CODE_MULTIPLE": "{{author}} Những mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
+    "UNTAG_DESCRIPTION": "Sử dụng lệnh này để gỡ nhãn khỏi thẻ hoặc Version Token của bạn. Nếu bạn muốn xoá toàn bộ một nhãn, bạn có thể sử dụng lệnh \"{{prefix}}tagdelete\"",
+    "UT_CATEGORY": "Nhãn",
+    "UT_EMPTY_COLLECTION": "{{author}} Bạn chưa có thẻ nào trong bộ sưu tập của mình",
+    "INVALID_CODE": "{{author}} Mã bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ nhãn khỏi **{{cardName}}**",
+    "MULTIPLE_UNTAG": "{{author}} Đã gỡ nhãn khỏi **{{count}}** mã",
+    "INVALID_CODE_MULTIPLE": "{{author}} Những mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
 }

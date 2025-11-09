@@ -1,7 +1,7 @@
 {
     "SUCCESS": "{{user}} Bạn đã bán thành công **{{orderPrice}}** {{currency}} và nhận được **{{soldAmount}}** {{currencySoldEmoji}} ! | ID-Đơn Hàng: `{{dealId}}`",
     "CANNOT_SELF": "{{user}} Bạn không thể mua đơn hàng của chính mình",
-    "ALREADY_IN_PURCHASE": "{{author}} Bạn đã có một cửa sổ giao dịch đang hoạt động",
+    "ALREADY_IN_PURCHASE": "{{author}} Bạn đã có một giao dịch đang hoạt động",
     "MISSING_GEMS": "{{author}} Bạn không có đủ **{{currency}}** để thực hiện quá trình này",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}mbuy <OfferID> <WistAmount>`",
     "INVALID_DEAL_ID": "{{author}} ID-Đơn Hàng bạn cung cấp không hợp lệ",

@@ -8,7 +8,7 @@
     "CATEGORY_DISABLED": "{{author}} Danh mục này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "COMMAND_DISABLED": "{{author}} Lệnh này đã bị vô hiệu hoá\nLý do: `{{reason}}`",
     "VERIFY_TO_PLAY": "[Xác minh thông tin của bạn trên website của chúng tôi để bắt đầu!](<https://sofi.gg/verify>)",
-    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể dẫn đến điều này:**\n```CSS\n- Tương tác với Sofi trên nhiều tài khoản\n- Bán hoặc mua tài khoản Discord\n- Lừa đảo người dùng khác\n- Tận dụng hoặc liên quan đến bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại về danh sách đen của bạn](https://sofi.gg/appeal)\n:link: [Máy Chủ Hỗ Trợ](https://discord.gg/sofi)",
+    "AUTHOR_BLACKLISTED": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể dẫn đến điều này:**\n```CSS\n- Tương tác với Sofi bằng nhiều tài khoản\n- Bán hoặc mua tài khoản Discord\n- Lừa đảo người dùng khác\n- Tận dụng hoặc liên quan đến bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại danh sách đen của bạn](https://sofi.gg/appeal)\n:link: [Máy Chủ Hỗ Trợ](https://discord.gg/sofi)",
     "MENTION_ERROR": "{{author}} Sử dụng prefix máy chủ `{{prefix}}` hoặc `/` để sử dụng lệnh",
     "RATE_LIMIT_ERROR": "{{author}} Do hoạt động mật độ cao, đã đạt đến giới hạn! Vui lòng đợi giây lát.",
     "NEGATIVE_VALUE_INVENTORY": "{{user}} Kho đồ của bạn có giá trị âm. Hãy liên hệ với chúng tôi tại Máy Chủ Hỗ Trợ\ndiscord.gg/sofi",
