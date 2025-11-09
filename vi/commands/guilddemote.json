@@ -1,6 +1,6 @@
 {
     "NO_GUILD_INFO": "{{author}} Không tìm thấy thông tin bang hội nào về người dùng đó",
-    "DEMOTE_OTHERS_ERROR": "{{author}} Bạn phải là **Founder** hoặc **Guildmaster** mới được giáng chức những người khác",
+    "DEMOTE_OTHERS_ERROR": "{{author}} Bạn phải là **Founder** hoặc **Guildmaster** thì mới được giáng chức những người khác",
     "MUST_HAVE_AUTHORITY": "{{author}} Bạn phải là một **Founder** hoặc **Guildmaster** để giáng chức thành viên của bang hội",
     "DEMOTE_VETERAN_ERROR": "{{author}} Chỉ **Guildmaster** mới có thể bị giáng chức xuống **Veteran**",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Chỉ **Guildmaster** và **Veteran** mới có thể bị giáng chức xuống **Newbie**",
