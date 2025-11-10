@@ -16,7 +16,7 @@
     "SORT_CARD": "Thẻ Gốc",
     "EMBED_TITLE": "SOFI: VERSION TOKEN ({{username}})",
     "EMBED_FOOTER": "Trang: {{page}}/{{totalPages}} | Tổng Version Token: {{count}}",
-    "SAVE_FILTER": "500 - Lưu bộ lọc này",
+    "SAVE_FILTER": "500 - Lưu bộ lọc",
     "SELECT_FILTER": "Chọn bộ lọc",
     "FILTER_NO_VT_FOUND": "{{author}} Không tìm thấy **Version Token** nào phù hợp với bộ lọc bạn đã chọn. Sử dụng lệnh `{{prefix}}help filter` để tìm hiểu thêm về các bộ lọc có sẵn",
     "ALL_TAG_SUCCESS_other": "Đã gắn **{{count}}** Version Token vào nhãn `{{tagName}}`",

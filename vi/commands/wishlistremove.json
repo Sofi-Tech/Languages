@@ -14,7 +14,7 @@
     "NO_VALID_INDEXES": "{{author}} Không tìm thấy mục nào hợp lệ trong danh sách yêu thích của bạn",
     "NO_RESULTS": "{{author}} Không có nhân vật nào tên `{{name}}` trong danh sách yêu thích của bạn",
     "NO_INDEX_VT": "{{author}} Bạn không thể sử dụng số với **Version {{version}}**",
-    "REMOVE_VERSION_TOKEN": "{{author}} Đã gỡ **Version {{version}}** của **{{name}}** khỏi danh sách Version yêu thích của bạn",
+    "REMOVE_VERSION_TOKEN": "{{author}} Đã gỡ **Version {{version}}** của **{{name}}** khỏi danh sách Version yêu thích",
     "REMOVE_ALL_VERSION_TOKEN": "{{author}} Đã gỡ tất cả nhân vật khỏi danh sách Version yêu thích",
     "RESET_VT_NOTE": "{{author}} Sử dụng lệnh `{{prefix}}wr full reset version tokens` để đặt lại danh sách Version yêu thích"
 }

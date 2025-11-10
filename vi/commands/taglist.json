@@ -12,7 +12,7 @@
     "CARD_other": "{{count}} thẻ",
     "CARD_many": "{{count}} thẻ",
     "SOFI_FACT": "Thẻ gắn nhãn đã khóa không thể bị đốt hoặc trao đổi",
-    "EMBED_FOOTER": "Tổng cộng: {{total}} | Đã khóa: {{locked}}",
+    "EMBED_FOOTER": "Tổng cộng: {{total}} | Đã khóa: {{locked}} | Trang: {{page}}/{{totalPages}}",
     "LOCK_MENU_PLACEHOLDER": "Chọn một nhãn để khóa/mở khóa",
     "LOCKED_TAG_zero": "🔒 Đã khóa {{count}} nhãn",
     "LOCKED_TAG_one": "🔒 Đã khóa {{count}} nhãn",
