@@ -26,10 +26,10 @@
     "VIEW_BANNERS_BUTTON_LABEL": "Xem Banner",
     "SET_BANNER_BUTTON_LABEL": "Tạo Banner",
     "BACK_CHARACTERS_BUTTON_LABEL": "Quay lại Nhân Vật",
-    "NO_COMBO_FOUND": "Không tìm thấy thẻ combo nào cho các nhân vật trong bộ này.",
+    "NO_COMBO_FOUND": "Không tìm thấy thẻ combo nào cho các nhân vật trong serie này.",
     "COMBO_SERIES_DATA": "Tìm thấy {{count}} thẻ combo cho {{series}}\nNhập số bên dưới để xem chi tiết.",
-    "BANNER_MAXIMUM_CREATIONS": "Banner này đã đạt đến giới hạn số lượng banner có thể được tạo.",
-    "ALREADY_PROJECT_SERIES": "Bạn đã có một dự án banner cho bộ này. Vui lòng xóa nó trước khi tạo cái mới.",
+    "BANNER_MAXIMUM_CREATIONS": "Banner này đã đạt đến giới hạn số lượng được tạo ra.",
+    "ALREADY_PROJECT_SERIES": "Bạn đã có một dự án banner cho serie này. Hãy xóa nó trước khi tạo cái mới.",
     "PROJECT_CREATED": "Đã tạo dự án banner cho **{{series}}**",
     "SERIES_ID": "Series ID: `{{id}}`"
 }
