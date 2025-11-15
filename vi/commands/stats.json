@@ -33,7 +33,7 @@
     "DUPLICATE_MODAL_PLACEHOLDER": "Nhập một hoặc nhiều mã thẻ",
     "DUPLICATE_MODAL_TITLE": "Nâng Cấp",
     "BASECODE_ERROR": "{{author}} Bạn không thể hợp nhất thẻ với chính nó",
-    "NOT_DUPLICATE": "{{author}} Các mã thẻ sau đây không trùng cùng một nhân vật\n> `{{dupeCode}}`",
+    "NOT_DUPLICATE": "{{author}} Các mã thẻ sau đây không phải cùng một nhân vật\n> `{{dupeCode}}`",
     "FUSE_CARDS_INFO": "{{author}} Bạn cần **{{dupeCodes}}** <:_:979673719884636210> để hợp nhất thẻ",
     "NO_AVAILABLE_MOVES": "{{author}} Thẻ này không còn khả năng nào để chọn nữa.",
     "UNLOCKED_MOVES": "{{author}} Thẻ của bạn đã học được khả năng **{{attackName}}** với sức mạnh **{{newMove}}%**",
@@ -41,7 +41,7 @@
     "UNLOCK_ALL_MENU_DESC": "Mở khoá tất cả khả năng",
     "LOCK_MOVE_PLACEHOLDER": "Chọn một tuỳ chọn",
     "SELECT_MOVES_MENU_PLACEHOLDER": "Chọn Khả Năng",
-    "MISSING_REROLLS": "{{author}} Bạn không có một `Reroll Scroll`",
+    "MISSING_REROLLS": "{{author}} Bạn không có `Reroll Scroll`",
     "REROLL_EFFECTIVENESS_LOCKED": "{{author}} Khả năng đó đã bị khoá và không thể tạo lại được!",
     "EFFECTIVE_REROLL": "{{author}} Sức mạnh của `{{attackName}}` đã được thay đổi: **{{effectiveNess}}%** 🠚 **{{newEffective}}%**",
     "NOT_ENOUGH_POINTS": "{{author}} Thẻ của bạn không còn điểm nâng cấp",
@@ -63,5 +63,5 @@
     "DUPLICATE_MODAL_LABEL": "Nhập mã thẻ trùng lặp để nâng cấp thẻ của bạn! Quá trình này sẽ tốn 100 \"Elixir\" cho mỗi thẻ trùng lặp",
     "RESET_MOVE_MODAL_LABEL": "Khả năng của thẻ chỉ có thể được đặt lại một lần! Bạn vẫn muốn tiếp tục chứ?",
     "POINTS_NEGATIVE_ERROR": "{{author}} Bạn không thể thêm âm điểm vào một chỉ số",
-    "SUCCESSFUL_FUSED": "{{author}} Đã hợp nhất thành công **{{dupeCodes}}** thẻ với giá **{{amount}}** <:_:979673719884636210>\nThẻ của bạn nhận được **{{totalXP}}** EXP và hiện tại đã đạt cấp độ: **{{netLevel}}**"
+    "SUCCESSFUL_FUSED": "{{author}} Đã hợp nhất thành công **{{dupeCodes}}** thẻ với giá **{{amount}}** <:_:979673719884636210>\nThẻ của bạn nhận được **{{totalXP}}** EXP và đã đạt cấp độ: **{{netLevel}}**"
 }
