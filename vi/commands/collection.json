@@ -33,7 +33,7 @@
     "FILTER_SUCCESS": "Đã lưu bộ lọc này với tên `{{filterName}}`",
     "FILTER_UPDATE_SUCCESS": "{{author}} Đã cập nhật bộ lọc `{{filterName}}`",
     "FILTER_NAME_PROFANE": "Tên bộ lọc của bạn không được chứa từ ngữ tục tĩu",
-    "FILTER_DELETE": "Xoá bộ lọc",
+    "FILTER_DELETE": "Xóa bộ lọc",
     "FILTER_DELETE_SUCCESS": "{{author}} Đã xoá bộ lọc `{{filterName}}`",
     "SAVED_FILTER": "Chọn bộ lọc",
     "ALL_UNTAG_SUCCESS_zero": "Đã gỡ nhãn `{{tagName}}` khỏi **{{count}}** thẻ",
