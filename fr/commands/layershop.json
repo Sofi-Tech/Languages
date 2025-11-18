@@ -8,6 +8,6 @@
     "LS_CATEGORY": "**Catégorie:** {{category}}",
     "LS_ARTIST": "**Artiste:** {{artist}}",
     "LAYERSHOP_DESCRIPTION": "Cette commande ouvrira un encart permettant de voir toutes les Layers qui sont disponibles à l'achat",
-    "BUY_LAYER_INFO": "Utilisez la commande `{{prefix}}buy layer <Layer-ID> <Quantité>` pour acheter un **Layer**",
+    "BUY_LAYER_INFO": "Utilisez la commande `{{prefix}}buy layer <Layer-ID> <Quantité>` pour acheter un **Layer** \n[Cliquez ici pour voir toutes les **couches** disponibles](https://sofi.gg/layers)",
     "LS_EMBED_TITLE": "SOFI: LAYER SHOP"
 }

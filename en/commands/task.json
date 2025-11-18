@@ -47,6 +47,7 @@
   "DECK_SELECTED_many": "`{{deck}}` is now out on {{quest}} for {{count}} hours",
   "NO_QUEST_AVAILABLE": "No quests available",
   "SELECT_MODAL_LABEL": "Enter the deck name",
+  "SELECT_MODAL_TITLE": "Select Deck",
   "SELECT_MODAL_PLACEHOLDER": "Deck 1/1/[deckname]",
   "PBG_MODAL_TITLE": "Select Deck",
   "NO_DECK_FOUND": "No deck found. Please enter a valid name of the deck",

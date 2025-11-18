@@ -4,7 +4,7 @@
   "CATEGORY_MENU_PLACEHOLDER": "Select a Category",
   "LS_EVENT_MENU_LABEL": "Event",
   "LS_BACK_MENU_LABEL": "Go Back",
-  "BUY_LAYER_INFO": "Use the `{{prefix}}buy layer <Layer-ID> <Amount>` command to buy a **Layer**",
+  "BUY_LAYER_INFO": "Use the `{{prefix}}buy layer <Layer-ID> <Amount>` command to buy a **Layer** \n[Click here to view all available **Layers**](https://sofi.gg/layers)",
   "LS_EMBED_TITLE": "SOFI: LAYER SHOP",
   "LS_PAGE_FOOTER": "Showing Page: {{currentPage}}/{{totalPages}}",
   "LAYER_NOT_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
