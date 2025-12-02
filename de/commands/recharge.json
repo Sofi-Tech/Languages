@@ -1,14 +1,14 @@
 {
-  "NO_GLOWCDE": "{{author}} Korrekte Verwendung: `{{prefix}}rg <#GlowCode>`",
-  "INVALID_DC_MOVIES": "{{author}} **Glow**-Codes beginnen immer mit einem `#`",
-  "RG_CATEGORY": "Kosmetika",
-  "RECHARGE_DESCRIPTION": "Verwende diesen Befehl um einen leeren Glow wieder aufzuladen. Dieser Vorgang verbraucht einen Recharge, welcher im Shop gekauft werden kann",
-  "UNLOCK_GLOWS": "{{author}} Du hast noch keine **Glows**",
-  "EMBED_TITLE": "SOFI: RECHARGE GLOW",
-  "NO_MONEY": "{{author}} Du hast nicht genügend **Recharges** für diesen Vorgang!",
-  "SUCCESSFUL_RECHARGE": "{{author}} Dein **{{glowName}}** **Glow** wurde erfolgreich aufgeladen",
-  "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene **Glow**-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
-  "GLOW_AVAILABLE": "{{author}} Der **Glow** ist bereits aufgeladen",
-  "RECHARGE_CONFIRMATION": "Bist du sicher, dass du diesen **Glow** aufladen möchtest?\n\nName: **{{name}}**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>",
-  "SUPER_RECHARGE_CONFIRMATION": "Bist du sicher, dass du diesen **Glow** aufladen möchtest?\n\nName: **{{name}} (Super)**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>"
+    "NO_GLOWCDE": "{{author}} Korrekte Verwendung: `{{prefix}}rg <#GlowCode>`",
+    "INVALID_DC_MOVIES": "{{author}} **Glow**-Codes beginnen immer mit einem `#`",
+    "RG_CATEGORY": "Kosmetika",
+    "RECHARGE_DESCRIPTION": "Verwende diesen Befehl um einen leeren Glow wieder aufzuladen. Dieser Vorgang verbraucht einen Recharge, welcher im Shop gekauft werden kann",
+    "UNLOCK_GLOWS": "{{author}} Du hast noch keine **Glows**",
+    "EMBED_TITLE": "SOFI: RECHARGE GLOW",
+    "NO_MONEY": "{{author}} Du hast nicht genügend **Recharges** für diesen Vorgang!",
+    "SUCCESSFUL_RECHARGE": "{{author}} Dein **{{glowName}}** **Glow** wurde erfolgreich aufgeladen",
+    "GLOW_NOT_FOUND": "{{author}} Der von dir angegebene **Glow**-Code ist entweder ungültig oder befindet sich nicht in deinem Inventar",
+    "GLOW_AVAILABLE": "{{author}} Der **Glow** ist bereits aufgeladen",
+    "RECHARGE_CONFIRMATION": "Bist du sicher, dass du diesen **Glow** aufladen möchtest?\n\nName: **{{name}}**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>",
+    "SUPER_RECHARGE_CONFIRMATION": "Bist du sicher, dass du diesen **Glow** aufladen möchtest?\n\nName: **{{name}} (Super)**\nCode: `{{glowCode}}`\nKosten: **{{cost}}** <:recharge_sofi:926846363537387530>"
 }
