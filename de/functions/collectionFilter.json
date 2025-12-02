@@ -1,6 +1,6 @@
 {
-  "PROVIDE_FILTER": "{{author}} Bitte gib neben der Sortiermethode auch einen Filter an",
-  "PROVIDE_CATEGORY": "{{author}} Bitte gib eine der folgenden Kategorien an: ```Apache\n{{categories}}```",
-  "TOO_LONG_FILTER": "{{author}} Der Filter, den du angegeben hast, ist zu lang, bitte versuche es erneut",
-  "TOO_MANY_FILTER_GROUPS": "{{author}} Du kannst nur 5 Filtergruppen haben, bitte versuche es erneut"
+    "PROVIDE_FILTER": "{{author}} Bitte gib neben der Sortiermethode auch einen Filter an",
+    "PROVIDE_CATEGORY": "{{author}} Bitte gib eine der folgenden Kategorien an: ```Apache\n{{categories}}```",
+    "TOO_LONG_FILTER": "{{author}} Der Filter, den du angegeben hast, ist zu lang, bitte versuche es erneut",
+    "TOO_MANY_FILTER_GROUPS": "{{author}} Du kannst nur 5 Filtergruppen haben, bitte versuche es erneut"
 }
