@@ -1,9 +1,10 @@
 {
-  "GLOWTAGCREATE_DESCRIPTION": "With this command you can create a tag to categorize and group multiple Glows that fit your own criteria. Use the \"{{prefix}}glowtag\" command to assign created tags to your Glows",
-  "GTC_CATEGORY": "Tags",
-  "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gtc <TagName> <Emoji>`",
-  "INVALID_EMOJI": "{{author}} That emoji is invalid",
-  "INVALID_TAGNAME_FORMAT": "{{author}} The name of your tag must be alphanumeric and cannot contain special characters, spaces or profanity of any kind",
-  "GLOWTAG_ALREADY_EXISTS": "{{author}} You already have a **Glow** tag with that name",
-  "CREATED_GLOWTAG": "{{author}} Successfully created a **Glow** tag with the name `{{tag}}` | {{emoji}}"
+    "GLOWTAGCREATE_DESCRIPTION": "Creates a Glow tag",
+    "GTC_CATEGORY": "Tags",
+    "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gtc <TagName> <Emoji>`",
+    "INVALID_EMOJI": "{{author}} That emoji is invalid",
+    "INVALID_TAGNAME_FORMAT": "{{author}} The name of your tag must be alphanumeric and cannot contain special characters, spaces or profanity of any kind",
+    "GLOWTAG_ALREADY_EXISTS": "{{author}} You already have a **Glow** tag with that name",
+    "CREATED_GLOWTAG": "{{author}} Successfully created a **Glow** tag with the name `{{tag}}` | {{emoji}}",
+    "GLOWTAGCREATE_EXTRA_INFO": "With this command you can create a tag to categorize and group multiple Glows that fit your own criteria, by assigning a name and emoji to the tag. Use the \"{{prefix}}glowtag\" command to assign the newly created tags to your Glows"
 }

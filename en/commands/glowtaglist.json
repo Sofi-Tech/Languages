@@ -1,12 +1,13 @@
 {
-  "GLOWTAGLIST_DESCRIPTION": "This command will display a list with all of your Glow tags",
-  "GTL_CATEGORY": "Tags",
-  "NO_TAGS": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <Name> <Emoji>`",
-  "GLOWS_zero": "{{count}} Glows",
-  "GLOWS_one": "{{count}} Glow",
-  "GLOWS_two": "{{count}} Glows",
-  "GLOWS_few": "{{count}} Glows",
-  "GLOWS_other": "{{count}} Glows",
-  "GLOWS_many": "{{count}} Glows",
-  "EMBED_TITLE": "SOFI: GLOW TAG LIST"
+    "GLOWTAGLIST_DESCRIPTION": "Views all current Glow tags",
+    "GTL_CATEGORY": "Tags",
+    "NO_TAGS": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <Name> <Emoji>`",
+    "GLOWS_zero": "{{count}} Glows",
+    "GLOWS_one": "{{count}} Glow",
+    "GLOWS_two": "{{count}} Glows",
+    "GLOWS_few": "{{count}} Glows",
+    "GLOWS_other": "{{count}} Glows",
+    "GLOWS_many": "{{count}} Glows",
+    "EMBED_TITLE": "SOFI: GLOW TAG LIST",
+    "GLOWTAGLIST_EXTRA_INFO": "Use this command to list your or another user's current Glow tags if indicated. You can use the \"{{prefix}}glowtagcreate\" command in order to create more tags"
 }
