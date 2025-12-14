@@ -1,5 +1,5 @@
 {
-    "COLLECTION_DESCRIPTION": "Shows the player's collection of cards",
+    "COLLECTION_DESCRIPTION": "Shows the players collection of cards",
     "SLASH_CMD_DESC": "Displays your card collection",
     "SLASH_DESC": "Select a user in order to see their collection",
     "SLASH_DESC2": "Enter the filters you want to apply to the collection",
@@ -67,5 +67,5 @@
     "SAVE_FILTER": "Select a Filter",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} You don't have enough **Silver** to save this filter",
     "FILTER_NAME_EXISTS": "The filter with name `{{filterName}}` already exists",
-    "COLLECTION_EXTRA_INFO": "Without prompts this command will show yours or another player's collection, which can then be sorted and filtered in various ways. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the prompt \"t:ut\" in addition to this command to highlight all cards in your collection that currently don't have a tag. Use the \"{{prefix}}help filter\" command to see all available filters"
+    "COLLECTION_EXTRA_INFO": "Without prompts this command will show your or another player's collection, which can then be sorted and filtered in various ways. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the prompt \"t:ut\" in addition to this command to highlight all cards in your collection that currently don't have a tag. Use the \"{{prefix}}help filter\" command to see all available filters"
 }

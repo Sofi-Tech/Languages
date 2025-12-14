@@ -1,9 +1,10 @@
 {
-  "WISHLISTLB_DESCRIPTION": "This command displays an embed showing the ranking of the most wishlisted characters in Sofi",
-  "CATEGORY": "Wishlist",
-  "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
-  "EMBED_FOOTER": "Showing page: {{page}}/{{pages}}",
-  "CHARACTER_BUTTON_LABEL": "Characters",
-  "SERIES_BUTTON_LABEL": "Series",
-  "INVALID_CATEGORY": "Invalid category provided"
+    "WISHLISTLB_DESCRIPTION": "Shows the wishlist leaderboard of all cards and series",
+    "CATEGORY": "Wishlist",
+    "EMBED_TITLE": "SOFI: WISHLIST LEADERBOARD ({{type}})",
+    "EMBED_FOOTER": "Showing page: {{page}}/{{pages}}",
+    "CHARACTER_BUTTON_LABEL": "Characters",
+    "SERIES_BUTTON_LABEL": "Series",
+    "INVALID_CATEGORY": "Invalid category provided",
+    "WISHLISTLB_EXTRA_INFO": "This command shows the consolidated leaderboard of the most wishlisted characters and series in Sofi. In the series leaderboard, the number of banners for the series is also shown"
 }

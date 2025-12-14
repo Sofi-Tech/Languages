@@ -1,6 +1,7 @@
 {
-  "WISHLISTCHANNEL_DESCRIPTION": "Use this command to pin your wishlist to a channel. Whenever a card from your wishlist appears in that channel, Sofi will notify you",
-  "CATEGORY": "Wishlist",
-  "CHANNEL_SET": "{{author}} Your wishlist has been set in {{channel}}",
-  "CHANNEL_REMOVE": "{{author}} Your wishlist has been removed from {{channel}}"
+    "WISHLISTCHANNEL_DESCRIPTION": "Pins the players wishlist to a channel for card drops pings",
+    "CATEGORY": "Wishlist",
+    "CHANNEL_SET": "{{author}} Your wishlist has been set in {{channel}}",
+    "CHANNEL_REMOVE": "{{author}} Your wishlist has been removed from {{channel}}",
+    "WISHLISTCHANNEL_EXTRA_INFO": "Use this command to pin your wishlist to a channel, where whenever a card from your wishlist is dropped, Sofi will ping you"
 }
