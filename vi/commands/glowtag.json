@@ -1,6 +1,6 @@
 {
     "GLOWTAG_DESCRIPTION": "Với lệnh này, bạn có thể gắn một nhãn cho Glow của bạn. Để tạo một nhãn Glow, hãy sử dụng lệnh \"{{prefix}}glowtagcreate\"",
-    "GT_CATEGORY": "Nhãn",
+    "GT_CATEGORY": "Tag",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gt <TagName> <#GlowCode>`",
     "GLOWTAGS_NOT_FOUND": "{{author}} Hiện tại bạn không có nhãn **Glow**. Bạn có thể tạo nó bằng lệnh: `{{prefix}}gtc <TagName> <Emoji>`",
     "GLOWS_NOT_UNLOCKED": "{{author}} Hiện tại bạn không có **Glow** nào",

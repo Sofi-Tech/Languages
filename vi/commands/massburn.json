@@ -1,7 +1,7 @@
 {
     "BURN_REWARDS": "__Phần Thưởng__",
     "NO_CARDS_FOUND": "{{author}} Không tìm thấy thẻ nào phù hợp với tiêu chí tìm kiếm bạn đưa ra\n```fix\nLưu ý: Các thẻ bị khóa, thẻ GIF hoặc thẻ đang được sử dụng trong deck không thể bị đốt\n```",
-    "WRONG_TAG": "{{author}} Không tìm thấy nhãn nào tên `{{arg}}`",
+    "WRONG_TAG": "{{author}} Không tìm thấy tag nào tên `{{arg}}`",
     "LOCKED_CARDS_WARNING": "{{author}} Những thẻ đã khóa, thẻ **GIF** hoặc được sử dụng trong deck không thể bị đốt",
     "MASSBURN_DESCRIPTION": "Sử dụng lệnh này để đốt nhiều thẻ cùng một lúc. Thêm các cách lọc Gen/Tag/Wishlist, bạn có thể chỉ định những thẻ mà bạn muốn đốt",
     "IN_ACTIVE_MB": "{{user}} Bạn không thể bắt đầu một **Massburn** mới trong khi cái cũ vẫn còn đang hoạt động",
