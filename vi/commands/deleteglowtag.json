@@ -2,6 +2,6 @@
     "DGT_CATEGORY": "Tag",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}dgt <TagName>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Bạn không có tag **Glow** nào tên `{{tagname}}`",
-    "DELETEGLOWTAG_DESCRIPTION": "Sử dụng lệnh này kết hợp với tên nhãn Glow sẽ xoá nhãn đã chọn",
+    "DELETEGLOWTAG_DESCRIPTION": "Xóa một Glow tag",
     "DELETE_GLOWTAG": "{{author}} Đã xoá tag **Glow** tên `{{tag}}`"
 }

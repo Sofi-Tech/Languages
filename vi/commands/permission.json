@@ -35,7 +35,7 @@
     "NO_BUTTON_LABEL": "Từ chối",
     "BLACKLISTING_INFO": "Danh sách đen: Cấm các lệnh không được sử dụng trong kênh này",
     "RESET_USAGE": "Đặt lại: Đặt quyền về mặc định\nCách sử dụng: `{{prefix}}p reset`",
-    "PERMISSION_DESCRIPTION": "Với lệnh này, bạn có thể thêm vào danh sách cho phép hoặc danh sách đen các lệnh bạn muốn trong kênh được sử dụng. Các lệnh trong danh sách cho phép sẽ là những lệnh duy nhất có thể sử dụng trong kênh, trong khi các lệnh trong danh sách đen sẽ là những lệnh không thể sử dụng trong kênh đó",
+    "PERMISSION_DESCRIPTION": "Cho phép hoặc chặn lệnh được sử dụng trong kênh",
     "SOME_COMMANDS_WHITELISTED": "{{author}} Bạn đã thêm lệnh vào danh sách cho phép trong kênh này rồi. Sử dụng lệnh `{{prefix}}p reset` để đặt lại quyền của kênh này về mặc định",
     "REMOVE_BL_COMMANDS_ERROR": "{{author}} Các lệnh mà bạn cung cấp không có trong danh sách đen của kênh này hoặc không hợp lệ",
     "REMOVE_WL_COMMANDS_ERROR": "{{author}} Các lệnh mà bạn cung cấp không có trong danh sách cho phép của kênh này hoặc không hợp lệ",

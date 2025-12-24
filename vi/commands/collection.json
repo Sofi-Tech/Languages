@@ -56,7 +56,7 @@
     "TAG_MODAL_PLACEHOLDER": "Thêm \"-\" để gỡ hàng loạt một tag",
     "ALL_UNTAG_SUCCESS_many": "Đã gỡ tag `{{tagName}}` khỏi **{{count}}** thẻ",
     "NO_TAG_FOUND": "{{author}} Bạn không có tag nào. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một tag",
-    "COLLECTION_DESCRIPTION": "Lệnh này sẽ hiển thị bộ sưu tập của bạn, bạn cũng có thể sắp xếp và lọc theo nhiều cách khác nhau. Sử dụng lệnh này với các tham số bổ sung sẽ mở giao diện với các bộ lọc cụ thể đã được áp dụng. Thêm \"t:ut\" ở phía sau lệnh này sẽ hiển thị những thẻ chưa được gắn nhãn. Sử dụng lệnh \"{{prefix}}help filter\" để xem tất cả các cách lọc có sẵn",
+    "COLLECTION_DESCRIPTION": "Hiển thị bộ sưu tập thẻ của người chơi",
     "NO_CARDS_FOUND": "{{author}} Không tìm thấy thẻ nào phù hợp với tiêu chí tìm kiếm bạn đưa ra\n```fix\nLưu ý: Các thẻ bị khóa, thẻ GIF hoặc thẻ đang được sử dụng trong deck không thể bị đốt\n```",
     "SORT_HP": "Máu",
     "ALL_UNTAG_SUCCESS_other": "Đã gỡ tag `{{tagName}}` khỏi **{{count}}** thẻ",
