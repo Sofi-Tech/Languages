@@ -4,10 +4,10 @@
   "VOTE": "Mag-Vote sa Top.GG",
   "BUMP": "Bump",
   "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-  "USE_WIST": "Ikaw ay makakakuha ng **1 Wist** <:wist:870339503427027005> para sa bawat matagumpay mong **Vote** sa [Top.gg](https://top.gg/bot/853629533855809596)!",
+  "USE_WIST": "Ikaw ay makakakuha ng **1 Wist** <:wist:870339503427027005> para sa bawat matagumpay mong **Vote** sa [Top.gg](https://top.gg/bot/853629533855809596/vote)!",
   "TOTAL_VOTES": "- Kabuuan ng **Votes**: **{{totalVotes}}**",
   "MONTHLY_VOTES": "- Buwanang **Votes**: **{{monthlyVotes}}**",
-  "VOTE_RESET": "- Magre-reset sa: **{{countdown}}**",
+  "VOTE_RESET": "- **Magre-reset** {{countdown}}",
   "EMBED_FOOTER": "Ikaw ay makakakuha ng dobleng halaga ng Wists tuwing katapusan ng linggo",
   "VOTE_DBL": "Bumoto sa DiscordBotList",
   "USE_ELIXIR": "Ikaw ay makakakuha ng **5 Elixirs** <:xelixir:979673719884636210> para sa bawat matagumpay mong **Vote** sa [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
