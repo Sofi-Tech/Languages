@@ -1,5 +1,5 @@
 {
-    "TAGUPDATE_DESCRIPTION": "Sử dụng lệnh này để cập nhật tên hoặc emoji của một nhãn",
+    "TAGUPDATE_DESCRIPTION": "Cập nhật tên hoặc emoji của tag",
     "TU_CATEGORY": "Tag",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}tu <TagName>`",
     "TAG_NOT_FOUND": "{{author}} Không tìm thấy tag nào tên `{{tag}}`",
