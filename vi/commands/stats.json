@@ -35,7 +35,7 @@
     "BASECODE_ERROR": "{{author}} Bạn không thể hợp nhất thẻ với chính nó",
     "NOT_DUPLICATE": "{{author}} Các mã thẻ sau đây không phải cùng một nhân vật\n> `{{dupeCode}}`",
     "FUSE_CARDS_INFO": "{{author}} Bạn cần **{{dupeCodes}}** <:_:979673719884636210> để hợp nhất thẻ",
-    "NO_AVAILABLE_MOVES": "{{author}} Thẻ này không còn khả năng nào để chọn nữa.",
+    "NO_AVAILABLE_MOVES": "{{author}} Thẻ này không còn khả năng nào để chọn nữa",
     "UNLOCKED_MOVES": "{{author}} Thẻ của bạn đã học được khả năng **{{attackName}}** với sức mạnh **{{newMove}}%**",
     "UNLOCK_ALL_MENU_LABEL": "Mở Khoá Tất Cả",
     "UNLOCK_ALL_MENU_DESC": "Mở khoá tất cả khả năng",

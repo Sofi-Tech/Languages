@@ -13,7 +13,7 @@
     "BOT_TRADE": "{{author}} Bạn không thể trao đổi với `BOT`",
     "SELF_TRADE": "{{author}} Bạn không thể trao đổi với chính mình",
     "MEMBER_IS_BLED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
-    "AUTHOR_IS_QUED": "{{author}} Bạn đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly",
+    "AUTHOR_IS_QUED": "{{author}} Bạn đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
     "BUY_TP_1": "{{user}} không có **Trade Pass** hoạt động",
     "FINISH_TRADE_WARN": "{{author}} Bạn cần hoàn thành lệnh `{{commandName}}` trước khi tiếp tục",
     "NOTE_BUTTON_LABEL": "Ghi Chú",
