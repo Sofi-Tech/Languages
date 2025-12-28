@@ -1,14 +1,15 @@
 {
-  "USELAYER_DESCRIPTION": "This command will apply a selected Layer to a card of your choice. You can buy Layers by using the \"{{prefix}}layershop\" command",
-  "USELAYER_CATEGORY": "Cosmetics",
-  "UL_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}ul <CardCode> <Layer-ID>`",
-  "CARD_INVALID": "{{author}} The card code you provided is either invalid or not in your collection",
-  "CANNOT_APPLY_LAYER_GIF": "{{author}} You cannot apply a **Layer** to a **GIF** card",
-  "NO_LAYER_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
-  "UL_EMBED_TITLE": "SOFI: LAYER",
-  "USE_LAYER_CONFIRM": "Are you sure you want to apply the **{{name}}** **Layer** to this card?",
-  "UL_EMBED_FOOTER": "Confirming this process will destroy the currently applied Layer",
-  "CARD_NOT_IN_COLLECTION": "{{author}} The card is no longer in your collection",
-  "DONT_HAVE_LAYER": "{{author}} You don't have the following **Layers:** \n{{layers}}",
-  "USE_LAYER_SUCCESSFUL": "{{author}} Successfully applied the **{{name}}** **Layer** to your card"
+    "USELAYER_DESCRIPTION": "Applies a Layer to a card",
+    "USELAYER_CATEGORY": "Cosmetics",
+    "UL_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}ul <CardCode> <Layer-ID>`",
+    "CARD_INVALID": "{{author}} The card code you provided is either invalid or not in your collection",
+    "CANNOT_APPLY_LAYER_GIF": "{{author}} You cannot apply a **Layer** to a **GIF** card",
+    "NO_LAYER_FOUND": "{{author}} Could not find **Layer** with ID `{{layerId}}`",
+    "UL_EMBED_TITLE": "SOFI: LAYER",
+    "USE_LAYER_CONFIRM": "Are you sure you want to apply the **{{name}}** **Layer** to this card?",
+    "UL_EMBED_FOOTER": "Confirming this process will destroy the currently applied Layer",
+    "CARD_NOT_IN_COLLECTION": "{{author}} The card is no longer in your collection",
+    "DONT_HAVE_LAYER": "{{author}} You don't have the following **Layers:** \n{{layers}}",
+    "USE_LAYER_SUCCESSFUL": "{{author}} Successfully applied the **{{name}}** **Layer** to your card",
+    "USELAYER_EXTRA_INFO": "This command will apply up to 3 selected Layers to a card of your choice. You can buy Layers by using the \"{{prefix}}layershop\" command"
 }
