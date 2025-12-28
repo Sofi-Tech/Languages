@@ -1,4 +1,5 @@
 {
-  "SERIESDROP_DESCRIPTION": "Vote for one of three series to drop 3 cards (24 hour CD)",
-  "SERIESDROP_CATEGORY": "Cards"
+    "SERIESDROP_DESCRIPTION": "Generates a vote for one of three series to drop 3 cards",
+    "SERIESDROP_CATEGORY": "Cards",
+    "SERIESDROP_EXTRA_INFO": "Generates a vote for one of three series to drop 3 cards once every 24 hours, or players can use an extra Series Drop to generate an extra vote. You can buy extra Series Drops by using the \"{{prefix}}buy seriesdrop\" command"
 }
