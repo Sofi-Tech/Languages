@@ -1,10 +1,10 @@
 {
-  "GUILDLEADERBOARD_DESCRIPTION": "Este comando muestra la puntuación y la tabla de clasificaciones entre gremios en la competición actual así como el tiempo restante",
-  "GUILDLEADERBOARD_CATEGORY": "Gremios",
-  "SEASON_ENDS": "**Final de la Temporada: {{time}}**",
-  "GRACE_ENDS": "**Final del Periodo de Gracia: {{time}}**",
-  "GLB_TOTAL_GUILDS": "Gremios Totales",
-  "GLB_TOTAL_RAIDS": "Raids Totales",
-  "GLB_TOTAL_REVENGE": "Venganzas Totales",
-  "GLB_EMBED_FOOTER": "S{{season}}: Las temporadas de gremios tienen una duración de 24 días."
+    "GUILDLEADERBOARD_DESCRIPTION": "Este comando muestra la puntuación y la tabla de clasificaciones entre gremios en la competición actual así como el tiempo restante",
+    "GUILDLEADERBOARD_CATEGORY": "Gremios",
+    "SEASON_ENDS": "**Final de la Temporada: {{time}}**",
+    "GRACE_ENDS": "**Final del Periodo de Gracia: {{time}}**",
+    "GLB_TOTAL_GUILDS": "Gremios Totales",
+    "GLB_TOTAL_RAIDS": "Raids Totales",
+    "GLB_TOTAL_REVENGE": "Venganzas Totales",
+    "GLB_EMBED_FOOTER": "S{{season}}: Las temporadas de gremios tienen una duración de 24 días."
 }
