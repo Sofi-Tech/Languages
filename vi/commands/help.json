@@ -1,6 +1,6 @@
 {
     "HELP_CATEGORY": "Cài đặt",
-    "HELP_SLASH_DESC": "Nhập tên lệnh mà bạn muốn biết thêm",
+    "HELP_SLASH_DESC": "Nhập tên lệnh mà bạn muốn tìm hiểu thêm",
     "HELP_DESCRIPTION": "Sử dụng lệnh này mà không có các tham số bổ sung sẽ mở danh sách tất cả các lệnh có sẵn trong Sofi. Nếu bạn thêm tên lệnh cụ thể ở phía sau thì sẽ mở một bảng giải thích cách sử dụng lệnh đó và hiển thị cách sử dụng chính xác của nó",
     "FILTER_EMBED_TITLE": "SOFI: COLLECTION FILTERS",
     "USE_FILTER_ORDER": "**__Lựa Chọn Sắp Xếp:__**\n\n<:pdot:979009081325019156> **Thứ Tự** = [`o`/`order`] | **`{{prefix}}c order wl>SỐ o=d`**\n<:pdot:979009081325019156> **Giảm Dần** = [`d`] | **`{{prefix}}c order wl>SỐ o=d`**\n<:pdot:979009081325019156> **Tăng Dần** = [`a`] | **`{{prefix}}c order wl>SỐ o=a`**",

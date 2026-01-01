@@ -1,9 +1,9 @@
 {
     "FORM_SG_CONFIRM": "Bạn có chắc muốn hợp nhất các vật phẩm sau đây không:\n\n{{glowCodes}}\n+ <:resin:938131736741691442> **2x** **Resin**\n\nthành **{{superGlowName}}** **Super Glow**?",
     "SUPERGLOW_DESCRIPTION": "Bạn có thể sử dụng lệnh này để kết hợp 2 Glow và 2 Resin thành một Super Glow. Super Glow sẽ sở hữu cả hai mẫu màu của Glow gốc được sử dụng trong quá trình hợp nhất",
-    "SG_CATEGORY": "Đồ trang trí",
+    "SG_CATEGORY": "Cosmetics",
     "GLOW_CODES_MISSING": "{{author}} Cách sử dụng đúng: `{{prefix}}sg <#GlowCode1> <#GlowCode2>`",
-    "GLOW_NOT_FOUND": "{{author}} Ít nhất một trong các mã **Glow** mà bạn cung cấp không hợp lệ hoặc không có trong kho của bạn",
+    "GLOW_NOT_FOUND": "{{author}} Ít nhất một trong các mã **Glow** mà bạn cung cấp không hợp lệ hoặc không có trong kho đồ của bạn",
     "UNAVAILABLE_GLOW": "{{author}} Ít nhất một trong các mã **Glow** mà bạn cung cấp đang trống",
     "NO_USE_SG": "{{author}} Bạn không thể sử dụng **Super Glow** cho quy trình này",
     "SAME_GLOWS": "{{author}} Bạn không thể sử dụng cùng một **Glow** nhiều hơn một lần",
