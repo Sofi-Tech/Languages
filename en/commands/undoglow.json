@@ -13,5 +13,5 @@
     "NOT_ENOUGH_SILVERS": "You don't have enough **{{currency}}** for this process",
     "UNG_SUCCESSFUL": "{{author}} Successfully removed the **{{glowName}}** **Glow** from your card",
     "UNAVAILABLE": "Unavailable",
-    "UNDOGLOW_EXTRA_INFO": "Using this command on a card will completely remove any Glow from it. This change cannot be reverted"
+    "UNDOGLOW_EXTRA_INFO": "Completely removes any Glow from a specified card. This change cannot be reverted"
 }

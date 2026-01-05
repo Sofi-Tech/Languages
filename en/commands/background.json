@@ -1,12 +1,13 @@
 {
-  "BACKGROUND_DESCRIPTION": "Once a card has been converted into its 3D variant, you can use this command to apply a Background to it. Use the \"{{prefix}}backgroundshop\" command to purchase Backgrounds",
-  "BG_CATEGORY": "Cosmetics",
-  "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bg <CardCode> <Background-ID>`",
-  "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
-  "NON_3D_CARDS": "{{author}} You cannot apply a **Background** to non-3D cards",
-  "BG_NOT_FOUND": "{{author}} Could not find any **Background** with that ID",
-  "EMBED_TITLE": "SOFI: BACKGROUND",
-  "EMBED_DESCRIPTION": "Are you sure you want to apply the **{{background}}** **Background** to this card?",
-  "USER_NO_BG": "{{author}} You don't have that **Background**",
-  "BG_APPLY_SUCCESSFUL": "{{author}} Successfully applied the **{{background}}** **Background** to your card"
+    "BACKGROUND_DESCRIPTION": "Applies a Background to a 3D card",
+    "BG_CATEGORY": "Cosmetics",
+    "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bg <CardCode> <Background-ID>`",
+    "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
+    "NON_3D_CARDS": "{{author}} You cannot apply a **Background** to non-3D cards",
+    "BG_NOT_FOUND": "{{author}} Could not find any **Background** with that ID",
+    "EMBED_TITLE": "SOFI: BACKGROUND",
+    "EMBED_DESCRIPTION": "Are you sure you want to apply the **{{background}}** **Background** to this card?",
+    "USER_NO_BG": "{{author}} You don't have that **Background**",
+    "BG_APPLY_SUCCESSFUL": "{{author}} Successfully applied the **{{background}}** **Background** to your card",
+    "BACKGROUND_EXTRA_INFO": "Applies a Background to a 3D card variant. Use the \"{{prefix}}backgroundshop\" command to purchase Backgrounds"
 }
