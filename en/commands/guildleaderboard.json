@@ -1,11 +1,12 @@
 {
-  "GUILDLEADERBOARD_DESCRIPTION": "This command displays scores and rankings between guilds for any ongoing competition as well as time remaining",
-  "GUILDLEADERBOARD_CATEGORY": "Guilds",
-  "SEASON_ENDS": "**Season Ends: {{time}}**",
-  "GRACE_ENDS": "**Grace Ends: {{time}}**",
-  "GLB_EMBED_TITLE": "SOFI: GUILD LEADERBOARD",
-  "GLB_TOTAL_GUILDS": "Total Guilds",
-  "GLB_TOTAL_RAIDS": "Total Raids",
-  "GLB_TOTAL_REVENGE": "Total Revenge",
-  "GLB_EMBED_FOOTER": "S{{season}}: Guild Seasons last for 24 days."
+    "GUILDLEADERBOARD_DESCRIPTION": "Shows the leaderboard for the raid season",
+    "GUILDLEADERBOARD_CATEGORY": "Guilds",
+    "SEASON_ENDS": "**Season Ends: {{time}}**",
+    "GRACE_ENDS": "**Grace Ends: {{time}}**",
+    "GLB_EMBED_TITLE": "SOFI: GUILD LEADERBOARD",
+    "GLB_TOTAL_GUILDS": "Total Guilds",
+    "GLB_TOTAL_RAIDS": "Total Raids",
+    "GLB_TOTAL_REVENGE": "Total Revenge",
+    "GLB_EMBED_FOOTER": "S{{season}}: Guild Seasons last for 24 days.",
+    "GUILDLEADERBOARD_EXTRA_INFO": "Shows the leaderboard for the raid season. Which includes the scores and rankings between the participating guilds, as well as the time remaining for the season"
 }

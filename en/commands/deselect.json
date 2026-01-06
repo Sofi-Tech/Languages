@@ -1,7 +1,8 @@
 {
-  "DESELECT_DESCRIPTION": "This command can be used to remove a card from any decks that it is currently saved in",
-  "DESELECT_CATEGORY": "Guilds",
-  "ENTER_VALID_CODE": "{{author}} Correct usage: `{{prefix}}ds <CardCode>`",
-  "NOT_OWN_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
-  "DESELECTED_SUCCESSFULLY": "{{author}} The card was successfully deselected"
+    "DESELECT_DESCRIPTION": "Removes a card from decks",
+    "DESELECT_CATEGORY": "Guilds",
+    "ENTER_VALID_CODE": "{{author}} Correct usage: `{{prefix}}ds <CardCode>`",
+    "NOT_OWN_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
+    "DESELECTED_SUCCESSFULLY": "{{author}} The card was successfully deselected",
+    "DESELECT_EXTRA_INFO": "Removes a card from any decks that it is currently saved in"
 }
