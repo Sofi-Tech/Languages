@@ -14,5 +14,6 @@
     "NO_TP_2": "{{author}} You need an active **Trade Pass** to participate!",
     "REQ_MORE_PLAYERS": "{{user}} You need at least **2** players in order to start the game",
     "GUESS_THE_WORD": "{{participants}}\n\nUnscramble the **english** word: `{{scrambledWord}}`",
-    "CORRECT_GUESS": "{{winner}} Successfully guessed the word and won **{{jackpot}}** {{currencyEmoji}}"
+    "CORRECT_GUESS": "{{winner}} Successfully guessed the word and won **{{jackpot}}** {{currencyEmoji}}",
+    "GUESS_EXTRA_INFO": "Starts a word game to play against others. All players that join the guessing game will have the displayed currency amount deducted from their inventory once the game starts. A random english word will be selected and then scrambled. The first person to successfully type the original word in chat will be the winner of the guessing game and obtain the sum of all entry fees"
 }
