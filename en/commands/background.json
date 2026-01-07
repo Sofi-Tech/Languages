@@ -1,5 +1,5 @@
 {
-    "BACKGROUND_DESCRIPTION": "Applies a Background to a 3D card",
+    "BACKGROUND_DESCRIPTION": "Applies a Background to a 3D card variant",
     "BG_CATEGORY": "Cosmetics",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}bg <CardCode> <Background-ID>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",

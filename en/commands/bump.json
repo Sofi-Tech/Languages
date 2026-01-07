@@ -1,5 +1,5 @@
 {
-    "BUMP_DESCRIPTION": "Bump to obtain Bump Points to purchase items",
+    "BUMP_DESCRIPTION": "Shows how to bump to obtain Bump Points to purchase items",
     "BUMP_CATEGORY": "Settings",
     "EMBED_AUTHOR": "SOFI: BUMP ({{username}})",
     "GET_DIFFERENT_REWARDS": "Press the **Bump** button on our official [Website](https://sofi.gg) to obtain rewards",
@@ -7,5 +7,5 @@
     "BUMP_POINTS": "- Current Points: **{{bumpPoints}}** (🔺)",
     "EMBED_FOOTER": "You can use the Bump function every 4 hours!",
     "BUMP": "Bump",
-    "BUMP_EXTRA_INFO": "Using this command will create an embed showing your total Bumps as well as your currently available Bump Points, which can be used on the official Sofi.gg website to purchase items including the Trade Pass"
+    "BUMP_EXTRA_INFO": "Shows how to bump to obtain Bump Points to purchase items. With this command you can also see your currently available Bump Points, which can be used on the official Sofi.gg website to purchase items including a Trade Pass"
 }

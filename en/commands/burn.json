@@ -19,5 +19,5 @@
     "BURN_REWARDS":"__Rewards__",
     "SUCCESSFUL_CARD_BURN":"{{author}} Successfully burned your card",
     "QUEST_CARD":"{{author}} You cannot burn a card that is currently used in a quest",
-    "BURN_EXTRA_INFO":"Using this command without adding a card code will attempt to burn your most recently obtained card"
+    "BURN_EXTRA_INFO":"Burns a card in exchange for Silver & Cubes. Using this command without adding a card code will attempt to burn your most recently obtained card"
 }
