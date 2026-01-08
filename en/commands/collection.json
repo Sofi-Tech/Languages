@@ -67,5 +67,5 @@
     "SAVE_FILTER": "Select a Filter",
     "NOT_ENOUGH_SILVER_SAVING": "{{author}} You don't have enough **Silver** to save this filter",
     "FILTER_NAME_EXISTS": "The filter with name `{{filterName}}` already exists",
-    "COLLECTION_EXTRA_INFO": "Without prompts this command will show your card collection, or with the name of another player their card collection, which can then be sorted and filtered in various ways. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the prompt \"t:ut\" in addition to this command to highlight all cards in your collection that currently don't have a tag. Use the \"{{prefix}}help filter\" command to see all available filters"
+    "COLLECTION_EXTRA_INFO": "Shows the players collection of cards. Using this command without a prompt will show your card collection, adding another player's username or user id will show their card collection if public, which can then be sorted and filtered in various ways. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the prompt \"t:ut\" in addition to this command to highlight all cards in your collection that currently don't have a tag. Use the \"{{prefix}}help filter\" command to see all available filters"
 }

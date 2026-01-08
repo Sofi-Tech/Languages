@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Shows a character 2D/3D/GIF and Gen/fan leaderboards",
+    "CHARLOOKUP_DESCRIPTION": "Looks up and shows a character 2D, 3D, GIF and Gen, fan leaderboards",
     "CL_FORCE_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}cl -f <CharacterName>`",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
@@ -42,5 +42,5 @@
     "NO_GIF_OWNER_FOUND": "Nobody owns a **GIF** variant of this character yet",
     "NO_VERSIONS_FOUND": "This character does not have any Versions yet",
     "MINIMUM_POINTS": "You have to add at least 1000 Fan Points to feature on a leaderboard",
-    "CHARLOOKUP_EXTRA_INFO": "With this command you can look up any given character, or the most recent character in your collection, for their Card-ID, statistics, 2D/3D/GIF variants, as well as their top 20 Gen/Fan leaderboards"
+    "CHARLOOKUP_EXTRA_INFO": "Looks up a character and shows 2D, 3D, GIF and Gen/fan leaderboards; as well as its Card-ID and statistics. If used without a character name, it will instead look up your most recently obtained card character."
 }

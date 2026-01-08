@@ -1,5 +1,5 @@
 {
-    "GLOWNAME_DESCRIPTION": "Use this command to change the name of your Glow",
+    "GLOWNAME_DESCRIPTION": "Changes the name of a selected Glow",
     "GN_CATEGORY": "Cosmetics",
     "UNLOCK_GLOWS": "{{author}} You do not have any **Glows**",
     "WRONG_USAGE": "{{author}} Correct usage: `{{prefix}}gn <#GlowCode> <NewName>`",

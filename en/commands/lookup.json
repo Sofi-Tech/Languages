@@ -1,5 +1,5 @@
 {
-    "LOOKUP_DESCRIPTION": "Shows a character Versions and Event variants",
+    "LOOKUP_DESCRIPTION": "Looks up a character and shows its Versions and Event variants",
     "CHAR_NOT_FOUND": "{{author}} Could not find any character with the name `{{arg}}`",
     "CHAR_NF_SENSITIVE": "{{author}} Could not find any character with the name `{{arg}}`\n```fix\nNote: Using the `-f` flag turns the function case sensitive!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",
@@ -20,5 +20,5 @@
     "LU_FUSED_UNFUSED": "**Fused / Unfused**",
     "UPCOMING_EVENT": "Upcoming Event",
     "NO_OWNER_FOUND": "Nobody owns a **2D** variant of this character yet",
-    "LOOKUP_EXTRA_INFO": "With this command you can look up any given character, or the most recent character in your collection, for their different Versions and Event variants"
+    "LOOKUP_EXTRA_INFO": "Looks up a character and shows its Versions and Event variants. You can look up any given character, or without a prompt the most recent character in your collection."
 }

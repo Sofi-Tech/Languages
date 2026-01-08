@@ -15,5 +15,5 @@
     "DEMOTED_ADVENTURER": "{{member}} was demoted to **Newbie**",
     "DEMOTE_ADVENTURER_ERROR": "{{author}} Only **Guildmasters** and **Veterans** can be demoted to **Newbies**",
     "DEMOTE_OTHERS_ERROR": "{{author}} You must be a **Founder** or **Guildmaster** to demote others",
-    "GUILDDEMOTE_EXTRA_INFO": "Demotes the selected member's rank within the guild"
+    "GUILDDEMOTE_EXTRA_INFO": "Demotes the selected member's rank within the guild. This command can only be used by a Founder or Guildmaster"
 }

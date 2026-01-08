@@ -1,5 +1,5 @@
 {
-    "DESELECT_DESCRIPTION": "Removes a card from decks",
+    "DESELECT_DESCRIPTION": "Removes a card from any decks",
     "DESELECT_CATEGORY": "Guilds",
     "ENTER_VALID_CODE": "{{author}} Correct usage: `{{prefix}}ds <CardCode>`",
     "NOT_OWN_CARD": "{{author}} The card code you provided is either invalid or not in your collection",

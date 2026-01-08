@@ -7,5 +7,5 @@
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Successfully removed the tag from your **{{glow}}** **Glow**",
     "GLOW_UNTAG_PLURAL": "{{author}} Successfully removed the tag from **{{count}}** **Glows**",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} The following **Glow** codes are either invalid or not in your inventory:\n{{invalidCodeList}}",
-    "GLOWUNTAG_EXTRA_INFO": "If you want to delete an entire Glow tag you can use the \"{{prefix}}glowtagdelete\" command instead"
+    "GLOWUNTAG_EXTRA_INFO": "Removes a Glow tag from Glows. If you want to delete an entire Glow tag you can use the \"{{prefix}}glowtagdelete\" command instead"
 }
