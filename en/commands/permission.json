@@ -41,5 +41,5 @@
     "NO_BUTTON_LABEL": "Deny",
     "PERMS_BLACKLIST_LISTNAME": "Blacklist",
     "PERMS_WHITELIST_LISTNAME": "Whitelist",
-    "PERMISSION_EXTRA_INFO": "Whitelisted commands will be the only commands useable in the channel, making every other command unusable. Blacklisted commands will be the only commands unusable in the channel."
+    "PERMISSION_EXTRA_INFO": "Whitelist or blacklist commands within the channel it is used in. Whitelisted commands will be the only commands useable in the channel, making every other command unusable. Blacklisted commands will be the only commands unusable in the channel."
 }

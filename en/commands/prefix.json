@@ -3,5 +3,5 @@
     "PREFIX_CATEGORY": "Settings",
     "PROVIDE_PREFIX": "{{author}} Correct usage: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} The prefix for this server has been set to `{{prefix}}`",
-    "PREFIX_EXTRA_INFO": "The selected prefix will be required to execute commands against Sofi. The default prefix is \"s\""
+    "PREFIX_EXTRA_INFO": "Sets the prefix for your server that players can use with Sofi. The selected prefix will be required to execute commands against Sofi. The default prefix is \"s\""
 }
