@@ -1,5 +1,5 @@
 {
-    "UNDOGLOW_DESCRIPTION": "Removes any Glow from a card",
+    "UNDOGLOW_DESCRIPTION": "Completely removes any Glow from a specified card",
     "UNG_CATEGORY": "Cosmetics",
     "UNG_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}ung <CardCode>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",

@@ -1,5 +1,5 @@
 {
-    "WISHLIST_DESCRIPTION": "Shows the players character/version wishlist",
+    "WISHLIST_DESCRIPTION": "Shows the players character or Version Token wishlist",
     "CATEGORY": "Wishlist",
     "USER_NOT_FOUND": "{{author}} Could not find that user",
     "PAGE": "Copy Page - {{page}}",
@@ -36,5 +36,5 @@
     "WISHLIST_CODE_EMBED_TITLE": "SOFI: WISHLIST CODES",
     "UPGRADE_EMEBD_TITLE": "SOFI: UPGRADE WISHLIST",
     "UPGRADE_EMBED_DESCRIPTION": "You can unlock up to a maximum of 100 slots",
-    "WISHLIST_EXTRA_INFO": "Using this command without a prompt will show your character/Version wishlist, adding another player's username or user id will show their character/Version wishlist if public. Use the \"{{prefix}}wishlistadd\" command to add characters to your wishlist"
+    "WISHLIST_EXTRA_INFO": "Shows the players character or Version Token wishlist. Using this command without a prompt will show your wishlist, adding another player's username or user id will show their wishlist if public. Use the \"{{prefix}}wishlistadd\" command to add characters to your wishlist"
 }

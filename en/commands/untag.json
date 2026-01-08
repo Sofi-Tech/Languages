@@ -6,5 +6,5 @@
     "UNTAG_SUCCESSFUL": "{{author}} Successfully removed the tag from **{{cardName}}**",
     "MULTIPLE_UNTAG": "{{author}} Successfully removed the tag from **{{count}}** codes",
     "INVALID_CODE_MULTIPLE": "{{author}} The following codes are either invalid or not in your collection:\n{{invalidCodeList}}",
-    "UNTAG_EXTRA_INFO": "If you want to delete an entire tag you can use the \"{{prefix}}tagdelete\" command instead"
+    "UNTAG_EXTRA_INFO": "Removes a tag from cards and/or Version Tokens. If you want to delete an entire tag you can use the \"{{prefix}}tagdelete\" command instead"
 }

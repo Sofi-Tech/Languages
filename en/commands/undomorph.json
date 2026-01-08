@@ -1,5 +1,5 @@
 {
-    "UNDOMORPH_DESCRIPTION": "Removes any Morph from a card or banner",
+    "UNDOMORPH_DESCRIPTION": "Completely removes any Morph from a specified card or banner",
     "UM_CATEGORY": "Cosmetics",
     "UM_INVALID_USAGE": "{{author}} Correct usage: `{{prefix}}um <CardCode>`",
     "INVALID_CODE": "{{author}} The card code you provided is either invalid or not in your collection",
@@ -12,5 +12,5 @@
     "SOMETHING_WENT_WRONG": "{{author}} Something went wrong, please try again",
     "NOT_ENOUGH_SILVERS": "You don't have enough **{{currency}}** for this process",
     "UM_SUCCESSFUL": "{{author}} Successfully removed this card's morph",
-    "UNDOMORPH_EXTRA_INFO": "Using this command on a card or banner will completely remove any Morph from it. This change cannot be reverted"
+    "UNDOMORPH_EXTRA_INFO": "Completely removes any Morph from a specified card or banner. This change cannot be reverted"
 }
