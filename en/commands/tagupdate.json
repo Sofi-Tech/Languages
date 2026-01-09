@@ -18,5 +18,5 @@
     "WRONG_TAGEMOJI_FORMAT": "{{author}} That emoji is invalid",
     "REPLACE_EMOJI_CONFIRMATION": "Are you sure you want to change the emoji of this tag from {{oldEmoji}} to {{newEmoji}}?",
     "REPLACE_EMOJI_SUCCESSFUL": "{{author}} Successfully updated the emoji of this tag from {{oldEmoji}} to {{newEmoji}}",
-    "TAGUPDATE_EXTRA_INFO": "Use this command to independently update a tag's name or emoji"
+    "TAGUPDATE_EXTRA_INFO": "Updates a tag's name or emoji independent of each other"
 }

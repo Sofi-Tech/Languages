@@ -1,7 +1,7 @@
 {
     "NOT_ENOUGH_SILVERS": "Bạn không có đủ **{{currency}}** cho quá trình này",
     "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "UNDOGLOW_DESCRIPTION": "Sử dụng lệnh này cho một thẻ sẽ gỡ Glow đang được áp dụng lên nó",
+    "UNDOGLOW_DESCRIPTION": "Gỡ Glow khỏi thẻ",
     "UNG_CATEGORY": "Đồ trang trí",
     "UNG_INVALID_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}ung <CardCode>`",
     "NO_CHARACTER": "{{author}} Nhân vật trên thẻ này hiện không còn tồn tại trên Sofi và không thể tương tác được nữa",

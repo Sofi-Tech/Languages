@@ -1,5 +1,5 @@
 {
-    "GLOWTAGLIST_DESCRIPTION": "Views all current Glow tags",
+    "GLOWTAGLIST_DESCRIPTION": "Shows the players list of Glow tags",
     "GTL_CATEGORY": "Tags",
     "NO_TAGS": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <Name> <Emoji>`",
     "GLOWS_zero": "{{count}} Glows",
@@ -9,5 +9,5 @@
     "GLOWS_other": "{{count}} Glows",
     "GLOWS_many": "{{count}} Glows",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
-    "GLOWTAGLIST_EXTRA_INFO": "Use this command to list your or another user's current Glow tags if indicated. You can use the \"{{prefix}}glowtagcreate\" command in order to create more tags"
+    "GLOWTAGLIST_EXTRA_INFO": "Shows the players list of Glow tags. Using this command without a prompt will show your Glow tag list, adding another player's username or user id will show their Glow tag list. You can use the \"{{prefix}}glowtagcreate\" command in order to create more tags"
 }

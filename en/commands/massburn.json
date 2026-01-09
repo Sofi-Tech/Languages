@@ -1,5 +1,5 @@
 {
-    "MASSBURN_DESCRIPTION": "Burns multiple cards at once, check filters before burning them",
+    "MASSBURN_DESCRIPTION": "Burns multiple cards at once, check the cards before burning them",
     "IN_ACTIVE_MB": "{{user}} You cannot start a new **Massburn** while an old one is still active",
     "PROVIDE_FILTERS": "{{author}} Correct usage: `{{prefix}}mb <Filters>`\n```fix\nNote: Specify which cards you want to burn by applying Gen/Tag/Wishlist filters. You can find a comprehensive list of filters by using the \"{{prefix}}help filters\" command\n```",
     "WRONG_TAG": "{{author}} Could not find any tag with the name `{{arg}}`",
@@ -11,5 +11,5 @@
     "MISSING_CARDS": "{{author}} At least one of your selected cards is no longer in your collection",
     "SUCCESS": "{{author}} Successfully burned your selected cards",
     "BURN_REWARDS": "__Rewards__",
-    "MASSBURN_EXTRA_INFO": "By adding Gen/Tag/Wishlist filters, you can specify which cards you want to burn"
+    "MASSBURN_EXTRA_INFO": "Burns multiple cards at once, check the cards before burning them. By adding a prompt with Gen, tag or wishlist filters, you can specify which cards you want to burn"
 }

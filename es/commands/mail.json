@@ -1,14 +1,14 @@
 {
-  "MAIL_DESCRIPTION": "Este comando abrirá tu bandeja de entrada en la cual encontrarás varios mensajes enviados por Sofi informando acerca de eventos, ademas de anunciando cambios y nuevas caracteristicas",
-  "MAIL_CATEGORY": "Configuración",
-  "MENU_PLACEHOLDER": "Selecciona una opción",
-  "EMBED_AUTHOR": "Bandeja de entrada de {{username}}",
-  "EMBED_FOOTER": "Página: {{page}}/{{pagesNum}}",
-  "REWARD_CLAIMED_BUTTON_LABEL": "Reclamado",
-  "CLAIMED_REWARD_ALREADY": "{{author}} Ya has reclamado la recompensa en un comando anterior",
-  "CLAIM_REWARD_BUTTON_LABEL": "Reclama tu recompensa",
-  "MAIL_REWARDS": "**__Recompensas__**\n",
-  "MAIL_FRAME": "**Frame**",
-  "NO_MAILS_FOUND": "{{author}} No tienes ningún correo en tu bandeja de entrada",
-  "REWARD_CLAIM_INVENTORY": "{{author}} Los ítems adjuntos han sido agregados a tu inventario"
+    "MAIL_DESCRIPTION": "Este comando abrirá tu bandeja de entrada en la cual encontrarás varios mensajes enviados por Sofi informando acerca de eventos, ademas de anunciando cambios y nuevas caracteristicas",
+    "MAIL_CATEGORY": "Configuración",
+    "MENU_PLACEHOLDER": "Selecciona una opción",
+    "EMBED_AUTHOR": "Bandeja de entrada de {{username}}",
+    "EMBED_FOOTER": "Página: {{page}}/{{pagesNum}}",
+    "REWARD_CLAIMED_BUTTON_LABEL": "Reclamado",
+    "CLAIMED_REWARD_ALREADY": "{{author}} Ya has reclamado la recompensa en un comando anterior",
+    "CLAIM_REWARD_BUTTON_LABEL": "Reclama tu recompensa",
+    "MAIL_REWARDS": "**__Recompensas__**\n",
+    "MAIL_FRAME": "**Frame**",
+    "NO_MAILS_FOUND": "{{author}} No tienes ningún correo en tu bandeja de entrada",
+    "REWARD_CLAIM_INVENTORY": "{{author}} Los ítems adjuntos han sido agregados a tu inventario"
 }

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "VIEWGLOWS_DESCRIPTION": "Use this command to inspect a users current Glows. Using a Glow code as parameter will instead open an embed with details about the Glow",
   "VG_CATEGORY": "Cosmetics",
   "VG_SLASH_DESC1": "Select a user whose \"Glows\" you would like to see",
@@ -30,4 +31,37 @@
   "PURITY": "Purity1",
   "PURITY2": "Purity2",
   "HEX_CODE": "Hex"
+=======
+    "VIEWGLOWS_DESCRIPTION": "Shows the players collection of Glows",
+    "VG_CATEGORY": "Cosmetics",
+    "VG_SLASH_DESC1": "Select a user whose \"Glows\" you would like to see",
+    "VG_SLASH_DESC2": "Provide the name of the tag you want to filter for",
+    "VG_SLASH_DESC3": "Provide the code of a \"Glow\" you want to inspect",
+    "NO_GLOWS": "{{author}} That user does not have any **Glows**",
+    "SUPER": "Super",
+    "SORT_BUTTON_LABEL": "Sort",
+    "EMBED_TITLE": "SOFI: VIEW GLOW",
+    "EMBED_FOOTER": "Showing page: {{page}}/{{totalPages}} | Total: {{count}}",
+    "NO_GLOWS_FOUND": "{{author}} You don't have any tag with the name `{{tagName}}`",
+    "NO_GLOWS_SELF": "{{author}} You don't have any **Glows** yet",
+    "CANNOT_FIND_GLOW": "{{author}} Could not find any **Glow** with the code `{{glowCode}}`",
+    "INVALID_USER": "{{author}} Could not find that user",
+    "EMBED_GLOW_TITLE": "SOFI: VIEW GLOW",
+    "VG_NAME": "Name",
+    "VG_CODE": "Code",
+    "VG_STATUS": "Status",
+    "VG_TYPE": "Type",
+    "VG_USED": "Used",
+    "TIME_zero": "{{count}} times",
+    "TIME_one": "{{count}} time",
+    "TIME_two": "{{count}} times",
+    "TIME_few": "{{count}} times",
+    "TIME_other": "{{count}} times",
+    "TIME_many": "{{count}} times",
+    "VG_OWNER": "Owner",
+    "VG_TAG": "Tag",
+    "PURITY": "Purity1",
+    "PURITY2": "Purity2",
+    "VIEWGLOWS_EXTRA_INFO": "Shows the players collection of Glows. Without prompts this command will show your Glow collection, or with the name of another player their Glow collection. Using this command with a Glow code will instead show the details about the Glow"
+>>>>>>> 46cb96da3dac5e63517260988bd769066bbe779b
 }

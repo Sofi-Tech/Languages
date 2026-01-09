@@ -6,5 +6,5 @@
     "INVALID_TAGNAME_FORMAT": "{{author}} The name of your tag must be alphanumeric and cannot contain special characters, spaces or profanity of any kind",
     "GLOWTAG_ALREADY_EXISTS": "{{author}} You already have a **Glow** tag with that name",
     "CREATED_GLOWTAG": "{{author}} Successfully created a **Glow** tag with the name `{{tag}}` | {{emoji}}",
-    "GLOWTAGCREATE_EXTRA_INFO": "With this command you can create a tag to categorize and group multiple Glows that fit your own criteria, by assigning a name and emoji to the tag. Use the \"{{prefix}}glowtag\" command to assign the newly created tags to your Glows"
+    "GLOWTAGCREATE_EXTRA_INFO": "Creates a Glow tag. Tags allow you to categorize and group multiple Glows that fit your own criteria, by assigning a name and emoji to the tag. Use the \"{{prefix}}glowtag\" command to assign the newly created tags to your Glows"
 }

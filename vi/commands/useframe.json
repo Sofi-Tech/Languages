@@ -1,5 +1,5 @@
 {
-    "UF_CATEGORY": "Đồ trang trí",
+    "UF_CATEGORY": "Cosmetics",
     "CANNOT_APPLY": "{{author}} Bạn không thể áp dụng **Frame** cho thẻ **3D**",
     "NO_GIF": "{{author}} Bạn không thể áp dụng **Frame** cho thẻ **GIF**",
     "NO_FRAMES_FOUND": "{{author}} Mã **Frame** đó không hợp lệ hoặc không có trong kho đồ của bạn",
@@ -8,7 +8,7 @@
     "NO_OWNER": "{{author}} Thẻ này không còn trong bộ sưu tập của bạn nữa",
     "FRAME_NOT_FOUND": "{{author}} Bạn không có **{{frameName}}** **Frame**",
     "UF_SUCCESSFUL": "{{author}} Đã áp dụng **{{frameName}}** **Frame** cho thẻ của bạn",
-    "USEFRAME_DESCRIPTION": "Lệnh này sẽ áp dụng Frame cho thẻ được chọn. Bạn có thể mua Frame bằng cách sử dụng lệnh \"{{prefix}}frameshop\"",
+    "USEFRAME_DESCRIPTION": "Áp dụng Frame cho thẻ",
     "UF_CONFIRMATION": "Bạn có chắc muốn áp dụng **{{frameName}}** **Frame** cho thẻ này không?",
     "UF_INVALID_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}uf <CardCode> <FrameName/$FrameCode>`",
     "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn"

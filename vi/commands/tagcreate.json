@@ -1,11 +1,11 @@
 {
     "INVALID_EMOJI": "{{author}} Emoji đó không hợp lệ",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Tên nhãn phải là chữ và số, không được chứa dấu cách hay ký tự đặc biệt",
-    "TAGCREATE_DESCRIPTION": "Bạn có thể tạo một nhãn để phân loại và nhóm nhiều mã theo cách của riêng bạn bằng lệnh này. Sử dụng lệnh \"{{prefix}}tag\" để gắn nhãn đã tạo cho các thẻ hoặc Version Token của bạn",
-    "TC_CATEGORY": "Nhãn",
+    "INVALID_TAGNAME_FORMAT": "{{author}} Tên tag phải là chữ và số, không được chứa dấu cách hay ký tự đặc biệt",
+    "TAGCREATE_DESCRIPTION": "Tạo tag cho thẻ hoặc Version Token",
+    "TC_CATEGORY": "Tag",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}tc <TagName> <Emoji>`",
-    "TC_MAX_TAGS": "{{author}} Bạn đã tạo tối đa số lượng nhãn mà bạn có thể tạo",
-    "LONG_TAGNAME": "{{author}} Tên nhãn chỉ có thể dài tối đa **20** ký tự",
-    "TAGNAME_EXISTS": "{{author}} Bạn đã có một nhãn tên `{{tag}}`",
-    "TAG_CREATED": "{{author}} Đã tạo nhãn tên `{{tag}}` | {{emoji}}"
+    "TC_MAX_TAGS": "{{author}} Bạn đã tạo tối đa số lượng tag mà bạn có thể tạo",
+    "LONG_TAGNAME": "{{author}} Tên tag chỉ có thể dài tối đa **20** ký tự",
+    "TAGNAME_EXISTS": "{{author}} Bạn đã có một tag tên `{{tag}}`",
+    "TAG_CREATED": "{{author}} Đã tạo tag tên `{{tag}}` | {{emoji}}"
 }

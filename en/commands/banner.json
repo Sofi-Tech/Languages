@@ -1,0 +1,5 @@
+{
+    "BANNER_DESCRIPTION": "Shows the players collection of banners",
+    "BANNER_CATEGORY": "Cosmetics",
+    "BANNER_EXTRA_INFO": "Without prompts this command will show your banner collection, or with the name of another player their banner collection. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the \"{{prefix}}help filter\" command to see all available filters, but note that not all apply to banners. Additionally you can set your banner visibility for different servers for your user info"
+}

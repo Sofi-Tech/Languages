@@ -16,5 +16,5 @@
     "UNREAD_MAIL_other": "\n📫 You have **{{count}}** unread mails \nUse the `{{prefix}}mail` command to read them",
     "UNREAD_MAIL_many": "\n📫 You have **{{count}}** unread mails \nUse the `{{prefix}}mail` command to read them",
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
-    "COOLDOWN_EXTRA_INFO": "If you want to be notified about your Vote/Daily/Bump cooldown, click on the bell icon below the embed. You can also purchase drop addons with the command"
+    "COOLDOWN_EXTRA_INFO": "Shows the list of your current cooldowns. If you want to be notified about your Vote/Daily/Bump cooldown, click on the bell icon below the embed. You can also purchase drop addons with the command"
 }

@@ -1,5 +1,5 @@
 {
-    "PREFIX_DESCRIPTION": "Với lệnh này, bạn có thể đặt prefix cho máy chủ của bạn. Prefix được chọn sẽ được yêu cầu để thực thi các lệnh trên Sofi",
+    "PREFIX_DESCRIPTION": "Đặt prefix cho máy chủ của bạn mà người chơi có thể sử dụng với Sofi",
     "PREFIX_CATEGORY": "Cài đặt",
     "PROVIDE_PREFIX": "{{author}} Cách sử dụng đúng: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} Prefix cho máy chủ này đã được thiết lập thành `{{prefix}}`"

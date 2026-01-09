@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "Assigns a Glow tag to Glows",
+    "GLOWTAG_DESCRIPTION": "Assigns a Glow tag to one or multiple Glows",
     "GT_CATEGORY": "Tags",
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gt <TagName> <#GlowCode>`",
     "GLOWTAGS_NOT_FOUND": "{{author}} You don't have a **Glow** tag yet. You can create them with the command: `{{prefix}}gtc <TagName> <Emoji>`",
@@ -9,5 +9,5 @@
     "INVALID_GLOW_CODE": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** was successfully tagged as `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} All selected **Glows** were successfully tagged as `{{tag}}`",
-    "GLOWTAG_EXTRA_INFO": "With this command you can assign a tag to multiple Glows. Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}glowtagcreate\" command to create tags"
+    "GLOWTAG_EXTRA_INFO": "Assigns a Glow tag to one or multiple Glows. Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}glowtagcreate\" command to create tags"
 }

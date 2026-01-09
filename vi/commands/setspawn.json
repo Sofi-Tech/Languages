@@ -1,5 +1,5 @@
 {
-    "SETSPAWN_DESCRIPTION": "Sử dụng lệnh này trong một kênh hoặc nhắc đến kênh nào đó sẽ thiết lập hoặc gỡ bỏ kênh đó là kênh spawn. Dựa vào hoạt động của máy chủ, Sofi sẽ tự thả thẻ trong kênh đã được thiết lập trước đó",
+    "SETSPAWN_DESCRIPTION": "Đặt kênh spawn cho hoạt động thả thẻ",
     "SS_CATEGORY": "Cài đặt",
     "SS_SLASH_DESC": "Chọn một kênh",
     "SS_MENTION_CHANNEL": "{{author}} Cách sử dụng đúng: `{{prefix}}ss <#ChannelMention/ChannelID>`",

@@ -5,10 +5,10 @@
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
     "TOTAL_VOTES": "- Tổng **Vote**: **{{totalVotes}}**",
-    "USE_WIST": "Bạn sẽ nhận được **1 Wist** <:wist:870339503427027005> cho mỗi lần **Vote** trên [Top.gg](https://top.gg/bot/853629533855809596)!",
+    "USE_WIST": "Bạn sẽ nhận được **1 Wist** <:wist:870339503427027005> cho mỗi lần **Vote** trên [Top.gg](https://top.gg/bot/853629533855809596/vote)!",
     "MONTHLY_VOTES": "- Tháng này đã **Vote**: **{{monthlyVotes}}**",
     "EMBED_FOOTER": "Bạn sẽ nhận được gấp đôi Wist vào cuối tuần",
-    "VOTE_RESET": "- Làm mới trong: **{{countdown}}**",
+    "VOTE_RESET": "- **Đặt lại** {{countdown}}",
     "VOTE_DBL": "Vote trên DiscordBotList",
     "USE_ELIXIR": "Bạn sẽ nhận được **5 Elixir** <:xelixir:979673719884636210> cho mỗi lần **Vote** trên [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
 }

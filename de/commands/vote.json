@@ -4,10 +4,10 @@
     "VOTE": "Vote auf Top.GG",
     "BUMP": "Bump",
     "EMBED_TITLE": "SOFI: VOTE ({{username}})",
-    "USE_WIST": "Du erhältst **1 Wist** <:wist:870339503427027005> für jeden erfolgreichen **Vote** auf [Top.gg](https://top.gg/bot/853629533855809596)!",
+    "USE_WIST": "Du erhältst **1 Wist** <:wist:870339503427027005> für jeden erfolgreichen **Vote** auf [Top.gg](https://top.gg/bot/853629533855809596/vote)!",
     "TOTAL_VOTES": "- Gesamte **Votes**: **{{totalVotes}}**",
     "MONTHLY_VOTES": "- Monatliche **Votes**: **{{monthlyVotes}}**",
-    "VOTE_RESET": "- Zurücksetzung in: **{{countdown}}**",
+    "VOTE_RESET": "- **Zurücksetzung** {{countdown}}",
     "EMBED_FOOTER": "Du erhältst an Wochenenden die doppelte Menge an Wists",
     "VOTE_DBL": "Vote auf DiscordBotList",
     "USE_ELIXIR": "Du erhältst **5 Elixirs** <:xelixir:979673719884636210> für jeden erfolgreichen **Vote** auf [DiscordBotList](https://discordbotlist.com/bots/sofi/upvote)!"
