@@ -8,5 +8,5 @@
     "LONG_TAGNAME": "{{author}} The name of your tag can only be **20** characters long",
     "TAGNAME_EXISTS": "{{author}} You already have a tag with the name `{{tag}}`",
     "TAG_CREATED": "{{author}} Successfully created a tag with the name `{{tag}}` | {{emoji}}",
-    "TAGCREATE_EXTRA_INFO": "Creates a tag for cards or Version Tokens. Tags are a useful feature to categorize and group multiple codes that fit your own criteria. To create a tag a name and emoji needs to be selected for to the tag. Use the \"{{prefix}}tag\" command to assign the newly created tags to your cards or Version Tokens"
+    "TAGCREATE_EXTRA_INFO": "Tags are a useful feature to categorize and group multiple codes that fit your own criteria. To create a tag a name and emoji needs to be selected for to the tag. Use the \"{{prefix}}tag\" command to assign the newly created tags to your cards or Version Tokens"
 }

@@ -9,5 +9,5 @@
     "INVALID_MULTIPLE_CARD_CODES": "{{author}} The following codes are either invalid or not in your collection:\n{{arg}}",
     "SUCCESSFUL_TAG": "{{author}} Successfully tagged **{{card}}** as `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_TAG": "{{author}} All codes were successfully tagged",
-    "TAG_EXTRA_INFO": "Assigns a tag to cards or Version Tokens. Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}tagcreate\" command to create tags"
+    "TAG_EXTRA_INFO": "Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}tagcreate\" command to create tags"
 }

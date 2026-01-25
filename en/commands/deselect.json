@@ -4,5 +4,5 @@
     "ENTER_VALID_CODE": "{{author}} Correct usage: `{{prefix}}ds <CardCode>`",
     "NOT_OWN_CARD": "{{author}} The card code you provided is either invalid or not in your collection",
     "DESELECTED_SUCCESSFULLY": "{{author}} The card was successfully deselected",
-    "DESELECT_EXTRA_INFO": "Removes a card from any decks that it is currently saved in"
+    "DESELECT_EXTRA_INFO": "Any deck that had the card would need to be modified to select a valid number of cards on them"
 }

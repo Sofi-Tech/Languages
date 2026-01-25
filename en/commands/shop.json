@@ -1,5 +1,5 @@
 {
-    "SHOP_DESCRIPTION": "Opens Sofi's primary shop to buy Gems, utility or Guild Items",
+    "SHOP_DESCRIPTION": "Opens Sofi's primary shop to see Gems, utility or guild Items for sale",
     "GUILD": "Guild",
     "UTILITY": "Utility",
     "GEMS": "Purchase",
@@ -23,5 +23,5 @@
     "DONATE_SUPPORT": "Support us by becoming a patron!",
     "BUY_STAT_RESET": "**1) `{{prefix}}buy sr` | <:elixir:979673719884636210> 500x Elixir ➜ 🌀 1x Stat Reset**",
     "STAT_RESET": "> Resets the allocated stat upgrades of a card",
-    "SHOP_EXTRA_INFO": "Opens Sofi's primary shop to buy Gems, and an assortment of utility or Guild Items"
+    "SHOP_EXTRA_INFO": "Use the \"{{prefix}}buy\" command to purchase utility or guild items"
 }

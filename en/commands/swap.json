@@ -26,5 +26,5 @@
     "MISSING_SWAP_TOKEN": "{{author}} You are missing a **Swap** for this process",
     "DOES_NOT_WORK": "You should not try to exploit. If you come across any exploitable bugs, please report them to Sofi Support Team.",
     "SWAP_SUCCESSFUL": "{{author}} Successfully swapped the selected cosmetics",
-    "SWAP_EXTRA_INFO": "Swaps all cosmetics applied between 2 cards, including Frame, Glow, Layer, Background, Morph and Font changes. It excludes cosmetics on event cards"
+    "SWAP_EXTRA_INFO": "These includes Frame, Glow, Layer, Background, Morph and Font changes. It excludes cosmetics on event cards"
 }

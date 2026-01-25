@@ -8,5 +8,5 @@
     "TAG_DELETE_CONFIRM_NO": "No",
     "TAG_DELETE_CANCEL": "{{author}} The process has been cancelled",
     "SUCCESSFUL_DELETE_TAG": "{{author}} Successfully deleted a tag with the name `{{tag}}`",
-    "TAGDELETE_EXTRA_INFO": "Deletes a tag and removes the tag from all cards and Version Tokens related to it"
+    "TAGDELETE_EXTRA_INFO": "This command removes the tag from all cards and Version Tokens related to it"
 }

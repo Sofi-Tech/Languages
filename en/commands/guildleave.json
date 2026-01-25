@@ -23,5 +23,5 @@
     "TRANSFER_CONFIRM": "Are you sure you want to transfer the guild ownership to <@{{userId}}>?",
     "TRANSFER_SUCCESS": "{{author}} has left the guild and the new **Founder** is <@{{userId}}>",
     "GUILD_LEAVE_CANCEL": "{{author}} decided not to leave the guild",
-    "GUILDLEAVE_EXTRA_INFO": "Leaves your current guild. If you are a Founder and the last member on it, the guild will be deleted. After leaving a guild, you will have to wait 48 hours before joining another one"
+    "GUILDLEAVE_EXTRA_INFO": "If you are a Founder and the last member on it, the guild will be deleted. After leaving a guild, you will have to wait 48 hours before joining another one"
 }

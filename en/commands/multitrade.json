@@ -1,5 +1,5 @@
 {
-    "MULTITRADE_DESCRIPTION": "Trade cards and/or items with other players with a Trade Pass",
+    "MULTITRADE_DESCRIPTION": "Trade cards and/or items with other players",
     "MENTION_USER": "{{author}} Correct usage: `{{prefix}}mt <@User/UserID>`",
     "USER_NOT_FOUND": "{{author}} Could not find that user",
     "IN_TRADE": "{{user}} You have already sent a trade request to someone. Please cancel the previous request before starting a new one.",
@@ -31,5 +31,5 @@
     "MISSING_ITEMS": "{{user}} You have an insufficient amount of the following items:\n{{items}}",
     "MT_TRADE_ERROR": "⚠️Some of the provided items and cards in this trade window are no longer valid!",
     "CANNOT_TRADE_ITEMS": "{{user}} You cannot trade the following items:\n{{items}}",
-    "MULTITRADE_EXTRA_INFO": "Trade cards and/or items with other players with a Trade Pass. This command will send a trade request to another player you have selected if both players have an active Trade Pass. Once they accept the request, the embed will allow both players to submit multiple cards and items to trade. Once both sides have locked in their selection and agreed to the trade, the cards and/or items will be added to both collection or inventory respectively"
+    "MULTITRADE_EXTRA_INFO": "Requires a Trade Pass. This command will send a trade request to another player you have selected if both players have an active Trade Pass. Once they accept the request, the embed will allow both players to submit multiple cards and items to trade. Once both sides have locked in their selection and agreed to the trade, the cards and/or items will be added to both collection or inventory respectively"
 }

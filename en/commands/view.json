@@ -18,5 +18,5 @@
     "MOVES": "Abilities",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
     "SPECIAL": "Special",
-    "VIEW_EXTRA_INFO": "Displays a specified card or banner. If used without a card code, it will instead display your most recently obtained card. You can use the buttons to view stats, change the font, convert the card to 3D, or morph it."
+    "VIEW_EXTRA_INFO": "If used without a card code, it will instead display your most recently obtained card. You can use the buttons to view stats, change the font, convert the card to 3D, or morph it."
 }

@@ -14,5 +14,5 @@
     "KICK_CONFIRM": "Are you sure you want to kick <@{{memberId}}> from the guild?",
     "KICK_SUCCESSFUL": "<@{{memberId}}> has been successfully kicked from the guild",
     "KICK_CANCEL": "You decided not to kick <@{{memberId}}> from the guild",
-    "GUILDKICK_EXTRA_INFO": "Kicks a member from the guild. This command can only be used by a Founder or Guildmaster"
+    "GUILDKICK_EXTRA_INFO": "This command can only be used by a Founder or Guildmaster"
 }

@@ -1,5 +1,5 @@
 {
     "SERIESDROP_DESCRIPTION": "Generates a selection three series to drop 3 cards once every 24 hours",
     "SERIESDROP_CATEGORY": "Cards",
-    "SERIESDROP_EXTRA_INFO": "Generates a selection three series to drop 3 cards once every 24 hours, or you can use an extra Series Drop to generate another series drop vote. You can buy extra Series Drops by using the \"{{prefix}}buy seriesdrop\" command"
+    "SERIESDROP_EXTRA_INFO": "You can use a Series Drop item to generate another series drop vote. You can buy extra Series Drops by using the \"{{prefix}}buy seriesdrop\" command"
 }

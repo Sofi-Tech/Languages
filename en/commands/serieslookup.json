@@ -1,5 +1,5 @@
 {
-    "SERIESLOOKUP_DESCRIPTION": "Shows a series different characters, combo cards, and banners",
+    "SERIESLOOKUP_DESCRIPTION": "Lookup and shows a series different characters, combo cards, and banners",
     "NO__LAST_CHAR_FOUND": "{{author}} You do not have any cards in your collection yet",
     "NO_CHAR_NOT_OWNED": "{{author}} This series does not have any characters that you are missing",
     "NO_CHAR_FOUND": "{{author}} This series does not have any characters yet",
@@ -47,5 +47,5 @@
     "ADDED_TO_WL_few": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}",
     "ADDED_TO_WL_many": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}",
     "ADDED_TO_WL_other": "{{author}} Successfully added **{{count}}** characters to your wishlist: \n{{names}}",
-    "SERIESLOOKUP_EXTRA_INFO": "Shows a series different characters, combo cards, and banners. If used without a series name, it will instead look up your most recently obtained card series. Additionally characters can be added to your wishlist based on their serial number on the series character list"
+    "SERIESLOOKUP_EXTRA_INFO": "If used without a series name, it will instead look up your most recently obtained card series. Additionally characters can be added to your wishlist based on their serial number on the series character list"
 }

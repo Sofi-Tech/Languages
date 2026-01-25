@@ -15,5 +15,5 @@
     "ALLOW_LANG_MENU_LABEL": "Allow all languages",
     "ONE_LANG_MENU_LABEL": "{{locale}} Only",
     "RESTRICT_LANG_MENU_PLACEHOLDER": "Restrict languages on your server",
-    "SERVERINFO_EXTRA_INFO": "Shows the server information and statistics. With this command you can also restrict the languages for your server, which will force all of Sofi's responses to be in the selected language"
+    "SERVERINFO_EXTRA_INFO": "With this command you can also restrict the languages for your server, which will force all of Sofi's responses to be in the selected language"
 }

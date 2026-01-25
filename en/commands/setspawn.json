@@ -5,5 +5,5 @@
     "SS_MENTION_CHANNEL": "{{author}} Correct usage: `{{prefix}}ss <#ChannelMention/ChannelID>`",
     "SS_DISABLE": "{{author}} Cards will no longer spawn on this server",
     "SS_ENABLE": "{{author}} The spawn channel has been set to {{channel}}",
-    "SETSPAWN_EXTRA_INFO": "Sets the spawn channel for activity drops. This command can be used in a channel or mentioning a channel. Depending on the server activity, Sofi will sometimes drop cards by herself in the specified channel"
+    "SETSPAWN_EXTRA_INFO": "This command can be used in a channel or mentioning a channel. Depending on the server activity, Sofi will sometimes drop cards by herself in the specified channel"
 }

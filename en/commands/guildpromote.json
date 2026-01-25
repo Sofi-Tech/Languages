@@ -1,5 +1,5 @@
 {
-    "GUILDPROMOTE_DESCRIPTION": "Promotes the selected member's rank",
+    "GUILDPROMOTE_DESCRIPTION": "Promotes the selected members rank",
     "GUILDPROMOTE_CATEGORY": "Guilds",
     "MUST_BE_FOUNDER": "{{author}} You must be a **Founder** or **Guildmaster** to promote a member of the guild",
     "GP_CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}gp <@User/UserID>`",
@@ -17,5 +17,5 @@
     "TRANSFER_OWNERSHIP_CANCEL": "The process has been cancelled",
     "TRANSFER_OWNERSHIP_SUCCESS": "The new guild owner is <@{{memberId}}>",
     "ONLY_GUILDMASTER_CAN_BE_FOUNDER": "{{author}} Only **Guildmasters** can be promoted to **Founder**",
-    "GUILDPROMOTE_EXTRA_INFO": "Promotes the selected member's rank within the guild. This command can only be used by a Founder or Guildmaster"
+    "GUILDPROMOTE_EXTRA_INFO": "This command can only be used by a Founder or Guildmaster"
 }

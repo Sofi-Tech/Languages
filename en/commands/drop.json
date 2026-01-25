@@ -6,5 +6,5 @@
     "BUY_DROP": "\n\n- You can also **Vote** to receive **Wists**! Use the command `{{prefix}}buy drop` to exchange them",
     "DROPPING_CARD": "{{author}} is **dropping** cards",
     "WISHLIST_ALERT": "A character from your wishlist is dropping! {{users}}",
-    "DROP_EXTRA_INFO": "Generates a set of 3 cards with randomized Gens. Normally, it has an 8 minutes cooldown. You can buy additional Drops from the \"{{prefix}}shop\" command with Wists, which you can obtain by Voting for Sofi"
+    "DROP_EXTRA_INFO": "Normally, it has an 8 minutes cooldown. You can buy additional Drops from the \"{{prefix}}shop\" command with Wists, which you can obtain by Voting for Sofi"
 }

@@ -15,5 +15,5 @@
     "GLOW_APPLY_SUCCESSFUL": "{{author}} Successfully applied the **{{glowName}}** **Glow** to your card",
     "UNAVAILABLE": "Empty",
     "AVAILABLE": "Charged",
-    "GLOW_EXTRA_INFO": "Applies the specified Glow to a specific card from your collection. Glows add a glowing effect around your card's frame border. You can buy Glows by using the \"{{prefix}}unlockglow\" command"
+    "GLOW_EXTRA_INFO": "Glows add a glowing effect around your card's frame border. You can buy Glows by using the \"{{prefix}}unlockglow\" command"
 }

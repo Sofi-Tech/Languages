@@ -11,5 +11,5 @@
     "CARD_NOT_IN_COLLECTION": "{{author}} The card is no longer in your collection",
     "DONT_HAVE_LAYER": "{{author}} You don't have the following **Layers:** \n{{layers}}",
     "USE_LAYER_SUCCESSFUL": "{{author}} Successfully applied the **{{name}}** **Layer** to your card",
-    "USELAYER_EXTRA_INFO": "Applies a Layer to a specified card. You can apply up to 3 selected Layers on the same card. You can buy Layers by using the \"{{prefix}}layershop\" command"
+    "USELAYER_EXTRA_INFO": "You can apply up to 3 selected Layers on the same card. You can buy Layers by using the \"{{prefix}}layershop\" command"
 }

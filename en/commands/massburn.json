@@ -11,5 +11,5 @@
     "MISSING_CARDS": "{{author}} At least one of your selected cards is no longer in your collection",
     "SUCCESS": "{{author}} Successfully burned your selected cards",
     "BURN_REWARDS": "__Rewards__",
-    "MASSBURN_EXTRA_INFO": "Burns multiple cards at once, check the cards before burning them. By adding a prompt with Gen, tag or wishlist filters, you can specify which cards you want to burn"
+    "MASSBURN_EXTRA_INFO": "By adding a prompt with Gen, tag or wishlist filters, you can specify which cards you want to burn"
 }

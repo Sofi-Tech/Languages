@@ -23,5 +23,5 @@
     "VERSION_ALREADY_EXISTS": "{{author}} You already have **Version {{version}}** of **{{name}}** in your Version Token wishlist",
     "VERSION_ADDED": "{{author}} Successfully added **Version {{version}}** of **{{name}}** to your Version Token wishlist",
     "EMBED_TITLE": "SOFI: ADD TO WISHLIST",
-    "WISHLISTADD_EXTRA_INFO": "Adds characters or Version to your wishlist. To add a specific character Version use the command \"{{prefix}}wa<VersionNumber> <CharacterName>\", without a space before the Version number. Characters can also be added from the command \"{{prefix}}sserieslookup\". Adding a character or Version to the wishlist does not have any effect on any mechanic on Sofi"
+    "WISHLISTADD_EXTRA_INFO": "To add a specific character Version use the command \"{{prefix}}wa<VersionNumber> <CharacterName>\", without a space before the Version number. Characters can also be added from the command \"{{prefix}}sserieslookup\". Adding a character or Version to the wishlist does not have any effect on any mechanic on Sofi"
 }

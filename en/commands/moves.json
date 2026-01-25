@@ -113,5 +113,5 @@
     "CURSED": "Hit by 5 or more boss specials in the raid",
     "UNLUCKY": "Hit by 3-4 boss specials in the raid.",
     "CHALLENGER": "Hit by 2 or more interactive specials in the raid",
-    "MOVES_EXTRA_INFO": "Shows a list of all moves a card can have with their their description, use the \"{{prefix}}move <Name>\" command to get a more detailed insight"
+    "MOVES_EXTRA_INFO": "Use the \"{{prefix}}move <Name>\" command to get a more detailed insight"
 }

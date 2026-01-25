@@ -3,5 +3,5 @@
     "CATEGORY": "Wishlist",
     "CHANNEL_SET": "{{author}} Your wishlist has been set in {{channel}}",
     "CHANNEL_REMOVE": "{{author}} Your wishlist has been removed from {{channel}}",
-    "WISHLISTCHANNEL_EXTRA_INFO": "Pins the players wishlist to a channel for card drops pings. Whenever a card from your wishlist is dropped, Sofi will ping you"
+    "WISHLISTCHANNEL_EXTRA_INFO": "Whenever a card from your wishlist is dropped, Sofi will ping you"
 }

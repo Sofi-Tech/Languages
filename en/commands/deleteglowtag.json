@@ -4,5 +4,5 @@
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}dgt <TagName>`",
     "GLOWTAG_NOT_FOUND": "{{author}} You dont have any **Glow** tag with the name `{{tagname}}`",
     "DELETE_GLOWTAG": "{{author}} Successfully deleted a **Glow** tag with the name `{{tag}}`",
-    "DELETEGLOWTAG_EXTRA_INFO": "Deletes a Glow tag and removes the Glow tag from all Glows related to it"
+    "DELETEGLOWTAG_EXTRA_INFO": "This removes the Glow tag from all Glows related to it"
 }

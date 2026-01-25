@@ -9,5 +9,5 @@
     "INVALID_GLOW_CODE": "{{author}} At least one of the **Glow** codes you provided is either invalid or not in your inventory",
     "SUCCESSFUL_GLOWTAG": "{{author}} **{{glow}}** was successfully tagged as `{{tag}}`",
     "SUCCESSFUL_MULTIPLE_GLOWTAG": "{{author}} All selected **Glows** were successfully tagged as `{{tag}}`",
-    "GLOWTAG_EXTRA_INFO": "Assigns a Glow tag to one or multiple Glows. Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}glowtagcreate\" command to create tags"
+    "GLOWTAG_EXTRA_INFO": "Tags are a useful feature to categorize and group multiple codes that fit your own criteria. Use the \"{{prefix}}glowtagcreate\" command to create tags"
 }

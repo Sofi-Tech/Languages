@@ -11,5 +11,5 @@
     "MISSING_CURRENCY": "{{author}} You need {{amount}}** {{currency}}** to restore a card",
     "RESTORE_SUCCESSFUL": "{{author}} The card with code `{{code}}` has been successfully restored",
     "RESTORE_FAILED": "{{author}} The process has been cancelled",
-    "RESTORECARD_EXTRA_INFO": "Restores back a burned card within 72 hours"
+    "RESTORECARD_EXTRA_INFO": "After 72 hours, cards are permanently deleted and cannot be restored in any way"
 }

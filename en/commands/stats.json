@@ -64,5 +64,5 @@
     "POINTS_NEGATIVE_ERROR": "{{author}} You can not add a negative amount of points to a stat",
     "CANNOT_EXCEED_POINTS": "{{author}} You can allocate a maximum of **120** {{stat}} points to a card",
     "POINTS_INFO": "{{author}} You only have **{{points}}** points left to allocate",
-    "STATS_EXTRA_INFO": "Shows stats and options related to raids/duels. You can modify the card stats and moves used for raids/duels with this command"
+    "STATS_EXTRA_INFO": "You can modify the card stats and moves used for raids/duels with this command"
 }

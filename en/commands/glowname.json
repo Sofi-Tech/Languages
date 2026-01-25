@@ -12,5 +12,5 @@
     "GLOWNAME_CHANGE_CONFIRMATION": "Are you sure you want to change the name of your **Glow** from `{{oldName}}` to `{{newName}}`?",
     "MISSING_ITEMS": "{{author}} You don't have enough **{{currency}}** for this process",
     "GLOWNAME_CHANGE_SUCCESSFUL": "{{author}} Successfully changed the name of your **Glow** to `{{newName}}`",
-    "GLOWNAME_EXTRA_INFO": "Changes the name of a selected Glow in your own collection to one of your preference"
+    "GLOWNAME_EXTRA_INFO": "The name will only be changed in your own collection to the one of your preference"
 }

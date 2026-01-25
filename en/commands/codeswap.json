@@ -5,5 +5,5 @@
     "CORRECT_USAGE": "{{author}} Correct usage: `{{prefix}}cs <Code1> <Code2>`",
     "INVALID_CODES_PROVIDED": "{{author}} At least one of the card codes you provided is either invalid or not in your collection",
     "SUCCESSFUL_CODE_SWAP": "{{author}} Successfully swapped the codes of the selected cards",
-    "CODESWAP_EXTRA_INFO": "Swaps the codes of two specified cards using Gems"
+    "CODESWAP_EXTRA_INFO": "The swap has a cost in Gems"
 }

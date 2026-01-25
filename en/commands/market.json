@@ -4,5 +4,5 @@
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Stock: `{{stockAmount}}` {{stockEmoji}} | Rate: `{{rateAmount}}` {{rateEmoji}}",
     "MARKET_WARN": "**Average Rate**: **`{{averageRate}}` | Total Trades** : **`{{totalTrades}}`**",
     "FOOTER": "Showing results {{page}}-{{pages}} of {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
-    "MARKET_EXTRA_INFO": "Allows you to buy Wist using Gems or sell Wist for Gems. You can see a list of your existing orders on the market as well"
+    "MARKET_EXTRA_INFO": "You can see a list of your existing orders on the market as well"
 }

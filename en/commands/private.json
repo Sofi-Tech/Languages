@@ -7,5 +7,5 @@
     "WRONG_ARGUMENTS": "{{author}} Correct usage: `{{prefix}}pvt <C/WL/INV/VT>`",
     "PRIVATE_ENABLED": "{{author}} Your **{{content}}** is now private",
     "PRIVATE_DISABLED": "{{author}} Your **{{content}}** is no longer private",
-    "PRIVATE_EXTRA_INFO": "Makes private or public your collection, wishlist, version tokens or inventory. If your collection, wishlist, version tokens or inventory is marked as private it will no longer be visible to other players. Using this command just by itself will instead show your current configuration for these sections"
+    "PRIVATE_EXTRA_INFO": "If your collection, wishlist, version tokens or inventory is marked as private it will no longer be visible to other players. Using this command just by itself will instead show your current configuration for these sections"
 }

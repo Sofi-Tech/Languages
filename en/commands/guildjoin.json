@@ -16,5 +16,5 @@
     "GUILD_JOIN_ACCEPT": "{{member}} accepted {{author}} as a **Newbie** in their guild",
     "GUILD_JOIN_REJECT": "{{member}} rejected {{author}} to be a **Newbie** in their guild",
     "NOT_FOUNDER": "{{author}} This user is not a **Founder** or **Guildmaster** in the guild",
-    "GUILDJOIN_EXTRA_INFO": "Requests to join a guild, which may by accepted or rejected by a Founder or Guildmaster"
+    "GUILDJOIN_EXTRA_INFO": "The request may by accepted or rejected by a Founder or Guildmaster"
 }

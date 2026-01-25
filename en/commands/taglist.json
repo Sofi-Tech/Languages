@@ -32,5 +32,5 @@
     "UNLOCKED_TAG_few": "🔓 Unlocked {{count}} tags",
     "UNLOCKED_TAG_many": "🔓 Unlocked {{count}} tags",
     "UNLOCKED_TAG_other": "🔓 Unlocked {{count}} tags",
-    "TAGLIST_EXTRA_INFO": "Views the players current tags and lock/unlock status. Using this command without a prompt will show your tag list, adding another player's username or user id will show their tag list. Lock card or version tags cannot be burned, trade or gave away. You can use the \"{{prefix}}tagcreate\" command in order to create more card or version tags"
+    "TAGLIST_EXTRA_INFO": "Using this command without a prompt will show your tag list, adding another player's username or user id will show their tag list. Lock card or version tags cannot be burned, trade or gave away. You can use the \"{{prefix}}tagcreate\" command in order to create more card or version tags"
 }

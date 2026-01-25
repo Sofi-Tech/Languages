@@ -4,5 +4,5 @@
     "USER_NOT_FOUND": "{{author}} Could not find that user",
     "PROFILE_NOT_FOUND": "{{author}} That user is not registered",
     "GIF_ENABLED": "{{author}} Your profile has GIF feature enabled. To load your GIF profile use the `{{prefix}}pc` command and click on the `Reload GIF profile` button in the dropdown menu",
-    "PROFILE_EXTRA_INFO": "Shows the players profile. Using this command without a prompt will show your profile, adding another player's username or user id will show their profile. You can customize your profile by using the \"{{prefix}}profileconfig\" command"
+    "PROFILE_EXTRA_INFO": "Using this command without a prompt will show your profile, adding another player's username or user id will show their profile. You can customize your profile by using the \"{{prefix}}profileconfig\" command"
 }
