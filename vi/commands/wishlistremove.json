@@ -1,7 +1,7 @@
 {
     "CATEGORY": "Danh sách yêu thích",
     "NO_INDEX": "{{author}} Cách sử dụng đúng: `{{prefix}}wr <CharacterName/Number>`. Sử dụng lệnh `{{prefix}}wr full reset` để xóa wishlist của bạn",
-    "WISHLISTREMOVE_DESCRIPTION": "Xóa nhân vật/version khỏi wishlist",
+    "WISHLISTREMOVE_DESCRIPTION": "Xóa nhân vật hoặc version khỏi wishlist",
     "FULL_RESET": "{{author}} Đã xóa tất cả nhân vật khỏi wishlist",
     "REMOVE_CHARACTER": "{{author}} Đã xóa **{{name}}** khỏi wishlist",
     "REMOVE_CHARACTERS_zero": "{{author}} Bạn đã xóa thành công **{{count}}** nhân vật khỏi wishlist: \n{{names}}",

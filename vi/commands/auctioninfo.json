@@ -19,7 +19,8 @@
     "SERIES": "- Bộ:",
     "SELECT_AUCTION_PLACEHOLDER": "Chọn một Cuộc Đấu Giá",
     "POSITIVE_NUMBER": "Giá thầu của bạn phải là một số dương",
-    "AUCTIONINFO_DESCRIPTION": "Lệnh này sẽ hiển thị các cuộc đấu giá đã kết thúc và đang diễn ra cho các mã thẻ mà bạn có thể tham gia. Các cuộc đấu giá sử dụng Charm làm đơn vị tiền tệ để đặt giá thầu",
+    "AUCTIONINFO_DESCRIPTION": "Xem các phiên đấu giá để đặt giá thầu",
     "BID_SUCCESSFUL": "Bạn đã đặt giá thầu với **{{amount}}** {{emoji}}",
-    "AUCTION_ID_LABEL": "ID Đấu Giá: {{id}}"
+    "AUCTION_ID_LABEL": "ID Đấu Giá: {{id}}",
+    "AUCTIONINFO_EXTRA_INFO": "Hiển thị danh sách các phiên đấu giá đã và đang diễn ra. Các phiên đấu giá sử dụng Charm làm đơn vị tiền tệ cần thiết để đặt giá"
 }

@@ -4,7 +4,7 @@
     "NO_FANS_FOUND": "\nNhân vật này chưa có bất kì fan nào!",
     "ENTER_AMOUNT": "Nhập số lượng",
     "NAME": "Tên:",
-    "CHARLOOKUP_DESCRIPTION": "Hiển thị bảng xếp hạng nhân vật 2D/3D/GIF và Gen/Fan",
+    "CHARLOOKUP_DESCRIPTION": "Tra cứu và hiển thị nhân vật với các dạng 2D, 3D, GIF, Gen, bảng xếp hạng fan",
     "FAN_PTS_ADDED_zero": "Đã thêm **{{count}}** điểm cho **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "MISSING_ITEMS": "Bạn không có đủ **{{itemName}}**",
     "CHAR_NF_SENSITIVE": "{{author}} Không tìm thấy nhân vật nào tên `{{arg}}`\n```fix\nLưu ý: Sử dụng `-f` sẽ phân biệt giữa chữ hoa và chữ thường!\n```",
@@ -41,5 +41,6 @@
     "MINIMUM_POINTS": "Bạn cần thêm ít nhất 1000 Fan Point để xuất hiện trên bảng xếp hạng",
     "CL_PRICE": "**Giá**: {{amount}} {{emoji}}",
     "CL_CREDITS": "**Nguồn**: {{credits}}",
-    "CL_FORCE_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}cl -f <CharacterName>`"
+    "CL_FORCE_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}cl -f <CharacterName>`",
+    "CHARLOOKUP_EXTRA_INFO": "Ngoài ra còn hiển thị ID-Thẻ của nhân vật và các chỉ số thống kê. Nếu dùng lệnh không nhập tên nhân vật, hệ thống sẽ tự tra cứu nhân vật của thẻ bạn nhận được gần nhất"
 }

@@ -3,7 +3,7 @@
     "VERSION_REJECTED": "**Version** của bạn cho **{{charName}}** từ **{{seriesName}}** đã bị từ chối. [Truy cập Máy Chủ Hỗ Trợ của chúng tôi để tìm hiểu thêm\ndiscord.gg/sofi",
     "NEGATIVE_VALUE_INVENTORY": "{{author}} Kho đồ của bạn chứa giá trị âm! Vui lòng liên hệ với các Developer trong Máy Chủ Hỗ Trợ của chúng tôi để được giải quyết\ndiscord.gg/sofi",
     "SERVER_BLACKLISTED": "{{author}} Máy chủ đã bị đưa vào danh sách đen. Hãy liên hệ với chúng tôi tại discord.gg/sofi",
-    "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể đã dẫn đến việc này:**\n```CSS\n- Tương tác với Sofi bằng nhiều tài khoản (Alting)\n- Bán hoặc mua tài khoản Discord\n- Lừa đảo người dùng khác\n- Lợi dụng hoặc tham gia vào bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại danh sách đen của bạn](<https://sofi.gg/appeal>)\n:link: [Máy Chủ Hỗ Trợ](https://discord.gg/sofi)",
+    "BLACKLISTED_USER": "# <:banhammer:1109864225259671614> __Bạn đã bị đưa vào danh sách đen vì vi phạm các quy tắc của Sofi!__\n\n**Danh sách các lý do có thể đã dẫn đến việc này:**\n```CSS\n- Tương tác với Sofi bằng nhiều tài khoản (Alting)\n- Bán hoặc mua tài khoản Discord\n- Lừa đảo người chơi khác\n- Lợi dụng hoặc tham gia vào bất kỳ hoạt động nào nêu trên\n```\n\n:link: [Khiếu nại danh sách đen của bạn](<https://sofi.gg/appeal>)\n:link: [Máy Chủ Hỗ Trợ](https://discord.gg/sofi)",
     "VERIFY_BUTTON_LABEL": "Xác minh",
     "SUPPORT_BUTTON_LABEL": "Hỗ trợ",
     "COMMAND_GLOBAL_COOLDOWN": "{{author}} **[Global]** Vui lòng đợi **{{cooldown}}** trước khi sử dụng lệnh này một lần nữa",

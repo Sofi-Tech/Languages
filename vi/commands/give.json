@@ -1,6 +1,6 @@
 {
     "CANCELLED": "Quá trình đã bị hủy bỏ",
-    "SLASH_DESC": "Chọn người dùng bạn muốn tặng thẻ",
+    "SLASH_DESC": "Chọn người chơi bạn muốn tặng thẻ",
     "NO_SELF_GIVE": "{{author}} Bạn không thể tự tặng thẻ cho mình",
     "MEM_NOT_VERIFIED": "{{author}} Người dùng đó chưa được xác minh",
     "MEM_QUARANTINED": "{{author}} Người dùng đó đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
@@ -8,7 +8,7 @@
     "NOT_REGISTERED": "{{author}} Người dùng đó chưa đăng ký",
     "MEM_BLACKLISTED": "{{author}} Người dùng đó đã bị đưa vào danh sách đen",
     "SLASH_DESC2": "Nhập mã thẻ bạn muốn tặng",
-    "GIVE_DESCRIPTION": "Cho trực tiếp người dùng khác 1 thẻ sau khi xác nhận",
+    "GIVE_DESCRIPTION": "Cho trực tiếp người chơi khác 1 thẻ sau khi xác nhận",
     "AUTHOR_BLACKLISTED": "{{author}} Bạn đã bị đưa vào danh sách đen",
     "AUTHOR_QUARANTINED": "{{author}} Bạn đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}g <@User/UserID> <CardCode>`",

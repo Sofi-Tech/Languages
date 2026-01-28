@@ -1,7 +1,7 @@
 {
-    "TAGLIST_DESCRIPTION": "Xem tất cả tag hiện tại và khóa/mở khóa",
+    "TAGLIST_DESCRIPTION": "Xem tất cả tag hiện tại của người chơi và trạng thái khóa/mở khóa",
     "TL_CATEGORY": "Tag",
-    "NO_USER": "{{author}} Không tìm thấy người dùng đó",
+    "NO_USER": "{{author}} Không tìm thấy người chơi đó",
     "NO_TAGS_SELF": "{{author}} Bạn chưa có tag nào. Sử dụng lệnh `{{prefix}}tc <TagName> <Emoji>` để tạo một tag",
     "NO_TAGS": "{{author}} Người dùng đó chưa có tag nào",
     "EMBED_TITLE": "SOFI: TAGLIST ({{username}})",

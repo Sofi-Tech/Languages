@@ -7,7 +7,7 @@
     "EMBED_TITLE": "SOFI: VIEW GLOW",
     "EMBED_FOOTER": "Trang: {{page}}/{{totalPages}} | Tổng cộng: {{count}}",
     "CANNOT_FIND_GLOW": "{{author}} Không tìm thấy **Glow** nào với mã `{{glowCode}}`",
-    "INVALID_USER": "{{author}} Không tìm thấy người dùng đó",
+    "INVALID_USER": "{{author}} Không tìm thấy người chơi đó",
     "EMBED_GLOW_TITLE": "SOFI: VIEW GLOW",
     "VG_NAME": "Tên",
     "VG_CODE": "Mã",
@@ -24,9 +24,9 @@
     "PURITY2": "Chất lượng2",
     "VG_SLASH_DESC3": "Cung cấp mã \"Glow\" mà bạn muốn kiểm tra",
     "NO_GLOWS_FOUND": "{{author}} Bạn không có tag nào tên `{{tagName}}`",
-    "VG_SLASH_DESC1": "Chọn một người dùng mà bạn muốn xem \"Glow\" của họ",
+    "VG_SLASH_DESC1": "Chọn một người chơi mà bạn muốn xem \"Glow\" của họ",
     "NO_GLOWS_SELF": "{{author}} Bạn chưa có **Glow** nào",
     "VG_USED": "Đã sử dụng",
     "VG_OWNER": "Người sở hữu",
-    "VIEWGLOWS_DESCRIPTION": "Hiển thị bộ sưu tập Glow của người chơi"
+    "VIEWGLOWS_DESCRIPTION": "Dùng lệnh này để kiểm tra các Glow hiện tại của người chơi. Nếu nhập mã Glow làm tham số, hệ thống sẽ mở bảng thông tin chi tiết của Glow đó."
 }

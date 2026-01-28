@@ -18,5 +18,6 @@
     "BURN_FRAG_WARN":"Bạn có chắc muốn đốt **Fragment** này không?\n\nTên: **{{characterName}}**\nBộ: **{{seriesName}}**\nMã: `{{fragCode}}`",
     "BURN_CARD_LOCKED":"{{author}} Thẻ đó hiện đang được sử dụng trong một deck và không thể bị đốt",
     "BURN_REWARDS":"__Phần Thưởng__",
-    "CARD_CANNOT_BURN":"{{author}}, Không thể đốt thẻ đó."
+    "CARD_CANNOT_BURN":"{{author}}, Không thể đốt thẻ đó.",
+    "BURN_EXTRA_INFO":"Dùng lệnh này mà không nhập mã thẻ sẽ đốt thẻ bạn nhận được gần nhất"
 }

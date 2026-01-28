@@ -7,7 +7,7 @@
     "LS_CATEGORY": "**Mục:** {{category}}",
     "LS_ARTIST": "**Tác Giả:** {{artist}}",
     "LAYER_NOT_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
-    "LAYERSHOP_DESCRIPTION": "Lệnh này sẽ mở một bảng hiển thị tất cả Layer đang được bán",
+    "LAYERSHOP_DESCRIPTION": "Mở cửa hàng Sofi để xem tất cả các Layer hiện có thể mua",
     "BUY_LAYER_INFO": "Sử dụng lệnh `{{prefix}}buy layer <Layer-ID> <Amount>` để mua **Layer** \n[Nhấn vào đây để xem tất cả các **lớp** có sẵn](https://sofi.gg/layers)",
     "LS_EVENT_MENU_LABEL": "Event",
     "LS_BACK_MENU_LABEL": "Quay lại",

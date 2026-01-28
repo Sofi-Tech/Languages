@@ -26,5 +26,6 @@
     "QUICKNESS": "Nhặt trong",
     "MORPHED": "Morphed",
     "CARD_LAYERED": "**Layer{{s}}** đã áp dụng: {{layerInfo}}",
-    "CARD_FONT_FACE": "**Phông Chữ:** `{{fontFace}}`\n"
+    "CARD_FONT_FACE": "**Phông Chữ:** `{{fontFace}}`\n",
+    "CARDINFO_EXTRA_INFO": "Thông tin này bao gồm chỉ số cơ bản, chủ sở hữu, nguồn drop, và các hiệu ứng trang trí đã áp dụng lên thẻ. Dùng lệnh này mà không nhập mã thẻ sẽ hiển thị thẻ bạn nhận được gần nhất"
 }

@@ -7,6 +7,6 @@
     "GLOWS_many": "{{count}} Glows",
     "EMBED_TITLE": "SOFI: GLOW TAG LIST",
     "NO_TAGS": "{{author}} Hiện tại bạn không có **Glow** tag nào. Bạn có thể tạo tag với lệnh: `{{prefix}}gtc <Name> <Emoji>`",
-    "GLOWTAGLIST_DESCRIPTION": "Hiển thị tất cả Glow tag hiện tại",
+    "GLOWTAGLIST_DESCRIPTION": "Hiển thị danh sách Glow tag của người chơi",
     "GLOWS_zero": "{{count}} Glow"
 }

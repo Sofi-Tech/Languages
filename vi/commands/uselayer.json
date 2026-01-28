@@ -9,5 +9,5 @@
     "USE_LAYER_CONFIRM": "Bạn có chắc muốn áp dụng **{{name}}** **Layer** cho thẻ này không?",
     "DONT_HAVE_LAYER": "{{author}} Bạn không có những **Layer** sau:\n{{layers}}",
     "CARD_INVALID": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "USELAYER_DESCRIPTION": "Áp dụng Layer cho thẻ"
+    "USELAYER_DESCRIPTION": "Áp dụng Layer cho thẻ được chỉ định"
 }

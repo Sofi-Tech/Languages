@@ -3,7 +3,7 @@
     "SLASH_DESC3": "Nhập mã của Background mà bạn muốn mua [CHỈ HOẠT ĐỘNG KHI MỤC ĐƯỢC CHỌN LÀ BACKGROUND]",
     "SLASH_DESC": "Nhập tên vật phẩm bạn muốn mua",
     "INVALID_BG_AMOUNT": "{{author}} Bạn không thể mua số lượng âm của một vật phẩm",
-    "BUY_DESCRIPTION": "Sử dụng lệnh này kết hợp với tên vật phẩm và số lượng sẽ hiển thị một bảng giao dịch để mua vật phẩm đó. Sử dụng lệnh \"{{prefix}}shop\" để xem tất cả các vật phẩm hiện đang có sẵn",
+    "BUY_DESCRIPTION": "Mua vật phẩm trong shop Sofi",
     "BUY_GEN_CONFIRMATION": "## Bạn đang mua {{count}} {{itemName}} 💳",
     "TRADEPASS_INFO": "Truy cập trang web của chúng tôi để **Bump** và đổi điểm đó thành các vật phẩm khác nhau, bao gồm cả **Trade Pass**",
     "NO_ITEM": "{{author}} Cách sử dụng đúng: `{{prefix}}buy <ItemName> <Amount>`",
@@ -14,5 +14,6 @@
     "BUY_CHARM_CONFIRMATION": "## Bạn đang mua {{amount}} {{itemName}} <:charmticket:1417253296338370570>",
     "LAYER_CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}buy layer <Layer-ID> <Amount>`",
     "NO_LAYER_FOUND": "{{author}} Không tìm thấy **Layer** nào với ID `{{layerId}}`",
-    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** với ID `{{layerId}}` là giới hạn và không thể mua được nữa"
+    "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} **Layer** với ID `{{layerId}}` là giới hạn và không thể mua được nữa",
+    "BUY_EXTRA_INFO": "Dùng lệnh này kèm tên vật phẩm và số lượng để mua vật phẩm đó. Dùng lệnh \"{{prefix}}shop\" để xem danh sách tất cả vật phẩm đang bán trong shop"
 }

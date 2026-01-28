@@ -6,7 +6,8 @@
     "USER_NO_BG": "{{author}} Bạn không có **Background** đó",
     "BG_APPLY_SUCCESSFUL": "{{author}} Đã áp dụng **{{background}}** **Background** cho thẻ của bạn",
     "WRONG_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}bg <CardCode> <Background-ID>`",
-    "BACKGROUND_DESCRIPTION": "Khi một thẻ đã được chuyển sang dạng 3D, bạn có thể sử dụng lệnh này để áp dụng Background cho thẻ đó. Sử dụng lệnh \"{{prefix}}backgroundshop\" để mua Background",
+    "BACKGROUND_DESCRIPTION": "Áp dụng Background cho thẻ 3D",
     "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "EMBED_DESCRIPTION": "Bạn có chắc muốn áp dụng **{{background}}** **Background** cho thẻ này không?"
+    "EMBED_DESCRIPTION": "Bạn có chắc muốn áp dụng **{{background}}** **Background** cho thẻ này không?",
+    "BACKGROUND_EXTRA_INFO": "Sử dụng lệnh \"{{prefix}}backgroundshop\" để mua Background"
 }

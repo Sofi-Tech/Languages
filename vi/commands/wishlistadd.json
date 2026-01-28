@@ -1,5 +1,5 @@
 {
-    "WISHLISTADD_DESCRIPTION": "Thêm nhân vật/version vào wishlist",
+    "WISHLISTADD_DESCRIPTION": "Thêm nhân vật hoặc version vào wishlist",
     "CATEGORY": "Danh sách yêu thích",
     "INCREASE_CAPACITY": "Mở thêm slot bằng cách sử dụng lệnh `{{prefix}}wl` và nhấp vào biểu tượng {{emoji}}",
     "NO_CHARACTER_FOUND": "{{author}} Không tìm thấy nhân vật đó. Sử dụng lệnh `{{prefix}}wa -f <Name>` để tìm kiếm chính xác hơn",

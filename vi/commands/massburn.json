@@ -3,7 +3,7 @@
     "NO_CARDS_FOUND": "{{author}} Không tìm thấy thẻ nào phù hợp với tiêu chí tìm kiếm bạn đưa ra\n```fix\nLưu ý: Các thẻ bị khóa, thẻ GIF hoặc thẻ đang được sử dụng trong deck không thể bị đốt\n```",
     "WRONG_TAG": "{{author}} Không tìm thấy tag nào tên `{{arg}}`",
     "LOCKED_CARDS_WARNING": "{{author}} Những thẻ đã khóa, thẻ **GIF** hoặc được sử dụng trong deck không thể bị đốt",
-    "MASSBURN_DESCRIPTION": "Đốt nhiều thẻ cùng một lúc, kiểm tra kĩ bộ lọc trước đi thực hiện",
+    "MASSBURN_DESCRIPTION": "Đốt nhiều thẻ cùng một lúc, kiểm tra kĩ các thẻ trước khi đốt",
     "IN_ACTIVE_MB": "{{user}} Bạn không thể bắt đầu một **Massburn** mới trong khi cái cũ vẫn còn đang hoạt động",
     "PROVIDE_FILTERS": "{{author}} Cách sử dụng đúng: `{{prefix}}mb <Filters>`\n```fix\nLưu ý: Lọc những thẻ bạn muốn đốt bằng cách áp dụng Gen/Tag/Wishlist. Bạn có thể tìm thấy toàn bộ danh sách bộ lọc bằng cách sử dụng lệnh \"{{prefix}}help filters\"\n```",
     "CARDS_BURNED": "__Thẻ Đã Chọn [ {{totalCards}} ]__",
