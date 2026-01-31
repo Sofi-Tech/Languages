@@ -1,5 +1,5 @@
 {
-    "DROP_DESCRIPTION": "Avec cette commande vous pourrez générer un ensemble de 3 cartes avec des Gens aléatoires. Vous pouvez acheter des Drops supplémentaires depuis la commande \"{{prefix}}shop\" avec des Wists, qui sont obtenables en Votant pour Sofi",
+    "DROP_DESCRIPTION": "Génère un ensemble de 3 cartes avec des Gens aléatoires",
     "EXTRA_DROP_ALERT": "{{author}} Votre extra **Drop** a été utilisé. Il vous en reste **{{remaining}}**",
     "ON_CD": "{{author}} Votre **Drop** sera prêt dans: **{{dropCd}}**",
     "VOTE": "Vote",
