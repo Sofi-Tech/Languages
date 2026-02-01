@@ -11,5 +11,7 @@
     "GRAB_VERSION_PLURAL": "{{winner}} a combattu **{{userCount}}** autres joueurs et a **grab** le Version Token de **{{character}}** (`{{code}}`) | {{elementEmoji}} **{{elementName}}** [**V{{version}}**] \nUtilisez la commande `{{prefix}}vt` afin de voir ce Version Token",
     "NOT_ALLOWED_TO_GRAB": "Vous êtes soit sur liste noire, soit en quarantaine, soit non enregistré et ne pouvez pas grab cette carte",
     "ETHEREAL_CLAIM_INFO": "Les cartes à statistiques élevées sont rares et très prisées par les joueurs. Les cartes ayant 600+ points de base stats sont extrêmement peu courantes.\nAssurez-vous de vous renseigner sur la valeur de la carte avant d’échanger, et envisagez de recueillir plusieurs avis pour mieux évaluer sa véritable valeur.",
-    "ETHEREAL_CLAIM_EMBED_TITLE": "Vous avez obtenu une carte Ethereal!"
+    "ETHEREAL_CLAIM_EMBED_TITLE": "Vous avez obtenu une carte Ethereal!",
+    "EVENT_GRAB": "{{user}} a gracieusement collecté {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
+    "TOOK_ELEMENT_PART": "{{user}} a battu {{userId}} et volé le **{{elementName}}**"
 }

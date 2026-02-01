@@ -56,5 +56,21 @@
     "FRAME_EMBED_TITLE": "__Frames Monochromes À Durée Limitée__",
     "ENTERED_LOTTERY": "Participation avec succès à la loterie",
     "BG_EMBED_TITLE": "__BG Monochromes À Durée Limitée__",
-    "CODE_BUTTON_LABEL": "Code"
+    "CODE_BUTTON_LABEL": "Code",
+    "DROP_TASK_zero": "Drop {{count}} Fois",
+    "DROP_TASK_one": "Drop {{count}} Fois",
+    "DROP_TASK_two": "Drop {{count}} Fois",
+    "DROP_TASK_few": "Drop {{count}} Fois",
+    "DROP_TASK_other": "Drop {{count}} Fois",
+    "BURN_TASK_zero": "Brûle {{count}} Carte",
+    "BURN_TASK_one": "Brûle {{count}} Carte",
+    "BURN_TASK_two": "Brûle {{count}} Cartes",
+    "BURN_TASK_few": "Brûle {{count}} Cartes",
+    "BURN_TASK_other": "Brûle {{count}} Cartes",
+    "BURN_TASK_many": "Brûle {{count}} Cartes",
+    "3D_TASK_zero": "Converti {{count}} Carte en 3D {{event}}",
+    "3D_TASK_one": "Converti {{count}} Carte en 3D {{event}}",
+    "3D_TASK_two": "Converti {{count}} Cartes en 3D {{event}}",
+    "3D_TASK_few": "Converti {{count}} Cartes en 3D {{event}}",
+    "3D_TASK_other": "Converti {{count}} Cartes en 3D {{event}}"
 }

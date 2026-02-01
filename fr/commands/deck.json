@@ -16,8 +16,9 @@
     "MOVES_UNIQUE": "Toutes les compétences du deck doivent être **uniques**! Sélectionnez des cartes différentes ou changez leurs compétences pour continuer",
     "SAVE_DECK": "Cliquez sur enregistrer pour définir ce deck",
     "EMBED_FOOTER": "Note : Toutes les compétences d'un deck doivent être uniques pour pouvoir être utilisées dans les duels et les raids!",
-    "UNLOCK_SAVE": "Débloquer l'emplacement numéro {{deckNo}} pour enregistrer un deck ici",
-    "UNLOCK_GENERATE": "Débloquer l'emplacement numéro {{deckNo}} pour générer un deck aléatoire",
+    "UNLOCK_SAVE": "Débloquer l'emplacement numéro {{deckNo}} pour y enregistrer un deck",
+    "UNLOCK_GENERATE": "Débloquer l'emplacement numéro {{deckNo}} pour y générer un deck aléatoire",
     "NOT_ENOUGH_CARD": "Vous n'avez pas assez de cartes avec des compétences différentes. Veuillez collecter plus de cartes",
-    "UNLOCK_SELECT": "Débloquer l'emplacement numéro {{deckNo}} afin de sélectionner un deck d'ici"
+    "UNLOCK_SELECT": "Débloquer l'emplacement numéro {{deckNo}} afin de sélectionner un deck d'ici",
+    "DECK_EXTRA_INFO": "Un joueur peut avoir de multiples decks créés"
 }

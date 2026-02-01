@@ -1,5 +1,5 @@
 {
-    "BUY_DESCRIPTION": "Utiliser cette commande en combinaison avec un nom d’item et un montant ouvrira un encart de transaction pour acheter l’item spécifique. Utilisez la commande \"{{prefix}}shop\" pour voir tous les items disponibles",
+    "BUY_DESCRIPTION": "Achète des articles spécifiques de la boutique Sofi",
     "SLASH_DESC": "Entrez le nom de l'item que vous souhaitez acheter",
     "SLASH_DESC2": "Entrez la quantité",
     "SLASH_DESC3": "Entrez le code du Background que vous souhaitez acheter. [NE FONCTIONNE QUE SI L'ARTICLE EST DÉFINI COMME BACKGROUND]",
@@ -10,7 +10,7 @@
     "INVALID_BG_ID": "{{author}} Impossible de trouver un **Background** avec cet ID",
     "INVALID_ITEM_PROVIDED": "{{user}} L'item que vous avez fourni est invalide",
     "BUY_CHARMS_MULTIPLES": "{{author}} Vous ne pouvez acheter des **Charms** que par multiples de 100",
-    "BUY_CHARM_CONFIRMATION": "## Vous achetez {{amount}} {{itemName}}<:charmticket:1417253296338370570>",
+    "BUY_CHARM_CONFIRMATION": "## Vous achetez {{amount}} {{itemName}} <:charmticket:1417253296338370570>",
     "BUY_GEN_CONFIRMATION": "## Vous achetez {{count}} {{itemName}} 💳",
     "LAYER_CORRECT_USAGE": "{{author}} Utilisation correcte: `{{prefix}}buy layer <Layer-ID> <Quantité>`",
     "EVENT_LAYER_CANNOT_PURCHASE": "{{author}} Le **Layer** avec l'ID `{{layerId}}` est limité et ne peut plus être acheté",

@@ -18,5 +18,6 @@
     "SERIES":"Série:",
     "SUCCESSFUL_CARD_BURN":"{{author}} Votre carte a été brûlée avec succès",
     "SUCCESSFUL_FRAGMENT_BURN":"{{author}} Votre **Fragment** a été brûlé avec succès",
-    "SUCCESSFUL_GUILDSTONE_BURN":"{{author}} Votre **Guild Stone** a été brûlée avec succès"
+    "SUCCESSFUL_GUILDSTONE_BURN":"{{author}} Votre **Guild Stone** a été brûlée avec succès",
+    "BURN_EXTRA_INFO":"Utiliser cette commande sans ajouter un code de carte tentera de brûler votre carte obtenue le plus récemment"
 }

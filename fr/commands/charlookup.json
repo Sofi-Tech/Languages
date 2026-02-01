@@ -1,5 +1,5 @@
 {
-    "CHARLOOKUP_DESCRIPTION": "Vous pouvez rechercher un personnage spécifique en utilisant cette commande. Dans ce menu, vous pouvez consulter les statistiques d'un personnage, ses variantes Version/3D/GIF, ainsi que ses classements Gen/Fan et son ID de Carte.",
+    "CHARLOOKUP_DESCRIPTION": "Recherche et affiche un personnage 2D, 3D, GIF et les classements Gen, fan",
     "CHAR_NOT_FOUND": "{{author}} Aucun personnage nommé `{{arg}}` n'a été trouvé",
     "CHAR_NF_SENSITIVE": "{{author}} Aucun personnage nommé `{{arg}}` n'a été trouvé\n```fix\nNote: Utiliser `-f` rend la recherche plus précise!\n```",
     "EMBED_TITLE": "SOFI: CHARACTER LOOKUP ({{category}})",

@@ -5,7 +5,7 @@
     "NO_3D_VERSION": "{{author}} Ce personnage n'a actuellement pas de variante **3D**",
     "EMBED_TITLE": "SOFI: 3D",
     "EVENT_3D_NOTE": "Pendant un event actif, toutes les cartes éligibles seront converties dans leur variante Event-3D au lieu de leur 3D habituelle lors de la confirmation de ce processus",
-    "3D_DESCRIPTION": "Convertissez votre carte en sa variante 3D si disponible",
+    "3D_DESCRIPTION": "Convertit votre carte en sa variante 3D si disponible",
     "INVALID_CARD_CODE": "{{author}} Le code de carte que vous avez fourni est invalide ou n'est pas dans votre collection",
     "NO_EVENT_CARD_CONVERSION": "{{author}} Vous ne pouvez pas convertir une carte event en une variante **3D** classique",
     "NO_CUBES": "{{author}} Vous n'avez pas assez de **Cubes** pour ce processus",
@@ -14,5 +14,6 @@
     "3D_NOTE": "Vous êtes sur le point de convertir cette carte en sa variante 3D. Ce processus est permanent et ne peut pas être annulé. Toute Frame attachée sera perdue au cours de ce processus. La carte convertie aura une Gen proportionnelle à son ancienne",
     "UPGRADE_3D_CANCEL": "Le processus a été annulé",
     "EVENT_NOTE": "Vous êtes sur le point de convertir cette carte en sa variante Event-3D. Ce processus est permanent et ne peut pas être annulé. Toute Frame attachée sera perdue au cours de ce processus. Les cartes d'événement ont une Gen cachée que vous pourrez révéler une fois l'événement terminé via notre site web",
-    "NO_APRIL_FOOL": "{{author}} Les cartes de la série April Fool ne peuvent pas être converties en 3D"
+    "NO_APRIL_FOOL": "{{author}} Les cartes de la série April Fool ne peuvent pas être converties en 3D",
+    "3D_EXTRA_INFO": "Ce processus changera l'apparence de la carte et consommera des Cubes que vous pouvez obtenir en brûlant des cartes, en ouvrant des coffres ou diverses autres activités"
 }

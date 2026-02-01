@@ -1,6 +1,6 @@
 {
     "PROVIDE_FILTER": "{{author}} Veuillez fournir un filtre à côté de la méthode de tri",
-    "PROVIDE_CATEGORY": "{{author}} Veuillez fournir l'une des catégories suivantes: ```apache\n{{categories}}```",
+    "PROVIDE_CATEGORY": "{{author}} Veuillez fournir l'une des catégories suivantes:```apache\n{{categories}}```",
     "TOO_LONG_FILTER": "{{author}} Le filtre que vous avez fourni est trop long, veuillez réessayer",
     "TOO_MANY_FILTER_GROUPS": "{{author}} Vous ne pouvez avoir que 5 groupes de filtres, veuillez réessayer"
 }
