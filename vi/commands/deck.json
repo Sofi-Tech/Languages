@@ -1,6 +1,6 @@
 {
     "INVALID_CODE": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "DECK_DESCRIPTION": "Tạo một deck từ thẻ của bạn để tham gia các trận raid hoặc chiến đấu với những người chơi khác!",
+    "DECK_DESCRIPTION": "Tạo một deck từ các thẻ của bạn để raid hoặc duel",
     "IN_RAID": "Không thể sử dụng lệnh này khi bạn đang trong một raid",
     "SELECT_OPT": "Chọn một Deck",
     "DECK": "Deck",
@@ -19,5 +19,6 @@
     "UNLOCK_SAVE": "Mở khóa ô số {{deckNo}} để lưu deck",
     "UNLOCK_GENERATE": "Mở khóa ô số {{deckNo}} để tạo ngẫu nhiên một deck",
     "NOT_ENOUGH_CARD": "Bạn không có đủ thẻ với các kỹ năng khác nhau. Hãy sưu tầm thêm thẻ",
-    "UNLOCK_SELECT": "Mở khóa ô số {{deckNo}} để chọn deck"
+    "UNLOCK_SELECT": "Mở khóa ô số {{deckNo}} để chọn deck",
+    "DECK_EXTRA_INFO": "Một người chơi có thể tạo nhiều deck khác nhau"
 }

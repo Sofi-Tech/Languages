@@ -3,5 +3,6 @@
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}dgt <TagName>`",
     "GLOWTAG_NOT_FOUND": "{{author}} Bạn không có tag **Glow** nào tên `{{tagname}}`",
     "DELETEGLOWTAG_DESCRIPTION": "Xóa một Glow tag",
-    "DELETE_GLOWTAG": "{{author}} Đã xoá tag **Glow** tên `{{tag}}`"
+    "DELETE_GLOWTAG": "{{author}} Đã xoá tag **Glow** tên `{{tag}}`",
+    "DELETEGLOWTAG_EXTRA_INFO": "Thao tác này sẽ gỡ bỏ tag Glow khỏi tất cả các Glow liên quan"
 }

@@ -3,5 +3,6 @@
     "DESELECT_DESCRIPTION": "Gỡ thẻ khỏi một deck",
     "ENTER_VALID_CODE": "{{author}} Cách sử dụng đúng: `{{prefix}}ds <CardCode>`",
     "NOT_OWN_CARD": "{{author}} Mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
-    "DESELECTED_SUCCESSFULLY": "{{author}} Bỏ chọn thẻ thành công"
+    "DESELECTED_SUCCESSFULLY": "{{author}} Bỏ chọn thẻ thành công",
+    "DESELECT_EXTRA_INFO": "Bất kỳ deck nào đang chứa thẻ đó đều sẽ cần được chỉnh sửa lại để đảm bảo số lượng thẻ hợp lệ trong deck"
 }

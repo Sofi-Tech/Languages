@@ -1,8 +1,9 @@
 {
-    "CODESWAP_DESCRIPTION": "Với lệnh này bạn có thể hoán đổi mã thẻ của 2 thẻ cho nhau",
+    "CODESWAP_DESCRIPTION": "Hoán đổi 2 mã thẻ của nhau",
     "SLASH_DESC": "Nhập mã đầu tiên",
     "SLASH_DESC2": "Nhập mã thứ hai",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}cs <Code1> <Code2>`",
     "SUCCESSFUL_CODE_SWAP": "{{author}} Đã hoán đổi mã của hai thẻ với nhau",
-    "INVALID_CODES_PROVIDED": "{{author}} Có ít nhất 1 mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn"
+    "INVALID_CODES_PROVIDED": "{{author}} Có ít nhất 1 mã thẻ bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
+    "CODESWAP_EXTRA_INFO": "Swap sẽ tốn Gem"
 }

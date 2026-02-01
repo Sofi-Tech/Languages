@@ -15,5 +15,6 @@
     "EMBED_TITLE": "SOFI: COOLDOWNS ({{username}})",
     "RAID": "> {{bellEmoji}} • {{toggleEmoji}} • **`Raid `** | **{{cooldown}}**",
     "UNREAD_MAIL_other": "\n📫 Bạn có **{{count}}** thư chưa đọc\nSử dụng lệnh `{{prefix}}mail` để đọc thư",
-    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**"
+    "BUMP": "> {{bellEmoji}} • {{toggleEmoji}} • **[`Bump `](<https://sofi.gg/bump>)** | **{{cooldown}}**",
+    "COOLDOWN_EXTRA_INFO": "Nếu bạn muốn nhận thông báo khi có Vote/Daily/Bump, hãy bấm vào biểu tượng chuông bên dưới. Bạn cũng có thể mua các tiện ích drop bằng lệnh này"
 }

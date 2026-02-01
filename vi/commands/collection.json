@@ -65,5 +65,7 @@
     "MASSTAG_WRONG_TAG": "Không tìm thấy tag nào tên `{{arg}}`",
     "ALL_UNTAG_SUCCESS_one": "Đã gỡ tag `{{tagName}}` khỏi **{{count}}** thẻ",
     "FILTER_NAME_EXISTS": "Bộc lọc tên `{{filterName}}` đã tồn tại",
-    "SERIES_COMPLETED": "Bộ Đã Hoàn Thành"
+    "SERIES_COMPLETED": "Bộ Đã Hoàn Thành",
+    "HIGHEST_GEN_DUPE_FILTER": "Thẻ Trùng Gen Cao Nhất",
+    "COLLECTION_EXTRA_INFO": "Dùng lệnh này mà không nhập nội dung sẽ hiển thị bộ sưu tập thẻ của bạn, nhập thêm username hoặc id người chơi sẽ xem được bộ sưu tập thẻ của họ nếu nó ở chế độ công khai, bộ sưu tập đó có thể sắp xếp, lọc theo nhiều cách khác nhau. Nếu dùng lệnh kèm thêm nội dung, hệ thống sẽ hiển thị bộ sưu tập với bộ lọc tương ứng đã được áp dụng sẵn. Dùng thêm \"t:ut\" sau câu lệnh này để xem các thẻ chưa được gắn tag. Dùng lệnh \"{{prefix}}help filter\" để xem danh sách các bộ lọc khả dụng"
 }
