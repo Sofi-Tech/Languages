@@ -1,13 +1,13 @@
 {
-  "DAILY_DESCRIPTION": "Du kannst diesen Befehl alle 24 Stunden verwenden, um deine täglichen Belohnungen abzuholen. Umso länger die Serie ist, desto größer sind die Belohnungen. Alle 3/7 Tage deiner Serie, wirst du zudem eine Truhe mit zusätzlichen Items erhalten",
-  "CATEGORY": "Karten",
-  "EMBED_AUTHOR": "SOFI: DAILY REWARD ({{author}})",
-  "DAILY_ERROR": "Du kannst deine nächste **Daily** in **{{timeout}}** abholen",
-  "COMMON_CHEST": "<:commonchest:927502629997805608> Noch **{{count}}** **Daily** verbleibend, um eine **Common Chest** zu erhalten",
-  "RARE_CHEST": "<:rarechest:927204672270372874> Noch **{{count}}** **Daily** verbleibend, um eine **Rare Chest** zu erhalten\n",
-  "NOTE": "⚠️ Sowohl Discord-Mitarbeiter, als auch Sofi Personal, werden dich NIEMALS nach deinem Passwort fragen oder dir raten deine E-Mail zu einer bestimmten Adresse zu ändern. Nimm dich in Acht bei Dritt-Anbieter Discord BOTs die oftmals für ähnliche Phishing Versuche verwendet werden!\n\nVerdächtige Aktivitäten sollten schnellstmöglich hier gemeldet werden! {{link}}! ⚠️",
-  "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
-  "DAILY_SUCCESS": "Du hast deine **Daily** Belohnungen erfolgreich eingefordert!",
-  "GUILD_BONUS": "**(1.5x Server Bonus!)**",
-  "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
+    "DAILY_DESCRIPTION": "Du kannst diesen Befehl alle 24 Stunden verwenden, um deine täglichen Belohnungen abzuholen. Umso länger die Serie ist, desto größer sind die Belohnungen. Alle 3/7 Tage deiner Serie, wirst du zudem eine Truhe mit zusätzlichen Items erhalten",
+    "CATEGORY": "Karten",
+    "EMBED_AUTHOR": "SOFI: DAILY REWARD ({{author}})",
+    "DAILY_ERROR": "Du kannst deine nächste **Daily** in **{{timeout}}** abholen",
+    "COMMON_CHEST": "<:commonchest:927502629997805608> Noch **{{count}}** **Daily** verbleibend, um eine **Common Chest** zu erhalten",
+    "RARE_CHEST": "<:rarechest:927204672270372874> Noch **{{count}}** **Daily** verbleibend, um eine **Rare Chest** zu erhalten\n",
+    "NOTE": "⚠️ Sowohl Discord-Mitarbeiter, als auch Sofi Personal, werden dich NIEMALS nach deinem Passwort fragen oder dir raten deine E-Mail zu einer bestimmten Adresse zu ändern. Nimm dich in Acht bei Dritt-Anbieter Discord BOTs die oftmals für ähnliche Phishing Versuche verwendet werden!\n\nVerdächtige Aktivitäten sollten schnellstmöglich hier gemeldet werden! {{link}}! ⚠️",
+    "EMBED_FOOTER": "Serie [ {{streak}} ] • {{streakBar}}",
+    "DAILY_SUCCESS": "Du hast deine **Daily** Belohnungen erfolgreich eingefordert!",
+    "GUILD_BONUS": "**(1.5x Server Bonus!)**",
+    "STREAK_BONUS": "+ {{bonus}} Streak Bonus"
 }

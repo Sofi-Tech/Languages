@@ -12,5 +12,6 @@
     "NOT_ALLOWED_TO_GRAB": "Du bist entweder auf der Blacklist, unter Quarantäne oder nicht registriert und kannst diese Karte nicht einsammeln",
     "TOOK_ELEMENT_ALONE": "{{user}} hat das **{{elementName}}** Element {{elementEmoji}} eingesammelt",
     "TOOK_ELEMENT_PART": "{{user}} hat gegen {{userId}} gekämpft und das ** {{elementName}}** an sich gerissen",
-    "TOOK_ELEMENT_MULTI": "{{user}} hat gegen **{{userCount}}** gekämpft und das**{{elementName}}**{{elementEmoji}} eingesammelt"
+    "TOOK_ELEMENT_MULTI": "{{user}} hat gegen **{{userCount}}** gekämpft und das**{{elementName}}**{{elementEmoji}} eingesammelt",
+    "EVENT_GRAB": "{{user}} hat {{currencyEmoji}} **{{amount}}** **{{eventItem}}** anmutig gesammelt"
 }

@@ -1,9 +1,9 @@
 {
-  "DROP_DESCRIPTION": "Mit diesem Befehl kannst du 3 Karten mit zufälligen Gens generieren. Du kannst zusätzliche Drops von dem \"{{prefix}}shop\" Befehl für Wist, welche du durch das Voten für Sofi erhältst, kaufen",
-  "EXTRA_DROP_ALERT": "{{author}} Dein extra **Drop** wird verwendet. Du hast noch **{{remaining}}** übrig",
-  "ON_CD": "{{author}} Dein **Drop** ist in **{{dropCd}}** wieder verfügbar",
-  "VOTE": "Vote",
-  "BUY_DROP": "\n\nDu kannst auch **Voten**, um **Wists** zu erhalten! Verwende den Befehl `{{prefix}}buy drop`, um sie einzutauschen",
-  "DROPPING_CARD": "{{author}} **droppt** Karten",
-  "WISHLIST_ALERT": "Eine Charakter von deiner Wunschliste wird gedroppt! {{users}}"
+    "DROP_DESCRIPTION": "Mit diesem Befehl kannst du 3 Karten mit zufälligen Gens generieren. Du kannst zusätzliche Drops von dem \"{{prefix}}shop\" Befehl für Wist, welche du durch das Voten für Sofi erhältst, kaufen",
+    "EXTRA_DROP_ALERT": "{{author}} Dein extra **Drop** wird verwendet. Du hast noch **{{remaining}}** übrig",
+    "ON_CD": "{{author}} Dein **Drop** ist in **{{dropCd}}** wieder verfügbar",
+    "VOTE": "Vote",
+    "BUY_DROP": "\n\nDu kannst auch **Voten**, um **Wists** zu erhalten! Verwende den Befehl `{{prefix}}buy drop`, um sie einzutauschen",
+    "DROPPING_CARD": "{{author}} **droppt** Karten",
+    "WISHLIST_ALERT": "Eine Charakter von deiner Wunschliste wird gedroppt! {{users}}"
 }
