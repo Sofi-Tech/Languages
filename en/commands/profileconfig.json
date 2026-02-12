@@ -87,6 +87,7 @@
     "PBG_EXIST_INV": "You already have **Profile Background** with ID `{{id}}` in your inventory",
     "NO_ENOUGH_AMOUNT_PBG": "You don't have enough **{{currency}}** to purchase this **Profile Background**",
     "PURHCASE_SUCCESSFUL": "Successfully purchased the **{{backgroundName}}** **Profile Background**",
+    "PBG_LIMITED": "This **Profile Background** is limited and cannot be purchased",
     "PBG_MODAL_TITLE": "Select Profile Background",
     "NO_PBG_INV": "Could not find **Profile Background** with ID `{{id}}` in your inventory",
     "SELECT_PBG_CONFIRM": "Are you sure you want to select the **{{backgroundName}}** **Profile Background**?",
