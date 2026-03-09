@@ -1,1 +1,5 @@
-{}
+{
+    "BANNER_DESCRIPTION": "Hiển thị bộ sưu tập banner của người chơi",
+    "BANNER_CATEGORY": "Đồ trang trí",
+    "BANNER_EXTRA_INFO": "Dùng lệnh này không kèm nội dung sẽ hiển thị bộ sưu tập banner của bạn, hoặc nhập tên của người chơi khác để xem bộ sưu tập banner của họ. Nếu dùng lệnh kèm thêm nội dung, hệ thống sẽ hiển thị bộ sưu tập với bộ lọc tương ứng đã được áp dụng sẵn. Dùng lệnh \"{{prefix}}help filter\" để xem tất cả bộ lọc khả dụng, lưu ý không phải bộ lọc nào cũng áp dụng được cho banner. Ngoài ra, bạn cũng có thể thiết lập hiển thị banner của mình cho từng server khác nhau trong thông tin người dùng"
+}

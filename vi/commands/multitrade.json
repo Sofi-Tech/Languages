@@ -1,6 +1,6 @@
 {
     "NOT_REGISTERED": "{{author}} Người dùng đó chưa đăng ký",
-    "MULTITRADE_DESCRIPTION": "Trao đổi thẻ và/hoặc vật phẩm với người chơi khác bằng Trade Pass",
+    "MULTITRADE_DESCRIPTION": "Trao đổi thẻ và/hoặc vật phẩm với người chơi khác",
     "AUTHOR_IS_BLED": "{{author}} Bạn đã bị đưa vào danh sách đen",
     "MT_INFO_1": "🤝 **Các Tiền Tố**:\n- Background [&] • Glow [#] • Frame [$]\n- Version Token [!] • Layer [>] • Tag [%]",
     "MEMBER_IS_QUED": "{{author}} Người dùng đó đang bị cách ly. Truy cập [Hướng Dẫn](<https://guide.sofi.gg/user-status#quarantined>) của chúng tôi để biết thêm thông tin chi tiết về tình trạng cách ly.",
@@ -25,7 +25,7 @@
     "MT_INFO_3": "🗒️ Thêm một ghi chú vào cuộc trao đổi của bạn để cung cấp thông tin cho các nhật ký của chúng tôi",
     "MT_COMPLETE": "SOFI: MULTITRADE",
     "CARD_LOCKED": "{{user}} Các thẻ sau đây hoặc đã bị khóa hoặc đang được sử dụng trong một deck và không thể được thêm vào:\n{{codes}}",
-    "CARD_TAG_LOCKED": "{{author}} Bạn không thể trao đổi nhãn chứa thẻ đã bị khóa",
+    "CARD_TAG_LOCKED": "{{author}} Bạn không thể trao đổi tag có thẻ đang bị khóa",
     "MISSING_ITEMS": "{{user}} Bạn không có đủ số lượng của các vật phẩm sau:\n{{items}}",
     "MT_TRADE_ERROR": "⚠️ Một số vật phẩm và thẻ được cung cấp trong cuộc trao đổi này không còn hợp lệ!",
     "MEMBER_NOT_VERIFIED": "{{author}} Người dùng đó chưa được xác minh",

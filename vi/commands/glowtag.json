@@ -1,5 +1,5 @@
 {
-    "GLOWTAG_DESCRIPTION": "Gán Glow tag cho Glow",
+    "GLOWTAG_DESCRIPTION": "Gán Glow tag cho một hoặc nhiều Glow",
     "GT_CATEGORY": "Tag",
     "CORRECT_USAGE": "{{author}} Cách sử dụng đúng: `{{prefix}}gt <TagName> <#GlowCode>`",
     "GLOWTAGS_NOT_FOUND": "{{author}} Hiện tại bạn không có tag **Glow**. Bạn có thể tạo bằng lệnh: `{{prefix}}gtc <TagName> <Emoji>`",
