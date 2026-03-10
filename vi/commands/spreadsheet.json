@@ -2,7 +2,13 @@
     "SPREADSHEET_DESCRIPTION": "Khi sử dụng lệnh này, Sofi sẽ tạo ra một tệp .csv chứa thông tin về tất cả các thẻ trong bộ sưu tập của bạn. Bạn cũng có thể nhận được một tệp .csv chi tiết về bang hội của bạn bằng cách thêm \"Guild\" vào cuối câu lệnh",
     "SHEET_CATEGORY": "Cài đặt",
     "NO_GUILD_INFO": "{{author}} Hiện tại bạn không ở trong bang hội nào",
-    "NO_VAULT_LOGS": "{{author}} Hiện tại không có nhật ký của két",
-    "CANNOT_DM": "{{author}} Không thể gửi cho bạn tệp bảng tính. Hãy chắc chắn rằng tin nhắn trực tiếp của bạn đang mở!",
-    "NO_COLLECTION": "{{author}} Bạn không có thẻ nào trong bộ sưu tập"
+    "NO_VAULT_LOGS": "{{author}} Hiện tại không có nhật ký két",
+    "CANNOT_DM": "{{author}} Không thể gửi cho bạn file bảng tính. Hãy chắc chắn rằng tin nhắn trực tiếp của bạn đang mở!",
+    "NO_COLLECTION": "{{author}} Bạn không có thẻ nào trong bộ sưu tập",
+    "DM_FILE_zero": "{{author}} {{count}} file .csv đã được gửi cho bạn qua tin nhắn riêng\n\n> **Lưu ý**: Khi nhập file vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt dấu phân cách là dấu \"phẩy\"!",
+    "DM_FILE_one": "{{author}} {{count}} file .csv đã được gửi cho bạn qua tin nhắn riêng\n\n> **Lưu ý**: Khi nhập file vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt dấu phân cách là dấu \"phẩy\"!",
+    "DM_FILE_two": "{{author}} {{count}} file .csv đã được gửi cho bạn qua tin nhắn riêng\n\n> **Lưu ý**: Khi nhập file vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt dấu phân cách là dấu \"phẩy\"!",
+    "DM_FILE_few": "{{author}} {{count}} file .csv đã được gửi cho bạn qua tin nhắn riêng\n\n> **Lưu ý**: Khi nhập file vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt dấu phân cách là dấu \"phẩy\"!",
+    "DM_FILE_many": "{{author}} {{count}} file .csv đã được gửi cho bạn qua tin nhắn riêng\n\n> **Lưu ý**: Khi nhập file vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt dấu phân cách là dấu \"phẩy\"!",
+    "DM_FILE_other": "{{author}} {{count}} file .csv đã được gửi cho bạn qua tin nhắn riêng\n\n> **Lưu ý**: Khi nhập file vào Excel hoặc các chương trình bảng tính, hãy đảm bảo đặt dấu phân cách là dấu \"phẩy\"!"
 }

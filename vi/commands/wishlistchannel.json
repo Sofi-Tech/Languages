@@ -2,5 +2,6 @@
     "CATEGORY": "Danh sách yêu thích",
     "CHANNEL_REMOVE": "{{author}} Danh sách yêu thích của bạn đã được gỡ bỏ khỏi kênh {{channel}}",
     "WISHLISTCHANNEL_DESCRIPTION": "Ghim wishlist của người chơi vào một kênh để nhận thông báo",
-    "CHANNEL_SET": "{{author}} Danh sách yêu thích của bạn đã được thiết lập trong kênh {{channel}}"
+    "CHANNEL_SET": "{{author}} Danh sách yêu thích của bạn đã được thiết lập trong kênh {{channel}}",
+    "WISHLISTCHANNEL_EXTRA_INFO": "Khi một thẻ trong wishlist của bạn được drop, Sofi sẽ ping bạn"
 }

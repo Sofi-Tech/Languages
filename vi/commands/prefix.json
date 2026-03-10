@@ -2,5 +2,6 @@
     "PREFIX_DESCRIPTION": "Đặt prefix cho máy chủ của bạn mà người chơi có thể sử dụng với Sofi",
     "PREFIX_CATEGORY": "Cài đặt",
     "PROVIDE_PREFIX": "{{author}} Cách sử dụng đúng: `{{prefix}}prefix <NewPrefix>`",
-    "PREFIX_SET_SUCCESSFUL": "{{author}} Prefix cho máy chủ này đã được thiết lập thành `{{prefix}}`"
+    "PREFIX_SET_SUCCESSFUL": "{{author}} Prefix cho máy chủ này đã được thiết lập thành `{{prefix}}`",
+    "PREFIX_EXTRA_INFO": "Prefix đã chọn sẽ được yêu cầu để sử dụng các lệnh của Sofi. Prefix mặc định là \"s\""
 }

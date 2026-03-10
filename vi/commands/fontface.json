@@ -1,4 +1,5 @@
 {
     "FONTFACE_DESCRIPTION": "Thay đổi kiểu chữ và vị trí trên thẻ 2D",
-    "FONTFACE_CATEGORY": "Đồ trang trí"
+    "FONTFACE_CATEGORY": "Đồ trang trí",
+    "FONTFACE_EXTRA_INFO": "Các thay đổi này sử dụng overflow, font, căn chỉnh và vị trí để thay đổi chữ trên thẻ cụ thể, nếu dùng lệnh không nhập mã thẻ, thay đổi sẽ áp dụng cho thẻ bạn nhận được gần nhất"
 }
