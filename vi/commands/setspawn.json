@@ -4,5 +4,6 @@
     "SS_SLASH_DESC": "Chọn một kênh",
     "SS_MENTION_CHANNEL": "{{author}} Cách sử dụng đúng: `{{prefix}}ss <#ChannelMention/ChannelID>`",
     "SS_DISABLE": "{{author}} Thẻ sẽ không được spawn trong máy chủ này nữa",
-    "SS_ENABLE": "{{author}} Kênh spawn thẻ được thiết lập thành kênh {{channel}}"
+    "SS_ENABLE": "{{author}} Kênh spawn thẻ được thiết lập thành kênh {{channel}}",
+    "SETSPAWN_EXTRA_INFO": "Lệnh này có thể dùng trực tiếp trong một kênh hoặc đề cập kênh đó. Tùy vào mức độ hoạt động của server, đôi khi Sofi sẽ tự động drop thẻ trong kênh đã được thiết lập"
 }

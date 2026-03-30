@@ -5,7 +5,7 @@
     "PAGE": "Sao Chép Trang - {{page}}",
     "WISHLIST_PRIVATE": "{{author}} Người dùng đó đã chỉnh wishlist của họ ở chế độ riêng tư",
     "WISHLIST_EMPTY_SELF": "{{author}} Wishlist của bạn đang trống",
-    "WISHLIST_EMPTY": "{{author}} Danh sách yêu thích của người dùng đó đang trống",
+    "WISHLIST_EMPTY": "{{author}} Wishlist của người chơi đó đang trống",
     "WISHLIST_EMBED_TITLE": "SOFI: WISHLIST ({{username}}) [{{length}}/{{slots}}]",
     "WISHLIST_EMBED_FOOTER": "Trang: {{page}}/{{totalPages}}",
     "COPY_CODES_BUTTON_LABEL": "Sao Chép Mã",
@@ -29,8 +29,8 @@
     "ALREADY_SLOTS": "Bạn đã có {{size}} slot trong wishlist của mình rồi",
     "ALL_CARD_CODES": "Do khối lượng mã lớn, tin nhắn đã được chuyển thành tệp `.txt`:",
     "UPGRADE_MENU_PLACEHOLDER": "Nâng Cấp Danh Sách Yêu Thích",
-    "VT_WISHLIST_EMPTY": "{{author}} Danh sách Version Token yêu thích của người dùng đó đang trống",
+    "VT_WISHLIST_EMPTY": "{{author}} Wishlist Version Token của người chơi đó đang trống",
     "NO_CHARACTERS_FOUND": "Không tìm thấy nhân vật nào trong danh sách yêu thích",
     "CARDS_WISHLIST_BUTTON_LABEL": "Thẻ",
-    "VT_WISHLIST_EMPTY_SELF": "{{author}} Danh sách Version Token yêu thích của bạn đang trống"
+    "VT_WISHLIST_EMPTY_SELF": "{{author}} Wishlist Version Token của bạn đang trống"
 }

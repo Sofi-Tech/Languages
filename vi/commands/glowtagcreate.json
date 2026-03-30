@@ -5,5 +5,6 @@
     "GLOWTAG_ALREADY_EXISTS": "{{author}} Bạn đã có một tag **Glow** với tên đó",
     "CREATED_GLOWTAG": "{{author}} Đã tạo tag **Glow** tên `{{tag}}` | {{emoji}}",
     "GLOWTAGCREATE_DESCRIPTION": "Tạo một Glow tag",
-    "INVALID_TAGNAME_FORMAT": "{{author}} Tên tag phải là chữ và số, không được chứa dấu cách hay ký tự đặc biệt"
+    "INVALID_TAGNAME_FORMAT": "{{author}} Tên tag phải là chữ và số, không được chứa dấu cách hay ký tự đặc biệt",
+    "GLOWTAGCREATE_EXTRA_INFO": "Tag cho phép bạn phân loại và nhóm nhiều Glow theo tiêu chí riêng của bạn bằng cách đặt tên và emoji cho tag. Dùng lệnh \"{{prefix}}glowtag\" để gán tag vừa tạo cho Glow của bạn"
 }

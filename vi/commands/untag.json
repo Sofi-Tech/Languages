@@ -5,5 +5,6 @@
     "INVALID_CODE": "{{author}} Mã bạn cung cấp không hợp lệ hoặc không có trong bộ sưu tập của bạn",
     "UNTAG_SUCCESSFUL": "{{author}} Đã gỡ tag khỏi **{{cardName}}**",
     "MULTIPLE_UNTAG": "{{author}} Đã gỡ tag khỏi **{{count}}** mã",
-    "INVALID_CODE_MULTIPLE": "{{author}} Những mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}"
+    "INVALID_CODE_MULTIPLE": "{{author}} Những mã sau đây không hợp lệ hoặc không có trong bộ sưu tập của bạn:\n{{invalidCodeList}}",
+    "UNTAG_EXTRA_INFO": "Nếu bạn muốn xóa cả tag, bạn có thể dùng lệnh `{{prefix}}tagdelete`"
 }

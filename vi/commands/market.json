@@ -3,5 +3,6 @@
     "MARKET_DESCRIPTION": "Cho phép bạn sử dụng Gem để mua Wist hoặc bán Wist để lấy Gem",
     "DEAL_INFO": "`{{orderNumber}})` • `{{timer}}` • `{{dealId}}` • Sẵn có: `{{stockAmount}}` {{stockEmoji}} | Tỷ lệ: `{{rateAmount}}` {{rateEmoji}}",
     "FOOTER": "Hiển thị kết quả từ {{page}}-{{pages}} của {{total}} | {{prefix}}mbuy <Order-ID> <Amount>",
-    "MARKET_WARN": "**Tỷ Lệ Trung Bình**: **`{{averageRate}}` | Tổng Số Giao Dịch**: **`{{totalTrades}}`**"
+    "MARKET_WARN": "**Tỷ Lệ Trung Bình**: **`{{averageRate}}` | Tổng Số Giao Dịch**: **`{{totalTrades}}`**",
+    "MARKET_EXTRA_INFO": "Bạn cũng có thể xem danh sách các đơn hàng đang đăng của mình trên chợ"
 }

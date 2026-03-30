@@ -3,5 +3,6 @@
     "USER_NOT_FOUND": "{{author}} Không tìm thấy người chơi đó",
     "PROFILE_NOT_FOUND": "{{author}} Người dùng đó chưa đăng ký",
     "GIF_ENABLED": "{{author}} Hồ sơ của bạn đã bật tính năng GIF. Để tải hồ sơ GIF, hãy sử dụng lệnh `{{prefix}}pc` và nhấp vào nút `Tải lại hồ sơ GIF` trong menu phía dưới",
-    "PROFILE_DESCRIPTION": "Hiển thị hồ sơ người chơi"
+    "PROFILE_DESCRIPTION": "Hiển thị hồ sơ người chơi",
+    "PROFILE_EXTRA_INFO": "Dùng lệnh này không kèm nội dung sẽ hiển thị hồ sơ của bạn, nhập thêm tên người chơi hoặc id người dùng sẽ xem hồ sơ của họ. Bạn có thể tùy chỉnh hồ sơ bằng lệnh \"{{prefix}}profileconfig\""
 }

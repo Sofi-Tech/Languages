@@ -6,5 +6,6 @@
     "GLOW_UNTAG_SUCCESSFUL": "{{author}} Đã gỡ tag khỏi **{{glow}}** **Glow** của bạn",
     "NO_GLOWS_FOUND": "{{author}} Hiện tại bạn không có **Glow** nào",
     "INVALID_GLOWCODE_MULTIPLE": "{{author}} Các mã **Glow** sau đây không hợp lệ hoặc không có trong kho đồ của bạn:\n{{invalidCodeList}}",
-    "GLOW_UNTAG_PLURAL": "{{author}} Đã gỡ nhãn khỏi **{{count}}** **Glow** của bạn"
+    "GLOW_UNTAG_PLURAL": "{{author}} Đã gỡ tag khỏi **{{count}}** **Glow**",
+    "GLOWUNTAG_EXTRA_INFO": "Nếu bạn muốn xóa cả Glow tag, bạn có thể dùng lệnh \"{{prefix}}glowtagdelete\""
 }
