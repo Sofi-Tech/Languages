@@ -65,5 +65,6 @@
   "FILTER_LIMIT": "{{author}} Hindi ka na maaaring gumawa ng higit pang mga filter",
   "VERSION_AVAILABILITY": "Availability ng Version",
   "FILTER_NAME_EXISTS": "Mayroon nang filter na may pangalang `{{filterName}}`",
-  "SERIES_COMPLETED": "Series na Kumpleto"
+  "SERIES_COMPLETED": "Series na Kumpleto",
+  "SERIES_INCOMPLETE": "Series na Hindi Kumpleto"
 }
