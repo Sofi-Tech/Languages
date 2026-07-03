@@ -1,11 +1,11 @@
 {
   "GIFT_CATEGORY": "Cartas",
-  "GIFT_SLASH_DESC2": "Digite a quantidade de onigiris que deseja dar.",
-  "GIFT_WRONG_USAGE": "Forneça um usuário e um valor",
-  "INVALID_USER": "Usuário inválido fornecido",
-  "INVALID_AMOUNT": "{{author}} Você não pode dar de presente um número negativo de `{{eventItem}}`",
-  "PLAYER_NOT_EXISTS": "{{author}} | Esse jogador não existe",
-  "GIFT_SUCCESSFUL": "{{author}} generosamente presenteou {{amount}} 🍙 para {{user}}\n{{user}} recebeu {{recieveCount}} 🍙 até agora",
-  "GIFT_SLASH_DESC": "Digite o usuário para o qual você deseja presentear com onigiris.",
-  "NOT_ENOUGH_ITEM": "Você não tem {{amount}} onigiris | Colete alguns dos drops"
+  "GIFT_SLASH_DESC2": "Digite a quantidade de cafés que deseja dar.",
+  "GIFT_WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}gift <CodigoDaCarta>`",
+  "INVALID_USER": "{{author}} Você não pode presentear **{{eventItem}}** para si mesmo",
+  "INVALID_AMOUNT": "{{author}} Você não pode presentear uma quantidade negativa de itens",
+  "PLAYER_NOT_EXISTS": "{{author}} Esse usuário não está registrado",
+  "GIFT_SUCCESSFUL": "{{author}} generosamente presenteou {{amount}} ☕ para {{user}}\n{{user}} recebeu {{recieveCount}} ☕ até agora",
+  "GIFT_SLASH_DESC": "Digite o usuário para o qual você deseja presentear com cafés.",
+  "NOT_ENOUGH_ITEM": "Você não tem {{amount}} cafés | Colete alguns dos drops"
 }

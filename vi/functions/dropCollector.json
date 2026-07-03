@@ -14,8 +14,8 @@
     "TOOK_ELEMENT_MULTI": "{{user}} đã đánh bại **{{userCount}}** người chơi khác và giành được **{{elementName}}** {{elementEmoji}}",
     "TOOK_ELEMENT_ALONE": "{{user}} đã nhặt **{{elementName}}** element {{elementEmoji}}",
     "EVENT_GRAB": "{{user}} xuất hiện từ trong bóng tối và nhận được {{currencyEmoji}} **{{amount}}** **{{eventItem}}**",
-    "SNATCHED_EVENT_ITEM": "{{winner}} đã lấn át <@{{userId}}> và giành được **{{amount}} {{eventItem}}** 🍙",
-    "GRAB_EVENT_ITEM": "{{winner}} đã vượt mặt {{userCount}} đối thủ và giành được **{{amount}} {{eventItem}}** 🍙",
+    "SNATCHED_EVENT_ITEM": "{{winner}} đã lấn át <@{{userId}}> và giành được **{{amount}} {{eventItem}}** ☕",
+    "GRAB_EVENT_ITEM": "{{winner}} đã vượt mặt {{userCount}} đối thủ và giành được **{{amount}} {{eventItem}}** ☕",
     "ETHEREAL_CLAIM_EMBED_TITLE": "Bạn đã nhận được Thẻ Ethereal!",
     "ETHEREAL_CLAIM_INFO": "Thẻ có chỉ số cao rất hiếm và được rất nhiều người chơi săn lùng\nNhững thẻ với chỉ số cơ bản trên 600 là cực kỳ hiếm."
 }
