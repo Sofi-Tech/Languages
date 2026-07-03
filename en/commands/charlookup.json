@@ -39,6 +39,7 @@
     "FAN_PTS_ADDED_other": "Successfully added **{{count}}** points to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "FAN_PTS_ADDED_many": "Successfully added **{{count}}** points to **{{characterName}}**\n(**{{previousPoints}} ➜ {{currentPoints}}**) ✨",
     "3D_MAKER": "**3D Maker**",
+    "2D_ARTIST": "**2D Artist**",
     "CL_PRICE": "**Price**: {{amount}} {{emoji}}",
     "CARD_MAKER": "**GIF Artist**",
     "CL_CREDITS": "**Art Credits**: {{credits}}",
