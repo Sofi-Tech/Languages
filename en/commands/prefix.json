@@ -3,5 +3,6 @@
     "PREFIX_CATEGORY": "Settings",
     "PROVIDE_PREFIX": "{{author}} Correct usage: `{{prefix}}prefix <NewPrefix>`",
     "PREFIX_SET_SUCCESSFUL": "{{author}} The prefix for this server has been set to `{{prefix}}`",
+    "PREFIX_ERROR": "{{author}} Something went wrong while updating the prefix",
     "PREFIX_EXTRA_INFO": "The selected prefix will be required to execute commands against Sofi. The default prefix is \"s\""
 }
