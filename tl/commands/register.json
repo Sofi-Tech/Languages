@@ -17,5 +17,6 @@
   "REGISTER_MESSAGE": "Pagbati {{user}} <:sofiwave:1008533250408456282>! Naimbitahan kang maglaro ng Sofi.\nUmaasa kaming makita ka namin sa pagkolekta ng mga kard at pagsali sa aming mga events!",
   "REFERRAL_FOOTER": "Ikaw at ang iyong kaibigan ay parehong makakakuha ng mga premyo pagkatapos magpa-rehistro",
   "AUTHOR_NOT_REGISTERED": "{{author}} Ikaw ay hindi nakarehistro",
-  "VERIFY_MESSAGE": "Malapit ka na! Pindutin ang button sa ibaba upang beripikahin ang iyong sarili sa aming website.\nSumali sa aming [Opisyal na Support Server](<https://discord.gg/sofi>) kung nahaharap ka sa anumang isyu!"
+  "VERIFY_MESSAGE": "Malapit ka na! Pindutin ang button sa ibaba upang beripikahin ang iyong sarili sa aming website.\nSumali sa aming [Opisyal na Support Server](<https://discord.gg/sofi>) kung nahaharap ka sa anumang isyu!",
+  "UNVERIFIED_GRACE_MESSAGE": "Malapit ka na! Puwede ka nang maglaro agad bilang **unverified** na user hanggang <t:{{expiry}}:F>.\n\nHabang hindi ka pa verified, naka-lock ang trade, give, market, vote, bump, at ang mga drop ng ibang manlalaro. [Beripikahin ang iyong sarili sa aming website](<https://sofi.gg/verify>) upang ma-unlock ang buong karanasan ng Sofi — pagkatapos ng 7 araw, kailangan mo nang mag-verify para makapaglaro ulit.\nSumali sa aming [Opisyal na Support Server](<https://discord.gg/sofi>) kung nahaharap ka sa anumang isyu!"
 }

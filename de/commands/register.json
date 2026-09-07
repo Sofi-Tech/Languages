@@ -17,5 +17,6 @@
     "USER_ALREADY_REGISTERED": "{{author}} Dieser Nutzer ist nicht verifiziert",
     "REGISTER_MESSAGE": "Hallo {{user}} <:sofiwave:1008533250408456282>! Du wurdest dazu eingeladen, Sofi zu spielen.\nWir würden uns freuen, dich Karten sammeln und bei unseren Events teilnehmen zu sehen!",
     "REFERRAL_FOOTER": "Du und dein Freund werden beide Belohnungen nach der Registrierung erhalten",
-    "VERIFY_MESSAGE": "Fast geschafft! Klicke den Button unter hier, um dich auf unserer Website zu verifizieren.\nTrete unserem [offiziellen Support Server](<https://discord.gg/sofi>) bei, falls du auf Probleme stößt!"
+    "VERIFY_MESSAGE": "Fast geschafft! Klicke den Button unter hier, um dich auf unserer Website zu verifizieren.\nTrete unserem [offiziellen Support Server](<https://discord.gg/sofi>) bei, falls du auf Probleme stößt!",
+    "UNVERIFIED_GRACE_MESSAGE": "Fast geschafft! Du kannst sofort als **unverifizierter** Nutzer spielen, bis <t:{{expiry}}:F>.\n\nSolange du unverifiziert bist, sind Handel, Geschenke, der Markt, Voten, Bumpen und die Drops anderer Spieler gesperrt. [Verifiziere dich auf unserer Website](<https://sofi.gg/verify>), um das volle Sofi-Erlebnis freizuschalten — nach Ablauf der 7 Tage musst du dich verifizieren, um weiterspielen zu können.\nTritt unserem [offiziellen Support Server](<https://discord.gg/sofi>) bei, falls du auf Probleme stößt!"
 }

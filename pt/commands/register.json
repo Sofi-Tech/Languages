@@ -17,5 +17,6 @@
   "REGISTER_DESCRIPTION": "Este comando é necessário para ser usado para começar a jogar Sofi. Você também pode usar este comando para convidar um amigo para jogar Sofi",
   "INVALID_USER": "{{author}} O ID de usuário fornecido é inválido",
   "REFERRAL_FOOTER": "Tanto você quanto seu amigo receberão recompensas após o registro",
-  "VERIFY_MESSAGE": "Quase lá! Clique no botão abaixo para verificar você mesmo em nosso site.\nJunte-se ao nosso [Servidor de Suporte Oficial](<https://discord.gg/sofi> ) se você tiver algum problema!"
+  "VERIFY_MESSAGE": "Quase lá! Clique no botão abaixo para verificar você mesmo em nosso site.\nJunte-se ao nosso [Servidor de Suporte Oficial](<https://discord.gg/sofi> ) se você tiver algum problema!",
+  "UNVERIFIED_GRACE_MESSAGE": "Quase lá! Você já pode começar a jogar como usuário **não verificado** até <t:{{expiry}}:F>.\n\nEnquanto não estiver verificado, trocas, presentes, o mercado, votar, dar bump e os drops de outros jogadores ficam bloqueados. [Verifique-se em nosso site](<https://sofi.gg/verify>) para desbloquear a experiência completa da Sofi — depois dos 7 dias, a verificação será necessária para continuar jogando.\nJunte-se ao nosso [Servidor de Suporte Oficial](<https://discord.gg/sofi>) se você tiver algum problema!"
 }
