@@ -20,6 +20,8 @@
     "SLOTS": "**Slots:** `{{used}}/{{total}}` • **Patron:** `{{patron}}`",
     "NO_PATRON": "None",
     "PATRON_INFO": "**Patron slots** (on top of the gem slot)",
+    "PATRON_TIER_SLOTS_one": "+{{count}} slot",
+    "PATRON_TIER_SLOTS_other": "+{{count}} slots",
     "PATRON_INFO_FOOTER": "Patron slots stop working when the patron ends.",
     "USAGE_INFO": "**Usage**\n`{{command}}` toggles this channel\n`{{command}} [#channel] <slot>` sets or moves a channel to a slot",
     "SLOT_DEFAULT": "Default",
