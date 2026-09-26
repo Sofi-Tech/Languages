@@ -19,7 +19,7 @@
     "INACTIVE": "⚠️ *Inactive — patron required*",
     "SLOTS": "**Slots:** `{{used}}/{{total}}` • **Patron:** `{{patron}}`",
     "NO_PATRON": "None",
-    "PATRON_INFO": "-# **Patron slots** (on top of the gem slot):\n-# Gold +1 • Platinum +2 • Ruby +3 • Gamma +5\n-# They stop working when the patron ends.",
+    "PATRON_INFO": "-# **Patron slots** (on top of the gem slot):\n-# <:patreongold:1371066719245701191> Gold Patron • +1 slot\n-# <:patreonplatinum:1371066720969818122> Platinum Patron • +2 slots\n-# <:patreonruby:1371066713432657930> Ruby Patron • +3 slots\n-# <:patreongamma:1371066716066418759> Gamma Patron • +5 slots\n-# They stop working when the patron ends.",
     "USAGE_INFO": "-# `{{command}}` toggles this channel\n-# `{{command}} [#channel] <slot>` sets or moves a channel to a slot",
     "SLOT_DEFAULT": "Default",
     "SLOT_GEM": "Gem",
