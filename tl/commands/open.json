@@ -21,6 +21,7 @@
   "EMBED_TITLE": "SOFI: OPEN ({{itemName}})",
   "PROCESS_CANCELLED": "Ang proseso ay nakansela",
   "GUILD_PACKAGE_PROMPT": "**__Current Card Pool __**\n{{poolLine}}\n\nSigurado ka bang gusto mong buksan ang package na ito?",
+  "GUILD_PACKAGE_CONFIRM": "Sigurado ka bang gusto mong buksan ang package na ito?",
   "CLAIMED": "Nakuha na",
   "VERSION_CHEST_FOOTER": "Maaaring makipagpalitan o magbukas ng Version chest",
   "EQUIP_EQUIPMENTS": "Gamitin ang command na \"{{prefix}}stats <CardCode>\" upang mag-equip ng mga kagamitan"

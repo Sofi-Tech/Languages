@@ -18,5 +18,12 @@
   "ALBUM_CARDS_few": "{{count}} cards",
   "ALBUM_CARDS_other": "{{count}} cards",
   "ALBUM_CARDS_many": "{{count}} cards",
-  "EMBED__ALBUM_FOOTER": "Owned By {{userTag}}"
+  "EMBED__ALBUM_FOOTER": "Owned By {{userTag}}",
+  "GIF_BUTTON_LABEL": "Make GIF ({{amount}} Wists)",
+  "GIF_RELOAD_LABEL": "Reload GIF",
+  "GIF_UNLOCK_PROMPT": "{{author}} Spend **{{amount}}** <:wist:870339503427027005> Wists to turn **{{albumName}}** into an animated GIF album? YES! This is a one-time unlock, you can reload it for free anytime after editing, so per album 5 wists to make it GIF",
+  "GIF_MISSING_WISTS": "{{author}} You need **{{amount}}** <:wist:870339503427027005> Wists to animate this album!",
+  "GIF_NO_ANIMATED_CONTENT": "{{author}} This album has no animated cards to animate! Apply `animatecard` effects or own a GIF-print card first.",
+  "GIF_GENERATING": "Generating animated album... <a:_:876610443148406794>",
+  "GIF_FAILED": "{{author}} Failed to generate the animated album. Please try again later."
 }

@@ -17,6 +17,7 @@
   "PROCESS_CANCELLED": "O processo foi cancelado",
   "VERSION_CHEST_FOOTER": "Os Version chests podem ser trocados e abertos a qualquer momento",
   "GUILD_PACKAGE_PROMPT": "**__Seleção de Cartas Atual__**\n{{poolLine}}\n\nTem certeza de que deseja abrir este pacote?",
+  "GUILD_PACKAGE_CONFIRM": "Tem certeza de que deseja abrir este pacote?",
   "GUILD_PACKAGE_SUCCESS": "Parabéns! Sua **Guild Package** continha a carta **{{charName}}** **3D-V2** e 💳 **{{amount}}x** **Gen Scratcher**",
   "CLAIMED": "Reivindicado",
   "CORRECT_USAGE_2": "Itens que podem ser abertos: **Chests**",

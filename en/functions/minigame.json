@@ -3,5 +3,5 @@
   "GRAB_COOLDOWN": "{{user}} You must wait **{{cooldown}}** to grab another card",
   "EMBED_TITLE": "SOFI: MINIGAME",
   "CLAIMED_CARD": "{{user}} won the **{{character}}** card (`{{code}}`) | {{elementEmoji}} **{{elementName}}**",
-  "NOT_CLAIMED": "The **{{character}}** card was not claimed"
+  "NOT_CLAIMED": "Nobody claimed the **{{character}}** card in time. It got away!"
 }

@@ -16,7 +16,7 @@
     "EMPTY": "*Empty*",
     "LOCKED": "🔒 *Locked*",
     "GEM_SLOT_LOCKED_LINE": "🔒 *Unlock for {{cost}}* <:gemgame:862598030562033694>",
-    "INACTIVE": "⚠️ *Inactive — patron required*",
+    "INACTIVE": "⚠️ *Inactive - patron required*",
     "SLOTS": "**Slots:** `{{used}}/{{total}}` • **Patron:** `{{patron}}`",
     "NO_PATRON": "None",
     "PATRON_INFO": "**Patron slots** (on top of the gem slot)",
