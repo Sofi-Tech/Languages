@@ -108,5 +108,13 @@
     "INVALID_RING_ID": "ID del **Profile Ring** invalido",
     "NO_RING_FOUND": "No se pudo encontrar ningún **Profile Ring** con ese ID",
     "RING_ALREADY_IN_INV": "Ya tienes ese **Profile Ring** en tu inventario",
-    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.j. 101"
+    "PURCHASE_RING_MODAL_PLACEHOLDER": "e.j. 101",
+    "INTRO_MODAL_LABEL": "Presentación (máx. 90 caracteres)",
+    "FAV_CHAR_MODAL_LABEL": "Nombre del personaje",
+    "FAV_SERIES_MODAL_LABEL": "Nombre de la serie",
+    "CARD_MODAL_LABEL": "Código de la carta",
+    "GLOW_MODAL_LABEL": "Código de Glow",
+    "GLOW_MODAL_PLACEHOLDER": "e.j. #a1b2c3, o none para eliminar",
+    "BADGES_MODAL_LABEL": "IDs de medallas, de izquierda a derecha (máx. 9)",
+    "BADGES_MODAL_PLACEHOLDER": "e.j. 1 4 12"
 }

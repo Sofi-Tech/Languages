@@ -108,5 +108,13 @@
     "PURCHASE_RING_MODAL_PLACEHOLDER": "z.B. 101",
     "NO_ENOUGH_AMOUNT_RING": "Du hast nicht genug **{{currency}}**, um diesen **Profile Ring** zu kaufen",
     "INVALID_RING_ID": "Ungültige **Profile Ring** ID",
-    "SET_RING_CONFIRM": "Bist du dir sicher, dass du **{{ringName}}** als dein Profil Ring auswählen möchtest?"
+    "SET_RING_CONFIRM": "Bist du dir sicher, dass du **{{ringName}}** als dein Profil Ring auswählen möchtest?",
+    "INTRO_MODAL_LABEL": "Vorstellung (max. 90 Zeichen)",
+    "FAV_CHAR_MODAL_LABEL": "Charaktername",
+    "FAV_SERIES_MODAL_LABEL": "Serienname",
+    "CARD_MODAL_LABEL": "Kartencode",
+    "GLOW_MODAL_LABEL": "Glow-Code",
+    "GLOW_MODAL_PLACEHOLDER": "z. B. #a1b2c3, oder none zum Entfernen",
+    "BADGES_MODAL_LABEL": "Abzeichen-IDs, von links nach rechts (max. 9)",
+    "BADGES_MODAL_PLACEHOLDER": "z. B. 1 4 12"
 }

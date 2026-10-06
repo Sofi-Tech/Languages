@@ -108,5 +108,13 @@
     "SET_RING_CONFIRM": "Êtes-vous sûr(e) de vouloir définir la **{{ringName}}** comme votre Profile Ring?",
     "NO_ENOUGH_AMOUNT_RING": "Vous n'avez pas assez de **{{currency}}** pour acheter ce **Profile Ring**",
     "INVALID_RING_ID": "ID de **Profile Ring** invalide",
-    "RING_ALREADY_IN_INV": "Vous avez déjà ce **Profile Ring** dans votre inventaire"
+    "RING_ALREADY_IN_INV": "Vous avez déjà ce **Profile Ring** dans votre inventaire",
+    "INTRO_MODAL_LABEL": "Introduction (90 caractères max.)",
+    "FAV_CHAR_MODAL_LABEL": "Nom du personnage",
+    "FAV_SERIES_MODAL_LABEL": "Nom de la série",
+    "CARD_MODAL_LABEL": "Code de la carte",
+    "GLOW_MODAL_LABEL": "Code du Glow",
+    "GLOW_MODAL_PLACEHOLDER": "p. ex. #a1b2c3, ou none pour retirer",
+    "BADGES_MODAL_LABEL": "IDs des badges, de gauche à droite (max. 9)",
+    "BADGES_MODAL_PLACEHOLDER": "p. ex. 1 4 12"
 }

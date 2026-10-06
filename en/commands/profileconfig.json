@@ -117,5 +117,13 @@
     "PRING_LIMITED": "This **Profile Ring** is limited and cannot be purchased",
     "SUCCESSFUL_RING": "{{author}} Successfully set **{{ringName}}** as your Profile Ring",
     "VIEW_PROFILE_RINGS": "[View all available **Profile Rings** here](https://sofi.gg/profiles/rings)",
+    "INTRO_MODAL_LABEL": "Introduction (max 90 characters)",
+    "FAV_CHAR_MODAL_LABEL": "Character name",
+    "FAV_SERIES_MODAL_LABEL": "Series name",
+    "CARD_MODAL_LABEL": "Card code",
+    "GLOW_MODAL_LABEL": "Glow code",
+    "GLOW_MODAL_PLACEHOLDER": "e.g. #a1b2c3, or none to remove",
+    "BADGES_MODAL_LABEL": "Badge IDs, left to right (max 9)",
+    "BADGES_MODAL_PLACEHOLDER": "e.g. 1 4 12",
     "PROFILECONFIG_EXTRA_INFO": "You can customize your introduction, favorite character/series, display card and other options"
 }
