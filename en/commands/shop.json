@@ -23,5 +23,10 @@
     "DONATE_SUPPORT": "Support us by becoming a patron!",
     "BUY_STAT_RESET": "**1) `{{prefix}}buy sr` | <:elixir:979673719884636210> 500x Elixir ➜ 🌀 1x Stat Reset**",
     "STAT_RESET": "> Resets the allocated stat upgrades of a card",
-    "SHOP_EXTRA_INFO": "Use the \"{{prefix}}buy\" command to purchase utility or guild items"
+    "SHOP_EXTRA_INFO": "Use the \"{{prefix}}buy\" command to purchase utility or guild items",
+    "HUNTER": "Hunter",
+    "HUNTER_SHOP": "Hunter Shop",
+    "BUY_HUNTER_SHARD": "**`1` 🏹 Hunter Point ➜ `1` <:_:1168102686785273916> Shard**",
+    "HUNTER_POINTS_BALANCE_one": "You have {{points}} Hunter Point",
+    "HUNTER_POINTS_BALANCE_other": "You have {{points}} Hunter Points"
 }

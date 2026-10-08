@@ -15,5 +15,11 @@
     "BUY_CHARMS_MULTIPLES": "{{author}} You can only buy **Charms** in multiples of 100",
     "BUY_CHARM_CONFIRMATION": "## You are buying {{amount}} {{itemName}} <:charmticket:1417253296338370570>",
     "BUY_GEN_CONFIRMATION": "## You are buying {{count}} {{itemName}} 💳",
-    "BUY_EXTRA_INFO": "Use this command in combination with an item name and an amount to start a transaction to buy the specific item. Use the \"{{prefix}}shop\" command to view all available items"
+    "BUY_EXTRA_INFO": "Use this command in combination with an item name and an amount to start a transaction to buy the specific item. Use the \"{{prefix}}shop\" command to view all available items",
+    "HUNTER_POINTS_NOT_ENOUGH": "> **You don't have enough Hunter Points.** You have `{{balance}}`, need `{{amount}}`.",
+    "HUNTER_POINTS_RAN_OUT": "> **You no longer have enough Hunter Points**",
+    "HUNTER_POINTS_one": "{{count}} Hunter Point",
+    "HUNTER_POINTS_other": "{{count}} Hunter Points",
+    "SHARDS_one": "{{count}} Shard",
+    "SHARDS_other": "{{count}} Shards"
 }
