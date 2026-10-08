@@ -7,6 +7,7 @@
     "NORMAL_LABEL": "Version: 1",
     "FAN_PTS_LABEL": "Add Fan Points",
     "REMOVE_FAN_PTS_LABEL": "Remove Fan Points",
+    "REMOVE_FAN_CONFIRM": "Remove all your fan points from **{{characterName}}**? Spent currency is not refunded.",
     "REMOVE_FAN_CONFIRM_LABEL": "Type yes to confirm",
     "REMOVE_FAN_MODAL_TITLE": "SOFI: REMOVE FAN POINTS",
     "REMOVE_FAN_CONFIRM_FAIL": "You must type **yes** exactly to confirm.",
