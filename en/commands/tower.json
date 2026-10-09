@@ -1,0 +1,120 @@
+{
+  "tower": {
+    "controller": {
+      "disabled": "Tower is not available here.",
+      "invalid_control": "That Tower control is invalid or belongs to another player. Use `/tower resume`.",
+      "stale_control": "Those controls are out of date. The latest floor state has been restored.",
+      "duplicate_action": "That action was already applied. The latest floor state is shown.",
+      "progress_safe": "Your progress is saved, but Discord could not refresh the floor. Use `/tower resume`.",
+      "unavailable": "Tower is temporarily unavailable. Your saved progress was not changed.",
+      "resumed": "Your latest Nightmare floor is ready.",
+      "started": "Your Nightmare floor has begun.",
+      "no_run": "No resumable Tower run was found.",
+      "slash_only": "Tower gameplay is available through `/tower` so Discord can authenticate every control."
+    },
+    "placeholder": "## Nightmare Tower\nPreparing your saved floor…",
+    "image_unavailable": "-# The image is unavailable. The native game state remains authoritative and playable.",
+    "control": {
+      "north": "North",
+      "east": "East",
+      "south": "South",
+      "west": "West",
+      "move": "Move",
+      "pause": "Pause",
+      "resume": "Resume",
+      "exit": "Enter Exit",
+      "inspect_here": "Inspect Here"
+    },
+    "native": {
+      "header": "Nightmare Tower · Floor {{floor}} · Turn {{turn}}",
+      "status": {
+        "active": "Status: Active.",
+        "paused": "Status: Paused.",
+        "completed": "Status: Completed.",
+        "defeated": "Status: Defeated.",
+        "abandoned": "Status: Abandoned."
+      },
+      "objective": {
+        "locked": "Objective: {{collected}} of {{required}} sigils recovered; the exit is locked.",
+        "unlocked": "Objective: {{collected}} of {{required}} sigils recovered; the exit is unlocked."
+      },
+      "position": {
+        "north": "You are at row {{row}}, column {{column}}, facing north.",
+        "east": "You are at row {{row}}, column {{column}}, facing east.",
+        "south": "You are at row {{row}}, column {{column}}, facing south.",
+        "west": "You are at row {{row}}, column {{column}}, facing west."
+      },
+      "threats": { "none": "No enemy is currently visible." },
+      "threat": {
+        "xylox": {
+          "patrol": "Xylox is visible and patrolling.",
+          "observe": "Xylox is visible and watching you.",
+          "approach": "Xylox is visible and approaching you."
+        },
+        "unknown": {
+          "patrol": "A Nightmare presence is visible and patrolling.",
+          "observe": "A Nightmare presence is visible and watching you.",
+          "approach": "A Nightmare presence is visible and approaching you."
+        }
+      },
+      "latest_none": "No activity has occurred yet.",
+      "latest_event": "Latest event: {{activity}}",
+      "moves_none": "No movement direction is currently available.",
+      "moves_available": "Available movement directions: {{moves}}.",
+      "vitals": "Exploration does not display invented health or readiness values.",
+      "action_cost": "Moving or entering the exit advances the turn and nearby enemies; Inspect is free. Pause and Resume do not advance the turn.",
+      "visibility": "Dark or unknown cells are unseen. Dim remembered cells were seen earlier but are not currently visible."
+    },
+    "activity": {
+      "player": {
+        "moved": {
+          "north": "You moved north.",
+          "east": "You moved east.",
+          "south": "You moved south.",
+          "west": "You moved west."
+        }
+      },
+      "cell": { "revealed": "A new passage came into view." },
+      "enemy": {
+        "moved": "A Nightmare presence shifted nearby.",
+        "mode": {
+          "changed": {
+            "patrol": "A Nightmare presence returned to its patrol.",
+            "suspicious": "A Nightmare presence became suspicious.",
+            "alert": "A Nightmare presence became alert."
+          }
+        }
+      },
+      "key": { "collected": "You recovered a sigil." },
+      "exit": { "unlocked": "The exit awakened.", "entered": "You entered the awakened exit." },
+      "floor": { "completed": "You cleared the floor." },
+      "run": { "paused": "The climb was paused safely.", "resumed": "The climb resumed from saved state." },
+      "unknown": "The Tower changed.",
+      "empty": "The nightmare is still. Your next move begins the chronicle."
+    },
+    "deck": { "slot": { "1": "Deck Slot 1", "2": "Deck Slot 2", "3": "Deck Slot 3" } },
+    "enemy": { "xylox": { "name": "Xylox" }, "unknown": { "name": "Nightmare presence" } },
+    "objective": {
+      "recover": "Recover the nightmare sigil.",
+      "exit": "Reach the awakened exit.",
+      "progress": "{{collected}} / {{required}} sigils"
+    },
+    "warning": { "alert": "A Nightmare presence is approaching.", "suspicious": "A Nightmare presence is watching." },
+    "label": {
+      "title": "Nightmare Tower",
+      "floor": "Floor",
+      "turn": "Turn",
+      "deck": "Your Deck",
+      "chronicle": "Chronicle",
+      "player": "You",
+      "exploring": "Exploring"
+    },
+    "status": {
+      "active": "Active",
+      "paused": "Paused",
+      "completed": "Completed",
+      "defeated": "Defeated",
+      "abandoned": "Abandoned"
+    }
+  }
+}
