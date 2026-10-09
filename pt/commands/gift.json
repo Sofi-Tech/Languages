@@ -1,11 +1,11 @@
 {
   "GIFT_CATEGORY": "Cartas",
-  "GIFT_SLASH_DESC2": "Digite a quantidade de cafés que deseja dar.",
+  "GIFT_SLASH_DESC2": "Digite a quantidade de `{{eventItem}}` que deseja dar",
   "GIFT_WRONG_USAGE": "{{author}} Uso correto: `{{prefix}}gift <CodigoDaCarta>`",
   "INVALID_USER": "{{author}} Você não pode presentear **{{eventItem}}** para si mesmo",
   "INVALID_AMOUNT": "{{author}} Você não pode presentear uma quantidade negativa de itens",
   "PLAYER_NOT_EXISTS": "{{author}} Esse usuário não está registrado",
-  "GIFT_SUCCESSFUL": "{{author}} generosamente presenteou {{amount}} ☕ para {{user}}\n{{user}} recebeu {{recieveCount}} ☕ até agora",
-  "GIFT_SLASH_DESC": "Digite o usuário para o qual você deseja presentear com cafés.",
-  "NOT_ENOUGH_ITEM": "Você não tem {{amount}} cafés | Colete alguns dos drops"
+  "GIFT_SUCCESSFUL": "{{author}} presenteou **{{amount}}** **{{eventItem}}** para {{user}}\n{{user}} recebeu um total de **{{recieveCount}}** **{{eventItem}}**",
+  "GIFT_SLASH_DESC": "Escolha o usuário que você deseja presentear com {{eventItem}}",
+  "NOT_ENOUGH_ITEM": "{{author}} Você não tem **{{amount}}** **{{eventItem}}**"
 }
