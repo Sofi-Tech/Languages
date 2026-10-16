@@ -12,5 +12,7 @@
     "CARDS_LOCKED_SINCE": "{{author}} At least one of your selected cards was locked after this Massburn started, so it was cancelled. Please run the command again.",
     "SUCCESS": "{{author}} Successfully burned your selected cards",
     "BURN_REWARDS": "__Rewards__",
-    "MASSBURN_EXTRA_INFO": "By adding a prompt with Gen, tag or wishlist filters, you can specify which cards you want to burn"
+    "MASSBURN_EXTRA_INFO": "By adding a prompt with Gen, tag or wishlist filters, you can specify which cards you want to burn",
+    "NO_CLAIMED_CARDS": "You haven't claimed any cards yet",
+    "UNKNOWN_FILTER": "> **No filter like `{{filters}}` exists.** Try a valid filter: `gen`/`g` (e.g. `{{prefix}}mb gen>500`), `wl`/`w` (e.g. `{{prefix}}mb wl<10`), or a tag filter like `{{prefix}}mb t=<tagname>`."
 }

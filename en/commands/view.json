@@ -18,5 +18,14 @@
     "MOVES": "Abilities",
     "MOVES_FORMAT": "{{redOrGreen}} {{abilityEmoji}} `{{ability}}` - Potency **({{percentage}}%)**",
     "SPECIAL": "Special",
-    "VIEW_EXTRA_INFO": "If used without a card code, it will instead display your most recently obtained card. You can use the buttons to view stats, change the font, convert the card to 3D, or morph it."
+    "VIEW_EXTRA_INFO": "If used without a card code, it will instead display your most recently obtained card. You can use the buttons to view stats, change the font, convert the card to 3D, or morph it.",
+    "SLIDE_GOTO_BUTTON": "Go To",
+    "SLIDE_GOTO_LABEL": "Position (1-{{total}})",
+    "SLIDE_GOTO_PLACEHOLDER": "1-{{total}}",
+    "SLIDE_GOTO_TITLE": "Go to slide",
+    "SLIDE_GOTO_INVALID": "Enter a number between 1 and {{total}}.",
+    "SLIDESHOW_CLOSED": "Slideshow closed.",
+    "SLIDE_POSITION": "Card {{position}}/{{total}}",
+    "SLIDE_NOT_FOUND": "**{{code}}** — card not found.",
+    "SLIDE_BASE_STATS_FOOTER": "Base Stats: {{totalBaseStat}} — {{position}}"
 }
