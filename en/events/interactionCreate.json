@@ -3,6 +3,7 @@
   "APPEAL_ACCEPTED_FOOTER": "Appeal accepted by {{username}}",
   "APPEAL_DENIED": "After investigating your case we have come to the conclusion to reject your appeal. Your blacklisted status will not be overruled and all new appeals from here on out will be dismissed.\n\n- Sofi Management",
   "APPEAL_DENIED_FOOTER": "Appeal rejected by {{username}}",
+  "APPEAL_DENIED_REASON": "**Reason:** {{reason}}",
   "COMMAND_RUN_ERROR": "{{author}} An error has occurred trying to execute this command. Please try again",
   "NEGATIVE_VALUE_INVENTORY": "{{author}} Your inventory contains a negative value! Please contact the Developers in our Support Server to get this fixed \ndiscord.gg/sofi",
   "SERVER_BLACKLISTED": "{{author}} The server is blacklisted. Please contact us on discord.gg/sofi",
