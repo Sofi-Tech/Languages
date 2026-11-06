@@ -22,5 +22,6 @@
   "CATEGORY_DISABLED": "{{author}} This category has been disabled\nReason: `{{reason}}`",
   "COMMAND_DISABLED": "{{author}} This command has been disabled\nReason: `{{reason}}`",
   "NO_PERMISSIONS": "{{author}} I don't have sufficient permission to execute this command",
+  "GUILD_ONLY": "{{author}} This command can only be used in a server",
   "SERIES_DROP": "The vote has concluded!"
 }
