@@ -21,5 +21,6 @@
     "ALREADY_GUARDIAN": "> **That card is already a guardian**",
     "ONE_GUARDIAN": "> **You can only have 1 card set as a guild guardian at a time**",
     "OWNS_COMMANDER": "> **You already have a card set as commander. Clear that first**",
-    "GUARDIAN_SET": "> **Set `{{code}}` as guardian position {{position}}**"
+    "GUARDIAN_SET": "> **Set `{{code}}` as guardian position {{position}}**",
+    "SHUFFLE_RANK_LOST": "> **You are no longer a Founder or Guildmaster, so you cannot shuffle the guardians**"
 }

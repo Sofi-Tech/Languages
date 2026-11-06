@@ -50,5 +50,7 @@
   "TRADE_LOCKED": "{{author}} You cannot trade while your account is trade-locked. Visit our [Guide](<https://guide.sofi.gg/user-status#tradelock>) for detailed information about the trade-locked status.",
   "TRADELOCK_RESTRICTION": "Your activity in the bot is restricted by Trade Lock.",
   "TRADELOCK_VERIFY_COOLDOWN": "Keep playing for 2 weeks before trying verification.",
-  "TRADELOCK_VERIFY": "Use the Verify button in your sui or the DM we sent you."
+  "TRADELOCK_VERIFY": "Use the Verify button in your sui or the DM we sent you.",
+  "CARD_CHANGED": "{{author}} This card changed since you opened this. Run the command again.",
+  "CARDS_CHANGED": "{{author}} Some of these cards changed since you opened this. Run the command again."
 }
