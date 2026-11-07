@@ -22,5 +22,7 @@
   "COMMAND_DISABLED": "{{author}} This command has been disabled\nReason: `{{reason}}`",
   "COMPLETE_COMMAND": "{{author}} Complete the `{{command}}` command before proceeding",
   "NOT_YOUR_PROMPT": "{{author}} This prompt isn't yours",
-  "SESSION_CONFLICT": "{{author}} Someone else answered at the same moment. Please try again"
+  "SESSION_CONFLICT": "{{author}} Someone else answered at the same moment. Please try again",
+  "CORE_STILL_WORKING": "{{author}} Still working on that, give it a moment",
+  "CORE_UNAVAILABLE": "{{author}} Sofi is having trouble right now, try again in a moment"
 }
