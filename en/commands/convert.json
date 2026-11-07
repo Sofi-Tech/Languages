@@ -1,0 +1,7 @@
+{
+    "NO_CODE": "{{author}}, please provide a version token code to convert. Usage: `sconvert <code>`",
+    "NOT_OWNED": "{{author}}, the version token code you provided is either invalid or not in your collection.",
+    "NO_CHARACTER": "{{author}}, unable to find character data for this version token.",
+    "TOKEN_GONE": "{{author}}, that version token is no longer in your collection.",
+    "CONVERTED": "{{author}}, successfully converted your version token to a card!"
+}

@@ -1,5 +1,13 @@
 {
     "BANNER_DESCRIPTION": "Shows the players collection of banners",
     "BANNER_CATEGORY": "Cosmetics",
-    "BANNER_EXTRA_INFO": "Without prompts this command will show your banner collection, or with the name of another player their banner collection. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the \"{{prefix}}help filter\" command to see all available filters, but note that not all apply to banners. Additionally you can set your banner visibility for different servers for your user info"
+    "BANNER_EXTRA_INFO": "Without prompts this command will show your banner collection, or with the name of another player their banner collection. Using this command with additional prompts will show the collection with the specific filter already applied to it. Use the \"{{prefix}}help filter\" command to see all available filters, but note that not all apply to banners. Additionally you can set your banner visibility for different servers for your user info",
+    "FILTER_TOO_LONG": "{{author}} Filter string is too long. Please keep it under 1000 characters.",
+    "INVALID_CATEGORY": "{{author}} Invalid category. Valid categories are: {{categories}}",
+    "INVALID_EVENT_TAG": "{{author}} Invalid event tag. Valid event tags are: {{tags}}",
+    "NO_VALID_CODES": "{{author}} No valid banner codes entered.",
+    "ONE_DEFAULT_CODE": "{{author}} You can only enter one banner code while setting the default banner",
+    "DEFAULT_ALREADY_SET": "{{author}} Banner with code `{{code}}` is already selected as default banner",
+    "NOT_DEFAULT": "{{author}} Banner with code `{{code}}` is not set as default banner.",
+    "SERVER_SETTINGS_HELP": "{{author}}\n### Add Options:\n- **Default:** This option sets one of your banners as the default banner, meaning it will be displayed across all servers.\n  - *Example:* `default - ?code`\n- **Servers:** This option assigns multiple banners to different servers.\n  - *Example:* `{{serverId}} - ?code1 ?code2 ?code3`\n### Remove Options:\n- **Default:** This option removes the default banner from being displayed across all servers.\n  - *Example:* `default - ?code`\n- **None:** This option removes all servers associated with the given banner codes.\n  - *Example:* `none - ?code1, ?code2, ?code3`\n- **Servers:** This option removes specific banners from selected servers.\n  - *Example:* `{{serverId}} - ?code1 ?code2 ?code3`"
 }

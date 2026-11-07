@@ -21,5 +21,7 @@
     "CANCELLED": "The process has been cancelled",
     "CARD_IN_QUEST": "{{author}} That card is currently used in a quest and cannot be given away",
     "CARD_MANOR_STAFF": "{{author}} That card is assigned as your Manor Renovation staff and cannot be given away",
-    "GIVE_EXTRA_INFO": "The name of the player and the card code to give are required. Once both sides have accepted the give, the card will be added to their collection"
+    "GIVE_EXTRA_INFO": "The name of the player and the card code to give are required. Once both sides have accepted the give, the card will be added to their collection",
+    "GIVE_PARTIES": "{{owner}} ➜ {{receiver}}",
+    "NO_BOT_GIVE": "{{author}} You cannot give cards to a bot"
 }

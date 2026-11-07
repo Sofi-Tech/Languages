@@ -20,5 +20,10 @@
     "BURN_REWARDS":"__Rewards__",
     "SUCCESSFUL_CARD_BURN":"{{author}} Successfully burned your card",
     "QUEST_CARD":"{{author}} You cannot burn a card that is currently used in a quest",
-    "BURN_EXTRA_INFO":"Using this command without adding a card code will attempt to burn your most recently obtained card"
+    "BURN_EXTRA_INFO":"Using this command without adding a card code will attempt to burn your most recently obtained card",
+    "THREE_D_V2": "{{author}} 3D V2 cannot be burned",
+    "EFFECT_GONE": "{{author}}, that effect is no longer in your inventory.",
+    "EFFECT_BURNED": "{{author}}, successfully burned your effect!",
+    "TOKEN_GONE": "{{author}}, that version token is no longer in your collection.",
+    "TOKEN_BURNED": "{{author}}, successfully burned your version token!"
 }

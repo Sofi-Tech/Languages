@@ -33,5 +33,7 @@
   "CLAIMED": "Claimed",
   "OPEN_EXTRA_INFO": "These chests or guild packages can be obtained by various activities on Sofi",
   "CARD_POOL_TITLE": "Current Card Pool",
-  "CARD_POOL_FOOTER": "Page {{page}}/{{pages}}"
+  "CARD_POOL_FOOTER": "Page {{page}}/{{pages}}",
+  "NO_VOUCHERS": "{{author}} You don't have any vouchers to open!",
+  "NO_VERSION_VOUCHERS": "{{author}} You don't have any version vouchers to open!"
 }

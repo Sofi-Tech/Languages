@@ -38,5 +38,6 @@
     "UNLOCK_GEM_SLOT_CONFIRM": "Unlock a permanent wishlist channel slot for **{{cost}}** <:gemgame:862598030562033694>?",
     "GEM_SLOT_UNLOCKED_MESSAGE": "✅ Unlocked the gem wishlist channel slot for **{{cost}}** <:gemgame:862598030562033694>!",
     "GEM_SLOT_INFO": "**Gem slot** • Unlock a permanent extra slot for **{{cost}}** <:gemgame:862598030562033694>",
-    "GEM_SLOT_OWNED": "**Gem slot** • Unlocked, slot 2 is yours permanently"
+    "GEM_SLOT_OWNED": "**Gem slot** • Unlocked, slot 2 is yours permanently",
+    "SLOT_CHANNEL": "{{channel}}"
 }

@@ -1,0 +1,11 @@
+{
+    "INVALID_CODE": "{{author}}, invalid redemption code.",
+    "EXPIRED": "{{author}}, this code has expired.",
+    "ALREADY_REDEEMED": "{{author}}, you already redeemed this code.",
+    "ACCOUNT_TOO_NEW": "{{author}}, you cannot redeem this code as your account was created after the code.",
+    "NOT_VERIFIED": "{{author}}, you need to verify your account to redeem codes.",
+    "FAILED": "{{author}}, something went wrong. Try again later.",
+    "REDEEMED": "{{author}}, {{summary}}",
+    "NO_CODE": "{{author}}, please provide a code to redeem.",
+    "NO_CODE_SET": "{{author}}, please provide a code to set."
+}
