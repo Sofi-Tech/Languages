@@ -27,5 +27,7 @@
     "SLIDESHOW_CLOSED": "Slideshow closed.",
     "SLIDE_POSITION": "Card {{position}}/{{total}}",
     "SLIDE_NOT_FOUND": "**{{code}}** — card not found.",
-    "SLIDE_BASE_STATS_FOOTER": "Base Stats: {{totalBaseStat}} — {{position}}"
+    "SLIDE_BASE_STATS_FOOTER": "Base Stats: {{totalBaseStat}} — {{position}}",
+    "BANNER_BODY": "{{category}} • **{{code}}** • `{{gen}}` • *Owned By:* {{owner}}",
+    "MENTION": "{{user}}"
 }

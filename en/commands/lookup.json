@@ -20,5 +20,6 @@
     "LU_FUSED": "**Fused**",
     "UPCOMING_EVENT": "Upcoming Event",
     "NO_OWNER_FOUND": "Nobody owns a **2D** variant of this character yet",
-    "LOOKUP_EXTRA_INFO": "You can look up any given character, or without a prompt the most recent character in your collection."
+    "LOOKUP_EXTRA_INFO": "You can look up any given character, or without a prompt the most recent character in your collection.",
+    "OWNER_LINE": "`G•{{print}}` • `{{age}}` • {{owner}}"
 }
