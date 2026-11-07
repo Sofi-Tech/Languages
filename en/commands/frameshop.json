@@ -37,5 +37,7 @@
     "FP_MENU_PLACEHOLDER": "Select a Frame Pack",
     "EDIT_DESC_SUCCESSFUL": "{{author}} Successfully set the selected description for your **Frame**",
     "FRAME_DESCRIPTION": "\nArtist: **{{artist}}**\nCode: `{{code}}`\nPrice: **{{price}}**\nCategory: **{{category}}**\n\n```fix\n{{description}}\n```",
-    "FRAMESHOP_EXTRA_INFO": "Frames displayed in the shop will rotate on a set interval, after which they become unavailable for purchase. Official Frames can be purchased an unlimited amount of times, while community made Frames have a limited stock"
+    "FRAMESHOP_EXTRA_INFO": "Frames displayed in the shop will rotate on a set interval, after which they become unavailable for purchase. Official Frames can be purchased an unlimited amount of times, while community made Frames have a limited stock",
+    "LISTED_FRAME": "{{bullet}} `{{code}}` - `{{count}}` - **[{{name}}]({{url}})**\n{{arrow}} `{{lastAvail}}` - {{artist}}",
+    "EDIT_DESC_ERROR_QUOTE": "> {{author}} **{{error}}**"
 }

@@ -2,5 +2,6 @@
   "EVENTSTATS_DESCRIPTION": "This command will display a leaderboard for Event card submissions made by Sofi staff",
   "ES_CATEGORY": "Settings",
   "EMBED_TITLE": "SOFI: EVENTSTATS ({{eventName}})",
-  "EVENT_MENU_PLACEHOLDER": "Select an Event"
+  "EVENT_MENU_PLACEHOLDER": "Select an Event",
+  "ARTIST_ROW": "**{{rank}}.** {{user}} — `{{count}}`"
 }
