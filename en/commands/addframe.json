@@ -1,0 +1,9 @@
+{
+    "NO_FRAMES": "> {{author}} **No frames found**",
+    "ASK_NAME": "{{author}}Please provide the name of the frame.",
+    "ASK_DESCRIPTION": "{{author}} Please provide the description of the frame.",
+    "ASK_URL": "{{author}} Please provide a valid Discord URL of the frame.",
+    "ASK_PRICES": "{{author}} give id/amount, format- `40/50, 41/50, 8/100`",
+    "ASK_CONFIRM": "{{author}} Type yes/no to upload.",
+    "UPLOADED": "{{author}} Uploaded."
+}
