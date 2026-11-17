@@ -1,0 +1,6 @@
+{
+    "WRONG_USAGE": "**{{author}} | Wrong usage. Correct Usage: `sasf <ChestName/Mail> <URL> [VoteImage] <Name | Description>`**",
+    "WRONG_CHEST": "**{{author}} | Wrong chest name. You can only provide `exotic` & `divine` as the chest name.**",
+    "NAME_TOO_LONG": "**{{author}} | The name of the frame cannot contain more than `15 characters`.**",
+    "WRONG_SIZE": "**{{author}} | The size of the frame must be `402x603`**"
+}
