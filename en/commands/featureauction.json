@@ -1,0 +1,9 @@
+{
+    "SELLER": "Seller: {{seller}}",
+    "WINNER": "Winner - {{winner}}",
+    "BID_PLACED": "A new bid of {{amount}} {{emoji}} has been placed by {{user}}.",
+    "BID_OUTBID": "A new bid of {{amount}} {{emoji}} has been placed by {{user}}. This outbids the previous bid of {{oldAmount}} {{emoji}} by {{previous}}",
+    "ENDED_REFUND": "Auction ended for {{code}}. {{amount}} {{emoji}} is added back to {{user}}.",
+    "END_DONE_REFUND": "The auction has been ended. The {{amount}} {{emoji}} has been added back to {{user}}.",
+    "RESET_DONE_REFUND": "The auction has been reset. The {{amount}} {{emoji}} has been added back to {{user}}."
+}
